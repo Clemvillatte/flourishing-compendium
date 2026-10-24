@@ -32,7 +32,7 @@ The mechanism is motivational: "constraints on time horizons shift motivational 
 
 The malleability claim is the practical part. Imagine someone preparing to leave a city: with only a few days remaining, they might choose time with close friends over an event offering new acquaintances. This illustrates the theory's limited-time prediction ([1999](https://pubmed.ncbi.nlm.nih.gov/10199217/), [2006](https://pubmed.ncbi.nlm.nih.gov/16809530/) abstracts); it is not a reported study result.
 
-### In the compendium
+### Here
 
 - [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — the principle whose psychology parallel is this theory: it concerns motivation across the life span
 - [[SE075 — Recognise self and ageing — self continues to develop]] — the principle that uses the theory's later experience-sampling findings on emotional well-being

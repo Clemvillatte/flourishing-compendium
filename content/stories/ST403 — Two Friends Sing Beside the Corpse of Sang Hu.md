@@ -16,7 +16,7 @@ Before the funeral, Confucius hears of it and sends his disciple Zigong to help.
 
 Zigong goes back and reports with alarm that they treat their own bodies as something unconnected to them, and sing without any change of expression. Confucius, in this telling, admits he made a mistake in sending him: the two men roam beyond the bounds and he roams within them. They are companions of the Creator, and for them death is like lancing a boil. Asked what his own guide is, he says: "As for me, I am among those who suffer the punishment of Heaven." In Legge: "I am in this under the condemning sentence of Heaven." Yet he shares a guiding image: fish forget themselves in rivers and lakes, and people forget themselves in the arts of the Dao ([Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content); [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-The compendium reads this beside D090. The song does not deny that Zisanghu has died. It says he has returned, and it says in the same line that the singers are still here.
+I read this beside D090. The song does not deny that Zisanghu has died. It says he has returned, and it says in the same line that the singers are still here.
 
 Limits: we see only the friends' public conduct, never their private grief. It is Confucius, a figure the authors use as a mouthpiece, who explains them, and he explains himself as someone who cannot do what they do. The story offers no guidance for a person whose own bereavement is raw. The nearby tale of Zhuangzi's wife in chapter 18 has Zhuangzi ask himself whether he could "be singular and not affected" at first (Legge), and this one does not say whether the friends were.
 

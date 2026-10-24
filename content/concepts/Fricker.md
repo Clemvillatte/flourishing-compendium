@@ -15,7 +15,7 @@ Fricker is Miranda Fricker, the philosopher who gave epistemic injustice its nam
 
 Fricker's own summary: testimonial injustice is caused by prejudice in the economy of credibility, hermeneutical injustice by structural prejudice in the economy of collective hermeneutical resources. Her examples: the police not believing you because you are black; suffering sexual harassment in a culture that still lacks that critical concept. The book also constructs two hybrid ethical-intellectual virtues of epistemic justice, testimonial and hermeneutical, aimed at forestalling the harms.
 
-### In the compendium
+### Here
 
 - [[SO042 — Treat epistemic injustice as a real harm]] — the principle built on Fricker's distinction
 

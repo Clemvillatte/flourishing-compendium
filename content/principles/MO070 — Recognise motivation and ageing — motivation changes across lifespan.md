@@ -27,7 +27,7 @@ And the age connection, from the abstract:
 (Carstensen, Isaacowitz & Charles, 1999, "Taking Time Seriously: A Theory of Socioemotional Selectivity," American Psychologist, 54(3).)
 
 **Plain words**
-Socioemotional selectivity theory concerns priorities among social goals. It links open-ended time with knowledge-seeking and limited time with emotional meaning. The compendium uses this distinction to review a recent social choice. Ask what you wanted from it, then consider whether your sense of future time played a part. Leave other explanations open.
+Socioemotional selectivity theory concerns priorities among social goals. It links open-ended time with knowledge-seeking and limited time with emotional meaning. I use this distinction to review a recent social choice. Ask what you wanted from it, then consider whether your sense of future time played a part. Leave other explanations open.
 
 *For example:* Suppose you are deciding between an event where you could meet new people and an evening with a close friend. Compare what matters to you in each option, then consider whether your sense of future time is relevant to your preference.
 

@@ -25,7 +25,7 @@ The Bayesian-brain idea is most often worked out as predictive processing. The S
 
 The entry adds that active inference is a version of predictive processing that hypothesises the brain uses Bayesian calculations to minimise free energy, consisting of discrepancies between expectations and actual observations, and that organisms survive when brains reduce prediction errors by changing their models of the environment or by changing the environment through action. The entry also records challenges: whether brain functioning is really Bayesian updating rather than connectionist constraint satisfaction or deep reinforcement learning, and whether the account subsumes pattern recognition, explanation, emotional evaluation, memory and communication.
 
-### In the compendium
+### Here
 
 - [[CO001 — Understand that cognition is predictive, not passive]] — the principle takes the predictive-processing reading of cognition as a starting point.
 

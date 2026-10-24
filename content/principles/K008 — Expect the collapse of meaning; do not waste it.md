@@ -23,7 +23,7 @@ On pages 4-5, Nishitani describes a conversion from a self-centered mode of bein
 
 **Plain words** You might have clear reasons for pursuing a goal yet struggle to say what makes the whole effort worthwhile. Nishitani examines what happens when that question becomes a personal concern.
 
-*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. The compendium's exercise is to write down the questions you cannot yet answer.
+*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. My exercise is to write down the questions you cannot yet answer.
 
 ## Psychology parallels
 

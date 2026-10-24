@@ -20,7 +20,7 @@ In On Anger III.36, Seneca describes Sextius questioning his spirit on retiring 
 
 > The spirit ought to be brought up for examination daily. (Seneca, On Anger 3.36, [Stewart](https://en.wikisource.org/wiki/Of_Anger/Book_III))
 
-The compendium combines these passages into a suggested routine: prepare for a difficult encounter, then return to it afterwards to examine your conduct. Give each step a regular place in the day.
+I combine these passages into a suggested routine: prepare for a difficult encounter, then return to it afterwards to examine your conduct. Give each step a regular place in the day.
 
 (Med. II.1; Seneca, On Anger 3.36.)
 

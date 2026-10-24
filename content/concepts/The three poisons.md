@@ -28,7 +28,7 @@ The "poison" image is a common rendering of the three roots. The sutta quoted he
 - **as psychology** — Flanagan, The Bodhisattva's Brain
 - **cousin: the three desire classes** — Buddhist tradition, distinct content
 
-### In the compendium
+### Here
 
 - [[K029 — Take the three poisons as practice material]]
 - [[B016 — Know the three root poisons]]

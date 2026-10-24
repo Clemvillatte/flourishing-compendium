@@ -30,7 +30,7 @@ The same attention shows up at the hard part of the work:
 >
 > (Zhuangzi, chapter 3)
 
-The compendium's exercise from these passages: during an activity, put attention on what the hands are doing, the sensations and the movement, rather than on the result or its evaluation.
+My exercise from these passages: during an activity, put attention on what the hands are doing, the sensations and the movement, rather than on the result or its evaluation.
 
 **Plain words**
 An activity has two layers you can watch: what you are doing, and what will come of it. The second layer is where the noise is: scores, judgments, comparisons. This principle says to put attention on the first layer while acting. The Gita's version: you hold the action, and the fruits are not yours to hold. The cook's version: eyes on what the blade is meeting, and at the complicated places, slow down and watch still more closely.

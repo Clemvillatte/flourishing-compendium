@@ -25,7 +25,7 @@ The chapter on emulation "turns to the practical side of exemplarism in the way 
 
 These are publisher abstracts of the book and two of its chapters, not the full text. The page therefore reports the shape of the theory and does not quote Zagzebski's arguments in detail. The phrase "moral knowledge through admired persons" is a loose summary. The abstracts speak of defining moral terms by reference to exemplars, and of moral development through emulation.
 
-### In the compendium
+### Here
 
 - [[D135 — Teach without words]] lists exemplarism as a Western parallel to teaching by example. The principle names the theory but does not quote Zagzebski, so the link rests on the shared idea that people learn goodness by watching admirable people.
 

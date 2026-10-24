@@ -27,7 +27,7 @@ And on his Stoic account the mind, once recollected, cannot be compelled from ou
 
 Hadot's wider work names the method: the repeated maxims and daily exercises of ancient philosophy. One of those maxims, which Hadot credits to Epictetus, states the doctrine plainly: "What troubles people is not things, but their judgments about things". The Stoics repeated such lines until the lines were ready at the moment of trouble. On this reading the citadel is maintained by use.
 
-### In the compendium
+### Here
 
 - [[S064 — Build the inner citadel]] — the concept made a practice
 - [[S001 — Distinguish what is up to you from what is not]] — the doctrine that draws the boundary

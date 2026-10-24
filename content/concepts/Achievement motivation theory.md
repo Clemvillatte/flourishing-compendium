@@ -19,14 +19,14 @@ The two motives do not simply add up. When fear of failure outweighs the achieve
 
 The theory is not a verdict on a person's worth or ability. Atkinson's own summary says that "A theoretical model is presented", so the paper offers a model of how two motives combine in evaluated situations, and the risk-preference pattern is a prediction of that model.
 
-### In the compendium
+### Here
 
 - [[MO019 — Learn to set approach goals, not avoidance goals]] — Elliot and McGregor's valence distinction: competence construed in terms of success or of failure.
 - [[SE039 — Cultivate possible selves — who could you become]] — Markus and Nurius's possible selves include what one is afraid of becoming, and such selves function as incentives.
 - [[PP015 — Cultivate hope as a process]] — Snyder's hope pairs pathways with the motivation to pursue them.
 - [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] — the principle distinguishes harsh self-criticism, which predicts worse outcomes, from supportive self-talk.
 - [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — Carstensen's socioemotional selectivity theory: the perception of time shapes the selection and pursuit of social goals.
-- [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — goal adjustment, not only pursuit, is the compendium's maintenance answer to stuck motivation.
+- [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — goal adjustment, not only pursuit, is my maintenance answer to stuck motivation.
 - [[SE051 — Recognise self-expansion — relationships and experiences expand the self]] — a different growth motive: expanding the self rather than meeting a standard of excellence.
 - [[A058 — Distinguish continence from virtue]] — Aristotle's continent man abides by the result of his calculations; the principle carries the cross-tradition parallel.
 

@@ -19,9 +19,9 @@ Nisbett and Wilson staged the same instructor on two videos, warm in one and col
 
 The same abstract reports that the subjects were unaware of the influence, and those who saw the cold instructor believed the direction of influence ran the other way, from disliked attributes to dislike of the man ([Nisbett and Wilson, 1977](https://web.mit.edu/curhan/www/docs/Articles/biases/35_J_Personality_Social_Psychology_250_(Nisbett).pdf)). Thorndike's own remedy was procedural: the observer should report the evidence, not a rating, and the rating for each quality should be given separately, without knowledge of the evidence concerning any other quality in the same individual ([Thorndike, 1920](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Thordike1920.pdf), p. 29).
 
-### In the compendium
+### Here
 
-- [[CO036 — Recognise the halo effect — one trait colours the whole judgment]]: the compendium's principle built on this research
+- [[CO036 — Recognise the halo effect — one trait colours the whole judgment]]: my principle built on this research
 
 ## Related concepts
 

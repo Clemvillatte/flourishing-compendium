@@ -18,9 +18,9 @@ Wrathall distinguishes ontological inquiries from ontic sciences and describes B
 
 Western metaphysics, on Heidegger's account, reduced Being to a being: idea in Plato, substantia in the medievals, objectivity in modernity, will to power in Nietzsche ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). This is the forgetfulness of Being, the oblivion of the distinction itself ([Korab-Karpowicz, IEP](https://iep.utm.edu/heidegge/)). Contributions to Philosophy (1936-38) is Dahlstrom's example of Heidegger's most sustained attempt to rethink being historically ([Dahlstrom](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)). There the leading metaphysical question, "What is being?", is replaced by the fundamental question, "what is the ground of being?", and Heidegger employs the old German spelling Seyn as a synonym for that ground ([Dahlstrom](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)). Dahlstrom also notes that in the Contributions Heidegger cautions against overreliance upon the ontological difference, given the traditional tendency to identify the being of beings with their presence ([Dahlstrom](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf)).
 
-### In the compendium
+### Here
 
-E100 "Practise the ontological difference" is the compendium's version: do not confuse your understanding of particular things with an understanding of Being itself, citing Being and Time and Introduction to Metaphysics. E101 "Practise the critique of technology" discusses beings encountered as standing-reserve. E036 "Practise shame as ontological" uses "ontological" for Sartre's account of being-for-others.
+E100 "Practise the ontological difference" is my version: do not confuse your understanding of particular things with an understanding of Being itself, citing Being and Time and Introduction to Metaphysics. E101 "Practise the critique of technology" discusses beings encountered as standing-reserve. E036 "Practise shame as ontological" uses "ontological" for Sartre's account of being-for-others.
 
 ## Related concepts
 

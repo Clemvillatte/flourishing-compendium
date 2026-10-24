@@ -27,7 +27,7 @@ For depression the authors suggest that the style "may so intensify the experien
 
 These findings are correlations from questionnaires, mostly in Japan and Australia and with university students. The seed phrase "predicts distress and interpersonal dysfunction" goes further than the review, which did not combine the effect sizes and calls for studies in Western samples. It also notes one exception to the pattern, a link with emotional intelligence that disappeared once coping was included.
 
-### In the compendium
+### Here
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)]] lists the concept as a psychological comparison for Zhuangzi's teaching that "both sides of the question are admissible". The principle does not cite this review, so the link is thematic.
 

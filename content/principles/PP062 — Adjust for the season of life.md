@@ -16,7 +16,7 @@ Stone and colleagues analysed a 2008 US telephone survey of 340,847 people. They
 
 Carstensen and colleagues followed adults for ten years with experience sampling. They report that "aging is associated with more positive overall emotional well-being, with greater emotional stability and with more complexity (as evidenced by greater co-occurrence of positive and negative emotions)" (Carstensen et al., 2011, Psychology and Aging, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20973600/)). Ryff's review lists how "well-being changes across adult development and later life" as one of six research areas and finds that psychological well-being has "health protective features" (Ryff, 2014, Psychotherapy and Psychosomatics, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24281296/)).
 
-None of these abstracts tests what happens during illness or isolation, or shows that the basic principles stay fixed while the practices change. That part of the principle remains the wiki's own reasoning.
+None of these abstracts tests what happens during illness or isolation, or shows that the basic principles stay fixed while the practices change. That part of the principle remains my own reasoning.
 
 **Plain words**
 Needs and moods shift across a life. Stress and anger tend to ease with age, and many people feel better after fifty. Check which of your practices still fit your age and circumstances, and adjust them without lowering the standard.

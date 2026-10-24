@@ -23,7 +23,7 @@ Hutchins's distributed cognition makes the same move at group scale, in studies 
 
 The thesis has critics. Adams and Aizawa argue that notebook entries and written numerals carry only derived content, unlike the "intrinsic, non-derived content" of thought, and that a science of brain-plus-tools "would have to cover a genuine motley". Rupert asks why implements should count as constituents of a cognitive system rather than as tools: "An axe does not become part of a person when she uses it to chop down a tree". The encyclopedia notes the constitution thesis is not committed to the absurd versions.
 
-### In the compendium
+### Here
 
 P144, "Let cognition extend into the environment," and CO006, "Recognise that thinking is socially distributed — you think with others," carry the two halves of the thesis, and SO034, "Treat knowledge as social," is its epistemic version. ST132, the Blind Man's Cane story, illustrates the perceptual version: the cane as part of the seeing system. D178, "Use tools without belonging to them," is the productive Daoist counterweight. The extended-mind thesis says the cane is part of you; D178 says it is not you; the disagreement locates the self's boundary, and that tension is a comparison, not a documented debate.
 

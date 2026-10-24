@@ -7,7 +7,7 @@ file: "Embodied social identity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze ([Fanon, The Fact of Blackness](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduates/pgmodules/theoryfromthemargins/syllabus/factofblackness_fanon.pdf)), and Cross's model of Black identity development ([Wikipedia, William E. Cross Jr.](https://en.wikipedia.org/wiki/William_E._Cross,_Jr.)).
+I anchor embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze ([Fanon, The Fact of Blackness](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduates/pgmodules/theoryfromthemargins/syllabus/factofblackness_fanon.pdf)), and Cross's model of Black identity development ([Wikipedia, William E. Cross Jr.](https://en.wikipedia.org/wiki/William_E._Cross,_Jr.)).
 
 The chapter opens with the words "Dirty nigger!" Or simply, "Look, a Negro!"; in the train scene a child cries "Mama, see the Negro! I'm frightened!" (Fanon, [The Fact of Blackness](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduates/pgmodules/theoryfromthemargins/syllabus/factofblackness_fanon.pdf)). The chapter continues: "I came into the world imbued with the will to find a meaning in things, my spirit filled with the desire to attain to the source of the world, and then I found that I was an object in the midst of other objects" (Fanon, [The Fact of Blackness](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduates/pgmodules/theoryfromthemargins/syllabus/factofblackness_fanon.pdf)). The analysis follows: "assailed at various points, the corporeal schema crumbled, its place taken by a racial epidermal schema" (Fanon, [The Fact of Blackness](https://warwick.ac.uk/fac/arts/english/currentstudents/postgraduates/pgmodules/theoryfromthemargins/syllabus/factofblackness_fanon.pdf)). The overdetermination follows:
 
@@ -17,7 +17,7 @@ The gaze dissects: "I am being dissected under white eyes, the only real eyes. I
 
 William Cross's 1971 model describes "a five-stage theory of acquisition of Black identification" he called Nigrescence, "the process of becoming Black" — Pre-encounter, Encounter, Immersion/Emersion, Internalization, Internalization-Commitment ([Wikipedia, William E. Cross Jr.](https://en.wikipedia.org/wiki/William_E._Cross,_Jr.)).
 
-### In the compendium
+### Here
 
 - [[E078 — Practise situated embodiment and gender]] — the situated reading of the body
 - [[SE006 — Know that the self is embodied — the body is part of who you are]] — the embodied self this identity lives in

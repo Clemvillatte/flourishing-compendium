@@ -28,7 +28,7 @@ The delayed train read as dead time, then re-read as the last unclaimed half-hou
 
 Its social-cognitive sibling is [[Perspective-taking]], reappraisal of the event through another's model of it.
 
-### In the compendium
+### Here
 
 - [[S003 — Recognise that you are disturbed not by things but by your judgements about them]] — the Stoic source
 - [[S051 — Recognise that your judgements are the source of your distress]] — judgements as the lever

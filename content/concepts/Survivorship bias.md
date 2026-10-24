@@ -19,7 +19,7 @@ In the Second World War, the Statistical Research Group at Columbia University, 
 
 ### Why a writer on flourishing would care
 
-Advice on living well is the most survivorship-biased literature there is: the people whose choices failed do not write the books. The compendium's use of the concept is as a standing check: when reading a success story, ask who is missing from the sample. The page's earlier source list named Merton & Barber (2004) and Taleb (2007); the sources behind this page document the Wald case and the definition.
+Advice on living well is the most survivorship-biased literature there is: the people whose choices failed do not write the books. My use of the concept is as a standing check: when reading a success story, ask who is missing from the sample. The page's earlier source list named Merton & Barber (2004) and Taleb (2007); the sources behind this page document the Wald case and the definition.
 
 ## Related concepts
 

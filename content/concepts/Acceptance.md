@@ -15,7 +15,7 @@ Acceptance, in the sense used by Acceptance and Commitment Therapy (ACT), is the
 
 The same paper is explicit that acceptance is instrumental: "Acceptance (and defusion) in ACT is not an end in itself. Rather acceptance is fostered as a method of increasing values-based action" (p. 8). Acceptance is one of the processes ACT trains toward psychological flexibility, "the ability to contact the present moment more fully as a conscious human being, and to change or persist in behavior when doing so serves valued ends" (p. 7).
 
-### In the compendium
+### Here
 
 - [[E022 — Practise thrownness (Geworfenheit)]] — the ACT acceptance concept grounds the page's response to what cannot be chosen
 - [[S001 — Distinguish what is up to you from what is not]] — the Stoic parallel: the changeable/unchangeable distinction that ACT's acceptance operationalizes

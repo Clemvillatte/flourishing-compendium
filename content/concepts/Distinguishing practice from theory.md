@@ -13,9 +13,9 @@ The mistake is what happens after crossing ([Thanissaro translation, MN 22](http
 
 > In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas. ([Thanissaro translation, MN 22](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html))
 
-The compendium applies the simile as an analogy to the practice/theory distinction: a teaching is a crossing device, and its worth shows in the crossing, not in the carrying. That application is the compendium's, not the sutta's stated distinction.
+I applie the simile as an analogy to the practice/theory distinction: a teaching is a crossing device, and its worth shows in the crossing, not in the carrying. That application is my, not the sutta's stated distinction.
 
-### In the compendium
+### Here
 
 - [[BI011 — Know that polyvagal theory is popular but contested — practices may work without the theory]] — the principle of practices outliving their theories
 - [[SE068 — Recognise the limits of self-development — not everything is fixable]] — a fact the practice has to face rather than theorize away

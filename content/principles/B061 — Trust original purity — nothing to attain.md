@@ -26,7 +26,7 @@ Bankei's lecture makes a parallel claim about the mind's ordinary working. What 
 > "What you all have from your parents innately is the Unborn Buddha Mind alone. There's nothing else you have innately." (Bankei, [Dharma Zen Center](https://www.dharmazen.com/dharma-talks/2025/12/5/a-lecture-from-bankei-yotaku))
 
 **Plain words**
-The evidence is in your ears right now: sounds arrive and you tell them apart without managing anything. You can treat that as a running demonstration, and ask what you add on top of it: the commentary, the grading of yourself, the plan to improve. The compendium's exercise is to notice the adding, and try stopping it without stopping the listening.
+The evidence is in your ears right now: sounds arrive and you tell them apart without managing anything. You can treat that as a running demonstration, and ask what you add on top of it: the commentary, the grading of yourself, the plan to improve. My exercise is to notice the adding, and try stopping it without stopping the listening.
 
 *For example:* Imagine noticing mid-conversation that you are grading your own performance. The grading is an addition; the listening does not depend on it.
 

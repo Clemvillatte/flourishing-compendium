@@ -46,12 +46,12 @@ The [SEP entry](https://plato.stanford.edu/entries/behaviorism/) presents Chomsk
 
 The entry is careful not to call this a refutation: "Paul Meehl noted decades ago that theories in psychology seem to disappear not under the force of decisive refutation but rather because researchers lose interest in their theoretical orientations" ([SEP](https://plato.stanford.edu/entries/behaviorism/)). And the school is not gone: "But by no means has behaviorism disappeared. Robust elements of behaviorism survive in both behavior therapy and laboratory-based animal learning theory" ([SEP](https://plato.stanford.edu/entries/behaviorism/)).
 
-### In the compendium
+### Here
 
-The compendium links the school to four principles, each as a comparison rather than a claimed influence.
+I link the school to four principles, each as a comparison rather than a claimed influence.
 
 - [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] — collects experimental evidence that people often reconstruct rather than read off the reasons for their responses; a research-grounded echo of Watson's suspicion of introspective reports, though the principle does not reject introspection wholesale
-- [[B185 — Water the good seeds]] — Hanh's model of seeds growing stronger each time they are watered; the principle's own psychology parallels name reinforcement, and the resemblance to conditioning is the compendium's comparison
+- [[B185 — Water the good seeds]] — Hanh's model of seeds growing stronger each time they are watered; the principle's own psychology parallels name reinforcement, and the resemblance to conditioning is my comparison
 - [[B029 — Follow the gradual training]] — the path as a staircase of small steps; a comparison about practice in stages, without identifying gradual Buddhist training with conditioning
 - [[P034 — Know that every view is from somewhere]] — every view has a position and history; read next to Watson, that suspicion extends to the view from inside one's own head
 

@@ -15,7 +15,7 @@ The iPhone application contacted participants at random moments during waking ho
 
 ### The older method behind it
 
-The phenomenological arm is older than the smartphone. The compendium's E-principles carry it as a practice: E001 and E003 practise the reduction and the natural attitude's suspension, E006 the epoché in daily life, E012 the reduction as ongoing rather than once-for-all, E004 the lifeworld the reduction discloses; ST260's Brentano gives the direction of intentionality the whole method rests on; B043's vipassana is the contemplative first-person observer; P004 starts from experience rather than theory and A044 learns from it; P190's precariousness-and-stability is the kind of structure the method finds.
+The phenomenological arm is older than the smartphone. My E-principles carry it as a practice: E001 and E003 practise the reduction and the natural attitude's suspension, E006 the epoché in daily life, E012 the reduction as ongoing rather than once-for-all, E004 the lifeworld the reduction discloses; ST260's Brentano gives the direction of intentionality the whole method rests on; B043's vipassana is the contemplative first-person observer; P004 starts from experience rather than theory and A044 learns from it; P190's precariousness-and-stability is the kind of structure the method finds.
 
 - [[P004 — Start from experience, not from theory]] — the methodological rule as principle
 - [[B043 — Develop insight (vipassana)]] — the contemplative first-person observer

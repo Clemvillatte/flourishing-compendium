@@ -7,7 +7,7 @@ file: "The vanity of desire"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The vanity of desire is Schopenhauer's charge in The World as Will and Representation: that wanting promises a satisfaction it cannot deliver, and that this failure is structural rather than a run of bad luck. The concept is the compendium's bridge between the philosophical diagnosis of craving and the psychological study of it, hedonic adaptation.
+The vanity of desire is Schopenhauer's charge in The World as Will and Representation: that wanting promises a satisfaction it cannot deliver, and that this failure is structural rather than a run of bad luck. The concept is my bridge between the philosophical diagnosis of craving and the psychological study of it, hedonic adaptation.
 
 ### The argument in his own words
 
@@ -27,7 +27,7 @@ Then the endlessness, which is what makes the vanity structural:
 
 And the conclusion, which the pendulum image (see [[The pendulum of desire]]) completes: "nothing at all is worth our striving, our efforts, or our struggles, and that all good things are but empty vanity" ([WWR, quoted in Beer, Project Gutenberg](https://www.gutenberg.org/cache/epub/47136/pg47136-images.html)).
 
-### Why the compendium keeps it
+### Why I keep it
 
 The claim matters because its modern counterpart is measurable. Affective-forecasting research finds an impact bias: "People base many decisions on affective forecasts, predictions about their emotional reactions to future events. They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events" ([Wilson and Gilbert 2005](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/wilson-gilbert-cdips2005.pdf)). That is Schopenhauer's vanity of desire in laboratory terms: the anticipated satisfaction is systematically miscalculated. See [[AF007 — Recognise affective forecasting errors; expect hedonic adaptation]] for the practice built on that evidence.
 

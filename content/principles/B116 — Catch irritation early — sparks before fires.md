@@ -19,7 +19,7 @@ The Dhammapada treats anger as something that can be checked while it is still m
 >
 > — Dhammapada 222 ([Buddharakkhita, AccessToInsight](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
 
-**Plain words** The compendium's title for this principle names the charioteer's check. The verse gives the action: you do not let anger keep rolling forward unchecked. What that looks like in daily life is left to the reader's own situation.
+**Plain words** My title for this principle names the charioteer's check. The verse gives the action: you do not let anger keep rolling forward unchecked. What that looks like in daily life is left to the reader's own situation.
 
 For example: a text message arrives that reads as a slight. The reader notices an angry reply forming and decides not to send it immediately. The reply is written later, or not written.
 

@@ -31,7 +31,7 @@ The life-span side of the theory names five stages: growth in childhood, explora
 
 The theory's practical instrument is the Rainbow assessment. An ERIC digest describes the procedure: "clients are asked to develop their current and ideal LCRs", and where there are discrepancies between the two, "clients are then directed to discuss plans to attain ideal LCR" and the barriers in the way. The underlying assumption, as a textbook summary cited by the NCDA article puts it, is "that career choice is a developmental process spanning one's entire life rather than a single decision".
 
-### In the compendium
+### Here
 
 - [[B001 — Face suffering directly]]
 - [[D039 — Make rest the root of activity]]

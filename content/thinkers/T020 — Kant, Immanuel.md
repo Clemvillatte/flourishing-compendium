@@ -32,8 +32,8 @@ In Perpetual Peace, the third definitive article states: "The rights of men, as 
 - **Persons as ends** — the humanity formulation: "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only," because "rational nature exists as an end in itself" ([Groundwork, Abbott](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf)). See [[Persons as ends]], [[Dignity]], [[Respect]].
 - **Autonomy as the critical idea** — the same self-legislation extended to knowledge: "the human understanding is the source of the general laws of nature that structure all our experience" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)). See [[Autonomy]], [[Self-legislation]].
 - **Cosmopolitan right and hospitality** — a right of strangers, not benevolence: "hospitality signifies the claim of a stranger entering foreign territory to be treated by its owner without hostility" ([Perpetual Peace](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)). See [[Cosmopolitanism]], [[Hospitality]], [[Cosmopolitan care]].
-- **The sublime and aesthetic judgement** — the Critique of the Power of Judgment (1790) closes the critical system, carrying the account of disinterested pleasure by which the wiki treats beauty and the sublime ([SEP, Kant](https://plato.stanford.edu/entries/kant/)). See [[The sublime]], [[Disinterested aesthetic pleasure]].
-## Connection to the compendium
+- **The sublime and aesthetic judgement** — the Critique of the Power of Judgment (1790) closes the critical system, carrying the account of disinterested pleasure by which I treat beauty and the sublime ([SEP, Kant](https://plato.stanford.edu/entries/kant/)). See [[The sublime]], [[Disinterested aesthetic pleasure]].
+## Connection to me
 
 - [[The categorical imperative]]
 - [[Persons as ends]]
@@ -41,7 +41,7 @@ In Perpetual Peace, the third definitive article states: "The rights of men, as 
 - [[Cosmopolitanism]]
 - [[Dignity]]
 
-## Everything connected in the wiki — the Kantian tradition
+## Everything connected here — the Kantian tradition
 
 Kept to the pages that carry Kant's ideas; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

@@ -21,17 +21,17 @@ The passage also notes that within logotherapy "spiritual" does not have a prima
 
 > "It is obvious that in noögenic cases the appropriate and adequate therapy is not psychotherapy in general but rather logotherapy; a therapy, that is, which dares to enter the spiritual dimension of human existence." (Frankl, The Will to Meaning, [excerpt](https://www.panarchy.org/frankl/meaning.html))
 
-The concept arrives in the book's discussion of existential frustration: "Man's will to meaning can also be frustrated, in which case logotherapy speaks of 'existential frustration'" (same excerpt). The distinction matters for anyone trying to tell suffering apart from malfunction. A person can be working badly at the psychological level, or can be working well and still starving for meaning, and the two call for different responses. The compendium's principle on noogenic-neurosis awareness uses the concept as a screening question: before treating a condition of the mind, ask whether the trouble lies in the dimension of meaning — in values in conflict, in an aspiration to a meaningful existence with nowhere to put it. Frankl's claim is not that such cases are imaginary, but that they are misdiagnosed when read as drive conflicts.
+The concept arrives in the book's discussion of existential frustration: "Man's will to meaning can also be frustrated, in which case logotherapy speaks of 'existential frustration'" (same excerpt). The distinction matters for anyone trying to tell suffering apart from malfunction. A person can be working badly at the psychological level, or can be working well and still starving for meaning, and the two call for different responses. My principle on noogenic-neurosis awareness uses the concept as a screening question: before treating a condition of the mind, ask whether the trouble lies in the dimension of meaning — in values in conflict, in an aspiration to a meaningful existence with nowhere to put it. Frankl's claim is not that such cases are imaginary, but that they are misdiagnosed when read as drive conflicts.
 
-### In the compendium
+### Here
 
 - [[E065 — Practise noogenic neurosis awareness]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[The will to meaning]] — the compendium's page on the will to meaning
-- [[Meaning-centred therapy]] — the compendium's page on meaning-centred therapy
-- [[Existential meaning]] — the compendium's page on existential meaning
+- [[The will to meaning]] — my page on the will to meaning
+- [[Meaning-centred therapy]] — my page on meaning-centred therapy
+- [[Existential meaning]] — my page on existential meaning
 - [[Logotherapy]] — Frankl's school, the framework behind this idea
 
 ## Sources

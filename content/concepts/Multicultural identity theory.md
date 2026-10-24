@@ -17,13 +17,13 @@ Berry's four strategies fall out of two questions: keep the heritage culture? en
 
 The empirical payoff, in the same paper: "Generally, those pursuing the integration strategy experience less stress, and achieve better adaptations than those pursuing marginalisation; the outcomes for those pursuing assimilation and separation experience intermediate levels of stress and adaptation." Integration is not assimilation by a longer name; as Berry puts it, "assimilation and integration are distinct concepts, involving differing attitudes and behaviors."
 
-The compendium's [[SE040 — Recognise identity and culture — your self is culturally shaped]] and [[R111 — Practise the recognition of difference]] draw the practice out of this: a person can belong to more than one world without losing either.
+My [[SE040 — Recognise identity and culture — your self is culturally shaped]] and [[R111 — Practise the recognition of difference]] draw the practice out of this: a person can belong to more than one world without losing either.
 
 ## Related concepts
 
 
 
-- [[SE040 — Recognise identity and culture — your self is culturally shaped]]: the compendium principle this theory grounds
+- [[SE040 — Recognise identity and culture — your self is culturally shaped]]: my principle this theory grounds
 - [[R111 — Practise the recognition of difference]]: the relational practice of holding two frames
 - [[The culturally embedded self]]: the companion concept for how culture shapes the self
 - [[Relational-interdependent self-construal]]: Cross's account of the self that is defined in relation rather than in isolation

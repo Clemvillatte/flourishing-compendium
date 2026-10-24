@@ -24,11 +24,11 @@ Even after a break, "he should keep a remembrance of their former intimacy, and 
 
 ### Where the text stops
 
-None of this is about reading motives. The compendium's advice to avoid taking offence and to look for ignorance or tiredness before malice is its own, and Aristotle sets a limit on charity that the principle leaves out: it does not apply to a friend who is incurably bad.
+None of this is about reading motives. My advice to avoid taking offence and to look for ignorance or tiredness before malice is its own, and Aristotle sets a limit on charity that the principle leaves out: it does not apply to a friend who is incurably bad.
 
 (NE IX.3, 1165b.)
 
-**Plain words** Aristotle says to give a friend who has changed a chance: help them first, and if the friendship does end, do not treat them as a stranger. The compendium adds a habit of reading a friend's actions generously. Aristotle does not say this directly, and he allows that some friendships should end.
+**Plain words** Aristotle says to give a friend who has changed a chance: help them first, and if the friendship does end, do not treat them as a stranger. I add a habit of reading a friend's actions generously. Aristotle does not say this directly, and he allows that some friendships should end.
 
 *For example:* Imagine a friend who cancels twice. Asking "you okay?" before concluding they don't care fits the spirit of helping first. If it becomes a pattern with no change, Aristotle's limit applies.
 

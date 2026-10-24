@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The walking philosopher is the image carried by the name of Aristotle's school. His followers were called Peripatetics, and the name most likely comes from a place rather than a habit: "Those affiliated with Aristotle's school later came to be called Peripatetics, probably because of the existence of an ambulatory (peripatos) on the school's property adjacent to the exercise ground" ([Stanford Encyclopedia of Philosophy, "Aristotle"](https://plato.stanford.edu/entries/aristotle/)). The school itself met where Athenians already moved: "In Athens, Aristotle set up his own school in a public exercise area dedicated to the god Apollo Lykeios, whence its name, the Lyceum" ([same](https://plato.stanford.edu/entries/aristotle/)).
 
-The later tradition of Aristotle lecturing while walking is a popular elaboration, and the compendium does not rely on it. What the record supports is enough for the concept: philosophy, in the founding institution of Western philosophy, was housed next to an exercise ground, in a school named after a walkway.
+The later tradition of Aristotle lecturing while walking is a popular elaboration, and I do not rely on it. What the record supports is enough for the concept: philosophy, in the founding institution of Western philosophy, was housed next to an exercise ground, in a school named after a walkway.
 
-### Why the compendium keeps it
+### Why I keep it
 
 The page belongs with the exercise evidence, not the biographical gossip. A 2024 network meta-analysis found moderate reductions in depression for walking or jogging (g = -0.62) and yoga (-0.55), strength training (-0.49), mixed aerobic exercise (-0.43) and tai chi or qigong (-0.42), compared with active controls ([Noetel et al. 2024, BMJ](https://www.bmj.com/content/384/bmj-2023-075847)). Walking is in the top range of that list and the most accessible of them, which is the point of Learn that walking is underrated (BI030). The concept pairs the Lyceum's floor plan with the modern finding: movement and thinking have been adjacent since the beginning, and the research now says the adjacency is causal in one direction at least.
 

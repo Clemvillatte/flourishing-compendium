@@ -15,9 +15,9 @@ Phenomenological seeing is the mode of attention phenomenology requires: looking
 
 ### A skill, not a theory
 
-The same authors stress that the practice "is an internalized, perception-based, and sensitive serendipitous act", not a procedure; it is enabled by the epoché and the reduction, the suspension of the natural attitude described elsewhere in the compendium.
+The same authors stress that the practice "is an internalized, perception-based, and sensitive serendipitous act", not a procedure; it is enabled by the epoché and the reduction, the suspension of the natural attitude described elsewhere here.
 
-### In the compendium
+### Here
 
 - [[E001 — Practise the phenomenological reduction]]
 - [[B043 — Develop insight (vipassana)]]

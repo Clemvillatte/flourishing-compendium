@@ -24,7 +24,7 @@ In the simile, a man crosses a great expanse of water on a raft he has built, an
 >
 > (Alagaddūpama Sutta, MN 22, Thanissaro)
 
-Dhammapada 97 praises "the man who is without blind faith, who knows the Uncreated" ([Dhp 97, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html)); the verse pairs freedom from credulity with knowledge rather than allegiance. The compendium's application of the raft simile: notice when a practice or belief has stopped being something you use and become something you carry.
+Dhammapada 97 praises "the man who is without blind faith, who knows the Uncreated" ([Dhp 97, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html)); the verse pairs freedom from credulity with knowledge rather than allegiance. My application of the raft simile: notice when a practice or belief has stopped being something you use and become something you carry.
 
 **Plain words**
 A teaching is equipment, like the raft in the sutta: you build it, cross with it, and leave it at the shore. Test your relation to any practice or belief you hold by asking what it is doing for you now. If the answer is mostly winning arguments, decorating a self-image, or furnishing an identity, the grasping has replaced the crossing. The sutta's own words for the failure are studying the Dhamma "for attacking others and for defending themselves in debate".

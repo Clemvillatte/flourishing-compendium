@@ -31,7 +31,7 @@ The theory's form is a measurement model: identification with each culture is sc
 
 Illustrative scenario, not a reported study result: a granddaughter may keep her family's traditions strongly and also move comfortably in the majority culture, and the theory predicts no automatic trade-off between the two.
 
-### In the compendium
+### Here
 
 - [[SO014 — Use cultural identity as a resource, not a constraint]] — the theory grounds the principle's reading of cultural identity: strength from either or both cultures, with no zero-sum assumption.
 

@@ -13,7 +13,7 @@ Locus of evaluation is Carl Rogers's term for where a person's judgments and dec
 
 Rogers goes on: less and less does the person look to others for approval or disapproval, for standards to live by, for decisions and choices, and the question that starts to matter is "Am I living in a way which is deeply satisfying to me; and which truly expresses me?" ([same text](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf)). An external locus, in this vocabulary, is reliance on others' opinions and outside standards; an internal locus is trust in one's own experience ([TherapyRoute](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute)).
 
-### In the compendium
+### Here
 
 - [[D096 — Don't let the outer displace the inner]] lists this concept as its psychology parallel: the Daodejing's outer displacing the inner and Rogers's external locus name a similar displacement from two traditions.
 

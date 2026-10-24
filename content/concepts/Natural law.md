@@ -17,7 +17,7 @@ The first principle works like the first principle of any reasoning:
 
 The analogy is exact: "the precepts of the natural law are to the practical reason, what the first principles of demonstrations are to the speculative reason; because both are self-evident principles" (a. 2). And the scope is universal: "we must say that the natural law, as to general principles, is the same for all, both as to rectitude and as to knowledge" (a. 4).
 
-The compendium's [[A098 — Recognise natural justice (physikon dikaion)]] and [[A103 — Recognise that some actions are always wrong]] are the Aristotelian and Stoic hands on the same idea: some things are wrong whatever the local law says.
+My [[A098 — Recognise natural justice (physikon dikaion)]] and [[A103 — Recognise that some actions are always wrong]] are the Aristotelian and Stoic hands on the same idea: some things are wrong whatever the local law says.
 
 ## Related concepts
 

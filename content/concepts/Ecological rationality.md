@@ -17,7 +17,7 @@ The review reports "that (a) individuals and organizations often rely on simple 
 
 The abstract supports the match between heuristic and setting: more information does not always give better judgments, and low predictability and small samples are named as conditions where less can do better. The review covers business organizations, health care and legal institutions. A fuller statement of the framework in Todd and Gigerenzer (2012) is not summarised here.
 
-### In the compendium
+### Here
 
 - [[CO004 — Recognise that thinking serves action, not truth alone]] sets William James's remark that thinking serves doing beside Gigerenzer and Gaissmaier's review of heuristics.
 

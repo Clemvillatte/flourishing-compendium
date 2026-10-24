@@ -15,9 +15,9 @@ Frugal plenty is the Epicurean thought that having little, when the little is en
 
 The training side is habituation: accustoming oneself to simple and inexpensive diet supplies all that is needful for health, enables a man to meet the necessary requirements of life without shrinking, and renders us fearless of fortune. The point is not asceticism but the removal of the pain of want, after which plain and costly fare please equally. Whatever is natural is easily procured; only the vain and worthless are hard to win.
 
-### In the compendium
+### Here
 
-- [[D032 — Treasure 2 — frugality (jian)]] — the Daoist treasure the compendium pairs with this Epicurean training
+- [[D032 — Treasure 2 — frugality (jian)]] — the Daoist treasure I pair with this Epicurean training
 
 ## Related concepts
 

@@ -14,7 +14,7 @@ Timing as wisdom is this compendium's label for a claim in Daodejing chapter 64 
 
 Later in the chapter: "When people pursue an undertaking, it is always at the point of success that they ruin it. Attend at the end as you did at the start and you will have no failures" ([Robert Eno, Daodejing ch. 64](https://terebess.hu/english/tao/Daodejing-Eno.pdf)).
 
-### In the compendium
+### Here
 
 - [[D059 — Do the difficult while it is easy]]
 - [[A048 — Act in the right way, at the right time, toward the right objects, in the right manner]]

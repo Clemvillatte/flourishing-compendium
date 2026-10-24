@@ -15,9 +15,9 @@ Right association is the Buddha's advice to the young householder Sigala in the 
 
 The four kinds are named by conduct: the mentor is known "by restraining you from wrongdoing, guiding you towards good actions", the compassionate friend by "not rejoicing in your misfortune, delighting in your good fortune". The sutta pairs the list with a warning: "the taker, the talker, the flatterer, and the reckless companion" are "not friends, but enemies", and the wise keep them at a distance the way they would a dangerous path.
 
-The compendium pairs the sutta's advice with its principles on social attention, motivation and behaviour.
+I pair the sutta's advice with its principles on social attention, motivation and behaviour.
 
-### In the compendium
+### Here
 
 - [[AT009 — Know that attention is social — it is influenced by and influences others]] — attention is contagious; the principle asks readers to pick their attentional company deliberately
 - [[MO009 — Recognise that motivation is social — it is influenced by others]]

@@ -7,7 +7,7 @@ file: "Language games"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-The compendium uses "Language games" for Wittgenstein's later concept. The Wikipedia article on the concept:
+I use "Language games" for Wittgenstein's later concept. The Wikipedia article on the concept:
 
 > "A language-game (German: Sprachspiel) is a philosophical concept developed by Ludwig Wittgenstein, referring to simple examples of language use and the actions into which the language is woven." ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy)))
 

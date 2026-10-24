@@ -17,7 +17,7 @@ The Premack principle is David Premack's 1959 probability-differential hypothesi
 
 The principle's interest is that the reinforcer is itself a behavior: the high-probability activity is the consequence for the low-probability one. The everyday arrangement: the low-probability task first, the high-probability activity contingent on it.
 
-### In the compendium
+### Here
 
 - [[D039 — Make rest the root of activity]]
 - [[MO007 — Recognise that motivation is influenced by reward prediction error — surprise drives learning]]

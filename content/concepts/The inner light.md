@@ -13,9 +13,9 @@ Plotinus's Enneads treats seeing as a transformation of the seer. His tractate O
 
 ### What the light requires
 
-The tractate's instruction is preparation: "one must come to the sight with a seeing power made akin and like to what is seen". Those who come blear-eyed or unpurified see nothing, even if shown what is there. The passage gives the compendium's phrase its Plotinian ground: the light is a likeness formed in the one who looks.
+The tractate's instruction is preparation: "one must come to the sight with a seeing power made akin and like to what is seen". Those who come blear-eyed or unpurified see nothing, even if shown what is there. The passage gives my phrase its Plotinian ground: the light is a likeness formed in the one who looks.
 
-### In the compendium
+### Here
 
 - [[D065 — Use the light, return to the insight]]
 - [[Y050 — Cultivate an inner luminous anchor]]

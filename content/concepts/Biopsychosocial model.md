@@ -18,7 +18,7 @@ The biopsychosocial model is George Engel's 1977 proposal for medicine: a model 
 
 The paper diagnoses the biomedical model as embracing both reductionism and mind-body dualism, and requiring "that disease be dealt with as an entity independent of social behavior". The boundaries between health and disease, Engel writes, "are far from clear and never will be clear, for they are diffused by cultural, social, and psychological considerations".
 
-### In the compendium
+### Here
 
 - [[R018 — Practise connection to mind and emotions]]
 - [[R037 — Practise Te Whare Tapa Whā]]

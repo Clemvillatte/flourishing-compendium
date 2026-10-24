@@ -16,7 +16,7 @@ Karma (Sanskrit for action; Pali kamma) is the Buddhist term for action driven b
 
 The same sutta sorts the results of karma into three: what arises right here and now, what arises later in this lifetime, and what arises following that. In the full traditional frame, intentions determine the form of rebirth a being takes in samsara, the repeating cycle of birth and death. Read psychologically, the interest shifts from cosmology to process: the impulse behind an action sets a chain of causes going, and what is repeated in intention hardens into character. A standard summary of that shift notes that the focus of interest moved from physical action, involving people and objects in the real world, to psychological process.
 
-### In the compendium
+### Here
 
 - [[B005 — Intention is karma]] — the definition principle, quoting the Nibbedhika Sutta
 - [[B088 — Every repetition is a vote (habit as karma)]] — each repetition strengthens the track it lays down

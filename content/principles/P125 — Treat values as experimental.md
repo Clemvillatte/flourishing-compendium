@@ -22,7 +22,7 @@ The mechanism he describes is learning from experience. In his account, growing 
 
 He notes that folk wisdom already runs this way: proverbs like "Look before you leap" and "When angry count ten" teach the same move, in which a desire is settled by what would follow from acting on it rather than by how it first appears (p. 32). And when values serve as general guides across situations, he gives them the status of working instruments rather than fixed verdicts: like the general ideas of a natural science, they are used to judge particular cases and are themselves developed and tested by the results of that application (p. 44).
 
-The compendium's exercise: pick one value you hold and write down what it directs you to do and what you expect acting on it to produce. Later, put the expected consequences beside the observed ones and investigate the difference: whether the aim, the method or the circumstances need another look. The value is being treated as a proposal to check.
+My exercise: pick one value you hold and write down what it directs you to do and what you expect acting on it to produce. Later, put the expected consequences beside the observed ones and investigate the difference: whether the aim, the method or the circumstances need another look. The value is being treated as a proposal to check.
 
 **Plain words**
 An unwelcome result gives you something to investigate. Find out why it happened before deciding what to change. You may need a different way of pursuing the commitment, or reasons to reconsider the commitment itself.

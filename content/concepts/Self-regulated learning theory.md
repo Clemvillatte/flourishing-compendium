@@ -29,7 +29,7 @@ Zimmerman describes a feedback cycle: self-reflections from earlier efforts to l
 
 Illustrative scenario, not a reported study result: a student plans a practice session, checks errors while working, then uses those errors to choose the next session's exercises.
 
-### In the compendium
+### Here
 
 - [[AF084 — Build a personal affect-maintenance system — learn, adapt, retain]] — runs Gross's extended process model as a comparable learn-adapt-retain loop
 - [[D006 — Move by return (fu) — everything renews in cycles]] — comparison: the Daoist view of renewal in cycles

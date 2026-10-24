@@ -15,7 +15,7 @@ Merleau-Ponty devotes a chapter of Part One of Phenomenology of Perception to th
 
 The chapter's examples are the feather in a hat kept at a safe distance without calculation, and the car driven through a narrow opening by someone who simply sees that they can "get through". Movement here is a form of understanding: "The body is our general medium for having a world". It posits a biological world around the acts of conservation, elaborates new significance through motor habits such as dancing, and builds instruments when its natural means fall short, projecting a cultural world around itself.
 
-### In the compendium
+### Here
 
 - [[B041 — Practice walking meditation]]
 - [[BI060 — Learn mindful movement — walking meditation, yoga, tai chi]]

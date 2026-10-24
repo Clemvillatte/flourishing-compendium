@@ -16,7 +16,7 @@ The fragment catalogued as Usener 221 compares philosophical argument with medic
 
 > "Vain is the word of a philosopher which does not heal any suffering of man. For just as there is no profit in medicine if it does not expel the diseases of the body, so there is no profit in philosophy either, if it does not expel the suffering of the mind." ([Porphyry, Letter to Marcella 31, Usener 221, translation at attalus.org](https://www.attalus.org/translate/epicurus2.html))
 
-The comparison makes relief of suffering a criterion of philosophy's usefulness. The compendium's application: ask what difficulty a philosophical teaching addresses, then record what, if anything, using it has changed.
+The comparison makes relief of suffering a criterion of philosophy's usefulness. My application: ask what difficulty a philosophical teaching addresses, then record what, if anything, using it has changed.
 
 **Plain words** Choose a recurring worry and write down what the teaching says about it. Does that help you examine the worry? Note what remains unresolved, too.
 

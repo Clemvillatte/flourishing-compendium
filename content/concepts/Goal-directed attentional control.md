@@ -24,7 +24,7 @@ The wording of the plan mattered. Plans phrased as distraction-inhibiting ("When
 
 Gollwitzer summarises the mechanism as follows: "Implementation intentions delegate the control of goal-directed behaviors to specified anticipated environmental stimuli." That is a form of goal-directed control that runs through a cue, with less effort in the moment. The 1999 paper is a review of mostly laboratory tasks. A later meta-analysis of 94 studies found a medium-to-large effect of implementation intentions on goal achievement (d = .65), and described them as effective in "protecting ongoing efforts from distractions" ([Gollwitzer & Sheeran, 2006, abstract](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)). Those results are about goal pursuit generally. Shelton and Alain (2014), cited in the original entry, was not located or opened, so nothing here rests on it.
 
-### In the compendium
+### Here
 
 - AT004 is the bottom-up versus top-down principle, built on Corbetta and Shulman.
 - AT013 builds on implementation intentions to decide in advance what to attend to.

@@ -7,7 +7,7 @@ file: "Expert intuition (Klein's recognition-primed decision model)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The compendium uses this heading for Gary Klein's account of how experienced decision-makers act fast under pressure. The recognition-primed decision model:
+I use this heading for Gary Klein's account of how experienced decision-makers act fast under pressure. The recognition-primed decision model:
 
 > "Recognition-primed decision (RPD) is a model of how people make quick, effective decisions when faced with complex situations." ([Wikipedia, Recognition-primed decision](https://en.wikipedia.org/wiki/Recognition_primed_decision))
 
@@ -23,7 +23,7 @@ Kahneman and Klein examine the conditions under which professional intuition is 
 
 The same abstract states that "Subjective experience is not a reliable indicator of judgment accuracy" (Kahneman and Klein 2009, [PubMed 19739881](https://pubmed.ncbi.nlm.nih.gov/19739881/)).
 
-### In the compendium
+### Here
 
 - [[CO041 — Trust intuition in the right domains — it is not always wrong]]: trusts intuition in the right domains
 - [[SO041 — Treat expertise as real but fallible]]: treats expertise as real but fallible

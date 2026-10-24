@@ -23,14 +23,14 @@ The paper's conclusion carries the trade-off:
 
 > "The results suggest that use of conditional regard as a socializing practice can promote enactment of the desired behaviors but does so with significant affective costs." (Assor, Roth & Deci, 2004, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/14686884/))
 
-### In the compendium
+### Here
 
 - [[D140 — Respect others' nature — don't cage what you love]] — the principle takes the conditional-regard finding as a reason not to cage what you love.
 - [[P166 — Offer unconditional regard — to yourself and others]] — the principle on unconditional regard, against which the conditional-regard research supplies the empirical contrast.
 
 ## Related concepts
 
-- [[The actualizing tendency]] — the compendium's pairing for the Rogers reading of regard.
+- [[The actualizing tendency]] — my pairing for the Rogers reading of regard.
 
 ## Sources
 

@@ -33,7 +33,7 @@ After the morning coffee, sit for two minutes. (Illustrative scenario, not a rep
 
 Its kin are [[Implementation intentions]] (the if-then cousin in goal-setting research) and the contemplative sequence-first logic of [[Gradual training]].
 
-### In the compendium
+### Here
 
 - [[K176 — Habit stacking]] — the kernel
 - [[MO037 — Learn to stack habits — link new behaviours to existing ones]] — the psychology-parallel form

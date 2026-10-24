@@ -46,7 +46,7 @@ Clinical Psychodynamic · Psychological science
 
 ## Related concepts
 
-- [[Cognitive mediation of distress]] — the compendium's record of the same claim: between event and feeling stands interpretation
+- [[Cognitive mediation of distress]] — my record of the same claim: between event and feeling stands interpretation
 - [[Cognitive distortions]] — the catalog of irrational belief types that later cognitive therapy mapped
 - [[Appraisal theory]] — the emotion-science version of the event-belief-feeling chain
 - [[Cognitive distortions research]] — the empirical study of whether these belief patterns track disturbance

@@ -44,7 +44,7 @@ The knife is nineteen years old, several thousand oxen carved, and still fresh f
 - **Free and easy wandering** — the useless life as the free one. See [[D078 — Wander free and easy (xiaoyao you)|D078]], [[Delight in the ordinary]], [[The quiet craftsman's life]].
 - **Oneness of things** — from the perspective of dào, the ten thousand things are one. See [[D008 — See the oneness of things|D008]], [[Oneness of things]], [[ST002 — The Butterfly Dream|2. The Butterfly Dream]], [[The dream of the butterfly]].
 
-## Everything connected in the wiki
+## Everything connected here
 
 The inventory lists every corpus entry that names Zhuangzi. Many of the principles cite his text as a psychology or philosophy parallel; each link is a real edge in the corpus graph, and the mention is classified honestly: citing the text for a doctrine is not the same as that doctrine being the entry's core.
 

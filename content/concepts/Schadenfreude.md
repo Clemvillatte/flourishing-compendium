@@ -20,7 +20,7 @@ The envy route matters for practice, because it suggests a question to examine w
 
 The pleasure is real and the price is social. A study of how schadenfreude expressers are perceived found: "Study 1 (N = 90) showed that actors expressing schadenfreude elicit a more negative impression and more avoidance intentions than those who display a general negative behavior." And the effect was not limited to competitive settings: "Study 2 (N = 90) showed that such an effect did not depend upon participants' competition with the target of the observed schadenfreude." (Pagliaro, Brambilla, Di Prinzio & Teresi, Psicologia sociale, 2019, [PDF](https://www.mbrambilla.com/wp-content/uploads/2021/03/Pagliaro-et-al-2019-Schadenfreude.pdf)) The measured result: observers judge the expresser more negatively and keep more distance.
 
-### In the compendium
+### Here
 
 - [[D132 — If you must fight, grieve — never gloat]] — the principle that names the cost
 

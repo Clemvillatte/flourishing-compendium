@@ -18,7 +18,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 Heidegger names a third feature, "never dwelling anywhere": "Curiosity is everywhere and nowhere." It also joins up with idle talk: "Idle talk controls even the ways in which one may be curious. It says what one 'must' have read and seen." Curiosity "has nothing to do with observing entities and marvelling at them", and being "amazed to the point of not understanding" is something in which it "has no interest."
 
-The target is a restless mode of seeing, and just before §35 Heidegger says his interpretation is "purely ontological in its aims." The entry's phrase "flight from depth" and its advice to practise dwelling are the compendium's gloss on this analysis.
+The target is a restless mode of seeing, and just before §35 Heidegger says his interpretation is "purely ontological in its aims." The entry's phrase "flight from depth" and its advice to practise dwelling are my gloss on this analysis.
 
 **Plain words** Curiosity in this sense is looking for the sake of looking, always moving to the next new thing. Heidegger contrasts it with staying with something and being amazed by it. Notice when you are collecting things to see in place of seeing any of them.
 

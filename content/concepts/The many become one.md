@@ -17,12 +17,12 @@ The sentence is dense but decomposes. The "many" are the settled results of the 
 
 The classical ontology the formula argues against takes substances as fundamental and change as secondary. Process philosophy reverses the order: "being is dynamic and that the dynamic nature of being should be the primary focus of any comprehensive philosophical account of reality and our place within it" ([SEP, Process Philosophy](https://plato.stanford.edu/entries/process-philosophy/)). Whitehead's own summary of the ultimate notions closes the passage: "These ultimate notions of 'production of novelty' and of 'concrete togetherness' are inexplicable either in terms of higher universals or in terms of the components participating in the concrescence. The analysis of the components abstracts from the concrescence. The sole appeal is to intuition" ([Process and Reality 21-22, as reproduced by Open Horizons](https://www.openhorizons.org/the-many-become-one-and-are-increased-by-one.html)).
 
-### In the compendium
+### Here
 
 - [[P001 — Build your life on becoming, not being]] — the principle the concept grounds
 - [[P002 — Treat the world as events and doings, not things and substances]] — the ontology stated as a practice rule
 - [[P096 — Let the many become one — and be increased by one]] — the formula as a principle
-- [[ST099 — Whitehead's Many Become One]] — the compendium's story for the idea
+- [[ST099 — Whitehead's Many Become One]] — my story for the idea
 - [[B002 — Assume change (anicca)]] — the Buddhist cousin: impermanence as premise rather than threat
 
 ## Related concepts

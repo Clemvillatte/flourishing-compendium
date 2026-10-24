@@ -19,7 +19,7 @@ He then adds an inner version of the same contrast:
 
 > We might, over and above all this, add, to what man acquires in the civil state, moral liberty, which alone makes him truly master of himself; for the mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty. (Rousseau, Social Contract I.8, Cole translation)
 
-Read together, the passages give the concept its shape. Natural liberty, on Rousseau's definition, is bounded only by the strength of the individual; it is the freedom of a being that can take whatever it can get, and its limit is force. Civil liberty is limited by the general will, and moral liberty is obedience to a law one prescribes to oneself. The chains he describes include the impulse of appetite, which he calls slavery outright. The compendium's principles use the phrase for this whole contrast: unbounded wanting on one side, self-given order on the other.
+Read together, the passages give the concept its shape. Natural liberty, on Rousseau's definition, is bounded only by the strength of the individual; it is the freedom of a being that can take whatever it can get, and its limit is force. Civil liberty is limited by the general will, and moral liberty is obedience to a law one prescribes to oneself. The chains he describes include the impulse of appetite, which he calls slavery outright. My principles use the phrase for this whole contrast: unbounded wanting on one side, self-given order on the other.
 
 ## Related concepts
 

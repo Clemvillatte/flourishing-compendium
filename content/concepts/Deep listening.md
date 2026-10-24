@@ -37,7 +37,7 @@ The smallest version: twenty minutes, one person, no advice, no rebuttal, the so
 
 Its contemplative cognates are Buber's I–Thou meeting ([[I and Thou]]) and the Buddhist practice of listening deeply.
 
-### In the compendium
+### Here
 
 - [[K207 — Deep listening]] — the general practice
 - [[K373 — Notice the fixing reflex]] — the advice move held in abeyance

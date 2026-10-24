@@ -17,7 +17,7 @@ The title states the Stoic classification: reputation is an indifferent, a thing
 
 The sorting has a practical edge, stated late in the same manual: "Don't regard what anyone says of you, for this, after all, is no concern of yours" (ch. 50). Since reputation belongs to others' opinions, treating it as a good makes one's peace hostage to what was never in one's power.
 
-### In the compendium
+### Here
 
 - [[B103 — Keep balance in praise and blame (upekkha applied)]]
 - [[S002 — Make virtue the only genuine good]]

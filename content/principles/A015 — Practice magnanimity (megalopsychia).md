@@ -27,7 +27,7 @@ Honour is the proud person's main concern, but "he will also bear himself with m
 
 ### Wording of the principle
 
-"Smallness of soul" is the compendium's term for the deficiency, which Ross calls being "unduly humble". The advice to cultivate a sense of your own worth is the compendium's.
+"Smallness of soul" is my term for the deficiency, which Ross calls being "unduly humble". The advice to cultivate a sense of your own worth is my.
 
 (NE IV.3, 1123b-1124a.)
 

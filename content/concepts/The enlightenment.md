@@ -25,7 +25,7 @@ The remedy is a specific freedom, not freedom in general: "The public use of one
 
 ### How it explains the Buddhist parallel
 
-B195 tells the practitioner to be a lamp unto himself. The compendium pairs the two teachings at the diagnosis: the failure is not intelligence but resolve, and the guardians are often welcome. The practice of enlightenment is the daily, initially wobbly act of walking without the harness.
+B195 tells the practitioner to be a lamp unto himself. I pair the two teachings at the diagnosis: the failure is not intelligence but resolve, and the guardians are often welcome. The practice of enlightenment is the daily, initially wobbly act of walking without the harness.
 
 ### An everyday example
 

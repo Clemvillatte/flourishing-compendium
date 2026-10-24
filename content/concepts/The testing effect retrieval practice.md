@@ -35,9 +35,9 @@ A later experiment addressed the worry that retrieval practice only trains recal
 
 The advantage held "with test questions that assessed comprehension and required students to make inferences".
 
-### In the compendium
+### Here
 
-The lines below describe what the compendium's principles do with the concept; the pairings are editorial.
+The lines below describe what my principles do with the concept; the pairings are editorial.
 
 - [[PP071 — Practise retrieval, not just exposure]] — the principle that carries this concept: after reading or a workshop, retrieve the key points
 - [[CO056 — Use memory deliberately — encoding and retrieval matter]] — retrieval as one of the two levers on memory

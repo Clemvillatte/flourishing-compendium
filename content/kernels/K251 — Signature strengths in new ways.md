@@ -22,7 +22,7 @@ The inventory behind it is the Values in Action classification of character stre
 
 ### Protocol
 
-The first week follows the study; the weekly rotation through all five is the compendium's editorial extension.
+The first week follows the study; the weekly rotation through all five is my editorial extension.
 
 1. Take the free VIA Survey at the [VIA Institute on Character](https://www.viacharacter.org) and note the top five strengths it returns.
 2. Use one of these top strengths "in a new and different way every day for one week" ([Seligman et al., 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)).

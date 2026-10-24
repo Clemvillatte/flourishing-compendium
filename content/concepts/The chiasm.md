@@ -21,14 +21,14 @@ Chiasm is "a bi-directional becoming or exchange between the body and things" th
 
 The sources are one encyclopedia entry and the quotations it reproduces from The Visible and the Invisible, which is cited at second hand. The essay "Eye and Mind", cited for the alias "Intertwining", is cited at second hand. The sources describe a philosophical ontology and offer no empirical test of its practical effects.
 
-### In the compendium
+### Here
 
 - [[E019 — Practise the chiasm]] quotes the handshake line as quoted in the same entry (section 6).
 
 ## Related concepts
 
-- [[The body-subject]] — the compendium's page on the body as perceiving subject
-- [[The body-for-others]] — the compendium's page on the body seen by others
+- [[The body-subject]] — my page on the body as perceiving subject
+- [[The body-for-others]] — my page on the body seen by others
 - [[Embodiment]] — the wider field reversibility belongs to
 
 ## Sources

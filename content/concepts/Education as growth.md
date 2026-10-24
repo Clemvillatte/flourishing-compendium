@@ -15,7 +15,7 @@ Education as growth is John Dewey's reconstruction of what education is for, sta
 
 Dewey's argument begins with the child's apparent lack. Immaturity, read comparatively, is absence of powers that may exist later; read absolutely, it "designates a positive force or ability — the power to grow" (ch. 4, [Gutenberg](https://www.gutenberg.org/files/852/852-0.txt)). The same chapter makes the definition operational: "education means the enterprise of supplying the conditions which insure growth, or adequacy of life, irrespective of age" (ch. 4, [Gutenberg](https://www.gutenberg.org/files/852/852-0.txt)). The chapter's two moves fit together: immaturity read as the power to grow, and education read as the enterprise of supplying the conditions that insure it, irrespective of age.
 
-### In the compendium
+### Here
 
 - [[P107 — Treat education as growth, not preparation]] — the dedicated principle.
 - [[P138 — Take responsibility for the social conditions of growth]] — the social-conditions side.

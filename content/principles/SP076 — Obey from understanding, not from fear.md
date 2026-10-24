@@ -20,7 +20,7 @@ Spinoza draws the distinction in the Treatise's divine-law chapter, in the Adam 
 
 The state-level version of the same analysis is blunt about fear-based compliance: "as long as men act only from fear, they act very unwillingly, and don't recognize the advantage, even the necessity, of doing what they're doing", they care only about "saving their necks, and avoiding punishment", and they "rejoice whenever some evil or harm happens to their ruler... when they can, they help to bring them about" (ch. V). Chapter XVI recognises both voluntary and fear-based obedience, describing people as bound to obey "either freely, or from fear of the supreme punishment".
 
-The compendium applies the distinction by asking whether people understand a rule's purpose and whether those responsible for the rule can explain it.
+I applie the distinction by asking whether people understand a rule's purpose and whether those responsible for the rule can explain it.
 
 (Theological-Political Treatise, ch. IV, V and XVI; Curley translation.)
 

@@ -18,7 +18,7 @@ In The Fixation of Belief, Peirce distinguishes asking a question from experienc
 >
 > (Charles Peirce, "The Fixation of Belief," 1877.)
 
-He describes inquiry as the struggle prompted by doubt to attain belief. The compendium applies this distinction by asking what is actually uncertain before deciding how to investigate it.
+He describes inquiry as the struggle prompted by doubt to attain belief. I applie this distinction by asking what is actually uncertain before deciding how to investigate it.
 
 (Peirce, "The Fixation of Belief," 1877.)
 

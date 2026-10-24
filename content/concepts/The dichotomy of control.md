@@ -15,16 +15,16 @@ The dichotomy of control is Epictetus's distinction in Enchiridion 1 between wha
 
 The same chapter explains the division's stakes: things in our control are "by nature free, unrestrained, unhindered," while things not in our control are "weak, slavish, restrained, belonging to others" (Enchiridion 1, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html)). Mistaking the slavish for free has consequences: "You will lament, you will be disturbed, and you will find fault both with gods and men" (Enchiridion 1, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html)). The chapter also turns the division into a test for appearances: every "harsh appearance" is to be examined first by "whether it concerns the things which are in our own control, or those which are not" (Enchiridion 1, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html)). If an appearance concerns something outside our control, Epictetus says to "be prepared to say that it is nothing to you" (Enchiridion 1, [Carter translation](https://classics.mit.edu/Epictetus/epicench.html)).
 
-### The compendium's comparisons
+### My comparisons
 
 [[S053 — Distinguish between what you control and what you influence]] presents three categories: what you control, what you can influence without controlling, and what you cannot control. [[P157 — Accept what cannot be changed while committing to what can]] describes ACT's combination of acceptance of private experiences and action guided by chosen values. These pages are included here as editorial comparisons.
 
-### In the compendium
+### Here
 
 - [[S001 — Distinguish what is up to you from what is not]] — the dedicated principle.
 - [[S053 — Distinguish between what you control and what you influence]] — the control/influence distinction.
 - [[S056 — Recognise that you can choose your response]] — the response side of the line.
-- [[K267 — Controllability sorting]] — the compendium's practice kernel for the diagnostic.
+- [[K267 — Controllability sorting]] — my practice kernel for the diagnostic.
 - [[S067 — Cultivate tranquillity (ataraxia)]] — the tranquillity principle.
 - [[ST189 — The Stoic Archer]] and [[ST208 — Rocky Goes the Distance]] — the story illustrations: the archer does everything in his power and the hitting is no longer his; the fight's stakes sort into not-his and his.
 - [[B068 — Find the gap between stimulus and response]] — the stimulus-response gap.

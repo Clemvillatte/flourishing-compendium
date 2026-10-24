@@ -19,9 +19,9 @@ Aristotle says such people "gratify their appetites and in general their feeling
 
 Aristotle does not treat this as selfishness. He writes that "the good man should be a lover of self (for he will both himself profit by doing noble acts, and will benefit his fellows), but the wicked man should not." The good man "does many acts for the sake of his friends and his country, and if necessary dies for them," and in doing so he "is therefore assigning the greater good to himself," because the nobility is his. He sums it up: "In this sense, then, as has been said, a man should be a lover of self; but in the sense in which most men are so, he ought not" ([Aristotle, NE IX.8](@N@)).
 
-### In the compendium
+### Here
 
-B097 (Wish well, starting with yourself) and P166 (Offer unconditional regard, to yourself and others) borrow the idea that care for oneself and care for others are compatible. Aristotle's version is conditional. The self worth loving is the rational, virtue-seeking part, and the passage does not describe unconditional regard or self-compassion in the modern sense. Those extensions are the compendium's. Only IX.8 was opened for this revision, not the rest of Book IX.
+B097 (Wish well, starting with yourself) and P166 (Offer unconditional regard, to yourself and others) borrow the idea that care for oneself and care for others are compatible. Aristotle's version is conditional. The self worth loving is the rational, virtue-seeking part, and the passage does not describe unconditional regard or self-compassion in the modern sense. Those extensions are my. Only IX.8 was opened for this revision, not the rest of Book IX.
 
 ## Related concepts
 

@@ -23,7 +23,7 @@ The transmission is not only intra-family. Adolescents also take up culturally a
 
 > "Ultimately, we argue that autobiography is a critical developmental skill; narrating our personal past connects us to our selves, our families, our communities, and our cultures." ([Fivush et al., 2011](https://www.tandfonline.com/doi/full/10.1080/00207594.2011.596541))
 
-The compendium's principles pick up the three directions of that sentence: practising cultural continuity keeps the channel open, treating cultural traditions as living keeps what passes through it from hardening, and treating intergenerational trauma as a real mechanism names the case where what is transmitted harms.
+My principles pick up the three directions of that sentence: practising cultural continuity keeps the channel open, treating cultural traditions as living keeps what passes through it from hardening, and treating intergenerational trauma as a real mechanism names the case where what is transmitted harms.
 
 - [[R020 — Practise cultural continuity]]
 - [[SO021 — Treat cultural traditions as living, not static]]

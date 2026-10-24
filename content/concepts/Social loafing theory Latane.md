@@ -23,7 +23,7 @@ Bibb Latané and colleagues separated effort loss from coordination loss:
 
 The experiments "asked them to shout both in actual groups and pseudogroups in which they shouted alone but believed they were shouting with others" ([same article](https://en.wikipedia.org/wiki/Social_loafing)). When subjects believed one other person was shouting, they shouted 82 percent as intensely as they did alone; with five others, effort decreased to 74 percent.
 
-### In the compendium
+### Here
 
 - [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]]
 - [[SO066 — Treat marginalization as a clinical and social issue]]

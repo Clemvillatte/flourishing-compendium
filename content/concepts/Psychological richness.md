@@ -16,7 +16,7 @@ Psychological richness is Oishi and Westgate's proposed aspect of a good life ce
 - **Related but distinct**: richness is not simply another label for a happy life or a meaningful one ([Oishi and Westgate, 2022](https://pubmed.ncbi.nlm.nih.gov/34383524/)).
 - **A preference, not a universal ranking**: the authors report that some respondents would choose richness at the expense of happiness or meaning; that does not say everyone should make the same choice ([abstract](https://pubmed.ncbi.nlm.nih.gov/34383524/)).
 
-### In the compendium
+### Here
 
 - [[PP002 — Include psychological richness]] introduces this additional dimension; its inclusion need not turn every other tradition's account of joy or contentment into the same construct.
 

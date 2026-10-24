@@ -19,7 +19,7 @@ Weber's summary of the shift:
 
 The word itself entered the modern languages through Luther's Bible translation, first at Jesus Sirach 11:20-21, "precisely in our modern sense" ([same](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)). What the Reformation did not yet do is make the calling a field of choice: for Luther the concept "remained traditionalistic," something "man has to accept as a divine ordinance, to which he must adapt himself" ([same](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)). The Puritan version sharpened it into method: "What God demands is not labour in itself, but rational labour in a calling" ([Weber, ch. V, Marxists.org](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch05.htm)).
 
-### Why the compendium holds it
+### Why I hold it
 
 The concept survives its theology. Strip the divine command and what remains is the structure of meaningful work: a definite field, obligations that come from the position itself, and the demand that the work be done methodically rather than casually. Weber's own closing observation is that the calling outlived its religious sanction — "The Puritan wanted to work in calling; we are forced to do so" ([Wikipedia summary of the work](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)).
 

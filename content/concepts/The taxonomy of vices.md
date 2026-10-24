@@ -7,7 +7,7 @@ file: "The taxonomy of vices"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The taxonomy of vices is Aristotle's scheme in Nicomachean Ethics Book II: every moral virtue sits at a mean between two vices, one of excess and one of deficiency, and the vices are defined by their relation to the virtue rather than by their own content. The scheme is the source of the table the compendium uses throughout: rashness and cowardice flanking courage, self-indulgence and insensibility flanking temperance, prodigality and illiberality flanking liberality.
+The taxonomy of vices is Aristotle's scheme in Nicomachean Ethics Book II: every moral virtue sits at a mean between two vices, one of excess and one of deficiency, and the vices are defined by their relation to the virtue rather than by their own content. The scheme is the source of the table I use throughout: rashness and cowardice flanking courage, self-indulgence and insensibility flanking temperance, prodigality and illiberality flanking liberality.
 
 ### The doctrine of the mean
 

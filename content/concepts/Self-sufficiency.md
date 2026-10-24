@@ -15,7 +15,7 @@ Aristotle's treatment carries the standing qualification: the self-sufficient go
 
 > "...the self-sufficient we now define as that which when isolated makes life desirable and lacking in nothing; and such we think happiness to be." (Aristotle, NE I.8, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-The two readings make the concept useful rather than merely historical. Aristotle's version keeps other people inside the definition, so self-sufficiency never becomes isolation; the Cynic version treats need itself as the thing to master, so the discipline aims at wanting less rather than having more. D105 gives the test the compendium uses: whether an acquisition serves a need. The question for a reader sits between the two: what is the smallest set of things and people a life can lack nothing without?
+The two readings make the concept useful rather than merely historical. Aristotle's version keeps other people inside the definition, so self-sufficiency never becomes isolation; the Cynic version treats need itself as the thing to master, so the discipline aims at wanting less rather than having more. D105 gives the test I use: whether an acquisition serves a need. The question for a reader sits between the two: what is the smallest set of things and people a life can lack nothing without?
 
 ## Facets
 

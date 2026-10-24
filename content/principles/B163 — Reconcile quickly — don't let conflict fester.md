@@ -16,7 +16,7 @@ The verse in the Dhammapada's first chapter that addresses quarrels is verse 6:
 
 > There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels. ([Dhammapada 6, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-Verses 3 to 5 in the same chapter describe how hatred is kept alive and how it ends. Verse 6 adds a reason to end a quarrel sooner: the time to do it is limited. The compendium reads this as an argument for quick repair; the verse itself does not say how quickly. The story linked below tells of a quarrel among monks.
+Verses 3 to 5 in the same chapter describe how hatred is kept alive and how it ends. Verse 6 adds a reason to end a quarrel sooner: the time to do it is limited. I read this as an argument for quick repair; the verse itself does not say how quickly. The story linked below tells of a quarrel among monks.
 
 (Dhammapada 6, trans. Buddharakkhita.)
 

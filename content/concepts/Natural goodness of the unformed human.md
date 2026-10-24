@@ -15,7 +15,7 @@ The doctrine's psychology turns on Rousseau's distinction between two self-loves
 
 The nuance matters: for Rousseau, humans in the state of nature are amoral, neither virtuous nor vicious; moral goodness is a later achievement ([IEP](https://iep.utm.edu/rousseau/)). Natural goodness is a starting position, not a finished character.
 
-### In the compendium
+### Here
 
 The principles read the claim as an educational stance. R059's Mencian sprouts give the Confucian version, tendencies to grow that cultivation waters or starves, and D010's pu, the uncarved block, the Daoist one, a comparison tradition; SP001 understands rather than condemns, the stance toward the person still unformed; SP005 treats the self as part of nature; A108's habituation forms the material gently; P073 and S044 shape conduct as interaction within the whole; E505's ceremony converts natural ends into infinite tasks; ST174's Ove, interrupted, is the story of a formed crust cracking back to the good under it; and BI049's movement to discharge stress keeps the body's natural channels open.
 
@@ -44,7 +44,7 @@ The principles read the claim as an educational stance. R059's Mencian sprouts g
 - [[Amour de soi]] — the natural self-love the doctrine rests on
 - [[The approval trap]] — amour-propre's modern form, esteem from others
 - [[Empathy]] — pity's descendant, the other natural principle
-- [[Natural and necessary]] — Epicurus's natural needs, the compendium's other nature-claim
+- [[Natural and necessary]] — Epicurus's natural needs, my other nature-claim
 
 ## Cited in philosophy parallels
 

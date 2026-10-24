@@ -17,9 +17,9 @@ Eyal, Steffel and Epley then tested the presumption itself across 25 experiments
 
 ### In practice
 
-Getting is active. It asks a real question, waits through the answer, and treats a correction as data. The compendium's reflective-listening kernel K366 makes the tension explicit: it has the listener guess at what someone means underneath their words, but say the guess as a checkable statement, so that "if it misses, they correct you, and the correction is itself information."
+Getting is active. It asks a real question, waits through the answer, and treats a correction as data. My reflective-listening kernel K366 makes the tension explicit: it has the listener guess at what someone means underneath their words, but say the guess as a checkable statement, so that "if it misses, they correct you, and the correction is itself information."
 
-### In the compendium
+### Here
 
 K218 carries the concept as a kernel: "when you assume you know what someone thinks or feels, ask instead." D082 "Don't impose your frame on others" is the principle it operationalises, with D124 "Look for the right in the other side" and B159 "See the human behind the position" nearby. P129's sympathetic understanding gives it the interpretive-tradition root, and K381's compassionate thinking walks around the cardboard cutout to see what the anxious part cannot. K131's perspective-taking keeps its place: taking a view reveals what your own position conceals, but for accuracy, ask.
 

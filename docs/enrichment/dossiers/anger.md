@@ -4,7 +4,7 @@
 
 Anger arrives with its defence already written: someone did wrong, and the wrong demands an answer. Whether the answer anger supplies is ever the one the moment needs is the question the traditions keep returning to, and they answer it differently: some condemn the passion outright, some give it a mean and a place, and the research asks what it actually does for and to the person who holds it. The practices that loosen its grip share one commitment: they take the provocation seriously without letting it write the response.
 
-## The map: every entry the wiki holds on anger
+## The map: the entries on anger
 
 ### What anger is taken to be
 
@@ -82,7 +82,7 @@ The delay remedy Seneca prescribes is narrow:
 
 [Non-retaliation](https://clemvillatte.github.io/flourishing-compendium/#card=Non-retaliation): Marcus Aurelius's rule for answering injury: refuse to answer it in kind.
 
-[Gentleness as virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Gentleness%20as%20virtue): the compendium's label for Aristotle's treatment of the mean concerned with anger in the Nicomachean Ethics.
+[Gentleness as virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Gentleness%20as%20virtue): the label I use for Aristotle's treatment of the mean concerned with anger in the Nicomachean Ethics.
 
 [Gentleness (praotes)](https://clemvillatte.github.io/flourishing-compendium/#card=Gentleness%20%28praotes%29): the classical virtue name for the strength that meets provocation without hardness.
 
@@ -100,7 +100,7 @@ The delay remedy Seneca prescribes is narrow:
 
 ### The stories and sayings
 
-The compendium holds anger in narrative form too:
+The theme comes in narrative form too:
 
 [146. Achilles' Disproportionate Rage](https://clemvillatte.github.io/flourishing-compendium/#card=ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): the Iliad's account of a grief that turns to rage and burns past every limit.
 
@@ -126,7 +126,7 @@ Seneca's treatise denies the fitting case: anger is by definition the mind's rus
 
 ::Variation:: What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released rather than collected.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Anger dissection](https://clemvillatte.github.io/flourishing-compendium/#card=K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.
 
@@ -144,7 +144,7 @@ Seneca's treatise denies the fitting case: anger is by definition the mind's rus
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### What anger is taken to be
 

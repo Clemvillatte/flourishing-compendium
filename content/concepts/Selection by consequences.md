@@ -15,12 +15,12 @@ Selection by consequences is B. F. Skinner's 1981 Science paper's causal princip
 
 The paper runs the principle at three levels. Natural selection is the first: reproduction as a first consequence led to cells, organs and organisms reproducing themselves under increasingly diverse conditions. Operant conditioning is the second: new responses strengthened by the events that follow them. The third is cultural: "The effect on the group, and not the reinforcing consequences for individual members, is responsible for the evolution of culture" (p. 502).
 
-The compendium's principle [[P043 — Vary, select, retain — learn the evolutionary way]] is the owner's practice scaffold, and this page is the empirical ancestor of its middle term: the selection that turns variation into retention.
+My principle [[P043 — Vary, select, retain — learn the evolutionary way]] is the owner's practice scaffold, and this page is the empirical ancestor of its middle term: the selection that turns variation into retention.
 
 ## Related concepts
 
-- [[Creative selection]] — the compendium's own naming of the variation-selection structure
-- [[Rule-governed behavior]] — the verbal antecedent side of the same causal story, per the compendium's P043 note
+- [[Creative selection]] — my own naming of the variation-selection structure
+- [[Rule-governed behavior]] — the verbal antecedent side of the same causal story, per my P043 note
 
 ## Sources
 

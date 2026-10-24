@@ -13,14 +13,14 @@ Cytokine-induced sickness behavior is the pattern of reduced appetite, sleepines
 
 The review describes the syndrome as "part of a motivational system that reorganizes the organism's priorities to facilitate recovery from the infection". It also describes how the brain learns of the infection: "Cytokines convey to the brain that an infection has occurred in the periphery", either "via the traditional endocrine route via the blood or by direct neural transmission via the afferent vagus nerve". On this account, the fatigue of illness is part of an organised response, alongside fever and the rest of the symptom list.
 
-### In the compendium
+### Here
 
 - [[PP075 — Move the body]], [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]], [[AF082 — Recognise affect's biophysiological interfaces — sleep, pain, and illness are not separate]] and [[BI005 — Recognise that inflammation affects mood — the immune system and depression]] are this concept's philosophy parallels
 
 ## Related concepts
 
 - [[Inflammatory theory of depression (Dantzer, Miller)]] — the companion account in the same research programme
-- [[The seasons of illness]] — the compendium's reflection on being sick
+- [[The seasons of illness]] — my reflection on being sick
 
 ## Field
 

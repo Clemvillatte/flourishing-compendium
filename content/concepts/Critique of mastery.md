@@ -7,7 +7,7 @@ file: "Critique of mastery"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-The critique of mastery is the argument that treating the world as something to control and use up is a mistaken and dangerous way of relating to it. The compendium links two sources: Heidegger's essay "The Question Concerning Technology" and Carolyn Merchant's The Death of Nature. This page draws on the Stanford Encyclopedia of Philosophy account of the first.
+The critique of mastery is the argument that treating the world as something to control and use up is a mistaken and dangerous way of relating to it. I link two sources: Heidegger's essay "The Question Concerning Technology" and Carolyn Merchant's The Death of Nature. This page draws on the Stanford Encyclopedia of Philosophy account of the first.
 
 ### Heidegger: the world as stock
 
@@ -19,13 +19,13 @@ The entry states that "technology discovers what entities are by compelling them
 
 ### Merchant
 
-The compendium's principle on ecological humility quotes Merchant's 2006 retrospective on The Death of Nature, in which she argues that seventeenth-century science could be implicated in the domination of nature. Neither the article nor the book was consulted for this page, so that claim stays with the principle's own sourcing.
+My principle on ecological humility quotes Merchant's 2006 retrospective on The Death of Nature, in which she argues that seventeenth-century science could be implicated in the domination of nature. Neither the article nor the book was consulted for this page, so that claim stays with the principle's own sourcing.
 
 ### Scope
 
 The Stanford entry notes that scholars vary in how they understand the technological mode of revealing and the danger it poses. This page reports one summary of Heidegger's argument and does not cover his proposed alternative or the full essay.
 
-### In the compendium
+### Here
 
 - [[R127 — Practise ecological humility]] lists this concept and cites Merchant directly.
 
@@ -33,7 +33,7 @@ The Stanford entry notes that scholars vary in how they understand the technolog
 
 - [[The enframing (Gestell)]] — Heidegger's term for the gathering of everything as stock
 - [[Instrumental reason]] — reason aimed at using things as means
-- [[Gelassenheit]] — another Heidegger concept in the compendium
+- [[Gelassenheit]] — another Heidegger concept here
 
 ## Sources
 

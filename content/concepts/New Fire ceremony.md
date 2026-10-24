@@ -17,15 +17,15 @@ The article describes the sequence: "The ceremony itself entailed all the fires 
 
 The ceremony was not uniquely Aztec: the article notes it "was an ancient and widespread ritual in Postclassic Central Mexico that the Aztecs appropriated to their own society".
 
-### In the compendium
+### Here
 
 - [[M054 — Light the New Fire periodically]] cites this ceremony as its source image.
 
 ## Related concepts
 
-- [[Ritual]] — the compendium's page on ritual
+- [[Ritual]] — my page on ritual
 - [[Li — ritual propriety]] — the Confucian counterpart on rite as order
-- [[Impermanence]] — the compendium's page on impermanence
+- [[Impermanence]] — my page on impermanence
 
 ## Sources
 

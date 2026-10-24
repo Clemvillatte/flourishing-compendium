@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Prosocial behavior is a family of voluntary, other-directed actions. A recent review defines the field this way: "Prosocial behavior, which refers to actions taken to help and benefit others, is vital in promoting cooperation and maintaining social bonds in both human and animal social groups" ([Rigney and Hong, Prosocial Helping Behavior, Biological Psychiatry 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12358107/)). The everyday catalogue runs "such as helping, sharing, donating, co-operating, and volunteering" ([Wikipedia, Prosocial behavior](https://en.wikipedia.org/wiki/Prosocial_behavior)). Motive is a separate question from the act: "a person might donate to a charity for genuinely altruistic reasons, or they might do so primarily for tax benefits or social recognition" ([Rigney and Hong 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12358107/)).
 
-The compendium's seed cites the finding that made the topic a fixture of well-being research: Dunn, Aknin and Norton's 2008 Science paper on prosocial spending, which reported that "spending more of one's income on others predicted greater happiness both cross-sectionally (in a nationally representative survey study) and longitudinally (in a field study of windfall spending)" ([Dunn, Aknin and Norton, 2008](https://greatergood.berkeley.edu/images/uploads/DunnAkninNorton2008.pdf)).
+My seed cites the finding that made the topic a fixture of well-being research: Dunn, Aknin and Norton's 2008 Science paper on prosocial spending, which reported that "spending more of one's income on others predicted greater happiness both cross-sectionally (in a nationally representative survey study) and longitudinally (in a field study of windfall spending)" ([Dunn, Aknin and Norton, 2008](https://greatergood.berkeley.edu/images/uploads/DunnAkninNorton2008.pdf)).
 
 ### The flagship experiment
 
@@ -23,9 +23,9 @@ A separate sample of 109 students, asked to pick the condition that would make t
 
 The registered replications produced different results across the three paradigms: Experiment 1 (712 students) supported the predicted benefit, Experiment 2 (1,950 adults recalling a spending memory) did not find higher happiness after prosocial recall, and Experiment 3 (N = 5,199) found a small difference favouring prosocial recall ([Aknin, Dunn, Proulx, Lok and Norton, 2020](https://pubmed.ncbi.nlm.nih.gov/32250135/)). Their summary: "Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features" ([Aknin et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32250135/)).
 
-### In the compendium
+### Here
 
-- [[PP032 — Practise prosocial behaviour for autonomous reasons]] — the autonomy condition the compendium adds to the behaviour
+- [[PP032 — Practise prosocial behaviour for autonomous reasons]] — the autonomy condition I add to the behaviour
 - [[S085 — Practise kindness]] and [[S140 — Remember that the smallest complete practice is one conscious breath and one kind act]] — kindness as the smallest daily unit
 - [[S030 — Act for the common good]] and [[S088 — Be a good neighbour]] — the civic scale of the same action
 - [[A070 — Understand the asymmetry of benefaction]] — the giver–receiver asymmetry the research on happiness echoes

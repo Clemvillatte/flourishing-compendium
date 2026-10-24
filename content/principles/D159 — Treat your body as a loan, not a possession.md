@@ -18,7 +18,7 @@ In Zhuangzi 22, Shun asks whether he can obtain the Dao and hold it as his own. 
 
 (Zhuangzi 22, paragraph 4, [Legge](https://ctext.org/zhuangzi/knowledge-rambling-in-the-north).)
 
-Cheng extends this account of entrustment to life, one's nature and one's descendants ([Legge](https://ctext.org/zhuangzi/knowledge-rambling-in-the-north)). The compendium takes the body image as a reason for care without an expectation of complete control. That is an application of the dialogue, not a health claim or an instruction to neglect the body.
+Cheng extends this account of entrustment to life, one's nature and one's descendants ([Legge](https://ctext.org/zhuangzi/knowledge-rambling-in-the-north)). I take the body image as a reason for care without an expectation of complete control. That is an application of the dialogue, not a health claim or an instruction to neglect the body.
 
 **Plain words** Ask what looking after your body requires today, without making the answer depend on keeping it unchanged forever. Care can still matter when it offers no guarantee.
 

@@ -19,7 +19,7 @@ The word "indifferent" (adiaphoron) does not counsel neglect. Epictetus' own glo
 
 Margaret Graver's summary of the position: appearances and comfort, possessions, relationships, the success of projects, power and reputation are all contingent facts, features of experience rather than characteristics of the self, while convictions, attitudes, intentions and actions are truly ours ([Graver, SEP](https://plato.stanford.edu/entries/epictetus/)). Some externals are more natural to us than others, as a foot prefers to be clean, yet the foot, if it had a mind, would welcome mud for the sake of the whole (2.6.11). The practice is care without attachment: full attention to how externals are used, no stake in how they fall.
 
-### In the compendium
+### Here
 
 - [[S015]] — Epictetus distinguishes indifferent circumstances from the morally significant use made of them
 - [[S017 — Refuse to see externals as good or bad]] — the guard against applying the words good and bad to what is not one's own

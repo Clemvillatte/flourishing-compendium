@@ -21,7 +21,7 @@ In its samples, the paper found distinct experiences of benign and malicious env
 
 The French moralist saw the hiding: his maxim 27 reads, "People are often vain of their passions, even of the worst, but envy is a passion so timid and shame-faced that no one ever dare avow her" ([Reflections, or Sentences and Moral Maxims, Bund and Friswell translation](https://www.gutenberg.org/files/9105/9105-h/9105-h.htm)). He also noticed the asymmetry of duration: envy outlasts the happiness of those envied (maxim 476, [ibid.](https://www.gutenberg.org/files/9105/9105-h/9105-h.htm)). The Buddhist canon warns from the other side, that of the envier's own peace: in Müller's Dhammapada, a mendicant who envies others does not obtain peace of mind ([verse 365](https://www.gutenberg.org/cache/epub/2017/pg2017-images.html)).
 
-### In the compendium
+### Here
 
 - [[D117 — Don't manufacture envy]] and [[D026 — Don't display baits]] — both principles read the Daodejing's third chapter, which advises: "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves; not to prize articles which are difficult to procure is the way to keep them from becoming thieves; not to show them what is likely to excite their desires is the way to keep their minds from disorder" ([Legge, Tao Teh King, ch. 3](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 

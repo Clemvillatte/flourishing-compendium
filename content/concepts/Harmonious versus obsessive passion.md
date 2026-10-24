@@ -7,7 +7,7 @@ file: "Harmonious versus obsessive passion"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-the compendium's comparison page for Vallerand's two forms of passion (Vallerand et al., 2003).
+my comparison page for Vallerand's two forms of passion (Vallerand et al., 2003).
 
 The distinction turns on how the passionate activity is internalized into identity. In Vallerand's model, passion is a strong inclination toward an activity that people like, that they find important, and in which they invest time and energy. The two forms differ by the internalization process. The granular pages carry the detail:
 

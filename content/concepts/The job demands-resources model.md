@@ -22,9 +22,9 @@ The same abstract reports that "a series of LISREL analyses using self-reports a
 
 ### What it is not
 
-The model is not a claim that demands are bad and resources good. It sorts working conditions into two groups and links each to a different outcome. On the compendium's reading, its value for a writer on flourishing is the observation that exhaustion and disengagement are different problems.
+The model is not a claim that demands are bad and resources good. It sorts working conditions into two groups and links each to a different outcome. On my reading, its value for a writer on flourishing is the observation that exhaustion and disengagement are different problems.
 
-### In the compendium
+### Here
 
 - [[AF036 — Learn to regulate through action — affect follows behaviour]]
 - [[AT026 — Learn to enter flow — the state of full attentional absorption]]

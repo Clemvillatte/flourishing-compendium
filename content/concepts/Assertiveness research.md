@@ -13,7 +13,7 @@ Assertiveness research is the study of how forcefully people push, and what push
 
 ### Why aggression loses long games
 
-The research splits the costs in two. Under-assertiveness pays an instrumental price: goals go unachieved. Over-assertiveness pays a social price: relationships close off. The long game is lost at the high end because the social costs compound, which is the empirical version of the compendium's yielding principle: standing one's ground is compatible with, and sometimes requires, not grinding people down to get there.
+The research splits the costs in two. Under-assertiveness pays an instrumental price: goals go unachieved. Over-assertiveness pays a social price: relationships close off. The long game is lost at the high end because the social costs compound, which is the empirical version of my yielding principle: standing one's ground is compatible with, and sometimes requires, not grinding people down to get there.
 
 ## Sources
 

@@ -23,13 +23,13 @@ So the unity is carried by [[Phronesis]], the one faculty that judges well in ev
 
 ### Reading it for practice
 
-The practical consequence is that training the virtues separately has a limit. Courage without justice, or honesty without kindness, is a natural disposition working without the faculty that makes it a virtue. Practising judgment across domains strengthens each of them, and that is the aim of the compendium's drills.
+The practical consequence is that training the virtues separately has a limit. Courage without justice, or honesty without kindness, is a natural disposition working without the faculty that makes it a virtue. Practising judgment across domains strengthens each of them, and that is the aim of my drills.
 
 ### What it is not
 
 It is not the claim that everyone who is good at one thing is good at everything, or that a person must be perfect to count as virtuous. It says what virtue in the strict sense involves, not how many people reach it.
 
-### In the compendium
+### Here
 
 - [[A047 — Let practical wisdom unify the virtues]] and [[A040 — Practise the unity of the virtues]] — the principle and its practice
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom]] — Aristotle's contrast between skilled cleverness and wisdom

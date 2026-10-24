@@ -21,9 +21,9 @@ A later study from Benson's group measured gene expression in blood before and a
 
 ### Limits
 
-The original entry compresses a book and a research programme into a date. The compendium links the response to stillness and calm in Daoist and Buddhist principles; the sources opened here do not support equating Benson's technique with samatha or passaddhi, and the link is the compendium's own analogy. This page does not summarise clinical trials on blood pressure or sleep.
+The original entry compresses a book and a research programme into a date. I link the response to stillness and calm in Daoist and Buddhist principles; the sources opened here do not support equating Benson's technique with samatha or passaddhi, and the link is my own analogy. This page does not summarise clinical trials on blood pressure or sleep.
 
-### In the compendium
+### Here
 
 - [[D038 — Keep stillness — stillness masters restlessness]], [[D148 — Let stillness heal]] and [[B042 — Develop calm (samatha)]] cite this concept.
 - [[B094 — Cultivate tranquility (passaddhi)]], [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]] and [[B007 — Trust that the fires can cool here and now (nibbana)]] also cite it.

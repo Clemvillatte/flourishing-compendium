@@ -21,15 +21,15 @@ The same entry gives the setting the confirmation depends on:
 
 > "For Buber, this setting of things, persons, and beings at a distance is the only way to secure the form of otherness without which there can be no relation." (Zank & Braiterman, [SEP: Martin Buber](https://plato.stanford.edu/entries/buber/))
 
-### In the compendium
+### Here
 
 - [[D126 — Trust the trustworthy and the untrustworthy]] — the principle on trust, against which the confirming-the-other account supplies the dialogic contrast.
-- [[ST284 — The Lunchbox That Never Meets]] — the story the compendium pairs with the confirming-the-other theme.
+- [[ST284 — The Lunchbox That Never Meets]] — the story I pair with the confirming-the-other theme.
 
 ## Related concepts
 
 - [[Alterity]] — the otherness the confirming relation presupposes.
-- [[The primacy of the ethical]] — the Levinas reading the compendium pairs with Buber.
+- [[The primacy of the ethical]] — the Levinas reading I pair with Buber.
 
 ## Sources
 

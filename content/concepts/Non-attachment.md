@@ -19,7 +19,7 @@ Sahdra, Shaver and Brown distinguish Buddhist nonattachment from secure and inse
 
 The paper's method was to build a measure: the Nonattachment Scale, designed on historical and contemporary Buddhist scholarship and evaluated for its psychometric properties across samples. The authors report evidence consistent with Buddhist theory that nonattachment is psychologically and socially adaptive ([Sahdra, Shaver and Brown, 2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)). The verse's logic runs the same way: grief and fear grow out of what is held, and for one wholly free from holding, the question of grief does not arise, and with it the fear.
 
-### In the compendium
+### Here
 
 - [[E102 — Practise Gelassenheit (releasement)]] — releasement as the letting-be of things, releasing the grip of willing, controlling and possessing
 - [[D176 — Desire to be without desires]] — the sage who does not prize what is hard to get

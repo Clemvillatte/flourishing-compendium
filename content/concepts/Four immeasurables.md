@@ -19,11 +19,11 @@ The tradition treats them as trainable rather than inborn, each with its own pra
 
 The name marks scope, not intensity: the attitudes are extended toward an immeasurable range of beings, with no cap on the number of objects ([Free Buddhist Audio, Brahmaviharas retreat notes](https://www.freebuddhistaudio.com/texts/othertexts/Tejananda/FBA86_Brahmaviharas_Retreat_-_Notes.pdf)). The Metta Sutta ties their full cultivation to rebirth in the Brahma realm ([Britannica, brahmavihāra](https://www.britannica.com/topic/brahmavihara)); the Mahayana traditions fold them into bodhicitta, the mind set on awakening for the sake of all beings.
 
-### In the compendium
+### Here
 
-The compendium's carrier is Y065, "Cultivate the fourfold stance toward people," which teaches the closely parallel yogic formulation, "friendliness toward the happy, compassion toward the unhappy, delight toward the virtuous, and even-minded disregard" toward the hostile, a comparison between traditions rather than a single doctrine. Y114 applies it: match the stance to the other's condition, friendliness against envy, compassion against pity, delight against competitive comparison. AF055 works with envy, mudita's enemy, by reading it as a signal of value; SP022 pairs gratitude with the repayment of love; SP073 guards cheerfulness under loss; SO001, M042, K362 and A003 carry the four into social flourishing, giving, courage and virtue.
+My carrier is Y065, "Cultivate the fourfold stance toward people," which teaches the closely parallel yogic formulation, "friendliness toward the happy, compassion toward the unhappy, delight toward the virtuous, and even-minded disregard" toward the hostile, a comparison between traditions rather than a single doctrine. Y114 applies it: match the stance to the other's condition, friendliness against envy, compassion against pity, delight against competitive comparison. AF055 works with envy, mudita's enemy, by reading it as a signal of value; SP022 pairs gratitude with the repayment of love; SP073 guards cheerfulness under loss; SO001, M042, K362 and A003 carry the four into social flourishing, giving, courage and virtue.
 
-- [[Y065 — Cultivate the fourfold stance toward people]] — the fourfold stance, the compendium's yogic form of the same set
+- [[Y065 — Cultivate the fourfold stance toward people]] — the fourfold stance, my yogic form of the same set
 - [[Y114 — Match your stance to the other's condition]] — the stance chosen by the other's state, not one's mood
 - [[AF055 — Work with envy — it signals a value, not a defect]] — envy as mudita's enemy, decoded
 - [[SP022 — Practice gratitude as repayment of love]] — gratitude as the social form of appreciative joy

@@ -17,11 +17,11 @@ Prigogine's examples do not behave like equilibrium order. A fluid heated from b
 
 His compact statement of the machinery: "There are three aspects which are always linked in dissipative structures: the function as expressed by the chemical equations, the space-time structure, which results from the instabilities, and the fluctuations, which trigger the instabilities" (same text).
 
-### In the compendium
+### Here
 
 - [[P148 — Expect order to arise through flux]] — rests directly on this work: order that exists only while the flow continues
-- [[P149 — Use instability creatively]] — the compendium's practical turn on the same lecture, separating the physics from personal-crisis analogies
-- [[P007 — Expect emergence — wholes exceed their parts]] — emergence is the compendium's wider frame; dissipative structures are one physical instance
+- [[P149 — Use instability creatively]] — my practical turn on the same lecture, separating the physics from personal-crisis analogies
+- [[P007 — Expect emergence — wholes exceed their parts]] — emergence is my wider frame; dissipative structures are one physical instance
 
 ## Related concepts
 

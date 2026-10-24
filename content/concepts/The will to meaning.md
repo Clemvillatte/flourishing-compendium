@@ -13,9 +13,9 @@ The will to meaning is Viktor Frankl's term for the primary motivational force h
 
 The claim was tested where Frankl landed: the camps. The book's most quoted passage gives the freedom the construct rests on: "everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way" ([full text PDF](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). Meaning is then discovered three ways: "by creating a work or doing a deed; by experiencing something or encountering someone; and by the attitude we take toward unavoidable suffering" ([full text PDF](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). And the concern it names is not comfort: "man's main concern is not to gain pleasure or to avoid pain but rather to see a meaning in his life" ([full text PDF](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
 
-### In the compendium
+### Here
 
-The compendium's principle E066 practises the will to meaning directly, and the story ST311 gives it Frankl's why. Its principles on craftsmanship (PP022) and on giving things time (D018) sit nearby.
+My principle E066 practises the will to meaning directly, and the story ST311 gives it Frankl's why. Its principles on craftsmanship (PP022) and on giving things time (D018) sit nearby.
 
 ## Related concepts
 

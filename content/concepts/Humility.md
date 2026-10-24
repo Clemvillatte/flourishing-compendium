@@ -15,7 +15,7 @@ Humility, in the psychological literature, is not self-deprecation. June Price T
 
 The tradition behind the construct is older and wider. Aquinas treats humility as a virtue moderating the appetite for one's own excellence (Summa Theologiae II-II, q.161), Augustine and the kenosis distinction mark the Christian line, and Peirce's fallibilism carries the epistemic version: holding every belief as provisional. What ties the theological and the research literatures together is the same double move. See yourself plainly, strengths included, and hold that self lightly, as one part of a larger whole.
 
-### In the compendium
+### Here
 
 - [[D052 — Know the white, keep to the black]] — the Daoist humility of staying in the background, cited in psychology parallels
 - [[D067 — Don't claim credit]] — the Daoist principle of unclaimed work, cited in philosophy parallels

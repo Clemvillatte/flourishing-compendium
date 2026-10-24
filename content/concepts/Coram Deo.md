@@ -19,7 +19,7 @@ The aim is not groveling but reorientation, and Calvin says so in a sentence mod
 
 The doctrine has two practical edges. One is the consecration of everything, including ordinary work, since "that we are consecrated and dedicated to God, and, therefore, should not henceforth think, speak, design, or act, without a view to his glory" (same text) — the claim behind the Reformation's famous dignity of every calling, from the cobbler's bench to the pulpit. The other edge is watchfulness without terror: the presence one lives before is not surveillance but care, on the model of the Psalmist's "The eyes of the Lord are upon the righteous, and his ears are open unto their cry" (Ps. 34:15, quoted in the Institutes' chapter on prayer as extolling the care divine providence exercises over believers). The same awareness appears throughout the universe itself: in creation, Calvin writes, God "daily place[s] himself in our view, that we cannot open our eyes without being compelled to behold him" (Institutes, Book I, ch. 5).
 
-The compendium's principle [[X017 — Practice watchfulness as the constant presence of the Beloved]] is the cross-tradition echo this entry was named for: the same before-a-face awareness, kept in other vocabularies by other traditions. Its neighbor [[Vocation as calling]] carries the Reformation consequence: work done before God is work that matters.
+My principle [[X017 — Practice watchfulness as the constant presence of the Beloved]] is the cross-tradition echo this entry was named for: the same before-a-face awareness, kept in other vocabularies by other traditions. Its neighbor [[Vocation as calling]] carries the Reformation consequence: work done before God is work that matters.
 
 ## Sources
 

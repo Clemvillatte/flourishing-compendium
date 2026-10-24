@@ -19,7 +19,7 @@ The study tested whether compliance with the modesty norm can maintain self-este
 
 The abstract's conclusion is direct: "These findings indicate that self-esteem cannot be maintained through compliance with the modesty norm." ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)) The two studies were conducted with Chinese participants, and the effect appeared only when mortality was made salient, so the result is scoped to that collectivistic setting and that existential condition ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)).
 
-### In the compendium
+### Here
 
 - [[D163 — Carry jade in coarse cloth]] lists this topic as a psychology parallel.
 

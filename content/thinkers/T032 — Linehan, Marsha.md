@@ -37,7 +37,7 @@ DBT holds acceptance and change together. Linehan defines the therapy as "a synt
 - **Wise mind and the Zen inheritance** — the core skills are "psychological and behavioral translations of meditation practices from eastern spiritual training," and she used these in developing the term "wise mind" ([Wikipedia, Marsha Linehan](https://en.wikipedia.org/wiki/Marsha_Linehan)). See [[Radical acceptance]], [[K123 — Radical acceptance|Radical acceptance]], [[K249 — Half-smile|Half-smile]].
 - **A biosocial theory of the disorder** — DBT "is based upon the biosocial theory of mental illness" ([Wikipedia, Dialectical behavior therapy](https://en.wikipedia.org/wiki/Dialectical_behavior_therapy)). See [[DBT Biosocial Theory]], [[SE069 — Recognise identity disturbances — when self is fragmented|Recognise identity disturbances: when self is fragmented]], [[SE076 — Recognise clinical self-symptoms — when self-problems require evaluation|Recognise clinical self-symptoms: when self-problems require evaluation]].
 
-## Everything connected in the wiki — the DBT and behavioral tradition
+## Everything connected here — the DBT and behavioral tradition
 
 Kept to the pages that carry or substantively apply Linehan's work — her skills, her manual, her theory and the treatments built on them. The Stoic and Buddhist principles that cite her as a cross-tradition parallel (suchness, riding emotion, accepting what happens) stay on their own pages. Four concepts mention her only editorially, in citation or comparison, and are marked as such below.
 

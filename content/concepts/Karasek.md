@@ -27,7 +27,7 @@ The paper's main implication is that redesigning work to give a broad range of w
 
 A 2003 review of longitudinal research on the demand-control-(support) model applied five quality criteria to 45 studies; 19 (42%) scored acceptably on all of them. Those higher-quality studies gave only modest support for the claim that the combination of high demands and low control produces high strain, though there was good evidence for lagged causal effects of work characteristics, especially on self-reported health or well-being. ([de Lange et al. 2003, PubMed 14570524](https://pubmed.ncbi.nlm.nih.gov/14570524/)) The 1979 paper tested the model on national survey data; the review above concerns the later demand-control-(support) version of the model.
 
-### In the compendium
+### Here
 
 - [[SO057 — Design workplaces for flourishing]] cites this concept, together with Karasek and Theorell (1990), for demand-control-support.
 

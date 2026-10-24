@@ -18,7 +18,7 @@ The Analects' answer, in Muller's translation:
 
 > Zi Gong asked: "Is there a single concept that we can take as a guide for the actions of our whole life?" Confucius said, "What about 'reciprocity'? What you don't like done to yourself, don't do to others." — [Confucius, Analects 15:24, Muller translation](http://www.acmuller.net/con-dao/analects.html)
 
-The passage is an ethical constraint on how others are treated. The map's three questions are the compendium's editorial design, and the balance they look for is editorial, not Confucius's.
+The passage is an ethical constraint on how others are treated. The map's three questions are my own design, and the balance they look for is editorial, not Confucius's.
 
 ### Protocol
 

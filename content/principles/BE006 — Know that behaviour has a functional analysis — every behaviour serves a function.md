@@ -16,7 +16,7 @@ Before deciding why a behaviour persists, ask what evidence would support the ex
 
 > "The analysis of a behavior, as the term is used here, requires a believable demonstration of the events that can be responsible for the occurrence or non-occurrence of that behavior." (Baer, Wolf and Risley, 1968, Journal of Applied Behavior Analysis 1(1), 91-97, pp. 93-94, [article PDF](http://www.behaviorpedia.com/wp-content/uploads/2013/01/Baer-Wolf-Risley.pdf))
 
-Their discussion concerns demonstrating the events responsible for behaviour, including experimental control. The compendium's self-observation exercise below is a practical adaptation of that concern. It gathers evidence, but it does not establish what maintains a particular behaviour.
+Their discussion concerns demonstrating the events responsible for behaviour, including experimental control. My self-observation exercise below is a practical adaptation of that concern. It gathers evidence, but it does not establish what maintains a particular behaviour.
 
 **Plain words** Choose one recurring action you want to change. On several occasions, record what happened immediately before it and afterwards. Include occasions when it did not happen. Use the notes to propose an explanation, then ask what evidence would count against it. Keep that explanation provisional.
 

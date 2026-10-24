@@ -27,7 +27,7 @@ The contrast is with the everyday present, which Heidegger treats as distraction
 
 ### Where it leads
 
-The concept is the hinge between two things the compendium treats separately: [[Resoluteness (Entschlossenheit)]], the disposition that produces the moment, and [[Timing as wisdom]], the practical question of when to act. Heidegger's claim is that timing is not a matter of picking the right clock-reading. What makes an act timely is that the actor is already resolute, so the situation discloses itself as something to be done something about.
+The concept is the hinge between two things I treat separately: [[Resoluteness (Entschlossenheit)]], the disposition that produces the moment, and [[Timing as wisdom]], the practical question of when to act. Heidegger's claim is that timing is not a matter of picking the right clock-reading. What makes an act timely is that the actor is already resolute, so the situation discloses itself as something to be done something about.
 
 ## Related concepts
 

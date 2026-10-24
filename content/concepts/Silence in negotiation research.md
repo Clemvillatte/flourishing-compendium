@@ -19,14 +19,14 @@ The paper frames the contrast through dual-process theory: "the default fixed-pi
 
 Study 3 traced the mechanism through deliberative mindset, and Study 4 showed a pre-to-post decrease in fixed-pie perceptions among silence users ([Studies 3-4 and general discussion](https://web.mit.edu/curhan/www/docs/Publications/Curhan_Silence_is_Golden.pdf)). One boundary condition appeared in Study 3: "when status differences are salient, the use of silence by higher status parties leads to value creation, whereas the use of silence by lower status parties does not" ([abstract](https://web.mit.edu/curhan/www/docs/Publications/Curhan_Silence_is_Golden.pdf)). In Study 4, instructing negotiators to use silence worked better for value creation than instructing them to problem-solve ([abstract](https://web.mit.edu/curhan/www/docs/Publications/Curhan_Silence_is_Golden.pdf)).
 
-### In the compendium
+### Here
 
 - [[D118 — Speak rarely (guayan)]] — the principle that cites this research as its psychology parallel, beside the Daodejing's counsel to say less; the studies concern bargaining tables, not Daoist practice
 
 ## Related concepts
 
 - [[System 1 and System 2]] — the paper's own framing: the fixed-pie default is System 1 thinking, the deliberative shift System 2
-- [[Face negotiation theory]] — another entry in the compendium's negotiation set
+- [[Face negotiation theory]] — another entry in my negotiation set
 - [[Silence as evidence]] — when silence does and does not count as agreement
 
 ## Sources

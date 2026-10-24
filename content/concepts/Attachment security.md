@@ -15,7 +15,7 @@ Attachment security is the sense, built up from experience with available and re
 
 The chapter gives the mechanism in Bowlby's terms: attachment figures provide a safe haven in times of need, reliably providing protection, comfort and relief, and a secure base, the kinds of support that allow a child or adult relationship partner to pursue non-attachment goals with confidence in a relatively safe and encouraging environment. That protection and support "normally terminates safety- and proximity-seeking behavior and allows a person to function better in a wide array of life domains such as exploration, learning, interpersonal behavior, and sexual mating". On the chapter's reading of the evidence, secure people can "remain relatively unperturbed in times of stress and experience longer periods of positive affectivity". The same chapter notes the plasticity finding: Bowlby claimed that meaningful interactions with others throughout life can alter attachment-system functioning and move a person from one region of the two-dimensional space to another, and the authors' longitudinal work finds a sensitive, supportive partner reducing relationship-specific insecurities over eight months.
 
-### In the compendium
+### Here
 
 - [[PP034 — Build secure attachment]] — the direct principle: Bowlby's summary that all of us, from the cradle to the grave, are happiest when life is organized as a series of excursions from the secure base provided by our attachment figures.
 - [[SE047 — Recognise attachment patterns — early relationships shape self-relation]] — the two insecurity dimensions; people low on both are secure.
@@ -35,7 +35,7 @@ The chapter gives the mechanism in Bowlby's terms: attachment figures provide a 
 - [[The need to belong]] — the developmental substrate of the same motivation
 - [[Attachment theory]] — the parent theory this page's construct belongs to
 - [[Secure base]] — the exploration-enabling function security rests on
-- [[Attachment research on autonomy-granting]] — the compendium's page on autonomy-supportive care
+- [[Attachment research on autonomy-granting]] — my page on autonomy-supportive care
 - [[Earned security]] — secure attachment reached through later relationships rather than early ones
 - [[Perceived partner responsiveness]] — the partner behaviour the security cycle runs on
 

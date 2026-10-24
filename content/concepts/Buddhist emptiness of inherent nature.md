@@ -22,7 +22,7 @@ The opponent's worry is nihilism: "If all of this is empty, / Neither arising, n
 
 On Westerhoff’s reading, emptiness is not a theory describing reality independently of human interests and conceptual resources; it corrects the mistaken attribution of svabhāva ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)). The chapter gives the doctrine a two-truths frame: "The Buddha’s teaching of the Dharma / Is based on two truths: / A truth of worldly convention / And an ultimate truth," and that without conventional truth the ultimate's significance cannot be taught (MMK 24.8, 24.10) ([Garfield](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf)). Arnold connects this with verse 18’s dependent designation: emptiness is not another independently existing foundation ([Arnold, IEP](https://iep.utm.edu/madhyamaka-buddhist-philosophy/)). Westerhoff notes that intellectual conviction does not make phenomena stop appearing to have svabhāva; that change is attributed to realisation ([Westerhoff, SEP](https://plato.stanford.edu/entries/nagarjuna/)).
 
-### In the compendium
+### Here
 
 K011 "See the ego's groundlessness as its nature, not its failure" treats the constructed self in Nishitani's idiom, an editorial point of contact. AF009 "Understand that affect is constructed, not discovered" states that the categories you use shape the experience itself. Y104 "Give up the doer's claim" attributes outcomes to the whole system of conditions that produced them.
 

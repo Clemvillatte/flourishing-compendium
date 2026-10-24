@@ -14,7 +14,7 @@ Tracking a target behavior, such as screen time, sleep, mood, or practice freque
 
 ### Protocol
 
-The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
+The steps are my practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. Choose one target and define it so a stranger could spot an occurrence: hours of sleep, phone pickups, minutes of practice.
 2. Record each occurrence, or a daily count, in the same place every time. The review below links recording close to each occurrence with stronger effects.

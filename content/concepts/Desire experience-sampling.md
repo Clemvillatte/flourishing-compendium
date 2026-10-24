@@ -33,11 +33,11 @@ A companion paper extrapolates from the data: "the average adult spends approxim
 
 The Psychological Science paper also found that desires for media use and work brought the most self-control failure, with 42% of media desires enacted despite an attempt to resist. It reports that earlier self-control predicted lower success at resisting later desires on the same day, which the authors read as support for a limited-resource model of self-control. That model is contested, so this page does not rely on it.
 
-### Why it matters for the compendium
+### Why it matters here
 
 The data fit a milder reading of the desire-reduction principles: most desires are ordinary and need no fight, and the work is in the conflicting minority. The study does not test whether reducing desire improves wellbeing, and it does not address craving as the Buddhist texts define it.
 
-### In the compendium
+### Here
 
 - [[D021 — Reduce desires (guayu)]], [[D155 — Watch the thieves within]], [[B006 — Craving is the engine of suffering (tanha)]] and [[B110 — Distinguish need from craving]] cite this concept.
 - [[S013 — Discipline your desires]] and [[S127 — Practise the discipline of not wanting]] cite it as well.

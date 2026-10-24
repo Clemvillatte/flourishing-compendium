@@ -21,7 +21,7 @@ In §70 he adds a method point. Seizing an essence, he says, "can be effected on
 
 The PDF is a machine-read scan with some broken word spacing. The quotations above were checked against it after allowing for that. A reader quoting Husserl in an essay should confirm each wording against a print edition.
 
-### In the compendium
+### Here
 
 - [[E007 — Practise eidetic seeing]] builds on §3 and §70. This page gives the concept those passages define.
 

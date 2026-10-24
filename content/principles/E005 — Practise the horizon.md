@@ -16,7 +16,7 @@ In Ideas I §44, Husserl describes the perception of a physical thing as one-sid
 
 > Necessarily there always remains a horizon of determinable indeterminateness, no matter how far we go in our experience, no matter how extensive the continua of actual perceptions of the same thing may be through which we have passed. (Husserl, Ideas I §44, Kersten trans., [full text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
 
-The compendium uses this description as an exercise: distinguish what you currently see from what you anticipate seeing next.
+I use this description as an exercise: distinguish what you currently see from what you anticipate seeing next.
 
 (Husserl, 1913/1982, Ideas I, §44.)
 

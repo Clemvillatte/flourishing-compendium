@@ -17,7 +17,7 @@ In Kohlberg's sequence, the postconventional level is where moral reasoning stop
 
 Cook-Greuter's later work extends the same idea from moral reasoning to meaning-making, describing postautonomous stages in which the habits of mind that organized the earlier stages are themselves examined.
 
-### In the compendium
+### Here
 
 - [[E109 — Practise the overman (Übermensch)]] — lists the concept among its psychology parallels.
 

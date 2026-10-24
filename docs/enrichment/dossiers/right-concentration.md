@@ -91,7 +91,7 @@ Collectedness is not clamping the mind down; it is the gathering of it, the way 
 
 ### Absorption in activity: flow and its cousins
 
-33. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered "quite withdrawn from sensuality" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. The compendium keeps them as cousins and does not collapse them.
+33. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered "quite withdrawn from sensuality" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep them as cousins and does not collapse them.
 
 34. [AT026 — Learn to enter flow — the state of full attentional absorption](https://clemvillatte.github.io/flourishing-compendium/#card=AT026%20%E2%80%94%20Learn%20to%20enter%20flow%20%E2%80%94%20the%20state%20of%20full%20attentional%20absorption): attention as the finite medium of consciousness, and what that bound places on experience.
 
@@ -129,13 +129,13 @@ The shared question: what does collecting the mind do to the field of awareness?
 
 Shankman's reading of the same family of terms holds a wider option inside the same word. Samadhi "basically means 'undistractedness'"; it may be viewed as "an exclusive focus on a single object," but also as "a broader state of awareness in which the mind remains steady and unmoving, yet aware of a wide range of phenomena around the meditation object." The same source renders citt'ekaggata both as "one-pointedness," fixated on a single object, and as "unification of mind," in which mind becomes very still but does not merge with the object of attention, and is thus able to observe and gain insight into the changing flow of experience. ([Wikipedia, Samadhi, quoting Richard Shankman](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passages were checked against the raw HTML of the article.
 
-The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation "has become a matter of debate." What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and the compendium's own pages hold both.
+The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation "has become a matter of debate." What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and my own pages hold both.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the scatter and the strain: attention divided across tabs and tasks, the switching costs paid as residue, and the white-knuckle forcing that the lute-string teaching names as the first failure mode. The adaptive direction is the tuned middle: one object, one task, one protected block, with the return counted as the practice rather than as failure, and the effort checked against the two failure modes the sutta names, restless over-effort and slack neglect.
 
-::Selection:: The compendium's selected practices on this theme, each a selected source of that variation:
+::Selection:: The practices I have selected as sources of that variation:
 
 1. [K100 — Breath anchoring](https://clemvillatte.github.io/flourishing-compendium/#card=K100%20%E2%80%94%20Breath%20anchoring): rest attention on the breath's physical sensation; note where it went; return. The return is the practice, not a failure.
 
@@ -153,7 +153,7 @@ The disagreement is real and live: the article's Criticism section reports that 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The rose-apple tree
 

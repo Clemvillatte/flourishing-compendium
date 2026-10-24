@@ -25,7 +25,7 @@ Latour's definition of the actor in the hyphenated expression:
 
 Latour's own compressed statement of the problem: the adjective "social" designates "two entirely different phenomena: it's at once a substance, a kind of stuff, and also a movement between non-social elements. In both cases, the social vanishes" ([Oxford Academic, Part II introduction](https://academic.oup.com/book/52349/chapter-abstract/421264975?redirectedFrom=fulltext)). The sociology of associations follows the second meaning and traces what the first meaning hides. The book's final framing is that "sociology is best defined as the discipline where participants explicitly engage in the reassembling of the collective" ([Oxford Academic, Conclusion](https://academic.oup.com/book/52349/chapter/421265000)).
 
-The compendium holds the concept for the reason its principle states: things are participants. A practice, a habit, or a tool is not a neutral instrument being used by a social actor; it is part of what Latour would call the association that produces the action.
+I hold the concept for the reason its principle states: things are participants. A practice, a habit, or a tool is not a neutral instrument being used by a social actor; it is part of what Latour would call the association that produces the action.
 
 ## Related concepts
 

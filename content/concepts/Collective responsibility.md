@@ -17,7 +17,7 @@ The model contrasts with the liability model. Young specifies five distinguishin
 
 The responsibility it names is shared rather than vested in a collective agent. Marin, discussing Young's model: "Unlike collective responsibility, which belongs to collective agents, responsibility for structural injustice is shared: Each individual bears it personally, but together with others (109–10). Only by joining with others in collective action can one discharge it (111–2)." ([Marin, Structural Responsibility](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BD6D560DB5A68105A5B47438F03FE7F/S0003055424001072a.pdf/structural_responsibility.pdf), 2024, p. 1334 — Marin's own prose; the parenthetical page references are to Young's Responsibility for Justice)
 
-### In the compendium
+### Here
 
 - [[R008 — Practise collective responsibility]] — the direct practice
 - [[R114 — Practise relational responsibility]] — the relational counterpart

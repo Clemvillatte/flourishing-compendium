@@ -17,7 +17,7 @@ The pleasure, Aristotle continues, comes from the thought of one's own superiori
 
 Greek story and history then supply the second half of the pair. Britannica's survey of the concept points to figures like Xerxes punishing the sea for destroying his bridge, and to literary critics reading hubris as the tragic flaw of the Greek heroes ([Britannica, hubris](https://www.britannica.com/topic/hubris)). Wikipedia's account of the pattern gives the mythic case: Arachne, "a talented young weaver, was transformed into a spider when she said that her skills exceeded those of the goddess Athena" ([Wikipedia, Hubris](https://en.wikipedia.org/wiki/Hubris)). In its modern usage, "hubris denotes overconfident pride combined with arrogance" ([Wikipedia, Hubris](https://en.wikipedia.org/wiki/Hubris)).
 
-The compendium's principle on narcissistic patterns is SE070.
+My principle on narcissistic patterns is SE070.
 
 ## Related concepts
 

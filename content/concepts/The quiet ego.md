@@ -17,7 +17,7 @@ The authors are explicit that this is not a trait but a set of skills: "we conce
 
 ### Why it matters to flourishing
 
-The quiet ego is one of the clearest research-side statements of what contemplative traditions call egolessness: not the destruction of the self but its restructuring around balance and growth. The evidence base links it to eudaimonic well-being, compassionate goals, and self-rated health ([Wayment 2016, self-compassion.org](https://self-compassion.org/wp-content/uploads/2017/01/Wayment2016.pdf)). The compendium uses it as the psychology-side anchor for practices that reduce defensiveness without reducing agency. See Measure perfection as power, not as judgment (SP009) for the application to perfectionism, and Root the heart in the divine ground (M018) for the contemplative version.
+The quiet ego is one of the clearest research-side statements of what contemplative traditions call egolessness: not the destruction of the self but its restructuring around balance and growth. The evidence base links it to eudaimonic well-being, compassionate goals, and self-rated health ([Wayment 2016, self-compassion.org](https://self-compassion.org/wp-content/uploads/2017/01/Wayment2016.pdf)). I use it as the psychology-side anchor for practices that reduce defensiveness without reducing agency. See Measure perfection as power, not as judgment (SP009) for the application to perfectionism, and Root the heart in the divine ground (M018) for the contemplative version.
 
 ## Related concepts
 

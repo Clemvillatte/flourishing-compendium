@@ -25,9 +25,9 @@ Heidegger then aims the point at anyone who claims to read only what the text sa
 
 > "If, when one is engaged in a particular concrete kind of interpretation, in the sense of exact textual Interpretation, one likes to appeal [beruft] to what 'stands there', then one finds that what 'stands there' in the first instance is nothing other than the obvious undiscussed assumption [V ormeinung] of the person who does the interpreting. In an interpretative approach there lies such an assumption, as that which has been 'taken for granted' ["gesetzt"] with the interpretation as such—that is to say, as that which has been presented in our fore-having, our fore-sight, and our fore-conception." (Heidegger, Being and Time §32, [Macquarrie and Robinson translation, p. 192, beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.192.html))
 
-Read as a unit, the three fores describe one movement: what a reader already holds, the angle cut into it, and the concept ready to receive it. Interpretation is always already underway. The consequence is a shift in intellectual honesty: the question becomes which assumptions one brings. That is the hinge the compendium's E081 turns: Gadamer's defense of prejudgment, on that principle's own account, holds that understanding never starts from zero and that the Enlightenment's prejudice against prejudice itself is still a prejudice.
+Read as a unit, the three fores describe one movement: what a reader already holds, the angle cut into it, and the concept ready to receive it. Interpretation is always already underway. The consequence is a shift in intellectual honesty: the question becomes which assumptions one brings. That is the hinge my E081 turns: Gadamer's defense of prejudgment, on that principle's own account, holds that understanding never starts from zero and that the Enlightenment's prejudice against prejudice itself is still a prejudice.
 
-### In the compendium
+### Here
 
 - [[E081 — Practise the universality of prejudice]] — the principle that builds on this concept: Gadamer's defense of prejudgment as the condition of understanding, against the Enlightenment's prejudice against prejudice itself.
 

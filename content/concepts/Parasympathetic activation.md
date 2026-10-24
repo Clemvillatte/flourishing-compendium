@@ -27,7 +27,7 @@ Lehrer and Gevirtz propose a baroreflex mechanism:
 
 > “The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor (Vaschillo et al., 2002; Lehrer et al., 2003).” ([Lehrer and Gevirtz, 2014, Front Psychol 5:756](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/), abstract)
 
-### In the compendium
+### Here
 
 - [[B094 — Cultivate tranquility (passaddhi)]] and [[B042 — Develop calm (samatha)]] — the Buddhist calm principles link this concept in their psychology parallels (B094 for the Zaccaro review, B042 as “Parasympathetic activation and HRV”)
 - [[BI045 — Learn slow breathing — a direct autonomic regulator]] — the slow-breathing principle quotes the same Zaccaro review for its mechanism

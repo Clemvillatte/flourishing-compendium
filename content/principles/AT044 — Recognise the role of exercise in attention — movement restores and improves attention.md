@@ -16,7 +16,7 @@ The evidence for the acute case is meta-analytic: Chang, Labban, Gapin and Etnie
 
 > "In conclusion, the effects of acute exercise on cognitive performance are generally small; however, larger effects are possible for particular cognitive outcomes and when specific exercise parameters are used." (Chang et al., 2012 — [PubMed record](https://pubmed.ncbi.nlm.nih.gov/22480735/) — Brain Res 1453, pp. 87-101)
 
-The compendium's reading is practical rather than heroic: if thinking is stuck, a moderately-paced walk is a cheap, low-risk experiment with a small expected benefit, not a guaranteed sharpening. The premise of the research programme is that physiological changes from exercise have implications for cognitive function; the specific mechanisms (blood flow, neurotransmitters, neurogenesis) are studied elsewhere and are not established by these two papers.
+My reading is practical rather than heroic: if thinking is stuck, a moderately-paced walk is a cheap, low-risk experiment with a small expected benefit, not a guaranteed sharpening. The premise of the research programme is that physiological changes from exercise have implications for cognitive function; the specific mechanisms (blood flow, neurotransmitters, neurogenesis) are studied elsewhere and are not established by these two papers.
 
 **Plain words**
 Exercise is not a caffeine substitute with a kick: the pooled effect is small, and it depends on how long, how hard, and what you measure. It is cheap, low-risk and always available. When attention sags, a 20-minute moderate walk is a reasonable first move, and if it helps you, you have learned something about your own response rather than proven a law.

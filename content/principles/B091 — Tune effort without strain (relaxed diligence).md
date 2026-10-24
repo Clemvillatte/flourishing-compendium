@@ -16,7 +16,7 @@ The Sona Sutta gives the principle its simile. Sona had been a lute player; the 
 
 > "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune the pitch of the [five] faculties [to that], and there pick up your theme." (AN 6.55, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/an/an06/an06.055.than.html))
 
-Read together, the two passages treat effort as something to be tuned rather than maximized. The sutta names two failure modes, restlessness and laziness, and the correction it names is attunement. The compendium proposes applying the simile: when effort turns into clenched force, the question is which demand is overtightened, and one possible answer is to adjust the aim or the pace.
+Read together, the two passages treat effort as something to be tuned rather than maximized. The sutta names two failure modes, restlessness and laziness, and the correction it names is attunement. I propose applying the simile: when effort turns into clenched force, the question is which demand is overtightened, and one possible answer is to adjust the aim or the pace.
 
 ### Plain words
 

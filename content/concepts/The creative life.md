@@ -15,7 +15,7 @@ The creative life, as Nietzsche presents it in Thus Spake Zarathustra, is a mode
 
 In the first chapter's metamorphoses, the spirit that loves tradition's "Thou shalt" must become a lion that wins freedom for new creating, and the lion must still become a child: "Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea". Nietzsche adds that "for the game of creating, my brethren, there is needed a holy Yea unto life". The creative stance is the child's, and it draws on what has not yet been formed.
 
-### In the compendium
+### Here
 
 - [[P001 — Build your life on becoming, not being]]
 - [[P191 — Joy is the felt signature of creation; distinct from pleasure]]

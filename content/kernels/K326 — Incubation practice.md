@@ -14,7 +14,7 @@ When stuck on a problem, step away from it: walk, shower, garden, sleep. The met
 
 ### Protocol
 
-The steps are the compendium's practice form; the moderators the form leans on are quoted in the Evidence section.
+The steps are my practice form; the moderators the form leans on are quoted in the Evidence section.
 
 1. Work the problem long enough to load it: the study below found longer preparation periods gave a greater incubation effect.
 2. Step away to something with low cognitive demand, not to something demanding: high-demand fillers gave a smaller effect.

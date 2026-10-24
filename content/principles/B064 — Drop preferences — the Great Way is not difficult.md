@@ -33,7 +33,7 @@ The poem's demand goes beyond being flexible about dinner. It challenges divisio
 > "The wise show no elation or depression when touched by happiness or sorrow." (Dhammapada 83, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html))
 
 **Plain words**
-A disliked meal can remain a disliked meal without making the evening a failure. The compendium's everyday exercise is to loosen that added verdict. This is a modest application of the poem, not its whole account of non-duality, and not a reason to disregard safety or ethical judgement.
+A disliked meal can remain a disliked meal without making the evening a failure. My everyday exercise is to loosen that added verdict. This is a modest application of the poem, not its whole account of non-duality, and not a reason to disregard safety or ethical judgement.
 
 For example: Over two meals, a traveller compares constant ranking with describing the food before deciding whether to order it again. She notices which approach leaves more attention for the meal and her companion, and repeats that approach. No change in taste is required or promised.
 

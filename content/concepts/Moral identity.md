@@ -15,7 +15,7 @@ Blasi's model has four components: after a moral judgment, the person judges whe
 
 The later "standard model" operationalizes the construct: "Moral identity is the degree to which being a moral person is important to an individual's identity" ([Hardy and Carlo 2011, quoted in Karger commentary](https://karger.com/hde/article/58/3/164/158043/Moral-Identity-and-Developmental-TheoryCommentary)), with Aquino and Reed's centrality research showing the self as "a mélange of different identities of which morality is but one" ([Karger commentary](https://karger.com/hde/article/58/3/164/158043/Moral-Identity-and-Developmental-TheoryCommentary)).
 
-### In the compendium
+### Here
 
 The principles treat moral identity as the bridge between virtue and action. A004's becoming virtuous by doing virtuous acts is the Aristotelian formation of it; A047 lets phronesis unify the virtues so the identity has a judge. R034's tika carries the Māori form, the question of what is right asked of every decision; R052's yi is the Confucian virtue; R024 grounds moral selfhood in respect for the Dreaming; R103 practises the communitarian critique; and SP009 translates moral judgment into Spinoza's power question, perfection as degree of power of acting rather than blame. B142 warns that attachment to views, even moral views, breeds conflict. The kernel layers V2K and V2K-S01 carry the evidence.
 

@@ -16,7 +16,7 @@ Dweck's original distinction, in her words ([Dweck, 1986, p. 1040](https://gwern
 
 > "Achievement motivation involves a particular class of goals--those involving competence--and these goals appear to fall into two classes: (a) learning goals, in which individuals seek to increase their competence, to understand or master something new, and (b) performance goals, in which individuals seek to gain favorable judgments of their competence or avoid negative judgments of their competence"
 
-Dweck describes two patterns of behaviour alongside the two goals. Of the adaptive pattern she writes that it "is characterized by challenge seeking and high, effective persistence in the face of obstacles," while the maladaptive "helpless" pattern shows "challenge avoidance and low persistence in the face of difficulty" ([Dweck, 1986, p. 1040](https://gwern.net/doc/psychology/personality/1986-dweck.pdf)). In her summary, children who believe intelligence is a fixed trait tend to orient toward performance goals, while children who believe it is a malleable quality tend to orient toward learning goals ([Dweck, 1986, p. 1041](https://gwern.net/doc/psychology/personality/1986-dweck.pdf)). That link connects this theory to the compendium's pages on implicit theories of intelligence and growth mindset.
+Dweck describes two patterns of behaviour alongside the two goals. Of the adaptive pattern she writes that it "is characterized by challenge seeking and high, effective persistence in the face of obstacles," while the maladaptive "helpless" pattern shows "challenge avoidance and low persistence in the face of difficulty" ([Dweck, 1986, p. 1040](https://gwern.net/doc/psychology/personality/1986-dweck.pdf)). In her summary, children who believe intelligence is a fixed trait tend to orient toward performance goals, while children who believe it is a malleable quality tend to orient toward learning goals ([Dweck, 1986, p. 1041](https://gwern.net/doc/psychology/personality/1986-dweck.pdf)). That link connects this theory to my pages on implicit theories of intelligence and growth mindset.
 
 ### Approach and avoidance
 
@@ -28,7 +28,7 @@ Elliot and Church kept the mastery goal and split the performance category in tw
 
 In the college-classroom study, the authors reported favorable results for mastery goals on [[Intrinsic motivation|intrinsic motivation]] and for performance-approach goals on graded performance, and unfavorable results for performance-avoidance goals on both outcomes ([Elliot and Church, 1997](https://api.openalex.org/works/doi:10.1037/0022-3514.72.1.218)). The abstract describes a college-classroom test; this page does not generalize those results to other settings.
 
-### In the compendium
+### Here
 
 - [[MO020 — Recognise mastery vs performance goals — learning vs proving]] — applies the learning/performance distinction to achievement goals
 - [[MO019 — Learn to set approach goals, not avoidance goals]] — uses the approach/avoidance distinction to discuss goal setting
@@ -42,7 +42,7 @@ In the college-classroom study, the authors reported favorable results for maste
 ## Related concepts
 
 - [[Implicit theories of intelligence]] — the fixed or malleable beliefs that, in Dweck's account, orient a person toward performance or learning goals
-- [[Growth mindset]] — the compendium's page for the malleable-intelligence belief
+- [[Growth mindset]] — my page for the malleable-intelligence belief
 - [[Intrinsic motivation]] — the outcome mastery goals went with in the 1997 study
 - [[Achievement motivation theory]] — the classic tradition the hierarchical model integrated with the goal framework
 - [[Approach versus avoidance motivation]] — the distinction Elliot and Church used to split the performance category

@@ -11,7 +11,7 @@ Radical acceptance is Marsha Linehan's term, from dialectical behavior therapy (
 
 ### What the skill asks
 
-A 2006 review of DBT describes it as something that "essentially involves accepting the experience of the present moment for what it is, without struggling to change it or willfully resisting it" ([Psychiatry, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/)). It sits in DBT's distress tolerance module, where patients learn that pain is an inevitable part of life and that unwillingness to accept this fact "often leads to greater suffering" ([PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). The mechanism is the one the compendium describes as ending the second suffering: pain is given, and the war against the facts adds a layer of its own. See [[K123 — Radical acceptance]], the compendium's kernel.
+A 2006 review of DBT describes it as something that "essentially involves accepting the experience of the present moment for what it is, without struggling to change it or willfully resisting it" ([Psychiatry, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/)). It sits in DBT's distress tolerance module, where patients learn that pain is an inevitable part of life and that unwillingness to accept this fact "often leads to greater suffering" ([PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). The mechanism is the one I describe as ending the second suffering: pain is given, and the war against the facts adds a layer of its own. See [[K123 — Radical acceptance]], my kernel.
 
 ### Acceptance is not approval
 
@@ -25,7 +25,7 @@ Radical acceptance has Stoic, Buddhist and Nietzschean relatives, listed below, 
 
 A delayed flight: say the fact once ("I will not make the connection"), feel the disappointment, then ask what the next effective step is. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[S007 — Accept what happens as the will of providence]] and [[S094 — Accept pain as part of nature]] — the Stoic relatives
 - [[B124 — Meet suchness — things as they are]] — the Buddhist relative

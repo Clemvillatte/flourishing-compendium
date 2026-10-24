@@ -27,7 +27,7 @@ Schopenhauer knew the resonance was real, and the Stanford Encyclopedia marks it
 
 Two modern findings restate the structure. The hedonic treadmill: "as a person makes more money, expectations and desires rise in tandem, resulting in no permanent gain in happiness" ([Wikipedia, Hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill)). And addiction science, where wanting splits from liking: "In human drug addicts, 'wanting' becomes dissociated with 'liking' as the desire to use an addictive drug increases, while the pleasure obtained from consuming it decreases due to drug tolerance" ([Wikipedia, Dopamine](https://en.wikipedia.org/wiki/Dopamine)).
 
-### In the compendium
+### Here
 
 - [[MO068 — Recognise addiction and motivation — wanting without liking]] — the addiction-science principle on wanting without liking
 - [[BE072 — Recognise behavioural symptoms of addiction — loss of control]] — the behavioural side of the same loop

@@ -33,7 +33,7 @@ The three needs are innate, not learned: "we have identified three such needs--t
 - **Eudaimonic versus hedonic well-being** — the article ties need satisfaction to "an ongoing sense of integrity and well-being or "eudaimonia"" ([Ryan & Deci 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)); need satisfaction is theorized invariant across cultures even where specific goals vary. See [[Eudaimonic well-being]], [[Vitality]].
 - **Goal contents** — intrinsic versus extrinsic aspirations. See [[Intrinsic versus extrinsic goals]], [[Extrinsic aspirations]], [[Aspiration index]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Self-determination]]
 - [[Eudaimonic well-being]]
@@ -41,7 +41,7 @@ The three needs are innate, not learned: "we have identified three such needs--t
 - [[Autonomy]]
 - [[Intrinsic motivation]]
 
-## Everything connected in the wiki — the self-determination tradition
+## Everything connected here — the self-determination tradition
 
 Kept to the pages that carry or substantively apply self-determination theory: the MO- and PP-book principles and the SDT-anchored concepts. The principles that cite the pair as a cross-tradition parallel stay on their own pages.
 

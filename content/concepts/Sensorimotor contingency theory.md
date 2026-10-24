@@ -25,7 +25,7 @@ The contingencies themselves are rules of interdependence between movement and s
 
 The paper's own example: "If you look at a plate and turn it, you can become aware of the way its profile becomes elliptical" (p. 962). Knowing that the elliptical profile is what a round plate yields when turned is the kind of mastery the theory says seeing is.
 
-### In the compendium
+### Here
 
 - [[P141 — Perceive by acting — perception is movement]] — carries the theory's thesis in its own words
 - [[E017 — Practise embodied perception]] — Merleau-Ponty's denial that perception is a detached act of knowing, the phenomenological counterpart

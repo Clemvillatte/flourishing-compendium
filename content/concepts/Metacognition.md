@@ -25,7 +25,7 @@ A recent review describes metacognition as "the capacity to reflect on, evaluate
 
 ### A caution on the original entry gloss
 
-The earlier line on this page, "noticing that even your framework is a mental event", is an interpretive reading, not Flavell's wording. In the text I opened, Flavell is describing monitoring of cognitive tasks, not the status of frameworks. Treat the gloss as the wiki's bridge to contemplative themes and keep the two apart in essays.
+The earlier line on this page, "noticing that even your framework is a mental event", is an interpretive reading, not Flavell's wording. In the text I opened, Flavell is describing monitoring of cognitive tasks, not the status of frameworks. Treat the gloss as my bridge to contemplative themes and keep the two apart in essays.
 
 ## Other formulations in this library
 

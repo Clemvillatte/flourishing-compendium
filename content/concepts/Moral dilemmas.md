@@ -21,7 +21,7 @@ Haidt proposed a social intuitionist model of moral judgment ([Haidt, 2001](http
 
 The social intuitionist model he presents states that "moral judgment is generally the result of quick, automatic evaluations (intuitions)", and emphasizes social and cultural influences over private reasoning; it claims greater consistency than rationalist models with recent findings in social, cultural, evolutionary and biological psychology, anthropology and primatology ([same record](https://pubmed.ncbi.nlm.nih.gov/11699120/)).
 
-### In the compendium
+### Here
 
 - [[R096 — Practise the third]] lists this topic as a psychology parallel.
 

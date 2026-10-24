@@ -15,7 +15,7 @@ Desire (orexis / taṇhā / conatus) — the directed movement of being toward w
 
 The Stanford Encyclopedia maps the main theoretical options: on the most widely held, action-based theory, "for an organism to desire p is for the organism to be disposed to act so as to bring about p"; pleasure-based, good-based and reward-based theories offer alternatives. The traditions named in the original entry are not rival theories of this state but rival verdicts on it: the Buddhist analysis of taṇhā as the engine of suffering, the Greek ordering of orexis toward the right objects in the right measure, Spinoza's conatus as the striving by which each thing tries to persist in its being.
 
-### In the compendium
+### Here
 
 - [[B006 — Craving is the engine of suffering (tanha)]] — craving (taṇhā) as the origin of suffering, SN 56.11
 - [[B079 — Meet sensory desire with awareness (hindrance 1)]] — sensual desire examined as one of the five hindrances, MN 10

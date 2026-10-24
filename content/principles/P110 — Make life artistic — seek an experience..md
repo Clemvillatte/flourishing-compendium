@@ -20,13 +20,13 @@ Art as Experience opens its third chapter with the everyday phenomenon the princ
 
 His examples are pointedly ordinary: "A piece of work is finished in a way that is satisfactory; a problem receives its solution; a game is played through; a situation, whether that of eating a meal, playing a game of chess, carrying on a conversation, writing a book, or taking part in a political campaign, is so rounded out that its close is a consummation and not a cessation." Such an experience "is a whole and carries with it its own individualizing quality and self-sufficiency. It is an experience."
 
-The compendium's application: completion can be designed for. The shapes of a beginning that develops, a middle that turns, and an ending that lands are describable in advance.
+My application: completion can be designed for. The shapes of a beginning that develops, a middle that turns, and an ending that lands are describable in advance.
 
 **Plain words**
-A meal, conversation, or project can form the kind of completed experience Dewey describes. Dewey's test is the close: a completion rounds out, a cessation just stops. The design question is whether it has a beginning that develops and a close that consummates, or whether it merely ends. The compendium's exercise: pick one recurring event in your week and redesign its close so the ending lands instead of stopping.
+A meal, conversation, or project can form the kind of completed experience Dewey describes. Dewey's test is the close: a completion rounds out, a cessation just stops. The design question is whether it has a beginning that develops and a close that consummates, or whether it merely ends. My exercise: pick one recurring event in your week and redesign its close so the ending lands instead of stopping.
 
 *For example:*
-Consider the dinner party: the food, the argument, the laughing departure at the door. On the compendium's reading it has the shape Dewey describes, a situation "so rounded out that its close is a consummation and not a cessation".
+Consider the dinner party: the food, the argument, the laughing departure at the door. On my reading it has the shape Dewey describes, a situation "so rounded out that its close is a consummation and not a cessation".
 
 ## Sources
 

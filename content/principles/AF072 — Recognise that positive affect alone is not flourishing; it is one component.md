@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 72** — Recognise that positive affect alone is not flourishing; it is one component
 
-Ryan and Deci review hedonic and eudaimonic approaches to well-being. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)) The compendium uses this distinction to examine a life beyond its pleasant feelings.
+Ryan and Deci review hedonic and eudaimonic approaches to well-being. ([Ryan and Deci, 2001](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf)) I use this distinction to examine a life beyond its pleasant feelings.
 
 (Ryan and Deci, "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being," Annual Review of Psychology 52, 2001; Seligman, 2011.)
 

@@ -19,7 +19,7 @@ Shinran's recorded answer to followers who crossed ten provinces to ask him abou
 
 The reasoning given is that whoever relies on his own power and good deeds has no wish to invoke the Other Power, while one burdened with passions, having no means of escape by austerities, is exactly the being Amida's Vow was made for ([chapter III, same text](https://ia802801.us.archive.org/19/items/thetannisho/The%20Tannisho_text.pdf)).
 
-### In the compendium
+### Here
 
 - [[Y079 — Use AUM as a portable anchor]] lists this topic as a philosophy parallel.
 

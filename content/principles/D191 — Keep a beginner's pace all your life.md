@@ -24,11 +24,11 @@ The chapter closes the portrait: "They who preserve this method of the Tao do no
 
 And chapter 71 names what this self-description is guarding against: "not to know (and yet think) we do know is a disease."
 
-Chapter 15 describes accomplished masters as cautious and unpretentious. Chapter 20 contrasts its speaker with confident-looking people, while chapter 71 warns against thinking one knows when one does not. The compendium draws from these passages an application to remaining teachable. Its beginner-class example is a modern exercise; chapter 20 itself opens by renouncing learning.
+Chapter 15 describes accomplished masters as cautious and unpretentious. Chapter 20 contrasts its speaker with confident-looking people, while chapter 71 warns against thinking one knows when one does not. I draw from these passages an application to remaining teachable. Its beginner-class example is a modern exercise; chapter 20 itself opens by renouncing learning.
 
 (DDJ 15, 20, 71.)
 
-**Plain words** The masters of the Tao are described as shrinking, irresolute, unfashioned, and DDJ 15 says they do not wish to be full of themselves. DDJ 20 has the speaker say it directly, dull and confused among the bright. The compendium's application is to remaining teachable: keep the tentativeness the chapters describe, and schedule practices where you are the beginner.
+**Plain words** The masters of the Tao are described as shrinking, irresolute, unfashioned, and DDJ 15 says they do not wish to be full of themselves. DDJ 20 has the speaker say it directly, dull and confused among the bright. My application is to remaining teachable: keep the tentativeness the chapters describe, and schedule practices where you are the beginner.
 
 *For example:* Imagine a craft you have done for years. You could take, each year, the entry-level class in it, and let the class set the pace of your attention rather than your seniority.
 

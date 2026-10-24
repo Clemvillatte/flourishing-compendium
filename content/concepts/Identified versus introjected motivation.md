@@ -19,7 +19,7 @@ One step more autonomous: "Identification reflects a conscious valuing of a beha
 
 The continuum is not a ladder people must climb stage by stage; internalization depends on the supports around it. Relatedness matters ("internalization is more likely to be in evidence when there are ambient supports for feelings of relatedness"), competence matters, and autonomy is the one the paper singles out as critical for integration: "To integrate a regulation, people must grasp its meaning and synthesize that meaning with respect to their other goals and values" ([Ryan & Deci 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)).
 
-### In the compendium
+### Here
 
 MO011 carries the distinction directly as autonomous versus controlled motivation, and MO003 pairs it with the intrinsic-extrinsic distinction. PP009's self-concordant goals are the goal-setting version. A058's continence versus virtue is a paired Aristotle contrast: acting under internal pressure versus acting from a settled valuing. Y040's never performing ethics for an audience and SP076's obeying from understanding rather than fear are the ethical faces of it.
 
@@ -30,8 +30,8 @@ MO011 carries the distinction directly as autonomous versus controlled motivatio
 - [[Autonomy]] — the need whose support facilitates internalization
 - [[Locus of control]] — Rotter's cousin construct: expectancies about outcomes rather than reasons for action
 - [[Flow]] — engagement when the motive has disappeared into the activity
-- [[Habit]] — the compendium's companion concept on settled action
-- [[Growth mindset]] — the compendium's companion concept on ability beliefs
+- [[Habit]] — my companion concept on settled action
+- [[Growth mindset]] — my companion concept on ability beliefs
 
 ## Sources
 

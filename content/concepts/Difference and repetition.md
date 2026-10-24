@@ -7,7 +7,7 @@ file: "Difference and repetition"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The compendium uses "Difference and repetition" for Gilles Deleuze's pairing of the two concepts in his 1968 book of that title. His central thesis:
+I use "Difference and repetition" for Gilles Deleuze's pairing of the two concepts in his 1968 book of that title. His central thesis:
 
 > "That identity not be first, that it exist as a principle but as a second principle, as a principle become; that it revolve around the Different: such would be the nature of a Copernican revolution which opens up the possibility of difference having its own concept, rather than being maintained under the domination of a concept in general already understood as identical." (Deleuze, Difference and Repetition, p. 41, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/))
 
@@ -15,7 +15,7 @@ The compendium uses "Difference and repetition" for Gilles Deleuze's pairing of 
 
 The IEP's account notes that for Deleuze repetition has traditionally been subjected to the law of the identical, as saying the same thing at different moments ([IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)). His alternative is compressed into one line of the book: "Difference inhabits repetition" (Deleuze, Difference and Repetition, p. 76, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)). The eternal return, on this reading, is only the repetition of that which differs-from-itself: "The subject of the eternal return is not the same but the different, not the similar but the dissimilar, not the one but the many. . ." (Deleuze, Difference and Repetition, p. 126, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)).
 
-### In the compendium
+### Here
 
 - [[P101 — Repeat with difference — never pure repetition]]: carries the thesis as a practice instruction
 - [[P002 — Treat the world as events and doings, not things and substances]]: a process-first ontology

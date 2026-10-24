@@ -12,9 +12,9 @@ Social embeddedness is the claim, argued by Baumeister and Leary in "The Need to
 
 ### Two criteria for a real bond
 
-The definition is strict about what counts. "Satisfying this drive involves two criteria: First, there is a need for frequent, affectively pleasant interactions with a few other people, and, second, these interactions must take place in the context of a temporally stable and enduring framework of affective concern for each other's welfare." Frequency without stability is a stream of strangers; stability without affective concern is a lease. The review's evidence base — that belonging frustrates and satisfies like a need, that its absence damages and its restoration restores — is what makes embeddedness a fact about human makeup rather than a preference for company. The compendium's use: when loneliness reads as personal failure, this page relocates it; the need being frustrated is the species' equipment.
+The definition is strict about what counts. "Satisfying this drive involves two criteria: First, there is a need for frequent, affectively pleasant interactions with a few other people, and, second, these interactions must take place in the context of a temporally stable and enduring framework of affective concern for each other's welfare." Frequency without stability is a stream of strangers; stability without affective concern is a lease. The review's evidence base — that belonging frustrates and satisfies like a need, that its absence damages and its restoration restores — is what makes embeddedness a fact about human makeup rather than a preference for company. My use: when loneliness reads as personal failure, this page relocates it; the need being frustrated is the species' equipment.
 
-## In the compendium
+## Here
 
 - [[E026 — Practise being-with (Mitsein)]]
 

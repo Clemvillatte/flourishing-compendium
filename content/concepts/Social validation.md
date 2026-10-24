@@ -13,9 +13,9 @@ Social validation is the act of meeting another person's inner state with confir
 
 ### What validation does
 
-The review's summary of findings is careful about the effect: "These studies collectively suggest that invalidation escalates emotion, whereas validation may decrease emotion or not impact emotion at all." The asymmetry is the point for practice: within the studies reviewed, invalidation escalated negative emotion while validation did not, and validation is credited with three further functions: it "theoretically regulates client distress, fosters learning, and strengthens self-identity and therapeutic alliance." The compendium reads the same mechanism as operating in ordinary life. To tell someone their response makes sense is to hand them evidence that they are understandable, which is one of the materials a self is built from.
+The review's summary of findings is careful about the effect: "These studies collectively suggest that invalidation escalates emotion, whereas validation may decrease emotion or not impact emotion at all." The asymmetry is the point for practice: within the studies reviewed, invalidation escalated negative emotion while validation did not, and validation is credited with three further functions: it "theoretically regulates client distress, fosters learning, and strengthens self-identity and therapeutic alliance." I read the same mechanism as operating in ordinary life. To tell someone their response makes sense is to hand them evidence that they are understandable, which is one of the materials a self is built from.
 
-### In the compendium
+### Here
 
 - [[R002 — Practise humanity toward others]] — the ordinary-life form of the therapeutic stance
 - [[R100 — Practise greeting as ethical act]] — small recognitions, same mechanism

@@ -19,9 +19,9 @@ The review names three channels: endorsement, ease and endowment. People may cho
 
 ### Scope
 
-The compendium's earlier summary says defaults act as implicit recommendations. That is one of the three channels, the endorsement one, and not the whole account. The studies concern choices such as donating or buying. They do not test contemplative practice or rest.
+My earlier summary says defaults act as implicit recommendations. That is one of the three channels, the endorsement one, and not the whole account. The studies concern choices such as donating or buying. They do not test contemplative practice or rest.
 
-### In the compendium
+### Here
 
 - [[K060 — Do not recall; do not imagine; do not think; do not examine; do not control; rest]] lists this concept. Nothing on that principle's page mentions defaults or pre-selected options, so the connection is not supported by the page itself.
 

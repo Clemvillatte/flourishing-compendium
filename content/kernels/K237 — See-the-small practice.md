@@ -14,12 +14,12 @@ A weekly scan for the earliest signal of an emerging problem. The name comes fro
 
 ### Protocol
 
-The steps are the compendium's weekly adaptation; the lines they lean on are quoted in the Evidence section.
+The steps are my weekly adaptation; the lines they lean on are quoted in the Evidence section.
 
 1. At the end of a week, list what is not yet a problem: the things that are brittle, small, or resting. The text's own examples of what is easy to act on are exactly these.
 2. For each, ask whether it can still be perceived while it is small. Name it plainly, at its current size rather than its feared size.
 3. Choose one and take the small measure now, before the thing has made its appearance as a problem. The order of operations is the text's: act first, secure order before disorder begins.
-4. The weekly rhythm and the framing of the scan are the compendium's. The text's claim is observational, that difficulties arise from a previous state in which they were easy, not a result from a trial.
+4. The weekly rhythm and the framing of the scan are my. The text's claim is observational, that difficulties arise from a previous state in which they were easy, not a result from a trial.
 
 ### Evidence
 

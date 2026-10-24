@@ -14,7 +14,7 @@ Regularly retire a practice, strategy, or rule that no longer earns its keep. Th
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the bias they counter is documented in the study below.*
+*Steps are my own protocol; the bias they counter is documented in the study below.*
 
 1. At each review, ask the subtractive question first: what here no longer earns its keep.
 2. Name the candidate: one practice, one rule, one commitment; a retirement is specific or it is not.

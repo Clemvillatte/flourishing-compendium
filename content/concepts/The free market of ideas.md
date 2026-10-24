@@ -27,13 +27,13 @@ Milton's argument also concerns the formation of character. A virtue that avoids
 
 > "I cannot praise a fugitive and cloistered virtue, unexercised and unbreathed, that never sallies out and sees her adversary but slinks out of the race"
 
-and he adds that "that which purifies us is trial, and trial is by what is contrary". This is the part of the essay closest to the compendium's interest in wisdom development.
+and he adds that "that which purifies us is trial, and trial is by what is contrary". This is the part of the essay closest to my interest in wisdom development.
 
 ### Limits
 
 Milton's case was made for his own time and this page does not examine whether the Areopagitica excepts any views from toleration, so it makes no claim about that. Whether competition between ideas reliably favours truth is a separate question that the sources opened here do not answer.
 
-### In the compendium
+### Here
 
 - [[SP074 — Make freedom of thought the safety valve]] cites this concept in the philosophy parallels.
 - [[ST003 — The Useless Tree]], [[E002 — Practise intentionality]] and [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]] cite it as well.

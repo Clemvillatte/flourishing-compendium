@@ -33,9 +33,9 @@ Anatta is not nihilism, and it is not a claim that persons do not exist conventi
 
 ### Practical implications
 
-For flourishing, anatta reframes identity from a fixed possession to a set of habits, roles, and narratives that can be examined, revised, or released. It is a functional parallel to modern research on identity flexibility and self-concept change: the person you are is a pattern you are maintaining, not a substance you are discovering. As a comparison the compendium draws rather than a claim the suttas make: modern acceptance-based therapies use a similar phrasing move, "I am having the thought that I am a failure," to loosen identification with painful self-judgments. Anatta generalises this: no mental event, however central, has to be "me". (Illustrative example of the therapeutic phrasing, not a quote from a study.)
+For flourishing, anatta reframes identity from a fixed possession to a set of habits, roles, and narratives that can be examined, revised, or released. It is a functional parallel to modern research on identity flexibility and self-concept change: the person you are is a pattern you are maintaining, not a substance you are discovering. As a comparison I draw rather than a claim the suttas make: modern acceptance-based therapies use a similar phrasing move, "I am having the thought that I am a failure," to loosen identification with painful self-judgments. Anatta generalises this: no mental event, however central, has to be "me". (Illustrative example of the therapeutic phrasing, not a quote from a study.)
 
-### In the compendium
+### Here
 
 - [[B003 — Hold the self lightly (anatta)]] — the practice principle for this teaching
 - [[B075 — The thinker is another thought]] — thoughts as events, not as the thinker

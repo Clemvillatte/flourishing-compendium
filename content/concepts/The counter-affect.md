@@ -7,7 +7,7 @@ file: "The counter-affect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The counter-affect is the practice the compendium's seed names with the Sanskrit term pratipakṣā-bhāvanā, cultivating the opposite. The early discourses give the method in their own terms: when an unskillful state of mind takes hold, attention is directed toward a theme or quality that counters it.
+The counter-affect is the practice my seed names with the Sanskrit term pratipakṣā-bhāvanā, cultivating the opposite. The early discourses give the method in their own terms: when an unskillful state of mind takes hold, attention is directed toward a theme or quality that counters it.
 
 The discourse on the relaxation of thoughts states the method:
 
@@ -17,7 +17,7 @@ The discourse on the relaxation of thoughts states the method:
 
 The discourse on nutriment pairs each hindrance with the theme that starves it: "There is the theme of unattractiveness. To foster appropriate attention to it: This is lack of food for the arising of unarisen sensual desire, or for the growth & increase of sensual desire once it has arisen." (SN 46.51, Thanissaro translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html)). Ill will's counter is awareness-release, which Thanissaro's note to the passage glosses as release "Through good will, compassion, appreciation, or equanimity". Sloth and drowsiness are starved by "the potential for effort, the potential for exertion, the potential for striving", and restlessness and anxiety by "the stilling of awareness". These passages describe directing attention toward themes or qualities that counter an unskillful state.
 
-### In the compendium
+### Here
 
 - [[SP050 — Do not fight affect with reason alone]] — cites this practice as its philosophy parallel
 

@@ -16,7 +16,7 @@ The Kaccayanagotta Sutta states the two extremes directly. Asked what right view
 
 > "'Everything exists': That is one extreme. 'Everything doesn't exist': That is a second extreme. Avoiding these two extremes, the Tathagata teaches the Dhamma via the middle: From ignorance as a requisite condition come fabrications." (SN 12.15, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
 
-The sutta names the extremes and gives a causal account in place of either. It does not say that things change and therefore things matter; that step is the compendium's reading, an inference from the middle the sutta teaches. As an exercise, take the two total claims to a loss and ask what each one does with it: the permanence claim calls the loss an outrage against what was real; the nothing claim calls it proof that nothing was. The dependent account does neither: whatever arose, arose depending on conditions.
+The sutta names the extremes and gives a causal account in place of either. It does not say that things change and therefore things matter; that step is my reading, an inference from the middle the sutta teaches. As an exercise, take the two total claims to a loss and ask what each one does with it: the permanence claim calls the loss an outrage against what was real; the nothing claim calls it proof that nothing was. The dependent account does neither: whatever arose, arose depending on conditions.
 
 ### Plain words
 

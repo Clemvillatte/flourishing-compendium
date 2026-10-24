@@ -13,7 +13,7 @@ The Stoic theory of how concern grows. The Greek term names a process of coming-
 
 The doctrine starts at birth: "straight from birth, every creature seeks to preserve its own constitution, even when this is painful", and its own constitution is "the first thing each creature sees as oikeion to it and, hence, as an object of concern" (both as quoted in SEP §4.6). With adulthood, "reason supervenes as the craftsman of impulse" (Diogenes Laertius, as quoted in SEP §4.6), and the doctrine adds a social dimension: Cicero observes that "it could not be consistent for nature both to desire the production of offspring and not to be concerned that offspring should be loved" (Cicero, as quoted in SEP §4.6). How far the demands extend is the doctrine's own question; the Stoics' answer is to all human beings, who with Zeus make up the citizenry of one cosmopolis.
 
-In the compendium, S010 practises oikeiosis as appropriate self-love: the self-preservation that begins the process is also where the matured, other-regarding version starts from.
+Here, S010 practises oikeiosis as appropriate self-love: the self-preservation that begins the process is also where the matured, other-regarding version starts from.
 
 ## Related concepts
 

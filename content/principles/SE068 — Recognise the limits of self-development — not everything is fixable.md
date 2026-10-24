@@ -20,7 +20,7 @@ Niebuhr's serenity prayer puts the sorting problem in its best-known form:
 >
 > (the serenity prayer, in its best-known form; attributed to Reinhold Niebuhr)
 
-Rank-order consistency concerns how similarly people are ordered on traits across assessments. It does not identify which characteristics a particular person can change. The compendium's practical question is which changes are realistic in the present circumstances and which difficulties call for accommodation.
+Rank-order consistency concerns how similarly people are ordered on traits across assessments. It does not identify which characteristics a particular person can change. My practical question is which changes are realistic in the present circumstances and which difficulties call for accommodation.
 
 **Plain words**
 Choose a specific change you are considering. Write down what you want to change, what support or practice it would require, and when you will review the effort. Include adjustments to your surroundings among the options you consider.

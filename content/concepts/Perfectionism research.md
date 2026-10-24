@@ -15,7 +15,7 @@ The research line begun by Paul Hewitt and Gordon Flett in 1991: perfectionism i
 
 The dimensions carry clinical weight: in the study with 77 psychiatric patients, the three related differentially to personality-disorder and maladjustment indices, and the authors concluded that "a multidimensional approach to the study of perfectionism is warranted, particularly in terms of the association between perfectionism and maladjustment" ([Hewitt & Flett, 1991](https://pubmed.ncbi.nlm.nih.gov/2027080/)). Later work in the same tradition found each dimension rising over the 1989-2016 cohorts ([Curran & Hill, 2019, meta-analysis, PubMed 29283599](https://pubmed.ncbi.nlm.nih.gov/29283599/)).
 
-### In the compendium
+### Here
 
 - [[P150 — Accept incompleteness as constitutive]] — reads this research as the psychology-parallel ground for accepting unfinished states rather than demanding perfect ones.
 

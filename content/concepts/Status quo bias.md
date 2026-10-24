@@ -25,7 +25,7 @@ The replication ran two pre-registered experiments (n = 311 and n = 316) on four
 
 The original abstract does not say that people choose the status quo "even when alternatives are better". Because rational explanations are among the proposed causes, sticking with the status quo is not always an error. This page draws on the abstract and secondary accounts, not the full paper.
 
-### In the compendium
+### Here
 
 - [[CO033 — Recognise the status quo bias — you prefer things as they are]] quotes the abstract of the 1988 paper directly.
 

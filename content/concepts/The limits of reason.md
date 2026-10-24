@@ -7,7 +7,7 @@ file: "The limits of reason"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The compendium's heading "the limits of reason" is illustrated here by Hume's account of reason and passion in A Treatise of Human Nature.
+My heading "the limits of reason" is illustrated here by Hume's account of reason and passion in A Treatise of Human Nature.
 
 ### Hume's ground
 
@@ -19,11 +19,11 @@ His conclusion inverts the picture:
 
 > "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." (same work, "Of the influencing motives of the will")
 
-In the quoted passage, Hume assigns reason a serving rather than a governing role in relation to the passions. The passage does not dismiss reasoning; it denies that reason is the driver. The compendium's principles take the limit as a working constraint — on how far introspection can be trusted, on what self-control has to work with — rather than as a counsel of despair.
+In the quoted passage, Hume assigns reason a serving rather than a governing role in relation to the passions. The passage does not dismiss reasoning; it denies that reason is the driver. My principles take the limit as a working constraint — on how far introspection can be trusted, on what self-control has to work with — rather than as a counsel of despair.
 
-### In the compendium
+### Here
 
-The compendium distributes the heading across the places where the limit shows up in practice.
+I distribute the heading across the places where the limit shows up in practice.
 
 - [[SE009 — Know that self-knowledge is limited — introspection is fallible]]
 - [[K065 — Know that reason reaches its limit, and let confession do what argument cannot]]

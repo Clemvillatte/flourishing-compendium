@@ -15,7 +15,7 @@ The claim's base is autopoiesis, Maturana and Varela's term for a system's conti
 
 The thesis has serious critics. Michael Wheeler argues the notion needs disambiguation, reading Thompson's position as making life an enrichment of cognition rather than the reverse ([Wheeler, Mind in Life or Life in Mind?](https://storre.stir.ac.uk/bitstream/1893/11393/1/wheeler_mind_life_life_mind_storre.pdf)); others resist ascribing phenomenological sense-making to all living things, reserving it for sentient creatures ([Phenomenology and Naturalism in Autopoietic and Radical Enactivism, PhilArchive](https://philarchive.org/archive/KEEPAN)).
 
-### In the compendium
+### Here
 
 The principles take the thesis as an ontology of practice. P139 states cognition as embodied sense-making and P143 thinks with the whole body; P140 treats mind and life as continuous, the direct application. B020's threefold training, S123's daily reading and reflection, D191's lifelong beginner's pace, CO070's epistemic curiosity and P129's sympathetic understanding are the mind-in-life practices; ST082's Huineng hearing one line is the thesis told as a story; and AT075 marks the clinical boundary, where attention problems need evaluation, not interpretation.
 

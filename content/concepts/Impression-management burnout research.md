@@ -13,11 +13,11 @@ The research line behind this concept is emotional-labor research, which disting
 
 The same review found the contrast case weak rather than harmful: "Overall, deep acting displayed weak relationships with indicators of impaired well-being and job attitudes but positive relationships with emotional performance and customer satisfaction (ρs.18 and .37)." The paper's stated mechanism is effort: surface acting involves constant monitoring of actual and desired emotions, an effortful process expected to drain mental resources and thereby enhance strain, in the paper's own argument.
 
-The meta-analysis was based on 494 individual correlations drawn from a final sample of 95 independent studies, and its regression and mediation analyses confirmed that surface acting uniquely predicts impaired well-being. The compendium's reading of this for self-presentation is direct: the pretend version of the display is the expensive one, and the price is paid in exhaustion.
+The meta-analysis was based on 494 individual correlations drawn from a final sample of 95 independent studies, and its regression and mediation analyses confirmed that surface acting uniquely predicts impaired well-being. My reading of this for self-presentation is direct: the pretend version of the display is the expensive one, and the price is paid in exhaustion.
 
 **Plain words** Faking the feeling takes effort, and the study associates that effort with burnout, proposing as its mechanism that faking consumes the same regulatory resources. Performing a self you do not feel is continuous work, hour after hour.
 
-### In the compendium
+### Here
 
 - [[D101 — Drop pretense — stop standing on tiptoe]]: the principle that takes the research as its reason
 

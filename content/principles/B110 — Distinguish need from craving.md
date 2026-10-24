@@ -16,7 +16,7 @@ In Dhammapada 186-187, sensual desires are described as unsatisfied even by abun
 
 > "There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain." (Dhammapada 186-187, trans. Acharya Buddharakkhita, [text](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html))
 
-The passage warns about seeking satisfaction through sensual pleasures. It does not supply a diagnostic test separating needs from cravings. The compendium uses the distinction as a question for reflection: what are you hoping to obtain, and what would count as enough in the situation you face?
+The passage warns about seeking satisfaction through sensual pleasures. It does not supply a diagnostic test separating needs from cravings. I use the distinction as a question for reflection: what are you hoping to obtain, and what would count as enough in the situation you face?
 
 ### Plain words
 

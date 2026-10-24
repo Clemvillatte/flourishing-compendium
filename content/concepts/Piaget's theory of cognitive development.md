@@ -17,7 +17,7 @@ Piaget's theory holds that intelligence develops through an invariant sequence o
 
 The adaptation processes, in the same review's phrasing: "parts of a subject's environment are incorporated into behavioural or conceptual schemes... and these schemes, in turn, adapt to the particulars of the part of the environment being incorporated. Piaget denoted these processes 'assimilation' and 'accommodation', respectively".
 
-### In the compendium
+### Here
 
 - [[P151 — Keep individuating — never settle into a final form]]
 - [[P059 — Accept that individuation is never finished]]

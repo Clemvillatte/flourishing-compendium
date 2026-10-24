@@ -29,9 +29,9 @@ A second study using fMRI found reduced medial prefrontal activation, a marker o
 
 ### Related finding on wise reasoning
 
-Grossmann and Kross (2014) report that across three experiments (N = 693), people reasoned more wisely about another person's problems than about their own, and that self-distancing eliminated this asymmetry. ([Psychological Science, PubMed 24916084](https://pubmed.ncbi.nlm.nih.gov/24916084/)) This is why the compendium links the concept to wise reasoning, but it is a separate study from the two the original entry names.
+Grossmann and Kross (2014) report that across three experiments (N = 693), people reasoned more wisely about another person's problems than about their own, and that self-distancing eliminated this asymmetry. ([Psychological Science, PubMed 24916084](https://pubmed.ncbi.nlm.nih.gov/24916084/)) This is why I link the concept to wise reasoning, but it is a separate study from the two the original entry names.
 
-### In the compendium
+### Here
 
 - [[CO066 — Learn to take the third-person perspective — distanced self-talk improves reasoning]], [[CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait]] and [[AF033 — Learn self-distancing — the ability to step back from your own experience]] cite this concept.
 - [[SE016 — Learn self-distancing — view yourself from the outside]], [[SE032 — Cultivate an inner ally — develop a supportive internal voice]] and [[Y089 — Separate the seer from the seen daily]] cite it as well.

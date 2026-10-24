@@ -7,7 +7,7 @@ file: "Inquiry"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-The compendium uses "Inquiry" for the process Charles Sanders Peirce defined in his classic essay:
+I use "Inquiry" for the process Charles Sanders Peirce defined in his classic essay:
 
 > "The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle inquiry, though it must be admitted that this is sometimes not a very apt designation." (Peirce, The Fixation of Belief, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 

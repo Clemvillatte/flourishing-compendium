@@ -19,9 +19,9 @@ In the book itself, repetition is not achieved. The IEP notes that the narrator 
 
 ### Scope
 
-In Kierkegaard's own account, repetition is a religious and existential movement. The encyclopedias treat it as a movement of faith that is renewed over time, not as a method for creative work. The compendium's heading "creative repetition" applies the idea to creativity, and neither source makes that application. Kierkegaard's text was not read directly for this page.
+In Kierkegaard's own account, repetition is a religious and existential movement. The encyclopedias treat it as a movement of faith that is renewed over time, not as a method for creative work. My heading "creative repetition" applies the idea to creativity, and neither source makes that application. Kierkegaard's text was not read directly for this page.
 
-### In the compendium
+### Here
 
 - [[P101 — Repeat with difference — never pure repetition]] lists this concept. That principle draws on Deleuze's Difference and Repetition and does not cite Kierkegaard, so the link is thematic.
 

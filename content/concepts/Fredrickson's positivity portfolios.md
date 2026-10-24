@@ -28,7 +28,7 @@ The portfolio is an application of Fredrickson's broaden-and-build theory. Her 2
 
 The Proof Positive page lists many benefits of regularly feeling positive emotions, but it gives no specific study, sample or statistics for the portfolio itself. No trial of the portfolio on its own was found. Treat it as a reasonable, low-cost practice that rests on the broader positive-emotion literature, not as a tested intervention. The broaden-and-build paper reviews preliminary evidence and lists open questions, which is a reminder to stay modest about how far the theory reaches.
 
-### In the compendium
+### Here
 
 - B185 (Water the good seeds) is a Buddhist parallel: choose which seeds to feed. It is a different tradition arriving at a similar idea, not a derivation.
 - PP065 (Build a portfolio, not a single practice) uses the word "portfolio" in a wider sense, about combining practices across wellbeing dimensions.

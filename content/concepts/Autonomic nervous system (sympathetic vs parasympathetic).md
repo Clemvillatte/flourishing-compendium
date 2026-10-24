@@ -14,9 +14,9 @@ The autonomic nervous system (ANS) is the part of the peripheral nervous system 
 
 ### The two branches
 
-The same source pairs this with the parasympathetic side's "rest and digest" processes, which support homeostasis. The two branches this page tracks are the sympathetic and parasympathetic ones. The compendium's principles use the breath as the entry point to this system: one titles slow breathing a direct autonomic regulator, and another records slow-paced breathing at five to six breaths per minute.
+The same source pairs this with the parasympathetic side's "rest and digest" processes, which support homeostasis. The two branches this page tracks are the sympathetic and parasympathetic ones. My principles use the breath as the entry point to this system: one titles slow breathing a direct autonomic regulator, and another records slow-paced breathing at five to six breaths per minute.
 
-### In the compendium
+### Here
 
 - [[BI002 — Recognise that the autonomic nervous system has two branches — arousal and restoration]] — names the two-branch structure directly
 - [[BI045 — Learn slow breathing — a direct autonomic regulator]] — the breath as the lever on the system
@@ -30,7 +30,7 @@ The same source pairs this with the parasympathetic side's "rest and digest" pro
 
 
 - [[Parasympathetic activation]] — the parasympathetic branch's activation
-- [[Slow-paced breathing]] — the breath practice the compendium treats as a direct autonomic regulator
+- [[Slow-paced breathing]] — the breath practice I treat as a direct autonomic regulator
 - [[Progressive muscle relaxation (Jacobson)]] — the other body-based regulation practice in this neighbourhood
 - [[Polyvagal theory (Porges)]] — the theory adds a proposed mammalian social-communication circuit on top of the classic sympathetic-parasympathetic division
 ## Sources

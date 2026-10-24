@@ -7,7 +7,7 @@ file: "Festinger"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Leon Festinger (1919-1989) was an American social psychologist who originated the theory of cognitive dissonance and social comparison theory ([Wikipedia, "Leon Festinger"](https://en.wikipedia.org/wiki/Leon_Festinger)). The compendium's principles cite his name for those two theories, above all for the 1954 paper "A Theory of Social Comparison Processes" (Human Relations 7, 117-140).
+Leon Festinger (1919-1989) was an American social psychologist who originated the theory of cognitive dissonance and social comparison theory ([Wikipedia, "Leon Festinger"](https://en.wikipedia.org/wiki/Leon_Festinger)). My principles cite his name for those two theories, above all for the 1954 paper "A Theory of Social Comparison Processes" (Human Relations 7, 117-140).
 
 > "There exists, in the human organism, a drive to evaluate his opinions and his abilities." (Festinger, [A Theory of Social Comparison Processes](https://www.humanscience.org/docs/Festinger%20(1954)%20A%20Theory%20of%20Social%20Comparison%20Processes.pdf), Human Relations 7(2), 1954, Hypothesis I)
 
@@ -21,12 +21,12 @@ His examples mark the limit of objective testing: the opinion that an object is 
 
 > "There is a unidirectional drive upward in the case of abilities which is largely absent in opinions." (Hypothesis IV)
 
-### In the compendium
+### Here
 
 - [[SO031 — Treat social comparison as a double-edged sword]] — uses the 1954 comparison drive as the mechanism both to manage and to guard against
 - [[SE050 — Learn to manage social comparison — comparison distorts self-evaluation]] — the practical sequel: comparison distorts self-evaluation, so it needs managing
 - [[S083 — Do not compare yourself to others]] and [[S082 — Do not be envious of others' success]] — Stoic counterweights to the same drive
-- [[CO076 — Learn to recognise cognitive dissonance — inconsistency is uncomfortable and drives change]] — the second Festinger theory (1957), cited across the compendium
+- [[CO076 — Learn to recognise cognitive dissonance — inconsistency is uncomfortable and drives change]] — the second Festinger theory (1957), cited across my pages
 - [[A096 — Practise distributive justice]] — cites Festinger (1954) alongside Adams (1965) in its social-comparison research line
 
 ## Related concepts

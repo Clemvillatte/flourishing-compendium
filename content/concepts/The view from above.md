@@ -29,10 +29,10 @@ The mechanism is contrast of scale. The urgent becomes small: insults, status ra
 
 It is not contempt or dissociation. The exercise ends back on the ground. Distance serves engagement: the grudge shrinks to its real size, and then one decides what, at that size, still deserves action. For a small case, a minute spent imagining the block from ten thousand feet while stuck in a grudge. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[S100 — See the smallness of human affairs]] — the Stoic move itself
-- [[S052 — Practise the view from above]] — the compendium's training form
+- [[S052 — Practise the view from above]] — my training form
 - [[Memento mori]] and [[B193 — Live with death lightly in view]] — mortality as the other great scale-setter
 - [[P160 — Distinguish the observing self from the story of self]] — the observer in the exercise
 - [[D081 — Recognize the relativity of perspectives]] — keeps the plurality of views

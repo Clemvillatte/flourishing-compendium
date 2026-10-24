@@ -18,7 +18,7 @@ Jane Bennett asks political theory to take seriously the active role of nonhuman
 
 The claim has two sides: things resist, and things provide. Bennett writes that she will "feature the negative power or recalcitrance of things" while also highlighting "a positive, productive power of their own". A related account comes from the psychologist James Gibson, who described what an environment affords an animal as "what it offers the animal, what it provides or furnishes, either for good or ill".
 
-The compendium's application: when you plan or assess a project, list the nonhuman participants alongside the human ones, and ask what each contributes and where it pushes back.
+My application: when you plan or assess a project, list the nonhuman participants alongside the human ones, and ask what each contributes and where it pushes back.
 
 ### Plain words
 
@@ -26,7 +26,7 @@ Most planning treats objects as dead equipment: the knife cuts, the road lies th
 
 ### For example
 
-Imagine a woodworker planing a board. The grain pulls the blade slightly left on one stretch, so she adjusts the angle and the stroke. On a knot the plane chatters and she slows down. She treats the board as something cooperating or refusing, and the finished piece records the negotiation. The compendium's exercise: name one material in your own work that regularly changes what you do.
+Imagine a woodworker planing a board. The grain pulls the blade slightly left on one stretch, so she adjusts the angle and the stroke. On a knot the plane chatters and she slows down. She treats the board as something cooperating or refusing, and the finished piece records the negotiation. My exercise: name one material in your own work that regularly changes what you do.
 
 ## Sources
 

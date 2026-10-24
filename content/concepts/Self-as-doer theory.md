@@ -19,7 +19,7 @@ Study 3 primed the self-as-doer with The Little Engine That Could (compared with
 
 ### Limits
 
-The abstract names three studies and the review summarises them; the full article, effect sizes or any replication is cited at second hand. The wiki's wider claim that action-based identity framing "sustains goal pursuit" should be limited to goal persistence in these studies, not to wellbeing in general.
+The abstract names three studies and the review summarises them; the full article, effect sizes or any replication is cited at second hand. My wider claim that action-based identity framing "sustains goal pursuit" should be limited to goal persistence in these studies, not to wellbeing in general.
 ## Sources
 
 - [Houser-Marko and Sheldon 2006, Motivating Behavioral Persistence: The Self-As-Doer Construct (SAGE, abstract)](https://journals.sagepub.com/doi/10.1177/0146167206287974)

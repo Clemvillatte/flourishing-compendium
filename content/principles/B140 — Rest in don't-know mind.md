@@ -13,7 +13,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > **Principle 140** — Rest in don't-know mind
 
-The Xinxin Ming, attributed to Sengcan, warns that preference can obstruct seeing clearly. Seung Sahn's instruction invites a practice of not knowing; the compendium brings the two teachings together without treating them as interchangeable ([Clarke translation, opening verses](https://terebess.hu/english/hsin.html); [Seung Sahn, The Compass of Zen excerpt](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know)).
+The Xinxin Ming, attributed to Sengcan, warns that preference can obstruct seeing clearly. Seung Sahn's instruction invites a practice of not knowing; I bring the two teachings together without treating them as interchangeable ([Clarke translation, opening verses](https://terebess.hu/english/hsin.html); [Seung Sahn, The Compass of Zen excerpt](https://kwanumzen.org/teaching-blog/i-only-teach-dont-know)).
 
 > To set up what you like against what you dislike
 > is the disease of the mind.

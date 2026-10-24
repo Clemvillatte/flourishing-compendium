@@ -13,7 +13,7 @@ The diathesis-stress model explains disorder as a meeting: a latent vulnerabilit
 
 The model "proposes that there is a synergism between the diathesis and stress that yields an effect beyond their combined separate effects", and in this depression formulation the effects of stress on the depression risk depend on the diathesis or vulnerability.
 
-### In the compendium
+### Here
 
 - [[D107 — Trust your own nature]], [[BI070 — Recognise when body-based practices are insufficient — clinical conditions]], [[SE069 — Recognise identity disturbances — when self is fragmented]] and [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]] are this concept's philosophy parallels
 

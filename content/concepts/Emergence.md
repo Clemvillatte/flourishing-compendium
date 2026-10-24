@@ -21,7 +21,7 @@ Weak emergence "affirms the reality of entities and features posited in the spec
 
 The entry credits the nineteenth-century British Emergentists with rejecting both idealism and reductionist materialism, with Lewes (1875) "first using the term 'emergence' for the philosophical position". It follows the line through to C. D. Broad (1925), for whom the whole's characteristic properties "cannot, even in theory, be deduced from the most complete knowledge of the properties of" its parts in isolation ([SEP, §1](https://plato.stanford.edu/entries/properties-emergent/)). C. Lloyd Morgan's Emergent Evolution, the older source attached to this page, is not covered by the entry, so no claim about his version is made here.
 
-### In the compendium
+### Here
 
 - [[P077 — Understand choice as emergent, not commanded]] uses the idea of emergence for choice, drawing on Juarrero's account of intentions as context-sensitive constraints. The SEP entry covers metaphysical emergence in general and says nothing about choice, so that application belongs to the principle and not to the entry.
 

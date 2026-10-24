@@ -18,7 +18,7 @@ The eight worldly conditions (lokadhamma) are the traditional frame for this pri
 
 The sutta goes on to say that all eight arise for an uninstructed person and also for a well-instructed disciple of the noble ones. What differs between them is how each responds. So the conditions come for everybody and cannot be avoided. The training is in how you relate to them.
 
-The compendium reads this as equanimity (upekkha) applied: a steady inner measure that does not inflate with praise or collapse with blame. The word "winds" in the title is a common English rendering, and the sutta's own word here is "conditions".
+I read this as equanimity (upekkha) applied: a steady inner measure that does not inflate with praise or collapse with blame. The word "winds" in the title is a common English rendering, and the sutta's own word here is "conditions".
 
 (AN 8.6, Lokavipatti Sutta, trans. Thanissaro.)
 

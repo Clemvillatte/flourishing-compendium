@@ -7,7 +7,7 @@ file: "Deliberate simplicity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The compendium uses "Deliberate simplicity" for the approach to living described in Walden's "Where I Lived, and What I Lived For" chapter. Thoreau states his reason for going to the woods:
+I use "Deliberate simplicity" for the approach to living described in Walden's "Where I Lived, and What I Lived For" chapter. Thoreau states his reason for going to the woods:
 
 > "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." (Thoreau, Walden, "Where I Lived, and What I Lived For", [Gutenberg #205](https://www.gutenberg.org/cache/epub/205/pg205.txt))
 
@@ -19,7 +19,7 @@ Thoreau writes, "Our life is frittered away by detail" (Thoreau, Walden, "Where 
 
 The chapter also recommends reducing the number of affairs one manages: "I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb nail." (Thoreau, Walden, "Where I Lived, and What I Lived For", [Gutenberg #205](https://www.gutenberg.org/cache/epub/205/pg205.txt))
 
-### In the compendium
+### Here
 
 - [[D034 — Simplify your ecosystem]]: calls for simplifying one's ecosystem
 - [[AT046 — Cultivate digital sabbath — deliberate disconnection]]: calls for deliberate digital disconnection

@@ -19,7 +19,7 @@ The publisher's summary turns the finding into a diagnostic: "If a person is mot
 
 The principle is not a call for relentless productivity. The summary is explicit that the work "simply must matter to the person doing it", so progress on something indifferent to you is not what is described. It also says that small setbacks have "an extremely negative effect", which is a reason to notice them kindly and not to ignore them.
 
-### In the compendium
+### Here
 
 - [[D018 — Give things time]]
 - [[S090 — See that life is short and do not waste it]]

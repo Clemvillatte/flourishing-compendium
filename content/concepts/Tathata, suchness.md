@@ -25,7 +25,7 @@ The treatise gives suchness two faces: "The first is trueness as negation (çûn
 
 The Zen tradition keeps the term. The Stanford Encyclopedia's entry on Japanese Zen describes how, on its reading, "there is nothing in the bottomless background to determine or delimit how things appear", and notes that "Zen uses such terms as 'suchness' or 'thusness' to designate it". The seeing it speaks of "is 'not two,' i.e., it is non-dualistic in nature" ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/fall2022/entries/japanese-zen/)).
 
-### In the compendium
+### Here
 
 - [[B124 — Meet suchness — things as they are]] — the practice-facing reading of this concept
 - [[K015 — Let things be what they are, on their own bottom]] — the Kyoto-school continuation: things standing on their own ground
@@ -34,7 +34,7 @@ The Zen tradition keeps the term. The Stanford Encyclopedia's entry on Japanese 
 
 - [[Buddhist emptiness of inherent nature]] — a further reading question: how does 'suchness' differ from absence of inherent nature?
 - [[Buddha-nature]] — the Zen tradition designates the way of being of "buddha-nature" by this term
-- [[Original enlightenment]] — a neighbouring term in the compendium's Zen hub
+- [[Original enlightenment]] — a neighbouring term in my Zen hub
 - [[Wu wei]]
 
 ## Sources

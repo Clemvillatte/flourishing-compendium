@@ -29,7 +29,7 @@ The distinction between the two valences is the one the principle works with: an
 (Elliot & McGregor, 2001, "A 2 x 2 achievement goal framework," Journal of Personality and Social Psychology, 80(3).)
 
 **Plain words**
-The compendium uses this distinction to examine an achievement goal. Write down the competence you want to develop and the failure you want to avoid. Compare the outcomes each version puts in focus, keeping the task and level of detail unchanged.
+I use this distinction to examine an achievement goal. Write down the competence you want to develop and the failure you want to avoid. Compare the outcomes each version puts in focus, keeping the task and level of detail unchanged.
 
 *For example:* Suppose you are studying the argument in chapter three. Compare "understand the argument" with "avoid misunderstanding the argument." Which outcome have you been concentrating on as you study?
 

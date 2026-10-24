@@ -15,7 +15,7 @@ Dewey's principle is that the present is not a preparation for a later, real lif
 
 The earlier chapter gives the context in Dewey's own contrast: "to preparation for a more or less remote future is opposed making the most of the opportunities of present life." His worked counterexample is the attitude a student takes away from schooling. The collateral learning of a desire to go on learning matters more than the lesson learned, and if that impetus is weakened, "the pupil is actually robbed of native capacities which otherwise would enable him to cope with the circumstances that he meets in the course of his life." A curriculum that treats the present as mere means destroys the very capacity it claims to be building.
 
-The compendium's [[B179 — The path is the goal]] pairs this with Dogen's shusho-itto, practice and realization are one. The two differ only in register: Dewey argues from the structure of experience, Dogen from the structure of practice. The deferral Dewey criticizes in the schoolchild is the deferral Dogen criticizes in the student waiting for enlightenment.
+My [[B179 — The path is the goal]] pairs this with Dogen's shusho-itto, practice and realization are one. The two differ only in register: Dewey argues from the structure of experience, Dogen from the structure of practice. The deferral Dewey criticizes in the schoolchild is the deferral Dogen criticizes in the student waiting for enlightenment.
 
 ## Related concepts
 

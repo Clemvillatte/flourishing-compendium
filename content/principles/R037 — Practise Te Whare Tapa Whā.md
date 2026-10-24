@@ -19,7 +19,7 @@ Durie's 1985 paper opens with a premise the model carries: health is not a unive
 
 Te Ara records that Māori health expert Mason Durie developed the whare tapa whā model in 1982, with four dimensions, taha wairua, taha hinengaro, taha tinana and taha whānau, and different parts of a wharenui (meeting house) representing each dimension.
 
-The compendium's exercise: take the four dimensions as four questions and ask them of your month. When did you last sit somewhere that holds you? How is the thinking? How is the body? Who have you actually eaten with?
+My exercise: take the four dimensions as four questions and ask them of your month. When did you last sit somewhere that holds you? How is the thinking? How is the body? Who have you actually eaten with?
 
 **Plain words** Looking only at physical health leaves out three dimensions of Durie's model. The model also asks about mental health, spiritual life and family relationships.
 

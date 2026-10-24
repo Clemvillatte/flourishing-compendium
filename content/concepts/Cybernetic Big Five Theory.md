@@ -13,7 +13,7 @@ Cybernetic Big Five Theory is Colin DeYoung's account of what the Big Five trait
 
 The same paper calls the theory "the most extensive attempt to date" to link "each of the Big Five to variation in evolved mechanisms for the pursuit of goals, such as systems designed to respond to reward or to detect errors". The theory's reach is wide: its authors apply it to personality disorder, on the ground that it offers mechanistic explanations of the ten factors measured by the Big Five Aspect Scales.
 
-### In the compendium
+### Here
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)]], [[D039 — Make rest the root of activity]], [[SO044 — Treat the WEIRD critique as a standing corrective]] and [[SE066 — Recognise the role of challenge in growth — difficulty develops self]] are this concept's philosophy parallels
 

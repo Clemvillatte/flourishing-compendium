@@ -34,7 +34,7 @@ And the self is defined by its own mortality: "I am myself by knowing my own dea
 - **Self-identity of contradictories** — his late logic: contradiction as structure, not error ([SEP, Nishida Kitarō](https://plato.stanford.edu/entries/nishida-kitaro/)). See [[K019 — Let contradiction stand as structure, not error|Let contradiction stand as structure, not error]], [[M003 — Think in pairs|Think in pairs]].
 - **Acting intuition** — knowing by doing, the body as the self's working edge ([SEP, Nishida Kitarō](https://plato.stanford.edu/entries/nishida-kitaro/)). See [[K020 — Know by doing|Know by doing]], [[K021 — Treat the body as the self's working edge|Treat the body as the self's working edge]].
 
-## Everything connected in the wiki — the Kyoto School tradition
+## Everything connected here — the Kyoto School tradition
 
 Kept to the pages that carry or substantively apply Nishida's work: pure experience, nothingness, place and the acting self.
 

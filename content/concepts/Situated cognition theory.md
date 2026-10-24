@@ -17,7 +17,7 @@ The theory's sharpest formulation is Andy Clark's parity principle, stated in hi
 
 The same article quotes Clark on the case of writing as coupled thought: the paper provides a medium in which, via "some kind of coupled neural-scribbling-reading unfolding," we are enabled "to explore ways of thinking that might otherwise be unavailable to us." The situated claim is not that brains are weak and the world helps; it is that cognition is a loop that runs through tools, places and other people, and that the loop is the unit.
 
-The compendium's [[Distributed cognition / extended mind]] page carries the constitutive version of this thesis, where external items count as parts of the mind; this page is the broader psychological research line that treats environment, body and artifacts as shaping cognition without that stronger commitment.
+My [[Distributed cognition / extended mind]] page carries the constitutive version of this thesis, where external items count as parts of the mind; this page is the broader psychological research line that treats environment, body and artifacts as shaping cognition without that stronger commitment.
 
 ## Field
 

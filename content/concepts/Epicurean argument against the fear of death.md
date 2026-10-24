@@ -15,7 +15,7 @@ The Epicurean argument against the fear of death is Epicurus's reasoning in his 
 
 The premise is sentience: "good and evil imply the capacity for sensation, and death is the privation of all sentience". Whatever causes no annoyance when present causes only groundless pain in expectation, and death is never present to the one it would annoy. The payoff is practical, not a promise of immortality: "a correct understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life a limitless time, but by taking away the yearning after immortality". Epicurus closes the point with the wise man, who in the letter's words "does not deprecate life nor does he fear the cessation of life".
 
-### In the compendium
+### Here
 
 - [[S103 — Recognise that the dead feel nothing]] — the principle carrying this argument
 - [[S012 — Remember that you are a rational being]] — what a rational being can establish about its own end

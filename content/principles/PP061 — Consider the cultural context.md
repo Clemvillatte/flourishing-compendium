@@ -16,7 +16,7 @@ Diener, Oishi and Lucas reviewed the evidence and wrote that "Cultural variables
 
 The ideas of the good life differ too. Joshanloo compared Western accounts with Hinduism, Buddhism, Taoism, Confucianism and Sufism and "identified and discussed" "six fundamental differences in western and eastern conceptualizations of the good life" (Joshanloo, 2014, Journal of Happiness Studies, [Springer abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)). Uchida and colleagues report that in North American contexts happiness "is best predicted by self-esteem", whereas in East Asian contexts it "is best predicted by perceived embeddedness of the self in a social relationship" (Uchida et al., 2004, Journal of Happiness Studies 5, 223-239, abstract).
 
-These abstracts do not tell us which individual practices transfer across cultures, so the claim that a practice's form must fit its context rests on this pattern and on the wiki's own reasoning. They also show that the measures have some cross-cultural validity, so cultural fit is a matter of degree.
+These abstracts do not tell us which individual practices transfer across cultures, so the claim that a practice's form must fit its context rests on this pattern and on my own reasoning. They also show that the measures have some cross-cultural validity, so cultural fit is a matter of degree.
 
 **Plain words**
 What counts as a good life, and what raises well-being, partly depends on where you live. A habit that suits an individualistic setting may need changes in a close-knit one. Ask what the practice assumes about the self.

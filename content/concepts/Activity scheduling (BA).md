@@ -23,7 +23,7 @@ The review lists activity scheduling among the strategies used to pursue these a
 
 The clinical training description breaks the practice into steps ([Meta-Competency 7-d](https://bhss-wa.psychiatry.uw.edu/wp-content/uploads/2025/08/MC7D-Behavioral-Activation.pdf)). Patients first brainstorm activities that have been rewarding or meaningful, including ones they did before experiencing depressive symptoms. They then make specific plans for the coming week: "what each step may involve, when they would like to begin each activity, for how long, and with whom." After each activity the patient rates satisfaction. The patient's activity plans from the prior week are reviewed at the start of the next session, and barriers are problem-solved into a new weekly activity schedule.
 
-### In the compendium
+### Here
 
 - [[BE014 — Learn to use activity scheduling — plan specific activities at specific times]]
 - [[BE013 — Learn behavioural activation — do it even when you do not feel like it]]

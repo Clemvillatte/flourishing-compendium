@@ -17,7 +17,7 @@ Klein's technique moves the autopsy to the front of the project. The team is tol
 
 The mechanism underneath is prospective hindsight, and the article names the finding: "Research conducted in 1989 by Deborah J. Mitchell, of the Wharton School; Jay Russo, of Cornell; and Nancy Pennington, of the University of Colorado, found that prospective hindsight—imagining that an event has already occurred—increases the ability to correctly identify reasons for future outcomes by 30%."
 
-### In the compendium
+### Here
 
 - [[CO030 — Use pre-mortems — imagine failure before it happens]] — the principle that carries the technique; it lists the concept among its psychology parallels.
 

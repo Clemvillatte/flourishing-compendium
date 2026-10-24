@@ -14,7 +14,7 @@ Time spent in a community not one's own, listening rather than advising. The evi
 
 ### Protocol
 
-The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
+The steps are my practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. Go where you are a guest: a congregation, a language class, a volunteer shift, a neighborhood association, any community whose daily life is not yours.
 2. Listen before speaking, and do not advise. The role is guest and student; the moment advice starts, the practice becomes something else.

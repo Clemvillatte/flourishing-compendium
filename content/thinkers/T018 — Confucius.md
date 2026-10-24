@@ -34,7 +34,7 @@ Two ideas anchor the teaching: ren and li. Ren is "usually translated as 'benevo
 - **Self-cultivation** — "From the age of fifteen on, I have been intent upon learning" through "from seventy on, I have followed my heart's desire without transgressing what is right" (2.4) ([IEP](https://iep.utm.edu/confucius/)). See [[R060 — Practise self-cultivation (xiushen)|R060]], [[Moral cultivation (xiushen)]], [[Daily self-examination]].
 - **Transmission of Zhou's Dao** — he "transmits, but does not innovate" (7.1). See [[R065 — Practise the extension of knowledge (zhizhi)|R065]], [[R061 — Practise the Doctrine of the Mean (zhongyong)|R061]], [[Investigation of things]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Ren]]
 - [[Li: ritual propriety]]
@@ -48,7 +48,7 @@ Two ideas anchor the teaching: ren and li. Ren is "usually translated as 'benevo
 - [[Moral cultivation (xiushen)]]
 - [[The golden rule]]
 
-## Everything connected in the wiki — the Confucian tradition
+## Everything connected here — the Confucian tradition
 
 Kept to the Confucian tradition and to what the page itself teaches; parallels from other traditions stay on their own pages.
 

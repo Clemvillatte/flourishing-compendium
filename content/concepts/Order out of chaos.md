@@ -17,7 +17,7 @@ The lecture's abstract states the general claim:
 
 > "It is shown that non-equilibrium may become a source of order and that irreversible processes may lead to a new type of dynamic states of matter called \"dissipative structures\"." (Prigogine, [Nobel Lecture, 1977](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf))
 
-### In the compendium
+### Here
 
 - [[P148 — Expect order to arise through flux]]
 - [[M040 — Meet death with a made face]]

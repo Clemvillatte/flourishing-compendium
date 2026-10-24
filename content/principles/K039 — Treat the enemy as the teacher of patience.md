@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 39** — Treat the enemy as the teacher of patience
 
-In VI.107-111, Shantideva treats an enemy as an aid to bodhisattva practice because hostility provides an occasion for patience. He acknowledges the harmful intention and still honours the opponent as a cause of patience. The compendium applies this argument to ordinary disagreements; it does not make remaining in danger a condition of practice.
+In VI.107-111, Shantideva treats an enemy as an aid to bodhisattva practice because hostility provides an occasion for patience. He acknowledges the harmful intention and still honours the opponent as a cause of patience. I applie this argument to ordinary disagreements; it does not make remaining in danger a condition of practice.
 
 (Shantideva, Bodhicharyavatara, ch. 6.)
 

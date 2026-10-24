@@ -19,7 +19,7 @@ Kabat-Zinn treats mindfulness as a synonym for awareness itself: "Just so, it is
 
 ### The presence it protects
 
-Presence is what the definition buys: attention placed where the moment actually is. The compendium's practice principles carry the placement: availability as a relational stance, mindful movement in walking and yoga, and washing the dishes to wash the dishes.
+Presence is what the definition buys: attention placed where the moment actually is. My practice principles carry the placement: availability as a relational stance, mindful movement in walking and yoga, and washing the dishes to wash the dishes.
 
 - [[R085 — Practise availability (disponibilité)]]
 [[BI060 — Learn mindful movement — walking meditation, yoga, tai chi]]

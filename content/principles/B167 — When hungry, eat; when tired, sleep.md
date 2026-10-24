@@ -18,7 +18,7 @@ A dialogue attributed to Huihai has the Vinaya teacher Yuan ask about his practi
 
 (Huihai's reply, excerpt from Records of the Transmission of the Lamp 6.92, Randolph S. Whitfield, [Terebess mirror](https://terebess.hu/zen/huihai-eng1.html).)
 
-The contrast concerns how one takes part in ordinary activities. It does not make sleep a command that everyone can carry out immediately, or make distraction a reason to dismiss a meal as worthless. The compendium uses the dialogue as an invitation to stop adding optional tasks to an activity that already needs attention.
+The contrast concerns how one takes part in ordinary activities. It does not make sleep a command that everyone can carry out immediately, or make distraction a reason to dismiss a meal as worthless. I use the dialogue as an invitation to stop adding optional tasks to an activity that already needs attention.
 
 **Plain words** If you have time to eat, could you leave another task until afterward? When thoughts interrupt, notice them and return to the meal rather than insisting on having no thoughts at all.
 

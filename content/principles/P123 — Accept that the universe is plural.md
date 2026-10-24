@@ -20,7 +20,7 @@ This is a philosophical hypothesis, not a finding that all beliefs are equally s
 
 ### Plain words
 
-The compendium draws a practical lesson: you can look for ways to cooperate without first demanding agreement about everything. Ask which differences matter to the decision at hand and which can remain unresolved. This does not require treating every answer as correct.
+I draw a practical lesson: you can look for ways to cooperate without first demanding agreement about everything. Ask which differences matter to the decision at hand and which can remain unresolved. This does not require treating every answer as correct.
 
 ### For example
 

@@ -26,7 +26,7 @@ Seneca's own practice ran on a span:
 
 > "Endure all this for three or four days at a time, sometimes for more, so that it may be a test of yourself instead of a mere hobby." — [Seneca, Letter 18.7](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)
 
-That instruction concerns the food-and-clothing practice of the letter, not the discomfort menu below. The choice of discomforts is the compendium's editorial design.
+That instruction concerns the food-and-clothing practice of the letter, not the discomfort menu below. The choice of discomforts is my own design.
 
 ### Protocol
 

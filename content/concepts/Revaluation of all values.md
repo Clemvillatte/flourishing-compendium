@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The method the demand calls for is genealogy: the values are investigated at the place they grew, and treated as things with a history, possibly a symptom, a mask or a remedy, rather than as self-evident facts. The preface names the concrete target that set the project going: the "un-egoistic" instincts of pity, self-denial and self-sacrifice, which Schopenhauer had praised as intrinsic values and against which Nietzsche voiced a deepening mistrust, seeing in the spreading morality of pity a route toward a European nihilism (preface §5). The first essay then carries the contrast in its title, "Good and Evil" against "Good and Bad" ([Nietzsche, table of contents](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm)).
 
-### In the compendium
+### Here
 
 - [[E106 — Practise the revaluation of values]] is the direct use: its body tells the reader to examine inherited values and test whether they enhance or diminish flourishing, an audit in Nietzsche's spirit.
 - The other citing principles list the concept among their parallels with attributions: [[D079 — Question conventional measures of success]] (On the Genealogy of Morality), [[CO033 — Recognise the status quo bias — you prefer things as they are]] and [[D005 — Expect reversal — extremes turn into their opposites]] (Beyond Good and Evil), [[SE055 — Learn to work with self and others' expectations — navigate social definitions]], and [[D084 — Value the useless]], which links it as the revaluation of the lowly (Thus Spoke Zarathustra).

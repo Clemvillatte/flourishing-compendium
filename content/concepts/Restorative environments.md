@@ -19,7 +19,7 @@ The claim is about effort. Concentrating blocks out distraction; that blocking i
 
 A later review of the theory lists the four characteristics it works with: soft fascination, "an environment that promotes effortless attention distributed across aesthetically pleasing features of the environment (e.g., clouds, tree branching moving in the wind)"; extent, "an environment that is conceptually vast, such that one could get lost in it"; being away, "an environment that allows one to engage in cognitive content outside of the current situation or need (i.e. day dreaming)"; and compatibility, "an environment that aligns with one's goal". The core prediction, in the review's words, is that "exposure to nature after performing a demanding task that requires and depletes directed attention capacity... will subsequently facilitate the replenishment of directed attention capacity" ([Visions for Sustainability](https://ojs.unito.it/index.php/visions/article/download/3323/3091/11293)).
 
-### In the compendium
+### Here
 
 - [[B172 — Value silence]] — the silence side of the same recovery
 - [[BE041 — Learn to use nature contact — green and blue space are restorative]] — the practice instruction

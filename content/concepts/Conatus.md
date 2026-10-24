@@ -35,7 +35,7 @@ In Spinoza's account, joy and sadness concern transitions to greater and lesser 
 
 - [[Amor sui (right self-love)]]
 - [[Joy]] — joy is the felt sign of an increase in the power of the conatus, its Spinozist counterpart
-- [[Desire]] — one of desire's three classic names in the compendium's seed line (orexis, taṇhā, conatus)
+- [[Desire]] — one of desire's three classic names in my seed line (orexis, taṇhā, conatus)
 - [[SP028]] — For comparison: Spinoza's account of mental decision and bodily appetite in Ethics III.2.
 - [[SP012]] — desire within Spinoza's account of striving
 ## Sources

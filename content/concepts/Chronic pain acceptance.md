@@ -15,7 +15,7 @@ Chronic pain acceptance is a construct from the chronic-pain research literature
 
 Cook and colleagues summarize earlier research reporting that pain acceptance predicts adjustment and functioning beyond the influences of other common predictors, including pain severity, over both the short and long term.
 
-### In the compendium
+### Here
 
 - [[B182 — Separate pain from suffering — daily]] and [[B069 — Don't shoot the second arrow (pain vs. suffering)]] — the Buddhist separation of pain from the suffering added to it
 - [[P157 — Accept what cannot be changed while committing to what can]] — the ACT acceptance-and-commitment framing behind the construct

@@ -31,7 +31,7 @@ A 2025 review by Norbert Meskó in Archives of Sexual Behavior contextualizes th
 
 Illustrative application, not a reported finding: within its heterosexual marketplace framing, the model would interpret a woman seeking commitment before sex and a man seeking sexual access as an exchange involving different resources. The Rudman-Fetterolf-Sanchez challenge above concerns the female-control claim, not every proposition of the theory.
 
-### In the compendium
+### Here
 
 - [[SO029 — Treat belonging as a need, not a preference]] — the need-to-belong evidence, by the same first author, on what relationships supply
 - [[X023 — Live deliberately, and price things in life]] — Thoreau's Walden formulas on what a life costs, a different pricing

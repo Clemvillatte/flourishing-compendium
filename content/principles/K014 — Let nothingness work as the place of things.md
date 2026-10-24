@@ -18,7 +18,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 The Encyclopedia says that Nishitani follows Nishida in thinking of emptiness "as a 'place' or 'field' (ba) wherein beings can appear as they truly are in their proper basis or 'home-ground' (moto)." Nothingness here is not a thing that sits in the background. It is the opening in which things can show up as what they are.
 
-The sky image and the practical advice below belong to the compendium, not to these sources.
+The sky image and the practical advice below belong to me, not to these sources.
 
 **Plain words** Absolute nothingness, in this reading, is not an empty hole where things used to be. It is the open field in which things can appear as what they are. When a structure in your life falls away, such as a role, a belief or a relationship, ask what can now appear that the structure was occupying.
 

@@ -31,7 +31,7 @@ The approach treats thought itself as interaction turned inward. Symbolic intera
 
 The theory reads small scenes: the same request lands differently as an order, a plea or a joke, and the difference is made in the exchange, not in the words alone. For a writer on flourishing, it relocates change: to alter what people do, one often has to alter what things mean to them, and meanings are negotiated, not decreed. The everyday scenes above and below are illustrations of the theory's lens, not documented findings.
 
-### In the compendium
+### Here
 
 - [[AF063 — Practise gratitude — it recalibrates attention toward what is good]]
 - [[AF006 — Accept mixed feelings; do not force them to resolve]]

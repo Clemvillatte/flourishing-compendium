@@ -27,13 +27,13 @@ The entry notes a point from Buber's later work: setting persons "at a distance 
 
 ### Criticism and limits
 
-The entry reports that Buber insisted the dialogic principle was "not an abstract conception but an ontological reality that he pointed to but that could not be properly represented in discursive prose". It also records objections to his reduction of relations to two kinds, I-Thou and I-It: Rosenzweig complained, "In your setting up the I-IT, you give the I-Thou a cripple for an opponent." The compendium's description of the between as "ontological" follows Buber's own claim, which is a philosophical position, not an empirical finding.
+The entry reports that Buber insisted the dialogic principle was "not an abstract conception but an ontological reality that he pointed to but that could not be properly represented in discursive prose". It also records objections to his reduction of relations to two kinds, I-Thou and I-It: Rosenzweig complained, "In your setting up the I-IT, you give the I-Thou a cripple for an opponent." My description of the between as "ontological" follows Buber's own claim, which is a philosophical position, not an empirical finding.
 
 ### What this page does not claim
 
-The entry does not discuss the Pacific notions of vā that the compendium's principles link to this concept, and no source here supports an identity between Buber's between and those ideas. Treat the link as an analogy made by the compendium.
+The entry does not discuss the Pacific notions of vā that my principles link to this concept, and no source here supports an identity between Buber's between and those ideas. Treat the link as my analogy.
 
-### In the compendium
+### Here
 
 - [[R041 — Honour the vā]], [[R047 — Practise va tapuia]] and [[R082 — Practise the primacy of relation]] cite this concept.
 - [[R091 — Practise the word that is spoken]], [[R099 — Practise the between as ontological]] and [[M006 — Name your in-between states]] cite it as well.

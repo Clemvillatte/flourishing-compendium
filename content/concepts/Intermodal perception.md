@@ -17,13 +17,13 @@ The paper's conclusion is that the senses arrive already coordinated in the four
 
 > "Young babies do not appear to experience a world of unrelated visual and auditory sensations." (Spelke 1979, [author's lab PDF](https://www.harvardlds.org/wp-content/uploads/2017/01/Perceiving-bimodally-specified-events-in-infancy-1.pdf))
 
-The mechanism matters for the compendium: infants matched the seen event to the heard one not by learned labels but by structure — synchrony and tempo, invariants that are themselves modality-neutral. The paper's experiments used filmed percussion sequences and toy instruments, and the infants were sensitive both to the common tempo and to the simultaneity of sounds and visible impacts, before any training could have taught the correspondences by name. The finding grounds the later Spelke program's claim that object perception is amodal, indifferent to which sense supplies the surfaces, and the paper's own summary states that the experiments support an invariant-detection description of infant perception.
+The mechanism matters here: infants matched the seen event to the heard one not by learned labels but by structure — synchrony and tempo, invariants that are themselves modality-neutral. The paper's experiments used filmed percussion sequences and toy instruments, and the infants were sensitive both to the common tempo and to the simultaneity of sounds and visible impacts, before any training could have taught the correspondences by name. The finding grounds the later Spelke program's claim that object perception is amodal, indifferent to which sense supplies the surfaces, and the paper's own summary states that the experiments support an invariant-detection description of infant perception.
 
 The paper's own summary line carries the reach of the finding: "In summary, these experiments support an invariant-detection description of infant perception."
 
 **Plain words** A four-month-old who sees a toy hit the floor and hears the knock already knows the knock belongs to the toy. Seeing and hearing are not two separate worlds that have to be introduced to each other; they arrive from the same event, matched by rhythm and timing.
 
-### In the compendium
+### Here
 
 - [[E018 — Practise the reversibility of flesh]]: the principle that takes embodied coordination as trainable
 

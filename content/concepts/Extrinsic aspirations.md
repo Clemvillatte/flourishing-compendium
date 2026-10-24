@@ -33,7 +33,7 @@ Dittmar and colleagues (2014) pooled 753 effect sizes from 259 independent sampl
 
 These are mainly correlational and self-report studies. The meta-analysis found that effect sizes depended on demographic factors, on value context (study and work environments, cultures) and on cultural economic indicators, so the size of the effect varies by context.
 
-### In the compendium
+### Here
 
 - [[D079 — Question conventional measures of success]], [[A016 — Practice proper ambition (philotimia)]] and [[PP010 — Distinguish intrinsic from extrinsic aspirations]] cite this concept.
 - [[ST301 — The Aspiration Index]], [[K268 — Preferred-indifferent hierarchy]] and [[ST016 — Thoreau's Bean Field]] cite it as well.

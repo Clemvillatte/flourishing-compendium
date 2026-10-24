@@ -16,7 +16,7 @@ Nāgārjuna answers the objection that emptiness would make change and Buddhist 
 
 > "Whatever is contingently related, that is explained as emptiness. That is contingently configured; it is the central path." (Nāgārjuna, MMK 24.18, [trans. Stephen Batchelor](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html))
 
-The title's relational fullness is the compendium's rendering. Verse 24.19 extends emptiness to everything contingently emergent; it offers no guarantee that recognising dependence will end loneliness or make a relationship good ([MMK 24.19](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html)).
+The title's relational fullness is my rendering. Verse 24.19 extends emptiness to everything contingently emergent; it offers no guarantee that recognising dependence will end loneliness or make a relationship good ([MMK 24.19](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html)).
 
 ### Plain words
 

@@ -20,7 +20,7 @@ The same chapter carries the diagnosis one step further, to what overwork does t
 
 > "The people make light of dying because of the greatness of their labours in seeking for the means of living. It is this which makes them think light of dying." (DDJ 75)
 
-The chapter is written about rulers and the governed. The compendium reads its logic as applying wherever one part of a system sets the demands another part must meet, including the demands you set for yourself.
+The chapter is written about rulers and the governed. I read its logic as applying wherever one part of a system sets the demands another part must meet, including the demands you set for yourself.
 
 (DDJ 75.)
 

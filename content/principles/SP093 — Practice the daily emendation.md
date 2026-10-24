@@ -16,7 +16,7 @@ The remedies of Ethics Part V, read in sequence, are the method this principle t
 
 > "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof." (Spinoza, Ethics V, Prop. III, [Wikisource text](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5))
 
-The proof of Proposition III identifies a passion with a confused idea. Proposition II combines separating an emotion from the thought of its external cause with joining it to other thoughts ([Ethics, Part V](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5)). The compendium adapts these propositions into a daily notebook exercise: describe an emotion, examine your explanation of its cause, and note what remains uncertain.
+The proof of Proposition III identifies a passion with a confused idea. Proposition II combines separating an emotion from the thought of its external cause with joining it to other thoughts ([Ethics, Part V](https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5)). I adapt these propositions into a daily notebook exercise: describe an emotion, examine your explanation of its cause, and note what remains uncertain.
 
 **Plain words**
 Try this with an upsetting exchange. Write down what happened separately from what you think the other person intended. Check which parts of your explanation you can support and which parts you are assuming.

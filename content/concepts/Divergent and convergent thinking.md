@@ -15,9 +15,9 @@ Divergent thinking generates many varied ideas from the same starting point; con
 
 The same article grounds the history: "Guilford (1967) introduced convergent and divergent thinking as part of a set of five operations that apply in his Structure of Intellect model (SOI model) on six products and four kinds of content, to produce 120 different factors of cognitive abilities." In his 1950 presidential address, Guilford discussed fluency in creative talent: "There is very likely a fluency factor, or there are a number of fluency factors, in creative talent" (Guilford, [Creativity](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf), American Psychologist 5(9), 1950, p. 452).
 
-### In the compendium
+### Here
 
-- [[CO074 — Cultivate creative thinking — divergent and convergent modes]] — the compendium's principle for the pairing
+- [[CO074 — Cultivate creative thinking — divergent and convergent modes]] — my principle for the pairing
 - [[PP053 — Practise divergent thinking]] — the generation side as practice
 - [[PP051 — Treat creativity as a process, not a trait]] — the process view of the same capacity
 - [[K325 — Divergent-option generation]] — the divergent kernel

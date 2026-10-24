@@ -21,7 +21,7 @@ Having crossed, the man might hoist the raft on his head or carry it on his back
 
 The simile sits in a discourse about clinging to views, alongside the simile of the water-snake, in which the Dhamma grasped wrongly harms its holder as a snake seized by the tail. Thanissaro Bhikkhu's introduction to the discourse notes that the two similes work together: the Dhamma has to be grasped, and grasped properly, before it can be let go ([MN 22 introduction](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)).
 
-### In the compendium
+### Here
 
 - [[B127 — Dismantle the raft when you've crossed]] — the principle that works the simile directly
 - [[B014 — Use views as tools, not possessions (the raft)]] — the simile applied to views

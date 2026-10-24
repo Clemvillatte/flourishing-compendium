@@ -23,7 +23,7 @@ The same entry lists where such ciphers are found and what they do:
 
 ([Thornhill and Miron, "Karl Jaspers", Stanford Encyclopedia of Philosophy, section 4](https://plato.stanford.edu/entries/jaspers/))
 
-Jaspers also applies the interpretation to religion. He reads the persons of the Trinity not as factual elements of deity but as symbolic ciphers of human possibility, and he gives Christ the same reading, as a cipher for the human existential possibility of inner change, reversal and transformation (same entry, section 5). A cipher is therefore not a symbol to decode: it alludes and withholds at once, and the response it asks for is standing at the limit of consciousness without claiming to have crossed it. The compendium's principle [[E098 — Practise the ciphers of transcendence]] turns this into counsel: contemplate what points beyond you, and do not convert it into a claim you can hold.
+Jaspers also applies the interpretation to religion. He reads the persons of the Trinity not as factual elements of deity but as symbolic ciphers of human possibility, and he gives Christ the same reading, as a cipher for the human existential possibility of inner change, reversal and transformation (same entry, section 5). A cipher is therefore not a symbol to decode: it alludes and withholds at once, and the response it asks for is standing at the limit of consciousness without claiming to have crossed it. My principle [[E098 — Practise the ciphers of transcendence]] turns this into counsel: contemplate what points beyond you, and do not convert it into a claim you can hold.
 
 ## Sources
 

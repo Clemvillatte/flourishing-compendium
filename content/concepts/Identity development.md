@@ -7,7 +7,7 @@ file: "Identity development"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-The compendium uses "Identity development" for the Eriksonian research tradition on how a coherent sense of self forms. The field's framing, from a decade review:
+I use "Identity development" for the Eriksonian research tradition on how a coherent sense of self forms. The field's framing, from a decade review:
 
 > "One of the key developmental tasks in adolescence and young adulthood is to develop a coherent sense of self and identity (Erikson, 1968)." (Branje, de Moor, Spitzer and Becht 2021, second sentence of the main text, [Journal of Research on Adolescence 31(4):908-927](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/))
 
@@ -19,7 +19,7 @@ The compendium uses "Identity development" for the Eriksonian research tradition
 
 A more recent study carries the tradition's lifelong reading: "Also, the commonly held belief that identity formation stops by the end of adolescence, or “emerging adulthood”, misrepresents Erikson's (1963) work and subsequent research. Instead, identity formation consists of a dynamic process that allows individuals to continuously evaluate and update their commitments across the adult lifespan." (Weller, de Moor and Klimstra 2025, [Journal of Personality](https://pmc.ncbi.nlm.nih.gov/articles/PMC12988339/))
 
-### In the compendium
+### Here
 
 - [[D160 — Be patient with your own maturation]]: patient with your own maturation
 - [[SE035 — Understand identity as a project — you author yourself]]: identity as a project

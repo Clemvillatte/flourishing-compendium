@@ -20,7 +20,7 @@ In the same text, "[a]n individuation is relative", and "a certain level of pote
 
 Ian Tucker reads the point for psychology this way: the subject "never reaches a stage of being a 'finished' individual", and "to be completed would be to stop existing" ([Simondon, emotion, and individuation](https://repository.uel.ac.uk/download/9d318435991b428f036433e17864264157edec5db47e901505ca79b6b45d2f28/254482/Simondon,%20emotion,%20and%20individuation%20-%20The%20tensions%20of%20psychological%20life%20in%20digital%20worlds%20-%20Pre%20Proof.pdf)).
 
-### What is the compendium's
+### What is my
 
 Simondon is describing being in general, from physical systems to living and psychic ones. "Never say 'this is who I am' in the past tense" is a practical rule drawn from it, not something he writes. And the claim that a trait such as being a morning person can change is a separate empirical question, which this ontology does not settle.
 

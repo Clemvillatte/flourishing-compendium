@@ -20,7 +20,7 @@ The study also tested what predicts BII: Big Five personality traits, and accult
 
 The two dimensions do different work. Distance versus overlap concerns how separate the two identities sit in the self. Conflict versus harmony concerns how much they clash. The same study reported that cultural conflict and cultural distance have distinct personality, acculturation and sociodemographic antecedents ([abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)).
 
-### In the compendium
+### Here
 
 - [[SO005 — Use cultural fluency as a skill, not a trait]]
 - [[SO073 — Use acculturation strategies deliberately]]

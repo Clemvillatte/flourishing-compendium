@@ -12,15 +12,15 @@ Gratitude is the felt recognition of a benefit received: attention to what was g
 
 ### The attention theory
 
-In the compendium's framing (AF063: gratitude recalibrates attention toward what is good), the mechanism is attentional. The classic test is Emmons and McCullough's "counting blessings versus burdens" experiment: participants who listed things they were grateful for each week or each day, against those listing hassles or neutral events, "exhibited heightened well-being across several, though not all, of the outcome measures," with the effect on positive affect the most robust finding, and a conscious focus on blessings showing "emotional and interpersonal benefits" ([Emmons and McCullough 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf); reviewed in [Wood, Froh and Geraghty 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010965/)). The connection to [[Hedonic adaptation]] is direct: gratitude is a counter-practice to taking for granted, which is why the wiki pairs it with savoring (P179) and evening review (S120).
+In my framing (AF063: gratitude recalibrates attention toward what is good), the mechanism is attentional. The classic test is Emmons and McCullough's "counting blessings versus burdens" experiment: participants who listed things they were grateful for each week or each day, against those listing hassles or neutral events, "exhibited heightened well-being across several, though not all, of the outcome measures," with the effect on positive affect the most robust finding, and a conscious focus on blessings showing "emotional and interpersonal benefits" ([Emmons and McCullough 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf); reviewed in [Wood, Froh and Geraghty 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010965/)). The connection to [[Hedonic adaptation]] is direct: gratitude is a counter-practice to taking for granted, which is why I pair it with savoring (P179) and evening review (S120).
 
 ### The relationship theory
 
 Sara Algoe's find-remind-and-bind theory shifts the center from well-being to relationships: gratitude serves to find new high-quality relationship partners, remind people of the value of the partners they have, and bind both closer together ([Algoe 2012](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x)). Her daily-experience studies of couples found that gratitude, unlike indebtedness, predicted increases in connection and satisfaction for both recipient and benefactor, "perhaps acting as a booster shot for the relationship" ([Algoe, Gable and Maisel 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x)). The emotion is thus relational before it is hedonic: what it maintains is the bond.
 
-### In the compendium
+### Here
 
-The wiki's practices split along the same lines: attention practices (S084, AF063, AT021, PP013 with specificity), expression practices (BE055, S037 beneficence), relational and ecological extensions (R058 filial piety, R128 ecological gratitude), and kernels (K053 recognizing kindness received, B112 recognizing your conditions). The full principle list is below.
+My practices split along the same lines: attention practices (S084, AF063, AT021, PP013 with specificity), expression practices (BE055, S037 beneficence), relational and ecological extensions (R058 filial piety, R128 ecological gratitude), and kernels (K053 recognizing kindness received, B112 recognizing your conditions). The full principle list is below.
 
 ## Related concepts
 - [[T013 — Seneca]]: the account the page opens with, in his letters' terms.
@@ -38,7 +38,7 @@ The wiki's practices split along the same lines: attention practices (S084, AF06
 - [[Mudita (sympathetic joy)]] — joy in another's good, gratitude's other-directed cousin
 - [[Awe]] — self-diminishing wonder, another benefit-focused emotion
 - [[Four immeasurables]] — the appreciative side of the four in social form
-- [[Joy]] — a neighbouring positive state the compendium treats as trainable attention
+- [[Joy]] — a neighbouring positive state I treat as trainable attention
 - [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 - [[SP022]] — A Spinozist account of gratitude as wanting to benefit someone who has benefited us out of love.

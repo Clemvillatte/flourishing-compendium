@@ -19,7 +19,7 @@ The distinction is not armchair taxonomy. Study 1 used guided recall of the two 
 
 A colleague's promotion can become either an hour spent updating one's own portfolio or an hour spent retelling the unfairness of it. The feeling at the start is the same pain; the motivation it settles into is the fork. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[SP016 — Watch the desires you copy]] — Spinoza's emulation: desire caught from others' desiring
 - [[D117 — Don't manufacture envy]] — the Daoist upstream fix: stop prizing rare goods

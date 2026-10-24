@@ -19,9 +19,9 @@ Crocker's route is contingency. Contingencies of self-worth are "the domains in 
 
 The fragility prediction has been tested and partially failed. Burgoyne, Hambrick and Macnamara (2020) tested six premises of mindset theory in a large university sample and "no support was found for most premises"; in their test of performance after failure, "students with more of a fixed mind-set outperformed students with more of a growth mind-set" in one sample, and the mindset effect was not significant after controlling for cognitive ability ([Burgoyne et al. 2020](https://englelab.gatech.edu/articles/2020/Burgoyne_Hambrick_Macnamara_2020_Mindset.pdf)). Their conclusion is scoped, and worth quoting: "the results of our investigation and others suggest that the theoretical basis for these programs may not be sound."
 
-### In the compendium
+### Here
 
-The compendium treats the fixed view as a diagnosis with an antidote. P001 builds life on becoming rather than being, SE062 cultivates a growth orientation, and CO065 treats wisdom itself as a trainable skill rather than a fixed trait. The Buddhist line holds the whole framework lightly: B003 on anatta, B126 on holding views lightly, B138 on emptying the relations too. R105 practises narrative identity, the self as an authored story rather than a verdict, SE073 handles the bicultural and marginalised selves that fixed views flatten, and K147's "I am becoming" reframes and P184's twice-born conversion mark the compendium's two routes out.
+I treat the fixed view as a diagnosis with an antidote. P001 builds life on becoming rather than being, SE062 cultivates a growth orientation, and CO065 treats wisdom itself as a trainable skill rather than a fixed trait. The Buddhist line holds the whole framework lightly: B003 on anatta, B126 on holding views lightly, B138 on emptying the relations too. R105 practises narrative identity, the self as an authored story rather than a verdict, SE073 handles the bicultural and marginalised selves that fixed views flatten, and K147's "I am becoming" reframes and P184's twice-born conversion mark my two routes out.
 
 - [[P001 — Build your life on becoming, not being]] — becoming as the alternative to the fixed view
 - [[B126 — Hold the four views lightly]] — the Madhyamaka antidote to fixed views
@@ -48,7 +48,7 @@ The compendium treats the fixed view as a diagnosis with an antidote. P001 build
 
 
 - [[Implicit theories of intelligence]] — Dweck's construct, the measured form of the fixed view
-- [[Growth mindset]] — the incremental alternative the compendium pairs it with
+- [[Growth mindset]] — the incremental alternative I pair it with
 - [[Self as process]] — the self-concept as dynamic and continually updated, the processual alternative
 - [[Narrative identity]] — the self as a story that can be revised
 - [[Anatta]] — the Buddhist no-self, the deepest version of holding the self lightly

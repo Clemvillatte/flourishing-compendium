@@ -13,7 +13,7 @@ The construct matters because it is measurable and has consequences the studies 
 
 ### How it differs from related ideas
 
-Cross's construct is a narrower thing than the Markus and Kitayama interdependent self-construal, which is a culture-level contrast; the RISC scale measures an individual difference in how much one's close relationships are part of the self-definition. The compendium's principle [[B138 — Empty the relations too (who bows to whom)]] cites the construct in a Buddhist register: if the self is co-constituted with others, then even the relations that make up the self can be held as costumes rather than cast.
+Cross's construct is a narrower thing than the Markus and Kitayama interdependent self-construal, which is a culture-level contrast; the RISC scale measures an individual difference in how much one's close relationships are part of the self-definition. My principle [[B138 — Empty the relations too (who bows to whom)]] cites the construct in a Buddhist register: if the self is co-constituted with others, then even the relations that make up the self can be held as costumes rather than cast.
 
 ## Related concepts
 

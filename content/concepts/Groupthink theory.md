@@ -17,7 +17,7 @@ The same passage continues: "Groupthink refers to a deterioration of mental effi
 
 The theory's standing has been disputed since. Aldag and Fuller's reappraisal concluded that "the model has not incorporated two decades of theory and research, has received limited empirical support, and is restrictive in scope." Whyte (1989), as they note, called groupthink "although relevant, is an incomplete explanation for the occurrence of decision fiascoes."
 
-### In the compendium
+### Here
 
 - [[SO036 — Guard against epistemic failure modes]] — lists groupthink among the failure modes of collective knowledge, with anonymous first votes as the fix
 - [[SO035 — Use collective intelligence deliberately]] — the other side of the coin: groups can outperform their best members when groupthink is designed away
@@ -30,7 +30,7 @@ Affect · Psychological science
 ## Related concepts
 
 - [[Psychological safety]] — a group condition that keeps disagreement possible where cohesion alone would silence it
-- [[Janis]] — the theorist page for Janis, cited in the compendium's research lines
+- [[Janis]] — the theorist page for Janis, cited in my research lines
 - [[Conformity]] — the individual-level pull that groupthink amplifies
 
 ## Sources

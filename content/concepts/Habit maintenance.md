@@ -22,14 +22,14 @@ Gardner, Lally and Wardle give the mechanism. In their words, "Mere repetition o
 
 ### What this suggests for practice
 
-These points follow from the sources above, and the wording is the compendium's, not the authors':
+These points follow from the sources above, and the wording is my, not the authors':
 
 - Keep the cue and the context steady, because the cue is doing the work.
 - Do not treat one missed day as a collapse; Gardner and colleagues report that automaticity gains soon resumed after one missed performance.
 - Expect a long build for complex behaviours, and do not hold to 21 or 66 days as a promise.
 - The studies here do not test long-term follow-up, so extra monitoring and adaptation, as the maintenance principles suggest, rest on those principles' own sources.
 
-### In the compendium
+### Here
 
 - MO075, BE078, AT077, CO082 and AF084 apply the maintenance idea to motivation, behaviour, attention, cognition and affect: ongoing practice and adaptation.
 - MO044 and BE077 are the tracking principles: watching what you do.

@@ -23,7 +23,7 @@ The fifth character gives the stream its direction. Consciousness is not an indi
 > "Like a bird's life, it seems to be made of an alternation of flights and perchings. ... Let us call the resting-places the 'substantive parts,' and the places of flight the 'transitive parts,' of the stream of thought."
 > — [James, The Principles of Psychology, vol. 1, ch. IX](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)
 
-The compendium's linked principles work the same stream from two sides: know it as a stream rather than a chain of bits, and train the choosing that runs through it.
+My linked principles work the same stream from two sides: know it as a stream rather than a chain of bits, and train the choosing that runs through it.
 
 ## Related concepts
 

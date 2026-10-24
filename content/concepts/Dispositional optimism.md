@@ -21,7 +21,7 @@ The construct sits inside the authors' expectancy-value model of self-regulation
 
 > If expectancies are favorable, the result is renewed effort. If expectancies are sufficiently unfavorable, the result is reduced effort, or even complete disengagement from further attempts. (ibid., p. 222)
 
-In the 1985 study, undergraduates who scored optimistic in week one of a four-week window were less likely to report being bothered by physical symptoms at semester's end, even after correcting for their initial symptom levels (ibid., pp. 219-220). The practical stake for the compendium: optimism is a difference that shows up in persistence, coping and health behaviour, and it is distinct from the optimism bias, which is a specific cognitive distortion (PP016).
+In the 1985 study, undergraduates who scored optimistic in week one of a four-week window were less likely to report being bothered by physical symptoms at semester's end, even after correcting for their initial symptom levels (ibid., pp. 219-220). The practical stake here: optimism is a difference that shows up in persistence, coping and health behaviour, and it is distinct from the optimism bias, which is a specific cognitive distortion (PP016).
 
 ## Related concepts
 

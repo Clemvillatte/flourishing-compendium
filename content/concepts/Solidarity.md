@@ -33,7 +33,7 @@ The quotation comes second-hand through Anderson, whose footnote cites Camus onl
 
 The Stanford entry lists objections to solidarity itself. One is Shklar's warning that "ideologies of solidarity" attract people who find liberalism unsatisfying, as the entry summarizes it. Others are the charges that it promotes false beliefs among members and treats outsiders unfairly. The entry also gives the replies available to defenders. ([Stanford Encyclopedia](https://plato.stanford.edu/entries/solidarity/))
 
-### In the compendium
+### Here
 
 - [[P137 — Build solidarity without demanding consensus]] cites Rorty's book under this concept; [[R113 — Practise relational solidarity]], [[E059 — Practise solidarity]] and [[E077 — Practise the liberation of others]] cite the concept too.
 - [[A069 — Seek concord (homonoia)]] is among the principles in the neighbourhood.

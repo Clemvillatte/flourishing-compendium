@@ -9,9 +9,9 @@ Knowing what is happening while it happens sounds like the simplest of skills an
 - Mindfulness: the modern practice family, MBSR and its relatives; this page holds the path factor itself and its root text, and points to the family.
 - Attention: the general science of how experience is selected; this page holds the training of it toward clear seeing.
 - Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page.
-- Meta-awareness: knowing that one is aware; the compendium pairs the capacity with sati, and the map below holds both.
+- Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the map below holds both.
 
-## The map: entries the wiki holds on right mindfulness
+## The map: the entries on right mindfulness
 
 ### What the factor is
 
@@ -25,7 +25,7 @@ Knowing what is happening while it happens sounds like the simplest of skills an
 
 [Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29): the flagship practice, mindfulness established on the breath.
 
-[The returning practice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20returning%20practice): the compendium's name for the central move of meditation, noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice.
+[The returning practice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20returning%20practice): my name for the central move of meditation, noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice.
 
 [Vipassana (insight)](https://clemvillatte.github.io/flourishing-compendium/#card=Vipassana%20%28insight%29): clear-seeing, treated by Thanissaro as a quality of mind rather than a technique, the ability to see events clearly.
 
@@ -43,13 +43,13 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Bare attention in mindfulness practice](https://clemvillatte.github.io/flourishing-compendium/#card=Bare%20attention%20in%20mindfulness%20practice): the attending to what arises before commentary begins.
 
-[Meta-awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Meta-awareness): knowing that one is aware, the capacity the compendium pairs with sati.
+[Meta-awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Meta-awareness): knowing that one is aware, the capacity I pair with sati.
 
 [Metacognitive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20awareness): the part of metacognition that can be reported and measured, what a person knows about their own thinking and how they manage it.
 
 [Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention): attention deliberately trained on present experience, Kabat-Zinn's operational definition.
 
-[Mindful presence](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20presence): the compendium's label for the attended presence itself; Kabat-Zinn, 1990.
+[Mindful presence](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20presence): the label I use for the attended presence itself; Kabat-Zinn, 1990.
 
 [Present-moment awareness theory](https://clemvillatte.github.io/flourishing-compendium/#card=Present-moment%20awareness%20theory): the claim that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing.
 
@@ -63,13 +63,13 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time, many possibilities where the expert's mind holds few.
 
-[Clarity of mind](https://clemvillatte.github.io/flourishing-compendium/#card=Clarity%20of%20mind): the compendium's label for the unclouded mental state the contemplative traditions describe, Stoic assent, Daoist purity-and-stillness, Buddhist clear seeing.
+[Clarity of mind](https://clemvillatte.github.io/flourishing-compendium/#card=Clarity%20of%20mind): the label I use for the unclouded mental state the contemplative traditions describe, Stoic assent, Daoist purity-and-stillness, Buddhist clear seeing.
 
 [The lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body): the body as experienced from within, the body one is rather than only the body one has; the first frame's home.
 
 ### The modern family
 
-[Mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness): the compendium's entry for the modern practice family.
+[Mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness): my entry for the modern practice family.
 
 [Mindfulness-based stress reduction](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20stress%20reduction): Kabat-Zinn's clinical programme.
 
@@ -117,7 +117,7 @@ From the same essay:
 
 > "meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
 
-These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. The wiki holds both, the clinical family's cards on one side and the sati cards and this essay on the other, and records the question as open.
+These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. I hold both, the clinical family's cards on one side and the sati cards and this essay on the other, and record the question as open.
 
 ### How does bare attention support practice?
 
@@ -125,13 +125,13 @@ Nyanaponika Thera makes bare attention the core of the practice:
 
 > "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)): Primary text by a monastic scholar; quoted passages checked.
 
-Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika emphasizes bare attention's importance in satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. These excerpts do not establish mutually exclusive positions. The wiki holds both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and records the question as open.
+Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika emphasizes bare attention's importance in satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. These excerpts do not establish mutually exclusive positions. I hold both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and record the question as open.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the default setting of the unattended life: experience passing unexamined, the body noticed only when it complains, attention captured by whatever arrives loudest. The adaptive direction is the factor's own shape, awareness established on some frame of the present, breath, body, feeling or thought, and returned to without drama when it wanders.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [K102 — Body scan](https://clemvillatte.github.io/flourishing-compendium/#card=K102%20%E2%80%94%20Body%20scan): attention moved deliberately through the body, frame by frame.
 
@@ -149,7 +149,7 @@ Thanissaro, as the passage quoted above says, assigns those functions to other m
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 [ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's reading of attention as the rarest and purest form of generosity, school studies as its training ground.
 

@@ -20,7 +20,7 @@ The instruction for the moment of disturbance follows directly: attribute it to 
 
 > "When therefore we are hindered, or disturbed, or grieved, let us never attribute it to others, but to ourselves; that is, to our own principles." (Enchiridion 5, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html))
 
-The compendium's practical reading: the same event can be read as catastrophe or as indifference, and the reading is the lever. The work is to catch the judgement in the moment and ask what notion produced it.
+My practical reading: the same event can be read as catastrophe or as indifference, and the reading is the lever. The work is to catch the judgement in the moment and ask what notion produced it.
 
 (Ench. 5; Disc. I.1; Med. IV.7, VIII.47.)
 

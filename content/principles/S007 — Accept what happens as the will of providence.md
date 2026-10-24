@@ -17,7 +17,7 @@ Marcus compares adversity to a physician's prescription. He argues that somethin
 > "And so accept everything which happens, even if it seem disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus (the universe)."
 > (Med. V.8, [George Long's translation](https://classics.mit.edu/Antoninus/meditations.5.five.html))
 
-His reason for acceptance is the belief that events belong to an ordered whole and serve its good. The compendium draws an everyday exercise from this account: acknowledge what has happened and consider how to respond.
+His reason for acceptance is the belief that events belong to an ordered whole and serve its good. I draw an everyday exercise from this account: acknowledge what has happened and consider how to respond.
 
 **Plain words** Marcus asks you to believe that a disappointment in your own life can serve the good of the universe as a whole. His advice depends on that belief about how the world is governed. The practical exercise is to recognise the event you now face and decide what to do next.
 

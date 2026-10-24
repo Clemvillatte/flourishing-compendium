@@ -17,7 +17,7 @@ Aristotle argues for musical education in terms of judgment and enjoyment:
 > "we ought not to learn or accustom ourselves to anything so much as to judge right and rejoice in honourable manners and noble actions"
 > (Politics VIII.5, William Ellis translation.)
 
-He argues in the same chapter that music and poetry imitate dispositions and affect the listener. The compendium reads this argument alongside his discussion of learning through imitation in Poetics IV (Butcher translation) and education in pleasure and pain in NE II.3 (Ross translation).
+He argues in the same chapter that music and poetry imitate dispositions and affect the listener. I read this argument alongside his discussion of learning through imitation in Poetics IV (Butcher translation) and education in pleasure and pain in NE II.3 (Ross translation).
 
 **Plain words** Consider what a work invites you to enjoy, admire or dislike. Afterward, ask how you judge those responses.
 

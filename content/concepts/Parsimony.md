@@ -13,15 +13,15 @@ Parsimony is the habit of not multiplying what a claim needs. The concept's cano
 
 The same entry situates the razor inside Ockham's larger economy: in metaphysics he admits "only individual substances and qualities", holding that universal essences such as humanity or whiteness "are nothing more than concepts in the mind". Parsimony for Ockham is not an aesthetic preference for tidiness; it is a discipline of ontology — what cannot be shown to be needed is not shown to be.
 
-### In the compendium
+### Here
 
 - [[D022 — Subtract, don't add]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Ockham's razor]] — the compendium's page on the razor
-- [[Simplicity]] — the compendium's page on simplicity
-- [[Deliberate simplicity]] — the compendium's page on deliberate simplicity
+- [[Ockham's razor]] — my page on the razor
+- [[Simplicity]] — my page on simplicity
+- [[Deliberate simplicity]] — my page on deliberate simplicity
 
 ## Sources
 

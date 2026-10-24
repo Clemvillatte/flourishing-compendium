@@ -15,7 +15,7 @@ A later appraisal by Alan Elms, a contributor to and witness of the original exp
 
 The same record notes that the replication "has provided an initial demonstration that his 'obedience lite' procedures can be used to extend the study of certain situational and personality variables beyond those examined by Milgram" ([same record](https://pubmed.ncbi.nlm.nih.gov/19209962/)).
 
-### In the compendium
+### Here
 
 - [[B160 — Question authority — even the Buddha's]] lists this research as a psychology parallel.
 
@@ -24,7 +24,7 @@ The same record notes that the replication "has provided an initial demonstratio
 - [[Conformity]]
 - [[Moral disengagement research]] — Bandura's account of how moral self-sanctions get switched off
 - [[Moral situation research]]
-- [[Bystander effect theory Darley Latane]] — the compendium's page on witnesses and helping
+- [[Bystander effect theory Darley Latane]] — my page on witnesses and helping
 - [[Obedience theory Milgram]]
 - [[Escape from freedom]] — Fromm's account of why people surrender their freedom
 

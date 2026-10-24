@@ -15,9 +15,9 @@ The community of occasions is Alfred North Whitehead's way of saying that the wo
 
 The occasions are not windowless. Each one inherits from the settled past, and the world is the ongoing achievement of all of them together. Whitehead's phrase for the same idea in Religion in the Making: "The actual temporal world can be analyzed into a multiplicity of occasions of actualization. These are the primary actual units of which the temporal world is composed. Call each such occasion an 'epochal occasion.' Then the actual world is a community of epochal occasions." The community is the point: an occasion is what it is by taking account of the settled past, and the future occasions will take account of it in turn. To exist is to contribute.
 
-The compendium's use is ecological. If every enduring thing is a temporary arrangement in a shared process, then care for one's own fragment of the process is care of the whole it belongs to, which is why the concept sits beside the care-for-the-community-of-life principles.
+My use is ecological. If every enduring thing is a temporary arrangement in a shared process, then care for one's own fragment of the process is care of the whole it belongs to, which is why the concept sits beside the care-for-the-community-of-life principles.
 
-### In the compendium
+### Here
 
 - [[P152 — Know yourself ecologically]] — the self-conception the community grounds
 - [[P154 — Care for the community of life]] — the ethics that follows from it

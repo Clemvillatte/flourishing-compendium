@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 
 Killingsworth and Gilbert built a way of sampling attention in real life: a smartphone app that asked 2,250 adults at random moments "Are you thinking about something other than what you're currently doing?" They report that "mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love", and that "people were less happy when their minds were wandering than when they were not" (Killingsworth & Gilbert 2010, [Science](https://www.science.org/doi/10.1126/science.1192439), full text via [author copy](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf)).
 
-That shows drift can be sampled from moment to moment with one question. It does not show that keeping a log improves focus. The study cited here does not test a daily attention rating or a distraction log as an intervention, so the claim that tracking helps is the compendium's working practice and not a finding.
+That shows drift can be sampled from moment to moment with one question. It does not show that keeping a log improves focus. The study cited here does not test a daily attention rating or a distraction log as an intervention, so the claim that tracking helps is my working practice and not a finding.
 
 **Plain words**
 Attention comes and goes, and you can get a rough picture of it by asking yourself at random moments whether your mind is on what you are doing. In that phone study, minds had wandered in nearly half of the samples. Try it for two weeks and see what your own answers say before you decide when and how you focus best.

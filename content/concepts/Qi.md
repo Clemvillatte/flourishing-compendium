@@ -27,7 +27,7 @@ Qi is not a substance that modern physics or physiology has measured. In its ori
 
 The practical idea needs no metaphysics: vitality is partly cultivated. Rest, breathing, movement and food are the medium of a working life, and energy gets depleted by overexertion and restored by recovery, not drawn from an endless reserve.
 
-### In the compendium
+### Here
 
 - [[D146 — Cultivate your qi — vitality]] — takes the Neiye's instruction to hold fast to a regular, tranquil practice
 - [[Feng shui (harmonious environment)]] — the Chinese practice of siting buildings and graves according to beliefs about qi

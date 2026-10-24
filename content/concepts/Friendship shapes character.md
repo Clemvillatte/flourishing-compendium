@@ -26,14 +26,14 @@ Earlier in Book IX Aristotle says the good man's friend "is another self". The s
 
 ### What the text does not claim
 
-It does not give a method for choosing friends, and it does not claim that friends of bad character cannot change. It also does not appeal to the modern idea of social contagion; links to that research belong to the compendium's own psychological parallels, not to Aristotle.
+It does not give a method for choosing friends, and it does not claim that friends of bad character cannot change. It also does not appeal to the modern idea of social contagion; links to that research belong to my own psychological parallels, not to Aristotle.
 
-### In the compendium
+### Here
 
 - A064 and A078 come from Aristotle's earlier account in Book VIII of the three kinds of friendship, and why the friendship of the good is best.
 - B037 (Choose your companions wisely) is the Buddhist parallel on admirable friendship.
 - SO024 and AF058 treat loneliness as a signal, which is the other side of choosing company.
-- R055, K335, K359 and ST317 are listed with this concept; their link is the compendium's own.
+- R055, K335, K359 and ST317 are listed with this concept; their link is my own.
 
 ## Related concepts
 

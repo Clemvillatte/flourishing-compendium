@@ -17,7 +17,7 @@ Life history theory came from evolutionary biology: natural selection shapes the
 
 The familiar summary of the variation is the fast-slow continuum, a negative association between time allocated to reproduction and development versus survival ([Stott et al., 2024, abstract](https://pubmed.ncbi.nlm.nih.gov/39003192/)). The same paper adds the field's current caution: higher-quality, more representative data and analyses have revealed that life history variation cannot be fully accounted for by this single continuum, and studies often operate as exploratory exercises rather than testing theory ([Stott et al., 2024, abstract](https://pubmed.ncbi.nlm.nih.gov/39003192/)). In humans, the review's authors emphasize the environmentally sensitive developmental processes that contribute to variation and plasticity in life-history traits ([Yang et al., 2022, abstract](https://pubmed.ncbi.nlm.nih.gov/35599317/)).
 
-### In the compendium
+### Here
 
 - [[SO048 — Treat discrimination as a health determinant]]
 - [[ST322 — Post-Traumatic Growth]], [[ST323 — Guido Makes It a Game]], [[ST054 — Rembrandt Paints His Own Face]] and [[ST134 — Ingold's Lines]]

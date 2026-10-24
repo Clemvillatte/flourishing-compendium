@@ -15,7 +15,7 @@ The Yoga-sutra defines the practice in one line and then names its fruit. Pranay
 >
 > "And the fitness of the mind for concentration." (Yoga-sūtra 2.53, trans. Rama Prasada, [wisdomlib](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216704.html))
 
-### In the compendium
+### Here
 
 - [[BI061 — Learn to use breath as the master regulator — many techniques]] — the principle's review of modern slow-breathing research; the sūtra pair gives the classical definition that research is read against.
 

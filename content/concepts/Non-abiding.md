@@ -17,15 +17,15 @@ The same chapter adds the paradox that makes the idea distinctive: "They should 
 
 The passage does not ask for an empty mind. It asks that the awakened mind arise at all, compassion and aspiration included, while refusing to settle into any of the senses' objects or into concepts. The giving is unconditional on what the giver gets back; the aspiration operates without a fixed resting place.
 
-### In the compendium
+### Here
 
 - [[B125 — Dwell nowhere (non-abiding)]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Non-attachment]] — the compendium's page on non-attachment
-- [[Buddhist emptiness of inherent nature]] — the compendium's page on emptiness
-- [[Letting-be]] — the compendium's page on letting-be
+- [[Non-attachment]] — my page on non-attachment
+- [[Buddhist emptiness of inherent nature]] — my page on emptiness
+- [[Letting-be]] — my page on letting-be
 
 ## Sources
 

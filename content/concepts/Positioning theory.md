@@ -17,7 +17,7 @@ Positioning theory is Rom Harré's account of the local systems of rights and du
 
 The theory works with three interlocking elements. In Harré's phrasing, "Positioning theory is an analytical scheme that can be used to reveal the inter-relation between speech acts, social meanings of what is said or done; local clusters of rights and duties that influence what people choose to do out of all they know how to do; and story lines, the cultural schemas for living out strips of everyday life" (ibid., p. 297). He adds that "constraints on and opportunities for action arise through local acts of positioning".
 
-### In the compendium
+### Here
 
 - [[S011 — Recognise the three topoi — the three disciplines]]
 - [[A023 — Practice justice (dikaiosyne)]]

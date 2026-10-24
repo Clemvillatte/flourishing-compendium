@@ -11,7 +11,7 @@ Emodiversity theory concerns the diversity of emotional experience: how many dis
 
 The evidence so far is not settled: the same review notes that emodiversity "has demonstrated mixed findings for its relative value in the examination of health and wellbeing".
 
-### In the compendium
+### Here
 
 - [[AF016 — Cultivate emodiversity — the range and evenness of your emotional life]] is this concept's direct parallel
 - [[AF015 — Do not fear emotional variability; fear its absence]] names the risk the theory guards against

@@ -21,14 +21,14 @@ The consequences run deep. Interdependent selves are expected to be "more attent
 
 The framework has been formative and contested. A comparative study of 55 cultural groups (Vignoles et al.) found "no such kind of culturally normative independent or interdependent self-construals as predicted by Markus and Kitayama's theory", and that Japanese culture "promote[s] individual uniqueness and independent thinking more than other human cultures in the sample, which directly contradicts" the prediction ([Wikipedia](https://en.wikipedia.org/wiki/Self-construal)). The construals survive better as tendencies within individuals than as culture types.
 
-### In the compendium
+### Here
 
-The compendium's sociocultural principles carry the theory's uses. SE052, "Cultivate the relational self — self-in-connection is not weakness," and R001's Ubuntu ("I am because we are") read the interdependent construal as a strength rather than a deficit; SO003, "Use the self-culture link, not a fixed self," keeps the construal from hardening into essence; SE005 and SE054 state the formative claim. R077 and R101's relational autonomy do the delicate work: autonomy within, not against, relation. These are structural comparisons, not claims of influence.
+My sociocultural principles carry the theory's uses. SE052, "Cultivate the relational self — self-in-connection is not weakness," and R001's Ubuntu ("I am because we are") read the interdependent construal as a strength rather than a deficit; SO003, "Use the self-culture link, not a fixed self," keeps the construal from hardening into essence; SE005 and SE054 state the formative claim. R077 and R101's relational autonomy do the delicate work: autonomy within, not against, relation. These are structural comparisons, not claims of influence.
 
 ## Related concepts
 
 
-- [[The relational self]] — the self-in-relation this theory describes, in the compendium's key
+- [[The relational self]] — the self-in-relation this theory describes, in my key
 - [[Ubuntu]] — the African personhood that is interdependence made explicit
 - [[Individualism collectivism theory Triandis]] — the companion theory at the level of cultural values
 - [[Face negotiation theory]] — the conflict-style consequences of the two construals

@@ -19,9 +19,9 @@ He ties it to the previous section: "Idle talk controls even the ways in which o
 
 Heidegger adds a caution in §34 that applies equally here. His interpretation, he writes, "is purely ontological in its aims, and is far removed from any moralizing critique of everyday Dasein" ([Being and Time, end of §34](https://static1.squarespace.com/static/5e265eb50aee2d7e8a81ae69/t/5ff90abe346f087732825582/1610156759396/Heidegger-Martin-Being-and-Time+-+Complete+Text.pdf)). So the passage describes a feature of everyday life and does not tell anyone to stop being curious.
 
-### In the compendium
+### Here
 
-- [[E029 — Practise curiosity (Neugier)]] turns the analysis into a practice of dwelling. The principle presents this as the compendium's own application of the passage.
+- [[E029 — Practise curiosity (Neugier)]] turns the analysis into a practice of dwelling. The principle presents this as my own application of the passage.
 
 ## Related concepts
 

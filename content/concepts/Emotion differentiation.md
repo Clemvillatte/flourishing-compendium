@@ -13,7 +13,7 @@ Emotion differentiation is the ability to tell one's feelings apart with precisi
 
 The skill is linked to regulation. Improving the "ability to identify and differentiate among emotions, particularly negative emotions, has been linked to enhanced emotion regulation and an improved ability to select a more effective strategy for managing emotions", and those "who can identify and label emotions with granularity are more apt to select adaptive emotion regulation strategies" (Linn et al., [Journal of Clinical Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8800422/)).
 
-### In the compendium
+### Here
 
 - [[D095 — Moderate emotion — extremes injure vitality]] and [[D150 — Balance the emotions to protect the body]] are this concept's psychology parallels
 - [[P036 — Notice that language shapes what you can see]] and [[B056 — Note lightly (noting)]] are linked principles

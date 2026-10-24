@@ -17,7 +17,7 @@ Workaholism research studies heavy work investment that has stopped being a choi
 
 Ng, Sorensen and Feldman's integration runs antecedents through to behavior: dispositions (achievement orientation, desire for higher self-esteem), socio-cultural experiences (a stressful childhood work can be an escape from, vicarious learning of workaholism at home and at work, peer competition, self-efficacy drawn mostly from work) and behavioral reinforcements (tangible and intangible rewards, winner-takes-all systems, organizational environments that drive overwork) feed immediate precursors: joy in working, guilt and anxiety when not working, obsession with working, and self-imposed long hours that spill into personal life ([Sussman 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3835604/), describing the model). Measurement most often uses the Workaholism Battery, whose items mark three dimensions, work involvement, work drive and work enjoyment, though studies repeatedly find only the drive and enjoyment factors ([Sussman 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3835604/)).
 
-The compendium's principle D029 (stop before the cup overflows) is the practice-side reading: the hours are not the problem, the inability to stop is.
+My principle D029 (stop before the cup overflows) is the practice-side reading: the hours are not the problem, the inability to stop is.
 
 ## Sources
 

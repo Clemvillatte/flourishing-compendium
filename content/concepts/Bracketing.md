@@ -42,7 +42,7 @@ And Husserl's own words on the same point, quoted by the entry:
 
 The bracketing move is therefore not a retreat from the world but a change of plane. The entry frames the philosophical attitude as asking "how it is possible" rather than "what the world contains", and the epoché is the door to that question. Strictly speaking, the epoché is the first step toward what Husserl terms the transcendental reduction, the systematic analysis of the intentional correlation between subjectivity and world ([Zahavi, SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/)).
 
-### In the compendium
+### Here
 
 - [[E001 — Practise the phenomenological reduction]] — the principle takes the epoché and works it into a practice.
 - [[Y014 — Hold the metaphysics lightly]] — the principle pairs the bracketing method with a lighter metaphysical holding.

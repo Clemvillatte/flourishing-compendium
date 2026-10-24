@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 44** — Speak slowly, and let speech be timely
 
-Shantideva's speech instruction calls for clear meaning, coherence and gentleness, free of greed and aggression (V.79). The compendium turns this into a check before speaking: what needs to be said, and can it be said without attacking the listener?
+Shantideva's speech instruction calls for clear meaning, coherence and gentleness, free of greed and aggression (V.79). I turn this into a check before speaking: what needs to be said, and can it be said without attacking the listener?
 
 (Shantideva, Bodhicharyavatara, ch. 5, the speech verses.)
 

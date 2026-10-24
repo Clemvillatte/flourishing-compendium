@@ -20,7 +20,7 @@ The framework turns on two contrasts. The voluntary and the involuntary mark whe
 - Bandura, 2001
 - Dewey, Human Nature and Conduct
 
-### In the compendium
+### Here
 
 - [[R071 — Practise responsibility]] — the principle that carries the practice
 

@@ -13,7 +13,7 @@ The phrase comes from the penalty stage of Socrates' trial in Plato's Apology. H
 
 The sentence names the activity plainly: daily talk about virtue, examining oneself and others. And it states the price of refusing it: a life without that examination is not worth living. Socrates predicts the jury will believe him still less, and he adds that he is not accustomed to think he deserves anything bad. The claim sits in a speech where he is proposing a monetary penalty: thirty minas, with friends as sureties.
 
-The remark works as the negative image of the compendium's examined-life family: the warning rather than the practice, useful precisely when the practice lapses.
+The remark works as the negative image of my examined-life family: the warning rather than the practice, useful precisely when the practice lapses.
 
 ## Related concepts
 - [[T011 — Socrates]]: the trial's penalty stage (Apology 38a), the phrase's source.

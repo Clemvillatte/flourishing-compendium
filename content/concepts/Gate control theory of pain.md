@@ -31,9 +31,9 @@ A review of peripheral nerve stimulation says its "origin is based on the gate c
 
 ### What this page does not claim
 
-The sources do not show that attention, mood or meditation close a spinal gate. The psychological reading in the compendium's principles is an extension of the modulation idea and not a finding of these papers.
+The sources do not show that attention, mood or meditation close a spinal gate. The psychological reading in my principles is an extension of the modulation idea and not a finding of these papers.
 
-### In the compendium
+### Here
 
 - [[S094 — Accept pain as part of nature]], [[K038 — If there is a remedy, why be angry; if there is none, what use is anger]] and [[P157 — Accept what cannot be changed while committing to what can]] cite this concept.
 - [[A116 — Understand fear (phobos)]], [[A117 — Understand pity (eleos)]] and [[AT008 — Recognise that attention is embodied — physical state affects attentional capacity]] cite it as well.

@@ -21,7 +21,7 @@ McEwen identifies activation of both the autonomic nervous system and the HPA ax
 **Plain words**
 The system that mobilises you for a threat is doing its job when the threat is real and near. The same systems kept running for months are what the wear-and-tear finding is about. The practical reading is timing: mobilise when it matters, and look for where demands can be reduced and where recovery is possible.
 
-*For example:* Imagine comparing a short-lived deadline with months of repeated demands. The compendium asks which demands can be reduced and where recovery is possible.
+*For example:* Imagine comparing a short-lived deadline with months of repeated demands. I ask which demands can be reduced and where recovery is possible.
 
 ## Sources
 

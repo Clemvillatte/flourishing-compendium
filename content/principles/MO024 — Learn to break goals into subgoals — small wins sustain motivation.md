@@ -27,7 +27,7 @@ And on ordinary progress:
 (Amabile & Kramer, 2011, "The Power of Small Wins," Harvard Business Review, May 2011.)
 
 **Plain words**
-Amabile and Kramer describe small steps in meaningful work as potentially important for how people experience a workday. The compendium uses this finding as a planning prompt: choose a project that matters to you and identify a manageable next step. Decide what would count as completing it.
+Amabile and Kramer describe small steps in meaningful work as potentially important for how people experience a workday. I use this finding as a planning prompt: choose a project that matters to you and identify a manageable next step. Decide what would count as completing it.
 
 *For example:* Suppose you are revising a thesis chapter. Set a subgoal of checking the citations in one paragraph. Afterward, note whether that step moved the chapter forward and how the work felt.
 

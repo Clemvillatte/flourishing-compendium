@@ -24,7 +24,7 @@ Craske and colleagues describe what happens to learned fear. In the inhibitory l
 
 ### Scope
 
-The three failure modes (disproportionate, triggered by harmless cues, maintained by avoidance) are the compendium's classification. These sources support the function of fear and the persistence of learned fear, not that list.
+The three failure modes (disproportionate, triggered by harmless cues, maintained by avoidance) are my classification. These sources support the function of fear and the persistence of learned fear, not that list.
 
 **Plain words** Fear is the body's threat-detection and readiness system, not a fault. It becomes a problem when it is learned wrongly or gets stuck. Because the old fear learning is not erased, change comes from new learning on top of it, which can slip back.
 

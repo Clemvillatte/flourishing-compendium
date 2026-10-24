@@ -7,7 +7,7 @@ file: "Ahimsa"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Ahimsa (अहिंसा) is the principle of non-harm that runs through the Indic traditions: "the ancient Indian principle of nonviolence that applies to actions toward all living beings," and "a key virtue in Jainism, Buddhism, and Hinduism" ([Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)). The compendium reads it as a starting floor: whatever else a practice does, it begins by doing no injury.
+Ahimsa (अहिंसा) is the principle of non-harm that runs through the Indic traditions: "the ancient Indian principle of nonviolence that applies to actions toward all living beings," and "a key virtue in Jainism, Buddhism, and Hinduism" ([Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)). I read it as a starting floor: whatever else a practice does, it begins by doing no injury.
 
 ### In the primary texts
 
@@ -22,7 +22,7 @@ Jainism places it foremost among its five vows and works it out in unusual detai
 
 Gandhi extended the principle into public life. He read ahimsa as reaching past physical injury to hatred, harsh words and dishonesty, and said: "Nonviolence is common to all religions, but it has found the highest expression and application in Hinduism" (Gandhi, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
 
-### In the compendium
+### Here
 
 - [[B024 — Practice right action — non-harm]] — ahimsa as the root of right action
 - [[B144 — Harm none — the baseline of practice (ahimsa)]] — the vow stated plainly

@@ -19,9 +19,9 @@ The systems are defined from the inside out. The microsystem is "a pattern of ac
 
 In the later bioecological version, Bronfenbrenner and Morris describe proximal processes as the "primary engines of development": "human development takes place through processes of progressively more complex reciprocal interaction between an active, evolving biopsychological human organism and the persons, objects, and symbols in its immediate external environment", effective when the interaction occurs "on a fairly regular basis over extended periods of time"; these "enduring forms of interaction in the immediate environment are referred to as proximal processes" ([Bronfenbrenner and Morris, ch. 14](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)). Proposition II states that proximal processes vary with the developing person's characteristics, immediate and more remote environments, the developmental outcomes considered, and social continuities and changes across the life course and historical period ([Bronfenbrenner and Morris, ch. 14](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)).
 
-The compendium uses the nesting as a lens for practice: the individual's work is done in proximal processes, inside settings that are inside structures the person does not choose. The parallels below pair the theory with the compendium's own embeddedness kernels.
+I use the nesting as a lens for practice: the individual's work is done in proximal processes, inside settings that are inside structures the person does not choose. The parallels below pair the theory with my own embeddedness kernels.
 
-### In the compendium
+### Here
 
 - [[SO002 — Treat the person as embedded in nested systems]] — the principle version of the theory
 - [[R116 — Practise ecological embeddedness]] — the practice counterpart

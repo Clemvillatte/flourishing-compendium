@@ -15,9 +15,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The instrument, in Bacon's diagnosis, arrives bent. Book I, Aphorisms 39-68 catalogue the bends as "idols" in four classes, "calling the first idols of the tribe; the second idols of the den; the third idols of the market; the fourth idols of the theatre" ([Hanover text, Aphorism XXXIX](https://history.hanover.edu/courses/excerpts/111bac2.html)). Of the first class Bacon writes that "the human mind resembles those uneven mirrors, which impart their own properties to different objects, from which rays are emitted, and distort and disfigure them" ([Aphorism XLI](https://history.hanover.edu/texts/bacon/novorg.html)). The remedy, in his summary: "The formation of notions and axioms on the foundation of true induction, is the only fitting remedy, by which we can ward off and expel these idols" ([Aphorism XL](https://history.hanover.edu/courses/excerpts/111bac2.html)). Aphorism LXVIII closes the catalogue with a call for the idols to be abjured and renounced and the understanding "completely freed and cleared of them."
 
-### In the compendium
+### Here
 
-- [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] — the compendium pairs the doctrine with the experimental finding that anxious and depressed minds measurably distort what they notice
+- [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] — I pair the doctrine with the experimental finding that anxious and depressed minds measurably distort what they notice
 - [[AT070 — Recognise anxiety's effect on attention — threat capture]] — the same pairing, for one named distortion
 
 ## Related concepts

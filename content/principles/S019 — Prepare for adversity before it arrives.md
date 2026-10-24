@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 141** — Prepare for adversity before it arrives
 
-In Letter 18, Seneca proposes spending a chosen number of days with inexpensive food and rough clothing, asking whether this is the condition one feared. He compares preparation during easier times with soldiers training during peace. The compendium extends this preparedness theme to considering a possible disruption in advance.
+In Letter 18, Seneca proposes spending a chosen number of days with inexpensive food and rough clothing, asking whether this is the condition one feared. He compares preparation during easier times with soldiers training during peace. I extend this preparedness theme to considering a possible disruption in advance.
 
 > "If you would not have a man flinch when the crisis comes, train him before it comes." (Seneca, Letters 18.6, Gummere translation, [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18))
 
@@ -21,7 +21,7 @@ The letter's instruction is to set aside days content with the scantiest and che
 (Seneca, Letters 18, 24, 107; Med. III.1, VI.34; Disc. I.14, III.26.)
 
 **Plain words**
-For the compendium's planning exercise, choose one specific disruption and write down what you could do if it occurred. Notice which parts you have considered and which remain uncertain. Revisit the plan without expecting it to remove fear or grief.
+For my planning exercise, choose one specific disruption and write down what you could do if it occurred. Notice which parts you have considered and which remain uncertain. Revisit the plan without expecting it to remove fear or grief.
 
 *For example:* Imagine a train cancellation on the way to an appointment. Before travelling, you note an alternative route and whom to tell if you are delayed.
 

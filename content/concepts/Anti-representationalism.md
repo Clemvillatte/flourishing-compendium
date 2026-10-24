@@ -19,7 +19,7 @@ The book's constructive claim, from Sellars and Quine, is that justification is 
 
 ### The vocabulary choice
 
-The position connects directly to the compendium's principle on choosing vocabularies by what they let you do. Rorty's later formulation is the anti-representationalist's answer to the question of what language is for: there is "no fixed task for language to perform," and the choice between vocabularies is made by their consequences rather than by their correspondence to an independent structure ([Koop, "Rorty's Linguistic Turn," PhilArchive](https://philarchive.org/archive/KOORLT)). The mirror picture and the tool picture give the same sentences different jobs; the anti-representationalist says the tool picture is the one worth having.
+The position connects directly to my principle on choosing vocabularies by what they let you do. Rorty's later formulation is the anti-representationalist's answer to the question of what language is for: there is "no fixed task for language to perform," and the choice between vocabularies is made by their consequences rather than by their correspondence to an independent structure ([Koop, "Rorty's Linguistic Turn," PhilArchive](https://philarchive.org/archive/KOORLT)). The mirror picture and the tool picture give the same sentences different jobs; the anti-representationalist says the tool picture is the one worth having.
 
 ## Related concepts
 

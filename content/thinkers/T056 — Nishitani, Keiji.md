@@ -36,7 +36,7 @@ Nihility is not to be avoided but traversed: the ego's groundlessness, seen full
 - **Interpenetration** — all things linked, nothing without relationship ([Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani)). See [[K018 — Take interpenetration literally|Take interpenetration literally]], [[Things thinging]].
 - **The return to the ordinary** — the completion of the passage in everyday things ([Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani)). See [[K023 — Practice the return to the ordinary as the completion|Practice the return to the ordinary as the completion]], [[K015 — Let things be what they are, on their own bottom|Let things be what they are, on their own bottom]].
 
-## Everything connected in the wiki — the Kyoto School tradition
+## Everything connected here — the Kyoto School tradition
 
 Kept to the pages that carry or substantively apply Nishitani's work: nihility, groundlessness, emptiness and the return to the ordinary.
 

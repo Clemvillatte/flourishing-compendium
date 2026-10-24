@@ -7,7 +7,7 @@ file: "The tripartite soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The tripartite soul is Plato's division of the soul into three elements: reason, spirit, and appetite. The original entry names the Republic, book IV; the compendium also carries the same material under the heading "the divided soul", which points to the same book.
+The tripartite soul is Plato's division of the soul into three elements: reason, spirit, and appetite. The original entry names the Republic, book IV; I also carry the same material under the heading "the divided soul", which points to the same book.
 
 ### Plato's ground
 
@@ -25,7 +25,7 @@ And when appetite overpowers reason, the third element takes sides:
 
 The conclusion is put as a question the dialogue then answers: "we have alighted upon an easy question—whether the soul has these three principles or not?" (book IV, same translation), and the individual is assumed to have "the same three principles in his own soul which are found in the State".
 
-### In the compendium
+### Here
 
 - [[AT002 — Know that attention has three networks — alerting, orienting, and executive control]] — the modern three-part division of attention
 - [[A056 — Recognise akrasia — weakness of will]] — the case of reason overpowered, named in Aristotle

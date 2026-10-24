@@ -19,7 +19,7 @@ At the moment of exposure, subjects discounted material from sources they judged
 
 The same review found that recipients of discounting cues were more persuaded over time when the message arguments and the cue had a strong initial impact. The size of the delayed swing depends on the reader: the increase in persuasion was stronger when recipients had higher ability or motivation to think about the message and received the discounting cue after the message ([Kumkale & Albarracín, 2004, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3100161/)).
 
-### In the compendium
+### Here
 
 - [[A121 — Practise persuasion through ethos]] lists this research as its psychology parallel to Aristotle's ethos: the speaker's perceived trustworthiness is part of how persuasion works.
 

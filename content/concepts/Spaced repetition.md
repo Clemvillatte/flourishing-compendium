@@ -19,7 +19,7 @@ In the review's verbal-recall studies, "The average observed benefit from distri
 
 Illustrative example, not a reported study or recommended schedule: a learner reviews the same material in several separated sessions instead of completing all review in one sitting.
 
-### In the compendium
+### Here
 
 - [[CO056 — Use memory deliberately — encoding and retrieval matter]]
 - [[BE035 — Learn to persist in approach — repetition strengthens learning]]

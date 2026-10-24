@@ -17,7 +17,7 @@ The Oak School experiment: teachers were told that certain randomly chosen pupil
 
 The book's own caveat: "For the basic year of the experiment, the self-fulfilling prophecy was in evidence primarily at the lower grade levels; it is difficult to be certain why that was the case."
 
-### In the compendium
+### Here
 
 - [[D116 — Trust to be trusted]] — lists the concept among its psychology parallels.
 

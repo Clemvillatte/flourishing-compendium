@@ -18,7 +18,7 @@ Hong and colleagues studied how culture operates inside a person who carries mor
 
 (Hong, Morris, Chiu, & Benet-Martínez, 2000, American Psychologist 55(7), 709-720, Abstract, [published abstract, CUHK research repository](https://research.cuhk.edu.hk/en/publications/multiculrtiral-minds-a-dynamic-constructivist-approach-to-culture-2/).)
 
-The abstract concerns switching between cultural frames in people who have already internalized two cultures; it does not test training in cultural fluency. The compendium proposes a separate exercise: observe how requests and feedback are expressed in a setting, then choose whether and how to adjust your communication.
+The abstract concerns switching between cultural frames in people who have already internalized two cultures; it does not test training in cultural fluency. I propose a separate exercise: observe how requests and feedback are expressed in a setting, then choose whether and how to adjust your communication.
 
 **Plain words** Notice which room you are in and which style it runs on — direct or indirect, formal or easygoing. Notice how people make requests, disagree and give feedback. Decide what you want to adapt and what you want to keep, then reflect on the exchange.
 

@@ -20,7 +20,7 @@ Thanissaro's note describes disputed interpretations and offers a practical read
 
 ### Plain words
 
-The compendium suggests avoiding the conclusion that an angry or confused state tells you everything you can ever become. Ask what you can do about the state and its consequences now. You can take responsibility for an action without deciding that the feeling behind it is your permanent identity.
+I suggest avoiding the conclusion that an angry or confused state tells you everything you can ever become. Ask what you can do about the state and its consequences now. You can take responsibility for an action without deciding that the feeling behind it is your permanent identity.
 
 ### For example
 

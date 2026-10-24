@@ -27,7 +27,7 @@ The two components have names the framework gives them:
 
 Their integrative review proposes an organizational framework and possible psychological and neurobiological mechanisms for these experiences ([Yaden et al., 2017](https://journals.sagepub.com/doi/10.1037/gpr0000102)). The authors identify further empirical research as needed to develop the account ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
-The framework's value for the compendium's essays is that it groups states the traditions usually treat separately. Awe in nature, flow in craft, love in relationship, and mystical experience in prayer all show the same two components from different angles: the self-salience drops, the connectedness rises. That grouping is what makes the framework a research programme rather than a single theory — it names the common structure across states that differ in their elicitors, their duration, and their after-effects.
+The framework's value for my essays is that it groups states the traditions usually treat separately. Awe in nature, flow in craft, love in relationship, and mystical experience in prayer all show the same two components from different angles: the self-salience drops, the connectedness rises. That grouping is what makes the framework a research programme rather than a single theory — it names the common structure across states that differ in their elicitors, their duration, and their after-effects.
 
 ## Related concepts
 

@@ -17,11 +17,11 @@ Two sentences nearby carry the positive claim about what such a self is like:
 
 > "What is focal and objectified in an interdependent self, then, is not the inner self, but the relationships of the person to other actors." (Markus and Kitayama 1991, p. 230)
 
-The article's own abstract opens with the comparative claim: "People in different cultures have strikingly different construals of the self, of others, and of the interdependence of the 2." The authors describe the Western bounded self as simply not an adequate description of selfhood for many cultures of the world. The article's consequences section adds a structural point that the compendium takes seriously: in the interdependent view, relationships are often ends in themselves rather than means to individual goals, so what a person is doing cannot always be read as goal-directed from the individual side. The same notion, they note, has been variously called sociocentric, holistic, collective, allocentric, contextualist, connected and relational, a list that explains why so many traditions meet at this one idea.
+The article's own abstract opens with the comparative claim: "People in different cultures have strikingly different construals of the self, of others, and of the interdependence of the 2." The authors describe the Western bounded self as simply not an adequate description of selfhood for many cultures of the world. The article's consequences section adds a structural point that I take seriously: in the interdependent view, relationships are often ends in themselves rather than means to individual goals, so what a person is doing cannot always be read as goal-directed from the individual side. The same notion, they note, has been variously called sociocentric, holistic, collective, allocentric, contextualist, connected and relational, a list that explains why so many traditions meet at this one idea.
 
 **Plain words** In some ways of being a person, the unit is not just you: it is you-among-these-particular-people. Your thoughts about what you are doing are partly made of other people's expected thoughts, and the self is more complete in the right relationship than it is standing alone.
 
-### In the compendium
+### Here
 
 - [[P003 — Relation is primary]]: the principle that reads the research as evidence for the primacy of relation
 

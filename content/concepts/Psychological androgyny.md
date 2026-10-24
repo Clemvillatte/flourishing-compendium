@@ -15,7 +15,7 @@ Bem's move was measurement first. If masculinity and femininity are two independ
 >
 > "The major findings of conceptual interest are: (a) the dimensions of masculinity and femininity are empirically as well as logically independent; (b) the concept of psychological androgyny is a reliable one; and (c) highly sex-typed scores do not reflect a general tendency to respond in a socially desirable direction, but rather a specific tendency to describe oneself in accordance with sex-typed standards of desirable behavior for men and women." (Bem 1974, abstract, [PDF](https://www.bibb.de/dokumente/pdf/AB26_WBT3_Vertiefung_Bem-1974.pdf))
 
-### In the compendium
+### Here
 
 - [[D051 — Know the masculine, keep to the feminine]] — lists the concept among its psychology parallels.
 

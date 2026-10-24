@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 57** — Know that akrasia is not invincible
 
-In Book VII, Aristotle distinguishes the unrestrained person from the profligate and describes the former as capable of reform. ([Nicomachean Ethics VII.8, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=7)) The compendium uses this contrast to resist treating every lapse as final.
+In Book VII, Aristotle distinguishes the unrestrained person from the profligate and describes the former as capable of reform. ([Nicomachean Ethics VII.8, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=7)) I use this contrast to resist treating every lapse as final.
 
 (NE VII.3, VII.8-10.)
 

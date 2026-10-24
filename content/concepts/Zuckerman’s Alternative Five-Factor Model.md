@@ -19,7 +19,7 @@ When Zuckerman and his colleagues factor-analyzed personality questionnaires wit
 
 The model's contrast with the Big Five is its center of gravity. Where the Big Five is organized around social dispositions like agreeableness, the Alternative Five is organized around a biologically motivated approach dimension: impulsive sensation seeking is the model's leading factor, the one Zuckerman spent his career tying to enzymes, hormones and cortical arousal. The claim behind the model is that a personality taxonomy should be grounded in psychobiology rather than in the lexical clusters of ordinary language.
 
-The compendium's application: the model is a reminder that trait vocabularies are instruments with histories and biological commitments, not neutral mirrors of human nature, and that the adventurer's profile has a measurable structure.
+My application: the model is a reminder that trait vocabularies are instruments with histories and biological commitments, not neutral mirrors of human nature, and that the adventurer's profile has a measurable structure.
 
 ## Field
 

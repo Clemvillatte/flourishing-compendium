@@ -10,11 +10,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K387** — Carry the thought on paper
 
-Carry the thought on paper is a self-led acceptance exercise the compendium attributes to David F. Tolin's Doing CBT (2nd ed., 2024), chapter 15, "Leaving Thoughts Alone" ([publisher's contents page](https://www.guilford.com/books/Doing-CBT/David-Tolin/9781462554126/contents)). You write down a negative recurring thought, fold the paper, and keep it in your pocket for the rest of the day. The slip stands in for the thought: something you can notice, touch, and carry while the day goes on. You reach for this when a thought keeps returning and the pull is to argue with it or push it away.
+Carry the thought on paper is a self-led acceptance exercise I attribute to David F. Tolin's Doing CBT (2nd ed., 2024), chapter 15, "Leaving Thoughts Alone" ([publisher's contents page](https://www.guilford.com/books/Doing-CBT/David-Tolin/9781462554126/contents)). You write down a negative recurring thought, fold the paper, and keep it in your pocket for the rest of the day. The slip stands in for the thought: something you can notice, touch, and carry while the day goes on. You reach for this when a thought keeps returning and the pull is to argue with it or push it away.
 
 ### Protocol
 
-The exercise passage attributed to the book's printed pp. 401-402 has not yet been verified; the steps below are the compendium's adaptation, and the example thought is illustrative.
+The exercise passage attributed to the book's printed pp. 401-402 has not yet been verified; the steps below are my adaptation, and the example thought is illustrative.
 
 1. Write the recurring negative thought on a slip of paper, word for word as it shows up (an illustrative example: "I'm going to fail miserably").
 2. Fold the paper and put it in your pocket. Carry it with you for the rest of the day.

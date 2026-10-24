@@ -19,9 +19,9 @@ That is the contrast the concept label marks. The path does not train intention 
 
 ### What it is not
 
-Right action is not a rule that replaces judgment about intention, and the sutta does not present it as a stand-alone code. In the same sutta the Buddha lists the eight factors in order: "Right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration", so conduct is one factor among eight that are developed together (SN 45.8, Thanissaro translation, [Access to Insight](http://www.dhammatalks.net/accesstoinsight/html/tipitaka/sn/sn45/sn45.008.than.html)). The compendium's label, "action over intention", is its own shorthand for the fact that conduct has a factor of its own, and it is not a Buddhist teaching that intention does not matter.
+Right action is not a rule that replaces judgment about intention, and the sutta does not present it as a stand-alone code. In the same sutta the Buddha lists the eight factors in order: "Right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration", so conduct is one factor among eight that are developed together (SN 45.8, Thanissaro translation, [Access to Insight](http://www.dhammatalks.net/accesstoinsight/html/tipitaka/sn/sn45/sn45.008.than.html)). My label, "action over intention", is its own shorthand for the fact that conduct has a factor of its own, and it is not a Buddhist teaching that intention does not matter.
 
-### In the compendium
+### Here
 
 - [[B022 — Set right intention]]
 - [[B089 — Intervene at intention]]

@@ -29,9 +29,9 @@ and that before this event the soul seemed bound to its place. He asks "What bin
 
 ### Limits
 
-The preface is a later, retrospective piece in Nietzsche's own voice, and is not a definition of the free spirit within the aphorisms of the book. The compendium's practices of detachment and wandering (D078, B125) are drawn from other traditions, and Nietzsche's passage does not discuss them. Whether liberation of this kind is available to most people, or desirable, is not addressed by the sources opened.
+The preface is a later, retrospective piece in Nietzsche's own voice, and is not a definition of the free spirit within the aphorisms of the book. My practices of detachment and wandering (D078, B125) are drawn from other traditions, and Nietzsche's passage does not discuss them. Whether liberation of this kind is available to most people, or desirable, is not addressed by the sources opened.
 
-### In the compendium
+### Here
 
 - [[D078 — Wander free and easy (xiaoyao you)]] and [[B125 — Dwell nowhere (non-abiding)]] cite this concept in the philosophy parallels.
 - [[SP026 — Study the drunkard, and keep your seat]], [[SP096 — Hold the whole as the daily measure]] and [[D018 — Give things time]] cite it as well.

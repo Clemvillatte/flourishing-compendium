@@ -23,7 +23,7 @@ The passage is quoted here from Shields, who gives pp. 3-4 of the Yale translati
 
 **Plain words** An experience need not begin as a person observing a separate thing. Nishida also includes thinking and judging while they happen, so his account reaches beyond moments when you stop naming what you notice. The principle's point is that the report's division into "someone seeing" and "a thing seen" is not the whole of the experience it reports.
 
-*For example:* Imagine listening to a piece of music without naming the instrument or forming a view about the performance, and noticing how the experience feels when nothing is being said about it. The compendium's exercise is to try attending to a sound this way for ten seconds.
+*For example:* Imagine listening to a piece of music without naming the instrument or forming a view about the performance, and noticing how the experience feels when nothing is being said about it. My exercise is to try attending to a sound this way for ten seconds.
 
 ## Psychology parallels
 

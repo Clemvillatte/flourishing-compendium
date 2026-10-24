@@ -22,9 +22,9 @@ Nicomachean Ethics III.4 asks whether wish is for the good or the apparent good,
 
 De Anima III.9 mentions that some would put wish in the calculative part and desire and passion in the irrational, while Aristotle argues against breaking up the desiring faculty into separate parts of the soul ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)). Book III.10 then says that movement according to calculation also involves wish, while appetite can produce movement contrary to calculation, since wish is a form of desire ([De Anima III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm)). The Lockwood review identifies a difficulty with treating wish as invariably deliberative: it includes hopes and idle wishes that appear to lack a deliberative basis ([Lockwood, review of Pearson](https://bmcr.brynmawr.edu/2013/2013.09.24)).
 
-### In the compendium
+### Here
 
-A007 "Let reason (logos) guide desire (orexis)" carries the pairing: desire trained to follow reason, not extinguished, citing NE I.13, III.12 and De Anima III.7-10. MO001 "Understand that motivation is a system, not a feeling" is the compendium's psychological cousin: motivation as a system of needs, values, goals and habits rather than a single feeling.
+A007 "Let reason (logos) guide desire (orexis)" carries the pairing: desire trained to follow reason, not extinguished, citing NE I.13, III.12 and De Anima III.7-10. MO001 "Understand that motivation is a system, not a feeling" is my psychological cousin: motivation as a system of needs, values, goals and habits rather than a single feeling.
 
 ## Related concepts
 

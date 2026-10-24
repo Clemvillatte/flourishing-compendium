@@ -17,7 +17,7 @@ The paper quotes Gopnik's own formulations, which carry the theory's flavor:
 
 On this account, a child's understanding of the physical and mental world is a sequence of theories, each with concepts, explanations and predictions, each revised when evidence resists it. Development is intellectual history in miniature: the infant's first "theory" of objects gives way to a theory that accommodates hidden displacement, and later to a representational theory of mind.
 
-The critics' caution belongs on the page too: Stich and Nichols argue the hypothesis is untenable because it "neglects the many important ways that human minds are designed to operate within a social environment," including the transmission of norms. The compendium's application of the theory is thus framed as: hold frameworks lightly because they were built by a child's evidence, and may be rebuilt by an adult's.
+The critics' caution belongs on the page too: Stich and Nichols argue the hypothesis is untenable because it "neglects the many important ways that human minds are designed to operate within a social environment," including the transmission of norms. My application of the theory is thus framed as: hold frameworks lightly because they were built by a child's evidence, and may be rebuilt by an adult's.
 
 ## Field
 

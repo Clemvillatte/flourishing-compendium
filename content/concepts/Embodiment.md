@@ -21,7 +21,7 @@ Schneider, a brain-damaged patient studied by Adhémar Gelb and Kurt Goldstein, 
 
 The damaged arc shows what the intact one does: embodiment situates a life. Merleau-Ponty's own summary image: "One's own body is in the world just as the heart is in the organism" ([PP: 245/209, quoted in Toadvine, ibid.](https://plato.stanford.edu/entries/merleau-ponty/)).
 
-### In the compendium
+### Here
 
 - [[E020 — Practise embodiment as condition of possibility]] — the principle that turns this concept into practice
 - [[E013 — Practise the lived body (Leib)]] — the lived body as a practice

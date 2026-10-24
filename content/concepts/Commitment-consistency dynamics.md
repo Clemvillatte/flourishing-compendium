@@ -17,7 +17,7 @@ The same paper's conclusion gives the individual-difference reading:
 
 > "The authors conclude that high- and low-PFC individuals are likely to become more or less consistent with an action (respectively) when focused on the personal implications of that action." (Guadagno, Asher, Demaine & Cialdini, 2001, [Personality and Social Psychology Bulletin](https://journals.sagepub.com/doi/10.1177/0146167201277008))
 
-### In the compendium
+### Here
 
 - [[D121 — Make modest promises]] — the principle takes the commitment-consistency finding as a reason to keep promises small.
 - [[D189 — Let your yes be small and your no rare]] — the principle on the size of yes and no, against which the commitment-consistency research supplies the empirical contrast.
@@ -25,7 +25,7 @@ The same paper's conclusion gives the individual-difference reading:
 ## Related concepts
 
 - [[Balance theory]] — the theory of how cognitive elements balance, against which the consistency principle supplies the motivational reading.
-- [[Integrity as consistency]] — the compendium's pairing for the consistency-as-virtue reading.
+- [[Integrity as consistency]] — my pairing for the consistency-as-virtue reading.
 
 ## Sources
 

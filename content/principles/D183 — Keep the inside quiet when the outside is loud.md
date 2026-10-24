@@ -18,7 +18,7 @@ Daodejing 26 connects stillness with movement and gravity with lightness. Its ex
 
 (Daodejing 26, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-The compendium applies this image to keeping some steadiness while taking part in a busy situation. The source's baggage-waggon image is not a jar of still water. Nor does it establish that a person should be able to remain calm under every condition.
+I applie this image to keeping some steadiness while taking part in a busy situation. The source's baggage-waggon image is not a jar of still water. Nor does it establish that a person should be able to remain calm under every condition.
 
 **Plain words** When things become hurried, ask what needs your attention next. You can feel unsettled and still take time to choose a response; needing a quieter place is not a failure.
 

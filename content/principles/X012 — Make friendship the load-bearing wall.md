@@ -42,7 +42,7 @@ Optional application (Motivation; Overt behaviour): invite a friend to an unhurr
 
 ## Related concepts
 
-- [[Friendship]]: compare the compendium's wider account with this page's emphasis on confidence in help.
+- [[Friendship]]: compare my wider account with this page's emphasis on confidence in help.
 - [[Aristotelian friendship]]: another way to examine whether a relationship matters for its own sake or for what it provides.
 - [[Ataraxia]]: a route into the broader Epicurean concern with security and a less troubled life.
 

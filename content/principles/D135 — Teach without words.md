@@ -18,7 +18,7 @@ Chapter 2 of the Daodejing states the principle in one line, and chapter 43 give
 
 Chapter 43 adds: "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice. I know hereby what advantage belongs to doing nothing (with a purpose). There are few in the world who attain to the teaching without words, and the advantage arising from non-action." ([Daodejing 43.1-2](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-Legge's last sentence calls the teaching without words rare. The compendium's reading is that example reaches where instruction cannot, because people can argue with a lecture and have nothing to argue with in a way of living.
+Legge's last sentence calls the teaching without words rare. My reading is that example reaches where instruction cannot, because people can argue with a lecture and have nothing to argue with in a way of living.
 
 (Daodejing 2.3 and 43.1-2, trans. Legge.)
 

@@ -20,13 +20,13 @@ James's pluralism makes the small connective words do the philosophical work: "C
 
 His example is an Athenian boy, found self-contradictory because he could be "both tall and short (tall namely in respect of a child, short in respect of a man)". The contradiction dissolves once the respects are named; "Naming the disjunction doesn't debar us from also naming the conjunction in a later modifying statement". Radical empiricism "insists that conjunctions between them are just as immediately given as disjunctions are" (Lecture VII): the "and" is as real as the "or".
 
-The compendium uses this distinction to ask whether apparent alternatives are incompatible or could hold in different respects.
+I use this distinction to ask whether apparent alternatives are incompatible or could hold in different respects.
 
 **Plain words**
-The Athenian boy was tall and short at once; the question "is he tall?" was badly drafted until it said tall for what. For the compendium's exercise, take one current either/or, write each side's respect underneath it, and check whether both alternatives can hold in their different respects.
+The Athenian boy was tall and short at once; the question "is he tall?" was badly drafted until it said tall for what. For my exercise, take one current either/or, write each side's respect underneath it, and check whether both alternatives can hold in their different respects.
 
 *For example:*
-Consider "do I take the stable job or follow my passion?". A both-and draft names the respects: the stable job funds the pottery studio, and the studio makes the job livable. On the compendium's reading the original question was not answered but redrafted.
+Consider "do I take the stable job or follow my passion?". A both-and draft names the respects: the stable job funds the pottery studio, and the studio makes the job livable. On my reading the original question was not answered but redrafted.
 
 ## Sources
 

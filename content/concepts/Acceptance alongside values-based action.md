@@ -7,7 +7,7 @@ file: "Acceptance alongside values-based action"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Acceptance and committed action are two components of Acceptance and Commitment Therapy's six-process model, alongside defusion, contact with the present moment, self-as-context and values. The page title is the compendium's phrasing of the pairing; ACT's own terms are acceptance and committed action. In the model's first presentation, Hayes and colleagues defined the six components as interlinked rather than sequential.
+Acceptance and committed action are two components of Acceptance and Commitment Therapy's six-process model, alongside defusion, contact with the present moment, self-as-context and values. The page title is my phrasing of the pairing; ACT's own terms are acceptance and committed action. In the model's first presentation, Hayes and colleagues defined the six components as interlinked rather than sequential.
 
 > "The approach combines processes of acceptance and mindfulness with those of commitment and behavioural change to produce increased psychological flexibility and an expanded behavioural repertoire." (Webster, [Introduction to acceptance and commitment therapy](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5), Advances in Psychiatric Treatment 17(4), 2011, Summary)
 
@@ -15,7 +15,7 @@ Acceptance and committed action are two components of Acceptance and Commitment 
 
 Acceptance involves attending to thoughts, feelings and bodily sensations without judging them. Webster describes letting go of attempts to control unwanted inner experience while continuing to address external problems that can be changed. Committed action means pursuing personally valued directions while difficult thoughts and feelings remain present. Read together, the two components divide the work: acceptance addresses unwanted inner experience, committed action addresses what the person can still do. The article presents psychological flexibility, the increased ability to adapt, as the main aim of ACT, and notes that evidence on efficacy was, at the time of writing, promising but still debated in reviews.
 
-### In the compendium
+### Here
 
 - [[Y005 — Practice steadiness and let go of grip together]] — the Yoga pairing of abhyasa and vairagya, with the ACT model cited as a comparison rather than trial evidence
 - [[AF040 — Distinguish accepting a feeling from accepting a circumstance]] — separates accepting a feeling from approving of the situation, a barrier the acceptance component addresses

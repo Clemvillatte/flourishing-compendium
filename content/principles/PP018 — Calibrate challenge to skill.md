@@ -16,7 +16,7 @@ Flow theory's central condition is a match between perceived action capacities a
 
 > "The balance is fragile. If challenges exceed skills, one first becomes vigilant and then anxious; if skills exceed challenges, one first relaxes and eventually becomes bored." (Nakamura & Csikszentmihalyi, [Oxford Academic](https://academic.oup.com/edited-volume/34277/chapter/290616851))
 
-The compendium applies the fragility to growth: the two failure states are both information, and the adjustment between them is the practice.
+I applie the fragility to growth: the two failure states are both information, and the adjustment between them is the practice.
 
 **Plain words**
 In the flow model, boredom and anxiety are the two signals of the same misalignment. Boredom means the task is under-using you; anxiety means it is over-matching you. The move in both cases, within the model, is the same kind: change the challenge or change the skill until the two are close. The match is fragile, so expect to keep making it.

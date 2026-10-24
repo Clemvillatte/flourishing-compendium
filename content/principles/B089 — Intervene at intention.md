@@ -16,7 +16,7 @@ SN 12.38 locates the leverage point directly: what one intends, arranges and obs
 
 > "What one intends, what one arranges, and what one obsesses about: This is a support for the stationing of consciousness." (SN 12.38, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.038.than.html))
 
-The Dhammapada's opening pair gives the same priority from the other side: mind precedes all mental states, and they are all mind-wrought. In the compendium's reading, the intervention point is upstream of the act: the act follows the mind that issued it. (Dhammapada 1-2.)
+The Dhammapada's opening pair gives the same priority from the other side: mind precedes all mental states, and they are all mind-wrought. In my reading, the intervention point is upstream of the act: the act follows the mind that issued it. (Dhammapada 1-2.)
 
 > "If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox." (Dhammapada 1, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 

@@ -16,7 +16,7 @@ Book II of the Liezi describes a sailor who swam among sea-gulls every morning. 
 
 > "On the following day, the sailor went down to the sea as usual, but lo! the gulls only wheeled about in the air and would not alight." (Liezi 2, [Giles](https://sacred-texts.com/tao/tt/tt05.htm))
 
-The father's request introduces a wish to capture the birds into an encounter the sailor had enjoyed. The compendium reads this change as a prompt to examine our purposes in approaching others, especially when we want something they have not been told about.
+The father's request introduces a wish to capture the birds into an encounter the sailor had enjoyed. I read this change as a prompt to examine our purposes in approaching others, especially when we want something they have not been told about.
 
 **Plain words**
 If you want someone's help, give them enough information to decide whether to offer it. Ask plainly and leave them room to decline. Before arranging a meeting, consider which parts of your purpose would matter to the other person's decision to take part.

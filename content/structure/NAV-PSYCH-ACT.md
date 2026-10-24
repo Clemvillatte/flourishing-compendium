@@ -10,7 +10,7 @@ navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY"], "alternat
 ---
 > **Acceptance and Commitment Therapy (ACT)** — an approach within the Psychology track.
 
-ACT is the most represented single source of kernels in the Compendium. The books audited this round — Stoddard & Afari's *Big Book of ACT Metaphors*, Blackledge's *Cognitive Defusion in Practice*, Moran, Bach & Batten's *Committed Action in Practice*, Blonna's coaching text, Polk, Schoendorff, Webster & Olaz's *ACT Matrix* guide, and Törneke's *Learning RFT* — were used to check coverage and mint the kernels that were genuinely missing. The kernels below are grouped by ACT process:
+ACT is the most represented single source of kernels here. The books audited this round — Stoddard & Afari's *Big Book of ACT Metaphors*, Blackledge's *Cognitive Defusion in Practice*, Moran, Bach & Batten's *Committed Action in Practice*, Blonna's coaching text, Polk, Schoendorff, Webster & Olaz's *ACT Matrix* guide, and Törneke's *Learning RFT* — were used to check coverage and mint the kernels that were genuinely missing. The kernels below are grouped by ACT process:
 
 - **Present-moment awareness** — [[K100 — Breath anchoring]], [[K101 — Open monitoring]], [[K107 — Soft fascination]]
 - **Acceptance and willingness** — [[K115 — Willingness practice]], [[K121 — Dropping the struggle]], [[K386 — Try not to think of elephants]]

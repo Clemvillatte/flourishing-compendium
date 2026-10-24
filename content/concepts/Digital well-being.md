@@ -17,7 +17,7 @@ Within this field, the Verduyn review's distinction separates two ways of using 
 
 > "Researchers hypothesize that passive use elicits ill-being through instigating feelings of envy and social comparison while active social media use elicits feedback and social connection, subsequently increasing well-being (Verduyn et al., 2017)." (Calvin, Chen and Selkie, 2025)
 
-### In the compendium
+### Here
 
 - [[SO060 — Design digital environments for flourishing]] — the design lever
 - [[SO076 — Treat digital and technological change as a designable environment]] — environments as designable, not fixed

@@ -18,7 +18,7 @@ In the *Nicomachean Ethics* it is not pleasure, not contentment, not a feeling a
 
 > "For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." (*Nicomachean Ethics* I.7, quoted in [Britannica, "Eudaimonia"](https://www.britannica.com/topic/eudaimonia))
 
-Because it is activity, it is acquired by practice, not by luck alone; because it spans a whole life, a flourishing youth can still be overturned, the argument of *Nicomachean Ethics* I.9–11 that the compendium keeps as A008 and A010.
+Because it is activity, it is acquired by practice, not by luck alone; because it spans a whole life, a flourishing youth can still be overturned, the argument of *Nicomachean Ethics* I.9–11 that I keep as A008 and A010.
 
 ### Eudaimonia versus hedonia
 
@@ -32,7 +32,7 @@ Because eudaimonia is activity, the question "is my life going well?" is answere
 
 The quarterly hour: what did I do this quarter that expressed what I stand for? (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[A001 — Make eudaimonia the organising end of your life]] — the organising end
 - [[A006 — Expect flourishing to require external goods]] — the honest caveat

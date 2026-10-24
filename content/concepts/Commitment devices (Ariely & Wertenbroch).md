@@ -13,7 +13,7 @@ A commitment device is a way of binding your future self: you arrange, in advanc
 
 ## Where it comes from
 
-The general definition: a commitment device "is a mechanism or arrangement that implements precommitment by deliberately restricting one's own future options in order to make a commitment credible" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The concept "emerged independently in the mid-1950s, when Thomas Schelling analyzed commitment as a bargaining tactic and Robert Strotz modeled how a rational agent might benefit from constraining future choices" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The compendium's original entry cites Ariely and Wertenbroch's 2002 study of deadlines as a framework reference; no specific findings from that paper are claimed below.
+The general definition: a commitment device "is a mechanism or arrangement that implements precommitment by deliberately restricting one's own future options in order to make a commitment credible" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The concept "emerged independently in the mid-1950s, when Thomas Schelling analyzed commitment as a bargaining tactic and Robert Strotz modeled how a rational agent might benefit from constraining future choices" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). My original entry cites Ariely and Wertenbroch's 2002 study of deadlines as a framework reference; no specific findings from that paper are claimed below.
 
 ## How it works
 

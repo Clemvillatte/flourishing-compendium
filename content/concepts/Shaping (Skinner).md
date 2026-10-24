@@ -13,9 +13,9 @@ Shaping is B. F. Skinner's method for building a behavior that does not yet exis
 
 ### Why the method works
 
-The chapter's worked example is a pigeon learning to strike a spot: reinforce turning toward the spot first, then a step toward it, then the head movement, then contact, each time withholding reward for the cruder form. The passage states the payoff plainly: "The original probability of the response in its final form is very low; in some cases it may even be zero. In this way we can build complicated operants which would never appear in the repertoire of the organism otherwise. By reinforcing a series of successive approximations, we bring a rare response to a very high probability in a short time." The trick is that the criterion moves only as fast as the behavior does, which is why the compendium pairs it with gradual-training principles from other traditions.
+The chapter's worked example is a pigeon learning to strike a spot: reinforce turning toward the spot first, then a step toward it, then the head movement, then contact, each time withholding reward for the cruder form. The passage states the payoff plainly: "The original probability of the response in its final form is very low; in some cases it may even be zero. In this way we can build complicated operants which would never appear in the repertoire of the organism otherwise. By reinforcing a series of successive approximations, we bring a rare response to a very high probability in a short time." The trick is that the criterion moves only as fast as the behavior does, which is why I pair it with gradual-training principles from other traditions.
 
-### In the compendium
+### Here
 
 - [[BE023 — Learn to use shaping — build complex behaviours from small components]] — the method as a practice rule
 - [[BE009 — Know that behaviour is shaped gradually — small steps build large changes]] — the gradualism the method demonstrates

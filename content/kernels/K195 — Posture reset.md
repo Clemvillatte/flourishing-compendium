@@ -14,7 +14,7 @@ At every transition between activities, stand up, roll your shoulders, feel your
 
 ### Protocol
 
-The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
+The steps are my practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. At each transition between activities, stand up, roll your shoulders, and feel your feet on the ground.
 2. Reset the posture you are about to sit in, not just the one you are leaving: the study below taped participants into their assigned posture for the session.

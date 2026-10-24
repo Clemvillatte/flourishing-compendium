@@ -15,7 +15,7 @@ Death anxiety research is the clinical-psychology study of fear of death and its
 
 The review's stated purposes are to examine the role of Terror Management Theory (TMT) and Experimental Existential Psychology in understanding death anxiety as a transdiagnostic construct, outline inventories used to evaluate the presence and severity of death anxiety, review research evidence pertaining to the assessment and treatment of death anxiety in both non-clinical and clinical populations, and discuss clinical implications and future research directions ([Iverach et al. 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/)). It concludes that death anxiety appears to be a basic fear at the core of a range of mental disorders, including hypochondriasis, panic disorder, and anxiety and depressive disorders ([Iverach et al. 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/)). The authors state that large-scale, controlled studies to determine the efficacy of well-established psychological therapies in the treatment of death anxiety as a transdiagnostic construct are warranted ([Iverach et al. 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/)).
 
-### In the compendium
+### Here
 
 - [[S103 — Recognise that the dead feel nothing]]: the Epicurean argument against fearing death
 - [[S019 — Prepare for adversity before it arrives]]: premeditation that meets the fear in advance

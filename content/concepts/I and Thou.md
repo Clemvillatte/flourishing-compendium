@@ -19,7 +19,7 @@ The claim is not that the I-It mode is evil (science, administration, and much o
 
 ### The practice of presence
 
-The concept grounds a practice of presence rather than a theory: to listen to someone without simultaneously preparing the reply, formulating them, or finishing their sentence is to treat them as a Thou for a moment. That is why the compendium pairs it with attentional presence in relationship and [[Deep listening|deep listening]], and against the framing and possessing moves that quietly convert persons into objects.
+The concept grounds a practice of presence rather than a theory: to listen to someone without simultaneously preparing the reply, formulating them, or finishing their sentence is to treat them as a Thou for a moment. That is why I pair it with attentional presence in relationship and [[Deep listening|deep listening]], and against the framing and possessing moves that quietly convert persons into objects.
 
 ### The distinction to hold
 
@@ -31,12 +31,12 @@ In the next conversation, one full minute of listening with nothing prepared: no
 
 The Confucian cousin is [[Ren]], relation rather than the isolated individual as the unit of ethics.
 
-### In the compendium
+### Here
 
 - [[AT057 — Cultivate attentional presence in relationships — attend to others]] — the presence practice
 - [[B147 — Listen deeply]] — the Buddhist form of the meeting
 - [[D082 — Don't impose your frame on others]] and [[D104 — Love without possessing]] — the objectifying moves it works against
-- [[R081 — Practise I-Thou]] — the compendium's training form
+- [[R081 — Practise I-Thou]] — my training form
 
 ## Facets
 

@@ -15,7 +15,7 @@ In the original study, 269 midlife adults and 125 college students told open-end
 
 Two cautions belong on the page. The associations are correlational, and the redemption arc is culturally freighted: McAdams himself notes that stories of agency and redemption "tend to be highly favored, at least in American society" ([McAdams 2019, First We Invented Stories](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf)).
 
-### In the compendium
+### Here
 
 The principles make the sequence a practice. SE011, CO061 and CO010 give the narrative structure of self; S058's reframing and CO060's memory reconsolidation are the mechanics that let a story be re-edited; P100 treats the past as resource rather than prison, the redemption stance toward what happened; K336 audits contamination sequences in one's own story and K229 practises narrative redemption directly; and ST262's Georges caring for Anne and ST054's Rembrandt painting his own face are the sequence told in story and self-portrait.
 

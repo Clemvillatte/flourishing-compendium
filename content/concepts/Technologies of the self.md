@@ -17,15 +17,15 @@ Technologies of the self is Foucault's term for the practices by which a person 
 
 The definition comes inside a four-part taxonomy of "technologies," each "a matrix of practical reason": technologies of production, sign systems, power, and self ([same](https://foucault.info/documents/foucault.technologiesOfSelf.en/)). The self is the fourth, and the historical arc Foucault traces in the essay runs from the Greco-Roman "care of the self" to the Christian "knowledge of the self." In his own summary of the shift: "We have inherited the tradition of Christianity which made the self the thing to be known and the hermeneutics of the self the main way to access truth" ([quoted in the Itinera analysis](https://riviste.unimi.it/index.php/itinera/article/download/27832/version/25934/23514/79075)).
 
-### Why the concept matters to the compendium
+### Why the concept matters here
 
-The compendium's principle on daily practice is a technology of the self in exactly this sense, and Foucault's late lectures give the concept a precise job description. The historical ground is the ancient *epimeleia heautou*, the care of the self, which in ancient philosophy came through a set of "spiritual exercises" (P. Hadot's term) and a *technē tou biou*, an art of life ([Andrews University thesis, "The Truthful Self"](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=3711&context=auss)). The techniques are enabling rather than coercive: they "permit individuals to effect by their own means" the transformation, which is why the compendium's practices are described as things a person does to themselves rather than things done to them.
+My principle on daily practice is a technology of the self in exactly this sense, and Foucault's late lectures give the concept a precise job description. The historical ground is the ancient *epimeleia heautou*, the care of the self, which in ancient philosophy came through a set of "spiritual exercises" (P. Hadot's term) and a *technē tou biou*, an art of life ([Andrews University thesis, "The Truthful Self"](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=3711&context=auss)). The techniques are enabling rather than coercive: they "permit individuals to effect by their own means" the transformation, which is why my practices are described as things a person does to themselves rather than things done to them.
 
 ## Related concepts
 - [[T036 — Hadot, Pierre]]: the daily-practice principle the page reads as a technology of the self.
 
 - [[Habit formation]] — the contemporary behavioral version of the same self-work
-- [[The three disciplines]] — the compendium's own triad of practices
+- [[The three disciplines]] — my own triad of practices
 - [[Self-cultivation]] — the Confucian counterpart in the same family
 
 ## Sources

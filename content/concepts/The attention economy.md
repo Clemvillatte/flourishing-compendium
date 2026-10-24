@@ -31,7 +31,7 @@ The evidence does not support a firm claim that a phone on the desk costs workin
 
 Simon's argument that information consumes attention, which the original entry's related-concept line attributes to this idea, is not covered here, and the market side of the attention economy is not covered.
 
-### In the compendium
+### Here
 
 - [[AT059 — Recognise the attention economy — your attention is the product]] and [[D147 — Guard your spirit (shen)]] cite this concept.
 - [[V1K-S03 — PART III — COVERAGE MAP]], [[SP082 — Practice seeing things under the aspect of eternity]], [[B174 — Own little]] and [[X023 — Live deliberately, and price things in life]] cite it as well.

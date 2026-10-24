@@ -16,7 +16,7 @@ The legacy "adapt to the vessel" facet is not stated in the chapter-8 passage qu
 
 The metaphor returns in Daodejing 78, where Eno's translation reads: "Nothing in the world is more weak and soft than water, yet nothing surpasses it in conquering the hard and strong – there is nothing that can compare. All know that the weak conquers the strong and the soft conquers the hard. But none are able to act on this" ([Robert Eno, Daodejing ch. 78](https://terebess.hu/english/tao/Daodejing-Eno.pdf)). The still water image appears in Zhuangzi's Outer Chapter 13 "The Way of Heaven," where Watson's translation reads: "Water that is still gives back a clear image of beard and eyebrows; reposing in the water level, it offers a measure to the great carpenter" ([Burton Watson, Zhuangzi ch. 13](https://terebess.hu/english/chuangtzu1.html)).
 
-### In the compendium
+### Here
 
 - [[D055 — Don't force]]
 - [[P191 — Joy is the felt signature of creation; distinct from pleasure]]

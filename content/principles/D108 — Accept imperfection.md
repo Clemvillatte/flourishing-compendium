@@ -24,7 +24,7 @@ Chapter 45 of the Daodejing runs a list of reversals: what is fullest seems empt
 >
 > (Daodejing 45, Legge)
 
-Legge links regarding great achievements as poor with vigour that endures. The compendium reads this as permission to acknowledge shortcomings without treating an achievement as worthless.
+Legge links regarding great achievements as poor with vigour that endures. I read this as permission to acknowledge shortcomings without treating an achievement as worthless.
 
 (DDJ 45.)
 

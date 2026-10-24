@@ -15,9 +15,9 @@ The learning happens in the connection between the two phases. "To 'learn from e
 
 Dewey's pedagogy follows: schools should let students discover that "success in something he is interested in doing depends on ability to use numbers," rather than lecturing on remote benefits ([Democracy and Education quotes](https://libquotes.com/john-dewey/works/democracy-and-education)), and "whether we permit chance environments to do the work, or whether we design environments for the purpose makes a great difference" ([Wiley, Dewey and education for democracy](https://onlinelibrary.wiley.com/doi/full/10.1111/edth.12567)).
 
-### In the compendium
+### Here
 
-The compendium treats the principle as an epistemology of practice. P042 states it directly and CO008 gives it the constructivist reading, understanding built rather than received. D072's Daoist form says learn by doing, not only by reading, and D003's wu wei supplies the non-forcing that keeps the doing honest; ST027's Mr. Miyagi turns chores into the curriculum itself; A092 finds the joy in learning that fuels the trying; A072's suzēn extends it to living together; K252's moral exemplar modelling is the doing of character; SE024 warns that the credit-and-blame distortion can corrupt the undergoing phase; and ST254's George Bailey ledger is the reflection that shows what the doing meant.
+I treat the principle as an epistemology of practice. P042 states it directly and CO008 gives it the constructivist reading, understanding built rather than received. D072's Daoist form says learn by doing, not only by reading, and D003's wu wei supplies the non-forcing that keeps the doing honest; ST027's Mr. Miyagi turns chores into the curriculum itself; A092 finds the joy in learning that fuels the trying; A072's suzēn extends it to living together; K252's moral exemplar modelling is the doing of character; SE024 warns that the credit-and-blame distortion can corrupt the undergoing phase; and ST254's George Bailey ledger is the reflection that shows what the doing meant.
 
 - [[K252 — Moral exemplar modelling]] — character learned by imitation and practice
 - [[A092 — Find joy in learning]] — the affect that fuels the trying

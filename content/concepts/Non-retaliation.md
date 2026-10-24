@@ -15,15 +15,15 @@ The rule works by re-describing the injury rather than returning it. The line ca
 
 The original entry cites Meditations VII; in this Long translation the revenge line sits in Book VI (the numbered aphorism V of that book).
 
-### In the compendium
+### Here
 
 - [[D114 — Don't contend (buzheng)]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Forgiveness]] — the compendium's page on forgiveness
-- [[Anger]] — the compendium's page on anger
-- [[Anger examined early]] — the compendium's page on examining anger early
+- [[Forgiveness]] — my page on forgiveness
+- [[Anger]] — my page on anger
+- [[Anger examined early]] — my page on examining anger early
 
 ## Sources
 

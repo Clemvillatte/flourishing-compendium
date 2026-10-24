@@ -40,9 +40,9 @@ PBT is a meta-framework: it organises rather than replaces other approaches. The
 
 The model's stance generalises beyond the clinic. Someone whose low mood, isolation, doom-scrolling and poor sleep form a mutually reinforcing cluster could be formulated as a network: the cluster is mapped, hypotheses formed about which process carries the most weight (say, attention rigidly fixed on threatening news), and a kernel targeting attentional flexibility tried, then re-measured. (Illustrative scenario, not a reported client or study result.)
 
-### In the compendium
+### Here
 
-The compendium's psychological flexibility principles carry the ACT lineage PBT grew from; the EEMM's variation-selection-retention scaffold is the standing method the compendium's operations apply to new practice-kernel writing and rewrites (not a blanket retrofit of the existing corpus).
+My psychological flexibility principles carry the ACT lineage PBT grew from; the EEMM's variation-selection-retention scaffold is the standing method my operations apply to new practice-kernel writing and rewrites (not a blanket retrofit of the existing corpus).
 
 ## Related concepts
 

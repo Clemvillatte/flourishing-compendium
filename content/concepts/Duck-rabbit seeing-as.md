@@ -21,9 +21,9 @@ The entry on Wittgenstein's aesthetics gives a musical case: "to see one thing i
 
 ### Scope
 
-The compendium's label names the duck-rabbit drawing. The two Stanford entries consulted for this page describe the aspect-seeing passages without naming that figure, so the duck-rabbit detail rests on the compendium's earlier note and has not been checked against the Investigations text here. Nothing in these sources claims that learning to shift aspects reduces suffering. Any link to practice is an inference for the reader to weigh.
+My label names the duck-rabbit drawing. The two Stanford entries consulted for this page describe the aspect-seeing passages without naming that figure, so the duck-rabbit detail rests on my earlier note and has not been checked against the Investigations text here. Nothing in these sources claims that learning to shift aspects reduces suffering. Any link to practice is an inference for the reader to weigh.
 
-### In the compendium
+### Here
 
 - [[Y018 — Label fiction as fiction]] lists this concept. The principle's text rests on Yoga Sutra 1.9 and does not cite Wittgenstein, so the link is thematic: both concern how a description shapes what is taken as given.
 

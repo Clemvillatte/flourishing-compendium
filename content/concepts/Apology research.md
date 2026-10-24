@@ -7,7 +7,7 @@ file: "Apology research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Apology research is the experimental study of what makes an apology work. The anchor study here is Lewicki, Polin, and Lount's two-experiment paper on the structure of effective apologies, presented to subjects in the context of a trust-violation scenario. Its findings give the compendium's reconciliation principles their empirical footing: apologies with more components were rated more effective, and some components carried far more weight than others.
+Apology research is the experimental study of what makes an apology work. The anchor study here is Lewicki, Polin, and Lount's two-experiment paper on the structure of effective apologies, presented to subjects in the context of a trust-violation scenario. Its findings give my reconciliation principles their empirical footing: apologies with more components were rated more effective, and some components carried far more weight than others.
 
 > "Results indicate that not all apologies are viewed equally; apologies with more components were more effective than those with fewer components, and certain components were deemed more important than others." (Lewicki, Polin & Lount 2016, abstract, [CMU library record](https://lps.library.cmu.edu/NCMR/article/id/264/))
 

@@ -33,7 +33,7 @@ The review's framing: "Although numerous studies have examined the neural mechan
 - **Behavioral activation** — re-engaging depressed patients in scheduled, graded activity. See [[Behavioral activation]], [[Activity scheduling (BA)]], [[Graded task assignment (Beck, BA)]].
 - **Differential activation**. See [[Differential Activation Hypothesis of depression]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Beck's cognitive model]]
 - [[Cognitive restructuring]]
@@ -41,7 +41,7 @@ The review's framing: "Although numerous studies have examined the neural mechan
 - [[Behavioral activation]]
 - [[Cognitive mediation of distress]]
 
-## Everything connected in the wiki — the cognitive-therapy tradition
+## Everything connected here — the cognitive-therapy tradition
 
 Kept to the pages that carry or substantively apply Beck's work — the cognitive model, distortions, restructuring, behavioral activation; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

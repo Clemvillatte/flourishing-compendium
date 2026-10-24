@@ -16,7 +16,7 @@ Whitehead built the idea into his cosmology at the level of the actual occasion,
 
 > "Accordingly I have adopted the term 'prehension,' to express the activity whereby an actual entity effects its own concretion of other things." (Whitehead, Process and Reality, Part II, ch. 1, [text](https://data.openml.dev/books/process-and-reality.pdf))
 
-Whitehead is describing actual occasions, not people, and Mead is describing the genesis of thought. Neither prescribes a personal practice. The compendium's exercise is a proposed application: when something unfamiliar is resisted, treat the resistance as information about the current structure, and ask what would have to be reorganized for the new material to be taken in.
+Whitehead is describing actual occasions, not people, and Mead is describing the genesis of thought. Neither prescribes a personal practice. My exercise is a proposed application: when something unfamiliar is resisted, treat the resistance as information about the current structure, and ask what would have to be reorganized for the new material to be taken in.
 
 ### Plain words
 

@@ -7,7 +7,7 @@ file: "Existential therapy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The compendium uses "Existential therapy" for the therapeutic tradition that works with existential themes. Schnipke and MacKay discuss death, freedom, isolation and meaning as existential themes that can arise in psychotherapy:
+I use "Existential therapy" for the therapeutic tradition that works with existential themes. Schnipke and MacKay discuss death, freedom, isolation and meaning as existential themes that can arise in psychotherapy:
 
 > "Existential issues are any concerns that arise from distress or questions about difficult subjects, such as death, meaning, freedom, and isolation, and can be a source of psychiatric concerns or simply a modifying factor." (Schnipke and MacKay 2023, abstract, [Innovations in Clinical Neuroscience](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/))
 
@@ -15,7 +15,7 @@ The compendium uses "Existential therapy" for the therapeutic tradition that wor
 
 The article presents Yalom's four existential themes: "Yalom divides the common existential issues into four core themes, which are now widely accepted by many therapists and experts in the field" (Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)). "The four themes—death, freedom, isolation, and meaning—are categories that help reframe common problems individuals encounter as givens of human existence" (Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)). The article quotes Yalom on isolation directly: "Existential isolation refers to an unbridgeable gulf between oneself and any other being. It refers, too, to an isolation even more fundamental—a separation between the individual and the world." (Yalom, quoted in Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)).
 
-### In the compendium
+### Here
 
 - [[E065 — Practise noogenic neurosis awareness]]: noogenic neurosis awareness
 - [[E093 — Practise existential communication]]: existential communication

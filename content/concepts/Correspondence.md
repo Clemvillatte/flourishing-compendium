@@ -17,9 +17,9 @@ The contrast Ingold draws is with interaction. Interaction joins finished partie
 
 The 2020 book Correspondences (Polity) gathers this as a practice of attention. As its publisher's description puts it, to correspond is "to join our lives with those of the beings, matters and elements with whom, and with which, we dwell upon the earth" ([Wiley/Polity page](https://www.wiley.com/en-us/Correspondences-p-9781509544103)).
 
-### In the compendium
+### Here
 
-- [[P090 — Participate — do with, not to]] — the compendium pairs Dewey's shared-experience standard with the same reversal: doing with, not to
+- [[P090 — Participate — do with, not to]] — I pair Dewey's shared-experience standard with the same reversal: doing with, not to
 - [[P145 — Live as a line, not an assembly]] — carries Ingold's own contrast between the growing line and the point-to-point connector
 
 ## Related concepts

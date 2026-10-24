@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 
 The Taittiriya maps the person as sheaths, each introduced with the same formula: "Different from this, which consists of the essence of food, is the other, the inner Self, which consists of breath." And again, one rung up: "Different from this, which consists of breath, is the other, the inner Self, which consists of mind." ([Taittiriya Upanishad II.2-3, Müller translation](https://archive.org/details/p2upanishads00mluoft)) The ladder continues through understanding to bliss, and the chapter's summary names the full set: "the Self which consists of food, the Self which consists of breath, the Self which consists of mind, the Self which consists of understanding, the Self which consists of bliss." ([II.5 context, Müller translation](https://archive.org/details/p2upanishads00mluoft))
 
-In the method, each sheath is examined and seen as an object of awareness rather than as the self. The compendium's application: when overwhelmed, locate the layer, is this body, energy, emotion, thought? and attend to it as object rather than as self.
+In the method, each sheath is examined and seen as an object of awareness rather than as the self. My application: when overwhelmed, locate the layer, is this body, energy, emotion, thought? and attend to it as object rather than as self.
 
 **Plain words** The old map says a person is a set of Russian dolls: a food-body, a breath-body, a mind, an understanding, a bliss. The exercise tests each doll: can it be watched? If it can be watched, it is one of the dolls, not whoever is watching.
 

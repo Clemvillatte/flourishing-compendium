@@ -18,12 +18,12 @@ Aristotle's account of practical wisdom (phronesis) gives its definition: "Pract
 >
 > (Aristotle, Nicomachean Ethics, Book VI)
 
-The scope line carries the principle: practical wisdom deliberates about "what sorts of thing conduce to the good life in general", not only about particulars such as health or strength. The compendium's reading is to cultivate that deliberation and keep the rules as its instruments.
+The scope line carries the principle: practical wisdom deliberates about "what sorts of thing conduce to the good life in general", not only about particulars such as health or strength. My reading is to cultivate that deliberation and keep the rules as its instruments.
 
 (Aristotle, Nicomachean Ethics, Book VI.)
 
 **Plain words**
-For the compendium's exercise, describe the situation, the people affected and the good you are trying to serve before applying a rule. Consider how following the rule in this case would serve that good.
+For my exercise, describe the situation, the people affected and the good you are trying to serve before applying a rule. Consider how following the rule in this case would serve that good.
 
 *For example:* Imagine deciding whether to keep a promise to help a friend when another responsibility arises. Describe both commitments before deciding what to do.
 

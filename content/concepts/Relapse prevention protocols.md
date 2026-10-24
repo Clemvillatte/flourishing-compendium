@@ -29,7 +29,7 @@ The abstinence violation effect is the model's account of how a first slip becom
 
 The overview reports mixed results. In the large Relapse Replication and Extension Project, the original taxonomy of high-risk situations had only moderate inter-rater reliability at its finest level, and its predictive validity was modest, though the authors argue the study was not a good test of it. Support was better for other parts: how people coped strongly predicted relapse, and the abstinence violation effect predicted who relapsed after a lapse. The sources cited here are about alcohol treatment; the page does not claim the findings carry over to other behaviours.
 
-### In the compendium
+### Here
 
 - [[Y068 — Expect relapse and plan the return]], [[BE078 — Build behavioural maintenance — ongoing practice and adaptation]], [[B151 — Keep the mind clear — sobriety]], [[Y011 — Prevent suffering before it arrives]] and [[AF084 — Build a personal affect-maintenance system — learn, adapt, retain]] cite this concept.
 - [[B071 — Investigate the urge]], [[Y024 — Expect latent material to surface when practice deepens]] and [[K116 — Urge surfing]] cite it as well.

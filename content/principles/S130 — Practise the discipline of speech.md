@@ -20,7 +20,7 @@ Conversation is allowed "sparingly" when the occasion calls for it, but he steer
 
 The rule covers what you say as well as how much. In Enchiridion 46: "Never call yourself a philosopher, nor talk a great deal among the unlearned about theorems, but act conformably to them. Thus, at an entertainment, don't talk how persons ought to eat, but eat as you ought." The same section gives the sheep image: "sheep don't throw up the grass to show the shepherds how much they have eaten; but, inwardly digesting their food, they outwardly produce wool and milk."
 
-The compendium's application is that speech is an act like any other, so it can be true, useful and aimed, and it is only worth doing when needed. Silence, when speaking would not help, is also an act.
+My application is that speech is an act like any other, so it can be true, useful and aimed, and it is only worth doing when needed. Silence, when speaking would not help, is also an act.
 
 (Epictetus, Enchiridion 33 and 46, trans. Elizabeth Carter, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html).)
 

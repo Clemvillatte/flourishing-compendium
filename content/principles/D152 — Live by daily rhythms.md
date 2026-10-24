@@ -20,7 +20,7 @@ Elsewhere, section 14.39 gives advice about regulating the body:
 
 > "To regulate your body and nourish your nature, moderate your sleep and rest, be appropriate in your food and drink, harmonize your happiness and anger, and make suitable your movement and stillness." (Huainanzi 14.39, Major/Queen trans.)
 
-The compendium brings the two passages together: the day has a shape, and the body's activity and rest are to be fitted to it.
+I bring the two passages together: the day has a shape, and the body's activity and rest are to be fitted to it.
 
 (Huainanzi 3, 14.)
 

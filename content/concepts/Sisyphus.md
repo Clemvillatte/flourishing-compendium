@@ -17,7 +17,7 @@ Camus's attention is fixed on the walk back down: "That hour like a breathing-sp
 
 > "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." (Camus, [The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt))
 
-### In the compendium
+### Here
 
 - [[E057 — Practise Sisyphus happy]] — carries the reading for practice: the task does not become light, but it becomes yours when you stop waiting for it to end
 

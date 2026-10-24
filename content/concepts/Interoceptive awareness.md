@@ -35,7 +35,7 @@ Twice daily, one unhurried breath spent counting the heartbeat without taking a 
 
 The ancient training is [[Yangsheng (cultivating vitality)]]; the current it reads is [[Qi]].
 
-### In the compendium
+### Here
 
 - [[AF005 — Learn to read your own body — interoception]] — the kernel
 - [[B040 — Know the body (body contemplation)]] and [[B189 — Ground in the body]] — the Buddhist body practices

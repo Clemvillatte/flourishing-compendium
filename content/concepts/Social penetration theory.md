@@ -25,7 +25,7 @@ The same article records the process factors the theory names — uncertainty re
 
 An everyday-life illustration (imagined, not a reported case): two colleagues start with shop talk — the commute, the project. Weeks in, one mentions a parent's illness and the other answers with something of her own; the exchange has moved a layer in. Where it stalls at shop talk, the relationship stays at the breadth of the workday.
 
-### In the compendium
+### Here
 
 - [[A100 — Practise reciprocity (antapodosis)]]
 - [[A063 — Recognise that friendship is necessary for flourishing]]

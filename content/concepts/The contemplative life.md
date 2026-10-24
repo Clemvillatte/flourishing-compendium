@@ -14,7 +14,7 @@ The contemplative life, in Aristotle's account in Nicomachean Ethics Book X, is 
 
 Book X chapter 8 continues: "Now if you take away from a living being action, and still more production, what is left but contemplation? Therefore the activity of God, which surpasses all others in blessedness, must be contemplative; and of human activities, therefore, that which is most akin to this must be most of the nature of happiness" ([Aristotle, NE X.8, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
-### In the compendium
+### Here
 
 - [[A090 — Recognise that the theoretical life is not for everyone]]
 - [[A095 — Practise self-sufficiency (autarkeia)]]

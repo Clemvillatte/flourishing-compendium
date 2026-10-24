@@ -7,7 +7,7 @@ file: "The rhythm of small pauses"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The rhythm of small pauses is the compendium's name for kinhin, the formal walking meditation practiced in Zen between periods of seated zazen. The form is deliberate about rhythm: it alternates stillness and motion on a schedule, roughly fifty minutes of sitting followed by ten minutes of walking, and the walking itself is paced to the breath. In the Soto tradition founded by Dogen, the instruction attributed to his teacher Ju-ching is one half-step per full breath ([Sotoshu Shumucho instructions, quoted by Terebess](https://terebess.hu/zen/szoto/etikett.html)).
+The rhythm of small pauses is my name for kinhin, the formal walking meditation practiced in Zen between periods of seated zazen. The form is deliberate about rhythm: it alternates stillness and motion on a schedule, roughly fifty minutes of sitting followed by ten minutes of walking, and the walking itself is paced to the breath. In the Soto tradition founded by Dogen, the instruction attributed to his teacher Ju-ching is one half-step per full breath ([Sotoshu Shumucho instructions, quoted by Terebess](https://terebess.hu/zen/szoto/etikett.html)).
 
 ### The form and the point
 

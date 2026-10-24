@@ -13,7 +13,7 @@ Keith Stanovich's research program on rational thinking, summarised in his book 
 
 The book's mechanism is a tripartite model of cognition: "the key function of the reflective mind is to detect the need to interrupt autonomous processing and to begin simulation activities, whereas that of the algorithmic mind is to sustain the processing of decoupled secondary representations in cognitive simulation" (same page). The empirical base is the heuristics-and-biases error literature, where the data show "that the tendency to make these thinking errors is not highly related to intelligence".
 
-In the compendium, A031 pairs the program with Aristotle's synesis (understanding) and S012 with the Stoic reminder that a person is a rational being; both use it as the psychology parallel for what thinking well adds beyond raw ability.
+Here, A031 pairs the program with Aristotle's synesis (understanding) and S012 with the Stoic reminder that a person is a rational being; both use it as the psychology parallel for what thinking well adds beyond raw ability.
 
 ## Sources
 

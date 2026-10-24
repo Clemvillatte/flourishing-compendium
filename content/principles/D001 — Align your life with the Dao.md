@@ -17,7 +17,7 @@ Chapter 25 of the Daodejing runs the chain upward:
 > "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is."
 > (DDJ 25, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-Each level takes its law from the level above, and the Dao's law is simply what it is. The compendium's practical application of that chain: your plans run inside circumstances you did not set, so study how things actually unfold before acting on them. (DDJ 1, 25.)
+Each level takes its law from the level above, and the Dao's law is simply what it is. My practical application of that chain: your plans run inside circumstances you did not set, so study how things actually unfold before acting on them. (DDJ 1, 25.)
 
 **Plain words** Look at what a situation is doing before you decide what to do with it. What does your plan assume about the time and energy actually available? Which conditions can you change, and which must the plan accommodate? Recognising a condition is not approving it; it means you build with it instead of over it. The Daoist version of the habit names the source: the way things run was not set by you.
 

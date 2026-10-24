@@ -22,7 +22,7 @@ The paper's introduction cites earlier accounts that view the ability to notice,
 Think back over today and record something you appreciated, with enough detail to remember it later. You can include the day's difficulties too; this exercise asks you to make room for something you valued.
 
 **For example**
-Imagine a nightly list of three specific things. Someone might write "family", or they might write "the way Dad mispronounced 'quinoa' at dinner". The compendium's suggestion: write specific moments rather than categories; the specificity is the attentional exercise.
+Imagine a nightly list of three specific things. Someone might write "family", or they might write "the way Dad mispronounced 'quinoa' at dinner". My suggestion: write specific moments rather than categories; the specificity is the attentional exercise.
 
 ## Related concepts
 

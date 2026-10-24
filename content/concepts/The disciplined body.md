@@ -15,9 +15,9 @@ The disciplined body is Michel Foucault's term for what modern power makes of fl
 
 The chapter on docile bodies gives the mechanism. What formed was "a policy of coercions that act on the body, a calculated manipulation of its elements, its gestures, its behavior. The human body was entering a machinery of power that explores it, breaks it down and rearranges it... Thus, discipline produces subjected and practiced bodies, 'docile' bodies" (1977, pp. 138-9). The tightness of the coupling is the scandal: "the body becomes a useful force only if it is both a productive body and a subjected body" (pp. 25-26). Discipline does not merely repress; it makes bodies more capable at the same time as it makes them more obedient.
 
-The compendium keeps both halves in view. The training practices it collects, from relaxation drills to strength work, do what discipline does to the body's capacities, and the Foucauldian question travels with them: who benefits from the obedience, and is the arrangement one chose? The comparison with Foucault's coercive disciplines is the compendium's own, not Foucault's classification; his concept names the unchosen kind, and the deliberately chosen, examinable kind is what the compendium's practices aim at.
+I keep both halves in view. The training practices it collects, from relaxation drills to strength work, do what discipline does to the body's capacities, and the Foucauldian question travels with them: who benefits from the obedience, and is the arrangement one chose? The comparison with Foucault's coercive disciplines is my own, not Foucault's classification; his concept names the unchosen kind, and the deliberately chosen, examinable kind is what my practices aim at.
 
-### In the compendium
+### Here
 
 - [[BE047 — Learn progressive muscle relaxation — systematic body release]] — body-discipline practice, examined
 - [[BI026 — Learn that strength training is also effective for mental health]] — capacity-building, same questions attached

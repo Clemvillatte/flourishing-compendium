@@ -19,7 +19,7 @@ Dewey opens How We Think by sorting the senses of "thought" and marking off the 
 
 - [[Limits of introspection]] — the modern caution on what such examination can see of its own workings
 - [[Questioning inherited beliefs]] — the same practice aimed at received opinion
-- [[Rumination]] — the maladaptive mode the compendium distinguishes from it
+- [[Rumination]] — the maladaptive mode I distinguishe from it
 
 ## Sources
 

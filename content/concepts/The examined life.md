@@ -23,11 +23,11 @@ That stance is the ancestor of [[Fallibilism]]. Its twin on this site is [[The u
 
 ### Examination is not rumination
 
-Rumination circles and changes nothing. Examination is structured, answerable to evidence and aimed at living better. The compendium pairs it with metacognition, thinking about one's own thinking, and with practice rules that give it a shape.
+Rumination circles and changes nothing. Examination is structured, answerable to evidence and aimed at living better. I pair it with metacognition, thinking about one's own thinking, and with practice rules that give it a shape.
 
 A small case: each evening, five minutes with three written questions. What did I do today? What did it serve? What will I do differently? Written down, tomorrow's self can examine today's. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[B192 — Begin the day with intention; end it with review]] — the daily frame for the practice
 - [[P048 — Think reflectively — turn experience over]] — turning experience over

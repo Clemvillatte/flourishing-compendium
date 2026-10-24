@@ -15,7 +15,7 @@ The Seven Levels of the nafs is the Sufi developmental map of the self. The Qur'
 
 In the same article's summary of the tradition: "The characteristics of the nafs mentioned in the Qur'an correspond to seven stages: ammara, lawwama, mulhima, mutmainna, radiyya, mardiyya, and kamila" ([ISAM](https://makale.isam.org.tr/server/api/core/bitstreams/e8e61f1e-5223-4cdc-b734-0365fd80ebe8/content)). The ladder starts at the commanding self that persistently pushes toward what it wants, moves through the self that has learned to reproach itself, and ends at the perfected self. The point of counting stages is practical: the tradition treats the self not as one enemy but as a sequence of opponents, each with its own character, and the map tells the traveler which one they are currently fighting.
 
-### In the compendium
+### Here
 
 - [[X015 — Study the commanding self as your specific opponent]] uses the first rung of this ladder as its working text: name the specific opponent rather than fighting "myself" in general.
 

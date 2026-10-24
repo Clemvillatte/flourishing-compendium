@@ -15,7 +15,7 @@ George Vaillant's decades with the Harvard Grant Study turned the psychodynamic 
 
 In his system, immature defenses include projection, schizoid fantasy, hypochondriasis, passive aggression, and acting out; the mature ones include altruism, humor, suppression, anticipation, and sublimation.
 
-### In the compendium
+### Here
 
 - [[X015 — Study the commanding self as your specific opponent]] — lists the concept among its psychology parallels.
 

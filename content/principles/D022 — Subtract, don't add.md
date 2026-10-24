@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Chapter 48 of the Daodejing sets two students side by side. The student of learning works "from day to day to increase (his knowledge)"; the student of the Tao works "from day to day to diminish (his doing)". What the second takes away is his own doing, and the chapter follows the subtraction to its end: having arrived at non-action, "there is nothing which he does not do". Even getting the world, it says, happens "by giving himself no trouble (with that end)".
 
-Read as the compendium reads it, the chapter gives a rule of thumb for desire: before adding a tool, a rule or a commitment, ask whether something already in the week can come out. What the chapter itself recommends diminishing is doing and trouble.
+Read as I read it, the chapter gives a rule of thumb for desire: before adding a tool, a rule or a commitment, ask whether something already in the week can come out. What the chapter itself recommends diminishing is doing and trouble.
 
 > "He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do." (Daodejing 48, [Legge](https://www.gutenberg.org/ebooks/216))
 

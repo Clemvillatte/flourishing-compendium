@@ -15,14 +15,14 @@ The chapter's second axiom states that "the war machine is the invention of the 
 
 Behind the paradox of the motionless nomad sits a distinction the text states plainly: "Movement is extensive; speed is intensive."
 
-### In the compendium
+### Here
 
 - [[D078 — Wander free and easy (xiaoyao you)]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Wu wei]] — the compendium's Daoist page on non-forcing action
-- [[Impermanence]] — the compendium's page on impermanence
+- [[Wu wei]] — my Daoist page on non-forcing action
+- [[Impermanence]] — my page on impermanence
 
 ## Sources
 

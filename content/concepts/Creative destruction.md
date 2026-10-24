@@ -17,9 +17,9 @@ Creative destruction is Joseph Schumpeter's term, from Capitalism, Socialism and
 
 Schumpeter's target is the textbook picture of competition as price-cutting among existing firms, a picture he says persists in economic analysis even though it is not that kind of competition which counts ([ibid.](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)). In capitalist reality, he argues, "it is not that kind of competition which counts but the competition from the new commodity, the new technology, the new source of supply, the new type of organization", a competition that "strikes not at the margins of the profits and the outputs of the existing firms but at their foundations and their very lives" ([ibid.](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)). Later in the chapter he calls this the "perennial gale of creative destruction" ([ibid.](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)).
 
-### In the compendium
+### Here
 
-The compendium takes the term as an analogy, not as an established mechanism of personal change. Its principles borrow the economic image for the dismantling side of growth:
+I take the term as an analogy, not as an established mechanism of personal change. Its principles borrow the economic image for the dismantling side of growth:
 
 - [[CO021 — Understand the sunk cost fallacy — past investment distorts present decisions]] — the sunk-cost trap as one face of the reluctance to destroy what one has built
 - [[P044 — Unlearn on purpose]] — the deliberate removal of habits that have stopped serving
@@ -27,7 +27,7 @@ The compendium takes the term as an analogy, not as an established mechanism of 
 
 ## Related concepts
 
-- [[Retiring obsolete concepts]] — the compendium's own label for the mental-side operation
+- [[Retiring obsolete concepts]] — my own label for the mental-side operation
 
 ## Sources
 

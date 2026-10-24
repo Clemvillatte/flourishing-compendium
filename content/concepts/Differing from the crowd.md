@@ -21,7 +21,7 @@ The speaker is not boasting. The description is of discomfort, "dejected and for
 
 Chapter 20 describes a feeling and a value. It does not give advice on when to follow a crowd and when not to, and it does not say that being different is a mark of wisdom. Applying it to modern pressure to conform is the reader's inference.
 
-### In the compendium
+### Here
 
 - [[B173 — Be alone well]] lists this concept. The principle's page rests on the Dhammapada and the Rhinoceros Sutta and does not cite Daodejing 20, so the link is thematic.
 

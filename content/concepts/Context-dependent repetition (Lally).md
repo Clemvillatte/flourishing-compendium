@@ -18,9 +18,9 @@ The curve's shape matters for practice. Gains come fast at first and then slow t
 
 > The time it took participants to reach 95% of their asymptote of automaticity ranged from 18 to 254 days; indicating considerable variation in how long it takes people to reach their limit of automaticity and highlighting that it can take a very long time. — Lally et al., 2010, [Wiley abstract (opened)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)
 
-The abstract also reports that missing one opportunity did not materially affect habit formation in this study. The compendium builds its habit practices on this ground.
+The abstract also reports that missing one opportunity did not materially affect habit formation in this study. I build its habit practices on this ground.
 
-### In the compendium
+### Here
 
 - [[MO036 — Learn to use context-dependent repetition — same context, same behaviour]] — the context-dependent repetition practice.
 - [[K051 — Treat action and consequence as the mind's habit loop]] — the habit-loop kernel.

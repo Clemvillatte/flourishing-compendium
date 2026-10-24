@@ -21,7 +21,7 @@ The link runs through the limit. Nihilist thought, "because it neglects this fro
 
 > "Heraclitus, the discoverer of the constant change of things, nevertheless set a limit to this perpetual process. This limit was symbolized by Nemesis, the goddess of moderation and the implacable enemy of the immoderate." ([Camus, The Rebel, Part Five](https://www.thetedkarchive.com/library/albert-camus-the-rebel))
 
-### In the compendium
+### Here
 
 - [[E058 — Practise measure]] carries this concept as its philosophy source: measure comes out of the rebel's "no" and works as the standard by which events and men are judged.
 

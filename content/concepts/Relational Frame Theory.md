@@ -47,7 +47,7 @@ The link to Acceptance and Commitment Therapy is stated by later summaries in ca
 
 Behavior analysis · Psychological science
 
-### In the compendium
+### Here
 
 - [[ST237 — The Vā and the Voyage]] — the story that draws on this theory.
 

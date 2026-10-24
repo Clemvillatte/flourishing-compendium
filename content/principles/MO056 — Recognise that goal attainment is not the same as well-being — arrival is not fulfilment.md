@@ -13,7 +13,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 > **Principle 56** — Recognise that goal attainment is not the same as well-being: arrival is not fulfilment
 
-Psychology research on affective forecasting and hedonic adaptation suggests that attaining a goal often produces less happiness than expected. The compendium places this beside a philosophical distinction Aristotle draws directly:
+Psychology research on affective forecasting and hedonic adaptation suggests that attaining a goal often produces less happiness than expected. I place this beside a philosophical distinction Aristotle draws directly:
 
 > But it makes, perhaps, no small difference whether we place the chief good in possession or in use, in state of mind or in activity. (Aristotle, Nicomachean Ethics I.8, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 

@@ -13,9 +13,9 @@ Detachment from outcomes is the Bhagavad Gita's instruction to act from duty whi
 
 ### What the verse separates
 
-The closing line guards against the opposite error: detachment is not withdrawal from duty. The compendium's principle Y111 reads the Gita's renunciation texts the same way: give up the lien on the fruit, keep the activity.
+The closing line guards against the opposite error: detachment is not withdrawal from duty. My principle Y111 reads the Gita's renunciation texts the same way: give up the lien on the fruit, keep the activity.
 
-### In the compendium
+### Here
 
 - [[S072 — Practise emotional detachment from outcomes]] — the Stoic version: responsibility for the action, not the result
 - [[Y111 — Renounce the inner claim, not the outer duty]] — the Gita's distinction between renouncing the fruit and renouncing the activity

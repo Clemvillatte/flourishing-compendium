@@ -22,7 +22,7 @@ For the flourishing project, boredom is a signal to read, not a void to fill: an
 - [[Meaning]] — boredom as a crisis of meaning
 - [[Akrasia]] — wanting and failing, in the register of action
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
-- [[Sensation seeking]] — the aversion Zuckerman's fourth factor expresses, in the compendium's register
+- [[Sensation seeking]] — the aversion Zuckerman's fourth factor expresses, in my register
 ## Sources
 
 - Eastwood et al. 2012 (as quoted in Elpidorou, "On the Function of Boredom"): https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/

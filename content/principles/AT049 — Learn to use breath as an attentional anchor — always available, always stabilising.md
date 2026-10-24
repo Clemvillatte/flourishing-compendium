@@ -16,7 +16,7 @@ Zaccaro and colleagues reviewed slow-breathing techniques and their physiologica
 
 > "Slow breathing techniques promote autonomic changes increasing Heart Rate Variability and Respiratory Sinus Arrhythmia paralleled by Central Nervous System (CNS) activity modifications." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience 12:353](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
 
-The compendium's anchoring exercise uses sensations of ordinary breathing as an object of attention. Effects reported for paced breathing should not be assumed for simply noticing an unaltered breath.
+My anchoring exercise uses sensations of ordinary breathing as an object of attention. Effects reported for paced breathing should not be assumed for simply noticing an unaltered breath.
 
 **Plain words**
 Choose a sensation of ordinary breathing, such as air moving at the nostrils. If attention wanders, return to that sensation. Observe your experience without forcing a slower rhythm or requiring yourself to become calm.

@@ -23,7 +23,7 @@ In the chapter on the thousand and one goals, the same logic is applied to whole
 
 Value creation is not arbitrary invention. In the passage the creators are those who "endure the pangs of the child-bearer", so the work is costly. It is also not a claim that suffering is good in itself, and the text says only that the creator needs it in order to appear.
 
-### In the compendium
+### Here
 
 - [[E107 — Practise the creation of values]]
 

@@ -19,7 +19,7 @@ Of Alvin Goldman's Knowledge in a Social World (1999) the entry says: "The semin
 
 The entry's working topics are testimony, peer disagreement, judgment aggregation, and epistemic systems. On peer disagreement, the entry presents "Conciliationism" as "the view that in peer disagreement (some degree of) modification in one's confidence is rationally required" ([entry](https://plato.stanford.edu/entries/epistemology-social/)). Judgment aggregation raises the "doctrinal paradox": a court of three judges can each hold a logically self-consistent set of beliefs while a majority aggregation function delivers a group judgment that is jointly inconsistent ([entry](https://plato.stanford.edu/entries/epistemology-social/)). And for epistemic systems — juries, democracies, and online platforms — the question becomes "how best to design systems whose goals include epistemic goods such as the production or distribution of knowledge or true belief" ([entry](https://plato.stanford.edu/entries/epistemology-social/)).
 
-### In the compendium
+### Here
 
 - [[SO034 — Treat knowledge as social]] — the principle that carries the field's core claim for practice: knowledge is a collective achievement, so participate in knowledge communities deliberately
 

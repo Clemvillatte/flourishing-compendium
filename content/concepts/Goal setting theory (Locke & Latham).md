@@ -18,7 +18,7 @@ Edwin Locke and Gary Latham summarize 35 years of empirical research on goal-set
 
 The same abstract adds the theory's other edge: it asserts a positive linear relationship between the degree of goal difficulty and the level of performance, in contrast to the graduated, easy goals often set in behavior change programs ([Strecher et al., 1995, abstract](https://pubmed.ncbi.nlm.nih.gov/7622387/)). Later work in physical activity promotion adds a boundary: the theory has evolved to differentiate performance goals from learning goals, and for people new to physical activity, learning goals may be preferable, since in some cases performance goals can be detrimental to achieving desired outcomes ([Swann et al., 2021, abstract](https://pubmed.ncbi.nlm.nih.gov/31900043/)).
 
-### In the compendium
+### Here
 
 - [[MO023 — Set specific and difficult goals — vagueness kills motivation]]
 - [[MO024 — Learn to break goals into subgoals — small wins sustain motivation]] and [[MO048 — Learn to break tasks down — overwhelm causes avoidance]]

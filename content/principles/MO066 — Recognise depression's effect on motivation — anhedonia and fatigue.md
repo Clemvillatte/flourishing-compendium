@@ -15,7 +15,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Depression produces a specific motivational pattern: anhedonia (loss of pleasure and interest), fatigue, and reduced motivation. This is a symptom, not a choice. It is treatable.
 
-The compendium places this beside a philosophical analogy. Aristotle's account of virtue — that the capacity is formed by the doing — has a structural resemblance to the behavioural activation approach:
+I place this beside a philosophical analogy. Aristotle's account of virtue — that the capacity is formed by the doing — has a structural resemblance to the behavioural activation approach:
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics II.1, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 

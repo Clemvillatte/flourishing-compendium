@@ -20,7 +20,7 @@ Chapter 13 adds the stakes, the body itself as what makes calamity possible:
 
 > "What makes me liable to great calamity is my having the body (which I call myself); if I had not the body, what great calamity could come to me?" (DDJ 13)
 
-The two chapters work together: chapter 7 states the paradox of a person preserved through being put last, and chapter 13 identifies the body, held as one's own possession, as the very thing that exposes a person to calamity. The compendium reads them as one argument about where security is sought, and the title of this principle holds the two halves together.
+The two chapters work together: chapter 7 states the paradox of a person preserved through being put last, and chapter 13 identifies the body, held as one's own possession, as the very thing that exposes a person to calamity. I read them as one argument about where security is sought, and the title of this principle holds the two halves together.
 
 (DDJ 7, 13.)
 

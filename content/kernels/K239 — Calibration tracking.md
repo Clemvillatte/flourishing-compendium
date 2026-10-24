@@ -14,7 +14,7 @@ Recording predictions and their accuracy over time. The goal is not to be right 
 
 ### Protocol
 
-The steps are the compendium's practice form; the finding the form leans on is quoted in the Evidence section.
+The steps are my practice form; the finding the form leans on is quoted in the Evidence section.
 
 1. Before an outcome resolves, write the prediction as a probability: "70% this ships by Friday."
 2. When the outcome lands, record hit or miss next to the stated probability.

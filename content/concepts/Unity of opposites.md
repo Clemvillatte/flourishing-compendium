@@ -17,7 +17,7 @@ Unity of opposites is the label for Heraclitus' doctrine, illustrated in his fra
 
 The fragments offer examples, not a definition. Another has Heraclitus say of day and night that "they are one" (B57). The Stanford Encyclopedia article reads his famous flux doctrine as a special case of the doctrine: "a special case of the unity of opposites, pointing to ways things are both the same and not the same over time".
 
-### In the compendium
+### Here
 
 - [[D005 — Expect reversal — extremes turn into their opposites]]
 - [[D007 — Hold yin and yang together]]

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 24** — Expect fluctuation, and read it as structure
 
-In the note to Part III, Proposition 17, Spinoza names the condition: a disposition of the mind that arises from two contrary emotions, so that we both hate and love the same thing. ([Ethics III, Prop. XVII, note, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium's application is to take one decision you feel pulled two ways about, and write down what you welcome in it and what you dread.
+In the note to Part III, Proposition 17, Spinoza names the condition: a disposition of the mind that arises from two contrary emotions, so that we both hate and love the same thing. ([Ethics III, Prop. XVII, note, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) My application is to take one decision you feel pulled two ways about, and write down what you welcome in it and what you dread.
 
 > "Hence we can easily conceive, that one and the same object may be the cause of many and conflicting emotions." (Ethics III, Prop. XVII, note, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 

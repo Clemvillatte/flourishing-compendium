@@ -17,7 +17,7 @@ The review's conclusion was that attitudes, self-esteem and stereotypes all have
 
 **Plain words** You can like or dislike a group, a food, a name, without knowing where the liking came from. Asking yourself why you feel it will not always find the answer, because the cause sits where introspection does not reach.
 
-### In the compendium
+### Here
 
 - [[E089 — Practise the hermeneutics of suspicion]]: the principle that treats one's own reactions as data to be questioned
 

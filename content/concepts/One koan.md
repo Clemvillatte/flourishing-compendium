@@ -15,7 +15,7 @@ In the Rinzai line of Zen, a student receives a single assigned kōan, most ofte
 
 Rinzai training begins by assigning a hosshi, a breakthrough kōan, usually the mu-kōan or "the sound of one hand", and students are told to concentrate on the "word-head", the phrase itself ([Wikipedia, "Koan"](https://en.wikipedia.org/wiki/K%C5%8Dan)). The Stanford Encyclopedia adds that the practitioner must tackle the Mu "by mobilizing the whole of his or her person" ([Nagatomo, SEP](https://plato.stanford.edu/entries/japanese-zen/)).
 
-### In the compendium
+### Here
 
 - [[Y063 — Hold one practice to steady the mind]] — lists this Zen practice alongside Patanjali's remedy of "steady application to a principle" (Yoga Sutras 1.32); the comparison concerns sustained practice, not an equivalence between the traditions.
 - [[B046 — Work with a koan]] — carries the same case from the working side: Wumen's instructions for the word Mu (arouse the whole body, great doubt, carry the word day and night).

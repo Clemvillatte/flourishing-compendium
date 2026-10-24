@@ -6,12 +6,12 @@ Right action is the fourth factor of the Eightfold Path: what the body does when
 
 ## Nearby terms
 
-- Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; the wiki's card is [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action), and nothing is split between the names.
+- Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; my card is [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action), and nothing is split between the names.
 - Non-harm: the floor this factor rests on; the harmlessness resolve as an intention belongs to the Right Intention page, this page holds the bodily restraints that resolve issues in.
 - Behaviour: the general science of habit formation stays there; this page holds the path's ethical restraints on bodily conduct.
 - Right speech and right livelihood: the neighbouring conduct factors, each with its own page; the map below points to them only where the boundary matters.
 
-## The map: every entry the wiki holds on right action
+## The map: the entries on right action
 
 ### What the factor is
 
@@ -21,7 +21,7 @@ Right action is the fourth factor of the Eightfold Path: what the body does when
 
 [The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the grouping that places conduct under ethics, with wisdom and concentration as the other two trainings.
 
-[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the compendium's label for this factor, marking where the path moves from resolve to conduct.
+[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label I use for this factor, marking where the path moves from resolve to conduct.
 
 [Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): bodily action as karma; intentional conduct through body, speech or mind is what sets results going, and this factor holds the bodily side of it.
 
@@ -41,7 +41,7 @@ Bhikkhu Bodhi's study of the path supplies the positive counterparts to the thre
 
 The first restraint, taking life, and its counterpart, compassion:
 
-[Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the Indic principle of non-harm; the compendium reads it as the starting floor of this factor.
+[Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the Indic principle of non-harm; I read it as the starting floor of this factor.
 
 [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): being moved by suffering and motivated to act; the counterpart Bodhi names first.
 
@@ -97,7 +97,7 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [The unity of the virtues](https://clemvillatte.github.io/flourishing-compendium/#card=The%20unity%20of%20the%20virtues): the thesis, argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents.
 
-[The courage to act against impulse](https://clemvillatte.github.io/flourishing-compendium/#card=The%20courage%20to%20act%20against%20impulse): Kant's account of acting from duty against inclination, the compendium's own heading for it.
+[The courage to act against impulse](https://clemvillatte.github.io/flourishing-compendium/#card=The%20courage%20to%20act%20against%20impulse): Kant's account of acting from duty against inclination, my own heading for it.
 
 [Self-constitution through action](https://clemvillatte.github.io/flourishing-compendium/#card=Self-constitution%20through%20action): Kierkegaard's Judge Vilhelm, choosing shapes personality; a life that keeps choice at arm's length loses definition.
 
@@ -115,7 +115,7 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [Action precedes feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20precedes%20feeling): the act comes first and the feeling follows, from Epictetus's counsels to William James's habit essay.
 
-[Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling): the compendium's application of Aristotle's habituation ordering; the Ethics itself teaches habituation, and II.4 distinguishes performing a just action from acting as a just person.
+[Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling): my application of Aristotle's habituation ordering; the Ethics itself teaches habituation, and II.4 distinguishes performing a just action from acting as a just person.
 
 [Action commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20commitment): ACT's committed action, one act consistent with a chosen value, however small.
 
@@ -147,7 +147,7 @@ The Christian tradition codifies the other answer, that taking up the sword of w
 
 > "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)): Primary text; quoted passages checked.
 
-The permission is bounded, not an endorsement of harm for its own sake; the same article condemns the passion for inflicting harm and the cruel thirst for vengeance in war. The two answers to the same question are incompatible: the definition of right action names abstaining from taking life, and the just-war tradition names the conditions under which a sovereign may rightly command it. The wiki holds both sides, the non-harm floor on one side and the just-war card on the other, and does not reconcile them.
+The permission is bounded, not an endorsement of harm for its own sake; the same article condemns the passion for inflicting harm and the cruel thirst for vengeance in war. The two answers to the same question are incompatible: the definition of right action names abstaining from taking life, and the just-war tradition names the conditions under which a sovereign may rightly command it. I hold both sides, the non-harm floor on one side and the just-war card on the other, and do not reconcile them.
 
 ### Can knowledge coexist with failure to act?
 
@@ -171,13 +171,13 @@ Wang's knowledge, as the reference article presents it, is knowing how to respon
 
 > "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
 
-Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; the wiki holds materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and records the pair as a related question rather than a settled disagreement.
+Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; I hold materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and records the pair as a related question rather than a settled disagreement.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the default setting of bodily conduct: harm done by convenience, giving governed by mood, fidelity held only while feeling holds, courage postponed until the moment passes. The adaptive direction is the factor's own shape, the non-harm floor kept under whatever else is undertaken, and the counterparts, compassion, generosity, fidelity, practiced above it.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [K250 — Virtue rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=K250%20%E2%80%94%20Virtue%20rehearsal): pick one virtue and practise it in small daily acts that get written down, drawing on Aristotle's habituation teaching and Franklin's chart.
 
@@ -199,7 +199,7 @@ Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The stopped harm
 

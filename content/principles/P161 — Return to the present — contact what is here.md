@@ -18,7 +18,7 @@ Acceptance and commitment therapy (ACT) treats the present moment as the only pl
 
 The same article ties values to that contact: "Values are lived out, moment to moment", and the consequences that matter are "here and now and located in the very process of engaging in the behavior itself". ACT trains the contact with practice: mindfulness and attentional control exercises promote "focused, voluntary, and flexible contact with the present moment".
 
-The compendium's application: when you notice you are lost in replay or rehearsal, return to something concrete that is actually happening, and ask what one small act available there would serve what you care about.
+My application: when you notice you are lost in replay or rehearsal, return to something concrete that is actually happening, and ask what one small act available there would serve what you care about.
 
 ### Plain words
 
@@ -26,7 +26,7 @@ Midnight rumination feels like preparation, but the meeting it rehearses happens
 
 ### For example
 
-Imagine lying awake at midnight rehearsing next week's meeting. The value behind the worry, say being a reliable colleague, cannot be enacted in next week. It can be enacted by writing one line of the agenda now and going back to sleep. The compendium's exercise: choose the smallest available act that serves the value.
+Imagine lying awake at midnight rehearsing next week's meeting. The value behind the worry, say being a reliable colleague, cannot be enacted in next week. It can be enacted by writing one line of the agenda now and going back to sleep. My exercise: choose the smallest available act that serves the value.
 
 ## Sources
 

@@ -13,7 +13,7 @@ Cognitive distortions are the systematic thinking errors Aaron Beck identified i
 
 > "According to Beck, Rush, Shaw, and Emery (1979), there are seven types of cognitive distortions: (a) selective abstraction (attending to negative aspects of experiences in a selective way), (b) overgeneralisation (believing that a negative outcome will happen in similar situations in the future), (c) catastrophisation (always thinking of the worst on the premise that the worst is most likely to happen), (d) personalisation (inappropriately attributing the cause of external events to oneself), (e) temporal causality or predicting without sufficient evidence (believing that something negative that happened in the past is likely to also occur in the future), (f) self-reference (believing that oneself, especially one's bad performance, is the centre of everyone's attention), and (g) dichotomous thinking (only focusing on the extreme results of a situation, be that a positive or negative one)." (Panourgia & Comoretto, [Stress and Health 2017, PMC5763391](https://pmc.ncbi.nlm.nih.gov/articles/PMC5763391/), summarizing Beck, Rush, Shaw and Emery 1979)
 
-### In the compendium
+### Here
 
 - [[S046 — Do not add to the impression]]
 - [[CO050 — Learn to question your thoughts — not every thought deserves belief]]

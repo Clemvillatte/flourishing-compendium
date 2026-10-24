@@ -16,11 +16,11 @@ Eisenkraft and Elfenbein open with the question that separates their construct f
 
 > "Data from 48 work groups suggest there are consistent individual differences both in the emotions that people tend to experience (*trait affect*) and in the emotions that people tend to elicit in others (*trait affective presence*)." ([Eisenkraft & Elfenbein, 2010, Psychological Science 21(4), abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797610364117))
 
-The difference from emotional contagion is in what is measured. Contagion is the transfer of one person's current state; affective presence, as analyzed here, is the consistent pattern of emotions a person tends to elicit in others, with emotional contagion controlled in the variance figures (10% of the variance in positive affect and 23% in negative affect). The compendium's exercise follows from the finding's limits: the analysis found individual differences in these work groups; it was not a study of any particular interaction.
+The difference from emotional contagion is in what is measured. Contagion is the transfer of one person's current state; affective presence, as analyzed here, is the consistent pattern of emotions a person tends to elicit in others, with emotional contagion controlled in the variance figures (10% of the variance in positive affect and 23% in negative affect). My exercise follows from the finding's limits: the analysis found individual differences in these work groups; it was not a study of any particular interaction.
 
-**Plain words** How you usually feel and how others usually feel around you are different questions. For the compendium's exercise, ask a trusted colleague how they tend to feel after conversations with you.
+**Plain words** How you usually feel and how others usually feel around you are different questions. For my exercise, ask a trusted colleague how they tend to feel after conversations with you.
 
-*For example:* (Imagined case.) A manager asks two team members, separately, how they usually feel after a one-on-one. Both hesitate, then one says drained, the other says clearer. Two private answers do not stand in for the study's measurement. They are where the compendium's practice starts.
+*For example:* (Imagined case.) A manager asks two team members, separately, how they usually feel after a one-on-one. Both hesitate, then one says drained, the other says clearer. Two private answers do not stand in for the study's measurement. They are where my practice starts.
 
 ## Sources
 

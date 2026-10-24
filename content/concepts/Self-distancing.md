@@ -13,7 +13,7 @@ The same abstract concludes: "Together, these findings demonstrate that small sh
 
 The finding is that the shift in pronoun does the regulatory work.
 
-### In the compendium
+### Here
 
 - [[K010 — Step back from the ego to the field]]
 - [[S052 — Practise the view from above]]

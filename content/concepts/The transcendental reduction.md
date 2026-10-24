@@ -23,7 +23,7 @@ What is left standing after the bracket is the field of intentional acts and the
 
 > "Strictly speaking, the epoché can be seen as the first step towards what Husserl terms the *transcendental reduction*, which is his name for the systematic analysis of the intentional correlation between subjectivity and world." (Zahavi, [SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/), section 3)
 
-### In the compendium
+### Here
 
 - [[Y089 — Separate the seer from the seen daily]] — the principle pairs the reduction with the Yoga-Vedanta discrimination of seer and seen (drg-drsya-viveka): both train a step back from immersion in what appears, toward the one to whom it appears.
 
@@ -32,7 +32,7 @@ What is left standing after the bracket is the field of intentional acts and the
 - [[Epoché]] — the bracketing move itself, the first step of the reduction.
 - [[The natural attitude]] — the immersed stance the reduction suspends.
 - [[Suspension of the natural attitude]] — the reduction seen from the side of practice.
-- [[Perception as interpretation]] — the wiki's psychological page on how seeing carries interpretation; the reduction is the methodological cousin of that idea.
+- [[Perception as interpretation]] — my psychological page on how seeing carries interpretation; the reduction is the methodological cousin of that idea.
 
 ## Sources
 

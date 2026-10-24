@@ -20,7 +20,7 @@ Wumen's comment still speaks of years of further inquiry after Jōshū's realisa
 
 ### Plain words
 
-The compendium draws an invitation to examine the activity you are already in before searching for an exceptional experience. You can attend to making tea, speaking to someone, or walking to work without requiring it to feel profound. This suggestion does not decide whether a retreat or formal practice would be useful.
+I draw an invitation to examine the activity you are already in before searching for an exceptional experience. You can attend to making tea, speaking to someone, or walking to work without requiring it to feel profound. This suggestion does not decide whether a retreat or formal practice would be useful.
 
 ### For example
 

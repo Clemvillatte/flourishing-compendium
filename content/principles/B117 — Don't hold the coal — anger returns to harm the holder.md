@@ -20,7 +20,7 @@ In a different setting, Carlsmith and colleagues found that opportunities to pun
 
 ### Plain words
 
-The compendium suggests asking what an angry action is meant to accomplish. Are you seeking protection, repair or accountability, or mainly hoping the other person will suffer? You can reconsider a retaliatory action without denying the injury, forgiving on demand or giving up a legitimate complaint.
+I suggest asking what an angry action is meant to accomplish. Are you seeking protection, repair or accountability, or mainly hoping the other person will suffer? You can reconsider a retaliatory action without denying the injury, forgiving on demand or giving up a legitimate complaint.
 
 ### For example
 

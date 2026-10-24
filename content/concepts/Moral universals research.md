@@ -17,9 +17,9 @@ Oliver Scott Curry, Daniel Austin Mullins and Harvey Whitehouse tested the theor
 
 The theory predicts that specific forms of cooperative behavior, helping kin, helping your group, reciprocating, being brave, deferring to superiors, dividing disputed resources, and respecting prior possession, will be considered morally good wherever they arise, in all cultures. The corresponding moralities are family values, group loyalty, reciprocity, bravery, respect, fairness and property rights. The test's margin is striking: "In 961 out of 962 observations (99.9%), cooperative behavior had a positive moral valence." And in the discussion's summary, "There were no counterexamples, that is, societies in which these behaviors were considered morally bad."
 
-### In the compendium
+### Here
 
-The finding speaks to the compendium's Aristotelian principles on natural justice and on actions that are always wrong from the other direction, and to the Gilligan story on the different voice, which asks whose cooperation the universal rules record.
+The finding speaks to my Aristotelian principles on natural justice and on actions that are always wrong from the other direction, and to the Gilligan story on the different voice, which asks whose cooperation the universal rules record.
 
 - [[A098 — Recognise natural justice (physikon dikaion)]]
 - [[A103 — Recognise that some actions are always wrong]]

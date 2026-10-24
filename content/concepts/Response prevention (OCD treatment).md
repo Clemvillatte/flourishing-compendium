@@ -19,7 +19,7 @@ The same review says the "first real breakthrough" came in 1966, when Meyer desc
 
 Foa and colleagues randomly assigned patients with contamination obsessions and washing rituals to exposure only, ritual prevention only, or both, each delivered as 15 daily 120-minute sessions over three weeks. Patients in all three conditions improved. The combined group did better on almost every symptom measure, at post-treatment and at follow-up. The two single-component groups differed in kind: exposure patients reported lower anxiety when confronting feared contaminants, while ritual-prevention patients reported larger drops in urges to ritualize ([Foa, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3181959/)).
 
-### In the compendium
+### Here
 
 The original entry sentence says that blocking compulsions is essential for exposure to work. The trial above supports a milder reading: adding ritual prevention to exposure gave a better outcome than exposure alone, and exposure alone still produced improvement. It is also one trial in one symptom group. The original entry citations (Foa et al., 2007; Abramowitz et al., 2019) are cited at second hand, so they are kept as listed but not relied on here. The principles below that use the term, BE029 and BE071, apply it to compulsive behaviour in general. The source covers treatment of diagnosed OCD, not everyday habits.
 

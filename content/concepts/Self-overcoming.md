@@ -23,7 +23,7 @@ Zarathustra reports that wherever he found a living thing, there he found Will t
 
 Zarathustra says that good and evil which would be everlasting do not exist, and must of their own accord surpass themselves anew ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)). He says that whoever has to be a creator in good and evil must first be a destroyer, and break values in pieces ([Zarathustra, trans. Common](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)).
 
-## In the compendium
+## Here
 
 [E103](../principles/E103%20%E2%80%94%20Practise%20self-overcoming%20%28Selbst%C3%BCberwindung%29.md) cautions that the chapter describes surpassing as something life does, with a cost: a self that commands itself must atone for its commanding.
 

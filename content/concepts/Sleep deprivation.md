@@ -7,13 +7,13 @@ file: "Sleep deprivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Sleep deprivation is the loss of some or all of normal sleep, and it affects both thinking and emotional reactivity. Three studies the compendium cites or sits alongside show different parts of this. Yoo and colleagues scanned 26 healthy adults and reported that those kept awake overnight showed "a remarkable +60% greater magnitude of amygdala activation, relative to the control group" in response to increasingly negative pictures, along with weaker connectivity between the amygdala and the medial prefrontal cortex ([Yoo et al., 2007, Current Biology 17(20), R877-R878](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)).
+Sleep deprivation is the loss of some or all of normal sleep, and it affects both thinking and emotional reactivity. Three studies I cite or sits alongside show different parts of this. Yoo and colleagues scanned 26 healthy adults and reported that those kept awake overnight showed "a remarkable +60% greater magnitude of amygdala activation, relative to the control group" in response to increasingly negative pictures, along with weaker connectivity between the amygdala and the medial prefrontal cortex ([Yoo et al., 2007, Current Biology 17(20), R877-R878](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)).
 
 > "It therefore seems that a night of sleep may 'reset' the correct brain reactivity to next-day emotional challenges by maintaining functional integrity of this MPFC-amygdala circuit." (Yoo et al., 2007, [Walker lab reprint](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf))
 
 ### Attention and thinking
 
-Lim and Dinges meta-analysed 70 articles with 147 cognitive tests on short-term total sleep deprivation under 48 hours. Effect sizes "ranged from small and nonsignificant (reasoning accuracy: g = -0.125, 95% CI [-0.27, 0.02]) to large (lapses in simple attention: g = -0.776, 95% CI [-0.96, -0.60], p < .001)" ([Lim & Dinges, 2010, Psychological Bulletin 136(3), 375-389, PubMed](https://pubmed.ncbi.nlm.nih.gov/20438143/)). Attention lapses are thus the large effect, and reasoning accuracy showed little. That fits the compendium's facet "impairs attention" and cautions against saying sleep loss damages every cognitive function equally.
+Lim and Dinges meta-analysed 70 articles with 147 cognitive tests on short-term total sleep deprivation under 48 hours. Effect sizes "ranged from small and nonsignificant (reasoning accuracy: g = -0.125, 95% CI [-0.27, 0.02]) to large (lapses in simple attention: g = -0.776, 95% CI [-0.96, -0.60], p < .001)" ([Lim & Dinges, 2010, Psychological Bulletin 136(3), 375-389, PubMed](https://pubmed.ncbi.nlm.nih.gov/20438143/)). Attention lapses are thus the large effect, and reasoning accuracy showed little. That fits my facet "impairs attention" and cautions against saying sleep loss damages every cognitive function equally.
 
 ### Partial loss accumulates
 
@@ -23,9 +23,9 @@ Van Dongen and colleagues restricted 48 healthy adults to 4, 6 or 8 hours in bed
 
 Yoo's report is a short two-group fMRI study, and its authors say "the implication of our finding remain speculative." It tested one night of total deprivation and passive viewing of pictures, not everyday sleep restriction. Alhola and Polo-Kantola (2007), the third seed source, is cited at second hand.
 
-### In the compendium
+### Here
 
-The principles listed below, among them AT042 (the role of sleep in attention), BI013 (Prioritise sleep) and D154 (Treat sleep as sacred), draw practical conclusions about protecting sleep. The studies above establish effects of deprivation, and the advice is the compendium's inference from them.
+The principles listed below, among them AT042 (the role of sleep in attention), BI013 (Prioritise sleep) and D154 (Treat sleep as sacred), draw practical conclusions about protecting sleep. The studies above establish effects of deprivation, and the advice is my inference from them.
 
 ## Facets
 

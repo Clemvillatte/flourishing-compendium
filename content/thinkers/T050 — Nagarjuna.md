@@ -36,7 +36,7 @@ Emptiness is not a doctrine that disables the world but the condition of its wor
 - **Samsara and nirvana not distinct** — "What is the limit of nirvana, that is the limit of samsara. There is not even the finest gap to be found between the two" (*MMK* 22.19-20) ([Wikipedia, Nagarjuna](https://en.wikipedia.org/wiki/Nagarjuna)). See [[B135 — Samsara and nirvana are one mind|Samsara and nirvana are one mind]].
 - **The middle way** — Madhyamaka itself, the refusal of both extremes of permanence and annihilation ([SEP, Nagarjuna](https://plato.stanford.edu/entries/nagarjuna/)). See [[B009 — Walk the Middle Way|Walk the Middle Way]], [[B123 — Refuse both extremes — nothing is permanent, nothing is nothing|Refuse both extremes: nothing is permanent, nothing is nothing]].
 
-## Everything connected in the wiki — the Madhyamaka tradition
+## Everything connected here — the Madhyamaka tradition
 
 Kept to the pages that cite or apply Nagarjuna's school. Some entries (the Daoist and Stoic pages) are cross-tradition comparisons rather than Madhyamaka content, and are marked here for what they are.
 

@@ -15,12 +15,12 @@ Probabilistic thinking is the move from yes-or-no to how-likely, and its arrival
 
 The idea that broke through was double, as Hacking puts it: "On the one hand it is epistemological, having to do with support by evidence. On the other it is statistical, having to do with stable frequencies" (p. 43). The result was a new middle category between knowledge and ignorance — a way of being more-or-less right about the future.
 
-The modern practice side is Bayesian: start with a prior, update on evidence, resist the pull of a vivid single case. The compendium's [[CO001 — Understand that cognition is predictive, not passive]] and [[CO069 — Learn to think in probabilities — certainty is usually an illusion]] carry this into daily judgment.
+The modern practice side is Bayesian: start with a prior, update on evidence, resist the pull of a vivid single case. My [[CO001 — Understand that cognition is predictive, not passive]] and [[CO069 — Learn to think in probabilities — certainty is usually an illusion]] carry this into daily judgment.
 
 ## Related concepts
 
 
-- [[CO001 — Understand that cognition is predictive, not passive]]: the compendium principle this history grounds
+- [[CO001 — Understand that cognition is predictive, not passive]]: my principle this history grounds
 - [[CO069 — Learn to think in probabilities — certainty is usually an illusion]]: the practice rule that follows
 - [[Risk literacy]]: Gigerenzer's applied program for the same shift
 - [[Optimism bias]]: the bias that probabilistic thinking corrects, in one direction

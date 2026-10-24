@@ -15,7 +15,7 @@ The bondage of desire is the Buddhist picture of tanha as a chain rather than a 
 
 ### What the bondage is
 
-The verse treats craving as something with a root, which is why the compendium pairs the concept with addiction: the loss of control BE072 describes can be compared with the hold in the image of the flood and the reed, though the verses picture craving, not a clinical mechanism. The lotus leaf is the counter-image, of sorrows falling away when craving is overcome.
+The verse treats craving as something with a root, which is why I pair the concept with addiction: the loss of control BE072 describes can be compared with the hold in the image of the flood and the reed, though the verses picture craving, not a clinical mechanism. The lotus leaf is the counter-image, of sorrows falling away when craving is overcome.
 
 > "Just as a tree, though cut down, sprouts up again if its roots remain uncut and firm, even so, until the craving that lies dormant is rooted out, suffering springs up again and again." (Dhammapada 338, trans. Acharya Buddharakkhita, [AccessToInsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html))
 
@@ -24,7 +24,7 @@ The distinction verse 338 draws is that cutting down the tree does not prevent r
 ## Related concepts
 
 - [[The insatiability of craving]] — Schopenhauer's structural claim that wanting regenerates itself
-- [[The craving-to-addiction model]] — the compendium's addiction entry for the same craving
+- [[The craving-to-addiction model]] — my addiction entry for the same craving
 - [[Impermanence]] — the cross-tradition hub for the fact that everything that arises will pass
 
 ## Sources

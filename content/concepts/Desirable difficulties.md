@@ -17,7 +17,7 @@ The machinery behind it is a distinction between two strengths of a memory. Stor
 
 Difficulty itself is not the active ingredient. The chapter is explicit: "Many difficulties are undesirable during instruction and forever after. Desirable difficulties, versus the array of undesirable difficulties, are desirable because they trigger encoding and retrieval processes that support learning, comprehension, and remembering" (same text). The catch is metacognitive. Learners "interpret current retrieval strength as storage strength" and so "become susceptible to preferring poorer conditions of learning to better conditions of learning" (same text).
 
-### In the compendium
+### Here
 
 - [[SP088 — Expect the excellent to be difficult and rare]] — Spinoza's hard way, given an empirical mechanism: effort during practice can be the price of durable gain
 - [[Y007 — Grade your effort honestly]] — the framework's warning that felt ease is not evidence of learning supports the principle's call to judge effort by what it builds

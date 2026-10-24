@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 74** — Recognise self and neurodivergence: different self-patterns
 
-Cooper and colleagues (2021) reported a positive relationship between the number of positive attributes participants associated with autism and their collective self-esteem, to the extent that they identified with other autistic people. The compendium uses Zhuangzi's ailanthus as an analogy for questioning a single standard of usefulness: the tree fails the carpenter's tests, and Zhuangzi's advice is not to fix the tree but to plant it where its shape stops being a defect, so that "Neither bill nor axe would shorten its existence; there would be nothing to injure it."
+Cooper and colleagues (2021) reported a positive relationship between the number of positive attributes participants associated with autism and their collective self-esteem, to the extent that they identified with other autistic people. I use Zhuangzi's ailanthus as an analogy for questioning a single standard of usefulness: the tree fails the carpenter's tests, and Zhuangzi's advice is not to fix the tree but to plant it where its shape stops being a defect, so that "Neither bill nor axe would shorten its existence; there would be nothing to injure it."
 
 > "I have a large tree, which men call the Ailantus. Its trunk swells out to a large size, but is not fit for a carpenter to apply his line to it; its smaller branches are knotted and crooked, so that the disk and square cannot be used on them. Though planted on the wayside, a builder would not turn his head to look at it." (Zhuangzi, Book I, trans. Legge)
 

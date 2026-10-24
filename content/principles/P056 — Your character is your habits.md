@@ -20,7 +20,7 @@ His practical instruction follows:
 
 > "For this we must make automatic and habitual, as early as possible, as many useful actions as we can, and guard against the growing into ways that are likely to be disadvantageous to us, as we should guard against the plague." (James, The Principles of Psychology, ch. 4, [text](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
 
-The fly-wheel sentence describes society, and the automatic-and-habitual sentence is advice about useful actions; neither is a proof that character equals habit. The modern record narrows the mechanism: in Wood and Neal's review, habits are learned context-response associations in which "perception of contexts triggers the associated response without a mediating goal" (Wood and Neal, 2007, [abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17907866&resultType=core&format=json)). The compendium's application: compare stated values with the week's repeated behavior.
+The fly-wheel sentence describes society, and the automatic-and-habitual sentence is advice about useful actions; neither is a proof that character equals habit. The modern record narrows the mechanism: in Wood and Neal's review, habits are learned context-response associations in which "perception of contexts triggers the associated response without a mediating goal" (Wood and Neal, 2007, [abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17907866&resultType=core&format=json)). My application: compare stated values with the week's repeated behavior.
 
 ### Plain words
 

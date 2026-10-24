@@ -14,7 +14,7 @@ State the other person's position back to them, at its best, until they tell you
 
 ### Protocol
 
-*Steps follow Rapoport's rules as quoted in Dennett's* Intuition Pumps*; the drill framing is the compendium's.*
+*Steps follow Rapoport's rules as quoted in Dennett's* Intuition Pumps*; the drill framing is my.*
 
 1. "You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, 'Thanks, I wish I'd thought of putting it that way.'"
 2. "You should list any points of agreement (especially if they are not matters of general or widespread agreement)."

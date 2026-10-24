@@ -16,7 +16,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 > "Therefore, since he helps me on the path to Awakening, I should long for an enemy like a treasure discovered in the home, acquired without effort." (Bodhicaryāvatāra VI.107, trans. Crosby and Skilton, [excerpt](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
 
-This is a demanding religious argument about cultivation, not evidence that every upsetting encounter reveals an old wound. The compendium adopts a limited practical question from it: what response can I examine or change while still addressing the other person's conduct?
+This is a demanding religious argument about cultivation, not evidence that every upsetting encounter reveals an old wound. I adopt a limited practical question from it: what response can I examine or change while still addressing the other person's conduct?
 
 ### Plain words
 

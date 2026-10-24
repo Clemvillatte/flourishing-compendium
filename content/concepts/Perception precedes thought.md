@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Perception precedes thought” — Aristotle, De Anima II.
 
-The label is the compendium's summary, not an Aristotelian phrase. The text of De Anima could not be opened for this page, because the Internet Classics Archive page returned no text. The account below rests on Christopher Shields's article on Aristotle's psychology in the Stanford Encyclopedia of Philosophy, which cites the relevant passages, so Aristotle's own wording is not quoted.
+The label is my summary, not an Aristotelian phrase. The text of De Anima could not be opened for this page, because the Internet Classics Archive page returned no text. The account below rests on Christopher Shields's article on Aristotle's psychology in the Stanford Encyclopedia of Philosophy, which cites the relevant passages, so Aristotle's own wording is not quoted.
 
 ### A hierarchy of capacities
 
@@ -25,9 +25,9 @@ Shields reports that Aristotle models thinking on perception: "Just as perceptio
 
 ### Where the label overreaches
 
-Shields also records that Aristotle does not treat the mind as simply another bodily power. The mind "is not 'mixed with the body', insofar as it, unlike the perceptual faculty, lacks a bodily organ" (De Anima iii 4, 429a24-7). The compendium's use of the label for embodiment (as in the principle on thinking being embodied) therefore needs care: Aristotle makes thought depend on perception, and he also sets thought apart from the body. A passage in De Anima Book III about thinking and mental images was not found in the sources, so it is not used.
+Shields also records that Aristotle does not treat the mind as simply another bodily power. The mind "is not 'mixed with the body', insofar as it, unlike the perceptual faculty, lacks a bodily organ" (De Anima iii 4, 429a24-7). My use of the label for embodiment (as in the principle on thinking being embodied) therefore needs care: Aristotle makes thought depend on perception, and he also sets thought apart from the body. A passage in De Anima Book III about thinking and mental images was not found in the sources, so it is not used.
 
-### In the compendium
+### Here
 
 - [[B039 — Practice the four foundations of mindfulness (satipatthana)]], [[E020 — Practise embodiment as condition of possibility]] and [[CO005 — Understand that thinking is embodied — the body shapes the mind]] cite this concept.
 - [[B065 — Guard the mind at the source (mind precedes all)]], [[ST294 — The Demon's Question]] and [[Y049 — Use vivid sensory attention as a support]] cite it as well.

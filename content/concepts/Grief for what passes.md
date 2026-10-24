@@ -24,19 +24,19 @@ Giles renders the same moment as: "When she died, I could not help being affecte
 
 The sequence in the text is clear: he was affected first, then reflected, then stopped. The text does not tell us that he never felt loss, and a reading of it as emotional detachment skips his own first sentence. It also does not tell us how long the reflection took or what he felt afterwards. Translators disagree on small matters: tub, basin and bowl for the same vessel, and "singing" in all three.
 
-The reason he gives is about the natural order of change. Whether this counts as grief proper is a question for interpreters; the compendium's title "Grief for what passes" is its own framing, and the wording of this page keeps the claim to what the translations say.
+The reason he gives is about the natural order of change. Whether this counts as grief proper is a question for interpreters; my title "Grief for what passes" is its own framing, and the wording of this page keeps the claim to what the translations say.
 
-### In the compendium
+### Here
 
 - B108 (Grieve with presence) and S118 (Handle loss without devastation) are the nearest principles on how to be with loss.
 - AF051 distinguishes sadness from depression, which matters when reading any text that praises composure.
 - D095 and D098 are principles on moderating emotion and accepting what destiny brings.
 - A010 and M003 deal with fortune overturning happiness and thinking in pairs.
-- ST035 (Ivan Ilyich's Question) is a story listed with this concept; its link is the compendium's own.
+- ST035 (Ivan Ilyich's Question) is a story listed with this concept; its link is my own.
 
 ## Related concepts
 
-- [[Zhuangzi's laughter]] — a neighbouring Zhuangzi page in the compendium
+- [[Zhuangzi's laughter]] — a neighbouring Zhuangzi page here
 - [[Death acceptance]] — the wider attitude this story is used to illustrate
 - [[Impermanence]] — the doctrine of change that frames loss
 - [[Grief's oscillation model]] — a psychological account of grieving that allows both feeling and respite

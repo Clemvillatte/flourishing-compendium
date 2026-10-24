@@ -18,7 +18,7 @@ Stevenson's adult case is Dancer, a miser mocked by his neighbours and Harrow sc
 
 William James quotes the essay at length in Talks to Teachers, just after his own mountain-clearing scene. He calls it "an essay which I really think deserves to become immortal, both for the truth of its matter and the excellence of its form" ([James, Talks to Teachers](https://www.gutenberg.org/cache/epub/16287/pg16287.txt)).
 
-The compendium uses this beside the clearing in P136. The settlers' clearing was ugly to James and meaningful to them. The lantern is invisible to everyone but the bearer, so the blindness is a matter of what an observer cannot know.
+I use this beside the clearing in P136. The settlers' clearing was ugly to James and meaningful to them. The lantern is invisible to everyone but the bearer, so the blindness is a matter of what an observer cannot know.
 
 Limits: Stevenson is looking back on his own childhood, and his view of Dancer is a guess, since the miser left no account of himself. It is also an easy step from "there must be a hidden joy" to excusing real harm. The essay says nothing about how to find out what the hidden lantern is.
 

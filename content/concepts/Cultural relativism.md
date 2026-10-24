@@ -12,11 +12,11 @@ Cultural relativism is the doctrine that "elements of a culture are to be unders
 > "When Darius was king, he summoned the Greeks who were with him and asked them what price would persuade them to eat their fathers' dead bodies. They answered that there was no price for which they would do it. Then he summoned those Indians who are called Callatiae, who eat their parents, and asked them (the Greeks being present and understanding by interpretation what was said) what would make them willing to burn their fathers at death. The Indians cried aloud, that he should not speak of so horrid an act. So firmly rooted are these beliefs; and it is, I think, rightly said in Pindar's poem that use and wont is lord of all." (Herodotus, [Histories 3.38, Godley translation, full PDF](https://dn790000.ca.archive.org/0/items/herodotuswitheng02herouoft/herodotuswitheng02herouoft.pdf))
 
 ### Method, not verdict
-The episode illustrates each group's attachment to its customs. By itself, it does not establish that every practice is equally good. The compendium's use of the concept turns on that gap: SO016 recommends understanding practices in their cultural context while retaining moral criticism, rejecting the stance that would treat all practices as equally good.
+The episode illustrates each group's attachment to its customs. By itself, it does not establish that every practice is equally good. My use of the concept turns on that gap: SO016 recommends understanding practices in their cultural context while retaining moral criticism, rejecting the stance that would treat all practices as equally good.
 
-### In the compendium
+### Here
 
-- [[SO016 — Use cultural relativism methodologically, not morally]] — the compendium's direct use: methodological stance yes, moral endorsement no
+- [[SO016 — Use cultural relativism methodologically, not morally]] — my direct use: methodological stance yes, moral endorsement no
 - [[SO011 — Treat the sociocultural level as plural]] — cultures as plural, with different construals of self and others
 - [[PP061 — Consider the cultural context]] — practices must fit the cultural context in which they are deployed
 - [[SE040 — Recognise identity and culture — your self is culturally shaped]] — what counts as a good self is culturally specific

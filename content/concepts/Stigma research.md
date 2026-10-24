@@ -21,9 +21,9 @@ The review's larger argument joins stigma to status research. In both traditions
 
 > "These parallels make salient that stigma is not only an interpersonal or intrapersonal process but also a macro-level process and raise the possibility of considering stigma as a dimension of social stratification. As such, stigma's impact on health should be scrutinized with the same intensity as that of other more status-based bases of stratification such as SES, race and gender, whose health impacts have been firmly established." (Phelan et al. 2014, [abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4091623/))
 
-### In the compendium
+### Here
 
-- [[D127 — No one is worthless]] cites this research with the note that dehumanization worsens outcomes: the stigmatized person is discounted, and the compendium's principle answers that discounting directly.
+- [[D127 — No one is worthless]] cites this research with the note that dehumanization worsens outcomes: the stigmatized person is discounted, and my principle answers that discounting directly.
 
 ## Related concepts
 

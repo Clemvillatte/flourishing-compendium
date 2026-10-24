@@ -21,7 +21,7 @@ Euphrates says that practising without recognition let him act well for his own 
 (Disc. IV.8; Seneca, Letters 16, 71; Med. I.1, II.1; Musonius Rufus, Lectures.)
 
 **Plain words**
-For the compendium's exercise, choose one idea you have studied and identify a situation in which you want to use it. Afterwards, describe what you did and where your action differed from your intention.
+For my exercise, choose one idea you have studied and identify a situation in which you want to use it. Afterwards, describe what you did and where your action differed from your intention.
 
 *For example:* Imagine a waiter bringing the wrong order. Before speaking, you recall the response you intended to practise and decide how to ask for the correction.
 

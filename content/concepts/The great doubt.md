@@ -15,13 +15,13 @@ In Hakuin's account the doubt builds as the practitioner tackles the difficult-t
 
 > "At the bottom of great doubt lies great enlightenment. . . From a full measure of doubt comes a full measure of enlightenment." (Hakuin, "Some Talks by Hakuin", trans. Norman Waddell, [thezensite](http://www.thezensite.com/ZenTeachings/Teishos/Talks_by_Hakuin.html), quoting a teacher of the past)
 
-The compendium's [[B047 — Keep the great doubt alive]] distinguishes this doubt from corrosive scepticism: not a verdict that the practice is worthless, but the settled unease of a question that cannot be answered and stays.
+My [[B047 — Keep the great doubt alive]] distinguishes this doubt from corrosive scepticism: not a verdict that the practice is worthless, but the settled unease of a question that cannot be answered and stays.
 
 ### What it is not
 
-The great doubt is not general scepticism and not a mood to be induced. The passage above is a teacher's claim, passed on by Hakuin, about what happens inside kōan training under a teacher, and no study is cited for it. On the compendium's cautious reading, it describes a question held with steady attention. It is not a licence to dwell on distress, and a reader who is struggling should treat it as an idea to understand and not as an exercise to start alone.
+The great doubt is not general scepticism and not a mood to be induced. The passage above is a teacher's claim, passed on by Hakuin, about what happens inside kōan training under a teacher, and no study is cited for it. On my cautious reading, it describes a question held with steady attention. It is not a licence to dwell on distress, and a reader who is struggling should treat it as an idea to understand and not as an exercise to start alone.
 
-### In the compendium
+### Here
 
 - [[K009 — Let the doubt become great]] — describes great doubt as a question about your life that you cannot put down, and works to grow it instead of settling it
 - [[B047 — Keep the great doubt alive]] — frames Hakuin's three essentials and treats the doubt as the mechanism by which the seeing is produced

@@ -18,7 +18,7 @@ The famous test was the pen study. Strack, Martin and Stepper had participants h
 
 The later Many Smiles Collaboration study, a "preregistered, multicentre study" with "Data from n = 3,878 participants spanning 19 countries", found that "a facial mimicry and voluntary facial action task could both amplify and initiate feelings of happiness", while "evidence of facial feedback effects was less conclusive when facial feedback was manipulated unobtrusively via a pen-in-mouth task" ([Coles et al. 2022](https://pubmed.ncbi.nlm.nih.gov/36266452/)). The task split matters: mimicry and voluntary facial action supported effects on feelings of happiness, whereas the pen-in-mouth findings were less conclusive. So the honest formulation is the original entry's: evidence mixed, phrase with care.
 
-### In the compendium
+### Here
 
 - [[B191 — Practice the half-smile]] — the practice built on the hypothesis
 - [[BE046 — Learn to use the body to regulate emotion — posture, breath, movement]] — the broader body-first strategy
@@ -28,7 +28,7 @@ The later Many Smiles Collaboration study, a "preregistered, multicentre study" 
 
 - [[Embodiment]] — the research programme the hypothesis belongs to
 - [[Embodied emotion theory]] — the broader claim that body states constitute feeling
-- [[Dive reflex (Linehan, Khalsa)]] — another body-based regulation technique in the compendium
+- [[Dive reflex (Linehan, Khalsa)]] — another body-based regulation technique here
 - [[T032 — Linehan, Marsha]]: the DBT dive-reflex skill the page lists beside facial feedback.
 ## Sources
 

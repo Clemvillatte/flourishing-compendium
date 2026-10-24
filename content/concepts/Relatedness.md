@@ -22,14 +22,14 @@ SDT assigns relatedness a role in motivation. Uninteresting but necessary behavi
 
 Ryan and Deci suggest that feeling respected and cared for supports students' willingness to accept classroom values. They report that Ryan, Stiller and Lynch (1994) found relatedness to teachers and parents was associated with greater internalization of school-related behavioral regulations (ibid., p. 64). Note this reports their account of the 1994 study, not the study itself.
 
-### In the compendium
+### Here
 
-The compendium pairs relatedness with whanaungatanga (R026) and relational autonomy (R077), which keeps connection and self-determination from being framed as opposites.
+I pair relatedness with whanaungatanga (R026) and relational autonomy (R077), which keeps connection and self-determination from being framed as opposites.
 
 ## Related concepts
 
 
-- [[BE049 — Prioritise social connection — it is a basic need and health behaviour]] — the compendium's principle on social connection as a basic need
+- [[BE049 — Prioritise social connection — it is a basic need and health behaviour]] — my principle on social connection as a basic need
 - [[Competence]] — the companion need for felt effectiveness, with its own SDT literature
 - [[Social embeddedness]] — a neighbouring account of how social structure shapes the person
 - [[Social influences on motivation]] — how connection shapes what people want and internalize

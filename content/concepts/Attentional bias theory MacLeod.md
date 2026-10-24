@@ -15,7 +15,7 @@ Attentional bias theory, in Colin MacLeod and Andrew Mathews' account, holds tha
 
 The dot-probe design sidestepped the response-bias problem: subjects made a neutral response, a button press, to a neutral stimulus, a visual dot probe, whose position was manipulated relative to displayed words that were either threat related or neutral in content. Probe detection latencies then indicated the impact of the threat words on the distribution of visual attention. The abstract's interpretation carries the theory's maintenance claim: the results "were interpreted as supporting the existence of anxiety-related encoding bias, and it is suggested that this cognitive mechanism may contribute to the maintenance of such mood disorders". The anxious-but-not-depressed contrast in the same data is what tied the bias to anxiety specifically. Whether the bias causes vulnerability, not merely accompanies it, was settled later by the research program covered on the Attentional bias research page.
 
-### In the compendium
+### Here
 
 - [[AT070 — Recognise anxiety's effect on attention — threat capture]] — Bar-Haim and colleagues' meta-analysis of 172 studies: the bias is reliably demonstrated, effect size d = 0.45, present in anxious but not nonanxious participants.
 - [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] — the same meta-analysis carrying the anxiety-and-depression reading.

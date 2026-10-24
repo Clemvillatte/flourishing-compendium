@@ -19,7 +19,7 @@ The encyclopedia splits the concept along a live divide. On a "communal" concept
 
 Sandel's civic version belongs to the joint-activity family: he "described the civic conception of the common good as a process of reflecting on citizens' preferences and improving them through deliberation with fellow citizens," on which "a civic culture is one that provides spaces that cultivate civic virtue and opportunities to reason together about the kind of political community we want to create" (Sandel 2020: 236, as characterized in [SEP](https://plato.stanford.edu/entries/common-good/)). The common good is not a fixed list of goods on this view; it is the ongoing practice of reasoning about it together.
 
-### In the compendium
+### Here
 
 - [[S030 — Act for the common good]] — the principle that carries the concept
 - [[R107 — Practise the common good]] and [[S038 — Be a good citizen]] — the relational-tradition and civic forms

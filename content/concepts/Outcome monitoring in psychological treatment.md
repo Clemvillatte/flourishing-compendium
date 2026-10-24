@@ -15,7 +15,7 @@ Outcome monitoring, also called routine outcome monitoring or measurement-based 
 
 The same abstract reports 24 studies, of which "two-thirds... found that ROM-assisted psychotherapy was superior to treatment-as-usual offered by the same practitioners," with effect sizes that "ranged from small to moderate." A later meta-analysis by Rognstad and colleagues found a significant overall effect of measurement feedback systems on outcomes (d = 0.14) and a larger one for patients flagged as not on track (d = 0.29), and concluded that these systems "seem to have a small positive effect on treatment outcomes" ([Rognstad et al., 2022, Administration and Policy in Mental Health, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9931854/)). The gain is modest on average and concentrated among clients who are not improving.
 
-### In the compendium
+### Here
 
 The principles listed below cite this page, among them X014 on the therapeutic test of philosophy and BE026 on exposure therapy. The page itself supports only the narrow claim that routine progress feedback improves psychotherapy outcomes on average. It does not show that any specific technique named in those principles works.
 

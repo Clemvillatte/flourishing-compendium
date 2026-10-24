@@ -21,14 +21,14 @@ The point is not inaction. Suzuki is explicit that the practice still does somet
 
 The chapter's summary line: "The most important thing is to forget all gaining ideas, all dualistic ideas."
 
-### In the compendium
+### Here
 
 - [[B178 — Practice without gaining ideas]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Beginner's mind]] — the compendium's page on beginner's mind
-- [[Non-striving]] — the compendium's page on non-striving
+- [[Beginner's mind]] — my page on beginner's mind
+- [[Non-striving]] — my page on non-striving
 
 ## Sources
 

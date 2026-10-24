@@ -14,7 +14,7 @@ Write about an emotional experience for 15 to 20 minutes, three to four days in 
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the dosage and duration are the standard expressive-writing paradigm.*
+*Steps are my own protocol; the dosage and duration are the standard expressive-writing paradigm.*
 
 1. Choose one emotionally significant experience; write about it for 15 to 20 minutes on three or four consecutive days.
 2. Write the deepest thoughts and feelings about it, without regard to grammar, spelling, or sentence structure.

@@ -35,7 +35,7 @@ He argued philosophy is best pursued in real conversation rather than only throu
 - **The Meditations as a kept notebook** — the repetitions are not morbidity but the work of a man "trying to do what, in the last analysis, we are all trying to do: to live in complete consciousness and lucidity, to give to each of our instants its full intensity, and to give meaning to our entire life" ([IEP, Pierre Hadot](https://iep.utm.edu/hadot/)). See [[B192 — Begin the day with intention; end it with review|Begin the day with intention; end it with review]], [[D054 — Practice daily — small consistent effort compounds|Practice daily: small consistent effort compounds]].
 - **Attention, or vigilance** — *prosoche*, the constant practice of attention that heads the exercise list ([IEP, Pierre Hadot](https://iep.utm.edu/hadot/)). See [[Spiritual vigilance]], [[B017 — Practice heedfulness (appamada)|Practice heedfulness (appamada)]], [[Technologies of the self]].
 
-## Everything connected in the wiki — the philosophy-as-practice tradition
+## Everything connected here — the philosophy-as-practice tradition
 
 Kept to the pages that carry or substantively apply Hadot's scholarship: the spiritual-exercise concepts and the practice principles they organize.
 

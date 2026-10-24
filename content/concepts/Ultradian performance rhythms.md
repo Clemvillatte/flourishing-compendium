@@ -7,7 +7,7 @@ file: "Ultradian performance rhythms"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-U"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter U", "parent": ""}
 ---
-Ultradian performance rhythms are the roughly 90-minute oscillations in alertness and cognitive capacity that continue through the waking day. The compendium holds them for two reasons: attention is not a steady resource, and the day's troughs are rest, not waste.
+Ultradian performance rhythms are the roughly 90-minute oscillations in alertness and cognitive capacity that continue through the waking day. I hold them for two reasons: attention is not a steady resource, and the day's troughs are rest, not waste.
 
 ### The Kleitman hypothesis
 
@@ -21,7 +21,7 @@ The APA Dictionary defines the BRAC as "cyclic alternations between neurophysiol
 
 ### What the rhythm does to performance
 
-The cycle's structure — a high-performance phase followed by a 15-20 minute recovery trough — is why the compendium treats working in blocks as a practice rather than a productivity tip. The evidence base is the REM-NREM sleep literature: the 90-minute periodicity in sleep is well established, and the waking manifestation is what Kleitman predicted, a daytime oscillation in alertness ([Lavie, "Ultradian Cycles in Sleep Propensity," Springer](https://link.springer.com/chapter/10.1007/978-1-4471-1969-2_13)). A candid note: the waking BRAC remains harder to measure than the sleeping one, and reviewers describe Kleitman as "somewhat vague about the properties of the BRAC" ([same](https://link.springer.com/chapter/10.1007/978-1-4471-1969-2_13)). The page's advice follows the oscillation, not a stopwatch.
+The cycle's structure — a high-performance phase followed by a 15-20 minute recovery trough — is why I treat working in blocks as a practice rather than a productivity tip. The evidence base is the REM-NREM sleep literature: the 90-minute periodicity in sleep is well established, and the waking manifestation is what Kleitman predicted, a daytime oscillation in alertness ([Lavie, "Ultradian Cycles in Sleep Propensity," Springer](https://link.springer.com/chapter/10.1007/978-1-4471-1969-2_13)). A candid note: the waking BRAC remains harder to measure than the sleeping one, and reviewers describe Kleitman as "somewhat vague about the properties of the BRAC" ([same](https://link.springer.com/chapter/10.1007/978-1-4471-1969-2_13)). The page's advice follows the oscillation, not a stopwatch.
 
 ## Related concepts
 

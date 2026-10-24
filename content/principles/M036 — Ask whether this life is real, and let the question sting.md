@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 36** — Ask whether this life is real, and let the question sting
 
-The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only rise from sleep, we come only to dream, it is ahnelli [unrooted, inauthentic, untrue], it is ahnelli that we come on earth to live" (trans. León-Portilla, 1992, p. 153, in Maffie, "Pre-Columbian Philosophies", Companion excerpt). Maffie's reading: Nahua philosophers "conceived the dreamlike illusoriness of earthly existence in epistemological – not ontological – terms" — the ordinary human condition is to misperceive, "not the Platonic-style metaphysical point that earthly existence is ontologically substandard." The exercise below is the compendium's adaptation of the question.
+The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only rise from sleep, we come only to dream, it is ahnelli [unrooted, inauthentic, untrue], it is ahnelli that we come on earth to live" (trans. León-Portilla, 1992, p. 153, in Maffie, "Pre-Columbian Philosophies", Companion excerpt). Maffie's reading: Nahua philosophers "conceived the dreamlike illusoriness of earthly existence in epistemological – not ontological – terms" — the ordinary human condition is to misperceive, "not the Platonic-style metaphysical point that earthly existence is ontologically substandard." The exercise below is my adaptation of the question.
 
 **Plain words**
 The songs say we come only to dream; Maffie reads the dreamlikeness as a fact about human perception, not about the world's reality. The exercise below is this compendium's adaptation: hold the question once in a while and let it re-price your hours.
@@ -34,7 +34,7 @@ The songs say we come only to dream; Maffie reads the dreamlikeness as a fact ab
 
 ## Practice
 
-- Once per week, hold the question sincerely for one minute ("what if this is the only waking?") and let it re-price what the week is for. (This exercise is the compendium's adaptation, not an attested Nahua practice.)
+- Once per week, hold the question sincerely for one minute ("what if this is the only waking?") and let it re-price what the week is for. (This exercise is my adaptation, not an attested Nahua practice.)
 
 ## Related concepts
 

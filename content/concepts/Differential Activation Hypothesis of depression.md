@@ -21,7 +21,7 @@ The hypothesis explains a vulnerability rather than a symptom, and it drove a tr
 
 Cognition · Psychological science
 
-### In the compendium
+### Here
 
 - [[BE013 — Learn behavioural activation — do it even when you do not feel like it]] — scheduling valued activities and following the plan rather than the feeling
 - [[AF036 — Learn to regulate through action — affect follows behaviour]] — acting by plan when mood says wait

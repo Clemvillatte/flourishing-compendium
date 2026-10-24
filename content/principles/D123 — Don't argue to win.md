@@ -21,7 +21,7 @@ The second chapter of the Zhuangzi describes the arguing mind in terms of decay.
 >
 > (Zhuangzi 2, Legge)
 
-The chapter's diagnosis of the contending schools is structural: "the one side affirming what the other denies, and vice versa". The sagely man "does not pursue this method, but views things in the light of (his) Heaven (-ly nature)". The compendium applies this warning by asking readers to examine their own position during a disagreement.
+The chapter's diagnosis of the contending schools is structural: "the one side affirming what the other denies, and vice versa". The sagely man "does not pursue this method, but views things in the light of (his) Heaven (-ly nature)". I applie this warning by asking readers to examine their own position during a disagreement.
 
 (Zhuangzi 2.)
 

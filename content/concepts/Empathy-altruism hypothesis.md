@@ -22,7 +22,7 @@ The method was to propose self-interested alternatives and test them against it.
 
 These are the abstracts of laboratory studies from one research programme, and each tests a specific egoistic rival. They show that those particular rivals fit the data poorly. They do not prove that no self-interested explanation could ever account for helping, and the 1988 abstract itself speaks only of evidence that "continues to mount". Batson's later book-length synthesis is not summarised here, and the page rests on journal abstracts.
 
-### In the compendium
+### Here
 
 - [[R068 — Practise motivational displacement]] sets Noddings's account of the carer's motive shifting toward the other beside Batson's work. The principle itself notes that Noddings offers a philosophical description of carers' experience and not an experimental result.
 

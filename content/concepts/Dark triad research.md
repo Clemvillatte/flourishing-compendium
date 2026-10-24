@@ -19,7 +19,7 @@ They also raise two cautions. They "question whether dark triad traits are suffi
 
 Both abstracts concern what the traits are and how they are measured and how they correlate. They do not describe a link between the Dark Triad and intelligence, and the 2002 article that first named the grouping (Paulhus and Williams) is not summarised here because its abstract was not available for checking.
 
-### In the compendium
+### Here
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom]] uses Aristotle's cleverness, the skill of finding means to any goal, whether the goal is good or bad. The Dark Triad literature does not test that distinction, so the two are linked by theme: cleverness serving a bad aim is, in Aristotle's words, "mere smartness".
 

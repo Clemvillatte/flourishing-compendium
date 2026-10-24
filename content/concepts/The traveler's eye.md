@@ -15,13 +15,13 @@ The traveler's eye is the outsider's way of seeing that Montesquieu built into t
 
 ### The reversal
 
-On the compendium's reading, the letter's turn is the device in miniature. Rica changes out of his Persian dress to see what remains of the fascination, and the attention vanishes with the clothes:
+On my reading, the letter's turn is the device in miniature. Rica changes out of his Persian dress to see what remains of the fascination, and the attention vanishes with the clothes:
 
 > "I sank immediately into the merest nonentity. Sometimes I would be as much as an hour in a given company, without attracting the least notice, or having an opportunity given me to speak; but, if any one chanced to inform the company that I was a Persian I soon overheard a murmur all round me, \"Oh! ah! A Persian, is he? Most amazing! However can anybody be a Persian?\"" (Rica, Letter 30, [Davidson trans., Wikisource](https://en.wikisource.org/wiki/Persian_Letters/Letter_30))
 
 The Parisians stare at the foreigner and cannot imagine being him. The satire cuts both ways: the letter laughs at Parisian curiosity, and at the ease with which anyone mistakes costume for person. The traveler's eye is the reader's reward; the letter shows the insiders unable to perform the same operation on themselves once.
 
-### In the compendium
+### Here
 
 - [[M008 — Use the middle as a vantage point]] — the principle cites the device as the literary parallel to nepantla: the in-between position sees what insiders on both sides take for granted, and the Persian letters are the position dramatised.
 

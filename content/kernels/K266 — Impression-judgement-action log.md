@@ -18,7 +18,7 @@ Epictetus, chapter five of the Enchiridion:
 
 > "Men are disturbed not by things, but by the views which they take of things. Thus death is nothing terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death, that it is terrible. When, therefore, we are hindered or disturbed, or grieved, let us never impute it to others, but to ourselves—that is, to our own views." — [Epictetus, Enchiridion V, Higginson translation (Project Gutenberg 45109)](https://www.gutenberg.org/cache/epub/45109/pg45109.txt)
 
-The three-column form is the compendium's editorial tool for making that gap visible on paper.
+The three-column form is my editorial tool for making that gap visible on paper.
 
 ### Protocol
 

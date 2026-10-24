@@ -32,7 +32,7 @@ For a cognitive correlate, a Stanford study compared chronic heavy and light med
 
 The abstract adds the task-switching result: heavy multitaskers "performed worse on a test of task-switching ability, likely due to reduced ability to filter out interference from the irrelevant task set". The study compares people by a media-multitasking index and reports associations; it does not test specific apps.
 
-The compendium's exercise from these two sources: when using an app, notice which parts carry the two patterns (a reward arriving at unpredictable times; a stream with no natural end), and decide before opening the app what you came to do.
+My exercise from these two sources: when using an app, notice which parts carry the two patterns (a reward arriving at unpredictable times; a stream with no natural end), and decide before opening the app what you came to do.
 
 **Plain words**
 Two things keep you in an app longer than the reason you opened it. The first is the chance of a small surprise: a like, a message, something new, arriving at a time you cannot predict. The second is the absence of an end: the feed does not finish, so nothing tells you it is time to stop. Knowing both, you can supply what the design leaves out: pick the thing you came to do, and set an end for the session.

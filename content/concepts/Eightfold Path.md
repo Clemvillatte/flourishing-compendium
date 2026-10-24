@@ -11,11 +11,11 @@ The Noble Eightfold Path (Pali ariya aṭṭhaṅgika magga) is the fourth Noble
 
 > "And this, monks, is the noble truth of the way of practice leading to the cessation of stress: precisely this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration." (SN 56.11, [Thanissaro translation, dhammatalks.org](https://www.dhammatalks.org/suttas/SN/SN56_11.html))
 
-Thanissaro's "right resolve" is the factor other translations render "right intention". The eight factors as the compendium names them: [[Right view|right view]], [[Right intention|right intention]], right speech, right action, right livelihood, [[Right effort|right effort]], right mindfulness, and right concentration. "Right" (sammā) does not mean morally correct so much as complete or whole: each factor is a skill to be developed, not a rule to be obeyed.
+Thanissaro's "right resolve" is the factor other translations render "right intention". The eight factors as I name them: [[Right view|right view]], [[Right intention|right intention]], right speech, right action, right livelihood, [[Right effort|right effort]], right mindfulness, and right concentration. "Right" (sammā) does not mean morally correct so much as complete or whole: each factor is a skill to be developed, not a rule to be obeyed.
 
 ### The three trainings
 
-The path is traditionally grouped into three trainings: wisdom (view and intention), ethics (speech, action, livelihood), and concentration (effort, mindfulness, concentration). The compendium's reading is that the eight factors are not a sequence to complete but a set to hold together: view guides action, action steadies concentration, concentration clarifies view. The [[Gradual training|gradual training]] is the same path paced for an ordinary life.
+The path is traditionally grouped into three trainings: wisdom (view and intention), ethics (speech, action, livelihood), and concentration (effort, mindfulness, concentration). My reading is that the eight factors are not a sequence to complete but a set to hold together: view guides action, action steadies concentration, concentration clarifies view. The [[Gradual training|gradual training]] is the same path paced for an ordinary life.
 
 ### The family of curricula
 
@@ -25,7 +25,7 @@ The Eightfold Path is the Buddhist member of a family of structured disciplines 
 
 A week that holds all three trainings lightly: one conversation examined for view, one act checked against non-harm, ten minutes of settled attention. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[B020 — Train ethics, concentration, and wisdom together (the threefold training)]] — the three-trainings grouping
 - [[B029 — Follow the gradual training]] — the path paced for ordinary life

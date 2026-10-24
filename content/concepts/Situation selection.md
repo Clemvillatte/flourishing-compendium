@@ -25,9 +25,9 @@ Situation selection is not avoidance as a way of coping. Declining a situation t
 
 A study session planned for a room where the phone is not. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
-- [[K178 — Situation selection]] — the compendium's kernel for it
+- [[K178 — Situation selection]] — my kernel for it
 - [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]] — its emotion-regulation sibling
 - [[Right effort]] — a contemplative cousin, the Buddhist discipline of effort
 - [[Wu wei]] — a Daoist cousin, acting without forcing

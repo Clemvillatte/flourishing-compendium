@@ -7,7 +7,7 @@ file: "The many selves"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The compendium's heading "the many selves" is illustrated here by William James's account of social selves in chapter X, "The Consciousness of Self," of The Principles of Psychology.
+My heading "the many selves" is illustrated here by William James's account of social selves in chapter X, "The Consciousness of Self," of The Principles of Psychology.
 
 ### James's ground
 
@@ -21,7 +21,7 @@ The individuals fall into classes, and so do the selves:
 
 James distinguishes a discordant division of social life from one he describes as "a perfectly harmonious division of labor": it "may be a discordant splitting, as where one is afraid to let one set of his acquaintances know him as he is elsewhere; or it may be a perfectly harmonious division of labor, as where one tender to his children is stern to the soldiers or prisoners under his command" (same work).
 
-### In the compendium
+### Here
 
 - [[P062 — Expect multiple selves — and coordinate them]]
 - [[SE008 — Recognise that the self is not unitary — you have multiple self-aspects]]

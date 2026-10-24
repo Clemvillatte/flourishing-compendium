@@ -24,7 +24,7 @@ The founding observation was a dissociation: the patients had "normal intellect"
 
 A gut sense of "don't take that deal" that arrives before any conscious accounting of its terms is what the hypothesis says a marker does: a body-based signal that frames the option before reasoning finishes. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[CO067 — Recognise the role of emotion in reasoning — feeling is information for thinking]] — the principle that carries this research: feeling is not noise in reasoning but part of its machinery
 

@@ -16,7 +16,7 @@ Ainsworth's original description, from Infancy in Uganda (1967), gives the pictu
 
 Bowlby's late formulation widens the scope to the whole of life: all of us, from the cradle to the grave, are happiest when life is organised as a series of excursions, long or short, from the secure base provided by our attachment figures (Bowlby, 1988, quoted in the attachment literature). Adult versions of the base need less physical proximity and more psychological availability: the felt confidence that the figure is there and responsive.
 
-### In the compendium
+### Here
 
 - [[B194 — Be your own island (attadipa)]]
 - [[SE048 — Learn secure-base behaviour — be a safe place for yourself and others]]

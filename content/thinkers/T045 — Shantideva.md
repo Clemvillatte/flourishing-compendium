@@ -27,18 +27,18 @@ The training is graded and practical. First the mind is bound: "Those who wish t
 
 - **Guarding the mind** — all discipline hangs on watchfulness over the mind. See [[K006 — Guard the mind as the root of everything downstream|Guard the mind as the root of everything downstream]].
 - **Patience as a trained capacity** — a full chapter of the poem, the perfection of *kṣānti*, which "strongly criticizes anger" ([Wikipedia, Bodhisattvacaryāvatāra](https://en.wikipedia.org/wiki/Bodhicaryavatara)). See [[B104 — Practice patience (kshanti)|Practice patience (kshanti)]], [[B106 — Blame conditions, not persons|Blame conditions, not persons]], [[K039 — Treat the enemy as the teacher of patience|Treat the enemy as the teacher of patience]].
-- **Exchanging self and other** — see the wiki's contemplative series on the exchange. See [[K046 — Practice the exchange deliberately, as a skill|Practice the exchange deliberately, as a skill]], [[K045 — Understand self-cherishing as the root error|Understand self-cherishing as the root error]].
+- **Exchanging self and other** — see my contemplative series on the exchange. See [[K046 — Practice the exchange deliberately, as a skill|Practice the exchange deliberately, as a skill]], [[K045 — Understand self-cherishing as the root error|Understand self-cherishing as the root error]].
 - **Bodhicitta and the vow** — the awakening mind, the poem's organizing wish for enlightenment for others. See [[Bodhicitta]], [[B155 — Take the vow — commit beyond your comfort|Take the vow: commit beyond your comfort]], [[The bodhisattva vow]].
-- **Joy in others' happiness** — see the wiki's pages on rejoicing practice. See [[B101 — Rejoice in others' happiness (mudita as practice)|Rejoice in others' happiness (mudita as practice)]].
+- **Joy in others' happiness** — see my pages on rejoicing practice. See [[B101 — Rejoice in others' happiness (mudita as practice)|Rejoice in others' happiness (mudita as practice)]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Bodhicitta]]
 - [[K006 — Guard the mind as the root of everything downstream|Guard the mind as the root of everything downstream]]
 - [[B104 — Practice patience (kshanti)|Practice patience (kshanti)]]
 - [[The bodhisattva vow]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 41-entry surname-match floor is not reproduced.
 

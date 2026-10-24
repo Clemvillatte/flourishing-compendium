@@ -39,4 +39,4 @@ Choose three clauses from the list and give each a week. Week one, the first lin
 ## Philosophy parallels
 
 - **[[The great poem of the body|The great poem of the body]]** (Whitman's own claim)
-- **[[The whole tradition's turn: re-examine everything|The whole tradition's turn: re-examine everything]]** (the re-examination command as the epilogue's and the compendium's final note)
+- **[[The whole tradition's turn: re-examine everything|The whole tradition's turn: re-examine everything]]** (the re-examination command as the epilogue's and my final note)

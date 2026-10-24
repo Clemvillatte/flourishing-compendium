@@ -29,7 +29,7 @@ The Stanford Encyclopedia notes a second limit: because narratives have endings,
 
 Both quotations come from encyclopedia accounts of Ricoeur, and the volumes of Time and Narrative were not read. The IEP traces the concept to Aristotle's Poetics. Whether retelling a life story helps well-being in practice is an empirical question that these sources do not address.
 
-### In the compendium
+### Here
 
 - [[E084 — Practise emplotment]] draws on the same two encyclopedia entries and applies the idea as a practice of making sense of one's own events.
 

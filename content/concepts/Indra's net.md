@@ -17,7 +17,7 @@ The point is the reflections, not the jewelry: each thing exists and is what it 
 
 Fazang (643-712), the third patriarch and the school's great systematizer, illustrated "one is all and all is one" with the relationship between a rafter and the building it is part of. He also made the doctrine tangible for lay audiences with devices such as mirror halls.
 
-### In the compendium
+### Here
 
 - [[K018 — Take interpenetration literally]] — uses Indra's net to ground its claim that things are themselves only through their relations
 

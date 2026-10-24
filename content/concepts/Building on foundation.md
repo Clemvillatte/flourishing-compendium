@@ -17,7 +17,7 @@ Building on foundation is the page label for Aristotle's account of how virtue i
 
 The passage's surrounding claim is that "we are adapted by nature to receive them, and are made perfect by habit". The foundation is the exercised capacity itself, the same structure Aristotle gives the arts.
 
-### In the compendium
+### Here
 
 - [[MO035 — Understand that habits are the foundation of sustainable motivation]]
 - [[MO037 — Learn to stack habits — link new behaviours to existing ones]]

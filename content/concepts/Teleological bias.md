@@ -21,15 +21,15 @@ The CORE review states that the hypothesis "faces a number of difficulties" desp
 
 ### Scope
 
-Kelemen's experiments concern explanations of natural phenomena, not whether people read purpose into events in their own lives. The compendium's principle on reading purposes into events applies the idea to that second domain. The same review also covers the belief that things happen for a reason. The compendium's note cites Kelemen 2004, which was not consulted, so the sources here are Kelemen and Rosset 2009 and secondary reviews.
+Kelemen's experiments concern explanations of natural phenomena, not whether people read purpose into events in their own lives. My principle on reading purposes into events applies the idea to that second domain. The same review also covers the belief that things happen for a reason. My note cites Kelemen 2004, which was not consulted, so the sources here are Kelemen and Rosset 2009 and secondary reviews.
 
-### In the compendium
+### Here
 
 - [[SP004 — Stop reading purposes into events]] lists this concept with the Kelemen citation.
 
 ## Related concepts
 
-- [[Hindsight bias]] — the compendium's page on hindsight bias
+- [[Hindsight bias]] — my page on hindsight bias
 - [[Confirmation bias]] — the fellow pattern: evidence bent to the preferred purpose
 - [[Intentionality]] — the directedness the bias over-reads into events
 

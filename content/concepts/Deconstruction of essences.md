@@ -23,9 +23,9 @@ The entry links the analysis to practice: "Realization of the non-existence of s
 
 ### Scope
 
-The compendium's earlier note credits Garfield's Engaging Buddhism. That book was not consulted for this page, so the attribution is unchecked, and the account here rests on the Stanford entry by Westerhoff. The compendium's phrase "nothing has a fixed essence" is looser than that entry: the target is substance and independent existence, and essence in the narrow sense is not the main one.
+My earlier note credits Garfield's Engaging Buddhism. That book was not consulted for this page, so the attribution is unchecked, and the account here rests on the Stanford entry by Westerhoff. My phrase "nothing has a fixed essence" is looser than that entry: the target is substance and independent existence, and essence in the narrow sense is not the main one.
 
-### In the compendium
+### Here
 
 - [[B010 — See emptiness — nothing has a fixed essence (shunyata)]] links this concept. Its title uses "essence", which the Stanford entry says needs the qualification above.
 

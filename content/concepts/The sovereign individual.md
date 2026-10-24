@@ -21,13 +21,13 @@ The Second Essay opens with the question (section 1):
 
 The sovereign individual is what this breeding task is for. Section 2 calls what precedes him "the long history of the origin of responsibility", built on what the text names "an actual memory of the will". His word can be relied on because his will is his own.
 
-### In the compendium
+### Here
 
 - [[MO015 — Cultivate autonomy — motivation requires choice]] — the principle takes the sovereign-individual reading of autonomy and works it into a practice of choice.
 
 ## Related concepts
 
-- [[Autonomy]] — the compendium's modern-psychology pairing for the same ideal.
+- [[Autonomy]] — my modern-psychology pairing for the same ideal.
 - [[Master-slave dialectic]] — Hegel's account of self-consciousness meeting another consciousness; a contrast with the individual who "resembles only himself".
 
 ## Sources

@@ -13,9 +13,9 @@ The analysis of experience into elements is the practice of taking lived experie
 
 ### What the analysis yields
 
-Smith's entry describes the first key result: "each act of consciousness is a consciousness of something, that is, intentional, or directed toward something". The observation fixes the unit of analysis: not experience in bulk, but individual acts, each with a direction that can be examined. The Buddhist parallel works the same direction on a different map: [[B120 — Experience is five streams (the aggregates)]] analyzes experience into streams rather than acts. The compendium's principles use the practice on ordinary states, decomposing a mood or a thought pattern into parts that can be named and examined separately.
+Smith's entry describes the first key result: "each act of consciousness is a consciousness of something, that is, intentional, or directed toward something". The observation fixes the unit of analysis: not experience in bulk, but individual acts, each with a direction that can be examined. The Buddhist parallel works the same direction on a different map: [[B120 — Experience is five streams (the aggregates)]] analyzes experience into streams rather than acts. My principles use the practice on ordinary states, decomposing a mood or a thought pattern into parts that can be named and examined separately.
 
-### In the compendium
+### Here
 
 - [[CO002 — Recognise the two systems (or modes) of thinking — fast intuition and slow analysis]]
 - [[M006 — Name your in-between states]]

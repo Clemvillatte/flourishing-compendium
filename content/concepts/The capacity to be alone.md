@@ -15,7 +15,7 @@ The theory's strangest and most durable claim is that this capacity is built fro
 
 The mature version of the capacity rests on the internal object: it "depends on the existence of a good object in the psychic reality of the individual," with internal relationships "well enough set up and defended for the individual (at any rate for the time being) to feel confident about the present and the future" ([Winnicott 1958](https://ia800407.us.archive.org/10/items/winnicott-capacity-to-be-alone/winnicott-capacity-to-be-alone_text.pdf)). What looks like needing no one is, on this account, the residue of having had someone.
 
-### In the compendium
+### Here
 
 - [[B173 — Be alone well]] — the practice the capacity names
 - [[SE058 — Recognise self and solitude — the self needs alone time]] — the everyday acknowledgment

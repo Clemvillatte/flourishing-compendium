@@ -17,7 +17,7 @@ Three passages set ren's edges. Asked to define it, Confucius says "it is to lov
 
 The bar is high. Confucius grants it to his best student alone, and only provisionally: "Such was Hui that for three months there would be nothing in his mind contrary to perfect virtue. The others may attain to this on some days or in some months, but nothing more" (6.7). The IEP adds D. C. Lau's distinction that ren is "an attribute of agents, while yi...is an attribute of actions," and that the junzi manifests ren "in his person" (4.5). Mencius later read human nature as congenitally disposed toward ren and cultivated through li, an interpretation the entry notes goes beyond what Confucius himself said.
 
-### In the compendium
+### Here
 
 R051 "Practise ren (humanity/benevolence)" makes ren the supreme Confucian virtue, the root the others grow from, citing the Analects, Mencius 2A6 and the Doctrine of the Mean. S085's kindness and A018's philia friendliness are its Greek cousins; AF065's compassion and AT051's loving-kindness meditation give it a modern practice. The Ubuntu pairing marks the cross-tradition resonance: personhood constituted through relation.
 

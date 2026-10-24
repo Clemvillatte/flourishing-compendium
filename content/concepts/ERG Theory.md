@@ -18,9 +18,9 @@ The back-and-forth has a name: frustration-regression. "When needs are not satis
 
 Two asymmetries mark the theory's edges. "Failure to fulfill existence needs leads to greater existence needs": without food, the need for food grows. But "fulfillment of growth needs leads to greater growth needs": writing a good book increases the need to develop further. Growth is the one appetite that grows by being fed.
 
-### In the compendium
+### Here
 
-The compendium pairs the theory with principles across the Daoist track (D001 onward), all keeping material needs light and practice steady. D032, "Treasure 2 — frugality (jian)," holds existence needs small on purpose; D054, "Practice daily — small consistent effort compounds," treats growth as trainable; D037, "Empty the heart-mind (xuxin)," quiets the demand side of all three. Read this way, ERG supplies the motivation-science gloss for the compendium's claim that growth does not wait on comfort. The pairing is thematic; the principle texts do not cite Alderfer, and the long backlink list is flagged as a likely data artifact.
+I pair the theory with principles across the Daoist track (D001 onward), all keeping material needs light and practice steady. D032, "Treasure 2 — frugality (jian)," holds existence needs small on purpose; D054, "Practice daily — small consistent effort compounds," treats growth as trainable; D037, "Empty the heart-mind (xuxin)," quiets the demand side of all three. Read this way, ERG supplies the motivation-science gloss for my claim that growth does not wait on comfort. The pairing is thematic; the principle texts do not cite Alderfer, and the long backlink list is flagged as a likely data artifact.
 
 The theory's quietest gift to a flourishing project is that second asymmetry: the one need whose satisfaction expands the capacity for it.
 

@@ -22,7 +22,7 @@ A 1968 report co-authored by Guilford distinguishes divergent and convergent pro
 
 The same report defines the counterpart, verbatim: "While divergent production enters into the process of solving many problems, some problems, having uniquely correct or agreed-upon solutions, are not efficiently solved by a divergent strategy. The problem solver must converge directly upon the solution. The process of retrieving and perhaps synthesizing a correct solution in terms of task specification is called convergent production."
 
-**Plain words** The compendium's exercise: choose a problem and write several possible responses. Then compare them against a criterion you chose for the task. Try separate passes without assuming that generation and judgment must never overlap.
+**Plain words** My exercise: choose a problem and write several possible responses. Then compare them against a criterion you chose for the task. Try separate passes without assuming that generation and judgment must never overlap.
 
 *For example:* Suppose you need an ending for a story. List three options. On a second pass, ask which best fits the character's motives and revise that one.
 

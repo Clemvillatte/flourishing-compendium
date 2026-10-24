@@ -15,7 +15,7 @@ Everyday creative activities are the ordinary acts of making things, such as cra
 
 The sample was 658 young adults keeping a 13-day daily diary, reporting each day how much time they spent on creative activities, their daily positive and negative affect, and their daily flourishing. The cross-day effect ran from making to feeling, not the reverse; the study is observational, so it links the two without showing that assigning creative homework would lift anyone's flourishing.
 
-### In the compendium
+### Here
 
 - [[P111 — Do art as experience, not as object]]
 - [[A035 — Cultivate art and craft (techne)]]

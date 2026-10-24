@@ -23,7 +23,7 @@ Watson and Strayer (2010) tested 200 people on driving combined with a demanding
 
 The seed wording, that capacity "splits across concurrent tasks" and that performance falls when tasks compete "for the same codes", fits the resource-sharing account. The Wickens abstract mentions four dimensions without listing them, and Pashler's bottleneck evidence points to a different mechanism. The page therefore presents two accounts and leaves open which one applies to a given everyday task. All three abstracts concern laboratory or simulator tasks, not meditation or daily life.
 
-### In the compendium
+### Here
 
 - [[D071 — Practice undivided attention]] lists attention residue and media multitasking among its psychology parallels and does not cite these papers. The link is the shared concern with what splitting attention costs.
 

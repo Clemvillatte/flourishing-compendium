@@ -18,7 +18,7 @@ The chemist Ilya Prigogine studied systems driven far from equilibrium. His find
 
 The order is inseparable from the flow. Prigogine lists three linked aspects of such structures: "the function as expressed by the chemical equations, the space-time structure, which results from the instabilities, and the fluctuations, which trigger the instabilities". Take away the driving flow and the pattern goes with it.
 
-The compendium's application extends the picture from chemistry to a life: routines, relationships and roles may work like flow-maintained patterns, holding their shape because activity keeps passing through them. If such a pattern weakens, the question to ask is what flow it depended on and what could replace it.
+My application extends the picture from chemistry to a life: routines, relationships and roles may work like flow-maintained patterns, holding their shape because activity keeps passing through them. If such a pattern weakens, the question to ask is what flow it depended on and what could replace it.
 
 ### Plain words
 
@@ -26,7 +26,7 @@ A rock keeps its shape by sitting still. A whirlpool keeps its shape only while 
 
 ### For example
 
-Imagine a person whose weekly football game carries their fitness, three friendships and a Saturday shape. An injury cancels the games for a month, and the pattern thins out: less exercise, fewer calls, empty Saturdays. The compendium's exercise: list the flows one of your routines depends on, and pick one that could be rerouted if the routine stops.
+Imagine a person whose weekly football game carries their fitness, three friendships and a Saturday shape. An injury cancels the games for a month, and the pattern thins out: less exercise, fewer calls, empty Saturdays. My exercise: list the flows one of your routines depends on, and pick one that could be rerouted if the routine stops.
 
 ## Sources
 

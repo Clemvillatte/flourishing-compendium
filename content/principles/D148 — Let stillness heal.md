@@ -26,7 +26,7 @@ The same verse closes on the condition the principle names:
 > "If you are tranquil then you will attain it
 > If you are agitated then you will lose it." (Neiye XXV, [Roth, Inward Training](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
 
-And the chapter names the cost of the opposite: "Worry and grief generate illness" (Neiye XX). These passages express the Neiye's account of vitality and tranquillity; they do not establish that stillness cures a particular condition or guarantees recovery. The compendium keeps the old caveat: stillness is a complement to care, and persistent exhaustion still needs a doctor's assessment.
+And the chapter names the cost of the opposite: "Worry and grief generate illness" (Neiye XX). These passages express the Neiye's account of vitality and tranquillity; they do not establish that stillness cures a particular condition or guarantees recovery. I keep the old caveat: stillness is a complement to care, and persistent exhaustion still needs a doctor's assessment.
 
 (Neiye.)
 

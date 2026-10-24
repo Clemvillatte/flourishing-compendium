@@ -15,7 +15,7 @@ Cognitive defusion is the ACT practice of seeing thoughts as thoughts, mental ev
 
 ### The mechanism
 
-On the compendium's reading, language fuses with experience by default: the word "failure" is the experience until attention steps back. Defusion inserts the gap by noticing the thought as a thought, without disputing it, often by thanking the mind, singing it, or labelling the process ("there's the catastrophising again").
+On my reading, language fuses with experience by default: the word "failure" is the experience until attention steps back. Defusion inserts the gap by noticing the thought as a thought, without disputing it, often by thanking the mind, singing it, or labelling the process ("there's the catastrophising again").
 
 ### Not reappraisal
 
@@ -27,7 +27,7 @@ The same sentence written twice on a card, "I am worthless" and "I am having the
 
 The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are the Buddhist and ACT accounts of the observing perspective defusion trains, and [[Right concentration]] is the practice through which thoughts are watched arising and passing without being followed.
 
-### In the compendium
+### Here
 
 - [[S045 — Examine every impression]] — the Stoic separation of impression from judgement
 - [[S047 — See impressions as what they are — appearances, not realities]] — impressions as appearances

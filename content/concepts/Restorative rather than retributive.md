@@ -23,7 +23,7 @@ A Canadian meta-analysis of the field spells out the premise and its consequence
 
 The orientation has an affinity with the ethics of care. Carol Gilligan summarises that ethic in a later retrospective: "Care is a relational ethic, grounded in a premise of interdependence." Her later work places the care orientation beside the justice orientation rather than against it: the injunction not to oppress, she writes, "lives side by side with the moral injunction to not abandon, to not act carelessly or neglect people who need help, meaning everyone including oneself" ([Center for Hellenic Studies](https://archive.chs.harvard.edu/CHS/article/display/4025)).
 
-### In the compendium
+### Here
 
 - [[A097 — Practise corrective justice]] — the principle that carries the correction
 

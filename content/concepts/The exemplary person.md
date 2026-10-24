@@ -19,11 +19,11 @@ And through what the person carries with them everywhere:
 
 > "Not even whilst he eats his meal will the 'superior man' forget what he owes to his fellow-men. Even in hurried leave-takings, even in moments of frantic confusion, he keeps true to this virtue." (same work)
 
-The same stretch of the text adds the social corollary: "Virtue dwells not alone: she must have neighbors." The exemplary person is not a solitary perfectionist; the practice is always owed to others. The scenes are small ones, and the smallness is the method: an archery match, a meal, a hurried departure. The compendium's reading is that virtue shows in the handling of forfeits and leave-takings before it shows in anything grand, which is what makes the figure imitable rather than remote.
+The same stretch of the text adds the social corollary: "Virtue dwells not alone: she must have neighbors." The exemplary person is not a solitary perfectionist; the practice is always owed to others. The scenes are small ones, and the smallness is the method: an archery match, a meal, a hurried departure. My reading is that virtue shows in the handling of forfeits and leave-takings before it shows in anything grand, which is what makes the figure imitable rather than remote.
 
-### In the compendium
+### Here
 
-The compendium reads the figure as the answer to the question "who should I become?", and pairs it with its counterparts in other traditions.
+I read the figure as the answer to the question "who should I become?", and pairs it with its counterparts in other traditions.
 
 - [[A043 — Develop phronesis — practical wisdom]] — Aristotle's practical wisdom, the capacity defined by its work in the Nicomachean Ethics
 - [[Y116 — Be the portrait]] — the Gita's portrait of the person dear to Krishna

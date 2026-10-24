@@ -15,7 +15,7 @@ This page approaches self-deception through Sartre's discussion of bad faith (ma
 
 Sartre's worked example is a café waiter who throws himself into his role. The failure is not the role itself but the treating of it as an essence: "the waiter in the café can not be immediately a café waiter in the sense that this inkwell is an inkwell, or the glass is a glass" (quoted in the Buffalo handout). A person can play at being a waiter, rehearse the gestures, let the role absorb the attention; what they cannot do is be one the way an inkwell is an inkwell. In this example, bad faith takes the form of treating a social role as though it fixed what the person is.
 
-The compendium's practice page for this pattern is [[E033 — Practise avoiding bad faith (mauvaise foi)]].
+My practice page for this pattern is [[E033 — Practise avoiding bad faith (mauvaise foi)]].
 
 ## Related concepts
 

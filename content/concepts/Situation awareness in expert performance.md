@@ -19,10 +19,10 @@ Klein also marks the difference between real experts and people who merely look 
 
 The page's sharpest Klein line pushes against the picture of decision making as data processing: "I hate the notion of the mind as an assembly line where data get refined and processed until we can 'connect the dots.' That trivializes the expertise of people, from firefighters to intensive-care unit nurses, who know how to identify the dots in the first place so that they can make sense of a situation" ([Klein, Science News](https://www.sciencenews.org/article/jumping-conclusions-can-make-good-decisions)). Situation awareness is the dot-identifying skill, upstream of any analysis.
 
-### In the compendium
+### Here
 
 - [[A046 — See the particular]] and [[A050 — Practise perceptiveness (aisthesis)]] — the Aristotelian training of the same eye
-- [[ST269 — The Waiter's Dance]] — the story the compendium tells of fluent situation reading
+- [[ST269 — The Waiter's Dance]] — the story I tell of fluent situation reading
 - [[SO041 — Treat expertise as real but fallible]] — the epistemic stance Klein's mistake-chewing experts model
 - [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]] — the failure mode that closes the situation off
 

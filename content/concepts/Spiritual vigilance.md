@@ -15,9 +15,9 @@ Spiritual vigilance is Pierre Hadot's name for the watchful attention the ancien
 
 For Hadot, this attention is not a mood of anxiety but the working posture of the philosophical life. It keeps the rule of life ready to hand: the Stoic distinction between what depends on us and what does not, so that the passions have less to grip. The Internet Encyclopedia of Philosophy's account of Hadot places prosoche among the practices "demanding daily or continuous repetition: practices of attention (prosoche), meditations (meletai), memorizations of dogmata, self-mastery (enkrateia), the therapy of the passions..." ([IEP, Pierre Hadot](https://iep.utm.edu/hadot/)). The same article notes that monasticism later took over this posture, refiguring prosoche as attention to oneself and one's thoughts "in constant remembrance of god" ([IEP, Pierre Hadot](https://iep.utm.edu/hadot/)).
 
-### In the compendium
+### Here
 
-- [[B081 — Meet dullness with energy (hindrance 3)]] pairs this Stoic posture with the Buddhist hindrance work: when attention fades, the compendium asks what is happening to it before acting, which is prosoche in Hadot's sense applied to a drowsy mind.
+- [[B081 — Meet dullness with energy (hindrance 3)]] pairs this Stoic posture with the Buddhist hindrance work: when attention fades, I ask what is happening to it before acting, which is prosoche in Hadot's sense applied to a drowsy mind.
 
 ## Related concepts
 - [[T036 — Hadot, Pierre]]: the concept's own author: his name for the watchful attention of the ancient Stoics.

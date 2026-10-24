@@ -21,9 +21,9 @@ Four percent of variance is a small share.
 
 The trait has two proposed facets: consistency of interest and perseverance of effort. The first holds a goal steady over years; the second keeps working at it through setbacks.
 
-### In the compendium
+### Here
 
-- [[D112 — Let wholehearted devotion move obstacles]] — the compendium's principle of sustained devotion, paired with grit research as its psychology parallel
+- [[D112 — Let wholehearted devotion move obstacles]] — my principle of sustained devotion, paired with grit research as its psychology parallel
 
 ## Related concepts
 

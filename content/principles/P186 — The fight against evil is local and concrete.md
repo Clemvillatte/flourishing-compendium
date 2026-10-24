@@ -16,7 +16,7 @@ In "Is Life Worth Living?", this passage immediately follows James's reference t
 
 > "The submission which you demand of yourself to the general fact of evil in the world, your apparent acquiescence in it, is here nothing but the conviction that evil at large is none of your business until your business with your private particular evils is liquidated and settled up." (James, The Will to Believe and Other Essays, printed p. 50, [Gutenberg](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
 
-The compendium adapts the passage into an exercise in attending to an unfinished responsibility: identify something specific you can help put right.
+I adapt the passage into an exercise in attending to an unfinished responsibility: identify something specific you can help put right.
 
 **Plain words**
 Name something you agreed to do for someone and have left undone. Work out what remains owed and choose a step you can take today.

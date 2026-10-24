@@ -20,10 +20,10 @@ Dewey's account of thinking begins where habit stops working. Reflection, he wri
 
 In The Quest for Certainty the same structure appears with the feeling given its due. Emotions are not noise around the situation; they are its register: "Emotions are conditioned by the indeterminateness of present situations with respect to their issue" ([The Quest for Certainty, 1929](https://archive.org/details/questforcertaint032529mbp), p. 225). The move that turns trouble into inquiry is making the situation an object: "The first and most obvious effect of this change in the quality of action is that the dubious or problematic situation becomes a problem. The risky character that pervades a situation as a whole is translated into an object of inquiry that locates what the trouble is, and hence facilitates projection of methods and means of dealing with it."
 
-His five steps of reflection start with "a felt difficulty" and its "location and definition". The compendium's reading follows from that order: the unease is the first datum of the inquiry, and the fork in the road is where the steering happens.
+His five steps of reflection start with "a felt difficulty" and its "location and definition". My reading follows from that order: the unease is the first datum of the inquiry, and the fork in the road is where the steering happens.
 
 **Plain words**
-Most of a life runs on habit, and habit is fine until the road forks: the job feels wrong, the conversation keeps going bad, the plan keeps missing. The stuck feeling is not a verdict; in Dewey's account it is step one of a process that needs it. The compendium's exercise: when something feels off, write one sentence locating the trouble, then one possible next move.
+Most of a life runs on habit, and habit is fine until the road forks: the job feels wrong, the conversation keeps going bad, the plan keeps missing. The stuck feeling is not a verdict; in Dewey's account it is step one of a process that needs it. My exercise: when something feels off, write one sentence locating the trouble, then one possible next move.
 
 *For example:* Imagine the Sunday-night dread about a job. Endured as noise, it is a bad night. Treated as a felt difficulty, it starts the sequence: locate what exactly the trouble is, then test what would resolve it.
 

@@ -18,9 +18,9 @@ The theory's cultural values come in two strengths. The obvious ones "purport to
 
 ### The criticisms
 
-The theory's standing troubles are recorded plainly in the article: the experimental results are difficult to replicate, suppression of fear is implausible from an evolutionary point of view, and the observed responses may be better explained by coalitional psychology, fear of uncertainty, or the search for meaning ([Wikipedia](https://en.wikipedia.org/wiki/Terror_management_theory)). Proponents answer that the coalitional alternative cannot account for the symbolic, culture-wide character of the defenses ([Wikipedia](https://en.wikipedia.org/wiki/Terror_management_theory)). The compendium's mortality principles use the theory for its insight, the anxiety-buffering role of meaning and self-esteem, without betting on any one experiment.
+The theory's standing troubles are recorded plainly in the article: the experimental results are difficult to replicate, suppression of fear is implausible from an evolutionary point of view, and the observed responses may be better explained by coalitional psychology, fear of uncertainty, or the search for meaning ([Wikipedia](https://en.wikipedia.org/wiki/Terror_management_theory)). Proponents answer that the coalitional alternative cannot account for the symbolic, culture-wide character of the defenses ([Wikipedia](https://en.wikipedia.org/wiki/Terror_management_theory)). My mortality principles use the theory for its insight, the anxiety-buffering role of meaning and self-esteem, without betting on any one experiment.
 
-### In the compendium
+### Here
 
 - [[B055 — Contemplate mortality (maranasati)]] and [[S089 — Remember that you will die]] — the contemplative practices that face the terror directly rather than buffer it
 - [[D090 — Accept death as transformation]] and [[D192 — Die well by having lived aligned]] — the Daoist acceptances

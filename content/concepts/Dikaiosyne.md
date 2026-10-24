@@ -15,7 +15,7 @@ For Plato, in the Republic's fourth book, dikaiosyne is the right order of the s
 
 The formula that keeps recurring in the dialogue is "doing one's own business, and not being a busybody" (ibid.), and the summary runs: "Then virtue is the health and beauty and well-being of the soul, and vice the disease and weakness and deformity of the same" (ibid.). One virtue, then, seen from two angles: the soul's internal order, and that order exercised toward other people.
 
-### In the compendium
+### Here
 
 - [[PP039 — Cultivate justice]] — carries dikaiosyne as its classical parallel
 

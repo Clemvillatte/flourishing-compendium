@@ -18,7 +18,7 @@ Whitehead's formula concerns how a new event comes into being. In William Jay Ga
 
 ### Receiving and contributing
 
-The first part of the formula describes concrescence, the coming together of many into a new occasion. The second concerns its addition to the world from which further occasions arise. This is a metaphysical account of becoming. The compendium borrows it as an invitation to consider what an action receives from others and what it leaves available to them; that ethical invitation is an application, not a conclusion established by the formula.
+The first part of the formula describes concrescence, the coming together of many into a new occasion. The second concerns its addition to the world from which further occasions arise. This is a metaphysical account of becoming. I borrow it as an invitation to consider what an action receives from others and what it leaves available to them; that ethical invitation is an application, not a conclusion established by the formula.
 
 (Whitehead, Process and Reality, 1929.)
 

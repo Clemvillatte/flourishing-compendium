@@ -17,7 +17,7 @@ Woodruff argues the virtue crosses traditions the way courage does. As the revie
 
 The definition is careful in a way that matters for practice: the feelings named — awe, respect, shame — are not endorsed wholesale; the capacity is to have them "when these are the right feelings to have". The virtue also comes without a creed. As the review summarizes the book's Chapter 7, "In Chapter 7, Woodruff argues that reverence is not a specifically religious virtue," and "a reverent person need not believe that the object of reverence is a divinity or is fearsome or is perfect": reverence "requires nothing by way of belief 'beyond an inarticulate trust that there is something of which we must stand in awe' (p.132)". ([NDPR review](https://ndpr.nd.edu/reviews/reverence-renewing-a-forgotten-virtue/))
 
-### In the compendium
+### Here
 
 - [[A021 — Practice shame (aidos)]] — the shame component of the virtue
 - [[A118 — Understand shame (aischynē)]] — its Greek vocabulary

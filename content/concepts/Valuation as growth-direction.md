@@ -21,7 +21,7 @@ Dewey's Theory of Valuation (1939) distinguishes prizing from appraising. In com
 
 ### The flourishing turn
 
-The consequence for a flourishing practice is the one the compendium holds: since "growth itself is the only moral 'end'" ([Dewey, RIP, MW12:181](https://plato.stanford.edu/archives/sum2025/entries/dewey/notes.html)), the question to ask of a value is not whether it names the right terminus but whether it keeps the quality of experience improving along the path. The same idea recurs in Dewey's educational writing: "Not perfection as a final goal, but the ever-enduring process of perfecting, maturing, refining is the aim in living" ([same source](https://plato.stanford.edu/archives/sum2025/entries/dewey/notes.html)).
+The consequence for a flourishing practice is the one I hold: since "growth itself is the only moral 'end'" ([Dewey, RIP, MW12:181](https://plato.stanford.edu/archives/sum2025/entries/dewey/notes.html)), the question to ask of a value is not whether it names the right terminus but whether it keeps the quality of experience improving along the path. The same idea recurs in Dewey's educational writing: "Not perfection as a final goal, but the ever-enduring process of perfecting, maturing, refining is the aim in living" ([same source](https://plato.stanford.edu/archives/sum2025/entries/dewey/notes.html)).
 
 ## Related concepts
 

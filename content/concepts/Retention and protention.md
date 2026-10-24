@@ -15,7 +15,7 @@ The structure as the SEP entry on Husserl states it:
 
 (Dan Zahavi, "Edmund Husserl," [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/husserl/), citing Hua 9/201)
 
-The entry's key caution is that these are not memory and anticipation. Retention and protention are "structural components of any ongoing intentional act" that "occur without our active or deliberate contribution," while episodic memory and episodic future thinking are their own acts and presuppose this work. The melody is the standard example: retaining the note that just sounded is not the same act as remembering having heard that melody last summer. The compendium's principle [[E008 — Practise the structure of temporality]] builds its reflective exercise on exactly this distinction.
+The entry's key caution is that these are not memory and anticipation. Retention and protention are "structural components of any ongoing intentional act" that "occur without our active or deliberate contribution," while episodic memory and episodic future thinking are their own acts and presuppose this work. The melody is the standard example: retaining the note that just sounded is not the same act as remembering having heard that melody last summer. My principle [[E008 — Practise the structure of temporality]] builds its reflective exercise on exactly this distinction.
 
 ## Related concepts
 

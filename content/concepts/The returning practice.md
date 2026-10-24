@@ -15,11 +15,11 @@ Buddhist texts noticed the same restlessness long before experience sampling. In
 
 > "As a fish when pulled out of water and cast on land throbs and quivers, even so is this mind agitated." (Dhammapada 34, Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html))
 
-and, two verses on: "Wonderful, indeed, it is to subdue the mind, so difficult to subdue, ever swift, and seizing whatever it desires. A tamed mind brings happiness." (Dhammapada 35, same translation). The texts treat the mind as a difficult thing to work with, not as a faulty one. The compendium's reading is that the return, repeated without drama, is the training.
+and, two verses on: "Wonderful, indeed, it is to subdue the mind, so difficult to subdue, ever swift, and seizing whatever it desires. A tamed mind brings happiness." (Dhammapada 35, same translation). The texts treat the mind as a difficult thing to work with, not as a faulty one. My reading is that the return, repeated without drama, is the training.
 
 ### Two scales
 
-Within a sitting, the return is the moment-to-moment coming back from a drift (see [[Sati]]). Across a life, it is the return to practice after days or weeks away. The compendium treats these as the same gesture: [[B177 — Begin again — returning is the practice]]. At both scales the return is plain: no guilt, no grand restart, as in [[K243 — The returning practice]].
+Within a sitting, the return is the moment-to-moment coming back from a drift (see [[Sati]]). Across a life, it is the return to practice after days or weeks away. I treat these as the same gesture: [[B177 — Begin again — returning is the practice]]. At both scales the return is plain: no guilt, no grand restart, as in [[K243 — The returning practice]].
 
 ### What it is not
 
@@ -29,7 +29,7 @@ It is not correcting an error. A sitting with fifty returns is not a bad sitting
 
 Ten minutes, one object such as the breath, and each drift handled the same way: notice, return, no commentary. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[Sati]] — its contemplative home
 - [[Equanimity]] — the evenness that lets the return be ceremony-free

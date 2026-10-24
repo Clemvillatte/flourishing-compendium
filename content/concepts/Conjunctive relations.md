@@ -23,14 +23,14 @@ And the face-value reading:
 
 > "Radical empiricism takes conjunctive relations at their face value, holding them to be as real as the terms united by them." (James, [Essays in Radical Empiricism, Gutenberg](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm))
 
-### In the compendium
+### Here
 
 - [[P065 — Experience comes whole — relations are experienced]] — the principle takes the conjunctive-relations finding and works it into a practice.
 - [[P121 — Enrich experience — add layers of relation and meaning]] — the principle on enriching experience, against which conjunctive relations supply the underlying claim.
 
 ## Related concepts
 
-- [[Pure experience]] — the compendium's pairing for the radical-empiricist metaphysics.
+- [[Pure experience]] — my pairing for the radical-empiricist metaphysics.
 
 ## Sources
 

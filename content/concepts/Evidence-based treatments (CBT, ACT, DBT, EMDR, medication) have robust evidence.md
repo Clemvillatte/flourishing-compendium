@@ -7,7 +7,7 @@ file: "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust e
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-This entry is a boundary marker rather than a traditional concept: its title states the claim the compendium attaches to it, that professional treatments for mental-health conditions have an evidence base, and the principles that cite it are the ones that say when self-directed practice is not enough. Its seed line names the other half of the claim: self-directed practice alone is insufficient for moderate-to-severe presentations (Hofmann et al., 2010). The treatments the title lists are real and each has been tested, with limits worth knowing.
+This entry is a boundary marker rather than a traditional concept: its title states the claim I attache to it, that professional treatments for mental-health conditions have an evidence base, and the principles that cite it are the ones that say when self-directed practice is not enough. Its seed line names the other half of the claim: self-directed practice alone is insufficient for moderate-to-severe presentations (Hofmann et al., 2010). The treatments the title lists are real and each has been tested, with limits worth knowing.
 
 ### What the evidence shows
 
@@ -17,7 +17,7 @@ For CBT, Hofmann and colleagues' review of meta-analyses identified 269 meta-ana
 
 For DBT, a JAMA Psychiatry meta-analysis of 33 trials with 2,256 participants found dialectical behaviour therapy and psychodynamic approaches effective for borderline symptoms, with DBT at g = 0.34 against controls, but "effects are small, inflated by risk of bias and publication bias, and particularly unstable at follow-up" ([Cristea et al., 2017](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2605200)). For EMDR, a systematic review following Cochrane guidelines, 114 trials with 8,171 participants, found "robust evidence" of a clinically important effect for trauma-focused CBT and EMDR, rating the EMDR comparisons low quality ([Lewis et al., 2020, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7144187/)). For medication, a network meta-analysis of 522 trials and 116,477 participants, covering 21 antidepressants for the acute treatment of adults with major depressive disorder, concluded that "all antidepressants were more efficacious than placebo in adults with major depressive disorder," with mostly modest effect sizes ([Cipriani et al., 2018, Lancet](https://pmc.ncbi.nlm.nih.gov/articles/PMC5889788/)).
 
-### In the compendium
+### Here
 
 The concept is cited by the boundary principles, and their shared move is to name a threshold rather than distrust practice: AF078 states that "some affective patterns are beyond self-directed practice" and that these "are clinical conditions, not failures of will or philosophy"; BE072 and BE074 draw the line for addiction and trauma, AT069 and BE073 for ADHD, BI070 for body-based practices, AF079 for trauma's specific effects, AT075 for attention and MO072 for motivation. The claim the title makes is the claim these principles stand on: the help exists, it is tested, and knowing when to reach for it is part of wisdom, not a failure of it.
 
@@ -25,12 +25,12 @@ The concept is cited by the boundary principles, and their shared move is to nam
 
 
 - [[Exposure therapy (Foa, Craske)]] — the exposure family of techniques inside CBT
-- [[Dialectical behaviour therapy, emotion modulation]] — the compendium's own page for one of the therapies named in the title
-- [[Graded exposure / systematic desensitisation (Wolpe)]] — the clinical technique the compendium scales to self-help size
+- [[Dialectical behaviour therapy, emotion modulation]] — my own page for one of the therapies named in the title
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — the clinical technique I scale to self-help size
 - [[Cognitive reappraisal]] — the reappraisal skill taught inside CBT
-- [[Behavioral activation]] — the compendium's activation concept for depression
-- [[Compassion-focused therapy]] — a further therapy approach the wiki covers
-- [[Metacognitive therapy (Wells)]] — a further CBT-family therapy in the compendium
+- [[Behavioral activation]] — my activation concept for depression
+- [[Compassion-focused therapy]] — a further therapy approach I cover
+- [[Metacognitive therapy (Wells)]] — a further CBT-family therapy here
 - [[BI070]] — the principle marks where those treatments are the main line and lifestyle practices the additional help
 ## Sources
 

@@ -18,7 +18,7 @@ Kant grounds the idea in autonomy: the legislation that assigns worth to everyth
 
 > "Autonomy then is the basis of the dignity of human and of every rational nature." — [Kant, Groundwork, Abbott translation](https://www.gutenberg.org/ebooks/5682)
 
-### In the compendium
+### Here
 
 - [[R012 — Practise dignity-affirming action]] — Tutu's ubuntu: my humanity is caught up, inextricably bound up, in yours
 - [[R031 — Practise mana]] — the Te Aka account of mana as prestige, authority and spiritual power that a tribe gives to their chief

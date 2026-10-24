@@ -19,7 +19,7 @@ The Confessions opens with the received-quiet formulation: "Thou awakest us to d
 
 The passage puts the awakening before the repose.
 
-### In the compendium
+### Here
 
 - [[D171 — Nothing is beyond redemption]]
 - [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]]

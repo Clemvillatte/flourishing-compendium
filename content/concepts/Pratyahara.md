@@ -17,7 +17,7 @@ The next sutra gives the fruit of the practice:
 
 ### Where the work happens
 
-Johnston's definition puts the leverage on the mind, not the sense organs: the powers disengage "as the psychic nature has been withdrawn and stilled", so the withdrawal is a consequence of stillness rather than a feat of suppression. The compendium's two principles build on this: Y054 (Withdraw the senses on schedule) makes the withdrawal a chosen daily act before collapse enforces it, and Y055 (Retract like the tortoise when needed) reads the same withdrawal through the tortoise simile, which its own page cites from Bhagavad Gita 2.58.
+Johnston's definition puts the leverage on the mind, not the sense organs: the powers disengage "as the psychic nature has been withdrawn and stilled", so the withdrawal is a consequence of stillness rather than a feat of suppression. My two principles build on this: Y054 (Withdraw the senses on schedule) makes the withdrawal a chosen daily act before collapse enforces it, and Y055 (Retract like the tortoise when needed) reads the same withdrawal through the tortoise simile, which its own page cites from Bhagavad Gita 2.58.
 
 ## Related concepts
 

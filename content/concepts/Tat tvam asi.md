@@ -12,13 +12,13 @@ Tat tvam asi ("that you are" or "thou art that") is the mahavakya of the Sama Ve
 
 ### What the sentence says
 
-The claim is not that Shvetaketu is everything, but that the subtle essence (sanskrit: sat, being) in which all things have their self is the very self of the listener. The ninefold repetition is the pedagogy: Uddalaka Aruni "repeats it nine times to his son Shvetaketu, teaching each time that the subtle essence in which everything exists, sat or being, is the very self of the listener" ([Sanatana Rahasya, "The Chandogya Upanishad"](https://www.sanatanarahasya.com/scriptures/upanishads/the-ten-doors/the-chandogya-upanishad/)). The sentence later became one of the four mahavakyas, and the proving ground for Vedanta's schools, each of which construes the identity claim differently. The compendium keeps the pointer light here and works the readings elsewhere.
+The claim is not that Shvetaketu is everything, but that the subtle essence (sanskrit: sat, being) in which all things have their self is the very self of the listener. The ninefold repetition is the pedagogy: Uddalaka Aruni "repeats it nine times to his son Shvetaketu, teaching each time that the subtle essence in which everything exists, sat or being, is the very self of the listener" ([Sanatana Rahasya, "The Chandogya Upanishad"](https://www.sanatanarahasya.com/scriptures/upanishads/the-ten-doors/the-chandogya-upanishad/)). The sentence later became one of the four mahavakyas, and the proving ground for Vedanta's schools, each of which construes the identity claim differently. I keep the pointer light here and works the readings elsewhere.
 
 ## Facets
 
 - **the relational reading** — Chandogya 6.8.7; the ethical interpretation, worked out at [[That thou art, read relationally]]
 
-## In the compendium
+## Here
 
 - [[M044 — Treat every person as another you]]
 

@@ -120,6 +120,13 @@ def main(path):
         'the aim is that a reader',
         'each line gives the entry',
         'each with a card link',
+        # institutional voice (owner directive 2026-10-24): the dossier speaks as
+        # the thinker in first person; see HUMANIZER-SKILL.md "voice of the site"
+        "the compendium's",
+        'the compendium holds',
+        'the compendium pairs',
+        'the wiki holds',
+        "the wiki's card",
     ]
     body_after_question = re.sub(r'^> .*$', '', md, flags=re.M)
     for phrase in BANNED_META:

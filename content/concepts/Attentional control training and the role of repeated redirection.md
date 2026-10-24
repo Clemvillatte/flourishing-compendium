@@ -22,7 +22,7 @@ Wendy Hasenkamp and colleagues (2012) scanned 14 experienced practitioners durin
 
 A 2020 review by Ruchika Prakash and colleagues covered 57 studies of mindfulness training against the three networks ([review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). The most consistent finding was improvement in executive control, with mixed results for alerting and weak support for orienting ([review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). The review also gave reasons for caution: benefits appeared in 64 percent of studies with inactive controls versus 54 percent with active, and only 10 of 57 addressed demand characteristics ([review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). The defensible summary is promising but inconsistent evidence for better conflict monitoring, not a proven general sharpening of attention ([review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)).
 
-### In the compendium
+### Here
 
 The concept backs AT006 "Recognise that attention is trainable: it can be cultivated" and AT055 "Recognise and work with attentional conditioning: what you practise becomes default." Y026 "Bring the mind back, without drama" quotes the Gita's instruction (Bhagavad Gita 6.26) and supplies the rep reading: fifty returns in a session are fifty reps, not a failure.
 

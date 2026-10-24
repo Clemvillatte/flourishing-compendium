@@ -14,7 +14,7 @@ When a feared outcome looms, ask: "What is the worst that could happen? If that 
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the forecasting error they correct is documented below.*
+*Steps are my own protocol; the forecasting error they correct is documented below.*
 
 1. Write the feared outcome as a single sentence; vagueness is what makes catastrophes feel unbounded.
 2. Run the four questions in order, in writing, and answer each in a sentence; the writing slows the forecast down to the speed of evidence.

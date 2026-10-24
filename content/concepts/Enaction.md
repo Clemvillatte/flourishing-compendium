@@ -17,11 +17,11 @@ The book's most quoted passage defines the embodiment half of the claim:
 
 The enactive program itself can be summarized as two claims: perception consists in perceptually guided action, and cognitive structures emerge from the recurrent sensorimotor patterns that enable action to be perceptually guided ([Varela, Thompson & Rosch, ch. 8](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399)). Neither claim leaves the organism passive, and neither treats the world as finished in advance: what is perceived depends on what the perceiver's embodiment affords doing.
 
-In the compendium the idea stands behind [[P005 — You are an organism in transaction with an environment]] and [[P142 — Own that you enact your world]], which state the claim as a practical stance.
+Here the idea stands behind [[P005 — You are an organism in transaction with an environment]] and [[P142 — Own that you enact your world]], which state the claim as a practical stance.
 
 ## Related concepts
 
-- [[Perception as action]] — the compendium's related treatment of perceiving and moving as one activity
+- [[Perception as action]] — my related treatment of perceiving and moving as one activity
 
 ## Sources
 

@@ -19,7 +19,7 @@ After exposure to only natural light, the internal circadian clock synchronized 
 
 > "Furthermore, we find that after exposure to only natural light, the internal circadian clock synchronizes to solar time such that the beginning of the internal biological night occurs at sunset and the end of the internal biological night occurs before wake time just after sunrise." — [Wright et al. 2013, abstract, PubMed 23910656](https://pubmed.ncbi.nlm.nih.gov/23910656/)
 
-### In the compendium
+### Here
 
 - [[BE043 — Learn to use light exposure — circadian behaviour]] — the camping and e-reader trials behind the light-exposure principle
 - [[BI008 — Know that circadian rhythms regulate everything — light, sleep, mood, hormones]] — light as the key zeitgeber acting on the SCN master clock

@@ -25,7 +25,7 @@ The Yoga Sutra gives viveka a practical job. Sutra 2.26, in the Rama Prasada tra
 
 Viveka is not cleverness or criticism of others. In these sources it names a steady recognition of what is and is not the self, and its purpose is the end of pain. The metaphysics (Puruṣa and matter) belongs to the Yoga and Sankhya schools, and a reader who does not share it can still take the practical lesson of steady, undisturbed discernment.
 
-### In the compendium
+### Here
 
 - [[Y004 — Make discrimination your master skill]] — grounds its wording in Yoga Sūtra 2.26
 - [[Y080 — Test what arises for truth]] — grounds its wording in Yoga Sūtra 1.47-48 and Bhagavad Gita 2.52

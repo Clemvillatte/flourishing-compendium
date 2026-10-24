@@ -17,7 +17,7 @@ Beru Khyentse Rinpoche gives the mapping in his commentary on chapter 4, verse 8
 
 Each emotion and its wisdom are one mental activity seen two ways: "This deep awareness is deep awareness from its facet of when it is purified, but from its facet of when it is unpurified, it is a disturbing emotion" ([same commentary](https://studybuddhism.com/en/advanced-studies/vajrayana/dzogchen-advanced/commentary-on-chapter-4-of-longchenpa-s-dzogchen-text-beru-khyentse-rinpoche)). The commentary also grades the treatments by vehicle: the sutra vehicle cleanses the emotions away with antidotes (meditation on unattractiveness for longing desire, love for hostility, dependent arising for naivety), the three outer tantras transform them with methods, and dzogchen lets them automatically release themselves into their own grounds, not abandoning them ([same commentary](https://studybuddhism.com/en/advanced-studies/vajrayana/dzogchen-advanced/commentary-on-chapter-4-of-longchenpa-s-dzogchen-text-beru-khyentse-rinpoche)).
 
-### In the compendium
+### Here
 
 - [[SP056 — Convert passive joy into active]] lists this teaching as a Tibetan philosophical parallel.
 

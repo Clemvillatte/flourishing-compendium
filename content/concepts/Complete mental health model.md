@@ -18,9 +18,9 @@ The two ends of the continuum have names. The presence of mental health is descr
 
 > The risk of a major depressive episode was two times more likely among languishing than moderately mentally healthy adults, and nearly six times greater among languishing than flourishing adults. — Keyes, 2002, [PubMed abstract (opened)](https://pubmed.ncbi.nlm.nih.gov/12096700/)
 
-The compendium builds on the model's core distinction: mental health is not just the absence of illness, and feeling good is a different question from doing well.
+I build on the model's core distinction: mental health is not just the absence of illness, and feeling good is a different question from doing well.
 
-### In the compendium
+### Here
 
 - [[PP005 — Do not confuse feeling good with doing well]] — feeling good versus doing well.
 - [[SO075 — Use systems-level intervention for social suffering]] — systems-level intervention.

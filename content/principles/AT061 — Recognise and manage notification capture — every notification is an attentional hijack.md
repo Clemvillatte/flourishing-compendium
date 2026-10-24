@@ -18,7 +18,7 @@ A notification asks for attention now; answering it means leaving the current ta
 
 > "Yet, results indicate it is difficult for people to transition their attention away from an unfinished task and their subsequent task performance suffers." ([Leroy, 2009, same abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
 
-The study concerns switching between tasks, not notifications specifically. The compendium's reading of a notification as a forced switch is its own application.
+The study concerns switching between tasks, not notifications specifically. My reading of a notification as a forced switch is its own application.
 
 **Plain words** A notification is a request to switch tasks, and the evidence says switching is not free: attention stays partly with what you left, and the new task gets the reduced share. The rest of the principle is design: decide once, in advance, which interruptions are allowed to reach you, rather than letting each one decide for you.
 

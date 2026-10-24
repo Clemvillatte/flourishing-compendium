@@ -17,7 +17,7 @@ Praotēs is Aristotle's name for the mean concerned with anger, discussed in Boo
 
 The chapter locates gentleness between two failures, both blamed: an excess the translation calls a sort of irascibility, and a deficiency it names, with some hesitation, inirascibility ([Aristotle, NE IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
-### In the compendium
+### Here
 
 - [[A017 — Practice gentleness (praotes)]]
 - [[K253 — The mean calibration]]

@@ -18,7 +18,7 @@ Peirce describes belief as settling a doubt and establishing a rule for action. 
 
 ### Ask what would differ
 
-His claim concerns the meaning of a belief and its bearing on conduct. It does not establish that repeating an action automatically changes one's beliefs. The compendium applies it as a question for reflection: if you acted on this belief, what would you do, expect, or investigate differently?
+His claim concerns the meaning of a belief and its bearing on conduct. It does not establish that repeating an action automatically changes one's beliefs. I applie it as a question for reflection: if you acted on this belief, what would you do, expect, or investigate differently?
 
 (Peirce, "How to Make Our Ideas Clear," 1878.)
 

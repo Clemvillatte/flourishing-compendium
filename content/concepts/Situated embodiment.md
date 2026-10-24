@@ -15,7 +15,7 @@ Situated embodiment is Beauvoir's central move in The Second Sex: the body is no
 
 The same article glosses her autobiographical use of situation as "the set of concrete circumstances, including one's embodiment that significantly shapes but does not fix one's existence" (section 13). The celebrated line carries the same structure: "One is not born but becomes a woman" (1953 translation; 2010 translation reads "becomes woman"), meaning that the female body is lived differently in different social worlds, and the living is where gender is made.
 
-The compendium's [[E078 — Practise situated embodiment and gender]] reads the structure as an exercise: notice how the same street, room or task is lived differently by differently-situated bodies, without treating the shaping as fixing. The concept is the ground the phenomenological tradition and the social-constructionist research line share.
+My [[E078 — Practise situated embodiment and gender]] reads the structure as an exercise: notice how the same street, room or task is lived differently by differently-situated bodies, without treating the shaping as fixing. The concept is the ground the phenomenological tradition and the social-constructionist research line share.
 
 ## Related concepts
 

@@ -21,17 +21,17 @@ A study from the University of Granada describes the switch cost as "the behavio
 
 ### Scope
 
-The costs measured are in milliseconds, in simple laboratory tasks. They do not give a fixed penalty for everyday work, and these sources do not test whether single-tasking improves wellbeing. The second reference in the compendium's earlier note, Rubinstein and colleagues (2001), was not consulted.
+The costs measured are in milliseconds, in simple laboratory tasks. They do not give a fixed penalty for everyday work, and these sources do not test whether single-tasking improves wellbeing. The second reference in my earlier note, Rubinstein and colleagues (2001), was not consulted.
 
-### In the compendium
+### Here
 
 - [[AT016 — Cultivate single-tasking — do one thing at a time]] cites Monsell directly and applies the laboratory result to everyday practice.
 
 ## Related concepts
 
-- [[Attention residue]] — the compendium's page on lingering attention after a switch
+- [[Attention residue]] — my page on lingering attention after a switch
 - [[Cognitive flexibility]] — the ability that switch costs are used to measure
-- [[Divided attention theory]] — the compendium's page on attention shared across tasks
+- [[Divided attention theory]] — my page on attention shared across tasks
 
 ## Sources
 

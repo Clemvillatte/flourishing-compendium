@@ -7,7 +7,7 @@ file: "Progressive overload in attentional training"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Progressive overload is a term borrowed from strength training: raise the demand on a system in steps so that it keeps adapting. Applied to attention, the idea is that gradually harder or longer practice builds capacity. The compendium's seed says this and cites Lutz et al. (2008) and Zanesco et al. (2016). I opened Lutz et al. and a 2018 Zanesco et al. paper, but found no 2016 Zanesco paper matching the sentence.
+Progressive overload is a term borrowed from strength training: raise the demand on a system in steps so that it keeps adapting. Applied to attention, the idea is that gradually harder or longer practice builds capacity. My seed says this and cites Lutz et al. (2008) and Zanesco et al. (2016). I opened Lutz et al. and a 2018 Zanesco et al. paper, but found no 2016 Zanesco paper matching the sentence.
 
 ### What Lutz and colleagues describe
 
@@ -23,7 +23,7 @@ Zanesco, King, MacLean and Saron followed participants who did full-time meditat
 
 The nearest direct test of progressive difficulty comes from working memory training, where tasks are made harder as the trainee succeeds. A randomised study of 130 adults found neither near nor far transfer, and "neither training nor transfer effects were modulated by training procedure," so exposure to varying difficulty was enough ([Springer article](https://link.springer.com/content/pdf/10.1007/s00426-015-0655-z.pdf)). A trial in children found "no evidence that adaptive working memory training maximizes children's outcomes" ([PMC11868676](https://pmc.ncbi.nlm.nih.gov/articles/PMC11868676/)).
 
-### In the compendium
+### Here
 
 AT031 (Cultivate attentional endurance: build capacity gradually) reads best as advice grounded in practice traditions and the novice-to-expert description above. The sources do not show that lengthening sessions step by step produces more capacity than other schedules. The original entry's reading of Zanesco 2016 is not confirmed.
 

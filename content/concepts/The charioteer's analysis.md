@@ -15,7 +15,7 @@ The charioteer's analysis is the opening move of the Milindapanha, the dialogue 
 
 Nagasena hands the king's own answer back to him, applied to the person: "And just even so it is on account of all those things you questioned me about—the thirty-two kinds of organic matter in a human body, and the five constituent elements of being—that I come under the generally understood term, the designation in common use, of 'Nāgasena.'" He seals it with the nun Vajira's verse, quoted from the Buddha's own teaching: "Just as it is by the condition precedent of the co-existence of its various parts that the word 'chariot' is used, just so is it that when the Skandhas are there we talk of a 'being.'" ([Milindapanha 1](https://www.wisdomlib.org/buddhism/book/milindapanha-questions-of-king-milinda/d/doc1460770.html)) The self is not denied outright; it is located where the chariot is, in the working-together of parts under a name.
 
-### In the compendium
+### Here
 
 - [[K011 — See the ego's groundlessness as its nature, not its failure]] uses this analysis as its root: the ego has no part that is the ego, and its groundlessness is how things are built, not a defect to repair.
 

@@ -7,7 +7,7 @@ file: "Service"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Service is work done for another's sake, and the traditions the compendium draws on agree on one non-obvious thing about it: the server is not left behind by the service. Confucius gives the pattern its classical form in Analects VI.28, in Legge's translation:
+Service is work done for another's sake, and the traditions I draw on agree on one non-obvious thing about it: the server is not left behind by the service. Confucius gives the pattern its classical form in Analects VI.28, in Legge's translation:
 
 > "Now the man of perfect virtue, wishing to be established himself, seeks also to establish others; wishing to be enlarged himself, he seeks also to enlarge others." (Confucius, [The Analects, Book VI](https://www.gutenberg.org/cache/epub/3330/pg3330.txt), translated by James Legge)
 
@@ -17,7 +17,7 @@ Aristotle's contribution, in Nicomachean Ethics IX.7, is the psychology of the g
 
 Viktor Frankl, writing out of the concentration camps, names the same structure from the receiving end of suffering. In Man's Search for Meaning he calls it the self-transcendence of human existence: "being human always points, and is directed, to something, or someone, other than oneself — be it a meaning to fulfil or another human being to encounter. The more one forgets himself — by giving himself to a cause to serve or another person to love — the more human he is and the more he actualizes himself."
 
-### In the compendium
+### Here
 
 - [[R044 — Practise tautua]] — the Samoan discipline of service as a life structure
 

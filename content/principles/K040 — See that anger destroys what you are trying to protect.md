@@ -17,7 +17,7 @@ Shantideva devotes the sixth chapter of the Bodhicharyavatara to forbearance (ks
 > This worship of the Sugatas, generosity, and good conduct performed throughout thousands of aeons - hatred destroys it all.
 > (Bodhicharyavatara 6.1, trans. Crosby and Skilton)
 
-In verses 6.70-71, Shantideva compares hatred spreading in the mind with a fire spreading between houses. He urges removing what carries the fire onward, lest the "body of merit might go up in flames" (6.71). The compendium applies the image through an exercise: pause before sending an angry response and consider what you want to preserve.
+In verses 6.70-71, Shantideva compares hatred spreading in the mind with a fire spreading between houses. He urges removing what carries the fire onward, lest the "body of merit might go up in flames" (6.71). I applie the image through an exercise: pause before sending an angry response and consider what you want to preserve.
 
 **Plain words** You may want someone to acknowledge a mistake and still want a relationship with them afterward. Before answering, consider both aims. Keep your first draft unsent while you decide whether its wording expresses what you want to ask for.
 

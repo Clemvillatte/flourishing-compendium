@@ -18,7 +18,7 @@ Svadharma, one's own duty or nature, is the Gita's repeated counsel. In K. T. Te
 
 The verse comes back near the end of the poem: "Performing the duty prescribed by nature, one does not incur sin." (BG 18.47). Arjuna's crisis begins with an attempt to abandon his duty as a warrior.
 
-A historical note: svadharma named the duties of one's station in a given social order. The compendium's reading is chosen responsibility, and it names that classical context so the principle is not taken as unconditional obedience to given roles. Practically, when a practice works for everyone but not for you, believe your data over the consensus.
+A historical note: svadharma named the duties of one's station in a given social order. My reading is chosen responsibility, and it names that classical context so the principle is not taken as unconditional obedience to given roles. Practically, when a practice works for everyone but not for you, believe your data over the consensus.
 
 (Bhagavad Gita 3.35 and 18.47, trans. Telang, Sacred Books of the East vol. 8.)
 

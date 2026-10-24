@@ -14,9 +14,9 @@ Spend time in natural settings: green space, water, sky, weather on the skin. Th
 
 ### Protocol
 
-The steps are this practice's own exercise; the schedule is the compendium's prescription. The practice moves the Attention and Affect dimensions, with the walk itself an overt behaviour.
+The steps are this practice's own exercise; the schedule is my prescription. The practice moves the Attention and Affect dimensions, with the walk itself an overt behaviour.
 
-1. Go to whatever natural setting is reachable: a park, a tree-lined street's shade, water if there is water. The evidence contrasts natural with urban settings; the compendium's schedule is thirty minutes or more, several times a week.
+1. Go to whatever natural setting is reachable: a park, a tree-lined street's shade, water if there is water. The evidence contrasts natural with urban settings; my schedule is thirty minutes or more, several times a week.
 2. Walk, sit, or stand; let the setting work. In the study behind this kernel, participants walked ninety minutes in either a natural area or the city ([Bratman et al. 2015, PubMed record](https://pubmed.ncbi.nlm.nih.gov/26124129/)).
 3. Editorial addition, not from the carriers: weather on the skin is part of the dose. If the mind rehearses its loops, that is the pattern the nature-walk study measured a reduction in; return attention to what is in front of you.
 

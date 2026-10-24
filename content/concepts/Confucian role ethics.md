@@ -26,9 +26,9 @@ The reply is about government, and the relational reading takes it also to be ab
 
 > The superior man bends his attention to what is radical. That being established, all practical courses naturally grow up. Filial piety and fraternal submission!— are they not the root of all benevolent actions? — Analects I.2, Legge translation, [Gutenberg (opened)](https://www.gutenberg.org/cache/epub/3330/pg3330.html)
 
-The compendium builds its relational principles on this ground: the roles are where ren is practised, and the household is the first school of virtue.
+I build its relational principles on this ground: the roles are where ren is practised, and the household is the first school of virtue.
 
-### In the compendium
+### Here
 
 - [[S029 — Fulfil your roles well]] — the fulfil-your-roles principle.
 - [[R051 — Practise ren (humanitybenevolence)]] — the ren principle.

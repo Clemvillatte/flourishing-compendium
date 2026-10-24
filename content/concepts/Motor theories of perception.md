@@ -15,12 +15,12 @@ Motor theories of perception hold that to perceive something is, in part, to rec
 
 The motivation was coarticulation: the vocal tract gestures for successive consonants and vowels overlap in time, so the same sound can carry different phonemes. As the review puts it, "if information for the phonetic segments overlaps, information for each segment can span a longer interval of time, and the ear can resolve the segments temporally." Liberman's own metaphor was that speech is not an acoustic "alphabet" or "cipher," but an efficient "code."
 
-The compendium's [[E015 — Practise motor intentionality]] and [[ST263 — The Phantom Hand]] draw the broader lesson: perception is action-shaped, and the body's own capacities are part of what the world shows up as.
+My [[E015 — Practise motor intentionality]] and [[ST263 — The Phantom Hand]] draw the broader lesson: perception is action-shaped, and the body's own capacities are part of what the world shows up as.
 
 ## Related concepts
 
 
-- [[E015 — Practise motor intentionality]] — the compendium principle this research grounds
+- [[E015 — Practise motor intentionality]] — my principle this research grounds
 - [[ST263 — The Phantom Hand]] — the story-body claim that runs on the same insight
 - [[Situated cognition theory]] — the broader family of perception-as-action research
 - [[Ready-to-hand]] — the Heideggerian version of perception that dissolves into doing

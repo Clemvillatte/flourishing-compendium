@@ -22,9 +22,9 @@ Lazarus splits the evaluation into two parts. Primary appraisal "concerns the st
 
 - Scherer, Schorr and Johnstone, 2001
 
-### In the compendium
+### Here
 
-- [[A114 — Understand that emotions are cognitive]] and [[S071 — Recognise that emotions are judgments]] — the compendium's cognitive-emotion principles; S071 carries the Stoic version.
+- [[A114 — Understand that emotions are cognitive]] and [[S071 — Recognise that emotions are judgments]] — my cognitive-emotion principles; S071 carries the Stoic version.
 - [[AF002 — Distinguish the feeling from its interpretation]] — the appraisal/feeling distinction as a practice.
 - [[S046 — Do not add to the impression]] — the Stoic discipline of not adding evaluation to the bare event.
 - [[B136 — Mind constructs the world you meet]] and [[B135 — Samsara and nirvana are one mind]] — the Buddhist constructionist parallels.

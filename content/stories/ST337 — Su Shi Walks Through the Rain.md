@@ -9,7 +9,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Song dynasty, 1082 · from the Huangzhou exile poems of Su Shi, translated by Stephen Owen*
 
-In 1079 the poet Su Shi was put on trial for verses his enemies read as mockery of the emperor's reforms. He survived, was stripped of office, and in 1080 was sent into exile at Huangzhou, a minor post with a nominal title and no stipend. With a friend's help he built a small residence on a parcel of land in 1081 and worked a plot called Dongpo, the Eastern Slope, a name he then took for himself. The poems considered among his best were written in this period, and the compendium reads the sequence as an illustration of reversal: the professional catastrophe and the literary flowering land in the same years.
+In 1079 the poet Su Shi was put on trial for verses his enemies read as mockery of the emperor's reforms. He survived, was stripped of office, and in 1080 was sent into exile at Huangzhou, a minor post with a nominal title and no stipend. With a friend's help he built a small residence on a parcel of land in 1081 and worked a plot called Dongpo, the Eastern Slope, a name he then took for himself. The poems considered among his best were written in this period, and I read the sequence as an illustration of reversal: the professional catastrophe and the literary flowering land in the same years.
 
 In the spring of 1082 he wrote a short song lyric about being caught out walking in the rain. In the poem's scene he does not hurry; he strolls, chanting, in straw sandals with a bamboo cane, and the lyric closes on a look backward:
 
@@ -26,7 +26,7 @@ In the spring of 1082 he wrote a short song lyric about being caught out walking
 > go back--
 > on the one hand, it's not a storm; on the other, not clear skies.
 
-The last line is where the Daoist reading rests. The speaker turns to look back at the place of howling and finds it is neither storm nor clear sky. The rain of the opening lines and the returning sunshine of the second half both come and go in the poem, and the look back finds no fixed weather to name. The compendium pairs the line with the expectation that extremes do not hold still.
+The last line is where the Daoist reading rests. The speaker turns to look back at the place of howling and finds it is neither storm nor clear sky. The rain of the opening lines and the returning sunshine of the second half both come and go in the poem, and the look back finds no fixed weather to name. I pair the line with the expectation that extremes do not hold still.
 
 ---
 

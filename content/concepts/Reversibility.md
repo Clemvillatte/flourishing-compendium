@@ -7,7 +7,7 @@ file: "Reversibility"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Reversibility is Merleau-Ponty's name for the two-way relation between your body and the world it perceives: whatever touches can also be touched, whatever sees is also visible. The paradigm case is your own two hands, which is why the compendium's [[E018 — Practise the reversibility of flesh]] uses it as its exercise.
+Reversibility is Merleau-Ponty's name for the two-way relation between your body and the world it perceives: whatever touches can also be touched, whatever sees is also visible. The paradigm case is your own two hands, which is why my [[E018 — Practise the reversibility of flesh]] uses it as its exercise.
 
 The claim, in the late chapters of The Visible and the Invisible, comes with a built-in limit:
 
@@ -15,7 +15,7 @@ The claim, in the late chapters of The Visible and the Invisible, comes with a b
 
 (Merleau-Ponty, The Visible and the Invisible, "The Intertwining—The Chiasm," trans. Lingis, pp. 147-148, [chapter scan](https://doubleoperative.com/wp-content/uploads/2009/12/merleau-ponty-the-intertwining.pdf))
 
-The next page sharpens the limit into a dilemma: either my right hand really passes over to the rank of touched, but then its hold on the world is interrupted, or it retains its hold on the world, but then I do not really touch it. That near-miss is not a defect to overcome but the structure itself. Merleau-Ponty's word for the underlying element is flesh (chair): "not matter" but "the coiling over of the visible upon the seeing body, of the tangible upon the touching body." The compendium's [[Flesh (chair)]] and [[The chiasm]] pages carry the rest of this ontology.
+The next page sharpens the limit into a dilemma: either my right hand really passes over to the rank of touched, but then its hold on the world is interrupted, or it retains its hold on the world, but then I do not really touch it. That near-miss is not a defect to overcome but the structure itself. Merleau-Ponty's word for the underlying element is flesh (chair): "not matter" but "the coiling over of the visible upon the seeing body, of the tangible upon the touching body." My [[Flesh (chair)]] and [[The chiasm]] pages carry the rest of this ontology.
 
 ## Related concepts
 

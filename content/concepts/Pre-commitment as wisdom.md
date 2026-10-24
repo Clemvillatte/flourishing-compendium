@@ -17,7 +17,7 @@ Seneca's counsel for dealing with emotion is timing. An emotion is weak at the t
 >
 > "Let us therefore resist these faults when they are demanding entrance, because, as I have said, it is easier to deny them admittance than to make them depart. Therefore, knowing our weakness, let us remain quiet. Let us not expose this unstable spirit to the temptations of drink, or beauty, or flattery, or anything that coaxes and allures." (Seneca, Letters 116, [Gummere translation, Monadnock](https://monadnock.net/seneca/116.html))
 
-### In the compendium
+### Here
 
 - [[MO033 — Learn to use commitment devices — pre-commit to future behaviour]] — lists the concept among its philosophy parallels.
 

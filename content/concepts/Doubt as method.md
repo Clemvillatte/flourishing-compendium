@@ -17,7 +17,7 @@ The doubt is driven to its limit by a hypothetical deceiver: "I suppose a certai
 
 The plan is stated with Archimedes' lever as its image: "Archimedes required but a point which was firm, and immoveable that he might move the whole Earth, so in the perfect undertaking Great things may be expected, if I can discover but the least thing that is true and indisputable" (ibid.). Doubt here is a tool with a use and an end, not a resting place.
 
-### In the compendium
+### Here
 
 - [[SP044 — Start from a true idea]] — the Cartesian program this concept records
 - [[ST106 — Peirce's Four Methods]] — the pragmatist repair of Cartesian doubt

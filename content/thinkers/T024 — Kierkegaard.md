@@ -34,7 +34,7 @@ The concept carries a practice: despair is a category of the self, not a mood re
 - **The aesthetic, the ethical, the religious** — the stages; in the commentary's phrasing, "[a]s anxiety is related to the ethical, despair is related to the religious" ([Storm commentary](https://sorenkierkegaard.org/sickness-unto-death.html)). See [[The aesthetic]], [[The ethical]].
 - **Repetition** — life lived forwards, understood backwards. See [[Repetition]], [[Creative repetition]], [[Life lived forwards]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Despair]]
 - [[The moral situation]]
@@ -43,7 +43,7 @@ The concept carries a practice: despair is a category of the self, not a mood re
 - [[The leap of faith]]
 - [[Repetition]]
 
-## Everything connected in the wiki — the existential tradition
+## Everything connected here — the existential tradition
 
 Kept to the pages that carry Kierkegaard's own ideas and the existential tradition he begins; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

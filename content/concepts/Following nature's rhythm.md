@@ -14,9 +14,9 @@ Following nature's rhythm is this compendium's label. The Daodejing passage it p
 
 Eno's glossary paraphrases ziran 自然 as a thing as it is in itself, without regard for forces that may act upon it, and notes the term later came to be used as a noun meaning Nature ([Robert Eno, Daodejing glossary](https://terebess.hu/english/tao/Daodejing-Eno.pdf)).
 
-The compendium places this idea next to the body's rhythms as an editorial juxtaposition. The Daodejing chapter is not a physiological claim; the principles below are the compendium's own behavioural-science entries on circadian and hormonal cycles.
+I place this idea next to the body's rhythms as an editorial juxtaposition. The Daodejing chapter is not a physiological claim; the principles below are my own behavioural-science entries on circadian and hormonal cycles.
 
-### In the compendium
+### Here
 
 - [[BI008 — Know that circadian rhythms regulate everything — light, sleep, mood, hormones]]
 - [[BI017 — Learn to use light deliberately — morning light, evening dark]]

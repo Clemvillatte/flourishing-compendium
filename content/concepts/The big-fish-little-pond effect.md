@@ -21,13 +21,13 @@ A meta-analysis states that "Marsh (1987) argued that this social comparison mec
 
 The effect is documented for academic self-concept in school settings. It does not by itself show that a person's wider sense of worth depends on the peer group. Whether the pattern extends beyond schools is not tested in these education sources. The 1987 paper itself was not read, only its abstract and later reviews.
 
-### In the compendium
+### Here
 
 - [[D106 — Live at your own scale]] lists this concept with the Marsh 1987 citation.
 
 ## Related concepts
 
-- [[Contingent self-esteem]] — the compendium's page on self-worth that depends on outcomes
+- [[Contingent self-esteem]] — my page on self-worth that depends on outcomes
 - [[Social comparison]] — the comparison frame the effect is named for
 - [[Fragile vs secure high self-esteem (Kernis)]] — the stability distinction in self-esteem research
 

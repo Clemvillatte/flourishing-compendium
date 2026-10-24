@@ -23,7 +23,7 @@ The two types share the sting and part ways at what to do next: benign envy moti
 
 Study 1 used guided recall in the Netherlands, a culture with separate words for the two envy types, and found the predicted experiential differences; Studies 2 and 3, in the United States and Spain, used latent class analysis to confirm separate experiences of benign and malicious envy in cultures that have a single word for both ([van de Ven et al., 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)).
 
-### In the compendium
+### Here
 
 - [[A119 — Understand envy (phthonos)]] — Aristotle's envy definition, with emulation set against it in the next chapter
 - [[AF055 — Work with envy — it signals a value, not a defect]] — the principle built directly on this research, treating envy as a signal to audit rather than feed

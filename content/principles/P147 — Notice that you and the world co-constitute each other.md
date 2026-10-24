@@ -16,7 +16,7 @@ In Barad's agential realism, the boundaries and properties of things become dete
 
 > "Boundaries do not sit still." (Barad, Posthumanist Performativity, p. 817, [text](https://gmint.informatik.uni-freiburg.de/teaching/wt17_18/ma/07_11.pdf))
 
-Barad's claim goes beyond saying that an already-defined person is influenced by a setting: her argument concerns how the distinction between components is made in the first place (pp. 815-817, [text](https://gmint.informatik.uni-freiburg.de/teaching/wt17_18/ma/07_11.pdf)). The compendium draws a more modest practical question from it: how do particular arrangements help produce the roles we take for granted?
+Barad's claim goes beyond saying that an already-defined person is influenced by a setting: her argument concerns how the distinction between components is made in the first place (pp. 815-817, [text](https://gmint.informatik.uni-freiburg.de/teaching/wt17_18/ma/07_11.pdf)). I draw a more modest practical question from it: how do particular arrangements help produce the roles we take for granted?
 
 ### Plain words
 

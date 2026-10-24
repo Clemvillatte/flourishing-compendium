@@ -18,9 +18,9 @@ C. Daniel Batson's empathy-altruism theory is the experimental program that took
 
 The design pitted the altruistic reading against egoistic rivals. If feeling for a person in need produces motivation whose ultimate goal is the other's welfare, then helping should track the need's removal; if the feeling is a self-serving device, for reward, guilt relief or arousal reduction, helping should track the feeling's relief. Across the series, Batson reports that the egoistic alternatives were disconfirmed and the hypothesis survived: the book's summary judges the support "remarkably strong and consistent," forcing the tentative conclusion that empathy-induced altruism is within the human repertoire.
 
-The compendium's use is the distinction itself. Helping that serves one's own state and helping that serves the other's welfare can look identical from outside, so the practice question is which motivation is running, and the traditions that train compassion are, in Batson's terms, training the empathic-concern input.
+My use is the distinction itself. Helping that serves one's own state and helping that serves the other's welfare can look identical from outside, so the practice question is which motivation is running, and the traditions that train compassion are, in Batson's terms, training the empathic-concern input.
 
-### In the compendium
+### Here
 
 - [[R094 — Practise substitution]] — the helping practice the theory informs
 - [[R084 — Practise infinite responsibility]] — the ethics that other-directed motivation serves
@@ -36,7 +36,7 @@ Sociocultural · Psychological science
 - [[Care]] — the empathy-altruism hypothesis: care's motivational science
 - [[Prosocial behaviour]] — the empathy-altruism account of prosocial triggers
 - [[Empathy]] — Batson's empathy-altruism hypothesis is built on the empathic concern this entry describes
-- [[Empathy-altruism hypothesis]] — the compendium's page for the hypothesis itself
+- [[Empathy-altruism hypothesis]] — my page for the hypothesis itself
 - [[Altruism]] — the general concept the theory specifies
 
 ## Sources

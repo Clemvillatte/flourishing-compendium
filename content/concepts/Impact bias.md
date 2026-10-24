@@ -15,7 +15,7 @@ The abstract names two mechanisms. The first is attention: "One cause of the imp
 
 ### Why it matters here
 
-The abstract flags one asymmetry: "This is especially true when predicting reactions to negative events: People fail to anticipate how quickly they will cope psychologically with such events in ways that speed their recovery from them" (ibid.). That is the empirical backing for the compendium's advice to distrust the dread forecast before acting on it.
+The abstract flags one asymmetry: "This is especially true when predicting reactions to negative events: People fail to anticipate how quickly they will cope psychologically with such events in ways that speed their recovery from them" (ibid.). That is the empirical backing for my advice to distrust the dread forecast before acting on it.
 
 ## Related concepts
 

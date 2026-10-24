@@ -17,7 +17,7 @@ The paper reports two neuron types with different jobs. Bursting neurons "do not
 
 The two findings converge: novelty is not processed as reward value but as salience — a fully expected new object still triggers the burst, because newness itself, not payoff, is what the channel carries.
 
-### In the compendium
+### Here
 
 - [[P101 — Repeat with difference — never pure repetition]] cites this concept as a psychology parallel.
 
@@ -25,8 +25,8 @@ The two findings converge: novelty is not processed as reward value but as salie
 
 
 - [[Reward prediction error (Schultz)]] — novelty acts on the same surprise channel
-- [[Curiosity]] — the compendium's page on curiosity
-- [[Incentive salience theory]] — the compendium's page on incentive salience
+- [[Curiosity]] — my page on curiosity
+- [[Incentive salience theory]] — my page on incentive salience
 - [[Sensation seeking]] — the experimental study of the appetite for intensity the trait names
 ## Sources
 

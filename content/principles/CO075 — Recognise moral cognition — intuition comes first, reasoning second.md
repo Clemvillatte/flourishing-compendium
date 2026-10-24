@@ -18,7 +18,7 @@ The social intuitionist model of moral judgment is Jonathan Haidt's alternative 
 
 The model is also social, verbatim: it "deemphasizes the private reasoning done by individuals and emphasizes instead the importance of social and cultural influences." Note the shape of the claim: reasoning is usually post-hoc, not always; and this is a hypothesis about moral judgment in general, not a finding that every judgment precedes every reason. Moral reasoning is not useless; understanding its usual role is the point.
 
-**Plain words** (the compendium's application) The finding says the verdict usually comes first and the reasons after. To reconsider your own judgment, test the intuition directly rather than auditing your arguments: would I accept this if it cost me something? To change someone else's, expect their reasons to be defences, and address the intuition with examples and stories rather than counter-arguments alone.
+**Plain words** (my application) The finding says the verdict usually comes first and the reasons after. To reconsider your own judgment, test the intuition directly rather than auditing your arguments: would I accept this if it cost me something? To change someone else's, expect their reasons to be defences, and address the intuition with examples and stories rather than counter-arguments alone.
 
 *For example:* The instant recoil at an unfair proposal, and the reasoning that follows, constructed to defend it. Knowing the order changes the tactic: examples and stories to shift the intuition, arguments for the later review.
 

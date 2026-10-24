@@ -14,7 +14,7 @@ Proper pride, or megalopsychia, is Aristotle's name for the virtue of thinking o
 
 Honour, on this account, is the prize of virtue, and it is to the good that it is rendered ([Aristotle, NE IV.3](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
-### In the compendium
+### Here
 
 - [[A015 — Practice magnanimity (megalopsychia)]]
 - [[A025 — Practice proper pride (kaucha)]]

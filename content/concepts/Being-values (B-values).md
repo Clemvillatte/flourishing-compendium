@@ -17,7 +17,7 @@ Maslow's B-values are the values he identified in studying accounts of peak expe
 
 The same article gives Maslow's list of B-values with their associated terms, starting with Truth (honesty; reality; simplicity; richness; oughtness; beauty; pure, clean and unadulterated; completeness; essentiality), Goodness, Beauty, Wholeness, Aliveness, Uniqueness, Perfection, Completion, Justice, Simplicity, Richness, Effortlessness, Playfulness and Self-sufficiency.
 
-### In the compendium
+### Here
 
 - [[P117 — Grow from being-values, not deficiency-needs]] — the principle takes Maslow's distinction between growth motivation and deficiency motivation and works it into a practice.
 - [[A083 — Recognise that bodily pleasures are not the highest]] — the Aristotelian principle the B-values list supplies a modern analogue to.

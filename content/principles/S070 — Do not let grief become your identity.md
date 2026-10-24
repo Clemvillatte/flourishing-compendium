@@ -20,7 +20,7 @@ Letter 99 warns against grief kept up for show: "The display of grief makes more
 
 ### What Seneca does not say
 
-I found no sentence in Letters 63 or 99 about grief becoming an identity. That framing, and the label "passion", come from the compendium. What Seneca does describe is grief performed for an audience or held onto after it has done its work. This page does not draw on Letter 107, Marcus Aurelius or Epictetus.
+I found no sentence in Letters 63 or 99 about grief becoming an identity. That framing, and the label "passion", come from me. What Seneca does describe is grief performed for an audience or held onto after it has done its work. This page does not draw on Letter 107, Marcus Aurelius or Epictetus.
 
 **Plain words**
 Cry, remember, say the name. What Seneca objects to is turning mourning into a performance or a role. Let the memory become something you can hold without it hurting every time.

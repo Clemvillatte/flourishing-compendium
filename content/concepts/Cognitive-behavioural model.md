@@ -27,7 +27,7 @@ Hofmann and colleagues (2012) reviewed 106 meta-analyses, a representative sampl
 
 They add that "the efficacy of CBT is questionable for some problems", that many meta-analysed studies had small samples or inadequate control groups, and that high-quality studies are still needed. The evidence supports CBT as a treatment; it does not by itself prove that the model's account of how thoughts cause emotions is the mechanism.
 
-### In the compendium
+### Here
 
 - [[S020 — Remember that nothing can harm you except your own judgement]] and [[S105 — Handle insults with equanimity]] cite this concept as a psychology parallel.
 - [[A115 — Understand anger (orge)]], [[S003 — Recognise that you are disturbed not by things but by your judgements about them]], [[S051 — Recognise that your judgements are the source of your distress]] and [[S060 — Cure anger by understanding its source]] cite it as well.

@@ -34,7 +34,7 @@ The method is discriminative: among the two notions "I am the Existent-Brahman" 
 - **The witness** — the seer distinct from the seen, trained daily ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara)). See [[The witness]], [[Y089 — Separate the seer from the seen daily|Separate the seer from the seen daily]], [[Y013 — Work with the field and the witness|Work with the field and the witness]].
 - **The commentaries** — the *bhashyas* on the Brahma sutras, the principal Upanishads and the Bhagavad Gita, the foundational literature of Advaita ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara)). See [[The same in all conditions]], [[Y118 — Bear the opposites|Bear the opposites]].
 
-## Everything connected in the wiki — the Advaita Vedanta tradition
+## Everything connected here — the Advaita Vedanta tradition
 
 Kept to the pages that carry or substantively apply Shankara's school: non-dual awareness, the witness, and the discriminative method.
 

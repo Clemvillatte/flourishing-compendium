@@ -28,11 +28,11 @@ Lövdén and colleagues' framework says adult cognitive plasticity "is driven by
 
 ### What the sources do not show
 
-None of these shows that reasoning, debiasing or metacognition "degrade without use", or that an annual audit helps. Those are the compendium's claims. The decision-journal practice below is one way to put the principle to use, and the thinkers cited below (Tetlock, Stern, Ericsson, Socrates, Peirce) are not relied on.
+None of these shows that reasoning, debiasing or metacognition "degrade without use", or that an annual audit helps. Those are my claims. The decision-journal practice below is one way to put the principle to use, and the thinkers cited below (Tetlock, Stern, Ericsson, Socrates, Peirce) are not relied on.
 
 (Aristotle, Nicomachean Ethics II.1; Cepeda et al., 2006; Lövdén et al., 2010.)
 
-**Plain words** Aristotle says skills come from doing. The spacing research says reviews work best when spread out, with longer gaps for longer-lasting memory. And the adult-plasticity model says change comes when the task asks more than you can currently do. A review habit, such as a yearly look at what worked, is the compendium's way of making that routine.
+**Plain words** Aristotle says skills come from doing. The spacing research says reviews work best when spread out, with longer gaps for longer-lasting memory. And the adult-plasticity model says change comes when the task asks more than you can currently do. A review habit, such as a yearly look at what worked, is my way of making that routine.
 
 *For example:* Imagine you learned a decision checklist five years ago and never looked at it again. The sources above would not say it has decayed. They would say that, unreviewed, it has had no chance to be tested or updated, which is the gap the principle is pointing at.
 

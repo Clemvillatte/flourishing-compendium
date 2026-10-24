@@ -20,7 +20,7 @@ The Enchiridion opens with the training's foundation: some things are in our con
 > Work therefore to be able to say to every harsh appearance, "You are but an appearance, and not absolutely the thing you appear to be."
 > (Epictetus, Enchiridion 1)
 
-The compendium's application: the gap the training works on is the moment between an appearance and assent to it. A driver cuts in front of you; the appearance arrives with its interpretation already attached, and the practice is the examination before the horn. The reflections below press honestly on whether the gap is as open as it feels, and on how trauma narrows it.
+My application: the gap the training works on is the moment between an appearance and assent to it. A driver cuts in front of you; the appearance arrives with its interpretation already attached, and the practice is the examination before the horn. The reflections below press honestly on whether the gap is as open as it feels, and on how trauma narrows it.
 
 **Plain words** Epictetus's list puts opinion, pursuit, desire and aversion on your side of the line, and body, property, reputation and office on the other. The training is one move, practised on every harsh appearance: name it as an appearance first, then check which side of the line it belongs to before acting on it. What you do next is the part on your side of the line.
 

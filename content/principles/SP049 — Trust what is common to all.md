@@ -20,7 +20,7 @@ This is narrower than "what any careful person would observe". The Stanford Ency
 
 ### Scope
 
-Spinoza's common notions are basic features such as extension, motion and rest, not shared opinions or what a group agrees on. The practical advice to cross-check a private judgment against what others can verify is the compendium's extension. I did not find Spinoza saying that in the passages I opened.
+Spinoza's common notions are basic features such as extension, motion and rest, not shared opinions or what a group agrees on. The practical advice to cross-check a private judgment against what others can verify is my extension. I did not find Spinoza saying that in the passages I opened.
 
 **Plain words**
 Spinoza says some ideas, such as that bodies are extended and can move or rest, are the same for every mind and cannot be mistaken. His main contrast is with ideas built from how things happen to affect you.

@@ -7,7 +7,7 @@ file: "Community intervention research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-The compendium uses this heading for implementation research in community settings. Eccles and Mittman define implementation research as:
+I use this heading for implementation research in community settings. Eccles and Mittman define implementation research as:
 
 > "Implementation research is the scientific study of methods to promote the systematic uptake of research findings and other evidence-based practices into routine practice, and, hence, to improve the quality and effectiveness of health services and care." (Eccles and Mittman 2006, abstract, [Implement Sci 1:1](https://pmc.ncbi.nlm.nih.gov/articles/PMC1436009/))
 
@@ -15,7 +15,7 @@ The compendium uses this heading for implementation research in community settin
 
 Eccles and Mittman argue that research cannot change outcomes unless health services and healthcare professionals adopt its findings into practice ([Eccles and Mittman 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1436009/)). They describe uneven uptake across settings, specialities and countries ([Eccles and Mittman 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1436009/)). Their account also includes influences on healthcare professional and organisational behaviour ([Eccles and Mittman 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1436009/)).
 
-### In the compendium
+### Here
 
 - [[P132 — Make reform experimental]]: presents reform as experimental
 - [[SO075 — Use systems-level intervention for social suffering]]: calls for systems-level intervention

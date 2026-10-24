@@ -18,7 +18,7 @@ The training instruction is a single repeated line: "He trains himself, 'I will 
 >
 > (Anapanasati Sutta, MN 118, Thanissaro)
 
-The Dhammapada pairs the capacity with seeing: "There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana." And it names who arrives: "The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage." The compendium's application: steadiness is trainable as a capacity — rest attention where you place it.
+The Dhammapada pairs the capacity with seeing: "There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana." And it names who arrives: "The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage." My application: steadiness is trainable as a capacity — rest attention where you place it.
 
 (MN 118; Dhammapada 23, 372.)
 

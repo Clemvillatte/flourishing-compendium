@@ -17,9 +17,9 @@ The authors argue that "the inside view is overwhelmingly preferred in intuitive
 
 ### Reference class forecasting
 
-Flyvbjerg's paper presents "reference class forecasting" as a method that "achieves accuracy by basing forecasts on actual performance in a reference class of comparable projects and thereby bypassing both optimism bias and strategic misrepresentation." Its first practical application concerned cost forecasts for large transportation infrastructure projects ([Flyvbjerg, "From Nobel Prize to Project Management: Getting Risks Right," arXiv posting](https://arxiv.org/abs/1302.3642)). That is a claim about project cost forecasting. The compendium's wider use of the idea for personal plans (CO028, CO022, CO039) extends it, and the sources opened here do not test it on individual life decisions.
+Flyvbjerg's paper presents "reference class forecasting" as a method that "achieves accuracy by basing forecasts on actual performance in a reference class of comparable projects and thereby bypassing both optimism bias and strategic misrepresentation." Its first practical application concerned cost forecasts for large transportation infrastructure projects ([Flyvbjerg, "From Nobel Prize to Project Management: Getting Risks Right," arXiv posting](https://arxiv.org/abs/1302.3642)). That is a claim about project cost forecasting. My wider use of the idea for personal plans (CO028, CO022, CO039) extends it, and the sources opened here do not test it on individual life decisions.
 
-### In the compendium
+### Here
 
 Principles linked below include CO028 (Use the outside view), CO022 (planning fallacy), CO027 (debiasing is possible but hard) and CO039 (optimism bias). Kahneman and Lovallo's remark that adopting the outside view "violates strong intuitions about the relevance of information" fits CO027's caution that debiasing is hard.
 

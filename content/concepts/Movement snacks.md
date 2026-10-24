@@ -11,15 +11,15 @@ Jenkins and colleagues tested brief stair-climbing "exercise snacks" in sedentar
 
 > "Sedentary young adults were randomly assigned to perform 3 bouts/day of vigorously ascending a 3-flight stairwell (60 steps), separated by 1-4 h of recovery, 3 days/week for 6 weeks, or a nontraining control group (n = 12 each). Peak oxygen uptake was higher in the climbers after the intervention (P = 0.003), suggesting that stair climbing \"snacks\" are effective in improving cardiorespiratory fitness, although the absolute increase was modest." ([Jenkins et al., Appl Physiol Nutr Metab 44(6), 2019, abstract](https://pubmed.ncbi.nlm.nih.gov/30649897/))
 
-### In the compendium
+### Here
 
 - [[D153 — Move gently and regularly]] lists this topic as a psychology parallel.
 
 ## Related concepts
 
-- [[Exercise neurobiology theory]] — the compendium's page on exercise and the brain
-- [[Habit formation]] — the compendium's page on habit formation
-- [[Green exercise (Barton, Pretty)]] — the compendium's page on green exercise
+- [[Exercise neurobiology theory]] — my page on exercise and the brain
+- [[Habit formation]] — my page on habit formation
+- [[Green exercise (Barton, Pretty)]] — my page on green exercise
 
 ## Sources
 

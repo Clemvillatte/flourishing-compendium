@@ -26,7 +26,7 @@ A parallel debate runs on the animal side. Call and Tomasello's 2008 review of t
 
 For an illustration: someone who did not see a cake being eaten still expects the cake to be there.
 
-### In the compendium
+### Here
 
 - [[E009 — Practise intersubjectivity]]
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 
 The title says the problem is not technology itself but how it is used. The large studies give only partial support. Across three datasets (n = 355,358), the link between adolescents' digital technology use and well-being was "negative but small, explaining at most 0.4% of the variation in well-being" (Orben & Przybylski 2019, [PubMed](https://pubmed.ncbi.nlm.nih.gov/30944443/)). A meta-analysis of 141 studies on active use (creating content) versus passive use (scrolling) of social media found that "most ESs were negligible (|r| < .10)", and that passive use "was associated with worse emotional outcomes in general SM contexts, but not in the context of SM groups" (Godard & Holtzman 2024, [Journal of Computer-Mediated Communication](https://academic.oup.com/jcmc/article/29/1/zmad055/7595758)).
 
-Neither paper tests deliberate use against habitual use, so the "spend or invest my attention" test below is the compendium's working rule and not a research finding.
+Neither paper tests deliberate use against habitual use, so the "spend or invest my attention" test below is my working rule and not a research finding.
 
 **Plain words**
 Total screen time and the active-versus-passive split are both weak guides to how people feel. A better check is personal: before you open something, name what you came to do, and afterwards ask whether you did it. If you keep ending up somewhere you did not intend, change that tool or the way you reach it.

@@ -13,7 +13,7 @@ Dialectic, in Hegel, is the process by which a position runs into its own contra
 
 In the Phenomenology of Spirit, the sides are "different definitions of consciousness and of the object that consciousness is aware of or claims to know": each shape of knowing proves unstable, and the instability itself carries the knower forward. One corrective the encyclopedia adds is worth keeping: Hegel "never adopted Fichte's triadic 'thesis—antithesis—synthesis' language in his descriptions of his own philosophy", though the formula has stuck to him since.
 
-### In the compendium
+### Here
 
 - [[D015 — Treat opposites as co-creating]] and [[CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution]] are this concept's philosophy parallels
 - [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] cites it as well

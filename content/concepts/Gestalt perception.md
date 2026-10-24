@@ -15,7 +15,7 @@ Gestalt perception is Max Wertheimer's account of how relations are perceived di
 
 The paper's question is whether the arrangements and divisions of experience follow definite principles, and it answers with the grouping factors: proximity, in which the form of grouping involving the smallest interval is most natural, and similarity, the tendency of like parts to band together, among others. When we are presented with a number of stimuli we do not as a rule experience a number of individual things; instead larger wholes separated from and related to one another are given in experience, their arrangement and division concrete and definite.
 
-### In the compendium
+### Here
 
 - [[P065 — Experience comes whole — relations are experienced]] — the principle this research is the psychology parallel for
 

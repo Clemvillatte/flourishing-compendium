@@ -20,7 +20,7 @@ In Plum Village's [contemplations before eating](https://plumvillage.org/article
 
 > This food is a gift of the earth, the sky, numerous living beings, and much hard and loving work.
 
-The [contemplations](https://plumvillage.org/articles/news/new-contemplations-before-eating) connect the meal with gratitude, compassion and service; tasting carefully is one entry into this wider practice. The compendium suggests starting with a regular meal rather than making another task of producing a special experience.
+The [contemplations](https://plumvillage.org/articles/news/new-contemplations-before-eating) connect the meal with gratitude, compassion and service; tasting carefully is one entry into this wider practice. I suggest starting with a regular meal rather than making another task of producing a special experience.
 
 **Plain words**
 Breakfast can be more than a gap between waking and work. There is food to taste, a body being fed, and effort by people you may never meet. Paying attention gives those ordinary facts a place in the meal. Nothing requires every mouthful to feel wonderful, or a distracted meal to become a personal failure.

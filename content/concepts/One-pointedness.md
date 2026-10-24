@@ -17,15 +17,15 @@ The article records the same double sense for samadhi itself, which "may be view
 
 One-pointedness is not tunnel vision. The narrower reading, fixated on a single object, is the concentration half; the wider reading, unification that stays still and observes, is the insight half. The same word holds both, which is why the Buddhist tradition treats concentration and awareness as one trained capacity rather than two.
 
-### In the compendium
+### Here
 
 - [[Y073 — Bind attention to one place]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
-- [[Focused-attention meditation]] — the compendium's page on focused-attention meditation
-- [[Anchors in focused attention meditation]] — the compendium's page on attention anchors
+- [[Focused-attention meditation]] — my page on focused-attention meditation
+- [[Anchors in focused attention meditation]] — my page on attention anchors
 
 ## Sources
 

@@ -13,9 +13,9 @@ Goal-directed attention is the top-down half of the brain's selection system: th
 
 ### The circuit-breaker pairing
 
-The other half of the review matters to this page because the two systems work as a pair. The ventral system, in temporoparietal and inferior frontal cortex, "is not involved in top-down selection" but is "specialized for the detection of behaviourally relevant stimuli, particularly when they are salient or unexpected," and "works as a 'circuit breaker' for the dorsal system, directing attention to salient events" ([Corbetta and Shulman, 2002](https://pubmed.ncbi.nlm.nih.gov/11994752/)). Both systems interact during normal vision, and both are disrupted in unilateral spatial neglect. For the compendium, the concept names the deliberate, aim-shaped end of attention, the one that practices of intention presuppose.
+The other half of the review matters to this page because the two systems work as a pair. The ventral system, in temporoparietal and inferior frontal cortex, "is not involved in top-down selection" but is "specialized for the detection of behaviourally relevant stimuli, particularly when they are salient or unexpected," and "works as a 'circuit breaker' for the dorsal system, directing attention to salient events" ([Corbetta and Shulman, 2002](https://pubmed.ncbi.nlm.nih.gov/11994752/)). Both systems interact during normal vision, and both are disrupted in unilateral spatial neglect. For me, the concept names the deliberate, aim-shaped end of attention, the one that practices of intention presuppose.
 
-### In the compendium
+### Here
 
 - [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]] — the principle that carries the review's two-system distinction
 - [[E002 — Practise intentionality]] — the practice that uses goal-directed selection

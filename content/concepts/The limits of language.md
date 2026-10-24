@@ -15,12 +15,12 @@ The book's own one-line self-summary is the preface's other famous sentence: "wh
 
 The book ends by disclaiming its own statements. Proposition 6.54 says its propositions are elucidatory, and that once they have been used, "He must so to speak throw away the ladder, after he has climbed up on it" ([Tractatus 6.54](https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt)). The reader is not left holding a doctrine; the sentences point past themselves to what can only be shown, and the companion page on that distinction carries the rest.
 
-### In the compendium
+### Here
 
 - [[B172 — Value silence]] — the practice of what the limit implies
 - [[B129 — Point directly at experience]] — a Zen practice aimed at what lies past words, as a comparison
 - [[CO078 — Understand the role of language in thinking — words shape thought]] — the constructive side: within the limit, language does the thinking
-- [[ST291 — The Tower of Babel]] — the compendium's story of language's reach and its failure
+- [[ST291 — The Tower of Babel]] — my story of language's reach and its failure
 
 ## Related concepts
 

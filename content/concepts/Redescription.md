@@ -15,7 +15,7 @@ Redescription is Richard Rorty's name for the move by which a person or a cultur
 
 The ironist, Rorty says, is defined by relation to the final vocabulary: such a person does not hope to have their doubts about it settled by something larger than themselves (p. 97), and ironism itself "results from awareness of the power of redescription" (p. 89). The work is done on the self as much as on the world: "Private autonomy can be gained by redescribing one's past in a way which had not occurred to the past" (p. 101). On the public side, Rorty's famous passage on solidarity says the process of seeing other human beings as "one of us" rather than as "them" is a matter of detailed description of what unfamiliar people are like and of redescription of what we ourselves are like, a task for the novel and the ethnography rather than for theory.
 
-### In the compendium
+### Here
 
 - [[P031 — Choose vocabularies by what they let you do]] — the practice rule Rorty's account implies
 - [[P100 — Treat the past as resource, not prison]] — redescribing the past as autonomy, Rorty's own formula
@@ -23,7 +23,7 @@ The ironist, Rorty says, is defined by relation to the final vocabulary: such a 
 
 ## Related concepts
 
-- [[Vocabularies as tools]] — the compendium's Rortyan concept page for the tool view of language
+- [[Vocabularies as tools]] — my Rortyan concept page for the tool view of language
 - [[Perspectivism]] — the older doctrine that descriptions answer to standpoints rather than to a single reality
 - [[Narrative empathy]] — the novel's work of redescription on the reader, per the Mar and Oatley account
 

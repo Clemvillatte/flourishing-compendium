@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 mild stressors trigger adaptive responses (Mattson, 2008).
 
-Hormesis is a biological concept. Mattson's 2008 paper defines it and reviews the cellular mechanisms. Applying it to psychological or lifestyle stress ("voluntary discomfort") is a step the compendium takes beyond that paper, and the sources below treat that step separately and cautiously.
+Hormesis is a biological concept. Mattson's 2008 paper defines it and reviews the cellular mechanisms. Applying it to psychological or lifestyle stress ("voluntary discomfort") is a step I take beyond that paper, and the sources below treat that step separately and cautiously.
 
 ### The definition
 
@@ -27,9 +27,9 @@ People with some adversity were also the least affected by recent adverse events
 
 ### What this page does not claim
 
-Mattson's paper is about cells and organisms and does not test cold exposure, fasting regimes or psychological challenges for wellbeing in humans. The useful range of a stressor is narrow and varies between people, and a dose that is too high is harmful by the definition itself. Treat the compendium's "hormetic exposure" practices as a hypothesis from this mechanism, not an established result.
+Mattson's paper is about cells and organisms and does not test cold exposure, fasting regimes or psychological challenges for wellbeing in humans. The useful range of a stressor is narrow and varies between people, and a dose that is too high is harmful by the definition itself. Treat my "hormetic exposure" practices as a hypothesis from this mechanism, not an established result.
 
-### In the compendium
+### Here
 
 - [[S121 — Practise voluntary discomfort]], [[K202 — Hormetic exposure]] and [[D141 — Care for life as the root of all endeavor]] cite this concept.
 - [[P139 — Know that cognition is embodied sense-making]] and [[V1K-S01.08 — 8. Body and Biophysiology]] cite it as well.

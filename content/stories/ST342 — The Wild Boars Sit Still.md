@@ -15,7 +15,7 @@ The coach, Ekapol Chanthawong, had gone to live in a monastery at 12 after he wa
 
 After the rescue, the Guardian reported that eleven of the twelve boys were to spend nine days at a temple as part of a novice ordination, to offer gratitude ([Vox, update of 25 July](https://www.vox.com/2018/7/9/17548512/thai-cave-rescue-soccer-boys-meditation-buddhism)).
 
-Vox reports that the coach taught meditation to help the boys remain calm and conserve energy, without specifying the technique ([Vox](https://www.vox.com/2018/7/9/17548512/thai-cave-rescue-soccer-boys-meditation-buddhism)). The compendium pairs that reported use with developing calm and with trusting that the mind can be trained: a skill built over ten years in one person, handed to twelve others in an emergency.
+Vox reports that the coach taught meditation to help the boys remain calm and conserve energy, without specifying the technique ([Vox](https://www.vox.com/2018/7/9/17548512/thai-cave-rescue-soccer-boys-meditation-buddhism)). I pair that reported use with developing calm and with trusting that the mind can be trained: a skill built over ten years in one person, handed to twelve others in an emergency.
 
 ---
 

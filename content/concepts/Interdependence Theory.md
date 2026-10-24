@@ -21,7 +21,7 @@ The book's other founding idea is structural: the outcomes of a dyad are jointly
 
 **Plain words** Two standards do the judging: what you are getting, against what you think you deserve; and what you could get elsewhere, against what leaving would cost or whether it is possible. The first says how satisfied you are; the second says whether you stay — and they can give different answers.
 
-### In the compendium
+### Here
 
 - [[SO039 — Treat cooperation as an evolutionary strategy]]: the principle that reads structure, not character, as the explanation
 

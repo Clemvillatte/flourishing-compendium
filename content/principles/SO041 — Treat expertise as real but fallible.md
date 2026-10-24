@@ -38,7 +38,7 @@ Tetlock's *Expert Political Judgment* examined expert political forecasting. It 
 ## Philosophy parallels
 
 - Peirce — the community of inquiry — Thinker: Peirce — Reference: Peirce (1877). Socrates — Socratic ignorance — Thinker: Socrates — Reference: Plato, Apology, 21d.
-- The principle is used inside the compendium as a pointer to the role expert judgment plays in collective inquiry.
+- The principle is used here as a pointer to the role expert judgment plays in collective inquiry.
 
 ## Practice
 

@@ -19,7 +19,7 @@ The effect has not held up cleanly. A 2024 direct replication of Study 2 with ov
 
 > "We found no support for a consistent moral credential effect: the effect was close to zero in a scenario where participants indicated their preferences to hire from different ethnicities (d = 0.02 to 0.08, depending on inclusion criteria), and was in the opposite direction in a scenario where they indicated preferences for different genders (d = –0.50 to –0.38)." ([Xiao et al., 2024, Replication Registered Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12372676/))
 
-The compendium's use is cautionary rather than diagnostic: D184 (Don't over-cultivate the appearance of virtue) treats the advertised-virtue pattern as a hazard regardless of the debate over effect sizes, and K036 lists the concept among its psychology parallels.
+My use is cautionary rather than diagnostic: D184 (Don't over-cultivate the appearance of virtue) treats the advertised-virtue pattern as a hazard regardless of the debate over effect sizes, and K036 lists the concept among its psychology parallels.
 
 ## Sources
 

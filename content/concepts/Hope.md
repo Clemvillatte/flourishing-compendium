@@ -7,7 +7,7 @@ file: "Hope"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Hope is the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed. The compendium's seed names its two poles, the psychological one in Snyder's hope theory and the philosophical one in Bloch's The Principle of Hope and Marcel's Mystery of Being, and the principle that carries it, R087, draws the line that organises both: hope is not optimism, and it is the refusal to despair while staying honest about the odds.
+Hope is the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed. My seed names its two poles, the psychological one in Snyder's hope theory and the philosophical one in Bloch's The Principle of Hope and Marcel's Mystery of Being, and the principle that carries it, R087, draws the line that organises both: hope is not optimism, and it is the refusal to despair while staying honest about the odds.
 
 ### Snyder's theory: goals, pathways, agency
 
@@ -19,9 +19,9 @@ Ernst Bloch's three-volume Principle of Hope starts from the daydream: "Everybod
 
 ### Marcel's disposition
 
-Gabriel Marcel's distinction, carried in R087, separates hope from prediction: hope is the orientation toward a future that is not guaranteed but possible, "not optimism (the belief that things will turn out well) but the refusal to despair in the face of uncertainty" (the compendium's R087, citing Marcel, The Mystery of Being).
+Gabriel Marcel's distinction, carried in R087, separates hope from prediction: hope is the orientation toward a future that is not guaranteed but possible, "not optimism (the belief that things will turn out well) but the refusal to despair in the face of uncertainty" (my R087, citing Marcel, The Mystery of Being).
 
-### In the compendium
+### Here
 
 R087 practises hope as a disposition and R125 applies it to the ecological future, where the test case lives: working for a future that is not guaranteed, planting trees under whose shade one will never sit. The Stoic caution in the original entry's citation list, Epictetus on the passions, marks the classical worry that hope is a passion to be examined; Spinoza's Ethics III and Aquinas's theological virtue carry the classical analyses, and Camus's Sisyphus the limit case.
 

@@ -17,7 +17,7 @@ Non-being is also one half of a pair, and chapter 2 gives the pairing's rhythm:
 
 > "So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other..." (Laozi, Daodejing, ch. II, trans. James Legge, same source)
 
-The Buddhist parallels cite this page, and the comparison holds only so far: shunyata in the Madhyamaka tradition is an argument about the emptiness of essence in all things, while wu is a way of talking about the absent and the uncarved as what works. The compendium's principles use wu for the practical point: rest, silence, the unplanned hour, the empty room are the load-bearing part of a life rather than its leftover.
+The Buddhist parallels cite this page, and the comparison holds only so far: shunyata in the Madhyamaka tradition is an argument about the emptiness of essence in all things, while wu is a way of talking about the absent and the uncarved as what works. My principles use wu for the practical point: rest, silence, the unplanned hour, the empty room are the load-bearing part of a life rather than its leftover.
 
 ## Related concepts
 - [[T012 — Laozi]]: the source of the term: what is not, as the working part (Daodejing 11).

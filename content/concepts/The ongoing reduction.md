@@ -7,7 +7,7 @@ file: "The ongoing reduction"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Husserl's late work, the Crisis of European Sciences and Transcendental Phenomenology, presents the reduction as a prolonged analysis rather than a single move. The compendium's practice gloss, "the reduction as ongoing", names that prolongation.
+Husserl's late work, the Crisis of European Sciences and Transcendental Phenomenology, presents the reduction as a prolonged analysis rather than a single move. My practice gloss, "the reduction as ongoing", names that prolongation.
 
 > "Strictly speaking, the epoché can be seen as the first step towards what Husserl terms the transcendental reduction, which is his name for the systematic analysis of the intentional correlation between subjectivity and world." ([Stanford Encyclopedia of Philosophy, "Edmund Husserl", by Dan Zahavi](https://plato.stanford.edu/entries/husserl/))
 
@@ -15,7 +15,7 @@ Husserl's late work, the Crisis of European Sciences and Transcendental Phenomen
 
 The same entry notes that in the Crisis Husserl "can compare the performance of the epoché to the transition from a two-dimensional to a three-dimensional life (Hua 6/121 [1970: 119])", and that the reduction is a "more prolonged analysis that leads from the natural sphere back to (re-ducere) its transcendental foundation (Hua 1/21)". The Crisis grounds this in the lifeworld, "the world we live and feel at home in", which for Husserl remains the basis and meaning-foundation for scientific research.
 
-### In the compendium
+### Here
 
 - [[E012 — Practise the reduction as ongoing]]
 - [[K261 — Self-distanced reflection]]
@@ -24,7 +24,7 @@ The same entry notes that in the Crisis Husserl "can compare the performance of 
 ## Related concepts
 
 - [[Epoché]] — the suspension the reduction begins with
-- [[Suspension of the natural attitude]] — the compendium's companion practice
+- [[Suspension of the natural attitude]] — my companion practice
 
 ## Sources
 

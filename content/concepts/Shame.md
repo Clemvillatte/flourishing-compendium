@@ -19,9 +19,9 @@ The authors say the difference of emphasis, on the self in "I did that horrible 
 
 The review does not present this as settled for every group or case. It says the link of shame and guilt to moral behavior "may not generalize across all populations with respect to all behaviors," and notes that one study, which "focused on a unique, homogeneous sample (convicted drunk drivers...) and a single type of transgression," found no evidence that shame and guilt form distinct factors. It also reports that group-based shame "may have a kinder, gentler side than personal shame." Much of the evidence concerns proneness to shame as a trait, for example that it "is positively correlated with anger, hostility, and the propensity to blame factors beyond the self." None of this tests whether a given episode of shame can be useful.
 
-### In the compendium
+### Here
 
-Several principles treat shame, and they come from different traditions. SE030 (shame is about the self, not the act), AF053 and SP034 (Distinguish shame from guilt's signal) follow the psychological distinction above. A021 (Practice shame, aidos) and A118 (Understand shame, aischynē) draw on Greek ethics, a different sense of the word that the compendium keeps on its own pages, [[Shamefastness (aidos)]] and [[Shamefastness as quasi-virtue]]. E036 treats shame as ontological, which is a phenomenological claim, and E504 and SE082 are ethical and spiritual claims. The 2007 review supports only the psychological ones.
+Several principles treat shame, and they come from different traditions. SE030 (shame is about the self, not the act), AF053 and SP034 (Distinguish shame from guilt's signal) follow the psychological distinction above. A021 (Practice shame, aidos) and A118 (Understand shame, aischynē) draw on Greek ethics, a different sense of the word that I keep on its own pages, [[Shamefastness (aidos)]] and [[Shamefastness as quasi-virtue]]. E036 treats shame as ontological, which is a phenomenological claim, and E504 and SE082 are ethical and spiritual claims. The 2007 review supports only the psychological ones.
 
 ## Related concepts
 

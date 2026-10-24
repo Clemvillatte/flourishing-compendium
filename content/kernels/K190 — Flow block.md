@@ -14,7 +14,7 @@ Protect a block of time (45 to 90 minutes) for deep, single-tasked work. Clear n
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the conditions they assemble are Csikszentmihalyi's conditions for flow.*
+*Steps are my own protocol; the conditions they assemble are Csikszentmihalyi's conditions for flow.*
 
 1. Block 45 to 90 minutes and defend them as an appointment; a block that can be interrupted is a suggestion.
 2. Name the goal of the block in one sentence, and choose a task whose difficulty sits at the edge of your skill; too easy invites boredom, too hard invites anxiety.

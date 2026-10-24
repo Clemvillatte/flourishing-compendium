@@ -23,7 +23,7 @@ Festinger's 1954 paper begins from the hypothesis that "there exists, in the hum
 
 For the norms side I opened Cialdini and Goldstein's 2004 Annual Review article, not a 2001 work. Its abstract says targets of influence are motivated "to form accurate perceptions of reality and react accordingly, to develop and preserve meaningful social relationships, and to maintain a favorable self-concept," and that the review stresses influence processes that are "subtle, indirect, and outside of awareness" ([Cialdini and Goldstein, 2004, Annu Rev Psychol 55:591-621](https://pubmed.ncbi.nlm.nih.gov/14744228/)).
 
-### In the compendium
+### Here
 
 MO009 (Recognise that motivation is social) and MO017 (Cultivate relatedness) rest most directly on the self-determination material above. R107 and AF036 are further from these sources. This page uses the 2004 review instead of the 2001 Cialdini citation.
 

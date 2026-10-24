@@ -32,7 +32,7 @@ A resource theory explains by accounting: on the model, a stressor is anything t
 
 A person juggling a new baby, a sick parent and a work deadline illustrates the kind of situation the model addresses: several things the person values (sleep, support from others, time) are threatened at once. The model's reading of such a situation would be in terms of threatened resources rather than a single stressor. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[D055 — Don't force]] — listed as a citing principle; the resource framing is one lens on the principle's caution
 - [[BI062 — Learn to track physiological states — HRV, sleep, energy]] — listed as a citing principle; the model's resource framing is one way to organise what such tracking observes

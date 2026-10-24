@@ -15,7 +15,7 @@ Genuine doubt is Peirce's name, in The Fixation of Belief (1877), for the real a
 
 Doubt, on Peirce's account, is an uneasy and dissatisfied state from which we struggle to free ourselves and pass into the state of belief. The irritation of doubt is the only immediate motive for the struggle to attain belief; with the doubt the struggle begins, and with the cessation of doubt it ends. And for the reader who holds a belief determined by any circumstance extraneous to the facts, the moment that is seen, a real doubt is experienced, so that it ceases to be a belief.
 
-### In the compendium
+### Here
 
 - [[P024 — Let doubt be genuine]] — the principle built on this distinction
 

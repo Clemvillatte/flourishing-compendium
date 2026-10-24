@@ -15,7 +15,7 @@ Topophilia is the love of place: the affective tie that binds a person to a land
 
 ### Why a writer on flourishing would care
 
-Attachment to place supplies continuity, memory and a daily sensory friendship with one's surroundings. The compendium's principle M022 turns the concept into practice: root yourself in a place, and treat the rooting as an achievement worth protecting when life allows it.
+Attachment to place supplies continuity, memory and a daily sensory friendship with one's surroundings. My principle M022 turns the concept into practice: root yourself in a place, and treat the rooting as an achievement worth protecting when life allows it.
 
 ## Sources
 

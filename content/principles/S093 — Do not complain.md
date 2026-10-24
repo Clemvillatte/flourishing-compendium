@@ -20,7 +20,7 @@ Marcus gives an image for the same stance in Meditations IV.49: "Be like the pro
 
 On the psychology side, Gross and John found in five studies that habitual reappraisal went with more positive emotion and better relationships, while habitual suppression went with less positive emotion and worse relationships ([J Pers Soc Psychol, 2003; PubMed](https://pubmed.ncbi.nlm.nih.gov/12916575/)). This is a nearby finding about regulating emotion and not about complaint. The entry's Gross (2015) and Hayes (2011) references are cited at second hand.
 
-**Plain words** Epictetus advises wishing for things to happen as they do happen, and Marcus likens the steady person to a rock the waves break against. Neither text addresses complaining aloud. That part of the entry is the compendium's reading.
+**Plain words** Epictetus advises wishing for things to happen as they do happen, and Marcus likens the steady person to a rock the waves break against. Neither text addresses complaining aloud. That part of the entry is my reading.
 
 *For example:* Stuck in a slow queue, someone answers messages on their phone instead of sighing.
 

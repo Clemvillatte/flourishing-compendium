@@ -25,7 +25,7 @@ Moore's later account of overprecision is close to the principle's point: it "re
 
 ### Limits
 
-Knowing that thinking is fallible is not a guarantee of better thinking, and the sources above do not show that intellectual humility makes careers or decisions better. The Leary et al. result on intellectual humility is covered under P010. "Wisdom includes knowing this" is the compendium's framing of the Socratic point.
+Knowing that thinking is fallible is not a guarantee of better thinking, and the sources above do not show that intellectual humility makes careers or decisions better. The Leary et al. result on intellectual humility is covered under P010. "Wisdom includes knowing this" is my framing of the Socratic point.
 
 (Plato, Apology 21d; Moore and Healy, 2008.)
 

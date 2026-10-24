@@ -14,7 +14,7 @@ An hour outdoors at each change of season, noticing what has changed: light, tem
 
 ### Protocol
 
-The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
+The steps are my practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. Pick the same route or patch for each visit, so the comparison is honest: the same hedgerow, park, or shoreline seen in different light.
 2. Notice the changes by category: light, temperature, growth, decay, animal behavior. Write them down or say them aloud; the noticing is the point, not the walk's length.

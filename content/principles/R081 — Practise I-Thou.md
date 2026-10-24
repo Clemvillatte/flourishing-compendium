@@ -23,7 +23,7 @@ In the passage, every It is bounded by others and exists only through being boun
 **Plain words**
 Consider a conversation in which you are focused on what someone can do for you. As a compendium exercise, notice whether that aim is determining everything you attend to. Make room for what the other person wants to say.
 
-*For example:* Imagine listening to a colleague only as the person responsible for delivering a report. For the compendium's exercise, invite them to describe the situation and listen without immediately directing the conversation back to the report.
+*For example:* Imagine listening to a colleague only as the person responsible for delivering a report. For my exercise, invite them to describe the situation and listen without immediately directing the conversation back to the report.
 
 ## Sources
 

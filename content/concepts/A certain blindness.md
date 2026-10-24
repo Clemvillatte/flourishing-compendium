@@ -23,7 +23,7 @@ Notice the balance. James does not say that all views are equal or that one's ow
 
 The essay is not relativism and not a call for indifference. Its demand is humility about what one can see from where one stands, joined with faithfulness to one's own opportunities.
 
-### In the compendium
+### Here
 
 - [[P136 — Recognize your blindness — others live in worlds you cannot see]] — states the essay's point directly
 - [[P135 — Practice tolerance without indifference]] — discusses tolerance without indifference

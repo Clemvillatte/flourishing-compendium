@@ -15,7 +15,7 @@ Exposure processes are the mechanisms by which exposure therapy, the repeated ap
 
 The review discusses strategies including expectancy violation, removal of safety signals and varying exposure conditions. Table 6 also recommends maintaining attention on the feared cue during exposure. The authors distinguish this account from approaches that use fear reduction within an exposure trial as the criterion for therapeutic change.
 
-### In the compendium
+### Here
 
 - [[B085 — Let observation dissolve what force cannot]] — carries this research as its psychology parallel
 

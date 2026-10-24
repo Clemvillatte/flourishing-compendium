@@ -15,9 +15,9 @@ The dignity of labor is John Dewey's claim, in Democracy and Education, that wor
 
 Dewey defines an occupation generously: "An occupation is a continuous activity having a purpose." Work, so understood, is a way a person develops, which is why training that treats the person as a future instrument insults both the person and the work. His warning is direct: "To predetermine some future occupation for which education is to be a strict preparation is to injure the possibilities of present development and thereby to reduce the adequacy of preparation for a future right employment." And the positive program: "The only adequate training for occupations is training through occupations." One learns to work by working at work worth doing, with the thinking included, rather than by being prepared in the abstract for a slot.
 
-The compendium's reading of labor's dignity follows from this: no honest work, done with attention and growth, is beneath the person doing it, and no work that forecloses the worker's growth can claim the dignity in the first place.
+My reading of labor's dignity follows from this: no honest work, done with attention and growth, is beneath the person doing it, and no work that forecloses the worker's growth can claim the dignity in the first place.
 
-### In the compendium
+### Here
 
 - [[B025 — Practice right livelihood]] — the Buddhist rule this concept pairs with
 - [[B152 — Align your work with your values (right livelihood, revisited)]] — the alignment test

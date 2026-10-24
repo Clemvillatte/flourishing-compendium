@@ -13,7 +13,7 @@ Parrhesia is frank truth-telling that exposes the speaker to danger in Foucault'
 
 His contrast is concrete: a teacher can tell children the truth without qualifying as a parrhesiastes, while a philosopher who confronts a tyrant risks punishment ([Parrhesia and Danger](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)). The distinction concerns the speaker's situation and commitment as well as the statement's content ([same lecture](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)).
 
-### In the compendium
+### Here
 
 - [[S034 — Let your actions be consistent with your words]] uses the concept as a comparison with integrity: Foucault's risk-bearing speech adds a demand beyond consistency between words and deeds ([first lecture](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)).
 

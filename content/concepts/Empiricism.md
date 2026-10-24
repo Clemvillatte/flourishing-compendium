@@ -19,9 +19,9 @@ Locke begins his account of ideas in Book II of the Essay with a question: "Let 
 
 ### Where it matters here
 
-The tradition gives the compendium a reason to prefer testing beliefs to arguing about them. It is only half the picture. The same SEP entry describes the rationalist side, which holds that some knowledge comes from reason alone, so the disagreement is about sources and has no single winner.
+The tradition gives me a reason to prefer testing beliefs to arguing about them. It is only half the picture. The same SEP entry describes the rationalist side, which holds that some knowledge comes from reason alone, so the disagreement is about sources and has no single winner.
 
-### In the compendium
+### Here
 
 - [[BE020 — Learn to use behavioural experiments — test beliefs through action]] and [[R065 — Practise the extension of knowledge (zhizhi)]] each put experience or investigation first. Neither principle cites Locke, so this page is a historical background and not their source.
 
@@ -29,7 +29,7 @@ The tradition gives the compendium a reason to prefer testing beliefs to arguing
 
 - [[Investigation of things]] — the Confucian counterpart to Aristotle's path from perception to knowledge
 - [[Behavioral experiments in CBT]] — a modern practice of treating a belief as a hypothesis to be tested
-- [[Empiricism — experience over argument]] — a companion page in the compendium
+- [[Empiricism — experience over argument]] — a companion page here
 
 ## Sources
 

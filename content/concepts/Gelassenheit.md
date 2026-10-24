@@ -27,7 +27,7 @@ The waiting does not expect anything: on the article's reading of the dialogue, 
 
 In the "Memorial Address" of 1955 Heidegger brings the same disposition to technology: a person can use technical devices and remain free to "let go of them at any time," denying them "the right to dominate us, and so to wrap, confuse, and lay waste our nature." He names this comportment releasement toward things, paired with openness to the mystery. The Stanford Encyclopedia notes that Heidegger's adaptation of Eckhartian terms like Gelassenheit for his own philosophical purposes has further obscured Eckhart's own use of them.
 
-### In the compendium
+### Here
 
 - [[E102 — Practise Gelassenheit (releasement)]] — the dedicated principle: cultivate the letting-be of things as an active release of the grip of willing, controlling and possessing.
 - [[D055 — Don't force]] — the Daoist principle on not forcing (DDJ 29, 64).
@@ -41,11 +41,11 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 
 - [[Wu wei]] — the Daoist ideal of effortless, unforced activity; a cross-tradition parallel, not a historical link.
 - [[Letting-be]]
-- [[Non-attachment]] — the compendium's comparison: Buddhist clinging (upādāna) beside Eckhart's letting go of attachment to one's actions.
+- [[Non-attachment]] — my comparison: Buddhist clinging (upādāna) beside Eckhart's letting go of attachment to one's actions.
 - [[Apatheia]] — the Stoic freedom from passion; the Encyclopedia calls Eckhart's negative virtues Stoic-sounding.
-- [[Beginner's mind]] — meeting experience free of the habits of the expert; the compendium pairs it with Heidegger's waiting.
+- [[Beginner's mind]] — meeting experience free of the habits of the expert; I pair it with Heidegger's waiting.
 - [[Acceptance]] — in ACT, the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form; a cousin, not the same thing.
-- [[Shikantaza, just sitting]] — Dogen's objectless just-sitting practice; the compendium pairs it with Heidegger's waiting.
+- [[Shikantaza, just sitting]] — Dogen's objectless just-sitting practice; I pair it with Heidegger's waiting.
 - [[T053 — Dogen]]: shikantaza, the objectless just-sitting practice the concept pairs with letting-be.
 
 ## Sources

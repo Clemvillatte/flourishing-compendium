@@ -19,7 +19,7 @@ The passage is about character, but the same method applies to the case of feeli
 
 The passage mentions no discharge of what cannot be removed: it is concealed or "reinterpreted and made sublime" ([§290](https://faculty.georgetown.edu/blattnew/intro/gs290.html)). On this reading an emotion is not a finished product delivered by nature but raw material for a practice, and the practice is slow: "long practice and daily work at it" ([§290](https://faculty.georgetown.edu/blattnew/intro/gs290.html)).
 
-In the compendium the idea backs [[P113 — Express by shaping, not venting]], and the compendium reads it as a forerunner of the framing in [[AF009 — Understand that affect is constructed, not discovered]].
+Here the idea backs [[P113 — Express by shaping, not venting]], and I read it as a forerunner of the framing in [[AF009 — Understand that affect is constructed, not discovered]].
 
 ## Related concepts
 

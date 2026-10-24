@@ -17,7 +17,7 @@ The SEP entry states the argument: it is through an encounter with another subje
 
 Merleau-Ponty gives the concept its body-side: the SEP entry on other minds treats his Phenomenology of Perception as arguing that we have direct contact with other subjects rather than inferring them, because perception is already an embodied taking-up of a shared world.
 
-The compendium's [[E009 — Practise intersubjectivity]] turns the point into an exercise: notice, in a given moment, that the objects you experience are experienced by others too, and that this is given rather than concluded.
+My [[E009 — Practise intersubjectivity]] turns the point into an exercise: notice, in a given moment, that the objects you experience are experienced by others too, and that this is given rather than concluded.
 
 ## Related concepts
 

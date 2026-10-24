@@ -22,7 +22,7 @@ And the faculty that makes the pause possible:
 
 > "Arguably, the most important difference is the power of assent (sunkatathesis). Assent is a faculty found only in the rational soul – in particular, only in the ruling part or commanding faculty (hêgemonikon) of the rational soul – which enables us to adopt a critical stance towards our own impressions and pass judgment" — [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
-The three-breath count is the compendium's editorial timing; the withholding it buys is the Stoic act.
+The three-breath count is my editorial timing; the withholding it buys is the Stoic act.
 
 ### Protocol
 

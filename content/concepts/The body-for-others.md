@@ -25,14 +25,14 @@ Sartre's early view is bleak: "The essence of the relations between consciousnes
 
 The entry covers the Look and being-for-others, and it points readers to other sources on Sartre's treatment of embodiment. It does not supply Sartre's own wording on the body-for-others, and Being and Nothingness is cited at second hand. The entry reports Sartre's phenomenology, not evidence about wellbeing, and its bleak view of relations with others is described by the entry as Sartre's early position.
 
-### In the compendium
+### Here
 
 - [[E069 — Practise the body-for-others]] quotes Sartre's three dimensions of the body in the Barnes translation. That passage was not checked here against the book.
 
 ## Related concepts
 
-- [[The body-subject]] — the compendium's page on the body as perceiving subject
-- [[The chiasm]] — the compendium's page on Merleau-Ponty's account of reversibility
+- [[The body-subject]] — my page on the body as perceiving subject
+- [[The chiasm]] — my page on Merleau-Ponty's account of reversibility
 - [[Embodiment]] — the wider field the body-as-object belongs to
 
 ## Sources

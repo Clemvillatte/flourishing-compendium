@@ -36,7 +36,7 @@ The theory is organismic rather than computational in form. Where cognitivism ex
 
 Illustrative scenario: a person reaches for a cup while looking elsewhere and their hand adjusts mid-course to the handle's position. The enactive reading is that perceiving the cup is partly knowing what the visual field will do as the head and hand move. The scenario illustrates perceptually guided action; it is not a reported experiment.
 
-### In the compendium
+### Here
 
 - [[P060 — Admit there is no spectator self]] — the enactive view backs the principle's rejection of the detached observer: the knower acts inside the scene
 - [[P139 — Know that cognition is embodied sense-making]] — the principle drawn directly from The Embodied Mind's enaction chapter

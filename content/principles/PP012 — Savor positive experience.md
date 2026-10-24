@@ -17,7 +17,7 @@ Bryant and Veroff define [[Savoring|Savoring]] as the capacity "to attend to, ap
 > These results provide support for the hypothesis that savoring is an important mechanism through which people derive happiness from positive events.
 > (Jose, Lim and Bryant 2012, Journal of Positive Psychology 7(3))
 
-A review reporting the Hurley and Kwon study describes two weeks of training in memory building and expressing positive emotions that decreased self-reported depression symptoms and negative affect (but not positive affect) compared to controls. The compendium's exercise: when something good happens, spend a little time attending to it, noticing the sensory detail, or taking a mental photograph.
+A review reporting the Hurley and Kwon study describes two weeks of training in memory building and expressing positive emotions that decreased self-reported depression symptoms and negative affect (but not positive affect) compared to controls. My exercise: when something good happens, spend a little time attending to it, noticing the sensory detail, or taking a mental photograph.
 
 **Plain words** Spend a little time attending to an enjoyable moment and noticing what you appreciate in it. The exercise is the attention itself: replaying a good conversation before opening the news, or letting a small win sit for an evening before asking what is next.
 

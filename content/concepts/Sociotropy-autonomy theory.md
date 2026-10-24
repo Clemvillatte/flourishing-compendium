@@ -19,7 +19,7 @@ Beck described the two modes in 1983. Sociotropy (social dependency) was describ
 
 The theory's working prediction is a match between person and event: "In each personality, life stressors congruent with the content of self-schemas lead to increased susceptibility to depression" ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/)). A sociotropic person is thrown by rejection, separation and interpersonal loss; an autonomous person by failure, constraint and loss of control.
 
-### In the compendium
+### Here
 
 - [[R101 — Practise relational autonomy]] and [[R077 — Practise relational autonomy]]: the theory's dependency construct is the clinical neighbour of the autonomy the principles practise
 - [[SO013 — Treat cultural meaning as constructed, not given]]: the two styles are organized patterns of meaning about the self

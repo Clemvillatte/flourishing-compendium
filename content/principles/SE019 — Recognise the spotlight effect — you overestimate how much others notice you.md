@@ -22,7 +22,7 @@ The demonstration used a T-shirt:
 
 The authors' interpretation is anchoring and adjustment: you estimate others' attention by starting from your own experience, where you are the main thing on stage, and you correct too little.
 
-The compendium's instruction: when you feel scrutinised, treat the feeling as data about your own attention rather than about the room's.
+My instruction: when you feel scrutinised, treat the feeling as data about your own attention rather than about the room's.
 
 **Plain words** The thing you cannot stop noticing about yourself — the stain, the flub, the pause — is one item among many in everyone else's field. You estimate the room's attention from your own attention, and the study says the correction runs too small. The finding is about your estimate of what others see, so treat the felt scrutiny as a hypothesis: ask one person what they actually noticed before concluding the room saw it.
 

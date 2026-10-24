@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Existential confrontation” — Tillich, 1952; Yalom, 1980.
 
-Existential confrontation means facing the basic conditions of human life, such as death, freedom, isolation and meaninglessness, instead of avoiding them. The two sources in the original entry supply the underlying theories: Paul Tillich's account of anxiety as awareness of nonbeing in The Courage to Be (1952), and Irvin Yalom's four ultimate concerns in Existential Psychotherapy (1980). The compendium's phrase is a label; neither author is shown here using it as a technical term.
+Existential confrontation means facing the basic conditions of human life, such as death, freedom, isolation and meaninglessness, instead of avoiding them. The two sources in the original entry supply the underlying theories: Paul Tillich's account of anxiety as awareness of nonbeing in The Courage to Be (1952), and Irvin Yalom's four ultimate concerns in Existential Psychotherapy (1980). My phrase is a label; neither author is shown here using it as a technical term.
 
 ### Tillich: three directions of threat
 
@@ -37,7 +37,7 @@ The authors note that the number of studies is small and that effects varied wid
 
 The sources give a descriptive theory of what is confronted, and mixed evidence for therapies built on it. They do not show that confrontation is safe or helpful for everyone. Tillich's frame is theological as well as philosophical, which should be borne in mind before using it as a general psychological claim.
 
-### In the compendium
+### Here
 
 - [[E091 — Practise limit situations]], [[E055 — Practise the recognition of the absurd]] and [[V2K-S01.18 — 18. Existential Therapy and Moral Injury]] cite this concept.
 - [[ST268 — Lee Cannot Be Forgiven]], [[ST274 — Watanabe on the Swing]] and [[ST286 — The Grand Inquisitor]] cite it as well.

@@ -11,7 +11,7 @@ Thinking is what the mind does with what awareness delivers, and it is a mixed i
 - Reasoning: studied as measured performance by [Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research) and as wise performance by [Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning).
 - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason) and the philosophy cards it links to.
 
-## The map: every entry the wiki holds on cognition
+## The map: the entries on cognition
 
 ### The two speeds of thought
 
@@ -179,13 +179,13 @@ The acceptance-and-commitment tradition's answer keeps the thought and moves the
 
 > "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.
 
-Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. The wiki holds both without adjudicating which works when; the defusion card itself notes its exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
+Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. I hold both without adjudicating which works when; the defusion card itself notes its exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the relation to one's own thinking: thoughts taken as facts, the first interpretation kept, beliefs held past their evidence, and reasoning pressed into service of identity. The adaptive direction is the thought seen as a thought, alternatives actually considered, beliefs revisable, and reasoning used to find out rather than to defend.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=K126%20%E2%80%94%20Cognitive%20defusion): noting a painful thought in the form "I'm having the thought that..."; the thought's authority, not its content, is what changes.
 
@@ -213,7 +213,7 @@ The evidence limits are uneven across the list, and the kernels say so where it 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Beliefs
 

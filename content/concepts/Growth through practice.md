@@ -14,13 +14,13 @@ Growth through practice is the Buddhist theory of change: qualities are not give
 
 The claim is not metaphorical. The qualities named, concentration, benevolence, insight, are treated as trainable faculties, developed by repetition the way a field is cultivated. When the word appears alone it "signifies contemplation and 'spiritual cultivation' generally", and the English rendering "meditation" narrows it: metta-bhavana is better read as the cultivation of benevolence than as one technique.
 
-The same theory of change runs outside Buddhism. Aristotle's habituation, virtue acquired by doing virtuous acts, and Dewey's laboratory school both treat growth as an activity rather than a transmission; the compendium's A108, "Practise habituation through repeated action," carries the Aristotelian version. These are parallels in structure, not documented influence.
+The same theory of change runs outside Buddhism. Aristotle's habituation, virtue acquired by doing virtuous acts, and Dewey's laboratory school both treat growth as an activity rather than a transmission; my A108, "Practise habituation through repeated action," carries the Aristotelian version. These are parallels in structure, not documented influence.
 
-### In the compendium
+### Here
 
-The compendium's principles read practice as the engine of growth. CO007, "Know that thinking is trainable — cognitive capacities can be built," states the general claim; MO014 lists growth among the intrinsic values that predict well-being; ST108's Dewey story is the educational version; K023, "Practice the return to the ordinary as the completion," guards against mistaking peak states for the goal. BI052 adds the clinical edge: trauma's effects are workable bottom-up, through practice rather than insight alone. SE017's inner-critic principle marks the failure mode: harsh self-talk is not the practice.
+My principles read practice as the engine of growth. CO007, "Know that thinking is trainable — cognitive capacities can be built," states the general claim; MO014 lists growth among the intrinsic values that predict well-being; ST108's Dewey story is the educational version; K023, "Practice the return to the ordinary as the completion," guards against mistaking peak states for the goal. BI052 adds the clinical edge: trauma's effects are workable bottom-up, through practice rather than insight alone. SE017's inner-critic principle marks the failure mode: harsh self-talk is not the practice.
 
-The cross-tradition agreement that growth is an activity is the compendium's deepest convergence: bhavana, habituation and Dewey's doing all make the person the product of the practice. That is a comparison of structures, not a genealogy.
+The cross-tradition agreement that growth is an activity is my deepest convergence: bhavana, habituation and Dewey's doing all make the person the product of the practice. That is a comparison of structures, not a genealogy.
 
 ## Related concepts
 

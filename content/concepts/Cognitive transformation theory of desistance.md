@@ -31,7 +31,7 @@ And the fourth seals it:
 
 > "Thus, the desistance process can be seen as relatively complete when the actor no longer sees these same behaviors as positive, viable, or even personally relevant." (same paper)
 
-The theory matters beyond criminology because it is a worked example of how change in a life happens: an opening of attention, a latching onto something in the world, a new self-image, and finally a change in what the old life even means. The compendium's principle [[SP051 — Understand the affect to transform it]] belongs to the same family of ideas, and the narrative version of the same insight is told under [[Narrative redemption sequences]].
+The theory matters beyond criminology because it is a worked example of how change in a life happens: an opening of attention, a latching onto something in the world, a new self-image, and finally a change in what the old life even means. My principle [[SP051 — Understand the affect to transform it]] belongs to the same family of ideas, and the narrative version of the same insight is told under [[Narrative redemption sequences]].
 
 ## Sources
 

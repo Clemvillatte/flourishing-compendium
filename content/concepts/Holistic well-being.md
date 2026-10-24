@@ -21,9 +21,9 @@ Ryff drew on that literature of positive functioning and operationalized its asp
 
 The theory beneath the dimensions is, in Ryff's reading, Aristotelian in spirit. She argues that Aristotle's eudaimonia might better have been translated as realization of one's true potential rather than as happiness, and that "Had Aristotle's view of eudaimonia as the highest of all good been translated as realization of one's true potential rather than as happiness, the past 20 years of research on psychological well-being might well have taken different directions." On this view, feeling good is not the target; functioning well is. Personal growth makes the point sharply, since Ryff frames it as a requirement that runs beyond any achieved state of functioning, a matter of continuing "to develop one's potential, to grow and expand as a person."
 
-### In the compendium
+### Here
 
-The idea crosses the compendium's tracks: a principle on connection to mind and emotions picks up the inside of the profile, a principle on Te Whare Tapa Whā offers a Māori model of well-being, and a principle on the sociocultural level treats the settings in which wellness is defined.
+The idea crosses my tracks: a principle on connection to mind and emotions picks up the inside of the profile, a principle on Te Whare Tapa Whā offers a Māori model of well-being, and a principle on the sociocultural level treats the settings in which wellness is defined.
 
 ## Sources
 

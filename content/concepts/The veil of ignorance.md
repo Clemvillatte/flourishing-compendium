@@ -23,13 +23,13 @@ The purpose follows immediately: "This ensures that no one is advantaged or disa
 
 The veil is not a claim that people are ignorant. It is a specification of what counts as a morally relevant reason in choosing principles: facts about one's own position do not count. Rawls's summary of the thought: "The purpose of the veil of ignorance is to deny to the contracting parties the knowledge of their own characteristics and circumstances that would enable them to propose or insist on principles designed to favor themselves" ([University of Chicago Law Review, "The Theory of Justice"](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=3767&context=uclrev)). The parties keep general knowledge — economics, psychology, the circumstances of justice — and lose only the particular facts about themselves ([SEP, "Original Position"](https://plato.stanford.edu/entries/original-position/)).
 
-The concept matters to the compendium because it is the cleanest tool for testing whether a rule you endorse would survive being on the receiving end of it, and [[Justice]] is the virtue it serves.
+The concept matters here because it is the cleanest tool for testing whether a rule you endorse would survive being on the receiving end of it, and [[Justice]] is the virtue it serves.
 
 ## Related concepts
 
 - [[Justice]] — the idea Rawls's device is built to specify
 - [[Justice]] — the virtue the veil tests for: fairness blind to who you are
-- [[ST253 — Rawls and the Veil]] — the compendium's story built on this device
+- [[ST253 — Rawls and the Veil]] — my story built on this device
 - [[Intergenerational justice]] — the extension of the veil across generations
 - [[R112 — Practise intergenerational justice]] — principle link
 

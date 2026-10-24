@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter B", "parent": ""}
 ---
 
-Henri Bergson (1859, Paris — 1941, Paris) is the philosopher of lived time, life as creation, and intuition as the way into both. He received the 1927 Nobel Prize in Literature "in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented" ([Wikipedia, Henri Bergson](https://en.wikipedia.org/wiki/Henri_Bergson)), and his account of life's vital impulse (*élan vital*) gave the wiki its cleanest statement of the opposite of mechanism: "an original common impulse which explains the creation of all living species" ([SEP, Henri Bergson](https://plato.stanford.edu/entries/bergson/)).
+Henri Bergson (1859, Paris — 1941, Paris) is the philosopher of lived time, life as creation, and intuition as the way into both. He received the 1927 Nobel Prize in Literature "in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented" ([Wikipedia, Henri Bergson](https://en.wikipedia.org/wiki/Henri_Bergson)), and his account of life's vital impulse (*élan vital*) gave its cleanest statement of the opposite of mechanism: "an original common impulse which explains the creation of all living species" ([SEP, Henri Bergson](https://plato.stanford.edu/entries/bergson/)).
 
 ## Personal story / context
 
@@ -31,14 +31,14 @@ His doctoral thesis, *Time and Free Will* (1889), introduced duration (*durée*)
 - **Life as creation, novelty as real** — "life must be equated with creation" ([SEP](https://plato.stanford.edu/entries/bergson/)). See [[P191 — Joy is the felt signature of creation; distinct from pleasure|Joy is the felt signature of creation; distinct from pleasure]], [[BE059 — Engage in creative behaviour — making is well-being|Engage in creative behaviour: making is well-being]], [[P086 — Channel the creative impulse|Channel the creative impulse]].
 - **Freedom as pure mobility** — once time is seen as it is lived, determinism is impossible; Bergson identified free will with "pure mobility" ([Wikipedia, Henri Bergson](https://en.wikipedia.org/wiki/Henri_Bergson)). See [[P193 — Consciousness is choice; where there is no choice, there is mechanism|Consciousness is choice; where there is no choice, there is mechanism]], [[P071 — Trust the plasticity of human nature|Trust the plasticity of human nature]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Elan vital|Élan vital]]
 - [[P091 — Distinguish lived time from clock time|Distinguish lived time from clock time]]
 - [[P102 — Trust the creative thrust of life|Trust the creative thrust of life]]
 - [[P191 — Joy is the felt signature of creation; distinct from pleasure|Joy is the felt signature of creation; distinct from pleasure]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 51-entry surname-match floor is not reproduced.
 

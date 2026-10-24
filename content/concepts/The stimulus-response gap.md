@@ -23,15 +23,15 @@ And the first chapter supplies the underlying division of what is and is not our
 
 > "Of things some are in our power, and others are not." (Epictetus, [Encheiridion I, Gutenberg](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm))
 
-### In the compendium
+### Here
 
 - [[SP052 — Separate the affect from its external cause]] — the principle takes the gap between impression and response and works it into a practice.
 
 ## Related concepts
 - [[T011 — Socrates]]: the source of the opinions-between-things quote the page opens with.
 
-- [[Apatheia]] — the compendium's pairing for the freedom-from-passion outcome.
-- [[Eudaimonia]] — the compendium's pairing for the flourishing the practice serves.
+- [[Apatheia]] — my pairing for the freedom-from-passion outcome.
+- [[Eudaimonia]] — my pairing for the flourishing the practice serves.
 
 ## Sources
 

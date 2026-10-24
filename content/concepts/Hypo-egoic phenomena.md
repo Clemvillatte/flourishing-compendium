@@ -11,7 +11,7 @@ Hypo-egoic phenomena are psychological states in which self-focused processing i
 
 > "For centuries, many philosophers, scientists, spiritual leaders, and social activists have advocated a 'hypo-egoic' way of being, a psychological mindset characterized by less self-preoccupation in favor of a more inclusive, 'we first' mode of functioning." — [Brown & Leary (eds.), The Oxford Handbook of Hypo-egoic Phenomena, volume abstract, Oxford Academic](https://academic.oup.com/edited-volume/28342)
 
-On the compendium's reading, the construct matters here because it names, in one frame, what the contemplative traditions describe as the fruits of practice: presence without self-commentary, concern without self-concern, and action that is not first of all about the actor.
+On my reading, the construct matters here because it names, in one frame, what the contemplative traditions describe as the fruits of practice: presence without self-commentary, concern without self-concern, and action that is not first of all about the actor.
 
 ### Two sources of evidence
 

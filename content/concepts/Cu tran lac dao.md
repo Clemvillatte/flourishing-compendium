@@ -21,14 +21,14 @@ One commentary explains the title as "living in the dust of the world while rejo
 
 The sources are a translator's website, commentaries and a government cultural page, and no scholarly edition was consulted. The attribution to Trần Nhân Tông and the dating come from those secondary sources. The verse is not a rule to ignore effort or learning. Its own longer text, in the translator's version, speaks of keeping precepts and examining body and mind.
 
-### In the compendium
+### Here
 
 - [[B196 — Dwell in the world, joyful in the Way (cư trần lạc đạo)]] is the principle built on this verse.
 
 ## Related concepts
 
 - [[Engaged Buddhism]] — a modern Buddhist current that also joins practice to worldly action
-- [[Simplicity as practice]] — the compendium's page on simplicity as a discipline
+- [[Simplicity as practice]] — my page on simplicity as a discipline
 
 ## Sources
 

@@ -27,7 +27,7 @@ The abstract names the variables through which power is said to accrue: coping w
 
 Hypothetical example involving units: a hospital's emergency department handles unpredictable arrivals, and many other departments depend on how it triages them. The theory directs attention to the dependencies such a position creates between the units, rather than to the personalities or the formal hierarchy.
 
-### In the compendium
+### Here
 
 - [[P121 — Enrich experience — add layers of relation and meaning]]
 - [[B150 — Relate without exploitation]]

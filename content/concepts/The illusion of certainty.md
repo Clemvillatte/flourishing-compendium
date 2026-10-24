@@ -15,7 +15,7 @@ The illusion of certainty is the gap between how sure a person feels and how muc
 
 Kahneman's explanation is that confidence tracks the story, not the evidence. Two verbatim passages carry it: "The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see, even if they see little" ([Quotepark](https://quotepark.com/works/thinking-fast-and-slow-3807/)), and "It is the consistency of the information that matters for a good story, not its completeness. Indeed, you will often find that knowing little makes it easier to fit everything you know into a coherent pattern" ([Lib Quotes](https://libquotes.com/daniel-kahneman/works/thinking,-fast-and-slow)). This is why certainty can rise as evidence thins: less material is easier to arrange into a coherent pattern.
 
-### In the compendium
+### Here
 
 - [[CO069 — Learn to think in probabilities — certainty is usually an illusion]] — the principle that treats this illusion as the reason to give probabilities instead of verdicts
 - [[CO058 — Understand flashbulb memories — vividness is not accuracy]] — the principle pairs this concept with its finding that memory confidence stays high while accuracy declines
@@ -26,7 +26,7 @@ Kahneman's explanation is that confidence tracks the story, not the evidence. Tw
 - [[Hindsight bias]] — the past feeling knowable, one feeder of the illusion
 - [[The illusion of knowledge]] — the companion illusion about understanding more than one does
 - [[The illusion of transparency]] — the companion illusion about others reading one's mind
-- [[Probabilistic thinking]] — the corrective practice the compendium prescribes
+- [[Probabilistic thinking]] — the corrective practice I prescribe
 - [[Fallibilism]] — the philosophical stance that holds every belief as provisional
 
 ## Sources

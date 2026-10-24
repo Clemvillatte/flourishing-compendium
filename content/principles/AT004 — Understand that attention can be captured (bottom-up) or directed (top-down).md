@@ -20,7 +20,7 @@ A 2012 paper argued that the dichotomy is incomplete. Awh, Belopolsky and Theeuw
 
 ### Scope
 
-The sources describe brain systems and lab findings about vision. They do not address phones, advertising or the claim that modern life exploits the first system. That is the compendium's reading.
+The sources describe brain systems and lab findings about vision. They do not address phones, advertising or the claim that modern life exploits the first system. That is my reading.
 
 **Plain words** Attention can be pulled by something salient or sudden, or it can be pointed at something you have chosen. Brain research describes two networks for this, and they work together. More recent work adds that past experience, such as what has paid off before, also shapes where attention goes.
 

@@ -16,7 +16,7 @@ Dai, Milkman and Riis documented the effect they named the fresh start effect ac
 
 > "We show that Google searches for the term 'diet' (Study 1), gym visits (Study 2), and commitments to pursue goals (Study 3) all increase following temporal landmarks (e.g., the outset of a new week, month, year, or semester; a birthday; a holiday)." (Dai, Milkman & Riis, 2014, hosted PDF p. 2; p. 1 is an INFORMS cover page)
 
-Their proposed mechanism is that the landmarks "demarcate the passage of time, creating many new mental accounting periods each year, which relegate past imperfections to a previous period, induce people to take a big-picture view of their lives, and thus motivate aspirational behaviors" (PDF p. 3). These archival studies found increased goal-related activity following temporal landmarks; they do not establish lasting habit formation. The compendium's suggested use: a meaningful date can serve as a prompt when planning a start.
+Their proposed mechanism is that the landmarks "demarcate the passage of time, creating many new mental accounting periods each year, which relegate past imperfections to a previous period, induce people to take a big-picture view of their lives, and thus motivate aspirational behaviors" (PDF p. 3). These archival studies found increased goal-related activity following temporal landmarks; they do not establish lasting habit formation. My suggested use: a meaningful date can serve as a prompt when planning a start.
 
 ### Plain words
 

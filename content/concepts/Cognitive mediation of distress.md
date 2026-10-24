@@ -12,9 +12,9 @@ Cognitive mediation of distress names a cognitive-therapy assumption: interpreta
 
 > Human emotions are primarily caused by people's thoughts and perceptions rather than events. — [Wikipedia, Cognitive behavioral therapy (opened)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
 
-The same overview describes reciprocal influences among events, thoughts, emotions, behaviors, and physiological reactions, so the assumption is not a claim that events do not matter. It locates one place where change can be attempted: questioning a thought is one way to reach a feeling. The CBT literature itself notes the influence of Epictetus on Albert Ellis. The compendium pairs the assumption with Stoic judgement principles and with exercises that separate evidence from interpretation.
+The same overview describes reciprocal influences among events, thoughts, emotions, behaviors, and physiological reactions, so the assumption is not a claim that events do not matter. It locates one place where change can be attempted: questioning a thought is one way to reach a feeling. The CBT literature itself notes the influence of Epictetus on Albert Ellis. I pair the assumption with Stoic judgement principles and with exercises that separate evidence from interpretation.
 
-### In the compendium
+### Here
 
 - [[S051 — Recognise that your judgements are the source of your distress]] — the Stoic judgement principle.
 - [[K005 — See that all fear and suffering are mind-made at the root]] — mind-made roots.

@@ -7,7 +7,7 @@ file: "The quiet craftsman's life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The compendium's heading for an ideal that runs through Zhuangzi: a life of skilled, quiet work, done for its own sake and away from display. The book's craftsmen carry it, Cook Ding the butcher and Qing the carver of the bell-stand, and what makes them exemplary is the absorbed way of working rather than the product.
+My heading for an ideal that runs through Zhuangzi: a life of skilled, quiet work, done for its own sake and away from display. The book's craftsmen carry it, Cook Ding the butcher and Qing the carver of the bell-stand, and what makes them exemplary is the absorbed way of working rather than the product.
 
 > "After fasting for three days, I did not presume to think of any congratulation, reward, rank, or emolument (which I might obtain by the execution of my task)." (Qing the worker in wood, Zhuangzi 19, [Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 

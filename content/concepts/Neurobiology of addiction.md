@@ -23,14 +23,14 @@ The abstract maps each stage to its circuitry:
 
 Read plainly, the stages run from drug reward to drug distress to drug craving. In the first, the rewarding effects of drugs and the building of drug-seeking habits involve dopamine and opioid-peptide changes in the basal ganglia. In the second, negative emotional states involve reduced function in the dopamine component of the reward system and the recruitment of brain stress neurotransmitters. In the third, craving and deficits in executive function involve dysregulated projections from the prefrontal cortex and insula. The framework describes reward, withdrawal-related distress and craving through changes across several brain systems; some regions appear in more than one stage.
 
-### In the compendium
+### Here
 
 - [[PP077 — Limit alcohol and substance use]] lists this research as a psychology parallel.
 
 ## Related concepts
 
 - [[Incentive salience theory]] — the Berridge-Robinson wanting theory; the review's definition uses the term "incentive salience"
-- [[The craving-to-addiction model]] — the compendium's model of craving and addiction
+- [[The craving-to-addiction model]] — my model of craving and addiction
 - [[The insatiability of craving]]
 - [[Relapse prevention protocols]] — the protocol approaches relapse through cognitive-behavioural planning; the review describes addiction through neurocircuitry
 - [[Reward prediction error (Schultz)]] — midbrain dopamine neurons signaling reward prediction error

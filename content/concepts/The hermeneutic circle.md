@@ -27,9 +27,9 @@ Gadamer takes up Heidegger's pre-structures and calls them prejudices, because t
 
 ### Limits
 
-This page describes the idea as the encyclopedia presents it. It does not examine criticisms of Gadamer or whether the circle can be broken, and it does not test the compendium's links to stories and to the curse of knowledge, which are its own applications.
+This page describes the idea as the encyclopedia presents it. It does not examine criticisms of Gadamer or whether the circle can be broken, and it does not test my links to stories and to the curse of knowledge, which are its own applications.
 
-### In the compendium
+### Here
 
 - [[E079 — Practise the hermeneutic circle]] and [[CO040 — Know the curse of knowledge — you cannot un-know what you know]] cite this concept in the philosophy parallels.
 - [[ST288 — Joel and Clementine Erase Each Other]], [[ST287 — Will Finishes the Story]], [[ST286 — The Grand Inquisitor]] and [[ST285 — Ricoeur's Threefold Mimesis]] also cite it.

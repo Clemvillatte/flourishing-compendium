@@ -21,7 +21,7 @@ Chapter 44 of the Daodejing asks the reader to price fame and wealth against lif
 > From danger free
 > Long live shall he." (Daodejing 44, [Legge](https://www.gutenberg.org/ebooks/216))
 
-Chapter 9 supplies the timing: "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven." The same chapter gives the picture of the overflow: "It is better to leave a vessel unfilled, than to attempt to carry it when it is full." Chapter 32 makes the same move with names: "When they know to rest in it, they can be free from all risk of failure and error." The compendium applies the verse as a question: what is your fill line, and what does staying past it cost?
+Chapter 9 supplies the timing: "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven." The same chapter gives the picture of the overflow: "It is better to leave a vessel unfilled, than to attempt to carry it when it is full." Chapter 32 makes the same move with names: "When they know to rest in it, they can be free from all risk of failure and error." I applie the verse as a question: what is your fill line, and what does staying past it cost?
 
 **Plain words**
 The principle's picture is a fill line, the mark on a cup past which more costs more than it gives. The skill is naming the line before you reach it: the leaving time, the last drink, the last round of the argument. As a practical experiment, choose a stopping point beforehand and check whether you keep to it.

@@ -58,7 +58,7 @@ You may need to take a firm position with someone. Consider what you need to say
 - [[K396 — The Befriending meditation]]
 - [[K399 — The kindness pool (unblock the spring)]]
 
-**Nietzsche's aphorism and the German word:** "Where are thy greatest dangers? In pity (Mitleid)." **NOT VERIFIED:** the German distinguishes *Mitleid* (suffering-with) from *Mitgefühl* (feeling-with). This distinction is NOT verified from the supplied Nietzsche (Delphi) edition, which discusses *Mitleid* and *Einleid* but does not contain *Mitgefühl*. The aphorism targets *Mitleid* (pity). A modern practical interpretation — that Nietzsche may be critiquing a specific mode of "helping" that makes the other dependent on one's co-suffering — is the WIKI's interpretation, not a verified claim.
+**Nietzsche's aphorism and the German word:** "Where are thy greatest dangers? In pity (Mitleid)." **NOT VERIFIED:** the German distinguishes *Mitleid* (suffering-with) from *Mitgefühl* (feeling-with). This distinction is NOT verified from the supplied Nietzsche (Delphi) edition, which discusses *Mitleid* and *Einleid* but does not contain *Mitgefühl*. The aphorism targets *Mitleid* (pity). A modern practical interpretation — that Nietzsche may be critiquing a specific mode of "helping" that makes the other dependent on one's co-suffering — is my interpretation, not a verified claim.
 - [[K161 — Loving-kindness meditation|K161 Loving-kindness meditation]]
 - [[K162 — Self-compassion practice|K162 Self-compassion practice]]
 - [[K166 — Sympathetic joy|K166 Sympathetic joy]]

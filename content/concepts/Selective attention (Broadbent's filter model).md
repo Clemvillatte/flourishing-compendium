@@ -28,7 +28,7 @@ Lavie's load theory keeps the idea of a fixed capacity but makes the early-or-la
 
 Her 2005 review adds a practical point: "simply instructing people to ignore goal-irrelevant stimuli is not sufficient for preventing their processing." High load on frontal cognitive control, by contrast, increases distractor processing. ([PubMed 15668100](https://pubmed.ncbi.nlm.nih.gov/15668100/))
 
-### In the compendium
+### Here
 
 - [[AT001 — Understand that attention is selective — you cannot attend to everything]], [[AT015 — Learn to filter — not all information deserves attention]], [[AT006 — Recognise that attention is trainable — it can be cultivated]] and [[AT073 — Recognise attentional changes with ageing — some decline, some stability]] cite this concept.
 - [[P174 — Spend attention like money — it is your real budget]], [[AT070 — Recognise anxiety's effect on attention — threat capture]], [[AT071 — Recognise depression's effect on attention — negative bias and rumination]] and [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] cite it as well.

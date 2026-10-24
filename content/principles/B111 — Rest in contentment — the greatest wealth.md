@@ -16,7 +16,7 @@ Dhammapada 204 states the ranking in one verse: health is the most precious gain
 
 > "Health is the most precious gain and contentment the greatest wealth. A trustworthy person is the best kinsman, Nibbana the highest bliss." (Dhammapada 204, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html))
 
-SN 1.10 gives the mechanism in one exchange. A devata asks why forest monks' faces are so bright and serene; the Buddha answers that they don't sorrow over the past or long for the future, and survive on the present. In the compendium's reading, contentment is where the attention is pointed. (SN 1.10.)
+SN 1.10 gives the mechanism in one exchange. A devata asks why forest monks' faces are so bright and serene; the Buddha answers that they don't sorrow over the past or long for the future, and survive on the present. In my reading, contentment is where the attention is pointed. (SN 1.10.)
 
 > "They don't sorrow over the past, don't long for the future. They survive on the present. That's why their faces are bright & serene." (SN 1.10, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn01/sn01.010.than.html))
 

@@ -15,7 +15,7 @@ Pneuma is the Greek word for wind, breath, spirit ([Wiktionary](https://en.wikti
 >
 > "Pneuma, by its nature, has a simultaneous movement inward and outward which constitutes its inherent 'tensility'. Pneuma passes through all (other) bodies; in its outward motion it gives them the qualities that they have, and in its inward motion makes them unified objects (Nemesius, 47J; cf. Helle 2021)." (Stanford Encyclopedia of Philosophy, [Stoicism](https://plato.stanford.edu/entries/stoicism/), summarizing Nemesius)
 
-### In the compendium
+### Here
 
 - [[R039 — Practise hau]] — lists the concept among its philosophy parallels.
 

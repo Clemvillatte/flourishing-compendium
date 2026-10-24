@@ -17,7 +17,7 @@ The contrast with time is structural: "All that lives under the conditions of ti
 
 The later scholastics compressed this into the pair nunc stans (the standing now of eternity) versus nunc fluens (the flowing now of time) — the Aquinas 101 treatment of divine eternity notes the formula comes straight from Boethius.
 
-The compendium's [[B012 — Practice only happens now]] works the temporal side of the same insight: for us, the only real point of contact with life is the moving present, and the eternal present is its limit-case.
+My [[B012 — Practice only happens now]] works the temporal side of the same insight: for us, the only real point of contact with life is the moving present, and the eternal present is its limit-case.
 
 ## Related concepts
 

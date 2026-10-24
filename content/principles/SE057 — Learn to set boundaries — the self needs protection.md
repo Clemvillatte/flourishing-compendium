@@ -18,7 +18,7 @@ Marcus discusses an inward retreat: returning to one's own soul, where tranquill
 
 (Med. IV.3, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-The compendium uses this passage only as a philosophical comparison. Its separate boundary-setting exercise is to decide what you can offer, state that limit clearly and avoid promising more than you intend to do.
+I use this passage only as a philosophical comparison. Its separate boundary-setting exercise is to decide what you can offer, state that limit clearly and avoid promising more than you intend to do.
 
 **Plain words** List the request, decide what you can agree to and tell the other person. Keep the statement about your actions or availability. State your limit without predicting the other person's response or assigning motives to it.
 

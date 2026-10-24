@@ -20,7 +20,7 @@ Later work has not settled the matter. A 2023 meta-analysis pooled the effect at
 
 The physical half is the same design move at desk scale: one visible task, everything else in a drawer or another app, notifications off, a closed door.
 
-**Plain words** (the compendium's suggestion) Run a two-session comparison. Count your interruptions in one normal session, change one part of the setup (phone in another room, tabs closed), and count again the next. Keep whichever setting wins.
+**Plain words** (my suggestion) Run a two-session comparison. Count your interruptions in one normal session, change one part of the setup (phone in another room, tabs closed), and count again the next. Keep whichever setting wins.
 
 *For example:* The desk with just the laptop and a water bottle, nothing else in the visual field. That is decision minimalism rather than aesthetic minimalism.
 

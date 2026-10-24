@@ -7,7 +7,7 @@ file: "Aporia"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Aporia is the productive dead end: the state of being unable to move forward in an inquiry, and the thing an inquiry is sometimes meant to reach. The Greek word means "difficulty, perplexity", built from aporos, "impassable", literally "without a passage" ([Etymonline](https://www.etymonline.com/word/aporia)). The compendium's source text is Plato's Meno, where the impasse arrives on purpose. Socrates questions Meno about virtue until Meno can no longer answer, and Meno compares him to a fish that numbs.
+Aporia is the productive dead end: the state of being unable to move forward in an inquiry, and the thing an inquiry is sometimes meant to reach. The Greek word means "difficulty, perplexity", built from aporos, "impassable", literally "without a passage" ([Etymonline](https://www.etymonline.com/word/aporia)). My source text is Plato's Meno, where the impasse arrives on purpose. Socrates questions Meno about virtue until Meno can no longer answer, and Meno compares him to a fish that numbs.
 
 > "And if I may venture to make a jest upon you, you seem to me both in your appearance and in your power over others to be very like the flat torpedo fish, who torpifies those who come near him and touch him, as you have now torpified me, I think. For my soul and my tongue are really torpid, and I do not know how to answer you" (Plato, Meno, trans. Benjamin Jowett, [Internet Classics Archive](http://classics.mit.edu/Plato/meno.html)).
 

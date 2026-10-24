@@ -11,7 +11,7 @@ Radical freedom, in Sartre's account, is the claim that a person's situation nev
 
 The word radical is doing real work here. "The for-itself is always in a factical situation"; the claim is that the significance of that situation for you is something you decide ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)). The choice is usually not a deliberation: we "make a choice (usually pre-reflective) about the significance of that factual state for us" ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)). The existentialism entry adds the corollary that "there is no moral absolute, divine will, or natural law that can provide guidance or justify our actions" ([Kevin Aho, SEP, Existentialism](https://plato.stanford.edu/entries/existentialism/)).
 
-### In the compendium
+### Here
 
 - [[S007 — Accept what happens as the will of providence]]
 - [[E031 — Practise radical freedom]]

@@ -16,7 +16,7 @@ Tim Ingold contrasts the trace of a freehand gesture with a pattern made by join
 
 > "What we see is no longer the trace of a gesture but an assembly of point-to-point connectors. The composition stands as a finished object, an artefact. Its constituent lines join things up, but they do not grow or develop." (Ingold, Lines: A Brief History, 2007, ch. 3, "Up, across and along".)
 
-The compendium proposes a practical application: describe how one activity developed through your participation in particular places and relationships. Use that history to consider possible next steps.
+I propose a practical application: describe how one activity developed through your participation in particular places and relationships. Use that history to consider possible next steps.
 
 ### Plain words
 

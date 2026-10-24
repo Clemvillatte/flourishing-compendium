@@ -18,7 +18,7 @@ Confucius's own line, in Muller's translation:
 
 > "Reviewing what you have learned and learning anew, you are fit to be a teacher." — [Confucius, Analects 2:11, Muller translation](http://www.acmuller.net/con-dao/analects.html)
 
-The two-sided arrangement is the compendium's editorial design; the old-and-new review it presumes is Confucius's.
+The two-sided arrangement is my own design; the old-and-new review it presumes is Confucius's.
 
 ### Protocol
 

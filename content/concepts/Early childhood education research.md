@@ -15,7 +15,7 @@ Early childhood education research, in James Heckman's economic treatment, is th
 
 The same article's argument for the timing: "A serious trade-off exists between equity and efficiency for adolescent and young adult skill policies. There is no such trade-off for policies targeted toward disadvantaged young children." Its summary of the current allocation: "society overinvests in remedial skill investments at later ages and underinvests in the early years."
 
-### In the compendium
+### Here
 
 - [[A109 — Start moral education early]] — the moral-education version of the timing claim
 - [[CO007 — Know that thinking is trainable — cognitive capacities can be built]] — the skill-formation premise

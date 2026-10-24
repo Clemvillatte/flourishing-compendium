@@ -31,14 +31,14 @@ And on the duration of pain:
 
 > "Continuous pain does not last long in the body; on the contrary, pain, if extreme, is present a short time, and even that degree of pain which barely outweighs pleasure in the body does not last for many days together." ([Principal Doctrines 4, via Wikipedia Tetrapharmakos](https://en.wikipedia.org/wiki/Tetrapharmakos))
 
-### In the compendium
+### Here
 
-- [[X007]] — the principle that pairs the fourfold cure with the compendium's practice of wisdom development.
+- [[X007]] — the principle that pairs the fourfold cure with my practice of wisdom development.
 
 ## Related concepts
 
-- [[Eudaimonia]] — the compendium's pairing for the flourishing the cure serves.
-- [[Apatheia]] — the compendium's Stoic pairing for freedom from disturbance.
+- [[Eudaimonia]] — my pairing for the flourishing the cure serves.
+- [[Apatheia]] — my Stoic pairing for freedom from disturbance.
 
 ## Sources
 

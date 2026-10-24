@@ -7,7 +7,7 @@ file: "Humanity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-In the passages the compendium anchors to, the Nicomachean Ethics treats humanity not as a general fondness for the human race but as a disposition: the decent person takes the good of particular other people into his own account of what is worth doing, so that their good becomes part of what he acts for. Aristotle puts the point sharply in Book IX:
+In the passages I anchor to, the Nicomachean Ethics treats humanity not as a general fondness for the human race but as a disposition: the decent person takes the good of particular other people into his own account of what is worth doing, so that their good becomes part of what he acts for. Aristotle puts the point sharply in Book IX:
 
 > "Of the good man it is true likewise that he does many things for the sake of his friends and his country, even to the extent of dying for them, if need be…" (Aristotle, Nicomachean Ethics, Book IX chapter VIII, [Project Gutenberg ebook #8438](https://www.gutenberg.org/ebooks/8438); the ebook names no translator)
 
@@ -19,7 +19,7 @@ The Book IX passage goes on to say that the good man will throw away the good th
 
 **Plain words** Humanity, on this account, is doing things for other people's good and loving them actively, not merely being fond of the human race in general.
 
-### In the compendium
+### Here
 
 - [[R051 — Practise ren (humanitybenevolence)]]: the Confucian counterpart, where loving all men is ren's own definition (Analects 12.22)
 - [[Benevolence|Benevolence and well-being]]: the psychological parallel, benevolence as a flourishing behaviour
@@ -27,7 +27,7 @@ The Book IX passage goes on to say that the good man will throw away the good th
 ## Related concepts
 
 - [[Ren]]: the Confucian virtue this Greek thread runs alongside
-- [[Love]]: the Groundwork's love of humanity, the Kantian parallel the compendium pairs with it
+- [[Love]]: the Groundwork's love of humanity, the Kantian parallel I pair with it
 - [[Compassion|Compassion and altruism]]: the contemporary psychology of other-directed feeling
 
 ## Sources

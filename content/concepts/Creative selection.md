@@ -15,7 +15,7 @@ Bergson on existence as self-remaking, in Arthur Mitchell's translation:
 
 He extends the thought to nature: "Their novelty arises from an internal impetus", so the works of nature cannot be foreseen from a snapshot of the material universe, any more than the concrete solution of a painting can be read off its elements.
 
-### In the compendium
+### Here
 
 - [[P043 — Vary, select, retain — learn the evolutionary way]] — lists this concept beside selection by consequences among its philosophy parallels
 - [[P054 — Balance exploration and exploitation]] and [[CO074 — Cultivate creative thinking — divergent and convergent modes]] — are listed among this concept's parallels

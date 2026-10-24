@@ -13,9 +13,9 @@ The practice named here is concentration of effort: take one teaching, one objec
 
 > "There is the case where a monk, having gone to the wilderness, to the shade of a tree, or to an empty building, sits down folding his legs crosswise, holding his body erect, and setting mindfulness to the fore. Always mindful, he breathes in; mindful he breathes out." — [Anapanasati Sutta, MN 118 (Thanissaro trans., Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)
 
-Mindfulness of breathing is the object the sutta names. The compendium draws an analogy between sustained attention in meditation and Seneca's advice to stay with a few authors: "You must linger among a limited number of master-thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind", for "a plant which is often moved can never grow strong" ([Seneca, Moral Letters 2, Gummere trans.](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2)). Neither passage gives a rule about practising one moral principle at a time; that rule is the compendium's own practical instruction.
+Mindfulness of breathing is the object the sutta names. I draw an analogy between sustained attention in meditation and Seneca's advice to stay with a few authors: "You must linger among a limited number of master-thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind", for "a plant which is often moved can never grow strong" ([Seneca, Moral Letters 2, Gummere trans.](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2)). Neither passage gives a rule about practising one moral principle at a time; that rule is my own practical instruction.
 
-### In the compendium
+### Here
 
 - [[S135 — Practise one principle at a time]] — builds the practice advice on this ground: pick one idea and stay with it until it changes what you do, rather than moving to a new one every few days.
 

@@ -34,7 +34,7 @@ ACT, the clinical application, is built around psychological flexibility rather 
 - **Functional contextualism** — the philosophical position. See [[Functional contextualism]], [[Context sensitivity]].
 - **Process-based therapy / CBS** — the idiographic, process-targeting successor framework. Hayes, Barnes-Holmes and Wilson (2012) define contextual behavioral science as follows: "Contextual Behavioral Science (CBS) is a principle-focused, communitarian strategy of reticulated scientific and practical development. Grounded in contextualistic philosophical assumptions, and nested within multi-dimensional, multi-level evolution science as a contextual view of life, it seeks the development of basic and applied scientific concepts and methods that are useful in predicting-and-influencing the contextually embedded actions of whole organisms, individually and in groups, with precision, scope, and depth; and extends that approach into knowledge development itself so as to create a behavioral science more adequate to the challenges of the human condition" ([Hayes, Barnes-Holmes & Wilson 2012](https://mural.maynoothuniversity.ie/id/eprint/5020/1/DBH_Contextual%20behaviour.pdf)). See [[Process-based therapy]], [[Extended Evolutionary Meta-Model]], [[Variation-selection-retention]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Acceptance and Commitment Therapy]]
 - [[Psychological flexibility]]
@@ -42,7 +42,7 @@ ACT, the clinical application, is built around psychological flexibility rather 
 - [[Workability]]
 - [[Functional contextualism]]
 
-## Everything connected in the wiki — the CBS tradition
+## Everything connected here — the CBS tradition
 
 Kept to the pages that carry or substantively apply Hayes's work — the ACT/CBS constructs and their kernels; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

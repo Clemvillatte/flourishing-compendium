@@ -18,7 +18,7 @@ Epictetus distinguishes an impediment to the body from an impediment to the will
 
 (Ench. IX, Thomas Wentworth Higginson translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt).)
 
-This is a philosophical position about the will, not evidence of unrestricted control during illness. The compendium's exercise is to consider what responses remain possible in a particular situation.
+This is a philosophical position about the will, not evidence of unrestricted control during illness. My exercise is to consider what responses remain possible in a particular situation.
 
 **Plain words** Consider one choice available today: asking someone for help, postponing a task, or telling a visitor you need rest. You need not perform cheerfulness to use this exercise.
 

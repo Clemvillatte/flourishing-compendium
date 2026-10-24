@@ -15,7 +15,7 @@ Vā is the Samoan concept of the space between people and things: the relational
 
 ### What the concept asks of a person
 
-The essay's charge is maintenance: relationships are not scenery but something you tend, the way you tend a garden. The compendium's principle R041 carries the instruction. For a writer on flourishing, vā reframes wellbeing itself: health of a person shows up in the health of the spaces between that person and family, place, work and ancestors, and neglect of those spaces reads as a symptom before any private feeling does.
+The essay's charge is maintenance: relationships are not scenery but something you tend, the way you tend a garden. My principle R041 carries the instruction. For a writer on flourishing, vā reframes wellbeing itself: health of a person shows up in the health of the spaces between that person and family, place, work and ancestors, and neglect of those spaces reads as a symptom before any private feeling does.
 
 ## Sources
 

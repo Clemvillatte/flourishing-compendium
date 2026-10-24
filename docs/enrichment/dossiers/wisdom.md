@@ -10,7 +10,7 @@ Wisdom is what everyone wants to be credited with, and its look-alikes are every
 - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Practical%20wisdom) and [Phronesis](https://clemvillatte.github.io/flourishing-compendium/#card=Phronesis).
 - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it.
 
-## The map: every entry the wiki holds on wisdom
+## The map: the entries on wisdom
 
 ### What wisdom is
 
@@ -82,7 +82,7 @@ Wisdom is what everyone wants to be credited with, and its look-alikes are every
 
 [The wise man's indifference to reputation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wise%20man%27s%20indifference%20to%20reputation): the Stoic claim that what others say is not among the things worth governing a life by.
 
-[Flexibility as virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Flexibility%20as%20virtue): the compendium's label for two aphorisms in Nietzsche's The Gay Science.
+[Flexibility as virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Flexibility%20as%20virtue): the label I use for two aphorisms in Nietzsche's The Gay Science.
 
 [Discernment of spirits](https://clemvillatte.github.io/flourishing-compendium/#card=Discernment%20of%20spirits): Ignatius's practice of reading one's inner movements to tell which lead toward the good.
 
@@ -90,7 +90,7 @@ Wisdom is what everyone wants to be credited with, and its look-alikes are every
 
 [Reflective thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Reflective%20thinking): Dewey's How We Think: belief whose grounds are deliberately sought and examined.
 
-[Experience plus reflection](https://clemvillatte.github.io/flourishing-compendium/#card=Experience%20plus%20reflection): the compendium's label for Dewey's pairing: each is incomplete without the other.
+[Experience plus reflection](https://clemvillatte.github.io/flourishing-compendium/#card=Experience%20plus%20reflection): the label I use for Dewey's pairing: each is incomplete without the other.
 
 [Deliberation as rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal): Dewey in Human Nature and Conduct: when action is blocked, competing habits and impulses are tried out in imagination before overt action.
 
@@ -102,7 +102,7 @@ Wisdom is what everyone wants to be credited with, and its look-alikes are every
 
 [Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early.
 
-[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is something to weigh, because it travels with fear.
+[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is something to weigh, because it travels with fear.
 
 [Perspective-taking](https://clemvillatte.github.io/flourishing-compendium/#card=Perspective-taking): the effort to see a situation from another person's point of view; the card treats it as a trainable skill and weighs it against Eyal, Steffel and Epley's study.
 
@@ -226,7 +226,7 @@ The definition leans on the person of practical wisdom to say what the mean is, 
 
 ::Variation:: What tends to need varying is the position from which a problem is seen. The look-alikes of wisdom share a shape: cleverness aimed at a bad mark, confident opinion with no sense of its limits, and reasoning that gets worse exactly when the stakes are personal. The adaptive moves are to change viewpoint, slow down, ask, and look back at what happened.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Wise-reasoning prompts](https://clemvillatte.github.io/flourishing-compendium/#card=K260%20%E2%80%94%20Wise-reasoning%20prompts): four questions for a troubling situation: how it could unfold, what the perspectives are, how your own interests might bias the view, what a wise friend would advise.
 
@@ -264,7 +264,7 @@ The evidence limits are uneven across the list. The life review (K232) borrows a
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Knowing the limits of what you know
 

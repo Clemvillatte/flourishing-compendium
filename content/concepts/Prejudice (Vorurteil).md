@@ -13,7 +13,7 @@ Gadamer's rehabilitation of prejudice begins with the word itself: a Vor-urteil 
 
 > "In fact history does not belong to us but rather we to it. Long before we understand ourselves through the process of self-examination, we understand ourselves in a self-evident way in the family, society, and state in which we live. The focus of subjectivity is a distorting mirror. The self awareness of the Individual is only a flickering in the closed circuit of historical life. That is why the prejudices of an individual are — much more than that individual's judgments — the historical reality of his being." (Gadamer, Truth and Method, p. 289, [Weinsheimer and Marshall translation, Wikiquote](https://en.wikiquote.org/wiki/Hans-Georg_Gadamer))
 
-### In the compendium
+### Here
 
 - [[E081 — Practise the universality of prejudice]] — lists the concept among its philosophy parallels.
 

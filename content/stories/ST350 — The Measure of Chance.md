@@ -15,12 +15,12 @@ That first year out of employment, he wrote the essay arguing the universe is a 
 
 The man of the pendulums did not abandon method; he moved it. "I make use of chance chiefly to make room for a principle of generalisation, or tendency to form habits, which I hold has produced all regularities" ([Essential Peirce, I 310](https://drive.google.com/uc?export=download&id=1L3jvBMstbqfeNxOVCmm-z1ZRB56qw7ko)). Law itself, on his account, is habit grown from chance.
 
-The compendium reads the life and the essay as one pattern. Peirce's own existence turned aleatory: employment lost, income a series of fortunate and unfortunate throws, survival sometimes a friend's charity. His response was neither denial nor fatalism but the cultivation of method: the logic, the classification of the sciences, some 12,000 printed pages published in his lifetime and roughly 80,000 handwritten ones left unpublished ([SEP](https://plato.stanford.edu/entries/peirce/)). That is what the principle asks of an aleatory world: accept the gamble, and inside it, build the habits.
+I read the life and the essay as one pattern. Peirce's own existence turned aleatory: employment lost, income a series of fortunate and unfortunate throws, survival sometimes a friend's charity. His response was neither denial nor fatalism but the cultivation of method: the logic, the classification of the sciences, some 12,000 printed pages published in his lifetime and roughly 80,000 handwritten ones left unpublished ([SEP](https://plato.stanford.edu/entries/peirce/)). That is what the principle asks of an aleatory world: accept the gamble, and inside it, build the habits.
 
 ---
 
 **Principles:**
-- [[P189 — Live in an aleatory world: accept the gamble, cultivate method|P189. Live in an aleatory world]] — the compendium reads Peirce's tychism essay and his fall from secure employment as one pattern: a real gambler's world, answered with habit and method rather than with denial.
+- [[P189 — Live in an aleatory world: accept the gamble, cultivate method|P189. Live in an aleatory world]] — I read Peirce's tychism essay and his fall from secure employment as one pattern: a real gambler's world, answered with habit and method rather than with denial.
 
 **Resonates:** [[Belief as habit]]
 

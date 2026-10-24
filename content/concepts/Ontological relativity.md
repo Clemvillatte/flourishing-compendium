@@ -15,13 +15,13 @@ Quine's ontological relativity concerns indeterminacy of reference: different tr
 
 The doctrine says that some sentences can be translated in more than one way, where the versions "differ in the reference that they attribute to parts of the sentence, but not in the overall net import that they attribute to the sentence as a whole" ([SEP, §6.2](https://plato.stanford.edu/entries/quine/)). The famous example: one utterance can be rendered as "There's a rabbit", as "Rabbithood is manifesting itself there", or as "There are undetached rabbit parts". Nothing in the speaker's behaviour settles which reading is right; her own answer would be subject to the same indeterminacy. Quine generalised the point, holding that he "see[s] all objects as theoretical" ([SEP, §6.2](https://plato.stanford.edu/entries/quine/)).
 
-### In the compendium
+### Here
 
-- [[P033 — Let truth change its face]] — the compendium's comparison: Putnam's internal realism raises a kindred question about what objects a description commits us to, which becomes the compendium's belief-review exercise.
+- [[P033 — Let truth change its face]] — my comparison: Putnam's internal realism raises a kindred question about what objects a description commits us to, which becomes my belief-review exercise.
 
 ## Related concepts
 
-- [[Internal realism]] — Putnam's position, which P033 quotes; the compendium sets it beside this Quinean ground.
+- [[Internal realism]] — Putnam's position, which P033 quotes; I set it beside this Quinean ground.
 - [[Perspectivism]] — the older family of views that take every description as from somewhere.
 - [[Cultural relativism]] — the moral and anthropological cousin, listed for navigation.
 

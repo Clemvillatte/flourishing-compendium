@@ -17,7 +17,7 @@ The empathic way of being "means entering the private perceptual world of the ot
 
 A comparison rather than an identity: decades before Rogers, Jane Addams gave a cognate posture a civic name — sympathetic knowledge, learning about one another "in terms that move beyond propositional knowledge," with the conviction that it was "the responsibility of members of a society to know one another better for the purposes of caring and acting on one another's behalf" ([IEP, "Jane Addams"](https://iep.utm.edu/addamsj/)). At Hull-House, clubs, dances, theater and novels were not frivolous but "a means for breaking down barriers between people, thus fostering sympathetic knowledge" ([IEP](https://iep.utm.edu/addamsj/)).
 
-### In the compendium
+### Here
 
 The kernels carry the practice: K207's deep listening, K210's active constructive responding, K216's nonviolent communication. The principles extend it: A074's generosity in interpreting friends' actions, S081's empathy for wrongdoers, D082's refusal to impose your frame on others — the exact discipline of the "as if." P168 names it directly: listen with empathic understanding.
 
@@ -27,7 +27,7 @@ The kernels carry the practice: K207's deep listening, K210's active constructiv
 
 - [[Perspective-getting]] — the empirically tested version: ask rather than simulate
 - [[Empathy]] — the broader family of feeling-with
-- [[Sympathy]] — feeling for the other, the compendium's paired concept
+- [[Sympathy]] — feeling for the other, my paired concept
 - [[Deep listening]] — the practice's vehicle
 - [[Dialogue]] — Buber's meeting of worlds, checked by asking the other
 - [[The relational self]] — the self that only appears in meeting

@@ -31,7 +31,7 @@ The model's core move is a location, not a content, distinction. In the 2002 art
 - **Emotion regulation as a field** — definition, measures, paradigms; a field that "emerged in the mid-1990s and has been gathering steam ever since" ([Gross 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)). See [[Emotion regulation]], [[Mid-level emotion regulation]].
 - **Emotion dynamics** — regulation acts on latency, rise time, magnitude, duration, offset. See [[Temporal dynamics of regulation]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Process model of emotion regulation Gross]]
 - [[Emotion regulation]]
@@ -39,7 +39,7 @@ The model's core move is a location, not a content, distinction. In the 2002 art
 - [[Situation selection]]
 - [[State-matched emotion regulation]]
 
-## Everything connected in the wiki — the emotion-regulation tradition
+## Everything connected here — the emotion-regulation tradition
 
 Kept to the pages that carry or substantively apply Gross's work — the process model, reappraisal and suppression research, the extended model; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

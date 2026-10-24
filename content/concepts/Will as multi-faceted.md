@@ -15,7 +15,7 @@ Will as multi-faceted is William James's account in the Principles of Psychology
 
 The chapter's best-known section sorts decisions by how they happen. Its opening: "Five Types of Decision. Turning now to the form of the decision itself, we may distinguish four chief types. The first may be called the reasonable type. It is that of those cases in which the arguments for and against a given course seem gradually and almost insensibly to settle themselves in the mind and to end by leaving a clear balance in favor of one alternative, which alternative we then adopt without effort or constraint" ([James](https://psychclassics.yorku.ca/James/Principles/prin26.htm)). (The heading says five, the text four; a fifth, the effortful type, is added after the others, and it is the one James cares about.) The other types decide by outside accident, by inner change of mood, or by a change of heart in which "the whole scale of values of our motives and impulses" shifts. The fiat that closes a deliberation is itself uniform: "There is indeed the fiat, the element of consent, or resolve that the act shall ensue. This, doubtless, to the reader's mind, as to my own, constitutes the essence of the voluntariness of the act" ([James](https://psychclassics.yorku.ca/James/Principles/prin26.htm)).
 
-### In the compendium
+### Here
 
 - [[MO001 — Understand that motivation is a system, not a feeling]] draws on this chapter for its premise: if most decisions get made by classification, mood, or accident, then a life's direction is mostly a matter of what systems and habits are in place, and the feeling of willing is only the visible tip.
 

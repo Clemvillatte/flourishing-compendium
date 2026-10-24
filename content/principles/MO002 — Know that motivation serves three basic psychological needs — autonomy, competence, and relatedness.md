@@ -23,7 +23,7 @@ The same entry records what the theory expects of environments:
 (Ryan & Deci, 2022, "Self-Determination Theory," in Encyclopedia of Quality of Life and Well-Being Research, Springer.)
 
 **Plain words**
-Ryan and Deci propose that satisfaction of autonomy, competence and relatedness supports growth and well-being. The compendium uses these needs as prompts when reviewing an activity. Consider whether support for any of them may be relevant to a change in motivation, while leaving other possible explanations open.
+Ryan and Deci propose that satisfaction of autonomy, competence and relatedness supports growth and well-being. I use these needs as prompts when reviewing an activity. Consider whether support for any of them may be relevant to a change in motivation, while leaving other possible explanations open.
 
 *For example:* Suppose your weekly class has become less appealing. Describe what has changed in the class before considering how it relates to the three needs. Write down one question you could ask the teacher and what information would help you decide whether a change is worth trying.
 

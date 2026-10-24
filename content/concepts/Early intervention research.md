@@ -17,9 +17,9 @@ The survey's central numbers are about onset, not treatment: "Median age of onse
 
 The word to watch is "easier." The survey shows early onset; whether early treatment is easier is a separate claim, argued in prevention trials rather than settled by this data.
 
-### In the compendium
+### Here
 
-- [[D059 — Do the difficult while it is easy]] — the Daodejing's anticipation of difficulty while it is still easy, paired by the compendium with the onset schedule
+- [[D059 — Do the difficult while it is easy]] — the Daodejing's anticipation of difficulty while it is still easy, paired with the onset schedule
 - [[Y011 — Prevent suffering before it arrives]] — Patanjali's future-pain principle; the research gives the timing that makes such prevention possible
 
 ## Related concepts

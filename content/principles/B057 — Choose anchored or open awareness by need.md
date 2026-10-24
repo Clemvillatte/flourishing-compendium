@@ -18,7 +18,7 @@ The source is MN 118, the Anapanasati Sutta, and the practice begins with an anc
 >
 > "Always mindful, he breathes in; mindful he breathes out." (MN 118, trans. Thanissaro Bhikkhu, [AccessToInsight](https://accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
-The same sequence widens. From the breath it moves to "sensitive to the entire body", through steps that calm, satisfy, steady and release the mind, and out to wide contemplations: focusing "on inconstancy", "on dispassion", "on cessation", "on relinquishment". The sutta closes: "This is how mindfulness of in-&-out breathing is developed & pursued so as to be of great fruit, of great benefit." The compendium's anchored-or-open choice is a reading of this two-part structure: the early steps hold attention to one object, the later ones widen the frame. The principle's guidance to match the tool to the state is the compendium's application, not the sutta's own instruction.
+The same sequence widens. From the breath it moves to "sensitive to the entire body", through steps that calm, satisfy, steady and release the mind, and out to wide contemplations: focusing "on inconstancy", "on dispassion", "on cessation", "on relinquishment". The sutta closes: "This is how mindfulness of in-&-out breathing is developed & pursued so as to be of great fruit, of great benefit." My anchored-or-open choice is a reading of this two-part structure: the early steps hold attention to one object, the later ones widen the frame. The principle's guidance to match the tool to the state is my application, not the sutta's own instruction.
 
 (MN 118.)
 

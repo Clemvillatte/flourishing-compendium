@@ -6,12 +6,12 @@ Intention is where a life's autopilot gets interrupted: renunciation instead of 
 
 ## Nearby terms
 
-- Right resolve, right thought: other renderings of the same Pali factor, sammā saṅkappa; the wiki's card is [Right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention), and nothing is split between the names.
+- Right resolve, right thought: other renderings of the same Pali factor, sammā saṅkappa; my card is [Right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention), and nothing is split between the names.
 - Intention: the general material on intending, and on the gap between intending and doing, lives in the map below ([The intention-behavior gap](https://clemvillatte.github.io/flourishing-compendium/#card=The%20intention-behavior%20gap), [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions)); the factor is the path's own discipline of aim, not intending in general.
 - Aspiration: the measured family of life goals ([Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index), [Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations)) answers what people aim at; it sits in the map's aim side.
 - Renunciation: the first resolve's material; the boundary against the Motivation and Goals dossiers is that those hold the general science of wanting and pursuing, while this page holds the path's discipline of aim.
 
-## The map: every entry the wiki holds on right intention
+## The map: the entries on right intention
 
 ### What the factor is
 
@@ -39,7 +39,7 @@ The Mahācattārīsaka Sutta grades the factor in two forms, a resolve with effl
 
 ### The first resolve: renunciation
 
-The wiki's positive rendering of the first resolve is simplicity.
+My positive rendering of the first resolve is simplicity.
 
 [The insatiability of craving](https://clemvillatte.github.io/flourishing-compendium/#card=The%20insatiability%20of%20craving): Schopenhauer's structural claim about desire: wanting does not end with getting, because wanting keeps regenerating itself.
 
@@ -65,7 +65,7 @@ The Two Sorts of Thinking discourse sets the standard the renunciation-thought i
 
 ### The second resolve: freedom from ill will
 
-The wiki's positive rendering is goodwill.
+My positive rendering is goodwill.
 
 [Metta (loving-kindness)](https://clemvillatte.github.io/flourishing-compendium/#card=Metta%20%28loving-kindness%29): the Buddhist practice of goodwill, first of the four brahmaviharas.
 
@@ -95,15 +95,15 @@ The training the discourse prescribes for the ill-will-thought is stated plainly
 
 ### The third resolve: harmlessness
 
-The wiki's positive rendering is refusing to add suffering. The Stoic and modern entries below are grouped here by editorial connection: the path factor names a resolve, the neighbors answer kindred questions about harm, and the compendium links them without claiming equivalence.
+My positive rendering is refusing to add suffering. The Stoic and modern entries below are grouped here by editorial connection: the path factor names a resolve, the neighbors answer kindred questions about harm, and I link them without claiming equivalence.
 
-[Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the Indic principle of non-harm; the compendium reads it as a starting floor: whatever else a practice does, it begins by doing no injury.
+[Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the Indic principle of non-harm; I read it as a starting floor: whatever else a practice does, it begins by doing no injury.
 
 [Nonviolent action](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20action): Gene Sharp's theory of power and his documented methods of nonviolent action.
 
 [Nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20communication): Rosenberg's process for reducing conflict in everyday interactions.
 
-[Judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm): the Stoic claim that events do not disturb people, the opinions about the events do (Enchiridion 5); a claim about disturbance, which the compendium connects editorially to the harmlessness resolve.
+[Judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm): the Stoic claim that events do not disturb people, the opinions about the events do (Enchiridion 5); a claim about disturbance, which I connect editorially to the harmlessness resolve.
 
 [The inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend): Hecato's line via Seneca on making peace with oneself.
 
@@ -147,7 +147,7 @@ And the mechanism the discourse names is practice bending the mind:
 
 [Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29): the theory's line between the few innate needs whose satisfaction grows a person and the wants that can crowd them out.
 
-[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): the wiki's label for the pull toward intrinsic aspirations, affiliation, growth and contribution; the source paper frames the distinction as intrinsic versus extrinsic aspirations.
+[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): my label for the pull toward intrinsic aspirations, affiliation, growth and contribution; the source paper frames the distinction as intrinsic versus extrinsic aspirations.
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label for the right action factor, which comes fourth on the path, after right speech; the map of this factor ends where the path moves from resolve to conduct.
 
@@ -159,7 +159,7 @@ The passages below are held side by side; whether the traditions disagree about 
 
 > "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)): Primary text; quoted passages checked against the raw page.
 
-These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages the wiki holds side by side. Each is framed around one proposition with quotations from carriers opened this session; in both cases the carriers can be read as compatible, and the wiki records the open question rather than manufacturing a disagreement. Research for carriers that argue the positions against each other is unfinished, and is flagged for the supervisor.
+These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages I hold side by side. Each is framed around one proposition with quotations from opened carriers; in both cases the carriers can be read as compatible, and I record the open question rather than manufacturing a disagreement. Research for carriers that argue the positions against each other is unfinished.
 
 ### Is the resolve an abstention or a cultivation?
 
@@ -167,7 +167,7 @@ The proposition: freedom from ill will is the whole of the second resolve. The M
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)): Primary text; quoted passages checked.
 
-Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; the wiki does not settle which reading the factor itself commits to.
+Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; I do not settle which reading the factor itself commits to.
 
 ### Less wanting or better wanting?
 
@@ -179,13 +179,13 @@ The motivation science studies what people aim at and what aiming does to them. 
 
 > "They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators." ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)): Scholarly review; cited passage checked.
 
-The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; the compendium's own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. The wiki records this as an open question rather than a settled disagreement.
+The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; my own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. I record this as an open question rather than a settled disagreement.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [K156 — Morning intention](https://clemvillatte.github.io/flourishing-compendium/#card=K156%20%E2%80%94%20Morning%20intention): write or speak one sentence of intention for the day: what you want to stand for, what you want to practice, what matters today.
 
@@ -209,7 +209,7 @@ The two findings run alongside each other: the aspiration studies report associa
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The three resolves in narrative
 

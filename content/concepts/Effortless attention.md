@@ -17,9 +17,9 @@ The account ties the construct to Csikszentmihalyi, who "identified the phenomen
 
 A later paper by Bruya and Tang describes fluid, or postvoluntary, attention as "goal-directed and selective, like voluntary attention, but also effortless and drawn to its source, like involuntary attention"; their account provides one approach to effortless attention ([Bruya and Tang, 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.704443/full)). The term postvoluntary originates in the Russian-language work of Nikolaj Dobrynin ([Bruya and Tang, 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.704443/full)). Their discussion of James quotes him: "There is no such thing as voluntary attention sustained for more than a few seconds at a time. What is called sustained voluntary attention is a repetition of successive efforts which bring back the topic to the mind" ([Bruya and Tang, 2021](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.704443/full)).
 
-The compendium pairs the construct with the effortlessness materials listed below as comparisons.
+I pair the construct with the effortlessness materials listed below as comparisons.
 
-### In the compendium
+### Here
 
 - [[AT026 — Learn to enter flow — the state of full attentional absorption]] — the flow principle effortless attention grounds
 - [[D003 — Act through wu wei — non-forcing]] — the Daoist non-forcing principle

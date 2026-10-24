@@ -16,10 +16,10 @@ Nickerson's review gives the working definition this principle rests on: confirm
 
 > "Confirmation bias, as the term is typically used in the psychological literature, connotes the seeking or interpreting of evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand." (Nickerson, 1998, [Review of General Psychology 2(2):175-220](https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf))
 
-The compendium's reading follows the review's title rather than a ranking: the phenomenon is described as ubiquitous and appearing in many guises, and the question of when it helps or harms is treated as a live one. The principle's title claim (you seek supporting evidence) is the definition's own seeking clause, not a verdict that every belief you hold was formed this way. (Nickerson, 1998.)
+My reading follows the review's title rather than a ranking: the phenomenon is described as ubiquitous and appearing in many guises, and the question of when it helps or harms is treated as a live one. The principle's title claim (you seek supporting evidence) is the definition's own seeking clause, not a verdict that every belief you hold was formed this way. (Nickerson, 1998.)
 
 **Plain words**
-Once a belief is in hand, the search for evidence bends toward it: supporting material gets read closely, opposing material gets skimmed. The compendium's exercise is the page's practice: before settling a belief, go look for the strongest case against it, and notice what the looking is like.
+Once a belief is in hand, the search for evidence bends toward it: supporting material gets read closely, opposing material gets skimmed. My exercise is the page's practice: before settling a belief, go look for the strongest case against it, and notice what the looking is like.
 
 *For example:* A month of diet research can be tested with one question, written down before continuing: what evidence would change my mind about this? If the honest answer is nothing, the research was not research.
 

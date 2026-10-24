@@ -17,12 +17,12 @@ Berlin's own compressed statement of the position:
 
 The harder formulation, from the same essay, is that the perfect whole is both unattainable and conceptually incoherent: "We are doomed to choose, and every choice may entail an irreparable loss." And the flat statement of the cost: "Some among the Great Goods cannot live together. This is a conceptual truth."
 
-The compendium's [[P030 — Accept many versions of the world]] and [[P123 — Accept that the universe is plural]] are the practice of this: not relativism, since the goods are real, but the end of the hope that one formula could rank them all.
+My [[P030 — Accept many versions of the world]] and [[P123 — Accept that the universe is plural]] are the practice of this: not relativism, since the goods are real, but the end of the hope that one formula could rank them all.
 
 ## Related concepts
 
 
-- [[P030 — Accept many versions of the world]]: the compendium principle this theory grounds
+- [[P030 — Accept many versions of the world]]: my principle this theory grounds
 - [[P123 — Accept that the universe is plural]]: the metaphysical version of the same acceptance
 - [[Multicultural identity theory]]: the social-science cousin that makes the same move for cultures
 - [[Tragic optimism]]: Frankl's version of the same acceptance, on the far side of the worst

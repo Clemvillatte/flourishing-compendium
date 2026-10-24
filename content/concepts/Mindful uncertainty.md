@@ -15,7 +15,7 @@ Mindful uncertainty is the ACT (Acceptance and Commitment Therapy) posture towar
 
 Willingness, the chapter's companion term, is the "voluntary and values-based choice to enable or sustain contact with private experiences or the events that will likely occasion them." The chapter is emphatic that acceptance is "not resignation or tolerance—it is an active process." Mindfulness inside the model "is viewed as both open and centered" (p. 91).
 
-The compendium's [[S048 — Withhold assent when the impression is uncertain]] is the Stoic twin: Pyrrho suspends judgment, ACT suspends the demand for certainty. Both leave room for action.
+My [[S048 — Withhold assent when the impression is uncertain]] is the Stoic twin: Pyrrho suspends judgment, ACT suspends the demand for certainty. Both leave room for action.
 
 ## Related concepts
 

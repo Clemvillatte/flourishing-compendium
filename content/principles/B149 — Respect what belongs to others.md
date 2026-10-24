@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 149** — Respect what belongs to others
 
-AN 10.176 describes abstaining from theft in terms of other people's belongings and whether they have given them. It speaks of things in a village or a wilderness. The compendium extends this question of permission to claiming credit for shared work. (AN 10.176.)
+AN 10.176 describes abstaining from theft in terms of other people's belongings and whether they have given them. It speaks of things in a village or a wilderness. I extend this question of permission to claiming credit for shared work. (AN 10.176.)
 
 > "Abandoning the taking of what is not given, he abstains from taking what is not given. He does not take, in the manner of a thief, things in a village or a wilderness that belong to others and have not been given by them." (AN 10.176, [Thanissaro](https://accesstoinsight.org/tipitaka/an/an10/an10.176.than.html))
 

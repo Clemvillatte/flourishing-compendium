@@ -25,7 +25,7 @@ In his account of art, Dewey describes the relation between outgoing and incomin
 
 > "In short, art, in its form, unites the very same relation of doing and undergoing, outgoing and incoming energy, that makes an experience to be an experience." (Dewey, [Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm))
 
-### In the compendium
+### Here
 
 - [[P089 — Ride the rhythm of activity and receptivity]] — takes the outgoing/incoming energy passage and asks the reader to leave room during an activity to take in what has happened before deciding what to do next
 - [[P141 — Perceive by acting — perception is movement]] — describes perception as active exploration

@@ -25,7 +25,7 @@ In X.6 amusement is relaxation for the sake of work: "to amuse oneself in order 
 
 ### Leisure takes character
 
-The Politics adds that "the enjoyment of good fortune and the leisure which comes with peace tend to make [men] insolent", and that "it is peculiarly disgraceful not to be able to use them in time of leisure". It also assumes that others do the necessary work: citizens must not be husbandmen, "since leisure is necessary both for the development of virtue and the performance of political duties". The compendium's list of "friendship, play" and its warning about consumption are its own readings.
+The Politics adds that "the enjoyment of good fortune and the leisure which comes with peace tend to make [men] insolent", and that "it is peculiarly disgraceful not to be able to use them in time of leisure". It also assumes that others do the necessary work: citizens must not be husbandmen, "since leisure is necessary both for the development of virtue and the performance of political duties". My list of "friendship, play" and its warning about consumption are its own readings.
 
 (Politics VII.14-15; NE X.6-7.)
 

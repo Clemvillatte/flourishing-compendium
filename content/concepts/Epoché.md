@@ -39,7 +39,7 @@ A first impression arrives (an insult, a headline, a flash of fear), and instead
 
 Its contemplative cognates are [[Sati]] (bare attention that withholds the gloss) and the Daoist fasting of the mind; its [[The discipline of assent|Stoic cousin is the discipline of assent]], the pause of [[Clarity of mind]].
 
-### In the compendium
+### Here
 
 - [[E001 — Practise the phenomenological reduction]] — the reduction as formal method
 - [[E006 — Practise the epoché in daily life]] — the interval applied to first impressions

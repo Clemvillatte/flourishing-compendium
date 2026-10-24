@@ -16,7 +16,7 @@ SN 56.11 includes sorrow, lamentation and separation from the loved in its accou
 
 > "Birth is stressful, aging is stressful, death is stressful; sorrow, lamentation, pain, distress, & despair are stressful; association with the unbeloved is stressful, separation from the loved is stressful, not getting what is wanted is stressful." (SN 56.11, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-Dhammapada 212 connects endearment with grief and fear. The attention exercise below is the compendium's suggested application; these passages do not establish whether telling a loss's story prolongs grief. (Dhammapada 212.)
+Dhammapada 212 connects endearment with grief and fear. The attention exercise below is my suggested application; these passages do not establish whether telling a loss's story prolongs grief. (Dhammapada 212.)
 
 > "From endearment springs grief, from endearment springs fear. For one who is wholly free from endearment there is no grief, whence then fear?" (Dhammapada 212, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html))
 

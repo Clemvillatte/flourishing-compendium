@@ -17,16 +17,16 @@ The chapter then moves the rule from the Dao to rulers and to desire: "If prince
 
 The paradox is the point. The Dao "does nothing" for the sake of doing, yet nothing is left undone. Striving, in this picture, is not extra effort added to results; it is effort that substitutes itself for the way things transform themselves. The practice is the stillness of having no external aim, with the work still happening.
 
-### In the compendium
+### Here
 
 - [[B060 — Practice without seeking]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 - [[T012 — Laozi]]: the refusal of forcing the concept names, from the Daodejing's own terms.
 
-- [[Wu wei]] — the compendium's page on wu wei
-- [[Non-seeking]] — the compendium's page on non-seeking
-- [[Ziran (naturalness)]] — the compendium's page on naturalness
+- [[Wu wei]] — my page on wu wei
+- [[Non-seeking]] — my page on non-seeking
+- [[Ziran (naturalness)]] — my page on naturalness
 
 ## Sources
 

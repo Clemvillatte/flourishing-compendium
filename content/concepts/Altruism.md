@@ -21,7 +21,7 @@ Real giving is usually messier than either pure camp allows. Economics has a ter
 
 ### Why it matters for flourishing
 
-Whether pure altruism is possible matters less than what the empathy route shows: attending to another's situation for that person's sake is a trainable motivational pathway, and the compendium treats it as such. Related practices include [[Empathic concern]] and the Buddhist [[Karuna]], whose content is "a wish for others to be free from suffering" ([Stanford Encyclopedia, Ethics of Indian Buddhism](https://plato.stanford.edu/entries/ethics-indian-buddhism/)). Whiting's line about love sets the standard the whole family of concepts is aiming at: "I ought to be concerned with my beloved for her sake, and not because I somehow get something out of it" ([Stanford Encyclopedia, Love](https://plato.stanford.edu/entries/love/)).
+Whether pure altruism is possible matters less than what the empathy route shows: attending to another's situation for that person's sake is a trainable motivational pathway, and I treat it as such. Related practices include [[Empathic concern]] and the Buddhist [[Karuna]], whose content is "a wish for others to be free from suffering" ([Stanford Encyclopedia, Ethics of Indian Buddhism](https://plato.stanford.edu/entries/ethics-indian-buddhism/)). Whiting's line about love sets the standard the whole family of concepts is aiming at: "I ought to be concerned with my beloved for her sake, and not because I somehow get something out of it" ([Stanford Encyclopedia, Love](https://plato.stanford.edu/entries/love/)).
 
 ## Related concepts
 

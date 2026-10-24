@@ -7,7 +7,7 @@ file: "Positive emotions research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Positive emotions research, in the compendium's usage, means Barbara Fredrickson's broaden-and-build programme. Her 2001 article in American Psychologist states the theory: "experiences of positive emotions broaden people's momentary thought-action repertoires, which in turn serves to build their enduring personal resources, ranging from physical and intellectual resources to social and psychological resources" ([Fredrickson, 2001, American Psychologist 56(3), 218-226, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)).
+Positive emotions research, in my usage, means Barbara Fredrickson's broaden-and-build programme. Her 2001 article in American Psychologist states the theory: "experiences of positive emotions broaden people's momentary thought-action repertoires, which in turn serves to build their enduring personal resources, ranging from physical and intellectual resources to social and psychological resources" ([Fredrickson, 2001, American Psychologist 56(3), 218-226, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)).
 
 > "Although positive emotions can occur in adverse circumstances, the typical context of positive emotions is not a life-threatening situation. Instead, the positive emotions of joy, interest, contentment, pride, and love appear to have a complementary effect: They broaden people's momentary thought-action repertoires, widening the array of the thoughts and actions that come to mind." (Fredrickson, 2001, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/))
 
@@ -19,7 +19,7 @@ The paper separates three ideas. The first is broadening: negative emotions narr
 
 She is cautious in this paper. She calls the findings "preliminary evidence" and says that "much of this evidence, because it predated the broaden-and-build theory, provides only indirect support for the model." Of the undoing effect she writes that "the precise cognitive and physiological mechanisms of the undoing effect remain unknown." On physical health, she calls the idea that positive emotions foster it "long-held but scantly supported." The page therefore supports the theory as a well-specified proposal with early supporting studies, not as a finding that positive emotions reliably build lasting resources. That is a 2001 position. This page does not cover later replication work or critiques, which would need to be opened before they could be reported.
 
-### In the compendium
+### Here
 
 Principles linked below, including AF064 (Cultivate awe), AT011 (open and closed attention) and ST303 (Broaden and Build), draw on the broadening idea. The experiments she reports tested joy and contentment, and she asks whether other emotions, including interest, pride and love, conform to the same effects. Awe is not discussed in the paper, so an awe principle goes beyond the 2001 evidence.
 

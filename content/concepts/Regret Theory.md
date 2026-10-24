@@ -17,7 +17,7 @@ Regret theory, formulated by Graham Loomes and Robert Sugden (with a parallel ve
 
 Because regret is anticipated, people do not merely weigh payoffs and probabilities: they also shy away from options whose bad outcomes they would have to compare with better forgone ones. On the evidence reviewed in the same paper, most individuals weigh anticipated regret more heavily than anticipated rejoicing.
 
-### In the compendium
+### Here
 
 - [[M055 — End where the tradition ends — rooted, singing, serving, renewed]]
 - [[K008 — Expect the collapse of meaning; do not waste it]]

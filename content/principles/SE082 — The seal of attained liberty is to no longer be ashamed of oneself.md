@@ -15,7 +15,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 Nietzsche places this aphorism after two remarks about shame. Section 273 condemns someone who always wants to shame others; §274 calls sparing a person shame the most humane thing. Section 275 turns to shame about oneself and identifies its cessation as the seal of attained liberty. ([Common translation, sections 273-275](https://www.gutenberg.org/ebooks/52124))
 
 **Plain words**
-The compendium draws a question from this line: can you consider something you regret without treating your whole life as a disgrace? Consider this alongside whatever you owe anyone affected.
+I draw a question from this line: can you consider something you regret without treating your whole life as a disgrace? Consider this alongside whatever you owe anyone affected.
 
 *For example:* a founder describes a failed venture, acknowledges her mistakes and considers what she owes former colleagues, without treating the failure as a verdict on her entire life.
 

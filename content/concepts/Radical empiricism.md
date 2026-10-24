@@ -21,7 +21,7 @@ The editor's preface to the 1912 collection reprints, as the key to the essays, 
 
 "The generalized conclusion is that therefore the parts of experience hold together from next to next by relations that are themselves parts of experience. The directly apprehended universe needs, in short, no extraneous trans-empirical connective support, but possesses in its own right a concatenated or continuous structure." ([Editor's Preface](https://archive.org/stream/essaysinradicale00jameuoft/essaysinradicale00jameuoft_djvu.txt))
 
-The compendium files the doctrine under its principles on pure experience and experience-grounded views, among them P066, P004 and M021.
+I file the doctrine under its principles on pure experience and experience-grounded views, among them P066, P004 and M021.
 
 ## Related concepts
 

@@ -36,7 +36,7 @@ The soul has parts, and justice is their harmony. In the Republic the argument r
 - **The unity of the virtues** — see [[The unity of the virtues]], [[A040 — Practise the unity of the virtues|A040]], [[A047 — Let practical wisdom unify the virtues|A047]].
 - **Education as turning the soul** — the cave: the ascent from the prison-house of sight. See [[Distinguishing appearance from reality]], [[Noesis, direct intellectual seeing]].
 
-## Connected in the wiki — the Platonic and Socratic layer
+## Connected here — the Platonic and Socratic layer
 
 The corpus has no Platonic book of principles; the section keeps entries citing Plato or the Socratic material in their sources. Other traditions echo him in passing; a citation scan selects candidates without proving dependence,.
 

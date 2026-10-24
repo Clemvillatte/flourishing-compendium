@@ -13,7 +13,7 @@ Self-forgiveness is the forgiveness a person extends to the self after committin
 
 The definition adapts Michael McCullough's three motivations for interpersonal forgiveness, avoidance, revenge and benevolence, and turns them on the self. The same article records that Hall and Fincham once called self-forgiveness the "stepchild of the forgiveness literature" (p. 621), and observes that less is known about it than about forgiveness of others.
 
-### In the compendium
+### Here
 
 - [[S066 — Be gentle with yourself in the review]] — quotes Marcus Aurelius's instruction to return after failure without disgust or discouragement
 

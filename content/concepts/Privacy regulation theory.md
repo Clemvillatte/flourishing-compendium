@@ -17,7 +17,7 @@ Privacy regulation theory is Irwin Altman's 1975 account of privacy as an ongoin
 
 The same article notes that Altman "emphasized the dialectical nature of the process that involves the regulation of input and output": the boundary is continually adjusted rather than fixed.
 
-### In the compendium
+### Here
 
 - [[CO012 — Know that thinking is both individual and collective — schemas are shared]]
 - [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]]

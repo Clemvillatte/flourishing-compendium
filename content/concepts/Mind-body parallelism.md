@@ -15,7 +15,7 @@ Mind-body parallelism is Spinoza's answer to the dualism he inherited from Desca
 
 The scholium to that proposition carries the stronger formulation: a mode of extension and the idea of that mode are "one and the same thing, but expressed in two ways." The SEP article draws the human conclusion directly: "The human mind and the human body are two different expressions—under thought and under extension—of one and the same thing: the person." And because there is no causal interaction between mind and body, "the so-called mind-body problem does not, technically speaking, arise."
 
-The payoff for practice is the compendium's: [[SP006]] and [[SP007]] treat the parallelism as a claim about the person rather than a metaphysical puzzle, so working on the body and working on the mind are two descriptions of the same work.
+The payoff for practice is my: [[SP006]] and [[SP007]] treat the parallelism as a claim about the person rather than a metaphysical puzzle, so working on the body and working on the mind are two descriptions of the same work.
 
 ## Related concepts
 

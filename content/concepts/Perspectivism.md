@@ -16,7 +16,7 @@ The aphorism continues: "For this fine power of theirs usually ceases with them 
 
 The same book gives the counter-move in the aphorism on the perspective that flatters: without the art of seeing ourselves from a distance, we live under the spell of the perspective that makes the closest and the commonest seem immensely large and like reality in itself ([Nietzsche, The Joyful Wisdom, GS 78](https://www.gutenberg.org/ebooks/52124)).
 
-### In the compendium
+### Here
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)]]
 - [[D081 — Recognize the relativity of perspectives]]

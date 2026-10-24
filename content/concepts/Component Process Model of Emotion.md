@@ -15,7 +15,7 @@ The Component Process Model of Emotion is Klaus Scherer's account of emotion as 
 
 The appraisal objectives are four questions the organism puts to the event: "1. How relevant is this event for me? Does it directly affect me or my social reference group? (relevance) 2. What are the implications or consequences of this event and how do these affect my well-being and my immediate or long-term goals? (implications) 3. How well can I cope with or adjust to these consequences? (coping potential) 4. What is the significance of this event with respect to my self-concept and to social norms and values? (normative significance)" ([Scherer 2001, p. 94, section "The Nature of the Stimulus Evaluation Checks"](https://acousticslab.org/RECA293/293Files/293Downloads/Scherer2001_AppraisalEmotion.pdf)).
 
-### In the compendium
+### Here
 
 - [[AF072 — Recognise that positive affect alone is not flourishing; it is one component]]
 - [[PP053 — Practise divergent thinking]]

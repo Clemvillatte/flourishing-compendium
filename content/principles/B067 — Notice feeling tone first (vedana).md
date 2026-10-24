@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 67** — Notice feeling tone first (vedana)
 
-MN 10 instructs the monk to recognize a feeling as painful, pleasant, or neither while experiencing it ([MN 10, Thanissaro](https://www.dhammatalks.org/suttas/MN/MN10.html)). For the compendium's exercise, begin by identifying which description fits the feeling that is present.
+MN 10 instructs the monk to recognize a feeling as painful, pleasant, or neither while experiencing it ([MN 10, Thanissaro](https://www.dhammatalks.org/suttas/MN/MN10.html)). For my exercise, begin by identifying which description fits the feeling that is present.
 
 > "And how does a monk remain focused on feelings in & of themselves? There is the case where a monk, when feeling a painful feeling, discerns, 'I am feeling a painful feeling.' When feeling a pleasant feeling, he discerns, 'I am feeling a pleasant feeling.' When feeling a neither-painful-nor-pleasant feeling, he discerns, 'I am feeling a neither-painful-nor-pleasant feeling.'"
 >

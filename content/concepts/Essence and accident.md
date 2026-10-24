@@ -21,7 +21,7 @@ An accidental unity such as a pale man is not an essence: the entry says it "doe
 
 The entry itself flags that the exact meaning of Aristotle's claim that a thing is the same as its essence, and the arguments for it, "are matters of scholarly controversy." The account here is limited to what the entry lays out.
 
-### In the compendium
+### Here
 
 - [[E007 — Practise eidetic seeing]] works from Husserl's idea of an essence as an object of its own kind of intuition. The Aristotelian distinction is background for the question that principle asks: what can change while a thing stays what it is.
 

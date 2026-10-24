@@ -7,7 +7,7 @@ file: "The look (le regard)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The look (le regard) is Sartre's name for the experience of being seen by another consciousness: the gaze of the Other that objectifies me, converting my free being into an object for another. Shame is its signature emotion. The entry heading also appears in the compendium as "the gaze (le regard)"; both point to the same passages of Being and Nothingness.
+The look (le regard) is Sartre's name for the experience of being seen by another consciousness: the gaze of the Other that objectifies me, converting my free being into an object for another. Shame is its signature emotion. The entry heading also appears here as "the gaze (le regard)"; both point to the same passages of Being and Nothingness.
 
 ### Sartre's ground
 
@@ -15,7 +15,7 @@ The Stanford Encyclopedia's Sartre entry describes the experience: absorbed at a
 
 > "It is useless for human reality to seek to escape this dilemma: one must either transcend the Other or allow oneself to be transcended by him. The essence of the relations between consciousness is not the Mitsein (being-with); it is conflict." (Sartre, Being and Nothingness, quoted in [SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/), citing Sartre 1943 [1956: 429])
 
-### In the compendium
+### Here
 
 - [[E035 — Practise the gaze of the Other (le regard)]]
 - [[E067 — Practise the look (le regard) as ontological]]

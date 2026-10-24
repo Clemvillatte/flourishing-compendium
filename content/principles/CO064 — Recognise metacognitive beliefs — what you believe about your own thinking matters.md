@@ -18,7 +18,7 @@ In Wells's metacognitive model, worry and rumination, threat monitoring, and unh
 Normann and Morina reviewed 25 studies, including 15 randomized controlled trials. They reported that large uncontrolled pre-to-post effect-size estimates suggested reductions in symptoms and dysfunctional metacognitions. ([Normann & Morina, 2018, Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
 **Plain words**
-Having a worry and believing that worrying is useful are different things. You might value worrying because it seems to keep you prepared, or fear it because it seems uncontrollable. Wells's model asks how such beliefs affect your response to thoughts. For the compendium's exercise, write one worry on a line and your belief about worrying on the next. ([Normann & Morina, 2018, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
+Having a worry and believing that worrying is useful are different things. You might value worrying because it seems to keep you prepared, or fear it because it seems uncontrollable. Wells's model asks how such beliefs affect your response to thoughts. For my exercise, write one worry on a line and your belief about worrying on the next. ([Normann & Morina, 2018, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
 *For example:*
 Imagine worrying about an exam because you believe it keeps you prepared. Write that belief separately from your concrete preparation plan, then state what additional benefit you believe worrying provides.

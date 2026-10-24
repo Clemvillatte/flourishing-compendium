@@ -14,9 +14,9 @@ The Second Noble Truth names craving, not avoidance, as the origin of stress. It
 > "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming."
 > — [Thanissaro Bhikkhu, Dhammacakkappavattana Sutta SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
 
-The compendium pairs the two accounts rather than equating them. Craving is the engine named by the sutta; aversion is the reflex described by the IEP in response to unpleasant sensation.
+I pair the two accounts rather than equating them. Craving is the engine named by the sutta; aversion is the reflex described by the IEP in response to unpleasant sensation.
 
-### In the compendium
+### Here
 
 - [[B001 — Face suffering directly]]
 - [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]]

@@ -26,7 +26,7 @@ And the distribution finding:
 
 > "Basic research has generated a rule of thumb for at-risk populations: 40 % in precontemplation, 40 % in contemplation, and 20% in preparation." ([Prochaska & Velicer, 1997, same text](https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/prochaska_1997_transtheoretical_model_of_health_behaviour_change.pdf))
 
-The model was developed for health behaviours in at-risk populations. The compendium's use of the staircase for any behaviour change is its own application.
+The model was developed for health behaviours in at-risk populations. My use of the staircase for any behaviour change is its own application.
 
 **Plain words** Change is a staircase, not a switch: not intending, intending, preparing, doing, keeping it going. The model's own rule of thumb for at-risk groups: 40% not intending to act, 40% thinking about it, 20% preparing — most people are nowhere near action. That is why the talk that helps depends on the stair.
 

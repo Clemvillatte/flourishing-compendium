@@ -20,10 +20,10 @@ In Human Nature and Conduct, he describes considering competing actions in imagi
 >
 > (Dewey, Human Nature and Conduct, 1922, p. 190)
 
-The compendium draws on these passages for an exercise in comparing possible consequences before choosing an action.
+I draw on these passages for an exercise in comparing possible consequences before choosing an action.
 
 **Plain words**
-You can try out a decision in imagination before committing to it. For the compendium's exercise, picture what could follow from one possible action, then consider an alternative. Separate what you already know from what you are imagining. After acting, compare your expectations with what happened.
+You can try out a decision in imagination before committing to it. For my exercise, picture what could follow from one possible action, then consider an alternative. Separate what you already know from what you are imagining. After acting, compare your expectations with what happened.
 
 *For example:*
 Imagine deciding how to raise a missed deadline with a colleague. Draft two openings and write a possible reply to each. During the conversation, check which parts of your imagined exchange actually occur.

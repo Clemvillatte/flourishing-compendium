@@ -31,13 +31,13 @@ Earlier in the same Part, Dewey contrasts two uses of reason. One holds an end f
 
 > "The former regards the end-in-view in deliberation as tentative and permits, nay encourages the coming into view of consequences which will transform it and create a new purpose and plan." (Dewey, Part Three, section on deliberation and calculation, same text)
 
-This is the textual basis for the compendium's "revise them" in the principle [[P041 — Set ends-in-view, and revise them]]. The wording "revisable goals" is the compendium's gloss. Dewey's own word is "tentative".
+This is the textual basis for my "revise them" in the principle [[P041 — Set ends-in-view, and revise them]]. The wording "revisable goals" is my gloss. Dewey's own word is "tentative".
 
 ### What this does not settle
 
-Dewey is describing how purposeful action works. He does not offer a goal-setting method, and the link to modern goal-adjustment or behavioural-activation research is the compendium's own bridge, not one Dewey draws.
+Dewey is describing how purposeful action works. He does not offer a goal-setting method, and the link to modern goal-adjustment or behavioural-activation research is my own bridge, not one Dewey draws.
 
-### In the compendium
+### Here
 
 - [[P040 — Keep means and ends continuous]], [[P041 — Set ends-in-view, and revise them]] and [[P119 — Give flow clear goals and immediate feedback]] cite this concept.
 - [[P158 — Choose values as directions, not destinations]] cites it as well.

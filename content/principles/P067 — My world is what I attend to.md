@@ -23,7 +23,7 @@ Interest, he says, "alone gives accent and emphasis, light and shade, background
 
 ### Scope
 
-The compendium's "creates the world" is stronger than James's wording. His claim is about experience: what enters it is shaped by interest. He does not say the outer world is made by attention. And "choose your interests" is the compendium's advice, not a line from this passage.
+My "creates the world" is stronger than James's wording. His claim is about experience: what enters it is shaped by interest. He does not say the outer world is made by attention. And "choose your interests" is my advice, not a line from this passage.
 
 (James, The Principles of Psychology, 1890, ch. XI, pp. 402-404.)
 

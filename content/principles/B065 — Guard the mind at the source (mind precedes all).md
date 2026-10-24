@@ -16,7 +16,7 @@ The Dhammapada opens with the claim the principle is built on:
 
 > "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox." (Dhammapada 1, trans. Buddharakkhita, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-Verse 2 runs the same structure in the other direction: with a pure mind, "happiness follows him like his never-departing shadow" (Dhammapada 2, trans. Buddharakkhita). Checking an intention before speaking is the compendium's practical exercise based on these verses.
+Verse 2 runs the same structure in the other direction: with a pure mind, "happiness follows him like his never-departing shadow" (Dhammapada 2, trans. Buddharakkhita). Checking an intention before speaking is my practical exercise based on these verses.
 
 (Dhammapada 1.)
 

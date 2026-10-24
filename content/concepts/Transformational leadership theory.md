@@ -15,7 +15,7 @@ The concept originated with James MacGregor Burns's distinction between leaders 
 
 The same review adds two empirical notes: women leaders tend to be more transformational than their male counterparts, contrary to earlier expectations, and why transformational leadership outperforms transactional leadership across business, military, hospital and educational settings "has only been partially answered."
 
-The compendium's application: the theory is a psychology of elevation rather than exchange, which pairs naturally with virtue traditions on leading by example, and its open questions are a caution against treating it as settled science.
+My application: the theory is a psychology of elevation rather than exchange, which pairs naturally with virtue traditions on leading by example, and its open questions are a caution against treating it as settled science.
 
 ## Field
 

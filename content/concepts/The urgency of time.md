@@ -15,7 +15,7 @@ The urgency of time is Heidegger's late-life restatement of the finitude he work
 
 That speech closes with the passage this page is named for: the task is to ensure that "the feeling for the urgency of time does not disappear," because the world rests on "the world of the old and the same" needing to be preserved by those who know it. The fuller Heidegger text is given in the SEP article's appendix, and the wording there makes the task clearer: the urgency is not the buzz of hurry but the recognition that finitude is the condition under which anything gets done at all.
 
-The compendium reads this against Being and Time's account of death as the possibility that individualizes Dasein (SZ 263). Anticipatory being-toward-death is what produces urgency without panic: each possibility is lived as one among finite others, so postponement has a cost the everyday "they" hides. The concept pairs with the Buddhist parallel the compendium already carries: [[K050 — Reflect on this life's rarity as urgency, not as dread]], where the rarity of a human life, in the Kalama-Sutta register the compendium quotes, is the same fact read for the same effect.
+I read this against Being and Time's account of death as the possibility that individualizes Dasein (SZ 263). Anticipatory being-toward-death is what produces urgency without panic: each possibility is lived as one among finite others, so postponement has a cost the everyday "they" hides. The concept pairs with the Buddhist parallel I already carry: [[K050 — Reflect on this life's rarity as urgency, not as dread]], where the rarity of a human life, in the Kalama-Sutta register I quote, is the same fact read for the same effect.
 
 [[E054 — Practise finitude as gift]]
 [[Y096 — Keep urgency without hurry]]

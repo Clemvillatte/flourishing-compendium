@@ -37,7 +37,7 @@ Hume's footnote distinguishes two species:
 
 > "Benevolence naturally divides into two kinds, the GENERAL and the PARTICULAR. The first is, where we have no friendship or connexion or esteem for the person, but feel only a general sympathy with him or a compassion for his pains, and a congratulation with his pleasures. The other species of benevolence is founded on an opinion of virtue, on services done us, or on some particular connexions. Both these sentiments must be allowed real in human nature: but whether they will resolve into some nice considerations of self-love, is a question more curious than important." (Hume, EPM, [Gutenberg text](https://www.gutenberg.org/files/4320/4320-h/4320-h.htm))
 
-### In the compendium
+### Here
 
 - [[PP032 — Practise prosocial behaviour for autonomous reasons]] — the principle on prosocial behaviour, against which Hume's account of benevolence supplies the classical contrast.
 
@@ -46,7 +46,7 @@ Hume's footnote distinguishes two species:
 - [[Agape]] — love without conditions; the theological cousin
 - [[Schwartz]] — one of the ten basic values in Schwartz's circle, on the self-transcendence side.
 - [[Humanity]] — the sentiment Hume says benevolence extends from.
-- [[The free person loves all]] — a principle the compendium pairs with Hume's benevolence.
+- [[The free person loves all]] — a principle I pair with Hume's benevolence.
 
 ## Sources
 

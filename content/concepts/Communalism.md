@@ -21,7 +21,7 @@ One feature of the life remains non-negotiable even in the moderate version:
 
 > "That the human person does not voluntarily choose to enter into human community, that is, that community life is not optional for any individual person." (same essay)
 
-For the compendium, communalism is the philosophical backbone of [[R001 — I am because we are]]: it is the worked-out African tradition behind the claim that a human life flourishes or withers in company, and its moderate version is a standing reminder that belonging and selfhood are not rivals but two halves of one account.
+For me, communalism is the philosophical backbone of [[R001 — I am because we are]]: it is the worked-out African tradition behind the claim that a human life flourishes or withers in company, and its moderate version is a standing reminder that belonging and selfhood are not rivals but two halves of one account.
 
 ## Sources
 
@@ -35,4 +35,4 @@ For the compendium, communalism is the philosophical backbone of [[R001 — I am
 ## Related concepts
 
 - [[Big Two model of agency and communion]] — the psychological counterpart: communion as one of the two fundamental dimensions of social living.
-- [[Chorus before solo]] — the compendium's own echo of the communal priority, at the level of practice.
+- [[Chorus before solo]] — my own echo of the communal priority, at the level of practice.

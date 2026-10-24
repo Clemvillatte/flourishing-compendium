@@ -17,7 +17,7 @@ Marcus rehearses the morning reminder in full: he will meet the busybody, the un
 > For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.
 > (Marcus Aurelius, Meditations II.1, trans. Long)
 
-The compendium's application: the morning rehearsal is a real practice, not a mood. Before the day starts, name the difficult person you are likely to meet and the kinship claim they have on you, then let the first encounter be the conversation rather than the sigh.
+My application: the morning rehearsal is a real practice, not a mood. Before the day starts, name the difficult person you are likely to meet and the kinship claim they have on you, then let the first encounter be the conversation rather than the sigh.
 
 **Plain words** Marcus's morning drill: expect the difficult people by name, remember why they are the way they are, in his terms ignorance of good and evil, and remember the kinship claim. His body image does the work: feet and hands and rows of teeth are parts of one thing, and a hand that fights the other hand is malfunctioning, not standing up for itself. Practise on the person you actually live with.
 

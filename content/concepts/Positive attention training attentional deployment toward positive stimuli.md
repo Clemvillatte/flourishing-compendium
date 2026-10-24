@@ -25,7 +25,7 @@ The original entry sentence says this training improves mood and reduces depress
 
 A separate case-series study of six variants of attention bias modification for depression, with 30 students with mild to moderate depressive symptoms over four sessions, reported that "none of the investigated versions of ABM had a consistent effect on attentional bias" and concluded that "it is unlikely that any of these ABM versions will have a specific effect on symptoms in controlled studies" ([Kruijt, Putman and Van der Does, 2013, ISRN Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC3658414/)). The review is more optimistic about meditation, which it says appears "to be among the most effective training methodologies in enhancing emotional well-being" ([Wadlinger and Isaacowitz](https://pmc.ncbi.nlm.nih.gov/articles/PMC2970710/)).
 
-### In the compendium
+### Here
 
 AT021, AT051, AF063 and the other principles listed ask the reader to turn attention toward what is good. The laboratory work is a narrower claim: brief training can shift gaze and momentary reactions in healthy volunteers. Whether a daily practice of this kind lowers depression is not established by these sources.
 

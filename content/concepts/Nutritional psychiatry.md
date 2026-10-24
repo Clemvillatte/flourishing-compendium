@@ -17,14 +17,14 @@ The statement's case rests on the association it describes as robust: "Robust as
 
 The field's premise is stated plainly in its opening: present treatment "is achieving sub-optimal outcomes; in addition little attention is given to preventative efforts", so the search turned to modifiable targets — and diet is one.
 
-### In the compendium
+### Here
 
 - [[PP076 — Eat for function, not for ideology]] cites this concept as a psychology parallel.
 
 ## Related concepts
 
 
-- [[BE042]] — the compendium's principle on nutrition for mental health
+- [[BE042]] — my principle on nutrition for mental health
 - [[BI035]] — the diet-depression association this principle summarises is one of the field's core observational findings
 - [[BI038]] — randomised-trial evidence that a breakfast's glycaemic index tracks later mood ratings
 

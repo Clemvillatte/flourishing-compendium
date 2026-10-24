@@ -16,7 +16,7 @@ AN 5.177 gives the practice its most concrete form. The Buddha tells monks that 
 
 > "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. These are the five types of business that a lay follower should not engage in." (Vanijja Sutta, AN 5.177, Thanissaro translation, [Access to Insight](https://accesstoinsight.org/tipitaka/an/an05/an05.177.than.html))
 
-The compendium's application is broader than the sutta's list: treat your livelihood as your largest single practice, and check what the work trains you in. This application is proposed; the sutta does not promise a result from acting on it.
+My application is broader than the sutta's list: treat your livelihood as your largest single practice, and check what the work trains you in. This application is proposed; the sutta does not promise a result from acting on it.
 
 ### Plain words
 

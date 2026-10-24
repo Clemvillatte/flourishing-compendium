@@ -35,7 +35,7 @@ Merleau-Ponty made the lived body the center of the same program: the "fundament
 
 ### Why it matters for flourishing
 
-The compendium's principle [[E004 — Practise the lifeworld (Lebenswelt)]] treats attention to this level as a discipline, not a nostalgia trip. Suffering that medicine misses (meaning, home, rhythm, recognition) often lives here, and wisdom has no other material to work with. The page pairs naturally with [[D081 — Recognize the relativity of perspectives]]: the homeworld feels absolute until another one shows up.
+My principle [[E004 — Practise the lifeworld (Lebenswelt)]] treats attention to this level as a discipline, not a nostalgia trip. Suffering that medicine misses (meaning, home, rhythm, recognition) often lives here, and wisdom has no other material to work with. The page pairs naturally with [[D081 — Recognize the relativity of perspectives]]: the homeworld feels absolute until another one shows up.
 
 ## Related concepts
 

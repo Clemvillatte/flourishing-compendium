@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 2** — Distinguish the feeling from its interpretation
 
-The compendium's exercise is to write down a bodily sensation and your explanation of it separately. This gives you a specific interpretation to question before deciding what to do. Gross places reappraisal early in the emotion-generative process and defines it as follows:
+My exercise is to write down a bodily sensation and your explanation of it separately. This gives you a specific interpretation to question before deciding what to do. Gross places reappraisal early in the emotion-generative process and defines it as follows:
 
 > "It consists of changing the way a situation is construed so as to decrease its emotional impact." ([Gross, 2002, Psychophysiology 39, abstract](https://onlinelibrary.wiley.com/doi/10.1017/S0048577201393198))
 

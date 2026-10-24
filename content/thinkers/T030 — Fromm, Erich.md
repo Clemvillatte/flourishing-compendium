@@ -31,14 +31,14 @@ The escape mechanisms he mapped were authoritarianism, destructiveness and autom
 - **Biophilia** — the love of life as a character orientation, set against necrophilia, the love of death. See [[Love]], [[Loneliness]].
 - **Social character** — the shared character structure a society shapes in its members, the bridge he built between psychoanalysis and sociology. See [[Domination critique]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Escape from freedom]]
 - [[The having mode]]
 - [[Love]]
 - [[Conformity]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (23)
 - [[A016 — Practice proper ambition (philotimia)|Practice proper ambition (philotimia)]]

@@ -15,9 +15,9 @@ Situation-sensitivity in self-regulation names the research on matching regulato
 
 The emotion-regulation version states the same point from the strategy side: "ER flexibility refers to the ability to implement ER strategies that are synchronized with contextual demands" ([Aldao, Sheppes & Gross, 2015](https://people.socsci.tau.ac.il/mu/galsheppes/files/2014/10/Aldao-Sheppes-Gross-2015-CTR.pdf)). The reviews are careful about one thing: flexibility is not automatically good. Aldao and colleagues warn against the "widespread agreement that this process—however it is defined—is inherently adaptive", because building the outcome into the definition "short-circuits what should be an empirical investigation of the contexts in which such process is (and perhaps is not) helpful" ([2015](https://people.socsci.tau.ac.il/mu/galsheppes/files/2014/10/Aldao-Sheppes-Gross-2015-CTR.pdf)). The adaptive value of matching strategy to context must be shown, and the reviews mark where it has been.
 
-### In the compendium
+### Here
 
-- [[M005 — Read the signs of the times humbly]] — the principle that cites this research as its psychology parallel; its own body presents Maya daykeeping, the compendium's other face of reading a situation before acting
+- [[M005 — Read the signs of the times humbly]] — the principle that cites this research as its psychology parallel; its own body presents Maya daykeeping, my other face of reading a situation before acting
 
 ## Related concepts
 

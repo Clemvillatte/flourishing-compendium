@@ -16,7 +16,7 @@ Shantideva's Guide to the Bodhisattva's Way of Life reaches its third chapter wi
 
 > "Just as the sugatas of former ages, / Aroused bodhicitta and then, in stages, / Trained themselves in skilful practice, / On the genuine path of the bodhisattvas, / Like them, I take this sacred vow: / To arouse bodhicitta here and now, / And train myself for others' good, / Gradually, as a bodhisattva should." (Bodhicaryavatara 3.23-24, [Pearcey](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3))
 
-The compendium's reading: a vow is a commitment made once, in words you could repeat, with a witness, and then kept stepwise, a structure that keeps one clear day's judgment in force on the days clarity is missing.
+My reading: a vow is a commitment made once, in words you could repeat, with a witness, and then kept stepwise, a structure that keeps one clear day's judgment in force on the days clarity is missing.
 
 **Plain words**
 Write the commitment in one sentence you would still sign on a bad morning. Say it to one person who will remember it. Then treat the training as stages: this month's small version of the practice, not the final version. On days you do not feel it, you are not deciding again; you are doing today's stage.

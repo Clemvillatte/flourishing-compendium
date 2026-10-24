@@ -27,7 +27,7 @@ Two diary studies (one with 154 students, one with 94 undergraduates keeping ten
 
 The evidence is correlational throughout, and the measure captures perceived responses rather than observed behavior; the paper itself notes that perceptions are proximal and the partner's actual response more distal.
 
-### In the compendium
+### Here
 
 - [[K210 — Active constructive responding]] — the kernel: ask questions, express enthusiasm, celebrate with them
 - [[A077 — Honour friendship in prosperity as well as adversity]] — the Aristotle-derived principle in the concept's psychology parallels
@@ -37,7 +37,7 @@ The evidence is correlational throughout, and the measure captures perceived res
 ## Related concepts
 
 
-- [[Capitalization]] — the sharing process this response completes; the compendium's stub page carries the same anchor study
+- [[Capitalization]] — the sharing process this response completes; my stub page carries the same anchor study
 - [[Mudita (sympathetic joy)]] — the Buddhist brahmavihara of joy in another's good fortune, the cross-tradition home of the same stance
 - [[Perceived partner responsiveness]] — the broader construct of the same research program; the paper's effects run through perceived responsiveness
 - [[Savoring]] — Bryant's construct for deliberately attending to positive experience; the paper cites its savoring precursor in the same introduction

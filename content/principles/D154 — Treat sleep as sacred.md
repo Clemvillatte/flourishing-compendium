@@ -22,7 +22,7 @@ A separate text, the Neiye, discusses bodily alignment and tranquility:
 
 > "We lose it / Because of the harm caused by mental agitation. / When the mind can hold on to tranquility, / The Way will become naturally stabilized." (Neiye XXVI, Roth trans.)
 
-The compendium brings these passages together: the Neiye treats stillness as the condition under which vitality lodges and stabilises, and agitation as what loses it. The Neiye does not mention sleep; the sleep application is the compendium's own extension of its treatment of stillness.
+I bring these passages together: the Neiye treats stillness as the condition under which vitality lodges and stabilises, and agitation as what loses it. The Neiye does not mention sleep; the sleep application is my own extension of its treatment of stillness.
 
 (Zhuangzi 6; Neiye VIII, XXVI.)
 

@@ -23,7 +23,7 @@ The 1996 paper rated seven life-goal domains. Four intrinsic: self-acceptance (g
 
 Three explanations for the negative correlation are discussed in the 1996 paper rather than settled: extrinsic aspirations as a marker of earlier insecurity, extrinsic goals leading to more controlled and driven daily behavior, and the greater difficulty of attaining extrinsic goals at all. The evidence throughout is correlational and self-report based, and the measure works with relative centrality, each person's importance ratings partialled against their own mean.
 
-### In the compendium
+### Here
 
 - [[MO014 — Recognise intrinsic values — growth, connection, and community predict well-being]] — the principle that carries the finding directly
 - [[ST301 — The Aspiration Index]] — the measure this research program built, as a principle
@@ -32,10 +32,10 @@ Three explanations for the negative correlation are discussed in the 1996 paper 
 
 ## Related concepts
 
-- [[Aspiration index]] — the measure the 1996 program built; the compendium's page carries the earlier 1993 study
+- [[Aspiration index]] — the measure the 1996 program built; my page carries the earlier 1993 study
 - [[Extrinsic aspirations]] — the wealth, fame and image side of the distinction, with the 2002 follow-up
 - [[Materialism]] — the values-level cousin of the extrinsic-goal finding
-- [[Self-determination]] — the needs theory the distinction lives inside; the compendium's page links the same 2000 synthesis
+- [[Self-determination]] — the needs theory the distinction lives inside; my page links the same 2000 synthesis
 - [[Self-concordance theory]] — the parallel distinction between goal content and goal pursuit
 
 ## Sources

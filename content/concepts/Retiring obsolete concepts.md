@@ -11,7 +11,7 @@ Retiring obsolete concepts is Dewey's account of what intellectual progress actu
 
 What survives the discards is the point Dewey keeps making: it is "the body of concrete knowledge and of definite controls constructed by conceptions no longer tenable" that accumulates, not any fixed theory. The same page's farm-equipment example states the structure without sentiment: no one reflects adversely on the evolution of mechanical inventions because the sickle was discarded for the mowing machine, and the mechanized tractor substituted for the horse-drawn mower.
 
-The concept matters for the compendium because most psychological strategies are concepts of this kind: an interpretation of a situation that earned its keep, produced its consequences, and then outlived the situation that needed it. Retirement, not recommitment, is the honest treatment. The compendium's principles that carry this structure are [[P044 — Unlearn on purpose]] (the stop-doing list) and [[P163 — Practice creative hopelessness — let go of what isn't working]] (the ACT-side version).
+The concept matters here because most psychological strategies are concepts of this kind: an interpretation of a situation that earned its keep, produced its consequences, and then outlived the situation that needed it. Retirement, not recommitment, is the honest treatment. My principles that carry this structure are [[P044 — Unlearn on purpose]] (the stop-doing list) and [[P163 — Practice creative hopelessness — let go of what isn't working]] (the ACT-side version).
 
 ## Related concepts
 

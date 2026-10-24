@@ -15,9 +15,9 @@ The hermeneutics of suspicion is Paul Ricoeur's name, from Freud and Philosophy,
 
 What the three share, in Ricoeur's formulation, is the pairing of suspicion with an interpretive art; the suspicion is not the end point but the instrument. The reading practice that results asks, of any self-description, whose interest it serves and what the surface's smoothness is doing.
 
-The compendium treats suspicion as a tool with a scope, not a worldview. Paired with the hermeneutics of faith, it becomes critical distance: read the surface with sympathy and with suspicion in turn, and the gap between the two readings is where understanding starts.
+I treat suspicion as a tool with a scope, not a worldview. Paired with the hermeneutics of faith, it becomes critical distance: read the surface with sympathy and with suspicion in turn, and the gap between the two readings is where understanding starts.
 
-### In the compendium
+### Here
 
 - [[E089 — Practise the hermeneutics of suspicion]] — the reading practice as a principle
 - [[E088 — Practise critical distance]] — suspicion at the right distance

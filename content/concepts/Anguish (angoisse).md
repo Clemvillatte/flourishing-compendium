@@ -19,7 +19,7 @@ Sartre is explicit that anguish and fear are phenomenologically distinct: "angui
 
 The formula that ties it to freedom: "Anguish is precisely my consciousness of being my own future, in the mode of not-being" ([BN, p. 31, quoted in the Scribd lecture](https://www.scribd.com/document/1031374178/Lecture-6-Beauvoir-and-Sartre-on-Freedom)). And in the gambler case: "After having patiently built up barriers and walls, after enclosing myself in the magic circle of a resolution, I perceive with anguish that nothing prevents me from gambling" ([BN, trans. Barnes, pp. 65-67](https://studylib.net/doc/6886825/sartre-on-anxiety)).
 
-### The compendium's use
+### My use
 
 Sartre holds the experience as informative rather than pathological. The anguish is a disclosure: what it reveals is that no past resolution and no external constraint is what stands between the person and the act, and that gap is what the tradition calls freedom. The gambler's anguish at the gaming table and the vertigo at the cliff edge are the same discovery in two registers — the past self's decisions do not bind, and the future self's conduct is not yet determined by anything but choice.
 

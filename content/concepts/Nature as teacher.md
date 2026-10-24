@@ -13,7 +13,7 @@ The Daoist idea, central to the Zhuangzi, that nature is the first teacher: heav
 
 (Zhuangzi, ch. 22 "Knowledge Wandered North," Watson translation, [26reads](https://www.26reads.com/library/92138-zhuangzi/22))
 
-Because the teaching has no words, it is available anywhere the natural order can be watched: seasons, water, trees, animals. The compendium connects it to wu wei (D003) and, on the empirical side, to attention restoration and nature contact (AT038, BE041).
+Because the teaching has no words, it is available anywhere the natural order can be watched: seasons, water, trees, animals. I connect it to wu wei (D003) and, on the empirical side, to attention restoration and nature contact (AT038, BE041).
 
 ## Related thinkers
 

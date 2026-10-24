@@ -15,7 +15,7 @@ Community psychology theory studies well-being at the level of settings and syst
 
 Sense of community is "a feeling of belongingness, interdependence, and mutual commitment that links individuals as a collective", a perception the textbook traces to McMillan and Chavis and to Sarason ([ch. 1, p. 24](https://www.apa.org/pubs/books/community-psychology-fourth-edition-sample-chapter.pdf)). Empowerment is "the process of enhancing the possibilities for people to control their own lives (Rappaport, 1987)" ([ch. 1, p. 27](https://www.apa.org/pubs/books/community-psychology-fourth-edition-sample-chapter.pdf)). Both appear among the field's eight core values, where sense of community and "empowerment and citizen participation" sit alongside social justice, respect for human diversity, collective wellness, collaboration, empirical grounding, and a multilevel strengths-based perspective ([Exhibit 1.1, p. 24](https://www.apa.org/pubs/books/community-psychology-fourth-edition-sample-chapter.pdf)).
 
-### In the compendium
+### Here
 
 - [[SO002 — Treat the person as embedded in nested systems]]
 - [[SO026 — Use community as a resource]]

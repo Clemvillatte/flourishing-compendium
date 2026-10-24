@@ -18,7 +18,7 @@ Juarrero proposes that intentions guide action through context-sensitive constra
 
 ### Conditions and intention
 
-This is a philosophical model of intentional action. It gives intentions a causal role; it does not make a person a passive product of the surroundings. The compendium draws a practical suggestion from it: when reconsidering an action, examine both the purpose and the conditions under which it is being attempted.
+This is a philosophical model of intentional action. It gives intentions a causal role; it does not make a person a passive product of the surroundings. I draw a practical suggestion from it: when reconsidering an action, examine both the purpose and the conditions under which it is being attempted.
 
 (Juarrero, Dynamics in Action, 1999.)
 

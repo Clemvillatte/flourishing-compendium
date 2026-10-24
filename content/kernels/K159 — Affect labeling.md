@@ -14,7 +14,7 @@ Name the emotion precisely: not "stressed" but "tight chest, dread, buzzing." Fi
 
 ## Facets
 
-*This kernel is presented in facets; the protocol within each facet is the compendium's editorial addition.*
+*This kernel is presented in facets; the protocol within each facet is my editorial addition.*
 
 - Name the emotion with a specific word, not a report of circumstances; "I feel resentment" does work that "this meeting is terrible" does not.
 - If one word will not hold it, use three; granularity, not poetry, is the aim.

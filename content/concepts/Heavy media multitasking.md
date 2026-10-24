@@ -7,7 +7,7 @@ file: "Heavy media multitasking"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-The compendium uses "Heavy media multitasking" for the media-use pattern studied by Eyal Ophir, Clifford Nass and Anthony Wagner. Their opening framing:
+I use "Heavy media multitasking" for the media-use pattern studied by Eyal Ophir, Clifford Nass and Anthony Wagner. Their opening framing:
 
 > "Chronic media multitasking is quickly becoming ubiquitous, although processing multiple incoming streams of information is considered a challenge for human cognition." (Ophir, Nass and Wagner 2009, abstract, [PNAS 106(37):15583-15587](https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/))
 
@@ -19,7 +19,7 @@ The study compared heavy and light media multitaskers on cognitive control tasks
 
 The abstract continues: "This led to the surprising result that heavy media multitaskers performed worse on a test of task-switching ability, likely due to reduced ability to filter out interference from the irrelevant task set" and concludes that "media multitasking, a rapidly growing societal trend, is associated with a distinct approach to fundamental information processing" (Ophir, Nass and Wagner 2009, [PMC2747164](https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/)).
 
-### In the compendium
+### Here
 
 - [[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention]]: the principle that cites this finding
 - [[AT016 — Cultivate single-tasking — do one thing at a time]]: single-tasking

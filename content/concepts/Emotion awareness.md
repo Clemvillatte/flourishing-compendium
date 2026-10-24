@@ -25,7 +25,7 @@ The authors' proposed rationale:
 
 > "Knowing how we feel helps to inform us about the significance of the immediate situation, to work out what we should do next, and to indicate what, if anything, we should do about changing how we feel." (Cognition and Emotion 15(6), p. 714, 2001, [full PDF](https://www.affective-science.org/wp-content/uploads/2024/04/01MaprelationDiffReg.pdf))
 
-### In the compendium
+### Here
 
 - [[B078 — Name the poison on contact]] — asks readers to name the poison on contact
 - [[AF005 — Learn to read your own body — interoception]] — asks readers to attend to bodily signals

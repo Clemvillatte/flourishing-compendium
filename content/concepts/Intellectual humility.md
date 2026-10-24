@@ -15,7 +15,7 @@ In Study 1, intellectual humility was associated with variables related to openn
 
 The definition covers both questions of fact and matters of opinion: a memory of a past event, an understanding of a scientific fact, a political attitude, a religious belief. And it names both a recognition and a follow-on attention: "an appropriate attentiveness to limitations in the evidentiary basis" of the belief, and to one's own limits in obtaining and evaluating the relevant information.
 
-### In the compendium
+### Here
 
 - [[CO068 — Cultivate intellectual humility — the foundation of learning]] — the dedicated principle.
 - [[M030 — Practice humility as accuracy, not self-abasement]] and [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — the accuracy reading, against both arrogance and grovelling.

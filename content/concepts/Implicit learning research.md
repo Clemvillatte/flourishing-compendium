@@ -17,7 +17,7 @@ The abstract's first sentence gives the scope of what was under study: the proce
 
 **Plain words** You can pick up a pattern by living in it without ever being able to say what the pattern is. The grammar lives in your thumbs before it lives in your words.
 
-### In the compendium
+### Here
 
 - [[D135 — Teach without words]]: the Daoist principle that pairs with learning-by-immersion
 

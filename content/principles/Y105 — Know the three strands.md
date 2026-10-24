@@ -21,7 +21,7 @@ The chapter's summary of the three bindings:
 > By toilsome strain; but Ignorance, which blots
 > The beams of wisdom, binds the soul to sloth." ([Chapter XIV, Arnold translation](https://www.gutenberg.org/ebooks/2388))
 
-Use these as philosophical descriptions when reflecting on experience. The compendium's exercise: describe a recent action, compare it with these three descriptions, and note what the comparison leaves unexplained.
+Use these as philosophical descriptions when reflecting on experience. My exercise: describe a recent action, compare it with these three descriptions, and note what the comparison leaves unexplained.
 
 **Plain words** Even the pleasant condition binds in this account. When using the map, ask what you are reluctant to give up about an activity. Describe that attachment before choosing a label; the label can remain undecided.
 

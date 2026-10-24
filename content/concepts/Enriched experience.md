@@ -7,7 +7,7 @@ file: "Enriched experience"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-"Enriched experience" is the compendium's label for John Dewey's idea, in Art as Experience (1934), of "an experience": a stretch of life that comes to a fulfilled close. The Stanford Encyclopedia of Philosophy entry on Dewey's aesthetics says that for Dewey "aesthetic experience is experience in its integrity", something that can occur "in all quarters of life, not just in art" ([Leddy and Puolakka, SEP: Dewey's Aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/)).
+"Enriched experience" is my label for John Dewey's idea, in Art as Experience (1934), of "an experience": a stretch of life that comes to a fulfilled close. The Stanford Encyclopedia of Philosophy entry on Dewey's aesthetics says that for Dewey "aesthetic experience is experience in its integrity", something that can occur "in all quarters of life, not just in art" ([Leddy and Puolakka, SEP: Dewey's Aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/)).
 
 ### What makes it "an experience"
 
@@ -19,15 +19,15 @@ The entry contrasts this with the anesthetic. In Dewey's words, quoted there, "T
 
 ### Scope
 
-Dewey's term is "an experience", and "enriched experience" is the compendium's gloss. The entry says Dewey "never puts forth an explicit definition of aesthetic experience in terms of necessary and sufficient conditions", so the features above are recurring marks rather than a checklist. Only the encyclopedia entry was consulted for this page, and practical advice about enriching daily life is an extension for the reader to weigh.
+Dewey's term is "an experience", and "enriched experience" is my gloss. The entry says Dewey "never puts forth an explicit definition of aesthetic experience in terms of necessary and sufficient conditions", so the features above are recurring marks rather than a checklist. Only the encyclopedia entry was consulted for this page, and practical advice about enriching daily life is an extension for the reader to weigh.
 
-### In the compendium
+### Here
 
 - [[P121 — Enrich experience — add layers of relation and meaning]] lists this concept and quotes Dewey's opening chapter.
 
 ## Related concepts
 
-- [[The aesthetic]] — the compendium's page on aesthetic experience in general
+- [[The aesthetic]] — my page on aesthetic experience in general
 - [[Savoring]] — a psychological practice of attending to positive experience
 - [[Everyday creative activities]] — creativity in ordinary life
 

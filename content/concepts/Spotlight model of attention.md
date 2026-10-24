@@ -19,17 +19,17 @@ In the strict spotlight metaphor, the beam size is fixed. The zoom lens theory o
 
 ### Scope
 
-These sources concern the spatial allocation of visual attention in laboratory tasks. They do not test whether people can deliberately narrow or broaden attention in daily life to flourish. The "narrow for focus, broad for context" idea in the compendium's principle is a metaphorical extension. The compendium's earlier note attributes the model to Posner, and the sources here also credit Eriksen and colleagues for the zoom lens refinement.
+These sources concern the spatial allocation of visual attention in laboratory tasks. They do not test whether people can deliberately narrow or broaden attention in daily life to flourish. The "narrow for focus, broad for context" idea in my principle is a metaphorical extension. My earlier note attributes the model to Posner, and the sources here also credit Eriksen and colleagues for the zoom lens refinement.
 
-### In the compendium
+### Here
 
 - [[AT017 — Learn to use attention as a spotlight — narrow for focus, broad for context]] lists this concept. It builds its argument on a study of emotion and the scope of attention, which these laboratory sources do not cover.
 
 ## Related concepts
 
-- [[Divided attention theory]] — the compendium's page on attention shared across tasks
-- [[Attention residue]] — the compendium's page on lingering attention
-- [[Cognitive flexibility]] — the compendium's page on shifting between mental sets
+- [[Divided attention theory]] — my page on attention shared across tasks
+- [[Attention residue]] — my page on lingering attention
+- [[Cognitive flexibility]] — my page on shifting between mental sets
 
 ## Sources
 

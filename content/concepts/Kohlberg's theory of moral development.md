@@ -15,9 +15,9 @@ Lawrence Kohlberg built the theory on people's reasoned responses to moral dilem
 
 ### The sequence and its critics
 
-The theory claims a fixed order: the sequence does not vary, though the rate of progression and the end stage reached vary by individual, and the justification's logic, not its content, assigns the stage ([Haidet et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12668541/)). The compendium carries the theory's best-known critique in a linked story and concept: Carol Gilligan's different voice, on which moral maturity is also voiced as care and relationship, not only as justice ([ST246 — Gilligan's Different Voice]; see [[Gilligan's ethics-of-care theory]]).
+The theory claims a fixed order: the sequence does not vary, though the rate of progression and the end stage reached vary by individual, and the justification's logic, not its content, assigns the stage ([Haidet et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12668541/)). I carrie the theory's best-known critique in a linked story and concept: Carol Gilligan's different voice, on which moral maturity is also voiced as care and relationship, not only as justice ([ST246 — Gilligan's Different Voice]; see [[Gilligan's ethics-of-care theory]]).
 
-### In the compendium
+### Here
 
 - [[ST246 — Gilligan's Different Voice]] and [[ST179 — The Lyre and the Boy]]
 - [[R060 — Practise self-cultivation (xiushen)]]

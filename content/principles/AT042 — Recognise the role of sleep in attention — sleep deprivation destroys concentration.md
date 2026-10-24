@@ -16,10 +16,10 @@ Sleep loss and attention travel together, and the size of the effect has been me
 
 > "Effect sizes ranged from small and nonsignificant (reasoning accuracy: g = -0.125, 95% CI [-0.27, 0.02]) to large (lapses in simple attention: g = -0.776, 95% CI [-0.96, -0.60], p < .001)." (Lim & Dinges, 2010, [Psychological Bulletin 136(3):375-389](https://pubmed.ncbi.nlm.nih.gov/20438143/))
 
-These findings concern short-term total sleep deprivation and vary across cognitive measures. They do not by themselves quantify the effect of sleeping four to six hours on a single night. The compendium suggests noting recent sleep when considering difficulties with attention. (Lim & Dinges, 2010.)
+These findings concern short-term total sleep deprivation and vary across cognitive measures. They do not by themselves quantify the effect of sleeping four to six hours on a single night. I suggest noting recent sleep when considering difficulties with attention. (Lim & Dinges, 2010.)
 
 **Plain words**
-These studies found substantial effects on lapses in simple attention after extended wakefulness. Effects on other measures differed. For the compendium's exercise, record your recent sleep alongside occasions when following a task is difficult, without assigning a cause from one observation.
+These studies found substantial effects on lapses in simple attention after extended wakefulness. Effects on other measures differed. For my exercise, record your recent sleep alongside occasions when following a task is difficult, without assigning a cause from one observation.
 
 *For example:* Imagine recording when you went to bed, when you woke, and how a reading session went.
 

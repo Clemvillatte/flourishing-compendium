@@ -12,9 +12,9 @@ Techne (Greek: craft, art) is, in Aristotle's account, the reasoned capacity to 
 
 ### Making, doing, knowing
 
-The definition places techne among the states of mind that grasp truth about things that can be otherwise. What distinguishes it from its sibling virtue is its object: practical wisdom is "a true and reasoned state of capacity to act with regard to the things that are good or bad for man," while techne brings into being things whose origin is in the maker. The maker's knowledge is knowledge of how, and it is judged in the product: one can have techne and make badly on a given day, but the capacity is proven in what it makes. The compendium's use is to keep craft-thinking distinct from both science and deliberation: when the task is to bring something into being that does not yet exist, the relevant excellence is techne, and it is learned as crafts are learned — by making, with correction, over time.
+The definition places techne among the states of mind that grasp truth about things that can be otherwise. What distinguishes it from its sibling virtue is its object: practical wisdom is "a true and reasoned state of capacity to act with regard to the things that are good or bad for man," while techne brings into being things whose origin is in the maker. The maker's knowledge is knowledge of how, and it is judged in the product: one can have techne and make badly on a given day, but the capacity is proven in what it makes. My use is to keep craft-thinking distinct from both science and deliberation: when the task is to bring something into being that does not yet exist, the relevant excellence is techne, and it is learned as crafts are learned — by making, with correction, over time.
 
-## In the compendium
+## Here
 
 - [[PP051 — Treat creativity as a process, not a trait]]
 

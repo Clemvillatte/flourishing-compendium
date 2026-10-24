@@ -7,7 +7,7 @@ file: "Ego strength"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Ego strength is the compendium's label for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will. The sources consulted here do not use the phrase "ego strength", and they distinguish Assagioli's "I" from the Freudian ego. A review of psychosynthesis in Pastoral Psychology states that "unlike the ego in Freudian thinking, the 'I' is exclusively the observer and director of the individual's actions, not the functions or roles of the personality nor a mediator between demands of the id, superego, and outer world" ([Pastoral Psychology review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5493721/)).
+Ego strength is my label for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will. The sources consulted here do not use the phrase "ego strength", and they distinguish Assagioli's "I" from the Freudian ego. A review of psychosynthesis in Pastoral Psychology states that "unlike the ego in Freudian thinking, the 'I' is exclusively the observer and director of the individual's actions, not the functions or roles of the personality nor a mediator between demands of the id, superego, and outer world" ([Pastoral Psychology review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5493721/)).
 
 ### A will with four aspects
 
@@ -23,17 +23,17 @@ A paper in PubMed Central developed a Multidimensional Will Scale based on Assag
 
 ### Scope
 
-These are secondary sources. Assagioli's own books were not read for this page. The compendium's label "ego strength" borrows a term from other schools, and the match to psychosynthesis is loose.
+These are secondary sources. Assagioli's own books were not read for this page. My label "ego strength" borrows a term from other schools, and the match to psychosynthesis is loose.
 
-### In the compendium
+### Here
 
 - [[SP060 — Build true self-esteem]] lists this concept. That principle rests on Spinoza and does not cite Assagioli, so the link is thematic.
 
 ## Related concepts
 
-- [[Ego development]] — the compendium's page on ego development
+- [[Ego development]] — my page on ego development
 - [[Akrasia (weakness of will)]] — a philosophical topic on the failures of will
-- [[Ego psychology]] — the compendium's page on ego psychology
+- [[Ego psychology]] — my page on ego psychology
 
 ## Sources
 

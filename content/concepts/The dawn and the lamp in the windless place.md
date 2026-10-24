@@ -7,7 +7,7 @@ file: "The dawn and the lamp in the windless place"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The dawn and the lamp in the windless place pairs two images of inner steadiness: the lamp the Bhagavad Gita uses for a mind shut away from disturbance, and the dawn Thoreau uses for a mind fully awake. The pairing is the compendium's own; neither source makes it.
+The dawn and the lamp in the windless place pairs two images of inner steadiness: the lamp the Bhagavad Gita uses for a mind shut away from disturbance, and the dawn Thoreau uses for a mind fully awake. The pairing is my own; neither source makes it.
 
 ### The lamp
 
@@ -23,9 +23,9 @@ Thoreau's dawn is not the hour on the clock but the state of attention:
 
 > "To him whose elastic and vigorous thought keeps pace with the sun, the day is a perpetual morning. It matters not what the clocks say or the attitudes and labors of men. Morning is when I am awake and there is a dawn in me." (Thoreau, Walden, "Where I Lived, and What I Lived For", [Project Gutenberg #205](https://www.gutenberg.org/files/205/205-h/205-h.htm))
 
-The two images meet in the compendium's use: the lamp describes a mind that disturbance cannot reach, the dawn a mind that sleep has left.
+The two images meet in my use: the lamp describes a mind that disturbance cannot reach, the dawn a mind that sleep has left.
 
-### In the compendium
+### Here
 
 - [[Y027 — Let the mind settle like a clear lake]] — the Yoga Sutra's settled mind, likened there to a gem that takes the colour of what it rests on
 - [[Y132 — End in rest, not striving]] — ends the practice with this same passage of Arnold's Gita

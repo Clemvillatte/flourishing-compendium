@@ -21,9 +21,9 @@ Whether ubuntu can carry that public weight is contested. Thaddeus Metz reconstr
 
 Bernard Matolino and Wenceslaus Kwindingwi press the opposite case in "The End of Ubuntu" ([SAJP 32(2), 2013](https://www.nisc.com/products/abstracts/4576/the-end-of-ubuntu)): in their view, current realities on the continent leave no justification for appealing to ubuntu as a public ethic, and elites invoke the word to narrow debate about how to live (as summarised in [Metz's reply](https://philarchive.org/archive/METJTB)). The tension is the productive one for essays: how communal belonging can support a person without suppressing dissent or making dignity depend on social acceptance.
 
-### In the compendium
+### Here
 
-Ubuntu anchors the relational R-principles: R001 "I am because we are" states the constitutive claim; R006 consensus-seeking, R008 collective responsibility, R010 generosity and R005 forgiveness turn it into habits. The stories ST226 "Mandela Invites the Jailer" and ST227 "Tutu and the Truth Commission" illustrate the compendium's reading of it. Its closest cousins in the wiki are Confucian [[Ren]] and Buber's [[I and Thou]], offered as comparisons across traditions rather than influences.
+Ubuntu anchors the relational R-principles: R001 "I am because we are" states the constitutive claim; R006 consensus-seeking, R008 collective responsibility, R010 generosity and R005 forgiveness turn it into habits. The stories ST226 "Mandela Invites the Jailer" and ST227 "Tutu and the Truth Commission" illustrate my reading of it. Its closest cousins here are Confucian [[Ren]] and Buber's [[I and Thou]], offered as comparisons across traditions rather than influences.
 
 ## Related concepts
 
@@ -51,7 +51,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[Distributed cognition / extended mind]] — the boundary-of-the-self question raised for personhood through relation
 - [[Family systems theory]] — personhood constituted in relation as a comparison from southern Africa
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the psychological theory that parallels this personhood
-- [[R012]] — R012 is the compendium's Ubuntu dignity principle, carrying verbatim Tutu from No Future Without Forgiveness, the work behind the concept page's dignity discussion.
+- [[R012]] — R012 is my Ubuntu dignity principle, carrying verbatim Tutu from No Future Without Forgiveness, the work behind the concept page's dignity discussion.
 - [[Associated living]] — Dewey's term for life lived with others
 - [[R009]] — Mangena's account connects respect for elders with passing communal values and experience between generations.
 - [[AF058]] — a principle about responding to loneliness

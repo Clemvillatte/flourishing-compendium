@@ -29,7 +29,7 @@ The review also records where the effect does not appear:
 
 and that no reduction of intrinsic motivation is found if the reward is not tangible, such as verbal praise, and if it is unexpected.
 
-### In the compendium
+### Here
 
 - [[D137 — Don't press people to the point of rebellion]] — the principle reads the autonomy-threat findings against the Daoist warning against pressing too hard.
 

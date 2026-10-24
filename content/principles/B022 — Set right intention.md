@@ -21,7 +21,7 @@ The Buddha's own definition is short. In the Magga-vibhanga Sutta (SN 45.8), aft
 
 Thanissaro renders the Pali as "resolve"; other translators use "intention". The sutta lists the path as "right view, right resolve, right speech, right action", so resolve comes straight after view and before any speech or action.
 
-All three terms are stated as what you turn away from: renunciation, absence of ill will, absence of harm. "Simplicity", "goodwill" and "refusing to add suffering" are the compendium's positive renderings of them, not the sutta's words.
+All three terms are stated as what you turn away from: renunciation, absence of ill will, absence of harm. "Simplicity", "goodwill" and "refusing to add suffering" are my positive renderings of them, not the sutta's words.
 
 ### A modern echo
 

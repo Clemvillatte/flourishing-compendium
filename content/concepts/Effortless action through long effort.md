@@ -20,9 +20,9 @@ The encyclopedia's analysis of these tales: the performances "look and feel effo
 
 The schools split on the route, not the target. Mencius held that people "need only realize it not by trying, but by allowing virtue to realize itself"; Xun Kuang "considered it possible to attain wu wei only through a long and intensive traditional training" ([Wikipedia](https://en.wikipedia.org/wiki/Wu_wei)). Cook Ding settles the argument inside a single biography: the effortlessness at the end is the long effort, not its absence.
 
-### In the compendium
+### Here
 
-The compendium wires the concept to its habit and flow principles. A108, "Practise habituation through repeated action," is the mechanism, and MO035, "Understand that habits are the foundation of sustainable motivation," is its motivational version; MO060 and P118, "Engineer flow — match challenge to skill," carry the psychology cousin. D053, "Balance alertness and ease," states the target tension exactly, and B072's letting go is the meditative cousin. The Kipchoge story (ST028) is the compendium's own Cook Ding: the 1:59 marathon looks like floating, and it is several thousand oxen. Y005's steadiness-without-grip is the practice shape. These are pairings within the library, not claims of influence.
+I wire the concept to its habit and flow principles. A108, "Practise habituation through repeated action," is the mechanism, and MO035, "Understand that habits are the foundation of sustainable motivation," is its motivational version; MO060 and P118, "Engineer flow — match challenge to skill," carry the psychology cousin. D053, "Balance alertness and ease," states the target tension exactly, and B072's letting go is the meditative cousin. The Kipchoge story (ST028) is my own Cook Ding: the 1:59 marathon looks like floating, and it is several thousand oxen. Y005's steadiness-without-grip is the practice shape. These are pairings within the library, not claims of influence.
 
 ## Related concepts
 

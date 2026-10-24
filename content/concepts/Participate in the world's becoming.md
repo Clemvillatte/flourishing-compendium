@@ -19,11 +19,11 @@ The basic unit of reality is an act of synthesis: something gathers the many thi
 
 The fourth category speaks of potential, so the claim is one of availability rather than felt involvement: to exist at all is already to be implicated in the advance, whether or not one notices. Whitehead describes an actual entity's formation as an "adventure of self-formation", in which "potentiality passes into actuality, and extensive relations mould qualitative content and objectifications of other particulars into a coherent finite experience" (Process and Reality, corrected ed., Part IV, ch. III "Flat Loci", p. 308). He is describing the formation of an actual occasion, and notes in the same passage that consciousness is generally negligible within it; any application to a human life is an extension of the scheme rather than something the passages themselves assert.
 
-The passage the compendium's principle rests on concerns what the process never does:
+The passage my principle rests on concerns what the process never does:
 
 > The notion of nature as an organic extensive community omits the equally essential point of view that nature is never complete. It is always passing beyond itself. This is the creative advance of nature. (Whitehead, Process and Reality, corrected ed., Part IV, ch. I "Coordinate Division", p. 289)
 
-The compendium draws an ethical invitation from this cosmology, and the invitation is marked as an application. Since the world keeps passing beyond itself, a person is one strand of the advance rather than a finished product placed into a finished world: a place where an inherited world is gathered into something that did not exist before, and that then becomes part of what others inherit. On this reading, the live questions are less "where have I gotten to?" than "what am I synthesizing from what I was given, and what am I passing on?"
+I draw an ethical invitation from this cosmology, and the invitation is marked as an application. Since the world keeps passing beyond itself, a person is one strand of the advance rather than a finished product placed into a finished world: a place where an inherited world is gathered into something that did not exist before, and that then becomes part of what others inherit. On this reading, the live questions are less "where have I gotten to?" than "what am I synthesizing from what I was given, and what am I passing on?"
 
 ## Related concepts
 

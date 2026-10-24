@@ -27,7 +27,7 @@ Brulle and Pellow review "the dimensions of unequal exposures to environmental p
 
 The Schlosberg material comes from publisher abstracts, so the page reports his argument in outline. The Brulle and Pellow review is also known only from its abstract.
 
-### In the compendium
+### Here
 
 - [[R120 — Practise ecological justice]] builds on Schlosberg's central argument and reads recognition, capability and a voice in decisions as parts of justice, beyond fair sharing of burdens.
 

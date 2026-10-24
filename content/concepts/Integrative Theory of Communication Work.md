@@ -31,7 +31,7 @@ A 2024 follow-up paper developed a communication work scale from a post-positivi
 
 Nothing here shows that the theory describes how work-related communication builds shared meaning or identity.
 
-### In the compendium
+### Here
 
 - [[SE073 — Recognise self and culture conflict — bicultural and marginalised selves]], [[M003 — Think in pairs]] and [[AT011 — Recognise that attention can be open or closed — both are needed]] cite this concept.
 - [[BE052 — Learn assertiveness — express needs and boundaries directly]] and [[ST291 — The Tower of Babel]] cite it as well.

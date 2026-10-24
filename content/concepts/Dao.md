@@ -19,7 +19,7 @@ The image family in the Daodejing is of water (yielding yet carving canyons), of
 
 ### The practical reading
 
-The compendium's principle D001 reads the Dao as what the world's own patterns are, and the practice as aligning your effort with those patterns rather than against them. This makes Dao the root of wu wei (act without forcing) and ziran (be what you are of itself).
+My principle D001 reads the Dao as what the world's own patterns are, and the practice as aligning your effort with those patterns rather than against them. This makes Dao the root of wu wei (act without forcing) and ziran (be what you are of itself).
 
 ### The family of flow-patterns
 

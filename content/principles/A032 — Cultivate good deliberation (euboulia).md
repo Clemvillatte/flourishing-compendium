@@ -18,7 +18,7 @@ Book VI of the Ethics asks what it is to deliberate well. Excellence in delibera
 
 The chapter closes: "If, then, it is characteristic of men of practical wisdom to have deliberated well, excellence in deliberation will be correctness with regard to what conduces to the end of which practical wisdom is the true apprehension." Deliberating well is a matter of aim, means, and timing together, not of intelligence alone.
 
-The compendium's exercise: before a decision with a deadline, write the end, two means to it, and the latest time the decision still serves; decide at that time.
+My exercise: before a decision with a deadline, write the end, two means to it, and the latest time the decision still serves; decide at that time.
 
 **Plain words** Good deliberation is thinking through what to do, and doing it in a way that fits: right aim, workable means, done in time. It is not being clever or quick. A clever plan aimed at the wrong thing, or the right plan found too late, both miss it.
 

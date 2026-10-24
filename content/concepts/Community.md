@@ -23,7 +23,7 @@ The communitarians' central charge against liberalism is atomism: the liberal va
 
 Bell also records that the charge did not entirely stick: liberals may not have been arguing that individuals can completely extricate themselves from their social context, and most people in liberal societies do not view themselves as atomistic selves.
 
-### In the compendium
+### Here
 
 - [[R015 — Practise connection to community]]
 

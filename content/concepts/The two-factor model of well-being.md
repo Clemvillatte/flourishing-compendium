@@ -19,7 +19,7 @@ On this foundation Keyes built the mental health continuum. Its top category, fl
 
 > To be flourishing in life, individuals must exhibit a high level (high = upper tertile) on one of the two measures of emotional well-being and high levels on six of the 11 scales of positive functioning. (ibid., p. 210)
 
-The bottom category, languishing, mirrors the criteria with low levels. The two-factor structure is what lets the model treat "not depressed" and "flourishing" as different achievements — the finding that the risk of a major depressive episode was nearly six times greater among languishing than flourishing adults (ibid., p. 207) shows languishing carries its own risk, not merely the absence of illness. For the compendium's hedonic/eudaimonic distinction (PP001), the model is evidence that well-being has structure: feeling good and functioning well are separable dimensions, and flourishing is defined by both.
+The bottom category, languishing, mirrors the criteria with low levels. The two-factor structure is what lets the model treat "not depressed" and "flourishing" as different achievements — the finding that the risk of a major depressive episode was nearly six times greater among languishing than flourishing adults (ibid., p. 207) shows languishing carries its own risk, not merely the absence of illness. For my hedonic/eudaimonic distinction (PP001), the model is evidence that well-being has structure: feeling good and functioning well are separable dimensions, and flourishing is defined by both.
 
 ## Related concepts
 

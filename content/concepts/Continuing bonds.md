@@ -14,15 +14,15 @@ Later researchers put it plainly: "Continuing bonds has been defined as the pres
 ### What the evidence supports, and what it does not
 The 2012 longitudinal study by Stroebe, Abakoumkin, Stroebe and Schut followed 60 bereaved spouses at three points across the first two years of bereavement. People whose loss was unexpected and who retained strong bonds were the least well adapted and, in the study's words, "fail to recover over time"; those with expected losses and strong ties suffered initially but improved; those with weaker ties showed fewer signs of maladaptation regardless of how expected the death was. Field's overview puts the balance plainly: "It is increasingly recognized that it is a normative part of adjustment to the loss of a loved one and that it can be adaptive. It may be the case however that a continuing bond to the deceased may also be maladaptive under certain conditions" ([Field 2006, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16972368/)). A 2023 systematic review of 79 studies found the literature "unable to confirm whether retaining, rather than relinquishing, bonds is helpful" ([systematic review](https://www.tandfonline.com/doi/pdf/10.1080/07481187.2023.2223593)). Whether a bond helps or harms depends on the conditions around it, including how sudden the loss was.
 
-### In the compendium
+### Here
 - [[D089 — Grief without destruction]] lists continuing bonds (Klass et al., 1996) among its psychology parallels, beside the dual-process model and grief trajectories.
 - [[S062 — Do not grieve excessively]] lists continuing bonds research (Klass, Silverman and Nickman, 1996) among its psychology parallels.
 
 ## Related concepts
 - [[Grief's oscillation model]] — D089 pairs the two as modern grief-research psychology parallels
-- [[Grief for what passes]] — the compendium's other treatment of grief and loss
+- [[Grief for what passes]] — my other treatment of grief and loss
 - [[Attachment theory]] — the framework Stroebe and colleagues used to predict when bonds help or hinder
-- [[Death acceptance]] — the compendium's page on coming to terms with mortality
+- [[Death acceptance]] — my page on coming to terms with mortality
 - [[Meaning-making]] — the 2023 review names meaning reconstruction among the roles bonds play
 
 ## Sources

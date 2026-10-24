@@ -42,7 +42,7 @@ In prison, offered escape, he argued that one should follow the argument that su
 - **Care of the soul** — the soul's condition over reputation and wealth. See [[The theoretical life]], [[Moral exemplarism]], [[Wisdom]], [[The examined economics]].
 - **Never return wrong for wrong** — justice even under sentence of death. See [[Justice]], [[ST141 — Socrates Refuses to Escape the Question|141. Socrates Refuses to Escape the Question]], [[ST203 — Socrates as the Stoic Before the Stoics|203. Socrates as the Stoic Before the Stoics]].
 
-## Everything connected in the wiki
+## Everything connected here
 
 The inventory lists every corpus entry that names Socrates. Many of the principles cite him as a philosophy or psychology parallel; each link is a real edge in the corpus graph.
 

@@ -25,7 +25,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 The verse makes rejoicing an explicit act of celebration.
 
-Neither source presents mudita as a technique for suppressing envy. The exercise the compendium takes from them is gradual: begin with people you already find it easy to be happy for, then extend the same response to the cases where envy gets there first.
+Neither source presents mudita as a technique for suppressing envy. The exercise I take from them is gradual: begin with people you already find it easy to be happy for, then extend the same response to the cases where envy gets there first.
 
 ### Plain words
 

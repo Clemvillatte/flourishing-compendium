@@ -27,7 +27,7 @@ By analogy, "the function of a lyre-player is to play the lyre, and that of a go
 
 ### Reading it
 
-Aristotle calls this "an outline of the good", to be filled in later. The question "what is the distinctively human work I am here to do well?" is the compendium's way of putting it to a reader.
+Aristotle calls this "an outline of the good", to be filled in later. The question "what is the distinctively human work I am here to do well?" is my way of putting it to a reader.
 
 (NE I.7, 1097b-1098a.)
 

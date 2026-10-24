@@ -15,7 +15,7 @@ Paradigm shifts are Thomas Kuhn's name for the moments when a science stops solv
 
 The mechanism is not deliberation but something closer to a gestalt switch: normal science "ultimately leads only to the recognition of anomalies and to crises," and these are "terminated, not by deliberation and interpretation, but by a relatively sudden and unstructured event like the gestalt switch." The famous clarification: "though the world does not change with a change of paradigm, the scientist afterward works in a different world."
 
-The compendium's [[B137 — Expect your seeing to change (the wise see differently)]] and [[CO016 — Understand belief perseverance — beliefs persist after their evidence is discredited]] draw the personal lesson: what you see depends on the frame you hold, and the frame can break.
+My [[B137 — Expect your seeing to change (the wise see differently)]] and [[CO016 — Understand belief perseverance — beliefs persist after their evidence is discredited]] draw the personal lesson: what you see depends on the frame you hold, and the frame can break.
 
 ## Related concepts
 

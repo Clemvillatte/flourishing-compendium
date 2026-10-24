@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 93** — Know your field and its knower
 
-The thirteenth chapter of the Gita sets up a working pair. Arjun asks what prakṛiti and puruṣh are, and what kshetra and kshetrajna are (BG 13.1). The answer, quoted below, names the body as the field of activities and the one who knows it as the knower of the field; the Lord adds that he is also the knower in all fields, and that true knowledge is the understanding of the field and its knowers (BG 13.3). The compendium's exercise: in a hot moment, sort the field first, the facts, the feelings, the body's report, and only then ask what is doing the knowing, before speaking.
+The thirteenth chapter of the Gita sets up a working pair. Arjun asks what prakṛiti and puruṣh are, and what kshetra and kshetrajna are (BG 13.1). The answer, quoted below, names the body as the field of activities and the one who knows it as the knower of the field; the Lord adds that he is also the knower in all fields, and that true knowledge is the understanding of the field and its knowers (BG 13.3). My exercise: in a hot moment, sort the field first, the facts, the feelings, the body's report, and only then ask what is doing the knowing, before speaking.
 
 (BG 13.1-13.3.)
 

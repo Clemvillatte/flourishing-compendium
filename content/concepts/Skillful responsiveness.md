@@ -15,7 +15,7 @@ Skillful responsiveness is the Zhuangzi's picture of mastery: a reading of the s
 
 The stages matter, and the change is trained rather than gifted. As he puts it: "I go along with the natural makeup, strike in the big hollows, guide the knife through the big openings, and follow things as they are." Even at the top of his skill he does not coast. "Whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I'm doing, work very slowly, and move the knife with the greatest subtlety, until - flop! the whole thing comes apart like a clod of earth crumbling to the ground." The skill is responsiveness all the way down: reading the situation and answering with exactly the movement it permits.
 
-### In the compendium
+### Here
 
 - [[P082 — Cultivate skill — knowing-how that flows]] — the practice rule the passage grounds
 - [[A039 — Value experience over theory in practical matters]] — Cook Ting's three years against mere seeing

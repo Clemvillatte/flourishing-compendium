@@ -15,7 +15,7 @@ The five pillars of practice is this compendium's heading for the conditions und
 
 Johnston's rendering gives each condition a word: duration ("followed long"), continuity ("persistently") and attitude ("with earnestness"). The practice in question is abhyasa, which the chapter pairs with dispassion (vairagya), the two together working to still the mind's activity.
 
-### In the compendium
+### Here
 
 - [[Y083 — Let practice structure the day]]
 - [[Y130 — Rebuild from the basics when the advanced stalls]]

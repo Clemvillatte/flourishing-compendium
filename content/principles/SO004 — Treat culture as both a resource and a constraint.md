@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 4** — Treat culture as both a resource and a constraint
 
-The compendium's phrasing of this principle is its own, so this page uses one philosophical source that holds both halves together: Gadamer, as described in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/gadamer/). Gadamer's point, the entry says, is that tradition is "the background that instigates all inquiry", so "one can never start from a tradition-free place. A tradition is what gives one a question or interest to begin with."
+My phrasing of this principle is its own, so this page uses one philosophical source that holds both halves together: Gadamer, as described in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/gadamer/). Gadamer's point, the entry says, is that tradition is "the background that instigates all inquiry", so "one can never start from a tradition-free place. A tradition is what gives one a question or interest to begin with."
 
 ### Resource and constraint at once
 
@@ -24,7 +24,7 @@ The entry explains that "horizon" suggests "the limits that make perspective pos
 
 ### What this page does not show
 
-The entry says nothing about psychological costs of norms or exclusion, or about stress as a signal. Those parts are the compendium's own additions.
+The entry says nothing about psychological costs of norms or exclusion, or about stress as a signal. Those parts are my own additions.
 
 (Gadamer, Truth and Method, Part II, as described in the IEP.)
 

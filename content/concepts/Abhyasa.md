@@ -29,9 +29,9 @@ Bhagavad Gita 6.35 also pairs practice with renunciation:
 
 > "Śrī Bhagavān said: O mighty-armed son of Kuntī, undoubtedly the mind is restless and most difficult to control, but by constant practice and renunciation, it can be checked." (Bhagavad Gita 6.35, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419954.html))
 
-### In the compendium
+### Here
 
-- [[Y063 — Hold one practice to steady the mind]] — the compendium's instruction to hold one practice, drawing on the Yoga Sutra's remedies
+- [[Y063 — Hold one practice to steady the mind]] — my instruction to hold one practice, drawing on the Yoga Sutra's remedies
 
 ## Related concepts
 

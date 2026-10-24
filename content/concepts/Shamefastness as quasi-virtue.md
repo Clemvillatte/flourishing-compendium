@@ -15,7 +15,7 @@ Nicomachean Ethics IV.9 examines the sense of shame. Aristotle describes it as a
 
 The feeling suits the young because "as they live by feeling they often err, and modesty may keep them in check", and Aristotle praises a modest youth while refusing praise to a shamefaced older man, since he thinks the older man "ought not to do anything of which he need be ashamed". Shame presupposes voluntary base action, and "a virtuous man will never voluntarily do a base action". Shame can be virtuous only conditionally: a good man would be ashamed if he were to do such acts, "but the virtues are not conditional". Aristotle closes the comparison with self-restraint: shamelessness is base, yet being ashamed when one does shameful acts does not prove virtuous, any more than self-restraint is a virtue rather than a mixture of virtue and vice.
 
-### In the compendium
+### Here
 
 - [[A021 — Practice shame (aidos)]] — the principle that carries Aristotle's account: shame as a useful brake for the developing character, not a virtue to rest in
 

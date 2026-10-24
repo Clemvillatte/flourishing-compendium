@@ -15,7 +15,7 @@ Therapeutic presence is Shari Geller and Leslie Greenberg's term for the quality
 
 The model was built empirically, from the inside: "The first model of therapeutic presence was provided by Geller and Greenberg, on the basis of qualitative research conducted with seven experienced psychotherapists who had written on this theme" ([Malet et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8913713/)). The authors also quote the pair's earlier formulation of what the state feels like from the therapist's side: "Presence involves being fully in the moment and directly encountering all aspects of experience with one's whole being on a multitude of levels—including physical, emotional, mental and visceral—from a grounded and centered position within oneself" (Geller and Greenberg, 2001, as quoted in [Malet et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8913713/)). Their 2012 book treats mindfulness as one of the ways a therapist can cultivate the state, which is what makes the concept a natural bridge between contemplative practice and clinical work.
 
-### In the compendium
+### Here
 
 - [[R085 — Practise availability (disponibilité)]] pairs this concept with Gabriel Marcel's disponibilité: both name a self kept open and reachable rather than absorbed in its own purposes.
 

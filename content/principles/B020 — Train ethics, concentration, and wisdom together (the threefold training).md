@@ -20,7 +20,7 @@ Dhammapada 183 gives the trainings in a single verse: avoid evil, do the skillfu
 > this is the teaching
 > of the Awakened." (Dhammapada 183, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html))
 
-The compendium reads the verses as showing the trainings arriving together in the teaching, rather than as separate electives.
+I read the verses as showing the trainings arriving together in the teaching, rather than as separate electives.
 
 **Plain words**
 The verse does not rank the three; it lists them in one breath. Ask of any self-improvement plan which of the three it trains, and whether the plan treats them as needing each other.

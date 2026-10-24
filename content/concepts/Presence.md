@@ -17,7 +17,7 @@ Presence is Martin Buber's term (Gegenwart) for what shows itself in encounter, 
 
 The same article stresses that the I-Thou "cannot be reduced to a concept" but points to the experience of encounter, and that the "in between" is either mutual or it "remains pre-dialogic". Presence belongs to the encounter itself, not to either party alone.
 
-### In the compendium
+### Here
 
 - [[R085 — Practise availability (disponibilité)]]
 - [[AT024 — Cultivate attentional presence — fully attend to what you are doing]]

@@ -24,7 +24,7 @@ The 2000 study used functional MRI to map what happens in the brain during a sim
 
 > "The results indicate that the practice of meditation activates neural structures involved in attention and control of the autonomic nervous system." ([Lazar et al. 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10841380/))
 
-### In the compendium
+### Here
 
 - [[AT006 — Recognise that attention is trainable — it can be cultivated]] lists this research as its psychology parallel.
 

@@ -20,7 +20,7 @@ Chapter 4 tells the same story from the tree's side. The carpenter passes the al
 
 > "The cinnamon tree can be eaten, and therefore it is cut down. The varnish tree is useful, and therefore incisions are made in it. All men know the advantage of being useful, but no one knows the advantage of being useless." (Zhuangzi 4)
 
-The passages concern usefulness exposing trees to destructive treatment. The compendium's application to a person's week is a reading, not the chapters' claim: what is valuable on somebody's market is what gets billed, scheduled or harvested.
+The passages concern usefulness exposing trees to destructive treatment. My application to a person's week is a reading, not the chapters' claim: what is valuable on somebody's market is what gets billed, scheduled or harvested.
 
 (Zhuangzi 1, 4.)
 

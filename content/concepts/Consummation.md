@@ -19,14 +19,14 @@ The same entry gives the close's shape:
 
 > "Aesthetic experience also does not terminate at some random point. Rather, its close is a summation of its earlier phases, either in the sense that the energy that has gathered up during the experience is released or the experience reaches a fulfillment in some other sense." (Leddy & Puolakka, [SEP: Dewey's Aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/))
 
-### In the compendium
+### Here
 
 - [[P110 — Make life artistic — seek an experience.]] — the principle takes the consummation reading and works it into a practice of seeking an experience.
 - [[P179 — Close the loop with savoring and review]] — the principle on closing the loop, against which consummation supplies the underlying account.
 
 ## Related concepts
 
-- [[Art as experience]] — the compendium's pairing for the integral-whole reading.
+- [[Art as experience]] — my pairing for the integral-whole reading.
 
 ## Sources
 

@@ -15,7 +15,7 @@ Obedience theory, in Stanley Milgram's sense, is the finding that ordinary peopl
 
 Twenty-six of forty subjects went to the end of the generator. Milgram's own summary of the first surprise: "The experiment yielded two findings that were surprising. The first finding concerns the sheer strength of obedient tendencies manifested in this situation." The procedure also produced "extreme levels of nervous tension in some Ss," with "Profuse sweating, trembling, and stuttering."
 
-The compendium's [[SO032 — Treat social influence as inevitable and manageable]] and [[B160 — Question authority — even the Buddha's]] state the practice this research grounds: the pressure to obey is a normal feature of situations, and the countermeasure is a rehearsed capacity to refuse.
+My [[SO032 — Treat social influence as inevitable and manageable]] and [[B160 — Question authority — even the Buddha's]] state the practice this research grounds: the pressure to obey is a normal feature of situations, and the countermeasure is a rehearsed capacity to refuse.
 
 ## Field
 

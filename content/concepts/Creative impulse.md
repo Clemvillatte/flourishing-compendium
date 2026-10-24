@@ -19,7 +19,7 @@ In Part Two Dewey takes up a division of instincts into the creative and the acq
 
 His complaint about much industrial work is that the worker "neither understands the machines nor cares for their purpose". Where a person sees "the whole process of which their special work is a necessary part" and cares for the whole, "the mechanizing effect is counteracted" ([Part Two](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)).
 
-### In the compendium
+### Here
 
 - [[P086 — Channel the creative impulse]] draws on Dewey's remark that suppression "is not annihilation" and gives a short exercise: name one recurring impulse and list two habits it could be converted into.
 
@@ -27,7 +27,7 @@ His complaint about much industrial work is that the worker "neither understands
 
 - [[Habit]] — the second half of Dewey's pairing; impulse changes habit and habit gives impulse a form
 - [[Pragmatism]] — the philosophical tradition in which Dewey writes
-- [[Creativity]] — the compendium's general page on the topic
+- [[Creativity]] — my general page on the topic
 
 ## Sources
 

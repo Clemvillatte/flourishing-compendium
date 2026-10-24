@@ -25,7 +25,7 @@ The theory's claim about how validation happens:
 
 Illustrative scenario, not a reported experiment: after a job interview a candidate thinks "I answered that question badly". In the model, greater perceived validity of that thought gives it more influence on her overall evaluation of the interview.
 
-### In the compendium
+### Here
 
 - [[SO044 — Treat the WEIRD critique as a standing corrective]] — asks whether findings generalize beyond the WEIRD lab
 - [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]] — discusses how culture shapes feeling

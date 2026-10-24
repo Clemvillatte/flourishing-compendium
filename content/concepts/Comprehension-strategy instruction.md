@@ -21,7 +21,7 @@ The strategies share a family resemblance: each one makes the reader ask somethi
 
 Summarization shows the teaching logic at its clearest. A summary is "a brief statement that contains the essential ideas of a longer passage or selection" (Harris and Hodges 1995, quoted in the same chapter), and the aim of teaching it is "to teach the reader to identify the main or central ideas of a paragraph or a series of paragraphs" (National Reading Panel report, quoted in the same chapter). The strategies also work best together: "Many of the strategies above are best used within a multiple-strategies approach" (same chapter).
 
-The relevance to wisdom development is direct. Comprehension strategies are a trained habit of interrogating what one reads — asking what the main idea is, what remains unclear, what the next part will say — and that habit underlies [[Y086 — Examine what you hear]], the compendium's counsel to test rather than absorb what reaches you.
+The relevance to wisdom development is direct. Comprehension strategies are a trained habit of interrogating what one reads — asking what the main idea is, what remains unclear, what the next part will say — and that habit underlies [[Y086 — Examine what you hear]], my counsel to test rather than absorb what reaches you.
 
 ## Sources
 

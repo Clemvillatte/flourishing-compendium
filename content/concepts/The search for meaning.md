@@ -17,7 +17,7 @@ Frankl's own account of the search gives it three channels. "We can discover thi
 
 That third channel rests on the book's most quoted claim: "everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances" ([Frankl, Man's Search for Meaning, as quoted in Wikipedia's Logotherapy article](https://en.wikipedia.org/wiki/Logotherapy)). Frankl held that no one escapes every biological, sociological, or psychological determinant, yet a person remains "capable of resisting and braving even the worst conditions" ([Frankl, The Will to Meaning, as quoted in Wikipedia's Logotherapy article](https://en.wikipedia.org/wiki/Logotherapy)). The claim is not optimism; it is that the attitude remains the one thing not determined.
 
-### In the compendium
+### Here
 
 - [[E062 — Practise meaning through creative work]] — the first channel
 - [[E063 — Practise meaning through love]] — the second channel

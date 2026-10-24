@@ -23,7 +23,7 @@ Enframing is a destiny of revealing rather than a human invention: "As a destini
 
 ### How it explains the technology principle
 
-E101 practises the critique of technology by asking what a tool reveals and what it conceals. Enframing supplies the diagnosis: a spreadsheet, a productivity app or a "human resources" department illustrates enframing when people and things appear in them exclusively as resources available for ordering. The compendium's proposed exercise is noticing the habit of seeing, leaving to Heidegger the claim that the saving power grows where the danger is.
+E101 practises the critique of technology by asking what a tool reveals and what it conceals. Enframing supplies the diagnosis: a spreadsheet, a productivity app or a "human resources" department illustrates enframing when people and things appear in them exclusively as resources available for ordering. My proposed exercise is noticing the habit of seeing, leaving to Heidegger the claim that the saving power grows where the danger is.
 
 ### An everyday example
 

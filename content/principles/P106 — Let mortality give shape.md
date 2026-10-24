@@ -18,13 +18,13 @@ Seneca's treatise on the shortness of life opens by refusing the complaint: "Why
 >
 > (Seneca, On the Shortness of Life, Stewart translation)
 
-The compendium's reading follows: with unlimited time no choice would cost anything, and Seneca's catalogue of wasted lives is a catalogue of people acting as though it did not. The lifespan plays for everything the role the deadline plays for writing: the thing that makes the work happen.
+My reading follows: with unlimited time no choice would cost anything, and Seneca's catalogue of wasted lives is a catalogue of people acting as though it did not. The lifespan plays for everything the role the deadline plays for writing: the thing that makes the work happen.
 
 **Plain words**
-Time being finite is what makes choosing matter. If you had forever, postponing would cost nothing; because you do not, every "later" spends a piece of a fixed budget. The practical move is to consult the deadline on purpose instead of waiting for it. The compendium's exercise: write down three things you would stop doing if you had five years left, and check whether any of them is worth doing anyway.
+Time being finite is what makes choosing matter. If you had forever, postponing would cost nothing; because you do not, every "later" spends a piece of a fixed budget. The practical move is to consult the deadline on purpose instead of waiting for it. My exercise: write down three things you would stop doing if you had five years left, and check whether any of them is worth doing anyway.
 
 *For example:*
-Imagine the week after a health scare: the pointless meetings are cancelled and the trip is booked. The scare did not add time; it re-read the calendar. On the compendium's reading that re-reading is available without the scare.
+Imagine the week after a health scare: the pointless meetings are cancelled and the trip is booked. The scare did not add time; it re-read the calendar. On my reading that re-reading is available without the scare.
 
 ## Related concepts
 

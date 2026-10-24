@@ -14,7 +14,7 @@ Get natural light in your eyes within an hour of waking, for 10 to 20 minutes. L
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the direction of the effect is established in the review below.*
+*Steps are my own protocol; the direction of the effect is established in the review below.*
 
 1. Within the first hour after waking, go outdoors; through a window counts for little, glass filters the wavelengths that matter.
 2. Face the daylight with eyes open; on a bright day the shorter end of the range suffices, on an overcast day the longer end.

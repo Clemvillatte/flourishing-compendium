@@ -21,7 +21,7 @@ Iser traces mutual recognition through Fichte and Hegel. His account presents He
 
 The entry presents the tradition's hinge between harm and politics as a theoretical claim rather than a settled finding: experiences of misrecognition are described as violating the identity of subjects, and the affected are supposed to be particularly motivated to stand up against such violations, to engage in a "struggle for recognition" ([Iser, SEP entry on Recognition](https://plato.stanford.edu/entries/recognition/)).
 
-### In the compendium
+### Here
 
 - [[R104 — Practise recognition]] — the direct principle, quoting the entry's practical-identity and misrecognition passages.
 - [[R111 — Practise the recognition of difference]] — Taylor's thesis that misrecognition can inflict harm and imprison someone in a false, distorted and reduced mode of being.

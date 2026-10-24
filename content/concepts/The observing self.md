@@ -21,7 +21,7 @@ Deikman describes awareness as "the ground of conscious life, the background or 
 
 In their 2011 review, Ethan Kross and Ozlem Ayduk report experiments in which people who analyzed a memory of anger or sadness from "the perspective of a fly on the wall" felt less distress immediately and ruminated less on returning to the memory up to a week later than people who replayed it through their own eyes. Benefits were reported when people reflected on why they had felt as they did; evidence for vulnerable groups was preliminary ([Kross and Ayduk 2011](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf)). Acceptance and commitment therapy makes a related move with self-as-context, the perspective from which experience is noticed, developed through defusion and mindfulness ([Webster 2011](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5)).
 
-### In the compendium
+### Here
 
 SE002 "Recognise the observing self — you are not only the contents of awareness" makes the concept a foundation of psychological flexibility and wisdom. P160 "Distinguish the observing self from the story of self" applies it to identity; P058 "Distinguish the I who acts from the Me who is known" carries Mead's version. AF033, AF043 and SE016 teach it as a learnable skill, CO049 and AT034 apply it to thoughts and attention, and S057 states the Stoic parallel. ST333 and ST334 supply ACT's images: chess pieces fighting on a board that holds them, weather moving through a sky that holds all of it.
 

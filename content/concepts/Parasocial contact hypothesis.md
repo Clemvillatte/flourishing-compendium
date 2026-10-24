@@ -7,7 +7,7 @@ file: "Parasocial contact hypothesis"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-The compendium uses "Parasocial contact hypothesis" for the proposal Edward Schiappa and colleagues described as a synthesis of the Contact Hypothesis and the concept of Parasocial Interaction:
+I use "Parasocial contact hypothesis" for the proposal Edward Schiappa and colleagues described as a synthesis of the Contact Hypothesis and the concept of Parasocial Interaction:
 
 > "This study describes a synthesis of the Contact Hypothesis and the concept of Parasocial Interaction to pose what we call the Parasocial Contact Hypothesis to test whether exposure to gay men on Will & Grace can influence attitudes toward gay men in general." (Schiappa, Gregg and Hewes 2006, abstract, [Journal of Homosexuality 51(4):15-37](https://pubmed.ncbi.nlm.nih.gov/17135126/))
 

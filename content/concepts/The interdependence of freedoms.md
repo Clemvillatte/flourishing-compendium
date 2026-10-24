@@ -23,7 +23,7 @@ She had put the same point in her earlier essay Pyrrhus and Cineas: "every man n
 
 The claim does not mean that every limit on another person is oppression. In Part III she writes: "I am oppressed if I am thrown into prison, but not if I am kept from throwing my neighbor into prison" ([Part III, ch. 2](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)). Freedom, on her definition, is "not to have the power to do anything you like" but to surpass the given toward an open future, and "the existence of others as a freedom defines my situation and is even the condition of my own freedom" ([Part III, ch. 2](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)). Stopping an act of oppression is therefore not a rival freedom but the defense of the shared future both parties need.
 
-### In the compendium
+### Here
 
 - [[E076 — Practise the interdependence of freedoms]] cites this concept directly and works the claim into a practice: plans should leave the people involved room to choose, object and pursue purposes of their own.
 

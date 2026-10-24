@@ -23,7 +23,7 @@ The essay's ending, in the O'Brien translation:
 
 > "But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."
 
-([Camus, The Myth of Sisyphus, quoted at Wikiquote](https://en.wikiquote.org/wiki/Absurdism).) The link between the absurd and happiness is stated earlier in the book: "Happiness and the absurd are two sons of the same earth. They are inseparable" (MS 122; [SEP](https://plato.stanford.edu/entries/camus/)). The compendium's principle on Sisyphus holds this as a practice: the happiness is not the reward for solving the absurd but the stance taken toward it.
+([Camus, The Myth of Sisyphus, quoted at Wikiquote](https://en.wikiquote.org/wiki/Absurdism).) The link between the absurd and happiness is stated earlier in the book: "Happiness and the absurd are two sons of the same earth. They are inseparable" (MS 122; [SEP](https://plato.stanford.edu/entries/camus/)). My principle on Sisyphus holds this as a practice: the happiness is not the reward for solving the absurd but the stance taken toward it.
 
 ## Facets
 

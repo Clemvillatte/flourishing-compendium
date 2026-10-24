@@ -14,7 +14,7 @@ This page focuses on the account of naïve dialecticism examined by Spencer-Rodg
 
 Its three main concepts: "The theory of change asserts that the universe is unpredictable, dynamic, and in constant flux. The theory of contradiction holds that two ostensibly contradictory propositions may both be true simultaneously (yin–yang). The third feature of naïve dialecticism is holism, or the notion that the part cannot be understood except in relation to the whole." (Spencer-Rodgers, Boucher, Mori, Wang and Peng, [The Dialectical Self-Concept: Contradiction, Change, and Holism in East Asian Cultures](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/), Personality and Social Psychology Bulletin, 2009) In the studies behind that paper, "Contradictory self-knowledge was more readily available (Study 1) and simultaneously accessible (Study 2) among East Asians (Japanese and Chinese) than among Euro-Americans." (Spencer-Rodgers, Boucher, Mori, Wang and Peng, [The Dialectical Self-Concept: Contradiction, Change, and Holism in East Asian Cultures](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/), Personality and Social Psychology Bulletin, 2009)
 
-### In the compendium
+### Here
 
 - [[CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution]] — the direct practice
 - [[D007 — Hold yin and yang together]]

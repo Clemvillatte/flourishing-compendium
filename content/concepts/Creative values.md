@@ -27,9 +27,9 @@ He adds a caution that the route cannot be walked by aiming at its rewards:
 
 Taken together, the two passages give the creative route its shape in Frankl's account. The work matters because it carries the person beyond themselves, toward a cause or a person; and success, in this account, ensues as the unintended side-effect of that dedication rather than as its pursued goal. Frankl calls the way of achievement the obvious one; the self-transcendence passage supplies his picture of what the work serves, and the success passage its limit.
 
-### In the compendium
+### Here
 
-- [[E062 — Practise meaning through creative work]] — the compendium's principle for this route
+- [[E062 — Practise meaning through creative work]] — my principle for this route
 - [[D001 — Align your life with the Dao]]
 - [[ST293 — The Three Metamorphoses]]
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]

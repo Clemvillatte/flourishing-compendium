@@ -29,7 +29,7 @@ A separate meta-analysis of the link between self-compassion and psychopathology
 
 Most of this evidence is cross-sectional. A search excerpt from a recent longitudinal study reports that self-criticism "did not prospectively predict depression or social anxiety" in a cross-lagged model, which cautions against a simple causal reading. ([Current Psychology 2025](https://link.springer.com/article/10.1007/s12144-025-08264-2)) That study was seen as an excerpt only.
 
-### In the compendium
+### Here
 
 - [[B164 — Extend non-harm to yourself]], [[SP035 — Do not build on humility]] and [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] cite this concept.
 - [[SE012 — Understand that the self is not the enemy — self-relation is a skill]], [[K380 — The Two Teachers: change the tone, keep the lesson]] and [[SE034 — Recognise that self-relationship is the foundation of all relationships]] cite it as well.

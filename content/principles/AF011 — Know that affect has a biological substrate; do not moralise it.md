@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 11** — Know that affect has a biological substrate; do not moralise it
 
-In a study of healthy adults aged 18–30, Yoo and colleagues compared responses to negative pictures in sleep-deprived and sleep-control groups. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) The compendium uses this finding as a prompt to consider recent sleep when reflecting on emotional reactions, without assuming that sleep explains a persistent mood change.
+In a study of healthy adults aged 18–30, Yoo and colleagues compared responses to negative pictures in sleep-deprived and sleep-control groups. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) I use this finding as a prompt to consider recent sleep when reflecting on emotional reactions, without assuming that sleep explains a persistent mood change.
 
 (Yoo et al., 2007, Current Biology 17(20); Craig, 2009; Koob & Le Moal, 2008.)
 

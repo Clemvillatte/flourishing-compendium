@@ -33,7 +33,7 @@ The model names its sources: "In the proposed model, expectations of personal ef
 - **Efficacy is domain-specific and graded** — expectations "vary on several dimensions that have important performance implications," differing in magnitude, generality and strength, so confidence is not one general trait ([Bandura 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). See [[SE061 — Recognise self-efficacy is domain-specific — not general confidence|SE061]], [[Creative self-efficacy]].
 - **Learning by observation** — the Bobo doll experiments showed children acquiring behavior by watching an adult, the finding that grounded social learning theory and later social cognitive theory ([Wikipedia, Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura)). See [[Modeling]], [[Observational learning]], [[Social learning theory (Bandura)]].
 - **Moral life** — moral disengagement, his account of how ordinary people act harmfully ([Wikipedia, Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura)). See [[SO052 — Treat collective efficacy as a community resource|SO052]], [[Collective efficacy]], [[Moral disengagement research]].
-## Connection to the compendium
+## Connection to me
 
 - [[Self-efficacy]]
 - [[Mastery experiences]]
@@ -44,7 +44,7 @@ The model names its sources: "In the proposed model, expectations of personal ef
 - [[Collective efficacy]]
 - [[Deliberate practice]]
 
-## Everything connected in the wiki — the Bandura tradition
+## Everything connected here — the Bandura tradition
 
 Kept to the pages that carry or substantively apply Bandura's work — self-efficacy, mastery, modeling, moral disengagement; the many principles that cite him as a psychology parallel stay on their own pages.
 

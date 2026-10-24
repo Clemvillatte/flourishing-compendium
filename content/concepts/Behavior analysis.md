@@ -17,7 +17,7 @@ The unit of analysis is not a single act but the operant, a class of responses d
 
 Psychological behaviorism aims to explain human and animal behavior in terms of external physical stimuli, responses, learning histories and reinforcements, and the encyclopedia entry names Skinner's work on schedules of reinforcement as its fullest expression ([Graham, SEP](https://plato.stanford.edu/entries/behaviorism/)). Chomsky's 1959 review of Verbal Behavior argued that children's rapid acquisition of language is underdetermined by reinforcement history ([Graham, SEP](https://plato.stanford.edu/entries/behaviorism/)). Other critics hold that behavior depends on how the individual represents or interprets the environment, and U. T. Place argued that qualia resist behavioral analysis ([Graham, SEP](https://plato.stanford.edu/entries/behaviorism/)). Graham describes behaviorism as no longer dominant in psychology, while noting continuing behaviorist contributions to behavior therapy and animal-learning research ([Graham, SEP](https://plato.stanford.edu/entries/behaviorism/)).
 
-### In the compendium
+### Here
 
 P073 "See conduct as interaction" treats action as an interaction among impulse, habit and environment. Its comparison with the three-term contingency concerns their shared attention to the circumstances of action.
 

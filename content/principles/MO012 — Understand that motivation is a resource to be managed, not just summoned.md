@@ -16,7 +16,7 @@ The principle's claim needs its modern correction stated up front: the model of 
 
 > "In our view, self-control wanes over time not because people have no energy but because people experience a shift in motivation away from 'have-to' goals, which are carried out through a sense of obligation and duty, and instead come to prefer 'want-to' goals, which are fun, personally enjoyable, and meaningful" (Inzlicht & Berkman, 2015)
 
-The same review argues that depletion and fatigue describe the same phenomenon, and notes that they yield to motivation: "Depletion and fatigue can be overcome with sufficient task-motivation". That is the authors' proposed account, not a settled law. The compendium's suggested takeaway: treat the feeling of a drained will as a prompt to check what you are motivated toward, rather than as an empty tank that must refill on its own.
+The same review argues that depletion and fatigue describe the same phenomenon, and notes that they yield to motivation: "Depletion and fatigue can be overcome with sufficient task-motivation". That is the authors' proposed account, not a settled law. My suggested takeaway: treat the feeling of a drained will as a prompt to check what you are motivated toward, rather than as an empty tank that must refill on its own.
 
 **Plain words** The old picture said willpower was a fuel tank that empties. Inzlicht and Berkman propose instead that after a stretch of obligation, motivation shifts from have-to toward want-to, and effort starts to feel costly. The move their account supports is motivational, not mechanical: notice the competing goal before deciding what to do next.
 

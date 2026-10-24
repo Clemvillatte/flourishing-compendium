@@ -17,7 +17,7 @@ The Pleasure-Arousal-Dominance (PAD) model, developed by Mehrabian and Russell, 
 
 The article illustrates the combined dimensions using anger and boredom: "anger is reported as an unpleasant, aroused and moderately dominant emotion, while boredom is reported as a slightly unpleasant, unaroused and mostly non-dominant emotion (Mehrabian, 1980)".
 
-### In the compendium
+### Here
 
 - [[AF009 — Understand that affect is constructed, not discovered]]
 - [[AF003 — Learn the structure of your affect — valence and arousal]]

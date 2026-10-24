@@ -14,7 +14,7 @@ Shared reality, in Higgins's account, is the perceived commonality of inner stat
 
 The same paper states: "Shared reality lies at the intersection of two motives: the need to connect with other people, such as friends, partners, or fellow community members (relational motives), and the need to understand things, like events, objects, or persons (epistemic motives)" ([Higgins, Rossignac-Milon & Echterhoff 2021](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf)). The review's subtitle names the arc of the research programme, "From Sharing-Is-Believing to Merging Minds", and the building block is that "communicators tune their descriptions to align with their communication partner's attitude about something, which in turn shapes their recall" ([Higgins, Rossignac-Milon & Echterhoff 2021](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf)).
 
-### In the compendium
+### Here
 
 - [[K357 — Shared attention]]
 - [[E009 — Practise intersubjectivity]]

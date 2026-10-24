@@ -21,7 +21,7 @@ The Dhammapada's chapter XXIV, "Thirst" in Max Müller's translation, gives the 
 
 Read as a pair, the passages make a related point by different routes. Schopenhauer's is a psychology of wishing: every satisfied wish "makes room for a new one", and what an attained object gives is "a fleeting gratification". The Dhammapada's is a diagnosis of thirst (Pali tanha) whose root must be dug out or the pain returns.
 
-### In the compendium
+### Here
 
 - [[AF020 — Distinguish pleasure from satisfaction; they are different systems]]
 - [[AF069 — Recognise the hedonic treadmill — adaptation is inevitable; plan for it]]
@@ -32,7 +32,7 @@ Read as a pair, the passages make a related point by different routes. Schopenha
 ## Related concepts
 
 - [[Tanha]] — the Pali term for the thirst of Dhammapada chapter XXIV
-- [[Contentment with sufficiency]] — the Daodejing's sufficiency teaching, the compendium's counter-move to endless wanting
+- [[Contentment with sufficiency]] — the Daodejing's sufficiency teaching, my counter-move to endless wanting
 - [[The craving-to-addiction model]] — craving as a learned trigger-response loop
 
 ## Sources

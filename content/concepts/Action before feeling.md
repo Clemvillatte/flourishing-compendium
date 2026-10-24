@@ -7,7 +7,7 @@ file: "Action before feeling"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Aristotle's account of habituation explains how repeated activities form character. Nicomachean Ethics II.1 describes acquiring the virtues through corresponding actions, and II.4 distinguishes performing a just action from acting with the knowledge, choice and stable disposition characteristic of a just person. The page title names the compendium's application of that ordering; the Ethics itself teaches habituation, not a general action-before-emotion sequence.
+Aristotle's account of habituation explains how repeated activities form character. Nicomachean Ethics II.1 describes acquiring the virtues through corresponding actions, and II.4 distinguishes performing a just action from acting with the knowledge, choice and stable disposition characteristic of a just person. The page title names my application of that ordering; the Ethics itself teaches habituation, not a general action-before-emotion sequence.
 
 > "So too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." (Aristotle, Nicomachean Ethics II.1, [Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
@@ -17,9 +17,9 @@ In II.4 Aristotle adds a guard: merely doing just acts is not yet being just. He
 
 ### What it is not
 
-Action before feeling is not a claim that feelings do not matter or should be overridden. The Aristotelian source speaks of acts that build a settled character, and the ordering of action ahead of emotion is, as noted above, the compendium's application rather than a thesis of the Ethics. For the psychological side, the linked entries on the behavioural ordering and on opposite action are the place to look.
+Action before feeling is not a claim that feelings do not matter or should be overridden. The Aristotelian source speaks of acts that build a settled character, and the ordering of action ahead of emotion is, as noted above, my application rather than a thesis of the Ethics. For the psychological side, the linked entries on the behavioural ordering and on opposite action are the place to look.
 
-### In the compendium
+### Here
 
 - [[A108 — Practise habituation through repeated action]] — the habituation principle drawn from this stretch of the Ethics
 - [[A042 — Recognise that virtue is a hexis, not a feeling]] — virtue as a settled state formed by the acts

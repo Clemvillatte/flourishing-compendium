@@ -22,7 +22,7 @@ Chapter thirteen shows the habit in operation:
 
 She also reports that some of these investigations came back negative in result (ch. 13). And the failure she most feared for the settlement itself was rigidity, a house that stops changing its methods as its environment demands (ch. 6). Dewey gives the same idea its general form: the anticipation behind any plan of change, he writes, should be "a working hypothesis corrected and developed by events as action proceeds" (Dewey, Human Nature and Conduct, part 1, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)).
 
-The compendium's exercise: for the next change you want to make, household or larger, write down what you expect the change to produce and by when. Run it for a fixed period. Before revising or defending it, put the expectation beside what actually happened.
+My exercise: for the next change you want to make, household or larger, write down what you expect the change to produce and by when. Run it for a fixed period. Before revising or defending it, put the expectation beside what actually happened.
 
 **Plain words**
 A reform is a guess about what happens if things change. The guess can be checked: run the change long enough to produce results, then look at the results before deciding what to change next, whether the method, the timing, or the aim itself.

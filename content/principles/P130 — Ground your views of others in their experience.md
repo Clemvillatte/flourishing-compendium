@@ -16,11 +16,11 @@ Addams asks settlement residents to combine careful fact-gathering with sympathy
 
 > "They must be content to live quietly side by side with their neighbors, until they grow into a sense of relationship and mutual interests." (Addams, Twenty Years at Hull-House, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910))
 
-Her account also requires residents to understand the neighbourhood's needs and provide information for legislation (Twenty Years at Hull-House, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910)). The compendium reads this as making listening part of a continuing civic responsibility, beyond an outsider's impression of a visit.
+Her account also requires residents to understand the neighbourhood's needs and provide information for legislation (Twenty Years at Hull-House, [Oxford excerpt](https://learninglink.oup.com/access/content/schaller-3e-dashboard-resources/document-excerpt-from-jane-addams-twenty-years-at-hull-house-1910)). I read this as making listening part of a continuing civic responsibility, beyond an outsider's impression of a visit.
 
 ### Plain words
 
-Take one belief you hold about a group and ask what you actually know. Which experiences have you heard directly, and whose are missing? The compendium's practical suggestion is to make your judgment answerable to those experiences, while avoiding treating one person as a spokesperson for everyone.
+Take one belief you hold about a group and ask what you actually know. Which experiences have you heard directly, and whose are missing? My practical suggestion is to make your judgment answerable to those experiences, while avoiding treating one person as a spokesperson for everyone.
 
 ### For example
 

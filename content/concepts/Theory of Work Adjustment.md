@@ -17,7 +17,7 @@ The theory's two great variables are the two directions of that fit. A paper fro
 
 Satisfaction is the individual's assessment of the environment; satisfactoriness is the environment's assessment of the individual. Both are functions of correspondence, and both jointly predict tenure, the theory's principal outcome. Adjustment is therefore bidirectional maintenance: the worker must keep meeting the job's requirements while the job keeps meeting the worker's.
 
-The compendium's application: the theory is a model of fit as an ongoing achievement rather than a one-time choice, and it gives precision to the everyday word "fit" by splitting it into two judgments made by two different parties.
+My application: the theory is a model of fit as an ongoing achievement rather than a one-time choice, and it gives precision to the everyday word "fit" by splitting it into two judgments made by two different parties.
 
 ## Field
 

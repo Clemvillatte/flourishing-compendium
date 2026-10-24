@@ -35,7 +35,7 @@ McConnell also compares the framework with compartmentalization research (Shower
 
 The paper's worked example is a student it calls Rachel. Her self-aspects include roles (daughter, student), social identities (being Jewish, sorority sister) and a relationship (Mike's girlfriend). At the library she is the student; at dinner with Mike's family she is the girlfriend. An unpleasant breakup is bad feedback for the girlfriend aspect, and how far it colors her general mood depends on how much of her self-concept that aspect touches.
 
-### In the compendium
+### Here
 
 - [[SE008 — Recognise that the self is not unitary — you have multiple self-aspects]] — uses the framework's claim as a reflection exercise on being known differently in different rooms
 - [[SE038 — Learn identity integration — bring together your different self-aspects]] — works the adjacent compartmentalization research on mixing positive and negative attributes within aspects

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 93** — Take proper pleasure in the right things
 
-The rule is Book X's, quoted below: since activities differ in respect of goodness and badness, so do the pleasures, and the pleasure proper to a worthy activity is good while the pleasure proper to an unworthy one is bad. The goodness rides on what the feeling completes. The Ethics' discussion of appetite adds the personal angle: different things are pleasant to different kinds of people. The compendium's exercise: ask, of each recurring pleasure, what it is attached to and what it finishes.
+The rule is Book X's, quoted below: since activities differ in respect of goodness and badness, so do the pleasures, and the pleasure proper to a worthy activity is good while the pleasure proper to an unworthy one is bad. The goodness rides on what the feeling completes. The Ethics' discussion of appetite adds the personal angle: different things are pleasant to different kinds of people. My exercise: ask, of each recurring pleasure, what it is attached to and what it finishes.
 
 (NE X.5, Ross.)
 

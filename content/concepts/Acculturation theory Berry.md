@@ -13,7 +13,7 @@ The bidimensionality is the theory's core move. "In contrast to unidimensional m
 
 The strategies carry unequal health consequences. A systematic review of migrant mental health found "marginalisation had the worst effects on mental health of the migrant populations while integration had the most positive effects," with marginalization more than tripling the likelihood of anxiety-related symptoms compared to integration ([PMC systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9461568/)). Consistent with this, "integration or biculturalism was found to be the most advantageous or 'healthiest' acculturation orientation in relation to mental health" ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4346023/)).
 
-The compendium's application: integration protects health, and the strategies are shaped by the receiving society as much as by individual choice ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8168756/)) — acculturation can be designed, not just endured.
+My application: integration protects health, and the strategies are shaped by the receiving society as much as by individual choice ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8168756/)) — acculturation can be designed, not just endured.
 
 ## Field
 

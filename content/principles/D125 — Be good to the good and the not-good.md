@@ -16,7 +16,7 @@ Chapter 49 of the Daodejing sets out a policy of goodness that does not depend o
 
 > The sage has no invariable mind of his own; he makes the mind of the people his mind. To those who are good (to me), I am good; and to those who are not good (to me), I am also good;--and thus (all) get to be good. To those who are sincere (with me), I am sincere; and to those who are not sincere (with me), I am also sincere;--and thus (all) get to be sincere. ([Daodejing 49.1-2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The sage's goodness is the same toward everyone, and Legge's last clause states the result: "thus (all) get to be good". The compendium reads this as a standing policy and not a reward for good behaviour. The chapter itself makes no claim about how often it works.
+The sage's goodness is the same toward everyone, and Legge's last clause states the result: "thus (all) get to be good". I read this as a standing policy and not a reward for good behaviour. The chapter itself makes no claim about how often it works.
 
 (Daodejing 49.1-2, trans. Legge.)
 

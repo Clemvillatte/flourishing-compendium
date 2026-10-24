@@ -15,7 +15,7 @@ In Deci and Ryan's self-determination theory, the goals people pursue sort into 
 
 In the studies the paper summarizes, the relative importance a person places on the three intrinsic aspirations (personal growth, relationships, community involvement) related positively to self-actualization and vitality, while the index for financial success related negatively: "The higher the relative importance of financial success, the lower the subject's self-actualization and vitality."
 
-### In the compendium
+### Here
 
 - [[MO003 — Recognise the difference between intrinsic and extrinsic motivation — quality matters]]
 - [[SE064 — Recognise intrinsic vs extrinsic motivation — intrinsic predicts well-being]]

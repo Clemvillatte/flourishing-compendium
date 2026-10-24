@@ -17,7 +17,7 @@ Psychological empowerment, in Spreitzer's model, is a motivational construct mad
 
 The same study adds that "taken together, these characteristics represent an active orientation to a work role, meaning that the individual aspires at shaping his role and environment, and feels competent in doing it". The construct is measured by the 12-item Spreitzer scale, with three items for each cognition.
 
-### In the compendium
+### Here
 
 - [[SE065 — Learn self-actualization — become who you are capable of being]]
 - [[SE064 — Recognise intrinsic vs extrinsic motivation — intrinsic predicts well-being]]

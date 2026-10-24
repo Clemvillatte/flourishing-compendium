@@ -17,7 +17,7 @@ Aristotle restricts aidos to a stage of life. "The feeling is not becoming to ev
 
 The deeper point is that aidos is remedial. "For the sense of disgrace is not even characteristic of a good man, since it is consequent on bad actions." A good person has no use for a guard against disgraceful acts because such acts are no longer in their repertoire. Aristotle's concession keeps the concept alive for practice: "But shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced."
 
-### In the compendium
+### Here
 
 - [[A021 — Practice shame (aidos)]] — the working definition as a practice principle
 - [[A118 — Understand shame (aischynē)]] — the companion concept page on Greek shame

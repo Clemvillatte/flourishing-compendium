@@ -17,7 +17,7 @@ In two experiments, students studied prose passages and took one or three immedi
 
 > "However, on the delayed tests, prior testing produced substantially greater retention than studying, even though repeated studying increased students' confidence in their ability to remember the material. Testing is a powerful means of improving learning, not just assessing it." ([same record](https://pubmed.ncbi.nlm.nih.gov/16507066/))
 
-### In the compendium
+### Here
 
 - [[M014 — Learn the poems of your tradition by heart]] lists this research as a psychology parallel.
 

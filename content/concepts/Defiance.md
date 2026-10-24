@@ -7,7 +7,7 @@ file: "Defiance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Defiance, in Camus's work, is the refusal to accept oppression or the world's injustice as the last word. The compendium takes the idea from The Rebel (1951), where his own term is revolt or rebellion. The Stanford Encyclopedia says that in this book "the act of rebellion assumes the status of a primary datum of human experience", something Camus starts from and does not try to justify ([SEP, "Albert Camus"](https://plato.stanford.edu/entries/camus/)).
+Defiance, in Camus's work, is the refusal to accept oppression or the world's injustice as the last word. I take the idea from The Rebel (1951), where his own term is revolt or rebellion. The Stanford Encyclopedia says that in this book "the act of rebellion assumes the status of a primary datum of human experience", something Camus starts from and does not try to justify ([SEP, "Albert Camus"](https://plato.stanford.edu/entries/camus/)).
 
 ### From private to shared
 
@@ -23,7 +23,7 @@ The entry adds that Camus is hostile to hopes of a better future that justify sa
 
 This page draws on one encyclopedia entry, not on The Rebel itself. The entry calls the book "a historically framed philosophical essay about underlying ideas and attitudes of civilization", and finds its last chapters hard to follow. What defiance means for personal suffering is argued more fully in The Myth of Sisyphus.
 
-### In the compendium
+### Here
 
 - [[E056 — Practise revolt]] covers the personal side of the same idea in The Myth of Sisyphus, and quotes The Rebel's "I rebel—therefore we exist" from a different translation than the one in the encyclopedia.
 

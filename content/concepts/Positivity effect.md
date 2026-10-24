@@ -16,9 +16,9 @@ Socioemotional selectivity theory explains the effect motivationally: "The key p
 
 The effect is goal-driven, not a byproduct of decline: findings "are consistent with theoretically derived postulates that positivity reflects controlled cognition and chronically activated goals", and it is "largely adaptive for everyday functioning and well-being". The telling detail: "Positivity in review was eliminated, however, when experimental instructions explicitly primed informational goals" — the tilt yields when the situation imposes a different goal.
 
-### In the compendium
+### Here
 
-The compendium pairs the effect with its ageing principles. AT073 and CO079, attentional and cognitive change with ageing, are the effect's home turf; MO070's motivation-and-ageing principle is the SST goal shift in the library's own words. B185, "Water the good seeds," is the attention-allocation metaphor, and AT071's depression page carries the pathological opposite, a negative bias the healthy tilt inverts. D014's childlike vitality and SO071's loneliness research mark the effect's two edges. The connection between these principles and the research is thematic; no influence is claimed.
+I pair the effect with its ageing principles. AT073 and CO079, attentional and cognitive change with ageing, are the effect's home turf; MO070's motivation-and-ageing principle is the SST goal shift in the library's own words. B185, "Water the good seeds," is the attention-allocation metaphor, and AT071's depression page carries the pathological opposite, a negative bias the healthy tilt inverts. D014's childlike vitality and SO071's loneliness research mark the effect's two edges. The connection between these principles and the research is thematic; no influence is claimed.
 
 The effect's most interesting feature for flourishing: the goal shift follows perceived horizons, and horizons can be adopted deliberately. The Stoic memento mori is exactly a constrained-horizon stance, which suggests the positivity effect may be available on demand rather than only by age. That is a question, not a finding.
 

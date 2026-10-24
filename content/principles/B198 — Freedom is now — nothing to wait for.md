@@ -21,7 +21,7 @@ Dhammapada 239 describes removing impurities little by little and moment by mome
 
 The Platform Sutra offers a different emphasis: "You should enlighten yourself and not seek outside. If you hear the Sudden Teaching you may become enlightened right away."
 
-The compendium draws an exercise from these passages while preserving their different emphases: begin an available practice without assuming its completion is immediate.
+I draw an exercise from these passages while preserving their different emphases: begin an available practice without assuming its completion is immediate.
 
 (Dhammapada 239; Platform Sutra.)
 

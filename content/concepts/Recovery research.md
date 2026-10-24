@@ -15,7 +15,7 @@ Sabine Sonnentag's research program asks how people unwind from work stress, and
 
 The core recovery experience she studies is detachment. She defines it with a borrowed phrase, "an individual's sense of being away from the work situation" (Etzion, Eden, and Lapidot 1998, p. 579), and reads it as mentally disconnecting from the job during nonwork time, beyond merely leaving the tasks aside (Sonnentag 2018, [paper PDF, University of Helsinki](https://www.helsinki.fi/assets/drupal/2024-04/Sonnentag.pdf)).
 
-### In the compendium
+### Here
 
 - No links yet — this concept is newly enriched.
 

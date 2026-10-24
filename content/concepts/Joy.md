@@ -13,7 +13,7 @@ Joy, on this page, is the affect Spinoza calls laetitia. His Ethics defines it b
 
 > “Pleasure is the transition of a man from a less to a greater perfection.” (Spinoza, Ethics III, Definitions of the Emotions II, [Elwes translation](https://sacred-texts.com/phi/spinoza/ethics/eth03.htm); the Latin term is laetitia, which Elwes renders “pleasure” and later translations such as Curley’s render “joy”)
 
-The definition makes joy a crossing rather than a possession. A person settled at their level of power feels nothing about it; the affect appears only while the level changes, upward for joy and downward for its opposite. Spinoza separates a local form from a spread one: pleasure referred to the whole of body and mind together he calls merriment (hilaritas), and the compendium’s cheerfulness principle keeps that word. At the end of the definitions he reduces the whole family to three roots: “that they all spring from desire, pleasure, or pain, or, rather, that there is nothing besides these three” (Ethics III, concluding note to the definitions, Elwes).
+The definition makes joy a crossing rather than a possession. A person settled at their level of power feels nothing about it; the affect appears only while the level changes, upward for joy and downward for its opposite. Spinoza separates a local form from a spread one: pleasure referred to the whole of body and mind together he calls merriment (hilaritas), and my cheerfulness principle keeps that word. At the end of the definitions he reduces the whole family to three roots: “that they all spring from desire, pleasure, or pain, or, rather, that there is nothing besides these three” (Ethics III, concluding note to the definitions, Elwes).
 
 Spinoza’s own explanation of why he wrote “transition”:
 
@@ -35,15 +35,15 @@ Nietzsche, in the aphorism the original entry names, makes the same move from se
 
 > “I want to teach them that which at present so few understand, and the preachers of fellowship in sorrow least of all:—namely, fellowship in joy!” (Nietzsche, The Gay Science 338, same page)
 
-### In the compendium
+### Here
 
 - [[SP084 — Seek the third kind of knowledge directly]] — Spinoza’s own highest joy, the durable delight of understanding
-- [[SP061 — Defend cheerfulness]] — the compendium’s page for hilaritas, joy spread through the whole person
+- [[SP061 — Defend cheerfulness]] — my page for hilaritas, joy spread through the whole person
 - [[AF017 — Recognise that positive and negative affect are not opposite ends of one axis]] — joy can coexist with negative states rather than excluding them
 - [[B093 — Nurture joy in practice (piti)]] — the jhana factor of rapture, joy cultivated in concentration practice
 - [[B101 — Rejoice in others' happiness (mudita as practice)]] and [[B118 — Cultivate gladness — joy is part of the path]] — the Buddhist trainable forms, sympathetic and path-bound
 - [[D021 — Reduce desires (guayu)]] — the Daoist pairing: thinned desire, simpler satisfactions
-- [[D180 — Delight in the ordinary]] — the everyday register the compendium gives its own page
+- [[D180 — Delight in the ordinary]] — the everyday register I give its own page
 - [[K047 — Let all joy be traced to the wish for others' happiness]] — the story-side rule the original entry’s kernel carries
 
 - Aristotle
@@ -56,8 +56,8 @@ Nietzsche, in the aphorism the original entry names, makes the same move from se
 - [[Amor fati]] — Nietzsche’s formula for the affirmation the New Year aphorism states
 - [[Conatus]] — Spinoza’s striving; joy tracks its increase in power of acting
 - [[Mudita (sympathetic joy)]] — the Buddhist trainable form of shared joy
-- [[Delight in the ordinary]] — the compendium’s page for joy’s everyday register
-- [[Gratitude]] — the neighbouring positive state the compendium treats as trainable attention
+- [[Delight in the ordinary]] — my page for joy’s everyday register
+- [[Gratitude]] — the neighbouring positive state I treat as trainable attention
 
 ## Sources
 

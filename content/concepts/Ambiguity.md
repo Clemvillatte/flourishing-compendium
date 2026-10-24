@@ -19,7 +19,7 @@ Her ethics rests on separating ambiguity from absurdity:
 
 > "To declare that existence is absurd is to deny that it can ever be given a meaning; to say that it is ambiguous is to assert that its meaning is never fixed, that it must be constantly won."
 
-([ch. 3, Marxists.org](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm).) Absurdity leaves no room for ethics; a finished rationalization of the real leaves no room either. "It is because man's condition is ambiguous that he seeks, through failure and outrageousness, to save his existence" ([ch. 3](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)). The distinction is the compendium's reason for holding the concept: to stop a person treating the un-fixedness of meaning as evidence there is none.
+([ch. 3, Marxists.org](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm).) Absurdity leaves no room for ethics; a finished rationalization of the real leaves no room either. "It is because man's condition is ambiguous that he seeks, through failure and outrageousness, to save his existence" ([ch. 3](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)). The distinction is my reason for holding the concept: to stop a person treating the un-fixedness of meaning as evidence there is none.
 
 ## Related concepts
 

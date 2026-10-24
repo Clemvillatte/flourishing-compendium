@@ -20,13 +20,13 @@ Addams's practice at Hull-House made conversation a discipline: "I never address
 
 Dewey's version is the shoe that pinches: the wearer knows where, and the expert may be the best judge of the remedy, and democratic discussion is the arrangement that puts both knowledges in one conversation. His condition for the public is communication itself: "Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community" (Ch. IV).
 
-The compendium proposes turn-taking and listening as practices for making room for those contributions.
+I propose turn-taking and listening as practices for making room for those contributions.
 
 **Plain words**
-For the compendium's exercise, invite someone directly affected by an issue into the discussion. Ask them to describe their experience. Ask people with relevant expertise what they can establish and what remains uncertain.
+For my exercise, invite someone directly affected by an issue into the discussion. Ask them to describe their experience. Ask people with relevant expertise what they can establish and what remains uncertain.
 
 *For example:*
-Consider the meeting with a talking rule: everyone speaks once before anyone speaks twice. On the compendium's reading the rule is conversation machinery, an arrangement for the pinching to get said before the remedies are drafted.
+Consider the meeting with a talking rule: everyone speaks once before anyone speaks twice. On my reading the rule is conversation machinery, an arrangement for the pinching to get said before the remedies are drafted.
 
 ## Sources
 

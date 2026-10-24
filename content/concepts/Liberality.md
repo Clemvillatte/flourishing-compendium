@@ -15,7 +15,7 @@ The scale is relative, not absolute:
 
 > "The term 'liberality' is used relatively to a man's substance; for liberality resides not in the multitude of the gifts but in the state of character of the giver, and this is relative to the giver's substance." (Aristotle, [Nicomachean Ethics IV.1, trans. Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
-The vices on either side are prodigality and meanness, and Aristotle judges meanness the worse error: men err more often in that direction ([NE IV.1](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The compendium pairs the virtue with two giving principles: B114 (Give, dana) sets the Buddhist practice of giving beside it, and D136 (Give without stinting) lists it as a philosophy parallel.
+The vices on either side are prodigality and meanness, and Aristotle judges meanness the worse error: men err more often in that direction ([NE IV.1](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). I pair the virtue with two giving principles: B114 (Give, dana) sets the Buddhist practice of giving beside it, and D136 (Give without stinting) lists it as a philosophy parallel.
 
 ## Sources
 

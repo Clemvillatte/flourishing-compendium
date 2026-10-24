@@ -16,7 +16,7 @@ The instruction to Bāhiya concerns seeing, hearing, sensing and cognising. It c
 
 > "In reference to the seen, there will be only the seen. In reference to the heard, only the heard." (Ud 1.10, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html))
 
-The compendium uses suchness as a practical heading for approaching experience without immediately adding a personal verdict. This application does not establish that perception is unmediated, that all interpretation is dispensable or that the discourse's full aim is simply enjoying a meal.
+I use suchness as a practical heading for approaching experience without immediately adding a personal verdict. This application does not establish that perception is unmediated, that all interpretation is dispensable or that the discourse's full aim is simply enjoying a meal.
 
 ### Plain words
 

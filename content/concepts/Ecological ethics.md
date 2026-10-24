@@ -15,7 +15,7 @@ Ecological ethics extends moral consideration beyond human society to the living
 
 On the Foundation's summary of the philosophy, Leopold "expands the concepts of morality, compassion, and obligation from human society to the 'land'", which he defines broadly as "soil, water, plants, and animals". The ethic's criterion is the health of the biotic community rather than the benefit of the individual owner or user.
 
-### In the compendium
+### Here
 
 - [[R127 — Practise ecological humility]]
 - [[R128 — Practise ecological gratitude]]

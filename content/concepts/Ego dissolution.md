@@ -15,7 +15,7 @@ Ego dissolution, in the psychedelic research literature, is the reported diminis
 
 The review's account of what the experiences show: "Ego dissolution experiences reveal that the self-model plays an important binding function in cognitive processing, but the self does not exist." On outcomes, the paper reports that "ego dissolution experiences often occur in the context of mystical states", and that "there is evidence that mystical states are important for the therapeutic effects of psychedelics (Garcia-Romeu et al. 2016)".
 
-### In the compendium
+### Here
 
 - [[B003 — Hold the self lightly (anatta)]] — the Buddhist counterpart
 - [[B133 — Let the self-construct fall away (the Great Death)]] — the Zen counterpart

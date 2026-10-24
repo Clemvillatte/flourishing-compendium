@@ -18,7 +18,7 @@ Rogers describes the good life as movement in a direction a person selects when 
 
 > "The good life is a process, not a state of being. It is a direction not a destination. The direction which constitutes the good life is that which is selected by the total organism, when there is psychological freedom to move in any direction." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
-The compendium's exercise: describe the last six months as a direction, naming what grew and what shrank, rather than scoring the present.
+My exercise: describe the last six months as a direction, naming what grew and what shrank, rather than scoring the present.
 
 **Plain words**
 Look back over several months. What has been changing in your relationships, rest, and willingness to face difficult experiences?

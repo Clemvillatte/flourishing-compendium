@@ -18,7 +18,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 Jaspers dates the period "between 800 and 200 B.C." and says the traditions developed "almost simultaneously in China, India, and the West, without any one of these regions knowing of the others." What he finds new is that "man becomes conscious of Being as a whole, of himself and his limitations." Ideas and customs accepted until then "were subjected to examination, questioned and liquidated."
 
-The list of traditions in the original entry is the compendium's, not a quotation. Jaspers's thesis is his own historical claim, and this entry reports it as his.
+The list of traditions in the original entry is my, not a quotation. Jaspers's thesis is his own historical claim, and this entry reports it as his.
 
 **Plain words** Many of the questions you argue about, such as what is just, what makes a life good and why people suffer, are questions Jaspers traces to this period, and he says we still think in the categories it produced. Reading the old texts shows you where your own questions came from.
 

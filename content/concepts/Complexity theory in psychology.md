@@ -15,7 +15,7 @@ Complexity theory in psychology is the application of the complex-systems approa
 
 The same review describes how the approach explains its systems: "the characteristics of complex systems, such as self-organization, unpredictable behavior, and patterns that emerge as a result of the interactions of subsystems, are explained", and the book's first chapter addresses "the nonlinear nature of psychological processes" ([Dayıoğlu 2025, paragraph opening "By giving the example of the synchronized movements of bird flocks"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12805186/)). For the account of complex adaptive systems generally, separate from the psychology-specific review, Sturmberg's overview supplies the interaction features: in it, interactions within a complex adaptive system are "Sensitive to initial condition, i.e. bound by their historical and contextual conditions", and "Complex dynamic systems have two key characteristics, they self-organise without external control and exhibit feedback resulting in newly created, i.e. emergent (at times unforeseen), behaviours" ([Sturmberg 2017, sections "A Detailed Description of 'Complex Adaptive Systems'" and "Complex Systems Theory: An Overview"](https://pmc.ncbi.nlm.nih.gov/articles/PMC7187952/)).
 
-### In the compendium
+### Here
 
 - [[BE023 — Learn to use shaping — build complex behaviours from small components]]
 - [[P072 — Grow by incorporating the other]]

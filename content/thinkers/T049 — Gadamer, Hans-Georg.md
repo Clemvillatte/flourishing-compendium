@@ -30,7 +30,7 @@ Understanding is historically situated. The interpreter brings prejudices (*Voru
 - **Historically-effected consciousness** — the interpreter is formed by the history that also speaks in the text ([Wikipedia, Hans-Georg Gadamer](https://en.wikipedia.org/wiki/Hans-Georg_Gadamer)). See [[E047 — Practise historicity (Geschichtlichkeit)|Practise historicity (Geschichtlichkeit)]], [[Historical consciousness]].
 - **Dialogue as the model of understanding** — questions and answers, not extraction of information; listening for the right in the other side ([Wikipedia, Hans-Georg Gadamer](https://en.wikipedia.org/wiki/Hans-Georg_Gadamer)). See [[B147 — Listen deeply|Listen deeply]], [[D124 — Look for the right in the other side|Look for the right in the other side]], [[Dialogue]].
 
-## Everything connected in the wiki — the hermeneutic tradition
+## Everything connected here — the hermeneutic tradition
 
 Kept to the pages that carry or substantively apply Gadamer's work: horizons, prejudice, the circle and historical consciousness.
 

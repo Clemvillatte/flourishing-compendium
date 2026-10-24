@@ -17,7 +17,7 @@ Existential meaning, in Michael Steger's framework, is meaning in life built on 
 
 The framework joins the two: people devote significant resources to pursuing their purposes, and the most effective and rewarding purposes arise from and are congruent with people's comprehension of their lives. The chapter also distinguishes sources of meaning and the search for meaning as further dimensions of the construct.
 
-### In the compendium
+### Here
 
 - [[R088 — Practise the distinction between problem and mystery]]
 - [[E055 — Practise the recognition of the absurd]]

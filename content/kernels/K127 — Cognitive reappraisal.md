@@ -14,7 +14,7 @@ When a situation triggers distress, generate an alternative interpretation. What
 
 ### Protocol
 
-The steps are the compendium's practice form; the account the form leans on is quoted in the Evidence section.
+The steps are my practice form; the account the form leans on is quoted in the Evidence section.
 
 1. Name the situation and the reading that is hurting: "the meeting was a verdict on me."
 2. Generate at least one alternative interpretation that survives the facts: what else could this mean? What would a wise friend say? What is the larger context?

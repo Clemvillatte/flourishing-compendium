@@ -13,7 +13,7 @@ Kaufman and Beghetto proposed the Four-C model of creativity in 2009 to expand t
 
 Mini-c concerns personally meaningful insights in learning, such as finding a new way to solve a maths problem or connecting ideas from different school subjects. Pro-c includes professional-level creators who have not attained legendary status. The other two levels, as the same table defines them, are little-c, everyday expressions of novel and task appropriate behaviors, ideas or products, and Big-C, legendary novel and meaningful accomplishments, which often redirect an entire field of study or domain.
 
-### In the compendium
+### Here
 
 - [[PP051 — Treat creativity as a process, not a trait]] — carries this model as its psychology parallel
 

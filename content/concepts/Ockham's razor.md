@@ -21,7 +21,7 @@ For Ockham himself, "the principle of simplicity limits the multiplication of hy
 
 The entry adds a caution: the assumption that the world is maximally simple is itself suspicious, and "Ockham never makes this assumption" ([section 2](https://iep.utm.edu/ockham/)).
 
-### In the compendium
+### Here
 
 - [[D165 — Cut complexity back to simplicity]] lists this concept as a philosophy parallel.
 
@@ -29,9 +29,9 @@ The entry adds a caution: the assumption that the world is maximally simple is i
 
 - [[Parsimony]] — the virtue the razor's definition names first: parsimony
 - [[Simplicity]] — the broader value the razor applies to theory choice
-- [[Simplicity as practice]] — the compendium's treatment of simplicity as a practice
+- [[Simplicity as practice]] — my treatment of simplicity as a practice
 - [[Deliberate simplicity]] — Thoreau's practice of fronting only the essential facts of life
-- [[Inference to the best explanation]] — the compendium's page on choosing the best explanation
+- [[Inference to the best explanation]] — my page on choosing the best explanation
 
 ## Sources
 

@@ -28,15 +28,15 @@ The article gives both processes:
 
 > "Accommodation is the process of adjusting one's mental representation of the external world to fit new experiences." ([Wikipedia, Constructivism (philosophy of education)](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)))
 
-### In the compendium
+### Here
 
 - [[P009 — Truth is made, not merely found]] — the principle takes the constructivist reading and works it into a practice.
 - [[CO008 — Understand that thinking is constructivist — you build your understanding]] — the principle on constructivist thinking.
 
 ## Related concepts
 
-- [[Situated learning theory]] — the compendium's pairing for the situated reading.
-- [[Social constructivist theory]] — the compendium's pairing for the social reading.
+- [[Situated learning theory]] — my pairing for the situated reading.
+- [[Social constructivist theory]] — my pairing for the social reading.
 
 ## Sources
 

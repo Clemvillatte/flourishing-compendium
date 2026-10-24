@@ -17,7 +17,7 @@ Suppression, as defined in the laboratory work of James Gross and Robert Levenso
 
 The paper's first hypothesis is that individuals differ in their habitual use of the two strategies; the second is that these differences carry implications for affect, well-being and social relationships. Study 1 presents new measures of the habitual use of reappraisal and suppression, and Study 2 examines their convergent and discriminant validity ([Gross and John, 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12916575/)). Because the measures are of habitual use, the findings speak to the regulation people already practise rather than to the effect of adopting a strategy in the moment.
 
-### In the compendium
+### Here
 
 - [[PP017 — Regulate negative emotion without suppressing it]]
 - [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]]

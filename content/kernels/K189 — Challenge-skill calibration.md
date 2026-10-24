@@ -14,7 +14,7 @@ Adjust the difficulty of a task to match your current skill, and keep adjusting 
 
 ### Protocol
 
-*Steps follow the tennis-player passage in the owner's copy of* Flow *(printed pp. 74–75); the framing is the compendium's.*
+*Steps follow the tennis-player passage in the owner's copy of* Flow *(printed pp. 74–75); the framing is my.*
 
 1. Notice which way the mismatch runs: boredom means the challenge has fallen below your skill; anxiety means your skill has fallen below the challenge.
 2. If bored, raise the challenge: set "a new and more difficult goal that matches his skills," and you "would be back in flow."

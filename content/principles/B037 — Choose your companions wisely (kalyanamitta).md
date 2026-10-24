@@ -20,7 +20,7 @@ The passage concerns support for a particular ethical and contemplative path. It
 
 ### Plain words
 
-The compendium suggests looking at what a friendship encourages you to practise. Can you ask honest questions, acknowledge mistakes, and support each other's commitments? Choose opportunities to learn from admirable conduct, while remembering that friendship is a relationship you contribute to as well.
+I suggest looking at what a friendship encourages you to practise. Can you ask honest questions, acknowledge mistakes, and support each other's commitments? Choose opportunities to learn from admirable conduct, while remembering that friendship is a relationship you contribute to as well.
 
 ### For example
 

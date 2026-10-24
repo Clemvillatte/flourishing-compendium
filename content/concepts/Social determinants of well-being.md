@@ -21,9 +21,9 @@ The 2020 World Happiness Report chapter by Helliwell, Huang, Wang and Norton rep
 
 Both sources are explicit that these are correlational. Helliwell writes that "these estimates of course rely on correlations, and there are many complex feedbacks in play, so that the empirical results are best seen as illustrative rather than definitive" ([Helliwell, 2019](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf)). The 2020 chapter says the variables "may be taking credit properly due to other variables, or to unmeasured factors," and that "there are also likely to be vicious or virtuous circles, with two-way linkages among the variables" ([World Happiness Report 2020, ch. 2](https://files.worldhappiness.report/WHR20_Ch02.pdf)). The figures describe life evaluations measured on a 0-10 scale, not flourishing in any wider sense.
 
-### In the compendium
+### Here
 
-The principles listed (for example A006, SO001, SO009, P138 and R107) treat the social setting as part of what flourishing needs. The sources above support a narrower claim: life evaluations vary systematically with trust, support and the other social variables, and a stronger social environment is associated with smaller losses under adversity. The compendium's further step, that a good life requires particular social arrangements, is its own argument. The original entry citation to Marmot (2004) is cited at second hand.
+The principles listed (for example A006, SO001, SO009, P138 and R107) treat the social setting as part of what flourishing needs. The sources above support a narrower claim: life evaluations vary systematically with trust, support and the other social variables, and a stronger social environment is associated with smaller losses under adversity. My further step, that a good life requires particular social arrangements, is its own argument. The original entry citation to Marmot (2004) is cited at second hand.
 
 ## Related concepts
 

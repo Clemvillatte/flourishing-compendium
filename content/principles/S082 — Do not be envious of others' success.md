@@ -16,7 +16,7 @@ For this page's exercise, apply Marcus's examination of outward show to the stat
 
 > "where there are things which appear most worthy of our approbation, we ought to lay them bare and look at their worthlessness and strip them of all the words by which they are exalted. For outward show is a wonderful perverter of the reason, and when thou art most sure that thou art employed about things worth thy pains, it is then that it cheats thee most" (Marcus Aurelius, Meditations, Book VI, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-In VI.16 Marcus calls fame worthless and values acting in conformity with one's constitution. The compendium uses that comparison to ask what remains yours to practise when someone else receives recognition.
+In VI.16 Marcus calls fame worthless and values acting in conformity with one's constitution. I use that comparison to ask what remains yours to practise when someone else receives recognition.
 
 (Med. VI.13, VI.16.)
 

@@ -13,7 +13,7 @@ Dewey's principle, from Experience and Education: genuine learning comes through
 
 (John Dewey, Experience and Education, 1938, pp. 25-26, quoted in [ERIC EJ1122779](https://files.eric.ed.gov/fulltext/EJ1122779.pdf))
 
-The criterion Dewey sets is continuity: an experience is educative when it lives fruitfully in later experiences, and mis-educative when it narrows them, for example by engendering callousness or landing the learner in a rut. Enjoyable is not the same as educative. The compendium's learn-by-doing principles (P042, D072) inherit exactly this qualifier, and PP071 adds the retrieval side: the experience must be worked with, not just had.
+The criterion Dewey sets is continuity: an experience is educative when it lives fruitfully in later experiences, and mis-educative when it narrows them, for example by engendering callousness or landing the learner in a rut. Enjoyable is not the same as educative. My learn-by-doing principles (P042, D072) inherit exactly this qualifier, and PP071 adds the retrieval side: the experience must be worked with, not just had.
 
 ## Sources
 

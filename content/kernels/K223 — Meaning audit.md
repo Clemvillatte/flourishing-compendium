@@ -14,7 +14,7 @@ A monthly sitting with the month's activities, asking each one the four reason q
 
 ### Protocol
 
-The steps are the compendium's adaptation of the reason-rating method to a month's activities; the published method rates goals, and the reason questions are quoted in step 2.
+The steps are my adaptation of the reason-rating method to a month's activities; the published method rates goals, and the reason questions are quoted in step 2.
 
 1. List the month's recurring activities and commitments, the ones that actually took the hours.
 2. For each, ask the four reason questions, in the researchers' wording: is it "because somebody else wants you to or because your situation seems to demand it" (external)? Is it because "you would feel ashamed, guilty, or anxious if you didn't" (introjected)? Is it because "you really believe that it's an important goal to have" (identified)? Or is it for "the fun and enjoyment which the striving provides you" (intrinsic)?

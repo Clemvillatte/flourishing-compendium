@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 56** — Train ethics as the second perfection, at the floor first
 
-The Guide devotes its fourth and fifth chapters to moral discipline; the fifth-chapter verses ground what the principle's title calls the floor, the compendium's shorthand for restraint:
+The Guide devotes its fourth and fifth chapters to moral discipline; the fifth-chapter verses ground what the principle's title calls the floor, my shorthand for restraint:
 
 > "Nowhere has the killing / Of fish and other creatures been eradicated; / For the attainment of (merely) the thought to forsake (such things) / Is explained as the perfection of moral discipline." (Shantideva, Bodhicharyavatara 5.11, [Batchelor translation](https://milareparetreat.org/files/media/Texte-e/Shantideva_Bodhicaryavatara_en.pdf))
 

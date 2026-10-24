@@ -19,14 +19,14 @@ Courage is defined the same way — the brave man withstands and fears "in respe
 
 **Plain words** The same action is right once and wrong twice. Timing is not the finishing touch on a good decision; the good-decision list itself — right person, right proportion, right time — has timing as one of its items.
 
-### In the compendium
+### Here
 
 - [[D064 — Act with the timing]]: the principle that treats timing as part of the action
 
 ## Related concepts
 
 - [[Phronesis]]: the faculty that perceives the moment
-- [[Timing as wisdom]]: the compendium's own treatment of the same question
+- [[Timing as wisdom]]: my own treatment of the same question
 - [[Deliberation as rehearsal]]: what kairos interrupts or waits for
 
 ## Sources

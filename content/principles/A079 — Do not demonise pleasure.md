@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 79** — Do not demonise pleasure
 
-Aristotle's discussion of pleasure in Book X argues that pleasure is not the Good, but that it perfects activity. ([Nicomachean Ethics X.3-4, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=10)) The compendium reads this as a refusal to treat pleasure as an enemy of the good.
+Aristotle's discussion of pleasure in Book X argues that pleasure is not the Good, but that it perfects activity. ([Nicomachean Ethics X.3-4, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=10)) I read this as a refusal to treat pleasure as an enemy of the good.
 
 (NE VII.11-15, X.1-5.)
 

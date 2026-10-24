@@ -16,13 +16,13 @@ Disappointment is the feeling that arrives when an outcome falls short of what w
 
 > "Disappointment (and its positive counterpart Elation) is formally defined by Bell (1985) as proportional to the mismatch (numerical difference) between the subject's expectations and the actual outcome." (Tzieropoulos et al., 2011 — [The impact of disappointment in decision making](https://pmc.ncbi.nlm.nih.gov/articles/PMC3020567/) — Introduction)
 
-Zeelenberg and colleagues write, "There would be no disappointment or elation if the outcome obtained was equal to the expectation" (Zeelenberg et al., 2000, [On bad decisions and disconfirmed expectancies](https://research.vu.nl/ws/files/1683189/Zeelenberg%20Cognition%20and%20Emotion%2014(4)%202000%20u.pdf)). The compendium uses that comparison as a question for reflection: what did you expect, what happened, and would you revise the expectation?
+Zeelenberg and colleagues write, "There would be no disappointment or elation if the outcome obtained was equal to the expectation" (Zeelenberg et al., 2000, [On bad decisions and disconfirmed expectancies](https://research.vu.nl/ws/files/1683189/Zeelenberg%20Cognition%20and%20Emotion%2014(4)%202000%20u.pdf)). I use that comparison as a question for reflection: what did you expect, what happened, and would you revise the expectation?
 
 **Plain words**
 Write down what you hoped would happen and what actually happened. If they differ, ask whether you would change the expectation, your approach, or neither.
 
 **For example**
-Imagine a launch that lands at 60% of the hoped-for numbers. The comparison to sit with is between the forecast and the actual result. The compendium's suggestion: treat it as an audit of the forecast rather than a verdict on the effort, and build the next forecast from the actual numbers.
+Imagine a launch that lands at 60% of the hoped-for numbers. The comparison to sit with is between the forecast and the actual result. My suggestion: treat it as an audit of the forecast rather than a verdict on the effort, and build the next forecast from the actual numbers.
 
 ## Related concepts
 

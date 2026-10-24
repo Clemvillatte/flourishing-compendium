@@ -7,7 +7,7 @@ file: "Digital ethics"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Digital ethics asks how we should live and act in a world shaped by information and communication technologies. The most developed philosophical treatment in the compendium's sources is Luciano Floridi's, who calls the field information ethics. The publisher describes his book as "the first philosophical monograph entirely and exclusively dedicated to Information Ethics", whose subject is "the ethical impact of ICTs on human life and society" ([Oxford Academic, book abstract](https://academic.oup.com/book/35378)).
+Digital ethics asks how we should live and act in a world shaped by information and communication technologies. The most developed philosophical treatment in my sources is Luciano Floridi's, who calls the field information ethics. The publisher describes his book as "the first philosophical monograph entirely and exclusively dedicated to Information Ethics", whose subject is "the ethical impact of ICTs on human life and society" ([Oxford Academic, book abstract](https://academic.oup.com/book/35378)).
 
 ### A three-part model
 
@@ -25,9 +25,9 @@ Later in the book, Floridi discusses "ontic trust, the hypothetical pact among a
 
 ### Scope
 
-Floridi's own term is information ethics, and the compendium's label "digital ethics" is a looser one. The page draws on one full chapter and several chapter abstracts. The chapter on privacy and the one on distributed morality, which bear most on relationships, were not read in full.
+Floridi's own term is information ethics, and my label "digital ethics" is a looser one. The page draws on one full chapter and several chapter abstracts. The chapter on privacy and the one on distributed morality, which bear most on relationships, were not read in full.
 
-### In the compendium
+### Here
 
 - [[R115 — Practise relational ethics in the digital age]] cites Floridi's 2013 book together with Vallor's work on technology and the virtues. The practical advice in that principle is its own. The chapters read here set out a framework and offer no rules for relationships.
 

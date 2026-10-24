@@ -18,9 +18,9 @@ A first-order desire aims at something in the world: the cigarette, the apology,
 
 The distinction does philosophical work through the figure of the wanton: "The essential characteristic of a wanton is that he does not care about his will. His desires move him to do certain things, without its being true of him either that he wants to be moved by those desires or that he prefers to be moved by other desires. The class of wantons includes all nonhuman animals that have desires and all very young children." A wanton can deliberate perfectly well about how to get what he wants; what he never does is ask whether he wants to want it. The freedom at stake is not freedom of action but freedom of will: "It is in securing the conformity of his will to his second-order volitions, then, that a person exercises freedom of the will."
 
-The compendium's use is a question to hold: when a desire conflicts with practice, the second-order question — do I want this to be my will? — is the one that makes a person a party to the conflict rather than its arena.
+My use is a question to hold: when a desire conflicts with practice, the second-order question — do I want this to be my will? — is the one that makes a person a party to the conflict rather than its arena.
 
-### In the compendium
+### Here
 
 - [[B005 — Intention is karma]]
 - [[B022 — Set right intention]]
@@ -31,7 +31,7 @@ The compendium's use is a question to hold: when a desire conflicts with practic
 - [[Akrasia]] — the case where the first-order desire wins against the volition
 - [[Desire]] — the first-order material the second order takes as its object
 - [[Freedom]] — the freedom-of-the-will question these volitions carry
-- [[Autonomy]] — the compendium's broader treatment of self-rule the volitions serve
+- [[Autonomy]] — my broader treatment of self-rule the volitions serve
 
 ## Sources
 

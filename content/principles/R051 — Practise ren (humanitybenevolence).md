@@ -25,7 +25,7 @@ Mencius argues from the alarm and distress of seeing a child approaching a well.
 > The feeling of commiseration is the principle of benevolence.
 > (Mencius 2A6, trans. Legge)
 
-The compendium's application follows the passages: helping others do well is part of the practice. The compendium's [[The doctrine of the mean|The Doctrine of the Mean]] page follows the thread further.
+My application follows the passages: helping others do well is part of the practice. My [[The doctrine of the mean|The Doctrine of the Mean]] page follows the thread further.
 
 **Plain words** If you want to become established yourself, Confucius asks you to help others become established too. Your hopes for your own life give you a starting point for considering what someone else needs.
 

@@ -15,9 +15,9 @@ Plato's account of the good inner life in the Republic: the soul has several ele
 
 The passage calls actions that preserve this harmony just and good, and those that impair it unjust. It calls the knowledge guiding the former wisdom, and the opinion guiding the latter ignorance ([Republic IV](https://www.gutenberg.org/files/1497/1497-0.txt)). Order is not imposed from outside by rule-following; Jowett's rendering says justice concerns "not with the outward man, but with the inward, which is the true self and concernment of man". The image is musical: three principles bound like the notes of a scale, many becoming one.
 
-### In the compendium
+### Here
 
-- [[SP053 — Connect affects to ordered thought]] — uses Spinoza's version of the same question, ordering the soul's passivity; the compendium pairs Spinoza with this Platonic ground as a cross-tradition parallel.
+- [[SP053 — Connect affects to ordered thought]] — uses Spinoza's version of the same question, ordering the soul's passivity; I pair Spinoza with this Platonic ground as a cross-tradition parallel.
 
 ## Related concepts
 
@@ -26,7 +26,7 @@ The passage calls actions that preserve this harmony just and good, and those th
 - [[Temperance]] — the harmonised condition the passage names "entirely temperate".
 - [[Harmony]] — the musical figure Plato builds the ordering on.
 - [[The layered soul]] — a later echo of the same layered picture.
-- [[Satyagraha]] — a method that asks the actor to absorb the cost sits naturally beside the compendium's pages on ruling the self
+- [[Satyagraha]] — a method that asks the actor to absorb the cost sits naturally beside my pages on ruling the self
 ## Sources
 
 - [Plato, The Republic, Book IV (trans. Benjamin Jowett), Project Gutenberg](https://www.gutenberg.org/files/1497/1497-0.txt) — the just man's ordered inner life, the scale image, the one temperate nature (443d-e).

@@ -27,7 +27,7 @@ In the authors' summary, activity varies "from moment to moment up and down a de
 
 The seed line "skills develop in predictable growth spurts" needs the qualification above: spurts are the signature of optimal-level skill under strong support, and ordinary everyday skill grows more smoothly and slowly. Most of the evidence shown here concerns children's social and cognitive skills, and the page does not claim it carries over unchanged to adult wisdom practice.
 
-### In the compendium
+### Here
 
 - [[PP018 — Calibrate challenge to skill]] is built on flow theory, not on Fischer's work. The two share the idea that the right fit between a person and a task matters, though the principle does not cite dynamic skill theory.
 

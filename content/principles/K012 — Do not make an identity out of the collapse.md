@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 12** — Do not make an identity out of the collapse
 
-The Buddha's raft simile in MN 22 gives the warning its plainest form: the Dhamma is for the purpose of crossing over, not for the purpose of holding onto. The compendium's application extends the simile to insights: nihility, the great doubt, and even emptiness can be seized as a new identity ("I am the one who sees through everything"), and the passage is walked, not owned. When an insight arrives, use it and do not found a self on it.
+The Buddha's raft simile in MN 22 gives the warning its plainest form: the Dhamma is for the purpose of crossing over, not for the purpose of holding onto. My application extends the simile to insights: nihility, the great doubt, and even emptiness can be seized as a new identity ("I am the one who sees through everything"), and the passage is walked, not owned. When an insight arrives, use it and do not found a self on it.
 
 (Nishitani, Religion and Nothingness; the Zen tradition's warnings about the "zen sickness.")
 
 > Monks, I will teach you the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. (Alagaddupama Sutta, MN 22, Thanissaro Bhikkhu translation)
 
-**Plain words** The raft simile's logic applies to insight itself: a raft is for crossing, and a person who carries it on their head has stopped travelling. The compendium's test for a new self-description founded on an insight: does ordinary life continue, or does the insight now do the talking?
+**Plain words** The raft simile's logic applies to insight itself: a raft is for crossing, and a person who carries it on their head has stopped travelling. My test for a new self-description founded on an insight: does ordinary life continue, or does the insight now do the talking?
 
 *For example:* the friend who has been to three retreats and now corrects everyone's attachments at dinner is wearing his awakening like a badge.
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Integrity as consistency” — Emerson, Self-Reliance.
 
-Emerson's essay is an odd source for this label, because it attacks one kind of consistency. The label is the compendium's summary, not Emerson's phrase. Read closely, the essay separates a consistency of surface (repeating what you said before) from a consistency of character, and it prizes only the second. The Stanford Encyclopedia's treatment of integrity helps say what kind of consistency is at stake.
+Emerson's essay is an odd source for this label, because it attacks one kind of consistency. The label is my summary, not Emerson's phrase. Read closely, the essay separates a consistency of surface (repeating what you said before) from a consistency of character, and it prizes only the second. The Stanford Encyclopedia's treatment of integrity helps say what kind of consistency is at stake.
 
 ### What Emerson rejects
 
@@ -35,9 +35,9 @@ The entry also lists rigidity, dogmatism and fanaticism among the traits that "c
 
 ### What this page does not claim
 
-Emerson does not define integrity, and his essay praises nonconformity and self-trust. The compendium's principle [[A030 — Practice integrity — consistency between thought, word, and deed]] reads integrity as consistency between thought, word and deed. That reading belongs to the philosophy of integrity, as in the Stanford entry, and Emerson only supports the part about acting from one's own character.
+Emerson does not define integrity, and his essay praises nonconformity and self-trust. My principle [[A030 — Practice integrity — consistency between thought, word, and deed]] reads integrity as consistency between thought, word and deed. That reading belongs to the philosophy of integrity, as in the Stanford entry, and Emerson only supports the part about acting from one's own character.
 
-### In the compendium
+### Here
 
 - [[K250 — Virtue rehearsal]], [[K251 — Signature strengths in new ways]], [[K253 — The mean calibration]] and [[A030 — Practice integrity — consistency between thought, word, and deed]] cite this concept.
 - [[ST146 — Achilles' Disproportionate Rage]] and [[SP067 — Keep promises from strength]] cite it as well.

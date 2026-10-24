@@ -11,7 +11,7 @@ craving is a learned trigger-response loop that mindfulness can unwind (Brewer, 
 
 ### What it is
 
-The compendium uses this title for the "addictive loop" of Brewer, Elwafi and Davis's review of mindfulness training for addictions. Addiction here is a learned loop: a cue triggers a state, the state triggers craving, and acting on the craving maintains or improves positive affect or reduces negative affect, reinforcing the association. The authors note that ancient Buddhist models of suffering and modern addiction science converge: "these early models show remarkable similarity to current models of the addictive process, especially in their overlap with operant conditioning (positive and negative reinforcement)" (Brewer, Elwafi & Davis, 2013, Abstract, [author manuscript, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3434285/)).
+I use this title for the "addictive loop" of Brewer, Elwafi and Davis's review of mindfulness training for addictions. Addiction here is a learned loop: a cue triggers a state, the state triggers craving, and acting on the craving maintains or improves positive affect or reduces negative affect, reinforcing the association. The authors note that ancient Buddhist models of suffering and modern addiction science converge: "these early models show remarkable similarity to current models of the addictive process, especially in their overlap with operant conditioning (positive and negative reinforcement)" (Brewer, Elwafi & Davis, 2013, Abstract, [author manuscript, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3434285/)).
 
 ### Where it comes from
 

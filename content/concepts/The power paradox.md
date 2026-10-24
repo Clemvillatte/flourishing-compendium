@@ -14,7 +14,7 @@ The power paradox is the psychologist Dacher Keltner's name for a pattern he rep
 
 The paradox is in the direction of the change. The article's summary of what the pattern leads to is more rude, selfish and unethical behaviour, which in turn undermines the reputation and influence the power rested on. Keltner's practical counter is to be attentive to how it feels to gain status, to look for warning signals in one's own behaviour, and to practise what he calls the three ethics of good power: empathy, gratitude and generosity.
 
-### In the compendium
+### Here
 
 - [[D133 — Don't dominate — the world can't be controlled]]
 - [[P010 — Hold every belief as provisional — fallibilism]]

@@ -15,9 +15,9 @@ The paradox of valuing a goal excessively is Iris Mauss and colleagues' finding 
 
 The paper's two studies gave the chain its links. "In Study 1, female participants who valued happiness more (vs. less) reported lower happiness when under conditions of low, but not high, life stress. In Study 2, compared to a control group, female participants who were experimentally induced to value happiness reacted less positively to a happy, but not a sad, emotion induction. This effect was mediated by participants' disappointment at their own feelings." The mechanism is the goal itself acting as a standard: when happiness is the aim, the moment is measured against it, and the measurement finds the feeling short.
 
-The compendium extends the finding by analogy rather than by evidence: a goal held too tightly can turn every moment into an audit of progress toward it, and the audit spoils the attention the goal would need. The compendium's principles on non-seeking practice, on not chasing happiness directly, draw the practical corollary: pursue the conditions, hold the goal lightly enough that the present can do its work.
+I extend the finding by analogy rather than by evidence: a goal held too tightly can turn every moment into an audit of progress toward it, and the audit spoils the attention the goal would need. My principles on non-seeking practice, on not chasing happiness directly, draw the practical corollary: pursue the conditions, hold the goal lightly enough that the present can do its work.
 
-### In the compendium
+### Here
 
 - [[AF019 — Recognise the paradox of hedonic pursuit — chasing positive affect can reduce it]] — the affective case
 - [[B060 — Practice without seeking]] — the contemplative answer to the paradox

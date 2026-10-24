@@ -26,7 +26,7 @@ Avoidance intentions exceeded the control condition in both competition conditio
 
 Even just observing schadenfreude produces important consequences for social interactions, and those consequences are measured as impressions and intentions ([Pagliaro et al., 2019](https://www.mbrambilla.com/wp-content/uploads/2021/03/Pagliaro-et-al-2019-Schadenfreude.pdf)).
 
-## In the compendium
+## Here
 
 The principle [D132](../principles/D132%20%E2%80%94%20If%20you%20must%20fight%2C%20grieve%20%E2%80%94%20never%20gloat.md) states its own counsel: gloating damages trust and invites reprisal.
 

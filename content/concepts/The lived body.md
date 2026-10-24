@@ -21,7 +21,7 @@ The SEP notes that the body is experienced in ways unlike any other thing: it is
 
 Leib and Körper are not two bodies but two ways of relating to one. The same body can be examined, measured and treated as an object, and lived. Pain or illness often pushes the body towards being a thing. Skilled absorption returns it to being subject.
 
-### In the compendium
+### Here
 
 - [[E013 — Practise the lived body (Leib)]] and [[P143 — Think with the whole body — the body is not a machine]] — the somatic practices that follow from it
 - [[B040 — Know the body (body contemplation)]], [[B189 — Ground in the body]] and [[AT050 — Learn body scan — systematic attention through the body]] — Buddhist and attentional body practices, offered as parallels

@@ -17,7 +17,7 @@ The concept earns its keep in the contrast with amour-propre, the comparative se
 
 Amour de soi is not selfishness run loose; in the state of nature it is tempered by pitié. In the Discourse's English translation: "It is therefore certain that pity is a natural sentiment, which, by moderating in every individual the activity of self-love, contributes to the mutual preservation of the whole species" ([Rousseau, Discourse on Inequality, Project Gutenberg #11136](https://www.gutenberg.org/cache/epub/11136/pg11136.txt)).
 
-### In the compendium
+### Here
 
 - [[A066 — Be a friend to yourself first]] — self-love as friendship with oneself
 - [[A071 — Recognise that self-love is the foundation]] — the Rousseauian grounding

@@ -18,7 +18,7 @@ Fricker's book homes in on two forms of epistemic injustice, which she theorises
 
 (Fricker, 2007, "Epistemic Injustice", Introduction, publisher's extract, [Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524).)
 
-Fricker distinguishes a prejudice-driven credibility deficit from an interpretive gap that unfairly disadvantages someone trying to understand a social experience. The compendium proposes examining both the reasons given for judging testimony and the shared resources available to describe an experience.
+Fricker distinguishes a prejudice-driven credibility deficit from an interpretive gap that unfairly disadvantages someone trying to understand a social experience. I propose examining both the reasons given for judging testimony and the shared resources available to describe an experience.
 
 **Plain words** Write down what the person said and the reasons offered for accepting or discounting it. Consider whether prejudice affects that judgment. Then ask whether gaps in shared understanding make the experience harder to describe. Examine both questions without assuming they are mutually exclusive.
 

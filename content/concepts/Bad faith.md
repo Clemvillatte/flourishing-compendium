@@ -21,7 +21,7 @@ The entry quotes Sartre's most famous case, the café waiter who "attempts to in
 
 
 - [[Freedom]] — the refusal of freedom in Sartre's sense
-- [[Escape from freedom]] — the compendium pairs Sartre's individual dodge with Fromm's social flight (comparison)
+- [[Escape from freedom]] — I pair Sartre's individual dodge with Fromm's social flight (comparison)
 ## Sources
 
 - Sartre, Being and Nothingness

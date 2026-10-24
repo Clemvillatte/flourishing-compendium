@@ -8,7 +8,7 @@ tags: ["psych/motivation", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-WOOP (Wish, Outcome, Obstacle, Plan) is a four-step goal strategy developed by the psychologist Gabriele Oettingen. A trial published in the Journal of Gerontology describes it as guiding people "to use Mental Contrasting with Implementation Intentions to achieve attainable goals in their daily lives" (Monin et al., 2022, [Oxford Academic](https://academic.oup.com/psychsocgerontology/article/77/3/513/6309641)). In practice: name a wish, picture the best outcome, name what in you is likely to block it, and make an if-then plan for that moment. It packages [[MO026 — Learn to use mental contrasting — visualise obstacle, not just outcome]], and [[K154 — Mental contrasting (WOOP)]] is the compendium's kernel for it.
+WOOP (Wish, Outcome, Obstacle, Plan) is a four-step goal strategy developed by the psychologist Gabriele Oettingen. A trial published in the Journal of Gerontology describes it as guiding people "to use Mental Contrasting with Implementation Intentions to achieve attainable goals in their daily lives" (Monin et al., 2022, [Oxford Academic](https://academic.oup.com/psychsocgerontology/article/77/3/513/6309641)). In practice: name a wish, picture the best outcome, name what in you is likely to block it, and make an if-then plan for that moment. It packages [[MO026 — Learn to use mental contrasting — visualise obstacle, not just outcome]], and [[K154 — Mental contrasting (WOOP)]] is my kernel for it.
 
 ### Why the obstacle step is there
 
@@ -26,7 +26,7 @@ WOOP is not goal-setting plus optimism. The optimism is one step of four, and th
 
 Written in four lines on a card: wish (run a half-marathon), best outcome (crossing the line in November), obstacle (evening fatigue beats morning resolve), plan (if it is 6:30 and I have not run, then I put on my shoes first and decide after ten minutes). (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[S019 — Prepare for adversity before it arrives]] and [[S091 — Practise negative visualisation]] — rehearsing obstacles in advance, in Stoic form
 

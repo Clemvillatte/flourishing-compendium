@@ -17,9 +17,9 @@ Forward chaining teaches the first step to mastery, then adds each later step; a
 
 In Slocum and Tiger's comparison, four children acquired experimentally taught motor sequences under both forward and backward chaining, but neither procedure was consistently more efficient across 16 comparisons, and three of the four children showed no preference between them ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). Slocum and Tiger report that Hur and Osborne's corsage-making study taught an 18-step task to both groups in a similar number of trials ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)). In this small motor-sequence study, neither procedure was consistently faster, and performance on shorter sequences did not reliably predict performance on longer ones ([Slocum & Tiger 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/)).
 
-### In the compendium
+### Here
 
-BE024 "Learn to use chaining: link behaviours into sequences" is the compendium's version, with its habit-chain reading: each behaviour becomes the cue for the next, and sequences reduce the decision count to one. AF036 "Learn to regulate through action: affect follows behaviour" shares the underlying bet that action changes affect. BE078 "Build behavioural maintenance: ongoing practice and adaptation" extends the discussion from acquisition to continued practice and adaptation.
+BE024 "Learn to use chaining: link behaviours into sequences" is my version, with its habit-chain reading: each behaviour becomes the cue for the next, and sequences reduce the decision count to one. AF036 "Learn to regulate through action: affect follows behaviour" shares the underlying bet that action changes affect. BE078 "Build behavioural maintenance: ongoing practice and adaptation" extends the discussion from acquisition to continued practice and adaptation.
 
 ## Related concepts
 

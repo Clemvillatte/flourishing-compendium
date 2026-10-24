@@ -15,7 +15,7 @@ Self-transcendence names the family of experiences and orientations in which the
 
 The two uses do different work. Frankl's is an orientation: a life directed at something beyond its own satisfaction, from which fulfillment arrives as a by-product. The psychological review is episodic: a taxonomy of states that share two components, an annihilational one (self-loss, reduced self-salience) and a relational one (connectedness to others and surroundings). The review places mindfulness, flow, love, awe, peak experiences and mystical experiences on one continuum of intensity, from losing yourself in music to the sense of unity with everything, and proposes that these states, long described in religious traditions, are a legitimate subject for positive psychology and affective neuroscience.
 
-### In the compendium
+### Here
 
 - [[E060 — Practise self-transcendence]] — the dedicated principle.
 - [[E097 — Practise transcendence]] — the phenomenological companion.

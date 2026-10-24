@@ -15,7 +15,7 @@ Frankl's account of the camps gives suffering a place in the economy of meaning.
 
 The passage continues: "there were always choices to make. Every day, every hour, offered the opportunity to make a decision, a decision which determined whether you would or would not submit to those powers which threatened to rob you of your very self". Later in the book, on unavoidable suffering, Frankl states the consequence: "In accepting this challenge to suffer bravely, life has a meaning up to the last moment... life's meaning is an unconditional one, for it even includes the potential meaning of unavoidable suffering".
 
-### In the compendium
+### Here
 
 - [[E064 — Practise meaning through the attitude toward suffering]]
 - [[E062 — Practise meaning through creative work]]
@@ -23,7 +23,7 @@ The passage continues: "there were always choices to make. Every day, every hour
 
 ## Related concepts
 
-- [[Meaning]] — the compendium's broader treatment
+- [[Meaning]] — my broader treatment
 - [[Amor fati]] — the Stoic-adjacent stance of affirmation
 - [[Post-traumatic growth]] — the empirical study of what suffering can yield
 

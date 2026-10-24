@@ -23,7 +23,7 @@ The thesis answered a picture inherited from logical empiricism, in which observ
 
 The same entry is careful about what the thesis does not establish. On its account, theoretical commitments do influence what an investigator finds salient, "but their influence is neither inevitable nor irremediable" ([Boyd & Bogen, SEP](https://plato.stanford.edu/entries/science-theory-observation/)). Whether a given set of assumptions is benign or straight-jacketing for a result has to be judged case by case, and theory-ladenness by itself does not show that observations cannot test theories.
 
-### In the compendium
+### Here
 
 - [[B137 — Expect your seeing to change (the wise see differently)]] — the principle takes the theory-ladenness of seeing and turns it into a training frame: the Dhammapada's marks of existence are instructions to look until the seeing itself shifts, and seeing differently is the end of a trainable sequence.
 

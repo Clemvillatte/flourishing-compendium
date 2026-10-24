@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 When you encounter suffering: yours or another's — meet it with the wish to relieve it. Don't look away; don't drown in it.
 
-A note on the citation: the compendium's source is the Karaniya Metta Sutta, a passage on good will (metta); its lines are applied here to compassion (karuna), the wish that suffering be relieved. The sutta's container for the wish:
+A note on the citation: my source is the Karaniya Metta Sutta, a passage on good will (metta); its lines are applied here to compassion (karuna), the wish that suffering be relieved. The sutta's container for the wish:
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." (Karaniya Metta Sutta, Sn 1.8, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 

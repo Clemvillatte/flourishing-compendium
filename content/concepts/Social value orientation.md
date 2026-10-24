@@ -21,7 +21,7 @@ In their slider measure a person makes a series of choices that divide money bet
 
 A meta-analysis by Balliet, Parks and Joireman of 82 studies found a "significant and small to medium effect size" (r = .30) for the link between SVO and cooperation in social dilemmas. The effect was larger when participants were not paid (r = .39) than when they were paid (r = .23) ([Balliet, Parks and Joireman, 2009](https://ink.library.smu.edu.sg/soss_research/748/)). A later reanalysis describes the same meta-analysis as 48 reports covering 82 laboratory studies that used experimental games such as the prisoner's dilemma, and reports the combined effect as indicating "that prosocials cooperate more than proselfs" ([reanalysis in Judgment and Decision Making](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/is-there-evidence-of-publication-biases-in-jdm-research/FE91A27169A2EDF9C914E60A3CD31DD6)).
 
-### In the compendium
+### Here
 
 The principles listed (for example S030, BE056 and D117) concern acting for others and not stirring envy. The sources above show that SVO is a laboratory measure of allocation choices, and that it correlates modestly with cooperation in games. They do not show that SVO changes with practice or character development, and they do not test real-world kindness. The origin of the construct (Messick and McClintock 1968) is not described here.
 

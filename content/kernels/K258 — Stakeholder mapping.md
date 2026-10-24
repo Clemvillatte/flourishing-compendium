@@ -22,7 +22,7 @@ A stakeholder map is a concrete way of prompting the third facet before a decisi
 
 ### Protocol
 
-The steps are the compendium's editorial design; the underlying construct is measured, not prescribed, by the research.
+The steps are my own design; the underlying construct is measured, not prescribed, by the research.
 
 1. Before the decision, list every person affected by it, including the people easy to forget: the absent, the distant, the ones who will not be in the room.
 2. For each person, write one sentence about how they would be affected, and one about what they would care about in that effect.

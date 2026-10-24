@@ -19,7 +19,7 @@ The Group Environment Questionnaire (Carron, Widmeyer and Brawley, 1985) measure
 
 Cohesion is not straightforwardly good for thinking. The groupthink literature grew from the observation that the desire for cohesiveness in a group may produce a tendency among its members to agree at all costs, minimizing conflict and reaching a consensus decision without critical evaluation ([Wikipedia, "Groupthink"](https://en.wikipedia.org/wiki/Groupthink)).
 
-### In the compendium
+### Here
 
 - [[B153 — Practice in community (sangha)]] — its psychology parallels line treats group cohesion and social support as predictors of practice adherence and well-being
 

@@ -31,7 +31,7 @@ The theory is organised around four measured dimensions: divided self, "the inte
 
 The women's descriptions carry the cost: "They described how silencing their voices led to a loss of self and a sense of being lost in their lives. They also conveyed their shame, desperation, and anger over feelings of entrapment and self-betrayal" (Jack & Ali, same essay).
 
-### In the compendium
+### Here
 
 - [[D027 — Weigh fame and goods against your self]] — the Daodejing's accounting of what trading the self away costs
 - [[D080 — Dissolve rigid right and wrong (qiwu)]] — Zhuangzi's monkey-keeper parable on how the framing of a demand shapes reaction to it

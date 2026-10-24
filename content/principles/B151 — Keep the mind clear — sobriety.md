@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 151** — Keep the mind clear: sobriety
 
-The fifth precept states both an undertaking and its stated reason: abstaining from intoxicating drinks and drugs "which lead to carelessness" ([The Five Precepts](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html)). Dhammapada 246-247 also names addiction to intoxicating drinks in a passage listing several harmful actions; that passage does not distinguish a safe dose or describe a treatment for dependence ([Dhammapada 246-247](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)). The compendium's application is to make care for a [[Clarity of mind|clear mind]] part of a deliberate commitment.
+The fifth precept states both an undertaking and its stated reason: abstaining from intoxicating drinks and drugs "which lead to carelessness" ([The Five Precepts](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html)). Dhammapada 246-247 also names addiction to intoxicating drinks in a passage listing several harmful actions; that passage does not distinguish a safe dose or describe a treatment for dependence ([Dhammapada 246-247](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)). My application is to make care for a [[Clarity of mind|clear mind]] part of a deliberate commitment.
 
 > "I undertake the precept to refrain from intoxicating drinks and drugs which lead to carelessness." (Fifth precept, [Access to Insight](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html))
 

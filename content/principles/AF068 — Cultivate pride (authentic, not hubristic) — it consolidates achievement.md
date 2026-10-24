@@ -19,7 +19,7 @@ Tracy and Robins distinguish two facets of pride, [[Authentic pride]] and [[Hubr
 In a questionnaire study of 936 undergraduates, authentic pride correlated with measures of self-control, while hubristic pride correlated with impulsivity and aggression ([Carver & Johnson, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3137237/)). A longitudinal study of 1,653 students reported bidirectional associations between authentic pride and prestige, and between hubristic pride and dominance ([Witkower et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8892063/)).
 
 **Plain words**
-When you feel proud, ask what you are taking credit for. Are you describing a particular achievement and the effort involved, or making a broad claim about yourself? The compendium suggests starting with the particular achievement.
+When you feel proud, ask what you are taking credit for. Are you describing a particular achievement and the effort involved, or making a broad claim about yourself? I suggest starting with the particular achievement.
 
 **For example**
 Imagine a graduate who says, "I'm a genius." They try describing the accomplishment more specifically: "I worked through a difficult course and finished it."

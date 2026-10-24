@@ -15,15 +15,15 @@ Optimism, in Martin Seligman's sense, is not cheerfulness but a style of explain
 
 The two styles face the same events; what differs is the recovery. Seligman's summary: "Optimists recover from their momentary helplessness immediately. Very soon after failing, they pick themselves up, shrug, and start trying again." The book's later claim — "Life inflicts the same setbacks and tragedies on the optimist as on the pessimist, but the optimist weathers them better" — makes the point plain: optimism changes the weathering, not the weather.
 
-### In the compendium
+### Here
 
 - [[R087 — Practise hope]] cites this concept as a psychology parallel.
 
 ## Related concepts
 
 - [[Hope]] — the belief hope is not, per Marcel's distinction
-- [[Learned optimism]] — the compendium's page on the learned form
-- [[Optimistic explanatory style]] — the compendium's page on the explanatory style
+- [[Learned optimism]] — my page on the learned form
+- [[Optimistic explanatory style]] — my page on the explanatory style
 
 ## Sources
 

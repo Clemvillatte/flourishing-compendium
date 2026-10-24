@@ -18,9 +18,9 @@ The despite is explicit. The chapter says the brave person feels the pain and fa
 
 > death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so or because it is base not to do so. — Aristotle, Nicomachean Ethics III, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)
 
-The chapter adds that it is the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to do so. The compendium builds its approach-despite-discomfort practices on this ground.
+The chapter adds that it is the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to do so. I build its approach-despite-discomfort practices on this ground.
 
-### In the compendium
+### Here
 
 - [[BE025 — Recognise avoidance as the core maintaining factor of anxiety and fear]] — avoidance as the maintaining factor.
 - [[AF047 — Understand fear's function — it prepares you for threat]] — fear's function.

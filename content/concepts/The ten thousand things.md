@@ -15,13 +15,13 @@ The same chapter stresses the manner of the presiding: the Tao "clothes all thin
 
 ### The ethical use of the number
 
-The number is uncountable in practice, and the tradition's practical counsel follows the Tao's manner toward the multitude: to give without lording, to accomplish without claiming, to help without meddling. The compendium's story of the pipes of heaven makes a related move in narrative form, hearing the different sounds without ranking them. Read that way, offered as the compendium's reading rather than a claim in the text, the image makes room for variety, including the variety of selves and emotions a person contains, while recommending the non-managing manner toward all of it.
+The number is uncountable in practice, and the tradition's practical counsel follows the Tao's manner toward the multitude: to give without lording, to accomplish without claiming, to help without meddling. My story of the pipes of heaven makes a related move in narrative form, hearing the different sounds without ranking them. Read that way, offered as my reading rather than a claim in the text, the image makes room for variety, including the variety of selves and emotions a person contains, while recommending the non-managing manner toward all of it.
 
-### In the compendium
+### Here
 
 - [[D063 — Help without meddling]] — the Tao's manner of presiding, as a rule
 - [[D080 — Dissolve rigid right and wrong (qiwu)]] — the Zhuangzi argument against ranking, offered as a comparison
-- [[ST049 — The Pipes of Heaven]] — the compendium's story of the different sounds
+- [[ST049 — The Pipes of Heaven]] — my story of the different sounds
 - [[D002 — Practice ziran — naturalness]] — the manner each thing is left with, offered as the companion rule
 
 ## Related concepts

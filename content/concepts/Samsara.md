@@ -16,7 +16,7 @@ The Saṁyutta Nikāya's Anamatagga-saṁyutta ("without discoverable beginning"
 
 ### The process reading
 
-Thanissaro's essay presses the definition toward practice: "As one world falls apart, you create another one and go there." The worlds in question are built from craving and identity, and the suffering is not a punishment for wandering but the wearing of the road itself: "The worlds we create keep caving in and killing us." The remedy the Buddha sought is therefore a stop, not a relocation: "This is why the Buddha tried to find the way to stop samsara-ing." In the compendium's terms, samsara names the engine that [[B005 — Intention is karma]] diagnoses and [[B089 — Intervene at intention]] addresses at its lever.
+Thanissaro's essay presses the definition toward practice: "As one world falls apart, you create another one and go there." The worlds in question are built from craving and identity, and the suffering is not a punishment for wandering but the wearing of the road itself: "The worlds we create keep caving in and killing us." The remedy the Buddha sought is therefore a stop, not a relocation: "This is why the Buddha tried to find the way to stop samsara-ing." In my terms, samsara names the engine that [[B005 — Intention is karma]] diagnoses and [[B089 — Intervene at intention]] addresses at its lever.
 
 ## Related concepts
 

@@ -24,7 +24,7 @@ James's habit chapter makes the practical comparison. The great thing in educati
 
 For new habits he passes on Alexander Bain's maxims: "Accumulate all the possible circumstances which shall re-enforce the right motives; put yourself assiduously in conditions that encourage the new way" (ch. 4). Where Clark and Chalmers argue about which processes belong to cognition, James gives instructions for arranging the surroundings that support a habit.
 
-The compendium's exercise: list the three places outside your head where your current project's thinking actually happens, the notebook, the whiteboard, the friend. For each, write down whether it is set up to help the project or left to chance. Fix one.
+My exercise: list the three places outside your head where your current project's thinking actually happens, the notebook, the whiteboard, the friend. For each, write down whether it is set up to help the project or left to chance. Fix one.
 
 **Plain words**
 Writing something down changes the task: you can consult a record instead of recalling everything unaided. Whether that record counts as part of the mind is the stronger claim Clark and Chalmers defend.

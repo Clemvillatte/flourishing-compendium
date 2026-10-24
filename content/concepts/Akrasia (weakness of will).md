@@ -30,7 +30,7 @@ Richard Holton (1999) later argued that the ordinary phenomenon is something els
 
 Aristotle's own treatment adds a distinction modern readers can use: he separates impetuosity (acting on passion without deliberating at all) from weakness (deliberating, choosing, then yielding to passion anyway) ([Kraut, "Aristotle's Ethics", SEP, §7](https://plato.stanford.edu/entries/aristotle-ethics/)).
 
-### In the compendium
+### Here
 
 - [[A056 — Recognise akrasia — weakness of will]] — the principle quotes Nicomachean Ethics VII.2 and names the Socrates-versus-Aristotle contrast
 - [[A059 — Distinguish incontinence from vice]] — separates akrasia (passion overriding a correct judgment) from vice (a settled, mistaken judgment)

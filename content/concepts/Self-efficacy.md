@@ -22,9 +22,9 @@ The belief is built from four principal sources of information: performance acco
 
 One application is the Chronic Disease Self-Management Program developed by Kate Lorig and colleagues ([Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)). The program builds its weekly action planning, modelling, symptom re-interpretation and group problem-solving around self-efficacy theory, and its evaluations report improvements in participants' confidence to manage their conditions ([Jonker et al., 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)).
 
-### In the compendium
+### Here
 
-The compendium cites the construct from its principles on voluntary action and effective power (A053, P087), on distinguishing what one controls from what one merely influences (S053, S063), on beginning where you are (S132), and on meeting doubt with investigation (B083).
+I cite the construct from its principles on voluntary action and effective power (A053, P087), on distinguishing what one controls from what one merely influences (S053, S063), on beginning where you are (S132), and on meeting doubt with investigation (B083).
 
 ## Facets
 

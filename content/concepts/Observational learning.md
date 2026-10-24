@@ -13,7 +13,7 @@ Observational learning is learning that occurs through observing the behavior of
 
 The paper's own summary of the outcome: "The prediction that exposure of subjects to aggressive models increases the probability of aggressive behavior is clearly confirmed (see Table 2)" ([1961 paper, p. 578](http://psychclassics.yorku.ca/Bandura/bobo.htm)).
 
-### In the compendium
+### Here
 
 D135 (Teach without words) argues that the teaching which arrives through speech is the weakest channel, and lists this concept among its psychology parallels. Y085 (Hear the teaching first) makes fidelity of reception from a teacher the first step, and also lists it.
 

@@ -36,7 +36,7 @@ The quality of a life depends less on what happens than on what a person does wi
 - **Studying experience directly** — ask people how it feels while it happens. See [[Phenomenological methods in psychology]], [[AT023 — Learn to attend to process, not just outcome|AT023]].
 - **Play and leisure seriously meant** — his play research feeds the corpus's leisure treatment; the scholē principles compare his account with Aristotle's. See [[BE065 — Engage in play behaviour — play is not frivolous|BE065]], [[A111 — Practise leisure (scholē) as the end of work|A111]], [[A112 — Distinguish leisure from amusement|A112]].
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (40)
 - [[A080 — Choose activities for their completeness|Choose activities for their completeness]]

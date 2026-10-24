@@ -13,7 +13,7 @@ Evolutionary personality theory asks why human trait variation persists at all. 
 
 On this view a trait level is a strategy with costs attached, not a defect or an ideal. Variation would then be maintained rather than depleted under balancing selection — for example by pressures that "fluctuate over time and space", "differ between the sexes", or "favour rarer trait values (negative frequency-dependent selection)". These fragments state the paper's framing of Nettle's proposal; the study's own findings were not extracted for this entry.
 
-### In the compendium
+### Here
 
 - [[P043 — Vary, select, retain — learn the evolutionary way]] is this concept's direct parallel
 - [[SE066 — Recognise the role of challenge in growth — difficulty develops self]] and [[SE069 — Recognise identity disturbances — when self is fragmented]] carry its self-side edges

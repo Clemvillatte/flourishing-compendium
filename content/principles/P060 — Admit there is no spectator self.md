@@ -20,12 +20,12 @@ James gives the interest half. In The Principles of Psychology, attention is not
 
 > "From knowing as an outside beholding to knowing as an active participant in the drama of an on-moving world is the historical transition whose record we have been following." (Dewey, The Quest for Certainty, ch. IX, [full text at Internet Archive](https://archive.org/download/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt))
 
-The compendium's extension: the statement's "your looking changes the scene" goes beyond James's claim that interest shapes what shows up in experience; the scene-changing claim belongs to the observer-effect parallel, not to the two opened texts.
+My extension: the statement's "your looking changes the scene" goes beyond James's claim that interest shapes what shows up in experience; the scene-changing claim belongs to the observer-effect parallel, not to the two opened texts.
 
 **Plain words**
 The anthropologist changes the village by being in it. Before you trust your own summary of a situation, name your stake in it: who benefits, what you want to see, what your presence is doing to the room.
 
-*For example:* The compendium's hypothetical: the manager "quietly observing" the team meeting, while the team performs for the manager. There is no observation deck; there is only the field.
+*For example:* My hypothetical: the manager "quietly observing" the team meeting, while the team performs for the manager. There is no observation deck; there is only the field.
 
 ## Sources
 

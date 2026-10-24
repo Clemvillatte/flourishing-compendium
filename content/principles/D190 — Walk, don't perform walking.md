@@ -16,7 +16,7 @@ In Zhuangzi's story, Phien explains why movements too gentle or too violent spoi
 
 > "But I cannot tell (how to do this) by word of mouth; there is a knack in it." (Zhuangzi XIII, Legge.)
 
-The Daodejing opens differently: "The Tao that can be trodden is not the enduring and unchanging Tao" ([chapter 1, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). This does not establish that walking gives access to an otherwise inaccessible reality. The compendium draws a narrower practical suggestion from the wheelwright: when learning a skill, ask what its description leaves for you to attempt.
+The Daodejing opens differently: "The Tao that can be trodden is not the enduring and unchanging Tao" ([chapter 1, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). This does not establish that walking gives access to an otherwise inaccessible reality. I draw a narrower practical suggestion from the wheelwright: when learning a skill, ask what its description leaves for you to attempt.
 
 (Zhuangzi 13; DDJ 1.)
 

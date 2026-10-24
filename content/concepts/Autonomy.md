@@ -7,7 +7,7 @@ file: "Autonomy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Autonomy is self-governance: acting from one's own endorsement rather than from external pressure. The word joins two traditions, one philosophical and one psychological, and the compendium draws on both. In Kant it is the courage to think for oneself; in self-determination theory it is a basic need.
+Autonomy is self-governance: acting from one's own endorsement rather than from external pressure. The word joins two traditions, one philosophical and one psychological, and I draw on both. In Kant it is the courage to think for oneself; in self-determination theory it is a basic need.
 
 ### Kant's maturity
 
@@ -25,7 +25,7 @@ In self-determination theory autonomy is one of three basic psychological needs,
 
 The same entry formalizes the needs' claim: three needs "which are universal and essential for the psychological well-being and optimal functioning of all people", with satisfaction and frustration affecting wellness invariantly. A World Values Survey analysis of 66 countries and nearly 100,000 people bears the cross-cultural part out: "autonomy was positively related to well-being across the world", with the link stronger in wealthier and more individualistic societies ([Martela, Joshanloo & Krys](https://aaltodoc.aalto.fi/bitstreams/d01330cc-c9cd-4620-9c0e-0284646f1da1/download)).
 
-### In the compendium
+### Here
 
 - [[D085 — Prefer humble freedom to gilded captivity]] — files the concept with the note that it predicts well-being more strongly than income (Deci and Ryan, 2000).
 - [[D078 — Wander free and easy (xiaoyao you)]] — links autonomy as a basic need.

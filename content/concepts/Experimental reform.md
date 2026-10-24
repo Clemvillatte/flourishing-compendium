@@ -17,11 +17,11 @@ The book reports the failures as plainly as the intentions:
 
 That sentence is the method in one view: reform attempts named, dated and counted as experiments, their failure recorded rather than buried. What survives the failures survives on evidence.
 
-In the compendium the idea supports [[P132 — Make reform experimental]] and [[SO040 — Treat institutions as knowledge infrastructures]]: an institution that runs trials and keeps their records is doing research, not only doing good.
+Here the idea supports [[P132 — Make reform experimental]] and [[SO040 — Treat institutions as knowledge infrastructures]]: an institution that runs trials and keeps their records is doing research, not only doing good.
 
 ## Related concepts
 
-- [[Reconstruction]] — the compendium's adjacent treatment of remaking what exists
+- [[Reconstruction]] — my adjacent treatment of remaking what exists
 
 ## Sources
 

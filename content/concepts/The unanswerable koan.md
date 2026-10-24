@@ -7,7 +7,7 @@ file: "The unanswerable koan"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-"The unanswerable koan" is the compendium's heading, illustrated here by case 1 of the Gateless Gate, the thirteenth-century collection of Mumon. The original entry names the Zen tradition and that collection.
+"The unanswerable koan" is my heading, illustrated here by case 1 of the Gateless Gate, the thirteenth-century collection of Mumon. The original entry names the Zen tradition and that collection.
 
 ### Joshu's dog
 
@@ -27,7 +27,7 @@ Mumon's verse sets the trap the whole case turns on:
 
 The instruction that accompanies it: "Just concentrate your whole energy into this Mu, and do not allow any discontinuation" (same page). Mumon's verse warns that saying yes or no means losing one's own Buddha-nature.
 
-### In the compendium
+### Here
 
 - [[K013 — Let the questions you cannot answer do their work]]
 - [[B046 — Work with a koan]]

@@ -13,7 +13,7 @@ The field's founder gives the definition and the founding story in one account. 
 
 > "Psychoneuroimmunology, the study of interactions among behavioral, neural and endocrine, and immune processes, coalesced as an interdisciplinary field of study in the late 1970s. Some of the early research that was critical in establishing neuroanatomical, neurochemical and neuroendocrine pathways and functional relationships between the brain and the immune system is outlined here." (Ader 2000, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11033324/))
 
-### In the compendium
+### Here
 
 - [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — lists the concept among its psychology parallels.
 

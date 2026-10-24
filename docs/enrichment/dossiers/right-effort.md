@@ -11,7 +11,7 @@ Effort has two dimensions the traditions are careful to separate: where it goes,
 - Habit formation: held by the Behaviour dossier; this page keeps to the aiming and the amount of effort, not to the machinery of habit.
 - Rest: held by Right Livelihood's rest group and the rest entries cited there; recovery is included here only as effort's other half.
 
-## The map: every entry the wiki holds on right effort
+## The map: the entries on right effort
 
 ### The path's own account
 
@@ -85,7 +85,7 @@ The Sutta's own statement of the calibration:
 
 ### The stories
 
-The compendium holds right effort in narrative form too:
+The theme comes in narrative form too:
 
 [ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.
 
@@ -95,7 +95,7 @@ The compendium holds right effort in narrative form too:
 
 ::Variation:: What tends to need varying on this theme is the undifferentiated push: effort aimed at everything at once and therefore at nothing, the over-aroused persistence that arrives as restlessness, the slack persistence that arrives as its own diagnosis, and the effort held at full pitch through seasons that call for a lower one. The adaptive direction is the aiming and the tuning: the four directions picked one at a time, the pitch checked against restlessness and laziness rather than against the calendar, and the effort sized to the season the body is actually in.
 
-::Selection:: The compendium's selected practices on this theme, each a selected source of that variation:
+::Selection:: The practices I have selected as sources of that variation:
 
 1. [K199 — Energy matching](https://clemvillatte.github.io/flourishing-compendium/#card=K199%20%E2%80%94%20Energy%20matching): match the intervention to the state: dull or lethargic, straighten the posture and take sharp breaths; restless or agitated, lengthen the exhale and slow the movements.
 
@@ -113,7 +113,7 @@ The compendium holds right effort in narrative form too:
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The pitch found
 

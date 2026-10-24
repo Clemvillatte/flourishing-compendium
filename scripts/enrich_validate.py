@@ -109,6 +109,22 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
         'kpr ledger', 'robots-blocked', 'blocked by captcha', 'QC notes (not prose)',
         'supervisor disposition', 'the owner\'s seed', 'seed citation',
     ]
+    # institutional-voice rule (owner directive 2026-10-24): the site speaks as a
+    # thinker in the first person, never as "the compendium" or "the wiki".
+    # Third-person references to the site itself are banned in reader-facing prose.
+    INSTITUTIONAL_VOICE = [
+        "the compendium's view", 'the compendium holds', 'the compendium pairs',
+        'the compendium links', 'the compendium reads', 'the compendium keeps',
+        'the compendium treats', 'the compendium carries', 'the compendium draws',
+        'the compendium uses', 'the compendium anchors', 'the compendium also',
+        'the wiki holds', "the wiki's card", 'this page approaches',
+        'this page groups', 'this dossier takes', 'this dossier maps',
+    ]
+    for m in INSTITUTIONAL_VOICE:
+        if m in body_n:
+            warns.append(
+                'institutional voice on page (owner directive 2026-10-24, '
+                'speak as the thinker in first person): ' + m)
     wf_hits = [m for m in WF_MARKERS if m in body_n]
     if wf_hits:
         warns.append('workflow language on page (owner directive 2026-10-22): ' + ', '.join(wf_hits))

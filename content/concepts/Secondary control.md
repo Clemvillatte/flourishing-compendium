@@ -15,7 +15,7 @@ Secondary control is Rothbaum, Weisz and Snyder's name for a way of gaining a se
 
 The authors' diagnostic move is to read passivity, withdrawal and submissiveness as efforts to sustain rather than relinquish the perception of control, contrary to the helplessness and locus-of-control theorists who treated those same behaviors as signs of given-up control. Four manifestations follow: predictive control via attributions to limited ability, illusory control via chance construed as luck, vicarious control via identification with powerful others, and interpretive control, in which the individual seeks to understand and derive meaning from otherwise uncontrollable events in order to accept them.
 
-The compendium's [[D098 — Accept what destiny brings (li ming)]] uses the construct to read the Daoist li ming practice as control rather than resignation. The original entry's claim that adjusting the self rather than the world buffers distress is the model's downstream claim, not the 1982 paper's own wording.
+My [[D098 — Accept what destiny brings (li ming)]] uses the construct to read the Daoist li ming practice as control rather than resignation. The original entry's claim that adjusting the self rather than the world buffers distress is the model's downstream claim, not the 1982 paper's own wording.
 
 ## Related concepts
 

@@ -37,9 +37,9 @@ He concludes of this method that it "does not differ in a very essential way fro
 
 > "it is necessary that a method should be found by which our beliefs may be determined by nothing human, but by some external permanency – by something upon which our thinking has no effect." ([Peirce 1877](https://www.peirce.org/writings/p107.html))
 
-Peirce states its hypothesis as: "There are Real things, whose characters are entirely independent of our opinions about them". On that hypothesis anyone with sufficient experience who reasons enough will be led to the same conclusion. He also says a private inspiration is only "a form of the method of tenacity". The compendium principle that compares these methods follows Peirce's ranking. Note that his case for science rests on this hypothesis about Reals, and he takes up the objection that the method cannot be used to prove its own hypothesis.
+Peirce states its hypothesis as: "There are Real things, whose characters are entirely independent of our opinions about them". On that hypothesis anyone with sufficient experience who reasons enough will be led to the same conclusion. He also says a private inspiration is only "a form of the method of tenacity". My principle that compares these methods follows Peirce's ranking. Note that his case for science rests on this hypothesis about Reals, and he takes up the objection that the method cannot be used to prove its own hypothesis.
 
-### In the compendium
+### Here
 
 - [[P025 — Fix belief by experiment, not tenacity, authority, or taste]] is the principle most directly built on the essay.
 - [[P037 — Live experimentally]], [[D016 — Distrust names and labels]] and [[B065 — Guard the mind at the source (mind precedes all)]] cite this concept.

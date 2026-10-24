@@ -19,9 +19,9 @@ The scholarly reading of DA II.3 keeps the complexity honest: the parts "can be 
 
 ## Related concepts
 
-- [[The layered soul]] — the compendium's own treatment of the stratification
+- [[The layered soul]] — my own treatment of the stratification
 - [[The polyphonic self]] — the research-side account of multiple self-aspects
-- [[The unity of the soul]] — the compendium's companion treatment of the one side
+- [[The unity of the soul]] — my companion treatment of the one side
 
 ## Sources
 

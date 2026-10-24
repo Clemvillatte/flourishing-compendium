@@ -14,7 +14,7 @@ When surprised by something, generate three possible explanations before settlin
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the multiple-hypothesis discipline they train is Platt's first step below.*
+*Steps are my own protocol; the multiple-hypothesis discipline they train is Platt's first step below.*
 
 1. On noticing the surprise, write down the surprise in one sentence; a surprise not named cannot be explained.
 2. Generate three explanations before testing any of them; the number is a floor, and the explanations need not be good, only distinct.

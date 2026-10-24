@@ -15,14 +15,14 @@ The devil's advocate was a real office, not a figure of speech. In the Roman Cat
 
 The name came from the job description. The promoter's "presentation of facts included everything unfavourable to the candidate in order to uncover any character flaws or misrepresentations of their life of heroic sanctity" ([Britannica](https://www.britannica.com/topic/devils-advocate)). After the 1983 reform, Britannica notes, the promotor fidei "subsequently held little sway over the proceedings." The phrase had long since migrated into ordinary use: the same entry notes that the term "is popularly used to describe anyone who champions a less accepted cause solely for the sake of argument" (same source), and the 1911 Britannica already recorded that the phrase "has by an easy transference come to be used of any one who puts himself up, or is put up, for the sake of promoting debate, to argue a case in which he does not necessarily believe" ([1911 Britannica, Wikisource](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Advocatus_Diaboli)).
 
-### In the compendium
+### Here
 
-- [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] — the compendium turns the office into a habit: generate the counterargument yourself, on purpose
+- [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] — I turn the office into a habit: generate the counterargument yourself, on purpose
 - [[CO015 — Recognise confirmation bias — you seek evidence that supports what you already believe]] — the office institutionalized the counter-case: arguing against the candidate was a job, not an afterthought
 
 ## Related concepts
 
-- [[Confirmation bias]] — the one-sided evidence-gathering an institutional opponent counterbalances (the compendium's use)
+- [[Confirmation bias]] — the one-sided evidence-gathering an institutional opponent counterbalances (my use)
 - [[Steelmanning the opposing view]] — a related modern practice of arguing the other side at its best (editorial comparison)
 - [[Debiasing techniques]] — the family of deliberate countermeasures this role belongs to (editorial comparison)
 - [[Cognitive biases]] — the catalogue of one-sided thinking an institutional opponent helps check (editorial comparison)

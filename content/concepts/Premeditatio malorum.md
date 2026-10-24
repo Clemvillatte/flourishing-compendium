@@ -17,9 +17,9 @@ The reasoning comes in the same letter: "it is the unexpected that puts the heav
 
 ### The limit: rehearsal is not worry
 
-The same author warns against the exercise's shadow. "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality," and "we are in the habit of exaggerating, or imagining, or anticipating, sorrow." The difference is boundedness: premeditation runs the loss through the mind and returns to the present; worry loops on it. The compendium's worry-versus-problem-solving distinction marks the same line.
+The same author warns against the exercise's shadow. "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality," and "we are in the habit of exaggerating, or imagining, or anticipating, sorrow." The difference is boundedness: premeditation runs the loss through the mind and returns to the present; worry loops on it. My worry-versus-problem-solving distinction marks the same line.
 
-### In the compendium
+### Here
 
 - [[S019 — Prepare for adversity before it arrives]] — the dedicated Stoic principle.
 - [[S091 — Practise negative visualisation]] — the exercise itself, as a practice.

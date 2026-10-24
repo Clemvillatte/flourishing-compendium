@@ -23,7 +23,7 @@ The review identifies a set of strategies people use to manage doubt about compe
 
 Self-handicapping, arranging an obstacle before a performance, is in the authors' words "perhaps the most widely cited strategy for managing one's self-doubt about competence" (p. 475). Subjective overachievement takes the opposite route, and the review describes it as involving "the exertion of extra effort in order to avoid failure". Other-enhancement attributes a loss to some advantage enjoyed by an opponent, and people with impostor feelings "often cite luck, timing, or good fortune" as the key to their successes. For self-handicapping, the review notes that handicaps can interfere with performance itself, so protecting the perception of competence "carries with it the cost of not enjoying success".
 
-### In the compendium
+### Here
 
 - [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]] — asks whether bodily circumstances help explain a difficult day
 - [[MO016 — Cultivate competence — motivation requires feeling effective]] — discusses the need to feel effective

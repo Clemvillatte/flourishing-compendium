@@ -15,7 +15,7 @@ For Sartre the project is not something a person has but what a person is: a thr
 >
 > "Man is a useless passion." (Sartre, Being and Nothingness, Part 4, ch. 2, III, [Wikiquote](https://en.wikiquote.org/wiki/Jean-Paul_Sartre))
 
-### In the compendium
+### Here
 
 - [[E038 — Practise project]] — lists the concept among its philosophy parallels.
 

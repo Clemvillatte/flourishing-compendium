@@ -15,9 +15,9 @@ Ecological grief is grief felt over ecological loss. The definition, from Cunsol
 
 The same review distinguishes it from its neighbours: solastalgia "closely overlaps with ecological grief in terms of triggering conditions, phenomenology and conceptual foundations" and "may be regarded as a sub-concept of ecological grief", while eco-anxiety is future-oriented, so the review expects "few shared phenomenological features" between grief and anxiety.
 
-### In the compendium
+### Here
 
-- [[R124 — Practise ecological grief work]] — the compendium's grief-work principle
+- [[R124 — Practise ecological grief work]] — my grief-work principle
 - [[K348 — Name the loss]] — the kernel: naming as part of grieving
 [[V2K-S01.17 — 17. Ecological Grief and Stewardship]]
 [[V2K-S01 — Part I — Science-Backed Kernels]]

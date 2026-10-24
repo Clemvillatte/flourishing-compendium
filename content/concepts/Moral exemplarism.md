@@ -17,7 +17,7 @@ The theory names its exemplars rather than analyzing them: "we point directly to
 
 The full book, Exemplarist Moral Theory (Oxford University Press, 2017), divides exemplars into heroes, saints, and sages, and treats emulation, learning the motive and not just the act, as the natural process of moral development.
 
-The compendium's [[B037 — Choose your companions wisely (kalyanamitta)]] is the Buddhist twin, and [[D135 — Teach without words]] names the pedagogical claim that follows: the best instruction is a person worth copying.
+My [[B037 — Choose your companions wisely (kalyanamitta)]] is the Buddhist twin, and [[D135 — Teach without words]] names the pedagogical claim that follows: the best instruction is a person worth copying.
 
 ## Related concepts
 - [[T011 — Socrates]]: the exemplar the theory points to first when it names exemplars of goodness.

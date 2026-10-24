@@ -19,7 +19,7 @@ In Thanissaro's account, the pairing with insight is not two rival techniques: "
 
 The calm is not the destination. In Thanissaro's reading, the settling serves insight and the jhānas: a mind that can settle comfortably has a steady place from which experience can be examined.
 
-### In the compendium
+### Here
 
 - [[B042 — Develop calm (samatha)]] — the practice instruction itself
 - [[B035 — Balance calming and insight (samatha-vipassana; zhiguan)]] — the pairing, with its Chinese zhiguan reading

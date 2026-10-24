@@ -20,7 +20,7 @@ One scholar distinguishes the two. Vengeance is, on Spinoza's view, motivated by
 
 ### Scope
 
-This is political theory about the state, not advice about private disputes. The practical step of using a complaint process before counterattacking is the compendium's extension. I did not check whether such processes reduce conflict, and The passage on punishment in Chapter 2 is cited at second hand.
+This is political theory about the state, not advice about private disputes. The practical step of using a complaint process before counterattacking is my extension. I did not check whether such processes reduce conflict, and The passage on punishment in Chapter 2 is cited at second hand.
 
 **Plain words**
 Spinoza says that in a state, the right to take revenge passes to the law. A person judging their own wrong tends to justify whatever they do.

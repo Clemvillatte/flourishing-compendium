@@ -19,7 +19,7 @@ Loneliness is the distress that comes with perceived social disconnection. Cacio
 On this account the feeling is a prompt rather than a verdict on the person feeling it. A meta-analysis covering 70 prospective studies of loneliness, social isolation and living alone (3,407,134 participants) reported an association between loneliness and higher odds of mortality (pooled OR 1.26) ([Holt-Lunstad et al., 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3024&context=facpub)).
 
 **Plain words**
-The feeling is information, not a verdict: it tells you contact is missing, not that you are unlovable. The compendium's suggestion is to ask what kind of contact you miss and whom you might like to approach, then use those questions to choose a manageable next step.
+The feeling is information, not a verdict: it tells you contact is missing, not that you are unlovable. My suggestion is to ask what kind of contact you miss and whom you might like to approach, then use those questions to choose a manageable next step.
 
 **For example**
 Imagine someone who has recently moved cities. After a lonely weekend, they invite a colleague for coffee on Friday.

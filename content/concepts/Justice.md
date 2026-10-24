@@ -7,7 +7,7 @@ file: "Justice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-J"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter J", "parent": ""}
 ---
-Justice is the virtue of giving each their due, and the institutional principle that sorts what each is due. The compendium's page for it carries three anchors: Aristotle's treatment of justice as a virtue in Nicomachean Ethics V, Plato's staging of the hardest challenge to it in Republic I, and Rawls's reconstruction of it as fairness for institutions.
+Justice is the virtue of giving each their due, and the institutional principle that sorts what each is due. My page for it carries three anchors: Aristotle's treatment of justice as a virtue in Nicomachean Ethics V, Plato's staging of the hardest challenge to it in Republic I, and Rawls's reconstruction of it as fairness for institutions.
 
 > "And for this same reason Justice alone of all the Virtues is thought to be a good to others, because it has immediate relation to some other person, inasmuch as the Just man does what is advantageous to another, either to his ruler or fellow-subject." (Aristotle, Nicomachean Ethics V.1, Chase translation, [Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.html))
 
@@ -23,7 +23,7 @@ Plato gives the concept its hardest opening statement. In Republic I, Thrasymach
 
 The modern anchor reconstructs justice for institutions. Rawls's two principles, as the Stanford Encyclopedia gives them from Justice as Fairness: each person's "same indefeasible claim to a fully adequate scheme of equal basic liberties," and social and economic inequalities attached to offices "open to all under conditions of fair equality of opportunity" and "to the greatest benefit of the least-advantaged members of society" (the difference principle) (SEP, [John Rawls](https://plato.stanford.edu/entries/rawls/), citing JF 42-43). The principles are chosen from the original position, which translates the question of fair terms of cooperation into the question of what free and equal citizens "would agree to under fair conditions."
 
-### In the compendium
+### Here
 
 - [[R034 — Practise tika]], [[R052 — Practise yi (righteousnessjustice)]] and [[R096 — Practise the third]] — the Buddhist, Confucian and Daoist parallels in the Cited-in list.
 

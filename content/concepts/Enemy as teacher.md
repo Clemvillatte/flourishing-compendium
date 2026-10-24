@@ -7,7 +7,7 @@ file: "Enemy as teacher"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The compendium's "enemy as teacher" heading refers to Śāntideva's argument about forbearance in chapter 6 of the Bodhicharyavatara. An adversary provides the occasion for a quality Śāntideva counts among the essential practices:
+My "enemy as teacher" heading refers to Śāntideva's argument about forbearance in chapter 6 of the Bodhicharyavatara. An adversary provides the occasion for a quality Śāntideva counts among the essential practices:
 
 > "There is no evil equal to hatred, and no spiritual practice equal to forbearance. Therefore one should develop forbearance by various means, with great effort." ([Śāntideva, Bodhicharyavatara 6.2, Crosby and Skilton translation](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
 
@@ -23,7 +23,7 @@ The chapter's turn on the adversary comes in its closing verses:
 
 Verse 6.108 assigns the adversary the first share of the reward, since the forbearance was first occasioned by him. Verse 6.109 answers the objection from intention by analogy: the True Dharma is honoured without intending anyone's achievement, so intention is not what merit depends on.
 
-### In the compendium
+### Here
 
 - [[K039]] — the principle from the Tibetan tradition that treats the enemy as the teacher of patience
 - [[B115 — Take the difficult person as teacher]] — the Buddhist principle stating the move toward difficult people

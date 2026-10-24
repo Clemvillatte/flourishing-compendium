@@ -15,7 +15,7 @@ Focusing is Eugene Gendlin's method for attending to experience before it has wo
 
 The bodily felt something may be an awareness of a situation or of something that is coming, perhaps an idea or insight. What defines it, as defined by Gendlin, is that it is unclear and vague, and any attempt to express it verbally usually results in its trivialization. Gendlin's 1978 book Focusing describes the technique for laypeople in conversational terms, with six steps, while emphasizing that the essence is following the organic process rather than adhering to the steps.
 
-### In the compendium
+### Here
 
 - [[D044 — Let the mud settle]] — carries Focusing as its psychology parallel
 

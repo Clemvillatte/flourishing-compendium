@@ -17,7 +17,7 @@ A Springer review lists the six elements as "physical exercise, healthy sleep be
 
 The outcome data are encouraging but small, and the visible record is press reporting rather than journal trials. An early report from the 12-week programme counted 26 adults with major depression through TLC, "81 percent achieved a favorable response"; a later report gave 31 treated adults, "86 percent recovered fully or had a significant reduction in symptoms" ([Journal-World](https://www2.ljworld.com/news/2006/jan/26/depression_therapy_results_cheered/); [VC Star](https://archive.vcstar.com/lifestyle/psychologist-examines-human-history-for-solutions-to-depression-ep-375810991-352913161.html/)). No randomized comparison group appears in these accounts, and the programme's effectiveness claim is best read with that limit attached.
 
-### In the compendium
+### Here
 
 The principles carry each pillar as a virtue. BE040 and BI023 make exercise an antidepressant behaviour; BE049 makes social connection a basic need and health behaviour; Y058, K064 and SP062 supply the classical moderation that the table and the daily round require; P140 treats mind and life as continuous, the frame the whole programme assumes; K006 guards the mind as the root of everything downstream; and SO048 notes that the pillars are not equally available to everyone, discrimination being itself a health determinant.
 

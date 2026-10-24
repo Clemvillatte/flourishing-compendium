@@ -21,7 +21,7 @@ The authors read the result as consistent with the claim that people derive sati
 
 The review's own discussion lists restrictions. Most of the reviewed studies were under-powered: the average sample size per condition was 79, giving power of 0.42 to detect the typical effect. Most used non-clinical student samples from Western, Educated, Industrial, Rich, Democratic societies, so generalisation to clinical samples and non-WEIRD societies is unclear. And the studies varied whether actions benefiting others were performed, but did not manipulate the motive behind them.
 
-### In the compendium
+### Here
 
 - [[K211 — Acts of kindness]]
 - [[BE056 — Learn to practise kindness and helping — acts of service]]

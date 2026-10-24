@@ -17,7 +17,7 @@ The paper's example is the shy, tidy Steve, judged likely to be a librarian beca
 
 Representativeness is one of three shortcuts the paper names: "This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios...; and (iii) adjustment from an anchor..." Their virtue and their fault come together in the next sentence: "These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors."
 
-### In the compendium
+### Here
 
 - [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] — the principle that names the error in the field
 - [[CO020 — Know the base rate neglect — you ignore background frequencies]] — the companion error

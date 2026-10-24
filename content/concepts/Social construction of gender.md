@@ -7,7 +7,7 @@ file: "Social construction of gender"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-The social construction of gender is the view that what counts as masculine and feminine is produced and maintained by social life and culture rather than read directly off biology. The compendium's seed cites two sources, Sandra Bem (1993) and Judith Butler (1990), and a third classic, West and Zimmerman (1987), states the idea sharply:
+The social construction of gender is the view that what counts as masculine and feminine is produced and maintained by social life and culture rather than read directly off biology. My seed cites two sources, Sandra Bem (1993) and Judith Butler (1990), and a third classic, West and Zimmerman (1987), states the idea sharply:
 
 > "When we view gender as an accomplishment, an achieved property of situated conduct, our attention shifts from matters internal to the individual and focuses on interactional and, ultimately, institutional arenas." (West and Zimmerman, 1987, Gender & Society 1(2):125-151, [PDF](https://ia800504.us.archive.org/30/items/west-gender-1987/West-Gender-1987.pdf))
 
@@ -23,7 +23,7 @@ West and Zimmerman write that gender is "an emergent feature of social situation
 
 A scholarly chapter on performativity quotes Butler's Gender Trouble as saying that "gender is always a doing, though not a doing by a subject who might be said to pre-exist the deed," and "there is no gender identity behind the expressions of gender; that identity is performatively constituted by the very 'expressions' that are said to be its result" ([Oxford University Press chapter, Performativity and Performance](https://academic.oup.com/edited-volume/34617/chapter/294778118?guestAccessKey=)). I read these quotations in that chapter, not in Butler's book. A 2005 Stanford Encyclopedia entry summarises the same view: gender "demands to be iterated," and because every iteration allows for variation, gender is open to new forms ([Stanford Encyclopedia of Philosophy, 2005 archive](https://plato.stanford.edu/archives/fall2005/entries/femapproach-continental/)).
 
-### In the compendium
+### Here
 
 The principles listed (E078, SO013, SO045, AF009 and ST253) draw on constructionist ideas about gender, culture and identity. The sources above establish what these three authors claim. They do not settle empirical questions about the relative roles of biology and culture, and none of them is cited here for such a result. The original entry citations were not read in the originals: Bem is known here only through the publisher description, and Butler only through the secondary chapter.
 

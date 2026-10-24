@@ -17,7 +17,7 @@ The abstract continues that these experiences "involve appraisals of natural obj
 
 The evidence the authors review shows that "aesthetic experiences emerge from the interaction between sensory-motor, emotion-valuation, and meaning-knowledge neural systems". In plain terms, the review's account has an aesthetic experience built from three contributions: what the senses and motor system do with the object, what the emotion-and-value systems assign it, and what the meaning-and-knowledge systems bring to it. In the authors' 2014 assessment, the discipline "is at a historical inflection point and is poised to enter the mainstream of scientific inquiry" ([all from the abstract](https://pubmed.ncbi.nlm.nih.gov/24768244/)).
 
-### In the compendium
+### Here
 
 - [[PP057 — Pursue aesthetic experience]] lists this field as a psychology parallel.
 

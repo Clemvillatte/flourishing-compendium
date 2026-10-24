@@ -21,7 +21,7 @@ The Gottman affective-process models have not always replicated. A 2006 study by
 
 The same study found that only 2 of the 22 affective processes examined were significantly associated with remaining intact versus separation.
 
-### In the compendium
+### Here
 
 - [[B162 — Hatred never ceases by hatred]] — the principle on hatred, against which the conflict-spiral research supplies the empirical contrast.
 - [[SP030 — Learn how hatred self-perpetuates]] — the principle takes the reciprocated-hatred finding and works it into a practice.
@@ -29,7 +29,7 @@ The same study found that only 2 of the 22 affective processes examined were sig
 
 ## Related concepts
 
-- [[The pontifex, bridge-maker]] — the compendium's pairing for the de-escalation role.
+- [[The pontifex, bridge-maker]] — my pairing for the de-escalation role.
 
 ## Sources
 

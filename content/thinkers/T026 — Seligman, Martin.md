@@ -31,14 +31,14 @@ Seligman holds that the target of positive psychology should be well-being rathe
 - **PERMA and well-being theory** — well-being with five elements: positive emotion, engagement, relationships, meaning, and accomplishment ([Seligman, Tanner Lecture 2010](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf)). See [[PERMA model]].
 - **Character strengths and virtues** — with Christopher Peterson, the 2004 classification of six virtues (wisdom/knowledge, courage, humanity, justice, temperance, transcendence) and the strengths that express them ([Wikipedia, Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman)). See [[Character strengths (Peterson & Seligman)]], [[VIA classification]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[PERMA model]]
 - [[Learned optimism]]
 - [[Positive psychology]]
 - [[VIA classification]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (34)
 - [[A001 — Make eudaimonia the organising end of your life|Make eudaimonia the organising end of your life]]

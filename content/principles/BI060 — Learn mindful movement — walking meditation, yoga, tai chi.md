@@ -18,7 +18,7 @@ Mindful movement combines physical movement with meditative attention: walking m
 
 The authors' own conclusion is cautious, verbatim: "Tai chi may be a useful treatment for fibromyalgia and merits long-term study in larger study populations." This trial tested a tai chi programme in people with fibromyalgia against wellness education and stretching. It does not establish benefits for every practice listed here or identify the separate contribution of meditative attention.
 
-**Plain words** (the compendium's exercise) Choose a familiar movement you can perform comfortably. Notice one sensation during it, such as pressure under your feet. When your attention wanders, return to that sensation.
+**Plain words** (my exercise) Choose a familiar movement you can perform comfortably. Notice one sensation during it, such as pressure under your feet. When your attention wanders, return to that sensation.
 
 *For example:* Suppose you start planning tomorrow's meeting during a walk. For the next few steps, bring attention back to how your feet meet the pavement.
 

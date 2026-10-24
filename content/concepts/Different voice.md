@@ -15,7 +15,7 @@ The different voice is Carol Gilligan's name for a way of reasoning about moral 
 
 In the retrospective's framing, what sounded feminine under one arrangement of values sounds human under another: "Within a patriarchal framework, care is a feminine ethic. Within a democratic framework, care is a human ethic." The ethic itself she describes plainly: "Care is a relational ethic, grounded in a premise of interdependence." Its two moral injunctions, do not oppress and do not abandon, "live side by side".
 
-### In the compendium
+### Here
 
 - [[R066 — Practise care as a moral orientation]] — the principle built on the Heinz-dilemma contrast between Jake and Amy
 - [[R078 — Practise care as a moral emotion]] — caring motivation, emotion and the body in moral deliberation
@@ -25,7 +25,7 @@ In the retrospective's framing, what sounded feminine under one arrangement of v
 - [[A097 — Practise corrective justice]] — the justice orientation the different voice is contrasted with
 - [[BI045 — Learn slow breathing — a direct autonomic regulator]] — the physiological ground the voice's calm is trained on
 - [[K380 — The Two Teachers: change the tone, keep the lesson]] — the same correction delivered in connection rather than contempt
-- [[ST246 — Gilligan's Different Voice]] — the compendium's own story of the Kohlberg-scoring argument
+- [[ST246 — Gilligan's Different Voice]] — my own story of the Kohlberg-scoring argument
 
 ## Related concepts
 

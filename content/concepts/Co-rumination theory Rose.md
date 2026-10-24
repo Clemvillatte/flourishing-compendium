@@ -27,7 +27,7 @@ The longitudinal evidence bears out both sides of the trade. For girls, co-rumin
 
 > "For girls, a reciprocal relationship was found in which co-rumination predicted increased depressive and anxiety symptoms and increased positive friendship quality over time, which, in turn, contributed to greater co-rumination." (same paper)
 
-The compendium's principle [[AF074 — Recognise co-rumination — sharing distress can amplify it]] draws the practical warning: when a conversation about a problem circles without producing a next step, the closeness it creates is real, and so is the cost.
+My principle [[AF074 — Recognise co-rumination — sharing distress can amplify it]] draws the practical warning: when a conversation about a problem circles without producing a next step, the closeness it creates is real, and so is the cost.
 
 ## Sources
 

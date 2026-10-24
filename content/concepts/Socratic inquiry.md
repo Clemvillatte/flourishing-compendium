@@ -17,7 +17,7 @@ The pains belong to the inquirer, not to Socrates. "Dire are the pangs which my 
 
 The dialogue then runs the method to its end. Socrates asks what knowledge is, each answer Theaetetus offers is examined and found wanting, and the inquiry turns back on itself: "Once more we shall have to begin, and ask 'What is knowledge?' and yet, Theaetetus, what are we going to do?" The unresolved ending is the lesson. A Socratic inquiry is not a lecture one receives but a labor one undergoes, and its result is a better question plus a person who has felt the difference between a settled opinion and an examined one.
 
-### In the compendium
+### Here
 
 - [[B092 — Investigate with curiosity (dhammavicaya)]] — the Buddhist investigation practice it pairs with
 - [[B139 — Live the question (what is this)]] — the Zen form of the same discipline

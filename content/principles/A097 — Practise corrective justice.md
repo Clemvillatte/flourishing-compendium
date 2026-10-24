@@ -16,7 +16,7 @@ Corrective justice uses arithmetical equality to address an injury between two p
 
 > "Now the judge restores equality; it is as though there were a line divided into unequal parts, and he took away that by which the greater segment exceeds the half, and added it to the smaller segment." (NE V.4, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html))
 
-For this purpose the law treats the parties as equals. Aristotle says it makes no difference whether a good person has defrauded a bad person or the reverse: the injury is the issue. This is an account of judicial correction; the everyday exercise below is the compendium's practical application.
+For this purpose the law treats the parties as equals. Aristotle says it makes no difference whether a good person has defrauded a bad person or the reverse: the injury is the issue. This is an account of judicial correction; the everyday exercise below is my practical application.
 
 (NE V.4.)
 

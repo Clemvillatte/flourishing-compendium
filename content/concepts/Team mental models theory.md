@@ -17,7 +17,7 @@ The theory extends the psychology of individual mental models to teams. Its foun
 
 The point is not identical minds. The 1993 chapter is explicit that a shared mental model does not imply an identical mental model; what the theory requires is that team members hold compatible mental models, which lead to common expectations for the task and the team (Cannon-Bowers et al. 1993). The content splits into what a teammate must know: as a National Academies review summarizes the 1993 account, "a shared mental model includes models of the technology and equipment, models of taskwork, models of teamwork, and models of teammates (i.e., teammates' knowledge, skills, attitudes, and preferences)," while a team mental model "provides an understanding of teammates' capabilities, limitations, current goals and needs, and current and future performance." Compatible models let a team anticipate rather than wait: each member can predict what the others will do and act without asking.
 
-### In the compendium
+### Here
 
 - [[CO006 — Recognise that thinking is socially distributed — you think with others]] — the distributed-cognition principle the theory instantiates
 - [[BI007 — Recognise that the gut is connected to the brain — the gut-brain axis]] — listed parallel

@@ -25,7 +25,7 @@ Steelmanning is not agreement, and it is not a debating trick for winning. Mill'
 
 Before replying to someone you disagree with, write their argument in three sentences and ask whether they would sign it. If they would not, rewrite it before you answer. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[D124 — Look for the right in the other side]]
 - [[CO029 — Practise consider the opposite — deliberately generate counterarguments]]

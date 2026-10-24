@@ -15,9 +15,9 @@ Jacobson's original protocol ran long: weekly instruction and daily practice, mu
 
 ### Evidence status
 
-The quantitative case is decent. A meta-analysis of 27 studies (1997-2007) of relaxation training for anxiety found that "Cohen's d was.57 (95% CI: .52 to .68) in the within analysis and .51 (95% CI: .46 to .634) in the between group analysis", a medium effect, and reported that "While all relaxation trainings reduced anxiety, applied relaxation, progressive relaxation and meditation showed greater effect sizes than other techniques" ([Manzoni, Pagnini, Castelnuovo and Molinari, BMC Psychiatry 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/)). The authors' own reading of the pooled evidence: "The results show consistent and significant efficacy of relaxation training in reducing anxiety" ([Manzoni et al. 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/)). Effects were larger for longer treatments, and the technique family needs practice to work, which is why the compendium carries it as a learnable skill rather than a one-off trick.
+The quantitative case is decent. A meta-analysis of 27 studies (1997-2007) of relaxation training for anxiety found that "Cohen's d was.57 (95% CI: .52 to .68) in the within analysis and .51 (95% CI: .46 to .634) in the between group analysis", a medium effect, and reported that "While all relaxation trainings reduced anxiety, applied relaxation, progressive relaxation and meditation showed greater effect sizes than other techniques" ([Manzoni, Pagnini, Castelnuovo and Molinari, BMC Psychiatry 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/)). The authors' own reading of the pooled evidence: "The results show consistent and significant efficacy of relaxation training in reducing anxiety" ([Manzoni et al. 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/)). Effects were larger for longer treatments, and the technique family needs practice to work, which is why I carrie it as a learnable skill rather than a one-off trick.
 
-### In the compendium
+### Here
 
 - [[BE047 — Learn progressive muscle relaxation — systematic body release]] and [[BI047 — Learn progressive muscle relaxation — systematic body release]] — the practice principles that teach the drill
 - [[K206 — Progressive muscle relaxation]] — the kernel form of the same exercise

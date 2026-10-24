@@ -21,9 +21,9 @@ Kernels belong to a wider shift that Hayes and Hofmann describe in World Psychia
 
 A kernel is not a full treatment package, and not a technique used because it is familiar. Its justification is the process it moves in the person in front of the clinician.
 
-### In the compendium
+### Here
 
-The compendium's practice kernels (K-prefixed entries) are written in this spirit: each names a small change method and the process it moves.
+My practice kernels (K-prefixed entries) are written in this spirit: each names a small change method and the process it moves.
 
 ## Related concepts
 

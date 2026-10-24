@@ -21,7 +21,7 @@ Its small-fire image explains the contrast: adding wet material will not make a 
 
 ### Plain words
 
-Ask what is happening to your attention before automatically trying to become calmer. If it is fading, the compendium suggests bringing curiosity to the experience and renewing your intention to practise. This is a way to explore the instruction, not a requirement to override exhaustion or treat every kind of tiredness as a meditation problem.
+Ask what is happening to your attention before automatically trying to become calmer. If it is fading, I suggest bringing curiosity to the experience and renewing your intention to practise. This is a way to explore the instruction, not a requirement to override exhaustion or treat every kind of tiredness as a meditation problem.
 
 ### For example
 

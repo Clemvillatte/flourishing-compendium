@@ -19,7 +19,7 @@ The paper's stated aim is to compare how well these accounts explain escalation.
 
 The paper's own examples include a Boston highway project, a nuclear power plant, a failed stock-exchange IT system and rogue trading at a bank. People in ordinary life face smaller versions of the same decision about jobs, projects and relationships. That extension is an inference, and the meta-analysis covers organizational and laboratory studies.
 
-### In the compendium
+### Here
 
 - [[D020 — Know where to stop (chizhi)]] is the Daoist principle of knowing where to stop. It pairs naturally with this research as a long-standing counter-image to the habit of pressing on, though the Daoist text and the 2012 paper do not refer to each other.
 

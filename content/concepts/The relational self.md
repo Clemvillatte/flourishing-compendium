@@ -25,11 +25,11 @@ Constantine Sedikides, Lowell Gaertner and Erin O'Mara compared the individual, 
 
 Gergen argues the stronger case: "the origin of all meaning lies within collaborative action (co-action)" ([Gergen 2011](https://www.tandfonline.com/doi/full/10.1080/10720537.2011.593453)). Nedelsky draws the consequence for autonomy: people "become autonomous with others," and the capacity is fostered or undermined by relationships and social structures ([Nedelsky 2011](https://books.google.com/books/about/Law_s_Relations.html?id=TbfD8mtW-LIC)).
 
-### In the compendium
+### Here
 
 SE052 "Cultivate the relational self — self-in-connection is not weakness" carries the concept directly, noting that in many cultures a self defined through relationships is the norm. R082 and R099 give it Buber's ontological reading, with meaning located in the Between; R081 teaches I-Thou and E026 Heidegger's Mitsein.
 
-R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it beyond the human. SE049 states the multiplicity that Andersen and Chen model. The compendium's story ST238 illustrates it at world scale: Moana's voyage restores goddess, tradition and community together.
+R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it beyond the human. SE049 states the multiplicity that Andersen and Chen model. My story ST238 illustrates it at world scale: Moana's voyage restores goddess, tradition and community together.
 
 ## Related concepts
 
@@ -40,7 +40,7 @@ R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it
 
 - [[I and Thou]] — Buber's dialogue, named in this page's seed as its source
 - [[The Between]] — Buber's name for the shared space of relation, which R099 treats as ontological
-- [[Being-with (Mitsein)]] — the Heideggerian parallel the compendium pairs via E026
+- [[Being-with (Mitsein)]] — the Heideggerian parallel I pair via E026
 - [[Ubuntu]] — personhood constituted through others, the parallel R001 carries
 - [[Interdependent self-construal]] — the cultural-psychology parallel of a self defined through close relations
 - [[Attachment theory]] — early bonds as a parallel substrate of relational selves

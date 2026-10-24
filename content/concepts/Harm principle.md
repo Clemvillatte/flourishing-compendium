@@ -17,7 +17,7 @@ The principle covers both legal penalties and "the moral coercion of public opin
 
 Mill immediately names the rejected grounds: "He cannot rightfully be compelled to do or forbear because it will be better for him to do so, because it will make him happier" (ibid.). Paternalism is the standing target. The doctrine "is meant to apply only to human beings in the maturity of their faculties" — children and those unable to decide for themselves are outside its scope, a boundary Mill draws explicitly in the same chapter.
 
-### In the compendium
+### Here
 
 The principle is the philosophy side of Y028: if non-harm is the ground of legitimate coercion, then the ethical work of a life becomes noticing, and declining to act on, the many pressures that do harm while claiming to help.
 

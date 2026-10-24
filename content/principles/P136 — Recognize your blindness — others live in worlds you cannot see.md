@@ -22,7 +22,7 @@ The essay's example is a mountain clearing. James saw an ugly landscape; the set
 
 He adds that he had been "as blind to the peculiar ideality of their conditions as they certainly would also have been to the ideality of mine," had they seen his indoor academic life in Cambridge.
 
-The compendium's exercise: before describing someone's routine as empty, ask what it means to them. Separate what they tell you from what you had assumed.
+My exercise: before describing someone's routine as empty, ask what it means to them. Separate what they tell you from what you had assumed.
 
 **Plain words**
 An activity can look tedious while carrying memories, responsibilities or satisfactions you have not noticed. Ask about those meanings before deciding how to describe the person's life.

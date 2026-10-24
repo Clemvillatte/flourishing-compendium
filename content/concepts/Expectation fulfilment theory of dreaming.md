@@ -7,7 +7,7 @@ file: "Expectation fulfilment theory of dreaming"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-The expectation fulfilment theory of dreaming was proposed by the psychologist Joe Griffin in 1993. It holds that the main function of REM dreaming is to act out, in metaphor, emotional arousals that were not discharged during the previous day ([Wikipedia](https://en.wikipedia.org/wiki/Expectation_fulfilment_theory_of_dreaming)). The compendium's earlier note also names Revonsuo, whose work is a different theory, so this page covers Griffin's account only.
+The expectation fulfilment theory of dreaming was proposed by the psychologist Joe Griffin in 1993. It holds that the main function of REM dreaming is to act out, in metaphor, emotional arousals that were not discharged during the previous day ([Wikipedia](https://en.wikipedia.org/wiki/Expectation_fulfilment_theory_of_dreaming)). My earlier note also names Revonsuo, whose work is a different theory, so this page covers Griffin's account only.
 
 ### What the theory says
 
@@ -21,13 +21,13 @@ Wikipedia states that the theory, while widely validated anecdotally, "is not ab
 
 The Wikipedia article states that the theory fulfils the criteria for a satisfactory dream theory set out by the sleep researcher G. William Domhoff, but it also notes that Domhoff "did not consider" the theory in his review, so that match is the proponents' claim and not Domhoff's finding. No peer-reviewed test of the theory was found for this page, and the sources above are a proponent's organisation, an encyclopedia article, a textbook table and one review. Treat the theory as a hypothesis, not an established account of why people dream.
 
-### In the compendium
+### Here
 
 - [[AF018 — Understand that affect is regulated by reward prediction error, not by outcomes alone]] cites this concept in its parallels section. The connection is thematic: both concern expectations and emotion.
 
 ## Related concepts
 
-- [[Reward prediction error (Schultz)]] — the compendium's page on expectation and affect in learning
+- [[Reward prediction error (Schultz)]] — my page on expectation and affect in learning
 - [[Rumination]] — the theory links unresolved worry to more dreaming
 - [[Emotion regulation]] — the topic the theory addresses in its own terms
 

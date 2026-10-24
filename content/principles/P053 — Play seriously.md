@@ -20,7 +20,7 @@ Dewey's chapter on work and play rejects the usual opposition between them. Play
 
 > "One has only to observe the countenance of children really playing to note that their attitude is one of serious absorption" (Dewey, Democracy and Education, ch. 15, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-The compendium's reading for adult life: protect activities whose aim is simply more of the activity, where trying a variation costs little and a failed attempt is cheap.
+My reading for adult life: protect activities whose aim is simply more of the activity, where trying a variation costs little and a failed attempt is cheap.
 
 **Plain words**
 Play is doing something for the sake of the doing, with room to change course. Keep some of it in your week, free of stakes.

@@ -21,7 +21,7 @@ The evidence base includes guided recall in the Netherlands, a culture with sepa
 
 ### In everyday life
 
-The colleague's promotion heard twice: once as news, once as an imagined setback for them. (Illustrative scenario, not a reported participant or study result.) The compendium's rule is to catch the second hearing early, before it becomes speech or sabotage.
+The colleague's promotion heard twice: once as news, once as an imagined setback for them. (Illustrative scenario, not a reported participant or study result.) My rule is to catch the second hearing early, before it becomes speech or sabotage.
 
 ## Related concepts
 

@@ -16,7 +16,7 @@ The ACT definition runs: values are "chosen, verbally constructed consequences o
 
 > "Unlike values, which are constantly instantiated but never achieved as an object, concrete goals that are values consistent can be achieved." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-The compendium applies the distinction to the to-do list: "be a loving partner" cannot be ticked off, and the next hour is always available for it.
+I applie the distinction to the to-do list: "be a loving partner" cannot be ticked off, and the next hour is always available for it.
 
 **Plain words**
 A goal is a place; a value is a heading. You can finish a report, and you cannot finish being honest. The test of a value is that it can be acted on in the next hour, whatever this week's outcomes have been. That unfinishability is the design.

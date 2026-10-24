@@ -13,15 +13,15 @@ Pearls before swine is the image Jesus uses in the Sermon on the Mount for the r
 
 The original entry inverts the warning into counsel about where to spend your best: not everything holy should be offered everywhere, because the offering can be trampled and the offerer torn. The saying is a rule of fit — of matching the fineness of the material to the capacity of the receiver — rather than a rule of contempt.
 
-### In the compendium
+### Here
 
 - [[M012 — Give your finest materials to the finest truths]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Discernment of spirits]] — the compendium's page on discernment
-- [[Silence as evidence]] — the compendium's page on silence
-- [[Klesha transmuted into wisdom]] — the compendium's page on transforming afflictions
+- [[Discernment of spirits]] — my page on discernment
+- [[Silence as evidence]] — my page on silence
+- [[Klesha transmuted into wisdom]] — my page on transforming afflictions
 
 ## Sources
 

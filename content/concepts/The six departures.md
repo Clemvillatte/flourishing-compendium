@@ -25,13 +25,13 @@ The same family of instruction appears in the Chan and Zen tradition's "no-thoug
 
 > "The aim of zazen is just sitting, that is, suspending all judgemental thinking and letting words, ideas, images and thoughts pass by without getting involved in them." ([Wikipedia: Zazen](https://en.wikipedia.org/wiki/Zazen))
 
-### In the compendium
+### Here
 
 - [[K060 — Do not recall; do not imagine; do not think; do not examine; do not control; rest]] — the kernel takes the six words as a practice instruction.
 
 ## Related concepts
 
-- [[Shikantaza, just sitting]] — the compendium's pairing for the just-sitting practice in the same instruction family.
+- [[Shikantaza, just sitting]] — my pairing for the just-sitting practice in the same instruction family.
 
 ## Sources
 

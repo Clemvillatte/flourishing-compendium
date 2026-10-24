@@ -26,9 +26,9 @@ With Thomas Joiner she found the upward spiral: positive emotions and broad-mind
 
 Two limits belong on the page. Fredrickson herself called the mechanisms of undoing "unknown" and the evidence preliminary. And a later offshoot was formally withdrawn: the 2005 Fredrickson-Losada paper's claim of a critical positivity ratio of 2.9013, built on fluid-dynamics equations, was retracted in part by American Psychologist after Brown, Sokal and Friedman concluded the claim "is entirely unfounded"; Fredrickson agreed the model was inaccurate ([Brown et al. 2013](https://arxiv.org/abs/1307.7006); [APA Monitor](https://www.apa.org/monitor/2013/12/model-emotions)). The core broaden-and-build claims were not the retracted part.
 
-### In the compendium
+### Here
 
-AF061 "Cultivate positive affect deliberately — it broadens and builds" carries the theory as a practice, and Y023 "Build the upward spiral on purpose" cites the Fredrickson-Joiner finding directly. B093 and B118 bring piti and gladness into the same family, SP061 defends cheerfulness, and ST304's savoring story illustrates contentment's urge. AF012 and AF083 add the compendium's own caveat that affect is culturally shaped and should not be universalised.
+AF061 "Cultivate positive affect deliberately — it broadens and builds" carries the theory as a practice, and Y023 "Build the upward spiral on purpose" cites the Fredrickson-Joiner finding directly. B093 and B118 bring piti and gladness into the same family, SP061 defends cheerfulness, and ST304's savoring story illustrates contentment's urge. AF012 and AF083 add my own caveat that affect is culturally shaped and should not be universalised.
 
 ## Related concepts
 

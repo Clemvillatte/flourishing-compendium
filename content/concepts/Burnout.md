@@ -17,7 +17,7 @@ The syndrome's shape comes from Christina Maslach's research: emotional exhausti
 
 Maslach and Leiter locate the causes in the person-job mismatch rather than the person alone: burnout connects to six areas of work life, "workload, control, reward, community, fairness, and values," so prevention "requires a combination of organizational change and worker education" ([Wikipedia, Occupational burnout](https://en.wikipedia.org/wiki/Burnout_(psychology))). The demands-resources model tells the same story from the workload side: demands drive exhaustion, missing resources drive disengagement ([Wikipedia, Occupational burnout](https://en.wikipedia.org/wiki/Burnout_(psychology))).
 
-### In the compendium
+### Here
 
 - [[MO063]] — burn-out defined as chronic workplace stress with exhaustion, cynicism and reduced efficacy
 - [[B100]] — the pity warning beside the Maslach reading

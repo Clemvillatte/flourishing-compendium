@@ -15,12 +15,12 @@ Prejudice reduction, in the research sense, is what actually happens when groups
 
 The dataset behind this was enormous: "slightly more than 250,000 participants from 38 different countries." The later mediation meta-analysis (Pettigrew & Tropp 2008) found three routes: contact works "by (1) enhancing knowledge about the outgroup, (2) reducing anxiety about intergroup contact, and (3) increasing empathy and perspective taking," with anxiety reduction and empathy stronger than knowledge.
 
-The compendium's [[P135 — Practice tolerance without indifference]] and [[SO046 — Guard against in-group bias]] are the personal disciplines this research supports: tolerance is not enough, and the contact has to be real.
+My [[P135 — Practice tolerance without indifference]] and [[SO046 — Guard against in-group bias]] are the personal disciplines this research supports: tolerance is not enough, and the contact has to be real.
 
 ## Related concepts
 
 
-- [[P135 — Practice tolerance without indifference]]: the compendium principle this research grounds
+- [[P135 — Practice tolerance without indifference]]: my principle this research grounds
 - [[SO046 — Guard against in-group bias]]: the failure mode the contact has to overcome
 - [[Multicultural identity theory]]: the identity-side account of what happens when groups meet
 - [[Mutual recognition]]: the Hegelian frame for what contact makes possible

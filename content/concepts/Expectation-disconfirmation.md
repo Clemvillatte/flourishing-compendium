@@ -23,9 +23,9 @@ Satisfaction and disconfirmation were measured with the same instrument, so shar
 
 ### Scope
 
-The compendium's earlier one-line summary, "satisfaction tracks performance minus expectation", is a simplification. In the model, expectation itself also enters satisfaction, and the disconfirmation judgement is a separate rating of whether things were better or worse than expected. The evidence is consumer and health-decision data, not a test of expectations about relationships or wellbeing.
+My earlier one-line summary, "satisfaction tracks performance minus expectation", is a simplification. In the model, expectation itself also enters satisfaction, and the disconfirmation judgement is a separate rating of whether things were better or worse than expected. The evidence is consumer and health-decision data, not a test of expectations about relationships or wellbeing.
 
-### In the compendium
+### Here
 
 - [[D121 — Make modest promises]] lists this concept among its psychology parallels. The principle's own text rests on the Daodejing and does not cite Oliver, so the link is thematic: a modest promise sets a lower reference point for the other person.
 

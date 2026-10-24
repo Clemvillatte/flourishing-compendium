@@ -21,7 +21,7 @@ The p. 97 text supplies its own examples: "Equipment—in accordance with its eq
 
 The companion idea is readiness-to-hand (Zuhandenheit), the mode of being equipment has while it is in use, discussed on its own page.
 
-### In the compendium
+### Here
 
 - [[K021 — Treat the body as the self's working edge]] — the principle takes the equipmental pattern and applies it to the body: the body is not primarily an object one inspects but a working edge that shows itself in what it does, a reading the principle grounds in Nishida's historical body.
 

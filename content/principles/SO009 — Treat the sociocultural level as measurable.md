@@ -18,7 +18,7 @@ Wilkinson and Marmot's WHO booklet summarises evidence on social position and he
 
 (Wilkinson & Marmot, eds., 2003, "Social Determinants of Health: The Solid Facts", 2nd ed., section 1, [WHO IRIS open PDF](https://iris.who.int/server/api/core/bitstreams/5d15a937-5558-4f72-8fbd-90381d6f8528/content).)
 
-The compendium uses this gradient as one example of a social pattern described with evidence. Its separate practical proposal is to gather relevant information before choosing changes to a community's arrangements.
+I use this gradient as one example of a social pattern described with evidence. Its separate practical proposal is to gather relevant information before choosing changes to a community's arrangements.
 
 **Plain words** Before proposing a change, ask members about their priorities and examine relevant information about the group. Use those findings to inform a proposal, then check its results. Collecting data does not by itself establish what will work.
 

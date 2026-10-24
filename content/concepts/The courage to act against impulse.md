@@ -7,7 +7,7 @@ file: "The courage to act against impulse"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The courage to act against impulse is the strength to do what reason or duty calls for while inclination pushes the other way. The phrase is the compendium's own heading; the original entry names Kant's Groundwork, and the passage it rests on is Kant's account of acting from duty against inclination.
+The courage to act against impulse is the strength to do what reason or duty calls for while inclination pushes the other way. The phrase is my own heading; the original entry names Kant's Groundwork, and the passage it rests on is Kant's account of acting from duty against inclination.
 
 ### Kant's ground
 
@@ -23,11 +23,11 @@ His example is a person with every reason to want death, who keeps living anyway
 
 > "if adversity and hopeless sorrow have completely taken away the relish for life; if the unfortunate one, strong in mind, indignant at his fate rather than desponding or dejected, wishes for death, and yet preserves his life without loving it- not from inclination or fear, but from duty- then his maxim has a moral worth." (same work)
 
-The worth is not in the outcome. Kant's image for the good will is a jewel whose value survives even fruitlessness: even if the will "should wholly lack power to accomplish its purpose, if with its greatest efforts it should yet achieve nothing", then, "like a jewel, it would still shine by its own light, as a thing which has its whole value in itself" (same work). That is the standing rule the compendium's applications inherit: the measure of acting against impulse is the acting, not the harvest — whether the result is a life kept, a resentment declined, or a fear faced.
+The worth is not in the outcome. Kant's image for the good will is a jewel whose value survives even fruitlessness: even if the will "should wholly lack power to accomplish its purpose, if with its greatest efforts it should yet achieve nothing", then, "like a jewel, it would still shine by its own light, as a thing which has its whole value in itself" (same work). That is the standing rule my applications inherit: the measure of acting against impulse is the acting, not the harvest — whether the result is a life kept, a resentment declined, or a fear faced.
 
-### In the compendium
+### Here
 
-The compendium applies the heading to the emotional impulses of ordinary life, not only to questions of duty.
+I applie the heading to the emotional impulses of ordinary life, not only to questions of duty.
 
 - [[K038 — If there is a remedy, why be angry; if there is none, what use is anger]] — the verse that asks what anger is for, whether or not trouble can be remedied
 - [[R005 — Practise forgiveness]] — Tutu's argument that forgiveness is "the best form of self-interest", made against the pull of resentment

@@ -17,9 +17,9 @@ In the framework, "the person dimension of place attachment refers to its indivi
 
 ### What attachment does
 
-The paper reviews proposed functions. "Speculated upon in the literature, the most common include survival and security, goal support, and temporal or personal continuity." Under goal support and self-regulation, the authors say that "place attachment serves self-regulation because favorite places have restorative qualities" (citing Korpela, 1989). They add that the list "is by no means exhaustive" and name belongingness as a further function. The text opened here does not state outright that attachment raises well-being, so the compendium's facet "and well-being" is a reasonable reading of the restorative and security functions but not a result this review reports.
+The paper reviews proposed functions. "Speculated upon in the literature, the most common include survival and security, goal support, and temporal or personal continuity." Under goal support and self-regulation, the authors say that "place attachment serves self-regulation because favorite places have restorative qualities" (citing Korpela, 1989). They add that the list "is by no means exhaustive" and name belongingness as a further function. The text opened here does not state outright that attachment raises well-being, so my facet "and well-being" is a reasonable reading of the restorative and security functions but not a result this review reports.
 
-### In the compendium
+### Here
 
 The linked principles apply the concept to practice, for example M022 (Root yourself in a place) and D035 (Live within your ecosystem's bounds). Several, such as E025 and E030, come from Heidegger's thought on spatiality and dwelling, which is a different tradition from the psychological research above, so the two should not be treated as one argument.
 

@@ -20,12 +20,12 @@ In their conclusion, they propose a short-term mood-regulation account:
 
 > In this paper, we have argued that procrastination may be best understood as a form of self-regulation failure that involves the primacy of short-term mood repair and emotion regulation over the longer-term pursuit of intended actions. (Sirois & Pychyl, 2013)
 
-The task-breakdown exercise below is the compendium's application. Its effect on procrastination is not established by the passages quoted here.
+The task-breakdown exercise below is my application. Its effect on procrastination is not established by the passages quoted here.
 
 (Sirois & Pychyl, 2013, "Procrastination and the Priority of Short-Term Mood Regulation," Social and Personality Psychology Compass, 7(2).)
 
 **Plain words**
-The authors connect putting off unpleasant tasks with attempts to manage immediate feelings. The compendium uses this account as a prompt for examining an avoided task. Write down what feels unpleasant about it, then identify one concrete action you could try. Notice what happens when you attempt it.
+The authors connect putting off unpleasant tasks with attempts to manage immediate feelings. I use this account as a prompt for examining an avoided task. Write down what feels unpleasant about it, then identify one concrete action you could try. Notice what happens when you attempt it.
 
 *For example:* Suppose you have been putting off your tax return. Choose one limited action, such as looking for last year's file, and decide when to try it. Afterward, note what you did and how it felt.
 

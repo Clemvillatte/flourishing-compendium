@@ -19,9 +19,9 @@ The testing had a shape. Socrates examined the politicians with a reputation for
 
 Socrates interprets the oracle as showing the limits of human wisdom: his advantage lies in recognising those limits ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)). The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there ([Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)).
 
-### In the compendium
+### Here
 
-The compendium reads the state across its traditions: the Buddhist don't-know mind and beginner's mind (B140, B048), the withholding of assent when an impression is uncertain (S048), the Daoist empty cup and rest in unknowing (D045, D100), the psychological value of "I don't know" (CO071), and the compendium's principle on the Dunning-Kruger effect (CO025). Its principles treat expertise as real but fallible (SO041) and humility as accurate self-assessment (PP043).
+I read the state across its traditions: the Buddhist don't-know mind and beginner's mind (B140, B048), the withholding of assent when an impression is uncertain (S048), the Daoist empty cup and rest in unknowing (D045, D100), the psychological value of "I don't know" (CO071), and my principle on the Dunning-Kruger effect (CO025). Its principles treat expertise as real but fallible (SO041) and humility as accurate self-assessment (PP043).
 
 ## Related concepts
 - [[T011 — Socrates]]: the profession made at the trial: not knowing the things the city claims to know.

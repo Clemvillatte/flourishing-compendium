@@ -41,7 +41,7 @@ His verses on what hatred does to the person who holds it run in the same direct
 
 > "My mind will not experience peace If it fosters painful thoughts of hatred. I shall find no joy or happiness, Unable to sleep, I shall feel unsettled." (Shantideva, Bodhicharyavatara VI.3, [Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf))
 
-### In the compendium
+### Here
 
 - [[D074 — Don't fight angry]] — the Daodejing 68 principle places restraint beside skill in fighting and works out what a reply should look like once the decision to reply is already made.
 - [[K040 — See that anger destroys what you are trying to protect]] — the sixth chapter of Shantideva's Bodhicharyavatara describes what hatred destroys.

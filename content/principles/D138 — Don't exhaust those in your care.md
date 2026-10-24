@@ -20,14 +20,14 @@ Chapter 75 of the Daodejing states the famine case in one cause named twice: "Th
 >
 > (Daodejing 75, Legge)
 
-The chapter's parallel cases extend the pattern: people are "difficult to govern because of the (excessive) agency of their superiors", and they "make light of dying because of the greatness of their labours in seeking for the means of living". In each case the behavior that looks like a problem in the governed traces back to what the governing side is doing. The compendium applies the pattern to any position that draws on other people's effort.
+The chapter's parallel cases extend the pattern: people are "difficult to govern because of the (excessive) agency of their superiors", and they "make light of dying because of the greatness of their labours in seeking for the means of living". In each case the behavior that looks like a problem in the governed traces back to what the governing side is doing. I applie the pattern to any position that draws on other people's effort.
 
 (DDJ 75.)
 
 **Plain words**
 When the people under you are running out, the first place to look is what is being taken from them, and by whom. The chapter puts the cause above the symptom. The exercise: list what you draw from each person around you, and ask which of those draws you could stop tomorrow without anything important failing.
 
-*For example:* Imagine a manager who keeps adding 'one more quick thing' to the strongest employee. The compendium's exercise is to count the additions rather than admire the capacity.
+*For example:* Imagine a manager who keeps adding 'one more quick thing' to the strongest employee. My exercise is to count the additions rather than admire the capacity.
 
 ## Sources
 

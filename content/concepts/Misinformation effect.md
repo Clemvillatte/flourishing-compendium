@@ -15,7 +15,7 @@ The misinformation effect is the impairment in memory for the past that arises a
 
 Loftus's abstract lists the questions the field has worked through: the conditions under which people are especially susceptible to misinformation and when they resist it; whether warnings help (they sometimes inhibit the damaging effects, but only under limited circumstances); the observation of the effect across a variety of human and nonhuman species; and the fate of the original memory traces after misinformation appears to have made them inaccessible ([same record](https://pubmed.ncbi.nlm.nih.gov/16027179/)). The review closes with the newer line of work on rich false memories: the processes by which people come to believe falsely that they experienced rich complex events that never, in fact, occurred ([same record](https://pubmed.ncbi.nlm.nih.gov/16027179/)).
 
-### In the compendium
+### Here
 
 - [[CO055 — Know that memories can be implanted — confidence is not accuracy]] lists this topic as a psychology parallel.
 

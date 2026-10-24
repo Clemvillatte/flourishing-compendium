@@ -18,7 +18,7 @@ Rogers connects becoming more fully functioning with increasing openness to expe
 
 > "One way of expressing the fluidity which is present in such existential living is to say that the self and personality emerge from experience rather than experience being translated or twisted to fit pre-conceived self-structure." (Rogers, On Becoming a Person, [Panarchy excerpt](https://www.panarchy.org/rogers/person.html))
 
-The compendium's exercise: choose one part of your life and describe what you are learning, trying, or revising.
+My exercise: choose one part of your life and describe what you are learning, trying, or revising.
 
 **Plain words**
 What are you learning at present? Name one recent experience that has changed how you describe yourself.

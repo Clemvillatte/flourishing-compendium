@@ -17,7 +17,7 @@ On the child-scientist version associated with Gopnik and Wellman:
 
 The developmental evidence is the false-belief literature: "in general we can confidently say that children begin to successfully perform the ('verbal') false-belief tasks at around 4 years," and on Wellman's reading children pass because they move from an elementary "copy" theory of mind to a fully "representational" theory of mind, which lets them acknowledge the explanatory role of false beliefs. Three-year-olds, who typically fail the tasks, are not deficient in caring but still using the earlier theory.
 
-The compendium's application: the view models understanding other people as a conceptual achievement with a revision history, not a gift. The same humility applies to one's own mind: on this account, one's grasp of one's own inner life is itself theory-mediated, acquired from one's culture rather than read off introspection.
+My application: the view models understanding other people as a conceptual achievement with a revision history, not a gift. The same humility applies to one's own mind: on this account, one's grasp of one's own inner life is itself theory-mediated, acquired from one's culture rather than read off introspection.
 
 ## Field
 

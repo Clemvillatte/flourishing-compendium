@@ -19,7 +19,7 @@ Chapter 68's summary of the same idea, in Legge's verse rendering:
 
 Neither chapter asks the reader to withdraw from action. Chapter 8 ties the refusal to benefiting all things, and chapter 68 names the best fighter and the effective ruler as the ones who practise it: the one whose commands men most fulfil, Legge notes, "humbly plies his art". Non-contention is a stance within effort, not an exit from it.
 
-The compendium pairs the idea with two principles: A017 (Practice gentleness) lists it among its philosophy parallels, and S043 (Be patient with difficult people) sets it beside the practice of patience under provocation.
+I pair the idea with two principles: A017 (Practice gentleness) lists it among its philosophy parallels, and S043 (Be patient with difficult people) sets it beside the practice of patience under provocation.
 
 ## Related concepts
 - [[T012 — Laozi]]: the refusal to wrangle the concept is drawn from (Daodejing 8, 22, 66).

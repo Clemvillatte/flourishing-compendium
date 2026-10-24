@@ -15,9 +15,9 @@ The Glasgow PAC research gives the four attributions that the anger literature c
 
 The clinical treatment literature states the appraisal mechanism plainly: "Anger also increases when the person [...] codes events in highly polarized, negative ways [...], attributes malevolent intent to the perceived source of anger (i.e., hostile attributional bias)" ([DiGiuseppe and Tafrate, anger treatment chapter, PDF](https://biblioteca.cognitivo.com/pdf/bib_9_20210318043216.pdf)). The anger treatment chapter gives the judgment that mobilizes the state: "the person makes the judgment that something did or could happen that should not happen" ([same](https://biblioteca.cognitivo.com/pdf/bib_9_20210318043216.pdf)). Attribution of intent, controllability, and justification are the three appraisal lines that run through the anger research; a negative event read as intended, controllable, and unjust is what the analysis predicts will produce the most anger.
 
-### Why the compendium holds it
+### Why I hold it
 
-The compendium's Buddhist principle on the three sources of harm asks a person to distinguish harm from accident, harm from ill intent, and harm that is only the self's own aversion. The attributional literature is the research version of that instruction, and it adds the operational detail: the appraisal is the intervention target, because the appraisal is where the bias lives.
+My Buddhist principle on the three sources of harm asks a person to distinguish harm from accident, harm from ill intent, and harm that is only the self's own aversion. The attributional literature is the research version of that instruction, and it adds the operational detail: the appraisal is the intervention target, because the appraisal is where the bias lives.
 
 ## Related concepts
 

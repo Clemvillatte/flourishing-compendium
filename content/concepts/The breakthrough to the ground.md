@@ -15,7 +15,7 @@ The breakthrough to the ground is Meister Eckhart's image (Durchbruch, the break
 
 The movement is subtractive before it is additive. Eckhart's claim, in the SEP's paraphrase, is that "the soul must be 'stripped' of all the external objects of consciousness that serve to distract it and 'emptied' of all its finite attachments" ([SEP, §9.1](https://plato.stanford.edu/entries/meister-eckhart/)). What happens at the bottom of the emptying is described plainly: "When the intellect is thusly 'freed' and 'bare'—when it is turned inward toward itself and brought back down to its objectless grunt (which is also univocally God's ground)—it is thereby transformed into the passive vehicle of the Eternal Word" ([SEP, §9.1](https://plato.stanford.edu/entries/meister-eckhart/)). The unity is not a merger of two things but a pregnancy: "just as a pregnant person is, in a very real sense, one with that which they have conceived, the 'pregnant' soul and God are united in the ground" ([SEP, §9.1](https://plato.stanford.edu/entries/meister-eckhart/)).
 
-### In the compendium
+### Here
 
 - [[K016 — Practice the double negation]] pairs Eckhart's breakthrough with the double negation: what the apophatic theologian does to concepts, Eckhart's soul does to attachments, and the breakthrough is what lies on the far side of both subtractions.
 

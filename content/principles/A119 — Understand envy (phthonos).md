@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 119** — Understand envy (phthonos)
 
-The Rhetoric defines envy by its pain and its target: "Envy is pain at the sight of such good fortune as consists of the good things already mentioned; we feel it towards our equals; not with the idea of getting something for ourselves, but because the other people have it". The next chapter sets emulation against it, in the quotation below. The two share the sting and differ in what follows it: emulation takes steps to secure the good thing, envy takes steps to stop the neighbour having it. The compendium's exercise, straight from that contrast: when the sting arrives, ask which next step is being imagined.
+The Rhetoric defines envy by its pain and its target: "Envy is pain at the sight of such good fortune as consists of the good things already mentioned; we feel it towards our equals; not with the idea of getting something for ourselves, but because the other people have it". The next chapter sets emulation against it, in the quotation below. The two share the sting and differ in what follows it: emulation takes steps to secure the good thing, envy takes steps to stop the neighbour having it. My exercise, straight from that contrast: when the sting arrives, ask which next step is being imagined.
 
 (Rhetoric II.10-11.)
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 46** — Know that tolerance is not the goal; valued living is
 
-In Acceptance and Commitment Therapy, the acceptance skills are explicitly not ends in themselves: they serve chosen values. ([Hayes, Luoma, Bond, Masuda and Lillis, 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)) The compendium uses this to frame distress tolerance as a means directed at a life worth living, not as a goal in itself.
+In Acceptance and Commitment Therapy, the acceptance skills are explicitly not ends in themselves: they serve chosen values. ([Hayes, Luoma, Bond, Masuda and Lillis, 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)) I use this to frame distress tolerance as a means directed at a life worth living, not as a goal in itself.
 
 (Hayes, Luoma, Bond, Masuda and Lillis, "Acceptance and Commitment Therapy: Model, processes and outcomes," Behaviour Research and Therapy 44(1), 2006; Wilson et al., 2010.)
 

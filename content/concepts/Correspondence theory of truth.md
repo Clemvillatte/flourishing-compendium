@@ -25,7 +25,7 @@ The idea has been expressed in so many ways that the SEP speaks of "an extended 
 
 ## Related concepts
 - [[Truthfulness]] — truthfulness in speech
-- [[Partial truths in every opinion]] — the compendium's page on partial truth
+- [[Partial truths in every opinion]] — my page on partial truth
 
 ## Sources
 - [Stanford Encyclopedia of Philosophy, "The Correspondence Theory of Truth"](https://plato.stanford.edu/entries/truth-correspondence/) — definition, Aristotle's formulation, Russell and Moore

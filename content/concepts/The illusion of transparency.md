@@ -27,7 +27,7 @@ The cost shows up clearly in public speaking. Savitsky and Gilovich's 2003 follo
 
 Their second study divided speakers into control, reassured and informed groups; only the group taught about the illusion improved on every measure, in their own ratings and the observers' ([Wikipedia, Illusion of transparency](https://en.wikipedia.org/wiki/Illusion_of_transparency)). Knowing about the bias is itself the remedy, which is what makes this concept practical rather than merely diagnostic.
 
-### In the compendium
+### Here
 
 - [[AT022 — Recognise the spotlight effect — you attend to what you think others notice about you]] — the companion principle about overestimating how much others notice at all
 - [[SE019 — Recognise the spotlight effect — you overestimate how much others notice you]] — the same principle on the social-emotions track

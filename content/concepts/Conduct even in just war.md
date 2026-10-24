@@ -17,7 +17,7 @@ The conduct side of that intention is Augustinian, quoted in the same article:
 
 Even the aim of the war must be peace: "We do not seek peace in order to be at war, but we go to war that we may have peace. Be peaceful, therefore, in warring" (Augustine, Ep. ad Bonif. 189, quoted in [Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)). Not everything, though, is barred conduct — concealment of one's plans from the enemy is permitted: "Such like concealment is what is meant by an ambush which may be lawfully employed in a just war" ([Aquinas, Summa Theologiae II-II, q.40, a.3](https://www.newadvent.org/summa/3040.htm)).
 
-### In the compendium
+### Here
 
 - [[D132 — If you must fight, grieve — never gloat]] — the grieve-never-gloat rule
 - [[D076 — Enter conflict reluctantly — with a mourning heart]] — the reluctant entry

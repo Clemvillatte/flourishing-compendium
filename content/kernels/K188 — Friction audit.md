@@ -14,7 +14,7 @@ Identify which step in a behaviour chain costs the most energy, and reduce the f
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the principle beneath them is from the friction literature.*
+*Steps are my own protocol; the principle beneath them is from the friction literature.*
 
 1. Walk the chain from intention to action and time each step: the dressing, the drive, the login, the search for the shoes.
 2. Find the step that costs the most seconds or the most decisions, and remove it: gear laid out the night before, the app logged in, the gym between work and home.

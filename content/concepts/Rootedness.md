@@ -18,7 +18,7 @@ What makes the participation "living" is the double direction: a rooted person r
 
 Mindy Thompson Fullilove offers a separate account of the harm associated with displacement. Studying American neighborhoods torn apart by urban renewal, she named the injury "root shock": "the traumatic stress reaction to the loss of all or part of one's emotional ecosystem" (Fullilove, 2004, p. 15). The image is botanical, and a twentieth-anniversary essay co-authored by Fullilove states its premise plainly: "Just as the health of the plant is dependent on its relationship – its rootedness – to its environment, so the health of each person is affected by their belonging to place and community." ([UCSF Health & Aging](https://healthandaging.ucsf.edu/news/root-shock-twenty-years-displacement-%E2%80%93-its-harms-and-remedies))
 
-### In the compendium
+### Here
 
 - [[E030 — Practise dwelling (wohnen)]] — the phenomenological treatment of inhabiting a place deeply
 - [[D035 — Live within your ecosystem's bounds]] — the ecological frame for the same need

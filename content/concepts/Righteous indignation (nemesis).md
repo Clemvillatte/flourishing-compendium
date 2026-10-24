@@ -31,7 +31,7 @@ Envy, he adds, is not the same thing, even though they seem close. Envy is "exci
 
 The original entry's second source, Summa Theologiae II-II, q.158, is about anger, not indignation by name. In article 1 Aquinas argues that anger is evil only when it departs from right reason: "if one is angry in accordance with right reason, one's anger is deserving of praise." ([New Advent](https://www.newadvent.org/summa/3158.htm)) That supports a measured anger in general. It does not speak to Aristotle's specific case of pain at undeserved good fortune.
 
-### In the compendium
+### Here
 
 - [[A022 — Practice righteous indignation (nemesis)]], [[A029 — Practice the right kind of anger]], [[A119 — Understand envy (phthonos)]] and [[A017 — Practice gentleness (praotes)]] cite this concept.
 - [[SP032 — Treat indignation carefully]], [[K253 — The mean calibration]], [[K250 — Virtue rehearsal]] and [[K251 — Signature strengths in new ways]] cite it as well.

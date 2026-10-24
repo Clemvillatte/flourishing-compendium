@@ -15,7 +15,7 @@ Rosy retrospection is the "rosy view" finding: people's later recollection of an
 
 The mechanism the abstract proposes ties the gap to what happens during the event: more negative thoughts, caused by distractions, disappointment and a less positive view of the self. The authors add that these effects are short-lived, because "within days after the event, people have much more positive evaluations of the event."
 
-The scope is worth keeping in view: these studies concerned trips and holidays of a few weeks. The finding supports the compendium's [[CO059 — Recognise rosy retrospection — the past is remembered more fondly than it was experienced]], which extends it with a caution: the long-past "good old days" are an extrapolation from this result rather than something the studies demonstrated.
+The scope is worth keeping in view: these studies concerned trips and holidays of a few weeks. The finding supports my [[CO059 — Recognise rosy retrospection — the past is remembered more fondly than it was experienced]], which extends it with a caution: the long-past "good old days" are an extrapolation from this result rather than something the studies demonstrated.
 
 ## Related concepts
 

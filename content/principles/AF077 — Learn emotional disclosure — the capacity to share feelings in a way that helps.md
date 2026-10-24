@@ -16,7 +16,7 @@ Disclosure has an evidence base. The meta-analysis of 146 randomised studies:
 
 > "Results of random effects analyses indicate that experimental disclosure is effective, with a positive and significant average r-effect size of.075." (Frattaroli, 2006, [Psychological Bulletin 132, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17073523/))
 
-The average effect is small, and a later meta-analysis of physically healthy adults found expressive writing "did not yield significant long-term effects on depressive symptoms" ([Reinhold et al., 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12224)). The compendium suggests [[Meaning-making|meaning-making]] as one possible focus when writing about an experience. The cited findings do not establish a single mechanism or guarantee benefit from talking about feelings.
+The average effect is small, and a later meta-analysis of physically healthy adults found expressive writing "did not yield significant long-term effects on depressive symptoms" ([Reinhold et al., 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12224)). I suggest [[Meaning-making|meaning-making]] as one possible focus when writing about an experience. The cited findings do not establish a single mechanism or guarantee benefit from talking about feelings.
 
 **Plain words**
 Before sharing, consider what you want from the conversation: someone to listen, help understanding what happened, or practical assistance. Choose what you want to disclose. Feeling better immediately is not a test of whether you shared properly.

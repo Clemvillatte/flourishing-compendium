@@ -17,9 +17,9 @@ The details of that route are on the companion page: children rehearse others in
 
 ### What follows
 
-If the self is social through and through, two consequences matter for practice. First, the self one has in a given relationship is constituted with that relationship's particular attitudes, which is the observation the compendium's rule about different selves in different relationships is built on. Second, self-cultivation that works only on the solitary individual leaves out the material the self is made of, since that material is taken attitudes; the compendium's relational principles and the Confucian practice of xiushen both work on the self through its relations rather than around them.
+If the self is social through and through, two consequences matter for practice. First, the self one has in a given relationship is constituted with that relationship's particular attitudes, which is the observation my rule about different selves in different relationships is built on. Second, self-cultivation that works only on the solitary individual leaves out the material the self is made of, since that material is taken attitudes; my relational principles and the Confucian practice of xiushen both work on the self through its relations rather than around them.
 
-### In the compendium
+### Here
 
 - [[P057 — Your self is social through and through]] — the principle the concept grounds
 - [[SE049 — Recognise the social self — you have different selves in different relationships]] — the everyday observation explained

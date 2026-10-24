@@ -18,7 +18,7 @@ Seneca tells Lucilius that he keeps a daily habit:
 >
 > (Seneca, Moral Letters 83, Gummere translation)
 
-Letter 83 opens with Lucilius's request for an account of Seneca's day. Seneca connects looking back with planning ahead. The compendium's evening exercise adapts this daily-review habit: consider what happened and what you would do differently tomorrow.
+Letter 83 opens with Lucilius's request for an account of Seneca's day. Seneca connects looking back with planning ahead. My evening exercise adapts this daily-review habit: consider what happened and what you would do differently tomorrow.
 
 (Seneca, Letters 83.)
 

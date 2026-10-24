@@ -15,7 +15,7 @@ Repentance is pain over something you believe you freely did. Spinoza's Ethics d
 
 The belief clause matters more than the feeling. On Spinoza's account, repentance depends on the false opinion that your mind freely decided; the pain is real, the free decision is not. Ethics IV P54 draws the consequence: "Repentance is not a virtue, or does not arise from reason; but he who repents of an action is doubly wretched or infirm," because he is overcome first by evil desires and then by pain about them. Yet the note to P54 concedes that for people ruled by emotion, humility and repentance "bring more good than harm," since those who feel them can be led more easily to live by reason.
 
-The compendium connects this to [[A061 — Distinguish the involuntary from the non-voluntary]]: Aristotle's test for whether an act done in ignorance counts as involuntary is precisely whether it is followed by pain and repentance. The two thinkers disagree about what the pain is worth (Aristotle takes it as diagnostic; Spinoza calls the repenter doubly wretched), which is why the concept earns a page rather than a passing mention.
+I connect this to [[A061 — Distinguish the involuntary from the non-voluntary]]: Aristotle's test for whether an act done in ignorance counts as involuntary is precisely whether it is followed by pain and repentance. The two thinkers disagree about what the pain is worth (Aristotle takes it as diagnostic; Spinoza calls the repenter doubly wretched), which is why the concept earns a page rather than a passing mention.
 
 ## Related concepts
 

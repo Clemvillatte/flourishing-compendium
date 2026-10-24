@@ -22,7 +22,7 @@ The third channel carries the book's most quoted claim:
 
 The claim as Frankl states it is narrow: attitude is the one thing that can still be chosen. What follows from that for a life of suffering is a question the essays pursue.
 
-The treatment page connects to the compendium's essays on meaning, suffering, and freedom. It also names a companion page: [[The search for meaning]] treats the same material from the drive's side, while this page treats it as therapy.
+The treatment page connects to my essays on meaning, suffering, and freedom. It also names a companion page: [[The search for meaning]] treats the same material from the drive's side, while this page treats it as therapy.
 
 ## Related concepts
 

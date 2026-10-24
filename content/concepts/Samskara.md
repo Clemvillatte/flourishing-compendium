@@ -16,7 +16,7 @@ The two traditions that use the word give it two grammars. In Patañjali's Yoga,
 
 In the Buddha's usage the word is active rather than deposited. The Khajjaniya Sutta gives the etymology as a pun: "And why do you call them 'fabrications'? Because they fabricate fabricated things, thus they are called 'fabrications.' What do they fabricate as a fabricated thing? For the sake of form-ness, they fabricate form as a fabricated thing. For the sake of feeling-ness, they fabricate feeling as a fabricated thing. For the sake of perception-hood... For the sake of fabrication-hood... For the sake of consciousness-hood, they fabricate consciousness as a fabricated thing. Because they fabricate fabricated things, they are called fabrications." ([SN 22.79, trans. Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.079.than.html)) The aggregates are made things, and the making is what the word names.
 
-### In the compendium
+### Here
 
 - [[Y024]] — its account of recurring ideas from previous impressions matches this principle's description of interval recurrences
 
@@ -25,7 +25,7 @@ In the Buddha's usage the word is active rather than deposited. The Khajjaniya S
 - [[Skandha]] — the aggregates among which saṅkhāra is counted
 - [[Repetition]] — the returning of the same material that the impressions explain, in Kierkegaard's register
 - [[Habit formation]] — the psychology of how repeated action deposits disposition
-- [[Second nature]] — the compendium's page for what practice makes automatic
+- [[Second nature]] — my page for what practice makes automatic
 
 ## Sources
 

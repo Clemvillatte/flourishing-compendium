@@ -17,7 +17,7 @@ Aquinas's systematic treatment defines charity by relation: "charity is the frie
 
 The list itself runs across feeling and conduct. Two of its items are about honour rather than mood — love does not brag, does not seek its own way — and two are about accounting: it takes no account of evil, and it bears, believes, hopes and endures all things.
 
-### In the compendium
+### Here
 
 - [[B051 — Practice loving-kindness (metta)]] and [[B098 — Extend goodwill to the difficult]] — the Buddhist parallels, metta aimed at the difficult person.
 - [[D125 — Be good to the good and the not-good]] and [[D188 — Return good for the world's bad faith]] — the Daoist parallels: goodness not contingent on the other's merit.

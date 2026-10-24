@@ -13,7 +13,7 @@ A biblical image rather than a doctrine: the shepherd who stays with the flock. 
 
 The Psalm supplies the comfort side of the image: "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters" (Ps 23:1-2, KJV). Even the valley of the shadow of death is walked without fear, "for thou art with me" (Ps 23:4). John supplies the test: presence under threat. The hireling is the anti-shepherd, with the flock only while it costs nothing.
 
-That is why the compendium pairs the image with attachment research: SE048 uses it for secure-base behaviour, the figure who is a safe place precisely when danger appears, and SE032 for the inner ally, the supportive internal voice modelled on a presence that does not flee.
+That is why I pair the image with attachment research: SE048 uses it for secure-base behaviour, the figure who is a safe place precisely when danger appears, and SE032 for the inner ally, the supportive internal voice modelled on a presence that does not flee.
 
 ## Facets
 

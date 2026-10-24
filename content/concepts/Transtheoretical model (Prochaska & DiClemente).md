@@ -16,7 +16,7 @@ The model's founding claim, from the authors' own summary of the research progra
 
 Two features of the model carry most of its practical weight. First, the stages are defined by intention and behavior together, so each has a distinct task. In the authors' words: "Precontemplation is the stage at which there is no intention to change behavior in the foreseeable future," while "Action is the stage in which individuals modify their behavior, experiences, or environment in order to overcome their problems." Second, relapse is not failure but the model's documented expectation: people "typically recycle through these stages several times," and the authors report that the vast majority of relapsers, among smokers about 85 percent, recycle rather than return to the beginning. The model also warns against equating action with change itself, since maintenance, in their phrasing, "is a continuation, not an absence, of change."
 
-The compendium's application of the model: it supplies a vocabulary for where a person stands — no intention, intention without commitment, action, maintenance — and a caution against reading relapse as a verdict of failure rather than part of the documented route.
+My application of the model: it supplies a vocabulary for where a person stands — no intention, intention without commitment, action, maintenance — and a caution against reading relapse as a verdict of failure rather than part of the documented route.
 
 ## Sources
 

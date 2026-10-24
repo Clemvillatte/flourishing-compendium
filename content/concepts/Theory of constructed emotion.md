@@ -16,7 +16,7 @@ The theory's programmatic statement, from Lisa Feldman Barrett's open-access art
 
 In the article's own words, the construction runs through concepts: "the brain uses emotion concepts to categorize sensations to construct an instance of emotion." And the category itself is not a fixed kind: "My hypothesis, following Darwin's insight, is that fear (or any other emotion) is a 'category' that is populated with highly variable instances." What the brain has, on this account, are domain-general machinery — interoceptive prediction, concept use, and social learning — rather than one dedicated circuit per emotion. Affect (the simple, continuous feeling of pleasantness and arousal) supplies the raw material; emotion concepts, learned from one's culture, carve it into fear, anger, joy; social reality is the shared agreement that makes those carvings stick between people.
 
-The compendium's application: if emotion instances are constructed from concepts, then one's emotional repertoire is partly a learned vocabulary, and practices that refine emotion concepts (finer-grained feeling words, new distinctions) are a genuine form of inner work. This is the affective parallel to noticing that perception is interpretation rather than reception.
+My application: if emotion instances are constructed from concepts, then one's emotional repertoire is partly a learned vocabulary, and practices that refine emotion concepts (finer-grained feeling words, new distinctions) are a genuine form of inner work. This is the affective parallel to noticing that perception is interpretation rather than reception.
 
 ## Sources
 

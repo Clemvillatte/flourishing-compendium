@@ -16,7 +16,7 @@ A Warring States anecdote explains why the best physician can be the one nobody 
 
 The account contrasts the brothers' practices and reputations. The eldest treats the ailment before it has taken any form; the second treats it when its signs are most subtle; Bian Que, in the account's own words, uses stone needles on the blood vessels, prescribes strong drugs, and fortifies the skin and the flesh. The account gives the least fame to the earliest care.
 
-The compendium's reading: the eldest brother illustrates D061, acting before things arise. The Daodejing's own reasoning is that a thing is easiest to handle before it shows any sign of itself: "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun" ([Daodejing 64, Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The awkward part, as the principle's plain words put it, is that the early action looks like effort spent on nothing. Read alongside D061, the anecdote asks the reader to value work done before trouble becomes conspicuous.
+My reading: the eldest brother illustrates D061, acting before things arise. The Daodejing's own reasoning is that a thing is easiest to handle before it shows any sign of itself: "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun" ([Daodejing 64, Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The awkward part, as the principle's plain words put it, is that the early action looks like effort spent on nothing. Read alongside D061, the anecdote asks the reader to value work done before trouble becomes conspicuous.
 
 ### Action
 

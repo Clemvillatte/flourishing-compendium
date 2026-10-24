@@ -18,7 +18,7 @@ Russell described his own side in 1956. "I wanted certainty in the kind of way i
 
 The Stanford Encyclopedia says Frege "responded with both dismay and admiration, and never recovered from the blow dealt to his life’s work" ([SEP, Russell's paradox](https://plato.stanford.edu/entries/russell-paradox/)).
 
-The compendium uses the pair as a concrete picture of P047. Russell names what the quest for certainty felt like, a hunger for religious-level assurance, and what it produced after twenty years: another repair. Frege shows a mind taking the failure of a certainty without hiding it, in six days and in print.
+I use the pair as a concrete picture of P047. Russell names what the quest for certainty felt like, a hunger for religious-level assurance, and what it produced after twenty years: another repair. Frege shows a mind taking the failure of a certainty without hiding it, in six days and in print.
 
 Limits: Dewey's argument in P047 is about judgments in action, not about mathematical proof, and the story does not show either man adopting it. Russell stopped; he did not conclude that certainty was a mistaken goal.
 

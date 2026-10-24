@@ -21,7 +21,7 @@ The station one is in, like the role, is largely not one's own doing; what one m
 
 > "If you wish to make progress, be content to be thought foolish and silly in outward things; do not wish to seem to know anything." (chapter 13)
 
-Note what the counsel is not. It is not passivity: chapter 17 says to act the part well, and the training for hardship is active ("if hardship comes, you will find endurance", chapter 10). It is contentment with the part, not with every event inside it. The stance matters for flourishing because it removes a whole class of suffering, the suffering of comparing one's casting with someone else's, and redirects the effort to performance. The compendium's principle [[M034 — Carry yourself with dignity in every station]] is this counsel in practice, and its emotional neighbors [[Gratitude]] and [[Delight in the ordinary]] are what the settled version of it feels like from inside.
+Note what the counsel is not. It is not passivity: chapter 17 says to act the part well, and the training for hardship is active ("if hardship comes, you will find endurance", chapter 10). It is contentment with the part, not with every event inside it. The stance matters for flourishing because it removes a whole class of suffering, the suffering of comparing one's casting with someone else's, and redirects the effort to performance. My principle [[M034 — Carry yourself with dignity in every station]] is this counsel in practice, and its emotional neighbors [[Gratitude]] and [[Delight in the ordinary]] are what the settled version of it feels like from inside.
 
 ## Sources
 

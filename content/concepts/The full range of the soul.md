@@ -7,17 +7,17 @@ file: "The full range of the soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The full range of the soul is the compendium's name for what Aristotle's definition of the human good demands: nothing less than the whole of a person's capacities, well exercised. The Nicomachean Ethics reaches the definition through the function argument, and its careful second clause is where the range enters:
+The full range of the soul is my name for what Aristotle's definition of the human good demands: nothing less than the whole of a person's capacities, well exercised. The Nicomachean Ethics reaches the definition through the function argument, and its careful second clause is where the range enters:
 
 > "if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." (Aristotle, [Nicomachean Ethics I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), translated by W. D. Ross, 1098a16-18)
 
 ### Why "soul" and not "behavior"
 
-Aristotle's word for what flourishes is psyche, soul, the living person's whole set of capacities: the rational, the desiring that can listen to reason, the bodily feelings that accompany both. The definition's structure takes the range seriously. A good life is activity of soul, so it cannot be reduced to a single metric, pleasure, comfort, achievement, because the soul has more than one excellence, and the clause "if there are more than one virtue" instructs that each be exercised, the best and most complete included. On the inclusive reading the compendium favors, one excellence honed alone is a partial reading of the definition, since the clause asks for the best and most complete exercise, not the most convenient one.
+Aristotle's word for what flourishes is psyche, soul, the living person's whole set of capacities: the rational, the desiring that can listen to reason, the bodily feelings that accompany both. The definition's structure takes the range seriously. A good life is activity of soul, so it cannot be reduced to a single metric, pleasure, comfort, achievement, because the soul has more than one excellence, and the clause "if there are more than one virtue" instructs that each be exercised, the best and most complete included. On the inclusive reading I favor, one excellence honed alone is a partial reading of the definition, since the clause asks for the best and most complete exercise, not the most convenient one.
 
-The compendium pairs the concept with its emodiversity principle: a full soul registers the whole scale, and flourishing measured on it is a richer thing than flourishing measured on satisfaction alone.
+I pair the concept with its emodiversity principle: a full soul registers the whole scale, and flourishing measured on it is a richer thing than flourishing measured on satisfaction alone.
 
-### In the compendium
+### Here
 
 - [[PP001 — Distinguish hedonic from eudaimonic well-being]] — the measurement distinction the concept explains
 - [[AF034 — Cultivate equanimity — the capacity to remain steady amid affect]] — steadiness across the range rather than suppression of it

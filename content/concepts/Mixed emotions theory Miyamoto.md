@@ -18,7 +18,7 @@ In these studies, the cultural difference depended on the situation ([Miyamoto, 
 
 The abstract situates the work against earlier correlation studies: previous cross-cultural comparisons had found East Asians more likely than Americans to feel dialectical emotions, while this study examined co-occurrence in a given situation ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)).
 
-### In the compendium
+### Here
 
 - [[AF006 — Accept mixed feelings; do not force them to resolve]] lists this topic as a psychology parallel.
 

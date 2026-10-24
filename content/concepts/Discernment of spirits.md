@@ -23,16 +23,16 @@ In the second set, Ignatius advises: "We ought to note well the course of the th
 
 ### Scope
 
-The Exercises are a devotional text and make theological claims about God and angels that this page does not assess. Treating the rules as a general method for testing experience is the compendium's use, and the source does not say that. A translation of the text, not a scholarly commentary, was consulted.
+The Exercises are a devotional text and make theological claims about God and angels that this page does not assess. Treating the rules as a general method for testing experience is my use, and the source does not say that. A translation of the text, not a scholarly commentary, was consulted.
 
-### In the compendium
+### Here
 
 - [[Y080 — Test what arises for truth]] lists this concept. That principle rests on the Yoga Sūtras and the Gita and does not cite Ignatius, so the link is thematic: both ask how to check what arises in one's own mind.
 
 ## Related concepts
 
 - [[Viveka]] — discrimination between real and unreal in the yogic tradition
-- [[Consolation]] — the compendium's page on Boethius, a different sense of the word
+- [[Consolation]] — my page on Boethius, a different sense of the word
 
 ## Sources
 

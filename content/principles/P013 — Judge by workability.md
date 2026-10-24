@@ -23,7 +23,7 @@ His rule of consequence runs both ways: "There can be no difference anywhere tha
 (James, Pragmatism, 1907.)
 
 **Plain words**
-The compendium uses James's question to examine what a belief would imply in practice. State what you would expect if the belief were true, and what would differ if an alternative were true. Keep those expectations separate from which wording feels more encouraging.
+I use James's question to examine what a belief would imply in practice. State what you would expect if the belief were true, and what would differ if an alternative were true. Keep those expectations separate from which wording feels more encouraging.
 
 *For example:* Imagine two colleagues disagreeing about a rule intended to save meeting time. Ask what each expects to observe in meeting length, preparation or missed work.
 

@@ -13,9 +13,9 @@ The ecological self, in Arne Naess's deep ecology, is the self understood throug
 
 The same passage continues: these relations include relations with "our home bioregion, or with plants and animals which co-inhabit our living space".
 
-### In the compendium
+### Here
 
-- [[R119 — Practise ecological self]] — the compendium's principle for this self
+- [[R119 — Practise ecological self]] — my principle for this self
 - [[P152 — Know yourself ecologically]] — self-knowledge in ecological terms
 - [[R116 — Practise ecological embeddedness]] — the embeddedness practice
 - [[R130 — Practise the more-than-human relational self]]

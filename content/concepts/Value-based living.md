@@ -15,7 +15,7 @@ Value-based living is the Acceptance and Commitment Therapy (ACT) term for the t
 
 The definition turns on a distinction ACT insists on: "In ACT, values are distinguished from goals. Goals are achievable ends. ACT uses goals, as do many other behavioral interventions (Beck, Rush, Shaw, & Emery, 1979; Rollnick & Miller, 1995; Meichenbaum, 1975; Linehan, 1993). However, in ACT, goals are directed by core client values. Unlike goals, values cannot be completed or achieved in an absolute sense" ([Wilson et al., 2010](https://contextualscience.org/sites/default/files/VLQ%20manuscript%20Wilson%20Sandoz%20et%20al.pdf)). The paper's summary sentence has become the field's shorthand: "Values, then, are more like directions in which one travels, than they are like destinations at which one arrives" ([Wilson et al., 2010](https://contextualscience.org/sites/default/files/VLQ%20manuscript%20Wilson%20Sandoz%20et%20al.pdf)). The VLQ itself asks about ten life domains, family, intimate relationships, parenting, friendship, work, education, recreation, spirituality, citizenship, physical self-care, and rates both how important each is and how consistently one has lived it.
 
-### In the compendium
+### Here
 
 - [[E106 — Practise the revaluation of values]] pairs this therapy concept with Nietzsche's revaluation: both put values back under the person's hand, something chosen and revisable rather than inherited as fact, and both treat a life as the evidence of what its values really are.
 

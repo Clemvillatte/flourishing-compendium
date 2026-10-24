@@ -22,7 +22,7 @@ When figures are not reliably available, "a sense of security is not attained, s
 
 The theory's account of how early bonds shape later relationships runs through mental representations. "Bowlby (1973) proposed that such interactions can have enduring, long-term effects on personality development which are mediated by mental representations he called 'attachment working models.'" These are expectations about whether others will respond and whether one is worth responding to, carried forward into new relationships.
 
-### In the compendium
+### Here
 
 - [[PP034 — Build secure attachment]]
 - [[SE047 — Recognise attachment patterns — early relationships shape self-relation]]

@@ -41,7 +41,7 @@ Noelle-Neumann described the process as dynamic: predictions about public opinio
 
 Illustrative scenario, not a study result: someone withholds a dissenting view during a meeting because they expect rejection. The theory directs attention to whether the apparent consensus partly reflects withheld opinions, and to the possibility that one's own silence is tracking the room's climate rather than one's reasons.
 
-### In the compendium
+### Here
 
 - [[CO039 — Recognise optimism bias — you underestimate your personal risk]]
 - [[M055 — End where the tradition ends — rooted, singing, serving, renewed]]

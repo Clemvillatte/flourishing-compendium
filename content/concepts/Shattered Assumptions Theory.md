@@ -27,7 +27,7 @@ The theory has been challenged empirically. The review records the objection tha
 
 Illustrative scenario, not a reported study: a driver who has always assumed careful drivers are safe is rear-ended at a red light. On the theory's account the accident confronts her with information the assumption cannot absorb, and her heightened caution afterward is the schema being rebuilt around new information.
 
-### In the compendium
+### Here
 
 - [[E004 — Practise the lifeworld (Lebenswelt)]] — the pre-theoretical world of lived experience
 - [[E025 — Practise spatiality of Dasein]] — Heidegger on the nearness of the things we deal with

@@ -33,7 +33,7 @@ The Meditations is a notebook, not a treatise. It records practice notes kept du
 - **The morning preparation** — meeting the day's difficult people already prepared. See [[S119 — Begin the morning with premeditation|S119]], [[Spiritual exercises]].
 - **The inner citadel** — the inviolable seat of judgement within. See [[The inner citadel]], [[S064 — Build the inner citadel|S064]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[S014 — Want what actually happens|Want what actually happens]]
 - [[S064 — Build the inner citadel|Build the inner citadel]]
@@ -41,7 +41,7 @@ The Meditations is a notebook, not a treatise. It records practice notes kept du
 - [[The inner citadel|The inner citadel]]
 - [[Sympatheia|Sympatheia]]
 
-## Everything connected in the wiki — the Stoic tradition
+## Everything connected here — the Stoic tradition
 
 Kept to the Stoic tradition — the S-book of principles is the tradition Marcus belongs to, and the Stoic-anchored concepts, stories and sayings that carry his teaching.
 

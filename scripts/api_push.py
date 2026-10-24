@@ -6,13 +6,12 @@ flaky. Mirrors `git push origin HEAD:main` for commits whose diff vs
 origin/main touches files (no merges, no deletions of remote-only files).
 
 Usage: python3 scripts/api_push.py [max_tries]
-Reads legacy authentication from the origin URL, or uses host-scoped proxy
-authentication with --credential-proxy. Never copies proxy credentials.
-Exits 0 when origin/main == HEAD.
+Reads the token from the origin remote URL. Exits 0 when origin/main == HEAD.
 """
 import base64
+import concurrent.futures
+import hashlib
 import json
-import os
 import re
 import subprocess
 import sys
@@ -21,12 +20,6 @@ import urllib.request
 
 REPO = "Clemvillatte/flourishing-compendium"
 API = f"https://api.github.com/repos/{REPO}/git"
-PROXY_AUTH = "--credential-proxy" in sys.argv
-GIT_ENV = dict(os.environ)
-if PROXY_AUTH:
-    # The credential proxy is scoped to api.github.com. Public Git reads
-    # use github.com and must not be sent through that authenticated proxy.
-    GIT_ENV.pop("HTTPS_PROXY", None)
 
 
 def token():
@@ -43,34 +36,12 @@ def token():
 
 
 def api_call(path, method="GET", body=None):
-    if PROXY_AUTH:
-        # curl supports the injected proxy authentication and CA bundle.
-        # Secrets remain in the proxy environment, never command arguments.
-        command = ["curl", "--silent", "--show-error", "--max-time", "45",
-                   "--write-out", "\n%{http_code}", "--request", method,
-                   "--header", "Accept: application/vnd.github+json",
-                   "--header", "User-Agent: api_push"]
-        payload = None
-        if body is not None:
-            command += ["--header", "Content-Type: application/json",
-                        "--data-binary", "@-"]
-            payload = json.dumps(body)
-        command.append(API + path)
-        result = subprocess.run(command, input=payload, text=True,
-                                capture_output=True, check=True)
-        response, status = result.stdout.rsplit("\n", 1)
-        return int(status), json.loads(response or "{}")
-    headers = {"Accept": "application/vnd.github+json",
-               "User-Agent": "api_push"}
-    if not PROXY_AUTH:
-        tok = token()
-        if not tok:
-            raise RuntimeError("No authentication: use --credential-proxy "
-                               "inside pplx credentials run")
-        headers["Authorization"] = f"Bearer {tok}"
+    tok = token()
     req = urllib.request.Request(
         API + path, method=method,
-        headers=headers)
+        headers={"Authorization": f"Bearer {tok}",
+                 "Accept": "application/vnd.github+json",
+                 "User-Agent": "api_push"})
     data = json.dumps(body).encode() if body is not None else None
     if data:
         req.add_header("Content-Type", "application/json")
@@ -81,15 +52,38 @@ def api_call(path, method="GET", body=None):
         return e.code, json.loads(e.read() or b"{}")
 
 
+CACHE_PATH = "/tmp/apipush_blob_cache.json"
+
+
+def git_blob_sha(raw):
+    h = hashlib.sha1()
+    h.update(b"blob %d\0" % len(raw))
+    h.update(raw)
+    return h.hexdigest()
+
+
+def load_cache():
+    try:
+        return set(json.load(open(CACHE_PATH)))
+    except Exception:
+        return set()
+
+
+def save_cache(cache):
+    try:
+        json.dump(sorted(cache), open(CACHE_PATH, "w"))
+    except Exception:
+        pass
+
+
 def main():
-    positional = [a for a in sys.argv[1:] if a != "--credential-proxy"]
-    max_tries = int(positional[0]) if positional else 10
+    max_tries = int(sys.argv[1]) if len(sys.argv) > 1 else 10
     for attempt in range(1, max_tries + 1):
         # local state: fetch + rebase our commits onto latest origin/main first
         subprocess.run(["git", "fetch", "-q", "origin"],
-                       check=True, capture_output=True, env=GIT_ENV)
+                       check=True, capture_output=True)
         subprocess.run(["git", "pull", "-q", "--rebase", "origin", "main"],
-                       capture_output=True, env=GIT_ENV)
+                       capture_output=True)
         head = subprocess.check_output(
             ["git", "rev-parse", "HEAD"], text=True).strip()
         origin = subprocess.check_output(
@@ -115,36 +109,63 @@ def main():
         # remote head (authoritative, CAS base)
         st, ref = api_call("/ref/heads/main")
         if st != 200:
-            print(f"ref fetch failed {st}: {ref}"); time.sleep(3); continue
+            print(f"ref fetch failed {st}: {ref}", flush=True); time.sleep(3); continue
         remote_sha = ref["object"]["sha"]
         if remote_sha != origin:
             # remote moved beyond our fetch; refetch and rebase again
             time.sleep(1); continue
         st, rc = api_call(f"/commits/{remote_sha}")
         base_tree = rc["tree"]["sha"]
-        # blobs for changed files
-        tree_items = []
+        # blobs for changed files (concurrent upload, resume-safe)
+        payloads = []
         ok = True
         for f in files:
             try:
                 raw = subprocess.check_output(["git", "show", f"{head}:{f}"])
             except subprocess.CalledProcessError:
-                print(f"file {f} missing in HEAD (deletion unsupported here)")
+                print(f"file {f} missing in HEAD (deletion unsupported here)",
+                      flush=True)
                 ok = False; break
-            st, blob = api_call("/blobs", "POST", {
-                "content": base64.b64encode(raw).decode(),
-                "encoding": "base64"})
-            if st != 201:
-                print(f"blob failed {st} for {f}: {blob}")
-                ok = False; break
-            tree_items.append({"path": f, "mode": "100644",
-                               "type": "blob", "sha": blob["sha"]})
+            payloads.append((f, raw))
         if not ok:
+            time.sleep(3); continue
+        cache = load_cache()
+        state = {"done": 0, "lock": __import__("threading").Lock()}
+
+        def upload(item):
+            f, raw = item
+            sha = git_blob_sha(raw)
+            if sha not in cache:
+                for _ in range(3):
+                    st, blob = api_call("/blobs", "POST", {
+                        "content": base64.b64encode(raw).decode(),
+                        "encoding": "base64"})
+                    if st == 201:
+                        if blob["sha"] != sha:
+                            return None
+                        cache.add(sha)
+                        break
+                    time.sleep(1)
+                else:
+                    return None
+            with state["lock"]:
+                state["done"] += 1
+                if state["done"] % 250 == 0:
+                    print(f"blobs {state['done']}/{len(payloads)}", flush=True)
+            return {"path": f, "mode": "100644", "type": "blob", "sha": sha}
+
+        tree_items = [None] * len(payloads)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+            for i, res in enumerate(ex.map(upload, payloads)):
+                tree_items[i] = res
+        save_cache(cache)
+        if any(t is None for t in tree_items):
+            print("some blobs failed; retrying", flush=True)
             time.sleep(3); continue
         st, tree = api_call("/trees", "POST",
                             {"base_tree": base_tree, "tree": tree_items})
         if st != 201:
-            print(f"tree failed {st}: {tree}"); time.sleep(3); continue
+            print(f"tree failed {st}: {tree}", flush=True); time.sleep(3); continue
         msg = subprocess.check_output(
             ["git", "log", "-1", "--format=%B", head], text=True).strip()
         author = {
@@ -157,13 +178,12 @@ def main():
             "message": msg, "tree": tree["sha"], "parents": [remote_sha],
             "author": author})
         if st != 201:
-            print(f"commit failed {st}: {commit}"); time.sleep(3); continue
+            print(f"commit failed {st}: {commit}", flush=True); time.sleep(3); continue
         st, upd = api_call("/refs/heads/main", "PATCH",
                            {"sha": commit["sha"], "force": False})
         if st in (200, 201):
-            subprocess.run(["git", "fetch", "-q", "origin"],
-                           capture_output=True, env=GIT_ENV)
-            print(f"pushed via API: {commit['sha'][:8]} {msg.splitlines()[0]}")
+            subprocess.run(["git", "fetch", "-q", "origin"], capture_output=True)
+            print(f"pushed via API: {commit['sha'][:8]} {msg.splitlines()[0]}", flush=True)
             # resync local branch to remote commit
             subprocess.run(["git", "reset", "-q", "--hard", "origin/main"],
                            capture_output=True)

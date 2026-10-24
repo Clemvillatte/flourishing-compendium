@@ -15,7 +15,7 @@ Valuation as inquiry is the Deweyan move this compendium takes from Theory of Va
 
 The move works because, for Dewey, ends are not fixed targets that valuation merely aims at. As the same book argues, the object finally valued as an end is itself "determined in its concrete makeup by appraisal of existing conditions as means" ([Dewey, Theory of Valuation](https://archive.org/stream/theoryofvaluatio032168mbp/theoryofvaluatio032168mbp_djvu.txt)). Since the end is shaped by the means, and the means are judged by the end, the whole circuit can be checked against consequences: a value is held the way a hypothesis is held, and a life is the experiment.
 
-### In the compendium
+### Here
 
 - [[P125 — Treat values as experimental]] carries the practice directly: hold a value as a working commitment, watch what it actually produces, and let the results revise the value instead of defending it.
 

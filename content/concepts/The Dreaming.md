@@ -23,7 +23,7 @@ The Dreaming is the term for the Aboriginal Australian account of the world's or
 
 ### The translation limit
 
-Stanner gives the caveat in his own text: the word "suffers badly by translation into our dry and abstract language," and he records the elder Muta's formulation of the gap: "White man got no dreaming, Him go 'nother way. White man, him go different. Him got road belong himself" ([quoted in the Taylor & Francis paper](https://www.tandfonline.com/doi/full/10.1080/13504622.2025.2527895)). The compendium's principles on connection to spirituality and respect for the Dreaming hold the concept with that limit in view: the English rendering is Stanner's scholarly account, not the concept itself.
+Stanner gives the caveat in his own text: the word "suffers badly by translation into our dry and abstract language," and he records the elder Muta's formulation of the gap: "White man got no dreaming, Him go 'nother way. White man, him go different. Him got road belong himself" ([quoted in the Taylor & Francis paper](https://www.tandfonline.com/doi/full/10.1080/13504622.2025.2527895)). My principles on connection to spirituality and respect for the Dreaming hold the concept with that limit in view: the English rendering is Stanner's scholarly account, not the concept itself.
 
 ## Related concepts
 

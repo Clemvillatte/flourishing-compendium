@@ -29,9 +29,9 @@ Descartes ties the rules to his admiration for the long chains of simple reasoni
 
 ### Limits of this page
 
-Only Part II was used. This page does not assess whether the rule works in practice. The compendium's links to debiasing and to practice are the compendium's own extensions, and Descartes does not discuss cognitive bias.
+Only Part II was used. This page does not assess whether the rule works in practice. My links to debiasing and to practice are my own extensions, and Descartes does not discuss cognitive bias.
 
-### In the compendium
+### Here
 
 - [[D165 — Cut complexity back to simplicity]] cites this concept in the philosophy parallels.
 - [[SP062 — Moderate the pleasures of the table and of comfort]], [[P128 — Begin in conversation]] and [[CO027 — Learn debiasing — it is possible but hard]] cite it as well.

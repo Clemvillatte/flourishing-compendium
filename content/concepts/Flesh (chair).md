@@ -15,7 +15,7 @@ Flesh (la chair) is Merleau-Ponty's name, in The Visible and the Invisible, for 
 
 The body doubles into sensible and sentient aspects in self-touch, and the relationship is reversible, like obverse and reverse or two segments of one sole circular course. The generality of flesh embraces an intercorporeity, an anonymous sensibility shared among distinct bodies; the handshake too is reversible. In order to see, the body must itself be part of the visible and capable of being seen.
 
-### In the compendium
+### Here
 
 - [[E018 — Practise the reversibility of flesh]] — the principle that works the touching-touched structure, quoting the Intertwining chapter
 

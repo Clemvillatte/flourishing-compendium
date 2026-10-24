@@ -11,13 +11,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### The refrain that does the work
 
-What makes the practice right is less the objects than the posture toward them. For each of the four frames the instruction returns to the same refrain: "ardent, alert, & mindful — putting aside greed & distress with reference to the world" ([MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The observation is not detached watching; it is effortful and free of grasping. The compendium's Y026 kernel gives the everyday version: bring the mind back, without drama.
+What makes the practice right is less the objects than the posture toward them. For each of the four frames the instruction returns to the same refrain: "ardent, alert, & mindful — putting aside greed & distress with reference to the world" ([MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). The observation is not detached watching; it is effortful and free of grasping. My Y026 kernel gives the everyday version: bring the mind back, without drama.
 
 ### What the trials show
 
 A modern clinical comparison comes from research on mindfulness meditation programs in adult clinical populations, and the evidence there is real but modest ([Goyal et al. 2014, JAMA Internal Medicine](https://pubmed.ncbi.nlm.nih.gov/24395196/)). A 2014 meta-analysis of 47 randomized trials with active controls found mindfulness programs had moderate evidence of improved anxiety, depression and pain, with low or insufficient evidence for effects on positive mood, attention, sleep and other outcomes, and no evidence that meditation programs were better than any active treatment — drugs, exercise, or other behavioral therapies. The reviewers' conclusion was measured: clinicians should be prepared to talk with patients about the role a meditation program could have in addressing psychological stress ([Goyal et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24395196/)).
 
-### In the compendium
+### Here
 
 The attention principles operationalise it: AT007 on attention shaping experience, AT024 on attentional presence, AT034 on metacognitive awareness of attention, SE028 on mindful self-awareness without over-identifying. PP060 adds the honest caveat: match the practice to the person. ST071's wind-and-flag story gives it its koan: it is not the wind or the flag that moves — it is the mind.
 
@@ -26,8 +26,8 @@ The attention principles operationalise it: AT007 on attention shaping experienc
 - [[Right view]] — sees what is actually occurring, so mindfulness has something true to observe
 - [[Right concentration]] — steadies the attention that mindfulness keeps honest
 - [[Sati]] — the Pali word for mindfulness, of which this is the path-factor form
-- [[Mindfulness]] — the compendium's entry for the modern practice family
-- [[Meta-awareness]] — knowing that one is aware, a capacity the compendium pairs with sati
+- [[Mindfulness]] — my entry for the modern practice family
+- [[Meta-awareness]] — knowing that one is aware, a capacity I pair with sati
 - [[Decentering]] — watching thoughts as events rather than facts
 - [[Cognitive defusion]] — unhooking from thought content, the clinical cousin
 - [[Acceptance]] — letting what arises be as it is

@@ -14,7 +14,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 What makes craving the origination of stuckness is that it manufactures its own next round: the relishing "now here & now there" is what keeps the wheel turning, which is why the third truth aims not at the world but at the reaching. The remedy sentence: "And this, monks, is the noble truth of the cessation of stress: the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving." Read as stuckness, the diagnosis is exact where moralizing is not: the problem is not that one wants things, but that the wanting has become the thing one cannot put down. Grief, inertia, and rumination all fit this shape — a process that has stopped moving and keeps itself going.
 
-## In the compendium
+## Here
 
 - [[AF052 — Learn to grieve — grief is a process, not a problem to solve]]
 - [[AF014 — Recognise emotional inertia — the difference between feeling and getting stuck]]

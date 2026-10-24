@@ -33,7 +33,7 @@ Inertia is measured as an autocorrelation, the tie between consecutive readings 
 
 Illustrative scenario: irritation after a difficult meeting persists into a later conversation. The research question is whether earlier irritation predicts later irritation across repeated observations. This scenario illustrates carryover; it does not demonstrate a treatment effect or forecast an individual's depression risk.
 
-### In the compendium
+### Here
 
 - [[AF010 — Recognise that affect has temporal structure — intensity, duration, variability, recovery]] — inertia is one of the temporal properties this principle asks a reader to track
 - [[AF013 — Train emotional recovery — the ability to return to baseline]] — raises the related question of how emotions change following an event

@@ -20,9 +20,9 @@ In the following essay, James identifies recognition of these otherwise unseen m
 
 > "The first thing to learn in intercourse with others is non-interference with their own peculiar ways of being happy, provided those ways do not assume to interfere by violence with ours." (James, "What Makes a Life Significant," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
 
-The compendium's proposed practice: tolerance on this ground is not indifference, because James's reason for tolerating is that the other person's life holds meanings the spectator cannot see, and indifference writes those meanings off. His "partial superiority" clause also gives each position something the others lack, which is a reason to keep the conversation going rather than a license to end it.
+My proposed practice: tolerance on this ground is not indifference, because James's reason for tolerating is that the other person's life holds meanings the spectator cannot see, and indifference writes those meanings off. His "partial superiority" clause also gives each position something the others lack, which is a reason to keep the conversation going rather than a license to end it.
 
-The compendium's exercise: the next time you are about to dismiss how someone spends their time, ask what the activity means to them, or ask them directly, before concluding that it means nothing.
+My exercise: the next time you are about to dismiss how someone spends their time, ask what the activity means to them, or ask them directly, before concluding that it means nothing.
 
 **Plain words**
 Other people's interests can matter deeply to them even when they leave you cold. Before dismissing one as pointless, ask what you may be missing. James asks for respect for harmless ways of being happy.

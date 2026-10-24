@@ -25,7 +25,7 @@ The case against venting is even shorter. Brad Bushman's punching-bag experiment
 
 The original entry's rule is a default, not a law. Gross's own caution is that "the outcome profile that is 'best' in a particular case will depend upon the details of the person, the situation, and the goals that person has in that situation", and that reappraisal "breaks down" at very high emotion intensity, where distraction may work better ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)).
 
-### In the compendium
+### Here
 
 - [[D042 — Guard the center]] — the Daodejing's warning against being swept, the classical form of the regulation goal
 - [[AF005 — Learn to read your own body — interoception]] — the first-level system's signals, read

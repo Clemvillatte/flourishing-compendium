@@ -13,7 +13,7 @@ The developmental psychopathology framework, built by Dante Cicchetti and collea
 
 Two of its working principles are equifinality and multifinality: "similar adverse experiences can result in diverse outcomes (multifinality) and... different types of adversity may eventuate in similar outcomes (equifinality)". Risk, on this view, is probabilistic, and the same framework covers resilience: its investigators "are as invested in understanding pathways to competent outcomes despite adversity as they are in addressing maladaptive trajectories", and equally in why some people who have "diverged onto a deviant pathway are able to resume positive functioning".
 
-### In the compendium
+### Here
 
 - [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]], [[X015 — Study the commanding self as your specific opponent]], [[M055 — End where the tradition ends — rooted, singing, serving, renewed]] and [[D156 — Stay flexible — rigidity is death's companion]] are this concept's philosophy parallels
 

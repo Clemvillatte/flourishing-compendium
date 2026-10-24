@@ -18,7 +18,7 @@ In "Is Life Worth Living?", James argues that trust can help shape the outcome i
 >
 > (William James, "Is Life Worth Living?")
 
-His closing instruction carries the same structure: "These, then, are my last words to you: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact." The compendium offers a separate practical exercise: test a limited belief about an action by attempting it and describing what happened.
+His closing instruction carries the same structure: "These, then, are my last words to you: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact." I offer a separate practical exercise: test a limited belief about an action by attempting it and describing what happened.
 
 (James, "Is Life Worth Living?", in The Will to Believe and Other Essays in Popular Philosophy, 1896.)
 

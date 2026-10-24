@@ -15,7 +15,7 @@ The book's emblem of movement is Cook Ding, whose blade has stayed sharp for nin
 
 The cognition that matches is what Zhuangzi calls flowing: "an 'illumined' awareness that exhibits an intuitive knowledge of how to act without even knowing that it is acting" ([SEP, Zhuangzi](https://plato.stanford.edu/archives/win2004/entries/zhuangzi/)).
 
-### In the compendium
+### Here
 
 The principles put the cosmology into practice. M002 expects the cosmos itself to be motion and M004 treats balance as a daily practice, not a state, the movement reading of equilibrium; B020's threefold training and AT004's directed attention are the disciplines that ride it; E073 avoids the adventurer's forced motion; ST101's Olamina organises around change, ST323's Guido makes it a game, and ST135's Cheryl Strayed walks off grief, three stories of movement as the form a life takes.
 

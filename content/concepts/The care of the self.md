@@ -13,7 +13,7 @@ Care of the self is a theme in Michel Foucault's later studies of ancient ethics
 
 Foucault examines this relationship in ancient Greek and Roman sexual ethics, including choices about a style of existence. The SEP entry also emphasizes that people participate in shaping themselves through practices of the self.
 
-### In the compendium
+### Here
 
 - [[R060 — Practise self-cultivation (xiushen)]]
 - [[E068 — Practise being-for-others]]

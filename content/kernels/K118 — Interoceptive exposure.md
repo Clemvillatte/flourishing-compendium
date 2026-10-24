@@ -14,7 +14,7 @@ Deliberately induce feared bodily sensations, spinning, rapid breathing, heart-r
 
 ### Protocol
 
-*Steps follow the clinical protocol as taught to patients (University of Washington anxiety clinic handout); the everyday framing is the compendium's.*
+*Steps follow the clinical protocol as taught to patients (University of Washington anxiety clinic handout); the everyday framing is my.*
 
 1. Elicit the feared body sensation deliberately: hyperventilation, spinning, breath holding, running in place, breathing through a straw.
 2. "Maintain the feared body sensations without distraction or avoidance," letting "new learning about the bodily sensations take place"; stopping early counts as avoiding.

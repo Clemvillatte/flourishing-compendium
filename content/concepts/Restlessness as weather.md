@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The label "restlessness as weather" is this wiki's phrase; the sources I opened do not use it. The Gita verses it cites speak of wind. In Swami Mukundananda's translation, Arjuna says: "The mind is very restless, turbulent, strong and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind." Krishna answers: "what you say is correct; the mind is indeed very difficult to restrain. But by practice and detachment, it can be controlled" ([Bhagavad Gita 6.34, Swami Mukundananda](https://www.holy-bhagavad-gita.org/chapter/6/verse/34); [Bhagavad Gita 6.35](https://www.holy-bhagavad-gita.org/chapter/6/verse/35)).
 
-### Where the Gita and the wiki part ways
+### Where the Gita and I part ways
 
-The Gita says the mind can be restrained by practice (abhyasa) and detachment (vairagya). That is a language of control, whereas the wiki principle "Treat restlessness as weather, not as enemy" suggests letting it pass. The Gita does not say that the mind should be left alone, so cite the verses for the weather-like quality of the mind, not for the non-resistance stance.
+The Gita says the mind can be restrained by practice (abhyasa) and detachment (vairagya). That is a language of control, whereas my principle "Treat restlessness as weather, not as enemy" suggests letting it pass. The Gita does not say that the mind should be left alone, so cite the verses for the weather-like quality of the mind, not for the non-resistance stance.
 
 ### A Buddhist parallel
 

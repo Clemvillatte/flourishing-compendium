@@ -20,7 +20,7 @@ The same reflection is extended to the other conditions, and the discourse conne
 
 ### Plain words
 
-The compendium suggests noticing when a particular success or setback has become your whole account of yourself. Name what happened and ask what response it calls for. Allowing that circumstances can change does not require dismissing a loss, ignoring criticism or expecting distress to disappear quickly.
+I suggest noticing when a particular success or setback has become your whole account of yourself. Name what happened and ask what response it calls for. Allowing that circumstances can change does not require dismissing a loss, ignoring criticism or expecting distress to disappear quickly.
 
 ### For example
 

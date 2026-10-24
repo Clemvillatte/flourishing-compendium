@@ -7,7 +7,7 @@ file: "Monastic hours"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-The compendium uses "Monastic hours" for the fixed times of prayer that structure the monastic day. The Wikipedia article on the concept:
+I use "Monastic hours" for the fixed times of prayer that structure the monastic day. The Wikipedia article on the concept:
 
 > "In the practice of Christianity, canonical hours mark the divisions of the day in terms of fixed times of prayer at regular intervals." ([Wikipedia, Canonical hours](https://en.wikipedia.org/wiki/Canonical_hours))
 

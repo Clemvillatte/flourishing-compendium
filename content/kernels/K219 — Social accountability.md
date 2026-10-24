@@ -14,7 +14,7 @@ Tell one person about the goal or practice, and let them ask you about it. The d
 
 ### Protocol
 
-*The steps below are the compendium's editorial protocol, patterned on the Matthews study's most effective condition.*
+*The steps below are my own protocol, patterned on the Matthews study's most effective condition.*
 
 1. Choose one person who will receive the commitment: a friend, not an enforcer.
 2. Write the goal and the specific actions down, and send that written commitment to the person.

@@ -21,7 +21,7 @@ Her field example is the Kuuk Thaayorre language of northern Australia: "the Kuu
 
 The relation is not one-way determinism: "The answer, it turns out, is both—the way we think influences the way we speak, but the influence also goes the other way. The past decade has seen a host of ingenious demonstrations establishing that language indeed plays a causal role in shaping cognition. Studies have shown that changing how people talk changes how they think." Her examples: teaching people new color words changes their ability to discriminate colors, and a new way of talking about time gives a new way of thinking about it.
 
-The compendium's principles carry the finding across tracks: language as cultural practice, the role of words in thinking, and the way language shapes what can be seen.
+My principles carry the finding across tracks: language as cultural practice, the role of words in thinking, and the way language shapes what can be seen.
 
 ## Facets
 

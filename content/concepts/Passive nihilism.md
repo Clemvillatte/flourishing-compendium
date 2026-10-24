@@ -15,15 +15,15 @@ Passive nihilism is Nietzsche's name for the weakened form of the loss of values
 
 Both forms face the same event — the guiding values and ideals are gone. The article frames Nietzsche's understanding of the event itself: he "understood it as a broad cultural phenomenon in which people lose the values and ideals guiding their lives", exploring "the causes and consequences of this shift in evaluative outlook, examining reactions to it and ways of overcoming it". Passive nihilism is one reaction: instead of using the loss of meaning to dismantle worn-out values, it hides the loss behind the old dogmas and norms, denying life while pretending to keep it.
 
-### In the compendium
+### Here
 
-- [[Nihilism]] — the compendium's page on nihilism
+- [[Nihilism]] — my page on nihilism
 
 ## Related concepts
 
-- [[Nihilism]] — the compendium's page on nihilism
-- [[Will to power]] — the compendium's page on the will to power
-- [[Amor fati]] — the compendium's page on love of fate
+- [[Nihilism]] — my page on nihilism
+- [[Will to power]] — my page on the will to power
+- [[Amor fati]] — my page on love of fate
 
 ## Sources
 

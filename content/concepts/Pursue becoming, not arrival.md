@@ -19,7 +19,7 @@ His alternative is a direction rather than a finish line:
 
 > Growth is instead a continued, more or less steady upward or forward development. (Maslow, 1968, ch. 3)
 
-For the compendium's principles, the phrase marks this shift: the goal-shaped picture of flourishing, in which one arrives and then maintains, gives way to a process-shaped one in which the pursuit itself is the thing being described. Maslow's own caution supplies the check on the static reading: because he studied self-actualization mostly in older people, the arrival picture was partly a sampling artifact, and the dynamic reading fits what he observed across whole life histories. A person working from this concept is not asked where they have gotten to, but which way they are moving and whether gratification is breeding further motivation.
+For my principles, the phrase marks this shift: the goal-shaped picture of flourishing, in which one arrives and then maintains, gives way to a process-shaped one in which the pursuit itself is the thing being described. Maslow's own caution supplies the check on the static reading: because he studied self-actualization mostly in older people, the arrival picture was partly a sampling artifact, and the dynamic reading fits what he observed across whole life histories. A person working from this concept is not asked where they have gotten to, but which way they are moving and whether gratification is breeding further motivation.
 
 ## Related concepts
 

@@ -18,9 +18,9 @@ The model's central comparison pits cognitive change against response modulation
 
 The page's seed line states the model's practical discovery: regulation works best early in the process, on situations and attention, before the full-blown response demands late, costly output control. The model's later extension adds stages before strategy choice — identifying the emotion, selecting a strategy, implementing it — and the research frontier has moved to flexibility: strategies help in context-specific ways, and the aim is a repertoire deployed to fit the situation (Gross, 2015).
 
-### In the compendium
+### Here
 
-The compendium's principles cluster around the timing insight. S049, "Replace first movements with considered responses," and B116, "Catch irritation early — sparks before fires," are the early-intervention rule; B183, "Ride strong emotions without acting," is modulation without suppression; PP017, "Regulate negative emotion without suppressing it," is the reappraisal-versus-suppression finding stated as a principle. B084's antidotes and S068's healthy-versus-unhealthy distinction sort strategies, B054's equanimity and B007's cooling are the contemplative versions, and R063, "Practise the rectification of the mind (zhengxin)," is the Confucian cousin. The anger-specific evidence lives on the Anger regulation research page.
+My principles cluster around the timing insight. S049, "Replace first movements with considered responses," and B116, "Catch irritation early — sparks before fires," are the early-intervention rule; B183, "Ride strong emotions without acting," is modulation without suppression; PP017, "Regulate negative emotion without suppressing it," is the reappraisal-versus-suppression finding stated as a principle. B084's antidotes and S068's healthy-versus-unhealthy distinction sort strategies, B054's equanimity and B007's cooling are the contemplative versions, and R063, "Practise the rectification of the mind (zhengxin)," is the Confucian cousin. The anger-specific evidence lives on the Anger regulation research page.
 
 ## Related concepts
 

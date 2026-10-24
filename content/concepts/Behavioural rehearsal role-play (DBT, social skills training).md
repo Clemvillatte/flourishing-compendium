@@ -20,7 +20,7 @@ If a participant declines role-play, the situation becomes a story in dialogue r
 
 DBT teaches four skill sets: core mindfulness, interpersonal effectiveness, emotion regulation and distress tolerance ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). According to Cowperthwait and colleagues, Linehan's 2015 manual reviewed 15 randomized controlled trials of DBT skills training groups, describing reductions in emotion-related dysfunction including depression, anger and emotion dysregulation ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). The same chapter reports one transdiagnostic trial in which a DBT skills group alone outperformed an activities-based support group on emotion dysregulation and anxiety, with skills use statistically mediating the changes ([Cowperthwait et al. 2018](https://academic.oup.com/edited-volume/38169/chapter/333009837)). These trials evaluate DBT skills-training packages; they do not isolate rehearsal's contribution from instruction, coaching and homework.
 
-### In the compendium
+### Here
 
 BE021 "Learn to use behavioural rehearsal: practise before performing" carries the practice: rehearse the hard conversation or the assertive no where nothing is on the line. BE004 "Understand that behaviour is learned: skills can be acquired" supplies the premise that deficits are learnable rather than fixed.
 

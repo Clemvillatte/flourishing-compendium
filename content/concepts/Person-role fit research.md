@@ -15,7 +15,7 @@ The research line on whether a person's abilities and needs match the demands of
 
 The second dimension, needs-supplies fit, covers the other direction: whether the role meets the person's needs and desires, for example "opportunities for individual growth and skill development" ([DeRue & Morgeson, 2007](http://www.morgeson.com/downloads/derue_morgeson_2007.pdf)). Their longitudinal study found role fit dynamic rather than fixed: "perceptions of person–role fit in teams are dynamic", and "individuals' growth satisfaction and performance were positively related to increases in person–role fit over time", with general self-efficacy moderating the performance effect ([DeRue & Morgeson, 2007, abstract](http://www.morgeson.com/downloads/derue_morgeson_2007.pdf)).
 
-### In the compendium
+### Here
 
 - [[D086 — Don't sell your nature for glory]] — asks whether an attractive role's rewards justify their costs to freedom and existing commitments; the study's two fit dimensions offer a separate way to examine that choice.
 

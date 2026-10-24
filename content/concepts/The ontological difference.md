@@ -27,7 +27,7 @@ The forgetting is described as a slow slide. According to the IEP, the distincti
 
 The ontological difference is not a distinction between two kinds of thing, as if being were a very large entity placed beside the others. That is the mistake the IEP's wording rules out. The passages above are an encyclopaedia's summary of Heidegger, and this page does not claim to reproduce his own argument in Being and Time.
 
-### In the compendium
+### Here
 
 - [[E100 — Practise the ontological difference]]
 - [[E099 — Practise the question of being]]

@@ -11,7 +11,7 @@ The skandhas (Sanskrit; Pali khandha) are the five aggregates — form (rūpa), 
 
 > "Thus, monks, any form whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every form is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" (Anattalakkhaṇa Sutta, SN 22.59, [trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
 
-The compendium's reading (principle B120): experience is five streams, not one owner. There is no pilot; there is weather. The Khandhasaṁyutta (SN 22) adds the qualifier that matters — it is the five aggregates subject to clinging (upādānakkhandhā) that are dukkha. The aggregates are not the problem; the grasping is.
+My reading (principle B120): experience is five streams, not one owner. There is no pilot; there is weather. The Khandhasaṁyutta (SN 22) adds the qualifier that matters — it is the five aggregates subject to clinging (upādānakkhandhā) that are dukkha. The aggregates are not the problem; the grasping is.
 
 The skandha analysis is the Buddhist member of a family of deconstructive accounts of the person: Hume's bundle of perceptions, the narrative self of psychology, and the Five Aggregates' role as the diagnostic basis for anatta. Its cross-tradition work is to dissolve the sense of a solid self without denying experience.
 

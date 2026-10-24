@@ -24,10 +24,10 @@ Organisms need not be conscious for this: "conscious or not, all are equally tel
 
 The Colorado copy is an excerpt of the 1981 article. Taylor's four-part biocentric outlook is not quoted here, and the criticisms of his view are not assessed. Treat this page as a statement of what Taylor claims, not an assessment of it.
 
-### In the compendium
+### Here
 
 - D084 (Value the useless) and P187 (Separate the religious quality of experience from religion) are listed with this concept; their link is thematic.
-- MO003 and PP021 concern intrinsic versus extrinsic motivation and process over outcome. The shared word "intrinsic" is a bridge in the compendium, not a claim in Taylor.
+- MO003 and PP021 concern intrinsic versus extrinsic motivation and process over outcome. The shared word "intrinsic" is a bridge here, not a claim in Taylor.
 - P117 and ST301 are also listed with this concept.
 - D063, MO014 and R118 are the other principles that cite this concept.
 

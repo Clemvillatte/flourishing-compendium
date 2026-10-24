@@ -37,9 +37,9 @@ The world splits into what is yours and what is not. "Of things some are in our 
 - **Adversity as training** — hardship is practice material, not harm. See [[S092 — Treat adversity as training|S092]], [[S121 — Practise voluntary discomfort|S121]], [[Negative visualisation]].
 - **Philosophy as practice** — doctrines are for living; the school is a doctor's surgery. See [[S009 — Make philosophy a way of life, not a set of doctrines|S009]], [[S131 — Make Stoicism a lifelong practice, not a phase|S131]].
 
-## Connected in the wiki — the Stoic tradition
+## Connected here — the Stoic tradition
 
-The page keeps to the corpus's Stoic book, the S principles, plus the concepts, stories and sayings the compendium derives from Epictetus; other traditions cite him as a parallel, and linking every parallel would drown the graph.
+The page keeps to the corpus's Stoic book, the S principles, plus the concepts, stories and sayings I derive from Epictetus; other traditions cite him as a parallel, and linking every parallel would drown the graph.
 
 ### Principles (69)
 - [[S001 — Distinguish what is up to you from what is not|Distinguish what is up to you from what is not]]

@@ -26,9 +26,9 @@ The phrase did not always carry this friendly sense. Augustine's [City of God](h
 
 Aristotle had split the concept: the good man "should be a lover of self" for gratifying the most authoritative element in himself, the blamed self-lover for gratifying appetite ([Nicomachean Ethics IX.8](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)). Kierkegaard's [Works of Love](https://academic.oup.com/edited-volume/34339/chapter/327339576) (1847) argues the commandment to love the neighbour as oneself, properly understood, "also says the opposite: You shall love yourself in the right way" (Works of Love, p. 22).
 
-### In the compendium
+### Here
 
-The compendium carries amor sui in its self-relationship principles. AF066 and SE025, "Cultivate self-compassion: treat yourself as you would a good friend," read right self-love as a practice. SE004, "Understand that self-esteem is not the same as self-worth," draws a parallel distinction between feedback-dependent and stable self-regard. SE012 and SE017, on self-relation as a trainable skill and on the inner critic, work this page's original facet, right self-love against self-contempt.
+I carrie amor sui in its self-relationship principles. AF066 and SE025, "Cultivate self-compassion: treat yourself as you would a good friend," read right self-love as a practice. SE004, "Understand that self-esteem is not the same as self-worth," draws a parallel distinction between feedback-dependent and stable self-regard. SE012 and SE017, on self-relation as a trainable skill and on the inner critic, work this page's original facet, right self-love against self-contempt.
 
 B097, "Wish well, starting with yourself," is the metta parallel; A015, "Practice magnanimity (megalopsychia)," the Aristotelian one. These are comparisons, not claims of influence.
 
@@ -49,7 +49,7 @@ Spinoza called honour rooted in popular approval "really empty, being nothing" (
 - [[Authentic versus hubristic pride]] — the empirical analogue of Spinoza's split between grounded and comparative self-joy
 - [[Magnanimity]] — Aristotle's honest sense of one's own worth, neither inflated nor deflated
 - [[SE021]] — A comparison with SE021 on the conditions people place on feeling worthwhile
-- [[SP060]] — the compendium's principle on building true self-esteem
+- [[SP060]] — my principle on building true self-esteem
 ## Sources
 
 - [Spinoza, Ethics (Elwes translation, Project Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — IIIp55s and Definitions of the Emotions XXV, XXVIII; IVp18s, IVp37, IVp52+s, IVp56, IVp57s, IVp58s: the self-love passages

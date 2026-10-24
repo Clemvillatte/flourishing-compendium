@@ -18,7 +18,7 @@ Aristotle's line, from the Nicomachean Ethics:
 
 > "Now by sufficient for Self, we mean not for a single individual living a solitary life, but for his parents also and children and wife, and, in general, friends and countrymen; for man is by nature adapted to a social existence." — [Aristotle, Nicomachean Ethics I.7, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)
 
-The weekly menu of contributions is the compendium's editorial design; the social existence it serves is Aristotle's ([Nicomachean Ethics I.7, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
+The weekly menu of contributions is my own design; the social existence it serves is Aristotle's ([Nicomachean Ethics I.7, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
 
 ### Protocol
 

@@ -11,7 +11,7 @@ In Whitehead's philosophy, prehensions are processes of data transfer integrated
 
 > "The basic unit of reality in Whitehead's system is an event-like entity called 'actual occasion,' which is the procedural integration or 'concrescence' of processes of data transfer ('prehensions') into unities that become new data." ([Seibt, "Process Philosophy", SEP](https://plato.stanford.edu/entries/process-philosophy/))
 
-The compendium's principles P003 (Relation is primary) and P072 (Grow by incorporating the other) both reference the concept.
+My principles P003 (Relation is primary) and P072 (Grow by incorporating the other) both reference the concept.
 
 ## Sources
 

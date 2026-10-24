@@ -23,7 +23,7 @@ The promise is the test case because it is identity stretched over time: Rodrigu
 
 **Plain words** One kind of sameness is your hardware and habits: the person people recognise. The other kind is keeping your word across time, which can survive even large changes in the person keeping it.
 
-### In the compendium
+### Here
 
 - [[E086 — Practise idem and ipse identity]]: the principle built on the distinction
 

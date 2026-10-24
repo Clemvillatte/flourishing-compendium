@@ -27,7 +27,7 @@ He states the aim of this inquiry:
 (Ricoeur, 1975/1981, "The Hermeneutical Function of Distanciation," in Hermeneutics and the Human Sciences, Cambridge University Press.)
 
 **Plain words**
-Ricoeur uses texts to explore how distance can contribute to understanding. The compendium borrows this idea as a writing exercise: describe a familiar custom for someone who does not share it. Ask which assumptions you need to explain.
+Ricoeur uses texts to explore how distance can contribute to understanding. I borrow this idea as a writing exercise: describe a familiar custom for someone who does not share it. Ask which assumptions you need to explain.
 
 *For example:* Write down how meetings begin at your workplace. Add a sentence explaining the purpose you assume that routine serves. Then write one question an unfamiliar reader might ask about your explanation.
 

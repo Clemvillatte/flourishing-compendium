@@ -15,7 +15,7 @@ Emotion regulation flexibility is the matching of a regulation strategy to the c
 
 The framework Gross cites comes from George Bonanno and Charles Burton, who name the opposing assumption the "fallacy of uniform efficacy": treating a particular strategy as consistently beneficial or maladaptive regardless of person and situation. Bonanno and Burton propose three components of flexibility that vary by person: "sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback". Gross adds that "no one strategy is 'best' in any absolute sense" and that skillful regulation involves "context-dependent blends and sequences of regulatory efforts". The same review's extended process model divides regulation into identification, selection and implementation stages, and places the matching question at the selection stage.
 
-### In the compendium
+### Here
 
 - [[AF028 — Master emotional regulation flexibility — the skill is matching strategy to context]] — the principle that states the concept's core directly
 - [[B084 — Use antidotes skillfully]]

@@ -18,7 +18,7 @@ Epicurus's line, from the Letter to Menoeceus:
 
 > "Plain fare gives as much pleasure as a costly diet, when once the pain of want has been removed, while bread and water confer the highest possible pleasure when they are brought to hungry lips." — [Epicurus, Letter to Menoeceus, Hicks translation (Wikisource)](https://en.wikisource.org/wiki/Letter_to_Menoeceus)
 
-The weekly frequency and the no-screens rule are the compendium's editorial design; Epicurus's observation that plain fare can be pleasurable offers a reflection on keeping the meal simple ([Letter to Menoeceus, Hicks translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus)).
+The weekly frequency and the no-screens rule are my own design; Epicurus's observation that plain fare can be pleasurable offers a reflection on keeping the meal simple ([Letter to Menoeceus, Hicks translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus)).
 
 ### Protocol
 

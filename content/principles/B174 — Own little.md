@@ -18,7 +18,7 @@ The Dhammapada verse most often cited for this principle is in the chapter on ha
 
 Thanissaro Bhikkhu translates the same lines as a list: "Freedom from illness: the foremost good fortune. Contentment: the foremost wealth. Trust: the foremost kinship. Unbinding: the foremost ease." ([Dhammapada 204, Access to Insight PDF](https://accesstoinsight.org/lib/authors/thanissaro/dhammapada.pdf))
 
-The verse ranks contentment as wealth. It does not say how many possessions to own. The compendium draws the practical step from it: each thing you own asks for some upkeep and attention, so a smaller inventory leaves more of both for practice. That step is the compendium's reading and not a line in the verse.
+The verse ranks contentment as wealth. It does not say how many possessions to own. I draw the practical step from it: each thing you own asks for some upkeep and attention, so a smaller inventory leaves more of both for practice. That step is my reading and not a line in the verse.
 
 (Dhammapada 204, trans. Buddharakkhita; Thanissaro's wording for 202-204.)
 

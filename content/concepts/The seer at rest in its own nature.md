@@ -15,7 +15,7 @@ The edition's word glosses give "seer" as the soul, witness, Atman, Self, and no
 
 ## Sources
 
-- Patanjali, Yoga Sutra 1.3 (tada drashtuh svarupe avasthanam), p. 4, in the compilation presented by H.D. Goswami (which also carries Barbara Stoler Miller and Chris Hartranft renderings), [Krishna Village PDF](https://krishnavillage-retreat.com/wp-content/uploads/2020/09/Patanjali-Yoga-Sutras-Krishna-Village.pdf) (the edition in the compendium's primary-source library)
+- Patanjali, Yoga Sutra 1.3 (tada drashtuh svarupe avasthanam), p. 4, in the compilation presented by H.D. Goswami (which also carries Barbara Stoler Miller and Chris Hartranft renderings), [Krishna Village PDF](https://krishnavillage-retreat.com/wp-content/uploads/2020/09/Patanjali-Yoga-Sutras-Krishna-Village.pdf) (the edition in my primary-source library)
 - YS 1.3
 
 - the series' Book I

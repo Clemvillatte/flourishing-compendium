@@ -19,7 +19,7 @@ SN 56.11 names craving as the origin of suffering and gives its three forms:
 > Locator: SN 56.11 "Dhammacakkappavattana Sutta", SC 5.
 > Open-access source: https://suttacentral.net/sn56.11/en/bodhi
 
-The sutta identifies the origin and its forms; it does not say suffering never involves pain or circumstance. The compendium's reading of the second truth: suffering has an engine, and the engine is the demanding layer of experience, the seeking of delight here and there. (SN 56.11.)
+The sutta identifies the origin and its forms; it does not say suffering never involves pain or circumstance. My reading of the second truth: suffering has an engine, and the engine is the demanding layer of experience, the seeking of delight here and there. (SN 56.11.)
 
 **Plain words** The second truth points at a cause rather than a verdict. Craving is identified as the origin of suffering, and it comes in three forms: for pleasures, for existence, for extermination. The practical question it suggests: when suffering shows up, which of the three cravings is doing the work in this case? Naming the form is the sutta's analysis turned toward a moment.
 

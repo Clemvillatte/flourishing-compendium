@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Rousseau, Discourse on the Origin of Inequality), the comparative self-love that inflames envy.
 
-Amour-propre is the wiki's label for Rousseau's comparative, social form of self-regard: the self seen through others' eyes, needing to be preferred. The term's contrast, amour de soi, is self-love proper; Wikipedia's summary of the pair: amour-propre is "that kind of self-love" "in which one's opinion of oneself is dependent on what other people think and which arises only with society" ([Wikipedia, Amour de soi](https://en.wikipedia.org/wiki/Amour_de_soi)). Émile draws the line against plain self-love, and the passage makes the mechanism explicit; in Foxley's translation the comparative passion is rendered "selfishness".
+Amour-propre is my label for Rousseau's comparative, social form of self-regard: the self seen through others' eyes, needing to be preferred. The term's contrast, amour de soi, is self-love proper; Wikipedia's summary of the pair: amour-propre is "that kind of self-love" "in which one's opinion of oneself is dependent on what other people think and which arises only with society" ([Wikipedia, Amour de soi](https://en.wikipedia.org/wiki/Amour_de_soi)). Émile draws the line against plain self-love, and the passage makes the mechanism explicit; in Foxley's translation the comparative passion is rendered "selfishness".
 
 > "Self-love, which concerns itself only with ourselves, is content to satisfy our own needs; but selfishness, which is always comparing self with others, is never satisfied and never can be; for this feeling, which prefers ourselves to others, requires that they should prefer us to themselves, which is impossible." (Rousseau, [Émile, Book IV, Foxley translation](https://www.gutenberg.org/ebooks/5427))
 
@@ -17,7 +17,7 @@ Amour-propre is the wiki's label for Rousseau's comparative, social form of self
 
 The Discourse on the Origin of Inequality stages the arrival: people begin to "survey the rest" and wish to be surveyed, public esteem acquires a value, and "From these first preferences there proceeded on one side vanity and contempt, on the other envy and shame" ([Discourse, Second Part](https://www.gutenberg.org/ebooks/11136)).
 
-### In the compendium
+### Here
 
 - [[D086 — Don't sell your nature for glory]]
 - [[D117 — Don't manufacture envy]]

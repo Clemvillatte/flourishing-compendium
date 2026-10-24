@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 85** — Hear the teaching first
 
-In the Advaita method, the teaching is first received from a teacher. The Upadeśasāhasrī opens with the pupil approaching one, its rule quoted below, and the teacher then explaining the knowledge of Brahman to a pupil with self-control and a tranquil mind. The Gita gives the same order: approach a spiritual master, inquire with reverence, render service, and learn the truth from one who has seen it (BG 4.34). The compendium's reading: the first step is fidelity of reception, getting the teaching stated accurately before anything is done with it.
+In the Advaita method, the teaching is first received from a teacher. The Upadeśasāhasrī opens with the pupil approaching one, its rule quoted below, and the teacher then explaining the knowledge of Brahman to a pupil with self-control and a tranquil mind. The Gita gives the same order: approach a spiritual master, inquire with reverence, render service, and learn the truth from one who has seen it (BG 4.34). My reading: the first step is fidelity of reception, getting the teaching stated accurately before anything is done with it.
 
 (Śaṅkara, Upadeśasāhasrī I.1 §3; BG 4.34.)
 

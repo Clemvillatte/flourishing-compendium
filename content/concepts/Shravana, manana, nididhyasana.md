@@ -19,7 +19,7 @@ The article lists the steps with their functions:
 
 Nididhyasana itself is "profound and repeated meditation", in Advaita Vedanta meditation on Brahman and contemplation of the mahavakyas, the great Upanishadic statements such as "That art Thou", to realize the identity of Atman and Brahman. The same article records that in Dvaita Vedanta, Madhva describes nididhyasana as dhyana, continuous meditation, which follows sravana and manana and leads to direct realization.
 
-### In the compendium
+### Here
 
 - [[Y085 — Hear the teaching first]] — the first step, grounded in the Upadeśasāhasrī's opening scene
 - [[Y086 — Examine what you hear]] — the second step, with the Vivekachudamani's comparison of reflection to hearing

@@ -13,7 +13,7 @@ Shu is the Confucian word for reciprocity: using one's own likes and dislikes as
 
 The formulation is negative, the silver rule: it does not command doing good so much as forbearing from what one would not accept. The Wikipedia article on Confucius records that he "championed the Silver Rule, or a negative form of the Golden Rule, advising, 'Do not do unto others what you do not want done to yourself.'" ([Wikipedia, Confucius](https://en.wikipedia.org/wiki/Confucius)).
 
-### In the compendium
+### Here
 
 - [[R064 — Practise reciprocity (shu)]] — carries the Book XV scene and its rule
 

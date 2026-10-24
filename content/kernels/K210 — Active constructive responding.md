@@ -14,7 +14,7 @@ When someone shares good news, respond actively and constructively: ask question
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the four-way classification and the measured benefit are in the capitalization research below.*
+*Steps are my own protocol; the four-way classification and the measured benefit are in the capitalization research below.*
 
 1. Put down what you were doing and turn toward the news; the first two seconds of the response carry most of the signal.
 2. Ask a question that extends the telling; interest is the active part of active.

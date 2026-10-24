@@ -15,7 +15,7 @@ Prototype theory is Rosch's account of natural-language categories. Rosch descri
 
 The theory rests on two proposed principles of category formation: category systems provide maximum information with the least cognitive effort, and the perceived world comes as structured information rather than arbitrary or unpredictable attributes. Within categories, members differ in typicality, and the experiments traced what the differences track. Rosch and Mervis found that for natural language categories the extent to which items have attributes common to the category was highly negatively correlated with the extent to which they have attributes belonging to members of contrast categories; in Rosch's summary, prototypes appear to be just those members of a category that most reflect the redundancy structure of the category as a whole.
 
-### In the compendium
+### Here
 
 - [[P011 — Refuse essences — things have no fixed inner nature]] — Wittgenstein's games: a complicated network of similarities overlapping and criss-crossing, with no common element running through all of them.
 - [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] — Tversky and Kahneman's definition: probabilities evaluated by the degree to which A resembles B.

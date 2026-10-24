@@ -21,7 +21,7 @@ The construct is measured rather than assumed: in the standard dyadic-interactio
 
 What accuracy does in relationships is an empirical question, and the meta-analysis gives it a modest answer. Across 21 studies and 2,739 participants, empathic accuracy and relationship satisfaction showed a small but significant association: "We found a small but significant association between the two (r = .134, p < .05)" ([same abstract](https://pubmed.ncbi.nlm.nih.gov/28394141/)). The link was stronger for reading negative emotions: "EA for negative emotions (one's accuracy when assessing a partner's negative emotions) was more closely related to satisfaction (r = .171, p < .05) than EA for positive ones (r = .068, p > .1)" ([same abstract](https://pubmed.ncbi.nlm.nih.gov/28394141/)).
 
-In the compendium, the construct grounds [[P168 — Listen with empathic understanding]] and [[R067 — Practise receptive caring]] as measurable skills rather than virtues, with the size of the measured effects kept in view.
+Here, the construct grounds [[P168 — Listen with empathic understanding]] and [[R067 — Practise receptive caring]] as measurable skills rather than virtues, with the size of the measured effects kept in view.
 
 ## Related concepts
 

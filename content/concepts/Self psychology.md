@@ -27,7 +27,7 @@ The same paper adds that selfobject relations nourish the self's capacity to rem
 
 Banai, Mikulincer and Shaver (2005) ran seven studies on the three needs and on avoiding acknowledging them, using a new self-report measure. Their abstract says the findings "supported and refined Kohut's ideas about the independence of the 3 selfobject needs" and the contribution of these needs to "problems in interpersonal functioning, mental health, self-cohesion, and affect regulation", and that they reveal links between Kohut's theory and attachment theory. ([Hebrew University record](https://cris.huji.ac.il/en/publications/selfobject-needs-in-kohuts-self-psychology-links-with-attachment-/)) The abstract describes support for specific constructs measured by questionnaire, not validation of the whole theory or its therapeutic claims.
 
-### In the compendium
+### Here
 
 - [[P160 — Distinguish the observing self from the story of self]], [[SE054 — Recognise self and culture — your self is culturally shaped]], [[E026 — Practise being-with (Mitsein)]] and [[SE027 — Practise self-kindness over self-judgment — kindness is more motivating than cruelty]] cite this concept.
 - [[R081 — Practise I-Thou]], [[D179 — Soften your edges]], [[SE055 — Learn to work with self and others' expectations — navigate social definitions]] and [[M028 — Guard your speech; it is your face's edge]] cite it as well.

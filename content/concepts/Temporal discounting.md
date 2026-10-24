@@ -19,7 +19,7 @@ The best-documented anomaly is hyperbolic discounting: the implicit discount rat
 
 ### What the discounting is for
 
-The compendium's principles on temporal motivation and commitment devices run on this mechanism. The reason a pre-commitment works is that the preference the commitment is designed to defeat is state-dependent: the future self's choice of the smaller-sooner reward is not an error to be corrected by information but a valuation that shifts with the horizon. The hyperbolic shape is what makes the present self able to bind the future one, since the two selves' rankings disagree in a predictable direction.
+My principles on temporal motivation and commitment devices run on this mechanism. The reason a pre-commitment works is that the preference the commitment is designed to defeat is state-dependent: the future self's choice of the smaller-sooner reward is not an error to be corrected by information but a valuation that shifts with the horizon. The hyperbolic shape is what makes the present self able to bind the future one, since the two selves' rankings disagree in a predictable direction.
 
 ## Related concepts
 

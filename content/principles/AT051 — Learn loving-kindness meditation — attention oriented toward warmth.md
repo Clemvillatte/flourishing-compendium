@@ -16,7 +16,7 @@ Fredrickson and colleagues tested a loving-kindness meditation intervention in a
 
 > "Results showed that this meditation practice produced increases over time in daily experiences of positive emotions, which, in turn, produced increases in a wide range of personal resources (e.g., increased mindfulness, purpose in life, social support, decreased illness symptoms)." (Fredrickson et al., 2008, [J Pers Soc Psychol 95(5):1045-1062](https://pubmed.ncbi.nlm.nih.gov/18954193/))
 
-The compendium uses a repeated wish for another person's wellbeing as an attention exercise. The reported positive-emotion findings do not establish that this exercise changes negative attentional bias.
+I use a repeated wish for another person's wellbeing as an attention exercise. The reported positive-emotion findings do not establish that this exercise changes negative attentional bias.
 
 **Plain words**
 Bring one person's wellbeing to mind and wish them well. You can include yourself. Notice whether attention stays with the wish or moves elsewhere, and return to it if you choose to continue.

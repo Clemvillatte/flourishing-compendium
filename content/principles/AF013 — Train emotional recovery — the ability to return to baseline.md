@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 13** — Train emotional recovery: the ability to return to baseline
 
-Bonanno distinguishes two trajectories after loss or trauma. Recovery involves disrupted functioning followed by a gradual return to pre-event levels. Resilience involves maintaining relatively stable functioning, although temporary disruptions can occur. Here, the compendium proposes observing changes in ordinary activities after a setback, without treating a particular recovery speed as proof of personal strength.
+Bonanno distinguishes two trajectories after loss or trauma. Recovery involves disrupted functioning followed by a gradual return to pre-event levels. Resilience involves maintaining relatively stable functioning, although temporary disruptions can occur. Here, I propose observing changes in ordinary activities after a setback, without treating a particular recovery speed as proof of personal strength.
 
 > "By contrast, resilience reflects the ability to maintain a stable equilibrium." ([Bonanno, 2004, American Psychologist 59(1), 20-28, author-hosted full text](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf))
 

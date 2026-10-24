@@ -20,7 +20,7 @@ In that study, 150 outpatients with major depression were randomly assigned to a
 
 The same report states the second finding plainly: "both BA and AT treatments were just as effective as CT at altering negative thinking as well as dysfunctional attributional styles." Read carefully, these are absence-of-difference results: the study detected no advantage for the full treatment. They do not show that action creates feeling or identity.
 
-**Plain words** (the compendium's exercise) Choose one manageable action you have been avoiding because motivation is missing. Decide when in the next few days you will try it. Try it and record what happens, without expecting mood or identity to change first.
+**Plain words** (my exercise) Choose one manageable action you have been avoiding because motivation is missing. Decide when in the next few days you will try it. Try it and record what happens, without expecting mood or identity to change first.
 
 *For example:* Suppose someone feels unable to question their own thinking. They might still be helped to schedule specific, manageable activities. The trial's result is why such a plan is a reasonable starting point rather than a concession.
 

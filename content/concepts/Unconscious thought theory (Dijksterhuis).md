@@ -26,7 +26,7 @@ The engine room is the capacity principle. A later review summarizes it: "Accord
 
 The flagship effect has not survived replication well. A 2015 meta-analysis and large-scale replication attempt reported: "we conducted a meta-analysis and a large-scale replication study (N = 399) that met the conditions deemed optimal for replicating the UTA. Consistent with the reliability account, the large-scale replication study yielded no evidence for the UTA, and the meta-analysis showed that previous reports of the UTA were confined to underpowered studies that used relatively small sample sizes" ([Nieuwenstein et al., 2015](https://www.ejwagenmakers.com/2015/Nieuwenstein%20et%20al.%20JDM%202015.pdf)). The paper concludes: "Accordingly, we conclude that there exists no reliable support for the claim that a momentary diversion of thought leads to better decision making than a period of deliberation" ([Nieuwenstein et al., 2015](https://www.ejwagenmakers.com/2015/Nieuwenstein%20et%20al.%20JDM%202015.pdf)). What the evidence bears on is narrow: the momentary-diversion claim, in multi-attribute choice tasks. The everyday maxim "sleep on it" is a cousin of that claim, and these studies do not test actual sleep.
 
-### In the compendium
+### Here
 
 - [[CO042 — Know when to deliberate — high-stakes and novel situations need slow thinking]] uses this theory's rise and fall as its caution: the principle's rule of thumb, deliberate when stakes and novelty are high, does not rest on a contested claim.
 

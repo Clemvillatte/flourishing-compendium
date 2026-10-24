@@ -16,7 +16,7 @@ The Diamond Sutra's third section makes the move on the relations first. The bod
 
 > "Yet when vast, uncountable, immeasurable numbers of beings have thus been liberated, verily no being has been liberated. Why is this, Subhuti? It is because no Bodhisattva who is a real Bodhisattva cherishes the idea of an ego-entity, a personality, a being, or a separated individuality." (Diamond Sutra III, [Price and Wong Mou-Lam translation](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf))
 
-Section IV extends it to acts between parties: charity is practiced without regard to appearances or qualities, without attachment. In the compendium's reading, the same applies to the bowing pair: the one who bows and the one who is bowed to are both held lightly, so the roles can be played without being frozen. (Diamond Sutra, IV.)
+Section IV extends it to acts between parties: charity is practiced without regard to appearances or qualities, without attachment. In my reading, the same applies to the bowing pair: the one who bows and the one who is bowed to are both held lightly, so the roles can be played without being frozen. (Diamond Sutra, IV.)
 
 > "In the practice of charity a Bodhisattva should be detached. That is to say, he should practice charity without regard to appearances; without regard to sound, odor, touch, flavor or any quality." (Diamond Sutra IV, [Price and Wong Mou-Lam translation](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf))
 

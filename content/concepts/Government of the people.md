@@ -15,7 +15,7 @@ Government of the people is the phrase Abraham Lincoln used at Gettysburg on Nov
 
 The three prepositions can be read as government belonging to the people, exercised by them and serving them. Lincoln describes the Civil War as a test of whether a nation founded on liberty and equality can endure, and asks the living to continue the work of those who died ([Library of Congress transcription](https://www.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-inscribed.html)). The Library of Congress summary of the speech reads the war's suffering against the proposition that all men are created equal ([Library of Congress](https://www.loc.gov/item/2021689291/)).
 
-### In the compendium
+### Here
 
 - [[SP079 — Prefer democracy, and participate]] — the principle that turns the phrase into a standing preference
 - [[D158 — Don't tax yourself dry]] — the fiscal-sustainability principle citing this concept

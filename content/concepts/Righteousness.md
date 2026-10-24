@@ -19,7 +19,7 @@ The passage is built like a set of scales. Fish and bear's paws are the homely v
 
 Mencius is explicit that the capacity is not the sages' private property. Of the heart that will not take life by improper means or avoid danger at the price of righteousness, he says: "All men have it; what belongs to such men is simply that they do not lose it."
 
-### In the compendium
+### Here
 
 - [[R052 — Practise yi (righteousnessjustice)]] — the principle that carries the practice
 

@@ -19,9 +19,9 @@ Two features of that definition carry the concept's weight. Trust is a willingne
 
 The model separates trust from trustworthiness: ability, benevolence and integrity are properties of the one trusted, while trust is the stance of the one trusting, shaped also by a general propensity to trust that varies between people.
 
-### In the compendium
+### Here
 
-The compendium's principles use trust where relationships are load-bearing: friendship needs it because friends hold what is fragile in each other, and every tradition's community of inquiry presupposes it, since teaching and testimony hand the learner what they cannot yet check.
+My principles use trust where relationships are load-bearing: friendship needs it because friends hold what is fragile in each other, and every tradition's community of inquiry presupposes it, since teaching and testimony hand the learner what they cannot yet check.
 
 ## Related concepts
 

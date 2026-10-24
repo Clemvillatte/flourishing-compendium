@@ -19,14 +19,14 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 
 > "Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development." (MN 117, Mahācattārīsaka Sutta, [Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html))
 
-### In the compendium
+### Here
 
 - [[B021 — Orient with right view]] — the dedicated principle, which quotes the Kaccānagotta Sutta on knowing stress as it arises and passes, without resolving on "my self".
 - [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]], [[AT070 — Recognise anxiety's effect on attention — threat capture]], [[AT071 — Recognise depression's effect on attention — negative bias and rumination]] and [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]] — label their Buddhist parallel "The coloured lens (Buddhism, Right View)".
 - [[CO050 — Learn to question your thoughts — not every thought deserves belief]] and [[CO051 — Recognise cognitive distortions — learn the common patterns]] — list Right view as a philosophy parallel.
 - [[CO018 — Understand anchoring — initial values distort subsequent judgments]] and [[SE024 — Recognise the self-serving bias — you take credit for success and blame failure on circumstances]] — list Right view as their Buddhist parallel.
 - [[BE062 — Engage in meaning-driven behaviour — act on values]] — cites the saying "Right action serves right view" as its Buddhist parallel.
-- [[ST064 — The Lute String]] and [[ST065 — Nagasena and the Chariot]] — the stories the compendium files under Right View.
+- [[ST064 — The Lute String]] and [[ST065 — Nagasena and the Chariot]] — the stories I file under Right View.
 
 ## Related concepts
 
@@ -35,7 +35,7 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 - [[Dependent origination]] — the middle-way chain the Kaccānagotta Sutta runs between the existence extremes
 - [[Right intention]] — the factor that follows view in MN 9's list
 - [[Right mindfulness]] — another factor in the same MN 9 list
-- [[The coloured lens]] — the compendium's image for biased seeing, used in the Right View parallels
+- [[The coloured lens]] — my image for biased seeing, used in the Right View parallels
 - [[Appraisal theory]] — its page links B021's interpretation-first orientation
 - [[First impressions bias]] — its seed names Buddhism's Right View as its tradition
 - [[Cognitive distortions]] — the distortion patterns CO051 pairs with Right view

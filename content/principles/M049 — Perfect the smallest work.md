@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 49** — Perfect the smallest work
 
-Florentine Codex Book X, in Anderson and Dibble's translation, describes the good craftsman: "The good craftsman is a willing worker, patient, calm. He works with care, he makes works of skill; he constructs, prepares, arranges, orders, fits, matches [materials]" ([Nahuatl Dictionary, entry for toltecatl](https://nahuatl.wired-humanities.org/content/toltecatl)). The care is described as a trait of the craftsman. The passage I read does not mention an unseen audience, a vessel, a stone or a seam, so the original entry's "quality that doesn't depend on an audience" is the compendium's reading, as is the link to the earlier private-observance principle.
+Florentine Codex Book X, in Anderson and Dibble's translation, describes the good craftsman: "The good craftsman is a willing worker, patient, calm. He works with care, he makes works of skill; he constructs, prepares, arranges, orders, fits, matches [materials]" ([Nahuatl Dictionary, entry for toltecatl](https://nahuatl.wired-humanities.org/content/toltecatl)). The care is described as a trait of the craftsman. The passage I read does not mention an unseen audience, a vessel, a stone or a seam, so the original entry's "quality that doesn't depend on an audience" is my reading, as is the link to the earlier private-observance principle.
 
 Self-determination theory is the nearest research. Ryan and Deci's 2000 review says that satisfying the needs for "competence, autonomy, and relatedness" yields "enhanced self-motivation and mental health" ([Ryan and Deci 2000, American Psychologist](https://psycnet.apa.org/record/2000-13324-007)). A later review reports that autonomous motivation "predicts persistence and adherence and is advantageous for effective performance, especially on complex or heuristic tasks" ([Deci and Ryan 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)). Neither tests whether people keep up their standards in unobserved work, so the original entry's link between unobserved quality and internalized standards is unsupported by what I opened.
 
@@ -23,7 +23,7 @@ Self-determination theory is the nearest research. Ryan and Deci's 2000 review s
 I did not find a Codex passage on small works specifically. The huehuetlatolli "counsel on the smallest works" cited in the original entry was not located.
 
 **Plain words**
-The Nahua source praises the craftsman who works with care, patience and calm. The idea that quality kept up in private is the truest kind is the compendium's reading.
+The Nahua source praises the craftsman who works with care, patience and calm. The idea that quality kept up in private is the truest kind is my reading.
 
 **For example**
 Pick one small recurring task, such as how you leave a tool or a document at the end of the day. For a month, finish it to the same standard each time, and tick it off on a private list.

@@ -17,9 +17,9 @@ A parallel image appears in the first story of the classic Zen anecdote collecti
 
 ### Why it is hard
 
-Suzuki's sober note is that "the most difficult thing is always to keep your beginner's mind" ([Zen Mind, Beginner's Mind](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)). The warning behind it: the habits of the expert accumulate invisibly, and what is already known quietly decides what can be seen next. The compendium's B048 names shoshin directly, and its neighbours are the same family: B178's practice without gaining ideas, D045's empty cup, D191's beginner's pace kept all one's life.
+Suzuki's sober note is that "the most difficult thing is always to keep your beginner's mind" ([Zen Mind, Beginner's Mind](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)). The warning behind it: the habits of the expert accumulate invisibly, and what is already known quietly decides what can be seen next. My B048 names shoshin directly, and its neighbours are the same family: B178's practice without gaining ideas, D045's empty cup, D191's beginner's pace kept all one's life.
 
-### In the compendium
+### Here
 
 CO040 names the cognitive cost: the curse of knowledge, the inability to un-know what one knows. SO022 turns the practice outward as cultural humility, meeting another's world without pre-filling it. AT019 is the attentional cousin: the return of attention, not its unbroken presence, is the skill. P097's treating each moment as fresh is the direct translation.
 
@@ -33,7 +33,7 @@ CO040 names the cognitive cost: the curse of knowledge, the inability to un-know
 - [[To the things themselves]] — phenomenology's return to what is given, pre-theory
 - [[Curse of knowledge]] — the expert's blindness, shoshin's negative image
 - [[Curiosity]] — the beginner's motive energy
-- [[Openness]] — the personality trait the compendium pairs with this posture
+- [[Openness]] — the personality trait I pair with this posture
 - [[Socratic ignorance]] — knowing that one does not know, the Greek cousin
 - [[Gelassenheit]] — Heidegger's releasement; the German cousin
 - [[Pure experience]] — the field before labels divide it

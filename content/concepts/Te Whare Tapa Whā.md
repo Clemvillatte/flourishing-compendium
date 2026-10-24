@@ -26,15 +26,15 @@ The walls are interdependent. The ministry's account of physical health says it 
 
 The ministry describes a person's spiritual essence as their life force, and within this account a traditional Māori analysis of physical illness considers whether harm to wairua may contribute ([Ministry of Health NZ](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha)).
 
-### In the compendium
+### Here
 
 - [[R037 — Practise Te Whare Tapa Whā]] turns the model into four questions asked of one's own month: where the person last sat that holds them, how the thinking is, how the body is, and who they have actually eaten with. Its plain-words rule: looking only at physical health leaves out three dimensions of Durie's model.
 
 ## Related concepts
 
 - [[Holistic well-being]] — the general idea the model gives a wharenui shape
-- [[Ubuntu]] — another relational account of wellbeing in the compendium
-- [[Stewardship]] — the compendium's other Māori-rooted entry, kaitiakitanga
+- [[Ubuntu]] — another relational account of wellbeing here
+- [[Stewardship]] — my other Māori-rooted entry, kaitiakitanga
 - [[Analytic vs holistic cognition]] — the thinking difference between one wall at a time and the whole house
 
 ## Sources

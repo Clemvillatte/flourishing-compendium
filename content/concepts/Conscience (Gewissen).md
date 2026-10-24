@@ -23,7 +23,7 @@ Second, the caller is not someone else. It is not God, not a moral law within, n
 
 > "In its 'who', the caller is definable in a 'worldly' way by nothing at all. The caller is Dasein in its uncanniness: primordial, thrown Being-in-the-world as the 'not-at-home' — the bare 'that-it-is' in the 'nothing' of the world. The caller is unfamiliar to the everyday they-self; it is something like an alien voice." (same book, p. 321)
 
-The appeal thus travels from the self to the self: it summons the they-self to its own possibility of being itself, and the summoning is toward Being-guilty, which here is not a list of misdeeds but the ground-character of a being whose basis it never chose and must own. What conscience makes possible is [[Resoluteness (Entschlossenheit)]]: hearing the call and taking over one's situation as one's own. The compendium's principle [[E045 — Practise conscience (Gewissen)]] works with this account rather than the rule-storage picture, and [[Law written on the heart]] gives the older tradition the call echoes.
+The appeal thus travels from the self to the self: it summons the they-self to its own possibility of being itself, and the summoning is toward Being-guilty, which here is not a list of misdeeds but the ground-character of a being whose basis it never chose and must own. What conscience makes possible is [[Resoluteness (Entschlossenheit)]]: hearing the call and taking over one's situation as one's own. My principle [[E045 — Practise conscience (Gewissen)]] works with this account rather than the rule-storage picture, and [[Law written on the heart]] gives the older tradition the call echoes.
 
 ## Sources
 

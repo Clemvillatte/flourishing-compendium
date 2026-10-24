@@ -13,7 +13,7 @@ Empathic concern is the other-oriented side of empathy: warmth felt for someone 
 
 The two responses lead to different motivations and outcomes: one is other-oriented warmth, the other self-centered discomfort and anxiety. As the same article puts it, "empathy-based concern is a core motivator of altruistic behavior, prompting individuals to focus on others' well-being and inspiring prosocial actions".
 
-### In the compendium
+### Here
 
 - [[R048 — Practise ofo]] and [[R064 — Practise reciprocity (shu)]] are this concept's psychology parallels
 - [[AF060 — Recognise compassion fatigue — empathy has limits]] and [[AF065 — Cultivate compassion — it is sustainable empathy plus concern]] carry its clinical edge

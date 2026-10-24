@@ -21,12 +21,12 @@ It works, he explains, by expanding an overly narrow sample of evidence and maki
 
 A second motivational lever is making people answerable for their decisions. Larrick writes: "The principal mechanism by which accountability improves decision making is pre-emptive self-criticism" — people anticipate the flaws in their own arguments before anyone else can raise them ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)). Training can also work in one shot: two longitudinal experiments by Morewedge and colleagues found that a single session of playing a computer game or watching an instructional video "produced medium to large debiasing effects immediately" that "persisted at least 2 months later", across six biases including confirmation bias and anchoring ([Morewedge et al. 2015, full text](https://clsbe.lisboa.ucp.pt/system/files/assets/files/2016-paper-carey-morewedge.pdf)).
 
-### In the compendium
+### Here
 
-The compendium pairs these findings with principles that turn them into practice:
+I pair these findings with principles that turn them into practice:
 
 - [[CO027 — Learn debiasing — it is possible but hard]] — the training results provide evidence that debiasing is possible
-- [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] — the compendium's practice form of Larrick's general strategy
+- [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] — my practice form of Larrick's general strategy
 - [[CO028 — Use the outside view — base rates beat inside views]] — the estimation-side complement: replacing a judgment with the statistics of comparable cases
 
 ## Related concepts

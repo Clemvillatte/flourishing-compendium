@@ -21,7 +21,7 @@ The Enquiry's practical upshot for anyone reasoning from experience is to know w
 
 **Plain words** You cannot prove the future will be like the past; you just cannot help expecting it. That compulsion is what induction is: a habit of the mind, not a certainty with a licence.
 
-### In the compendium
+### Here
 
 - [[CO028 — Use the outside view — base rates beat inside views]]: the principle that turns induction's track record into a practice
 

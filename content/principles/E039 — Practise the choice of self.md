@@ -27,7 +27,7 @@ In Being and Nothingness, Sartre describes the project as requiring continual re
 (Sartre, Existentialism Is a Humanism, 1946, Warwick-hosted text; Sartre, Being and Nothingness, 1943/1956, Part IV, ch. 1, p. 480.)
 
 **Plain words**
-The compendium uses this passage to revisit a commitment you made earlier. Ask what keeping it would involve today. Consider an action you could take, given your circumstances, and whether you still want to carry that commitment forward.
+I use this passage to revisit a commitment you made earlier. Ask what keeping it would involve today. Consider an action you could take, given your circumstances, and whether you still want to carry that commitment forward.
 
 *For example:* Suppose you volunteered to help edit a friend's essay. When the draft arrives, consider whether you can still give it the time you promised. You might agree on a time to read it or explain that you need to change the arrangement.
 

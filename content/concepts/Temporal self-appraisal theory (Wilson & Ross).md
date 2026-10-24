@@ -15,9 +15,9 @@ Temporal self-appraisal theory is Anne Wilson and Michael Ross's account of how 
 
 The same person in the past can be praised or blamed, and the choice follows the felt distance. "Research participants praise or criticize the same former self, depending on how far away it feels. An equally distant episode feels close or remote, depending on whether it has favorable or damaging implications for evaluations of the current self." Failures get pushed back in time, credited to a different, distant person one used to be; achievements get pulled forward, kept as part of who one still is. The review is explicit that the improvement story this produces can be a construction: the felt change over time is partly a strategy, serving the current self's standing.
 
-For the compendium the theory works as both insight and caution. It explains why the felt trajectory of a life tends upward, and it warns that a self-narrative of constant improvement deserves a check against the record, since the narrator has a stake in the shape of the curve.
+For me the theory works as both insight and caution. It explains why the felt trajectory of a life tends upward, and it warns that a self-narrative of constant improvement deserves a check against the record, since the narrator has a stake in the shape of the curve.
 
-### In the compendium
+### Here
 
 - [[SE007 — Understand that the self has temporal depth — past, present, and future selves]] — the structure the theory fills with motive
 - [[MO028 — Learn to use the fresh start effect — temporal landmarks boost motivation]] — the forward-looking application of the same temporal leverage

@@ -20,7 +20,7 @@ This is not a measurement of a half-second window for conscious control. The dis
 
 ### Plain words
 
-The compendium suggests examining an urge before treating it as an instruction. What happened, how did it feel, and what do you now want to do? These questions offer a way to investigate a reaction; they do not promise that every impulse comes with a detectable pause or that noticing always prevents action.
+I suggest examining an urge before treating it as an instruction. What happened, how did it feel, and what do you now want to do? These questions offer a way to investigate a reaction; they do not promise that every impulse comes with a detectable pause or that noticing always prevents action.
 
 ### For example
 

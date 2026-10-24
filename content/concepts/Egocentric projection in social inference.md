@@ -23,7 +23,7 @@ In Epley and colleagues' abstract, estimates of others' perceptions "were consis
 
 Damen and colleagues tested whether a deliberate focus on the other person's point of view would reduce the bias. It did not: enhancing attention to the other person's perspective, before and during perspective-taking, "did not diminish egocentric projection". They discuss the role of feedback in making accurate adjustments.
 
-### In the compendium
+### Here
 
 - [[SP014 — Expect to imagine others as like yourself]]
 - [[K145 — Role-taking]]

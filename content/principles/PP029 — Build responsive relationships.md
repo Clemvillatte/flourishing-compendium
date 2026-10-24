@@ -22,7 +22,7 @@ In the Reis and Shaver intimacy model, validation means appreciating and valuing
 
 ### Evidence and limits
 
-Reis and Le (2023) argue the link between relationships and wellbeing reflects perceived partner responsiveness, and review evidence on development, relationship wellbeing, and emotional and physical health ([abstract](https://academic.oup.com/book/46095/chapter/404618236)). "Attachment security" and "advice is not responsiveness" are the compendium's wording.
+Reis and Le (2023) argue the link between relationships and wellbeing reflects perceived partner responsiveness, and review evidence on development, relationship wellbeing, and emotional and physical health ([abstract](https://academic.oup.com/book/46095/chapter/404618236)). "Attachment security" and "advice is not responsiveness" are my wording.
 
 (Reis and Clark, 2013; Reis and Shaver, 1988, the latter known here only through the Utrecht review's description.)
 

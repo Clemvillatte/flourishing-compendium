@@ -21,7 +21,7 @@ Daodejing 78 moves from water's ability to overcome the hard to a saying about r
 
 (Daodejing 78, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-For this principle, receiving criticism means being willing to examine your responsibility when something has gone wrong. It does not require claiming fault for everything, accepting abuse or hiding someone else's misconduct. Those are limits on the compendium's modern application, not promises about what leadership will earn.
+For this principle, receiving criticism means being willing to examine your responsibility when something has gone wrong. It does not require claiming fault for everything, accepting abuse or hiding someone else's misconduct. Those are limits on my modern application, not promises about what leadership will earn.
 
 **Plain words** Before defending yourself, hear what the complaint concerns. What part were you responsible for, and what can you now do about it?
 

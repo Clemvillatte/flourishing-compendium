@@ -7,7 +7,7 @@ file: "Nonviolent communication"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Nonviolent communication (NVC) is a communication process developed by clinical psychologist Marshall Rosenberg in the 1960s and 1970s, based on the principles of nonviolence and humanistic psychology; it aims to increase empathic understanding and reduce conflict in everyday interactions ([Wikipedia, "Nonviolent Communication"](https://en.wikipedia.org/wiki/Nonviolent_Communication)). Its development was highly influenced by Carl Rogers's person-centered therapy, particularly the value of congruence, empathic listening, and realness ([Wikipedia, "Nonviolent Communication"](https://en.wikipedia.org/wiki/Nonviolent_Communication)). Its closest Buddhist cousin in the compendium is [[Right speech]], and the [[Compassion]] the compendium defines as being moved by suffering and moved to act is the register it works in. The practice is often reached for in the hard places: repairing a marriage, negotiating at work, or helping a community find shared ground ([[K216 — Nonviolent communication]]).
+Nonviolent communication (NVC) is a communication process developed by clinical psychologist Marshall Rosenberg in the 1960s and 1970s, based on the principles of nonviolence and humanistic psychology; it aims to increase empathic understanding and reduce conflict in everyday interactions ([Wikipedia, "Nonviolent Communication"](https://en.wikipedia.org/wiki/Nonviolent_Communication)). Its development was highly influenced by Carl Rogers's person-centered therapy, particularly the value of congruence, empathic listening, and realness ([Wikipedia, "Nonviolent Communication"](https://en.wikipedia.org/wiki/Nonviolent_Communication)). Its closest Buddhist cousin here is [[Right speech]], and the [[Compassion]] I define as being moved by suffering and moved to act is the register it works in. The practice is often reached for in the hard places: repairing a marriage, negotiating at work, or helping a community find shared ground ([[K216 — Nonviolent communication]]).
 
 Jim and Jori Manske's summary sheet of NVC describes the first step this way:
 
@@ -25,9 +25,9 @@ The distinction sits with the speaker, not with what happens next. The trainers'
 
 NVC has been applied in clinical, educational, organisational and community settings, and has been the subject of small trials and scoping reviews that report improvements in self-reported empathy and interpersonal outcomes; however, the evidence base is heterogeneous and reviewers have called for larger, longer and more rigorous studies, and for attention to cultural adaptation and trauma-sensitive implementation ([Wikipedia, "Nonviolent Communication"](https://en.wikipedia.org/wiki/Nonviolent_Communication)). Trauma specialists also warn that empathy-focused techniques like NVC do not by themselves address structural power imbalances and may risk re-traumatising vulnerable participants.
 
-### In the compendium
+### Here
 
-The compendium pairs NVC with principles across both traditions; the pairings are editorial, gathered in the list below.
+I pair NVC with principles across both traditions; the pairings are editorial, gathered in the list below.
 
 - [[B023 — Practice right speech]] — the speech precept read alongside Rosenberg's method
 - [[B148 — Speak lovingly]] — the title is the practice

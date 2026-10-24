@@ -17,7 +17,7 @@ Reinforcement-affect theory is Donn Byrne and Gerald Clore's learning-theory acc
 
 The model's origin is described in the same retrospective: Clore's "work with Donn Byrne had documented profound emotional influences on interpersonal attraction, which were couched in learning theory terms in their reinforcement–affect model". On the model, a person associated with rewarding stimuli becomes liked through that association, and a person associated with punishing stimuli becomes disliked.
 
-### In the compendium
+### Here
 
 - [[K008 — Expect the collapse of meaning; do not waste it]]
 - [[P184 — Distinguish the once-born from the twice-born: two routes through suffering]]

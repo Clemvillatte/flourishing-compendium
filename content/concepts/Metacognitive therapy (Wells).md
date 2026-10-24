@@ -17,15 +17,15 @@ Adrian Wells' metacognitive therapy (MCT) shifts the target of treatment from th
 
 The model beneath the treatment holds that a particular style of thinking, not any particular thought, keeps disorder going: "According to this model, a particular style of repetitive thinking called cognitive-attentional syndrome (CAS) contributes to occurrence, persistence, and relapse in most psychological disorders." What maintains it, on the review's account, is metacognitive belief, and MCT works by reducing those beliefs rather than by disputing the worries themselves.
 
-The compendium's principles on metacognition, metacognitive beliefs and mindfulness of thoughts carry the same insight outside the clinic.
+My principles on metacognition, metacognitive beliefs and mindfulness of thoughts carry the same insight outside the clinic.
 
-- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy in the compendium
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy here
 - [[Metacognitive model of anxiety and depression (Wells)]] — the treatment built on this model
 
 ## Related concepts
 
 
-- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy in the compendium
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further CBT-family therapy here
 - [[Metacognitive model of anxiety and depression (Wells)]] — the treatment built on this model
 
 ## Sources

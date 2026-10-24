@@ -16,7 +16,7 @@ Six weeks later, on 10 March, he wrote that "for me personally this has been one
 
 The result was a new proof of the density Hales-Jewett theorem. On 22 October 2009 Tao reported that the project had uploaded the paper "A new proof of the density Hales-Jewett theorem" to the arXiv, with "special thanks" to Ryan O'Donnell for the lion's share of the write-up and to Gowers for running "a highly successful online mathematical experiment" ([Tao, 22 October 2009](https://terrytao.wordpress.com/2009/10/22/a-new-proof-of-the-density-hales-jewett-theorem/)).
 
-The compendium uses it for P131 as a worked example of Dewey's point that public discussion can be improved by method. The method here is explicit: short contributions, a visible record and shared credit.
+I use it for P131 as a worked example of Dewey's point that public discussion can be improved by method. The method here is explicit: short contributions, a visible record and shared credit.
 
 Limits: Gowers himself says the problem may have suited a smaller group, because it helped to know related results, so "the pool of potential collaborators was not as large as it might have been" ([Gowers, 10 March 2009](https://gowers.wordpress.com/category/polymath1/)). The people involved were professional mathematicians. The story shows nothing about whether the method works for less technical problems, or for disagreements about values.
 

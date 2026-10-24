@@ -28,7 +28,7 @@ It warns against letting the impression "draw lively pictures of the things whic
 
 ### What the text asks
 
-The first question is about control. The questions "is it true?" and "is it complete?" are the compendium's wording. Epictetus's own tests here are whether the impression is what it appears to be and whether it concerns something in your power.
+The first question is about control. The questions "is it true?" and "is it complete?" are my wording. Epictetus's own tests here are whether the impression is what it appears to be and whether it concerns something in your power.
 
 (Epictetus, Encheiridion 1, 45; Discourses II.18.)
 

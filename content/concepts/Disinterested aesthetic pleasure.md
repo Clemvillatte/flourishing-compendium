@@ -19,7 +19,7 @@ The indifference requirement is strict:
 
 The Stanford Encyclopedia's account of Kant's aesthetics distinguishes judgments of beauty from judgments of the agreeable and the good: "The pleasure, however, is of a distinctive kind: it is disinterested, which means that it does not depend on the subject's having a desire for the object, nor does it generate such a desire" ([Kant's Aesthetics and Teleology, Stanford Encyclopedia of Philosophy, section 2.1.1](https://plato.stanford.edu/entries/kant-aesthetics/)). The same entry explains that the disinterested character distinguishes judgments of beauty from judgments of the agreeable, such as liking a food or drink, and from judgments of the good ([ibid.](https://plato.stanford.edu/entries/kant-aesthetics/)).
 
-### In the compendium
+### Here
 
 - [[E050 — Practise the stages of existence]]
 - [[K299 — Place-attachment practice]]

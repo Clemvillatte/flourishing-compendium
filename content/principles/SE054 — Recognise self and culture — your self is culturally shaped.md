@@ -24,7 +24,7 @@ The authors do not claim a clean split. They write that "even within highly indi
 
 ### What the paper does not say
 
-The paper does not say a culturally shaped self is a limitation or the human condition. It also does not say how a person caught between two cultures should resolve it. The advice about integration is the compendium's.
+The paper does not say a culturally shaped self is a limitation or the human condition. It also does not say how a person caught between two cultures should resolve it. The advice about integration is my.
 
 (Markus and Kitayama, 1991, pp. 224-253.)
 

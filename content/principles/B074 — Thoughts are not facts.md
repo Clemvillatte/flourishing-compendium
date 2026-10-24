@@ -18,7 +18,7 @@ The Vitakkasanthana Sutta treats distracting thoughts as workable events. When "
 
 The modern name for the shift is decentering. Bernstein and colleagues define it as "the capacity to shift experiential perspective-from within one's subjective experience onto that experience", and model it as three processes: "meta-awareness, disidentification from internal experience, and reduced reactivity to thought content." From within the experience, a thought is lived; from onto it, the thought is something seen.
 
-The compendium applies both texts to the ruling thought: notice it as an event, then work it as the sutta's monk worked his, by scrutiny or by changing the theme.
+I applie both texts to the ruling thought: notice it as an event, then work it as the sutta's monk worked his, by scrutiny or by changing the theme.
 
 **Plain words**
 The shift has a feel: you were the thought, and then you are the one watching it. The thought has not changed; your position on it has. The sutta's monk scrutinizes his thoughts' drawbacks before obeying them, which is the same move.

@@ -21,7 +21,7 @@ The same review summarizes what PST builds: "PST aims to promote adaptive PS by 
 
 - **orientation** — the schema side: beliefs and attitudes about problems and one's ability to cope, trained alongside the skills
 
-### In the compendium
+### Here
 
 - [[Y062 — Practice removes obstacles; it does not manufacture states]]
 - [[K038 — If there is a remedy, why be angry; if there is none, what use is anger]]

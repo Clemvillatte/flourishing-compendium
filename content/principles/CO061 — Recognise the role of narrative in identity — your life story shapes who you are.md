@@ -20,7 +20,7 @@ Adler's study followed 47 adults who wrote narratives before and after every ses
 
 A review of the field (Adler, Lodi-Smith, Philippe and Houle, Personality and Social Psychology Review 20(2), 2016; [PubMed](https://pubmed.ncbi.nlm.nih.gov/25968138/)) reports "the incremental validity of narrative identity as a cross-sectional indicator and prospective predictor of well-being," compared with other individual difference and situational variables. It describes the case as "strongest for motivational, affective, and integrative meaning themes," alongside dispositional personality traits.
 
-The entry's specific "redemption" and "contamination" claims (McAdams et al., 2001) are cited at second hand. Those parallels, the Ricoeur, MacIntyre and White and Epston links, and the compendium's advice that "the arc can" change are not tested in these sources.
+The entry's specific "redemption" and "contamination" claims (McAdams et al., 2001) are cited at second hand. Those parallels, the Ricoeur, MacIntyre and White and Epston links, and my advice that "the arc can" change are not tested in these sources.
 
 **Plain words** People carry an inner story about their lives, and the way it is told, especially how much it stresses agency, goes along with how well they are doing. In one therapy study, stories became more agentic before mental health improved. That shows association and timing, not proof that changing the story causes the change.
 

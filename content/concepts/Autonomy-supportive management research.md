@@ -19,7 +19,7 @@ Slemp, Kern, Patrick and Ryan reported a meta-analytic review of perceived leade
 
 The same record reports the database as 754 correlations across 72 studies, 83 unique samples, with N = 32,870, and notes that correlations were not moderated by the source of autonomy support, country of the sample, publication status, or the operationalisation of autonomy support.
 
-### In the compendium
+### Here
 
 - [[D134 — Govern like cooking a small fish]] — the Daodejing principle on restrained oversight.
 - [[SO057 — Design workplaces for flourishing]] — the principle on workplace design as a flourishing question.

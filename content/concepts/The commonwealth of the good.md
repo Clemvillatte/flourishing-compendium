@@ -7,7 +7,7 @@ file: "The commonwealth of the good"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The commonwealth of the good is the compendium's own heading for the ideal of a community held together by the highest good its members hold in common; the sources do not establish the phrase as either author's term. The original entry names Augustine's City of God, and the Spinozism principles that link here carry a related idea in Spinoza's own words.
+The commonwealth of the good is my own heading for the ideal of a community held together by the highest good its members hold in common; the sources do not establish the phrase as either author's term. The original entry names Augustine's City of God, and the Spinozism principles that link here carry a related idea in Spinoza's own words.
 
 ### Augustine's two cities
 
@@ -17,7 +17,7 @@ The governing image is the contrast of two communities. As the [Internet Encyclo
 
 The Spinozism principles that link here carry the idea in the Treatise on the Improvement of the Understanding ([Marxists.org edition](https://www.marxists.org/reference/subject/philosophy/works/ne/understanding.htm)). Spinoza describes attaining the chief good together with others, if possible: "The chief good is that he should arrive, together with other individuals if possible, at the possession of the aforesaid character." The passage says that character will be shown in due time, "namely, that it is the knowledge of the union existing being the mind and the whole of nature." From this he derives a political task: it is necessary "to form a social order such as is most conducive to the attainment of this character by the greatest number with the least difficulty and danger." And he gives the motive: "it is part of my happiness to lend a helping hand, that many others may understand even as I do, so that their understanding and desire may entirely agree with my own."
 
-### In the compendium
+### Here
 
 - [[SP091 — Share the highest good]] — opens with the Spinoza passage this page quotes, the resolution to seek the understanding of others
 - [[SP079 — Prefer democracy, and participate]] — Spinoza's argument for preferring democracy

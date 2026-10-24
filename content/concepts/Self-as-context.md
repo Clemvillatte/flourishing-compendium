@@ -21,7 +21,7 @@ The clinical rationale the review gives:
 
 > “self-as-context interventions help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat.” (Hayes et al. 2011, [Behav Ther 44(2):180-198](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/), section “Attachment to a Conceptualized Self”, following paragraph)
 
-### In the compendium
+### Here
 
 - [[SE002 — Recognise the observing self — you are not only the contents of awareness]] and [[P160 — Distinguish the observing self from the story of self]] — the principle pair carrying the concept
 - [[S057 — Recognise that your thoughts are not you]] and [[AF043 — Learn to observe feelings without identification — you are not your affect]] — the noticing applied to thoughts and feelings
@@ -34,7 +34,7 @@ Cross-tradition bridge: [[Anatta]] is the Buddhist account of the same insight �
 ## Related concepts
 
 
-- [[Anatta]] — the Buddhist teaching the compendium's bridge line pairs with this concept
+- [[Anatta]] — the Buddhist teaching my bridge line pairs with this concept
 - [[The observing self]] — Deikman's version of the noticing position
 - [[Cognitive defusion]] — the sibling ACT process for stepping back from thoughts
 - [[Acceptance]] — the sibling process on the openness side

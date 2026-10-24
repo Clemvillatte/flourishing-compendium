@@ -18,7 +18,7 @@ Bergson distinguishes pure memory from the images it lends to the present. A mem
 
 > "Your perception, however instantaneous, consists then in an incalculable multitude of remembered elements; and in truth every perception is already memory. Practically we perceive only the past, the pure present being the invisible progress of the past gnawing into the future." (Bergson, Matter and Memory, ch. 3, printed p. 194, [Wikisource](https://en.wikisource.org/wiki/Matter_and_Memory/Chapter_3))
 
-The compendium's exercise for an old grievance: write down what you remember, what remains uncertain, and how the recollection bears on a decision you face now.
+My exercise for an old grievance: write down what you remember, what remains uncertain, and how the recollection bears on a decision you face now.
 
 **Plain words**
 When an old disagreement comes to mind, ask which details you are relying on and what you are deciding today.

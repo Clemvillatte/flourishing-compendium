@@ -15,7 +15,7 @@ Soto and colleagues studied whether the association between expressive suppressi
 
 The study asked 71 European American students and 100 Chinese students from Hong Kong to report on their use of expressive suppression, life satisfaction, and depressed mood ([Soto et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21707152/)). The authors' hypothesis was that the negative associations between suppression and psychological functioning seen in European Americans would not be seen among members of East Asian cultures, in which emotional restraint is relatively encouraged over emotional expression ([Soto et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21707152/)). They conclude that the findings highlight the importance of context in understanding the suppression-health relationship ([Soto et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21707152/)).
 
-### In the compendium
+### Here
 
 - [[AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture]]: quotes the study's hypothesis directly
 - [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]]: treats culture as shaping which emotional strategies fit

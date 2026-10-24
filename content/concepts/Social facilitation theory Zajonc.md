@@ -31,7 +31,7 @@ Dominant responses are behavioral responses at the top of an organism's behavior
 
 Illustrative scenario, not a reported finding: a runner goes faster when racing alongside others, and fumbles an unfamiliar card trick performed for the first time in front of friends. On Zajonc's account both are the same arousal at work.
 
-### In the compendium
+### Here
 
 - [[R002 — Practise humanity toward others]]
 - [[SO003 — Use the self-culture link, not a fixed self]] — self and culture in relation

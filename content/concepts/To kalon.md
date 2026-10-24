@@ -15,7 +15,7 @@ To kalon (τὸ καλόν) is the ancient Greek term Aristotle uses for what a 
 
 The term carries an aesthetic charge into ethics: "This term indicates that Aristotle sees in ethical activity an attraction that is comparable to the beauty of well-crafted artifacts, including such artifacts as poetry, music, and drama" ([SEP](https://plato.stanford.edu/entries/aristotle-ethics/)). A well-executed virtuous project is kalon as well as advantageous, since, as the entry puts it, "the balance it strikes is part of what makes it advantageous" ([SEP](https://plato.stanford.edu/entries/aristotle-ethics/)). The training of character runs on this attraction: the young person learning virtue, in the entry's paraphrase, must develop a love of doing what is kalon and a strong aversion to its opposite, the aischron, the shameful and ugly ([SEP](https://plato.stanford.edu/entries/aristotle-ethics/)). And it is not easy: "Determining what is kalon is difficult (1106b28–33, 1109a24–30)" ([SEP](https://plato.stanford.edu/entries/aristotle-ethics/)).
 
-### In the compendium
+### Here
 
 - [[A041 — Know that virtue aims at the beautiful (to kalon)]] carries the term as its center: virtue's reward is not only usefulness but the beauty of the act itself, and the principle asks the reader to notice that beauty as a reason to act.
 

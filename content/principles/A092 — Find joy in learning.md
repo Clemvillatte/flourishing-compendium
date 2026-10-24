@@ -18,7 +18,7 @@ Aristotle opens the Metaphysics with the claim and its evidence:
 
 Even useless knowing is loved: "even when we are not going to do anything, we prefer seeing (one might say) to everything else." Philosophy itself begins in wonder: "For it is owing to their wonder that men both now begin and at first began to philosophize", and it is pursued as "the only free science, for it alone exists for its own sake" (I.2). The Ethics agrees about the pleasure: "the activity of philosophic wisdom is admittedly the pleasantest of virtuous activities; at all events the pursuit of it is thought to offer pleasures marvellous for their purity and their enduringness" ([NE X.7, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
-The compendium's exercise: follow one question with no use in mind for a fixed stretch of time, and note whether the wanting-to-know stays awake on its own.
+My exercise: follow one question with no use in mind for a fixed stretch of time, and note whether the wanting-to-know stays awake on its own.
 
 **Plain words** Aristotle says everyone wants to know things by nature. We even enjoy looking at things when nothing depends on it. Wonder at something difficult is where philosophy starts, and learning itself is one of the pleasantest activities.
 

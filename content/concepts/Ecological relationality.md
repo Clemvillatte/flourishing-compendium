@@ -17,7 +17,7 @@ Ecological relationality names the view that a living thing's identity is made o
 
 Næss worked out the relational side in detail: he rejected atomistic individualism, the idea of a person as a separate unit with a distinct essence, and proposed instead a "total-field image" in which organisms, human or otherwise, are "knots" in the biospherical net, so that a living thing's identity is constituted by its relations, especially its ecological ones ([SEP, ibid.](https://plato.stanford.edu/entries/ethics-environmental/)). His "Self-realization" is the realization of a wider ecological Self, and care for nature is meant to follow from identification with it rather than from duty alone ([SEP, ibid.](https://plato.stanford.edu/entries/ethics-environmental/)). The [SEP entry](https://plato.stanford.edu/entries/ethics-environmental/) also records the feminist objection that an expanded self could license treating nature as one treats oneself, so identification needs the check of respecting nature as an independent other.
 
-### In the compendium
+### Here
 
 - [[R129 — Practise ecological relationality as spiritual practice]]
 - [[R013 — Practise connection to Country]]

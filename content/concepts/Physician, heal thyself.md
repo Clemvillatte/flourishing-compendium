@@ -15,7 +15,7 @@ The saying is a proverb quoted in the verse: those who demand proof are invited 
 
 The scene is Jesus reading in the synagogue of Nazareth, the town he had been brought up in, and then being asked for the proofs his neighbours had heard about from Capernaum. He quotes their own demand back at them as a proverb and then gives the harder line: "No prophet is accepted in his own country" (Luke 4:24, KJV, [Bible Gateway](https://www.biblegateway.com/passage/?search=Luke%204%3A14-30&version=KJV)). The passage closes with the congregation filled with wrath and leading him to the brow of the hill, "that they might cast him down headlong" (Luke 4:29, KJV, [Bible Gateway](https://www.biblegateway.com/passage/?search=Luke%204%3A14-30&version=KJV)) — the proverb that began as a demand for proof ends as a rejection of the person who had it.
 
-As the proverb is used outside the scene, it names a standing test of anyone who prescribes: apply the cure to yourself before offering it to others. The compendium's linked principles work the same edge — heal the instrument before trusting it, govern yourself before governing others.
+As the proverb is used outside the scene, it names a standing test of anyone who prescribes: apply the cure to yourself before offering it to others. My linked principles work the same edge — heal the instrument before trusting it, govern yourself before governing others.
 
 ## Related concepts
 

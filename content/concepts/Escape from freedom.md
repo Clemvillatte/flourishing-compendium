@@ -25,7 +25,7 @@ Fromm traced modern isolation to the growth of individualism after the Reformati
 
 Fromm's response is positive freedom, the "freedom to" exercised in spontaneous activity: "in the spontaneous realization of the self, man unites himself anew with the world" ([Wikipedia](https://en.wikipedia.org/wiki/Escape_from_Freedom)). The diagnosis has limits the IEP records: Fromm underweighted the intensity of Hitler's anti-Semitism, and his claim that Nazism drew its psychology from the German lower middle class "has not held up" (Friedman 2013), since the Nazis gained votes from all classes ([IEP](https://iep.utm.edu/totalita/)).
 
-### In the compendium
+### Here
 
 S001 sorts what is up to you from what is not, and A001 gives freedom a direction in eudaimonia; SP019 and SP041 diagnose the escape through others' opinions, and D133 the escape through domination. K310 catches "I had to" as bad faith, E070 treats ambiguity as the condition of ethical life, and ST269 gives the Sartrean comparison: the waiter performing bad faith.
 
@@ -35,7 +35,7 @@ S001 sorts what is up to you from what is not, and A001 gives freedom a directio
 - [[D133 — Don't dominate — the world can't be controlled]] — the Daoist warning against forcing the world
 - [[S001 — Distinguish what is up to you from what is not]] — the Stoic freedom that remains once externals are sorted
 - [[A001 — Make eudaimonia the organising end of your life]] — an answer to the emptiness of negative freedom
-- [[K310 — Bad-faith detection]] — "I had to" as the compendium's individual-case comparison
+- [[K310 — Bad-faith detection]] — "I had to" as my individual-case comparison
 - [[E070 — Practise the ethics of ambiguity]] — de Beauvoir's refusal to escape the ambiguity freedom brings
 - [[ST269 — The Waiter's Dance]] — bad faith as a role performed instead of a choice owned
 
@@ -49,10 +49,10 @@ S001 sorts what is up to you from what is not, and A001 gives freedom a directio
 - [[Freedom]] — the capacity the flight abandons; Fromm splits it into freedom from and freedom to
 - [[The approval trap]] — the esteem-driven version of automaton conformity
 - [[Domination critique]] — domination as the assertive pole of Fromm's authoritarianism mechanism
-- [[Conformity]] — the compendium's Asch-focused page provides a comparison with Fromm's account of adopting a culturally prescribed personality
-- [[Bad faith]] — the compendium pairs Sartre's individual dodge with Fromm's social flight as a comparison
+- [[Conformity]] — my Asch-focused page provides a comparison with Fromm's account of adopting a culturally prescribed personality
+- [[Bad faith]] — I pair Sartre's individual dodge with Fromm's social flight as a comparison
 - [[Radical freedom]] — Sartre's opposite pole: freedom as inescapable (comparison)
-- [[The dizziness of freedom]] — the compendium sets Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison
+- [[The dizziness of freedom]] — I set Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison
 - [[The need to belong]] — the need that the new secondary bonds promise to satisfy
 - [[Loneliness]] — the condition all three escape mechanisms relieve
 - [[Obedience research]] — experimental research on obedience to authority

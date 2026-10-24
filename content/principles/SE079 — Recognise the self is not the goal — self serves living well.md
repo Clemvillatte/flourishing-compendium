@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 79** — Recognise the self is not the goal: self serves living well
 
-The Buddhist image for this principle is the raft. The Dhamma is taught "for the purpose of crossing over, not for the purpose of holding onto", and the man who, having crossed the flood, hoists the raft on his head and carries it wherever he goes is doing precisely the wrong thing with it (MN 22). The simile is about teachings; applied to the self it fits the principle's point. The self is equipment for crossing, for working, loving and contributing, and polishing it as an end in itself is the raft on the head. The compendium's framing: self-development serves a life of meaning, connection and engagement, not the reverse.
+The Buddhist image for this principle is the raft. The Dhamma is taught "for the purpose of crossing over, not for the purpose of holding onto", and the man who, having crossed the flood, hoists the raft on his head and carries it wherever he goes is doing precisely the wrong thing with it (MN 22). The simile is about teachings; applied to the self it fits the principle's point. The self is equipment for crossing, for working, loving and contributing, and polishing it as an end in itself is the raft on the head. My framing: self-development serves a life of meaning, connection and engagement, not the reverse.
 
 > "In the same way, monks, I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas." (MN 22, trans. Thanissaro Bhikkhu)
 

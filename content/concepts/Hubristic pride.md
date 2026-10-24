@@ -15,7 +15,7 @@ In Tracy and Robins's two-facet model of pride, hubristic pride is the narcissis
 
 The model ties hubristic pride to attributing positive events to internal, stable and uncontrollable factors, such as believing one is simply smart: the success is credited to what the person is, not what they did. In the 2009 studies, hubristic pride was positively related to narcissistic self-aggrandizement and, with it, to aggression and other antisocial behaviors, and negatively related to genuine self-esteem.
 
-### In the compendium
+### Here
 
 - [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — the principle that warns against this facet
 - [[SP023 — Separate self-esteem from vanity and self-abasement]] — separates the worth-based reading from the vanity-based one

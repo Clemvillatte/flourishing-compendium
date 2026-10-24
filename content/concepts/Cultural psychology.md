@@ -7,7 +7,7 @@ file: "Cultural psychology"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Cultural psychology is the study of how culture enters into the most basic workings of mind: what counts as a self, which emotions come naturally, what counts as a reason for acting. One statement of this approach is Hazel Markus and Shinobu Kitayama's 1991 review in Psychological Review ([full PDF](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)), which contrasts independent and interdependent construals of the self and examines their implications for cognition, emotion and motivation. The compendium's reading of the field: the default self of any given textbook is itself a cultural artifact, which is the standing corrective the WEIRD-critique principle below carries.
+Cultural psychology is the study of how culture enters into the most basic workings of mind: what counts as a self, which emotions come naturally, what counts as a reason for acting. One statement of this approach is Hazel Markus and Shinobu Kitayama's 1991 review in Psychological Review ([full PDF](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)), which contrasts independent and interdependent construals of the self and examines their implications for cognition, emotion and motivation. My reading of the field: the default self of any given textbook is itself a cultural artifact, which is the standing corrective the WEIRD-critique principle below carries.
 
 > "Rather, in many construals, the self is viewed as interdependent with the surrounding context, and it is the 'other' or the 'self-in-relation-to-other' that is focal in individual experience." (Markus & Kitayama, [Culture and the self](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf), Psychological Review 98(2), 1991, p. 225)
 
@@ -15,7 +15,7 @@ Cultural psychology is the study of how culture enters into the most basic worki
 
 Markus and Kitayama's contrast pairs that interdependent view with the independent construal, which they present through a phrase they quote from the anthropologist Clifford Geertz: "a bounded, unique, more or less integrated motivational and cognitive universe" set against "a social and natural background" (p. 226). The review argues that these construals "can influence, and in many cases determine, the very nature of individual experience, including cognition, emotion, and motivation" (p. 224).
 
-### In the compendium
+### Here
 
 - [[SE054 — Recognise self and culture — your self is culturally shaped]] — the principle built directly on this literature; it opens with the Markus and Kitayama abstract
 - [[SO044 — Treat the WEIRD critique as a standing corrective]] — the sampling critique of generalizations from narrow samples, grounded in the same cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)

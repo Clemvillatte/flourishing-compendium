@@ -13,7 +13,7 @@ Embedded cognition is one of the "four Es" of contemporary cognitive science: th
 
 The examples are the ordinary ones: "cognitive tasks—dividing a number into fractions, navigating a large ship, retrieving the correct book from a shelf—require some quantity of cognitive effort", and the load can be reduced by an appropriately designed environment. The position is distinct from its bolder cousin: "extended cognition moves from the claim that cognition is embedded to claim additionally that the environmental and social resources that enhance the cognitive capacities of an agent are in fact *constituents* of a larger cognitive system, rather than merely useful tools". Embedded cognition treats the environment as a support for cognition; extended cognition counts the resources as parts of the cognitive system itself.
 
-### In the compendium
+### Here
 
 - [[E021 — Practise being-in-the-world]] and [[K018 — Take interpenetration literally]] are this concept's psychology parallels
 - [[SO034 — Treat knowledge as social]] and [[E019 — Practise the chiasm]] are linked principles

@@ -42,7 +42,7 @@ Transcendence, where it shows at all, shows in ciphers, which the SEP account lo
 - **The Axial Age** — the simultaneous window in which the great traditions took shape. See [[The Axial Age]].
 - **Philosophy as questioning** — philosophizing as an activity of the whole person, not a body of results. See [[Philosophy as questioning]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Limit situations (Grenzsituationen)]]
 - [[Existential communication]]
@@ -50,7 +50,7 @@ Transcendence, where it shows at all, shows in ciphers, which the SEP account lo
 - [[The Axial Age]]
 - [[Shipwreck (Scheitern)]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1f mint rule (own tradition plus what the page teaches); the full script output is kept, with the two story-backlink-only entries (E100, the providence saying) classified as connected through the shipwreck story rather than as Jaspers doctrine.
 

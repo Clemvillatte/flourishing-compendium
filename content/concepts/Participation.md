@@ -15,7 +15,7 @@ Gabriel Marcel's name for the mode of being in which one is involved in what one
 
 Participation is the fitting stance toward what is mystery in this sense. Marcel's own words reach for it directly: "I aspire to participate in this being, in this reality—and perhaps this aspiration is already a degree of participation, however rudimentary" ([The Philosophy of Existentialism, quoted in SEP](https://plato.stanford.edu/entries/marcel/)). Its social face is what he calls availability, disponibilité: to be present to another "with the whole of himself", where for the unavailable person the other is merely an object ([Marcel 1995, pp. 39-40, in SEP](https://plato.stanford.edu/entries/marcel/)). Participation does not exclude reflection; Marcel's secondary reflection is itself a participatory thinking, since the thinker includes his own involvement in what it examines.
 
-### In the compendium
+### Here
 
 - [[R090 — Practise participation]] — turns the stance into an exercise: when considering a relationship or commitment, include how you are involved in it, rather than treating yourself solely as an outside observer.
 
@@ -23,7 +23,7 @@ Participation is the fitting stance toward what is mystery in this sense. Marcel
 
 - [[Problem vs. mystery]] — the distinction that gives participation its object.
 - [[Availability]] — the interpersonal form of participation, Marcel's disponibilité.
-- [[Engagement]] — the Aristotelian parallel the compendium lists beside this concept.
+- [[Engagement]] — the Aristotelian parallel I list beside this concept.
 
 ## Sources
 

@@ -15,9 +15,9 @@ The fusion is not a compromise midpoint. In Gadamer's account, understanding "in
 
 The background condition is what Gadamer calls historically effected consciousness: interpreters are shaped by the history and tradition they interpret, so the projection of the historical horizon is "simultaneously superseded" as the fusion occurs ([Truth and Method](https://www.pierre-legrand.com/excerpts_from_gadamer.pdf); [SEP](https://plato.stanford.edu/entries/gadamer/)). The model of the whole process is dialogue or conversation.
 
-### In the compendium
+### Here
 
-The compendium carries the concept socially rather than textually. E080 practises the fusion directly: one's own horizon is challenged and expanded by the other's, and openness is the discipline. SO013 treats cultural meaning as constructed rather than given, SO063 and SO064 treat migration, acculturation and cultural adaptation as processes one can design, and SO072 brings the fusion into clinical work as cultural formulation. The stories show the fusion and its failures: ST288's Joel and Clementine erasing each other, ST285's Ricoeurian mimesis and ST312's redemptive sequences building the narrative bridge, ST287's Will finishing the story, and D124 looking for the right in the other side.
+I carrie the concept socially rather than textually. E080 practises the fusion directly: one's own horizon is challenged and expanded by the other's, and openness is the discipline. SO013 treats cultural meaning as constructed rather than given, SO063 and SO064 treat migration, acculturation and cultural adaptation as processes one can design, and SO072 brings the fusion into clinical work as cultural formulation. The stories show the fusion and its failures: ST288's Joel and Clementine erasing each other, ST285's Ricoeurian mimesis and ST312's redemptive sequences building the narrative bridge, ST287's Will finishing the story, and D124 looking for the right in the other side.
 
 - [[SO013 — Treat cultural meaning as constructed, not given]] — meaning as negotiated, the constructivist frame the fusion presupposes
 - [[ST288 — Joel and Clementine Erase Each Other]] — the failed fusion, played out in memory

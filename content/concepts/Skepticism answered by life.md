@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Skepticism answered by life” — Hume, Enquiry, Section XII, the backgammon passage.
 
-The idea is that radical doubt about reason, the senses and the external world does not survive ordinary living. Hume makes the point in Section XII of An Enquiry concerning Human Understanding ("Of the Academical or Sceptical Philosophy"), where he calls the extreme position Pyrrhonism or "excessive" scepticism. The backgammon image that the compendium's seed line attaches to the Enquiry is in fact from his earlier Treatise of Human Nature (see below).
+The idea is that radical doubt about reason, the senses and the external world does not survive ordinary living. Hume makes the point in Section XII of An Enquiry concerning Human Understanding ("Of the Academical or Sceptical Philosophy"), where he calls the extreme position Pyrrhonism or "excessive" scepticism. The backgammon image that my seed line attaches to the Enquiry is in fact from his earlier Treatise of Human Nature (see below).
 
 ### The Enquiry's reply
 
@@ -31,7 +31,7 @@ The reply is about what a person can sustain, not about whether the doubts are t
 
 He also does not end in dogmatism. Paragraph 129 recommends a "mitigated" scepticism that keeps "a degree of doubt, and caution, and modesty, which, in all kinds of scrutiny and decision, ought for ever to accompany a just reasoner."
 
-### In the compendium
+### Here
 
 - [[SP045 — Treat certainty as intrinsic, not stamped from outside]] lists the Hume passage among its philosophy parallels, beside Spinoza's account of the adequate idea.
 - [[M036 — Ask whether this life is real, and let the question sting]] and [[MO054 — Learn to use self-regulation strategies — manage impulses]] link to this page; the two stories listed below link to it as well.

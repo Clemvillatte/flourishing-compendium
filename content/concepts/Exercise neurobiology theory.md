@@ -13,7 +13,7 @@ Exercise neurobiology theory is a proposed explanation for why moving the body c
 
 The numbers behind that summary: the meta-analysis covered 29 studies and 1111 participants, and reports that "Results demonstrated a moderate effect size for increases in BDNF following a single session of exercise (Hedges' g = 0.46, p < 0.001)". The same review reports that "regular exercise intensified the effect of a session of exercise on BDNF levels". The mediation itself is described in the review as preliminary evidence, not a settled mechanism.
 
-### In the compendium
+### Here
 
 - [[BE040 — Learn to use exercise as a mental health behaviour — movement is antidepressant]] is this concept's direct parallel
 - [[AT044 — Recognise the role of exercise in attention — movement restores and improves attention]] and [[BI026 — Learn that strength training is also effective for mental health]] carry its applied edges

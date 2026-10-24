@@ -15,7 +15,7 @@ The Matching Hypothesis is the social-psychological claim that people pair with 
 
 The same paper's Introduction gives the current state of the debate: "it has been discovered that people end up in committed relationship in which partners are likely to be of similar attractiveness, as predicted by the matching hypothesis in the field of social psychology", yet "it is found in social experiments that people tend to pursue or accept highly desirable individuals regardless of their own attractiveness" ([same paper, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC4470921/)). It also reports a model result that bears on the mechanism: "By simply assuming that highly attractive individuals are more likely to be accepted, the system generates patterns supporting the matching hypothesis even when similarity is not directly considered in the partner selection process" ([same paper, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC4470921/)).
 
-### In the compendium
+### Here
 
 - The page is cited from the science-backed kernels layer ([[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]) as partner-selection research.
 

@@ -18,9 +18,9 @@ The evidence is famous. Seminary students who agreed to give a talk on helping t
 
 The inference is contested. Trait psychologists reply that behavior comes from trait-situation interactions, and "interactionism is currently an accepted personality theory" ([Wikipedia](https://en.wikipedia.org/wiki/Situationism_(psychology))). The encyclopedia frames the residue: the studies are taken to show that people have "only narrow, 'local' traits", and the challenge is to "develop an account of character that is consistent with empirical results".
 
-### In the compendium
+### Here
 
-The compendium's response is to move from traits to trained situational attention. A046, "See the particular," and A038's practical judgment (gnome) are phronesis, the trained capacity the ancient view actually needs; P084, "Act in the situation, not from the rulebook," is situationism read as instruction; A051 and A104's equity (epieikeia) corrects the rule exactly where situations outrun it; P039's rehearsal trains the judgment under the time pressure the seminary students lacked. The comparison with the virtue tradition is structural, not a claim that Aristotle knew the studies.
+My response is to move from traits to trained situational attention. A046, "See the particular," and A038's practical judgment (gnome) are phronesis, the trained capacity the ancient view actually needs; P084, "Act in the situation, not from the rulebook," is situationism read as instruction; A051 and A104's equity (epieikeia) corrects the rule exactly where situations outrun it; P039's rehearsal trains the judgment under the time pressure the seminary students lacked. The comparison with the virtue tradition is structural, not a claim that Aristotle knew the studies.
 
 ## Related concepts
 

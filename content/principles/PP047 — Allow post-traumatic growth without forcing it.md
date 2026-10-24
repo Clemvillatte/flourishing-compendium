@@ -16,7 +16,7 @@ Tedeschi's summary: "We ultimately coined the term 'post-traumatic growth' as a 
 
 > "In subsequent qualitative and quantitative research, we were able to identify five domains of post-traumatic growth: improved relationships with others, new possibilities for the life path, a greater appreciation for life, a greater sense of personal strength, and new perspectives on spiritual and existential issues." (Tedeschi 2023, [World Psychiatry](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.21093))
 
-The compendium treats reported positive changes as possibilities, not obligations. Its practical stance is to leave room for growth without requiring a person to find benefits in suffering.
+I treat reported positive changes as possibilities, not obligations. Its practical stance is to leave room for growth without requiring a person to find benefits in suffering.
 
 **Plain words**
 Some people report positive changes after trauma. You do not have to find a benefit or turn suffering into a lesson. Leave room for change without requiring a silver lining.

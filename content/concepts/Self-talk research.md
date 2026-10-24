@@ -19,7 +19,7 @@ Hardy, Hall and Hardy surveyed athletes with the Self-Talk Use Questionnaire: 29
 
 - [[Self-distancing]] — distanced self-talk is the same instrument aimed at regulation from the outside
 - [[Vygotsky's sociocultural theory]] — the verbal self-regulation theory the study cites as its frame
-- [[Rumination]] — the compendium's concept for repetitive negative thought
+- [[Rumination]] — my concept for repetitive negative thought
 
 ## Sources
 

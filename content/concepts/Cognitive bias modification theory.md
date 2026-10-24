@@ -13,7 +13,7 @@ Cognitive bias modification (CBM) is an approach to modifying cognitive biases t
 
 Beard quotes a definition attributed to Koster et al. with two key features: the direct target of change is a cognitive bias known to characterize a clinical disorder or vulnerability trait, and the manipulation of the bias "has not principally relied on instruction but instead has involved extensive practice on a cognitive task designed to encourage and facilitate the desired cognitive change" ([Beard 2011, section "Treatments targeting cognitive biases"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3092585/)). A meta-analysis of twelve randomized trials found that the attentional form, attention bias modification treatment, "produced significantly greater reductions in anxiety than control training, with a medium effect (d = .51 [corrected] (p < .001)" ([Hakamata et al. 2010, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20887977/)). The authors' conclusion is hedged: additional randomized trials are needed to fully evaluate the degree to which the findings replicate and apply to patients ([Hakamata et al. 2010, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20887977/)).
 
-### In the compendium
+### Here
 
 - [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]]
 - [[CO082 — Build a cognitive-maintenance system — learn, adapt, retain]]

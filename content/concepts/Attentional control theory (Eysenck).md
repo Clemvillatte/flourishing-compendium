@@ -20,7 +20,7 @@ The theory builds on Corbetta and Shulman's distinction between "a goal-directed
 
 The theory's most useful distinction concerns what anxiety costs. "Adverse effects of anxiety on processing efficiency depend on two central executive functions involving attentional control: inhibition and shifting. However, anxiety may not impair performance effectiveness (quality of performance) when it leads to the use of compensatory strategies (e.g., enhanced effort; increased use of processing resources)" ([Eysenck et al., 2007](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf), abstract, p. 336). The theory allows performance quality to be maintained through enhanced effort or greater use of processing resources ([Eysenck et al., 2007](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf), abstract, p. 336).
 
-### In the compendium
+### Here
 
 - [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]]
 - [[AT070 — Recognise anxiety's effect on attention — threat capture]]

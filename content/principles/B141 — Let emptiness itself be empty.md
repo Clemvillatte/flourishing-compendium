@@ -23,7 +23,7 @@ Westerhoff also [distinguishes intellectual understanding from realisation](http
 **Plain words**
 Imagine taking apart a table and looking for a “tableness” that exists all by itself. Finding parts and conditions has not revealed an extra ingredient called emptiness. That is an everyday analogy for the danger here: you can question something's independent existence, then accidentally give the word you used to question it an independent existence of its own.
 
-For example: A writer drafts “Emptiness is the ultimate substance of the universe.” Compare that with “Things lack an independent nature; emptiness names that lack.” Ask which sentence turns the correction into a new foundation. Keep the wording that makes its object and meaning clear, and review later uses of the word for the same mistake. This is the compendium's writing exercise, not an additional verse from Nagarjuna.
+For example: A writer drafts “Emptiness is the ultimate substance of the universe.” Compare that with “Things lack an independent nature; emptiness names that lack.” Ask which sentence turns the correction into a new foundation. Keep the wording that makes its object and meaning clear, and review later uses of the word for the same mistake. This is my writing exercise, not an additional verse from Nagarjuna.
 
 ## Sources
 

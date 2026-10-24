@@ -16,7 +16,7 @@ Watson, Clark and Tellegen developed the PANAS as two ten-item mood scales and r
 
 > "In recent studies of the structure of affect, positive and negative affect have consistently emerged as two dominant and relatively independent dimensions." ([Watson, Clark and Tellegen, 1988, abstract](https://pubmed.ncbi.nlm.nih.gov/3397865/))
 
-This finding concerns how the measures related in that research. It does not establish complete independence or show what an intervention would do to either score. The compendium's exercise is to record positive and negative experiences separately.
+This finding concerns how the measures related in that research. It does not establish complete independence or show what an intervention would do to either score. My exercise is to record positive and negative experiences separately.
 
 **Plain words** Ask two questions: what felt unpleasant today, and what felt pleasant? Record both answers without assuming that knowing one tells you the other.
 

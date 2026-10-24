@@ -17,7 +17,7 @@ About one participant in four, 25 percent in the original report, came to rememb
 
 ### Why confidence is not accuracy
 
-The compendium's principle on implanted memories draws the practical lesson: vividness and confidence tell a person how strongly a memory is held, not whether it happened. The same caution runs through the reconstructive-memory principle next to it, since both rest on the finding that remembering is rebuilding, not replaying.
+My principle on implanted memories draws the practical lesson: vividness and confidence tell a person how strongly a memory is held, not whether it happened. The same caution runs through the reconstructive-memory principle next to it, since both rest on the finding that remembering is rebuilding, not replaying.
 
 ## Related concepts
 

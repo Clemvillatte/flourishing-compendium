@@ -15,10 +15,10 @@ Despair, in Kierkegaard's sense, is a technical category of the self rather than
 
 The misrelation can run in two directions, and the text names both poles: "This form of despair is: in despair not to will to be oneself. Or even lower: in despair not to will to be a self. Or lowest of all: in despair to will to be someone else, to wish for a new self," with the opposite pole, "in despair to will to be oneself" ([Storm commentary text](https://sorenkierkegaard.org/sickness-unto-death.html)). The book's compact statement of the goal is the mirror image of the fault: "in relating itself to itself and in willing to be oneself, the self rests transparently in the power that established it" ([same text](https://sorenkierkegaard.org/sickness-unto-death.html)). The remedy, on this account, is a re-established relation to the power that established the self, not a change of mood.
 
-### In the compendium
+### Here
 
 - [[E049 — Practise despair and its overcoming]] — carries the two forms of despair and reads them as a practice, not a diagnosis to resign oneself to
-- [[D101 — Drop pretense — stop standing on tiptoe]] — the compendium pairs defiant self-assertion with the Daodejing's verdict on standing on tiptoe
+- [[D101 — Drop pretense — stop standing on tiptoe]] — I pair defiant self-assertion with the Daodejing's verdict on standing on tiptoe
 
 ## Related concepts
 

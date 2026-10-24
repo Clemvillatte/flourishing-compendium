@@ -17,7 +17,7 @@ The same review, whose discussion focuses primarily on nonhuman animal experimen
 
 An fMRI study of 18 young, healthy participants, published in PLoS One in 2012, reports a pattern consistent with the theory: hippocampal activation "decreased over time for initially episodic, later semantic memories, but remained stable for consistently episodic ones", at least in its posterior part, while memories becoming semantic over time consolidated through progressive hippocampal disengagement ([Harand et al., PLoS One 7(8), 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/22937055/)). The participants learned a series of pictures and were scanned at two recognition sessions, 3 days and 3 months later ([same record](https://pubmed.ncbi.nlm.nih.gov/22937055/)).
 
-### In the compendium
+### Here
 
 - [[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention]] lists this theory as a psychology parallel.
 

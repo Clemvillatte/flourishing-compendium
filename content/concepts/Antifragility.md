@@ -15,9 +15,9 @@ Taleb's argument, set out in Antifragile (2012), is that we had no word for thin
 
 ### The dose question
 
-The concept's practical difficulty is the dose: whether a given stressor strengthens or damages is a matter of degree and context, not a general law, and the theory does not say that adversity generally improves people. Where that line sits is what the compendium's practices around obstruction and adversity work on.
+The concept's practical difficulty is the dose: whether a given stressor strengthens or damages is a matter of degree and context, not a general law, and the theory does not say that adversity generally improves people. Where that line sits is what my practices around obstruction and adversity work on.
 
-### In the compendium
+### Here
 
 - [[A028 — Practice resilience in adversity]] — a Stoic training in adversity
 - [[P085 — Let obstruction do its work]] — the productive use of resistance

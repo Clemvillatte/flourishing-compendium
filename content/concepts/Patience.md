@@ -15,7 +15,7 @@ Patience is a disposition toward calm waiting under difficulty in Schnitker's ps
 
 Śāntideva's perfection of patience, kṣānti, concerns confronting adversity and anger; Thupten Jinpa's account distinguishes accepting hardship, reflecting on reality and responding to injuries from others ([Tsadra, Cultivating Patience, introduction](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)). Its ethical training and the psychological scale are different accounts, so findings about one should not be treated as tests of the other ([Schnitker, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185); [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)).
 
-### In the compendium
+### Here
 
 - [[B104 — Practice patience (kshanti)]] uses Śāntideva's arguments against becoming angry; the concept also appears as a comparison beside the Daoist principles listed below.
 ## Related concepts

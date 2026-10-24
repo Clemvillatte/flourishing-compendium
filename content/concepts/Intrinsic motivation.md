@@ -17,9 +17,9 @@ The theory describes the tendency through exploration and play: "From birth onwa
 
 ### The undermining effect
 
-The paper's rewards discussion is a 2000 summary of a research program that began with demonstrations that extrinsic rewards can undermine intrinsic motivation; Ryan and Deci's review explains the undermining effect in terms of rewards shifting the perceived locus of causality toward an external source ([Ryan and Deci 2000](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The review's meta-analytic verdict is that "virtually every type of expected tangible reward made contingent on task performance does, in fact, undermine intrinsic motivation" ([Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations," p. 59](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The compendium's rewards principle [[MO062 — Learn to use rewards wisely — reinforcement, not bribery]] frames the practical skill as using rewards "as celebration of progress rather than as the reason for the behaviour."
+The paper's rewards discussion is a 2000 summary of a research program that began with demonstrations that extrinsic rewards can undermine intrinsic motivation; Ryan and Deci's review explains the undermining effect in terms of rewards shifting the perceived locus of causality toward an external source ([Ryan and Deci 2000](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). The review's meta-analytic verdict is that "virtually every type of expected tangible reward made contingent on task performance does, in fact, undermine intrinsic motivation" ([Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations," p. 59](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)). My rewards principle [[MO062 — Learn to use rewards wisely — reinforcement, not bribery]] frames the practical skill as using rewards "as celebration of progress rather than as the reason for the behaviour."
 
-### In the compendium
+### Here
 
 - [[MO003 — Recognise the difference between intrinsic and extrinsic motivation — quality matters]] — the dedicated principle.
 - [[P083 — Prefer interest to forced effort]] and [[P120 — Make activities autotelic — worth doing for their own sake]] — the practice principles.

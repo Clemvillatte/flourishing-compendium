@@ -17,7 +17,7 @@ Alterity is Levinas' word for the otherness of the other person: what remains ou
 
 The Stanford article's gloss: Levinas aligns transcendence "with exteriority, in the sense of what lies outside myself but eludes my comprehensive knowledge: the other person (TI 49)". We can and do constitute the other as an alter ego, the article notes, but such constitution "never exhausts his fundamental difference".
 
-### In the compendium
+### Here
 
 - [[R095 — Practise the trace of the Other]]
 - [[D082 — Don't impose your frame on others]]

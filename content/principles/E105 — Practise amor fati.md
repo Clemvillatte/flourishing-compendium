@@ -24,9 +24,9 @@ Two of the places Nietzsche uses the phrase show its range: a private resolution
 
 The next section of The Gay Science, §277, argues against reading everything that happens as meant for your good. The belief in a personal Providence, he writes, brings us "in great danger of intellectual bondage", and he asks, "Is there a more dangerous temptation" than to believe in it. His conclusion is "we want to leave the Gods alone". Read next to §276, this suggests amor fati is not the optimistic view that all things turn out for the best. It is the willingness to love what is necessary without that assurance.
 
-### What the compendium adds
+### What I add
 
-Both quotations are about the necessary: what cannot be otherwise. The principle's list of suffering, loss and failure, and its "active, joyful affirmation of everything that constitutes your life", are the compendium's extension. Nietzsche's wording is narrower and does not say that every event should be approved.
+Both quotations are about the necessary: what cannot be otherwise. The principle's list of suffering, loss and failure, and its "active, joyful affirmation of everything that constitutes your life", are my extension. Nietzsche's wording is narrower and does not say that every event should be approved.
 
 (Nietzsche, The Gay Science §276, §277; Ecce Homo, "Why I Am So Clever," §10. Quotations from the older public-domain English translations.)
 

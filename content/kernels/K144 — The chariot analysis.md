@@ -14,7 +14,7 @@ The chariot analysis is a way of examining a self-image by taking it apart. It c
 
 ### Protocol
 
-The steps are the compendium's everyday adaptation of the dialogue; the dialogue's own moves are quoted in the Evidence section.
+The steps are my everyday adaptation of the dialogue; the dialogue's own moves are quoted in the Evidence section.
 
 1. Name the self-image that is speaking, and name it as a voice rather than as yourself.
 2. Take it apart as Nāgasena takes the chariot apart: ask whether the "I" now speaking is this feeling, this thought, this memory, this role. The dialogue asks such questions one part at a time and does not tell the questioner what to answer.

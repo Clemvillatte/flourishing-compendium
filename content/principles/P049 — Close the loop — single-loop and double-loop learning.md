@@ -18,7 +18,7 @@ Chris Argyris separates two kinds of learning in his 1991 Harvard Business Revie
 
 Argyris adds that skilled professionals are often very good at single-loop learning and "often so bad at double-loop learning", because they rarely fail and so have not learned to learn from failure.
 
-The compendium's ordering rule is its own, not Argyris's: when a result disappoints, fix the action first. If the same disappointment keeps returning, the repetition is a reason to ask about the assumption behind the action. It does not show the assumption is wrong, but it earns the question.
+My ordering rule is its own, not Argyris's: when a result disappoints, fix the action first. If the same disappointment keeps returning, the repetition is a reason to ask about the assumption behind the action. It does not show the assumption is wrong, but it earns the question.
 
 (Argyris, "Teaching Smart People How to Learn", *Harvard Business Review* 69(3), 1991, 99-109.)
 

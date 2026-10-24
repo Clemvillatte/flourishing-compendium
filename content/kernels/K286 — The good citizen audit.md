@@ -18,7 +18,7 @@ Marcus's own picture, from the Meditations:
 
 > "These things once so fixed and concluded, as thou wouldst think him a happy citizen, whose constant study and practice were for the good and benefit of his fellow citizens, and the carriage of the city such towards him, that he were well pleased with it; so must it needs be with thee, that thou shalt live a happy life." — [Marcus Aurelius, Meditations X.6 (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
-The monthly audit questions are the compendium's editorial design; the engaged citizen they measure is Marcus's.
+The monthly audit questions are my own design; the engaged citizen they measure is Marcus's.
 
 ### Protocol
 

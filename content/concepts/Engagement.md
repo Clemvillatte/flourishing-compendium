@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - Csikszentmihalyi, 1990
 
-Engagement is the compendium's term for the quality of being fully taken up with what one is doing. The idea has an ancient anchor and a modern one. Aristotle's version in Nicomachean Ethics book X is stated in terms of activity: a happy life is an active one, and it does not require ruling the world. After noting that "we can do noble acts without ruling earth and sea," the passage concludes:
+Engagement is my term for the quality of being fully taken up with what one is doing. The idea has an ancient anchor and a modern one. Aristotle's version in Nicomachean Ethics book X is stated in terms of activity: a happy life is an active one, and it does not require ruling the world. After noting that "we can do noble acts without ruling earth and sea," the passage concludes:
 
 > "for even with moderate advantages one can act virtuously (this is manifest enough; for private persons are thought to do worthy acts no less than despots-indeed even more); and it is enough that we should have so much as that; for the life of the man who is active in accordance with virtue will be happy." (Aristotle, [Nicomachean Ethics X.8, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
@@ -23,7 +23,7 @@ The two anchors agree on the central point: engagement is not relaxation, and it
 
 ## Related concepts
 
-- [[Participation]] — the compendium's adjacent treatment of taking part rather than watching
+- [[Participation]] — my adjacent treatment of taking part rather than watching
 
 ## Sources
 

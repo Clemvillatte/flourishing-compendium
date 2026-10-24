@@ -15,7 +15,7 @@ The original entry names the research line behind this label: Sheldon and Elliot
 
 The dual role matters for the trust the label names: the abstract reports more sustained effort among people pursuing self-concordant goals, and greater well-being benefits when those goals are attained. The model links those benefits to satisfaction of autonomy, competence and relatedness, "daily activity-based experiences" that "accumulate during the period of striving" ([Sheldon & Elliot, 1999](https://pubmed.ncbi.nlm.nih.gov/10101878/)).
 
-### In the compendium
+### Here
 
 - [[D107 — Trust your own nature]] — carries the Daoist parallel: Zhuangzi's duck and crane, a warning against correcting natural differences as faults.
 

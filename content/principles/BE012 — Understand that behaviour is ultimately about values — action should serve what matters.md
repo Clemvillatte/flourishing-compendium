@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 12** — Understand that behaviour is ultimately about values: action should serve what matters
 
-Hayes and colleagues describe committed action in Acceptance and Commitment Therapy (ACT) as action directed towards values in the context of openness and awareness. The compendium applies this by using [[Values clarification|values clarification]] to guide the choice of a behaviour to practise: name what matters in a particular situation and choose an action that would express it.
+Hayes and colleagues describe committed action in Acceptance and Commitment Therapy (ACT) as action directed towards values in the context of openness and awareness. I applie this by using [[Values clarification|values clarification]] to guide the choice of a behaviour to practise: name what matters in a particular situation and choose an action that would express it.
 
 > "Committed actions are designed to further values in the context of openness and awareness." (Hayes, Pistorello & Levin, 2012, p. 988)
 

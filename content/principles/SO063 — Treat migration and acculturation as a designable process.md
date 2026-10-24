@@ -18,7 +18,7 @@ Berry's model asks immigrants two questions: whether to maintain the heritage cu
 
 (Berry, 2001, p. 619, via [open PDF](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf).)
 
-In discussing the ICSEY immigrant-youth project, Berry reports that "bicultural identities and integrationist attitudes predicted better psychological adaptation and school adjustment, with separated and marginalized identities being associated with least favorable outcomes." ([Berry 2001, p. 627](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf)) The compendium's "designable process" framing is its own gloss; Berry's assumption of free choice "is not always the case" when the receiving society constrains it ([Berry 2001, p. 619](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf)).
+In discussing the ICSEY immigrant-youth project, Berry reports that "bicultural identities and integrationist attitudes predicted better psychological adaptation and school adjustment, with separated and marginalized identities being associated with least favorable outcomes." ([Berry 2001, p. 627](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf)) My "designable process" framing is its own gloss; Berry's assumption of free choice "is not always the case" when the receiving society constrains it ([Berry 2001, p. 619](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf)).
 
 **Plain words** Separate what you want to keep from the ways you want to participate in your new surroundings. List your preferences alongside the opportunities and barriers you face. Do not assume that losing cultural connections or being excluded was a choice.
 

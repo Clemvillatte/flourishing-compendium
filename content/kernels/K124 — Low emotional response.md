@@ -14,7 +14,7 @@ When provoked, respond with low emotional intensity. Do not match the other pers
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the physiological rationale is in the Gottman research below.*
+*Steps are my own protocol; the physiological rationale is in the Gottman research below.*
 
 1. Notice your own pulse of escalation before composing the reply; the reply written at 100 beats per minute is not a reply, it is a reflex.
 2. Answer the content, not the tone; strip the heat from your words the way you would strip a wire.

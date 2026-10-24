@@ -28,7 +28,7 @@ A later review notes which of the four carries the most consistent evidence:
 > "Of these four experiences, detachment seems to be most consistently associated with positive changes in well-being (for reviews, see Sonnentag and Fritz 2015; Wendsche and Lohmann-Haislah 2017)."
 > — [Virtanen et al., International Archives of Occupational and Environmental Health (2019), PMC7007884](https://pmc.ncbi.nlm.nih.gov/articles/PMC7007884/)
 
-What the sources do not test: the four-experience framework is measured with the REQ and its translations; the compendium's everyday use (trying different breaks and comparing how fatigue changes) applies the taxonomy without testing it.
+What the sources do not test: the four-experience framework is measured with the REQ and its translations; my everyday use (trying different breaks and comparing how fatigue changes) applies the taxonomy without testing it.
 
 ## Other formulations in this library
 

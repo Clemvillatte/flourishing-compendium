@@ -20,13 +20,13 @@ Asch (1946) read two lists to separate groups. The lists "are identical with reg
 
 The effect was seen in "a majority" of cases, and Asch notes it is "not observed in all subjects." The experiment used a short spoken list of traits and a small number of participants, so it supports the idea of a primacy effect without giving a size.
 
-### Why this matters for the wiki's themes
+### Why this matters for my themes
 
 The research is about perception of others, not about the self or about suffering as such. It matters for essays on wisdom because a quick judgment tends to feel like knowledge. Together the studies show how quickly an impression forms and how an early one can colour what follows.
 
 ### Links to the Buddhist and Daoist pages
 
-The original entry ties this concept to Right View, and D088 (the empty boat) is listed under it. Neither the Right View page nor the empty-boat parable is a source on first impressions. The compendium's own Right view page treats it as the first factor of the Eightfold Path, a different subject. Any claim that early Buddhist texts address first-impression bias would need its own source, which this page does not have, so none is made.
+The original entry ties this concept to Right View, and D088 (the empty boat) is listed under it. Neither the Right View page nor the empty-boat parable is a source on first impressions. My own Right view page treats it as the first factor of the Eightfold Path, a different subject. Any claim that early Buddhist texts address first-impression bias would need its own source, which this page does not have, so none is made.
 
 ## Related concepts
 

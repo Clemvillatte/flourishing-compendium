@@ -17,7 +17,7 @@ Levine and Schweitzer's experiments pit honesty against benevolence and find tha
 
 The finding cuts both ways for the speaker: the same sentence can build one kind of trust while eroding another, which is the study's own warning against reading it as a license.
 
-### In the compendium
+### Here
 
 - [[Y029 — Practice truth that serves]] — lists the concept among its psychology parallels.
 

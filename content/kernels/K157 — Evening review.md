@@ -14,7 +14,7 @@ Three questions: "What did I do well? Where did I drift? What is tomorrow's one 
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the effect of written end-of-day reflection is measured in the study below.*
+*Steps are my own protocol; the effect of written end-of-day reflection is measured in the study below.*
 
 1. Take the last quarter hour of the day; the timing at the end of the day is part of what makes the reflection work.
 2. Answer the three questions in writing; the written form outperformed more practice in the field experiment.

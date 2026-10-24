@@ -15,7 +15,7 @@ Heidegger's term for the thing as it stands before a detached look. Equipment in
 >
 > In conspicuousness, obtrusiveness, and obstinacy, that which is ready-to-hand loses its readiness-to-hand in a certain way. But in our dealings with what is ready-to-hand, this readiness-to-hand is itself understood, though not thematically. It does not vanish simply, but takes its farewell, as it were, in the conspicuousness of the unusable. Readiness-to-hand still shows itself, and it is precisely here that the worldly character of the ready-to-hand shows itself too." (Heidegger, Being and Time, [Macquarrie and Robinson translation, p. 104, beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.104.html))
 
-### In the compendium
+### Here
 
 - [[E024 — Practise ready-to-hand and present-at-hand]] — lists the concept among its philosophy parallels.
 

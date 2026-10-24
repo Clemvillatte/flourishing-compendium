@@ -31,14 +31,14 @@ The method has two levers, stated plainly: "The control of these psychic activit
 - **Practice and dispassion** — the twin levers: steady effort and release of craving. See [[Y006 — Understand dispassion as release, not numbness|Understand dispassion as release, not numbness]].
 - **Samadhi** — attention deepening into contemplation, with and without seed. See [[Samadhi]], [[Pratyahara]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Chitta-vritti]]
 - [[Samadhi]]
 - [[Ahimsa]]
 - [[Yoga: union of body, breath, and mind]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 81-entry surname-match floor is not reproduced.
 

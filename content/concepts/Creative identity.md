@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Creative identity” — Beghetto, 2006.
 
-Creative identity, in the compendium, is the idea that seeing oneself as someone who makes things shapes what one goes on to make. The 2006 paper the original entry cites is by Ronald Beghetto, and it measures creative self-efficacy, which he defines as "self-judgments of creative ability", not identity as such. The sources below cover that paper and the Four C model of creativity that Beghetto later developed with James Kaufman.
+Creative identity, here, is the idea that seeing oneself as someone who makes things shapes what one goes on to make. The 2006 paper the original entry cites is by Ronald Beghetto, and it measures creative self-efficacy, which he defines as "self-judgments of creative ability", not identity as such. The sources below cover that paper and the Four C model of creativity that Beghetto later developed with James Kaufman.
 
 ### What the 2006 study found
 
@@ -27,7 +27,7 @@ Kaufman and Beghetto (2009) propose four forms of creativity: everyday "little-c
 
 Neither source tests whether adopting a creative identity changes behaviour. They measure self-judgments of ability and classify kinds of creativity. Anything about identity formation goes beyond these papers.
 
-### In the compendium
+### Here
 
 - [[PP055 — Build a creative identity]] cites this concept, and notes that Beghetto's paper measures creative self-efficacy, not identity.
 - [[P001 — Build your life on becoming, not being]], [[P194 — Distinguish closed morality from open morality; the open requires creative effort, not mere expansion]] and [[ST324 — The Four C's]] cite it as well.

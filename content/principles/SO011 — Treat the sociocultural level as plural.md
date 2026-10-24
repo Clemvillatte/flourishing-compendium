@@ -16,7 +16,7 @@ Markus and Kitayama open their 1991 paper with this claim: "People in different 
 
 Other traditions describe wellbeing in their own terms. Durie's Te Whare Tapa Whā pictures Māori health as a meeting house with four sides, spiritual, mental, physical and family, and says that "if one of the 4 dimensions is missing or damaged in some way, a person or collective may become 'unbalanced' and subsequently unwell" ([New Zealand Ministry of Health](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha)). Southern African ubuntu is expressed in "a person is a person through other persons" ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/)).
 
-None of these sources addresses whether pluralism risks relativism, so that part of the principle rests on the wiki's own reasoning.
+None of these sources addresses whether pluralism risks relativism, so that part of the principle rests on my own reasoning.
 
 **Plain words**
 No single culture holds the final version of a good life. Yours is one version, built from its own assumptions. Learn how others define flourishing before you rank them.

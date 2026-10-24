@@ -40,7 +40,7 @@ For example: someone completes a qualification because their family expects it a
 
 - **[[Right intention|Right intention]]** (Buddhism, Eightfold Path)
 - **[[Autonomy|Autonomy and authenticity]]** (Rogers, On Becoming a Person)
-- **[[The examined life|The examined life]]** (Socrates, Apology 38a: "the life which is unexamined is not worth living", Jowett, MIT Classics; applying this to goals is the compendium's step)
+- **[[The examined life|The examined life]]** (Socrates, Apology 38a: "the life which is unexamined is not worth living", Jowett, MIT Classics; applying this to goals is my step)
 
 ## Practice
 

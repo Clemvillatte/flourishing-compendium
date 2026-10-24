@@ -29,7 +29,7 @@ An everyday-life case : a manager describes herself as direct and fair-minded. H
 
 Hogan first set out the theory in his 1983 Nebraska Symposium chapter, "A Socioanalytic Theory of Personality." The review describes the theory as "an integration of evolutionary psychology, depth psychology and role theory" ([Gottlieb, Furnham and Klewe, 2021](https://www.scirp.org/pdf/psych_2021122114111230.pdf)).
 
-### In the compendium
+### Here
 
 - [[R077 — Practise relational autonomy]]: autonomy is pursued inside groups that grant acceptance and status
 - [[B119 — The self is a chariot — parts without an essence]]

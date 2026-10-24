@@ -23,7 +23,7 @@ The chapter is careful about what the stance does not allow. Optimism is a capac
 
 His examples run to the defiant power of the human spirit, as logotherapy calls it: the quadriplegic student who writes that he views his life as abundant with meaning, and the Vietnam prisoners of war who described captivity, in Frankl's summary of the Yale research, as a growth experience. The original entry's Lebowitz et al., 2022 citation is preserved below; it is not traced to a source, and no claim from it appears on the page.
 
-### In the compendium
+### Here
 
 - [[K317 — Tragic optimism]] — the kernel's three questions: what can I create, what meaning can I find, what is still possible
 - [[E061 — Practise tragic optimism]] — the principle in both parallels sections

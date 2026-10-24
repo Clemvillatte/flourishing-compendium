@@ -13,7 +13,7 @@ Expectancy Violations Theory is Judee Burgoon's account of what happens in commu
 
 Two features carry the theory's weight. First, the violation is not itself the verdict: "Expectancy violations can be negative or positive, with valence influencing consequences" — the same surprise, from a trusted or an untrusted source, lands differently. Second, the violation causes arousal and attention: the theory "posits that (a) violations of expectations—whether positive or negative—cause arousal and focus on the meaning of the violation and (b) negative violations produce unfavorable evaluations" (Mitnick et al. 2021, [Journal of Family Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8660929/)). The unexpected move makes the observer stop and interpret, and that pause is where both persuasion and misunderstanding are manufactured.
 
-### In the compendium
+### Here
 
 - [[SO006 — Treat the social environment as a designable context]] is this concept's direct parallel
 - [[AF009 — Understand that affect is constructed, not discovered]] and [[AF011 — Know that affect has a biological substrate; do not moralise it]] carry its affect-side edges

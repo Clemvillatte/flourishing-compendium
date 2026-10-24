@@ -16,7 +16,7 @@ Daodejing 42 opens with a production chain: "The Tao produced One; One produced 
 
 > "All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy." (Daodejing 42, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter adds an observation about reversal: "So it is that some things are increased by being diminished, and others are diminished by being increased." (DDJ 42.) The compendium reads these lines together as a prompt about attention: when a choice runs on one side of a pair only, effort without rest, speaking without listening, the harmony line asks whether the other side has any place in the decision.
+The chapter adds an observation about reversal: "So it is that some things are increased by being diminished, and others are diminished by being increased." (DDJ 42.) I read these lines together as a prompt about attention: when a choice runs on one side of a pair only, effort without rest, speaking without listening, the harmony line asks whether the other side has any place in the decision.
 
 **Plain words** If you usually take the speaking part, leave room for a reply. If you usually listen, ask for a turn to explain yourself. The principle is a habit of checking that both sides of a pair have a place, in whatever measure the situation calls for.
 

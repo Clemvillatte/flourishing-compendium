@@ -19,9 +19,9 @@ As described in the overview, the theory distinguishes intrinsic load (the diffi
 
 > A heavy cognitive load typically creates error or some kind of interference in the task at hand. — [Wikipedia, Cognitive load (opened)](https://en.wikipedia.org/wiki/Cognitive_load)
 
-The compendium reads the finding through its simplicity and rest principles.
+I read the finding through its simplicity and rest principles.
 
-### In the compendium
+### Here
 
 - [[CO003 — Know that thinking has limited capacity — cognitive load is real]] — the limited-capacity principle.
 - [[D037 — Empty the heart-mind (xuxin)]] — emptying the heart-mind.

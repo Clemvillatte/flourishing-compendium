@@ -20,7 +20,7 @@ Its symptom list includes "Feeling worthless or excessively guilty."
 
 (APA, "What Is Depression?", [psychiatry.org](https://www.psychiatry.org/patients-families/depression/what-is-depression).)
 
-The APA lists feelings of worthlessness or excessive guilt among possible symptoms of depression. The compendium suggests examining self-critical thoughts alongside changes in mood and functioning, rather than treating the feeling itself as a settled judgment about a person.
+The APA lists feelings of worthlessness or excessive guilt among possible symptoms of depression. I suggest examining self-critical thoughts alongside changes in mood and functioning, rather than treating the feeling itself as a settled judgment about a person.
 
 **Plain words** Write down the self-critical thought and what was happening when it appeared. Note accompanying changes in sleep, energy or interest. Separate the feeling from specific events you can describe.
 

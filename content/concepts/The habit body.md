@@ -15,7 +15,7 @@ Merleau-Ponty's Phenomenology of Perception treats habit as neither thought nor 
 
 The chapter's examples are typists, organists and stick users. Of the typist he asks: "If habit is neither a form of knowledge nor an involuntary action, what then is it? It is knowledge in the hands, which is forthcoming only when bodily effort is made, and cannot be formulated in detachment from that effort". The organist who sits at an unfamiliar organ needs only an hour's practice, because the skill is a grasp of the instrument, not a store of reflexes. "Habit expresses our power of dilating our being in the world, or changing our existence by appropriating fresh instruments".
 
-### In the compendium
+### Here
 
 - [[E014 — Practise the habit body]]
 - [[D054 — Practice daily — small consistent effort compounds]]

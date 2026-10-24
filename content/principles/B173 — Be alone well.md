@@ -18,7 +18,7 @@ The Dhammapada's verse on solitary travel comes in a chapter on the fool:
 
 The verse treats solitude as the better choice when the available company would drag you down, and it assumes the seeker would prefer good company. The Rhinoceros Sutta (Sn 1.3) makes solitude into a refrain. Thanissaro Bhikkhu translates it "wander alone like a rhinoceros", and his translator's note explains that the Pali literally says "sword-horn", that the commentary takes this to mean the horn, and that he chose the rhinoceros because it reads more naturally ([Sn 1.3, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.03.than.html)).
 
-The compendium's principle is about the capacity. A person who can only function around others has not found out what is there when nobody is watching. That is the compendium's reading and the verses do not say it directly.
+My principle is about the capacity. A person who can only function around others has not found out what is there when nobody is watching. That is my reading and the verses do not say it directly.
 
 (Dhammapada 61, trans. Buddharakkhita; Sn 1.3, trans. Thanissaro, with translator's note.)
 

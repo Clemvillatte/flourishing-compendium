@@ -20,7 +20,7 @@ How much holding back an emotion costs may also differ by group. One study of Ch
 
 ### Scope
 
-These sources support the claim about ideal affect and about varied results on suppression. They do not cover how emotion labels differ across languages, or which feelings count as acceptable in a given culture. Those parts of the principle are the compendium's.
+These sources support the claim about ideal affect and about varied results on suppression. They do not cover how emotion labels differ across languages, or which feelings count as acceptable in a given culture. Those parts of the principle are my.
 
 **Plain words** People in different cultures tend to prize different feelings, such as excitement or calm. Excitement can read as confidence in one setting and as instability in another. Be cautious about treating your own affect norms as universal.
 

@@ -17,7 +17,7 @@ Seeley and colleagues named the network in a 2007 paper that used task-free conn
 
 The paper's evidence that the two networks do different jobs came from dissociations measured outside the scanner: prescan anxiety ratings correlated with the dACC node of the salience network but no region of the executive-control network, while executive task performance correlated with lateral parietal nodes of the executive-control network and no region of the salience network. A later line of work (Sridharan, Levitin and Menon, PNAS 2008) gave the network its gating role: the right fronto-insular cortex, part of this network, plays a critical and causal role in switching between the central-executive network and the default-mode network, observed across an auditory event segmentation task, a visual oddball task and a task-free resting state.
 
-For the compendium this grounds the [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]] claim that salience can redirect awareness: the switching is a neural event, not a metaphor.
+This grounds the [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]] claim that salience can redirect awareness: the switching is a neural event, not a metaphor.
 
 ## Field
 

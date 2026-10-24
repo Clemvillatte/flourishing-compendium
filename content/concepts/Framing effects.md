@@ -27,7 +27,7 @@ The same review reports that stronger effects are often assumed under fast, intu
 
 The studies concern one-off choices in surveys and experiments. They do not show how much framing shapes major life decisions, and the review treats the mechanism as still debated.
 
-### In the compendium
+### Here
 
 - [[P031 — Choose vocabularies by what they let you do]] and [[CO019 — Recognise framing effects — how something is presented changes how you evaluate it]] cite this concept.
 - [[SO002 — Treat the person as embedded in nested systems]], [[K050 — Reflect on this life's rarity as urgency, not as dread]], [[K035 — Practice the five strengths]] and [[X005 — Carry the ten modes lightly, as spot-checks]] cite it as well.

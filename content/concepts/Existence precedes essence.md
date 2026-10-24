@@ -31,9 +31,9 @@ The consequence he draws is responsibility without excuse: "one will never be ab
 
 ### Limits and care
 
-Sartre's own argument for the slogan rests on atheism: there is no God to hold a conception of human beings. He says that Christian existentialists such as Jaspers and Marcel also hold that existence comes before essence, so the phrase names a shared starting point and not a single doctrine. The lecture is a philosophical argument, not an empirical finding, and the compendium should not present it as one. The Stanford Encyclopedia also notes the dictum seems to commit Sartre to denying a pre-existing transcendental ego, as in Husserl.
+Sartre's own argument for the slogan rests on atheism: there is no God to hold a conception of human beings. He says that Christian existentialists such as Jaspers and Marcel also hold that existence comes before essence, so the phrase names a shared starting point and not a single doctrine. The lecture is a philosophical argument, not an empirical finding, and I should not present it as one. The Stanford Encyclopedia also notes the dictum seems to commit Sartre to denying a pre-existing transcendental ego, as in Husserl.
 
-### In the compendium
+### Here
 
 - [[BE001 — Understand that behaviour is the foundation — what you do shapes how you feel, think, and are]] and [[MO021 — Learn to connect goals to identity — I am a person who...]] cite this concept.
 - [[A055 — Understand that you are responsible for your character]], [[A062 — Recognise that choice reveals character]], [[SE010 — Understand that the self is a process, not a thing]] and [[SE035 — Understand identity as a project — you author yourself]] cite it as well.

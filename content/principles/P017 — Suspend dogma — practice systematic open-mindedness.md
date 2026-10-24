@@ -36,7 +36,7 @@ And his description of what the a priori method does to inquiry:
 
 (Sextus Empiricus, Outlines of Pyrrhonism, Book I; Peirce, "The Fixation of Belief," 1877.)
 
-**Plain words** Sextus' terms are precise: equipollence means no one of the conflicting judgments takes precedence; suspense is the state of mental rest in which we neither deny nor affirm. Peirce describes inquiry prompted by doubt and directed toward belief. Sextus describes suspension when opposing considerations appear equally convincing. These are different accounts; the compendium compares them as reasons to examine an unresolved question before settling it by preference.
+**Plain words** Sextus' terms are precise: equipollence means no one of the conflicting judgments takes precedence; suspense is the state of mental rest in which we neither deny nor affirm. Peirce describes inquiry prompted by doubt and directed toward belief. Sextus describes suspension when opposing considerations appear equally convincing. These are different accounts; I compare them as reasons to examine an unresolved question before settling it by preference.
 
 *For example:* Imagine facing a decision where the considerations on each side still strike you as equal. You could list what evidence would tip them, and go look for that rather than tipping them by preference.
 

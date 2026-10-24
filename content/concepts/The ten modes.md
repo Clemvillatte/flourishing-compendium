@@ -21,15 +21,15 @@ The modes work through a skeptical procedure:
 
 The SEP entry lists them: arguments from the differences between kinds of animals; differences among human beings; differences between the senses; states and dispositions of the perceiver; positions, distances and places; mixtures; the composition of the perceived object; relativity; constancy or rarity of occurrence; and ways of life, customs and laws. As the entry notes, the relativity mode "comprises at least 10–1 to 10–7, or all Ten Modes" ([SEP: Ancient Skepticism](https://plato.stanford.edu/entries/skepticism-ancient/)).
 
-### In the compendium
+### Here
 
-- [[X005]] — the principle that pairs the ten modes with the compendium's wisdom practice.
+- [[X005]] — the principle that pairs the ten modes with my wisdom practice.
 
 ## Related concepts
 
-- [[Epoché]] — the compendium's pairing for the suspension the modes produce.
-- [[Equipollence]] — the compendium's pairing for the equal-weight state the modes aim at.
-- [[Skepticism about the obvious]] — the compendium's pairing for applying the modes to what seems settled.
+- [[Epoché]] — my pairing for the suspension the modes produce.
+- [[Equipollence]] — my pairing for the equal-weight state the modes aim at.
+- [[Skepticism about the obvious]] — my pairing for applying the modes to what seems settled.
 
 ## Sources
 

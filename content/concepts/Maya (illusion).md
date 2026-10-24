@@ -20,7 +20,7 @@ In Advaita Vedanta, māyā is the creative power by which Brahman, the ultimate 
 
 In the Advaita account, Brahman appears as the manifold objects of experience because of its creative power, māyā; māyā is that which appears to be real at the time of experience but does not have ultimate existence ([Menon, Advaita Vedanta, IEP](https://iep.utm.edu/adv-veda/)). The world is a vivarta, a superimposition on Brahman rather than a transformation of it. The same account distinguishes māyā's cosmic aspect, which belongs to īśvara, from avidya, the individual ignorance that belongs to each jīva ([IEP](https://iep.utm.edu/adv-veda/)).
 
-### In the compendium
+### Here
 
 - [[CO001 — Understand that cognition is predictive, not passive]] — perception as generated inference rather than passive reception
 - [[AT001 — Understand that attention is selective — you cannot attend to everything]] — far more is available than awareness registers

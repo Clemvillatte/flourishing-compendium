@@ -17,7 +17,7 @@ Xin is trustworthiness: the alignment of word and deed that lets other people bu
 Mencius traces the genealogy of being trusted: "There is a way of being trusted by one's friends: if one do not serve his parents so as to make them pleased, he will not be trusted by his friends... Therefore, sincerity is the way of Heaven. To think how to be sincere is the way of man" (Mencius 4A12, [Legge](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07)). Trust grows out of sincerity with the people who know you best.
 
 **Plain words**
-Trust is what lets people act on your word without checking it, the way a carpenter relies on a level. Break it once and every future commitment of yours gets quietly priced at a discount. The compendium's kernel (K243) names what it protects: others' wellbeing in their hands. Mencius is blunt about where the repair starts: with your parents and with yourself.
+Trust is what lets people act on your word without checking it, the way a carpenter relies on a level. Break it once and every future commitment of yours gets quietly priced at a discount. My kernel (K243) names what it protects: others' wellbeing in their hands. Mencius is blunt about where the repair starts: with your parents and with yourself.
 
 **For example**
 Do not say you will call someone back if you have no intention. A Confucian worker who says he will finish the beam tomorrow finishes the beam tomorrow, because his reputation with the tradesman is the same fabric as his virtue itself.

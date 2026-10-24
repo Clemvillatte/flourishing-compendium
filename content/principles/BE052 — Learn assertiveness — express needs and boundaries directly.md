@@ -16,10 +16,10 @@ Speed, Goldstein and Goldfried's clinical review makes the case plainly: a subst
 
 > "A substantial body of research indicates that assertiveness is a relevant factor associated with a variety of clinical problems, populations, and contexts, and that assertiveness training is a valuable transdiagnostic intervention." (Speed et al., 2018, [abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12216))
 
-The compendium's working definition is a three-way split: passive behavior violates the self, aggressive behavior violates the other, and assertive behavior states the case without violating either. The review treats the skill as trainable, which is why the practice below is written as practice.
+My working definition is a three-way split: passive behavior violates the self, aggressive behavior violates the other, and assertive behavior states the case without violating either. The review treats the skill as trainable, which is why the practice below is written as practice.
 
 **Plain words**
-Pick one sentence you have been avoiding saying, and write it in the form: what happened, what I need, what I will do. Say it out loud once before the conversation. The drill is the compendium's own; the review's evidence is that the skill can be trained, and this is one concrete form the training can take.
+Pick one sentence you have been avoiding saying, and write it in the form: what happened, what I need, what I will do. Say it out loud once before the conversation. The drill is my own; the review's evidence is that the skill can be trained, and this is one concrete form the training can take.
 
 *For example:* Imagine saying "I can't take this on this week" to a colleague, without an essay attached. What they do with the sentence is not part of the exercise.
 

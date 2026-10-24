@@ -15,7 +15,7 @@ Death acceptance, in Paul Wong's research programme, names attitudes toward deat
 
 The measure's five dimensions are "Fear of Death, Death Avoidance, Neutral Acceptance, Approach Acceptance, Escape Acceptance". The three acceptance types differ in what makes death acceptable: its status as biology, a belief about what follows it, or relief from suffering.
 
-### In the compendium
+### Here
 
 - [[E054 — Practise finitude as gift]] — finitude as the condition of meaning, received as a gift
 - [[K230 — Memento mori]] — the remembrance-of-death practice

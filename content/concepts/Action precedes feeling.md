@@ -35,9 +35,9 @@ James sets common sense against his own hypothesis:
 
 Without the bodily states, he adds, perception would be "purely cognitive in form, pale, colorless, destitute of emotional warmth": one might see the bear and judge it best to run without feeling afraid.
 
-### In the compendium
+### Here
 
-The lines below describe what the compendium's principles do with the concept; the pairings are editorial.
+The lines below describe what my principles do with the concept; the pairings are editorial.
 
 - [[BE001 — Understand that behaviour is the foundation — what you do shapes how you feel, think, and are]] — the behavioural foundation, with the behavioural-activation evidence for depression behind it
 - [[A004 — Become virtuous by doing virtuous acts]] — the Aristotelian principle this concept carries

@@ -14,7 +14,7 @@ A community of inquiry is a group that takes a question and works on it together
 
 ### Protocol
 
-Steps 1 to 3 are Lipman's session as described in Kizel's account; step 4 is the compendium's suggestion for using the method outside a classroom.
+Steps 1 to 3 are Lipman's session as described in Kizel's account; step 4 is my suggestion for using the method outside a classroom.
 
 1. Sit in a circle and read or watch a text or other prompt, a passage, a clip or a drawing, chosen because it raises questions.
 2. Collect the questions the prompt raises for each person, then decide together which question to discuss.

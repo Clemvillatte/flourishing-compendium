@@ -18,7 +18,7 @@ Nakamura and Csikszentmihalyi identify conditions associated with entering flow:
 
 ### Arrange, then observe
 
-The chapter describes a changing relation between the person and the task. Sustaining flow requires adjustment as demands and capacities change. These conditions are a guide to consider, not a schedule guaranteeing absorption. The compendium's suggestion is to try one adjustment and attend to what actually happens.
+The chapter describes a changing relation between the person and the task. Sustaining flow requires adjustment as demands and capacities change. These conditions are a guide to consider, not a schedule guaranteeing absorption. My suggestion is to try one adjustment and attend to what actually happens.
 
 (Csikszentmihalyi, Flow, 1990.)
 

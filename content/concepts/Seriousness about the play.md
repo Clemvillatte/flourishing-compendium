@@ -13,9 +13,9 @@ Seriousness about the play is the paradox Johan Huizinga builds Homo Ludens arou
 
 ### Why the paradox is real
 
-Huizinga does not treat the "not serious" marker as a demotion. Play is older than culture, he argues: "PLAY is older than culture, for culture, however inadequately defined, always presupposes human society, and animals have not waited for man to teach them their playing." And the attitude play demands is anything but casual. Of the child he writes that it "plays in complete — we can well say, in sacred — earnest," and of ritual that the community's attitude in sacred rites "is one of high and holy earnest." The same chapter notes that "it is impossible to fix accurately the lower limit where holy earnest reduces itself to mere 'fun'." So the seriousness the compendium points at is not the grimness of ordinary life's necessities but the total devotion play asks for, the absorption that makes it a training ground for concentration and community.
+Huizinga does not treat the "not serious" marker as a demotion. Play is older than culture, he argues: "PLAY is older than culture, for culture, however inadequately defined, always presupposes human society, and animals have not waited for man to teach them their playing." And the attitude play demands is anything but casual. Of the child he writes that it "plays in complete — we can well say, in sacred — earnest," and of ritual that the community's attitude in sacred rites "is one of high and holy earnest." The same chapter notes that "it is impossible to fix accurately the lower limit where holy earnest reduces itself to mere 'fun'." So the seriousness I point at is not the grimness of ordinary life's necessities but the total devotion play asks for, the absorption that makes it a training ground for concentration and community.
 
-### In the compendium
+### Here
 
 - [[PP056 — Engage in play]] — the practice rule the definition grounds
 - [[K331 — Play practice]] — the kernel that schedules play as practice

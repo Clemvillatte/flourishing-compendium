@@ -16,9 +16,9 @@ The prohibition has a canonical list. The Vanijja Sutta: "A lay follower should 
 
 The placement is instructive: the path groups right livelihood with right speech and right action in the moral-virtue division (sila), not with wisdom. Work is an ethical practice field before it is a question of insight.
 
-### In the compendium
+### Here
 
-The compendium's principles read livelihood as identity work. B152, "Align your work with your values (right livelihood, revisited)," and B025, "Practice right livelihood," carry the concept by name; MO021, "Learn to connect goals to identity — I am a person who...," and BE017's valued-activity scheduling are the modern mechanisms of the same alignment; MO061's meaning-as-motivation and BE061's helping behaviour mark the contribution side. The attention cluster, AT059's attention economy, AT062's infinite scroll and AT066's deliberate technology, extends the precept to the digital trades: what one's attention is sold to. AT046's digital sabbath is the boundary practice.
+My principles read livelihood as identity work. B152, "Align your work with your values (right livelihood, revisited)," and B025, "Practice right livelihood," carry the concept by name; MO021, "Learn to connect goals to identity — I am a person who...," and BE017's valued-activity scheduling are the modern mechanisms of the same alignment; MO061's meaning-as-motivation and BE061's helping behaviour mark the contribution side. The attention cluster, AT059's attention economy, AT062's infinite scroll and AT066's deliberate technology, extends the precept to the digital trades: what one's attention is sold to. AT046's digital sabbath is the boundary practice.
 
 The file's media and technology facets invite the sharpest reading: a livelihood that captures attention is trading in a refined intoxicant. That extension is interpretation, not canon.
 

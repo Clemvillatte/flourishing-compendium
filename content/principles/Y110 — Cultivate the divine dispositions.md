@@ -34,7 +34,7 @@ The Gita's sixteenth chapter opens with Krishna's list of the marks of the heave
 
 The chapter pairs the list with its opposite ("Deceitfulness, and arrogance, and pride, / Quickness to anger, harsh and evil speech, / And ignorance, to its own darkness blind") and says the two natures are stamped on all living men. The list is a portrait, not a test: it reads as a set of signs of a nature one is cultivating, each name naming something a life can have more or less of.
 
-The compendium's exercise: read the list, pick one disposition, and practise it on purpose for a fixed period, logging moments of opportunity as they arise.
+My exercise: read the list, pick one disposition, and practise it on purpose for a fixed period, logging moments of opportunity as they arise.
 
 **Plain words** The chapter gives a long list of good qualities, from fearlessness and self-restraint to patience and humility. It is a picture of a person, not a checklist to pass or fail. Pick one quality from the list and try to practise it deliberately for a while.
 

@@ -13,7 +13,7 @@ On Xunzi's reading, the same inherited forms that keep a society coherent also b
 
 > "When a wound is colossal, its duration is long; when pain is profound, the recovery is slow. The three-year mourning period is a form established with reference to emotions; it is the means by which one conveys the acme of one's pain." (*Xunzi* 19.9a, quoted in [Paul R. Goldin, SEP entry on Xunzi](https://plato.stanford.edu/entries/xunzi/))
 
-### In the compendium
+### Here
 
 - [[R053 — Practise li (ritual propriety)]]
 - [[BE063 — Engage in ritual behaviour — practices that connect and ground]]

@@ -11,7 +11,7 @@ Tanha (Pali; Sanskrit tṛṣṇā, "thirst") is the second Noble Truth: the cra
 
 > "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming." (Dhammacakkappavattana Sutta, SN 56.11, [trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-The compendium's reading (principles B006, B071, B110): craving is the engine of suffering — not desire itself, but desire that has hardened into compulsion. The practice is to investigate the urge (B071) and to distinguish need from craving (B110): the wanting mind can be watched as weather, and what is watched can be released. The third Noble Truth names tanha's cessation as the cure.
+My reading (principles B006, B071, B110): craving is the engine of suffering — not desire itself, but desire that has hardened into compulsion. The practice is to investigate the urge (B071) and to distinguish need from craving (B110): the wanting mind can be watched as weather, and what is watched can be released. The third Noble Truth names tanha's cessation as the cure.
 
 Tanha's cross-tradition family is the diagnosis of desire as the engine of suffering: the Stoic judgment-driven passion, Spinoza's passive emotion, Schopenhauer's will, and the psychological hedonic treadmill. What distinguishes tanha is its precise causal role in the Four Noble Truths — it is named, not merely described, as the origin.
 

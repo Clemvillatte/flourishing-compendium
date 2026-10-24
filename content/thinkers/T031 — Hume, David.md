@@ -31,14 +31,14 @@ On morals, Hume's verdict is plain: "Morals and criticism are not so properly ob
 - **Proportioning belief to evidence** — belief graded by experience, the rule behind Bayesian caution. See [[CO028 — Use the outside view — base rates beat inside views|Use the outside view: base rates beat inside views]], [[The problem of induction]].
 - **Mitigated skepticism** — doubt held at a dose that cures dogmatism without paralyzing life. See [[Skepticism answered by life]], [[The limits of reason]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Moral sentiments]]
 - [[The bundle theory]]
 - [[The problem of induction]]
 - [[Skepticism answered by life]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (25)
 - [[AF024 — Recognise affect's relationship to motivation; use it, do not obey it|Recognise affect's relationship to motivation; use it, do not obey it]]

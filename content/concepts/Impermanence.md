@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Impermanence” — Buddhism, Three Marks of Existence; Buddhist tradition; Laozi, Daodejing 16.
 
-Impermanence is the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations. This page is the cross-tradition hub for that fact. The compendium's Anicca page names the family and its members: Heraclitus' panta rhei, the Daoist fu that Laozi watches in chapter 16 of the Daodejing, and anicca itself, which that page treats as the Buddhist member of the family.
+Impermanence is the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations. This page is the cross-tradition hub for that fact. My Anicca page names the family and its members: Heraclitus' panta rhei, the Daoist fu that Laozi watches in chapter 16 of the Daodejing, and anicca itself, which that page treats as the Buddhist member of the family.
 
 ### The Buddhist mark
 
@@ -21,7 +21,7 @@ One of the practice formulas the sutras give for this seeing is recollection. Th
 
 > “‘I am subject to aging, have not gone beyond aging.’ This is the first fact that one should reflect on often, whether one is a woman or a man, lay or ordained.” (AN 5.57, [Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html))
 
-The compendium's training consequence is B066's watching: states arise and pass until change is an observed feature of experience rather than a doctrine.
+My training consequence is B066's watching: states arise and pass until change is an observed feature of experience rather than a doctrine.
 
 ### The Daoist return
 
@@ -29,9 +29,9 @@ Chapter 16 of the Daodejing, in Legge's translation:
 
 > “All things alike go through their processes of activity, and (then) we see them return (to their original state).” (Daodejing 16, [Legge, Tao Teh King, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-Where the Buddhist mark stresses passing, the Daoist chapter stresses the return: things run their course, go back to the root, and that returning is a stillness, what Legge renders as "a reporting that they have fulfilled their appointed end." The compendium's Fu (return) page carries this reading.
+Where the Buddhist mark stresses passing, the Daoist chapter stresses the return: things run their course, go back to the root, and that returning is a stillness, what Legge renders as "a reporting that they have fulfilled their appointed end." My Fu (return) page carries this reading.
 
-### In the compendium
+### Here
 
 - [[B066 — Watch states arise and pass]] — the training consequence the Anicca page assigns to this fact
 - [[S095 — See that everything passes]] and [[S128 — Practise the contemplation of impermanence]] — the Stoic principles; S128 frames the contemplation as freeing rather than depressing

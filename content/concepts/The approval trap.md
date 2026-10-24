@@ -14,7 +14,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The trap tightens because borrowed worth needs constant refinancing. Fromm's continuation: "The loss of the self and its substitution by a pseudo self leave the individual in an intense state of insecurity. He is obsessed by doubt since, being essentially a reflex of other people's expectation of him, he has in a measure lost his identity. In order to overcome the panic resulting from such loss of identity, he is compelled to conform, to seek his identity by continuous approval and recognition by others. Since he does not know who he is, at least the others will know—if he acts according to their expectation; if they know, he will know too, if he only takes their word for it." The mechanism is not weakness of character but a trade: certainty about who one is, purchased at the price of the self that would have made the certainty one's own.
 
-The compendium's use is diagnostic: when esteem feels like oxygen, the question to raise is not "how do I get more" but "who is holding the tank".
+My use is diagnostic: when esteem feels like oxygen, the question to raise is not "how do I get more" but "who is holding the tank".
 
 ## Related concepts
 
@@ -23,7 +23,7 @@ The compendium's use is diagnostic: when esteem feels like oxygen, the question 
 - [[Narcissism versus healthy self-regard]] — the external contingency narcissism runs on
 - [[Natural goodness of the unformed human]] — amour-propre's modern form, esteem from others
 
-## In the compendium
+## Here
 
 - [[SP019 — Diagnose ambition and the hunger for esteem]]
 - [[SP041 — Respect fame as the most dangerous of the three]]

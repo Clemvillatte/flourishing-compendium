@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The shattered self” — Herman, Trauma and Recovery.
 
-The shattered self is the compendium's label for what trauma does to a person's fundamental assumptions, including the assumption of one's own worth. Herman's formulation, as quoted in a peer-reviewed phenomenological study of trauma:
+The shattered self is my label for what trauma does to a person's fundamental assumptions, including the assumption of one's own worth. Herman's formulation, as quoted in a peer-reviewed phenomenological study of trauma:
 
 > "traumatic events destroy the victim's fundamental assumptions about the safety of the world" (Herman, 1992/1997, p. 51, quoted in [Ratcliffe, Ruddell & Smith, 2014, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4166378/))
 
@@ -23,14 +23,14 @@ Herman's stages of recovery are summarised in the same source:
 
 > "Herman (1992/1997) describes three broad stages of recovery: a localized sense of safety is first nurtured, after which the person can attempt to construct a narrative around what has happened, and finally there is reengagement with communal life." ([Ratcliffe, Ruddell & Smith, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4166378/))
 
-### In the compendium
+### Here
 
 - [[SE071 — Recognise self and trauma — trauma fragments self]] — the principle takes the shattered-self account and works it into a practice.
 
 ## Related concepts
 
-- [[Shattered Assumptions Theory]] — the compendium's cognitive-schema pairing for the same finding.
-- [[Post-traumatic growth]] — the compendium's pairing for the reconstruction-after-shattering reading.
+- [[Shattered Assumptions Theory]] — my cognitive-schema pairing for the same finding.
+- [[Post-traumatic growth]] — my pairing for the reconstruction-after-shattering reading.
 
 ## Sources
 

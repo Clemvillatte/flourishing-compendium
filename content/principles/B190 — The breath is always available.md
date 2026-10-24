@@ -20,7 +20,7 @@ The Anapanasati Sutta grounds the practice in the breath itself ([MN 118, Thanis
 
 The [sutta](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) introduces a seated, secluded practice and continues through sixteen instructions, including sensitivity to the whole body and attention to relinquishment. Plum Village's [daily-practice guidance](https://plumvillage.org/mindfulness/mindfulness-practice) makes a distinction useful here: “We don’t need to control the breath in any way.”
 
-The compendium suggests noticing an ordinary breath before replying, without treating that pause as the whole training. It also differs from research on structured breathwork: [Balban and colleagues (2023)](https://pubmed.ncbi.nlm.nih.gov/36630953/) compared daily five-minute breathing exercises with mindfulness meditation over a month. That trial does not establish an effect for this one-breath exercise.
+I suggest noticing an ordinary breath before replying, without treating that pause as the whole training. It also differs from research on structured breathwork: [Balban and colleagues (2023)](https://pubmed.ncbi.nlm.nih.gov/36630953/) compared daily five-minute breathing exercises with mindfulness meditation over a month. That trial does not establish an effect for this one-breath exercise.
 
 **Plain words**
 The breath is something happening now, before you have decided what to say. Noticing it gives attention a simple subject. You need not make a long breath short, turn a shallow breath deep, or produce a peaceful feeling. In this small exercise, the task is to recognise how breathing feels.

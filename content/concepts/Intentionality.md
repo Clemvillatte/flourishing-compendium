@@ -21,7 +21,7 @@ Husserl's treatment of the concept in the fifth of the Logical Investigations ca
 
 **Plain words** Thinking is always thinking of something; there is no such thing as a thought with no object, the way there can be a wave with nothing to wave in. Every fear is a fear of something, every plan a plan of something.
 
-### In the compendium
+### Here
 
 - [[E002 — Practise intentionality]]: the principle that turns aboutness into a discipline
 - [[Implicit and explicit]]: Husserl's further step, what the act means beyond what it presents

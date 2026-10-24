@@ -18,11 +18,11 @@ The [Stanford Encyclopedia](https://plato.stanford.edu/entries/beauvoir/) reads 
 
 Her best-known line, "On ne naît pas femme: on le devient", appears in English as "One is not born but becomes a woman" (1953 translation) and "One is not born but becomes woman" (2010 translation). In her autobiographical writing, situation means "the set of concrete circumstances, including one's embodiment that significantly shapes but does not fix one's existence" (section 13).
 
-The principle's extension to race, class and ability is the compendium's, not Beauvoir's claim in these sources, and no source here covers Fanon or Merleau-Ponty on that point.
+The principle's extension to race, class and ability is my, not Beauvoir's claim in these sources, and no source here covers Fanon or Merleau-Ponty on that point.
 
 (Beauvoir, The Second Sex, 1949; read via SEP.)
 
-**Plain words** Beauvoir argues that gender is lived through the body in a social setting, so it is neither pure biology nor a free choice. A situation shapes you without fixing you. Whether the same idea fits race, class or ability is a further step the compendium takes.
+**Plain words** Beauvoir argues that gender is lived through the body in a social setting, so it is neither pure biology nor a free choice. A situation shapes you without fixing you. Whether the same idea fits race, class or ability is a further step I take.
 
 For example: two people walking the same street at night may read it differently because of what their bodies have been taught to expect from it.
 

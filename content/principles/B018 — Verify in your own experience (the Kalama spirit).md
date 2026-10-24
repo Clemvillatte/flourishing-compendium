@@ -20,7 +20,7 @@ The discussion tests greed, aversion and delusion through the harmful actions th
 
 ### Plain words
 
-Ask what following a teaching leads you to do and whom it affects. Consider your observations alongside the judgment of people whose understanding you have reason to trust. The compendium takes this as a discipline of inquiry, not permission to count every comfortable feeling as confirmation.
+Ask what following a teaching leads you to do and whom it affects. Consider your observations alongside the judgment of people whose understanding you have reason to trust. I take this as a discipline of inquiry, not permission to count every comfortable feeling as confirmation.
 
 ### For example
 

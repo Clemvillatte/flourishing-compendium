@@ -15,7 +15,7 @@ Spinoza's Ethics, Part IV, builds a portrait of the free person (homo liber): th
 
 The part defines the free person through reason: one who "lives under the guidance of reason", "is not led by fear", and "directly desires that which is good" (Prop. LXVII proof). The propositions that follow give the portrait its edge: the free person "thinks of death least of all things; and his wisdom is a meditation not of death but of life" (Prop. LXVII), and "never acts fraudulently, but always in good faith" (Prop. LXXII).
 
-### In the compendium
+### Here
 
 - [[E075 — Practise the free man (l'homme libre)]]
 - [[SP075 — Define piety as justice and charity]]

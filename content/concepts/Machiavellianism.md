@@ -15,7 +15,7 @@ Machiavellianism is a personality trait named after Niccolò Machiavelli and mea
 
 The standard instrument, the Mach-IV, "is a self-report Likert type scale which evaluates three dimensions: (1) the use of deceit in interpersonal relationships (nine items), (2) a cynical view of human nature (nine items), and (3) the lack of morality (two items)" ([same article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00454/full)). Two correlates from the studies: in a Korean adult sample (N = 1,177), "Machiavellianism and psychopathy were negatively and narcissism was positively associated with well-being" ([Joshanloo, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8144451/)); and among partnered women, "Women with high levels of Machiavellianism reported lower relationship satisfaction, perceived their partners to be less dependable, reported less faith in their partners, and were less willing to persist with the relationship" ([Brewer and Abell, Europe's Journal of Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC5590532/)). Both are sample-specific findings rather than settled generalizations.
 
-### In the compendium
+### Here
 
 - [[D164 — Discard scheming]] cites Machiavellianism as its psychology parallel for the costs of a calculating stance toward people.
 

@@ -29,7 +29,7 @@ The paper also names what the discharge looks like, with an honesty note on its 
 
 > "Animals in the wild recover spontaneously from this state; involuntary movements, changes in breathing patterns, yawning, shaking, and trembling, release or discharge the intense biological arousal; these phenomena have been observed repeatedly by one of the authors (PAL) over 45 years of clinical experience, and confirmed through numerous anecdotal accounts by those who work professionally with wild animals; however we have not been able to find any significant treatment of these phenomena in the peer-reviewed literature." (Payne, Levine & Crane-Godreau, 2015, [Frontiers in Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4316402/))
 
-### In the compendium
+### Here
 
 - [[BI049 — Learn to use movement to discharge stress — shake, dance, walk]] — the principle takes the discharge account and works it into a practice.
 - [[BI058 — Learn somatic experiencing — working with activation in the body]] — the principle on somatic experiencing, against which the completing-the-cycle theory supplies the underlying account.

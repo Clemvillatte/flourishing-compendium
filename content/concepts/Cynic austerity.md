@@ -19,9 +19,9 @@ The Stanford Encyclopedia of Philosophy entry on ancient ethics says that for Di
 
 ### Scope
 
-The sources describe Diogenes mostly through Diogenes Laertius, who wrote centuries later, and the IEP's survey of ancient Greek philosophy warns this is "historically problematic" ([IEP: Ancient Greek Philosophy](https://iep.utm.edu/ancient-greek-philosophy/)). The Lives themselves were not read directly for this page. Cynic austerity was extreme, and the sources do not suggest it as a model for ordinary life. The compendium's principle uses the idea more gently, as an invitation to drop excess.
+The sources describe Diogenes mostly through Diogenes Laertius, who wrote centuries later, and the IEP's survey of ancient Greek philosophy warns this is "historically problematic" ([IEP: Ancient Greek Philosophy](https://iep.utm.edu/ancient-greek-philosophy/)). The Lives themselves were not read directly for this page. Cynic austerity was extreme, and the sources do not suggest it as a model for ordinary life. My principle uses the idea more gently, as an invitation to drop excess.
 
-### In the compendium
+### Here
 
 - [[D103 — Travel light — drop the excess baggage]] lists this concept as a parallel.
 

@@ -21,17 +21,17 @@ The authors' own summary of what the study established:
 
 > "this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions" (Lieberman et al. 2007, p. 427).
 
-The study reports the pattern of activity; it does not itself claim a mechanism for why naming helps. The compendium's reading of why the practice works, precision that gives the feeling a name and a boundary, is an interpretation of the finding, not a finding itself.
+The study reports the pattern of activity; it does not itself claim a mechanism for why naming helps. My reading of why the practice works, precision that gives the feeling a name and a boundary, is an interpretation of the finding, not a finding itself.
 
 ### What it is not
 
-In the compendium's practice pages the distinction drawn here is between naming and venting: the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I am resentful" reads as a verdict on the self. What the naming avoids is the circling that never lands on anything new.
+In my practice pages the distinction drawn here is between naming and venting: the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I am resentful" reads as a verdict on the self. What the naming avoids is the circling that never lands on anything new.
 
 ### In everyday life
 
 A person in a difficult conversation can say one silent internal sentence, "that's humiliation rising," spoken inside, not out. The naming is the move, and the situation is unchanged. (Illustrative scenario, not a reported participant or study result.) Naming a feeling requires first reading it: the bodily substrate is [[Interoceptive awareness]].
 
-### In the compendium
+### Here
 
 - [[B056 — Note lightly (noting)]] — Buddhist noting uses naming as a working tool
 - [[S046 — Do not add to the impression]] — the Stoic examination of first impressions
@@ -44,7 +44,7 @@ A person in a difficult conversation can say one silent internal sentence, "that
 - [[D150 — Balance the emotions to protect the body]] — balance through naming
 - [[S122 — Keep a journal]] — writing as labeling
 - [[Y015 — Classify the mind's movements into five types]] — a kindred classification; the study is an indirect parallel for naming, not a validation of the fivefold taxonomy
-- [[K159 — Affect labeling]] — the compendium's practice kernel for this move
+- [[K159 — Affect labeling]] — my practice kernel for this move
 - [[AF074 — Recognise co-rumination — sharing distress can amplify it]] — the venting caution
 - [[AF006 — Accept mixed feelings; do not force them to resolve]] — labels hold mixed states without forcing resolution
 
@@ -59,7 +59,7 @@ A person in a difficult conversation can say one silent internal sentence, "that
 - [[Distrust names and labels]] — where the label-as-name-not-verdict distinction is drawn out
 - [[Appraisal theory]] — the account of how words reach feeling
 - [[Rumination]] — the circling that naming interrupts
-- [[BE037]] — the compendium's principle on sleep as a foundation of mental health
+- [[BE037]] — my principle on sleep as a foundation of mental health
 
 ## Sources
 

@@ -17,7 +17,7 @@ Loewenstein's own summary of the model: "The visceral factor perspective has two
 
 The research program that follows is the hot-cold empathy gap, defined as the failure of people in a cold state to predict the influence of visceral states on their future preferences: "when people are in an affective 'cold' state (e.g., not experiencing thirst or craving at the moment), they do not accurately estimate how much such visceral states ('hot' states) will change their preference and behavior" ([Frontiers in Neuroscience, fMRI study](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00104/full)). The smoker study gives the measured version: "smokers who were not having a craving for a cigarette underestimated how much they would value a cigarette when they were later in a high craving state" ([Sayette et al. 2008, quoted in the same paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00104/full)).
 
-### Why the compendium holds it
+### Why I hold it
 
 The Buddhist principle on noticing feeling tone first (vedana) asks a person to register the affect before acting on the judgment. Loewenstein's research is the decision-science version of that instruction, with the added empirical detail: the state you are in now is the state you will use to forecast the state you will be in later, and the gap between them is the most common source of planning failure.
 

@@ -17,7 +17,7 @@ The need for rest comes from the nature of activity itself. Earlier in the same 
 
 The book also describes how good activity carries its own completion. Pleasure, Aristotle writes, completes the activity not as a permanent state does, "but as an end which supervenes as the bloom of youth does on those in the flower of their age". Rest in this account is the counterpart of completion on the recovery side: activity spends, rest restores, and the two belong to one rhythm rather than competing for a life.
 
-### In the compendium
+### Here
 
 - [[BI014 — Learn the architecture of sleep — cycles, deep sleep, and REM]] — cites this Aristotelian account alongside its sleep-architecture evidence; its counsel to protect full sleep cycles answers the same limit
 

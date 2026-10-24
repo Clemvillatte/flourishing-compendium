@@ -21,7 +21,7 @@ Read alongside the preceding warnings about excess, the belly suggests a need th
 **Plain words**
 Enjoying something and needing the next attraction are different experiences. A meal can leave you satisfied. Chasing a more exciting meal, possession or spectacle can make enough difficult to recognise. The point is to notice when an ordinary pleasure becomes a demand for something else.
 
-For example: A reader notices that lunch ends only when the videos do. Across three lunches, she tries a video, music and neither. She compares satisfaction afterwards and repeats the arrangement that helps her stop comfortably. This is the compendium's suggested experiment in attention and appetite, not an effect established by the ancient text.
+For example: A reader notices that lunch ends only when the videos do. Across three lunches, she tries a video, music and neither. She compares satisfaction afterwards and repeats the arrangement that helps her stop comfortably. This is my suggested experiment in attention and appetite, not an effect established by the ancient text.
 
 ## Related concepts
 

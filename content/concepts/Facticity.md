@@ -17,12 +17,12 @@ Facticity is Jean-Paul Sartre's name in Being and Nothingness (1943) for the giv
 
 The definition is deliberately haunted rather than solid: facticity is never an object one can inspect, only the contingency that keeps a freedom from being nowhere. The passage leading into it reads: "Thus the for-itself is sustained by a perpetual contingency for which it assumes the responsibility and which it assimilates without ever being able to suppress it" ([same text](https://archive.org/stream/in.ernet.dli.2015.69160/2015.69160.Jean-paul-Sartre-Being-And-Nothingness_djvu.txt)). One can take up one's facticity in projects, and one can neither choose it away nor be it.
 
-In the compendium the concept pairs with [[E022 — Practise thrownness (Geworfenheit)]] and with [[Situated freedom]], where the same structure is worked out as a practice rather than an ontology.
+Here the concept pairs with [[E022 — Practise thrownness (Geworfenheit)]] and with [[Situated freedom]], where the same structure is worked out as a practice rather than an ontology.
 
 ## Related concepts
 
 - [[E032]] — E032 works out Sartre's pairing of facticity with transcendence through the bad-faith passage (Barnes trans., p. 56) and the café waiter.
-- [[Situated freedom]] — the compendium's treatment of freedom as always in a situation
+- [[Situated freedom]] — my treatment of freedom as always in a situation
 - [[Thrownness]] — Heidegger's earlier version of the same givenness
 
 ## Sources

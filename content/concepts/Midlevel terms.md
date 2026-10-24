@@ -13,7 +13,7 @@ Midlevel terms are the ACT tradition's name for its working concepts: terms like
 
 The honesty of the label is its value: it reminds practitioners that "acceptance" or "defusion" is a useful handle, not a basic science entity. A review of acceptance in behavior analysis presses the same point: "Midlevel terms such as 'acceptance' have a broad scope (i.e., can be easily applied across a broad range of contexts) but lack precision", and the same word gets used interchangeably as a psychological process, a topographical procedure and a behavioral repertoire — so the same name can mean three different things across studies ([Bordieri, Acceptance: A research overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC8854448/)).
 
-The name is not a complaint. The trade-off it marks is deliberate: midlevel terms are chosen because they are easy to disseminate, and the label keeps the borrowing honest by flagging that the term is a construct, not the principle underneath it. The term is at home in ACT's clinical literature; it is included here as an adjacent concept because the compendium's PBT coverage needs the layer it names.
+The name is not a complaint. The trade-off it marks is deliberate: midlevel terms are chosen because they are easy to disseminate, and the label keeps the borrowing honest by flagging that the term is a construct, not the principle underneath it. The term is at home in ACT's clinical literature; it is included here as an adjacent concept because my PBT coverage needs the layer it names.
 
 ## Related concepts
 

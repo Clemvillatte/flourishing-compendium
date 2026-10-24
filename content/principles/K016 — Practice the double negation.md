@@ -18,7 +18,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 The Encyclopedia describes two steps. First, to be freed from "egoistic obsessions and manipulative objectifications," Nishitani held that one must step back into the "field of nihility." Second, "the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness." His task is described as "overcoming nihilism by way of passing through nihilism."
 
-One reading of the two steps is that the first negation removes the world's fixed meaning and the second removes the stance of the person who found nothing there. That reading is the compendium's. What returns is the ordinary world, now "united to and self-identical with being."
+One reading of the two steps is that the first negation removes the world's fixed meaning and the second removes the stance of the person who found nothing there. That reading is my. What returns is the ordinary world, now "united to and self-identical with being."
 
 **Plain words** Doubting the old certainties is a first step. The second is not to cling to the doubt as a new certainty, so that the ordinary world can come back without needing to be defended. Nishitani calls the first stage, where everything seems to lose its meaning, the field of nihility.
 

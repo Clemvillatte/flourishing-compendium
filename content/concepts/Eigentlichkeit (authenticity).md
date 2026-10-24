@@ -13,7 +13,7 @@ Eigentlichkeit is Heidegger's word for ownedness in Being and Time — the mode 
 
 For Heidegger, "all possibilities of concrete understanding and action are made possible by a background of shared practices opened up by the social context in which we find ourselves, by what he calls the 'They' (*das Man*)". What breaks the drift is the encounter with one's "ownmost" possibility — "the possibility of death as the possible loss of all possibilities". Faced with that, authenticity becomes "standing up for and standing behind what one does—as *owning* and *owning up to* one's deeds as an agent in the world".
 
-### In the compendium
+### Here
 
 - [[E034 — Practise authenticity (Eigentlichkeit)]] and [[SE043 — Cultivate authentic identity — be who you are, not who others want]] are this concept's philosophy parallels
 - [[D002 — Practice ziran — naturalness]] and [[D185 — Prefer being to seeming]] are linked principles

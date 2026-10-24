@@ -21,7 +21,7 @@ Haslam and Loughnan (2014) survey the field around six questions: how people are
 
 The two abstracts describe the forms, causes and consequences of dehumanization in general terms. Neither abstract states the specific claim that subtle denial of humanness predicts cruelty, which is how this topic is sometimes summarised. For that claim, the full articles and their cited studies are the place to check.
 
-### In the compendium
+### Here
 
 - [[B159 — See the human behind the position]] applies the Dhammapada's teaching on non-hatred to disagreement. It does not cite Haslam, so the research here is background and not the principle's source.
 

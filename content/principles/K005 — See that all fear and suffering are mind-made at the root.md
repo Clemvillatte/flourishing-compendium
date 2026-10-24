@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 5** — See that all fear and suffering are mind-made at the root
 
-In V.2-3, Shantideva compares an unguarded mind to a dangerous elephant and presents mindfulness as its restraint. The compendium uses this image as a prompt to examine one's response to difficulty. These verses should not be presented as clinical evidence that every kind of suffering can be changed through interpretation.
+In V.2-3, Shantideva compares an unguarded mind to a dangerous elephant and presents mindfulness as its restraint. I use this image as a prompt to examine one's response to difficulty. These verses should not be presented as clinical evidence that every kind of suffering can be changed through interpretation.
 
 (Shantideva, Bodhicharyavatara, ch. 5.)
 

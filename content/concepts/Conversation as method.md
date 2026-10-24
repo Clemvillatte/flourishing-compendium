@@ -16,7 +16,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The method is a discipline against hasty generalization: the speaker's claim is tested in the room by the person who knows the conditions more intimately ([Addams 1910](https://www.gutenberg.org/ebooks/1325)).
 
-### In the compendium
+### Here
 
 - [[P128 — Begin in conversation]] — the Addams principle built on the neighbor-as-auditor practice
 - [[R065 — Practise the extension of knowledge (zhizhi)]] — The Great Learning's sequence: investigation of things precedes completed knowledge

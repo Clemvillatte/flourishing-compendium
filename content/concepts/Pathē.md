@@ -17,7 +17,7 @@ The four genera are distinguished by their object: "distress, a present perceive
 
 The sage is not without feeling but with better feelings: "Whereas passions are typically directed at indifferents incorrectly judged to be good or bad, the Sage's good feelings are emotional responses to genuine goods, i.e. to virtue, virtuous actions, and virtuous friends."
 
-The compendium's Stoic band runs on this analysis: the cure for a pathos is not suppression but the correction of the judgment underneath it.
+My Stoic band runs on this analysis: the cure for a pathos is not suppression but the correction of the judgment underneath it.
 
 ## Related concepts
 

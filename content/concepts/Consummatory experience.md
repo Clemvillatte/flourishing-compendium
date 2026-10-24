@@ -15,7 +15,7 @@ Consummatory experience is John Dewey's term for the fulfilled character of an e
 
 Consummation is anticipated throughout and recurrently savored: "For then its varied parts are linked to one another, and do not merely succeed one another. And the parts through their experienced linkage move toward a consummation and close, not merely to cessation in time. This consummation, moreover, does not wait in consciousness for the whole undertaking to be finished. It is anticipated throughout and is recurrently savored with special intensity" ([Dewey 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf)). The form this takes is a growth: "In every integral experience there is form because there is dynamic organization... There is inception, development, fulfillment", and "Fulfilling, consummating, are continuous functions, not mere ends, located at one place only" ([Dewey 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf)).
 
-### In the compendium
+### Here
 
 - [[K328 — Aesthetic attention]]
 - [[P081 — Honor immediate values, but enrich them with reflection]]

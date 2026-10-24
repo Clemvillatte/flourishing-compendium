@@ -18,9 +18,9 @@ Cusanus's own image for the human position: "the intellect is to truth as [an in
 
 The payoff is metaphysical. The Absolute Maximum, God, "is greater than we can comprehend... we attain unto it in no other way than incomprehensibly" (Book I ch 4), and since it is all that can be, "the Minimum coincides with the Maximum". As the Wikipedia summary puts it, because rational knowledge cannot grasp the deity's infinity, "the limits of science need to be passed by means of speculation", which leads to the coincidentia oppositorum, a union of opposites. The Internet Encyclopedia of Philosophy notes the model is Socratic: learned ignorance as "a state where no greater knowledge can be attained".
 
-### In the compendium
+### Here
 
-The compendium reads docta ignorantia through its unknowing principles. D100, "Rest in unknowing," B140, "Rest in don't-know mind," and B047, "Keep the great doubt alive," are the Zen cousins; B077, "Treat ignorance as not-seeing, not stupidity," guards the state from being mistaken for deficiency; K013 and Y097 keep the question alive. K019, "Let contradiction stand as structure, not error," is the closest to the coincidentia oppositorum, where the contradiction is the point rather than the failure, and CO071 gives not-knowing the cognitive-science gloss of a state with its own value. These are comparisons across traditions; Cusanus's own debt is to Socrates.
+I read docta ignorantia through its unknowing principles. D100, "Rest in unknowing," B140, "Rest in don't-know mind," and B047, "Keep the great doubt alive," are the Zen cousins; B077, "Treat ignorance as not-seeing, not stupidity," guards the state from being mistaken for deficiency; K013 and Y097 keep the question alive. K019, "Let contradiction stand as structure, not error," is the closest to the coincidentia oppositorum, where the contradiction is the point rather than the failure, and CO071 gives not-knowing the cognitive-science gloss of a state with its own value. These are comparisons across traditions; Cusanus's own debt is to Socrates.
 
 The polygon image is also a precise answer to K065, reason reaching its limit: reason can map its own asymptote mathematically without pretending to cross it.
 

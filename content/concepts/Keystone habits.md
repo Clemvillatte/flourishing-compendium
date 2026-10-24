@@ -15,7 +15,7 @@ Keystone habits are habits whose effects spill past their own domain: change one
 
 Duhigg's publisher's guide describes the mechanism with a run: making a change in a keystone habit ("going for a run before work") can start a chain reaction that over time transforms other patterns ("eating a healthy breakfast instead of a donut" and "drinking water instead of coffee throughout the day") ([Random House teacher's guide](https://www.penguinrandomhouse.com/books/202855/the-power-of-habit-by-charles-duhigg/9780812981605/teachers-guide/)). The guide lists three ways keystone habits encourage widespread change: they produce small wins ("accomplishments that stimulate larger, transformative changes"), they create structures that help other people thrive, and they can create a new culture that embodies new values ([same guide](https://www.penguinrandomhouse.com/books/202855/the-power-of-habit-by-charles-duhigg/9780812981605/teachers-guide/)). The guide's framing is that keystone habits "have the power to change how other habits work," which is a claim about tendency, not a guarantee for any given person.
 
-### In the compendium
+### Here
 
 - [[P070 — Make your nervous system your ally]] lists keystone habits as a psychology parallel for its claim that small daily practices keep a wider capacity alive.
 

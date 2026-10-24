@@ -17,9 +17,9 @@ The same entry records an ancient objection that the doctrine is incoherent: "it
 
 ### Where Epictetus comes in
 
-The compendium's original citation is the Enchiridion. The Enchiridion does call outcomes indifferent. In section 32, on divination, Epictetus says one should "acquire a distinct knowledge that every event is indifferent and nothing to you, of whatever sort it may be, for it will be in your power to make a right use of it" ([Epictetus, Enchiridion, trans. Elizabeth Carter, MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)). I did not find the phrase "preferred indifferents" in the Enchiridion text. The SEP sets out the technical category as the mainstream Stoic view, citing Cicero and Stobaeus, so the label belongs to the school's technical vocabulary and not to the Enchiridion's wording.
+My original citation is the Enchiridion. The Enchiridion does call outcomes indifferent. In section 32, on divination, Epictetus says one should "acquire a distinct knowledge that every event is indifferent and nothing to you, of whatever sort it may be, for it will be in your power to make a right use of it" ([Epictetus, Enchiridion, trans. Elizabeth Carter, MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)). I did not find the phrase "preferred indifferents" in the Enchiridion text. The SEP sets out the technical category as the mainstream Stoic view, citing Cicero and Stobaeus, so the label belongs to the school's technical vocabulary and not to the Enchiridion's wording.
 
-### In the compendium
+### Here
 
 S015 (Distinguish preferred from dispreferred indifferents) and S017 (Refuse to see externals as good or bad) are the closest principles. The SEP also notes that, for the Stoics, being alive is itself a preferred indifferent, and that a just agent may in some cases select a dispreferred one for herself to give others more.
 
@@ -29,7 +29,7 @@ S015 (Distinguish preferred from dispreferred indifferents) and S017 (Refuse to 
 - [[Adiaphora, the indifferents]] — the wider Stoic category: preferred indifferents are the subclass worth pursuing
 - [[Externals as indifferents]] — the externals the preference rule ranks
 - [[The dichotomy of control]] — the Stoic division that places indifferents outside full control
-- [[S023]] — the compendium's principle on pain; pain counts as a dispreferred indifferent in the same Stoic scheme
+- [[S023]] — my principle on pain; pain counts as a dispreferred indifferent in the same Stoic scheme
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Stoicism"](https://plato.stanford.edu/entries/stoicism/) — definition of preferred indifferents, the pursuit rule, and the ancient objection

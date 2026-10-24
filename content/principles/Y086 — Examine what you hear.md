@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 86** — Examine what you hear
 
-The second step of the sequence is reflection (manana), working over what has been heard. The Vivekachudamani, a work attributed to Śaṅkara, weighs the steps against each other in the quotation below: reflection on truth heard is a hundred times more potent than hearing it, and abiding in it a hundred thousand times more potent than reflection. The ranking carries the page's point: hearing is the entry, and what is done with what was heard is what carries the weight. The compendium's exercise: for each important idea received, write one paragraph that takes it apart against your own evidence before the idea is allowed to settle.
+The second step of the sequence is reflection (manana), working over what has been heard. The Vivekachudamani, a work attributed to Śaṅkara, weighs the steps against each other in the quotation below: reflection on truth heard is a hundred times more potent than hearing it, and abiding in it a hundred thousand times more potent than reflection. The ranking carries the page's point: hearing is the entry, and what is done with what was heard is what carries the weight. My exercise: for each important idea received, write one paragraph that takes it apart against your own evidence before the idea is allowed to settle.
 
 (Śaṅkara [attributed], Vivekachudamani.)
 

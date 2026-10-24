@@ -31,9 +31,9 @@ Read one way, the three ways echo the original entry's triad: work and deeds can
 
 On this reading meaning is assembled from deeds, encounters, and stances. Frankl's unconditional-meaning passage is the ground for saying it can hold under conditions that strip everything else away.
 
-### In the compendium
+### Here
 
-- [[E010 — Practise the constitution of meaning]] — a different account in the compendium: Husserlian constitution of meaning, where Frankl speaks of discovering it
+- [[E010 — Practise the constitution of meaning]] — a different account here: Husserlian constitution of meaning, where Frankl speaks of discovering it
 - [[PP023 — Distinguish meaning from happiness]] — meaning and positive feeling are different axes
 - [[AF072 — Recognise that positive affect alone is not flourishing; it is one component]] — the affective and the meaningful sides of flourishing are tracked separately
 - [[P159 — Defuse — see thoughts as thoughts]] — noticing thinking as it occurs, rather than taking thoughts about one's life literally

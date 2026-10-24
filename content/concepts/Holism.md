@@ -15,7 +15,7 @@ Jan Christiaan Smuts coined the word in 1926, for a tendency he believed runs th
 
 ### What the claim amounts to
 
-Smuts insists the wholes are real, not just bookkeeping: "Wholes are not mere artificial constructions of thought; they actually exist; they point to something real in the universe, and Holism is a real operative factor, a vera causa." He offers the coinage in his own words as "this whole-ward tendency in Nature, this fundamental factor operative towards the making or creation of wholes in the universe." Later science kept the word and dropped much of the metaphysics; what survived is the methodological point the compendium leans on — a person, an ecosystem, a family, and a mind are each understood badly when treated as a pile of separable parts. Ailing one part of a life and expecting the whole to be well misreads the object.
+Smuts insists the wholes are real, not just bookkeeping: "Wholes are not mere artificial constructions of thought; they actually exist; they point to something real in the universe, and Holism is a real operative factor, a vera causa." He offers the coinage in his own words as "this whole-ward tendency in Nature, this fundamental factor operative towards the making or creation of wholes in the universe." Later science kept the word and dropped much of the metaphysics; what survived is the methodological point I lean on — a person, an ecosystem, a family, and a mind are each understood badly when treated as a pile of separable parts. Ailing one part of a life and expecting the whole to be well misreads the object.
 
 ## Related concepts
 

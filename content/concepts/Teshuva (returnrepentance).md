@@ -15,9 +15,9 @@ Teshuva is the Jewish practice of return. The word comes from the root shuv, to 
 
 Maimonides' definition has the repentant person leave the sin behind and regret it, and then say out loud what has been resolved in the heart. The resolution carries the weight, because the future is what the turning is for, and he adds a demanding standard: the repentant person must reach the level where "He who knows the hidden will testify concerning him that he will never return to this sin again." How that standard is read, and how strictly the tradition applies it, is discussed in the surrounding chapters of the Laws of Repentance.
 
-The compendium pairs the practice with repair behaviours and with self-forgiveness: the turn is toward the relationship or the life one left, and the past's unchangeability is met with regret and amends rather than endless self-punishment.
+I pair the practice with repair behaviours and with self-forgiveness: the turn is toward the relationship or the life one left, and the past's unchangeability is met with regret and amends rather than endless self-punishment.
 
-### In the compendium
+### Here
 
 - [[BE054 — Learn to use repair behaviours — fix relationship ruptures]] — the amends side of the turn
 - [[SE030 — Recognise and work with shame — shame is about the self, not the act]] — teshuva works on the act, not the self
@@ -26,7 +26,7 @@ The compendium pairs the practice with repair behaviours and with self-forgivene
 ## Related concepts
 
 - [[Fu (return)]] — a neighboring tradition's concept of return
-- [[The returning practice]] — the compendium's generic return practice
+- [[The returning practice]] — my generic return practice
 - [[The noticing-wandering-returning cycle in meditation]] — the contemplative form of the same movement
 
 ## Sources

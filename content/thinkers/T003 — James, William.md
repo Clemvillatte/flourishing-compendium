@@ -38,7 +38,7 @@ Experience comes first and it comes whole. Thought is a river: "Consciousness ..
 - **A certain blindness** — tolerance grows from admitting it ([Talks to Teachers](https://www.gutenberg.org/ebooks/16287)). See [[P136 — Recognize your blindness — others live in worlds you cannot see|P136]], [[P129 — Practice sympathetic understanding|P129]], [[A certain blindness]], [[Tolerance without indifference]].
 - **The moral equivalent of war** — constructive service in place of war ([Memories and Studies](https://www.gutenberg.org/ebooks/20768)). See [[P188 — Find the moral equivalent of war in constructive service|P188]], [[P183 — Make your life significant by fusing ideal with active virtue|P183]].
 
-## Connected in the wiki — the Jamesian tradition
+## Connected here — the Jamesian tradition
 
 The page keeps to the corpus entries that substantively draw on James; other traditions echo him only in passing.
 

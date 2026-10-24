@@ -17,7 +17,7 @@ David Marr's Vision set out a framework that became influential in cognitive sci
 
 The three levels answer different questions: what the system is for, how it does it, and what it is made of. Because the coupling is loose, a change at one level does not dictate the others, and a full account requires all three.
 
-The compendium's parallels put the framework to contemplative use, as crosslinks rather than applications Marr himself made: the ontological difference between levels of being, the two truths that hold conventional and ultimate descriptions side by side, and the study of the commanding self as a specific opponent each rely on keeping levels distinct instead of letting one collapse into another.
+My parallels put the framework to contemplative use, as crosslinks rather than applications Marr himself made: the ontological difference between levels of being, the two truths that hold conventional and ultimate descriptions side by side, and the study of the commanding self as a specific opponent each rely on keeping levels distinct instead of letting one collapse into another.
 
 ## Cited in psychology parallels
 

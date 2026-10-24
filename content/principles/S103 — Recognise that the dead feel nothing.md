@@ -21,7 +21,7 @@ The fear is of dying, not of death. Marcus points at every ending you have alrea
 (Med. VI.26, VII.22, IX.19, trans. Casaubon, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
 **Plain words**
-Marcus lists the possibilities and the compendium turns them into a fork: if death ends consciousness, there is nobody left to feel anything; if consciousness continues in some other form, that is a transition you will meet with a mind, not a blank. Either way the state of being dead contains no suffering, because suffering needs a subject. What is frightening is dying, the process — and that is brief. Look closely at which of the two you fear, and see whether it is the process rather than the state.
+Marcus lists the possibilities and I turn them into a fork: if death ends consciousness, there is nobody left to feel anything; if consciousness continues in some other form, that is a transition you will meet with a mind, not a blank. Either way the state of being dead contains no suffering, because suffering needs a subject. What is frightening is dying, the process — and that is brief. Look closely at which of the two you fear, and see whether it is the process rather than the state.
 
 *For example:* Imagine a person with a terminal diagnosis spending her last weeks arranging things for her family, and finding the fear shrinks as the arrangements grow.
 

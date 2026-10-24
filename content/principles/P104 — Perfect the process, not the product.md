@@ -18,10 +18,10 @@ The Stanford Encyclopedia's entry on process philosophy is authored by Nicholas 
 >
 > (Nicholas Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy)
 
-The compendium uses Rescher's account as a prompt for reviewing how a project was carried out.
+I use Rescher's account as a prompt for reviewing how a project was carried out.
 
 **Plain words**
-For the compendium's exercise, choose a finished project and list the actions that produced it. Note which you would repeat and which you would change on a second attempt. Use that list to plan the next project.
+For my exercise, choose a finished project and list the actions that produced it. Note which you would repeat and which you would change on a second attempt. Use that list to plan the next project.
 
 *For example:*
 Consider the athlete who medals once and keeps training for a decade. On the process reading, the medal is a record of what the training did, and the decade is the training continuing to be what it is.

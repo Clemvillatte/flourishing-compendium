@@ -36,7 +36,7 @@ Growth is the point. "If education is growth, it must progressively realize pres
 - **Growth as the criterion of value** — the only near-ultimate value; the good life is a process, not a state. See [[P015 — Make growth your criterion of value|P015]], [[P014 — The good life is a process, not a state|P014]], [[Valuation as growth-direction]].
 - **Experimental ethics** — moral judgment as dramatic rehearsal of alternatives in a concrete situation. See [[Deliberation as rehearsal]], [[The moral situation]], [[P084 — Act in the situation, not from the rulebook|P084]].
 
-## Connected in the wiki — the Deweyan layer of the pragmatist book
+## Connected here — the Deweyan layer of the pragmatist book
 
 The corpus has no separate Dewey book; his principles live in the pragmatist (P) book alongside James's, and the section keeps the entries whose pages cite Dewey or his works in their sources, plus the education and experience concepts derived from him.
 

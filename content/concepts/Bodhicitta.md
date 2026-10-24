@@ -7,7 +7,7 @@ file: "Bodhicitta"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-Bodhicitta is the resolve to awaken for the welfare of all beings. The word is Sanskrit: a gloss in Laumakis's introduction renders it the "thought of enlightenment/awakening" and says that in Mahayana Buddhism it refers to the enlightened mind of a bodhisattva (p. 229). In his account of tantric practice the same resolve appears as "a firm pledge to arouse bodhicitta", a vow "to achieve Buddha-hood for the welfare of all beings" (p. 236). The compendium's source text is the Bodhicaryavatara, Śāntideva's guide to the bodhisattva's life, whose opening chapter praises it.
+Bodhicitta is the resolve to awaken for the welfare of all beings. The word is Sanskrit: a gloss in Laumakis's introduction renders it the "thought of enlightenment/awakening" and says that in Mahayana Buddhism it refers to the enlightened mind of a bodhisattva (p. 229). In his account of tantric practice the same resolve appears as "a firm pledge to arouse bodhicitta", a vow "to achieve Buddha-hood for the welfare of all beings" (p. 236). My source text is the Bodhicaryavatara, Śāntideva's guide to the bodhisattva's life, whose opening chapter praises it.
 
 > Like the alchemists’ supreme elixir,
 > It takes this ordinary, impure human form,

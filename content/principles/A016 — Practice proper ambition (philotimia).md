@@ -23,7 +23,7 @@ People blame "the unambitious man as not willing to be honoured even for noble r
 
 ### An unnamed mean
 
-"The mean being without a name, the extremes seem to dispute for its place as though that were vacant by default." The state that is praised is "an unnamed mean in respect of honour." The word "philotimia" in the page title is the compendium's label. Aristotle treats the middle as having no name.
+"The mean being without a name, the extremes seem to dispute for its place as though that were vacant by default." The state that is praised is "an unnamed mean in respect of honour." The word "philotimia" in the page title is my label. Aristotle treats the middle as having no name.
 
 (NE IV.4, 1125b.)
 

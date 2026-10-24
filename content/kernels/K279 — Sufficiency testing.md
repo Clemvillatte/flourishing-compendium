@@ -20,7 +20,7 @@ Laozi's lines, in Legge's translation:
 
 > "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." — [Daodejing 46, Legge translation (Project Gutenberg 216)](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
-The written number is the compendium's editorial tool; the sufficiency it names is Laozi's.
+The written number is my editorial tool; the sufficiency it names is Laozi's.
 
 ### Protocol
 

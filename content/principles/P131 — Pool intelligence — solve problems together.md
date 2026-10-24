@@ -21,7 +21,7 @@ In The Public and Its Problems, Dewey argues for improving public discussion:
 He assigns experts the task of "discovering and making known the facts" and says the many need the ability to judge "the bearing of the knowledge supplied by others upon common concerns" ([The Public and Its Problems](https://archive.org/details/publicitsproblem0000dewe), Ch. VI).
 
 **Plain words**
-For the compendium's exercise, choose a shared problem. Write down which facts need investigation and who lives with its consequences. Ask people with relevant expertise and affected people what they know, where they disagree, and what remains uncertain.
+For my exercise, choose a shared problem. Write down which facts need investigation and who lives with its consequences. Ask people with relevant expertise and affected people what they know, where they disagree, and what remains uncertain.
 
 *For example:*
 Imagine residents considering a redesigned intersection. An engineer brings traffic measurements; a parent and a delivery driver describe problems they encounter. Record the different concerns, propose a design, and decide what to observe in a trial.

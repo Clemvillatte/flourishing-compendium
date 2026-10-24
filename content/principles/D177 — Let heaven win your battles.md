@@ -16,7 +16,7 @@ Chapter 73 of the Daodejing describes the way of Heaven as winning without conte
 
 > "It is the way of Heaven not to strive, and yet it skilfully overcomes; not to speak, and yet it is skilful in obtaining a reply; does not call, and yet men come to it of themselves. Its demonstrations are quiet, and yet its plans are skilful and effective." (DDJ 73, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium turns this into an exercise rather than a guarantee: pick an outcome you want, put your effort into how things are arranged for it, and step back from the pushing.
+I turn this into an exercise rather than a guarantee: pick an outcome you want, put your effort into how things are arranged for it, and step back from the pushing.
 
 **Plain words**
 Pick one outcome you keep pushing for. Write down the conditions that would let it happen without anyone being pushed, and change one of them. Want a document read? Make it shorter. Want people at a meeting? Make the meeting worth attending. Then watch what the change does, without resuming the pushing.

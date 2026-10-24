@@ -19,7 +19,7 @@ The "small self" here is a feeling of being small next to something larger, and,
 
 The studies measure generosity in economic games and brief helping tasks. They do not follow people over years, so what the trait does across a whole life remains open.
 
-### In the compendium
+### Here
 
 - [[D014 — Preserve your childlike vitality]] is a Daoist principle that takes the infant as the model of vitality (Daodejing 55). It does not cite Piff and colleagues. The two share a theme of openness to something larger than the adult self, and nothing in the awe studies speaks to childlike vitality as such.
 

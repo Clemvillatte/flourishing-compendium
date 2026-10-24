@@ -18,7 +18,7 @@ In Book X, Aristotle distinguishes pleasure from movement: like seeing, it is co
 
 The relation runs both ways: "without activity pleasure does not arise, and every activity is completed by the attendant pleasure", and pleasure is not continuous for the same reason activity is not. The proper pleasure also feeds the activity: "it is those who enjoy geometrical thinking that become geometers and grasp the various propositions better", while alien pleasures hinder it, as when "people who are fond of playing the flute are incapable of attending to arguments if they overhear some one playing the flute".
 
-The compendium's exercise: choose an activity and record whether pleasure accompanies it, without assuming that it will.
+My exercise: choose an activity and record whether pleasure accompanies it, without assuming that it will.
 
 **Plain words** For Aristotle, pleasure completes an activity, like bloom completing youth. Enjoying an activity can help sustain it; pleasure from something else can interrupt it.
 

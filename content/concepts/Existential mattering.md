@@ -23,7 +23,7 @@ George and Park's Multidimensional Existential Meaning Scale has 15 items, and O
 
 The page relies on a secondary account of George and Park's wording. Their original article was not available for checking, and the Ostafin study uses the framework for a different question, namely how meaning relates to fear of the unknown. It does not test existential mattering as a route to flourishing.
 
-### In the compendium
+### Here
 
 - [[PP028 — Mattering matters]] separates this broad sense of mattering from interpersonal mattering, the feeling that particular people notice and rely on you.
 

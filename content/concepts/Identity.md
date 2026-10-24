@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Identity — the answer to "who am I": whether a fixed essence (ātman), a construction of aggregates (anattā), a narrative (Ricoeur), or a relation ([[Ubuntu|Ubuntu]]). The graph's traditions offer every option.
 
-The word "identity" covers two questions, and the compendium's four options answer different ones. The Stanford Encyclopedia of Philosophy separates them clearly, and the sources below follow that split.
+The word "identity" covers two questions, and my four options answer different ones. The Stanford Encyclopedia of Philosophy separates them clearly, and the sources below follow that split.
 
 ### Two questions
 
@@ -31,9 +31,9 @@ Ubuntu itself is cited at second hand. The Stanford Encyclopedia's entry on Afri
 
 ### What this page does not claim
 
-These four answers are not rivals on one question. The Ricoeur and Ubuntu readings speak mainly to the characterization question, and the Buddhist non-self argument is aimed at the persistence question and at the sense of an owning "I". The original entry's claim that the graph's traditions offer "every option" is a statement about the compendium, not a survey of the field.
+These four answers are not rivals on one question. The Ricoeur and Ubuntu readings speak mainly to the characterization question, and the Buddhist non-self argument is aimed at the persistence question and at the sense of an owning "I". The original entry's claim that the graph's traditions offer "every option" is a statement about my own record, not a survey of the field.
 
-### In the compendium
+### Here
 
 - [[SE036]] cites this concept.
 

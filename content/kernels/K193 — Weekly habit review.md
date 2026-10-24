@@ -19,7 +19,7 @@ The steps follow the habit-formation guidance: the phases are quoted in the Evid
 1. Keep the record during the week: a simple tick sheet of whether the behavior fired in its context, the same self-monitoring the learning phase calls for.
 2. At the end of each week, rate how automatic the behavior feels, to watch it getting easier.
 3. For the missed firings, ask what changed: is the cue still salient, still encountered and detected frequently and consistently? The context, not the person, is where the theory looks for the fault.
-4. Adjust the design: re-anchor the behavior to a time and place met every day of the week. The original entry's phrasing of this step, adjust the design and not the willpower, is the compendium's own.
+4. Adjust the design: re-anchor the behavior to a time and place met every day of the week. The original entry's phrasing of this step, adjust the design and not the willpower, is my own.
 
 ### Evidence
 

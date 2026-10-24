@@ -15,7 +15,7 @@ Heidegger's Entwurf is the throwing of Dasein ahead of itself onto its own possi
 >
 > "On the contrary, any Dasein has, as Dasein, already projected itself; and as long as it is, it is projecting. [...] Because of the kind of Being which is constituted by the existentiale of projection, Dasein is constantly 'more' than it factually is, supposing that one might want to make an inventory of it as something-at-hand and list the contents of its Being, and supposing that one were able to do so." (Heidegger, Being and Time §31, [Macquarrie and Robinson translation, p. 185, beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.185.html))
 
-### In the compendium
+### Here
 
 - [[E038 — Practise project]] — lists the concept among its philosophy parallels.
 

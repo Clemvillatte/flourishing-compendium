@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 64** — Keep the body simple and the conduct clean
 
-In a song addressed to the benefactors gathered around him, Milarepa sums his counsel in one line: forsake negative deeds and accomplish virtue (Lowell Cook's translation), offering his own example as the standard. The compendium's application separates the two halves: the ethical counsel is the song's own content, and the body-and-conduct routine (sleep, money, speech, integrity) is the compendium's monthly audit built on it.
+In a song addressed to the benefactors gathered around him, Milarepa sums his counsel in one line: forsake negative deeds and accomplish virtue (Lowell Cook's translation), offering his own example as the standard. My application separates the two halves: the ethical counsel is the song's own content, and the body-and-conduct routine (sleep, money, speech, integrity) is my monthly audit built on it.
 
 (Milarepa's songs to householders; the lay practice instructions.)
 

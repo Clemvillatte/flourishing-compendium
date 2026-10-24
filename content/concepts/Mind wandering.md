@@ -57,7 +57,7 @@ Judson Brewer's group compared experienced meditators with matched controls acro
 
 The same scans showed stronger coupling in the meditators between control-related regions, and the authors read the differences as "consistent with decreased mind-wandering" ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)). The study reports differences between groups, not training effects: what practice does to the default is a question it frames rather than one it answers ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)).
 
-### In the compendium
+### Here
 
 - [[AT035 — Recognise and work with mind-wandering — it is not the enemy]] — cites the same 46.9% finding and the authors' time-lag reading
 - [[CO009 — Recognise that thinking has a default mode — mind-wandering]] — Raichle's default-mode account; this page adds the mood and performance findings

@@ -12,9 +12,9 @@ Superordinate goals are the Robbers Cave experiment's remedy for intergroup host
 
 ### The finding
 
-At the Oklahoma camp, two groups of boys were first set against each other in competitive games, and mere contact — eating together, watching films together — did not soften the hostility. What worked were engineered common problems: a water supply that failed, a stalled truck that needed everyone pulling on the rope. The summary sentence in the report: "The end result was obtained through introduction of a series of superordinate goals which had compelling appeal value for both groups but which could not be achieved by the efforts and resources of one group alone." The definition is strict, and the study's usefulness depends on keeping it so: a goal both sides applaud but neither needs the other for is not a superordinate goal; it is two goals wearing one name. The compendium's use: when solidarity is the aim, look for the task that fails unless the rival helps.
+At the Oklahoma camp, two groups of boys were first set against each other in competitive games, and mere contact — eating together, watching films together — did not soften the hostility. What worked were engineered common problems: a water supply that failed, a stalled truck that needed everyone pulling on the rope. The summary sentence in the report: "The end result was obtained through introduction of a series of superordinate goals which had compelling appeal value for both groups but which could not be achieved by the efforts and resources of one group alone." The definition is strict, and the study's usefulness depends on keeping it so: a goal both sides applaud but neither needs the other for is not a superordinate goal; it is two goals wearing one name. My use: when solidarity is the aim, look for the task that fails unless the rival helps.
 
-## In the compendium
+## Here
 
 - [[P137 — Build solidarity without demanding consensus]]
 

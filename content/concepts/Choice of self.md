@@ -22,7 +22,7 @@ Existential psychoanalysis seeks to understand the unity behind a person’s att
 
 > But if I am one, this cannot be in the mode of being-in-itself. I am a waiter in the mode of *being what I am not*. — Sartre, Being and Nothingness, 1956: 60, quoted in [SEP, §4.2](https://plato.stanford.edu/entries/sartre/)
 
-### In the compendium
+### Here
 
 - [[E039 — Practise the choice of self]] — the practice built on this concept.
 - [[E049 — Practise despair and its overcoming]] — Kierkegaard's account of despair as not wanting to be oneself.

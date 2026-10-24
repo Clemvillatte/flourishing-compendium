@@ -27,7 +27,7 @@ Hume then names why no proof is available:
 
 His answer to what does drive expectation is habit: "Custom, then, is the great guide of human life" ([Enquiry, Section V Part I, Project Gutenberg](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm)).
 
-### Why the compendium keeps it
+### Why I keep it
 
 The concept matters for flourishing in two ways. First, it disciplines expectation: plans that treat a regularity as a guarantee are built on something no argument can supply, and Hold events lightly (D110) works this into a practice. Second, it explains why prediction errors feel like betrayal when they are structurally inevitable, and why the base-rate literature (Know the base rate neglect, CO020) keeps finding that people update on vivid single cases instead of frequencies.
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 2** — Know that the split is made, not found
 
-In Nishida's early account, pure experience precedes the differentiation into an experiencing subject and an experienced object; the individual is formed out of it ([Maraldo, §2.1](https://plato.stanford.edu/entries/nishida-kitaro/)). The compendium uses this account to question the assumption that experience begins with an already separate observer.
+In Nishida's early account, pure experience precedes the differentiation into an experiencing subject and an experienced object; the individual is formed out of it ([Maraldo, §2.1](https://plato.stanford.edu/entries/nishida-kitaro/)). I use this account to question the assumption that experience begins with an already separate observer.
 
 > "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be. ([John C. Maraldo, "Nishida Kitarō", §2.1](https://plato.stanford.edu/entries/nishida-kitaro/), Stanford Encyclopedia of Philosophy; the opening phrase quotes Nishida's An Inquiry into the Good, p. 3, the surrounding wording is Maraldo's commentary)
 

@@ -18,7 +18,7 @@ The same abstract notes that in genetically susceptible individuals, some compon
 
 Cryan and Dinan's review in Nature Reviews Neuroscience in 2012 cites studies in germ-free animals and animals exposed to pathogenic bacterial infections, probiotic bacteria or antibiotic drugs as suggesting a role for the gut microbiota in the regulation of anxiety, mood, cognition and pain ([Cryan & Dinan, 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/22968153/)). The abstract states that accumulating data indicate "that the gut microbiota also communicates with the CNS--possibly through neural, endocrine and immune pathways--and thereby influences brain function and behaviour" ([Cryan & Dinan, 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/22968153/)). The abstract ends by describing the microbiota-gut-brain axis as an emerging concept whose modulation may be a tractable strategy for developing novel therapeutics for complex CNS disorders ([same record](https://pubmed.ncbi.nlm.nih.gov/22968153/)).
 
-### In the compendium
+### Here
 
 - [[BI034 — Learn to eat for gut health — fibre, fermented foods, diversity]] lists this topic.
 

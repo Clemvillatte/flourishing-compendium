@@ -18,7 +18,7 @@ In 1957 Rogers published his hypothesis about what makes personality change poss
 >
 > (Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", 1957)
 
-Acceptance, in this account, is not approval. Rogers describes "a caring for the client as a separate person, with permission to have his own feelings, his own experiences", and acceptance of the client's fearful and defensive feelings as readily as of the confident ones. The compendium extends the condition beyond the therapy room: offer the same non-contingent regard to yourself and to the people in your life. That extension is an application; the 1957 paper argues it only for the therapist-client relationship.
+Acceptance, in this account, is not approval. Rogers describes "a caring for the client as a separate person, with permission to have his own feelings, his own experiences", and acceptance of the client's fearful and defensive feelings as readily as of the confident ones. I extend the condition beyond the therapy room: offer the same non-contingent regard to yourself and to the people in your life. That extension is an application; the 1957 paper argues it only for the therapist-client relationship.
 
 **Plain words**
 Suppose someone admits something you find difficult to hear. You can listen to their experience and still discuss their conduct. Applied to yourself, the invitation is to describe a mistake without making self-acceptance conditional on having already corrected it.

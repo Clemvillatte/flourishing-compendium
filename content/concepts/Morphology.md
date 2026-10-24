@@ -19,7 +19,7 @@ The 1790 essay "The Metamorphosis of Plants" carries the method's botanical case
 
 The contrast with the botany of his time is part of the point. The entry notes that Goethe's morphology stood "in opposition to the static taxonomy of Linnaeus", studying these perceptible limitations as "instances of natural generation for the sake of intuiting the inner working of nature itself, whole and entire" ([same entry](https://iep.utm.edu/goethe/)).
 
-### In the compendium
+### Here
 
 - [[P112 — Respect the material — work with its grain]] lists this concept as a philosophy parallel.
 

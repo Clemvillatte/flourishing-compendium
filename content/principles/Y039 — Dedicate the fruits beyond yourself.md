@@ -24,7 +24,7 @@ Johnston's comment on the verse names the obstacle:
 
 > "The sorrow and darkness of life come of the erring personal will which sets itself against the will of the Soul, the one great Life." ([commentary on II.45](https://www.gutenberg.org/ebooks/2526))
 
-The compendium offers a secular adaptation: name a person or purpose your work is intended to serve, and end a session with one sentence of dedication.
+I offer a secular adaptation: name a person or purpose your work is intended to serve, and end a session with one sentence of dedication.
 
 **Plain words** If recognition never came, who would you still want this work to help? Let that answer help set your priorities.
 

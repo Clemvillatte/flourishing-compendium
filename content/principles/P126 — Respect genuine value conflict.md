@@ -18,7 +18,7 @@ James argues that the world's goods compete for the same space and time, so any 
 
 > "Some part of the ideal must be butchered, and he needs to know which part. It is a tragic situation, and no mere speculative conundrum, with which he has to deal." (James, The Will to Believe and Other Essays, printed p. 202, [Gutenberg](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
 
-The compendium adapts this into an exercise in honest choosing: when two real goods collide, name both, name what giving up each would cost, then choose.
+I adapt this into an exercise in honest choosing: when two real goods collide, name both, name what giving up each would cost, then choose.
 
 **Plain words**
 When two good things cannot both happen, say so plainly. Weigh which one to give up, and admit the cost of the loss.

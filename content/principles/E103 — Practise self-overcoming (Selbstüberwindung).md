@@ -31,7 +31,7 @@ Nietzsche ties the drive to will to power: "Wherever I found a living thing, the
 
 The principle's other two citations do not carry this idea. Beyond Good and Evil §259 is a passage on life as "appropriation, injury, conquest of the strange and weak", and does not discuss self-overcoming. The Gay Science §289 ("Aboard Ship!") calls for "a new justice" and "new philosophers", not for self-overcoming as such.
 
-"Do not be content with who you are" is the compendium's instruction, not a line of Nietzsche's. In the chapter, surpassing is described as something life does, with cost: the self that commands itself must "atone" for it.
+"Do not be content with who you are" is my instruction, not a line of Nietzsche's. In the chapter, surpassing is described as something life does, with cost: the self that commands itself must "atone" for it.
 
 (Nietzsche, Thus Spake Zarathustra, "Self-Surpassing"; The Gay Science §289; Beyond Good and Evil §259, noted above as non-supporting.)
 

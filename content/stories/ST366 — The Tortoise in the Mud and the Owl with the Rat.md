@@ -16,7 +16,7 @@ Then he asks them a question: "Was it better for the tortoise to die, and leave 
 
 The next anecdote reverses the scene. Zhuangzi's friend and rival Huizi is minister in Liang. Someone tells him Zhuangzi has come to take his post, so he searches the kingdom for three days and three nights. Zhuangzi comes to him anyway and tells of a bird called the Young Phoenix, which flies from the south sea to the north and eats and drinks only the finest things. An owl that had got a rotten rat looked up as the phoenix passed and screamed at it. "Do you wish now, in your possession of the kingdom of Liang, to frighten me with a similar scream?" ([Legge, ch. 17 §12](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-The compendium puts the two together for D079 and D157. The king offers what the crowd measures success by, and Zhuangzi weighs it against the life it would use up. Huizi, who holds the same office, guards it so hard that he panics at a visit.
+I put the two together for D079 and D157. The king offers what the crowd measures success by, and Zhuangzi weighs it against the life it would use up. Huizi, who holds the same office, guards it so hard that he panics at a visit.
 
 Limits: the passages report one man's choice and say nothing about what happened afterward. The anecdote about Huizi is also a jab at a friend, and it would be easy to read Zhuangzi's calm as a boast. The text treats high office as dead flesh without saying that every duty is that.
 

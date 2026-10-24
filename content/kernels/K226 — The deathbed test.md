@@ -14,7 +14,7 @@ For a significant decision, ask: which choice would the eighty-year-old me endor
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the research below explains why the perspective takes effort.*
+*Steps are my own protocol; the research below explains why the perspective takes effort.*
 
 1. Name the decision and the two or three live options in plain words.
 2. Ask the question at the far end: which option would the version of me looking back endorse; which would they wish had been taken on their behalf.

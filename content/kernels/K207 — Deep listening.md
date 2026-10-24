@@ -14,7 +14,7 @@ Spend twenty minutes listening to someone with the sole intention of understandi
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the research below defines what the listening consists of, not a timed session.*
+*Steps are my own protocol; the research below defines what the listening consists of, not a timed session.*
 
 1. Give the speaker the floor and hold the intention of understanding their point of view; the research definition of high-quality listening is "listening that offers empathy (an understanding of the speaker's point of view), interest-taking, and unconditional regard (caring for the speaker, independent of expressed content and a non-judgmental stance)" ([Itzchakov, Weinstein, Legate & Amar, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7409873/)).
 2. Do not evaluate, advise, or agree and disagree; the listening is non-judgmental by definition.

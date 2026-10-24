@@ -19,7 +19,7 @@ The verse is from the Eight Verses of Training the Mind by Geshe Langri Thangpa:
 The verse sits in a text that trains the same stance from the other side: "Whenever I'm in the company of others, / I will regard myself as the lowest among all, / And from the depths of my heart / Cherish others as supreme" (verse 2). ([Eight Verses](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind))
 
 **Plain words**
-The verse trains a specific move: when someone belittles you, take the loss on yourself and hand them the win. The compendium extends the same move to credit: in joint work, deliberately name others' contributions rather than your own. As training rather than loss, run the experiment once in a dispute you could win, and concede gracefully.
+The verse trains a specific move: when someone belittles you, take the loss on yourself and hand them the win. I extend the same move to credit: in joint work, deliberately name others' contributions rather than your own. As training rather than loss, run the experiment once in a dispute you could win, and concede gracefully.
 
 For example: After a successful project, you name your colleague's contribution in the meeting before she has to.
 

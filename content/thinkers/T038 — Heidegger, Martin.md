@@ -31,14 +31,14 @@ Dasein is being-in-the-world, a unitary structure in which world, self and invol
 - **Care and thrownness** — Dasein as thrown project, always ahead of itself in a world it must look after. See [[Sorge]], [[Thrownness]], [[Projection (Entwurf)]].
 - **Technology and dwelling** — enframing as the danger, poetic dwelling and the fourfold as the counter. See [[The enframing (Gestell)]], [[Dwelling]], [[Gelassenheit]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Dasein]]
 - [[Authenticity]]
 - [[Being-toward-death]]
 - [[Gelassenheit]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 166-entry surname-match floor is not reproduced.
 

@@ -18,7 +18,7 @@ The basic experience is "being alone, as an infant and small child, in the prese
 
 The capacity "depends on the existence of a good object in the psychic reality of the individual," an internal object well enough established that the person can "rest contented even in the absence of external objects and stimuli" ([Winnicott 1958](https://web.english.upenn.edu/~cavitch/pdf-library/Winnicott_Capacity_To_Be_Alone.pdf)). "I am alone" is a development from "I am," dependent on the infant's awareness of the continued existence of a reliable mother ([Winnicott 1958](https://web.english.upenn.edu/~cavitch/pdf-library/Winnicott_Capacity_To_Be_Alone.pdf)). The payoff is discovery: "It is only when alone (that is to say, in the presence of someone) that the infant can discover his own personal life" ([Winnicott 1958](https://web.english.upenn.edu/~cavitch/pdf-library/Winnicott_Capacity_To_Be_Alone.pdf)).
 
-### In the compendium
+### Here
 
 SE058 "Recognise self and solitude: the self needs alone time" treats solitude as a necessary condition for self-reflection and self-renewal, not isolation. B173 "Be alone well" gives the practice: solitude without collapse or distraction, citing MN 122 and Dhammapada 61-62. P134 "Grow in solitude and community together" schedules both phases: the self is social but needs the pause of solitude to consolidate, citing Dewey and James.
 

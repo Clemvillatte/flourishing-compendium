@@ -24,7 +24,7 @@ A metaphor attributed to Harris (2009, p. 175) in a [scale-validation paper](htt
 
 ### What it does and does not claim
 
-Hayes and colleagues' progress review of ACT (Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello) says self-as-context interventions "help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat", which "undermines excessive rule control and increases psychological flexibility." That is a clinical claim about perspective. It is not a proof that there is a separate observer inside you, and the principle's "not a metaphysical claim" fits that. The compendium's "rest identity in the observing" goes further than these sources.
+Hayes and colleagues' progress review of ACT (Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello) says self-as-context interventions "help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat", which "undermines excessive rule control and increases psychological flexibility." That is a clinical claim about perspective. It is not a proof that there is a separate observer inside you, and the principle's "not a metaphysical claim" fits that. My "rest identity in the observing" goes further than these sources.
 
 (Hayes, Strosahl and Wilson, Acceptance and Commitment Therapy; Mead's "I" and "Me.")
 

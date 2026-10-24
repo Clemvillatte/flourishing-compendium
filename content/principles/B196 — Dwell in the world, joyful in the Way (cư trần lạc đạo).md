@@ -22,7 +22,7 @@ Trieu identifies Trần Nhân Tông as a king, the founder of Trúc Lâm and its
 >
 > (Trần Nhân Tông, Cư Trần Lạc Đạo Phú, concluding verse; English rendering reproduced in Don Thuong Trieu)
 
-The compendium takes the references to eating and sleeping as a starting point for an everyday exercise: bring attention to an ordinary responsibility rather than reserving practice for time away from it.
+I take the references to eating and sleeping as a starting point for an everyday exercise: bring attention to an ordinary responsibility rather than reserving practice for time away from it.
 
 (Trần Nhân Tông, Trúc Lâm tradition.)
 

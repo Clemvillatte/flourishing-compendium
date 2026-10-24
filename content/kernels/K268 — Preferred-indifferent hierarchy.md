@@ -22,7 +22,7 @@ Indifference is not equality, though; the mainstream view assigns value by natur
 
 > "the mainstream Stoic view is that some indifferents – such as health, wealth, and reputation – are of a promoted or preferred type (proêgmena/praeposita), have value (axia/aestimatio), and are according to nature (kata phusin/secundum naturam), such that is appropriate or dutiful or one's proper function (kathêkon/officium) to select them over their opposites in normal circumstances" — [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
-The virtuous agent pursues health and takes the steps needed to obtain it, "even though her successful acquisition of health – her actually being healthy rather than unhealthy – makes no difference to her happiness and is neither good nor bad" (same entry). The ranking exercise is the compendium's editorial tool for finding where that boundary has been lost.
+The virtuous agent pursues health and takes the steps needed to obtain it, "even though her successful acquisition of health – her actually being healthy rather than unhealthy – makes no difference to her happiness and is neither good nor bad" (same entry). The ranking exercise is my editorial tool for finding where that boundary has been lost.
 
 ### Protocol
 

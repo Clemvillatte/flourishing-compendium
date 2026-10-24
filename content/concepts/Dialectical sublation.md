@@ -21,7 +21,7 @@ In the Logic, Being and Nothing give way to Becoming. The entry says this is no 
 
 The entry notes that this pattern is often described as thesis, antithesis, synthesis, and that the textbook account has been challenged. Stace, who endorsed the triad reading, still warned that "there are even 'triads' which contain four terms!", and one section of the Logic "violates the thesis-antithesis-synthesis pattern because it has only two sub-divisions, rather than three" ([SEP, §2](https://plato.stanford.edu/entries/hegel-dialectics/)). A writer using sublation should take it from Hegel's own two-sided sense of cancelling and preserving and not from the slogan.
 
-### In the compendium
+### Here
 
 - [[D005 — Expect reversal — extremes turn into their opposites]] rests on Daodejing chapter 40. The Daoist rule of reversal and Hegel's sublation both treat opposition as productive, but the SEP entry does not compare them, and in Hegel the result keeps what it overcame.
 

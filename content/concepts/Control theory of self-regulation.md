@@ -23,7 +23,7 @@ The model's distinctive move is a second loop that runs in parallel with the beh
 
 The model also predicts the giving-up side. Engagement is high around the criterion and in a range below it, but when things go too badly effort falls off, and when an incentive is lost altogether effort ceases. In adaptive self-regulation the person gradually disengages from effort and from commitment to the goal alike ([Carver, Psychological Inquiry](https://pmc.ncbi.nlm.nih.gov/articles/PMC6707771/)), taking up another goal if the lost one matters.
 
-### In the compendium
+### Here
 
 - [[MO055 — Recognise that goal progress predicts well-being — pursuing goals is good for you]] — the goal-progress theory line in its plainest form.
 - [[MO059 — Learn to balance striving and contentment — ambition without suffering]] — the loop's affect logic turned into a practice of balance.

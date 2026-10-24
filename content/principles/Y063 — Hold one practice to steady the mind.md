@@ -18,7 +18,7 @@ Patanjali's list of what scatters a mind comes first: "The barriers to interior 
 
 Johnston's comment on the verse: "The remedy is a return to the pristine state of the will, by vigorous, positive effort; or, as we are here told, by steady application to a principle." ([commentary on YS 1.32](https://www.gutenberg.org/ebooks/2526))
 
-The compendium's application: choose one steadying practice for a season and let everything else orbit it.
+My application: choose one steadying practice for a season and let everything else orbit it.
 
 **Plain words** A scattered mind has a long list of causes and one remedy on the list: pick a single practice and keep at it. The failure mode the remedy targets is the collection, a shelf of practices each dropped when the novelty wears off.
 

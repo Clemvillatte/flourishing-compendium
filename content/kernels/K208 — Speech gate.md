@@ -14,7 +14,7 @@ Before speaking, run the words through a gate: true, timely, beneficial, kind. T
 
 ### Protocol
 
-*Steps distilled from the sutta passage below; the distillation is the compendium's, the criteria are the sutta's.*
+*Steps distilled from the sutta passage below; the distillation is my, the criteria are the sutta's.*
 
 1. Ask of the words waiting to be said: are they factual, true? If not, they do not pass, however welcome they would be.
 2. Ask: are they beneficial? Truth alone does not license speech — the sutta withholds even factual words when they do not connect with the goal.

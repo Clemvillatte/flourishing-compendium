@@ -15,7 +15,7 @@ Unity in diversity is the political-philosophical claim that a whole can be stro
 
 The passage continues with the thought that does the work: "a state is not made up only of so many men, but of different kinds of men; for similars do not constitute a state" (Aristotle, [Politics II](https://classics.mit.edu/Aristotle/politics.2.two.html)). Aristotle is arguing against Plato's proposal that guardians hold wives, children and property in common: pressed to its limit, that unity would dissolve the city into a household and the household into a single man, and the city's capacity for self-sufficiency, which he values, comes precisely from different people doing different work.
 
-### In the compendium
+### Here
 
 - [[R030 — Practise kotahitanga]] pairs the Māori practice of unity with this Greek argument: kotahitanga asks for one mind and unison while every voice is heard, and the principle itself glosses that as "unity without uniformity of thought", the same structure Aristotle defends for the city.
 

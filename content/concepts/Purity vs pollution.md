@@ -15,7 +15,7 @@ Mary Douglas's classic move is to treat purity rules not as primitive hygiene bu
 
 Douglas's own term for dirt elsewhere in the book is "matter out of place": the same item can be clean inside one ordering and polluting inside another.
 
-### In the compendium
+### Here
 
 - [[AF056 — Recognise disgust's function — it protects from contamination]] — lists the concept among its philosophy parallels.
 

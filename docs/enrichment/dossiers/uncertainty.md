@@ -10,7 +10,7 @@ Not knowing what comes next is the human condition, and the suffering comes not 
 - Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts.
 - Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier.
 
-## The map: every entry the wiki holds on uncertainty
+## The map: the entries on uncertainty
 
 ### Enduring not knowing
 
@@ -70,7 +70,7 @@ Not knowing what comes next is the human condition, and the suffering comes not 
 
 [Elpis (hope)](https://clemvillatte.github.io/flourishing-compendium/#card=Elpis%20%28hope%29): the Greek word for hope, best known from Hesiod's story of Pandora.
 
-[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear.
+[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear.
 
 [Self-trust](https://clemvillatte.github.io/flourishing-compendium/#card=Self-trust): Emerson's conviction that one's own perception is a fit instrument for living.
 
@@ -104,7 +104,7 @@ The clinical literature on worry treats the same tolerance as a vulnerability fa
 
 > "The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD." ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.
 
-The two do not contradict each other as much as they look. Keats describes a capacity of artists and a reason for its worth; the model describes what follows in worriers when the capacity is absent. Both treat the capacity as the thing at stake, and the compendium's practices on sitting with uncertainty draw on the shared reading.
+The two do not contradict each other as much as they look. Keats describes a capacity of artists and a reason for its worth; the model describes what follows in worriers when the capacity is absent. Both treat the capacity as the thing at stake, and the practices here on sitting with uncertainty draw on the shared reading.
 
 ### What is the right response to what cannot be foreseen?
 
@@ -112,13 +112,13 @@ The shared question: since much of what comes is not ours to settle, what should
 
 > "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions." ([Epictetus, Enchiridion 1, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)): Primary text; quoted passage checked.
 
-His claim is that holding to the division removes the injury: "no one will ever compel you or restrain you." Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and the compendium keeps both.
+His claim is that holding to the division removes the injury: "no one will ever compel you or restrain you." Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and I keep both.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the reflex to resolve. The look-alikes of tolerance are resignation and distraction. The adaptive moves are to let the not-knowing stay present, to turn an unknown into a small test, and to let the one fact that is certain, mortality with an unknown date, say what is urgent.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Sitting with uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=K122%20%E2%80%94%20Sitting%20with%20uncertainty): when you do not know what will happen, let the not-knowing be present and resist resolving it prematurely.
 
@@ -134,7 +134,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Not knowing whom or what to trust
 

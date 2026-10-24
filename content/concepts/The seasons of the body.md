@@ -15,11 +15,11 @@ The seasons of the body is this compendium's label for the observation that the 
 > A time to weep, and a time to laugh; a time to mourn, and a time to dance;"
 > — Ecclesiastes 3:1-4 (KJV, [Bible Gateway](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV))
 
-Heraclitus makes a related observation. Fragment B88 reads: "As the same thing in us are living and dead, waking and sleeping, young and old. For these things having changed around are those, and those in turn having changed around are these" ([Daniel W. Graham, SEP entry on Heraclitus](https://plato.stanford.edu/entries/heraclitus/)). The compendium also links the concept to Zhuangzi's story of drumming on the basin ([[ST031 — Zhuangzi Drums on a Basin]]).
+Heraclitus makes a related observation. Fragment B88 reads: "As the same thing in us are living and dead, waking and sleeping, young and old. For these things having changed around are those, and those in turn having changed around are these" ([Daniel W. Graham, SEP entry on Heraclitus](https://plato.stanford.edu/entries/heraclitus/)). I also link the concept to Zhuangzi's story of drumming on the basin ([[ST031 — Zhuangzi Drums on a Basin]]).
 
-The compendium's behavioural-science entries sit alongside this passage in the register of illness, hormones and chronic conditions.
+My behavioural-science entries sit alongside this passage in the register of illness, hormones and chronic conditions.
 
-### In the compendium
+### Here
 
 - [[D151 — Follow the seasons]]
 - [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]]

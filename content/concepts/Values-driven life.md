@@ -19,7 +19,7 @@ The book's most famous borrowed line earned its fame in the concentration camp c
 
 Logotherapy is deliberately concrete about where meaning comes from: "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering" ([Frankl](https://dn720006.ca.archive.org/0/items/english-collections-k-z/Man's%20Search%20for%20Meaning%20-%20Frankl,%20Viktor.pdf)). Work, love, and the stance taken toward what cannot be changed.
 
-### In the compendium
+### Here
 
 - [[BE017 — Learn to schedule valued activities — meaning-driven behaviour]] turns this into practice: a values-driven life is not a mood but a schedule, valued activities given real slots in the week, which is Frankl's three ways translated into calendar entries.
 

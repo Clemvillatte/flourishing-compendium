@@ -23,7 +23,7 @@ The same idea shows up as a matter of effort in AN 6.55. The monk Sona was think
 
 The tuning is a skill and the right pitch changes with the day. On a low-energy morning, ten minutes of practice instead of either zero or forty is the middle path at its smallest. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[B009 — Walk the Middle Way]] — the principle that carries the teaching
 - [[Right effort]] — the eightfold-path factor where the tuning image applies

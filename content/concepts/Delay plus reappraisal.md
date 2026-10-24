@@ -11,7 +11,7 @@ The combined label "Delay plus reappraisal" remains unverified in the source rev
 
 > "The task of the implementation stage is to translate this general strategy (e.g., cognitive change) into tactics that are appropriate to the specific situation one is in (e.g., think about this particular rebuff as an accidental oversight rather than a deliberate insult; McRae, Ciesielski, & Gross, 2012)." (Gross, "Emotion regulation: Current status and future prospects", Psychological Inquiry 26(1): 1-26, 2015, p. 15, quoted in Isaacowitz and Wolfe, [Emotion Regulation Tactics](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423774/), Emotion Review, 2024)
 
-### In the compendium
+### Here
 
 - [[D074 — Don't fight angry]]
 - [[S003 — Recognise that you are disturbed not by things but by your judgements about them]]

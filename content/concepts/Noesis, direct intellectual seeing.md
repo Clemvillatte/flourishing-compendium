@@ -17,9 +17,9 @@ The same section quotes Republic 510b on the segment just below. There the soul,
 
 Silverman adds that the objects and nature of the third section, dianoia, are "matters of great controversy." The entry is therefore a reading of the line, and the middle of the line is disputed.
 
-### In the compendium
+### Here
 
-The principles below cite this concept. Several titles point to a comparison with direct, non-conceptual knowing; any such comparison is the compendium's, not Plato's.
+The principles below cite this concept. Several titles point to a comparison with direct, non-conceptual knowing; any such comparison is my, not Plato's.
 
 - [[B131 — Exhaust the conceptual mind (the sound of one hand)]]
 - [[B129 — Point directly at experience]]
@@ -35,7 +35,7 @@ The principles below cite this concept. Several titles point to a comparison wit
 - [[Intuition as method]] — a sibling method concept: direct knowing
 - [[Dialectic]] — a sibling method concept: knowing through exchange
 - [[Contemplation (theoria)]] — another Greek name for intellectual activity
-- [[Wisdom]] — the wiki's central topic, listed for orientation
+- [[Wisdom]] — my central topic, listed for orientation
 
 ## Sources
 

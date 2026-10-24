@@ -20,7 +20,7 @@ The viewer's experience need not duplicate the artist's; Dewey explicitly denies
 
 ### Plain words
 
-When you make something, try noticing how each choice changes what you are working on. When you look or listen, stay long enough to follow a relationship: how a melody returns, or how one colour changes the appearance of another. The compendium's practical suggestion is to attend to the unfolding work as well as the finished result.
+When you make something, try noticing how each choice changes what you are working on. When you look or listen, stay long enough to follow a relationship: how a melody returns, or how one colour changes the appearance of another. My practical suggestion is to attend to the unfolding work as well as the finished result.
 
 ### For example
 

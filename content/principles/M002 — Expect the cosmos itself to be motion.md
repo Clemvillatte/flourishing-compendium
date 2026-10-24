@@ -22,7 +22,7 @@ On the psychological side, [Dugas and colleagues (1998)](https://pubmed.ncbi.nlm
 
 (IEP, Aztec Philosophy, sections 2.a and 2.h.)
 
-**Plain words** In the Nahua account the present age is one of five and is expected to end. The deeper claim is that reality is movement. How far a person should plan around that is the compendium's step, not Maffie's.
+**Plain words** In the Nahua account the present age is one of five and is expected to end. The deeper claim is that reality is movement. How far a person should plan around that is my step, not Maffie's.
 
 For example: a couple keeps postponing a decision until things "settle down" and then notices that life is the settling down. They start planning for ongoing change.
 

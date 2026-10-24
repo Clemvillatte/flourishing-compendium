@@ -13,7 +13,7 @@ Correspondent inference theory is Edward Jones and Keith Davis's 1965 account of
 
 Jones later described the animating notion in plain terms: "strong and confident dispositional inferences are drawn about a person when we see him or her act under conditions of high choice". Standard textbook summaries give three conditions for a confident inference: the behaviour yields non-common effects, is freely chosen, and is low in social desirability, so that the act cannot be explained away as conformity or coercion.
 
-### In the compendium
+### Here
 
 - [[R070 — Practise attentiveness]], [[P192 — Life is freedom inserting itself into necessity]], [[SO001 — Flourish socially]] and [[D137 — Don't press people to the point of rebellion]] are this concept's philosophy parallels
 

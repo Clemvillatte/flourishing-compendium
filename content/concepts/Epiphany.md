@@ -17,7 +17,7 @@ Following Starbuck, James describes two ways such change happens: "a conscious a
 
 James asks whether instantaneous conversion is a miracle, or whether "the whole phenomenon of regeneration, even in these startling instantaneous examples, possibly" is "a strictly natural process". He explains the shifts partly by "explicitly conscious processes of thought and will, but as due largely also to the subconscious incubation and maturing of motives deposited by the experiences of life. When ripe, the results hatch out, or burst into flower" ([Lecture X](https://www.gutenberg.org/cache/epub/621/pg621.txt)). Whatever one's religious view, he writes, "we should still have to write down man's liability to sudden and complete conversion as one of his most curious peculiarities."
 
-### In the compendium
+### Here
 
 - [[B130 — Expect awakening to shift in a moment]] draws on the Platform Sutra's treatment of sudden and gradual awakening. James writes about Christian conversion and a psychological account of it, so the link is a comparison between traditions and not a claim that the two describe the same event.
 

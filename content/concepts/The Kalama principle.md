@@ -24,7 +24,7 @@ A person inherits a harsh view of themselves from family and tradition, the kind
 
 ### Related concepts
 
-- [[Verification in experience]]: the compendium's own register of the same move.
+- [[Verification in experience]]: my own register of the same move.
 - [[Socratic inquiry]]: the Western method of testing rather than receiving.
 
 ## Sources

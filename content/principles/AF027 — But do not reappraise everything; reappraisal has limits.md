@@ -20,9 +20,9 @@ In their sample of 170 participants, the result split by context:
 
 > "For participants with uncontrollable stress, higher cognitive-reappraisal ability was associated with lower levels of depression. In contrast, for participants with controllable stress, higher cognitive-reappraisal ability was associated with greater levels of depression." ([Troy et al., 2013, same abstract](https://journals.sagepub.com/doi/10.1177/0956797613496434))
 
-A 2016 corrigendum corrected the depression scores of 7 of the 170 participants; the authors report that the substantive results, their interpretation, and the conclusion remain completely unchanged ([corrigendum](https://journals.sagepub.com/doi/10.1177/0956797615627417)). The study measured reappraisal ability, stressor controllability and depression; it did not test whether reframing a specific job or relationship is denial. The compendium's check follows from the finding: before reframing, ask what you could change in the situation.
+A 2016 corrigendum corrected the depression scores of 7 of the 170 participants; the authors report that the substantive results, their interpretation, and the conclusion remain completely unchanged ([corrigendum](https://journals.sagepub.com/doi/10.1177/0956797615627417)). The study measured reappraisal ability, stressor controllability and depression; it did not test whether reframing a specific job or relationship is denial. My check follows from the finding: before reframing, ask what you could change in the situation.
 
-**Plain words** This study examined reappraisal ability and depression in relation to stressor controllability. It did not establish which strategy would help a particular person. Before reframing, the compendium suggests asking what you could change in the situation.
+**Plain words** This study examined reappraisal ability and depression in relation to stressor controllability. It did not establish which strategy would help a particular person. Before reframing, I suggest asking what you could change in the situation.
 
 *For example:* You tell yourself that a misassigned weekly task is fine. Separately, consider whether you could ask for reassignment. Reinterpreting the task and trying to change it are different options.
 

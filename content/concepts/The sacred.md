@@ -17,7 +17,7 @@ Durkheim made the distinction the center of his definition of religion:
 
 In Wikipedia's account of Durkheim's theory, the sacred represented the interests of the group, especially unity, embodied in sacred group symbols or totems; the profane, on the other hand, involved mundane individual concerns.
 
-### In the compendium
+### Here
 
 - [[R032 — Practise tapu]]
 - [[R047 — Practise va tapuia]]

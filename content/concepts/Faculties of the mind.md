@@ -17,14 +17,14 @@ Kant's rule is that neither faculty can do the other's work: "Without the sensuo
 
 > "All our knowledge begins with sense, proceeds thence to understanding, and ends with reason, beyond which nothing higher can be discovered in the human mind for elaborating the matter of intuition and subjecting it to the highest unity of thought." — Kant, Critique of Pure Reason ([Gutenberg](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm))
 
-### In the compendium
+### Here
 
 - [[AT002 — Know that attention has three networks — alerting, orienting, and executive control]] — cites Kant's faculties as its philosophy parallel
 
 ## Related concepts
 
 - [[Working memory capacity limits]] — the modern psychology of a bounded faculty
-- [[Imagination]] — the other faculty-of-mind page in this stretch of the compendium
+- [[Imagination]] — the other faculty-of-mind page in this stretch of this record
 
 ## Sources
 

@@ -17,14 +17,14 @@ The package is explicitly tailored, not off the shelf: "In each instance, the cl
 
 ### Evidence status
 
-SIT is well established as a flexible clinical framework, but the trial base for specific diagnoses is thinner than the method's reputation. A US Defense Health Agency evidence brief on SIT for PTSD reported that a March 2019 literature search "identified no randomized controlled trials on the efficacy of SIT for the treatment of PTSD published in the time period since the search conducted for the" previous review ([PHCoE Evidence Brief, 2021](https://www.health.mil/Reference-Center/Publications/2021/04/26/PHCoE-Evidence-Brief-Stress-Inoculation-Training-for-Posttraumatic-Stress-Disorder-508)). The compendium's principles use the training logic, graduated exposure plus coping skills, rather than promising a therapy outcome.
+SIT is well established as a flexible clinical framework, but the trial base for specific diagnoses is thinner than the method's reputation. A US Defense Health Agency evidence brief on SIT for PTSD reported that a March 2019 literature search "identified no randomized controlled trials on the efficacy of SIT for the treatment of PTSD published in the time period since the search conducted for the" previous review ([PHCoE Evidence Brief, 2021](https://www.health.mil/Reference-Center/Publications/2021/04/26/PHCoE-Evidence-Brief-Stress-Inoculation-Training-for-Posttraumatic-Stress-Disorder-508)). My principles use the training logic, graduated exposure plus coping skills, rather than promising a therapy outcome.
 
-### In the compendium
+### Here
 
 - [[S019 — Prepare for adversity before it arrives]] and [[S091 — Practise negative visualisation]] — the Stoic trainings that follow the same logic
 - [[Y037 — Choose deliberate difficulty in the right dose]] — the dosing rule the graduated phase implements
 - [[BI047 — Learn progressive muscle relaxation — systematic body release]] — the relaxation skill the second phase teaches
-- [[ST221 — The Premeditation of Evils]] — the story the compendium tells for the practice
+- [[ST221 — The Premeditation of Evils]] — the story I tell for the practice
 
 ## Sources
 

@@ -15,7 +15,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Flow — full absorption in an activity with clear goals, immediate feedback, and challenge-skill balance — is one of the most studied optimal motivational states. Csikszentmihalyi's research associates it with intrinsic reward and high well-being.
 
-The compendium places this beside a Daoist comparison. Zhuangzi's Cook Ding describes absorbed skill from the inside:
+I place this beside a Daoist comparison. Zhuangzi's Cook Ding describes absorbed skill from the inside:
 
 > And now — now I go at it by spirit and don't look with my eyes. Perception and understanding have come to a stop and spirit moves where it wants. (Zhuangzi, ch. 3, "The Secret of Caring for Life," Cook Ding passage, [Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps//ps_china-zhuangzi-caring-for-life.htm))
 

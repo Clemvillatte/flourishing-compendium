@@ -17,7 +17,7 @@ The flagship finding is Oppenheimer's 2006 series on needlessly complex vocabula
 
 The paper's own summary line: "All in all, the effect is extremely robust: needless complexity leads to negative evaluations."
 
-### In the compendium
+### Here
 
 - [[D122 — Prefer plain words to beautiful ones]] — lists the concept among its psychology parallels.
 

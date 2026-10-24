@@ -31,7 +31,7 @@ The theory's unit of analysis is the fantasy theme; its larger structure is the 
 
 The theory names a familiar experience: a group of strangers becomes a group the moment someone tells a story that the others take up and elaborate. Inside jokes, founding myths, complaints retold until they are polished into legends, all of these are fantasy themes in Bormann's sense. For a writer on flourishing, the theory offers a lens on how communities build cohesion and meaning through shared stories.
 
-### In the compendium
+### Here
 
 - [[P055 — Know your thought as a stream]]
 - [[SO052 — Treat collective efficacy as a community resource]]

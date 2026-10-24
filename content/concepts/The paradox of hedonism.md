@@ -17,7 +17,7 @@ The observation is about attention, not about pleasure being bad. The person who
 
 ### What it carries for practice
 
-The paradox is the reason the compendium pairs happiness with objects outside it: work, people, practices, things worth doing for their own sake. A compendium exercise drawn from the observation is to notice when an activity is being monitored for its yield of enjoyment, and to put the monitoring out of sight for a stretch, as Sidgwick's rational method suggests. What the paradox does not show: that pleasure-seeking is always futile. Sidgwick himself denies the strong reading; his claim is that the direct aim weakens the result, not that hedonism is incoherent as a theory of good.
+The paradox is the reason I pair happiness with objects outside it: work, people, practices, things worth doing for their own sake. A compendium exercise drawn from the observation is to notice when an activity is being monitored for its yield of enjoyment, and to put the monitoring out of sight for a stretch, as Sidgwick's rational method suggests. What the paradox does not show: that pleasure-seeking is always futile. Sidgwick himself denies the strong reading; his claim is that the direct aim weakens the result, not that hedonism is incoherent as a theory of good.
 
 ## Related concepts
 

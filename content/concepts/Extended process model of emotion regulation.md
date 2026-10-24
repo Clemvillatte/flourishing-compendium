@@ -35,7 +35,7 @@ The selection stage is where the original five families sit. Gross says they act
 
 The three stages give a place to locate what goes wrong. Gross separates regulation failure, "not regulating emotion when it would be useful to do so", from misregulation, "regulating in ways that are harmful rather than helpful". A person with few strategies in her repertoire, or with a habit of leaning on one, is stuck at selection. A person who picks a good strategy and bungles the tactic is stuck at implementation.
 
-### In the compendium
+### Here
 
 - AF025 teaches that the toolkit is larger than "calm down", which is the five-family menu in this model.
 - K178 (Situation selection) is the earliest family: change the context before you try to change the response.

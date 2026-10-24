@@ -18,7 +18,7 @@ The actualizing tendency is Rogers's proposal that an organism's activity tends 
 
 ### Conditions matter
 
-In Brodley's account, trusting this tendency directs a therapist toward respecting the client's capacities and freedom of choice ([pp. 115-116](https://adpca.org/wp-content/uploads/2020/11/6_2_4.pdf)). It does not make hardship beneficial or excuse harmful behavior. The compendium extends the question cautiously to ordinary relationships: are you helping someone express and consider their own aims, or deciding the answer for them?
+In Brodley's account, trusting this tendency directs a therapist toward respecting the client's capacities and freedom of choice ([pp. 115-116](https://adpca.org/wp-content/uploads/2020/11/6_2_4.pdf)). It does not make hardship beneficial or excuse harmful behavior. I extend the question cautiously to ordinary relationships: are you helping someone express and consider their own aims, or deciding the answer for them?
 
 (Rogers, On Becoming a Person, 1961.)
 

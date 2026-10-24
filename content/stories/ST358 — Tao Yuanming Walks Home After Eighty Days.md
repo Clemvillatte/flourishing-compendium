@@ -22,7 +22,7 @@ Later he sets spring and the farmers' work beside the end of his own life: "I li
 
 The famous "five pecks of rice" refusal to bow to an inspector comes from a later history, the Song shu. Tian Xiaofei, quoted by Knechtges, calls it "the least credible part in the biographical account" ([Knechtges](https://brill.com/display/book/9789004438200/BP000012.xml?language=en)). Use the preface, not the anecdote.
 
-The compendium reads this as a human version of what Daodejing 16 shows with plants. D006 says things go out and come back to their root, and that the coming back is stillness, not loss. Tao's homecoming is that shape: a person who goes out for the stipend, returns to what he calls his nature, and sees his own end as the same movement.
+I read this as a human version of what Daodejing 16 shows with plants. D006 says things go out and come back to their root, and that the coming back is stillness, not loss. Tao's homecoming is that shape: a person who goes out for the stipend, returns to what he calls his nature, and sees his own end as the same movement.
 
 Limits: his return is one homecoming, not a repeating cycle, and he does not narrate renewal for himself. Knechtges also observes that Tao may not have been as poor as he claims.
 

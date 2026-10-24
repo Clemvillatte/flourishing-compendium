@@ -15,7 +15,7 @@ A survey label for the research the original entry names: studies of how charact
 
 The synthesis pulled together 172 usable studies with 836 effect sizes, and its credibility intervals nearly all excluded zero, which the authors read as "the broad generalizability of the relationships across situations" ([Kristof-Brown et al., 2005](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1744-6570.2005.00672.x)). Fit was studied both before joining, attraction and offers, and after joining, where it tracked attitudes, performance, withdrawal, strain and tenure. The original entry's second line, autonomy predicting well-being (Deci and Ryan, 2000), belongs to the self-determination tradition surveyed separately under autonomous motivation.
 
-### In the compendium
+### Here
 
 - [[P133 — Humanize institutions]] — uses this research field as psychology-parallel ground for treating institutions as structures people must actually fit.
 

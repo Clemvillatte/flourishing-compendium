@@ -20,7 +20,7 @@ On observed change, Inglehart and Welzel analysed survey data from eighty-one so
 
 ### Scope
 
-Boyd and Richerson, Laland et al. 2010 and Kendal et al. 2011 are cited at second hand. The idea that individuals can "participate consciously" in cultural evolution is the compendium's own, and none of these sources tests it.
+Boyd and Richerson, Laland et al. 2010 and Kendal et al. 2011 are cited at second hand. The idea that individuals can "participate consciously" in cultural evolution is my own, and none of these sources tests it.
 
 **Plain words**
 Cultures change over time, and researchers still argue about how best to describe that change. Treat your own traditions as things that have changed and can change.

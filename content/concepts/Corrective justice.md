@@ -18,9 +18,9 @@ The judge's task is to restore the balance, and Aristotle gives it a picture:
 
 > Now the judge restores equality; it is as though there were a line divided into unequal parts, and he took away that by which the greater segment exceeds the half, and added it to the smaller segment. — Aristotle, Nicomachean Ethics V.4, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html)
 
-The judge, he says, is by nature a sort of animate justice, and to go to the judge is to go to justice. The compendium builds its justice practices on this ground: correction rather than revenge.
+The judge, he says, is by nature a sort of animate justice, and to go to the judge is to go to justice. I build its justice practices on this ground: correction rather than revenge.
 
-### In the compendium
+### Here
 
 - [[A097 — Practise corrective justice]] — the corrective-justice practice.
 - [[A102 — Distinguish justice from revenge]] — justice versus revenge.

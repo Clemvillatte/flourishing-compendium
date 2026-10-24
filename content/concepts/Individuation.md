@@ -21,9 +21,9 @@ Simondon's own illustration of the process:
 
 The individual, on this account, is always partial and relative: a temporary resolution of a tension that exceeds it. The being that individuates is "in a state of preindividual tension, which is to say, in a being that is more than a unity and more than an identity, and which has not yet passed out of step with itself into other multiple dimensions."
 
-### In the compendium
+### Here
 
-The concept has a Jungian neighbor in [[Analytical Psychology]], where individuation names the psyche's movement toward wholeness, and a bridge in [[Ego psychology]]. The compendium's principles on identity as verb and on individuation never being finished keep the process open in both senses.
+The concept has a Jungian neighbor in [[Analytical Psychology]], where individuation names the psyche's movement toward wholeness, and a bridge in [[Ego psychology]]. My principles on identity as verb and on individuation never being finished keep the process open in both senses.
 
 ## Related concepts
 

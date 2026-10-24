@@ -15,7 +15,7 @@ A review of the sleep-deprivation literature finds the honest state of the field
 
 The clinical framing is similar: the 90-minute BRAC fluctuation in alertness is "also relevant to cognitive performance" ([Time of day and chronotype in cognitive assessment, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10683050/)). What attention researchers agree on is that alertness is not flat; where they still argue is whether one oscillator produces both the night and day versions of the cycle.
 
-The Monk 2005 reference in the compendium's original line corresponds to his work on the post-lunch dip in performance, a related daytime rhythm documented in the sleep-regulation literature ([two-process model review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12912424/)).
+The Monk 2005 reference in my original line corresponds to his work on the post-lunch dip in performance, a related daytime rhythm documented in the sleep-regulation literature ([two-process model review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12912424/)).
 
 ## Sources
 

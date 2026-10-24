@@ -11,7 +11,7 @@ Dynamic systems theory, brought into developmental psychology by Esther Thelen a
 
 Thelen's infant work is the classic demonstration: "coordinated movement patterns emerge through active, ongoing calibration between the organism and its environment, rather than from an internally fixed motor program". Behavioral solutions are "soft-assembled": "flexibly and based on components that are present and available at each level—physiological, social, etc., and at precise moments in time". The review adds that "Unique patterns emerge across time, shaped by the interactions of elements contributing to the system".
 
-### In the compendium
+### Here
 
 - [[P007 — Expect emergence — wholes exceed their parts]] and [[P148 — Expect order to arise through flux]] are this concept's psychology parallels
 - [[P002 — Treat the world as events and doings, not things and substances]] and [[D017 — Trust emergent order]] carry its philosophical edge

@@ -13,9 +13,9 @@ Original enlightenment (Chinese: benjue, 本覺; Japanese: hongaku) is an East A
 
 ### The Chan pairing
 
-The compendium's principles pair the doctrine with the Platform Sutra, the Chan scripture of Huineng. There the premise is a fact about the mind: "our natures are fundamentally pure, it is through false thoughts that suchness is covered up" ([Platform Sutra, as rendered on Wikipedia](https://en.wikipedia.org/wiki/Platform_Sutra)). Practice on that reading does not produce the pure mind; it clears the false thoughts that hide what is already there. Huineng's verse makes the point with the mirror image: "Fundamentally there is not a single thing. / Where could dust arise?" ([Platform Sutra, verse rendering](https://en.wikipedia.org/wiki/Platform_Sutra)). The excerpts are presented as a comparison, not as one doctrine stated by both traditions.
+My principles pair the doctrine with the Platform Sutra, the Chan scripture of Huineng. There the premise is a fact about the mind: "our natures are fundamentally pure, it is through false thoughts that suchness is covered up" ([Platform Sutra, as rendered on Wikipedia](https://en.wikipedia.org/wiki/Platform_Sutra)). Practice on that reading does not produce the pure mind; it clears the false thoughts that hide what is already there. Huineng's verse makes the point with the mirror image: "Fundamentally there is not a single thing. / Where could dust arise?" ([Platform Sutra, verse rendering](https://en.wikipedia.org/wiki/Platform_Sutra)). The excerpts are presented as a comparison, not as one doctrine stated by both traditions.
 
-The compendium carries this in two principles: B061 (Trust original purity: nothing to attain) and B087 (Trust the luminous mind: defilements are visitors), both of which list this entry among their philosophy parallels.
+I carrie this in two principles: B061 (Trust original purity: nothing to attain) and B087 (Trust the luminous mind: defilements are visitors), both of which list this entry among their philosophy parallels.
 
 ## Related concepts
 

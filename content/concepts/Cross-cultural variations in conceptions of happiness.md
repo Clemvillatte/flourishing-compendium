@@ -11,7 +11,7 @@ Mohsen Joshanloo's review compares accounts of happiness and optimal functioning
 
 > "The purpose of this review is to compare and contrast western and eastern conceptualizations of happiness and optimal functioning. Towards this end, accounts of happiness and optimal functioning provided in western philosophy and scientific psychology are compared with those in some eastern schools of thought (namely, Hinduism, Buddhism, Taoism, Confucianism, and Sufism). Six fundamental differences in western and eastern conceptualizations of the good life are identified and discussed in the context of broader psychological theory. It is hoped that this theoretical analysis will stimulate more culturally informed research among happiness researchers." (Joshanloo, [Eastern Conceptualizations of Happiness: Fundamental Differences with Western Views](https://link.springer.com/article/10.1007/s10902-013-9431-1), Journal of Happiness Studies 15:475-493, 2014, abstract)
 
-### In the compendium
+### Here
 
 - [[PP061 — Consider the cultural context]]
 - [[ST306 — Tim Lives Each Day Twice]]

@@ -13,7 +13,7 @@ The Elaboration Likelihood Model, developed by Richard Petty and John Cacioppo, 
 
 On the central route the person works through the argument itself — its quality, meaning and explanation. On the peripheral route they lean on surface cues: "title style, visual attractiveness, platform labels, and creator identity". The same cue can serve either route: credibility works as a shortcut when elaboration is low and as a factor that "enhances message scrutiny when elaboration is high".
 
-### In the compendium
+### Here
 
 - [[CO072 — Cultivate cognitive endurance — thinking is effortful and can be trained]] is this concept's direct parallel
 - [[D006 — Move by return (fu) — everything renews in cycles]], [[SO001 — Flourish socially]] and [[SO044 — Treat the WEIRD critique as a standing corrective]] carry its adjacent edges

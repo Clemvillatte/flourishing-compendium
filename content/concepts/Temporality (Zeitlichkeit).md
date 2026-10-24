@@ -13,9 +13,9 @@ Temporality (Zeitlichkeit) is Martin Heidegger's term in Being and Time for the 
 
 ### What the term carries
 
-Temporality is not clock time. It is the structure of caring about anything at all: time is, in a line SEP quotes from Heidegger's lectures, "the self's way of letting itself be concerned about anything" (GA21: 339; [SEP, §2.5](https://plato.stanford.edu/entries/heidegger/)), and, as the entry puts it, time thus structures all of our aims and activities. The entry distinguishes Heidegger's lowercase temporality, "Dasein's temporal structure, in virtue of which we are simultaneously ahead-of-ourselves, already-being-in (a world) and being-amidst (entities encountered in the world)" (SZ 327), from the historical temporality of a people, and it is the lowercase structure that the compendium's principles put to work.
+Temporality is not clock time. It is the structure of caring about anything at all: time is, in a line SEP quotes from Heidegger's lectures, "the self's way of letting itself be concerned about anything" (GA21: 339; [SEP, §2.5](https://plato.stanford.edu/entries/heidegger/)), and, as the entry puts it, time thus structures all of our aims and activities. The entry distinguishes Heidegger's lowercase temporality, "Dasein's temporal structure, in virtue of which we are simultaneously ahead-of-ourselves, already-being-in (a world) and being-amidst (entities encountered in the world)" (SZ 327), from the historical temporality of a people, and it is the lowercase structure that my principles put to work.
 
-### In the compendium
+### Here
 
 - [[E008 — Practise the structure of temporality]] pairs this with Husserl's retention-protention structure of experience: the principle's practical claim is that a moment of experience already holds the just-elapsed and the about-to-come, and Heidegger's temporality is the same insight at the scale of a whole life.
 

@@ -29,7 +29,7 @@ The article reports tests its research group conducted in the late 1990s on the 
 
 To see the rules at work, take a hypothetical pair of cities, with cue values invented for the illustration. Both cities score 1 on the first cue, so that cue does not discriminate and search continues. On the second cue the first city scores 1 and the second 0. Search stops there, and the first city is inferred to be larger. Every later cue is ignored ([2009, p. 113](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)).
 
-### In the compendium
+### Here
 
 - [[CO073 — Learn to make decisions under uncertainty — you will never have complete information]] — the principle built on this research: decide with what is there
 - [[SO041 — Treat expertise as real but fallible]] — the expert's heuristic skill and its limits

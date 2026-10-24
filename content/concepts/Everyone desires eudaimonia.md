@@ -19,7 +19,7 @@ The universality claim itself is in chapter 4. Aristotle writes: "Verbally there
 
 The argument runs through finality and self-sufficiency. Honour, pleasure and virtue are each chosen for themselves, yet also for the sake of happiness; nothing is chosen for the sake of happiness, so it alone is final. It is also self-sufficient: what makes life desirable and lacking in nothing is not one good among others, since it would not be made more desirable by adding any further good to it. Aristotle's conclusion, in Ross's rendering: "Happiness, then, is something final and self-sufficient, and is the end of action."
 
-### In the compendium
+### Here
 
 - [[B158 — Everyone wants to be happy]]
 - [[SP026 — Study the drunkard, and keep your seat]]

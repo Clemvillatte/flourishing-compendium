@@ -15,7 +15,7 @@ Ricoeur's thesis is a circle: narrative makes time human, and time keeps narrati
 
 The trilogy's arc runs from Augustine's puzzle about time to Aristotle's plot, then out through history and fiction, arguing both are refigurations of lived time rather than escapes from it.
 
-### In the compendium
+### Here
 
 - [[E087 — Practise narrative repair]] — lists the concept among its philosophy parallels.
 

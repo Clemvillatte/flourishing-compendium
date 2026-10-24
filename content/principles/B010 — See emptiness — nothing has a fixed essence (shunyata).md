@@ -20,7 +20,7 @@ The argument concerns how things exist, not a promise that any difficulty can be
 
 ### Plain words
 
-The compendium suggests asking what supports something you have come to regard as fixed. Consider its conditions and how you are describing it. That inquiry need not deny the problem or assume that every relevant condition is under your control.
+I suggest asking what supports something you have come to regard as fixed. Consider its conditions and how you are describing it. That inquiry need not deny the problem or assume that every relevant condition is under your control.
 
 ### For example
 

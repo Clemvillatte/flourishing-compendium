@@ -15,7 +15,7 @@ Obsessive passion is the darker half of Robert Vallerand's Dualistic Model of Pa
 
 The two forms differ by how the activity is taken into identity: "Harmonious passion (HP) results from an autonomous internalization of the activity into the person's identity. Obsessive passion (OP), by contrast, results from a controlled internalization of the activity into one's identity." The controlled form has a signature feel: obsessive passion "creates an internal pressure to engage in the activity that the person likes." The outcome line is blunt: "HP promotes healthy adaptation whereas OP thwarts it by causing negative affect and rigid persistence."
 
-The compendium's [[E074 — Practise avoiding the passionate man]] and [[D066 — Withdraw when the work is done]] are the practical counterweights: love the work without letting it own the schedule.
+My [[E074 — Practise avoiding the passionate man]] and [[D066 — Withdraw when the work is done]] are the practical counterweights: love the work without letting it own the schedule.
 
 ## Related concepts
 

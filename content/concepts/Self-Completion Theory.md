@@ -20,7 +20,7 @@ Two predictions from that account matter here. The first is that enacting symbol
 
 Susewind and Walkowitz tested the recognition postulate with moral behavior ([Susewind & Walkowitz, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7498691/)). In their first study, a prosocial act led to less subsequent helpfulness when the act had been socially recognized than when it went without recognition ([Susewind & Walkowitz, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7498691/)).
 
-## In the compendium
+## Here
 
 The principle [SE066](../principles/SE066%20%E2%80%94%20Recognise%20the%20role%20of%20challenge%20in%20growth%20%E2%80%94%20difficulty%20develops%20self.md) recommends deliberately seeking the task just beyond independent reach, in the zone where what you can do alone meets what you can do with help.
 

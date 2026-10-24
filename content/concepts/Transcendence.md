@@ -7,7 +7,7 @@ file: "Transcendence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Transcendence is the movement past the self's own boundary, and the compendium holds the two traditions that use the word: the philosophical, where Jaspers makes transcendence the individual's relation to what no object can hold, and the psychological, where Maslow placed it above self-actualization late in his life.
+Transcendence is the movement past the self's own boundary, and I hold the two traditions that use the word: the philosophical, where Jaspers makes transcendence the individual's relation to what no object can hold, and the psychological, where Maslow placed it above self-actualization late in his life.
 
 ### Jaspers
 

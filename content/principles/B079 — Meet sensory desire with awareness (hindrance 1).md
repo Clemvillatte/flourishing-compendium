@@ -20,7 +20,7 @@ This is a structured practice of understanding conditions, not simply waiting fo
 
 ### Plain words
 
-The compendium suggests asking what is drawing you toward something and what seems to strengthen that pull. Notice the expectation as well as the object: what do you hope having it will change? These questions give you something to investigate without requiring the desire to disappear before you make a decision.
+I suggest asking what is drawing you toward something and what seems to strengthen that pull. Notice the expectation as well as the object: what do you hope having it will change? These questions give you something to investigate without requiring the desire to disappear before you make a decision.
 
 ### For example
 

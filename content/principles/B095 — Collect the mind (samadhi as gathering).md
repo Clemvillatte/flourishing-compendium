@@ -20,7 +20,7 @@ For comparison, Lutz and colleagues describe focused-attention practice as invol
 
 ### Plain words
 
-The compendium suggests being clear about what you intend to attend to. When you notice that attention has moved elsewhere, check whether the new task is necessary now; if not, return to the one you chose. You need not count every distraction as failure or confuse having fewer materials open with understanding them.
+I suggest being clear about what you intend to attend to. When you notice that attention has moved elsewhere, check whether the new task is necessary now; if not, return to the one you chose. You need not count every distraction as failure or confuse having fewer materials open with understanding them.
 
 ### For example
 

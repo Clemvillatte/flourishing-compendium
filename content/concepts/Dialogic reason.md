@@ -7,7 +7,7 @@ file: "Dialogic reason"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Dialogic reason is the idea that understanding and good judgement arise between people in exchange, not inside a single isolated mind. The compendium ties it to two thinkers, Martin Buber and Jürgen Habermas, who approach it in different ways. The two Stanford Encyclopedia of Philosophy entries consulted here describe each.
+Dialogic reason is the idea that understanding and good judgement arise between people in exchange, not inside a single isolated mind. I tie it to two thinkers, Martin Buber and Jürgen Habermas, who approach it in different ways. The two Stanford Encyclopedia of Philosophy entries consulted here describe each.
 
 ### Buber: the between
 
@@ -21,16 +21,16 @@ The same entry records a dispute. It says "most commentators agree that Habermas
 
 ### Scope
 
-Buber's dialogue is an encounter between a self and a Thou. Habermas's is a rational procedure of making and testing claims. They share a rejection of the solitary subject, but they are not one theory, and the label "dialogic reason" is the compendium's pairing. Neither book was read in full for this page.
+Buber's dialogue is an encounter between a self and a Thou. Habermas's is a rational procedure of making and testing claims. They share a rejection of the solitary subject, but they are not one theory, and the label "dialogic reason" is my pairing. Neither book was read in full for this page.
 
-### In the compendium
+### Here
 
 - [[CO006 — Recognise that thinking is socially distributed — you think with others]] lists this concept. Its page does not name Buber or Habermas, so the link is thematic.
 
 ## Related concepts
 
 - [[Dialogism]] — Bakhtin's account of meaning as formed in exchange
-- [[Existenz]] — another existence-oriented concept in the compendium
+- [[Existenz]] — another existence-oriented concept here
 
 ## Sources
 

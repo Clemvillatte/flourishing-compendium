@@ -16,7 +16,7 @@ Calling orientation is one of the three orientations to work distinguished by Wr
 
 The orientations did not reduce to demographics or job type: a homogeneous subset of 24 college administrative assistants were, like the total sample, distributed evenly across Job, Career and Calling ([Wrzesniewski et al. 1997, abstract](https://www.semanticscholar.org/paper/Jobs,-Careers,-and-Callings:-People's-Relations-to-Wrzesniewski-McCauley/eb983573d298ba1b837e5fb2a2867b51b464e8ff)). The same work can be a job to one person and a calling to another ([Wrzesniewski et al. 1997, abstract](https://www.semanticscholar.org/paper/Jobs,-Careers,-and-Callings:-People's-Relations-to-Wrzesniewski-McCauley/eb983573d298ba1b837e5fb2a2867b51b464e8ff)).
 
-### In the compendium
+### Here
 
 - [[B025 — Practice right livelihood]] — the Buddhist right-livelihood principle: earn without causing harm and align work with values
 - [[B152 — Align your work with your values (right livelihood, revisited)]] — AN 5.177's concrete trade list, revisited for choosing among permitted livelihoods

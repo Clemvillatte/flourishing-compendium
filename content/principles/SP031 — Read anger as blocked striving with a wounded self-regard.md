@@ -18,7 +18,7 @@ Spinoza's definitions of the affects give anger and revenge side by side:
 
 > "Revenge is the desire whereby we are induced, through mutual hatred, to injure one who, with similar feelings, has injured us." (Ethics III, Definitions of the Affects, XXXVII, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-Underneath the definitions, hatred is pain with the idea of an external cause, and the note to III, P39 says what evil is for a striving being: "By evil, I mean every kind of pain, especially that which frustrates our longings". The same note's gallery shows desires shaping judgments of good and evil, among them: "an ambitious man desires nothing so much as glory, and fears nothing so much as shame". The compendium uses that example to ask whether a particular grievance involves disappointed ambition or threatened standing.
+Underneath the definitions, hatred is pain with the idea of an external cause, and the note to III, P39 says what evil is for a striving being: "By evil, I mean every kind of pain, especially that which frustrates our longings". The same note's gallery shows desires shaping judgments of good and evil, among them: "an ambitious man desires nothing so much as glory, and fears nothing so much as shame". I use that example to ask whether a particular grievance involves disappointed ambition or threatened standing.
 
 **Plain words**
 If you want to hurt someone in return, identify what you believe they did to you. Did they obstruct something you wanted, or damage your standing? Naming the grievance gives you something specific to examine before deciding how to respond.

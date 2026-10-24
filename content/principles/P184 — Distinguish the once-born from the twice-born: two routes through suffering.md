@@ -16,11 +16,11 @@ James contrasts religious confidence that begins with life's goodness with peace
 
 > "No two of us have identical difficulties, nor should we be expected to work out identical solutions." (James, The Varieties of Religious Experience, XX, [text](https://ccel.org/ccel/james/varieties/varieties.xvii.html))
 
-James does make a judgment: he calls the twice-born outlook wider and more complete, while allowing each temperament its route to religious peace (XX, note 324, [text](https://ccel.org/ccel/james/varieties/varieties.xvii.html)). The compendium's refusal to rank people's worth by their suffering is a practical stance, not a quotation of that judgment.
+James does make a judgment: he calls the twice-born outlook wider and more complete, while allowing each temperament its route to religious peace (XX, note 324, [text](https://ccel.org/ccel/james/varieties/varieties.xvii.html)). My refusal to rank people's worth by their suffering is a practical stance, not a quotation of that judgment.
 
 ### Plain words
 
-Ask what someone is experiencing before recommending the approach that helped you. The compendium uses James's contrast as a prompt for listening, without treating it as a diagnosis or requiring anyone to suffer before they can develop.
+Ask what someone is experiencing before recommending the approach that helped you. I use James's contrast as a prompt for listening, without treating it as a diagnosis or requiring anyone to suffer before they can develop.
 
 ### For example
 

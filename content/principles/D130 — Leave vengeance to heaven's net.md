@@ -18,7 +18,7 @@ Chapter 73 of the Daodejing pictures Heaven as prevailing without contention and
 
 (Daodejing 73, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-The compendium takes these passages as a reason to question the wish to punish someone personally. That application does not require believing that every wrong will eventually be exposed or corrected. Reporting harm and seeking protection can remain necessary.
+I take these passages as a reason to question the wish to punish someone personally. That application does not require believing that every wrong will eventually be exposed or corrected. Reporting harm and seeking protection can remain necessary.
 
 **Plain words** Ask what would protect you or address the harm. If a proposed action serves only to make the other person suffer, you can leave that action undone.
 

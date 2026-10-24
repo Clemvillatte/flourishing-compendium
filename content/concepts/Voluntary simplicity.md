@@ -23,7 +23,7 @@ His argument in the opening chapter is about the effect of things on a life. He 
 
 Voluntary simplicity is not poverty and not austerity for its own sake. The key word is voluntary: a choice made to free attention for what matters, as the passage on living deliberately states.
 
-### In the compendium
+### Here
 
 - [[D032 — Treasure 2 — frugality (jian)]]
 - [[D103 — Travel light — drop the excess baggage]]

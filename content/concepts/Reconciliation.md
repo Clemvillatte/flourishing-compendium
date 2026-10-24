@@ -15,7 +15,7 @@ Chapter 79 of the Daodejing is realism about peacemaking. Even a genuine settlem
 
 The point is not against reconciliation. It is against treating the paperwork as the end of the injury.
 
-### In the compendium
+### Here
 
 - [[B163 — Reconcile quickly — don't let conflict fester]] — lists the concept among its philosophy parallels.
 

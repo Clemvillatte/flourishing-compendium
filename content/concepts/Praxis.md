@@ -23,7 +23,7 @@ Marx takes the concept and turns it against philosophy itself. Marx wrote the th
 
 The second thesis explains the ground of the break: "The question whether objective truth can be attributed to human thinking is not a question of theory but is a practical question. Man must prove the truth... in practice." Theory that never meets practice, Marx argues, remains scholastic.
 
-### In the compendium
+### Here
 
 - [[D190 — Walk, don't perform walking]] — separates action from display, the heart of praxis
 - [[B156 — Engage the world's suffering (engaged Buddhism)]] — praxis extended into compassionate engagement
@@ -31,7 +31,7 @@ The second thesis explains the ground of the break: "The question whether object
 ## Related concepts
 
 - [[Potentiality to actuality]] — the capacity-to-act structure behind Aristotle's account of action
-- [[Karma yoga]] — the compendium's companion tradition on the spiritual weight of action
+- [[Karma yoga]] — my companion tradition on the spiritual weight of action
 - [[Engaged Buddhism]] — the modern tradition that joins meditative insight to social action
 - [[Experience plus reflection]] — the account of how practice turns into learning
 

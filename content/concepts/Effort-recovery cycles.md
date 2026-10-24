@@ -17,7 +17,7 @@ The study is about measurement: it shows that these four kinds of recovery can b
 
 The scales were developed for use "in longitudinal and diary research", so the authors themselves present them as tools for later studies.
 
-### In the compendium
+### Here
 
 - [[D006 — Move by return (fu) — everything renews in cycles]] makes the Daoist argument for renewal in cycles. It does not cite Sonnentag and Fritz, and the pairing is a comparison drawn here.
 

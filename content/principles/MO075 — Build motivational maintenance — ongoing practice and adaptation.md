@@ -12,12 +12,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 75** — Build motivational maintenance: ongoing practice and adaptation
 
-Two halves make this principle: keep practising, and keep adapting. Dhammapada 276 places the effort of following the path with the practitioner. The compendium uses the Buddhist instruction as a comparison for attending to one's own practice.
+Two halves make this principle: keep practising, and keep adapting. Dhammapada 276 places the effort of following the path with the practitioner. I use the Buddhist instruction as a comparison for attending to one's own practice.
 
 > You yourselves must strive; the Buddhas only point the way. Those meditative ones who tread the path are released from the bonds of Mara.
 > (Dhammapada 276, trans. Buddharakkhita)
 
-Wrosch and colleagues examined goal adjustment and physical health across three studies. Disengagement from unattainable goals was associated with better self-reported health and more normative patterns of diurnal cortisol secretion; reengagement with alternative goals was unrelated to the physical-health indicators, although it buffered some of the adverse effects of difficulty with disengagement ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17259585/)). The compendium's application is to reconsider a plan when circumstances change, including whether its goal remains feasible.
+Wrosch and colleagues examined goal adjustment and physical health across three studies. Disengagement from unattainable goals was associated with better self-reported health and more normative patterns of diurnal cortisol secretion; reengagement with alternative goals was unrelated to the physical-health indicators, although it buffered some of the adverse effects of difficulty with disengagement ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17259585/)). My application is to reconsider a plan when circumstances change, including whether its goal remains feasible.
 
 **Plain words** Choose a routine you still intend to follow but have stopped doing. Check whether its time and place still fit your day, and write down one adjustment to try. If the goal has become unattainable, consider an alternative.
 

@@ -15,7 +15,7 @@ Crane and Watters recommend using coping cards as cues for practising interventi
 
 The guide's worked example shows a situation ("A cashier is rude to me.") followed by coping skills: "Think: Their behavior isn’t my problem. Maybe they are having a bad day. Everyone can have a bad day." and a "Do:" list of actions ([same document, p. 100](https://www.mirecc.va.gov/visn5/EBT/CBT-D/Cognitive_Behavioral_Therapy_Strategies.pdf)).
 
-### In the compendium
+### Here
 
 - [[X007 — Learn the fourfold cure by heart]] lists this topic as a psychology parallel.
 

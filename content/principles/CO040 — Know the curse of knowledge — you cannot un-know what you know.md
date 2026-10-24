@@ -18,7 +18,7 @@ The economic analyses discussed by Camerer, Loewenstein and Weber assume that be
 Their formal statement: the better-informed forecaster overestimates the scope of the less-informed agent's information, landing between the correct forecast and a full projection of their own knowledge. In their markets, trading cut the effect by roughly half without removing it. The authors suggested underwriting as a possible analogue: informed experts price goods for a less-informed public. ([Camerer et al., 1989](https://www.cmu.edu/dietrich/sds/docs/loewenstein/CurseknowledgeEconSet.pdf))
 
 **Plain words**
-Imagine seeing the solution to a problem, then being asked to predict a classmate's answer before they have seen it. Your prediction needs to reflect the information available to the classmate. For the compendium's exercise, list what they have been told before predicting their answer.
+Imagine seeing the solution to a problem, then being asked to predict a classmate's answer before they have seen it. Your prediction needs to reflect the information available to the classmate. For my exercise, list what they have been told before predicting their answer.
 
 *For example:*
 Imagine introducing a software system to a newcomer. You refer to its pipeline before checking whether they know that term. As a compendium exercise, ask them to describe the next step in their own words, then explain any missing term.

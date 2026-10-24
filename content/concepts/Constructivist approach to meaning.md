@@ -27,7 +27,7 @@ The system keeps contact with the world through prediction, and it stays honest 
 
 > "Disconfirmation, even in those cases where it is disconcerting, provides grounds for reconstruction—or of repentance, in the proper sense of that term—and it may be used to improve the accuracy and significance of further anticipations." (same text)
 
-Meaning, on this account, is a working structure: it guides anticipation, it gets tested, and it can be rebuilt. The view matters for flourishing because it makes despair interpretable as a stuck construction rather than a final fact. The compendium's principle [[E010 — Practise the constitution of meaning]] draws on exactly this, and the neighbors [[Fusion of horizons]] and [[Learning by doing]] carry constructivist insight on the philosophical and the practical side.
+Meaning, on this account, is a working structure: it guides anticipation, it gets tested, and it can be rebuilt. The view matters for flourishing because it makes despair interpretable as a stuck construction rather than a final fact. My principle [[E010 — Practise the constitution of meaning]] draws on exactly this, and the neighbors [[Fusion of horizons]] and [[Learning by doing]] carry constructivist insight on the philosophical and the practical side.
 
 ## Sources
 

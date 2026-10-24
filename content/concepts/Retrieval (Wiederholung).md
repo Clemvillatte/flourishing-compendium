@@ -15,7 +15,7 @@ The SEP article on Heidegger gives the account:
 
 (Mark Wrathall, "Martin Heidegger," [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/))
 
-The same passage sets the mechanism: anticipation and resoluteness free you to resolve upon possibilities inherited from your world and then take those possibilities over in an individual way. Because Dasein is temporal, it historizes; you encounter situations through dispositions, skills, practices and projects inherited from your community, and that past opens a set of possibilities that delimits your options for action. The compendium's principle [[E051 — Practise repetition (Gjentagelse)]] pairs this with Kierkegaard's own Gjentagelse, where repetition is "recollected forwards" rather than backwards; Heidegger's version is the inherited form of that movement, applied to the possibilities your world handed you rather than to a love or a friendship.
+The same passage sets the mechanism: anticipation and resoluteness free you to resolve upon possibilities inherited from your world and then take those possibilities over in an individual way. Because Dasein is temporal, it historizes; you encounter situations through dispositions, skills, practices and projects inherited from your community, and that past opens a set of possibilities that delimits your options for action. My principle [[E051 — Practise repetition (Gjentagelse)]] pairs this with Kierkegaard's own Gjentagelse, where repetition is "recollected forwards" rather than backwards; Heidegger's version is the inherited form of that movement, applied to the possibilities your world handed you rather than to a love or a friendship.
 
 ## Related concepts
 

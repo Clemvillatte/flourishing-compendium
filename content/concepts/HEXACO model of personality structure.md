@@ -19,7 +19,7 @@ The six factors are Honesty-Humility (H), Emotionality (E), eXtraversion (X), Ag
 
 The authors read the H and A factors as two complementary aspects of reciprocal altruism: H covers fairness when exploitation would go unpunished, A covers forgivingness versus anger in ongoing relations. That reading gives the trait model a place for honesty and modesty that five-factor questionnaires tend to scatter or miss.
 
-### In the compendium
+### Here
 
 - [[E039 — Practise the choice of self]] — linked from this page's Field line
 

@@ -14,7 +14,7 @@ Three times daily, name the tone of this moment as pleasant, unpleasant, or neut
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the source below is the contemplative instruction they distil.*
+*Steps are my own protocol; the source below is the contemplative instruction they distil.*
 
 1. At the chosen moments, ask one question only: is this moment's bare tone pleasant, unpleasant, or neither.
 2. Name it silently, in those three words, before any explanation of why it is so.

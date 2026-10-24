@@ -20,7 +20,7 @@ What separated the long from the short:
 
 > "In particular, compared to short emotions, persistent emotions are typically elicited by events of high importance, and are associated with high levels of rumination." ([Verduyn & Lavrijsen, 2015, same text](https://link.springer.com/content/pdf/10.1007/s11031-014-9445-y.pdf))
 
-The study concerns differences between emotions in recollected episodes; it does not say that a feeling currently running through you will end on any particular schedule. The compendium's practice rests on the weaker observation: durations vary, and rumination is associated with the longer ones.
+The study concerns differences between emotions in recollected episodes; it does not say that a feeling currently running through you will end on any particular schedule. My practice rests on the weaker observation: durations vary, and rumination is associated with the longer ones.
 
 **Plain words** The study sorted feelings by how long they lasted when people retold them. The longer ones came with two companions: the event mattered, and the person kept returning to it. Repeated thinking was associated with longer recalled episodes; this does not establish that it caused them to last longer.
 

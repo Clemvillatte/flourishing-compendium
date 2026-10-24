@@ -15,7 +15,7 @@ Person-organization (PO) fit is the degree to which a person's values match thos
 
 The effect sizes for PO fit are large where you would want them: as the follow-up review reports, "stronger average effect sizes than Verquer et al. for the three attitudinal outcomes (ρ = .44 for job satisfaction, .51 for organizational commitment, and -.35 intent to quit)." Performance effects are weak (.07 overall), which is the honest edge of the finding: fit predicts whether you stay and how you feel, more than whether you outperform.
 
-The compendium's [[B025 — Practice right livelihood]] and [[B152 — Align your work with your values (right livelihood, revisited)]] are the Buddhist-named version of the same choice: pick work whose values you do not have to leave at the door.
+My [[B025 — Practice right livelihood]] and [[B152 — Align your work with your values (right livelihood, revisited)]] are the Buddhist-named version of the same choice: pick work whose values you do not have to leave at the door.
 
 ## Related concepts
 

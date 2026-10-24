@@ -13,7 +13,7 @@ Dewey's claim, argued across Human Nature and Conduct: means and ends are not tw
 
 (John Dewey, Human Nature and Conduct, 1922, [Project Gutenberg](https://www.gutenberg.org/files/41386/41386-0.txt))
 
-The book's summary line is that "means and ends are two names for the same reality," denoting "not a division in reality but a distinction in judgment." The practical consequence Dewey draws for changing habits: the next act is the thing to attend to, not the distant goal. The compendium's P040 (keep means and ends continuous) and P177 (set process goals) run on exactly this mechanism.
+The book's summary line is that "means and ends are two names for the same reality," denoting "not a division in reality but a distinction in judgment." The practical consequence Dewey draws for changing habits: the next act is the thing to attend to, not the distant goal. My P040 (keep means and ends continuous) and P177 (set process goals) run on exactly this mechanism.
 
 ## Related concepts
 

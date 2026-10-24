@@ -21,12 +21,12 @@ The chapter ends with the promise attached to the unforced state:
 > "With no desire, at rest and still,
 > All things go right as of their will." (Daodejing 37, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-Chapter 37 describes rulers maintaining the Dao while things transform of themselves. A personal application is to ask whether another intervention is needed, or whether an ongoing process can be allowed to proceed. The compendium's exercise for that question is the two columns below.
+Chapter 37 describes rulers maintaining the Dao while things transform of themselves. A personal application is to ask whether another intervention is needed, or whether an ongoing process can be allowed to proceed. My exercise for that question is the two columns below.
 
 (Liezi; DDJ 37.)
 
 **Plain words**
-The compendium's exercise: two columns. One column: things you control, the conditions you maintain, the seed you water, the application you send. Other column: things you influence, the harvest, the acceptance letter, how the project lands. Show up fully for the first column, then let the second arrive however it arrives.
+My exercise: two columns. One column: things you control, the conditions you maintain, the seed you water, the application you send. Other column: things you influence, the harvest, the acceptance letter, how the project lands. Show up fully for the first column, then let the second arrive however it arrives.
 
 **For example**
 You can send the application; you cannot send the acceptance letter. Water the seed and let the sky decide the rest.

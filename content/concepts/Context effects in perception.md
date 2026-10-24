@@ -22,9 +22,9 @@ The mechanism Bar proposes runs on expectations built from experience:
 
 > These context frames can be viewed as sets of expectations that are derived from exposure to real-world scenes. — Bar, 2004, [Key Points (opened)](https://www.nature.com/articles/nrn1476)
 
-Bar proposes context frames as an account of how contextual expectations can aid visual object recognition. The compendium connects this account with its horizon principle.
+Bar proposes context frames as an account of how contextual expectations can aid visual object recognition. I connect this account with its horizon principle.
 
-### In the compendium
+### Here
 
 - [[E005 — Practise the horizon]] — the horizon principle.
 - [[A046 — See the particular]] — seeing the particular.

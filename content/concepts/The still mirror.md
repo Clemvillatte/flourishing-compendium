@@ -14,7 +14,7 @@ The still mirror is Zhuangzi's image for a mind that responds without pursuing o
 
 The image returns in the Outer Chapter "The Way of Heaven." There the sage's stillness is not something he chooses because stillness is good; nothing among the ten thousand things is enough to disturb him, and "The sage's mind in stillness is the mirror of Heaven and earth, the glass of the ten thousand things." ([Burton Watson, Zhuangzi ch. 13 "The Way of Heaven"](https://terebess.hu/english/chuangtzu1.html))
 
-### In the compendium
+### Here
 
 - [[ST017 — The Mind as Mirror]]
 - [[D038 — Keep stillness — stillness masters restlessness]]

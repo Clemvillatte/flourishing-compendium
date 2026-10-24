@@ -27,7 +27,7 @@ But the small-talk half of the story thinned out:
 
 > "In contrast, the medium-sized negative association between life satisfaction and the percentage of small-talk conversations — our second indicator of conversation quality — did not replicate: Whether people had more or less small talk in daily life was not reliably associated with life satisfaction." (same study)
 
-The robust residue, then, is a simple and encouraging finding: deeper conversation tracks well-being, and the effect is not just personality in disguise. The compendium's principle [[D118 — Speak rarely (guayan)]] pairs with it on the other side of the coin: it is not talkativeness that helps, but talk that goes somewhere.
+The robust residue, then, is a simple and encouraging finding: deeper conversation tracks well-being, and the effect is not just personality in disguise. My principle [[D118 — Speak rarely (guayan)]] pairs with it on the other side of the coin: it is not talkativeness that helps, but talk that goes somewhere.
 
 ## Sources
 

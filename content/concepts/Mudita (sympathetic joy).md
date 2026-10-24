@@ -13,16 +13,16 @@ Mudita is the third of the four brahmaviharas, the Buddhist immeasurables: sympa
 
 ### The practice and the measurement
 
-The compendium's practice principles work the classical exercise: rejoicing deliberately in others' happiness, including the difficult and the envied (B053, B101). The trait has a measurement: the Appreciative Joy Scale, a 14-item instrument assessing "a person's enduring tendency to experience genuine happiness at the successes and virtues of others, reflecting the Buddhist concept of mudita through sense of joy, positive interpersonal bias, and self-transcendence" (Zeng et al. 2017, via the [Springer reference entry](https://link.springer.com/rwe/10.1007/978-3-030-90465-4_156-1)).
+My practice principles work the classical exercise: rejoicing deliberately in others' happiness, including the difficult and the envied (B053, B101). The trait has a measurement: the Appreciative Joy Scale, a 14-item instrument assessing "a person's enduring tendency to experience genuine happiness at the successes and virtues of others, reflecting the Buddhist concept of mudita through sense of joy, positive interpersonal bias, and self-transcendence" (Zeng et al. 2017, via the [Springer reference entry](https://link.springer.com/rwe/10.1007/978-3-030-90465-4_156-1)).
 
 ### Philosophy's late arrival
 
 The concept has almost no Western counterpart. A recent philosophy paper opens by noting that "unlike Yiddish (fargin) and Sanskrit (mudita), English has no single word to describe the practice of sharing someone else's joy at their success," and argues that sympathetic joy is "a short-term or long-term feeling of great delight at another's good fortune, requiring no more than minimal understanding of the relevant person and event," which "is primarily not a reactive attitude... but, rather, a sign of good will toward another" ("Sympathetic Joy," Erkenntnis 2023, [Springer](https://link.springer.com/article/10.1007/s10670-023-00677-4)).
 
-### In the compendium
+### Here
 
 - [[B053 — Practice sympathetic joy (mudita)]] and [[B101 — Rejoice in others' happiness (mudita as practice)]] — the practice principles.
-- [[K166 — Sympathetic joy]] — the compendium's kernel.
+- [[K166 — Sympathetic joy]] — my kernel.
 - [[A119 — Understand envy (phthonos)]], [[S082 — Do not be envious of others' success]] and [[S016 — Do not desire what belongs to others]] — the envy contrasts.
 - [[AF055 — Work with envy — it signals a value, not a defect]] — the modern envy work.
 - [[AT021 — Learn to attend to the positive deliberately — attention training for well-being]] and [[K110 — Savoring]] — the attention side.

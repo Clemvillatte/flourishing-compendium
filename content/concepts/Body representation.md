@@ -25,14 +25,14 @@ and records the distinction's standing:
 
 The entry also notes a controversy: whether the body schema should be conceived as a specific type of mental representation at all, with Merleau-Ponty and Gallagher arguing it should be conceived as a sensorimotor function, devoid of intentional content.
 
-### In the compendium
+### Here
 
 - [[E018 — Practise the reversibility of flesh]] — the principle takes the body-representation literature and works it into a Merleau-Ponty practice.
 - [[E017 — Practise embodied perception]] — the principle pairs body representation with the embodied-perception question.
 
 ## Related concepts
 
-- [[Reversibility]] — the Merleau-Ponty concept the compendium pairs with body representation.
+- [[Reversibility]] — the Merleau-Ponty concept I pair with body representation.
 
 ## Sources
 

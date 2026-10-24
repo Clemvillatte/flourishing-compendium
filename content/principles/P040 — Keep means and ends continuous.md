@@ -23,7 +23,7 @@ His treatment of the maxim that the end justifies the means does not appeal to r
 The chapter on the nature of aims gives the positive statement: "In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end." An aim that stays distant without telling you what to do next has become, in Dewey's words, "a mere end, that is a dream."
 
 **Plain words**
-An end feels separate because you picture it finished and the means unfinished. On Dewey's account they are the same acts, counted differently: the whole series is the end, each act in it is a means. So the working question for any aim is what it tells you to do next; if it tells you nothing, it is what he calls a dream. For the compendium's exercise, take one current aim and write down the next act it commits you to.
+An end feels separate because you picture it finished and the means unfinished. On Dewey's account they are the same acts, counted differently: the whole series is the end, each act in it is a means. So the working question for any aim is what it tells you to do next; if it tells you nothing, it is what he calls a dream. For my exercise, take one current aim and write down the next act it commits you to.
 
 *For example:* Suppose a household wants calmer conversations. That end exists only in the next conversation; if the voices stay loud there, the loud conversation is what the household actually got.
 

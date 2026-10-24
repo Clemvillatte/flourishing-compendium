@@ -17,7 +17,7 @@ Re-authoring is the narrative therapy practice introduced to the field by David 
 
 The practice rests on an assumption about stories: "no one story can possibly encapsulate the totality of a person's experience, there will always be inconsistencies and contradictions". The work begins from events that contradict the dominant problem story (unique outcomes), and builds outward: "no matter how significant a single event might become, no matter how strongly it may contradict the dominant problematic story-line, one event on its own will always be vulnerable. It is vitally important to link the unique outcome to other events, to link these into an alternative story-line."
 
-### In the compendium
+### Here
 
 - [[CO010 — Understand that thinking is narrative — you story your experience]]
 - [[CO061 — Recognise the role of narrative in identity — your life story shapes who you are]]

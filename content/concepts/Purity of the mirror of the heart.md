@@ -17,7 +17,7 @@ Al-Ghazali's image in the Ihya' — Book XXI, the Marvels of the Heart — is th
 
 The direction of the change runs both ways: "Obedience to God, praise be to Him, by striving against the appetites polishes the heart, but disobedience to Him blackens it." The passage also ties the clean heart to "the remembrance (dhikr) [of God]", quoting the Qur'an's "Verily in remembrance of God do hearts find rest! (13:28)". The concept names a discipline rather than a mood: purity is recovered by work on the self.
 
-### In the compendium
+### Here
 
 - [[Y110 — Cultivate the divine dispositions]]
 - [[D041 — Practice purity and stillness (qingjing)]]

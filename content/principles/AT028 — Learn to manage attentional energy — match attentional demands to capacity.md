@@ -16,7 +16,7 @@ Schmidt, Collette, Cajochen and Peigneux's review of circadian rhythms in human 
 
 > "These performance fluctuations are also contingent upon the chronotype, which reflects interindividual differences in circadian preference, and particularly upon the synchronicity between the individuals' peak periods of circadian arousal and the time of the day at which testing occurs." (Schmidt et al., 2007 — [full text](http://www.chronobiology.ch/wp-content/uploads/publications/2007_09.pdf) — Cogn Neuropsychol 24(7), p. 755)
 
-The compendium turns this into a planning practice: notice which stretches of the day your attention is strongest, put the demanding work there, and let routine tasks fill the troughs. The review is evidence about performance fluctuation, not about any particular scheduling formula.
+I turn this into a planning practice: notice which stretches of the day your attention is strongest, put the demanding work there, and let routine tasks fill the troughs. The review is evidence about performance fluctuation, not about any particular scheduling formula.
 
 **Plain words**
 Attention has a shape across the day, and the shape differs by person: some are sharpest early, others late. Two things follow: learn your own shape, and stop scheduling by other people's clocks alone. The demanding task goes where your capacity is; the routine goes in the trough.

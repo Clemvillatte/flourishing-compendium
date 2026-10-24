@@ -19,7 +19,7 @@ The section is titled "Extinction of the Four Views" in some translations: "if s
 
 ### Holding them lightly
 
-The practical teaching is a hypothesis discipline rather than a metaphysics lesson. A bodhisattva who "abides in the signs of self, person, sentient being, or life-span... is not a bodhisattva" ([Scribd translation](https://www.scribd.com/document/756005528/%E9%87%91%E5%88%9A%E7%BB%8F)) — the views are usable coordinates that become toxic the moment they are mistaken for the territory. The compendium's research-side phrasing of the same move is to hold hypotheses, not positions.
+The practical teaching is a hypothesis discipline rather than a metaphysics lesson. A bodhisattva who "abides in the signs of self, person, sentient being, or life-span... is not a bodhisattva" ([Scribd translation](https://www.scribd.com/document/756005528/%E9%87%91%E5%88%9A%E7%BB%8F)) — the views are usable coordinates that become toxic the moment they are mistaken for the territory. My research-side phrasing of the same move is to hold hypotheses, not positions.
 
 ## Related concepts
 

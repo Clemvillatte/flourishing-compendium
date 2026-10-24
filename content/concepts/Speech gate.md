@@ -29,7 +29,7 @@ It is not silence. Disagreeable speech passes the gate when it is factual, true 
 
 One breath before speaking, asking: is it true, is it timely, is it beneficial, is it kind. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[Nonviolent communication]] — a modern structural cousin, with comparable checks as a four-part protocol
 - [[B023 — Practice right speech]] and [[B148 — Speak lovingly]] — the speech disciplines in Buddhist form

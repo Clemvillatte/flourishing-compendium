@@ -18,7 +18,7 @@ In Book V of the Ethics Aristotle divides political justice in two:
 
 He knows the objection, that what is natural should be unchangeable, "as fire burns both here and in Persia", while laws visibly change, and answers with a qualification: "while with us there is something that is just even by nature, yet all of it is changeable; but still some is by nature, some not by nature." His analogy is the body: "by nature the right hand is stronger, yet it is possible that all men should come to be ambidextrous." The same distinction runs through his account of money, which "exists not by nature but by law (nomos)" (V.5).
 
-The compendium's exercise: for one rule you follow, write whether it names a natural or a legal injustice it prevents, and what would change if the rule were repealed.
+My exercise: for one rule you follow, write whether it names a natural or a legal injustice it prevents, and what would change if the rule were repealed.
 
 **Plain words** Aristotle says some justice is natural: the same everywhere, not made true by anyone's say-so. Some is legal: fixed by a decision that could have been otherwise. He admits even the natural kind can shift, like a right-handed person becoming ambidextrous. Still, the two are different in kind.
 

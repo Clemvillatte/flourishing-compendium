@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Right speech (Pali sammā vācā) is the speech factor of the Buddhist Noble Eightfold Path. The canonical definition is a set of four abstentions: no lying, no divisive speech, no abusive speech, no idle chatter. The Abhaya Sutta adds the timing test that turns the abstentions into a positive discipline: words are assessed for whether they are factual, beneficial and endearing, and even true, beneficial words that the listener will dislike are to be said at the proper time, out of sympathy for living beings.
 
-The compendium's Right livelihood page states the grouping: the path places right speech with right action and right livelihood in the moral-virtue division. The concept's modern relatives sit on the Nonviolent communication and Speech gate pages; its contemplative cousins are the Gita's beneficial speech and the Sufi three gates of speech.
+My Right livelihood page states the grouping: the path places right speech with right action and right livelihood in the moral-virtue division. The concept's modern relatives sit on the Nonviolent communication and Speech gate pages; its contemplative cousins are the Gita's beneficial speech and the Sufi three gates of speech.
 
 ### The four abstentions
 
@@ -27,7 +27,7 @@ The Abhaya Sutta's test, applied to words that are true and useful but unwelcome
 
 The stated reason runs through all six cases: “Because the Tathagata has sympathy for living beings.”
 
-### In the compendium
+### Here
 
 - [[B023 — Practice right speech]] and [[S130 — Practise the discipline of speech]] — the principles carrying the factor
 - [[AF074 — Recognise co-rumination — sharing distress can amplify it]] and [[BE051 — Learn to use I statements — own your experience]] — speech hygiene at the level of conversation patterns
@@ -53,7 +53,7 @@ The stated reason runs through all six cases: “Because the Tathagata has sympa
 - [[Eightfold Path]] — the training this factor belongs to
 - [[Nonviolent communication]] — the modern speech discipline whose mechanism is the observation without evaluation
 - [[Speech gate]] — the checking habit before speaking
-- [[Metta (loving-kindness)]] — the affective basis of right speech, as the compendium's metta page puts it
+- [[Metta (loving-kindness)]] — the affective basis of right speech, as my metta page puts it
 - [[Beneficial speech]] — the Gita's BG 17.15 cousin
 - [[The three gates of speech]] — the Sufi three-gate test
 

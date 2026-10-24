@@ -27,7 +27,7 @@ Clow and colleagues (2010) argue in the title that the CAR is "more than a measu
 
 A 2019 study of salivary cortisol in healthy adults found the peak 20 minutes after waking and argued that the usual magnitude measure (the area under the curve) may not capture the pattern. The authors found a simpler "salience" index discriminated healthy controls from people with seasonal affective disorder better than magnitude did, and suggest low magnitude may suit within-person change and low salience may suit lasting between-person differences. ([Evans et al. 2019, PubMed 30731428](https://pubmed.ncbi.nlm.nih.gov/30731428/)) The way the CAR is scored can change what it appears to show.
 
-### In the compendium
+### Here
 
 - [[BI004 — Understand the stress response — cortisol, adrenaline, and the HPA axis]], [[BI043 — Understand the stress response — acute adaptive, chronic harmful]] and [[PP003 — Practise measurement humility]] cite this concept.
 - [[AF026 — Prefer cognitive reappraisal over suppression when possible]], [[D148 — Let stillness heal]] and [[B094 — Cultivate tranquility (passaddhi)]] cite it as well.

@@ -21,7 +21,7 @@ Kabat-Zinn's 1982 report described a 10-week Stress Reduction and Relaxation Pro
 
 A 2025 meta-analysis of 29 randomized trials with 2,191 participants found mindfulness training improved self-reported interoception with a small-to-medium effect (Hedges' g = 0.31) ([Treves et al. 2025](https://doi.org/10.1038/s41598-025-22661-4)). On objective measures the picture is weaker: earlier meta-analytic work found small, heterogeneous effects with no differences on proximal measures like heartbeat perception ([Treves et al. 2025](https://doi.org/10.1038/s41598-025-22661-4)). The pooled findings concern mindfulness interventions collectively, not the body scan's independent effect. Gibson reports practitioners finding the scan relaxing or uncomfortable, arguing that a non-evaluative attentional style matters; that is his argument, not a demonstrated mechanism ([Gibson 2019](https://www.frontiersin.org/article/10.3389/fpsyg.2019.02012/full)).
 
-### In the compendium
+### Here
 
 BI054 "Learn body scan meditation: systematic body awareness" carries the practice and adds the note that boredom is part of the training. AT050 "Learn body scan: systematic attention through the body" places it among attention practices, and AF005 and BI053 connect it to interoception. B011 "Make mindfulness the master tool (sati)" names the underlying faculty and B043 "Develop insight (vipassana)" lists the scan among its practice kernels. D053 "Balance alertness and ease" names the balance the falling-asleep difficulty tests: relaxed alertness, neither drowsy nor tense. P139 "Know that cognition is embodied sense-making" grounds practice in posture, movement and breath, the territory the scan covers.
 

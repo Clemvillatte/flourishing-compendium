@@ -17,9 +17,9 @@ Jost and Banaji (1994) distinguished three justification tendencies that can pul
 
 Whether system justification wins out is presented as conditional, not guaranteed ([Jost, Banaji and Nosek 2004](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf)). In the review's words, "members of disadvantaged groups are likely to engage in social change only when ego justification and/or group justification motives overcome the strength of system justification needs and tendencies" (section "Ego, Group, and System Justification Motives") ([Jost, Banaji and Nosek 2004](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf)). The review's strongest version of the claim draws on cognitive dissonance research: "If there is a motive to justify the system in order to reduce ideological dissonance and defend against threats to the system's legitimacy, it follows that those who suffer the most from the system are also those who have the most to explain, justify, and rationalize" (section "Enhanced System Justification Among the Disadvantaged") ([Jost, Banaji and Nosek 2004](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf)). The authors present this as a theoretical argument within their account ([Jost, Banaji and Nosek 2004](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf)).
 
-### In the compendium
+### Here
 
-- [[SP030 — Learn how hatred self-perpetuates]] — the compendium's link structure associates the theory with this principle on why hostile exchanges perpetuate themselves; the theory addresses the neighboring question of why people defend orders that harm them
+- [[SP030 — Learn how hatred self-perpetuates]] — my link structure associates the theory with this principle on why hostile exchanges perpetuate themselves; the theory addresses the neighboring question of why people defend orders that harm them
 
 ## Field
 

@@ -17,7 +17,7 @@ Two people can score equally high on a self-esteem scale and still differ in how
 
 ### Four dimensions
 
-The abstract names four pairs: defensive or genuine, contingent or true, unstable or stable, and discrepant or congruent with implicit feelings of self-worth. It does not unpack them, and the article body was not available in an open copy for this page, so the compendium should not lean on specifics such as measurement scales or effect sizes from here.
+The abstract names four pairs: defensive or genuine, contingent or true, unstable or stable, and discrepant or congruent with implicit feelings of self-worth. It does not unpack them, and the article body was not available in an open copy for this page, so I should not lean on specifics such as measurement scales or effect sizes from here.
 
 ### Where it leads
 
@@ -27,7 +27,7 @@ Kernis says optimal self-esteem is "characterized by qualities associated with g
 
 In his reply to commentators, Kernis clarifies that "My use of the term contingent is not meant to imply that secure or optimal self-esteem is completely independent (i.e., noncontingent) of contextual events and significant others, especially during the formative years." He also writes that authenticity and secure high self-esteem are likely reciprocally related ([Kernis, 2003, "Optimal Self-Esteem and Authenticity: Separating Fantasy From Reality"](https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_Kernis_Optimal.pdf)). So his "secure" does not mean independent of other people or circumstances, and essays should not present it as a case for self-sufficiency. In the same reply he adds that he believes various forms of fragile self-esteem tap into an aspect of the "narcissistic experience" without being the same as narcissism.
 
-### In the compendium
+### Here
 
 - SE004, SE021 and SE023 work with contingent self-worth, the "contingent" end of Kernis's dimension, mainly through Crocker's research.
 - SE070 takes up narcissistic patterns, where self-esteem depends on others' affirmation.

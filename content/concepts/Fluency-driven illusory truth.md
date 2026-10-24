@@ -13,7 +13,7 @@ The illusory truth effect is the finding that repetition makes a statement feel 
 
 ### What makes it dangerous
 
-The follow-up sentence is the one worth sitting with: "We again find that prior knowledge does not protect against the illusory truth effect. Repeated false statements were given higher truth ratings than novel statements, even when they contradicted participants' prior knowledge." Knowing better is not a vaccine. The compendium's principles on certainty and testing what arises both draw on this: fluency is a property of the channel, not of the message, and a claim felt twice is not a claim checked twice.
+The follow-up sentence is the one worth sitting with: "We again find that prior knowledge does not protect against the illusory truth effect. Repeated false statements were given higher truth ratings than novel statements, even when they contradicted participants' prior knowledge." Knowing better is not a vaccine. My principles on certainty and testing what arises both draw on this: fluency is a property of the channel, not of the message, and a claim felt twice is not a claim checked twice.
 
 ## Related concepts
 

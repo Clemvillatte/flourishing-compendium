@@ -23,8 +23,8 @@ The catalogue's own use is in the II.9 closing: "the intermediate state is in al
 
 ## Related concepts
 
-- [[The taxonomy of vices]] — the compendium's own catalog of the failures
-- [[The meek]] — the compendium's treatment of the honor row
+- [[The taxonomy of vices]] — my own catalog of the failures
+- [[The meek]] — my treatment of the honor row
 - [[Habit formation]] — the acquisition the catalogue presupposes
 
 ## Sources

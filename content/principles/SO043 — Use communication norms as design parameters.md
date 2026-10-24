@@ -18,7 +18,7 @@ The claim behind this principle is that the rules of discourse can be designed r
 >
 > (Habermas's rules of discourse, as given in the Stanford Encyclopedia of Philosophy entry on Habermas, §3.1)
 
-The rules describe what argumentation looks like when it is, in the entry's phrasing, "a rule-governed practice, not a verbal free-for-all", with norms that are "supposed to insulate discourse from all persuasive forces except the 'unforced force of the better argument'". The compendium applies these philosophical rules to meeting design: specify who may speak, how assertions can be challenged, and how participants can raise needs or objections.
+The rules describe what argumentation looks like when it is, in the entry's phrasing, "a rule-governed practice, not a verbal free-for-all", with norms that are "supposed to insulate discourse from all persuasive forces except the 'unforced force of the better argument'". I applie these philosophical rules to meeting design: specify who may speak, how assertions can be challenged, and how participants can raise needs or objections.
 
 **Plain words**
 For a meeting you organise, decide in advance how people will take turns and question a claim. Make those rules visible to participants and invite suggestions for changing them.

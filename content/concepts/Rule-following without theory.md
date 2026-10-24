@@ -15,7 +15,7 @@ Rule-following without theory names Wittgenstein's late treatment of what it is 
 
 The teaching cases are concrete. The pupil who continues "add 2" past 1000 and writes 1000, 1004, 1008, 1012 has a reading of the rule that fits his past answers (PI 185); the question is what makes one continuation right rather than another. The SEP article frames the dismantling Wittgenstein proceeds with: how rules are learned, how they are followed, where the standards deciding correct following come from, and whether they live in the mind as a mental representation.
 
-The compendium's [[X003 — Live by appearances, without adding verdicts]] pairs this with Sextus: the Sceptic follows custom, law and craft without adding verdicts about how things really are. Wittgenstein's point supports that pairing, because the ground of rule-following, whatever it is, does not seem to be a theory held in the head; the same questions, in a different register, run through the fourfold observance.
+My [[X003 — Live by appearances, without adding verdicts]] pairs this with Sextus: the Sceptic follows custom, law and craft without adding verdicts about how things really are. Wittgenstein's point supports that pairing, because the ground of rule-following, whatever it is, does not seem to be a theory held in the head; the same questions, in a different register, run through the fourfold observance.
 
 ## Related concepts
 

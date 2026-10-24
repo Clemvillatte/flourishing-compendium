@@ -15,7 +15,7 @@ Fellow feeling is the eighteenth-century sentimentalist name for the human tende
 
 "The minds of all men are similar in their feelings and operations, nor can any one be actuated by any affection, of which all others are not, in some degree, susceptible" ([3.3.1.7](https://davidhume.org/texts/t/3/3/full)). What the senses show of another person's passion is only its effects, in voice and gesture: "my mind immediately passes from these effects to their causes, and forms such a lively idea of the passion, as is presently converted into the passion itself" ([3.3.1.7](https://davidhume.org/texts/t/3/3/full)). The Treatise draws the conclusion plainly: "sympathy is a very powerful principle in human nature", one that "has a great influence on our taste of beauty" and "produces our sentiment of morals in all the artificial virtues" ([3.3.1.10](https://davidhume.org/texts/t/3/3/full)).
 
-### In the compendium
+### Here
 
 - [[SP014 — Expect to imagine others as like yourself]] — carries fellow feeling as its Hume parallel beside Spinoza's imitation of emotions
 

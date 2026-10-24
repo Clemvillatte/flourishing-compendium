@@ -15,10 +15,10 @@ Zuowang (坐忘, literally "sitting forgetting") is the meditation practice name
 
 The passage names what falls away, not a technique: the felt connexion to the body, the perceptive organs, material form and knowledge. Confucius answers that one so united with the Great Pervader is "free from all likings" and "become impermanent", and asks leave to follow in Yan Hui's steps ([Zhuangzi 6, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-### In the compendium
+### Here
 
 - [[D047 — Practice sitting and forgetting (zuowang)]] — the principle that carries the Zhuangzi dialogue as a practice, with the full Legge quote
-- [[B133 — Let the self-construct fall away (the Great Death)]] — the compendium cites this page as a cross-tradition parallel
+- [[B133 — Let the self-construct fall away (the Great Death)]] — I cite this page as a cross-tradition parallel
 
 ## Related concepts
 

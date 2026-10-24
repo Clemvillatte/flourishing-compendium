@@ -19,16 +19,16 @@ The theory's central claim is that the two kinds of gap predict different moods.
 
 Within Higgins's framework, one question the theory suggests for a person in low or anxious mood is which gap is in play: whether a hoped-for state has not arrived, or a duty seems about to be violated. A second question follows from the theory's two standpoints: whose standard is in play, one's own or someone else's. These are questions the theory frames, not a diagnostic rule.
 
-### In the compendium
+### Here
 
-- [[E049 — Practise despair and its overcoming]] — a comparison across frameworks: the compendium's despair principle beside a theory of gaps; see the principle for its own account
+- [[E049 — Practise despair and its overcoming]] — a comparison across frameworks: my despair principle beside a theory of gaps; see the principle for its own account
 
 ## Related concepts
 
 
-- [[SE003]] — the compendium's principle on the multilayered self: actual, ideal and ought
+- [[SE003]] — my principle on the multilayered self: actual, ideal and ought
 - [[Self-Evaluation Maintenance Theory]] — the social side: other people's performance moves the same self-evaluations
-- [[Identity stability]] — the compendium's pages on how self-views hold or shift
+- [[Identity stability]] — my pages on how self-views hold or shift
 - [[Role model research]] — another theory of the gap between self and an outstanding other
 - [[Self-conscious emotions]] — a comparison between frameworks: Higgins's actual-ideal and actual-ought gaps beside the identity-goal appraisals
 ## Sources

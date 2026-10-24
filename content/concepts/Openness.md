@@ -15,7 +15,7 @@ Openness, in the Big Five tradition, is a personality trait. Kaufman and colleag
 
 The authors report four demographically diverse samples totaling 1,035 participants. They also found that "Extraversion additionally predicted creative achievement in the arts, independently of Openness," and that the link between Intellect and scientific creativity "may be due at least in part to" cognitive ability and divergent thinking (same abstract). The finding concerns a trait measured by questionnaire and its statistical link to creative achievement, which is narrower than the everyday sense of being open to people or ideas.
 
-### In the compendium
+### Here
 
 P114 (Create as growth) is the principle linked below. Whether creating is evidence of growth is the principle's own claim. This page supports only the trait-level result that Openness to Experience predicts artistic creative achievement.
 

@@ -14,7 +14,7 @@ Argue the strongest case for your position. Then argue the strongest case agains
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the corrective effect is documented in the consider-the-opposite research below.*
+*Steps are my own protocol; the corrective effect is documented in the consider-the-opposite research below.*
 
 1. Write the strongest case for your current position, in its own best voice, as though you believed it.
 2. Write the strongest case against it, with the same effort; a strawman opposite is a wasted repetition of what you already think.

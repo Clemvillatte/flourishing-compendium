@@ -19,7 +19,7 @@ The shared premise is that awareness of bodily sensations can reduce psychologic
 
 A 2021 systematic review and meta-analysis screened 2,180 references and included 18 randomized controlled trials, reporting medium effects of body psychotherapy on psychopathology and psychological distress ([Rosendahl et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8458738/)). The same review is candid about the field's standing: "body psychotherapy (BPT) appears not to be a well-established treatment option" ([Rosendahl et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8458738/)). One definition cited in that review, from Geuter, is that body psychotherapy is "a treatment employing psychological and bodily means equally" ([Rosendahl et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8458738/)).
 
-### In the compendium
+### Here
 
 - [[P143 — Think with the whole body — the body is not a machine]] lists somatic psychotherapy among its psychology parallels as "body-based processing of emotion", and pairs it with the interoception principle BI009 in its related concepts.
 

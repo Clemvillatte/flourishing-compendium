@@ -39,7 +39,7 @@ The capacity also mattered to how [Corballis, 2019](https://www.frontiersin.org/
 
 On this view, displacement, the power to talk about what is not present, grows out of the power to think about what is not present ([Corballis, 2019](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00217/pdf)).
 
-### In the compendium
+### Here
 
 - [[E008 — Practise the structure of temporality]] — a different register: Husserl's phenomenology of time-consciousness, next to this psychology of projecting into time
 - [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]] — avoidance's short-term relief and long-term maintenance

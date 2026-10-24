@@ -18,12 +18,12 @@ In Happiness, Thich Nhat Hanh recommends resting when tired and includes mindful
 >
 > (Thich Nhat Hanh, Happiness)
 
-His image for the posture of rest is the sick forest animal: "When a forest animal is sick, it lies down and does nothing. Often it won't even eat or drink. All of its energy is directed toward healing." The compendium's application is to treat rest as part of the work rather than as its failure.
+His image for the posture of rest is the sick forest animal: "When a forest animal is sick, it lies down and does nothing. Often it won't even eat or drink. All of its energy is directed toward healing." My application is to treat rest as part of the work rather than as its failure.
 
 (Thich Nhat Hanh, Happiness.)
 
 **Plain words**
-For the compendium's exercise, notice whether you are tired and what you can pause. If you choose to lie down, allow that period to be for resting.
+For my exercise, notice whether you are tired and what you can pause. If you choose to lie down, allow that period to be for resting.
 
 *For example:* Imagine feeling tired after a busy morning. Set aside part of the afternoon to rest.
 

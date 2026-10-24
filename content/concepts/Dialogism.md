@@ -25,13 +25,13 @@ Emerson notes that the Dostoevsky book mutes the moral side of the plots, and th
 
 The page relies on one encyclopedia entry and one review, not on Bakhtin's own text. Quotations from the book are as reported by the review.
 
-### In the compendium
+### Here
 
 - [[D082 — Don't impose your frame on others]] lists dialogism as a Western parallel to Zhuangzi's exchange about the fish. The principle itself does not quote Bakhtin, so the connection is thematic: another person's mind is treated as a voice to be heard and not a thing to be decided about.
 
 ## Related concepts
 
-- [[Dialogic reason]] — a neighbouring concept in the compendium
+- [[Dialogic reason]] — a neighbouring concept here
 - [[Dialogue]] — the broader concept, which Emerson says Bakhtin uses as a philosophical principle
 
 ## Related thinkers

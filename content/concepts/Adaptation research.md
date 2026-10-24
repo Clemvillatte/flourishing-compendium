@@ -15,7 +15,7 @@ The evidence base is large-scale longitudinal panel data. Lucas's disability stu
 
 The pattern is not uniform. Adaptation to positive events like marriage is well supported — satisfaction returns to pre-marriage levels within about a year — while widowhood, unemployment, and disability show lasting drops ([Lucas 2007 review](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/); [Japanese-language summary of the field](https://www.jstage.jst.go.jp/article/jsre/21/2/21_92/_pdf)).
 
-### Why the compendium holds it
+### Why I hold it
 
 The Buddhist principle of impermanence (anicca) is often read as a claim that all states pass. The research gives that reading a needed limit: some states do not fully pass, and treating suffering as always self-resolving is a factual error with consequences for how help is offered. The two claims are compatible — nothing is fixed, but not everything returns to where it was.
 

@@ -15,9 +15,9 @@ Deliberation as rehearsal is John Dewey's account of what happens when action ge
 
 Dewey's reason is retrievability. In his words: "An act overtly tried out is irrevocable, its consequences cannot be blotted out. An act tried out in imagination is not final or fatal. It is retrievable." The experiment in thought "runs ahead and foresees outcomes", so the person does not have to await the instruction of actual failure.
 
-### In the compendium
+### Here
 
-- [[P039 — Deliberate by rehearsal, not by verdict]] — the compendium's principle for this doctrine
+- [[P039 — Deliberate by rehearsal, not by verdict]] — my principle for this doctrine
 - [[P076 — When habits conflict, let deliberation do its work]] — Dewey's blocking-of-action condition in compendium terms
 - [[P099 — Let anticipation do its work]] — the anticipation side of the rehearsal
 - [[R005 — Practise forgiveness]]

@@ -25,9 +25,9 @@ A review of psychological interventions for dissociative disorders describes gro
 
 ### What this page does not claim
 
-The sources do not show that grounding reduces PTSD, anxiety or dissociation in controlled trials, and they do not test Linehan's version specifically. The compendium's grounding principles are best read as common clinical practice with a plausible mechanism and limited trial evidence. People with trauma should use these techniques with the guidance of a clinician when symptoms are severe.
+The sources do not show that grounding reduces PTSD, anxiety or dissociation in controlled trials, and they do not test Linehan's version specifically. My grounding principles are best read as common clinical practice with a plausible mechanism and limited trial evidence. People with trauma should use these techniques with the guidance of a clinician when symptoms are severe.
 
-### In the compendium
+### Here
 
 - [[B189 — Ground in the body]], [[BI057 — Learn grounding techniques — present-moment body awareness]] and [[Y049 — Use vivid sensory attention as a support]] cite this concept.
 - [[AF041 — Learn distress tolerance — the capacity to bear intense affect without making it worse]], [[K106 — Five-senses grounding]] and [[K383 — Safe Place with an affiliative welcome]] cite it as well.

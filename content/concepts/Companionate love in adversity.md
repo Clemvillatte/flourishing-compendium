@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Companionate love is the steady, entwined kind of love distinguished from passionate love in social-psychological research: the affection that grows between people whose lives are interdependent, rather than the intense longing of early romance. The compendium's heading adds the adversity clause, "in adversity", for the sense its linked principles use it: the love that shows up in presence and help during misfortune. The research term itself does not carry that qualifier.
+Companionate love is the steady, entwined kind of love distinguished from passionate love in social-psychological research: the affection that grows between people whose lives are interdependent, rather than the intense longing of early romance. My heading adds the adversity clause, "in adversity", for the sense its linked principles use it: the love that shows up in presence and help during misfortune. The research term itself does not carry that qualifier.
 
 > "the affection we feel for those with whom our lives are deeply entwined" (Berscheid & Walster, 1978, p. 9, as quoted in Neto & Menezes, [Estimates About Love for Self, Romantic Partners, and Parents, PDF](https://repositorio-aberto.up.pt/bitstream/10216/140062/2/536181.pdf))
 
@@ -18,7 +18,7 @@ The two loves were expected to age differently. As the two-study investigation p
 
 The 2008 investigation then tested that assumption in 53 newlywed couples and 240 women married up to decades, and found a surprise: "time did have a corrosive effect on love" and "it appeared to have an equally detrimental effect on both passionate and companionate love" (same source). The old contrast survives in a metaphor the authors quote from earlier work: "Passionate love is a fragile flower—it wilts in time. Companionate love is a sturdy evergreen; it thrives with contact" (Hatfield & Walster, 1978, p. 125, quoted in the same paper).
 
-### In the compendium
+### Here
 
 - [[A068 — Maintain friendships through presence in misfortune]] — the principle supplies the adversity half of the heading: showing up in a friend's misfortune is companionate love in action
 - [[A064 — Know the three kinds of friendship]] — listed as a citing principle; Aristotle's friendship kinds are the original entry's other philosophical anchor

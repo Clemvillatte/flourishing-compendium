@@ -19,7 +19,7 @@ Hermann von Helmholtz later developed the suggestion into a quantitative theory,
 
 In modern terms the three receptor classes are the cone photoreceptors, called S, M and L for their peak sensitivity at short, middle and long wavelengths. On this receptor account, the initial encoding of a light is three response values rather than the spectrum itself, and color experience depends on the pattern of their relative activation. Young's postulate stood as an inference from color matching for more than a century: the three receptor classes were only conclusively identified in the twentieth century.
 
-The compendium's philosophical application of this account: if the receptor level transmits a small set of values rather than the world, then color is a construction of the visual system, a concrete case for the principle that perception is an interpretation, not a copy.
+My philosophical application of this account: if the receptor level transmits a small set of values rather than the world, then color is a construction of the visual system, a concrete case for the principle that perception is an interpretation, not a copy.
 
 ## Field
 

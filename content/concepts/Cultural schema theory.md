@@ -19,16 +19,16 @@ A University of Cyprus text, reporting Nishida (1999, pp. 764-765), says the sch
 
 ### Scope
 
-Nishida's paper itself was not available to read, so the account above is built from its abstract and from later authors who summarise it. The compendium's line, that schemas guide default interpretation of events and people, matches this general account, but the exact wording is the compendium's. The pairing with the Nisbett group's analytic and holistic findings, mentioned on the principle's page, is not covered here.
+Nishida's paper itself was not available to read, so the account above is built from its abstract and from later authors who summarise it. My line, that schemas guide default interpretation of events and people, matches this general account, but the exact wording is my. The pairing with the Nisbett group's analytic and holistic findings, mentioned on the principle's page, is not covered here.
 
-### In the compendium
+### Here
 
 - [[CO012 — Know that thinking is both individual and collective — schemas are shared]] lists this concept.
 
 ## Related concepts
 
 - [[CO012]] — the principle pairs the theory's cultural schemas with the Nisbett group's finding that analytic and holistic habits track different social systems
-- [[Analytic vs holistic cognition]] — the compendium's page on the contrast the principle mentions
+- [[Analytic vs holistic cognition]] — my page on the contrast the principle mentions
 
 ## Sources
 

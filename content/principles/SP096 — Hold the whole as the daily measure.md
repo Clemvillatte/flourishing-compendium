@@ -18,9 +18,9 @@ Spinoza gives reason's way of seeing things a name: the form of eternity.
 
 The Fifth Part explains what the form amounts to. Things are conceived as actual in two ways, "either as existing in relation to a given time and place, or as contained in God and following from the necessity of the divine nature. Whatsoever we conceive in this second way as true or real, we conceive under the form of eternity" ([Ethics V, P29 note, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)). Spinoza's own claim is metaphysical: in the proof of the same proposition he notes that "eternity cannot be explained in terms of duration". The same event has one look under the first conception and another under the second.
 
-The compendium's application, kept distinct from that doctrine: as a reflection exercise, once a day take the most annoying or painful event of the day and ask what larger process it belongs to. The exercise borrows the shape of the two conceptions; it is not Spinoza's account of eternity and claims no guaranteed relief.
+My application, kept distinct from that doctrine: as a reflection exercise, once a day take the most annoying or painful event of the day and ask what larger process it belongs to. The exercise borrows the shape of the two conceptions; it is not Spinoza's account of eternity and claims no guaranteed relief.
 
-**Plain words** You can locate an event in time and place. Spinoza also describes understanding things through the necessity of God's nature. He calls that second conception eternal; adding more years still concerns duration. The compendium's daily reflection is a separate exercise.
+**Plain words** You can locate an event in time and place. Spinoza also describes understanding things through the necessity of God's nature. He calls that second conception eternal; adding more years still concerns duration. My daily reflection is a separate exercise.
 
 *For example:* The evening question, what one process was this whole day part of? Asking it is the practice.
 ## Psychology parallels

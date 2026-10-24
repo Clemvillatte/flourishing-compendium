@@ -17,7 +17,7 @@ Zhi zu (知足) is the Daoist practice of knowing what is enough: sizing desire 
 
 Chapter 46 contrasts two states of the world: when the way prevails, horses are sent back to the dung-carts; when the way is disregarded, war-horses breed in the border lands. The wants of rulers are the difference. Chapter 44 puts the same arithmetic to the reader as a question: fame or life, wealth or life? Its answer: "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame." Knowing sufficiency works as a decision rule for where to stop, a rule the reader can run on career, possessions and appetite alike.
 
-The compendium's principle CO044 applies it to satisficing: good enough is often optimal.
+My principle CO044 applies it to satisficing: good enough is often optimal.
 
 ## Sources
 - [[T012 — Laozi]]: the Daodejing 46 source the page opens with.

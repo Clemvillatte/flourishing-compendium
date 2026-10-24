@@ -29,7 +29,7 @@ Sprecher and Fehr's three validation studies (total N = 700) used a 21-item scal
 
 The participants in the first study were undergraduate students at a midwestern U.S. university (N = 354, 65% women), and the measures were self-reports. The findings show how a questionnaire relates to other self-reports in that population, not how people behave across cultures or life stages.
 
-### In the compendium
+### Here
 
 - [[R036 — Practise aroha]], [[R049 — Practise alofa]], [[E063 — Practise meaning through love]] and [[PP038 — Cultivate humanity]] cite this concept.
 - [[A065 — Wish good for your friend for their own sake]] and [[D031 — Treasure 1 — compassion (ci)]] cite it as well.

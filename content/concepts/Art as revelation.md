@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### What revelation means here
 
-The revelation is of truth, not of facts. Heidegger sets aside the standing division: "But until now art presumably has had to do with the beautiful and beauty, and not with truth... Truth, in contrast, belongs to logic. Beauty, however, is reserved for aesthetics." In the work, by contrast, "there is here an occurring, a happening of truth at work" (same page). For the compendium, this is why aesthetic behaviour belongs to genuine flourishing rather than to decoration: on this account, art is a place where the world as shared and livable gets set into view.
+The revelation is of truth, not of facts. Heidegger sets aside the standing division: "But until now art presumably has had to do with the beautiful and beauty, and not with truth... Truth, in contrast, belongs to logic. Beauty, however, is reserved for aesthetics." In the work, by contrast, "there is here an occurring, a happening of truth at work" (same page). For me, this is why aesthetic behaviour belongs to genuine flourishing rather than to decoration: on this account, art is a place where the world as shared and livable gets set into view.
 
 ## Sources
 

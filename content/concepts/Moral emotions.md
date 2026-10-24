@@ -7,7 +7,7 @@ file: "Moral emotions"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-The compendium uses "Moral emotions" for the emotions that link moral standards to moral behavior, as reviewed by June Price Tangney and colleagues:
+I use "Moral emotions" for the emotions that link moral standards to moral behavior, as reviewed by June Price Tangney and colleagues:
 
 > "Moral emotions represent a key element of our human moral apparatus, influencing the link between moral standards and moral behavior." (Tangney, Stuewig and Mashek 2007, abstract, [Annual Review of Psychology 58:345-372](https://pubmed.ncbi.nlm.nih.gov/16953797/))
 

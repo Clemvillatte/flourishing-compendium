@@ -27,9 +27,9 @@ The surprising part is what helps. Finishing the first task is not, by itself, e
 >
 > (Leroy, 2009)
 
-### In the compendium
+### Here
 
-The lines below describe what the compendium's principles do with the concept; the pairings are editorial.
+The lines below describe what my principles do with the concept; the pairings are editorial.
 
 - [[AT029 — Recognise the costs of interruption — attention does not switch instantly]] — the principle that carries this concept: interruptions bill twice, once to leave and once to re-enter
 - [[B168 — Do one thing at a time]] — one thing at a time as the practice the residue argues for
@@ -37,7 +37,7 @@ The lines below describe what the compendium's principles do with the concept; t
 - [[AT061 — Recognise and manage notification capture — every notification is an attentional hijack]] — notifications as externally triggered task switches that arrive without a natural stopping point
 - [[AT027 — Recognise the conditions for deep work — environment, time, and energy]] — deep work as the practice that sequences tasks to avoid residue
 - [[P174 — Spend attention like money — it is your real budget]] — the budget framing of a finite capacity being spent on residue
-- [[K113 — Transition pause]] — the compendium's own disengagement practice between tasks
+- [[K113 — Transition pause]] — my own disengagement practice between tasks
 
 ## Related concepts
 

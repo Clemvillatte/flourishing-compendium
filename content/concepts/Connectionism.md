@@ -50,7 +50,7 @@ The standing objection comes from the classical camp: Fodor and Pylyshyn argued 
 
 The past-tense model supplies the accessible illustration: what the model reproduced was the reported progression in children's past-tense forms, from correct "went" to over-regularised "goed" and back, and the model's claim is that this curve can come from graded weight change over examples. (Summary of the documented model, not a new scenario.)
 
-### In the compendium
+### Here
 
 - [[SE066 — Recognise the role of challenge in growth — difficulty develops self]] — the connectionist account of learning from error is a possible frame for the principle's claim; the principle itself carries the claim
 - [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — listed as a citing principle

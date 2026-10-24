@@ -17,7 +17,7 @@ The issue is raised again in the same book, through the old advice of Solon:
 
 Aristotle presses the problem further: to postpone the verdict until death is "a paradox, that when he is happy the attribute that belongs to him is not to be truly predicated of him because we do not wish to call living men happy, on account of the changes that may befall them" ([ibid.](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). These passages make a complete life relevant to happiness while questioning the requirement to wait until death before calling someone happy ([ibid.](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).
 
-### In the compendium
+### Here
 
 - [[AF071 — Recognise the peak-end rule — memory of experiences is shaped by peaks and endings]] — a thematic comparison: endings weigh in memory
 - [[CO057 — Recognise the peak-end rule in memory — you remember peaks and endings]] — the practice form of that finding

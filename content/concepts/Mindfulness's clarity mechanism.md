@@ -17,7 +17,7 @@ The clarity mechanism sits in the first component of the two-part operational de
 
 On this model, clarity is a byproduct of sustained, immediate contact. Attention held on experience as it arrives produces increasing recognition of mental events as mental events, thoughts seen as thoughts rather than as the world. The second component keeps the seeing from turning harsh: the same events met with curiosity, openness and acceptance.
 
-The compendium's contemplative principles describe the same settling from the other side of the tradition: the mind as a clear lake, practice that removes obstacles rather than manufacturing states, and purity and stillness in the Daoist register.
+My contemplative principles describe the same settling from the other side of the tradition: the mind as a clear lake, practice that removes obstacles rather than manufacturing states, and purity and stillness in the Daoist register.
 
 - [[Y027 — Let the mind settle like a clear lake]]
 [[Y062 — Practice removes obstacles; it does not manufacture states]]

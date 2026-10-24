@@ -15,7 +15,7 @@ The cognitive attentional syndrome (CAS) is Adrian Wells's name for the style of
 
 In Wells's list, the perseveration takes the form of worrying or ruminating on negative and threatening events; attentional strategies of "threat-monitoring" such as checking for symptoms or scanning the environment for signs of danger; and behaviors such as avoidance, inactivity, thought suppression or substance use. His verdict on the set: "These strategies intensify and extend negative processing" ([Wells 2019, section "Outline of the Self-Regulatory Executive Function Model"](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)). The S-REF model was a major influence on the development of metacognitive therapy ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)).
 
-### In the compendium
+### Here
 
 - [[AT011 — Recognise that attention can be open or closed — both are needed]]
 - [[AT060 — Learn to manage smartphone attention — the device is designed to capture you]]

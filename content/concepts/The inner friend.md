@@ -15,7 +15,7 @@ Seneca's Letters to Lucilius records the Stoic ideal of making peace with onesel
 
 Seneca calls the line "indeed a great benefit", and gives two reasons: "such a person can never be alone" and "such a man is a friend to all mankind". The self-relation is treated as a skill with progress markers, not a fixed trait, and it is written into a letter about sharing what one learns with others.
 
-### In the compendium
+### Here
 
 - [[SE032 — Cultivate an inner ally — develop a supportive internal voice]]
 - [[S125 — Practise self-dialogue]]

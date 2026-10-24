@@ -7,7 +7,7 @@ file: "Transaction"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-"Transaction" as the compendium uses it comes from John Dewey and Arthur F. Bentley's Knowing and the Known (1949), where it names the third and most developed of three ways of presenting inquiry. The book's preface defines the transactional viewpoint as:
+"Transaction" as I use it comes from John Dewey and Arthur F. Bentley's Knowing and the Known (1949), where it names the third and most developed of three ways of presenting inquiry. The book's preface defines the transactional viewpoint as:
 
 > "willing under hypothesis to treat all [human] behavings, including [their] most advanced knowings, as activities not of [them]self alone, nor even as primarily [theirs], but as processes of the full situation of organism-environment." (Dewey & Bentley, Knowing and the Known, 1949, p. vi, quoted in [Wikipedia, "Transactionalism"](https://en.wikipedia.org/wiki/Transactionalism))
 
@@ -19,11 +19,11 @@ A recent curriculum-theory article describes the contrast without the book's own
 
 > "the right to see together, extensionally and durationally, much that is talked about conventionally as if it were composed of irreconcilable separates." (Dewey & Bentley, Knowing and the Known, 1949, p. 120, quoted in [Wikipedia, "Transactionalism"](https://en.wikipedia.org/wiki/Transactionalism))
 
-For the compendium's principles, the concept does one job — and this is the compendium's application of it, stated as such: a person is not a sealed unit that meets an outside world at the skin; living is a single process of organism and environment, and the environment is only this environment for this organism. The linked principles use it that way — the organism's doings and the setting's responses are one situation, feelings are information about that situation, and cognition runs out into the tools and arrangements it uses. The treatment here follows Dewey and Bentley's Knowing and the Known (1949), the work in which the distinction is drawn.
+For my principles, the concept does one job — and this is my application of it, stated as such: a person is not a sealed unit that meets an outside world at the skin; living is a single process of organism and environment, and the environment is only this environment for this organism. The linked principles use it that way — the organism's doings and the setting's responses are one situation, feelings are information about that situation, and cognition runs out into the tools and arrangements it uses. The treatment here follows Dewey and Bentley's Knowing and the Known (1949), the work in which the distinction is drawn.
 
 ## Related concepts
 
-- [[Organism-environment transaction]] — the concept page carrying the same scheme in the compendium
+- [[Organism-environment transaction]] — the concept page carrying the same scheme here
 - [[Process philosophy]] — the tradition the late Dewey works within
 - [[Self as process]] — the person as ongoing activity rather than fixed unit
 - [[Affordances]] — what the environment offers an organism, from the ecological-psychology side

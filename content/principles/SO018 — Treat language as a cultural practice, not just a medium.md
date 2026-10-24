@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 18** — Treat language as a cultural practice, not just a medium
 
-Boroditsky's 2011 article reviews evidence that languages can influence thought in particular domains, including space, time and causality. ([How Language Shapes Thought, Scientific American, February 2011](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)) The compendium recommends examining the distinctions your wording makes available and the assumptions it carries.
+Boroditsky's 2011 article reviews evidence that languages can influence thought in particular domains, including space, time and causality. ([How Language Shapes Thought, Scientific American, February 2011](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)) I recommend examining the distinctions your wording makes available and the assumptions it carries.
 
 (Boroditsky, "How Language Shapes Thought," Scientific American, February 2011; Lupyan et al., 2020.)
 

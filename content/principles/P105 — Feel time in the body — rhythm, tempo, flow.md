@@ -16,7 +16,7 @@ Dewey describes experience as a movement between acting and receiving the conseq
 
 > "Experiencing like breathing is a rhythm of intakings and outgivings." (Dewey, Art as Experience, 1934, III, LW 10:62, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf))
 
-His point is about the relation between successive phases, not an instruction to perform every task slowly. The compendium applies this account by inviting attention to how bodily pace fits the activity underway (III, LW 10:43, 62, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
+His point is about the relation between successive phases, not an instruction to perform every task slowly. I applie this account by inviting attention to how bodily pace fits the activity underway (III, LW 10:43, 62, [text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)).
 
 ### Plain words
 

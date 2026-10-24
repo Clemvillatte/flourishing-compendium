@@ -18,7 +18,7 @@ Meyer's review proposes minority stress as a framework for understanding mental-
 
 ([Meyer, 2003, Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/))
 
-The model includes stress processes and coping processes; the compendium offers the following reflection as an adaptation.
+The model includes stress processes and coping processes; I offer the following reflection as an adaptation.
 
 **Plain words** Describe a relevant situation. Separate any prejudiced event you experienced from a rejection you anticipated. Note decisions about disclosure and any coping response. Use those notes to identify questions you want to examine.
 

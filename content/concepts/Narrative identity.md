@@ -17,9 +17,9 @@ Narrative identity is one of the ways of answering "the question 'who?'": Who sa
 
 The mechanism is plot. Narrative discourse "configures such heterogeneous concepts into a discourse that locates actions in a time where one thing happens...because of something else in a followable story or history" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). Through their plots, narratives are "a synthesis of heterogeneous concepts into a kind of discordant concordance which configures the episodes of the story into a told story" ([SEP](https://plato.stanford.edu/entries/ricoeur/)). The plot organizes a life's heterogeneous episodes into an intelligible account, revisable because it lives in the telling.
 
-### In the compendium
+### Here
 
-- [[R105 — Practise narrative identity]] — the compendium's practical instruction, paired with its existential twin
+- [[R105 — Practise narrative identity]] — my practical instruction, paired with its existential twin
 - [[E083 — Practise narrative identity]] — the same instruction from the existential tradition
 - [[SE011 — Recognise the narrative structure of self — you are a story]] — the structural face
 - [[SE042 — Recognise the role of narrative in identity revision — change the story, change the self]] — the revision face
@@ -41,7 +41,7 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 - [[The relational self]] — identity co-authored with its witnesses
 - [[Moral identity]] — the story form moral identity often takes
 - [[Narrative redemption sequences]] — the construct the sequences are coded within
-- [[CO010]] — the compendium's principle on thinking as narrative
+- [[CO010]] — my principle on thinking as narrative
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 - [[SE005]] — A principle on describing the self through relationships, alongside the narrative account of the self
 - [[SE036]] — A principle on reconsidering identity labels after life transitions, using Nietzsche's metamorphoses as an analogy

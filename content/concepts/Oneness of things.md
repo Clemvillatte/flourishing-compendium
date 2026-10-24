@@ -13,7 +13,7 @@ The Zhuangzi's second chapter contains the claim in this passage ([Zhuangzi 2, t
 
 > "There is nothing in the world bigger than the tip of an autumn hair, and Mount T'ai is tiny. No one has lived longer than a dead child, and P'eng-tsu died young. Heaven and earth were born at the same time I was, and the ten thousand things are one with me. We have already become one, so how can I say anything? But I have just said that we are one, so how can I not be saying something? The one and what I said about it make two, and two and the original one make three. If we go on this way, then even the cleverest mathematician can't tell where we'll end, much less an ordinary man. If by moving from nonbeing to being we get to three, how far will we get if we move from being to being? Better not to move, but to let things be!" (Zhuangzi, [Chapter 2, trans. Burton Watson, Terebess Asia Online](https://terebess.hu/english/chuangtzu.html))
 
-### In the compendium
+### Here
 
 - [[K228 — Awe practice]]
 - [[D008 — See the oneness of things]]

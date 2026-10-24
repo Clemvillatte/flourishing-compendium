@@ -16,7 +16,7 @@ The VIA classification rests on six virtues the article says almost every cultur
 
 > "Two of the exercises—using signature strengths in a new way and three good things—increased happiness and decreased depressive symptoms for six months." (Seligman et al. 2005, [Greater Good, Berkeley](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf))
 
-The compendium applies the exercise as-is: a one-week experiment, not a life philosophy.
+I applie the exercise as-is: a one-week experiment, not a life philosophy.
 
 **Plain words**
 The recipe in the study is concrete: find your top five strengths from the inventory, then use one of them in a new way every day for a week. The measured result: happier and less depressed for six months, in this placebo-controlled trial. The mechanism is a guess; the exercise is the part you can run.

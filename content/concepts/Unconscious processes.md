@@ -19,7 +19,7 @@ The division of labor between conscious and unconscious processing is a trade: "
 
 ### Why it matters for flourishing
 
-The humility here is not optional equipment. "No major contemporary philosopher believes that all of mentality is available to be discovered by introspection," and the first-person advantage in assessing the factors behind our judgments "is more modest than non-psychologists generally tend to assume" ([Stanford Encyclopedia, Introspection](https://plato.stanford.edu/entries/introspection/)). That is the footing of the compendium's [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] and the reason [[E089 — Practise the hermeneutics of suspicion]] treats self-report as evidence, not verdict. The upside is equally real: most of skilled living runs on processes that work precisely because they are not supervised.
+The humility here is not optional equipment. "No major contemporary philosopher believes that all of mentality is available to be discovered by introspection," and the first-person advantage in assessing the factors behind our judgments "is more modest than non-psychologists generally tend to assume" ([Stanford Encyclopedia, Introspection](https://plato.stanford.edu/entries/introspection/)). That is the footing of my [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] and the reason [[E089 — Practise the hermeneutics of suspicion]] treats self-report as evidence, not verdict. The upside is equally real: most of skilled living runs on processes that work precisely because they are not supervised.
 
 ## Related concepts
 

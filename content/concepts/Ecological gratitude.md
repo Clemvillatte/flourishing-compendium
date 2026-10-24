@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Ecological gratitude” — Mayer and Frantz, "The Connectedness to Nature Index".
 
-Ecological gratitude, as the compendium uses it, is gratitude directed at the natural world. The original entry's source needs a correction: Mayer and Frantz's 2004 paper is titled "The connectedness to nature scale" (not "Index"), and it measures nature connectedness, not gratitude. It does not test or define ecological gratitude. The evidence below combines that paper with one study that links gratitude and connection to nature directly.
+Ecological gratitude, as I use it, is gratitude directed at the natural world. The original entry's source needs a correction: Mayer and Frantz's 2004 paper is titled "The connectedness to nature scale" (not "Index"), and it measures nature connectedness, not gratitude. It does not test or define ecological gratitude. The evidence below combines that paper with one study that links gratitude and connection to nature directly.
 
 ### What Mayer and Frantz measured
 
@@ -27,7 +27,7 @@ The study used the 14-item Connectedness to Nature Scale among its measures. Its
 
 The Chen study is a single online experiment with university students. It does not show that gratitude to nature produces lasting behaviour change.
 
-### In the compendium
+### Here
 
 - [[R128 — Practise ecological gratitude]] cites this concept.
 - [[ST255 — The Green Fire Dies]], [[ST256 — The Seventh Generation]], [[ST257 — Næss on the Mountain]] and [[ST258 — Ashitaka Sees with Eyes Unclouded]] cite it as well.

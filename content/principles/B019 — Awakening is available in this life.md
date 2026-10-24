@@ -18,7 +18,7 @@ The Platform Sutra locates the material of awakening inside the practitioner: "I
 >
 > (Platform Sutra, Prajna chapter)
 
-The compendium's reading is that "not seek outside" and "originally fully present" are claims about location: the seeing is near rather than remote. The Sudden Teaching passage adds that hearing it rightly can be the occasion. Practice is toward what is already at hand.
+My reading is that "not seek outside" and "originally fully present" are claims about location: the seeing is near rather than remote. The Sudden Teaching passage adds that hearing it rightly can be the occasion. Practice is toward what is already at hand.
 
 (Platform Sutra.)
 

@@ -25,7 +25,7 @@ The page's embedded second seed names the fifth stage. During adolescence the fo
 - [[SE075 — Recognise self and ageing — self continues to develop]] — the stages continue across the lifespan
 - [[SE035 — Understand identity as a project — you author yourself]] — identity as an authored project
 
-### In the compendium
+### Here
 
 - [[SO004 — Treat culture as both a resource and a constraint]] — culture as the social material the stages are negotiated in
 - [[P059 — Accept that individuation is never finished]] — no stage closes the project of the self

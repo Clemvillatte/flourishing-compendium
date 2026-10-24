@@ -21,7 +21,7 @@ Erikson names the failure state precisely:
 
 > the lack or loss of this accrued ego integration is signified by disgust and by despair: fate is not accepted as the frame of life, death not as its finite boundary. (ibid., p. 140) — the passage continues: "Despair expresses the feeling that time is short, too short for the attempt to start another life and to try out alternate roads to integrity." (ibid., p. 140)
 
-The stage connects to SE075's claim that the self keeps developing: on Erikson's account the final development is this one, a relation to the whole of one's own past. Torges et al. (2005) and Erikson's "The Life Cycle Completed" are listed below as inherited references from the compendium's SE reference appendix; neither was opened in this pass, so they support no claims here.
+The stage connects to SE075's claim that the self keeps developing: on Erikson's account the final development is this one, a relation to the whole of one's own past. Torges et al. (2005) and Erikson's "The Life Cycle Completed" are listed below as inherited references from my SE reference appendix; neither was opened in this pass, so they support no claims here.
 
 ## Facets
 

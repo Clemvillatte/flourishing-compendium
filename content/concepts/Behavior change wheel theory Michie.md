@@ -17,7 +17,7 @@ Each condition has a definition in the paper. Capability is "the individual's ps
 
 The wheel around the hub holds nine intervention functions aimed at deficits in one or more conditions, and seven categories of policy that could enable those interventions; the review behind the framework found no existing framework covered the full range ([abstract](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42)).
 
-### In the compendium
+### Here
 
 - [[P073 — See conduct as interaction]]
 - [[B136 — Mind constructs the world you meet]]

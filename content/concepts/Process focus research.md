@@ -21,7 +21,7 @@ A 2021 systematic review and multilevel meta-analysis by Cole, Smith, Ragan, Suu
 
 The 2025 Springer paper summarises academic work by Krause and Freund (2016) as showing process focus to be "superior for positive goal-related outcomes (e.g., task persistence and performance, higher levels of self-efficacy)" and negatively linked to procrastination. It also says that combining process and outcome representations "may yield beneficial effects" ([Springer, 2025](https://link.springer.com/article/10.1007/s10212-025-00995-x)). Krause and Freund is cited at second hand.
 
-### In the compendium
+### Here
 
 P177 (Set process goals and let outcomes follow), PP021 and P104 fit the process-focus finding in education settings. K031 (Abandon any expectation of results) and Y098 (Act, release the fruits) go further: the research here compares ways of picturing goals, and none of it tests giving up expectations of results, nor is outcome picturing shown to be useless in general. The sources above report that outcome picturing raised motivation and that a combination can help.
 

@@ -15,7 +15,7 @@ In Nel Noddings's ethics of care, receptivity is the carer's characteristic mode
 
 The relation closes on the other side too: "Without an affirmative response from the cared-for, we cannot call an encounter or relation caring."
 
-### In the compendium
+### Here
 
 - [[R067 — Practise receptive caring]] — lists the concept among its philosophy parallels.
 

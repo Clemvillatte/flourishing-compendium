@@ -21,7 +21,7 @@ Spinoza associates this second way of regarding something as true or real with u
 
 The phrase does not declare the time-bound view unreal. Spinoza says things are conceived as actual "in two ways", one "in relation to a given time and place" and the other as "following from the necessity of the divine nature", so both count as ways of regarding what is actual. As a practice it is an invitation to add the second view to the first.
 
-### In the compendium
+### Here
 
 - [[SP082 — Practice seeing things under the aspect of eternity]]
 - [[D043 — Hold to the constant]]

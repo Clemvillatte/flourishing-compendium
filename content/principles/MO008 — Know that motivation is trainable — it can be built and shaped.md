@@ -25,7 +25,7 @@ The entry describes identified regulation as motivation based on personally endo
 (Ryan & Deci, 2022, "Self-Determination Theory," in Encyclopedia of Quality of Life and Well-Being Research, Springer.)
 
 **Plain words**
-Ryan and Deci describe how reasons for doing an activity can become more personally endorsed. The compendium uses this account to examine a required activity. Write down what feels externally required and whether you also consider the activity worthwhile. Leave open the possibility that you do not.
+Ryan and Deci describe how reasons for doing an activity can become more personally endorsed. I use this account to examine a required activity. Write down what feels externally required and whether you also consider the activity worthwhile. Leave open the possibility that you do not.
 
 *For example:* Suppose a course is required for your qualification, and you consider its methods relevant to work you want to do. Write down why learning those methods matters to you, separately from the requirement to pass.
 

@@ -14,7 +14,7 @@ Allow a faint smile to form on your face, particularly during difficult moments.
 
 ### Protocol
 
-*Steps follow the DBT skill as taught; the framing is the compendium's.*
+*Steps follow the DBT skill as taught; the framing is my.*
 
 1. Turn the corners of the lips up slightly, with a relaxed face; a half-smile, not a grin.
 2. Hold it while accepting what is happening, in the difficult moment itself rather than after it.

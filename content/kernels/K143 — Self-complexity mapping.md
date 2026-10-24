@@ -14,7 +14,7 @@ List as many aspects of yourself as you can: roles, interests, relationships, va
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the construct they exercise is Linville's self-complexity, defined below.*
+*Steps are my own protocol; the construct they exercise is Linville's self-complexity, defined below.*
 
 1. List your self-aspects on one page: roles, relationships, skills, interests, values, histories; keep listing past the obvious.
 2. Mark which aspects share little with which; the point is differentiation, not volume alone.

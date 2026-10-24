@@ -25,7 +25,7 @@ The manuscript cites an analysis of the top journals in six sub-disciplines of p
 
 The paper does not claim that WEIRD findings are wrong. It says they cannot be assumed to be universal without comparative evidence. The authors also close with proposals for reorganising behavioural science, so the review is a call for broader sampling, not a demonstration that any particular finding fails elsewhere. The original appeared with commentary pages in the same journal issue, so critics' replies are part of the record.
 
-### In the compendium
+### Here
 
 - [[SO044 — Treat the WEIRD critique as a standing corrective]] cites this concept for the WEIRD problem.
 

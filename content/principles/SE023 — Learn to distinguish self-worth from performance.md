@@ -20,7 +20,7 @@ One of the measured contingencies is academic competence — the performance cas
 
 > "participants who were higher in basing their self-esteem on academic competence showed greater increases in self-esteem on acceptance days and greater decreases in self-esteem on rejection days than participants low in this contingency of self-worth." (Crocker, Sommers & Luhtanen, 2002, [abstract](https://journals.sagepub.com/doi/10.1177/01461672022812012))
 
-The study concerns self-esteem changes during graduate applications. Separating an assessment of performance from a judgement of one's value is the compendium's recommendation.
+The study concerns self-esteem changes during graduate applications. Separating an assessment of performance from a judgement of one's value is my recommendation.
 
 **Plain words** If an application is rejected, first describe the result: this application was unsuccessful. Then consider what feedback, if any, can help you improve. Calling your whole self a failure adds a judgement about the person to the outcome of one attempt.
 

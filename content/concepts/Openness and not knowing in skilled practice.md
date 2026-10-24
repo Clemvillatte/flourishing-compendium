@@ -15,7 +15,7 @@ Ericsson describes deliberate practice as work on tasks just outside current rel
 
 Deliberate practice, in his definition, "presents performers with tasks that are initially outside their current realm of reliable performance, yet can be mastered within hours of practice by concentrating on critical aspects and by gradually refining performance through repetitions after feedback" ([same source](https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf)). Habitual, automatic performance is the plateau condition: the account links arrested development to automaticity, and continued improvement to training that keeps reaching past it.
 
-### In the compendium
+### Here
 
 - [[D045 — Keep the empty cup]] — the Daoist counterpart: the vessel's use depends on its empty space
 - [[SO022 — Use cultural humility as a practice]]

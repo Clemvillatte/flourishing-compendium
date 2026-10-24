@@ -25,7 +25,7 @@ An Australian trial of 72 participants compared 18 months of MBT with enhanced c
 
 ### Scope
 
-MBT is a clinical treatment delivered by trained therapists, and the evidence above concerns personality disorder. The wiki should not present it as self-help.
+MBT is a clinical treatment delivered by trained therapists, and the evidence above concerns personality disorder. I should not present it as self-help.
 
 ## Related concepts
 

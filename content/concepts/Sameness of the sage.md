@@ -19,13 +19,13 @@ A later chapter of the book, outside the Inner Chapters, carries the same samene
 
 > "Joy, anger, sorrow, happiness, find no place in that man's breast; for to him all creation is One. And all things being thus united in One, his body and limbs are but as dust of the earth, and life and death, beginning and end, are but as night and day, and cannot destroy his peace. How much less such trifles as gain or loss, misfortune or good fortune?" (Zhuangzi XXI, T'ien Tzu Fang, Giles translation, [Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm))
 
-### In the compendium
+### Here
 
 - [[K062 — Practice one taste]] — lists the concept among its philosophy parallels.
 
 ## Related concepts
 
-- [[Zhuangzi's laughter]] — the compendium's other concept attributed to Zhuangzi.
+- [[Zhuangzi's laughter]] — my other concept attributed to Zhuangzi.
 
 ## Related thinkers
 

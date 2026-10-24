@@ -35,7 +35,7 @@ In the academic literature she defines implicit theories as "core assumptions ab
 - **Evidence and its limits** — her teams' interventions were reported in *Psychological Science* (2015) and *Nature* (2019, a national experiment showing where growth-mindset effects appear); critics note the research can be difficult to replicate ([Wikipedia, Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)). See [[Growth mindset]], [[MO008 — Know that motivation is trainable — it can be built and shaped|Know that motivation is trainable: it can be built and shaped]].
 - **Motivation, personality and development unified** — her 2017 theory placing goals, beliefs and representations at the heart of personality development ([Wikipedia, Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)). See [[Intrinsic motivation]], [[Competence]].
 
-## Everything connected in the wiki — the motivation and mindset tradition
+## Everything connected here — the motivation and mindset tradition
 
 Kept to the pages that carry or substantively apply Dweck's research — the mindset constructs, the goal orientations, and the motivation research they grew from.
 

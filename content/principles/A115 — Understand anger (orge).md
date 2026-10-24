@@ -18,7 +18,7 @@ The Rhetoric opens its account of the emotions with [[Anger|anger]], defined:
 
 The slight itself is an opinion: "slighting is the actively entertained opinion of something as obviously of no importance", with three kinds, "contempt, spite, and insolence". Anger is also attended by "a certain pleasure-that which arises from the expectation of revenge", and it differs from hatred: "anger can be cured by time; but hatred cannot. The one aims at giving pain to its object, the other at doing him harm; the angry man wants his victims to feel; the hater does not mind whether they feel or not." The Ethics sets the mean around it: "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised" ([NE IV.5, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
-The compendium's exercise: when anger arrives, write down the slight as the angry account gives it, and check the two opinions inside it: that the slight was intentional, and that revenge is what it demands.
+My exercise: when anger arrives, write down the slight as the angry account gives it, and check the two opinions inside it: that the slight was intentional, and that revenge is what it demands.
 
 **Plain words** Aristotle defines anger as a painful impulse to get visible revenge for a visible slight. The slight is an opinion: that the other treated you as worth nothing, and on purpose. Check the opinion before acting on it.
 

@@ -17,7 +17,7 @@ The passage turns on a contrast between values and goals. Values are directions 
 
 Within the six-process model, committed action belongs to the commitment and behavior change half, alongside values, contact with the present moment and self as context. All six processes serve one target the review calls psychological flexibility, defined there as the ability to contact the present moment more fully as a conscious human being and to change or persist in behavior when doing so serves valued ends (p. 7). The acceptance and defusion processes are described as clearing "the path for a more vital, values consistent life" (p. 8); committed action is where that path gets walked. The review presents the model and its evidence base; it does not isolate committed action for separate outcome testing.
 
-### In the compendium
+### Here
 
 - [[PP081 — Cultivate psychological flexibility]]
 - [[E042 — Practise commitment without guarantees]]

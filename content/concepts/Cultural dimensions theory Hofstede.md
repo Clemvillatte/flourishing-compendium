@@ -17,7 +17,7 @@ On the site's account, power distance concerns acceptance of unequal power, whil
 
 Uncertainty avoidance concerns tolerance for uncertainty and ambiguity. Long-term orientation contrasts preparing for change with looking to the past for moral guidance; indulgence-restraint contrasts freedom to follow impulses with an emphasis on duty. The model's level of comparison is the society, not the individual: the site's masculinity section notes it is "NOT about individuals, but about expected emotional gender roles".
 
-### In the compendium
+### Here
 
 - [[SO012 — Use cultural values as a lens, not a cage]] — names Hofstede's dimensions and treats them as a lens, not a cage
 - [[PP061 — Consider the cultural context]] — well-being is not culture-free; a practice's form must fit its cultural context

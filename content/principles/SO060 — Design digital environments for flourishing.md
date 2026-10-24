@@ -25,7 +25,7 @@ The broader literature is not settled. Valkenburg's umbrella review of 27 review
 
 > Even though the meta-analyses are supposed to rely on the same evidence base, they yielded disagreeing associations with well- and ill-being, especially for time spent on SM, active SMU, and passive SMU. (Valkenburg, 2022, abstract)
 
-The compendium uses these findings as reasons to examine particular activities and their effects without assuming that active or passive use has one outcome for everyone.
+I use these findings as reasons to examine particular activities and their effects without assuming that active or passive use has one outcome for everyone.
 
 **Plain words** Time on the same service can involve different activities. Those activities are worth distinguishing, but the reviews do not supply one rule that will help everyone. Record what you actually do and how you feel afterward before deciding which habit to change.
 

@@ -23,7 +23,7 @@ The passage is explicit that the same things can be helps to one person and hind
 
 **Plain words** A life you copied from others needs no faculty but imitation, and it is not even comfortable for the person living it. A life laid out by the person living it fits better, and the variety of such lives is what everyone else gets to look at, since Mill's sentence about the noble object of contemplation continues directly into human life becoming rich, diversified and animating by the same process.
 
-### In the compendium
+### Here
 
 - [[D106 — Live at your own scale]]: the principle that reads Mill's chapter as an instruction about scale
 

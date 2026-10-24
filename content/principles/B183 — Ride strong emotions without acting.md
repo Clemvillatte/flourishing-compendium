@@ -20,7 +20,7 @@ He also writes that "To suppress our pain is not the teaching of inclusiveness. 
 
 The early texts have a related instruction for forceful thoughts. In MN 20 the Buddha says that if unskillful thoughts still arise, the monk "should attend to the relaxing of thought-fabrication with regard to those thoughts". The simile follows: a man walking quickly thinks, 'Why am I walking quickly? Why don't I walk slowly?' So he walks slowly, then stands, sits and lies down, "giving up the grosser posture" and taking up "the more refined one" ([MN 20, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)). The step is gradual and each stage is a little quieter.
 
-The compendium's reading is that a feeling can be fully felt while the choice to act is made separately.
+My reading is that a feeling can be fully felt while the choice to act is made separately.
 
 (Heart of the Buddha's Teaching, chapter on the aggregates; MN 20, trans. Thanissaro.)
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Morning intention” — Buddhist tradition.
 
-Morning intention is the practice of setting the day's direction at its start: one sentence of what the day is to stand for, what it is to practice, what matters today. The compendium's kernel keeps it that plain. The practice has two anchors: a Buddhist root text that trains action through repeated reflection, and a goal-progress literature that says what makes an intention carry through the day.
+Morning intention is the practice of setting the day's direction at its start: one sentence of what the day is to stand for, what it is to practice, what matters today. My kernel keeps it that plain. The practice has two anchors: a Buddhist root text that trains action through repeated reflection, and a goal-progress literature that says what makes an intention carry through the day.
 
 ### The Buddhist root (MN 61)
 
@@ -27,7 +27,7 @@ And the training formula the sutta closes with:
 
 > “Thus, Rahula, you should train yourself: ‘I will purify my bodily actions through repeated reflection. I will purify my verbal actions through repeated reflection. I will purify my mental actions through repeated reflection.’ That's how you should train yourself.” (same sutta)
 
-The morning-and-evening shape is the compendium's adaptation of this reflection: the sutta itself instructs reflection before, during and after each action, not a prescribed morning and evening routine. In the kernel's folding of the discipline to day scale, the day's actions are considered before they are done, with the review waiting at the day's end.
+The morning-and-evening shape is my adaptation of this reflection: the sutta itself instructs reflection before, during and after each action, not a prescribed morning and evening routine. In the kernel's folding of the discipline to day scale, the day's actions are considered before they are done, with the review waiting at the day's end.
 
 ### The research side (Koestner et al. 2002)
 
@@ -39,9 +39,9 @@ The study's conclusion:
 
 > “Thus, goal progress was maximized when people selected goals that were self-concordant and then furnished these goals with well-elaborated implementation intentions.” (same paper)
 
-The kernel's sentence carries the self-concordance half: the what and why of the day. It need not specify a cue, a time, a place or a response; a concrete action plan of that kind can be added to it, and the paper's finding is what makes the addition promising — progress was best when goals that were one's own were furnished with well-elaborated implementation intentions. Koestner's studies concerned goal progress generally; this morning ritual is the compendium's application and was not what the paper tested.
+The kernel's sentence carries the self-concordance half: the what and why of the day. It need not specify a cue, a time, a place or a response; a concrete action plan of that kind can be added to it, and the paper's finding is what makes the addition promising — progress was best when goals that were one's own were furnished with well-elaborated implementation intentions. Koestner's studies concerned goal progress generally; this morning ritual is my application and was not what the paper tested.
 
-### In the compendium
+### Here
 
 - [[K156 — Morning intention]] — the kernel: one written or spoken sentence for the day
 - [[S119 — Begin the morning with premeditation]] — the Stoic morning practice in the Cited-in lists
@@ -53,7 +53,7 @@ The kernel's sentence carries the self-concordance half: the what and why of the
 - [[The evening review]] — the day's other bookend, where the intention is checked against what happened
 - [[Implementation intentions]] — concrete action planning that can be added to a values intention
 - [[Daily architecture]] — the structure that makes the day's practices the default rather than fresh decisions
-- [[Right intention]] — the Buddhist factor the compendium pairs with the morning sentence
+- [[Right intention]] — the Buddhist factor I pair with the morning sentence
 - [[S134]] — the morning half of the routine; S134 supplies the daily container and the evening half
 ## Sources
 

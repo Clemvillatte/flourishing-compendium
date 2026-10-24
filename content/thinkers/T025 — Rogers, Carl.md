@@ -41,7 +41,7 @@ The paper adds a limit on the therapist-side demand: "It is not necessary (nor i
 - **Unconditional positive regard and incongruence** — conditions 4 and 2: the regard the client receives without conditions, and the client-side state of vulnerability or anxiety it works on ([Rogers 1957](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)). See [[Acceptance]], [[Conditional regard]], [[Cognitive-behavioural model]].
 - **The six-condition sufficiency claim** — "No other conditions are necessary. If these six conditions exist, and continue over a period of time, this is sufficient. The process of constructive personality change will follow" ([Rogers 1957](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)). See [[Motivational interviewing]], [[Deep listening]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Congruence]]
 - [[Empathic understanding]]
@@ -51,7 +51,7 @@ The paper adds a limit on the therapist-side demand: "It is not necessary (nor i
 - [[Empathy]]
 - [[Motivational interviewing]]
 
-## Everything connected in the wiki — the person-centered tradition
+## Everything connected here — the person-centered tradition
 
 Kept to the pages that carry or substantively apply Rogers's work — the six conditions, empathy, regard, the actualizing tendency; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

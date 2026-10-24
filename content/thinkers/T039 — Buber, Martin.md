@@ -31,14 +31,14 @@ The two word-pairs mark two ways a human being exists. As the IEP puts it, "An '
 - **Confirming the other** — making the other present as what they can become. See [[Confirming the other]].
 - **Hasidic renewal** — the legends and lived community of Hasidism as a paradigm of communal renewal. See [[Dialogical philosophy]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[I and Thou]]
 - [[The Between]]
 - [[Dialogue]]
 - [[Confirming the other]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 82-entry surname-match floor is not reproduced.
 

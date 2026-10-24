@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 47** — Let all joy be traced to the wish for others' happiness
 
-Shantideva's summary verse states the teaching directly: everyone who is happy is so through the wish for others' happiness, and everyone who is miserable through the wish for their own (VIII.129). The compendium presents the verse as a Buddhist teaching to check against one's own record, not as an established fact about the causes of happiness.
+Shantideva's summary verse states the teaching directly: everyone who is happy is so through the wish for others' happiness, and everyone who is miserable through the wish for their own (VIII.129). I present the verse as a Buddhist teaching to check against one's own record, not as an established fact about the causes of happiness.
 
 (Shantideva, Bodhicharyavatara, ch. 8.)
 

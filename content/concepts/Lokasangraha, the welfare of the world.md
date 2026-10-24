@@ -30,7 +30,7 @@ The chapter's logic is that even one who needs nothing remains bound to the exam
 
 The enlightened act as the unenlightened do, with the same work and a different aim. Welfare of the world is thus not charity added to duty; it is what makes duty worth doing for someone who has nothing left to gain.
 
-The compendium's principle on acting for the world's welfare and the principle on taking the vast motivation as the frame of daily life both grow from this root.
+My principle on acting for the world's welfare and the principle on taking the vast motivation as the frame of daily life both grow from this root.
 
 [[Y102 — Act for the world's welfare]]
 [[ST171 — Soma]]

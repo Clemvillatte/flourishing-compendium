@@ -16,7 +16,7 @@ Affect as information is the account, in feelings-as-information theory, that pe
 
 Feelings-as-information theory extends the mood work to moods, emotions, metacognitive experiences and bodily sensations. Its summary of the 1983 studies states that people attend to their momentary feelings in forming judgments, in effect asking themselves how they feel about something. Attributing feelings to an incidental source can reduce their perceived relevance; Schwarz also discusses overcorrection, a bias in the opposite direction, when people try to adjust without sufficient alternative information.
 
-### In the compendium
+### Here
 
 - [[AF001 — Treat affect as information, not as verdict]] — the direct application of the 1983 finding
 - [[A122 — Recognise that emotions shape judgment]] — judgments track current emotional state

@@ -16,7 +16,7 @@ Yan Yuan tells Confucius that when he crossed the gulf of Shang-shen, "the ferry
 
 The passage closes with his judgment: "All who attach importance to what is external show stupidity in themselves" ([same passage](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-For D073, the compendium reads the contrast as an image of presence disrupted by concern for an outcome. In the dialogue, the archer's skill stays the same while his performance worsens as the prize becomes more valuable ([Zhuangzi 19.4, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The practical question is whether attention is with the task or with the prize.
+For D073, I read the contrast as an image of presence disrupted by concern for an outcome. In the dialogue, the archer's skill stays the same while his performance worsens as the prize becomes more valuable ([Zhuangzi 19.4, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The practical question is whether attention is with the task or with the prize.
 
 **Principles:**
 - [[D073 — Don't over-plan — act from presence]]: the archer's underlying skill is the same in all the cases while his performance worsens as the prize becomes more valuable, and the ferryman's ability is internalized familiarity that has forgotten the water; both images turn on whether attention is with the task or with the prize ([Zhuangzi 19.4, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).

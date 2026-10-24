@@ -20,12 +20,12 @@ Chapter 31 of the Daodejing calls weapons "instruments of evil omen" and says th
 >
 > (Daodejing 31, Legge)
 
-Chapter 69 adds the reluctance at the start: "I do not dare to be the host (to commence the war); I prefer to be the guest (to act on the defensive)." It ends on the same note: "when opposing weapons are (actually) crossed, he who deplores (the situation) conquers." These passages concern warfare; applying them to ordinary disagreements is the compendium's interpretation.
+Chapter 69 adds the reluctance at the start: "I do not dare to be the host (to commence the war); I prefer to be the guest (to act on the defensive)." It ends on the same note: "when opposing weapons are (actually) crossed, he who deplores (the situation) conquers." These passages concern warfare; applying them to ordinary disagreements is my interpretation.
 
 (DDJ 69, 31.)
 
 **Plain words**
-Winning a dispute leaves you with choices about how to treat the people affected. As the compendium's everyday application, ask what harm remains and how to carry out the outcome respectfully.
+Winning a dispute leaves you with choices about how to treat the people affected. As my everyday application, ask what harm remains and how to carry out the outcome respectfully.
 
 *For example:* As a workplace analogy, imagine a manager dismissing an employee. The manager explains the decision respectfully and avoids presenting the dismissal to colleagues as a personal victory.
 

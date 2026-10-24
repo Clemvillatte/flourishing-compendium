@@ -17,7 +17,7 @@ The 2000 paper's account of how retrieval works, in its own words:
 
 ### Two pathways
 
-The two views the paper weighs are strategic monitoring of the environment for the target event and a more automatic reinstating of the intended action by anticipated conditions ([2000 abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775)). A current encyclopedia summary divides the field into event-based and time-based forms: remembering to act when specific circumstances occur, or at a particular point in time ([Wikipedia, Prospective memory](https://en.wikipedia.org/wiki/Prospective_memory)). The compendium lists the concept in two principles: E008 (Practise the structure of temporality), whose page concerns the structure of lived time, and AT035 (Recognise and work with mind-wandering), whose page works with where attention goes when it is not on task.
+The two views the paper weighs are strategic monitoring of the environment for the target event and a more automatic reinstating of the intended action by anticipated conditions ([2000 abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775)). A current encyclopedia summary divides the field into event-based and time-based forms: remembering to act when specific circumstances occur, or at a particular point in time ([Wikipedia, Prospective memory](https://en.wikipedia.org/wiki/Prospective_memory)). I list the concept in two principles: E008 (Practise the structure of temporality), whose page concerns the structure of lived time, and AT035 (Recognise and work with mind-wandering), whose page works with where attention goes when it is not on task.
 
 ## Sources
 

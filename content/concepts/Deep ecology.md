@@ -21,7 +21,7 @@ The entry highlights a second feature, Næss's rejection of "atomistic individua
 
 The entry notes that biospheric egalitarianism "was modified in the 1980s to the weaker claim that the flourishing of both human and non-human life has value in itself, without any commitment to these values being equal." Deep ecology then "ceased to be a specific doctrine" and became a "platform" of eight points on which different traditions, "whether indigenous, Christian, Buddhist, Daoist, process philosophy, or whatever", could agree. It also records a criticism: Næss "failed to explain in any detail how to make sense of the idea that oysters or barnacles, termites or bacteria could have interests of any morally relevant sort at all" ([SEP, §3.1](https://plato.stanford.edu/entries/ethics-environmental/)).
 
-### In the compendium
+### Here
 
 - [[R118 — Practise deep ecology]] works from Næss's 1973 summary directly, and gives the practice side of this position.
 

@@ -22,7 +22,7 @@ And the measurement result that settled much of the dispute: "By categorizing st
 
 Two lessons carry the concept's weight. First, buffering depends on perceived availability: what protects is the belief that suitable help would come, not the raw size of one's network. Second, the support must fit the stressor — the model holds that resources buffer only insofar as they match the needs a specific event creates. Network integration, by contrast, benefits well-being regardless of stress, which is why both models survive rather than one eliminating the other.
 
-The compendium's application: in adversity, cultivated support is not generic comfort but a match between a specific demand and a specific resource; in ordinary times, simple embeddedness in relationships does quiet, steady work.
+My application: in adversity, cultivated support is not generic comfort but a match between a specific demand and a specific resource; in ordinary times, simple embeddedness in relationships does quiet, steady work.
 
 ## Field
 

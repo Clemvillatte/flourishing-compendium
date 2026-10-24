@@ -15,7 +15,7 @@ Family resemblance is Wittgenstein's name for what binds a concept's instances w
 
 The examination of games ends with a network of overlapping similarities rather than a shared essence: "we see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail" ([§66](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf)). The same treatment is extended to numbers: "the kinds of number form a family in the same way", and "we extend our concept of number as in spinning a thread we twist fibre on fibre", the strength of the thread lying "in the overlapping of many fibres" rather than in one fibre running through the whole ([§67](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf)). The target of the discussion is the demand for essences; Wittgenstein is defusing the objection that he has nowhere said what is common to all language-games.
 
-### In the compendium
+### Here
 
 - [[P011 — Refuse essences — things have no fixed inner nature]] — carries family resemblance as its philosophy parallel
 

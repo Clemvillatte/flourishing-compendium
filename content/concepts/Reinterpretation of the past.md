@@ -29,11 +29,11 @@ The outcome of such a history is a concept too dense to open:
 
 > "The past general history of punishment, the history of its employment for the most diverse ends, crystallises eventually into a kind of unity, which is difficult to analyse into its parts, and which, it is necessary to emphasise, absolutely defies definition." (Nietzsche, Genealogy of Morals II.13, [Horace B. Samuel translation, Gutenberg](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
 
-The interest for a reader is double. Nietzsche's claim is about power: whoever is currently stronger rewrites what things mean. The compendium places this historical argument alongside its memory-updating principle, CO060, without equating them: the juxtaposition of a historical rewriting and a laboratory finding about reactivated memories is the compendium's own reading, offered as an essay angle rather than a claim that Nietzsche and the memory researchers describe the same mechanism. The two meet in the practice of narrative: the events of a life stay recognizably the same while what they mean is rewritten by whoever holds the pen.
+The interest for a reader is double. Nietzsche's claim is about power: whoever is currently stronger rewrites what things mean. I place this historical argument alongside its memory-updating principle, CO060, without equating them: the juxtaposition of a historical rewriting and a laboratory finding about reactivated memories is my own reading, offered as an essay angle rather than a claim that Nietzsche and the memory researchers describe the same mechanism. The two meet in the practice of narrative: the events of a life stay recognizably the same while what they mean is rewritten by whoever holds the pen.
 
-### In the compendium
+### Here
 
-- [[CO060 — Use memory for growth — reconsolidation allows updating]] — the compendium's principle that places memory updating alongside this concept's historical account of rewriting
+- [[CO060 — Use memory for growth — reconsolidation allows updating]] — my principle that places memory updating alongside this concept's historical account of rewriting
 
 ## Related concepts
 

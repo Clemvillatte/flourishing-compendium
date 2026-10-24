@@ -15,12 +15,12 @@ The decisive act came in 1882. William James was taking a one-year sabbatical fr
 
 His later ethical writings are summarized by the Stanford Encyclopedia as stressing "the centrality of action intended to realize a sound ideal that one has freely embraced" ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/royce/)). His name for that binding was loyalty. The UCLA account of his work reports that, in his writing, loyalty gives life meaning and cures hesitancy, and that happiness and satisfaction come from devotion to a purpose outside oneself; it describes him as believing in tightly binding oneself to others to benefit a noble cause, which would give direction as to what to do and how to live ([UCLA Newsroom](https://newsroom.ucla.edu/magazine/josiah-royce-hall-philosopher-building-university)).
 
-The compendium reads the 1882 decision as a worked example of the marriage between ideals and virtues. An ideal held alone, in a barren town, by a lonely boy, gives no reality; the devotion alone gives no direction. On this reading, Royce's significance was created at the point where the two fused: a freely embraced ideal, and a man who resigned his post and crossed a continent to serve it.
+I read the 1882 decision as a worked example of the marriage between ideals and virtues. An ideal held alone, in a barren town, by a lonely boy, gives no reality; the devotion alone gives no direction. On this reading, Royce's significance was created at the point where the two fused: a freely embraced ideal, and a man who resigned his post and crossed a continent to serve it.
 
 ---
 
 **Principles:**
-- [[P183 — Make your life significant by fusing ideal with active virtue|P183. Make your life significant]] — the compendium reads Royce's 1882 decision as an ideal joined to active devotion.
+- [[P183 — Make your life significant by fusing ideal with active virtue|P183. Make your life significant]] — I read Royce's 1882 decision as an ideal joined to active devotion.
 **Resonates:** [[Community]], [[The will to meaning]]
 
 ## Sources

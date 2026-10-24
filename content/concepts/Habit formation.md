@@ -20,7 +20,7 @@ The most-cited timeline comes from Phillippa Lally's 2010 study. Ninety-six volu
 
 Because the association is with context rather than goals, habit formation works best where the cue is stable: a fixed time, place or preceding action. The Wood-Neal model's constraints run both ways. Habit associations accrue slowly and do not shift appreciably with current goal states or infrequent counterhabitual responses, so an intention by itself has limited capacity to break or build a habit. The cues do the work.
 
-### In the compendium
+### Here
 
 - [[MO038 — Recognise that habits take time — do not expect immediate automaticity]] — the 18-254 day range behind the patience.
 - [[MO035 — Understand that habits are the foundation of sustainable motivation]] — cue-triggered automaticity that outlives motivation.

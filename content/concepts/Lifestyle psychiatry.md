@@ -17,9 +17,9 @@ Lifestyle psychiatry names the use of health behaviors, exercise, diet and sleep
 
 The term was popularized by Noordsy, the editorial notes. On the evidence, it points to meta-analytic support on each front: "The role of physical activity in psychiatry is particularly well researched, with a number of recent meta-analyses showing that physical activity can aid in the prevention (3, 4) and management (5–9) of multiple symptoms of mental illness." On diet: "the potential impact of nutrition on mental health is also gaining increasing recognition due to large-scale meta-analyses of randomized controlled trials (RCTs) showing that both dietary interventions (11) and certain nutrient supplements (12) can significantly reduce symptoms of various psychiatric disorders."
 
-### In the compendium
+### Here
 
-The compendium's principles carry the field's premise: care for the body as the vessel and root of everything else one values, and treat mind and life as continuous rather than separate departments.
+My principles carry the field's premise: care for the body as the vessel and root of everything else one values, and treat mind and life as continuous rather than separate departments.
 
 - [[D036 — Treasure your life and health as the vessel of everything]]
 - [[D141 — Care for life as the root of all endeavor]]

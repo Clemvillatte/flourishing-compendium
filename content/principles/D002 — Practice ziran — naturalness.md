@@ -20,7 +20,7 @@ The last line says the Dao follows nothing outside itself. The principle asks th
 
 > The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it. ([Legge, Tao Teh King 29.1](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The chapter is about ruling, so applying it to one's own life is the compendium's reading. It is a fair one: what is forced has to be held up by effort, and what is natural holds itself.
+The chapter is about ruling, so applying it to one's own life is my reading. It is a fair one: what is forced has to be held up by effort, and what is natural holds itself.
 
 (DDJ 25 and 29, trans. Legge.)
 

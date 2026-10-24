@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 6** — Know that the self is embodied: the body is part of who you are
 
-William James calls the body "the innermost part of the material Self." ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) The compendium uses this description as a starting point for thinking about bodily care as care for oneself.
+William James calls the body "the innermost part of the material Self." ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) I use this description as a starting point for thinking about bodily care as care for oneself.
 
 (William James, "The Principles of Psychology," Vol. I, 1890, ch. X; Barrett et al., 2019; Craig, 2009.)
 
@@ -22,7 +22,7 @@ James includes the body within his account of the material self. ([The Principle
 
 > "The body is the innermost part of the material Self in each of us; and certain parts of the body seem more intimately ours than the rest. The clothes come next." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
-The compendium recommends including bodily care when considering care of yourself. This is a practical application of James's account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
+I recommend including bodily care when considering care of yourself. This is a practical application of James's account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
 **Plain words**
 You are not a mind renting a body. When the body is tired or hurt, it is you who is tired or hurt, not your transport. So caring for yourself has to include the unglamorous maintenance: sleep, food, movement. A plan for self-improvement that skips them is a plan built on a crumbling foundation.

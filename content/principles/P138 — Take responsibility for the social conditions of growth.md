@@ -22,7 +22,7 @@ In chapter 1 he puts the same point about society itself:
 
 On this account school, family and workplace belong to the process of growing, and so those who run them take part in other people's growth.
 
-The step the compendium draws from this is its own: if you set the conditions in a room, a team or a household, you share responsibility for what grows there.
+The step I draw from this is its own: if you set the conditions in a room, a team or a household, you share responsibility for what grows there.
 
 (Dewey, Democracy and Education, ch. 1 and 2.)
 

@@ -25,7 +25,7 @@ For Peirce this is a feature of science's self-correcting method rather than a s
 
 ### Fallibilism is not skepticism
 
-The distinction that organises the compendium's use: fallibilism is not skepticism. The skeptic withholds assent; the fallibilist assents, to the best-tested conclusion available, while holding the assent revisable. It is the epistemic version of the middle path between dogmatism and relativism, and it is what makes [[The examined life]] a permanent practice rather than a completed audit.
+The distinction that organises my use: fallibilism is not skepticism. The skeptic withholds assent; the fallibilist assents, to the best-tested conclusion available, while holding the assent revisable. It is the epistemic version of the middle path between dogmatism and relativism, and it is what makes [[The examined life]] a permanent practice rather than a completed audit.
 
 ### The practical reading
 
@@ -37,9 +37,9 @@ In any argument, naming in advance the observation that would change your mind, 
 
 Its Peircean twin is [[The pragmatic maxim]], meaning and inquiry where certainty is refused.
 
-### In the compendium
+### Here
 
-- [[P010 — Hold every belief as provisional — fallibilism]] — the compendium's principle form
+- [[P010 — Hold every belief as provisional — fallibilism]] — my principle form
 - [[P047 — Give up the quest for certainty]] and [[P052 — Hold hypotheses, not positions]] — the assent held revisable
 - [[P032 — Walk the middle path between objectivism and relativism]] — the middle path
 - [[P051 — Take error as information]] — error as information

@@ -21,7 +21,7 @@ Peirce gives the rule in "How to Make Our Ideas Clear" (1878), as the way to rea
 
 The first grade is mere familiarity, which Peirce says "only amounts to a subjective feeling of mastery which may be entirely mistaken". The second is a definition. The third asks what difference the idea could make to experience. His example, in section III, is hardness: "There is absolutely no difference between a hard thing and a soft thing so long as they are not brought to the test."
 
-### Where the compendium goes further
+### Where I go further
 
 The principle says to spell out what you would "feel differently". Peirce is stricter. He says that if we think we have any idea beyond the thing's conceived sensible effects, "we deceive ourselves, and mistake a mere sensation accompanying the thought for a part of the thought itself." The test is about conceivable effects, not about how the idea feels.
 

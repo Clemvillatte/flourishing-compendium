@@ -7,7 +7,7 @@ file: "The fine line between inspiration and mania"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The fine line between inspiration and mania is the difference between being animated by what is real and being carried off by the intoxication of possibility. The phrase is the compendium's own heading; the original entry names Kierkegaard's Either/Or, whose aesthete lives exactly on this line.
+The fine line between inspiration and mania is the difference between being animated by what is real and being carried off by the intoxication of possibility. The phrase is my own heading; the original entry names Kierkegaard's Either/Or, whose aesthete lives exactly on this line.
 
 ### Kierkegaard's line
 
@@ -17,9 +17,9 @@ The aesthete's demand is for possibility itself, kept always within reach:
 
 The test Kierkegaard's other writings put against this intoxication is whether the contents of a life are actually there. His knight of infinite resignation first makes sure of his love, "for his soul is too sound and too proud to waste itself on a mere intoxication" (Fear and Trembling, same volume). Inspiration fastens on something real and serves it; the intoxication of possibility feeds on the shimmer of what might be, and needs nothing to be there at all.
 
-### In the compendium
+### Here
 
-The compendium pairs the distinction with the clinical and practical markers that separate the two states.
+I pair the distinction with the clinical and practical markers that separate the two states.
 
 - [[AF080 — Recognise bipolar disorder's specific affective pattern — it is not mood variability]] — the psychiatric line: duration, and effect on behavior and functioning
 - [[AT033 — Learn to work with attentional fatigue — recognise and respond to depletion]] — Kaplan's attention restoration, the ordinary economy of mental energy

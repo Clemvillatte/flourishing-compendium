@@ -14,7 +14,7 @@ Go to bed and wake at the same time each day, including weekends. The claim that
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the study below measured regularity, it did not prescribe a fix.*
+*Steps are my own protocol; the study below measured regularity, it did not prescribe a fix.*
 
 1. Fix the wake time first, weekends included; it anchors the whole rhythm.
 2. Let the bedtime follow the wake time rather than the evening's appetite for one more thing.

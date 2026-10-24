@@ -34,7 +34,7 @@ Frankl "was expelled from Adler's circle when he insisted that meaning was the c
 - **Noogenic neurosis and the existential vacuum** — the logotherapeutic concepts of noogenic neurosis and existential crisis, first described by Frankl in the 1950s, entered the ICD 11 as the demoralisation crisis: hopelessness, meaninglessness and existential distress ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[E065 — Practise noogenic neurosis awareness|E065]], [[Noogenic neurosis]].
 - **Self-transcendence and happiness as by-product** — See [[E060 — Practise self-transcendence|E060]], [[Self-transcendence]], [[Happiness as by-product]].
 - **Meaning-centred therapy** — logotherapy, which "Frankl describes ... as 'the Third Viennese School of Psychotherapy'" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[Logotherapy]], [[Meaning-centred therapy]], [[The search for meaning]].
-## Connection to the compendium
+## Connection to me
 
 - [[Logotherapy]]
 - [[The will to meaning]]
@@ -43,7 +43,7 @@ Frankl "was expelled from Adler's circle when he insisted that meaning was the c
 - [[Self-transcendence]]
 - [[Tragic optimism]]
 
-## Everything connected in the wiki — the logotherapy tradition
+## Everything connected here — the logotherapy tradition
 
 Kept to Frankl's own tradition — his logotherapy principles and the pages that carry his ideas; parallels from other traditions stay on their own pages.
 

@@ -34,9 +34,9 @@ The EEMM explains by organising. Its grid has six psychological dimensions (affe
 
 The same grid reads a personal stuck pattern, hypothetically and possibly in interaction: procrastination might involve a motivation-dimension process (avoidance selected by short-term relief), an attention-dimension process (threatening tasks capture attention), or a sociocultural-level process (a workplace that punishes mistakes). The EEMM's value is that it keeps these hypotheses distinct instead of collapsing them into one label. (Illustrative scenario, not a reported client or study result.)
 
-### In the compendium
+### Here
 
-The compendium's operations apply this scaffold to the writing of new practice kernels and to rewrites (not as a blanket retrofit of the existing corpus): the six dimensions and the variation-selection-retention logic are the standing method for describing what a practice does.
+My operations apply this scaffold to the writing of new practice kernels and to rewrites (not as a blanket retrofit of the existing corpus): the six dimensions and the variation-selection-retention logic are the standing method for describing what a practice does.
 
 ## Related concepts
 

@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 45** — Understand self-cherishing as the root error
 
-In chapter 8, Shantideva attributes violence, fear and suffering to grasping at a self (VIII.134) and recommends exchanging self and others (VIII.120). The compendium's application is a perspective-taking exercise: notice the self-first reflex and what it is holding, and try taking the other's case as yours.
+In chapter 8, Shantideva attributes violence, fear and suffering to grasping at a self (VIII.134) and recommends exchanging self and others (VIII.120). My application is a perspective-taking exercise: notice the self-first reflex and what it is holding, and try taking the other's case as yours.
 
 (Shantideva, Bodhicharyavatara, ch. 8.)
 
 > Whatever violence there is in the world, and as much fear and suffering as there is, all of it arises from grasping at a self: so what use is that terrible demon to me? (Shantideva, Bodhicharyavatara VIII.134, Alexander Berzin translation, 2004)
 
-**Plain words** The verse says the world's violence and fear grow out of gripping a self. The chapter's prescribed practice is to swap places in imagination, and the compendium turns that into an exercise: when two cases compete for your attention, try taking the other's as yours and see what changes.
+**Plain words** The verse says the world's violence and fear grow out of gripping a self. The chapter's prescribed practice is to swap places in imagination, and I turn that into an exercise: when two cases compete for your attention, try taking the other's as yours and see what changes.
 
 *For example:* in a queue, someone pushes ahead of you; before deciding what to feel, you ask what the moment looks like from their side and from the bystanders'.
 

@@ -19,7 +19,7 @@ The research lineage runs through learned helplessness and attribution theory: 1
 
 The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses found a weak overall correlation between mindset and achievement (r = .10 across 273 effect sizes, N = 365,915) and a small intervention effect (d = 0.08 across 43 effect sizes, N = 57,155): "Overall effects were weak for both meta-analyses." The same analyses found some support for one tenet of the theory, namely that students of low socioeconomic status or who are academically at risk might benefit from mindset interventions. Reviewers also describe mindset effects as meaningfully heterogeneous across persons and situations, and note that few studies test whether intervention gains endure or transfer to other contexts.
 
-### In the compendium
+### Here
 
 - [[SE062 — Cultivate growth orientation — see self as developable]] — the dedicated principle; its own notes record that effects are real but modest and context-dependent, larger for at-risk students.
 - [[P015 — Make growth your criterion of value]] — ties malleability beliefs to persistence and outcomes.

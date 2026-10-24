@@ -21,7 +21,7 @@ The classic names the states that knock the mind crooked. In Legge's rendering, 
 
 > "When the mind is not present, we look and do not see; we hear and do not understand; we eat and do not know the taste of what we eat." (The Great Learning, trans. James Legge, [Chinese Text Project](https://ctext.org/liji/da-xue/ens))
 
-### In the compendium
+### Here
 
 - [[R063 — Practise the rectification of the mind (zhengxin)]] — the principle that carries the practice
 - [[Y066 — Prepare the practice environment]] — the kernel that sets the outer conditions for it

@@ -15,7 +15,7 @@ Psychological needs theory is the Deci and Ryan account, within self-determinati
 
 Basic psychological needs theory (BPNT) formalized three propositions: there are three basic psychological needs, competence, autonomy and relatedness, universal and essential for the psychological well-being and optimal functioning of all people; satisfaction versus frustration of these needs will impact wellness invariantly; and social contexts that support the three needs will promote well-being and effectiveness, whereas those that interfere with the needs will promote ill-being and less effective functioning. The theory further argues that all three needs are essential, such that if any is thwarted there will be discernible negative consequences. The entry also notes the cross-cultural programme: BPNT research spans developmental epochs and cultural settings, supported by cross-culturally validated instruments.
 
-### In the compendium
+### Here
 
 - [[MO002 — Know that motivation serves three basic psychological needs — autonomy, competence, and relatedness]] — the direct principle carrying the Ryan and Deci postulate.
 - [[PP006 — Satisfy the need for autonomy]] — autonomy as self-endorsed action, distinct from independence.

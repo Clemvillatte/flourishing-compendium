@@ -23,9 +23,9 @@ Derrida radicalizes the limit. "If there is forgiveness, it must forgive the unf
 
 The clinical literature is more modest and testable. A review of five meta-analyses of forgiveness interventions found they raise forgiveness relative to no treatment, with more hope and less depression and anxiety; process-based programmes beat shorter decision-based ones, and effective components include recalling the offense, empathizing with the offender, committing to forgive and overcoming unforgiveness ([Recine 2015](https://pubmed.ncbi.nlm.nih.gov/25487180/)). The reviewers flag inconsistent measures and no agreed definition of forgiveness, which keeps the evidence practical rather than settled.
 
-### In the compendium
+### Here
 
-R005 "Practise forgiveness" frames it as releasing the debt, not the memory, with Tutu's Truth and Reconciliation Commission work as the political case. B163 "Reconcile quickly: don't let conflict fester" gives it a timer. The compendium's Ubuntu line marks the TRC's restorative amnesty as the concept's real-world proof, and the Lord's Prayer entry grounds the debt-release image in forgiving as one has been forgiven.
+R005 "Practise forgiveness" frames it as releasing the debt, not the memory, with Tutu's Truth and Reconciliation Commission work as the political case. B163 "Reconcile quickly: don't let conflict fester" gives it a timer. My Ubuntu line marks the TRC's restorative amnesty as the concept's real-world proof, and the Lord's Prayer entry grounds the debt-release image in forgiving as one has been forgiven.
 
 ## Related concepts
 

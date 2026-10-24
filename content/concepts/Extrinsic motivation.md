@@ -29,7 +29,7 @@ The authors add that "the more one internalizes the reasons for an action and as
 
 The original entry cites Kasser and Ryan (1993), and that study is about something related but distinct: extrinsic aspirations, specifically wealth. Across three studies, they found that when money-related values and expectancies are more central to a person than other self-relevant values, they are negatively associated with adjustment and well-being ([Kasser & Ryan, 1993, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/8366427/)). In the third study, a non-college sample, a high centrality of financial aspirations went with lower interview-rated global adjustment and social productivity, and more behavioural disorders. The abstract concerns goal content (what a person wants), not the reason behind an act (why they do it), so this compendium should keep the two ideas apart. A follow-up on attaining such goals reports that attainment of extrinsic aspirations (money, fame, image) was unrelated to need satisfaction and related slightly negatively to psychological health ([Niemiec, Ryan & Deci, 2009, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2736104/)).
 
-### In the compendium
+### Here
 
 - MO003 sets out the intrinsic and extrinsic contrast, drawing on Ryan and Deci's own definitions.
 - MO062 applies it to rewards, via the Deci, Koestner and Ryan meta-analysis.

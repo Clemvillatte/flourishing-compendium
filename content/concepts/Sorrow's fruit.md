@@ -19,11 +19,11 @@ Gibran pictures joy and sorrow as inseparable, and the chapter argues the point 
 
 > "When you are joyous, look deep into your heart and you shall find it is only that which has given you sorrow that is giving you joy. When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight." (Kahlil Gibran, The Prophet, "On Joy and Sorrow", [Project Gutenberg](https://www.gutenberg.org/cache/epub/58585/pg58585.txt))
 
-The chapter also refuses the ranking question. When some say joy is greater and others say sorrow is the greater, the answer is that they are inseparable: together they come, and when one sits alone at the board, the other is asleep upon the bed. The cup and lute images carry the same claim: the cup that holds the wine is the cup that was burned in the potter's oven, and the lute that soothes the spirit is wood that was hollowed with knives. This is a literary image offered as a way of seeing grief; the compendium's principle SP095 carries the practical edge it points to, converting suffering into understanding at the moment of loss.
+The chapter also refuses the ranking question. When some say joy is greater and others say sorrow is the greater, the answer is that they are inseparable: together they come, and when one sits alone at the board, the other is asleep upon the bed. The cup and lute images carry the same claim: the cup that holds the wine is the cup that was burned in the potter's oven, and the lute that soothes the spirit is wood that was hollowed with knives. This is a literary image offered as a way of seeing grief; my principle SP095 carries the practical edge it points to, converting suffering into understanding at the moment of loss.
 
 ## Related concepts
 
-- [[Grief for what passes]] — the same pairing of loss and meaning, in the compendium's own terms
+- [[Grief for what passes]] — the same pairing of loss and meaning, in my own terms
 - [[Impermanence]] — the Buddhist ground of the same consolation
 - [[Complicated grief research]] — the clinical side of the same subject
 - [[Ecological grief]] — grief felt over ecological loss

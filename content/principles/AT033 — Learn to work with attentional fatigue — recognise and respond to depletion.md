@@ -28,7 +28,7 @@ A later review of the theory describes the mechanism:
 
 > "The restorative attentional mode is soft fascination, which is a form of involuntary attention or effortless attention." ([Pham & Sanocki, 2024, same review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11050943/))
 
-The theory and the review describe a mechanism, not a set interval of work or a fixed list of warning signs. The compendium's practice is to notice the pattern and pause, without diagnosing the cause or promising a measured recovery.
+The theory and the review describe a mechanism, not a set interval of work or a fixed list of warning signs. My practice is to notice the pattern and pause, without diagnosing the cause or promising a measured recovery.
 
 **Plain words** The theory's claim: effortful, directed attention holds focus by suppressing distractions, and it depletes with use — fatigue and decreased performance follow. The restorative mode is effortless attention, soft fascination, which lets the directed system recover. The pattern to know: after long focused work, performance drops; recovery needs the right kind of experience, not just time.
 

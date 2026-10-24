@@ -17,7 +17,7 @@ Range-frequency theory is Allen Parducci's account of category judgment. His own
 
 The judgment is, in Parducci's phrasing, "a compromise or weighted average" of two values: the range value, the stimulus's proportion of the contextual range lying below it, and the frequency value, its percentile rank in the contextual set. The frequency side is what makes ratings spread out across the categories: each category tends to be used for a fixed proportion of judgments.
 
-### In the compendium
+### Here
 
 - [[CO021 — Understand the sunk cost fallacy — past investment distorts present decisions]]
 - [[K050 — Reflect on this life's rarity as urgency, not as dread]]

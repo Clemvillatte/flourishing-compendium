@@ -18,7 +18,7 @@ Piti, usually translated rapture or joy, is one of the seven factors of awakenin
 
 The simile is a man who wants "to make a small fire blaze up" and puts dry grass, dry cow dung and dry sticks on it. Rapture is on the list of what lifts a flat mind. The same sutta says that for a restless mind the right factors are calm, concentration and equanimity, and that using the first group then is "the wrong time".
 
-So in this sutta rapture is a working tool and not a reward for progress. The compendium's extension is that a practice running on grim effort when the mind is flat is using the wrong factor for the state it is in.
+So in this sutta rapture is a working tool and not a reward for progress. My extension is that a practice running on grim effort when the mind is flat is using the wrong factor for the state it is in.
 
 (SN 46.53, trans. Thanissaro.)
 

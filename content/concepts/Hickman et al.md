@@ -27,7 +27,7 @@ The authors say climate anxiety is often based on "constructive or practical anx
 
 The study used non-standardised measures because none existed for its purposes, and it used a yes, no or prefer-not-to-say scale. In the authors' words, "without measures of mental health, these results cannot assess how or whether climate anxiety is affecting mental health outcomes in these populations". The country samples were equal-sized and not population-weighted, and the online polling meant samples were "not fully representative of the countries' populations". The Lancet lists the funder as Avaaz.
 
-### In the compendium
+### Here
 
 - [[SO070 — Treat climate change as a sociocultural stressor]] cites this concept for the climate anxiety evidence.
 

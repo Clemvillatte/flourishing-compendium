@@ -23,9 +23,9 @@ The sutta states its own claim: "Mindfulness of in-&-out breathing, when develop
 
 ### What it is not
 
-Anapanasati is not presented in the sutta as a relaxation technique. Its first instruction is to discern the breath as it is, long or short, and the later steps move on to feelings, mind and mental qualities. The compendium keeps slow-breathing research on a separate line, in the kernel on slow breathing.
+Anapanasati is not presented in the sutta as a relaxation technique. Its first instruction is to discern the breath as it is, long or short, and the later steps move on to feelings, mind and mental qualities. I keep slow-breathing research on a separate line, in the kernel on slow breathing.
 
-### In the compendium
+### Here
 
 - [[B038 — Practice mindfulness of breathing (anapanasati)]] — teaches the practice from the sutta's posture and its long-or-short instruction
 - [[AT049 — Learn to use breath as an attentional anchor — always available, always stabilising]] — treats the breath as an always-available anchor, citing slow-breathing research as a separate evidence line

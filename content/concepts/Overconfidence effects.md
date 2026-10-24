@@ -17,15 +17,15 @@ The three effects do not move together. The abstract's summary of the task-depen
 
 The practical lesson is diagnostic: before calling someone overconfident, say which of the three it is, because the word names different errors with different causes.
 
-### In the compendium
+### Here
 
 - [[D075 — Don't underestimate challenges]] cites this concept as a psychology parallel.
 
 ## Related concepts
 
-- [[Planning fallacy]] — the compendium's page on the planning fallacy
-- [[Dunning-Kruger effect]] — the compendium's page on the Dunning-Kruger effect
-- [[Optimism]] — the compendium's page on optimism
+- [[Planning fallacy]] — my page on the planning fallacy
+- [[Dunning-Kruger effect]] — my page on the Dunning-Kruger effect
+- [[Optimism]] — my page on optimism
 
 ## Sources
 

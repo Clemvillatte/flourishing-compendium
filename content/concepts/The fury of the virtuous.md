@@ -19,7 +19,7 @@ The essay's own image for the fury: the lambs, unable to fight the birds of prey
 
 ### The honest use
 
-The concept survives its polemics. Moral anger is real anger, and the more certain it feels, the more it deserves an audit: is this a defense of a value, or an imaginary revenge wearing one? The compendium's research-side treatment of indignation, that it should be handled carefully because it escalates, is the same caution without the genealogy.
+The concept survives its polemics. Moral anger is real anger, and the more certain it feels, the more it deserves an audit: is this a defense of a value, or an imaginary revenge wearing one? My research-side treatment of indignation, that it should be handled carefully because it escalates, is the same caution without the genealogy.
 
 ## Related concepts
 

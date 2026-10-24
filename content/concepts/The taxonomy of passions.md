@@ -27,7 +27,7 @@ Then joy and sadness, in the Definitions of the Affects:
 
 The claim that everything else comes from these three is explicit. Spinoza writes that "the affects can then be reduced to three primary affects, which are nothing but these three [desire; joy or pleasure; and sadness or pain], each one generally being called by a different name on account of its varying relations and extrinsic denominations" ([Ethics III, General Definition of the Affects XLVIII, quoted in the SEP entry on 17th-18th century emotion theories](https://seop.illc.uva.nl/entries/emotions-17th18th/LD5Spinoza.html)). And the combinatorial principle: "There are as many species of Joy, Sadness and Desire, and consequently of each affect composed of these (like vacillation of mind) or derived from them (like love, hate, hope, fear, etc.), as there are species of objects by which we are affected" ([Ethics IIIp56, quoted in the SEP](https://plato.stanford.edu/entries/spinoza-psychological/)).
 
-The compendium pairs this taxonomy with Buddhist affect theory, where the classification runs by hindrance rather than by object. See also Know the five hindrances (B034) for the Buddhist counterpart.
+I pair this taxonomy with Buddhist affect theory, where the classification runs by hindrance rather than by object. See also Know the five hindrances (B034) for the Buddhist counterpart.
 
 ## Related concepts
 

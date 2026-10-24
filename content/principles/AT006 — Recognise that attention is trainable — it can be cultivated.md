@@ -22,7 +22,7 @@ The authors call mindfulness a promising tool, but also report evidence against 
 
 ### Scope
 
-The blanket claim "all improve it" in the Practice section below is stronger than this review supports ([Prakash et al., 2020, Summary and Final Thoughts](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). Environmental design is the compendium's practical addition, not a finding of this mindfulness review.
+The blanket claim "all improve it" in the Practice section below is stronger than this review supports ([Prakash et al., 2020, Summary and Final Thoughts](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)). Environmental design is my practical addition, not a finding of this mindfulness review.
 
 ### Plain words
 

@@ -19,12 +19,12 @@ The definition carries its own negative markers: "It is not aspiration, for it i
 
 (Camus, The Myth of Sisyphus, "The Myth of Sisyphus," [O'Brien translation](https://www.sccs.swarthmore.edu/users/00/pwillen1/lit/msysip.htm))
 
-The compendium's principle [[E056 — Practise revolt]] works the stance into practice; [[E055]] supplies the absurd recognition revolt presupposes. What distinguishes revolt from despair is that nothing is being asked of the world: the absurd is kept alive rather than settled, and the person living it stays in full view of the confrontation rather than escaping it.
+My principle [[E056 — Practise revolt]] works the stance into practice; [[E055]] supplies the absurd recognition revolt presupposes. What distinguishes revolt from despair is that nothing is being asked of the world: the absurd is kept alive rather than settled, and the person living it stays in full view of the confrontation rather than escaping it.
 
 ## Related concepts
 
 - [[The absurd]] — the confrontation revolt sustains rather than resolves
-- [[Defiance]] — the adjacent stance in the compendium's M-S07 layer
+- [[Defiance]] — the adjacent stance in my M-S07 layer
 
 ## Sources
 

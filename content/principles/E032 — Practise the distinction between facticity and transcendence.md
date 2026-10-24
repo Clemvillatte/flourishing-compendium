@@ -16,7 +16,7 @@ In his discussion of bad faith in Being and Nothingness, Sartre treats facticity
 
 > The basic concept which is thus engendered, utilizes the double property of the human being, who is at once a facticity and a transcendence. These two aspects of human reality are and ought to be capable of a valid coordination. But bad faith does not wish either to coordinate them nor to surmount them in a synthesis. (Sartre, Being and Nothingness, Part One, ch. 2, Barnes trans., p. 56; passage checked against [the Barnes translation text (dhspriory.org)](https://dhspriory.org/kenny/PhilTexts/Sartre/BeingAndNothingness.pdf), page number corroborated by [Film-Philosophy](https://www.euppublishing.com/doi/full/10.3366/film.2020.0135))
 
-The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/) describes Sartre's café waiter as someone who plays at being a café waiter, and quotes him: "I am a waiter in the mode of being what I am not" (Being and Nothingness [1956: 60]). The compendium uses the distinction as a reflection exercise: describe what is already the case in your situation separately from the projects you are considering within it.
+The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/) describes Sartre's café waiter as someone who plays at being a café waiter, and quotes him: "I am a waiter in the mode of being what I am not" (Being and Nothingness [1956: 60]). I use the distinction as a reflection exercise: describe what is already the case in your situation separately from the projects you are considering within it.
 
 (Sartre, Being and Nothingness, trans. Barnes, 1956, Part One, ch. 2; as quoted in the Stanford Encyclopedia of Philosophy, §4.2.)
 

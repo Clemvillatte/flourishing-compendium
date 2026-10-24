@@ -17,7 +17,7 @@ The passage is built on a double claim: the will is subject to law, and it is th
 
 ### The failure mode
 
-Heteronomy is the will going out of itself for its law: "If the will seeks the law which is to determine it anywhere else than in the fitness of its maxims to be universal laws of its own dictation, consequently if it goes out of itself and seeks this law in the character of any of its objects, there always results heteronomy. The will in that case does not give itself the law, but it is given by the object through its relation to the will" (Groundwork, Abbott trans.). For the compendium's value-creation material, see [[E107 — Practise the creation of values]] and [[Value creation]].
+Heteronomy is the will going out of itself for its law: "If the will seeks the law which is to determine it anywhere else than in the fitness of its maxims to be universal laws of its own dictation, consequently if it goes out of itself and seeks this law in the character of any of its objects, there always results heteronomy. The will in that case does not give itself the law, but it is given by the object through its relation to the will" (Groundwork, Abbott trans.). For my value-creation material, see [[E107 — Practise the creation of values]] and [[Value creation]].
 
 ## Related concepts
 

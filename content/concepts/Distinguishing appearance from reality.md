@@ -7,7 +7,7 @@ file: "Distinguishing appearance from reality"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The compendium anchors the appearance/reality distinction in two images from Plato's Republic, Books VI and VII. In Book VI Socrates cuts a line into visible and intelligible sections: "the first section in the sphere of the visible consists of images. And by images I mean, in the first place, shadows, and in the second place, reflections in water and in solid, smooth and polished bodies and the like" (Plato, [Republic VI, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)). The sections are ranked by "clearness and want of clearness", and "the copy is to the original as the sphere of opinion is to the sphere of knowledge" (Plato, [Republic VI, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)).
+I anchor the appearance/reality distinction in two images from Plato's Republic, Books VI and VII. In Book VI Socrates cuts a line into visible and intelligible sections: "the first section in the sphere of the visible consists of images. And by images I mean, in the first place, shadows, and in the second place, reflections in water and in solid, smooth and polished bodies and the like" (Plato, [Republic VI, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)). The sections are ranked by "clearness and want of clearness", and "the copy is to the original as the sphere of opinion is to the sphere of knowledge" (Plato, [Republic VI, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)).
 
 Book VII tells the same story as a cave (Plato, [Republic VII, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)). Prisoners who "see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave" (Plato, [Republic VII, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)) take themselves to be "naming what was actually before them" (Plato, [Republic VII, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)):
 
@@ -15,9 +15,9 @@ Book VII tells the same story as a cave (Plato, [Republic VII, Jowett translatio
 
 Turning round is painful: the released prisoner "will suffer sharp pains; the glare will distress him" (Plato, [Republic VII, Jowett translation](https://www.gutenberg.org/cache/epub/1497/pg1497.txt)).
 
-The compendium pairs the Republic's images with Stoic impressions and with the cognitive comparisons listed below. The distinction it trains is asking of anything what it is an image of.
+I pair the Republic's images with Stoic impressions and with the cognitive comparisons listed below. The distinction it trains is asking of anything what it is an image of.
 
-### In the compendium
+### Here
 
 - [[S047 — See impressions as what they are — appearances, not realities]] — the Stoic version of the check
 - [[CO058 — Understand flashbulb memories — vividness is not accuracy]] — the vividness-is-not-truth principle

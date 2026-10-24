@@ -35,7 +35,7 @@ The same paper records the theory's origin in the discovery of mirror mechanisms
 
 Illustrative scenario, not a reported study: watching a child reach for a jammed door, a parent feels the pull in her own arm and understands what the child is trying to do before either says anything. On the embodied-simulation account, that felt understanding is the mechanism doing the understanding.
 
-### In the compendium
+### Here
 
 - [[CO005 — Understand that thinking is embodied — the body shapes the mind]]
 - [[CO012 — Know that thinking is both individual and collective — schemas are shared]]

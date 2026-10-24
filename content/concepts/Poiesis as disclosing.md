@@ -13,7 +13,7 @@ Heidegger's essay on art takes making out of the register of copying and into th
 
 > "A work, like a Greek temple, works in the sense that it sets up a world and at the same time sets this world back again on earth, which itself thus emerges as native ground." (Heidegger, "The Origin of the Work of Art", GA 5 text, [beyng.com](https://www.beyng.com/pages/de/GA05/DerUrsprungderKunstwerkes.Dict.html))
 
-### In the compendium
+### Here
 
 - [[M011 — Treat beauty as a mode of truth]] — lists the concept among its philosophy parallels.
 

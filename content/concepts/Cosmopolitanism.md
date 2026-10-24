@@ -26,9 +26,9 @@ The article's key term is hospitality, and Kant defines it as right, not charity
 
 > hospitality signifies the claim of a stranger entering foreign territory to be treated by its owner without hostility. — Kant, Perpetual Peace, [Gutenberg (opened)](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)
 
-The compendium builds its member-of-the-whole and kindness-to-strangers practices on this ground.
+I build its member-of-the-whole and kindness-to-strangers practices on this ground.
 
-### In the compendium
+### Here
 
 - [[S044 — Act as a member of the whole]] — the member-of-the-whole principle.
 - [[S101 — Recognise that you are a small part of a large whole]] — the small-part principle.

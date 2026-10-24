@@ -20,7 +20,7 @@ The next scholium is less hopeful. In a quotation of Curley's translation, Spino
 
 ### Scope
 
-The principle's title says "other people", but Spinoza's claim concerns people guided by reason. No disaster research was opened for this page, so the original entry's claim about disaster studies is not cited. The advice to treat conflict as damage to infrastructure is the compendium's own.
+The principle's title says "other people", but Spinoza's claim concerns people guided by reason. No disaster research was opened for this page, so the original entry's claim about disaster studies is not cited. The advice to treat conflict as damage to infrastructure is my own.
 
 **Plain words**
 Spinoza says the most useful thing for a person is another person who lives by reason, and he knows most people often do not. We need each other, and some people help us much more than others.

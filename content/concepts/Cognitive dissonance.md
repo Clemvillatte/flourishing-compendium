@@ -20,7 +20,7 @@ The theory's two informal hypotheses state its motivational core:
 
 And the magnitude runs with the stakes: "The more these elements are important to, or valued by the person, the greater will be the magnitude of the dissonant relation between them." The famous demonstration is Festinger and Carlsmith's 1959 experiment, where participants paid one dollar to describe a boring task as interesting later reported the task as more enjoyable than those paid twenty dollars: with little external justification for the lie, the participants reduced the dissonance by adjusting the private opinion itself.
 
-The theory's interest for the compendium is diagnostic. Dissonance is not a defect of reasoning but a cost of holding a life together, and its reductions, changing the belief, adding justifications, avoiding the evidence, are the everyday shapes of self-deception. Aesop's fox resolving the unreachable grapes as sour is the same process, which is why the compendium pairs the concept with bad faith and with the practice of noticing dissonance rather than resolving it quickly.
+The theory's interest is diagnostic. Dissonance is not a defect of reasoning but a cost of holding a life together, and its reductions, changing the belief, adding justifications, avoiding the evidence, are the everyday shapes of self-deception. Aesop's fox resolving the unreachable grapes as sour is the same process, which is why I pair the concept with bad faith and with the practice of noticing dissonance rather than resolving it quickly.
 
 ## Sources
 

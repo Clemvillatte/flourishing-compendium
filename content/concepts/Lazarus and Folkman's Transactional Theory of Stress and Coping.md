@@ -17,7 +17,7 @@ Richard Lazarus and Susan Folkman's 1984 book Stress, Appraisal, and Coping gave
 
 Primary appraisal asks what is at stake; secondary appraisal asks what can be done about it ([Folkman et al., 1986, abstract](https://pubmed.ncbi.nlm.nih.gov/3712234/)). In the theory, coping is defined as constantly changing cognitive and behavioural efforts to manage demands appraised as taxing or exceeding the person's resources, divided into problem-focused and emotion-focused forms ([Lazarus and Folkman's definition as quoted in a later review](https://pubmed.ncbi.nlm.nih.gov/21703432/)). The same study found coping strongly related to appraisal: the forms used varied depending on what was at stake and the options for coping ([Folkman et al., 1986, abstract](https://pubmed.ncbi.nlm.nih.gov/3712234/)). Later empirical work largely confirmed the model's structure in patients with psychosomatic conditions, while noting its inner mechanisms, including appraisal, are hard to capture with self-report data ([Hiebel et al., 2021, abstract](https://pubmed.ncbi.nlm.nih.gov/33746820/)).
 
-### In the compendium
+### Here
 
 - [[PP049 — Build social support as a buffer]]
 - [[PP027 — Practise coherence]]

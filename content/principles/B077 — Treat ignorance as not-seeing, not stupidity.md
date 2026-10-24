@@ -16,11 +16,11 @@ SN 12.2 defines avijjā through not knowing suffering, its arising, its cessatio
 
 > "Not knowing stress, not knowing the origination of stress, not knowing the cessation of stress, not knowing the way of practice leading to the cessation of stress: This is called ignorance." (SN 12.2, trans. Thanissaro Bhikkhu, [text](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html))
 
-The definition does not rank people by intelligence or credentials. Calling ignorance not-seeing is the compendium's practical gloss; the discourse itself specifies what is not known, rather than attributing every instance of suffering to a person's failure to look (SN 12.2, [text](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html)).
+The definition does not rank people by intelligence or credentials. Calling ignorance not-seeing is my practical gloss; the discourse itself specifies what is not known, rather than attributing every instance of suffering to a person's failure to look (SN 12.2, [text](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.002.than.html)).
 
 ### Plain words
 
-Ask what your explanation leaves unexamined. You may understand a description yet still need to investigate how it applies in a particular situation. The compendium suggests combining inquiry with relevant information, without turning a difficulty in understanding into a judgment about someone's intelligence or worth.
+Ask what your explanation leaves unexamined. You may understand a description yet still need to investigate how it applies in a particular situation. I suggest combining inquiry with relevant information, without turning a difficulty in understanding into a judgment about someone's intelligence or worth.
 
 ### For example
 

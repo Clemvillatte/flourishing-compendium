@@ -17,9 +17,9 @@ The scale items show the measure's directness: an entity item asserts "You have 
 
 ### Evidence and its limits
 
-A meta-analytic review of the achievement link found incremental theorists more likely to have higher grades, with entity beliefs also positively associated but at lower magnitude, and concluded that entity theories can cut either way depending on the outcome ([PMC, meta-analytic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5996155/)). The compendium's sibling page, Fixed views of self, carries the failed-premises test of the mindset programme itself ([Burgoyne et al. 2020](https://englelab.gatech.edu/articles/2020/Burgoyne_Hambrick_Macnamara_2020_Mindset.pdf)).
+A meta-analytic review of the achievement link found incremental theorists more likely to have higher grades, with entity beliefs also positively associated but at lower magnitude, and concluded that entity theories can cut either way depending on the outcome ([PMC, meta-analytic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5996155/)). My sibling page, Fixed views of self, carries the failed-premises test of the mindset programme itself ([Burgoyne et al. 2020](https://englelab.gatech.edu/articles/2020/Burgoyne_Hambrick_Macnamara_2020_Mindset.pdf)).
 
-### In the compendium
+### Here
 
 The principles translate the theory into practice on both sides of the belief. SE062 cultivates the growth orientation directly, and MO008 extends it to motivation itself, trainable rather than fixed. S117 handles failure without despair, the incremental theorist's signature response; P015 makes growth the criterion of value. The contemplative parallels hold the same openness in other vocabularies: B048's beginner's mind and D045's empty cup, S139's Stoicism as practice rather than destination, A055's responsibility for character, CO045's cognitive flexibility and D156's warning that rigidity is death's companion.
 
@@ -41,7 +41,7 @@ Affect · Psychological science
 ## Related concepts
 
 - [[Growth mindset]] — the popular form of the incremental theory
-- [[Fixed views of self]] — the compendium's page for the fixed view and its fragility
+- [[Fixed views of self]] — my page for the fixed view and its fragility
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal framework the theories feed into
 - [[Mastery orientation]] — the response pattern the incremental theory predicts
 - [[Cognitive flexibility]] — the capacity both theories presuppose

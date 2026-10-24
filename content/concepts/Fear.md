@@ -15,7 +15,7 @@ Fear is the emotion that mobilizes defense against threat. In the account of Öh
 
 Öhman and Mineka describe the proposed module as activating defensive behavior, such as immobility or fight-flight, together with bodily responses and feelings. They identify avoidance and escape as characteristic motivations of fear.
 
-### In the compendium
+### Here
 
 - [[BE028 — Learn interoceptive exposure — approach bodily sensations]] — fear of the body's own signals, treated by approaching them
 
@@ -24,7 +24,7 @@ Fear is the emotion that mobilizes defense against threat. In the account of Öh
 
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the practice of approaching feared situations in ordered steps
 - [[Judgment adds the harm]] — the Stoic reading: the opinion, not the event, disturbs
-- [[Courage]] — the compendium's virtue-focused treatment of fear
+- [[Courage]] — my virtue-focused treatment of fear
 - [[ERP (exposure and response prevention)]] — the clinical procedure that runs exposure to feared cues
 - [[SP038]] — Spinoza's account of superstition as engendered, preserved, and fostered by fear
 ## Sources

@@ -18,7 +18,7 @@ McAdams and McLean summarise research on how people narrate difficult experience
 
 (McAdams & McLean, 2013, "Narrative Identity", Current Directions in Psychological Science, [open course mirror](https://www.studeersnel.nl/nl/document/hogeschool-van-amsterdam/psychologie-de-basis/mc-adams-dan-p-and-kate-c-mc-lean-2013-narrative-identity/44583338).)
 
-The compendium takes this as a writing prompt for an identity transition, rather than a prescribed grief process.
+I take this as a writing prompt for an identity transition, rather than a prescribed grief process.
 
 **Plain words** Describe one part of a former role that you miss. In a separate paragraph, sketch something you might try in your present circumstances. Neither paragraph has to turn the loss into a benefit or bring the story to a tidy ending.
 

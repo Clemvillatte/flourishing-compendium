@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### What it is
 
-The compendium uses this title for the method of Epicurus's Letter to Menoeceus: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size. His famous case is death: "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not. It is nothing, then, either to the living or to the dead, for with the living it is not and the dead exist no longer" (Epicurus, Letter to Menoeceus, [epicurus.net](http://www.epicurus.net/en/menoeceus.html)). The letter's diagnosis of dread is precise: "Whatever causes no annoyance when it is present, causes only a groundless pain in the expectation" (Epicurus, Letter to Menoeceus, [epicurus.net](http://www.epicurus.net/en/menoeceus.html)).
+I use this title for the method of Epicurus's Letter to Menoeceus: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size. His famous case is death: "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not. It is nothing, then, either to the living or to the dead, for with the living it is not and the dead exist no longer" (Epicurus, Letter to Menoeceus, [epicurus.net](http://www.epicurus.net/en/menoeceus.html)). The letter's diagnosis of dread is precise: "Whatever causes no annoyance when it is present, causes only a groundless pain in the expectation" (Epicurus, Letter to Menoeceus, [epicurus.net](http://www.epicurus.net/en/menoeceus.html)).
 
 ### What it carries
 

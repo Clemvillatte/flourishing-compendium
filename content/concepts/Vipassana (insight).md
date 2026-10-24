@@ -23,7 +23,7 @@ The sutta's own instruction has the same shape. In the section on the body, the 
 
 On Thanissaro's account vipassana is not a technique that can be picked up on its own, nor a synonym for mindfulness. The sources here give one translator's reading of the tradition.
 
-### In the compendium
+### Here
 
 - [[B043 — Develop insight (vipassana)]] — the principle that names the practice directly
 - [[AT048 — Learn open monitoring meditation — awareness without narrow focus]] — discusses open monitoring meditation

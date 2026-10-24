@@ -16,7 +16,7 @@ John Dewey describes deliberation as activity held in suspense by conflicting ha
 
 > Deliberation is an experiment in finding out what the various lines of possible action are really like. It is an experiment in making various combinations of selected elements of habits and impulses, to see what the resultant action would be like if it were entered upon.
 
-His [account](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-3) distinguishes a choice that coordinates competing concerns from one in which an impulse crowds out its rivals. He also warns that reflection can become an escape from decisive action. The compendium's application offers no fixed thinking period or guarantee of certainty.
+His [account](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-3) distinguishes a choice that coordinates competing concerns from one in which an impulse crowds out its rivals. He also warns that reflection can become an escape from decisive action. My application offers no fixed thinking period or guarantee of certainty.
 
 **Plain words**
 Hesitating can mean that several things matter and cannot all be satisfied in their present form. Thinking lets each have a hearing. You may discover a different arrangement, or a question that needs answering before you choose. The aim is to find a workable next action; endlessly imagining the future can become another way of avoiding what the situation asks of you.

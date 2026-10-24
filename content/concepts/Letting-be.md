@@ -17,7 +17,7 @@ The practical form Heidegger gives letting-be in the Discourse on Thinking is Ge
 
 Heidegger adds that this is not passivity: "Yet releasement toward things and openness to the mystery never happen of themselves. They do not befall us accidentally. Both flourish only through persistent, courageous thinking" ([same text, p. 56](https://archive.org/stream/heidegger-discourse-on-thinking/Heidegger%20-%20Discourse%20on%20Thinking_djvu.txt)).
 
-### In the compendium
+### Here
 
 - [[E102 — Practise Gelassenheit (releasement)]] builds its practice on this passage of the Discourse on Thinking.
 

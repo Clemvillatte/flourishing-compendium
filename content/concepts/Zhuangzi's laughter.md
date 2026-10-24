@@ -15,7 +15,7 @@ Zhuangzi's laughter is the Daoist art of taking the world lightly: laughing at g
 
 ### What the laughter is for
 
-The counting is the point: laughter is rare because life is short and mostly occupied, and a practice that adds laughing days is a practice of time well spent. The chapter carrying this speech is marked spurious in this edition, and its speaker is a bandit scolding Confucius; the compendium borrows the arithmetic and leaves the abuse behind. The compendium's principle SE033 carries the application: hold your imperfections with humour, because lightness is a virtue and the alternative costs days.
+The counting is the point: laughter is rare because life is short and mostly occupied, and a practice that adds laughing days is a practice of time well spent. The chapter carrying this speech is marked spurious in this edition, and its speaker is a bandit scolding Confucius; I borrow the arithmetic and leaves the abuse behind. My principle SE033 carries the application: hold your imperfections with humour, because lightness is a virtue and the alternative costs days.
 
 ## Related thinkers
 

@@ -23,7 +23,7 @@ Aristotle argues that "it is more characteristic of virtue to do good than to ha
 
 ### A modern neighbour
 
-The compendium pairs Aristotle's account with [[Prosocial spending]], the study of spending money to benefit others, which is a separate empirical literature and not part of the Aristotelian text.
+I pair Aristotle's account with [[Prosocial spending]], the study of spending money to benefit others, which is a separate empirical literature and not part of the Aristotelian text.
 
 ## Related concepts
 - [[T013 — Seneca]]: the S037 goodwill-based beneficence the page compares with Aristotle.

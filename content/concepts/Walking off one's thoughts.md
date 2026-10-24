@@ -7,7 +7,7 @@ file: "Walking off one's thoughts"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-"Walking off one's thoughts" is the compendium's label for what a walk does to a burdened mind. Kierkegaard wrote the passage in a letter of 1847, as quoted in the London Review of Books:
+"Walking off one's thoughts" is my label for what a walk does to a burdened mind. Kierkegaard wrote the passage in a letter of 1847, as quoted in the London Review of Books:
 
 > "Above all, do not lose your desire to walk: every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it" (Kierkegaard, letter to Jette, 1847, as quoted by Roger Poole, "A Walk with Kierkegaard", London Review of Books)
 
@@ -21,9 +21,9 @@ A modern experiment tests a nearby claim. Oppezzo and Schwartz report in four ex
 
 ### What it is not
 
-Walking away from a thought is not avoidance by decree. Kierkegaard describes a daily habit that returns him to well-being, not a way to prove a worry false. The compendium's pages on [[K061 — Recognize thoughts' nature rather than fighting their content]] and psychological flexibility remain the place for working with the thought itself.
+Walking away from a thought is not avoidance by decree. Kierkegaard describes a daily habit that returns him to well-being, not a way to prove a worry false. My pages on [[K061 — Recognize thoughts' nature rather than fighting their content]] and psychological flexibility remain the place for working with the thought itself.
 
-### In the compendium
+### Here
 
 - [[X025 — Walk at your own pace, and let that be the sermon]]
 - [[K061 — Recognize thoughts' nature rather than fighting their content]]

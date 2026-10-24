@@ -18,7 +18,7 @@ Rogers describes the good life as an ongoing movement involving greater openness
 
 ### Direction does not cancel needs
 
-Rogers writes from his experience and suggests that the qualities he describes appear to have a certain universality. The compendium takes his account as an invitation to examine how one is living, rather than as a measurement of flourishing. That does not make housing, safety, relationships or completed projects irrelevant; nor does it require feeling good about an unfinished situation.
+Rogers writes from his experience and suggests that the qualities he describes appear to have a certain universality. I take his account as an invitation to examine how one is living, rather than as a measurement of flourishing. That does not make housing, safety, relationships or completed projects irrelevant; nor does it require feeling good about an unfinished situation.
 
 (Rogers, On Becoming a Person, 1961; Dewey, Human Nature and Conduct, 1922.)
 

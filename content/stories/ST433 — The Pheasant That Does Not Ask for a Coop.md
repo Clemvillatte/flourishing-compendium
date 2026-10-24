@@ -18,7 +18,7 @@ Legge's version gives the bird ten steps for a mouthful of food and thirty for a
 
 There is no capture or escape in this short passage, and no keeper offers the bird a bargain ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Its whole movement is a comparison between a demanding life outside and comfortable confinement that the bird does not seek ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
-The compendium reads the contrast as a question about whose standard of benefit is being used. An arrangement can look generous to the person designing it and still fail to suit the life expected to fit inside it. In an essay, the pheasant can help question an ideal of success that offers more provision while leaving less room for a person's way of living. This is an application of the comparison, not a claim that the text describes modern work or proves that every demand for change is harmful.
+I read the contrast as a question about whose standard of benefit is being used. An arrangement can look generous to the person designing it and still fail to suit the life expected to fit inside it. In an essay, the pheasant can help question an ideal of success that offers more provision while leaving less room for a person's way of living. This is an application of the comparison, not a claim that the text describes modern work or proves that every demand for change is harmful.
 
 For D107, the bird gives a different angle from the principle's duck-and-crane image: the proposed improvement concerns its surroundings rather than its body. It leaves the harder judgment open: whether a particular difficulty calls for a better fit, a new skill, or a habit worth changing.
 

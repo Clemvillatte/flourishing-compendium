@@ -20,7 +20,7 @@ In Flourish, Seligman shifts the target from happiness to well-being made of fiv
 
 > "I believe the gold standard for measuring well-being is flourishing, and that the goal of positive psychology is to increase flourishing." (Seligman, Flourish, ch. 1, excerpt at [Authentic Happiness, University of Pennsylvania](https://www.authentichappiness.sas.upenn.edu/newsletters/flourishnewsletters/newtheory))
 
-The compendium's exercise: rate each of the five strands for the past week, take the lowest one, and choose a single small act for that strand alone.
+My exercise: rate each of the five strands for the past week, take the lowest one, and choose a single small act for that strand alone.
 
 **Plain words**
 Feeling good, being absorbed, people, purpose, and finishing things are the five strands. Find your weakest and give it an hour.

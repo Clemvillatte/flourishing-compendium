@@ -16,7 +16,7 @@ Book XVIII of the Zhuangzi opens by asking where perfect enjoyment is to be foun
 
 > "Hence it is said, 'Perfect enjoyment is to be without enjoyment; the highest praise is to be without praise.'" (Zhuangzi 18, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium applies the chapter as a question: what are you pursuing as enjoyment itself, and what does chasing it that way do to the rest of your life?
+I applie the chapter as a question: what are you pursuing as enjoyment itself, and what does chasing it that way do to the rest of your life?
 
 **Plain words**
 People in this passage wear themselves out getting the things they expect to enjoy. Zhuangzi questions whether that chase deserves to be called enjoyment. He calls doing nothing to obtain enjoyment the great enjoyment. The paradox challenges the pursuit without promising a particular feeling afterwards.

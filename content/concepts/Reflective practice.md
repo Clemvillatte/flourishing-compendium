@@ -21,7 +21,7 @@ The Wikipedia article carries the limit that matters for anyone tempted to treat
 
 The same page notes that some scholars have claimed precursors of reflective practice in ancient texts such as Buddhist teachings and the Meditations of Marcus Aurelius ([Wikipedia](https://en.wikipedia.org/wiki/Reflective_practice)).
 
-### In the compendium
+### Here
 
 - [[P109 — Pair every experience with reflection]] — the practice stated as a rule
 - [[S120 — End the evening with review]] and [[S065 — Practise self-examination daily]] — the daily forms, akin to the claimed ancient precursors

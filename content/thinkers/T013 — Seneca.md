@@ -38,7 +38,7 @@ Anger, grief and fear are not to be moderated but replaced: he treats them as ir
 - **Use to others** — benefit many, or few, or the nearest, or yourself. See [[Care]], [[Generosity]], [[Friendship]], [[Dignity]].
 - **Contempt for fame** — reputation is not the self. See [[Contempt for fame]], [[The wise man's indifference to reputation]], [[Humility]].
 
-## Everything connected in the wiki
+## Everything connected here
 
 The inventory lists every corpus entry that names Seneca. Many of the principles cite him as a philosophy or psychology parallel; each link is a real edge in the corpus graph.
 

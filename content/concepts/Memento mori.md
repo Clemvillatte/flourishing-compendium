@@ -21,7 +21,7 @@ The letter's closing rule is the whole practice in one line:
 
 ### The mechanism
 
-In the compendium's reading, the mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible. The practice belongs to the Stoic training of desire and aversion, and death is the thing most avoided, which makes it the heaviest available training weight.
+In my reading, the mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible. The practice belongs to the Stoic training of desire and aversion, and death is the thing most avoided, which makes it the heaviest available training weight.
 
 ### The distinction to hold
 
@@ -31,7 +31,7 @@ Memento mori is not fatalism or gloom. It is urgency without hurry, the opposite
 
 One sentence written at the top of the day's plan, "this may be one of few remaining", with the plan edited accordingly. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[S104 — Practise the contemplation of mortality]] — the practice principle, with [[S024 — Do not fear death]] its fear-side pair
 - [[B055 — Contemplate mortality (maranasati)]] — the Buddhist parallel, and [[K024 — Begin with the four reminders, briefly and daily]] the Tibetan daily-and-briefly form
@@ -39,7 +39,7 @@ One sentence written at the top of the day's plan, "this may be one of few remai
 - [[S036 — Do not postpone living well]] — postponed living made visible
 - [[Y096 — Keep urgency without hurry]] and [[B193 — Live with death lightly in view]] — the urgency pair, the practice's failure mode being apathy
 - [[M037 — Number your days; we only borrow our time]], [[S089 — Remember that you will die]] and [[S090 — See that life is short and do not waste it]] — the remembrance and numbering set
-- [[K230 — Memento mori]] — the compendium's own kernel page
+- [[K230 — Memento mori]] — my own kernel page
 
 Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of death) and its Buddhist one [[Impermanence]].
 

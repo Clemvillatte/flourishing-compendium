@@ -18,7 +18,7 @@ In a later account of enaction, Thompson explains perception through the activit
 
 ### Participation, not unlimited control
 
-This is an account of cognition and lived worlds, not a promise that changing your outlook changes every external condition. The compendium's practical question is narrower: what do your current activities enable you to notice and do, and what do they leave out?
+This is an account of cognition and lived worlds, not a promise that changing your outlook changes every external condition. My practical question is narrower: what do your current activities enable you to notice and do, and what do they leave out?
 
 (Varela, Thompson and Rosch, The Embodied Mind, 1991.)
 

@@ -18,7 +18,7 @@ After the Buddha's illness in DN 16, Ananda speaks of expecting further instruct
 
 (DN 16.2.33, Vajira and Story, [Access to Insight translation](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html).)
 
-The next paragraph explains the instruction through contemplation of body, feelings, mind and mental objects ([DN 16.2.34](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html)). Dhammapada 239 likewise describes removing impurities little by little ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)). Neither image should become the compendium's demand to dispense with teaching or blame yourself for needing support.
+The next paragraph explains the instruction through contemplation of body, feelings, mind and mental objects ([DN 16.2.34](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html)). Dhammapada 239 likewise describes removing impurities little by little ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)). Neither image should become my demand to dispense with teaching or blame yourself for needing support.
 
 **Plain words** Ask what part of the practice you can undertake, and where you need guidance. Taking responsibility can include asking a question rather than pretending you already understand.
 

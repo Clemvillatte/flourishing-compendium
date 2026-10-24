@@ -35,7 +35,7 @@ Pragmatism is not the slogan that truth is whatever is useful, and it is not wis
 
 When an abstract question has you stuck, ask what concrete difference each answer would make to how you live, and where you can, run a small experiment instead of arguing further. This is an application of the maxim, not a rule laid down in the sources above.
 
-### In the compendium
+### Here
 
 - [[P009 — Truth is made, not merely found]] and [[P021 — Treat ideas as tools, not mirrors]] — the instrumental view of ideas
 - [[P012 — An idea's meaning is its practical effects]] — the maxim as a principle

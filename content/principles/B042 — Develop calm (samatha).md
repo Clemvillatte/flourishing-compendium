@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 42** — Develop calm (samatha)
 
-The Anapanasati Sutta trains calming as an instruction repeated with the breath, in and out ([MN 118, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)). In its account of the awakening factors, body and mind grow calm together; serenity becomes an awakening factor once they have; and the mind becomes concentrated for one at ease with the body calmed. The compendium draws on these passages for a practice of developing calm.
+The Anapanasati Sutta trains calming as an instruction repeated with the breath, in and out ([MN 118, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)). In its account of the awakening factors, body and mind grow calm together; serenity becomes an awakening factor once they have; and the mind becomes concentrated for one at ease with the body calmed. I draw on these passages for a practice of developing calm.
 
 > He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'
 >
@@ -29,7 +29,7 @@ The Dhammapada pairs meditative concentration with insight, and describes someon
 > (Dhammapada 372, Buddharakkhita)
 
 **Plain words**
-The passage asks you to practise calming while breathing in and while breathing out. For the compendium's exercise, try that instruction for one breath in each direction, then describe what you noticed.
+The passage asks you to practise calming while breathing in and while breathing out. For my exercise, try that instruction for one breath in each direction, then describe what you noticed.
 
 *For example:* Imagine reaching the end of a paragraph and realising you cannot recall it. Pause to try the breathing exercise, then reread the paragraph and check what you remember.
 

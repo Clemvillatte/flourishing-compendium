@@ -16,7 +16,7 @@ In Ideas I, the epoché suspends the natural attitude's general positing: the st
 
 > The general positing, by virtue of which there is not just any continual apprehensional consciousness of the real surrounding world, but a consciousness of it as a factually existing "actuality," naturally does not consist of a particular act, perchance an articulated judgment about existence. It is, after all, something that lasts continuously throughout the whole duration of the attitude, i.e., throughout natural waking life. (Husserl, Ideas I §31, Kersten trans., [full text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
 
-Husserl's epoché is a step in phenomenological inquiry, and in §§31-32 it is described as the suspension of the natural attitude as a whole. The compendium borrows the gesture as a daily-life exercise, and the borrowing is an analogy rather than the method itself: when an automatic interpretation catches you, set it out of action without denying or doubting it, and ask what then appears.
+Husserl's epoché is a step in phenomenological inquiry, and in §§31-32 it is described as the suspension of the natural attitude as a whole. I borrow the gesture as a daily-life exercise, and the borrowing is an analogy rather than the method itself: when an automatic interpretation catches you, set it out of action without denying or doubting it, and ask what then appears.
 
 (Husserl, 1913/1982, Ideas I, §§31-32.)
 

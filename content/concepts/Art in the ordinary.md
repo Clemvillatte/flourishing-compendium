@@ -13,7 +13,7 @@ Dewey's Art as Experience argues that art is not a separate province of life but
 
 ### Where the sources are
 
-The passage sits inside a larger list: "The sources of art in human experience will be learned by him who sees how the tense grace of the ball-player infects the onlooking crowd; who notes the delight of the housewife in tending her plants" (same page). Dewey's point for the compendium is direct: maintenance, repair, and care of tools are aesthetic behaviour when done with attention and satisfaction, which is why the compendium treats turning maintenance into art as a flourishing practice rather than a metaphor.
+The passage sits inside a larger list: "The sources of art in human experience will be learned by him who sees how the tense grace of the ball-player infects the onlooking crowd; who notes the delight of the housewife in tending her plants" (same page). Dewey's point here is direct: maintenance, repair, and care of tools are aesthetic behaviour when done with attention and satisfaction, which is why I treat turning maintenance into art as a flourishing practice rather than a metaphor.
 
 ## Sources
 

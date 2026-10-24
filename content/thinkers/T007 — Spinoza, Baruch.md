@@ -34,7 +34,7 @@ There is one substance. "That thing is called free, which exists solely by the n
 - **The three kinds of knowledge** — imagination, reason, and intuition grasping things under the aspect of eternity. See [[The three kinds of knowledge]], [[Sub specie aeternitatis]].
 - **Intellectual love of God** — understanding the universe is virtue, happiness and freedom at once. See [[Amor dei intellectualis]], [[Blessedness]].
 
-## Connected in the wiki — the Spinozist book
+## Connected here — the Spinozist book
 
 The corpus's SP principles are the Spinozist book; all 94 in the mention inventory are listed. The other 34 principles each carry an explicit doctrinal comparison to Spinoza, with varying locator precision (most cite an Ethics part, a few a proposition, and three a looser reference), so they are kept as cross-tradition parallels; the concepts are filtered by explicit Spinoza reference.
 

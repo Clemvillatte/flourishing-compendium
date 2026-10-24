@@ -15,7 +15,7 @@ Alasdair MacIntyre's After Virtue (1981) grounds moral life in narrative. The se
 
 The passage continues: we enter human society "with one or more imputed characters — roles into which we have been drafted — and we have to learn what they are in order to be able to understand how others respond to us". The chapter's other formulations carry the same claim: "The unity of a human life is the unity of a narrative quest". The original entry names Charles Taylor's Sources of the Self (1989) as the companion source; it was, so its account is left to that citation.
 
-### In the compendium
+### Here
 
 - [[P160 — Distinguish the observing self from the story of self]]
 - [[E083 — Practise narrative identity]]
@@ -24,7 +24,7 @@ The passage continues: we enter human society "with one or more imputed characte
 ## Related concepts
 
 - [[Narrative identity]] — the psychological and philosophical treatment
-- [[Identity]] — the compendium's broader entry
+- [[Identity]] — my broader entry
 - [[T052 — MacIntyre, Alasdair]]: the After Virtue grounding the concept opens with, man as a story-telling animal.
 
 ## Sources

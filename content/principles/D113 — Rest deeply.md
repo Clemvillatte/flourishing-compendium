@@ -16,7 +16,7 @@ The principle's source is Zhuangzi's portrait of the True men of old:
 
 > "The True men of old did not dream when they slept, had no anxiety when they awoke, and did not care that their food should be pleasant. Their breathing came deep and silently. The breathing of the true man comes (even) from his heels, while men generally breathe (only) from their throats." (Zhuangzi 6, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The chapter also contrasts deep desires with shallow Heavenly springs: "Where lusts and desires are deep, the springs of the Heavenly are shallow." The compendium reads these images as an invitation to reflect on how daily preoccupations accompany rest. The passage does not establish a cause of sleep difficulties.
+The chapter also contrasts deep desires with shallow Heavenly springs: "Where lusts and desires are deep, the springs of the Heavenly are shallow." I read these images as an invitation to reflect on how daily preoccupations accompany rest. The passage does not establish a cause of sleep difficulties.
 
 (Zhuangzi 6.)
 

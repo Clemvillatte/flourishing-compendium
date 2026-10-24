@@ -44,7 +44,7 @@ Optional exercise (Cognition; Motivation): write one want, then list two differe
 ## Related concepts
 
 - [[Conatus]]: the wider account of striving within which this page places desire.
-- [[Desire]]: compare the compendium's different philosophical uses of the term rather than treating them as one theory.
+- [[Desire]]: compare my different philosophical uses of the term rather than treating them as one theory.
 - [[Desire analyzed]]: a reading route to another philosophical inquiry into wanting; the exercise above makes no claim to reproduce it.
 
 ## Philosophy parallels

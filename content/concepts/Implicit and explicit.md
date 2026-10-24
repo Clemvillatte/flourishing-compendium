@@ -17,7 +17,7 @@ The horizons are not static, and the passage says so twice: "The horizons are 'p
 
 **Plain words** Whatever you are noticing now, you are also meaning more than you are noticing: the back of the cup, the rest of the sentence, the next note. Explicit is what is in view; implicit is the rest of what you mean, waiting to be unfolded.
 
-### In the compendium
+### Here
 
 - [[E005 — Practise the horizon]]: the principle that turns horizon-explication into an exercise
 

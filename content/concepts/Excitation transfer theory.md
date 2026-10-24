@@ -13,7 +13,7 @@ Excitation transfer theory is Dolf Zillmann's account of emotional carryover: ar
 
 The mechanism, as the same study puts it, is that "emotional arousal from one context can carry over to a subsequent context and influence later emotional responses". The amplification is stated as a possibility — residual arousal "may amplify emotions and responses in a subsequent one" — not as a rule of feeling.
 
-### In the compendium
+### Here
 
 - [[AF009 — Understand that affect is constructed, not discovered]] is this concept's direct parallel
 - [[AF007 — Recognise affective forecasting errors; expect hedonic adaptation]] and [[M007 — Expect the in-between to be uncomfortable, and do not flee it prematurely]] carry its adjacent edges

@@ -22,7 +22,7 @@ The verum factum principle, associating the true with the made, appears in his e
 
 ### Investigate the making
 
-The compendium takes this as a reason to investigate how an arrangement came about. Participating in its creation does not guarantee a correct explanation, and paragraph 331 does not say that making any object proves its maker's beliefs true.
+I take this as a reason to investigate how an arrangement came about. Participating in its creation does not guarantee a correct explanation, and paragraph 331 does not say that making any object proves its maker's beliefs true.
 
 ### Plain words
 

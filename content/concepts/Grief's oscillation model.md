@@ -15,7 +15,7 @@ Grief's oscillation model is Margaret Stroebe and Henk Schut's dual-process mode
 
 Loss-orientation is the concentration on and processing of some aspect of the loss experience itself, most particularly the deceased person. Restoration-orientation is the focus on the secondary stressors of a changed world, the reorganizing of life and the developing of new roles. Oscillation is the alternation between the two, the juxtaposition of confrontation and avoidance: at times the bereaved will be confronted by their loss, at other times avoid memories, be distracted, or seek relief by concentration on other things.
 
-### In the compendium
+### Here
 
 - [[M038 — Grieve without pretending, and without drowning]] — the principle this model is the psychology parallel for
 

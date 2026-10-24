@@ -19,7 +19,7 @@ The article distinguishes social constructivism from social constructionism — 
 
 The article states that social constructivism "states that people work together to actively construct artifacts" ([same article](https://en.wikipedia.org/wiki/Social_constructivism)). Illustrative scenario, not a reported case: a child counting change at a shop counter, talked through the arithmetic by the shopkeeper, is learning arithmetic in the interaction rather than from a page.
 
-### In the compendium
+### Here
 
 - [[ST113 — Mead's Play and Game]] — Mead's account of taking the roles of others
 - [[SO034 — Treat knowledge as social]]

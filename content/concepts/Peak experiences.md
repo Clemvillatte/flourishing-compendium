@@ -23,7 +23,7 @@ The book's religious thesis is that peak experience is the natural core of relig
 
 The original entry's second facet is Csikszentmihalyi's flow, the sibling construct. Flow processes and peak experiences share several key characteristics — intense concentration, centering of attention on a limited stimulus field, altered time sense, self-forgetfulness, needing no goals or rewards external to itself — but there are essential differences: while peak experience denotes a high level of stimulation or euphoria, flow is not associated with an increased level of stimulation ([Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience)). P115's principle holds the practical rule: welcome peak experiences, do not chase them.
 
-### In the compendium
+### Here
 
 - [[E097 — Practise transcendence]] — transcendence as practice
 - [[P110 — Make life artistic — seek an experience.]] — the artistic occasion
@@ -33,7 +33,7 @@ The original entry's second facet is Csikszentmihalyi's flow, the sibling constr
 - [[SP089 — Rest in the peace that understanding brings]] — the afterglow as rest
 - [[P107 — Treat education as growth, not preparation]] — the self-actualization frame
 - [[K205 — Nature exposure]] — the classic occasion
-- [[Y081 — Hold powers and peak experiences lightly]] — the compendium's caveat
+- [[Y081 — Hold powers and peak experiences lightly]] — my caveat
 
 ## Facets
 

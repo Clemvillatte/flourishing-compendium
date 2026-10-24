@@ -21,9 +21,9 @@ Simone Weil's essay on school studies supplies the practical face of direct know
 
 For Weil, attention is a negative effort, a waiting rather than a seizing: thought "should be empty, waiting, not seeking anything, but ready to receive in its naked truth the object that is to penetrate it." She ties it to the highest stakes she knows, holding that "the development of the faculty of attention forms the real object and almost the sole interest of studies," and that prayer itself "consists of attention."
 
-### In the compendium
+### Here
 
-The concept anchors the compendium's principles on truth as something stood in rather than held, on the third kind of knowledge sought directly, and on contemplation applied to mastery.
+The concept anchors my principles on truth as something stood in rather than held, on the third kind of knowledge sought directly, and on contemplation applied to mastery.
 
 [[M021 — Treat truth as something you stand in, not only something you hold]]
 

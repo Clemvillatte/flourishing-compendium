@@ -18,7 +18,7 @@ Marcus credits his mother with piety, beneficence and simplicity of life, in the
 
 (Med. I.3, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-The compendium uses this recollection as a prompt to consider what conduct you model at home.
+I use this recollection as a prompt to consider what conduct you model at home.
 
 **Plain words** Think about what someone living with you might learn from watching you handle a shared responsibility. Choose one quality you would want them to learn, and consider how to show it in the next task you share.
 

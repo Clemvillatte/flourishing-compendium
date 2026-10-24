@@ -15,7 +15,7 @@ VRSCDL (pronounced roughly like "versatile") is Steven Hayes's acronym for the s
 
 The model borrows evolution's engine and applies it to behavior and psychological change. The same paper defines the moving parts: "Variation in this context refers to the ways in which psychological adjustments or behaviors (using the term 'behavior' in its broadest way) differ in their topographical and functional properties, while selection refers to consequences supplied by the environment that tend to increase or decrease a particular psychological or behavioral variant" ([Hayes et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7445588/)). "Context refers to the historical and situational features that determine whether a given variant will be selected", and "Retention refers to the likelihood of a variant being maintained in a person's repertoire" ([Hayes et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7445588/)). The D and the L are the discipline the acronym adds to older learning-theory versions of this idea: a change process only counts when it is applied at the right dimension (affect, cognition, attention, self, motivation, overt behavior) and the right level (biophysiological, psychological, sociocultural) of the person's situation.
 
-### In the compendium
+### Here
 
 - [[P043 — Vary, select, retain — learn the evolutionary way]] carries this framework as its psychology parallel: growth is not the accumulation of insights but the production of variants, the selection of the ones that work, and their retention, all inside a context that decides what working means.
 

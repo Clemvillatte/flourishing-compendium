@@ -15,7 +15,7 @@ Therapeutic philosophy is the conception, shared by the Hellenistic schools and 
 
 The Stanford Encyclopedia's reading of Wittgenstein runs the same line: philosophy "is an activity of clarification (of thoughts), and more so, of critique (of language). In this sense, it is conceived of as a therapeutic work, viewing philosophy itself as therapy" ([SEP](https://plato.stanford.edu/entries/wittgenstein/)). On the ancient side, the IEP's Hadot article lists the exercises: "practices of attention (prosoche), meditations (meletai), memorizations of dogmata, self-mastery (enkrateia), the therapy of the passions..." ([IEP](https://iep.utm.edu/hadot/)). The conception also has a modern practice built on it: philosophical counseling, "a contemporary movement in practical philosophy", whose oldest association was founded in 1982 by Gerd Achenbach ([Wikipedia, Philosophical counseling](https://en.wikipedia.org/wiki/Philosophical_counseling)).
 
-### In the compendium
+### Here
 
 - [[X014 — Let philosophy's test be therapeutic]] carries the conception as a principle: judge a piece of philosophy by whether it leaves the practitioner steadier, clearer and freer, not only by whether its propositions are true.
 

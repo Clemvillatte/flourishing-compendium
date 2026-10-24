@@ -17,7 +17,7 @@ The research program summarized there contrasts insight solving with deliberate,
 
 **Plain words** Some answers arrive by working the steps; some arrive all at once, sideways, with a click. The research says the click is not a myth: the abstract reports internally focused attention preceding and during problem solving, and a right-hemisphere style of coding.
 
-### In the compendium
+### Here
 
 - [[A033 — Cultivate intelligence (nous)]]: the principle that pairs intellectual virtue with the sudden-comprehension mode
 

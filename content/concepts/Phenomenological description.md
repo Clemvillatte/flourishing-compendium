@@ -7,7 +7,7 @@ file: "Phenomenological description"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Phenomenological description is the practice of setting out experience as it is lived, without first explaining it through causes or reducing it to theory. The compendium cites two founding statements. In the Preface to Phenomenology of Perception, Merleau-Ponty says phenomenology "tries to give a direct description of our experience as it is, without taking account of its psychological origin and the causal explanations which the scientist, the historian or the sociologist may be able to provide" ([Merleau-Ponty, Phenomenology of Perception, Preface, trans. Colin Smith, full text](https://archive.org/stream/merleaupontyphenomenologyofperception/Merleau-Ponty%20-%20Phenomenology%20of%20Perception_djvu.txt)).
+Phenomenological description is the practice of setting out experience as it is lived, without first explaining it through causes or reducing it to theory. I cite two founding statements. In the Preface to Phenomenology of Perception, Merleau-Ponty says phenomenology "tries to give a direct description of our experience as it is, without taking account of its psychological origin and the causal explanations which the scientist, the historian or the sociologist may be able to provide" ([Merleau-Ponty, Phenomenology of Perception, Preface, trans. Colin Smith, full text](https://archive.org/stream/merleaupontyphenomenologyofperception/Merleau-Ponty%20-%20Phenomenology%20of%20Perception_djvu.txt)).
 
 > "It is a matter of describing, not of explaining or analysing." (Merleau-Ponty, Phenomenology of Perception, Preface, trans. Smith, [full text](https://archive.org/stream/merleaupontyphenomenologyofperception/Merleau-Ponty%20-%20Phenomenology%20of%20Perception_djvu.txt))
 
@@ -17,9 +17,9 @@ Being and Time §7 puts the method differently. The Stanford Encyclopedia of Phi
 
 ### Description or interpretation
 
-The two authors are not simply the same. The SEP separates three methods used by the classical phenomenologists: describing a type of experience as one finds it, interpreting it in context, and analysing its form. It places the first with Husserl and Merleau-Ponty, who "spoke of pure description of lived experience," and places interpretation with Heidegger and his followers, who "spoke of hermeneutics, the art of interpretation in context, especially social and linguistic context" (same entry). The compendium groups both under "phenomenological description," which is a convenient label but flattens this difference.
+The two authors are not simply the same. The SEP separates three methods used by the classical phenomenologists: describing a type of experience as one finds it, interpreting it in context, and analysing its form. It places the first with Husserl and Merleau-Ponty, who "spoke of pure description of lived experience," and places interpretation with Heidegger and his followers, who "spoke of hermeneutics, the art of interpretation in context, especially social and linguistic context" (same entry). I group both under "phenomenological description," which is a convenient label but flattens this difference.
 
-### In the compendium
+### Here
 
 Linked principles such as E003 (the natural attitude and its suspension) fit the method. Others, including K317 (Tragic optimism) and K318 (Absurd-revolt practice), are only loosely tied to it, and nothing in these sources connects them.
 

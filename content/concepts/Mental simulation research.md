@@ -15,7 +15,7 @@ Mental simulation research is the line of work showing that imagining a goal hel
 
 The theoretical distinction the paper draws is between simulations of desired goals (outcome simulation) and simulation of the steps leading to a desired goal (process simulation). Outcome simulation gives you the feeling; process simulation gives you the schedule.
 
-The compendium's [[P039 — Deliberate by rehearsal, not by verdict]] runs on this finding, and [[K275 — Morning premeditation]] is the practice kernel it supports: rehearse the morning's possible encounters as steps, not as triumphs.
+My [[P039 — Deliberate by rehearsal, not by verdict]] runs on this finding, and [[K275 — Morning premeditation]] is the practice kernel it supports: rehearse the morning's possible encounters as steps, not as triumphs.
 
 ## Related concepts
 

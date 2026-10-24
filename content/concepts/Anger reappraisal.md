@@ -19,7 +19,7 @@ Brad Bushman's 2002 experiment compared ways of dealing with an existing anger. 
 
 When used to down-regulate negative emotions, the review finds reappraisal leads to decreased negative emotion experience and decreased or unchanged sympathetic responses, at least in low to moderate intensity situations. Gross notes that very high emotional intensity can make reappraisal less effective and suggests distraction before reappraisal in such situations. The review also records a context limit drawn from Troy, Shallcross and Mauss: reappraisal applied to stressors that can be controlled is less adaptive than reappraisal applied to stressors that cannot be controlled.
 
-### In the compendium
+### Here
 
 - [[B105 — Dissect anger when it arises]] — Shantideva's patience chapter (Bodhicaryavatara 6) asks the usefulness question: if a problem has a remedy, what use is frustration; if there is no remedy, what use is frustration.
 - [[D074 — Don't fight angry]] — Daodejing 68's fighter who makes no resort to rage.
@@ -42,7 +42,7 @@ When used to down-regulate negative emotions, the review finds reappraisal leads
 - [[Rumination]] — the rehearse-the-grievance mode Bushman's experiment caught increasing anger
 - [[Catharsis]] — the venting theory the experiment contradicts
 - [[Reappraisal's effectiveness depends on controllability]] — Gross discusses controllable stressors as a context in which reappraisal can be less adaptive than it is for uncontrollable stressors
-- [[Anger examined early]] — the early-examination practice the compendium pairs with interpretation change
+- [[Anger examined early]] — the early-examination practice I pair with interpretation change
 - [[Self-conscious emotions]] — reworking appraisals, the same lever in a different emotion family
 ## Sources
 

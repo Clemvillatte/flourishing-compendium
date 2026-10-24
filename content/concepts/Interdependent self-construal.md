@@ -15,7 +15,7 @@ Interdependent self-construal describes a view of the self as fundamentally conn
 
 The same passage continues: "Persons with a highly developed interdependent self‐construal tend to view relationships as integral parts of their true being, conceive the care of harmonious interpersonal relationships as a central aspect of their life, and believe that their personal behavioral choices have a deep impact on others, such that these choices can be defined as a collective phenomenon" (Ingoglia et al. 2021, [PMC9015453](https://pmc.ncbi.nlm.nih.gov/articles/PMC9015453/)).
 
-### In the compendium
+### Here
 
 - [[SE052 — Cultivate the relational self — self-in-connection is not weakness]]: the relational self cultivated
 - [[SE005 — Recognise that the self is partly social — it is formed in relation]]: the self as partly social

@@ -24,7 +24,7 @@ On ADHD, Brown's summary, opened on the interest-based-attention page:
 
 > "Every child or adult with ADHD whom I have ever evaluated has a few favored activities in which they have no problem focusing, sustaining effort, and utilizing working memory." ([Brown, 2013](https://www.psychologytoday.com/us/blog/kids-and-adhd/201304/the-truth-about-adhd))
 
-The studies establish variation in pattern — a local bias, an interest-gated focus — not the value claim that these are gifts. The compendium's strengths framing is its own application.
+The studies establish variation in pattern — a local bias, an interest-gated focus — not the value claim that these are gifts. My strengths framing is its own application.
 
 **Plain words** The autism research itself made the principle's move: what looked like a deficit in extracting the global picture may instead be superiority in local processing — a bias, not a broken part. The ADHD account says focus is interest-gated, not absent. In both cases the pattern differs; whether it disables depends on the environment's fit.
 

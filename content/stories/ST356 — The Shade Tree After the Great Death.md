@@ -18,10 +18,10 @@ Hakuin gnaws at the koan from the front and from the sides, forgetting food and 
 
 > "But don’t be satisfied with this minor attainment. The farther you proceed into enlightenment, the harder you must strive. The greater the understanding you achieve, the more effort you must exert. Do not cease striving until the day you die." ([Shōju, quoted in the same passage](https://terebess.hu/zen/cave.pdf))
 
-For B133, the important turn is Shōju's refusal to make realization a finishing point. Hakuin reports a breakthrough; his teacher immediately demands further practice ([Hakuin's account](https://terebess.hu/zen/cave.pdf)). The compendium reads the earlier shade-tree image as a figure for what may grow after awakening, an interpretation rather than an outcome the episode itself narrates.
+For B133, the important turn is Shōju's refusal to make realization a finishing point. Hakuin reports a breakthrough; his teacher immediately demands further practice ([Hakuin's account](https://terebess.hu/zen/cave.pdf)). I read the earlier shade-tree image as a figure for what may grow after awakening, an interpretation rather than an outcome the episode itself narrates.
 
 **Principles:**
-- [[B133 — Let the self-construct fall away (the Great Death)]]: the account narrates humbled pride, ordeal and a reported breakthrough, and its closing instruction is that the practice continues after realization ([Hakuin's account](https://terebess.hu/zen/cave.pdf)); the shade tree stands for what the compendium reads as the point of that continuation.
+- [[B133 — Let the self-construct fall away (the Great Death)]]: the account narrates humbled pride, ordeal and a reported breakthrough, and its closing instruction is that the practice continues after realization ([Hakuin's account](https://terebess.hu/zen/cave.pdf)); the shade tree stands for what I read as the point of that continuation.
 
 ## Sources
 

@@ -17,7 +17,7 @@ The developmental-science treatment of the same temporal question is Erikson's. 
 
 The claim is not that development is fixed. On the account opened here, "each crisis or conflict is never completely solved but appears to be most pronounced at the age at which it emerges," and "both syntonic and dystonic opportunities are essential for development" — the negative pole is part of the design, not simply failure ([archived text](https://ia601802.us.archive.org/16/items/theory-of-identity-erikson/theory%20of%20identity%20erikson.pdf)). And each item "exists in some form before 'its' decisive and critical time normatively arrives" (Erikson 1968: 93, 95, quoted in the same text).
 
-### In the compendium
+### Here
 
 The ageing principles carry the modern research face: CO079 on cognitive ageing, AT073 on attentional changes, SE075 on the self continuing to develop, MO070 on motivation across the lifespan, BE075 and BI072 on activity and maintenance. D089's grief without destruction is the season of loss, B002's anicca and D091's befriending change are the Buddhist and Daoist accounts of change, and M022's rooting in a place gives the tree image.
 

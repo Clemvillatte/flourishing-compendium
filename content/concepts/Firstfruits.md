@@ -13,9 +13,9 @@ Firstfruits is the offering practice of the Hebrew Bible: the first portion of t
 
 ### What the practice trains
 
-The generalization in Proverbs moves the rule from harvest to all increase, and the ceremony in Deuteronomy keeps the social frame: the basket is brought, the declaration is made, and the rejoicing includes those outside the household. The compendium reads the structure, across traditions, as a training in stance: arriving in any system as a debtor to it rather than as an extractor.
+The generalization in Proverbs moves the rule from harvest to all increase, and the ceremony in Deuteronomy keeps the social frame: the basket is brought, the declaration is made, and the rejoicing includes those outside the household. I read the structure, across traditions, as a training in stance: arriving in any system as a debtor to it rather than as an extractor.
 
-### In the compendium
+### Here
 
 - [[M042 — Give before you take, and offer before you ask]] — the offering structure principle; Firstfruits is its cross-tradition echo of the yajna structure of Bhagavad Gita 3.9-3.16
 

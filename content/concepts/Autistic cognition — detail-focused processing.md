@@ -13,17 +13,17 @@ Autistic cognition: detail-focused processing is the cognitive-style account of 
 
 ### Bias, not deficit
 
-The account's history matters to its use. Frith's 1989 original framed weak coherence as a core deficit in central processing, a failure to extract global form and meaning. The 2006 review recasts it: the detail focus may represent an outcome of superiority in local processing, may be a processing bias rather than a deficit, and may occur alongside rather than explain the difficulties in social cognition. On the review's evidence, local bias appears not to be a mere side-effect of executive dysfunction and may be independent of theory of mind deficits. The style reading is what the compendium carries: detail focus as a characteristic way of processing, with strengths attached to it, not a broken version of the typical style.
+The account's history matters to its use. Frith's 1989 original framed weak coherence as a core deficit in central processing, a failure to extract global form and meaning. The 2006 review recasts it: the detail focus may represent an outcome of superiority in local processing, may be a processing bias rather than a deficit, and may occur alongside rather than explain the difficulties in social cognition. On the review's evidence, local bias appears not to be a mere side-effect of executive dysfunction and may be independent of theory of mind deficits. The style reading is what I carrie: detail focus as a characteristic way of processing, with strengths attached to it, not a broken version of the typical style.
 
-### In the compendium
+### Here
 
 - [[CO080 — Recognise neurodivergent cognition — different, not disordered]] — Dwyer's three senses of neurodiversity; the factual sense is the reality that diverse minds and brains exist.
 - [[AT074 — Recognise neurodivergent attention — different patterns, not deficits]] — the same Happé and Frith review supplying the attention reading of the detail focus.
 - [[AF081 — Recognise neurodivergent affect — it is not disordered]] — affective patterns differing in intensity, expression and regulation; variations, not pathologies.
 - [[BE076 — Recognise behavioural challenges in neurodivergence — different patterns]] — different architecture with different triggers and needs; the environment does most of the disabling.
 - [[MO071 — Recognise motivation and neurodivergence — different patterns]] — different interests, reward sensitivities and persistence patterns.
-- [[P103 — Accept restlessness — it is the human condition]] — the compendium's pairing of the detail account with the acceptance of restless, atypical states.
-- [[SP002 — See everything as one system]] — Spinoza's single-substance reading; the compendium's cross-tradition parallel on parts and wholes.
+- [[P103 — Accept restlessness — it is the human condition]] — my pairing of the detail account with the acceptance of restless, atypical states.
+- [[SP002 — See everything as one system]] — Spinoza's single-substance reading; my cross-tradition parallel on parts and wholes.
 - [[CO001 — Understand that cognition is predictive, not passive]] — the predictive-processing account of the same atypical perception.
 
 ## Related concepts

@@ -27,7 +27,7 @@ The marks arrive through the senses; the meaning does not. The final refutation 
 
 ### The eye of experience
 
-Aristotle's account is the one the compendium carries. In his ethics, judgment in a live situation runs on perceiving the particular rightly:
+Aristotle's account is the one I carrie. In his ethics, judgment in a live situation runs on perceiving the particular rightly:
 
 > "practical wisdom is concerned with the ultimate particular, which is the object not of scientific knowledge but of perception-not the perception of qualities peculiar to one sense but a perception akin to that by which we perceive that the particular figure before us is a triangle" (Aristotle, Nicomachean Ethics VI.8, [Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
@@ -39,7 +39,7 @@ The good person, on Aristotle's own wording, "sees the truth in each case, being
 
 ### Why it matters for flourishing
 
-Perceiving is already an activity, not a passive receiving: "Perception involves discrimination, while thinking involves selective attending and abstraction, both activities, in the sense that each requires more than mere passive receptivity" ([Stanford Encyclopedia, Aristotle's Psychology](https://plato.stanford.edu/entries/aristotle-psychology/)). Because it is an activity, it can be trained, and the compendium principle [[A050 — Practise perceptiveness (aisthesis)]] rests on that: experience gives the perceiver "an eye" for the particulars that matter. Husserl's call to return "to the 'things themselves'" ([Stanford Encyclopedia, Edmund Husserl](https://plato.stanford.edu/entries/husserl/)) and the Buddhist training of sati are offered as later cousins of the same discipline, not as the same doctrine.
+Perceiving is already an activity, not a passive receiving: "Perception involves discrimination, while thinking involves selective attending and abstraction, both activities, in the sense that each requires more than mere passive receptivity" ([Stanford Encyclopedia, Aristotle's Psychology](https://plato.stanford.edu/entries/aristotle-psychology/)). Because it is an activity, it can be trained, and my principle [[A050 — Practise perceptiveness (aisthesis)]] rests on that: experience gives the perceiver "an eye" for the particulars that matter. Husserl's call to return "to the 'things themselves'" ([Stanford Encyclopedia, Edmund Husserl](https://plato.stanford.edu/entries/husserl/)) and the Buddhist training of sati are offered as later cousins of the same discipline, not as the same doctrine.
 
 ## Related concepts
 

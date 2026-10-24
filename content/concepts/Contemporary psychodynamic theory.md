@@ -38,12 +38,12 @@ A psychodynamic account explains by personal history: the feature list includes 
 
 Shedler's own illustration of feature 3: "a man who repeatedly finds himself drawn to romantic partners who are emotionally unavailable; a woman who regularly sabotages herself when success is at hand". The review notes that a patient may be acutely aware of such patterns "but feel unable to escape them", or unaware of them until the therapist helps him or her recognize them. (Reported examples from the review, not new scenarios.)
 
-### In the compendium
+### Here
 
-- [[Y022 — Work with samskaras as the deep layer]] — the principle treats samskaras as subliminal impressions shaping the mind's flow; the resemblance to psychodynamic recurring patterns is the compendium's comparison, not a claimed identity
+- [[Y022 — Work with samskaras as the deep layer]] — the principle treats samskaras as subliminal impressions shaping the mind's flow; the resemblance to psychodynamic recurring patterns is my comparison, not a claimed identity
 - [[K008 — Expect the collapse of meaning; do not waste it]] — listed as a citing principle
 - [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — listed as a citing principle
-- [[V1K Reference — Sources for Book IV]] — the reference page carrying the compendium's psychodynamic lineage sources
+- [[V1K Reference — Sources for Book IV]] — the reference page carrying my psychodynamic lineage sources
 
 ## Related concepts
 

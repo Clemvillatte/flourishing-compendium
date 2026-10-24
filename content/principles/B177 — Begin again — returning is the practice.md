@@ -16,7 +16,7 @@ MN 20 teaches a monk to respond to thoughts imbued with desire, aversion or delu
 
 > "Just as a skilled carpenter or his apprentice would use a small peg to knock out, drive out, and pull out a large one; in the same way, if evil, unskillful thoughts — imbued with desire, aversion, or delusion — arise in a monk while he is referring to and attending to a particular theme, he should attend to another theme, apart from that one, connected with what is skillful." (MN 20, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html))
 
-The compendium extends this redirection practice to restarting after a lapse. Sitting again after abandoning a meditation habit is a modern application, not an instruction established by the quoted passage.
+I extend this redirection practice to restarting after a lapse. Sitting again after abandoning a meditation habit is a modern application, not an instruction established by the quoted passage.
 
 **Plain words**
 In this modern application, a lapse is a cue to choose the next sitting. You stopped practising; today you can sit again. Count that return without requiring a perfect streak.

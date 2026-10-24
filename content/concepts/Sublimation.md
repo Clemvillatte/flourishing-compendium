@@ -15,9 +15,9 @@ Sublimation is Freud's name for the redirected instinct: energy that would seek 
 
 The chapter sets sublimation beside two other fates of instinct. Some gratifications are renounced outright, and some instincts are "induced to change the conditions of their gratification, to find it along other paths, a process which is usually identical with what we know so well as sublimation (of the aim of an instinct)." Culture, Freud notes, can at first look like the force that imposed this fate: "If one were to yield to a first impression, one would be tempted to say that sublimation is a fate which has been forced upon instincts by culture alone. But it is better to reflect over this a while longer." The stakes of the whole arrangement are the book's thesis: "it is impossible to ignore the extent to which civilization is built up on renunciation of instinctual gratifications."
 
-The compendium's reading keeps the useful half and drops the pessimism. Redirected energy is not destroyed energy; the same urgency can feed the artwork and the practice. Treating impulses as raw material means giving them somewhere to go, and sublimation is the classic account of how the somewhere is found.
+My reading keeps the useful half and drops the pessimism. Redirected energy is not destroyed energy; the same urgency can feed the artwork and the practice. Treating impulses as raw material means giving them somewhere to go, and sublimation is the classic account of how the somewhere is found.
 
-### In the compendium
+### Here
 
 - [[P074 — Treat impulses as raw material, not enemies]] — the practice rule the concept grounds
 - [[P113 — Express by shaping, not venting]] — redirection rather than discharge

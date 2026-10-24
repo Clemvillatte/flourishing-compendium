@@ -23,7 +23,7 @@ The theory was set out in Lave and Wenger's 1991 book Situated Learning: Legitim
 
 Illustrative scenario, not one of Lave and Wenger's reported cases: a new hospital orderly shadows an experienced one, restocking and charting before touching anything critical, and takes on more as the older staff trust the work.
 
-### In the compendium
+### Here
 
 - [[D039 — Make rest the root of activity]] — the Daodejing's stillness as ruler of movement
 - [[D034 — Simplify your ecosystem]]

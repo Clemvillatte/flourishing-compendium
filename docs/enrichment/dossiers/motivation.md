@@ -8,10 +8,10 @@ Motivation is the difference between a value held and a value acted on. The rese
 
 - Drive: held under [Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory) and the brain-reward group below.
 - Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it.
-- Willpower: the compendium holds self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will.
+- Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will.
 - Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
 
-## The map: every entry the wiki holds on motivation
+## The map: the entries on motivation
 
 ### Intrinsic, extrinsic and the self-determination family
 
@@ -23,7 +23,7 @@ Motivation is the difference between a value held and a value acted on. The rese
 
 [Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory): the Deci and Ryan account of the needs whose satisfaction predicts well-being: autonomy, competence and relatedness.
 
-[Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which the compendium's principles rely.
+[Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which my principles rely.
 
 [Autonomous motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20motivation): includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own.
 
@@ -111,7 +111,7 @@ A competing meta-analysis reached the opposite bottom line:
 
 > "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/)): Secondary source; quoted passage checked.
 
-A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)): Secondary source; quoted passage checked. The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by the compendium's own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
+A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)): Secondary source; quoted passage checked. The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
 
 ### Is it how much motivation, or what kind?
 
@@ -119,13 +119,13 @@ The shared question: does the quantity of a person's drive predict how they do, 
 
 > "that the type of motivation is generally more important than the amount in predicting life's important outcomes." ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)): Secondary source; quoted passage checked.
 
-They define the two types as follows: "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self." The older needs-based and expectancy accounts that the compendium also holds treat motivation chiefly as a matter of strength or of expected payoff; the compendium's practices lean on the SDT reading and flag where other cards disagree in emphasis.
+They define the two types as follows: "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self." The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the source a person acts from. The look-alikes are effort, streaks and rewards that supply motion without ownership. The adaptive moves are to check whose reasons a goal rests on, to make the decision explicitly one's own, and to separate wanting from enjoying.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Meaning audit](https://clemvillatte.github.io/flourishing-compendium/#card=K223%20%E2%80%94%20Meaning%20audit): a monthly sitting asking each activity the four reason questions that tell a chosen goal from an imposed one.
 
@@ -143,7 +143,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Needs and the aspiration that serves them
 

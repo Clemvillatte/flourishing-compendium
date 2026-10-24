@@ -15,7 +15,7 @@ Values-concordant goals (the research term is self-concordance) are goals that m
 
 The two halves of the finding do different work. Concordant goals get more sustained effort and are more likely to be attained; and when they are attained, the benefit is larger. The abstract states the mechanism: "Attainment-to-well-being effects are mediated by need satisfaction, i.e., daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving" ([Sheldon & Elliot, 1999](https://psycnet.apa.org/doiLanding?doi=10.1037/0022-3514.76.3.482)). Striving toward a goal that fits produces a daily diet of feeling effective, self-chosen and connected, and that diet, not the trophy at the end, is where the well-being comes from. Later cross-cultural work summarized the reach of the effect: "owning one's actions", feeling that one's goals are consistent with the self, predicted subjective well-being within every culture studied, Western and non-Western alike (Sheldon et al., 2004).
 
-### In the compendium
+### Here
 
 - [[PP068 — Connect practices to values]] uses this research as its backbone: a practice tied to a value it expresses is carried by the same mechanism, felt need satisfaction during the striving, rather than by willpower against the grain.
 

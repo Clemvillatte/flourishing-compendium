@@ -17,7 +17,7 @@ The theory's founding paper splits self-regulation into two functions, each with
 
 Later work tied the modes to outcomes: assessment predicts procrastination and inaction inertia, while locomotion predicts steady progress.
 
-### In the compendium
+### Here
 
 - [[AF028 — Master emotional regulation flexibility — the skill is matching strategy to context]] — the flexibility principle this theory informs.
 

@@ -14,7 +14,7 @@ A retirement review for beliefs, strategies and identities, run on the suspicion
 
 ### Protocol
 
-The steps are the compendium's review form; the questions inside them are the simile's, quoted in the Evidence section.
+The steps are my review form; the questions inside them are the simile's, quoted in the Evidence section.
 
 1. List what carried you across a past stretch of life: the beliefs, strategies and identities that were once load-bearing.
 2. For each, ask the simile's usefulness question honestly: was this a raft, something crossed over on in dependence, and is the crossing it served now finished?

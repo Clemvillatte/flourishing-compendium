@@ -16,7 +16,7 @@ Bankei's instruction to his audience is to stop looking elsewhere: conclusively 
 
 > "Conclusively realize that what's unborn and marvellously illuminating is truly the Buddha Mind, straightaway abiding in the Unborn Buddha Mind just as it is, and you're a living tathagata (another name for a Buddha), from today forever after." (Bankei, [Dharma Zen Center](https://www.dharmazen.com/dharma-talks/2025/12/5/a-lecture-from-bankei-yotaku))
 
-His everyday proof is hearing. While you listen to a talk, the cawing of crows and the rustling of the wind are distinguished without any decision to hear them; that, he says, is hearing with the Unborn. The exercise below is the compendium's suggested extension of this hearing example to noticing a worry before deciding how to respond.
+His everyday proof is hearing. While you listen to a talk, the cawing of crows and the rustling of the wind are distinguished without any decision to hear them; that, he says, is hearing with the Unborn. The exercise below is my suggested extension of this hearing example to noticing a worry before deciding how to respond.
 
 > "The voices of the crows and sparrows, the rustling of the wind - you hear them without making any mistake about them, and that's what's called hearing with the Unborn." (Bankei, [Dharma Zen Center](https://www.dharmazen.com/dharma-talks/2025/12/5/a-lecture-from-bankei-yotaku))
 

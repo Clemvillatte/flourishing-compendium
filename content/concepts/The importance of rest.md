@@ -17,7 +17,7 @@ Aristotle ties this to contemplation. The contemplative life is the most self-su
 
 The modern attention sciences have their own version of the same point, stripped of the metaphysics. Real breaks restore attention; pseudo-breaks do not. Kang and Kurtzberg's 414-participant experiment found phone breaks impaired second-half anagram performance relative to paper or computer breaks, and Lim and Dinges's meta-analysis of 147 cognitive tests found short-term sleep deprivation produces its largest effect on simple attention (g = -0.776). Aristotle's claim, translated, survives the translation.
 
-### In the compendium
+### Here
 
 - [[AT039 — Learn to take real breaks — not all breaks are restorative]] — the attention-science version: not every break recharges.
 - [[AT042 — Recognise the role of sleep in attention — sleep deprivation destroys concentration]] — the sleep side of rest.
@@ -25,7 +25,7 @@ The modern attention sciences have their own version of the same point, stripped
 ## Related concepts
 
 - [[Scholē]] — the Greek concept of leisure as a condition of the soul, the deepest form of this idea.
-- [[The completeness of rest]] — the compendium's companion page on rest as an end-state.
+- [[The completeness of rest]] — my companion page on rest as an end-state.
 - [[Sabbath]] — the ritualised, weekly form of scheduled rest.
 - [[Restorative environments]] — the psychological study of what restores attention.
 

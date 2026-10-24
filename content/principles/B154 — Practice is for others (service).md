@@ -25,7 +25,7 @@ In the opening chapter of his Guide, Shantideva praises the intention to benefit
 
 The same chapter distinguishes aspiring to awaken from undertaking the path, comparing them to wishing to go somewhere and actually going ([verses 15-16, Adam Pearcey translation](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-1)). The scope is awakening for beings' welfare, not simply making oneself more efficient at volunteering; the [chapter](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-1) places practical service within that larger resolve.
 
-The compendium's everyday application keeps intention and conduct together: let a practice prepare you to be useful, then find out what help is wanted. The poem's praise is not empirical evidence that any particular practice benefits its recipient.
+My everyday application keeps intention and conduct together: let a practice prepare you to be useful, then find out what help is wanted. The poem's praise is not empirical evidence that any particular practice benefits its recipient.
 
 **Plain words**
 Wanting to help matters, but someone still has to receive the help. A quiet hour of study or meditation can belong to a life of service without looking like service itself. In this application, the connection becomes concrete when you make time for another person's needs and remain willing to hear that they need something different.

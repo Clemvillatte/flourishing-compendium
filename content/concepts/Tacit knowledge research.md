@@ -14,7 +14,7 @@ Tacit knowledge research is the tradition descending from Michael Polanyi's The 
 
 His running example is the oldest form of the problem: "We know a person's face, and can recognize it among a thousand, indeed among a million. Yet we usually cannot tell how we recognize a face we know." The police identikit method — assembling a likeness from feature pictures — looks like a counterexample, but Polanyi turns it: matching remembered features to the collection is itself a skill nobody can specify, so "this very act of communication displays a knowledge that we cannot tell." The tradition Polanyi started now runs through expertise studies, knowledge management, and the research on skill acquisition: all of them circling the same finding that the operative part of competence is often not articulable, which is why it must be transmitted by apprenticeship, correction, and practice rather than by manual.
 
-## In the compendium
+## Here
 
 - [[A039 — Value experience over theory in practical matters]]
 - [[ST024 — Wheelwright Pian Chides the Duke]]

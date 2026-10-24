@@ -17,11 +17,11 @@ On the Nahua metaphysics Maffie reconstructs, the cosmos is not described by art
 
 > "The cosmos is teotl's in xochitl, in cuicatl ('flower-and-song')... As teotl's 'flower and song' the cosmos is teotl's grand, ongoing artistic-cum-metaphorical self-presentation; teotl's ongoing work of performance art or 'metaphor in motion'." ([Maffie, IEP](https://iep.utm.edu/aztec-philosophy/))
 
-The sages (tlamatinime) turned to flower and song because ordinary language could not carry what they took reality to be: they used poetry, writing-painting and music "to disclose and present (not re-present) teotl as well as display and embody their understanding of teotl" ([Maffie, IEP](https://iep.utm.edu/aztec-philosophy/)). Truth itself, neltiliztli, was conceived "with well-grounded stability [well-foundedness or well-rootedness]" (León-Portilla 1963: 8, quoted in [Maffie, IEP](https://iep.utm.edu/aztec-philosophy/)). The tradition's own question was whether flowers and songs are the only truth available on a transient earth, which is why the compendium pairs this concept with its principles on beauty, mortality and song.
+The sages (tlamatinime) turned to flower and song because ordinary language could not carry what they took reality to be: they used poetry, writing-painting and music "to disclose and present (not re-present) teotl as well as display and embody their understanding of teotl" ([Maffie, IEP](https://iep.utm.edu/aztec-philosophy/)). Truth itself, neltiliztli, was conceived "with well-grounded stability [well-foundedness or well-rootedness]" (León-Portilla 1963: 8, quoted in [Maffie, IEP](https://iep.utm.edu/aztec-philosophy/)). The tradition's own question was whether flowers and songs are the only truth available on a transient earth, which is why I pair this concept with its principles on beauty, mortality and song.
 
-### In the compendium
+### Here
 
-- [[M012]] — the compendium's principle on spending your best materials on the best truths is a direct application of flower and song
+- [[M012]] — my principle on spending your best materials on the best truths is a direct application of flower and song
 - [[M013]] — flower and song is the tradition's own name for the art this principle makes in the face of transience
 - [[M015]] — the principle on the songs' communal performance belongs with the tradition's own name for the sung art
 

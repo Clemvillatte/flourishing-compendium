@@ -21,14 +21,14 @@ The same review gives the numbers:
 
 The same review notes that a more recent meta-analytic work, Chernev et al. 2015, has shown that choice overload occurs only under certain conditions.
 
-### In the compendium
+### Here
 
 - [[D022 — Subtract, don't add]] — the principle takes the overload finding as a reason to subtract options rather than add them.
 - [[D165 — Cut complexity back to simplicity]] — the principle on complexity, against which the overload research supplies the empirical contrast.
 
 ## Related concepts
 
-- [[Paradox of choice]] — the compendium's pairing for the same finding.
+- [[Paradox of choice]] — my pairing for the same finding.
 
 ## Sources
 

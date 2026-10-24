@@ -19,7 +19,7 @@ The same review's table lists the 2006 Gollwitzer and Sheeran meta-analysis of 9
 
 ### The mechanism
 
-Specifying the critical cue makes it salient and the response automatic: the plan runs like a habit without yet being one, which is why the compendium treats it as the bridge across [[Akrasia]] and the front-end of [[Behavioral activation]] and [[WOOP (Wish, Outcome, Obstacle, Plan)|WOOP]]. The Daoist and Stoic parallels are cue-based practice: use ordinary events as bells, begin the morning with premeditation and structure.
+Specifying the critical cue makes it salient and the response automatic: the plan runs like a habit without yet being one, which is why I treat it as the bridge across [[Akrasia]] and the front-end of [[Behavioral activation]] and [[WOOP (Wish, Outcome, Obstacle, Plan)|WOOP]]. The Daoist and Stoic parallels are cue-based practice: use ordinary events as bells, begin the morning with premeditation and structure.
 
 ### The distinction to hold
 
@@ -31,7 +31,7 @@ Every gym visit this week triggered by one pre-decided cue, the coffee cup rinse
 
 Its Buddhist ancestor is [[Right effort]], effort decided in advance of the moment of weakness.
 
-### In the compendium
+### Here
 
 - [[A057 — Know that akrasia is not invincible]] — the akrasia bridge
 - [[B188 — Use ordinary cues as bells]] — the cue-based cousin

@@ -7,7 +7,7 @@ file: "The great poem of the body"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Walt Whitman's 1855 Preface to Leaves of Grass promises the reader that a life lived rightly becomes poetry in the flesh. The compendium's heading condenses that promise.
+Walt Whitman's 1855 Preface to Leaves of Grass promises the reader that a life lived rightly becomes poetry in the flesh. My heading condenses that promise.
 
 > "dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body" (Whitman, Preface to the 1855 Leaves of Grass, [Internet Archive scan of the first edition](https://archive.org/details/LeavesOfGrass1855Edition))
 
@@ -15,7 +15,7 @@ Walt Whitman's 1855 Preface to Leaves of Grass promises the reader that a life l
 
 The preface's instruction list opens with "Love the earth and sun and the animals" and closes with the great-poem promise. The poems make the same claim in verse: "I am the poet of the Body and I am the poet of the Soul" ("Song of Myself" §21), and "I Sing the Body Electric" asks "And if the body were not the soul, what is the soul?" before stating flatly, in its eighth section, "If any thing is sacred the human body is sacred".
 
-### In the compendium
+### Here
 
 - [[B040 — Know the body (body contemplation)]]
 - [[D036 — Treasure your life and health as the vessel of everything]]

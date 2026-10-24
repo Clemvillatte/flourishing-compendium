@@ -14,7 +14,7 @@ Every few months, vary the form of your practices while keeping the function. Ro
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the context-dependence they exploit is documented in the habit research below.*
+*Steps are my own protocol; the context-dependence they exploit is documented in the habit research below.*
 
 1. Keep the function fixed and name it; a redesign that cannot state what the practice is for will lose it.
 2. Change the form deliberately: time, place, order, or tool; the change of context is the mechanism, not a side effect.

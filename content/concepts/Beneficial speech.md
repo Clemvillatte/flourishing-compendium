@@ -20,11 +20,11 @@ The Abhaya Sutta sets out six cases ([MN 58, Thanissaro translation](https://www
 
 > "In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings." — [MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)
 
-### In the compendium
+### Here
 
 - [[Y107 — Practice austerity of body, speech, and mind]] — carries the Gita's three disciplines, with speech named as words causing no woe, ever true, gentle and pleasing
 - [[B023 — Practice right speech]] — the principle built on MN 58's criteria for what the Tathagata says and does not say
-- [[K208 — Speech gate]] — the compendium's pre-speech check: true, timely, beneficial, kind
+- [[K208 — Speech gate]] — my pre-speech check: true, timely, beneficial, kind
 - [[B146 — Test speech before it leaves]] — the four questions drawn from MN 58 and Sutta Nipata 3.3
 - [[Y029 — Practice truth that serves]] — the Yoga Sūtra truthfulness principle that pairs BG 17.15 with a difficult-feedback exercise
 - [[M028 — Guard your speech; it is your face's edge]] — the Florentine Codex counsel to speak moderately and softly

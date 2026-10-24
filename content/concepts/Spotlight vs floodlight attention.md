@@ -19,7 +19,7 @@ The finding is directional, not symmetrical. When the global and local levels of
 
 ### The regulative half
 
-Förster and Higgins's regulatory mode work adds the second half of the compendium's pairing: the attentional aperture widens or narrows with the person's regulatory state, so that "attending broadly versus narrowly" is a state that can be induced ([Förster and Higgins 2005, as summarized in the Lehigh thesis](https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=2313&context=etd)). The compendium's principle on using attention as a spotlight holds both halves: narrow for focus, broad for context, and the evidence that the broad view has temporal priority in the first pass.
+Förster and Higgins's regulatory mode work adds the second half of my pairing: the attentional aperture widens or narrows with the person's regulatory state, so that "attending broadly versus narrowly" is a state that can be induced ([Förster and Higgins 2005, as summarized in the Lehigh thesis](https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=2313&context=etd)). My principle on using attention as a spotlight holds both halves: narrow for focus, broad for context, and the evidence that the broad view has temporal priority in the first pass.
 
 ## Related concepts
 

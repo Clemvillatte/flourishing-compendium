@@ -19,7 +19,7 @@ The chapter grounds the doctrine in operations. Thought, he writes, can begin a 
 
 ### What it rules out
 
-An idea that never passes into action has, intellectually, nothing to its credit; the value of ideas is determined, on this account, by the operations to which they lead. The compendium's principles translate the doctrine: an idea's meaning is its practical effects, ideas are tools rather than mirrors of reality, and concepts that no longer earn their keep should be retired.
+An idea that never passes into action has, intellectually, nothing to its credit; the value of ideas is determined, on this account, by the operations to which they lead. My principles translate the doctrine: an idea's meaning is its practical effects, ideas are tools rather than mirrors of reality, and concepts that no longer earn their keep should be retired.
 
 ## Sources
 

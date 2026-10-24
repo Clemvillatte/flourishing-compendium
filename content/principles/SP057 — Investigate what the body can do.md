@@ -20,7 +20,7 @@ The aim is philosophical. One commentator reads Spinoza as warning that "the sou
 
 ### Scope
 
-Reading the line as a prompt to test one's self-description is the compendium's use of it. Ethics V, Preface, and have not checked the cited locator is cited at second hand.
+Reading the line as a prompt to test one's self-description is my use of it. Ethics V, Preface, and have not checked the cited locator is cited at second hand.
 
 **Plain words**
 Spinoza says we do not yet know what a body can do by its own nature. That does not prove you can do more than you think, but it is a reason to test beliefs about your limits.

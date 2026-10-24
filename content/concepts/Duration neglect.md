@@ -19,7 +19,7 @@ Kahneman and colleagues (1993) gave volunteers two painful trials with a hand in
 
 If remembered quality and lived quality can come apart, then a choice made from memory may not track how much someone actually went through. The studies above show the gap in short laboratory episodes; this page does not claim that it holds for months of grief or chronic illness.
 
-### In the compendium
+### Here
 
 - [[CO057 — Recognise the peak-end rule in memory — you remember peaks and endings]] works from a related study of patients' memories of painful medical procedures, where the length of the procedure also made little difference to the remembered verdict.
 

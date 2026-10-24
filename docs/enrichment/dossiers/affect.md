@@ -11,7 +11,7 @@ Feelings are where a life registers itself: their structure, their change over t
 - The Cognition dossier's [Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic) entry maps the same-named card from the judgment side; both are listed here.
 - The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](https://clemvillatte.github.io/flourishing-compendium/#card=Common%20flourishing) and [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being).
 
-## The map: every entry the wiki holds on affect
+## The map: the entries on affect
 
 ### The oldest questions about feeling
 
@@ -21,7 +21,7 @@ Feelings are where a life registers itself: their structure, their change over t
 > "Common sense says, we lose our fortune, are sorry and weep; we meet a bear, are frightened and run; we are insulted by a rival, are angry and strike. The hypothesis here to be defended says that this order of sequence is incorrect, that the one mental state is not immediately induced by the other, that the bodily manifestations must first be interposed between, and that the more rational statement is that we feel sorry because we cry, angry because we strike, afraid because we tremble"
 >
 > ([James 1884](https://psychclassics.yorku.ca/James/emotion.htm), Mind; primary text; quoted passage checked, the source's closing comma omitted)
-- [Emotion as construction](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20as%20construction): the compendium's label for a reading of The Gay Science §290 — the give-style-to-character art turned on feeling: emotional life as material re-fitted by long practice and daily work rather than merely undergone.
+- [Emotion as construction](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20as%20construction): the label I use for a reading of The Gay Science §290 — the give-style-to-character art turned on feeling: emotional life as material re-fitted by long practice and daily work rather than merely undergone.
 - [Emotions as judgments](https://clemvillatte.github.io/flourishing-compendium/#card=Emotions%20as%20judgments): the Stoic-cognitivist line — anger at someone is the judgment that one has been wronged by them.
 - [Fellow feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Fellow%20feeling): the eighteenth-century sentimentalist name for the tendency to catch others' emotions; Hume's sympathy as the mechanism of Book III of the Treatise.
 - [Distinguishing feeling from fact](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20feeling%20from%20fact): the Stoic distinction between things and judgements about them, applied to feelings and their interpretations.
@@ -63,7 +63,7 @@ Feelings are where a life registers itself: their structure, their change over t
 ### The passions, named and ordered
 
 - [The taxonomy of passions](https://clemvillatte.github.io/flourishing-compendium/#card=The%20taxonomy%20of%20passions): Spinoza's Ethics Part III project — the crowd of human emotions reduced to three primary affects, the rest derived by combination with objects.
-- [Naming the passions](https://clemvillatte.github.io/flourishing-compendium/#card=Naming%20the%20passions): the compendium's editorial heading for Spinoza's definitions of the emotions — Part III opens with the complaint that no one has determined them.
+- [Naming the passions](https://clemvillatte.github.io/flourishing-compendium/#card=Naming%20the%20passions): my heading for Spinoza's definitions of the emotions — Part III opens with the complaint that no one has determined them.
 - [The counter-affect](https://clemvillatte.github.io/flourishing-compendium/#card=The%20counter-affect): pratipakṣā-bhāvanā, cultivating the opposite — the early discourses' method when an unskillful state of mind takes hold.
 - [Passion theory Vallerand](https://clemvillatte.github.io/flourishing-compendium/#card=Passion%20theory%20Vallerand): the Dualistic Model of Passion — passion for an activity harmonious or obsessive, according to how the activity has been internalized into identity.
 
@@ -121,7 +121,7 @@ Feelings are where a life registers itself: their structure, their change over t
 
 ### Sayings
 
-- [Beware the moods of the many](https://clemvillatte.github.io/flourishing-compendium/#card=Beware%20the%20moods%20of%20the%20many): Laozi, Daodejing 20; the compendium links it to guarding against affect contagion.
+- [Beware the moods of the many](https://clemvillatte.github.io/flourishing-compendium/#card=Beware%20the%20moods%20of%20the%20many): Laozi, Daodejing 20; I link it to guarding against affect contagion.
 
 ### Kernels
 
@@ -171,7 +171,7 @@ Evidence limits: the outcome language in the kernel descriptions above is the ke
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The oldest questions about feeling
 

@@ -13,7 +13,7 @@ The Dunning-Kruger effect is the finding, from Kruger and Dunning's four studies
 
 In their four studies, "Although their test scores put them in the 12th percentile, they estimated themselves to be in the 62nd." The authors link this miscalibration to deficits in "metacognitive skill, or the capacity to distinguish accuracy from error". They also report that "improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities".
 
-### In the compendium
+### Here
 
 - [[CO025 — Know the Dunning-Kruger effect — incompetence is invisible to itself]] is this concept's psychology parallel
 - [[D075 — Don't underestimate challenges]] and [[D100 — Rest in unknowing]] carry its philosophical edge

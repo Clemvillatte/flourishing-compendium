@@ -13,7 +13,7 @@ Incubation is the effect in problem solving where setting a problem aside, rathe
 
 ### What the conditions are
 
-The moderator pattern carries the practical instruction the compendium's principle draws. Incubation is real but conditional: it helps divergent thinking most, it works better after a longer preparation period, so the break should follow real work rather than replace it, and the break should be filled with something undemanding rather than another demanding task. A walk beats a spreadsheet.
+The moderator pattern carries the practical instruction my principle draws. Incubation is real but conditional: it helps divergent thinking most, it works better after a longer preparation period, so the break should follow real work rather than replace it, and the break should be filled with something undemanding rather than another demanding task. A walk beats a spreadsheet.
 
 ## Related concepts
 

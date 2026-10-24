@@ -14,7 +14,7 @@ Take one hard chapter of your life and rewrite it toward what it grew, what it t
 
 ### Protocol
 
-The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
+The steps are my practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. Choose one hard chapter, and write it first as it currently reads, pain included.
 2. Rewrite the same chapter toward what it grew, what it taught, what it made possible, keeping the difficulty in the text and inventing no benefits the events do not support.

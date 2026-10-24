@@ -18,7 +18,7 @@ In Discourses I.2, Epictetus rejects abandoning effort because one does not expe
 
 (Disc. I.2, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt).)
 
-The compendium applies this argument to beginning a practice with the time and ability presently available.
+I applie this argument to beginning a practice with the time and ability presently available.
 
 **Plain words** Imagine refusing to learn to cook because you will never be a great chef. You could still learn to make dinner. When you feel too far behind to begin a practice, ask whether you are making the same demand of yourself.
 

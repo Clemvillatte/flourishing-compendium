@@ -17,10 +17,10 @@ The first move changes the behavior: "the dissonance can, of course, be eliminat
 
 The third move is the one that makes the theory uncomfortable. "But even if it is impossible to eliminate a dissonance, it is possible to reduce the total magnitude of dissonance by adding new cognitive elements" (same text). And the theory predicts avoidance as well as repair: "When dissonance is present, in addition to trying to reduce it, the person will actively avoid situations and information which would likely increase the dissonance" (same text).
 
-### In the compendium
+### Here
 
 - [[CO076 — Learn to recognise cognitive dissonance — inconsistency is uncomfortable and drives change]] — carries the theory, including its replication record, as an explanatory account to test rather than a rule
-- [[ST186 — The Fox and the Grapes]] — the compendium's story for the third move: the fox re-describes the unreachable grapes as sour
+- [[ST186 — The Fox and the Grapes]] — my story for the third move: the fox re-describes the unreachable grapes as sour
 
 ## Related concepts
 

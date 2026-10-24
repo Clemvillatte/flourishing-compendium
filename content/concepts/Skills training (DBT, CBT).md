@@ -23,7 +23,7 @@ Valentine and colleagues report that DBT skills training is being given as a sta
 
 > "While the literature reviewed provides preliminary evidence of the utility of DBT skills training to address a range of mental health and behavioral problems, methodological limitations of published studies preclude us from drawing strong conclusions about the efficacy of skills training as a stand-alone treatment." (Valentine et al. 2015, [PubMed 25042066](https://pubmed.ncbi.nlm.nih.gov/25042066/))
 
-### In the compendium
+### Here
 
 - [[BE004 — Understand that behaviour is learned — skills can be acquired]], [[BE007 — Understand that behaviour change follows stages — precontemplation to maintenance]] and [[BE021 — Learn to use behavioural rehearsal — practise before performing]] cite this concept.
 - [[AT058 — Learn to monitor and maintain attention — build a practice]] and [[AT077 — Build attentional maintenance — ongoing practice and adaptation]] cite it as well.

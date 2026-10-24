@@ -17,11 +17,11 @@ Dewey's point is that plasticity is learning capacity, not mere pliancy. He says
 
 ### Limits of the claim
 
-Dewey is arguing against the idea that war, or any one social arrangement, is fixed by an unchanging native force: "to suppose there is some one unchanging native force which generates war is as naive as the usual assumption that our enemy is actuated solely by the meaner of the tendencies named and we only by the nobler." His argument is philosophical and social. It is not an empirical measurement of how much an adult's character can change. It also does not rely on neuroplasticity research, which the compendium treats on a separate page.
+Dewey is arguing against the idea that war, or any one social arrangement, is fixed by an unchanging native force: "to suppose there is some one unchanging native force which generates war is as naive as the usual assumption that our enemy is actuated solely by the meaner of the tendencies named and we only by the nobler." His argument is philosophical and social. It is not an empirical measurement of how much an adult's character can change. It also does not rely on neuroplasticity research, which I treat on a separate page.
 
-### In the compendium
+### Here
 
-The principles below apply Dewey's view to habit change and to conduct as interaction, among them A108 (Practise habituation through repeated action) and P073 (See conduct as interaction). B003 (Hold the self lightly) comes from a Buddhist source. Dewey does not discuss anatta, so any link there is made by the compendium.
+The principles below apply Dewey's view to habit change and to conduct as interaction, among them A108 (Practise habituation through repeated action) and P073 (See conduct as interaction). B003 (Hold the self lightly) comes from a Buddhist source. Dewey does not discuss anatta, so any link there is mine.
 
 ## Related concepts
 

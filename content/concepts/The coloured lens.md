@@ -17,9 +17,9 @@ In the reading Gallegos reports, a person in a mood becomes disposed to see enco
 
 The image is not a claim that every mood falsifies the world. Emerson says each lens "shows only what lies in its focus", which describes selective emphasis, and Gallegos, as reported above, argues that the metaphor misleads in important ways. For practice the useful part is modest: name the mood before trusting what it shows, and check what the lens may be leaving out.
 
-### In the compendium
+### Here
 
-The compendium also links this image to [[Right view]].
+I also link this image to [[Right view]].
 
 - [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] — discusses attentional bias in anxiety and depression
 - [[AT070 — Recognise anxiety's effect on attention — threat capture]] — discusses anxiety's effect on attention

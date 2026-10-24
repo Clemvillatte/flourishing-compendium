@@ -31,14 +31,14 @@ The 1943 theory holds that "Human needs arrange themselves in hierarchies of pre
 - **Peak and plateau experiences** — moments of wholeness and rapture in self-actualizing people, later the calmer plateau experiences of aging. See [[Peak experiences]], [[P115 — Welcome peak experiences — don't chase them|Welcome peak experiences: don't chase them]].
 - **Self-transcendence** — his late view that people need something bigger than themselves. See [[Self-transcendence]], [[Transcendence]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Hierarchy of Needs Theory]]
 - [[Self-actualization (Maslow)]]
 - [[Peak experiences]]
 - [[B-values]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (23)
 - [[A001 — Make eudaimonia the organising end of your life|Make eudaimonia the organising end of your life]]

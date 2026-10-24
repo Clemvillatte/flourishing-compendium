@@ -19,11 +19,11 @@ What remains for study is the correlation between experienced objects and their 
 
 The return has a late destination. In his final period Husserl treated the life-world, in the entry's phrase "the world we live and feel at home in," as the basis of science. The entry summarizes the point: "the world as described by science is not an autonomous world, a world behind or below the manifest world. Rather, it is the same world as that of everyday experience...but now enriched theoretically." The maxim therefore does not attack science; it demands that theory stay answerable to the experience it enriches.
 
-### In the compendium
+### Here
 
 E011 "Practise phenomenological description" cites the maxim directly: describe experience as it is given, before theorising about it. P004 "Start from experience, not from theory" carries the same rule with James and Dewey, and Y026 and A050 train the attention it needs.
 
-The compendium also pairs the return with contemplative cousins: K015 and B124 meet suchness, B048 keeps beginner's mind, and D010, D013 and D099 receive things as they are in the Daoist register. ST259, the apple story, gives the method its front door: the apple's far side is not seen and yet is given as there.
+I also pair the return with contemplative cousins: K015 and B124 meet suchness, B048 keeps beginner's mind, and D010, D013 and D099 receive things as they are in the Daoist register. ST259, the apple story, gives the method its front door: the apple's far side is not seen and yet is given as there.
 
 ## Related concepts
 
@@ -31,7 +31,7 @@ The compendium also pairs the return with contemplative cousins: K015 and B124 m
 - [[Intentionality]] — the consciousness-of structure the maxim presupposes
 - [[Phenomenology of the lifeworld]] — the return's destination in later Husserl
 - [[Pure experience]] — a parallel route back to what is given before theory
-- [[Tathata, suchness]] — the Buddhist parallel, paired in the compendium via B124
+- [[Tathata, suchness]] — the Buddhist parallel, paired here via B124
 - [[Beginner's mind]] — the Zen posture of first encounter, paired via B048
 - [[Pu (the uncarved block)]] — the Daoist return to the unhewn, paired via D010
 - [[Ziran (naturalness)]] — things being what they are of themselves, paired via D002

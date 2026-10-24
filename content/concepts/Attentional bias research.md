@@ -19,7 +19,7 @@ Rather than measuring attention and anxiety together and inferring a link, the t
 
 The abstract's closing sentence points to the applied program this research suggested: procedures "designed to modify selective information processing may have potential therapeutic value." The 2002 finding is the study that made the causal question experimental rather than correlational.
 
-### In the compendium
+### Here
 
 - [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]]
 - [[AT070 — Recognise anxiety's effect on attention — threat capture]]

@@ -18,7 +18,7 @@ The Brihadaranyaka gives the method as a refusal, twice. First:
 
 Then, naming what the refusal leaves: "Then comes the name 'the True of the True,' the senses being the True, and he (the Brahman) the True of them." ([BU 2.3.6](https://archive.org/details/p2upanishads00mluoft)) And later, the formula attached to the Self itself: "He, the Self, is to be described by No, no! He is incomprehensible, for he cannot be comprehended; he is imperishable, for he cannot perish." ([BU 4.4.22](https://archive.org/details/p2upanishads00mluoft))
 
-The procedure is a discipline of elimination applied to your own identifications: I am not this role, not this emotion, not this body, not this history. The instruction ends where assertion would begin. The compendium's application: run the negation as a weekly exercise, and stop at the silence rather than the conclusion.
+The procedure is a discipline of elimination applied to your own identifications: I am not this role, not this emotion, not this body, not this history. The instruction ends where assertion would begin. My application: run the negation as a weekly exercise, and stop at the silence rather than the conclusion.
 
 **Plain words** You cannot describe this thing by saying what it is, only by crossing off what it is not. The discipline is to keep crossing off in order, without skipping to the conclusion. Whatever remains when the crossing-off is done is not named by the procedure, and that is deliberate.
 

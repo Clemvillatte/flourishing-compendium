@@ -19,12 +19,12 @@ The chapter's structure is diagnostic, not decorative: the divine qualities are 
 
 ### How the list is used
 
-As a practice document the list works as a self-audit: each quality is checkable on a given day, and the Gita's own framing — that these belong to one "born for the divine estate" — is read by the commentaries as a description of trajectory rather than pedigree ([srimadgita.com](https://www.srimadgita.com/chapter/16); [Ramanuja commentary at bhagavad-gita.us](https://www.bhagavad-gita.us/bhagavad-gita-16-1-3/)). The monthly audit practice in the compendium's research side is the direct descendant of this structure.
+As a practice document the list works as a self-audit: each quality is checkable on a given day, and the Gita's own framing — that these belong to one "born for the divine estate" — is read by the commentaries as a description of trajectory rather than pedigree ([srimadgita.com](https://www.srimadgita.com/chapter/16); [Ramanuja commentary at bhagavad-gita.us](https://www.bhagavad-gita.us/bhagavad-gita-16-1-3/)). The monthly audit practice in my research side is the direct descendant of this structure.
 
 ## Related concepts
 
 - [[The catalogue of virtues]] — the Western tradition's parallel list
-- [[The four views]] — the compendium's treatment of the Gita's framework
+- [[The four views]] — my treatment of the Gita's framework
 - [[Anger's attributional analysis]] — the research-side account of the anger item
 
 ## Sources

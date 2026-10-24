@@ -25,7 +25,7 @@ The book's own account of the setback problem:
 > "When people set up an absolute black-or-white perfection goal for themselves (e.g., “I will not eat sweets”), the first rule violation can trigger a breakdown in self-control (Baumeister et al., 1994; Cummings, Gordon, & Marlatt, 1980). Once the rule has been broken it seems there is nothing to lose. The very term relapse is a pejorative label implying that there are only two possible states: perfection or relapse (Miller, 1996). It can help to catch these setbacks early, normalize them, and keep them from derailing the person’s entire plan."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
-What the sources do not test: the passage describes the clinical support task; the self-directed framing on this page is the compendium's adaptation, and the safety caveat above stands where a slip carries serious consequences.
+What the sources do not test: the passage describes the clinical support task; the self-directed framing on this page is my adaptation, and the safety caveat above stands where a slip carries serious consequences.
 
 ## Related concepts
 

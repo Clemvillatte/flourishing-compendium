@@ -17,7 +17,7 @@ Meno offers a definition: "Virtue is the desire of things honourable and the pow
 
 Socrates then tests that half with the case of getting gold unjustly, and proposes the requirement that "justice or temperance or holiness, or some other part of virtue... must accompany the acquisition", with which Meno agrees ([78d](http://classics.mit.edu/Plato/meno.html)). The definition fails on the dialogue's own stated ground: Socrates had asked for virtue "whole and unbroken", and Meno's answer defines it "with a part of virtue", "as though you had told me and I must already know the whole of virtue" ([79a](http://classics.mit.edu/Plato/meno.html)). Meno, numb like the man stung by the torpedo fish, compares Socrates to it: "you seem to me both in your appearance and in your power over others to be very like the flat torpedo fish, who torpifies those who come near him and touch him" ([80a](http://classics.mit.edu/Plato/meno.html)).
 
-### In the compendium
+### Here
 
 - [[B131 — Exhaust the conceptual mind (the sound of one hand)]] — the principle that lists this concept among its philosophy parallels; its koan runs the conceptual mind until it gives out, as the elenchus runs an interlocutor's answers
 

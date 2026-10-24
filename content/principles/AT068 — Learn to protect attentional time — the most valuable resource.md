@@ -16,7 +16,7 @@ The priority this principle gives attention has a study behind it. In Killingswo
 
 > "A human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, 2010 — [full text](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf) — Science 330, p. 932)
 
-The findings motivate this principle's framing, which is the compendium's own: hours on the calendar are not the unit; attentive presence is. The study found minds elsewhere in 46.9% of its samples, and an hour with the mind present is a different hour from an hour with the mind elsewhere, whatever the clock says.
+The findings motivate this principle's framing, which is my own: hours on the calendar are not the unit; attentive presence is. The study found minds elsewhere in 46.9% of its samples, and an hour with the mind present is a different hour from an hour with the mind elsewhere, whatever the clock says.
 
 **Plain words**
 An empty Saturday can still be a spent Saturday: the mind was parcelled out to errands, pings, and worry. The study's number makes the point starkly — minds were elsewhere in almost half the samples. Attention, not clock time, is the thing to budget.
@@ -43,7 +43,7 @@ As an everyday illustration: "I have all Saturday to write" — and Saturday pro
 - **[[Simplicity|Simplicity and focus]]** (Daoism, Daodejing 19) — "simple views, and courses plain and true / Would selfish ends and many lusts eschew" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 - **[[The discipline of attention|The discipline of attention]]** (Simone Weil, Waiting for God)
 
-Cross-tradition parallels above are the compendium's analogies between the study findings and older accounts of examined living, simplicity, and attention; they are not claims of equivalent mechanisms.
+Cross-tradition parallels above are my analogies between the study findings and older accounts of examined living, simplicity, and attention; they are not claims of equivalent mechanisms.
 
 ## Practice
 

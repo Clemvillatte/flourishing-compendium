@@ -16,14 +16,14 @@ Minority influence is Serge Moscovici's 1976 reversal of the conformity literatu
 
 The style that makes the minority a "force to be reconed with" is characterized by "temporal consistency, internal consensus, and autonomy and investment in their position, even at the price of reprisals." And the route by which the majority changes is private first: "This socio-cognitive conflict may be resolved over time such that some majority members privately adopt the minority position. This private conversion may cautiously be communicated to others, thus, gradually becoming public."
 
-The compendium's [[D109 — Be willing to differ from the crowd]] and [[D128 — Learn from everyone]] trade on this: dissent is not noise to be suppressed but the mechanism by which a group or culture corrects itself.
+My [[D109 — Be willing to differ from the crowd]] and [[D128 — Learn from everyone]] trade on this: dissent is not noise to be suppressed but the mechanism by which a group or culture corrects itself.
 
 ## Related concepts
 
 
-- [[D109 — Be willing to differ from the crowd]] — the compendium principle this theory grounds
+- [[D109 — Be willing to differ from the crowd]] — my principle this theory grounds
 - [[Conformity]] — the Asch tradition Moscovici was answering
-- [[X018 — Accept nonconformity as the price and let society be gently wrong]] — the compendium principle closest to the minority's posture
+- [[X018 — Accept nonconformity as the price and let society be gently wrong]] — my principle closest to the minority's posture
 - [[Reciprocity norm theory Gouldner]] — the other side of group dynamics the theory corrects
 
 ## Sources

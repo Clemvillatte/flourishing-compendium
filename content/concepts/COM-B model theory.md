@@ -40,9 +40,9 @@ An organising framework explains by giving a diagnosis grid. When a behaviour fa
 
 Take someone who keeps meaning to walk more but does not. The COM-B diagnosis separates three different possibilities: not knowing what counts as enough exercise (psychological capability), living where no route feels safe after dark (physical opportunity), and intending to walk in the morning but reaching for the phone instead (automatic motivation alongside reflective). Each possibility suggests a different place to look. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
-The compendium uses the model as a diagnostic kindness, each principle as a comparison rather than a claimed influence.
+I use the model as a diagnostic kindness, each principle as a comparison rather than a claimed influence.
 
 - [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]] — listed as a citing principle; a bad day can be read as missing capability, though the model does not itself classify illness or fatigue
 - [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — listed as a citing principle; the model's physical capability and automatic motivation are the nearby hooks

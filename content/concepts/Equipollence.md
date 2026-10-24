@@ -17,7 +17,7 @@ Katja Vogt's summary of the basic elements runs:
 
 The interesting part is what equipollence is for. The proto-skeptics began disturbed by the discrepancies among appearances and hoped to settle what was true and false; encountering views "of equal weight," they found themselves unable to decide, gave up, and experienced tranquility ([Vogt, SEP §4.4](https://plato.stanford.edu/entries/skepticism-ancient/)).
 
-### In the compendium
+### Here
 
 - [[X002]] — the concept names the equal weight of opposed judgments; X002 carries the working formula, no more this than that, that marks the equipollence and cancels itself along with the rest
 - [[X001 — Practice equipollence deliberately]] — the principle that turns the balancing move into a practice

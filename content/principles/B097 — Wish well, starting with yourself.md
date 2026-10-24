@@ -21,7 +21,7 @@ Dhammapada 157 makes the self-care move explicit: "If you hold yourself dear / t
 > in any of the three watches of the night,
 > the three stages of life." (Dhammapada 157, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.12.than.html))
 
-The compendium applies the verse as a question: who is guarding the guard?
+I applie the verse as a question: who is guarding the guard?
 
 **Plain words**
 The verse's logic is unglamorous: if you matter to the people who depend on you, then your rest and your ease are their business too. Guarding yourself well sits in the same breath as holding yourself dear. The rest day is part of the guarding.

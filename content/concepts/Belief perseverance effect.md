@@ -21,7 +21,7 @@ The same abstract reports that both actors and observers showed substantial pers
 
 The authors proposed that biased attribution processes underlie perseverance phenomena. Later accounts in the same literature read the effect as evidence that once a person has built an explanation around a piece of evidence, removing the evidence does not remove the explanation.
 
-### In the compendium
+### Here
 
 - [[CO016 — Understand belief perseverance — beliefs persist after their evidence is discredited]] — the principle takes the perseverance effect and works it into a caution about beliefs.
 - [[PP045 — Build a stress mindset that is nuanced]] — the principle pairs the perseverance finding with the stress-mindset question.

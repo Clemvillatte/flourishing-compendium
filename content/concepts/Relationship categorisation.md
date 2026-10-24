@@ -17,7 +17,7 @@ The taxonomic habit is old: "there is a long history of attempts to create taxon
 
 The prototype approach carries a consequence for how boundaries behave. If a relationship is judged by its match to a mental representation of a fuzzy set of features, then the line between friend and not-friend is a matter of degree rather than a test with necessary conditions: a given relationship can be more or less typical of the prototype, and the sorting is done case by case against it rather than by definition.
 
-### In the compendium
+### Here
 
 - [[A073 — Distinguish friendship from partnership]] — the sorting question applied to intimate life
 - [[A064 — Know the three kinds of friendship]] — Aristotle's typology as a practice
@@ -26,7 +26,7 @@ The prototype approach carries a consequence for how boundaries behave. If a rel
 
 - [[Prototype theory]] — the cognitive basis of Fehr's prototype approach
 - [[Friendship]] — the relation this categorisation carves
-- [[Three kinds of friendship]] — the Aristotle typology carried in the compendium
+- [[Three kinds of friendship]] — the Aristotle typology carried here
 
 ## Sources
 

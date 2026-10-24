@@ -24,7 +24,7 @@ The same abstract reports the bias across "individuals with different clinical d
 >
 > (Disner et al., 2011, Nature Reviews Neuroscience 12(8), [abstract](https://pubmed.ncbi.nlm.nih.gov/21731066/))
 
-The compendium uses these findings to suggest examining what has drawn your attention and what else is present. Treat this as an exercise in checking an interpretation, without assuming that every anxious or depressed person shows the same pattern.
+I use these findings to suggest examining what has drawn your attention and what else is present. Treat this as an exercise in checking an interpretation, without assuming that every anxious or depressed person shows the same pattern.
 
 **Plain words**
 For this exercise, notice what keeps drawing your attention. What else is present in the situation? Describe what you observed separately from what you think it means, then consider whether your interpretation needs revising.

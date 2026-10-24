@@ -35,7 +35,7 @@ An earlier version of the same encyclopedia entry says that, for Heidegger, huma
 
 These are interpretations of Heidegger's philosophy by a commentator. They are not psychological findings, and the 1929 Kant book was not read. The original entry also lists Jaspers (Philosophy), Heidegger (Being and Time) and James (The Varieties of Religious Experience) as sources; none of them were opened for this page.
 
-### In the compendium
+### Here
 
 - [[E043 — Practise being-toward-death (Sein-zum-Tode)]] and [[E054 — Practise finitude as gift]] cite this concept.
 

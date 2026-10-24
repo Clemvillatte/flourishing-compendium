@@ -15,7 +15,7 @@ Two features make it a justice between generations rather than a general benevol
 
 **Plain words** Ethics used to assume your actions died with your neighbours. Once actions can reach generations ahead, a new rule is needed: treat the indefinite survival of genuine human life as something you are holding, and include the people who come after you among the people you are acting for.
 
-### In the compendium
+### Here
 
 - [[R112 — Practise intergenerational justice]]: the principle that turns the imperative into a practice
 

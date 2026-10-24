@@ -15,7 +15,7 @@ Spontaneous order is F. A. Hayek's name for the kind of order that forms itself.
 
 The two orders differ in origin: the made order is put together for a purpose, while "A spontaneous order of this kind has in many respects properties different from those of a made order" (p. 36). The practical consequence Hayek draws is epistemic humility for planners: the order's detail is produced by adjustments no planner directs, so interventions can shape its general character while the details exceed any designer's grasp.
 
-### In the compendium
+### Here
 
 - [[D017 — Trust emergent order]] — the Daoist-flavored practice rule the concept grounds
 - [[D134 — Govern like cooking a small fish]] — Laozi's counsel, read as an early statement of the same restraint

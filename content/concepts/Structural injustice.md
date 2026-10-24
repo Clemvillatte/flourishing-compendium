@@ -25,7 +25,7 @@ The Mantouvalou chapter states what the model does to attention: "it shifts atte
 
 > "However, they still have forward-looking responsibility to address it, because they benefit from the injustice." (Mantouvalou, ["Structures of Injustice, the Law, and Exploitative Work"](https://academic.oup.com/book/58181/chapter/480373130), describing Young)
 
-### In the compendium
+### Here
 
 - [[R109 — Practise social justice]]
 - [[R008 — Practise collective responsibility]]

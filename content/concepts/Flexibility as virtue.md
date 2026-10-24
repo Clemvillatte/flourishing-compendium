@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Flexibility as virtue” — Nietzsche, The Gay Science.
 
-The original entry gives no section number. Two aphorisms in The Gay Science (The Joyful Wisdom, 1882) fit the label. Neither uses the phrase "flexibility as virtue", and the label is the compendium's summary. The quotations come from the 1910 Thomas Common translation on Project Gutenberg.
+The original entry gives no section number. Two aphorisms in The Gay Science (The Joyful Wisdom, 1882) fit the label. Neither uses the phrase "flexibility as virtue", and the label is my summary. The quotations come from the 1910 Thomas Common translation on Project Gutenberg.
 
 ### Aphorism 159: every virtue has its time
 
@@ -25,9 +25,9 @@ Nietzsche says this valuation of constancy "brings all changing, re-learning, an
 
 ### How far this supports the principle
 
-Read together, the two aphorisms support a limited claim: fixity is socially rewarded, it can cost the thinker, and which traits count as virtues depends on the age. They do not set out flexibility as a general virtue or a method for being flexible. The link to the executive-function account is the compendium's own.
+Read together, the two aphorisms support a limited claim: fixity is socially rewarded, it can cost the thinker, and which traits count as virtues depends on the age. They do not set out flexibility as a general virtue or a method for being flexible. The link to the executive-function account is my own.
 
-### In the compendium
+### Here
 
 - [[ST193 — Stockdale and the Epistle]], [[ST154 — John Nash and the Delusion's Signature]] and [[S008 — Remember that virtue is sufficient for flourishing]] cite this concept.
 - [[S056 — Recognise that you can choose your response]], [[MO034 — Learn to review and adjust goals — flexibility matters]] and [[CO045 — Cultivate cognitive flexibility — the capacity to switch between modes]] cite it as well.

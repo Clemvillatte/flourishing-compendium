@@ -24,7 +24,7 @@ Seneca ends by passing on Hecato's answer to the question of progress:
 
 > "What progress, you ask, have I made? I have begun to be a friend to myself." (Seneca, Letters 6.7, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_6))
 
-The compendium's instruction from the letter: practise with others who share the commitment, and report your progress to someone who is also trying to live well.
+My instruction from the letter: practise with others who share the commitment, and report your progress to someone who is also trying to live well.
 
 (Seneca, Letters 6.)
 

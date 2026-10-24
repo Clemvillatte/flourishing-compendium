@@ -15,7 +15,7 @@ Micro-moments of connection is this page's title for the construct Barbara Fredr
 
 The moments are momentary by definition, and the article reports studies of everyday interactions: "studies on people directed to have meaningful interactions with the barista while buying coffee, greet and thank strangers, and chat with strangers found that these interactions increased their happiness and positivity" ([same article](https://greatergood.berkeley.edu/article/item/what_is_love_scientists_have_answersbut_they_dont_all_agree)). Fredrickson's research program connects positive emotions with biology: "Fredrickson's team has also identified biological resources, such as cardiac vagal tone (indexed as heart rate variability) that influence, and are influenced by positive emotions in an upward spiral dynamic" ([Fredrickson and Joiner, PEP Lab, UNC](https://peplab.web.unc.edu/wp-content/uploads/sites/18901/2019/06/FredricksonJoiner2019PPSupwardspirals.pdf)).
 
-### In the compendium
+### Here
 
 - [[D161 — See the small]] cites this concept as its psychology parallel: the small exchanges are the material of relational health.
 

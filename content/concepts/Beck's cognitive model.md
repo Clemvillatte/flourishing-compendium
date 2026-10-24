@@ -23,9 +23,9 @@ The same review added the neurobiological reading:
 
 The model is organised as a hierarchy from deeper to more surface cognition. The depressive schema is a well-organised and interconnected negative internal representation of self, believed to develop through early-life experiences and to remain dormant until triggered by negative life events such as loss or rejection. Automatic thoughts are the more superficial cognitions, more proximal to a given situation but functionally related to one's deeper beliefs and schemas, and are considered the cognitive by-products of activated schemas. Treatment in cognitive-behavioural therapy is described as proceeding in the opposite direction: it typically begins by helping the client discover and test negative automatic thoughts and moves systematically toward modifying deeper beliefs and schemas.
 
-### In the compendium
+### Here
 
-- [[X007 — Learn the fourfold cure by heart]] — the Epicurean principle the compendium pairs with the cognitive model.
+- [[X007 — Learn the fourfold cure by heart]] — the Epicurean principle I pair with the cognitive model.
 - [[M035 — Hold the earth's slipperiness as fact]] — the principle pairs the cognitive model's account of interpretation with a classical warning.
 
 ## Field

@@ -17,9 +17,9 @@ Pride is the emotion the traditions cannot agree about. The wisdom tradition tre
 
 The condition Aristotle puts on the crown is the whole argument: "Now the man is thought to be proud who thinks himself worthy of great things, being worthy of them." The estimate has to fit the worth, and the two halves of the modern research program, authentic and hubristic pride, split along exactly that seam.
 
-### In the compendium
+### Here
 
-- [[A025 — Practice proper pride (kaucha)]] and [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — the compendium's principles on proper and on hubristic pride.
+- [[A025 — Practice proper pride (kaucha)]] and [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — my principles on proper and on hubristic pride.
 
 ## Related concepts
 
@@ -27,7 +27,7 @@ The condition Aristotle puts on the crown is the whole argument: "Now the man is
 - [[Narcissism versus healthy self-regard]] — the emotion at the center of the fragile/secure distinction
 - [[Authentic versus hubristic pride]] — the two-facet model that splits this emotion into an achievement-oriented and a narcissistic form
 - [[Proper pride (megalopsychia)]] — the Aristotelian virtue this page quotes
-- [[Pride goes before destruction]] — the compendium's saying carrying the warning tradition
+- [[Pride goes before destruction]] — my saying carrying the warning tradition
 - [[Self-conscious emotions]] — the positive member of the family, in both its hubristic and achievement forms
 ## Sources
 

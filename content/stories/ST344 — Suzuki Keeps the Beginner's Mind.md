@@ -19,7 +19,7 @@ The book, Zen Mind, Beginner's Mind, came out in 1970, a year before he died. It
 
 Suzuki warns that repeated practice can lose its original attitude: "Suppose you recite the Prajna Paramita Sutra only once. It might be a very good recitation. But what would happen to you if you recited it twice, three times, four times, or more? You might easily lose your original attitude towards it." ([ZMBM, Prologue](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)) And the chapter titled "Nothing Special" extends the point to attainment itself, in a comparison with the Zen teaching that the ordinary mind is the Way rather than an equation with it: "If you continue this simple practice every day you will obtain a wonderful power. Before you attain it, it is something wonderful, but after you obtain it, it is nothing special. It is just you yourself, nothing special." ([ZMBM, "Nothing Special"](https://web.stanford.edu/~funn/ZenMindBeginners.pdf))
 
-The compendium pairs the story with the Daoist instruction to unlearn daily as a cross-tradition analogy, not a claimed lineage: the same observation about expertise and freshness, made in a San Francisco zendo and in the Dao De Jing's lines about subtracting.
+I pair the story with the Daoist instruction to unlearn daily as a cross-tradition analogy, not a claimed lineage: the same observation about expertise and freshness, made in a San Francisco zendo and in the Dao De Jing's lines about subtracting.
 
 ---
 

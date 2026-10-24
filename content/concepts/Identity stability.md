@@ -21,7 +21,7 @@ His picture of the optimal sense is notably modest:
 
 > "An optimal sense of identity, on the other hand, is experienced merely as a sense of psychosocial well-being. Its most obvious concomitants are a feeling of being at home in one's body, a sense of "knowing where one is going," and an inner assuredness of anticipated recognition from those who count." ([Erikson, 1968](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt))
 
-### In the compendium
+### Here
 
 The concept anchors a cluster of related entries and principles: [[Idem and ipse]] distinguishes the two senses of sameness Ricoeur later formalized, [[Self-discrepancy]] and [[Self-verification theory (Swann)]] carry the question into current social psychology, and the principles on holding to the constant, practising the promise, and tracking self-development each pick up one face of the same task.
 
@@ -35,7 +35,7 @@ The concept anchors a cluster of related entries and principles: [[Idem and ipse
 
 
 - [[Self-verification theory (Swann)]] — the theory's core rationale is that stable, confirmed self-views make the social world predictable
-- [[Self-discrepancy]] — the compendium's pages on how self-views hold or shift, beside Higgins's three domains
+- [[Self-discrepancy]] — my pages on how self-views hold or shift, beside Higgins's three domains
 ## Sources
 
 - [Erikson, E. H. (1968). Identity: Youth and Crisis. W. W. Norton — full text via Internet Archive](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt)

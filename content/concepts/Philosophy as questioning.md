@@ -15,9 +15,9 @@ Karl Jaspers presents philosophy as a search that stays unfinished, with questio
 
 Jaspers goes on: "this on-the-wayness — man's destiny in time — contains within it the possibility of deep satisfaction, and indeed, in exalted moments, of perfection." That perfection, he says, "never resides in formulable knowledge, in dogmas and articles of faith." Its place, he writes, is "a historical consummation of man's essence in which being itself is revealed," and "to apprehend this reality in man's actual situation is the aim of philosophical endeavour." He also holds that "there is no escape from philosophy": the only question is "whether a philosophy is conscious or not."
 
-### In the compendium
+### Here
 
-The linked principles use "questioning" in several senses, from doubt (K009) to the question of being (E099) to the examination of success (D079). Jaspers' passage concerns philosophy as a whole, and these applications are the compendium's own extensions.
+The linked principles use "questioning" in several senses, from doubt (K009) to the question of being (E099) to the examination of success (D079). Jaspers' passage concerns philosophy as a whole, and these applications are my own extensions.
 
 ## Related concepts
 

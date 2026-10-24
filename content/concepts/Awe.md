@@ -15,7 +15,7 @@ Something is perceived as vast (physically, conceptually, socially), and that va
 
 ### What the accommodation does
 
-On the compendium's reading, the mechanism is the schema-adjustment: awe is the feeling of mental structure being revised, which is why it is studied alongside the "small self" effect, the vanishing of self-salience, and increased generosity and decreased entitlement in the emerging research. The Stoic statement of the same experience is seeing the smallness of human affairs. The contemplative traditions treat the same territory as a door rather than a rush: welcome peak experiences without chasing them.
+On my reading, the mechanism is the schema-adjustment: awe is the feeling of mental structure being revised, which is why it is studied alongside the "small self" effect, the vanishing of self-salience, and increased generosity and decreased entitlement in the emerging research. The Stoic statement of the same experience is seeing the smallness of human affairs. The contemplative traditions treat the same territory as a door rather than a rush: welcome peak experiences without chasing them.
 
 ### The distinction to hold
 
@@ -27,7 +27,7 @@ One unhurried look at the night sky, taken monthly, with no photograph. The acco
 
 Its contemplative cognates are [[Shunyata]] (vastness beyond categories) and the [[Dao]] it gestures at.
 
-### In the compendium
+### Here
 
 - [[S100 — See the smallness of human affairs]] — the Stoic statement
 - [[P115 — Welcome peak experiences — don't chase them]] — the contemplative caution

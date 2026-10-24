@@ -22,7 +22,7 @@ The study included 104 couples and compared self-reported self-compassion with p
 
 These findings concern associations in romantic couples. They do not establish that self-relationship causes relationship behaviour or is the foundation of every relationship.
 
-**Plain words** When you make a mistake, ask what needs putting right and how to address it without insulting yourself. Try the same questions when someone else makes a mistake. Treating both people with care is the compendium's suggested practice.
+**Plain words** When you make a mistake, ask what needs putting right and how to address it without insulting yourself. Try the same questions when someone else makes a mistake. Treating both people with care is my suggested practice.
 
 *For example:* After snapping at a colleague, someone apologises and identifies what they need to change, while examining their own mistake without insulting themselves.
 ## Psychology parallels

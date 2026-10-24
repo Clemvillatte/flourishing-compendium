@@ -15,7 +15,7 @@ The modern concept has two parents who agree more than their literatures admit: 
 
 ### What congruence removes
 
-On the compendium's reading, the mechanism is the removal of the double life: maintaining a presented self costs attention and produces the anxiety of exposure. The Daoist form of the same move is preferring being to seeming. The caution cuts the other way too: authenticity is not spontaneity-ism, saying whatever one feels. The authentic person still chooses what to express, from the real self rather than from the audience.
+On my reading, the mechanism is the removal of the double life: maintaining a presented self costs attention and produces the anxiety of exposure. The Daoist form of the same move is preferring being to seeming. The caution cuts the other way too: authenticity is not spontaneity-ism, saying whatever one feels. The authentic person still chooses what to express, from the real self rather than from the audience.
 
 ### Not a fixed "true self"
 
@@ -27,7 +27,7 @@ One commitment made this week in one's own words rather than the inherited ones,
 
 The traditions that question its premise are also its kin: [[Anatta]] and [[Self-as-context]] are rival accounts of the self whose existence authenticity assumes.
 
-### In the compendium
+### Here
 
 - [[E034 — Practise authenticity (Eigentlichkeit)]] — the Heideggerian practice principle
 - [[D185 — Prefer being to seeming]] — the Daoist form

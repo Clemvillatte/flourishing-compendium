@@ -21,7 +21,7 @@ The everyday version is a household. One partner keeps track of appointment date
 
 > "The loss of transactive memory feels like losing a part of one's own mind." (Wegner 1987, chapter 9, p. 201, [chapter PDF](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Wegner%20Transactive%20Memory.pdf))
 
-### In the compendium
+### Here
 
 - [[CO006 — Recognise that thinking is socially distributed — you think with others]]
 - [[SO034 — Treat knowledge as social]]

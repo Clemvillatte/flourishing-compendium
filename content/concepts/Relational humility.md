@@ -31,7 +31,7 @@ The 2013 paper (Davis, Worthington, Hook and others, Self and Identity 12:58-77)
 
 In the Observer piece the authors describe their support for the social bonds idea as "initial evidence". The samples in the abstracts above are college students, and the studies run for weeks, not years.
 
-### In the compendium
+### Here
 
 - [[PP043 — Practise humility as accurate self-assessment]], [[A076 — Practise friendship across difference]], [[R002 — Practise humanity toward others]] and [[A068 — Maintain friendships through presence in misfortune]] cite this concept.
 - [[A066 — Be a friend to yourself first]], [[A072 — Practise living together (suzēn)]], [[A078 — Recognise that the best friendship is between the good]] and [[V2K-S01.07 — 7. Relational-Cultural Wellbeing]] cite it as well.

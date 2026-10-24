@@ -15,7 +15,7 @@ Dialectical behaviour therapy (DBT) is Marsha Linehan's treatment, developed fro
 
 DBT treats the problem as trainable rather than as weakness of will: "Emotion dysregulation is the inability, even when one's best efforts are applied, to change in a desired way emotional cues, experiences, actions, verbal responses, and/or nonverbal expressions under normative conditions." The best-known of the change skills is opposite action, which rests on the idea "that deliberate actions opposite to those associated with unwanted emotions can effectively change emotions as well as action tendencies". The module pairs such change skills with acceptance skills, a dialectic the therapy is named for.
 
-### In the compendium
+### Here
 
 - [[AF042 — Practise opposite action — do the opposite of what the feeling urges]] — the skill applied: every emotion comes with an action urge
 - [[BE022 — Learn to use opposite action — do the opposite of what the emotion urges]] — Linehan's manual definition, verbatim
@@ -29,7 +29,7 @@ DBT treats the problem as trainable rather than as weakness of will: "Emotion dy
 
 ## Related concepts
 
-- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the compendium's own page for one of the therapies named in the boundary concept's title
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — my own page for one of the therapies named in the boundary concept's title
 
 - [[Opposite action (Linehan)]] — the module's best-known change skill, given its own page
 

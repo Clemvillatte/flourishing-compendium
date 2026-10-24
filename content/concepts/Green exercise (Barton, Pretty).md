@@ -17,7 +17,7 @@ Their multi-study meta-analysis of ten UK studies (1,252 participants) asked wha
 
 Short engagements carried large benefits, with diminishing but still positive returns as duration grew. "Every green environment improved both self-esteem and mood; the presence of water generated greater effects" ([Barton and Pretty, 2010](https://pubmed.ncbi.nlm.nih.gov/20337470/)). These are self-esteem and mood indicators, not clinical outcomes.
 
-### In the compendium
+### Here
 
 - [[BI027 — Learn that movement in nature is doubly beneficial]] — the principle that carries this concept's practical takeaway
 - [[BI023]] — the antidepressant and anxiolytic case for movement in general, of which green exercise is the nature-based variant

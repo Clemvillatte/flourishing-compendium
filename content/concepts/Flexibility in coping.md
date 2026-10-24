@@ -17,7 +17,7 @@ Flexibility in coping is George Bonanno and Charles Burton's answer to a habit t
 
 Read as a practice, the framework says flexibility is three things in sequence: noticing what this situation actually demands, having more than one way to respond, and letting the result of the last attempt teach the next one ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)). The authors reject uniform efficacy and propose a heuristic individual differences framework rather than a ranking of strategies ([Bonanno and Burton, 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/26173226/)).
 
-### In the compendium
+### Here
 
 - [[PP044 — Practise coping flexibility]]
 - [[P021 — Treat ideas as tools, not mirrors]]

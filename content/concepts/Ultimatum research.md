@@ -13,7 +13,7 @@ The research behind that line is the ultimatum game, the laboratory miniature of
 
 > "For every population studied, the probability of rejection decreased as offers increase from 0% to 50%. At the lowest offer for which punishment is costly (10% offers), 56.5% of players rejected overall." (Henrich et al. 2006, Science 312, p. 1768)
 
-What the rejection is, in the paper's own terms, is costly punishment: the responder pays to deprive the proposer of the gains of a low offer. The gloss in that line, that threat-based influence breeds compliance plus resentment, is the compendium's reading of the finding rather than the paper's wording, and the compendium's principle treats it as exactly that, an analogy: Daodejing 31 calls sharp weapons instruments of evil omen to be reached for only on the compulsion of necessity, and the extension from armies to ultimatums and burned bridges is marked in the principle itself as the compendium's reading, not the chapter's wording.
+What the rejection is, in the paper's own terms, is costly punishment: the responder pays to deprive the proposer of the gains of a low offer. The gloss in that line, that threat-based influence breeds compliance plus resentment, is my reading of the finding rather than the paper's wording, and my principle treats it as exactly that, an analogy: Daodejing 31 calls sharp weapons instruments of evil omen to be reached for only on the compulsion of necessity, and the extension from armies to ultimatums and burned bridges is marked in the principle itself as my reading, not the chapter's wording.
 
 ## Sources
 

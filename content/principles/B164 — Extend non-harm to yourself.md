@@ -22,7 +22,7 @@ The Dhammapada's chapter on the self opens with the premise: "If one holds onese
 >
 > (Metta Sutta, Thanissaro)
 
-The compendium's reading is that "all beings" is not a set that excludes the being doing the cherishing. The exercise is to apply the precept of non-harm to your own case with the same seriousness as to anyone else's.
+My reading is that "all beings" is not a set that excludes the being doing the cherishing. The exercise is to apply the precept of non-harm to your own case with the same seriousness as to anyone else's.
 
 (Dhammapada 157; Metta Sutta.)
 

@@ -17,7 +17,7 @@ The Rescorla-Wagner model is Robert Rescorla and Allan Wagner's 1972 theory of P
 
 Under the model, contiguity alone does nothing: once the outcome is fully predicted, further pairings produce no learning. The model thereby explains blocking and the degraded contingency effects that pure contiguity accounts could not.
 
-### In the compendium
+### Here
 
 - [[CO001 — Understand that cognition is predictive, not passive]]
 - [[AF059 — Work with disappointment — it is the gap between expectation and reality]]

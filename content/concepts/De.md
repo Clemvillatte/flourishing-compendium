@@ -25,7 +25,7 @@ In every case the wholeness of their inner de draws people to them more powerful
 
 ### The practical reading
 
-The compendium's principle D004 ("Cultivate de: your embodied character-power") carries the practical reading: de is what your character looks like when it stops being a performance and becomes an embodied capacity, what you do well and naturally, without the interference of self-conscious effort.
+My principle D004 ("Cultivate de: your embodied character-power") carries the practical reading: de is what your character looks like when it stops being a performance and becomes an embodied capacity, what you do well and naturally, without the interference of self-conscious effort.
 
 ### In everyday life
 

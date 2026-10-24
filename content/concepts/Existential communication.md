@@ -15,7 +15,7 @@ The communication is not ordinary conversation, and Jaspers says so with his own
 
 > "Communication in the idea, and in its realisation by Existenz, will move a man closer to his fellow-man than will the intellect or a purpose, or primitive community." (Jaspers, quoted in [Salamun, Existenz 1/1](https://www.existenz.us/volumes/Vol.1Salamun.pdf))
 
-Jaspers' phrase for the relation inside such communication is a "loving struggle" ([Salamun](https://www.existenz.us/volumes/Vol.1Salamun.pdf)): the partners contend with each other, in truth, without the aim of winning. The point is not agreement but selfhood. In the compendium the idea stands behind [[E093 — Practise existential communication]].
+Jaspers' phrase for the relation inside such communication is a "loving struggle" ([Salamun](https://www.existenz.us/volumes/Vol.1Salamun.pdf)): the partners contend with each other, in truth, without the aim of winning. The point is not agreement but selfhood. Here the idea stands behind [[E093 — Practise existential communication]].
 
 ## Sources
 

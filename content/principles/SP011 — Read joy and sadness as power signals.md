@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 11** — Read joy and sadness as power signals
 
-Elwes's translation defines pleasure and pain as transitions between degrees of perfection. ([Ethics III, Definitions of the Emotions II-III, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) In Part IV's Preface, Spinoza explains changes in perfection as increases or decreases in a thing's power of action. ([Ethics IV, Preface, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium uses this philosophical account as a prompt for reflection, not as a diagnostic scale.
+Elwes's translation defines pleasure and pain as transitions between degrees of perfection. ([Ethics III, Definitions of the Emotions II-III, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) In Part IV's Preface, Spinoza explains changes in perfection as increases or decreases in a thing's power of action. ([Ethics IV, Preface, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) I use this philosophical account as a prompt for reflection, not as a diagnostic scale.
 
 > "II. Pleasure is the transition of a man from a less to a greater perfection. III. Pain is the transition of a man from a greater to a less perfection." (Ethics III, Definitions of the Emotions, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 

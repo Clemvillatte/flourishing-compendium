@@ -19,7 +19,7 @@ The sutra comes third in a sequence. Attention (dhāraṇā) binds consciousness
 
 The Book I commentary describes meditation that begins with an external object and a later state in which "the need of an external object on which to rest the meditation is outgrown". The closing sutra of Book I names the final state: "When this impression ceases, then, since all impressions have ceased, there arises pure spiritual consciousness, with no seed of separateness left" (I.51).
 
-### In the compendium
+### Here
 
 - [[B028 — Develop right concentration (samadhi)]] — the Buddhist eightfold-path limb this Yoga concept parallels
 - [[B095 — Collect the mind (samadhi as gathering)]] — samādhi read as gathering rather than blankness

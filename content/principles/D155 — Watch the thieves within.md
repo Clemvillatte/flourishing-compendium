@@ -22,7 +22,7 @@ The Lower Section gives the mechanism and the watch point:
 
 > "The heart-mind is born from things and dies from things. The pivot is in the eyes." (Yinfu Jing, Lower Section)
 
-The text does not name the five thieves one by one. The compendium's own reading takes them as the outward-reaching wants that go through the body's openings.
+The text does not name the five thieves one by one. My own reading takes them as the outward-reaching wants that go through the body's openings.
 
 (Yinfu Jing, Upper and Lower Sections.)
 

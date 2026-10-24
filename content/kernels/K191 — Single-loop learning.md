@@ -14,7 +14,7 @@ When something fails, fix the action. Try a different approach. This is the firs
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the concept is defined in the organizational-learning literature below.*
+*Steps are my own protocol; the concept is defined in the organizational-learning literature below.*
 
 1. State the intended outcome and the actual outcome in one sentence each; the gap between them is the error.
 2. Change the action, not the goal: try a different approach within the existing frame.

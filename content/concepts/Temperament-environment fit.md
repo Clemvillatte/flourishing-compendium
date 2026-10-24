@@ -15,7 +15,7 @@ Temperament-environment fit is the temperament researcher's term for what happen
 
 Thomas and Chess built the concept for a practical puzzle: the same trait that one caregiver experiences as difficult, another experiences as easy, so the trait's effect depends on the demands around it. Fit was developed "as a framework for understanding caregivers' varied responses to children with 'difficult' temperaments" ([Newland & Crnic, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5604340/)). The evidence picture is honest work in progress: decades after the original formulation, "goodness of fit remains a relatively poorly operationalized construct with insufficient supporting empirical evidence" ([Newland & Crnic, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5604340/)). The same review names both sides of the trade: the breadth of the concept provides a richness for relationship theory, but complications for empirical research.
 
-### In the compendium
+### Here
 
 - [[D107 — Trust your own nature]] uses this research as its psychology parallel: outcomes improve when environments match dispositional traits rather than fighting them.
 

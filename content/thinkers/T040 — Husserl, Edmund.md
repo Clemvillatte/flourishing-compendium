@@ -31,14 +31,14 @@ Intentionality is the baseline: every act of consciousness is directed toward an
 - **Eidetic seeing** — grasping the essential structure of an experience through varied imagination. See [[Eidos]], [[Phenomenological seeing]].
 - **Temporality** — consciousness as retaining, attending, anticipating; the structure of inner time. See [[Retention and protention]], [[Temporality (Zeitlichkeit)]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Intentionality]]
 - [[Epoché]]
 - [[The lifeworld]]
 - [[Retention and protention]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 86-entry surname-match floor is not reproduced.
 

@@ -19,7 +19,7 @@ What the perceiver brings is not a picture but practical knowledge of sensorimot
 
 Look around a room and you do not experience the whole scene at once; you sample it, moving your eyes and head, and the unattended parts stay available because the world itself is there to be interrogated by the next move. O'Regan and Noë cite sensory substitution among the phenomena that favor their view: given the right skills, a stream of input through an unusual channel can do seeing's work, which is easier to explain if seeing is exploration than if it is the activation of an internal picture.
 
-### In the compendium
+### Here
 
 - [[P141 — Perceive by acting — perception is movement]] — the theory's core claim as a practice principle
 - [[CO005 — Understand that thinking is embodied — the body shapes the mind]] — the same commitment extended to thought
@@ -28,8 +28,8 @@ Look around a room and you do not experience the whole scene at once; you sample
 ## Related concepts
 
 - [[Enactivism]] — the broader tradition the sensorimotor account feeds
-- [[Sensorimotor contingency theory]] — the compendium's page for the contingency construct itself
-- [[Motor intentionality]] — the compendium's Merleau-Ponty page, placed here as a neighboring tradition
+- [[Sensorimotor contingency theory]] — my page for the contingency construct itself
+- [[Motor intentionality]] — my Merleau-Ponty page, placed here as a neighboring tradition
 - [[Affordances]] — the other Gibsonian account of perception as opportunity for action
 
 ## Sources

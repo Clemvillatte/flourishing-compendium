@@ -17,7 +17,7 @@ Smith's Theory of Moral Sentiments opens with the sentiment he builds on, sympat
 
 > "How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it, except the pleasure of seeing it." (Smith, [The Theory of Moral Sentiments, I.i.1, Project Gutenberg](https://www.gutenberg.org/files/67363/old/67363-h/67363-h.htm))
 
-### In the compendium
+### Here
 
 - [[D017 — Trust emergent order]]
 - [[B157 — Protecting others, you protect yourself]]

@@ -10,7 +10,7 @@ Being overwhelmed is what happens when the world's demands outrun a person's cap
 - Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier.
 - Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier.
 
-## The map: every entry the wiki holds on overload and overwhelm
+## The map: the entries on overload and overwhelm
 
 ### Too much input
 
@@ -116,7 +116,7 @@ The first treats rest as a tool for further effort; the second treats leisure as
 
 ::Variation:: What tends to need varying is the pace and the input. The look-alikes of rest are scrolling, more tasks and the next screen. The adaptive moves are to schedule rest as rest, to let attention be held by something that asks nothing of it, and to bring the body down before the mind is asked to think.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Rest as practice](https://clemvillatte.github.io/flourishing-compendium/#card=K200%20%E2%80%94%20Rest%20as%20practice): schedule one deliberate do-nothing period daily, ten minutes, guilt-free.
 
@@ -130,7 +130,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Rest as orientation
 

@@ -43,7 +43,7 @@ The approach is a framework, not a finished theory. The entry stresses that it "
 
 The resource a person holds is not yet the life they can lead. Someone with a wheelchair and someone who walks, holding the same income, do not have the same capability to enter a building whose only entrance is a flight of steps. (Illustrative scenario, not a reported study result.) The approach directs attention to that gap between having and being able, and to whether a society's arrangements close it or leave it open.
 
-### In the compendium
+### Here
 
 - [[A006 — Expect flourishing to require external goods]] — carries the approach as a parallel to Aristotle's external goods: goods matter for the doings and beings they open up
 - [[A096 — Practise distributive justice]] — carries the approach as a parallel to Aristotle's desert-based proportion: on this approach, what shares are for is what people can do and be

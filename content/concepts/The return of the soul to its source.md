@@ -19,9 +19,9 @@ Three features of the passage are worth keeping in view. It is a first-person re
 
 ### What it is not
 
-The return of the soul is not a recommendation to withdraw from ordinary life, and the passage does not say that discursive reasoning is worthless. It describes a rhythm of ascent and descent that Plotinus found puzzling, and the compendium cites it as one tradition's picture of coming home to what is deepest in oneself. Whether the experience is what Plotinus takes it to be is a question these sources do not settle.
+The return of the soul is not a recommendation to withdraw from ordinary life, and the passage does not say that discursive reasoning is worthless. It describes a rhythm of ascent and descent that Plotinus found puzzling, and I cite it as one tradition's picture of coming home to what is deepest in oneself. Whether the experience is what Plotinus takes it to be is a question these sources do not settle.
 
-### In the compendium
+### Here
 
 - [[D065 — Use the light, return to the insight]] — grounds its wording in DDJ 52 (Legge)
 - [[D001 — Align your life with the Dao]] — grounds its wording in DDJ 25

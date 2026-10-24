@@ -15,7 +15,7 @@ The daimon (the daimonion, the divine sign) is the inner voice Socrates testifie
 
 The passage is careful about what the sign does. It never advises or instructs; it intervenes when an action would go wrong, and its silence is the only approval it gives. Socrates calls it a divinity, the one Meletus ridicules in the indictment, yet its working is ordinary: an inner check with a consistent direction, present from childhood, that a person can learn to trust. The principle that cites this concept pairs it with Stoic and Christian images of an inner supportive voice; Socrates' version is the stricter one, since the voice only ever says no.
 
-### In the compendium
+### Here
 
 - [[SE032 — Cultivate an inner ally — develop a supportive internal voice]] — cites the daimonion as its philosophy parallel; the inner ally it recommends is a voice that guides rather than only forbids
 

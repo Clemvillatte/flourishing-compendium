@@ -16,7 +16,7 @@ Arnold's rendering of the Gita's central verse:
 
 > "Let right deeds be Thy motive, not the fruit which comes from them. And live in action! Labour! Make thine acts Thy piety, casting all self aside, Contemning gain and merit; equable In good or evil: equability Is Yog, is piety!" ([Bhagavad Gita 2.47-2.48, Arnold translation](https://www.gutenberg.org/ebooks/2388))
 
-The instruction is not to abandon outcomes; the same breath says Labour. It is to release the self's lien on them. The compendium's application: for your most important current project, define your part, the inputs, the quality, the consistency, and the world's part, the response, the timing, the results, and sign only your part.
+The instruction is not to abandon outcomes; the same breath says Labour. It is to release the self's lien on them. My application: for your most important current project, define your part, the inputs, the quality, the consistency, and the world's part, the response, the timing, the results, and sign only your part.
 
 **Plain words** Work at the thing as if the result mattered, because it does; just do not make the result the thing you are working for. The verse's own test: the motive should be the rightness of the deed, and the fruit that comes from it is another matter.
 

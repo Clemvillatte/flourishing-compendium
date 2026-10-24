@@ -25,7 +25,7 @@ Second, Durkheim makes the effervescence the birthplace of the sacred. The parti
 
 > "So it is in the midst of these effervescent social environments and out of this effervescence itself that the religious idea seems to be born." (same book, pp. 217-219)
 
-The theory is the ancestor of a whole research line on ritual and synchrony, from Randall Collins's interaction ritual chains to work on choral singing and marching together. Its relevance to flourishing is direct: some of the strongest self-transcendent experiences available to a person are not private at all, but made in company. The compendium's principle [[M015 — Let art be communal, not only private]] draws on exactly this, and [[K228 — Awe practice]] turns it into practice.
+The theory is the ancestor of a whole research line on ritual and synchrony, from Randall Collins's interaction ritual chains to work on choral singing and marching together. Its relevance to flourishing is direct: some of the strongest self-transcendent experiences available to a person are not private at all, but made in company. My principle [[M015 — Let art be communal, not only private]] draws on exactly this, and [[K228 — Awe practice]] turns it into practice.
 
 ## Sources
 

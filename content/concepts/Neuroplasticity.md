@@ -15,7 +15,7 @@ The same abstract names what drives the reorganisation: "Brain injury or altered
 
 The original entry's source is Draganski et al.'s 2004 Nature report "Neuroplasticity: changes in grey matter induced by training" (Nature 427:311-2); its PubMed record ([14737157](https://pubmed.ncbi.nlm.nih.gov/14737157/)) carries the citation but no abstract text, so the 2008 review by the same first author is this page's opened carrier.
 
-### In the compendium
+### Here
 
 - [[P071 — Trust the plasticity of human nature]] cites this concept as a psychology parallel.
 

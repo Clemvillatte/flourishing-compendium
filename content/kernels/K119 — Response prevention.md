@@ -14,7 +14,7 @@ During exposure to a feared or unwanted experience, refrain from the safety beha
 
 ### Protocol
 
-*Steps drawn from the treatment literature on EX/RP as described by Foa and colleagues; the everyday framing is the compendium's.*
+*Steps drawn from the treatment literature on EX/RP as described by Foa and colleagues; the everyday framing is my.*
 
 1. Enter the feared or avoided situation on purpose, without the ritual or safety behaviour that usually follows it. "the exposure must be done without rituals, as exposure without ritual prevention is not effective" ([Gillihan, Williams, Malcoun, Yadin & Foa, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3423997/)).
 2. Do not soften the exposure with distraction or subtle avoidance: "the goal of exposure in EX/RP is to face the obsession-provoking stimuli head-on, without tricks or subtle forms of avoidance."

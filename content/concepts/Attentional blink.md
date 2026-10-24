@@ -15,9 +15,9 @@ The attentional blink is the finding, from Jane Raymond, Kimron Shapiro and Kare
 
 The authors were careful about what causes it. The reduction in detection "was not found in conditions in which a brief blank interval followed the target or Ss were not required to identify the target," which rules out raw visual fatigue: the blink appears when attention must process the first item, and their reading of the data is that "the presentation of stimuli after the target but before target-identification processes are complete produces interference at a letter-recognition stage." The name stuck as a metaphor: attention blinks. For roughly half a second after taking in one meaningful item, the system that would register the next one is busy, and whatever arrives in that window is liable to be lost without report.
 
-The compendium reads the blink alongside contemplative claims about attention's temporal structure. Attention is not a steady beam; it has a rhythm, with costs at the moments of engagement, and practices that space incoming demands to the rhythm do better than practices that ignore it.
+I read the blink alongside contemplative claims about attention's temporal structure. Attention is not a steady beam; it has a rhythm, with costs at the moments of engagement, and practices that space incoming demands to the rhythm do better than practices that ignore it.
 
-### In the compendium
+### Here
 
 - [[AT010 — Understand that attention has a temporal structure — it oscillates]] — the principle the finding grounds
 - [[K014 — Let nothingness work as the place of things]] — the contemplative pairing

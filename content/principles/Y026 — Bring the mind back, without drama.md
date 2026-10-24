@@ -22,7 +22,7 @@ Krishna tells Arjuna to bring the wandering mind back under the soul's control e
 >
 > — Bhagavad Gita 6.26 (Arnold, The Song Celestial; [Gutenberg 2388](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
 
-**Plain words** One practical reading of this principle is to resume your meditation without first passing judgment on the session. Suppose you notice that you have been planning tomorrow instead of meditating. You can leave the plan unfinished and begin attending again. The compendium's phrase without drama describes that way of applying the instruction.
+**Plain words** One practical reading of this principle is to resume your meditation without first passing judgment on the session. Suppose you notice that you have been planning tomorrow instead of meditating. You can leave the plan unfinished and begin attending again. My phrase without drama describes that way of applying the instruction.
 
 For example: During a sitting, someone notices that they are rehearsing an argument. They put the imagined reply aside and resume the meditation.
 

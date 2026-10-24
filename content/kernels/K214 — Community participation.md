@@ -14,7 +14,7 @@ A weekly practice done with other people: a sitting group, a class, a service pr
 
 ### Protocol
 
-*The steps below are the compendium's editorial protocol, not steps taken from a study.*
+*The steps below are my own protocol, not steps taken from a study.*
 
 1. Pick one communal practice with a fixed weekly rhythm, small enough to keep when energy is low.
 2. Attend on the schedule regardless of mood; the practice is the attendance, not the experience of it.

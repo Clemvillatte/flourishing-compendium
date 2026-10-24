@@ -16,7 +16,7 @@ The witness, in Śaṅkara's Advaita Vedānta, is consciousness in its role as t
 
 That account is provisional. From the absolute order, Śaṅkara strips consciousness of its relational properties, including its status as witness ([SEP, Śaṅkara §3](https://plato.stanford.edu/entries/shankara/)).
 
-### In the compendium
+### Here
 
 - [[K007 — Learn the mind's two registers — appearance and awareness]]
 - [[D050]]

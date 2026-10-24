@@ -27,7 +27,7 @@ The same passage warns that "at other times group membership can compromise heal
 
 Cruwys and colleagues' 2013 population study of depression and group membership is a later test of the idea. In data tracked over two years (N = 5055) and four years (N = 4087), the number of groups a person belonged to was a strong predictor of later depression, with fewer groups predicting more depression. Depressed respondents with no groups who joined one reduced their relapse risk by 24%, and by 63% if they joined three. ([PubMed 24331897](https://pubmed.ncbi.nlm.nih.gov/24331897/)) The analyses control for several background variables, but the abstract frames the result as evidence that suggests group membership is protective and curative, not as proof of causation.
 
-### In the compendium
+### Here
 
 - [[SO051 — Use group identity for social cure]] cites this concept.
 

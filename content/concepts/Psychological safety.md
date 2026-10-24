@@ -19,7 +19,7 @@ The abstract reports a field study of 51 work teams in a manufacturing company. 
 
 Edmondson says the data "were supportive of the existence of team psychological safety as a construct but could not conclusively differentiate it from related constructs," and that "the cross-sectional survey design prevented a demonstration of causality" (p. 378). The evidence therefore supports an association in one company's teams, not a proven cause of performance. Claims that psychological safety "drives" results should be checked against that.
 
-### In the compendium
+### Here
 
 The page's facet "and group performance" rests on the study above. The linked principles apply the idea to workplaces, schools, leadership and cultural safety, among them SO057 (Design workplaces for flourishing), SO058 (Design schools for flourishing) and R023 (Practise cultural safety). The 1999 study concerned work teams in a manufacturer, so those applications extend it.
 

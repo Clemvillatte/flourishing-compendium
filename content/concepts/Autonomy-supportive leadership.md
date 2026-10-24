@@ -15,7 +15,7 @@ The same review describes what the supportive leader actually does:
 
 > "Teachers who support students' autonomy begin by attempting to understand, acknowledge, and where possible, be responsive to students' perspectives. They also try to provide opportunities for students to take ownership and initiative of their schoolwork, providing them with meaningful choices and tasks that can engage their interests." (Ryan and Deci 2020, same source)
 
-The formula generalises beyond classrooms to anyone leading: take the other's perspective, acknowledge feelings, give a meaningful rationale when choice is constrained, use noncontrolling language, and offer real choices. Its opposite is a controlling style, coercive or pressuring, which produces compliance at the cost of ownership. For the wiki's pages on leadership this is the evidence-based contrast behind leading from behind: the leader's job is to arrange the conditions in which people self-endorse the activity.
+The formula generalises beyond classrooms to anyone leading: take the other's perspective, acknowledge feelings, give a meaningful rationale when choice is constrained, use noncontrolling language, and offer real choices. Its opposite is a controlling style, coercive or pressuring, which produces compliance at the cost of ownership. For my pages on leadership this is the evidence-based contrast behind leading from behind: the leader's job is to arrange the conditions in which people self-endorse the activity.
 
 ## Sources
 

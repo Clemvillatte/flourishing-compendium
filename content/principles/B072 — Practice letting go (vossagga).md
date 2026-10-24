@@ -16,7 +16,7 @@ Vossagga appears in the Ānāpānasati Sutta as the last of sixteen steps of bre
 
 > "He trains himself, 'I will breathe in focusing on relinquishment.' He trains himself, 'I will breathe out focusing on relinquishment.'" (MN 118, step 16 of 16, trans. Thanissaro Bhikkhu, [text](https://accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
-Neither passage presents relinquishment as a method for making thoughts dissolve, and neither promises relief. MN 118 places it at the end of a graduated training carried by the breath; Dhammapada 348 frames it as part of crossing to the farther shore of existence. The compendium's exercise is narrower: when a thought, mood or tension is noticed, allow it to run its course without adding effort either to hold it or to expel it.
+Neither passage presents relinquishment as a method for making thoughts dissolve, and neither promises relief. MN 118 places it at the end of a graduated training carried by the breath; Dhammapada 348 frames it as part of crossing to the farther shore of existence. My exercise is narrower: when a thought, mood or tension is noticed, allow it to run its course without adding effort either to hold it or to expel it.
 
 ### Plain words
 

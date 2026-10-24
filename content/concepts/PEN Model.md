@@ -18,9 +18,9 @@ The model's signature move is tying each dimension to a biological system. Extra
 
 The taxonomy is now considered outdated: the psychoticism entry calls it "his outdated P–E–N... model of personality", with psychoticism including "aggression, coldness, egocentrism, impulsivity, lack of empathy, tough-mindedness, and being antisocial" ([Wikipedia](https://en.wikipedia.org/wiki/Psychoticism)). The five-factor model superseded it as the standard taxonomy, though Eysenck's E and N dimensions survive inside it.
 
-### In the compendium
+### Here
 
-The compendium pairs the model with principles across the Daoist track (D001 onward), all about working with one's nature rather than against it. D002's ziran (naturalness), D012's modeling on water and D013's valley-mind are read here as self-acceptance of temperament; D019's knowing-what-is-enough and D021's reducing desires are arousal management by another name. The pairing is thematic; the principle texts do not cite Eysenck, and the long backlink list is flagged as a likely data artifact.
+I pair the model with principles across the Daoist track (D001 onward), all about working with one's nature rather than against it. D002's ziran (naturalness), D012's modeling on water and D013's valley-mind are read here as self-acceptance of temperament; D019's knowing-what-is-enough and D021's reducing desires are arousal management by another name. The pairing is thematic; the principle texts do not cite Eysenck, and the long backlink list is flagged as a likely data artifact.
 
 PEN's arousal account gives that Daoist advice a mechanism to test: if introverts are chronically overaroused, stillness practices are not moral decoration but arousal regulation matched to temperament. That is a question, not a finding.
 

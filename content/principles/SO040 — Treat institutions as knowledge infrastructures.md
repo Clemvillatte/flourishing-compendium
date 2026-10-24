@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 40** — Treat institutions as knowledge infrastructures
 
-Peirce describes a scientific method in which beliefs can be checked against something independent of opinion: "Real things, whose characters are entirely independent of our opinions about them", whose effects any inquirer with sufficient experience and reasoning can be led to agree on (1877, §V). The institutional application here is the compendium's: ask whether shared records and review procedures let others scrutinise a claim, rather than treating institutional prestige as its guarantee.
+Peirce describes a scientific method in which beliefs can be checked against something independent of opinion: "Real things, whose characters are entirely independent of our opinions about them", whose effects any inquirer with sufficient experience and reasoning can be led to agree on (1877, §V). The institutional application here is my: ask whether shared records and review procedures let others scrutinise a claim, rather than treating institutional prestige as its guarantee.
 
 > "Such is the method of science. Its fundamental hypothesis, restated in more familiar language, is this: There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Peirce, 1877, §V)
 

@@ -22,7 +22,7 @@ The book's late chapter argues for keeping wild country near:
 
 > "Our village life would stagnate if it were not for the unexplored forests and meadows which surround it. We need the tonic of wildness" ([Walden, "Spring"](https://www.gutenberg.org/ebooks/205))
 
-The compendium's application: keep one weekly nature appointment of at least an hour, phone off, in the nearest unmanaged place.
+My application: keep one weekly nature appointment of at least an hour, phone off, in the nearest unmanaged place.
 
 **Plain words** The prescription is regular, extended time in unmanaged nature, not scenery watched from a car. Thoreau's cabin was the extreme version; the version available to you is the weekly hour. The point of the appointment is presence rather than appreciation.
 

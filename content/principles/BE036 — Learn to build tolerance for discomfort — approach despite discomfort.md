@@ -16,9 +16,9 @@ The core behavioural skill is the capacity to act despite discomfort: to approac
 
 > "Though courage is concerned with feelings of confidence and of fear, it is not concerned with both alike, but more with the things that inspire fear; for he who is undisturbed in face of these and bears himself as he should towards these is more truly brave than the man who does so towards the things that inspire confidence." (Aristotle, Nicomachean Ethics III.9, 1117a, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-Note the structure of the claim: the brave person is not the one without fear. The fear is the material the virtue is exercised on. The compendium's application, its own and not a reading of Aristotle, extends the structure to chosen, worthwhile actions with manageable discomfort: the feeling is present, the action proceeds alongside it. It is not a general command to override fear or fatigue.
+Note the structure of the claim: the brave person is not the one without fear. The fear is the material the virtue is exercised on. My application, its own and not a reading of Aristotle, extends the structure to chosen, worthwhile actions with manageable discomfort: the feeling is present, the action proceeds alongside it. It is not a general command to override fear or fatigue.
 
-**Plain words** (the compendium's exercise) Choose one worthwhile action whose discomfort is manageable, and act with the discomfort rather than after it. The record of acted-anyway accumulates from single chosen cases; the skill is not a licence to override every feeling.
+**Plain words** (my exercise) Choose one worthwhile action whose discomfort is manageable, and act with the discomfort rather than after it. The record of acted-anyway accumulates from single chosen cases; the skill is not a licence to override every feeling.
 
 *For example:* Hands shaking, going in for the injection anyway: the shaking does not stop the walking. The gap between the feeling and the action is where the skill lives.
 

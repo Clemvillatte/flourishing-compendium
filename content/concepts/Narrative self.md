@@ -19,7 +19,7 @@ The same passage notes that the contrast is sharpest where the narrative notion 
 
 In the entry on [phenomenological approaches to self-consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/), Gallagher and Zahavi follow Owen Flanagan in separating a primary, low-level self-consciousness of experiences as mine from the "much stronger notion" in play when we think about our own narrative self. They add that the latter "presupposes both conceptual knowledge and narrative competence." On that account the narrative self comes after the basic sense of ownership of experience, not before it.
 
-### In the compendium
+### Here
 
 - [[P160 — Distinguish the observing self from the story of self]]: separates the observer of experience from the story told about oneself
 - [[E053 — Practise the self as relation]]: works with a different account of the self, Kierkegaard's self as a relation

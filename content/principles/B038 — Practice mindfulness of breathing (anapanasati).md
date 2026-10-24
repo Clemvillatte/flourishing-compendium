@@ -16,7 +16,7 @@ The Anapanasati Sutta gives the practice in a posture and an instruction. The po
 
 > "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.' Or breathing in short, he discerns, 'I am breathing in short'; or breathing out short, he discerns, 'I am breathing out short.'" (MN 118, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
-The compendium applies the sutta's availability: the instruction needs no equipment beyond a body that is already breathing, and the sutta counts that as enough.
+I applie the sutta's availability: the instruction needs no equipment beyond a body that is already breathing, and the sutta counts that as enough.
 
 **Plain words**
 The practice is to notice the breath you already have rather than produce a better one. Sitting somewhere before a hard thing, the first step is to know that the breath is short and fast. That knowing is what the sutta asks for first, and the breath is already happening, so it costs nothing to start.

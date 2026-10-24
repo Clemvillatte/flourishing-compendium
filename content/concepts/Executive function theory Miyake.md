@@ -17,7 +17,7 @@ Friedman and Miyake describe executive functions as higher-level processes that 
 
 The three functions are mental set shifting, information updating and monitoring, and inhibition of prepotent responses ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)). The paper's closing line is that both the unity and the diversity of executive functions need recognizing: the three correlate moderately, yet each contributes differently to complex tasks, with card sorting leaning on shifting, the Tower of Hanoi on inhibition, and operation span on updating ([Miyake et al., 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/10945922/)).
 
-### In the compendium
+### Here
 
 - [[CO045 — Cultivate cognitive flexibility — the capacity to switch between modes]] — the switching capacity in practice
 - [[P068 — Will is the effort of attention]] — will framed as attentional effort

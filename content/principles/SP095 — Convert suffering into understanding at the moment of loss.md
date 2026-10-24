@@ -20,7 +20,7 @@ Modern research is less clear on "one reliable way". Park's review of the meanin
 
 ### Scope
 
-Calhoun and Tedeschi 2004 is listed as further reading, not summarized here. Spinoza never mentions bereavement in the cited passages; the question about what loss lets you see is the compendium's practice, not his.
+Calhoun and Tedeschi 2004 is listed as further reading, not summarized here. Spinoza never mentions bereavement in the cited passages; the question about what loss lets you see is my practice, not his.
 
 **Plain words**
 Spinoza says that understanding a feeling takes away its hold. Research on making meaning after loss is promising but mixed; treat this as an invitation to understand, not a guaranteed cure.

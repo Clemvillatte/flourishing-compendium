@@ -16,7 +16,7 @@ In Hasenkamp and colleagues' study of focused-attention meditation, fourteen med
 
 > "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." (Hasenkamp et al., 2012 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/21782031/) — Neuroimage 59(1):750-760)
 
-The compendium uses this model to frame noticing a drift and returning to the chosen focus as parts of practice.
+I use this model to frame noticing a drift and returning to the chosen focus as parts of practice.
 
 **Plain words**
 A session of focused attention is, on this model, a cycle: focus drifts, you notice, you shift back. The drift is expected; the notice and the shift are parts of the practice, not interruptions to it.

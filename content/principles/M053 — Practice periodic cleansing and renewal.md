@@ -20,7 +20,7 @@ The sweat bath has a documented history in Mesoamerica, mainly as a healing spac
 
 A study of Mayan families in highland Guatemala found that traditional wood-fired temazcales, which are small and poorly ventilated, were associated with higher excretion of mutagenic metabolites from wood smoke ([Mutagenesis, 2014](https://academic.oup.com/mutage/article/29/5/367/2763469)). The temazcal also appears in sources as a postpartum practice believed to "normalise, heal, and warm the uterus" ([PMC study of Guatemalan postpartum practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC3799972/)).
 
-No evidence was found that periodic cleansing rituals clear emotional or relational "residue"; sources on limpias are cited at second hand. The principle is the compendium's modern translation, kept for practice.
+No evidence was found that periodic cleansing rituals clear emotional or relational "residue"; sources on limpias are cited at second hand. The principle is my modern translation, kept for practice.
 
 **Plain words**
 Plan a regular reset, in the body, the home or a relationship, instead of waiting for a crisis. If you try a sweat bath, treat the smoke and the heat as real risks.

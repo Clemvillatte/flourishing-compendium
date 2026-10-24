@@ -19,7 +19,7 @@ The bias shows up in what a person selects and in what a person reads into ambig
 
 > Social psychologist Ziva Kunda combines the cognitive and motivational theories, arguing that motivation creates the bias, but cognitive factors determine the size of the effect. — [Wikipedia, Confirmation bias (opened)](https://en.wikipedia.org/wiki/Confirmation_bias)
 
-The overview also notes that people demand a high standard of evidence for unpalatable ideas and a low standard for preferred ones. The remedy it describes is a counter-move: adopt a contrary viewpoint for the sake of argument, and ask why one's position might collapse. The compendium pairs the bias with fallibilism and with deliberate counterargument.
+The overview also notes that people demand a high standard of evidence for unpalatable ideas and a low standard for preferred ones. The remedy it describes is a counter-move: adopt a contrary viewpoint for the sake of argument, and ask why one's position might collapse. I pair the bias with fallibilism and with deliberate counterargument.
 
 ## Related concepts
 

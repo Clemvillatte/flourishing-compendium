@@ -17,9 +17,9 @@ The sage wears haircloth and carries jade in his bosom: real worth travels under
 > "They who know me are few, and I am on that account (the more) to be prized. It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom."
 > (DDJ 70, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter opens by saying its words are very easy to know and very easy to practise, yet there is no one able to know and practise them. The jade line can be read as the consolation attached to that: being unrecognized outside does not change what is carried inside. The compendium's application: stop packaging yourself. (DDJ 70.)
+The chapter opens by saying its words are very easy to know and very easy to practise, yet there is no one able to know and practise them. The jade line can be read as the consolation attached to that: being unrecognized outside does not change what is carried inside. My application: stop packaging yourself. (DDJ 70.)
 
-**Plain words** The image splits worth from its covering. The haircloth is the plain covering people see; the jade is what is actually carried. On the compendium's analogy, checking the work is attending to the jade, and presenting sound work plainly is the coarse covering. The chapter does not say this about presentations; it is an application of the image, not a quotation of it.
+**Plain words** The image splits worth from its covering. The haircloth is the plain covering people see; the jade is what is actually carried. On my analogy, checking the work is attending to the jade, and presenting sound work plainly is the coarse covering. The chapter does not say this about presentations; it is an application of the image, not a quotation of it.
 
 *For example:* Suppose the work behind your presentation is checked and sound. Presenting it plainly, without extra polish, is the coarse cloth; the checked work itself is the jade. The chapter does not promise anyone will notice the difference.
 

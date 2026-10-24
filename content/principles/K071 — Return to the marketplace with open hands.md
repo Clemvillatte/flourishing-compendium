@@ -18,7 +18,7 @@ The tenth and last of the Ten Oxherding Pictures, with verses by the twelfth-cen
 
 Suzuki's rendering of the preface adds that the sage's "thatched cottage gate is closed, and even the wisest know him not", and that he "is found in company with wine-bibbers and butchers, he and they are all converted into Buddhas" ([Suzuki, Manual of Zen Buddhism, 1956](https://philosophy.lander.edu/oriental/reader/reader/x5038.html)). The sequence ends with ordinary company, and the transformation happens without display.
 
-This is the compendium's final principle, and the placement is the compendium's own. The earlier ones about collapse, nothingness and mind training are practised so that the person can be ordinary and available among people. Practically, let the week end in the marketplace: a meal with someone, a hand given where it is useful, no display.
+This is my final principle, and the placement is my own. The earlier ones about collapse, nothingness and mind training are practised so that the person can be ordinary and available among people. Practically, let the week end in the marketplace: a meal with someone, a hand given where it is useful, no display.
 
 (Kakuan Shien, Ten Oxherding Pictures, picture X.)
 

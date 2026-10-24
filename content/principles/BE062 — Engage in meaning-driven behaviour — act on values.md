@@ -19,7 +19,7 @@ An intervention built on that contrast, Acting on Values, had volunteers initiat
 > "when participants were encouraged to act on their values or set value-concordant goals, the well-being benefits were more consistent" (Napier & Mangat 2026, [The Journal of Positive Psychology](https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2714053), Abstract)
 
 **Plain words**
-Naming a value leaves a practical question: what will you do this week? The review found benefits more consistent when people were helped to act on their values, so the compendium's exercise is choosing one manageable action rather than stopping at the list. The studies were mostly low to moderate quality, so the reading stays modest.
+Naming a value leaves a practical question: what will you do this week? The review found benefits more consistent when people were helped to act on their values, so my exercise is choosing one manageable action rather than stopping at the list. The studies were mostly low to moderate quality, so the reading stays modest.
 
 *For example:* someone whose stated value is family, whose month holds no family dinners, books one recurring weekly dinner as that one action.
 

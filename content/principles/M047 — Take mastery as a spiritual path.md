@@ -25,7 +25,7 @@ The research on mastery is mixed. A meta-analysis found that deliberate practice
 Flow research (Csikszentmihalyi) is cited at second hand. Nothing found shows that craft practice makes a person wiser.
 
 **Plain words**
-Nahua sources praise the craftsman as patient, careful and prudent. Whether craft also makes someone wise is the compendium's hope, not a finding.
+Nahua sources praise the craftsman as patient, careful and prudent. Whether craft also makes someone wise is my hope, not a finding.
 
 **For example**
 Choose one craft and keep a log of dated practice sessions for a year. At each month's end, write one sentence on what the craft asked of your patience.

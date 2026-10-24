@@ -18,7 +18,7 @@ Bergson's account of creative emotion distinguishes two directions of influence.
 
 ### An account of creation
 
-The discussion belongs to Bergson's philosophy of open morality and dynamic religion in The Two Sources of Morality and Religion. It is not a classification for diagnosing emotional states, nor a reason to dismiss work begun with a plan. The compendium's application is to leave room, in reflection on a completed creative effort, for feeling to have contributed to its direction.
+The discussion belongs to Bergson's philosophy of open morality and dynamic religion in The Two Sources of Morality and Religion. It is not a classification for diagnosing emotional states, nor a reason to dismiss work begun with a plan. My application is to leave room, in reflection on a completed creative effort, for feeling to have contributed to its direction.
 
 ### Plain words
 

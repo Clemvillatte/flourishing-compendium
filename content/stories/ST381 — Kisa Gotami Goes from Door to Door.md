@@ -18,7 +18,7 @@ By evening the errand had done something else. "I thought 'twas I alone had lost
 
 Her own verses in the Therigatha end with a different image: "With dart removed am I, the burden laid down, done what was to be done" ([Hecker and Khema, Thig 10](https://www.accesstoinsight.org/tipitaka/kn/thig/thig.10.01.hekh.html)).
 
-The compendium uses this story for B108. She is not told her son is not dead, nor that she should stop. She is given a task that takes the grief into the village, where the common fate gets said in the neighbours' own words.
+I use this story for B108. She is not told her son is not dead, nor that she should stop. She is given a task that takes the grief into the village, where the common fate gets said in the neighbours' own words.
 
 Limits: the mustard-seed episode comes from the commentary tradition, and the canonical verses excerpted at Access to Insight do not contain it. The story is also cut short on the mother's later grief, and it does not say that others' deaths made her own lighter.
 

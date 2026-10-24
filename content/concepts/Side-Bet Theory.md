@@ -27,7 +27,7 @@ Rothrauff and colleagues' illustration of the theory: "changing occupations (mai
 
 That example is the theory in ordinary terms: an employee stays because leaving would forfeit the pension, the seniority and the workplace friendships already banked.
 
-### In the compendium
+### Here
 
 - [[D020 — Know where to stop (chizhi)]] — the Daodejing's chapter 44 pricing of wealth against life
 - [[K008 — Expect the collapse of meaning; do not waste it]] — Nishitani on the collapse of the ordinarily necessary things

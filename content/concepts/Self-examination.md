@@ -13,9 +13,9 @@ Self-examination is the practice Socrates names as his life's work at his trial.
 
 ### What the practice includes
 
-The examination is not private rumination. Socrates describes it as done in company, "exhorting anyone whom I meet," and its sting is aimed at priorities: he asks his fellow Athenians why they "care so much about laying up the greatest amount of money and honor and reputation, and so little about wisdom and truth and the greatest improvement of the soul." The method is elenchus, questioning that tests whether a person's beliefs hold together, and its starting point is the admission of not knowing. The daily discipline the compendium draws from it is this twofold: question your own beliefs as if they were a stranger's, and treat the soul's improvement as something worth accounting for.
+The examination is not private rumination. Socrates describes it as done in company, "exhorting anyone whom I meet," and its sting is aimed at priorities: he asks his fellow Athenians why they "care so much about laying up the greatest amount of money and honor and reputation, and so little about wisdom and truth and the greatest improvement of the soul." The method is elenchus, questioning that tests whether a person's beliefs hold together, and its starting point is the admission of not knowing. The daily discipline I draw from it is this twofold: question your own beliefs as if they were a stranger's, and treat the soul's improvement as something worth accounting for.
 
-### In the compendium
+### Here
 
 - [[S065 — Practise self-examination daily]] — the practice rule the Apology sentence grounds
 - [[S120 — End the evening with review]] — the examination scheduled, in the evening review
@@ -24,7 +24,7 @@ The examination is not private rumination. Socrates describes it as done in comp
 ## Related concepts
 - [[T011 — Socrates]]: the practice named as his life's work at the trial (Apology 38a).
 
-- [[The examined life]] — the compendium's fuller treatment of the Apology's organizing ideal
+- [[The examined life]] — my fuller treatment of the Apology's organizing ideal
 - [[Socratic inquiry]] — the questioning method self-examination travels by
 - [[Socratic elenchus]] — the refutation step that keeps the examination honest
 - [[Socratic ignorance]] — the not-knowing that licenses the question

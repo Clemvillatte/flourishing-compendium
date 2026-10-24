@@ -13,7 +13,7 @@ Bandura's term for the strongest of the four sources of self-efficacy: direct ex
 
 (Albert Bandura, "Self-Efficacy," Encyclopedia of Human Behavior, 1994, [PDF](https://coalea.univ-lorraine.fr/sites/coalea.univ-lorraine.fr/files/bandura1994ehb.pdf))
 
-The design implication Bandura draws: easy successes make brittle belief. A resilient sense of efficacy is built on tasks that include obstacles, because the person learns that effort carries them through. The compendium's SE060 (build self-efficacy through doing) and BE060 (build competence through practice) inherit this structure.
+The design implication Bandura draws: easy successes make brittle belief. A resilient sense of efficacy is built on tasks that include obstacles, because the person learns that effort carries them through. My SE060 (build self-efficacy through doing) and BE060 (build competence through practice) inherit this structure.
 
 ## Sources
 

@@ -24,7 +24,7 @@ Zhuangzi 12 carries the same weight on the other side, in Zi-gong's description 
 
 > "Though all the world should praise them, they would (only) get what they think should be loftily disregarded; and though all the world should blame them, they would but lose (what they think) fortuitous and not to be received - the world's blame and praise can do them neither benefit nor injury." (Zhuangzi 12, Legge trans., [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium brings the two passages together: DDJ 13 treats favour and disgrace as a single category because each leaves you exposed to what comes next, and Zi-gong's description in Zhuangzi 12 gives the person for whom both have lost their purchase.
+I bring the two passages together: DDJ 13 treats favour and disgrace as a single category because each leaves you exposed to what comes next, and Zi-gong's description in Zhuangzi 12 gives the person for whom both have lost their purchase.
 
 (DDJ 13; Zhuangzi 12.)
 

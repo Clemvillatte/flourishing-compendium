@@ -19,7 +19,7 @@ Kabat-Zinn traces the capacity to the Buddhist tradition, where mindfulness is "
 
 MBSR's design goal was a training vehicle for facing stress, pain and illness, not teaching Buddhism and not "to make great meditators" out of patients (2003). That transplant, from monastic curriculum to hospital clinic, is what made the word a psychological construct with instruments, trials and meta-analyses attached.
 
-### In the compendium
+### Here
 
 - [[R063 — Practise the rectification of the mind (zhengxin)]] — the Confucian parallel: correcting the mind's agitation and fixation, cited in psychology parallels
 - [[E001 — Practise the phenomenological reduction]] — the epoché as the philosophical cousin of mindful suspension of automatic judgment

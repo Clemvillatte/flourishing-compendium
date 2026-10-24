@@ -19,9 +19,9 @@ An Oxford chapter on Fromm and psychoanalysis quotes him: the alternative is for
 
 ### Scope
 
-The sources describe domination and submission as responses to insecurity in a historical setting, and they do not give a test of Fromm's claims. Britannica and the other summaries are secondary, and Escape from Freedom itself was not read for this page. The compendium's wording calls domination the assertive pole of Fromm's authoritarian mechanism. Those summaries describe sadomasochism and submission to a leader, and they do not use the term "pole".
+The sources describe domination and submission as responses to insecurity in a historical setting, and they do not give a test of Fromm's claims. Britannica and the other summaries are secondary, and Escape from Freedom itself was not read for this page. My wording calls domination the assertive pole of Fromm's authoritarian mechanism. Those summaries describe sadomasochism and submission to a leader, and they do not use the term "pole".
 
-### In the compendium
+### Here
 
 - [[D133 — Don't dominate — the world can't be controlled]] lists this concept. That principle rests on Laozi and does not quote Fromm, so the link is thematic.
 

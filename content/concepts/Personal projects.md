@@ -15,7 +15,7 @@ Brian Little's unit of analysis for personality is the extended pursuit. His 200
 
 The abstract carries a cost note: acting out of character "may also compromise well-being because of challenges to the autonomic nervous system," and "the costs of free-traited behavior can be mitigated by the provision and use of restorative resources."
 
-### In the compendium
+### Here
 
 - [[E039 — Practise the choice of self]] — lists the concept among its psychology parallels.
 

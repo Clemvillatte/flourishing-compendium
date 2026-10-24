@@ -24,9 +24,9 @@ He also holds that "consensus usually presupposes an original position of divers
 
 Analects 13.23 puts the same contrast in a line. In Legge's translation: "The superior man is affable, but not adulatory; the mean man is adulatory, but not affable" ([ctext](https://ctext.org/analects/zi-lu)). The Chinese is 君子和而不同，小人同而不和, which sets harmony (和) against sameness (同).
 
-### Where the compendium goes further
+### Where I go further
 
-Wiredu's account is about political consensus. Applying it to personal relationships and communities is the compendium's extension. "Patience" and "willingness to see the other's point of view" are not Wiredu's words, although his test that parties feel "adequate account has been taken of their points of view" is close.
+Wiredu's account is about political consensus. Applying it to personal relationships and communities is my extension. "Patience" and "willingness to see the other's point of view" are not Wiredu's words, although his test that parties feel "adequate account has been taken of their points of view" is close.
 
 ([[Ubuntu|Ubuntu philosophy]]; Wiredu, "Democracy and Consensus in African Traditional Politics"; Analects 13.23.)
 

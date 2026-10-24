@@ -24,7 +24,7 @@ The Zhuangzi's sixth chapter describes the people this works for: "The True men 
 (DDJ 33, 50; Zhuangzi 6.)
 
 **Plain words**
-The test for a good death is a settled life. Accounts kept current, amends made when the amends were possible, days actually lived: these leave the last day with nothing to do except end. The compendium's exercise is small. Each evening, ask whether today left anything essential unsaid or undone.
+The test for a good death is a settled life. Accounts kept current, amends made when the amends were possible, days actually lived: these leave the last day with nothing to do except end. My exercise is small. Each evening, ask whether today left anything essential unsaid or undone.
 
 *For example:* Imagine a hospice patient who is calm while the family is not. The chapter's suggestion is that the calm was earned across the whole life rather than summoned at the end.
 

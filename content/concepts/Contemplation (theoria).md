@@ -22,7 +22,7 @@ The argument of Book X works by elimination: strip away action, and still more p
 
 Aristotle keeps the conclusion human-sized: being a man, one will also need external prosperity, since our nature is not self-sufficient for contemplation; the body must be healthy and must have food; but noble acts do not require ruling earth and sea, and one can with moderate possessions do what one ought ([NE X.7-8, Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). Anaxagoras also seems to have supposed the happy man not to be rich nor a despot, and would not be surprised if the happy man seemed to most people a strange person, since they judge by externals ([NE X.7-8, Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
-### In the compendium
+### Here
 
 - [[A089 — Practise contemplation (theoria)]] — the principle built on the elimination argument and the kinship-with-divine-activity conclusion
 - [[A091 — Integrate contemplation and action]] — Politics VII: the better life question answered without splitting thought from action

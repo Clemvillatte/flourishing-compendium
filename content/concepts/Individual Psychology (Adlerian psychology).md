@@ -22,7 +22,7 @@ The same passage carries the theory's social edge, which is what makes it matter
 
 The book's opening chapter holds that human beings live within meanings ([Adler, ch. I](https://archive.org/stream/in.ernet.dli.2015.234444/2015.234444.What-Life_djvu.txt)).
 
-### In the compendium
+### Here
 
 - [[SO010 — Treat the sociocultural level as interventionable]] and [[SO002 — Treat the person as embedded in nested systems]]
 - [[BE010 — Understand that behaviour is social — others shape what you do]]

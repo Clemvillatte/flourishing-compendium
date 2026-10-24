@@ -17,9 +17,9 @@ On the practical reading the SEP describes, the thought is designed to test whet
 
 Whether Nietzsche also meant it as cosmology is disputed. The SEP notes that all Nietzsche's official presentations of the thought in published work are hypothetical, elliptical or metaphorical, that most early readers took him to be offering a cosmological hypothesis about the structure of time or fate, and that problems have been posed for that thesis ([SEP](https://plato.stanford.edu/entries/nietzsche/)). In the aftermath of Nehamas (1985), an influential line of readings argues that the thought was never a cosmological claim at all but a practical thought experiment designed to test whether one's life has been good, much as a spouse's question about whether one would marry again evokes an assessment of the marriage ([SEP](https://plato.stanford.edu/entries/nietzsche/)).
 
-### In the compendium
+### Here
 
-E104 states the test directly: "Practise living in a way that you would will the eternal recurrence of every moment." SP027 treats the recurrence as a determinism test; BE068 ties it to what outlasts a life, mentoring and planting for the next people; AF069 supplies the compendium's separate comparison from psychology, that both positive and negative experiences fade toward baseline; SE007 frames the self with temporal depth across past, present and future selves; D006 supplies the Daoist comparison of cyclical return.
+E104 states the test directly: "Practise living in a way that you would will the eternal recurrence of every moment." SP027 treats the recurrence as a determinism test; BE068 ties it to what outlasts a life, mentoring and planting for the next people; AF069 supplies my separate comparison from psychology, that both positive and negative experiences fade toward baseline; SE007 frames the self with temporal depth across past, present and future selves; D006 supplies the Daoist comparison of cyclical return.
 
 - [[E104 — Practise the eternal recurrence]] — live so that you would will the recurrence of every moment
 - [[SP027 — Drop the illusion of free will]] — treats the recurrence as a determinism test

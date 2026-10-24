@@ -17,12 +17,12 @@ The same volume gives the time-side of the claim: "Time becomes human to the ext
 
 The identity payoff comes in Oneself as Another: "Narrative constructs the identity of the character (…) in constructing that of the story told. It is the identity of the story that makes the identity of the character" (1992, pp. 147–148).
 
-The compendium's [[E084 — Practise emplotment]] and [[ST285 — Ricoeur's Threefold Mimesis]] carry this into practice: the self is not found by introspection but built by telling the story well.
+My [[E084 — Practise emplotment]] and [[ST285 — Ricoeur's Threefold Mimesis]] carry this into practice: the self is not found by introspection but built by telling the story well.
 
 ## Related concepts
 
 
-- [[E084 — Practise emplotment]] — the compendium principle this theory grounds
+- [[E084 — Practise emplotment]] — my principle this theory grounds
 - [[ST285 — Ricoeur's Threefold Mimesis]] — the story that frames the practice
 - [[Interpretive understanding]] — Ricoeur's hermeneutic frame for what a text does
 - [[Master-slave dialectic]] — a different Hegelian account of self-constitution

@@ -13,7 +13,7 @@ Interoceptive inference is Anil Seth's predictive-coding account of emotion and 
 
 ### From feelings to selfhood
 
-The model generalizes appraisal theories that treat emotions as cognitive evaluations of physiological change, and it carries the account up to the sense of being a body. As Seth summarizes: "emotion and embodied selfhood are grounded in active inference of those signals most likely to be 'me' across interoceptive and exteroceptive domains." The compendium's principles use this twice over: feelings become information about the organism's transactions rather than noise, and the lived body becomes something the brain is continuously modeling rather than simply inhabiting.
+The model generalizes appraisal theories that treat emotions as cognitive evaluations of physiological change, and it carries the account up to the sense of being a body. As Seth summarizes: "emotion and embodied selfhood are grounded in active inference of those signals most likely to be 'me' across interoceptive and exteroceptive domains." My principles use this twice over: feelings become information about the organism's transactions rather than noise, and the lived body becomes something the brain is continuously modeling rather than simply inhabiting.
 
 ## Related concepts
 

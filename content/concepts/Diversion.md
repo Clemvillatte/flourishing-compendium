@@ -15,7 +15,7 @@ Pascal imagines a king attended with every pleasure he can feel: "if he be witho
 
 The hare passage gives the mechanism: "The hare in itself would not screen us from the sight of death and calamities; but the chase which turns away our attention from these, does screen us." Pascal adds that "we are wrong in blaming them": "Their error does not lie in seeking excitement, if they seek it only as a diversion; the evil is that they seek it as if the possession of the objects of their quest would make them really happy." The test is stated in one line: "If our condition were truly happy, we would not need diversion from thinking of it in order to make ourselves happy."
 
-### In the compendium
+### Here
 
 - [[D155 — Watch the thieves within]] and [[D157 — Don't gamble what matters for what doesn't]] are this concept's philosophy parallels
 - [[B181 — Stay with boredom]] names the discipline that sits exactly where Pascal's diverters flee

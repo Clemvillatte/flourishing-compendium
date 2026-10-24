@@ -22,7 +22,7 @@ Craske and colleagues describe a client who feared that dizziness, shortness of 
 
 Craske's paper reports that Deacon and colleagues (2013) found interoceptive exposure continued until the patient's expectancy of an aversive outcome fell below 5% was better than standard interoceptive exposure ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)). I saw this only as Craske reports it, not in the original study.
 
-### In the compendium
+### Here
 
 - K118 is the kernel form: induce the sensation in a safe context and remain with it.
 - BE028 is the principle that asks the reader to approach bodily sensations.

@@ -15,9 +15,9 @@ The interpreter module is Michael Gazzaniga's name for the left-hemisphere syste
 
 The classic demonstration is the simultaneous concept test. A chicken claw is shown to one hemisphere, a snow scene to the other; the patient correctly picks a chicken with one hand and a shovel with the other, and then, asked why, "his speaking left hemisphere replied, 'Oh, that's simple. The chicken claw goes with the chicken, and you need a shovel to clean out the chicken shed.'" The reply is fluent, confident and false as an account of the choosing: the left hemisphere "interpreted that response only in the context of its own sphere of knowledge — a sphere that did not include information about the snow scene that had been presented to the right hemisphere." The interpreter does not say "I don't know"; it constructs, from what it has, a story that fits.
 
-For the compendium the module grounds a standing caution about self-reports. On the model Gazzaniga proposes, the explanations people give of their own actions are often the interpreter's narration, produced after the fact from partial information; the introspective limit this suggests is the practical reason for pairing inner stories with outer evidence.
+For me the module grounds a standing caution about self-reports. On the model Gazzaniga proposes, the explanations people give of their own actions are often the interpreter's narration, produced after the fact from partial information; the introspective limit this suggests is the practical reason for pairing inner stories with outer evidence.
 
-### In the compendium
+### Here
 
 - [[B075 — The thinker is another thought]] — thoughts observed, not owned
 - [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] — the limit the module demonstrates

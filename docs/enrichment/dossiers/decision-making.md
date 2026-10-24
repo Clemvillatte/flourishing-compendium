@@ -11,7 +11,7 @@ A choice under uncertainty is the moment a person's values meet the world's refu
 - Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here.
 - Akrasia: acting against one's own better judgment, held under its own group below.
 
-## The map: every entry the wiki holds on decision-making
+## The map: the entries on decision-making
 
 ### How people actually choose
 
@@ -127,7 +127,7 @@ A choice under uncertainty is the moment a person's values meet the world's refu
 
 [Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early.
 
-[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear.
+[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear.
 
 [Temptation bundling (Milkman)](https://clemvillatte.github.io/flourishing-compendium/#card=Temptation%20bundling%20%28Milkman%29): Milkman's method of pairing an instantly gratifying want with a valuable but effortful should.
 
@@ -187,13 +187,13 @@ The shared question: if someone judges one course best, what could lead them to 
 
 > "For Socrates was entirely opposed to the view in question, holding that there is no such thing as incontinence; no one, he said, when he judges acts against what he judges best-people act so only by reason of ignorance. Now this view plainly contradicts the observed facts" ([Aristotle, Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)): Primary text; quoted passage checked.
 
-The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The compendium's cards on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a preprint replicating its second study reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026.
+The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The cards I hold on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a preprint replicating its second study reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the moment and the manner of the decision. The look-alikes of good judgment are speed, certainty and a long list of options. The adaptive moves are to slow a large decision, to examine what is being assumed, to ask what would count as enough, and to choose early the thing that will be hard to choose late.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Pre-decision review](https://clemvillatte.github.io/flourishing-compendium/#card=K262%20%E2%80%94%20Pre-decision%20review): before a significant decision, write what you are assuming, what changes if the assumption is wrong, and the worst and best plausible outcomes.
 
@@ -219,7 +219,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The choice that sets a path
 

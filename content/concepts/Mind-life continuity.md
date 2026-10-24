@@ -15,7 +15,7 @@ Mind-life continuity is the thesis Evan Thompson argues in Mind in Life: Biology
 
 The claim is organizational ([Précis, Introduction](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)). Thompson's twofold approach ([same document](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)): to be a living organism is to realize a certain kind of self-organization, "one that entails an autonomous and normative and cognitive mode of being in relation to the world", and certain features of the human mind, especially structural features of conscious experience, are constituted by self-organizing processes of the human body engaged with its environment ([same document, Introduction](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)). Later in the précis he writes that the enactive approach and phenomenology converge on the proposition that subjectivity and consciousness have to be explicated in relation to the autonomy and intentionality of life, in a sense of life that encompasses the organism, the lived body and the life-world ([same document](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)).
 
-### In the compendium
+### Here
 
 - [[P140 — Treat mind and life as continuous]] carries the thesis as its principle statement: life and mind share formal properties, with mind an enriched version of life.
 

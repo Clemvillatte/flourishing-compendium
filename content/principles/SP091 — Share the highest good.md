@@ -20,7 +20,7 @@ The Ethics supplies the premise behind the resolution:
 
 > "The good which every man, who follows after virtue, desires for himself he will also desire for other men, and so much the more, in proportion as he has a greater knowledge of God." ([Ethics IV, P37, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-The compendium's application: attach your practice to at least one other person's progress, a study partner, a mentee or a colleague in the work, and let their progress count as yours.
+My application: attach your practice to at least one other person's progress, a study partner, a mentee or a colleague in the work, and let their progress count as yours.
 
 **Plain words** Spinoza notices something odd about the understanding he wants: wanting it for himself already includes wanting it for other people, and the wish grows with the understanding itself (that is the Ethics IV P37 clause, "so much the more, in proportion as"). Sharing the highest good is part of what the project is.
 

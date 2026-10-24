@@ -21,7 +21,7 @@ The same abstract gives the conditions:
 
 The finding is not that solitude is good or bad in itself. It is that solitude reduces high-arousal affect of both kinds, and that choice matters.
 
-### In the compendium
+### Here
 
 - [[B173 — Be alone well]] — the principle takes the choice-and-activation finding as a starting point for a practice.
 - [[P134 — Grow in solitude and community together]] — the principle pairs the solitude finding with the community question.

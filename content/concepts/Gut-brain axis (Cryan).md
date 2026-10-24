@@ -22,7 +22,7 @@ The review discusses animal-model findings and describes studies translating the
 
 These statements do not establish that changing diet treats those conditions.
 
-### In the compendium
+### Here
 
 - [[BI007 — Recognise that the gut is connected to the brain — the gut-brain axis]] — the principle that names the axis
 - [[BI033 — Use nutrition for mental health — food affects mood]] — the nutrition application

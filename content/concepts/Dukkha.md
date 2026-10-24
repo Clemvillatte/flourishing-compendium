@@ -15,7 +15,7 @@ The word is often translated "suffering", but its range is wider: a background u
 
 ### Pain and the second arrow
 
-The compendium's reading separates pain from suffering: the first arrow (pain) is unavoidable; the second arrow, the suffering added by resisting, proliferating, or clinging, is optional. The Sallatha Sutta gives the image:
+My reading separates pain from suffering: the first arrow (pain) is unavoidable; the second arrow, the suffering added by resisting, proliferating, or clinging, is optional. The Sallatha Sutta gives the image:
 
 > "Just as if they were to shoot a man with an arrow and, right afterward, were to shoot him with another one, so that he would feel the pains of two arrows, in the same way, when touched with a feeling of pain, the uninstructed run-of-the-mill person sorrows, grieves, & laments, beats his breast, becomes distraught. So he feels two pains, physical & mental." (SN 36.6, [Thanissaro translation, dhammatalks.org](https://www.dhammatalks.org/suttas/SN/SN36_6.html))
 
@@ -29,7 +29,7 @@ Dukkha's cross-tradition family is the problem-statements of the wisdom traditio
 
 The frictions of an ordinary day, each one a small experiment: the phone's glow gone flat on the tenth check, the promotion that satisfied for a week. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[B001 — Face suffering directly]] — the first-truth task
 - [[B069 — Don't shoot the second arrow (pain vs. suffering)]] — the pain/suffering distinction

@@ -18,7 +18,7 @@ William James set the rule for radical empiricism in one sentence: "To be radica
 >
 > (William James, Essays in Radical Empiricism)
 
-The correction clause matters for practice: James allows "the original placing of things getting corrected", but the correction must keep "a real place... for every kind of thing experienced". The compendium applies this by examining the experience and the framework together before deciding what needs revision.
+The correction clause matters for practice: James allows "the original placing of things getting corrected", but the correction must keep "a real place... for every kind of thing experienced". I applie this by examining the experience and the framework together before deciding what needs revision.
 
 (James, Essays in Radical Empiricism, 1912.)
 

@@ -15,7 +15,7 @@ John's definition of the second night:
 
 The darkness is not abandonment but treatment: "although this happy night brings darkness to the spirit, it does so only to give it light in everything; and, although it humbles it and makes it miserable, it does so only to exalt it and to raise it up" ([CCEL](https://ccel.org/ccel/john_cross/dark_night.all.html)). The poem's fifth stanza gives the paradox its shape: "Oh, night that guided me, Oh, night more lovely than the dawn, Oh, night that joined Beloved with lover, Lover transformed in the Beloved!" ([CCEL](https://ccel.org/ccel/john_cross/dark_night.all.html)).
 
-The compendium files the night under its principles on expecting the collapse of meaning (K008), on engaging rather than withdrawing in depression (BE032), and on depression's and trauma's effects on attention and self-view (AT071, AT072, SE071, SE072).
+I file the night under its principles on expecting the collapse of meaning (K008), on engaging rather than withdrawing in depression (BE032), and on depression's and trauma's effects on attention and self-view (AT071, AT072, SE071, SE072).
 
 ## Facets
 

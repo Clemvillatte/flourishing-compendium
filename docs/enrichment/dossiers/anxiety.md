@@ -8,15 +8,15 @@ A caution that belongs at the start. Nothing on this page is clinical advice. Wh
 
 ### Nearby terms
 
-The words around anxiety are used loosely, so the compendium keeps them apart unless a source joins them. What each source does say, in the sources' own words:
+The words around anxiety are used loosely, so I keep them apart unless a source joins them. What each source does say, in the sources' own words:
 
-- Stress: Lazarus and Folkman define it as a relationship, not a feeling: "psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). The compendium holds it under [Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either.
+- Stress: Lazarus and Folkman define it as a relationship, not a feeling: "psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either.
 - Fear: Öhman and Mineka propose "an evolved module for fear elicitation and fear learning" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group.
 - Worry: Borkovec and colleagues describe it as "a predominance of negatively valenced verbal thought activity" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research) and [Worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here.
 - Angst: Heidegger's term; the Stanford Encyclopedia quotes him: "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](https://clemvillatte.github.io/flourishing-compendium/#card=Angst) and [Das Nichts](https://clemvillatte.github.io/flourishing-compendium/#card=Das%20Nichts).
-- Dread and apprehension: a search of the wiki found no card titled for either, so no separate entry is mapped.
+- Dread and apprehension: I have no card titled for either, so no separate entry is mapped.
 
-## The map: every entry the wiki holds on anxiety
+## The map: the entries on anxiety
 
 ### What anxiety is, in philosophy
 
@@ -146,7 +146,7 @@ The words around anxiety are used loosely, so the compendium keeps them apart un
 
 [275. Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that
 
-[Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in the compendium's practice principles on obeying from understanding and not from fear.
+[Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in my practice principles on obeying from understanding and not from fear.
 
 [I fear the Greeks even bearing gifts](https://clemvillatte.github.io/flourishing-compendium/#card=I%20fear%20the%20Greeks%20even%20bearing%20gifts): Virgil, Aeneid II, Laocoon's warning.
 
@@ -208,7 +208,7 @@ The three methods target different parts of a fear. Argument works on a belief, 
 
 ::Variation:: What tends to need varying is the relationship to the feeling, not the feeling itself. The look-alikes of calm are avoidance, distraction and reassurance-seeking, which relieve anxiety in the moment and tend to keep it going. The adaptive moves are to ask what the anxiety is about, to test the feared prediction, to approach what was avoided, and to settle the body.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Anxiety-as-signal](https://clemvillatte.github.io/flourishing-compendium/#card=K314%20%E2%80%94%20Anxiety-as-signal): before trying to reduce anxiety, ask what it is about and whether it points to something that needs attention.
 
@@ -248,7 +248,7 @@ The cards carry their own evidence notes, and those notes matter here. Exposure 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Anxiety as the vertigo of possibility
 

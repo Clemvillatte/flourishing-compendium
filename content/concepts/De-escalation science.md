@@ -19,9 +19,9 @@ The Academic Medicine review notes that "formal training in verbal de-escalation
 
 ### Scope
 
-The compendium's earlier summary names a calm tone, validation and slowing the interaction. The two abstracts consulted here do not isolate those individual elements, so those specifics are not confirmed on this page. What the abstracts support is narrower: staff training and multicomponent programmes show benefit in clinical settings. The population is adults with psychotic disorders and health professionals, which is far from everyday family or workplace disputes.
+My earlier summary names a calm tone, validation and slowing the interaction. The two abstracts consulted here do not isolate those individual elements, so those specifics are not confirmed on this page. What the abstracts support is narrower: staff training and multicomponent programmes show benefit in clinical settings. The population is adults with psychotic disorders and health professionals, which is far from everyday family or workplace disputes.
 
-### In the compendium
+### Here
 
 - [[D069 — Don't meet force with force]] lists this concept among its parallels. The link is thematic, since the clinical research concerns lowering aggression without adding restraint.
 

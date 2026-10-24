@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
 
-The phrase "instruments for human growth" is the compendium's label for a theme in John Dewey's Democracy and Education: the things around a person, from tools and language to the people they live with, are the means by which growth is directed. The phrase itself does not appear in the book. The nearest wording found in the text is "instrumentalities", used in chapter 3, "Education as Direction". This page therefore reports what Dewey says about growth and about the means of directing it, and does not claim a passage titled with the original entry's phrase.
+The phrase "instruments for human growth" is my label for a theme in John Dewey's Democracy and Education: the things around a person, from tools and language to the people they live with, are the means by which growth is directed. The phrase itself does not appear in the book. The nearest wording found in the text is "instrumentalities", used in chapter 3, "Education as Direction". This page therefore reports what Dewey says about growth and about the means of directing it, and does not claim a passage titled with the original entry's phrase.
 
 ### Growth as the aim
 
@@ -22,9 +22,9 @@ In chapter 3, Dewey says the social environment directs the young through "the w
 
 ### What this does not say
 
-Dewey is writing about education and democracy, not about flourishing in the sense of the compendium's essays. Reading his account of growth as an account of personal well-being is the compendium's step. Ryff's six dimensions (ST297) include personal growth, but that comes from Ryff, not Dewey.
+Dewey is writing about education and democracy, not about flourishing in the sense of my essays. Reading his account of growth as an account of personal well-being is my step. Ryff's six dimensions (ST297) include personal growth, but that comes from Ryff, not Dewey.
 
-### In the compendium
+### Here
 
 - P018 and P084 are principles on practical wisdom and acting in the situation, which join Dewey's view of principles as methods of inquiry.
 - P088 uses Dewey's Human Nature and Conduct on praise and blame as instruments that shape habit. That is a different book from Democracy and Education.

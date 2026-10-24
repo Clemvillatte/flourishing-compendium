@@ -19,7 +19,7 @@ The same abstract gives the response's role:
 
 > "Moreover, when others were perceived to respond actively and constructively (and not passively or destructively) to capitalization attempts, the benefits were further enhanced. Two studies found that close relationships in which one's partner typically responds to capitalization attempts enthusiastically were associated with higher relationship well-being (e.g., intimacy, daily marital satisfaction)." (Gable, Reis, Impett & Asher, 2004, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/15301629/))
 
-### In the compendium
+### Here
 
 - [[B053 — Practice sympathetic joy (mudita)]] — the principle takes the capitalization finding and pairs it with the Buddhist practice of joy in others' good.
 - [[B101 — Rejoice in others' happiness (mudita as practice)]] — the principle on rejoicing, against which the capitalization research supplies the empirical contrast.

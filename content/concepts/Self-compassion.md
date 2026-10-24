@@ -19,7 +19,7 @@ Its contemplative cognates are [[Metta (loving-kindness)]] turned inward and [[C
 
 self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBeth and Gumley, 2012).
 
-### In the compendium
+### Here
 
 - [[SE004 — Understand that self-esteem is not the same as self-worth]] — the contrast class: global self-evaluation versus a stance toward suffering
 - [[SE025 — Cultivate self-compassion — treat yourself as you would a good friend]] — the construct named as a practice

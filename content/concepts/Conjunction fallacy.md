@@ -25,7 +25,7 @@ The fallacy's lesson is not that people are fools but that the mind substitutes 
 
 > "People generally accept the conjunction rule in its abstract form (B is more probable than A&B) but defy it in concrete examples, such as the Linda and Bill problems, where the rule conflicts with an intuitive impression." (same paper)
 
-Knowing the rule is not enough; the moment of choice is where it must be recalled. The compendium's principle [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] turns this into a working habit.
+Knowing the rule is not enough; the moment of choice is where it must be recalled. My principle [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] turns this into a working habit.
 
 ## Sources
 

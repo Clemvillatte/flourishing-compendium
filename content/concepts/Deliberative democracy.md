@@ -7,7 +7,7 @@ file: "Deliberative democracy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The compendium uses "Deliberative democracy" for the family of democratic theories that place public reasoning at the center of legitimate collective decision-making. Amy Gutmann and Dennis Thompson's definition, as quoted in the Journal of Deliberative Democracy:
+I use "Deliberative democracy" for the family of democratic theories that place public reasoning at the center of legitimate collective decision-making. Amy Gutmann and Dennis Thompson's definition, as quoted in the Journal of Deliberative Democracy:
 
 > "free and equal citizens, justify decisions in a process in which they give one another reasons that are mutually acceptable and generally accessible, with the aim of reaching conclusions that are binding in the present on all citizens but open to challenges in the future" (Gutmann and Thompson 2004, p. 7, quoted in [Massie, Journal of Deliberative Democracy](https://delibdemjournal.org/article/1603/galley/5304/download/))
 
@@ -15,7 +15,7 @@ The compendium uses "Deliberative democracy" for the family of democratic theori
 
 The aim of the process is described in the Wikipedia article on the concept: "Deliberation aims at a rationally motivated consensus: it aims to find reasons acceptable to all who are committed to such a system of decision-making" ([Wikipedia, Deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy)). Juergen Habermas's work on communicative rationality and the public sphere is often identified as a major contribution in this area ([Wikipedia, Deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy)).
 
-### In the compendium
+### Here
 
 - [[R006 — Practise consensus-seeking]]: practises the consensus deliberation aims at
 - [[R108 — Practise deliberative community]]: deliberation as a community practice

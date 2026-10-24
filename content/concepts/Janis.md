@@ -25,7 +25,7 @@ The consequences they list from Janis's work include limited discussion of alter
 
 Early support, Aldag and Fuller say, rested almost entirely on retrospective case studies of five American foreign-policy crises: the Marshall Plan, the invasion of North Korea, the Bay of Pigs invasion, the Cuban Missile Crisis, and the escalation of the Vietnam conflict. Tetlock's 1979 content analysis of the same crises was partly consistent with Janis's theory (groupthink decision makers were more simplistic in their perceptions) and partly not (they did not make significantly more negative references to Communist states). The review also quotes Moorhead's 1982 remark that there had been "no systematic research testing any of its propositions" since the book appeared.
 
-### In the compendium
+### Here
 
 - [[SO036 — Guard against epistemic failure modes]] cites this concept for Janis (1972) on groupthink.
 

@@ -19,7 +19,7 @@ The steps follow what a methods guide says a strong positionality statement incl
 1. Name the lenses: the philosophical, personal and theoretical beliefs through which the situation is being viewed.
 2. Name the potential influences on the work: the carrier's own list runs age, political beliefs, social class, race, ethnicity, gender, religious beliefs, previous career.
 3. State the position taken toward the people involved: insider or outsider, and what that position is likely to do to the engagement.
-4. State what you do not know. The research statement is typically longer; this kernel's one-sentence compression is the compendium's adaptation for daily use, not the research form.
+4. State what you do not know. The research statement is typically longer; this kernel's one-sentence compression is my adaptation for daily use, not the research form.
 
 ### Evidence
 

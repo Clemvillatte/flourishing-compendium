@@ -19,7 +19,7 @@ The story is from the eighteenth chapter of the Zhuangzi. A sea-bird alights in 
 >
 > (Zhuangzi 18, Legge)
 
-The chapter states the moral in terms of constitution: "Fishes live and men die in the water. They are different in constitution, and therefore differ in their likes and dislikes." Hence "the ancient sages did not require (from all) the same ability, nor demand the same performances". The compendium applies this story to offering help or affection without assuming that another person shares your preferences.
+The chapter states the moral in terms of constitution: "Fishes live and men die in the water. They are different in constitution, and therefore differ in their likes and dislikes." Hence "the ancient sages did not require (from all) the same ability, nor demand the same performances". I applie this story to offering help or affection without assuming that another person shares your preferences.
 
 (Zhuangzi 18.)
 

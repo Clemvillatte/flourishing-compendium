@@ -17,7 +17,7 @@ The best philia is the third kind:
 
 > "the perfect friendship or love is the friendship or love of people who are good and alike in virtue; for these people are alike in wishing each other's good, in so far as they are good, and they are good in themselves. But it is people who wish the good of their friends for their friend's sake that are in the truest sense friends, as their friendship is the consequence of their own character, and is not an accident." (VIII.4)
 
-In the compendium, A063 carries the necessity-for-flourishing claim, A064 the three-kinds teaching, and [[Eudaimonia]] is the life friendship serves.
+Here, A063 carries the necessity-for-flourishing claim, A064 the three-kinds teaching, and [[Eudaimonia]] is the life friendship serves.
 
 ## Related concepts
 

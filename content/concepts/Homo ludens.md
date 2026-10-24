@@ -32,7 +32,7 @@ The definition is Huizinga's, written about play as a cultural form. It is not a
 - [[Play research]] — the empirical study of play
 - [[Flow]] — absorbed engagement, which resembles Huizinga's "intensely and utterly"
 - [[Leisure]] — a nearby topic
-- [[BE065]] — the compendium's principle on play behaviour
+- [[BE065]] — my principle on play behaviour
 
 ## Sources
 

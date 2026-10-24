@@ -22,7 +22,7 @@ Holt-Lunstad, Smith and Layton's meta-analysis of 148 studies covering 308,849 p
 > The influence of social relationships on risk for mortality is comparable with well-established risk factors for mortality.
 > (Holt-Lunstad, Smith and Layton 2010, PLoS Medicine)
 
-The compendium's exercise: identify whom you could approach for different kinds of help, and discuss those expectations with them.
+My exercise: identify whom you could approach for different kinds of help, and discuss those expectations with them.
 
 **Plain words** Make a list of the kinds of help you might need: someone to listen, someone to drive you somewhere, someone who knows the medical system, someone who will tell you the truth. For each, name a person you could ask. The exercise is the naming and, where it makes sense, the telling, so the expectations exist before the crisis.
 

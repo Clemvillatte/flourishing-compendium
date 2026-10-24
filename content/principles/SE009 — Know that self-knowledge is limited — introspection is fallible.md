@@ -16,7 +16,7 @@ Nisbett and Wilson's review of the evidence concluded there may be "little or no
 
 > "The accuracy of subjective reports is so poor as to suggest that any introspective access that may exist is not sufficient to produce generally correct or reliable reports." (Nisbett & Wilson, "Telling More Than We Can Know", Psychological Review 84, 1977, p. 233)
 
-The correction is not despair. The paper notes that accurate reports will occur when the influential stimuli are salient and plausible causes; introspection is fallible, not empty. The compendium's application: treat self-explanations as hypotheses, check them against what you actually did, and ask people who watched you.
+The correction is not despair. The paper notes that accurate reports will occur when the influential stimuli are salient and plausible causes; introspection is fallible, not empty. My application: treat self-explanations as hypotheses, check them against what you actually did, and ask people who watched you.
 
 **Plain words**
 When you explain your own choices, you are often not reading a record of your decision process; you are telling a plausible story about it. The story can be wrong in ways you cannot catch from the inside. Two safeguards: treat your reasons as a draft to check against the behaviour data (calendar, history, receipts), and ask someone who watched you — their view of your pattern is sometimes more accurate than yours. Self-knowledge stays useful; it just stops being testimony.

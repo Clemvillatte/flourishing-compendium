@@ -14,7 +14,7 @@ A periodic review of whether you are trading time for money in ways that diminis
 
 ### Protocol
 
-The steps are the compendium's practice form; the finding the form leans on is quoted in the Evidence section.
+The steps are my practice form; the finding the form leans on is quoted in the Evidence section.
 
 1. List the week's time-for-money trades: overtime, commuting that saves rent, chores you could delegate but do not.
 2. Pick one trade whose reversal you can actually afford, and reverse it for one week: buy back one hour, once, and notice what the hour becomes.

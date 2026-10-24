@@ -18,7 +18,7 @@ Wang Ni concludes: "As I see things, the sprouts of ren and righteousness, the p
 
 Nie Que has an objection: if Wang Ni cannot tell benefit from harm, can the True Man? Wang Ni says the True Man is "spirit-like" and unmoved by burning lakes or frozen rivers, and that death and life do not change him ([Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content)).
 
-The compendium reads the scene beside D100. "I don't know" here is not an apology or a dead end. Wang Ni stays steady while he says it and uses it to open the next question, and each example shows that the question was built on one creature's idea of what is proper.
+I read the scene beside D100. "I don't know" here is not an apology or a dead end. Wang Ni stays steady while he says it and uses it to open the next question, and each example shows that the question was built on one creature's idea of what is proper.
 
 Limits: this is a skeptical set-piece, and Wang Ni's calm is a literary effect. The text does not show anyone living by "I don't know" under pressure. The True Man at the end is a mythic figure and no method.
 

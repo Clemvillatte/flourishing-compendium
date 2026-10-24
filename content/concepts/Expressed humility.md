@@ -15,7 +15,7 @@ Expressed humility is humility as other people can see it. Bradley Owens, Michae
 
 The parts are deliberately behavioral. The willingness to view oneself accurately shows up as admitting mistakes and seeking realistic feedback; the appreciation of others shows up as noticing what coworkers contribute; teachability shows up as remaining open to learning from anyone present ([Nielsen et al., 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/ijmr.12160)). A later summary of the construct describes it as "a pattern of behaviors in interpersonal interactions that can be observable by others" ([Murray and Pellegrini, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13236623/)). The construct's interest for leadership research is that a leader's accurate self-presentation without self-promotion can be rated by the team, which is what the original entry line of this page pointed to.
 
-### In the compendium
+### Here
 
 - [[D102 — Shine without displaying]] — the Daoist version of achievement without self-display
 - [[D067 — Don't claim credit]] — the behavior the scale's other-appreciation component operationalises

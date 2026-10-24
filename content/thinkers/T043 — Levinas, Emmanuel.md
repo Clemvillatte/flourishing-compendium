@@ -31,14 +31,14 @@ The face-to-face is where ethics begins: the other's expression interrupts the s
 - **Substitution** — the self as hostage, one-for-the-other. See [[Substitution]].
 - **Alterity and the third** — the other's transcendence, and justice when the third arrives. See [[Alterity]], [[A097 — Practise corrective justice|Practise corrective justice]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[The face]]
 - [[Infinite responsibility]]
 - [[The primacy of the ethical]]
 - [[Alterity]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 69-entry surname-match floor is not reproduced.
 

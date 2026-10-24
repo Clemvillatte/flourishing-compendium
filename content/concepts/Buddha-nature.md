@@ -25,10 +25,10 @@ and with the sutra's statement of permanence:
 
 The sutra conveys the doctrine through nine similes: grain covered by the husk, a treasure buried under the ground, a Buddha statue wrapped in a rag, and so on, where the defilements are the husk, the ground, the rag, whatever covers or conceals that which is precious.
 
-### In the compendium
+### Here
 
 - [[D171 — Nothing is beyond redemption]] — the principle takes the Buddha-nature doctrine as a starting point for the claim that nothing is beyond redemption.
-- [[D127]] — the principle the compendium pairs with the Buddha-nature reading.
+- [[D127]] — the principle I pair with the Buddha-nature reading.
 
 ## Facets
 
@@ -38,7 +38,7 @@ The sutra conveys the doctrine through nine similes: grain covered by the husk, 
 
 - [[Original enlightenment]] — the reading that beings are already enlightened.
 - [[Tathata, suchness]] — the suchness the Buddha-nature is identified with.
-- [[The mirror overturning]] — the compendium's pairing for the moment of recognition.
+- [[The mirror overturning]] — my pairing for the moment of recognition.
 
 ## Sources
 

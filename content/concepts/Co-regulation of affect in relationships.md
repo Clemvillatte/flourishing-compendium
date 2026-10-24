@@ -15,7 +15,7 @@ Co-regulation names the ways partners in a close relationship regulate each othe
 
 The paper's proposed working definition is narrower: "we suggest an operational definition of coregulation as a bidirectional linkage of oscillating emotional channels (subjective experience, expressive behavior, and autonomic physiology) between partners, which contributes to emotional and physiological stability for both partners in a close relationship" ([Butler and Randall 2013, section "An Operational Definition of Coregulation"](https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cd262650d92978bc2bbc629/1557291622593/butler.randall.2013.pdf)). The paper contrasts two kinds of process: morphostatic processes depend on negative feedback to dampen or reverse deviations, returning the system to a stable state, while morphogenic processes entail amplified deviations resulting in an altered emotional state ([section "Morphogenic Processes versus Coregulation"](https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cd262650d92978bc2bbc629/1557291622593/butler.randall.2013.pdf)).
 
-### In the compendium
+### Here
 
 - [[AF073 — Learn co-regulation — affect is regulated with others, not just within]]
 - [[P147 — Notice that you and the world co-constitute each other]]

@@ -18,9 +18,9 @@ The stakes are diagnostic, not decorative: "Life goes wrong when the control of 
 
 The day also has emotional rules: "The Sabbath is no time for personal anxiety or care, for any activity that might dampen the spirit of joy... It is a day for praise, not a day for petitions. Fasting, mourning, demonstrations of grief are forbidden." Rest as a covenant, not a luxury.
 
-### In the compendium
+### Here
 
-The compendium's principles read the Sabbath as the root of activity, not its reward. D039, "Make rest the root of activity," is the Daoist version of the same architecture; D113, "Rest deeply," and D154, "Treat sleep as sacred," carry its depth; AT046's digital sabbath and AT037's attention recovery are the modern applications. The rhythm the Genesis text blesses is the compendium's rhythm: work, cease, sanctify.
+My principles read the Sabbath as the root of activity, not its reward. D039, "Make rest the root of activity," is the Daoist version of the same architecture; D113, "Rest deeply," and D154, "Treat sleep as sacred," carry its depth; AT046's digital sabbath and AT037's attention recovery are the modern applications. The rhythm the Genesis text blesses is my rhythm: work, cease, sanctify.
 
 Heschel's palace also reads as attention self-defense: in a world engineered to never let you stop, a pre-technological institution that mandates stopping is the counter-practice the attention economy has yet to defeat. That reading is interpretation, not Heschel's words.
 

@@ -23,7 +23,7 @@ His image for the encounter:
 Both passages are quoted here from Rico Gutschmidt's study, which supplies their source locators.
 
 **Plain words**
-The compendium uses Jaspers' boundary image to distinguish a practical task from the loss it cannot undo. Ask what action is still possible and what that action cannot change.
+I use Jaspers' boundary image to distinguish a practical task from the loss it cannot undo. Ask what action is still possible and what that action cannot change.
 
 *For example:* Suppose a friend has died and you are helping arrange transport to the funeral. Consider what this help can address alongside the fact that it cannot reverse the death.
 

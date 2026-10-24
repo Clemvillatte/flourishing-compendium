@@ -17,7 +17,7 @@ Zimmerman's model of self-regulation runs in a cycle: forethought before the eff
 > Interestingly, simply asking students to self-record some aspect of their learning, such as the completion of assignments, often led to "spontaneous" improvements in functioning (Shapiro, 1984).
 > (Zimmerman 2002, Theory Into Practice 41(2))
 
-Socrates supplies the older slogan: "the life which is unexamined is not worth living" (Apology 38a, Jowett). The compendium's version is smaller than a life, and is the compendium's own exercise rather than something Zimmerman tested: a daily one-to-ten rating, a note on energy, a look at goal progress, kept for a fortnight. What the log can show is where the dips sit, so that adjustments to goals, environment and practice get made against data rather than mood. Treat the log as an observation, not a verdict; a pattern in it is a place to experiment.
+Socrates supplies the older slogan: "the life which is unexamined is not worth living" (Apology 38a, Jowett). My version is smaller than a life, and is my own exercise rather than something Zimmerman tested: a daily one-to-ten rating, a note on energy, a look at goal progress, kept for a fortnight. What the log can show is where the dips sit, so that adjustments to goals, environment and practice get made against data rather than mood. Treat the log as an observation, not a verdict; a pattern in it is a place to experiment.
 
 **Plain words** Record how motivated you feel alongside the task and time of day. When reviewing the notes, look for differences worth testing. Try one adjustment and keep observing; a pattern alone does not explain its cause.
 
@@ -38,7 +38,7 @@ Socrates supplies the older slogan: "the life which is unexamined is not worth l
 
 ## Philosophy parallels
 
-- **[[The examined life|The examined life requires data]]** (Socrates, Apology 38a; the data-and-tracking phrasing is the compendium's comparison, not Socrates')
+- **[[The examined life|The examined life requires data]]** (Socrates, Apology 38a; the data-and-tracking phrasing is my comparison, not Socrates')
 - **[[Fallibilism|Fallibilism and feedback]]**
 
 ## Practice

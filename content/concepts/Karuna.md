@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Karuna (Pali; Sanskrit karuṇā) is compassion, the second of the four brahmaviharas: the wish to relieve suffering when it is seen. Where metta wishes all beings well, karuna responds to their pain; the Pali glosses distinguish them as the desire to bring happiness (metta) and the desire to remove harm (karuna).
 
-### The compendium's reading
+### My reading
 
 Karuna is compassion in action: not pity (which looks down) but the wish to relieve, kept free of the near enemy of pity. It grounds the Mahayana expansion, the bodhisattva vow to engage the world's suffering, and the ethical baseline that protecting others you protect yourself. The Dhammapada's eternal law:
 
@@ -23,7 +23,7 @@ Karuna's cross-tradition family is the compassion-traditions: the Christian mise
 
 The one-line response to a suffering person: "What would help?" asked before advice is offered. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[B052 — Practice compassion (karuna)]] — the practice form
 - [[B099 — Respond to suffering with the wish to relieve it (karuna in action)]] — compassion in action

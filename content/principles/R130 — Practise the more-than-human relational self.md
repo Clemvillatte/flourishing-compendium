@@ -22,7 +22,7 @@ Two limits apply to the entry. It says these relationships "are not metaphorical
 
 For the psychological parallel, Mayer and Frantz's Connectedness to Nature Scale appeared in the Journal of Environmental Psychology 24, 503-515 (2004), as confirmed by [Crossref](https://api.crossref.org/works/10.1016/j.jenvp.2004.10.001), but its abstract is cited at second hand. A meta-analysis found that "individuals more strongly connected to nature demonstrated a greater engagement in self-reported" pro-environmental behaviour ([PMC7027494](https://pmc.ncbi.nlm.nih.gov/articles/PMC7027494/), discussion excerpt). That finding is about self-report and association.
 
-**Plain words** Abram's claim is that human senses and thinking grew up in exchange with animals, landscapes and weather, so being cut off from them diminishes us. The compendium turns this into an invitation to count those relations as real parts of who you are.
+**Plain words** Abram's claim is that human senses and thinking grew up in exchange with animals, landscapes and weather, so being cut off from them diminishes us. I turn this into an invitation to count those relations as real parts of who you are.
 
 *For example:* Someone who has walked the same river for years notices its changes with the seasons and finds that the habit shapes how they notice everything else.
 

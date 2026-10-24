@@ -24,7 +24,7 @@ The basis is not naivety. The sage "has in the world an appearance of indecision
 (DDJ 49.)
 
 **Plain words**
-Most people answer trust with trust and suspicion with suspicion, so the other person's conduct ends up steering both sides. The chapter's alternative is to decide your own conduct first. The claim it makes is strong, that everyone gets drawn into sincerity; the compendium's modest version is that your sincerity at least stops depending on theirs.
+Most people answer trust with trust and suspicion with suspicion, so the other person's conduct ends up steering both sides. The chapter's alternative is to decide your own conduct first. The claim it makes is strong, that everyone gets drawn into sincerity; my modest version is that your sincerity at least stops depending on theirs.
 
 *For example:* Lending the recovering friend money again, with clear terms — believing the recovery, without pretending the past didn't happen.
 

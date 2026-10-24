@@ -8,7 +8,7 @@ tags: ["psych/clinical", "psych/developmental", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-DEVELOPMENTAL"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Family systems theory treats the family as one emotional unit rather than a collection of individuals. The psychiatrist Murray Bowen originated it with eight interlocking concepts, and Salvador Minuchin's structural variant, in Families and Family Therapy (1974), added the vocabulary of subsystems, boundaries and hierarchies. The compendium's seed names both: Bowen, 1978; Minuchin, 1974 ([Bowen Center](https://www.thebowencenter.org/introduction-eight-concepts); [Minuchin 1974 excerpts](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1103&context=csr)).
+Family systems theory treats the family as one emotional unit rather than a collection of individuals. The psychiatrist Murray Bowen originated it with eight interlocking concepts, and Salvador Minuchin's structural variant, in Families and Family Therapy (1974), added the vocabulary of subsystems, boundaries and hierarchies. My seed names both: Bowen, 1978; Minuchin, 1974 ([Bowen Center](https://www.thebowencenter.org/introduction-eight-concepts); [Minuchin 1974 excerpts](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1103&context=csr)).
 
 ### Bowen's view
 
@@ -22,9 +22,9 @@ Minuchin maps the family into subsystems, spousal, parental, sibling, each circu
 
 The theory's research base is real but uneven. A 2022 scoping review of the differentiation-of-self literature found ample support for it as a predictor of psychological health and marital quality, and a paucity of high-quality research, particularly longitudinal and randomized studies ([Müller et al., 2022, J Clin Med](https://pubmed.ncbi.nlm.nih.gov/36429464/)).
 
-### In the compendium
+### Here
 
-The compendium uses the theory to give family principles a mechanism. A113 turns the household into a school of virtue, S039 and S138 practise Stoic family membership, R016 connects to family and kinship, and R040's whānau ora carries the same systemic intuition from te ao Māori. D017 treats the family as an emergent order, SO002 embeds the person in nested systems, and SO067 names intergenerational transmission directly; MO069 notes that motivational ideals vary by culture, which family systems takes seriously rather than as noise.
+I use the theory to give family principles a mechanism. A113 turns the household into a school of virtue, S039 and S138 practise Stoic family membership, R016 connects to family and kinship, and R040's whānau ora carries the same systemic intuition from te ao Māori. D017 treats the family as an emergent order, SO002 embeds the person in nested systems, and SO067 names intergenerational transmission directly; MO069 notes that motivational ideals vary by culture, which family systems takes seriously rather than as noise.
 
 - [[A113 — Make your household a school of virtue]] — the household as the first practice field
 - [[S039 — Be a good family member]] — family membership as a practice, not a fact
@@ -45,7 +45,7 @@ Clinical Psychodynamic · Psychological science
 
 - [[Structural family systems theory]] — Minuchin's boundary-and-hierarchy version of the same view
 - [[Attachment theory]] — the developmental account of the bonds the system is built on
-- [[Authoritative parenting]] — the parenting style the compendium pairs with the systems view
+- [[Authoritative parenting]] — the parenting style I pair with the systems view
 - [[Filial piety]] — the Confucian family ethic as a comparison tradition
 - [[Ubuntu]] — personhood constituted in relation, a comparison from southern Africa
 - [[The need to belong]] — the motivational ground the family system answers

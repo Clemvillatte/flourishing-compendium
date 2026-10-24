@@ -17,7 +17,7 @@ Attentional deployment is one of the five families in James Gross's process mode
 
 The same article presents the process model as "five families of emotion regulation strategies" (from Gross & Thompson, 2007). The definition's wording carries the original entry line's point: the situation stays, the attention moves.
 
-### In the compendium
+### Here
 
 - [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]]
 - [[AT021 — Learn to attend to the positive deliberately — attention training for well-being]]

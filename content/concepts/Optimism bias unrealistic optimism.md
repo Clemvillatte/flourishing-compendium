@@ -15,7 +15,7 @@ Optimism bias, also called unrealistic optimism, is the finding that people rate
 
 The study's second move is the diagnosis: people "focus on factors that improve their own chances of achieving desirable outcomes and fail to realize that others may have just as many factors in their favor." When a second group of students read the first group's lists of factors, their own optimism dropped, though it did not disappear.
 
-The compendium's [[CO039 — Recognise optimism bias — you underestimate your personal risk]] and [[PP016 — Distinguish realistic from unrealistic optimism]] turn this into practice: the bias is not a moral failing but a structural feature of self-judgment, and the countermeasure is deliberately asking what makes me different from the average case.
+My [[CO039 — Recognise optimism bias — you underestimate your personal risk]] and [[PP016 — Distinguish realistic from unrealistic optimism]] turn this into practice: the bias is not a moral failing but a structural feature of self-judgment, and the countermeasure is deliberately asking what makes me different from the average case.
 
 ## Related concepts
 

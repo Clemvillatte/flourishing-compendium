@@ -17,7 +17,7 @@ The Beatitudes give meekness its paradox: the word that sounds like weakness is 
 
 The Beatitudes set meekness among the dispositions the world does not expect to win, and the entry's crosslinks in this compendium treat it as a live virtue rather than a synonym for weakness: the Daoist principle on yielding in conflict to remain whole is its nearest neighbor.
 
-### In the compendium
+### Here
 
 - [[D068 — Yield in conflict to remain whole]]
 

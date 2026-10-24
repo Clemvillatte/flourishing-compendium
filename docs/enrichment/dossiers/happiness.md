@@ -12,7 +12,7 @@ Happiness here means the felt side of a life: pleasure, joy, contentment, the re
 - Subjective well-being: the research name for how people rate their own lives; the cards on adaptation and on sustainability use it.
 - Eudaimonia: Aristotle's term for the good life, which the English word happiness often translates; held by [Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) and in the Genuine Flourishing dossier.
 
-## The map: every entry the wiki holds on happiness
+## The map: the entries on happiness
 
 ### What happiness is
 
@@ -30,7 +30,7 @@ Happiness here means the felt side of a life: pleasure, joy, contentment, the re
 
 [Joy](https://clemvillatte.github.io/flourishing-compendium/#card=Joy): Spinoza's laetitia, defined by a change and not a state: a crossing from a lesser to a greater perfection.
 
-[Spiritual joy](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20joy): in the compendium's Aristotelian frame, the gladness that belongs to a life going well.
+[Spiritual joy](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20joy): in my Aristotelian frame, the gladness that belongs to a life going well.
 
 [The joy of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20joy%20of%20virtue): Aristotle's account of the pleasure a good person takes in activity consistent with virtue.
 
@@ -46,7 +46,7 @@ Happiness here means the felt side of a life: pleasure, joy, contentment, the re
 
 ### Contentment and sufficiency
 
-[Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency): the compendium's label for the Daodejing's teaching on contentment and sufficiency.
+[Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency): the label I use for the Daodejing's teaching on contentment and sufficiency.
 
 [Zhi zu (knowing sufficiency)](https://clemvillatte.github.io/flourishing-compendium/#card=Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, sizing desire to what life already supplies.
 
@@ -218,7 +218,7 @@ The shared question: does the word name one experience everywhere? Joshanloo's r
 
 > "Six fundamental differences in western and eastern conceptualizations of the good life are identified and discussed in the context of broader psychological theory." ([Joshanloo, Journal of Happiness Studies 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)): Secondary source; quoted passage checked.
 
-The abstract does not list the six differences, and this dossier does not guess at them; the card summarises what the compendium holds. On the other side, one cross-country study of giving reports:
+The abstract does not list the six differences, and this dossier does not guess at them; the card summarises the review. On the other side, one cross-country study of giving reports:
 
 > "This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending)." ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/)): Secondary source; quoted passage checked.
 
@@ -228,7 +228,7 @@ The two findings answer different questions. One is about what people mean by th
 
 ::Variation:: What tends to need varying is where attention rests. The look-alikes of lasting happiness share a shape: a lift that fades, a goal that keeps moving, a mood watched so closely it goes flat. The adaptive moves are to turn attention outward, to mark what is enough, and to notice good things while they are happening.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=K110%20%E2%80%94%20Savoring): when a pleasant moment occurs, deliberately extend it and notice the sensory details.
 
@@ -262,7 +262,7 @@ Evidence is uneven across the list. The cards themselves flag the limits: the pr
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### What a happy life looks like
 

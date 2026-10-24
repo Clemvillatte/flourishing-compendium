@@ -15,7 +15,7 @@ Mead traces the mechanism through childhood. In play, the child "addresses himse
 
 The internalized audience of the game gets its name later in the book: "the given individual taking the attitudes of others toward himself, and of his finally crystallizing all these particular attitudes into a single attitude or standpoint which may be called that of the 'generalized other'" ([Mead 1934](https://ia601500.us.archive.org/5/items/mead-1934/mead%201934.pdf)). The self built this way has two phases: "The attitudes of others which one assumes as affecting his own conduct constitute the 'me,' and that is something that is there, but the response to it is as yet not given" ([Mead 1934](https://ia601500.us.archive.org/5/items/mead-1934/mead%201934.pdf)). The response to the organized attitudes is the "I"; the self, on this account, is something social through and through, and something still in motion.
 
-### In the compendium
+### Here
 
 - [[Y115 — See the self in others and others in the self]] and [[P057 — Your self is social through and through]] — the direct Meadian principles
 - [[P129 — Practice sympathetic understanding]] and [[P168 — Listen with empathic understanding]] — the practice of role-taking in conversation

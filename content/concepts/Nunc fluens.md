@@ -17,15 +17,15 @@ The concept is Heraclitus's river image read as a theory of the present. The riv
 
 The SEP's reading gives the fragment's point: "some things stay the same only by changing... constancy and change are not opposed but inextricably connected". The flowing now is exactly this kind of existent — the present remains the present only because each of its waters passes away.
 
-### In the compendium
+### Here
 
 - [[M002 — Expect the cosmos itself to be motion]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Impermanence]] — the compendium's page on impermanence
-- [[Participate in the world's becoming]] — the compendium's page on the world's becoming
-- [[Pursue becoming, not arrival]] — the compendium's page on becoming over arrival
+- [[Impermanence]] — my page on impermanence
+- [[Participate in the world's becoming]] — my page on the world's becoming
+- [[Pursue becoming, not arrival]] — my page on becoming over arrival
 
 ## Sources
 

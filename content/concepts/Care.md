@@ -17,9 +17,9 @@ The one-caring is first of all attentive. Noddings calls this engrossment, an "o
 
 Heidegger gave the word an ontological job. Sorge (care) is the being of Dasein: ahead of itself, already in a world, alongside things and people (Being and Time §41; ["care is the being-mode of Dasein"](https://philopedia.org/terms/sorge/)). In this structure, care for things (Besorgen) and solicitude for people (Fürsorge) are modes of a basic way of being, not feelings added to it, and the meaning of care, he argues, is temporality. The ontological sense is not the ethical one: Heidegger's care describes the structure of existence, and is not equivalent to Noddings's caring relation or a recommendation to behave benevolently.
 
-### In the compendium
+### Here
 
-Care runs through the R-track's relational practices (R027 manaakitanga, R084 Levinasian infinite responsibility) and through friendship and loving-kindness (A065 wishing the friend's good for the friend's own sake, B097 wishing well starting with yourself). Ubuntu and care ethics meet in the wiki's insistence that responding to need is a relation, not a transaction. The open question the page leaves the essayist: what should count as care when someone cannot acknowledge it, or when the need is distant?
+Care runs through the R-track's relational practices (R027 manaakitanga, R084 Levinasian infinite responsibility) and through friendship and loving-kindness (A065 wishing the friend's good for the friend's own sake, B097 wishing well starting with yourself). Ubuntu and care ethics meet in my insistence that responding to need is a relation, not a transaction. The open question the page leaves the essayist: what should count as care when someone cannot acknowledge it, or when the need is distant?
 
 ## Related concepts
 

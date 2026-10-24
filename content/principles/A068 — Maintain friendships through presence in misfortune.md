@@ -25,11 +25,11 @@ On what a friend does, he is direct: "it is fitting to go unasked and readily to
 
 ### A complication
 
-Aristotle also says we should "summon them to our bad fortunes with hesitation; for we ought to give them as little a share as possible in our evils." So the duty is stronger on the friend who turns up than on the sufferer who calls. "The true test" and "do not abandon people when they become costly" are the compendium's wording, not his.
+Aristotle also says we should "summon them to our bad fortunes with hesitation; for we ought to give them as little a share as possible in our evils." So the duty is stronger on the friend who turns up than on the sufferer who calls. "The true test" and "do not abandon people when they become costly" are my wording, not his.
 
 (Aristotle, Nicomachean Ethics VIII.1; IX.11. The principle's earlier locator, VIII.4, does not contain this material.)
 
-**Plain words** In the Nicomachean Ethics his claim is milder than "bad times show who your friends are". He says friends matter in good and bad fortune, matter more as help in bad, and that a good friend goes to someone in trouble without waiting to be asked. The compendium adds the harder demand, to stay when it is costly.
+**Plain words** In the Nicomachean Ethics his claim is milder than "bad times show who your friends are". He says friends matter in good and bad fortune, matter more as help in bad, and that a good friend goes to someone in trouble without waiting to be asked. I add the harder demand, to stay when it is costly.
 
 *For example:* Imagine a friend whose marriage has just ended and who does not want to talk. On Aristotle's advice you turn up with dinner on Thursday without texting first. His claim is that grief is lightened when friends sorrow with us, even if the mechanism is unclear.
 

@@ -13,9 +13,9 @@ Right concentration (sammā samādhi) is the eighth factor of the Buddhist Noble
 
 The practice is tuned rather than forced. In the Sona Sutta the Buddha teaches a former musician with his own instrument: "when the strings of your vina were neither too taut nor too loose, but tuned to be right on pitch, was your vina in tune & playable?" ([Sona Sutta, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)) Over-aroused persistence leads to restlessness, overly slack persistence to laziness, so the practitioner determines the right pitch and picks up the theme. Concentration is an achievement of calibration, the opposite of white-knuckled effort.
 
-### In the compendium
+### Here
 
-B028 "Develop right concentration (samadhi)" carries the concept directly, and the compendium pairs this entry with focused-attention meditation (AT047), flow (AT026), single-tasking (AT016) and deep-work conditions (AT027). AT063 records the attentional costs of heavy media multitasking, AT031 builds the capacity gradually, and ST067's Fletcher classroom shows the tuning in a teacher's craft. ST066, the Kālāmas story, keeps the whole path honest: test the fruits in experience.
+B028 "Develop right concentration (samadhi)" carries the concept directly, and I pair this entry with focused-attention meditation (AT047), flow (AT026), single-tasking (AT016) and deep-work conditions (AT027). AT063 records the attentional costs of heavy media multitasking, AT031 builds the capacity gradually, and ST067's Fletcher classroom shows the tuning in a teacher's craft. ST066, the Kālāmas story, keeps the whole path honest: test the fruits in experience.
 
 ## Related concepts
 

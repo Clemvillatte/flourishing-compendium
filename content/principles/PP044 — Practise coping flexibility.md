@@ -16,7 +16,7 @@ Two research programs converge on the same conclusion. Bonanno and Burton name t
 
 > "The results of a random-effects model revealed a small to moderate overall mean effect size (r = .23, 95% CI [.19, .28], 80% CRI [-.02, .49], k = 329, N = 58,946)." (Cheng et al. 2014, [PubMed](https://pubmed.ncbi.nlm.nih.gov/25222637/))
 
-The compendium applies the matching claim carefully: the evidence supports an association between flexible, well-fitted coping and adjustment, and the components are context-reading, repertoire and feedback, not one right strategy.
+I applie the matching claim carefully: the evidence supports an association between flexible, well-fitted coping and adjustment, and the components are context-reading, repertoire and feedback, not one right strategy.
 
 **Plain words**
 The research is against one-size answers: a strategy that suits a fixable problem may be wrong for an unfixable one. The skill the papers point at has three parts: read the situation, have more than one move, and notice the feedback. The meta-analytic link is real but moderate; flexibility predicts adjustment, it does not guarantee it.

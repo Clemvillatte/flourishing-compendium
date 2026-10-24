@@ -18,10 +18,10 @@ James reports Starbuck's finding that the stormy passage young people go through
 >
 > (James, The Varieties of Religious Experience, 1902, Lecture VIII)
 
-The compendium uses these accounts as a prompt for examining restlessness. In the conversion cases James studies, the subject's "present incompleteness or wrongness" sits next to "the positive ideal which he longs to compass" (Lecture IX).
+I use these accounts as a prompt for examining restlessness. In the conversion cases James studies, the subject's "present incompleteness or wrongness" sits next to "the positive ideal which he longs to compass" (Lecture IX).
 
 **Plain words**
-James describes efforts to resolve inner conflict in religious and nonreligious settings. For the compendium's exercise, choose one feeling of being unfinished. Name what you want to change and write one small step toward that change.
+James describes efforts to resolve inner conflict in religious and nonreligious settings. For my exercise, choose one feeling of being unfinished. Name what you want to change and write one small step toward that change.
 
 *For example:*
 For a proposed exercise, take a restlessness about what to do after a big commitment ends. Write down what the restlessness reaches for and what it pulls away from, and compare the two lists: which activities named on the reaching side could be started this week?

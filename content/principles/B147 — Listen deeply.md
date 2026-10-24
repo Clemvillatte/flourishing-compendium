@@ -16,7 +16,7 @@ The excerpt comes from a practice of beginning anew in a relationship, and Thich
 
 > "If we reply or correct that person, the practice will not bear fruit. We just listen. If we need to tell others that their perception was not correct, we can do that a few days later, privately and calmly." (Thich Nhat Hanh, The Art of Communicating, [excerpt](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/25387))
 
-The compendium applies the instruction to the listener's half of the conversation: the purpose is set before the listening starts, and the purpose is the other person's relief.
+I applie the instruction to the listener's half of the conversation: the purpose is set before the listening starts, and the purpose is the other person's relief.
 
 **Plain words**
 When someone describes a hurt, try listening without preparing a rebuttal. Give them room to explain what happened and how they experienced it. In this listening exercise, a correction can wait for a later, private conversation.

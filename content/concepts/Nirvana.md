@@ -15,7 +15,7 @@ Nirvana (Sanskrit; Pali nibbāna) is the Buddhist name for the cessation of suff
 
 The definition is negative: nirvana is described as the ending of craving, not as a thing with qualities of its own. What ceases is tanha, the craving that runs through the second Noble Truth, and with it the fires of greed, aversion and delusion ([Wikipedia, "Nirvana in Buddhism"](https://en.wikipedia.org/wiki/Nirvana_(Buddhism))). Traditional sources distinguish nirvana "with a remainder", attained and maintained during life, from final nirvana at the death of one fully awakened; the Theravada tradition treats the quenching of the defilements as its common soteriological aim. The sutta's formula does not describe a world elsewhere: it marks the end of the grasping that turns experience into stress.
 
-### In the compendium
+### Here
 
 - [[B007 — Trust that the fires can cool here and now (nibbana)]] — the reading that the cooling is available in this life
 - [[B019 — Awakening is available in this life]] — nirvana as present possibility, not a reward after death

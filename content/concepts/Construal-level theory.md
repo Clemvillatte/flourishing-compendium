@@ -15,7 +15,7 @@ Construal-level theory is Yaacov Trope and Nira Liberman's account of how psycho
 
 High-level construals are "relatively abstract, coherent, and superordinate mental representations, compared with low-level construals", which include "the concrete and contextualized aspects of an object" ([Trope and Liberman 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3152826/)). The theory's evolutionary gloss: "High-level construals have evolved to represent distal objects because, with distance, one needs to conserve the essential, invariant properties of the referent object", while "low-level construals preserve the object in minute detail for immediate use" ([Trope and Liberman 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3152826/)). In this way the same event supports multiple valid representations: the near event processed concretely, the far event by its gist.
 
-### In the compendium
+### Here
 
 - [[B122 — Use two truths (conventional and ultimate)]] — the Buddhist two-truths parallel: one and the same thing cognized at two levels
 - [[P030 — Accept many versions of the world]] — carries the multiple-valid-representations point

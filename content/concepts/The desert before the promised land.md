@@ -15,7 +15,7 @@ In the book of Numbers, the Israelites stand at the border of Canaan, the land p
 
 ### What it carries
 
-The desert is the stretch between deliverance and fulfillment. The people's discomfort is real, and their instinct is to flee backward, to the known misery of Egypt rather than the unknown risk of the land. Numbers itself presents the forty years as punishment for faithlessness rather than as a curriculum, and the compendium's comparison to M007 keeps that difference in view. What the narrative supplies is the psychology of the middle passage: the pull to retreat is strongest exactly when arrival has become conceivable, and the demand to go back is answered, in the story, only by the next generation entering instead.
+The desert is the stretch between deliverance and fulfillment. The people's discomfort is real, and their instinct is to flee backward, to the known misery of Egypt rather than the unknown risk of the land. Numbers itself presents the forty years as punishment for faithlessness rather than as a curriculum, and my comparison to M007 keeps that difference in view. What the narrative supplies is the psychology of the middle passage: the pull to retreat is strongest exactly when arrival has become conceivable, and the demand to go back is answered, in the story, only by the next generation entering instead.
 
 ### Related concepts
 

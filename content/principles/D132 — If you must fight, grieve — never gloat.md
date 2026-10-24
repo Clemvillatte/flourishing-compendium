@@ -22,7 +22,7 @@ Chapter 31 then names what a victory celebrated as a victory becomes, and gives 
 
 > "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites." (DDJ 31)
 
-The chapter assigns the victorious general the position of mourning, not of festivity. The compendium reads these chapters as placing grief, not triumph, at the end of any fight.
+The chapter assigns the victorious general the position of mourning, not of festivity. I read these chapters as placing grief, not triumph, at the end of any fight.
 
 (DDJ 30, 31.)
 

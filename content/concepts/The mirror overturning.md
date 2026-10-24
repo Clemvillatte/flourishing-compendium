@@ -19,7 +19,7 @@ Huineng, working in the threshing room, hears the verse and judges that its auth
 
 ### What the overturning carries
 
-The two verses are the classical statement of the gradual and sudden paths. Shenxiu's mirror presumes a mind that accumulates defilement and must be worked on; Huineng's reply denies the premise rather than improving the method. The compendium connects this with K010's step back from the ego to the field: the polishing self and the polished mirror are both objects in the field, not the field itself. A compendium exercise drawn from the pair is to notice a moment of self-improvement effort and ask what is being taken as the mirror. What the sutra does not argue in this scene: that polishing practice is useless; Huineng's verse denies the premise of Shenxiu's mirror, not the value of discipline. The contest itself is a story the Platform Sutra tells, not a separately verified event.
+The two verses are the classical statement of the gradual and sudden paths. Shenxiu's mirror presumes a mind that accumulates defilement and must be worked on; Huineng's reply denies the premise rather than improving the method. I connect this with K010's step back from the ego to the field: the polishing self and the polished mirror are both objects in the field, not the field itself. A compendium exercise drawn from the pair is to notice a moment of self-improvement effort and ask what is being taken as the mirror. What the sutra does not argue in this scene: that polishing practice is useless; Huineng's verse denies the premise of Shenxiu's mirror, not the value of discipline. The contest itself is a story the Platform Sutra tells, not a separately verified event.
 
 ## Related concepts
 

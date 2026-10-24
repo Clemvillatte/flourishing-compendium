@@ -27,7 +27,7 @@ The inhibitory learning paper lists eight ways to strengthen the new learning: e
 
 Foa and McLean describe how emotional processing theory led to two protocols: prolonged exposure for posttraumatic stress disorder, and exposure and response (ritual) prevention for obsessive-compulsive disorder. They review efficacy, then the mechanisms behind it ([Foa and McLean, 2016, PubMed](https://pubmed.ncbi.nlm.nih.gov/26565122/)). Only the abstract of that review was read for this page, so the efficacy figures are not reproduced here.
 
-### In the compendium
+### Here
 
 - BE026 states the approach-what-you-fear principle and BE025 names avoidance as the maintaining factor, both citing Craske et al.
 - AF035 explains why avoidance feels like a solution: the relief rewards it, and it removes the chance to learn that the feared thing may not happen.

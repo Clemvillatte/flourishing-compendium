@@ -25,12 +25,12 @@ So the claim is not that happiness is a pleasant feeling. He adds that the lives
 - He says happiness needs "a complete life", and that "many changes occur in life, and all manner of chances", with Priam as an example of someone who ends wretchedly and cannot be called happy ([Aristotle, Nicomachean Ethics I, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), ch. 9). The activity view is not a promise that effort guarantees happiness.
 - Translators render the key terms differently (eudaimonia as happiness, blessedness or flourishing; arete as virtue or excellence). Quotes here are from one translation, Ross's.
 
-### In the compendium
+### Here
 
 - PP004 treats flourishing as multi-dimensional, which fits a view where happiness is made of several activities.
 - AF019 and MO056 are the psychological counterpoints: chasing positive affect can backfire, and arrival at a goal is not the same as well-being. MO056 places this beside a distinction Aristotle draws.
 - K047 is a Buddhist verse on joy and others' happiness; it is a parallel, not an Aristotelian claim.
-- ST121, ST136, ST144, ST145 and ST171 are stories listed with this concept; their link is the compendium's own.
+- ST121, ST136, ST144, ST145 and ST171 are stories listed with this concept; their link is my own.
 
 ## Related concepts
 

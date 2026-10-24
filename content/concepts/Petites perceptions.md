@@ -13,7 +13,7 @@ Leibniz's preface to the New Essays argues that the mind is busy far below what 
 
 > "To give a clearer idea of these tiny perceptions that we can't pick out from the crowd, I like the example of the roaring noise of the sea that acts on us when we are standing on the shore. To hear this noise as we do, we have to hear its parts, that is the noise of each wave, although each of these little noises makes itself known only when combined confusedly with all the others, and wouldn't be noticed if the wavelet that made it happened all by itself. We must be affected slightly by the motion of this one wavelet, and have some perception of each of these noises, however faint they may be. If each of them had no effect on us, the surf as a whole — a hundred thousand wavelets — would have no effect either, because a hundred thousand nothings can't make something!" (Leibniz, New Essays, Preface, [Bennett translation, earlymoderntexts](https://www.earlymoderntexts.com/assets/pdfs/leibniz1705book1.pdf))
 
-### In the compendium
+### Here
 
 - [[D161 — See the small]] — lists the concept among its philosophy parallels.
 

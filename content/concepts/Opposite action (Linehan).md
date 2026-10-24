@@ -13,9 +13,9 @@ Opposite action is a skill from Marsha Linehan's dialectical behavior therapy (D
 
 ### What the evidence is
 
-Rizvi and Linehan (2005) is the treatment study the Sauer-Zavala paper cites. Its abstract says the study "sought to pilot test a short-term intervention for maladaptive shame in borderline personality disorder (BPD) based on the skill of 'opposite action' from dialectical behavior therapy." Five women were treated "using a single-subject, multiple-baseline design," and the results "indicate that, although state ratings of shame are highly variable, it is possible to reduce shame about a specific event over a short period of time" ([Rizvi & Linehan, 2005, Cognitive and Behavioral Practice 12(4), 437-447, abstract via Rutgers](https://www.researchwithrutgers.com/en/publications/the-treatment-of-maladaptive-shame-in-borderline-personality-diso)). That is a five-person pilot, and the reduction it reports concerns shame about one event. The compendium's principles should be read as describing a clinical skill with preliminary support, not a proven law of emotion.
+Rizvi and Linehan (2005) is the treatment study the Sauer-Zavala paper cites. Its abstract says the study "sought to pilot test a short-term intervention for maladaptive shame in borderline personality disorder (BPD) based on the skill of 'opposite action' from dialectical behavior therapy." Five women were treated "using a single-subject, multiple-baseline design," and the results "indicate that, although state ratings of shame are highly variable, it is possible to reduce shame about a specific event over a short period of time" ([Rizvi & Linehan, 2005, Cognitive and Behavioral Practice 12(4), 437-447, abstract via Rutgers](https://www.researchwithrutgers.com/en/publications/the-treatment-of-maladaptive-shame-in-borderline-personality-diso)). That is a five-person pilot, and the reduction it reports concerns shame about one event. My principles should be read as describing a clinical skill with preliminary support, not a proven law of emotion.
 
-### In the compendium
+### Here
 
 The principles below apply the skill to anger (approach rather than attack) and shame (show up rather than hide), as their titles state.
 

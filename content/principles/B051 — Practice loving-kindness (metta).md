@@ -16,7 +16,7 @@ The Karaniya Metta Sutta gives the practice in two moves. First, the field: "Wha
 
 > "With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." (Sn 1.8, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-The compendium applies the sutta's universal scope by asking whom you leave out when wishing others well.
+I applie the sutta's universal scope by asking whom you leave out when wishing others well.
 
 **Plain words**
 The person who annoyed you is still included in "all beings." As a modern exercise, try wishing them safety and ease without requiring them to be agreeable first. The sutta asks for goodwill beyond your favourites; it makes no promise about how this exercise will immediately feel.

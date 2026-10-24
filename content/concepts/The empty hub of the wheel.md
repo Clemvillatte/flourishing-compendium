@@ -26,7 +26,7 @@ The practice the image supports is an attention shift: to the pauses, margins, a
 
 - [[Non-attachment]] — the Buddhist treatment of the same not-grasping
 - [[Default mode network]] — the research-side account of the value of the idle brain
-- [[Silence as evidence]] — the compendium's treatment of productive absence
+- [[Silence as evidence]] — my treatment of productive absence
 
 ## Sources
 

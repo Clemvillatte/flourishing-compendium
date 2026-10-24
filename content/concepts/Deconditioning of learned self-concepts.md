@@ -23,9 +23,9 @@ The findings are not uniform. In one experimental test, defused statements lower
 
 ### Scope
 
-These studies address negative thoughts about the self in short experiments and small trials. They do not test whether a lifelong, conditioned self-concept is undone. The link to the uncarved block comes from the compendium, not from these sources.
+These studies address negative thoughts about the self in short experiments and small trials. They do not test whether a lifelong, conditioned self-concept is undone. The link to the uncarved block comes from me, not from these sources.
 
-### In the compendium
+### Here
 
 - [[D010 — Return to pu — the uncarved block]] lists this concept. The principle draws on Daoist sources, so the connection is thematic.
 

@@ -21,7 +21,7 @@ The chapter's division of labor is the concept's structure: "Inquiry, indeed, is
 
 Dewey's own summary of the epistemic claim: "effective intelligence is not an original, innate endowment. No matter what are the differences in native intelligence [...] the actuality of mind is dependent upon the education which social conditions effect" ([same](https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/text/chapter-6)). And the pointed line against the expert class: "The notion that intelligence is a personal endowment or personal attainment is the great conceit of the intellectual class, as that of the commercial class is that wealth is something which they personally have wrought and possess" ([same](https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/text/chapter-6)).
 
-The compendium's principles on communal inquiry and pooling intelligence run on this ground: the reason to solve problems together is epistemic as much as procedural, since the separated classes get one-sided knowledge ([Dewey, Democracy and Education, MW9:354, quoted in SEP](https://plato.stanford.edu/Entries/dewey-political/)).
+My principles on communal inquiry and pooling intelligence run on this ground: the reason to solve problems together is epistemic as much as procedural, since the separated classes get one-sided knowledge ([Dewey, Democracy and Education, MW9:354, quoted in SEP](https://plato.stanford.edu/Entries/dewey-political/)).
 
 ## Related concepts
 

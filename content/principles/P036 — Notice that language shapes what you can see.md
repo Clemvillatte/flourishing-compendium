@@ -18,7 +18,7 @@ Goodman's argument begins with the confinement:
 >
 > (Nelson Goodman, Ways of Worldmaking, ch. 1, [full text at Internet Archive](https://dn790000.ca.archive.org/0/items/GoodmanWaysOfWorldmaking/185739050-Goodman-Ways-of-Worldmaking_text.pdf))
 
-Goodman also writes: "Worldmaking as we know it always starts from worlds already on hand; the making is a remaking" (ch. 1, p. 6). New distinctions remake the scene from materials already in hand. The compendium's proposed exercise is to compare descriptions of the same subject and consider which distinctions each description makes.
+Goodman also writes: "Worldmaking as we know it always starts from worlds already on hand; the making is a remaking" (ch. 1, p. 6). New distinctions remake the scene from materials already in hand. My proposed exercise is to compare descriptions of the same subject and consider which distinctions each description makes.
 
 (Goodman, Ways of Worldmaking, 1978.)
 

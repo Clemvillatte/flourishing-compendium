@@ -18,7 +18,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 A passage on p. 118 of the same chapter reads: "The ego is not an entity 'capable' of expiating for the others: it is this original expiation." On p. 100-101 Levinas calls the relation of proximity "an extremely urgent assignation—an obligation, anachronously prior to any commitment." In his own sense, then, "substitution" does not mean a decision to take someone's place. It names a condition of the self that comes before choice.
 
-The entry's phrase "you don't opt into it" matches that structure. Its advice to "let it ground your selfhood" is the compendium's reading and is not found in the passages above. Levinas also speaks of the self as hostage and expiation, so the demand is much heavier than ordinary kindness, and the compendium's softer example of a family role is an analogy, not his meaning. Whether Levinas's account fits everyday duties of care is a question for interpreters, and none were opened here.
+The entry's phrase "you don't opt into it" matches that structure. Its advice to "let it ground your selfhood" is my reading and is not found in the passages above. Levinas also speaks of the self as hostage and expiation, so the demand is much heavier than ordinary kindness, and my softer example of a family role is an analogy, not his meaning. Whether Levinas's account fits everyday duties of care is a question for interpreters, and none were opened here.
 
 The psychology parallel cites Batson (2011) on altruism. That book was cited at second hand, so the link between empathy-based helping and Levinas's pre-reflective responsibility is not checked.
 

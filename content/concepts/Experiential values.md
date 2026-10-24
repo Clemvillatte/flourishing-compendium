@@ -17,7 +17,7 @@ The middle route is the experiential one: meaning received rather than made, thr
 
 The other two routes mark the boundary of the category. A deed makes meaning; suffering, taken the right way, becomes one; but experiential values are meaning that arrives through encounter, and the book treats them as every bit as real as the made kind.
 
-In the compendium the idea supports [[M021 — Treat truth as something you stand in, not only something you hold]] and [[E063 — Practise meaning through love]].
+Here the idea supports [[M021 — Treat truth as something you stand in, not only something you hold]] and [[E063 — Practise meaning through love]].
 
 ## Sources
 

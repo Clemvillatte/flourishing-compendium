@@ -17,11 +17,11 @@ Barnett and Ceci's article is a framework for classifying studies of far transfe
 
 They hold that the confusion comes from "a failure to specify various dimensions along which transfer can occur", which produces comparisons of "apples and oranges". Their framework describes nine dimensions and classifies studies by where each lies among them. They conclude that "[e]stimation of a single effect size for far transfer is misguided in view of this complexity", and that "evidence for transfer under some conditions is substantial, but critical conditions for many key questions are untested".
 
-### Reading it for the compendium
+### Reading it for practice
 
-The abstract supports a modest claim: whether training carries over depends on where it is measured along several dimensions, and the evidence is mixed and incomplete. It does not support a blanket claim that thinking skills built in one setting reliably appear in others. The compendium principle on trainable cognition (CO007) and the meditation principles that cite this concept would need other sources for any strong claim of transfer.
+The abstract supports a modest claim: whether training carries over depends on where it is measured along several dimensions, and the evidence is mixed and incomplete. It does not support a blanket claim that thinking skills built in one setting reliably appear in others. My principle on trainable cognition (CO007) and the meditation principles that cite this concept would need other sources for any strong claim of transfer.
 
-### In the compendium
+### Here
 
 - [[Y076 — Combine the three into one skill]], [[K062 — Practice one taste]] and [[K027 — In post-meditation, be a child of illusion]] cite this concept.
 - [[CO007 — Know that thinking is trainable — cognitive capacities can be built]], [[Y131 — Practice the same principle at every scale]] and [[AT054 — Learn to train attention through deliberate practice — not just meditation]] also cite it.

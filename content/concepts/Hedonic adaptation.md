@@ -20,7 +20,7 @@ And on set points: "well-being set points can change under some conditions", wit
 
 ### The mechanism
 
-The mechanism is the double movement of desire: rising aspirations chase rising circumstances (the treadmill's belt), and attention migrates off whatever has become normal. Its personal and political upshots: the compendium's rule that happiness must be made independent of externals, the Aristotelian point that pleasure accompanies good activity rather than constituting it, and the Buddhist eight worldly winds that alternate gain and loss.
+The mechanism is the double movement of desire: rising aspirations chase rising circumstances (the treadmill's belt), and attention migrates off whatever has become normal. Its personal and political upshots: my rule that happiness must be made independent of externals, the Aristotelian point that pleasure accompanies good activity rather than constituting it, and the Buddhist eight worldly winds that alternate gain and loss.
 
 ### The countermeasures
 
@@ -32,10 +32,10 @@ After the third week in a new home, list three features still noticed daily; tha
 
 The contemplative traditions named it first: [[Impermanence]] is the law of which the treadmill is the psychophysics.
 
-### In the compendium
+### Here
 
 - [[S095 — See that everything passes]] — the contemplative version
-- [[D093 — Make happiness independent of externals]] — the compendium's rule
+- [[D093 — Make happiness independent of externals]] — my rule
 - [[A084 — Understand that pleasure is not the good but accompanies it]] — the Aristotelian point
 - [[B102 — Know the eight worldly winds]] — the alternating gains and losses
 - [[X009 — Listen to the flesh's limits, and let them end the pursuit]] — the pursuit-ending cousin

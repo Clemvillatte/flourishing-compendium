@@ -23,7 +23,7 @@ Dikker and colleagues extended the measurement to whole groups with portable EEG
 
 The same review reports the classroom activities as lectures, instructional videos and group discussions, and notes that pairs of students who demonstrated higher brain synchrony also reported higher social closeness.
 
-### In the compendium
+### Here
 
 - [[AT009 — Know that attention is social — it is influenced by and influences others]] — the principle takes the coupling findings as a starting point for thinking about attention in company.
 - [[AF022 — Recognise affective contagion in groups; do not mistake it for your own feeling]] — a different group-level process, affective rather than attentional, that the same setting can produce.
@@ -33,7 +33,7 @@ The same review reports the classroom activities as lectures, instructional vide
 - [[Spotlight vs floodlight attention]] — a within-person distinction about attention's shape.
 - [[Active inference]] — a theory of attention and prediction.
 - [[Ultradian performance rhythms]] — a within-person rhythm of attention.
-- [[Yoga physiology theory]] — an account of attention from the compendium's tradition material.
+- [[Yoga physiology theory]] — an account of attention from my tradition material.
 
 ## Sources
 

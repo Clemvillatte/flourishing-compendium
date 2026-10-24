@@ -15,7 +15,7 @@ Endurance (hypomenein) is the capacity to stay present under what is hard rather
 
 ### What the endurance is for
 
-The passage does not glorify suffering; it reminds the reader of accumulated evidence. The compendium's principle AF041 carries the modern training edge: distress tolerance, the capacity to bear intense affect without making it worse. What Marcus adds is the retrospective angle — a person in hardship can look back at their own record and act from it.
+The passage does not glorify suffering; it reminds the reader of accumulated evidence. My principle AF041 carries the modern training edge: distress tolerance, the capacity to bear intense affect without making it worse. What Marcus adds is the retrospective angle — a person in hardship can look back at their own record and act from it.
 
 ## Sources
 

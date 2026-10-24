@@ -19,7 +19,7 @@ The booklet treats paraphrase as a test, not a performance. "You can do this by 
 
 A 2014 experiment compared trained listener responses in brief first conversations: 115 participants talked with 10 confederates taught to respond with active listening messages, advice, or simple acknowledgements ([Weger, Castle Bell, Minei and Robinson, 2014](https://stars.library.ucf.edu/scopus2010/9657/)). Participants who received active listening felt more understood than those who received advice or simple acknowledgements. For conversational satisfaction and the listener's social attractiveness, active listening and advice both outperformed simple acknowledgements, with small effect sizes, and did not differ from each other. The study concerns initial interactions; it does not show active listening beating advice on every outcome.
 
-### In the compendium
+### Here
 
 - [[BE050 — Learn to practise active listening — attend fully to others]]
 - [[B147 — Listen deeply]]

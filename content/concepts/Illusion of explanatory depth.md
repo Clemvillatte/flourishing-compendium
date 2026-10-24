@@ -13,7 +13,7 @@ The illusion of explanatory depth is Leonid Rozenblit and Frank Keil's name for 
 
 ### Why the drop matters
 
-In the experiments, participants rated their understanding of 48 items, wrote detailed causal explanations for four test phenomena, and then re-rated their understanding. As the paper puts it, "Attempts to explain the various phenomena led to a decrease in self-rated understanding." The illusion is specific to explanation: ratings for facts, procedures and narratives barely move. The practical use is the one the compendium's principle draws, and the act of writing the explanation is itself the cure, since the exercise exposes the gaps it reveals.
+In the experiments, participants rated their understanding of 48 items, wrote detailed causal explanations for four test phenomena, and then re-rated their understanding. As the paper puts it, "Attempts to explain the various phenomena led to a decrease in self-rated understanding." The illusion is specific to explanation: ratings for facts, procedures and narratives barely move. The practical use is the one my principle draws, and the act of writing the explanation is itself the cure, since the exercise exposes the gaps it reveals.
 
 ## Related concepts
 

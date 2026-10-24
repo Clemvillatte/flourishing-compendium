@@ -17,7 +17,7 @@ Heidegger adds that the return is only possible for one who has first wandered a
 
 **Plain words** Homecoming, for Heidegger, is not the trip back but the standing near what you came from. The wandering beforehand is not wasted; it is what makes the return a return.
 
-### In the compendium
+### Here
 
 - [[D040 — Return to the root daily (guigen)]]: the Daoist counterpart, where returning to the root is called stillness and stillness recovering life (DDJ 16)
 

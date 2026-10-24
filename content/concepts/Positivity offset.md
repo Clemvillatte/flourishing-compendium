@@ -17,7 +17,7 @@ The Evaluative Space Model gives the offset its shape. Positivity and negativity
 
 The review's table adds the functional reading: without a positivity offset, "a person in a neutral environment is unlikely to approach novel stimuli."
 
-### In the compendium
+### Here
 
 - [[AF008 — Know the negativity bias; correct for it deliberately]] — lists the concept among its psychology parallels; the offset is the other half of the asymmetry that principle corrects for.
 

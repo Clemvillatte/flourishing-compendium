@@ -19,9 +19,9 @@ The abstract says the review gives an overview of research on the perception of 
 
 A 2017 study by Strachan and colleagues, summarising earlier work, says that when the eyes of a face move to another point in space "our own attention follows their gaze," giving enhanced processing for objects in that area and poorer processing elsewhere. The same paper reports that people show cueing effects "even when they know that gaze direction is uninformative," citing Driver et al. (1999) ([Strachan et al., 2017, Visual Cognition](https://eprints.whiterose.ac.uk/id/eprint/119885/1/Strachan_etal_17_Vis_Cog.pdf)). Driver et al. is cited at second hand, so that claim rests on Strachan's description of it.
 
-### In the compendium
+### Here
 
-The principles listed (R070, AT062, K355, K248 and others) use social attention to talk about attentiveness to people and about how digital environments capture attention. The sources cited here establish that attention is shaped by others' gaze in laboratory tasks. They do not test attentiveness as a virtue, synchrony practice, or the effects of social media feeds, and those links are the compendium's own. Only the abstract of Frischen et al. (2007) is available in open text, not the full review.
+The principles listed (R070, AT062, K355, K248 and others) use social attention to talk about attentiveness to people and about how digital environments capture attention. The sources cited here establish that attention is shaped by others' gaze in laboratory tasks. They do not test attentiveness as a virtue, synchrony practice, or the effects of social media feeds, and those links are my own. Only the abstract of Frischen et al. (2007) is available in open text, not the full review.
 
 ## Related concepts
 

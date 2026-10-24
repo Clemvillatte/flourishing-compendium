@@ -16,7 +16,7 @@ Marcus compares cooperation among people to the work of a body's members: "for w
 
 > "As several members in one body united, so are reasonable creatures in a body divided and dispersed, all made and prepared for one common operation." (Marcus Aurelius, Meditations VII.10, Casaubon)
 
-The continuation concerns how we regard other people: thinking of oneself as a member should involve loving them "from thy heart". The compendium's practical application is to choose a helpful task suited to the situation and one's capacities.
+The continuation concerns how we regard other people: thinking of oneself as a member should involve loving them "from thy heart". My practical application is to choose a helpful task suited to the situation and one's capacities.
 
 (Med. I.15, VII.10, Casaubon.)
 

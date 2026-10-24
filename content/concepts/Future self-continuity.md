@@ -13,7 +13,7 @@ Future self-continuity is Hal Hershfield's construct for how connected a person 
 
 ### What continuity does
 
-The three-experiment finding is a chain: people whose adjectival descriptions of present and future selves matched discounted future rewards less in the lab and had accumulated more financial assets in life. The compendium's principle turns this into temporal ethics: owning your becoming means treating the person you will become as you rather than as a stranger to be taxed.
+The three-experiment finding is a chain: people whose adjectival descriptions of present and future selves matched discounted future rewards less in the lab and had accumulated more financial assets in life. My principle turns this into temporal ethics: owning your becoming means treating the person you will become as you rather than as a stranger to be taxed.
 
 ## Related concepts
 

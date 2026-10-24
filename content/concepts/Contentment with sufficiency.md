@@ -7,7 +7,7 @@ file: "Contentment with sufficiency"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Contentment with sufficiency is the compendium's label for the Daodejing's teaching on contentment and sufficiency. Chapter 44 prices the question against life itself: keep life and lose fame and wealth, or keep them and lose your life.
+Contentment with sufficiency is my label for the Daodejing's teaching on contentment and sufficiency. Chapter 44 prices the question against life itself: keep life and lose fame and wealth, or keep them and lose your life.
 
 > "Who is content
 > Needs fear no shame.
@@ -24,9 +24,9 @@ Chapter 46 states the reasoning directly:
 
 Chapter 44 opens with the pricing already done as a set of questions: fame or life, which do you hold more dear; life or wealth, to which would you adhere; keep life and lose those other things, or keep them and lose your life. Chapter 46 then opens with a political image on the same scale: when the Tao prevails in the world, swift horses go back to drawing dung-carts; when the Tao is disregarded, war-horses breed in the border lands. The verse in chapter 44 asks the question this reasoning answers: knowing what is enough removes the fear and blame that follow from wanting past it.
 
-The compendium's exercise reading, which treats contentment as a bound set in advance before wanting escalates, is the compendium's application, not the chapters' wording.
+My exercise reading, which treats contentment as a bound set in advance before wanting escalates, is my application, not the chapters' wording.
 
-### In the compendium
+### Here
 
 - [[D019 — Know what is enough (zhizu)]] — carries the Daodejing 44 and 46 passages
 - [[D020 — Know where to stop (chizhi)]] — the same chapter's stopping verse read with chapter 9's timing

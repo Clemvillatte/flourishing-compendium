@@ -19,11 +19,11 @@ In the psychology of learning, the word names something else: a response that de
 
 The two senses are different things that share a name. Aristotle's habituation is character formation through repeated action; the psychologists' is a response decrement through repeated stimulation, and neither source equates the two. The review's authors call the psychological form "the simplest form of learning" and write that researchers who work on it believe it lets animals filter out irrelevant stimuli and focus selectively on important ones, which would make it a prerequisite for other forms of learning. Aristotle marks his own limit with the stone and the fire: nothing that exists by nature can form a habit contrary to its nature, so his habituation works on the adaptable, never on the fixed.
 
-### In the compendium
+### Here
 
 - [[A004 — Become virtuous by doing virtuous acts]], [[A106 — Recognise that virtue is taught through habituation]] and [[A108 — Practise habituation through repeated action]] — the Aristotle family, the concept's home ground.
 - [[D054 — Practice daily — small consistent effort compounds]] and [[B058 — Sit daily — consistency over intensity]] — the daily-repetition practice.
-- [[B088 — Every repetition is a vote (habit as karma)]] and [[B086 — What you feed grows — practice wise attention]] — the compendium's Buddhist parallels on repetition and wise attention.
+- [[B088 — Every repetition is a vote (habit as karma)]] and [[B086 — What you feed grows — practice wise attention]] — my Buddhist parallels on repetition and wise attention.
 - [[B013 — Trust that the mind is trainable]], [[B026 — Apply right effort — the four efforts]] and [[P070 — Make your nervous system your ally]] — the trainable-system side.
 
 ## Related concepts

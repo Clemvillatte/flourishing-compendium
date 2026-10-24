@@ -7,7 +7,7 @@ file: "The composite self"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in "the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events." (Parfit, p. 211, as quoted in Korsgaard). The rival view holds that the persistence of a psychological subject is a "deep further fact" about a person, with the subject an irreducible entity. The label "the composite self" is the compendium's.
+In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in "the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events." (Parfit, p. 211, as quoted in Korsgaard). The rival view holds that the persistence of a psychological subject is a "deep further fact" about a person, with the subject an irreducible entity. The label "the composite self" is my.
 
 > "When I believed that my existence was a further fact, I seemed imprisoned in myself. My life seemed like a glass tunnel, through which I was moving faster every year, and at the end of which there was darkness. When I changed my view, the walls of my glass tunnel disappeared. I now live in the open air." (Parfit, Reasons and Persons, 1984, p. 281, as quoted in [Korsgaard, "Personal Identity and the Unity of Agency", Harvard DASH](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-60a9-6bd4-e053-0100007fdf3b/content))
 
@@ -19,7 +19,7 @@ Parfit reports the loss of the further fact as liberating rather than depressing
 
 Parfit reports becoming less concerned about his own future and more concerned about other people.
 
-### In the compendium
+### Here
 
 - [[B120 — Experience is five streams (the aggregates)]] — places Parfit's account of personal identity beside the Buddhist analysis into five aggregates
 

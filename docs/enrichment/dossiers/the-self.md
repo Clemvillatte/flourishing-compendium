@@ -6,7 +6,7 @@ The self is the one thing everyone has and no one can point to. The traditions d
 
 Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).
 
-## The map: every entry the wiki holds on the self
+## The map: the entries on the self
 
 ### What the self is taken to be
 
@@ -36,7 +36,7 @@ Two essay angles the material supports. First, the two great examinations of exp
 
 [Critique of the unencumbered self](https://clemvillatte.github.io/flourishing-compendium/#card=Critique%20of%20the%20unencumbered%20self): Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the "unencumbered self"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel interview, sourcesjournal.org).
 
-[The wider self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wider%20self): the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it.
+[The wider self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wider%20self): my umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it.
 
 The Anattalakkhaṇa Sutta runs the analysis through the five aggregates, testing each for the control a true owner would have:
 
@@ -122,7 +122,7 @@ The ACT version trains the position as a skill:
 
 [Self-Categorization Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-Categorization%20Theory): Self-categorization theory (SCT) "was developed by John Turner and colleagues, and along with social identity theory it is a constituent part of the social identity approach" (Self-categorization theory, Wikipedia).
 
-[Embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity): The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development.
+[Embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity): I anchor embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development.
 
 [The culturally embedded self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20culturally%20embedded%20self): Taylor connects identity with commitments and identifications that provide a framework for judging what is good, valuable, or ought to be done.
 
@@ -188,7 +188,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [The shattered self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20shattered%20self): Judith Herman’s term, in Trauma and Recovery, for the self after prolonged trauma.
 
-[The polyphonic self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20polyphonic%20self): the compendium's name for a claim Bakhtin makes about novels and the compendium transfers to persons.
+[The polyphonic self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20polyphonic%20self): my name for a claim Bakhtin makes about novels and I transfer to persons.
 
 [The self-referential trap of belief-avoidance](https://clemvillatte.github.io/flourishing-compendium/#card=The%20self-referential%20trap%20of%20belief-avoidance): the clinical observation that a fixed stance against believing anything functions as a belief in its own right.
 
@@ -224,13 +224,13 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 ### Identity over a life
 
-[Identity development](https://clemvillatte.github.io/flourishing-compendium/#card=Identity%20development): The compendium uses "Identity development" for the Eriksonian research tradition on how a coherent sense of self forms.
+[Identity development](https://clemvillatte.github.io/flourishing-compendium/#card=Identity%20development): I use "Identity development" for the Eriksonian research tradition on how a coherent sense of self forms.
 
 [Identity statuses (Marcia)](https://clemvillatte.github.io/flourishing-compendium/#card=Identity%20statuses%20%28Marcia%29): James Marcia built on Erikson's account of the adolescent identity crisis and gave it a measurable structure (Marcia, 1966).
 
 [Ego development](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20development): Jane Loevinger's name for the lifelong maturation of the frame through which a person interprets self and world.
 
-[Ego strength](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20strength): the compendium's label for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will.
+[Ego strength](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20strength): the label I use for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will.
 
 [Ego integrity (Erikson)](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20integrity%20%28Erikson%29): Erikson’s eighth and last psychosocial stage: the task of late life, integrity versus despair, acceptance of one’s one and only life cycle.
 
@@ -342,9 +342,9 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Rectify the self, then the family, then the state](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state): the Great Learning’s sequence of rectification, moving outward from the self.
 
-### The wiki’s own shelves on the self
+### My own shelves on the self
 
-The compendium also organizes self material into structured pathways; the hub is [SE: Self](https://clemvillatte.github.io/flourishing-compendium/#card=SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:
+I also organize self material into structured pathways; the hub is [SE: Self](https://clemvillatte.github.io/flourishing-compendium/#card=SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:
 
 - [SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S01%20%E2%80%94%20LAYER%20I%20%E2%80%94%20FIRST%20PRINCIPLES%20%E2%80%94%20THE%20ARCHITECTURE%20OF%20SELF)
 
@@ -380,7 +380,7 @@ A caution worth carrying into any essay: four claims that sound alike and are no
 
 ::Variation:: What tends to need varying on this theme is the grip of the self-as-object: the self known, judged and defended. In the map’s terms, the maladaptive patterns are a fused self-story taken as fact (the narrative cluster), worth staked on contingencies and defended by handicaps and biases (the self-worth cluster), a harsh inner critic, and identity held as a fixed quantity. The adaptive direction is the observing position that notices thoughts without being them, a story known as a story and re-tellable, worth that is quieter and less defended, and a self wide enough to include others and the natural world. No single move carries all of it; the kernels below each vary one part.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Self-as-context](https://clemvillatte.github.io/flourishing-compendium/#card=K139%20%E2%80%94%20Self-as-context): when caught in a self-story, shifting attention from the story to the one who notices the story.
 
@@ -422,7 +422,7 @@ The research behind it is quoted in the opening: self-distancing eliminated the 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### What the self is taken to be
 

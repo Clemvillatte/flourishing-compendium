@@ -17,9 +17,9 @@ The free person is Spinoza's model human, drawn in the last propositions of Part
 
 Spinoza is careful that this free person is an ideal, not a census category; his proof runs through the definition of a person who "lives under the guidance of reason, who is not led by fear... but who directly desires that which is good... who strives to act, to live, and to preserve his being on the basis of seeking his own true advantage." Freedom here is not exemption from cause but self-determination: acting from one's own nature rather than from fear, flattery or the crowd's moods. The propositions that follow give the character its edges. "The free man, who lives among the ignorant, strives, as far as he can, to avoid receiving favours from them" (IVP70), because favors from those who reason badly come with their own accounting attached. And "the free man never acts fraudulently, but always in good faith" (IVP72), since deception is the tool of the afraid.
 
-The compendium reads the portrait as a practice target: the moments when one acts from strength rather than fear are the free person's visits, and the propositions are checklists for inviting them.
+I read the portrait as a practice target: the moments when one acts from strength rather than fear are the free person's visits, and the propositions are checklists for inviting them.
 
-### In the compendium
+### Here
 
 - [[E075 — Practise the free man (l'homme libre)]] — the practice principle, whose title carries de Beauvoir's French term for her own account of the free man
 

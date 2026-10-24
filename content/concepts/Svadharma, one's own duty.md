@@ -13,7 +13,7 @@ In the Wisdom Library translation of Bhagavad Gita 3.35, svadharma is rendered a
 
 > "It is far better to execute one's prescribed duties, even though imperfectly, than to perform another's duty perfectly. It is better to die discharging one's own duty in accordance with the varṇāśrama system than to engage in another's duty, for it is dangerous to follow another's path." (Bhagavad Gita 3.35, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc419847.html))
 
-### In the compendium
+### Here
 
 - [[Y042 — Follow your own path over borrowed scripts]] — the principle that follows one's own path rather than borrowed scripts
 - [[Y103 — Never abstain from necessary action]] — the principle that one does not abstain from necessary action

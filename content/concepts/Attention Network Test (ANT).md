@@ -19,7 +19,7 @@ The ANT combines two older experimental paradigms: the cued reaction time task a
 
 In the 40-subject study, the three scores did not correlate with each other. As the authors put it: "Results demonstrate no correlation between any combination of alerting, orienting, and conflict resolution, suggesting that these are functionally orthogonal constructs." The abstract adds the caveat that there were "some interactions in which alerting and orienting can modulate the degree of interference from flankers" — the networks are separable but not entirely independent in operation.
 
-### In the compendium
+### Here
 
 - [[AT002 — Know that attention has three networks — alerting, orienting, and executive control]]
 - [[CO009 — Recognise that thinking has a default mode — mind-wandering]]

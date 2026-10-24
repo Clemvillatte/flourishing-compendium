@@ -17,7 +17,7 @@ The framework's central notion is fascination: things that hold attention effort
 
 Being away, Kaplan stresses, "involves a conceptual rather than a physical transformation" — a change in the direction of one's gaze can be enough. Extent means the setting must have "enough to see, experience, and think about so that it takes up a substantial portion of the available room in one's head."
 
-### In the compendium
+### Here
 
 - [[AT037 — Understand that attention needs recovery — directed attention is a depletable resource]]
 - [[AT038 — Use nature for attentional restoration — soft fascination]]

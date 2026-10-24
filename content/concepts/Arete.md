@@ -21,7 +21,7 @@ By the classical period the word had grown inward: "arete as applied to men had 
 
 The myth that carries the concept is Prodicus' tale of Heracles at the crossroads: Arete appears as a maiden offering "glory and a life of struggle against evil," while her counterpart Kakia offers "wealth and pleasure" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). Heracles chooses Arete.
 
-### In the compendium
+### Here
 
 - [[A003 — Make virtue your primary investment]] — arete as the thing to build
 - [[D004 — Cultivate de — your embodied character-power]] — the Chinese cousin of the same idea

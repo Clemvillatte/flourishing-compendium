@@ -14,13 +14,13 @@ The phrase comes from an anecdote about Diogenes of Sinope. Asked where he came 
 
 > Asked where he came from, he said, "I am a citizen of the world." — Diogenes Laertius VI.63, Hicks translation, [Wikisource (opened)](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI)
 
-A note in the Hicks edition cautiously suggests that, if the answer is authentic, it apparently indicates that the term "cosmopolitan" originated with Diogenes. The compendium reads the reply as refusing the local identity as the whole of who one is, and a second anecdote gives the positive side:
+A note in the Hicks edition cautiously suggests that, if the answer is authentic, it apparently indicates that the term "cosmopolitan" originated with Diogenes. I read the reply as refusing the local identity as the whole of who one is, and a second anecdote gives the positive side:
 
 > The only true commonwealth was, he said, that which is as wide as the universe. — Diogenes Laertius VI.72, Hicks translation, [Wikisource (opened)](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI)
 
-The compendium uses the phrase to name a stance: concern that is not fenced at the city wall. The linked principles carry that stance toward the land, the guest, and the world's welfare.
+I use the phrase to name a stance: concern that is not fenced at the city wall. The linked principles carry that stance toward the land, the guest, and the world's welfare.
 
-### In the compendium
+### Here
 
 - [[Y102 — Act for the world's welfare]] — acting for the world's welfare.
 - [[R117 — Practise the land ethic]] — the land ethic principle.

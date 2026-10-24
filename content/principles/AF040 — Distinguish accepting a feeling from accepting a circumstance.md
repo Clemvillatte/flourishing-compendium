@@ -20,7 +20,7 @@ And on its role in treatment:
 
 > "Rather acceptance is fostered as a method of increasing values-based action." ([Hayes et al., 2006, same text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf))
 
-The compendium applies this account by separating willingness to experience a feeling from deciding how to respond to the circumstances. Acceptance, in this model, aims at private events such as thoughts, feelings and sensations; the values-based action is where circumstances get their response.
+I applie this account by separating willingness to experience a feeling from deciding how to respond to the circumstances. Acceptance, in this model, aims at private events such as thoughts, feelings and sensations; the values-based action is where circumstances get their response.
 
 **Plain words** You are answering two questions: what am I feeling, and how do I want to respond? If you worry that allowing the feeling means approving the event, use that distinction to examine the [[Acceptance|barrier to acceptance]].
 

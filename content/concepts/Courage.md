@@ -17,20 +17,20 @@ Aristotle's sharpest teaching is negative: he distinguishes courage from several
 
 The clinical layer pairs with the virtue as an editorial comparison: BE026 on approaching what one fears, AF035 on avoidance's negative reinforcement, BE025 on avoidance as anxiety's core maintaining factor, and the companion concept Graded exposure (Wolpe) for approaching feared situations step by step. Aristotle's own training account, as the IEP summarizes it, is habituation: "by acting in the face of frightening things and being habituated to be fearful or confident, some become brave and others cowardly" ([IEP, Aristotle's Ethics](https://iep.utm.edu/aris-eth/)).
 
-### In the compendium
+### Here
 
-SP065's acting from strength rather than fear is a modern echo of Aristotle's noble motive. S031's doing what is fitting, not what is easy, and S041's duty even when it is unpleasant, are the compendium's Stoic pairings. E503 pairs courage's two faces: face simultaneously your greatest suffering and your highest hope. S063 adds the Stoic limit: do not fear what you cannot control.
+SP065's acting from strength rather than fear is a modern echo of Aristotle's noble motive. S031's doing what is fitting, not what is easy, and S041's duty even when it is unpleasant, are my Stoic pairings. E503 pairs courage's two faces: face simultaneously your greatest suffering and your highest hope. S063 adds the Stoic limit: do not fear what you cannot control.
 
 ## Related concepts
 
 
-- [[Temperance]] — the sibling cardinal virtue in the compendium's virtue family
+- [[Temperance]] — the sibling cardinal virtue in my virtue family
 - [[Virtue]] — the class of excellences courage belongs to
 - [[Fear]] — the feeling courage is a mean about
 - [[Habituation]] — how bravery is trained, by acting in frightening things
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the clinical counterpart of approaching feared situations
 - [[Vulnerability]] — the openness that fear guards and courage spends
-- [[Hope]] — paired with suffering in the compendium's courage principle
+- [[Hope]] — paired with suffering in my courage principle
 - [[Shame]] — the citizen-soldier's motive, courage's nearest counterfeit
 - [[D172]] — courage that runs alongside a reading of the situation, not fearlessness alone: the principle treats courage as acting with an assessment of danger rather than in ignorance of it
 ## Sources

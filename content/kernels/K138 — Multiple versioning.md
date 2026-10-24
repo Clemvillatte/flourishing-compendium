@@ -14,7 +14,7 @@ Describe the same situation from two or more perspectives: a scientist's, a poet
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the distance effect each version exploits is documented in the self-distancing research below.*
+*Steps are my own protocol; the distance effect each version exploits is documented in the self-distancing research below.*
 
 1. Write the situation once in your own default voice; that is version zero.
 2. Write it again from two other positions: one detached and analytic, one naïve and curious; the contrast is the point.

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the utility of a belief matters as much as its accuracy (Beck; Hayes et al., 2011).
 
-Belief evaluation in cognitive-behavioural therapy and its third-wave successors is the process of examining what a thought does, not only whether it is true. The two traditions the compendium pairs here differ in what they evaluate: cognitive therapy evaluates the content of a belief, and Acceptance and Commitment Therapy evaluates the function of the relationship to it.
+Belief evaluation in cognitive-behavioural therapy and its third-wave successors is the process of examining what a thought does, not only whether it is true. The two traditions I pair here differ in what they evaluate: cognitive therapy evaluates the content of a belief, and Acceptance and Commitment Therapy evaluates the function of the relationship to it.
 
 ### The ACT version
 
@@ -27,7 +27,7 @@ And the article states what success looks like:
 
 The same article notes that traditional cognitive-behavioural therapy might attempt to reduce the frequency of a thought, challenge its validity, or ask for it to be tested in the real world, and that all these approaches treat the thought itself as if it is important.
 
-### In the compendium
+### Here
 
 - [[P020 — Ask for the cash value of your beliefs]] — the Peircean principle takes the utility question and works it into a practice.
 - [[SE069 — Recognise identity disturbances — when self is fragmented]] — the principle on identity, against which the utility question supplies a contrast.
@@ -37,7 +37,7 @@ The same article notes that traditional cognitive-behavioural therapy might atte
 - [[Cognitive defusion]] — the ACT process the belief-evaluation question works through.
 - [[Cognitive restructuring]] — the CBT counterpart that evaluates the content of the belief.
 - [[Cognitive biases]] — the patterns of thought both traditions examine.
-- [[Cash value]] — the Peircean framing the compendium pairs with the utility question.
+- [[Cash value]] — the Peircean framing I pair with the utility question.
 
 ## Sources
 

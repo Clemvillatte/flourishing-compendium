@@ -19,7 +19,7 @@ The entry sorts the uses of the word into families. Neil Van Leeuwen's influenti
 
 ### Why it matters here
 
-Imagination is the faculty through which the future gets represented before it arrives. The entry notes the psychological work on "mental time travel," the similarities between remembering the past and imagining the future, and the everyday use of imagistic imagination in practical deliberation. The compendium's psychological entry [[Episodic future thinking]] follows that line. The philosophical principles carry the older warnings: [[SP014 — Expect to imagine others as like yourself]] marks the projection error built into perspective-taking, and [[SP038 — Treat superstition as fear's theology]] marks what happens when fear scripts the scenes.
+Imagination is the faculty through which the future gets represented before it arrives. The entry notes the psychological work on "mental time travel," the similarities between remembering the past and imagining the future, and the everyday use of imagistic imagination in practical deliberation. My psychological entry [[Episodic future thinking]] follows that line. The philosophical principles carry the older warnings: [[SP014 — Expect to imagine others as like yourself]] marks the projection error built into perspective-taking, and [[SP038 — Treat superstition as fear's theology]] marks what happens when fear scripts the scenes.
 
 - [[SP014 — Expect to imagine others as like yourself]]
 - [[SP038 — Treat superstition as fear's theology]]

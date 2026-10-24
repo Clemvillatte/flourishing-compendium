@@ -21,7 +21,7 @@ Terror management theory supplies the protective system the disruption hits. The
 
 ### The climate connection
 
-The compendium's principle on treating climate change as a sociocultural stressor is grounded in the same literature. The COVID-19 analysis gives the pattern: "compromised anxiety buffers leave people vulnerable to experiencing higher levels of death anxiety than usual," when the threat simultaneously undermines access to the parts of the buffer — social connection, institutional trust, routine — that would normally absorb it ([Landau and Pyszczynski, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7498956/)). Climate threat operates the same way: the awareness it raises is difficult to manage because the threat itself disrupts the buffers.
+My principle on treating climate change as a sociocultural stressor is grounded in the same literature. The COVID-19 analysis gives the pattern: "compromised anxiety buffers leave people vulnerable to experiencing higher levels of death anxiety than usual," when the threat simultaneously undermines access to the parts of the buffer — social connection, institutional trust, routine — that would normally absorb it ([Landau and Pyszczynski, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7498956/)). Climate threat operates the same way: the awareness it raises is difficult to manage because the threat itself disrupts the buffers.
 
 ## Related concepts
 

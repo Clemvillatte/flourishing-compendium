@@ -17,13 +17,13 @@ The difference between doing and watching is the difference between two uses of 
 
 > Cognitive strategies are invoked to make cognitive progress, metacognitive strategies to monitor it.
 
-Flavell's subject was memory and comprehension. This page extends the same watch-then-choose structure one level down, to arousal and engagement: noticing that the system is wound, flat, or scattered, and choosing the move that fits. The compendium's own classical statement of the matching rule is Y021's: a scattered mind needs grounding, a dull mind needs activation, and the naming chooses the practice. A recent clinical proposal makes the same move for the autonomic nervous system ([Pandey, 2026](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1853837/pdf)), holding that in state-contingent breath work:
+Flavell's subject was memory and comprehension. This page extends the same watch-then-choose structure one level down, to arousal and engagement: noticing that the system is wound, flat, or scattered, and choosing the move that fits. My own classical statement of the matching rule is Y021's: a scattered mind needs grounding, a dull mind needs activation, and the naming chooses the practice. A recent clinical proposal makes the same move for the autonomic nervous system ([Pandey, 2026](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1853837/pdf)), holding that in state-contingent breath work:
 
 > ...the goal is to match the client's current autonomic and experiential state, and to use Swara-informed breath manipulation to bring breath, autonomic activity, and conscious awareness into a configuration that widens the window of tolerance.
 
 The proposal runs slow left-nostril breathing for hyperaroused states and slow right-nostril breathing for hypoaroused ones, after assessing which state the client is in. The direction of the correction depends on the reading, which is why the observing comes first.
 
-### In the compendium
+### Here
 
 - [[Y021 — Diagnose the mind's state before choosing a practice]] — the matching rule stated as a practice
 - [[AT034 — Cultivate metacognitive awareness of attention — notice when attention drifts]] — the watching half, trained on attention

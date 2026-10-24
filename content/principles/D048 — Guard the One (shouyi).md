@@ -39,7 +39,7 @@ Seventeen open tabs and a half-written paragraph: close them, sit with the one t
 
 
 - [[B095]] — same practice named in the Buddhist register; D048's Neiye verse XIX (unify your awareness) is the same gesture as B095's gathering
-- [[D071]] — the attention pair within the compendium's own principles; both are operationalised by the same kernels (K100, K102)
+- [[D071]] — the attention pair within my own principles; both are operationalised by the same kernels (K100, K102)
 - [[T037 — Weil, Simone]]: attention as prayer, from Waiting for God.
 ## Sources
 

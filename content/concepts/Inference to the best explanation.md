@@ -21,7 +21,7 @@ The examples are everyday rather than formal: "When a detective puts the evidenc
 
 ### The catch
 
-The warrant is comparative, which is the concept's weak point as much as its power: the inference only works once the alternatives are rejected, and what counts as "better" is left in scare quotes. The compendium's crosslinks mark the two failure modes. [[CO026 — Recognise the illusion of explanatory depth — you understand less than you think]] covers the case where the sense of having the best explanation outruns the actual comparison, and [[Ockham's razor]] supplies the simplicity standard Harman's detective reaches for.
+The warrant is comparative, which is the concept's weak point as much as its power: the inference only works once the alternatives are rejected, and what counts as "better" is left in scare quotes. My crosslinks mark the two failure modes. [[CO026 — Recognise the illusion of explanatory depth — you understand less than you think]] covers the case where the sense of having the best explanation outruns the actual comparison, and [[Ockham's razor]] supplies the simplicity standard Harman's detective reaches for.
 
 [[CO026 — Recognise the illusion of explanatory depth — you understand less than you think]]
 [[K297 — Relational accountability]]

@@ -14,7 +14,7 @@ Declare an intention publicly, or to someone whose opinion matters to you. The a
 
 ### Protocol
 
-*Steps distilled from the Pallak research design; the distillation is the compendium's.*
+*Steps distilled from the Pallak research design; the distillation is my.*
 
 1. Put the intention into words, to a person or an audience, not only to yourself.
 2. Attach your name to it: the commitment should be attributable to you, not anonymous.

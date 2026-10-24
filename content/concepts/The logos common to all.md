@@ -7,7 +7,7 @@ file: "The logos common to all"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The compendium's heading "the logos common to all" follows Heraclitus' references to what is common. In the Burnet translation, fragment 2 contrasts the common Word with the many living as if they had wisdom of their own.
+My heading "the logos common to all" follows Heraclitus' references to what is common. In the Burnet translation, fragment 2 contrasts the common Word with the many living as if they had wisdom of their own.
 
 ### Heraclitus' ground
 
@@ -25,7 +25,7 @@ And its political shape:
 
 Fragment 113 reads: "Thought is common to all".
 
-### In the compendium
+### Here
 
 - [[S006 — Remember that you are a citizen of the cosmos]]
 - [[SP049 — Trust what is common to all]]

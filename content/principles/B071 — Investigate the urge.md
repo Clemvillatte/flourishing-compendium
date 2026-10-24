@@ -16,7 +16,7 @@ Dhammapada 186-187 describes sensual desires as unsatisfying even amid abundant 
 
 > "There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain." (Dhammapada 186-187, trans. Acharya Buddharakkhita, [text](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html))
 
-The compendium applies this warning by asking what an urge promises and whether you want to act on it. Observing bodily sensations or changes in the feeling is a proposed exercise here. The quoted verses do not prescribe this method or establish that observation will make an urge fade.
+I applie this warning by asking what an urge promises and whether you want to act on it. Observing bodily sensations or changes in the feeling is a proposed exercise here. The quoted verses do not prescribe this method or establish that observation will make an urge fade.
 
 ### Plain words
 

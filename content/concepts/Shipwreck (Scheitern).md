@@ -15,7 +15,7 @@ Scheitern is Karl Jaspers' German word for the failure that belongs to human exi
 
 What decides, on Jaspers' account, is "his attitude toward failure: whether it remains hidden from him and overwhelms him only objectively at the end or whether he perceives it unobscured as the constant limit of his existence" ([p. 23](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)). A person can snatch at "fantastic solutions and consolations" or face the limit "honestly, in silence before the unfathomable", and "The way in which man approaches his failure determines what he will become" ([p. 23](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)). Even despair, "by the very fact that it is possible in the world, points beyond the world" ([p. 23](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
 
-### In the compendium
+### Here
 
 - [[E092 — Practise shipwreck]] — carries this account for practice: meet the unavoidable failure of finite existence as a limit to be perceived, not hidden from
 

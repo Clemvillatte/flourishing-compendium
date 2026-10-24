@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Habermas” — 1981.
 
-The date points to Jürgen Habermas's The Theory of Communicative Action (1981), the start of his mature work and a framework that combines a theory of meaning and action, a typology of social action, a social ontology and a critical social theory. This page summarises that work and the discourse rules the compendium draws on, using the Stanford Encyclopedia's entry.
+The date points to Jürgen Habermas's The Theory of Communicative Action (1981), the start of his mature work and a framework that combines a theory of meaning and action, a typology of social action, a social ontology and a critical social theory. This page summarises that work and the discourse rules I draw on, using the Stanford Encyclopedia's entry.
 
 ### Communicative action
 
@@ -31,7 +31,7 @@ The entry notes that the list is a representative sample borrowed from Robert Al
 
 Commentators disagree about whether the theory's central claims are established. The entry says that "most commentators agree that Habermas fails to establish the irreducibility thesis by argument", the thesis that communicative rationality cannot be reduced to instrumental rationality. Other critics deny that strategic action is necessarily selfish, and that economic or bureaucratic spheres force a single type of action. Some think the basic distinction is still useful even if his own argument is not clinching. ([Stanford Encyclopedia, section 2.2](https://plato.stanford.edu/entries/habermas/))
 
-### In the compendium
+### Here
 
 - [[SO043 — Use communication norms as design parameters]] cites this concept for communicative rationality, deliberative democracy, group discussion and judgment, and psychological safety.
 

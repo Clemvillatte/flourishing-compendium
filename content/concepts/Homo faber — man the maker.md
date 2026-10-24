@@ -15,12 +15,12 @@ Arendt also stresses the violence involved in obtaining materials for fabricatio
 
 > "This element of violation and violence is present in all fabrication, and homo faber, the creator of the human artifice, has always been a destroyer of nature." (Arendt, [The Human Condition (2013), p. 139](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/))
 
-The compendium's principle on creative behaviour is BE059.
+My principle on creative behaviour is BE059.
 
 ## Related concepts
 
 - [[Homo ludens]]: the playing human, a different answer to the question of what we are besides laborers and makers
-- [[Grit]]: the compendium's research page on sustained effort
+- [[Grit]]: my research page on sustained effort
 
 ## Sources
 

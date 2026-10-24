@@ -12,9 +12,9 @@ Servant leadership is Robert K. Greenleaf's coinage, first published in his 1970
 
 ### Servant first, leader second
 
-Greenleaf's distinction is between servant-first and leader-first as "two extreme types": the one leads because serving requires it, the other serves, if at all, once leadership is established. The concept has since grown a research tradition (Liden and colleagues' 2008 model among them), with measures of the growth and autonomy of the served as outcomes. The compendium's use is the reversal it forces in self-audit: the question a leader asks of a role is usually what it does for them; Greenleaf's test moves the question to what happens to the people on the other side of it.
+Greenleaf's distinction is between servant-first and leader-first as "two extreme types": the one leads because serving requires it, the other serves, if at all, once leadership is established. The concept has since grown a research tradition (Liden and colleagues' 2008 model among them), with measures of the growth and autonomy of the served as outcomes. My use is the reversal it forces in self-audit: the question a leader asks of a role is usually what it does for them; Greenleaf's test moves the question to what happens to the people on the other side of it.
 
-## In the compendium
+## Here
 
 - [[R029 — Practise rangatiratanga]]
 - [[D115 — Lead from behind]]

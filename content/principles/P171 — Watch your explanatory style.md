@@ -22,7 +22,7 @@ In the same interview, Seligman also warns against explanations that put the cau
 
 > The pessimistic style and the excusing style are the same move: both put the cause beyond the reach of a person's action—one by calling it the person's permanent defect, the other by calling it someone else's fault.
 
-The compendium uses this contrast as a prompt to examine an explanation and ask which aspects, if any, are open to action.
+I use this contrast as a prompt to examine an explanation and ask which aspects, if any, are open to action.
 
 **Plain words**
 After a setback, ask what you know about its cause. Are you treating one event as evidence about every situation or about your whole future? Separate what you can investigate or change from what lies outside your control.

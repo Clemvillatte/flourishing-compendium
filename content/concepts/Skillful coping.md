@@ -17,7 +17,7 @@ The paper's central terms are the intentional arc and maximal grip. The intentio
 
 The same paper gives the claim in its plainest form: "skillful coping does not require a mental representation of its goal at all. It can be purposive without the agent entertaining a purpose." And the body side: "rather, in skillful coping we experience the situation as drawing the movements out of us."
 
-The compendium pairs this with two traditions: [[D003 — Act through wu wei — non-forcing]] (Daoist non-forcing as the same structure read ethically) and [[D057 — Enter flow]] (flow research as the psychological descendant).
+I pair this with two traditions: [[D003 — Act through wu wei — non-forcing]] (Daoist non-forcing as the same structure read ethically) and [[D057 — Enter flow]] (flow research as the psychological descendant).
 
 ## Related concepts
 

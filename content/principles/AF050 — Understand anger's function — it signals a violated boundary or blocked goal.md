@@ -16,7 +16,7 @@ Aristotle praises anger directed appropriately and criticises both excess and de
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." (Aristotle, Nicomachean Ethics IV.5, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
-He also describes failure to become angry at appropriate things as blameworthy. The compendium's practical question is whether an angry interpretation and the proposed response are justified.
+He also describes failure to become angry at appropriate things as blameworthy. My practical question is whether an angry interpretation and the proposed response are justified.
 
 **Plain words**
 Being angry does not settle whether someone wronged you. Check what happened and what you inferred. Then decide whether a response is called for and how to make it proportionate.

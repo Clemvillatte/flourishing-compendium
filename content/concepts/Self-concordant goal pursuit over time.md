@@ -23,7 +23,7 @@ Sheldon's 2014 review in Personality and Social Psychology Review notes that peo
 
 The sources cited here support the effort, attainment and need-satisfaction path. They do not show that self-concordant goals are good in themselves: the 2014 abstract says people may misjudge their own motives, so feeling that a goal is one's own is not proof that it fits. Only the 1999 and 2014 abstracts were read, not the full papers.
 
-### In the compendium
+### Here
 
 SE063 (Learn to set and pursue self-concordant goals) and MO013 (Clarify your values) apply the model directly. P116 (Pursue becoming, not arrival), MO059 and P176 extend it toward process and growth, which the abstracts do not test. E038, E023, ST301 and SP039 draw on philosophical and other sources for related ideas.
 

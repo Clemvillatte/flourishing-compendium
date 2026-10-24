@@ -13,7 +13,7 @@ Fu (復, "to return") is the name this wiki gives the pattern that chapter 16 of
 
 The chapter opens by asking for vacancy and stillness guarded with unwearying vigour. It then ties knowledge of the "regular, unchanging rule" to intelligence, and says that not knowing it "leads to wild movements and evil issues". Near the end, someone possessed of the Tao "endures long". Fu (return) is this wiki's name for the pattern; the evidence opened here is Legge's English rendering of the chapter, plus a dictionary gloss of the character.
 
-### In the compendium
+### Here
 
 - [[B002 — Assume change (anicca)]] — lists the return beside anicca among its cross-tradition parallels
 - [[B177 — Begin again — returning is the practice]] — pairs the return with Kierkegaard's Repetition

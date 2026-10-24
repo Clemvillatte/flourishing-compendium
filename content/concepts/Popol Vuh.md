@@ -19,7 +19,7 @@ The twins' plan to shoot him, made before the deed, ends on the same line the na
 
 > "It is not good that it be so, when man does not yet live here on earth. Therefore, we shall try to shoot him with our blowgun when he is eating. We shall shoot him and make him sicken, and then that will be the end of his riches, his green stones, his precious metals, his emeralds, his jewels of which he is so proud. And this shall be the lot of all men, for they must not become vain, because of power and riches." (Popol Vuh, Part I, Chapter 5, trans. Goetz and Morley from Recinos, [latinamericanstudies.org](https://latinamericanstudies.org/maya/Popol_Vuh.pdf))
 
-### In the compendium
+### Here
 
 - [[M045 — Read the Popol Vuh's warnings — arrogance falls]] — the principle that reads this epic; it lists the concept among its philosophy parallels.
 

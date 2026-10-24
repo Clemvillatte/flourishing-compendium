@@ -19,9 +19,9 @@ Peirce's own summary of its place in the triad: "Abduction is the process of for
 
 The inference is not empty, and it is not a free guess: the hypothesis must already be the kind of thing that would make the fact "a matter of course." What abduction licenses is the adoption of the hypothesis as worth testing, not as true. Peirce in the logic-of-documents passage: "This step of adopting a hypothesis as being suggested by the facts, is what I call abduction" ([quoted in the Cambridge Compositional Abduction chapter](https://www.cambridge.org/core/books/compositional-abduction-and-scientific-interpretation/peirce-and-the-neopeirceans/C9419EFDE55E09BA3FC3C331CACE71A8)).
 
-### Where the compendium holds it
+### Where I hold it
 
-The compendium holds abduction for its plain usefulness in a flourishing practice: when something surprising happens, the move that unblocks inquiry is to find the hypothesis that would make it ordinary, and test that. Guessing well is a skill, and Peirce thought its basis was instinct, not calculation ([CP 5.171, CP 7.220, as noted in the critical-thinking analysis](https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/106/106/1113?inline=1)).
+I hold abduction for its plain usefulness in a flourishing practice: when something surprising happens, the move that unblocks inquiry is to find the hypothesis that would make it ordinary, and test that. Guessing well is a skill, and Peirce thought its basis was instinct, not calculation ([CP 5.171, CP 7.220, as noted in the critical-thinking analysis](https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/106/106/1113?inline=1)).
 
 ## Related concepts
 

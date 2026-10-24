@@ -22,9 +22,9 @@ And the findings:
 
 > "Importantly, Pphubbing was found to indirectly impact depression through relationship satisfaction and ultimately life satisfaction." ([Roberts & David, 2016, same abstract](https://www.studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974))
 
-The study covers the phone side of the principle: the costs of divided attention in a partner's company. It does not test the positive side — whether giving full attention improves connection. The compendium's practice inverts the negative result; that inversion is an inference, not a finding.
+The study covers the phone side of the principle: the costs of divided attention in a partner's company. It does not test the positive side — whether giving full attention improves connection. My practice inverts the negative result; that inversion is an inference, not a finding.
 
-**Plain words** The study says: when one partner attends to a phone instead of the other, conflict rises, relationship satisfaction falls, and life satisfaction and mood fall with it. What it measures is the damage of divided attention. The undivided version is the same mechanism read the other way — the compendium's inference, not the study's result.
+**Plain words** The study says: when one partner attends to a phone instead of the other, conflict rises, relationship satisfaction falls, and life satisfaction and mood fall with it. What it measures is the damage of divided attention. The undivided version is the same mechanism read the other way — my inference, not the study's result.
 
 *For example:* (Imagined case.) The teenager who tells their parent everything in the car — the parent cannot scroll, cannot leave, and the eyes-on-the-road format makes honesty survivable. The structure removes the competition for attention.
 

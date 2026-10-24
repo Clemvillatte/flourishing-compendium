@@ -20,7 +20,7 @@ Eno's rendering puts the same lesson in one line: "it’s the trainers who confr
 
 The passage ends there. It does not say whether Yan He took the post or what became of the prince.
 
-The compendium reads the three images as a sequence for D069. First, do not answer force with a display of your own force; the mantis is the picture of that. Second, studying where the rage comes from and when it peaks is part of staying out of its way. Third, even good intentions can provoke, so watch the effect rather than your motive. The cataract swimmer joins a current already in motion; this dialogue covers what comes earlier, the discipline that keeps you from becoming the next thing the force hits.
+I read the three images as a sequence for D069. First, do not answer force with a display of your own force; the mantis is the picture of that. Second, studying where the rage comes from and when it peaks is part of staying out of its way. Third, even good intentions can provoke, so watch the effect rather than your motive. The cataract swimmer joins a current already in motion; this dialogue covers what comes earlier, the discipline that keeps you from becoming the next thing the force hits.
 
 Not carried: the passage gives no result, treats a tutor's access to power as a given, and does not say whether the prince can change. It also says nothing about when staying near danger stops being wise. A person in an abusive relationship is not helped by being told to "time" the abuser's rage.
 

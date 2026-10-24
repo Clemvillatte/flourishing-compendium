@@ -23,7 +23,7 @@ The model came out of Bruce Tuckman's 1965 review of the empirical research on s
 
 The 1965 paper is not a team-building manual; it is a review that found the sequence across both "group structure" and "task activity" domains — the pattern of interpersonal relationships and the way the group handles the work itself ([same](https://athena.ecs.csus.edu/~buckley/CSc190/GROUP%20DEV%20ARTICLE.pdf)). The twelve years after 1965 brought studies that fit the model and extended it, and in 1977 Tuckman and Mary Ann Jensen reviewed that literature and added a fifth stage, adjourning, for the group's disengagement ([Tuckman and Jensen 1977, as described in the reprint](https://athena.ecs.csus.edu/~buckley/CSc190/GROUP%20DEV%20ARTICLE.pdf)). A widely used research summary notes that "over 50 years later, Tuckman's model is still cited and used within leadership courses and by organizational development experts" ([UCI TSAL lesson page](https://tsal.uci.edu/lesson/evolution-of-a-team/)).
 
-### Why the compendium holds it
+### Why I hold it
 
 The model is useful to the flourishing project for a plain reason: it tells a group that conflict is a stage, not a verdict. A storming group that knows the sequence can read its own friction as movement rather than failure.
 

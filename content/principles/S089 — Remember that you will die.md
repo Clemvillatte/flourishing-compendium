@@ -24,7 +24,7 @@ The same book carries the equalising thought behind it:
 >
 > (Meditations II.14)
 
-The compendium uses Marcus's reminders to examine priorities: what deserves attention today if tomorrow is uncertain?
+I use Marcus's reminders to examine priorities: what deserves attention today if tomorrow is uncertain?
 
 (Marcus Aurelius, Meditations II.11, II.14, George Long translation.)
 

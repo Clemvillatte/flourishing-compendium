@@ -18,7 +18,7 @@ The word was invented to mark a difference: "The word was coined in South Africa
 
 The moral core is the direction of the cost. As Gandhi writes in the same chapter: "Everybody admits that sacrifice of self is infinitely superior to sacrifice of other. Moreover, if this kind of force is used in a cause that is unjust, only the person using it suffers." Gandhi presents bearing the suffering oneself as the method's safeguard against one's own error: if the cause is unjust, the person who was wrong is the one who pays. The force itself is described in the chapter on brute force versus love-force: "The force implied in this may be described as love-force, soul-force, or, more popularly but less accurately, passive resistance. This force is indestructible." (Hind Swaraj, ch. XVI)
 
-### In the compendium
+### Here
 
 - [[D069 — Don't meet force with force]] — the principle that carries the method
 - [[D132 — If you must fight, grieve — never gloat]] — the spirit in which a satyagrahi engages an opponent
@@ -27,7 +27,7 @@ The moral core is the direction of the cost. As Gandhi writes in the same chapte
 
 - [[Ahimsa]] — the non-violence that makes holding to truth possible without harming the opponent
 - [[Courage — action despite fear]] — the method is "not conceived as a weapon of the weak"; the courage pages are its natural companions
-- [[Ordering the soul]] — a comparison, not a claim of influence: the compendium's pages on ruling the self sit naturally beside a method that asks the actor to absorb the cost
+- [[Ordering the soul]] — a comparison, not a claim of influence: my pages on ruling the self sit naturally beside a method that asks the actor to absorb the cost
 
 ## Sources
 

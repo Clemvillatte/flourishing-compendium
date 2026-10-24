@@ -10,9 +10,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Savoring is the capacity to attend to, appreciate, and amplify positive experience: the deliberate up-regulation of good feeling by directing attention to emotionally relevant events in the past (reminiscence), the present (savoring proper), and the future (anticipation) ([Bryant, Oxford Research Encyclopedia entry](https://academic.oup.com/reference/62403/reference-article/555481967); [Bryant & Veroff, 2007, via Wikipedia summary](https://en.wikipedia.org/wiki/Savoring)). It was introduced as a construct by Fred Bryant in the 1980s precisely because psychology had mapped misery in fine detail and had almost nothing to say about how people enjoy; a 2024 review of nine randomised trials in adults with mental or physical health difficulties found savouring-based interventions promoted some positive changes (increased well-being, reduced depression and anxiety), with benefits clearer against no-intervention controls than active ones ([Springer systematic review of savouring interventions](https://link.springer.com/article/10.1007/s41042-024-00182-1)).
 
-The mechanism is attention, not acquisition: the savoring person does not add anything to life but stops the good moment from passing unnoticed, which is why the compendium treats it as the positive-side twin of mindfulness. Its enemies are hurry and adaptation: [[Hedonic adaptation]] flattens repeated pleasures, and distraction dissolves them.
+The mechanism is attention, not acquisition: the savoring person does not add anything to life but stops the good moment from passing unnoticed, which is why I treat it as the positive-side twin of mindfulness. Its enemies are hurry and adaptation: [[Hedonic adaptation]] flattens repeated pleasures, and distraction dissolves them.
 
-The compendium's principles carrying it:
+My principles carrying it:
 
 - [[AF062 — Savour positive experiences — deliberately attend to and amplify them]]
 - [[PP012 — Savor positive experience]]

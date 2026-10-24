@@ -17,7 +17,7 @@ The mind is the body in action. Sleep is the strand with the strongest experimen
 > "Sleep loss reliably triggers changes in negative (aversive) emotional processing, including irritability, emotional volatility, anxiety and aggression, as well as suicidal ideation, suicide attempts and suicide completion."
 > (Krause et al., The sleep-deprived human brain, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143346/))
 
-A meta-analysis of the mood findings quantifies the direction: sleep loss "moderately increases negative mood states... and has a large, diminishing effect on positive mood states" (Tomaso, Johnson and Nelson, 2021). The compendium's application: when mood or thinking changes, check the physiological basics before interpreting the change as psychological news. (Tomaso, Johnson and Nelson, 2021.)
+A meta-analysis of the mood findings quantifies the direction: sleep loss "moderately increases negative mood states... and has a large, diminishing effect on positive mood states" (Tomaso, Johnson and Nelson, 2021). My application: when mood or thinking changes, check the physiological basics before interpreting the change as psychological news. (Tomaso, Johnson and Nelson, 2021.)
 
 **Plain words** One strand of the evidence, stated plainly: sleep loss reliably changes emotional processing, and the meta-analytic summary is that it moderately increases negative mood and largely diminishes positive mood. An everyday application: when mood or thinking shifts, check the physiological basics first (sleep, food, movement, illness) before treating the shift as psychological news.
 

@@ -11,7 +11,7 @@ The unity of the soul is Plato's definition of justice in Republic IV, Book IV o
 
 ### The passage
 
-The definition runs in three sentences, and the third is the image the compendium keeps:
+The definition runs in three sentences, and the third is the image I keep:
 
 > "The just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others; he sets in order his own inner life, and is his own master and his own law, and at peace with himself; and when he has bound together the three principles within him, which may be compared to the higher, lower, and middle notes of the scale, and the intermediate intervals — when he has bound all these together, and is no longer many, but has become one entirely temperate and perfectly adjusted nature, then he proceeds to act."
 
@@ -19,7 +19,7 @@ The definition runs in three sentences, and the third is the image the compendiu
 
 Two things distinguish the claim. First, unity is not simplicity: the just person still has all three parts, each doing its own work, and the unity is a harmony rather than a reduction. Second, the measure of the unity is action, since the acting comes after the binding together rather than before.
 
-### In the compendium
+### Here
 
 The concept anchors the identity-integration work, and the research there is more modest than the Platonic claim. In Showers' work on self-structure, an integrative organization, one that mixes strengths and weaknesses within each self-aspect, "may offer greater stability, increased resilience, and a means of coping with extreme stress," while compartmentalized structures are "typically associated with the highest levels of self-esteem" but "may be vulnerable to instability" ([Showers and Zeigler-Hill 2007, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2007.00472.x/full)). The Platonic page supplies the normative version of what that research measures.
 

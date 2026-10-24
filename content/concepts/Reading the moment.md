@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Reading the moment” — the Zhouyi, the Book of Changes' timing tradition.
 
-The label is the compendium's summary, and the original entry names a tradition without a passage. The Zhouyi (Changes of Zhou) is the core text of the Yijing, and its commentaries (the Ten Wings) develop the idea of acting in tune with the configuration of the moment. The account below rests on two Stanford Encyclopedia of Philosophy entries.
+The label is my summary, and the original entry names a tradition without a passage. The Zhouyi (Changes of Zhou) is the core text of the Yijing, and its commentaries (the Ten Wings) develop the idea of acting in tune with the configuration of the moment. The account below rests on two Stanford Encyclopedia of Philosophy entries.
 
 ### The moment as a field of action
 
@@ -27,9 +27,9 @@ The commentator Wang Bi read the six lines as "room to maneuver", and the Stanfo
 
 ### What this page does not claim
 
-The sources are secondary and the Zhouyi text and the Ten Wings were not read directly. They describe a reflective use of the text and do not show that casting hexagrams predicts events. The "third kind of knowledge" and other links in the principles are the compendium's own bridges.
+The sources are secondary and the Zhouyi text and the Ten Wings were not read directly. They describe a reflective use of the text and do not show that casting hexagrams predicts events. The "third kind of knowledge" and other links in the principles are my own bridges.
 
-### In the compendium
+### Here
 
 - [[SP084 — Seek the third kind of knowledge directly]], [[B063 — See each thought-moment containing the whole (Tiantai)]] and [[A018 — Practice friendliness (philia)]] cite this concept.
 - [[P058 — Distinguish the I who acts from the Me who is known]], [[AF056 — Recognise disgust's function — it protects from contamination]] and [[M005 — Read the signs of the times humbly]] cite it as well.

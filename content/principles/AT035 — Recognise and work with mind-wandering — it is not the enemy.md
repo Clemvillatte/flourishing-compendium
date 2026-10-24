@@ -16,7 +16,7 @@ In Killingsworth and Gilbert's iPhone study, participants reported mind-wanderin
 
 > "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, 2010, [Science 330:932](https://pdodds.w3.uvm.edu/files/papers/others/everything/killingsworth2010a.pdf))
 
-Mooneyham and Schooler reviewed evidence of performance costs alongside possible roles in autobiographical planning and creative problem solving. The compendium reads these findings as reasons to consider when to follow an unrelated thought and when to return to the task. (Mooneyham & Schooler, 2013.)
+Mooneyham and Schooler reviewed evidence of performance costs alongside possible roles in autobiographical planning and creative problem solving. I read these findings as reasons to consider when to follow an unrelated thought and when to return to the task. (Mooneyham & Schooler, 2013.)
 
 > "However, emerging evidence suggests that the role of mind-wandering is not entirely pernicious. Recent studies have shown that mind-wandering may play a crucial role in both autobiographical planning and creative problem solving, thus providing at least two possible adaptive functions of the phenomenon." (Mooneyham & Schooler, 2013, [Canadian Journal of Experimental Psychology 67(1):11-18](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))
 

@@ -25,7 +25,7 @@ Nihilation, he writes, "manifests these beings in their full but heretofore conc
 
 Sorensen's Stanford Encyclopedia entry reports that Carnap quoted lines from the lecture, ending with "The Nothing itself nothings", and that the paragraph "became notorious as a specimen of metaphysical nonsense." Sorensen replies that "there is a difference between a failure to understand and an understanding of failure" and suggests Carnap should consider that Heidegger's sentences might be "illuminating nonsense" ([SEP, "Nothingness"](https://plato.stanford.edu/entries/nothingness/)). Other critics, he adds, think the passages carry too many meanings.
 
-### In the compendium
+### Here
 
 - [[D009 — Trust emptiness — space is what works]] lists this concept among its parallels from other traditions. The principle's own source is Daoist, and Heidegger's nothing is met in anxiety and not in the usefulness of empty space, so the link is a comparison and not an equivalence.
 

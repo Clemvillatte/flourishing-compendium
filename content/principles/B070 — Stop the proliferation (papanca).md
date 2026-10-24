@@ -20,7 +20,7 @@ The discourse connects this process with attachment and conflict, including argu
 
 ### Plain words
 
-The compendium suggests separating what happened from what you have added to it. Ask which details you know and which are guesses, then decide whether further reflection is answering a question or repeating an accusation. You need not stop all thinking to investigate how a story is growing.
+I suggest separating what happened from what you have added to it. Ask which details you know and which are guesses, then decide whether further reflection is answering a question or repeating an accusation. You need not stop all thinking to investigate how a story is growing.
 
 ### For example
 

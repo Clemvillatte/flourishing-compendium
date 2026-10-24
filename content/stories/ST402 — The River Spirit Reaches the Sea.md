@@ -18,7 +18,7 @@ Ruo says the river is now fit to be talked with: "A frog in a well cannot be tal
 
 The Earl then asks whether he should take heaven and earth as the standard of what is great and a hair's point as the standard of what is small. Ruo says no: "The (different) capacities of things are illimitable" ([Legge §3](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The sea does not offer itself as the new measure.
 
-The compendium reads this beside D106 and D128. The river is corrected by seeing something larger, and he says so plainly. The correction does not leave him with a bigger idol: his teacher declines to be one.
+I read this beside D106 and D128. The river is corrected by seeing something larger, and he says so plainly. The correction does not leave him with a bigger idol: his teacher declines to be one.
 
 Limits: the chapter ends the scene in dialogue, and the river's later life is not narrated. Telling someone their trouble is small beside the sea can shut down real pain, and the text does not address that use. Ruo's own speech is a long argument about relative size, and it is not clear that a person in distress could live by it.
 

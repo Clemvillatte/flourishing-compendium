@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Perception as interpretation” — Kant, Critique of Pure Reason.
 
-The label is the compendium's summary. Kant does not use the phrase. His claim in the Critique of Pure Reason (1781, 1787) is that knowing an object takes two cooperating powers, and that the mind contributes structure to what it experiences. The quotation is from J. M. D. Meiklejohn's English translation on Project Gutenberg, and the commentary from the Stanford Encyclopedia of Philosophy.
+The label is my summary. Kant does not use the phrase. His claim in the Critique of Pure Reason (1781, 1787) is that knowing an object takes two cooperating powers, and that the mind contributes structure to what it experiences. The quotation is from J. M. D. Meiklejohn's English translation on Project Gutenberg, and the commentary from the Stanford Encyclopedia of Philosophy.
 
 ### Two powers, both needed
 
@@ -19,15 +19,15 @@ Kant adds that "neither of these faculties has a preference over the other", and
 
 ### What the mind adds
 
-In the Stanford Encyclopedia's account of the transcendental deduction, Kant argues that the categories (concepts such as substance and cause) are necessary conditions of experience: "we could not have experience without the categories". Judging is described as an act of synthesis, which is "the action of putting different representations together with each other and comprehending their manifoldness in one cognition". This is the nearest Kant comes to the compendium's label: experience is partly made by the mind's own rules of combination.
+In the Stanford Encyclopedia's account of the transcendental deduction, Kant argues that the categories (concepts such as substance and cause) are necessary conditions of experience: "we could not have experience without the categories". Judging is described as an act of synthesis, which is "the action of putting different representations together with each other and comprehending their manifoldness in one cognition". This is the nearest Kant comes to my label: experience is partly made by the mind's own rules of combination.
 
 ### Limits of the label
 
 "Interpretation" can suggest that perception is a subjective guess that varies from person to person. Kant says something different. The categories apply with necessity to all objects we can experience, and the structure is the same in every human mind. The Stanford entry also notes the "central and most controversial thesis" that humans "experience only appearances, not things in themselves". The label therefore suits the view that perception is shaped by the mind, but not the idea that every reading of experience is equally valid.
 
-The link to modern psychology, such as predictive accounts of perception, is the compendium's bridge. The sources cited here are philosophical and do not test it.
+The link to modern psychology, such as predictive accounts of perception, is my bridge. The sources cited here are philosophical and do not test it.
 
-### In the compendium
+### Here
 
 - [[K001 — Return to experience before the labels]], [[BI053 — Cultivate interoceptive awareness — notice internal signals]] and [[E004 — Practise the lifeworld (Lebenswelt)]] cite this concept.
 - [[V2K-S01.09 — 9. Phenomenological Embodiment]], [[BI009 — Understand that interoception is the foundation of emotional awareness]] and [[CO001 — Understand that cognition is predictive, not passive]] cite it as well.

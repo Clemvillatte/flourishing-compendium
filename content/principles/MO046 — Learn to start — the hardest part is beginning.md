@@ -12,14 +12,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 46** — Learn to start: the hardest part is beginning
 
-Two claims meet in this principle. The first is Laozi's arithmetic: whatever is large was assembled from something small. The compendium takes from it that the whole task never has to be faced at once, only its first piece. The second is the research finding: Masicampo and Baumeister examined cognitive interference from unfulfilled goals and the effects of formulating specific plans.
+Two claims meet in this principle. The first is Laozi's arithmetic: whatever is large was assembled from something small. I take from it that the whole task never has to be faced at once, only its first piece. The second is the research finding: Masicampo and Baumeister examined cognitive interference from unfulfilled goals and the effects of formulating specific plans.
 
 > The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step.
 > (Daodejing 64, trans. Legge)
 
-Masicampo and Baumeister's abstract records that "Unfulfilled goals persist in the mind", and that "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects". Beginnings can be bad ones. The compendium's five-minute rule, commit to five minutes and see, is an exercise in that spirit, and is the compendium's own.
+Masicampo and Baumeister's abstract records that "Unfulfilled goals persist in the mind", and that "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects". Beginnings can be bad ones. My five-minute rule, commit to five minutes and see, is an exercise in that spirit, and is my own.
 
-**Plain words** Choose one unfinished task. Specify its next action and decide when and where you will try it. If you use the compendium's five-minute exercise, decide after five minutes whether to continue.
+**Plain words** Choose one unfinished task. Specify its next action and decide when and where you will try it. If you use my five-minute exercise, decide after five minutes whether to continue.
 
 *For example:* Imagine an essay that has been avoided for a week. The first move is not "write the essay" but "open the document after dinner and write one bad sentence"; the plan then has a time and a place.
 
@@ -45,4 +45,4 @@ Masicampo and Baumeister's abstract records that "Unfulfilled goals persist in t
 
 ## Practice
 
-- Start despite not feeling like it. The compendium's "5-minute rule": commit to just 5 minutes and see what happens.
+- Start despite not feeling like it. My "5-minute rule": commit to just 5 minutes and see what happens.

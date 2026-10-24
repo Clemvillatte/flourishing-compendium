@@ -27,9 +27,9 @@ Overt Behavior · Psychological science
 ## Related concepts
 
 - [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that choice architecture manipulates
-- [[Default effect theory]] — the compendium's page on default effects
-- [[Status quo bias]] — the compendium's page on status quo bias
-- [[Framing effects]] — the compendium's page on framing effects
+- [[Default effect theory]] — my page on default effects
+- [[Status quo bias]] — my page on status quo bias
+- [[Framing effects]] — my page on framing effects
 
 ## Sources
 

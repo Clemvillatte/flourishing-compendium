@@ -16,7 +16,7 @@ The theory spans two papers: James Gross and Robert Levenson defined emotional s
 
 The 1993 experiment behind the theory found a more complicated bodily picture than the shorthand "raised arousal" suggests: suppressors watching a disgust-eliciting film showed decreased heart rate and decreased somatic activity alongside increased blinking and signs of increased sympathetic nervous system activity, and suppression left their reported feelings untouched ([Gross and Levenson, 1993, abstract](https://pubmed.ncbi.nlm.nih.gov/8326473/)). The 2003 study then put the strategy in conversation: in unacquainted pairs of women discussing an upsetting topic, suppression increased blood pressure in both regulators and partners, and reduced rapport and relationship formation ([Butler et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12899316/)).
 
-### In the compendium
+### Here
 
 - [[AF031 — Regulate early, not late — timing matters more than intensity]] — the timing question the two strategies raise
 - [[AF026 — Prefer cognitive reappraisal over suppression when possible]] — in Butler's Study 1, suppression alone disrupted communication, while the reappraisal condition did not ([abstract](https://pubmed.ncbi.nlm.nih.gov/12899316/))

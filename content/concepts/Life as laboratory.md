@@ -7,7 +7,7 @@ file: "Life as laboratory"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-The compendium label "Life as laboratory" draws here on Addams's description of settlement work as an "experimental effort" ([Addams, Twenty Years at Hull-House, ch. VI, "The Subjective Necessity for Social Settlements"](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
+My label "Life as laboratory" draws on Addams's description of settlement work as an "experimental effort" ([Addams, Twenty Years at Hull-House, ch. VI, "The Subjective Necessity for Social Settlements"](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
 
 > "The Settlement then, is an experimental effort to aid in the solution of the social and industrial problems which are engendered by the modern conditions of life in a great city." (Addams, Twenty Years at Hull-House, ch. VI, "The Subjective Necessity for Social Settlements," [Gutenberg #1325](https://www.gutenberg.org/cache/epub/1325/pg1325.txt))
 

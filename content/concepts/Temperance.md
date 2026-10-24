@@ -17,9 +17,9 @@ Plato questions the expression "master of himself," since its master would also 
 
 Aristotle narrows the terrain: temperance "must be concerned with bodily pleasures, but not all even of these," specifically "touch and taste," the pleasures "that the other animals share in" ([Nicomachean Ethics III.10-12](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The temperate person desires moderately "the things that, being pleasant, make for health or for good condition"; the self-indulgent person "craves for all pleasant things...at the cost of everything else," and is pained by the craving itself — "it seems absurd to be pained for the sake of pleasure" ([Nicomachean Ethics III.10-12](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
-### In the compendium
+### Here
 
-The body principles give the modern instances: BI040 on caffeine, BI015 on sleep hygiene, BE042 on nutrition for mood and BE044 on limiting substances. The compendium's related entries extend the virtue as pairings: the Stoic dichotomy of control for desire's governance, habituation and habit for the training of disposition.
+The body principles give the modern instances: BI040 on caffeine, BI015 on sleep hygiene, BE042 on nutrition for mood and BE044 on limiting substances. My related entries extend the virtue as pairings: the Stoic dichotomy of control for desire's governance, habituation and habit for the training of disposition.
 
 ## Related concepts
 
@@ -29,7 +29,7 @@ The body principles give the modern instances: BI040 on caffeine, BI015 on sleep
 - [[Akrasia]] — acting against one's better judgment, the gap in self-command temperance addresses
 - [[Virtue]] — the class of excellences this belongs to
 - [[Desire]] — the material temperance orders rather than deletes
-- [[The dichotomy of control]] — the Stoic frame the compendium pairs with appetite's governance
+- [[The dichotomy of control]] — the Stoic frame I pair with appetite's governance
 - [[Habituation]] — how dispositions are trained, its companion entry
 - [[Habit]] — the everyday face of trained disposition
 - [[Ego depletion]] — the research program on self-control's limits

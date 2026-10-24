@@ -15,7 +15,7 @@ Psychological resilience theory is George Bonanno's account of what happens to m
 
 The theory's core distinction is between resilience and recovery, as the 2011 review states it: recovery connotes a response characterized by acute distress, moderate to severe levels of initial symptoms, and some difficulties meeting role obligations, abating over time with a return to baseline functioning, usually within one to two years after the event. By contrast, resilience is characterized by relatively minor and transient disruptions in functioning, with few if any marked effects on everyday functioning and routines. In the review's summary of the trajectory studies, typically the most common outcome following potentially traumatic events is a stable trajectory of healthy functioning or resilience: in the prospective spousal-loss study, resilience was the most common trajectory at 45.9 per cent; among breast cancer survivors it was 60.7 per cent. The review adds that the capacity for resilience is part and parcel of ordinary human capabilities, and that most people respond to even the most extreme stressors with minimal disruptions in overall functioning.
 
-### In the compendium
+### Here
 
 - [[AF013 — Train emotional recovery — the ability to return to baseline]] — carries the recovery-versus-resilience distinction from the same 2004 paper.
 - [[PP044 — Practise coping flexibility]] — Bonanno and Burton's regulatory flexibility theory, the process account of how the resilient trajectory is maintained.

@@ -15,7 +15,7 @@ Reduction as return is Edmund Husserl's phenomenological reduction, read with it
 
 The word reduction misleads if heard as diminution. Husserl's operation takes nothing away from the world; it declines to use the world's existence as a premise while inquiry looks at how the world is given. The suspended world, as the passage says, remains "a 'fact-world' of which we continue to be conscious." What the epoché bars is the use of "any judgement that concerns spatio-temporal existence" (§32). The return, once made, is also repeatable rather than final: the bracket goes on whenever the natural attitude reasserts itself, which for a finite perceiver is always.
 
-### In the compendium
+### Here
 
 - [[E012 — Practise the reduction as ongoing]] — keeps the bracket as a recurring practice rather than a one-time move
 - [[BI054 — Learn body scan meditation — systematic body awareness]] — a body-side cousin: attention led back through the given field

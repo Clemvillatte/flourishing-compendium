@@ -11,7 +11,7 @@ Encoding strategies are the ways a person works on new material while taking it 
 
 ### Depth and elaboration
 
-In their account, "greater 'depth' implies a greater degree of semantic or cognitive analysis". They add that after a stimulus is recognized, "it may undergo further processing by enrichment or elaboration", and give an example: "after a word is recognized, it may trigger associations, images or stories on the basis of the subject's past experience with the word" ([Craik and Lockhart, 1972](https://web.stanford.edu/class/psych205/papers/CraikLockhart72.pdf)). This is the part of the paper closest to the compendium's phrase "connecting to prior knowledge".
+In their account, "greater 'depth' implies a greater degree of semantic or cognitive analysis". They add that after a stimulus is recognized, "it may undergo further processing by enrichment or elaboration", and give an example: "after a word is recognized, it may trigger associations, images or stories on the basis of the subject's past experience with the word" ([Craik and Lockhart, 1972](https://web.stanford.edu/class/psych205/papers/CraikLockhart72.pdf)). This is the part of the paper closest to my phrase "connecting to prior knowledge".
 
 The authors also explain why they moved attention to the learner's own activity. Faced with inconsistencies in storage models, they found it "more useful to focus on the encoding operations themselves" ([Craik and Lockhart, 1972](https://web.stanford.edu/class/psych205/papers/CraikLockhart72.pdf)). Simply repeating material is, in their terms, "maintaining information at one level of processing", which is different from analysing it more deeply.
 
@@ -21,9 +21,9 @@ Lockhart and Craik's 1990 retrospective notes that research since 1972 "has enab
 
 ### Scope
 
-The 1972 paper describes a framework and does not offer a list of study techniques. The compendium's three-part list of elaboration, organisation and connecting to prior knowledge is a practical summary. The paper supports elaboration and depth. A separate claim about organisation as a strategy does not appear in the passages checked. The experiments are on word lists, which is far from learning a way of living.
+The 1972 paper describes a framework and does not offer a list of study techniques. My three-part list of elaboration, organisation and connecting to prior knowledge is a practical summary. The paper supports elaboration and depth. A separate claim about organisation as a strategy does not appear in the passages checked. The experiments are on word lists, which is far from learning a way of living.
 
-### In the compendium
+### Here
 
 - [[CO056 — Use memory deliberately — encoding and retrieval matter]] cites the 1972 paper at second hand, as the principle itself says. This page now backs the claim for elaboration and depth, and not for organisation.
 

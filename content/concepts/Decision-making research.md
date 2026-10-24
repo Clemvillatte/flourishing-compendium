@@ -17,7 +17,7 @@ The line the study runs on comes from Herbert Simon. As the Iyengar, Wells and S
 
 The wrinkle that keeps the strand honest, in the job-search study's own words: maximizing was "positively correlated with objectively better decision outcomes" and at the same time "associated with more negative subjective evaluations of these decision outcomes" ([Iyengar et al.](https://business.columbia.edu/sites/default/files-efs/pubfiles/874/874.pdf)).
 
-### In the compendium
+### Here
 
 - [[A032 — Cultivate good deliberation (euboulia)]] — Aristotle's question of what deliberating well consists in, answered by cases; the research tradition gives the same question measurable handles
 - [[A045 — Deliberate well]] — the principle's bound on deliberation, means rather than ends, meets the empirical finding that exhaustive search carries its own costs

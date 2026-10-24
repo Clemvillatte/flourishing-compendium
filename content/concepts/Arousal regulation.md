@@ -25,7 +25,7 @@ For the easy discrimination, learning was faster at higher tested stimulus stren
 
 These results concern electrical-stimulus intensity and discrimination learning in mice, not tests of human arousal-regulation techniques ([Yerkes and Dodson, 1908](https://psychclassics.yorku.ca/Yerkes/Law/)).
 
-### In the compendium
+### Here
 
 - [[B081 — Meet dullness with energy (hindrance 3)]]
 - [[Y021 — Diagnose the mind's state before choosing a practice]]

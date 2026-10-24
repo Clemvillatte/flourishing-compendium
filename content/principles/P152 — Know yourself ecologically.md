@@ -20,13 +20,13 @@ Whitehead's categoreal scheme states the ecological point as an ontological rule
 
 The body is Whitehead's own worked example: perception is traced "to their root in physical prehensions expressed by the 'withness of the body'" (p. 64). The body is not a container the self happens to occupy; in his account perception is rooted in the body's withness.
 
-The compendium's application: the self of the principle is the relational one. Food, place, people, organisms, and atmosphere are the relations that do the synthesizing, and acting for the web is acting for what you are.
+My application: the self of the principle is the relational one. Food, place, people, organisms, and atmosphere are the relations that do the synthesizing, and acting for the web is acting for what you are.
 
 **Plain words**
-"Environment" is not what surrounds you; on this account it is what continues you. The relations to food, place, people, organisms, and atmosphere are constitutive rather than incidental. The compendium's exercise: list the five relations and write one current fact about each, then note which one you have been treating as scenery.
+"Environment" is not what surrounds you; on this account it is what continues you. The relations to food, place, people, organisms, and atmosphere are constitutive rather than incidental. My exercise: list the five relations and write one current fact about each, then note which one you have been treating as scenery.
 
 *For example:*
-Consider asking of any mood or afternoon which relations produced it: the meal, the street, the people present. On the compendium's reading the question is Whitehead's rule applied, the self as the community of the functionings rather than the skin-bounded unit.
+Consider asking of any mood or afternoon which relations produced it: the meal, the street, the people present. On my reading the question is Whitehead's rule applied, the self as the community of the functionings rather than the skin-bounded unit.
 
 ## Sources
 

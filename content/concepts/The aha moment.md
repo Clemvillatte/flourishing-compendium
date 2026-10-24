@@ -19,7 +19,7 @@ The review's own point about the timing: "Insight is sudden, but it is preceded 
 
 ### The honest limits
 
-The PMC review of the field notes the two caveats the compendium holds: "a successful restructuring does not necessarily imply a correct conceptualization of the full nature of the problem, and an answer obtained by insight need not necessarily be correct" ([Current Understanding of the Insight Phenomenon, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715918/)). The aha is a felt restructuring, and the feeling is evidence of the restructuring, not of the truth of what arrived.
+The PMC review of the field notes the two caveats I hold: "a successful restructuring does not necessarily imply a correct conceptualization of the full nature of the problem, and an answer obtained by insight need not necessarily be correct" ([Current Understanding of the Insight Phenomenon, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715918/)). The aha is a felt restructuring, and the feeling is evidence of the restructuring, not of the truth of what arrived.
 
 ## Related concepts
 

@@ -32,7 +32,7 @@ Burke's passage is not a recommendation to seek danger. His own wording is condi
 
 - **and beautiful** — Burke; Kant, Critique of Judgement
 
-### In the compendium
+### Here
 
 - [[AF064 — Cultivate awe — it expands the self by diminishing it]]
 - [[AT040 — Recognise the restorative power of awe — vastness expands attention]]

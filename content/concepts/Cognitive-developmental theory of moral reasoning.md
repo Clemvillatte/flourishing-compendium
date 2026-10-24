@@ -15,7 +15,7 @@ The cognitive-developmental theory of moral reasoning holds that moral judgment 
 
 Kohlberg's table names the three levels as "I. Preconventional level", "II. Conventional level" and "III. Postconventional, autonomous, or principled level", with six stages: "Stage 1: The punishment-and-obedience orientation", "Stage 2: The instrumental-relativist orientation", "Stage 3: The interpersonal concordance or 'good boy—nice girl' orientation", "Stage 4: The 'law and order' orientation", "Stage 5: The social contract, legalistic orientation" and "Stage 6: The universal-ethical-principle orientation" ([Table 1, p. 49](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)). The run from Stage 1 to Stage 6 is the theory's arc from punishment avoidance to universal principles. One longitudinal study Kohlberg describes in this account was "A 20-year study of 50 Chicago area boys, middle- and working class. Initially interviewed at ages 10-16, they have been reinterviewed at three-year intervals thereafter" ([Kohlberg 1975, p. 48](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)).
 
-### In the compendium
+### Here
 
 - [[R083 — Practise the face of the Other]]
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom]]

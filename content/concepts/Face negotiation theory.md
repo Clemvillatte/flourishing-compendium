@@ -15,7 +15,7 @@ Face negotiation theory is Stella Ting-Toomey's account of conflict as a negotia
 
 Face becomes an issue most in emotionally threatening or identity-vulnerable situations, when the situated identities of the communicators are called into question. The cultural value spectrums of individualism-collectivism and power distance shape facework concerns and styles: individualism and collectivism shape members' preferences for self-oriented face concern versus other-oriented or mutual-oriented concern. In conflict-style terms, self-face concern goes with dominating styles and other-face concern with avoiding and integrating styles.
 
-### In the compendium
+### Here
 
 - [[ST054 — Rembrandt Paints His Own Face]] — the story listed under this concept
 
@@ -26,7 +26,7 @@ Sociocultural · Psychological science
 ## Related concepts
 
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construal dimension the theory runs on
-- [[Politeness Theory]] — the other face-centered communication theory in the compendium
+- [[Politeness Theory]] — the other face-centered communication theory here
 
 ## Sources
 

@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The two granular pages carry the details: [[Knowing-how]] for the ability side and Ryle's dispositional analysis of skill, [[Knowing-that]] for the propositional side and the intellectualist reply. Ryle's own formulation of the difference: "Learning how or improving in ability is not like learning that or acquiring information. Truths can be imparted, procedures can only be inculcated, and while inculcation is a gradual process, imparting is relatively sudden" ([Ryle 1949: 46, quoted in SEP](https://plato.stanford.edu/entries/knowledge-how/)). The debate he started (anti-intellectualism versus intellectualism) is still live; the intellectualist holds that knowing-how is propositional knowledge under a practical mode of presentation ([SEP, Knowledge How](https://plato.stanford.edu/entries/knowledge-how/)).
 
-### In the compendium
+### Here
 
 - [[D072 — Learn by doing, not only by reading]] cites this distinction for its claim that practice teaches what texts cannot.
 

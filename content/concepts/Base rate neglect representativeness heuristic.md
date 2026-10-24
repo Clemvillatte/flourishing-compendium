@@ -19,14 +19,14 @@ The same paper names the cost: "One of the factors that have no effect on repres
 
 ### Why it matters for flourishing
 
-As an editorial suggestion rather than a tested finding: before judging a case by its story, ask how common each outcome is in the relevant population. The compendium's outside-view practices train exactly this move.
+As an editorial suggestion rather than a tested finding: before judging a case by its story, ask how common each outcome is in the relevant population. My outside-view practices train exactly this move.
 
 ## Related concepts
 
 - [[Representativeness heuristic]] — the parent shortcut
 - [[Prototype theory]] — the cognitive basis of similarity judgment
 - [[Induction from experience]] — where sample stories meet population frequencies
-- [[The prior probability of the world]] — the compendium's page for priors
+- [[The prior probability of the world]] — my page for priors
 - [[Availability heuristic]] — the sibling shortcut that trades on vividness
 
 ## Sources

@@ -16,7 +16,7 @@ For Levinas the address is dual: a command and a summons at once. The other's ex
 ## Related concepts
 
 
-- [[I and Thou]] — Buber's relation, paired with the face on the compendium's R083 parallels
+- [[I and Thou]] — Buber's relation, paired with the face on my R083 parallels
 - [[The look (le regard)]] — the gaze of the other, cited alongside the face on E035 and E067
 - [[E067]] — contrasts Levinas's face with the Sartrean look
 ## Sources

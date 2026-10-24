@@ -15,7 +15,7 @@ In the suttas the sequence runs: virtue, then guarding the sense doors, moderati
 
 ### The mechanism
 
-The sequence is load-bearing: the later capacities are built from the earlier ones, which is why the tradition treats skipping stages not as efficiency but as self-deception. The compendium's [[Eightfold Path]] is the same path paced for ordinary life.
+The sequence is load-bearing: the later capacities are built from the earlier ones, which is why the tradition treats skipping stages not as efficiency but as self-deception. My [[Eightfold Path]] is the same path paced for ordinary life.
 
 ### Gradual is not slow
 
@@ -27,7 +27,7 @@ One precept kept for one week before the second is added. (Illustrative scenario
 
 Its cross-tradition cognates are Aristotle's habituation (virtue built by repeated acts, [[The doctrine of the mean]]), Laozi's stepwise way, and its modern research cousin, [[Deliberate practice]].
 
-### In the compendium
+### Here
 
 - [[B029 — Follow the gradual training]] — the Buddhist form
 - [[K049 — Use the graduated structure; do not skip stages]] — the structure rule

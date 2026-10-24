@@ -15,9 +15,9 @@ The logic is easiest to see as three situations. A reward arrives without warnin
 
 ### Why it matters
 
-The error signal is not a curiosity; it is how learning gets its direction. In Schultz's framing, reward prediction errors drive the basic forms of learning about rewards and make organisms strive for more rewards, and the dopamine error "could be a teaching signal that affects neuronal plasticity in brain structures that are involved in reward learning, including the striatum, frontal cortex, and amygdala" ([Schultz 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4826767/)). A fully predicted reward teaches nothing, which is the punchline for the compendium's principles on arrival and expectation: the system that drives learning responds to surprise, not to possession.
+The error signal is not a curiosity; it is how learning gets its direction. In Schultz's framing, reward prediction errors drive the basic forms of learning about rewards and make organisms strive for more rewards, and the dopamine error "could be a teaching signal that affects neuronal plasticity in brain structures that are involved in reward learning, including the striatum, frontal cortex, and amygdala" ([Schultz 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4826767/)). A fully predicted reward teaches nothing, which is the punchline for my principles on arrival and expectation: the system that drives learning responds to surprise, not to possession.
 
-### In the compendium
+### Here
 
 - [[MO007 — Recognise that motivation is influenced by reward prediction error — surprise drives learning]] — the direct statement of the mechanism
 - [[AF018 — Understand that affect is regulated by reward prediction error, not by outcomes alone]] — the affect-side reading

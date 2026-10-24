@@ -15,7 +15,7 @@ Sandel's own phrasing, as the encyclopedia quotes him, has people thinking of th
 
 The idea cuts two ways for practice: the culture that made you is a resource, and it is also a constraint, since the attachments that constitute you are not all optional.
 
-### In the compendium
+### Here
 
 - [[SO004 — Treat culture as both a resource and a constraint]], [[ST256 — The Seventh Generation]] and [[SO012 — Use cultural values as a lens, not a cage]] are this concept's principle parallels
 

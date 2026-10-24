@@ -15,7 +15,7 @@ Frederic Bartlett's subjects retold a Native American story, "The War of the Gho
 
 The Loftus and Palmer follow-up showed the same openness from outside: merely describing a car crash as a "smash" rather than a "hit" shifted speed estimates.
 
-### In the compendium
+### Here
 
 - [[CO053 — Recognise that memory is reconstructive, not reproductive]] — lists the concept among its psychology parallels.
 

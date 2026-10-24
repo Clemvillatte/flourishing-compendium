@@ -15,9 +15,9 @@ Apophatic theology is the tradition of speaking of the highest things by taking 
 
 The treatise's aim is stated in its second chapter as a prayer: "We pray that we may come unto this Darkness which is beyond light, and, without seeing and without knowing, to see and to know that which is above vision and knowledge through the realization that by not-seeing and by unknowing we attain to true vision and knowledge." The procedure is subtraction, and the book's own image for it is sculptural: the seeker works like a carver who "abstract[s] or remove[s] all the surrounding material that hinders the vision which the marble conceals and, by that abstraction, bring[s] to light the hidden beauty." Where affirmative theology piles up attributions, the apophatic way removes them, on the theory that any name small enough to be true of the highest would make it small.
 
-The compendium keeps the method without the metaphysics: a practice of neti neti, of testing each formulation and releasing what it cannot hold, which is why the concept sits beside the not-this-not-that procedure rather than beside any doctrine.
+I keep the method without the metaphysics: a practice of neti neti, of testing each formulation and releasing what it cannot hold, which is why the concept sits beside the not-this-not-that procedure rather than beside any doctrine.
 
-### In the compendium
+### Here
 
 - [[Y088 — Run not this, not this as a procedure]] — the method as a runnable practice
 - [[D119 — Keep to the center — excess words exhaust]] — the economy of words the method enforces

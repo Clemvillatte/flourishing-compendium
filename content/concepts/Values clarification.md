@@ -15,7 +15,7 @@ The same paper defines the term: "In ACT, values are defined as chosen, verbally
 
 ### Direction, not target
 
-A goal can be reached and ticked off, such as running a marathon. A value, such as health or craft or presence, is a heading that produces goal after goal. That is why [[P158 — Choose values as directions, not destinations]] is the compendium's version of the idea. The method, in the same paper, is to use "exercises and journaling" to help a person "note and choose life directions in various domains (e.g., family, career, spirituality)" and to track what happens when they act on them.
+A goal can be reached and ticked off, such as running a marathon. A value, such as health or craft or presence, is a heading that produces goal after goal. That is why [[P158 — Choose values as directions, not destinations]] is my version of the idea. The method, in the same paper, is to use "exercises and journaling" to help a person "note and choose life directions in various domains (e.g., family, career, spirituality)" and to track what happens when they act on them.
 
 ### Chosen, not borrowed
 
@@ -29,7 +29,7 @@ It is not goal-setting and not a list of virtues to display. The question is onl
 
 On [[K404 — The values whiteboard]], write ten life domains, one sentence each beginning "I want to be someone who...", then circle the one with the sharpest gap between what is written and what last week looked like. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[E106 — Practise the revaluation of values]] — the Nietzschean cousin
 - [[PP081 — Cultivate psychological flexibility]] and [[AF046 — Know that tolerance is not the goal; valued living is]] — values as the reason to tolerate discomfort

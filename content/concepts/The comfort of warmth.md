@@ -15,7 +15,7 @@ In the Essays Montaigne several times notes what warmth does for him, and this p
 
 In "Of Experience" he recalls the German stoves of Augsburg and defends their heat against French hearths: the stove's heat is "always equal, constant, and universal, without flame, without smoke". He adds that "All heat that comes from the fire weakens and dulls me", and reports Evenus's saying that fire was the best condiment of life before choosing any other way of making himself warm. These are reports of his own constitution; the Essays offers them as self-observation.
 
-### In the compendium
+### Here
 
 - [[BI050 — Learn to use warm temperature — warmth is soothing]] — cites this Montaigne observation as its philosophy parallel while resting its claims on laboratory and sleep research into warmth
 

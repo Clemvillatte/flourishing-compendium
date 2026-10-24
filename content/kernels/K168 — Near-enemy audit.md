@@ -14,12 +14,12 @@ A check run on one's own good states, on the suspicion that a counterfeit is sit
 
 ### Protocol
 
-The audit form is the compendium's; the tests inside it are the classical ones, quoted in the Evidence section.
+The audit form is my; the tests inside it are the classical ones, quoted in the Evidence section.
 
 1. Name the state being practised: loving-kindness, compassion, gladness, or equanimity.
 2. Run its classical test. Ask whether the "loving-kindness" is producing selfish affection rather than making ill will subside; whether the "compassion" is producing sorrow rather than making cruelty subside; whether the "gladness" is producing merriment rather than making boredom subside; whether the "equanimity" is producing the unknowing kind rather than quieting resentment and approval.
 3. Where a counterfeit is found, name the shared signature it hides behind. The near enemies copy the outward look: seeing virtues, seeing failure, seeing success, ignoring faults and virtues.
-4. The everyday glosses in this page's seed, pity, indifference, comparison, attachment, are the compendium's translations of the classical states, not the classical terms themselves.
+4. The everyday glosses in this page's seed, pity, indifference, comparison, attachment, are my translations of the classical states, not the classical terms themselves.
 
 ### Evidence
 

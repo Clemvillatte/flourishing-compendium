@@ -15,11 +15,11 @@ The field's own definition of what is being tested:
 
 > "Disclosing information, thoughts, and feelings about personal and meaningful topics (experimental disclosure) is purported to have various health and psychological consequences (e.g., J. W. Pennebaker, 1993)." (Frattaroli 2006, [abstract, PubMed](https://pubmed.ncbi.nlm.nih.gov/17073523/))
 
-The honest reading of the effect size matters for the compendium, because the practice earns its place as a modest, near-free intervention: it asks for little equipment, and the moderator findings, including for the writing instructions themselves, mean the how is not a detail. The original entry's Smyth reference belongs to the same line of work as the earlier fixed-effects meta-analyses the abstract names. the abstract's own framing of the two earlier meta-analyses notes they "suggest that experimental disclosure has a positive and significant effect" while being limited in generalizability, and the new pooled estimate is small. Writing about meaningful personal experience is a real, small, reliable effect, not a cure, and it depends on moderators the meta-analysis went on to identify.
+The honest reading of the effect size matters here, because the practice earns its place as a modest, near-free intervention: it asks for little equipment, and the moderator findings, including for the writing instructions themselves, mean the how is not a detail. The original entry's Smyth reference belongs to the same line of work as the earlier fixed-effects meta-analyses the abstract names. the abstract's own framing of the two earlier meta-analyses notes they "suggest that experimental disclosure has a positive and significant effect" while being limited in generalizability, and the new pooled estimate is small. Writing about meaningful personal experience is a real, small, reliable effect, not a cure, and it depends on moderators the meta-analysis went on to identify.
 
 **Plain words** Writing down what happened and what you felt about it, honestly, for a while, does something measurable to health and mood — something small but real, repeatable across many studies.
 
-### In the compendium
+### Here
 
 - [[S122 — Keep a journal]]: the principle that turns the practice into a rule
 - [[Reflective practice]]: the everyday form this research sits under

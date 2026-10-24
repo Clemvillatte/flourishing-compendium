@@ -18,9 +18,9 @@ The chapter applies the rule to courage directly, through danger and habituation
 
 > by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly. — Aristotle, Nicomachean Ethics II.1, Ross translation, [Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)
 
-The same chapter notes that the virtues are got by first exercising them, as with the arts. The compendium compares this account with its own small-steps practices, from shaping to graded exposure.
+The same chapter notes that the virtues are got by first exercising them, as with the arts. I compare this account with its own small-steps practices, from shaping to graded exposure.
 
-### In the compendium
+### Here
 
 - [[A004 — Become virtuous by doing virtuous acts]] — virtue by doing.
 - [[ST318 — The VIA Classification]] — the VIA story.

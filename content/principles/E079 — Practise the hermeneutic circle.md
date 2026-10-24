@@ -23,7 +23,7 @@ He explains how interpretation can take up this possibility:
 (Heidegger, 1927/1962, Being and Time, §32, M&R p. 195.)
 
 **Plain words**
-The compendium uses this passage as an exercise in checking a first reading. Write down what you expected before revisiting an event. Look for details your account leaves unexplained, and consider whether they require a different reading. Keep any uncertainty visible.
+I use this passage as an exercise in checking a first reading. Write down what you expected before revisiting an event. Look for details your account leaves unexplained, and consider whether they require a different reading. Keep any uncertainty visible.
 
 *For example:* Suppose you enter a meeting expecting a colleague to dismiss your proposal. Afterward, compare that expectation with their actual words. If they raised an objection and also asked how the proposal could be improved, include both in your account before deciding what the exchange meant.
 

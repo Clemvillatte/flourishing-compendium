@@ -7,7 +7,7 @@ file: "Plain words over beautiful"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-"Plain words over beautiful" is the compendium's name for a preference stated in the closing chapter of the Daodejing: truthful speech does not need ornament, and ornament can cover untruth. The chapter is the book's last word on how to talk about the Dao it opened by calling unnameable.
+"Plain words over beautiful" is my name for a preference stated in the closing chapter of the Daodejing: truthful speech does not need ornament, and ornament can cover untruth. The chapter is the book's last word on how to talk about the Dao it opened by calling unnameable.
 
 > "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it." (Daodejing 81, Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
@@ -15,9 +15,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The speech warning travels with two others in the same chapter: the disputatious are not skilled, and the extensively learned do not know. The chapter offers the three pairings without arguing them, which fits its own warning against disputation. Its closing lines extend the same preference to possession: the sage does not accumulate for himself, and the more he expends for others, the more he possesses of his own.
 
-The Buddhist parallel the compendium pairs with this page runs a gate instead of a preference. B146's test asks four questions of speech before it leaves: is it true, is it timely, is it beneficial, is it gentle. On B146's own analysis, truth and benefit are required, endearment is not, and even what passes waits for its time.
+The Buddhist parallel I pair with this page runs a gate instead of a preference. B146's test asks four questions of speech before it leaves: is it true, is it timely, is it beneficial, is it gentle. On B146's own analysis, truth and benefit are required, endearment is not, and even what passes waits for its time.
 
-### In the compendium
+### Here
 
 - [[D122 — Prefer plain words to beautiful ones]] — the dedicated Daoist principle.
 - [[B146 — Test speech before it leaves]] — the Buddhist four-question gate (true, timely, beneficial, gentle), citing this page as its parallel.

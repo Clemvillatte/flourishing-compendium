@@ -19,7 +19,7 @@ The tradition is explicit that the virtue is not material support. Asked what fi
 
 The same chapter presses the point inward: when the young take on the elders' troublesome affairs and serve them first with wine and food, that alone is not yet filial piety, "the difficulty is with the countenance" (2.8). The face, not the ledger, is where reverence shows.
 
-### In the compendium
+### Here
 
 - [[R058 — Practise filial piety (xiao)]] — the principle that carries the practice
 - [[R016 — Practise connection to family and kinship]] — the broader kinship practice xiao sits inside

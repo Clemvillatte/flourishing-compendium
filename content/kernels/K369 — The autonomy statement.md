@@ -46,7 +46,7 @@ What the sources do not test: the quoted passages explain autonomy support; they
 - [[P041 — Set ends-in-view, and revise them|P041 Set ends-in-view, and revise them]] — **grounding**: the decision stays with the person whose ends they are.
 ## Psychology parallels
 
-- Autonomy support is a core stance in the quoted MI account; the specific self-use phrasing here is the compendium's adaptation.
+- Autonomy support is a core stance in the quoted MI account; the specific self-use phrasing here is my adaptation.
 
 ## Related concepts
 

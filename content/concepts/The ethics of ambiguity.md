@@ -19,7 +19,7 @@ The ambiguity is not solved but lived, and the failure to live it takes recogniz
 
 The other half is the social one. Freedom is not private property: "freedom always appears as a movement of liberation. It is only by prolonging itself through the freedom of others that it manages to surpass death itself and to realize itself as an indefinite unity" (Beauvoir, The Ethics of Ambiguity, Part I, [marxists.org](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm)). A freedom that wills only itself, treating other people as scenery, cuts the line it hangs from.
 
-The compendium's E070 principle practises this as a check on self-demands: the parent who insists on being either devoted or independent is demanding that the ambiguity resolve, and the suffering spikes with the demand. Naming the both-ness is the ethical act Beauvoir recommends.
+My E070 principle practises this as a check on self-demands: the parent who insists on being either devoted or independent is demanding that the ambiguity resolve, and the suffering spikes with the demand. Naming the both-ness is the ethical act Beauvoir recommends.
 
 ### Related concepts
 

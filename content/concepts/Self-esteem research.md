@@ -19,7 +19,7 @@ A review summarising this programme lists the four markers. Genuine high self-es
 
 The two forms behave differently. "Conversely, secure and well-anchored self-esteem does not require continual validation, is not highly vulnerable to threats, and reflects assertive feelings of self-worth associated to positive psychological adjustment and well-being" (Cameranesi & Piotrowski, 2017). Instability, by contrast, changes what self-esteem level predicts: "Unstable self-esteem was found to moderate the associations between self-esteem levels and global distress, depression, hopelessness, rejection sensitivity, negative affect, anxiety, hostility, interpersonal sensitivity, hostility, verbal and physical aggression, and psychological well-being" (Cameranesi & Piotrowski, 2017).
 
-The compendium's specific page for this programme is [[Fragile vs secure high self-esteem (Kernis)]].
+My specific page for this programme is [[Fragile vs secure high self-esteem (Kernis)]].
 
 ## Related concepts
 

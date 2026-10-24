@@ -19,7 +19,7 @@ The abstract says the consequences of the need for closure derive from two tende
 
 Because it is both a stable individual difference and a state that situations can evoke, the same person can vary in this motive across circumstances. The abstract does not say which situations raise it, and this page makes no claim about them.
 
-### In the compendium
+### Here
 
 - [[P017 — Suspend dogma — practice systematic open-mindedness]]
 - [[CO072 — Cultivate cognitive endurance — thinking is effortful and can be trained]]

@@ -7,7 +7,7 @@ file: "Psychoanalysis"
 tags: ["psych/clinical", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
-Psychoanalysis is the theory and method Sigmund Freud built out of his clinical work with neurotic patients: unconscious conflict, the defences raised against it, and the transference that forms between patient and analyst are the materials through which psychic fixations are revealed and released. Its structural account divides the mind into id, ego and superego, and reads symptoms as compromises between wish and defence. The compendium also carries the same account under the name psychoanalytic theory.
+Psychoanalysis is the theory and method Sigmund Freud built out of his clinical work with neurotic patients: unconscious conflict, the defences raised against it, and the transference that forms between patient and analyst are the materials through which psychic fixations are revealed and released. Its structural account divides the mind into id, ego and superego, and reads symptoms as compromises between wish and defence. I also carry the same account under the name psychoanalytic theory.
 
 Freud stated the therapeutic aim in the New Introductory Lectures:
 
@@ -17,16 +17,16 @@ Freud stated the therapeutic aim in the New Introductory Lectures:
 
 The method began as the investigation of neurotic patients' minds and grew into a general psychology: dreams, slips of the tongue and symptoms are read as products of unconscious forces that influence everyday thoughts and actions. The aim is not to abolish the unconscious but to extend the ego's territory over it, hence the formula that gives the aim its shape: where id was, there ego shall be.
 
-### In the compendium
+### Here
 
 - [[SE009 — Know that self-knowledge is limited — introspection is fallible]] — psychoanalysis is the clinical tradition that made the limits of introspection its starting point.
 - [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] — the experimental-psychology version of the same claim.
 - [[E044 — Practise anxiety (Angst)]] — Heidegger's anxiety as a fundamental mood, contrasted with the psychoanalytic treatment of anxiety as symptom.
 - [[E065 — Practise noogenic neurosis awareness]] — Frankl's boundary: neuroses that emerge from existential problems, not conflicts between drives.
 - [[E105 — Practise amor fati]] — Nietzsche's formula of amor fati, willing one's fate.
-- [[X015 — Study the commanding self as your specific opponent]] — the Qur'an's account of the soul that enjoins evil; the compendium's comparison from the Islamic tradition.
+- [[X015 — Study the commanding self as your specific opponent]] — the Qur'an's account of the soul that enjoins evil; my comparison from the Islamic tradition.
 - [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — mindfulness of body, feelings, mind and phenomena as an attentional practice the analytic frame contrasts.
-- [[BE057 — Learn to use physical touch appropriately — touch is connection]] — the therapeutic-frame page the compendium pairs here.
+- [[BE057 — Learn to use physical touch appropriately — touch is connection]] — the therapeutic-frame page I pair here.
 
 ## Field
 

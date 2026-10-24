@@ -15,7 +15,7 @@ Mutual recognition is Hegel's name for the relation in which each self becomes f
 
 The relation is symmetrical, not one-way: "They recognize themselves as mutually recognizing one another" (§ 184). And it is born in struggle: "In so far as it is the other's action, each aims at the destruction and death of the other. But in this there is implicated also the second kind of action, self-activity; for the former implies that it risks its own life" (§ 187). What the master-slave dialectic then shows is that one-sided recognition collapses, and only mutual recognition holds.
 
-The compendium's [[ST228 — Sawubona]], the Zulu greeting that says "I see you," is the everyday form of the claim. [[A067 — Practise equality in friendship]] states the practice: recognition only works between equals.
+My [[ST228 — Sawubona]], the Zulu greeting that says "I see you," is the everyday form of the claim. [[A067 — Practise equality in friendship]] states the practice: recognition only works between equals.
 
 ## Related concepts
 

@@ -31,14 +31,14 @@ The body's typical mode of existence is "being-toward-the-world"; the SEP accoun
 - **The intentional arc** — perception tying past, future and situation into one field. See [[Embodied perception]], [[Skillful coping]].
 - **Flesh and chiasm** — the late ontology of the sensible-sentient. See [[Flesh (chair)]], [[The chiasm]], [[Reversibility]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[The body-subject]]
 - [[Motor intentionality]]
 - [[Embodiment]]
 - [[Flesh (chair)]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 73-entry surname-match floor is not reproduced.
 

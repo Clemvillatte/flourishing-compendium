@@ -31,17 +31,17 @@ The same article records the distinction Heidegger draws:
 
 > "Heidegger classifies it as authentic when someone pays attention to that influence and decides independently whether to go along with it or not." ([Wikipedia, Heideggerian terminology](https://en.wikipedia.org/wiki/Heideggerian_terminology))
 
-### In the compendium
+### Here
 
 - [[E026 — Practise being-with (Mitsein)]] — the principle takes Being-with as the starting point for a practice.
 - [[E009 — Practise intersubjectivity]] — the principle pairs Being-with with the intersubjectivity question.
 
 ## Related concepts
 
-- [[The relational self]] — the concept the compendium pairs with Heidegger's account of being-with.
+- [[The relational self]] — the concept I pair with Heidegger's account of being-with.
 - [[Being-in-the-world]] — the structure Being-with is part of.
 - [[Dasein]] — Heidegger's term for the being that Being-with characterises.
-- [[Intersubjectivity]] — the question the compendium pairs Being-with with.
+- [[Intersubjectivity]] — the question I pair Being-with with.
 
 ## Sources
 

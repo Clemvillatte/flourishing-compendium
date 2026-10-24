@@ -30,7 +30,7 @@ The proposed mechanism is informational: an emotion named precisely gives more g
 
 - [[Emotion differentiation]] — the construct's earlier name, still used interchangeably
 - [[Emotion as construction]] — Barrett's broader constructionist account of emotion
-- [[Naming the passions]] — the compendium's treatment of emotion vocabulary
+- [[Naming the passions]] — my treatment of emotion vocabulary
 
 ## Sources
 

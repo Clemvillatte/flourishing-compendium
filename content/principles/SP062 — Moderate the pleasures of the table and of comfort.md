@@ -18,7 +18,7 @@ Spinoza treats pleasure as a question of what it does to the body. In Ethics Par
 
 In the note to P45 he asks, "why is it more lawful to satiate one's hunger and thirst than to drive away one's melancholy?" and answers that it is "the part of a wise man to refresh and recreate himself with moderate and pleasant food and drink, and also with perfumes, with the soft beauty of growing plants, with dress, with music, with many sports, with theatres, and the like." Enjoyment is to be had "as much as possible (not to the point of satiety, for that would not be enjoyment)."
 
-The note to P44 shows the danger. When one emotion is attached to one part of the body, it "fix[es] the mind in the contemplation of one object", and Spinoza says "Avarice, Ambition, Lust, &c., are species of madness". The compendium's test for any comfort follows from this: does it spread the body's capacity around, or fix attention on one thing?
+The note to P44 shows the danger. When one emotion is attached to one part of the body, it "fix[es] the mind in the contemplation of one object", and Spinoza says "Avarice, Ambition, Lust, &c., are species of madness". My test for any comfort follows from this: does it spread the body's capacity around, or fix attention on one thing?
 
 (Ethics IV, P42-P45, trans. Elwes.)
 

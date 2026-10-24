@@ -11,17 +11,17 @@ Attention is the selection and sustaining of awareness. William James gave the c
 
 ### What attention builds and what it hides
 
-The selective part is not a metaphor. In the invisible-gorilla experiment, observers counting basketball passes failed to report a person in a gorilla suit walking through the game; many participants missed it, and the study's authors suggest that observers attend to objects and events rather than to spatial positions (Simons and Chabris 1999). Focused attention can leave even conspicuous, unexpected events unnoticed. The wiki's contemplative track makes a related claim as a comparison: if experience is assembled from what is attended to, then the attention trainings it separates as sati (mindful remembering), śamatha (collectedness) and anapanasati (mindfulness of breathing) are trainings of the raw material of the mind.
+The selective part is not a metaphor. In the invisible-gorilla experiment, observers counting basketball passes failed to report a person in a gorilla suit walking through the game; many participants missed it, and the study's authors suggest that observers attend to objects and events rather than to spatial positions (Simons and Chabris 1999). Focused attention can leave even conspicuous, unexpected events unnoticed. My contemplative track makes a related claim as a comparison: if experience is assembled from what is attended to, then the attention trainings it separates as sati (mindful remembering), śamatha (collectedness) and anapanasati (mindfulness of breathing) are trainings of the raw material of the mind.
 
 ### The moral face
 
-Simone Weil made attention an ethical capacity: "Attention is the rarest and purest form of generosity" ([letter to Joë Bousquet, 13 April 1942](https://en.wikiquote.org/wiki/Simone_Weil)). The line comes from a letter thanking the poet Joë Bousquet for truly attending to some pages she had shown him; she called that attention a free and generous gift. On that view, attending to another person without converting what you see into your own purposes is itself a giving. The wiki's active-listening principle (BE050) is the compendium's own comparison: attending fully to others as a practice.
+Simone Weil made attention an ethical capacity: "Attention is the rarest and purest form of generosity" ([letter to Joë Bousquet, 13 April 1942](https://en.wikiquote.org/wiki/Simone_Weil)). The line comes from a letter thanking the poet Joë Bousquet for truly attending to some pages she had shown him; she called that attention a free and generous gift. On that view, attending to another person without converting what you see into your own purposes is itself a giving. My active-listening principle (BE050) is my own comparison: attending fully to others as a practice.
 
 ### The scarce resource
 
-Herbert Simon named the modern condition in 1971: "a wealth of information creates a poverty of attention" (Designing Organizations for an Information-Rich World, pp. 40-41, as [collected here](https://www.jackvinson.com/blog/2008/05/07/information-overload-is-so-1971)). Attention is the currency the information economy spends, which is why the wiki treats managing it (AT062 on social media, AT028 on attentional energy, K190 flow block) as a flourishing skill rather than a productivity hack. Flow is the positive limit: absorption in what one is doing, for its own sake.
+Herbert Simon named the modern condition in 1971: "a wealth of information creates a poverty of attention" (Designing Organizations for an Information-Rich World, pp. 40-41, as [collected here](https://www.jackvinson.com/blog/2008/05/07/information-overload-is-so-1971)). Attention is the currency the information economy spends, which is why I treat managing it (AT062 on social media, AT028 on attentional energy, K190 flow block) as a flourishing skill rather than a productivity hack. Flow is the positive limit: absorption in what one is doing, for its own sake.
 
-### In the compendium
+### Here
 
 The concept anchors the attention track: AT054 trains attention through deliberate practice, Y048 steadies it on the breath, K106 grounds it in the five senses, R123 turns it outward ecologically, CO080 notes neurodivergent styles of it, BI001 notes its bodily base. The kernel and Y-track practices are listed in the Cited-in section below.
 

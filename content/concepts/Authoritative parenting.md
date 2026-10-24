@@ -19,7 +19,7 @@ The 1991 paper reports the Family Socialization and Developmental Competence pro
 
 The sample is described in the same abstract as 139 adolescents and their parents from a predominantly affluent, well-educated, Caucasian population. That scope limits what the study can be read as showing.
 
-### In the compendium
+### Here
 
 - [[A113 — Make your household a school of virtue]] — the principle on the household as a place where virtue is practised.
 - [[S138 — Practise Stoicism in your family life]] — the principle on Stoic discipline in family practice.

@@ -36,7 +36,7 @@ The evidence anyone can check is the reaction to a child in danger:
 - **Benevolent government** — rulers should govern through benevolence and moral persuasion rather than brute force; he resigned office rather than stay where his reforms were refused ([SEP, Mencius](https://plato.stanford.edu/entries/mencius/)). See [[M048 — Be a torch and a mirror|Be a torch and a mirror]], [[The mirror for others]].
 - **The five relationships** — the classical Confucian web of family and social duties his teaching presupposes. See [[R057 — Practise the five relationships|Practise the five relationships]], [[R058 — Practise filial piety (xiao)|Practise filial piety (xiao)]], [[ST243 — The Five Relationships|The Five Relationships]].
 
-## Everything connected in the wiki — the Confucian tradition
+## Everything connected here — the Confucian tradition
 
 Kept to the pages that carry or substantively apply Mencius's teaching: the virtues he named, the sprouts, and the Confucian practice principles.
 

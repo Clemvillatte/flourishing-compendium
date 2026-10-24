@@ -18,7 +18,7 @@ Addams described her mother's village, the free life there, and the hardship of 
 
 In another scene some Russian women from a nearby sewing room came one Christmas week for a party that was not on, and were "greatly disappointed" by the residents' impromptu music and refreshments. Shown the Labor Museum, "the thirty sodden, tired women" were transformed. "They knew how to use the spindles," and "from having been stupidly entertained, they themselves did the entertaining" ([Addams](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
 
-The compendium reads both scenes beside Dewey. The craft was in the box under the bed as something the daughter was ashamed of. It became a resource once it was shown as the past of her mother's present life, and once the visitors started from what they could already do.
+I read both scenes beside Dewey. The craft was in the box under the bed as something the daughter was ashamed of. It became a resource once it was shown as the past of her mother's present life, and once the visitors started from what they could already do.
 
 Limits: the account is Addams's alone, written ten years later, and Angelina's and her mother's voices are not in it. Addams admits there was something she "could not convey to the child."
 

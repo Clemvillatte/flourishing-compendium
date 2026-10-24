@@ -15,7 +15,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Striving (pursuing goals, improving) and contentment (being at peace with what is) are often treated as opposites. The claim here is that they can coexist: pursuing goals without being defined by them.
 
-The compendium places this beside a Daoist comparison. The Daodejing names a version of the coexistence in chapter 48:
+I place this beside a Daoist comparison. The Daodejing names a version of the coexistence in chapter 48:
 
 > He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do. (Laozi, Daodejing 48, Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
@@ -27,7 +27,7 @@ The passage is a philosophical comparison, not a claim that ambition stops produ
 
 ## Related concepts
 
-- [[T012 — Laozi]]: the Daoist comparison the page places beside the compendium's own claim.
+- [[T012 — Laozi]]: the Daoist comparison the page places beside my own claim.
 
 ## Sources
 

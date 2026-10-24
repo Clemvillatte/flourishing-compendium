@@ -13,9 +13,9 @@ The research literature defines the construct in two forms. A comprehensive revi
 
 The DBT module of the same name teaches that "pain and distress are an inevitable part of life, and unwillingness to accept this fact often leads to greater suffering", and shows patients "how to experience their current situation nonjudgmentally without attempting to change it"; accepting a situation "does not mean that they must approve of their current situation" (May, Richardi and Barth, [2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). Its skills "include both crisis survival and acceptance strategies", with crisis survival teaching "techniques for distracting, self-soothing, and adjusting their thoughts in the moment" (May, Richardi and Barth, [2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). The review also reports the construct as "purported to contribute to the development and maintenance of several forms of psychopathology (e.g., substance use, anxiety, mood, and personality disorders)" (Leyro et al., [2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)).
 
-The compendium reads the two-form definition as the hinge between feeling and action: the discomfort is one thing, and the act done while it continues is another. The training question is the second form.
+I read the two-form definition as the hinge between feeling and action: the discomfort is one thing, and the act done while it continues is another. The training question is the second form.
 
-### In the compendium
+### Here
 
 - [[BE036 — Learn to build tolerance for discomfort — approach despite discomfort]] — the behavioral act in the definition
 - [[B183 — Ride strong emotions without acting]] — withstanding the state without acting on it

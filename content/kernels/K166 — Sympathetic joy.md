@@ -14,7 +14,7 @@ When you see someone doing well, especially someone you might compare yourself t
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the concept is defined in the Buddhist ethics below.*
+*Steps are my own protocol; the concept is defined in the Buddhist ethics below.*
 
 1. When you notice another's success, especially where comparison bites, say the two words to yourself: good for them.
 2. If envy arrives first, name the envy, then say the words again; the practice is the repetition, not the absence of envy.

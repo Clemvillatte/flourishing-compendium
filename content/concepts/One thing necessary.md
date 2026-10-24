@@ -7,7 +7,7 @@ file: "One thing necessary"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-"One thing necessary" is the phrase in Luke 10:42, at the end of the story in which Martha, busy with hospitality, asks Jesus to tell her sister Mary to help, and Jesus answers her. The compendium uses the phrase for the idea of a single priority beneath many demands.
+"One thing necessary" is the phrase in Luke 10:42, at the end of the story in which Martha, busy with hospitality, asks Jesus to tell her sister Mary to help, and Jesus answers her. I use the phrase for the idea of a single priority beneath many demands.
 
 > "But the Lord answered her, 'Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.'" (Luke 10:41-42, English Standard Version, [Bible Gateway](https://www.biblegateway.com/passage/?search=Luke+10%3A41-42&version=ESV))
 
@@ -19,9 +19,9 @@ English versions differ because the manuscripts do. The New Revised Standard Ver
 
 The passage names the contrast between being "anxious and troubled about many things" and one thing needed. It does not say in these verses what the one thing is. Mary is described as one who "sat at Jesus's feet and listened to what he was saying" (NRSVUE v. 39), and her portion is called "good" or "better." Readings that turn this into a doctrine of contemplation over action are later interpretation, and this page does not draw on any commentary.
 
-### In the compendium
+### Here
 
-The principles below are linked by the compendium's original citation, which calls Luke 10:42 a cultural parallel. The links include Y063 (Hold one practice to steady the mind) and SP090 (Center your life on the highest good). Whether those principles state the same idea as Luke is a question for the reader, and the passage itself does not decide it.
+The principles below are linked by my original citation, which calls Luke 10:42 a cultural parallel. The links include Y063 (Hold one practice to steady the mind) and SP090 (Center your life on the highest good). Whether those principles state the same idea as Luke is a question for the reader, and the passage itself does not decide it.
 
 ## Related concepts
 

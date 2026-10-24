@@ -15,7 +15,7 @@ The rhythm of breath is the Daoist image of breathing as a deep, whole-body rhyt
 
 Giles, the translator, notes in the footnote to this passage that "uttermost depths" is literally "heels", and that commentators take the sentence to mean that pure men breathe with their whole being, "not as it were superficially, from the throat only".
 
-### In the compendium
+### Here
 
 - [[AT049 — Learn to use breath as an attentional anchor — always available, always stabilising]]
 - [[BI045 — Learn slow breathing — a direct autonomic regulator]]

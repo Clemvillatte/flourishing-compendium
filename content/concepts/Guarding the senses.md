@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
 
-Guarding the senses is the practice of taking care over what the eyes, ears and other senses take in, and over how the mind then reacts to it. Two ancient traditions in the compendium's sources state it in different ways, and they should not be merged into one idea.
+Guarding the senses is the practice of taking care over what the eyes, ears and other senses take in, and over how the mind then reacts to it. Two ancient traditions in my sources state it in different ways, and they should not be merged into one idea.
 
 ### In the Dhammapada
 
@@ -37,9 +37,9 @@ Chapter 12 uses the same human facts for a different argument. Legge's verse ren
 
 ### What the two share, and where they differ
 
-Both texts treat unbridled sensory appetite as costly. The Buddhist passages describe a trained way of meeting experience inside a monastic path. The Daoist chapter describes a cost of excess and a preference for what satisfies a basic need. The compendium's modern principles on phones, news and interruptions are applications of this theme; neither text speaks of them, and any claim that they do would be the compendium's own.
+Both texts treat unbridled sensory appetite as costly. The Buddhist passages describe a trained way of meeting experience inside a monastic path. The Daoist chapter describes a cost of excess and a preference for what satisfies a basic need. My modern principles on phones, news and interruptions are applications of this theme; neither text speaks of them, and any claim that they do would be my own.
 
-### In the compendium
+### Here
 
 - Y054 (Withdraw the senses on schedule) is the Yoga neighbour; see Pratyahara.
 - K006 treats the mind as the root of what follows.

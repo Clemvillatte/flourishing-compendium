@@ -31,14 +31,14 @@ Ricoeur kept one question in view: what can be attributed to a human being, give
 - **The ethical aim** — the good life with and for others in just institutions; solicitude near, justice far. See [[A001 — Make eudaimonia the organising end of your life|Make eudaimonia the organising end of your life]], [[Intersubjectivity|Intersubjectivity]], [[E085 — Practise the promise|Practise the promise]].
 - **Memory as interpretive** — testimony, blocked, manipulated and commanded memory; explanation and understanding woven together. See [[CO053 — Recognise that memory is reconstructive, not reproductive|Recognise that memory is reconstructive, not reproductive]], [[Reinterpretation of the past|Reinterpretation of the past]], [[E087 — Practise narrative repair|Practise narrative repair]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Narrative identity|Narrative identity]]
 - [[The hermeneutic circle|The hermeneutic circle]]
 - [[Idem and ipse|Idem and ipse]]
 - [[Hermeneutics of the self|Hermeneutics of the self]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 51-entry surname-match floor is not reproduced.
 

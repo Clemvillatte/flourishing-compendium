@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 23** — Separate self-esteem from vanity and self-abasement
 
-In the Definitions of the Emotions, Spinoza defines self-approval as pleasure arising from a man's contemplation of himself and his own power of action, and its two neighbours: pride, thinking too highly of oneself from self-love, and humility, pain arising from contemplation of one's own weakness of body or mind. ([Ethics, Definitions of the Emotions XXV–XXVIII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium's application is to separate what you know about your abilities from what you imagine other people think of them.
+In the Definitions of the Emotions, Spinoza defines self-approval as pleasure arising from a man's contemplation of himself and his own power of action, and its two neighbours: pride, thinking too highly of oneself from self-love, and humility, pain arising from contemplation of one's own weakness of body or mind. ([Ethics, Definitions of the Emotions XXV–XXVIII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) My application is to separate what you know about your abilities from what you imagine other people think of them.
 
 > "it may happen, that a man, sorrowfully regarding his own weakness, should imagine that he is despised by all men, while the rest of the world are thinking of nothing less than of despising him." (Ethics, Definitions of the Emotions XXVIII, Explanation, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 

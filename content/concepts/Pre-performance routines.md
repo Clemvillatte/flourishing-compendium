@@ -15,12 +15,12 @@ Pre-performance routines (PPRs) are the fixed sequences of breath, cue word, and
 
 The conclusion line is blunt: "Overall, the meta-analytic results support the benefits of the PPR intervention in practice regardless of the type of routine." The point under pressure is prevention: "the typical aim of using a PPR under pressure is to prevent performance failure or 'choking under pressure.'" The mechanism is attention — routines "reduce arousal in high-pressure situations," "ensur[e] consistency in the execution of skills," and "reduc[e] athlete self-awareness."
 
-The compendium's [[D070 — Let stillness precede mastery]] is the contemplative form of the same move: what you do in the seconds before the act is part of the act.
+My [[D070 — Let stillness precede mastery]] is the contemplative form of the same move: what you do in the seconds before the act is part of the act.
 
 ## Related concepts
 
 
-- [[D070 — Let stillness precede mastery]]: the compendium principle this research grounds
+- [[D070 — Let stillness precede mastery]]: my principle this research grounds
 - [[Implementation intentions]]: the if-then cousin for open-ended situations
 - [[The quiet eye]]: the gaze-side component of the same routine
 - [[Mental simulation research]]: the imagining that can substitute for physical rehearsal

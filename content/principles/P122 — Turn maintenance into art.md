@@ -20,7 +20,7 @@ Dewey describes a mechanic's work as artistic activity:
 
 His historical case is domestic: utensils, rugs, pots, and bows "were wrought with such delighted care that today we hunt them out and give them places of honor in our art museums. Yet in their own time and place, such things were enhancements of the processes of everyday life" (p. 6). The art museums hold the record of ordinary work done with care.
 
-The compendium proposes applying this description to a routine task.
+I propose applying this description to a routine task.
 
 **Plain words**
 Choose one maintenance task. Identify what doing it carefully would involve and how its tools and materials should be treated. Try that approach and describe your experience, including anything that prevented attentive work.

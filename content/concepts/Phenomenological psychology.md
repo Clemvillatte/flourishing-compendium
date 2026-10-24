@@ -19,7 +19,7 @@ Colaizzi's 1978 variant runs the same spirit through seven steps: "Colaizzi's (1
 
 The tradition's internal dividing line runs between description and interpretation. The descriptive camp, following Husserl and Giorgi, aims at the structure of an experience as it is given; the interpretive camp, drawing on Heidegger and hermeneutics, reads for meaning behind the account. The IEP marks the ambition of the descriptive side with a programmatic sentence: phenomenological psychology, as a science, "concerns itself with what is necessary and universal in human experience" ([IEP](https://iep.utm.edu/phen-psy/)). Critics from the interpretive side answer that pure description is not available, since the analyst's categories shape every step; the descriptive reply is that bracketing is a discipline, not a claim of innocence.
 
-### In the compendium
+### Here
 
 - [[E011 — Practise phenomenological description]] — the practice this page grounds methodologically
 - [[E001 — Practise the phenomenological reduction]] and [[E003 — Practise the natural attitude and its suspension]] — the reduction and the attitude it suspends

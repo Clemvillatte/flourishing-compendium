@@ -21,7 +21,7 @@ Shantideva's patience chapter argues that harmful actions arise through conditio
 
 (Bodhicaryavatara 6.33, Padmakara Translation Group, [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).)
 
-Here, the enquiry into conditions is part of a practice directed against anger, not an empirical finding that changing one circumstance will change a person's conduct. In applying it, the compendium keeps two questions available: what contributed to the action, and what response is now warranted? Understanding a condition need not settle the question of responsibility.
+Here, the enquiry into conditions is part of a practice directed against anger, not an empirical finding that changing one circumstance will change a person's conduct. In applying it, I keep two questions available: what contributed to the action, and what response is now warranted? Understanding a condition need not settle the question of responsibility.
 
 **Plain words** Before deciding that someone acted from a fixed bad character, ask what you know about the situation. What remains unknown? You can investigate that and still ask them to account for what they did.
 

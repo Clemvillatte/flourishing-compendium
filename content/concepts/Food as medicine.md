@@ -13,7 +13,7 @@ What the corpus does argue is that medicine began as the search for the right fo
 
 > "To such a discovery and investigation what more suitable name could one give than that of Medicine? since it was discovered for the health of man, for his nourishment and safety, as a substitute for that kind of diet by which pains, diseases, and deaths were occasioned." (Hippocrates, [On Ancient Medicine](https://classics.mit.edu/Hippocrates/ancimed.3.3.html), part 3, Francis Adams translation)
 
-### In the compendium
+### Here
 
 - [[BI007 — Recognise that the gut is connected to the brain — the gut-brain axis]]
 - [[BI034 — Learn to eat for gut health — fibre, fermented foods, diversity]]

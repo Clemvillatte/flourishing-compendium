@@ -18,7 +18,7 @@ Maslow distinguished the creativeness he associated with self-actualizing people
 
 ### A way of approaching the work
 
-Hansen also notes that Maslow did not regard self-actualization as necessary or sufficient for great artistic or scientific achievements. The title's “evidence of growth” therefore needs care: producing something does not prove psychological health. Hansen raises a further limit, asking whether Maslow's preferred traits generalize beyond his cultural setting. The compendium draws a modest invitation from this account: consider how you approach an ordinary task before deciding that creativity belongs only to artists.
+Hansen also notes that Maslow did not regard self-actualization as necessary or sufficient for great artistic or scientific achievements. The title's “evidence of growth” therefore needs care: producing something does not prove psychological health. Hansen raises a further limit, asking whether Maslow's preferred traits generalize beyond his cultural setting. I draw a modest invitation from this account: consider how you approach an ordinary task before deciding that creativity belongs only to artists.
 
 (Maslow, Toward a Psychology of Being, 1962.)
 

@@ -17,7 +17,7 @@ The Reinforcer Pathology Model is Warren Bickel's behavioral-economic account of
 
 The discounting side is measured directly: "The second process, excessive preference for immediate rewards, is measured by delay discounting, a task that ascertains the extent of the decrease in value of a reinforcer as a function of the delay to its receipt". Later versions of the model treat that discounting as a temporal window over which reinforcer value is integrated, so that a narrow window raises the value of brief intense reinforcers and lowers that of extended ones.
 
-### In the compendium
+### Here
 
 - [[D020 — Know where to stop (chizhi)]]
 - [[MO043 — Recognise the role of reward in habit formation — immediate rewards work]]

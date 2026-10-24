@@ -9,9 +9,9 @@ Speech is where most harm is done and most can be prevented, at very little cost
 - Truthful speech: held in the truth-telling group below.
 - Right communication and speech ethics: the modern relatives, spread through the groups below.
 - Idle talk and gossip: the abstentions group below.
-- Listening: its own group below; listening is the other half of speech and the wiki treats it as a practice in its own right.
+- Listening: its own group below; listening is the other half of speech and I treat it as a practice in its own right.
 
-## The map: every entry the wiki holds on right speech
+## The map: the entries on right speech
 
 ### The path's own account
 
@@ -79,7 +79,7 @@ The path definition, in the Buddha's own words:
 
 [The three gates of speech](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20gates%20of%20speech): the popular three-question test, is it true, is it necessary, is it kind, with the attribution problem the card records: credited to Rumi never to a specific work, and possibly a misquote.
 
-[Speech gate](https://clemvillatte.github.io/flourishing-compendium/#card=Speech%20gate): the compendium's own name for the Buddhist check run before speaking, in its canonical Abhaya Sutta form, including the baby-on-the-lap image of why the gate exists.
+[Speech gate](https://clemvillatte.github.io/flourishing-compendium/#card=Speech%20gate): my own name for the Buddhist check run before speaking, in its canonical Abhaya Sutta form, including the baby-on-the-lap image of why the gate exists.
 
 [Wise speech criteria](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20speech%20criteria): the six-case test the Buddha gave Prince Abhaya, which holds truth and benefit apart from agreeableness and adds the time-sense.
 
@@ -209,7 +209,7 @@ The Abhaya Sutta's case list, by contrast, in its third case, admits words that 
 
 ::Variation:: What tends to need varying on this theme is the rush from impression to utterance: the volume mistaken for truth, the venting mistaken for honesty, the advice that relieves the speaker and burdens the hearer, and the fluency of a repeated claim mistaken for its being so. The adaptive direction is the gap between the stir and the saying: the words run through the gate of true, timely, beneficial, and kind, the listening done before the verdict, and the plain word preferred to the beautiful one.
 
-::Selection:: The compendium's selected practices on this theme, each a selected source of that variation:
+::Selection:: The practices I have selected as sources of that variation:
 
 1. [K208 — Speech gate](https://clemvillatte.github.io/flourishing-compendium/#card=K208%20%E2%80%94%20Speech%20gate): run the waiting words through the gate: factual, beneficial, timely, kind, in that order of refusal.
 
@@ -229,7 +229,7 @@ The Abhaya Sutta's case list, by contrast, in its third case, admits words that 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Words examined before they are believed
 

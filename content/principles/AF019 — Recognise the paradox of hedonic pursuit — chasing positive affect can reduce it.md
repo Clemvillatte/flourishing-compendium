@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 19** — Recognise the paradox of hedonic pursuit: chasing positive affect can reduce it
 
-Mauss and colleagues investigated whether valuing happiness can undermine happiness in particular circumstances. ([Mauss, Tamir, Anderson and Savino, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) The compendium uses these findings as a prompt to examine the standards we impose on our feelings.
+Mauss and colleagues investigated whether valuing happiness can undermine happiness in particular circumstances. ([Mauss, Tamir, Anderson and Savino, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) I use these findings as a prompt to examine the standards we impose on our feelings.
 
 (Mauss, Tamir, Anderson and Savino, "Can seeking happiness make people unhappy? Paradoxical effects of valuing happiness," Emotion 11(4), 2011; Ford et al., 2015.)
 

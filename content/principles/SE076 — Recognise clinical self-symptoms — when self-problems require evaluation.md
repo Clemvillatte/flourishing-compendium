@@ -23,7 +23,7 @@ Persistent, impairing self-problems, chronic feelings of worthlessness among the
 > - changes in appetite or weight
 > - feeling very tired or low in energy." ([WHO depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression))
 
-When a self-problem is persistent and impairing, the compendium's practical advice is to seek professional assessment rather than to treat it as a self-help project.
+When a self-problem is persistent and impairing, my practical advice is to seek professional assessment rather than to treat it as a self-help project.
 
 **Plain words** The WHO list above is what a depressive episode can look like from the inside: low self-worth that stays, hopelessness, changed sleep and energy. If that description fits what you live with, the practical move is a professional assessment.
 

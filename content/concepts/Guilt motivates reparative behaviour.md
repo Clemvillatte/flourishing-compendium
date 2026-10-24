@@ -15,9 +15,9 @@ The distinction is about focus. Guilt is pain about a behavior, "I did that bad 
 
 The consensus has limits worth naming. Later work argues that either emotion can be adaptive or maladaptive "depending on contextual factors and the regulation strategies used," and proposes redrawn criteria: guilt implies perceived "power and willingness to be harmful," shame implies perceived "lack of power" to meet one's ideal self ([PMC, Reconsidering the Differences](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/)).
 
-### In the compendium
+### Here
 
-The compendium works the guilt side and the shame side as a pair. AF054 recognises guilt's adaptive function directly, while AF053 and SE030 mark the shame boundary, shame is about the self, not the act, and E504 warns to spare a person shame in the first place. AF042 and BE022 supply the technique for when an emotion's urge is wrong, opposite action; MO011 keeps the motivation autonomous rather than compelled; CO076 adds the dissonance drive; and the Greek principles A021's aidos and A118's aischynē carry the classical analysis of the self-facing emotion.
+I work the guilt side and the shame side as a pair. AF054 recognises guilt's adaptive function directly, while AF053 and SE030 mark the shame boundary, shame is about the self, not the act, and E504 warns to spare a person shame in the first place. AF042 and BE022 supply the technique for when an emotion's urge is wrong, opposite action; MO011 keeps the motivation autonomous rather than compelled; CO076 adds the dissonance drive; and the Greek principles A021's aidos and A118's aischynē carry the classical analysis of the self-facing emotion.
 
 - [[AF054 — Recognise guilt's adaptive function — it motivates repair]] — the claim as a principle
 - [[SE030 — Recognise and work with shame — shame is about the self, not the act]] — the shame boundary

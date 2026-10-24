@@ -17,7 +17,7 @@ The reflex is robust enough to be a laboratory instrument. In a 2016 study, "All
 
 The original entry's citation is Linehan (1993), and the technique appears in DBT's distress-tolerance materials as the cold-water step of the TIPP skills. The specific handout instructions (bowl of cold water or cold pack on the eyes and upper cheeks, breath held, roughly half a minute, with a caution for heart conditions) could not be verified against an accessible document — the handout PDF hosted at tri-life.org renders blank — so they are recorded as awaiting verification rather than quoted.
 
-### In the compendium
+### Here
 
 - [[BI048 — Learn to use cold exposure — the dive reflex]] — the principle's behavioral instruction
 - [[BE048 — Learn to use the dive reflex — cold water for acute distress]] — the regulation instruction

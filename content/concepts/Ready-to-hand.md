@@ -13,7 +13,7 @@ Heidegger's name (Zuhandenheit) for the way equipment shows up when it is in use
 
 The contrast is presence-at-hand (Vorhandenheit): the same entity encountered as an independent object with measurable properties. That mode surfaces when skilled coping breaks down — when "a tool turns out to be damaged", attention is drawn to the equipment's material foundations and "pure occurrentness announces itself" (current [SEP Heidegger entry](https://plato.stanford.edu/entries/heidegger/), citing SZ 73).
 
-In the compendium, E024 practises the contrast between engaged use and detached looking, and D056 reads skilled coping as the way the world's usable structure opens up.
+Here, E024 practises the contrast between engaged use and detached looking, and D056 reads skilled coping as the way the world's usable structure opens up.
 
 ## Sources
 

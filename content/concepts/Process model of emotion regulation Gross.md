@@ -19,7 +19,7 @@ The same paper defines the earlier ones in turn. "Situation selection includes e
 
 Gross later extended the model. His review abstract says it "considers emotion regulation to be one type of valuation, and distinguishes three emotion regulation stages (identification, selection, implementation)" ([Gross, 2015, Psychological Inquiry 26, 1-26, abstract](https://www.tandfonline.com/doi/full/10.1080/1047840X.2014.940781)). Sheppes and colleagues add a caution: "at present, there is relatively modest empirical support for the extended process model of emotion regulation" (2015). That caution is about the extended model, and the five-family scheme is a classification of strategies, not a tested law.
 
-### In the compendium
+### Here
 
 The principles listed under this page include AF025 (the full regulation toolkit), B183 (Ride strong emotions without acting) and K178 (Situation selection). Buddhist and Stoic-style ones, such as B054 (equanimity) and B084 (antidotes), predate the model, and the page does not claim Gross was describing them.
 

@@ -21,7 +21,7 @@ Dewey dissolves the split between valuing a means and valuing an end. His two wo
 
 In other words, what a person finally wants is shaped by what they judge the situation makes possible; and the test of the want is what happens: "Observation of results obtained, of actual consequences in their agreement with and difference from ends anticipated or held in view, thus provides the conditions by which desires and interests (and hence valuations) are matured and tested" ([Dewey, Theory of Valuation](https://archive.org/stream/theoryofvaluatio032168mbp/theoryofvaluatio032168mbp_djvu.txt)).
 
-### In the compendium
+### Here
 
 - [[P080 — Value is what fulfills conditions of flourishing]] carries the practical edge: on this theory, to ask whether something is good is to ask whether it fulfills the conditions of the flourishing it is part of, and the answer comes from consequences, not from taste.
 

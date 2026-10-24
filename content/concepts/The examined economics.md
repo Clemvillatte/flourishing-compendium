@@ -19,7 +19,7 @@ The trial scene itself does the arithmetic. When the jury asks him to propose a 
 
 ### The echo across traditions
 
-The cross-tradition echo is the same ledger kept elsewhere: traditions that rank goods end up implying an exchange rate between them, and the Stoic dichotomy of control is a pricing rule of exactly this kind, assigning everything external a market tag and leaving only assent unpriced. The principle is one the compendium's research side states in economic language: to live deliberately is to price things, and the examined life is the asset whose price, when you finally quote it honestly, comes out to everything you have.
+The cross-tradition echo is the same ledger kept elsewhere: traditions that rank goods end up implying an exchange rate between them, and the Stoic dichotomy of control is a pricing rule of exactly this kind, assigning everything external a market tag and leaving only assent unpriced. The principle is one my research side states in economic language: to live deliberately is to price things, and the examined life is the asset whose price, when you finally quote it honestly, comes out to everything you have.
 
 ## Related concepts
 - [[T011 — Socrates]]: the Apology read as a pricing problem, the concept's opening move.

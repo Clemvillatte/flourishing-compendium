@@ -22,13 +22,13 @@ Head and Holmes observed that the schema extends past the skin: anything that pa
 
 Later writers put the point in plainer cases: the body-image of a motorist, an air-pilot or an equestrian temporarily includes part of the vehicle or horse, and a blind man with his white stick is endowed with an extension of corporeal awareness ([Critchley 1979, as quoted in Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)).
 
-### In the compendium
+### Here
 
 - [[E013 — Practise the lived body (Leib)]] — Merleau-Ponty's lived body, experienced in ways that distinguish it in kind from all other things
 - [[D142 — Align the body]] — the Neiye's pairing of alignment and stillness, making the settled body a dwelling for essence
 - [[ST132 — The Blind Man's Cane]] — the story of Merleau-Ponty's cane example: the man feels the street at the tip, and the body's boundary follows the perceptual system
 - [[ST263 — The Phantom Hand]] — the story of a phantom hand
-- [[K307 — Body-schema noticing]] — the compendium's exercise: noticing the implicit sense of where the body ends and the world begins
+- [[K307 — Body-schema noticing]] — my exercise: noticing the implicit sense of where the body ends and the world begins
 - [[ST282 — Fanon and the Look]] — Fanon's account of the body schema collapsing under the racializing look
 - [[K308 — Object-use phenomenology]] — cites the concept for its tool-use exercise
 

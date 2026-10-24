@@ -17,7 +17,7 @@ Karl Jaspers introduced the term in his early Psychology of World Views (1919), 
 
 On the entry's reading, the theory of the limit (Grenze) designates both the habitual forms of the mental apparatus and the mind's experience of recognizing those attitudes as falsely objectivized, then transcending them by disposing itself in new ways toward itself and its objects ([SEP, ibid.](https://plato.stanford.edu/entries/jaspers/)). The same early work contains a theory of the unconditioned: limit situations are unconditioned moments of human existence in which reason, drawn by intense impulses or imperatives, exposes itself to the limits of its consciousness and seeks more reflected modes of knowledge ([SEP, ibid.](https://plato.stanford.edu/entries/jaspers/)). The original entry's summary adds the classical list of the boundaries, death, suffering, struggle and guilt ([Wikipedia, Karl Jaspers](https://en.wikipedia.org/wiki/Karl_Jaspers)), which the SEP passage does not enumerate.
 
-### In the compendium
+### Here
 
 - [[E091 — Practise limit situations]] and [[E092 — Practise shipwreck]]
 - [[ST289 — Jaspers's Shipwreck]], [[ST290 — Job and the Whirlwind]], [[ST291 — The Tower of Babel]], [[ST292 — Louise Learns to Write]] and [[ST311 — Frankl's Why]]

@@ -15,7 +15,7 @@ The place theory of hearing holds that pitch is coded by location: each frequenc
 
 The frequency-to-place mapping is called tonotopic organization, and it "is maintained throughout the auditory pathways up to primary auditory cortex." The idea originates with Helmholtz, who argued in On the Sensations of Tone that the basilar membrane worked like tuned piano strings. Georg von Békésy's experiments on human cadavers won the 1961 Nobel Prize and confirmed the geometry: the wave's amplitude "is dependent upon the frequency of the stimulus," peaking near the base for high frequencies and near the apex for low ones.
 
-The compendium's [[ST046 — The Yellow Emperor Climbs Kongtong]] and [[K046 — Practice the exchange deliberately, as a skill]] connect through the body's own instrument: the ear is not a passive receiver but a tuned analyzer, and listening is a physical skill.
+My [[ST046 — The Yellow Emperor Climbs Kongtong]] and [[K046 — Practice the exchange deliberately, as a skill]] connect through the body's own instrument: the ear is not a passive receiver but a tuned analyzer, and listening is a physical skill.
 
 ## Field
 

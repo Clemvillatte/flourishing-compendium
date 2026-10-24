@@ -15,9 +15,9 @@ Progressive refinement in perceptual learning names the finding that practice ma
 
 The refinement runs through the channel the entry calls differentiation: "In differentiation, a person comes to perceive the difference between two properties, where they could not perceive this difference before." The entry's example is William James's case of learning to distinguish the upper from the lower half of a wine: "Prior to learning, one cannot perceive the difference between the upper and lower half. However, through practice one becomes able to distinguish between the upper and lower half."
 
-Goldstone's review distinguishes four types in the literature: differentiation, unitization, attentional weighting, and stimulus imprinting. The progressive-refinement cases the compendium cares about sit mostly under the first.
+Goldstone's review distinguishes four types in the literature: differentiation, unitization, attentional weighting, and stimulus imprinting. The progressive-refinement cases I care about sit mostly under the first.
 
-### In the compendium
+### Here
 
 - [[Y077 — Climb the subtlety ladder]] — schedules practice from coarse to fine distinctions
 - [[B137 — Expect your seeing to change (the wise see differently)]] — reads wisdom itself as partly trained perception

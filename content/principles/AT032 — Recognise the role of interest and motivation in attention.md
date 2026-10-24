@@ -24,7 +24,7 @@ And the scaffolding finding:
 
 > "We review findings which provide evidence that the structure of tasks and activities, as well as interactions with other people, may be helpful to interest development..." ([Renninger & Hidi, 2019, same abstract](https://works.swarthmore.edu/fac-education/150/))
 
-The model and chapter concern interest development in learners; the compendium's reading for attention is its own application.
+The model and chapter concern interest development in learners; my reading for attention is its own application.
 
 **Plain words** The chapter's evidence: even some interest helps attention, memory, and engagement, and interest can be triggered and then maintained by task structure and by other people. The upshot for attention: interest is not a fixed trait of the task. A task with no interest yet needs external scaffolding — structure, stakes, company — and the chapter's evidence is that such supports help interest develop.
 

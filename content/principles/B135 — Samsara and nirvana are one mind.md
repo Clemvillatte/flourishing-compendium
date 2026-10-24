@@ -23,7 +23,7 @@ In the Mulamadhyamakakarika, Nagarjuna challenges the separation of samsara and 
 
 Their reading treats emptiness as lacking an independent essence, not simply not existing ([Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs)). How to understand the claimed sameness remains an interpretive question: Garth Mason compares identity, equivalence and nihilist models, preferring equivalence ([Mason](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1011-76012014000200006)).
 
-The title is the compendium's shorthand. The quoted verse does not say "one mind"; that wording belongs to the compendium's title and is not established by this passage. Nor does the verse settle what kind of sameness it asserts; that remains disputed. The shorthand should not turn the argument into a promise that changing one's attitude removes pain or makes harmful circumstances acceptable.
+The title is my shorthand. The quoted verse does not say "one mind"; that wording belongs to my title and is not established by this passage. Nor does the verse settle what kind of sameness it asserts; that remains disputed. The shorthand should not turn the argument into a promise that changing one's attitude removes pain or makes harmful circumstances acceptable.
 
 **Plain words** What would it mean for something to be what it is entirely on its own, independently of everything else? That is the independent essence Garfield and Priest say empty things lack. They read the quoted verse as asserting that samsara and nirvana are identical; Mason favours an equivalence model.
 

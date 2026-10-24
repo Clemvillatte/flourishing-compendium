@@ -16,7 +16,7 @@ NIMH describes ADHD as a persistent pattern of inattention and/or hyperactivity 
 
 > "Attention-deficit/hyperactivity disorder (ADHD) is marked by a persistent pattern of inattention and/or hyperactivity and impulsivity that makes it hard to function in at least two areas of life, such as at home, school, or work." (NIMH, [ADHD in adults](https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know))
 
-The consensus statement adds, of ADHD diagnosis specifically: "When made by a licensed clinician, the diagnosis of ADHD is well-defined and valid at all ages, even in the presence of other psychiatric disorders, which is common." (Faraone et al., 2021, [PMC8328933](https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/)) These descriptions concern ADHD; they do not identify the cause of every concentration problem. The compendium recommends discussing persistent attention difficulties that interfere with daily life with a health professional.
+The consensus statement adds, of ADHD diagnosis specifically: "When made by a licensed clinician, the diagnosis of ADHD is well-defined and valid at all ages, even in the presence of other psychiatric disorders, which is common." (Faraone et al., 2021, [PMC8328933](https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/)) These descriptions concern ADHD; they do not identify the cause of every concentration problem. I recommend discussing persistent attention difficulties that interfere with daily life with a health professional.
 
 **Plain words**
 If trouble concentrating keeps disrupting daily tasks, bring concrete examples to a health professional. Describe when it happens, how long it has been happening, and what it interferes with. This page cannot determine the cause.

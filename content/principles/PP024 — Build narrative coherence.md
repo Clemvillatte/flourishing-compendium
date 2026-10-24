@@ -17,7 +17,7 @@ Narrative identity, in McAdams and McLean's formulation, is a person's internali
 > Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity.
 > (McAdams and McLean 2013, Current Directions in Psychological Science 22(3))
 
-The opened studies are about redemption sequences and their associations with well-being; they do not show that any coherent story helps regardless of its content. The compendium's exercise is editorial guidance, not a finding from these studies: tell the story again with the turning points named, and do not force suffering into a growth arc for the form's sake.
+The opened studies are about redemption sequences and their associations with well-being; they do not show that any coherent story helps regardless of its content. My exercise is editorial guidance, not a finding from these studies: tell the story again with the turning points named, and do not force suffering into a growth arc for the form's sake.
 
 **Plain words** Describe a period of your life in a paragraph: where it started, what changed, what remains unresolved, and what you did next. The exercise is the describing; no particular ending is required.
 

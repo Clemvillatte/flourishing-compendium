@@ -15,7 +15,7 @@ Attentiveness is the deliberate practice of receiving what is there rather than 
 
 ### Why it is a practice, not a mood
 
-Weil's essay makes attention trainable: she assigns school exercises, "each one", on the idea that it will "help to form in them the habit of that attention which is the substance of prayer". Her hardest claim gives the page its ethical weight: "The capacity to give one's attention to a sufferer is a very rare and difficult thing; it is almost a miracle; it is a miracle" (same text). The compendium treats attentiveness as the substrate of both wisdom and care, since seeing what is actually there precedes every response that fits.
+Weil's essay makes attention trainable: she assigns school exercises, "each one", on the idea that it will "help to form in them the habit of that attention which is the substance of prayer". Her hardest claim gives the page its ethical weight: "The capacity to give one's attention to a sufferer is a very rare and difficult thing; it is almost a miracle; it is a miracle" (same text). I treat attentiveness as the substrate of both wisdom and care, since seeing what is actually there precedes every response that fits.
 
 ## Sources
 

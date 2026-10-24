@@ -15,7 +15,7 @@ Frugality, in the consumer-research line started by Lastovicka, Bettencourt, Hug
 
 A study of frugal and non-frugal New Zealand consumers compared their values: people lower in frugality scored more highly on social power, authority, public image, pleasure, enjoying life, an exciting life and social recognition, while the more frugal group's values fell on the collectivist side of Schwartz's structure, including responsibility, social order, unity with nature, protecting the environment and inner harmony. The pattern supported Lastovicka's contention that frugality is a lifestyle construct rather than a single value. The construct sits in tension with values relating to power, stimulation and hedonism.
 
-### In the compendium
+### Here
 
 - [[D032 — Treasure 2 — frugality (jian)]] — the Daoist treasure this research is the psychology parallel for
 

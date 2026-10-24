@@ -21,16 +21,16 @@ The same flash cards carry warnings: "Very cold water can decrease your heart ra
 
 ### Scope
 
-The sources are clinical teaching materials, not trials of the skills. The explanations that cold water works through the dive reflex appear in popular guides and were not tested in the materials above. The compendium's earlier note cites Linehan 1993, whose manual was not consulted for this page.
+The sources are clinical teaching materials, not trials of the skills. The explanations that cold water works through the dive reflex appear in popular guides and were not tested in the materials above. My earlier note cites Linehan 1993, whose manual was not consulted for this page.
 
-### In the compendium
+### Here
 
 - [[BE048 — Learn to use the dive reflex — cold water for acute distress]] lists this concept.
 
 ## Related concepts
 
-- [[BI048]] — the compendium's principle on cold exposure and the dive reflex, which cites Linehan's TIP handout
-- [[Emotion regulation]] — the compendium's page on the wider field
+- [[BI048]] — my principle on cold exposure and the dive reflex, which cites Linehan's TIP handout
+- [[Emotion regulation]] — my page on the wider field
 - [[Distress tolerance (DBT)]] — the capacity to withstand aversive states
 - [[T032 — Linehan, Marsha]]: the distress-tolerance skills the concept carries from her manual.
 ## Sources

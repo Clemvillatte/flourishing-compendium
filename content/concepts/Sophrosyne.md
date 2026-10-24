@@ -7,7 +7,7 @@ file: "Sophrosyne"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Sophrosyne is the Greek virtue of measured selfhood, usually rendered as temperance, self-mastery or sound-mindedness. The compendium's anchor is Aristotle's Nicomachean Ethics, where it is the virtue concerned with pleasures. D.P. Chase's translation, quoted below, renders the word as "perfected Self-Mastery". Other translators choose other words, and this page quotes Chase throughout.
+Sophrosyne is the Greek virtue of measured selfhood, usually rendered as temperance, self-mastery or sound-mindedness. My anchor is Aristotle's Nicomachean Ethics, where it is the virtue concerned with pleasures. D.P. Chase's translation, quoted below, renders the word as "perfected Self-Mastery". Other translators choose other words, and this page quotes Chase throughout.
 
 ### The virtue as a mean
 
@@ -25,15 +25,15 @@ The discussion of the virtue near the end of Book III says desires "ought to be 
 
 This page reads Aristotle in one English translation. It does not cover Plato's use of sophrosyne or other Greek sources, and it makes no claim about the history of the word beyond Aristotle's text.
 
-### In the compendium
+### Here
 
 - [[PP040 — Cultivate temperance]] lists this concept, citing Nicomachean Ethics III.10.
 
 ## Related concepts
 
-- [[Temperance]] — the compendium's page on the English term
+- [[Temperance]] — my page on the English term
 - [[Virtue ethics]] — the tradition in which Aristotle places the virtue
-- [[Akrasia (weakness of will)]] — the compendium's page on failures of self-control
+- [[Akrasia (weakness of will)]] — my page on failures of self-control
 - [[Eudaimonia]] — the flourishing that the virtues serve
 
 ## Sources

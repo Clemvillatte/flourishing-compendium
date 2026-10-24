@@ -7,7 +7,7 @@ file: "Negative visualisation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Negative visualisation is the Stoic exercise of deliberately picturing loss and trouble before they arrive: not to brood, but to arrive at the loss already rehearsed. The compendium's principles carry it as a practice for keeping the mind in a state conformable to nature when things go wrong.
+Negative visualisation is the Stoic exercise of deliberately picturing loss and trouble before they arrive: not to brood, but to arrive at the loss already rehearsed. My principles carry it as a practice for keeping the mind in a state conformable to nature when things go wrong.
 
 Epictetus states the exercise directly in the Enchiridion:
 

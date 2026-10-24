@@ -15,7 +15,7 @@ The list in Appendix G opens with the first three:
 
 > "1. Truth: honesty; reality; (nakedness; simplicity; richness; essentiality; oughtness; beauty; pure; clean and unadulterated completeness). 2. Goodness: (rightness; desirability; oughtness; justice; benevolence; honesty); (we love it, are attracted to it, approve of it). 3. Beauty: (rightness; form; aliveness; simplicity; richness; wholeness; perfection; completion; uniqueness; honesty)." (Maslow 1964, Appendix G, same source)
 
-The full list runs on through wholeness, aliveness, uniqueness, perfection, necessity, completion, justice, simplicity, richness, effortlessness, playfulness and self-sufficiency. Maslow's reason for the list matters more than its contents: he found that what people perceive in their best moments matches what the ages have called eternal verities or the highest values, so facts and values fuse under certain circumstances. For the wiki this grounds the practical page on growing from being-values rather than deficiency-needs: the B-values are not rules to obey but qualities already visible when perception is at its best.
+The full list runs on through wholeness, aliveness, uniqueness, perfection, necessity, completion, justice, simplicity, richness, effortlessness, playfulness and self-sufficiency. Maslow's reason for the list matters more than its contents: he found that what people perceive in their best moments matches what the ages have called eternal verities or the highest values, so facts and values fuse under certain circumstances. This grounds the practical page on growing from being-values rather than deficiency-needs: the B-values are not rules to obey but qualities already visible when perception is at its best.
 
 ## Related concepts
 

@@ -17,9 +17,9 @@ Temporal-difference (TD) learning is Richard Sutton's method for learning predic
 
 The paper's own example is a weather forecaster. The conventional approach waits for Saturday and compares each day's prediction with what actually happened. The TD approach compares Monday's prediction with Tuesday's: if the forecast moved from a 50 percent chance of rain to 75 percent, that change itself is a signal to strengthen the Monday-style predictions. Learning can therefore begin before the outcome arrives, which is why TD methods, in the paper's summary, "require less memory and less peak computation than conventional methods and they produce more accurate predictions" for most real prediction problems.
 
-The method matters to the compendium mainly through its proposed biology: researchers have argued that the reward-prediction-error signal carried by dopamine neurons matches the TD error term, and the compendium's Schultz page carries that account. The general shape of the algorithm is the part to keep in view: expectations are updated by the gap between what was predicted and what arrived.
+The method matters here mainly through its proposed biology: researchers have argued that the reward-prediction-error signal carried by dopamine neurons matches the TD error term, and my Schultz page carries that account. The general shape of the algorithm is the part to keep in view: expectations are updated by the gap between what was predicted and what arrived.
 
-### In the compendium
+### Here
 
 - [[BE004 — Understand that behaviour is learned — skills can be acquired]] — the learning-theory ground the algorithm supplies
 - [[P054 — Balance exploration and exploitation]] — the decision problem TD agents face

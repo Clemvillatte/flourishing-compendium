@@ -13,7 +13,7 @@ Cultural fit theory is the claim that a person's well-being tracks how well thei
 
 The study's fine print matters for the theory. Value type moderates the direction of the effect: "People who value self-direction, stimulation, and hedonism more and live in countries and regions where people on average share these values report lower well-being", while "people who value achievement, power, and security more and live in countries and regions where people on average share these values, report higher well-being". The authors also found that "people who moderately value stimulation report the highest well-being". So fit predicts well-being, but which fit helps depends on what the values are, and more is not always better.
 
-### In the compendium
+### Here
 
 - [[SO019 — Treat religion and spirituality as legitimate resources]], [[SO001 — Flourish socially]], [[P032 — Walk the middle path between objectivism and relativism]] and [[D039 — Make rest the root of activity]] are this concept's philosophy parallels
 

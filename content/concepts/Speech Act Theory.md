@@ -37,7 +37,7 @@ Austin's conditions of success sort failures into two kinds. A misfire is an att
 
 The lunch-promise case carries the theory's useful distinction: an insincere promise can still count as a promise. The entry adds a social dimension in its section on speech acts and social issues: an inveterate promise-breaker can end up "unable to perform the illocutionary act of promising" in his community, because others stop accepting his promises. On the entry's account, a person's record with words can change what their words can still do, at least within that community.
 
-### In the compendium
+### Here
 
 - [[A087 — Seek the pleasure of contemplation]]
 - [[CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution]]

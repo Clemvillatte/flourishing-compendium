@@ -45,7 +45,7 @@ De is what things obtain from the Dao: "All things are produced by the Tao, and 
 - **Small country, simple life** — the governance ideal. See [[D134 — Govern like cooking a small fish|D134]], [[Small country, simple life]], [[Domination critique]], [[Spontaneous order]].
 - **The three treasures** — gentleness, economy, not presuming precedence. See [[D031 — Treasure 1 — compassion (ci)|D031]], [[D032 — Treasure 2 — frugality (jian)|D032]], [[D033 — Treasure 3 — not daring to be first|D033]].
 
-## Everything connected in the wiki
+## Everything connected here
 
 The inventory lists every corpus entry that names Laozi. Many of the principles cite the Daodejing as a philosophy or psychology parallel; each link is a real edge in the corpus graph.
 

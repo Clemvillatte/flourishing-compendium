@@ -17,7 +17,7 @@ The Commandments (II.30) are non-injury, truthfulness, abstention from stealing,
 
 > "From steadfastly following after the means of Yoga, until impurity is worn away, there comes the illumination of thought up to full discernment." (Patanjali, Yoga Sutras II.28, tr. Charles Johnston, [Project Gutenberg ebook 2526](https://www.gutenberg.org/files/2526/2526-h/2526-h.htm))
 
-### In the compendium
+### Here
 
 - [[K056 — Train ethics as the second perfection, at the floor first]]
 - [[SP037 — Beware the mob's favors and its fear]]

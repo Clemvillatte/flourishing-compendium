@@ -15,7 +15,7 @@ The transtheoretical model grew out of a study of 872 smokers changing on their 
 >
 > "Results indicate that self-changers: (a) use the fewest processes of change during precontemplation; (b) emphasize consciousness raising during the contemplation stage; (c) emphasize self-reevaluation in both contemplation and action stages; (d) emphasize self-liberation, a helping relationship, and reinforcement management during the action stage; and (e) use counterconditioning and stimulus control the most in both action and maintenance stages." (Prochaska and DiClemente 1983, [paper scan, Harvard](https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/prochaska_1983_stages_of_behavior_change.pdf))
 
-### In the compendium
+### Here
 
 - [[Y120 — Meet people where they are]] — lists the concept among its psychology parallels.
 

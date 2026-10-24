@@ -16,9 +16,9 @@ Arkes and Blumer's scenario: a $100 ski trip to Michigan and a $50 trip to Wisco
 
 Why the pull? The wastefulness reading: "One reason why people may wish to throw good money after bad is that to stop investing would constitute an admission that the prior money was wasted" ([Wikipedia](https://en.wikipedia.org/wiki/Sunk_cost)). Staw's escalation-of-commitment studies extend it to responsibility: managers told the earlier disappointing R&D investment was their own committed an average of $12.97 million to the failing division, versus $9.43 million when it was a predecessor's ([Wikipedia](https://en.wikipedia.org/wiki/Sunk_cost)).
 
-### In the compendium
+### Here
 
-The compendium's principles treat sunk costs as the ego's argument for persistence. CO021, "Understand the sunk cost fallacy — past investment distorts present decisions," carries the concept by name; MO058, "Learn to disengage from unattainable goals — letting go is adaptive," is the remedy the research supports; MO046's learning to start is the forward-looking discipline; D062, "Let go of what exceeds your grasp," is the Daoist version. PP042's forgiveness and K170's forgiveness practice are the affective arm, releasing the past, and S053's control distinction is the boundary: past costs are precisely what you do not control.
+My principles treat sunk costs as the ego's argument for persistence. CO021, "Understand the sunk cost fallacy — past investment distorts present decisions," carries the concept by name; MO058, "Learn to disengage from unattainable goals — letting go is adaptive," is the remedy the research supports; MO046's learning to start is the forward-looking discipline; D062, "Let go of what exceeds your grasp," is the Daoist version. PP042's forgiveness and K170's forgiveness practice are the affective arm, releasing the past, and S053's control distinction is the boundary: past costs are precisely what you do not control.
 
 The letting-go cluster is a sunk-cost curriculum: forgiveness (PP042, K170, SE031) trains the exact psychological act the theater experiment measures, releasing unrecoverable investment. That is a comparison of structures, not an influence claim.
 

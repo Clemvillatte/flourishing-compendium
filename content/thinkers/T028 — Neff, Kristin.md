@@ -31,14 +31,14 @@ Self-compassion has three components in her model: self-kindness versus self-jud
 - **Mindful Self-Compassion (MSC)** — the eight-week training program she built with Chris Germer, and the nonprofit Center for Mindful Self-Compassion behind it. See [[Mindful self-compassion programme]].
 - **Self-compassion practice** — the daily exercises her research drew from, including the self-soothing phrases above. See [[K162 — Self-compassion practice|Self-compassion practice]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Self-compassion]]
 - [[Mindful self-compassion programme]]
 - [[Mindfulness]]
 - [[K162 — Self-compassion practice|Self-compassion practice]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (31)
 - [[A060 — Forgive but do not excuse|Forgive but do not excuse]]

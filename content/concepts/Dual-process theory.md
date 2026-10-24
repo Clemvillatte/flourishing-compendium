@@ -22,9 +22,9 @@ Evans and Stanovich favour a default-interventionist architecture: "fast Type 1 
 
 The label also names a different model in grief research. There, in the dual process model of coping, "healthy people oscillate between focusing on loss-related stressors... and restoration-related stressors... and at other times are simply engaged in everyday life experience" ([O'Connor 2019 review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6844541/)). That is a pairing of grief orientations, not an application of Type 1 and Type 2 processing.
 
-### In the compendium
+### Here
 
-CO002 names the two modes for practice: fast intuition and slow analysis. The compendium pairs the theory with Cognitive defusion, Metacognition, and Cognitive reappraisal as editorial neighbours, without assigning those practices to processing types.
+CO002 names the two modes for practice: fast intuition and slow analysis. I pair the theory with Cognitive defusion, Metacognition, and Cognitive reappraisal as editorial neighbours, without assigning those practices to processing types.
 
 ## Related concepts
 

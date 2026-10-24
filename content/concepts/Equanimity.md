@@ -29,9 +29,9 @@ The book's account of why the stance is possible belongs to its fourth book as w
 
 > “the things or objects themselves reach not unto the soul, but stand without still and quiet, and that it is from the opinion only which is within, that all the tumult and all the trouble doth proceed.” (Meditations IV.3, [Casaubon translation, Project Gutenberg ebook #2680](https://www.gutenberg.org/files/2680/2680-0.txt))
 
-The opinion, not the event, is where the trouble enters — the compendium's [[Judgment adds the harm]] page is this claim's home. A note on the source: the ebook's appendix states the text was prepared from the 1634 and 1635 editions of Casaubon's translation.
+The opinion, not the event, is where the trouble enters — my [[Judgment adds the harm]] page is this claim's home. A note on the source: the ebook's appendix states the text was prepared from the 1634 and 1635 editions of Casaubon's translation.
 
-### In the compendium
+### Here
 
 - [[B054 — Practice equanimity (upekkha)]] — the Buddhist principle: even-minded balance under the eight worldly winds the Lokavipatti Sutta lists
 - [[K167 — Equanimity under the eight worldly winds]] — the kernel's practice: three breaths between stimulus and response

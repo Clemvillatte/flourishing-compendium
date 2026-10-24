@@ -17,7 +17,7 @@ Subitism is the Chan (Zen) teaching that awakening arrives all at once rather th
 
 Read closely, the doctrine is less a claim about speed than about readiness. The same reality is seen slowly or fast; the difference lies in the seer. The Internet Encyclopedia of Philosophy notes that the term dun, usually rendered "sudden," might better be rendered "poised" or "ready": those who awaken suddenly are those already keen and fast, "ready to awaken in action, poised to break through to fuller, wise and compassionate living." Subitism therefore does not deny practice; it denies that awakening is a distant wage paid out after enough polishing.
 
-The compendium's principle B130 carries the practical consequence: expect awakening to shift in a moment, and treat practice as the making of readiness rather than the installment plan for enlightenment.
+My principle B130 carries the practical consequence: expect awakening to shift in a moment, and treat practice as the making of readiness rather than the installment plan for enlightenment.
 
 ## Related concepts
 

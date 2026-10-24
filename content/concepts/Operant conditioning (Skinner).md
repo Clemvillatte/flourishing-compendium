@@ -34,9 +34,9 @@ The mechanism the quotes carry is frequency: consequences change how often a cla
 
 Illustrative scenario, not a reported study result: imagine that checking a phone is followed by receiving a message, and checking becomes more frequent under those conditions; in this scenario, the message functions as reinforcement.
 
-### In the compendium
+### Here
 
-- [[BE002 — Recognise that behaviour is shaped by consequences — reinforcement and punishment]] — the compendium's working principle built on this theory, including Skinner's warning that punishment mainly teaches avoidance.
+- [[BE002 — Recognise that behaviour is shaped by consequences — reinforcement and punishment]] — my working principle built on this theory, including Skinner's warning that punishment mainly teaches avoidance.
 
 ## Related concepts
 

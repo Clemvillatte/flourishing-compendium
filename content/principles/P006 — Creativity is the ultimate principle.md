@@ -28,7 +28,7 @@ On this scheme, novelty is not an occasional interruption of an otherwise repeat
 
 (Whitehead, Process and Reality, Part I, Ch. II, Section II.)
 
-**Plain words** Whitehead's formula is compact: the many become one, and are increased by one. Each new thing gathers what already exists into a unity that did not exist before, and the gathering itself is a new thing among the others. The compendium borrows Whitehead's image of "novel togetherness" as a prompt for creative work: what could you make by bringing existing experiences, materials or relationships together differently? What the scheme does not promise is that any particular novelty will be valuable; it says novelty is real, not that it is good.
+**Plain words** Whitehead's formula is compact: the many become one, and are increased by one. Each new thing gathers what already exists into a unity that did not exist before, and the gathering itself is a new thing among the others. I borrow Whitehead's image of "novel togetherness" as a prompt for creative work: what could you make by bringing existing experiences, materials or relationships together differently? What the scheme does not promise is that any particular novelty will be valuable; it says novelty is real, not that it is good.
 
 *For example:* Imagine a practice, a group or a work that does not yet exist in your situation. You could ask what already-available elements it would gather, treating the new thing as the togetherness of them rather than as something from nothing.
 

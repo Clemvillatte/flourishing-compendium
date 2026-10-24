@@ -17,11 +17,11 @@ Koren's formulation of the underlying realization:
 
 > "Somewhere buried in our psyches is the realization that being human fundamentally implies being imperfect. So when someone suggests that imperfection may be just as beautiful—just as valuable—as perfection, it is a welcome acknowledgement." ([Koren, 2013](https://www.resilience.org/stories/2013-04-03/the-beauty-of-wabi-sabi/))
 
-The aesthetic asks that flaws, asymmetry and wear be seen as sources of charm and authenticity, and the entry's point for the compendium is the transfer of that seeing from pots and gardens to selves.
+The aesthetic asks that flaws, asymmetry and wear be seen as sources of charm and authenticity, and the entry's point is the transfer of that seeing from pots and gardens to selves.
 
-### In the compendium
+### Here
 
-The concept's neighbors carry the transfer into practice. The compendium's fuller entry [[Wabi-sabi]] treats the aesthetic itself. The principles do the psychological work: recognizing common humanity loosens the isolation of one's own flaws, accepting incompleteness as constitutive reframes the unfinished life, and managing perfectionism trades flawless for good-enough.
+The concept's neighbors carry the transfer into practice. My fuller entry [[Wabi-sabi]] treats the aesthetic itself. The principles do the psychological work: recognizing common humanity loosens the isolation of one's own flaws, accepting incompleteness as constitutive reframes the unfinished life, and managing perfectionism trades flawless for good-enough.
 
 [[SE026 — Recognise common humanity — your suffering is not unique or isolating]]
 [[P150 — Accept incompleteness as constitutive]]

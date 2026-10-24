@@ -32,7 +32,7 @@ The person who argues back digs in, and the argument "both for and against chang
 
 The third edition replaced the old principles with "four broad processes that this approach comprises—engaging, focusing, evoking, and planning" ([Miller and Rollnick, 2013](https://ia801005.us.archive.org/35/items/NelsonTratadoDePediatria/Motivational%20Interviewing.pdf)). Their later retrospective adds that in practice "the processes are more iterative and flexible" ([Miller and Rollnick, 2023](https://motivationalinterviewing.org/sites/default/files/the_evolution_of_motivational_interviewing.pdf)). Underneath sits a spirit with four parts, "practiced: partnership, acceptance, compassion, and evocation" ([Miller and Rollnick, 2013](https://ia801005.us.archive.org/35/items/NelsonTratadoDePediatria/Motivational%20Interviewing.pdf)). The glossary's clinical definition compresses all of it: "A person-centered counseling style for addressing the common problem of ambivalence about change" ([Miller and Rollnick, 2013](https://ia801005.us.archive.org/35/items/NelsonTratadoDePediatria/Motivational%20Interviewing.pdf)).
 
-### In the compendium
+### Here
 
 - [[K373 — Notice the fixing reflex]] — the righting reflex, caught in practice
 - [[D120 — Drop the need to convince]] — what the method assumes about persuasion

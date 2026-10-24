@@ -24,9 +24,9 @@ A 2024 meta-analysis of 154 studies points the same way: arousal-decreasing acti
 
 The cited review concerns general emotion regulation, not anger specifically: it describes acceptance as actively and consciously embracing inner emotions, thoughts and other private experiences without taking steps to change or escape them ([Wojnarowska et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7057396/)).
 
-### In the compendium
+### Here
 
-The compendium's principles line up with the research's levers. B116, "Catch irritation early — sparks before fires," matches acting early; D150, "Balance the emotions to protect the body," and D095, "Moderate emotion — extremes injure vitality," match the arousal-reduction finding; B084, "Use antidotes skillfully," and SP001, "Understand rather than condemn," parallel cognitive change. P074, "Treat impulses as raw material, not enemies," is the acceptance stance in the compendium's voice. A115, "Understand anger (orge)," and A029, "Practice the right kind of anger," carry Aristotle's view that anger has a proper use, a question this literature does not settle.
+My principles line up with the research's levers. B116, "Catch irritation early — sparks before fires," matches acting early; D150, "Balance the emotions to protect the body," and D095, "Moderate emotion — extremes injure vitality," match the arousal-reduction finding; B084, "Use antidotes skillfully," and SP001, "Understand rather than condemn," parallel cognitive change. P074, "Treat impulses as raw material, not enemies," is the acceptance stance in my voice. A115, "Understand anger (orge)," and A029, "Practice the right kind of anger," carry Aristotle's view that anger has a proper use, a question this literature does not settle.
 
 B116 advises catching irritation early. Does that practice affect anger partly through arousal reduction?
 
@@ -46,7 +46,7 @@ B116 advises catching irritation early. Does that practice affect anger partly t
 - [[Anger reappraisal]] — reappraisal applied specifically to anger
 - [[Catharsis]] — the venting theory the evidence contradicts
 - [[Anger management]] — the applied, clinical side of this research
-- [[Express by shaping, not venting]] — the compendium's own anti-catharsis principle
+- [[Express by shaping, not venting]] — my own anti-catharsis principle
 - [[Acceptance]] — the middle-path strategy with meta-analytic support
 - [[Rumination]] — the ingredient that made venting backfire in Bushman's experiment
 - [[Emotion regulation]] — the parent construct

@@ -17,7 +17,7 @@ The same essay describes the speaker who wants to influence the other and yet "u
 
 The psychological research line takes the same structure and measures it. Rogers and Farson's 1957 Active Listening names the attitude: "I'm not trying to change you or evaluate you. I just want to understand you," and adds the precondition, that you cannot begin to be an effective listener until you "genuinely respect the potential worth of the individual." Elliott et al.'s 2011 meta-analysis, pooling 59 samples with 3,599 clients, found empathy a moderately strong predictor of therapy outcome.
 
-The compendium's [[R092 — Practise listening as a moral act]] treats the act as respect rather than technique; this page is that principle's concept ground.
+My [[R092 — Practise listening as a moral act]] treats the act as respect rather than technique; this page is that principle's concept ground.
 
 ## Related concepts
 

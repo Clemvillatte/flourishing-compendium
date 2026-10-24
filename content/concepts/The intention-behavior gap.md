@@ -19,7 +19,7 @@ The review drew on a meta-analysis of ten previous meta-analyses. Sheeran and We
 
 The remedy with the strongest evidence is planning. In Sheeran and Webb's review: "One of the most widely researched and best-validated tools for improving the translation of intentions into action is forming if-then plans or implementation intentions." An if-then plan names the opportunity to act and the obstacle that must be dealt with, so the intention carries its own trigger.
 
-### In the compendium
+### Here
 
 - [[SP026 — Study the drunkard, and keep your seat]] — uses the gap as its psychology parallel beside the willing-spirit, weak-flesh pairing; the drunkard study turns on insight that does not by itself change in-the-moment behavior
 

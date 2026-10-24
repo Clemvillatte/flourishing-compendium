@@ -16,7 +16,7 @@ In The Two Sources of Morality and Religion, Bergson distinguishes love of famil
 
 > "Once again, it is not by a process of expansion of the self that we can pass from the first state to the second." ([Bergson, chapter 1, p. 27](https://archive.org/details/twosourcesofmora033499mbp))
 
-His account gives dynamic morality a creative significance: he describes it as "inspiration, intuition, emotion" and "a contribution of man's genius" ([Bergson, chapter 1, p. 50](https://archive.org/details/twosourcesofmora033499mbp)). The compendium proposes examining the reasons for extending concern beyond a group. This exercise offers an application of the distinction, without establishing a test for an open soul.
+His account gives dynamic morality a creative significance: he describes it as "inspiration, intuition, emotion" and "a contribution of man's genius" ([Bergson, chapter 1, p. 50](https://archive.org/details/twosourcesofmora033499mbp)). I propose examining the reasons for extending concern beyond a group. This exercise offers an application of the distinction, without establishing a test for an open soul.
 
 ### Plain words
 

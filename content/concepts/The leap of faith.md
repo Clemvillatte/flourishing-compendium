@@ -33,7 +33,7 @@ Contemporary philosophy of faith keeps the caution. Faith "seems essentially to 
 
 ### Why it matters for flourishing
 
-The compendium's principles [[E052 — Practise the leap of faith]] and [[E042 — Practise commitment without guarantees]] treat the leap as the limit case of committing. Most commitments are not leaps; they are made inside probabilities. But the structure of deciding when the facts run out is trainable, and it is what [[Intolerance of uncertainty]] measures from the clinical side: the ability to act without a guarantee is a capacity, and it can grow or shrink. That extension to everyday life is the compendium's reading, stated as such; Kierkegaard's leap is a narrower, stranger thing.
+My principles [[E052 — Practise the leap of faith]] and [[E042 — Practise commitment without guarantees]] treat the leap as the limit case of committing. Most commitments are not leaps; they are made inside probabilities. But the structure of deciding when the facts run out is trainable, and it is what [[Intolerance of uncertainty]] measures from the clinical side: the ability to act without a guarantee is a capacity, and it can grow or shrink. That extension to everyday life is my reading, stated as such; Kierkegaard's leap is a narrower, stranger thing.
 
 ## Related concepts
 

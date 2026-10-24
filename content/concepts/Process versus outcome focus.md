@@ -25,7 +25,7 @@ Process focus is not indifference to results. Outcomes set the direction; proces
 
 Before a presentation, choose one process target for the first two minutes, such as slow breaths and eye contact with one person at a time, rather than "make the room like me". (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[P104 — Perfect the process, not the product]] and [[PP021 — Value the process over the outcome]] — the principle form
 - [[B178 — Practice without gaining ideas]] and [[B045 — Let practice and enlightenment be one]] — the Buddhist version

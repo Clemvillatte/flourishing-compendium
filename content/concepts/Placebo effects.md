@@ -14,7 +14,7 @@ A placebo is a treatment intended to appear genuine but which has no pharmaceuti
 The trial's conclusion, verbatim:
 > "Factors contributing to the placebo effect can be progressively combined in a manner resembling a graded dose escalation of component parts. Non-specific effects can produce statistically and clinically significant outcomes and the patient-practitioner relationship is the most robust component." ([Kaptchuk et al., 2008, BMJ 336:999](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e1d2-6bd4-e053-0100007fdf3b/content))
 
-### In the compendium
+### Here
 
 P069 (Believe at the living edge) and P099 (Let anticipation do its work) both list the concept among their psychology parallels.
 

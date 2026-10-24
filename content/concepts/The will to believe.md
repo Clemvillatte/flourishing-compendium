@@ -11,7 +11,7 @@ The will to believe is William James's name for the right, in certain cases, to 
 
 > "Our passional nature not only lawfully may, but must, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds; for to say, under such circumstances, 'Do not decide, but leave the question open,' is itself a passional decision,--just like deciding yes or no,--and is attended with the same risk of losing the truth." (James, "The Will to Believe", [Gutenberg full text](https://www.gutenberg.org/cache/epub/26659/pg26659.txt))
 
-The engine underneath is that some outcomes need belief as a precondition. As another essay in the same collection puts it: "the part of wisdom clearly is to believe what one desires; for the belief is one of the indispensable preliminary conditions of the realization of its object... There are then cases where faith creates its own verification" ([James, "The Sentiment of Rationality", Gutenberg full text](https://www.gutenberg.org/cache/epub/26659/pg26659.txt)). The compendium's principle P069 is titled for this doctrine, and P037 draws on the same essay.
+The engine underneath is that some outcomes need belief as a precondition. As another essay in the same collection puts it: "the part of wisdom clearly is to believe what one desires; for the belief is one of the indispensable preliminary conditions of the realization of its object... There are then cases where faith creates its own verification" ([James, "The Sentiment of Rationality", Gutenberg full text](https://www.gutenberg.org/cache/epub/26659/pg26659.txt)). My principle P069 is titled for this doctrine, and P037 draws on the same essay.
 
 ## Sources
 

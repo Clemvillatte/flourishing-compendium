@@ -18,7 +18,7 @@ The principle takes its name from the first chapter of the Zhuangzi, whose title
 
 Huizi judges both the tree and Zhuangzi's words by their usefulness. Zhuangzi answers by describing an enjoyment that the carpenter's judgment leaves out. In this exchange, the tree's failure to serve the builder protects the possibility of resting beneath it. (Zhuangzi 1, §7.)
 
-The compendium applies the exchange as a directive: build a life you can move through lightly, unburdened by convention, comparison and hoarded identity.
+I applie the exchange as a directive: build a life you can move through lightly, unburdened by convention, comparison and hoarded identity.
 
 **Plain words**
 When something seems useless, ask what job you expected it to do. A tree can fail the carpenter's test and still be a pleasant place to rest. You need not remake it to enjoy being there.

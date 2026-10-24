@@ -17,9 +17,9 @@ The life story is "organized into life chapters and punctuated by key scenes lik
 
 The model's most-cited empirical result concerns story shape. Highly generative adults disproportionately tell redemption sequences, arcs where a clearly negative scene turns positive, while contamination sequences, good scenes that end badly, track the opposite ([Conn College paper](https://digitalcommons.conncoll.edu/cgi/viewcontent.cgi?article=1014&context=psychfacpub); [McAdams, First We Invented Stories](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf)). The redemptive self, the full pattern of early advantage, witnessed suffering, moral steadfastness, redemption and prosocial goals, predicts generativity and relates to well-being. The cultural caveat is McAdams's own: stories of agency and redemption "tend to be highly favored, at least in American society" ([McAdams 2019](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf)).
 
-### In the compendium
+### Here
 
-The compendium treats the model as the psychology of self-authorship. R105 practises narrative identity directly, and E084's emplotment is the writing move; P063 keeps the self-concept revisable and K334 revises the identity script. The stories carry cases: ST172's Thales falling in the well, ST003's useless tree, ST082's Huineng hearing one line, ST047's McCandless and the bus, ST056's Matisse cutting paper, each a nuclear episode with its own emplotment; P129's sympathetic understanding is the reader's stance toward other people's stories.
+I treat the model as the psychology of self-authorship. R105 practises narrative identity directly, and E084's emplotment is the writing move; P063 keeps the self-concept revisable and K334 revises the identity script. The stories carry cases: ST172's Thales falling in the well, ST003's useless tree, ST082's Huineng hearing one line, ST047's McCandless and the bus, ST056's Matisse cutting paper, each a nuclear episode with its own emplotment; P129's sympathetic understanding is the reader's stance toward other people's stories.
 
 - [[R105 — Practise narrative identity]] — the model as a practice
 - [[E084 — Practise emplotment]] — the authoring move
@@ -46,11 +46,11 @@ The compendium treats the model as the psychology of self-authorship. R105 pract
 
 
 - [[Narrative identity]] — the construct the model introduced
-- [[Narrative redemption sequences]] — the compendium's page for the model's key finding
+- [[Narrative redemption sequences]] — my page for the model's key finding
 - [[Self as process]] — the self as ongoing construction rather than fixed thing
 - [[The search for meaning]] — the existential project the story serves
 - [[Fixed views of self]] — the frozen story, the model's diagnostic contrast
-- [[CO010]] — the compendium's principle on thinking as narrative
+- [[CO010]] — my principle on thinking as narrative
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 ## Cited in psychology parallels
 

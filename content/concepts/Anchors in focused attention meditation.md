@@ -19,7 +19,7 @@ The review defines the practice by its object: FA meditation "entails voluntary 
 
 The same passage says the practice cultivates "the acuity and stability of sustained attention on a chosen object" and develops three regulative skills: a monitoring faculty that stays vigilant to distractions without destabilizing the focus, the ability to disengage from a distracting object without further involvement, and the ability to redirect focus promptly to the chosen object.
 
-### In the compendium
+### Here
 
 - [[AT030 — Learn to use attentional anchors — objects that stabilise focus]]
 - [[AT047 — Learn focused attention meditation — concentration on a single object]]

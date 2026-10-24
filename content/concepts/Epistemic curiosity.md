@@ -19,7 +19,7 @@ The distinction matters because the two kinds of wanting feel different and lead
 
 The interest type is the pleasure of finding out; the deprivation type is the itch of an unanswered question. In the German validation study, the two scales behaved as distinct factors: interest-type curiosity correlated with enjoying new discoveries and ideas, deprivation-type with persistence and solving problems ([Litman and Mussel, 2013](https://drjlitman.net/papers/Litman-Mussel-2013.pdf)).
 
-### In the compendium
+### Here
 
 - [[B092 — Investigate with curiosity (dhammavicaya)]] — the Buddhist factor of awakening that treats investigation itself as part of the path
 - [[B139 — Live the question (what is this)]] — the contemplative practice of staying with not-knowing

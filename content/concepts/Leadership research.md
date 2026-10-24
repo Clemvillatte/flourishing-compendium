@@ -15,7 +15,7 @@ Leadership research is the social-scientific study of leading: what leaders do, 
 
 The review also covers "the role of relationships through our review of leader member exchange and the emerging work on followership", plus "substitutes for leadership, servant leadership, spirituality and leadership, cross-cultural leadership, and e-leadership" ([same review, abstract](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.60.110707.163621)). The review surveys several approaches and identifies questions for further research in each.
 
-### In the compendium
+### Here
 
 - [[S113 — Handle power without tyranny]] cites leadership research as its psychology parallel for the study of holding power without abusing it.
 

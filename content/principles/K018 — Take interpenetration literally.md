@@ -18,7 +18,7 @@ Nishitani's term appears in Religion and Nothingness (trans. Jan Van Bragt, p. 1
 
 > That beings one and all are gathered into one, while each one remains absolutely unique in its 'being,' points to a relationship in which [...] all things are master and servant to one another. We may call this relationship, which is only possible on the field of Śūnyatā, 'circuminsessional'
 
-Two limits follow. Each thing stays "absolutely unique", so interpenetration does not erase individuals. And the [Stanford Encyclopedia on the Kyoto School](https://plato.stanford.edu/entries/kyoto-school/) says Nishitani's field of emptiness is where "a genuine interpersonal encounter can take place" (section 3.5). The suggestion to spend a minute seeing a difficult person as conditioned by everything is the compendium's practice, not a quotation from either source.
+Two limits follow. Each thing stays "absolutely unique", so interpenetration does not erase individuals. And the [Stanford Encyclopedia on the Kyoto School](https://plato.stanford.edu/entries/kyoto-school/) says Nishitani's field of emptiness is where "a genuine interpersonal encounter can take place" (section 3.5). The suggestion to spend a minute seeing a difficult person as conditioned by everything is my practice, not a quotation from either source.
 
 (Nishitani, Religion and Nothingness; the Huayan tradition.)
 

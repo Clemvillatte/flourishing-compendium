@@ -27,7 +27,7 @@ The effects are real but modest. The review states the field's summary finding:
 
 An early meta-analysis reported an effect size of d = .47 at two months' follow-up (Smyth 1998, as reported in the same review). The honest qualifications travel with the finding: "the extent and the duration of these gains are variable among findings in expressive writing research", and studies with children and adolescents "have shown more mixed results" ([Barcaccia et al., 2017](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-48082017000300213)). The review's own qualification is that the method "may be most beneficial to those with sound executive functioning" and least effective "for those with severely disordered cognition, or whose executive functions are still developing, as in preadolescents". Writing is one option among several: for some people and some subjects, suppression is not maladaptive ([[AF032]]).
 
-### In the compendium
+### Here
 
 - [[P113 — Express by shaping, not venting]] — the writing principle contrasts expression with discharge, and this paradigm is the tested version of expression
 - [[SP053 — Connect affects to ordered thought]] — the writing turns raw affect into ordered account
@@ -38,7 +38,7 @@ An early meta-analysis reported an effect size of d = .47 at two months' follow-
 - [[AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture]] — the counterweight: writing is one option, not a universal prescription
 - [[B192 — Begin the day with intention; end it with review]] — the evening review ([[K157 — Evening review]]) is the same technology in Stoic clothes
 - [[P063 — Treat your self-concept as revisable]] — the written account lets the self-concept be revised on paper
-- [[K245 — Expressive writing]] — the compendium's own kernel page
+- [[K245 — Expressive writing]] — my own kernel page
 
 ## Other formulations in this library
 

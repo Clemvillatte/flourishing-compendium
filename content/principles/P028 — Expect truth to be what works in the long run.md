@@ -20,7 +20,7 @@ Peirce defines truth as the opinion fated to be ultimately agreed to by all who 
 
 > "The truth of an idea is not a stagnant property inherent in it. Truth HAPPENS to an idea. It BECOMES true, is MADE true by events. Its verity is in fact an event, a process: the process namely of its verifying itself, its veri-FICATION." (James, Pragmatism, lecture 6, [Gutenberg](https://www.gutenberg.org/cache/epub/5116/pg5116.txt))
 
-The compendium's exercise for a working belief: name what would count as corroboration over months, and what would count as failure, before trusting a short run.
+My exercise for a working belief: name what would count as corroboration over months, and what would count as failure, before trusting a short run.
 
 **Plain words**
 Give a new belief time to be checked. One good week is a checkpoint, and the verdict comes from what holds under longer testing.

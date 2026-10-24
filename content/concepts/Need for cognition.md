@@ -19,7 +19,7 @@ The same chapter says the construct taps differences in motivation rather than a
 
 The scale was built and validated across four studies. Faculty members stood in for high need for cognition and assembly-line workers for low, and the scale did not track test anxiety. Study 4 reported that attitudes toward simple and complex versions of a cognitive task looked the same until the participants' need for cognition was taken into account.
 
-### In the compendium
+### Here
 
 - [[P103 — Accept restlessness — it is the human condition]]
 - [[A087 — Seek the pleasure of contemplation]]

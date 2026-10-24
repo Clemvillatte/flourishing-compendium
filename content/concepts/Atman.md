@@ -11,7 +11,7 @@ Within Śaṅkara's Advaita Vedānta, the ātman is identified with [[Brahman]] 
 
 From the empirical standpoint, consciousness is that by which mental cognition is revealed as known, and it is present while mental experiences change. The tradition traces the appearance of an individual person (jīva) to ignorance (avidyā), which confounds self and not-self; realization ([[Moksha]]) is the knowledge "I am Brahman" (ahaṃ brahmāsmi, BṛU 1.4.10), which negates the error of superimposition ([Śaṅkara, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/); [IEP Advaita Vedanta](https://iep.utm.edu/advaita-vedanta/)).
 
-[[Maya (illusion)|māyā]] is the tradition's term for the appearing power involved. Related in the compendium: [[Anatta]], [[Ziran (naturalness)]].
+[[Maya (illusion)|māyā]] is the tradition's term for the appearing power involved. Related here: [[Anatta]], [[Ziran (naturalness)]].
 
 > "The fundamental thrust of Advaita Vedānta is that the ātman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman." (Dalal, [Śaṅkara](https://plato.stanford.edu/archives/spr2026/entries/shankara/), Stanford Encyclopedia of Philosophy, opening overview)
 

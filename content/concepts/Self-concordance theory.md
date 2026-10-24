@@ -26,7 +26,7 @@ The 2004 study asked whether this holds where societies stress duty and group no
 
 Both sources are abstracts, so the effect sizes and methods are not covered here. The 2004 samples are cultural groups defined by country, not a sweep of all societies, and its authors hedge with "may be important for most if not all humans".
 
-### In the compendium
+### Here
 
 - [[D002 — Practice ziran — naturalness]], [[A002 — Live according to your function (ergon)]], [[S005 — Live according to nature]] and [[S078 — Do not let others' opinions govern you]] cite this concept.
 - [[SE014 — Know your values — what actually matters to you]], [[MO057]] and [[PP009]] cite it as well.

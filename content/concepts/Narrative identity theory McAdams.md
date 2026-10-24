@@ -25,7 +25,7 @@ A redemption sequence moves from a bad scene to a good one; contamination runs t
 
 The 2013 retrospective frames the pattern in generativity terms: midlife American adults high in generativity "tend to highlight redemptive episodes in autobiographical memory and tend to see their lives as following a redemptive arc" ([McAdams, 2013](http://www.its.caltech.edu/~squartz/Perspectives%20on%20Psychological%20Science-2013-McAdams-272-95.pdf)). The stories they author are "psychological resources on which they draw" as actors and agents ([McAdams, 2013](http://www.its.caltech.edu/~squartz/Perspectives%20on%20Psychological%20Science-2013-McAdams-272-95.pdf)). These are correlations in American samples, not instructions — but they are unusually stable ones across the program's studies.
 
-### In the compendium
+### Here
 
 - [[SE035 — Understand identity as a project — you author yourself]] — the theory's authoring metaphor made explicit
 - [[P145 — Live as a line, not an assembly]] — identity as temporal continuity rather than trait inventory

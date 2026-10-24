@@ -16,7 +16,7 @@ Case 1 of the Gateless Gate is two lines long: a monk asks whether a dog has the
 
 > "A monk asked Jõshû, 'Has a dog the Buddha Nature?' Jõshû answered, 'Mu.'" (Gateless Gate, case 1, [Sekida](https://terebess.hu/zen/SekidaMumonkan.pdf))
 
-The same move against the conceptual mind appears in case 19. Nansen tells Zhaozhou that ordinary mind is the Way, and when pressed on how to know it, answers that the Way is not a matter of knowing or not knowing. In the compendium's reading, a koan is carried rather than answered; the carrying is what wears out the categories that would answer it.
+The same move against the conceptual mind appears in case 19. Nansen tells Zhaozhou that ordinary mind is the Way, and when pressed on how to know it, answers that the Way is not a matter of knowing or not knowing. In my reading, a koan is carried rather than answered; the carrying is what wears out the categories that would answer it.
 
 > "The Way is not a matter of knowing or not knowing. Knowing is delusion; not knowing is confusion." (Gateless Gate, case 19, [Sekida](https://terebess.hu/zen/SekidaMumonkan.pdf))
 

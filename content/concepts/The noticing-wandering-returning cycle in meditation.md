@@ -7,7 +7,7 @@ file: "The noticing-wandering-returning cycle in meditation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The noticing-wandering-returning cycle is the repeating sequence of events inside a session of breath-focused meditation: attention rests on the breath, drifts into mind wandering, is caught by a moment of noticing, and is deliberately returned. The cycle itself trains the attentional return mechanism (Hasenkamp et al., 2012) — the compendium's framing; the study behind it measured the cycle's brain signatures, not training outcomes. The laboratory study that gave the cycle its four intervals put it this way:
+The noticing-wandering-returning cycle is the repeating sequence of events inside a session of breath-focused meditation: attention rests on the breath, drifts into mind wandering, is caught by a moment of noticing, and is deliberately returned. The cycle itself trains the attentional return mechanism (Hasenkamp et al., 2012) — my framing; the study behind it measured the cycle's brain signatures, not training outcomes. The laboratory study that gave the cycle its four intervals put it this way:
 
 > "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." (Hasenkamp, Wilson-Mendenhall, Duncan & Barsalou, 2012, [NeuroImage, 59(1), 750–760](https://barsaloulab.org/Online_Articles/2012-Hasenkamp_et_al-NeuroImage-meditation_time_course.pdf), abstract)
 

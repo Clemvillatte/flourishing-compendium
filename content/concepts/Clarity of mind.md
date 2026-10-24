@@ -19,7 +19,7 @@ The Daoist direction is the Daodejing's forty-fifth chapter, which makes stillne
 
 ### How clarity degrades and restores
 
-On the compendium's reading, clarity is degraded by specific, nameable processes, intoxicants, the five hindrances, and hasty assent, and restored by their specific counters: guarding the sense doors, examining impressions, sobriety. The Dhammapada's opening formulation is that the mind precedes the world: the lens you bring is the first fact about what you find.
+On my reading, clarity is degraded by specific, nameable processes, intoxicants, the five hindrances, and hasty assent, and restored by their specific counters: guarding the sense doors, examining impressions, sobriety. The Dhammapada's opening formulation is that the mind precedes the world: the lens you bring is the first fact about what you find.
 
 ### The distinction to hold
 
@@ -31,7 +31,7 @@ The fifth precept as guard: the instrument not clouded before the day's work. (I
 
 Its contemplative cognates are [[Sati]] (the noticing that clarity requires) and the epoché interval ([[Epoché]]): the Pyrrhonian and Stoic suspensions are clarity's method, not its rival.
 
-### In the compendium
+### Here
 
 - [[B034 — Know the five hindrances]] — the five clouds
 - [[B151 — Keep the mind clear — sobriety]] — the intoxicant guard

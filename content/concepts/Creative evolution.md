@@ -17,14 +17,14 @@ The engine is the élan vital, the vital impulse. One image runs through the boo
 
 The metaphysical root is duration. "The more we study the nature of time, the more we shall comprehend that duration means invention, the creation of forms, the continual elaboration of the absolutely new" ([Creative Evolution](https://archive.org/stream/creativeevolutio00berguoft/creativeevolutio00berguoft_djvu.txt)). Human intelligence, shaped for practical tool-making, spatializes time and so misses life's creativity; intuition, the fringe of instinct surviving in intelligent beings, is the faculty that rejoins the movement ([SEP](https://plato.stanford.edu/entries/bergson/)).
 
-### In the compendium
+### Here
 
-P095's expecting genuine novelty and P006's creativity as the ultimate principle are the compendium's translations of the book's central claim. P043's vary, select, retain is a practical method the compendium pairs with evolution's logic, CO002's two modes of thinking is a pairing with Bergson's intuition-intellect contrast — his philosophical distinction, not an anticipation of psychological fast and slow processing — and P094's intuition principle is the compendium's homage to his method. The book made Bergson the intellectual celebrity of the 1910s, and its ideas still structure the compendium's process philosophy pairing, Creative advance ([SEP](https://plato.stanford.edu/entries/bergson/)).
+P095's expecting genuine novelty and P006's creativity as the ultimate principle are my translations of the book's central claim. P043's vary, select, retain is a practical method I pair with evolution's logic, CO002's two modes of thinking is a pairing with Bergson's intuition-intellect contrast — his philosophical distinction, not an anticipation of psychological fast and slow processing — and P094's intuition principle is my homage to his method. The book made Bergson the intellectual celebrity of the 1910s, and its ideas still structure my process philosophy pairing, Creative advance ([SEP](https://plato.stanford.edu/entries/bergson/)).
 
 ## Related concepts
 
-- [[Emergence]] — the new arising from the old, a scientific concept the compendium pairs with creation
-- [[Creative advance]] — Whitehead's process philosophy, the compendium's cousin account
+- [[Emergence]] — the new arising from the old, a scientific concept I pair with creation
+- [[Creative advance]] — Whitehead's process philosophy, my cousin account
 - [[Flow]] — absorption in making, creativity's everyday face
 - [[Curiosity]] — exploration, the forward-leaning posture of the élan
 - [[Growth mindset]] — the belief that capacities are not yet finished

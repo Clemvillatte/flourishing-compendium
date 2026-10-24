@@ -17,7 +17,7 @@ Barsade's laboratory study put a trained confederate into small groups doing a m
 
 The downstream effects ran through the group's work: "the positive emotional contagion group members experienced improved cooperation, decreased conflict, and increased perceived task performance." The study did not detect the predicted differences in contagion associated with mood pleasantness or energy level ([Barsade, 2002, abstract](https://journals.sagepub.com/doi/10.2307/3094912)). One person's affective state, in other words, is a group input variable.
 
-### In the compendium
+### Here
 
 - [[AF022 — Recognise affective contagion in groups; do not mistake it for your own feeling]] — the principle that names the practical risk this research exposes
 - [[AF073 — Learn co-regulation — affect is regulated with others, not just within]] — the regulation side of the same convergence

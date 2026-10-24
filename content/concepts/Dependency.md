@@ -19,9 +19,9 @@ According to the entry, social contract theory has traditionally "not attended t
 
 ### Scope
 
-The compendium's earlier note cites Kittay's Love's Labor. That book was not read for this page, and the account here rests on the Stanford entry's summary of it. The entry does not say how a reader should treat their own dependence, so any practical advice is an inference.
+My earlier note cites Kittay's Love's Labor. That book was not read for this page, and the account here rests on the Stanford entry's summary of it. The entry does not say how a reader should treat their own dependence, so any practical advice is an inference.
 
-### In the compendium
+### Here
 
 - [[R074 — Practise care for the dependent]] lists this concept and itself relies on encyclopedia summaries of Kittay.
 

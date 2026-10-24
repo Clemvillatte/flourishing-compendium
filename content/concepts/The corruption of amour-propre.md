@@ -15,7 +15,7 @@ The corruption of amour-propre is Rousseau's account, in the Discourse on the Or
 
 The Discourse then shows the corruption happening once people gather. In the older anonymous translation: "Every one begins to survey the rest, and wishes to be surveyed himself; and public esteem acquires a value." Talent and appearance become rank, and the outcome is "on one side vanity and contempt, on the other envy and shame". Esteem becomes something each person can claim, "and it was no longer safe for any man to refuse it to another", so civility itself begins as a response to this new danger. Once standing is a good that other people control, managing their opinion of you becomes the natural next move, and scheming is that move made a habit.
 
-### In the compendium
+### Here
 
 - [[D164 — Discard scheming]] — cites this account as its philosophy parallel; the machination to drop is amour-propre's maneuvering for esteem
 

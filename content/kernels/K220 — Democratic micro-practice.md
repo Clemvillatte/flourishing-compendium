@@ -14,7 +14,7 @@ In any group decision you are part of, make sure every voice is heard before the
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the correlate they serve is measured in the study below.*
+*Steps are my own protocol; the correlate they serve is measured in the study below.*
 
 1. Before any verdict, go round the group once: each person speaks before anyone speaks twice.
 2. Ask the quiet members directly, by name, for their read; an unspoken view is a lost data point.

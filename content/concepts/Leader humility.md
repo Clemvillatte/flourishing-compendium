@@ -17,9 +17,9 @@ Bradley Owens and David Hekman's team-performance study made the mechanism a soc
 
 The chain runs from behavior to shared state to result: the collective humility "creates a team emergent state focused on progressively striving toward achieving the team's highest potential (collective promotion focus), which ultimately enhances team performance." Three studies support it, including a field study in a health services context, and the findings, in the authors' summary, "demonstrat[e] that leader behavior can spread via social contagion to followers, producing an emergent state that ultimately affects team performance." The leadership contribution they draw is behavioral: leaders lead by example, and a specific set of leader behaviors moves a whole team.
 
-### In the compendium
+### Here
 
-The finding lands next to the compendium's leadership principles on leading from behind, not claiming credit, and shining without displaying, each a behavioral facet of the same contagion.
+The finding lands next to my leadership principles on leading from behind, not claiming credit, and shining without displaying, each a behavioral facet of the same contagion.
 
 - [[D067 — Don't claim credit]]
 - [[D115 — Lead from behind]]

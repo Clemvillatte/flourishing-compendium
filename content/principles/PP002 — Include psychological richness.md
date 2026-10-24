@@ -23,7 +23,7 @@ The abstract also records what their surveys found:
 (Oishi & Westgate, 2022, "A psychologically rich life: Beyond happiness and meaning," Psychological Review, 129(4).)
 
 **Plain words**
-The paper's claim is that "interesting, varied, perspective-changing" names a third thing people can want from a life, alongside pleasant and meaningful. The compendium's exercise: review your last month and ask whether any experience changed how you see something, however small. That is what richness is made of on this account.
+The paper's claim is that "interesting, varied, perspective-changing" names a third thing people can want from a life, alongside pleasant and meaningful. My exercise: review your last month and ask whether any experience changed how you see something, however small. That is what richness is made of on this account.
 
 *For example:* Suppose you spend six months in a country whose language you do not speak. The paper's definition does not promise the time will be happy or meaningful; what it would ask is whether the experience changed your perspective.
 

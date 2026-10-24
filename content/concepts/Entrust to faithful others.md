@@ -15,16 +15,16 @@ The verse names a chain of teaching: what Timothy heard from the letter's author
 
 ### Scope
 
-This is a short religious text. The sources used here give the words of the verse and nearby verses in two translations. They do not include a commentary, so the page makes no claim about how scholars date or interpret the letter, and nothing from educational or psychological research is cited. Using the verse as guidance about teaching one's own skills is the compendium's application.
+This is a short religious text. The sources used here give the words of the verse and nearby verses in two translations. They do not include a commentary, so the page makes no claim about how scholars date or interpret the letter, and nothing from educational or psychological research is cited. Using the verse as guidance about teaching one's own skills is my application.
 
-### In the compendium
+### Here
 
 - [[M050 — Transmit what you master]] lists this concept. That principle rests on the Florentine Codex and the Internet Encyclopedia of Philosophy and does not cite 2 Timothy, so the link is thematic.
 
 ## Related concepts
 
-- [[Generativity theory]] — the compendium's page on generativity
-- [[Intergenerational transmission]] — the compendium's page on passing things between generations
+- [[Generativity theory]] — my page on generativity
+- [[Intergenerational transmission]] — my page on passing things between generations
 
 ## Sources
 

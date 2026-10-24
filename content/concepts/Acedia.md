@@ -23,9 +23,9 @@ Thomas Aquinas, using the Latin tradition's word "sloth", gives a definition tha
 
 ### What it is not
 
-Acedia is not simply boredom or a work-life problem, and it is not a clinical diagnosis. The compendium links it to modern pictures of burnout and amotivation as a human resemblance, not an identity. The sources above are monastic and scholastic, and they describe the experience as those authors saw it.
+Acedia is not simply boredom or a work-life problem, and it is not a clinical diagnosis. I link it to modern pictures of burnout and amotivation as a human resemblance, not an identity. The sources above are monastic and scholastic, and they describe the experience as those authors saw it.
 
-### In the compendium
+### Here
 
 - [[MO065 — Recognise avolition and amotivation — clinical loss of motivation]] — discusses clinical loss of motivation
 - [[MO063 — Recognise burnout — motivation can be exhausted]] — discusses motivation exhaustion

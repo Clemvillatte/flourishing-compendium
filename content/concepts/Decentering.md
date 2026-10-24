@@ -29,12 +29,12 @@ Fresco and colleagues also describe decentering in clinical practice:
 
 > “Helping patients learn how to decenter, or take a step back from their negative thoughts, is one of the core goals of mindfulness-based clinical interventions, but can also occur following successful cognitive therapy.” ([Fresco et al. 2007](https://contextualscience.org/sites/default/files/Fresco,2007.pdf), Study 1, Measure)
 
-### In the compendium
+### Here
 
-- [[B074 — Thoughts are not facts]] — the compendium’s statement of the shift: a thought examined before it is obeyed
+- [[B074 — Thoughts are not facts]] — my statement of the shift: a thought examined before it is obeyed
 - [[D050 — Keep a mirror-mind]] — the Daoist mirror principle that names the same reflecting-without-grasping stance
 - [[B066 — Watch states arise and pass]] — watching the rise and decay of states as they happen
-- [[B003 — Hold the self lightly (anatta)]] — the Buddhist teaching the compendium reads alongside this shift
+- [[B003 — Hold the self lightly (anatta)]] — the Buddhist teaching I read alongside this shift
 - [[P159 — Defuse — see thoughts as thoughts]] — ACT’s defusion, a construct the review groups with decentering
 - [[E006 — Practise the epoché in daily life]] — the phenomenological bracketing; the principle’s parallels pair it with Decentering
 - [[S045 — Examine every impression]] — the Stoic testing of an impression before granting assent
@@ -59,10 +59,10 @@ Fresco and colleagues also describe decentering in clinical practice:
 - [[Metacognitive awareness]] — a monitoring process the same literature treats as enabling decentering from thoughts
 - [[Metacognitive monitoring]] — the tradition of observing one’s own thinking as thinking
 - [[Rumination]] — the Experiences Questionnaire was designed to measure both decentering and rumination
-- [[Anatta]] — the Buddhist no-self teaching the compendium reads alongside this shift
-- [[Epoché]] — the phenomenological suspension the compendium’s E006 principle pairs with Decentering
-- [[Mindfulness]] — the practice family the compendium connects to this shift
-- [[Acceptance]] — the compendium’s Acceptance page calls decentering its mindfulness-research cousin
+- [[Anatta]] — the Buddhist no-self teaching I read alongside this shift
+- [[Epoché]] — the phenomenological suspension my E006 principle pairs with Decentering
+- [[Mindfulness]] — the practice family I connect to this shift
+- [[Acceptance]] — my Acceptance page calls decentering its mindfulness-research cousin
 - [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 ## Sources
 

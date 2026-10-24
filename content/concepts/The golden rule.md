@@ -29,9 +29,9 @@ Both formulations are negative: they forbid imposing what one dislikes. The orig
 
 ### Limits
 
-Neither source says the rule is a complete moral theory. This page does not cover the positive Christian forms, and it does not assess the compendium's extension of the rule to self-compassion, which is its own application.
+Neither source says the rule is a complete moral theory. This page does not cover the positive Christian forms, and it does not assess my extension of the rule to self-compassion, which is its own application.
 
-### In the compendium
+### Here
 
 - [[R064 — Practise reciprocity (shu)]], [[AF066 — Cultivate self-compassion — treat yourself as you would a good friend]], [[SE012 — Understand that the self is not the enemy — self-relation is a skill]] and [[SE025 — Cultivate self-compassion — treat yourself as you would a good friend]] cite this concept.
 - [[Y058 — Practice moderation in everything]] and [[M044 — Treat every person as another you]] also cite it.

@@ -23,7 +23,7 @@ Galen's argument is that superficially similar symptoms can belong to different 
 
 He concedes the rival position's practical record: "Galen believes that the Empiricist position, avoiding any statement about unseen entities and basing itself entirely on experience (empeiria, peira), will lead to the correct therapeutic result in many cases" ([Singer, section 3.2](https://plato.stanford.edu/entries/galen/)). Galen accepts that experience-based treatment often succeeds; his argument is that knowledge of the internal condition can distinguish some superficially similar cases and guide the treatment for them.
 
-### In the compendium
+### Here
 
 - [[Y021 — Diagnose the mind's state before choosing a practice]] — the psychological form of the rule
 - [[SP001 — Understand rather than condemn]] — diagnosis as the alternative to moral judgment

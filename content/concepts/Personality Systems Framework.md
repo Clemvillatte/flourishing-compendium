@@ -17,7 +17,7 @@ The Personality Systems Framework is John D. Mayer's field-wide outline for orga
 
 The framework organizes the field into four topics: personality's definition, its parts (traits, schemas and the like), its organization and its development. Structurally, it divides the system "into four functional areas called the systems set: (a) energy development, (b) knowledge guidance, (c) action implementation, and (d) executive management".
 
-### In the compendium
+### Here
 
 - [[P187 — Separate the religious quality of experience from religion]]
 - [[D031 — Treasure 1 — compassion (ci)]]

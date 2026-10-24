@@ -21,9 +21,9 @@ Task switching improves through childhood and declines during aging ([Diamond, 2
 
 A related construct is [psychological flexibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/), defined by Kashdan and Rottenberg as the ability to "recognize and adapt to various situational demands; shift mindsets or behavioral repertoires when these strategies compromise personal or social functioning; maintain balance among important life domains; and be aware, open, and committed to behaviors that are congruent with deeply held values" (2010). Their review argues it is a fundamental aspect of health and notes that in many forms of psychopathology "these flexibility processes are absent".
 
-### In the compendium
+### Here
 
-The compendium ties the concept to its loosening of fixed essences. B010, "See emptiness — nothing has a fixed essence (shunyata)," teaches exactly this looseness of category-assignment, and B121's Heart Sutra line on form and emptiness does the same.
+I tie the concept to its loosening of fixed essences. B010, "See emptiness — nothing has a fixed essence (shunyata)," teaches exactly this looseness of category-assignment, and B121's Heart Sutra line on form and emptiness does the same.
 
 P021, "Treat ideas as tools, not mirrors," and D016's [[Distrust names and labels|distrust of names and labels]] apply it to concepts. D156, "Stay flexible — rigidity is death's companion," is the Daoist version, and CO045, "Cultivate cognitive flexibility — the capacity to switch between modes," carries the term directly. PP081's psychological flexibility is the ACT cousin.
 

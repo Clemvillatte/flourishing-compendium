@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 40** — Never perform ethics for an audience
 
-Bhagavad Gita 3.6 calls outward restraint accompanied by continued mental preoccupation with sense objects hypocrisy ([BG 3.6](https://www.holy-bhagavad-gita.org/chapter/3/verse/6)). [Verse 17.18](https://www.holy-bhagavad-gita.org/chapter/17/verse/18) addresses the motive for austerity: seeking honor, respect and adoration. It classifies such practice as passion-driven and describes its benefits as unstable and transitory ([BG 17.18](https://www.holy-bhagavad-gita.org/chapter/17/verse/18)).
+Bhagavad Gita 3.6 calls it hypocrisy to hold the body back while the mind keeps dwelling on the objects of the senses ([BG 3.6](https://www.holy-bhagavad-gita.org/chapter/3/verse/6)). Verse 17.18 takes up the motive for austerity: practiced to win honor, respect and adoration, it counts as passion-driven, and what it yields is unstable and short-lived ([BG 17.18](https://www.holy-bhagavad-gita.org/chapter/17/verse/18)).
 
 > Those who restrain the external organs of action, while continuing to dwell on sense objects in the mind, certainly delude themselves and are to be called hypocrites.
 >

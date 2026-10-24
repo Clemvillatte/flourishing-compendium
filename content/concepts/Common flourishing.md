@@ -15,7 +15,7 @@ Common flourishing names the good that Aristotle's Politics places as the purpos
 
 Book III states the point as a definition of what a city is: "It is not therefore founded for the purpose of men's merely living together, but for their living as men ought" ([Politics III.IX](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm)). The same chapter gives the positive formulation: the end for which a city is established is that its inhabitants may live happy, and the city is "a community of families and villages for the sake of a perfect independent life; that is, as we have already said, for the sake of living well and happily" ([Politics III.IX](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm)). Common flourishing is a summary label for this civic end: on the account the Politics gives, the city exists for the sake of living well and happily.
 
-### In the compendium
+### Here
 
 - [[AF072 — Recognise that positive affect alone is not flourishing; it is one component]]
 - [[R107 — Practise the common good]]

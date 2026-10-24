@@ -18,7 +18,7 @@ The collective-intelligence finding, from the study that tested groups of two to
 
 > "This "c factor" is not strongly correlated with the average or maximum individual intelligence of group members but is correlated with the average social sensitivity of group members, the equality in distribution of conversational turn-taking, and the proportion of females in the group." — [Woolley, Chabris, Pentland, Hashmi & Malone, 2010, Science 330(6004), Abstract](https://pubmed.ncbi.nlm.nih.gov/20929725/)
 
-The collective-intelligence factor was not strongly correlated with the average or maximum individual intelligence of group members, but it was correlated with the average social sensitivity of group members and the equality in distribution of conversational turn-taking. The two-advisor rule and the what-would-you-consider question are the compendium's editorial design, not the study's protocol.
+The collective-intelligence factor was not strongly correlated with the average or maximum individual intelligence of group members, but it was correlated with the average social sensitivity of group members and the equality in distribution of conversational turn-taking. The two-advisor rule and the what-would-you-consider question are my own design, not the study's protocol.
 
 ### Protocol
 

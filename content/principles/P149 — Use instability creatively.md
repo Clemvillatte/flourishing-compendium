@@ -18,7 +18,7 @@ Prigogine describes physical systems in which sustained exchanges with the surro
 
 ### Keep the analogy within limits
 
-The word “may” matters. This physical account does not establish that a personal crisis produces growth, or that suffering is necessary for a better life. The compendium borrows a question, not a law of recovery: when an arrangement has broken down, what could be reorganized, and what support would that require?
+The word “may” matters. This physical account does not establish that a personal crisis produces growth, or that suffering is necessary for a better life. I borrow a question, not a law of recovery: when an arrangement has broken down, what could be reorganized, and what support would that require?
 
 (Prigogine and Stengers, Order Out of Chaos, 1984.)
 

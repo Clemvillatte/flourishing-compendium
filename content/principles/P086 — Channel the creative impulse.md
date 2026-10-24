@@ -18,7 +18,7 @@ Dewey holds that impulse brings the possibility, not the assurance, of reorganiz
 
 > "Suppression is not annihilation. \"Psychic\" energy is no more capable of being abolished than the forms we recognize as physical. If it is neither exploded nor converted, it is turned inwards, to lead a surreptitious, subterranean life." (Dewey, Human Nature and Conduct, part 2, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-The compendium's exercise: name one recurring impulse in you, and list two existing habits it could be converted into.
+My exercise: name one recurring impulse in you, and list two existing habits it could be converted into.
 
 **Plain words**
 A restless urge does not disappear when you block it. Pick somewhere for it to go.

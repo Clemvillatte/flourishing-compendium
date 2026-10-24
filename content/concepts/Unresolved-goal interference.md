@@ -15,7 +15,7 @@ Unresolved-goal interference is the attentional load of open goals: the finding 
 
 In the Masicampo and Baumeister studies, unfinished goals "caused intrusive thoughts during an unrelated reading task (Studies 1 and 5B), high mental accessibility of goal-related words (Studies 2 and 3), and poor performance on an unrelated anagram task (Study 4)" ([abstract](https://pubmed.ncbi.nlm.nih.gov/21688924/)). The practical discovery is in the remedy. Completing the goal is not required to quiet it: "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects" ([abstract](https://pubmed.ncbi.nlm.nih.gov/21688924/)). As the abstract concludes, "Once a plan is made, the drive to attain a goal is suspended--allowing goal-related cognitive activity to cease--and is resumed at the specified later time" ([abstract](https://pubmed.ncbi.nlm.nih.gov/21688924/)). A specific plan, honestly meant, buys the same mental quiet that finishing the task would.
 
-### In the compendium
+### Here
 
 - [[Y043 — Let ethics stabilize the mind]] pairs this research with Patanjali's placing of ethics before concentration: if unresolved goals tax attention, then settled abstentions, on the principle's reading, are a precondition for a steady mind rather than a moral decoration on it.
 

@@ -18,7 +18,7 @@ The best-known experimental demonstration, Baird and colleagues' undemanding-tas
 
 > "The authors identified a positive incubation effect, with divergent thinking tasks benefiting more than linguistic and visual insight tasks from incubation. Longer preparation periods gave a greater incubation effect, whereas filling an incubation period with high cognitive demand tasks gave a smaller incubation effect." (Sio & Ormerod, 2009 — [abstract](https://eric.ed.gov/?id=EJ827110) — Psychol Bull 135(1), pp. 94-120)
 
-The compendium's practice takes the robust part: when stuck, set the problem aside and fill the break with something undemanding rather than something demanding or nothing in particular. Whether the benefit comes specifically from mind-wandering is not settled.
+My practice takes the robust part: when stuck, set the problem aside and fill the break with something undemanding rather than something demanding or nothing in particular. Whether the benefit comes specifically from mind-wandering is not settled.
 
 **Plain words**
 When a problem stops yielding, continuing to hammer it has a poor record. The meta-analytic result is plain: set it aside, keep busy with something easy rather than something hard, and a longer initial effort before the break helped too. What the break does inside the head is not settled; the eureka-in-the-shower story is anecdote, and the one laboratory demonstration of the mind-wandering mechanism did not replicate.

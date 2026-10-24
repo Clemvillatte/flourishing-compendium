@@ -15,7 +15,7 @@ In acceptance and commitment therapy, values are defined as qualities of ongoing
 
 The same article separates values from goals with an example: "investing in family life" is a value, while "Friday family movie night" is a goal, "a tangible outcome". Values-based living, it says, means living so that values "provide direction like a compass".
 
-### In the compendium
+### Here
 
 - [[AF046 — Know that tolerance is not the goal; valued living is]] — ACT's acceptance skills serve chosen values
 - [[BE012 — Understand that behaviour is ultimately about values — action should serve what matters]] — committed action is designed to further values

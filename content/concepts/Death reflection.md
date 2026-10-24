@@ -17,7 +17,7 @@ The induction asks participants to imagine their own death in detail. In the sce
 
 In the original studies, "mortality salience led highly extrinsic participants to manifest greed, whereas death reflection again generated intrinsic, unselfish behavior" ([Cozzolino, Staples, Meyers & Samboceti 2004, PSPB](https://journals.sagepub.com/doi/10.1177/0146167203260716)). On gratitude, "the death reflection induction showed the greatest increase in state gratitude, followed by the traditional mortality salience treatment and the controls," and the study's conclusion: "when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase" ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). These claims are scoped to these studies.
 
-### In the compendium
+### Here
 
 K222's mortality reflection and K230's memento mori are the kernels. B055's maranasati is the Buddhist contemplation of death, a related but distinct practice; S089, S102 and S104 are the Stoic remembrances; E043's being-toward-death is the Heideggerian analysis; M037's numbering of days is the psalmist's arithmetic; and D090's death as transformation is the Daoist frame. P106's letting mortality give shape is the design principle, and SP068's caution — think least of death; wisdom meditates on life — provides a contrasting philosophical stance.
 

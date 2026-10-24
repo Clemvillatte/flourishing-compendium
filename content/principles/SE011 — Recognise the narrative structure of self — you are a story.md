@@ -20,7 +20,7 @@ In the studies behind these definitions, the shapes track how people are doing:
 
 > "redemption sequences relate to higher well-being (Dunlop 2021; McAdams et al. 2001), whereas contamination sequences are related to more psychological distress (McAdams et al. 2001)." (Sawatzki & Thomsen, 2025)
 
-The compendium's reading: if identity is narrated, the narration can be examined and revised.
+My reading: if identity is narrated, the narration can be examined and revised.
 
 **Plain words** You already tell your life as a story — to friends, in your head, at interviews. The research point is that the telling has a shape, and the shape is countable: does it move from bad scenes to good outcomes, or the reverse? Two people with the same facts can be telling very different stories. Noticing your default arc is the first edit; the second is checking whether a dark chapter is doing the closing narration.
 
@@ -50,7 +50,7 @@ The compendium's reading: if identity is narrated, the narration can be examined
 
 - [[SE001]] — SE011 treats the self as story-structured; SE001 supplies McAdams's narrative-identity account, the evolving life story a person tells.
 - [[Narrative identity]] — the concept behind this principle: identity as the life story a person tells and revises.
-- [[Narrative redemption sequences]] — the story shapes this principle names, with the compendium's practice principles for working them.
+- [[Narrative redemption sequences]] — the story shapes this principle names, with my practice principles for working them.
 - [[Redemption sequences]] — the bad-to-good shape as its own concept.
 
 ## Sources

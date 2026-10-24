@@ -18,11 +18,11 @@ A different question is whether near goals help performance, and that is what Ba
 
 > "Under proximal subgoals, children progressed rapidly in self-directed learning, achieved substantial mastery of mathematical operations, and developed a sense of personal efficacy and intrinsic interest in arithmetic activities that initially held little attraction for them. Distal goals had no demonstrable effects." (Bandura and Schunk, 1981, Journal of Personality and Social Psychology 41(3), 586-598, [Digital Greensboro record](https://www.digitalgreensboro.org/record/8817?v=pdf))
 
-Read carefully, this is a comparison of goal structures, not of step sizes: near subgoals worked where distant aims produced nothing demonstrable. The compendium's application is the graded plan: set the next step close enough to reach and to gauge. The study does not show that tiny steps are always optimal; it shows near goals beat far ones in this setting.
+Read carefully, this is a comparison of goal structures, not of step sizes: near subgoals worked where distant aims produced nothing demonstrable. My application is the graded plan: set the next step close enough to reach and to gauge. The study does not show that tiny steps are always optimal; it shows near goals beat far ones in this setting.
 
 **Plain words** Choose the final behaviour, then reward the closest thing you already do, and tighten the standard a little at a time. The goal to set is the next approximation, not the finished performance.
 
-*For example:* In the compendium's hypothetical example, a learner practises more often when two minutes of practice earns a reward. Once that response occurs reliably, the requirement becomes three minutes before the same reward is given.
+*For example:* In my hypothetical example, a learner practises more often when two minutes of practice earns a reward. Once that response occurs reliably, the requirement becomes three minutes before the same reward is given.
 
 ## Sources
 - [[T012 — Laozi]]: the single-step opening of the thousand-mile journey (Daodejing 64), the page's image for gradual change.
@@ -43,4 +43,4 @@ Read carefully, this is a comparison of goal structures, not of step sizes: near
 
 ## Practice
 
-- The compendium's exercise: choose an achievable version of your target action and specify a reward for completing it. Record whether the action becomes more frequent. Raise the requirement gradually as the earlier version becomes reliable.
+- My exercise: choose an achievable version of your target action and specify a reward for completing it. Record whether the action becomes more frequent. Raise the requirement gradually as the earlier version becomes reliable.

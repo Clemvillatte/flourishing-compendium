@@ -21,7 +21,7 @@ For mechanism the root metaphor is the machine; for formism, similarity. For con
 
 Three commitments follow. Nothing in the world is a static thing to be dissected first and situated later; the unit of understanding is the whole act with its setting. Every event is unique and embedded in a history, so analysis is always for a purpose, never final. And since the event is always changing, the contextualist prizes what works over what is timeless, a truth criterion of successful operation that runs straight back to pragmatism, with James's pragmatism named as the contextualistic system and Dewey's habit-and-situation psychology in Human Nature and Conduct as its working application.
 
-For the compendium the payoff is practical rather than metaphysical: [[P078 — Read action in its context — always]] is the contextualist discipline as a habit of mind, and its psychological descendants [[Context sensitivity]] and [[Functional contextualism]] carry the worldview into research programs.
+For me the payoff is practical rather than metaphysical: [[P078 — Read action in its context — always]] is the contextualist discipline as a habit of mind, and its psychological descendants [[Context sensitivity]] and [[Functional contextualism]] carry the worldview into research programs.
 
 ## Sources
 

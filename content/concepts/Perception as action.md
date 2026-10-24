@@ -19,7 +19,7 @@ They are also explicit about the word "action": "sensory and motor processes, pe
 
 ### Scope
 
-This is a claim in cognitive science and philosophy of mind about how perception is structured, put forward by the authors as a preliminary formulation (they say the two points "will perhaps appear somewhat opaque"). The compendium's practice-oriented principles (E014, D056, P099, K306) use the idea in a looser, applied sense that the book passage does not discuss.
+This is a claim in cognitive science and philosophy of mind about how perception is structured, put forward by the authors as a preliminary formulation (they say the two points "will perhaps appear somewhat opaque"). My practice-oriented principles (E014, D056, P099, K306) use the idea in a looser, applied sense that the book passage does not discuss.
 
 ## Related concepts
 

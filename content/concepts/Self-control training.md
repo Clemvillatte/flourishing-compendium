@@ -14,9 +14,9 @@ The authors' conclusion is stated without hedging: "The implication is that trai
 
 ### What the null does and does not settle
 
-The null concerns the strength-model promise: that exercising control in one domain builds a general muscle usable in others. The study's trained participants "did not, for example, show reduced ego depletion effects, become better at overcoming their habits, or report exerting more self-control in everyday life." What the design does not rule out is improvement at the practiced tasks themselves, or gains that arrive by other routes — habit formation, situation selection, or practicing a specific behavior one actually wants. The compendium's habit pages carry those routes.
+The null concerns the strength-model promise: that exercising control in one domain builds a general muscle usable in others. The study's trained participants "did not, for example, show reduced ego depletion effects, become better at overcoming their habits, or report exerting more self-control in everyday life." What the design does not rule out is improvement at the practiced tasks themselves, or gains that arrive by other routes — habit formation, situation selection, or practicing a specific behavior one actually wants. My habit pages carry those routes.
 
-### In the compendium
+### Here
 
 - [[P070 — Make your nervous system your ally]] — the design-around-it alternative to muscle-building
 

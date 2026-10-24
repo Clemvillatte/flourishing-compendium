@@ -20,7 +20,7 @@ The two leading frameworks each describe well-being with several dimensions. Sel
 > Flourishing refers to the experience of life going well. It is a combination of feeling good and functioning effectively.
 > (Huppert and So 2013, Social Indicators Research 110)
 
-Aristotle's discussion makes a philosophical comparison rather than an anticipation of the modern scales: "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete" (Nicomachean Ethics I, Ross). He distinguishes activity from state, since a state of mind can exist without producing any good result, "as in a man who is asleep". The compendium's exercise, offered as a reflection and not as the models' scoring procedure: consider several areas of life and choose one to attend to.
+Aristotle's discussion makes a philosophical comparison rather than an anticipation of the modern scales: "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete" (Nicomachean Ethics I, Ross). He distinguishes activity from state, since a state of mind can exist without producing any good result, "as in a man who is asleep". My exercise, offered as a reflection and not as the models' scoring procedure: consider several areas of life and choose one to attend to.
 
 **Plain words** List the areas the frameworks name: how you feel day to day, whether you are engaged in what you do, the state of your relationships, whether it all means something to you, what you have accomplished. Look at the list and pick the one that most needs attention this month. The exercise is the choosing; no total is required.
 

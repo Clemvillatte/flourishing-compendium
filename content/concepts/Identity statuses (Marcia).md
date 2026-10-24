@@ -21,9 +21,9 @@ Marcia describes foreclosure as follows:
 
 On how the statuses behaved in the study, the results section reports ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)): "It appears that foreclosure subjects tend to maintain high goals in spite of failure." The abstract adds that those in the status characterized by adherence to parental wishes "subscribed significantly more to authoritarian values" ([Marcia, 1966](https://archive.org/download/marcia1966/marcia1966.pdf)).
 
-The compendium's principle on identity foreclosure is SE037.
+My principle on identity foreclosure is SE037.
 
-### In the compendium
+### Here
 
 - [[SE037 — Recognise identity foreclosure — premature commitment blocks growth]]
 

@@ -15,7 +15,7 @@ Iris Mauss and colleagues' 2011 paper asked whether wanting happiness too much c
 
 In the paper's first study, female participants who valued happiness more reported lower happiness under conditions of low, but not high, life stress. In the second, participants induced to value happiness reacted less positively to a happy, but not a sad, emotion induction, an effect mediated by disappointment at their own feelings. The abstract states the mechanism plainly: "the more people value happiness, the more likely they will feel disappointed", particularly "in positive situations, in which people have every reason to be happy".
 
-### In the compendium
+### Here
 
 - [[A001 — Make eudaimonia the organising end of your life]]
 - [[AF069 — Recognise the hedonic treadmill — adaptation is inevitable; plan for it]]
@@ -24,7 +24,7 @@ In the paper's first study, female participants who valued happiness more report
 ## Related concepts
 
 - [[Hedonic adaptation]] — the treadmill the trap sits on
-- [[Eudaimonia]] — the end the compendium steers toward instead
+- [[Eudaimonia]] — the end I steer toward instead
 
 ## Sources
 

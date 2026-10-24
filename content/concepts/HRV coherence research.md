@@ -19,9 +19,9 @@ The mechanism is resonance. The cardiovascular system, stimulated through the ba
 
 The evidence base is promising but uneven. The same review notes that "few areas have extensive support by way of controlled studies" while finding growing evidence for lower blood pressure in hypertensive patients, some improvement in athletic performance and emphysema symptoms, and possible reductions in depression and anxiety symptoms.
 
-### In the compendium
+### Here
 
-- [[D146 — Cultivate your qi — vitality]] — the compendium pairs this research with the Daoist cultivation of qi, as its psychology-parallels line
+- [[D146 — Cultivate your qi — vitality]] — I pair this research with the Daoist cultivation of qi, as its psychology-parallels line
 
 ## Related concepts
 

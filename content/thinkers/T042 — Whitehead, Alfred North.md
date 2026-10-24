@@ -31,14 +31,14 @@ Reality consists of "actual occasions," and in his words "actual entities are dr
 - **Fallacy of misplaced concreteness** — mistaking abstractions for the concrete; his standing critique of reduction. See [[The limits of reductionism]].
 - **Process before substance** — self and world as becoming. See [[Process philosophy]], [[Self as process]], [[P002 — Treat the world as events and doings, not things and substances|Treat the world as events and doings, not things and substances]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Process philosophy]]
 - [[Actual occasions]]
 - [[Concrescence]]
 - [[The many become one]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 78-entry surname-match floor is not reproduced.
 

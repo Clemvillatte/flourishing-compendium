@@ -21,7 +21,7 @@ When later given the chance to deliver noise blasts to the provoker, the ruminat
 
 The experiment shows what venting did not do in one paradigm; it does not by itself establish the benefits of Deweyan shaping.
 
-### In the compendium
+### Here
 
 P113 carries the concept directly. The practices that shape rather than vent: K210's active constructive responding shapes joy into connection, K338's restorative conversation shapes grievance into repair, S122's journal is a medium rather than a drain, and AF076 warns that suppression in close relationships costs intimacy. Expressive writing and BE052's assertiveness are the constructive channels — the same energy, given form.
 

@@ -24,7 +24,7 @@ And chapter 41's sentence-makers give the same reversal in rhyme:
 
 > "Its highest virtue from the vale doth rise; / Its greatest beauty seems to offend the eyes; / And he has most whose lot the least supplies. / Its firmest virtue seems but poor and low; / Its solid truth seems change to undergo;" (DDJ 41)
 
-The compendium reads these passages as a consistent preference: the chapter's advice is to dwell with the fruit and not with the flower, in conduct as much as in judgement of others.
+I read these passages as a consistent preference: the chapter's advice is to dwell with the fruit and not with the flower, in conduct as much as in judgement of others.
 
 (DDJ 38, 41.)
 

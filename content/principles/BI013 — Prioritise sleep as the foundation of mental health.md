@@ -18,7 +18,7 @@ One night of sleep loss shows up in the emotional brain. A review of the imaging
 
 Insomnia treatment also has evidence. The same review found sleep improvements "well sustained over time" and reduced psychological symptoms and distress, with limited evidence for other morbidity changes.
 
-The compendium applies the findings as a question: when mood and thinking are bad, what have the nights been?
+I applie the findings as a question: when mood and thinking are bad, what have the nights been?
 
 **Plain words**
 Sleep belongs among the questions you ask about a difficult week. These findings do not establish that poor sleep explains every emotional difficulty. The treatment evidence concerns particular therapies for insomnia.

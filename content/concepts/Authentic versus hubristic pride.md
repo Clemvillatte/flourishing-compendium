@@ -12,7 +12,7 @@ Tracy and Robins's two-facet model splits pride into two components with differe
 
 > "Authentic pride is the more socially desirable, achievement-oriented facet, associated with accomplishment and confidence. Hubristic pride is the more narcissistic facet, associated with arrogance and conceit." (Tracy, Cheng, Robins and Trzesniewski, [Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf), Self and Identity 8(2):196-213, 2009)
 
-### In the compendium
+### Here
 
 - [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — uses the two-facet distinction directly
 - [[A025 — Practice proper pride (kaucha)]] and [[SP060 — Build true self-esteem]]

@@ -15,12 +15,12 @@ Persons as ends is the Kantian rule that a human being is not a tool to be used 
 
 The reasoning runs backward from what a categorical imperative could be grounded in: "If then there is a supreme practical principle or, in respect of the human will, a categorical imperative, it must be one which, being drawn from the conception of that which is necessarily an end for everyone because it is an end in itself, constitutes an objective principle of will." The thing with that absolute worth is stated flatly: "rational nature exists as an end in itself."
 
-The compendium's [[B150 — Relate without exploitation]] is the relational form of this rule, and [[R001 — I am because we are]] is its Ubuntu restatement: persons are constitutively in each other's care, not in each other's way.
+My [[B150 — Relate without exploitation]] is the relational form of this rule, and [[R001 — I am because we are]] is its Ubuntu restatement: persons are constitutively in each other's care, not in each other's way.
 
 ## Related concepts
 
 
-- [[B150 — Relate without exploitation]]: the compendium principle this formula grounds
+- [[B150 — Relate without exploitation]]: my principle this formula grounds
 - [[The categorical imperative]]: the first formulation, from which this one is derived
 - [[Natural law]]: the rival non-theological grounding of the same "some things are always wrong" edge
 - [[Mutual recognition]]: the Hegelian critique that one-sided use of persons collapses

@@ -14,7 +14,7 @@ When encountering a group different from your own, seek stories before statistic
 
 ### Protocol
 
-The steps are the compendium's practice form; the finding the form leans on is quoted in the Evidence section.
+The steps are my practice form; the finding the form leans on is quoted in the Evidence section.
 
 1. Before reading another summary of a group's numbers, find one member's told story: an interview, a memoir, a documentary, a conversation.
 2. Read or listen for the specifics the statistics abstract away: names, costs, choices, what a day weighs.

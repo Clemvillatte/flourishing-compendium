@@ -17,7 +17,7 @@ The same passage gives the psychological engine: understanding the final utility
 
 The companion passage is the lightning-doer argument, Essay II, §13: "there is no 'being' behind doing, working, becoming; 'the doer' is a mere appanage to the action. The action is everything." The strong man, Nietzsche says there, will not separate the lightning from its light, and the retroactive invention of a doer behind the deed is the same rationalising move at the level of persons.
 
-The compendium pairs this with the psychology of [[CO024 — Recognise hindsight bias — I knew it all along.]]: Fischhoff's judges, knowing the outcome, overestimated what they would have known without it, and were largely unaware of the effect the outcome knowledge had. Nietzsche's historian and Fischhoff's judge make the same error in opposite registers, one about institutions, the other about events.
+I pair this with the psychology of [[CO024 — Recognise hindsight bias — I knew it all along.]]: Fischhoff's judges, knowing the outcome, overestimated what they would have known without it, and were largely unaware of the effect the outcome knowledge had. Nietzsche's historian and Fischhoff's judge make the same error in opposite registers, one about institutions, the other about events.
 
 ## Related concepts
 
@@ -28,7 +28,7 @@ The compendium pairs this with the psychology of [[CO024 — Recognise hindsight
 ## Sources
 
 - Nietzsche, On the Genealogy of Morals (Samuel translation, Project Gutenberg 52319): https://www.gutenberg.org/files/52319/52319-h/52319-h.htm
-- Fischhoff 1975, as cited on the compendium's CO024 page: https://pubmed.ncbi.nlm.nih.gov/12897366/
+- Fischhoff 1975, as cited on my CO024 page: https://pubmed.ncbi.nlm.nih.gov/12897366/
 
 ## Cited in philosophy parallels
 

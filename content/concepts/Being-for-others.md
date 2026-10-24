@@ -35,7 +35,7 @@ The same entry records the dyadic-conflict reading:
 
 > "Originally, human relations are typified by dyadic mode of conflict best captured in the look of the other, and the sort of scenario concerning the key-hole we just considered above." (Reynolds & Renaudie, [SEP: Jean-Paul Sartre](https://plato.stanford.edu/entries/sartre/))
 
-### In the compendium
+### Here
 
 - [[E035]] — sets out Sartre's keyhole example and his account of shame before the Other.
 - [[E036 — Practise shame as ontological]] — the principle takes the shame Sartre describes as an ontological rather than a moral event.

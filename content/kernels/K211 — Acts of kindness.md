@@ -14,7 +14,7 @@ Do one visible act of help daily. Small counts: holding a door, sending a text, 
 
 ### Protocol
 
-The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
+The steps are my practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. Do one visible act of help each day: holding a door, sending a text, picking up litter. Small counts.
 2. Count the act, not its size. The study below counted participants' own acts of kindness for one week.

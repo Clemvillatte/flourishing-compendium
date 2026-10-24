@@ -7,7 +7,7 @@ file: "State-dependent memory"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-State-dependent memory is the finding that material is recalled better when the person's internal state at retrieval matches their state at learning. The compendium's earlier note pairs Godden and Baddeley (1975) with Eich (1995). The two studies address different things, so they are described separately below.
+State-dependent memory is the finding that material is recalled better when the person's internal state at retrieval matches their state at learning. My earlier note pairs Godden and Baddeley (1975) with Eich (1995). The two studies address different things, so they are described separately below.
 
 ### Drug state: Goodwin and colleagues
 
@@ -23,16 +23,16 @@ Godden and Baddeley's divers learned word lists on land or underwater: "Lists le
 
 ### Scope
 
-State dependence appears task-specific. Goodwin's recognition task showed no state effect, and the mood work describes unresolved conditions. Neither mood nor drug studies here test whether matching states can be used to support wellbeing, so the compendium's practical reading is an inference.
+State dependence appears task-specific. Goodwin's recognition task showed no state effect, and the mood work describes unresolved conditions. Neither mood nor drug studies here test whether matching states can be used to support wellbeing, so my practical reading is an inference.
 
-### In the compendium
+### Here
 
 - [[CO054 — Understand that memory is state-dependent — mood and context affect recall]] cites Godden and Baddeley, Murre and Eich directly.
 
 ## Related concepts
 
-- [[Memory reconsolidation]] — the compendium's page on how retrieved memories are re-stored
-- [[Encoding strategies]] — the compendium's page on how encoding shapes later recall
+- [[Memory reconsolidation]] — my page on how retrieved memories are re-stored
+- [[Encoding strategies]] — my page on how encoding shapes later recall
 - [[Mood-congruent memory]] — the sibling effect: recall bent by current state
 
 ## Sources

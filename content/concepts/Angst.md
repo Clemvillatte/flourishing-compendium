@@ -11,7 +11,7 @@ Angst is the fundamental mood in which the ground of things slips away. For Heid
 
 The everyday response is flight. "Inauthentic Dasein flees from this experience of nothingness, doubling down on its conformist adherence to everyday norms and identities. It seeks in this way reassurance that it is living as one is supposed to (SZ 267–8)" ([SEP Heidegger article](https://plato.stanford.edu/entries/heidegger/)). Authentic Dasein stays with the mood, and in it finds a liberating chance to take ownership of itself: "But authentic Dasein experiences in its finitude a liberating chance to take ownership of itself" ([SEP Heidegger article](https://plato.stanford.edu/entries/heidegger/)).
 
-The line runs from Kierkegaard, for whom anxiety is the dizziness of freedom, through Heidegger's ontological version, to Tillich's anxiety as the awareness of non-being and Yalom's death anxiety in existential psychotherapy. Across all four, the compendium's lesson is the same: the mood that everydayness avoids is the very door to authentic selfhood, and practices that turn toward it (rather than medicate it away) are central to wisdom development.
+The line runs from Kierkegaard, for whom anxiety is the dizziness of freedom, through Heidegger's ontological version, to Tillich's anxiety as the awareness of non-being and Yalom's death anxiety in existential psychotherapy. Across all four, my lesson is the same: the mood that everydayness avoids is the very door to authentic selfhood, and practices that turn toward it (rather than medicate it away) are central to wisdom development.
 
 ## Related concepts
 

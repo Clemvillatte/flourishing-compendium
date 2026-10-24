@@ -16,7 +16,7 @@ Allostatic load is Bruce McEwen's term for the cumulative wear the body takes wh
 
 The review's two-sided point is stated directly: the autonomic, HPA-axis, cardiovascular, metabolic and immune systems "protect the body by responding to internal and external stress", and the same chronic activation accumulates damage. It names four situations that produce allostatic load, the first being frequent stress, and notes overexposure to stress hormones "over weeks, months, or years".
 
-### In the compendium
+### Here
 
 - [[BI004 — Understand the stress response — cortisol, adrenaline, and the HPA axis]]
 - [[BI043 — Understand the stress response — acute adaptive, chronic harmful]]

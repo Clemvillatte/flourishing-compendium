@@ -15,7 +15,7 @@ Rule-governed behavior is behavior controlled by verbal stimuli rather than shap
 
 Skinner drew the original distinction: contingency-shaped behavior comes under the control of its direct consequences, while rules function as "contingency-specifying stimuli" that describe a behavior-outcome relation. Hayes and Zettle sharpened it by counting contingencies: contingency-shaped behavior is controlled by one set of contingencies (a situation, an action, a consequence), while rule-governed behavior involves two, the behavior-outcome relation the rule specifies plus the social consequences of following it, such as praise, criticism or peer pressure to comply.
 
-The clinical relevance is the insensitivity problem the same research line records: rules can guide complex behavior instantly, but a person relying on an outdated instruction may keep following it after the contingencies it described have changed. The compendium's [[B030 — Keep the precepts as training rules, not commandments]] works this territory from the Buddhist side: precepts stated as undertakings behave like rules, and the practice is to keep reviewing whether the rule still tracks the contingencies it was meant to serve.
+The clinical relevance is the insensitivity problem the same research line records: rules can guide complex behavior instantly, but a person relying on an outdated instruction may keep following it after the contingencies it described have changed. My [[B030 — Keep the precepts as training rules, not commandments]] works this territory from the Buddhist side: precepts stated as undertakings behave like rules, and the practice is to keep reviewing whether the rule still tracks the contingencies it was meant to serve.
 
 ## Related concepts
 

@@ -15,9 +15,9 @@ A reinforcement schedule is the rule by which a consequence follows behaviour in
 
 The schedule matters for extinction. When a response has been reinforced every time it occurs (continuous reinforcement, CRF), it usually extinguishes more rapidly than behaviour reinforced intermittently, a result known as the partial reinforcement extinction effect ([Nevin, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3335979/)). The two families also differ in steady state: ratio schedules maintain extremely high activity rates, interval schedules lower, moderate rates, and when the ratio requirement climbs too high, activity becomes erratic and drops to zero, a state called ratio strain ([Baum, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12162439/)). Baum's examples tie the schedules to ordinary life: hunting and gambling resemble variable-ratio schedules, and waiting and checking for an expected email resembles a variable-interval schedule ([introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC12162439/)).
 
-### In the compendium
+### Here
 
-- [[BE008 — Recognise that behaviour is maintained by reinforcement schedules — consistency matters]] is the compendium's application of the schedules to habit maintenance, drawing on the continuous-versus-intermittent contrast for why consistency matters.
+- [[BE008 — Recognise that behaviour is maintained by reinforcement schedules — consistency matters]] is my application of the schedules to habit maintenance, drawing on the continuous-versus-intermittent contrast for why consistency matters.
 
 ## Related concepts
 

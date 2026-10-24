@@ -35,7 +35,7 @@ The model's core sentence: "moral judgment is generally the result of quick, aut
 - **Awe and the diminishment of self** — with Dacher Keltner, the prototype analysis of awe: "two appraisals are central and are present in all clear cases of awe: perceived vastness, and a need for accommodation, defined as an inability to assimilate an experience into current mental structures" ([Keltner & Haidt, 2003, Cognition and Emotion 17(2), PubMed record](https://pubmed.ncbi.nlm.nih.gov/29715721/)). See [[Awe]], [[Self-transcendent experiences]], [[K228 — Awe practice|Awe practice]].
 - **Morality beyond the WEIRD** — his research program tests whether morality's structure varies across cultures, in a 2023 study of the nomological network of morality across cultures ([Wikipedia, Jonathan Haidt](https://en.wikipedia.org/wiki/Jonathan_Haidt)). See [[Moral foundations]], [[Moral dilemma research]].
 
-## Everything connected in the wiki — the moral-psychology tradition
+## Everything connected here — the moral-psychology tradition
 
 Kept to the pages that carry or apply Haidt's research: the social intuitionist model, moral foundations, the moral emotions and the awe research.
 

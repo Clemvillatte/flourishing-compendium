@@ -18,13 +18,13 @@ The Bāhiya Sutta gives the instruction this page works from, delivered as a tra
 >
 > (Bāhiya Sutta, Ud 1.10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html))
 
-The compendium's reading of the training: it asks for experience with the additions left out, where the additions are the commentary, the self-reference, and the story about what it means. The discourse then states what the training is for:
+My reading of the training: it asks for experience with the additions left out, where the additions are the commentary, the self-reference, and the story about what it means. The discourse then states what the training is for:
 
 > "When for you there will be only the seen in reference to the seen, only the heard in reference to the heard, only the sensed in reference to the sensed, only the cognized in reference to the cognized, then, Bāhiya, there is no you in connection with that. When there is no you in connection with that, there is no you there. When there is no you there, you are neither here nor yonder nor between the two. This, just this, is the end of stress."
 >
 > (Bāhiya Sutta, Ud 1.10, Thanissaro)
 
-The compendium's exercise from these passages: take one current experience and describe it before adding commentary.
+My exercise from these passages: take one current experience and describe it before adding commentary.
 
 **Plain words**
 A teaching can tell you what to notice; it cannot do your noticing. When you read about a practice, you hold a description of an experience. When you do the practice, the experience is there to check. This principle asks you to make the comparison yourself: take one thing a teaching describes, and look directly at your own version of it.

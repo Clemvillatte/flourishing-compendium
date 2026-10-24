@@ -20,7 +20,7 @@ Chapter 49 supplies the policy that runs on trust first:
 
 > "To those who are good (to me), I am good; and to those who are not good (to me), I am also good;--and thus (all) get to be good. To those who are sincere (with me), I am sincere; and to those who are not sincere (with me), I am also sincere;--and thus (all) get to be sincere." (DDJ 49)
 
-The compendium's reading applies these chapters to interpersonal trust: the sage's goodness and sincerity are set in advance rather than matched to the other party's, and the chapter's claim is that the fixed terms pull the interaction toward them.
+My reading applies these chapters to interpersonal trust: the sage's goodness and sincerity are set in advance rather than matched to the other party's, and the chapter's claim is that the fixed terms pull the interaction toward them.
 
 (DDJ 17, 49.)
 

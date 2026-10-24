@@ -19,9 +19,9 @@ Chapter 3 states the principle the parables then illustrate:
 
 > "Have I not told thee before, Sâriputra, that the Tathâgata, &c., preaches the law by able devices, varying directions and indications, fundamental ideas, interpretations, with due regard to the different dispositions and inclinations of creatures whose temperaments are so various?" (Lotus of the True Law, ch. 3, [Sacred Texts](https://sacred-texts.com/bud/lotus/lot03.htm))
 
-### In the compendium
+### Here
 
-- [[D003 — Act through wu wei — non-forcing]] — a comparison drawn by the compendium: the Daoist mode of non-forcing action
+- [[D003 — Act through wu wei — non-forcing]] — a comparison I draw: the Daoist mode of non-forcing action
 - [[MO054 — Learn to use self-regulation strategies — manage impulses]] — choosing or changing situations as one strategy among several
 - [[MO029 — Learn to use temptation bundling — pair unpleasant tasks with pleasures]] — pairs an unpleasant task with a pleasure
 - [[MO042 — Learn to replace habits — substitute, do not just eliminate]] — proposes replacing a habit

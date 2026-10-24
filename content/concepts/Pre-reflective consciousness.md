@@ -17,7 +17,7 @@ Sartre's argument in the introduction to Being and Nothingness is that conscious
 
 The consequence Sartre draws is that this pre-reflective awareness is what makes reflection possible: it is the condition of the Cartesian cogito, not its result.
 
-### In the compendium
+### Here
 
 - [[Y093 — Know your field and its knower]] — lists the concept among its philosophy parallels.
 

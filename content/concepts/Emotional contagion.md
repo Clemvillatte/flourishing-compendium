@@ -34,7 +34,7 @@ The 2007 paper cited in the original entry reports that in 12,067 people, a pers
 
 Network clustering in a single cohort does not show the mimicry-and-feedback process Hatfield describes. The 2008 study measured happiness with a four-item scale, not the face-to-face exchange of expressions. The two literatures share the word contagion, and they should be kept apart.
 
-### In the compendium
+### Here
 
 - [[SP015 — Guard against affect contagion]], [[AF022 — Recognise affective contagion in groups; do not mistake it for your own feeling]] and [[AF021 — Understand affective presence — your feelings influence others' feelings]] cite this concept.
 - [[B165 — Peace begins in your own mind]], [[Y117 — Do not agitate the world]] and [[SP092 — Govern yourself before governing others]] cite it as well.

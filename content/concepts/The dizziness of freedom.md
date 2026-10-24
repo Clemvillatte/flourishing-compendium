@@ -23,7 +23,7 @@ The Concept of Anxiety is subtitled "a simple psychologically orienting delibera
 
 
 - [[Freedom]] — Kierkegaard: possibility itself as anxiety
-- [[Escape from freedom]] — the compendium sets Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison
+- [[Escape from freedom]] — I set Kierkegaard's anxiety of possibility beside Fromm's flight as a comparison
 ## Sources
 
 - [Marino, The Danish Doctor of Dread (New York Times, March 17, 2012), PDF](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf) — the dizziness passage and the fear-versus-anxiety and attraction-repulsion quotations

@@ -23,7 +23,7 @@ In Legge's Daodejing 12, colors, music and flavors are described as impairing th
 >
 > (Daodejing 12, Legge)
 
-Legge ends the chapter with the sage seeking to satisfy the belly and rejecting the eyes' insatiable longing. The compendium reads this contrast as a prompt to consider what a pursuit is serving and when it has received enough attention.
+Legge ends the chapter with the sage seeking to satisfy the belly and rejecting the eyes' insatiable longing. I read this contrast as a prompt to consider what a pursuit is serving and when it has received enough attention.
 
 (DDJ 12.)
 

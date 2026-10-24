@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Commitment, in the relationship-research sense the compendium uses, is a specific psychological state: the intent to persist in a relationship, a long-term orientation toward it, and a felt psychological attachment to it. C. E. Rusbult's investment model, grounded in interdependence theory, is the account this page carries of how the state forms and what it does.
+Commitment, in the relationship-research sense I use, is a specific psychological state: the intent to persist in a relationship, a long-term orientation toward it, and a felt psychological attachment to it. C. E. Rusbult's investment model, grounded in interdependence theory, is the account this page carries of how the state forms and what it does.
 
 > "Commitment level is defined as intent to persist in a relationship, including long-term orientation toward the involvement as well as feelings of psychological attachment" (Rusbult, Martz & Agnew, 1998, [The Investment Model Scale, PDF](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf))
 
@@ -22,7 +22,7 @@ The construct is measurable: the Investment Model Scale asks people to rate item
 
 The paper continues that commitment mediates the effects on persistence of the three bases of dependence. The original entry also names a philosophical strand (Aristotle on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds); those sources are carried as the original entry's references and are cited at second hand.
 
-### In the compendium
+### Here
 
 - [[R086 — Practise fidelity]] — the principle carries commitment as a practice; this page supplies the research account of its structure
 

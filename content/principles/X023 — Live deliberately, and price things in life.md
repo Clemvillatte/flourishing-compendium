@@ -20,7 +20,7 @@ The second is his economics, from the opening chapter:
 
 > "the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run." ([Walden, "Economy"](https://www.gutenberg.org/ebooks/205))
 
-The compendium's instrument, the life-price audit: for one month, convert each significant purchase and each new commitment into hours of life before agreeing to it, and let the price do the deciding.
+My instrument, the life-price audit: for one month, convert each significant purchase and each new commitment into hours of life before agreeing to it, and let the price do the deciding.
 
 **Plain words** A price tag tells you what a thing costs in money. Thoreau's question is what it costs in you: the hours of work behind the money, and the attention the thing will demand once owned. Pricing a purchase that way changes some decisions on the spot.
 

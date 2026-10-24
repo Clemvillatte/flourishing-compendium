@@ -25,9 +25,9 @@ In the original formulation the comparison could end two ways: "People could eit
 
 *For example:* Imagined case. Rehearsing a presentation in front of a mirror, someone notices the gap between their slouched rehearsal and their own standard of a composed speaker. They can adjust the posture — or leave the room and stop rehearsing. The theory predicts which choice appears as the comparison feels more or less winnable.
 
-### In the compendium
+### Here
 
-The compendium links this theory with [[K002 — Know that the split is made, not found]]. That principle questions whether experience must begin with a separate observer; objective self-awareness theory examines attention directed toward oneself. The two frameworks are compared here, not treated as evidence for one another.
+I link this theory with [[K002 — Know that the split is made, not found]]. That principle questions whether experience must begin with a separate observer; objective self-awareness theory examines attention directed toward oneself. The two frameworks are compared here, not treated as evidence for one another.
 
 ## Field
 

@@ -15,7 +15,7 @@ Benefit finding is "the process of deriving growth from adversity" ([Moore, Rubi
 
 The pattern is double-edged. Alongside the associations with less depression and more positive well-being, the same meta-analysis found more intrusive and avoidant thoughts about the stressor, and reported that "benefit finding was unrelated to anxiety, global distress, quality of life, and subjective reports of physical health" ([abstract](https://pubmed.ncbi.nlm.nih.gov/17032085/)). Moderator analyses showed the relations depended on time since the stressor, the measure used, and the sample's racial composition. The evidence is cross-sectional association, not a demonstrated causal engine of growth.
 
-### In the compendium
+### Here
 
 - [[B113 — Be grateful to everyone (lojong)]]
 - [[P100 — Treat the past as resource, not prison]]

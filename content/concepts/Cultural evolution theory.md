@@ -13,7 +13,7 @@ Cultural evolution theory is the research program that studies culture with the 
 
 The theory's reach extends to language; Darwin endorsed Max Müller's view that "a struggle for life is constantly going on amongst the words and grammatical forms in each language", and asserted that "the survival or preservation of certain favoured words in the struggle for existence is natural selection" (SEP). The Encyclopedia's verdict on the program's subject matter: "The case in favor of some cultural evolutionary theory is irresistible" — the interesting questions are "precisely how theories of cultural evolution should be fashioned, and how they should be related to more traditional understandings of organic evolution" (SEP).
 
-### In the compendium
+### Here
 
 - [[SO017 — Treat cultural evolution as real]] — carries the theory as its social-science parallel
 - [[E096 — Practise the axial age]] — cumulative culture building on discoveries made by others

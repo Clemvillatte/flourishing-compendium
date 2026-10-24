@@ -17,7 +17,7 @@ The first volume of Either/Or presents it through the papers of a nameless young
 
 The life has a built-in flaw the book is built to expose. "A" himself realizes "that his lifestyle has led to a kind of despair", and the ethicist Judge William urges him to "choose despair": to "recognize that despair arises from, and is essential to, the aesthetic life, and that an authentic self cannot be achieved thorough the aesthetic life alone" ([SEP](https://plato.stanford.edu/entries/kierkegaard/)). One way to gloss the claim that "A" lacks a self is that "the aesthetic life is one of self-alienation" ([SEP](https://plato.stanford.edu/entries/kierkegaard/)). The aesthetic is not simply left behind, though: "Kierkegaard consistently maintains that all human life contains an aesthetic dimension, so the aesthetic is never really left behind" ([SEP](https://plato.stanford.edu/entries/kierkegaard/)).
 
-### In the compendium
+### Here
 
 - [[E050 — Practise the stages of existence]] uses Kierkegaard's spheres as a practical map: a typical life "would begin with aesthetic concerns, develop ethical commitments", and struggle with religious questions from there ([SEP](https://plato.stanford.edu/entries/kierkegaard/)).
 

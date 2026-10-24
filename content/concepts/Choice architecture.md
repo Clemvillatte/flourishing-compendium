@@ -21,7 +21,7 @@ A meta-analysis of more than 200 studies reporting over 440 effect sizes (n = 2,
 
 The same analysis records the main limit: "Our analysis further reveals a moderate publication bias toward positive results in the literature" ([Mertens et al. 2022, PNAS, abstract](https://www.pnas.org/doi/10.1073/pnas.2107346118)).
 
-### In the compendium
+### Here
 
 - [[P077 — Understand choice as emergent, not commanded]] — Juarrero's context-sensitive constraints: intentions alter which responses are available
 - [[PP072 — Design the environment to support the practice]] — the Wood and Neal habit mechanism behind environment design

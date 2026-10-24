@@ -29,7 +29,7 @@ The image is a vina, the Indian stringed instrument, tuned neither too taut nor 
 
 Sitting for five minutes on a low-energy morning is right effort at its smallest, if the aim is clear and the sitting happens. (Illustrative scenario, not a reported case.) A small effort made counts for more than a large one postponed, and the repetition is what trains the skill.
 
-### In the compendium
+### Here
 
 - [[B036 — Tune, don't force — the lute string]] and [[B091 — Tune effort without strain (relaxed diligence)]] — the tuning image as practice
 - [[B065 — Guard the mind at the source (mind precedes all)]] — effort aimed at what has not yet arisen

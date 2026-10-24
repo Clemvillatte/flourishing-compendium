@@ -17,11 +17,11 @@ In chapter 19, Nhat Hanh explains emptiness through the absence of a separate se
 
 Chapter 16 applies the word to practice. There he writes that it is "not possible to practice one element of the Noble Eightfold Path without practicing all seven other elements", which he calls the nature of interbeing.
 
-### In the compendium
+### Here
 
 - [[B015 — Nothing exists alone (interbeing)]] — opens with the sheet-of-paper argument from The Sun My Heart: a cloud floats in this sheet of paper
 - [[B121 — Form is emptiness, emptiness is form (Heart Sutra)]] — the Heart Sutra line, with Nagarjuna's equation of dependent co-arising and emptiness
-- [[B143 — Emptiness is relational fullness]] — emptiness read through dependence, with the relational reading marked as the compendium's rendering
+- [[B143 — Emptiness is relational fullness]] — emptiness read through dependence, with the relational reading marked as my rendering
 - [[P003 — Relation is primary]] — what is empty exists through its relations rather than by own-being
 
 ## Related concepts

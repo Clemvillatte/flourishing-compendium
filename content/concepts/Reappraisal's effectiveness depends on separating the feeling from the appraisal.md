@@ -23,7 +23,7 @@ Barrett, Gross, Christensen and Benvenuto argued that knowing precisely what one
 
 A later study by Kalokerinos and colleagues found that emotion differentiation was not consistently related to which strategies people chose, and in some analyses was negatively associated with reappraisal use. It did find that "low differentiation inhibited strategy effectiveness": among low differentiators, strategies were associated with increased negative emotion ([Kalokerinos et al., 2019](https://ppw.kuleuven.be/okp/_pdf/Kalokerinos2019DTRLN.pdf)). This is the strongest support for the idea that reappraisal depends on discerning the feeling, and it does not isolate reappraisal.
 
-### In the compendium
+### Here
 
 AF002 (Distinguish the feeling from its interpretation) cites this page as its psychology parallel. The studies opened here support that changing the appraisal can change the response, and that clearer emotion differentiation goes with better regulation. Neither shows that separating feeling from appraisal is a condition for reappraisal to work, so AF002's wording is best read as a practice suggestion.
 

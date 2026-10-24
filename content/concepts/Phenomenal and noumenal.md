@@ -15,7 +15,7 @@ Kant's distinction marks the boundary of knowledge. Space and time are the forms
 >
 > "It is therefore not merely possible or probable, but indubitably certain, that space and time, as the necessary conditions of all our external and internal experience, are merely subjective conditions of all our intuitions, in relation to which all objects are therefore mere phenomena, and not things in themselves, presented to us in this particular manner." (Kant, Critique of Pure Reason, General Remarks on the Transcendental Aesthetic, [Meiklejohn translation, Project Gutenberg](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm))
 
-### In the compendium
+### Here
 
 - [[B122 — Use two truths (conventional and ultimate)]] — lists the concept among its philosophy parallels.
 

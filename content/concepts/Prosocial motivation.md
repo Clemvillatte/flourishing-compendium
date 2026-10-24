@@ -19,9 +19,9 @@ Grant's two field studies used working samples. "In Study 1, intrinsic motivatio
 
 The well-being link comes from Weinstein and Ryan (2010). Their four studies tested autonomous versus controlled motivation for helping, and "findings support the idea that autonomous motivation for helping yields benefits for both helper and recipient through greater need satisfaction" ([Weinstein & Ryan, 2010, Journal of Personality and Social Psychology 98(2), 222-244, PubMed](https://pubmed.ncbi.nlm.nih.gov/20085397/)). The point is the quality of the motivation: helping that feels chosen, not pressured, is the condition under which the benefits appear in that work.
 
-### In the compendium
+### Here
 
-The facet "and collective well-being" has no direct support in the abstracts opened here. Grant's studies measured persistence, performance and productivity, and Weinstein and Ryan measured helper and recipient well-being in laboratory and diary settings. Statements about collective well-being are the compendium's extension.
+The facet "and collective well-being" has no direct support in the abstracts opened here. Grant's studies measured persistence, performance and productivity, and Weinstein and Ryan measured helper and recipient well-being in laboratory and diary settings. Statements about collective well-being are my extension.
 
 ## Facets
 

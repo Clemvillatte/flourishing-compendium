@@ -22,7 +22,7 @@ The paper warns against a common misreading. Autonomy, they write, is "often inc
 
 Take one task done under pressure and look for one reason inside it that is yours. If none can be found, that is information too. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[MO002 — Know that motivation serves three basic psychological needs — autonomy, competence, and relatedness]] — the three needs as a principle
 - [[Autonomy-threat research]] — what controlling conditions do to self-endorsement

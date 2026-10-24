@@ -21,7 +21,7 @@ The concept turns on a distinction Morgan takes from George Henry Lewes, whom th
 
 The course of events, on this reading, is continuous in its persistence and novelty in its direction: "emergent evolution seeks to interpret, on the one hand, the persistence and continuity of natural events, and, on the other hand, progressive advance with novelty" ([lecture 3](https://brocku.ca/MeadProject/Morgan/Morgan_1923/Morgan02_03.html)). About the steps themselves, however dramatic they look in hindsight, Morgan writes: "the emergent step, though it may seem more or less saltatory, is best regarded as a qualitative change of direction, or critical turningpoint, in the course of events" ([ch. 1](https://brocku.ca/MeadProject/Morgan/Morgan_1923/Morgan02_01.html)). Morgan's own examples run from chemistry to mind, which he calls "an emergent quality which expresses new relatedness of the conscious order" ([lecture 3](https://brocku.ca/MeadProject/Morgan/Morgan_1923/Morgan02_03.html)).
 
-The compendium applies Morgan's language of new relatedness to [[P077 — Understand choice as emergent, not commanded]]. The application is an interpretive analogy: a decision, like Morgan's water, is presented as a new relatedness among existing materials rather than a command issued from outside them.
+I applie Morgan's language of new relatedness to [[P077 — Understand choice as emergent, not commanded]]. The application is an interpretive analogy: a decision, like Morgan's water, is presented as a new relatedness among existing materials rather than a command issued from outside them.
 
 ## Related concepts
 

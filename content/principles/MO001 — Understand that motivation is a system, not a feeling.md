@@ -16,7 +16,7 @@ Ryan and Deci identify several aspects of motivation:
 
 > "Motivation concerns energy, direction, persistence and equifinality—all aspects of activation and intention." (Ryan & Deci, 2000, p. 69)
 
-Vallerand's hierarchical model distinguishes a general motivational orientation, motivation within a life domain, and motivation during a particular activity. The middle level deals with "broad life contexts such as interpersonal relationships, education, work, religion, and others" (Guay, Mageau & Vallerand, 2003). The compendium's framing follows from this structure: describe motivation at a specific level rather than treating it as a single feeling you either have or lack.
+Vallerand's hierarchical model distinguishes a general motivational orientation, motivation within a life domain, and motivation during a particular activity. The middle level deals with "broad life contexts such as interpersonal relationships, education, work, religion, and others" (Guay, Mageau & Vallerand, 2003). My framing follows from this structure: describe motivation at a specific level rather than treating it as a single feeling you either have or lack.
 
 **Plain words** Start with the activity you are struggling to begin. Describing your motivation toward one task is more specific than deciding that you are unmotivated in every part of life.
 

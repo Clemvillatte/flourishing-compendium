@@ -25,7 +25,7 @@ And the image the Prologue is famous for:
 
 The figure is defined by the crossing, not by the destination. That is why the text refuses to describe the overman in positive traits: to describe it would be to fix it, and the crossing is the point.
 
-### How the compendium reads it
+### How I read it
 
 The concept pairs with [[E109 — Practise the overman (Übermensch)]], which turns the figure into a discipline: the overman is not a title you win but a movement you keep making, the leaving-behind of inherited settings you cannot defend. The concept also connects to [[Nihilism]] — Nietzsche's response to the death of God — and to the project of value creation, where the overman is the being for whom creating values replaces receiving them.
 

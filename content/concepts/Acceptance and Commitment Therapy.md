@@ -43,7 +43,7 @@ A person waiting on medical test results can keep refreshing their phone and arg
 
 A later unified-model review states the shape of the model in one line: "ACT focused on six processes (acceptance, defusion, self, now, values, and action) that bear on a single overall target (psychological flexibility)" (Hayes et al. 2012, p. 976). That review reports the earlier meta-analysis of 21 randomized trials, with an average between-group effect size of d = .66 at post-treatment (Hayes et al. 2012, p. 989), and a survey of 66 studies of specific ACT components finding an average weighted effect size of g = .68 against inactive controls (Hayes et al. 2012, p. 990). The authors' own summary of the evidence in the 2006 paper is measured: "There are not enough well-controlled studies to conclude that ACT is generally more effective than other active treatments across the range of problems examined, but so far the data seem promising" (Hayes et al. 2006, p. 2).
 
-### In the compendium
+### Here
 
 - [[P157 — Accept what cannot be changed while committing to what can]] — the ACT pairing of acceptance with committed action
 - [[PP081 — Cultivate psychological flexibility]] — names the model's single target

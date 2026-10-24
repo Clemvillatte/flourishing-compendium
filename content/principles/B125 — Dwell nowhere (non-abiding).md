@@ -16,7 +16,7 @@ Section IX of the Diamond Sutra explains Subhuti's description as an abider in p
 
 > "Upon all Dharmas, without dwelling on the thoughts as they follow each other, then there will be no bondage. That is what is meant by non-abiding as the foundation." (Platform Sutra of the Sixth Patriarch, [Terebess edition](https://terebess.hu/zen/platf.pdf), PDF p. 36)
 
-The compendium proposes one everyday application: examine whether you are prepared to reconsider a position when your reasons for holding it change. This application should be distinguished from the texts' claims about liberation.
+I propose one everyday application: examine whether you are prepared to reconsider a position when your reasons for holding it change. This application should be distinguished from the texts' claims about liberation.
 
 ### Plain words
 

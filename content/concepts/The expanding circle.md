@@ -17,7 +17,7 @@ Singer's stopping rule is the book's sharpest sentence: "The only justifiable st
 
 For practice, the circle gives a direction rather than a rule: the next person, group or species one currently discounts is the work.
 
-### In the compendium
+### Here
 
 - [[X020 — Live on expanding circles]] — the concept as a life principle
 - [[P194 — Distinguish closed morality from open morality; the open requires creative effort, not mere expansion]] — the companion Bergsonian caution

@@ -16,7 +16,7 @@ Read the acronym as a checklist rather than a slogan. Each letter names one thin
 ## Related concepts
 
 - [[Extended Evolutionary Meta-Model]] — the grid the scheme organises
-- [[Habit formation]] — retention as the compendium studies it
+- [[Habit formation]] — retention as I studie it
 - [[Context sensitivity]] — the selector's other half
 - [[Dynamic systems theory]] — the systems view the scheme assumes
 - [[Process-based therapy]] — the framework the scheme serves

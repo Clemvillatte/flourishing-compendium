@@ -17,7 +17,7 @@ Realistic conflict theory (also called realistic group conflict theory) is Muzaf
 
 The same chapter draws the contrast that carries the theory: "If the goals of two groups are similar but compatible then friendly attitudes will characterize the intergroup relations... If, however, the goals of two groups are similar and incompatible, then tensions arise". The word realistic marks the assumption that the conflict tracks real competition, and the studies behind the theory found the hostility reduced when the groups had to work together toward goals neither could reach alone.
 
-### In the compendium
+### Here
 
 - [[B118 — Cultivate gladness — joy is part of the path]]
 - [[B080 — Meet ill will with warmth (hindrance 2)]]

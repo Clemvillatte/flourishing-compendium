@@ -29,9 +29,9 @@ The 2008 review lists what survives testing: rumination "exacerbates depression,
 
 ### What it does not
 
-The original theory predicted rumination would extend depressive episodes; the evidence mostly disagrees. The review's verdict: "rumination appears to more consistently predict the onset of depression rather than the duration, but rumination interacts with negative cognitive styles to predict the duration of depressive symptoms." Self-reported rumination does not reliably predict how long an episode lasts. The scale itself has since been split into brooding, the maladaptive part, and reflection, a more deliberate self-focus (Treynor, Gonzalez and Nolen-Hoeksema 2003). The compendium's seed line, "past-focused repetitive thought predicts depression," is best read as a prediction of onset.
+The original theory predicted rumination would extend depressive episodes; the evidence mostly disagrees. The review's verdict: "rumination appears to more consistently predict the onset of depression rather than the duration, but rumination interacts with negative cognitive styles to predict the duration of depressive symptoms." Self-reported rumination does not reliably predict how long an episode lasts. The scale itself has since been split into brooding, the maladaptive part, and reflection, a more deliberate self-focus (Treynor, Gonzalez and Nolen-Hoeksema 2003). My seed line, "past-focused repetitive thought predicts depression," is best read as a prediction of onset.
 
-### In the compendium
+### Here
 
 - [[CO046 — Recognise rumination as a distinct and maladaptive cognitive mode]] — the dedicated principle.
 - [[CO047 — Learn concrete rumination-stopping techniques — do not just stop ruminating.]] — the intervention side.

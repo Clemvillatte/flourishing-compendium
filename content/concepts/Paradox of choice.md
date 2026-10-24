@@ -7,7 +7,7 @@ file: "Paradox of choice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-The paradox of choice is the idea that having more options can leave people worse off, not better. The compendium rests it on two empirical sources that disagree in emphasis. Iyengar and Lepper (2000) reported in three experiments that "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices," and that "participants actually reported greater subsequent satisfaction with their selections and wrote better essays when their original set of options had been limited" ([Iyengar & Lepper, 2000, Journal of Personality and Social Psychology, PubMed](https://pubmed.ncbi.nlm.nih.gov/11138768/)).
+The paradox of choice is the idea that having more options can leave people worse off, not better. I rest it on two empirical sources that disagree in emphasis. Iyengar and Lepper (2000) reported in three experiments that "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices," and that "participants actually reported greater subsequent satisfaction with their selections and wrote better essays when their original set of options had been limited" ([Iyengar & Lepper, 2000, Journal of Personality and Social Psychology, PubMed](https://pubmed.ncbi.nlm.nih.gov/11138768/)).
 
 > "In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder & Todd, 2010, Journal of Consumer Research 37(3), 409-425](https://academic.oup.com/jcr/article/37/3/409/1827647))
 
@@ -15,7 +15,7 @@ The paradox of choice is the idea that having more options can leave people wors
 
 The meta-analysis defines the hypothesis as the claim that "an increase in the number of options to choose from may lead to adverse consequences such as a decrease in the motivation to choose or the satisfaction with the finally chosen option." It then reports that some studies found "strong instances of choice overload in the lab and in the field, but others found no such effects or found that more choices may instead facilitate choice and increase satisfaction." Its conclusion: "While further analyses indicated several potentially important preconditions for choice overload, no sufficient conditions could be identified." The effect may still occur under particular conditions, but it is not a general law. An essay should say "can" and not "does."
 
-### In the compendium
+### Here
 
 The page's original wording, "though the effect's magnitude is debated," matches the two abstracts. Neither abstract uses the phrase "paradox of choice" itself, so this page does not trace the label to its source. Principles such as CO043 (overthinking can be worse than deciding) and MO053 (good enough enables action) draw practical lessons, and neither source tests those lessons.
 

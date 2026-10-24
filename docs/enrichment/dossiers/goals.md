@@ -10,7 +10,7 @@ A goal is a promise a person makes to a future self, and the promise can serve t
 - Purpose: held under its own group below, as the aim that outlasts any single goal.
 - Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making.
 
-## The map: every entry the wiki holds on goals
+## The map: the entries on goals
 
 ### Setting goals
 
@@ -120,13 +120,13 @@ The shared question: if a goal expresses who you are, does that help you through
 
 > "Autonomous motives, however, were negative predictors of cognitive ease of disengagement from an unattainable goal." ([same abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)): Secondary source; quoted passage checked.
 
-The abstract's own summary is that "when faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability." So the compendium's preference for self-concordant goals comes with a cost that a reader should know about: a goal that is truly yours is harder to put down.
+The abstract's own summary is that "when faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability." So the preference for self-concordant goals comes with a cost that a reader should know about: a goal that is truly yours is harder to put down.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the form of the goal and the way it is held. The look-alikes of commitment are rigidity and a list of things to be seen to do. The adaptive moves are to plan the situation as well as the aim, to check whose goal it is, and to notice early when it is no longer reachable.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): formulate a specific if-then plan. A meta-analysis of 94 independent tests found that such plans had "a positive effect of medium-to-large magnitude (d= .65) on goal attainment" ([Gollwitzer and Sheeran 2006, University of Konstanz record](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)): Secondary source; quoted passage checked.
 
@@ -146,7 +146,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Which aims are worth having
 

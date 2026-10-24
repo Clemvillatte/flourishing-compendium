@@ -20,7 +20,7 @@ The next verse, 130, says life is dear to all. Both then draw the same conclusio
 
 The Metta Sutta (Sn 1.8) makes the same move as a practice: "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings." ([Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)) The sutra also says: "May all beings be happy at heart."
 
-The compendium's reading is that everyone in front of you wants to be well. That includes people who are acting badly. It does not ask you to like them or accept their behaviour.
+My reading is that everyone in front of you wants to be well. That includes people who are acting badly. It does not ask you to like them or accept their behaviour.
 
 (Dhammapada 129-130, trans. Buddharakkhita; Karaniya Metta Sutta, trans. Thanissaro.)
 

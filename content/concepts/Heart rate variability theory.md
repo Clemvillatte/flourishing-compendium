@@ -17,9 +17,9 @@ The mechanism is vagal. On the model's account, "the functioning of prefrontal-s
 
 Empirical results track the theory, with the usual correlational caveat. "Higher resting HRV is associated with more adaptive and functional top-down and bottom-up cognitive modulation of emotional stimuli, which may facilitate effective emotion regulation. Conversely, lower resting HRV is associated with hyper-vigilant and maladaptive cognitive responses to emotional stimuli, which may impede emotion regulation" ([Park & Thayer 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013470/)). In a study of 183 undergraduates, "lower resting vmHRV was associated with greater difficulties in emotional regulation, especially a lack of emotional clarity and impulse control" ([Williams et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4354240/)). The study reports an association, not a test of whether raising HRV improves regulation.
 
-### In the compendium
+### Here
 
-BI003 carries the concept as a principle. The compendium pairs it with the breath-and-cold practices — BI045's slow breathing, B190's always-available breath, BE048 and BI048's dive reflex — as editorial pairings rather than effects established in the sources opened here. The perception side is BI053's interoceptive awareness and AF005's reading of the body. PP003's measurement humility is the standing caveat: HRV is a research index, not a daily scorecard.
+BI003 carries the concept as a principle. I pair it with the breath-and-cold practices — BI045's slow breathing, B190's always-available breath, BE048 and BI048's dive reflex — as editorial pairings rather than effects established in the sources opened here. The perception side is BI053's interoceptive awareness and AF005's reading of the body. PP003's measurement humility is the standing caveat: HRV is a research index, not a daily scorecard.
 
 ## Field
 
@@ -61,7 +61,7 @@ Biophysiological · Psychological science
 [[BE048 — Learn to use the dive reflex — cold water for acute distress]]
 ## Cited in philosophy parallels
 
-**Vagal tone theory** (Porges) — a related theory the compendium pairs with this one, proposing resting vagal tone as an index of self-regulation and social engagement capacity.
+**Vagal tone theory** (Porges) — a related theory I pair with this one, proposing resting vagal tone as an index of self-regulation and social engagement capacity.
 - [[D143 — Breathe like a baby]]
 - [[D144 — Breathe from the heels]]
 - [[B038 — Practice mindfulness of breathing (anapanasati)]]

@@ -19,7 +19,7 @@ The same review finds that environment-related identity terms "are often inconsi
 
 Mayer and Frantz (2004) built the Connectedness to Nature Scale, a measure of "individuals' trait levels of feeling emotionally connected to the natural world". Their abstract reports that it correlates with "identity as an environmentalist" ([Oberlin repository record](https://digitalcommons.oberlin.edu/faculty_schol/2433/)). The scale is a related measure of connection to nature, not Thomashow's definition of ecological identity.
 
-### In the compendium
+### Here
 
 - [[R118 — Practise deep ecology]] lists it as a psychology parallel to Naess's deep ecology
 - [[R013 — Practise connection to Country]] lists it as a psychology parallel to the relationship with Country

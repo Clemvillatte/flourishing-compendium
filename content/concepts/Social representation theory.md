@@ -29,7 +29,7 @@ Consider a new word such as "artificial intelligence" entering ordinary talk. On
 
 The theory remains popular mainly among European social psychologists, and is less known in the United States, partly because much of Moscovici's original work was published in French ([Wikipedia, Social representation](https://en.wikipedia.org/wiki/Social_representation)). It is far from a settled doctrine; it attracts ongoing debate ([Wikipedia, Social representation](https://en.wikipedia.org/wiki/Social_representation)).
 
-### In the compendium
+### Here
 
 - [[SO034 — Treat knowledge as social]]: the consensual universe is the theory's working image of knowledge as a collective achievement
 - [[SO018 — Treat language as a cultural practice, not just a medium]]: the code for naming and classifying is language doing cultural work

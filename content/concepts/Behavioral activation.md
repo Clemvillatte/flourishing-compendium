@@ -22,7 +22,7 @@ The mechanism it works on is the depression loop: low mood triggers withdrawal a
 
 ### Not "fake it till you make it"
 
-The distinction to hold: BA is not "fake it till you make it" positivity. Nothing is pretended. The bet is smaller and harder-headed: that engagement with life predicts well-being, and that the feeling follows the doing often enough to be worth acting on. On the compendium's reading it is the clinical sibling of Aristotle's habituation, becoming just by doing just acts, and of the Stoic rule that the truths are tasks, not beliefs.
+The distinction to hold: BA is not "fake it till you make it" positivity. Nothing is pretended. The bet is smaller and harder-headed: that engagement with life predicts well-being, and that the feeling follows the doing often enough to be worth acting on. On my reading it is the clinical sibling of Aristotle's habituation, becoming just by doing just acts, and of the Stoic rule that the truths are tasks, not beliefs.
 
 ### In everyday life
 
@@ -30,7 +30,7 @@ The depressed afternoon planned as two items only, a twenty-minute walk and one 
 
 The Buddhist ancestor is [[Right effort]], the four efforts as action-first treatment of the mind in clinical clothes.
 
-### In the compendium
+### Here
 
 - [[BE014 — Learn to use activity scheduling — plan specific activities at specific times]] — activity scheduling
 - [[BE016 — Learn to use the just 5 minutes technique — lower the barrier to starting]] — the five-minute rule
@@ -50,7 +50,7 @@ The Buddhist ancestor is [[Right effort]], the four efforts as action-first trea
 
 ## Related concepts
 
-- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the compendium's activation concept for depression
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — my activation concept for depression
 - [[Avoidance versus attentional engagement]] — the withdrawal-maintains-depression finding is BA's core account
 - [[Graded task assignment (Beck, BA)]] — the parent treatment the technique serves
 - [[Lifestyle pillars of mental health]] — the activation family the lifestyle components belong to

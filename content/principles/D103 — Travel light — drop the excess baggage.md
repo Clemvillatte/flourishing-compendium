@@ -16,7 +16,7 @@ Standing on tiptoe can make someone taller for a moment without giving them a st
 
 > "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily). (So), he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him." (DDJ 24, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter goes on to compare these habits to unwanted leftovers or a tumour. The compendium's luggage image is an application of this passage, not its original metaphor. The burden here is the work of establishing one's superiority. Sharing useful information about an achievement need not carry that burden; the question is what the telling is for.
+The chapter goes on to compare these habits to unwanted leftovers or a tumour. My luggage image is an application of this passage, not its original metaphor. The burden here is the work of establishing one's superiority. Sharing useful information about an achievement need not carry that burden; the question is what the telling is for.
 
 **Plain words**
 Trying to seem impressive can add a second job to an ordinary conversation. Alongside discussing the task, you are trying to manage your standing. Travelling light means having less to prove, while still saying what another person needs to know.

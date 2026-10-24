@@ -23,7 +23,7 @@ The growth is not vague. Their 21-item inventory factors it into named domains: 
 
 Robert Neimeyer's constructivist work adds the mechanism the facets below record. Grieving, on his account, is an attempt "to reaffirm or reconstruct a world of meaning that has been challenged by loss". Part of that reconstruction is sense making, and part is benefit finding, where mourners encounter "unsought growth through grief, valued life lessons in the experience, or reordered life priorities". The two are not the same thing, and his studies suggest benefit finding buffers complicated grief chiefly when sense making itself fails.
 
-### In the compendium
+### Here
 
 - [[PP047 — Allow post-traumatic growth without forcing it]] — the page's clinical guard, made a principle
 - [[E064 — Practise meaning through the attitude toward suffering]] — the principle that states Frankl's third route, with his own guard that the suffering must be unavoidable

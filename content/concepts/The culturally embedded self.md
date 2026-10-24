@@ -21,7 +21,7 @@ The two accounts differ in kind. Taylor argues that a self is constituted by its
 
 The culturally embedded self is not cultural determinism. Markus and Kitayama say construals "can influence, and in many cases determine" experience, which is a claim of degree, and this page does not claim that either account excludes individual variation.
 
-### In the compendium
+### Here
 
 - [[SE040 — Recognise identity and culture — your self is culturally shaped]]
 - [[SE054 — Recognise self and culture — your self is culturally shaped]]

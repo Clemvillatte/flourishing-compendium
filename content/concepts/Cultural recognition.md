@@ -14,7 +14,7 @@ Cultural recognition names the demand at the centre of multicultural politics: t
 ### Why recognition is owed
 On Taylor's account the harm of misrecognition is not a lack of courtesy: it can imprison a person in a reduced mode of being, and so he writes that "Due recognition is not just a courtesy we owe people. It is a vital human need." The essay's political conclusion follows the same line: "Equal recognition is not just the appropriate mode for a healthy democratic society."
 
-### In the compendium
+### Here
 
 - [[R111 — Practise the recognition of difference]] — multicultural recognition as affirmative acknowledgment rather than mere tolerance; the principle cites Taylor 1992
 - [[R023 — Practise cultural safety]] — environments where people can be their full cultural selves without erasure

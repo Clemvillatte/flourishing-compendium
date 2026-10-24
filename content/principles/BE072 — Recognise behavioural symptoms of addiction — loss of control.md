@@ -16,7 +16,7 @@ NIDA defines addiction as a chronic disease characterized by drug seeking and us
 
 > "Addiction is a chronic disease characterized by drug seeking and use that is compulsive, or difficult to control, despite harmful consequences." (NIDA, [DrugFacts: Understanding Drug Use and Addiction](https://nida.nih.gov/publications/drugfacts/understanding-drug-use-addiction))
 
-NIDA describes treatment as ongoing and adjusted according to the patient's response. The compendium recommends discussing repeated difficulty controlling use and its consequences with a health professional. (NIDA, 2018.)
+NIDA describes treatment as ongoing and adjusted according to the patient's response. I recommend discussing repeated difficulty controlling use and its consequences with a health professional. (NIDA, 2018.)
 
 **Plain words**
 Use that feels difficult to control and continues despite harm is what this definition describes. If that resembles your experience, bring examples to a health professional: what you intended, what happened, and the consequences that concern you.
@@ -39,4 +39,4 @@ Use that feels difficult to control and continues despite harm is what this defi
 
 ## Practice
 
-- If controlling substance use is repeatedly difficult despite harm, the compendium's step is to bring it to a health professional. NIDA describes treatment as ongoing and adjusted to the patient's response.
+- If controlling substance use is repeatedly difficult despite harm, my step is to bring it to a health professional. NIDA describes treatment as ongoing and adjusted to the patient's response.

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Holding as hypothesis” — Peirce, "The Fixation of Belief".
 
-Holding as hypothesis is the practice of treating a strongly held belief as a proposition to be tested rather than a possession to be defended. Its classical grounding is Peirce's 1877 paper, which supplies the machinery: belief is a habit of mind that settles into calm, doubt is the irritation that reopens inquiry, and the method of science is the only method of fixing belief that submits to something independent of what we happen to think. The time-boxed exercise in the compendium's kernel, treating the belief as a hypothesis for a defined period and noticing what changes when certainty is suspended, is the compendium's own operationalization of this machinery; the essay itself gives no such instruction.
+Holding as hypothesis is the practice of treating a strongly held belief as a proposition to be tested rather than a possession to be defended. Its classical grounding is Peirce's 1877 paper, which supplies the machinery: belief is a habit of mind that settles into calm, doubt is the irritation that reopens inquiry, and the method of science is the only method of fixing belief that submits to something independent of what we happen to think. The time-boxed exercise in my kernel, treating the belief as a hypothesis for a defined period and noticing what changes when certainty is suspended, is my own operationalization of this machinery; the essay itself gives no such instruction.
 
 ### The theory of belief and doubt (Peirce)
 
@@ -33,7 +33,7 @@ The closing moral is the concept's warrant:
 
 > “what is more wholesome than any particular belief is integrity of belief, and that to avoid looking into the support of any belief from a fear that it may turn out rotten is quite as immoral as it is disadvantageous.” (Peirce, [The Fixation of Belief, Popular Science Monthly 12 (1877): 1-15](https://www.peirce.org/writings/p107.html), the closing paragraphs)
 
-### In the compendium
+### Here
 
 - [[K133 — Holding as hypothesis]] — the kernel's time-boxed practice: a defined period of treating the belief as a hypothesis, noticing what changes when certainty is suspended
 - [[S048 — Withhold assent when the impression is uncertain]] — the Stoic assent discipline the Cited-in list gathers under this concept

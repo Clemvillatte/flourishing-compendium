@@ -19,7 +19,7 @@ After a final meal at the smith Cunda's, he falls violently ill, walks on to Kus
 
 That was the Tathāgata's last statement. Then, the sutta says, he entered the first jhāna ([DN 16, Thanissaro](https://www.dhammatalks.org/suttas/DN/DN16.html)) and rose through the series to the cessation of perception and feeling. Ānanda thought he had already died, and the monk Anuruddha corrected him: not yet. Emerging from the cessation, the Buddha passed back down through the series and up again; after emerging from the fourth jhāna, he passed away.
 
-The compendium reads the old-cart passage and the final instruction together: the body was failing, and the assignment was heedfulness. The pairing with heedfulness is direct, the sutta's own; the applications to contemplating mortality and to practice in the present are the compendium's extensions of the scene.
+I read the old-cart passage and the final instruction together: the body was failing, and the assignment was heedfulness. The pairing with heedfulness is direct, the sutta's own; the applications to contemplating mortality and to practice in the present are my extensions of the scene.
 
 ---
 

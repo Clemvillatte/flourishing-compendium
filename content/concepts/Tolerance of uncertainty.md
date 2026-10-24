@@ -21,7 +21,7 @@ The same authors argue that neither tolerance nor intolerance of uncertainty is 
 
 - **research** — Carleton, 2012; Dugas et al., 1998
 
-### In the compendium
+### Here
 
 - [[PP050 — Practise tolerance of uncertainty]] — treats the capacity as a trainable skill
 - [[AF048 — Recognise anxiety's core — intolerance of uncertainty]] — presents the Dugas model finding

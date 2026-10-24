@@ -14,7 +14,7 @@ Write a letter to be read after your death. What do you want to leave behind? Wh
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the process they formalise is described in the life-review literature below.*
+*Steps are my own protocol; the process they formalise is described in the life-review literature below.*
 
 1. Write to one named person, living or future; a letter to everyone is a letter to no one.
 2. Cover three things only: what you learned that they might use, what you love that you want them to know, and what you left unfinished that you are sorry for.

@@ -18,7 +18,7 @@ In psychology, Cole proposed three questions: "Who is included within this categ
 
 ### Scope
 
-McCall 2005 or Jones 2000 is cited at second hand. The original entry's phrase "the person at the intersection" is the compendium's; the sources focus on categories and inequality in law and research.
+McCall 2005 or Jones 2000 is cited at second hand. The original entry's phrase "the person at the intersection" is my; the sources focus on categories and inequality in law and research.
 
 **Plain words**
 Crenshaw showed that a Black woman's experience of discrimination cannot always be broken into race plus gender. Researchers still struggle to measure that.

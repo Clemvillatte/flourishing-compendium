@@ -18,11 +18,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Maurice Friedman's study summarises the second step in his own words, not Buber's: "when two individuals 'happen' to each other, then there is an essential remainder which is common to them, but which reaches out beyond the special sphere of each. That remainder is the basic reality, the 'sphere of between'," and "the psychological, that which happens within the souls of each, is only the secret accompaniment to the dialogue" ([Friedman, Martin Buber: The Life of Dialogue, ch. 14](https://www.religion-online.org/book-chapter/chapter-14-the-life-of-dialogue/)). The quoted fragments there are attributed to Buber's essays "What Is Man?" and "Elements of the Interhuman." Those essays were cited at second hand directly.
 
-So the textual basis for calling the between ontological is real: Buber places relation at the start and treats the psychological as secondary. The compendium's instruction not to "locate meaning inside the individual subject" is a stronger and more practical statement than the passages above, which describe how Buber analyses human existence and do not issue a rule. The Stanford Encyclopedia also stresses that Buber does not treat relation apart from distance, a point the entry omits ([SEP, section 7](https://plato.stanford.edu/entries/buber/)).
+So the textual basis for calling the between ontological is real: Buber places relation at the start and treats the psychological as secondary. My instruction not to "locate meaning inside the individual subject" is a stronger and more practical statement than the passages above, which describe how Buber analyses human existence and do not issue a rule. The Stanford Encyclopedia also stresses that Buber does not treat relation apart from distance, a point the entry omits ([SEP, section 7](https://plato.stanford.edu/entries/buber/)).
 
 The psychology parallel, Gergen's relational self (2009), and Marcel's Being and Having are cited at second hand.
 
-**Plain words** For Buber, relation comes first, and the individual self takes shape within it. What passes between two people is not just a private feeling in each head. The compendium turns that into a practice of attending to the relation itself, which is its reading of him.
+**Plain words** For Buber, relation comes first, and the individual self takes shape within it. What passes between two people is not just a private feeling in each head. I turn that into a practice of attending to the relation itself, which is its reading of him.
 
 *For example:* A friendship has a running joke, a saved seat, a phrase only the two of them use. None of it belongs to one person alone.
 

@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The examination Seneca prescribes is delay. "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end." He adds not to attempt to quell anger all at once, "for its first impulses are fierce; by plucking away its parts we shall remove the whole." Time is what lets the appearance of injury be checked against what actually happened.
 
-### In the compendium
+### Here
 
 - [[B116 — Catch irritation early — sparks before fires]]
 - [[B105 — Dissect anger when it arises]]

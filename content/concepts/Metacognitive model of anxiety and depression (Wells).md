@@ -29,7 +29,7 @@ The model's practical edge is the place it aims ([Hagen and Kennair, 2024](https
 
 The question is not whether the sad thought is true. It is whether the analysing machine is doing the person any good.
 
-### In the compendium
+### Here
 
 - [[CO064 — Recognise metacognitive beliefs — what you believe about your own thinking matters]] — the model's core variable, named as a principle
 - [[CO063 — Cultivate metacognition — thinking about your own thinking]] — the capacity the model puts to clinical use

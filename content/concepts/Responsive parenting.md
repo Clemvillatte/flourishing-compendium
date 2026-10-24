@@ -17,7 +17,7 @@ The construct as the developmental literature defines it, verbatim from a review
 
 The same review states the mechanism plainly: responsivity is the observable behavior key to promoting secure attachments, while attachment names the internal state of affectional bonding. To be responsive, the parent must respond in a timely, predictable and appropriate manner, and communicate that the child's interests, desires and interactions have importance and influence.
 
-The compendium's principle [[R073 — Practise responsiveness]] cites this line of work (its source note reads "Bernstein et al., 2014," which does not match any responsive-parenting construct in the literature). The construct itself is well evidenced: an NCBI parenting volume states that emotionally responsive parenting, in which parents respond in a timely and appropriate way to children's needs, is correlated with emotional security, social facility, symbolic competence, verbal ability and intellectual achievement ([Parenting Knowledge, Attitudes, and Practices, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK402020/)).
+My principle [[R073 — Practise responsiveness]] cites this line of work (its source note reads "Bernstein et al., 2014," which does not match any responsive-parenting construct in the literature). The construct itself is well evidenced: an NCBI parenting volume states that emotionally responsive parenting, in which parents respond in a timely and appropriate way to children's needs, is correlated with emotional security, social facility, symbolic competence, verbal ability and intellectual achievement ([Parenting Knowledge, Attitudes, and Practices, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK402020/)).
 
 ## Related concepts
 

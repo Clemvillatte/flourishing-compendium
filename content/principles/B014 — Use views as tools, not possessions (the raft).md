@@ -20,7 +20,7 @@ The Buddha introduces the simile directly: "Monks, I will teach you the Dhamma c
 >
 > (Alagaddupama Sutta, MN 22, Thanissaro)
 
-The closing instruction is the principle: even the teachings themselves are to be let go once they have done their work. The compendium's application is the functional question for any view, including Buddhist ones: does it reduce suffering here?
+The closing instruction is the principle: even the teachings themselves are to be let go once they have done their work. My application is the functional question for any view, including Buddhist ones: does it reduce suffering here?
 
 (Alagaddupama Sutta, MN 22.)
 

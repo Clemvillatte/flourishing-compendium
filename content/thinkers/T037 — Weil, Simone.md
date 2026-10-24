@@ -35,7 +35,7 @@ Love of neighbour, in her formula, comes to this: asking the sufferer "What are 
 - **Rootedness** — her 1943 book *The Need for Roots*: obligations and needs over a system of rights, the spiritual conditions of a people's recovery ([Wikipedia, Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil)). See [[Rootedness]], [[D035 — Live within your ecosystem's bounds|Live within your ecosystem's bounds]].
 - **Every separation is a link** — from *Gravity and Grace*: "Two prisoners whose cells adjoin communicate with each other by knocking on the wall. The wall is the thing which separates them but it is also their means of communication... Every separation is a link" ([Wikipedia, Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil)). See [[ST023 — Simone Weil on Attention|Simone Weil on Attention]].
 
-## Everything connected in the wiki — the attention tradition
+## Everything connected here — the attention tradition
 
 Kept to the pages that carry or substantively apply Weil's writings on attention, affliction and rootedness.
 

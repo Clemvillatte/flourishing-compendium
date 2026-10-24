@@ -13,7 +13,7 @@ Episodic future thinking is the mind's rehearsal of specific futures: vividly im
 
 The point of the simulation, as the review presents it, is that EFT "encourages individuals to construct detailed future scenarios, thereby rendering delayed outcomes of current health behaviors more salient, emotionally engaging, and subjectively real". The review reports that "evidence indicates that EFT reduces delay discounting, improves decision quality, and enhances executive functioning, motivation, and mood", while noting that "the mechanisms through which EFT influences delay discounting and health behavior remain unclear".
 
-### In the compendium
+### Here
 
 - [[P099 — Let anticipation do its work]] and [[P039 — Deliberate by rehearsal, not by verdict]] are this concept's psychology parallels
 - [[B060 — Practice without seeking]] and [[R004 — Practise compassion]] carry its contemplative cousins

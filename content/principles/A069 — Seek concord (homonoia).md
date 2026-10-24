@@ -27,7 +27,7 @@ Aristotle notes that "we do say that a city is unanimous when men have the same 
 
 ### Wording of the principle
 
-Aristotle speaks of cities and of good men. The extension to families and teams, and the advice to make shared values explicit, are the compendium's.
+Aristotle speaks of cities and of good men. The extension to families and teams, and the advice to make shared values explicit, are my.
 
 (NE IX.6, 1167a-b.)
 

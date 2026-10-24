@@ -11,7 +11,7 @@ The function argument is Aristotle's route from human nature to human good, set 
 
 > "Now if the function of man is an activity of soul which follows or implies a rational principle... human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." (Aristotle, Nicomachean Ethics I.7, [Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-The argument's force is conditional: it yields a definition of the human good only if there is a distinctively human function, and Aristotle spends the chapter's middle earning that premise by elimination ([NE I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). The compendium's ergon principle (A002) works this passage directly, and its stories return to it from Pericles' funeral oration to Diogenes with his lantern.
+The argument's force is conditional: it yields a definition of the human good only if there is a distinctively human function, and Aristotle spends the chapter's middle earning that premise by elimination ([NE I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). My ergon principle (A002) works this passage directly, and its stories return to it from Pericles' funeral oration to Diogenes with his lantern.
 
 ## Sources
 

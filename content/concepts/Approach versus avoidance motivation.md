@@ -24,7 +24,7 @@ One goal reframed: "avoid failing the exam" becomes "master these three topics".
 
 Its contemplative cousin is [[Right effort]], the Buddhist training that is explicitly double-barreled, preventing the unskillful and developing the skillful, and the Stoic movement toward virtue rather than merely away from vice.
 
-### In the compendium
+### Here
 
 - [[MO019 — Learn to set approach goals, not avoidance goals]] — the applied principle
 - [[AF050 — Understand anger's function — it signals a violated boundary or blocked goal]] — the anger side of the approach/avoidance split

@@ -15,7 +15,7 @@ Interpretive understanding is Ricoeur's name for the work of understanding that 
 
 The article describes the practice as "an arc leading from an initial situation and understanding to broadened understanding, both of the interpreter and the world as a world we can imagine ourselves as inhabiting." The arc matters because explanation is not a rival of understanding in Ricoeur's later account; explanatory techniques enter where understanding breaks down, and the phrase he liked was that "one then seeks to explain more in order to understand better." His name for the resulting tie is explanatory understanding.
 
-The compendium's [[E079 — Practise the hermeneutic circle]] treats understanding as always running ahead of itself through expectations; this concept supplies Ricoeur's answer to the same problem in narrative form: an initial understanding is widened by interpretation and appropriation, the world the text projects being taken as a world one might inhabit.
+My [[E079 — Practise the hermeneutic circle]] treats understanding as always running ahead of itself through expectations; this concept supplies Ricoeur's answer to the same problem in narrative form: an initial understanding is widened by interpretation and appropriation, the world the text projects being taken as a world one might inhabit.
 
 ## Related concepts
 

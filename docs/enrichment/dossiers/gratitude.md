@@ -118,13 +118,13 @@ Algoe's theory relocates the function without denying the felt effect, and the c
 
 > "However, for both men and women, gratitude from interactions predicted increases in relationship connection and satisfaction the following day, for both recipient and benefactor." ([Algoe, Gable and Maisel, "It's the little things," 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x)): Primary text; the passage was read from the article page. The same abstract adds that "gratitude had uniquely predictive power in relationship promotion, perhaps acting as a booster shot for the relationship," where indebtedness maintained only the external signals of engagement.
 
-Which effect is primary in ordinary life, the feeler's attention or the bond's maintenance, is a question the compendium's essay writer can take up rather than one the research settles; the wiki's practices split along the same line, attention practices on one side, expression practices on the other. No verified disagreement is recorded on this theme, and the map's classical anchors were checked instead: Seneca's location of the benefit in the goodwill rather than the thing given, and Aristotle's account of returning honour and doing what one can when equivalent repayment is impossible, both verified against the opened editions.
+Which effect is primary in ordinary life, the feeler's attention or the bond's maintenance, is a question an essayist can take up rather than one the research settles; the practices here split along the same line, attention practices on one side, expression practices on the other. No verified disagreement is recorded on this theme, and the map's classical anchors were checked instead: Seneca's location of the benefit in the goodwill rather than the thing given, and Aristotle's account of returning honour and doing what one can when equivalent repayment is impossible, both checked against their sources.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the taken-for-granted: adaptation flattens repeated benefits, the counting practice meets it with deliberate attention, and the danger the theme itself names is that gratitude becomes a technique, a mood listed for effect. The adaptive direction keeps the benefit's source in view, names the giver and the gift specifically, and lets the acknowledgment reach the person when expression is possible.
 
-::Selection:: The compendium's selected practices on this theme, each a selected source of that variation:
+::Selection:: The practices I have selected as sources of that variation:
 
 1. [K164 — Gratitude practice](https://clemvillatte.github.io/flourishing-compendium/#card=K164%20%E2%80%94%20Gratitude%20practice): three things, written or expressed directly, with specificity named as what matters: not a friend in general but what the friend did.
 
@@ -140,7 +140,7 @@ Which effect is primary in ordinary life, the feeler's attention or the bond's m
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The gift of the Magi
 

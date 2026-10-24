@@ -24,7 +24,7 @@ The model takes sides in an old dispute. Its rival, the basic-emotions tradition
 
 > "This model stands in contrast to theories of basic emotions, which posit that a discrete and independent neural system subserves every emotion." (same paper, abstract)
 
-The two axes are meant to be independent, which is what makes the plane informative: a state can be pleasant and sleepy (contentment), unpleasant and sleepy (dejection), pleasant and alert (excitement), unpleasant and alert (alarm). For the compendium, the payoff is practical: [[AF003 — Learn the structure of your affect — valence and arousal]] uses the two axes as a first vocabulary for naming what one feels, before any finer emotional word is available.
+The two axes are meant to be independent, which is what makes the plane informative: a state can be pleasant and sleepy (contentment), unpleasant and sleepy (dejection), pleasant and alert (excitement), unpleasant and alert (alarm). For me, the payoff is practical: [[AF003 — Learn the structure of your affect — valence and arousal]] uses the two axes as a first vocabulary for naming what one feels, before any finer emotional word is available.
 
 ## Sources
 

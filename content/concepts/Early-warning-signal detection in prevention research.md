@@ -17,10 +17,10 @@ The signals are mostly quiet ones. "'Dysphoric' symptoms (depressed mood, withdr
 
 The approach's aim, in their summary: "The 'early warning signs' approach to relapse prevention seeks to identify the earliest signs of impending psychotic relapse and to offer timely and effective intervention to arrest their progression towards frank psychosis" (same text). The signal is not the relapse; it is the window.
 
-### In the compendium
+### Here
 
 - [[D161 — See the small]] — the Daoist attention to small signs is the practice this research operationalizes
-- [[BI071 — Learn to assess and monitor biophysiological health — regular check-ups]] — the compendium's habit of scheduled self-checks, applied to body and mind alike
+- [[BI071 — Learn to assess and monitor biophysiological health — regular check-ups]] — my habit of scheduled self-checks, applied to body and mind alike
 
 ## Related concepts
 

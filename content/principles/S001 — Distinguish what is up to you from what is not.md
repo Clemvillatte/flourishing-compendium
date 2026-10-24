@@ -17,7 +17,7 @@ Epictetus opens the Enchiridion with this distinction:
 > "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions."
 > (Ench. 1, [Elizabeth Carter's translation](https://classics.mit.edu/Epictetus/epicench.html))
 
-He warns that treating what belongs to others as your own will leave you hindered and disturbed. His instruction is to examine a troubling appearance by asking which category it concerns (Ench. 1). Chapter 5 attributes disturbance to the judgements people form about events (Ench. 5). The compendium applies this account by separating the action a person chooses from the outcome they hope to obtain. (Ench. 1; Disc. I.1, I.22.)
+He warns that treating what belongs to others as your own will leave you hindered and disturbed. His instruction is to examine a troubling appearance by asking which category it concerns (Ench. 1). Chapter 5 attributes disturbance to the judgements people form about events (Ench. 5). I applie this account by separating the action a person chooses from the outcome they hope to obtain. (Ench. 1; Disc. I.1, I.22.)
 
 **Plain words** Suppose you are waiting for someone else's decision. You might ask for clarification or decide what to do while waiting. Their answer remains their decision. The exercise is to identify your next choice without treating the result you want as something you can command.
 

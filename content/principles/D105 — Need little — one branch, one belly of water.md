@@ -18,7 +18,7 @@ In Zhuangzi's dialogue, Yao offers Xu You the throne. Xu You replies that the ki
 
 (Zhuangzi 1, Xu You's reply to Yao, [Legge](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease).)
 
-The compendium reads this refusal as an invitation to judge an acquisition by what you would use it for. The story gives no universal budget for a human life; its speaker has no use for the throne offered to him.
+I read this refusal as an invitation to judge an acquisition by what you would use it for. The story gives no universal budget for a human life; its speaker has no use for the throne offered to him.
 
 **Plain words** Before accepting something bigger, ask what you need it to do. If what you have already does that, would the extra responsibility be worth accepting just for the title?
 

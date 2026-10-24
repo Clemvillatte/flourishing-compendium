@@ -18,9 +18,9 @@ The abstract reports that a relatively low correlation between acceptance and pa
 
 > an exaggerated negative mental set brought to bear during actual or anticipated painful experience — catastrophizing as defined in the Pain Catastrophizing Scale manual, citing Sullivan et al., 2001 ([PCS Manual, opened](https://aspecthealth.ca/wp-content/uploads/2017/03/PCSManual_English1.pdf))
 
-The scale asks about rumination, magnification, and helplessness, with items such as "I can't stop thinking about how much it hurts". The compendium builds on these two lines of work in its pain principles.
+The scale asks about rumination, magnification, and helplessness, with items such as "I can't stop thinking about how much it hurts". I build on these two lines of work in its pain principles.
 
-### In the compendium
+### Here
 
 - [[B069 — Don't shoot the second arrow (pain vs. suffering)]] — the pain-versus-suffering distinction.
 - [[S023 — Do not fear pain]] — the fear-of-pain principle.

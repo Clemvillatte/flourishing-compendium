@@ -29,9 +29,9 @@ So distance is not simply what stands between a reader and a meaning. It is part
 
 ### What the page can and cannot claim
 
-Only the opening summary of the chapter was available, so the account of how distanciation works in detail (and the later concept of appropriation, which Thompson's volume treats in chapter 7) is not covered here. The label "critical distance" is the compendium's phrase, not a term the summary uses.
+Only the opening summary of the chapter was available, so the account of how distanciation works in detail (and the later concept of appropriation, which Thompson's volume treats in chapter 7) is not covered here. The label "critical distance" is my phrase, not a term the summary uses.
 
-### In the compendium
+### Here
 
 - [[E088 — Practise critical distance]] and [[SO004 — Treat culture as both a resource and a constraint]] cite this concept.
 - [[ST285 — Ricoeur's Threefold Mimesis]], [[ST286 — The Grand Inquisitor]], [[ST287 — Will Finishes the Story]] and [[ST288 — Joel and Clementine Erase Each Other]] cite it as well.

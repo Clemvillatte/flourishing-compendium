@@ -16,7 +16,7 @@ Mead's distinction is compressed into one sentence: "The 'I' is the response of 
 
 > "The 'I' both calls out the 'me' and responds to it. Taken together they constitute a personality as it appears in social experience. The self is essentially a social process going on with these two distinguishable phases." (Mead, Mind, Self and Society, p. 178, [text](https://archive.org/download/mead-1934/mead%201934.pdf))
 
-Mead is describing the social genesis of the self, and his timing claim is retrospective: the response becomes available to experience only after it has taken place. The compendium's exercise is a proposed application he does not make: before an act, notice what the "me" expects of you; after it, compare what was actually said and done.
+Mead is describing the social genesis of the self, and his timing claim is retrospective: the response becomes available to experience only after it has taken place. My exercise is a proposed application he does not make: before an act, notice what the "me" expects of you; after it, compare what was actually said and done.
 
 ### Plain words
 
@@ -24,7 +24,7 @@ The self has two phases. The "me" is the organized set of attitudes taken over f
 
 ### For example
 
-Imagine a meeting where you expect to agree, having learned to see yourself as the agreeable colleague. The exercise is to note that expectation before speaking, and afterward compare it with what was actually said. The comparison, between the internalized expectation and the response examined afterward, is the compendium's proposed application. The exercise makes the expectation visible and the response reviewable. It cannot promise the response will differ.
+Imagine a meeting where you expect to agree, having learned to see yourself as the agreeable colleague. The exercise is to note that expectation before speaking, and afterward compare it with what was actually said. The comparison, between the internalized expectation and the response examined afterward, is my proposed application. The exercise makes the expectation visible and the response reviewable. It cannot promise the response will differ.
 
 ## Psychology parallels
 

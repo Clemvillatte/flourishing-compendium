@@ -22,7 +22,7 @@ The abstract adds that these conclusions are "based largely on two forms of rest
 The direct forms vary in scope: "Another 'direct' form of restorative justice is victim-offender mediation, at which both victim and offender are present, often without other people affected by the crime, and where a mediator negotiates between them" ([Sherman & Strang 2007](https://www.iirp.edu/images/pdf/RJ_full_report.pdf)). The evidence is candid about limits: "The most important conclusion is that RJ works differently on different kinds of people" ([Sherman & Strang 2007](https://www.iirp.edu/images/pdf/RJ_full_report.pdf)) — a caution against prescribing the conference as a uniform fix for every case.
 
 
-### In the compendium
+### Here
 
 - [[A023 — Practice justice (dikaiosyne)]]
 - [[A097 — Practise corrective justice]]

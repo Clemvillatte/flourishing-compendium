@@ -27,7 +27,7 @@ The motor side of the same idea reaches the world without representations:
 
 Read together, the two passages give the concept its shape. Experience does not begin with a subject holding ideas about a world; it begins with a body already at home in one, handling it before any theory is formed. Objective thought, in Merleau-Ponty's description, is the result and the natural continuation of that perceptual experience, and the same passage warns that it can make us lose contact with what it grew from.
 
-### In the compendium
+### Here
 
 - [[E004 — Practise the lifeworld (Lebenswelt)]] — the principle that makes this concept a practice: attend to the pre-theoretical world of lived experience and do not let the abstractions of science or theory replace it, since it is their ground.
 

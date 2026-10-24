@@ -17,7 +17,7 @@ Cowan distinguishes the central capacity estimate from task performance that als
 
 He discusses rehearsal and long-term memory as ways of combining stimulus items into chunks, and sensory memory as a possible source of refilling during recall. The proposed average of about four chunks concerns the specified experimental conditions; it should not be presented as a fixed allowance for every memory task.
 
-### In the compendium
+### Here
 
 - [[CO003 — Know that thinking has limited capacity — cognitive load is real]] — discusses Cowan's capacity estimate alongside Sweller's account of problem-solving load
 - [[D037 — Empty the heart-mind (xuxin)]]

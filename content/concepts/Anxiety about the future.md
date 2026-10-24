@@ -20,7 +20,7 @@ The book's pseudonymous author is Vigilius Haufniensis ([Lippitt & Evans, "Søre
 
 > "Whoever has learned to be anxious in the right way has learned the ultimate" — Kierkegaard, The Concept of Anxiety (CA 155), as quoted in [Lippitt & Evans, SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)
 
-### In the compendium
+### Here
 
 - [[A116 — Understand fear (phobos)]] — Aristotle's fear, with expectation of some destructive or painful evil in the future (Rhetoric II.5)
 - [[S115 — Handle anxiety by returning to the present]] — the Meditations' passages on managing anxiety (IV.21, VI.9)

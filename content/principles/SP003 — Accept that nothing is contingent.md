@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 3** — Accept that nothing is contingent
 
-Spinoza argues that everything is determined by the necessity of the divine nature. ([Ethics I, Proposition XXIX](https://www.gutenberg.org/ebooks/3800)) Proposition XXXIII adds that God could not have brought things into being in another manner or order. ([Ethics I, Proposition XXXIII](https://www.gutenberg.org/ebooks/3800)) The compendium's practical application is to examine an event's circumstances while considering how to respond.
+Spinoza argues that everything is determined by the necessity of the divine nature. ([Ethics I, Proposition XXIX](https://www.gutenberg.org/ebooks/3800)) Proposition XXXIII adds that God could not have brought things into being in another manner or order. ([Ethics I, Proposition XXXIII](https://www.gutenberg.org/ebooks/3800)) My practical application is to examine an event's circumstances while considering how to respond.
 
 > "Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature." (Ethics I, Prop. XXIX, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 

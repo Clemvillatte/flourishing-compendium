@@ -16,7 +16,7 @@ The Emendation lists four modes of perception: "Perception arising from hearsay 
 
 > "Lastly, there is the perception arising when a thing is perceived solely through its essence, or through the knowledge of its proximate cause." (On the Improvement of the Understanding, §19, [Elwes](https://www.gutenberg.org/ebooks/1016))
 
-In Ethics II, P40, Note II, Spinoza instead names three kinds of knowledge: ordinary experience and signs belong to the first kind, reason to the second, intuition to the third. The compendium's exercise: for a given belief, identify how it was acquired, and let that determine the trust it earns.
+In Ethics II, P40, Note II, Spinoza instead names three kinds of knowledge: ordinary experience and signs belong to the first kind, reason to the second, intuition to the third. My exercise: for a given belief, identify how it was acquired, and let that determine the trust it earns.
 
 **Plain words**
 Ask how a belief arrived. If somebody told you and you never checked, it is the hearsay mode. If it comes from your own unsorted experience, it is the second mode.

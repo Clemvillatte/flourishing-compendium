@@ -32,7 +32,7 @@ Kahneman's framing is a division of labor, not brain parts: "I adopt terms origi
 - **Peak-end rule and duration neglect** — "such evaluations are often dominated by the discomfort at the worst and at the final moments of episodes" ([Kahneman et al. 1993](https://www.ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf)). See [[Peak-end rule]], [[Duration neglect]].
 - **The planning fallacy and the outside view** — the finding that forecasters inside a project underestimate time, cost and risk, and the reference-class cure. See [[Planning fallacy]], [[Outside view / reference class forecasting]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[System 1 and System 2]]
 - [[Prospect theory]]
@@ -40,7 +40,7 @@ Kahneman's framing is a division of labor, not brain parts: "I adopt terms origi
 - [[Availability heuristic]]
 - [[Planning fallacy]]
 
-## Everything connected in the wiki — the Kahneman tradition
+## Everything connected here — the Kahneman tradition
 
 Kept to the pages that carry or substantively apply Kahneman's work — the two systems, the heuristics and biases, prospect theory, the peak-end rule; the principles that cite him as a cross-tradition parallel stay on their own pages.
 

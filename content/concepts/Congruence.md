@@ -15,9 +15,9 @@ Congruence is Carl Rogers' term for the alignment between what a person actually
 
 The same paper defines the client-side condition as incongruence: a "discrepancy between the actual experience of the organism and the self picture of the individual insofar as it represents that experience". Rogers allows that the therapist need not be "a paragon" in the rest of life; it is enough to be "accurately himself in this hour of this relationship".
 
-### In the compendium
+### Here
 
-- [[P167 — Practice congruence — align experience, awareness, and expression]] — the compendium's own principle for the same alignment
+- [[P167 — Practice congruence — align experience, awareness, and expression]] — my own principle for the same alignment
 - [[A030 — Practice integrity — consistency between thought, word, and deed]] — the integrity parallel
 - [[S034 — Let your actions be consistent with your words]]
 - [[S076 — Speak truthfully and simply]]

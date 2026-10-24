@@ -16,7 +16,7 @@ He closed it by asking readers to hold him to it: "Those of you who live long en
 
 Curator Tim Clark writes that the paintings he made at 88, 89 and 90 are signed with his age and sealed with a red seal bearing the character for "hundred": "Hokusai was literally willing himself to live ever longer." Hokusai died on 10 May 1849 in a humble rented dwelling in Edo, supported by his daughter Eijo (Ōi), herself a painter. His last words are recorded as: "If heaven will extend my life by ten more years...", and then, after a pause, "If heaven will afford me five more years of life, then I'll manage to become a true artist." Eijo wrote to his pupil at once to say that he had died, and added the time of the funeral ([Clark, British Museum](https://www.britishmuseum.org/blog/hokusai-old-master)).
 
-The compendium sets this beside P116 and P114. Arrival never comes in the text. At 75 he is repeating the past as an unfinished apprenticeship, and at 89 he is still asking for time. The growth is shown as dated output, not as a feeling.
+I set this beside P116 and P114. Arrival never comes in the text. At 75 he is repeating the past as an unfinished apprenticeship, and at 89 he is still asking for time. The growth is shown as dated output, not as a feeling.
 
 Limits: the colophon is also a publisher's promotional device, and the page gives no source for the last words, so they should be read as recorded tradition. The first major biography, by Iijima Kyoshin, appeared in 1893, 44 years after his death. The story does not show what the work felt like to him, or what the cost to his family was.
 

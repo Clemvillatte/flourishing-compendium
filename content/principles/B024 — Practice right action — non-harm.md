@@ -20,7 +20,7 @@ The teaching makes ethical conduct central to purification, regardless of whethe
 
 ### Plain words
 
-Before acting, ask what you might damage, what you have permission to take, and whose boundaries are involved. The compendium applies the principle by making those questions specific to the situation. Concern for consequences does not depend on expecting an immediate reward for behaving well.
+Before acting, ask what you might damage, what you have permission to take, and whose boundaries are involved. I applie the principle by making those questions specific to the situation. Concern for consequences does not depend on expecting an immediate reward for behaving well.
 
 ### For example
 

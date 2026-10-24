@@ -15,7 +15,7 @@ Knowing by acquaintance is direct knowledge: you know a thing by standing in the
 
 The same entry explains the structure: mind and matter are both formed from a more fundamental stuff, pure experience, and one pure experience can be part of two sequences, the one constituting a physical object and the one constituting a person. James's chapter title asks how two minds can know one thing, and the answer is that knowing is not copying; it is a relation portions of experience enter into. The SEP also gives James's own postulate for radical empiricism, from The Meaning of Truth: "the only things that shall be debatable among philosophers shall be things definable in terms drawn from experience."
 
-The compendium's [[M021 — Treat truth as something you stand in, not only something you hold]] uses this tradition against the correspondence theory; its psychology parallel names the research-line descendant, experiential versus vicarious knowledge. Russell's acquaintance is the epistemological version of the same move: knowledge by direct presentation, as against knowledge by description.
+My [[M021 — Treat truth as something you stand in, not only something you hold]] uses this tradition against the correspondence theory; its psychology parallel names the research-line descendant, experiential versus vicarious knowledge. Russell's acquaintance is the epistemological version of the same move: knowledge by direct presentation, as against knowledge by description.
 
 ## Related concepts
 

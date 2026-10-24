@@ -18,7 +18,7 @@ Chapters 18 and 38 of the Daodejing are the source pair for this principle. In L
 
 Chapter 38 gives the sequence in steps: "when the Tao was lost, its attributes appeared; when its attributes were lost, benevolence appeared; when benevolence was lost, righteousness appeared; and when righteousness was lost, the proprieties appeared. Now propriety is the attenuated form of leal-heartedness and good faith, and is also the commencement of disorder." ([Daodejing 38.5-6](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-The compendium's reading is that visible virtue is what remains when the underlying ease has failed, and that performing goodness for an audience takes the place of having it.
+My reading is that visible virtue is what remains when the underlying ease has failed, and that performing goodness for an audience takes the place of having it.
 
 (Daodejing 18.1-2 and 38.5-6, trans. Legge.)
 

@@ -19,7 +19,7 @@ The paper states its limits: "The aim is not to offer a complete neuroscience of
 
 ### What it is not
 
-This is not an established finding. It is a recent proposal that has been put forward as testable, and the compendium cites it for the idea that the match between a practice and the person's present state is a question worth asking before choosing the practice. It does not show that matching improves outcomes.
+This is not an established finding. It is a recent proposal that has been put forward as testable, and I cite it for the idea that the match between a practice and the person's present state is a question worth asking before choosing the practice. It does not show that matching improves outcomes.
 
 ## Related concepts
 

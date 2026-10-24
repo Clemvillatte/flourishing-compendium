@@ -15,15 +15,15 @@ Paideia is the Greek tradition of formation — the rearing and education of the
 
 The training was not one subject but a whole person: practical schooling in the liberal arts — rhetoric, grammar, mathematics, philosophy — alongside medicine; gymnastics and wrestling "valued for their effect on the body"; and moral education "imparted by the study of music, poetry, and philosophy". The article records the culture's own summary of the aim: "The culture and the youth were formed to the ideal of kalos kagathos ('beautiful and good')."
 
-### In the compendium
+### Here
 
 - [[M019 — Educate deliberately, and count character as the curriculum]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Education as growth]] — the compendium's page on education as growth
-- [[Cardinal virtues]] — the compendium's page on the cardinal virtues
-- [[Designing for virtue]] — the compendium's page on designing for virtue
+- [[Education as growth]] — my page on education as growth
+- [[Cardinal virtues]] — my page on the cardinal virtues
+- [[Designing for virtue]] — my page on designing for virtue
 
 ## Sources
 

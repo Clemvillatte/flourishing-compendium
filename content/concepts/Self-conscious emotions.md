@@ -20,7 +20,7 @@ The attribution step is what separates shame from guilt: "shame occurs in respon
 
 The family's positive member splits along the same seam: "two facets of pride — 'hubristic' and 'achievement-oriented' — mirror shame and guilt, and result from complementary attributions for a positive event. Specifically, hubristic pride, like shame, results from internal, stable, uncontrollable, global attributions; whereas achievement-oriented pride, like guilt, results from internal, unstable, controllable, specific attributions." In this model, global self-attributions and behavior-specific attributions are what distinguish shame from guilt, and hubristic from achievement-oriented pride: the same event can be metabolized as a fact about who one is or as a fact about what one did.
 
-### In the compendium
+### Here
 
 - [[E035 — Practise the gaze of the Other (le regard)]] — the public self in another's eyes, embarrassment's engine
 - [[A118 — Understand shame (aischynē)]] — the classical treatment of shame
@@ -31,7 +31,7 @@ The family's positive member splits along the same seam: "two facets of pride �
 - [[Guilt]] — the specific-attribution member, feeling bad about a deed
 - [[Pride]] — the positive member, in both its hubristic and achievement forms
 - [[Self-discrepancy]] — a comparison between frameworks: Higgins's actual-ideal and actual-ought gaps beside the identity-goal appraisals here
-- [[Anger reappraisal]] — the compendium's pages on reworking appraisals, the same lever in a different family
+- [[Anger reappraisal]] — my pages on reworking appraisals, the same lever in a different family
 
 ## Sources
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 4** — Stop reading purposes into events
 
-Nature has no goal set before it, Spinoza argues in the Appendix to Part I of the Ethics. Because people act on purposes, they assume Nature does too, and then read the weather, the illness and the loss as messages addressed to them. ([Ethics I, Appendix, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) His diagnosis of the habit: people are born ignorant of causes, desire what is useful to them, and are conscious of that desire, so they look for the final causes of events and judge other natures by their own. ([Ethics I, Appendix, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) The compendium applies the argument by distinguishing an event's causes from any purpose someone supposes it served.
+Nature has no goal set before it, Spinoza argues in the Appendix to Part I of the Ethics. Because people act on purposes, they assume Nature does too, and then read the weather, the illness and the loss as messages addressed to them. ([Ethics I, Appendix, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) His diagnosis of the habit: people are born ignorant of causes, desire what is useful to them, and are conscious of that desire, so they look for the final causes of events and judge other natures by their own. ([Ethics I, Appendix, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) I applie the argument by distinguishing an event's causes from any purpose someone supposes it served.
 
 > "There is no need to show at length, that nature has no particular goal in view, and that final causes are mere human figments." (Ethics I, Appendix, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 

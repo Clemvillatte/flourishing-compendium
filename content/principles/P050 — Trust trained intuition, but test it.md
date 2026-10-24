@@ -24,10 +24,10 @@ Skilled intuition of this kind develops only under conditions the paper states d
 >
 > (Kahneman and Klein, 2009, p. 520)
 
-Medicine and firefighting are the paper's examples of fairly high-validity environments (p. 524). The authors also caution that high subjective confidence is not a good indication of validity; confidence is often determined by the internal consistency of the information rather than its quality (p. 522). That caution is the ground for the compendium's rule of treating intuition as hypothesis, not verdict.
+Medicine and firefighting are the paper's examples of fairly high-validity environments (p. 524). The authors also caution that high subjective confidence is not a good indication of validity; confidence is often determined by the internal consistency of the information rather than its quality (p. 522). That caution is the ground for my rule of treating intuition as hypothesis, not verdict.
 
 **Plain words**
-Ask how you learned to make this kind of call. Were there dependable cues to learn, and did you find out promptly and clearly when you were right or wrong? Count the feedback you received as well as the time you spent. For the compendium's exercise, write down one hunch, the experience behind it, and what observation would count against it.
+Ask how you learned to make this kind of call. Were there dependable cues to learn, and did you find out promptly and clearly when you were right or wrong? Count the feedback you received as well as the time you spent. For my exercise, write down one hunch, the experience behind it, and what observation would count against it.
 
 *For example:*
 Imagine an experienced chess player immediately favouring a move. For this exercise, they record the reply they expect, consider another possible reply, and check their prediction during analysis.

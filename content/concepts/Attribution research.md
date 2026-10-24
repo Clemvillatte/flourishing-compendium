@@ -13,7 +13,7 @@ Attribution research studies how ordinary people explain behavior: what they cre
 
 ### Why it matters for flourishing
 
-The bias is not a logic slip; it is a habit of seeing. When another person's struggle reads as their character while the situation that shaped it goes unnoticed, the error feeds blame and misdesigns the situations people actually live in. The compendium uses attribution research as a corrective instrument: noticing what a situation is doing to someone is part of seeing them accurately, and seeing accurately is upstream of both compassion and repair.
+The bias is not a logic slip; it is a habit of seeing. When another person's struggle reads as their character while the situation that shaped it goes unnoticed, the error feeds blame and misdesigns the situations people actually live in. I use attribution research as a corrective instrument: noticing what a situation is doing to someone is part of seeing them accurately, and seeing accurately is upstream of both compassion and repair.
 
 ## Sources
 

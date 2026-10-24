@@ -7,7 +7,7 @@ file: "The sufficient good"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The compendium's heading "the sufficient good" points here to Aristotle's account of happiness as final and self-sufficient. The original entry names the Nicomachean Ethics.
+My heading "the sufficient good" points here to Aristotle's account of happiness as final and self-sufficient. The original entry names the Nicomachean Ethics.
 
 ### Aristotle's ground
 
@@ -27,7 +27,7 @@ Aristotle also excludes a solitary understanding of self-sufficiency:
 
 > "Now by sufficient for Self, we mean not for a single individual living a solitary life, but for his parents also and children and wife, and, in general, friends and countrymen; for man is by nature adapted to a social existence." (same work)
 
-### In the compendium
+### Here
 
 The Aristotelian passage grounds the heading's sense of a good that leaves nothing needed. The linked Stoic principle makes a stronger claim — that virtue alone is sufficient for flourishing — which this passage does not itself establish; the pairing is a comparison between the two traditions, not evidence for the Stoic claim.
 

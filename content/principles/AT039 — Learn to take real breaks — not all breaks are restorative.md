@@ -16,10 +16,10 @@ The 2019 experiment tested anagram performance in 414 participants. Three condit
 
 > "The results show that using cell phone for a break did not allow brain to recharge as effectively as the other types of breaks, both in terms of being able to perform quickly and efficiently in the second half of the task (how long it took to complete), and in terms of performance (how many anagrams were successfully solved in the second half)." (Kang & Kurtzberg, 2019, [Journal of Behavioral Addictions 8(3):395-403](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/))
 
-Berman, Jonides and Kaplan reported improvements on specified attention tests after walking in nature or viewing nature pictures. These findings concern particular activities and measured tasks. The compendium suggests trying different breaks and observing the return to work. (Berman et al., 2008.)
+Berman, Jonides and Kaplan reported improvements on specified attention tests after walking in nature or viewing nature pictures. These findings concern particular activities and measured tasks. I suggest trying different breaks and observing the return to work. (Berman et al., 2008.)
 
 **Plain words**
-Stopping work changes what you are doing, but how you spend the interval may matter to what comes next. For the compendium's exercise, note your break activity and how you feel when you return. Compare occasions without assuming that every phone activity or every outdoor setting has the same effect.
+Stopping work changes what you are doing, but how you spend the interval may matter to what comes next. For my exercise, note your break activity and how you feel when you return. Compare occasions without assuming that every phone activity or every outdoor setting has the same effect.
 
 *For example:* Imagine taking a lunch break in a nearby garden, then noting how it feels to return to your writing.
 

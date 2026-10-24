@@ -15,7 +15,7 @@ The tradition's own classic warns against the wrong kind of effort. Chapter 50, 
 
 ### Nourishment, not performance
 
-Yangsheng is easy to confuse with modern self-optimisation, and the difference matters. Nothing is being maximised. The measure is quality of aliveness (steady energy, settled sleep, clear awareness), not output or metrics. The compendium's reading is that the body is read, not overridden, which echoes [[Interoceptive awareness]]. The older vocabulary for the same attention is care of one's [[Qi]].
+Yangsheng is easy to confuse with modern self-optimisation, and the difference matters. Nothing is being maximised. The measure is quality of aliveness (steady energy, settled sleep, clear awareness), not output or metrics. My reading is that the body is read, not overridden, which echoes [[Interoceptive awareness]]. The older vocabulary for the same attention is care of one's [[Qi]].
 
 ### What it is not
 
@@ -25,7 +25,7 @@ It is not a promise of immortality or a replacement for medical care. Britannica
 
 A ten-minute daily round of gentle movement, a few slow breaths, plain food and a regular bedtime, kept for months and adjusted by how it leaves the person feeling the next day. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[D095 — Moderate emotion — extremes injure vitality]], [[D153 — Move gently and regularly]] and [[D141 — Care for life as the root of all endeavor]] — the Daoist principles that carry it
 - [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — the psychological basis

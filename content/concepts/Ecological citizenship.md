@@ -19,9 +19,9 @@ The chapter says the obligations are owed asymmetrically: only those who occupy 
 
 ### Scope
 
-The compendium's one-line entry cites Dobson's book only. This page relies on the publisher's description and the open chapter text. Other scholars have defended, criticised or adapted the idea, and those debates are not covered here. Dobson's account is a theory of political obligation, not a claim about inner life, so connections to wellbeing are for the reader to draw.
+My one-line entry cites Dobson's book only. This page relies on the publisher's description and the open chapter text. Other scholars have defended, criticised or adapted the idea, and those debates are not covered here. Dobson's account is a theory of political obligation, not a claim about inner life, so connections to wellbeing are for the reader to draw.
 
-### In the compendium
+### Here
 
 - [[R126 — Practise ecological citizenship]] lists this concept.
 

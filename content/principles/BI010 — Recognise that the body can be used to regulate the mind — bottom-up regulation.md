@@ -16,7 +16,7 @@ Zaccaro and colleagues reviewed the physiological and psychological correlates o
 
 > "We found evidence of increased psychophysiological flexibility linking parasympathetic activity, CNS activities related to emotional control and psychological well-being in healthy subjects during slow breathing techniques." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience 12:353](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
 
-The compendium uses slow breathing as one example of beginning a regulation exercise with a bodily activity. The reported findings do not guarantee that an individual exercise will stop anxious thoughts.
+I use slow breathing as one example of beginning a regulation exercise with a bodily activity. The reported findings do not guarantee that an individual exercise will stop anxious thoughts.
 
 **Plain words**
 Here the bodily practice is comfortable, deliberately slower breathing. Notice your experience during it without requiring yourself to become calm.

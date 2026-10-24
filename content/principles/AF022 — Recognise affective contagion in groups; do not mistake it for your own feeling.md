@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 22** — Recognise affective contagion in groups; do not mistake it for your own feeling
 
-In a laboratory study of managerial decision making, Sigal Barsade found evidence of emotional contagion among group members: the mood enacted by a trained confederate was reflected in the group, measured both by outside coders' ratings and participants' self-reported mood. ([Barsade, 2002](https://doi.org/10.2307/3094912)) The compendium's application is to ask, after leaving a group that felt emotionally charged, what may have contributed to the feeling — a question about its sources, not a denial of the feeling.
+In a laboratory study of managerial decision making, Sigal Barsade found evidence of emotional contagion among group members: the mood enacted by a trained confederate was reflected in the group, measured both by outside coders' ratings and participants' self-reported mood. ([Barsade, 2002](https://doi.org/10.2307/3094912)) My application is to ask, after leaving a group that felt emotionally charged, what may have contributed to the feeling — a question about its sources, not a denial of the feeling.
 
 > "Using a 2 x 2 experimental design, with a trained confederate enacting mood conditions, the predicted effect of emotional contagion was found among group members, using both outside coders' ratings of participants' mood and participants' self-reported mood." (Barsade, S. G. (2002). The Ripple Effect: Emotional Contagion and Its Influence on Group Behavior. Administrative Science Quarterly, 47(4), 644-675, [DOI](https://doi.org/10.2307/3094912))
 

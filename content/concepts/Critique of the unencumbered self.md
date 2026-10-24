@@ -15,7 +15,7 @@ Michael Sandel calls the self conceived as given prior to and independent of its
 
 The Stanford Encyclopedia places the critique in its setting: "Communitarian thinkers in the 1980s such as Michael Sandel and Charles Taylor argued that Rawlsian liberalism rests on an overly individualistic conception of the self. Whereas Rawls argues that we have a supreme interest in shaping, pursuing, and revising our own life-plans, he neglects the fact that our selves tend to be defined or constituted by various communal attachments (e.g., ties to the family or to a religious tradition) so close to us that they can only be set aside at great cost, if at all" ([Daniel Bell, Communitarianism, SEP, section 2 "The Debate Over the Self"](https://plato.stanford.edu/entries/communitarianism/)).
 
-### In the compendium
+### Here
 
 - [[SE039 — Cultivate possible selves — who could you become]]
 - [[B122 — Use two truths (conventional and ultimate)]]

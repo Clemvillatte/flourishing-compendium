@@ -15,7 +15,7 @@ Verbs of practice, not articles of faith.
 
 ### The four tasks
 
-The first truth names dukkha, the fact that experience, grasped, is unsatisfactory. The second names its origin: tanha, craving, which produces renewal of becoming. The third names its cessation: the remainderless fading of that very craving. The fourth names the path: the Noble Eightfold Path. The compendium's reading (principle B008) is the practical one: treat the truths as tasks, not beliefs, a diagnosis-and-prescription for the mind, closer to medicine than metaphysics.
+The first truth names dukkha, the fact that experience, grasped, is unsatisfactory. The second names its origin: tanha, craving, which produces renewal of becoming. The third names its cessation: the remainderless fading of that very craving. The fourth names the path: the Noble Eightfold Path. My reading (principle B008) is the practical one: treat the truths as tasks, not beliefs, a diagnosis-and-prescription for the mind, closer to medicine than metaphysics.
 
 ### The family of diagnostics
 
@@ -25,9 +25,9 @@ The framework is the Buddhist member of a family of diagnostic traditions: the [
 
 A bad week run through the four questions: what is the friction, what am I reaching for that feeds it, what would the reaching's end feel like, and what is one step of the path. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
-- [[B008 — Treat the truths as tasks, not beliefs]] — the compendium's reading
+- [[B008 — Treat the truths as tasks, not beliefs]] — my reading
 
 ## Related concepts
 - [[T011 — Socrates]]: the unexamined life as the disease the page lists beside the first truth.

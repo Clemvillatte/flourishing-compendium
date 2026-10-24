@@ -21,7 +21,7 @@ Dewey's Democracy and Education states the principle directly:
 Without that connection, he writes, "everything is writ in water": "Blind and capricious impulses hurry us on heedlessly from one thing to another", and there is "no before or after to such experience; no retrospect nor outlook, and consequently no meaning".
 
 **Plain words**
-Something happening to you is not yet learning it. The learning happens when you connect what you did with what came back: the action, the consequence, and the rule you can carry forward. The compendium's exercise: after one significant experience this week, write three lines: what happened, what I did, what follows.
+Something happening to you is not yet learning it. The learning happens when you connect what you did with what came back: the action, the consequence, and the rule you can carry forward. My exercise: after one significant experience this week, write three lines: what happened, what I did, what follows.
 
 *For example:*
 For a proposed exercise, take one argument that keeps ending the same way. Write out what each person said, what you wanted, and where it turned; then write what to observe next time so the next ending can be compared with the writing.

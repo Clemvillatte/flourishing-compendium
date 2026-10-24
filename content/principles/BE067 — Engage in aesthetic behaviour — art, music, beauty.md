@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 
 The most comprehensive review of the evidence on arts and health is the WHO Europe scoping review by Fancourt and Finn, which covered over 900 publications including more than 200 reviews of over 3,000 studies. It concluded that "the arts can potentially impact both mental and physical health" (Fancourt & Finn 2019, [WHO IRIS](https://iris.who.int/items/ba079951-0beb-4b7f-a1c5-a75cc66c283e)). The word "potentially" matters here. The report's authors acknowledge that it "did not involve a systematic literature search", a reviewer points to the lack of quality screening of sources, and the report itself notes "an inherent publication bias in the literature towards positive findings" ([Nordic Journal of Arts, Culture and Health review](https://www.scup.com/doi/10.18261/issn.2535-7913-2020-01-08)).
 
-The report covers arts engagement broadly, so it does not show that any single piece of music or art improves a given hour. The principle's "awe" and "meaning" claims are the compendium's inference from this literature, and the report is not a test of them.
+The report covers arts engagement broadly, so it does not show that any single piece of music or art improves a given hour. The principle's "awe" and "meaning" claims are my inference from this literature, and the report is not a test of them.
 
 **Plain words**
 Taking part in art and music is linked, across a large and uneven body of research, with better mental and physical health. The evidence is wide and not uniformly strong, and the studies tend to report positive results. So make room for music, art or time among beautiful things because you value it, and watch for your own effect.

@@ -16,7 +16,7 @@ The principle is the first of the three marks Rogers names for the process he ca
 
 > "If a person could be fully open to his experience, every stimulus - whether originating within the organism or in the environment - would be freely relayed through the nervous system without being distorted by any defensive mechanism." (Rogers, "The Good Life and the Fully Functioning Person", section "An Increasing Openness to Experience", in On Becoming a Person, 1961, [reproduced excerpt](https://www.panarchy.org/rogers/person.html))
 
-The account runs on a conditional: "If a person could be fully open to his experience", every stimulus would reach awareness undistorted, and such a person, in Rogers's phrasing, "would have access to all of the available data in the situation" (section "An Increasing Trust in His Organism"). The compendium's rule takes that account as a practice rather than a promise: lower the guards so that more of the evidence gets in.
+The account runs on a conditional: "If a person could be fully open to his experience", every stimulus would reach awareness undistorted, and such a person, in Rogers's phrasing, "would have access to all of the available data in the situation" (section "An Increasing Trust in His Organism"). My rule takes that account as a practice rather than a promise: lower the guards so that more of the evidence gets in.
 
 **Plain words** To practise this during criticism, notice your embarrassment or anger before deciding what the criticism means. Separate the feeling from the specific complaint. Ask what happened and whether anything needs changing. Examining a complaint carefully does not require agreeing with it.
 

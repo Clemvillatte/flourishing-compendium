@@ -14,7 +14,7 @@ Make the cue for a desired behaviour obvious, and the cue for an undesired behav
 
 ### Protocol
 
-*Steps follow the logic of the habit research; the steps themselves are the compendium's editorial protocol.*
+*Steps follow the logic of the habit research; the steps themselves are my own protocol.*
 
 1. Inventory the cues that already trigger the behaviour you want: place, time of day, people, preceding actions. Keep the ones that work.
 2. Make the desired cue obvious and frictionless: the object in sight, the gear by the door, the practice tied to an existing routine.

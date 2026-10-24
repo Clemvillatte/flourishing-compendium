@@ -17,7 +17,7 @@ The paper's statement of the key contrast, verbatim from the Baillie translation
 
 The same section's argument for why work, not consumption, is where self-consciousness comes to itself: through his work the bondsman cancels his dependence on natural existence, and "through this re-discovery of himself by himself" becomes aware of "having and being a 'mind of his own'". The master, who merely consumes, gets back only the evanescence desire always gets; the bondsman, who shapes, sees his own form standing there.
 
-The compendium's [[D068 — Yield in conflict to remain whole]] reads the dialectic against the grain: the one who will not win the struggle is the one who ends up free, and yielding is not capitulation but the smarter term of the recognition bargain.
+My [[D068 — Yield in conflict to remain whole]] reads the dialectic against the grain: the one who will not win the struggle is the one who ends up free, and yielding is not capitulation but the smarter term of the recognition bargain.
 
 [[ST281 — The Struggle for Recognition]]
 ## Related concepts

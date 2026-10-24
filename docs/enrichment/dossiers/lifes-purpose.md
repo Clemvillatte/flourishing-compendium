@@ -2,7 +2,7 @@
 
 > What is a life for, and where does a sense of purpose come from?
 
-A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and the wiki holds the difference on its own cards.
+A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and I hold the difference on its own cards.
 
 ### Nearby terms
 
@@ -12,7 +12,7 @@ A purpose is the aim a life organises itself around, and its absence is felt as 
 - Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier.
 - Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement) the bridge card named here.
 
-## The map: every entry the wiki holds on purpose and meaning
+## The map: the entries on purpose and meaning
 
 ### What a purpose is taken to be
 
@@ -132,7 +132,7 @@ The model in Park's own words:
 
 [Life story model](https://clemvillatte.github.io/flourishing-compendium/#card=Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole.
 
-[The narrative fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20narrative%20fallacy): the counterpoint the wiki holds against the story cluster: the predictable tendency to read a coherent story into a linked series of acts, which predicts too many things about what the story will be.
+[The narrative fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20narrative%20fallacy): the counterpoint I hold against the story cluster: the predictable tendency to read a coherent story into a linked series of acts, which predicts too many things about what the story will be.
 
 [Narrative as meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20as%20meaning-making): Ricoeur's claim, across Time and Narrative, that stories configure actions into a followable whole, and through plot work a life becomes a told story.
 
@@ -164,7 +164,7 @@ Frankl's formulation:
 
 [Intergenerational responsibility](https://clemvillatte.github.io/flourishing-compendium/#card=Intergenerational%20responsibility): Hans Jonas's duties owed to people who do not yet exist and cannot return them, built for an age in which action reaches across generations.
 
-[The eternal contribution](https://clemvillatte.github.io/flourishing-compendium/#card=The%20eternal%20contribution): the compendium's reading of Nietzsche's eternal recurrence, the demon's proposal to live this life once more and innumerable times over, turned toward what a life leaves behind.
+[The eternal contribution](https://clemvillatte.github.io/flourishing-compendium/#card=The%20eternal%20contribution): my reading of Nietzsche's eternal recurrence, the demon's proposal to live this life once more and innumerable times over, turned toward what a life leaves behind.
 
 ### The inner check
 
@@ -208,13 +208,13 @@ Camus's position, from the essay that carries his:
 
 > "The absurd is born of this confrontation between the human need and the unreasonable silence of the world." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.
 
-Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. The wiki holds both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered.
+Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. I hold both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The direction of improvement is toward aims a person is actually the author of, aims that reach beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [The meaning question](https://clemvillatte.github.io/flourishing-compendium/#card=K351%20%E2%80%94%20The%20meaning%20question): keeping "What is this life for?" alive as an ongoing inquiry rather than settling it with a fixed answer; the discipline of holding the question open, in Steger's vocabulary of presence and search.
 
@@ -242,7 +242,7 @@ The evidence limits are uneven across the list, and the kernels say so where it 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### What a purpose is taken to be
 

@@ -21,7 +21,7 @@ Analects XIII.23 gives the term its social sense:
 
 > "The superior man is affable, but not adulatory; the mean man is adulatory, but not affable." (Confucius, Analects XIII.23, Legge translation, [Standard Ebooks](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13))
 
-The passage contrasts two ways of being with others: ease without flattery on one side, flattery without ease on the other. The compendium's principle on practising harmony (he) carries the Chinese term behind the contrast.
+The passage contrasts two ways of being with others: ease without flattery on one side, flattery without ease on the other. My principle on practising harmony (he) carries the Chinese term behind the contrast.
 
 ### Plato: the soul as attunement
 

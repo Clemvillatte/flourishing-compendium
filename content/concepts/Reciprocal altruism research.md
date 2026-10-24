@@ -15,7 +15,7 @@ Robert Trivers's model explains helping between non-relatives as mutualism with 
 
 The abstract closes on the balance point: "Each individual human is seen as possessing altruistic and cheating tendencies, the expression of which is sensitive to developmental variables that were selected to set the tendencies at a balance appropriate to the local social and ecological environment."
 
-### In the compendium
+### Here
 
 - [[A100 — Practise reciprocity (antapodosis)]] — lists the concept among its psychology parallels.
 

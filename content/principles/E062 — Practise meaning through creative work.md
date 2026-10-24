@@ -20,7 +20,7 @@ Dik and Duffy, in their review of calling at work, describe a calling as an orie
 
 (Frankl, Man's Search for Meaning.)
 
-**Plain words** Frankl's first route is making something or doing something that matters. Dik and Duffy suggest meaning at work grows when a person links the task to a wider purpose. The compendium's phrase about creation over consumption is its own gloss.
+**Plain words** Frankl's first route is making something or doing something that matters. Dik and Duffy suggest meaning at work grows when a person links the task to a wider purpose. My phrase about creation over consumption is its own gloss.
 
 For example: a teacher who rewrites a lesson so a struggling student finally follows it may feel more meaning than from a day of routine marking, though both are work.
 

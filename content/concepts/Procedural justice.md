@@ -17,7 +17,7 @@ The classic checklist comes from Gerald Leventhal's 1976 rules: consistency, bia
 
 Tyler's explanation runs through legitimacy. In his words, "Legitimacy is...a psychological property of an authority, institution, or social arrangement, that leads those connected to it to believe that it is appropriate, proper, and just" (Tyler, 2006b, p. 375, quoted in [Wikipedia, Legitimacy (criminal law)](https://en.wikipedia.org/wiki/Legitimacy_(criminal_law))). A procedure perceived as fair builds that belief, and the belief then carries compliance when no one is watching. Rawls supplies the philosophical frame in A Theory of Justice: perfect procedural justice has both an independent criterion for the fair outcome and a procedure that guarantees it, while most real institutions are stuck with imperfect procedural justice, where the criterion exists but the guarantee does not.
 
-### In the compendium
+### Here
 
 - [[A099 — Recognise political justice (politikon dikaion)]] and [[A023 — Practice justice (dikaiosyne)]] — the Aristotelian account of justice this modern research measures
 - [[A101 — Recognise that law is a teacher]] — what procedural justice is the mechanism of: law shapes people by how it treats them

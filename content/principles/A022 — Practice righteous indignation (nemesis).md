@@ -16,7 +16,7 @@ In NE II.7, Aristotle compares three responses to other people's fortunes:
 
 > "Righteous indignation is a mean between envy and spite, and these states are concerned with the pain and pleasure that are felt at the fortunes of our neighbours; the man who is characterized by righteous indignation is pained at undeserved good fortune, the envious man, going beyond him, is pained at all good fortune, and the spiteful man falls so far short of being pained that he even rejoices." (NE II.7, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-The comparison distinguishes being troubled by undeserved success from being troubled by another person's success generally. For the compendium's practical application, the question is what makes an advantage undeserved.
+The comparison distinguishes being troubled by undeserved success from being troubled by another person's success generally. For my practical application, the question is what makes an advantage undeserved.
 
 Feel indignation when the wrong people are honoured and the right ones are overlooked; the feeling is the emotional register of that question, not proof that your answer to it is correct.
 

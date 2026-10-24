@@ -35,7 +35,7 @@ Architecture is not rigidity. The structure serves the practice and is redesigne
 
 The two-minute evening audit: one line each for what went well, what was avoided, and tomorrow's first act. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[K242 — Daily architecture]] — the general principle
 - [[K241 — Seasonal redesign]] — the architecture revised when it stops serving the person

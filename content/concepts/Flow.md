@@ -35,7 +35,7 @@ For flourishing, flow suggests: design activities so perceived challenge matches
 
 The weekly protected hour: one activity, one clear goal, feedback visible in the work itself, phone elsewhere. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[D057 — Enter flow]] — the Daoist-knack entry point
 - [[P118 — Engineer flow — match challenge to skill]] and [[P119 — Give flow clear goals and immediate feedback]] — the engineering pair

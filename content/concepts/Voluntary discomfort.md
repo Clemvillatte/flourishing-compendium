@@ -17,7 +17,7 @@ Voluntary discomfort is Seneca's Stoic practice of choosing hardship in calm tim
 
 The letter's reasoning is timing: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress". The soldier comparison follows: peacetime drills so that violence, when it comes, meets a prepared defense.
 
-### In the compendium
+### Here
 
 - [[S121 — Practise voluntary discomfort]]
 - [[Y037 — Choose deliberate difficulty in the right dose]]
@@ -27,7 +27,7 @@ The letter's reasoning is timing: "It is precisely in times of immunity from car
 ## Related concepts
 
 - [[Premeditatio malorum]] — the sibling Stoic exercise: rehearsing loss before it happens
-- [[Hormetic exposure research]] — the compendium's page on hormesis applies it to voluntary discomfort itself
+- [[Hormetic exposure research]] — my page on hormesis applies it to voluntary discomfort itself
 - [[Desirable difficulties]] — difficulty that produces durable learning gains, retrieval practice as the paradigm case
 
 ## Sources

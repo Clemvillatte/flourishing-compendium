@@ -27,7 +27,7 @@ The judgment comes second. "The first emotion is involuntary, and is, as it were
 
 ### Wording of the principle
 
-The pairing of anger with "wronged and revenge is appropriate" follows Seneca closely. The principle's versions for fear and desire are the compendium's paraphrase of the four-part scheme above.
+The pairing of anger with "wronged and revenge is appropriate" follows Seneca closely. The principle's versions for fear and desire are my paraphrase of the four-part scheme above.
 
 (Seneca, De Ira II.1, II.3, II.4; SEP, Stoicism 4.7.)
 

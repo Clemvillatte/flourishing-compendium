@@ -29,7 +29,7 @@ The discipline is possible because the understanding has a nature to work with:
 
 The work, as the chapter on progress puts it, lies "in assent and suspension of assent, that you be not deceived" (Discourses 1.4, same translation). The original entry's Spinoza line is preserved in the formulations below; the page's quotes are all Epictetus, the anchor the original entry names.
 
-### In the compendium
+### Here
 
 - [[S004 — Train your capacity to give or withhold assent to impressions]] — the principle in the concept's philosophy parallels
 - [[S045 — Examine every impression]] — the examine-impressions principle; the plain parallels block carries the whole family, S045 through S055

@@ -21,7 +21,7 @@ An Australian evidence summary on young people reports that "the majority of peo
 
 The same summary describes the skill side of the field: anger "includes cognitive, affective and behavioural components," it becomes problematic when it occurs "frequently, at high intensity, and leads to secondary problems," and "developing skills to manage anger, such as assertiveness and problem solving, may actually be protective against anxiety and depression" ([Headspace evidence summary](https://headspace.org.au/assets/download-cards/OR17177-EvidenceSummary-Anger-WEB.pdf)). The book's treatment chapters, per its publisher, "review treatment outcome studies and new interventions to improve treatment" ([Google Books record](https://books.google.com/books?vid=9780195170795)).
 
-### In the compendium
+### Here
 
 - [[S060 — Cure anger by understanding its source]] — a Stoic instruction with the same target
 - [[A017 — Practice gentleness (praotes)]] — the character ideal the training serves

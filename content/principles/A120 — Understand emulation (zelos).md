@@ -18,7 +18,7 @@ The Rhetoric closes its catalogue of the emotions with emulation, defined agains
 
 Two features do the work: the goods must be "possible for ourselves to acquire" ("no one aspires to things which appear impossible"), and the comparison is with "persons whose nature is like our own", which is why it is "felt by the young and by persons of lofty disposition", and why its objects are those who have the honoured goods, courage, wisdom, office, "those whom many people wish to be like".
 
-The compendium's exercise: when a comparison bites, write down the good thing wanted, whether it can be acquired, and the next step toward it.
+My exercise: when a comparison bites, write down the good thing wanted, whether it can be acquired, and the next step toward it.
 
 **Plain words** Aristotle calls emulation the good twin of envy. Both hurt at not having what another has. Emulation takes a step to get the thing; envy takes a step to stop the other having it. And it only works for things you could actually get.
 

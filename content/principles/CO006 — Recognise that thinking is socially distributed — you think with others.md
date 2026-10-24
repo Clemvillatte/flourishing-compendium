@@ -16,7 +16,7 @@ Cognition is not purely individual; it extends into tools, environments, and oth
 
 > "For Otto, his notebook plays the role usually played by a biological memory." (Clark and Chalmers, 1998, "The Extended Mind", [author-hosted text](https://consc.net/papers/extended.html))
 
-Their thesis, verbatim: "this sort of coupled process counts equally well as a cognitive process, whether or not it is wholly in the head." And their conclusion about belief: "If so, the mind extends into the world." The philosophical claim concerns external features driving cognitive processes. The compendium's application to other people follows the same structure but is the compendium's, not theirs: the partner who remembers the passwords is part of the system you think with, and the term for the division of knowledge in a group, transactive memory, is inherited below.
+Their thesis, verbatim: "this sort of coupled process counts equally well as a cognitive process, whether or not it is wholly in the head." And their conclusion about belief: "If so, the mind extends into the world." The philosophical claim concerns external features driving cognitive processes. My application to other people follows the same structure but is my, not theirs: the partner who remembers the passwords is part of the system you think with, and the term for the division of knowledge in a group, transactive memory, is inherited below.
 
 **Plain words** Ask the Otto question of your own life: what do you keep outside your head, and does it play the role of memory? The same question applies to people: who holds which knowledge, and is that division deliberate? You think with others whether you notice or not; noticing lets you arrange it.
 

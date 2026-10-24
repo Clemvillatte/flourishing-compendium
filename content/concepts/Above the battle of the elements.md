@@ -7,7 +7,7 @@ file: "Above the battle of the elements"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-"Above the battle of the elements" is the compendium's label for the perspective Emerson's "Brahma" (1857) speaks from: a vantage from which the oppositions that organize ordinary experience — slayer and slain, shadow and sunlight, shame and fame — are not resolved but seen as one. The poem's opening:
+"Above the battle of the elements" is my label for the perspective Emerson's "Brahma" (1857) speaks from: a vantage from which the oppositions that organize ordinary experience — slayer and slain, shadow and sunlight, shame and fame — are not resolved but seen as one. The poem's opening:
 
 > "If the red slayer think he slays, / Or if the slain think he is slain, / They know not well the subtle ways / I keep, and pass, and turn again. // Far or forgot to me is near; / Shadow and sunlight are the same; / The vanished gods to me appear; / And one to me are shame and fame."
 
@@ -19,7 +19,7 @@ Emerson composed it in 1856 as "Song of the Soul" and published it in the Atlant
 
 ### What the vantage does
 
-The poem's last stanza carries its practical turn: "But thou, meek lover of the good! / Find me, and turn thy back on heaven" ([same RPO text](https://rpo.library.utoronto.ca/content/brahma-0)). The instruction is not indifference to the battle; it is a repositioning that makes the battle's stakes look different. The compendium holds the concept for that use: when a conflict of elements absorbs all attention, the poem names a place to stand from which both sides are seen as one movement.
+The poem's last stanza carries its practical turn: "But thou, meek lover of the good! / Find me, and turn thy back on heaven" ([same RPO text](https://rpo.library.utoronto.ca/content/brahma-0)). The instruction is not indifference to the battle; it is a repositioning that makes the battle's stakes look different. I hold the concept for that use: when a conflict of elements absorbs all attention, the poem names a place to stand from which both sides are seen as one movement.
 
 ## Related concepts
 

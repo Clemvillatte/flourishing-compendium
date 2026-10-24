@@ -20,7 +20,7 @@ The paper's summary sentence sets the finding in a pair of dependencies: "Whethe
 
 The paper's evidence concerns self-views and reported inspiration; the application to choosing models is this page's reading, not the paper's finding. Read that way, the study suggests two questions before taking someone as a model: is their excellence in a domain that matters to me, and does their success seem attainable to me, in the paper's terms, either because there is still enough time to achieve comparable success or because I take abilities as improvable? The mechanism requires comparison in the first place: "A superstar will become a source of inspiration or discouragement only if one compares oneself to this person." A relevant model whose success seems unattainable is not guaranteed to be neutral; the paper's language is that such models "can be threatening and deflating" and provoked "if anything, self-deflation."
 
-### In the compendium
+### Here
 
 - [[A120 — Understand emulation (zelos)]] — the classical treatment of wanting to be like the excellent person
 - [[S126 — Practise the contemplation of exemplary lives]] — the contemplative use of exemplars

@@ -23,7 +23,7 @@ The review summarizes the studies it covers without statistically pooling them, 
 **Plain words**
 Try the practice below for a few minutes and note what you experience, without assuming a particular result. Slow here means around six breaths a minute in the reviewed studies. What you notice, comfort or ease or neither, is your own report to keep.
 
-*For example:* Imagine a difficult phone call coming up. Before dialing, you try the compendium's exercise: a few minutes of slow breathing at around six breaths a minute, five seconds in and five seconds out, and you note what you experience. The call itself is not part of the exercise.
+*For example:* Imagine a difficult phone call coming up. Before dialing, you try my exercise: a few minutes of slow breathing at around six breaths a minute, five seconds in and five seconds out, and you note what you experience. The call itself is not part of the exercise.
 
 ## Sources
 

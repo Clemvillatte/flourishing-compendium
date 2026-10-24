@@ -16,7 +16,7 @@ The clinical literature places hypervigilance at the center of post-traumatic at
 
 > "A common symptom that arises from traumatic experiences is hyperarousal (also called hypervigilance). Hyperarousal is the body's way of remaining prepared. It is characterized by sleep disturbances, muscle tension, and a lower threshold for startle responses and can persist years after trauma occurs. It is also one of the primary diagnostic criteria for PTSD." (SAMHSA, [Understanding the Impact of Trauma](https://www.ncbi.nlm.nih.gov/sites/books/NBK207191/), Trauma-Informed Care in Behavioral Health Services, TIP 57)
 
-The same guidance describes how hyperarousal affects response: it "can interfere with an individual's ability to take the necessary time to assess and appropriately respond to specific input, such as loud noises or sudden movements," and "can produce overreactions to situations perceived as dangerous when, in fact, the circumstances are safe." The compendium's reading: this is a nervous system doing its protective job too well, long after the danger — and it is the reason this principle's Practice section points to trauma-specific treatment rather than ordinary attention training.
+The same guidance describes how hyperarousal affects response: it "can interfere with an individual's ability to take the necessary time to assess and appropriately respond to specific input, such as loud noises or sudden movements," and "can produce overreactions to situations perceived as dangerous when, in fact, the circumstances are safe." My reading: this is a nervous system doing its protective job too well, long after the danger — and it is the reason this principle's Practice section points to trauma-specific treatment rather than ordinary attention training.
 
 **Plain words**
 Trauma can re-tune attention toward scanning and startle: a guard that never got relieved. These difficulties may reflect a trauma response rather than ordinary distraction, and they are a matter for care.
@@ -40,7 +40,7 @@ Imagine a veteran who sits facing the door and struggles to follow the conversat
 - **[[Post-traumatic growth|Post-traumatic growth]]** (Tedeschi & Calhoun, 1996)
 - **[[The dark night|The dark night of the soul]]** (St John of the Cross)
 
-Cross-tradition parallels above are the compendium's analogies between the clinical picture and older accounts of suffering and transformation; they are not claims of equivalent mechanisms.
+Cross-tradition parallels above are my analogies between the clinical picture and older accounts of suffering and transformation; they are not claims of equivalent mechanisms.
 
 ## Practice
 

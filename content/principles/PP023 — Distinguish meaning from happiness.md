@@ -24,7 +24,7 @@ Baumeister, Vohs, Aaker and Garbinsky (2013) ran a series of online surveys over
 
 ### Limits
 
-This is a correlational survey, so it shows which things travel with meaning and with happiness, not which cause which. The authors' own summary is that meaningful involvements "increase one's stress, worries, arguments, and anxiety, which reduce happiness". It does not show that pursuing happiness directly undermines meaning. That part of the principle is the compendium's claim, as is the contrast between a "shallow" and a worthwhile life.
+This is a correlational survey, so it shows which things travel with meaning and with happiness, not which cause which. The authors' own summary is that meaningful involvements "increase one's stress, worries, arguments, and anxiety, which reduce happiness". It does not show that pursuing happiness directly undermines meaning. That part of the principle is my claim, as is the contrast between a "shallow" and a worthwhile life.
 
 (Baumeister et al., 2013.)
 

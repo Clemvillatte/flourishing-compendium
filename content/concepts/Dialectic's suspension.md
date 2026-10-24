@@ -19,9 +19,9 @@ Later, Socrates questions Meno's slave boy about doubling a square. The boy firs
 
 ### Scope
 
-The compendium's phrase refers to the dialogues' dead ends in general. This page draws only on the Meno, in one nineteenth-century translation, and does not survey other dialogues or the scholarship on aporia. The passage is about inquiry. It does not say the suspended state is calm or pleasant, and Meno experiences it as numbness.
+My phrase refers to the dialogues' dead ends in general. This page draws only on the Meno, in one nineteenth-century translation, and does not survey other dialogues or the scholarship on aporia. The passage is about inquiry. It does not say the suspended state is calm or pleasant, and Meno experiences it as numbness.
 
-### In the compendium
+### Here
 
 - [[X001 — Practice equipollence deliberately]] lists this concept next to epoché. Its page does not cite Plato, so the link is thematic: both involve pausing judgement.
 

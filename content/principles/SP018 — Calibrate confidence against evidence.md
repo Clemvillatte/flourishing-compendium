@@ -20,7 +20,7 @@ Spinoza adds that "there is no hope unmingled with fear, and no fear unmingled w
 
 ### What this supports
 
-The text supports a narrower point than the original entry's. Feeling sure of an outcome, good or bad, means the doubt has stopped, whether or not the evidence has. Advice to state confidence as a probability with a reason is the compendium's practical addition. Spinoza does not give it in the passages I opened, and A calibration study for this page is cited at second hand. I also did not open Ethics IV on hope and fear.
+The text supports a narrower point than the original entry's. Feeling sure of an outcome, good or bad, means the doubt has stopped, whether or not the evidence has. Advice to state confidence as a probability with a reason is my practical addition. Spinoza does not give it in the passages I opened, and A calibration study for this page is cited at second hand. I also did not open Ethics IV on hope and fear.
 
 **Plain words**
 Hope and fear both contain doubt. Confidence and despair are what you feel once the doubt feels gone. Before you settle into either, ask what evidence removed the doubt.

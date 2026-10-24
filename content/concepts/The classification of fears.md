@@ -7,7 +7,7 @@ file: "The classification of fears"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Epicurus's Letter to Menoeceus does not set out a formal list of fears. It does address the two fears he treats as the main sources of disturbance, fear of the gods and fear of death, and it sorts desires into kinds so that those which cause fear and pain can be dropped. The "classification of fears" is the compendium's label for that teaching. The text below is Robert Drew Hicks's translation on the [Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html).
+Epicurus's Letter to Menoeceus does not set out a formal list of fears. It does address the two fears he treats as the main sources of disturbance, fear of the gods and fear of death, and it sorts desires into kinds so that those which cause fear and pain can be dropped. The "classification of fears" is my label for that teaching. The text below is Robert Drew Hicks's translation on the [Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html).
 
 ### Fear of the gods
 
@@ -29,13 +29,13 @@ Epicurus affirms that the gods are living, immortal and happy beings. He writes:
 
 The letter is a primary text in one translation. It is an ancient philosophical argument and not clinical evidence that its reasoning reduces anxiety. The letter does not supply a ranked taxonomy of fears, so the page's title is an editorial summary.
 
-### In the compendium
+### Here
 
 - [[D097 — Don't fear what you can't act on]] lists this concept with the Letter to Menoeceus citation. Whether the letter supports that principle's framing of fear and action was not checked here.
 
 ## Related concepts
 
-- [[Ataraxia]] — the compendium's page on tranquillity
+- [[Ataraxia]] — my page on tranquillity
 - [[Facing the fear]] — the Kierkegaard-rooted entry on facing anxiety
 - [[Courage: action despite fear]] — the virtue that answers them
 

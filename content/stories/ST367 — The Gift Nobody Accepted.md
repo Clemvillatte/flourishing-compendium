@@ -18,7 +18,7 @@ Bharadvaja objects: the king and his court say Gotama is an arahant, and yet he 
 
 The brahman then takes refuge and asks to go forth. After some time alone and diligent, the sutta says, he becomes an arahant. In Sujato's version he is "no longer called 'the Rude'" ([Sujato](https://suttacentral.net/sn7.2/en/sujato)).
 
-The compendium reads this beside Dhammapada 3-5. The verse says hatred does not end through hatred. The scene shows one way hatred ends: the insult has nobody to catch it. The anger Bharadvaja arrived with belongs to him, and he is left holding it until his own question answers it.
+I read this beside Dhammapada 3-5. The verse says hatred does not end through hatred. The scene shows one way hatred ends: the insult has nobody to catch it. The anger Bharadvaja arrived with belongs to him, and he is left holding it until his own question answers it.
 
 Limits: the sutta describes how a Buddha handles abuse, with a calm already in place, and it gives no practice for an angry person who has no such calm. The ending is the tradition's own, an arahant in a short time, and a modern reader may take it as devotional shorthand.
 

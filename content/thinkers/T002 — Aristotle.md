@@ -34,7 +34,7 @@ The good for a human being is activity, and the distinctively human activity is 
 - **Contemplation as the highest activity** — the life of theoria is the most complete happiness available to a human being. See [[A089 — Practise contemplation (theoria)|A089]], [[Contemplation (theoria)]], [[A091 — Integrate contemplation and action|A091]].
 - **The whole life and its external conditions** — flourishing takes a complete life, moderate goods, and some luck. See [[A008 — Accept that flourishing takes a whole life|A008]], [[A006 — Expect flourishing to require external goods|A006]], [[A010 — Recognise that fortune can overturn happiness|A010]].
 
-## Connected in the wiki — the Aristotelian tradition
+## Connected here — the Aristotelian tradition
 Principles are kept to the Aristotelian tradition — his own book of principles — and to what the page itself teaches; other traditions may echo Aristotle, but linking them here would drown the graph.
 
 ### Principles (122)

@@ -17,7 +17,7 @@ The review the page anchors to reframes the construct as a stable tendency rathe
 
 **Plain words** Ambiguous means you cannot yet tell what this is. Some people read that as a threat to be closed fast, some as something even desirable. The first reading is a reflex that can be noticed, and it is the one that gets heavy the longer the ambiguity lasts.
 
-### In the compendium
+### Here
 
 - [[B064 — Drop preferences — the Great Way is not difficult]]: the principle that trains the opposite reflex
 

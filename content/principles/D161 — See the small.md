@@ -16,7 +16,7 @@ Daodejing 52.4 connects perceiving what is small with clear-sightedness. Chapter
 
 > "All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small. Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things." (Daodejing 63, [Legge](https://www.gutenberg.org/ebooks/216))
 
-The compendium applies the chapter as a question: which thing in your life is currently small and easy to deal with, that you expect to be large and difficult later?
+I applie the chapter as a question: which thing in your life is currently small and easy to deal with, that you expect to be large and difficult later?
 
 **Plain words**
 The chapter's picture is that big troubles start small. The practice is noticing the small version: the twinge, the first skipped payment, the sentence in a conversation you passed over. Dealing with a thing while it is small is a smaller job, and the chapter's advice is to look there first.

@@ -22,9 +22,9 @@ The experienced world has no existence apart from Brahman: Brahman appears as th
 
 Mokṣa is the direct recognition that one's self is nondual Brahman; the SEP article characterizes it as self-knowledge, not a newly produced attainment ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). Understanding the identity statements generates the knowledge "I am Brahman," which removes root ignorance and negates superimposition ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). A liberated person may continue to experience the world while embodied, living liberation (jīvanmukti) ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)). For Śaṅkara, action can prepare the mind for knowledge, but knowledge alone is held to liberate ([Menon, IEP](https://iep.utm.edu/advaita-vedanta/)).
 
-### In the compendium
+### Here
 
-Y092 "Read the great statements as prompts, not doctrines" is the compendium's bounded adaptation of the mahavakyas, including "that thou art" and "I am the absolute," offered as meditation prompts rather than debate propositions. Y093 "Know your field and its knower" uses the field/knower contrast as a practical exercise in distinguishing experience's contents from awareness of them.
+Y092 "Read the great statements as prompts, not doctrines" is my bounded adaptation of the mahavakyas, including "that thou art" and "I am the absolute," offered as meditation prompts rather than debate propositions. Y093 "Know your field and its knower" uses the field/knower contrast as a practical exercise in distinguishing experience's contents from awareness of them.
 
 ## Related concepts
 

@@ -7,7 +7,7 @@ file: "The return of the repressed pattern"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The return of the repressed pattern is the compendium's name for the way buried material resurfaces. The underlying idea has two parents. Nietzsche supplies the mechanism in the Genealogy of Morals: drives that cannot discharge outwardly turn inward, and the pressure builds. Freud supplies the clinical observation and the name, "the return of the repressed," for the reappearance of that material in symptoms, slips and dreams.
+The return of the repressed pattern is my name for the way buried material resurfaces. The underlying idea has two parents. Nietzsche supplies the mechanism in the Genealogy of Morals: drives that cannot discharge outwardly turn inward, and the pressure builds. Freud supplies the clinical observation and the name, "the return of the repressed," for the reappearance of that material in symptoms, slips and dreams.
 
 ### Nietzsche's mechanism
 
@@ -25,7 +25,7 @@ Freud later named what happens to the stored material. In his 1896 essay "Furthe
 
 ### Why it matters to practice
 
-The compendium keeps the concept because deepening practice destabilizes defenses, and the material that surfaces is often old. This is the point of Expect latent material to surface when practice deepens (Y024): the surfacing is not a failure of practice but evidence that something was being held down. The concept also explains the puzzling regularity that patterns people most want gone tend to return at the moments they are least resourced, since the defense that held them down is exactly what is being relaxed.
+I keep the concept because deepening practice destabilizes defenses, and the material that surfaces is often old. This is the point of Expect latent material to surface when practice deepens (Y024): the surfacing is not a failure of practice but evidence that something was being held down. The concept also explains the puzzling regularity that patterns people most want gone tend to return at the moments they are least resourced, since the defense that held them down is exactly what is being relaxed.
 
 ## Related concepts
 

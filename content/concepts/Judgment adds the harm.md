@@ -15,9 +15,9 @@ The Stoic psychology behind the line treats emotions as judgments. An impression
 
 ### The Buddhist parallel
 
-The Pali canon carries the same distinction in the Sallatha Sutta's two arrows: "when touched with a feeling of pain, the uninstructed run-of-the-mill person sorrows, grieves, & laments, beats his breast, becomes distraught. So he feels two pains, physical & mental. Just as if they were to shoot a man with an arrow and, right afterward, were to shoot him with another one," while the well-instructed disciple "feels one pain: physical, but not mental" ([SN 36.6, Thanissaro translation](https://accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)). The compendium's B069 and B182 carry this arrow directly, as a comparison tradition rather than a shared doctrine.
+The Pali canon carries the same distinction in the Sallatha Sutta's two arrows: "when touched with a feeling of pain, the uninstructed run-of-the-mill person sorrows, grieves, & laments, beats his breast, becomes distraught. So he feels two pains, physical & mental. Just as if they were to shoot a man with an arrow and, right afterward, were to shoot him with another one," while the well-instructed disciple "feels one pain: physical, but not mental" ([SN 36.6, Thanissaro translation](https://accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html)). My B069 and B182 carry this arrow directly, as a comparison tradition rather than a shared doctrine.
 
-### In the compendium
+### Here
 
 The principles apply the doctrine across cases. A116 examines fear as the judgment-dependent passion; SP037 warns against the mob's judgments; SP020 converts pity, itself a judgment, into compassion and equity; D088's empty boat works the same separation when the "offense" has no author; ST085's quarrel at Kosambī shows a community adding arrows; and K360, K259, K258 carry the judgment discipline into professional practice, where particulars and stakeholders come before rules.
 

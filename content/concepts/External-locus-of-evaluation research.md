@@ -15,7 +15,7 @@ External-locus-of-evaluation research is the work growing out of Carl Rogers' te
 
 The external case names a dependency: other people's judgments, not one's own experience, become the measure. Rogers lists among the outcomes of therapy that the client increasingly experiences himself as the locus of evaluation, so the term marks both a problem and a direction of movement. The concept belongs to his person-centred framework, where the valuing process is the object of the theory of therapy.
 
-### In the compendium
+### Here
 
 - [[D182 — Accept praise and blame with equal weight]] — carries this research as its psychology parallel
 

@@ -14,7 +14,7 @@ Equity theory is J. Stacy Adams's account of fairness in social exchange, develo
 
 Inequity in either direction, under-reward or over-reward, creates a tension the theory says people reduce by six means: altering inputs, altering outcomes, distorting inputs and outcomes cognitively, leaving the field, acting on the Other, or changing the object of comparison.
 
-### In the compendium
+### Here
 
 - [[A096 — Practise distributive justice]] — Aristotle's proportion between persons and shares makes the same kind of ratio comparison
 

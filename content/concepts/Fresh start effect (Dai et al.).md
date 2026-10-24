@@ -7,7 +7,7 @@ file: "Fresh start effect (Dai et al.)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-The compendium uses "Fresh start effect (Dai et al.)" for the finding that certain dates change intentions to pursue goals. Across five laboratory experiments, Dai, Milkman and Riis examined whether emphasising a temporal landmark signalling a new beginning changes intentions to pursue goals:
+I use "Fresh start effect (Dai et al.)" for the finding that certain dates change intentions to pursue goals. Across five laboratory experiments, Dai, Milkman and Riis examined whether emphasising a temporal landmark signalling a new beginning changes intentions to pursue goals:
 
 > "We present causal evidence that emphasizing a temporal landmark denoting the beginning of a new time period increases people's intentions to initiate goal pursuit." (Dai, Milkman and Riis 2015, abstract, [Psychol Sci 26(12):1927-1936](https://pubmed.ncbi.nlm.nih.gov/26546079/))
 
@@ -15,7 +15,7 @@ The compendium uses "Fresh start effect (Dai et al.)" for the finding that certa
 
 The same abstract proposes a partial explanation: "people's strengthened motivation to begin pursuing their aspirations following such temporal landmarks originates in part from the psychological disassociation these landmarks induce from a person's past, imperfect self" (Dai, Milkman and Riis 2015, [PubMed 26546079](https://pubmed.ncbi.nlm.nih.gov/26546079/)).
 
-### In the compendium
+### Here
 
 - [[MO028 — Learn to use the fresh start effect — temporal landmarks boost motivation]]: the principle that applies the effect
 - [[MO046 — Learn to start — the hardest part is beginning]]: the hardest part is beginning

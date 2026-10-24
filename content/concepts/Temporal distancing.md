@@ -12,9 +12,9 @@ Temporal distancing is an emotion-regulation strategy in which a negative experi
 
 ### What the studies found
 
-The core hypothesis was tested in studies 1a, 1b, and 2: "adopting a distant-future perspective on recent stressors (relative to a near-future or control perspective) reduces emotional distress." The mechanism work came in studies 4 through 6, which "centered on a key cognitive mechanism that helped to account for the distress-reducing properties of temporal distancing across our first 4 studies-impermanence focus." The conclusion: "Together, these findings demonstrate that temporal distancing plays an important role in emotional coping with negative events, and that it does so by directing individuals' attention to the impermanent aspects of these events." The practical upshot for the compendium is that the ancient instruction to see things as passing has a measured cognitive handle: the relief comes specifically from noticing impermanence, not merely from waiting.
+The core hypothesis was tested in studies 1a, 1b, and 2: "adopting a distant-future perspective on recent stressors (relative to a near-future or control perspective) reduces emotional distress." The mechanism work came in studies 4 through 6, which "centered on a key cognitive mechanism that helped to account for the distress-reducing properties of temporal distancing across our first 4 studies-impermanence focus." The conclusion: "Together, these findings demonstrate that temporal distancing plays an important role in emotional coping with negative events, and that it does so by directing individuals' attention to the impermanent aspects of these events." The practical upshot is that the ancient instruction to see things as passing has a measured cognitive handle: the relief comes specifically from noticing impermanence, not merely from waiting.
 
-## In the compendium
+## Here
 
 - [[SE016 — Learn self-distancing — view yourself from the outside]]
 

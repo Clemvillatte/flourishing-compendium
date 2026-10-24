@@ -21,9 +21,9 @@ The Conceptualization theme has its classic defense in Lakoff and Johnson: basic
 
 The body-first claims reach emotion too. In a randomized trial, 74 participants were strapped with physiotherapy tape into slumped or upright seated postures and put through a stressful speech task. "Upright participants reported higher self-esteem, more arousal, better mood, and lower fear, compared to slumped participants", and the authors conclude the work "is consistent with embodied cognition theories that muscular and autonomic states influence emotional responding" ([Nair et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25222091/)).
 
-### In the compendium
+### Here
 
-The compendium's embodiment principles state the programme directly. CO005, "Understand that thinking is embodied — the body shapes the mind," and P139, "Know that cognition is embodied sense-making," carry the constitution claim; D142, "Align the body," E017 and E020 turn it into practice; E013, "Practise the lived body (Leib)," is the phenomenological arm. The kernels are the applied wing: K102's body scan trains attention on bodily states, K172 runs emotion work through the body first, and K195's posture reset is the compendium's own posture trial. The pairing of practice and research is a comparison, not a documented influence.
+My embodiment principles state the programme directly. CO005, "Understand that thinking is embodied — the body shapes the mind," and P139, "Know that cognition is embodied sense-making," carry the constitution claim; D142, "Align the body," E017 and E020 turn it into practice; E013, "Practise the lived body (Leib)," is the phenomenological arm. The kernels are the applied wing: K102's body scan trains attention on bodily states, K172 runs emotion work through the body first, and K195's posture reset is my own posture trial. The pairing of practice and research is a comparison, not a documented influence.
 
 ## Related concepts
 

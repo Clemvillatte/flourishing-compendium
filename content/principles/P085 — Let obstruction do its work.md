@@ -18,7 +18,7 @@ Dewey describes a difficulty that interrupts a familiar activity and brings its 
 
 ### What the difficulty calls for
 
-The task is to investigate what has stopped the activity and consider how to proceed. Dewey also describes disturbance severe enough to break organized activity apart. His account gives no warrant for treating every hardship as beneficial. The compendium's practical reading is to examine an obstruction before deciding whether to learn around it, change the conditions, or leave.
+The task is to investigate what has stopped the activity and consider how to proceed. Dewey also describes disturbance severe enough to break organized activity apart. His account gives no warrant for treating every hardship as beneficial. My practical reading is to examine an obstruction before deciding whether to learn around it, change the conditions, or leave.
 
 (Dewey, Human Nature and Conduct, 1922; Experience and Nature, 1925.)
 

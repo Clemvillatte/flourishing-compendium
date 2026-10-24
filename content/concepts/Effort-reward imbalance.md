@@ -17,7 +17,7 @@ Effort means the job demands and obligations the employee faces; rewards come in
 
 The evidence base the author reports includes prospective studies of "effort-reward imbalance at work and risk of depressive disorders" and meta-analytic work on the model and "indices of cardiovascular health" (ibid.); associations of failed reciprocity "with reduced mental health, measured by depressive symptoms and poor self-rated health, were observed" (ibid.).
 
-### In the compendium
+### Here
 
 - [[D094 — Don't exhaust yourself for what you don't need]] — the model's clinical shadow: high effort, low gain
 - [[D138 — Don't exhaust those in your care]] — imbalance imposed on others

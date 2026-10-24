@@ -15,7 +15,7 @@ The stakes he attaches to it are civic, not merely personal:
 
 (Gigerenzer, [The Art of Risk Communication](https://www.gerd-gigerenzer.com/the-art-of-risk-communication))
 
-The same essay argues that "a democracy needs risk-savvy citizens who cannot be easily frightened into surrendering their money, their welfare, and their liberty," and that asking critical questions can shape a society's emotional climate so that "hopes and anxieties are no longer as easily manipulated from outside and citizens can develop an informed and more relaxed attitude towards health, money, and other critical things." That last clause is why the compendium's [[D172 — Courage with caution]] uses risk literacy rather than fearlessness: informed evaluation replaces both the cowardice that fear produces and the bravado that thrill-seeking produces.
+The same essay argues that "a democracy needs risk-savvy citizens who cannot be easily frightened into surrendering their money, their welfare, and their liberty," and that asking critical questions can shape a society's emotional climate so that "hopes and anxieties are no longer as easily manipulated from outside and citizens can develop an informed and more relaxed attitude towards health, money, and other critical things." That last clause is why my [[D172 — Courage with caution]] uses risk literacy rather than fearlessness: informed evaluation replaces both the cowardice that fear produces and the bravado that thrill-seeking produces.
 
 The psychological literature defines the construct narrowly as "the ability to evaluate and understand risk" (Cokely et al., 2012; Gigerenzer, 2012), a definition distinct from statistical numeracy though robustly linked to it.
 

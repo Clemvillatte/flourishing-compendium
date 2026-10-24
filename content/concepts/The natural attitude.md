@@ -15,12 +15,12 @@ The epoché is the method's countermove to this absorption. Of the world taken f
 
 The reduction is the analysis the epoché makes possible. The entry glosses it as a move that "leads from the natural sphere back to (re-ducere) its transcendental foundation" ([SEP](https://plato.stanford.edu/entries/husserl/)). The lifeworld, "the world we live and feel at home in," which "forms the basis for our daily actions," marks the later limit of the movement: even science's abstractions presuppose the world as lived, which remains "the basis and meaning-foundation for scientific research" ([SEP](https://plato.stanford.edu/entries/husserl/)).
 
-### In the compendium
+### Here
 
 - [[E003 — Practise the natural attitude and its suspension]] — the principle that carries the pair
 - [[E001 — Practise the phenomenological reduction]] — the method the attitude calls for
 - [[K001 — Return to experience before the labels]] — the practical form the bracketing takes
-- [[ST258 — Ashitaka Sees with Eyes Unclouded]] — the compendium's story of seeing without the attitude's fog
+- [[ST258 — Ashitaka Sees with Eyes Unclouded]] — my story of seeing without the attitude's fog
 
 ## Facets
 

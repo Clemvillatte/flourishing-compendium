@@ -27,7 +27,7 @@ Putnam's later discussion of the concept, reported in Thomas Lee's 2025 primer o
 
 One boundary on this entry. The original entry names Bourdieu alongside Putnam. No Bourdieu text has been opened for this entry, and it covers Putnam's version of the theory alone.
 
-## In the compendium
+## Here
 
 The principle [SO038](../principles/SO038%20%E2%80%94%20Treat%20trust%20as%20social%20capital.md) runs on this theory: trust is infrastructure, the confidence that others will cooperate and institutions will function, and it is built in small repeated keepings-of-word.
 

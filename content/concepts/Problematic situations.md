@@ -13,7 +13,7 @@ Dewey's term for the setting of all inquiry: not a puzzle in the head but a situ
 
 One distinction the quote does not carry: a problematic situation is not yet a problem. Later in the book "the dubious or problematic situation becomes a problem" only when inquiry "locates what the trouble is" — the risky character spread over the whole situation is translated into a definite object of inquiry (ch. IX). And resolution is not a change of belief alone: "knowledge is the fruit of the undertakings that transform a problematic situation into a resolved one" (ch. IX).
 
-In the compendium, P046 treats problems as invitations and P149 treats instability as material for creation; both read the situation the way the facet below names it, a growing edge rather than a dead end.
+Here, P046 treats problems as invitations and P149 treats instability as material for creation; both read the situation the way the facet below names it, a growing edge rather than a dead end.
 
 ## Facets
 

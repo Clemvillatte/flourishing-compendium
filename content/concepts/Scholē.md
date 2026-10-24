@@ -16,13 +16,13 @@ The word that names the concept in modern terms is Josef Pieper's, in Leisure th
 
 The book's sharpest edge is the direction of the justification: "Leisure stands opposed to the exclusive ideal of work qua social function... The pause can be made for the sake of work. Leisure does not exist for the sake of work." A coffee break is a pause for work's sake; scholē is not that. The point connects back to Aristotle, whom Pieper cites from Nicomachean Ethics X.7: "We work in order to be at leisure" ([Pieper, quoted at Wikiquote](https://en.wikiquote.org/wiki/Josef_Pieper)). The reversal is the whole teaching: work is the means, leisure in the old sense the end, and a culture that inverts this Pieper calls the world of total work.
 
-### In the compendium
+### Here
 
 - [[M031]] — Aristotle's leisure is explicitly not idleness, the failure this principle names
 
 ## Related concepts
 
-- [[Leisure]] — the compendium's general treatment of the concept Pieper recovered
+- [[Leisure]] — my general treatment of the concept Pieper recovered
 - [[Sabbath]] — the ritual form the day of rest gives to the same reversal
 - [[The contemplative life]] — the activity scholē exists to make room for
 - [[Contemplation (theoria)]] — the Aristotelian highest activity itself

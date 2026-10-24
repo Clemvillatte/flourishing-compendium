@@ -14,9 +14,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The asymmetry between the two phases is structural. The "me" is available to reflection; the "I" is not directly given in experience, and appears, if at all, in memory after the act. Mead again: "They are not identical, for, as I have said, the 'I' is something that is never entirely calculable." The "me" sets the situation; the "I" answers it, and the answer may exceed what the situation called for. A self made only of "me" would be pure conformity; a self made only of "I" would never be anyone in particular. Social life keeps both in play: "The 'I' reacts to the self which arises through the taking of the attitudes of others."
 
-The compendium's use is a practice of placement: when the story of self feels fixed, the distinction locates the fixity in the "me" and the freedom of response in the "I" that the story has not yet absorbed.
+My use is a practice of placement: when the story of self feels fixed, the distinction locates the fixity in the "me" and the freedom of response in the "I" that the story has not yet absorbed.
 
-## In the compendium
+## Here
 
 - [[P058 — Distinguish the I who acts from the Me who is known]]
 - [[P160 — Distinguish the observing self from the story of self]]

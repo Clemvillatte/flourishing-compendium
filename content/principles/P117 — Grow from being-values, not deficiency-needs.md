@@ -20,7 +20,7 @@ This is not an instruction to finish meeting every need before caring about anyt
 
 ### Plain words
 
-Ask what makes a goal worth pursuing besides the reward attached to it. You might care about making an account accurate, treating someone fairly, or learning a craft well. The compendium suggests leaving room for such purposes while taking your needs for rest, security and support seriously.
+Ask what makes a goal worth pursuing besides the reward attached to it. You might care about making an account accurate, treating someone fairly, or learning a craft well. I suggest leaving room for such purposes while taking your needs for rest, security and support seriously.
 
 ### For example
 

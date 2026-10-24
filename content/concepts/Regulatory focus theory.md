@@ -27,7 +27,7 @@ The same review gives each focus its behavioural signature:
 > "Promotion focus involves concerns for nurturance, advancement, and growth. Individuals high in promotion focus (or those in a promotion-focused state) eagerly pursue desired outcomes, performing well on tasks that involve seeking gains, benefits, and advancement. Prevention focus involves concerns for safety, duty fulfillment, and meeting obligations. Individuals high in prevention focus (or those in a prevention-focused state) tend to be vigilant in avoiding undesired outcomes, performing well on tasks that involve monitoring for costs and maintaining stability."
 > — [same source](https://pmc.ncbi.nlm.nih.gov/articles/PMC11775232/)
 
-Eagerness and vigilance are the two strategies the theory assigns to the two foci, and neither is the better one in the abstract: each performs well on the tasks its focus is built for. The compendium's linked principles work the pairing from the practical side — know which focus a given goal is actually being pursued under, since the framing changes what counts as success and failure.
+Eagerness and vigilance are the two strategies the theory assigns to the two foci, and neither is the better one in the abstract: each performs well on the tasks its focus is built for. My linked principles work the pairing from the practical side — know which focus a given goal is actually being pursued under, since the framing changes what counts as success and failure.
 
 ## Related concepts
 

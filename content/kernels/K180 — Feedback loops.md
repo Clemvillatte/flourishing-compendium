@@ -14,7 +14,7 @@ A standing arrangement for letting outcomes talk back to intentions. The name co
 
 ### Protocol
 
-The steps are the compendium's personal practice built on the two loops the theory names; the definitions are quoted in the Evidence section.
+The steps are my personal practice built on the two loops the theory names; the definitions are quoted in the Evidence section.
 
 1. Track the work as it happens: what was intended, what was done, what resulted. The record is the loop's raw material; without it the review runs on memory and mood.
 2. Review the record at a set interval. Three questions carry the review: what is the pattern, what is working, what is not.

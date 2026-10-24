@@ -17,7 +17,7 @@ The longitudinal data complicated the retrospective definition. "Discrepant with
 
 The prospective definition fared better: "Prospectively defined earned-secures (operationalized using participants' infant attachment classifications) did indeed go on to have success in their close relationships" ([2002 abstract](https://pubmed.ncbi.nlm.nih.gov/12146743/)). In this sample, then, the complication attaches to the retrospective definition rather than to the interview as such: the two ways of sorting earned-secures did not pick out the same people.
 
-### In the compendium
+### Here
 
 - [[SE047 — Recognise attachment patterns — early relationships shape self-relation]] — the attachment framework this concept belongs to
 - [[PP034 — Build secure attachment]] — an adjacent practice page; the studies above do not show how security is built

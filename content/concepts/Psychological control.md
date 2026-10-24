@@ -7,7 +7,7 @@ file: "Psychological control"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Psychological control, in the research the compendium cites, is a specific kind of parenting. Brian Barber's 1996 article defines it as "control that constrains, invalidates, and manipulates children's psychological and emotional experience and expression," and separates it from "more behaviorally oriented control" ([Barber, 1996, Child Development 67(6), 3296-3319, abstract](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.1996.tb01915.x)). The phrase here does not mean a person's sense of being in control of their own life.
+Psychological control, in the research I cite, is a specific kind of parenting. Brian Barber's 1996 article defines it as "control that constrains, invalidates, and manipulates children's psychological and emotional experience and expression," and separates it from "more behaviorally oriented control" ([Barber, 1996, Child Development 67(6), 3296-3319, abstract](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.1996.tb01915.x)). The phrase here does not mean a person's sense of being in control of their own life.
 
 > "In both cross-sectional and longitudinal analyses, psychological control, particularly as perceived by preadolescents and adolescents, is consistently predictive of youth internalized problems (depression) and, in some cases, externalized problems (delinquency). In contrast, behavioral control is related primarily to externalized problems." (Barber, 1996, [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.1996.tb01915.x))
 
@@ -19,7 +19,7 @@ The original entry line says that controlling parenting predicts internalizing a
 
 The article reports data from three studies and develops "2 new measures of psychological control." It says psychological control "can be adequately measured across demographically varied samples and mode of measurement." The abstract describes associations, including longitudinal ones, with youth outcomes, and the abstract singles out psychological control "as perceived by preadolescents and adolescents". It is a study of parenting and youth adjustment, so it does not speak to adults controlling themselves or to organisational control.
 
-### In the compendium
+### Here
 
 The principles listed use "control" in other senses. D133 (Don't dominate), D055 (Don't force) and S001 (Distinguish what is up to you from what is not) concern control in a philosophical sense, and SO057 (Design workplaces for flourishing) concerns workplaces. Barber's finding bears on them only if the reader accepts an analogy between intrusive parenting and other forms of domination, which the article does not argue.
 

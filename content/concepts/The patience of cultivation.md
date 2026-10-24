@@ -7,7 +7,7 @@ file: "The patience of cultivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The patience of cultivation — the compendium's name for it — is the teaching of Daodejing chapter 64: large things are grown rather than seized, and the work is done in small increments before anything shows. The chapter's most quoted images:
+The patience of cultivation — my name for it — is the teaching of Daodejing chapter 64: large things are grown rather than seized, and the work is done in small increments before anything shows. The chapter's most quoted images:
 
 > "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step." (Daodejing 64, trans. James Legge, [Internet Classics Archive](https://classics.mit.edu/Lao/taote.2.ii.html))
 

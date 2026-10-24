@@ -27,15 +27,15 @@ The World English Bible renders the same lines as "You foolish one, tonight your
 
 This page uses the biblical text only. It gives no commentary from biblical scholars, so how the parable has been interpreted historically is not covered here.
 
-### In the compendium
+### Here
 
 - [[SP025 — Treat greed, luxury, and drunkenness as species of madness]] links to this concept as a cultural parallel. The link is thematic: the principle does not quote Luke.
 
 ## Related concepts
 
-- [[Materialism]] — the compendium's page on materialism
-- [[Hedonic adaptation]] — the compendium's page on hedonic adaptation
-- [[Memento mori]] — the compendium's page on remembering death
+- [[Materialism]] — my page on materialism
+- [[Hedonic adaptation]] — my page on hedonic adaptation
+- [[Memento mori]] — my page on remembering death
 
 ## Sources
 

@@ -18,7 +18,7 @@ Evans and Stanovich's version of dual-process theory assigns the timing. Fast, a
 Type 2 processing supports hypothetical thinking and loads heavily on working memory. The authors' example of a decision that deserves the slower processing is evaluating important risks, where they do not want vividness substituted for careful thought about the situation. ([Evans & Stanovich, 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf))
 
 **Plain words**
-Suppose an important choice has an answer that comes easily to you. For the compendium's exercise, write down the question you are trying to answer and the reasons for your answer. Check whether you are relying on a vivid possibility instead of information about the risk, then consider another possible answer. ([Evans & Stanovich, 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf))
+Suppose an important choice has an answer that comes easily to you. For my exercise, write down the question you are trying to answer and the reasons for your answer. Check whether you are relying on a vivid possibility instead of information about the risk, then consider another possible answer. ([Evans & Stanovich, 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf))
 
 *For example:*
 Imagine choosing an activity for your child after seeing a frightening news report. Identify what the report tells you about the likelihood of harm and what information is still missing before deciding.

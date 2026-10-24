@@ -18,7 +18,7 @@ Bernstein's name for the pull toward both extremes is the Cartesian Anxiety. Jef
 >
 > (Bernstein, Beyond Objectivism and Relativism, p. 18, [quoted in Bineham](https://bineham.wordpress.com/wp-content/uploads/2023/07/cartesian_anxiety.pdf))
 
-The compendium uses this passage to question the choice between fixed foundations and having no standards. Its proposed exercise is to compare disputed claims by naming the evidence and reasons for preferring one.
+I use this passage to question the choice between fixed foundations and having no standards. Its proposed exercise is to compare disputed claims by naming the evidence and reasons for preferring one.
 
 (Bernstein, Beyond Objectivism and Relativism, p. 18.)
 

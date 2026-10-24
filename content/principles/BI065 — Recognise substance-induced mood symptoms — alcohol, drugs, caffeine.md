@@ -22,7 +22,7 @@ Three substances, three literatures. Alcohol: a pooled analysis found diagnosabl
 Substances move mood in both directions. Caffeine at moderate intake is associated with less depressive symptomatology and fewer cognitive failures, while high doses more commonly produce anxiety, and people with panic disorder are especially sensitive ([Lara, 2010](https://pubmed.ncbi.nlm.nih.gov/20164571/)). Cannabis and depression travel together more often than chance allows, most strongly for heavy users ([Lev-Ran et al., 2014](https://pubmed.ncbi.nlm.nih.gov/23795762/)). Alcohol's two-way odds with depression are stated on its own page ([Boden & Fergusson, 2011](https://pubmed.ncbi.nlm.nih.gov/21382111/)). The practical move is an input audit before a self-diagnosis: what is in the glass, the mug, the joint.
 
 **For example**
-(Imagined) The "generalised anxiety" that improves during a month off alcohol, or off the fourth daily espresso. The month off is a diagnostic test in the compendium's sense: an observation about inputs, not a treatment claim.
+(Imagined) The "generalised anxiety" that improves during a month off alcohol, or off the fourth daily espresso. The month off is a diagnostic test in my sense: an observation about inputs, not a treatment claim.
 
 ## Sources
 

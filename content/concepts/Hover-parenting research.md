@@ -15,7 +15,7 @@ Schiffrin and colleagues surveyed 297 college students, measuring over-controlli
 
 The study is a survey, so it reports associations as students described them. The authors interpret the well-being associations in terms of the students' perceived autonomy and competence, and they frame the results through self-determination theory, which holds that autonomy and competence are basic needs ([Schiffrin et al., 2014](https://link.springer.com/content/pdf/10.1007/s10826-013-9716-3.pdf)).
 
-The compendium's principle on helping without meddling is D063.
+My principle on helping without meddling is D063.
 
 ## Related concepts
 

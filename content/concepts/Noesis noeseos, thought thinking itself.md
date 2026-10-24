@@ -19,9 +19,9 @@ The argument runs by elimination. The primary god either understands itself or s
 
 Cohen and Reeve describe this self-understanding as a state of consciousness in which subject and object disappear, "fully and truly attentive, fully alive and joyous," and note that Aristotle defends the same account of blessedness in Nicomachean Ethics X.6-8. The original entry's reference to X.7 falls inside that range. This page does not claim that the phrase itself occurs there.
 
-### In the compendium
+### Here
 
-Most of the principles below concern ordinary human thinking about one's own thoughts: noticing them, questioning them, or treating them as events. Those uses extend the phrase beyond Aristotle's argument, which is about a divine intellect, and the link is the compendium's.
+Most of the principles below concern ordinary human thinking about one's own thoughts: noticing them, questioning them, or treating them as events. Those uses extend the phrase beyond Aristotle's argument, which is about a divine intellect, and the link is my.
 
 - [[B075 — The thinker is another thought]]
 - [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]]

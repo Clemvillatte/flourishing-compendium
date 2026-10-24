@@ -17,13 +17,13 @@ And the upshot of rejecting all four:
 
 > "Neither of the four alternatives just examined allows a plausible understanding of cause and effect as existing with svabhāva." (Westerhoff, [SEP: Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))
 
-### In the compendium
+### Here
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)]] — the principle pairs the tetralemma's dissolution of fixed positions with the Zhuangzi's equalising of right and wrong.
 
 ## Related concepts
 
-- [[Buddhist emptiness of inherent nature]] — the compendium's pairing for the quoted conclusion: none of the four alternatives allows cause and effect to exist with svabhāva.
+- [[Buddhist emptiness of inherent nature]] — my pairing for the quoted conclusion: none of the four alternatives allows cause and effect to exist with svabhāva.
 - [[T050 — Nagarjuna]]: the four-cornered examination the concept quotes from the Mulamadhyamakakarika.
 
 ## Related thinkers

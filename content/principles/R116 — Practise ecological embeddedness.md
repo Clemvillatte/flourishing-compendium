@@ -23,11 +23,11 @@ Naess states the philosophical claim in his 1973 summary. The deep ecology movem
 
 ### What the texts do not say
 
-Neither text says that your wellbeing depends on ecological health. That is the compendium's addition. Leopold's argument is about what we owe the community. Naess's is about how organisms and environment are defined. Leopold also warns that the conqueror role "is eventually self-defeating", because the conqueror "knows neither" what makes the community work nor what is valuable in it.
+Neither text says that your wellbeing depends on ecological health. That is my addition. Leopold's argument is about what we owe the community. Naess's is about how organisms and environment are defined. Leopold also warns that the conqueror role "is eventually self-defeating", because the conqueror "knows neither" what makes the community work nor what is valuable in it.
 
 (Leopold, 1949, A Sand County Almanac; Naess, 1973.)
 
-**Plain words** Leopold asks you to think of yourself as a member of the land community, not its owner or conqueror. Naess goes further: take the relations away and the organism is no longer the same thing. The compendium adds that this bears on your own wellbeing, which is a separate claim.
+**Plain words** Leopold asks you to think of yourself as a member of the land community, not its owner or conqueror. Naess goes further: take the relations away and the organism is no longer the same thing. I add that this bears on your own wellbeing, which is a separate claim.
 
 *For example:* Imagine a town that restores wetland above its streets. In Leopold's terms it has treated the wetland as part of the community, not just a resource. Whether that also protects the town from floods is a hydrology question to check locally.
 

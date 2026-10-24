@@ -19,7 +19,7 @@ The review also carries its own limits. "Almost all studies found used young hea
 
 The 2023 Stanford trial is related evidence rather than a test of the review's rate-specific mechanism: its conditions compare different breathing patterns at their own natural cadences. In a remote randomized study, three different daily 5-min breathwork exercises were compared with an equivalent period of mindfulness meditation over 1 month; the conditions were "(1) cyclic sighing, which emphasizes prolonged exhalations; (2) box breathing, which is equal duration of inhalations, breath retentions, and exhalations; and (3) cyclic hyperventilation with retention, with longer inhalations and shorter exhalations" ([Balban, Neri, Kogon et al., Cell Reports Medicine 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)). The abstract reports that "breathwork, especially the exhale-focused cyclic sighing, produces greater improvement in mood (p < 0.05) and reduction in respiratory rate (p < 0.05) compared with mindfulness meditation" ([Balban et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)). In a one-month trial of five-minute daily sessions, then, the authors reported greater mood improvement and respiratory-rate reduction for breathwork, particularly cyclic sighing, than for mindfulness meditation.
 
-### In the compendium
+### Here
 
 - [[B038 — Practice mindfulness of breathing (anapanasati)]] and [[B190 — The breath is always available]] — the contemplative uses of the same object
 - [[D143 — Breathe like a baby]] — the natural-rate version

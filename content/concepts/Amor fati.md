@@ -19,13 +19,13 @@ In *Ecce Homo* he gives the attitude its canonical statement:
 
 ### A radicalisation of Stoic acceptance
 
-On the compendium's reading, the idea is a radicalisation of Stoic acceptance. Where the Stoic principles counsel wanting what actually happens, amor fati wants it without the metaphysical guarantee: an acceptance with the love turned up, closer in spirit to the Daoist befriending of change.
+On my reading, the idea is a radicalisation of Stoic acceptance. Where the Stoic principles counsel wanting what actually happens, amor fati wants it without the metaphysical guarantee: an acceptance with the love turned up, closer in spirit to the Daoist befriending of change.
 
 Its test is the thought experiment of eternal recurrence: could you will your life, exactly as it has been, to repeat?
 
 ### Not resignation
 
-On the compendium's reading, love of fate is not resignation, and not approval. What cannot be changed is accepted; what can be changed is still worked on. Amor fati does not cancel action; it cancels the second arrow of resenting the action's conditions.
+On my reading, love of fate is not resignation, and not approval. What cannot be changed is accepted; what can be changed is still worked on. Amor fati does not cancel action; it cancels the second arrow of resenting the action's conditions.
 
 ### In everyday life
 
@@ -33,7 +33,7 @@ The two-column note after a bad week: left, what happened, stated flatly; right,
 
 Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 
-### In the compendium
+### Here
 
 - [[S014 — Want what actually happens]] — the Stoic counsel that amor fati radicalises
 - [[S007 — Accept what happens as the will of providence]] — the Stoic original, with its metaphysical guarantee

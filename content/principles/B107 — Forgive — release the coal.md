@@ -18,7 +18,7 @@ The Dhammapada's first chapter gives the mechanism. Verse 3 says that those who 
 
 Thanissaro Bhikkhu translates the same lines this way: "Hostilities aren't stilled through hostility, regardless. Hostilities are stilled through non-hostility: this, an unending truth." ([Dhammapada 3-6, Access to Insight PDF](https://accesstoinsight.org/lib/authors/thanissaro/dhammapada.pdf))
 
-The verse describes how hatred ends and does not mention a hot coal. The coal in the principle's title is a modern image for the same point, so treat it as the compendium's gloss. The point it carries is that the replaying of the grievance is something you do, and it is the thing the verses name as keeping hatred going. Forgiving does not mean the wrong was fine. It means ending the replay, and a boundary can stay in place.
+The verse describes how hatred ends and does not mention a hot coal. The coal in the principle's title is a modern image for the same point, so treat it as my gloss. The point it carries is that the replaying of the grievance is something you do, and it is the thing the verses name as keeping hatred going. Forgiving does not mean the wrong was fine. It means ending the replay, and a boundary can stay in place.
 
 (Dhammapada 3-5, trans. Buddharakkhita; Thanissaro's wording for verses 3-6.)
 

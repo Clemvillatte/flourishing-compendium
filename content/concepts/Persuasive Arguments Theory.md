@@ -17,7 +17,7 @@ Persuasive Arguments Theory is Burnstein and Vinokur's explanation of group pola
 
 The mechanism follows from the partially shared pool: "During group discussion, arguments are being stated, some of which are persuasive to individual group members", and "Given an existing positive or negative prediscussion tendency within a certain group, more arguments favoring the already dominant direction are likely to be mentioned and processed. Hence, the ratio of pro and con arguments will become more extreme for individuals, leading to a polarization of opinions among group members."
 
-### In the compendium
+### Here
 
 - [[SO032 — Treat social influence as inevitable and manageable]]
 - [[AF007 — Recognise affective forecasting errors; expect hedonic adaptation]]

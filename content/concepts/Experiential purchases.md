@@ -19,9 +19,9 @@ The paper's discussion points to evidence that experiences make people happier "
 
 These findings rest on self-reported happiness in surveys and short laboratory tasks. The abstract does not say the pattern holds for every person or every income level, and it should not be read as a rule against owning things.
 
-### In the compendium
+### Here
 
-- [[D025 — Feed the belly, not the eye]] is a Daoist principle from Daodejing chapter 12 that the compendium applies to spending. It does not cite the 2003 study. The two sit side by side here as an old ethical claim and a modern survey result that point in a similar direction; neither source says anything about the other.
+- [[D025 — Feed the belly, not the eye]] is a Daoist principle from Daodejing chapter 12 that I applie to spending. It does not cite the 2003 study. The two sit side by side here as an old ethical claim and a modern survey result that point in a similar direction; neither source says anything about the other.
 
 ## Related concepts
 

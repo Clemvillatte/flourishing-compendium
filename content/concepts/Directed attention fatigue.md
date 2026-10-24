@@ -17,17 +17,17 @@ The costs Kaplan lists are cognitive and social: "It leads to difficulty in sust
 
 In their 2010 review, Kaplan and Berman propose a shared resource linking executive functioning and self-regulation ([abstract](https://pubmed.ncbi.nlm.nih.gov/26162062/), 2010). They report studies in which natural-environment interventions improved executive-functioning performance and self-regulation effectiveness, treating those findings as support for the proposal ([abstract](https://pubmed.ncbi.nlm.nih.gov/26162062/), 2010).
 
-### In the compendium
+### Here
 
 - [[AT003 — Recognise that attention is a limited resource — it can be depleted and fatigued]] — the depletable resource this concept names
 - [[AT037 — Understand that attention needs recovery — directed attention is a depletable resource]] — recovery as a standing need
 - [[AT033 — Learn to work with attentional fatigue — recognise and respond to depletion]] — recognising the state in practice
 - [[AT039 — Learn to take real breaks — not all breaks are restorative]] — what a restorative break requires
-- [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]] — the compendium's principle on attention's two modes
-- [[AT001 — Understand that attention is selective — you cannot attend to everything]] — the compendium's principle on attention's selectivity
+- [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]] — my principle on attention's two modes
+- [[AT001 — Understand that attention is selective — you cannot attend to everything]] — my principle on attention's selectivity
 - [[K303 — Sensory nature immersion]] — nature immersion as the restorative practice
 - [[X022 — Keep nature as the restorative commons]] — keeping restorative settings available
-- [[AT069 — Recognise ADHD — interest-based attention, not a deficit]] — the compendium's principle on interest-based attention
+- [[AT069 — Recognise ADHD — interest-based attention, not a deficit]] — my principle on interest-based attention
 
 ## Facets
 

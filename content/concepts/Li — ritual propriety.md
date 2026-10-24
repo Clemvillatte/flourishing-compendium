@@ -15,9 +15,9 @@ Li names the shared forms, rites, courtesies and ceremonies through which a life
 
 The Analects also warns against mistaking li for stiffness. Book I: "In practising the rules of propriety, a natural ease is to be prized. In the ways prescribed by the ancient kings, this is the excellent quality, and in things small and great we follow them. Yet it is not to be observed in all cases" ([Analects I.12, Legge translation, Standard Ebooks](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-1)). Ease is prized within the form, and the passage goes on to say that manifesting ease without regulating it by the rules of propriety "likewise is not to be done." The inner state and the form hold each other in place. Lin Fang's question about the first thing in ceremonies draws the same answer: "In festive ceremonies, it is better to be sparing than extravagant. In the ceremonies of mourning, it is better that there be deep sorrow than a minute attention to observances" (III.4).
 
-### In the compendium
+### Here
 
-The concept pairs with [[Ren]], the disposition the forms express, and with the compendium's principles on practising ritual propriety and on ritual behaviour that connects and grounds. Li is the Confucian answer to a question this compendium keeps asking: how do good dispositions get a durable social body?
+The concept pairs with [[Ren]], the disposition the forms express, and with my principles on practising ritual propriety and on ritual behaviour that connects and grounds. Li is the Confucian answer to a question this compendium keeps asking: how do good dispositions get a durable social body?
 
 ## Related concepts
 

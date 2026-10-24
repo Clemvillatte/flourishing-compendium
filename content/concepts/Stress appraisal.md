@@ -28,14 +28,14 @@ Coping is defined as "cognitive and behavioral efforts to master, reduce, or tol
 
 These quotations come from secondary articles that cite the 1984 book, which is cited at second hand. Appraisal does not remove real danger. The theory says that the person's interpretation and perceived resources shape the stress response.
 
-### In the compendium
+### Here
 
 - [[D110 — Hold events lightly — the horse story]] lists this concept with the Lazarus and Folkman 1984 citation. Its central story is the horse story, so the link to appraisal theory is thematic.
 
 ## Related concepts
 
-- [[Rumination]] — a related concept in the compendium
-- [[Learned Helplessness Theory]] — a related concept in the compendium
+- [[Rumination]] — a related concept here
+- [[Learned Helplessness Theory]] — a related concept here
 - [[The stress-buffering model]] — a related concept on support and stress
 - [[Social support theory Cohen Wills]] — a related concept on support
 - [[Tend-and-befriend]] — a related concept on responses to stress

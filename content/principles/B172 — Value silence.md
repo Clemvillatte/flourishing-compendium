@@ -18,7 +18,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 (MN 122, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html); abridged, the passage continues with a list of the kinds of talk meant.)
 
-The [next instruction](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html) positively permits talk on contentment, persistence, virtue and discernment, among other subjects. The distinction is therefore about speech's direction within that training, not silence as an achievement in itself. The compendium's everyday application is to leave some conversations unstarted while still meeting the needs of people around us.
+The [next instruction](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html) positively permits talk on contentment, persistence, virtue and discernment, among other subjects. The distinction is therefore about speech's direction within that training, not silence as an achievement in itself. My everyday application is to leave some conversations unstarted while still meeting the needs of people around us.
 
 **Plain words** A pause does not have to be filled merely because it is there. A warning, an honest answer or a request for help may deserve words; an unverified rumour may not. In this application, silence makes room for useful speech. It is no excuse for refusing to hear someone or leaving a necessary concern unspoken.
 

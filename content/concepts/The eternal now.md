@@ -24,7 +24,7 @@ Spinoza later borrows the structure for the *sub specie aeternitatis* view, and 
 ## Related concepts
 
 - [[The specious present]] — the psychological account of the experienced now
-- [[Transcendence]] — the compendium's treatment of the beyond-time
+- [[Transcendence]] — my treatment of the beyond-time
 - [[Flow]] — the research-side state where succession thins out
 
 ## Sources

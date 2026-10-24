@@ -25,7 +25,7 @@ The schema's conclusion is a suspicion rather than a belief. On the interpretati
 (Peirce, Collected Papers; "Abduction" essays.)
 
 **Plain words**
-Surprise is the signal. When something you expected to be ordinary turns out not to be, the job is to find the story in which it would have been ordinary. That story is the guess, and the schema says only that there is reason to suspect it: the guess has not earned belief yet. The compendium's exercise on top of the schema: generate several such stories, then pick one to check.
+Surprise is the signal. When something you expected to be ordinary turns out not to be, the job is to find the story in which it would have been ordinary. That story is the guess, and the schema says only that there is reason to suspect it: the guess has not earned belief yet. My exercise on top of the schema: generate several such stories, then pick one to check.
 
 **For example**
 Imagine a parcel missing from the expected entrance. Perhaps it was delivered to another entrance. That would explain its absence here; checking the other entrance tests the guess.

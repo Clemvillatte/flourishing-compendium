@@ -16,11 +16,11 @@ The theory's central prediction, in Lavie's own review of it:
 
 ### Two loads, opposite directions
 
-In Lavie's account, perceptual processing that exhausts available capacity leaves no spare capacity for distractors, while loading cognitive-control processes can increase distractor processing ([Lavie, 2005](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)). The compendium cites the theory from its filtering and single-tasking principles, among them AT015 and AT016.
+In Lavie's account, perceptual processing that exhausts available capacity leaves no spare capacity for distractors, while loading cognitive-control processes can increase distractor processing ([Lavie, 2005](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)). I cite the theory from its filtering and single-tasking principles, among them AT015 and AT016.
 
 ## Related concepts
 
-- [[Dual-process theory]] — linked to load theory in the compendium's concept graph
+- [[Dual-process theory]] — linked to load theory in my concept graph
 
 ## Sources
 

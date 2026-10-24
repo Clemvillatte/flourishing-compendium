@@ -17,7 +17,7 @@ Spinoza states a conditional power: so long as we are not assailed by emotions c
 > "So long as we are not assailed by emotions contrary to our nature, we have the power of arranging and associating the modifications of our body according to the intellectual order." (Ethics V.10, Elwes)
 
 **Plain words**
-Consider how you want to respond to a difficult encounter before it happens. Work through what you know about the situation and what reasons support your response. This is the compendium's preparation exercise.
+Consider how you want to respond to a difficult encounter before it happens. Work through what you know about the situation and what reasons support your response. This is my preparation exercise.
 
 **For example**
 Before a meeting a worker writes down one likely criticism and a reply they can defend. Afterwards, they compare the encounter with what they anticipated.

@@ -23,14 +23,14 @@ And the social structures the signal protects predate any individual:
 
 > "Social species create emergent organizations beyond the individual– structures ranging from dyads and families to institutions and cultures." (same review)
 
-On this account the discomfort of loneliness is doing a job: like hunger, it is unpleasant on purpose, and the unpleasantness is the motive to reconnect. The reframe matters for how loneliness is met. A defect invites concealment or repair of the self, while a signal invites attention to what it indicates; the compendium's principle takes the second path, treating the ache as information about connection rather than as a verdict on the person feeling it.
+On this account the discomfort of loneliness is doing a job: like hunger, it is unpleasant on purpose, and the unpleasantness is the motive to reconnect. The reframe matters for how loneliness is met. A defect invites concealment or repair of the self, while a signal invites attention to what it indicates; my principle takes the second path, treating the ache as information about connection rather than as a verdict on the person feeling it.
 
-### In the compendium
+### Here
 
 - [[SO024 — Treat loneliness as a signal, not a stigma]] — the principle's review calls loneliness "the social equivalent of physical pain, hunger, and thirst"
 - [[SO039 — Treat cooperation as an evolutionary strategy]] — Axelrod's account of how cooperation emerges without central authority
 - [[SP036 — Practice veneration; refuse contempt]] — veneration and the refusal of contempt between people
-- [[SO001 — Flourish socially]] — Aristotle's political animal, on which the compendium's social principles build
+- [[SO001 — Flourish socially]] — Aristotle's political animal, on which my social principles build
 
 ## Related concepts
 

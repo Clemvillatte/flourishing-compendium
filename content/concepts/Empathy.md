@@ -21,7 +21,7 @@ The entry separates empathy from two nearby states. Emotional contagion is "a re
 
 Martin Hoffman's developmental account treats empathic responses as a continuum that starts with the reactive newborn cry and matures into perspective-taking, with sympathy and prosocial behavior appearing at the fourth stage. C. Daniel Batson's experiments argue that empathic concern produces genuinely altruistic motivation, where the other's welfare is the goal of helping. Critics reply that empathy is biased: Hoffman's "here and now" biases mean we tend to empathize more with persons perceived to be closer to us, subjects in an in-group study reported more empathy for in-group than out-group targets, and Paul Bloom's spotlight criticism holds that empathy illuminates the one identifiable person rather than the many. On the entry's assessment, empathy is on its own not sufficient to keep us reliably moral.
 
-### In the compendium
+### Here
 
 - [[A117 — Understand pity (eleos)]] — Aristotle's pity, pain at unmerited misfortune one might share, sits at empathy's edge
 - [[CO075 — Recognise moral cognition — intuition comes first, reasoning second]] — lists empathy among the affective influences on moral intuition

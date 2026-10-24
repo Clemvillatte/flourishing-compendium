@@ -7,7 +7,7 @@ file: "Ecological spirituality"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Ecological spirituality here is the compendium's name for a family of ideas in which spiritual life is lived in relation to the living Earth. It cites two authors, Thomas Berry and Gary Snyder, whose approaches differ. The Oxford Bibliographies entry on religion and ecology introduces Berry as a "cultural historian and 'geologian'" who imagines cosmic evolution as a "new story" in which "humanity becomes conscious of itself as a disruptive ecological force and works to transform itself into a benign presence on the Earth". In The Great Work (1999) he identifies this transition as the "Great Work" of our time ([Oxford Bibliographies: Religion and Ecology](https://academic.oup.com/reference/62344/reference-article/554375653)).
+Ecological spirituality here is my name for a family of ideas in which spiritual life is lived in relation to the living Earth. It cites two authors, Thomas Berry and Gary Snyder, whose approaches differ. The Oxford Bibliographies entry on religion and ecology introduces Berry as a "cultural historian and 'geologian'" who imagines cosmic evolution as a "new story" in which "humanity becomes conscious of itself as a disruptive ecological force and works to transform itself into a benign presence on the Earth". In The Great Work (1999) he identifies this transition as the "Great Work" of our time ([Oxford Bibliographies: Religion and Ecology](https://academic.oup.com/reference/62344/reference-article/554375653)).
 
 ### Berry: the Great Work
 
@@ -21,7 +21,7 @@ An Oxford reference entry on Snyder says that, unlike the transcendentalists who
 
 Berry writes from a Christian and cosmological standpoint and Snyder from Buddhist and place-based practice, so the shared label hides real differences. This page relies on scholarly summaries, and neither The Great Work nor The Practice of the Wild was read in full. The summaries describe views and do not test whether the practices improve wellbeing.
 
-### In the compendium
+### Here
 
 - [[R129 — Practise ecological relationality as spiritual practice]] lists this concept and quotes Berry's The Great Work directly.
 

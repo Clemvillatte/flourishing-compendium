@@ -29,7 +29,7 @@ One reading, by interpretation rather than translation, takes pu as a practice o
 
 Pu is not ignorance or childish naivety. In chapter 28 it pairs with the "simple infant", but the sage in the same chapter holds high office. And it is not a claim that experience leaves a person untouched; the images suggest only that the uncut state is the one from which any shape remains possible.
 
-### In the compendium
+### Here
 
 - [[D010 — Return to pu — the uncarved block]] — the principle form of this concept
 - [[D022 — Subtract, don't add]] and [[D023 — Unlearn daily]] — subtraction as method

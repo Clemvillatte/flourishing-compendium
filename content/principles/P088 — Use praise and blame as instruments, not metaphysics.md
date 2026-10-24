@@ -24,7 +24,7 @@ Dewey does not propose doing away with blame and approval. He notes that "there 
 
 > "Fault-finding creates resentment in the one blamed, and approval, complacency, rather than a habit of scrutinizing conduct objectively." (Dewey, Human Nature and Conduct, part 4, sec. 4, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-The compendium's exercise: when you catch yourself blaming, yourself included, write one sentence naming the specific behavior and one sentence naming what should happen next time.
+My exercise: when you catch yourself blaming, yourself included, write one sentence naming the specific behavior and one sentence naming what should happen next time.
 
 **Plain words**
 Before speaking, ask what you would want the other person to take into the next attempt. Compare that answer with the words you were about to use. Keep the specific request you can explain. Use the same check when criticizing yourself.

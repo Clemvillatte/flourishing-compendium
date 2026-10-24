@@ -13,7 +13,7 @@ Hermeneutic listening is the kind of listening that Gadamer's philosophical herm
 
 The quote is taken from an open journal article whose footnote 12 cites that page of Truth and Method directly. The same article elaborates that to re-enact the question of a text, one must first learn to listen perceptively for what is said in it, or for what an interlocutor is speaking about ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)).
 
-The compendium's principle on deep listening is B147.
+My principle on deep listening is B147.
 
 ## Related concepts
 

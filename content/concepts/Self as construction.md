@@ -17,9 +17,9 @@ Markus and Wurf argue that the self-concept "can no longer be explored as if it 
 
 ### Baumeister's account
 
-I could not open Baumeister's 1998 chapter in the Handbook of Social Psychology. A later text that describes it says Baumeister grouped selfhood into three dimensions. Reflexive awareness yields "a body of knowledge and belief about the self, often called the self-concept." The second is relating to others: people "come to know themselves by interacting with others." The third is the executive function, the self as "a doer" that makes choices and exerts control ([Self-Regulation and the Executive Function, University of Minnesota PDF](https://assets.csom.umn.edu/assets/71708.pdf)). That text presents the three-part scheme as based on "presumably" basic phenomena, and it does not use the word construction, so describing Baumeister as holding that the self is constructed rests on this secondary account and the compendium's reading.
+I could not open Baumeister's 1998 chapter in the Handbook of Social Psychology. A later text that describes it says Baumeister grouped selfhood into three dimensions. Reflexive awareness yields "a body of knowledge and belief about the self, often called the self-concept." The second is relating to others: people "come to know themselves by interacting with others." The third is the executive function, the self as "a doer" that makes choices and exerts control ([Self-Regulation and the Executive Function, University of Minnesota PDF](https://assets.csom.umn.edu/assets/71708.pdf)). That text presents the three-part scheme as based on "presumably" basic phenomena, and it does not use the word construction, so describing Baumeister as holding that the self is constructed rests on this secondary account and my reading.
 
-### In the compendium
+### Here
 
 SE001 (Understand that the self is constructed, not discovered), SE010 and SO003 draw on this. The research above shows that self-knowledge is organised, variable by situation, and shaped by social experience. It does not show that the self is an illusion or that there is nothing stable in a person, and the passages opened here do not address that question. The philosophical claims in K002, K011 and ST083 go beyond what the psychology opened here supports.
 

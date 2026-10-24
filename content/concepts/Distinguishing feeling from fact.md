@@ -7,7 +7,7 @@ file: "Distinguishing feeling from fact"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The Stoic distinction here is between things and the judgements about them; the compendium applies it to feelings and their interpretations.
+The Stoic distinction here is between things and the judgements about them; I applie it to feelings and their interpretations.
 
 The Stoic distinction runs between things and the judgements about them. Epictetus opens the Enchiridion by marking what is ours and what is not: "Some things are under our control, while others are not under our control. Under our control are conception, choice, desire, aversion, and, in a word, everything that is our own doing; not under our control are our body, our property, reputation, office, and, in a word, everything that is not our own doing" (Epictetus, [Enchiridion 1, Oldfather translation, 1925](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)). The practical rule follows in the fifth chapter:
 
@@ -15,9 +15,9 @@ The Stoic distinction runs between things and the judgements about them. Epictet
 
 The practice he prescribes is naming a thing's nature: "With everything which entertains you, is useful, or of which you are fond, remember to say to yourself, beginning with the very least things, “What is its nature?” If you are fond of a jug, say, “I am fond of a jug”; for when it is broken you will not be disturbed" (Epictetus, [Enchiridion 3, Oldfather translation, 1925](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)).
 
-The compendium applies the things/judgements distinction to feeling and its interpretation; the parallels below list Stoic and cognitive comparisons.
+I applie the things/judgements distinction to feeling and its interpretation; the parallels below list Stoic and cognitive comparisons.
 
-### In the compendium
+### Here
 
 - [[SE002 — Recognise the observing self — you are not only the contents of awareness]] — the vantage point the check is run from
 - [[AF043 — Learn to observe feelings without identification — you are not your affect]] — watching the feeling instead of being it

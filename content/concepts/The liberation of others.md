@@ -19,7 +19,7 @@ The core passages come from Part III, on freedom and liberation:
 
 She is explicit that liberation is a practical discipline, not a feeling: "I am oppressed if I am thrown into prison, but not if I am kept from throwing my neighbor into prison" ([Part III ch. 2](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)). And she sets the test for what counts: "We have to respect freedom only when it is intended for freedom" ([Part III ch. 2](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm)).
 
-### What the concept adds to the compendium
+### What the concept adds to me
 
 Two points distinguish the page. First, the work is other-directed but not self-sacrificial: the person who frees others is securing the conditions of her own projects, since "one can reveal the world only on a basis revealed by other men" ([Part II ch. 1](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)). Second, the principle page E077 works the concept into a practice with a test: does the action leave the people involved more room to choose, answer or reject? Anna Karenina is the negative image: a liberation pursued as private escape, with no room left for anyone else's projects, narrows into a prison.
 

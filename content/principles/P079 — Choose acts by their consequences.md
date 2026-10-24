@@ -20,7 +20,7 @@ In Human Nature and Conduct, Dewey treats ends as foreseen consequences that giv
 
 > "But we have to include consequences impartially. Even admitting that lying will save a man's soul, whatever that may mean, it would still be true that lying will have other consequences, namely, the usual consequences that follow from tampering with good faith and that lead lying to be condemned." (Dewey, Human Nature and Conduct, part 3, sec. 6, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-The compendium's exercise for a choice at hand: list what the act would do to your own growth, to the people it touches, and to the shared conditions they rely on, before deciding.
+My exercise for a choice at hand: list what the act would do to your own growth, to the people it touches, and to the shared conditions they rely on, before deciding.
 
 **Plain words**
 The result you most want is only part of what an action does. The route to it is already changing people's lives, relationships and habits. Those effects belong in the account too. Dewey's warning is about letting a favoured outcome fill the whole view until the damage done along the way disappears from sight.

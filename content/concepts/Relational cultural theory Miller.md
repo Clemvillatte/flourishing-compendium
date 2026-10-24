@@ -35,7 +35,7 @@ RCT also points beyond the individual. Jordan says therapists need to take into 
 
 Jordan notes that the theory was "initially ignored then treated as 'dangerous,'" and that "significant research is being carried out to test various aspects and applications". That is a developer's description, so treat it as the theory's own account of itself. An independent overview by Comstock and colleagues (2008) presents growth-fostering relationships as essential to human development and psychological well-being and links RCT to multicultural and social-justice counselling competencies ([abstract](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1556-6678.2008.tb00510.x)).
 
-### In the compendium
+### Here
 
 - [[A076 — Practise friendship across difference]], [[R002 — Practise humanity toward others]], [[A068 — Maintain friendships through presence in misfortune]] and [[A066 — Be a friend to yourself first]] cite this concept.
 - [[SE054 — Recognise self and culture — your self is culturally shaped]], [[AF012 — Recognise that affect is socially and culturally shaped; do not universalise it]], [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]] and [[A072 — Practise living together (suzēn)]] cite it as well.

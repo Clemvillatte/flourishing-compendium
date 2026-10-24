@@ -21,9 +21,9 @@ The key claim is modal. Existence is "a kind of being that is essentially relate
 
 > "To be a Dasein thus means: I always understand myself (at some level) in terms of the contingency of my current existence." ([SEP, §2.1.3](https://plato.stanford.edu/entries/heidegger/))
 
-Wrathall calls "being-in-the-world" the "fundamental structure" of Dasein ([SEP, §2.2](https://plato.stanford.edu/entries/heidegger/)). That is the point at which this concept meets the compendium.
+Wrathall calls "being-in-the-world" the "fundamental structure" of Dasein ([SEP, §2.2](https://plato.stanford.edu/entries/heidegger/)). That is the point at which this concept meets my own project.
 
-### In the compendium
+### Here
 
 - [[E021 — Practise being-in-the-world]] asks the reader to describe what they are doing through the materials, purposes and surroundings involved, rather than as a detached observer.
 

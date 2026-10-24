@@ -34,9 +34,9 @@ Against both liberalism and Marxism he holds that rationality is tradition-const
 - **The narrative unity of a life** — a life is a story, and virtues are those qualities that sustain the quest for the good within that narrative ([Wikipedia, Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)). See [[The narrative self]], [[E083 — Practise narrative identity|Practise narrative identity]].
 - **Tradition-constituted rationality** — the tradition definition above; rational inquiry is socially embodied ([Wikipedia, Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)). See [[R103 — Practise communitarian critique|Practise communitarian critique]], [[Communitarianism]].
 - **The Aristotelian turn** — the revival of teleology, eudaimonia and the virtues against liberal individualism and emotivism ([Wikipedia, Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)). See [[A001 — Make eudaimonia the organising end of your life|Make eudaimonia the organising end of your life]], [[A047 — Let practical wisdom unify the virtues|Let practical wisdom unify the virtues]].
-- **The burned library** — the *After Virtue* opening thought experiment, retold in the compendium's story page. See [[ST252 — MacIntyre's Burned Library|252. MacIntyre's Burned Library]].
+- **The burned library** — the *After Virtue* opening thought experiment, retold in my story page. See [[ST252 — MacIntyre's Burned Library|252. MacIntyre's Burned Library]].
 
-## Everything connected in the wiki — the virtue-ethics and communitarian tradition
+## Everything connected here — the virtue-ethics and communitarian tradition
 
 Kept to the pages that carry or substantively apply MacIntyre's work: the virtue revival, narrative identity, practices and tradition.
 

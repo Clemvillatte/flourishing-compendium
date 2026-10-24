@@ -25,7 +25,7 @@ The theory "has faced intense scrutiny". The entry names two difficulties, one a
 
 The entry treats Frankfurt's work as a theory of free will and moral responsibility, and it does not offer a technique for managing urges. Using the levels as a tool for examining what one wants is an adaptation. Frankfurt's original paper was not read in full for this page.
 
-### In the compendium
+### Here
 
 - [[B071 — Investigate the urge]] lists this concept. The principle's page rests on the Dhammapada and does not cite Frankfurt, so the link is thematic.
 - [[SP012 — Name your desire precisely]] is another principle about examining what one wants.

@@ -17,9 +17,9 @@ The argument is not that some facts are too deep for words. It is that the condi
 
 The book closes by applying the distinction to itself. Its own propositions are "elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)" (6.54). Then the final line: "What we cannot speak about we must pass over in silence" (7) ([Tractatus](https://archive.org/stream/tractatuslogicop05740gut/tloph10.txt)).
 
-### In the compendium
+### Here
 
-- [[D135 — Teach without words]] — the Daoist practice of teaching what words carry badly; a comparison the compendium draws, not a historical link
+- [[D135 — Teach without words]] — the Daoist practice of teaching what words carry badly; a comparison I draw, not a historical link
 - [[B129 — Point directly at experience]] — the Zen device aimed at what propositions cannot deliver
 - [[P167 — Practice congruence — align experience, awareness, and expression]] — living the showing rather than asserting the saying
 - [[Y040 — Never perform ethics for an audience]] — performance asserts what only a life can show

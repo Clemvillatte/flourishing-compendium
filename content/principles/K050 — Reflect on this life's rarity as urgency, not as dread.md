@@ -29,7 +29,7 @@ The opportunity described includes human birth, the arising of a Tathāgata, and
 (Saṃyutta Nikāya 56.48, Chiggaḷa Sutta, trans. Ṭhānissaro Bhikkhu.)
 
 **Plain words**
-The compendium borrows the passage's connection between opportunity and action. Name an opportunity available to you now. Choose a small action it makes possible, and decide when to take it.
+I borrow the passage's connection between opportunity and action. Name an opportunity available to you now. Choose a small action it makes possible, and decide when to take it.
 
 *For example:* Suppose you have borrowed a book you want to read and have half an hour free this afternoon. Decide which section you will read during that time.
 

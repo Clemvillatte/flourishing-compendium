@@ -22,9 +22,9 @@ Michael Graziano's attention schema theory explains the brain basis of subjectiv
 
 The analogy carries the weight. The body schema is a rough, schematic description of the body used to control movement, not a detailed replica, and the attention schema is the same kind of budget model, a description of attention used to help control attention. Because the model is simplified, the picture of attention it delivers is impoverished and partly wrong, which is why the theory predicts the actual dissociations between attention and awareness that the paper reviews, the brain's internal models being imperfect trackers of what they model. The theory is mechanistic and testable by design: if awareness is the model used for controlling attention, then awareness without attention, and attention without awareness, should each be possible and each costly, which is what the evidence on both shows.
 
-The compendium's use is the deflation with warmth. The theory does not deny the experiences people report; it locates them in a model the brain builds to steer attention, which makes practices of watching attention, and noticing when the model is wrong, into the phenomenology they already are: a first-person read of a control system.
+My use is the deflation with warmth. The theory does not deny the experiences people report; it locates them in a model the brain builds to steer attention, which makes practices of watching attention, and noticing when the model is wrong, into the phenomenology they already are: a first-person read of a control system.
 
-### In the compendium
+### Here
 
 - [[K308 — Object-use phenomenology]] — the practices that read attention's work from the object side
 - [[E013 — Practise the lived body (Leib)]] — the body-schema analogy the theory borrows

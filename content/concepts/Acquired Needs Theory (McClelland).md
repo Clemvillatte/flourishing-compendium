@@ -17,9 +17,9 @@ The "acquired" half of the name is the theory's signature claim: McClelland's wo
 
 On the theory's usual summary, McClelland stated that every person has these three types of motivation regardless of age, sex, race, or culture, while the type by which each individual is driven derives from life experiences and culture. The need for achievement shows in a preference for tasks of moderate difficulty in which results are based on one's own efforts, with feedback available; the need for affiliation shows in maintaining social relationships, collaboration over competition, and adherence to workplace norms for fear of rejection; the need for power shows in valuing discipline, status recognition, winning arguments and influencing others. McClelland and Burnham's Harvard Business Review research, as the summary has it, found people in top management positions had a high need for power and a low need for affiliation.
 
-### In the compendium
+### Here
 
-- [[MO002 — Know that motivation serves three basic psychological needs — autonomy, competence, and relatedness]] — Ryan and Deci's triad is the compendium's other three-need account: universal nutriments rather than learned individual differences, a comparison rather than the same needs.
+- [[MO002 — Know that motivation serves three basic psychological needs — autonomy, competence, and relatedness]] — Ryan and Deci's triad is my other three-need account: universal nutriments rather than learned individual differences, a comparison rather than the same needs.
 - [[D115 — Lead from behind]] — the Daodejing ch. 17 ranking of rulers pairs with the power need's institutional face: power over as failure mode, power through as the work.
 - [[E504 — Spare a person shame]] — correction that targets the act rather than the person pairs with the affiliation need's sensitivity to rejection.
 - [[AF047 — Understand fear's function — it prepares you for threat]] — LeDoux's survival circuits process innate and learned threats; the acquisition question, what experience lays down, is shared.
@@ -37,7 +37,7 @@ Industrial Organizational · Psychological science
 - [[ERG Theory]] — the fixed-categories alternative to learned needs
 - [[Achievement motivation theory]] — the Atkinson model of how the achievement need balances against fear of failure
 - [[Self-actualization (Maslow)]] — the hierarchy-of-needs account
-- [[Self-determination]] — the autonomy-grounded account of motivation the compendium pairs here
+- [[Self-determination]] — the autonomy-grounded account of motivation I pair here
 
 ## Sources
 

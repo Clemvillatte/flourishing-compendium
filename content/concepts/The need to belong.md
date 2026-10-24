@@ -15,9 +15,9 @@ The review surveyed the empirical literature, and the abstract records the verdi
 
 ### What follows
 
-If belonging is a need rather than a taste, two practical consequences follow, and the compendium's principles carry both. First, treating belonging as optional misreads the mind: "[[SO029 — Treat belonging as a need, not a preference]]" is the rule the research licenses. Second, on this reading the operative variable is the bond with its frequent, nonaversive interactions, so the question for practice is whether one's relationships actually run on interactions of that kind ([Baumeister and Leary 1995, abstract](https://pubmed.ncbi.nlm.nih.gov/7777651/)). Relatedness in self-determination theory names a similar need, offered here as a comparison; ubuntu gives the belonging idea an older philosophical formulation, the claim that personhood itself is constituted with others.
+If belonging is a need rather than a taste, two practical consequences follow, and my principles carry both. First, treating belonging as optional misreads the mind: "[[SO029 — Treat belonging as a need, not a preference]]" is the rule the research licenses. Second, on this reading the operative variable is the bond with its frequent, nonaversive interactions, so the question for practice is whether one's relationships actually run on interactions of that kind ([Baumeister and Leary 1995, abstract](https://pubmed.ncbi.nlm.nih.gov/7777651/)). Relatedness in self-determination theory names a similar need, offered here as a comparison; ubuntu gives the belonging idea an older philosophical formulation, the claim that personhood itself is constituted with others.
 
-### In the compendium
+### Here
 
 - [[SO029 — Treat belonging as a need, not a preference]] — the principle the paper licenses
 - [[R001 — I am because we are]] — ubuntu as the belonging need's relational formulation

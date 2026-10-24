@@ -32,7 +32,7 @@ The famous statement of the *Genjōkōan*, verbatim:
 - **Samu — work as practice** — the monastery's labor as meditation in activity. See [[B171 — Make work itself the practice (samu)|Make work itself the practice (samu)]], [[Means as end]].
 - **The Shōbōgenzō** — essays that philosophize the practice from within, the founding literature of Sōtō Zen ([Wikipedia, Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)). See [[Ecological spirituality]], [[The rhythm of small pauses]].
 
-## Everything connected in the wiki — the Sōtō Zen tradition
+## Everything connected here — the Sōtō Zen tradition
 
 Kept to the pages that carry or substantively apply Dōgen's teaching: zazen, shikantaza and the practice principles.
 

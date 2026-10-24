@@ -22,7 +22,7 @@ In adulthood the system works mentally as much as physically: felt security can 
 > Secure people can therefore remain relatively unperturbed during times of stress and experience longer periods of positive affectivity, which contribute to sustained emotional well-being and mental health.
 > (Mikulincer and Shaver 2007, Psychological Inquiry 18(3))
 
-**Plain words** Secure attachment is the felt expectation that the people you rely on will be there and that you are worth showing up for. The compendium's exercise: before a separation, agree on how often you will talk and what a delayed reply will mean to each of you.
+**Plain words** Secure attachment is the felt expectation that the people you rely on will be there and that you are worth showing up for. My exercise: before a separation, agree on how often you will talk and what a delayed reply will mean to each of you.
 
 *For example:* Imagine one partner expects to be offline during a work trip. Before leaving, they discuss when messages can be answered and what each person expects.
 

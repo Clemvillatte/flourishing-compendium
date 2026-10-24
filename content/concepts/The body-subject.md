@@ -25,16 +25,16 @@ The entry quotes the simile "One's own body is in the world just as the heart is
 
 The quotations come from one encyclopedia entry. The Phenomenology of Perception itself is cited at second hand, and the entry's quoted passages do not show the hyphenated term "body-subject" in the sections consulted. The page therefore describes the idea under the entry's own vocabulary. Whether practices built on it improve wellbeing is a separate empirical question that this source does not address.
 
-### In the compendium
+### Here
 
 - [[E016 — Practise the body-subject]] cites the heart-in-the-organism simile from the same entry and presents its scheduling advice as an application, not a claim of the simile.
 
 ## Related concepts
 
-- [[The body-for-others]] — the compendium's page on the body as seen by others
-- [[The chiasm]] — the compendium's page on a later Merleau-Ponty idea
-- [[Embodied cognition]] — the compendium's page on the wider field
-- [[Enactivism]] — the compendium's page on a related approach
+- [[The body-for-others]] — my page on the body as seen by others
+- [[The chiasm]] — my page on a later Merleau-Ponty idea
+- [[Embodied cognition]] — my page on the wider field
+- [[Enactivism]] — my page on a related approach
 
 ## Sources
 

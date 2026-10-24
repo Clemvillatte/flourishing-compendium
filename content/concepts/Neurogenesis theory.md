@@ -19,7 +19,7 @@ The theory's status in humans is contested. A 2018 study that directly counted y
 
 The same abstract records what had made the idea attractive: in mammals the process "has been linked to learning and memory, stress and exercise". That link is why the debate matters for mood and learning, and why the original entry line names learning and mood regulation.
 
-### In the compendium
+### Here
 
 - [[BI006 — Understand that neurotransmitters are not simple cause-and-effect — complexity matters]] cites this theory as a psychology parallel.
 

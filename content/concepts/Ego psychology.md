@@ -23,7 +23,7 @@ The same article lists Erik Erikson among later psychoanalysts whose studies of 
 
 The Wikipedia account adds that Hartmann "recognized, however, that conflicts were part of the human condition". On that account, certain ego functions may become conflicted by aggressive and libidinal impulses.
 
-### In the compendium
+### Here
 
 - [[SE035 — Understand identity as a project — you author yourself]]
 - [[E050 — Practise the stages of existence]]

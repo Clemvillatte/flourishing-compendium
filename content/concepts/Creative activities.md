@@ -13,7 +13,7 @@ Creative activities, in Tamlin Conner, Colin DeYoung and Paul Silvia's 2018 stud
 
 The evidence is a 13-day daily diary study of 658 young adults, so it shows an observational association across days, not a randomised intervention. The authors read the one-way pattern as support for "the emerging emphasis on everyday creativity as a means of cultivating positive psychological functioning".
 
-### In the compendium
+### Here
 
 - [[P102 — Trust the creative thrust of life]] — retains this study as a research pointer for the creative thrust
 - [[P111 — Do art as experience, not as object]] and [[A035 — Cultivate art and craft (techne)]] — draw on the same study through the related [[Everyday creative activities]] concept

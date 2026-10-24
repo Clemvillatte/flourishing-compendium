@@ -17,9 +17,9 @@ Beck's version sits inside the activity-scheduling toolkit: tasks the patient av
 
 Bandura and Schunk tested the mechanism with children who showed "gross deficits and disinterest in mathematical tasks," pursuing self-directed learning under proximal subgoals, distal goals or no goals. Under proximal subgoals the children "progressed rapidly in self-directed learning, achieved substantial mastery of mathematical operations, and developed a sense of personal efficacy and intrinsic interest," while "distal goals had no demonstrable effects" ([Bandura and Schunk, JPSP 41 (1981), abstract](https://www.digitalgreensboro.org/record/8817?v=pdf)). Goal proximity also fostered "veridical self-knowledge of capabilities," high congruence between efficacy judgments and later performance ([abstract](https://www.digitalgreensboro.org/record/8817?v=pdf)).
 
-### In the compendium
+### Here
 
-The compendium treats the technique as the psychology of starting small. BE015 teaches it directly, BE009 gives the gradual-shaping principle behind it, and the layer V1K-S01.07 carries it as the activation kernel. The Daoist parallels D059 and D060 do the great while it is small and the difficult while it is easy; P041's revisable ends-in-view and B026's right effort supply the effort budget; E505's Deleuzian ceremony converts natural ends into infinite tasks, which grading makes walkable; and K175 is the compendium's kernel form.
+I treat the technique as the psychology of starting small. BE015 teaches it directly, BE009 gives the gradual-shaping principle behind it, and the layer V1K-S01.07 carries it as the activation kernel. The Daoist parallels D059 and D060 do the great while it is small and the difficult while it is easy; P041's revisable ends-in-view and B026's right effort supply the effort budget; E505's Deleuzian ceremony converts natural ends into infinite tasks, which grading makes walkable; and K175 is my kernel form.
 
 - [[BE015 — Learn to use graded task assignment — break tasks into achievable steps]] — the technique as a learnable practice
 - [[BE009 — Know that behaviour is shaped gradually — small steps build large changes]] — the shaping principle behind it
@@ -28,7 +28,7 @@ The compendium treats the technique as the psychology of starting small. BE015 t
 - [[D060 — Do the great while it is small]] — the Daoist parallel
 - [[P041 — Set ends-in-view, and revise them]] — Dewey's revisable goals as the task frame
 - [[D059 — Do the difficult while it is easy]] — the Daoist parallel for difficulty
-- [[K175 — Graded task assignment]] — the compendium's kernel form
+- [[K175 — Graded task assignment]] — my kernel form
 - [[B026 — Apply right effort — the four efforts]] — the Buddhist effort budget
 - [[E505 — The ceremony transforms natural ends into infinite tasks (Deleuze)]] — the infinite task made walkable
 

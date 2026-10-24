@@ -14,7 +14,7 @@ In small, deliberate doses, expose the body to a mild stressor: cold water, heat
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the evidence below is observational and establishes no dose.*
+*Steps are my own protocol; the evidence below is observational and establishes no dose.*
 
 1. Start small and gradual: one stressor, one modest dose, and watch the response before increasing anything.
 2. Keep the dose mild enough to be recovered from the same day; hormesis is the biphasic zone, not the punishing one.

@@ -11,7 +11,7 @@ Work is where most adult hours go, which makes earning a place where ethics eith
 - Work aims and goals: held by the Goals dossier; this page keeps to the work itself and the person doing it.
 - Life's purpose: held by that dossier; a livelihood is one of the places a purpose gets spent, not the place it is found.
 
-## The map: every entry the wiki holds on right livelihood
+## The map: the entries on right livelihood
 
 ### The path's own account
 
@@ -25,7 +25,7 @@ Work is where most adult hours go, which makes earning a place where ethics eith
 
 [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the principle of non-harm that runs through the Indic traditions, the floor under the livelihood factor: whatever else a livelihood does, it begins by doing no injury.
 
-[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label the compendium gives the right action factor, the same placement logic: the path names conduct as its own factor rather than training intention alone.
+[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label I give the right action factor, the same placement logic: the path names conduct as its own factor rather than training intention alone.
 
 The canonical list, in the Buddha's own words:
 
@@ -117,7 +117,7 @@ The canonical list, in the Buddha's own words:
 
 ### The stories and sayings
 
-The compendium holds right livelihood in narrative form too:
+The theme comes in narrative form too:
 
 [ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): arriving at Gombe in 1960 with no formal training, her discoveries redefine the boundary between human and animal; in 1986, seeing the scale of the destruction, she leaves fieldwork permanently and becomes an activist who travels roughly 300 days a year.
 
@@ -135,7 +135,7 @@ The compendium holds right livelihood in narrative form too:
 
 ::Variation:: What tends to need varying on this theme is the drift into work that is only endured: the trade chosen for its wage and never revisited, the burnout read as a personal failing rather than a failed exchange, the rest postponed until it collapses into illness, and the having-mode relation to work in which the job is a possession to be guarded rather than a use of the person's faculties. The adaptive direction is the periodic revisiting of the livelihood against the floor and the growth standard: does the trade do harm, and does the work still grow the person doing it, with rest kept inside the rhythm rather than deferred.
 
-::Selection:: The compendium's selected practices on this theme, each a selected source of that variation:
+::Selection:: The practices I have selected as sources of that variation:
 
 1. [B025 — Practice right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=B025%20%E2%80%94%20Practice%20right%20livelihood): the floor check: no trade in weapons, poisons, intoxicants or exploitation, and the work aligned with the values you hold.
 
@@ -153,7 +153,7 @@ The compendium holds right livelihood in narrative form too:
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Work that is one with the life
 

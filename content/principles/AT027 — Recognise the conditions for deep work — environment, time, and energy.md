@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 
 Leroy's experiments on switching between work tasks found that people need to stop thinking about one task to perform well on another, that leaving a task unfinished makes the transition difficult, and that the next task's performance suffers as a result. Finishing a task first was not by itself enough for an effective transition in her studies. Rubinstein, Meyer and Evans measured the cost of alternation: switching between tasks yielded reaction-time costs that grew with rule complexity.
 
-The compendium uses these findings to suggest planning a suitable place, an available time window and a period when you expect to feel alert. These are practical planning prompts; the reported findings do not establish a necessary block length or show that demanding work is impossible with interruptions.
+I use these findings to suggest planning a suitable place, an available time window and a period when you expect to feel alert. These are practical planning prompts; the reported findings do not establish a necessary block length or show that demanding work is impossible with interruptions.
 
 > "As revealed by two experiments, people need to stop thinking about one task in order to fully transition their attention and perform well on another." (Leroy, 2009 — [abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html) — OBHDP 109(2), pp. 168-181)
 

@@ -15,9 +15,9 @@ The 2003 paper ran three studies: 115 undergraduates, 120 young and older adults
 
 The model's own caution is that the two processes are relatively independent: disengaging from an unattainable goal does not automatically lead to reengagement ([PMC, goal motives paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)).
 
-### In the compendium
+### Here
 
-The compendium carries the construct as the psychological core of letting go. MO058 states it directly: disengage from unattainable goals because letting go is adaptive. P041's Deweyan ends-in-view and MO034's review-and-adjust practice give the reengagement side a discipline; MO074 and MO075 build the monitoring and maintenance around it, MO076 and SE079 keep motivation serving life rather than the reverse, and P176 prefers growth goals to validation goals so the letting-go costs less. D098's li ming, accepting what destiny brings, is the Confucian form of the same move, and AT078 keeps attention's purpose fixed while its objects change.
+I carrie the construct as the psychological core of letting go. MO058 states it directly: disengage from unattainable goals because letting go is adaptive. P041's Deweyan ends-in-view and MO034's review-and-adjust practice give the reengagement side a discipline; MO074 and MO075 build the monitoring and maintenance around it, MO076 and SE079 keep motivation serving life rather than the reverse, and P176 prefers growth goals to validation goals so the letting-go costs less. D098's li ming, accepting what destiny brings, is the Confucian form of the same move, and AT078 keeps attention's purpose fixed while its objects change.
 
 - [[D098 — Accept what destiny brings (li ming)]] — the Confucian form of letting go
 - [[P041 — Set ends-in-view, and revise them]] — Dewey's revisable goals
@@ -46,7 +46,7 @@ The compendium carries the construct as the psychological core of letting go. MO
 - [[Wu wei]] — the Daoist non-forcing that knows when to stop
 - [[Hope]] — the affective resource of reengagement
 - [[Grit]] — the rival virtue, persistence held against letting go
-- [[Ends-in-view]] — Dewey's revisable goals, the compendium's reengagement discipline
+- [[Ends-in-view]] — Dewey's revisable goals, my reengagement discipline
 - [[Flow]] — engagement in the new pursuit, the felt side of reengagement
 - [[Self-regulation]] — the parent process the two capacities belong to
 - [[Cognitive flexibility]] — the executive-function construct related to flexible disengagement

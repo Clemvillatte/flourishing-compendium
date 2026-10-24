@@ -33,9 +33,9 @@ The essay ends by joining attention to the love of neighbor. Those who are unhap
 >
 > (Weil, Waiting for God, "Reflections on the Right Use of School Studies", p. 115)
 
-### In the compendium
+### Here
 
-The lines below are editorial comparisons between Weil's account and the compendium's principles.
+The lines below are editorial comparisons between Weil's account and my principles.
 
 - [[S129 — Practise the discipline of attention]] — S129 describes noticing impressions before assent; this page offers an editorial comparison with Weil's receptive attention
 - [[AT060 — Learn to manage smartphone attention — the device is designed to capture you]] — attention engineered for capture is the modern setting for the discipline this page describes

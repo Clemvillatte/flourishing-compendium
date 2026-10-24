@@ -25,7 +25,7 @@ The paper's evidence came from a four-month field study in a military context ([
 
 So courage sat between leadership and behaviour: it carried the effect. The study sits inside a larger theory the authors credit to a companion paper, "moral conation, the impetus to act with moral purpose", which they propose stems from moral courage, moral efficacy, and moral psychological ownership ([Hannah, Avolio and Walumbwa, 2011](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6EE546A20E6A106968CDF45F317676B1/S1052150X00004899a.pdf/relationships-between-authentic-leadership-moral-courage-and-ethical-and-pro-social-behaviors.pdf)). Two people can share a judgment; what separates them is whether the ownership, the confidence, and the endurance line up behind it. The definition's first clause, "a malleable character strength", is the one practitioners should notice: on this account courage is trainable, not a fixed endowment.
 
-### In the compendium
+### Here
 
 - [[S031 — Do what is fitting, not what is easy]] — the Stoic version of the judgment-action gap this research measures
 - [[A004 — Become virtuous by doing virtuous acts]] — the definition's "malleable character strength" in Aristotle's terms

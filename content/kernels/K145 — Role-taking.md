@@ -14,7 +14,7 @@ See yourself from the viewpoint of someone who matters to you. What would they s
 
 ### Protocol
 
-*Steps are the compendium's editorial protocol; the anchoring they counter is described in the research below.*
+*Steps are my own protocol; the anchoring they counter is described in the research below.*
 
 1. Choose one person whose view of you is real, not imaginary; specificity is what makes the exercise bite.
 2. Write what they would say about who you are becoming, in their voice, without softening it with your own commentary.

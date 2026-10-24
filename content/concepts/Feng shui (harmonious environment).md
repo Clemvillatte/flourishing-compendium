@@ -19,11 +19,11 @@ The Form branch is the oldest; it was originally concerned with the location and
 
 ### Modern re-reading
 
-The paper's own project is a re-interpretation: feng shui is "facing two problems: one is the ideological matter in its birthplace, China; the other is the re-interpretation by modern scientific framework due to the international impact" (same paper). Some scholars, the paper reports, "re-defined Wudang architectural group with the western theories of environmental science, environmental aesthetics, contextism, bio-architecture, and so on," finding that "many principles of Kanyu in Wudang architectural group are also found fitting well into the framework of modern science" (same paper). The New World Encyclopedia records the same movement from the other side: "Environmental scientists and landscape architects have researched traditional feng shui and its methodologies," and architects surveyed in Sydney and Hong Kong "generally concurred with the ideal feng shui model" ([New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Feng_shui)). For the compendium the interest is exactly this double reading: a tradition that sits buildings by an invisible flow, and a modern reader who finds in the same rules an empirical fit with sun, wind and shelter.
+The paper's own project is a re-interpretation: feng shui is "facing two problems: one is the ideological matter in its birthplace, China; the other is the re-interpretation by modern scientific framework due to the international impact" (same paper). Some scholars, the paper reports, "re-defined Wudang architectural group with the western theories of environmental science, environmental aesthetics, contextism, bio-architecture, and so on," finding that "many principles of Kanyu in Wudang architectural group are also found fitting well into the framework of modern science" (same paper). The New World Encyclopedia records the same movement from the other side: "Environmental scientists and landscape architects have researched traditional feng shui and its methodologies," and architects surveyed in Sydney and Hong Kong "generally concurred with the ideal feng shui model" ([New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Feng_shui)). For me the interest is exactly this double reading: a tradition that sits buildings by an invisible flow, and a modern reader who finds in the same rules an empirical fit with sun, wind and shelter.
 
 **Plain words** Place things as if the land had currents: find where the good air pools, sit the house with its back to the cold and its face to the sun. The tradition said qi; the modern reading says sun and wind; the siting advice comes out much the same.
 
-### In the compendium
+### Here
 
 - [[AT067 — Recognise the role of physical environment in attention — light, space, sound]] — lists feng shui as a Chinese-tradition parallel; the principle's own subject is the physical environment's role in attention
 
@@ -31,7 +31,7 @@ The paper's own project is a re-interpretation: feng shui is "facing two problem
 
 - [[Qi]] — feng shui uses this concept when selecting and orienting sites
 - [[Environmental psychology]] — listed as a see-also in the New World Encyclopedia entry, and the field the modern re-reading speaks to
-- [[Place attachment]] — the compendium's neighbouring concept on bonds to places
+- [[Place attachment]] — my neighbouring concept on bonds to places
 
 ## Sources
 

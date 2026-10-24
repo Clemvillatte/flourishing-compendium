@@ -27,7 +27,7 @@ On the resource side, Muldoon and colleagues' abstract reviews evidence that gro
 
 > There is increasing evidence that identification with social groups can protect and enhance health, establishing a kind of 'social cure'. However, for those affected by chronic or disabling conditions such as acquired brain injury (ABI), their identity may also represent a burden, a form of 'social curse'. (Muldoon et al., 2019, abstract)
 
-The compendium brings these contexts together as reasons to examine what a membership offers and how it affects judgments about other groups.
+I bring these contexts together as reasons to examine what a membership offers and how it affects judgments about other groups.
 
 **Plain words** Think about a group that has helped you. What support would you miss without it? Separately, consider whether you give its members credit you would withhold from someone outside it. These questions let you examine the help you receive alongside your judgments about other people.
 

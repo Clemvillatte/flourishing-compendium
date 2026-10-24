@@ -18,7 +18,7 @@ Zimmerman's model of self-regulated learning runs through three phases — foret
 
 (Zimmerman, 2002, p. 68, Theory Into Practice 41(2), [faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf).)
 
-The compendium applies this beyond study: the standard you compare your record against can be your own prior performance, which Zimmerman names as one basis of self-evaluation.
+I applie this beyond study: the standard you compare your record against can be your own prior performance, which Zimmerman names as one basis of self-evaluation.
 
 **Plain words** Pick one behaviour you want to understand. For a week, write down what happened — when, how long, and what got in the way. Compare those entries with a stated goal or your earlier performance, then choose something to try next.
 

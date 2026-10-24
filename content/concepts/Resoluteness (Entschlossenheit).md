@@ -13,7 +13,7 @@ Resoluteness is Heidegger's name for the disclosedness conscience attests in you
 
 (Heidegger, Being and Time, §60, [Macquarrie and Robinson translation](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc))
 
-Two features keep it from collapsing into willpower. First, it stays in the world: "Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible." Second, it discloses a Situation rather than inventing one: "The Situation is the 'there' which is disclosed in resoluteness." The compendium's principle [[E046 — Practise resoluteness (Entschlossenheit)]] works these two features into practice: choose within the circumstances you actually have, with the possibilities they actually offer, rather than postponing choice to a situation you would prefer.
+Two features keep it from collapsing into willpower. First, it stays in the world: "Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible." Second, it discloses a Situation rather than inventing one: "The Situation is the 'there' which is disclosed in resoluteness." My principle [[E046 — Practise resoluteness (Entschlossenheit)]] works these two features into practice: choose within the circumstances you actually have, with the possibilities they actually offer, rather than postponing choice to a situation you would prefer.
 
 ## Related concepts
 

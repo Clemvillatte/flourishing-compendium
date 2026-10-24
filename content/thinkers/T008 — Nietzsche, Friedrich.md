@@ -34,7 +34,7 @@ Value is measured by vitality. "What is good?--Whatever augments the feeling of 
 - **Perspectivism** — no view from nowhere; more eyes, more complete objectivity. See [[Perspectivism]].
 - **The revaluation of values** — creating values that serve life. See [[Revaluation of all values]].
 
-## Connected in the wiki — the Nietzschean layer
+## Connected here — the Nietzschean layer
 
 The section keeps the entries whose pages cite Nietzsche in their sources, plus the concepts, stories, kernel and sayings keyed to him (the stories include two straight from Zarathustra and the Gay Science, and one modern film illustration). A citation scan selects candidates without proving dependence,.
 

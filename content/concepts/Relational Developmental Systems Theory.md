@@ -15,7 +15,7 @@ Relational Developmental Systems Theory (RDS) is the name for a family of framew
 
 These theories highlight multi-level analyses, interindividual differences in intraindividual change, and co-action with the context ([Aldwin, 2015, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5645042/)): differences between people in how each person changes over time, with the person and the context acting on each other. One of the listed tenets is relative (e.g., limited) plasticity, so change is taken to remain possible within limits.
 
-### In the compendium
+### Here
 
 - [[SO002 — Treat the person as embedded in nested systems]] cites Lerner (2006) among its sources for developmental evidence that outcomes emerge from person-environment interactions over time.
 

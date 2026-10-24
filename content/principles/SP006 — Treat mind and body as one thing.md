@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 6** — Treat mind and body as one thing
 
-Spinoza states the identity in the scholium to Part III, Proposition 2: mind and body are one and the same thing, conceived first under the attribute of thought and secondly under the attribute of extension. ([Ethics III, Prop. II, scholium, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) Part II, Proposition 7 gives the same claim from the other side: the order and connection of ideas is the same as the order and connection of things. ([Ethics II, Prop. VII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) As an interpretive exercise, the compendium invites readers to describe an experience in terms of both thought and bodily experience.
+Spinoza states the identity in the scholium to Part III, Proposition 2: mind and body are one and the same thing, conceived first under the attribute of thought and secondly under the attribute of extension. ([Ethics III, Prop. II, scholium, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) Part II, Proposition 7 gives the same claim from the other side: the order and connection of ideas is the same as the order and connection of things. ([Ethics II, Prop. VII, Elwes tr.](https://www.gutenberg.org/ebooks/3800)) As an interpretive exercise, I invite readers to describe an experience in terms of both thought and bodily experience.
 
 > "mind and body are one and the same thing, conceived first under the attribute of thought, secondly, under the attribute of extension." (Ethics III, Prop. II, scholium, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 

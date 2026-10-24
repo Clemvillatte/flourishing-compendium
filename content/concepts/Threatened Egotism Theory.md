@@ -17,7 +17,7 @@ The experimental test came two years later. Bushman and Baumeister's abstract re
 
 The paper's own gloss of the pattern: "these aggressive responses were strongest among people who scored high in narcissism. Thus, the highest levels of aggression were found among people who have emotional and motivational investment in extremely favorable, grandiose self-images." Neither low nor high simple self-esteem predicted aggression; the danger was the combination of grandiosity and threat. The authors add: "Our mediation analysis confirmed that perceptions of threat did mediate between narcissism and aggression."
 
-The compendium's application: the theory is a standing caution against the reflex to treat poor self-image as the root of hostility. The link it identifies runs through defensiveness — an investment in a favorable self-image that other people's judgments can put at risk — which is why the neighboring concepts of contingent self-esteem and hubris belong beside it.
+My application: the theory is a standing caution against the reflex to treat poor self-image as the root of hostility. The link it identifies runs through defensiveness — an investment in a favorable self-image that other people's judgments can put at risk — which is why the neighboring concepts of contingent self-esteem and hubris belong beside it.
 
 ## Field
 

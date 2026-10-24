@@ -15,7 +15,7 @@ The law written on the heart is the prophetic image for a morality that has move
 
 The verse's structure is the point. The old covenant was external law, given to be learned; the new one is law internalized so deeply it counts as part of the person, known the way you know your own name rather than the way you know a rule you were taught. Paul's gloss in Romans 2:15 gives the phrase its philosophical career: Gentiles who do not have the law do by nature the things contained in the law, "which shew the work of the law written in their hearts, their conscience also bearing witness" (KJV). Conscience, not instruction, is where the law shows up.
 
-The compendium pairs this with the Stoic and Pauline thread the natural-law tradition built on it. [[SP076 — Obey from understanding, not from fear]] reads obedience as following from insight rather than threat; the law-written-on-the-heart image is that obedience's internalized form. The psychology parallel the compendium's [[SP054 — Retrain association deliberately]] page names is the same structure read mechanically: what is written in the heart is what has been practiced until it runs without instruction.
+I pair this with the Stoic and Pauline thread the natural-law tradition built on it. [[SP076 — Obey from understanding, not from fear]] reads obedience as following from insight rather than threat; the law-written-on-the-heart image is that obedience's internalized form. The psychology parallel my [[SP054 — Retrain association deliberately]] page names is the same structure read mechanically: what is written in the heart is what has been practiced until it runs without instruction.
 
 ## Related concepts
 

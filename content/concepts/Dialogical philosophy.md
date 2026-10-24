@@ -17,10 +17,10 @@ Buber's claim is that the self is not a given that then relates; it is made in t
 
 The I-It is not a mistake to be eliminated. Buber's point is proportion: a life run entirely in the I-It, however efficient, is a life without meeting.
 
-### In the compendium
+### Here
 
-- [[M006 — Name your in-between states]] — nepantla, the Nahuatl name for being between worlds, is the compendium's parallel from another tradition; a cross-reference, not an equivalence
-- [[PP035 — Practise social perspective-taking]] — the compendium pairs Buber's meeting with the research on whether imagining another's view actually reaches it
+- [[M006 — Name your in-between states]] — nepantla, the Nahuatl name for being between worlds, is my parallel from another tradition; a cross-reference, not an equivalence
+- [[PP035 — Practise social perspective-taking]] — I pair Buber's meeting with the research on whether imagining another's view actually reaches it
 
 ## Related concepts
 

@@ -23,17 +23,17 @@ A meta-analysis of 26 empirical studies found that the correlation between usefu
 
 ### Scope
 
-TAM predicts adoption of workplace systems from users' beliefs. It does not measure whether a technology serves wellbeing or flourishing, and the compendium's link to its principle is thematic only.
+TAM predicts adoption of workplace systems from users' beliefs. It does not measure whether a technology serves wellbeing or flourishing, and my link to its principle is thematic only.
 
-### In the compendium
+### Here
 
 - [[E102 — Practise Gelassenheit (releasement)]] lists this concept. The principle does not cite Davis.
 
 ## Related concepts
 
-- [[Self-efficacy]] — the compendium's page on confidence in one's ability, a theory Davis drew on (per the AJIS summary)
-- [[Gelassenheit]] — the compendium's page on releasement
-- [[Habit]] — the compendium’s entry on habit formation
+- [[Self-efficacy]] — my page on confidence in one's ability, a theory Davis drew on (per the AJIS summary)
+- [[Gelassenheit]] — my page on releasement
+- [[Habit]] — my entry on habit formation
 
 ## Sources
 

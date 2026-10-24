@@ -22,13 +22,13 @@ The same book defends the other half in Emerson's words. On respect for immaturi
 
 James gives solitude its own standing in his working definition of religion: "the feelings, acts, and experiences of individual men in their solitude, so far as they apprehend themselves to stand in relation to whatever they may consider the divine" ([The Varieties, 1902](https://www.gutenberg.org/cache/epub/621/pg621.txt), Lecture II).
 
-The compendium's application: both phases are phases of growth, and a life can be scheduled to contain both.
+My application: both phases are phases of growth, and a life can be scheduled to contain both.
 
 **Plain words**
-Dewey makes the person social to the root, and the same book tells adults not to trespass on the child's solitude. James counts experiences in solitude among the real ones. The two claims name two phases. The compendium's exercise: look at this week's calendar and mark which hours are give and take and which are solitude, then check whether each phase has a place.
+Dewey makes the person social to the root, and the same book tells adults not to trespass on the child's solitude. James counts experiences in solitude among the real ones. The two claims name two phases. My exercise: look at this week's calendar and mark which hours are give and take and which are solitude, then check whether each phase has a place.
 
 *For example:*
-Consider the introvert who takes the lunch walk alone and joins the evening dinner. On the compendium's reading the walk is the untrespassed solitude and the dinner is the give and take of intercourse, and the schedule is what makes both real.
+Consider the introvert who takes the lunch walk alone and joins the evening dinner. On my reading the walk is the untrespassed solitude and the dinner is the give and take of intercourse, and the schedule is what makes both real.
 
 ## Sources
 

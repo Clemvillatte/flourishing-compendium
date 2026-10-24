@@ -15,7 +15,7 @@ The dignified body is the bodily half of Aristotle's portrait of the great-soule
 
 ### What the body expresses
 
-The connection between the character and the carriage is stated in the passage's logic: what one takes seriously shows in pace and tone. Aristotle even describes the magnanimous person's physical bearing as an expression of his state: "his movements are slow, his voice deep, and his speech measured" (NE 1125a11-12; [Hankins paper](https://www.keithhankins.com/uploads/2/1/7/9/21794922/hankins_-_aristotelian_magnanimity_-_1-26_draft.pdf)). The Irwin translation of the same line: "The proud man seems to have slow movements, a deep voice and calm speech. For since he takes few things seriously, he is in no hurry, and since he counts nothing great, he is not strident" ([quoted at philosopher.eu](https://www.philosopher.eu/others-writings/aristotle-on-pride-megalopsuchia/)). The passage's content is the compendium's principle on posture in ancient dress: the body is not a neutral container the character uses, but one of the places the character is.
+The connection between the character and the carriage is stated in the passage's logic: what one takes seriously shows in pace and tone. Aristotle even describes the magnanimous person's physical bearing as an expression of his state: "his movements are slow, his voice deep, and his speech measured" (NE 1125a11-12; [Hankins paper](https://www.keithhankins.com/uploads/2/1/7/9/21794922/hankins_-_aristotelian_magnanimity_-_1-26_draft.pdf)). The Irwin translation of the same line: "The proud man seems to have slow movements, a deep voice and calm speech. For since he takes few things seriously, he is in no hurry, and since he counts nothing great, he is not strident" ([quoted at philosopher.eu](https://www.philosopher.eu/others-writings/aristotle-on-pride-megalopsuchia/)). The passage's content is my principle on posture in ancient dress: the body is not a neutral container the character uses, but one of the places the character is.
 
 ### The honest limit
 
@@ -25,7 +25,7 @@ The portrait is of a specific Greek virtue with a specific social setting — he
 
 - [[The catalogue of virtues]] — the table the magnanimity row belongs to
 - [[Embodied cognition]] — the research-side account of body and mind coupling
-- [[The meek]] — the compendium's counter-portrait of a different bearing
+- [[The meek]] — my counter-portrait of a different bearing
 
 ## Sources
 

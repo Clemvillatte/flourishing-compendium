@@ -11,7 +11,7 @@ Attention is the place a life is lived; everything a person does with their hour
 - Mind-wandering: held as its own object of study by [Mind wandering](https://clemvillatte.github.io/flourishing-compendium/#card=Mind%20wandering), and treated here as part of attention's life rather than its opposite.
 - Absorption: the states are [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow), [Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention) and [Hyperfocus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hyperfocus%20theory).
 
-## The map: every entry the wiki holds on attention
+## The map: the entries on attention
 
 ### What attention is taken to be
 
@@ -129,7 +129,7 @@ The degradation of attention over time on task, in the meta-analytic review's ow
 
 [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration): the eighth factor of the Noble Eightfold Path; the four jhānas, each quieter than the last.
 
-[The noticing-wandering-returning cycle in meditation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is the compendium's own framing.
+[The noticing-wandering-returning cycle in meditation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is my own framing.
 
 [Focusing](https://clemvillatte.github.io/flourishing-compendium/#card=Focusing): Gendlin's method for attending to experience before it has words, the felt sense as its object.
 
@@ -189,7 +189,7 @@ The laboratory study that gave the meditation cycle its four intervals:
 
 [Body scan in MBSR (Kabat-Zinn)](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in mindfulness-based stress reduction: attention moved slowly through the body, lying on the back.
 
-The compendium holds the theme in narrative form too:
+The theme comes in narrative form too:
 
 [ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's essay on school studies: every time we really attend to something, we exercise the same faculty that prayer and friendship require.
 
@@ -237,7 +237,7 @@ The two papers do not contradict each other: one measures the average mood while
 
 ::Variation:: What tends to need varying on this theme is where attention goes by default: captured by whatever is loud, new or threatening; left behind on the previous task after a switch; spent on feeds engineered to hold it; and drawn from a directed-attention budget that fatigues with use and recovers in some environments and not others. The adaptive direction is selection guided by intention, the return trained rather than the absence of wandering, recovery time set aside for it, and absorption available when the task deserves it.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Breath anchoring](https://clemvillatte.github.io/flourishing-compendium/#card=K100%20%E2%80%94%20Breath%20anchoring): resting attention on the physical sensation of breathing, noting where it went, returning; the return is the practice, not a failure.
 
@@ -271,7 +271,7 @@ The two papers do not contradict each other: one measures the average mood while
 
 16. [Shared attention](https://clemvillatte.github.io/flourishing-compendium/#card=K357%20%E2%80%94%20Shared%20attention): with another person, attending to the same thing — a view, music, food tasted together — with the talking left out; the practice takes its shape from joint attention, and from the laboratory finding that shared experiences are stronger than solitary ones.
 
-17. [Flow block](https://clemvillatte.github.io/flourishing-compendium/#card=K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are the compendium's protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow.
+17. [Flow block](https://clemvillatte.github.io/flourishing-compendium/#card=K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are my protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow.
 
 The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family — that attention is trainable — is the AT006 principle, and the cards above carry its evidence.
 
@@ -279,7 +279,7 @@ The evidence limits are uneven across the list, and the kernels say so where it 
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The contemplative trainings
 

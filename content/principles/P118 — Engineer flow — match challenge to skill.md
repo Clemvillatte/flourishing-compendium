@@ -22,7 +22,7 @@ Fong, Zaleski and Leach (2015) pooled 28 studies. Flow, they write, is "characte
 
 The same abstract reports "weaker correlations when individuals were from an individualistic culture, in work or education contexts, using experience sampling method, and self-reporting state flow vs. trait." A later paper reads this as a questioning of how robust the balance is, moderated by "age, culture, and the activity domain", and suggests high challenge may not always be needed ([Where do people experience flow](https://www.tandfonline.com/doi/full/10.1080/23311908.2025.2538737)). So "match challenge to skill" is a well-supported rule of thumb, not a precise law, and the principle's own job example is a work setting, one of those with weaker correlations.
 
-### What is the compendium's
+### What is my
 
 "Raise skill, not always lower challenge" and "boredom is a skills surplus" are practical readings. They fit the model (if challenge sits below skill, one fix is to raise challenge), but the meta-analysis does not test them.
 

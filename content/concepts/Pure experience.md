@@ -19,10 +19,10 @@ James's fuller definition: "'Pure experience' is the name which I gave to the im
 
 Nishida's Inquiry opens with the same move: experience prior to judgment. In the Stanford Encyclopedia's quotation, "the moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be (Nishida 1911c: 3). The entry notes his notion of pure experience "clearly shows the influence of William James, Ernst Mach, and others, but it differs from their notions" by its emphasis on the non-individuated character and seamless development of such experience. For Nishida, pure experience reaches further than awareness: it is "the fundamental form of reality, indeed the 'one and only reality' from which all differentiated phenomena are to be understood."
 
-### In the compendium
+### Here
 
 - [[P066 — Rest in pure experience before the splits]] — the dedicated principle.
-- [[K001 — Return to experience before the labels]] and [[K112 — Scheduled empty time]] — the compendium's practice kernels for it.
+- [[K001 — Return to experience before the labels]] and [[K112 — Scheduled empty time]] — my practice kernels for it.
 - [[B044 — Just sit (zazen, shikantaza)]] and [[B087 — Trust the luminous mind — defilements are visitors]] — the Buddhist parallels: seated practice as the enactment of non-divided experience.
 - [[B019 — Awakening is available in this life]], [[B061 — Trust original purity — nothing to attain]], [[B176 — Treat the present moment as the miracle]] and [[B198 — Freedom is now — nothing to wait for]] — the present-moment family.
 - [[CO001 — Understand that cognition is predictive, not passive]] and [[CO008 — Understand that thinking is constructivist — you build your understanding]] — the cognitive-science kinship: the subject-object division as construction.

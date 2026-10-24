@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 28** — Guard your speech; it is your face's edge
 
-Chapter 22 of Book VI presents a father's advice to his son about speaking slowly, deliberately and moderately, and softening his voice. The advice warns that hurried or loud speech can affect how others describe the speaker. The compendium applies this counsel to everyday conversations.
+Chapter 22 of Book VI presents a father's advice to his son about speaking slowly, deliberately and moderately, and softening his voice. The advice warns that hurried or loud speech can affect how others describe the speaker. I applie this counsel to everyday conversations.
 
 > "Moderately, middlingly art thou to carry, to emit thy spirit, thy words. And thou art to improve, to soften thy words, thy voice." (Florentine Codex, Book 6, ch. 22, Anderson and Dibble translation, p. 122)
 

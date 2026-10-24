@@ -18,7 +18,7 @@ The Stoic picture of pursuing an indifferent, from the encyclopedia's account:
 
 > "For this reason, the virtuous agent will typically pursue (e.g.) health and undertake the further steps needed to obtain it (e.g. eat salad, exercise, etc.), even though her successful acquisition of health – her actually being healthy rather than unhealthy – makes no difference to her happiness and is neither good nor bad." — [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
-A fast is the same stance run in reverse: the indifferent is set aside for a week, and the day is watched to see what the setting-aside costs. The weekly form is the compendium's editorial design.
+A fast is the same stance run in reverse: the indifferent is set aside for a week, and the day is watched to see what the setting-aside costs. The weekly form is my own design.
 
 ### Protocol
 

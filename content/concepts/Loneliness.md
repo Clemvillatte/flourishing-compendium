@@ -32,7 +32,7 @@ Cross-traditionally, solitude is often reframed: contemplative traditions distin
 
 One honest look per week at the gap: which relationships are wanted, which are had, and one small message sent to the truest gap. (Illustrative scenario, not a reported participant or study result.)
 
-### In the compendium
+### Here
 
 - [[PP031 — Address loneliness as a signal, not a failing]] — the signal framing
 - [[AF058 — Recognise loneliness — it is a signal, not a character flaw]] — the psychology-parallel form

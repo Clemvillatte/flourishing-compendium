@@ -18,7 +18,7 @@ The same page records that the popular misquotation "The greatest enemy of knowl
 
 The bias has been studied in the lab under the name illusion of explanatory depth. A BBC feature by David Robson summarises the founding study: "The illusion of knowledge – also called the 'illusion of explanatory depth' – first came to light in 2002", and "Rozenblit and Keil found that the participants' initial appraisals of their understanding were often dramatically optimistic" ([BBC, 2022](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident)). The check is simple and costly to self-image: "They assumed they could write paragraphs on the subject, but often failed to offer more than the barest gist of an answer – and afterwards, many expressed surprise at how little they knew" ([BBC, 2022](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident)).
 
-### In the compendium
+### Here
 
 - [[CO026 — Recognise the illusion of explanatory depth — you understand less than you think]] — the principle that turns the explain-it test into practice
 - [[Y017 — Catch distortion early]] — the Yoga-Vedanta principle on false understanding, which pairs unsound intellection with this modern finding

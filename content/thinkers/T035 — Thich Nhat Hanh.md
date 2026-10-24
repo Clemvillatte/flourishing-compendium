@@ -33,9 +33,9 @@ On hurry: "If while washing dishes, we think only of the cup of tea that awaits 
 - **Mindfulness in daily life** — "washing the dishes to wash the dishes," the bell of mindfulness, eating and walking as practice ([The Miracle of Mindfulness](https://web.archive.org/web/20260308111657/https://truthbrary.mpaq.org/BOOKS/Spirituality%2C%20Meditation%2C%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)). See [[B168 — Do one thing at a time|Do one thing at a time]], [[B169 — Eat mindfully|Eat mindfully]], [[B188 — Use ordinary cues as bells|Use ordinary cues as bells]].
 - **Walking meditation** — walking with full attention as a core practice of his tradition ([Wikipedia, Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh)). See [[Walking meditation]], [[B187 — Walk in peace|Walk in peace]], [[BI060 — Learn mindful movement — walking meditation, yoga, tai chi|Learn mindful movement: walking meditation, yoga, tai chi]].
 - **Deep listening and loving speech** — he promoted deep listening as a nonviolent solution to conflict ([Wikipedia, Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh)). See [[Deep listening]], [[B147 — Listen deeply|Listen deeply]], [[B148 — Speak lovingly|Speak lovingly]].
-- **Mind transformation through seeds** — the mind holds mental formations as seeds: "Any seed that manifests in your mind consciousness returns to your store consciousness stronger than ever" ([Thich Nhat Hanh, Lion's Roar](https://www.lionsroar.com/watering-the-seeds-of-happiness/)); the compendium compares the model with conditioning. See [[B185 — Water the good seeds|Water the good seeds]], [[B184 — Recognize habit energy|Recognize habit energy]].
+- **Mind transformation through seeds** — the mind holds mental formations as seeds: "Any seed that manifests in your mind consciousness returns to your store consciousness stronger than ever" ([Thich Nhat Hanh, Lion's Roar](https://www.lionsroar.com/watering-the-seeds-of-happiness/)); I compare the model with conditioning. See [[B185 — Water the good seeds|Water the good seeds]], [[B184 — Recognize habit energy|Recognize habit energy]].
 
-## Everything connected in the wiki — the Plum Village tradition
+## Everything connected here — the Plum Village tradition
 
 Kept to the pages that carry or substantively apply his teaching: the mindfulness practices, interbeing and engaged Buddhism, and the principles written directly from his instructions.
 
@@ -66,7 +66,7 @@ Kept to the pages that carry or substantively apply his teaching: the mindfulnes
 - [[Y046 — Move the body as contemplative practice|Move the body as contemplative practice]]
 
 ### Concepts (10)
-- [[Behaviorism]] — carries the compendium's comparison between his seed model and conditioning
+- [[Behaviorism]] — carries my comparison between his seed model and conditioning
 - [[Conversation as method]]
 - [[Deep listening]]
 - [[Dependent origination]]

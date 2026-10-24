@@ -13,7 +13,7 @@ Manaakitanga is the Māori value of care and hospitality: the practice of showin
 
 The dictionary gives this example: "Kore rawa rātou e wareware ki ēnei manaakitanga ā mate noa rātou" ("They will never ever forget this hospitality until they die", TTT 1/8/1924:85) ([Te Aka Māori Dictionary](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga)).
 
-### In the compendium
+### Here
 
 - [[R027 — Practise manaakitanga]] carries this concept as its principle: treating each person as someone whose standing is partly in your keeping during the interaction.
 

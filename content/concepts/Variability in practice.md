@@ -16,7 +16,7 @@ The study ran with 126 seventh-grade students over three months. Every student r
 
 The one-day gap gave a moderate benefit (d = 0.42); the thirty-day gap gave a large one (d = 0.79) ([Rohrer et al. 2015](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)).
 
-### In the compendium
+### Here
 
 - [[P101 — Repeat with difference — never pure repetition]]
 - [[AF010 — Recognise that affect has temporal structure — intensity, duration, variability, recovery]]

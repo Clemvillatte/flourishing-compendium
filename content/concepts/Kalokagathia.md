@@ -17,7 +17,7 @@ Plato, the Wikipedia article notes, coined agathos kai sophos, good and wise, to
 
 **Plain words** Two grades of good person. The merely good man is good because natural goods are good for him; he holds virtue for their sake. The kalos kagathos is good because fine things are his on their own account, and he does fine actions for their own sake. The same goods, done from a different centre.
 
-### In the compendium
+### Here
 
 - [[Kalokagathia]]: this page's own subject, retained here for link integrity
 

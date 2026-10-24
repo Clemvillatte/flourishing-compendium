@@ -15,7 +15,7 @@ DBT Biosocial Theory is Marsha Linehan's account of how emotion dysregulation de
 
 Linehan's model proposes broad dysregulation across all aspects of emotional responding: individuals with BPD have heightened emotional sensitivity, inability to regulate intense emotional responses, and a slow return to emotional baseline ([Crowell, Beauchaine and Linehan 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2696274/)). The environmental half is the invalidating environment, "characterized by intolerance toward the expression of private emotional experiences, in particular emotions that are not supported by observable events" ([Crowell, Beauchaine and Linehan 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2696274/)). The model holds that such environments intermittently reinforce extreme expressions of emotion while communicating that emotional displays are unwarranted; consequently the child "does not learn how to understand, label, regulate, or tolerate emotional responses and instead learns to oscillate between emotional inhibition and extreme emotional lability" ([Crowell, Beauchaine and Linehan 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2696274/)).
 
-### In the compendium
+### Here
 
 - [[SE069 — Recognise identity disturbances — when self is fragmented]]: connects dysregulation to a fragmented self
 - [[AF079 — Recognise trauma's specific effects on affect — it is not the same as ordinary dysregulation]]: separates trauma's effects from ordinary dysregulation

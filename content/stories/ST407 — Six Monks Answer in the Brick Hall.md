@@ -16,9 +16,9 @@ The first monk thinks: if only he might live a day and a night, he would attend 
 
 The Buddha sorts them. Those who wish for a day and a night, a day, a meal or four morsels "are said to dwell heedlessly." They develop it slowly. Those who wish for a morsel or a breath "are said to dwell heedfully," and they develop it acutely, for the sake of ending the effluents. So the training is: "We will dwell heedfully" ([Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an06/an06.019.than.html)). Sujato has "negligently" and "diligently" where Thanissaro has "heedlessly" and "heedfully."
 
-The compendium sets this beside B193. The point of the exchange is about how near the horizon is held, not whether anyone remembers death. The failure it names is a comfortable distance.
+I set this beside B193. The point of the exchange is about how near the horizon is held, not whether anyone remembers death. The failure it names is a comfortable distance.
 
-Limits: the sutta's motive is the use of time for practice, and fear of death is not mentioned. A person with anxiety about death may not be helped by a one-breath horizon, and the sutta does not say how it should feel. "Lightly" in the principle's title is the compendium's word, not the sutta's. The Buddha does not say the first four monks were wrong to practice, only slow.
+Limits: the sutta's motive is the use of time for practice, and fear of death is not mentioned. A person with anxiety about death may not be helped by a one-breath horizon, and the sutta does not say how it should feel. "Lightly" in the principle's title is my word, not the sutta's. The Buddha does not say the first four monks were wrong to practice, only slow.
 
 **Principles:**
 - [[B193 — Live with death lightly in view]]: the six answers show what keeping death in view at different distances does to a practitioner's urgency.

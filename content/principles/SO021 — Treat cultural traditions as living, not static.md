@@ -18,7 +18,7 @@ Gadamer's account of understanding treats tradition as something the participant
 
 (Gadamer, "Truth and Method", 2nd rev. ed., p. 293, [open full text, Internet Archive](https://archive.org/details/gadamer-truth-and-method).)
 
-Gadamer describes understanding as participation in the continuing formation of tradition. The compendium proposes a separate exercise for cultural participation: choose one practice and consider what you would retain, change or discuss with other participants.
+Gadamer describes understanding as participation in the continuing formation of tradition. I propose a separate exercise for cultural participation: choose one practice and consider what you would retain, change or discuss with other participants.
 
 **Plain words** Choose a tradition you take part in. Describe how it is practised now and, where you know, how earlier participants practised it. Note what you would keep, change or ask about, and discuss those choices with others involved.
 

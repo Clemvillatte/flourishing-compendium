@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### What it is
 
-The compendium uses this title for the scale of mind Zhuangzi celebrates in the opening chapter of the Inner Chapters. The cicada and the dove laugh at the great Peng bird's ninety-thousand-li flight because their own world ends at the nearest tree, and the narrator states the point as a fact of scale: "The knowledge of that which is small does not reach to that which is great; (the experience of) a few years does not reach to that of many" (Zhuangzi, Inner Chapters 1, trans. Legge, [ctext.org](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)). The morning mushroom does not know the month; the cicada does not know spring from autumn.
+I use this title for the scale of mind Zhuangzi celebrates in the opening chapter of the Inner Chapters. The cicada and the dove laugh at the great Peng bird's ninety-thousand-li flight because their own world ends at the nearest tree, and the narrator states the point as a fact of scale: "The knowledge of that which is small does not reach to that which is great; (the experience of) a few years does not reach to that of many" (Zhuangzi, Inner Chapters 1, trans. Legge, [ctext.org](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)). The morning mushroom does not know the month; the cicada does not know spring from autumn.
 
 ### What it carries
 

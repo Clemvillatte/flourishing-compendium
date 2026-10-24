@@ -39,7 +39,7 @@ Anyone who has tried to fall asleep by effort knows the knot. Slingerland argues
 
 Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Ding still carves the ox. The claim concerns how the act is done, with what purpose and with how much force, not whether anything gets done.
 
-### In the compendium
+### Here
 
 - [[D055 — Don't force]] — takes the warning from Daodejing 29 and 64 that seizing a thing destroys it
 - [[P082 — Cultivate skill — knowing-how that flows]] — builds on Cook Ding's knife that follows the joints

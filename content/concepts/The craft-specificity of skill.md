@@ -15,7 +15,7 @@ The craft-specificity of skill is the Dreyfus brothers' claim that expertise bel
 
 The expertise is the repertoire. The same summary describes how it is built: "with enough experience in a variety of situations, all seen from the same perspective but requiring different tactical decisions, the brain of the expert gradually decomposes this class of situations into subclasses, each of which requires a specific response." The training also starts inside the craft: the instructor begins by "decomposing the task environment into context-free features" the beginner can recognize. Skill grows by concrete experience rather than abstract principles, so the expert's intuition is indexed to the craft that trained it.
 
-### In the compendium
+### Here
 
 - [[SE061 — Recognise self-efficacy is domain-specific — not general confidence]] — cites this model as its philosophy parallel: skill and the confidence built on it are assembled domain by domain
 

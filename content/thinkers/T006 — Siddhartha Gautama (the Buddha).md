@@ -37,7 +37,7 @@ Mind is the forerunner: "All that we are is the result of what we have thought: 
 - **Be your own island** — the teaching points; the crossing is yours, and the raft is dismantled after the crossing. See [[B194 — Be your own island (attadipa)|B194]], [[B195 — Be a lamp unto yourself|B195]], [[B127 — Dismantle the raft when you've crossed|B127]], [[The raft]], [[The Kalama principle]].
 - **Loving-kindness (metta) and protection** — protecting others, you protect yourself. See [[B157 — Protecting others, you protect yourself|B157]], [[Metta (loving-kindness)]], [[K166 — Sympathetic joy|K166]].
 
-## Connected in the wiki — the Buddhist tradition
+## Connected here — the Buddhist tradition
 
 The page keeps the B principles plus entries from other books citing the suttas or Dhammapada, with the concepts, kernels, stories and sayings keyed to him; later Buddhist reception is kept as tradition, not as Gautama's sermons (B061 is Bankei's Japanese Zen, B161 the Linji-lu koan, Original enlightenment and Interbeing later developments).
 

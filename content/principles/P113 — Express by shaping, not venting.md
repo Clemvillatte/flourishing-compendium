@@ -20,7 +20,7 @@ This is an account of artistic expression, not a timetable for recovering from d
 
 ### Plain words
 
-Give the feeling something specific to work through: a paragraph, a tune, a drawing. Make choices about what to keep and what to change, and notice whether those choices alter what you are trying to say. The compendium suggests this as an experiment in expression, without requiring a polished result or a promise of relief.
+Give the feeling something specific to work through: a paragraph, a tune, a drawing. Make choices about what to keep and what to change, and notice whether those choices alter what you are trying to say. I suggest this as an experiment in expression, without requiring a polished result or a promise of relief.
 
 ### For example
 

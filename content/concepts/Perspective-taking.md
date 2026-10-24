@@ -7,7 +7,7 @@ file: "Perspective-taking"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Perspective-taking is the effort to see a situation from another person's point of view. It is widely assumed to build understanding,, and the compendium treats it as a trainable skill. The best test of that assumption is Eyal, Steffel and Epley's 2018 paper, whose abstract opens: "Taking another person's perspective is widely presumed to increase interpersonal understanding."
+Perspective-taking is the effort to see a situation from another person's point of view. It is widely assumed to build understanding,, and I treat it as a trainable skill. The best test of that assumption is Eyal, Steffel and Epley's 2018 paper, whose abstract opens: "Taking another person's perspective is widely presumed to increase interpersonal understanding."
 
 ### What the evidence says
 
@@ -15,13 +15,13 @@ The same abstract reports 25 experiments on whether instructing people to adopt 
 
 > "Although a large majority of pretest participants believed that perspective taking would systematically increase accuracy on these tasks, we failed to find any consistent evidence that it actually did so. If anything, perspective taking decreased accuracy overall while occasionally increasing confidence in judgment." (Eyal, Steffel & Epley, 2018, [PubMed](https://pubmed.ncbi.nlm.nih.gov/29620401/))
 
-Two details matter. Perspective-taking did reduce egocentric bias, "but the information used in its place was not systematically more accurate". And a final experiment found that "getting another person's perspective directly, through conversation, increased accuracy but that perspective taking did not". The authors' conclusion: "Understanding the mind of another person is therefore enabled by getting perspective, not simply taking perspective." That is why the compendium keeps [[Perspective-getting]] beside this entry.
+Two details matter. Perspective-taking did reduce egocentric bias, "but the information used in its place was not systematically more accurate". And a final experiment found that "getting another person's perspective directly, through conversation, increased accuracy but that perspective taking did not". The authors' conclusion: "Understanding the mind of another person is therefore enabled by getting perspective, not simply taking perspective." That is why I keep [[Perspective-getting]] beside this entry.
 
 A critique in Psychology Today notes the control groups may have been taking perspective anyway, so the experiments show that the instruction added little, not that the skill has no value. The question is still open.
 
 ### Reading it for practice
 
-Imagining another person's view is cheap and can loosen a rigid first reading, but it should not be mistaken for knowledge of what they think. Where asking is possible, ask. Where it is not, hold the imagined view as a guess. The Confucian [[Shu]], which the compendium renders as reciprocity, is an older relative of the habit.
+Imagining another person's view is cheap and can loosen a rigid first reading, but it should not be mistaken for knowledge of what they think. Where asking is possible, ask. Where it is not, hold the imagined view as a guess. The Confucian [[Shu]], which I render as reciprocity, is an older relative of the habit.
 
 ### What it is not
 
@@ -31,7 +31,7 @@ Taking a perspective is not agreeing with it, and it is not surrendering one's o
 
 Before replying to an email that stung, write one sentence from the sender's likely constraints, then, if possible, ask a question instead of sending a verdict. (Illustrative scenario, not a reported case.)
 
-### In the compendium
+### Here
 
 - [[SO033 — Treat perspective-taking as a skill]] and [[K046 — Practice the exchange deliberately, as a skill]] — the skill framing
 - [[CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait]] — pairs it with wise reasoning

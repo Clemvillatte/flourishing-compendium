@@ -20,7 +20,7 @@ His verdict on the arrangement:
 
 > "I believe it to be of all forms of government the most natural, and the most consonant with individual liberty." ([ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992))
 
-The compendium's application: wherever you hold a say, in a family, a workplace or a community, find out what is proposed and use the say.
+My application: wherever you hold a say, in a family, a workplace or a community, find out what is proposed and use the say.
 
 **Plain words** You remain one of the people entitled to help decide. Using that standing takes some work: find out what is proposed, ask questions, and cast your vote.
 

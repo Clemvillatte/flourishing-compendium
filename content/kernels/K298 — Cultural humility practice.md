@@ -18,7 +18,7 @@ Tutu's passage, from No Future Without Forgiveness:
 
 > "We say, 'A person is a person through other persons.' It is not, 'I think therefore I am.' It says rather: 'I am human because I belong. I participate, I share.'" — [Desmond Tutu, No Future Without Forgiveness (1999), excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/)
 
-The questions-first and listen-first rules are the compendium's editorial design; the belonging is Tutu's ([No Future Without Forgiveness excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/)).
+The questions-first and listen-first rules are my own design; the belonging is Tutu's ([No Future Without Forgiveness excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/)).
 
 ### Protocol
 

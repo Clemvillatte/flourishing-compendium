@@ -18,7 +18,7 @@ Zhuangzi and Huizi watch fish from the dam over the Hao. Huizi asks how Zhuangzi
 
 > "You are not I. How do you know that I do not know what constitutes the enjoyment of fishes?" (Zhuangzi 17, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium's practical reading takes Huizi's objection as the warning: you are not the other person, so your reading of their inner life is a reading rather than a report. Zhuangzi's rejoinder shows the objection cuts both ways: the frame that says you cannot know is itself a claim somebody is making about somebody, and it can be met with its own question. The compendium's application is the listening practice: offer the view, keep the question open, and weigh their reply against your projection.
+My practical reading takes Huizi's objection as the warning: you are not the other person, so your reading of their inner life is a reading rather than a report. Zhuangzi's rejoinder shows the objection cuts both ways: the frame that says you cannot know is itself a claim somebody is making about somebody, and it can be met with its own question. My application is the listening practice: offer the view, keep the question open, and weigh their reply against your projection.
 
 **Plain words** Before telling someone what they feel, separate what you observed from your interpretation. Ask whether your reading fits, and be willing to revise it. Check whether you are assuming they share your preferences.
 

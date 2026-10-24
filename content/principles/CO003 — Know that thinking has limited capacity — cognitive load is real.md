@@ -28,7 +28,7 @@ Arnsten's review says the prefrontal cortex "is also the brain region that is mo
 
 ### What the sources do not show
 
-The principle lists "distraction" and "fatigue" too. None of the abstracts above addresses them. "Not a character flaw" and "manage the load, not the blame" are the compendium's advice, not findings. The ego-depletion parallel further down this page is not relied on.
+The principle lists "distraction" and "fatigue" too. None of the abstracts above addresses them. "Not a character flaw" and "manage the load, not the blame" are my advice, not findings. The ego-depletion parallel further down this page is not relied on.
 
 (Cowan, 2001; Sweller, 1988; Arnsten, 2009.)
 

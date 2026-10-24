@@ -21,7 +21,7 @@ The same article re-examined the classic Brickman et al. (1978) disability findi
 
 The article's conclusion is not that people bounce back to nothing, nor that events permanently scar. Its five revisions: set points are not hedonically neutral; people have different set points, partly temperament; the components of well-being can move in different directions; set points can change under some conditions; and individuals differ in their adaptation to events. The average curve in a panel study hides those individual differences.
 
-### In the compendium
+### Here
 
 - [[B002 — Assume change (anicca)]]
 - [[SE036 — Learn to revise your identity — change is possible]]

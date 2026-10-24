@@ -29,7 +29,7 @@ The 1993 abstract lists the adaptive problems the theory treats as context-sensi
 
 Illustrative scenario, not a reported study: a person who dates casually for years and then, wanting children, weights reliability and commitment in partners differently. On the theory's account the same person holds both strategies, and the situation determines which preferences are active.
 
-### In the compendium
+### Here
 
 - [[D156 — Stay flexible — rigidity is death's companion]] — Laozi's chapter 76 on suppleness versus rigidity
 - [[SO044 — Treat the WEIRD critique as a standing corrective]] — the question of whether psychology findings generalize beyond the WEIRD lab

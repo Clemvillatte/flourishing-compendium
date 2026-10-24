@@ -34,7 +34,7 @@ A 2019 replication of the original violin design did not reproduce the core find
 
 > “We did not replicate the core finding that accumulated amounts of deliberate practice corresponded to each skill level. Overall, the size of the effect was substantial, but considerably smaller than the original study's effect size.” (Macnamara and Maitra 2019, [R Soc Open Sci 6(8):190327](https://pubmed.ncbi.nlm.nih.gov/31598236/), abstract)
 
-### In the compendium
+### Here
 
 - [[PP020 — Build feedback into practice]] and [[P109 — Pair every experience with reflection]] — the feedback and reflection components
 - [[D072 — Learn by doing, not only by reading]] and [[BE060 — Engage in mastery behaviour — build competence through practice]] — practice as the route to competence

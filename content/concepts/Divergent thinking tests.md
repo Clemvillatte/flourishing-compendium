@@ -7,7 +7,7 @@ file: "Divergent thinking tests"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The compendium uses "Divergent thinking tests" for the standard tasks creativity researchers use to measure the generation of many varied responses. A definition from the creativity literature:
+I use "Divergent thinking tests" for the standard tasks creativity researchers use to measure the generation of many varied responses. A definition from the creativity literature:
 
 > "Divergent thinking is the ability to produce a range of responses or solutions and is an element of creative processing." (Leon, Altmann, Abrams, Gonzalez Rothi and Heilman 2014, abstract, [Creativity Research Journal](https://pmc.ncbi.nlm.nih.gov/articles/PMC5403144/))
 
@@ -19,7 +19,7 @@ A test used extensively in this literature is the Alternate Uses test, attribute
 
 The test was "designed to assess flexibility, originality, elaboration and fluency" (Leon et al. 2014, [Creativity Research Journal](https://pmc.ncbi.nlm.nih.gov/articles/PMC5403144/)). The paper describes how responses are scored: "Responses can be analyzed in for fluency (number of responses produced), flexibility (number of categories responses fell into), and originality (or uniqueness)" (Leon et al. 2014, [Creativity Research Journal](https://pmc.ncbi.nlm.nih.gov/articles/PMC5403144/)).
 
-### In the compendium
+### Here
 
 - [[PP053 — Practise divergent thinking]]: practises what the tests measure
 - [[PP051 — Treat creativity as a process, not a trait]]: creativity treated as process rather than trait

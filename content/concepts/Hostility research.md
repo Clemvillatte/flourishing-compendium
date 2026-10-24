@@ -17,7 +17,7 @@ The authors' own summary of the field: "The current review suggests that anger a
 
 The association survived the review's main analyses, but the picture has a caveat the researchers themselves flagged. In a subgroup analysis of studies that controlled for behavioral covariates such as smoking, physical activity, body mass index, socioeconomic status and disease treatment, the association of anger and hostility with CHD was no longer statistically significant, "suggesting that the major pathway between anger and hostility and CHD might be behavioral risk factors" ([American College of Cardiology press release](https://www.acc.org/about-acc/press-releases/2010/02/22/13/35/9-2)). The pathway remains an open question, and the press release presents it as a possibility, not a finding.
 
-The compendium's principle on meeting ill will with warmth is B080.
+My principle on meeting ill will with warmth is B080.
 
 ## Related concepts
 

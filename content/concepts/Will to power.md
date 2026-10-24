@@ -7,7 +7,7 @@ file: "Will to power"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-The will to power is Friedrich Nietzsche's name for the fundamental drive he ascribes to living things: not self-preservation, which Beyond Good and Evil 13 warns against as a superfluous teleological principle, but the discharge of strength. The concept runs through Beyond Good and Evil (1886) and Thus Spoke Zarathustra, and the compendium's page for it carries two inherited facets: as self-overcoming and as organising principle.
+The will to power is Friedrich Nietzsche's name for the fundamental drive he ascribes to living things: not self-preservation, which Beyond Good and Evil 13 warns against as a superfluous teleological principle, but the discharge of strength. The concept runs through Beyond Good and Evil (1886) and Thus Spoke Zarathustra, and my page for it carries two inherited facets: as self-overcoming and as organising principle.
 
 > "A living thing seeks above all to DISCHARGE its strength—life itself is WILL TO POWER; self-preservation is only one of the indirect and most frequent RESULTS thereof." (Nietzsche, Beyond Good and Evil 13, Zimmern translation, [Gutenberg](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm))
 
@@ -15,11 +15,11 @@ The will to power is Friedrich Nietzsche's name for the fundamental drive he asc
 
 Beyond Good and Evil 36 presents the concept as a methodological wager rather than a doctrine. Noting that we cannot rise to any reality beyond our impulses, Nietzsche proposes "to posit hypothetically the causality of the will as the only causality," asking "whether will does not operate on will wherever 'effects' are recognized." If all organic functions traced back to one fundamental form of will, "one would thus have acquired the right to define ALL active force unequivocally as WILL TO POWER. The world seen from within... would simply be 'Will to Power,' and nothing else" (Beyond Good and Evil 36, [Zimmern translation](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm)). The passage's own register is conditional: granted these suppositions, the thesis follows.
 
-### The two facets in the compendium
+### The two facets here
 
-The page's inherited facets mark the concept's two lives. As organising principle, it is the BGE 36 wager: one force described from within. As self-overcoming, it is the practical reading the compendium's principles work with — E103's Selbstüberwindung and E108's practice principle — where the strength discharged is one's own form of life, overcome and remade. E103's own page ties the drive to the Zarathustra chapter "Of Self-Overcoming": "Wherever I found a living thing, there found I Will to Power."
+The page's inherited facets mark the concept's two lives. As organising principle, it is the BGE 36 wager: one force described from within. As self-overcoming, it is the practical reading my principles work with — E103's Selbstüberwindung and E108's practice principle — where the strength discharged is one's own form of life, overcome and remade. E103's own page ties the drive to the Zarathustra chapter "Of Self-Overcoming": "Wherever I found a living thing, there found I Will to Power."
 
-### In the compendium
+### Here
 
 - [[E108 — Practise the will to power]] — the dedicated principle.
 - [[E103 — Practise self-overcoming (Selbstüberwindung)]] — the self-overcoming facet.

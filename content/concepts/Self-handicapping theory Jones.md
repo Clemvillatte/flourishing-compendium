@@ -23,7 +23,7 @@ The review follows the strategy to its costs. It gives drugs, alcohol and procra
 
 Jones and Berglas's own illustration, as the review retells it, is the alcoholic who keeps both the handicap and the belief that life would be ideal once the drinking stopped, and who may rely on what they called the mañana fantasy: the thought that in time, when the spirit moves one, genuine effort might still produce success.
 
-### In the compendium
+### Here
 
 - [[Y081 — Hold powers and peak experiences lightly]] — the Yoga Sutras treat the powers of deep practice as obstacles rather than prizes
 - [[E105 — Practise amor fati]] — Nietzsche's resolution to love fate rather than wage war with the ugly

@@ -25,7 +25,7 @@ Beckes and Coan describe a study by Coan, Schaefer and Davidson (2006) in which 
 
 The authors flag the status of their own claims: "some of the specific ideas discussed below are speculative and remain to be tested." They also treat SBT as related to attachment theory but different, since its mechanisms of risk distribution and load sharing are distinct from Bowlby's.
 
-### In the compendium
+### Here
 
 - [[P003 — Relation is primary]], [[B015 — Nothing exists alone (interbeing)]] and [[B143 — Emptiness is relational fullness]] cite this concept as a psychology parallel.
 - [[B037 — Choose your companions wisely (kalyanamitta)]] and [[PP048 — Practise recovery as a skill]] cite it as well.

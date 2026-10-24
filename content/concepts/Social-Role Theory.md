@@ -29,7 +29,7 @@ The theory gives a structural reading of gender differences: they arise primaril
 
 An everyday-life illustration (imagined, not a documented study): in a family where one partner becomes the primary caregiver and the other the primary earner, each comes to be expected to be what the role rewards — the one attuned to the children's needs, the other to providing and leading. The theory would read those expectations as the role talking, not as fixed essences of the two people.
 
-### In the compendium
+### Here
 
 - [[SO055 — Treat gender as a cultural system]]: the theory is a mechanism account for how a culture's gender assignments become behaviour
 - [[SO006 — Treat the social environment as a designable context]]: roles are the designable part of the environment

@@ -13,7 +13,7 @@ In Being and Time, Heidegger's example is the tool: in ordinary use it is transp
 
 The lesson is broader than tools: "most inanimate objects that we encounter in our everyday lives are disclosed in the first instance as available". "Normally we are swept along in purposively engaging with available entities, which show up precisely in terms of their practical significance". In breakdown, attention is drawn to "the material foundations of available equipment" — the tool seen as a thing rather than used as a means.
 
-### In the compendium
+### Here
 
 - [[ST266 — The Hammer Breaks]] is this concept's story
 - [[P031 — Choose vocabularies by what they let you do]] and [[SP088 — Expect the excellent to be difficult and rare]] are its principle parallels

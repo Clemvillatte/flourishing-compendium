@@ -45,7 +45,7 @@ Imagine someone with social anxiety building a hierarchy: coffee with one friend
 - **[[The thousand-mile journey|The thousand-mile journey]]** (Laozi, Daodejing 64) — "the journey of a thousand li commenced with a single step" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 - **[[Courage built gradually|Courage built gradually]]** (Aristotle) — "by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly" (Nicomachean Ethics II.1, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-Cross-tradition parallels above are the compendium's analogies between graded clinical exposure and older step-by-step accounts of training; they are not claims of equivalent mechanisms.
+Cross-tradition parallels above are my analogies between graded clinical exposure and older step-by-step accounts of training; they are not claims of equivalent mechanisms.
 
 ## Practice
 

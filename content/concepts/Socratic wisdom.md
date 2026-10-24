@@ -25,7 +25,7 @@ The advantage Socrates claims over the politicians, poets and artisans he examin
 
 The advantage is not owning knowledge but a disposition toward it: not thinking you know what you do not. That is why Socrates can call the oracle's answer a riddle he was obliged to test, and why the testing — questioning those reputed wise — became his life's work rather than a single verdict about himself.
 
-### In the compendium
+### Here
 
 - [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — the fallibility principle in the same register
 

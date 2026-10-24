@@ -17,14 +17,14 @@ Butler's 2011 paper proposed the framework the term rests on. The abstract state
 
 The framework is a temporal one: it looks at how two partners' emotional systems couple and dampen over time, and at what pushes the coupled system back toward each partner's baseline.
 
-### In the compendium
+### Here
 
 - [[P147 — Notice that you and the world co-constitute each other]] — the principle on co-constitution, against which the co-regulation literature supplies the empirical contrast.
 - [[AF073 — Learn co-regulation — affect is regulated with others, not just within]] — the principle takes the TIES framework and works it into a practice.
 
 ## Related concepts
 
-- [[The relational self]] — the concept the compendium pairs with co-regulation.
+- [[The relational self]] — the concept I pair with co-regulation.
 
 ## Sources
 

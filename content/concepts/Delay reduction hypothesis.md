@@ -19,9 +19,9 @@ Fantino and Romanowich (2007) review conditioned reinforcement and choice. They 
 
 ### Scope
 
-The compendium's earlier note credits "Chung, Herrnstein" and says immediacy is the powerful variable. Neither is covered by the abstracts checked here, so that attribution is unverified. The research is on pigeons and is only suggestive for people.
+My earlier note credits "Chung, Herrnstein" and says immediacy is the powerful variable. Neither is covered by the abstracts checked here, so that attribution is unverified. The research is on pigeons and is only suggestive for people.
 
-### In the compendium
+### Here
 
 - [[SO046 — Guard against in-group bias]] is the principle this concept was filed under. Nothing on that principle's page mentions delay or reinforcement, so the connection is not supported by the pages themselves.
 - [[Temporal discounting]] — the wider study of how delay lowers the value of rewards

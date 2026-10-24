@@ -15,9 +15,9 @@ On the evidence, the same review opens:
 
 > Numerous clinical trials support the efficacy of exposure and response prevention (ERP) for the treatment of obsessive-compulsive disorder (OCD). Accordingly, ERP has been formally recognized as a first-line, evidence-based treatment for OCD. (Law and Boisseau, [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/))
 
-The compendium's interest is the structure: an action taken while the discomfort runs and the ritual is refused. The parallels below pair the halves with the compendium's own kernels.
+My interest is the structure: an action taken while the discomfort runs and the ritual is refused. The parallels below pair the halves with my own kernels.
 
-### In the compendium
+### Here
 
 - [[BE026 — Learn exposure therapy principles — approach what you fear]] — the exposure half's principles
 - [[BE029 — Learn to use response prevention — block the compulsive behaviour]] — the compulsive-blocking half of the treatment

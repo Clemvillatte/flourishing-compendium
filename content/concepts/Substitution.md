@@ -15,9 +15,9 @@ Substitution is Emmanuel Levinas's term, from Otherwise Than Being, or, Beyond E
 
 Levinas builds the term from an analogy with language: a word stands in for a thing, and the self, similarly, stands in for another person. The SEP passage continues that the book "develops the parallel between semiotic 'substitution' of a word for a thing (the signifying function of all language) and the affective substitution of myself for an other, extended through a spectrum of acts of self-sacrifice, from daily empathy to interventions enacted for the other. This is what Levinas calls the one-for-the-other" ([SEP, Levinas, §2.4.1](https://plato.stanford.edu/entries/levinas/)). In the chapter named "Substitution" the picture hardens: the self is a hostage, answering for everything and everyone, and this assignment precedes freedom rather than following a decision.
 
-### In the compendium
+### Here
 
-- [[R094 — Practise substitution]] carries the teaching with the compendium's caution: Levinas's demand is heavier than ordinary kindness, and the principle's family-role example is an analogy, not his meaning.
+- [[R094 — Practise substitution]] carries the teaching with my caution: Levinas's demand is heavier than ordinary kindness, and the principle's family-role example is an analogy, not his meaning.
 
 ## Related concepts
 

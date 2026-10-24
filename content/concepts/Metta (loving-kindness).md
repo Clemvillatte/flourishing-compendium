@@ -31,7 +31,7 @@ A field experiment with 139 working adults, half randomly assigned to begin a pr
 
 The abstract reports emotions and resources measured over time; the sequence described above follows [Nyanaponika Thera's account](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006) of the traditional method.
 
-### In the compendium
+### Here
 
 - [[B051 — Practice loving-kindness (metta)]] — the direct practice principle
 - [[B097 — Wish well, starting with yourself]] — metta training begins with the self as example

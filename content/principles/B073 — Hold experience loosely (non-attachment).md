@@ -18,7 +18,7 @@ The Dhammapada runs one argument through four adjacent verses, from the dear, th
 
 > "Thus, the wise do not become attached, for fear arises from attachment. These [objects of attachment] pass away by themselves, so be firm and know this." (Shantideva, Bodhicharyavatara 8.19, the Tibetan version as rendered in the [Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf))
 
-The verses are addressed to people who love; the instruction concerns the clutch. In the compendium's reading, the bird image is about pressure: neither crush nor release, hold with a grip the thing can survive.
+The verses are addressed to people who love; the instruction concerns the clutch. In my reading, the bird image is about pressure: neither crush nor release, hold with a grip the thing can survive.
 
 **Plain words**
 Pick one thing you are holding tightly and run the verse's test on it: what grief and fear are already priced into the grip? Try loosening by one notch, keeping the holding, and notice what happens to the fear. The practice is calibration, and calibration only ever moves one notch at a time.

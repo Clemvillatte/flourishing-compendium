@@ -17,7 +17,7 @@ The pragmatist line on solidarity runs through Rorty's provocation and Bernstein
 
 Rorty's companion line names what the solidarity is made of: "human solidarity is based on a sense of a common danger, not on a common possession or a shared power" (Contingency, Irony and Solidarity, p. 91).
 
-### In the compendium
+### Here
 
 - [[P137 — Build solidarity without demanding consensus]] — lists the concept among its philosophy parallels.
 

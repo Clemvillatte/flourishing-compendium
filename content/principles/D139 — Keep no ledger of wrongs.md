@@ -18,7 +18,7 @@ Chapter 79 of the Daodejing begins with a difficulty: reconciliation after great
 
 (Daodejing 79, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-Despite this principle's title, the sage in the passage keeps the record. The compendium reads the image as an invitation to consider which claims you can leave unpressed. It offers no assurance that doing so will preserve a relationship, and need not mean abandoning protection or a debt you depend on.
+Despite this principle's title, the sage in the passage keeps the record. I read the image as an invitation to consider which claims you can leave unpressed. It offers no assurance that doing so will preserve a relationship, and need not mean abandoning protection or a debt you depend on.
 
 **Plain words** Remembering a wrong does not oblige you to bring it into every later conversation. Ask whether there is still something that needs settling, or whether you are using the old event to win a new argument.
 

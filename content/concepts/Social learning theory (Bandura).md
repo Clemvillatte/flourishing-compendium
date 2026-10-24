@@ -17,11 +17,11 @@ The founding demonstration: children watched an adult either play quietly or att
 
 Four processes must be in place for observation to become learning: attention ("observers must attend to the modeled behavior"), retention ("must be able to remember features of the behavior"), reproduction ("the implementation of it"), and motivation ("dependent on the motivations and expectations of the observer"). Bandura later shifted to a more cognitive perspective, "a major revision of the theory in 1977", adding self-efficacy as the engine.
 
-### In the compendium
+### Here
 
-The compendium's principles read modeling as a practice field with moral stakes. K252, "Moral exemplar modelling," is the concept's own kernel; S079, "Associate with people who make you better," selects the models; SP036's veneration and R060's self-cultivation are the Confucian arm, a tradition that built an entire curriculum on exemplars; BE004, "Understand that behaviour is learned — skills can be acquired," carries the theory's optimism; SE059's self-efficacy is Bandura's own later construct. R055's trustworthiness and R006's consensus-seeking are the virtues modeled. The pairing is thematic, not a claim of influence.
+My principles read modeling as a practice field with moral stakes. K252, "Moral exemplar modelling," is the concept's own kernel; S079, "Associate with people who make you better," selects the models; SP036's veneration and R060's self-cultivation are the Confucian arm, a tradition that built an entire curriculum on exemplars; BE004, "Understand that behaviour is learned — skills can be acquired," carries the theory's optimism; SE059's self-efficacy is Bandura's own later construct. R055's trustworthiness and R006's consensus-seeking are the virtues modeled. The pairing is thematic, not a claim of influence.
 
-The compendium's exemplar traditions and the Bobo doll agree on the mechanism and differ on the target: the same machinery that transmits aggression transmits virtue. That is the comparison worth an essay.
+My exemplar traditions and the Bobo doll agree on the mechanism and differ on the target: the same machinery that transmits aggression transmits virtue. That is the comparison worth an essay.
 
 ## Related concepts
 

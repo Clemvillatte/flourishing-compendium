@@ -15,9 +15,9 @@ The critique of ressentiment is Nietzsche's diagnosis of a moral psychology in O
 
 The psychology turns on where the valuation looks. Aristocratic valuation, on Nietzsche's account, begins with a triumphant affirmation of its own demands; slave morality, "says 'no' from the very outset to what is 'outside itself,' 'different from itself,' and 'not itself' — and this 'no' is its creative deed." The weak cannot strike back in deeds, so they strike back in values: the strong are named evil, and the weaknesses of the weak are renamed virtues. The passage's structural insight is that slave morality "requires as the condition of its existence an external and objective world... it requires objective stimuli to be capable of action at all — its action is fundamentally a reaction." A reactive life needs an enemy to define it.
 
-The compendium's use is diagnostic rather than genealogical. The question the critique trains is whether one's moral feelings are affirmations or disguised revenge: whether one's indignation names a wrong one could act on, or whether it is the imaginary revenge of a person who has decided the world's strength is a crime.
+My use is diagnostic rather than genealogical. The question the critique trains is whether one's moral feelings are affirmations or disguised revenge: whether one's indignation names a wrong one could act on, or whether it is the imaginary revenge of a person who has decided the world's strength is a crime.
 
-### In the compendium
+### Here
 
 - [[SP032 — Treat indignation carefully]] — the practice rule the critique grounds
 - [[D129 — Repay injury with virtue]] — the alternative to imaginary revenge

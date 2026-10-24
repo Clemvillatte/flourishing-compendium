@@ -7,7 +7,7 @@ file: "Experience plus reflection"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-"Experience plus reflection" is the compendium's label for a Deweyan pairing: experience and reflection, each incomplete without the other. His definition of reflective thinking: "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends" ([How We Think, 1910](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). Raw experience, as the data of reflection, is "isolated, fragmentary, and discrepant"; thinking organizes it into a whole in which the fragments find their proper place ([How We Think](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)).
+"Experience plus reflection" is my label for a Deweyan pairing: experience and reflection, each incomplete without the other. His definition of reflective thinking: "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends" ([How We Think, 1910](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). Raw experience, as the data of reflection, is "isolated, fragmentary, and discrepant"; thinking organizes it into a whole in which the fragments find their proper place ([How We Think](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)).
 
 ### Trying and undergoing
 
@@ -17,13 +17,13 @@ Democracy and Education gives the dual structure: on the active side "experience
 
 Dewey's definition of education follows directly: "that reconstruction or reorganization of experience which adds to the meaning of experience, and which increases ability to direct the course of subsequent experience" ([Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm)). And How We Think closes the circle: "experience also includes the reflection that sets us free from the limiting influence of sense, appetite, and tradition... the business of education might be defined as just such an emancipation and enlargement of experience" ([How We Think](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)).
 
-### In the compendium
+### Here
 
-The principles make the loop practical: P109 pairs every experience with reflection, P048 turns experience over, P049 closes the loop with single- and double-loop learning, P179 ends the day with savoring and review, S065 and S120 make self-examination daily. P042's learning by doing and A039's valuing experience over theory keep the experiential half honest. The compendium's own gloss: reflection without experience is empty, experience without reflection is drift.
+The principles make the loop practical: P109 pairs every experience with reflection, P048 turns experience over, P049 closes the loop with single- and double-loop learning, P179 ends the day with savoring and review, S065 and S120 make self-examination daily. P042's learning by doing and A039's valuing experience over theory keep the experiential half honest. My own gloss: reflection without experience is empty, experience without reflection is drift.
 
 ## Related concepts
 
-- [[Experiential learning]] — the pedagogy the compendium pairs with it
+- [[Experiential learning]] — the pedagogy I pair with it
 - [[Deliberate practice]] — the loop made skilled
 - [[Rumination]] — chewing without new input, the loop's maladaptive cousin
 - [[Savoring]] — reflection turned toward the positive

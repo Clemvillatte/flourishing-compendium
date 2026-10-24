@@ -14,7 +14,7 @@ Once a week, tell someone a story from your week and have them tell it back. The
 
 ### Protocol
 
-The steps are the compendium's practice form; the finding the form leans on is quoted in the Evidence section.
+The steps are my practice form; the finding the form leans on is quoted in the Evidence section.
 
 1. Choose one story from the week, five minutes or less, and tell it to a willing listener straight through.
 2. Ask the listener to retell it back to you in their own words. No corrections during the retelling; save corrections for the comparison afterward.
@@ -28,7 +28,7 @@ From the study of listener effects on speakers' long-term memory:
 
 > "Our results show that attentive listeners facilitate long-term memory, whereas situations with distracted listeners are difficult to distinguish from the situations with no listener and with no recounting at all." (same abstract)
 
-What this evidence does not test: the practice. The study measured recall of movie excerpts after recounting to attentive or distracted listeners; it did not test a weekly retelling exercise, and the practice's claim to reveal the teller's framing choices is the compendium's rationale, not a tested outcome.
+What this evidence does not test: the practice. The study measured recall of movie excerpts after recounting to attentive or distracted listeners; it did not test a weekly retelling exercise, and the practice's claim to reveal the teller's framing choices is my rationale, not a tested outcome.
 
 ### A guided version
 

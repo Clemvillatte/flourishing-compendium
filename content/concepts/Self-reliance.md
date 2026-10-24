@@ -15,7 +15,7 @@ Self-reliance is Ralph Waldo Emerson's ideal, set out in the 1841 essay of that 
 
 Emerson names two opponents. The first is society itself: "Society everywhere is in conspiracy against the manhood of every one of its members." The second is the fear of one's own past positions: "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines." The inner voice he trusts is real but fragile: "These are the voices which we hear in solitude, but they grow faint and inaudible as we enter into the world."
 
-### In the compendium
+### Here
 
 - [[B194 — Be your own island (attadipa)]] — the Buddha's counsel to Ananda to be one's own refuge, a parallel from the Pali canon
 - [[Y042 — Follow your own path over borrowed scripts]] — svadharma in the Gita: better one's own path imperfectly walked than another's perfectly imitated

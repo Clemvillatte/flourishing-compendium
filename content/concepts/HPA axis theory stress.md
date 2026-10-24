@@ -23,7 +23,7 @@ The theory's practical weight is in what prolonged activation does:
 
 Chronic stress may instead drive dysregulation: the review notes that it may cause "chronic basal hypersecretion, sensitized stress responses, even adrenal exhaustion," and that the type and chronicity of stress, together with factors such as stressor intensity, frequency, and physical modality, are critical in determining the precise manner in which the HPA axis is affected. These chronic effects may be long-lasting, the authors write, "inducing long-term shifts in HPA tone that persist long after the cessation of stress."
 
-### In the compendium
+### Here
 
 - [[BI004 — Understand the stress response — cortisol, adrenaline, and the HPA axis]] — the principle that names the axis for readers
 - [[BI007 — Recognise that the gut is connected to the brain — the gut-brain axis]] — a neighboring body-brain system

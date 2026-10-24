@@ -19,9 +19,9 @@ Immediate values are had, not judged. "Of immediate values as such, values which
 
 The second term of the pair is the work of criticism. The passage turns on belief: "If a man believes in ghosts, devils, miracles, fortune-tellers, the immutable certainty of the existing economic regime, and the supreme merits of his political party and its leaders, he does so believe; these are immediate goods to him." When the question of real value is raised, "the appeal is to criticism, intelligence. And the court of appeal decides by the law of conditions and consequences." The reflective verdict remains an immediate good when it arrives, but one "whose character now depends upon the reflective operations whose conclusion it is."
 
-### In the compendium
+### Here
 
-The distinction underwrites the compendium's principle that immediate values should be honored and enriched rather than overridden. The practice entries are crosslinks in the same neighborhood: [[ST308 — Deliberate Practice]] is reflection organized around skill, and [[K264 — Deliberation timeout]] marks a limit on deliberation itself.
+The distinction underwrites my principle that immediate values should be honored and enriched rather than overridden. The practice entries are crosslinks in the same neighborhood: [[ST308 — Deliberate Practice]] is reflection organized around skill, and [[K264 — Deliberation timeout]] marks a limit on deliberation itself.
 
 [[ST308 — Deliberate Practice]]
 [[K264 — Deliberation timeout]]

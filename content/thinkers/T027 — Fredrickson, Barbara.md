@@ -31,14 +31,14 @@ Broaden-and-build has two moving parts. Positive emotions first widen the moment
 - **Love as micro-moments of connection** — in her later work, love is a physiological synchrony shared in brief moments between people, not a lasting bond alone. See [[Micro-moments of connection]], [[Metta (loving-kindness)]], [[Savoring]].
 - **Objectification theory** — her earlier work with Tomi-Ann Roberts on how cultural gaze shapes women's mental health. See [[Objectification Theory]].
 
-## Connection to the compendium
+## Connection to me
 
 - [[Broaden-and-build]]
 - [[Positive emotions research]]
 - [[Micro-moments of connection]]
 - [[Fredrickson's positivity portfolios]]
 
-## Everything connected in the wiki
+## Everything connected here
 
 ### Principles (27)
 - [[A088 — Recognise that pleasure varies with the activity|Recognise that pleasure varies with the activity]]

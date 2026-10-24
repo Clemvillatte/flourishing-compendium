@@ -20,7 +20,7 @@ Within that theory, he describes dim awareness of incongruence as a source of th
 
 > "It means taking continual steps toward being, in awareness and in expression, that which is congruent with one's total organismic reactions." (Rogers, On Becoming a Person, ch. 8, Constable 1967 edition.)
 
-The compendium adapts this into an exercise in examining self-descriptions and considering what to communicate.
+I adapt this into an exercise in examining self-descriptions and considering what to communicate.
 
 ### Plain words
 

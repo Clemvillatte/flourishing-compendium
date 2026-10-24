@@ -18,7 +18,7 @@ Patanjali lists five movements of the mind: "These activities are: Sound intelle
 
 Johnston comments: "When the object is not truly perceived, when the observation is inaccurate and faulty, thought or reasoning based on that mistaken perception is of necessity false and unsound." ([commentary on YS 1.8](https://www.gutenberg.org/ebooks/2526)) The distortion is expensive downstream, because everything reasoned from it inherits the fault.
 
-The compendium's counsel: treat strong conviction as a flag, not a proof. Its check is to run your strongest current conviction through the question, what would I see if this were false?
+My counsel: treat strong conviction as a flag, not a proof. Its check is to run your strongest current conviction through the question, what would I see if this were false?
 
 **Plain words** A convincing explanation may depend on a mistaken observation. Check what was actually observed and what would count against your account.
 

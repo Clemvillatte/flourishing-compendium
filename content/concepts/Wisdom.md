@@ -39,7 +39,7 @@ A related line of research asks whether groups have their own intelligence. Wool
 
 > we find converging evidence of a general collective intelligence factor that explains a group's performance on a wide variety of tasks. (Woolley, Chabris, Pentland, Hashmi and Malone, "Evidence for a Collective Intelligence Factor in the Performance of Human Groups", Science 330, 2010, [abstract](https://www.science.org/doi/10.1126/science.1193147))
 
-### In the compendium
+### Here
 
 - [[R054 — Practise zhi (wisdom)]] — the Confucian pillar: recognize how you influence yourself and take responsibility for growth
 - [[A043 — Develop phronesis — practical wisdom]] — the Aristotelian ancestor of the research tradition
@@ -59,7 +59,7 @@ A related line of research asks whether groups have their own intelligence. Wool
 
 - [[Wise reasoning]] — Grossmann's construct for the metacognitive capacities this page defines
 - [[Phronesis]] — the Aristotelian practical wisdom that A043 develops
-- [[Wisdom theory Berlin paradigm]] — the compendium's page for the Baltes research program
+- [[Wisdom theory Berlin paradigm]] — my page for the Baltes research program
 - [[Socratic wisdom]] — the knowing-what-one-does-not-know family
 - [[Practical wisdom]] — the umbrella family of judgment-in-action concepts
 - [[The wisdom of crowds]] — aggregation of many judgments; a different mechanism from individual wise reasoning

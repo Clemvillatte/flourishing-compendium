@@ -17,7 +17,7 @@ He trained, studied what remained of the old schools, and in May or June of 1882
 
 The broader principle he built the whole art on was what he called the Maximum Efficiency in Use of Mind and Body. Yielding was not weakness or surrender; the condition is carried in the sentence itself, as he put it to a reporter in 1938: "When yielding is the highest efficient use of energy, then yielding is judo." He had only a handful of students at the start, and they improved their technique through regular contests with local police jujutsu teams.
 
-The compendium pairs the story with the Daoist preference for the soft over the hard as an analogy, not a claimed lineage: the same observation about strength appears in a Tokyo dojo and in the Dao De Jing's comparisons of the way with water.
+I pair the story with the Daoist preference for the soft over the hard as an analogy, not a claimed lineage: the same observation about strength appears in a Tokyo dojo and in the Dao De Jing's comparisons of the way with water.
 
 ---
 

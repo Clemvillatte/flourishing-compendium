@@ -17,7 +17,7 @@ Relational Models Theory (RMT) is Alan Fiske's account of the elementary structu
 
 The four models are communal sharing (equivalence and undifferentiated sharing within a group), authority ranking (linear hierarchy, with prerogatives above and protection below), equality matching (balanced, one-for-one reciprocity), and market pricing (proportionality and ratios). The same review notes that the models combine: people mix them, implemented according to diverse cultural rules, rather than living in only one at a time.
 
-### In the compendium
+### Here
 
 - [[R053 — Practise li (ritual propriety)]]
 - [[R037 — Practise Te Whare Tapa Whā]]

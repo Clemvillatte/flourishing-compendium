@@ -15,7 +15,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Goals are not set-and-forget. They need regular review and adjustment. Circumstances change, priorities shift, and goals that were right may become wrong. Regular review is a motivational practice.
 
-The compendium places this practice beside a philosophical comparison. Socrates, at his trial, named daily examination as the greatest good:
+I place this practice beside a philosophical comparison. Socrates, at his trial, named daily examination as the greatest good:
 
 > and if I say again that the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe. (Plato, Apology 38a, Jowett translation, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 

@@ -11,7 +11,7 @@ The doctrine of the mean is the claim, shared by Aristotle and by the Confucian 
 
 The Confucian counterpart is the *Zhongyong*, literally “centred and constant”, attributed to Zisi, Confucius' grandson, and canonised as one of the Four Books ([[Zhongyong]]). It shares Aristotle's central insight: equilibrium (*zhong*) is not lukewarm compromise but the perfectly attuned state from which emotion is neither suppressed nor indulged, and constancy (*yong*) is the ordinary practice that keeps it ([[R061 — Practise the Doctrine of the Mean (zhongyong)]]; [[Shu]] and [[Ren]] supply the relational reading: the mean is found *between people*, in reciprocity, not in private calculation).
 
-The misunderstanding to avoid is that the mean is mediocrity or moderation-for-its-own-sake. It is not half the passion: anger at the right time, at the right person, for the right reason is *more* exacting than either rage or numbness, and “tune, don't force” is its practical signature ([[B036|Tune, don’t force]]). The Buddhist parallel is the middle way of practice, relaxed diligence ([[The middle path]]); the compendium's E058 names the same thing as measure ([[E058 — Practise measure]]).
+The misunderstanding to avoid is that the mean is mediocrity or moderation-for-its-own-sake. It is not half the passion: anger at the right time, at the right person, for the right reason is *more* exacting than either rage or numbness, and “tune, don't force” is its practical signature ([[B036|Tune, don’t force]]). The Buddhist parallel is the middle way of practice, relaxed diligence ([[The middle path]]); my E058 names the same thing as measure ([[E058 — Practise measure]]).
 
 ## Facets
 

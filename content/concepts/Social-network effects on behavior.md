@@ -25,7 +25,7 @@ The word "spread" claims more than an observed cluster can show. Shalizi and Tho
 
 Christakis and Fowler say their obesity clusters were not solely due to selective tie formation. Shalizi and Thomas argue that identifying contagion from such data depends on strong assumptions. The honest summary is a dispute about identification, not a settled result.
 
-### In the compendium
+### Here
 
 - [[SO027 — Choose communities that align with your values]], [[SP037 — Beware the mob's favors and its fear]] and [[SO055 — Treat gender as a cultural system]] cite this concept.
 - [[K174 — Behavioral activation]] and [[P012 — An idea's meaning is its practical effects]] cite it as well.

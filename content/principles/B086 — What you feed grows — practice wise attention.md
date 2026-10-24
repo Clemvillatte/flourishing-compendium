@@ -16,7 +16,7 @@ MN 2 gives the growth claim as a mechanism rather than a metaphor. When a monk a
 
 > "When a monk attends inappropriately, unarisen fermentations arise, and arisen fermentations increase. When a monk attends appropriately, unarisen fermentations do not arise, and arisen fermentations are abandoned." (MN 2, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html))
 
-The Dhammapada adds the wider frame: mind precedes all mental states, and they are all mind-wrought. In the compendium's reading, the fertilizer image translates this mechanism into a choice: attention is what a mental state lives on, so the practice is choosing both what is attended to and how. (Dhammapada 1.)
+The Dhammapada adds the wider frame: mind precedes all mental states, and they are all mind-wrought. In my reading, the fertilizer image translates this mechanism into a choice: attention is what a mental state lives on, so the practice is choosing both what is attended to and how. (Dhammapada 1.)
 
 > "Mind precedes all mental states. Mind is their chief; they are all mind-wrought." (Dhammapada 1, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 

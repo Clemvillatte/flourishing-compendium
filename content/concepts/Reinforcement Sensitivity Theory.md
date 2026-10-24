@@ -17,7 +17,7 @@ Reinforcement Sensitivity Theory (RST) is Jeffrey Gray's neuropsychological mode
 
 In the revised RST, the three systems are the fight-flight-freeze system (FFFS), the BAS and the BIS. The article's summary: "The revised BIS is a supervisory system that resolves conflicts when approach and avoidance behaviours are concurrently engaged", the BAS "remains a global approach system", and "the FFFS is a global avoidance and escape system in threatening conditions and promotes fight, flight, or freezing behaviour depending on perceived risk", with "FFFS functioning... associated with fear and panic" and BIS conflict resolution "associated with anxiety". Personality differences, on this theory, are differences in the sensitivity of these systems.
 
-### In the compendium
+### Here
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)]]
 - [[SE066 — Recognise the role of challenge in growth — difficulty develops self]]

@@ -7,7 +7,7 @@ file: "Designing for virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The compendium uses "Designing for virtue" for the design-research idea that products and environments can support virtuous behaviour. It is the third ingredient of the Positive Design Framework:
+I use "Designing for virtue" for the design-research idea that products and environments can support virtuous behaviour. It is the third ingredient of the Positive Design Framework:
 
 > "In a previous publication we proposed three main ingredients to design for well-being, i.e. Positive Design: design for pleasure, design for personal significance and design for virtue (Desmet & Pohlmeyer, 2013), as visualised in the framework in Figure 1." (Pohlmeyer and Desmet 2017, PDF p. 4, [author-hosted PDF](https://diopd.org/wp-content/uploads/2018/07/Pohlmeyer-Desmet-2017-from-good-to-greater-good.pdf))
 
@@ -25,7 +25,7 @@ Aristotle discusses the city's location and drinking water in Politics VII, Chap
 
 > "And as great care should be taken of the health of the inhabitants, the first thing to be attended to is, that the city should have a good situation and a good position; the second is, that they may have good water to drink; and this not be negligently taken care of; for what we chiefly and most frequently use for the support of the body..." (Aristotle, Politics, Book VII, Chapter XI, Ellis translation, [Gutenberg #6762](https://www.gutenberg.org/cache/epub/6762/pg6762.txt), passage abridged)
 
-### In the compendium
+### Here
 
 - [[AT045 — Learn to protect attention through environmental design — the environment is stronger than willpower]]: protects attention through environmental design
 - [[AT064 — Learn to create a distraction-free environment — physical and digital]]: creates a distraction-free environment

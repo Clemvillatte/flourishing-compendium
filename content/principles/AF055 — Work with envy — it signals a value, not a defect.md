@@ -20,9 +20,9 @@ The research distinguishes two types:
 
 > "the experience of benign envy leads to a moving-up motivation aimed at improving one's own position, whereas the experience of malicious envy leads to a pulling-down motivation aimed at damaging the position of the superior other." ([van de Ven et al., 2009, same abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/))
 
-The studies used guided recall in the Netherlands, where the two have separate words, and latent class analysis in the United States and Spain, where one word covers both. The finding is about motivation direction, not about envy carrying value information; the compendium's signal reading is its own application: the sting points at a domain, and the question is which motivation follows it.
+The studies used guided recall in the Netherlands, where the two have separate words, and latent class analysis in the United States and Spain, where one word covers both. The finding is about motivation direction, not about envy carrying value information; my signal reading is its own application: the sting points at a domain, and the question is which motivation follows it.
 
-**Plain words** The researchers distinguish wanting to improve your own position from wanting to damage the other person's position. For the compendium's exercise, ask which of those wants you notice when someone else's success stings.
+**Plain words** The researchers distinguish wanting to improve your own position from wanting to damage the other person's position. For my exercise, ask which of those wants you notice when someone else's success stings.
 
 *For example:* (Imagined case.) A colleague's publication stings, and over the following week you notice what you want: more writing time of your own, or the colleague's grant to fail. Both are observable wants; only one of them is the moving-up motivation the study named.
 

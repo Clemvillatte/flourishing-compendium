@@ -15,9 +15,9 @@ The Buddhist cousin makes the same point about enlightenment rather than society
 
 ### Why it is hard
 
-The compendium's principle D180 states the tension plainly: "Ecstasy is cheap; contentment is rare. The chase for peak experiences is how people end up missing the entire baseline." Craving keeps the baseline invisible, and boredom is what the untrained mind feels when the stimulation stops. The skill is attention, not circumstance. Psychology names a piece of it: in Fredrickson's account, contentment's urge is to savour current life circumstances and integrate them into new views of self and world ([Fredrickson 2001](https://www.prospectivepsych.org/sites/default/files/pictures/Frederickson_Broaden-and-build-2001.pdf)).
+My principle D180 states the tension plainly: "Ecstasy is cheap; contentment is rare. The chase for peak experiences is how people end up missing the entire baseline." Craving keeps the baseline invisible, and boredom is what the untrained mind feels when the stimulation stops. The skill is attention, not circumstance. Psychology names a piece of it: in Fredrickson's account, contentment's urge is to savour current life circumstances and integrate them into new views of self and world ([Fredrickson 2001](https://www.prospectivepsych.org/sites/default/files/pictures/Frederickson_Broaden-and-build-2001.pdf)).
 
-### In the compendium
+### Here
 
 D180 carries the concept directly, with Zhuangzi 18 and Daodejing 80 as its sources. K023 makes the Kyoto School's endpoint the return to dishes, work and family, the "ordinary mind" whose marks are patience, warmth and availability. B166 practises P'ang's chop wood and carry water, B181 stays with boredom, and SP073 guards cheerfulness under loss. ST306's Tim learns to live each day as if he had already come back to it, which is the same skill.
 

@@ -15,7 +15,7 @@ Descartes' doubt pulled the ground out from under his beliefs, but a life does n
 >
 > "My third maxim was to endeavor always to conquer myself rather than fortune, and change my desires rather than the order of the world, and in general, accustom myself to the persuasion that, except our own thoughts, there is nothing absolutely in our power; so that when we have done our best in things external to us, all wherein we fail of success is to be held, as regards us, absolutely impossible..." (Descartes, Discourse on Method, Part III, [Veitch translation, Project Gutenberg](https://www.gutenberg.org/files/59/59-h/59-h.htm))
 
-### In the compendium
+### Here
 
 - [[SP042 — Adopt a provisional rule of life]] — lists the concept among its philosophy parallels.
 

@@ -16,9 +16,9 @@ Rorty's Contingency, Irony, and Solidarity describes solidarity as something cre
 
 > "It is to be achieved not by inquiry but by imagination, the imaginative ability to see strange people as fellow sufferers. Solidarity is not discovered by reflection but created. It is created by increasing our sensitivity to the particular details of the pain and humiliation of other, unfamiliar sorts of people." (Rorty, Contingency, Irony, and Solidarity, introduction, [UNLV pragmatism archive text](https://cdclv.unlv.edu/pragmatism/rorty_intro_irony.pdf))
 
-In the same introduction, Rorty treats the language people use to remake themselves differently from the language through which they discuss justice with others. He rejects a single theory that would unite those projects. The compendium's proposed application for groups: acting together draws on the second and can leave the first alone. A group needs agreement on the shared task, not on the final questions each member answers privately.
+In the same introduction, Rorty treats the language people use to remake themselves differently from the language through which they discuss justice with others. He rejects a single theory that would unite those projects. My proposed application for groups: acting together draws on the second and can leave the first alone. A group needs agreement on the shared task, not on the final questions each member answers privately.
 
-The compendium's exercise: in a group you are part of where disagreement blocks action, write down the specific harm or need the action would address. Take the action to whoever agrees on that, whatever else they believe.
+My exercise: in a group you are part of where disagreement blocks action, write down the specific harm or need the action would address. Take the action to whoever agrees on that, whatever else they believe.
 
 **Plain words**
 Working together leaves plenty unresolved. You can disagree about why helping matters while agreeing to help with this job. Check that everyone understands the task and can choose how to contribute.

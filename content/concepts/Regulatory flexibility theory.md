@@ -21,7 +21,7 @@ The anchor study measured both directions of expression. Participants "viewed em
 
 Affect · Psychological science
 
-## In the compendium
+## Here
 
 - [[AF028 — Master emotional regulation flexibility — the skill is matching strategy to context]] — the principle that carries the theory's core claim
 - [[AF030 — Learn to read feedback from your regulation attempts]] — the feedback component as a practice

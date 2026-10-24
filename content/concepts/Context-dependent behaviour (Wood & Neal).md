@@ -20,7 +20,7 @@ That persistence is the practical sting. Habits resist persuasion: "intervention
 
 The model offers two control routes. Effortful inhibition fires after the cue and is described in the model as drawing on a limited regulatory resource; the authors judge strategies built on inhibition alone unlikely to achieve long-term change. Altering cue exposure works upstream: disabling a notification, or exploiting naturally occurring context changes such as moving house or changing job, which Verplanken and Wood proposed as windows for habit change interventions.
 
-### In the compendium
+### Here
 
 BE003, "Know that behaviour is triggered by context — environment drives action," states the model directly, and MO036, "Learn to use context-dependent repetition — same context, same behaviour," is its formation recipe. PP072, "Design the environment to support the practice," and Y066 on preparing the practice environment take the cue-control route, as does AT045, "Learn to protect attention through environmental design — the environment is stronger than willpower," which carries the model's jab at willpower.
 
@@ -34,7 +34,7 @@ A108, "Practise habituation through repeated action," is Aristotle's version of 
 - [[Implementation intentions]] — planning that pre-loads the cue-response link
 - [[Situation selection]] — the emotion-regulation family cue-control belongs to
 - [[Environmental design]] — the applied arm of controlling cues
-- [[Designing the environment for virtue]] — the compendium's Aristotelian version of cue control
+- [[Designing the environment for virtue]] — my Aristotelian version of cue control
 - [[Ego depletion]] — the resource account invoked in Wood and Neal's 2007 discussion of inhibition
 - [[Habit]] — the general phenomenon, with James's character-level reading
 - [[Belief as habit]] — beliefs as settled dispositions, the Peirce-James cousin

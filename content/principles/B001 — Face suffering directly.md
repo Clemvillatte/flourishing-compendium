@@ -16,7 +16,7 @@ The first sermon lists suffering plainly (birth, aging, illness, death, separati
 
 > "This noble truth of suffering is to be fully understood": thus, bhikkhus, in regard to things unheard before, there arose in me vision, knowledge, wisdom, true knowledge, and light. (SN 56.11, Bhikkhu Bodhi trans., [SuttaCentral](https://suttacentral.net/sn56.11/en/bodhi))
 
-SN 56.11 assigns different tasks to the four truths: suffering is to be fully understood, its origin abandoned, cessation realized, and the path developed. This principle takes up the first task. The principle's directive, stop fleeing and study where it arises, what feeds it, what eases it, is the compendium's application of that task: suffering (dukkha) is the first thing to understand.
+SN 56.11 assigns different tasks to the four truths: suffering is to be fully understood, its origin abandoned, cessation realized, and the path developed. This principle takes up the first task. The principle's directive, stop fleeing and study where it arises, what feeds it, what eases it, is my application of that task: suffering (dukkha) is the first thing to understand.
 
 (SN 56.11.)
 

@@ -27,7 +27,7 @@ In II.5 he argues that [[Virtue|Virtue (arete)]] is not a passion, because "we f
 
 ### Wording of the principle
 
-"Not rule-following" and "invest in who you are becoming" are the compendium's phrasing. Aristotle's own point is that character is formed by repeated action and judged by choice.
+"Not rule-following" and "invest in who you are becoming" are my phrasing. Aristotle's own point is that character is formed by repeated action and judged by choice.
 
 (NE II.1, II.5, II.6.)
 

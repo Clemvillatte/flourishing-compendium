@@ -17,7 +17,7 @@ Relational psychoanalysis is the tradition founded on Jay Greenberg and Stephen 
 
 The same account states what the tradition rejects and what it puts in place: "The Freudian perception of the drive is rejected by relational psychoanalysis as monadic; instead, the concept of the 'relational matrix' as the primary structure of relationships becomes the focal point." The clinical consequence follows: "The analyst is no longer an external, judgmental, interpretative observer, but always also a co-constituent of the psychoanalytic setting."
 
-### In the compendium
+### Here
 
 - [[A064 — Know the three kinds of friendship]]
 - [[SE076 — Recognise clinical self-symptoms — when self-problems require evaluation]]

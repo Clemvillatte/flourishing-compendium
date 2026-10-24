@@ -17,7 +17,7 @@ Value pluralism is the claim, argued by Isaiah Berlin in "Two Concepts of Libert
 
 Berlin draws the consequence in the same passage: people place "immense value upon the freedom to choose" precisely because ends can collide, and if a perfect state could guarantee no conflict, "the necessity and agony of choice would disappear". The lecture goes on to blame "some such dogmatic and a priori monism" for the conviction of "some of the most merciless tyrants and persecutors" in history.
 
-### In the compendium
+### Here
 
 - [[P126 — Respect genuine value conflict]]
 - [[P123 — Accept that the universe is plural]]

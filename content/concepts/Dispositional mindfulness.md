@@ -15,7 +15,7 @@ Brown and Ryan (2003) developed the Mindful Attention Awareness Scale for this p
 
 Baer and colleagues (2006) compared five existing mindfulness questionnaires and found "five clear, interpretable facets of mindfulness". They also found that the factor structure "may vary with meditation experience," and that the facets "have incremental validity in the prediction of psychological symptoms" ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/16443717/)). The practical lesson is that one score can hide different qualities.
 
-### In the compendium
+### Here
 
 - [[B027 — Develop right mindfulness (samma sati)]] sets out the Buddha's instruction in the Satipatthana Sutta. These questionnaires measure a modern psychological construct and were not designed to test that teaching, so the two are parallel and not identical.
 

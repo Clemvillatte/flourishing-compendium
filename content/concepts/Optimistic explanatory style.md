@@ -15,7 +15,7 @@ In a 2026 interview about his work, Martin Seligman describes explanatory style 
 
 Each dimension is a question about a setback: does the cause look permanent or temporary, does it touch everything or just this, and does it lie inside what a person can act on. Seligman adds a warning that cuts both ways: "The pessimistic style and the excusing style are the same move: both put the cause beyond the reach of your action, one by calling it your permanent defect, the other by calling it someone else's fault" ([Beck Institute Q&A](https://beckinstitute.org/blog/a-qa-with-dr-martin-seligman-on-how-agency-shapes-human-action-part-1/)). His emphasis here is on explanations that leave room for action.
 
-### In the compendium
+### Here
 
 - [[P171 — Watch your explanatory style]] — turns the three dimensions into a prompt after a setback: ask what you know about the cause, separate what you can change from what lies outside your control.
 

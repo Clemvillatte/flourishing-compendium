@@ -15,9 +15,9 @@ The 2007 NEJM study tracked a densely interconnected social network of 12,067 pe
 
 ### Mechanisms and dispute
 
-The mechanisms proposed are mostly pre-conscious. Stephan and Walter's synthesis names automatic mimicry, direct affect induction, and ventriloquism, the last meaning the apparent transfer of a feeling that is really the observer's construction ([Stephan and Walter, Perceptual and Motor Skills 2020](https://doi.org/10.1177/0031512520918505), as summarized in [Wikipedia, Social contagion](https://en.wikipedia.org/wiki/Social_contagion)). The Wikipedia article also records the field's standing caution plainly: later research has been "mixed with some scholars disputing aspects of the research, particularly in relation to obesity and suicide" ([Wikipedia](https://en.wikipedia.org/wiki/Social_contagion)). The compendium's use of the concept survives the dispute either way: even the weaker reading, that moods and habits rub off on close company more than on distant neighbors, is enough for the practice principles.
+The mechanisms proposed are mostly pre-conscious. Stephan and Walter's synthesis names automatic mimicry, direct affect induction, and ventriloquism, the last meaning the apparent transfer of a feeling that is really the observer's construction ([Stephan and Walter, Perceptual and Motor Skills 2020](https://doi.org/10.1177/0031512520918505), as summarized in [Wikipedia, Social contagion](https://en.wikipedia.org/wiki/Social_contagion)). The Wikipedia article also records the field's standing caution plainly: later research has been "mixed with some scholars disputing aspects of the research, particularly in relation to obesity and suicide" ([Wikipedia](https://en.wikipedia.org/wiki/Social_contagion)). My use of the concept survives the dispute either way: even the weaker reading, that moods and habits rub off on close company more than on distant neighbors, is enough for the practice principles.
 
-### In the compendium
+### Here
 
 - [[S110 — Handle crowds without contamination]] and [[SP015 — Guard against affect contagion]] — the defensive practices
 - [[S079 — Associate with people who make you better]] and [[Y122 — Keep company that supports the practice]] — the offensive use of the same mechanism

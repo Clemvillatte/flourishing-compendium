@@ -13,7 +13,7 @@ Bergson's essay "An Introduction to Metaphysics" sets intuition against analysis
 
 > "The first implies that we move round the object; the second that we enter into it. The first depends on the point of view at which we are placed and on the symbols by which we express ourselves. The second neither depends on a point of view nor relies on any symbol. The first kind of knowledge may be said to stop at the relative; the second, in those cases where it is possible, to attain the absolute." (Bergson, [An Introduction to Metaphysics, trans. T. E. Hulme, Internet Archive](https://archive.org/stream/anintroductiont00berggoog/anintroductiont00berggoog_djvu.txt))
 
-### In the compendium
+### Here
 
 - [[ST108 — Dewey's Laboratory School]]
 - [[K046 — Practice the exchange deliberately, as a skill]]

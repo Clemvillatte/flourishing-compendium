@@ -22,9 +22,9 @@ The entry's gloss of the position:
 
 > Rather than simply being an object in the world, consciousness is also a subject for the world, i.e., a necessary condition of possibility for any entity to appear as an object in the way it does and with the meaning it has. — [SEP, Husserl §3](https://plato.stanford.edu/entries/husserl/)
 
-The compendium builds its creativity and perception principles on this ground, and its linked pages apply the topic to creative practice, in grids, doors, and broken pianos.
+I build its creativity and perception principles on this ground, and its linked pages apply the topic to creative practice, in grids, doors, and broken pianos.
 
-### In the compendium
+### Here
 
 - [[E010 — Practise the constitution of meaning]] — the constitution-of-meaning practice.
 - [[K310 — Bad-faith detection]] — the bad-faith detection kernel.

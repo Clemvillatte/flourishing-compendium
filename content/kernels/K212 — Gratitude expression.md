@@ -14,7 +14,7 @@ Express gratitude directly to a person, in person or in writing, specific about 
 
 ### Protocol
 
-*Steps follow the gratitude-visit exercise as tested; the everyday framing is the compendium's.*
+*Steps follow the gratitude-visit exercise as tested; the everyday framing is my.*
 
 1. Choose someone who has been especially kind to you but was never properly thanked.
 2. Write the letter: "one week to write and then deliver a letter of gratitude in person," specific about the deed and its effect ([Seligman et al., 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)).

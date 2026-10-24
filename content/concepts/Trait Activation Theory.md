@@ -15,7 +15,7 @@ The theory's key definitions, as Tett and Burnett state them and as quoted in a 
 
 The theory sits between two older ideas. Against trait-only views, it holds that a latent trait shows in behavior only when the situation offers cues that call for it: "traits will manifest as trait-expressive work behaviours only when trait-relevant cues are present" (Lievens, reviewing Tett & Burnett 2003, [open PDF](https://static1.squarespace.com/static/5dd4c2c45ccc387bd8ffb210/t/5de0930111c57f4363ea9b5c/1574998786391/trait.pdf)). Against situation-only views, it holds that situations do not act on everyone alike: the same cue draws different behavior from people at different standings on the relevant trait. Trait-relevant cues are grouped at three levels in the founding model — "categorized into three broad interrelated groups: task, social, and organizational" (Lievens, same PDF) — so the same workplace can be trait-relevant for one person's sociability and trait-irrelevant for another's diligence. The theory also distinguishes trait-expressive behavior from job performance: expressing a trait is one thing, and whether the expression is valued is another.
 
-The compendium's application: the theory reframes character questions as interaction questions. Neither "what kind of person is this" nor "what kind of situation is this" predicts behavior alone; the match between the two does.
+My application: the theory reframes character questions as interaction questions. Neither "what kind of person is this" nor "what kind of situation is this" predicts behavior alone; the match between the two does.
 
 ## Field
 

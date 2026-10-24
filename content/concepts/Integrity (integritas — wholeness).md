@@ -17,7 +17,7 @@ The demand the passage makes is not in the first place about honesty with others
 
 **Plain words** Integrity's root meaning is simpler than its reputation: being one thing. A life consistent through its parts, and recognisably yours rather than assembled from other people's traits.
 
-### In the compendium
+### Here
 
 - [[SE038 — Learn identity integration — bring together your different self-aspects]]: the principle that turns wholeness into a practice
 

@@ -17,14 +17,14 @@ Svenson's 1981 paper asked participants in the United States and Sweden to rate 
 
 The numbers are described as impossible at the group level: not everyone can be above average.
 
-### In the compendium
+### Here
 
 - [[CO038 — Understand the better-than-average effect — you think you are above average]] — the principle takes the effect as a caution about self-evaluation.
 - [[SE018 — Learn accurate self-evaluation — neither inflated nor deflated]] — the principle pairs the effect with the humility question.
 
 ## Related concepts
 
-- [[Humility]] — the virtue the compendium pairs with the effect's corrective.
+- [[Humility]] — the virtue I pair with the effect's corrective.
 
 ## Sources
 

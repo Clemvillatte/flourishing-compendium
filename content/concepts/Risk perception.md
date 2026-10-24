@@ -15,7 +15,7 @@ Risk perception is the study of the judgments people make when asked to characte
 
 When experts judge risk, their responses correlate highly with technical estimates of annual fatalities, whereas lay judgments relate more to other hazard characteristics such as catastrophic potential and threat to future generations ([Slovic and Weber](https://www.ldeo.columbia.edu/chrr/documents/meetings/roundtable/white_papers/slovic_wp.pdf)). Expert-lay conflicts often turn on different definitions of risk rather than on different opinions about acceptable levels ([Slovic and Weber](https://www.ldeo.columbia.edu/chrr/documents/meetings/roundtable/white_papers/slovic_wp.pdf)). The qualitative characteristics also travel together: hazards rated as voluntary tend also to be rated as controllable and well-known ([Slovic and Weber](https://www.ldeo.columbia.edu/chrr/documents/meetings/roundtable/white_papers/slovic_wp.pdf)). The higher a hazard's dread score, the higher its perceived risk and the more people want it reduced and strictly regulated ([Slovic and Weber](https://www.ldeo.columbia.edu/chrr/documents/meetings/roundtable/white_papers/slovic_wp.pdf)).
 
-### In the compendium
+### Here
 
 - [[D077 — Avoid unnecessary danger]] lists the concept with the gloss that perceived control and familiarity inflate risk tolerance (Slovic, 1987).
 - [[CO034 — Understand the affect heuristic — feelings substitute for reasoning]] connects the concept to the affect heuristic: fears that feel vivid are judged riskier than dull risks regardless of statistics.

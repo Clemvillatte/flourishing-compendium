@@ -13,7 +13,7 @@ The label for the occupational-health psychology line on how people recuperate f
 
 The program's core distinction is that recovery is a psychological experience with a named structure. Sonnentag and Fritz identify four recovery experiences: detachment from work-related tasks, relaxation, mastery experiences, and agency experiences. The detachment experience is defined as "the subjective experience of leaving work behind, to 'switch off,' and to forget about work during non-work time" (same source).
 
-In the compendium, D039 makes rest the root of activity and D006 reads renewal in cycles (fu); PP073 leans on this literature to keep detachment findings and short-break experiments distinct.
+Here, D039 makes rest the root of activity and D006 reads renewal in cycles (fu); PP073 leans on this literature to keep detachment findings and short-break experiments distinct.
 
 ## Cited in psychology parallels
 

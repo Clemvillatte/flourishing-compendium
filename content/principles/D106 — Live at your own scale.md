@@ -16,7 +16,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 > "I spring up with a bound, and come down again when I have reached but a few fathoms, and then fly about among the brushwood and bushes; and this is the perfection of flying. Where is that creature going to?" (Zhuangzi 1, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The [narrator then compares](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) self-satisfied office-holders and rulers to the quail. Its claim to have perfected flying is a character's boast, not a simple endorsement of staying small. The compendium takes the story as an invitation to examine both the conditions an ambition needs and the limits of one's perspective.
+The [narrator then compares](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) self-satisfied office-holders and rulers to the quail. Its claim to have perfected flying is a character's boast, not a simple endorsement of staying small. I take the story as an invitation to examine both the conditions an ambition needs and the limits of one's perspective.
 
 **Plain words**
 Someone else's undertaking can look effortless when you cannot see what supports it. Your own familiar routine can also make an unfamiliar life look foolish. Living at your scale means taking your circumstances seriously while admitting they do not define the limits of what anyone could do. A smaller attempt may suit this year; it need not become a verdict on your whole life.

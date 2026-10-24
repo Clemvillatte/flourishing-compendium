@@ -19,7 +19,7 @@ Nussbaum's list groups the prescribed capabilities under ten "central human capa
 
 Nussbaum argues that governments should guarantee a minimum level of each capability, that the ten capabilities, being incommensurable, cannot be traded off against one another, and that her account remains a partial and minimal theory of social justice specifying those thresholds rather than everything justice might require above them ([Robeyns and Byskov, SEP](https://plato.stanford.edu/entries/capability-approach/)). The list is open-ended and revisable by her own description.
 
-### In the compendium
+### Here
 
 - [[A001 — Make eudaimonia the organising end of your life]] — the eudaimonia principle that carries this concept as a parallel
 - [[PP004 — Treat flourishing as multi-dimensional]] — the multi-dimensionality principle that carries this concept as a parallel

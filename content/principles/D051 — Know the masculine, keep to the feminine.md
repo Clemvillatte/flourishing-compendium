@@ -23,7 +23,7 @@ Chapter 28 of the Daodejing states its pattern three times: know the active stre
 >
 > (Daodejing 28, Legge)
 
-The chapter's second half says what the knowing is for. The sage, like the unworked material divided into vessels, "in his greatest regulations he employs no violent measures". The compendium reads this as strength held as capacity rather than display, with the yield chosen rather than forced by weakness.
+The chapter's second half says what the knowing is for. The sage, like the unworked material divided into vessels, "in his greatest regulations he employs no violent measures". I read this as strength held as capacity rather than display, with the yield chosen rather than forced by weakness.
 
 (DDJ 28.)
 

@@ -15,7 +15,7 @@ Designing the environment for virtue is the practice of arranging the settings o
 
 The argument rests on a claim about how character forms: "moral virtue comes about as a result of habit", its name ethike a slight variation of ethos, habit (II.1, 1103a). Aristotle draws the design consequence early: "It makes no small difference, then, whether we form habits of one kind or another from our very youth; it makes a very great difference, or rather all the difference." What a constitution is to a city, the designed environment is to a life: the standing arrangement that decides which acts get repeated.
 
-### In the compendium
+### Here
 
 - [[BE003 — Know that behaviour is triggered by context — environment drives action]] — the Wood and Neal habit model behind the modern form of the argument
 - [[MO040 — Learn to design habit environment — context is the trigger]] — designing the context so the habit half-forms itself
