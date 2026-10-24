@@ -58,3 +58,11 @@ Secondary source; Aknin et al. JPSP abstract — Secondary source.
 
 No card link, quotation text or gloss was changed; only the fourteen
 verification suffixes moved from the public prose to this ledger.
+
+## Carrier re-verification (2026-10-25)
+
+The Epicurus, Letter to Menoeceus carrier (MIT Internet Classics,
+Hicks translation) was re-opened this session. The quoted passage "By
+pleasure we mean the absence of pain in the body and of trouble in
+the soul" is verbatim. No discrepancy found. Other carriers were not
+re-opened this session.
