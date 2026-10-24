@@ -25,6 +25,17 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   analysis) left to the Anger dossier; Shamefastness (aidos) left out as
   a virtue-theory card. A full-text sweep of every card body remains
   undone - a recorded limit.
+- A second, full-text sweep was then run over the concept cards' bodies:
+  every unmapped card with eight or more occurrences of affect-domain
+  terms was screened (76 candidates), and 11 added on reading
+  (Broaden-and-build; Emodiversity theory; Pleasure-Arousal-Dominance
+  Model; Somatic marker hypothesis (Damasio); Expressive suppression
+  versus reappraisal; Reappraisal's effectiveness depends on separating
+  the feeling from the appraisal; Opposite action (Linehan); Expressive
+  writing; DBT Biosocial Theory; Fredrickson's positivity portfolios;
+  Cognitive reappraisal). Cards whose affect-term hits were incidental
+  to their own subject (e.g. Chronic pain research, Sleep architecture,
+  General strain theory) were screened out.
   Affect heuristic appears in both dos2 and dos3 sweeps and is mapped in
   both dossiers, each from its own side.
 - Set comparison run after review: every concept, kernel and saying title
