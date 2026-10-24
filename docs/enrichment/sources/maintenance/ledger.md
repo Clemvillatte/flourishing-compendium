@@ -288,3 +288,12 @@ content/. Mission's routed prose-floor top-ups (Physician heal thyself 91,
 Psychological reactance 89, Daily self-examination 83, Judging by where
 one rests 44, Experiential avoidance theory 127) still open - each needs
 a carrier-grounded top-up, too heavy for this pass's remaining clock.
+
+2026-10-24 06:04Z, worker-pplx-t2c-1024e: routed prose-floor top-up done -
+Psychological reactance (89 -> ~240 prose words). Carrier opened and
+verified this pass (Reynolds-Tylus 2019, Frontiers in Communication):
+importance-magnitude link, boomerang examples (alcohol/anti-drinking,
+flu-vaccination refusal), indirect restoration routes, choice-enhancing
+language, two-option finding, restoration-postscript mixed evidence
+(stated honestly in the page). Plain-words paragraph added before the
+blockquotes. Validator: page passes.
