@@ -178,3 +178,11 @@ restated as open. The two Gita carriers remain open, raw-verified
 research evidence for the next attempt (the bar: one opened passage
 must affirm a proposition and another must deny that same proposition).
 The ST085 carrier fix is unaffected and remains resolved.
+
+## Label repair (takeover session, worker-pplx-dos19-1025a)
+
+The public verification-status labels (": Primary text; quoted passages
+checked." and the raw-page variant) were removed from all quote
+attributions in the dossier of record, per the owner stop-gate (checking
+apparatus lives in this ledger; the quotes themselves are unchanged and
+their carrier records below stand). Checker exit 0 after the repair.

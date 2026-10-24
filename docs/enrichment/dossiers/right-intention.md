@@ -27,15 +27,15 @@ Intention is where a life's autopilot gets interrupted: renunciation instead of 
 
 The Magga-vibhanga Sutta gives the definition:
 
-> "And what is right resolve? Being resolved on renunciation, on freedom from ill will, on harmlessness: This is called right resolve." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked.
+> "And what is right resolve? Being resolved on renunciation, on freedom from ill will, on harmlessness: This is called right resolve." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
 
 And the Nibbedhika Sutta makes intention the hinge of action:
 
-> "Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect." ([AN 6.63, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html)): Primary text; quoted passages checked.
+> "Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect." ([AN 6.63, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html)).
 
 The Mahācattārīsaka Sutta grades the factor in two forms, a resolve with effluents and a transcendent one that is a factor of the path:
 
-> "And what is the right resolve with effluents, siding with merit, resulting in acquisitions? Resolve for renunciation, resolve for freedom from ill will, resolve for harmlessness. This is the right resolve with effluents... And what is the right resolve that is noble, without effluents, transcendent, a factor of the path? The thinking, directed thinking, resolve, mental fixity, mental transfixion, focused awareness, & verbal fabrications in one developing the noble path whose mind is noble, whose mind is without effluents, who is fully possessed of the noble path." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
+> "And what is the right resolve with effluents, siding with merit, resulting in acquisitions? Resolve for renunciation, resolve for freedom from ill will, resolve for harmlessness. This is the right resolve with effluents... And what is the right resolve that is noble, without effluents, transcendent, a factor of the path? The thinking, directed thinking, resolve, mental fixity, mental transfixion, focused awareness, & verbal fabrications in one developing the noble path whose mind is noble, whose mind is without effluents, who is fully possessed of the noble path." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)).
 
 ### The first resolve: renunciation
 
@@ -61,7 +61,7 @@ My positive rendering of the first resolve is simplicity.
 
 The Two Sorts of Thinking discourse sets the standard the renunciation-thought is held to:
 
-> "And as I remained thus heedful, ardent, & resolute, thinking imbued with renunciation arose in me. I discerned that 'Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
+> "And as I remained thus heedful, ardent, & resolute, thinking imbued with renunciation arose in me. I discerned that 'Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)).
 
 ### The second resolve: freedom from ill will
 
@@ -91,7 +91,7 @@ My positive rendering is goodwill.
 
 The training the discourse prescribes for the ill-will-thought is stated plainly, it is abandoned:
 
-> "Whenever thinking imbued with ill will had arisen, I simply abandoned it, dispelled it, wiped it out of existence." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
+> "Whenever thinking imbued with ill will had arisen, I simply abandoned it, dispelled it, wiped it out of existence." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)).
 
 ### The third resolve: harmlessness
 
@@ -113,11 +113,11 @@ The factor is a resolve, and the discourses train it as a discipline of thought,
 
 The Buddha's own method, before his awakening, was to sort his thinking:
 
-> "So I made thinking imbued with sensuality, thinking imbued with ill will, & thinking imbued with harmfulness one sort, and thinking imbued with renunciation, thinking imbued with non-ill will, & thinking imbued with harmlessness another sort." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
+> "So I made thinking imbued with sensuality, thinking imbued with ill will, & thinking imbued with harmfulness one sort, and thinking imbued with renunciation, thinking imbued with non-ill will, & thinking imbued with harmlessness another sort." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)).
 
 And the mechanism the discourse names is practice bending the mind:
 
-> "Whatever a monk keeps pursuing with his thinking & pondering, that becomes the inclination of his awareness." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
+> "Whatever a monk keeps pursuing with his thinking & pondering, that becomes the inclination of his awareness." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)).
 
 [The counter-affect](https://clemvillatte.github.io/flourishing-compendium/#card=The%20counter-affect) (again): pratipakṣā-bhāvanā, the deliberate turning of attention toward what counters an unskillful state.
 
@@ -155,9 +155,9 @@ And the mechanism the discourse names is practice bending the mind:
 
 The passages below are held side by side; whether the traditions disagree about them is an open research question. MN 19 commends renunciation-thinking; the Bhagavad Gita says abstention and renunciation alone do not attain perfection, and directs action without entitlement to its fruits:
 
-> "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection." ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/)): Primary text; quoted passages checked against the raw page.
+> "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection." ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/)).
 
-> "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)): Primary text; quoted passages checked against the raw page.
+> "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)).
 
 These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages I hold side by side. Each is framed around one proposition with quotations from opened carriers; in both cases the carriers can be read as compatible, and I record the open question rather than manufacturing a disagreement. Research for carriers that argue the positions against each other is unfinished.
 
@@ -165,7 +165,7 @@ These excerpts do not establish whether the traditions disagree about leaving ho
 
 The proposition: freedom from ill will is the whole of the second resolve. The Magga-vibhanga Sutta states the resolve as an absence, being resolved on freedom from ill will. The Karaṇīya Metta Sutta describes goodwill as something cultivated without limit:
 
-> "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)): Primary text; quoted passages checked.
+> "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
 
 Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; I do not settle which reading the factor itself commits to.
 
@@ -173,11 +173,11 @@ Whether the two suttas disagree is the open question. Each can be read as answer
 
 The proposition: wanting is best cured by aiming it better. The path's instruction contrasts the sensuality-thought with the renunciation-thought, and warns that pursuing the former bends the mind:
 
-> "If a monk keeps pursuing thinking imbued with sensuality, abandoning thinking imbued with renunciation, his mind is bent by that thinking imbued with sensuality." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
+> "If a monk keeps pursuing thinking imbued with sensuality, abandoning thinking imbued with renunciation, his mind is bent by that thinking imbued with sensuality." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)).
 
 The motivation science studies what people aim at and what aiming does to them. Ryan and Deci, summarising Kasser and Ryan's aspiration studies:
 
-> "They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators." ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)): Scholarly review; cited passage checked.
+> "They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators." ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)).
 
 The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; my own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. I record this as an open question rather than a settled disagreement.
 
