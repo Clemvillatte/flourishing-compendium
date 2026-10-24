@@ -1486,7 +1486,22 @@
      "note": "story_check clean; Ovid Book 11 opened and quoted verbatim"
     }
    ]
+  },
+  "s1a-047": {
+   "status": "ready",
+   "angle": "D041: Woodcarver Qing's bell stand — fasting to stillness before the right seeing and the right work (Zhuangzi ch. 19)",
+   "history": [
+    {
+     "t": "2026-10-24T14:13:42+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:14:17+00:00",
+     "to": "ready",
+     "note": "story_check clean; Zhuangzi XIX + Classic of Purity opened and quoted verbatim"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:13:29+00:00"
+ "updated": "2026-10-24T14:14:17+00:00"
 }
