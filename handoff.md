@@ -2357,3 +2357,16 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   take a free dos band per the DOSSIER bands annex (read
   dossiers/HANDOFF.md etc., deliver one v2 dossier + evidence ledger,
   validate with dossier_check.py, registry status stays "planned").
+
+## Agent launch record (2026-10-24, worker-p1a-b303ba60)
+
+- Owner requested Path A. Account: sepercsahlil49+ak0mj@outlook.com.
+- Task URL: https://www.perplexity.ai/computer/tasks/729ac90e-0e3f-4aed-b795-4b1e1e398389
+- Launched at 2026-10-24 14:07 UTC with PROMPT-WORKER.md's complete canonical
+  prompt body. Verified the pasted text against the prepared file before
+  submission; only the browser's extra trailing newline differed.
+- Credential exception explicitly approved by the owner: the token placeholder
+  remains intact; the owner supplies the GitHub token through the new session's
+  secure credential form. No secret was exported or stored in the repository.
+- The second address in the owner's subsequent request,
+  krzalfsonkasss+tbqiw@outlook.com, is designated for PROMPT-STORYTELLER.md.
