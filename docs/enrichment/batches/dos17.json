@@ -1,5 +1,8 @@
 {
  "batch": "dos17",
  "done": [],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos17-manifest.json"
+ "note": "body dossier minted 2026-10-24 (worker-pplx-dos27-mint, baton dos27 under the owner-directed MINTING directive, then baton-bookkeeping corrected to dos17 which is the Body manifest band): v2 format, checker exit 0 (52 card links, 8 headers, 1 external carrier); Husserl Leib/Körper quote re-fetched from SEP and verified character-for-character; all glosses paraphrase card bodies read this session; polyvagal caveat (card is thin); practice labeled editorial; registry status left planned for supervisor flip; art body.jpg noted",
+ "review": [
+  "body"
+ ]
 }
