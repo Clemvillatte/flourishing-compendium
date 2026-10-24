@@ -31,8 +31,7 @@ Someone whose necessities are secure forgoes one optional purchase for several d
 ## Related concepts
 
 - [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
-
-## Practice kernels
+- [[T013 — Seneca]]: the Letter 18 poverty rehearsal the page builds its practice on.## Practice kernels
 
 - [[K260 — Wise-reasoning prompts|K260 Wise-reasoning prompts]]
 - [[K262 — Pre-decision review|K262 Pre-decision review]]

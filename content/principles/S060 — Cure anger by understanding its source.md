@@ -41,8 +41,7 @@ The remedy he prescribes:
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the empty-boat reflection the page cites for anger's source.
-
-## Sources
+- [[T013 — Seneca]]: De Ira, the therapeutic manual the page's cure works from.## Sources
 
 - [Seneca, Of Anger Book I (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I): anger as short madness, definitions, reason versus anger
 - [Seneca, Of Anger Book II (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_II): the remedy of delay

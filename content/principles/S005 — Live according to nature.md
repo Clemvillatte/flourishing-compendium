@@ -29,8 +29,7 @@ Suppose a shared project changes after a setback. Reconsider what your responsib
 ## Related concepts
 
 - [[T012 — Laozi]]: the Daoist living-according-to-nature comparison the page lists beside the Stoic claim.
-
-## Sources
+- [[T013 — Seneca]]: Letters 41 and 76 in the page's living-by-nature citations.## Sources
 
 - [Marcus Aurelius, Meditations II.9, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html) — quoted verbatim
 

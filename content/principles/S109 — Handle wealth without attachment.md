@@ -27,8 +27,7 @@ The compendium applies the passage to wealth: money is one of the places Marcus 
 ## Related concepts
 
 - [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
-
-## Sources
+- [[T013 — Seneca]]: the page's own question, whether the wealthy Seneca could mean his words.## Sources
 
 - [Meditations VIII.1, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
 

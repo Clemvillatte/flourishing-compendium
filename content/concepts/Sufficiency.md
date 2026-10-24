@@ -35,3 +35,6 @@ Chapter 44 opens by asking the reader to weigh life against fame and wealth, the
 - [[S022 — Do not fear poverty]]
 - [[S084 — Practise gratitude]]
 - [[MO018 — Recognise the difference between needs and wants — not all desires are equal]]
+
+## Related concepts
+- [[T013 — Seneca]]: Letters from a Stoic in the page's sources.

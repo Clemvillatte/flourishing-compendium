@@ -33,8 +33,7 @@ Follow Letter 18 for three days: plain food and plain clothes, and each day ask 
 ## Related concepts
 
 - [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
-
-## Sources
+- [[T013 — Seneca]]: Letters 17 and 18, the poverty passages the page quotes.## Sources
 
 - [Seneca, Moral letters to Lucilius, Letter 17 (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_17)
 - [Seneca, Moral letters to Lucilius, Letter 18 (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)

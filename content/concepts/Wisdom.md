@@ -66,7 +66,7 @@ A related line of research asks whether groups have their own intelligence. Wool
 - [[Klesha transmuted into wisdom]] — the Vajrayana parallel: afflictions ripened into wisdom
 - [[Socioemotional wisdom]] — the emotional side of the construct family
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
-## Sources
+- [[T013 — Seneca]]: the Stoic line the page carries.## Sources
 
 - Baltes and Staudinger, 2000
 

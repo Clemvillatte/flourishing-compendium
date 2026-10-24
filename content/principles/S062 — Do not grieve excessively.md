@@ -25,8 +25,7 @@ On "excessive": prolonged grief disorder requires grief lasting beyond 6 months 
 ## Related concepts
 
 - [[T012 — Laozi]]: the second-hand citation among the grief sources the page leans on.
-
-## Sources
+- [[T013 — Seneca]]: Letter 63, the grief letter the page quotes at length.## Sources
 
 - [Seneca, Letter 63 (Gummere), Standard Ebooks](https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/text/letter-63)
 - [Stroebe and Schut 1999, PubMed](https://pubmed.ncbi.nlm.nih.gov/10848151/)

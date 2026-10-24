@@ -27,8 +27,7 @@ The compendium applies the passage to any crowd, online or physical. The warning
 ## Related concepts
 
 - [[T012 — Laozi]]: the guard-your-senses-from-overload teaching (Daodejing 12) the page lists.
-
-## Sources
+- [[T013 — Seneca]]: the crowd counsel the page's story carries (ST218).## Sources
 
 - [Enchiridion XXXIII, Thomas Wentworth Higginson translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt) — the single locator the body uses
 

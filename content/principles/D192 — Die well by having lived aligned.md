@@ -31,8 +31,7 @@ The test for a good death is a settled life. Accounts kept current, amends made 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the True men of old (chapter 6) who knew no love of life or hatred of death.
-
-## Sources
+- [[T013 — Seneca]]: On the Shortness of Life, the life-is-short argument the page draws on.## Sources
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 33, 50
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 6, True men of old

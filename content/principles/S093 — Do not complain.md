@@ -27,8 +27,7 @@ On the psychology side, Gross and John found in five studies that habitual reapp
 ## Related concepts
 
 - [[T012 — Laozi]]: the wu wei non-forcing parallel (Daodejing 37) the page lists.
-
-## Sources
+- [[T013 — Seneca]]: cited at second hand for the page's complaint material.## Sources
 
 - [Epictetus, Enchiridion 8 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, opened
 - [Marcus Aurelius, Meditations IV.49 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Book Four opened

@@ -29,8 +29,7 @@ Epictetus gives the sequence. Asked what virtue produces, he answers in one line
 ## Related concepts
 
 - [[T012 — Laozi]]: the wu wei non-forcing parallel (Daodejing 37) the page lists.
-
-## Psychology parallels
+- [[T013 — Seneca]]: De Tranquillitate Animi, where the page's definition of peace of mind comes from.## Psychology parallels
 
 - **[[Equanimity|Equanimity as contemplative outcome]]** ([Desbordes et al., 2014)
 - **[[Nonattachment|Nonattachment]]** ([Sahdra et al. review](https://non-attachment.com/...)

@@ -26,8 +26,7 @@ After redundancy, someone can still want another job and worry about the bills. 
 ## Related concepts
 
 - [[T011 — Socrates]]: the oracle story (ST152) the page lists: knowing what you do not know.
-
-## Sources
+- [[T013 — Seneca]]: the Letter 8 lines the page quotes on fortune's loans.## Sources
 
 - [Epictetus, Discourses I.25, Oldfather translation, The Stoic Library](https://thestoiclibrary.com/discourses/1/25) — the moral-choice rule; the faithfulness passage
 - [Epictetus, Discourses II.5, Oldfather translation, The Stoic Library](https://thestoiclibrary.com/discourses/2/5) — materials indifferent, their use not

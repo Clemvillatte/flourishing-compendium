@@ -39,8 +39,7 @@ Imagine a freelancer deciding how many clients to accept. They first consider es
 - [[Sufficiency]]: the philosophical question of enough.
 - [[Contentment with sufficiency]]: the Daoist comparison.
 - [[Aspiration index]]: research on the relative importance of life goals.
-
-## Sources
+- [[T013 — Seneca]]: the self-sufficiency letters behind the page's sufficiency line (ST194).## Sources
 
 - [Laozi, Daodejing 44 and 46, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter texts
 - [Alan Chan, "Laozi", Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/): basic needs and self-gratifying desire.
