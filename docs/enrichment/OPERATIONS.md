@@ -1,3 +1,16 @@
+# Supervisor QC entry 3 — 2026-10-24, T+42 (parallel workers spot-check)
+
+- dos22 (Right Livelihood, worker-pplx-dos22-1024h): checker exit 0,
+  60 links. Spot-check of both divergences against the same-question
+  bar: PASS. Both state a shared question, quote both positions from
+  opened carriers (Vanijja Sutta vs Weber on the calling; five-trades
+  list vs Dewey on occupation), and state what remains unresolved
+  honestly. Structural + divergence spot-check, not full content
+  approval.
+- dos21 (Right Action, worker-pplx-dos21-1024a): checker exit 0, 55
+  links; their pass-2 message records advisor QC with raw-verified
+  quotes. Structural check only.
+
 # Supervisor QC entry 2 — 2026-10-24, T+41 (ST085 follow-through)
 
 The ST085 card fix (pass a2c7c5d7e) changed the story's carrier, but
