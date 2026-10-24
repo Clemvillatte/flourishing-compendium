@@ -133,6 +133,8 @@ Aristotle's account of virtue of character holds that character is formed by doi
 
 [The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation): Dewey's term for where morality actually happens, not in the rule and not in the inner self, but in the concrete meeting of a person's dispositions with an environment.
 
+[Moral situation research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20situation%20research): the situationist literature behind the claim that context dominates in real moral choice, Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings.
+
 [Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation): Johnston's reading of Yoga Sūtra II.29, the Commandments, non-injury, truthfulness, abstention from stealing and the rest, placed before the Rules; conduct as the foundation of practice.
 
 ## Where the traditions genuinely disagree
@@ -151,7 +153,15 @@ Aristotle takes the other side:
 
 > "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
 
-The positions answer the same question and oppose each other directly: for Socrates and Wang, the person who knows the good and does not act does not yet know; for Aristotle, such a person is a plain fact, and the enquiry is into what kind of knowing passion suspends. What the carriers leave open is the account that would reconcile them, whether Aristotle's man who fails while knowing knows in the strict sense or only in the way Wang would call not-yet-knowing; the wiki holds materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and does not settle it.
+Aristotle's resolution, two chapters on, moves part of the way back toward Socrates:
+
+> "the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense." ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
+
+Wang's knowledge, as the reference article presents it, is knowing how to respond rather than grasping information:
+
+> "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
+
+The confrontation is real: Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; the wiki holds materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and does not settle it.
 
 ## Practice: variation, selection, retention
 
@@ -183,7 +193,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### The stopped harm
 
-[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; his verses say "'Doer of No Harm' is my name, but I used to be a doer of harm", and the clod, stone and potsherd thrown at him on his alms round are met with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
+[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; his verses give the name as Doer of No Harm, say he used to be a doer of harm, and that today he is true to his name and harms no one at all, and the clod, stone and potsherd thrown at him on his alms round are met with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
 
 ### Harm discovered late
 
@@ -195,4 +205,4 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Rules and situations
 
-[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is useless and a goose is killed because it cannot cackle; Zhuangzi's answer to his disciples challenges both a fixed strategy and a supposedly safe midpoint, a rule that protects in one setting may fail in the next.
+[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): in the card's telling, a tree is spared because its wood is useless and a goose is killed because it cannot cackle; Zhuangzi's answer to his disciples challenges both a fixed strategy and a supposedly safe midpoint, a rule that protects in one setting may fail in the next.

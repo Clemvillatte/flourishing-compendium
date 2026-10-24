@@ -2,14 +2,15 @@
 
 Verification record for docs/enrichment/dossiers/right-action.md, revision 1.
 Every quoted fragment in this dossier was fetched and read from its carrier
-during this session (2026-10-24, ~07:41–08:00 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:5xZ reading) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here.
+during this session (2026-10-24, ~07:41–07:50 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just before the 07:50:38Z reading) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot).
 and every quoted passage was then re-verified against raw, unprompted
 carrier text (direct fetch of each carrier URL, tags stripped, whitespace
-normalised, substring check). All eight quoted passages are FULL MATCH
-against the raw carrier text; the dossier contains 8 external
+normalised, substring check). All ten quoted passages are FULL MATCH
+against the raw carrier text; the dossier contains 10 external
 carrier-link occurrences covering 5 distinct carrier URLs. (Pass 2
 added the Bodhi non-stealing counterpart quotation; pass 3 added the
-Nicomachean Ethics VII.2 pair, verified the same way.)
+Nicomachean Ethics VII.2 pair; pass 4 added the NE VII.3 resolution
+and the IEP Wang knowledge passage, all verified the same way.)
 
 ## Quotes opened this session (fetch of the carrier page)
 
@@ -55,7 +56,38 @@ grouped as editorial connections (Harm principle, Judgment adds the harm)
 are labelled as such in the map text, following the same convention as
 the Right Intention dossier.
 
-## Divergence (pass 3 upgrade)
+## Divergence (pass 4 qualification)
+
+Pass 4 checked the advisor's blocker: Aristotle's resolution in VII.3
+was read from the same carrier and quoted ("the result which Socrates
+was seeking comes out... but in the presence of that Knowledge which
+is conveyed by Sense"), and the IEP discussion of what Wang counts as
+knowledge was read and quoted ("For Wang, knowledge means knowing how
+to respond to a given situation and action is responding to a given
+situation"). The section's closing claim was downgraded from "oppose
+each other directly" to "the confrontation is real", with the VII.3
+resolution stated and the open question reframed as the fit between
+Wang's knowing-how and Aristotle's Knowledge proper versus
+sense-conveyed knowing.
+
+## Pass-4 note on inline quotation
+
+The Angulimala logline's nested verse quotation was checked against
+MN 86 raw text; the raw reads with double quote marks around "Doer of
+No Harm", which cannot nest cleanly inside the logline's own quoting,
+so the verse is now paraphrased at word level without quotation marks
+(his verses give the name as Doer of No Harm...). The "once & for all"
+inline quotation remains, verified verbatim against MN 86.
+
+## Card read correction
+
+Moral situation research was excluded in pass 3 as "card body empty";
+that was an awk artifact (the tool exits on the first blank line). The
+card was read properly in pass 4 and added to the map (the situationist
+literature: Doris's Lack of Character, the hurrying seminarians,
+Milgram's obedience findings).
+
+## Divergence (pass 3 history)
 
 Pass 3 investigated the discriminator the advisor identified: Aristotle's
 treatment of acting against knowledge in Book VII. The Chase translation
@@ -111,19 +143,24 @@ within the compendium's general retention framing.
   logline now attributes the karma reading to the sutta's own words
   ("the fruit of the kamma that would have burned you in hell... you are
   now experiencing in the here-&-now").
-- ST087 (Schindler's List): the seed card's carrier is the film's
-  Wikipedia page, not a study; the logline now attributes the reading to
-  the card ("the card's own reading is...") and stays within what the
-  card asserts. The Wikipedia carrier was not opened; flagged for a
-  future pass if a stronger carrier is wanted.
-- ST295 (Prometheus Steals): the seed card's carrier is the Wikipedia
-  Prometheus page; the logline compresses the card's own summary and now
-  labels the juxtaposition with the second restraint as editorial. The
-  Wikipedia carrier was not opened; same flag.
-- ST384 (The Tree Is Spared; the Goose Is Killed): the seed card cites
-  Zhuangzi 20.1 (ctext.org/zhuangzi/tree-on-the-mountain), which
-  matches the parable; the logline compresses the card's own summary.
-  The ctext page was not opened this pass; flagged with the other two.
+- ST087 (Schindler's List): the carrier (the film's Wikipedia page)
+  was opened in pass 4; the logline's facts are supported ("spends his
+  fortune bribing Nazi officials", "credited with saving more than
+  1,200 Jews"), and the interpretation is attributed to the card.
+- ST295 (Prometheus Steals): the carrier (the Wikipedia Prometheus
+  page) was opened in pass 4; the punishment details are supported
+  verbatim ("bound to a rock, and an eagle... was sent to eat his
+  liver"); the juxtaposition with the second restraint is labelled
+  editorial.
+- ST384 (The Tree Is Spared; the Goose Is Killed): the ctext carrier
+  (zhuangzi/tree-on-the-mountain) was attempted three times (page-open
+  tool and two direct fetches; returns a 1934-byte shell with no
+  content). Fallback carriers attempted and failed: sacred-texts.com
+  Zhuangzi pages (HTTP 403 from this sandbox) and terebess.hu (index
+  loads but the chapter link is not exposed). Precise limitation
+  recorded; the logline now opens "in the card's telling" and asserts
+  no carrier-verified narrative. FLAGGED for the supervisor, who may
+  verify against ctext from a different network.
 
 ## Exhaustiveness sweep (pass 3, untruncated)
 
