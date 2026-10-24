@@ -99,3 +99,19 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
   vs evidence separated; no inner motives claimed). PASS from the supervisor
   sample — for the s1b teller after its own lane QC. The D067 secondary flag is
   left to owner/teller judgment (not claimed in the draft).
+
+## Addendum 5 — s1a-031 supervisor sample QC, 2026-10-24 ~15:03 UTC
+
+- s1a-031 (The All Is Aflame, B016, qc_pending): read in full; all quoted
+  fragments re-verified verbatim against the freshly opened dhammatalks.org
+  SN 35:28 page (one passage differs only in curly-vs-straight quote marks —
+  words verbatim; same documented normalization class). The "formerly
+  worshiped fire" line is the carrier's meta description, cited as the page's
+  introduction — accurate. Three advisor QC rounds already recorded in the
+  draft. PASS from the supervisor sample.
+- ROUTE NOTE for the teller/owner: the draft's ROUTE request was written when
+  B016 was zero-story; ST486 (s1b-027, Devadatta) is now registered on B016.
+  The standing scope ruling covers zero-story principles, so a second B016
+  story is no longer automatically covered — owner/teller judgment needed on
+  whether to register it anyway (the two stories are complementary: doctrine
+  vs narrative).
