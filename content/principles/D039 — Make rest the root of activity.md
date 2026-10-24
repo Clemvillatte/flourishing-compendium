@@ -12,18 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 39** — Make rest the root of activity
 
-Chapter 26 of the Daodejing gives the principle its terms.
+Chapter 26 of the Daodejing links movement with stillness through the image of a travelling ruler ([Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm)):
 
 > Gravity is the root of lightness; stillness, the ruler of movement. Therefore a wise prince, marching the whole day, does not go far from his baggage waggons. Although he may have brilliant prospects to look at, he quietly remains (in his proper place), indifferent to them. (Daodejing 26, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The prince travels all day while staying near his baggage waggons. The closing warning concerns a ruler who acts lightly and loses his root of gravity (DDJ 26). As a practical application to rest, use the image to plan pauses alongside demanding commitments.
+The prince is on the road all day; the chapter's contrast concerns the steadiness he maintains while travelling. It closes by warning the ruler against acting lightly and losing his root of gravity ([DDJ 26](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-(DDJ 26.)
+I draw a modest application to rest from this image: include pauses in the way you undertake a commitment. The chapter does not prescribe a sleep schedule or establish how much recovery a particular activity requires.
 
-**Plain words**
-A calendar filled entirely with work leaves rest dependent on a cancellation. Put breaks into the plan when you put the work in, instead of hoping space will appear later.
+### Plain words
 
-*For example:* Imagine a musician planning a demanding rehearsal week. Reserve an evening without rehearsals before adding extra sessions.
+Rest can be part of fulfilling a commitment, with a place in the plan from the outset. If you arrange a week as though every hour must be available for work, rest has no agreed place. Consider what you can leave uncommitted and what would make that possible.
+
+### For example
+
+Imagine a musician planning a demanding rehearsal week. They could reserve an evening without rehearsals before accepting extra sessions, then discuss that limit with the ensemble. Afterwards, they can review how the arrangement served both the work and their need for rest, and adjust the next week's commitments. This is my illustration of the principle, not a regimen supplied by Laozi.
 
 ## Sources
 - [[T012 — Laozi]]: the chapter 26 terms the principle takes: rest as the master of restlessness.

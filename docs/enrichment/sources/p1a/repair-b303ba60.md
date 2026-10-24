@@ -90,3 +90,11 @@ are not certified by this body-level review.
 - Repair: restored political and interpersonal stakes instead of presenting a free-floating mindfulness slogan. Identified Zhongni as the dialogue's Confucius rather than presenting the scene as a historical report. Plain words directly explains revisability in listening; the existing deadline example now includes checking understanding, changing the response and subsequent review.
 - Saturation: mind/heart/emptiness concepts and the existing T009/T037 connections were checked. No general Buddhist emptiness or meditation-equivalence edge proposed.
 - Limits: modern listening exercise does not exhaust the cultivation ideal; no guarantee of safety with tyrants, dangerous people or abusive relationships, and no claim of a treatment effect.
+
+## D039: Rest as root of activity
+
+- Opened: [Daodejing 26, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm), full chapter; also reviewed chapter 16's distinct returning-to-stillness image, without importing its longevity claims.
+- Evidence: retained quotation is exact. The traveller remains in motion all day and the ending explicitly addresses a ruler, gravity, light action and the throne. The connection to scheduling modern rest is therefore identified as my practical extension rather than Laozi's specific instruction.
+- Repair: clarified the difference between maintained stillness/composure in the passage and a contemporary rest schedule. Plain words explains rest as a planned part of commitments; the musician illustration includes discussion, observation and revision.
+- Saturation: `enrich_find.py mention rest and activity` and matching rest/stillness concept inventory checked. Existing kernels already cover scheduled empty time, sleep and rest; no additional generic graph edge.
+- Limits: no source-derived sleep quota, recovery prescription or health guarantee. The British Museum candidate URL failed to fetch and supplies no evidence or citation.
