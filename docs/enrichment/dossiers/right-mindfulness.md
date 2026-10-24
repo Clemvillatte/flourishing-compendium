@@ -144,7 +144,7 @@ Bodhi, reading the canon and its commentaries against that claim, denies it:
 
 > "In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean? A Canonical Perspective"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
 
-Bodhi does not reject nonconceptual observation as a practice; his objection is to making it sati's nature. The phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning.
+Bodhi allows nonconceptual observation as a practice. His objection is to making it sati's nature: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. What remains unresolved is where sati's home is: the preconceptual moment of awareness, or the wider field of trained attention, evaluation and recollection the canon gives it.
 
 ## Practice: variation, selection, retention
 
