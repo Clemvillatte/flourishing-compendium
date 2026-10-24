@@ -285,6 +285,41 @@ already carries this study with the PubMed link; the dossier cites the
 PMC full text as the opened carrier. Note: the previous attempts'
 failures were network/bot-block issues, not absent evidence.
 
+## Genuine-disagreement section established (pass 15, worker-pplx-dos24-1025a, 2026-10-24)
+
+The requirement left open since pass 4/7 is CLOSED: the dossier now holds a
+subsection "Is mindfulness bare, non-conceptual awareness?" built on a
+genuine affirm/deny pair on one proposition: "mindfulness (sati) is by
+nature non-conceptual bare attention that comes before thought."
+- AFFIRM: Bhante Henepola Gunaratana, Mindfulness in Plain English:
+  "Mindfulness is nonconceptual awareness. Another English term for sati
+  is 'bare attention.' It is not thinking. It does not get involved
+  with thought or concepts. . . . It is, rather, the direct and
+  immediate experiencing of whatever is happening, without the medium of
+  thought. It comes before thought in the perceptual process."
+- DENY: Bhikkhu Bodhi, "What Does Mindfulness Really Mean? A Canonical
+  Perspective" (Contemporary Buddhism 12.1, 2011, pp. 19-39; opened as
+  full PDF from ibc-elibrary.thanhsiang.org this pass, text extracted
+  with pdftotext): "In certain types of mindfulness practice,
+  conceptualization and discursive thought may be suspended in favour
+  of non-conceptual observation, but there is little evidence in the
+  Pali Canon and its commentaries that mindfulness by its very nature
+  is devoid of conceptualization."
+Both passages FULL MATCH against the opened PDF text (Gunaratana's
+words are quoted verbatim inside Bodhi's essay, which attributes them
+to Mindfulness in Plain English; attempts to open a direct carrier for
+the book chapter failed this pass: vipassana.com chapter URLs returned
+236-byte responses and Wayback returned redirect pages, so the Bodhi
+paper is the opened carrier for both quotes). Bodhi's two-respect
+critique of bare attention (conflates sati with manasikara; no act of
+cognition is ever entirely devoid of orientation and meaning) is
+paraphrased in the closing paragraph from the same opened source. The
+earlier Nyanaponika/Thanissaro subsections stay as honest open
+comparisons; Bodhi's paper also records that "Contrary to some
+contemporary vipassana teachers, Nyanaponika did not regard 'bare
+attention' as non-conceptual and non-verbal", which is why those
+subsections were not forced into contradiction.
+
 ## Card-body audit (pass 6 follow-up)
 
 A description audit read the assembled card bodies (frontmatter

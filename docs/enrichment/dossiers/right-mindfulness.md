@@ -136,6 +136,18 @@ Nyanaponika Thera makes bare attention the core of the practice:
 
 Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika emphasizes bare attention's importance in satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. These excerpts do not establish mutually exclusive positions. I hold both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and record the question as open.
 
+### Is mindfulness bare, non-conceptual awareness?
+
+Here two teachers of the same tradition state opposite answers to one question, in their own words. Gunaratana, in Mindfulness in Plain English, identifies sati with the fleeting moment of awareness before thought arrives:
+
+> "Mindfulness is nonconceptual awareness. Another English term for sati is 'bare attention.' It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process." ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
+
+Bodhi, reading the canon and its commentaries against that claim, denies it:
+
+> "In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean? A Canonical Perspective"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
+
+One affirms that mindfulness is by nature the bare registering that comes before thought; the other finds little canonical support for that nature, and his objection cuts twice: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. The disagreement is genuine and live between teachers of the same lineage, and it divides the wiki's own holdings: the Bare attention card carries the first position's practice, while the Sati and Right mindfulness cards carry the wider path framing the second position defends.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the default setting of the unattended life: experience passing unexamined, the body noticed only when it complains, attention captured by whatever arrives loudest. The adaptive direction is the factor's own shape, awareness established on some frame of the present, breath, body, feeling or thought, and returned to without drama when it wanders.
