@@ -86,3 +86,7 @@ narratives and angles; both pairs satisfy the taskboard's distinct-angle convent
 - DUPLICATE STORY PAGE ON ORIGIN/MAIN: content/stories contains TWO ST488 files — "ST488 — 35. The Painter Who Kept the Water Still.md" (old, draft-number-prefixed title) and "ST488 — The Painter Who Kept the Water Still.md" (the fix in 1fcdc6c23 renamed the file but the old copy still exists). The structure book and the D041 backlink still reference the OLD prefixed title; _order.json references only the NEW filename. Needs: delete the old-prefixed file, update the D041 backlink and the structure book entry to the new title. Not touched by s1b (s1a band).
 
 - RESOLVED (T+47): the ST488 duplicate flagged above was cleaned up by the active supervisor (commit 202981928 deletes the old prefixed file). No action remains.
+
+## Leads for the next s1b teller (verified open at T+48, 2026-10-24)
+
+Zero-story Daoism/Buddhism/Pragmatism principles not blocked by any lane draft at scan time (beyond the ones this session covered): D060, D140, D187, D132, D127, D103, D135, D136, D177, D076, D155, D033, D110 (principle body already retells the horse story), D150, D025, D084 (Zhuangzi useless tree - well-known), D189, D113, D042, D014, D096 (see s1b-036/ST368 flag: consider a D096 backlink to ST368 instead), D066 (covered by s1b-035), D029 (covered by s1b-037), D192 (covered by s1b-038). Check for narrative duplicates in content/stories/ AND all lane drafts before writing: backlink scans miss same-passage stories (lesson of s1b-036 vs ST368).
