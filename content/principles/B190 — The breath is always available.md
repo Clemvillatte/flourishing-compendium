@@ -22,7 +22,8 @@ The [sutta](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) introd
 
 The compendium suggests noticing an ordinary breath before replying, without treating that pause as the whole training. It also differs from research on structured breathwork: [Balban and colleagues (2023)](https://pubmed.ncbi.nlm.nih.gov/36630953/) compared daily five-minute breathing exercises with mindfulness meditation over a month. That trial does not establish an effect for this one-breath exercise.
 
-**Plain words** The breath is something happening now, before you have decided what to say. Noticing it gives attention a simple subject. You need not make a long breath short, turn a shallow breath deep, or produce a peaceful feeling. In this small exercise, the achievement is recognising an experience rather than controlling it.
+**Plain words**
+The breath is something happening now, before you have decided what to say. Noticing it gives attention a simple subject. You need not make a long breath short, turn a shallow breath deep, or produce a peaceful feeling. In this small exercise, the task is to recognise how breathing feels.
 
 For example: Before answering two non-urgent messages, someone tries noticing the breath at the nostrils once and at the belly another time. She keeps the location where breathing is easier to notice, then uses that cue again. She still answers the messages; neither a calmer mood nor a better reply is promised.
 
