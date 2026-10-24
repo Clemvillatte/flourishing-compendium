@@ -1406,7 +1406,22 @@
      "note": "story_check clean; sources opened and quoted verbatim"
     }
    ]
+  },
+  "s1a-042": {
+   "status": "ready",
+   "angle": "B122: Milinda and Nagasena's chariot — 'Nagasena' as a designation, the two truths in one dialogue",
+   "history": [
+    {
+     "t": "2026-10-24T14:06:01+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:07:48+00:00",
+     "to": "ready",
+     "note": "story_check clean; Milindapanha and MMK 24 opened and quoted verbatim"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:05:56+00:00"
+ "updated": "2026-10-24T14:07:48+00:00"
 }
