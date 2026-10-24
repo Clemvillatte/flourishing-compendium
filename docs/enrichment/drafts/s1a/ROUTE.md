@@ -184,3 +184,4 @@
 
 ## ROUTE for supervisor (2026-10-24, teller s1a, item 11)
 - s1a-050 (The Medium of Touch, P143) is drafted, story_check clean and pushed. P143 is outside the s1a scope list on STORIES-TASKBOARD; it is a high inbound-degree zero-story Pragmatism principle (17), found by regenerating the zero-story list. Please approve the scope extension or reassign the story at registration.
+- s1a-051 (The Squirrel, P012) is drafted, story_check clean and pushed. P012 is outside the s1a scope list on STORIES-TASKBOARD; it is a zero-story Pragmatism principle (14 inbound), found by regenerating the zero-story list. Please approve the scope extension or reassign the story at registration.
