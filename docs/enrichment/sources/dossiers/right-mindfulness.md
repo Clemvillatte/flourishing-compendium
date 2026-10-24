@@ -87,6 +87,25 @@ The checker (scripts/dossier_check.py) exits 0 on the current file:
   curly quotation marks; the dossier preserves them and the
   verification normalises curly to straight.
 
+## Pass 7: genuine disagreement established
+
+A second bounded investigation, per the advisor's round-2 window. The
+question: is bare attention part of sati? Nyanaponika Thera's The
+Power of Mindfulness (https://www.accesstoinsight.org/lib/authors/
+nyanaponika/wheel121.html , the Bare attention card's own carrier) was
+opened and read this pass: "Bare attention then becomes the key to
+the meditative practice of satipatthana, opening the door to mind's
+mastery and final liberation." Thanissaro's Mindfulness Defined
+(opened in pass 4) answers the same question the other way: bare
+attention and acceptance "are actually functions for other qualities
+in the mind. They're not automatically a part of sati." The two
+monastic writers give incompatible answers; the dossier states the
+disagreement plainly and does not reconcile it. Six blockquotes now,
+six FULL MATCH; checker exit 0 on the current file (45 card links,
+11 headers, 6 external carriers). The Kabat-Zinn/Thanissaro
+subsection remains a stated difference of emphasis, as the advisor
+required.
+
 ## Card-body audit (pass 6 follow-up)
 
 The full card bodies (not only openings) of all thirteen entries
