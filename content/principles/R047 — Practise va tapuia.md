@@ -41,3 +41,5 @@ In his colloquium paper he names the working parts — "tapu or taboo, feagaiga 
 - Melani Anae, "Teu le Va: Toward a Native Anthropology", *Pacific Studies* 33(2), 2010, quoting Tui Atua Tupua Tamasese Taisi Efi (2007), p. 3: [BYU-Hawaii digital collections](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/)
 - [Tui Atua Tupua Tamasese Taisi Efi, "In Search of Harmony: Peace in the Samoan Indigenous Religion" (paper for the colloquium organised by the Pontifical Council for Interreligious Dialogue, Vatican City, 12-15 January 2005)](https://www.library.auckland.ac.nz/external/ebooks/TupuolaEfiTuiatuaColloquiumpaperDec05.pdf) — the four harmonies and tapu/feagaiga/tuaoi (p. 2); the brother-sister feagaiga as status and covenant (p. 10)
 
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe-and-the-sacred research the page's relational sacred cites (Keltner and Haidt, 2003).

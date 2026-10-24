@@ -16,3 +16,9 @@ filename is "T032 — Linehan, Marsha" so links use the full card name. All
 modified pages pass the validator; build.py ok. Remaining t2b: Haidt 36,
 Dweck 33, Thich Nhat Hanh 35 (1 story blocked), Weil 38 (1 story blocked),
 Hadot 1 (story only, blocked).
+
+2026-10-24 06:27Z, worker-pplx-t2b-1024e: Haidt (T033) block complete - 36
+backlink glosses (24 principles, 10 concepts, 2 kernels), grounded in each
+page's own Haidt material (moral foundations, social intuitionist model, awe
+appraisals with Keltner, other-praising emotions with Algoe, Yaden et al.
+self-transcendence review). All modified pages pass the validator.

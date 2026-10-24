@@ -54,3 +54,6 @@ The sunset watched from the waiting room window — no ticket, no tour. What's y
 %%
 The miracle is not elsewhere. Where in your current ordinary day is the miracle actually located?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe research behind the page's wonder (Keltner and Haidt, 2003).

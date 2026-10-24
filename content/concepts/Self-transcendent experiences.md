@@ -35,8 +35,7 @@ The framework's value for the compendium's essays is that it groups states the t
 - [[Self-transcendence]] — the sibling page in the same family
 - [[Awe]] — one of the varieties the framework groups under the same two-component structure
 - [[Ego dissolution]] — the annihilational component named at its extreme
-
-## Sources
+- [[T033 — Haidt, Jonathan]]: the varieties review the concept draws its examples from (Yaden, Haidt and colleagues, 2017).## Sources
 
 - Yaden et al., 2017
 - [David Bryce Yaden, Jonathan Haidt, Ralph W. Hood Jr., David R. Vago and Andrew B. Newberg, “The Varieties of Self-Transcendent Experience” (2017)](https://journals.sagepub.com/doi/10.1037/gpr0000102), abstract: definition, examples and proposed framework.

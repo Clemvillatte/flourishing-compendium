@@ -43,3 +43,6 @@ Notice a flash of disgust at a person or group, and ask two questions. Is there 
 ## Practice
 
 - Notice when you feel disgust toward a person or group. Ask: "is this protecting me from actual harm, or is it a moral judgement dressed as contamination?" Disgust toward people is worth questioning.
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-disgust research the page's misapplication warning cites.

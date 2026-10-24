@@ -46,3 +46,6 @@ Where should the line fall between working to change an unjust law and refusing 
 %%
 What do laws teach a community about itself, beyond what they forbid?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-foundations authority findings behind the page's law line (Haidt, 2012).

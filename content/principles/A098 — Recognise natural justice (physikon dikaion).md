@@ -41,3 +41,6 @@ What makes you confident some acts are wrong whatever any law says? Is that conf
 %%
 How should people act when law and justice conflict, as in civil disobedience? What would you need to be willing to risk?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-foundations account of fairness intuitions the page cites (Haidt, 2012).

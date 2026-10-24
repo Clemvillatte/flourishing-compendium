@@ -41,3 +41,6 @@ How do you distinguish a genuine exception from a convenient excuse? Share a cas
 %%
 Some rules protect the vulnerable precisely by not bending. When is rigidity a form of care?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-dilemma research the page pairs with Kohlberg (Haidt, 2001).

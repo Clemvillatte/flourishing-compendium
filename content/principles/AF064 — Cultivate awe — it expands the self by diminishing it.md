@@ -49,3 +49,6 @@ For example: you spend ten minutes outdoors looking at the night sky, or standin
 ## Practice
 
 - Seek out experiences of vastness — nature, art, music, the night sky, extraordinary human achievement. Let yourself feel small in a way that is liberating rather than diminishing.
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation appraisals the page quotes (Keltner and Haidt, 2003).

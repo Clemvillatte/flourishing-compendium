@@ -37,3 +37,6 @@ Love, suffering and the encounter with the other are named in the original entry
 
 - **[[Ciphers of transcendence|Ciphers of transcendence]]** (Jaspers, Philosophy)
 - **[[The sacred|The sacred]]** (Otto, The Idea of the Holy; Marcel, The Mystery of Being)
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe-and-the-sacred research the page's ciphers cite (Keltner and Haidt, 2003).

@@ -44,3 +44,6 @@ The person who decides the office gossip is off their menu. What's your version 
 %%
 Refrain from taking life, taking what's not given, sexual misconduct. Which of those three is currently your actual issue?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-development research listing harm and fairness as primary intuitions (Haidt, 2012).

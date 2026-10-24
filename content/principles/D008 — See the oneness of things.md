@@ -29,8 +29,7 @@ The manager who helps a rival department succeed has made a move that loses from
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the chapter 2 passage the page quotes for the oneness of things.
-
-## Sources
+- [[T033 — Haidt, Jonathan]]: the awe research the page's oneness cites (Keltner and Haidt, 2003).## Sources
 
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2 (PDF page 10)
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 10, 39

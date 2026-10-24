@@ -48,3 +48,6 @@ Does having absolute rules make a person more or less wise? When have you been t
 %%
 How do absolute commitments protect people in suffering from being treated as a means to an end?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-foundations intuitions the page's absolutes rest on (Haidt, 2012).

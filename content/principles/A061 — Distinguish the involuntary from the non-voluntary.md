@@ -47,3 +47,6 @@ Someone who feels no regret about a harm may not have understood it. How do you 
 %%
 How might regret turn into repair, and how into rumination? What separates them?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the remorse and moral-emotion research the page cites (Haidt, 2003).

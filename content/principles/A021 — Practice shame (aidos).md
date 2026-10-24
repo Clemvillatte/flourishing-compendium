@@ -52,3 +52,6 @@ Shame can protect a community's standards and also crush individuals. How would 
 %%
 A society without shame might feel freer or more dangerous. What do you think happens to conscience when shame disappears?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-emotions research the page's shame line cites (Haidt, 2003).

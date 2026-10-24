@@ -47,3 +47,6 @@ How does seeing yourself as a small part change your sense of responsibility?
 %%
 Is proportion the same as humility? Describe the difference in your own life.
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe research the page's smallness cites (Keltner and Haidt, 2003).

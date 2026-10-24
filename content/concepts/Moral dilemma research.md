@@ -33,3 +33,6 @@ The social intuitionist model Haidt presents states that moral judgment is gener
 
 - [[A052 — Know when to depart from rules]]
 - [[A105 — Recognise the limits of law]]
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the social intuitionist challenge the concept opens with (Haidt, 2001).

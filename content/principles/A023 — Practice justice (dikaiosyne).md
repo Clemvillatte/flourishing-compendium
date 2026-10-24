@@ -39,8 +39,7 @@ Imagine a group allocating shared funds. One person proposes equal shares; anoth
 - [[Dikaiosyne]]: the virtue-word in this principle.
 - [[Justice]]: the broader philosophical comparison.
 - [[Procedural justice]]: fairness of procedure, a distinct question.
-
-## Practice kernels
+- [[T033 — Haidt, Jonathan]]: the moral-foundations theory behind the page's justice intuitions (Haidt, 2012).## Practice kernels
 
 - [[K250 — Virtue rehearsal|K250 Virtue rehearsal]]
 - [[K251 — Signature strengths in new ways|K251 Signature strengths in new ways]]

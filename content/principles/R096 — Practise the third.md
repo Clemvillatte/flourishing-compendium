@@ -39,3 +39,6 @@ The psychology bullets (Kohlberg 1981, Haidt 2012) are cited at second hand. A s
 
 - **The third** (Levinas, Otherwise Than Being)
 - **[[Justice|Justice]]** (Aristotle, Nicomachean Ethics V; Rawls, A Theory of Justice)
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the psychology citation the page marks as second-hand (Haidt, 2012).

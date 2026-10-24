@@ -41,3 +41,6 @@ For example: Someone reading these propositions might want to claim a recent ins
 
 - **[[Noesis, direct intellectual seeing|Noesis, direct intellectual seeing]]** (Plato, Republic VI, the divided line)
 - **[[The peace that passes understanding|The peace that passes understanding]]** (Paul, Philippians 4.7)- **[[The three kinds of knowledge|The three kinds of knowledge]]** (Spinozism)
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe-and-self-transcendent-experience research the page's joy cites (Keltner and Haidt, 2003).

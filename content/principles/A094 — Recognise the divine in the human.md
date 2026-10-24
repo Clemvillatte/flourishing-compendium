@@ -52,3 +52,6 @@ Aristotle says intellect is divine. How do you reconcile this with the ways inte
 %%
 What would it mean to honour another person's capacity to understand, even when they are suffering or confused?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe research the page's recognition builds on (Keltner and Haidt, 2003).

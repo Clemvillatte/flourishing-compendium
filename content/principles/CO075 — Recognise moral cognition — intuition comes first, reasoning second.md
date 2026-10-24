@@ -41,3 +41,6 @@ The model is also social, verbatim: it "deemphasizes the private reasoning done 
 ## Practice
 
 - When you feel a strong moral judgment, recognise that intuition came first. Ask: "is my reasoning actually driving this, or am I justifying an intuition?" Deliberate when the stakes are high.
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the social intuitionist model the page explains, his alternative to rationalist models.

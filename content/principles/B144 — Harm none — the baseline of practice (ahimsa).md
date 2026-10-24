@@ -56,3 +56,6 @@ The ruthless meditator: serene on the cushion, brutal to the family. What's your
 %%
 Ahimsa before any technique. What harm is your current practice actually standing on?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the harm-and-fairness intuitions the page's baseline cites (Haidt, 2012).

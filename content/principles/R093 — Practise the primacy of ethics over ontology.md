@@ -40,3 +40,6 @@ In your next conversation, put your phone away and look at the person while they
 
 - **Ethics as first philosophy** (Levinas, Totality and Infinity)
 - **[[The primacy of the ethical|The primacy of the ethical]]** (Levinas, Otherwise Than Being)
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-foundations citation the page marks as second-hand (Haidt, 2012).

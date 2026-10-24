@@ -35,3 +35,6 @@ The compendium uses "Moral development research" for the research tradition runn
 [[R109 — Practise social justice]]
 [[ST179 — The Lyre and the Boy]]
 ## Cited in philosophy parallels
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-foundations line the concept's history carries (Haidt, 2012).

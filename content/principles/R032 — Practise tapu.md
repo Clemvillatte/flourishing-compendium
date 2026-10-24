@@ -41,3 +41,6 @@ Before visiting a marae or any sacred place, ask your host what to do and what t
 ## Philosophy parallels
 
 - **[[The sacred|The sacred]]** (Otto, The Idea of the Holy; Durkheim, The Elementary Forms of Religious Life)
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the awe-and-the-sacred research the page's taboo cites (Keltner and Haidt, 2003).

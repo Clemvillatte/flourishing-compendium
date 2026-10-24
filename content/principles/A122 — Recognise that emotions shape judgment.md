@@ -41,3 +41,6 @@ Emotions can mislead. How do you tell useful information from distortion?
 %%
 How does attention to feeling change how you decide in situations where others' pain is involved?
 -->
+
+## Related concepts
+- [[T033 — Haidt, Jonathan]]: the moral-intuition research the page's claim carries (Haidt, 2001).
