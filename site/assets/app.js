@@ -8994,6 +8994,519 @@ window.fcDossiersData = {
       "group": "eemm",
       "status": "published",
       "art": "assets/dossier-art/cognition.jpg"
+    },
+    {
+      "id": "decision-making",
+      "title": "Decision-Making",
+      "question": "How does a person choose well under uncertainty, and what gets in the way?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say about choosing well, and where do choices go wrong?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person act on their own considered values when the pressure of a choice is highest."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- Choice: held under [Choice overload](card:Choice%20overload), [Paradox of choice](card:Paradox%20of%20choice) and [Choice architecture](card:Choice%20architecture); Sartre's cards on choosing a self sit in the last group of the map. - Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing. - Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here. - Akrasia: acting against one's own better judgment, held under its own group below."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on decision-making"
+        },
+        {
+          "t": "h2",
+          "x": "How people actually choose"
+        },
+        {
+          "t": "p",
+          "x": "[Decision-making research](card:Decision-making%20research): the study of how people actually choose: what they search through, when they stop, and how they feel about what they picked."
+        },
+        {
+          "t": "p",
+          "x": "[Dual-process theory](card:Dual-process%20theory): distinguishes autonomous Type 1 processing from Type 2 processing that depends on working memory and supports hypothetical reasoning."
+        },
+        {
+          "t": "p",
+          "x": "[System 1 and System 2](card:System%201%20and%20System%202): Kahneman's names for fast, automatic, intuitive thought and slow, effortful, deliberate thought."
+        },
+        {
+          "t": "p",
+          "x": "[Rationality research](card:Rationality%20research): Stanovich's programme: intelligence and rationality come apart, so a person can be smart and still reason badly."
+        },
+        {
+          "t": "p",
+          "x": "[Prospect theory](card:Prospect%20theory): Kahneman and Tversky's 1979 descriptive model of choice under risk, a critique of expected utility theory."
+        },
+        {
+          "t": "p",
+          "x": "[Regret Theory](card:Regret%20Theory): Loomes and Sugden: anticipated regret enters decisions, and people pay to avoid it."
+        },
+        {
+          "t": "h2",
+          "x": "Heuristics: shortcuts and their errors"
+        },
+        {
+          "t": "p",
+          "x": "[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](card:Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty."
+        },
+        {
+          "t": "p",
+          "x": "[Ecological rationality](card:Ecological%20rationality): a simple decision rule is good or bad only relative to the environment it is used in."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive biases](card:Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts."
+        },
+        {
+          "t": "p",
+          "x": "[Affect heuristic](card:Affect%20heuristic): positive or negative feelings about an object drive judgments of its risk and benefit."
+        },
+        {
+          "t": "p",
+          "x": "[Availability heuristic](card:Availability%20heuristic): ease of recall is used as a proxy for frequency."
+        },
+        {
+          "t": "p",
+          "x": "[Representativeness heuristic](card:Representativeness%20heuristic): similarity stands in for likelihood in probability judgment."
+        },
+        {
+          "t": "p",
+          "x": "[Base rate neglect representativeness heuristic](card:Base%20rate%20neglect%20representativeness%20heuristic): judging by how well a case matches a stereotype while overlooking how common the categories are."
+        },
+        {
+          "t": "p",
+          "x": "[Anchoring effect](card:Anchoring%20effect): the pulling of a judgment toward a reference point, even when the reference point has no business near the judgment."
+        },
+        {
+          "t": "p",
+          "x": "[Framing effects](card:Framing%20effects): different descriptions of the same fact produce different decisions."
+        },
+        {
+          "t": "p",
+          "x": "[Endowment effect](card:Endowment%20effect): owning a thing raises what it is worth to its owner."
+        },
+        {
+          "t": "p",
+          "x": "[Status quo bias](card:Status%20quo%20bias): the tendency to stick with a current or previous choice more often than a neutral comparison would predict."
+        },
+        {
+          "t": "p",
+          "x": "[Default effect theory](card:Default%20effect%20theory): people are more likely to pick an option that is already selected for them."
+        },
+        {
+          "t": "p",
+          "x": "[Negativity bias](card:Negativity%20bias): bad events have more psychological impact than good ones of similar size."
+        },
+        {
+          "t": "p",
+          "x": "[Survivorship bias](card:Survivorship%20bias): drawing conclusions from what made it through a selection process while overlooking what did not."
+        },
+        {
+          "t": "h2",
+          "x": "Overconfidence and holding on"
+        },
+        {
+          "t": "p",
+          "x": "[Overconfidence effects](card:Overconfidence%20effects): the family of biases in which people rate themselves, their performance or their knowledge too highly."
+        },
+        {
+          "t": "p",
+          "x": "[Planning fallacy](card:Planning%20fallacy): the confident belief that your project will run as planned, held even while you know that most similar projects ran late."
+        },
+        {
+          "t": "p",
+          "x": "[Optimism bias unrealistic optimism](card:Optimism%20bias%20unrealistic%20optimism): people rate their own chances of good events as above average and of bad events as below average."
+        },
+        {
+          "t": "p",
+          "x": "[Hindsight bias](card:Hindsight%20bias): people see outcomes as more predictable after they know how things turned out."
+        },
+        {
+          "t": "p",
+          "x": "[Confirmation bias](card:Confirmation%20bias): the tendency to search for, interpret, favor and recall information in a way that confirms what one already believes."
+        },
+        {
+          "t": "p",
+          "x": "[Bias blind spot](card:Bias%20blind%20spot): people see biases operating in everyone but themselves."
+        },
+        {
+          "t": "p",
+          "x": "[Sunk cost effect](card:Sunk%20cost%20effect): the tendency to let spent money, effort or time steer present decisions."
+        },
+        {
+          "t": "p",
+          "x": "[Escalation of commitment](card:Escalation%20of%20commitment): the tendency to keep investing in a course of action that is going badly."
+        },
+        {
+          "t": "p",
+          "x": "[Impact bias](card:Impact%20bias): the systematic error people make when predicting their own future feelings."
+        },
+        {
+          "t": "h2",
+          "x": "Intuition and judgment"
+        },
+        {
+          "t": "p",
+          "x": "[Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Klein's account of how experienced decision-makers act fast under pressure."
+        },
+        {
+          "t": "p",
+          "x": "[Moral intuition research](card:Moral%20intuition%20research): asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains."
+        },
+        {
+          "t": "p",
+          "x": "[Social intuitionist model (Haidt)](card:Social%20intuitionist%20model%20%28Haidt%29): Haidt's 2001 account: moral intuitions come first, and reasoning is usually post-hoc."
+        },
+        {
+          "t": "p",
+          "x": "[Intuition as method](card:Intuition%20as%20method): Bergson sets intuition against analysis as two ways of knowing a thing."
+        },
+        {
+          "t": "p",
+          "x": "[Risk literacy](card:Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions."
+        },
+        {
+          "t": "p",
+          "x": "[Risk perception](card:Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies."
+        },
+        {
+          "t": "h2",
+          "x": "Too many options"
+        },
+        {
+          "t": "p",
+          "x": "[Choice overload](card:Choice%20overload): more options degrade satisfaction and decision quality (Iyengar and Lepper, 2000; Schwartz, 2004)."
+        },
+        {
+          "t": "p",
+          "x": "[Paradox of choice](card:Paradox%20of%20choice): the idea that having more options can leave people worse off, not better."
+        },
+        {
+          "t": "p",
+          "x": "[Maximizing versus satisficing](card:Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice."
+        },
+        {
+          "t": "h2",
+          "x": "Designing the choice"
+        },
+        {
+          "t": "p",
+          "x": "[Choice architecture](card:Choice%20architecture): seeks to influence decisions by designing their physical, social or psychological context while preserving freedom of choice."
+        },
+        {
+          "t": "p",
+          "x": "[Nudge theory Thaler](card:Nudge%20theory%20Thaler): Thaler and Sunstein's account of how small changes in choice architecture steer behaviour while preserving freedom to choose."
+        },
+        {
+          "t": "p",
+          "x": "[Debiasing techniques](card:Debiasing%20techniques): procedures for counteracting systematic errors of judgment, as sorted by Larrick in 2004."
+        },
+        {
+          "t": "p",
+          "x": "[Pre-mortem technique](card:Pre-mortem%20technique): imagining future failure improves identification of risks and reduces overconfidence."
+        },
+        {
+          "t": "p",
+          "x": "[Participatory decision-making](card:Participatory%20decision-making): shaping choices with the people who must live with them, not doing things to or for them."
+        },
+        {
+          "t": "h2",
+          "x": "Deliberation, will and weakness of will"
+        },
+        {
+          "t": "p",
+          "x": "[Prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action."
+        },
+        {
+          "t": "p",
+          "x": "[Boulesis (rational desire)](card:Boulesis%20%28rational%20desire%29): Aristotle's term for wish: the desire that aims at what is seen as good, as opposed to appetite and spirit."
+        },
+        {
+          "t": "p",
+          "x": "[Prudence](card:Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey: when action is blocked, competing habits and impulses are tried out in imagination instead of overt fact."
+        },
+        {
+          "t": "p",
+          "x": "[Akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29): in the modern discussion, action contrary to one's present better judgment."
+        },
+        {
+          "t": "p",
+          "x": "[Akrasia](card:Akrasia): acting against one's better judgment, \"knowing the better and doing the worse\"; Aristotle treats it as curable, a failure of habituation."
+        },
+        {
+          "t": "p",
+          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early."
+        },
+        {
+          "t": "p",
+          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
+        },
+        {
+          "t": "p",
+          "x": "[Temptation bundling (Milkman)](card:Temptation%20bundling%20%28Milkman%29): Milkman's method of pairing an instantly gratifying want with a valuable but effortful should."
+        },
+        {
+          "t": "p",
+          "x": "[Self-control training](card:Self-control%20training): the practice of doing small, regular self-control tasks in the hope of building a general capacity."
+        },
+        {
+          "t": "h2",
+          "x": "Choice and who one is"
+        },
+        {
+          "t": "p",
+          "x": "[Decision](card:Decision): in Jaspers's account of existential freedom, decision involves considering possibilities and committing to a choice."
+        },
+        {
+          "t": "p",
+          "x": "[Choice of self](card:Choice%20of%20self): Sartre: a person is not a thing with a ready-made essence but a project, a stance kept taking toward the world."
+        },
+        {
+          "t": "p",
+          "x": "[The originary choice](card:The%20originary%20choice): Sartre's account of what holds a person together: beneath particular decisions lies one original choice of how to be."
+        },
+        {
+          "t": "p",
+          "x": "[Moral dilemmas](card:Moral%20dilemmas): the Stanford Encyclopedia's definition: the agent is required to do each of two actions and cannot do both."
+        },
+        {
+          "t": "p",
+          "x": "[Moral dilemma research](card:Moral%20dilemma%20research): the study of judgment in cases where moral requirements conflict."
+        },
+        {
+          "t": "p",
+          "x": "[Choice Theory (William Glasser)](card:Choice%20Theory%20%28William%20Glasser%29): Glasser's proposal that behaviour is chosen to satisfy five basic needs."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Are heuristics a source of error, or a way of judging well?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a person decides quickly with part of the information, are they making a mistake? Gigerenzer and Gaissmaier set out the older view and then dispute it:"
+        },
+        {
+          "t": "q",
+          "x": "\"Because using heuristics saves effort, the classical view has been that heuristic decisions imply greater errors than do “rational” decisions as defined by logic or statistical models.\" ([Gigerenzer and Gaissmaier, Annual Review of Psychology 2011, abstract](https://spds.uni-konstanz.de/en/node/1119)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Their review reports the other result:"
+        },
+        {
+          "t": "q",
+          "x": "\"ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples.\" ([Gigerenzer and Gaissmaier 2011, abstract](https://spds.uni-konstanz.de/en/node/1119)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two readings are tied to different settings. The error view is built on tasks where a clear logical or statistical answer exists; the adaptive view is built on tasks where the world is uncertain and the rational model's assumptions are not met. The abstract itself says it is \"an empirical rather than an a priori issue how well cognitive heuristics function in an uncertain world\"."
+        },
+        {
+          "t": "h2",
+          "x": "Can a person trust their intuition?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a decision feels right, is that evidence? Kahneman, who made his name on the errors of intuition, and Klein, who studied how experts decide under pressure, spent years on the question and wrote up where they agree:"
+        },
+        {
+          "t": "q",
+          "x": "\"evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment.\" ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "On the feeling of being right they are blunt: \"Subjective experience is not a reliable indicator of judgment accuracy.\" The authors describe their starting point as the plain fact that \"professional intuition is sometimes marvelous and sometimes flawed\". The practical reading is that trust in a hunch depends on the field the hunch comes from, and that the sense of certainty cannot tell a skilled hunch from an overconfident one."
+        },
+        {
+          "t": "h2",
+          "x": "Is more choice better?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does having more options help a chooser? Iyengar and Lepper reported that it can backfire:"
+        },
+        {
+          "t": "q",
+          "x": "\"people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices.\" ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20&%20Lepper%20(2000).pdf)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A meta-analysis of the later literature found the general effect much weaker than the first studies suggested:"
+        },
+        {
+          "t": "q",
+          "x": "\"we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same abstract says that \"some idiosyncratic moderators proposed in single studies may still explain when and why choice overload reliably occurs\". So the fair summary is that large option sets sometimes hurt and sometimes help, and that the field has not found a reliable condition that predicts which."
+        },
+        {
+          "t": "h2",
+          "x": "Why do people act against their own judgment?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: if someone judges one course best, what could lead them to do another? Aristotle reports Socrates's answer and then rejects it:"
+        },
+        {
+          "t": "q",
+          "x": "\"For Socrates was entirely opposed to the view in question, holding that there is no such thing as incontinence; no one, he said, when he judges acts against what he judges best-people act so only by reason of ignorance. Now this view plainly contradicts the observed facts\" ([Aristotle, Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The compendium's cards on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a published replication reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the moment and the manner of the decision. The look-alikes of good judgment are speed, certainty and a long list of options. The adaptive moves are to slow a large decision, to examine what is being assumed, to ask what would count as enough, and to choose early the thing that will be hard to choose late."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Pre-decision review](card:K262%20%E2%80%94%20Pre-decision%20review): before a significant decision, write what you are assuming, what changes if the assumption is wrong, and the worst and best plausible outcomes."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Deliberation timeout](card:K264%20%E2%80%94%20Deliberation%20timeout): a mandatory wait of one to three days on decisions above a threshold."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Authentic-choice audit](card:K312%20%E2%80%94%20Authentic-choice%20audit): ask whether a choice comes from your own interest and endorsement or from external demand and guilt."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Values-based decision review](card:K353%20%E2%80%94%20Values-based%20decision%20review): review a decision you made by asking whether it expressed what you most value, and what got in the way."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Role-conflict deliberation](card:K283%20%E2%80%94%20Role-conflict%20deliberation): when two roles conflict, write what each demands and ask what a person of practical wisdom would do."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[The deliberative practice](card:K363%20%E2%80%94%20The%20deliberative%20practice): in a group decision, make sure every voice is heard before the verdict."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[The decisional-balance caution](card:K372%20%E2%80%94%20The%20decisional-balance%20caution): weighing pros and cons does not help when you have already decided to change and are ambivalent about following through."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Committed action](card:K152%20%E2%80%94%20Committed%20action): take one action today consistent with a chosen value, however small."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Public commitment](card:K244%20%E2%80%94%20Public%20commitment): declare an intention publicly, or to someone whose opinion matters to you."
+        },
+        {
+          "t": "p",
+          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, \"overestimating the intensity and duration of their emotional reactions to such events\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)): Secondary source; quoted passage checked."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the two-day wait on large choices, or the habit of writing down what they are assuming, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The choice that sets a path"
+        },
+        {
+          "t": "p",
+          "x": "[ST147 — Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): the young Hercules is visited by two women, one offering the easy road of pleasure now, the other the steep road of toil and lasting deeds, and he chooses the second."
+        },
+        {
+          "t": "p",
+          "x": "[ST196 — Cato Chooses the Republic](card:ST196%20%E2%80%94%20Cato%20Chooses%20the%20Republic): seeing Caesar's victory at Thapsus as inevitable, Cato chooses to die rather than accept a pardon he reads as a performance."
+        },
+        {
+          "t": "p",
+          "x": "[ST141 — Socrates Refuses to Escape the Question](card:ST141%20%E2%80%94%20Socrates%20Refuses%20to%20Escape%20the%20Question): offered an escape from prison, Socrates refuses it: one should never do injustice, not even in return for injustice."
+        },
+        {
+          "t": "h2",
+          "x": "Binding yourself in advance"
+        },
+        {
+          "t": "p",
+          "x": "[ST161 — Odysseus and the Mast](card:ST161%20%E2%80%94%20Odysseus%20and%20the%20Mast): Odysseus has the crew plug their ears with wax and bind him to the mast, with orders to add ropes and not remove them, so that he can hear the Sirens and survive."
+        },
+        {
+          "t": "p",
+          "x": "[ST170 — The Lotus-Eaters](card:ST170%20%E2%80%94%20The%20Lotus-Eaters): Odysseus's scouts eat the lotus and want only to stay eating, and he drags them weeping to the ships and ties them under the benches."
+        },
+        {
+          "t": "h2",
+          "x": "Judging the particular case"
+        },
+        {
+          "t": "p",
+          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
+        },
+        {
+          "t": "p",
+          "x": "[ST157 — The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time."
+        },
+        {
+          "t": "p",
+          "x": "[ST156 — The Navigator Reads the Sea](card:ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea): the practically wise person is like a navigator who cannot control the wind or the sea but reads the conditions, adjusts the sails and reaches port anyway."
+        }
+      ],
+      "group": "minds-life",
+      "status": "published",
+      "art": "assets/dossier-art/decision-making.jpg"
     }
   ],
   "groups": [
@@ -9020,11 +9533,6 @@ window.fcDossiersData = {
     }
   ],
   "roadmap": [
-    {
-      "id": "decision-making",
-      "title": "Decision-Making",
-      "group": "minds-life"
-    },
     {
       "id": "motivation",
       "title": "Motivation",
