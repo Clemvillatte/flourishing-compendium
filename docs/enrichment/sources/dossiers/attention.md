@@ -160,3 +160,23 @@ Scholarly review; Hasenkamp et al. 2012 — Study; Weil, Reflections (x2)
 
 No card link, quotation text or gloss was changed; only the eighteen
 verification suffixes moved from the public prose to this ledger.
+
+## Prose review defects (read-only, 2026-10-25)
+
+Substantive rework is gated on owner approval of the GF exemplar, so
+these are recorded for a future pass, not fixed here.
+
+Banned contrast constructions ("rather than") found: Mind-wandering
+("part of attention's life rather than its opposite"); Goal-directed
+attentional control ("steered by intention rather than pulled");
+ADHD interest-based attention ("rather than by the importance of the
+task"); Mooneyham and Schooler framing ("under particular conditions
+rather than disputing"); line 234 ("get the insulation rather than the
+cost"); ::Variation:: ("the return trained rather than the absence of
+wandering"); K328 Aesthetic attention ("rather than what it means");
+evidence-limits paragraph ("practice-guide conventions rather than
+tested doses").
+
+Bridging: as with affect and cognition, the map sections are
+single-line attributed glosses; the reader cannot say what question
+each section answered.
