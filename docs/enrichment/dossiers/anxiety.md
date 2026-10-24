@@ -166,7 +166,7 @@ Heidegger takes the same line further and reads the mood as a disclosure of what
 
 > "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/))
 
-The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is "relatively impenetrable to cognitive control" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)) The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted.
+The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is "relatively impenetrable to cognitive control" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted.
 
 ### Is the stress response a danger or an adaptation?
 

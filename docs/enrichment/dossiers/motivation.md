@@ -114,7 +114,7 @@ A competing meta-analysis reached the opposite bottom line:
 
 > "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))
 
-A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)) The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
+A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)). The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
 
 ### Is it how much motivation, or what kind?
 

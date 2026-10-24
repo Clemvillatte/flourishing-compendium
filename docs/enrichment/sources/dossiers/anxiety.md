@@ -59,7 +59,9 @@ as separate paragraphs so it no longer reads as a 229-word prose wall;
 no gloss or link was changed.
 
 Prose defects recorded for a future pass (substantive rework gated on
-GF owner approval): the dossier contains "rather than" contrast
-constructions; the disambiguation entries carry workflow-adjacent
+GF owner approval): the disambiguation entries carry workflow-adjacent
 phrasing ("The sources opened for this page do not say..."). The map
-sections remain single-line attributed glosses without bridging.
+sections remain single-line attributed glosses without bridging. (An
+earlier note here claimed "rather than" contrast constructions; a
+targeted search found none in this dossier, so that claim is
+withdrawn.)
