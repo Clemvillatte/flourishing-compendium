@@ -1,5 +1,7 @@
 {
- "batch": "dos6",
- "done": [],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos6-manifest.json"
+  "batch": "dos6",
+  "done": [
+    "lifes-purpose"
+  ],
+  "note": "lifes-purpose: v2 dossier complete (map 7 subthemes, 42 card links, 14 quotes verified against 6 freshly opened carriers, divergence Frankl vs Camus, VSR practice with 4 kernels); registry status left planned for supervisor flip; manifest title_sweep inventory is affect-family material, likely mint error, flagged in commit"
 }
