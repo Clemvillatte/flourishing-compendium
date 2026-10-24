@@ -326,3 +326,16 @@ at an angry person) rather than denying that measured anger can be
 fitting. The final pushed form is the advisor-cleared bounded
 disagreement on whether excellent character includes appropriate
 anger.
+
+## Verification pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+36)
+
+All 18 quoted passages in the dossier of record were re-verified
+against freshly downloaded copies of their carriers (full-match or
+in-order fragment match): SN 45.8, AN 6.63, MN 117, MN 19 (x4),
+Gita 3.4, Gita 2.47, SN 1.8, Ryan & Deci 2000, Bodhi waytoend,
+Thanissaro Right Mindfulness, Aristotle NE IV.5 (x2), SN 7.2 (x2).
+Two normalizations recorded: (a) the Ryan & Deci passage is verified
+across a PDF running-header artifact that splits "positively" in the
+extracted text; (b) the Thanissaro quotation's opening apostrophe is
+curly in the PDF (It's) and straight in the dossier (It's); all
+other characters match verbatim. No corrections needed.

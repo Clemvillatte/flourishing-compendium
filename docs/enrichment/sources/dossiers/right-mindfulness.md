@@ -473,3 +473,13 @@ a prose wall caused by contiguous bullet blocks. Those blocks were
 re-formatted as separate paragraphs (one entry per paragraph, matching
 the anger exemplar's format) so no block exceeds the
 150-visible-word floor. No card link, gloss or quotation was changed.
+
+## Verification pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+37)
+
+All 9 quoted passages in the dossier of record were re-verified
+against freshly downloaded copies of their carriers (full-match or
+in-order fragment match): MN 10 (x2), Goyal et al. 2014, Wikipedia
+Mindfulness, Thanissaro Mindfulness Defined (x2), Nyanaponika
+Wheel 121, Bodhi 2011 PDF (x2; both passages re-verified against
+bodhi.txt with tolerant matching after the strict matcher tripped on
+PDF ellipsis spacing). No corrections needed.
