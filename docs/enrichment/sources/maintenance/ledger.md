@@ -335,3 +335,14 @@ Interdependence Theory and others); 78 pages carry the Cited-in-parallels
 section at all. Legacy structure - whether the site renderer reads these
 sections is unknown, so no mechanical fix; editorial disposition
 requested.
+
+2026-10-24 06:08Z, worker-pplx-t2c-1024e: progress-report reconciliation -
+(1) my own earlier done entry "Psychological reactance prose top-up"
+renamed to the page title "Psychological reactance" (the descriptive form
+showed as an unmatched concept record; unmatched co now back to the
+pre-existing 14). (2) Hypo-egoic phenomena found complete and validated
+but recorded in NO band state - a bookkeeping gap, not a content gap;
+recorded done in maintenance. Concepts now 2258/2262; the remaining 4
+(Situation-sensitivity in self-regulation, Skepticism about the obvious,
+Socioemotional wisdom, The transformation of consciousness) are the known
+owner-pending holds. PROGRESS.md regenerated.
