@@ -1,5 +1,15 @@
 {
- "batch": "dos16",
- "done": [],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos16-manifest.json"
+  "batch": "dos16",
+  "done": [
+    {
+      "slug": "others",
+      "worker": "worker-pplx-dos16-1024a",
+      "state": "publication: pending supervisor",
+      "verification": "one-pass build: dossier + evidence ledger; 131 card links, checker exit 0; voice audit exit 0; seven external quotes verified word-for-word against carriers opened this session (Beckes & Coan 2011 PDF, PMC2752489, MIT NE IX.10 Ross, AccessToInsight Sn 1.8, Biblehub Matthew 5 KJV, Batson eutils 3418490, Klimecki eutils 23576808); ledger in docs/enrichment/sources/dossiers/others.md; registry left planned for supervisor flip",
+      "dates": {
+        "built": "2026-10-24"
+      }
+    }
+  ],
+  "note": "minted 2026-10-24; one dossier per band; see bands/dos16-manifest.json. Others dossier (EEMM group) built 2026-10-24 by worker-pplx-dos16-1024a; registry status left planned for supervisor flip."
 }
