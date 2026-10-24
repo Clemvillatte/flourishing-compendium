@@ -32,8 +32,11 @@ fear.md, sadness-and-grief.md, shame-and-guilt.md), in two passes: a keyword pas
 then an exact-target audit that decodes every #card= target in those files and
 compares it with each candidate's supporting cards, because keyword absence alone
 does not establish coverage absence and a shared card is not the same as a mapped
-family. Where the coverage test failed, I dropped or demoted the proposal rather
-than padding the list.
+family. One limit of that audit, stated here: a card's absence among the decoded
+links is evidence it is not placed, not proof that no passage discusses the
+construct; where the distinction mattered I read the relevant passages as well.
+Where the coverage test failed, I dropped or demoted the proposal rather than
+padding the list.
 
 Evidence status, stated once for the whole document: the card descriptions below
 summarize what the linked cards themselves say with their own opened carriers (each
@@ -124,11 +127,16 @@ Supporting cards (read in full: Acceptance, Radical acceptance):
   action; Stoic and Buddhist parallels marked on the card
 - [Radical acceptance](../../../content/concepts/Radical%20acceptance.md) — the
   feeling-as-wave skill, the ACT-for-anger and tolerance-oriented research with carriers
-- [Amor fati](../../../content/concepts/Amor%20fati.md),
-  [Experiential avoidance theory](../../../content/concepts/Experiential%20avoidance%20theory.md),
-  [Action commitment](../../../content/concepts/Action%20commitment.md),
-  [Chronic pain acceptance](../../../content/concepts/Chronic%20pain%20acceptance.md)
-  (opened in part)
+- [Amor fati](../../../content/concepts/Amor%20fati.md) (opened in part)
+- [Experiential avoidance theory](../../../content/concepts/Experiential%20avoidance%20theory.md)
+  (read in full: the Hayes et al. 1996 founding definition and the short-term
+  relief, long-term worsening sentence, with the Frontiers carrier on the card)
+- [Action commitment](../../../content/concepts/Action%20commitment.md) (opened in
+  part)
+- [Chronic pain acceptance](../../../content/concepts/Chronic%20pain%20acceptance.md)
+  (read in full: the McCracken and Vowles definition — engagement in activity with
+  pain present, without restrictions or avoidance attempts — and the predictive
+  claims, with the PMC carrier on the card)
 - kernels [K123 Radical acceptance](../../../content/kernels/K123%20%E2%80%94%20Radical%20acceptance.md)
   and [K385 Cognitive acceptance](../../../content/kernels/K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by.md)
   (titles verified); saying
@@ -216,8 +224,8 @@ this cluster.
 Supporting cards (read in full: Nature exposure, Ecological self):
 - [Nature exposure](../../../content/concepts/Nature%20exposure.md) — the Bratman et
   al. 2015 experiment, verified this session against
-  [the opened PNAS carrier](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/),
-  including the card's honest P=.07 qualification on the self-report measure
+  [the opened PNAS carrier](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/);
+  the card's P=.07 qualification on the self-report measure is recorded on the card
 - [Ecological self](../../../content/concepts/Ecological%20self.md) — Naess's account
   of the self as constituted by relations with the living world, with the Devall
   essay carrying the passage on the card; practice principles R119, R116, P152, R130
