@@ -14,7 +14,7 @@ Exact counts from origin/main (dossier Story sections): anger 13, affect 9, anxi
 
 "Raw-verified" in my earlier headings and commit summaries means quote-text substring checks against downloaded text. Some quotes were verified through rendering channels instead, and the logs disclose this only in places. Accurate channel list:
 
-- Search-rendered pages (not raw downloads): the Steger quotes (OUP chapter page is JavaScript-rendered; raw curl returns no abstract), Park Q4/Mil 3.1.1 (suttacentral is JS-walled).
+- Search-rendered pages (not raw downloads): the Steger quotes (OUP chapter page is JavaScript-rendered; raw curl returns no abstract) and the-self Q4/Mil 3.1.1 (suttacentral is JS-walled).
 - Wayback Machine: Deikman Q5/Q6 (live deikman.com is suspended).
 - "Two independent renderings" for Steger overstated independence: the channels were the fetch tool's page rendering and a search-engine-rendered copy of the same OUP page. Same underlying page, two rendering channels.
 - Quote checks certify the quoted passage only, not the linked page as a whole, and not the dossiers' analytic claims.
@@ -31,6 +31,6 @@ The spot-check covered motivation, goals and uncertainty (6 entries). The two ov
 
 ## 6. Park quote hyphen (new finding, resolved)
 
-Rendered-PDF check of Park (2010), The Meaning Making Model, EHP 15(2), p. 40: the printed sentence begins "Meaning making involves approach-oriented..." (no hyphen in "Meaning making"; the hyphen in "approach-oriented" is printed). The lifes-purpose dossier's quote reads "Meaning-making involves..." — a one-hyphen deviation from the printed text. The dossier's first Park quote ("Global meaning refers to individuals' general orienting systems...") is verbatim.
+Rendered-PDF check of Park (2013), The Meaning Making Model, EHP 15(2), p. 40 (the issue is dated June 2013): the printed sentence begins "Meaning making involves approach-oriented..." (no hyphen in "Meaning making"; the hyphen in "approach-oriented" is printed). The lifes-purpose dossier's quote reads "Meaning-making involves..." — a one-hyphen deviation from the printed text. The dossier's first Park quote ("Global meaning refers to individuals' general orienting systems...") is verbatim.
 
-FIXED: the hyphen was removed in the published dossier (commit e82cbf15, baton dos6 reclaimed and released for the purpose, checker exit 0).
+FIXED: the hyphen was removed in the published dossier (commit e82cbf15, baton dos6 reclaimed and released for the purpose, checker exit 0). Scope: the correction is in the Markdown of record only — the compiled Academy view (site/assets/app.js) still carries the old hyphenated sentence until a supervisor view rebuild (dossier_registry_build.py); generated files are outside worker edit scope.
