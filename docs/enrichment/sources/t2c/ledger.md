@@ -136,3 +136,12 @@ Inoculation Theory, Inquiry, Janis, Mental models theory, Objectification
 Theory, Psychological reactance, Reversal theory, The aha moment,
 The stress-buffering model, The tyranny of the ideal, VIA classification}.md -
 one-line newline repair, outside my bands so not edited.
+
+2026-10-24 06:09Z, worker-pplx-t2c-1024e: pre-taper verification pass on
+own items. (1) Gadamer block spot-check - 10 glosses sampled, all grounded
+in each page's own Truth and Method material (hermeneutic circle, fusion
+of horizons, wirkungsgeschichtliches Bewusstsein, rehabilitation of
+prejudice); full card name [[T049 — Gadamer, Hans-Georg]] used throughout.
+(2) Diacritic audit - the four t2c single-mention pages (Atman, Brahman,
+Deconstruction of essences, S046) all carry substantive diacritic-form
+mentions (Sankara/Nagarjuna); no further removals. t2c audit clean.
