@@ -11419,6 +11419,7 @@ function renderAcademyHome(){
   dossiersBtn.title = 'Theme dossiers: compilation, divergence, practice';
   dossiersBtn.onclick = () => {
     A.view = 'dossiers';
+    A.dossier = null;
     renderAcademy();
   };
   actions.appendChild(dossiersBtn);
@@ -12266,11 +12267,13 @@ if(document.readyState!=='loading') initGallery();
       window.__fcRoute.set((A.__pg ? '#practice=' : '#degree=') + A.degree);
     }
     else if (A.view === 'moduleDetail' && A.module) window.__fcRoute.set('#module=' + A.module);
+    else if (A.view === 'dossiers') window.__fcRoute.set('#view=dossiers');
+    else if (A.view === 'dossierDetail' && A.dossier) window.__fcRoute.set('#dossier=' + A.dossier);
     else window.__fcRoute.set('#view=academy');
     if (A.view !== 'degreeDetail') A.__pg = false;
   }
   window.__fcAcademyRoute = {
-    home: function(){ A.view='home'; A.degree=null; A.module=null; switchView('academy'); },
+    home: function(){ A.view='home'; A.degree=null; A.module=null; A.dossier=null; A.__gallery=false; switchView('academy'); },
     degree: function(id, practice){
       var deg = window.fcAcademyData.degrees.find(function(d){ return d.id === id; });
       if (!deg) return false;
