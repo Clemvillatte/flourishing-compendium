@@ -34,6 +34,9 @@ a new colleague joins her first team meeting. Before the meeting breaks up, you 
 
 - [Whitehead, Process and Reality, corrected edition (open PDF)](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf) — Part I, Ch. II ("The Categoreal Scheme"); Part IV, Ch. I ("Coordinate Division")
 
+## Stories
+- [[ST484 — The Shrine That Is Never Finished|484. The Shrine That Is Never Finished]]
+
 ## Psychology parallels
 
 - **[[Mattering|Mattering]]**
