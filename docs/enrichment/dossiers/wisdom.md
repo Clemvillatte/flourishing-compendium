@@ -2,17 +2,13 @@
 
 > What is wisdom doing when it judges, and can it be cultivated or only matured?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say wisdom is, and how does a person get any?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell wisdom from its look-alikes, such as cleverness, accumulated years or confident opinion, and to find practices that move a life toward the real thing.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Wisdom is what everyone wants to be credited with, and its look-alikes are everywhere: cleverness, accumulated years, confident opinion. The classical accounts make it a capacity of judgment, seeing what is best in the particular case, and the research that tries to measure it mostly measures its neighbours. Whether wisdom can be cultivated or only matured is the open question, and the practices cluster around the answer.
 
 ### Nearby terms
 
 - Judgement and insight: held here under the map's judgement and insight groups; the closest anchors are [Reflective thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Reflective%20thinking) and [Insight research](https://clemvillatte.github.io/flourishing-compendium/#card=Insight%20research).
 - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Practical%20wisdom) and [Phronesis](https://clemvillatte.github.io/flourishing-compendium/#card=Phronesis).
 - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
 
 ## The map: every entry the wiki holds on wisdom
 
@@ -44,7 +40,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Knowing by acquaintance](https://clemvillatte.github.io/flourishing-compendium/#card=Knowing%20by%20acquaintance): direct knowledge by standing in the experience of a thing, not by holding a description of it.
 
-
 ### Knowing the limits of what you know
 
 [Socratic wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Socratic%20wisdom): the wisdom Plato's Apology gives Socrates after the Delphic oracle: knowing that you do not know.
@@ -66,7 +61,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Openness and not knowing in skilled practice](https://clemvillatte.github.io/flourishing-compendium/#card=Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson: the key challenge for aspiring experts is to avoid the arrested development associated with automaticity.
 
 [The veil of ignorance](https://clemvillatte.github.io/flourishing-compendium/#card=The%20veil%20of%20ignorance): Rawls's device in A Theory of Justice for a fair choice of first principles: the parties sit in an original position, stripped of knowledge of their own situation.
-
 
 ### Wisdom in other traditions
 
@@ -91,7 +85,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Flexibility as virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Flexibility%20as%20virtue): the compendium's label for two aphorisms in Nietzsche's The Gay Science.
 
 [Discernment of spirits](https://clemvillatte.github.io/flourishing-compendium/#card=Discernment%20of%20spirits): Ignatius's practice of reading one's inner movements to tell which lead toward the good.
-
 
 ### Judgement, deliberation and insight
 
@@ -121,7 +114,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [The wisdom of crowds](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wisdom%20of%20crowds): the finding that a group's aggregated judgment can beat most of its individual members.
 
-
 ### Virtue and character
 
 [Virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue): excellence of character, a stable disposition to feel, choose and act well, acquired through habituation.
@@ -135,7 +127,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [The unity of the virtues](https://clemvillatte.github.io/flourishing-compendium/#card=The%20unity%20of%20the%20virtues): the thesis, from Plato's Protagoras and reworked by Aristotle, that the virtues come together and are not separate talents.
 
 [Natural virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Natural%20virtue): Aristotle's name for dispositions people seem to have from birth, set against virtue in the strict sense.
-
 
 ### How wisdom is built
 
@@ -155,7 +146,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour.
 
-
 ### The thinkers
 
 [Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle): Greek philosopher and author of the Nicomachean Ethics, whose Book VI holds the standard account of phronesis and sophia.
@@ -164,13 +154,11 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Dewey](https://clemvillatte.github.io/flourishing-compendium/#card=T005%20%E2%80%94%20Dewey%2C%20John): the pragmatist whose accounts of reflective thinking and deliberation recur in the judgement group.
 
-
 ### The stories
 
 [152. Socrates and the Oracle](https://clemvillatte.github.io/flourishing-compendium/#card=ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle's verdict that no one is wiser than Socrates, and what he made of it.
 
 [158. Solomon's Judgement](https://clemvillatte.github.io/flourishing-compendium/#card=ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant, and Solomon's order to divide the child reveals which of them is the mother; the canonical case of judgement.
-
 
 ## Where the traditions genuinely disagree
 
@@ -274,11 +262,9 @@ The evidence limits are uneven across the list. The life review (K232) borrows a
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
-
 ## Story: the stories that carry the theme
 
 The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
-
 
 ### Knowing the limits of what you know
 
@@ -289,7 +275,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST261 — Nan-in Overflows the Cup](https://clemvillatte.github.io/flourishing-compendium/#card=ST261%20%E2%80%94%20Nan-in%20Overflows%20the%20Cup): a professor visits Nan-in to learn about Zen, and the master keeps pouring tea until the cup overflows: like this cup, you are full of your own opinions.
 
 [ST370 — The Blind Men and the Elephant](https://clemvillatte.github.io/flourishing-compendium/#card=ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): people blind from birth are shown different parts of an elephant, each group describes the whole animal from its part, and the conflicting descriptions end in a fistfight.
-
 
 ### Judging the particular case
 
@@ -302,7 +287,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST153 — Aristotle's Craftsman](https://clemvillatte.github.io/flourishing-compendium/#card=ST153%20%E2%80%94%20Aristotle%27s%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts.
 
 [ST024 — Wheelwright Pian Chides the Duke](https://clemvillatte.github.io/flourishing-compendium/#card=ST024%20%E2%80%94%20Wheelwright%20Pian%20Chides%20the%20Duke): Wheelwright Pian tells Duke Huan that he is reading the dregs of dead men: the pace of the chisel, neither too slow nor too fast, cannot be put into words or taught to a son.
-
 
 ### Wisdom and a whole life
 

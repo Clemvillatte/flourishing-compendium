@@ -2,9 +2,7 @@
 
 > What is worth resolving on, and what does a resolved life look like?
 
-This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right intention", open this page, and see the whole spread of what the compendium holds on the second factor of the Eightfold Path: every entry that bears on the resolve, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the autopilot of wanting, disliking and harming, without pretending a life can be lived without aims.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is not a mood but a standing direction, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; the question worth resolving on is which ones are worth the resolving.
 
 ## Nearby terms
 

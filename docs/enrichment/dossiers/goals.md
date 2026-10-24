@@ -2,17 +2,13 @@
 
 > How does a person pursue what matters, and know when to hold on or let go?
 
-This dossier is a map, not an essay. A reader who asks "what do the research and the traditions say about setting, pursuing and releasing goals?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person aim at what is worth wanting, and to loosen their grip when the aim stops serving them.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
+A goal is a promise a person makes to a future self, and the promise can serve the life or quietly run it. The research on goal pursuit is unusually practical: what makes goals motivating, what makes them attainable, and what makes their attainment hollow. The classical traditions add the question the science tends to leave alone, whether the aim is worth wanting in the first place, and how to loosen the grip when the aim stops serving the life.
 
 ### Nearby terms
 
 - Motivation: why a person acts is held in the Motivation dossier; this page holds what they aim at and how they steer toward it.
 - Purpose: held under its own group below, as the aim that outlasts any single goal.
 - Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
 ## The map: every entry the wiki holds on goals
 
@@ -27,7 +23,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Superordinate goals](https://clemvillatte.github.io/flourishing-compendium/#card=Superordinate%20goals): the remedy for intergroup hostility in the Robbers Cave experiment: goals that outrank the rivalry and cannot be met by one side alone.
 
 [Personal projects](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20projects): Brian Little's unit of analysis for personality: the extended pursuit.
-
 
 ### Which goals are worth having
 
@@ -46,7 +41,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Values-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Values-concordant%20goals): goals that match the person pursuing them.
 
 [The paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively): wanting something too much can cost the very thing wanted.
-
 
 ### Steering toward the goal
 
@@ -74,7 +68,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Situation-sensitivity in self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Situation-sensitivity%20in%20self-regulation): the research on matching regulatory strategy to context.
 
-
 ### When goals collide or fail
 
 [Goal conflict research](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20conflict%20research): what happens when a person's own goals work against each other.
@@ -86,7 +79,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity): the ability to let go of a goal that has become unattainable and to take up another.
 
 [Escalation of commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Escalation%20of%20commitment): the tendency to keep investing in a course of action that is going badly.
-
 
 ### Commitment and purpose
 
@@ -105,7 +97,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Project (projet)](https://clemvillatte.github.io/flourishing-compendium/#card=Project%20%28projet%29): for Sartre, a throwing of oneself toward an end.
 
 [Projection (Entwurf)](https://clemvillatte.github.io/flourishing-compendium/#card=Projection%20%28Entwurf%29): Heidegger's throwing of Dasein ahead of itself onto its own possibilities.
-
 
 ## Where the traditions genuinely disagree
 
@@ -162,7 +153,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST301 — The Aspiration Index](https://clemvillatte.github.io/flourishing-compendium/#card=ST301%20%E2%80%94%20The%20Aspiration%20Index): Kasser and Ryan's research programme measures what people value, and people who prioritise intrinsic goals such as growth, relationships and community report higher well-being than people who prioritise money and image.
 
 [ST392 — Franklin's Speckled Axe](https://clemvillatte.github.io/flourishing-compendium/#card=ST392%20%E2%80%94%20Franklin%27s%20Speckled%20Axe): Franklin's proposed daily timetable paired two questions, "What good shall I do this day?" and "What good have I done to-day?"
-
 
 ### Letting go and beginning again
 

@@ -2,20 +2,14 @@
 
 > What is attention, what does it cost, and what does it build?
 
-Open this page wanting to think about attention, and the whole spread of what the compendium holds on it is here: every entry that bears on the theme, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to treat attention as the place a life is lived, and to loosen the grip of whatever pulls it away.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Attention is the place a life is lived; everything a person does with their hours passes through it first. It costs, it builds, and it can be pulled away, which makes it both a resource and a battleground. The contemplative traditions trained it long before the science measured it, and both agree it is trainable; what differs is what each thinks it is for.
 
 ### Nearby terms
-
-The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:
 
 - Concentration: the contemplative account of collectedness is held by [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one.
 - Focus: the visual-metaphor side is [Focus theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](https://clemvillatte.github.io/flourishing-compendium/#card=Focusing).
 - Mind-wandering: held as its own object of study by [Mind wandering](https://clemvillatte.github.io/flourishing-compendium/#card=Mind%20wandering), and treated here as part of attention's life rather than its opposite.
 - Absorption: the states are [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow), [Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention) and [Hyperfocus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hyperfocus%20theory).
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
 
 ## The map: every entry the wiki holds on attention
 

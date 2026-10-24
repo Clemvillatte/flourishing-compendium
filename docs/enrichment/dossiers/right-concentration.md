@@ -2,9 +2,7 @@
 
 > What is collectedness, and how is it tuned rather than forced?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about gathering the mind?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to loosen the grip of the scattered, forced, white-knuckle attention that modern life trains, and to replace it with a capacity that is tuned like an instrument, protected like a rare condition, and available inside ordinary activity.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The map records the entries the concentration-family sweeps surfaced; representative exclusions and their reasons are recorded in this dossier's evidence record, and the wider absorption sweep is held at the Attention dossier boundary rather than exhaustively reviewed here. The map lists the principle and kernel pages this theme is built from, the ones a reader asking the concentration question would otherwise miss; the wider family of attention-titled principle pages is reachable through the concept cards that cite them and is not listed exhaustively inline, so the map stays a map. Absorption states as a research construct have their own home in the [Attention dossier](attention.md); this page keeps only what bears directly on collecting the mind.
+Collectedness is not clamping the mind down; it is the gathering of it, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The modern attention economy trains the opposite, a scattered, forced, white-knuckle focus that exhausts what it uses, and the counterweight is practice: a capacity tuned like an instrument, protected like a rare condition, and reachable inside ordinary life.
 
 ### Nearby terms
 
@@ -15,9 +13,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - Right effort: the lute-string tuning is the factor this page shares with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons.
 - The sibling factors: [right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view), [right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention) and [right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness) each have their own card, and each factor has a dossier written or in progress; right view's is still in draft on its band. Right mindfulness carries the sati side of the collected mind, and this page keeps the samadhi side.
 
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
-
-## The map (draft): the right concentration entries the sweeps surfaced
+## The map: the entries on right concentration
 
 ### The path's own account
 

@@ -2,11 +2,9 @@
 
 > What am I, if not the story I keep telling about myself?
 
-This dossier is a map, not an essay. The aim is that a reader can say “I want to think about the self”, open this page, and see the whole spread of what the compendium holds on it: every entry that bears on the self, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of the self-as-object, the self known, judged and defended.
+The self is the one thing everyone has and no one can point to. The traditions deconstruct it, psychology measures it, and both keep finding the same paradox: the self that is known, judged and defended is not the one doing the knowing, judging and defending. The grip to loosen is the self-as-object, and nearly every contemplative technology is a tool for exactly that.
 
 Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).
-
-How to read this page. Each line gives the entry’s own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
 
 ## The map: every entry the wiki holds on the self
 
@@ -176,7 +174,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Cognitive-Experiential Self-Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-Experiential%20Self-Theory): Seymour Epstein’s theory that the mind runs two systems side by side: a rational one that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven.
 
-[Self-deception](https://clemvillatte.github.io/flourishing-compendium/#card=Self-deception): This page approaches self-deception through Sartre's discussion of bad faith (mauvaise foi) in Being and Nothingness (1943).
+[Self-deception](https://clemvillatte.github.io/flourishing-compendium/#card=Self-deception): self-deception runs through Sartre's discussion of bad faith (mauvaise foi) in Being and Nothingness (1943).
 
 [Identity-protective cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Identity-protective%20cognition): Dan Kahan’s name for reasoning in which “is this true?” is answered, unnoticed, by “does this mark me as one of us?”
 
@@ -344,7 +342,6 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Rectify the self, then the family, then the state](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state): the Great Learning’s sequence of rectification, moving outward from the self.
 
-
 ### The wiki’s own shelves on the self
 
 The compendium also organizes self material into structured pathways; the hub is [SE: Self](https://clemvillatte.github.io/flourishing-compendium/#card=SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:
@@ -362,7 +359,6 @@ The compendium also organizes self material into structured pathways; the hub is
 - [SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S06%20%E2%80%94%20LAYER%20VI%20%E2%80%94%20SELF-EXPANSION%20AND%20GROWTH)
 
 - [SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S07%20%E2%80%94%20LAYER%20VII%20%E2%80%94%20SPECIFIC%20SELF-CHALLENGES%20%26%20BOUNDARY%20CONDITIONS)
-
 
 One title match was left out of the map as off-theme: [The self-evident](https://clemvillatte.github.io/flourishing-compendium/#card=The%20self-evident) is Aristotle’s account of what demonstration rests on, not an entry about the self.
 

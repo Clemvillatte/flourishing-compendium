@@ -2,9 +2,7 @@
 
 > What is an emotion made of, and what is it telling the person who feels it?
 
-This page groups the compendium's entries on feelings, moods and emotion: their structure, their change over time, their regulation, and their transmission between people. It runs from the classic questions — does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or built from dimensions and interpretation (Russell, Barrett) — to the practical programmes that treat feeling as something regulable, differentiable and shared. The Attention and Cognition dossiers cover what awareness selects and what thinking does; this one covers the material both of them work on.
-
-How to read this page: each entry is a link into the compendium's own explanation of that item, in the voice its author wrote. The one-line summaries here are orientation, not claims of their own; the fuller statements live on the linked pages, each carrying its own sources. Where the page quotes directly, the passage has been checked word-for-word against the linked carrier.
+Feelings are where a life registers itself: their structure, their change over time, their regulation, and their transmission between people. The classic questions run through the whole field: does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or built from dimensions and interpretation (Russell, Barrett). The practical programmes treat feeling as something regulable, differentiable and shared; the Attention and Cognition dossiers cover what awareness selects and what thinking does, and affect is the material both of them work on.
 
 ### Nearby terms
 

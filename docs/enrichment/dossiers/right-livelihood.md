@@ -2,9 +2,7 @@
 
 > Can a living be made without harm, and what does work do to the person who does it?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about the work a person lives by?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: work is where most adult hours go, so the ethics of earning and the psychology of working are both part of the same question, whether a life can be arranged so that its daily labour does not quietly work against it.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds principle pages bearing work, livelihood and earning in the title (BE017, BE061 and their kin); except where one directly carries a group's argument below, they are not listed inline: every concept card carries onward to the principles that cite it, and the Practice section names the ones that state this theme's practices.
+Work is where most adult hours go, which makes earning a place where ethics either lives or quietly dies. The fifth factor asks whether a living can be made without harm, and the answers run from the trades the Buddha named to modern questions of exploitation and extraction. Underneath the list sits the live question: what the work does to the person who does it, and whether a life can be arranged so that its daily labour does not quietly work against it.
 
 ### Nearby terms
 

@@ -2,9 +2,7 @@
 
 > What restraints on the body make a life livable with itself?
 
-This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right action", open this page, and see the whole spread of what the compendium holds on the fourth factor of the Eightfold Path: every entry that bears on bodily conduct, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: a life whose conduct keeps a floor of non-harm under it, and practices the counterparts above that floor, is livable with itself in a way a life of unexamined habit is not.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Right action is the fourth factor of the Eightfold Path: what the body does when it does no harm. The precepts are short, and the life they point to is not: a floor of non-harm under conduct, with the counterparts practised above that floor. A life whose conduct keeps the floor is livable with itself in a way a life of unexamined habit is not.
 
 ## Nearby terms
 

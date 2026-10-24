@@ -2,22 +2,16 @@
 
 > What does it actually take for a life to go well, and how is the genuine article told apart from its counterfeits?
 
-This dossier is a map, not an essay. A reader who thinks "I want to understand flourishing" can open this page and see everything the compendium holds on it, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell a life that is going well from one that only looks or feels that way, and to find practices that move a life toward the first.
+Flourishing is what the word's root suggests: a life in bloom. The genuine article is harder to pin down than the feeling of it, because a life can look well and feel well and still be running on something that will not hold. The classical accounts, the science that grew out of them, and the practices they both point to all circle one problem: telling a life that is going well from one that only looks or feels that way, and moving a life toward the first.
 
-Boundary with Happiness. This dossier takes the large question: what a good life consists of. The Happiness dossier takes the affective state and its research: how pleasant feelings behave, why they fade, why they slip away when chased. The two overlap, and the overlap is a live scholarly dispute that this page sets out below. Material about hedonic adaptation and the pleasant feeling itself sits mainly with Happiness; material about what a life is for, what it needs and what it must not be confused with sits here.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+The large question, what a good life consists of, lives here; the affective state and its research, how pleasant feelings behave, why they fade, why they slip away when chased, lives with Happiness. The two overlap, and the overlap is a live scholarly dispute. Hedonic adaptation and the pleasant feeling itself sit mainly with Happiness; what a life is for, what it needs and what it must not be confused with sit here.
 
 ### Nearby terms
-
-The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:
 
 - Happiness: the affective state and its research belong to the Happiness dossier on the roadmap (the registry assigns it hedonic adaptation and subjective well-being); the classical account the wiki holds is [Happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity), and the boundary is the hedonic-eudaimonic line drawn below.
 - Well-being: the umbrella term the science uses; its eudaimonic side is held here by [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being), its two-factor structure by [The two-factor model of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=The%20two-factor%20model%20of%20well-being).
 - Eudaimonia: the classical root, held by [Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) and the Aristotle cluster in the map.
 - Thriving: a near-synonym the compendium does not mint as its own title; the closest settled entries are [Flourishing as capability](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20as%20capability) and [Complete mental health model](https://clemvillatte.github.io/flourishing-compendium/#card=Complete%20mental%20health%20model).
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
 
 ## The map: every entry the wiki holds on flourishing
 
@@ -60,7 +54,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [The polis](https://clemvillatte.github.io/flourishing-compendium/#card=The%20polis): the city-state; man is by nature a political animal, and the polis is prior by nature to the household and the individual.
 
 [Aristotelian friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Aristotelian%20friendship): friendship as mutually recognised goodwill; in the complete form, friends love one another for their character.
-
 
 One passage fixes the Aristotelian definition. It is the line the rest of the page keeps answering:
 
@@ -249,7 +242,6 @@ Ryff's founding complaint, and what she built from it, opens the scientific side
 [195. Diogenes and the Sun](https://clemvillatte.github.io/flourishing-compendium/#card=ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun): exiled, living in a jar, Diogenes answers that wherever he goes the sun shines.
 
 [316. How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): four ways people respond to a partner's good news.
-
 
 ## Where the traditions genuinely disagree
 

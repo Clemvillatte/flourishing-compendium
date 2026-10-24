@@ -2,9 +2,7 @@
 
 > What makes speech right, and when is silence the better part of it?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about how to speak?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to loosen the grip of words spoken on autopilot, from the lie that buys ease to the advice that burdens its hearer, without pretending a person can or should stop talking.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds several dozen principle pages bearing speech, truth, word and listening in the title (B023, B147, S075, S076, S130, P128, P168, R091, R092 and their kin); they are deliberately not listed inline, following the map convention: every concept card carries onward to the principles that cite it, so the map stays a map.
+Speech is where most harm is done and most can be prevented, at very little cost: the traditions converge on testing words for truth, benefit and timing before releasing them. Silence has its own place in the account, and so do the lie that buys ease and the advice that burdens its hearer. The practice is not talking less; it is taking words off autopilot.
 
 ### Nearby terms
 
@@ -12,8 +10,6 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - Right communication and speech ethics: the modern relatives, spread through the groups below.
 - Idle talk and gossip: the abstentions group below.
 - Listening: its own group below; listening is the other half of speech and the wiki treats it as a practice in its own right.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
 ## The map: every entry the wiki holds on right speech
 

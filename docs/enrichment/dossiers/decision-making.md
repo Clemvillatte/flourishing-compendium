@@ -2,9 +2,7 @@
 
 > How does a person choose well under uncertainty, and what gets in the way?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about choosing well, and where do choices go wrong?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person act on their own considered values when the pressure of a choice is highest.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+A choice under uncertainty is the moment a person's values meet the world's refusal to guarantee anything. Choosing well is therefore not one skill but several: seeing the options, weighing them without distortion, and knowing when to stop weighing. The research and the traditions disagree productively on what goes wrong and why, and underneath all of it sits the practical question: how a person acts on their own considered values when the pressure of the choice is highest.
 
 ### Nearby terms
 
@@ -12,8 +10,6 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing.
 - Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here.
 - Akrasia: acting against one's own better judgment, held under its own group below.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
 ## The map: every entry the wiki holds on decision-making
 
@@ -30,7 +26,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Prospect theory](https://clemvillatte.github.io/flourishing-compendium/#card=Prospect%20theory): Kahneman and Tversky's 1979 descriptive model of choice under risk, a critique of expected utility theory.
 
 [Regret Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Regret%20Theory): Loomes and Sugden: anticipated regret enters decisions, and people pay to avoid it.
-
 
 ### Heuristics: shortcuts and their errors
 
@@ -62,7 +57,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Survivorship bias](https://clemvillatte.github.io/flourishing-compendium/#card=Survivorship%20bias): drawing conclusions from what made it through a selection process while overlooking what did not.
 
-
 ### Overconfidence and holding on
 
 [Overconfidence effects](https://clemvillatte.github.io/flourishing-compendium/#card=Overconfidence%20effects): the family of biases in which people rate themselves, their performance or their knowledge too highly.
@@ -83,7 +77,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Impact bias](https://clemvillatte.github.io/flourishing-compendium/#card=Impact%20bias): the systematic error people make when predicting their own future feelings.
 
-
 ### Intuition and judgment
 
 [Expert intuition (Klein's recognition-primed decision model)](https://clemvillatte.github.io/flourishing-compendium/#card=Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Klein's account of how experienced decision-makers act fast under pressure.
@@ -98,7 +91,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies.
 
-
 ### Too many options
 
 [Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload): more options degrade satisfaction and decision quality (Iyengar and Lepper, 2000; Schwartz, 2004).
@@ -106,7 +98,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice): the idea that having more options can leave people worse off, not better.
 
 [Maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice.
-
 
 ### Designing the choice
 
@@ -119,7 +110,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Pre-mortem technique](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-mortem%20technique): imagining future failure improves identification of risks and reduces overconfidence.
 
 [Participatory decision-making](https://clemvillatte.github.io/flourishing-compendium/#card=Participatory%20decision-making): shaping choices with the people who must live with them, not doing things to or for them.
-
 
 ### Deliberation, will and weakness of will
 
@@ -143,7 +133,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training): the practice of doing small, regular self-control tasks in the hope of building a general capacity.
 
-
 ### Choice and who one is
 
 [Decision](https://clemvillatte.github.io/flourishing-compendium/#card=Decision): in Jaspers's account of existential freedom, decision involves considering possibilities and committing to a choice.
@@ -157,7 +146,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Moral dilemma research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20dilemma%20research): the study of judgment in cases where moral requirements conflict.
 
 [Choice Theory (William Glasser)](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20Theory%20%28William%20Glasser%29): Glasser's proposal that behaviour is chosen to satisfy five basic needs.
-
 
 ## Where the traditions genuinely disagree
 
@@ -241,13 +229,11 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST141 — Socrates Refuses to Escape the Question](https://clemvillatte.github.io/flourishing-compendium/#card=ST141%20%E2%80%94%20Socrates%20Refuses%20to%20Escape%20the%20Question): offered an escape from prison, Socrates refuses it: one should never do injustice, not even in return for injustice.
 
-
 ### Binding yourself in advance
 
 [ST161 — Odysseus and the Mast](https://clemvillatte.github.io/flourishing-compendium/#card=ST161%20%E2%80%94%20Odysseus%20and%20the%20Mast): Odysseus has the crew plug their ears with wax and bind him to the mast, with orders to add ropes and not remove them, so that he can hear the Sirens and survive.
 
 [ST170 — The Lotus-Eaters](https://clemvillatte.github.io/flourishing-compendium/#card=ST170%20%E2%80%94%20The%20Lotus-Eaters): Odysseus's scouts eat the lotus and want only to stay eating, and he drags them weeping to the ships and ties them under the benches.
-
 
 ### Judging the particular case
 

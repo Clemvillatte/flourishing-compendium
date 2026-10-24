@@ -2,17 +2,13 @@
 
 > Can a person live well without knowing what comes next?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about living without certainty?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person meet what cannot be known with steadiness, so that not knowing stops being the source of suffering.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
+Not knowing what comes next is the human condition, and the suffering comes not from the not knowing but from the demand that it stop. The traditions meet uncertainty with steadiness, the research with tolerance and probabilistic thinking, and both find the same thing: it is the demand for certainty, not the uncertainty, that corrodes a life. Meeting what cannot be known without flinching is trainable.
 
 ### Nearby terms
 
 - Uncertainty tolerance: held under the intolerance cards in the first group below.
 - Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts.
 - Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
 ## The map: every entry the wiki holds on uncertainty
 
@@ -34,7 +30,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Openness and not knowing in skilled practice](https://clemvillatte.github.io/flourishing-compendium/#card=Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson's deliberate practice as work on tasks just outside current reliable performance.
 
-
 ### Doubt, ignorance and inquiry
 
 [Socratic ignorance](https://clemvillatte.github.io/flourishing-compendium/#card=Socratic%20ignorance): the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does.
@@ -55,7 +50,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Actively open-minded thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Actively%20open-minded%20thinking): a reasoning style that Jonathan Baron developed in the judgment-and-decision-making literature.
 
-
 ### What lasts, and what is up to us
 
 [Impermanence](https://clemvillatte.github.io/flourishing-compendium/#card=Impermanence): the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations.
@@ -69,7 +63,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Secondary control](https://clemvillatte.github.io/flourishing-compendium/#card=Secondary%20control): Rothbaum, Weisz and Snyder's way of gaining a sense of control by bringing yourself into line with the world.
 
 [Antifragility](https://clemvillatte.github.io/flourishing-compendium/#card=Antifragility): Taleb's coinage for the third category that fragile and robust leave out.
-
 
 ### Hope, trust and the open
 
@@ -91,7 +84,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [The ethics of ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20ambiguity): Beauvoir's existentialist ethics: freedom is ambiguous because it must will both itself and the freedom of others.
 
-
 ### Probability and risk
 
 [Probabilistic thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Probabilistic%20thinking): the move from yes-or-no to how-likely, whose arrival in European thought was sudden.
@@ -99,7 +91,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Risk literacy](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions.
 
 [Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty.
-
 
 ## Where the traditions genuinely disagree
 
@@ -152,7 +143,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST155 — Meno's Paradox](https://clemvillatte.github.io/flourishing-compendium/#card=ST155%20%E2%80%94%20Meno%27s%20Paradox): Meno asks how one can look for virtue if one does not know what it is: if you know, you need not look; if you do not, how will you recognise it.
 
 [ST378 — Wang Ni Says How Would I Know That Three Times](https://clemvillatte.github.io/flourishing-compendium/#card=ST378%20%E2%80%94%20Wang%20Ni%20Says%20How%20Would%20I%20Know%20That%20Three%20Times): Nie Que asks Wang Ni whether he knows something everyone agrees on, and Wang Ni answers, how would I know that.
-
 
 ### Meeting what comes
 

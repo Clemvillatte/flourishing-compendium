@@ -2,9 +2,7 @@
 
 > What is anger doing when it rises, and what does it cost the one who holds it?
 
-This dossier is a map, not an essay. The aim is that a reader can say "I want to think about anger", open this page, and see the whole spread of what the compendium holds on it: every entry that bears on anger, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen anger's grip on the person who holds it, without pretending the provocation never happened.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Anger arrives with its defence already written: someone did wrong, and the wrong demands an answer. Whether the answer anger supplies is ever the one the moment needs is the question the traditions keep returning to, and they answer it differently: some condemn the passion outright, some give it a mean and a place, and the research asks what it actually does for and to the person who holds it. The practices that loosen its grip share one commitment: they take the provocation seriously without letting it write the response.
 
 ## The map: every entry the wiki holds on anger
 
@@ -114,7 +112,6 @@ The compendium holds anger in narrative form too:
 
 [Gentle answer turns away wrath](https://clemvillatte.github.io/flourishing-compendium/#card=Gentle%20answer%20turns%20away%20wrath): the Proverb's one-line de-escalation.
 
-
 ## Where the traditions genuinely disagree
 
 ### Is anger ever fitting?
@@ -124,7 +121,6 @@ The shared question: does anger ever fit its object, or is it always a judgment 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)): Primary text; quoted passages checked.
 
 Seneca's treatise denies the fitting case: anger is by definition the mind's rush that treats an appearance as true, and so is a mistake by its nature, not a virtue misapplied. The two positions answer the same question, what a person with a grievance owes their anger, and part on whether the fitting case exists. What remains unresolved is whether the psychological findings on hostile attribution and anger's costs settle the question or only describe the typical case. Aristotle himself says the line is not easy to draw.
-
 
 ## Practice: variation, selection, retention
 

@@ -2957,15 +2957,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who thinks \"I want to understand flourishing\" can open this page and see everything the compendium holds on it, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell a life that is going well from one that only looks or feels that way, and to find practices that move a life toward the first."
+          "x": "Flourishing is what the word's root suggests: a life in bloom. The genuine article is harder to pin down than the feeling of it, because a life can look well and feel well and still be running on something that will not hold. The classical accounts, the science that grew out of them, and the practices they both point to all circle one problem: telling a life that is going well from one that only looks or feels that way, and moving a life toward the first."
         },
         {
           "t": "p",
-          "x": "Boundary with Happiness. This dossier takes the large question: what a good life consists of. The Happiness dossier takes the affective state and its research: how pleasant feelings behave, why they fade, why they slip away when chased. The two overlap, and the overlap is a live scholarly dispute that this page sets out below. Material about hedonic adaptation and the pleasant feeling itself sits mainly with Happiness; material about what a life is for, what it needs and what it must not be confused with sits here."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "The large question, what a good life consists of, lives here; the affective state and its research, how pleasant feelings behave, why they fade, why they slip away when chased, lives with Happiness. The two overlap, and the overlap is a live scholarly dispute. Hedonic adaptation and the pleasant feeling itself sit mainly with Happiness; what a life is for, what it needs and what it must not be confused with sit here."
         },
         {
           "t": "h2",
@@ -2973,15 +2969,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:"
-        },
-        {
-          "t": "p",
           "x": "- Happiness: the affective state and its research belong to the Happiness dossier on the roadmap (the registry assigns it hedonic adaptation and subjective well-being); the classical account the wiki holds is [Happiness as activity](card:Happiness%20as%20activity), and the boundary is the hedonic-eudaimonic line drawn below. - Well-being: the umbrella term the science uses; its eudaimonic side is held here by [Eudaimonic well-being](card:Eudaimonic%20well-being), its two-factor structure by [The two-factor model of well-being](card:The%20two-factor%20model%20of%20well-being). - Eudaimonia: the classical root, held by [Eudaimonia](card:Eudaimonia) and the Aristotle cluster in the map. - Thriving: a near-synonym the compendium does not mint as its own title; the closest settled entries are [Flourishing as capability](card:Flourishing%20as%20capability) and [Complete mental health model](card:Complete%20mental%20health%20model)."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
         },
         {
           "t": "h",
@@ -3810,15 +3798,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. The aim is that a reader can say “I want to think about the self”, open this page, and see the whole spread of what the compendium holds on it: every entry that bears on the self, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of the self-as-object, the self known, judged and defended."
+          "x": "The self is the one thing everyone has and no one can point to. The traditions deconstruct it, psychology measures it, and both keep finding the same paradox: the self that is known, judged and defended is not the one doing the knowing, judging and defending. The grip to loosen is the self-as-object, and nearly every contemplative technology is a tool for exactly that."
         },
         {
           "t": "p",
           "x": "Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf))."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry’s own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
         },
         {
           "t": "h",
@@ -4167,7 +4151,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-deception](card:Self-deception): This page approaches self-deception through Sartre's discussion of bad faith (mauvaise foi) in Being and Nothingness (1943)."
+          "x": "[Self-deception](card:Self-deception): self-deception runs through Sartre's discussion of bad faith (mauvaise foi) in Being and Nothingness (1943)."
         },
         {
           "t": "p",
@@ -4773,11 +4757,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. The aim is that a reader can say \"I want to think about anger\", open this page, and see the whole spread of what the compendium holds on it: every entry that bears on anger, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen anger's grip on the person who holds it, without pretending the provocation never happened."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "Anger arrives with its defence already written: someone did wrong, and the wrong demands an answer. Whether the answer anger supplies is ever the one the moment needs is the question the traditions keep returning to, and they answer it differently: some condemn the passion outright, some give it a mean and a place, and the research asks what it actually does for and to the person who holds it. The practices that loosen its grip share one commitment: they take the provocation seriously without letting it write the response."
         },
         {
           "t": "h",
@@ -5166,11 +5146,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say wisdom is, and how does a person get any?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell wisdom from its look-alikes, such as cleverness, accumulated years or confident opinion, and to find practices that move a life toward the real thing."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "Wisdom is what everyone wants to be credited with, and its look-alikes are everywhere: cleverness, accumulated years, confident opinion. The classical accounts make it a capacity of judgment, seeing what is best in the particular case, and the research that tries to measure it mostly measures its neighbours. Whether wisdom can be cultivated or only matured is the open question, and the practices cluster around the answer."
         },
         {
           "t": "h2",
@@ -5179,10 +5155,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Judgement and insight: held here under the map's judgement and insight groups; the closest anchors are [Reflective thinking](card:Reflective%20thinking) and [Insight research](card:Insight%20research). - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](card:Practical%20wisdom) and [Phronesis](card:Phronesis). - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
         },
         {
           "t": "h",
@@ -5800,11 +5772,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This page groups the compendium's entries on feelings, moods and emotion: their structure, their change over time, their regulation, and their transmission between people. It runs from the classic questions — does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or built from dimensions and interpretation (Russell, Barrett) — to the practical programmes that treat feeling as something regulable, differentiable and shared. The Attention and Cognition dossiers cover what awareness selects and what thinking does; this one covers the material both of them work on."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page: each entry is a link into the compendium's own explanation of that item, in the voice its author wrote. The one-line summaries here are orientation, not claims of their own; the fuller statements live on the linked pages, each carrying its own sources. Where the page quotes directly, the passage has been checked word-for-word against the linked carrier."
+          "x": "Feelings are where a life registers itself: their structure, their change over time, their regulation, and their transmission between people. The classic questions run through the whole field: does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or built from dimensions and interpretation (Russell, Barrett). The practical programmes treat feeling as something regulable, differentiable and shared; the Attention and Cognition dossiers cover what awareness selects and what thinking does, and affect is the material both of them work on."
         },
         {
           "t": "h2",
@@ -6106,11 +6074,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Open this page wanting to think about attention, and the whole spread of what the compendium holds on it is here: every entry that bears on the theme, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to treat attention as the place a life is lived, and to loosen the grip of whatever pulls it away."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "Attention is the place a life is lived; everything a person does with their hours passes through it first. It costs, it builds, and it can be pulled away, which makes it both a resource and a battleground. The contemplative traditions trained it long before the science measured it, and both agree it is trainable; what differs is what each thinks it is for."
         },
         {
           "t": "h2",
@@ -6118,15 +6082,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:"
-        },
-        {
-          "t": "p",
           "x": "- Concentration: the contemplative account of collectedness is held by [Right concentration](card:Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one. - Focus: the visual-metaphor side is [Focus theory of attention](card:Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](card:Focusing). - Mind-wandering: held as its own object of study by [Mind wandering](card:Mind%20wandering), and treated here as part of attention's life rather than its opposite. - Absorption: the states are [Flow](card:Flow), [Effortless attention](card:Effortless%20attention) and [Hyperfocus theory](card:Hyperfocus%20theory)."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
         },
         {
           "t": "h",
@@ -6767,11 +6723,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier maps the compendium's whole spread on purpose and meaning: what a purpose is taken to be, the routes the traditions say meaning travels, the work and calling cluster, meaning as something made rather than found, the purposes that reach beyond the self, suffering's place in the economy of meaning, and the positions that deny life a given meaning at all. The boundary against the Genuine Flourishing dossier: the good life as a whole, eudaimonia and its measures live there; what lives here is the aim a life is organised around, and the sense that life is about something. The boundary against Happiness: feeling good and life being about something are different things, and the wiki holds the difference on its own cards."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Lines without a quoted passage rest on the linked entry's own text and are not re-assessed here; the quoted passages below certify only themselves, never the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and the wiki holds the difference on its own cards."
         },
         {
           "t": "h2",
@@ -6779,15 +6731,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:"
-        },
-        {
-          "t": "p",
           "x": "- Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](card:Existential%20meaning) and [Meaning-making](card:Meaning-making). - Purpose: the aim itself; [Purpose](card:Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](card:PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction). - Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](card:Calling%20orientation) and [Vocation as calling](card:Vocation%20as%20calling). - Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier. - Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](card:Vital%20engagement) the bridge card named here."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
         },
         {
           "t": "h",
@@ -7037,7 +6981,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Meaning-making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.",
+          "x": "\"Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.",
           "s": null
         },
         {
@@ -7399,15 +7343,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say happiness is, why does it slip away, and what moves it?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell the passing lift of a good mood from a steadier gladness, and to find practices that serve the second without chasing the first."
+          "x": "Everyone wants it, no one can define it, and aiming at it directly seems to dissolve it: happiness is the one target that behaves worse the harder it is chased. The feeling lifts, adapts to its own causes, and slips away precisely when valued most. The steady question underneath the research is the difference between the passing lift of a good mood and a steadier gladness, and which practices serve the second without chasing the first."
         },
         {
           "t": "p",
-          "x": "Boundary with the Genuine Flourishing dossier. This page holds happiness as the felt side of a life: pleasure, joy, contentment, the research on adaptation and on subjective well-being. The question of a life that goes well in its whole shape, eudaimonia and the psychological well-being models, sits in the Genuine Flourishing dossier, and the entries here point to it where the two meet."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "Happiness here means the felt side of a life: pleasure, joy, contentment, the research on adaptation and on subjective well-being. The question of a life that goes well in its whole shape, eudaimonia and the psychological well-being models, belongs to the Genuine Flourishing dossier, and the two meet exactly where a good mood and a good life get confused."
         },
         {
           "t": "h2",
@@ -7416,10 +7356,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Joy, pleasure and contentment: held as separate entries below, because the sources treat them as different things. - Subjective well-being: the research name for how people rate their own lives; the cards on adaptation and on sustainability use it. - Eudaimonia: Aristotle's term for the good life, which the English word happiness often translates; held by [Eudaimonia](card:Eudaimonia) and in the Genuine Flourishing dossier."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
         },
         {
           "t": "h",
@@ -8032,15 +7968,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say anxiety is, how does it differ from fear, stress and worry, and what helps?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to ease unnecessary suffering without pretending that all unease is a malfunction."
+          "x": "Anxiety is the tax a creature pays for being able to foresee, and the bill arrives whether or not the foreseen thing happens. Whether that tax is a fault to be removed, a signal to be read, or simply a cost of foresight is a live disagreement between the traditions and inside the research. What helps is mapped better than the question of what it is: the practices that ease unnecessary suffering exist, and they work without pretending that all unease is a malfunction."
         },
         {
           "t": "p",
           "x": "A caution that belongs at the start. Nothing on this page is clinical advice. Where a card touches diagnosis, it says so itself, and a person in distress is better served by a clinician than by a wiki."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
         },
         {
           "t": "h2",
@@ -8053,10 +7985,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Stress: Lazarus and Folkman define it as a relationship, not a feeling: \"psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources\" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). The compendium holds it under [Stress appraisal](card:Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either. - Fear: Öhman and Mineka propose \"an evolved module for fear elicitation and fear learning\" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group. - Worry: Borkovec and colleagues describe it as \"a predominance of negatively valenced verbal thought activity\" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](card:Worry%20research) and [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here. - Angst: Heidegger's term; the Stanford Encyclopedia quotes him: \"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](card:Angst) and [Das Nichts](card:Das%20Nichts). - Dread and apprehension: a search of the wiki found no card titled for either, so no separate entry is mapped."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted above and in the divergences below."
         },
         {
           "t": "h",
@@ -8627,11 +8555,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier maps the compendium's whole spread on thinking: the styles of thought, the formation and holding of beliefs, the thinking that hurts, the ways it is changed, and reason's reach and limits, each entry with a card link. The lines are short on purpose; the dense arguments live on the cards. The boundary against the Attention dossier: the selection and sustaining of awareness lives there; what lives here is what thinking does with what awareness delivers."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "Thinking is what the mind does with what awareness delivers, and it is a mixed instrument: the same equipment that reasons and plans also biases, ruminates and confuses. How thinking works, and where it reliably fails, has two literatures behind it, the classical analyses of reason and its limits, and the experimental catalogues of bias. The selection and sustaining of awareness is a separate theme with its own dossier; what lives here is what thinking does with what awareness delivers."
         },
         {
           "t": "h2",
@@ -8639,15 +8563,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:"
-        },
-        {
-          "t": "p",
           "x": "- Thinking: the general capacity is this page's subject; its two speeds are held by [System 1 and System 2](card:System%201%20and%20System%202). - Thoughts: the \"thoughts are not facts\" territory is held here by [Cognitive defusion](card:Cognitive%20defusion) and the meditation cluster it links to. - Reasoning: studied as measured performance by [Critical thinking research](card:Critical%20thinking%20research) and as wise performance by [Wise reasoning](card:Wise%20reasoning). - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](card:Instrumental%20reason) and the philosophy cards it links to."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
         },
         {
           "t": "h",
@@ -9118,11 +9034,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say about choosing well, and where do choices go wrong?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person act on their own considered values when the pressure of a choice is highest."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "A choice under uncertainty is the moment a person's values meet the world's refusal to guarantee anything. Choosing well is therefore not one skill but several: seeing the options, weighing them without distortion, and knowing when to stop weighing. The research and the traditions disagree productively on what goes wrong and why, and underneath all of it sits the practical question: how a person acts on their own considered values when the pressure of the choice is highest."
         },
         {
           "t": "h2",
@@ -9131,10 +9043,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Choice: held under [Choice overload](card:Choice%20overload), [Paradox of choice](card:Paradox%20of%20choice) and [Choice architecture](card:Choice%20architecture); Sartre's cards on choosing a self sit in the last group of the map. - Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing. - Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here. - Akrasia: acting against one's own better judgment, held under its own group below."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
         },
         {
           "t": "h",
@@ -9631,11 +9539,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the research and the traditions say about what moves us?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person act from motives that are their own, so that effort supports flourishing and does not drain it."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+          "x": "Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper: motives that are borrowed, imposed or performative drain the very life they are meant to serve."
         },
         {
           "t": "h2",
@@ -9644,10 +9548,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Drive: held under [Drive-reduction theory](card:Drive-reduction%20theory) and the brain-reward group below. - Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it. - Willpower: the compendium holds self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will. - Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
         },
         {
           "t": "h",
@@ -9981,11 +9881,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say about living without certainty?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person meet what cannot be known with steadiness, so that not knowing stops being the source of suffering."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+          "x": "Not knowing what comes next is the human condition, and the suffering comes not from the not knowing but from the demand that it stop. The traditions meet uncertainty with steadiness, the research with tolerance and probabilistic thinking, and both find the same thing: it is the demand for certainty, not the uncertainty, that corrodes a life. Meeting what cannot be known without flinching is trainable."
         },
         {
           "t": "h2",
@@ -9994,10 +9890,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Uncertainty tolerance: held under the intolerance cards in the first group below. - Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts. - Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
         },
         {
           "t": "h",
@@ -10306,11 +10198,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the research and the traditions say about being overwhelmed?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person meet more than they can hold with rest, structure and steadiness, so that being overwhelmed becomes information and not a verdict."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+          "x": "Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information and not a verdict."
         },
         {
           "t": "h2",
@@ -10319,10 +10207,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Overwhelm and saturation: held under the information and load groups below. - Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier. - Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
         },
         {
           "t": "h",
@@ -10615,11 +10499,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "This dossier is a map, not an essay. A reader who asks \"what do the research and the traditions say about setting, pursuing and releasing goals?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person aim at what is worth wanting, and to loosen their grip when the aim stops serving them."
-        },
-        {
-          "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+          "x": "A goal is a promise a person makes to a future self, and the promise can serve the life or quietly run it. The research on goal pursuit is unusually practical: what makes goals motivating, what makes them attainable, and what makes their attainment hollow. The classical traditions add the question the science tends to leave alone, whether the aim is worth wanting in the first place, and how to loosen the grip when the aim stops serving the life."
         },
         {
           "t": "h2",
@@ -10628,10 +10508,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "- Motivation: why a person acts is held in the Motivation dossier; this page holds what they aim at and how they steer toward it. - Purpose: held under its own group below, as the aim that outlasts any single goal. - Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making."
-        },
-        {
-          "t": "p",
-          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
         },
         {
           "t": "h",

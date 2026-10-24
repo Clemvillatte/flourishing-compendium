@@ -2,19 +2,15 @@
 
 > Is happiness a feeling to be had, a condition to be reached, or a by-product of how a life is lived, and what does the research show can be done about it?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say happiness is, why does it slip away, and what moves it?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell the passing lift of a good mood from a steadier gladness, and to find practices that serve the second without chasing the first.
+Everyone wants it, no one can define it, and aiming at it directly seems to dissolve it: happiness is the one target that behaves worse the harder it is chased. The feeling lifts, adapts to its own causes, and slips away precisely when valued most. The steady question underneath the research is the difference between the passing lift of a good mood and a steadier gladness, and which practices serve the second without chasing the first.
 
-Boundary with the Genuine Flourishing dossier. This page holds happiness as the felt side of a life: pleasure, joy, contentment, the research on adaptation and on subjective well-being. The question of a life that goes well in its whole shape, eudaimonia and the psychological well-being models, sits in the Genuine Flourishing dossier, and the entries here point to it where the two meet.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Happiness here means the felt side of a life: pleasure, joy, contentment, the research on adaptation and on subjective well-being. The question of a life that goes well in its whole shape, eudaimonia and the psychological well-being models, belongs to the Genuine Flourishing dossier, and the two meet exactly where a good mood and a good life get confused.
 
 ### Nearby terms
 
 - Joy, pleasure and contentment: held as separate entries below, because the sources treat them as different things.
 - Subjective well-being: the research name for how people rate their own lives; the cards on adaptation and on sustainability use it.
 - Eudaimonia: Aristotle's term for the good life, which the English word happiness often translates; held by [Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) and in the Genuine Flourishing dossier.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
 
 ## The map: every entry the wiki holds on happiness
 
@@ -48,7 +44,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [The vanity of desire](https://clemvillatte.github.io/flourishing-compendium/#card=The%20vanity%20of%20desire): Schopenhauer's charge that wanting promises a satisfaction it cannot deliver, a failure he takes to be structural.
 
-
 ### Contentment and sufficiency
 
 [Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency): the compendium's label for the Daodejing's teaching on contentment and sufficiency.
@@ -62,7 +57,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies.
 
 [Paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice): the idea that having more options can leave people worse off, not better.
-
 
 ### Why happiness slips: adaptation and forecasting
 
@@ -80,7 +74,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Sustainability of well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains): the question of whether boosts in happiness from intentional effort can outlast the initial lift.
 
-
 ### Why aiming at happiness backfires
 
 [The paradox of hedonism](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20hedonism): Sidgwick's finding that pleasure, pursued as a direct target, tends to defeat itself.
@@ -92,7 +85,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [The hedonic trap of seeking peak experiences](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hedonic%20trap%20of%20seeking%20peak%20experiences): Mauss and colleagues' 2011 paper on whether wanting happiness too much can undermine it.
 
 [The paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively): the finding that wanting something too much, with happiness as the test case, can cost the very thing wanted.
-
 
 ### What research says helps
 
@@ -132,7 +124,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Cross-cultural variations in conceptions of happiness](https://clemvillatte.github.io/flourishing-compendium/#card=Cross-cultural%20variations%20in%20conceptions%20of%20happiness): Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life.
 
-
 ### The thinkers
 
 [Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle): Greek philosopher whose Nicomachean Ethics gives the lasting account of happiness as an activity of a whole life.
@@ -142,7 +133,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Seligman](https://clemvillatte.github.io/flourishing-compendium/#card=T026%20%E2%80%94%20Seligman%2C%20Martin): psychologist who began with learned helplessness and, as president of the American Psychological Association in 1998, called for positive psychology.
 
 [Csikszentmihalyi](https://clemvillatte.github.io/flourishing-compendium/#card=T001%20%E2%80%94%20Csikszentmihalyi%2C%20Mihaly): Hungarian-American psychologist, co-founder of positive psychology, who named and mapped flow.
-
 
 ### The stories
 
@@ -155,7 +145,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [138. Flow in the Everyday](https://clemvillatte.github.io/flourishing-compendium/#card=ST138%20%E2%80%94%20Flow%20in%20the%20Everyday): Csikszentmihalyi extends the climbers' finding to ordinary life, with participants paged at random moments.
 
 [304. Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=ST304%20%E2%80%94%20Savoring): Fred Bryant's research distinguishes savoring from positive emotion itself.
-
 
 ## Where the traditions genuinely disagree
 
@@ -271,11 +260,9 @@ Evidence is uneven across the list. The cards themselves flag the limits: the pr
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the evening line about what is enough, or the weekly hour of play, or the habit of thanking someone by name, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
-
 ## Story: the stories that carry the theme
 
 The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
-
 
 ### What a happy life looks like
 
@@ -285,7 +272,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST277 — Sisyphus Is Happy](https://clemvillatte.github.io/flourishing-compendium/#card=ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): Camus's Sisyphus pushes the boulder up the hill forever, and the conclusion is that the struggle toward the heights is enough to fill a man's heart.
 
-
 ### Pleasure and its traps
 
 [ST169 — The Philosopher and the Hedonist](https://clemvillatte.github.io/flourishing-compendium/#card=ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist): in Nicomachean Ethics X, Aristotle sorts the theories of the good life: the many say pleasure, and he resolves that pleasure accompanies the end and does not constitute it.
@@ -294,7 +280,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST215 — Watanabe Finds the Playground](https://clemvillatte.github.io/flourishing-compendium/#card=ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): Kanji Watanabe, told he has less than a year, tries the pleasures and they do not work; he pushes through a playground petition and dies on a swing in the snow.
 
-
 ### Small pleasures and savoring
 
 [ST305 — Amélie's Small Pleasures](https://clemvillatte.github.io/flourishing-compendium/#card=ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures): Amélie keeps a catalogue of small pleasures and secretly arranges small kindnesses for others, and finds she cannot give what she will not receive.
@@ -302,7 +287,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST304 — Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=ST304%20%E2%80%94%20Savoring): Fred Bryant's research separates savoring, the capacity to attend to and prolong enjoyment, from positive emotion itself.
 
 [ST014 — Marie Kondo and the Spark of Joy](https://clemvillatte.github.io/flourishing-compendium/#card=ST014%20%E2%80%94%20Marie%20Kondo%20and%20the%20Spark%20of%20Joy): Marie Kondo has people hold each object and ask whether it sparks joy; if not, thank it and let it go.
-
 
 ### The science of positive emotion
 

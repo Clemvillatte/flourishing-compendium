@@ -2,9 +2,7 @@
 
 > What moves a person to act, and what keeps that movement their own?
 
-This dossier is a map, not an essay. A reader who asks "what do the research and the traditions say about what moves us?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person act from motives that are their own, so that effort supports flourishing and does not drain it.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
+Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper: motives that are borrowed, imposed or performative drain the very life they are meant to serve.
 
 ### Nearby terms
 
@@ -12,8 +10,6 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it.
 - Willpower: the compendium holds self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will.
 - Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
 ## The map: every entry the wiki holds on motivation
 
@@ -43,7 +39,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation): Robert White's proposal for the motive behind exploration and mastery.
 
-
 ### Beliefs, expectations and goals
 
 [Self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy): Bandura's construct for the belief that one can execute the behaviour required to produce an outcome.
@@ -64,7 +59,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit): a trait introduced by Duckworth and colleagues in 2007, defined by effort and interest kept up over years.
 
-
 ### Needs, drives and the brain of wanting
 
 [Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory): Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency.
@@ -75,7 +69,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Reward prediction error (Schultz)](https://clemvillatte.github.io/flourishing-compendium/#card=Reward%20prediction%20error%20%28Schultz%29): the difference between the reward received and the reward predicted.
 
-
 ### Interest and curiosity
 
 [Curiosity](https://clemvillatte.github.io/flourishing-compendium/#card=Curiosity): in the information-gap account, curiosity arises when a person becomes aware of a gap in their knowledge that information could fill.
@@ -85,7 +78,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the mental state of being fully immersed in an activity, with energized focus and full involvement.
 
 [Boredom](https://clemvillatte.github.io/flourishing-compendium/#card=Boredom): the aversive experience of wanting, but being unable, to engage in satisfying activity.
-
 
 ### What people pursue, and for whom
 
@@ -101,13 +93,11 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Motivational interviewing](https://clemvillatte.github.io/flourishing-compendium/#card=Motivational%20interviewing): works with, not against, a person's own motivation.
 
-
 ### Desire
 
 [Desire](https://clemvillatte.github.io/flourishing-compendium/#card=Desire): the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it.
 
 [Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires): Frankfurt's term for wanting what you want.
-
 
 ## Where the traditions genuinely disagree
 
@@ -163,13 +153,11 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST314 — The Need to Belong](https://clemvillatte.github.io/flourishing-compendium/#card=ST314%20%E2%80%94%20The%20Need%20to%20Belong): Baumeister and Leary synthesise decades of evidence that the need to form and maintain relationships is a fundamental human motivation, not a derived preference.
 
-
 ### Doing it for the doing
 
 [ST118 — The Rock Climbers' Absorption](https://clemvillatte.github.io/flourishing-compendium/#card=ST118%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): Csikszentmihalyi opens with an anomaly: people who risk their lives climbing rocks, or devote themselves to art or chess, apparently give up material rewards for the experience of performing enjoyable acts.
 
 [ST026 — Woodcarver Qing Makes a Bell-Stand](https://clemvillatte.github.io/flourishing-compendium/#card=ST026%20%E2%80%94%20Woodcarver%20Qing%20Makes%20a%20Bell-Stand): Woodcarver Qing prepares by fasting to still his mind, and by the third day he has forgotten reward, by the fifth, praise.
-
 
 ### Meaning and its frustration
 

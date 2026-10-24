@@ -2,9 +2,7 @@
 
 > What does it take to know what is happening, while it is happening?
 
-This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right mindfulness", open this page, and see the spread of what the compendium holds on the seventh factor of the Eightfold Path: the entries that bear on trained awareness, grouped by the question they answer, each with a card link. The lines are short on purpose; the dense arguments live on the cards. A full-text sweep has been run over the theme's terms and its stragglers read in, and the story directory swept for on-theme cards; a few remaining candidates, the emotion-regulation cards and Aisthesis, were reviewed and left to their own themes, and the sections below say what is held rather than claim exhaustion.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
+Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on the actual rather than the assumed. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one.
 
 ## Nearby terms
 

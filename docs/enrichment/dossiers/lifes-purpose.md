@@ -2,21 +2,15 @@
 
 > What is a life for, and where does a sense of purpose come from?
 
-This dossier maps the compendium's whole spread on purpose and meaning: what a purpose is taken to be, the routes the traditions say meaning travels, the work and calling cluster, meaning as something made rather than found, the purposes that reach beyond the self, suffering's place in the economy of meaning, and the positions that deny life a given meaning at all. The boundary against the Genuine Flourishing dossier: the good life as a whole, eudaimonia and its measures live there; what lives here is the aim a life is organised around, and the sense that life is about something. The boundary against Happiness: feeling good and life being about something are different things, and the wiki holds the difference on its own cards.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Lines without a quoted passage rest on the linked entry's own text and are not re-assessed here; the quoted passages below certify only themselves, never the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and the wiki holds the difference on its own cards.
 
 ### Nearby terms
-
-The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:
 
 - Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20meaning) and [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making).
 - Purpose: the aim itself; [Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](https://clemvillatte.github.io/flourishing-compendium/#card=PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction).
 - Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation) and [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling).
 - Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier.
 - Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement) the bridge card named here.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
 
 ## The map: every entry the wiki holds on purpose and meaning
 

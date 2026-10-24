@@ -2,20 +2,14 @@
 
 > How does thinking work, and where does it reliably fail?
 
-This dossier maps the compendium's whole spread on thinking: the styles of thought, the formation and holding of beliefs, the thinking that hurts, the ways it is changed, and reason's reach and limits, each entry with a card link. The lines are short on purpose; the dense arguments live on the cards. The boundary against the Attention dossier: the selection and sustaining of awareness lives there; what lives here is what thinking does with what awareness delivers.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+Thinking is what the mind does with what awareness delivers, and it is a mixed instrument: the same equipment that reasons and plans also biases, ruminates and confuses. How thinking works, and where it reliably fails, has two literatures behind it, the classical analyses of reason and its limits, and the experimental catalogues of bias. The selection and sustaining of awareness is a separate theme with its own dossier; what lives here is what thinking does with what awareness delivers.
 
 ### Nearby terms
-
-The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:
 
 - Thinking: the general capacity is this page's subject; its two speeds are held by [System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202).
 - Thoughts: the "thoughts are not facts" territory is held here by [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) and the meditation cluster it links to.
 - Reasoning: studied as measured performance by [Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research) and as wise performance by [Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning).
 - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason) and the philosophy cards it links to.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
 
 ## The map: every entry the wiki holds on cognition
 

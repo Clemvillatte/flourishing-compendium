@@ -2,9 +2,7 @@
 
 > What is gratitude actually about, and why does it resist being a self-help technique?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about gratitude?" can open it and see what the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: the classical and the scientific traditions both have a worked-out account of gratitude, and the page keeps the two answers visible side by side rather than letting either one absorb the other.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The map records the entries the sweeps surfaced and the boundary decisions that excluded the rest; the exclusions and their reasons are listed in this dossier's evidence record. The wider family of positive-affect principle pages is reachable through the concept cards that cite them and is not listed exhaustively inline, so the map stays a map.
+Gratitude looks like the simplest of the virtues and keeps turning out to be one of the strangest: a benefit received, a debt acknowledged, and a whole anthropology of giving and owing underneath. Both the classical and the scientific traditions have a worked-out account of it, and the two do not match: in the classical treatment gratitude is a virtue with duties, in the research a positive emotion with effects. The theme rewards keeping the two answers visible side by side rather than letting either one absorb the other.
 
 ### Nearby terms
 
@@ -14,9 +12,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - Contentment and sufficiency: gratitude's present-tense cousins, in their own group below.
 - Benefit finding: finding good in adversity rather than benefit received from a giver; its own card and evidence.
 
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergence below.
-
-## The map (draft): the gratitude entries the sweeps surfaced
+## The map: the entries on gratitude
 
 ### The classical account: benefit, goodwill, and return
 
@@ -50,7 +46,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 15. [Thanksgiving as sacrifice](https://clemvillatte.github.io/flourishing-compendium/#card=Thanksgiving%20as%20sacrifice): the Psalm's line, the offering-side of thankfulness, cited by the fundamental-stance page as its religious parallel.
 
-
 ### The attention theory: counting what is good
 
 16. [AF063 — Practise gratitude: it recalibrates attention toward what is good](https://clemvillatte.github.io/flourishing-compendium/#card=AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good): the mechanism as the lab frames it, a practice of directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries.
@@ -58,7 +53,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 17. [PP013 — Practise gratitude with specificity](https://clemvillatte.github.io/flourishing-compendium/#card=PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity): the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card.
 
 18. [PP063 — Dose appropriately](https://clemvillatte.github.io/flourishing-compendium/#card=PP063%20%E2%80%94%20Dose%20appropriately): the 2005 interventions where the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them.
-
 
 19. [AT021 — Learn to attend to the positive deliberately](https://clemvillatte.github.io/flourishing-compendium/#card=AT021%20%E2%80%94%20Learn%20to%20attend%20to%20the%20positive%20deliberately%20%E2%80%94%20attention%20training%20for%20well-being): the two things that go by the name of attention training, gaze trained toward positive information, and the bias-modification family whose meta-analysis was less encouraging.
 

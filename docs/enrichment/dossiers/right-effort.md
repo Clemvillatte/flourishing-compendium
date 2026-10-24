@@ -2,9 +2,7 @@
 
 > Where should effort go, and how much is the right amount?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about how hard to try?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The page holds the two questions the theme actually carries together: where effort goes, and how much of it.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds principle pages bearing effort, persistence and energy in the title (B036, B058, B091, MO046, AT025 and their kin); except where one directly carries a group's argument below, they are not listed inline: every concept card carries onward to the principles that cite it, and the Practice section names the ones that state this theme's practices.
+Effort has two dimensions the traditions are careful to separate: where it goes, and how much of it. Straining at practice is a recognised failure, and so is the laziness that calls itself ease. The question of how hard to try has real answers, and they are not one-size-fits-all: energy aroused and applied at the right objects, in the right dose, is what the factor actually asks for.
 
 ### Nearby terms
 

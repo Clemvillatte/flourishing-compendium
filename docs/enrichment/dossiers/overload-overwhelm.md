@@ -2,17 +2,13 @@
 
 > When the world gives more than a person can take in, what still works?
 
-This dossier is a map, not an essay. A reader who asks "what do the research and the traditions say about being overwhelmed?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person meet more than they can hold with rest, structure and steadiness, so that being overwhelmed becomes information and not a verdict.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
+Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information and not a verdict.
 
 ### Nearby terms
 
 - Overwhelm and saturation: held under the information and load groups below.
 - Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier.
 - Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
 ## The map: every entry the wiki holds on overload and overwhelm
 
@@ -30,7 +26,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Digital well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Digital%20well-being): the impact digital technologies have on a life that is good for a human being.
 
-
 ### Load and its limits
 
 [Cognitive load theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning and instruction.
@@ -42,7 +37,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion): the proposal that self-control is a limited resource depleted after a period of exertion.
 
 [Progressive overload in attentional training](https://clemvillatte.github.io/flourishing-compendium/#card=Progressive%20overload%20in%20attentional%20training): raise the demand on a system in steps so that it keeps adapting.
-
 
 ### Demands, resources and burnout
 
@@ -64,7 +58,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [The stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model): Cohen and Wills's account of how social support touches health.
 
-
 ### Recovery and rest
 
 [Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): work draws on a person, and time away from work lets that drain ease.
@@ -83,7 +76,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives.
 
-
 ### Rest in the traditions
 
 [The importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest): Aristotle's argument that rest is what work is for.
@@ -93,7 +85,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Discipline of rest](https://clemvillatte.github.io/flourishing-compendium/#card=Discipline%20of%20rest): the monastic practice of regulating rest by rule.
 
 [The rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest): in the Zhuangzi, nature supports the body through the stages of a life: toil, then ease, then rest at death.
-
 
 ## Where the traditions genuinely disagree
 
@@ -144,7 +135,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 ### Rest as orientation
 
 [ST393 — The Shrine the Nazis Could Not Burn](https://clemvillatte.github.io/flourishing-compendium/#card=ST393%20%E2%80%94%20The%20Shrine%20the%20Nazis%20Could%20Not%20Burn): in The Sabbath (1951), Heschel calls the seventh day the inspirer and the weekdays the inspired: rest gives activity its orientation.
-
 
 ### Stopping and presence
 

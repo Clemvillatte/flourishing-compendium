@@ -2,11 +2,9 @@
 
 > Is anxiety a fault to be removed, a signal to be read, or a cost of being a creature that can foresee, and what actually loosens it?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say anxiety is, how does it differ from fear, stress and worry, and what helps?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to ease unnecessary suffering without pretending that all unease is a malfunction.
+Anxiety is the tax a creature pays for being able to foresee, and the bill arrives whether or not the foreseen thing happens. Whether that tax is a fault to be removed, a signal to be read, or simply a cost of foresight is a live disagreement between the traditions and inside the research. What helps is mapped better than the question of what it is: the practices that ease unnecessary suffering exist, and they work without pretending that all unease is a malfunction.
 
 A caution that belongs at the start. Nothing on this page is clinical advice. Where a card touches diagnosis, it says so itself, and a person in distress is better served by a clinician than by a wiki.
-
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
 
 ### Nearby terms
 
@@ -17,8 +15,6 @@ The words around anxiety are used loosely, so the compendium keeps them apart un
 - Worry: Borkovec and colleagues describe it as "a predominance of negatively valenced verbal thought activity" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research) and [Worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here.
 - Angst: Heidegger's term; the Stanford Encyclopedia quotes him: "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](https://clemvillatte.github.io/flourishing-compendium/#card=Angst) and [Das Nichts](https://clemvillatte.github.io/flourishing-compendium/#card=Das%20Nichts).
 - Dread and apprehension: a search of the wiki found no card titled for either, so no separate entry is mapped.
-
-These groupings are editorial; the settled distinctions, where the sources draw them, are quoted above and in the divergences below.
 
 ## The map: every entry the wiki holds on anxiety
 
@@ -39,7 +35,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Existential confrontation](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20confrontation): facing the basic conditions of human life, death, freedom, isolation and meaninglessness, instead of avoiding them.
 
 [The uncanny](https://clemvillatte.github.io/flourishing-compendium/#card=The%20uncanny): a specific kind of fright that comes from the familiar and not from the alien.
-
 
 ### Fear and courage
 
@@ -63,7 +58,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [The fearless mind](https://clemvillatte.github.io/flourishing-compendium/#card=The%20fearless%20mind): the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58).
 
-
 ### Worry, rumination and uncertainty
 
 [Worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research): Borkovec and colleagues' programme: worry is abstract verbal thought that feels like preparation while functioning as avoidance.
@@ -86,7 +80,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies.
 
-
 ### What anxiety does to attention
 
 [Attentional control theory (Eysenck)](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20theory%20%28Eysenck%29): Eysenck and colleagues' 2007 account of what anxiety does to thinking.
@@ -96,7 +89,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Attentional bias research](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20research): asks whether what attention selects contributes to emotional vulnerability or merely accompanies it.
 
 [Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory): an approach to modifying the cognitive biases that confer vulnerability to anxiety.
-
 
 ### Stress: demand, body and buffer
 
@@ -132,7 +124,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Stress-related growth](https://clemvillatte.github.io/flourishing-compendium/#card=Stress-related%20growth): Tedeschi and Calhoun, 2004; the card is a short entry that points to post-traumatic growth.
 
-
 ### Death anxiety
 
 [Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research): the clinical-psychology study of fear of death and its role in mental disorder, proposed as a transdiagnostic construct.
@@ -143,7 +134,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder](https://clemvillatte.github.io/flourishing-compendium/#card=Clinical%20thresholds%20for%20depression%2C%20anxiety%2C%20PTSD%2C%20and%20bipolar%20disorder): gathers public help-seeking guidance and diagnostic passages; it does not establish one clinical threshold for all four conditions.
 
-
 ### Calming and steadying
 
 [Shamatha (calm abiding)](https://clemvillatte.github.io/flourishing-compendium/#card=Shamatha%20%28calm%20abiding%29): the settling of the mind: attention rests on a chosen object until the mind grows quiet and comfortable.
@@ -152,7 +142,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Spiritual vigilance](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20vigilance): Hadot's name for the watchful attention the Stoic philosopher kept over his own mind, prosoche.
 
-
 ### The sayings and the story
 
 [275. Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that
@@ -160,7 +149,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in the compendium's practice principles on obeying from understanding and not from fear.
 
 [I fear the Greeks even bearing gifts](https://clemvillatte.github.io/flourishing-compendium/#card=I%20fear%20the%20Greeks%20even%20bearing%20gifts): Virgil, Aeneid II, Laocoon's warning.
-
 
 ## Where the traditions genuinely disagree
 
@@ -258,11 +246,9 @@ The cards carry their own evidence notes, and those notes matter here. Exposure 
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the habit of asking what the anxiety is about, or the slow breath before a hard meeting, or the small step toward what they have been avoiding, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
-
 ## Story: the stories that carry the theme
 
 The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
-
 
 ### Anxiety as the vertigo of possibility
 
@@ -270,13 +256,11 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST272 — Being-toward-Death](https://clemvillatte.github.io/flourishing-compendium/#card=ST272%20%E2%80%94%20Being-toward-Death): Heidegger's analysis: death is not an event at the end of a life but the possibility each person is, which cannot be outstripped and which no one can take over.
 
-
 ### The fear that has no name
 
 [ST275 — Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is marked above all by fear, not of death in the abstract but of the wrongness of a life everyone around him insists was correct; his scream lasts three days and stops when he stops resisting.
 
 [ST221 — The Premeditation of Evils](https://clemvillatte.github.io/flourishing-compendium/#card=ST221%20%E2%80%94%20The%20Premeditation%20of%20Evils): each morning the Stoic rehearses the day's possible losses, so that the loss, when it arrives, meets someone who has already sorted it, and the surprise, which is half the suffering, is removed.
-
 
 ### The second arrow and the tied monkey
 
@@ -286,13 +270,11 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST331 — The Hungry Tiger](https://clemvillatte.github.io/flourishing-compendium/#card=ST331%20%E2%80%94%20The%20Hungry%20Tiger): you take in a hungry baby tiger and feed him; every feeding calms him and makes him bigger, until feeding him sooner seems the only safe move, as relief-seeking can grow around a painful feeling.
 
-
 ### The same storm, a different story
 
 [ST207 — The Sailors and the Storm](https://clemvillatte.github.io/flourishing-compendium/#card=ST207%20%E2%80%94%20The%20Sailors%20and%20the%20Storm): in a storm at sea the passengers panic and the sailors work; the storm is identical for both, and the difference is the story each has about it.
 
 [ST375 — John Muir Rides the Storm in a Treetop](https://clemvillatte.github.io/flourishing-compendium/#card=ST375%20%E2%80%94%20John%20Muir%20Rides%20the%20Storm%20in%20a%20Treetop): John Muir rides out a Sierra windstorm near the top of a tree, moving with it as it bends and circling, having chosen the tree carefully and trusted its elasticity.
-
 
 ### Staying calm when it is real
 
