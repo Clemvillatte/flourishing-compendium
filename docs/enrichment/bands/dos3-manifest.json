@@ -16,5 +16,6 @@
  "slug": "cognition",
  "group": "cognition",
  "note": "Thinking styles, reasoning, belief formation, limits of reason. Contains the 'thoughts' territory. Decision-Making is a separate later dossier: point decision research at it as a nearby term.",
- "art": "already committed: site/assets/dossier-art/cognition.jpg"
+ "art": "already committed: site/assets/dossier-art/cognition.jpg",
+ "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)"
 }

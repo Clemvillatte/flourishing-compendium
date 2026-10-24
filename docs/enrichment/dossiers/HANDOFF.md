@@ -173,6 +173,10 @@ format) and set a new standard. Verbatim substance, do not lose it:
   dossier markdown + evidence ledger + band state; the registry
   (registry.json), the Academy data (app.js) and the art are
   SUPERVISOR-ONLY.
+- Pre-push check (mandatory): python3 scripts/dossier_check.py
+  docs/enrichment/dossiers/<slug>.md — every card link must resolve
+  against a real content/ file, plus shape checks (title, question,
+  subtheme headers, carrier links). Exit 0 required.
 - Repo: Clemvillatte/flourishing-compendium. Clone via token in the
   remote URL (owner provides a fine-grained PAT per session; if the
   remote 401s, the owner must issue a new token).

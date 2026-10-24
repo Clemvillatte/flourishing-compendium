@@ -16,5 +16,6 @@
  "slug": "attention",
  "group": "attention",
  "note": "Focused-attention meditation, attention restoration, mind-wandering, flow, the economy of the gaze. Contains the 'concentration' territory.",
- "art": "already committed: site/assets/dossier-art/attention.jpg"
+ "art": "already committed: site/assets/dossier-art/attention.jpg",
+ "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)"
 }

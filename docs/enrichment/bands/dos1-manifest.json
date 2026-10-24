@@ -16,5 +16,6 @@
  "slug": "genuine-flourishing",
  "group": "flourishing",
  "note": "Flagship dossier, owner wants it at the forefront. Boundary against Happiness is set in the registry scope; state it in the intro.",
- "art": "already committed: site/assets/dossier-art/genuine-flourishing.jpg"
+ "art": "already committed: site/assets/dossier-art/genuine-flourishing.jpg",
+ "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)"
 }

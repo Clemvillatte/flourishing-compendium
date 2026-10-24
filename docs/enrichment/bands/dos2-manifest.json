@@ -16,5 +16,6 @@
  "slug": "affect",
  "group": "affect",
  "note": "Umbrella dossier for affective states: affect as information, constructed emotion, affect regulation, valence/arousal. Disambiguates the family (Anger, Anxiety, Happiness) without absorbing them. The Anxiety dossier (with its Stress/Worry/Angst matrix) is the NEXT band after this one; do not build it here.",
- "art": "already committed: site/assets/dossier-art/affect.jpg"
+ "art": "already committed: site/assets/dossier-art/affect.jpg",
+ "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)"
 }
