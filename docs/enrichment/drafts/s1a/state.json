@@ -1421,7 +1421,22 @@
      "note": "story_check clean; Milindapanha and MMK 24 opened and quoted verbatim"
     }
    ]
+  },
+  "s1a-043": {
+   "status": "ready",
+   "angle": "D047: Yan Hui's zuowang — forgetting benevolence and righteousness, rites and music, then sitting and forgetting (Zhuangzi ch. 6)",
+   "history": [
+    {
+     "t": "2026-10-24T14:07:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:08:20+00:00",
+     "to": "ready",
+     "note": "story_check clean; dialogue quoted verbatim from opened ETH Legge PDF"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:07:48+00:00"
+ "updated": "2026-10-24T14:08:20+00:00"
 }
