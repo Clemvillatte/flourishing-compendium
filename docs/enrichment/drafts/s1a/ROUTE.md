@@ -369,3 +369,34 @@ earlier five). Routed decisions for you:
   claims about earlier action are removed.
 - s1a-072 (B015): the experimental paper (Marshall/Hobbs/Cooper 2013) is
   now opened and led with; the popular cascade is attributed as popular.
+
+2026-10-25 15:12Z storyteller-pplx-s1a-1026a: advisor round-4 repairs, routed
+decisions for the supervisor:
+
+- s1a-070 (monkey keeper): D124 mapping WITHDRAWN outright; D083 PROPOSED
+  instead. The D083 page (content/principles) was opened directly and uses
+  this exact monkey-keeper passage as its own example, asking which terms
+  can change while the total remains fixed; the keeper's switch carries
+  that operation directly. Both s1a-070 and s1a-075 now point at D083;
+  which story (or both) serves the page is your call.
+- s1a-075 (Rohini): marked as a broader re-pricing illustration rather
+  than the page's constant-total example (which s1a-070 carries directly);
+  the verse attribution verified against the page's printed "— Dhp
+  197-199" and moved to provenance; the causal sequence made exact
+  (weapons set aside before the questions, silence the recorded
+  consequence, no water-sharing claim).
+- s1a-074 (D060): now a BOUNDED CAUTIONARY ILLUSTRATION — the page's
+  central instruction (do the great while it is small) is not carried and
+  the entry does not establish the fire was small or controllable at
+  three; final fit routed to you. "by afternoon" and the transferred
+  "unused to such fires" phrase repaired.
+- s1a-073 (cellist): the motivation quotation removed (the BBC/Irish Times
+  interviews were never opened; the article's carrier was already flagged
+  by its age arithmetic); the surname diacritic restored to the article's
+  printed Smailović. B156 proposal unchanged, final call yours.
+- s1a-072 (wolves): the historical beaver-dam hydrology clause narrowed
+  to the paper's supported finding (browsing removed plus restored
+  hydrology); no supervisor decision needed.
+- s1a-063 (Milton): Book III locator corrected (III.40-46, was III.40-43),
+  recounted against the raw text; s1a-068: MN 10 fetched and opened this
+  round, the three hindrance correspondences hold; no decisions needed.
