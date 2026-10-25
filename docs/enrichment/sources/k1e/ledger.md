@@ -605,3 +605,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K383 Safe Place with an affiliative welcome
 - Read the full page; both verbatim quotes re-verified against the downloaded Kolts CFT Made Simple PDF: the "safe place imagery... soothing space" passage (verbatim) and the affiliative-component passage with the full welcome instruction (verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K386 Try not to think of elephants
+- Read the full page; both verbatim quotes re-verified against the freshly downloaded Wegner (2011) "Setting Free the Bears" PDF (Harvard carrier): the "white bear in the lab... mentioned the bear once per minute" passage (verbatim) and the "rebound with unusual frequency when the suppression attempt was rescinded" passage (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
