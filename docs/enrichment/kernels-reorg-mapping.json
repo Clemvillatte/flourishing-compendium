@@ -199,9 +199,14 @@
  },
  "K127": {
   "mods": [
-   "general"
+   "CBT"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"Cognitive reappraisal is a form of cognitive change that involves construing a potentially emotion-eliciting situation in a way that changes its emotional impact\" (CBT-family cognitive-change practice)",
+    "CBT"
+   ]
+  ]
  },
  "K128": {
   "mods": [
