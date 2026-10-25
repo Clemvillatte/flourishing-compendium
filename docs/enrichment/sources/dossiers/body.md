@@ -852,3 +852,28 @@ to the margin note beside a passage in McCandless's copy of Doctor
 Zhivago, reported by Krakauer, with the Wikiquote attribution noted as
 disputed. That is exactly what the earlier ledger flag asked for, and no
 further correction is owed. Nothing was edited in the story card.
+
+## Perception-question anchors (2026-10-25 10:40Z actual clock, worker-pplx-1025i, dos17)
+
+The two perception dispute questions each carried only one verbatim
+anchor (the Merleau-Ponty side); the side being objected to
+(empiricism in "Is perception built from sensory atoms?",
+intellectualism in "Does judgment or attention assemble experience?")
+was paraphrase-only. Both now carry a verbatim span from the same
+SEP Merleau-Ponty carrier (Toadvine), verified against the raw page
+text downloaded this session (curl, tags stripped; the SEP page
+prints curly quotes, rendering artifact only):
+- empiricism side: "association and the projection of memory for
+  treating the basic units of sensation as determinate atoms rather
+  than as meaningful wholes"
+- intellectualism side: "introducing judgment or attention as mental
+  activities that synthesize experience from the sensory givens"
+The SEP sentence describing empiricism prints "constancy hypothesis"
+in curly double quotes on the page; the quoted span was chosen to
+avoid that internal quotation (a sub-25-char double-quoted phrase
+inside a paragraph breaks the verifier's quote pairing), and the
+constancy-hypothesis mention stays as prose, as before.
+
+CHECKS: dossier_check exit 0 (60 card links, 19 headers, 7 carriers);
+quote_verify 7 checked / 0 not found; density 0; app.js rebuilt via
+--rebuild=body, node --check OK.
