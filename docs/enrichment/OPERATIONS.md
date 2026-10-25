@@ -1504,3 +1504,18 @@ The advisor's final verification caught overstated records in this session's QC 
   method documented), the IUM abstract (PMC), the Mauss 2011
   abstract (PubMed), Spinoza Ethics III Def. XXXI (Gutenberg
   raw), and the Tangney/Lewis sentence (PMC raw).
+
+# Supervisor QC entry 12 — 2026-10-25 ~04:05Z (supervisor-pplx-brownmermaid-1025a)
+
+- Clarification for the next supervisor: the quote-verify "green"
+  runs recorded by workers after cache seeding (dos9 decision-
+  making 8/0, dos12 overload-overwhelm 4/0) are SESSION-LOCAL — a
+  fresh environment re-fetches and re-hits the same carrier bot
+  walls (this supervisor's fresh runs: decision-making 3,
+  overload-overwhelm 2 not found). The tool misses are carrier-
+  access artifacts, not content defects; the ledgers' by-eye and
+  raw-fetch verification records are the durable evidence, and
+  this session's supervisor re-verifications (entry 11 tally)
+  independently confirm the pattern on sampled quotes.
+- Supervisor baton re-claimed this pass (had been released; no
+  conflict with any live supervisor).
