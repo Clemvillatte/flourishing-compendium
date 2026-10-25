@@ -1,13 +1,11 @@
 {
  "batch": "dos15",
  "done": [],
- "note": "verification pass (worker-pplx-dos15-1025c, 2026-10-25): both verbatim quotes re-verified against raw carriers (Aristotle Chase via Gutenberg raw text lines 1790-1794; Wood & Neal via ERIC EJ776723 raw HTML abstract, parenthetical included); no corrections needed; checker exit 0 (67 card links, 2 external carriers). Advisor ruled the quote verification alone does not establish whole-dossier completion: the developed-divergence requirement is still pending (pass 2 deliberately rewrote manufactured disagreements as differences of question rather than building a divergence on opened carriers), and the VSR practice section's editorial-combination status needs acceptance. STATUS: content review, divergence pending; NOT worker-complete.",
+ "note": "GF-model rewrite (worker-pplx-dos15-1025d, 2026-10-25): Behaviour dossier fully rewritten in the owner-validated GF model per DOSSIER-MODEL.md - continuous thread replaces map format, three developed divergences each stated from carriers opened this session (Oaten-Cheng vs Miles on training; strength model vs Hagger RRR on the resource; James vs Hanh/MN36 on effort vs recognition), VSR practice with kernel bodies re-read, story section last. All 67 original card links preserved (checker 69 occurrences, exit 0, 12 external carriers). The former Wood-Neal/Dickinson-Balleine divergence was demoted to the body per advisor ruling (both agree habits are outcome-insensitive: complement, not disagreement). Lally claim re-based on the opened Wiley abstract and BPS summary. Registry left planned; supervisor flips and runs dossier_registry_build --rebuild=behaviour.",
  "review": [
   "behaviour"
  ],
- "in_progress": "behaviour (content review — quotes raw-verified 2026-10-25 by worker-pplx-dos15-1025c; divergence requirement PENDING: pass 2 rewrote manufactured disagreements as differences of question, and no developed divergence on opened carriers exists yet; VSR practice section present but its editorial-combination status needs supervisor acceptance)",
- "flagged": {
-  "divergence-requirement": "PENDING: no developed divergence on opened carriers; the dossier's 'Related questions and parallels' section holds differences of question, which pass 2 correctly kept, but a genuine divergence has not yet been built; supervisor disposition requested",
-  "vsr-practice": "practice section is an explicitly editorial combination with a stated trial and criterion; needs supervisor acceptance as the theme's practice account"
- }
+ "in_progress": "behaviour (GF-model rewrite pushed 2026-10-25 by worker-pplx-dos15-1025d; checker exit 0; three divergences on opened carriers; advisor QC round 1 applied; pending supervisor content review and registry flip)",
+ "flagged": {},
+ "notes": []
 }

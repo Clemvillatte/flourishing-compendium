@@ -2,147 +2,145 @@
 
 > How do repeated actions become a life, and how does a stuck pattern change?
 
-A habit is what the doing becomes once the deciding drops out of it. The sciences of behaviour have left several distinct answers lying side by side: consequences shaping actions, contexts triggering them, deliberate repetition automatizing them. The classical traditions add a sharper hope: that what is repeated hardens into character as well as routine, and that the hardening can be aimed. The question is where the aim is best placed, and the honest answer runs through environment and design more often than through willpower.
+A habit is what the doing becomes once the deciding drops out of it. I notice this most at the end of a day, when the route home, the first reach for the phone and the tone I take with certain people have all happened without my choosing them. The question that noticing opens is worth taking seriously: where those settled patterns come from, what they build, and what it actually takes to change one that hurts.
 
-## Nearby terms
+The answers differ more than I first expected. Consequence learning, context cuing and deliberate repetition each explain a different part of the doing. The classical traditions add a stronger claim on top: what is repeated hardens into character as well as routine, and the hardening can be aimed. Where the aim belongs, in the will or in the world around it, is a live dispute, and the traditions hold it honestly.
 
-Habit: the biggest share of this dossier's material; the umbrella card holds the family, and the map below separates formation, maintenance, discontinuity and the body that carries it.
+### Nearby terms
 
-Action and conduct: the same territory seen from the choosing side; the Agency dossier (not yet minted as a card) holds the say a person has over their doing, this page what the doing does to the person. [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy) is the need that pairs them.
+- Habit: the umbrella card [Habit](https://clemvillatte.github.io/flourishing-compendium/#card=Habit) holds the family; formation, maintenance, discontinuity and the body that carries it are all parts of this theme rather than neighbours of it.
 
-Practice: the deliberate, designed repetition side of the same process, in the map's classical group.
+- Action and conduct: the same territory seen from the choosing side. The Agency dossier holds the say a person has over their doing; [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy) is the need that pairs them.
 
-Behaviour change: the applied science of moving stuck patterns; its frameworks and techniques hold their own groups below.
+- Practice: the deliberate, designed side of repetition; [Habituation by design](https://clemvillatte.github.io/flourishing-compendium/#card=K257%20%E2%80%94%20Habituation%20by%20design) is its kernel form.
 
-## The map: the entries on behaviour
+- Behaviour change: the applied science of moving stuck patterns, from if-then plans to whole taxonomies of techniques.
 
-### What the science says a habit is
+- Lapse and routine: the moments and grooves a pattern runs through. The return after a lapse is where most change succeeds or fails.
 
-[Habit](https://clemvillatte.github.io/flourishing-compendium/#card=Habit): the umbrella card; its gloss runs the associations and carries the family's map.
+## What repetition builds, and what it asks for
 
-[Habit formation](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20formation): the acquisition question; Lally's study put the time to 95% of the asymptote of automaticity at 18 to 254 days, and the same family of research holds the Wood-and-Neal context-cuing model.
+### What a habit is, once the deciding drops out
 
-[Habit maintenance](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20maintenance): the stage after rooting; a systematic review of 100 behaviour-change theories opens with the line that behaviour-change interventions are effective at achieving temporary change while maintenance is rarely attained.
+The science of habit formation starts from a plain observation: repetition gets faster and easier, until the act no longer waits for a decision. [Habit formation](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20formation) holds the acquisition question. Lally's study had 96 volunteers carry out a daily behaviour in the same context for 12 weeks, and the time it took participants to reach 95 percent of their asymptote of automaticity ranged from 18 to 254 days ([European Journal of Social Psychology 40(6), 2010, abstract](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)); the [BPS summary](https://www.bps.org.uk/research-digest/how-form-habit) reports 66 days as the average time to maximum automaticity, with the same spread. That range is itself the finding: there is no single timeline a person can promise themselves.
 
-[Habituation](https://clemvillatte.github.io/flourishing-compendium/#card=Habituation): the classical meaning, learning by repetition; Aristotle's Book II line that we become just by doing just acts, in the Ross translation, and the passage read in full below in the Chase translation.
+Wendy Wood and David Neal gave the mechanism its sharpest form. On their model, [context-dependent behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Context-dependent%20behaviour%20%28Wood%20%26%20Neal%29) is not weak will but learned association:
 
-[Second nature](https://clemvillatte.github.io/flourishing-compendium/#card=Second%20nature): the idea that a settled habit works like a natural disposition; the phrase itself is Durant's paraphrase, not Aristotle's.
+> "Habits emerge from the gradual learning of associations between responses and the features of performance contexts that have historically covaried with them (e.g., physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the associated response without a mediating goal." ([Wood and Neal, "A New Look at Habits and the Habit-Goal Interface", Psychological Review 114(4), 2007, abstract](https://eric.ed.gov/?id=EJ776723))
 
-[Context-dependent behaviour (Wood & Neal)](https://clemvillatte.github.io/flourishing-compendium/#card=Context-dependent%20behaviour%20%28Wood%20%26%20Neal%29): the model that redefined habit as context-cued responding:
+The goal-directed tradition draws the line on the other side of the same behaviour. Dickinson and Balleine's tests, restated by Ostlund and Balleine, are that "goal-directed actions are typically identified by demonstrating that (i) the performance of the action changes when the causal relationship between the action and its outcome is altered and (ii) the performance of the action depends on the current motivational value of its outcome" ([Ostlund and Balleine, "On habits and addiction", Drug Discovery Today: Disease Models](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891067/)). [Goal-directed behavior theory](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20behavior%20theory) carries the two tests, and the accounts turn out to meet edge to edge: both agree that a habit, once formed, no longer tracks the value of its outcome, which is why devaluing the reward often leaves the behaviour running. The tests tell a person when to stop trusting the pattern; the context model tells them what to change.
 
-> "Habits emerge from the gradual learning of associations between responses and the features of performance contexts that have historically covaried with them (e.g., physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the associated response without a mediating goal." ([Wood & Neal, "A New Look at Habits and the Habit-Goal Interface", Psychological Review 114(4), 843-863, 2007, abstract](https://eric.ed.gov/?id=EJ776723))
+The classical side of the same question is older and less mechanistic. [Habituation](https://clemvillatte.github.io/flourishing-compendium/#card=Habituation) keeps Aristotle's Book II line that we become just by doing just acts, and [Second nature](https://clemvillatte.github.io/flourishing-compendium/#card=Second%20nature) names the settled result: a disposition that works like a natural one. The Daoist [Effortless action through long effort](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20action%20through%20long%20effort) puts wu wei at the far end of the same road, Cook Ding's years of oxen behind a blade that never dulls. [Excellence as habit](https://clemvillatte.github.io/flourishing-compendium/#card=Excellence%20as%20habit) carries Durant's paraphrase of Aristotle, and the card is honest that it is paraphrase, not text.
 
-[Goal-directed behavior theory](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20behavior%20theory): the boundary marker; Dickinson and Balleine's two tests, action-outcome contingency and current motivational value, for what counts as goal-directed rather than habitual.
+### Repetition becomes character
 
-[Effortless action through long effort](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20action%20through%20long%20effort): the Daoist resolution of the paradox; wu wei as the far end of training, Cook Ding's years of oxen.
-
-### The learning side: consequences and models
-
-[Operant conditioning (Skinner)](https://clemvillatte.github.io/flourishing-compendium/#card=Operant%20conditioning%20%28Skinner%29): the consequences account; the quote carries the operant as a class of responses that operate on the environment to generate consequences.
-
-[Reinforcement schedules (Ferster & Skinner)](https://clemvillatte.github.io/flourishing-compendium/#card=Reinforcement%20schedules%20%28Ferster%20%26%20Skinner%29): when reinforcement arrives matters as much as whether it does.
-
-[Shaping (Skinner)](https://clemvillatte.github.io/flourishing-compendium/#card=Shaping%20%28Skinner%29): reinforcing successive approximations; in Science and Human Behavior Skinner writes that operant conditioning shapes behaviour as a sculptor shapes a lump of clay, and that complicated operants can be built that would otherwise never appear.
-
-[Behavioural chaining (applied behaviour analysis)](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioural%20chaining%20%28applied%20behaviour%20analysis%29): routines as chains of component steps, taught in sequence.
-
-[Ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion): the willpower-as-resource account and its contested history.
-
-[Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training): the strongest test was a caution; Miles and colleagues' six-week programme with active controls found no effect of training on any measure of self-control.
-
-[Plasticity of human nature](https://clemvillatte.github.io/flourishing-compendium/#card=Plasticity%20of%20human%20nature): Dewey's claim that habits are the material education works on; the card carries his line that the real existence of habits is different in old and young.
-
-### The classical side: repetition becomes character
-
-[A004 — Become virtuous by doing virtuous acts](https://clemvillatte.github.io/flourishing-compendium/#card=A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts): Aristotle's builders-by-building line in the Chase translation, with Book II's conditions for an act counting as virtuous. The Ethics puts it plainly:
+Aristotle states the classical claim at the opening of Book II of the Ethics, in the plainest words the tradition has:
 
 > "men come to be builders, for instance, by building; harp-players, by playing on the harp: exactly so, by doing just actions we come to be just; by doing the actions of self-mastery we come to be perfected in self-mastery; and by doing brave actions brave." (Nicomachean Ethics II.1, trans. D. P. Chase, [Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))
 
-[A108 — Practise habituation through repeated action](https://clemvillatte.github.io/flourishing-compendium/#card=A108%20%E2%80%94%20Practise%20habituation%20through%20repeated%20action): the same mechanism as principle; repeated conduct forms dispositions in both directions.
+[A004 — Become virtuous by doing virtuous acts](https://clemvillatte.github.io/flourishing-compendium/#card=A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts) carries the principle with Book II's conditions for an act counting as virtuous, and [A108 — Practise habituation through repeated action](https://clemvillatte.github.io/flourishing-compendium/#card=A108%20%E2%80%94%20Practise%20habituation%20through%20repeated%20action) repeats the mechanism as practice: the same repetition forms dispositions in both directions. The Buddhist rendering, [B088 — Every repetition is a vote (habit as karma)](https://clemvillatte.github.io/flourishing-compendium/#card=B088%20%E2%80%94%20Every%20repetition%20is%20a%20vote%20%28habit%20as%20karma%29), strengthens the track with each pass, for better or worse.
 
-[B088 — Every repetition is a vote (habit as karma)](https://clemvillatte.github.io/flourishing-compendium/#card=B088%20%E2%80%94%20Every%20repetition%20is%20a%20vote%20%28habit%20as%20karma%29): the Buddhist rendering; each repetition strengthens the track.
+Two daily practices keep the classical shape. [B058 — Sit daily — consistency over intensity](https://clemvillatte.github.io/flourishing-compendium/#card=B058%20%E2%80%94%20Sit%20daily%20%E2%80%94%20consistency%20over%20intensity) takes the Dhammapada's smith removing dross from silver little by little, and [S134 — Build a daily structure](https://clemvillatte.github.io/flourishing-compendium/#card=S134%20%E2%80%94%20Build%20a%20daily%20structure) takes Marcus naming the day's difficult people before meeting them. Small, boring, repeated: the size of the act is not the point.
 
-[B184 — Recognize habit energy](https://clemvillatte.github.io/flourishing-compendium/#card=B184%20%E2%80%94%20Recognize%20habit%20energy): Thich Nhat Hanh on familiar tendencies such as rushing toward a future happiness; the practice is to recognise the tendency and meet it with mindfulness rather than fight it, and he concedes that some habit energies are very difficult to transform.
+William James gave the modern tradition its own version. [P038 — Make habit your flywheel](https://clemvillatte.github.io/flourishing-compendium/#card=P038%20%E2%80%94%20Make%20habit%20your%20flywheel) takes his image from the Principles of Psychology, where he writes that "Habit is thus the enormous fly-wheel of society, its most precious conservative agent" ([James, The Principles of Psychology, ch. 4](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The flywheel keeps a life on its lines, which is a comfort when the lines are good and a problem when they are not.
 
-[P038 — Make habit your flywheel](https://clemvillatte.github.io/flourishing-compendium/#card=P038%20%E2%80%94%20Make%20habit%20your%20flywheel): James's flywheel image from the Principles of Psychology, taken down to one life.
+Thich Nhat Hanh reads the same settledness from inside. [B184 — Recognize habit energy](https://clemvillatte.github.io/flourishing-compendium/#card=B184%20%E2%80%94%20Recognize%20habit%20energy) names the restless habit of running toward a future happiness, and his practice is to recognize the tendency and meet it with mindfulness rather than fight it; he concedes that some habit energies are very difficult to transform.
 
-[B058 — Sit daily — consistency over intensity](https://clemvillatte.github.io/flourishing-compendium/#card=B058%20%E2%80%94%20Sit%20daily%20%E2%80%94%20consistency%20over%20intensity): the Dhammapada's line, a wise man removing his own impurities little by little, as a smith removes dross from silver.
+### The body that carries it
 
-[S134 — Build a daily structure](https://clemvillatte.github.io/flourishing-compendium/#card=S134%20%E2%80%94%20Build%20a%20daily%20structure): Marcus's morning preparation, the day's difficult people named in advance.
+Habits are not confined to the head. Merleau-Ponty's [habit body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20habit%20body) treats habit as the body's own way of having a world: knowledge in the hands, a mediator between thought and setting, distinct from both. [E014 — Practise the habit body](https://clemvillatte.github.io/flourishing-compendium/#card=E014%20%E2%80%94%20Practise%20the%20habit%20body) carries the principle form, the body as our general medium for having a world.
 
-[Obstruction as stimulus](https://clemvillatte.github.io/flourishing-compendium/#card=Obstruction%20as%20stimulus): Dewey's hitch; a habit that runs smoothly gives no occasion for thought, and the blockage is where inquiry begins.
+John Dewey makes habit the material of growth. [Plasticity of human nature](https://clemvillatte.github.io/flourishing-compendium/#card=Plasticity%20of%20human%20nature) carries his claim that habits are what education works on, and that their real existence differs in old and young. A habit that runs smoothly gives no occasion for thought, so the blockage is where inquiry begins: that is Dewey's [Obstruction as stimulus](https://clemvillatte.github.io/flourishing-compendium/#card=Obstruction%20as%20stimulus). Deliberation, on his account, is itself a [rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal): a trial balancing of habits in imagination.
 
-[Deliberation as rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal): Dewey again, on deliberation as a trial balancing of habits in imagination.
+### What consequences teach
 
-[The habit body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, distinct from both thought and the objective body; knowledge in the hands.
+The learning sciences explain behaviour from its results. [Operant conditioning (Skinner)](https://clemvillatte.github.io/flourishing-compendium/#card=Operant%20conditioning%20%28Skinner%29) defines the operant as a class of responses that operate on the environment to generate consequences, and [Reinforcement schedules (Ferster & Skinner)](https://clemvillatte.github.io/flourishing-compendium/#card=Reinforcement%20schedules%20%28Ferster%20%26%20Skinner%29) adds that when reinforcement arrives matters as much as whether it does.
 
-[E014 — Practise the habit body](https://clemvillatte.github.io/flourishing-compendium/#card=E014%20%E2%80%94%20Practise%20the%20habit%20body): the principle form of the same; the body as our general medium for having a world.
+Complex behaviour is built, not summoned. [Shaping (Skinner)](https://clemvillatte.github.io/flourishing-compendium/#card=Shaping%20%28Skinner%29) reinforces successive approximations; in Science and Human Behavior, Skinner writes that operant conditioning shapes behaviour as a sculptor shapes a lump of clay, and that complicated operants can be built that would otherwise never appear. [Behavioural chaining (applied behaviour analysis)](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioural%20chaining%20%28applied%20behaviour%20analysis%29) teaches routines as chains of component steps, in sequence.
 
-[Excellence as habit](https://clemvillatte.github.io/flourishing-compendium/#card=Excellence%20as%20habit): Durant's paraphrase of Aristotle, labeled on the card as paraphrase.
+The willpower side of this science has not held up well. [Ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion) holds the willpower-as-resource account together with its contested history, and [Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training) carries the strongest caution: Miles and colleagues' six-week programme with active controls found no effect of training on any measure of self-control. What those nulls mean is one of the disagreements below.
 
-### Changing a stuck pattern
+### Why maintenance fails
 
-[Habit discontinuity](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20discontinuity): the finding that life-course changes loosen old cues; Verplanken and Roy's 800-participant experiment and its three-month window, with the card's honest limits.
+If forming a pattern is hard, keeping it is harder. [Habit maintenance](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20maintenance) opens with a systematic review of 100 behaviour-change theories and its opening line: interventions are effective at achieving temporary change while maintenance is rarely attained. That is the review's verdict on its hundred theories, not a proof about every change.
 
-[Habit reversal theory Azrin](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20reversal%20theory%20Azrin): awareness training plus competing response for nervous habits and tics.
+Life-course change offers one opening. [Habit discontinuity](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20discontinuity) carries Verplanken and Roy's 800-participant experiment and its three-month window: moving house or changing jobs loosens old cues, with the card's honest limits on how far the finding reaches. For clinical patterns, [Relapse prevention protocols](https://clemvillatte.github.io/flourishing-compendium/#card=Relapse%20prevention%20protocols) identify Marlatt's high-risk situations and answer them with coping skills, and [Habit reversal theory Azrin](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20reversal%20theory%20Azrin) pairs awareness training with a competing response for nervous habits and tics.
 
-[Relapse prevention protocols](https://clemvillatte.github.io/flourishing-compendium/#card=Relapse%20prevention%20protocols): Marlatt's high-risk situations and the coping-skills answer.
+The environment can be arranged directly. [Stimulus control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Stimulus%20control%20theory) is Bootzin's arrangement of the setting so the target response occurs on cue and competing responses do not; a later review found benefit for insomnia while judging the studies generally poor and the conditioning mechanism unproven. And the return matters as much as the streak: [S133 — Accept that you will fail and return](https://clemvillatte.github.io/flourishing-compendium/#card=S133%20%E2%80%94%20Accept%20that%20you%20will%20fail%20and%20return) carries Marcus's line on returning to the harmony quickly.
 
-[Stimulus control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Stimulus%20control%20theory): Bootzin's arrangement of the environment so the target response occurs on cue and competing responses do not; a later review found benefit for insomnia while judging the studies generally poor and the conditioning mechanism unproven.
+### Changing a pattern by design
 
-[Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions): Gollwitzer's if-then plans, advance decisions linking a critical situation to a goal-directed response; the meta-analytic verdict is that effects are typically of medium-to-large size.
+The design tools start from the moment of performance. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions) are Gollwitzer's if-then plans, advance decisions linking a critical situation to a goal-directed response; the meta-analytic verdict is that effects are typically of medium-to-large size. [Tiny habits (Fogg)](https://clemvillatte.github.io/flourishing-compendium/#card=Tiny%20habits%20%28Fogg%29) shrinks the behaviour to something motivation can always carry and anchors it to a routine, and [Habit stacking](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20stacking) names the recipe cards: the Anchor Moment, the Tiny Behavior and the celebration.
 
-[Tiny habits (Fogg)](https://clemvillatte.github.io/flourishing-compendium/#card=Tiny%20habits%20%28Fogg%29): motivation, ability and prompt; the design answer of shrinking the behaviour and anchoring it to a routine.
+The clinical side has its own design logics. [Behavioral activation](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20activation) interrupts the depression loop from the behaviour side, acting according to the schedule rather than the feeling. [Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory) is Carver and Scheier's cybernetic account: goals as reference values, perception as input, action closing the gap. [Transtheoretical model (Prochaska & DiClemente)](https://clemvillatte.github.io/flourishing-compendium/#card=Transtheoretical%20model%20%28Prochaska%20%26%20DiClemente%29) maps the stages a change runs through, and [Behavior change wheel theory Michie](https://clemvillatte.github.io/flourishing-compendium/#card=Behavior%20change%20wheel%20theory%20Michie) reduces the conditions to COM-B: capability, opportunity and motivation.
 
-[Habit stacking](https://clemvillatte.github.io/flourishing-compendium/#card=Habit%20stacking): anchoring the new to an existing cue; Fogg's recipe cards name the Anchor Moment, the Tiny Behavior and the celebration, and the average time to maximum automaticity in Lally's data was 66 days.
+The design can also be somebody else's. [Nudge theory Thaler](https://clemvillatte.github.io/flourishing-compendium/#card=Nudge%20theory%20Thaler) is choice architecture, fruit at eye level rather than the ban. A person can do it to themselves: [Situation selection](https://clemvillatte.github.io/flourishing-compendium/#card=Situation%20selection) chooses the situations that select the behaviour, and [Situational strategies](https://clemvillatte.github.io/flourishing-compendium/#card=Situational%20strategies) carries Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time. [PP072 — Design the environment to support the practice](https://clemvillatte.github.io/flourishing-compendium/#card=PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice) makes it concrete: phone in another room, guitar left visible. [Keystone habits](https://clemvillatte.github.io/flourishing-compendium/#card=Keystone%20habits) adds the spillover claim, with its tendency-not-guarantee caveat.
 
-[Keystone habits](https://clemvillatte.github.io/flourishing-compendium/#card=Keystone%20habits): the spillover claim, with its tendency-not-guarantee caveat.
+### Watching what you do
 
-[Behavioral activation](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20activation): the depression loop interrupted from the behaviour side; act according to the schedule, not the feeling.
+Measurement is its own lever. [Self-monitoring (Michie et al.)](https://clemvillatte.github.io/flourishing-compendium/#card=Self-monitoring%20%28Michie%20et%20al.%29) is technique 16 of the CALO-RE taxonomy, keeping a record as a method of change, and [BE011 — Recognise that behaviour is measurable — tracking improves outcomes](https://clemvillatte.github.io/flourishing-compendium/#card=BE011%20%E2%80%94%20Recognise%20that%20behaviour%20is%20measurable%20%E2%80%94%20tracking%20improves%20outcomes) carries Harkin's 138-study meta-analysis of monitoring prompts, with the card's honest bounds. [MO044 — Learn to track habits — monitoring sustains](https://clemvillatte.github.io/flourishing-compendium/#card=MO044%20%E2%80%94%20Learn%20to%20track%20habits%20%E2%80%94%20monitoring%20sustains) separates cue-monitoring from vigilant monitoring for unwanted habits, from the Gardner 2021 review.
 
-[Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory): Carver and Scheier's cybernetic account: goals as reference values, perception as input, and action closing the gap between the two.
+A response can also be rehearsed before it is needed. [Behavioural rehearsal role-play (DBT, social skills training)](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioural%20rehearsal%20role-play%20%28DBT%2C%20social%20skills%20training%29) practises a target response before performing it in real life, and [BE021 — Learn to use behavioural rehearsal — practise before performing](https://clemvillatte.github.io/flourishing-compendium/#card=BE021%20%E2%80%94%20Learn%20to%20use%20behavioural%20rehearsal%20%E2%80%94%20practise%20before%20performing) offers role-play, dialogue rehearsal and, for those who decline both, covert rehearsal in imagination.
 
-[Transtheoretical model (Prochaska & DiClemente)](https://clemvillatte.github.io/flourishing-compendium/#card=Transtheoretical%20model%20%28Prochaska%20%26%20DiClemente%29): precontemplation to maintenance; the stages a change runs through.
+## Where the traditions genuinely disagree
 
-[Behavior change wheel theory Michie](https://clemvillatte.github.io/flourishing-compendium/#card=Behavior%20change%20wheel%20theory%20Michie): the COM-B system, capability, opportunity and motivation as the three conditions.
+### Can self-control be strengthened by practice?
 
-[Nudge theory Thaler](https://clemvillatte.github.io/flourishing-compendium/#card=Nudge%20theory%20Thaler): choice architecture; fruit at eye level, not the ban.
+The strength tradition says yes, and its best evidence looked strong for a decade. Oaten and Cheng put participants through a two-month programme of regular physical exercise, chosen because keeping it up requires regulation, and found "significant improvement in self-regulatory capacity" together with reported decreases in perceived stress, emotional distress, smoking, alcohol and caffeine consumption, and improvements in healthy eating, emotional control, study habits and spending control ([Oaten and Cheng, British Journal of Health Psychology 11(4), 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/17032494/)). Their conclusion was direct: "The idea that the capacity for self-regulation can be improved is therefore of vast practical importance."
 
-[Situation selection](https://clemvillatte.github.io/flourishing-compendium/#card=Situation%20selection): choosing the situations that select the behaviour.
+Miles and colleagues ran the same hypothesis with a harder design. They had 174 participants complete a six-week programme of cognitive or behavioural self-control tasks, compared training with active and no-contact control conditions, and found "no effect of training on any measure of self-control"; trained participants did not show reduced ego depletion, become better at overcoming their habits, or report exerting more self-control in everyday life ([Miles et al., Journal of Experimental Psychology: General 145, 2016, abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/xge0000185&resultType=core&format=json)). Their stated implication is that "training self-control through repeated practice does not result in generalized improvements in self-control."
 
-[Situational strategies](https://clemvillatte.github.io/flourishing-compendium/#card=Situational%20strategies): Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time.
+The disagreement turns on what the earlier studies actually tested. Oaten and Cheng's design compared each person against their own earlier control phase, with no group doing an equally demanding activity that was not self-control training; Miles and colleagues note that in many earlier studies improvements "could be attributable to methodological factors (e.g., passive control conditions)". Where I lean: I would not spend six weeks on self-control drills, and I would treat any single-study claim on either side, including Oaten and Cheng's, with the caution their designs invite.
 
-[PP072 — Design the environment to support the practice](https://clemvillatte.github.io/flourishing-compendium/#card=PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice): the Wood-and-Neal route applied; upstream control, phone in another room, guitar left visible.
+### Does self-control run on a limited resource?
 
-[S133 — Accept that you will fail and return](https://clemvillatte.github.io/flourishing-compendium/#card=S133%20%E2%80%94%20Accept%20that%20you%20will%20fail%20and%20return): Marcus's line on returning to the harmony quickly.
+The strength model's core claim is not about training but about fuel: self-control is a limited resource depleted after a period of exertion. The model's textbook prediction was the sequential-task effect, a measurable drop in performance on a second self-control task, and a meta-analysis of the experiments initially found a medium-sized effect.
 
-### Tracking and rehearsal
+The prediction then met a registered replication. Twenty-three laboratories ran the standardized sequential-task protocol on 2,141 participants, and "the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]" ([Hagger et al., Perspectives on Psychological Science 11(4), 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)). The result concerns one standardized protocol, not every depletion finding ever published, and the card is honest about that boundary.
 
-[Self-monitoring (Michie et al.)](https://clemvillatte.github.io/flourishing-compendium/#card=Self-monitoring%20%28Michie%20et%20al.%29): technique 16 of the CALO-RE taxonomy; keeping a record as a method of change.
+The disagreement turns on whether the near-zero effect is the true size of a real phenomenon or the signature of a phenomenon that does not exist. The field has not fully settled it, and I do not pretend to. What I take from the exchange is practical: a plan that only works if my willpower tank is full is a fragile plan, and the situational tools above do not depend on the tank.
 
-[BE011 — Recognise that behaviour is measurable — tracking improves outcomes](https://clemvillatte.github.io/flourishing-compendium/#card=BE011%20%E2%80%94%20Recognise%20that%20behaviour%20is%20measurable%20%E2%80%94%20tracking%20improves%20outcomes): Harkin's 138-study meta-analysis of monitoring prompts, with the card's honest bounds.
+### Is a stuck pattern met with effort, or with recognition?
 
-[MO044 — Learn to track habits — monitoring sustains](https://clemvillatte.github.io/flourishing-compendium/#card=MO044%20%E2%80%94%20Learn%20to%20track%20habits%20%E2%80%94%20monitoring%20sustains): cue-monitoring and vigilant monitoring for unwanted habits, from the Gardner 2021 review.
+James's practical advice is to train the will in small voluntary discomforts. His maxim: "Keep the faculty of effort alive in you by a little gratuitous exercise every day", doing every day or two something for no other reason than that you would rather not do it, so that the hour of need finds you not unnerved. Education's great thing, on his account, is to "make our nervous system our ally instead of our enemy" ([The Principles of Psychology, ch. 4](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The stuck pattern is met by a stronger faculty.
 
-[Behavioural rehearsal role-play (DBT, social skills training)](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioural%20rehearsal%20role-play%20%28DBT%2C%20social%20skills%20training%29): practising a target response before performing it in real life; the card carries the Miltenberger and Cowperthwait line.
+The contemplative witnesses deny that the effort route reaches the pattern at all. Hanh states the denial plainly: "We can't transform habit energy just with our intelligence and our desire to do so"; "The only way to transform habit energy is to recognize it, embrace it with mindfulness" ([Lion's Roar](https://www.lionsroar.com/watering-the-seeds-of-happiness/)). The Buddha's own retrospective, remembered in [Backsliding into Abundance](https://clemvillatte.github.io/flourishing-compendium/#card=ST391%20%E2%80%94%20Backsliding%20into%20Abundance), is the strongest classical form of the denial: having "beat down, constrained, & crushed my mind with my awareness" through years of austerities, his verdict was "with this racking practice of austerities I haven't attained any superior human state... Could there be another path to Awakening?", and the answer came not as a harder effort but as a memory of ease ([Mahasaccaka Sutta, MN 36](https://www.accesstoinsight.org/tipitaka/mn/mn.036.than.html)).
 
-[BE021 — Learn to use behavioural rehearsal — practise before performing](https://clemvillatte.github.io/flourishing-compendium/#card=BE021%20%E2%80%94%20Learn%20to%20use%20behavioural%20rehearsal%20%E2%80%94%20practise%20before%20performing): role-play, dialogue rehearsal and, for those who decline both, covert rehearsal in imagination.
+The disagreement turns on what the lever is. James trains effort itself, so that willpower can be relied on when summoned; Hanh and the sutta treat the summoning as part of the grip, and move the work to recognition, where a seen pattern "loses its power". I lean toward James for building a pattern the world supports, and toward the contemplative account for loosening one that tightens when fought, because the two methods fail in opposite directions and I want to know which failure I am facing.
 
-### Related questions and parallels
+## Practice: designing what repeats
 
-Is habit the enemy of freedom or its form? The traditions differ in emphasis. James's flywheel makes habit society's conservative agent; Dewey's habits are the material education works on and the stuff that obstruction interrupts; the meditative traditions treat automaticity as something to be seen through. The question runs through all of them.
+::Variation:: A stuck pattern usually needs the cue, the environment or the review rhythm to vary, and rarely needs the person to become someone else first. Begin by naming the pattern's cue and the moment it fires, before choosing any exercise from below.
 
-What is a body in all this? Merleau-Ponty's answer, knowledge in the hands, is a different question than the laboratory's: where a habit lives, not what triggers it. The habit body is the phenomenological account of the same fact the context account measures.
+::Selection:: The kernels cluster into design, review and loosening. Choose one behaviour, one anchor and one review, and let the trial decide what stays.
 
-Why does maintenance fail so often? The systematic review's opening line, that maintenance is rarely attained, is the review's verdict on its 100 theories, not a proof about every change; the techniques above are answers, not guarantees.
+### Make the behaviour the easy choice
 
-## Practice: variation, selection, retention
+1. [Environment design](https://clemvillatte.github.io/flourishing-compendium/#card=K177%20%E2%80%94%20Environment%20design): arrange the setting so the desired behaviour is the easy choice and the undesired one is hard. Notice how often the cue, not the intention, decides the moment.
 
-The practice material clusters into design and review. The design side: [Environment design](https://clemvillatte.github.io/flourishing-compendium/#card=K177%20%E2%80%94%20Environment%20design) makes the desired behaviour the easy choice. [Habit stacking](https://clemvillatte.github.io/flourishing-compendium/#card=K176%20%E2%80%94%20Habit%20stacking) anchors it to a cue that already fires. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions) pre-decides the moment. [Habituation by design](https://clemvillatte.github.io/flourishing-compendium/#card=K257%20%E2%80%94%20Habituation%20by%20design) runs a thirty-day plan of micro-actions for one virtue. The review side: [Weekly habit review](https://clemvillatte.github.io/flourishing-compendium/#card=K193%20%E2%80%94%20Weekly%20habit%20review) reads the week as a design review, and [Deimplementation](https://clemvillatte.github.io/flourishing-compendium/#card=K181%20%E2%80%94%20Deimplementation) asks what to stop. The unlearning side: [The Habit Releaser](https://clemvillatte.github.io/flourishing-compendium/#card=K393%20%E2%80%94%20The%20Habit%20Releaser) breaks a small pattern to see the autopilot.
+2. [Habit stacking](https://clemvillatte.github.io/flourishing-compendium/#card=K176%20%E2%80%94%20Habit%20stacking): anchor the new behaviour to a cue that already fires, and let the existing routine do the reminding. Notice whether the anchor holds through a change of place or schedule.
 
-This is an editorial combination, not a validated recipe. The trial is: pick one behaviour, design the cue and the environment around it, review weekly, and judge the result by whether the behaviour fires in the week. Retain the anchor and the review if the behaviour fires; drop them if it does not. A person who keeps one anchor, one review and one environment change that survives the trial has what the theme offered.
+3. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): pre-decide the moment as an if-then plan, so the decision is made before fatigue arrives. Notice how much deciding the plan removes at the critical moment.
 
-## Story: the stories that carry the theme
+4. [Habituation by design](https://clemvillatte.github.io/flourishing-compendium/#card=K257%20%E2%80%94%20Habituation%20by%20design): choose one virtue and a micro-action that expresses it, repeated over thirty days. Notice the act becoming easier before it becomes interesting.
+
+### Review what repeats
+
+5. [Weekly habit review](https://clemvillatte.github.io/flourishing-compendium/#card=K193%20%E2%80%94%20Weekly%20habit%20review): read the week as a design review, one page, asking which cued behaviours fired and which did not. Notice which cue did the work and which the review missed.
+
+6. [Deimplementation](https://clemvillatte.github.io/flourishing-compendium/#card=K181%20%E2%80%94%20Deimplementation): regularly retire a practice, strategy or rule that no longer earns its keep. Notice what the removal makes room for.
+
+### Loosen what is stuck
+
+7. [The Habit Releaser](https://clemvillatte.github.io/flourishing-compendium/#card=K393%20%E2%80%94%20The%20Habit%20Releaser): once this week, deliberately break a small habit: a different chair, a different route. Notice how much of the day runs on autopilot, and how perception sharpens when the pattern is broken.
+
+::Retention:: Keep what survives the trial only if the pattern still serves the aim it was chosen for: a behaviour that fires reliably but works against the aim is a habit doing its job in the wrong cause, and the weekly review is where that gets caught. What people keep, in the end, is what works for them.
+
+## Story: lives shaped by repetition
+
+The stories hold the pattern at full length: years of it, the daily offices of it, and the return after it fails.
+
+### Years of practice
 
 [Cook Ding and the Ox](https://clemvillatte.github.io/flourishing-compendium/#card=ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): nineteen years of carving and a blade still sharp; he never cuts through bone, reads the joints, and slows down at the difficult ones.
 
@@ -156,10 +154,14 @@ This is an editorial combination, not a validated recipe. The trial is: pick one
 
 [Phil Connors Practises](https://clemvillatte.github.io/flourishing-compendium/#card=ST222%20%E2%80%94%20Phil%20Connors%20Practises): a weatherman trapped in a repeating day practises piano, French and ice sculpture with no audience and no reward, until the practice becomes what he is.
 
+### The day's offices
+
 [The Morning Preparation](https://clemvillatte.github.io/flourishing-compendium/#card=ST217%20%E2%80%94%20The%20Morning%20Preparation): at dawn Marcus names the day's difficult people and their ignorance of good and evil before he meets them.
 
 [The Evening Review](https://clemvillatte.github.io/flourishing-compendium/#card=ST220%20%E2%80%94%20The%20Evening%20Review): Seneca, with the lights out, reviews the day's cases, what he did badly and what well.
 
+### Returning after a fall
+
 [The Monk and the Seasons](https://clemvillatte.github.io/flourishing-compendium/#card=ST094%20%E2%80%94%20The%20Monk%20and%20the%20Seasons): a child monk on a floating temple torments animals, learns love, commits murder, does penance dragging a millstone up a mountain; spring returns with a new child.
 
-[Backsliding into Abundance](https://clemvillatte.github.io/flourishing-compendium/#card=ST391%20%E2%80%94%20Backsliding%20into%20Abundance): a meditation on the return after the fall, read against the principle that the mistake is part of the practice.
+[Backsliding into Abundance](https://clemvillatte.github.io/flourishing-compendium/#card=ST391%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's own account of force failing, remembered ease becoming the path, and the return to solid food judged as part of the practice.
