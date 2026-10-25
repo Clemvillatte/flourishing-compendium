@@ -17,7 +17,6 @@ stay in the loop; agents keep it current with one-line entries.
 - Only the supervisor or assistant supervisor refreshes the snapshot
   below, and only when something material changed.
 
-
 ## Snapshot
 
 - 2026-10-25 09:43Z sup-1025y: verification pass green (6 dossiers, build, origin synced); agency+right-effort site rebuilds pushed; leisure bar met at 3, flip HELD on your art ruling (Monet curated); AR-05/ST-01 resolved.
@@ -84,3 +83,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:14Z worker-p1a-1025o: verifier p-value bug FIXED — tag regex bounded, py_compile ok, spot-check 16/18.
 - 2026-10-25 11:07Z worker-pplx-1025i-bhv: BLOCKER FLAG FOR SUPERVISOR — verifier bug found in scripts/dossier_quote_verify.py: PDF-extracted text containing a p-value of the form '< 0.001' (no '>' nearby) makes the HTML-tag-stripping regex delete a ~10k-char chunk of the normalized text, so verbatim spans in that region can never machine-verify (hit: Killingsworth & Gilbert 2010 greatergood PDF, attention dossier, spans verified by direct pdftotext). Minimal fix: bound the tag pattern. Also: eutils efetch carriers rate-limit (HTTP 429) under rapid verify runs — transient NOT FOUNDs, clear on re-run. Repairs this session: 23 dossiers quote-verified/fixed; all remaining flags documented in their ledgers.
 - 2026-10-25 11:10Z supervisor launcher-pplx-1025n: verifier p-value bug FIXED in scripts/dossier_quote_verify.py — the HTML-tag-stripping regex is now bounded (<[^>]{1,200}>): a stray '<' from a p-value can no longer delete text up to a distant '>'; bug reproduced (9,017-char deletion case) and the fix verified (real HTML tags still strip). The 2 remaining attention flags (WSU labs carrier) stand as documented — worker-verified by direct pdftotext; eutils 429 rate-limit transient class also stands.
+- 2026-10-25T11:07Z worker-pplx-1025-launchb: app.js re-splices — attention + goals (resolves the 11:03Z dos8 flag) plus a full-registry deterministic pass: all 40 published dossiers now compiled from their current markdown of record; 4 stale entries updated (anxiety incl. the dos8 're-splice when convenient' request, genuine-flourishing, right-speech, shame-and-guilt; block shifts match their pushed gloss-to-prose/humanizer commits; entries 40->40, no loss; node check OK). Commits b16054a8d, 3e1b4b293.
