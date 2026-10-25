@@ -703,9 +703,16 @@ standard.
   (https://www.youtube.com/watch?v=0w_JWOrqrzo); watch page opened
   2026-10-25.
 - Duration: 1:29:36 (watch page, 2026-10-25).
-- Instructor credentials: Professor Richard A. Shweder, Dr Bradley
-  Franks, Professor Anne Phillips; chaired by Dr Alex Gillespie (per the
-  host description; institutional pages not opened this session).
+- Instructor credentials: Professor Richard A. Shweder, Harold H.
+  Swift Distinguished Service Professor of Human Development, University
+  of Chicago; Professor Anne Phillips, Emeritus Professor of Political
+  Theory at the London School of Economics; Dr Bradley Franks (per the
+  host description; pages not retrieved this session). Shweder and
+  Phillips via Wikipedia page content retrieved 2026-10-25 through the
+  Wikipedia REST summary endpoints
+  (https://en.wikipedia.org/api/rest_v1/page/summary/Richard_Shweder and
+  .../Anne_Phillips_(political_theorist)); chaired by Dr Alex Gillespie
+  (per the host description).
 - Language: English.
 - Content coverage (host description, read 2026-10-25): whether there
   are limits to liberal moral concepts for judging others, what highly
