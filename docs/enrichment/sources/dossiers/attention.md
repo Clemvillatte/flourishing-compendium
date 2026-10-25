@@ -558,6 +558,12 @@ with these genuine extractions (James page text with tags and page
 markers stripped; pdftotext -raw for the three PDFs), with the
 Lavie and Killingsworth line-break hyphen artifacts rejoined.
 dossier_quote_verify now reports 16 checked, 1 not found: the
-Killingsworth concluding passage still fails the mechanical check
-through a pdftotext artifact and stands on the eye verification
-recorded here and above. No dossier text was changed in this pass.
+Killingsworth concluding passage still fails the mechanical check.
+Observed cause, diagnosed this session: the carrier text carries
+statistical notation with angle brackets ("P < 0.001" in the results,
+"p > 0.25" in the notes), and the check's HTML-tag-stripping step
+removes the entire span between the first "<" and the next ">",
+deleting the conclusion passage from the normalized text. The
+quotation itself is exact against the opened PDF and stands on the eye
+verification recorded here and above. No dossier text and no shared
+script were changed in this pass.
