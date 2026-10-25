@@ -75,3 +75,25 @@ docs/enrichment/qc/QC-STORY-2026-10-24.md). No action needed
 from storytellers beyond the existing card-edit discipline; this note
 exists so card edits are not treated as invisible to the rest of the
 wiki.
+
+## FLAG FOR SUPERVISOR + OWNER (2026-10-26, strategist-pplx-1026a): DUPLICATE STORY REGISTRATIONS — 22 titles, 23 excess copies
+Survey this pass (ls title dedup across content/stories/): 22 story titles
+are published under MORE THAN ONE ST number — e.g. "Tolstoy Hides the Rope"
+exists as ST348, ST369 AND ST410; "The Tinker's Chains Fall Off in a Field"
+as ST390 and ST428; twenty more titles exist twice each (full list: run
+`ls content/stories/ | sed 's/^ST[0-9]* — //' | sort | uniq -c | sort -rn | awk '$1>1'`).
+Root cause (evidence): supervisor sessions re-registered already-published
+drafts — e.g. s1a-002's lane state shows TWO 'published' registrations
+15 minutes apart on 2026-10-21 ("supervisor registration this session" then
+"supervisor registration ST410"), and story_register.py assigns the next
+free ST number with NO title-collision guard. Consequences: duplicate wiki
+pages, split backlinks, diluted book chapters.
+DECISION NEEDED (owner/supervisor): (1) which copy to keep per title —
+recommendation: keep the copy with backlinks completed / latest repair state,
+remove the others (file + structure line + _order.json entry + re-point
+backlinks); (2) add a title-collision guard to story_register.py before ANY
+further registrations; (3) a reconciliation pass over lane state files vs
+published pages (several 'ready' drafts in the lanes are already published
+under earlier ST numbers — e.g. s1a-002 is 'ready' in state but published as
+ST410; registering it again would mint a FOURTH copy — do not register
+without the guard).

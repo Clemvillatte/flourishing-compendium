@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-25 23:58Z sup-1026a: FLAG — 22 story titles published under multiple ST numbers (23 excess copies; duplicate registrations by past supervisor sessions, no title guard in story_register.py); repair + guard needed before further registrations; details on STORIES-TASKBOARD.
 - 2026-10-25 23:49Z sup-1026a: pipeline plan pushed (PIPELINE-2026-10-26.md) — degrees 1-by-1 order, dosr1-7 repair bands minted, stories finish-started route; send 8 workers + 1 supervisor.
 - 2026-10-25 23:47Z sup-1026a: repo clarity pass — README repo map, docs/README project directory, enrichment INDEX, QC reports archived to qc/, root strays archived; canonical paths unchanged.
 - 2026-10-25 14:59Z gm-c2183cca: kernel/artwork corrections, mortality third dispute, routing and persistence repairs complete. 76 Python tests pass; later quota failures now reach callers.
