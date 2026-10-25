@@ -2,11 +2,13 @@
 
 > Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?
 
-A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Frankl counts creating a work or doing a deed among the three ways a life finds meaning. Bergson goes further and reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. The accounts put the emphasis in different places, and this page follows each emphasis where it leads.
+A life spends itself making things: meals, sentences, friendships, children, institutions, a character. I find the question surfacing on ordinary days: why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?
 
-The question underneath all of them is what the making does: whether it delivers a meaning the maker finds, or confers one, or both, and where the meaning lands when the thing is made.
+The accounts answer with different emphases. Frankl counts creating a work or doing a deed among the three ways a life finds meaning. Bergson reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. This page follows each emphasis where it leads.
 
-## Nearby terms
+The question underneath is whether the meaning is found or conferred, and where it lands when the thing is made.
+
+### Nearby terms
 
 The family around creation overlaps easily, so I keep apart what can be kept apart:
 
@@ -35,13 +37,13 @@ The metaphysical accounts read the making outward, onto life itself. [Creative a
 
 > "'Creativity' is the universal of universals characterizing ultimate matter of fact. It is that ultimate principle by which the many, which are the universe disjunctively, become the one actual occasion, which is the universe conjunctively." ([Whitehead, Process and Reality, quoted in the Garland Encyclopedia of Whiteheadian Thought](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/))
 
-Bergson's [Creative evolution](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20evolution) makes the same claim biologically: life as genuinely new, carried by the élan vital, a shared thrust. Mechanism and finalism both make real creation impossible — mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends — and both, he says, fail for the same reason.
+Bergson's [Creative evolution](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20evolution) makes life itself genuinely new, carried by the élan vital, a shared thrust. Mechanism and finalism both make real creation impossible — mechanism reads an impulse of thought backward into inherited suppositions, finalism assumes a conceptual arrangement of means to ends — and both, he says, fail for the same reason.
 
 And the making runs both ways: life makes, and the making remakes the maker. Bergson's [P102 — Trust the creative thrust of life](https://clemvillatte.github.io/flourishing-compendium/#card=P102%20%E2%80%94%20Trust%20the%20creative%20thrust%20of%20life) says it in a sentence:
 
 > "It is then right to say that what we do depends on what we are; but it is necessary to add also that we are, to a certain extent, what we do, and that we are creating ourselves continually." ([Bergson, Creative Evolution, ch. 1, Mitchell trans., Project Gutenberg](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm))
 
-[Creative selection](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20selection) compresses the same point: for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. Dewey's [Creative impulse](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20impulse) grounds the two-way movement in ordinary experience: a raw germ of an idea, given shape through emotion, then needing arduous formative work before it becomes art.
+[Creative selection](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20selection) compresses the same point: for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. Dewey's [Creative impulse](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20impulse) follows the idea rather than the self: a raw germ, given shape through emotion, then needing arduous formative work before it becomes art.
 
 Bergson gives the making its felt signature. Joy, on his account, announces that life has succeeded, and [P191 — Joy is the felt signature of creation; distinct from pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=P191%20%E2%80%94%20Joy%20is%20the%20felt%20signature%20of%20creation%3B%20distinct%20from%20pleasure) keeps the signature distinct from pleasure. His [P195 — Creative emotion (émotion créatrice) is generative of thought, not a byproduct of it](https://clemvillatte.github.io/flourishing-compendium/#card=P195%20%E2%80%94%20Creative%20emotion%20%28%C3%A9motion%20cr%C3%A9atrice%29%20is%20generative%20of%20thought%2C%20not%20a%20byproduct%20of%20it) goes further: an emotion that generates representations rather than only following them, the musician's emotion giving rise to the symphony and its score.
 
@@ -55,7 +57,9 @@ Arendt gives the maker a world. Where the laborer tends the cycle of life, [Homo
 
 Vico's [Verum factum](https://clemvillatte.github.io/flourishing-compendium/#card=Verum%20factum) makes the knowledge claim: the true and the made are one, verum et factum convertuntur — we know the human world fully because we made it, and the mind does not make itself as it gets to know itself. The [pontifex, bridge-maker](https://clemvillatte.github.io/flourishing-compendium/#card=The%20pontifex%2C%20bridge-maker) holds the sociology of mediation: the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods, connection as something built with a social status to go with it — though ancient scholars contested the etymology from the start.
 
-Connection between people can be made too: [Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection) is Fredrickson's account of positivity resonance, shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments. And connection between ideas is made visible: on [Conceptual metaphor theory](https://clemvillatte.github.io/flourishing-compendium/#card=Conceptual%20metaphor%20theory%20Lakoff%20Johnson), metaphor structures one domain through another, love spoken of in terms of travel, time in terms of space, importance in terms of weight, with systematic correspondences rather than stray figures of speech. [Insight research](https://clemvillatte.github.io/flourishing-compendium/#card=Insight%20research) adds the sudden-comprehension mode: Kounios and Beeman define insight as a sudden reinterpretation that produces a nonobvious, nondominant reading of a stimulus, situation or event, counting comprehension of a joke or metaphor among its forms.
+Connection between people can be made too: [Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection) is Fredrickson's account of positivity resonance, shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments. But what kind of thing is a connection between people — a feeling, or something with structure?
+
+The structural answers come from ideas. On [Conceptual metaphor theory](https://clemvillatte.github.io/flourishing-compendium/#card=Conceptual%20metaphor%20theory%20Lakoff%20Johnson), metaphor structures one domain through another, love spoken of in terms of travel, time in terms of space, importance in terms of weight, with systematic correspondences rather than stray figures of speech. And [Insight research](https://clemvillatte.github.io/flourishing-compendium/#card=Insight%20research) adds the sudden-comprehension mode: Kounios and Beeman define insight as a sudden reinterpretation that produces a nonobvious, nondominant reading of a stimulus, situation or event, counting comprehension of a joke or metaphor among its forms.
 
 The Stoic [interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good) is the boundary to this cluster: Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy — a connection the world already has rather than one a person makes.
 
@@ -69,7 +73,7 @@ Aristotle gives the maker's competence its shape: [A035 — Cultivate art and cr
 
 > "Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake." ([Sennett 2008, quoted in Jones et al. 2021](https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1939289))
 
-Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. The contemplative versions of that focus are Zhuangzi's [quiet craftsman's life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20quiet%20craftsman%27s%20life) — Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh — and Weil's [craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear.
+Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. Zhuangzi's [quiet craftsman's life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20quiet%20craftsman%27s%20life) — Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh — and Weil's [craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear, carry a kindred focus in contemplative registers. That kinship is my comparison; neither source makes it.
 
 ## What outlasts the maker
 
@@ -87,25 +91,9 @@ Whether a person sees themselves as a maker is itself studied. [Creative identit
 
 Nietzsche's [creative life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20creative%20life) is a mode of existence rather than a career: one must still have chaos in oneself to give birth to a dancing star, and the spirit's three metamorphoses end in the child, "a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea." ([Thus Spake Zarathustra, Common trans.](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)) Kant's [dignity of self-expression](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20self-expression) gives the identity its moral floor: saying what one needs and where one stands treats the speaker as an end, not a mere means; whatever has value can be replaced, and what is above value has dignity.
 
-Maslow's [P114 — Create as growth — creation is the evidence of growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) reads creativeness as an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health. And Prigogine's [P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively) reads the unstable periods of a life as raw material: non-equilibrium as a source of order rather than decay, and reorganization as what instability can become.
+Maslow's [P114 — Create as growth — creation is the evidence of growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) reads creativeness as an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health. And Prigogine's [P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively) holds that non-equilibrium is a source of order rather than decay; the step from there to the unstable stretches of a life as raw material for reorganization is mine, not his, and I make it as an application, offered as one.
 
-## Where the traditions genuinely disagree
-
-### Is the meaning of making discovered or created?
-
-A tension runs through the sources: when a maker finds meaning in the making, is the meaning there to be found, or does the maker put it there?
-
-Frankl locates meaning beyond the self, as something to discover and fulfil. The sentence that precedes the three routes in the book: "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
-
-Nietzsche says created. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
-
-> "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!" ([Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
-
-> "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
-
-These accounts give making different roles: responding to a meaning already in the world for Frankl, assigning value for Nietzsche. What the two sources leave unresolved is whether they are incompatible accounts of the same meaning or different aspects of one act of making, the usefulness of a made thing being there to be found while its worth is conferred.
-
-### Where does the meaning of making land?
+## Where the meaning of making lands
 
 When a person makes something, the sources put the meaning in three different places, and they do not rank them.
 
@@ -123,21 +111,41 @@ On the work itself: Sennett's craftsman wants to do a job well for its own sake,
 
 Can these aims conflict, and what should take priority if they do? The passages quoted here do not settle it.
 
+## Where the traditions genuinely disagree
+
+### Is the meaning of making discovered or created?
+
+A tension runs through the sources: when a maker finds meaning in the making, is the meaning there to be found, or does the maker put it there?
+
+Frankl locates meaning beyond the self, as something to discover and fulfil. The sentence that precedes the three routes in the book: "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
+
+Nietzsche says created. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
+
+> "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!" ([Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
+
+> "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
+
+These accounts give making different roles: responding to a meaning already in the world for Frankl, assigning value for Nietzsche. What the two sources leave unresolved is whether they are incompatible accounts of the same meaning or different aspects of one act of making, the usefulness of a made thing being there to be found while its worth is conferred.
+
+I lean toward the second reading, because the two passages do not address the same proposition: Frankl speaks of the meaning of a life, Nietzsche of the significance of things, and a maker can plausibly find the one and confer the other. But that is my reading, and the sources themselves do not settle it.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the direction of the energy: consuming without contributing, waiting to feel like making before making, making only for display, or treating the finished thing as the only point, so that the maker is left out of the account. The adaptive direction is making that is small, regular, connected to someone beyond the maker, and allowed to be imperfect.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
-1. [K324 — Constraint-based creation](https://clemvillatte.github.io/flourishing-compendium/#card=K324%20%E2%80%94%20Constraint-based%20creation): choose a creative task and impose a constraint, 100 words, one colour, three ingredients, one hour. In the rhyme experiments, constrained versions were rated more creative, and the Dr. Seuss wager shows a constraint doing generative work. The findings are task-specific; the kernel does not claim every constraint helps every task.
+1. [K324 — Constraint-based creation](https://clemvillatte.github.io/flourishing-compendium/#card=K324%20%E2%80%94%20Constraint-based%20creation): choose a creative task and impose a constraint, 100 words, one colour, three ingredients, one hour. What to notice: whether the constrained version produces more ideas, or better ones, than the free version. In the rhyme experiments, constrained versions were rated more creative, and the Dr. Seuss wager shows a constraint doing generative work. The findings are task-specific; the kernel does not claim every constraint helps every task.
 
-2. [K225 — Service and creation](https://clemvillatte.github.io/flourishing-compendium/#card=K225%20%E2%80%94%20Service%20and%20creation): one act of service or creation a week that outlasts the week, with the trace-next-month test. The weekly cadence and the test are the practice's own prompts, not a tested intervention schedule; the research tradition behind it is generativity.
+2. [K225 — Service and creation](https://clemvillatte.github.io/flourishing-compendium/#card=K225%20%E2%80%94%20Service%20and%20creation): one act of service or creation a week that outlasts the week, with the trace-next-month test. What to notice: whether the trace test changes what you choose to make. The weekly cadence and the test are the practice's own prompts, not a tested intervention schedule; the research tradition behind it is generativity.
 
-3. [K224 — Legacy letter](https://clemvillatte.github.io/flourishing-compendium/#card=K224%20%E2%80%94%20Legacy%20letter): write the letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished. The value is in the writing; the life-review literature behind it studied reminiscence, ego integrity and life satisfaction in older adults, and the letter format itself is editorial.
+3. [K224 — Legacy letter](https://clemvillatte.github.io/flourishing-compendium/#card=K224%20%E2%80%94%20Legacy%20letter): write the letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished. What to notice: which unfinished thing the letter asks to be finished. The value is in the writing; the life-review literature behind it studied reminiscence, ego integrity and life satisfaction in older adults, and the letter format itself is editorial.
 
 ::Retention:: Retention is what people keep because it works for them. The constraint someone keeps using, the weekly act that survives its month, the letter that gets reread: what stays is a matter of fit between the practice and the life it enters.
 
 ## Story: the stories that carry the theme
+
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Making as forgetting oneself
 

@@ -8,11 +8,20 @@
    "verification": "seven-rev build (rev 1 first draft + ledger; revs 2-7 advisor rounds 1-6). Every block quotation verified word-for-word against unprompted raw text (raw curl downloads, raw HTML with tags stripped, or fetch-tool raw HTML where curl is bot-blocked); three extraction reconstructions caught by raw comparison and fixed (Arendt, Whitehead, Rubinstein). Divergence developed on opened carriers: Frankl's discover-in-the-world sentence (grep-verified against the raw PDF text) vs Nietzsche's created-significance passages (Gutenberg raw), framed as a tension with the reconciliation left as an unresolved question. Connections-between-ideas cluster added (Conceptual metaphor theory, Insight research, The interconnected good) with exclusions substantiated by full card reads. Checker exit 0 (51 card links, 16 headers, 14 external carrier occurrences across 9 distinct URLs). Registry status left planned for the supervisor flip."
   }
  ],
- "note": "rev 7 (worker-pplx-dos31-1025c, 2026-10-25): advisor rounds 1-6 applied across revs 2-7; divergence argued with the raw-verified Frankl discover-in-the-world sentence; unsupported categorical claims removed; Creative values and The will to meaning links restored; five connection cards read in full, glosses corrected, exclusions substantiated; checker exit 0 (51 card links, 14 external occurrences); STATUS: worker-complete, awaiting supervisor review and registry flip",
+ "note": "Pass 9: restructured to GF interwoven format, WIP per advisor QC (disagreement count short of the 3-5 model; two T&F quotes on prior verification). rev 7 note below is superseded for the current manuscript.",
  "in_progress": "",
  "flagged": {
   "divergence-requirement": "Developed and raw-verified: Frankl ('the true meaning of life is to be discovered in the world rather than within man or his own psyche', grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, corrected and strengthened through rev 7; supervisor review of the divergence itself requested",
   "procreation": "full-text search across content/ finds no card carrying the word \"procreation\"; the nearest material is generativity, legacy research and Bergson's mother-and-child passage; possible owner-visible gap"
  },
- "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."
+ "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only.",
+ "items": [
+  {
+   "id": "creation-restructure-pass9",
+   "done": true,
+   "date": "2026-10-25",
+   "worker": "worker-pplx-c3b0f2fb",
+   "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim; advisor QC round applied (evidence bridges fixed/narrowed, disagreement section reduced to the one supported question and the where-it-lands synthesis moved to body, shape fixes); checker exit 0; two T&F bot-blocked quotes carry prior raw verification on record. STATUS: WIP \u2014 disagreement section holds one supported question where the model asks 3-5, and the two T&F quotes were not independently reconfirmed this pass; both flagged for the supervisor/next worker."
+  }
+ ]
 }

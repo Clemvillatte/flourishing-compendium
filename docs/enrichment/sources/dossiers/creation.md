@@ -316,3 +316,40 @@ no LLM extraction, VERBATIM) and whose wording was reused unchanged, so the
 prior verification stands. New prose was written this pass without opening
 new carriers: every claim in new words restates material already verified in
 this ledger; no new claims were added.
+
+### Advisor QC round (pass 9 addendum, 2026-10-25)
+
+Verdict: WIP, not QC pass. Blockers addressed this round: the "Bergson
+makes the same claim biologically" bridge removed (Bergson now presented
+separately); the "Dewey grounds the two-way movement" bridge removed
+(Dewey's card follows the idea, not the self); the Prigogine application
+to the stretches of a life now marked as the compendium's editorial step,
+not his; the "contemplative versions of that focus" comparison now marked
+as mine. The connection-sequence paragraph was split (Fredrickson alone,
+then Lakoff/Beeman) to keep the position load per paragraph at two. The
+"Where does the meaning of making land?" subsection was moved out of the
+disagreement section into the main synthesis ("Where the meaning of
+making lands") — it is an emphasis question, not a supported disagreement.
+A first-person lean was added to the discovered-or-created subsection,
+resting on the observation that the two passages address different
+propositions (Frankl: meaning of a life; Nietzsche: significance of
+things). Shape fixes: opening reworked to start from the writer's
+concrete question (three first-person paragraphs), Nearby terms demoted
+to ### per the model, Story section given its one-line intro, practice
+kernels given what-to-notice clauses.
+Corrections to this ledger's pass-9 entry: its "no new claims were
+added" sentence was inaccurate — the new connective prose adds
+comparative interpretations; the accurate statement is that every claim
+in new words restates ledger-verified material, and the interpretive
+bridges added above the card material are now marked in the text
+itself. The two T&F quotes were NOT independently reconfirmed this
+pass; the accurate record is "prior raw verification recorded in this
+ledger (fetch-tool raw HTML, no LLM extraction, VERBATIM), not
+reconfirmed this pass," and the automatic non-matches are consistent
+with the known bot-blocked carrier pattern the orders document.
+Remaining blockers, explicitly: the disagreement section holds one
+supported question where the model asks for three to five, and more
+supported disagreements would require carrier work outside this
+pass's scope; and the two T&F quotes remain un-reconfirmed. The
+dos31 batch note records the WIP status; the inherited rev-7
+"worker-complete" note no longer describes the current manuscript.
