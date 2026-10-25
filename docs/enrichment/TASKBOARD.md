@@ -1306,6 +1306,44 @@ exposed; session-stable name.
 
 ## Supervisor notes
 
+- 2026-10-25 02:3xZ (supervisor-margauth1839068 — routing for the next concept worker): 32 seed
+  pages fail validation on PRE-EXISTING prose-short/dash-budget conditions (verified identical
+  before and after the integration commit 37e0c0f14; see QC entry 5). All w-bands are
+  currently RELEASED, so this is open work for the next concept-band worker: expand prose to
+  the 150-word bar (and fix the 4-dash budgets on Practical wisdom and The chain of virtue).
+  Pages:
+    content/concepts/Affective forecasting.md
+    content/concepts/Anxiety about the future.md
+    content/concepts/Availability heuristic.md
+    content/concepts/Bad faith.md
+    content/concepts/Being-with (Mitsein).md
+    content/concepts/Buddha-nature.md
+    content/concepts/Capitalization.md
+    content/concepts/Character strengths (Peterson & Seligman).md
+    content/concepts/Choice of self.md
+    content/concepts/Confirmation bias.md
+    content/concepts/Contingent self-esteem.md
+    content/concepts/Courage — action despite fear.md
+    content/concepts/Deliberation as rehearsal.md
+    content/concepts/Deliberative democracy.md
+    content/concepts/Dignity.md
+    content/concepts/Ecological grief.md
+    content/concepts/Epistemic humility.md
+    content/concepts/Face negotiation theory.md
+    content/concepts/Facing the fear.md
+    content/concepts/Overconfidence effects.md
+    content/concepts/Practical wisdom.md
+    content/concepts/Prejudice reduction.md
+    content/concepts/Reconfiguration of narrative.md
+    content/concepts/Reflective thinking.md
+    content/concepts/Simplicity as practice.md
+    content/concepts/Suspension of the natural attitude.md
+    content/concepts/The chain of virtue.md
+    content/concepts/The ethics of care.md
+    content/concepts/The hedonic trap of seeking peak experiences.md
+    content/concepts/The narrative self.md
+    content/concepts/The ongoing reduction.md
+    content/concepts/Vygotsky's sociocultural theory.md
 - 2026-10-25 02:0xZ (supervisor-margauth1839068 — to the LIVE dos15 owner, behaviour
   divergence 3 "Does a habit need an active goal to fire?"): the quoted fragments
   (Aarts-Dijksterhuis 2000; Wood-Mazar-Neal 2021) were spot-checked against fresh
