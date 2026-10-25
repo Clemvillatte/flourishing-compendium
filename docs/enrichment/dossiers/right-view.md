@@ -43,7 +43,7 @@ The [Kaccānagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.
 
 > "'Everything exists': That is one extreme. 'Everything doesn't exist': That is a second extreme. Avoiding these two extremes, the Tathagata teaches the Dhamma via the middle: From ignorance as a requisite condition come fabrications." ([SN 12.15, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
 
-That middle is not a compromise averaged between two mistakes. It is [dependent origination](https://clemvillatte.github.io/flourishing-compendium/#card=Dependent%20origination), the twelve-link chain of SN 12.1, the conditionality the view tracks: arising and cessation both. The [middle path](https://clemvillatte.github.io/flourishing-compendium/#card=The%20middle%20path) is a way of practice with its own logic, not a midpoint between vices.
+That middle is [dependent origination](https://clemvillatte.github.io/flourishing-compendium/#card=Dependent%20origination), the twelve-link chain of SN 12.1, the conditionality the view tracks: arising and cessation both. The [middle path](https://clemvillatte.github.io/flourishing-compendium/#card=The%20middle%20path) is a way of practice with its own logic.
 
 And the same sutta gives the view its concrete test, which is where the teaching stops sounding like metaphysics and starts sounding like attention:
 
@@ -91,7 +91,7 @@ The worry about views is not only Buddhist, and the other accounts differ in wha
 
 Mill's suspicion is of one-sidedness. [partial truths in every opinion](https://clemvillatte.github.io/flourishing-compendium/#card=Partial%20truths%20in%20every%20opinion) is his argument that a prevailing opinion usually holds part of the truth and the missing part sits in the opinion it opposes. Its working counterpart is [steelmanning the opposing view](https://clemvillatte.github.io/flourishing-compendium/#card=Steelmanning%20the%20opposing%20view), addressing the strongest form of the other person's argument, with Mill's ground that knowing only one's own side of the case is knowing little of that.
 
-The Stoics, finally, distrust scale rather than fixity or one-sidedness. Their contribution is a standing exercise rather than an argument: [the view from above](https://clemvillatte.github.io/flourishing-compendium/#card=The%20view%20from%20above), picturing human affairs from a great height until their scale changes, Marcus Aurelius's herds and solemnities seen from above.
+The Stoics, finally, are the ones who distrust scale; fixity and one-sidedness were the earlier sections' worries. Their contribution is a standing exercise: [the view from above](https://clemvillatte.github.io/flourishing-compendium/#card=The%20view%20from%20above), picturing human affairs from a great height until their scale changes, Marcus Aurelius's herds and solemnities seen from above.
 
 ## Where the traditions genuinely disagree
 

@@ -1000,3 +1000,22 @@ density 0 dense; quote_verify 20 checked, 2 not found, both the previously
 documented PDF exceptions (archive.org Kathāvatthu scan; antilogicalism MMK
 PDF). Count: right-view now has THREE substantiated questions plus two
 "Related questions" items under the standard heading.
+
+## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos18, 2026-10-25 11:15Z)
+
+Prose revision only; no quotes, links, claims or evidence changed. The
+voice audit reported 5 structural candidates; 2 were repaired: the
+"not a compromise averaged between two mistakes. It is..." opening
+scaffold in the dependent-origination paragraph was recast as a direct
+statement, and the Stoic "distrust scale rather than fixity or
+one-sidedness" / "a standing exercise rather than an argument" double
+contrast was recast as an affirmative sentence. Three candidates were
+kept deliberately after review: the Nearby-terms "Ignatian rather
+than Buddhist" gloss (disambiguation is that section's job), the
+"abstentions rather than states of mind" factor distinction (the
+path's actual content), and the Pudgalavada "neither identical with
+the aggregates nor separate from them" (the doctrine itself).
+Checks: dossier_check exit 0 (42 card links, 18 headers, 26 carriers);
+voice audit 5 -> 3 candidates, all reviewed keeps. No external
+carriers opened in this pass; the changed sentences are paraphrase-level
+rewrites of claims verified in earlier rounds.
