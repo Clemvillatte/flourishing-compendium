@@ -10,7 +10,7 @@ A caution that belongs at the start. Nothing on this page is clinical advice. Wh
 
 The words around anxiety are used loosely, so I keep them apart unless a source joins them. What each source does say, in the sources' own words:
 
-Stress: Lazarus and Folkman define it as a relationship, not a feeling: "psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either.
+Stress: Lazarus and Folkman define it as a relationship, not a feeling: "psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and I do not say so either.
 
 Fear: Öhman and Mineka propose "an evolved module for fear elicitation and fear learning" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group.
 
@@ -120,7 +120,7 @@ The same abstract describes the other side: events in daily life that produce "a
 
 > "Together, these 3 studies suggest that stress mindset is a distinct and meaningful variable in determining the stress response." ([Crum, Salovey and Achor, Journal of Personality and Social Psychology 2013, abstract](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf))
 
-The first source is about the body over time, the second about belief at the moment of stress. Neither abstract says that believing stress is helpful makes chronic stress harmless, and this dossier does not claim it.
+The first source is about the body over time, the second about belief at the moment of stress. Neither abstract says that believing stress is helpful makes chronic stress harmless, and I do not claim it.
 
 ### Is worry preparation or avoidance?
 

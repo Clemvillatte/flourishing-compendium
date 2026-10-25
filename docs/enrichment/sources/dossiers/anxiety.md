@@ -155,3 +155,21 @@ Checker exit 0 (89 card links resolve, 22 headers, 14 external carriers);
 density check 0 dense; 42 paragraphs, 1.4 card links per paragraph.
 Commits: d67b699c2 (pass 1), af97504df (pass 2), ec40326b (pass 3),
 5fde848d (pass 4), 24aaf974 (pass 5), 3788d400 (pass 6).
+
+Humanizer pass (2026-10-25, worker-pplx-dos8-1025m): two edits,
+reader-level repair of page/dossier-as-agent self-description. (1)
+Stress bullet: "The sources opened for this page do not say that
+stress is a form of anxiety, and this page does not say so either"
+became "...and I do not say so either" (advisor-ruled first-person
+recast; the sources-opened scope statement kept). (2) Stress-mindset
+paragraph: "and this dossier does not claim it" became "and I do not
+claim it". The clinical-advice caution in the opening ("Nothing on
+this page is clinical advice") was kept — a functional reader-facing
+caution, not structure commentary. No claims, quotes or citations
+changed.
+
+Checks: dossier_check exit 0 (89 card links, 22 headers);
+dossier_density 0 dense; dossier_quote_verify 14 checked, 0 not
+found. Anxiety is published; the site data does not change until a
+supervisor rebuild, so this is flagged: re-splice anxiety when
+convenient.
