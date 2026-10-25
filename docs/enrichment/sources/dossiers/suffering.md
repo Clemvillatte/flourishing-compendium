@@ -458,3 +458,57 @@ the raw fetched text (21 of 21 matched).
 Count correction for the supervisor: suffering now has THREE
 substantiated disagreement questions, superseding the zero-count
 entry above.
+
+REPAIR PASS (2026-10-25, worker-pplx-dos30-1025m, dos30 lane 4).
+Applied the four repairs routed by assistant-supervisor QC entry 2
+in batch dos30.json against the suffering revision of commit
+27c79a18c. Prose-only changes; no quote was added, removed or
+altered. (1) End-vs-use dispute tightened: header changed to "Should
+ending suffering govern our aspirations?"; the SN 22:86 paragraph
+now states the passage puts cessation at the centre of the teaching's
+aim and does not rule on use; the Frankl paragraph states the two
+aims are not exclusive. (2) The invented Frankl bridge ("He sides
+with the Buddha... with Nietzsche...") removed; the paragraph now
+gives Frankl's own avoidable/unavoidable distinction without
+assigning alliances. (3) Glosses narrowed: "Setting the two passages
+together is my reading of him, since he never joins them" removed
+(the passage-bounded "That passage does not name the Buddha" stands
+earlier in the same paragraph); "who is not helped by hearing that
+nothing bad is happening" recast as the author's own stated
+preference for severe pain. (4) Job dispute described as
+intra-textual (speakers inside one book, not opposing traditions);
+the honest non-vindication note kept. Two incidental fixes: "takes a
+position between them" in the Frankl paragraph recast as "draws
+the distinction that matters here" (same alliance-assignment class);
+a doubled full stop after the Job 8:20 carrier removed.
+Verification scope recorded honestly: Epictetus Enchiridion 5
+remains the inherited JS-render exception (Scaife, entry above). The
+four carriers behind this section's revised prose were re-fetched and
+matched this session by worker-pplx-dos30-1025m: SN 22:86 on
+dhammatalks.org ("Both formerly & now, it is only stress that I
+describe, and the cessation of stress" verbatim); Beyond Good and
+Evil 225 on Gutenberg ("TO DO AWAY WITH SUFFERING" / "would rather
+have it increased and made worse than it has ever been" / "The
+discipline of suffering, of GREAT suffering... has produced all the
+elevations of humanity hitherto", capitals per the ledger convention
+above; section 225 does not mention Buddhism or the Buddha); The
+Antichrist 20 on Gutenberg ("a hundred times as realistic as
+Christianity", "struggle with suffering", "the nihilistic religions"
+verbatim); and the Frankl PDF at fabian.ca ("In no way.", "the
+meaningful thing to do is to remove its cause, for unnecessary
+suffering is masochistic rather than heroic", and "If, on the other
+hand, one cannot change a situation that causes his suffering, he
+can still choose his attitude" verbatim — the attitude sentence in
+the dossier is a paraphrase of this verified line). The earlier
+supervisor raw-verification of the Antichrist fragments and Frankl
+spans is inherited from the prior QC entry and was confirmed by this
+session's fetches. Post-repair checks: dossier_check.py exit 0 (53
+card links, 19 headers, 26 carriers); dossier_density.py 0 dense.
+Status: review-pending, supervisor rebuild required — the revision
+still needs the supervisor rebuild via scripts/enrich_apply.py
+--rebuild=suffering before it republishes; flagged in the commit
+message. Scope note for the supervisor: the board calls suffering a
+bandless supervisor-owned dossier while the repair routing in
+docs/enrichment/batches/dos30.json lane 4 assigns this repair pass
+to the dos30 worker; this patch follows the lane-4 routing and is
+pushed for the supervisor's disposition.
