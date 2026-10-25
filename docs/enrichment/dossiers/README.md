@@ -17,8 +17,21 @@ opened for it.
 LATEST CLARIFICATION: this applies to every sentence in ALL DOSSIERS,
 including GF. It is not a request to patch only examples the owner reports.
 The owner rejected the inherited GF opening and "halfway courageous".
-The old opening protection is superseded. GF remains UNAPPROVED as an
-exemplar. A source-supported claim still fails if its prose is glib,
+OWNER VALIDATION, 2026-10-25: the owner has VALIDATED the Genuine
+Flourishing dossier as the exemplar and model for every dossier. The
+"UNAPPROVED" wording elsewhere in the repo is superseded. The owner's
+instructions of 2026-10-25: (1) ALL dossiers are fully rewritten in the GF
+model: an interwoven thread that unravels one question into the next,
+respects pace and cognitive load, and bridges seamlessly for flow. The map
+format ("The map: the entries on X", line-per-entry glosses) is retired
+and must not be used for new or reworked dossiers. (2) Drafts written in
+the map format are NOT published until rewritten. (3) Every dossier carries
+a "Where the traditions genuinely disagree" section (the Eightfold factors
+and affect themes included); add only disagreements the sources support.
+(4) The owner's art collection (`#ART.zip`) is available and art for the
+planned set is already assigned in site/assets/dossier-art. See
+DOSSIER-MODEL.md for the working spec derived from the GF exemplar. A
+source-supported claim still fails if its prose is glib,
 opaque, formulaic, or substitutes a clever contrast for an explanation.
 Read and revise the complete argument, then obtain owner validation.
 Remove underlining throughout dossier views, while retaining working links.

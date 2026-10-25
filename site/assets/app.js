@@ -12469,6 +12469,26 @@ window.fcDossiersData = {
       "id": "procrastination",
       "title": "Procrastination",
       "group": "challenges"
+    },
+    {
+      "id": "suffering",
+      "title": "Suffering",
+      "group": "challenges"
+    },
+    {
+      "id": "acceptance",
+      "title": "Acceptance",
+      "group": "challenges"
+    },
+    {
+      "id": "freedom",
+      "title": "Freedom",
+      "group": "minds-life"
+    },
+    {
+      "id": "impermanence",
+      "title": "Impermanence",
+      "group": "challenges"
     }
   ]
 };

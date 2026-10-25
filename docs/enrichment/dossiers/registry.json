@@ -341,7 +341,8 @@
     "discernment",
     "perspective"
    ],
-   "question_draft": "What does the path mean by seeing things as they are, and what does that seeing do to a life?"
+   "question_draft": "What does the path mean by seeing things as they are, and what does that seeing do to a life?",
+   "art": "right-view.jpg"
   },
   {
    "id": "right-intention",
@@ -355,7 +356,8 @@
     "aspiration",
     "renunciation"
    ],
-   "question_draft": "What is worth resolving on, and what does a resolved life look like?"
+   "question_draft": "What is worth resolving on, and what does a resolved life look like?",
+   "art": "right-intention.jpg"
   },
   {
    "id": "right-speech",
@@ -368,7 +370,8 @@
     "right communication",
     "speech ethics"
    ],
-   "question_draft": "What makes speech right, and when is silence the better part of it?"
+   "question_draft": "What makes speech right, and when is silence the better part of it?",
+   "art": "right-speech.jpg"
   },
   {
    "id": "right-action",
@@ -381,7 +384,8 @@
     "non-harm",
     "ethical action"
    ],
-   "question_draft": "What restraints on the body make a life livable with itself?"
+   "question_draft": "What restraints on the body make a life livable with itself?",
+   "art": "right-action.jpg"
   },
   {
    "id": "right-livelihood",
@@ -394,7 +398,8 @@
     "vocation",
     "earning"
    ],
-   "question_draft": "Can a living be made without harm, and what does work do to the person who does it?"
+   "question_draft": "Can a living be made without harm, and what does work do to the person who does it?",
+   "art": "right-livelihood.jpg"
   },
   {
    "id": "right-effort",
@@ -407,7 +412,8 @@
     "persistence",
     "energy"
    ],
-   "question_draft": "Where should effort go, and how much is the right amount?"
+   "question_draft": "Where should effort go, and how much is the right amount?",
+   "art": "right-effort.jpg"
   },
   {
    "id": "right-mindfulness",
@@ -420,7 +426,8 @@
     "mindful awareness",
     "present-moment attention"
    ],
-   "question_draft": "What is being established when mindfulness is established, and what does it clear away?"
+   "question_draft": "What is being established when mindfulness is established, and what does it clear away?",
+   "art": "right-mindfulness.jpg"
   },
   {
    "id": "right-concentration",
@@ -433,7 +440,8 @@
     "absorption",
     "collectedness"
    ],
-   "question_draft": "What is collectedness, and how is it tuned rather than forced?"
+   "question_draft": "What is collectedness, and how is it tuned rather than forced?",
+   "art": "right-concentration.jpg"
   },
   {
    "id": "gratitude",
@@ -446,7 +454,8 @@
     "appreciation",
     "indebtedness"
    ],
-   "question_draft": "What is gratitude actually about, and why does it resist being a self-help technique?"
+   "question_draft": "What is gratitude actually about, and why does it resist being a self-help technique?",
+   "art": "gratitude.jpg"
   },
   {
    "id": "fear",
@@ -460,7 +469,8 @@
     "panic",
     "courage"
    ],
-   "question_draft": "What is fear protecting, and how much of it belongs to the person rather than the threat?"
+   "question_draft": "What is fear protecting, and how much of it belongs to the person rather than the threat?",
+   "art": "fear.jpg"
   },
   {
    "id": "sadness-and-grief",
@@ -474,7 +484,8 @@
     "sorrow",
     "bereavement"
    ],
-   "question_draft": "What is grief for, and how does a person mourn without being consumed?"
+   "question_draft": "What is grief for, and how does a person mourn without being consumed?",
+   "art": "sadness-and-grief.jpg"
   },
   {
    "id": "shame-and-guilt",
@@ -488,7 +499,8 @@
     "humiliation",
     "self-consciousness"
    ],
-   "question_draft": "Which of the two moral emotions repairs a life, and which corrodes it?"
+   "question_draft": "Which of the two moral emotions repairs a life, and which corrodes it?",
+   "art": "shame-and-guilt.jpg"
   },
   {
    "id": "frustration",
@@ -501,7 +513,8 @@
     "annoyance",
     "anger"
    ],
-   "question_draft": "What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?"
+   "question_draft": "What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?",
+   "art": "frustration.jpg"
   },
   {
    "id": "creation",
@@ -544,6 +557,67 @@
     "temporal discounting"
    ],
    "question_draft": "Why does a person who knows better still postpone, and what actually closes the gap between intending and doing?"
+  },
+  {
+   "id": "suffering",
+   "title": "Suffering",
+   "group": "challenges",
+   "status": "planned",
+   "art": "suffering.jpg",
+   "scope": "Pain versus suffering, the second arrow, and what suffering asks of the person carrying it. Boundaries: Acceptance (the stance), Impermanence (why things pass), Anxiety/Sadness (specific states).",
+   "nearby_terms": [
+    "pain",
+    "dukkha",
+    "distress",
+    "affliction"
+   ],
+   "question_draft": "What is the difference between pain and suffering, and what does suffering ask of the person carrying it?"
+  },
+  {
+   "id": "acceptance",
+   "title": "Acceptance",
+   "group": "challenges",
+   "status": "planned",
+   "art": "acceptance.jpg",
+   "scope": "Acceptance as a stance toward what is and cannot now be changed, across Stoic, Buddhist and ACT material. Boundary against Suffering (pain vs the second arrow) and Agency (what can be changed).",
+   "nearby_terms": [
+    "acceptance",
+    "allowing",
+    "non-resistance",
+    "equanimity"
+   ],
+   "question_draft": "What changes in a life when what cannot be changed stops being fought?"
+  },
+  {
+   "id": "freedom",
+   "title": "Freedom",
+   "group": "minds-life",
+   "status": "planned",
+   "art": "freedom.jpg",
+   "scope": "Freedom as inner and outer: choice, autonomy, liberation, constraint. Boundary against Agency (acting) and Decision-Making (choosing).",
+   "nearby_terms": [
+    "freedom",
+    "liberty",
+    "autonomy",
+    "liberation"
+   ],
+   "question_draft": "What is a person fleeing when she flees her own freedom, and what does she exercise when she takes it back?"
+  },
+  {
+   "id": "impermanence",
+   "title": "Impermanence",
+   "group": "challenges",
+   "status": "planned",
+   "art": "impermanence.jpg",
+   "scope": "Owner decision 2026-10-25: replaces a standalone Meaning & Mortality dossier. Impermanence and mortality (memento mori, death-awareness, ageing, loss of what we hold) as one theme. Meaning-making belongs to Life's Purpose; the fear of death to Fear; the uncertainty reading to Uncertainty. Source material: the written meaning-and-mortality draft (not registered).",
+   "nearby_terms": [
+    "impermanence",
+    "mortality",
+    "memento mori",
+    "anicca",
+    "transience"
+   ],
+   "question_draft": "What changes when we take seriously that everything we hold, ourselves included, passes?"
   }
  ],
  "backlog": [

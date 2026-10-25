@@ -36,8 +36,8 @@
   "attributed": "2026_NYR_24346_0130_000(kawase_hasui_soshu_maekawa_no_ame045801).jpg"
  },
  "the-self": {
-  "file": "#ART/Les Bijoux indiscrets - Rene\u2560\u00fc Magritte.jpeg",
-  "attributed": "Les Bijoux indiscrets - Rene\u2560\u00fc Magritte.jpeg (filename in owner collection)"
+  "file": "#ART/Les Bijoux indiscrets - Rene╠ü Magritte.jpeg",
+  "attributed": "Les Bijoux indiscrets - Rene╠ü Magritte.jpeg (filename in owner collection)"
  },
  "motivation": {
   "file": "#ART/2010_CKS_07857_0019_000(claude_monet_la_route_rouge_pres_de_menton081132).jpg",
@@ -72,7 +72,75 @@
   "attributed": "2020_NYR_19017_0117_000(katsushika_hokusai_kanagawa_oki_nami_ura031953).jpg"
  },
  "cognition": {
-  "file": "#ART/Portrait/Le Savoir - Rene\u2560\u00fc Magritte.jpeg",
+  "file": "#ART/Portrait/Le Savoir - Rene╠ü Magritte.jpeg",
   "attributed": "Le Savoir - Rene Magritte (filename in owner collection)"
+ },
+ "right-view": {
+  "file": "#ART/2021_PAR_21027_0074_000(victor_brauner_horizon_interieur063226).jpg",
+  "attributed": "2021_PAR_21027_0074_000(victor_brauner_horizon_interieur063226).jpg"
+ },
+ "right-intention": {
+  "file": "#ART/Portrait/2022_PAR_21549_0013_000(joan_miro_le_passage_de_loiseau-migrateur095109).jpg",
+  "attributed": "2022_PAR_21549_0013_000(joan_miro_le_passage_de_loiseau-migrateur095109).jpg"
+ },
+ "right-speech": {
+  "file": "#ART/2015_CKS_10864_0116_000(joan_miro_loiseau_au_plumage_deploye_vole_vers_larbre_argente070024).jpg 2015_CKS_10864_0116_000(joan_miro_loiseau_au_plumage_deploye_vole_vers_larbre_argente070024).jpg",
+  "attributed": "2015_CKS_10864_0116_000(joan_miro_loiseau_au_plumage_deploye_vole_vers_larbre_argente070024).jpg 2015_CKS_10864_0116_000(joan_miro_loiseau_au_plumage_deploye_vole_vers_larbre_argente070024).jpg"
+ },
+ "right-action": {
+  "file": "#ART/2017_NYR_15004_0028A_000(vincent_van_gogh_laboureur_dans_un_champ010213).jpg",
+  "attributed": "2017_NYR_15004_0028A_000(vincent_van_gogh_laboureur_dans_un_champ010213).jpg"
+ },
+ "right-livelihood": {
+  "file": "#ART/2024_NYR_23143_0216_000(fernand_leger_lusine050659).jpg",
+  "attributed": "2024_NYR_23143_0216_000(fernand_leger_lusine050659).jpg"
+ },
+ "right-effort": {
+  "file": "#ART/2016_NYR_12165_0006_000(rockwell_kent_iceberg_sledge_dogs_greenland105930).jpg",
+  "attributed": "2016_NYR_12165_0006_000(rockwell_kent_iceberg_sledge_dogs_greenland105930).jpg"
+ },
+ "right-mindfulness": {
+  "file": "#ART/2019_NYR_17148_0224_000(utagawa_hiroshige_fan_print_of_full_moon_morning_glories_and_autumn_fl044648).jpg",
+  "attributed": "2019_NYR_17148_0224_000(utagawa_hiroshige_fan_print_of_full_moon_morning_glories_and_autumn_fl044648).jpg"
+ },
+ "right-concentration": {
+  "file": "#ART/Portrait/lui-shou-kwan-zen-painting.jpg",
+  "attributed": "lui-shou-kwan-zen-painting.jpg"
+ },
+ "gratitude": {
+  "file": "#ART/2022_NYR_20988_0008_000(claude_monet_le_panier_de_pommes114914).jpg",
+  "attributed": "2022_NYR_20988_0008_000(claude_monet_le_panier_de_pommes114914).jpg"
+ },
+ "fear": {
+  "file": "#ART/2018_HGK_13279_0512_000(utagawa_hiroshige_taira_no_kiyomori_haunted_by_strange_sights114735).jpg",
+  "attributed": "2018_HGK_13279_0512_000(utagawa_hiroshige_taira_no_kiyomori_haunted_by_strange_sights114735).jpg"
+ },
+ "sadness-and-grief": {
+  "file": "#ART/La Barque Aux Ames Inanime╠ües - Odilon Redon.jpg",
+  "attributed": "La Barque Aux Ames Inanime╠ües - Odilon Redon.jpg"
+ },
+ "shame-and-guilt": {
+  "file": "#ART/Portrait/2024_PAR_23410_0551_000(odilon_redon_hantise015102).jpg",
+  "attributed": "2024_PAR_23410_0551_000(odilon_redon_hantise015102).jpg"
+ },
+ "frustration": {
+  "file": "#ART/Portrait/2024_NYR_23121_0189_000(jean_dubuffet_samedi_tantot105231).jpg",
+  "attributed": "2024_NYR_23121_0189_000(jean_dubuffet_samedi_tantot105231).jpg"
+ },
+ "suffering": {
+  "file": "#ART/Portrait/2022_PAR_20900_0114_000(odilon_redon_la_souffrance_d6363666072241).jpg",
+  "attributed": "2022_PAR_20900_0114_000(odilon_redon_la_souffrance_d6363666072241).jpg"
+ },
+ "acceptance": {
+  "file": "#ART/Portrait/2026_NYR_24058_0195_000(ohara_koson_egrets_in_snow115405).jpg",
+  "attributed": "2026_NYR_24058_0195_000(ohara_koson_egrets_in_snow115405).jpg"
+ },
+ "freedom": {
+  "file": "#ART/Portrait/2020_CKS_18945_0030_001(utagawa_hiroshige_cranes_flying_over_waves_before_the_setting_sun_d6263089020955).jpg",
+  "attributed": "2020_CKS_18945_0030_001(utagawa_hiroshige_cranes_flying_over_waves_before_the_setting_sun_d6263089020955).jpg"
+ },
+ "impermanence": {
+  "file": "#ART/Portrait/2022_NYR_20989_0638_000(odilon_redon_la_mort_de_bouddha112254).jpg",
+  "attributed": "2022_NYR_20989_0638_000(odilon_redon_la_mort_de_bouddha112254).jpg"
  }
 }
