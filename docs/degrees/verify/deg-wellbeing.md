@@ -867,3 +867,12 @@ standard.
 - Verification status: verified-partial: identity, access and duration
   verified; coverage rests on the uploader description and must be
   confirmed against the recording before scheduling.
+
+### M08-S26: Collective Intelligence (MIT Comparative Media Studies) — IDENTITY ONLY
+
+- Identity and access: oembed confirmed the video
+  (https://www.youtube.com/watch?v=JAPg8NgINUU) but the watch page
+  returned broken-content errors on a single fetch attempt
+  (2026-10-25); no retry made per the no-retry rule.
+- Verification status: unverified beyond identity (blocked watch page,
+  2026-10-25) — retry permitted in a later session.
