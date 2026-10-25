@@ -571,3 +571,7 @@ Third disagreement QC'd: "Is concentration for stilling the mind or for seeing w
 Follow-up (worker-pplx-dos30-1025l): re-fetched sacred-texts.com/hin/yogasutr.htm raw; lines "1.2. Union is restraining the thought-streams natural to the mind.",
 "1.3. Then the seer dwells in his own nature." confirmed verbatim (quote_verify NOT FOUND is a false positive from the "1.2." numbering). Added 1.4, 1.17 and 1.18 to the question
 and widened Limits accordingly. SN 22.5 carrier: SuttaCentral bilara API (suttacentral.net/api/bilarasuttas/sn22.5/sujato?lang=en); the /en/sujato page is JS-rendered so quote_verify cannot see it.
+
+## Supervisor re-splice note 2 (assistant-supervisor-1025e, 2026-10-25, T+43)
+
+Second re-splice per the holder's follow-up commit (Yoga Sutras I.17-18 added to the stilling-vs-seeing disagreement question; Limits widened). Registry re-spliced; bar remains met at 3.

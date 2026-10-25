@@ -750,3 +750,7 @@ Flags: Kabat-Zinn quoted via Wikipedia, not his own paper; neither Pali scholar 
 overlap with the earlier "How do these definitions differ?" comparison is deliberate (that section stays under Related questions, unchanged).
 Advisor test: (a) is a definitional contrast with a bridging third voice; (b) has an explicit textual denial (Bodhi, "makes problematic").
 SUPERVISOR: re-splice right-mindfulness.
+
+## Supervisor QC + re-splice (assistant-supervisor-1025e, 2026-10-25, T+43)
+
+The live holder's two new disagreement questions QC'd and passed: "Is sati awareness of the present moment, or remembering?" (clinical present-moment definition vs Thanissaro's remembering, Bodhi mediating; honest boundary that the opposition is between definitions, not people in dialogue) and "Is mindfulness a nonjudgmental awareness?" (clinical 'nonjudgmentally' vs Bodhi's MN 117 argument that judging belongs inside mindfulness; honest setting-boundary). Both count as substantiated. dos24 now stands at THREE substantiated disputes (bare non-conceptual awareness; present-moment vs remembering; nonjudgmental awareness) — 3-5 bar met. Lane released by the holder; published (unchanged). Registry re-spliced.

@@ -14403,28 +14403,28 @@ window.fcDossiersData = {
           "x": "Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on the actual rather than the assumed. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one."
         },
         {
-          "t": "h",
+          "t": "h2",
           "x": "Nearby terms"
         },
         {
           "t": "p",
-          "x": "Mindfulness: the modern practice family, MBSR and its relatives; this page holds the path factor itself and its root text, and points to the family."
+          "x": "Mindfulness: the modern practice family, MBSR and its relatives, a clinical adaptation of a factor that began as [sati](card:Sati), remembering what the attention is for."
         },
         {
           "t": "p",
-          "x": "Attention: the general science of how experience is selected; this page holds the training of it toward clear seeing."
+          "x": "Attention: the general science of how experience is selected; the factor is one deliberate training of it, not the science's own account."
         },
         {
           "t": "p",
-          "x": "Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page."
+          "x": "Right concentration: the neighbouring factor that steadies the mind this one keeps honest."
         },
         {
           "t": "p",
-          "x": "Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the map below holds both."
+          "x": "Meta-awareness: knowing that one is aware; a capacity the factor trains, and one it does not own."
         },
         {
           "t": "h",
-          "x": "The map: the entries on right mindfulness"
+          "x": "The entries on right mindfulness"
         },
         {
           "t": "h2",
@@ -14432,31 +14432,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Right mindfulness](card:Right%20mindfulness): the seventh factor of the Eightfold Path; its root text, the Satipatthana Sutta, calls the four establishments the direct path."
+          "x": "[Right mindfulness](card:Right%20mindfulness) is the seventh factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training, and it sits inside [the three trainings](card:The%20three%20trainings) as their most compressed form: virtue, concentration and wisdom."
         },
         {
           "t": "p",
-          "x": "[Eightfold Path](card:Eightfold%20Path): the fourth Noble Truth, the Buddha's summary of the training; the factor's umbrella hub."
+          "x": "The Pali word behind the factor is sati, and its root is memory. [Sati](card:Sati) is the remembering of what the attention is for: keeping something in mind vividly, without commentary."
         },
         {
           "t": "p",
-          "x": "[The three trainings](card:The%20three%20trainings): the path in its most compressed form, virtue, concentration and wisdom; every practice placed under one of the three."
-        },
-        {
-          "t": "p",
-          "x": "[Sati](card:Sati): the Pali word for mindfulness, keeping something in mind vividly, without commentary."
-        },
-        {
-          "t": "p",
-          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): the flagship practice, mindfulness established on the breath."
-        },
-        {
-          "t": "p",
-          "x": "[The returning practice](card:The%20returning%20practice): my name for the central move of meditation, noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice."
-        },
-        {
-          "t": "p",
-          "x": "[Vipassana (insight)](card:Vipassana%20%28insight%29): clear-seeing, treated by Thanissaro as a quality of mind rather than a technique, the ability to see events clearly."
+          "x": "The practice the factor trains has one flagship form, [anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29), mindfulness established on the breath. The central move is what I call [the returning practice](card:The%20returning%20practice): noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice. What the returning builds toward is [vipassana (insight)](card:Vipassana%20%28insight%29), clear-seeing, which Thanissaro treats as a quality of mind rather than a technique, the ability to see events clearly."
         },
         {
           "t": "p",
@@ -14473,7 +14457,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What makes the practice right is less the objects than the posture toward them; for each of the four frames the instruction returns to the same refrain:"
+          "x": "For each of the four frames the instruction returns to the same sentence:"
         },
         {
           "t": "q",
@@ -14482,59 +14466,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The observation is effortful and free of grasping. The map holds the capacities the refrain trains:"
+          "x": "The refrain names three qualities at work together. \"Ardent\" brings the effort; \"alert\" is sampajañño, clear comprehension of what the mind is doing as it does it; \"mindful\" is sati itself, the remembering that holds the observation in place. The sutta runs sati \"to the extent of knowledge & remembrance\", which is why the tradition glosses it as memory rather than as a blank noticing. [Bare attention in mindfulness practice](card:Bare%20attention%20in%20mindfulness%20practice) carries the first half of that work: attending to what arises before commentary begins."
         },
         {
           "t": "p",
-          "x": "[Bare attention in mindfulness practice](card:Bare%20attention%20in%20mindfulness%20practice): the attending to what arises before commentary begins."
+          "x": "The fourth phrase, \"putting aside greed & distress with reference to the world\", is the removal half of the training. The practitioner is not merely observing; the observing itself releases what would pull it into wanting or into hurt. [Meta-awareness](card:Meta-awareness) names the wider capacity the refrain trains, knowing that one is aware, and [metacognitive awareness](card:Metacognitive%20awareness) is the reportable part of the same skill."
         },
         {
           "t": "p",
-          "x": "[Meta-awareness](card:Meta-awareness): knowing that one is aware, the capacity I pair with sati."
+          "x": "The clinical family gives the same posture other names. [Mindful attention](card:Mindful%20attention), Kabat-Zinn's operational definition, is attention deliberately trained on present experience; [mindful presence](card:Mindful%20presence) is the attended presence itself. [Present-moment awareness theory](card:Present-moment%20awareness%20theory) holds that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing."
         },
         {
           "t": "p",
-          "x": "[Metacognitive awareness](card:Metacognitive%20awareness): the part of metacognition that can be reported and measured, what a person knows about their own thinking and how they manage it."
+          "x": "[Decentering](card:Decentering) and [cognitive defusion](card:Cognitive%20defusion) describe the capacity to see thoughts as mental events rather than as the world or the self, and [acceptance](card:Acceptance) adds the willingness to let unwanted experience stay as it is."
         },
         {
           "t": "p",
-          "x": "[Mindful attention](card:Mindful%20attention): attention deliberately trained on present experience, Kabat-Zinn's operational definition."
-        },
-        {
-          "t": "p",
-          "x": "[Mindful presence](card:Mindful%20presence): the label I use for the attended presence itself; Kabat-Zinn, 1990."
-        },
-        {
-          "t": "p",
-          "x": "[Present-moment awareness theory](card:Present-moment%20awareness%20theory): the claim that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing."
-        },
-        {
-          "t": "p",
-          "x": "[Detached mindfulness theory Wells](card:Detached%20mindfulness%20theory%20Wells): the clinical cousin, watching thoughts without engaging them."
-        },
-        {
-          "t": "p",
-          "x": "[Decentering](card:Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world or the self."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive defusion](card:Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, constructions passing through awareness, rather than as commands or facts."
-        },
-        {
-          "t": "p",
-          "x": "[Acceptance](card:Acceptance): the willing embrace of unwanted inner experience, without trying to change its frequency or form."
-        },
-        {
-          "t": "p",
-          "x": "[Beginner's mind](card:Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time, many possibilities where the expert's mind holds few."
-        },
-        {
-          "t": "p",
-          "x": "[Clarity of mind](card:Clarity%20of%20mind): the label I use for the unclouded mental state the contemplative traditions describe, Stoic assent, Daoist purity-and-stillness, Buddhist clear seeing."
-        },
-        {
-          "t": "p",
-          "x": "[The lived body](card:The%20lived%20body): the body as experienced from within, the body one is rather than only the body one has; the first frame's home."
+          "x": "Two further qualities sit beside the refrain without being named in it. [Beginner's mind](card:Beginner%27s%20mind), the Zen practice of meeting experience as if for the first time, describes the freshness the training preserves; [clarity of mind](card:Clarity%20of%20mind) is the unclouded state the contemplative traditions converge on. [The lived body](card:The%20lived%20body) is the first frame's home, the body as experienced from within rather than only the body one has."
         },
         {
           "t": "h2",
@@ -14542,39 +14490,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Mindfulness](card:Mindfulness): my entry for the modern practice family."
+          "x": "The clinical adaptations carried the path factor into the laboratory, and that is where the family grew. [Mindfulness](card:Mindfulness) is my entry for the modern practice family, and [mindfulness-based stress reduction](card:Mindfulness-based%20stress%20reduction) is Kabat-Zinn's clinical programme, its first formal practice the [body scan](card:Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29), attention moved systematically through the body."
         },
         {
           "t": "p",
-          "x": "[Mindfulness-based stress reduction](card:Mindfulness-based%20stress%20reduction): Kabat-Zinn's clinical programme."
+          "x": "[Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy) was developed for relapse prevention in depression, and [mindful self-compassion programme](card:Mindful%20self-compassion%20programme) is the family's kindness branch."
         },
         {
           "t": "p",
-          "x": "[Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy): the programme developed for relapse prevention in depression."
+          "x": "The family also carries the practice off the cushion. [Walking meditation](card:Walking%20meditation) is deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath. [Dispositional mindfulness](card:Dispositional%20mindfulness) is the trait version of the capacity, as it varies between people, and [mindfulness's clarity mechanism](card:Mindfulness%27s%20clarity%20mechanism), the Bishop et al. operational definition, is seeing mental events accurately rather than dimly."
         },
         {
           "t": "p",
-          "x": "[Dispositional mindfulness](card:Dispositional%20mindfulness): the trait version of the capacity, as it varies between people."
-        },
-        {
-          "t": "p",
-          "x": "[Mindfulness's clarity mechanism](card:Mindfulness%27s%20clarity%20mechanism): seeing mental events accurately rather than dimly, the Bishop et al. operational definition."
-        },
-        {
-          "t": "p",
-          "x": "[Mindful self-compassion programme](card:Mindful%20self-compassion%20programme): the practice family's kindness branch."
-        },
-        {
-          "t": "p",
-          "x": "[Body scan in MBSR (Kabat-Zinn)](card:Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in MBSR, attention moved systematically through the body."
-        },
-        {
-          "t": "p",
-          "x": "[Walking meditation](card:Walking%20meditation): deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath."
-        },
-        {
-          "t": "p",
-          "x": "A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:"
+          "x": "The evidence has its own shape, and it is smaller than the path factor's own claim. A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:"
         },
         {
           "t": "q",
@@ -14587,31 +14515,130 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The craft of attention](card:The%20craft%20of%20attention) and [The discipline of attention](card:The%20discipline%20of%20attention): Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear."
+          "x": "The factor has neighbours outside its own tradition, and the neighbours give the same skill other names. [The craft of attention](card:The%20craft%20of%20attention) and [the discipline of attention](card:The%20discipline%20of%20attention) hold Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear."
         },
         {
           "t": "p",
-          "x": "[The effort of attention](card:The%20effort%20of%20attention): James's phrase from the Principles of Psychology, attention doing the work where a thought prevails with effort."
+          "x": "[The effort of attention](card:The%20effort%20of%20attention) is James's phrase from the Principles of Psychology, attention doing the work where a thought prevails with effort, and [effortless attention](card:Effortless%20attention), in Bruya's working definition, is attention or action experienced as effortless."
         },
         {
           "t": "p",
-          "x": "[Effortless attention](card:Effortless%20attention): attention or action experienced as effortless, in Bruya's working definition."
+          "x": "[Focused-attention meditation](card:Focused-attention%20meditation), in Lutz et al.'s account, is the closest parallel to the factor's own practice: directing and sustaining attention on a chosen object, noticing when it wanders, returning it. [Attention management](card:Attention%20management) is the everyday version, the practice of governing where attention goes, choosing what receives it and protecting it from capture."
         },
         {
           "t": "p",
-          "x": "[Focused-attention meditation](card:Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing when it wanders, returning it; Lutz et al.'s account."
+          "x": "[Epoché](card:Epoch%C3%A9), suspension, is Husserl's trained posture of attention, the deliberate withholding of an automatic mental act. [Delight in the ordinary](card:Delight%20in%20the%20ordinary) carries the freshness the training preserves: the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is mindfulness bare, non-conceptual awareness?"
         },
         {
           "t": "p",
-          "x": "[Attention management](card:Attention%20management): the practice of governing where attention goes, choosing what receives it and protecting it from capture."
+          "x": "The shared question: is sati essentially nonconceptual awareness, or can its practice deliberately involve concepts? Gunaratana affirms the first:"
+        },
+        {
+          "t": "q",
+          "x": "\"Mindfulness is nonconceptual awareness. Another English term for sati is ‘bare attention.’ It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process.\" ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, \"What Does Mindfulness Really Mean?\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Epoché](card:Epoch%C3%A9): suspension, the deliberate withholding of an automatic mental act, in Husserl's tradition the trained posture of attention."
+          "x": "Bodhi, reading the canon and its commentaries against that claim, denies it:"
+        },
+        {
+          "t": "q",
+          "x": "\"In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization.\" ([Bhikkhu Bodhi, \"What Does Mindfulness Really Mean? A Canonical Perspective\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Delight in the ordinary](card:Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand."
+          "x": "Bodhi allows nonconceptual observation as a practice. His objection is to making it sati's nature: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. What remains unresolved is where sati's home is: the preconceptual moment of awareness, or the wider field of trained attention, evaluation and recollection the canon gives it."
+        },
+        {
+          "t": "h2",
+          "x": "Is sati awareness of the present moment, or remembering?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: whether the core of sati is attending to what is happening now. The clinical definition says yes:"
+        },
+        {
+          "t": "q",
+          "x": "\"the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment.\" ([Jon Kabat-Zinn, quoted in Wikipedia, \"Mindfulness\"](https://en.wikipedia.org/wiki/Mindfulness))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Thanissaro answers from the canon that the Buddha defined it differently:"
+        },
+        {
+          "t": "q",
+          "x": "\"the Buddha himself defined sati as the ability to remember, illustrating its function in meditation practice with the four satipatthanas, or establishings of mindfulness.\" ([Thanissaro Bhikkhu, \"Mindfulness Defined\"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He quotes SN 48.10, which describes the faculty of sati as \"remembering & able to call to mind even things that were done & said long ago\", and he glosses being mindful of the breath as keeping the breath in mind (same essay). Bodhi starts from the same fact and refuses to leave it there:"
+        },
+        {
+          "t": "q",
+          "x": "\"The word sati originally meant 'memory,' but the Buddha ascribed to this old term a new meaning determined by the aims of his teaching.\" ([Bhikkhu Bodhi, \"What Does Mindfulness Really Mean?\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He holds that sati makes the object \"stand forth vividly and distinctly before the mind\", which takes the form of memory when the object is past and of lucid awareness when it is present (same paper)."
+        },
+        {
+          "t": "p",
+          "x": "The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the opposition is between the two definitions and not between two people in dialogue."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine: Bodhi's reading fits what I opened best, since SN 48.10 itself sets the memory definition beside the satipatthana formula. For essays on wisdom development, I would write \"keeping the aim in mind while attending to what is present\" and avoid making either half the whole."
+        },
+        {
+          "t": "p",
+          "x": "Limits: I read one essay by each Pali scholar and the clinical definition through a secondary encyclopedia page. I have not opened Kabat-Zinn's own text or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have."
+        },
+        {
+          "t": "h2",
+          "x": "Is mindfulness a nonjudgmental awareness?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: whether judging and evaluating belong inside mindfulness or sit outside it. The clinical definition above includes the word nonjudgmentally. Bodhi argues against that reading of sati by pointing to the way the path is built. In MN 117 right view, right effort and right mindfulness accompany each of the other path factors, and the sutta says \"Mindfully one abandons wrong intention and mindfully one acquires and dwells in right intention\" (as Bodhi quotes it). From this he concludes:"
+        },
+        {
+          "t": "q",
+          "x": "\"This explanation makes problematic the common interpretation of mindfulness as a type of awareness intrinsically devoid of discrimination, evaluation, and judgment.\" ([Bhikkhu Bodhi, \"What Does Mindfulness Really Mean?\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He concedes that \"there are certainly occasions when the cultivation of mindfulness requires the practitioner to suspend discrimination, evaluation, and judgment\" (same paper). Thanissaro goes further in practical terms:"
+        },
+        {
+          "t": "q",
+          "x": "\"In other words, you don't abandon your powers of judgment as you develop mindfulness. You simply train them to be less judgmental and more judicious, so that they yield tangible results.\" ([Thanissaro Bhikkhu, \"Mindfulness Defined\"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Both scholars object to treating judgment as foreign to mindfulness. The disagreement with the clinical wording is about whether that attitude is the essence of mindfulness or one stance within a larger path that includes evaluation. A clinician can reply that nonjudgmental attitude is an instruction for how to relate to experience during practice, and Bodhi himself grants that suspending judgment is sometimes right."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine: both sides are right about their own settings. A person calming a spiral of self-criticism benefits from the clinical stance, and a person deciding what to do about a harmful habit needs the evaluating function Bodhi describes. The dossier's essays should say which setting they mean."
+        },
+        {
+          "t": "p",
+          "x": "Limits: Bodhi's MN 117 argument is read in his paper's wording, and I have not opened MN 117 itself. Neither Pali scholar addresses Kabat-Zinn by name in the passages I opened, and the clinical definition is again read secondhand."
         },
         {
           "t": "h",
@@ -14654,46 +14681,45 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "How does bare attention support practice?"
+          "x": "Has the research earned the claims made for mindfulness?"
         },
         {
           "t": "p",
-          "x": "Nyanaponika Thera makes bare attention the core of the practice:"
-        },
-        {
-          "t": "q",
-          "x": "\"Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation.\" ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).",
-          "s": null
+          "x": "The 2014 review of meditation programs is cautious in its own words: mindfulness meditation programs \"had moderate evidence of improved anxiety... depression... and pain... and low evidence of improved stress/distress and mental health-related quality of life\", and the reviewers \"found no evidence that meditation programs were better than any active treatment\" ([Goyal et al. 2014, JAMA Internal Medicine, abstract](https://pubmed.ncbi.nlm.nih.gov/24395196/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24395196&rettype=abstract&retmode=text))."
         },
         {
           "t": "p",
-          "x": "Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath \"are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate.\" Nyanaponika makes bare attention central to satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. The two readings hold together; neither excludes the other."
+          "x": "Fifteen mindfulness researchers wrote a longer warning a few years later. Their abstract warns of \"Misinformation and poor methodology associated with past studies of mindfulness\" that \"may lead public consumers to be harmed, misled, and disappointed\", and the paper takes up the difficulty of defining the word first. They urge scientists, practitioners and the news media \"to move away from relying on the broad, umbrella rubric of 'mindfulness'\" and toward naming the specific mental states and processes taught and studied ([Van Dam et al. 2018, Perspectives on Psychological Science, abstract and full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC5758421/))."
+        },
+        {
+          "t": "p",
+          "x": "The two papers are not enemies, and both are from inside the field. They differ on how much trust the evidence base can bear: the first counts effects and grades the evidence, and the second asks what each study meant by the word before results are compared. I take the definitional dispute above as part of the same problem, since a trial of a purposeful, nonjudgmental awareness and a trial of Nyanaponika's bare attention are not obviously the same trial. My lean is to treat the measured result as the claim this dossier can carry, and to say so when the essays lean on mindfulness."
         },
         {
           "t": "h2",
-          "x": "Is mindfulness bare, non-conceptual awareness?"
+          "x": "Is bare attention the core of the practice?"
         },
         {
           "t": "p",
-          "x": "The question, stated precisely: is sati essentially nonconceptual awareness, or can its practice deliberately involve concepts? Gunaratana, in Mindfulness in Plain English, identifies sati with the fleeting moment of awareness before thought arrives:"
+          "x": "The shared question: what does the work in satipatthana? Nyanaponika Thera makes bare attention the key to it:"
         },
         {
           "t": "q",
-          "x": "\"Mindfulness is nonconceptual awareness. Another English term for sati is ‘bare attention.’ It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process.\" ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, \"What Does Mindfulness Really Mean?\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).",
+          "x": "\"Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation.\" ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Bodhi, reading the canon and its commentaries against that claim, denies it:"
+          "x": "Thanissaro distinguishes sati from the other mental functions involved in these instructions. The functions the modern instructions name are not automatically a part of sati, he holds, but qualities sati can bring along where appropriate:"
         },
         {
           "t": "q",
-          "x": "\"In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization.\" ([Bhikkhu Bodhi, \"What Does Mindfulness Really Mean? A Canonical Perspective\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).",
+          "x": "\"Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate.\" ([Thanissaro Bhikkhu, \"Mindfulness Defined\"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Bodhi allows nonconceptual observation as a practice. His objection is to making it sati's nature: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. What remains unresolved is where sati's home is: the preconceptual moment of awareness, or the wider field of trained attention, evaluation and recollection the canon gives it."
+          "x": "The two positions answer the same question and part on what sati itself contributes: for Nyanaponika the bare noticing is the engine of the practice, for Thanissaro it is a function sati can borrow from other qualities and bring along where appropriate. What remains unresolved is whether the borrowing changes the practice enough to count as a different technique, or whether the two accounts describe one discipline with its emphasis placed differently."
         },
         {
           "t": "h",
@@ -16093,6 +16119,48 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "Langner and Eickhoff propose a synthesis: maintaining attention on an unrewarding task requires continuing self-regulation, whose decline could contribute both to reduced attention and to mind-wandering. They treat sustained attentional demand as necessary but insufficient for the typical decrement. In 2013, they described direct evidence for this proposal as sparse. I find the synthesis worth considering, while keeping that evidential limit in view."
+        },
+        {
+          "t": "h2",
+          "x": "Is concentration for stilling the mind or for seeing what it does?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: what the gathered mind is for once it is gathered. Patanjali's opening definition, as rendered on the Sacred Texts transcription of the Yoga Sutras, puts the weight on restraint:"
+        },
+        {
+          "t": "q",
+          "x": "\"Union is restraining the thought-streams natural to the mind.\" (Yoga Sutras I.2) \"Then the seer dwells in his own nature.\" (I.3) ([Yoga Sutras of Patanjali, Sacred Texts](https://www.sacred-texts.com/hin/yogasutr.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same page gives I.4 as \"Otherwise he is of the same form as the thought-streams.\" On this reading the mind's activity is the obstacle and its quieting is the result. The text also allows a stage with content: \"Cognitive meditation is accompanied by reasoning, discrimination, bliss and the sense of 'I am.'\" (I.17), followed by \"another meditation which is attained by the practice of alert mental suspension until only subtle impressions remain\" (I.18)."
+        },
+        {
+          "t": "p",
+          "x": "A discourse in the Pali collection uses immersion for a different job:"
+        },
+        {
+          "t": "q",
+          "x": "\"Mendicants, develop immersion. A mendicant who has immersion truly understands. What do they truly understand? The origin and ending of form, feeling, perception, choices, and consciousness.\" ([SN 22.5, Sujato trans.](https://suttacentral.net/sn22.5/en/sujato))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Here the gathered mind is the condition for seeing how the five aggregates arise and cease. Sujato's note to the passage adds that mendicants are similarly enjoined to develop immersion to understand the six senses and the four noble truths (same page)."
+        },
+        {
+          "t": "p",
+          "x": "Both treat collectedness as trainable and as a means, so the two do not oppose each other on whether to practise it. They differ on where the practice ends. In the Yoga line, as I read these aphorisms, discriminating meditation is a stage and the endpoint is the seer abiding in its own nature once the thought-streams are restrained. In the Pali line the endpoint is knowledge of arising and ending, which requires that the mind stay active enough to observe. The dossier's earlier question about one-pointedness versus a wide field bears on this, since a wide field gives the observer more to watch."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine: for an essay on alleviating suffering, the Pali framing is the more usable, because it ties concentration to a change in how experience is understood. I hold the Yoga framing as the cleaner account of what deep stillness is like."
+        },
+        {
+          "t": "p",
+          "x": "Limits: I read Book I to aphorism 1.18 of the Yoga Sutras and one Pali discourse. The Yoga Sutras name further stages of absorption that I have not examined, and discernment appears in I.17 as a stage, so the contrast above may be sharper than the full text supports. The Sacred Texts page does not name its translator."
         },
         {
           "t": "h",
