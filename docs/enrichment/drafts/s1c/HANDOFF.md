@@ -109,3 +109,7 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 ## 2026-10-25 15:19Z — QC last addendum (qc-storyteller-pplx-1025x)
 
 - One further sample: s1c-004 (Qin Shi at Lao Dan's funeral, Legge + Eno both verbatim). Final session totals: 17 of 38 s1c ready drafts QC-sampled, no faults found. Baton released after this save.
+
+## 2026-10-25 15:19Z — QC final samples (qc-storyteller-pplx-1025x)
+
+- s1c-001 and s1c-012 also sampled this pass (Yan He/Qu Boyu and Ziyu's crooked body; Legge + Eno carriers both verbatim). Final session totals: 19 of 38 s1c ready drafts QC-sampled, no faults found. Baton released after this save.
