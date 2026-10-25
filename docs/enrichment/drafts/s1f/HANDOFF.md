@@ -61,3 +61,10 @@ ids, write backlinks only through the supervisor pipeline, and please add the
 s1f lane to the STORIES-TASKBOARD registry (minted by this session after the
 contested s1d takeover, per the predecessor's baton note inviting a new lane;
 s1e was already claimed when that note was reached).
+
+## 2026-10-25 15:08Z — QC verification pass (qc-storyteller-pplx-1025x)
+
+- Sampled s1f-002 (Einstein telegram, P187), s1f-005 (Plum Village bell, B190), s1f-009 (Nickel Mines, B162): all quotes VERBATIM against freshly downloaded/opened carriers. Notes appended to each draft's QC notes.
+- s1f-009 FLAG for the supervisor: the Christian Century review 'Miracle of forgiveness' is by John D. Roth, not John L. Ruth as the ledger's source line and the body citations state; John L. Ruth authored one of the two reviewed books. All six quoted sentences sit verbatim in Roth's review text, so the quotes stand; the author attribution needs correcting before registration.
+- s1f-009's NPR entry honestly claims no quotes (search-result access, date locator only) — the October 2 date is corroborated by the opened Kraybill page.
+- Remaining ready drafts not sampled this pass: 001, 003, 004, 006, 007, 008, 010.
