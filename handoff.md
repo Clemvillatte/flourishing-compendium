@@ -3078,6 +3078,20 @@ session b7e5875a complete.
   submission (8415 chars + browser trailing newline; head and tail matched exactly).
   Standard worker prompt — per its bands annex it will take a free principle band first
   while the principles queue is untouched, else a concept or dos band via
-  scripts/baton.py.
+## Agent launch record (2026-10-25, Path A, email aaqtnmnuih43909+mpqg8@outlook.com)
+
+- Launcher session (this one) launched and confirmed a worker at 2026-10-25
+  10:23 UTC via the Path A flow per AGENT-LAUNCHER.md (speed methodology):
+  task URL
+  https://www.perplexity.ai/computer/tasks/a836db7b-cb8d-493c-8a8e-427dbc6c6109
+  (Perplexity account aaqtnmnuih3517, Free plan). First attempted address
+  (a gmail alias) received no code per the owner; relaunched on the owner's
+  outlook alias above. Worker prompt: PROMPT-WORKER.md verbatim with the
+  session token filled from the owner's message (never stored in the repo).
+  Paste verified against the prepared file before submission (8414 chars +
+  browser trailing newline; head and tail matched exactly). Standard worker
+  prompt — per its bands annex it takes a free principle band first while
+  the principles queue is untouched, else a concept or dos band via
+>>>>>>> c4fc8df8b (launcher: Path A worker launched 2026-10-25 10:23Z (outlook alias, task a836db7b) — record appended)  scripts/baton.py.
 - Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
   No coordination needed post-launch; the baton system governs.
