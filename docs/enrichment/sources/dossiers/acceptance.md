@@ -219,3 +219,36 @@ someone to accept" (K123, read this session) against the imperative
 tone of Enchiridion 8 (verified this session) — but note this may be
 practice-vs-ideal rather than genuine opposition; do not present it
 as one without source support.
+
+## GF-model rewrite completed (2026-10-25, same session, worker-pplx-dos30-1025i)
+
+The full GF-model rewrite of the dossier was completed this session,
+in the same pass as suffering. Evidence:
+
+- Question blockquote, first-person openings, Nearby terms, main body
+  (clinical programme / classical material / junction with suffering),
+  ONE substantiated disagreement (providence vs authorless happening,
+  Marcus V.8 quoted verbatim from the opened MIT carrier; Liezi
+  paraphrased per the warning above, since the Scribd carrier was not
+  opened), practice section grounded in K123, K385, AF039, AF040
+  (all protocols read in full this session), story loglines for ST188
+  and ST293.
+- Checks: `dossier_check.py` exit 0 (26 card links resolve, 11
+  headers, 4 external carriers); `dossier_density.py` 0 dense;
+  `dossier_quote_verify.py` 2 checked, 0 not found (Marcus quote
+  verified against the MIT page; the Liezi wording is paraphrased, not
+  quoted, so nothing unverifiable is presented as a quote).
+- Card-target diff against the previous version: no card link dropped,
+  none added beyond what the old file had.
+- SUPERVISOR EXCEPTION REQUESTED, same as suffering: one substantiated
+  disagreement where DOSSIER-MODEL asks for three to five; the
+  manufacture of compatible clarifications as oppositions was rejected
+  by review. The Linehan-vs-Enchiridion-8 candidate was tested against
+  this session's reads and judged practice-vs-ideal rather than
+  substantiated opposition; it is stated in the body as Linehan's own
+  caution, not as a disagreement heading.
+- Registry status remains planned; supervisor flips and publishes.
+  Remaining open points for the next writer: the DAP-R carrier
+  (https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/) and the Liezi
+  Scribd carrier remain unopened; the death-acceptance and li-ming
+  glosses paraphrase rather than quote.
