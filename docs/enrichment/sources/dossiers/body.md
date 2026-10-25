@@ -117,3 +117,17 @@ constructions are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+Full read of the manuscript. Findings: the opening gives the body
+its three scientific jobs and the phenomenological claim plainly;
+the map's four groups (lived body, interoception, stress systems,
+breath) each hold card-faithful glosses with the SEP Husserl
+quotation placed correctly; the polyvagal entry carries its own
+honest caveat ("the card is thin on carriers and the theory is held
+as theory, not verdict"); the practice section states plainly that
+the combination is editorial, not a validated recipe, and gives the
+two-week trial as the test; the story section is card-faithful. No
+defects found at reader level; no edits. Checker exit 0. Editorial
+review only; no external carriers freshly opened this pass.
