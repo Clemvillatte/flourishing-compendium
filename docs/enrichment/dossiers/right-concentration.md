@@ -2,9 +2,9 @@
 
 > What is collectedness, and how is it tuned rather than forced?
 
-Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The modern attention economy trains the opposite, a scattered, forced, white-knuckle focus that exhausts what it uses, and the counterweight is practice: a capacity tuned like an instrument and reachable inside ordinary life.
+Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The counter-image is the scattered, forced focus of everyday distraction, and the counterweight the traditions propose is practice: a capacity tuned like an instrument and reachable inside ordinary life.
 
-I came to this dossier with the tuning question: whether the gathered mind is something I force or something I tune, and every thread below keeps that question open. The path's own account comes first, then the Yoga staging of the same gathering, then what the practices train and by what mechanics, the double sense of one-pointedness, absorption in activity, and the modern conditions the practice meets.
+I came to this dossier with the tuning question: whether the gathered mind is something I force or something I tune, and every thread below keeps that question open. The path's own account comes first, then the Yoga account of staging absorption, then what the practices train and by what mechanics, the double sense of one-pointedness, absorption in activity, and the modern conditions the practice meets.
 
 ### Nearby terms
 
@@ -19,13 +19,11 @@ I came to this dossier with the tuning question: whether the gathered mind is so
 
 ### What does the eighth factor train the mind into?
 
-The factor's card is [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration): the eighth factor, and the path's own account of what it trains is DN 2's four jhanas, each quieter than the last, from rapture-and-pleasure born of withdrawal to "purity of equanimity and mindfulness, neither-pleasure nor stress". [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path) places it in the SN 56.11 listing, where "right" (sammā) reads as complete or whole: a skill to develop, not a rule to obey.
+The path's own account of what the eighth factor trains is DN 2's four jhanas, each quieter than the last, from rapture-and-pleasure born of withdrawal to "purity of equanimity and mindfulness, neither-pleasure nor stress", held on [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration). [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path) places it in the SN 56.11 listing, where "right" (sammā) reads as complete or whole: a skill to develop, not a rule to obey.
 
 The training instruction is [B028 — Develop right concentration (samadhi)](https://clemvillatte.github.io/flourishing-compendium/#card=B028%20%E2%80%94%20Develop%20right%20concentration%20%28samadhi%29): MN 118's breath steps, steadying the mind on the in-breath and the out-breath, with the Dhammapada's pairing of concentration and insight. [B020 — Train ethics, concentration, and wisdom together (the threefold training)](https://clemvillatte.github.io/flourishing-compendium/#card=B020%20%E2%80%94%20Train%20ethics%2C%20concentration%2C%20and%20wisdom%20together%20%28the%20threefold%20training%29) reads it inside the Dhammapada's one-verse curriculum, avoid evil, do the skillful, cleanse the mind, in which concentration is one third of a single training.
 
-### What is samadhi gathering?
-
-[B095 — Collect the mind (samadhi as gathering)](https://clemvillatte.github.io/flourishing-compendium/#card=B095%20%E2%80%94%20Collect%20the%20mind%20%28samadhi%20as%20gathering%29) renders samadhi as gathering rather than blankness, one step in MN 118's sequence that also senses, gladdens and releases the mind. The fourth jhana's tone is [Equanimity](https://clemvillatte.github.io/flourishing-compendium/#card=Equanimity): even-mindedness regardless of valence, with the research definition and the near-enemy warning against indifference. Gathered, on this account, is not blank; it is even.
+[B095 — Collect the mind (samadhi as gathering)](https://clemvillatte.github.io/flourishing-compendium/#card=B095%20%E2%80%94%20Collect%20the%20mind%20%28samadhi%20as%20gathering%29) renders samadhi as gathering rather than blankness, one step in MN 118's sequence that also senses, gladdens and releases the mind. The fourth jhana's tone is [Equanimity](https://clemvillatte.github.io/flourishing-compendium/#card=Equanimity): even-mindedness regardless of valence, with the research definition and the near-enemy warning against indifference.
 
 ## The tuning teaching, and its two failure modes
 
@@ -33,19 +31,17 @@ The training instruction is [B028 — Develop right concentration (samadhi)](htt
 
 [B036 — Tune, don't force: the lute string](https://clemvillatte.github.io/flourishing-compendium/#card=B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string) carries the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness. That is the tuning teaching this dossier's question names, and it comes with a diagnosis step: [Y021 — Diagnose the mind's state before choosing a practice](https://clemvillatte.github.io/flourishing-compendium/#card=Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice) holds Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind.
 
-### What is the mind's weather when it will not gather?
-
-[Restlessness as weather](https://clemvillatte.github.io/flourishing-compendium/#card=Restlessness%20as%20weather) gives the Gita's wind-simile for the restless mind, the Pali hindrance of restlessness-and-worry, and calm (samatha) as the tradition's own remedy. The simile matters to the tuning question: weather is tuned around, not shouted down.
+[Restlessness as weather](https://clemvillatte.github.io/flourishing-compendium/#card=Restlessness%20as%20weather) gives the Gita's wind-simile for the restless mind, the Pali hindrance of restlessness-and-worry, and calm (samatha) as the tradition's own remedy. I take the simile as a practice reminder of my own, not the tradition's instruction: weather is tuned around, not shouted down.
 
 ## The Yoga account: three steps to absorption
 
-### How does the Yoga tradition stage the same gathering?
+### How does the Yoga tradition stage absorption?
 
 [Samadhi](https://clemvillatte.github.io/flourishing-compendium/#card=Samadhi) is the Yoga Sutras' culminating step, where the object fills awareness and the sense of a separate onlooker falls away (III.3 in Johnston's translation), and [Yoga — union of body, breath, and mind](https://clemvillatte.github.io/flourishing-compendium/#card=Yoga%20%E2%80%94%20union%20of%20body%2C%20breath%2C%20and%20mind) is the stilling of the citta's fluctuations (YS I.2) that the inner steps serve. [T041 — Patanjali](https://clemvillatte.github.io/flourishing-compendium/#card=T041%20%E2%80%94%20Patanjali) compiled the 196 sutras, with the system's heart in two lines, union through control of the versatile psychic nature.
 
 The staging itself is three moves. [Y073 — Bind attention to one place](https://clemvillatte.github.io/flourishing-compendium/#card=Y073%20%E2%80%94%20Bind%20attention%20to%20one%20place) is dhāraṇā, the binding of consciousness to a region, with the commentary's named supports and its rule that fixing needs something to fix on. [Y074 — Let absorption come from continuity](https://clemvillatte.github.io/flourishing-compendium/#card=Y074%20%E2%80%94%20Let%20absorption%20come%20from%20continuity) is dhyāna as the unbroken stream of one kind of idea on the same object; holding, not forcing. [Y075 — Let the object fill the field](https://clemvillatte.github.io/flourishing-compendium/#card=Y075%20%E2%80%94%20Let%20the%20object%20fill%20the%20field) defines samadhi by what happens to the object: shining forth in consciousness as the intended object and nothing more.
 
-Two more cards complete the account. [Y076 — Combine the three into one skill](https://clemvillatte.github.io/flourishing-compendium/#card=Y076%20%E2%80%94%20Combine%20the%20three%20into%20one%20skill) gives the three stages a single name, samyama, the combined tool Book III then uses for everything that follows. [Y078 — Distinguish settling with and without seed](https://clemvillatte.github.io/flourishing-compendium/#card=Y078%20%E2%80%94%20Distinguish%20settling%20with%20and%20without%20seed) separates the seeded settling that has an object from the seedless state that follows when the impressions cease.
+The three stages then receive a single name and a final distinction. [Y076 — Combine the three into one skill](https://clemvillatte.github.io/flourishing-compendium/#card=Y076%20%E2%80%94%20Combine%20the%20three%20into%20one%20skill) gives them samyama, the combined tool Book III then uses for everything that follows, and [Y078 — Distinguish settling with and without seed](https://clemvillatte.github.io/flourishing-compendium/#card=Y078%20%E2%80%94%20Distinguish%20settling%20with%20and%20without%20seed) separates the seeded settling that has an object from the seedless state that follows when the impressions cease.
 
 ## The concentration practices, and their mechanics
 
@@ -61,7 +57,7 @@ The research typology names two. [Focused-attention meditation](https://clemvill
 
 ### What does the Daoist counterpart gather around?
 
-[D048 — Guard the One (shouyi)](https://clemvillatte.github.io/flourishing-compendium/#card=D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29) is the Neiye's instruction, 'Hold fast to the One; do not lose it, and you will be able to master the myriad things,' with a recipe that aligns the body before it unifies the awareness. It is the oldest named Daoist meditation on the card's account, a stillness-based counterpart to the binding of attention.
+[D048 — Guard the One (shouyi)](https://clemvillatte.github.io/flourishing-compendium/#card=D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29) is the Neiye's instruction, 'Hold fast to the One; do not lose it, and you will be able to master the myriad things,' with a recipe that aligns the body before it unifies the awareness, a stillness-based counterpart to the binding of attention.
 
 ### What limits the capacity, and what builds it?
 
@@ -73,7 +69,7 @@ The research typology names two. [Focused-attention meditation](https://clemvill
 
 ### Is the gathered mind fixed or unified?
 
-[One-pointedness](https://clemvillatte.github.io/flourishing-compendium/#card=One-pointedness) renders citt'ekaggata two ways at once: one-pointedness, fixated on a single object, and unification of mind, still but not merged, able to observe the changing flow. The modern laboratory gives the double sense a daily name: [Attention residue](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20residue) is Leroy's term for what switching leaves behind, part of the thinking stays with the task left, and the next task suffers while it does. The gathered mind, on the unified reading, is what does not leave that residue behind it.
+[One-pointedness](https://clemvillatte.github.io/flourishing-compendium/#card=One-pointedness) renders citt'ekaggata two ways at once: one-pointedness, fixated on a single object, and unification of mind, still but not merged, able to observe the changing flow.
 
 ## Absorption in activity: flow and its cousins
 
@@ -85,7 +81,7 @@ The engineering side of flow is carried by its principles. [P118 — Engineer fl
 
 [P173 — Engineer absorption](https://clemvillatte.github.io/flourishing-compendium/#card=P173%20%E2%80%94%20Engineer%20absorption) is Nakamura and Csikszentmihalyi's conditions, perceived challenges that stretch existing skills, clear nearby goals, and immediate feedback about progress. [AT026 — Learn to enter flow — the state of full attentional absorption](https://clemvillatte.github.io/flourishing-compendium/#card=AT026%20%E2%80%94%20Learn%20to%20enter%20flow%20%E2%80%94%20the%20state%20of%20full%20attentional%20absorption) reads attention as the finite medium of consciousness, and what that bound places on experience.
 
-Two cards hold what happens to a state once found. [PP019 — Protect absorption](https://clemvillatte.github.io/flourishing-compendium/#card=PP019%20%E2%80%94%20Protect%20absorption) holds that the state found is not the state kept, and protection is its own principle; [MO060 — Recognise the role of flow in motivated well-being](https://clemvillatte.github.io/flourishing-compendium/#card=MO060%20%E2%80%94%20Recognise%20the%20role%20of%20flow%20in%20motivated%20well-being) reads flow as one of the most studied optimal motivational states, associated with intrinsic reward and high well-being.
+What happens to a state once found has its own principles. [PP019 — Protect absorption](https://clemvillatte.github.io/flourishing-compendium/#card=PP019%20%E2%80%94%20Protect%20absorption) holds that the state found is not the state kept, and protection is its own principle; [MO060 — Recognise the role of flow in motivated well-being](https://clemvillatte.github.io/flourishing-compendium/#card=MO060%20%E2%80%94%20Recognise%20the%20role%20of%20flow%20in%20motivated%20well-being) reads flow as one of the most studied optimal motivational states, associated with intrinsic reward and high well-being.
 
 ### What is the Daoist version of effortless absorption?
 
@@ -95,7 +91,9 @@ Two cards hold what happens to a state once found. [PP019 — Protect absorption
 
 ### What are the modern conditions the practice meets?
 
-[AT016 — Cultivate single-tasking — do one thing at a time](https://clemvillatte.github.io/flourishing-compendium/#card=AT016%20%E2%80%94%20Cultivate%20single-tasking%20%E2%80%94%20do%20one%20thing%20at%20a%20time) is the Monsell switching costs, principle form: the gathered mind's everyday answer. [AT027 — Recognise the conditions for deep work — environment, time, and energy](https://clemvillatte.github.io/flourishing-compendium/#card=AT027%20%E2%80%94%20Recognise%20the%20conditions%20for%20deep%20work%20%E2%80%94%20environment%2C%20time%2C%20and%20energy) is the environment side of the protected block, and [AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention](https://clemvillatte.github.io/flourishing-compendium/#card=AT063%20%E2%80%94%20Recognise%20attentional%20costs%20of%20media%20multitasking%20%E2%80%94%20heavy%20multitaskers%20have%20worse%20attention) is the scatter the single-tasking principle answers.
+[AT016 — Cultivate single-tasking — do one thing at a time](https://clemvillatte.github.io/flourishing-compendium/#card=AT016%20%E2%80%94%20Cultivate%20single-tasking%20%E2%80%94%20do%20one%20thing%20at%20a%20time) is the Monsell switching costs, principle form: the gathered mind's everyday answer. [Attention residue](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20residue) is Leroy's name for the cost itself, what switching leaves behind: part of the thinking stays with the task left, and the next task suffers while it does.
+
+[AT027 — Recognise the conditions for deep work — environment, time, and energy](https://clemvillatte.github.io/flourishing-compendium/#card=AT027%20%E2%80%94%20Recognise%20the%20conditions%20for%20deep%20work%20%E2%80%94%20environment%2C%20time%2C%20and%20energy) is the environment side of the protected block, and [AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention](https://clemvillatte.github.io/flourishing-compendium/#card=AT063%20%E2%80%94%20Recognise%20attentional%20costs%20of%20media%20multitasking%20%E2%80%94%20heavy%20multitaskers%20have%20worse%20attention) is the scatter the single-tasking principle answers.
 
 ## Where the traditions genuinely disagree
 
@@ -127,7 +125,7 @@ The disagreement is real and live: the article's Criticism section reports that 
 
 6. [K391 — Bring raisin mind to one routine activity](https://clemvillatte.github.io/flourishing-compendium/#card=K391%20%E2%80%94%20Bring%20raisin%20mind%20to%20one%20routine%20activity): one daily activity done for a week with full attention: the single-tasking taught in the small.
 
-::Retention:: Retention is what people keep because it works for them. A reader who keeps one breath anchor, one protected block, or the tuning feel itself has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+::Retention:: What I would retain from this theme is a matter of fit between the practice and the life it enters: one breath anchor, one protected block, or the tuning feel itself. Any one of the three, kept, carries what the theme offered.
 
 ## Story: the stories that carry the theme
 

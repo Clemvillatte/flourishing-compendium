@@ -371,3 +371,59 @@ documented disagreement by advisor direction in revision 3; no new
 disagreements were manufactured this pass). Registry status remains
 'published' (this was a post-publication GF restructure, as with
 right-mindfulness pass 18); flagged for supervisor review.
+
+## Advisor QC bounded repair (2026-10-25, worker-pplx-dos25-1025i, dos25 baton)
+
+Advisor QC on the GF restructure found that my connective prose had
+added claims beyond restructuring; this block corrects the ledger
+accordingly and records the repairs.
+
+Corrections applied to the dossier:
+
+- Attention residue: the invented bridge ("the modern laboratory
+  gives the double sense a daily name" and the unified-mind residue
+  inference) deleted; the Attention residue link moved beside the
+  single-tasking discussion, described as Leroy's name for the
+  switching cost only.
+- Daoist superlative ("the oldest named Daoist meditation")
+  deleted; the K417 kernel item retains the card's own hedged
+  "one of the oldest".
+- "Gathered, on this account, is not blank; it is even" deleted
+  (generalized the fourth-jhana description to collectedness).
+- Cross-tradition identity claim ("the Yoga staging of the same
+  gathering") replaced with neutral language ("the Yoga account of
+  staging absorption").
+- Weather-metaphor sentence labelled as my own practice reminder,
+  not the tradition's instruction.
+- Inventory wrappers ("The factor's card is", "Two more cards
+  complete the account", "Two cards hold...") replaced with
+  substantive openings; the one-paragraph "What is samadhi
+  gathering?" and weather subsections merged into their threads.
+- Intro's "modern attention economy trains the opposite"
+  generalization replaced with the counter-image framing.
+- Retention rewritten as my editorial recommendation.
+- The sammā gloss ("reads as complete or whole: a skill to develop,
+  not a rule to obey") verified against the Eightfold Path card,
+  which carries it as the card author's own rendering; SN 56.11
+  cited twice on the card.
+
+Ledger corrections: (1) the previous block's "no new claims"
+assertion is withdrawn; the QC demonstrated the connective prose had
+added the claims listed above, now repaired. (2) The quote-verifier
+result is recorded accurately: one failed extracted-fragment match
+(the Shankman connective "fixated on a single object, and as", which
+is a partial quote spanning paraphrase, not an intended standalone
+quotation), with the intended quoted terms and passages manually
+checked against the fetched Wikipedia article this session; the
+claim that the verifier "cannot fetch Wikipedia" is withdrawn. (3)
+The disagreement shortfall is stated unambiguously: ONE supported
+question; TWO additional questions needed to reach the model minimum
+of three; not manufactured this pass.
+
+Checks after repair: dossier_check.py exit 0 (61 card links, 30
+headers, 3 external carriers); density 0; voice audit clean; zero
+prose em dashes; card-link set identical to the previous revision
+(61 links, diffed). Registry status remains 'published' (untouched);
+the revised Markdown is flagged for the supervisor's
+publication/rebuild step. Released as a REVIEW HANDOFF, not fully
+GF-compliant.
