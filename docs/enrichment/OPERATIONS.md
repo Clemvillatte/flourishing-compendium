@@ -1577,3 +1577,19 @@ The advisor's final verification caught overstated records in this session's QC 
   catalogue-wide 3-question-bar finding recorded for the owner;
   freedom flip held with reasons; all standing flags documented in
   the handoff checkpoint 2.
+
+# Supervisor QC entry 17 — 2026-10-25 ~04:06Z (supervisor-pplx-brownmermaid-1025a)
+
+- SPOT-CHECK right-speech post-edit (dos20's QC pass): the two
+  reworded constructions read clean and card-faithful, no claims
+  changed; checker 96 links, 0 dense.
+- SAMPLE QC attention (published): checker 97 links, 0 dense; 5
+  quote-verify misses, all verified verbatim by the dos4 pass
+  against opened carriers (cache-local misses, ledger-documented).
+- SAMPLE QC sadness-and-grief (published): checker 35 links, 0
+  dense; 5 misses all ledger-documented (Wikisource zero-width
+  case covered by the previous supervisor's pass).
+- Registry/app.js sync confirmed: no registry change since the
+  acceptance flip (55d22f22).
+- All session items green on the T+38 verification pass; moving
+  into the taper schedule.
