@@ -1861,13 +1861,13 @@
     {
       "id": "S0087",
       "family": "time",
-      "text": "What is one thing you would regret not starting this year — and what are you waiting for?",
+      "text": "Count the Sundays left in the year — what does one of them owe?",
       "connections": [
         {
           "kind": "principle",
           "ref": "M037",
           "title": "Number your days; we only borrow our time",
-          "why": "The Cantares arithmetic makes waiting expensive."
+          "why": "The Cantares arithmetic makes each unit countable."
         },
         {
           "kind": "principle",
@@ -6292,7 +6292,7 @@
     {
       "id": "S0298",
       "family": "courage",
-      "text": "What was once ever the right unit of measure for the demand?",
+      "text": "If no act of care ever fully settles the account, what does generosity look like anyway?",
       "connections": [
         {
           "kind": "principle",
@@ -7552,7 +7552,7 @@
     {
       "id": "S0358",
       "family": "attention",
-      "text": "Where does your attention habitually go out — and what would the tally of a few days show?",
+      "text": "What steals your attention first — and what would it take to catch the thief in the act?",
       "connections": [
         {
           "kind": "principle",
@@ -7564,7 +7564,7 @@
           "kind": "principle",
           "ref": "AT018",
           "title": "Practise deliberate distraction management — know what pulls your attention",
-          "why": "The tally is the deliberate version of the audit."
+          "why": "Knowing what pulls you is the deliberate half of the catch."
         }
       ],
       "dossier": "attention",
@@ -7930,7 +7930,7 @@
     {
       "id": "S0376",
       "family": "meaning",
-      "text": "What would you still have if the outcome were not a verdict — the skill, the hand, the play?",
+      "text": "If the dice fall badly, what in the game was still yours — and still worth loving?",
       "connections": [
         {
           "kind": "principle",
@@ -8539,7 +8539,7 @@
     {
       "id": "S0405",
       "family": "suffering",
-      "text": "What is the body doing while the mind spins — and could the breath calm the fabrication?",
+      "text": "Panic has a body — where is it, and what does one slow exhale do to it?",
       "connections": [
         {
           "kind": "principle",
@@ -9118,7 +9118,7 @@
           "kind": "principle",
           "ref": "E029",
           "title": "Practise curiosity (Neugier)",
-          "why": "Curiosity begins where the protection ends."
+          "why": "Curiosity has a restless counterfeit — novelty-hopping instead of tarrying with the question."
         }
       ],
       "dossier": "cognition",
@@ -9694,7 +9694,7 @@
     {
       "id": "S0460",
       "family": "decision",
-      "text": "What would you decide if the deliberation had to end today?",
+      "text": "What does overthinking protect you from — and what would deciding today cost?",
       "connections": [
         {
           "kind": "principle",
@@ -9946,19 +9946,19 @@
     {
       "id": "S0472",
       "family": "suffering",
-      "text": "What is the panic's content — and is it fear of the fear itself?",
+      "text": "If the panic were a messenger, what would it be repeating — and to whom?",
       "connections": [
         {
           "kind": "principle",
           "ref": "AF049",
           "title": "Learn to work with panic — panic is fear of fear",
-          "why": "The loop is the content."
+          "why": "Panic is fear of fear — the message is about the loop, not the world."
         },
         {
           "kind": "principle",
           "ref": "S115",
           "title": "Handle anxiety by returning to the present",
-          "why": "The return breaks the loop."
+          "why": "The return to the present breaks the loop."
         }
       ],
       "dossier": "anxiety",
