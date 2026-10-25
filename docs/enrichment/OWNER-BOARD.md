@@ -32,6 +32,8 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Log
 
+- 2026-10-25 05:55Z supervisor-442ae42a: supervisor + p1d; advisor flags D150's Suwen locator and unsupported descent bridge for live maintenance.
+
 - 2026-10-25 05:52Z supervisor-442ae42a: claimed released supervisor baton; health, source QC, then principle repairs.
 
 - 2026-10-25 — board created per owner directive; publication switched to
