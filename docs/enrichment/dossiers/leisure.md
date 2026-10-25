@@ -104,7 +104,7 @@ The unmeasured evening. For two weeks, spend some free hours with every metric o
 
 The rest audit. For one week, each evening note whether you actually detached from work or only changed rooms while continuing to think about it. Keep the conditions that produced detachment, an end time, a walk, a device boundary. This is the [recovery-as-a-skill](https://clemvillatte.github.io/flourishing-compendium/#card=PP048%20%E2%80%94%20Practise%20recovery%20as%20a%20skill) kernel and it moves attention. It is maintenance, and knowing that is part of the skill.
 
-One standing sabbath. Put a weekly block of some hours where work and its tools are out of reach and nothing productive is allowed. See what fills it when nothing useful is permitted. This moves the self and overt behaviour, and it is [rest built into the system](https://clemvillatte.github.io/flourishing-compendium/#card=PP073%20%E2%80%94%20Build%20rest%20into%20the%20system) rather than squeezed in after it.
+One standing sabbath. Put a weekly block of some hours where work and its tools are out of reach and nothing productive is allowed. See what fills it when nothing useful is permitted. This moves the self and overt behaviour, it is [rest built into the system](https://clemvillatte.github.io/flourishing-compendium/#card=PP073%20%E2%80%94%20Build%20rest%20into%20the%20system) rather than squeezed in after it, and the [Sabbath](https://clemvillatte.github.io/flourishing-compendium/#card=Sabbath) card carries the oldest version of the boundary.
 
 ## Story: the stories that carry the theme
 
@@ -116,4 +116,4 @@ One standing sabbath. Put a weekly block of some hours where work and its tools 
 
 [Watanabe Finds the Playground](https://clemvillatte.github.io/flourishing-compendium/#card=ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): a Tokyo bureaucrat learns he is dying after thirty years of stamping documents, and the one project he pushes through against his whole machine is a playground for other people's children.
 
-[Mead's Play and Game](https://clemvillatte.github.io/flourishing-compendium/#card=ST113%20%E2%80%94%20Mead%27s%20Play%20and%20Game): in play a child takes one role at a time, and in the game all roles at once; the self itself, Mead argues, is built in this apparently useless activity.
+[Mead's Play and Game](https://clemvillatte.github.io/flourishing-compendium/#card=ST113%20%E2%80%94%20Mead%27s%20Play%20and%20Game): in play a child takes one role at a time, and in the game all roles at once; the self itself, Mead argues, is built in this apparently useless activity, and the [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research) card follows what adults keep of it.
