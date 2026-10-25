@@ -10296,7 +10296,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The persistence side is the backdrop Wrosch and colleagues name: \"The notion that persistence is essential for success and happiness is deeply embedded in popular and scientific writings.\" The goal-setting evidence supports pushing, with conditions:"
+          "x": "The persistence side is the backdrop Miller and Wrosch name: \"The notion that persistence is essential for success and happiness is deeply embedded in popular and scientific writings.\" ([Miller and Wrosch, Psychological Science 2007, abstract](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf)) The goal-setting evidence supports pushing, with conditions:"
         },
         {
           "t": "q",
@@ -10309,7 +10309,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal.\" ([Wrosch and colleagues, Psychological Science 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf))",
+          "x": "\"when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal.\" ([Miller and Wrosch, Psychological Science 2007, abstract](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf))",
           "s": null
         },
         {
@@ -10326,7 +10326,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Underneath holding and letting go sits commitment itself. In relationship research, [commitment](card:Commitment) is the intent to persist; in the therapy world, [action commitment](card:Action%20commitment) labels what Acceptance and Commitment Therapy calls committed action."
+          "x": "Underneath holding and letting go sits commitment itself. In relationship research, [commitment](card:Commitment) is the intent to persist; in the therapy world, [action commitment](card:Action%20commitment) labels what Acceptance and Commitment Therapy calls committed action. Commitment can also be engineered: [commitment devices](card:Commitment%20devices%20%28Ariely%20%26%20Wertenbroch%29) are a way of binding the future self, arranging in advance for the wrong choice to become costly or impossible, so the intention held now survives the weakness that will come later."
         },
         {
           "t": "p",
@@ -10350,7 +10350,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A published exchange puts the theory's founders against four of its critics. Ordóñez, Schweitzer, Galinsky and Bazerman argue that the very characteristics that make goals work are the ones that make them dangerous: \"For decades, goal setting has been promoted as a halcyon pill for improving employee motivation and performance in organizations\" ([Columbia Business School, abstract](https://business.columbia.edu/faculty/research/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting)), and in their view it is often these same characteristics that cause goals to \"go wild\". In their later reply they restate the recommendation: \"We reiterate our original claim that goal setting, like a potent medication, can produce both beneficial effects and systematic, negative outcomes, and as a result, it should be carefully prescribed and closely monitored\" ([On Good Scholarship, abstract](https://business.columbia.edu/faculty/research/good-scholarship-goal-setting-and-scholars-gone-wild))."
+          "x": "A published exchange puts the theory's founders against four of its critics. Ordóñez, Schweitzer, Galinsky and Bazerman argue that the very characteristics that make goals work are the ones that make them dangerous: \"For decades, goal setting has been promoted as a halcyon pill for improving employee motivation and performance in organizations\" ([Columbia Business School, abstract](https://business.columbia.edu/faculty/research/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting)), and in their view it is often these same characteristics that cause goals to go wild."
+        },
+        {
+          "t": "p",
+          "x": "In their later reply they restate the recommendation: \"We reiterate our original claim that goal setting, like a potent medication, can produce both beneficial effects and systematic, negative outcomes, and as a result, it should be carefully prescribed and closely monitored\" ([On Good Scholarship, abstract](https://business.columbia.edu/faculty/research/good-scholarship-goal-setting-and-scholars-gone-wild))."
         },
         {
           "t": "p",

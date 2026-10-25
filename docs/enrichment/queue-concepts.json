@@ -7,13 +7,6 @@
 "prose_words": 110
 },
 {
-"id": "Bad faith",
-"title": "Bad faith",
-"path": "content/concepts/Bad faith.md",
-"degree": 25,
-"prose_words": 79
-},
-{
 "id": "Bare attention in mindfulness practice",
 "title": "Bare attention in mindfulness practice",
 "path": "content/concepts/Bare attention in mindfulness practice.md",
@@ -21,32 +14,11 @@
 "prose_words": 108
 },
 {
-"id": "Contingent self-esteem",
-"title": "Contingent self-esteem",
-"path": "content/concepts/Contingent self-esteem.md",
-"degree": 21,
-"prose_words": 118
-},
-{
 "id": "Resilience",
 "title": "Resilience",
 "path": "content/concepts/Resilience.md",
 "degree": 21,
 "prose_words": 106
-},
-{
-"id": "Suspension of the natural attitude",
-"title": "Suspension of the natural attitude",
-"path": "content/concepts/Suspension of the natural attitude.md",
-"degree": 21,
-"prose_words": 109
-},
-{
-"id": "Anxiety about the future",
-"title": "Anxiety about the future",
-"path": "content/concepts/Anxiety about the future.md",
-"degree": 20,
-"prose_words": 84
 },
 {
 "id": "Authentic versus hubristic pride",
@@ -98,13 +70,6 @@
 "prose_words": 106
 },
 {
-"id": "Affective forecasting",
-"title": "Affective forecasting",
-"path": "content/concepts/Affective forecasting.md",
-"degree": 17,
-"prose_words": 42
-},
-{
 "id": "Akrasia",
 "title": "Akrasia",
 "path": "content/concepts/Akrasia.md",
@@ -131,13 +96,6 @@
 "path": "content/concepts/Context effects in perception.md",
 "degree": 17,
 "prose_words": 76
-},
-{
-"id": "Courage: action despite fear",
-"title": "Courage: action despite fear",
-"path": "content/concepts/Courage — action despite fear.md",
-"degree": 17,
-"prose_words": 96
 },
 {
 "id": "Eudaimonic motivation, intrinsic goals",
@@ -217,13 +175,6 @@
 "prose_words": 84
 },
 {
-"id": "The contemplative life",
-"title": "The contemplative life",
-"path": "content/concepts/The contemplative life.md",
-"degree": 15,
-"prose_words": 111
-},
-{
 "id": "Care as practice",
 "title": "Care as practice",
 "path": "content/concepts/Care as practice.md",
@@ -252,20 +203,6 @@
 "prose_words": 117
 },
 {
-"id": "Deliberation as rehearsal",
-"title": "Deliberation as rehearsal",
-"path": "content/concepts/Deliberation as rehearsal.md",
-"degree": 14,
-"prose_words": 100
-},
-{
-"id": "Dignity",
-"title": "Dignity",
-"path": "content/concepts/Dignity.md",
-"degree": 14,
-"prose_words": 86
-},
-{
 "id": "Existential meaning",
 "title": "Existential meaning",
 "path": "content/concepts/Existential meaning.md",
@@ -285,13 +222,6 @@
 "path": "content/concepts/Self-regulation.md",
 "degree": 14,
 "prose_words": 98
-},
-{
-"id": "Simplicity as practice",
-"title": "Simplicity as practice",
-"path": "content/concepts/Simplicity as practice.md",
-"degree": 14,
-"prose_words": 107
 },
 {
 "id": "Social exchange theory",
@@ -378,13 +308,6 @@
 "prose_words": 87
 },
 {
-"id": "The narrative self",
-"title": "The narrative self",
-"path": "content/concepts/The narrative self.md",
-"degree": 13,
-"prose_words": 114
-},
-{
 "id": "The rhythm of breath",
 "title": "The rhythm of breath",
 "path": "content/concepts/The rhythm of breath.md",
@@ -397,13 +320,6 @@
 "path": "content/concepts/The three kinds of knowledge.md",
 "degree": 13,
 "prose_words": 109
-},
-{
-"id": "Timing as wisdom",
-"title": "Timing as wisdom",
-"path": "content/concepts/Timing as wisdom.md",
-"degree": 13,
-"prose_words": 88
 },
 {
 "id": "Alterity",
@@ -427,25 +343,11 @@
 "prose_words": 78
 },
 {
-"id": "Deliberative democracy",
-"title": "Deliberative democracy",
-"path": "content/concepts/Deliberative democracy.md",
-"degree": 12,
-"prose_words": 99
-},
-{
 "id": "Designing for virtue",
 "title": "Designing for virtue",
 "path": "content/concepts/Designing for virtue.md",
 "degree": 12,
 "prose_words": 97
-},
-{
-"id": "Ecological grief",
-"title": "Ecological grief",
-"path": "content/concepts/Ecological grief.md",
-"degree": 12,
-"prose_words": 71
 },
 {
 "id": "Empathic concern",
@@ -469,32 +371,11 @@
 "prose_words": 103
 },
 {
-"id": "Moral emotions",
-"title": "Moral emotions",
-"path": "content/concepts/Moral emotions.md",
-"degree": 12,
-"prose_words": 79
-},
-{
-"id": "Proper pride (megalopsychia)",
-"title": "Proper pride (megalopsychia)",
-"path": "content/concepts/Proper pride (megalopsychia).md",
-"degree": 12,
-"prose_words": 98
-},
-{
 "id": "Sufficiency",
 "title": "Sufficiency",
 "path": "content/concepts/Sufficiency.md",
 "degree": 12,
 "prose_words": 46
-},
-{
-"id": "The ongoing reduction",
-"title": "The ongoing reduction",
-"path": "content/concepts/The ongoing reduction.md",
-"degree": 12,
-"prose_words": 113
 },
 {
 "id": "The return to the inner self",
@@ -609,13 +490,6 @@
 "prose_words": 99
 },
 {
-"id": "Following nature's rhythm",
-"title": "Following nature's rhythm",
-"path": "content/concepts/Following nature's rhythm.md",
-"degree": 11,
-"prose_words": 100
-},
-{
 "id": "Individual Psychology (Adlerian psychology)",
 "title": "Individual Psychology (Adlerian psychology)",
 "path": "content/concepts/Individual Psychology (Adlerian psychology).md",
@@ -635,6 +509,13 @@
 "path": "content/concepts/Nature as teacher.md",
 "degree": 11,
 "prose_words": 85
+},
+{
+"id": "Piaget's theory of cognitive development",
+"title": "Piaget's theory of cognitive development",
+"path": "content/concepts/Piaget's theory of cognitive development.md",
+"degree": 11,
+"prose_words": 69
 },
 {
 "id": "Presence",
@@ -735,13 +616,6 @@
 "prose_words": 69
 },
 {
-"id": "Being-with (Mitsein)",
-"title": "Being-with (Mitsein)",
-"path": "content/concepts/Being-with (Mitsein).md",
-"degree": 10,
-"prose_words": 62
-},
-{
 "id": "Congruence",
 "title": "Congruence",
 "path": "content/concepts/Congruence.md",
@@ -833,13 +707,6 @@
 "prose_words": 107
 },
 {
-"id": "Piaget's theory of cognitive development",
-"title": "Piaget's theory of cognitive development",
-"path": "content/concepts/Piaget's theory of cognitive development.md",
-"degree": 10,
-"prose_words": 69
-},
-{
 "id": "Psychological detachment",
 "title": "Psychological detachment",
 "path": "content/concepts/Psychological detachment.md",
@@ -847,25 +714,11 @@
 "prose_words": 86
 },
 {
-"id": "Reflective thinking",
-"title": "Reflective thinking",
-"path": "content/concepts/Reflective thinking.md",
-"degree": 10,
-"prose_words": 91
-},
-{
 "id": "Ritual",
 "title": "Ritual",
 "path": "content/concepts/Ritual.md",
 "degree": 10,
 "prose_words": 103
-},
-{
-"id": "Self-serving attribution bias",
-"title": "Self-serving attribution bias",
-"path": "content/concepts/Self-serving attribution bias.md",
-"degree": 10,
-"prose_words": 118
 },
 {
 "id": "Spontaneous right action",
@@ -1225,18 +1078,18 @@
 "prose_words": 80
 },
 {
-"id": "Grace",
-"title": "Grace",
-"path": "content/concepts/Grace.md",
-"degree": 8,
-"prose_words": 65
-},
-{
 "id": "Media multitasking",
 "title": "Media multitasking",
 "path": "content/concepts/Media multitasking.md",
 "degree": 8,
 "prose_words": 43
+},
+{
+"id": "Micro-moments of connection",
+"title": "Micro-moments of connection",
+"path": "content/concepts/Micro-moments of connection.md",
+"degree": 8,
+"prose_words": 116
 },
 {
 "id": "Moral sentiments",
@@ -1323,13 +1176,6 @@
 "prose_words": 112
 },
 {
-"id": "Ready-to-hand",
-"title": "Ready-to-hand",
-"path": "content/concepts/Ready-to-hand.md",
-"degree": 8,
-"prose_words": 106
-},
-{
 "id": "Realistic conflict theory",
 "title": "Realistic conflict theory",
 "path": "content/concepts/Realistic conflict theory.md",
@@ -1377,13 +1223,6 @@
 "path": "content/concepts/The mirror for others.md",
 "degree": 8,
 "prose_words": 119
-},
-{
-"id": "Variability in practice",
-"title": "Variability in practice",
-"path": "content/concepts/Variability in practice.md",
-"degree": 8,
-"prose_words": 118
 },
 {
 "id": "Vocabularies as tools",
@@ -1561,13 +1400,6 @@
 "prose_words": 77
 },
 {
-"id": "Micro-moments of connection",
-"title": "Micro-moments of connection",
-"path": "content/concepts/Micro-moments of connection.md",
-"degree": 7,
-"prose_words": 116
-},
-{
 "id": "Monastic hours",
 "title": "Monastic hours",
 "path": "content/concepts/Monastic hours.md",
@@ -1720,20 +1552,6 @@
 "path": "content/concepts/Being-values (B-values).md",
 "degree": 6,
 "prose_words": 96
-},
-{
-"id": "Buddha-nature",
-"title": "Buddha-nature",
-"path": "content/concepts/Buddha-nature.md",
-"degree": 6,
-"prose_words": 98
-},
-{
-"id": "Capitalization",
-"title": "Capitalization",
-"path": "content/concepts/Capitalization.md",
-"degree": 6,
-"prose_words": 54
 },
 {
 "id": "Concrescence",
@@ -1897,13 +1715,6 @@
 "prose_words": 52
 },
 {
-"id": "Reconfiguration of narrative",
-"title": "Reconfiguration of narrative",
-"path": "content/concepts/Reconfiguration of narrative.md",
-"degree": 6,
-"prose_words": 75
-},
-{
 "id": "Shu",
 "title": "Shu",
 "path": "content/concepts/Shu.md",
@@ -2058,13 +1869,6 @@
 "prose_words": 77
 },
 {
-"id": "Moral dilemmas",
-"title": "Moral dilemmas",
-"path": "content/concepts/Moral dilemmas.md",
-"degree": 5,
-"prose_words": 110
-},
-{
 "id": "Nishkama karma",
 "title": "Nishkama karma",
 "path": "content/concepts/Nishkama karma.md",
@@ -2112,13 +1916,6 @@
 "path": "content/concepts/Psychoneuroimmunology (PNI).md",
 "degree": 5,
 "prose_words": 63
-},
-{
-"id": "Recovery science",
-"title": "Recovery science",
-"path": "content/concepts/Recovery science.md",
-"degree": 5,
-"prose_words": 119
 },
 {
 "id": "Self-reliance",
@@ -2429,13 +2226,6 @@
 "prose_words": 98
 },
 {
-"id": "The tetralemma",
-"title": "The tetralemma",
-"path": "content/concepts/The tetralemma.md",
-"degree": 4,
-"prose_words": 59
-},
-{
 "id": "Better-than-average effect / illusory superiority",
 "title": "Better-than-average effect / illusory superiority",
 "path": "content/concepts/Better-than-average effect illusory superiority.md",
@@ -2595,13 +2385,6 @@
 "path": "content/concepts/The power paradox.md",
 "degree": 3,
 "prose_words": 114
-},
-{
-"id": "The shattered self",
-"title": "The shattered self",
-"path": "content/concepts/The shattered self.md",
-"degree": 3,
-"prose_words": 68
 },
 {
 "id": "The tetrapharmakos",

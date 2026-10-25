@@ -528,3 +528,25 @@ matches) and ST014 Marie Kondo and the Spark of Joy (the
 sparks-joy question, thanking and letting go — matches). All three
 match. Combined with batch 1 (ST301 body), the sampled cards all
 verify. No defects found.
+
+## Reader-level review complete (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+The standing item from the 2026-10-25 pass-5 note ("goals and
+overload-overwhelm... still need complete reader-level review") is
+closed for goals. Full read-through performed at reader level this
+session. Findings: the prose holds one idea per paragraph, terms are
+introduced before use, evidence limits are stated in the text, and
+the voice is natural throughout (no scaffolds, no decorative
+metaphors found). One precision repair applied: the Miller and
+Wrosch (Psychological Science 2007) attribution was given as "Wrosch
+and colleagues" (Wrosch is the second author); both quotes from that
+paper are now cited to "Miller and Wrosch" and the inline
+persistence-backdrop quote now carries its carrier link directly
+(the PDF was downloaded and text-extracted this session: the
+persistence sentence and the disengagement recommendation are both
+verbatim in the paper's abstract). Both Columbia passages re-verified
+by fresh fetch this session (halcyon-pill sentence and potent-
+medication reiteration, both verbatim on the opened pages).
+Checks after the repair: dossier_check exit 0, quote_verify 8/2 (the
+2 Columbia-page artifacts, by-eye verified, exceptions recorded
+above), density 0.

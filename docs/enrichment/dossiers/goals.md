@@ -58,13 +58,13 @@ Aims can fail from the outside or from each other. [Goal conflict research](http
 
 The research on exit has its own findings. [Goal disengagement](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The distinction the whole field turns on is attainability, and the two main literatures mark it differently.
 
-The persistence side is the backdrop Wrosch and colleagues name: "The notion that persistence is essential for success and happiness is deeply embedded in popular and scientific writings." The goal-setting evidence supports pushing, with conditions:
+The persistence side is the backdrop Miller and Wrosch name: "The notion that persistence is essential for success and happiness is deeply embedded in popular and scientific writings." ([Miller and Wrosch, Psychological Science 2007, abstract](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf)) The goal-setting evidence supports pushing, with conditions:
 
 > "These studies showed that specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ‘‘do one’s best.’’" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))
 
 Locke and Latham add that the difficulty-performance relationship holds so long as a person is committed to the goal, has the requisite ability to attain it, and does not have conflicting goals. The disengagement research concerns the other case:
 
-> "when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal." ([Wrosch and colleagues, Psychological Science 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf))
+> "when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal." ([Miller and Wrosch, Psychological Science 2007, abstract](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf))
 
 The two findings describe different situations, one within reach of ability, one beyond it. The hard part, for a person living through it, is that the sorting of the two cannot be done from outside.
 
