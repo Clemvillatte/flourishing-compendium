@@ -54,6 +54,20 @@ second batch below (verifier-pplx-1025g, 2026-10-25).
   vagal tone and meditation (38:57), transforming relationships (44:42),
   flourishing as a process (52:24), the 3:1 positivity ratio (55:05),
   practical application (1:00:30) and discussion of resilience (1:07:05).
+  Corroboration (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=nD_SbilNMo4&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain transcription errors)
+  independently confirms the lecture's substance: positive emotions that
+  "open us" and broaden awareness (seeing the "big picture", more possible
+  actions); broadening linked to creativity, resilience, contextual memory and
+  constructive negotiation; the build claim ("transform us for the better" —
+  mindfulness, relationships, physical well-being, vagal tone); the
+  loving-kindness meditation study with increased positive emotions and resting
+  vagal tone; the couples gratitude study; the 3:1 positivity ratio presented
+  with its caveat ("don't make your motto be positive"); and the Q&A on
+  resilience and interpretation. Caveats: third-party transcript page, no
+  timestamps in the retrieved text (the chapter timings above remain the
+  recording's own); playback itself not opened.
 - Relevant segments: broaden and build 8:31 to 20:13; vagal tone and
   meditation 38:57 to 44:42; flourishing 52:24 to 1:00:30.
 - Verification status: verified-video for identity, access and duration
