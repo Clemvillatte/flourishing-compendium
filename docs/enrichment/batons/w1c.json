@@ -1,7 +1,7 @@
 {
  "baton": "w1c",
- "agent": "worker-pplx-1025-o",
- "clocked_in": "2026-10-25T11:01:29+00:00",
+ "agent": "worker-pplx-1025stubs",
+ "clocked_in": "2026-10-25T12:02:45+00:00",
  "takeovers": [
   {
    "by": "Agent C",
@@ -62,6 +62,13 @@
    "at": "2026-10-25T11:01:29+00:00",
    "from": "worker-pplx-1025-o",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-1025stubs",
+   "at": "2026-10-25T12:02:45+00:00",
+   "from": "worker-pplx-1025-o",
+   "reason": "stale (61 min)"
   }
- ]
+ ],
+ "released": false
 }
