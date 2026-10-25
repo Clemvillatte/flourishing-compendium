@@ -49,7 +49,7 @@ And the same sutta gives the view its concrete test, which is where the teaching
 
 > "He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away. In this, his knowledge is independent of others. It's to this extent, Kaccayana, that there is right view." ([SN 12.15, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
 
-Watching stress arise and pass without a self fastened to it: that is the extent to which there is right view. The test is demanding in its own way. What it asks for is steady attention to experience, not a settled position on whether everything exists.
+Watching stress arise and pass without a self fastened to it: that is the extent to which there is right view. The test is demanding in its own way. What it asks for is steady attention to experience; the question of whether everything exists is set aside.
 
 ## Wrong view and its parallels in the clinic
 
