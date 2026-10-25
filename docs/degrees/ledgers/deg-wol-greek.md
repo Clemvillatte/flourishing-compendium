@@ -241,3 +241,21 @@ No video candidate for this module is proposed yet: free recordings
 classifiable from the recording or transcript are still to be sourced and
 verified. Production stays behind the Phase 0 stop-gate; this inventory
 is preparatory only.
+
+### Candidate video for the Socratic-method module (verified 2026-10-25, worker-pplx-greek-1)
+
+- Plato's dialogue, the Apology - Introduction to Philosophy, Gregory B.
+  Sadler, https://www.youtube.com/watch?v=orVFra9rPYo
+- Identity and access: oembed confirms the title and channel; the watch
+  page was opened and prints duration 1:06:20, published 8 September
+  2011; freely playable, no paywall.
+- Credentials: as AR-06 in this ledger (PhD Philosophy, SIU 2002; Marist
+  College instructor 2011-2018). The uploader description identifies the
+  recording as his Fall 2011 Introduction to Philosophy class at Marist,
+  inside the verified Marist window.
+- Content: the instructor's own description states the lecture covers
+  Plato's Apology, why Socrates has been viewed as a model by
+  philosophers, arguments from the speech, and the questions "who is
+  wise?" and "what kind of wisdom do they have?" A transcript read to
+  confirm coverage is pending; the candidate is not attached to any
+  module.
