@@ -25,7 +25,6 @@
     "B147",
     "B020",
     "B038",
-    "B082",
     "B168",
     "B177",
     "BI002",
@@ -71,14 +70,15 @@
     "AF010",
     "AT008",
     "P159",
-    "CO081"
+    "CO081",
+    "B082"
   ],
   "in_progress": null,
   "flagged": {
     "BI013": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: QC round-1 corrections failed to land; reapplied and revalidated]",
     "B020": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: milestone QC: verse number corrected, inferences removed]",
     "B038": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: milestone QC: plain words narrowed to MN 118]",
-    "B082": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: milestone QC: unsupported prescriptions removed]",
+    "B082": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.88)",
     "R012": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: QC round 4: opening paragraph narrowed to located evidence]",
     "S002": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: Milestone QC round 3: opening 'worth pursuing' scoping error; drop unverified 'preferred indifferent' classification]",
     "A076": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC corrections VERIFIED APPLIED \u2014 the flags' own text records the corrections as applied/reapplied and re-validated; spot-checked this session (BI013: the corrected opening present \u2014 the review-of-imaging-evidence framing with the 60% amplification scoped to the reported difference). The state flag was stale. [ORIGINAL: Reopened for QC: Milestone QC round 2: shorten proportionality quote to standalone blockquote]",
@@ -103,7 +103,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 18,
-  "updated": "2026-10-25T12:20:19+00:00",
+  "updated": "2026-10-25T12:35:56+00:00",
   "band_done": false,
   "notes": {
     "CO081": {
@@ -111,6 +111,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/disner%20beck%202011%20nat%20rev%20neurosci.pdf"
+    },
+    "B082": {
+      "qc": "Plain-words replicate replaced (0.88 -> ~0.1), first-person defect fixed; validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html"
     }
   }
 }
