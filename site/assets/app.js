@@ -17566,6 +17566,16 @@ window.fcDossiersData = {
       "id": "freedom",
       "title": "Freedom",
       "group": "minds-life"
+    },
+    {
+      "id": "leisure",
+      "title": "Leisure",
+      "group": "flourishing"
+    },
+    {
+      "id": "executive-functions",
+      "title": "Executive Functions",
+      "group": "minds-life"
     }
   ]
 };
@@ -17681,7 +17691,7 @@ function renderDossierDetail(id){
   const wrap = el('div','acad-detail');
   const band = el('div','dossier-band');
   const back = el('button','acad-btn ghost','\u2190 Dossiers');
-  back.onclick = () => { A.view='dossiers'; renderAcademy(); if(window.__fcRoute) window.__fcRoute.set('#view=dossiers'); };
+  back.onclick = () => { switchView('dossiers'); if(window.__fcRoute) window.__fcRoute.set('#view=dossiers'); };
   band.appendChild(back);
   const data = window.fcDossiersData;
   const g = (data.groups||[]).find(x=>x.id===d.group);
@@ -17757,7 +17767,22 @@ function switchView(v){
     $('tabRand').classList.remove('active');
     $('tabWiki').classList.remove('active');
     const tgr = $('tabGraph'); if (tgr) tgr.classList.remove('active');
+    const tdz0 = $('tabDossiers'); if (tdz0) tdz0.classList.remove('active');
     $('tabAcademy').classList.add('active');
+    renderAcademy();
+    return;
+  }
+  // hijack for the Dossiers tab (owner directive 2026-10-25: promoted to its
+  // own tab after Academy; renders inside the academy-mode container)
+  if(v==='dossiers'){
+    document.body.classList.remove('rand-mode','wiki-mode','graph-mode');
+    document.body.classList.add('academy-mode');
+    $('tabRand').classList.remove('active');
+    $('tabWiki').classList.remove('active');
+    const tgr3 = $('tabGraph'); if (tgr3) tgr3.classList.remove('active');
+    const tds3 = $('tabAcademy'); if (tds3) tds3.classList.remove('active');
+    const td3 = $('tabDossiers'); if (td3) td3.classList.add('active');
+    A.view='dossiers'; A.dossier=null;
     renderAcademy();
     return;
   }
@@ -17772,10 +17797,11 @@ function switchView(v){
     $('tabAcademy').classList.add('active');
     const tabGallery = $('tabGallery');
     if(tabGallery) tabGallery.classList.add('active');
+    const tdz1 = $('tabDossiers'); if (tdz1) tdz1.classList.remove('active');
     renderGallery();
     return;
   }
-  if(v==='rand'||v==='wiki'||v==='edit'){ $('tabAcademy').classList.remove('active'); const tg = $('tabGallery'); if(tg) tg.classList.remove('active'); }
+  if(v==='rand'||v==='wiki'||v==='edit'){ $('tabAcademy').classList.remove('active'); const tg = $('tabGallery'); if(tg) tg.classList.remove('active'); const tdz2 = $('tabDossiers'); if (tdz2) tdz2.classList.remove('active'); }
   document.body.classList.remove('academy-mode');
 }
 
@@ -17784,10 +17810,12 @@ function switchView(v){
 if (window.fcSwitchView) {
   const _origSwitchView = window.fcSwitchView;
   window.fcSwitchView = function(v){
-    if (v !== 'academy') {
+    if (v !== 'academy' && v !== 'dossiers') {
       document.body.classList.remove('academy-mode');
       const t = document.getElementById('tabAcademy');
       if (t) t.classList.remove('active');
+      const tdz = document.getElementById('tabDossiers');
+      if (tdz) tdz.classList.remove('active');
     }
     return _origSwitchView(v);
   };
@@ -17801,9 +17829,27 @@ if (window.fcSwitchView) {
       document.body.classList.remove('academy-mode');
       const t = document.getElementById('tabAcademy');
       if (t) t.classList.remove('active');
+      const tdz = document.getElementById('tabDossiers');
+      if (tdz) tdz.classList.remove('active');
     }, true); // capture phase — runs before the original listener
   }
 });
+
+/* ---------- Dossiers tab wiring (owner directive 2026-10-25) ---------- */
+function initDossiers(){
+  const btn = document.getElementById('tabDossiers');
+  if(!btn) return;
+  btn.addEventListener('click', ()=>{
+    // Clicking DOSSIERS again while on the dossiers grid returns to the
+    // site home, mirroring the Academy tab's re-click behaviour.
+    if (document.body.classList.contains('academy-mode') && A.view==='dossiers' && !A.dossier) {
+      switchView('rand');
+      return;
+    }
+    switchView('dossiers');
+  });
+}
+if(document.readyState!=='loading') initDossiers();
 
 /* Render dispatcher */
 /* ═════════════════════════════════════════════════════════════════
@@ -18010,9 +18056,7 @@ function renderAcademyHome(){
   const dossiersBtn = el('button','acad-btn','DOSSIERS');
   dossiersBtn.title = 'Theme dossiers: compilation, divergence, practice';
   dossiersBtn.onclick = () => {
-    A.view = 'dossiers';
-    A.dossier = null;
-    renderAcademy();
+    switchView('dossiers');
   };
   actions.appendChild(dossiersBtn);
 
@@ -18883,7 +18927,7 @@ if(document.readyState!=='loading') initGallery();
     },
     explorer: function(){ A.view='sourceExplorer'; switchView('academy'); },
     gallery: function(){ switchView('gallery'); },
-    dossiers: function(){ A.view='dossiers'; A.dossier=null; switchView('academy'); },
+    dossiers: function(){ switchView('dossiers'); },
     dossier: function(id){ if(!(((window.fcDossiersData||{}).dossiers)||[]).some(x=>x.id===id)) return false; A.view='dossierDetail'; A.dossier=id; switchView('academy'); return true; },
     resync: function(){ syncRoute(); }
   };
