@@ -10,13 +10,13 @@ The traditions I read agree on the observation that a life is finite and much of
 
 ### Nearby terms
 
-- Death anxiety: the fear of death and its clinical study. My [Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research) card holds it, and my Fear dossier carries the [Epicurean argument against the fear of death](https://clemvillatte.github.io/flourishing-compendium/#card=Epicurean%20argument%20against%20the%20fear%20of%20death) and Ivan Ilyich's dying.
+- Death anxiety: the fear of death and its clinical study. My [Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research) card holds it, and my Fear dossier carries the [Epicurean argument against the fear of death](https://clemvillatte.github.io/flourishing-compendium/#card=Epicurean%20argument%20against%20the%20fear%20of%20death) ([Letter to Menoeceus](https://classics.mit.edu/Epicurus/menoec.html)) and Ivan Ilyich's dying.
 
 - Impermanence: the Buddhist and Daoist fact that everything that arises passes. My [Impermanence](https://clemvillatte.github.io/flourishing-compendium/#card=Impermanence) card holds it as its own theme, wider than death.
 
-- Terror management: the theory of mortality's defensive effects. My Fear page maps the [Terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management) card; I hold the paradigm's replication trouble here.
+- Terror management: the theory that death anxiety buffers itself through worldview and self-esteem investment ([Burke et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20097885/)). My Fear page maps the [Terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management) card; I hold the paradigm's replication trouble here.
 
-- [Memento mori](https://clemvillatte.github.io/flourishing-compendium/#card=Memento%20mori): the remembrance-of-death practice family, held by the practices below.
+- [Memento mori](https://clemvillatte.github.io/flourishing-compendium/#card=Memento%20mori): the remembrance-of-death practice family ([Meditations II.11](https://classics.mit.edu/Antoninus/meditations.2.two.html)), held by the practices below.
 
 ## What the ending does to a life
 
@@ -38,11 +38,11 @@ That analysis makes death the shaper of choice, but it does not settle whether t
 
 > "Immortality, or a state without death, would be meaningless, I shall suggest; so, in a sense, death gives the meaning to life." ([Williams, "The Makropulos Case: Reflections on the Tedium of Immortality"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf))
 
-His diagnosis of her state is boredom, "a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her" (same essay). Thomas Nagel reads the loss from the other side:
+His diagnosis of her state is boredom, "a boredom connected with the fact that everything that could happen and make sense to one particular human being of 42 had already happened to her" ([Williams, "The Makropulos Case"](https://123philosophy.wordpress.com/wp-content/uploads/2019/08/williams-immortality.pdf)). Thomas Nagel reads the loss from the other side:
 
 > "Viewed in this way, death, no matter how inevitable, is an abrupt cancellation of indefinitely extensive possible goods." ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf))
 
-He adds that we can conceive of what it would be for a person "to go on existing indefinitely", and that this possibility "is still that of the continuation of a good for him, if life is the good we take it to be" (same essay). The two positions are not strict opposites: Williams measures a whole unending life against itself, Nagel measures a death against the goods it removes. A death can be a loss, as Nagel says, and an endless life can still be a trap, as Williams says; the claims are compatible. What the comparison genuinely leaves open is the stronger claim that mortality is itself the source of meaning, which Williams argues in a qualified form and Nagel's essay does not argue at all.
+He adds that we can conceive of what it would be for a person "to go on existing indefinitely", and that this possibility "is still that of the continuation of a good for him, if life is the good we take it to be" ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf)). The two positions are not strict opposites: Williams measures a whole unending life against itself, Nagel measures a death against the goods it removes. A death can be a loss, as Nagel says, and an endless life can still be a trap, as Williams says; the claims are compatible. What the comparison genuinely leaves open is the stronger claim that mortality is itself the source of meaning, which Williams argues in a qualified form and Nagel's essay does not argue at all.
 
 ### What the remembrance practices change
 
@@ -66,13 +66,13 @@ A 2022 attempt across 17 labs and 1,550 participants to repeat one classic resul
 
 > "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al., Many Labs 4, Collabra: Psychology 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience))
 
-Death reflection uses a different induction from the abstract reminder: a specific and vivid contemplation of one's own death. In the apartment-fire scenario participants imagined waking on the "20th floor of an old, downtown building" to "sounds of screams and the choking smell of smoke" ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). The two literatures measure different things: conventional mortality-salience manipulations have been shown to produce "increased greed, racism, and ethnocentrism" (Koole, Greenberg and Pyszczynski 2006, as cited in the same article), while "death reflection appears to produce salubrious results, such as increased intrinsic behavior and less greed" (Cozzolino 2006 and Cozzolino et al. 2004, as cited there). On gratitude, the study's own conclusion:
+Death reflection, the construct on my [Death reflection](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20reflection) card, uses a different induction from the abstract reminder: a specific and vivid contemplation of one's own death. In the apartment-fire scenario participants imagined waking on the "20th floor of an old, downtown building" to "sounds of screams and the choking smell of smoke" ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). These studies measured several outcomes: conventional mortality-salience manipulations have been shown to produce "increased greed, racism, and ethnocentrism" (Koole, Greenberg and Pyszczynski 2006, as cited in [the same article](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)), while "death reflection appears to produce salubrious results, such as increased intrinsic behavior and less greed" (Cozzolino 2006 and Cozzolino et al. 2004, as cited there). On gratitude, the study's own conclusion:
 
 > "In conclusion, this study found that when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase." ([Frias et al. 2011, Death and Gratitude](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf))
 
-The pattern of means in that study followed the same order: the death-reflection induction showed the greatest increase in state gratitude, followed by the traditional mortality-salience treatment and the controls (same article). So the gratitude result is not an alternative to the defensive findings; it is a result about a different outcome, and the two records sit side by side here rather than in a contest.
+The pattern of means in that study followed the same order: the death-reflection induction showed the greatest increase in state gratitude, followed by the traditional mortality-salience treatment and the controls ([Frias et al. 2011](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)). So the gratitude result is not an alternative to the defensive findings; it is a result about a different outcome, and the two records sit side by side here rather than in a contest.
 
-Wong's DAP-R rounds out the stances toward death with a measure rather than a practice: fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason — its status as biology, a belief about what follows it, or relief from suffering ([Wong et al., as listed in Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/)).
+The [Death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance) card holds Wong's DAP-R, which rounds out the stances toward death with a measure rather than a practice: fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason — its status as biology, a belief about what follows it, or relief from suffering ([Wong et al., as listed in Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/)).
 
 ### Wisdom as meditation on life
 
@@ -80,7 +80,7 @@ One tradition runs the emphasis the other way. [SP068 — Think least of death; 
 
 > "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." ([Spinoza, Ethics IV P67, Bennett trans.](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
-The demonstration opens by saying that a free man "isn't led by fear of death" but "wants the good directly" (same text). Marcus holds that death is not to be feared and so can be kept in mind as a lever; Spinoza holds that a mind guided by reason has no need to dwell on it. Whether the wise should keep death in view or think of it least is one of the questions below.
+The demonstration opens by saying that a free man "isn't led by fear of death" but "wants the good directly" ([Ethics IV P67 demonstration](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Marcus holds that death is not to be feared and so can be kept in mind as a lever; Spinoza holds that a mind guided by reason has no need to dwell on it. Whether the wise should keep death in view or think of it least is one of the questions below.
 
 ## Where the traditions genuinely disagree
 
@@ -90,11 +90,11 @@ Whether a person's own death can harm that person, given that the person is not 
 
 > "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))
 
-His reason is stated just before: "good and evil imply awareness, and death is the privation of all awareness" (same letter). Nagel replies that the harm is a loss, so it does not need to be felt:
+His reason is stated just before: "good and evil imply awareness, and death is the privation of all awareness" ([Letter to Menoeceus](https://classics.mit.edu/Epicurus/menoec.html)). Nagel replies that the harm is a loss, so it does not need to be felt:
 
 > "If death is an evil at all, it cannot be because of its positive features, but only because of what it deprives us of." ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf))
 
-He also denies that harm requires experience: a man "is the subject of good and evil as much because he has hopes which may or may not be fulfilled, or possibilities which may or may not be realized, as because of his capacity to suffer and enjoy" (same essay).
+He also denies that harm requires experience: a man "is the subject of good and evil as much because he has hopes which may or may not be fulfilled, or possibilities which may or may not be realized, as because of his capacity to suffer and enjoy" ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf)).
 
 Both accept that a dead person feels nothing, and they part on whether feeling is the only place harm can occur. Nagel does not claim a full victory. He grants that the Epicurean's companion argument from Lucretius, that nobody minds the time before birth, still awaits an answer in his essay, and says that answering it needs a general account of how we treat past and future in our own lives.
 
@@ -112,7 +112,7 @@ Spinoza gives the opposite instruction in a proposition about the free man:
 
 > "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." ([Spinoza, Ethics IV P67, Bennett trans.](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
-The proof opens by saying that such a man "isn't led by fear of death" (same text). So they agree that fear should not govern. Marcus holds that death is not to be feared and so can be kept in mind as a lever. Spinoza holds that a mind guided by reason has no need to dwell on it. I hold the first as [Remember that you will die](https://clemvillatte.github.io/flourishing-compendium/#card=S089%20%E2%80%94%20Remember%20that%20you%20will%20die) and the second as [Think least of death](https://clemvillatte.github.io/flourishing-compendium/#card=SP068%20%E2%80%94%20Think%20least%20of%20death%3B%20wisdom%20meditates%20on%20life).
+The proof opens by saying that such a man "isn't led by fear of death" ([Ethics IV P67 demonstration](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). So they agree that fear should not govern. Marcus holds that death is not to be feared and so can be kept in mind as a lever. Spinoza holds that a mind guided by reason has no need to dwell on it. I hold the first as [Remember that you will die](https://clemvillatte.github.io/flourishing-compendium/#card=S089%20%E2%80%94%20Remember%20that%20you%20will%20die) and the second as [Think least of death](https://clemvillatte.github.io/flourishing-compendium/#card=SP068%20%E2%80%94%20Think%20least%20of%20death%3B%20wisdom%20meditates%20on%20life).
 
 A bounded, scheduled reminder fits Marcus, and the rest of the month fits Spinoza; that compromise is my own, and neither author proposes it. I read one proposition from each. Spinoza's claim depends on his account of freedom and the affects, and I have not examined how the Stoics' wider doctrine on emotion shapes Marcus's use of the reminder.
 
@@ -132,8 +132,8 @@ A bounded, scheduled reminder fits Marcus, and the rest of the month fits Spinoz
 
 ## Story: the analysis in narrative form
 
-The analysis has a story form, and it is Heidegger's own.
+The analysis has a story form, and this card is where it lives.
 
 ### Being and Time's ownmost possibility
 
-[ST272 — Being-toward-Death](https://clemvillatte.github.io/flourishing-compendium/#card=ST272%20%E2%80%94%20Being-toward-Death): the famous and infamous section of Being and Time, where death itself is not an event at the end of a life but the ownmost possibility that cannot be outstripped, pulling the rest of a life's possibilities into focus.
+[ST272 — Being-toward-Death](https://clemvillatte.github.io/flourishing-compendium/#card=ST272%20%E2%80%94%20Being-toward-Death): this story card presents Heidegger's analysis of being-toward-death ([SEP, Heidegger](https://plato.stanford.edu/entries/heidegger/)), where death itself is not an event at the end of a life but the ownmost possibility that cannot be outstripped, pulling the rest of a life's possibilities into focus.

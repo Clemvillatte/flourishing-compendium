@@ -367,3 +367,35 @@ Checks after pass 4: dossier_check.py exit 0 (24 card links, 13 headers,
 words; quote verification 22 checked, 17 automatic matches, 5 manual
 exceptions (Burke PubMed, Klein Collabra x2, Williams OCR x2), each
 confirmed by eye this session against an alternative carrier.
+
+## Pass 5 — advisor QC round 3 fixes + fresh verification (2026-10-25 10:47Z, worker-pplx-dossiers-1025bb)
+
+Round-3 local fixes applied:
+1. Restored the two concept links lost in pass 4 (Death reflection card
+   link in the research section; Death acceptance card link on the DAP-R
+   paragraph) — preservation now checked by card target, not aggregate.
+2. FRESH quote verification run on the final text (the pass-4 ledger
+   result was stale): 33 quotes checked, 27 automatic matches, 6 not
+   found, each confirmed by eye this session against an alternative
+   carrier — dhspriory BeingTime07.doc (E054 "ownmost possibility" span;
+   .doc not machine-parseable; verified by eye via fetch), Williams OCR
+   PDF (3 spans: immortality sentence, essay title, boredom fragment),
+   Burke PubMed (E-utilities), Klein Collabra (journal page fetch).
+3. Nearby terms given external supporting carriers (Menoeceus letter for
+   the Epicurean argument; Burke record for the terror-management
+   definition; Meditations II.11 for the memento mori family); "same
+   essay/article/letter/text" references replaced with actual source
+   links throughout.
+4. Story section rewritten per the advisor wording ("this story card
+   presents Heidegger's analysis", SEP carrier attached, "famous and
+   infamous" gloss removed); "The two literatures measure different
+   things" narrowed to "These studies measured several outcomes".
+
+Checks: dossier_check.py exit 0 (26 card links, 13 headers, 35 external
+carriers); density 0 dense; no paragraph over 150 visible words.
+
+DISPOSITION (advisor round-3 ruling): revised, source-checked WIP with
+two substantiated disagreements. Publication remains blocked by the
+third-disagreement requirement or an explicit owner exception, and by the
+supervisor's overlap/registration decision (impermanence-replaces vs own
+slug). Both gates flagged; not waived.
