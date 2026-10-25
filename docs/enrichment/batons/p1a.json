@@ -93,5 +93,7 @@
    "from": "worker-pplx-de55fdba",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:34:25+00:00"
 }
