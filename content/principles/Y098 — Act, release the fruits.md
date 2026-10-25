@@ -12,15 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 98** — Act, release the fruits
 
-Arnold's rendering of the Gita's central verse:
+In Edwin Arnold's verse rendering of the Gita, Krishna tells Arjuna in chapter II:
 
-> "Let right deeds be Thy motive, not the fruit which comes from them. And live in action! Labour! Make thine acts Thy piety, casting all self aside, Contemning gain and merit; equable In good or evil: equability Is Yog, is piety!" ([Bhagavad Gita 2.47-2.48, Arnold translation](https://www.gutenberg.org/ebooks/2388))
+> "Find full reward / Of doing right in right! Let right deeds be / Thy motive, not the fruit which comes from them. / And live in action! Labour! Make thine acts / Thy piety, casting all self aside, / Contemning gain and merit; equable / In good or evil: equability / Is Yog, is piety!" (Arnold, *The Song Celestial*, ch. II, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2388/pg2388.txt))
 
-The instruction is not to abandon outcomes; the same breath says Labour. It is to release the self's lien on them. My application: for your most important current project, define your part, the inputs, the quality, the consistency, and the world's part, the response, the timing, the results, and sign only your part.
+The verse does not tell Arjuna to give up acting, since it says "live in action! Labour!" in the same passage. What it asks him to drop is the fruit as his motive. The next lines add: "Yet, the right act / Is less, far less, than the right-thinking mind" (same chapter).
 
-**Plain words** Work at the thing as if the result mattered, because it does; just do not make the result the thing you are working for. The verse's own test: the motive should be the rightness of the deed, and the fruit that comes from it is another matter.
+My application, which is mine and not the Gita's: for your most important current project, write down your part (the inputs, the quality, the consistency) and the world's part (the response, the timing, the results), and hold yourself to your part.
 
-*For example:* Two candidates prep identically for the exam; one's identity rides on the result, the other's does not. Same marks possible for both, and only one of them is calm whichever way it goes.
+**Plain words** Work at the thing as if the result mattered, because it does, but make the rightness of the deed your reason for doing it. The fruit comes from it, and the verse treats that as a separate matter.
+
+*For example (my illustration, not the Gita's):* Two candidates prepare for the same exam in the same way. One has staked their sense of worth on the result and the other has not. Both could get the same marks, and the second would find it easier to stay steady whichever way it goes.
+
+## Sources
+
+- [Edwin Arnold, *The Song Celestial; or, Bhagavad-Gita* (1885), Project Gutenberg](https://www.gutenberg.org/cache/epub/2388/pg2388.txt): chapter II, the lines quoted above. The page previously linked the ebook landing page and labelled the passage as 2.47-2.48; I have kept to the chapter reference I could see in the text.
+
 ## Psychology parallels
 
 - **[[Process versus outcome focus|Process versus outcome focus]]** (the performance literature)

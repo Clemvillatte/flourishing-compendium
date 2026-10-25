@@ -88,3 +88,6 @@
 
 ## SO034 Treat knowledge as social
 - Peirce 'Fixation of Belief' (Wikisource) opened. The third block quote spliced 'To bring about this effect is the prerogative of the method of science' (a sentence from a later section) onto the 'external permanency' passage, which actually ends 'Such is the method of science.' Fixed; softened two unsupported claims (classic statement of social view; science alone builds community into method). S014: restored Long's 'unto' in Meditations X.5 quote.
+
+## Y098 Act, release the fruits
+- Carrier opened: Arnold, The Song Celestial (Gutenberg 2388 text), chapter II lines verified verbatim (page cited the ebook landing page and '2.47-2.48'); removed 'central verse' overclaim, labelled application and illustration, added the next verse.
