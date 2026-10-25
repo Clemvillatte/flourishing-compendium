@@ -306,7 +306,25 @@ standard.
   engaging Michael Walzer's thin morality, family, state and world in Confucian
   thought, relational equity and a planetary order.
 - Relevant segment: whole lecture, 1:24:14.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading; the route
+  needed three attempts before serving the page, the first two failing
+  with a service error): the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=HRIFwtf4uhE&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: Ames on family feeling
+  (xiao 孝) as a Confucian minimalist morality — family feeling and
+  reciprocal relationships providing a shared moral basis across cultures,
+  connecting family, state and world, contrasted with abstract universal
+  principles and individualism; China's historical and cultural unity;
+  relational equity; reinterpreting Confucian family ideas for modern
+  life; the discussion afterward addressing justice, changing family
+  forms, embodiment and political leadership (Collaborative Learning
+  四海为学 / Si Hai Wei Xue). The coverage basis is upgraded from
+  description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### M04-R08: A Confucian Meditation on Justice (Henry Rosemont Jr., Creighton)
 
@@ -321,7 +339,25 @@ standard.
   focuses mainly on distributive justice, with retributive and restorative justice,
   role-based relationships, human rights and truth and reconciliation commissions.
 - Relevant segment: whole lecture, 57:03.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=5bahLBei5mw&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; the route titles the recording "Henry Rosemont Jr., 11th Annual
+  Semrad Lecture in Non-Western Thought", matching the Creighton host
+  framing) confirms the lecture's substance: a Confucian perspective on
+  procedural, distributive, retributive and restorative justice with a
+  main focus on distributive justice and the tension between individual
+  freedom and social equality; people as relational, role-bearing persons
+  contrasted with the autonomous individual assumed in much Western
+  political thought; truth and reconciliation commissions,
+  punishment-focused retributive justice distinguished from
+  reconciliation-focused restorative justice (CreightonCCAS). The
+  coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M04-R13: Reweaving Relational Worlds (Jacoba Matapo, PESA 2024)
 
@@ -337,7 +373,23 @@ standard.
   regeneration, drawing on Samoan concepts of va (relational space), fanua
   (land/placenta) and Indigenous weaving pedagogies.
 - Relevant segment: whole keynote, 54:02.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading; the route
+  needed three attempts before serving the page, the first two failing
+  with a service error): the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=3T2YGbxFV7A&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the keynote's substance: Pacific Indigenous
+  philosophies, ancestral and ecological relationality, critiques of
+  colonial and human-centered frameworks, and posthuman theory; a
+  Samoan early-childhood research project on infants and toddlers
+  including language, embodied care and the cultural significance of
+  weaving baby mats (Philosophy of Education Society of Australasia).
+  The coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M04-R16: A Conversation with Professor Linda Tuhiwai Smith (Te Tiriti Based Futures)
 
@@ -355,7 +407,21 @@ standard.
   working in institutions, the impact of digitisation and support for young
   academics and activists.
 - Relevant segment: whole conversation, 0:58:29.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=vnAhKeZXmZk&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the conversation's substance: decolonising research
+  including dismantling colonial structures and affirming and revitalising
+  Indigenous knowledge, practices and values; Te Tiriti, Māori activism
+  and protest; anti-racism; working within government and academic
+  institutions; supporting Indigenous researchers and young people;
+  sustaining intergenerational change (Te Tiriti Based Futures & Anti
+  Racism). The coverage basis is upgraded from description-only to
+  third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
 
@@ -453,11 +519,22 @@ standard.
   opening (karakia at 0:00, mihimihi at 4:11) before the talk proper at
   6:38.
 - Relevant segment: talk proper 6:38-53:26 (about 46 minutes).
-- Verification status: verified-partial: identity, access and duration
-  verified; Mika's credentials verified on the opened Canterbury
-  profile page; coverage rests on the uploader description — confirm
-  against the recording before scheduling; dual-figure duration
-  flagged.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified; dual-figure duration flag retained.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=-ILyEN5-6wA&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Mika on Māori philosophy
+  including how Heidegger's concept of being influenced his thinking,
+  whakaaro as ancestral and more-than-human thought, metaphysics and the
+  ideas of interconnection and oneness, and the distinction between
+  rangahau and research (Wānanga TV). The retrieved text corroborates
+  the uploader description's formal-opening note: a karakia and mihimihi
+  precede the talk. The coverage basis is upgraded from description-only
+  to third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried and the dual-figure duration flag retained
+  for the owner.
 
 ### M04-R12: Beyond Autonomy — a Relational Perspective on an Ethics of Care (Elisabeth Conradi, Oxford Institute of Population Ageing)
 

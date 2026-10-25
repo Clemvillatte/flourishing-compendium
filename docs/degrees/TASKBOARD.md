@@ -71,6 +71,19 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 (before the 14:53:26Z save) worker-pplx-degfin-1 (deg-verify-a):
+  deg-wellbeing BATCHED TRANSCRIPT PASS — 10 description-basis cards
+  coverage-confirmed via the third-party transcript route (b6c1c1577,
+  stamp-corrected b6aa42884): six upgraded verified-partial to
+  verified-video with the coverage basis moved into the status line
+  (M08-P03 Seligman AfH, M08-P15 Steger, M08-P09 Ryan, M08-P12 Brown,
+  M08-P13 Waldinger, M08-P10 Masten); four already-verified entries
+  carried fresh independent corroboration (M08-P01, M08-P02, M08-S02,
+  M08-S12). All carry the no-timestamps/no-playback caveats. Earlier
+  same session: QI-01, M01-D11 confirmed; Jelby ENS corroborated on an
+  opened journal PDF; M23 dead videos re-confirmed; Holden candidate
+  partial update (see the entries above).
+
 - 2026-10-25 (before the 14:51:39Z save) worker-pplx-degfin-1 (deg-verify-a):
   three coverage/credential upgrades pushed (5641d6465, 083dbe521): (1) QI-01
   (Fruehauf, Brief History of Qi) coverage CONFIRMED via retried third-party

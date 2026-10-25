@@ -1530,8 +1530,24 @@ against the recording or transcript before the record is attached to a module.
   remarks — indicating a substantial lecture with Q&A rather than a short
   talk; the page still prints no duration, so the duration basis is
   unchanged.
-- Verification status: verified-partial — identity, credentials and
-  content classification supported; duration rests on search-listing
-  metadata, not a direct watch-page read, and playback was not
-  confirmed from this environment; confirm against the recording
-  before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, full retrieval, 2026-10-25; no timestamps; playback not opened); identity and credentials previously verified; duration-basis flag retained below.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): a fresh
+  retrieval of the same third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=n4guVd7bNaU&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) returned a COMPLETE text: what emotions and emotion
+  regulation are; the five points in the emotion-generation process where
+  regulation can occur; the contrast between suppression and rethinking
+  (reappraisal); applying rethinking to temptation and intergroup
+  conflict; effective regulation depending on context and improving
+  with practice (The University of Melbourne). The retrieved text
+  includes the full lecture, audience questions and closing remarks
+  (with some transcription errors), so the earlier truncation no longer
+  bounds the coverage basis. The event's Brotherton-lecture framing is
+  consistent across retrievals. The coverage basis is upgraded from
+  truncated extraction to full third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention. The
+  duration-basis flag (search-listing metadata, not a direct watch-page
+  read; playback not confirmed from this environment) is RETAINED for
+  the owner, with the no-timestamps and no-playback caveats carried.

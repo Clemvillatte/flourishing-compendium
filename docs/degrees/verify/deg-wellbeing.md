@@ -256,6 +256,18 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   the owner may quote the transcript for tighter provenance.
 - Relevant segment: whole lecture, 1:21:58.
 - Verification status: verified-video.
+  COVERAGE CORROBORATED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=5k0TXwL_5u0&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: loneliness as an adaptive
+  signal that can shift the brain toward self-preservation, affecting
+  attention, behaviour, sleep, stress responses, inflammation and social
+  interaction; research linking chronic loneliness with mental and physical
+  health risks including premature mortality; approaches to easing
+  loneliness such as social-cognition training and digital connections
+  supporting in-person relationships (GRCCtv). Consistent with the entry's
+  standing status; no change claimed beyond the fresh corroboration.
 
 ### M08-S01: 2026 Sage-CASBS Award Lecture, Hazel Rose Markus (optional)
 
@@ -291,7 +303,22 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   health, wealth and communication in human groups, manipulating connection,
   contagion and position. Fits mod-wb-3's social networks strand.
 - Relevant segment: whole seminar, 1:01:11.
-- Verification status: verified-video.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=PR21oQpeKZM&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the seminar's substance: how social network structure
+  and position shape behaviour; how traits and behaviours spread through
+  networks; experiments using network connections to affect cooperation,
+  health interventions and collective problem-solving, including
+  friendship-based targeting of public-health interventions, rewiring
+  connections to support cooperation, and strategically placed bots helping
+  groups coordinate; social networks framed as social capital (Yale
+  Institute for Network Science). The coverage basis is upgraded from
+  description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ## Notes for the deg-wellbeing owner
 
@@ -453,7 +480,20 @@ standard.
   States, independent and interdependent selves, mismatch for first-generation
   college students, belonging interventions and institutional support.
 - Relevant segment: whole lecture, 1:22:09.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=DPsvYv9ORK0&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: cultures shaping independent
+  and interdependent ways of being; social class influencing behaviour,
+  values and experience; the mismatch between working-class students'
+  backgrounds and universities' independent-oriented expectations affecting
+  belonging and academic performance; interventions intended to help (Mizzou
+  Visual Productions). The coverage basis is upgraded from description-only
+  to third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### M08-S06: Interesting WEIRD Psychology, The Challenges of Searching for a Human Nature (Steven Heine, CMPR)
 
@@ -470,7 +510,24 @@ standard.
   self-enhancement motivations in North American and East Asian samples, and ways
   to improve cross-cultural research.
 - Relevant segment: whole lecture, 1:16:23.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=OotlTvy1hIk&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; the route titles the recording "2017 Annual Distinguished
+  Lecture in Multicultural Psychology - Steven J. Heine", matching the host
+  framing) confirms the lecture's substance: WEIRD populations (Western,
+  educated, industrialized, rich, democratic) and psychology's reliance on
+  them mistaking culturally specific findings for universal traits;
+  comparisons across societies on fairness, reasoning, self-concepts,
+  punishment and responses to death-related thoughts; self-enhancement and
+  self-criticism across North American and East Asian samples; the case for
+  more cross-cultural research and clearer reporting of sample limits
+  (Consortium for Multicultural Psychology Research). The coverage basis
+  is upgraded from description-only to third-party transcript; status
+  upgraded verified-partial to verified-video per the house convention,
+  with the no-timestamps and no-playback caveats carried.
 
 ### M08-S08: Robust Cultural Pluralism in the New World Order (Richard Shweder, University of Chicago)
 
@@ -488,7 +545,20 @@ standard.
   cultural diversity, drawing on his research on the challenges of cultural
   diversity in Western democracies.
 - Relevant segment: whole lecture, 0:53:09.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=9Lunz9SVIvQ&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: robust cultural pluralism
+  and three predictions for the emerging world order — universalization of
+  Western liberal democracy, culturally distinct nation-states, and a global
+  system accommodating local cultural traditions — with globalization,
+  immigration, ethnonationalism and historical examples including the
+  Ottoman Empire (The University of Chicago). The coverage basis is
+  upgraded from description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### M08-S17: Social Psychology Lecture 2, Situational Construal and Naive Realism (Matthew Lieberman, UCLA Psych 135)
 
@@ -502,7 +572,19 @@ standard.
 - Content coverage: the host's description states the lecture covers situational
   construal and naive realism.
 - Relevant segment: whole lecture, 1:18:39.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=_Jy5bgkHjTw&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: situational construal and
+  naive realism — how social context and expectations shape behaviour and
+  perception — illustrated through the Prisoner's Dilemma, reactions to a
+  Reagan-Mondale debate, Milgram's obedience study and classroom
+  demonstrations (UCLACourses). The coverage basis is upgraded from
+  description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### M08-S18: The Value of Social Capital and Bowling Alone in 2025 (Robert Putnam, Harvard IOP)
 
@@ -521,7 +603,21 @@ standard.
   isolation, class-based isolation, building connections across social classes,
   and the role of technology and community organizations for democracy.
 - Relevant segment: whole conversation, 1:18:50.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=H7MfmA9mBhY&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the conversation's substance: declining social
+  connections, trust, civic participation and community involvement in the
+  United States; political polarization, economic inequality and social
+  isolation; rebuilding connections through cross-class relationships,
+  youth engagement and organizations that are both enjoyable and
+  character-building (Institute of Politics, Harvard Kennedy School). The
+  coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### M08-S22: Misbehaving, The Making of Behavioural Economics (Richard Thaler, LSE)
 
@@ -539,7 +635,20 @@ standard.
   biases in decisions such as purchases and mortgages, and the implications for
   individuals, managers and policymakers.
 - Relevant segment: whole event, 1:27:38.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=Ox7_RQshIsc&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the event's substance: Thaler on Misbehaving and the
+  development of behavioral economics — the field's challenge to standard
+  economic assumptions, the influence of psychology and other disciplines,
+  policy applications such as nudges and disclosure, and resistance to
+  behavioral economics; audience Q&A touching climate policy, voting,
+  cooperation and mental accounting (LSE). The coverage basis is upgraded
+  from description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### M08-S24: Book Talk on Wiser, Getting Beyond Groupthink (Cass Sunstein, Harvard Law School)
 
@@ -554,7 +663,20 @@ standard.
   decisions, including groupthink, group biases and errors, information-sharing
   and group polarization, and ways to structure groups to make better decisions.
 - Relevant segment: whole talk, 1:01:38.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=TzqwSsfoXGY&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: how groups can amplify bias,
+  suppress information, polarize and make poor decisions, and how leaders
+  and better group processes can help groups make wiser decisions; the
+  panelists and audience discuss information gathering, creativity,
+  dissent, group composition and ways to improve group decision-making
+  (Harvard Law School). The coverage basis is upgraded from description-only
+  to third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### M08-S25: #Republic, Divided Democracy in the Age of Social Media (Cass Sunstein, Carnegie Council)
 

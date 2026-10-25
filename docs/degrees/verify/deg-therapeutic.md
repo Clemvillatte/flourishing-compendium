@@ -142,11 +142,26 @@ SRC-M27-004 (duplicate record; directly verified above).
   practical suggestions (shift from problem-solver to guide; give
   advice by connecting first). Corroborated by the ATTC Network page
   for the same lecture (opened 2026-10-25).
-- Verification status: verified-partial — identity, credentials and
-  content classification supported; duration rests on search-listing
-  metadata, not a direct watch-page read, and playback was not
-  confirmed from this environment; confirm against the recording
-  before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, full retrieval, 2026-10-25; no timestamps; playback not opened); identity and credentials previously verified; duration-basis and commercial-uploader flags retained below.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 14:54:27Z clock reading): a fresh
+  retrieval of the same third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=SAntO8nLDMQ&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) returned a COMPLETE text: motivational interviewing as a
+  practical, skillful guiding approach — connection, reflective
+  listening, open questions, recognizing people's strengths and
+  ambivalence, and drawing out their own reasons for change; giving
+  advice with permission; applying the approach in healthcare and other
+  settings (South Africa HIV ATTC). The text begins with the welcome
+  and ends with the speaker's closing thanks, so the earlier truncation
+  no longer bounds the coverage basis. The coverage basis is upgraded
+  from truncated extraction to full third-party transcript; status
+  upgraded verified-partial to verified-video per the house convention.
+  The duration-basis flag (search-listing metadata, not a direct
+  watch-page read) and the commercial-uploader access ruling are
+  RETAINED for the owner, with the no-timestamps and no-playback
+  caveats carried.
 
 ### M16-C01: Meng Wu Lecture — Paul Gilbert, PhD
 
