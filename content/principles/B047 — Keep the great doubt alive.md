@@ -12,21 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 47** — Keep the great doubt alive
 
-Hakuin's famous formulation is not a single line but a tripod: a person who commits to the practice of Zen must be equipped with three essentials — a great root of faith, a great ball of doubt, and a great tenacity of purpose. "Lacking any one of them, he is like a tripod with only two legs" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). The doubt in question is the settled unease of being given a question that cannot be answered, and staying with it long enough for something to give way.
+In the Hakuin selection on Terebess, Hakuin passes on a three-part saying that he credits to an earlier teacher: "Hence a priest of former times said, 'A person who commits himself to the practice of Zen must be equipped with three essentials. A great root of faith. A great ball of doubt. A great tenacity of purpose. Lacking any one of them, he is like a tripod with only two legs.'" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). So the tripod is a teaching Hakuin hands on, and he does not claim it as his own.
 
-Hakuin's key line is more compact than the tripod: "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). This is the point the principle carries: doubt is the mechanism by which the seeing is produced. The question that cannot be answered is the engine, not the problem.
+The same page has him quote another teacher of the past on the point this principle takes up.
 
-> "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully." (Hakuin, Orategama, trans. Philip Yampolsky, The Zen Master Hakuin: Selected Writings, 1971, p. 144, as quoted in [Great Doubt: Practicing Zen in the World](https://terebess.hu/zen/mesterek/greatdoubt.pdf) and [Carl Olson, 1989](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html))
+> "At the bottom of great doubt lies great enlightenment ... From a full measure of doubt comes a full measure of enlightenment." (Hakuin, quoting "a teacher of the past", [Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html))
 
-**Plain words** Corrosive doubt says "this is probably worthless," and produces nothing. Great doubt says "I do not know the answer to this, and I am not going to accept a substitute," and produces the entire practice. The scientist's unease with their own best theory is the mechanism by which the next theory gets found. This is not licence to be perpetually sceptical — it is the instruction to hold one real question seriously, instead of collecting easy answers.
+Other English renderings of the same teaching exist. The book *Great Doubt: Practicing Zen in the World* writes: "Thus it is said, 'At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully'", and introduces it as something Hakuin put clearly ([Great Doubt, Terebess PDF](https://terebess.hu/zen/mesterek/greatdoubt.pdf)). The same wording appears in [Carl Olson's essay](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html), which cites "Olson 9". I did not locate the original page in Yampolsky's translation, so I give the Terebess wording above as the one I read in full.
 
-*For example:* Two students both hit a wall in their practice. One concludes they are doing it wrong and looks for a better technique. The other sits with the question they cannot answer — what is this? — and stays with it past the discomfort. Only one of them is in the territory where the tripod stands.
+**Plain words** Hakuin's tradition treats doubt as something to cultivate, in the sense of one real question held with all your effort. He says of it: "You must keep at it with total, singleminded devotion." That is a very different thing from general scepticism.
+
+*For example (my illustration, not Hakuin's):* A practitioner hits a wall and asks what is wrong with the technique. Hakuin's advice is to stay with the question itself, "What is that which asks such a question?", through eating, drinking tea, speaking and silence.
 
 ## Sources
 
-- [Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)
-- [Great Doubt: Practicing Zen in the World](https://terebess.hu/zen/mesterek/greatdoubt.pdf)
-- [Carl Olson, 1989](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html)
+- [Hakuin Ekaku, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html): the tripod saying, the "full measure of doubt" saying, and the "total, singleminded devotion" line. Hakuin attributes both sayings to earlier teachers. The page previously presented the tripod as Hakuin's own formulation.
+- [Great Doubt: Practicing Zen in the World, Terebess PDF](https://terebess.hu/zen/mesterek/greatdoubt.pdf): the "great awakening / awaken fully" wording.
+- [Carl Olson, "Doubt, Certainty and Value"](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html): secondary use of the same wording.
 
 ## Stories
 

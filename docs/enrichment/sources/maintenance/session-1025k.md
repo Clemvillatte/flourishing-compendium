@@ -75,3 +75,6 @@
 
 ## P005 Organism in transaction with environment
 - Carriers opened: Dewey Experience and Nature (archive.org), SEP John Dewey, Human Nature and Conduct. Old page presented 'the live animal, the organism-plus-environment, is the fundamental unit of analysis' as a Dewey quote linked to SEP; the phrase is not in SEP nor Experience and Nature (searched). Removed; replaced with the verified ch. 1 organism/environment sentence, SEP habit summary labelled as SEP wording, HNC 'constitute the self' sentence.
+
+## B047 Keep the great doubt alive
+- Carriers opened: Terebess Hakuin Selected Writings page, Great Doubt PDF, Olson essay page. Terebess shows Hakuin attributing the tripod saying to 'a priest of former times' and the doubt/enlightenment saying to 'a teacher of the past'; page claimed the tripod as Hakuin's own and gave a Yampolsky p.144 locator I could not verify. Rewritten with verified Terebess wording; alternative 'awaken fully' wording kept as quoted in Great Doubt PDF and Olson. Flag: original Yampolsky page not located.
