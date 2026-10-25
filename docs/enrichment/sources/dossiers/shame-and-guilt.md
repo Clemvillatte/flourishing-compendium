@@ -175,3 +175,49 @@ sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## GF-model rewrite (2026-10-25, worker-pplx-dos29-1025h, dos29 baton)
+
+Restructured docs/enrichment/dossiers/shame-and-guilt.md into the
+owner-validated GF interwoven format per DOSSIER-MODEL.md. The
+previous revision was already partly GF-shaped (question, VSR,
+Story); this pass removed the remaining map heading ("The map: the
+entries on shame and guilt"), rewove the entry-list body into
+question-headed interwoven threads, and expanded the intro to two
+first-person paragraphs.
+
+What was done:
+
+- Body restructured into: What the two feelings are and what they do
+  (difference; action tendencies; aidos and the developing
+  character), Being seen (the look; stigma), The repair of a wrong
+  (teshuva, metanoia, apology research, self-forgiveness, MN 61,
+  Spinoza's dissent; conscience; Nietzsche's correction rule), When
+  the feelings turn on the self (failure mode; show up, do not hide).
+- Disagreement section grown from 1 to 3 questions, each with both
+  sides held: (1) Sartre pre-reflective vs Tangney appraisal (kept
+  from previous revision); (2) NEW: Tangney action tendencies vs de
+  Hooge induced-state experiments (shame -> hiding vs shame ->
+  social approach), turn-on stated (proneness vs induced state), lean
+  labelled as a reading; (3) NEW: Spinoza (shame good insofar as it
+  shows the desire to live honourably) vs Nietzsche (seal of liberty:
+  no longer ashamed of oneself), with Aristotle's aidos stage
+  reading as the lean's support.
+- Card-link set identical to the previous revision (diff of extracted
+  #card= targets; the Compassion-focused therapy link was briefly
+  dropped and restored before push).
+- Prose em dashes removed (zero outside quoted matter and link
+  titles); no new quotes added; all quotes carried over.
+
+Quote verification (this session): dossier_quote_verify.py checked 27
+quotes; 4 NOT FOUND, all blocked-fetch (PubMed/PMC), each confirmed
+by eye against an opened carrier: Tangney et al. 2007 (Lewis 1971
+distinction; full action-tendencies passage; "Oh, look at what a
+horrible thing I have done") confirmed by fetching PMC3083636; de
+Hooge et al. 2018 (both sentences) confirmed against the Tilburg
+University repository record of the article, which quotes the full
+abstract verbatim.
+
+Checks: dossier_check.py exit 0 (39 card links, 25 headers, 26
+external carriers); density 0; voice audit clean; banned-word grep
+clean. Registry status left "planned" for the supervisor.
