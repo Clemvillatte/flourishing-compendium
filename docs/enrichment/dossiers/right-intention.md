@@ -99,13 +99,7 @@ The path itself then moves from resolve to conduct, which is where this page end
 
 ## Related questions and parallels
 
-The passages below are held side by side; whether the traditions disagree about them is an open research question. MN 19 commends renunciation-thinking; the Bhagavad Gita says abstention and renunciation alone do not attain perfection, and directs action without entitlement to its fruits:
-
-> "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection." ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/))
-
-> "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))
-
-These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The three questions below gather further passages held side by side. The first two remain open, their carriers readable either way; the third carries a stated disagreement.
+The questions below gather passages that sit side by side; whether the traditions disagree about them is an open research question. The last two hold the strongest pairings I could substantiate from opened carriers, and both stop short of a stated disagreement; what would settle each is a source on one side affirming what a source on the other denies.
 
 ### Is the resolve an abstention or a cultivation?
 
@@ -134,6 +128,40 @@ Thanissaro, writing on the effort the path requires, marks desire as its working
 > "It's worth noting here the centrality of desire in right effort. As AN 10:58 observes, all phenomena are rooted in desire. This observation applies to skillful as well as to unskillful phenomena. Without skillful desire, it would be impossible to develop the path (SN 51:15)." ([Thanissaro Bhikkhu, Right Mindfulness](https://accesstoinsight.org/lib/authors/thanissaro/rightmindfulness.pdf))
 
 The word desire is doing different work in the two passages. Bodhi's target is the desire that runs toward gratification, which he names a root of suffering; his own chapter on right effort distinguishes the energy behind practice from that pull, writing that the same factor "fuels desire, aggression, violence, and ambition on the one hand, and generosity, self-discipline, kindness, concentration, and understanding on the other" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)). Thanissaro's skillful desire is the wish that moves practice. Read together, the two passages mark the same divide from two sides, craving to be abandoned and skillful wanting to be trained. What neither passage settles is whether the skillful wanting is itself relinquished when the work is done; that question stays open.
+
+### Is a good intention worth anything on its own?
+
+Kant's answer is that the good will is good in itself, whatever it manages to do:
+
+> "A good will is good not because of what it performs or effects, not by its aptness for the attainment of some proposed end, but simply by virtue of the volition; that is, it is good in itself." ([Kant, Fundamental Principles of the Metaphysic of Morals, Abbott translation](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm))
+
+> "Even if it should happen that, owing to special disfavour of fortune, or the niggardly provision of a step-motherly nature, this will should wholly lack power to accomplish its purpose... then, like a jewel, it would still shine by its own light, as a thing which has its whole value in itself." ([Kant, Fundamental Principles of the Metaphysic of Morals, Abbott translation](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm))
+
+The path's texts test a thought by what it does. In MN 19 the Buddha grades each thought as it arises by its fruit:
+
+> "Thinking imbued with sensuality has arisen in me; and that leads to my own affliction or to the affliction of others or to the affliction of both. It obstructs discernment, promotes vexation, & does not lead to Unbinding." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))
+
+> "Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html))
+
+The two passages are held side by side; whether they disagree is open. Kant asks what makes a will worthy of esteem, the sutta asks which thoughts to cultivate on a path, and neither addresses the other; a person could hold both answers without contradiction. What differs is where each looks for an intention's worth: for Kant inside the willing itself, in the sutta in what the thought does.
+
+### Must the holy life mean leaving the household's duties?
+
+MN 36 has the Buddha recall the reflection that started his path:
+
+> "Household life is confining, a dusty path. Life gone forth is the open air. It isn't easy, living in a home, to practice the holy life totally perfect, totally pure, a polished shell. What if I, having shaved off my hair & beard and putting on the ochre robe, were to go forth from the household life into homelessness?" ([MN 36, Thanissaro translation](https://www.dhammatalks.org/suttas/MN/MN36.html))
+
+> "So at a later time, when I was still young, black-haired, endowed with the blessings of youth in the first stage of life, having shaved off my hair & beard—though my parents wished otherwise and were grieving with tears on their faces—I put on the ochre robe and went forth from the home life into homelessness." ([MN 36, Thanissaro translation](https://www.dhammatalks.org/suttas/MN/MN36.html))
+
+The Bhagavad Gita, for its part, tells a warrior who wants to lay down his weapons that abstaining from the allotted work attains nothing:
+
+> "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection." ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/))
+
+> "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/))
+
+The two passages sit on either side of the question whether the holy life requires walking out of the duties a life was born into, and neither addresses the other: one tells of a departure that grieves a household, the other of a refusal to let a warrior abandon his. Whether the traditions disagree turns on a difference of target: the Gita's renunciation is the abandonment of action, the Buddhist going-forth is the abandonment of the home, and each could say the other has misdescribed what it is renouncing. The question left to the reader is whether the duties of a life are obstacles to be left behind or the very material of the practice.
+
+## Where the traditions genuinely disagree
 
 ### Is anger ever fitting?
 

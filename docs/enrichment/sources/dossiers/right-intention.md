@@ -512,3 +512,58 @@ cards' subjects and sources. With batch 1 (ST376, ST352) and the
 cards already verified in other dossiers' checks (ST301, ST066),
 all six of this dossier's story cards have now been read against
 their loglines; all match. No defects found.
+
+## Revision 2 (2026-10-25, supervisor-pplx-1025e under the dos19 baton): the 3-5-bar repair, WIP
+
+STATUS: lane open. The dossier carries ONE substantiated dispute (anger fitting,
+carried over from revision 1) plus two NEW bounded comparisons (below). An earlier
+draft of this revision claimed three substantiated disputes; the advisor QC
+round rejected the Kant-vs-MN 19 and MN 36-vs-Gita pairings as manufactured
+oppositions (neither passage denies the other's claim) and the claim is
+withdrawn here. The two new pairings are retained in the reader path as
+comparisons in "Related questions and parallels", honestly marked open.
+
+Carriers opened this session (verification method recorded per the house rule):
+
+1. Kant, Fundamental Principles of the Metaphysic of Morals, Abbott translation
+   (Gutenberg #5682 HTML): the two quoted fragments confirmed by RAW
+   character-for-character substring match against the fetched HTML text
+   (curl + tag-stripped raw comparison), not prompted extraction. The long
+   first-draft quotation was shortened per the advisor's readability ruling;
+   the retained fragments are verbatim, the elision marked with an ellipsis.
+2. MN 19 (Thanissaro, accesstoinsight): both thought-grading passages
+   confirmed by RAW substring match against the fetched page text this session
+   (curl -L; the bare domain 301-redirects and must be followed).
+3. MN 36 (Thanissaro, dhammatalks.org): the going-forth reflection and the
+   departure sentence confirmed by RAW substring match against the fetched
+   page. NOTE: the accesstoinsight MN 36 excerpt URL is dead (404 on the
+   current domain); the dhammatalks.org carrier is the translator's own site
+   and prints the REVISED translation ("Household life is confining, a dusty
+   path"), which is the wording quoted. The em dashes inside the departure
+   quotation are the carrier's own punctuation (restored after an advisor
+   round flagged their flattening to commas).
+
+Advisor QC: two rounds this session. Round 1 rejected the first draft's
+three-dispute claim (bounded comparisons, not substantiated disputes) and
+flagged the Kant quotation length, the MN 36 punctuation, the ledger's
+premature claims and the workflow narration in the parallels intro; all
+applied before this push. The standing bar guidance from that round: further
+candidates need one source affirming a proposition and another denying it
+under comparable conditions, not merely different emphases.
+
+NEXT WRITER (lane open, 2 more substantiated disputes needed): the strongest
+unmined candidate areas from this session's research, all requiring carriers
+to be opened and the affirm/deny test applied: (a) Bodhi-vs-Thanassaro on
+desire reads today as the same divide from two sides, but a primary text in
+which one teacher rejects the other's position would substantiate it; (b) the
+MN 36-vs-Gita pairing would need a Buddhist primary text denying that duties
+must be performed, or a Gita-primary text denying the worth of going forth;
+(c) the Kant pairing would need a Buddhist primary text affirming that a
+thought's worth is settled apart from its fruit. Do not count these as
+disputes without that primary affirmation.
+
+Also this session: the Ryan & Deci 2000 SDT quote (carried over from revision
+1) was re-verified by hand against the raw PDF (curl + pdftotext, "They found,
+first, that placing strong relative importance on intrinsic aspirations was
+positively associated" verbatim); the checker's NOT FOUND for it is the PDF
+fetch limitation, not a wording problem.
