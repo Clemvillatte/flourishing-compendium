@@ -201,3 +201,6 @@ Matched against [Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg268
 
 ## Audit: quote-divergence sweep (no page changes beyond those logged)
 Compared every double-quoted passage on principle pages against the opened source texts: Gutenberg (216, 2388, 2680, 3800, 6920, 10661, 15877, 45109, 64576 and others), the [Rackham Nicomachean Ethics on Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4) and the [Ross text on MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.mb.txt). Real wording errors found and fixed: SP015, SP082, S029. Everything else differed only in verse line breaks, paragraph numbers, capitals or bracketed Greek. A013 (Rackham, NE IV.1, 1120a) re-matched verbatim.
+
+## Audit: Access to Insight quotes
+Fetched the 60 distinct [Access to Insight](https://www.accesstoinsight.org/) sutta and Dhammapada pages cited on principle pages and compared every double-quoted passage on the 147 pages that link to them. No wording errors: the only differences were bracketed translator notes, verse numbers and a comma. No page changes.
