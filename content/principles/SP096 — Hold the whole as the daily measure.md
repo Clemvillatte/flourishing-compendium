@@ -20,7 +20,7 @@ The Fifth Part explains what the form amounts to. Things are conceived as actual
 
 The page's application, kept distinct from that doctrine: as a reflection exercise, once a day take the most annoying or painful event of the day and ask what larger process it belongs to. The exercise borrows the shape of the two conceptions; it is not Spinoza's account of eternity and claims no guaranteed relief.
 
-**Plain words** Spinoza contrasts locating things in time and place with conceiving them through the necessity of God's nature. Conceiving things under eternity does not mean extending their duration. The page's reflection borrows only the shape: take the day's most annoying event once a day and ask what larger process it belongs to. No relief is guaranteed by the exercise.
+**Plain words** A bad ten minutes feels like the whole day while you are inside it. The exercise is to zoom out on purpose: whatever went wrong today, ask what it was a piece of — a longer effort, a relationship, a slow change in you or someone else. This does not make the bad thing good, and no plan excuses it. The point is that the size of a thing depends on where you stand when you look, and where you stand is something you can pick. Doing it once a day, on the worst moment, is how the wider view turns into a habit you can reach under pressure.
 
 *For example:* The evening question, what one process was this whole day part of? Asking it is the practice.
 ## Psychology parallels
