@@ -26,3 +26,14 @@ Repairs applied (items reopened then re-done):
   this session); "seed line" workflow wording removed from the page.
 - Validation gate fixed: done/save now run only on validator success (no pipeline | tail
   masking, no unconditioned chaining).
+
+## Supervisor correction applied (2026-10-25, supervisor-pplx-1024c)
+
+The Tajik-village Kalon link routed for supervisor correction is
+resolved: the inherited "- Wikipedia Kalon: https://en.wikipedia.org/wiki/Kalon"
+Sources line is REMOVED from the To kalon page — that URL resolves to
+a disambiguation page led by a village in Tajikistan and carries
+nothing about the Greek term, so it pointed readers at nothing; the
+page's working carrier (Kraut, SEP, Aristotle's Ethics) already heads
+the Sources section and every quoted passage on the page cites it.
+enrich_validate on the page: 1 checked, 0 failed (warning pre-existing).

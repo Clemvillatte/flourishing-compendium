@@ -27,6 +27,5 @@ The term carries an aesthetic charge into ethics: "This term indicates that Aris
 ## Sources
 
 - [Kraut, R., "Aristotle's Ethics", Stanford Encyclopedia of Philosophy — the kalon passages with Bekker locators](https://plato.stanford.edu/entries/aristotle-ethics/)
-- Wikipedia Kalon: https://en.wikipedia.org/wiki/Kalon
 
 ## Cited in philosophy parallels
