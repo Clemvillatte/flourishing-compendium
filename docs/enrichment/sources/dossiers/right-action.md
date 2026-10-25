@@ -536,3 +536,40 @@ Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
   the advisor notes the Wang/Socrates section is inherited verified
   prose, not re-opened this session (quotes byte-identical to the
   pass-8 verified text and live-matched by quote_verify).
+
+## Advisor QC round 2 (same session) — repairs and corrections
+
+- LEDGER CORRECTION: the round-1 entry's "sibling-factor links added
+  in body prose" is now moot AND wrong — the current text contains no
+  right-speech/right-livelihood links beyond the previous version's
+  (they were added then removed during density repairs; final link-set
+  comparison vs the pass-8 text: zero missing, zero added).
+- REMOVED unsupported connective claims (8): "The strict virtues are
+  learnable"; "The classical tradition later gathered the table into
+  [cardinal virtues]" (historical derivation, no opened carrier);
+  "the catalogue answers [unity] differently than a rule book would";
+  "The Mahayana answer widens the circle of who the conduct is for";
+  "The design answer follows from the situation answer" -> "The
+  training can also be arranged rather than willed" (framed as
+  editorial, not as a relation the accounts state); the Bandura
+  "sanction is switched off rather than overruled" interpretive gloss;
+  "What the duty is can then be read off the relation itself..."
+  (strengthened sufficiency + manufactured identification); the
+  fidelity paragraph's "which is why the tradition treats...".
+- RETHEADED the three card-summary paragraphs ("Two further
+  traditions...", "clinical practices...", "traditions also ask...")
+  with their own questions: where the training is located / the work
+  at single-act scale when character is not yet formed / who the
+  conduct is for.
+- PRACTICE entries rewritten from the FULL kernel protocols (K250,
+  K255, K263, K266, K184, K152, K290, K216 read in full this
+  session): notice lines are now observation prompts drawn from the
+  cards' own protocol steps, with the cards' own evidence limits kept
+  (K184: laboratory evidence covers sadness and guilt/shame, open for
+  anxiety and anger; K255: loop closes on the weekly reread; K263:
+  review must end in a concrete amendment).
+- HUMANIZER: opening aphorism recast; "by editorial connection" x2
+  and "holds the Analects material" removed (organisational
+  narration).
+- Status reconciliation: batches/dos21.json top-level and nested
+  states both read in_progress until final verification.
