@@ -544,3 +544,8 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K391 Bring raisin mind to one routine activity
 - Read the full page; all three verbatim quotes re-verified against freshly opened carriers: Oxford Mindfulness Centre MBCT-L participant handbook v7 (both quoted passages verbatim) and the Heroic summary carrying the Williams & Penman ch.5 sentence (verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K393 The Habit Releaser
+- Read the full page; the three main quotes re-verified verbatim against the freshly opened fluidself.org book-notes carrier (the "changing chairs" Week One passage, the "creatures of habit" passage, and "Notice how your perspective can change just by changing chairs" all verbatim).
+- Kabat-Zinn foreword fragment: the cited LinkedIn carrier is robots-blocked to fetch; the same reviewer republished the review on his own site (chandana-watagodakumbura.net) and the full foreword sentence ("I particularly like the simple yet radical habit-breaking suggestions... meant to reveal and break open some of our most unaware life patterns of thought and behaviour...") was retrieved verbatim via search-result text of that page and a second independent carrier (nobelcoaching.com carries the same fragment). Carrier link on the page updated to the reviewer's own site; quote text unchanged (verbatim-genuine).
+- Validated: enrich_validate.py exit 0. Recorded done in k1e state.

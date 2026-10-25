@@ -39,7 +39,7 @@ The intended effect:
 > "Notice how your perspective can change just by changing chairs."
 > — [same source](https://fluidself.org/books/self-help/mindfulness)
 
-The later sequel names the same practice for a feeling-tone training, and the foreword of the original praises the "habit-breaking suggestions" in terms the exercise speaks for itself: they are "meant to reveal and break open some of our most unaware life patterns of thought and behaviour" ([Kabat-Zinn's foreword, as carried by a reader's LinkedIn review](https://www.linkedin.com/pulse/boo-review-mindfulness-practical-guide-finding-peace-watagodakumbura)).
+The later sequel names the same practice for a feeling-tone training, and the foreword of the original praises the "habit-breaking suggestions" in terms the exercise speaks for itself: they are "meant to reveal and break open some of our most unaware life patterns of thought and behaviour" ([Kabat-Zinn's foreword, as carried by a reader's review — the reviewer's own site carries the same text](https://chandana-watagodakumbura.net/book-reviews-done-by-chandana/)).
 
 What the sources do not test: the exercise is an attention-freshening device inside the book's eight-week programme; no trial isolates habit releasers as an intervention on their own.
 
