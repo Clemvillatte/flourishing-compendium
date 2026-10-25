@@ -655,3 +655,108 @@ standard.
 - Verification status: verified-partial: identity, access and duration
   verified; coverage rests on the uploader description and must be
   confirmed against the recording before scheduling.
+
+### M08-S07: The Moral Challenge of Robust Cultural Pluralism (LSE)
+
+- Identity and access: oembed confirms the event on the LSE channel
+  (https://www.youtube.com/watch?v=0w_JWOrqrzo); watch page opened
+  2026-10-25.
+- Duration: 1:29:36 (watch page, 2026-10-25).
+- Instructor credentials: Professor Richard A. Shweder, Dr Bradley
+  Franks, Professor Anne Phillips; chaired by Dr Alex Gillespie (per the
+  host description; institutional pages not opened this session).
+- Language: English.
+- Content coverage (host description, read 2026-10-25): whether there
+  are limits to liberal moral concepts for judging others, what highly
+  developed social intelligence looks like, and whether cultural
+  difference can exist without economic inequality.
+- Relevant segment: whole event, 1:29:36.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the host description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S09: Rethinking the Nature of Prejudice (John C. Turner, ANU)
+
+- Identity and access: oembed confirms the lecture on the ANU TV
+  channel (https://www.youtube.com/watch?v=g3pX3msaA64); watch page
+  opened 2026-10-25. Eminent Lecturer Series (2001).
+- Duration: 57:32 (watch page, 2026-10-25).
+- Instructor credentials: Professor John C. Turner, School of
+  Psychology, Australian National University (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the nature
+  of prejudice and the "prejudice view" of social conflict — its
+  development through about 80 years of social psychology research and
+  its main themes/hypotheses; realistic conflict theory, social identity
+  theory and self-categorization as building blocks for an alternative
+  view.
+- Relevant segment: whole lecture, 57:32.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S10: Social Identity and the New Psychology of Mental Health (Alex Haslam, BPS)
+
+- Identity and access: oembed confirms the talk on The British
+  Psychological Society channel
+  (https://www.youtube.com/watch?v=TWWZd8lrraw); watch page opened
+  2026-10-25. 2014 Division of Clinical Psychology annual conference,
+  Glasgow.
+- Duration: 50:21 (watch page, 2026-10-25).
+- Instructor credentials: Professor Alex Haslam (per the host
+  description; university page not opened this session).
+- Language: English.
+- Content coverage (host description, read 2026-10-25): social identity
+  and the new psychology of mental health — no further description of
+  the talk's content is given on the watch page, so coverage rests
+  largely on the title — FLAGGED title-only coverage.
+- Relevant segment: whole talk, 50:21.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage is title-only on the watch page — flagged.
+
+### M08-S11: Impact of Diversity on Intergroup Relations (Miles Hewstone, CASBS)
+
+- Identity and access: oembed confirms the lecture on the CASBS
+  channel (https://www.youtube.com/watch?v=zrP6XPhvGTw); watch page
+  opened 2026-10-25. CASBS Game Changing Idea lecture.
+- Duration: 1:03:19 (watch page, 2026-10-25).
+- Instructor credentials: Miles Hewstone, Professor of Social
+  Psychology, University of Oxford (per the uploader description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a critique
+  of Robert Putnam's findings that living in ethnically diverse areas is
+  associated with distrust of both outgroup and ingroup members;
+  different kinds of contact, the value of cross-group friendships, how
+  and when contact works and the outcomes it affects; a broad approach
+  to conceiving and measuring contact as crucial to understanding the
+  impact of diversity.
+- Relevant segment: whole lecture, 1:03:19.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S14: The Brain, Social Neuroscience, and Loneliness (John T. Cacioppo, UChicago Harper Lecture)
+
+- Identity and access: oembed confirms the lecture on the UChicago
+  Social Sciences channel
+  (https://www.youtube.com/watch?v=saSMWyo_TpY); watch page opened
+  2026-10-25. NOTE: the uploader warns the sound is poor for the first
+  three minutes, improving at 03:34.
+- Duration: 1:19:20 (watch page, 2026-10-25).
+- Instructor credentials: John Cacioppo, Tiffany and Margaret Blake
+  Distinguished Service Professor, University of Chicago, pioneer of
+  social neuroscience (per the uploader description; institutional page
+  not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): how social
+  neuroscience contributes to understanding the brain and how that
+  knowledge might inform responses to contemporary social issues —
+  biological systems affecting social processes and behavior; loneliness
+  (title).
+- Relevant segment: whole lecture from 03:34 (audio quality), 1:19:20.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling; poor audio in the
+  first three minutes noted.
