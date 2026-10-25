@@ -238,3 +238,17 @@ After this session's 23 drafts (s1a-040 through s1a-062), the regenerated zero-s
   (superseded) during reconciliation.
 - The 20 qc_pending-with-page items from the 1024a ROUTE entry remain awaiting the
   reconciliation already routed there.
+
+## Verification pass 2026-10-25 (storyteller-pplx-s1a-1025z, story_check --context published on all 26 s1a-origin pages)
+
+- 24/26 pass. TWO FAILURES routed for supervisor repair (published pages are not
+  teller-writable):
+  1. ST432 (Jim Forest Washes the Dishes, from s1a-026): prose 481 words — one word
+     over the 480 cap. One-word trim fixes it.
+  2. ST184 (Franklin's Little Book, the s1a-028 upgrade body as applied): FAILS the
+     bar on three counts — prose 129 < 150 floor; **Principles:** section reported
+     missing by story_check (the links are present in the body but the page also has
+     no ## Sources section with an http(s) URL, so the verification trail is gone).
+     The applied replacement appears to have dropped the draft's evidence trail.
+     Suggest restoring the ## Sources section from the s1a-028 draft ledger and
+     bringing prose back above 150.
