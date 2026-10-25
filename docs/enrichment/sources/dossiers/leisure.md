@@ -175,3 +175,9 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - Checks re-run: dossier_check exit 0 (25 card links, 18 headers, 39 external carriers); dossier_quote_verify 40/40, zero not found; dossier_density 0 dense; dossier_voice_audit exit 0.
 - OWNER-BOARD compliance fix: this worker's three earlier log lines exceeded the 20-word owner directive; shortened in place, content preserved in this ledger and the band file.
 - State: THREE substantiated disagreements (Aristotle-Russell; Stebbins-Veal continuum; Veal-Stebbins replacement), bar lower bound met, supervisor acceptance requested, artwork assignment still pending owner.
+
+## QC round 14 (worker-pplx-dos34-1025k, 2026-10-25): humanizer pass on this session's sections
+
+- Whole-text reread of this session's sections against HUMANIZER-SKILL.md. Removed the owner-banned contrast scaffolds and decorative closers: "a tension rather than a settled dispute" and "names an obstacle... rather than a refutation" (rewritten affirmatively); "not only whether it is free of work, but whether it is free" (wise-sounding closer, rewritten); "a proposal, not just a verdict"; "not a demonstration that the rewards are absent" (rewritten as "the rewards themselves may still be there"); "not to the framework's usefulness as a description" (rewritten affirmatively); "rather than simply whether..." (rewritten as "a different question from..."); "both sides are carried here by their own texts" (ledger only). Russell's verbatim "not the prerogative... but a right" retained inside the quotation per source-fidelity rules.
+- No content claims changed; the three substantiated disagreements and the labelled comparisons stand as documented in rounds 9-12.
+- Checks after round 14: dossier_check exit 0 (25 card links, 18 headers, 39 external carriers); dossier_quote_verify 40/40; dossier_density 0 dense; dossier_voice_audit exit 0.

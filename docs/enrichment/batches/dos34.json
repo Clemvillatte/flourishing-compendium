@@ -60,6 +60,16 @@
     "SUPERVISOR: acceptance of 3-substantiated count requested",
     "OWNER: artwork assignment still blocks registry flip"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025k",
+   "state": "QC round 14: humanizer pass on this session's sections (contrast scaffolds and decorative closers removed per HUMANIZER-SKILL.md owner directive); no content claims changed; 3 substantiated stand; checks green.",
+   "verification": "all four checks green after edits (exit 0, 40/40 quotes, 0 dense, voice 0)",
+   "flags": [
+    "SUPERVISOR: acceptance of 3-substantiated count still requested",
+    "OWNER: artwork assignment still blocks registry flip"
+   ]
   }
  ],
  "in_progress": "",
