@@ -173,3 +173,9 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 
 - s1c-035 (Mengsun Cai) sampled - all 6 quotes VERBATIM on both carriers. Final session totals for s1c: 35 of 38 ready drafts sampled. Remaining unsampled: 037, 039, 040.
 - Session QC complete across all lanes: s1b 33/33, s1c 35/38, s1d all, s1e all, s1f 10/10. Baton released after this save.
+
+## 2026-10-25 15:26Z — QC session complete (qc-storyteller-pplx-1025x)
+
+- s1c-037 (Zisang/Zi-sang) sampled - all 6 quotes VERBATIM on both carriers. Final session totals for s1c: 36 of 38 ready drafts sampled (only s1c-039, the ST430-overlap disposition item, remains unsampled).
+- Session totals across all lanes: s1b 33/33, s1c 36/38, s1d all (earlier), s1e all, s1f 10/10. Every sampled quote verified VERBATIM except the flagged carriers (see earlier HANDOFF entries). All batons released; all lanes in ready state for registration.
+- Baton released after this save. Session QC work complete.
