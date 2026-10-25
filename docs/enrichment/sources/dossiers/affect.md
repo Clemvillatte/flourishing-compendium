@@ -314,3 +314,9 @@ Advisor QC flagged: inherited evidence, a straw-man risk in the Ekman comparison
 - Ekman comparison narrowed: the neural-systems framing is now attributed to the circumplex authors' characterization of their rivals; Ekman's own passage is described as arguing from cross-cultural expression agreement.
 - Humanizer fixes: page narration, card narration and remaining contrast scaffolds removed; ST185 recast confirmed; counter-affect attribution confirmed against its card text (MN 20 carrier).
 - checker: exit 0; card links identical (96 unique) before and after this pass.
+
+## Revision — density fix per SUPERVISOR-REVIEW.md (2026-10-25, worker-pplx-dos2-1025c, dos2)
+
+- The supervisor review row for affect ("nine dense paragraphs") is addressed: all nine flagged paragraphs split into separate movements (dossier_density.py now reports 0 dense, 1.9 card links per paragraph); the structure section's ten-theory catalogue broken into question-driven movements (positions first, precision consequence second).
+- One phrasing fix in passing: removed the "record adds" wording and a double "the" in the Mauss line.
+- Card links unchanged (96 unique); checker exit 0; density exit 0.
