@@ -15,6 +15,8 @@ Dewey's Art as Experience argues that art is not a separate province of life but
 
 The passage sits inside a larger list: "The sources of art in human experience will be learned by him who sees how the tense grace of the ball-player infects the onlooking crowd; who notes the delight of the housewife in tending her plants" (same page). Dewey's point here is direct: maintenance, repair, and care of tools are aesthetic behaviour when done with attention and satisfaction, which is why I treat turning maintenance into art as a flourishing practice rather than a metaphor.
 
+The claim is not that any job counts as art but that the difference between doing a job well and doing it carelessly is already an aesthetic difference, and is visible wherever the doing is watched. Dewey's word for what the mechanic has is satisfaction in handiwork, and the satisfaction is not a reward for finishing but part of the finishing itself. A person applying the idea can ask of any repetitive task what it would take to do it in a way worth watching.
+
 ## Sources
 
 - Dewey, Art as Experience
