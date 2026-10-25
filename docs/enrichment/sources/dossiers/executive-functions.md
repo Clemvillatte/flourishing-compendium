@@ -4,7 +4,7 @@ Band dos35. Writer: worker-pplx-ef15b6c9-dos35. Session 2026-10-25.
 
 ## Status
 
-CANDIDATE DRAFT, UNPUBLISHED. Registry entry stays "planned"; batch in_progress via enrich_state. Per advisor QC round 5: the draft now documents TWO properly substantiated disputes (ego-depletion findings and test adequacy; self-control practice generalization), each side from opened sources. The controller question ("is there an executive at all?") is an open question, not a substantiated disagreement, and lives in the body (Baddeley homunculus acknowledgment + James + Miyake); the Sona Sutta tuning advice is kept separate from the empirical disputes. Writer's attribution-level reader pass done this session (2026-10-25): every claim checked against its opened passage. CORRECTION per advisor round 6: an intermediate revision of the F&M 2017 sentence used remembered wording ('not strongly related to fluid intelligence'); the saved successful fetch was re-checked and the sentence restored to the abstract's exact wording ('are not the same as general intelligence or g'; 'highly heritable at the latent level'). OUTSTANDING before publication (advisor round 6): a THIRD genuinely substantiated disagreement (two do not meet the owner's three-dispute minimum), the owner's readability gate (dossiers/README.md item 1 and HUMANIZER-SKILL.md), and the project's publication checks. Do not publish on this draft as it stands.
+CANDIDATE DRAFT, UNPUBLISHED — publication decision is the supervisor's (owner reader gate). Registry entry stays "planned". Per advisor QC rounds 5-6 plus the 2026-10-25 third-dispute repair passes, the draft documents THREE substantiated disputes (ego-depletion findings and test adequacy; self-control practice generalization; working memory retain-vs-retire), each side from opened sources. The controller question ("is there an executive at all?") is an open question, not a substantiated disagreement, and lives in the body (Baddeley homunculus acknowledgment + James + Miyake); the Sona Sutta tuning advice is kept separate from the empirical disputes. Writer's attribution-level reader pass done 2026-10-25: every claim checked against its opened passage. An intermediate revision of the F&M 2017 sentence used remembered wording; the saved successful fetch was re-checked and the sentence restored to the abstract's exact wording. QC repair round 2026-10-25 10:35Z (worker-pplx-ef25-launcher, baton dos35): four prose repairs applied per advisor QC (opening reframed away from the resource presupposition and the false James-vs-research rivalry; Miles conclusion narrowed to the study's own generalization wording; ADHD passage trimmed of the unsourced "most often attached" claim and the aphoristic closer; two practice observations made genuinely observational); all checks green (see the session entry at the end of this ledger). REMAINING OUTSTANDING: the owner reader gate — the dossier stays unpublished until the supervisor/owner decides; per the current worker prompt's dossier-band rules the writer does not flip the registry.
 
 ## Final verification sweep (2026-10-25 ~05:11Z, writer's taper pass)
 
@@ -172,7 +172,7 @@ publication-ready; it does not block pushing this scoped repair.
 
 quote_verify went 4 NOT FOUND -> 1. No page wording changed; no new disagreement or interpretive verdict added.
 
-Repaired: the three PubMed-linked ego-depletion quotes (Carter et al. 2015 meta-analysis, PMID 27474142, three links; Oaten and Cheng 2006, PMID 10457761) re-verified today in the NCBI eutils plain-text abstracts; plain-text links added alongside the PubMed citations. pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network.
+Repaired: the three PubMed-linked ego-depletion quotes (Hagger et al. 2016 RRR, PMID 27474142, three links; Muraven, Baumeister & Tice 1999, PMID 10457761 — both paper identities corrected 2026-10-25 10:35Z by worker-pplx-ef25-launcher; an earlier line here misnamed them "Carter et al. 2015" and "Oaten and Cheng 2006", which are different papers; the PMIDs and the quotes they carry were always the Hagger and Muraven ones) re-verified in the NCBI eutils plain-text abstracts; plain-text links added alongside the PubMed citations. pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network.
 
 REMAINING 1 NOT FOUND, flagged: the whiterose.ac.uk "Does Self-Control Improve With Practice" quote ("we found no evidence that training led to any improvements in self-control") is present in the fetched PDF (fetched today, passage read in the extracted text) but the checker's normalised match fails on the PDF's line-break and hyphenation rendering. The sentence appears twice in the manuscript (abstract moderation sentence and the results sentence); the quoted sentence matches the results sentence verbatim in print.
 
@@ -204,3 +204,132 @@ Checks: dossier_check.py exit 0 (16 card links, 20 headers, 37
 external carriers); dossier_density.py 0 dense; dossier_quote_verify.py
 28 checked / 14 not found (13 PMC blocked-fetch + 1 whiterose PDF
 extraction artifact, all documented standing exceptions).
+
+## QC repair round (worker-pplx-ef25-launcher, baton dos35, 2026-10-25 ~10:35Z)
+
+Advisor QC on the publication decision and the text (transcript-level
+review) withheld clearance and supplied four prose repairs; all four
+applied, no new claims added, no quotes touched:
+
+1. Opening reframed: the old text presupposed the resource account
+   ("something is spent in the effort") and framed James and the
+   executive-function research as disagreeing traditions; the
+   disagreement section itself says they are not established rivals.
+   The opening now asks the cost question without presupposing the
+   answer, presents laboratory measurement and James's introspection
+   as different questions from different places, and points at the
+   three genuine model-level disputes the section carries.
+2. Miles conclusion narrowed from "tested at scale and did not hold"
+   (sounds like a direct refutation) to "tested again and did not
+   generalize", which is the study's own conclusion wording (N = 174,
+   six-week program; not a multilab replication).
+3. ADHD passage: the unsourced "the diagnosis most often attached to
+   this suite's failures" claim removed; the interest-based reading
+   stays attributed to DeWitt's capstone; the aphoristic closer
+   ("Supply the spark rather than shame the engine") and the
+   "environmental-design line rather than the exhortation line"
+   contrast scaffold removed; the DeWitt quotation now carries the
+   design implication itself.
+4. Two practice observations made observational instead of
+   presupposing success ("how much of the struggle disappears" became
+   "whether holding the plan takes less effort"; "action does not yet
+   fail; it waits for the attention to return" became "what happens to
+   the resolution while attention is elsewhere, and what happens when
+   attention returns to it").
+
+Ledger corrections recorded in this round: (a) the carrier-repair
+entry's paper identities fixed (PMID 27474142 is Hagger et al. 2016,
+not Carter et al. 2015; PMID 10457761 is Muraven, Baumeister & Tice
+1999, not Oaten and Cheng 2006); (b) the top Status section refreshed
+to the current state (three disputes, checks green, owner reader gate
+outstanding).
+
+Fresh verification of the one remaining quote miss (the Miles 2016
+"we found no evidence that training led to any improvements in
+self-control" span): the White Rose PDF was downloaded and opened
+this session (693,504 bytes, pdftotext extraction). The sentence is
+verbatim in the article body, split across a line break ("...training
+led to / any improvements in self-control"). The automated miss was
+reproduced and precisely diagnosed: the verifier's norm() applies
+re.sub(r'<[^>]+>',' ') to the pdftotext output, and a statistics
+span from "p < .001" (offset 51199) to "ps > .15" (offset 67650)
+swallows the 16,451 characters containing the quote. The earlier
+NOT FOUND display truncating the carrier at "Does%20Self-Control" is
+the print statement's u[:70] slice, not a fetch truncation. The
+exception stands as a checker artifact, quote verified by eye against
+the freshly opened PDF.
+
+Checks after repair (exit codes captured directly, no pipes):
+dossier_check.py exit 0 (16 card links, 20 headers, 37 external
+carriers); dossier_density.py exit 0 (27 paragraphs, 0 dense);
+dossier_quote_verify.py exit 0 (28 checked, 1 not found — the freshly
+re-diagnosed whiterose extraction artifact above);
+dossier_voice_audit.py exit 0.
+
+STATUS: candidate ready for the supervisor's publication decision;
+registry stays "planned" per the worker dossier-band rules (the
+writer does not flip it). The owner reader gate remains the open
+question for the supervisor/owner.
+
+## QC repair round 2 (worker-pplx-ef25-launcher, baton dos35, 2026-10-25 ~10:40Z)
+
+Advisor QC round 2 supplied further corrections; all applied:
+
+1. The Miles paragraph's framing sentence ("The training result has
+   since been tested again and did not generalize") deleted — it
+   still implied a failed retest of the original result. The paragraph
+   now opens directly with the six-week program (N = 174) and Miles
+   and colleagues' reported findings.
+2. Opening: "whether working memory should keep a controller at all"
+   (literal-controller framing) removed with the closing menu; the
+   opening now ends at "Those are different questions, and where the
+   sources genuinely line up against each other, the disagreements
+   are narrower and sharper." The James sentence now reads
+   "Executive-function studies measure performance on control tasks;
+   James describes voluntary effort in terms of attention."
+3. Humanizer repairs: "not a muscle but a correlated family of
+   capacities" -> "a correlated family of capacities"; "not an order
+   from a manager but a grip" -> "a grip"; "not a quantity to
+   maximize but a pitch to tune" -> "a pitch to tune"; the Attention
+   bullet's "not a neighbour of will but its substance" -> "the
+   substance of will itself" and "The attention dossier" -> "My
+   attention page"; "The practice cards in this compendium" -> "My
+   practice cards" (institutional voice); "protect attention by
+   design rather than force" trimmed to "protect attention by
+   design".
+4. DeWitt attribution made explicit: "In his 2020 capstone, DeWitt
+   proposes an interest-based account of ADHD." The unsupported
+   generalization "Within the findings described, the attention
+   measures tracked the stories' novelty rather than breaking down"
+   removed (bounded task result expanded into an explanatory
+   conclusion).
+
+Certification of the revised paraphrases against freshly opened
+carriers (this session): James 1890 ch. XXVI (yorku.ca) — "The
+essential achievement of the will... is to ATTEND to a difficult
+object and hold it fast before the mind" and "Effort of attention is
+thus the essential phenomenon of will" both present verbatim on the
+opened page, supporting "James describes voluntary effort in terms of
+attention". DeWitt 2020 (UPenn repository PDF) — "we could therefore
+describe ADHD as a deficit of interest..." (p. 20) and "The brain of
+an individual with ADHD needs stimulation and interest in order to
+ameliorate some ADHD traits." (p. 18) both present, supporting the
+interest-based-account attribution. PMID identities verified live
+against the NCBI eutils plain-text abstracts this session: PMID
+2747412 [27474142] = "A Multilab Preregistered Replication of the
+Ego-Depletion Effect" (Hagger et al. 2016); PMID 10457761 =
+"Longitudinal improvement of self-regulation through practice:
+building self-control strength through repeated exercise" (Muraven,
+Baumeister & Tice 1999).
+
+Checks after round 2 (exit codes captured directly, no pipes):
+dossier_check.py exit 0 (16 card links, 20 headers, 37 external
+carriers); dossier_density.py exit 0 (27 paragraphs, 0 dense);
+dossier_quote_verify.py exit 0 (28 checked, 1 not found — the
+re-diagnosed whiterose extraction artifact, quote verbatim in the
+opened PDF); dossier_voice_audit.py exit 0.
+
+STATUS: candidate ready for the supervisor's publication decision;
+registry stays "planned" per the worker dossier-band rules. The
+owner reader gate is an INHERITED UNRESOLVED FLAG from earlier dos35
+sessions, not a newly established owner ruling this session.
