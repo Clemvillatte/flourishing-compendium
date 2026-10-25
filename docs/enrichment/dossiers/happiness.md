@@ -34,33 +34,19 @@ The label I use for the Daodejing's teaching on contentment and sufficiency is [
 
 Epictetus's answer to what to do with a life one did not choose is [contentment in station](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20in%20station). Two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies are [maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing), and the idea that having more options can leave people worse off, not better, is the [paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice).
 
-### Why happiness slips: adaptation and forecasting
+### Why happiness slips
 
-[Hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation): the hedonic treadmill: people adapt to both good and bad changes, returning toward a relatively stable baseline of happiness.
+The hedonic treadmill, in which people adapt to both good and bad changes and return toward a relatively stable baseline of happiness, is [hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation). Solomon and Corbit's theory that hedonic states are automatically opposed by mechanisms that reduce their intensity is [Opponent-Process Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Opponent-Process%20Theory).
 
-[Opponent-Process Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Opponent-Process%20Theory): Solomon and Corbit's theory that hedonic states are automatically opposed by mechanisms that reduce their intensity.
+The longitudinal literature on whether people return to baseline happiness after life events is [adaptation research](https://clemvillatte.github.io/flourishing-compendium/#card=Adaptation%20research). Research on how people adjust to major life changes such as marriage, divorce, unemployment, widowhood and disability is [adaptation to life transitions research](https://clemvillatte.github.io/flourishing-compendium/#card=Adaptation%20to%20life%20transitions%20research).
 
-[Adaptation research](https://clemvillatte.github.io/flourishing-compendium/#card=Adaptation%20research): the longitudinal literature on whether people return to baseline happiness after life events.
-
-[Adaptation to life transitions research](https://clemvillatte.github.io/flourishing-compendium/#card=Adaptation%20to%20life%20transitions%20research): research on how people adjust to major life changes such as marriage, divorce, unemployment, widowhood and disability.
-
-[Affective forecasting](https://clemvillatte.github.io/flourishing-compendium/#card=Affective%20forecasting): the prediction of one's own future emotional reactions.
-
-[Fading affect bias](https://clemvillatte.github.io/flourishing-compendium/#card=Fading%20affect%20bias): the finding that negative affect fades faster than positive affect in memory.
-
-[Sustainability of well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains): the question of whether boosts in happiness from intentional effort can outlast the initial lift.
+The prediction of one's own future emotional reactions is [affective forecasting](https://clemvillatte.github.io/flourishing-compendium/#card=Affective%20forecasting). The finding that negative affect fades faster than positive affect in memory is [fading affect bias](https://clemvillatte.github.io/flourishing-compendium/#card=Fading%20affect%20bias), and the question of whether boosts in happiness from intentional effort can outlast the initial lift is [sustainability of well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains).
 
 ### Why aiming at happiness backfires
 
-[The paradox of hedonism](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20hedonism): Sidgwick's finding that pleasure, pursued as a direct target, tends to defeat itself.
+Sidgwick's finding that pleasure, pursued as a direct target, tends to defeat itself, is the [paradox of hedonism](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20hedonism). The claim, in Frankl and before him in Mill, that happiness is not something one can successfully aim at, is [happiness as by-product](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20by-product).
 
-[Happiness as by-product](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20by-product): the claim, in Frankl and before him in Mill, that happiness is not something one can successfully aim at.
-
-[Valuing happiness paradox](https://clemvillatte.github.io/flourishing-compendium/#card=Valuing%20happiness%20paradox): the finding that making happiness one's goal can reduce it.
-
-[The hedonic trap of seeking peak experiences](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hedonic%20trap%20of%20seeking%20peak%20experiences): Mauss and colleagues' 2011 paper on whether wanting happiness too much can undermine it.
-
-[The paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively): the finding that wanting something too much, with happiness as the test case, can cost the very thing wanted.
+The finding that making happiness one's goal can reduce it is the [valuing happiness paradox](https://clemvillatte.github.io/flourishing-compendium/#card=Valuing%20happiness%20paradox). Mauss and colleagues' 2011 paper on whether wanting happiness too much can undermine it is [the hedonic trap of seeking peak experiences](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hedonic%20trap%20of%20seeking%20peak%20experiences), and the finding that wanting something too much, with happiness as the test case, can cost the very thing wanted is the [paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively).
 
 ### What research says helps
 
