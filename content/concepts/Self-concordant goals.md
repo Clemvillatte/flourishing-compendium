@@ -21,7 +21,7 @@ Later evidence adds an origin story, tying the construct to identity. A 2024 lon
 
 ## Facets
 
-- **exploration**
+- **exploration** — "Those who actively engage in self-exploration presently and aspire for further self-exploration tend to show enhanced awareness and valuation of their internal interests and values" (Cao and Ma 2024)
 
 ## Related concepts
 
