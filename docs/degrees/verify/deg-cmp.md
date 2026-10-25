@@ -371,3 +371,24 @@ section-4 verification, and no pilot gate is cleared by it.
   11:02 total runtime does not match the pilot's 5-minute lower rung
   as total runtime. Flagged for the module owner and strategist; the
   verification band does not assign resources.
+
+### Quote-triage follow-up: Epictetus span verified verbatim (deg-verify-b, 2026-10-25)
+
+The remaining flagged span from the deg-verify-a triage above — the
+suffering dossier's Epictetus Enchiridion 5 sentence — is verified
+VERBATIM this session against the dossier's own second citation: the
+George Long 1877 text on Wikisource (opened 2026-10-25 via direct
+HTTP after the fetcher was rate-limited), chapter V prints "Men are
+disturbed not by the things which happen, but by the opinions about
+the things: for example, death is nothing terrible, for if it were,
+it would have seemed so to Socrates; for the opinion about death,
+that it is terrible, is the terrible thing." — an exact character
+match with the dossier's quotation. The primary Scaife Perseus reader
+link (urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:5) remains
+inaccessible from automated environments (robots-blocked for the
+fetcher; an anti-bot challenge page for direct HTTP), so the
+reader-hosted copy itself is still unverified — the wording
+verification rests on the Wikisource Long text, which the dossier
+already cites as the same wording. No dossier file was edited (not
+this baton's write scope); this entry supplies the verification
+evidence for the module/dossier owner.
