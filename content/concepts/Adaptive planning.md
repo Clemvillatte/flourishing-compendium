@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 A plan designed from the outset to be revised as the future unfolds, rather than a fixed schedule of actions followed until it fails.
 
-> "Adaptive planning means that plans are designed from the outset to be adapted over time in response to how the future may actually unfold." (Kwakkel and Haasnoot, ch. 15 in Marchau et al., eds., *Decision Making under Deep Uncertainty*, Springer, 2019, pp. 355–374; [TU Delft repository PDF](https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a))
+> "Adaptive planning means that plans are designed from the outset to be adapted over time in response to how the future may actually unfold." (Kwakkel and Haasnoot, ch. 15 in Marchau et al., eds., *Decision Making under Deep Uncertainty*, Springer, 2019, p. 358; [TU Delft repository PDF](https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a))
 
 ### What it holds
 
@@ -19,18 +19,18 @@ The timing of a change is deliberately left open. "The timing of plan adaptation
 
 ### Where the contrast lives
 
-A specific plan is not automatically bad. In one experiment, participants with a specific plan acted on a goal more often than those holding a broad intention when time was ample. The same specific plan impaired attainment under insufficient time, when recognising and seizing an alternative opportunity was essential, because "participants failed to capitalize on an alternative opportunity for achieving the goal" (Masicampo and Baumeister 2012, abstract; [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)).
+A specific plan is not automatically bad. In one experiment, participants with a specific plan achieved the goal more often than those holding a broad intention when time was unlimited. The same specific plan impaired attainment under insufficient time, when recognising and seizing an alternative opportunity was essential, because "participants failed to capitalize on an alternative opportunity for achieving the goal" (Masicampo and Baumeister 2012, abstract; [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)).
 
 ### Practice
 
-Implement as three layers. First, name the commitment: what part of the plan stays fixed. Second, name the trigger: the observable condition that calls for revision. Third, name the revision: the alternative you would switch to. Without the trigger, adaptive remains an aspiration; without the revision, the trigger fires into a vacuum.
+Implement as three layers: name the commitment (what stays fixed), the trigger (the observable condition that calls for revision) and the revision (the alternative you would switch to). An illustrative application on overt behaviour: suppose you plan to write before work. Choose a condition for reviewing that arrangement, such as repeated interruptions. If it occurs, try a lunchtime or evening slot. Compare how much uninterrupted writing each allows, keep the workable arrangement, and reconsider it when conditions change. This is an illustrative application, not a tested intervention.
 
 ### Sources
 
 - Kwakkel, J. H., & Haasnoot, M., "Supporting DMDU: A Taxonomy of Approaches and Tools," ch. 15 in Marchau, V. A. W. J., Walker, W. E., Bloemen, P. J. T. M., & Popper, S. W., eds., *Decision Making under Deep Uncertainty*, Springer, 2019, pp. 355–374 — [TU Delft repository PDF](https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a)
 - Masicampo, E. J., & Baumeister, R. F., "When making a specific plan for a goal hinders its pursuit," *Social Cognition* 30(4), 2012, pp. 415–424 — [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)
 
-## Cited in psychology parallels
+## Related principles (psychology parallels)
 
 - [[D073 — Don't over-plan — act from presence]]
 - [[CO045 — Cultivate cognitive flexibility — the capacity to switch between modes]]
@@ -38,7 +38,7 @@ Implement as three layers. First, name the commitment: what part of the plan sta
 - [[MO054 — Learn to use self-regulation strategies — manage impulses]]
 - [[D156 — Stay flexible — rigidity is death's companion]]
 
-## Cited in philosophy parallels
+## Related principles (philosophy parallels)
 
 - [[B084 — Use antidotes skillfully]]
 

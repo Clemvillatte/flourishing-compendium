@@ -72,7 +72,7 @@
   "Biophilia": "supervisor disposition (2026-10-23 ~06:57Z, worker-pplx-sup-0b6f3a91): closed on the flag's own record — the note records the fast-track carrier solution itself (Barbiero & Marconato 2016 open-access carrier quoting Wilson's definitions verbatim with locators; seed citation lines preserved; effect phrasing bounded); no open defect remains.",
   "Corsi e ricorsi": "supervisor disposition (2026-10-23 ~06:53Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the §31 quotation now runs through all three ages to its sentence end (no end-truncation); no further action.",
   "Conversational research": "supervisor disposition (2026-10-23 ~06:53Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the Mehl finding is stated in the present tense ('predicts well-being'); no further action.",
-  "Plan-then-adapt strategies outperform rigid plans": "supervisor disposition 2026-10-25 ~02:47Z worker-pplx-w1y-1025f: created replacement concept card Adaptive planning (content/concepts/Adaptive planning.md) grounded in opened sources (Kwakkel & Haasnoot 2019 DMDU ch.15 p.359; Masicampo & Baumeister 2012 abstract; Klein 2007 Flexecution abstract). Old stub left UNTOUCHED pending supervisor/owner decision on retirement or redirect (incoming links D073/ST019/CO045/MO054/B084/CO073/AF019/D156 preserved on both pages); no link migration attempted. New page recorded under w1y new_concepts with evidence trail.",
+  "Plan-then-adapt strategies outperform rigid plans": "Worker-pplx-w1y-1025f created replacement card content/concepts/Adaptive planning.md (recorded under new_concepts; not a supervisor disposition, no authorization recorded). Old stub UNTOUCHED. Link lists on the two pages overlap (D073/CO045/CO073/MO054/D156/B084); ST019 and AF019 remain on the old stub only; no link migration attempted. Supervisor/owner decision required on retiring or redirecting the old stub.",
   "Adaptive planning": "round-3 QC applied: Flexecution removed (crawler-blocked carriers), unsupported flourishing/advice removed, Springer ch.15 opened via TU Delft repository PDF (all 4 quotes verbatim, pp.358-359), Masicampo stated precisely. Open: supervisor review of replacement (old stub disposition, ST019/AF019 relevance, no link migration attempted)."
  },
  "missing_concepts": [],
@@ -82,7 +82,7 @@
  "new_concepts": [
   {
    "title": "Adaptive planning",
-   "seed": "Kwakkel & Haasnoot 2019 DMDU ch.15 p.359; Masicampo & Baumeister 2012 abstract; Klein 2007 Flexecution",
+   "seed": "Kwakkel & Haasnoot 2019 DMDU ch.15 pp.355-374 (TU Delft repository PDF, opened); Masicampo & Baumeister 2012 Social Cognition 30(1) 37-55 (author PDF, opened)",
    "why": "replacement for flagged Plan-then-adapt strategies outperform rigid plans (dos13 flag: title is a normative comparative claim, no carrier). New page grounds the idea in a named, sourced concept."
   }
  ]
