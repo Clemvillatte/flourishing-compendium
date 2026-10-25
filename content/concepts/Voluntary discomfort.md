@@ -15,7 +15,11 @@ Voluntary discomfort is Seneca's Stoic practice of choosing hardship in calm tim
 
 ### Why before the fact
 
-The letter's reasoning is timing: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress". The soldier comparison follows: peacetime drills so that violence, when it comes, meets a prepared defense.
+The letter's reasoning is timing: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress, and it is while Fortune is kind that it should fortify itself against her violence". The soldier comparison follows: peacetime drills so that violence, when it comes, meets a prepared defense.
+
+> "In days of peace the soldier performs manœuvres, throws up earthworks with no enemy in sight, and wearies himself by gratuitous toil, in order that he may be equal to unavoidable toil. If you would not have a man flinch when the crisis comes, train him before it comes." (Seneca, [Moral Letters to Lucilius 18.5, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18))
+
+The letter goes on to name the people who have taken the practice to its end: those who, in imitation of poverty, have every month come almost to want, "that they might never recoil from what they had so often rehearsed" ([Letter 18.5](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)). The claim the practice rests on is not that discomfort is good but that fear of a condition is a belief about it, and the belief can be tested. A person who has already lived for some days on the fare they feared finds the condition is not what the fear said it was, and the finding is what the rehearsed days are for.
 
 ### Here
 
