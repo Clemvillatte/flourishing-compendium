@@ -395,8 +395,27 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   examines academic scholarship and the construction of Daoist authority in China and
   the West, including globalization of Taoism, Western spiritual tourism and Chinese
   Taoist lineages, and the scholar/practitioner position.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=wqYCw3_XE1Q&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain inaudible/uncertain names and
+  Chinese terms) confirms the lecture's substance on the recording: Palmer on the
+  "full circle" of transnational circulation ("a moment in the history of the
+  globalization of Taoism") and the Dream Trippers' China trips (Hua Shan,
+  Louguantai, Michael Winn); Siegler on popular American Taoism (Mantak Chia's
+  Healing Tao, Healing Tao USA, marketing through seminars and DVDs, "American
+  Taoism, with its emphasis on the body, subjective experience, and
+  self-fulfillment"); the diversity of Chinese Taoism ("Taoism in China is extremely
+  diversified.", the Order of Complete Perfection, the Hua Shan lineage); the
+  authority contrast ("all authority is grounded in an institution" versus
+  "grounded in your own self"); Komjathy's scholar/practitioner position ("I
+  visit you today as a Taoist scholar/practitioner, and an ordained Taoist
+  priest"); and the book's dilemma ("taking refuge in a broken lineage and
+  tradition, or a flight into pure subjectivity"). Caveats: third-party transcript
+  page, no timestamps in the retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 1:44:40.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ## Block B optional batch 2 (verified 2026-10-25)
 
