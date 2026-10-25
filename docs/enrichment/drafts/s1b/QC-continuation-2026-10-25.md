@@ -41,3 +41,10 @@ was verbatim all along; lesson: exact-match raw carrier text, never trust a
 prompt-extraction's rendering); 3 duplicate-narrative dispositions routed (s1c-039 vs
 ST430, s1d-010 vs ST466, s1d-008 vs ST433 — the last found in a later sweep); 1
 source bot-walled (s1b-037, ctext).
+
+## Closing verification pass (2026-10-25, same teller)
+
+Re-ran `story_check --context draft` on all 14 drafts touched this session across
+lanes (s1a-031/032/042/043, s1b-034/035/037/038, s1c-039, s1d-006/007/008/009/010):
+all 14 pass with 0 errors after this session's edits (fm reconciliations, the
+reverted-and-corrected s1b-034, the two publication holds, the QC note additions).
