@@ -810,10 +810,15 @@ paths (see the access note).
 - Duration: 1:26:25 (watch page, 2026-10-25). CATALOG-DURATION CONFLICT FLAG:
   the catalog record prints 0:55:55 for this URL; the watch page prints
   1:26:25. The owner should re-read the player before workload arithmetic.
-- Instructor credentials: Anna C. Nobre, Professor of Psychology and
-  Director of the Center for Neurocognition and Behavior at Yale
-  University's Wu Tsai Institute (per the uploader description; an
-  institutional page was not opened this session).
+- Instructor credentials: Anna Christina Nobre, FBA, Brazilian and
+  British cognitive neuroscientist, Wu Tsai Professor at Yale
+  University, honorary member of the Departments of Psychiatry and
+  Experimental Psychology at the University of Oxford (Wikipedia page
+  content retrieved 2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Anna_Nobre; the
+  uploader description's "Professor of Psychology and Director of the
+  Center for Neurocognition and Behavior, Yale Wu Tsai Institute" is
+  consistent with this).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "Focusing
   attention on sensory x memory contents to guide behavior" — the annual
@@ -969,8 +974,9 @@ people.miami.edu; Barrett nubic.northeastern.edu; Swan eureka.edu; Posner
 cas.uoregon.edu; Moffitt psychiatry.duke.edu; Baumeister psychology.uq.edu.au;
 Deci and Ryan selfdeterminationtheory.org; Kahneman nobelprize.org; Stanovich
 magazine.utoronto.ca; LeDoux and Shiller via Wikipedia REST retrieval.
-Anna Nobre's credential (M06-AT06) rests on the
-uploader description — her institutional page was not opened.
+Anna Nobre's credential (M06-AT06) is now verified via Wikipedia REST
+retrieval (2026-10-25) — no Block D credentials remain on a
+uploader-description-only basis.
 
 ## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
 
