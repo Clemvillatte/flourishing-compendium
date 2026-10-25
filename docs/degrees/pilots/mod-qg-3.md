@@ -418,12 +418,12 @@ a graduated capability, prerequisites without observable competencies, and
 a rubric that cannot be self-checked. It also preserves what the original
 design got right: the weekly ladder and the posture photographs.
 
-## Replacement candidate verification (gm-pplx-kern1-1025a, 2026-10-25 14:52Z) — SUPERSKILL STANDARD MET
+## Replacement candidate verification (gm-pplx-kern1-1025a, 2026-10-25 14:52Z) — PARTIAL: identity/content/access/duration verified; instructor credentials NOT yet verified
 
 The public replacement candidate S0ZqKo0KQvA (5 Minute Standing Tree Meditation: Beginner Qigong for Calm, Posture & Grounding, Stillness Studio Sanctuary, duration 0:11:02) is verified to the skill's section-4 standard this pass:
 - Identity: title, channel, and duration confirmed on the watch page and transcript panel; the recording is a guided standing zhan zhuang session, explicitly named as Standing Tree Meditation in the description and transcript.
 - Content: the transcript (read this pass, previously blocked) confirms the session teaches posture (feet shoulder-width, knees softened, arms hugging a tree, spine upright, jaw relaxed, tongue on the roof of the mouth), breathing (slow, noticed not changed), and stillness (no right-or-wrong experience; returning attention to standing) — all of which match the module's posture checkpoints.
 - Access: freely playable, no paywall, no VOD (satisfies the owner's no-paywalled-content ruling and the no-VOD YoQi ruling).
-- Duration: 11:02 on the watch page player — enough for the module's 5-to-10-minute guided slot; the transcript's spoken content runs 5:36 with 10 additional minutes of guided silence.
+- Duration: 11:02 on the watch page player — enough for the module's 5-to-10-minute guided slot; the transcript's spoken content runs 5:36, with the remaining ~5.5 minutes of the 11:02 recording continuing the practice.
 
-This closes the "required guided session" gap that the advisor's round-5 review flagged as the blocking item. The pilot's other round-5 repairs (worked-example arithmetic, self-assessment instrument, photograph-observable checkpoints) are already on file. FLAG FOR THE OWNER: with this verified, the pilot is eligible for the advisor's final round-6 verification and Phase 1 launch of the practicum-qigong pilot.
+PARTIAL VERIFICATION: this closes the "required guided session" gap on identity, content, access, and duration. NOT YET VERIFIED: the instructor's qualifications for Stillness Studio Sanctuary were not checked this pass (no credentials/affiliation evidence opened). The pilot's other round-5 repairs (worked-example arithmetic, self-assessment instrument, photograph-observable checkpoints) are already on file. The advisor's round-6 verification and the owner's Phase 1 launch remain BLOCKED on the instructor-credentials check and on the degrees-lane owner's coordination. Do NOT treat this as cleared.
