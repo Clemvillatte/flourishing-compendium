@@ -949,3 +949,29 @@ checker numbers in the final-verification entry above (64 links)
 describe the pre-takeover snapshot; the takeover's own checks
 (65 links, 21 headers, 16 carriers, 0 dense, quotes 17/0) are the
 current ones. Marker removal verified this pass.
+
+## Full content re-read (2026-10-25 10:38Z, launcher-pplx-dos21-1025n2)
+
+The SUPERVISOR-REVIEW row flagged this dossier for a full content
+re-read (verdict was structural-only). Done this pass, reader-level:
+(1) the K184 kernel carried an embedded process work-note ("dos21:
+right-action final verification — K184 comparison condition
+added...") inside the reader-facing kernel text; removed — the
+passage-level evidence (16 participants with BPD, six laboratory
+sessions, consistent-vs-opposite halves, favouring opposite action
+for sadness and guilt or shame, no advantage for anxiety or anger in
+that design) stays in the kernel prose and the ledger already
+records the card as read in full. (2) 13 blockquote citations ended
+with a double stop (period inside the quote plus a period after the
+citation parenthesis); normalized to the house style used by the
+sibling dossiers (period inside the quote, none after the
+parenthesis). (3) Full read of all sections for voice and structure:
+disputes 1-2 close on honest open questions, dispute 3 carries the
+first-person lean; no AI-sounding tics found; the map sections
+follow the v2 exhaustive-map format. No content changes beyond
+(1)-(2). Gates re-run after the edits: dossier_check OK (65 card
+links, 21 headers, 16 carriers), quote_verify 17 checked 0 not found
+(all quotes live-verified this pass), density 0. Site rebuilt via
+--rebuild=right-action, node --check clean, pushed and verified on
+origin/main (b104c0689). FLAG for the supervisor: the review row can
+now record the content re-read as performed.
