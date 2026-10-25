@@ -50,6 +50,8 @@ The quarterly hour: what did I do this quarter that expressed what I stand for? 
 
 ## Related concepts
 
+
+
 - [[Virtue]] — the flourishing virtue is the road to
 - [[Future time perspective]] — flourishing as the long game the orientation serves
 - [[Boulesis (rational desire)]] — wishing to be happy is the NE III.2 example; choosing the acts is not
@@ -58,7 +60,8 @@ The quarterly hour: what did I do this quarter that expressed what I stand for? 
 - [[Virtue ethics]] — the eudaimonist theory built around this target
 - [[A091]] — the ranking of practical and contemplative lives concerns Aristotle's human good
 - [[A078]] — friendship's place in flourishing, without certifying a universal empirical benefit
-
+- [[K149]] — Values written as directions rather than goals is the ACT form of the eudaimonic question, grounded in the Valued Living Questionnaire.
+- [[Spiritual joy]] — the activity this joy is the felt side of
 ## Sources
 
 - [Britannica, "Eudaimonia"](https://www.britannica.com/topic/eudaimonia) — the definition and both Nicomachean Ethics I.7 passages, quoted above

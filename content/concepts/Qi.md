@@ -35,10 +35,11 @@ The practical idea needs no metaphysics: vitality is partly cultivated. Rest, br
 
 
 ## Related concepts
+
 - [[T012 — Laozi]]: the term's use in the Daodejing, which the page traces.
 
 - [[Feng shui (harmonious environment)]] — feng shui is the Chinese practice of selecting and orienting buildings and graves according to beliefs about qi
-
+- [[Yin and yang]] — qi is the flowing energy the yin-yang polarity organizes
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, Yinyang](https://iep.utm.edu/yinyang/) — section 3, Yinyang as Qi (vital energy)

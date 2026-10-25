@@ -52,11 +52,12 @@ Its Buddhist ancestor is [[Right effort]], effort decided in advance of the mome
 
 ## Related concepts
 
+
 - [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that planning exploits
 - [[Morning intention]] — the day's first if-then, set the night before
 - [[Right intention]] — the Eightfold Path's direction for action, set in advance like the if-then cue
 - [[PP069]] — progress reporting as a companion to planning when to act
-
+- [[The chain of virtue]] — the modern practice of pre-linking acts into sequences
 ## Sources
 
 - [Gollwitzer 2020, "If-then planning" (Taylor & Francis)](https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936) — the definition passage, the medium-to-large effects summary, and Table 1's Gollwitzer and Sheeran (2006) d+ = 0.65, all quoted above

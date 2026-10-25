@@ -39,6 +39,7 @@ Its contemplative cognates are [[Shunyata]] (vastness beyond categories) and the
 
 ## Related concepts
 
+
 - [[Gratitude]] — self-diminishing wonder, another benefit-focused emotion
 - [[Future time perspective]] — the present-expanding experience that widens temporal horizons
 - [[Peak experiences]] — the signature emotion of the peak
@@ -47,6 +48,7 @@ Its contemplative cognates are [[Shunyata]] (vastness beyond categories) and the
 - [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 - [[S124]] — A Stoic exercise in viewing human affairs from above
 - [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation account the concept is built on (with Keltner).
+- [[K328]] — one of the stronger feelings an aesthetic object can trigger is awe at vastness
 ## Sources
 
 - [Keltner, D., & Haidt, J. (2003). Approaching awe, a moral, spiritual, and aesthetic emotion. Cognition and Emotion, 17(2), 297–314](https://docslib.org/doc/10448325/keltner-haidt-awe-2003-pdf) — the two-appraisal analysis quoted above

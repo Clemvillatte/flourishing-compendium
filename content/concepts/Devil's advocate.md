@@ -22,11 +22,12 @@ The name came from the job description. The promoter's "presentation of facts in
 
 ## Related concepts
 
+
 - [[Confirmation bias]] — the one-sided evidence-gathering an institutional opponent counterbalances (my use)
 - [[Steelmanning the opposing view]] — a related modern practice of arguing the other side at its best (editorial comparison)
 - [[Debiasing techniques]] — the family of deliberate countermeasures this role belongs to (editorial comparison)
 - [[Cognitive biases]] — the catalogue of one-sided thinking an institutional opponent helps check (editorial comparison)
-
+- [[K363]] — the evidence-based alternative: authentic dissent beats role-played advocacy
 ## Sources
 
 - Catholic tradition

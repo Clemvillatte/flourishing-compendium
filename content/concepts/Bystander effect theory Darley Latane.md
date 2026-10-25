@@ -33,12 +33,13 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[Moral situations research]] — the research family it belongs to
 - [[Obedience research]] — the neighbouring line of conformity experiments
 - [[Prosocial behaviour]] — the outcome side
 - [[Empathy-altruism hypothesis]] — one account of the motive to help
 - [[Conformity]] — the social-proof line
-
+- [[K290]] — The kernel is a deliberate countermeasure to the inhibition the page documents: scheduling the act so the presence of others cannot decide it.
 ## Sources
 
 - Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377-383.

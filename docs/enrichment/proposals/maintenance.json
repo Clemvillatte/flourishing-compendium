@@ -1,40 +1,7 @@
 {
- "reciprocal": [
-  {
-   "into": "Pragmatism",
-   "link": "Inquiry",
-   "why": "Peirce's definition of inquiry as the struggle from doubt to settled belief anchors the tradition the page introduces"
-  },
-  {
-   "into": "Reflective thinking",
-   "link": "Inquiry",
-   "why": "Dewey's reflective thought is the same activity Peirce defined as inquiry; the two pages define the one practice from its two classic sources"
-  },
-  {
-   "into": "Character strengths (Peterson & Seligman)",
-   "link": "VIA classification",
-   "why": "the signature-strengths exercise is built on the classification the sibling page introduces"
-  },
-  {
-   "into": "Positive psychology",
-   "link": "VIA classification",
-   "why": "the classification is one of the research program's main building blocks"
-  },
-  {
-   "into": "Gratitude",
-   "link": "VIA classification",
-   "why": "gratitude is one of the classification's transcendence strengths"
-  },
-  {
-   "into": "Hope",
-   "link": "VIA classification",
-   "why": "hope is one of the classification's transcendence strengths"
-  },
-  {
-   "into": "Anicca",
-   "link": "Dependent origination",
-   "why": "the twelve links arise and pass; the chain presupposes the impermanence the page describes"
-  }
- ],
- "inline": []
+ "batch": "maintenance",
+ "agent": "supervisor-margauth1839068",
+ "reciprocal": [],
+ "inline": [],
+ "notes": "All records applied and archived to applied/maintenance.json (supervisor integration, 2026-10-25). This placeholder keeps the proposals path present so the tree stays pushable via api_push (which cannot push deletions); a future supervisor with a stable direct-push window may remove it."
 }

@@ -31,7 +31,7 @@ Sharing someone's sadness is not, by itself, the self-oriented response and desi
 For example: a hospice volunteer writing two sentences about a hard visit, one describing the shared grief and one describing what they did out of concern; the exercise is writing both. (An invented illustration.)
 ## Psychology parallels
 
-- **Compassion training increases well-being and reduces empathic distress**, loving-kindness and compassion meditation shift from empathic distress to sustainable concern (Klimecki et al., 2013; Fredrickson et al., 2008)
+- **Compassion training increases well-being and reduces empathic distress**, [[Metta (loving-kindness)|loving-kindness]] and compassion meditation shift from empathic distress to sustainable concern (Klimecki et al., 2013; Fredrickson et al., 2008)
 - **Compassion is associated with better relationship outcomes**, [[Self-compassion|self-compassion]] and other-compassion predict better relationships (Neff & Beretvas, 2013)
 
 ## Philosophy parallels

@@ -19,11 +19,14 @@ The exercise is to hold things the way the traveler holds the raft: fully, while
 
 ## Related concepts
 
+
+
 - [[Non-attachment]] — the Buddhist notion of release from mental fixations
 - [[Impermanence]] — the fact that everything that arises will pass
 - [[Wabi-sabi]] — the Japanese aesthetic of the imperfect and impermanent
 - [[Unresolved-goal interference]] — what stuck goals cost while they stay stuck
-
+- [[Serene acceptance of necessity]] — the letting-go practice the serenity names
+- [[The breakthrough to the ground]] — the raft-level version of the same release
 ## Sources
 
 - Alagaddupama Sutta (MN 22), the raft simile, translated from the Pali by Thanissaro Bhikkhu, AccessToInsight: [accesstoinsight.org/tipitaka/mn/mn.022.than.html](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)

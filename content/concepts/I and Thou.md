@@ -45,10 +45,13 @@ The Confucian cousin is [[Ren]], relation rather than the isolated individual as
 
 ## Related concepts
 
+
+
 - [[Ubuntu]] — personhood comes alive in encounter, per Buber
 - [[Care]] — receiving the other as they are, per Buber
 - [[B100]] — its compassion-versus-pity distinction is compared with Buber's I-Thou versus I-It
-
+- [[K355]] — attending to the bodily exchange, without staging it, parallels the unpossessive meeting Buber describes
+- [[K309]] — attending to the other's whole presence rather than only their words parallels Buber's meeting
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, "Martin Buber"](https://iep.utm.edu/martin-buber/) — the three I-Thou/I-It passages, quoted above

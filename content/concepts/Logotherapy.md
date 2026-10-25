@@ -26,13 +26,14 @@ The treatment page connects to my essays on meaning, suffering, and freedom. It 
 
 ## Related concepts
 
+
 - [[The search for meaning]] — Frankl's account of the same drive, treated from the drive's side
 - [[Meaning-centred therapy]] — the modern clinical descendant
 - [[The meaning of suffering]]
 - [[Flow]] — Csikszentmihalyi's account of engaged absorption
 - [[Existential therapy]] — the broader clinical family
 - [[PERMA model]] — Seligman's later five-element theory of well-being, including meaning
-
+- [[K351]] — the question is the seed form of Frankl's system
 ## Cited in psychology parallels
 
 - [[E066 — Practise the will to meaning]]

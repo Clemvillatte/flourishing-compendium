@@ -21,10 +21,11 @@ Heteronomy is the will going out of itself for its law: "If the will seeks the l
 
 ## Related concepts
 
+
 - [[Autonomy]]
 - [[Value creation]]
 - [[Choice of self]] — the existential version of giving oneself the law
-
+- [[Self-trust]] — the Kantian version of the same authority
 ## Sources
 
 - Kant, I. (1785). Fundamental Principles of the Metaphysic of Morals (Groundwork), T. K. Abbott, trans. ([Project Gutenberg](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm))

@@ -57,6 +57,9 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 
 ## Related concepts
 
+
+
+
 - [[Amor sui (right self-love)]] — self-love of one's own power of acting (cross-tradition comparison)
 - [[Eternal recurrence]] — amor fati's test is the thought experiment of eternal recurrence
 - [[Tragic optimism]] — affirmation under conditions that should extinguish it
@@ -64,7 +67,9 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 - [[Premeditatio malorum]] — the Stoic rehearsal of setbacks; the sober sibling of amor fati
 - [[Will to power]] — the other famous Nietzsche idea of the same period
 - [[K032]] — the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.
-
+- [[K271]] — A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control.
+- [[Serene acceptance of necessity]] — the Stoic discipline of wanting what happens, beside the Nietzschean formula
+- [[Sisyphus]] — the contrast stance: loving the fate rather than outscorning it
 ## Sources
 
 - [Nietzsche, F. (1882/1910). The Joyful Wisdom ("The Gay Science"), §276, trans. Thomas Common. Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt) — the New Year's aphorism quoted above

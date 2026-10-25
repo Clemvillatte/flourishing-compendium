@@ -29,8 +29,11 @@ The damaged arc shows what the intact one does: embodiment situates a life. Merl
 
 ## Related concepts
 
-- [[E020]] — E020 presents Merleau-Ponty's Schneider case and the intentional-arc quotation, connecting this concept's lived-body discussion to Phenomenology of Perception.
 
+
+- [[E020]] — E020 presents Merleau-Ponty's Schneider case and the intentional-arc quotation, connecting this concept's lived-body discussion to Phenomenology of Perception.
+- [[The body-for-others]] — the body-as-object belongs to the wider field of embodiment
+- [[The chiasm]] — Merleau-Ponty's reversibility belongs to the wider field of embodiment
 ## Sources
 
 - Marcel, Being and Having

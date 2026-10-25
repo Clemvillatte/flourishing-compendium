@@ -27,10 +27,11 @@ Kant grounds the idea in autonomy: the legislation that assigns worth to everyth
 - Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations
 - Stoics, Seneca, Letters
 ## Related concepts
+
 - [[T013 — Seneca]]: the Letters citation the page carries.
 
 - [[M034]] — the principle reads dignity as conduct in every station rather than rank, a Mesoamerican entry under the dignity concept
-
+- [[K321]] — the spoken practice that guards dignity
 ## Sources
 
 - [Kant, I., Fundamental Principles of the Metaphysic of Morals (Groundwork), T. K. Abbott translation, Project Gutenberg #5682](https://www.gutenberg.org/ebooks/5682) — the value-versus-dignity passage, autonomy as the basis of dignity

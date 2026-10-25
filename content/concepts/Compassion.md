@@ -42,6 +42,7 @@ Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psych
 
 ## Related concepts
 
+
 - [[Ubuntu]] — compassion listed among the marks of a person with ubuntu (Tutu)
 - [[Care]] — being moved by suffering: care's affective engine
 - [[Four immeasurables]] — the general concept karuna instantiates as the second immeasurable
@@ -52,7 +53,7 @@ Its Buddhist original is [[Karuna]], its Confucian cousin [[Ren]], and its psych
 - [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
 - [[S081]] — A Stoic principle on pity for wrongdoers
 - [[SP020]] — Spinoza's account of pity as a pain that can mislead, and help under the guidance of reason as the alternative
-
+- [[Metta (loving-kindness)]] — loving-kindness and compassion are companion brahmaviharas
 ## Sources
 
 - [Gilbert, P. (2010). An introduction to compassion focused therapy. International Journal of Cognitive Therapy, 3(2), 113–123](https://self-compassion.org/wp-content/uploads/publications/ijct.2010.3.2.pdf) — the two definitional passages quoted above

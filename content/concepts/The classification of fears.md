@@ -35,10 +35,11 @@ The letter is a primary text in one translation. It is an ancient philosophical 
 
 ## Related concepts
 
+
 - [[Ataraxia]] — my page on tranquillity
 - [[Facing the fear]] — the Kierkegaard-rooted entry on facing anxiety
 - [[Courage: action despite fear]] — the virtue that answers them
-
+- [[Taxonomy of mental motions]] — the same sorting impulse applied to fear
 ## Sources
 
 - [Epicurus, Letter to Menoeceus, translated by Robert Drew Hicks, Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html)

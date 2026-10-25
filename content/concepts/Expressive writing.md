@@ -46,6 +46,7 @@ An early meta-analysis reported an effect size of d = .47 at two months' follow-
 
 ## Related concepts
 
+
 - [[Meaning-making]] — the writing task is a meaning-making exercise in miniature
 - [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
 - [[Rumination]] — the circling mode of self-focus that unstructured writing about distress can slide into
@@ -54,7 +55,7 @@ An early meta-analysis reported an effect size of d = .47 at two months' follow-
 - [[Narrative therapy]] — the therapy tradition that works by retelling
 - [[Decentering]] — describing one's own experience from the outside
 - [[Self-distancing]] — the observer stance a written account can invite
-
+- [[K142]] — the reconstruction borrows the writing evidence base, honestly small
 ## Sources
 
 - [Pennebaker (1997), p. 162 instruction, as quoted in Penn State Psych 425, "Expressive Writing"](https://psu.pb.unizin.org/psych425/chapter/expressive-writing-one-type-of-confrontation/) — the paradigm instruction, session structure

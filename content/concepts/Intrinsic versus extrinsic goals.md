@@ -32,12 +32,13 @@ Three explanations for the negative correlation are discussed in the 1996 paper 
 
 ## Related concepts
 
+
 - [[Aspiration index]] — the measure the 1996 program built; my page carries the earlier 1993 study
 - [[Extrinsic aspirations]] — the wealth, fame and image side of the distinction, with the 2002 follow-up
 - [[Materialism]] — the values-level cousin of the extrinsic-goal finding
 - [[Self-determination]] — the needs theory the distinction lives inside; my page links the same 2000 synthesis
 - [[Self-concordance theory]] — the parallel distinction between goal content and goal pursuit
-
+- [[K281]] — the inventory's third question turns on the distinction
 ## Sources
 
 - [Kasser and Ryan, 1996](https://selfdeterminationtheory.org/SDT/documents/1996_KasserRyan_AmericanDream.pdf)

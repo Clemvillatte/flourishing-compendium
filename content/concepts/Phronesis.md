@@ -32,6 +32,14 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 
 
 
+
+
+
+
+
+
+
+
 - [[Virtue]] — Aristotle's name for the deliberative excellence virtue needs
 - [[Moral situation research]] — the experimental challenge that phronesis must answer
 - [[Moral identity]] — the practical wisdom that guides the moral self
@@ -42,7 +50,14 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 - [[A091]] — practical wisdom distinguished from theoretical contemplation (the phronesis-sophia contrast)
 - [[A037]] — the VI.12–13 contrast makes practical wisdom more than efficient means
 - [[T052 — MacIntyre, Alasdair]] — later uses of phronesis, beside the Aristotelian Phronesis Model
-
+- [[K358]] — The kernel is practical wisdom applied to institutional decisions: listing affected groups and judging impacts from their point of view before acting.
+- [[K359]] — The kernel is practical wisdom in institutional judgment: reading an organization's character from its actions before deciding what to do within it.
+- [[K283]] — The kernel operationalises phronesis in one of its hardest cases, two roles making incompatible demands, with Aristotle's own definition quoted.
+- [[K361]] — The page places practical wisdom inside institutions, where the second loop question, whether the assumption under the decision is wrong, is a phronesis judgment.
+- [[K262]] — The page gives phronesis a pre-commitment procedure: assumptions named, downside handled, scored afterward.
+- [[K282]] — The page anchors the sorting judgment, which requirements bend and which hold, with Cicero's four personae as the explicit frame.
+- [[K261]] — The page connects the measured wise-reasoning gains from self-distancing to the classical virtue, with Solomon's paradox quoted.
+- [[K284]] — The page anchors the situational judgment, naming the one requirement that matters here, with Epictetus and the Analects as its two independent grounds.
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the Book VI young-man passage quoted verbatim

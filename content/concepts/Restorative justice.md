@@ -34,10 +34,11 @@ The direct forms vary in scope: "Another 'direct' form of restorative justice is
 
 ## Related concepts
 
+
 - [[Justice]] — the parent concept
 - [[Corrective justice]] — the narrower legal version
 - [[Forgiveness]]
-
+- [[K337]] — restorative processes turn on surfacing the needs beneath the positions in conflict
 ## Sources
 
 - [Lawrence W. Sherman & Heather Strang 2007, Restorative Justice: The Evidence, Smith Institute (IIRP full PDF)](https://www.iirp.edu/images/pdf/RJ_full_report.pdf) — the abstract bullet list, quoted verbatim

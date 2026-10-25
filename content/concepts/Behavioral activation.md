@@ -50,6 +50,7 @@ The Buddhist ancestor is [[Right effort]], the four efforts as action-first trea
 
 ## Related concepts
 
+
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — my activation concept for depression
 - [[Avoidance versus attentional engagement]] — the withdrawal-maintains-depression finding is BA's core account
 - [[Graded task assignment (Beck, BA)]] — the parent treatment the technique serves
@@ -59,7 +60,7 @@ The Buddhist ancestor is [[Right effort]], the four efforts as action-first trea
 - [[Pleasant activities scheduling (Lewinsohn)]] — Lewinsohn's activity scheduling is the earliest form of the activation treatment for depression
 - [[Treatment kernels]] — a classic kernel, now understood process-wise
 - [[Process-based therapy]] — the framework that reads activation as a process method
-
+- [[K174]] — the practice page for this concept
 ## Sources
 
 - [Ekers, D., et al. (2019). Behavioural activation therapies for depression in adults. Cochrane Database of Systematic Reviews (protocol)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6461437/) — the 1990 term history and the Jacobson component-analysis finding, both quoted above

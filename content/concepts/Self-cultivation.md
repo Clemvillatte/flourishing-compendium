@@ -23,11 +23,14 @@ The Confucian term of art for this practice is covered at [[Moral cultivation (x
 
 ## Related concepts
 
+
+
 - [[Moral cultivation (xiushen)]]
 - [[The care of the self]]
 - [[Technologies of the self]]
 - [[Habituation]]
-
+- [[The Axial Age]] — the Confucian program of self-work is one of the age's developments this page inventories
+- [[The chain of virtue]] — the Confucian program of the same act-habit-character sequence
 ## Sources
 
 - The Great Learning (Daxue), J. Legge, trans. ([sacred-texts](https://sacred-texts.com/cfu/conf2.htm))

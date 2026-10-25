@@ -28,6 +28,8 @@ My embodiment principles state the programme directly. CO005, "Understand that t
 ## Related concepts
 
 
+
+
 - [[Enactivism]] — the strand that grounds cognition in sensorimotor activity
 - [[Conceptual metaphor theory Lakoff Johnson]] — the linguistic arm of Conceptualization
 - [[Affordances]] — Gibson's term for what the environment offers the moving body
@@ -35,6 +37,8 @@ My embodiment principles state the programme directly. CO005, "Understand that t
 - [[Distributed cognition / extended mind]] — the version that extends past the body into the world
 - [[Body scan in MBSR (Kabat-Zinn)]] — the contemplative practice built on body-first attention
 - [[Mind in life]] — the cognitive science the life-mind thesis joins
+- [[K355]] — the synchrony findings are one of the social branches of the embodied research programme
+- [[K309]] — the synchrony findings are a social branch of the embodied research programme
 ## Other formulations in this library
 
 - posture influences affect and confidence (Nair et al., 2015)

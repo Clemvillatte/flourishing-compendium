@@ -24,13 +24,14 @@ The theory matters to this compendium because it names the growth the essays ass
 
 ## Related concepts
 
+
 - [[Ego integrity (Erikson)]] — Erikson's late-life stage
 - [[Ego psychology]] — the Freudian lineage
 - [[Ego strength]]
 - [[Ego depletion]]
 - [[Self-verification theory (Swann)]]
 - [[Wisdom theory Berlin paradigm]] — a related account of mature judgment
-
+- [[The Seven Levels of the nafs]] — the modern developmental map of the self
 ## Cited in psychology parallels
 
 - [[PP001 — Distinguish hedonic from eudaimonic well-being]]

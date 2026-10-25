@@ -23,9 +23,10 @@ Each emotion and its wisdom are one mental activity seen two ways: "This deep aw
 
 ## Related concepts
 
+
 - [[The three poisons]] — the five poisons condense into the root three, with pride and jealousy counted as combinations ([Rigpa Wiki](https://www.rigpawiki.org/index.php?title=Five_poisons))
 - [[Wisdom]] — the fruit the poisons become
-
+- [[Self-transformation over information]] — the Buddhist version of afflictions as material for the path, beside Hadot's philosophy as transformation
 ## Sources
 
 - [Beru Khyentse Rinpoche, commentary on chapter 4 of Longchenpa's "A Precious Garland of the Four Themes of Gampopa" (Study Buddhism)](https://studybuddhism.com/en/advanced-studies/vajrayana/dzogchen-advanced/commentary-on-chapter-4-of-longchenpa-s-dzogchen-text-beru-khyentse-rinpoche) — the five-poisons-to-five-wisdoms mapping, the purified/unpurified facet teaching, and the antidote/transform/self-release grading

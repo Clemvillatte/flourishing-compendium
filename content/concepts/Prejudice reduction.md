@@ -20,11 +20,12 @@ My [[P135 — Practice tolerance without indifference]] and [[SO046 — Guard ag
 ## Related concepts
 
 
+
 - [[P135 — Practice tolerance without indifference]]: my principle this research grounds
 - [[SO046 — Guard against in-group bias]]: the failure mode the contact has to overcome
 - [[Multicultural identity theory]]: the identity-side account of what happens when groups meet
 - [[Mutual recognition]]: the Hegelian frame for what contact makes possible
-
+- [[K291]] — The scan is a decision-level prejudice reduction practice: structuring criteria before the field is known.
 ## Sources
 - Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. Journal of Personality and Social Psychology, 90(5), 751–783. (PubMed: https://pubmed.ncbi.nlm.nih.gov/16737372/)
 - Pettigrew, T. F., & Tropp, L. R. (2008). How does intergroup contact reduce prejudice? EJSP, 38(6), 922–934.

@@ -30,10 +30,11 @@ The advantage is not owning knowledge but a disposition toward it: not thinking 
 - [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — the fallibility principle in the same register
 
 ## Related concepts
+
 - [[T011 — Socrates]]: the Delphic oracle's aftermath in the Apology: knowing that you do not know.
 
 - [[Wisdom]] — the broader virtue Socrates models
-
+- [[The Axial Age]] — the Greek side of the axial turn this page dates
 ## Sources
 
 - Plato, Apology

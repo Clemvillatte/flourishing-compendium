@@ -25,9 +25,10 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construal dimension the theory runs on
 - [[Politeness Theory]] — the other face-centered communication theory here
-
+- [[Silence in negotiation research]] — another entry in the compendium's negotiation set
 ## Sources
 
 - Ting-Toomey

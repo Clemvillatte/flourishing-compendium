@@ -4,63 +4,8 @@
    "into": "Broaden-and-build",
    "link": "Metta (loving-kindness)",
    "why": "loving-kindness meditation is the practice whose daily positive emotions the theory's build hypothesis was tested on"
-  },
-  {
-   "into": "Compassion",
-   "link": "Metta (loving-kindness)",
-   "why": "loving-kindness and compassion are companion brahmaviharas"
-  },
-  {
-   "into": "Amor sui (right self-love)",
-   "link": "Metta (loving-kindness)",
-   "why": "right self-love and metta make a parallel turn of goodwill toward oneself, a comparison rather than an equivalence"
-  },
-  {
-   "into": "Growth through practice",
-   "link": "Metta (loving-kindness)",
-   "why": "metta-bhavana is the cultivation of goodwill through practice"
-  },
-  {
-   "into": "Qi",
-   "link": "Yin and yang",
-   "why": "qi is the flowing energy the yin-yang polarity organizes"
-  },
-  {
-   "into": "Dao",
-   "link": "Yin and yang",
-   "why": "the Dao's movements are what the yin-yang pairing maps"
-  },
-  {
-   "into": "Wu wei",
-   "link": "Yin and yang",
-   "why": "wu wei is action with the grain the yin-yang balance describes"
-  },
-  {
-   "into": "Ziran (naturalness)",
-   "link": "Yin and yang",
-   "why": "the pairing's balance keeps each thing uncompelled, which is ziran"
-  },
-  {
-   "into": "The craving-to-addiction model",
-   "link": "Tanha",
-   "why": "the model explains how a want hardens into the compulsion tanha names"
-  },
-  {
-   "into": "The narrative self",
-   "link": "Skandha",
-   "why": "both are deconstructive accounts of the person: streams without a pilot, stories without an author"
-  },
-  {
-   "into": "Voluntary simplicity",
-   "link": "Simplicity",
-   "why": "the general attentional argument for choosing less, beside the Thoreau-centred tradition"
   }
  ],
- "inline": [
-  {
-   "into": "AF065",
-   "concept": "Metta (loving-kindness)",
-   "phrase": "loving-kindness"
-  }
- ]
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 1 recip, 0 inline"
 }

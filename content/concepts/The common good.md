@@ -29,12 +29,22 @@ Sandel's civic version belongs to the joint-activity family: he "described the c
 ## Related concepts
 
 
+
+
+
+
+
 - [[Ubuntu]] — consensus and collective responsibility are ubuntu's political face
 - [[Deliberative democracy]] — the process conception of the common good in politics
 - [[K365 — Public reasoning]] — the reasoning-about-the-common kernel
 - [[Communitarianism]] — the contemporary philosophy of the communal conception
 - [[Civic republicanism]] — the tradition that keeps the citizen at the center
 - [[The theoretical life]] — the political life the chapter ranks second
+- [[K358]] — The scan widens institutional decision frames from efficiency or profit alone toward the good of the whole, with Freeman's stakeholder definition applied as routine.
+- [[K290]] — The drill is the smallest unit of acting for the whole: one named act against an unfairness others are silently accepting.
+- [[K362]] — The drill's monthly acts are aimed at shared rather than private benefit, the practical arm of acting for the common good.
+- [[K364]] — The page gives the concept a practice: the monthly visit that ranks the world city's goods alongside one's own group's.
+- [[K287]] — The audit asks whose good an allocation serves, grounded in Rawls's justice as the first virtue of social institutions and Tyler's four procedural principles, both quoted verbatim.
 ## Sources
 
 - Aristotle, Politics

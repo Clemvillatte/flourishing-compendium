@@ -28,6 +28,8 @@ That third channel rests on the book's most quoted claim: "everything can be tak
 ## Related concepts
 
 
+
+
 - [[Life story model]] — the existential project the life story serves
 - [[The will to meaning]] — the drive stated as its own concept
 - [[Meaning-making]] — the research tradition that operationalized the search
@@ -35,6 +37,8 @@ That third channel rests on the book's most quoted claim: "everything can be tak
 - [[Post-traumatic growth]] — the growth the attitude-toward-suffering channel can produce
 - [[MO061]] — A principle drawing on Frankl's account of meaning as motivation
 - [[Logotherapy]] — Frankl's school, the framework behind this idea
+- [[K231]] — The kernel is Rilke's instruction turned into a habit: holding the question of what life is for as an ongoing, lived inquiry.
+- [[K313]] — The page anchors purpose-in-life, the measurable face of the search, with Ryff's verbatim definition.
 ## Sources
 
 - Frankl, Man's Search for Meaning

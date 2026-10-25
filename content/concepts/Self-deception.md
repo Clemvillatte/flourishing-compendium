@@ -19,10 +19,11 @@ My practice page for this pattern is [[E033 — Practise avoiding bad faith (mau
 
 ## Related concepts
 
+
 - [[Bad faith]]
 - [[Cognitive dissonance]]
 - [[Akrasia]]
-
+- [[Seriousness (le sérieux)]] — the upkeep the serious man's mask requires is self-deception's work
 ## Sources
 
 - Sartre, J.-P. (1943). Being and Nothingness, Part One, Chapter Two ("Bad Faith"), quoted in a [University at Buffalo course handout](https://www.acsu.buffalo.edu/~degray/CP05/Sartre%20-%20Nothingness-Bad-Faith.pdf) (the handout mixes quotation, paraphrase and commentary; the page quotes only its clean Sartre sentences)

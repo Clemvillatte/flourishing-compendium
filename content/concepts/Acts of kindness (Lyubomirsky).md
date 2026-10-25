@@ -31,10 +31,12 @@ The review's own discussion lists restrictions. Most of the reviewed studies wer
 ## Related concepts
 
 
+
 - [[Positive activity interventions]] — the class of well-being practices the acts-of-kindness exercise belongs to
 - [[Prosocial spending]] — spending money on others, a kind act studied in its own right
 - [[Altruism]] — the broader category of other-benefiting behavior
 - [[Prosocial behaviour]] — kindness acts are the daily-activities variant of the same behaviour
+- [[K213]] — the sibling practice of kind acts without money changing hands; the two literatures run parallel
 ## Sources
 
 - Lyubomirsky et al., 2005

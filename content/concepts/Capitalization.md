@@ -30,8 +30,9 @@ The same abstract gives the response's role:
 
 ## Related concepts
 
-- [[Active constructive responding]] — the concept page lists this topic among its Related entries; this link returns it.
 
+- [[Active constructive responding]] — the concept page lists this topic among its Related entries; this link returns it.
+- [[K357]] — the talking practice that points the same direction as silent co-attendance
 ## Sources
 
 - [Gable SL, Reis HT, Impett EA, Asher ER (2004). What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events. Journal of Personality and Social Psychology, 87(2):228-245](https://pubmed.ncbi.nlm.nih.gov/15301629/) — the four-study paper.

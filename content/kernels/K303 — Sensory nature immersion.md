@@ -39,10 +39,11 @@ What the research does not cover: the rumination result comes from one controlle
 
 ## Related concepts
 
+
 - [[Attention restoration]] — the theory behind the practice
 - [[Restorative environments]] — what the practice borrows
 - [[Rumination]] — the pattern the walk quiets
-
+- [[K205]] — immersion in natural settings through the senses is nature exposure taken slowly
 ## Related kernels
 
 1. [[K107 — Soft fascination|K107 Soft fascination]] — the attention pattern itself, as a practice

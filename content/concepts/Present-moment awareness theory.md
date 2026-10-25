@@ -41,11 +41,13 @@ The theory's scope is honest about what the evidence does and does not show. The
 
 
 
+
 - [[Mind wandering]] — the departure state: thought running elsewhere than the current activity
 - [[Mindfulness]] — the practice tradition behind the theory
 - [[Meta-awareness]] — the noticing that catches the departure
 - [[X017]] — a religious practice of returning attention through remembrance
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies present-moment work as an attentional-dimension process
+- [[Acceptance and Commitment Therapy]] — ACT names contact with the present moment as one of its six core processes; the present-moment page should point back to the model that operationalizes it.
 ## Sources
 
 - [Killingsworth & Gilbert, "A wandering mind is an unhappy mind", Science 330(6006), 932 (2010)](https://pubmed.ncbi.nlm.nih.gov/21071660/) — abstract; quoted fragment verified against this record

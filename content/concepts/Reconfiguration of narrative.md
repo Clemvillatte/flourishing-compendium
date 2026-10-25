@@ -21,10 +21,11 @@ The trilogy's arc runs from Augustine's puzzle about time to [[T002 — Aristotl
 
 ## Related concepts
 
+
 - [[E083 — Practise narrative identity]] — the identity work Ricoeur built on this thesis in Oneself as Another
 - [[K142 — Narrative reconstruction]] — the kernel on reworking the life story
 - [[CO061 — Recognise the role of narrative in identity — your life story shapes who you are]] — the principle carrying the narrative-identity insight
-
+- [[K142]] — the practice page for the concept
 ## Sources
 
 - Ricoeur, Time and Narrative

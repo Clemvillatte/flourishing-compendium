@@ -55,12 +55,13 @@ A person in a difficult conversation can say one silent internal sentence, "that
 
 ## Related concepts
 
+
 - [[Emotion regulation]] — an attentional strategy within this taxonomy
 - [[Distrust names and labels]] — where the label-as-name-not-verdict distinction is drawn out
 - [[Appraisal theory]] — the account of how words reach feeling
 - [[Rumination]] — the circling that naming interrupts
 - [[BE037]] — my principle on sleep as a foundation of mental health
-
+- [[K305]] — naming before interpreting is the empirical cousin of the bracket
 ## Sources
 
 - [Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli. Psychological Science, 18(5), 421–428](https://www.uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf) — the fMRI findings quoted above; page locators refer to this copy

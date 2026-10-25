@@ -47,6 +47,10 @@ When an abstract question has you stuck, ask what concrete difference each answe
 - Dewey, Human Nature and Conduct
 - Dewey, The Quest for Certainty
 
+## Related concepts
+
+- [[Inquiry]] — Peirce's definition of inquiry as the struggle from doubt to settled belief anchors the tradition the page introduces
+
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, Pragmatism](https://plato.stanford.edu/entries/pragmatism/) — the maxim, Peirce on inquiry, James's 1907 remark and Dewey on inquiry, all quoted above

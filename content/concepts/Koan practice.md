@@ -31,12 +31,14 @@ The Wikipedia overview describes teachers expecting an appropriate response and 
 ## Related concepts
 
 
+
 - [[Showing versus saying]]
 - [[The limits of language]]
 - [[One koan]]
 - [[The unanswerable koan]]
 - [[Doubt as method]]
 - [[Shikantaza, just sitting]] — the Sōtō school's sitting practice, the other method named alongside the kōan method
+- [[Subitism]] — the Chan tool for the ready mind subitism presupposes
 ## Sources
 
 - [Nagatomo, Japanese Zen Buddhist Philosophy, §2 (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/japanese-zen/) — the blockquote on what a kōan is and the Rinzai method

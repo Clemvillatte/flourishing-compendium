@@ -23,10 +23,11 @@ The practical lesson is diagnostic: before calling someone overconfident, say wh
 
 ## Related concepts
 
+
 - [[Planning fallacy]] — my page on the planning fallacy
 - [[Dunning-Kruger effect]] — my page on the Dunning-Kruger effect
 - [[Optimism]] — my page on optimism
-
+- [[K262]] — The kernel is a working countermeasure for overconfidence, with the premortem's own test and its attribution-bias limit quoted honestly.
 ## Sources
 
 - [Moore DA, Healy PJ, "The trouble with overconfidence", Psychol Rev 115(2):502-17, 2008, PMID 18426301](https://pubmed.ncbi.nlm.nih.gov/18426301/) — the three-way reconciliation and the task-dependence and persistence findings, quoted verbatim from the abstract

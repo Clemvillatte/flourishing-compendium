@@ -16,11 +16,12 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
+
 - [[Source monitoring]]
 - [[False memory implantation (Loftus)]]
 - [[Confirmation bias]]
 - [[The unexamined I]]
-
+- [[Social epistemology]] — the classical problem that starts the social study of knowing from others
 ## Cited in philosophy parallels
 
 - [[CO055 — Know that memories can be implanted — confidence is not accuracy]]

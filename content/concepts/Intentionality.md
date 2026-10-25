@@ -28,10 +28,11 @@ Husserl's treatment of the concept in the fifth of the Logical Investigations ca
 
 ## Related concepts
 
+
 - [[Predictive processing]]: the modern science of the same object-directedness
 - [[Attention Schema Theory]]: another account of how states manage to be about things
 - [[Implicit learning research]]: the learning side of object-directed activity
-
+- [[Teleological bias]] — the directedness the bias over-reads into events
 ## Sources
 
 - [Jacob, P., "Intentionality," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/intentionality/): source of the Brentano quotations (1874 text quoted in the entry) and the entry's definition sentence

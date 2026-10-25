@@ -23,9 +23,10 @@ The same entry notes that in the Crisis Husserl "can compare the performance of 
 
 ## Related concepts
 
+
 - [[Epoché]] — the suspension the reduction begins with
 - [[Suspension of the natural attitude]] — my companion practice
-
+- [[K318]] — the repeated returning to the rock and to the bracket
 ## Sources
 
 - Husserl, The Crisis (the Crisis is not readily available in open text; the page anchors on the SEP's expert account)

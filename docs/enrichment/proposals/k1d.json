@@ -3,361 +3,41 @@
  "agent": "worker-pplx-k1d-7e3b91c2",
  "reciprocal": [
   {
-   "into": "Phronesis",
-   "link": "K358 \u2014 Stakeholder impact scan",
-   "why": "The kernel is practical wisdom applied to institutional decisions: listing affected groups and judging impacts from their point of view before acting."
-  },
-  {
-   "into": "Perspective-taking",
-   "link": "K358 \u2014 Stakeholder impact scan",
-   "why": "The scan makes perspective-taking concrete in organizational settings by requiring one impact sentence per affected group, written from that group's side."
-  },
-  {
-   "into": "The common good",
-   "link": "K358 \u2014 Stakeholder impact scan",
-   "why": "The scan widens institutional decision frames from efficiency or profit alone toward the good of the whole, with Freeman's stakeholder definition applied as routine."
-  },
-  {
-   "into": "The ethics of care",
-   "link": "K358 \u2014 Stakeholder impact scan",
-   "why": "The scan treats attention to affected parties, rather than only rules or contracts, as the starting point of an institutional decision."
-  },
-  {
    "into": "Locus of control",
-   "link": "K271 \u2014 The is this up to me check",
+   "link": "K271 — The is this up to me check",
    "why": "A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control."
-  },
-  {
-   "into": "Amor fati",
-   "link": "K271 \u2014 The is this up to me check",
-   "why": "A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control."
-  },
-  {
-   "into": "Acceptance",
-   "link": "K271 \u2014 The is this up to me check",
-   "why": "A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control."
-  },
-  {
-   "into": "Cognitive defusion",
-   "link": "K271 \u2014 The is this up to me check",
-   "why": "A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control."
-  },
-  {
-   "into": "Affective forecasting",
-   "link": "K272 \u2014 Catastrophe testing",
-   "why": "The kernel is a working corrective for the impact bias the page documents: testing a feared outcome's severity, probability and duration by direct examination."
   },
   {
    "into": "Premeditatio malorum",
-   "link": "K272 \u2014 Catastrophe testing",
+   "link": "K272 — Catastrophe testing",
    "why": "The kernel is the CBT-form drill of the same Stoic rehearsal, running worst-case imagery with severity and probability tests."
   },
   {
-   "into": "Cognitive defusion",
-   "link": "K272 \u2014 Catastrophe testing",
-   "why": "Both step back from the catastrophic thought and examine it rather than obeying it; catastrophe testing adds the probability and coping tests."
-  },
-  {
    "into": "Courage",
-   "link": "K290 \u2014 Prosocial courage drill",
+   "link": "K290 — Prosocial courage drill",
    "why": "The kernel trains courage in its social form: a weekly scheduled act of speaking up against unfairness."
   },
   {
-   "into": "Bystander effect theory Darley Latane",
-   "link": "K290 \u2014 Prosocial courage drill",
-   "why": "The kernel is a deliberate countermeasure to the inhibition the page documents: scheduling the act so the presence of others cannot decide it."
-  },
-  {
-   "into": "The common good",
-   "link": "K290 \u2014 Prosocial courage drill",
-   "why": "The drill is the smallest unit of acting for the whole: one named act against an unfairness others are silently accepting."
-  },
-  {
-   "into": "Anxiety about the future",
-   "link": "K314 \u2014 Anxiety-as-signal",
-   "why": "The kernel treats anticipatory anxiety as information about what matters, the daily practice behind the page's theme."
-  },
-  {
-   "into": "Interoception",
-   "link": "K314 \u2014 Anxiety-as-signal",
-   "why": "Reading anxiety as a signal begins with reading the body's arousal accurately rather than fearing it."
-  },
-  {
-   "into": "Existential confrontation",
-   "link": "K314 \u2014 Anxiety-as-signal",
-   "why": "The kernel is the small daily form of confronting freedom: asking what the anxiety is about rather than suppressing it."
-  },
-  {
-   "into": "Integrity as consistency",
-   "link": "K359 \u2014 The institutional mirror",
-   "why": "The kernel runs the consistency check at institutional scale: stated values compared with the actions of the organization."
-  },
-  {
-   "into": "Authenticity",
-   "link": "K359 \u2014 The institutional mirror",
-   "why": "The mirror examines the gap between an institution's stated self and its actual practice, the organizational analogue of authenticity."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K359 \u2014 The institutional mirror",
-   "why": "The kernel is practical wisdom in institutional judgment: reading an organization's character from its actions before deciding what to do within it."
-  },
-  {
-   "into": "The search for meaning",
-   "link": "K231 \u2014 Living the question",
-   "why": "The kernel is Rilke's instruction turned into a habit: holding the question of what life is for as an ongoing, lived inquiry."
-  },
-  {
    "into": "Beginner's mind",
-   "link": "K231 \u2014 Living the question",
+   "link": "K231 — Living the question",
    "why": "Both practices keep a not-knowing position open; the kernel adds Rilke's patience with the unresolved."
   },
   {
-   "into": "Organizational justice theory",
-   "link": "K291 \u2014 Equity scan",
-   "why": "The kernel is a hands-on fairness practice for single decisions: written criteria, counterfactual views, and recorded scores against ingroup favoritism."
-  },
-  {
-   "into": "Prejudice reduction",
-   "link": "K291 \u2014 Equity scan",
-   "why": "The scan is a decision-level prejudice reduction practice: structuring criteria before the field is known."
-  },
-  {
    "into": "Narrative identity",
-   "link": "K333 \u2014 Redemptive sequence writing",
+   "link": "K333 — Redemptive sequence writing",
    "why": "The kernel operationalises redemption sequences, the page's central narrative form, as a writing practice."
   },
   {
-   "into": "Generativity theory",
-   "link": "K333 \u2014 Redemptive sequence writing",
-   "why": "Redemption sequences are the signature narrative form of highly generative adults; the kernel teaches writing one directly."
-  },
-  {
    "into": "Courage",
-   "link": "K362 \u2014 Civic courage drill",
+   "link": "K362 — Civic courage drill",
    "why": "The kernel trains courage in its civic form: a monthly act of public participation taken from the smallest rung currently avoided."
   },
   {
-   "into": "The common good",
-   "link": "K362 \u2014 Civic courage drill",
-   "why": "The drill's monthly acts are aimed at shared rather than private benefit, the practical arm of acting for the common good."
-  },
-  {
-   "into": "Desire",
-   "link": "K278 \u2014 Wanting-versus-liking separation",
-   "why": "The kernel gives the desire concept its practical dividing rule: is this pull a want or a liking, and does the log say it converts."
-  },
-  {
-   "into": "Neurobiology of addiction",
-   "link": "K278 \u2014 Wanting-versus-liking separation",
-   "why": "The page anchors the concept's core mechanism, cue-triggered wanting outlasting liking, with the verbatim clinical claim."
-  },
-  {
-   "into": "Authenticity",
-   "link": "K313 \u2014 Project alignment",
-   "why": "The kernel turns authenticity into a monthly procedure: inventory the projects, compare who they express with who you are trying to become."
-  },
-  {
-   "into": "The search for meaning",
-   "link": "K313 \u2014 Project alignment",
-   "why": "The page anchors purpose-in-life, the measurable face of the search, with Ryff's verbatim definition."
-  },
-  {
-   "into": "Deliberate practice",
-   "link": "K179 \u2014 Deliberate practice",
-   "why": "The kernel gives the concept its working procedure: sub-goal, edge-of-ability task, immediate feedback, log."
-  },
-  {
    "into": "Growth mindset",
-   "link": "K179 \u2014 Deliberate practice",
+   "link": "K179 — Deliberate practice",
    "why": "The page pairs the belief that ability grows with the structured practice that grows it, citing both sides of the practice-variance debate."
-  },
-  {
-   "into": "Contentment with sufficiency",
-   "link": "K280 \u2014 Gratitude for sufficiency",
-   "why": "The kernel gives the concept a nightly practice: name one already-owned thing that is enough, with the reason it is enough."
-  },
-  {
-   "into": "Desire",
-   "link": "K280 \u2014 Gratitude for sufficiency",
-   "why": "The page names desire's blind spot, the sufficient thing overlooked while the insufficient thing is pursued, and trains attention against it."
-  },
-  {
-   "into": "Tragic optimism",
-   "link": "K317 \u2014 Tragic optimism",
-   "why": "The kernel gives the concept its working procedure: the three questions, one honest sentence each, smallest answer acted on."
-  },
-  {
-   "into": "Post-traumatic growth",
-   "link": "K317 \u2014 Tragic optimism",
-   "why": "The page anchors the growth concept with the honest meta-analytic record: benefit finding comes with more intrusive thoughts, not fewer."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K283 \u2014 Role-conflict deliberation",
-   "why": "The kernel operationalises phronesis in one of its hardest cases, two roles making incompatible demands, with Aristotle's own definition quoted."
-  },
-  {
-   "into": "The ethics of care",
-   "link": "K283 \u2014 Role-conflict deliberation",
-   "why": "The page's procedure gives care ethics a deliberative form: each role's claims heard before the good-life judgment is made."
-  },
-  {
-   "into": "Psychological safety",
-   "link": "K361 \u2014 Institutional feedback loop",
-   "why": "The kernel operationalises psychological safety in a concrete channel design: fixed question, protected first answerer, honest no-action log."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K361 \u2014 Institutional feedback loop",
-   "why": "The page places practical wisdom inside institutions, where the second loop question, whether the assumption under the decision is wrong, is a phronesis judgment."
-  },
-  {
-   "into": "Overconfidence effects",
-   "link": "K262 \u2014 Pre-decision review",
-   "why": "The kernel is a working countermeasure for overconfidence, with the premortem's own test and its attribution-bias limit quoted honestly."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K262 \u2014 Pre-decision review",
-   "why": "The page gives phronesis a pre-commitment procedure: assumptions named, downside handled, scored afterward."
-  },
-  {
-   "into": "The ethics of care",
-   "link": "K282 \u2014 Role inventory",
-   "why": "The kernel gives care ethics a concrete instrument: the role list with each requirement sentence written from the other side."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K282 \u2014 Role inventory",
-   "why": "The page anchors the sorting judgment, which requirements bend and which hold, with Cicero's four personae as the explicit frame."
-  },
-  {
-   "into": "Bad faith",
-   "link": "K310 \u2014 Bad-faith detection",
-   "why": "The kernel turns Sartre's diagnosis into a catchable procedure: pause at the necessity phrases, name the avoidance, restate with the choice visible."
-  },
-  {
-   "into": "Authenticity",
-   "link": "K310 \u2014 Bad-faith detection",
-   "why": "The page pairs authenticity's existential ground with the honest restatement that makes a choice one's own."
-  },
-  {
-   "into": "Integrity as consistency",
-   "link": "K320 \u2014 Values coherence check",
-   "why": "The kernel is the monthly procedure behind the concept: stated values against actual hours, one honest correction per month."
-  },
-  {
-   "into": "Authenticity",
-   "link": "K320 \u2014 Values coherence check",
-   "why": "The page anchors authenticity's alignment requirement with the self-concordance evidence and Seneca's waste-of-life warning."
-  },
-  {
-   "into": "Cognitive defusion",
-   "link": "K126 \u2014 Cognitive defusion",
-   "why": "The kernel gives the concept its lab-tested procedure: notice-ream, then the Titchener word repetition, with the meta-analytic effects and limits quoted."
-  },
-  {
-   "into": "Cognitive flexibility",
-   "link": "K126 \u2014 Cognitive defusion",
-   "why": "The page anchors one concrete flexibility technique to the broader capacity, with the word-repetition effect sizes as evidence."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K261 \u2014 Self-distanced reflection",
-   "why": "The page connects the measured wise-reasoning gains from self-distancing to the classical virtue, with Solomon's paradox quoted."
-  },
-  {
-   "into": "Perspective-taking",
-   "link": "K261 \u2014 Self-distanced reflection",
-   "why": "The kernel is perspective-taking turned on the self, with the third-person pronoun as the instrument."
-  },
-  {
-   "into": "The ethics of care",
-   "link": "K284 \u2014 The what does this role require practice",
-   "why": "The kernel gives care ethics a daily entry point: the threshold question asked in the role's own grammar before the situation begins."
-  },
-  {
-   "into": "Phronesis",
-   "link": "K284 \u2014 The what does this role require practice",
-   "why": "The page anchors the situational judgment, naming the one requirement that matters here, with Epictetus and the Analects as its two independent grounds."
-  },
-  {
-   "into": "Integrity as consistency",
-   "link": "K285 \u2014 Duty-to-person mapping",
-   "why": "The kernel turns the commitment into a checkable plan, recipient and cue in the sentence, with Gollwitzer & Sheeran's d = .65 and Kant's imperative as its two grounds."
-  },
-  {
-   "into": "The ethics of care",
-   "link": "K285 \u2014 Duty-to-person mapping",
-   "why": "The mapping names the recipient of the duty, keeping the ethical weight on the person rather than the abstraction."
-  },
-  {
-   "into": "Procedural justice",
-   "link": "K288 \u2014 Voice-inclusion check",
-   "why": "The kernel gives the field's core voice effect a working gate: the predecision check before a group decision, with the Lind/Kanfer/Earley result and Tyler's voice principle quoted verbatim."
-  },
-  {
-   "into": "Ubuntu",
-   "link": "K364 \u2014 Cosmopolitan reflection",
-   "why": "The kernel pairs the African principle with its Stoic twin, Marcus Aurelius's whole-world citizenship, grounded in the Pettigrew & Tropp meta-analysis of contact."
-  },
-  {
-   "into": "The common good",
-   "link": "K364 \u2014 Cosmopolitan reflection",
-   "why": "The page gives the concept a practice: the monthly visit that ranks the world city's goods alongside one's own group's."
-  },
-  {
-   "into": "Cognitive defusion",
-   "link": "K270 \u2014 Evidence-versus-interpretation drill",
-   "why": "The kernel is the written form of the defusion work, the thought record built on Epictetus Enchiridion 5 and the Hofmann 2012 review of CBT meta-analyses."
-  },
-  {
-   "into": "Cognitive flexibility",
-   "link": "K270 \u2014 Evidence-versus-interpretation drill",
-   "why": "The drill trains the capacity directly: generating an alternative interpretation that fits the same evidence."
-  },
-  {
-   "into": "The view from above",
-   "link": "K273 \u2014 The view from above",
-   "why": "The kernel is the concept's practice page: Marcus Aurelius IX.29 for the ascent and Kross & Ayduk 2011 for the self-distancing mechanism, both quoted verbatim."
-  },
-  {
-   "into": "Perspective-taking",
-   "link": "K273 \u2014 The view from above",
-   "why": "The page shows the observer's stance turned on one's own concerns, the fly-on-the-wall perspective Kross and Ayduk measured."
-  },
-  {
-   "into": "The common good",
-   "link": "K287 \u2014 Fairness audit",
-   "why": "The audit asks whose good an allocation serves, grounded in Rawls's justice as the first virtue of social institutions and Tyler's four procedural principles, both quoted verbatim."
-  },
-  {
-   "into": "Dignity",
-   "link": "K321 \u2014 Dignity conversation",
-   "why": "The kernel is dignity's everyday practice, the spoken cousin of Chochinov's dignity therapy, with the 2002 cohort study and the 2011 randomised trial quoted from their PubMed records."
-  },
-  {
-   "into": "Self-determination",
-   "link": "K149 \u2014 Values clarification",
-   "why": "The kernel applies the autonomous-versus-controlled-reasons distinction to the writing of values, with Deci & Ryan 2000 and the VLQ paper both quoted verbatim."
-  },
-  {
-   "into": "Eudaimonia",
-   "link": "K149 \u2014 Values clarification",
-   "why": "Values written as directions rather than goals is the ACT form of the eudaimonic question, grounded in the Valued Living Questionnaire."
-  },
-  {
-   "into": "Authenticity",
-   "link": "K312 \u2014 Authentic-choice audit",
-   "why": "The kernel gives authenticity a decision-level test, the autonomous-versus-introjected distinction from Sheldon & Elliot 1999 quoted verbatim with Sartre's responsibility behind it."
-  },
-  {
-   "into": "Bad faith",
-   "link": "K312 \u2014 Authentic-choice audit",
-   "why": "The audit is the running test that interrupts bad faith at each significant decision, with the introjected-sanction passage quoted from the self-concordance paper."
   }
  ],
  "inline": [],
- "notes": "k1d kernels slice B. Whys are interpretive, not empirical causal claims; supervisor integration only. Reciprocals point concept pages to the kernel pages that operationalise them."
+ "notes": "k1d kernels slice B. Whys are interpretive, not empirical causal claims; supervisor integration only. Reciprocals point concept pages to the kernel pages that operationalise them. | deferred at this run (target band busy): 7 recip, 0 inline"
 }

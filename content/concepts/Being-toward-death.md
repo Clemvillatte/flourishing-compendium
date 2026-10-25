@@ -17,12 +17,15 @@ For the flourishing project the concept reframes mortality from threat to clarif
 
 ## Related concepts
 
+
+
 - [[Being and beings]] — death as the possibility that individualizes Dasein
 - [[B055]] — the Buddhist death-contemplation practice; both pages train the same facing of mortality
 - [[E054]] — considers how anticipation of death clarifies finite possibilities for choosing
 - [[The they (das Man)|the they]] — the conformist everyday from which anticipation liberates
 - [[Angst]] — the mood in which finitude is disclosed
-
+- [[Temporality (Zeitlichkeit)]] — the structure of the ahead-of-itself at its limit
+- [[Shipwreck (Scheitern)]] — the limit-structure class Jaspers' shipwreck belongs to
 ## Sources
 
 - SEP, "Martin Heidegger" (Wrathall): https://plato.stanford.edu/entries/heidegger/

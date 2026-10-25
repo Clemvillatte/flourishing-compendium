@@ -44,11 +44,16 @@ Emerson does not define integrity, and his essay praises nonconformity and self-
 
 ## Related concepts
 
+
+
+
 - [[Integrity (integritas: wholeness)]] — the wholeness root of the same word
 - [[Authenticity]] — being true to oneself; consistency's inner-life cousin
 - [[Self-reliance]] — standing on one's own judgment
 - [[Commitment-consistency dynamics]] — the persuasion literature's version of consistency pressure
-
+- [[K359]] — The kernel runs the consistency check at institutional scale: stated values compared with the actions of the organization.
+- [[K320]] — The kernel is the monthly procedure behind the concept: stated values against actual hours, one honest correction per month.
+- [[K285]] — The kernel turns the commitment into a checkable plan, recipient and cue in the sentence, with Gollwitzer & Sheeran's d = .65 and Kant's imperative as its two grounds.
 ## Sources
 
 - Emerson, Self-Reliance

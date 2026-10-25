@@ -36,13 +36,14 @@ The reason he gives is about the natural order of change. Whether this counts as
 
 ## Related concepts
 
+
 - [[Zhuangzi's laughter]] — a neighbouring Zhuangzi page here
 - [[Death acceptance]] — the wider attitude this story is used to illustrate
 - [[Impermanence]] — the doctrine of change that frames loss
 - [[Grief's oscillation model]] — a psychological account of grieving that allows both feeling and respite
 - [[Continuing bonds]] — a contrast case: keeping a relationship with the dead
 - [[Equanimity]] — a related steadiness, offered for comparison
-
+- [[Sorrow's fruit]] — Gibran's image of joy and sorrow from one well belongs beside the compendium's account of grief for what passes
 ## Related thinkers
 
 - [[T009 — Zhuangzi]]: the drumming-on-the-tub story read as a lesson in grieving well, not feeling nothing.

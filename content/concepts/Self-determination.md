@@ -47,10 +47,12 @@ Take one task done under pressure and look for one reason inside it that is your
 
 ## Related concepts
 
+
 - [[ERG Theory]] — another needs theory without a ladder, for comparison
 - [[E031]] — presents Sartre's freedom-as-responsibility as a philosophical parallel to motivational autonomy.
 - [[P169]] — P169 compares Rogers's trust in capacities and freedom of choice with self-determination theory, without treating the theories as interchangeable.
 - [[Intrinsic versus extrinsic goals]] — the concept page lists this topic among its Related entries; this link returns it
+- [[K149]] — The kernel applies the autonomous-versus-controlled-reasons distinction to the writing of values, with Deci & Ryan 2000 and the VLQ paper both quoted verbatim.
 ## Sources
 
 - [Self-Determination Theory, Theory overview](https://selfdeterminationtheory.org/theory/) — the three needs and the need-support and thwarting claims

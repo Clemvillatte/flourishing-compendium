@@ -44,11 +44,12 @@ The sources give a descriptive theory of what is confronted, and mixed evidence 
 
 ## Related concepts
 
+
 - [[Existential therapy]] — the therapy tradition that works with these confrontations
 - [[Death anxiety research]] — the empirical study of death fear
 - [[Terror management]] — the theory of how mortality fear shapes culture
 - [[Limit situations (Grenzsituationen)]] — Jaspers' term for the walls we hit
-
+- [[K314]] — The kernel is the small daily form of confronting freedom: asking what the anxiety is about rather than suppressing it.
 ## Sources
 
 - Tillich, 1952

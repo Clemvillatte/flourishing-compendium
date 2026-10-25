@@ -29,6 +29,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 ## Related concepts
 
 
+
 - [[Shunyata]] — the Sanskrit term's own page, covering the same Madhyamaka doctrine
 - [[Anatta]] — Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally
 - [[Dependent origination]] — the co-arising MMK 24.18 identifies with emptiness
@@ -39,7 +40,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 - [[Tathata, suchness]] — a further reading question: how does "suchness" differ from absence of inherent nature?
 - [[B122]] — the page quotes the MMK 24.8 verse that B122 reads
 - [[T050 — Nagarjuna]]: the doctrine's systematic defender; the concept carries his Mulamadhyamakakarika.
-
+- [[The charioteer's analysis]] — Nagasena's chariot argument serves the emptiness of inherent nature
 ## Sources
 
 - [Westerhoff, "Nāgārjuna," Stanford Encyclopedia of Philosophy (2010; rev. 2026)](https://plato.stanford.edu/entries/nagarjuna/) — svabhāva analysis; superimposition; the no-master-argument reading; emptiness of emptiness

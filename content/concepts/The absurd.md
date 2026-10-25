@@ -32,10 +32,11 @@ The essay's ending, in the O'Brien translation:
 
 ## Related concepts
 
+
 - [[Affirmation]] — the Deleuzean yes, a different response to the same structure
 - [[Ambiguity]] — Beauvoir's refusal of the fixed meaning the absurd also names
 - [[Anguish (angoisse)]] — the Sartrean register of the same confrontation
-
+- [[Sisyphus]] — the Camus frame the myth of Sisyphus carries
 ## Sources
 
 - [Camus, The Myth of Sisyphus, trans. O'Brien, Colorado PDF](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf) — verbatim divorce definition and relation quote

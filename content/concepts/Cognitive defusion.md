@@ -53,6 +53,11 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 
 ## Related concepts
 
+
+
+
+
+
 - [[Distrust names and labels]] — the word-experience fusion this concept warns about
 - [[Decentering]] — the review lists cognitive defusion among the decentering-related constructs it maps onto one phenomenon
 - [[Psychological flexibility]] — the ACT construct defusion serves
@@ -62,7 +67,11 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 - [[Midlevel terms]] — defusion is a paradigm midlevel term
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies defusion as a cognitive-dimension process
 - [[Acceptance and Commitment Therapy]] — the protocol where defusion was developed
-
+- [[K139]] — the sibling ACT process; stepping back from thoughts versus stepping back from the self-story
+- [[K271]] — A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control.
+- [[K272]] — Both step back from the catastrophic thought and examine it rather than obeying it; catastrophe testing adds the probability and coping tests.
+- [[K126]] — The kernel gives the concept its lab-tested procedure: notice-ream, then the Titchener word repetition, with the meta-analytic effects and limits quoted.
+- [[K270]] — The kernel is the written form of the defusion work, the thought record built on Epictetus Enchiridion 5 and the Hofmann 2012 review of CBT meta-analyses.
 ## Sources
 
 - [Bernstein, A., Hadash, Y., Lichtash, Y., Tanay, G., Shepherd, K., & Fresco, D. M. (2015). Decentering and Related Constructs: A Critical Review and Metacognitive Processes Model. Perspectives on Psychological Science, 10(5), 599–617](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/) — the two definitional statements quoted above, quoting Hayes, Strosahl & Wilson 1999 and Forman et al. 2012

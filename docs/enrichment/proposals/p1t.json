@@ -1,13 +1,7 @@
 {
  "batch": "p1t",
- "agent": "worker-f56764cd",
- "reciprocal": [
-  {
-   "into": "Simplicity as practice",
-   "link": "D164 — Discard scheming",
-   "why": "Applies DDJ 19's recommendation to relinquish scheming for gain to making a straightforward request."
-  }
- ],
+ "agent": "supervisor-margauth1839068",
+ "reciprocal": [],
  "inline": [],
- "notes": "2026-10-23 repair pass. Simplicity as practice read in full; no existing D164 backlink. Existing Machiavellianism, categorical-imperative and amour-propre pages already backlink D164. Public why is interpretive, not an empirical causal claim. Supervisor integration only."
+ "notes": "All records applied and archived to applied/p1t.json (supervisor integration, 2026-10-25). This placeholder keeps the proposals path present so the tree stays pushable via api_push (which cannot push deletions); a future supervisor with a stable direct-push window may remove it."
 }

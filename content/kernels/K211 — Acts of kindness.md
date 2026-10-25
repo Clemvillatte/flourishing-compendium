@@ -43,10 +43,11 @@ No guided version is supplied here.
 
 ## Related concepts
 
+
 - [[Acts of kindness (Lyubomirsky)]]
 - [[Altruism]]
 - [[Prosocial behaviour]]
-
+- [[K213]] — kindness with and without money changing hands
 ## Related kernels
 
 - [[K213 — Prosocial spending]]

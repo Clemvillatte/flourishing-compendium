@@ -62,12 +62,13 @@ The original entry's second facet is Csikszentmihalyi's flow, the sibling constr
 
 ## Related concepts
 
+
 - [[Awe]] — the signature emotion of the peak
 - [[Flow]] — the repeatable sibling construct
 - [[Attention restoration]] — soft fascination, the restful attention that invites it
 - [[Savoring]] — the deliberate savouring of the experiences that come
 - [[Transcendence]] — the self-transcendence the peak delivers
-
+- [[K205]] — natural settings are among the places Maslow's rare moving moments get occasioned
 ## Cited in psychology parallels
 
 - [[E097 — Practise transcendence]]

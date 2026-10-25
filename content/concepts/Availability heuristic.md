@@ -13,6 +13,10 @@ Ease of recall is used as a proxy for frequency. The heuristic was named and def
 
 The heuristic usually works because common events are indeed easier to recall than uncommon ones. It turns misleading whenever something makes instances easy to retrieve for reasons other than frequency: vividness, recency, media coverage, or how a question is framed. Tversky and Kahneman's letter r example showed people overestimating words that begin with r and underestimating words that have r as the third letter, because first letters are easier to retrieve than third letters. For my purposes the availability heuristic matters as a standing source of distorted risk perception: salient stories of harm make threats feel more frequent than they are, and unsalient hazards get discounted.
 
+## Related concepts
+
+- [[Survivorship bias]] — the easily-seen crowd is also the biased sample
+
 ## Sources
 
 - Tversky & Kahneman, 1973, 1974

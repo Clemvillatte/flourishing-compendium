@@ -30,6 +30,10 @@ The book's pseudonymous author is Vigilius Haufniensis ([Lippitt & Evans, "Søre
 - [[K226 — The deathbed test]] — the deathbed self as the future-self perspective used to cut through present anxiety
 - [[B109 — Examine fear]] — MN 18-20 exercises for examining the mind's fabrications
 
+## Related concepts
+
+- [[K314]] — The kernel treats anticipatory anxiety as information about what matters, the daily practice behind the page's theme.
+
 ## Sources
 
 - [Lippitt, John & Evans, C. Stephen, "Søren Kierkegaard", Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/kierkegaard/) — anxiety in possibility, the dizziness-of-freedom passage (CA 61/SKS 4, 365), learning to be anxious in the right way (CA 155)

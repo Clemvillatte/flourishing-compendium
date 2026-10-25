@@ -25,10 +25,11 @@ The deeper point is that aidos is remedial. "For the sense of disgrace is not ev
 
 ## Related concepts
 
+
 - [[Guilt]] — the other self-monitoring emotion, keyed to the act rather than the self
 - [[Guilt motivates reparative behaviour]] — the modern functional account of the family
 - [[Modesty norms research]] — the empirical study of the norms aidos enforces
-
+- [[Shamefastness as quasi-virtue]] — Aristotle's analysis of aidos as feeling rather than virtue
 ## Sources
 
 - [Aristotle, Nicomachean Ethics IV.9 (Ross translation, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — shame as feeling not virtue, age restriction, conditional goodness

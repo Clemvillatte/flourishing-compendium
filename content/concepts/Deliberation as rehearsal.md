@@ -28,10 +28,11 @@ Dewey's reason is retrievability. In his words: "An act overtly tried out is irr
 
 ## Related concepts
 
+
 - [[CO042]] — CO042 discusses deliberate reasoning when evaluating important risks.
 - [[Mental simulation research]] — the modern research programme on imagined trials
 - [[Episodic future thinking]] — the laboratory study of foreseeing outcomes
-
+- [[K263]] — forward rehearsal and after-action review are the two ends of deliberation
 ## Sources
 
 - Dewey, Human Nature and Conduct

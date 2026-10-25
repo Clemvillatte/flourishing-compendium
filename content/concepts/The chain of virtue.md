@@ -19,10 +19,11 @@ The passage gives its sequence: act, habit, character. There is no step where vi
 
 ## Related concepts
 
+
 - [[Habit]] — the repeated-act mechanism Aristotle’s chain runs on
 - [[Self-cultivation]] — the Confucian program of the same act-habit-character sequence
 - [[Implementation intentions]] — the modern practice of pre-linking acts into sequences
-
+- [[Shamefastness as quasi-virtue]] — both are Aristotle's account of how character is and is not built
 ## Sources
 
 - Aristotle, The Nicomachean Ethics of Aristotle, Book II, D.P. Chase translation, Project Gutenberg full text: [gutenberg.org/cache/epub/8438/pg8438.txt](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)

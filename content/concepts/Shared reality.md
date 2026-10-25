@@ -26,8 +26,9 @@ The same paper states: "Shared reality lies at the intersection of two motives: 
 
 ## Related concepts
 
-- [[Intersubjectivity]]
 
+- [[Intersubjectivity]]
+- [[K357]] — attending to the same thing is one everyday setting where perceived commonality of inner states shows up
 ## Sources
 
 - [Higgins, Rossignac-Milon & Echterhoff 2021, Shared Reality: From Sharing-Is-Believing to Merging Minds, Current Directions in Psychological Science (Columbia PDF)](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf) — the definition and the Hardin & Higgins 1996 sentence, quoted verbatim

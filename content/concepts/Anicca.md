@@ -27,6 +27,7 @@ The training consequence is watchfulness: to watch states arise and pass until t
 - [[B137 — Expect your seeing to change (the wise see differently)]] — seeing itself is among the changing things
 
 ## Related concepts
+
 - [[T012 — Laozi]]: the process-reality formulation the page cites as the cross-tradition insight.
 
 - [[Impermanence]] — the cross-tradition hub of this family
@@ -34,7 +35,7 @@ The training consequence is watchfulness: to watch states arise and pass until t
 - [[Fu (return)]] — Laozi: everything renews in cycles
 - [[Process philosophy]] — Whitehead: reality as process
 - [[Dukkha]] — why impermanence, grasped, is unsatisfactory
-
+- [[Dependent origination]] — the twelve links arise and pass; the chain presupposes the impermanence the page describes
 ## Sources
 
 - Dhammapada, chapter 20 (Maggavagga: The Path), verses 277-279, translated from the Pali by Acharya Buddharakkhita, AccessToInsight: [accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)

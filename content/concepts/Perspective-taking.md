@@ -43,8 +43,13 @@ Before replying to an email that stung, write one sentence from the sender's lik
 
 ## Related concepts
 
-- [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 
+
+
+- [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
+- [[K358]] — The scan makes perspective-taking concrete in organizational settings by requiring one impact sentence per affected group, written from that group's side.
+- [[K261]] — The kernel is perspective-taking turned on the self, with the third-person pronoun as the instrument.
+- [[K273]] — The page shows the observer's stance turned on one's own concerns, the fly-on-the-wall perspective Kross and Ayduk measured.
 ## Sources
 
 - [Eyal, Steffel & Epley (2018), Perspective mistaking, Journal of Personality and Social Psychology 114(4)](https://pubmed.ncbi.nlm.nih.gov/29620401/) — abstract quoted above

@@ -23,9 +23,10 @@ In the paper's first study, female participants who valued happiness more report
 
 ## Related concepts
 
+
 - [[Hedonic adaptation]] — the treadmill the trap sits on
 - [[Eudaimonia]] — the end I steer toward instead
-
+- [[Spiritual joy]] — the consumed joy contrasted with earned gladness
 ## Sources
 
 - Mauss et al., 2011

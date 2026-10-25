@@ -38,6 +38,7 @@ Spinoza called honour rooted in popular approval "really empty, being nothing" (
 
 
 
+
 - [[Self-compassion]] — the modern, empirically studied form of kind self-regard
 - [[Proper self-love]] — Aristotle's philautia: the good man loves the most authoritative element in himself
 - [[Amour de soi]] — Rousseau's quiet self-love, corrupted when it turns comparative
@@ -50,6 +51,7 @@ Spinoza called honour rooted in popular approval "really empty, being nothing" (
 - [[Magnanimity]] — Aristotle's honest sense of one's own worth, neither inflated nor deflated
 - [[SE021]] — A comparison with SE021 on the conditions people place on feeling worthwhile
 - [[SP060]] — my principle on building true self-esteem
+- [[Metta (loving-kindness)]] — right self-love and metta make a parallel turn of goodwill toward oneself, a comparison rather than an equivalence
 ## Sources
 
 - [Spinoza, Ethics (Elwes translation, Project Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — IIIp55s and Definitions of the Emotions XXV, XXVIII; IVp18s, IVp37, IVp52+s, IVp56, IVp57s, IVp58s: the self-love passages

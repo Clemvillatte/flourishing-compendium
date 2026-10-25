@@ -23,12 +23,13 @@ As an editorial suggestion rather than a tested finding: before judging a case b
 
 ## Related concepts
 
+
 - [[Representativeness heuristic]] — the parent shortcut
 - [[Prototype theory]] — the cognitive basis of similarity judgment
 - [[Induction from experience]] — where sample stories meet population frequencies
 - [[The prior probability of the world]] — my page for priors
 - [[Availability heuristic]] — the sibling shortcut that trades on vividness
-
+- [[Survivorship bias]] — reading the visible cases as the whole distribution
 ## Sources
 
 - Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185, 1124-1131.

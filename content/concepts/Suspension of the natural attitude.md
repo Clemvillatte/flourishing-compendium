@@ -22,12 +22,13 @@ The abstention is methodological: the existence question is bracketed while atte
 
 ## Related concepts
 
+
 - [[The natural attitude]] — the taken-for-granted stance that gets suspended
 - [[Epoché]] — the named practice itself
 - [[Bracketing]] — the contemporary term for the same move
 - [[Intentionality]] — the structure of consciousness the suspension turns attention to
 - [[Phenomenological psychology]] — the psychological application of the method
-
+- [[K305]] — the bracket applied at the moment of experience
 ## Sources
 
 - Husserl, The Crisis

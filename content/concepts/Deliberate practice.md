@@ -51,6 +51,7 @@ A 2019 replication of the original violin design did not reproduce the core find
 ## Related concepts
 
 
+
 - [[Attention]] — attention aimed at improvement
 - [[Effortless action through long effort]] — the effortful training whose output is the effortless edge
 - [[Growth through practice]] — the contemplative ancestor of effortful training
@@ -60,6 +61,7 @@ A 2019 replication of the original violin design did not reproduce the core find
 - [[Growth mindset]] — the belief about ability that keeps the practice going
 - [[Experience plus reflection]] — the general loop the structured version sharpens
 - [[Tacit knowledge research]] — Polanyi's account of unspecifiable competence explains why practice and correction, not manuals, transmit skill
+- [[K179]] — The kernel gives the concept its working procedure: sub-goal, edge-of-ability task, immediate feedback, log.
 ## Sources
 
 - Ericsson et al., 1993 — [The Role of Deliberate Practice in the Acquisition of Expert Performance, Psychological Review 100(3):363-406 (PDF)](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf) — abstract, definition (p. 368) and summary claim (p. 392) quoted above

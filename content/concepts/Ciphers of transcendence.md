@@ -35,5 +35,7 @@ Jaspers also applies the interpretation to religion. He reads the persons of the
 
 ## Related concepts
 
+
 - [[Limit situations (Grenzsituationen)]] — Jaspers' companion notion of the walls consciousness runs into: both name the limit rather than what lies past it.
 - [[The sacred]] — Otto and Marcel's account of what alludes without delivering: the cipher's cousin in religious thought.
+- [[The Axial Age]] — Jaspers coined both terms; the ciphers are his later account of the transcendence the Axial Age turned toward

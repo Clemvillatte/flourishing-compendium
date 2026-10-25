@@ -23,11 +23,20 @@ The IEP entry gives the normative aim: "care ethics seeks to maintain relationsh
 
 ## Related concepts
 
+
+
+
+
+
 - [[Care]] — Noddings's account of caring itself
 - [[Empathy]] — the capacity care draws on
 - [[Relational autonomy]] — the connected account of agency
 - [[Ubuntu]] — an African relational ethic the entry lists among care ethics' affinities
-
+- [[K358]] — The scan treats attention to affected parties, rather than only rules or contracts, as the starting point of an institutional decision.
+- [[K283]] — The page's procedure gives care ethics a deliberative form: each role's claims heard before the good-life judgment is made.
+- [[K282]] — The kernel gives care ethics a concrete instrument: the role list with each requirement sentence written from the other side.
+- [[K284]] — The kernel gives care ethics a daily entry point: the threshold question asked in the role's own grammar before the situation begins.
+- [[K285]] — The mapping names the recipient of the duty, keeping the ethical weight on the person rather than the abstraction.
 ## Sources
 
 - Held, The Ethics of Care (cited at second hand)

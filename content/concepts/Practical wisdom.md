@@ -25,6 +25,8 @@ Practical wisdom is the skill that generalises: for any domain — health, work,
 
 ## Related concepts
 
+
+
 - [[Wisdom theory Berlin paradigm]] — an expertise-based psychological approach that scores responses to difficult life problems against five criteria
 
 
@@ -32,7 +34,8 @@ Practical wisdom is the skill that generalises: for any domain — health, work,
 - [[Moral situation research]] — the situationist pressure on trait-based accounts of wisdom
 - [[Wisdom]] — the broader category this concept refines
 - [[T052 — MacIntyre, Alasdair]] — later uses of phronesis, beside the Aristotelian Phronesis Model
-
+- [[K263]] — the review loop is how the virtue is meant to develop
+- [[The Axial Age]] — Aristotelian phronesis is the age's Greek wing in this page's inventory
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the Book VI Good-in-Counsel and particular-details passages quoted verbatim

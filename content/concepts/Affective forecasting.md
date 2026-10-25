@@ -18,6 +18,10 @@ The review also describes failures to anticipate sense-making and psychological 
 
 - **errors**
 
+## Related concepts
+
+- [[K272]] — The kernel is a working corrective for the impact bias the page documents: testing a feared outcome's severity, probability and duration by direct examination.
+
 ## Sources
 
 - Wilson and Gilbert, 2003

@@ -25,10 +25,11 @@ The finding is that the shift in pronoun does the regulatory work.
 
 ## Related concepts
 
+
 - [[The observing self]]
 - [[The witness]]
 - [[Distanced self-talk (Kross)]]
-
+- [[Self-talk research]] — the self-talk research this page summarizes is the instrument self-distancing studies from the outside
 ## Sources
 
 - [Kross, Gard, Deldin, Clifton & Ayduk 2012, Asking "why" from a distance, Journal of Applied Psychology](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/) — the self-distancing definition

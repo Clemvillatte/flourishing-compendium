@@ -1,0 +1,18 @@
+{
+ "batch": "ct2",
+ "agent": "worker-pplx-ct2-e2e6969a",
+ "reciprocal": [
+  {
+   "into": "Present-moment awareness theory",
+   "link": "Acceptance and Commitment Therapy",
+   "why": "ACT names contact with the present moment as one of its six core processes; the present-moment page should point back to the model that operationalizes it."
+  },
+  {
+   "into": "Mindfulness",
+   "link": "Acceptance and Commitment Therapy",
+   "why": "ACT applies mindfulness and acceptance processes as its core mechanism (Hayes et al. 2006); the mindfulness page covers MBSR and kin but lacks the ACT backlink."
+  }
+ ],
+ "inline": [],
+ "notes": "2026-10-23 ct2 rebuild of ACT page. Checked all 10 Related targets: 8 backlink ACT already; these two do not."
+}

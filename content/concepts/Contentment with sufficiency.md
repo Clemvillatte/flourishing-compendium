@@ -36,9 +36,10 @@ My exercise reading, which treats contentment as a bound set in advance before w
 
 ## Related concepts
 
+
 - [[Simplicity]] — the Daoist pairing of knowing enough with wanting little
 - [[The insatiability of desire]] — the failure mode the sufficiency bound exists to catch
-
+- [[K280]] — The kernel gives the concept a nightly practice: name one already-owned thing that is enough, with the reason it is enough.
 ## Sources
 
 - Daoism, Daodejing 44

@@ -25,10 +25,12 @@ Anil Seth's interoceptive inference model puts the sense to predictive work. On 
 
 
 
+
 - [[Body scan in MBSR (Kabat-Zinn)]] — the body scan trains interoception region by region
 - [[BI053]] — pairs interoception with emotion (Craig, 2009; Barrett et al., 2019)
 - [[Heart rate variability theory]] — beat-to-beat heart-rate variation as an index of self-regulation (Park & Thayer 2014)
 - [[Polyvagal theory (Porges)]] — neuroception is neural detection of safety and danger without awareness, distinct from the felt sense of bodily signals
+- [[K314]] — Reading anxiety as a signal begins with reading the body's arousal accurately rather than fearing it.
 ## Sources
 
 - Seth, 2013

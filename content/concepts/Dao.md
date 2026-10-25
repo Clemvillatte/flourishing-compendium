@@ -30,6 +30,7 @@ The Dao is the Chinese member of a family of concepts that name the self-organis
 Reading the grain of a situation before acting: the argument that escalates when you push and dissolves when you stop, the body that heals on rest days. (Illustrative scenario, not a reported participant or study result.)
 
 ## Related concepts
+
 - [[T012 — Laozi]]: the term's own source: the way the world works, in Laozi's words.
 
 - [[Wu wei]] — acting with, not against, the Dao
@@ -39,7 +40,7 @@ Reading the grain of a situation before acting: the argument that escalates when
 - [[Stream of consciousness]] — the flowing pattern of mind
 - [[Brahman]] — a cross-tradition pairing offered for reflection, not a claimed influence
 - [[D141]] — the cook's method and its lesson in nourishing life
-
+- [[Yin and yang]] — the Dao's movements are what the yin-yang pairing maps
 ## Sources
 
 - [Laozi, Daodejing, James Legge translation (sacred-texts.com)](https://www.sacred-texts.com/tao/taote.htm) — chapters 1 and 51, quoted above

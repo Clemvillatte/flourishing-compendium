@@ -21,10 +21,17 @@ My [[E009 — Practise intersubjectivity]] turns the point into an exercise: not
 
 ## Related concepts
 
+
+
+
+
 - [[E026]] — the Heideggerian account of the shared world this concept pairs with
 - [[Perceived partner responsiveness]] — the interpersonal-science descendant of the empathy analysis
 - [[Interpretive understanding]] — Ricoeur's hermeneutic account of the same sharedness at the level of texts
-
+- [[K357]] — a wordless shared focus is a simple instance of the shared world
+- [[K355]] — the body layer this practice notices is part of how sharedness across minds is enacted
+- [[K309]] — the practice page for attending to the bodily floor of the shared world
+- [[K356]] — the face is where intersubjectivity starts: the training is attention to the other's presenting presence
 ## Sources
 
 - SEP, "Edmund Husserl": https://plato.stanford.edu/entries/husserl/

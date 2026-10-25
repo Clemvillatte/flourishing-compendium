@@ -20,8 +20,14 @@ The entry quotes Sartre's most famous case, the café waiter who "attempts to in
 ## Related concepts
 
 
+
+
+
 - [[Freedom]] — the refusal of freedom in Sartre's sense
 - [[Escape from freedom]] — I pair Sartre's individual dodge with Fromm's social flight (comparison)
+- [[K310]] — The kernel turns Sartre's diagnosis into a catchable procedure: pause at the necessity phrases, name the avoidance, restate with the choice visible.
+- [[K312]] — The audit is the running test that interrupts bad faith at each significant decision, with the introjected-sanction passage quoted from the self-concordance paper.
+- [[Seriousness (le sérieux)]] — de Beauvoir's serious man and Sartre's bad faith are neighboring evasions of freedom
 ## Sources
 
 - Sartre, Being and Nothingness

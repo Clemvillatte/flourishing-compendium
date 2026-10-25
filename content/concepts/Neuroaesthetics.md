@@ -23,12 +23,13 @@ The evidence the authors review shows that "aesthetic experiences emerge from th
 
 ## Related concepts
 
+
 - [[Consummatory experience]]
 - [[Disinterested aesthetic pleasure]]
 - [[The aesthetic]]
 - [[The self dissolving in aesthetic contemplation]] — a contemplative account of what it is like to be absorbed in something beautiful
 - [[K328 — Aesthetic attention]] — the attentional practice aimed at aesthetic experience
-
+- [[K328]] — the biological layer under the attentional practice of engaging with art and objects
 ## Sources
 
 - [Chatterjee & Vartanian, "Neuroaesthetics", Trends Cogn Sci 18(7):370-5, 2014, PubMed record 24768244](https://pubmed.ncbi.nlm.nih.gov/24768244/) — definition and findings quoted verbatim from the abstract

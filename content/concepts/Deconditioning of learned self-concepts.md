@@ -31,11 +31,12 @@ These studies address negative thoughts about the self in short experiments and 
 
 ## Related concepts
 
+
 - [[Self as process]] — the practice of unloading archived self-knowledge
 - [[Cognitive defusion]] — the technique tested in most of the studies above
 - [[Self-as-context]] — the ACT process of observing from a stable perspective
 - [[Acceptance and Commitment Therapy]] — the therapy these studies come from
-
+- [[K148]] — the weekly unit of deconditioning: one act the self-story forbids, tested against a written forecast
 ## Sources
 
 - [Oppo et al. 2026, "Defusion techniques on self-referential thought in laboratory-based experimental research"](https://contextualscience.org/publications/defusion_techniques_selfreferential_thought_laboratorybased_experimental_research)

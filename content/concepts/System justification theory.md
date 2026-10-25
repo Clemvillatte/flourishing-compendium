@@ -27,10 +27,11 @@ Sociocultural · Psychological science
 [[SP030 — Learn how hatred self-perpetuates]]
 ## Related concepts
 
+
 - [[Cognitive dissonance]] — the review draws on dissonance theory to frame its argument about justifying disadvantage ([Jost, Banaji and Nosek 2004](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf))
 - [[Social identity theory]] — the review names group justification as its primary focus, and credits it with explaining the first two motives ([Jost, Banaji and Nosek 2004](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf))
 - [[Status quo bias]]
-
+- [[Stigma research]] — the account of why people defend the systems they live under
 ## Sources
 
 - [Jost, Banaji and Nosek, A decade of system justification theory: accumulated evidence of conscious and unconscious bolstering of the status quo (Political Psychology 25(6), 2004), author-hosted full text](https://banaji.sites.fas.harvard.edu/research/publications/articles/2004_Jost_PP.pdf) — the blockquote, the 1994 definition quoted, the three-motive distinction and the conditional social-change claim (sections "Ego, Group, and System Justification Motives" and "Enhanced System Justification Among the Disadvantaged")

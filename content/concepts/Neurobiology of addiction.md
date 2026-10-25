@@ -29,12 +29,13 @@ Read plainly, the stages run from drug reward to drug distress to drug craving. 
 
 ## Related concepts
 
+
 - [[Incentive salience theory]] — the Berridge-Robinson wanting theory; the review's definition uses the term "incentive salience"
 - [[The craving-to-addiction model]] — my model of craving and addiction
 - [[The insatiability of craving]]
 - [[Relapse prevention protocols]] — the protocol approaches relapse through cognitive-behavioural planning; the review describes addiction through neurocircuitry
 - [[Reward prediction error (Schultz)]] — midbrain dopamine neurons signaling reward prediction error
-
+- [[K278]] — The page anchors the concept's core mechanism, cue-triggered wanting outlasting liking, with the verbatim clinical claim.
 ## Sources
 
 - [Koob & Volkow, "Neurobiology of addiction: a neurocircuitry analysis", Lancet Psychiatry 3(8):760-773, 2016, PubMed record 27475769](https://pubmed.ncbi.nlm.nih.gov/27475769/) — the three-stage framework and circuitry claims quoted verbatim from the abstract

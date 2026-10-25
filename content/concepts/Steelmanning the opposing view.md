@@ -33,9 +33,10 @@ Before replying to someone you disagree with, write their argument in three sent
 
 ## Related concepts
 
+
 - [[Partial truths in every opinion]] — the finding that even wrong views hold something
 - [[Epistemic humility]] — knowing what one does not know
-
+- [[K365]] — the kernel that turns steelmanning into a protocol for taking a public position
 ## Sources
 
 - [Mill, On Liberty, chapter 2 (Project Gutenberg #34901)](https://www.gutenberg.org/cache/epub/34901/pg34901.txt) — the Cicero passage, the knows-only-his-own-side passage and the most-plausible-form passage, all verified verbatim

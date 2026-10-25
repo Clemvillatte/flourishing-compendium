@@ -29,8 +29,9 @@ The page's facet "and group performance" rests on the study above. The linked pr
 
 ## Related concepts
 
-- [[Generalized trust]] — the trust climate safety needs
 
+- [[Generalized trust]] — the trust climate safety needs
+- [[K361]] — The kernel operationalises psychological safety in a concrete channel design: fixed question, protected first answerer, honest no-action log.
 ## Sources
 
 - [Edmondson (1999), "Psychological Safety and Learning Behavior in Work Teams", Administrative Science Quarterly 44(2), 350-383 (MIT-hosted PDF)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf) — definition, distinction from cohesiveness and trust, limitations

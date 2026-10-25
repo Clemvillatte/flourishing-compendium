@@ -35,13 +35,14 @@ Its cross-tradition cognates are [[T002 — Aristotle|Aristotle]]'s habituation 
 - [[B130 — Expect awakening to shift in a moment]] — the sudden-seeing counterweight
 
 ## Related concepts
+
 - [[T012 — Laozi]]: the Daoist cognate of habituation the page lists.
 
 - [[Eightfold Path]] — the same path paced for ordinary life
 - [[The doctrine of the mean]] — Aristotle's habituation logic
 - [[The journey of a thousand miles]] — Laozi's stepwise way
 - [[Deliberate practice]] — the modern research cousin
-
+- [[Subitism]] — the gradualist pole the Platform Sutra sets sudden seeing against
 ## Sources
 
 - [MN 107, Gaṇakamoggallāna Sutta (Thanissaro translation, dhammatalks.org)](https://www.dhammatalks.org/suttas/MN/MN107.html) — the horse-tamer passage, quoted above

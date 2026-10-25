@@ -42,6 +42,8 @@ Where the Buddhist mark stresses passing, the Daoist chapter stresses the return
 - [[A075 — Recognise that friendships change over time]] and [[D159 — Treat your body as a loan, not a possession]] — the fact applied to a relationship and to the body
 
 ## Related concepts
+
+
 - [[T012 — Laozi]]: the Daoist cognate the page lists beside the Three Marks.
 
 
@@ -56,6 +58,8 @@ Where the Buddhist mark stresses passing, the Daoist chapter stresses the return
 - [[Acceptance]] — the response the fact asks for
 - [[Mindfulness]] — the observation practice that watches states pass
 - [[S118]] — A Stoic principle on accepting loss as return
+- [[Sorrow's fruit]] — the Gibran chapter holds joy and sorrow as one substance, the impermanence this concept maps
+- [[The art of letting go]] — the fact that everything that arises will pass
 ## Sources
 
 - Buddha, Dhammapada — [Dhammapada 20, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html) — verse 277 quoted above

@@ -45,10 +45,12 @@ No guided version is supplied here.
 
 ## Related concepts
 
+
 - [[Self-transcendence]]
 - [[Collective effervescence theory Durkheim]]
 - [[Psychological richness]]
 - [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation appraisals the awe walk builds on (with Keltner).
+- [[K328]] — awe and aesthetic attention are neighboring ways of attending to something larger
 ## Related kernels
 
 - [[K107 — Soft fascination]]

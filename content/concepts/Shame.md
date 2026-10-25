@@ -32,6 +32,7 @@ Several principles treat shame, and they come from different traditions. SE030 (
 
 
 
+
 - [[Guilt]] — the contrast emotion in the review
 - [[Guilt motivates reparative behaviour]] — the repair side of guilt
 - [[Opposite action (Linehan)]] — a skill that Rizvi and Linehan tested on maladaptive shame in a pilot study
@@ -44,6 +45,7 @@ Several principles treat shame, and they come from different traditions. SE030 (
 - [[SE026]] — A principle on suffering as shared human material rather than a private defect
 - [[Self-conscious emotions]] — the family's global-attribution member: feeling bad about the self rather than a deed
 - [[T032 — Linehan, Marsha]]: the Rizvi and Linehan pilot the page's opposite-action line cites.
+- [[Stigma research]] — the emotion internalized stigma settles into
 ## Sources
 
 - [Tangney, Stuewig & Mashek (2007), "Moral emotions and moral behavior", Annual Review of Psychology 58, 345-372 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/) — definitions, action tendencies, qualifications

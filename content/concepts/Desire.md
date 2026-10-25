@@ -29,6 +29,8 @@ The Stanford Encyclopedia maps the main theoretical options: on the most widely 
 ## Related concepts
 
 
+
+
 - [[Natural and necessary]] — the Epicurean classification that disciplines desire
 
 - [[Tanha]] — the Buddhist analysis of craving
@@ -37,6 +39,8 @@ The Stanford Encyclopedia maps the main theoretical options: on the most widely 
 
 - [[Conatus]] — Spinoza's striving as the essence of a thing
 - [[SP012]] — distinguish competing wants without equating their names with their causes
+- [[K278]] — The kernel gives the desire concept its practical dividing rule: is this pull a want or a liking, and does the log say it converts.
+- [[K280]] — The page names desire's blind spot, the sufficient thing overlooked while the insufficient thing is pursued, and trains attention against it.
 ## Sources
 - SEP Desire: https://plato.stanford.edu/entries/desire/
 

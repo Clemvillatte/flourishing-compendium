@@ -36,10 +36,11 @@ Their finding: "In two studies with 699 people, working in groups of two to five
 
 ## Related concepts
 
+
 - [[The wisdom of crowds]]
 - [[Theory of mind]]
 - [[Dialogue]]
-
+- [[K363]] — equal conversational turn-taking is one of the few measured predictors of a group's c factor
 ## Sources
 
 - Woolley et al., 2010

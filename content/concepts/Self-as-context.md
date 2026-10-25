@@ -34,6 +34,7 @@ Cross-tradition bridge: [[Anatta]] is the Buddhist account of the same insight �
 ## Related concepts
 
 
+
 - [[Anatta]] — the Buddhist teaching my bridge line pairs with this concept
 - [[The observing self]] — Deikman's version of the noticing position
 - [[Cognitive defusion]] — the sibling ACT process for stepping back from thoughts
@@ -42,6 +43,7 @@ Cross-tradition bridge: [[Anatta]] is the Buddhist account of the same insight �
 - [[The examined life]] — the Delphic self-knowledge that page names at this concept's root
 - [[Acceptance and Commitment Therapy]] — the protocol that trains this stance
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies self-as-context as a self-dimension process
+- [[K139]] — the practice page for this concept; it carries the component-evidence caution
 ## Sources
 
 - Hayes et al., 2011 — [Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello, Acceptance and Commitment Therapy and Contextual Behavioral Science, Behav Ther 44(2):180-198, doi 10.1016/j.beth.2009.08.002 (Epub 2011 Jun 1; PubMed issue dating 2013 Jun), author manuscript PMC3635495 (PMID 23611068)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/) — the definition and clinical rationale quoted above, verified against the full text

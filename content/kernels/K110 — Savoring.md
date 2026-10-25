@@ -39,10 +39,11 @@ Practises the concept: [[Savoring|Savoring]]
 
 ## Related concepts
 
+
 - [[Savoring]]
 - [[Positive emotions research]]
 - [[Joy]]
-
+- [[K357]] — shared attention is savoring's social form
 ## Related kernels
 
 - [[K106 — Five-senses grounding]]

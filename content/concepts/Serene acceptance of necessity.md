@@ -21,11 +21,12 @@ The original entry's second source offers a comparison in the emotions' terms. S
 
 ## Related concepts
 
+
 - [[The dichotomy of control]] — the sorting of what is up to us that the discipline rests on
 - [[Amor fati]] — Nietzsche's version of wanting what happens
 - [[Acceptance]] — the clinical counterpart of the same stance
 - [[The art of letting go]] — the letting-go practice the serenity names
-
+- [[Stillness under turbulence]] — the Stoic counterpart on the response side
 ## Sources
 
 - Epictetus, Enchiridion (Internet Classics Archive translation) ([classics.mit.edu](https://classics.mit.edu/Epictetus/epicench.html))

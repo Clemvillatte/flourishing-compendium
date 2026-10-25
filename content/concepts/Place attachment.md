@@ -31,9 +31,10 @@ The linked principles apply the concept to practice, for example M022 (Root your
 
 ## Related concepts
 
+
 - [[Being-at-home]] — the dwelling side of belonging
 - [[Ecological identity]] — identity tied to the natural world
-
+- [[Solastalgia]] — solastalgia is the distress of losing the place one is attached to
 ## Sources
 
 - [Scannell & Gifford (2010), "Defining place attachment: A tripartite organizing framework", Journal of Environmental Psychology 30, 1-10 (text copy, HSE University)](https://www.hse.ru/data/2019/03/04/1196347392/Gifford_2.pdf) — abstract, dimensions, functions

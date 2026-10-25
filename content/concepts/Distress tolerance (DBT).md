@@ -35,11 +35,13 @@ I read the two-form definition as the hinge between feeling and action: the disc
 ## Related concepts
 
 
+
 - [[Emotion regulation]]
 - [[Dialectical behaviour therapy, emotion modulation]] — the therapy the module belongs to
 - [[Opposite action (Linehan)]] — a DBT skill that works through action
 - [[AF041]] — AF041 is the principle form of this page's construct: the capacity to bear intense affect without the act that makes it worse.
 - [[T032 — Linehan, Marsha]]: the module's author (Linehan, 1993).
+- [[TIPP skills (DBT)]] — the capacity to withstand aversive states
 ## Sources
 
 - Linehan, 1993

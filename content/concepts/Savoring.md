@@ -42,6 +42,7 @@ An example at its smallest: the evening review asks for one moment worth keeping
 
 
 
+
 - [[Gratitude]] — attending to the good while it is here
 - [[Positivity effect]] — the present-oriented emotional goal behind the tilt
 - [[Future time perspective]] — the present-side counterpart the Future orientation neglects
@@ -50,6 +51,7 @@ An example at its smallest: the evening review asks for one moment worth keeping
 - [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 - [[Tat tvam asi]] — the mahavakya's address form pairs with savoring's attention to what is present
+- [[K357]] — the deliberate up-regulation of good feeling by attention has a social form: attending to the same thing with company
 ## Sources
 
 - [Bryant, F. B. "Savoring." Oxford Research Encyclopedia of Psychology](https://academic.oup.com/reference/62403/reference-article/555481967)

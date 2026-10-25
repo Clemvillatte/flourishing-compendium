@@ -36,13 +36,16 @@ Existential psychoanalysis seeks to understand the unity behind a person’s att
 
 ## Related concepts
 
+
+
 - [[Bad faith]]
 - [[Existence precedes essence]]
 - [[Radical freedom]]
 - [[Authenticity]]
 - [[Self-making]]
 - [[Personal projects]]
-
+- [[Self-trust]] — the self-reliant stance as an existential choice
+- [[Self-legislation]] — the existential version of giving oneself the law
 ## Sources
 
 - Quotations from Sartre, Being and Nothingness (1956: 60, 570) and from Sartre, Baudelaire (cited in SEP as 1947a [1967: 192]), all as printed in the [Stanford Encyclopedia of Philosophy entry on Sartre (opened)](https://plato.stanford.edu/entries/sartre/)

@@ -23,10 +23,11 @@ The trait is not timidity. The studies found that people scoring high in intelle
 
 ## Related concepts
 
+
 - [[Docta ignorantia]] — the premodern ancestor of humility about one's own knowledge
 - [[Relational humility]] — the interpersonal side of the same disposition
 - [[Steelmanning the opposing view]] — a practice the humble arguer is more likely to take up
-
+- [[K365]] — rebuilding the opposing case at full strength is the humility exercise in civic form
 ## Sources
 
 - Leary et al., 2017

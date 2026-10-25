@@ -44,6 +44,7 @@ One sentence written at the top of the day's plan, "this may be one of few remai
 Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of death) and its Buddhist one [[Impermanence]].
 
 ## Related concepts
+
 - [[T013 — Seneca]]: the practice the page opens with, in his letters' terms.
 
 - [[M013]] — the remembrance-of-death tradition and the flower-and-song elegies treat the same fact from two sides
@@ -51,7 +52,7 @@ Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of de
 - [[Premeditatio malorum]] — adversity rehearsed instead of death
 - [[Impermanence]] — the Buddhist account of why the ending is worth remembering
 - [[Acedia]] — the collapse the practice avoids when it curdles into apathy
-
+- [[Temporality (Zeitlichkeit)]] — the practice Heidegger's being-toward-death turns into
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the three passages quoted above

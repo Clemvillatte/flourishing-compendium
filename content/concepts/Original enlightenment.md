@@ -19,10 +19,11 @@ I carrie this in two principles: B061 (Trust original purity: nothing to attain)
 
 ## Related concepts
 
+
 - [[Buddha-nature]] — the wider Mahayana idea the doctrine builds on
 - [[Tathata, suchness]] — what the false thoughts cover, on the sutra's account
 - [[Beginner's mind]]
-
+- [[Subitism]] — the doctrinal cousin that grounds suddenness in what is already present
 ## Sources
 
 - [Jacqueline I. Stone, "From Buddha Nature to Original Enlightenment: 'Contemplating Suchness' in Medieval Japan"](https://buddhajones.net/papers/stone_buddha-nature-original-enlightenment_2022.pdf) — the verbatim doctrinal summary

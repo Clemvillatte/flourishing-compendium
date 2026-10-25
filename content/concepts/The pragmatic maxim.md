@@ -42,8 +42,9 @@ The maxim is not the slogan that truth is whatever works. The SEP entry records 
 
 ## Related concepts
 
-- [[Holding as hypothesis]] — the concept page lists this topic among its Related entries; this link returns it
 
+- [[Holding as hypothesis]] — the concept page lists this topic among its Related entries; this link returns it
+- [[K132]] — the practice page for the maxim
 ## Sources
 
 - [Peirce, "How to Make Our Ideas Clear" (1878), Popular Science Monthly 12, via Wikisource](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II) — the maxim and the hardness example, quoted above

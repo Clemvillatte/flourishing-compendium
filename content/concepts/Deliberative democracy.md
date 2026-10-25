@@ -27,8 +27,12 @@ The aim of the process is described in the Wikipedia article on the concept: "De
 ## Related concepts
 
 
+
+
 - [[Procedural justice]] — fair process is the procedure deliberation aims at
 - [[The common good]] — the process conception of the common good
+- [[K365]] — a single-citizen practice of the address-others-in-shared-reasons deliberation the theory describes
+- [[K363]] — the facilitation protocol that makes deliberation happen in an ordinary meeting
 ## Sources
 
 - Bohman, Public Deliberation

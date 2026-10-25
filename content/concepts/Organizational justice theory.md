@@ -40,4 +40,6 @@ Affect · Psychological science
 
 ## Related concepts
 
+
 - [[Procedural justice]] — procedural fairness is one of its three components
+- [[K291]] — The kernel is a hands-on fairness practice for single decisions: written criteria, counterfactual views, and recorded scores against ingroup favoritism.

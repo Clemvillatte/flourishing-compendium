@@ -33,11 +33,13 @@ Two habits follow. First, notice when an action is being forced by external comm
 
 
 
+
 - [[The ten thousand things]] — what each of the ten thousand is allowed to be
 - [[D151]] — the follow-the-seasons principle that follows the same natural pattern ziran names
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[D055]] — naturalness and nonaction in the SEP Laozi discussion
 - [[T012 — Laozi]] — the naturalness discussion in the SEP Laozi entry
+- [[Yin and yang]] — the pairing's balance keeps each thing uncompelled, which is ziran
 ## Related thinkers
 
 - [[T009 — Zhuangzi]] — the self-so naturalness the concept names: action arising from one's own condition, not command

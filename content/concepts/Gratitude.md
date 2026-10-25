@@ -23,6 +23,7 @@ Sara Algoe's find-remind-and-bind theory shifts the center from well-being to re
 My practices split along the same lines: attention practices (S084, AF063, AT021, PP013 with specificity), expression practices (BE055, S037 beneficence), relational and ecological extensions (R058 filial piety, R128 ecological gratitude), and kernels (K053 recognizing kindness received, B112 recognizing your conditions). The full principle list is below.
 
 ## Related concepts
+
 - [[T013 — Seneca]]: the account the page opens with, in his letters' terms.
 
 
@@ -42,6 +43,7 @@ My practices split along the same lines: attention practices (S084, AF063, AT021
 - [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 - [[SP022]] — A Spinozist account of gratitude as wanting to benefit someone who has benefited us out of love.
+- [[VIA classification]] — gratitude is one of the classification's transcendence strengths
 ## Sources
 
 - [Emmons and McCullough, "Counting Blessings Versus Burdens," JPSP 84(2) 2003, pp. 377-389](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf) — the classic experiment, in full text

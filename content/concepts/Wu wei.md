@@ -137,6 +137,8 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 
 
 
+
+
 - [[Effortless action through long effort]] — the training-story side of effortless action: Cook Ding and the nineteen-year blade
 - [[Goal adjustment capacity]] — the Daoist non-forcing that knows when to stop
 - [[Movement as life]] — the non-forcing action that movement requires
@@ -152,6 +154,8 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 - [[Apatheia]] — the Stoic ideal of freedom from passion, not numbness
 - [[Non-contention]] — the Daodejing's refusal to wrangle for position is one of the concrete shapes wu wei takes
 - [[T012 — Laozi]]: the Daodejing 37 and 48 chapters the page quotes for non-forcing.
+- [[Yin and yang]] — wu wei is action with the grain the yin-yang balance describes
+- [[Stillness under turbulence]] — the Daoist non-forcing stance
 ## Sources
 - [Laozi, Daodejing, James Legge translation (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — chapters 37 and 48, quoted above
 - [Stanford Encyclopedia of Philosophy, Zhuangzi (Hansen)](https://plato.stanford.edu/entries/zhuangzi/) — Butcher Ding passage in Hansen's translation, and the remark that the performances look and feel effortless

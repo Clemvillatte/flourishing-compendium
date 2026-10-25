@@ -35,12 +35,13 @@ Both passages concern naming the Tao. The extension to the labels put on people,
 
 ## Related concepts
 
+
 - [[Cognitive defusion]] — the ACT process that loosens the default fusion of word and experience
 - [[Affect labeling]] — the label as the feeling's name, not its verdict
 - [[The limits of language]] — Wittgenstein's Tractatus limit-drawing: what cannot be said clearly must be passed over
 - [[Language on holiday]] — Wittgenstein's diagnosis of philosophical confusion as language idling rather than working
 - [[T012 — Laozi]]: the Daodejing 1 opening the page is built on.
-
+- [[K132]] — the maxim is the test behind the distrust
 ## Related thinkers
 
 - [[T009 — Zhuangzi]]: the critique of argumentative words that never reach their point, paired with D016.

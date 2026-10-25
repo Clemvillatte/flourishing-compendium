@@ -21,8 +21,9 @@ Hofmann and colleagues' 2010 meta-analysis examined mindfulness-based therapies 
 
 ## Related concepts
 
-- [[Judgment adds the harm]]
 
+- [[Judgment adds the harm]]
+- [[K117]] — staying in the feared situation is the refusal to shoot the second arrow
 ## Sources
 
 - [Sallatha Sutta: The Arrow, SN 36.6, translated by Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html): the physical/mental pain distinction and the instructed disciple's response.

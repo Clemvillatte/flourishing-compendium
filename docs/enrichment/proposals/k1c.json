@@ -1,174 +1,9 @@
 {
  "reciprocal": [
   {
-   "into": "Savoring",
-   "link": "K357 — Shared attention",
-   "why": "the deliberate up-regulation of good feeling by attention has a social form: attending to the same thing with company"
-  },
-  {
-   "into": "Shared reality",
-   "link": "K357 — Shared attention",
-   "why": "attending to the same thing is one everyday setting where perceived commonality of inner states shows up"
-  },
-  {
-   "into": "Intersubjectivity",
-   "link": "K357 — Shared attention",
-   "why": "a wordless shared focus is a simple instance of the shared world"
-  },
-  {
-   "into": "Capitalization",
-   "link": "K357 — Shared attention",
-   "why": "the talking practice that points the same direction as silent co-attendance"
-  },
-  {
-   "into": "Being-with (Mitsein)",
-   "link": "K357 — Shared attention",
-   "why": "attending to one thing together, without words, parallels Heidegger's account of being-with"
-  },
-  {
-   "into": "Intersubjectivity",
-   "link": "K355 — Synchrony practice",
-   "why": "the body layer this practice notices is part of how sharedness across minds is enacted"
-  },
-  {
-   "into": "Embodied cognition",
-   "link": "K355 — Synchrony practice",
-   "why": "the synchrony findings are one of the social branches of the embodied research programme"
-  },
-  {
-   "into": "I and Thou",
-   "link": "K355 — Synchrony practice",
-   "why": "attending to the bodily exchange, without staging it, parallels the unpossessive meeting Buber describes"
-  },
-  {
-   "into": "Empathy",
-   "link": "K355 — Synchrony practice",
-   "why": "movement coordination is a neighboring bodily phenomenon to felt understanding"
-  },
-  {
-   "into": "Consummatory experience",
-   "link": "K328 — Aesthetic attention",
-   "why": "this kernel is the practice of Dewey's fulfilled experience: letting one thing run its course in attention"
-  },
-  {
-   "into": "Neuroaesthetics",
-   "link": "K328 — Aesthetic attention",
-   "why": "the biological layer under the attentional practice of engaging with art and objects"
-  },
-  {
-   "into": "Awe",
-   "link": "K328 — Aesthetic attention",
-   "why": "one of the stronger feelings an aesthetic object can trigger is awe at vastness"
-  },
-  {
-   "into": "Nature exposure",
-   "link": "K205 — Nature exposure",
-   "why": "the practice page for this concept; it anchors the same evidence with the studies' scope notes"
-  },
-  {
-   "into": "Peak experiences",
-   "link": "K205 — Nature exposure",
-   "why": "natural settings are among the places Maslow's rare moving moments get occasioned"
-  },
-  {
    "into": "Prosocial spending",
    "link": "K213 — Prosocial spending",
    "why": "the practice page for this concept, including the replication record"
-  },
-  {
-   "into": "Acts of kindness (Lyubomirsky)",
-   "link": "K213 — Prosocial spending",
-   "why": "the sibling practice of kind acts without money changing hands; the two literatures run parallel"
-  },
-  {
-   "into": "K110 — Savoring",
-   "link": "K357 — Shared attention",
-   "why": "shared attention is savoring's social form"
-  },
-  {
-   "into": "K228 — Awe practice",
-   "link": "K328 — Aesthetic attention",
-   "why": "awe and aesthetic attention are neighboring ways of attending to something larger"
-  },
-  {
-   "into": "K303 — Sensory nature immersion",
-   "link": "K205 — Nature exposure",
-   "why": "immersion in natural settings through the senses is nature exposure taken slowly"
-  },
-  {
-   "into": "K211 — Acts of kindness",
-   "link": "K213 — Prosocial spending",
-   "why": "kindness with and without money changing hands"
-  },
-  {
-   "into": "Self-as-context",
-   "link": "K139 — Self-as-context",
-   "why": "the practice page for this concept; it carries the component-evidence caution"
-  },
-  {
-   "into": "Cognitive defusion",
-   "link": "K139 — Self-as-context",
-   "why": "the sibling ACT process; stepping back from thoughts versus stepping back from the self-story"
-  },
-  {
-   "into": "Graded exposure / systematic desensitisation (Wolpe)",
-   "link": "K117 — Graded exposure",
-   "why": "the practice page for this concept"
-  },
-  {
-   "into": "The second arrow",
-   "link": "K117 — Graded exposure",
-   "why": "staying in the feared situation is the refusal to shoot the second arrow"
-  },
-  {
-   "into": "Behavioral activation",
-   "link": "K174 — Behavioral activation",
-   "why": "the practice page for this concept"
-  },
-  {
-   "into": "Intersubjectivity",
-   "link": "K309 — Intersubjective presence",
-   "why": "the practice page for attending to the bodily floor of the shared world"
-  },
-  {
-   "into": "I and Thou",
-   "link": "K309 — Intersubjective presence",
-   "why": "attending to the other's whole presence rather than only their words parallels Buber's meeting"
-  },
-  {
-   "into": "Embodied cognition",
-   "link": "K309 — Intersubjective presence",
-   "why": "the synchrony findings are a social branch of the embodied research programme"
-  },
-  {
-   "into": "K355 — Synchrony practice",
-   "link": "K309 — Intersubjective presence",
-   "why": "the near-sibling practice: presence of the other versus coordination of the exchange"
-  },
-  {
-   "into": "K139 — Self-as-context",
-   "link": "K402 — Listen to the storyteller for thirty seconds",
-   "why": "both train the noticing position relative to the self-story (reverse-direction reciprocal from K139's Related list)"
-  },
-  {
-   "into": "Epoché",
-   "link": "K305 — Bracketing interpretation",
-   "why": "the practice page for suspending interpretation"
-  },
-  {
-   "into": "Suspension of the natural attitude",
-   "link": "K305 — Bracketing interpretation",
-   "why": "the bracket applied at the moment of experience"
-  },
-  {
-   "into": "The pragmatic maxim",
-   "link": "K132 — The pragmatic maxim",
-   "why": "the practice page for the maxim"
-  },
-  {
-   "into": "Distrust names and labels",
-   "link": "K132 — The pragmatic maxim",
-   "why": "the maxim is the test behind the distrust"
   },
   {
    "into": "The dichotomy of control",
@@ -186,21 +21,6 @@
    "why": "the sorting exercises that apply the construct"
   },
   {
-   "into": "The serenity prayer",
-   "link": "K267 — Controllability sorting",
-   "why": "the same two columns in petition form"
-  },
-  {
-   "into": "Dignity",
-   "link": "K321 — Dignity conversation",
-   "why": "the spoken practice that guards dignity"
-  },
-  {
-   "into": "Generativity theory",
-   "link": "K321 — Dignity conversation",
-   "why": "the account handed on is a generative act"
-  },
-  {
    "into": "Narrative identity",
    "link": "K321 — Dignity conversation",
    "why": "the life story gathered and witnessed in speech"
@@ -216,64 +36,9 @@
    "why": "the open question and the unconsoling stance both belong to the family"
   },
   {
-   "into": "Logotherapy",
-   "link": "K351 — The meaning question",
-   "why": "the question is the seed form of Frankl's system"
-  },
-  {
    "into": "Habit formation",
    "link": "K257 — Habituation by design",
    "why": "the design borrows the context-cued repetition process"
-  },
-  {
-   "into": "Virtue ethics",
-   "link": "K257 — Habituation by design",
-   "why": "the tradition that gives the doing its direction"
-  },
-  {
-   "into": "Affect labeling",
-   "link": "K305 — Bracketing interpretation",
-   "why": "naming before interpreting is the empirical cousin of the bracket"
-  },
-  {
-   "into": "Intrinsic versus extrinsic goals",
-   "link": "K281 — Desire inventory",
-   "why": "the inventory's third question turns on the distinction"
-  },
-  {
-   "into": "Phenomenological description",
-   "link": "K318 — Absurd-revolt practice",
-   "why": "the lucid naming both practices begin with"
-  },
-  {
-   "into": "Phenomenological description",
-   "link": "K304 — Lived-body description",
-   "why": "the lucid naming both practices begin with"
-  },
-  {
-   "into": "The ongoing reduction",
-   "link": "K318 — Absurd-revolt practice",
-   "why": "the repeated returning to the rock and to the bracket"
-  },
-  {
-   "into": "Reflective practice",
-   "link": "K263 — Post-action phronesis review",
-   "why": "the after-action member of the reflective family"
-  },
-  {
-   "into": "Practical wisdom",
-   "link": "K263 — Post-action phronesis review",
-   "why": "the review loop is how the virtue is meant to develop"
-  },
-  {
-   "into": "Deliberation as rehearsal",
-   "link": "K263 — Post-action phronesis review",
-   "why": "forward rehearsal and after-action review are the two ends of deliberation"
-  },
-  {
-   "into": "Narrative redemption sequences",
-   "link": "K336 — Contamination sequence audit",
-   "why": "the audit inspects the mirrored structure: contamination erasing good beginnings"
   },
   {
    "into": "Narrative identity",
@@ -281,110 +46,16 @@
    "why": "the audit works within the narrative-identity programme"
   },
   {
-   "into": "Reconfiguration of narrative",
-   "link": "K142 — Narrative reconstruction",
-   "why": "the practice page for the concept"
-  },
-  {
-   "into": "Expressive writing",
-   "link": "K142 — Narrative reconstruction",
-   "why": "the reconstruction borrows the writing evidence base, honestly small"
-  },
-  {
    "into": "Narrative identity",
    "link": "K142 — Narrative reconstruction",
    "why": "the sentence is a unit of the identity theory"
   },
   {
-   "into": "Steelmanning the opposing view",
-   "link": "K365 — Public reasoning",
-   "why": "the kernel that turns steelmanning into a protocol for taking a public position"
-  },
-  {
-   "into": "Deliberative democracy",
-   "link": "K365 — Public reasoning",
-   "why": "a single-citizen practice of the address-others-in-shared-reasons deliberation the theory describes"
-  },
-  {
-   "into": "Epistemic humility",
-   "link": "K365 — Public reasoning",
-   "why": "rebuilding the opposing case at full strength is the humility exercise in civic form"
-  },
-  {
-   "into": "Deliberative democracy",
-   "link": "K363 — The deliberative practice",
-   "why": "the facilitation protocol that makes deliberation happen in an ordinary meeting"
-  },
-  {
-   "into": "Collective intelligence",
-   "link": "K363 — The deliberative practice",
-   "why": "equal conversational turn-taking is one of the few measured predictors of a group's c factor"
-  },
-  {
-   "into": "Devil's advocate",
-   "link": "K363 — The deliberative practice",
-   "why": "the evidence-based alternative: authentic dissent beats role-played advocacy"
-  },
-  {
-   "into": "Care ethics",
-   "link": "K342 — The caring response",
-   "why": "the trainable everyday form of the one-caring's receptive attention"
-  },
-  {
-   "into": "Active listening",
-   "link": "K342 — The caring response",
-   "why": "the experimental finding behind it: listeners who receive rather than advise leave speakers feeling more understood"
-  },
-  {
-   "into": "Role model research",
-   "link": "K252 — Moral exemplar modelling",
-   "why": "the trainable version of role-modelling: nominate, profile, and consult your own exemplars"
-  },
-  {
-   "into": "Exemplarism",
-   "link": "K252 — Moral exemplar modelling",
-   "why": "the everyday practice of the exemplarist starting point: admiration guiding emulation"
-  },
-  {
-   "into": "Deconditioning of learned self-concepts",
-   "link": "K148 — Variation against the story",
-   "why": "the weekly unit of deconditioning: one act the self-story forbids, tested against a written forecast"
-  },
-  {
-   "into": "Self-concordance theory",
-   "link": "K330 — Value-creation audit",
-   "why": "the audit is the hands-on way to test whether a goal is self-concordant or internalized"
-  },
-  {
-   "into": "Acceptance alongside values-based action",
-   "link": "K330 — Value-creation audit",
-   "why": "the upstream step: decide which values are yours before committing action to them"
-  },
-  {
-   "into": "Restorative justice",
-   "link": "K337 — Interest-based framing",
-   "why": "restorative processes turn on surfacing the needs beneath the positions in conflict"
-  },
-  {
-   "into": "Dialogue",
-   "link": "K337 — Interest-based framing",
-   "why": "the positions-to-interests reframe gives a hard dialogue something structural to work with"
-  },
-  {
-   "into": "Intersubjectivity",
-   "link": "K356 — The face practice",
-   "why": "the face is where intersubjectivity starts: the training is attention to the other's presenting presence"
-  },
-  {
    "into": "Psychological flexibility",
    "link": "K315 — Freedom in constraint",
    "why": "the constraint-stays-response-changes move is psychological flexibility practised on one fixed fact"
-  },
-  {
-   "into": "Acceptance alongside values-based action",
-   "link": "K315 — Freedom in constraint",
-   "why": "a fixed frame plus chosen valued action is the ACT pairing compressed into one exercise"
   }
  ],
- "inline": []
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 11 recip, 0 inline"
 }

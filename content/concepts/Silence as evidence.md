@@ -19,10 +19,11 @@ Peirce's contrast is the method of science, which lets belief be determined by "
 
 ## Related concepts
 
+
 - [[Survivorship bias]] — the distributional version of missing evidence
 - [[Perceived partner responsiveness]] — the interpersonal case where speaking is the test
 - [[Groupthink theory]] — the organizational name for authority-produced consensus
-
+- [[Silence in negotiation research]] — when silence does and does not count as agreement
 ## Sources
 
 - Peirce, "The Fixation of Belief," 1877 (Wikisource): https://en.wikisource.org/wiki/The_Fixation_of_Belief

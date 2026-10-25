@@ -39,6 +39,10 @@ It is not contempt or dissociation. The exercise ends back on the ground. Distan
 - [[Equanimity]] — what the altitude produces
 - [[Shunyata]] — the vastness without categories, a sibling concept
 
+## Related concepts
+
+- [[K273]] — The kernel is the concept's practice page: Marcus Aurelius IX.29 for the ascent and Kross & Ayduk 2011 for the self-distancing mechanism, both quoted verbatim.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations, George Long translation, Book 9 (MIT Internet Classics Archive)](https://classics.mit.edu/Antoninus/meditations.9.nine.html) — the "look down from above" passage

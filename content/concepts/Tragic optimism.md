@@ -32,12 +32,13 @@ His examples run to the defiant power of the human spirit, as logotherapy calls 
 
 ## Related concepts
 
+
 - [[Post-traumatic growth]] — the empirical literature the kernel's growth claim leans on, with its effect-not-universal caveat
 - [[Learned optimism]] — Seligman's construct; the optimism the tragic version refuses to command
 - [[Amor fati]] — the Stoic-Nietzschean affirmation of fate, the philosophical cousin of saying yes in spite of
 - [[Hope]] — the stance's forward-looking component
 - [[Logotherapy]] — Frankl's school, the framework behind this idea
-
+- [[K317]] — The kernel gives the concept its working procedure: the three questions, one honest sentence each, smallest answer acted on.
 ## Sources
 
 - [Frankl, 1946](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)

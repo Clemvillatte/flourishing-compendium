@@ -30,10 +30,11 @@ The entry's reading of the book's close is that what matters is learning to be a
 
 ## Related concepts
 
+
 - [[Angst]]
 - [[Courage — action despite fear]]
 - [[Exposure therapy (Foa, Craske)]]
-
+- [[The classification of fears]] — the Kierkegaard-rooted entry on facing anxiety
 ## Sources
 
 - Kierkegaard

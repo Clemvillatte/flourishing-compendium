@@ -17,9 +17,10 @@ My use is epistemic rather than therapeutic: recall run through a mood is a samp
 
 ## Related concepts
 
+
 - [[Memory reconsolidation]] — the modern account of what happens when memory is retrieved
 - [[Affect as information]] — the sibling use of affect as evidence
-
+- [[State-dependent memory]] — the sibling effect: recall bent by current state
 ## Sources
 
 - Bower, G. H., "Mood and memory", American Psychologist 36(2), 1981, pp. 129-148 — [PubMed 7224324](https://pubmed.ncbi.nlm.nih.gov/7224324/) (citation record; the paper's own abstract is not indexed)

@@ -33,6 +33,8 @@ The same paper is explicit that acceptance is instrumental: "Acceptance (and def
 
 
 
+
+
 - [[Experiential avoidance research]] — acceptance is defined as this avoidance's alternative, and the research line tests the pair
 - [[Experiential avoidance theory]] — the theoretical account of what acceptance is up against
 - [[Psychological flexibility]] — the outcome acceptance is one process inside
@@ -52,6 +54,8 @@ The same paper is explicit that acceptance is instrumental: "Acceptance (and def
 - [[SE022]] — A principle on accepting what one is without approving or resigning to it
 - [[Acceptance and Commitment Therapy]] — the protocol that trains acceptance against experiential avoidance
 - [[Midlevel terms]] — acceptance is a midlevel term paired with defusion
+- [[K271]] — A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control.
+- [[Serene acceptance of necessity]] — the clinical counterpart of wishing things as they happen
 ## Sources
 
 - [Hayes, Luoma, Bond, Masuda & Lillis, "Acceptance and Commitment Therapy: Model, processes and outcomes", Behaviour Research and Therapy 44 (2006), full-text PDF](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf) — definition of acceptance; psychological flexibility; acceptance as method of values-based action

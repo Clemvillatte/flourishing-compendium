@@ -24,6 +24,7 @@ The cross-tradition agreement that growth is an activity is my deepest convergen
 
 ## Related concepts
 
+
 - [[Bhavana (cultivation)]] — the technical term this page generalizes
 - [[Deliberate practice]] — the modern research version of the same theory of change
 - [[Second nature]] — what practice builds, in the Aristotelian key
@@ -31,7 +32,7 @@ The cross-tradition agreement that growth is an activity is my deepest convergen
 - [[Growth mindset]] — the belief side of the same theory
 - [[Learning by doing]] — the educational version, from Dewey
 - [[Neuroplasticity]] — the mechanism claim that practice literally rewires
-
+- [[Metta (loving-kindness)]] — metta-bhavana is the cultivation of goodwill through practice
 ## Sources
 
 - [Bhavana (Wikipedia)](https://en.wikipedia.org/wiki/Bhavana) — the literal meaning, the Canon's compounds, and the 'meditation' rendering

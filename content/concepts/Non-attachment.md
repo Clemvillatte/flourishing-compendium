@@ -28,11 +28,13 @@ The paper's method was to build a measure: the Nonattachment Scale, designed on 
 ## Related concepts
 
 
+
 - [[Nonattachment]]
 - [[Impermanence]] — the impermanent character of mental representations is part of the insight the abstract attributes to nonattachment
 - [[Gelassenheit]] — releasement, the letting-be of things
 - [[Detachment from outcomes]]
 - [[Obsessive attachment]] — the love that loads a whole life onto one perishable carrier
+- [[The art of letting go]] — the Buddhist notion of release from mental fixations
 ## Sources
 
 - [Dhammapada 214, Buddharakkhita translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — the blockquote verse

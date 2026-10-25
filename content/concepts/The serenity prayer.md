@@ -23,6 +23,10 @@ The versions differ in their appeal for grace, their pronouns, and "should" vers
 
 The prayer has long drawn doubts about its authorship. Fred Shapiro's investigation in the Yale Alumni Magazine found versions of the formula printed in newspapers from 1936 onward, none of which refer to Niebuhr, and concluded that it appears possible, indeed plausible, that Niebuhr unconsciously adapted the prayer in the early 1940s from already-circulating formulations of unknown origin. Sifton's account places the composition in the summer of 1943, in Heath, Massachusetts, with first use at the Heath Union Church that summer. In her response to Shapiro, printed alongside his article, she corrects her own chronology: she places the prayer's final composition in 1943 as the year Niebuhr "composed this version of it, which he then authorized for publication, as he had not previously done", and says that had she known about the earlier appearances of a nascent Serenity Prayer she would have altered her reference to the prayer's first use. Niebuhr's own answer was modest: he conceded the possibility of having assimilated the concept from some earlier, forgotten source, while saying he believed he had originated it.
 
+## Related concepts
+
+- [[K267]] — the same two columns in petition form
+
 ## Sources
 
 - [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the carrier of the 1943 version, the AA wording, the pre-1943 attestations, Sifton's account, Niebuhr's own statement, and Shapiro's conclusion.

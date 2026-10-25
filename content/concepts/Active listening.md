@@ -27,10 +27,11 @@ A 2014 experiment compared trained listener responses in brief first conversatio
 
 ## Related concepts
 
+
 - [[Empathic understanding]] — Rogers' clinical term for the stance the listener works from
 - [[Deep listening]] — the contemplative tradition's version of full attention to a speaker
 - [[Empathy]] — the capacity the paraphrase-and-check method draws on
-
+- [[K342]] — the experimental finding behind it: listeners who receive rather than advise leave speakers feeling more understood
 ## Sources
 
 - Weger et al., 2014

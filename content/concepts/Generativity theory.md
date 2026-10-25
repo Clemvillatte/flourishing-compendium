@@ -31,9 +31,12 @@ The model began as a measurement program: its everyday face is the Loyola Genera
 
 ## Related concepts
 
+
+
 - [[Narrative identity theory McAdams]] — the outcome the redemption sequences track
 - [[Erikson's psychosocial theory]] — the developmental frame generativity comes from
-
+- [[K321]] — the account handed on is a generative act
+- [[K333]] — Redemption sequences are the signature narrative form of highly generative adults; the kernel teaches writing one directly.
 ## Sources
 
 - McAdams and de St. Aubin, 1992

@@ -19,6 +19,10 @@ The theory's guide for support is the zone of proximal development:
 
 The zone names what is still forming rather than what has formed: it "defines those functions that have not yet matured but are in the process of maturation, functions that will mature tomorrow but are currently in an embryonic state. These functions could be termed the 'buds' or 'flowers' of development rather than the 'fruits' of development" (p. 86). The chapter's summary line gives the theory its direction: "The actual developmental level characterizes mental development retrospectively, while the zone of proximal development characterizes mental development prospectively" (p. 86). For assessment, the distinction separates independent performance from performance achieved with assistance.
 
+## Related concepts
+
+- [[Self-talk research]] — the verbal self-regulation theory the athlete self-talk study cites as its frame
+
 ## Sources
 
 - [Vygotsky 1978, Mind in Society: The Development of Higher Psychological Processes, Harvard University Press, ch. 4 and ch. 6 (FAU full PDF)](https://home.fau.edu/musgrove/web/vygotsky1978.pdf) — the internalization passage (p. 57), the zone-of-proximal-development definition, the buds/flowers passage and the retrospectively/prospectively sentence (p. 86), quoted verbatim

@@ -38,11 +38,12 @@ The same article records the distinction Heidegger draws:
 
 ## Related concepts
 
+
 - [[The relational self]] — the concept I pair with Heidegger's account of being-with.
 - [[Being-in-the-world]] — the structure Being-with is part of.
 - [[Dasein]] — Heidegger's term for the being that Being-with characterises.
 - [[Intersubjectivity]] — the question I pair Being-with with.
-
+- [[K357]] — attending to one thing together, without words, parallels Heidegger's account of being-with
 ## Sources
 
 - [Wrathall M. Martin Heidegger. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/) — the being-with summary, opened for this page.

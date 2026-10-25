@@ -49,12 +49,13 @@ No official recording of the in-conversation noticing exists; a guided dyadic fo
 
 ## Related concepts
 
+
 - [[Intersubjectivity]] — the account of the world's sharedness across minds; the body layer this practice notices is part of how that sharedness is enacted.
 - [[Embodied cognition]] — the research programme that moves thinking into the body; the synchrony findings are one of its social branches.
 - [[I and Thou]] — Buber's account of meeting another without using them; attending to the bodily exchange, without staging it, parallels the unpossessive stance.
 - [[Empathy]] — the felt understanding of another's experience; movement coordination is a neighboring bodily phenomenon rather than the feeling itself.
 - [[Being-with (Mitsein)]] — Heidegger's account of being-with as basic; the spontaneous coordination of two bodies in conversation parallels it.
-
+- [[K309]] — the near-sibling practice: presence of the other versus coordination of the exchange
 ## Related kernels
 
 - [[K357 — Shared attention]]

@@ -36,11 +36,13 @@ The chapter adds that it is the mark of a brave man to face things that are, and
 
 
 
+
 - [[Moral courage research]]
 - [[Authentic courage without props]]
 - [[The courage to act against impulse]]
 - [[A011]] — A011 carries Aristotle's NE III treatment of courage, including the verbatim Rackham definition and battlefield case from III.6 that the Courage concept page is anchored on.
 - [[Satyagraha]] — Gandhi's method is 'not conceived as a weapon of the weak'; it asks for courage of a specific, absorbing kind
+- [[The classification of fears]] — the virtue that answers the classified fears
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Book III (Ross translation) — Internet Classics Archive (opened)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)

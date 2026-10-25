@@ -33,9 +33,10 @@ Voluntary simplicity is not poverty and not austerity for its own sake. The key 
 
 ## Related concepts
 
+
 - [[Dao]]
 - [[Wu wei]]
-
+- [[Simplicity]] — the general attentional argument for choosing less, beside the Thoreau-centred tradition
 ## Sources
 
 - Etzioni, 1998

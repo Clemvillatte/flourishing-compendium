@@ -28,10 +28,11 @@ Consummation is anticipated throughout and recurrently savored: "For then its va
 
 ## Related concepts
 
+
 - [[Optimal experience]]
 - [[Intrinsic motivation]]
 - [[Neuroaesthetics]]
-
+- [[K328]] — this kernel is the practice of Dewey's fulfilled experience: letting one thing run its course in attention
 ## Sources
 
 - Dewey, Art as Experience

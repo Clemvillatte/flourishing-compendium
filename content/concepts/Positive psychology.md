@@ -34,13 +34,14 @@ The field's standing usefulness for this compendium is structural: it is the dis
 
 ## Related concepts
 
+
 - [[PERMA model]] — Seligman's later five-element theory of well-being
 - [[Flourishing scale]] — Huppert and So's ESS-based measure
 - [[Eudaimonic well-being]]
 - [[Learned Helplessness Theory]] — Seligman's earlier research on the negative half
 - [[Flow]] — Csikszentmihalyi's account of engaged absorption
 - [[Optimistic explanatory style]] — the attribution pattern the field studies
-
+- [[VIA classification]] — the classification is one of the research program's main building blocks
 ## Cited in psychology parallels
 
 - [[PP004 — Treat flourishing as multi-dimensional]]

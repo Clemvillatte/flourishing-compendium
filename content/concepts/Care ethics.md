@@ -33,12 +33,13 @@ Ethics · Psychological science
 
 ## Related concepts
 
+
 - [[Care]] — the theory that grew from Noddings's analysis of care
 - [[Justice]] — the rival framework care ethics defines itself against
 - [[Different voice]] — Gilligan's name for the care orientation that care ethics builds on
 - [[Empathy]] — the perceptual side of attentiveness
 - [[Ubuntu|Ubuntu]] — a relational ethics from another tradition
-
+- [[K342]] — the trainable everyday form of the one-caring's receptive attention
 ## Sources
 
 - Gilligan, C. (1982). In a Different Voice. Harvard University Press.

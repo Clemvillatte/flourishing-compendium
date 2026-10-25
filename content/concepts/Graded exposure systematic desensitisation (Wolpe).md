@@ -44,6 +44,7 @@ I scale the technique to self-help size. BE027 teaches graded exposure directly,
 
 
 
+
 - [[Exposure therapy (Foa, Craske)]] — the modern clinical form of the same approach
 - [[Progressive muscle relaxation (Jacobson)]] — the relaxation response Wolpe paired with the hierarchy
 - [[Habituation]] — the learning mechanism the counter-conditioning exploits
@@ -53,6 +54,7 @@ I scale the technique to self-help size. BE027 teaches graded exposure directly,
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the evidence frame the approach sits in
 - [[Behavioural rehearsal / role-play (DBT, social skills training)]] — approaching feared situations in graded steps, a different practice format
 - [[Stress inoculation training]] — the graduated-dose principle SIT borrows
+- [[K117]] — the practice page for this concept
 ## Cited in psychology parallels
 
 - [[BE027 — Learn to use graded exposure — start small, build up]]

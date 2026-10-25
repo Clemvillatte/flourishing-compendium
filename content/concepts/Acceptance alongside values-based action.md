@@ -24,10 +24,13 @@ Acceptance involves attending to thoughts, feelings and bodily sensations withou
 
 ## Related concepts
 
+
+
 - [[Emotion regulation]] — the ACT strategy family inside this taxonomy
 - [[Psychological flexibility]] — the increased ability to adapt that ACT names as its main aim
 - [[Experiential avoidance theory]] — the avoidance pattern that the acceptance component counters
-
+- [[K330]] — the upstream step: decide which values are yours before committing action to them
+- [[K315]] — a fixed frame plus chosen valued action is the ACT pairing compressed into one exercise
 ## Sources
 
 - Hayes, Strosahl and Wilson, 2011 (the six-process model's first presentation; see the Webster source)

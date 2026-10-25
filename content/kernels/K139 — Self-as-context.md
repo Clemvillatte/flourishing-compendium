@@ -54,11 +54,12 @@ Practises the concept: [[Self-as-context|Self-as-context]]
 
 ## Related concepts
 
+
 - [[Self-as-context]] — the concept page this kernel practices; it carries the model's six processes and the deictic-frames account of how the perspective develops.
 - [[Anatta]] — a comparison rather than a clinical claim: the Buddhist teaching that no fixed self is to be found among the contents of mind.
 - [[The observing self]] — Deikman's version of the noticing position.
 - [[Cognitive defusion]] — the sibling ACT process for stepping back from thoughts, aimed at thoughts rather than the self-story.
-
+- [[K402]] — both train the noticing position relative to the self-story (reverse-direction reciprocal from K139's Related list)
 ## Related kernels
 
 - [[K402 — Listen to the storyteller for thirty seconds]]

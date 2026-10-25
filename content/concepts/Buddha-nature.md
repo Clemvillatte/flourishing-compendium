@@ -36,10 +36,11 @@ The sutra conveys the doctrine through nine similes: grain covered by the husk, 
 
 ## Related concepts
 
+
 - [[Original enlightenment]] — the reading that beings are already enlightened.
 - [[Tathata, suchness]] — the suchness the Buddha-nature is identified with.
 - [[The mirror overturning]] — my pairing for the moment of recognition.
-
+- [[Subitism]] — the always-already purity Huineng's verse claims
 ## Sources
 
 - [Tathagatagarbha Sutra, Wisdomlib translation](https://www.wisdomlib.org/buddhism/essay/buddha-nature-lankavatara-sutra/d/doc1145037.html) — the opening passage and the nine-similes description, opened for this page.

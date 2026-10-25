@@ -31,10 +31,11 @@ These are publisher abstracts of the book and two of its chapters, not the full 
 
 ## Related concepts
 
+
 - [[Virtue ethics]] — the tradition within which exemplars and virtues are central
 - [[Virtue]] — one of the terms the theory defines by reference to exemplars
 - [[Eudaimonia]] — the older ethical aim that the theory's "good life" speaks to
-
+- [[K252]] — the everyday practice of the exemplarist starting point: admiration guiding emulation
 ## Sources
 
 - [Zagzebski, Exemplarist Moral Theory, Oxford University Press, 2017, book abstract](https://academic.oup.com/book/6293)

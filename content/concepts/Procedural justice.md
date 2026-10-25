@@ -48,12 +48,13 @@ Tyler's explanation runs through legitimacy. In his words, "Legitimacy is...a ps
 
 ## Related concepts
 
+
 - [[Organizational justice theory]] — the workplace research field that splits procedural from distributive and interactional fairness
 - [[Deliberative democracy]] — the political decision process whose fairness is procedural by definition
 - [[K287 — Fairness audit]] — the kernel that checks a decision process against fairness criteria
 - [[K288 — Voice-inclusion check]] — the kernel for the voice component Tyler's research isolates
 - [[Embodied social identity]] — the group-identification mechanism the group engagement model builds on
-
+- [[K288]] — The kernel gives the field's core voice effect a working gate: the predecision check before a group decision, with the Lind/Kanfer/Earley result and Tyler's voice principle quoted verbatim.
 ## Cited in psychology parallels
 
 - [[P127 — Treat democracy as a way of life, not a mechanism]]
