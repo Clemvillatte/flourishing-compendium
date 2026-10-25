@@ -66,11 +66,11 @@
   "The witness",
   "Perceived partner responsiveness",
   "Perspectivism",
-  "Grace",
   "Following nature's rhythm",
   "The contemplative life",
-  "Self-serving attribution bias",
-  "Variability in practice"
+  "Variability in practice",
+  "Grace",
+  "Self-serving attribution bias"
  ],
  "in_progress": null,
  "flagged": {
@@ -111,12 +111,12 @@
   "Harsh self-criticism": "seed 'predicts psychopathology' overstated: sources show association; Gilbert 2009 is theory; page states this",
   "Integrative Theory of Communication Work": "seed attribution (Kramer) and gloss wrong: ITCW is Donovan and Hazlett 2024 (HCR), about communication as labour during health stressors; supervisor may want to re-map principles",
   "Integrity as consistency": "Emerson Self-Reliance attacks foolish consistency; page separates surface vs character consistency; label is compendium summary",
-  "Grace": "Reopened for QC: advisor QC round 2: contrast scaffolds/decorative glosses removed; contemplative-life leisure sentence now carried as verified Ross quotation",
+  "Grace": "Reopened for QC: advisor QC round 3: 'three words' literal error removed; 'done to the sleeper' reworded; 'gone missing' corrected to 'attenuated'",
   "Timing as wisdom": "Reopened for QC: QC: prose 88 < 150 (pre-existing); expand from page's verified Eno ch.64 quotes",
   "Proper pride (megalopsychia)": "Reopened for QC: QC: prose 98 < 150 (pre-existing); expand from page's verified Ross NE IV.3 quotes",
   "Following nature's rhythm": "Reopened for QC: advisor QC round 2: contrast scaffolds/decorative glosses removed; contemplative-life leisure sentence now carried as verified Ross quotation",
   "The contemplative life": "Reopened for QC: advisor QC round 2: contrast scaffolds/decorative glosses removed; contemplative-life leisure sentence now carried as verified Ross quotation",
-  "Self-serving attribution bias": "Reopened for QC: advisor QC round 2: contrast scaffolds/decorative glosses removed; contemplative-life leisure sentence now carried as verified Ross quotation",
+  "Self-serving attribution bias": "Reopened for QC: advisor QC round 3: 'three words' literal error removed; 'done to the sleeper' reworded; 'gone missing' corrected to 'attenuated'",
   "Variability in practice": "Reopened for QC: advisor QC round 2: contrast scaffolds/decorative glosses removed; contemplative-life leisure sentence now carried as verified Ross quotation",
   "Predictive processing": "Reopened for QC: advisor QC round 2: scope/decoration repairs to expansion paragraph",
   "The avoidance of suffering": "Reopened for QC: advisor QC round 2: scope/decoration repairs to expansion paragraph",
@@ -127,6 +127,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:47:03+00:00",
+ "updated": "2026-10-25T01:52:13+00:00",
  "band_done": false
 }

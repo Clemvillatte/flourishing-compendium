@@ -19,7 +19,7 @@ The Confessions opens with the received-quiet formulation: "Thou awakest us to d
 
 The passage puts the awakening before the repose.
 
-The two passages make one argument. Seeing, for Augustine, is itself a gift: whoever sees has first received both the thing seen and the power to see it, so insight cannot be claimed as a personal achievement. The awakening works the same way: it is done to the sleeper, as the I.1 passage has it, and the repose follows it. For the principles below, the order matters: the quiet is received, and demanding it of oneself runs against the order the passages describe. Augustine's question in the VII.21 passage carries the point in three words: what has anyone that they have not received?
+The two passages make one argument. Seeing, for Augustine, is itself a gift: whoever sees has first received both the thing seen and the power to see it, so insight cannot be claimed as a personal achievement. The awakening works the same way: it is God's act, as the I.1 passage has it, and the repose follows it. For the principles below, the order matters: the quiet is received, and demanding it of oneself runs against the order the passages describe. Augustine's question in the VII.21 passage carries the point: what has anyone that they have not received?
 
 ### Here
 

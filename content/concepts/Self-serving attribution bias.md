@@ -14,7 +14,7 @@ Self-serving attribution bias is the tendency to explain your own successes by w
 
 The same review finds the bias is not uniform. Asian samples display significantly smaller biases (d = 0.30) than U.S. (d = 1.05) or Western (d = 0.70) samples, and psychopathology is associated with an attenuated bias, smallest for depression (0.21) ([Mezulis et al. 2004](https://pubmed.ncbi.nlm.nih.gov/15367078/)).
 
-For a reader, the two findings point in opposite directions. The bias is large and present in nearly all samples, so any account of one's own record that assigns the successes to skill and the failures to circumstance deserves suspicion on arrival. The exceptions are equally instructive: where the bias is smallest, in depression, the self-serving direction of the explanation has gone missing. The review examined the bias's adaptiveness as a question, which is the right posture for a reader deciding where to hold it.
+For a reader, the two findings point in opposite directions. The bias is large and present in nearly all samples, so any account of one's own record that assigns the successes to skill and the failures to circumstance deserves suspicion on arrival. The exceptions are equally instructive: where the bias is smallest, in depression, the self-serving direction of the explanation is attenuated. The review examined the bias's adaptiveness as a question, which is the right posture for a reader deciding where to hold it.
 
 ### Here
 
