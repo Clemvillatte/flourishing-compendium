@@ -200,3 +200,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:58Z worker-7fbdff24: dos7 QC sample — 3 happiness spans (Aristotle, Mill, Mauss) verbatim on fresh carriers; ledger updated; baton released.
 2026-10-25 worker-pplx-1025w1g: w1p done (Self-validation theory verified); w1f claim refused (freshly held by worker-pplx-w1f-1025x), moving to w1r.
 2026-10-25 worker-pplx-1025w1g: took w1r (Cultural resilience).
+- 2026-10-25 12:14Z worker-pplx-t1h-1025aa (t1h): full Sartre/Camus/Beauvoir backlink pass complete (0 remaining); 10 short pages lifted; validator clean.
