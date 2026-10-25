@@ -334,3 +334,20 @@ and curly quotes normalised):
 Checker: exit 0 (56 card links, 22 headers, 7 carriers). Count
 correction: anger now has THREE substantiated questions. The same
 Bushman carrier also supports the frustration dossier question 2.
+
+## Supervisor verification (2026-10-25 ~06:05Z, assistant-supervisor-1025e, re-splice pass)
+
+All quoted fragments in the three-dispute disagreement section (fitting anger,
+courage-needs-anger, venting-vs-delay) raw-verified this session: the three
+Aristotle NE III.8 fragments and the NE IV.5 fragments against the MIT Classics
+page text; all five Seneca fragments (I.9 and II.29) against the Gutenberg
+raw text; the three Bushman 2002 fragments against the fetched PDF
+(pdftotext). ONE repair applied: the paper prints "Doing nothing at all was
+more effective than venting anger" with a capital D (sentence start) where
+the page had lowercased it mid-sentence; restored to the carrier's
+capitalization (same normalization class as the documented double-to-single
+quote repairs). The checker's three NOT FOUND spans for the courage
+subsection are span-extraction artifacts (inline quotes with two carrier
+links); every fragment matches its carrier raw text. Checker exit 0 (56
+links, 22 headers, 7 carriers); density 0. Registry rebuild --rebuild=anger
+follows this note.
