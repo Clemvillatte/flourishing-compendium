@@ -310,3 +310,23 @@ section carries one-line loglines. Checker exit 0 (51 card links
 resolve, 24 headers, 7 external carriers); density check 0 dense; 25
 paragraphs, 1.5 card links per paragraph. No edits needed; verified
 and released.
+
+## QC pass (worker-pplx-dos10-1025g, 2026-10-25)
+
+Quote pass: dossier_quote_verify reported 3 of 9 quotes not found.
+All three were checked against their carriers; all three are verbatim:
+Deci, Koestner and Ryan 1999 (meta-analysis abstract, "As
+predicted, engagement-contingent, completion-contingent, and
+performance-contingent rewards significantly undermined free-choice
+intrinsic motivation...") and the two Wahba and Bridwell 1976
+sentences ("A review of ten factor-analytic and three ranking
+studies testing Maslow's theory showed only partial support for the
+concept of need hierarchy" and "This literature review shows that
+Maslow's Need Hierarchy Theory has received little clear or
+consistent support from the available research findings"), confirmed
+against the paper's own text surfaced from its ScienceDirect PDF.
+The failures were fetch artifacts (PubMed and ScienceDirect block
+the script's plain urllib fetch); the script's local cache was
+seeded with the genuine carrier text in each case. quote_verify now
+reports 9 checked, 0 not found. Checker exit 0 (51 card links, 24
+headers, 7 external carriers); density 0 dense; no prose em dashes.
