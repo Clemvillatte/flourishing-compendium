@@ -12,25 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 64** — Feelings are information about your transactions
 
-Emotions are the felt sense of how the organism-environment transaction is going. Read them as data about the situation, not as commands or verdicts.
+I can take a feeling seriously while investigating what it means. James gives bodily feeling a central place in his account of the "coarser emotions":
 
-James states the reversal in the Principles of Psychology:
+> "My theory, on the contrary, is that the bodily changes follow directly the perception of the exciting fact, and that our feeling of the same changes as they occur IS the emotion." (The Principles of Psychology, volume II, chapter XXV, [Project Gutenberg](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
 
-> "Our natural way of thinking about these coarser emotions is that the mental perception of some fact excites the mental affection called the emotion, and that this latter state of mind gives rise to the bodily expression. My theory, on the contrary, is that the bodily changes follow directly the perception of the exciting fact, and that our feeling of the same changes as they occur IS the emotion." (James, The Principles of Psychology, vol. II, ch. XXV, [Gutenberg](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
+James is proposing an explanation of how an emotion occurs. My practical question is what I should infer from feeling it.
 
-The chapter's own examples run the sequence backwards: "we feel sorry because we cry, angry because we strike, afraid because we tremble". On this reading the feeling is a report on what the body is already doing about the situation, which is what reading it as data means.
+Schwarz and Clore's research makes that question consequential. In their account of a 1983 laboratory experiment, inducing sadness influenced life-satisfaction judgements, but participants discounted those feelings when they attributed them to an irrelevant source, the room ([Mood as Information: 20 Years Later, pp. 297–298](https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/03_pi_schwarz___clore_mood.pdf)). The related weather finding has been disputed in replication research ([Simonsohn, 2016](https://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/2019/01/Each-reader-published.pdf)).
 
-(Dewey, Experience and Nature, 1925; James, The Principles of Psychology, 1890.)
+I take a modest lesson from the attribution question: the fact that I feel dread and my explanation of that dread need separate attention. I can examine a workload, a difficult relationship, tiredness or another possibility before deciding what needs to change. Calling the feeling data invites that inquiry; it gives me no automatic diagnosis of a job or a person.
 
 **Plain words**
-An emotion arrives as news about a transaction, and the news is about the situation as much as about you. The alarm's job is to get you to check the kitchen, and the alarm is not the fire. Reading the feeling as information means asking what it is reporting before obeying it or suppressing it.
+Notice the feeling and ask what might explain it. I can listen to what it brings to attention while checking the story I have attached to it.
 
 **For example**
-Dread every Sunday night — that's not a character flaw, that's instrumentation. It's reporting on the job, not on you. Listen to the instrument.
+Suppose Sunday evenings bring dread. Write down when it starts, what you expect on Monday and what else is happening. That imagined exercise opens questions about the pattern; it does not identify its cause.
 
 ## Sources
 
 - [William James, The Principles of Psychology, vol. II (Project Gutenberg)](https://www.gutenberg.org/cache/epub/57634/pg57634.txt) — ch. XXV, the emotion theory
+- [Schwarz and Clore, Mood as Information: 20 Years Later (2003)](https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/03_pi_schwarz___clore_mood.pdf): the authors' account of their laboratory and weather experiments.
+- [Uri Simonsohn, Each Reader Decides if a Replication Counts: Reply to Schwarz and Clore (2016)](https://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/2019/01/Each-reader-published.pdf): the weather-finding replication dispute.
 
 ## Practice kernels
 
@@ -39,13 +41,12 @@ Dread every Sunday night — that's not a character flaw, that's instrumentation
 - [[K169 — Anger dissection|K169 Anger dissection]]
 ## Psychology parallels
 
-- **[[Affect as information|Emotions as information]]**, affect as input to judgment (Schwarz and Clore, 1983)
-- **[[Interoceptive inference|Interoceptive inference]]** (Seth, 2013)
+- [[Affect as information|Emotions as information]]: the attribution account discussed above.
+- [[Interoceptive inference|Interoceptive inference]]: further comparative reading.
 
 ## Philosophy parallels
 
-- **[[Transaction|Transaction]]** (Dewey, Experience and Nature)
-- **Emotion as felt tendency** (Dewey, "The Theory of Emotion")
+- [[Transaction|Transaction]]: a philosophical comparison to pursue separately.
 
 <!-- fc: reflections
 What emotion are you currently treating as decoration rather than as information about your transactions? What's the information?
