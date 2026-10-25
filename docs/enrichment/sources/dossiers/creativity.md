@@ -7,7 +7,7 @@ the reading list). Dossier:
 docs/enrichment/dossiers/creativity.md, CURRENT rev 3 (rev 1: 4dc84038d,
 first draft; rev 2: 536cfd694, advisor QC round 1 applied; rev 3: advisor
 QC rounds 2 and 3 applied).
-Checker at rev 3 final: exit 0 (30 card links resolve, 16 headers, 43
+Checker at rev 3 final: exit 0 (30 card links resolve, 16 headers, 46
 external carrier link occurrences; the Novelty research card link was removed
 with the unsupported constraint connection, and the story carriers and inline
 citations were added).
@@ -186,10 +186,14 @@ not necessarily whole files. The relied-on passages are inside those ranges.
   prevalence claim about classrooms and workplaces was the dossier's own);
   H&A citations attached to the behaviorist-position sentence and the
   instructions-versus-rewards sentence; the Three Metamorphoses logline now
-  carries its own opened carrier (Zarathustra, Zimmern translation,
-  Gutenberg, raw curl; the parable's camel, lion, 'I will', 'Thou shalt' and
+  carries its own opened carrier (Zarathustra, Gutenberg, raw curl; the
+  parable's camel, lion, 'I will', 'Thou shalt' and
   child passages all substring-verified) and quotes the child's description
-  from that text.
+  from that text. Fourth pass: the child quotation corrected to the carrier's
+  actual sentence ('Innocence is the child, and forgetfulness...'), the
+  translator credit corrected to Thomas Common as read from the downloaded
+  file's own header (the 'Zimmern' guess was wrong), and the ledger's checker
+  count updated to the current run.
 
 ## Quotations (verification per quote; see the method section)
 
@@ -363,14 +367,17 @@ not necessarily whole files. The relied-on passages are inside those ranges.
     own facts. The Rock Climbers logline is backed by the raw Flow text
     already on file.
 
-22. Thus Spake Zarathustra, 'The Three Metamorphoses' (Zimmern translation,
-    rev 3 second pass). The camel laden hastening into the wilderness, the
-    lion's 'I will' against the dragon 'Thou shalt', the lion's inability
-    to create new values, and the child's 'Innocence is the child, and
-    forgetfulness, a new beginning, a game, a self-rolling wheel'.
+22. Thus Spake Zarathustra, 'The Three Metamorphoses' (Thomas Common
+    translation, rev 3 fourth pass). The camel laden hastening into the
+    wilderness, the lion's 'I will' against the dragon 'Thou shalt', the
+    lion's inability to create new values, and the child's 'Innocence is
+    the child, and forgetfulness, a new beginning, a game, a self-rolling
+    wheel'.
     Carrier: https://www.gutenberg.org/files/1998/1998-0.txt (raw curl;
-    all retained narrative elements substring-verified in the parable text).
-    VERBATIM.
+    translator credit read from the downloaded file's own header;
+    all retained narrative elements substring-verified in the parable
+    text; an earlier 'Zimmern' credit in this ledger and the third-pass
+    commit message was wrong and is corrected here). VERBATIM.
 
 ## Scope and boundary notes
 
