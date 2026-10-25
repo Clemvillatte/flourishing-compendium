@@ -91,3 +91,6 @@
 
 ## Y098 Act, release the fruits
 - Carrier opened: Arnold, The Song Celestial (Gutenberg 2388 text), chapter II lines verified verbatim (page cited the ebook landing page and '2.47-2.48'); removed 'central verse' overclaim, labelled application and illustration, added the next verse.
+
+## Y105, Y110 (Gita, Arnold)
+- Checked against Gutenberg 2388 text: Y105 chapter XIV quotes and paraphrase verified; Y110 chapter XVI list verified (restored two source semicolons). Links changed from ebook landing page to the plain-text file. Also checked all Yoga Sutra pages (Y013, Y017, Y039, Y063) against Gutenberg 2526: quoted passages found; Y015 uses an 'interpretive translation' from another site, not Johnston (labelled so on the page).

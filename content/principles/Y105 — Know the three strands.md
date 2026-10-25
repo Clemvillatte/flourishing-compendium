@@ -12,14 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 105** — Know the three strands
 
-Arnold's rendering of the Gita's descriptive psychology, in Chapter XIV, names the three qualities, Sattwan, Rajas and Tamas, which he glosses as "Soothfastness", "Passion" and "Ignorance", and says of all three that they "bind down The changeless Spirit in the changeful flesh." Each binds in its own way: soothfastness, by purity living unsullied and enlightened, binds the soul to happiness and truth; passion, being kin to appetite and breeding impulse and propensity, binds by tie of works; ignorance, begotten of darkness and blinding mortal men, binds to stupor, sloth and drowsiness. ([Bhagavad Gita, Chapter XIV, Arnold translation](https://www.gutenberg.org/ebooks/2388))
+Arnold's rendering of the Gita's descriptive psychology, in Chapter XIV, names the three qualities, Sattwan, Rajas and Tamas, which he glosses as "Soothfastness", "Passion" and "Ignorance", and says of all three that they "bind down The changeless Spirit in the changeful flesh." Each binds in its own way: soothfastness, by purity living unsullied and enlightened, binds the soul to happiness and truth; passion, being kin to appetite and breeding impulse and propensity, binds by tie of works; ignorance, begotten of darkness and blinding mortal men, binds to stupor, sloth and drowsiness. ([Bhagavad Gita, Chapter XIV, Arnold translation](https://www.gutenberg.org/cache/epub/2388/pg2388.txt))
 
 The chapter's summary of the three bindings:
 
 > "Soothfastness binds souls
 > In pleasant wise to flesh; and Passion binds
 > By toilsome strain; but Ignorance, which blots
-> The beams of wisdom, binds the soul to sloth." ([Chapter XIV, Arnold translation](https://www.gutenberg.org/ebooks/2388))
+> The beams of wisdom, binds the soul to sloth." ([Chapter XIV, Arnold translation](https://www.gutenberg.org/cache/epub/2388/pg2388.txt))
 
 Use these as philosophical descriptions when reflecting on experience. My exercise: describe a recent action, compare it with these three descriptions, and note what the comparison leaves unexplained.
 
