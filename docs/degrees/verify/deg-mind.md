@@ -125,6 +125,74 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
 - Relevant segment: whole lecture, 1:14:51.
 - Verification status: verified-video.
 
+### SRC-M07-014: Dr. Andy Galpin, How to Build Strength, Muscle Size and Endurance (Huberman Lab)
+
+- Identity and access: the episode page is open on hubermanlab.com
+  (https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-build-strength-muscle-size-and-endurance);
+  it offers "Watch the full episode" on the page, and the page's Premium offer
+  covers transcripts and extras, not the episode itself (no paywall on the
+  episode).
+- Duration: NOT PRINTED on the page. The page transcript's final marker is
+  03:25:32 and the final listed chapter begins at 03:29:08, so the episode runs at
+  least about 3:30. BLOCKING FLAG for the owner: a printed duration must be
+  supplied (for example from the episode's YouTube upload) before use.
+- Instructor credentials: Andrew Huberman, host; guest Dr. Andy Galpin, full and
+  tenured professor in the Department of Kinesiology at California State
+  University, Fullerton (per the episode page).
+- Language: English.
+- Content coverage: per the episode page, the discussion covers strength,
+  hypertrophy, power and endurance; training variables such as intensity, volume,
+  rest, progression and frequency; one-rep max estimates; repetition ranges,
+  supersets and blood-flow-restriction training; the 3-by-5 concept;
+  mind-muscle connection; breathing and recovery; combining endurance with
+  strength training; hydration and the Galpin Equation; cold and heat exposure;
+  sodium bicarbonate; creatine; and absolute rest.
+- Relevant segment: whole episode (extent per transcript chapters, see duration
+  flag).
+- Verification status: verified-page, with the duration gap flagged.
+
+### SRC-M07-015: Kristin Neff on Self-Compassion for Educators, Part 1 (Greater Good)
+
+- Identity and access: the video page is open on greatergood.berkeley.edu
+  (https://greatergood.berkeley.edu/video/item/kristin_neff_on_self_compassion_for_educators_part_1);
+  no paywall indicated on the page.
+- Duration: 1:21:48, printed as "TRT 1:21:48" on the page (2026-10-25).
+- Instructor credentials: Kristin Neff, Ph.D., Associate Professor in Educational
+  Psychology, University of Texas at Austin, pioneering self-compassion researcher
+  (per the page); recorded July 2, 2013 at the first Greater Good Science Center
+  Summer Institute for Educators.
+- Language: English.
+- Content coverage: the page describes it as part 1 of a workshop by Kristin Neff
+  on self-compassion for educators, given July 2, 2013 at the first annual Greater
+  Good Science Center Summer Institute for Educators; the page summary does not
+  break down the workshop's internal topics, so the owner should confirm coverage
+  against the video itself before attaching.
+- Relevant segment: whole workshop part 1, 1:21:48.
+- Verification status: verified-video, with coverage basis limited to the host page
+  description.
+
+### SRC-M07-018: Essentials, Improving Health With Stronger Brain-Body Connection (Huberman Lab)
+
+- Identity and access: the episode page is open on hubermanlab.com
+  (https://www.hubermanlab.com/episode/essentials-improving-health-with-stronger-brain-body-connection);
+  the page's Premium offer covers transcripts and extras, not the episode itself
+  (no paywall on the episode).
+- Duration: NOT PRINTED on the page. The transcript is marked as under human
+  review and its chapter markers were not retrievable in-session. BLOCKING FLAG
+  for the owner: a printed duration must be supplied before use.
+- Instructor credentials: Andrew Huberman, professor of neurobiology and
+  ophthalmology at Stanford School of Medicine (per the episode page).
+- Language: English.
+- Content coverage: per the episode page, the episode covers interoception, the
+  brain's sensing of body signals, in relation to sense of self, focus, sleep,
+  healing, emotions, digestion, heart rate, immune function, mood and performance;
+  vagus-nerve brain-body communication; breathwork for alertness and calm;
+  brain-gut communication and sugar cravings; the gut microbiome and fermented
+  foods; nausea reduction tools; fever and body cooling; and heart awareness as an
+  interoception practice.
+- Relevant segment: whole episode.
+- Verification status: verified-page, with the duration gap flagged.
+
 ### M06-AF02: PSYC 110, Lecture 12, Evolution, Emotion and Reason, Emotions Part II (Paul Bloom, Yale)
 
 - Identity and access: oembed confirms the lecture on the YaleCourses channel
