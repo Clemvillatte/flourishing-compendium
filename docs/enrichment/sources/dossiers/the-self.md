@@ -291,3 +291,31 @@ Editorial review only; no carriers or cards freshly opened this pass;
 recasts stay inside the semantic content already documented on the
 cards and this ledger. Scope: candidate-line review; this is not a
 whole-manuscript re-read.
+
+## Advisor-QC correction (2026-10-25, supervisor-pplx-1024c)
+
+Second-pass fidelity fixes to my own voice-review recasts, after
+advisor QC flagged added meaning: the embodied-self gloss drops the
+repetitive tail (the "felt from inside the body" head already carries
+it); the self-handicapping gloss keeps the original possibility and
+attribution scope ("can be blamed on the obstacle, leaving ability out
+of the blame" — no absolute, no personification); the Ricoeur gloss
+drops the added text-reading analogy; the McAdams logline drops the
+unsupported "as much as it reports" comparison ("the telling is a
+shaping of the events"). The other eight recasts stood. Checker exit 0;
+registry rebuilt; node OK.
+
+## Cold-read completion (2026-10-25, supervisor-pplx-1024c)
+
+Full-manuscript read after the advisor-QC corrections, per the
+VOICE-AUDIT requirement that a checker pass does not certify natural
+prose. Findings: the recasts sit naturally in context; paragraph
+development and transitions are sound; the embedded quotations are
+bridged with varied lead-ins; the honest-evidence notes (the
+self-as-context thin-evidence quote at the K139 kernel, the
+Grossmann-Kross design summary in the opening) are model instances of
+the owner's evidence-honesty convention. Two copy defects found and
+fixed: the composite-self gloss ended mid-citation ("(Parfit, p.") and
+the self-affirmation gloss ended mid-citation ("vol."), both now
+completed from their cards (p. 211 as quoted in Korsgaard; vol. 21,
+pp. 261-302). Checker exit 0; registry rebuilt; node OK.

@@ -24,7 +24,7 @@ Two essay angles the material supports. First, the two great examinations of exp
 
 [True self](https://clemvillatte.github.io/flourishing-compendium/#card=True%20self): The construct, in Schlegel and colleagues’ research, of a self felt as real and stable beneath its roles.
 
-[The composite self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20composite%20self): In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in "the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events." (Parfit, p.
+[The composite self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20composite%20self): In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in "the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events." (Parfit, p. 211, as quoted in Korsgaard).
 
 [Self as process](https://clemvillatte.github.io/flourishing-compendium/#card=Self%20as%20process): The self as process is the psychological reading of an old philosophical thought: that a self is something a person is always doing, not a thing they have.
 
@@ -32,7 +32,7 @@ Two essay angles the material supports. First, the two great examinations of exp
 
 [Minimal self](https://clemvillatte.github.io/flourishing-compendium/#card=Minimal%20self): The minimal self is the thinnest sense of being a subject: the first-person character that every experience has, before any reflection or life story.
 
-[Embodied self](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment, of the body as it feels from within.
+[Embodied self](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment.
 
 [Critique of the unencumbered self](https://clemvillatte.github.io/flourishing-compendium/#card=Critique%20of%20the%20unencumbered%20self): Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the "unencumbered self"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel interview, sourcesjournal.org).
 
@@ -160,11 +160,11 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-Completion Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-Completion%20Theory): Wicklund, Gollwitzer, when identity claims are incomplete, people display symbols and seek recognition to complete them.
 
-[Self-Affirmation Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-Affirmation%20Theory): Steele (1988) proposed the theory in "The psychology of self-affirmation: Sustaining the integrity of the self" (Advances in Experimental Social Psychology, vol.
+[Self-Affirmation Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-Affirmation%20Theory): Steele (1988) proposed the theory in "The psychology of self-affirmation: Sustaining the integrity of the self" (Advances in Experimental Social Psychology, vol. 21, pp. 261-302).
 
 [Self-serving attribution bias](https://clemvillatte.github.io/flourishing-compendium/#card=Self-serving%20attribution%20bias): the tendency to explain your own successes by what you did and your failures by what the world did.
 
-[Self-handicapping theory Jones](https://clemvillatte.github.io/flourishing-compendium/#card=Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle, and the ability never has to answer for it.
+[Self-handicapping theory Jones](https://clemvillatte.github.io/flourishing-compendium/#card=Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle, leaving ability out of the blame.
 
 [Temporal self-appraisal theory (Wilson & Ross)](https://clemvillatte.github.io/flourishing-compendium/#card=Temporal%20self-appraisal%20theory%20%28Wilson%20%26%20Ross%29): Temporal self-appraisal theory is Anne Wilson and Michael Ross's account of how people use their past selves as material for feeling good now.
 
@@ -262,7 +262,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [The care of the self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20care%20of%20the%20self): Care of the self is a theme in Michel Foucault's later studies of ancient ethics.
 
-[Hermeneutics of the self](https://clemvillatte.github.io/flourishing-compendium/#card=Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as something one interprets, known the way a text is read.
+[Hermeneutics of the self](https://clemvillatte.github.io/flourishing-compendium/#card=Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as something one interprets.
 
 [Self-transformation over information](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transformation%20over%20information): 'Self-transformation over information' names Pierre Hadot's account of philosophy as a way of life, in which the schools taught doctrines but the doctrines served a practice whose object was the practitioner.
 
@@ -448,7 +448,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST285 — Ricoeur's Threefold Mimesis](https://clemvillatte.github.io/flourishing-compendium/#card=ST285%20%E2%80%94%20Ricoeur%27s%20Threefold%20Mimesis): the circuit from lived action to emplotment and back into a changed life; the self as the story one tells and lives, with the telling shaping the living.
 
-[ST312 — McAdams's Redemptive Sequences](https://clemvillatte.github.io/flourishing-compendium/#card=ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling shapes the events as much as it reports them.
+[ST312 — McAdams's Redemptive Sequences](https://clemvillatte.github.io/flourishing-compendium/#card=ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling is a shaping of the events.
 
 ### Identity over a life
 

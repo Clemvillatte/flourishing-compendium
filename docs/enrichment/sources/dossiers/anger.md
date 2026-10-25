@@ -291,3 +291,14 @@ Editorial review only; no carriers or cards freshly opened this
 pass; the Seneca wording relies on the 2026-10-24 spot-check
 addendum above (raw Gutenberg text). Scope: candidate-line review;
 this is not a whole-manuscript re-read.
+
+## Advisor-QC correction (2026-10-25, supervisor-pplx-1024c)
+
+Second-pass fidelity fixes to my own voice-review recasts, after
+advisor QC flagged added meaning: the anger-management gloss now ends
+at "its own target" (the added clause about what related approaches do
+was a generalization the source distinction does not establish); the
+Mandela logline now reports the verified event only (inviting the
+warders as honoured guests) — "the new country built on recognition"
+was editorial interpretation, and it is removed. The other four recasts
+stood. Checker exit 0; registry rebuilt; node OK.

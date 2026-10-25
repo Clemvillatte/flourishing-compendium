@@ -48,7 +48,7 @@ Shantideva treats hatred in the sixth chapter of the Bodhicharyavatara as what d
 
 ### What can be done with anger
 
-[Anger management](https://clemvillatte.github.io/flourishing-compendium/#card=Anger%20management): the clinical field that treats problematic anger as its own target; related approaches treat the anger as a symptom of something else.
+[Anger management](https://clemvillatte.github.io/flourishing-compendium/#card=Anger%20management): the clinical field that treats problematic anger as its own target.
 
 [Anger reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Anger%20reappraisal): applying cognitive reappraisal to situations that elicit anger; Gross describes reappraisal as cognitive change directed at a situation's meaning.
 
@@ -166,7 +166,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): after the change, the villagers of Savatthi throw clods, stones and potsherds at the former killer, and the Buddha tells him to bear it; the intention has ended and the consequences have not.
 
-[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition.
+[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests.
 
 ### Forgiveness and its limits
 

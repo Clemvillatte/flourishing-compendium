@@ -2,7 +2,7 @@
 
 > Can a person live well without knowing what comes next?
 
-Not knowing what comes next is the human condition, and the suffering comes not from the not knowing but from the demand that it stop. The traditions meet uncertainty with steadiness, the research with tolerance and probabilistic thinking, and both find the same thing: it is the demand for certainty, not the uncertainty, that corrodes a life. Meeting what cannot be known without flinching is trainable.
+Not knowing what comes next is the human condition; the suffering comes from the demand that it stop. The traditions meet uncertainty with steadiness, the research with tolerance and probabilistic thinking, and both find the same thing: what corrodes a life is the demand for certainty. Meeting what cannot be known without flinching is trainable.
 
 ### Nearby terms
 

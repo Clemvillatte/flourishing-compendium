@@ -66,6 +66,7 @@ most people rather than known others — the construct's definition).
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
 
+<<<<<<< HEAD
 ## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
 
 Following the advisor QC direction after two misattributed entries were
@@ -90,3 +91,17 @@ are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+=======
+## Supervisor recast (2026-10-25, supervisor-pplx-1024c)
+
+The opening's two not-X-but-Y constructions ("the suffering comes not
+from the not knowing but from the demand that it stop"; "it is the
+demand for certainty, not the uncertainty, that corrodes a life") are
+recast as direct statements ("the suffering comes from the demand that
+it stop"; "what corrodes a life is the demand for certainty"). The
+claims are unchanged; the earlier keep reason ("the construction is the
+thesis") did not satisfy the owner's instruction that a meaningful
+distinction does not license the rhetorical scaffold. Applied by the
+supervisor on the released dos11 band. Checker exit 0; registry
+rebuilt; node OK. Scope: opening-paragraph lines only.
+>>>>>>> d12ea1639 (supervisor pass 10: advisor fidelity fixes on both exemplar reviews; uncertainty opening recast; cold reads done (anger clean, the-self 2 truncations fixed); dos30 worker already applied its routed fixes)

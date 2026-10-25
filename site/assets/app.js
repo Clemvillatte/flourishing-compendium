@@ -3623,7 +3623,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The composite self](card:The%20composite%20self): In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in \"the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events.\" (Parfit, p."
+          "x": "[The composite self](card:The%20composite%20self): In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in \"the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events.\" (Parfit, p. 211, as quoted in Korsgaard)."
         },
         {
           "t": "p",
@@ -3639,7 +3639,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Embodied self](card:Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment, of the body as it feels from within."
+          "x": "[Embodied self](card:Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment."
         },
         {
           "t": "p",
@@ -3904,7 +3904,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-Affirmation Theory](card:Self-Affirmation%20Theory): Steele (1988) proposed the theory in \"The psychology of self-affirmation: Sustaining the integrity of the self\" (Advances in Experimental Social Psychology, vol."
+          "x": "[Self-Affirmation Theory](card:Self-Affirmation%20Theory): Steele (1988) proposed the theory in \"The psychology of self-affirmation: Sustaining the integrity of the self\" (Advances in Experimental Social Psychology, vol. 21, pp. 261-302)."
         },
         {
           "t": "p",
@@ -3912,7 +3912,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle, and the ability never has to answer for it."
+          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle, leaving ability out of the blame."
         },
         {
           "t": "p",
@@ -4108,7 +4108,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Hermeneutics of the self](card:Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as something one interprets, known the way a text is read."
+          "x": "[Hermeneutics of the self](card:Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as something one interprets."
         },
         {
           "t": "p",
@@ -4499,7 +4499,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling shapes the events as much as it reports them."
+          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling is a shaping of the events."
         },
         {
           "t": "h2",
@@ -4633,7 +4633,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anger management](card:Anger%20management): the clinical field that treats problematic anger as its own target; related approaches treat the anger as a symptom of something else."
+          "x": "[Anger management](card:Anger%20management): the clinical field that treats problematic anger as its own target."
         },
         {
           "t": "p",
@@ -4880,7 +4880,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST226 — Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition."
+          "x": "[ST226 — Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests."
         },
         {
           "t": "h2",
@@ -9678,7 +9678,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Not knowing what comes next is the human condition, and the suffering comes not from the not knowing but from the demand that it stop. The traditions meet uncertainty with steadiness, the research with tolerance and probabilistic thinking, and both find the same thing: it is the demand for certainty, not the uncertainty, that corrodes a life. Meeting what cannot be known without flinching is trainable."
+          "x": "Not knowing what comes next is the human condition; the suffering comes from the demand that it stop. The traditions meet uncertainty with steadiness, the research with tolerance and probabilistic thinking, and both find the same thing: what corrodes a life is the demand for certainty. Meeting what cannot be known without flinching is trainable."
         },
         {
           "t": "h2",
@@ -9686,11 +9686,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Uncertainty tolerance: held under the intolerance cards in the first group below. - Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts. - Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier."
+          "x": "Uncertainty tolerance: held under the intolerance cards in the first group below."
+        },
+        {
+          "t": "p",
+          "x": "Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts."
+        },
+        {
+          "t": "p",
+          "x": "Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on uncertainty"
+          "x": "The map: the entries on uncertainty"
         },
         {
           "t": "h2",
@@ -9810,7 +9818,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
+          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
         },
         {
           "t": "p",
@@ -9866,7 +9874,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Negative Capability , that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.\" ([Keats, Letters of John Keats to His Family and Friends, Gutenberg edition](https://www.gutenberg.org/files/35698/35698-h/35698-h.htm)): Primary text; quoted passage checked.",
+          "x": "\"Negative Capability , that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.\" ([Keats, Letters of John Keats to His Family and Friends, Gutenberg edition](https://www.gutenberg.org/files/35698/35698-h/35698-h.htm))",
           "s": null
         },
         {
@@ -9875,12 +9883,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD.\" ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.",
+          "x": "\"The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD.\" ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The two do not contradict each other as much as they look. Keats describes a capacity of artists and a reason for its worth; the model describes what follows in worriers when the capacity is absent. Both treat the capacity as the thing at stake, and the compendium's practices on sitting with uncertainty draw on the shared reading."
+          "x": "The two do not contradict each other as much as they look. Keats describes a capacity of artists and a reason for its worth; the model describes what follows in worriers when the capacity is absent. Both treat the capacity as the thing at stake, and the practices here on sitting with uncertainty draw on the shared reading."
         },
         {
           "t": "h2",
@@ -9892,12 +9900,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.\" ([Epictetus, Enchiridion 1, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)): Primary text; quoted passage checked.",
+          "x": "\"Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.\" ([Epictetus, Enchiridion 1, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "His claim is that holding to the division removes the injury: \"no one will ever compel you or restrain you.\" Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and the compendium keeps both."
+          "x": "His claim is that holding to the division removes the injury: \"no one will ever compel you or restrain you.\" Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and I keep both."
         },
         {
           "t": "h",
@@ -9911,7 +9919,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -9948,7 +9956,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
