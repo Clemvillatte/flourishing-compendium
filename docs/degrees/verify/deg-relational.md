@@ -368,8 +368,14 @@ standard.
   Honolulu, PCC Sylvania Campus, 18-20 October 2007.
 - Duration: 54:38 (watch page, 2026-10-25).
 - Instructor credentials: Dr. Henry Rosemont, Jr., of Fudan University in
-  Shanghai (per the uploader description; institutional page not opened
-  this session).
+  Shanghai (per the uploader description). Follow-up (2026-10-25): a
+  memorial essay published in the Journal of World Philosophies (Indiana
+  University ScholarWorks, opened 2026-10-25,
+  https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/download/1264/130/4278)
+  records that he began teaching at Oakland University in 1967 and that
+  beginning in 1982 he taught at Fudan University, attaining the rank
+  of Senior Professor there — corroborating the description's Fudan
+  affiliation; the "Dr." title itself is not addressed by this source.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "Confucian
   Role Ethics and its Contemporary Relevance: Discourse on Human Rights."
@@ -384,7 +390,13 @@ standard.
   page opened 2026-10-25.
 - Duration: 1:00:48 (watch page, 2026-10-25).
 - Instructor credentials: Dr. Henry Rosemont, Jr. (per the uploader
-  description; institutional page not opened this session).
+  description). Follow-up (2026-10-25): the Journal of World
+  Philosophies memorial essay (Indiana University ScholarWorks,
+  opened 2026-10-25, see M04-R06 for the link) records his Fudan
+  University Senior Professorship from 1982 and teaching from 1967
+  (Oakland University) — opened institutional-source evidence for the
+  credentials clause; the "Dr." title itself is not addressed by this
+  source.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "Individual
   Freedom and Human Rights vs Social Justice: A Confucian Meditation."
