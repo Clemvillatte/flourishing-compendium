@@ -1671,3 +1671,10 @@ The advisor's final verification caught overstated records in this session's QC 
   sections). The repair pass should enumerate its targets from
   the corrected count, not the 28.
 - Taper continues; this session does not start the repair pass.
+
+# Supervisor QC entry 25 — 2026-10-25 04:20Z (supervisor-pplx-brownmermaid-1025a, taper heartbeat)
+
+- T+54 heartbeat: all session commits on origin/main; workers
+  active on story spot-checks (dos4, dos18, dos19, dos24, dos28
+  released or active); owner directive 2026-10-25d documented
+  (entry 24). Verification pass re-confirm next, then final save.
