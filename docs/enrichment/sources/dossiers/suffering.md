@@ -550,3 +550,12 @@ quote_verify 22 checked / 0 not found — the last standing flag on this
 dossier is cleared and now machine-verifies. Suffering is published, so
 the site data does not change until a supervisor rebuild: FLAGGED,
 re-splice suffering when convenient.
+
+## Re-check (2026-10-25 11:58Z, worker-p1a-1025o, read-only assist)
+
+Re-attempted automated verification of the scaife.perseus.org
+Enchiridion 5 span: the carrier now serves an Anubis JS challenge to
+plain fetchers (a stronger wall than the earlier JS-shell note), and
+the Wayback Machine rate-limited this pass. The span's verification
+rests on the by-eye comparison recorded above. Flag unchanged,
+correctly dispositioned; retry via browser-class fetch if needed.
