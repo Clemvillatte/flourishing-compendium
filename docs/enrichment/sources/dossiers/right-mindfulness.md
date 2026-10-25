@@ -785,3 +785,28 @@ dossier_density 0 dense; dossier_quote_verify 28 checked, 0 not
 found. Right-mindfulness is published; the site data does not change
 until a supervisor rebuild, so this is flagged: re-splice
 right-mindfulness when convenient.
+
+## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos24, 2026-10-25 11:03Z)
+
+Prose revision only; no quotes, links, claims or evidence changed. The
+voice audit reported 10 structural candidates; 2 were repaired: the
+opening's "attention steadied on the actual rather than the assumed"
+-> "attention steadied on what is actually happening", and the
+clarity-mechanism gloss's "seeing mental events accurately rather than
+dimly" -> "seeing mental events accurately" ("dimly" was decorative).
+Eight candidates were kept deliberately after review: the returning
+practice's "the returning rather than unbroken attention" (the
+teaching's actual point), sati glossed "as memory rather than as a
+blank noticing" (a real scholarly distinction), present-moment
+awareness theory's "the current moment, rather than the remembered
+past" (the theory's claim), decentering's "as mental events rather
+than as the world or the self" (the mechanism's content), the lived
+body's "as experienced from within rather than only the body one has"
+(Merleau-Ponty's distinction), the evidence-papers paragraph's
+"not enemies... they differ" (a substantive description), Thanissaro's
+"not automatically a part of sati, but qualities sati can bring along"
+(the cited author's position), and the hindrances instruction's "to
+know them rather than fight them" (the sutta's instruction). Checks:
+dossier_check exit 0 (49 card links, 19 headers, 20 carriers); voice
+audit 10 -> 8 candidates, all reviewed keeps. No external carriers
+opened in this pass.

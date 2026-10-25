@@ -2,7 +2,7 @@
 
 > What does it take to know what is happening, while it is happening?
 
-Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on the actual rather than the assumed. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one.
+Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on what is actually happening. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one.
 
 ### Nearby terms
 
@@ -47,7 +47,7 @@ The clinical adaptations carried the path factor into the laboratory, and that i
 
 [Mindfulness-based cognitive therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20cognitive%20therapy) was developed for relapse prevention in depression, and [mindful self-compassion programme](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20self-compassion%20programme) is the family's kindness branch.
 
-The family also carries the practice off the cushion. [Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation) is deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath. [Dispositional mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Dispositional%20mindfulness) is the trait version of the capacity, as it varies between people, and [mindfulness's clarity mechanism](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness%27s%20clarity%20mechanism), the Bishop et al. operational definition, is seeing mental events accurately rather than dimly.
+The family also carries the practice off the cushion. [Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation) is deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath. [Dispositional mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Dispositional%20mindfulness) is the trait version of the capacity, as it varies between people, and [mindfulness's clarity mechanism](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness%27s%20clarity%20mechanism), the Bishop et al. operational definition, is seeing mental events accurately.
 
 The evidence has its own shape, and it is smaller than the path factor's own claim. A 2014 review of 47 randomized trials with 3,515 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
 
