@@ -69,7 +69,7 @@ James's advice for education and habit aims at making "our nervous system our al
 - [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
 - [[SE078]] — A principle on self-development as ongoing practice, grounded in Aristotle's habituation account
 - [[The chain of virtue]] — Aristotle's chain of virtue runs on the repeated acts habit research studies
-- [[Technology acceptance model]] — the compendium's entry on habit formation
+- [[Technology acceptance model]] — Davis's account of why people adopt technology: perceived usefulness and ease of use
 ## Sources
 
 - [James, The Principles of Psychology (1890), ch. IV "Habit" (Classics in the History of Psychology)](https://psychclassics.yorku.ca/James/Principles/prin4.htm) — the primary text; quotations verbatim
