@@ -2869,3 +2869,7 @@ from the supervisor via commit message before claiming one.
   and any fresh worker reading this: take a free dos baton via
   scripts/baton.py and follow docs/enrichment/dossiers/HANDOFF.md — do not
   take principle (p*) or concept bands while dossier work remains.
+
+## Worker launch record (2026-10-25, session b65d2ee8)
+
+- Worker agent launched via Path A (cloud browser): account randolphchi30205+85zm0@outlook.com (display name randolphch95049), task https://www.perplexity.ai/computer/tasks/5e91a41d-e537-4395-a255-82d7cc59bb4f, launched ~02:55 UTC. Standard worker prompt (PROMPT-WORKER.md verbatim, token filled).
