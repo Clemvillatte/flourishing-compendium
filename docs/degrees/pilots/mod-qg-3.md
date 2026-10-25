@@ -4,8 +4,9 @@ Phase 0 pilot applying the curriculum-design skill to one practice module
 (the qigong practicum's Standing module; qigong is a practicum, not a
 degree, per the owner directive 2026-10-25). Purpose: test the standard
 on a training-plan style module.
-STATUS: DRAFT, NOT CLEARED: the advisor's round-2 review found open items
-(recorded at the bottom).
+STATUS: DRAFT, NOT CLEARED: the advisor's round-4 review found open items
+and this revision repairs them (recorded at the bottom); a final
+advisor verification of this revision is pending.
 
 ## Audit of the current module (facts from fcAcademyData)
 
@@ -40,36 +41,45 @@ Prerequisites rewritten as observable competencies:
 
 Instruction (each outcome taught):
 
-- Outcome 1: the single verified medium (QG-M03-01) as the guided
-  instruction. Per fcAcademyData it is already verified-video with a
-  printed 5-minute duration; its catalogue page was inspected this
-  session (2026-10-25, see the verification section: no paywall or
-  pricing language visible at page level, playback check open), which
-  fills the 5-minute rung only.
-  Graduated guided standing sessions drawn from the verified practice
-gallery would cover the later rungs, so the learner has a guided option
-at shorter standing times (this is the practice degree's version of
-fading guidance). The verification band has since selected one candidate
-  per tier (2026-10-25, see verify/deg-cmp.md), and their actual durations
-do not all match the tier labels: 5 minutes, YOQI "5 Minutes of Zhan Zhuang
-  Self Practice" (5:00, Marisa Cranfill; the candidate page does not state
-its access condition and the platform carries a free-trial condition, so
-unrestricted free access is NOT established and the candidate stays
-unassigned until access is confirmed or the owner rules otherwise); 8
-  minutes, Susan Thompson "Find Peace: Easy Standing Meditation (Zhan
-Zhuang)" (16:12 total, the 8-minute standing practice is
-  uploader-stated and not confirmed against the recording); 12 minutes,
-Lee Holden "Postures of Power" (10:29 total, two foundational standing
-  postures). These are instructional CANDIDATES, not tier-matched guided
-sessions: Holden at 10:29 cannot supply a 12-minute guided session, and
-none of the candidates guides a 15-minute stand. The design must say so:
-the ladder's upper rungs are completed as SELF-TIMED standing without
-  guidance, using the checkpoint vocabulary from outcome 2 and the log
-discipline from outcome 3, and the module page teaches the learner to
-run their own countdown (kitchen timer or watch) for the self-timed
-sessions. Workload arithmetic counts the video totals (16:12, 10:29),
-not the practice length inside them, and the guided options are for the
-lower rungs only.
+- Outcome 1: the module's guided instruction. The legacy required medium
+  QG-M03-01 FAILS the accessibility standard on page-level evidence (see
+  the verification section: the page's own video metadata marks the video
+  accessible:false and public:false, with a VOD login), so the module
+  needs a REPLACEMENT guided 5-minute session from the free body of
+  teaching, or an owner ruling on YoQi access. A replacement candidate
+  was located and partly verified this session (2026-10-25, see the
+  verification section): "5 Minute Standing Tree Meditation: Beginner
+  Qigong for Calm, Posture & Grounding" (Stillness Studio Sanctuary),
+  described by its page as a guided beginner session through posture,
+  breathing, focus and stillness; oembed confirms identity; its duration
+  could NOT be read from the watch page this session (blocked, see the
+  verification section), so it remains a CANDIDATE, not an assigned
+  resource. Until a guided session is assigned, the 5-minute rung is
+  self-timed standing with the checkpoint vocabulary (the same self-timed
+  method as the upper rungs), which the design already teaches.
+  Graduated guided standing sessions would give the learner a guided
+option at shorter standing times (the practice degree's version of
+fading guidance). The verification band selected candidates by tier
+(2026-10-25, see verify/deg-cmp.md), with an important identity: the
+5-minute tier candidate IS QG-M03-01 itself (the same resource at
+videos.yoqi.com/video/959), so it is not an additional option and it
+inherits that resource's failed accessibility check (see the
+verification section). The remaining candidates' actual durations do
+not match the tier labels: 8 minutes, Susan Thompson "Find Peace:
+Easy Standing Meditation (Zhan Zhuang)" (16:12 total, the 8-minute
+standing practice is uploader-stated and not confirmed against the
+recording); 12 minutes, Lee Holden "Postures of Power" (10:29 total,
+two foundational standing postures). These are instructional
+CANDIDATES, not tier-matched guided sessions: Holden at 10:29 cannot
+supply a 12-minute guided session, and none of the candidates guides
+a 15-minute stand. The design says so: the ladder's upper rungs are
+completed as SELF-TIMED standing without guidance, using the
+checkpoint vocabulary from outcome 2 and the log discipline from
+outcome 3, and the module page teaches the learner to run their own
+countdown (kitchen timer or watch) for the self-timed sessions.
+Workload arithmetic counts the video totals (16:12, 10:29), not the
+practice length inside them, and the guided options are for the lower
+rungs only.
 - Outcome 2: K114 (wiki kernel) for the checkpoint vocabulary, read once at
   module start and again mid-module (spaced retrieval). The module page
   carries the checkpoints themselves, taken from K114's protocol (the
@@ -82,16 +92,23 @@ lower rungs only.
   elbows lower than the shoulders, wrists relaxed; (4) breathing low
   into the abdomen, calm and even, a head-to-toe scan dropping whatever
   tension is found; (5) begin at five minutes and build slowly.
-- Worked example (outcome 3, on the module page): a four-row sample log
-  is printed in full, for example: week 2, three sessions, rungs 5/6/6
-  minutes, notes "shoulders rose in minute 4"; week 3, three sessions,
-  6/7/7, notes "trembling at minute 5, stopped at 6"; week 4, three
-  sessions, 7/7/8, notes "calmer, breathing settled"; then one printed
-  adjustment with its reasoning: "minute 6 kept the tremble, so week 5
-  holds 8 minutes for two sessions and drops to 7 for the third, because
-  the log shows the tremble starts after minute 6 of continuous
-  standing". The learner is told this sample IS the format: minutes,
-  sessions, one observation, one adjustment with a reason.
+- Worked example (outcome 3, on the module page). This is a FICTIONAL
+  EXAMPLE printed as a model of the log format, not a record of any
+  real learner: week 2, three sessions planned at the 6-minute rung;
+  session 1, 6 minutes, notes "shoulders rose in minute 4"; session 2,
+  6 minutes, notes "trembling began in minute 6, ended the session
+  there"; session 3, 6 minutes, notes "calmer, breathing settled".
+  Week 3, three sessions planned at 7; session 2, 7 minutes, notes
+  "tremble started at 6:30, stood through to 7". Then one printed
+  adjustment with its reasoning: "the tremble starts around minute 6
+  of continuous standing in both weeks, so week 5 keeps two sessions
+  at the full 8-minute rung and splits the third into 4 minutes plus
+  4 minutes with a short rest, because the log shows the tremble is a
+  duration effect, not a posture effect (it starts at the same minute
+  whether the shoulders are held or not)". The learner is told this
+  sample IS the format: planned rung, minutes stood per session, one
+  observation per session, one adjustment per week with a reason
+  drawn from the observations.
 
 Practice (the module's spine, with an explicit schedule):
 
@@ -133,19 +150,40 @@ Assessment (rubric rewritten to observable criteria):
   reason.
 - Self-assessment step: the learner rates their own 15-minute stand against
   the checkpoints before module close (L2 into early L3 independence).
+  The instrument is a plain checklist printed on the module page (a
+  house-designed assessment rule, distinct from the source-backed
+  practice instructions above). For each of the five checkpoints the
+  learner records YES, PARTLY or NOT YET with one sentence of evidence
+  from their own log or photographs; the checklist states what satisfies
+  each outcome and what requires further practice:
+  - Outcome 1 satisfied when: four logged 15-minute stands (weeks 11
+    to 14) each marked with at least PARTLY on the posture checkpoints.
+    Any NOT YET on two or more checkpoints across those stands means
+    further practice: hold 15 minutes for two more weeks and reassess.
+  - Outcome 2 satisfied when: both photographs carry all five
+    checkpoints named and one correction each. Missing names means
+    redo the annotation, not the photograph.
+  - Outcome 3 satisfied when: the final log entry names one adjustment,
+    the observation it came from, and the reason. An adjustment with no
+    observation behind it is a redo.
+  - The closing self-assessment records the checklist totals and one
+    sentence on what changed between the week 1 and week 14
+    photographs.
 
 Workload (honest arithmetic, components summed, measured and estimated
 kept distinct):
 
-- Guided instruction (measured, INSIDE the practice allocation): QG-M03-01
-  is 5 minutes (printed on its page, checked 2026-10-25) and is the
-  week-1 guided session; the learner performs it as one of the week's
-  practice sessions, so its minutes are inside the practice allocation
-  below and are NOT added again. The tier candidates (YOQI 5:00,
-  Thompson 16:12, Holden 10:29) are OPTIONAL guided options for the
-  lower rungs, not required, and remain unassigned pending the access
-  and recording checks recorded below. No required recording beyond
-  QG-M03-01.
+- Guided instruction: NO required recording at present. The legacy
+  required medium QG-M03-01 FAILS the accessibility standard (see the
+  verification section) and is removed from the required sequence; a
+  replacement guided 5-minute session is a candidate pending duration
+  verification. Any guided session the module later assigns is
+  performed as one of the week's practice sessions, so its minutes are
+  inside the practice allocation below and are NOT added again. The
+  tier candidates (Thompson 16:12, Holden 10:29; the 5-minute tier
+  candidate is QG-M03-01 itself, same resource) are OPTIONAL guided
+  options for the lower rungs, not required, and remain unassigned
+  pending the access and recording checks recorded below.
 - Practice (PLANNED PRACTICE ALLOCATION, recommended schedule): 465
   minutes of standing across 14 weeks as computed above. This is an
   allocation the learner schedules, not measured learner time; the log
@@ -164,28 +202,46 @@ kept distinct):
   minutes each, plus the closing self-assessment about 15 minutes, about
   35 minutes.
 - Recommended total: 465 + 84 + 210 + 5 + 35 = 799 minutes, about 13.3
-  hours, printed as components. The current 4-hour field is left as the
-  module's legacy claim; the redesigned total is computed and printed as
-  separate components per the skill.
+  hours, printed as components (no measured recording time is included
+  because no recording is currently assigned as required). The current
+  4-hour field is left as the module's legacy claim; the redesigned
+  total is computed and printed as separate components per the skill.
 
 Verification status:
 
-- QG-M03-01 (REQUIRED medium): verification_status "verified-video" with
-  a printed 5-minute duration and gate evidence naming the YoQi VOD page
-  (checked in fcAcademyData 2026-10-25). Page-level checks performed
-  this session (2026-10-25, URL https://videos.yoqi.com/video/959): the
-  page confirms the title "5 Minutes of Zhan Zhuang Self Practice",
-  presenter Marisa Cranfill, duration 5 minutes; the page prints no
-  pricing, subscription or trial language and the fetch reported no
-  paywall, so no access restriction is visible at page level; the
-  inherited "free trial" gate-evidence label is NOT visible on the page
-  and needs a playback check to settle. Content: the page describes a
-  guided 5-minute self practice (part of a Standing Meditation Series
-  that builds progressively), which supports its use as guided
-  instruction; a recording-level check (that the video actually guides
-  standing, not only discusses it) remains open for the verification
-  band. RETAINED as the required medium on this page-level evidence,
-  with the playback check open.
+- QG-M03-01 (legacy REQUIRED medium): FAILS the accessibility standard
+  on page-level evidence and is REMOVED from the required sequence.
+  Checks performed this session (2026-10-25, URL
+  https://videos.yoqi.com/video/959): the page confirms the title
+  "5 Minutes of Zhan Zhuang Self Practice", presenter Marisa Cranfill,
+  duration 5 minutes; the page prints no pricing language, BUT the
+  page's own video metadata marks the video "accessible": false and
+  "public": false, with purchases and rentals not allowed and a "VIDEO
+  ON DEMAND LOGIN" link present, and the page HTML contains no video
+  player, stream URL or playable source. The skill's accessibility rule
+  (the link resolves for an anonymous visitor; no paywalled or
+  app-gated content, owner ruling 2026-10-25) is therefore failed at
+  page level: an anonymous visitor cannot play the recording. The
+  inherited "free trial" gate-evidence label is consistent with this.
+  This supersedes this pilot's earlier page-level note (no paywall
+  visible) which read only the rendered text, not the page's video
+  metadata. Disposition: the module owner replaces it, or the owner
+  rules on YoQi VOD access.
+- Replacement candidate located this session (2026-10-25): "5 Minute
+  Standing Tree Meditation: Beginner Qigong for Calm, Posture &
+  Grounding" (Stillness Studio Sanctuary),
+  https://www.youtube.com/watch?v=S0ZqKo0KQvA. Verified: oembed
+  confirms existence, title and channel. Its page description (read
+  via search) presents it as a guided beginner session through
+  posture, breathing, focus and stillness with feet about
+  shoulder-width. NOT verified: the exact duration (the watch page
+  could not be read from this session's environment: the fetch tool
+  returned a JS-required error, the raw HTML was truncated before the
+  player block, the innertube API returned LOGIN_REQUIRED, and the
+  cloud browser would not load the stream) and the recording-level
+  content classification (the skill requires classification from the
+  recording or transcript, not the title). Remains a CANDIDATE; the
+  verification band completes the duration and content checks.
 - Gallery tier candidates selected by the verification band on
   2026-10-25 (verify/deg-cmp.md). PROVENANCE, stated honestly: the
   candidates were verified from their watch/upload pages and the
@@ -194,10 +250,10 @@ Verification status:
   uploader-stated, and no recording-level check of what instruction the
   videos actually provide has been performed. The candidates stay
   instructional options, unassigned; attachment remains a module-owner
-  decision after recording-level checks. The YOQI candidate's
-  unrestricted free access is not established (free-trial platform,
-  access condition not printed on the candidate page) and needs
-  confirmation or an owner ruling before any assignment.
+  decision after recording-level checks. The 5-minute tier candidate
+  IS QG-M03-01 (same resource) and fails accessibility with it; the
+  Thompson and Holden candidates are YouTube-hosted and free at page
+  level, with their recording-level checks open.
 
 ## Advisor QC round 1 (open items, 2026-10-25)
 
@@ -242,36 +298,42 @@ Open items carried forward: recording-level checks of the three
   verification band), and the Phase 0 stop-gate still blocks module
   production.
 
-## Advisor QC round 3 (2026-10-25, strategist session)
+## Advisor QC round 4 (2026-10-25, strategist session)
 
-The advisor's round-3 review of the repaired draft found three blockers;
-  repairs applied in this revision:
+The advisor's round-4 review found the required-resource problem deeper
+  than the round-3 repair assumed; repairs applied in this revision:
 
-- QG-M03-01 (required medium) inspected at its catalogue URL this session
-  (https://videos.yoqi.com/video/959, fetched 2026-10-25): title,
-  presenter (Marisa Cranfill) and 5-minute duration confirmed; the page
-  prints no pricing, subscription or trial language and the fetch
-  reported no paywall, so no access restriction is visible at page level;
-  the inherited "free trial" label is not visible on the page and a
-  playback check stays open. RETAINED on this page-level evidence, with
-  the recording-level content check open for the verification band.
-- Workload double-count removed: the week-1 guided session along QG-M03-01
-  is one of the week's practice sessions, so its minutes are inside the
-  465-minute allocation and are not added again; the 465 minutes are
-  labelled a PLANNED PRACTICE ALLOCATION (not measured learner time); the
-  K114 reading allowance is grounded in the measured assigned text (320
-  words, about 2.5 minutes per read at the skill's 130-wpm study rate,
-  about 5 minutes for two reads). Recommended total 799 minutes, about
-  13.3 hours, printed as components.
-- Instructional and assessment material supplied, not promised: the
-  module page now carries the five posture checkpoints (taken from K114's
-  protocol, the assigned reading), a full four-week worked log with one
-  printed adjustment and its reasoning (the format the learner's log
-  must follow), and the rubric's pass/redo criteria as observable lines
-  (one logged session per rung-week including a 15-minute stand in each
-  of weeks 11 to 14; annotated week 1 and week 14 photographs; one
-  log-data adjustment with a reason; the closing self-assessment against
-  the checkpoints).
+- QG-M03-01's own page metadata was read in the raw HTML this session:
+  the video is marked "accessible": false and "public": false with a
+  VOD login and no playable source in the page, so it FAILS the
+  skill's accessibility rule (anonymous visitor cannot play it) and is
+  REMOVED from the required sequence. The round-3 repair's "no paywall
+  visible" note read only the rendered text; this supersedes it. The
+  5-minute gallery tier candidate is the SAME resource and fails with
+  it; the pilot now says so instead of double-listing it.
+- A replacement candidate was located and partly verified (see the
+  verification section): oembed identity confirmed, page description
+  read; duration and recording-level content NOT verified from this
+  session's environment (watch page blocked, innertube LOGIN_REQUIRED,
+  cloud browser stream not loading), recorded honestly as open checks.
+- The worked example is now labelled a FICTIONAL EXAMPLE, carries
+  session-level observations consistent with its adjustment (tremble
+  onset around minute 6 in both weeks; the adjustment splits one
+  session rather than citing a minute the observations do not
+  support), and states the log format it models.
+- A self-assessment checklist is supplied (house-designed assessment
+  rules, marked as distinct from the source-backed practice
+  instructions): per-checkpoint YES/PARTLY/NOT YET with evidence, and
+  for each outcome what satisfies it and what requires further
+  practice or a redo.
+- The workload no longer includes any required-recording time (no
+  required recording is currently assigned); the total stays 799
+  minutes with that stated.
+
+Status after round 4: the pilot remains DRAFT NOT CLEARED (a final
+  advisor verification of this revision is pending); the required-
+  guided-session replacement is the main open item for the module owner
+  or verification band, plus the owner ruling on YoQi VOD access.
 
 ## What this pilot demonstrates
 
