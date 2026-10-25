@@ -1143,15 +1143,18 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   (https://www.youtube.com/watch?v=JOt0QNxHCG4); watch page opened
   2026-10-25. Philosophers, Explained series.
 - Duration: 56:16 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Stephen Hicks, series presenter (per the
-  description; an institutional page was not opened this session).
+- Instructor credentials: Stephen R.C. Hicks, Ph.D., Professor of
+  Philosophy (Rockford University 2002–2024; Executive Director of the
+  Center for Ethics and Entrepreneurship) — his own biography page,
+  opened 2026-10-25, https://www.stephenhicks.org/biography/, matching
+  the series' CEE channel origin.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the pragmatic,
   democratic education theory in John Dewey's 1916 Democracy and
   Education, focusing on chapters 1 and 7.
 - Relevant segment: whole episode, 56:16.
-- Verification status: verified-video (2026-10-25); Hicks credentials from
-  the description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Hicks credentials
+  verified on his opened biography page (2026-10-25).
 
 ### M01-P10: Bergson's Elan Vital and Vitalism (Michael Sugrue)
 
@@ -1208,8 +1211,11 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   the good person; Kant's view that arguments from self-interest are
   irrelevant; Nozick's thought experiment examined in detail.
 - Relevant segment: whole lecture, 1:22:22.
-- Verification status: verified-video (2026-10-25); Kraut credentials from
-  the description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Kraut credentials
+  verified on the Northwestern Classics emeritus-faculty page (opened
+  2026-10-25, https://classics.northwestern.edu/people/emeritus-faculty/richard-kraut.html:
+  Professor Emeritus of Classics and Philosophy), corroborating the
+  REST-summary basis above.
 
 ### M05-SP-02: Spinoza and Hegel on Actual Infinity — Yitzhak Melamed
 
@@ -1219,17 +1225,21 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   Spinoza in Hegel, Ljubljana, 26-28 October 2023 (University of Padua and
   University of Ljubljana).
 - Duration: 51:12 (watch page, 2026-10-25).
-- Instructor credentials: Yitzhak Y. Melamed, Charlotte Bloomberg Professor
-  of Philosophy, Johns Hopkins University (per the uploader description;
-  institutional page not opened this session).
+- Instructor credentials: Yitzhak Y. Melamed, Charlotte Bloomberg
+  Professor of Philosophy, Johns Hopkins University (basis: Wikipedia
+  REST summary endpoint, opened 2026-10-25 via direct HTTP,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Yitzhak_Melamed —
+  tertiary source; the JHU directory page is robots-blocked from this
+  fetcher), corroborating the uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Hegel's
   discussion of Spinoza's understanding of infinity, whether Hegel's
   reading is adequate, and the Auseinandersetzung between the two
   philosophers.
 - Relevant segment: whole talk, 51:12.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on a tertiary-source summary (Wikipedia REST endpoint, opened
+  2026-10-25).
 
 ### M05-SP-03: Why Wasn't Spinoza Excommunicated? — Yitzhak Melamed (Sephardic World)
 
@@ -1291,8 +1301,9 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   meaning, Nietzsche's prediction of nihilism, and moving beyond
   nihilism toward affirmation of this world.
 - Relevant segment: whole recording, 1:01:07.
-- Verification status: verified-audio (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-audio (2026-10-25); credentials verified
+  on a tertiary-source summary (Wikipedia REST endpoint, opened
+  2026-10-25 — see the credentials clause above).
 
 ### M04-E06: Nietzsche, the Death of God, the Future of Christianity, and Nihilism — Ken Gemes (Niederhauser channel)
 
@@ -1301,15 +1312,18 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   (https://www.youtube.com/watch?v=GuMDm25aIPc); watch page opened
   2026-10-25. Streamed live 17 August 2023.
 - Duration: 1:00:24 (watch page, 2026-10-25).
-- Instructor credentials: Ken Gemes, featured scholar (per the
-  description; institutional page not opened this session).
+- Instructor credentials: Ken Gemes, Professor Emeritus of Philosophy,
+  Birkbeck, University of London; Visiting Professor of Philosophy,
+  King's College London (Wikipedia, opened 2026-10-25,
+  https://en.wikipedia.org/wiki/Ken_Gemes — tertiary source),
+  corroborating the description's featured-scholar role.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Nietzsche, the
   death of God, the future of Christianity and nihilism, tied to Gemes's
   Nietzsche seminar and the channel's seven-lecture Nietzsche course.
 - Relevant segment: whole session, 1:00:24.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on a tertiary source (Wikipedia, opened 2026-10-25).
 
 ### M04-E08: "Revolt in the Face of the Absurd" — Albert Camus (Gregory B. Sadler)
 
@@ -1319,8 +1333,11 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   2026-10-25. Glimpses Into Existence lecture 11 of 12, hosted by the
   historic Kingston Library.
 - Duration: 1:23:22 (watch page, 2026-10-25).
-- Instructor credentials: Gregory B. Sadler, lecturer (per the
-  description; institutional page not opened this session).
+- Instructor credentials: Gregory B. Sadler, lecturer — Adjunct
+  Professor at the Milwaukee Institute of Art and Design; M.A. (1997)
+  and Ph.D. (2002) in Philosophy, Southern Illinois University
+  Carbondale (MIAD faculty page, opened 2026-10-25,
+  https://www.miad.edu/faculty/gregory-sadler).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the life,
   works and key themes of Albert Camus — his conception of absurdity,
@@ -1338,8 +1355,11 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   2026-10-25. Existentialist Philosophy and Literature series.
 - Duration: 1:25:51 (watch page, 2026-10-25; the page also lists 1:25:50
   elsewhere — a one-second listing discrepancy).
-- Instructor credentials: Gregory B. Sadler, lecturer (per the description;
-  institutional page not opened this session).
+- Instructor credentials: Gregory B. Sadler, lecturer — Adjunct
+  Professor at the Milwaukee Institute of Art and Design; M.A. and
+  Ph.D. in Philosophy, Southern Illinois University Carbondale (MIAD
+  faculty page, opened 2026-10-25,
+  https://www.miad.edu/faculty/gregory-sadler).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Marcel's
   critical examination of Sartre in the essay "Existentialism and Human
@@ -1374,16 +1394,22 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   (https://www.youtube.com/watch?v=jJfhtvRwYYc); watch page opened
   2026-10-25. Aspects of Western Philosophy, NPTEL, IIT Madras.
 - Duration: 52:43 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Sreekumar Nellickappilly, Department of
-  Humanities and Social Sciences, IIT Madras (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Sreekumar Nellickappilly, Professor in the
+  Department of Humanities and Social Sciences at IIT Madras; PhD in
+  philosophy (Central University of Hyderabad); Fulbright-Nehru
+  Professional Excellence Fellow 2017–18 (basis: his author biography
+  on the Google Play Books page for his co-authored book Debating
+  Bioethics, opened 2026-10-25 — a publisher's author-bio page rather
+  than a university page; the IIT Madras departmental page was not
+  located in a bounded search), corroborating the uploader
+  description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Husserl's
   phenomenology, the methods of reduction, and the principle of
   intentionality.
 - Relevant segment: whole lecture, 52:43.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified on
+  a tertiary-source summary as in M05-SP-02 (2026-10-25).
 
 ### M16-P03: Christian Miller (Wake Forest University) — Flirting with Skepticism about Practical Wisdom
 
@@ -1409,8 +1435,11 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   (https://www.youtube.com/watch?v=m_wc_-dmxyk); watch page opened
   2026-10-25. Monthly live-streaming series on Stoicism basics.
 - Duration: 1:08:03 (watch page, 2026-10-25).
-- Instructor credentials: Gregory B. Sadler, lecturer (per the
-  description; institutional page not opened this session).
+- Instructor credentials: Gregory B. Sadler, lecturer — Adjunct
+  Professor at the Milwaukee Institute of Art and Design; M.A. (1997)
+  and Ph.D. (2002) in Philosophy, Southern Illinois University
+  Carbondale (MIAD faculty page, opened 2026-10-25,
+  https://www.miad.edu/faculty/gregory-sadler).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): wisdom as one
   of the four virtues central to Stoic human happiness — alongside
@@ -1428,17 +1457,23 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   (https://www.youtube.com/watch?v=L_LH6BiOdK8); watch page opened
   2026-10-25. Discussion recorded 9 October 2020.
 - Duration: 1:31:13 (watch page, 2026-10-25).
-- Instructor credentials: Dan Zahavi and Anthony Steinbock, the book's
-  author and interlocutor (per the uploader description; institutional
-  pages not opened this session).
+- Instructor credentials: Dan Zahavi, Professor of Philosophy,
+  Department of Communication, University of Copenhagen (the
+  university's research-portal profile, opened 2026-10-25,
+  https://researchprofiles.ku.dk/en/persons/dan-zahavi/); Anthony
+  Steinbock, Provost's Professor, Stony Brook University/SUNY
+  (departmental faculty page, opened 2026-10-25,
+  https://www.stonybrook.edu/philosophy/people/faculty/anthony_steinbock.html) —
+  the book's author and interlocutor per the uploader description,
+  corroborated on both opened pages.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Zahavi's
   Self-Awareness and Alterity — the argument that Husserlian phenomenology
   can make a decisive contribution to discussions of self-awareness,
   engaging debates in analytic and German philosophy.
 - Relevant segment: whole conversation, 1:31:13.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional pages pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on opened institutional pages (2026-10-25).
 
 ### M05-SP-04: Spinoza's Theology and Politics — Dr. Yitzhak Melamed (Torah in Motion)
 
@@ -1447,8 +1482,9 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   2026-10-25. Second episode of a three-part series on Spinoza.
 - Duration: 1:05:41 (watch page, 2026-10-25).
 - Instructor credentials: Yitzhak Melamed, Charlotte Bloomberg Professor of
-  Philosophy, Johns Hopkins University (per the uploader description; see
-  also M05-SP-02).
+  Philosophy, Johns Hopkins University (per the uploader description;
+  verified on the Wikipedia REST summary endpoint as recorded in
+  M05-SP-02, opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Spinoza's
   Tractatus Theologico-Politicus and the religiosity of its author, "a
