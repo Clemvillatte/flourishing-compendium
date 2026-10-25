@@ -3353,6 +3353,7 @@ also resolved by one re-navigate). Agent running at
 https://www.perplexity.ai/computer/tasks/2496a488-2900-4f3a-96b7-cb76662508f0
 (launched 2026-10-25 ~12:00Z). Expect the new agent to take a baton on
 next baton.py status.
+
 ## AGENT LAUNCH (2026-10-25 11:58Z, launcher worker-pplx-psychdim-2, no baton held)
 
 Path A launch (owner directive): account
@@ -3367,3 +3368,15 @@ https://www.perplexity.ai/computer/tasks/44d28eea-e2c6-454a-a6c1-3ba6041dd3ed
 flip). Expected to take a baton on next scripts/baton.py status. Note: the
 deg-psychdim baton was released by this launcher's worker session before this
 launch (release commit 7036cd03a), so the new worker finds it free.
+
+## Agent launch record (Path A, third launch by this launcher)
+
+- 2026-10-25 ~12:05Z (owner local ~11:05 PM AEDT): launcher-pplx (session
+  470f530d) launched a NEW worker agent via Path A of the Agent Launcher
+  Protocol, account email qrosenbaum4017+gxul1@outlook.com (Perplexity
+  display name qrosenbaum75962, Free plan). Task URL:
+  https://www.perplexity.ai/computer/tasks/317f0931-bb7d-4b80-ad34-1df813ce0431
+  Worker prompt: docs/enrichment/PROMPT-WORKER.md verbatim (8414 chars,
+  token filled; token never stored in the repo). Sign-in code authorized
+  by the owner. One Cloudflare interstitial after code entry, resolved by
+  a single re-navigation.
