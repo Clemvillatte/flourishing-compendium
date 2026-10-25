@@ -480,3 +480,18 @@ This note does not edit the pilot file (outside this baton's write
 scope) and does not overturn the supervisor's routing — it records
 the evidential mismatch for an owner ruling. The bounded entries
 above stand.
+
+### Follow-up — Thompson 8-minute practice boundary (deg-verify-a, 2026-10-25)
+
+The gallery-tier note above records that the Susan Thompson standing
+meditation's practice length inside the video is uploader-stated, not
+yet confirmed against the recording. A transcript page attributed to
+this video was opened this session
+(https://youtubetotranscript.com/transcript?v=9YJc2HptbYQ&current_language_code=en,
+2026-10-25): the transcript confirms the guided standing practice
+content (high Tai Chi stance, soft knees, gravity and earth imagery,
+expanding space between the hands, commencement-form imagery, closing
+return to standing with a chi-gathering waterfall image) but prints NO
+timestamps, so the 8-minute practice boundary within the 16:12 video
+remains unconfirmed from the transcript; the uploader-stated figure
+stands as before, flagged for a playback-based confirmation.
