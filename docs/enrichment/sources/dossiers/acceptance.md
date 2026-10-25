@@ -395,3 +395,41 @@ yourself accept / invalidating / Practice" caution is NOT in this
 carrier and the NICABM transcripts (Parts 4 and 5) are
 robots-blocked; that caution remains attributed to the card's
 account and is not quoted.
+
+## Disagreement section extended from one to three questions (2026-10-25, worker-pplx-dos30-1025l, baton dos30)
+
+The existing question (providential assignment; Marcus V.8 against the
+Liezi) is untouched. Two questions added; every quoted span was matched
+by script against text fetched this session (whitespace, curly quotes
+and print-italic underscores normalised):
+
+1. Is acceptance a different process from changing what one thinks?
+   Hayes, Luoma, Bond, Masuda & Lillis 2006 (anxietyinstitute.com PDF,
+   text extracted): the abstract sentence "ACT works through different
+   processes than active treatment comparisons, including traditional
+   CBT" and "Component analysis studies have generally failed to find
+   support for the importance of direct cognitive change strategies".
+   Hofmann 2008 (Clin Psychol Sci Pract 15, 280-285) and Hofmann &
+   Asmundson 2008 (Clin Psychol Rev 28, 1-16): abstracts only, taken
+   from the publisher page and the contextualscience.org record as
+   returned by search; the full papers were NOT read, the page says so,
+   and Hofmann's account of the evidence was not checked against
+   Hayes's. Quotes: "is based on a misrepresentation of the empirical
+   evidence"; "are not specific to the theory and philosophy
+   underlying ACT"; "antecedent-focused"; "response-focused"; "fully
+   compatible with CBT"; Morita therapy "developed 80 years ago"
+   (paraphrased). The lean is marked practical and unsourced.
+2. Is bearing necessity enough, or must it be loved? Epictetus,
+   Enchiridion 8 and the spilt-oil passage (MIT Classics, Carter
+   translation, raw HTML); Nietzsche, Ecce Homo, "Why I Am So Clever"
+   (Gutenberg 52190, Paul V. Cohn translation; section number not
+   confirmed in this edition, so none is given) and Beyond Good and
+   Evil section 9 (Gutenberg 4363, Zimmern): "Stoicism is
+   self-tyranny". The page states that the wording of Epictetus 8
+   already goes past bearing, so the supported difference is the
+   aim (tranquillity against greatness) and Nietzsche's charge, not a
+   flat contradiction. The Linehan caution is the page's existing
+   card fact (radical acceptance).
+
+Checker: exit 0 (27 card links, 13 headers, 13 carriers). Count
+correction: acceptance now has THREE substantiated questions.
