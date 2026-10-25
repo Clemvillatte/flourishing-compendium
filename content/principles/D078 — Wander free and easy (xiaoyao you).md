@@ -16,15 +16,15 @@ Huizi complains that Zhuangzi's words resemble a tree too misshapen for a builde
 
 > There you might saunter idly by its side, or in the enjoyment of untroubled ease sleep beneath it. Neither bill nor axe would shorten its existence; there would be nothing to injure it. What is there in its uselessness to cause you distress? (Zhuangzi 1, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The tree escapes the axe because its wood is unwanted. Its awkward shape leaves a place for the enjoyment Huizi has overlooked. I read the exchange as an invitation to question the demand that everything earn its place by producing something. (Zhuangzi 1, §7.)
+Huizi judges the tree as timber; Zhuangzi imagines somewhere to rest. Chad Hansen reads this parable as a challenge to a fixed measure of usefulness, not a demonstration that uselessness is always better ([Stanford Encyclopedia of Philosophy, §4.4](https://plato.stanford.edu/archives/spr2020/entries/zhuangzi/)). The passage gives me a question to bring to a pastime: what becomes possible when I stop asking what it will produce? This application does not cancel commitments or make every unproductive activity worth choosing.
 
 ### Plain words
 
-Enjoying an activity can be enough reason to choose it. If every pastime must deliver a useful result, you may overlook what you enjoy about doing it. Consider which of your activities you would still choose without an achievement to show afterwards.
+You can enjoy something without having a useful result to show for it.
 
 ### For example
 
-On a short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, consider whether you enjoyed walking that way; if you did, make room for another such walk. This is my application of the story.
+On one short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, ask what was worthwhile about being there, even if you have nothing to post or tick off. This is my application of the story.
 
 ## Related concepts
 

@@ -85,3 +85,12 @@ Opened through search and fetch:
 - [Chris Fraser, “Heart-Fasting, Forgetting, and Using the Heart Like a Mirror: Applied Emptiness in the Zhuangzi,” author manuscript](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf). Read the full manuscript and checked printed pp. 21–24 directly, including its metaphorical-emptiness qualification and its argument that practical efficacy cannot establish the fittingness of a task. The page cites this as a philosophical interpretation, not a validated cognitive intervention.
 
 Changes: split an overloaded academic sentence, made the metaphorical limit concrete, retained the ethical caution, and replaced the replicated Plain words section with one sentence. The missed-deadline exercise now has an observable reflection step: name something heard that the first account omitted. Preserved opening statement, front matter, all original links and reflection.
+
+## D078: Wander free and easy
+
+Opened through search and fetch:
+
+- [*Zhuangzi*, Legge translation, METIS edition, Inner Chapter 1 §7](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf). Read the complete final dialogue: Huizi's misshapen-tree comparison, Zhuangzi's wildcat and yak examples, and the invitation to rest beneath the tree. Verified the retained blockquote word for word. Safety from the axe belongs to this parable, not a general promise that being judged useless protects a person.
+- [Chad Hansen, “Zhuangzi,” *Stanford Encyclopedia of Philosophy*, Spring 2020 archive, §4.4, “Doubting Intuitionism”](https://plato.stanford.edu/archives/spr2020/entries/zhuangzi/). Opened the discussion of the relativity of usefulness and its explicit tree example. This is a philosophical interpretation, not evidence about recreation or health; it does not assert that uselessness is always superior.
+
+Changes: added an attributed scholarly reading instead of treating the story as a universal rule against productivity. Converted Plain words to one sentence and retained the walking exercise as an optional application, without adding health claims. Existing links, front matter, opening statement and reflection are preserved.
