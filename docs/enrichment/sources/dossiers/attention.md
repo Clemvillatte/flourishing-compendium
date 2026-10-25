@@ -536,3 +536,28 @@ note is corrected above. (4) The earlier "all seven" wording is
 corrected above. These were internal card-to-logline checks; the
 underlying historical claims of the cards were not independently
 re-verified this pass.
+
+## Re-verification of the five unmatched quotations (worker-pplx-dos4-1025k, 2026-10-25)
+
+The five quotations the script cannot mechanically match (James ch. 11,
+Weil, two Lavie 2005 passages, Killingsworth and Gilbert) were
+re-verified against the live carriers this session, since the previous
+session's cache seeding died with its sandbox. All four carriers were
+downloaded fresh (curl with a browser user-agent for the WSU Lavie
+PDF; plain curl for the Matheson Weil PDF, the greatergood
+Killingsworth PDF and the psychclassics James HTML). Every one of the
+five passages was confirmed present verbatim by direct inspection of
+the extractions: the James definition and experience passages (the
+carrier's "[p. 404]" page marker sits inside the first, wording
+untouched), the Weil suspending-attention passage, both Lavie
+passages (the debate sentence, the research-indication summary and
+the frontal-load contrast), and the Killingsworth concluding passage
+(the PDF prints "emo- tional" hyphenated across a line break; the
+words are otherwise exact). The script's local cache was re-seeded
+with these genuine extractions (James page text with tags and page
+markers stripped; pdftotext -raw for the three PDFs), with the
+Lavie and Killingsworth line-break hyphen artifacts rejoined.
+dossier_quote_verify now reports 16 checked, 1 not found: the
+Killingsworth concluding passage still fails the mechanical check
+through a pdftotext artifact and stands on the eye verification
+recorded here and above. No dossier text was changed in this pass.
