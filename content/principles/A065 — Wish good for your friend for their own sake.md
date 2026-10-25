@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 65** — Wish good for your friend for their own sake
 
-[[T002 — Aristotle|Aristotle]]'s mark of the true friend is the direction of the wish: "men wish well to those whom they love, for their sake, not as a result of feeling but as a result of a state of character." His contrast is telling — you may wish things well for lifeless objects, but only for your own use: it would be ridiculous to wish wine well, and the most one wishes for it is that it keep, so that one may have it oneself — "but to a friend we say we ought to wish what is good for his sake." Hence the definition: "those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing." My application is the principle's own test: do I want their good, or do I want what they give me?
+[[T002 — Aristotle|Aristotle]]'s mark of the true friend is the direction of the wish: "men wish well to those whom they love, for their sake, not as a result of feeling but as a result of a state of character." His contrast is telling — you may wish things well for lifeless objects, but only for your own use: it would be ridiculous to wish wine well, and the most one wishes for it is that it keep, so that one may have it oneself — "but to a friend we say we ought to wish what is good for his sake." Hence the definition: "those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing." The application is the principle's own test: do you want their good, or what they give you?
 
 (Nicomachean Ethics VIII.2, VIII.3 and VIII.5, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html).)
 
-**Plain words** A true friend wants your good for your sake, not for what they get from you. Aristotle makes that the test. Ask yourself in a friendship: do I want their good, or what they give me?
+**Plain words** The mark of real friendship is the direction of the wish. You can keep a wine cask well, but the wish is for your own drinking; nobody wants the wine to flourish. A friend is different: their good is wanted on its own account, and the wanting survives changes in what you get out of it. That is what gives the bond its lifespan — it lasts as long as the people do, not as long as the benefits do.
 
 *For example:* Being genuinely glad when a friend gets a job in another city, even though you'll see less of them, is the test passed.
 

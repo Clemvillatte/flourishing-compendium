@@ -29,7 +29,7 @@ All three terms are stated as what you turn away from: renunciation, absence of 
 
 (SN 45.8.)
 
-**Plain words** Intention is what you are aiming at before you act. SN 45.8 names three aims: let go, don't wish ill, don't harm. Set them first and they shape which words and actions you reach for next.
+**Plain words** Before any act there is an aim, and the sutta places that step just ahead of speech and action. Its three headings are turnings-away: renunciation rather than accumulation, goodwill rather than ill will, harmlessness rather than harm. The practical part is the ordering — settle what you are resolved on before you open your mouth.
 
 *For example:* Imagine you have to tell a colleague that their report missed the mark. Before you pick up the phone you fix the aim: say what is true, and don't try to wound. That aim then decides how you phrase the first sentence.
 
