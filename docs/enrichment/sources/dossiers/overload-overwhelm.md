@@ -65,3 +65,34 @@ scaffolds, no decorative metaphors, no broken replicates found at
 reader level. No edits needed. Checker exit 0. Editorial review only;
 no carriers freshly opened this pass (the quoted passages were
 verified in earlier sessions per this ledger).
+
+## Card-fidelity full-text sweep (2026-10-25, worker-pplx-dos12-0e136)
+
+All 39 map/selection/story entries in the dossier were compared against
+their linked card files opened side by side (concepts, kernels, stories).
+Every gloss matches its card on attribution, qualification and scope; no
+mismatches found; no dossier edits made. The four quoted passages in the
+divergence section were re-verified against freshly opened carriers this
+pass: Baumeister et al. 1998 abstract (PubMed 9599441) — volition-limit
+sentence verbatim; Hagger et al. 2016 abstract (PubMed 27474142) — the
+sentence prints on the PubMed carrier with "(CIs)" and without a closing
+parenthesis after "[-0.07, 0.15].", and the dossier reproduces the
+carrier exactly; the 12-lab replication claim (d = 0.10, small and
+significant, Stroop/antisaccade pair, different from the standard
+protocol) matches Dang et al. (PMC8186735) verbatim; NE X.6 and X.7
+sentences verbatim on the MIT Classics Ross carrier. The X.6/X.7
+framing ("reverses the order", then the two-answers explanation) reads
+accurately against both passages in context.
+
+Flags for the supervisor (concept-band files, not edited by this band):
+content/concepts/Progressive overload in attentional training.md carries
+page-facing workflow language ("My seed says this and cites Lutz et al.
+(2008) and Zanesco et al. (2016). I opened Lutz et al. and a 2018
+Zanesco et al. paper, but found no 2016 Zanesco paper matching the
+sentence.") — "seed" jargon and first-person process narration belong in
+the ledger, not the page (customer-facing rule). The same card's
+2016-Zanesco citation question itself is a concept-band decision.
+
+Checks: dossier_check.py exit 0 re-run this pass (39 card links, 0
+unresolved). Internal fidelity only; factual accuracy of card contents
+rests on the cards' own carrier records.
