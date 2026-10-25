@@ -137,3 +137,10 @@ disposition evidence. Statuses left as found (returned).
 - Running totals for s1b this session: 19 ready drafts QC-sampled (001, 002, 003, 004, 005, 006, 007, 011, 012, 013, 015, 027, 028, 029, 030, 031, 032, 034, 038, plus 033 repaired and 036 disposition-recommended). All quotes verbatim except the flagged carriers noted below.
 - Supervisor flags from the s1b passes: 012 hyphenation ('pre-occupation' vs source 'preoccupation'); 015 dead carrier (armour docx HTTP 410); 027 wisdomlib footnote/verse-break structure (wording verbatim); 029 Heart Sutra carrier (oaks.nvg.org) now failing; 033 repaired, registration eligibility is supervisor's; 036 recommend option (a); 037 ctext Cloudflare-walled, unverified this pass; 003 Bergson carrier login-walled.
 - Baton released after this save; lane left in ready state.
+
+## 2026-10-25 15:17Z — QC fourth pass (qc-storyteller-pplx-1025x)
+
+- Final samples: 013, 014, 016, 017, 018, 019, 020, 021, 022, 024, 025, 026 (all ACT-metaphor and related carriers). All quotes VERBATIM.
+- Session totals for s1b: 31 of the ready drafts QC-sampled (001, 002, 003, 004, 005, 006, 007, 011, 012, 013, 014, 015, 016, 017, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028, 029, 030, 031, 032, 034, 038, plus 033 repaired and 036 disposition-recommended). Remaining unsampled: 023 (Cambridge carrier), 035 (Fan Li).
+- Standing supervisor flags unchanged (012 hyphenation, 015 dead carrier, 029 Heart Sutra carrier failing, 033 registration eligibility, 036 option (a), 037 ctext unverified, 003 Bergson carrier login-walled).
+- Baton released after this save; lane left in ready state.
