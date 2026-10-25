@@ -24,7 +24,7 @@ reversal). Draft clean.
 All eight drafts checked (031, 032, 035, 036, 037, 039, 042, 043) pass
 `story_check --context draft` with 0 errors. Of these, 035/037/039 were later
 confirmed ALREADY PUBLISHED (ST488/ST490/ST491 — see ROUTE continuation); the
-unpublished ones are 031, 032, 036, 042, 043. Front matter reconciled with lane state.
+unpublished ones are 031, 032, 042, 043 (036 was later found published as ST489 — the "36." title prefix defeated title-based matching; see ROUTE). Front matter reconciled with lane state.
 All 26 s1a-origin published pages pass `--context published` except ST432 (1 word over
 cap) and ST184 (upgrade body below the word floor, no Sources URL) — both routed in
 ROUTE.md for supervisor repair.
