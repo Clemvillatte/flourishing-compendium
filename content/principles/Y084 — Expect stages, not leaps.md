@@ -23,8 +23,7 @@ Sutra 2.27 gives the stages in one line:
 Read in order, the stages do run from a settled understanding to something final. The text does not tell the reader to locate themselves, and it does not say that transitions arrive as consolidations. Nor does it speak of "gradual or sudden by disposition" here; speeds differ in 1.21-22. Locating your own stage honestly is this page's suggestion, and the commentary places the last three beyond effort.
 
 **Plain words**
-
-The commentary describes seven stages of insight, four that effort can bring about and three that follow when effort is done. It is a map of the whole path. It is not a test for where you stand today.
+A ladder is a poor picture for this and a staircase is worse; the commentary's picture is closer to a mountain path with two halves. The lower switchbacks are climbed by legs, the deliberate practices that wear away at misreading, and the upper stretch is a ridge that appears only once the legs have done their work, since by then the seeing continues without the pushing. The sutra's promise of seven-fold insight is a route description for the whole climb, not a quiz to hold against a walker mid-slope.
 
 **For example**
 
