@@ -15317,16 +15317,24 @@ window.fcDossiersData = {
     {
       "id": "sadness-and-grief",
       "title": "Sadness & Grief",
-      "question": "",
+      "question": "What is grief asking of the person grieving, and who sets when the work is done?",
       "intro": [],
       "blocks": [
         {
-          "t": "h",
+          "t": "p",
+          "x": "Sadness and grief are the family's honest states. Something is lost, and I feel bad about it, and the traditions around me have always been tempted to fix the feeling before asking what it is doing. The questions I care about here are practical ones: what work does grief consist of, what does it ask of the person grieving, and when, by whose measure, is the work done?"
+        },
+        {
+          "t": "p",
+          "x": "The accounts below divide the labour between them. The clinical research gives grief its structure as an alternation between two kinds of work, and it marks the boundary with depression carefully. The classical letters prescribe proportion and a stop. Gibran's chapter and the Aztec songs treat sorrow as constitutive rather than as a defect to be cleared. Between them sits the failure mode the clinic names, complicated grief, and the extension of grief beyond human death that the ecological literature has opened."
+        },
+        {
+          "t": "h2",
           "x": "Nearby terms"
         },
         {
           "t": "p",
-          "x": "Sadness: the state itself, felt toward anything lost or absent; the family's cleanest treatment of it as a working state rather than a defect is [Sorrow's fruit](card:Sorrow%27s%20fruit), and the film case is [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)."
+          "x": "Sadness: the state itself, felt toward anything lost or absent; the cleanest treatment of it as a working state rather than a defect is [Sorrow's fruit](card:Sorrow%27s%20fruit), and the film case is [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)."
         },
         {
           "t": "p",
@@ -15350,15 +15358,15 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on sadness and grief"
+          "x": "What grief is and what it asks"
         },
         {
           "t": "h2",
-          "x": "The boundary between sadness and grief"
+          "x": "Is grief a state or a course of work?"
         },
         {
           "t": "p",
-          "x": "Sadness is a state; grief is a course of work. The clinical material separates grief from depression rather than sadness from grief, and it does so with two observations:"
+          "x": "The clinical material gives grief its structure as a process rather than a mood, and it separates grief from depression with two observations:"
         },
         {
           "t": "q",
@@ -15372,19 +15380,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The research tradition gives grief its structure as a process rather than a state: [Grief's oscillation model](card:Grief%27s%20oscillation%20model) defines it as alternation between two kinds of work, and [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) states the same point as a principle."
-        },
-        {
-          "t": "p",
-          "x": "The clinical sources distinguish grief from depression and model bereavement coping; they do not directly establish the sadness-as-state versus grief-as-process boundary. What the family's own entries show is that its sadness material ([Sorrow's fruit](card:Sorrow%27s%20fruit), [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)) treats sorrow as deep and constitutive, which is grief's register rather than a passing mood's. The boundary stays open; the grouping keeps both sides legible."
+          "x": "The process structure itself is the dual-process model. [Grief's oscillation model](card:Grief%27s%20oscillation%20model) defines grief as alternation between two kinds of work, and [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) states the same point as a principle. The clinical sources distinguish grief from depression and model bereavement coping; they do not directly establish a sadness-versus-grief boundary, and I leave that boundary open rather than asserting it. What the family's own entries show is that its sadness material treats sorrow as deep and constitutive, which is grief's register rather than a passing mood's."
         },
         {
           "t": "h2",
-          "x": "Grief as work"
+          "x": "What does the work consist of?"
         },
         {
           "t": "p",
-          "x": "[Grief's oscillation model](card:Grief%27s%20oscillation%20model): the model's own summary sentence:"
+          "x": "The dual-process model's own summary sentence:"
         },
         {
           "t": "q",
@@ -15393,11 +15397,20 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The practice built on it is [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): a deliberate, time-limited sitting with the loss, then a return to the restoration side, with respite treated as part of adaptive coping rather than as failure. [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) carries the same point as a principle rather than a model. [M038 — Grieve without pretending, and without drowning](card:M038%20%E2%80%94%20Grieve%20without%20pretending%2C%20and%20without%20drowning) adds the paired observation from the Cantares Mexicanos: the songs hold grief and enjoyment side by side inside one stanza."
+          "x": "The model also argues the need for dosage:"
+        },
+        {
+          "t": "q",
+          "x": "\"It also argues the need for dosage of grieving, that is, the need to take respite from dealing with either of these stressors, as an integral part of adaptive coping.\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Continuing bonds](card:Continuing%20bonds) records the finding that softened the older clinical picture: the bereaved often keep an inner relationship with the dead. The 2012 longitudinal study put one limit on it:"
+          "x": "Respite is part of adaptive coping, which is a different instruction from either wallowing or cutting the loss off. The practice built on it is [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): a deliberate, time-limited sitting with the loss, then a return to the restoration side. [M038 — Grieve without pretending, and without drowning](card:M038%20%E2%80%94%20Grieve%20without%20pretending%2C%20and%20without%20drowning) adds the paired observation from the Cantares Mexicanos: the songs hold grief and enjoyment side by side inside one stanza."
+        },
+        {
+          "t": "p",
+          "x": "[Continuing bonds](card:Continuing%20bonds) records the finding that softened the older clinical picture of detachment: the bereaved often keep an inner relationship with the dead. The 2012 longitudinal study put one limit on it:"
         },
         {
           "t": "q",
@@ -15410,7 +15423,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "How long to grieve: the classical prescriptions"
+          "x": "How long, and by what measure?"
         },
         {
           "t": "p",
@@ -15442,19 +15455,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[S070 — Do not let grief become your identity](card:S070%20%E2%80%94%20Do%20not%20let%20grief%20become%20your%20identity) carries the identity limit: grief may be kept and kept company with, but it is not to become the person. [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess) adds Epictetus' instruction for the companion: accommodate the griever, groan with him if need be, but do not groan inwardly. [D089 — Grief without destruction](card:D089%20%E2%80%94%20Grief%20without%20destruction) and [D090 — Accept death as transformation](card:D090%20%E2%80%94%20Accept%20death%20as%20transformation) hold the Zhuangzian side of the same limit, and [S018 — Accept loss without devastation](card:S018%20%E2%80%94%20Accept%20loss%20without%20devastation) holds the Stoic verb change: what was received is restored, not lost."
+          "x": "The classical limit has two further expressions. [S070 — Do not let grief become your identity](card:S070%20%E2%80%94%20Do%20not%20let%20grief%20become%20your%20identity) carries the identity limit: grief may be kept and kept company with, but it is not to become the person. [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess) adds Epictetus' instruction for the companion: accommodate the griever, groan with him if need be, but do not groan inwardly."
         },
         {
           "t": "p",
-          "x": "The clinical thresholds on the same question sit on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) and [Complicated grief research](card:Complicated%20grief%20research): prolonged grief disorder is diagnosed when the grief response has persisted for \"more than 6 months at a minimum\" (ICD-11) or the death was \"at least 12 months ago\" (DSM-5-TR, adults), in both cases clearly exceeding the expected social, cultural or religious norms and causing significant impairment ([PGD review, Psychiatria Polska](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf)). Seneca's proportion is a letter-writer's judgement; the clinic's is a duration and an impairment. The two answer different questions, and neither is a deadline handed to the griever."
+          "x": "The Zhuangzian and Stoic sides of the same limit sit on [D089 — Grief without destruction](card:D089%20%E2%80%94%20Grief%20without%20destruction), [D090 — Accept death as transformation](card:D090%20%E2%80%94%20Accept%20death%20as%20transformation) and [S018 — Accept loss without devastation](card:S018%20%E2%80%94%20Accept%20loss%20without%20devastation), the last holding the Stoic verb change: what was received is restored, not lost."
+        },
+        {
+          "t": "p",
+          "x": "The clinic answers the how-long question with thresholds rather than letters. On [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) and [Complicated grief research](card:Complicated%20grief%20research), prolonged grief disorder is diagnosed when the grief response has persisted for \"more than 6 months at a minimum\" (ICD-11) or the death was \"at least 12 months ago\" (DSM-5-TR, adults), in both cases clearly exceeding the expected social, cultural or religious norms and causing significant impairment ([PGD review, Psychiatria Polska](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf)). Seneca's proportion is a letter-writer's judgement; the clinic's is a duration and an impairment. The two answer different questions, and neither is a deadline handed to the griever."
         },
         {
           "t": "h2",
-          "x": "Sorrow and its fruit"
+          "x": "What is sorrow made of?"
         },
         {
           "t": "p",
-          "x": "Gibran's chapter is the family's statement of what sorrow is made of:"
+          "x": "Gibran's chapter states it:"
         },
         {
           "t": "q",
@@ -15468,19 +15485,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory) is the same claim dramatised: Joy rewinds the sad core memory and finds that the comfort Riley received after the loss was made by Sadness. [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) turns the state into an attention practice: notice the empty chair at breakfast, stay with the memory or tell someone, set no deadline for feeling better. The Buddhist note it carries is the other edge of the same cloth: the Dhammapada verse on its card ties grief to endearment itself, which is a claim about the root, not a deadline for the feeling."
+          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory) is the same claim dramatised: Joy rewinds the sad core memory and finds that the comfort Riley received after the loss was made by Sadness. [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) turns the state into an attention practice: notice the empty chair at breakfast, stay with the memory or tell someone, and set no deadline for feeling better. The Buddhist note it carries makes the same point from the root: the Dhammapada verse ties grief to endearment itself, which is a claim about the root, not a deadline for the feeling."
         },
         {
           "t": "h2",
-          "x": "Grief beyond death"
+          "x": "Can grief extend beyond human death?"
         },
         {
           "t": "p",
-          "x": "[Grief for what passes](card:Grief%20for%20what%20passes): the reading of Zhuangzi's drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: ecological grief is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))."
-        },
-        {
-          "t": "p",
-          "x": "The same article gives this extension its social reading:"
+          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading:"
         },
         {
           "t": "q",
@@ -15494,15 +15507,91 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[R124 — Practise ecological grief work](card:R124%20%E2%80%94%20Practise%20ecological%20grief%20work) and [K348 — Name the loss](card:K348%20%E2%80%94%20Name%20the%20loss) carry the practice: name the loss in a plain sentence, first person, specific, and let the naming be said or seen."
+          "x": "[K348 — Name the loss](card:K348%20%E2%80%94%20Name%20the%20loss) carries the naming practice: name the loss in a plain sentence, first person, specific, and let the naming be said or seen; [R124 — Practise ecological grief work](card:R124%20%E2%80%94%20Practise%20ecological%20grief%20work) applies the same family of practice to ecological losses, with regular emotional expression through writing in a supportive setting."
         },
         {
           "t": "h2",
-          "x": "When grief goes wrong"
+          "x": "When does grief go wrong?"
         },
         {
           "t": "p",
-          "x": "[Complicated grief research](card:Complicated%20grief%20research) holds the research on the failure modes: grief that persists past the clinical thresholds, grief that forecloses the restoration side of life, and the rumination that [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work)'s container is built to catch. The dual-process reading on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) treats dosage, not suppression, as the operative variable: the model argues for respite from grieving, which is a different instruction from either wallowing or cutting the loss off."
+          "x": "[Complicated grief research](card:Complicated%20grief%20research) records the failure modes: grief that persists past the clinical thresholds, grief that forecloses the restoration side of life, and the rumination that [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work)'s container is built to catch: a sitting that turns into hours of circling is rumination wearing the practice's clothes. The dual-process reading on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) treats dosage, not suppression, as the operative variable."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is successful mourning detachment or continued relationship?"
+        },
+        {
+          "t": "p",
+          "x": "The older clinical picture held that grief work means letting go: on the account documented in the 2012 study, the energy invested in the deceased loved one needed to be \"worked through\" to enable it to be withdrawn and invested in another person (Freud, 1917/1957), and complications in grief were associated with the inability to relinquish ties to the deceased ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Klass, Silverman and Nickman challenged that picture in 1996, examining the ways the bereaved continue their bonds with the deceased and arguing there were benefits in retaining those connections."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement is live, not settled, and the same paper records both the challenge and its complications: despite the claims made by Klass and colleagues, Field, Gal Oz and Bonanno (2003) found continuing bonds associated with worse adjustment over a five-year postbereavement period, and the 2012 study itself found:"
+        },
+        {
+          "t": "q",
+          "x": "\"Quite consistently, the results show that those persons who have experienced an unexpected bereavement, and who retain close bonds to the deceased person, fail to recover over time.\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The turn-on is what the bond is doing: a bond held inside a life that continues, or a bond that holds the life in place. My lean is toward the bonds side, with the conditions respected: the studies measure who recovers, not what a kept bond is for, and a bond that keeps the dead present in a life that is still being lived is different material from a bond that substitutes for that life."
+        },
+        {
+          "t": "h2",
+          "x": "Must grief be confronted, or is avoidance part of the work?"
+        },
+        {
+          "t": "p",
+          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 \"Trauerarbeit,\" conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The dual-process model was built against that hypothesis, and the paper states its grounds: the lack of clarity in the definition of grief work, the poor quality of operationalizations, and the absence of sound evidence, some studies having failed to confirm that confrontation of grief is a predictor of adaptation. On the model, avoidance is not failure but part of the regulatory coping process."
+        },
+        {
+          "t": "p",
+          "x": "The paper even carries the disagreement into the clinic: intervention may, for some, be counterproductive, and avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, would be beneficial. The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side. My lean is toward the model, because it is the one that predicts both the griever who needs to sit with the loss and the griever who needs a week of ordinary life, and it does not force a single prescription on both."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the relationship with the loss itself: the avoidance that fences the loss off; the rumination that circles the loss without ever returning to the restoration side of life; and the deadline, either imposed from outside or awaited, that converts grief into a waiting-room occupation. The adaptive direction runs toward alternation kept deliberately: the loss sat with inside a container, the life returned to, and the loss named in a plain sentence."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): when grief arises, let it be present without rushing to resolve it; give the engagement a container (a time, a place, a length), and when the container ends, move to the restoration side of life. The model behind the structure treats respite as part of adaptive coping, not as failure, so the time limit is the practice rather than a concession to weakness."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence): notice the empty chair at breakfast; describe what you notice (a bodily feeling, a memory, a question or a practical concern); stay with the memory or tell someone about it. The exercise sets no deadline for feeling better."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K348 — Name the loss](card:K348%20%E2%80%94%20Name%20the%20loss): write the sentence (one line, first person, specific: what is lost, and where). Say it to someone, or write it where it can be seen; the mourning literature's \"we-creating\" capacities are the reason the saying is part of the practice."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[R124 — Practise ecological grief work](card:R124%20%E2%80%94%20Practise%20ecological%20grief%20work): the protocol is regular emotional expression through writing, in a supportive setting, applied to the grief felt in relation to experienced or anticipated ecological losses. The card's own caution belongs in the practice: the link from that grief to action is a hope in these sources, not a measured result, and persistent distress that disrupts sleep, work or relationships is a reason to talk to a health professional."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "What a reader keeps from this theme is usually the alternation rather than a feeling: what was named, what was sat with, and which side today needed. A reader who keeps the container and the return, and the sentence that names the loss, has the theme's core. None of the three argues for wallowing, and none for cutting the loss off."
         },
         {
           "t": "h",
@@ -15535,58 +15624,6 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "[ST037 — Ruben Loses the Hearing](card:ST037%20%E2%80%94%20Ruben%20Loses%20the%20Hearing): Ruben loses his hearing, chases implants to fix it, and ends sitting in stillness with the life the Deaf community shows him."
-        },
-        {
-          "t": "h",
-          "x": "Retention"
-        },
-        {
-          "t": "p",
-          "x": "A reader who keeps one thing from this family might keep the alternation. Seneca recommends moderation in mourning; Zhuangzi narrates a change in his own response to his wife's death; the dual-process model describes alternating coping orientations. These are different kinds of claim, a prescription, a narration and a description, and the passages behind them establish neither a single shared stopping rule nor a genuine incompatibility."
-        },
-        {
-          "t": "p",
-          "x": "What the practice entries share is quieter: [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work) gives the sitting a container and a return, [K348 — Name the loss](card:K348%20%E2%80%94%20Name%20the%20loss) gives the naming a sentence and a listener, and [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) sets no deadline for feeling better. None of the three argues for wallowing, and none for cutting the loss off."
-        },
-        {
-          "t": "h",
-          "x": "Sources"
-        },
-        {
-          "t": "p",
-          "x": "[Stroebe & Schut 1999, The Dual Process Model of Coping with Bereavement (PDF)](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf) — the model's summary sentence quoted."
-        },
-        {
-          "t": "p",
-          "x": "[Zhuangzi, Perfect Enjoyment, ch. 18, Legge translation (ctext)](https://ctext.org/zhuangzi/perfect-enjoyment) — wife-death passage quoted."
-        },
-        {
-          "t": "p",
-          "x": "[Seneca, Moral Letters to Lucilius, Letter 63 (Wikisource, Gummere)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63) — four sentences quoted verbatim."
-        },
-        {
-          "t": "p",
-          "x": "[Gibran, The Prophet, On Joy and Sorrow (Project Gutenberg)](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm) — excerpts quoted verbatim."
-        },
-        {
-          "t": "p",
-          "x": "[APA, What Is Depression?](https://www.psychiatry.org/patients-families/depression/what-is-depression) — grief-versus-depression sentences quoted verbatim."
-        },
-        {
-          "t": "p",
-          "x": "[Cunsolo & Ellis 2018, Ecological grief as a mental health response to climate change (PDF)](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf) — sentences quoted verbatim, p. 276; the \"we-creating\" sentence presents Butler's reading, which the article invokes rather than reports as a measurement."
-        },
-        {
-          "t": "p",
-          "x": "[Stroebe et al. 2012, Continuing bonds in adjustment to bereavement (PDF)](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf) — \"fail to recover over time\" sentence quoted."
-        },
-        {
-          "t": "p",
-          "x": "[Prolonged grief disorder in ICD-11 and DSM-5-TR (Psychiatria Polska PDF)](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf) — duration thresholds quoted."
-        },
-        {
-          "t": "p",
-          "x": "Card-carried material: Epictetus Ench. XVI on [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess); Dhammapada 212 and SN 56.11 on [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence); R124's definitions on [R124 — Practise ecological grief work](card:R124%20%E2%80%94%20Practise%20ecological%20grief%20work)."
         }
       ],
       "group": "affective-life",
