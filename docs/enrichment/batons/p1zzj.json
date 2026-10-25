@@ -1,7 +1,7 @@
 {
  "baton": "p1zzj",
  "agent": "worker-pplx-1025w1g",
- "clocked_in": "2026-10-25T12:27:51+00:00",
+ "clocked_in": "2026-10-25T12:31:47+00:00",
  "takeovers": [
   {
    "by": "agent-67500cd2",
@@ -14,8 +14,12 @@
    "at": "2026-10-25T12:27:51+00:00",
    "from": "agent-67500cd2",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-1025w1g",
+   "at": "2026-10-25T12:31:47+00:00",
+   "from": "worker-pplx-1025w1g",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T12:28:33+00:00"
+ ]
 }
