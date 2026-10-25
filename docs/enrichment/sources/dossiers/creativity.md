@@ -485,3 +485,7 @@ not necessarily whole files. The relied-on passages are inside those ranges.
 ### Card-gloss verification pass (this session, pre-taper)
 
 Every card summary in the dossier was checked against the linked card's own body. One defect found and fixed: the CO074 gloss claimed "doing them as separate passes is a skill, not a personality trait", which was the dossier's own phrasing rather than the card's; rewritten to the card's own terms ("try them as separate passes", without assuming generation and judgment must never overlap). All other glosses are card-backed, including PP051 ("without first deciding whether you are a creative person"), Insight problem-solving ("The definition is not settled"), Flow (clear goals, immediate feedback, challenge and skill), P086 ("possibility, not the assurance"), ST015 (secret notebook, publishes nothing), ST112, ST325, ST326, ST324, ST307, ST293, K323-K325, K327, K331, Creative values (Frankl), Four-C model (mini-c through Big-C), and the Bergson/Schumpeter cards.
+
+### Session sign-off
+
+Session end at T+58. Final verification pass re-run at T+57: dossier_check exit 0 (30 card links, 16 headers, 47 external carriers); density 0 dense; quote_verify 29 checked, 8 not-found, all hand-verified against raw carriers. Supervisor review PASS per QC addendum 10 (commit 6cfea8923); publication blocked on owner artwork; registry left planned for the supervisor to flip. Band dos32 released to the pool.
