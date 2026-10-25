@@ -1,6 +1,16 @@
 {
  "batch": "dos34",
- "done": [],
+ "done": [
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025j",
+   "state": "draft complete: dossier_check exit 0 (24 card links, 10 headers, 14 carriers); dossier_quote_verify 13/13; dossier_density 0 dense; advisor QC pending final round; PUBLISHING BLOCKED on artwork (registry has no art assigned, owner action)",
+   "verification": "all quotes raw-verified against freshly opened carriers (MIT Classics x3, Pieper iwcinsb PDF, Harper's 1932, Gutenberg Veblen, ETH Zhuangzi Legge PDF, Sonnentag&Fritz 2007 via PubMed/Europe PMC record); Idler 1935 extract opened and read but is JS-walled to automated fetch and backs paraphrase only (documented exception in the evidence ledger)",
+   "flags": [
+    "SUPERVISOR/OWNER: registry flip and rebuild blocked on artwork assignment for leisure (same blocker as creation/creativity/procrastination); dossier is check-green and ready to publish when art lands"
+   ]
+  }
+ ],
  "in_progress": "",
  "flagged": {},
  "comment": "Minted 2026-10-25 by owner directive: Leisure dossier (registry planned, flourishing section). Art pending owner assignment - no unassigned works remain in the collection. Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full."
