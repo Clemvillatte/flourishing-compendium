@@ -137,6 +137,24 @@ My lean, which is mine: for an essay on alleviating suffering, the Pali framing 
 
 Limits: I read Book I to aphorism 1.18 of the Yoga Sutras and one Pali discourse. The Yoga Sutras name further stages of absorption that I have not examined, and discernment appears in I.17 as a stage, so the contrast above may be sharper than the full text supports. The Sacred Texts page does not name its translator.
 
+### Can liberation come without jhana?
+
+The shared question: whether awakening requires the absorptions the canon defines as right concentration. Gunaratana, writing on the jhanas in Theravada practice, says the tradition itself admits that it does not:
+
+> "The possibility of attaining the supramundane path without possession of a mundane jhana has been questioned by some Theravada scholars, but the Visuddhimagga clearly admits this possibility when it distinguishes between the path arisen in a dry-insight meditator and the path arisen in one who possesses a jhana but does not use it as a basis for insight (Vism.666-67; PP.779)." ([Gunaratana, The Jhanas in Theravada Buddhist Meditation](https://accesstoinsight.org/lib/authors/gunaratana/wheel351))
+
+He adds that "Textual evidence that there can be arahats lacking mundane jhana is provided by the Susima Sutta" together with its commentaries (same book). Thanissaro reads the same discourse the other way:
+
+> "This discourse is sometimes cited as proof that a meditator can attain Awakening (final gnosis) without having practiced the jhanas, but a close reading shows that it does not support this assertion at all." ([Thanissaro, translator's note to SN 12.70](https://accesstoinsight.org/tipitaka/sn/sn12/sn12.070.than))
+
+In a longer treatment he sorts the positions into three, the first being the commentarial one that jhana is unnecessary, and concludes: "Evidence from the Canon supports the third position, but not the other two", the third being that at least the first jhana is essential at every level of awakening ([Thanissaro, Wings to Awakening, Part III](https://www.accesstoinsight.org/lib/authors/thanissaro/wings/part3.html)).
+
+The two answer one question, whether a person can awaken with no jhana, and give opposite answers. Part of the gap is a matter of what the word covers. Thanissaro says the commentaries are right to call their kind of jhana unnecessary, while awakening cannot occur without jhana in the canonical sense (same Wings page). Gunaratana distinguishes mundane jhana from the supramundane jhana that comes with the path itself. If the two use the word jhana for different things, the surviving disagreement is smaller than the quotes suggest: whether the strong absorptions the canon describes can be skipped.
+
+My lean, which is mine: for an essay about developing wisdom, I would present this as a live disagreement within the tradition and avoid asserting either side. The practical question for a reader is how much stillness insight needs, and the sources I opened do not answer that in numbers.
+
+Limits: I read excerpts of two books and one translator's note, not the Pali texts or the commentary lines Gunaratana cites. I have not opened Mahasi-line teachers who hold the dry-insight view in their own words, so that side comes through Gunaratana and the commentaries as he reports them.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the scatter and the strain: attention divided across tabs and tasks, the switching costs paid as residue, and the white-knuckle forcing that the lute-string teaching names as the first failure mode. The adaptive direction is the tuned middle: one object, one task, one protected block, with the return counted as the practice rather than as failure, and the effort checked against the two failure modes the sutta names, restless over-effort and slack neglect.

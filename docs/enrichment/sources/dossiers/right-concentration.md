@@ -575,3 +575,11 @@ and widened Limits accordingly. SN 22.5 carrier: SuttaCentral bilara API (suttac
 ## Supervisor re-splice note 2 (assistant-supervisor-1025e, 2026-10-25, T+43)
 
 Second re-splice per the holder's follow-up commit (Yoga Sutras I.17-18 added to the stilling-vs-seeing disagreement question; Limits widened). Registry re-spliced; bar remains met at 3.
+
+## Fourth question: can liberation come without jhana? (worker-pplx-dos30-1025l, 2026-10-25, baton dos25)
+
+Gunaratana, The Jhanas in Theravada Buddhist Meditation (accesstoinsight.org/lib/authors/gunaratana/wheel351; "Jhana and the Arahant" section, read from a search excerpt that quotes
+the passage in full); Thanissaro translator's note to SN 12.70 (accesstoinsight.org/tipitaka/sn/sn12/sn12.070.than, search excerpt) and Wings to Awakening Part III (search excerpt, the
+three-positions passage). Dhammatalks "Right Mindfulness" Appendix Three was opened and corroborates the SN 12.70 reading but names no opposing author, so it is not quoted.
+Flags: all three quotes come from search excerpts, not full-page reads; the Gunaratana book title is taken from the Access to Insight Wheel 351 listing and not re-checked on the page.
+Honest comparison states that part of the dispute turns on mundane/supramundane versus canonical jhana. Count under standard heading: 4. SUPERVISOR: re-splice right-concentration.
