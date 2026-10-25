@@ -36,7 +36,7 @@ Russell's case for the four-hour day rests on a promise about the freed hours. M
 
 Adorno's essay reads as a diagnosis of what the promise met. "Free time is shackled to its opposite", and where full employment has become the ideal, free time "is nothing more than a shadowy continuation of labour" ([Adorno, Free Time](http://xenopraxis.net/readings/adorno_freetime.pdf)). The tourism and camping that fill those hours are organized for the sake of profit, and the difference between work and free time is "branded as a norm in the minds of people". The old word leisure, Muße, "denoted the privilege of an unconstrained, comfortable life-style", and his charge is that the modern successor does not deliver what the name promises, since "unfreedom is gradually annexing 'free time'", and "the majority of unfree people are as unaware of this process as they are of the unfreedom itself".
 
-The two texts are not conducting an argument, and what stands between them is a live tension. Russell was writing against a world that withheld free time, Adorno against one in which free time, in his words, "has already expanded enormously", and the diagnosis adds an obstacle to Russell's promise: the social totality that organizes work organizes its opposite as well. The pair sharpens the test for an evening, which must be more than an absence of work.
+The two texts are not conducting an argument, and what stands between them is a live tension. Russell was writing against a world that withheld free time, Adorno against one in which free time, in his words, "has already expanded enormously" ([Adorno, Free Time](http://xenopraxis.net/readings/adorno_freetime.pdf)), and the diagnosis adds an obstacle to Russell's promise: the social totality that organizes work organizes its opposite as well. The pair sharpens the test for an evening, which must be more than an absence of work.
 
 Pieper's account leans on a clean line between the world of work and the space of leisure, and Regi reports the sociologist Chris Rojek rejecting exactly that line in an open Anthropology Today essay:
 
@@ -50,7 +50,6 @@ The classical line between work and leisure assumes the duties are carried by so
 
 A later open survey by the same author records an observation reported by Henderson and colleagues, that for many women "their everyday lives tend to be holistic; work and leisure may coexist and be difficult to distinguish" ([Henderson et al., 1996, quoted in Veal, Everyday life and everyday leisure](https://pmc.ncbi.nlm.nih.gov/articles/PMC10071223/)). What the two passages establish is constrained access to leisure, and interleaved lives. They do not by themselves contradict Aristotle's scholē or Pieper's condition of the soul, since they address access, interleaving and the classification of time use rather than the classical definitions. The field's tools have moved the same way: Veal's time-use taxonomy, set out in that survey, "seeks to widen the scope of the study of leisure from the simple work-leisure binary to encompass eleven categories of time-use" ([Veal, Everyday life and everyday leisure](https://pmc.ncbi.nlm.nih.gov/articles/PMC10071223/)).
 
-For a life in which work and leisure interleave, the question of what free time is for has no clean subject to address.
 
 
 ## Amusement is a medicine, not the point
@@ -75,7 +74,7 @@ Zhuangzi ends a story about a huge useless tree with an invitation:
 
 His summary line runs: "All men know the advantage of being useful, but no one knows the advantage of being useless" ([Zhuangzi 4, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). His tree passage and Aristotle's contemplation are not directly opposed: both put the best things outside the economy of usefulness, and sleeping beneath a useless tree does not commit Zhuangzi against worthwhile activity. The divergence is in the shape of the ideal. Aristotle's leisure is an activity, contemplation, "loved for its own sake" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)), the highest and most self-sufficient thing a person can do. Zhuangzi's image is closer to the sleep beneath the useless tree, and [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless) draws the lesson for a person's week.
 
-The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) counsels steady work, and the counsel reads as aimed at heavy sleeping rather than at rest itself; it is not a third pole in the question. That question remains, whether the best hours of a life are the ones doing something, the ones receiving something, or the ones spent resting beneath a tree no one is using. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
+The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) counsels steady work. That question remains, whether the best hours of a life are the ones doing something, the ones receiving something, or the ones spent resting beneath a tree no one is using. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
 
 
 ## Leisure is not idleness
@@ -120,8 +119,6 @@ Aristotle's leisure was bought with other people's labour. He is explicit that t
 Russell's case is distributive ([In Praise of Idleness, 1935 text](https://www.idler.co.uk/article/book-of-the-week-in-praise-of-idleness/)). The labours that once bought leisure for the few were valuable, he argues, for the sake of the leisure they bought, and a decent economy would spread that good justly. He adds the sociological sting:
 
 > "The idea that the poor should have leisure has always been shocking to the rich." ([In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
-
-The disagreement is not about whether leisure is the point. It is about whether the point can be universal.
 
 I lean with Russell on the access and with Aristotle on the valuation. The hours should not be a privilege, and spreading them does not by itself settle what they are for.
 
@@ -169,11 +166,19 @@ My own judgment is that I would retain the framework provisionally and use Veal'
 
 ## Story: the stories that carry the theme
 
+The question of what free time is for becomes concrete in lives that changed their relation to work: an office given up, a road walked for months, a playground built before dying.
+
+### Leaving the post for a life
+
 [Tao Yuanming Walks Home After Eighty Days](https://clemvillatte.github.io/flourishing-compendium/#card=ST358%20%E2%80%94%20Tao%20Yuanming%20Walks%20Home%20After%20Eighty%20Days): a poet takes a magistrate's post to fill the grain jar, resigns after eighty days, and walks home to his fields, saying his basic nature is spontaneity and cannot be forced.
+
+### Walking
 
 [Bashō Walks North](https://clemvillatte.github.io/flourishing-compendium/#card=ST053%20%E2%80%94%20Bash%C5%8D%20Walks%20North): in middle age Bashō sells his house and walks for months through rain and poor inns; the journey itself is his home, and the poems it yields are small, exact, and empty of commentary.
 
 [Su Shi Walks Through the Rain](https://clemvillatte.github.io/flourishing-compendium/#card=ST337%20%E2%80%94%20Su%20Shi%20Walks%20Through%20the%20Rain): exiled and stripped of office, caught out in the rain, he strolls and chants in straw sandals instead of hurrying, and looks back at the storm without rancour.
+
+### Play kept alive
 
 [Watanabe Finds the Playground](https://clemvillatte.github.io/flourishing-compendium/#card=ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): a Tokyo bureaucrat learns he is dying after thirty years of stamping documents, and the one project he pushes through against his whole machine is a playground for other people's children.
 
