@@ -9266,7 +9266,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Curiosity](card:Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](card:Interest%20as%20motive) is Dewey's claim that interest is not a garnish on learning but its engine."
+          "x": "[Curiosity](card:Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](card:Interest%20as%20motive) is Dewey's claim that learning runs on interest."
         },
         {
           "t": "p",
@@ -12081,7 +12081,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "That middle is not a compromise averaged between two mistakes. It is [dependent origination](card:Dependent%20origination), the twelve-link chain of SN 12.1, the conditionality the view tracks: arising and cessation both. The [middle path](card:The%20middle%20path) is a way of practice with its own logic, not a midpoint between vices."
+          "x": "That middle is [dependent origination](card:Dependent%20origination), the twelve-link chain of SN 12.1, the conditionality the view tracks: arising and cessation both. The [middle path](card:The%20middle%20path) is a way of practice with its own logic."
         },
         {
           "t": "p",
@@ -12152,6 +12152,10 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "[The theory-ladenness of observation](card:The%20theory-ladenness%20of%20observation) is Hanson's thesis that seeing is not the passive registration of retinal images: what a person sees is shaped by what they already know, and observers with different theories can look at the same thing and see different things."
+        },
+        {
+          "t": "p",
           "x": "On the psychological side, the attentional-bias principles stand as parallels of the view's obstruction: threat captures attention, and negative bias and rumination narrow it, in anxiety and depression."
         },
         {
@@ -12160,7 +12164,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Diamond Sutra names four ways a mind reifies itself: [the four views](card:The%20four%20views), views of a self, a person, a being and a life — the card calls them usable coordinates that become toxic when mistaken for the territory."
+          "x": "The Diamond Sutra names four ways a mind reifies itself: [the four views](card:The%20four%20views), views of a self, a person, a being and a life. The card calls them usable coordinates that become toxic when mistaken for the territory."
         },
         {
           "t": "p",
@@ -12176,48 +12180,94 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Stoics, finally, distrust scale rather than fixity or one-sidedness. Their contribution is a standing exercise rather than an argument: [the view from above](card:The%20view%20from%20above), picturing human affairs from a great height until their scale changes, Marcus Aurelius's herds and solemnities seen from above."
+          "x": "The Stoics, finally, are the ones who distrust scale; fixity and one-sidedness were the earlier sections' worries. Their contribution is a standing exercise: [the view from above](card:The%20view%20from%20above), picturing human affairs from a great height until their scale changes, Marcus Aurelius's herds and solemnities seen from above."
         },
         {
           "t": "h",
-          "x": "Related questions and contrasts"
+          "x": "Where the traditions genuinely disagree"
         },
         {
           "t": "h2",
-          "x": "Is the work with views a cultivation or a non-establishment?"
+          "x": "Is there a next world?"
         },
         {
           "t": "p",
-          "x": "The strongest candidate pairs two passages that may not oppose each other. The early discourses cultivate right view as forerunner, in the MN 117 passage quoted above. The Mahāyāna passage that grounds the candidate instructs knowing and viewing dharmas without setting up the perception of a dharma:"
+          "x": "MN 60 presents right view as a claim about what is real, and grounds it:"
         },
         {
           "t": "q",
-          "x": "\"That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'... someone who has set out in the Bodhisattva-vehicle should know all dharmas, view them, be intent on them. And he should know, view and be intent on them in such a way that he does not set up the perception of a dharma... 'Perception of dharma, perception of dharma,' Subhuti, as no-perception has this been taught by the Tathagata. Therefore is it called 'perception of dharma'.\" ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt))",
+          "x": "\"Because there actually is the next world, the view of one who thinks, 'There is a next world' is his right view.\" ([MN 60, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the comparison, not one of its poles: emptiness is \"not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists\" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))."
+          "x": "In DN 2, the king reports the opposing position from Ajita Kesakambali, one of the teachers he consulted:"
+        },
+        {
+          "t": "q",
+          "x": "\"...there is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions. There is no this world, no next world, no mother, no father, no spontaneously reborn beings; no brahmans or contemplatives who, faring rightly and practicing rightly, proclaim this world and the next after having directly known and realized it for themselves.\" ([DN 2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "Whether this is a disagreement at all is what remains unresolved. MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views."
+          "x": "The two positions answer one question, and they leave no middle ground. Ajita presses the denial to its end: \"With the break-up of the body, the wise and the foolish alike are annihilated, destroyed\" ([DN 2](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)). The Buddhist texts add a wager for those who cannot verify the answer themselves: \"If there is the next world, then this venerable person — on the breakup of the body, after death — will reappear in a good destination, a heavenly world\", so that \"this safe-bet teaching, when well grasped & adopted... covers both sides\" ([MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))."
+        },
+        {
+          "t": "p",
+          "x": "I would distinguish MN 60's conditional practical argument from its assertion that a next world exists. The wager supplies a reason for choosing how to act under uncertainty; it does not by itself verify that assertion. Here Ajita's teaching is presented through the king's report within a Buddhist discourse."
         },
         {
           "t": "h2",
-          "x": "Is the view a set of convictions or a direct discernment?"
+          "x": "Is the person known as a real and ultimate fact?"
         },
         {
           "t": "p",
-          "x": "MN 117 presents the two forms within one discourse, which is a grading rather than a disagreement between traditions; the two-forms material stays in the body above. The open question is whether any tradition actually reads the conviction set as sufficient without the discernment."
+          "x": "The early schools split over the status of the one who holds a view. The Kathāvatthu, the Theravāda Abhidhamma's book of disputed points, opens its whole survey with this question. The Theravādin asks whether the person is known as a real and ultimate fact; the Puggalavādin answers yes. Asked next whether the person is known in the same way as a real and ultimate fact, he answers, \"Nay, that cannot truly be said.\" The Theravādin then challenges whether those two answers can consistently stand together. ([Kathāvatthu I.1, Aung and Rhys Davids translation, archive.org scan](https://archive.org/details/pointsofcontrove00mogg))"
+        },
+        {
+          "t": "p",
+          "x": "The Puggalavāda schools — the Vātsīputrīyas and Sammitīyas named in that record — affirmed a person that a modern account of the school describes as neither identical with the aggregates nor separate from them ([Wikipedia, Pudgalavāda](https://en.wikipedia.org/wiki/Pudgalavada)). The Theravādin's refutation concludes that the affirmation must be withdrawn: the person is not known as a real and ultimate fact. The disagreement is recorded as worth a whole chapter of the Abhidhamma's dispute book. The chariot story below (Nagasena and the chariot) carries the same issue in narrative form."
+        },
+        {
+          "t": "p",
+          "x": "In this passage, the Puggalavādin position is presented through a Theravādin debate text. It is not an independent statement from a Pudgalavādin work. ([Kathāvatthu I.1, scanned translation](https://archive.org/download/pointsofcontrove00mogg/pointsofcontrove00mogg.pdf))"
         },
         {
           "t": "h2",
-          "x": "Are the truths tasks or beliefs?"
+          "x": "Can a causally produced thing have an intrinsic nature?"
         },
         {
           "t": "p",
-          "x": "The sutta's own presentation assigns each truth a task, in the SN 56.11 passage quoted above. The propositional reading exists in summary sources; the tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification."
+          "x": "Westerhoff describes an Ābhidharmika position that allows causal production alongside svabhāva: primary existents \"constitute the objective and irreducible constituents of the world out there\", and the Ābhidharmikas \"saw no conflict between objects being causally produced and their possessing svabhāva\" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)). The Abhidharma side can also be read in its own text. Vasubandhu's Abhidharmakośabhāṣya (1.2) glosses the word dharma as \"svalakṣaṇadhāraṇād dharmaḥ\", that is, a dharma is so called from upholding its own characteristic, and his list at 1.4 counts the conditioned (saṃskṛta) things among the dharmas ([Abhidharmakośabhāṣya, Sanskrit text, GRETIL](https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-abhidharmakozabhASya.xml)). The Stanford Encyclopedia renders the same definition as \"upholding intrinsic nature (svabhāva)\" ([SEP, Abhidharma](https://plato.stanford.edu/archives/fall2023/entries/abhidharma/)). I read the Sanskrit only for those two phrases, and I take the English gloss of the first from the Encyclopedia, not from my own Sanskrit."
+        },
+        {
+          "t": "p",
+          "x": "Nāgārjuna challenges the compatibility of those notions in the opening verses of the MMK's chapter on self-nature:"
+        },
+        {
+          "t": "q",
+          "x": "\"The occurrence of self-nature through causes and conditions is not proper. Self-nature that has occurred as a result of causes and conditions would be something that is made. Again, how could there be a self-nature that is made? Indeed, an unmade self-nature is also non-contingent upon another.\" ([MMK 15.1-2, Kalupahana translation, scan](https://antilogicalism.com/wp-content/uploads/2017/07/mulamadhyamakakarika.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The logic is that anything produced is made, and a made self-nature is a contradiction in terms; Kalupahana's commentary on the chapter notes that in refuting substance Nāgārjuna relies on the Buddha's middle position, dependent arising — the same SN 12.15 middle quoted in the body above. Westerhoff's entry puts the Madhyamaka view of truth this way: \"there can be no such thing as ultimate truth, a theory describing how things really are, independent of our interests and conceptual resources employed in describing it\" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))."
+        },
+        {
+          "t": "p",
+          "x": "What the disagreement turns on is whether being produced by conditions excludes having a nature of one's own. The two sides answer with opposite verdicts, and the MMK's verses are addressed to the Abhidharma position as the entry records it. What remains unresolved is which side the sutta's own test — watching stress arise and pass — presupposes. The passages quoted here do not settle it."
+        },
+        {
+          "t": "h",
+          "x": "Related questions"
+        },
+        {
+          "t": "p",
+          "x": "MN 117 calls right view the forerunner. MMK 13.8 describes emptiness as \"the relinquishing of all views\" and warns against making emptiness itself a view. The comparison raises a question about what each passage means by \"view\"; the opened passages do not establish that Nāgārjuna rejects the cultivation MN 117 recommends. ([MN 117](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html); [MMK 13.8, Garfield translation](https://justdharma.org/the-relinquishing-of-all-views-nagarjuna/))"
+        },
+        {
+          "t": "p",
+          "x": "SN 56.11 assigns tasks to the four truths; MN 60 also gives right view propositional content through its affirmation of a next world. Neither passage says that performing those tasks excludes accepting propositions. How conviction and practice belong together remains a useful question, but these passages do not establish rival answers. ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html); [MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))"
         },
         {
           "t": "h",
@@ -12328,7 +12378,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is a standing direction rather than a mood, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; which aims deserve my commitment is the question this page holds."
+          "x": "Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is a standing direction, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; which aims deserve my commitment is the question this page holds."
         },
         {
           "t": "h",
@@ -12407,7 +12457,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Indian traditions add release rather than contentment. [Vairagya](card:Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](card:Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47)."
+          "x": "The Indian traditions add a different note: release. [Vairagya](card:Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](card:Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47)."
         },
         {
           "t": "p",
@@ -12473,7 +12523,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](card:Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5), a claim I connect editorially to the harmlessness resolve. And [the inner friend](card:The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself."
+          "x": "The Stoic contribution is a claim about disturbance: [judgment adds the harm](card:Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5), a claim I connect editorially to the harmlessness resolve. And [the inner friend](card:The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself."
         },
         {
           "t": "h",
@@ -12650,7 +12700,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For Mill the act's rightness is decided by its tendency and the agent's worth by the motive — a division of the question rather than an answer to it, which is why this stands as a parallel rather than a dispute."
+          "x": "For Mill the act's rightness is decided by its tendency and the agent's worth by the motive. The division is his answer, and it leaves the question divided; that is why this stands as a parallel, with the two frameworks answering different parts of it."
         },
         {
           "t": "h2",
@@ -12820,7 +12870,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Epicurus defines pleasure by what it removes rather than what it adds, and makes that condition the whole of the happy life:"
+          "x": "Epicurus defines pleasure by what it removes — pain — and makes that condition the whole of the happy life:"
         },
         {
           "t": "q",
@@ -12869,7 +12919,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken."
+          "x": "What tends to need varying on this theme is the aim's default setting: wanting inherited and never chosen, ill will rehearsed until it feels like seeing, harm done by habit without any decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken."
         },
         {
           "t": "vs",
@@ -13923,7 +13973,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Right effort](card:Right%20effort) is the sixth factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training. It sits inside [the three trainings](card:The%20three%20trainings) in the concentration division alongside mindfulness and concentration, and it is energy aimed at the mind itself, defined by four directions rather than by quantity."
+          "x": "[Right effort](card:Right%20effort) is the sixth factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training. It sits inside [the three trainings](card:The%20three%20trainings) in the concentration division alongside mindfulness and concentration, and it is energy aimed at the mind itself; the four directions give it its shape, and how much is a separate question."
         },
         {
           "t": "p",
@@ -14175,7 +14225,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on the actual rather than the assumed. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one."
+          "x": "Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on what is actually happening. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one."
         },
         {
           "t": "h2",
@@ -14273,7 +14323,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The family also carries the practice off the cushion. [Walking meditation](card:Walking%20meditation) is deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath. [Dispositional mindfulness](card:Dispositional%20mindfulness) is the trait version of the capacity, as it varies between people, and [mindfulness's clarity mechanism](card:Mindfulness%27s%20clarity%20mechanism), the Bishop et al. operational definition, is seeing mental events accurately rather than dimly."
+          "x": "The family also carries the practice off the cushion. [Walking meditation](card:Walking%20meditation) is deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath. [Dispositional mindfulness](card:Dispositional%20mindfulness) is the trait version of the capacity, as it varies between people, and [mindfulness's clarity mechanism](card:Mindfulness%27s%20clarity%20mechanism), the Bishop et al. operational definition, is seeing mental events accurately."
         },
         {
           "t": "p",
@@ -14821,7 +14871,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Christian one-liner held on [Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear) promises removal: 1 John 4:18. Aristotle's account of courage is built on the opposite assumption. On [Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear), death and wounds remain painful to the brave man and against his will, and he faces them anyway because it is noble to do so. The feeling stays, and the act changes. The objects differ (the letter's fear is fear of punishment on the day of judgment; Aristotle's is battle and death), and I mark that difference rather than paper over it: what genuinely conflicts is the aim each prescribes."
+          "x": "The Christian one-liner held on [Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear) promises removal: 1 John 4:18. Aristotle's account of courage is built on the opposite assumption. On [Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear), death and wounds remain painful to the brave man and against his will, and he faces them anyway because it is noble to do so. The feeling stays, and the act changes. The objects differ (the letter's fear is fear of punishment on the day of judgment; Aristotle's is battle and death), and I mark that difference: what genuinely conflicts is the aim each prescribes."
         },
         {
           "t": "p",
@@ -14876,7 +14926,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Retention",
-          "x": "What a reader keeps from this theme is usually a record rather than a feeling: what was predicted, what occurred, and which action is worth repeating. A reader who keeps the hierarchy and re-runs it, or the weekly courage slot, has the theme's core; the drill that survives is the one the reader's life confirms."
+          "x": "What a reader keeps from this theme is usually a record: what was predicted, what occurred, and which action is worth repeating. A reader who keeps the hierarchy and re-runs it, or the weekly courage slot, has the theme's core; the drill that survives is the one the reader's life confirms."
         },
         {
           "t": "h",
@@ -15343,11 +15393,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Sadness and grief are the family's honest states. Something is lost, and I feel bad about it, and the traditions around me have always been tempted to fix the feeling before asking what it is doing. The questions I care about here are practical ones: what work does grief consist of, what does it ask of the person grieving, and when, by whose measure, is the work done?"
+          "x": "Sadness and grief are the family's plain states. Something is lost, and I feel bad about it, and the traditions around me often move to fix the feeling before asking what it is doing. The questions I care about here are practical ones: what work does grief consist of, what does it ask of the person grieving, and when, by whose measure, is the work done?"
         },
         {
           "t": "p",
-          "x": "The accounts below divide the labour between them. The clinical research gives grief its structure as an alternation between two kinds of work, and it marks the boundary with depression carefully. The classical letters prescribe proportion and a stop. Gibran's chapter and the Aztec songs treat sorrow as constitutive rather than as a defect to be cleared. Between them sits the failure mode the clinic names, complicated grief, and the extension of grief beyond human death that the ecological literature has opened."
+          "x": "The accounts below divide the labour between them. The clinical research gives grief its structure as an alternation between two kinds of work, and it marks the boundary with depression carefully. The classical letters prescribe proportion and a stop. Gibran's chapter and the Aztec songs treat sorrow as part of what a life is made of. Between them sits the failure mode the clinic names, complicated grief, and the extension of grief beyond human death that the ecological literature has opened."
         },
         {
           "t": "h2",
@@ -15355,7 +15405,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Sadness: the state itself, felt toward anything lost or absent; the cleanest treatment of it as a working state rather than a defect is [Sorrow's fruit](card:Sorrow%27s%20fruit), and the film case is [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)."
+          "x": "Sadness: the state itself, felt toward anything lost or absent; the cleanest treatment of it as a working state is [Sorrow's fruit](card:Sorrow%27s%20fruit), and the film case is [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)."
         },
         {
           "t": "p",
@@ -15387,7 +15437,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The clinical material gives grief its structure as a process rather than a mood, and it separates grief from depression with two observations:"
+          "x": "The clinical material treats grief as a process, and it separates grief from depression with two observations:"
         },
         {
           "t": "q",
@@ -15401,7 +15451,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The process structure itself is the dual-process model. [Grief's oscillation model](card:Grief%27s%20oscillation%20model) defines grief as alternation between two kinds of work, and [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) states the same point as a principle. The clinical sources distinguish grief from depression and model bereavement coping; they do not directly establish a sadness-versus-grief boundary, and I leave that boundary open rather than asserting it. What the family's own entries show is that its sadness material treats sorrow as deep and constitutive, which is grief's register rather than a passing mood's."
+          "x": "The process structure itself is the dual-process model. [Grief's oscillation model](card:Grief%27s%20oscillation%20model) defines grief as alternation between two kinds of work, and [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) states the same point as a principle. The clinical sources distinguish grief from depression and model bereavement coping; they do not directly establish a sadness-versus-grief boundary, and I leave that boundary open. What the family's own entries show is that its sadness material treats sorrow as deep and constitutive, which is grief's own register."
         },
         {
           "t": "h2",
@@ -15434,7 +15484,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The conditionality is the finding, not a verdict against bonds as such."
+          "x": "The finding is about that combination: an unexpected bereavement together with close bonds retained."
         },
         {
           "t": "h2",
@@ -15451,7 +15501,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Seneca's letter on the death of Flaccus draws the line at proportion rather than at absence:"
+          "x": "Seneca's letter on the death of Flaccus draws the line at proportion:"
         },
         {
           "t": "q",
@@ -15470,7 +15520,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The classical limit has two further expressions. [S070 — Do not let grief become your identity](card:S070%20%E2%80%94%20Do%20not%20let%20grief%20become%20your%20identity) carries the identity limit: grief may be kept and kept company with, but it is not to become the person. [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess) adds Epictetus' instruction for the companion: accommodate the griever, groan with him if need be, but do not groan inwardly."
+          "x": "The classical limit has two further expressions. [S070 — Do not let grief become your identity](card:S070%20%E2%80%94%20Do%20not%20let%20grief%20become%20your%20identity) carries the identity limit: the griever keeps an identity of their own alongside the grief. [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess) adds Epictetus' instruction for the companion: accommodate the griever, groan with him if need be; the inward register stays unstirred."
         },
         {
           "t": "p",
@@ -15478,7 +15528,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The clinic answers the how-long question with thresholds rather than letters. On [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) and [Complicated grief research](card:Complicated%20grief%20research), prolonged grief disorder is diagnosed when the grief response has persisted for \"more than 6 months at a minimum\" (ICD-11) or the death was \"at least 12 months ago\" (DSM-5-TR, adults), in both cases clearly exceeding the expected social, cultural or religious norms and causing significant impairment ([PGD review, Psychiatria Polska](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf)). Seneca's proportion is a letter-writer's judgement; the clinic's is a duration and an impairment. The two answer different questions, and neither is a deadline handed to the griever."
+          "x": "The clinic answers the how-long question with thresholds. On [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) and [Complicated grief research](card:Complicated%20grief%20research), prolonged grief disorder is diagnosed when the grief response has persisted for \"more than 6 months at a minimum\" (ICD-11) or the death was \"at least 12 months ago\" (DSM-5-TR, adults), in both cases clearly exceeding the expected social, cultural or religious norms and causing significant impairment ([PGD review, Psychiatria Polska](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf)). Seneca's proportion is a letter-writer's judgement; the clinic's is a duration and an impairment. The two answer different questions, and neither is a deadline handed to the griever."
         },
         {
           "t": "h2",
@@ -15500,7 +15550,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory) is the same claim dramatised: Joy rewinds the sad core memory and finds that the comfort Riley received after the loss was made by Sadness. [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) turns the state into an attention practice: notice the empty chair at breakfast, stay with the memory or tell someone, and set no deadline for feeling better. The Buddhist note it carries makes the same point from the root: the Dhammapada verse ties grief to endearment itself, which is a claim about the root, not a deadline for the feeling."
+          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory) is the same claim dramatised: Joy rewinds the sad core memory and finds that the comfort Riley received after the loss was made by Sadness. [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) turns the state into an attention practice: notice the empty chair at breakfast, stay with the memory or tell someone, and set no deadline for feeling better. The Buddhist note it carries makes the same point from the root: the Dhammapada verse ties grief to endearment itself."
         },
         {
           "t": "h2",
@@ -15508,7 +15558,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading, citing Butler and others:"
+          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading, citing Butler and others:"
         },
         {
           "t": "q",
@@ -15534,7 +15584,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Complicated grief research](card:Complicated%20grief%20research) records the failure modes: grief that persists past the clinical thresholds, grief that forecloses the restoration side of life, and the rumination that [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work)'s container is built to catch: a sitting that turns into hours of circling is rumination wearing the practice's clothes. The dual-process reading on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) treats dosage, not suppression, as the operative variable."
+          "x": "[Complicated grief research](card:Complicated%20grief%20research) records the failure modes: grief that persists past the clinical thresholds, grief that forecloses the restoration side of life, and the rumination that [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work)'s container is built to catch: circling that runs on past any container. The dual-process reading on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) treats dosage, not suppression, as the operative variable."
         },
         {
           "t": "h",
@@ -15563,7 +15613,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The turn-on is the study's own moderator: expected versus unexpected bereavement. The finding conditions the bonds on how the death arrived, not on what a kept bond is; whether a bond that keeps the dead present in a life still being lived differs from one that substitutes for that life is my interpretation, not a measurement in the paper. My lean is toward the bonds side with the conditions respected."
+          "x": "The study's own moderator is expected versus unexpected bereavement. The finding conditions the bonds on how the death arrived; whether a bond that keeps the dead present in a life still being lived differs from one that substitutes for that life is my interpretation, not a measurement in the paper. My lean is toward the bonds side with the conditions respected."
         },
         {
           "t": "h2",
@@ -15571,15 +15621,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 'Trauerarbeit' (grief work), conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). Freud's own description of the work is where the effortful picture comes from: \"each single one of the memories and expectations in which the libido is bound to the object is brought up and hypercathected, and detachment of the libido is accomplished in respect of it\" ([Freud, Mourning and Melancholia 1917, Strachey translation](https://ia803101.us.archive.org/29/items/FreudMourningAndMelancholia/Freud_MourningAndMelancholia_text.pdf))."
+          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 'Trauerarbeit' (grief work), conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). Freud's own description of the work is where the effortful picture comes from: \"Each single one of the memories and expectations in which the libido is bound to the object is brought up and hypercathected, and detachment of the libido is accomplished in respect of it\" ([Freud, Mourning and Melancholia 1917, Strachey translation](https://ia803101.us.archive.org/29/items/FreudMourningAndMelancholia/Freud_MourningAndMelancholia_text.pdf))."
         },
         {
           "t": "p",
-          "x": "The dual-process model was built against that hypothesis, and the paper states its grounds: \"the poor quality of operationalizations in empirical studies (e.g., grief work operationalized as yearning and pining), the absence of sound evidence for it\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). On the model, avoidance is not failure but part of the coping itself: the paper proposes \"a dynamic, regulatory coping process of oscillation\" in which the griever \"at times confronts, at other times avoids\" the tasks of grieving ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))."
+          "x": "The dual-process model was built against that hypothesis, and the paper states its grounds: \"the poor quality of operationalizations in empirical studies (e.g., grief work operationalized as yearning and pining), the absence of sound evidence for it\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). On the model, avoidance and respite sit inside the coping: the paper proposes \"a dynamic, regulatory coping process of oscillation\" in which the griever \"at times confronts, at other times avoids\" the tasks of grieving ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))."
         },
         {
           "t": "p",
-          "x": "The paper even carries the disagreement into the clinic: \"Intervention may, for some, be counterproductive.\" The alternative it names is avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, as what would be beneficial ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last."
+          "x": "The paper even carries the disagreement into the clinic: \"Intervention may, for some, be counterproductive.\" The alternative it names is avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, as what would be beneficial ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). What decides between those two is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last."
         },
         {
           "t": "h2",
@@ -15609,7 +15659,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The page lets Cicero speak for the Stoic side, since he is its advocate in this book, and treats the objection as the opposing position only as he reports it. The case against the objection depends on what counts as grief: the reply separates the first pang from the further grief that a person adds to it, and the objectors seem to mean the first. My lean, which is mine, is that Cicero is strongest on the added part and weakest on the pang, and that Seneca's letter on Flaccus, quoted above, is where a middle position is stated in practice. The limit is that I read the Yonge translation of one book, not the Latin or the Peripatetic texts themselves, so the claims about what that school held rest on Cicero's report."
+          "x": "Cicero speaks for the Stoic side here, since he is its advocate in this book, and the objection stands as the opposing position only as he reports it. The case against the objection depends on what counts as grief: the reply separates the first pang from the further grief that a person adds to it, and the objectors seem to mean the first. My lean, which is mine, is that Cicero is strongest on the added part and weakest on the pang, and that Seneca's letter on Flaccus, quoted above, is where a middle position is stated in practice. The limit is that I read the Yonge translation of one book, not the Latin or the Peripatetic texts themselves, so the claims about what that school held rest on Cicero's report."
         },
         {
           "t": "h",
@@ -15618,7 +15668,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the relationship with the loss itself: the avoidance that fences the loss off; the rumination that circles the loss without ever returning to the restoration side of life; and the deadline, either imposed from outside or awaited, that converts grief into a waiting-room occupation. The adaptive direction runs toward alternation kept deliberately: the loss sat with inside a container, the life returned to, and the loss named in a plain sentence."
+          "x": "What tends to need varying on this theme is the relationship with the loss itself: the avoidance that fences the loss off; the rumination that circles the loss without ever returning to the restoration side of life; and the deadline, either imposed from outside or awaited, that turns grieving into waiting for grief to end. The adaptive direction runs toward alternation kept deliberately: the loss sat with inside a container, the life returned to, and the loss named in a plain sentence."
         },
         {
           "t": "vs",
@@ -15628,7 +15678,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): when grief arises, let it be present without rushing to resolve it; give the engagement a container (a time, a place, a length), and when the container ends, move to the restoration side of life. The model behind the structure treats respite as part of adaptive coping, not as failure, so the time limit is the practice rather than a concession to weakness."
+          "x": "[K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): when grief arises, let it be present without rushing to resolve it; give the engagement a container (a time, a place, a length), and when the container ends, move to the restoration side of life. The time limit is the kernel's own device for making room for respite, which the model treats as part of adaptive coping."
         },
         {
           "t": "n",
@@ -15648,7 +15698,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Retention",
-          "x": "What a reader keeps from this theme is usually the alternation rather than a feeling: what was named, what was sat with, and which side today needed. A reader who keeps the container and the return, and the sentence that names the loss, has the theme's core. None of the three argues for wallowing, and none for cutting the loss off."
+          "x": "What a reader keeps from this theme is usually the alternation: what was named, what was sat with, and which side the day's grief needed. A reader who keeps the container and the return, and the sentence that names the loss, has the theme's core. None of those three argues for wallowing, and none for cutting the loss off."
         },
         {
           "t": "h",
