@@ -105,3 +105,7 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 - Three further samples: s1c-029, s1c-036, s1c-038 (Zhuangzi Wang Tai, Hao bridge, Yi Erzi - Eno, Legge, and Giles carriers all verified). All quotes VERBATIM.
 - Final session totals for s1c: 16 of 38 ready drafts QC-sampled. No faults found in any s1c sample this session.
 - Baton released after this save; lane left in ready state.
+
+## 2026-10-25 15:19Z — QC last addendum (qc-storyteller-pplx-1025x)
+
+- One further sample: s1c-004 (Qin Shi at Lao Dan's funeral, Legge + Eno both verbatim). Final session totals: 17 of 38 s1c ready drafts QC-sampled, no faults found. Baton released after this save.
