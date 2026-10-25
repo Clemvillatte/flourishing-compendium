@@ -39,10 +39,11 @@
   "M049": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; three first-person body lines reworded impersonally; no new claims; validator PASS",
   "PP066": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (miss-day framing from Lally 18-254 days, small-coin gains scoping); validator PASS",
   "PP070": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Savoring wikilink preserved; broken 'is my.' Scope line repaired; 'as I read it' reworded; validator PASS",
-  "PP078": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (rumination-breaker framing, honest scoping of attention and survey evidence); validator PASS"
+  "PP078": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (rumination-breaker framing, honest scoping of attention and survey evidence); validator PASS",
+  "R017": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (ties-not-state framing, honest limits kept); no new claims; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:03:40+00:00",
+ "updated": "2026-10-25T11:04:03+00:00",
  "band_done": true
 }
