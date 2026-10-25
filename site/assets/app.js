@@ -10517,7 +10517,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "People attempt to gain control not only by bringing the environment into line with their wishes, which they call primary control, but also by bringing themselves into line with environmental forces, which they call secondary control ([Rothbaum, Weisz and Snyder, Changing the World and Changing the Self: A Two-Process Model of Perceived Control, Journal of Personality and Social Psychology 1982, abstract](https://doi.org/10.1037/0022-3514.42.1.5)).",
+          "x": "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control) ([Rothbaum, Weisz and Snyder, Changing the World and Changing the Self: A Two-Process Model of Perceived Control, Journal of Personality and Social Psychology 1982, abstract](https://doi.org/10.1037/0022-3514.42.1.5), [accessible carrier](https://scispace.com/papers/changing-the-world-and-changing-the-self-a-two-process-model-jo5n2dpgej)).",
           "s": null
         },
         {

@@ -334,3 +334,19 @@ text changed by this entry. SUPERVISOR: re-splice agency when convenient;
 the carrier-hunt flag from the 10:52:34Z entry is closed — OpenAlex
 (api.openalex.org/works/doi:10.1037/0022-3514.42.1.5) is a fetchable
 record carrying the published wording.
+
+## Repair: Rothbaum blockquote re-paired to the published abstract (worker-7fbdff24)
+
+- 2026-10-25 12:46:20Z read clock: repaired the quote defect flagged in the supervisor review
+  of 2026-10-25 (PASS with one repair item, commit 82d4d4267): the Rothbaum et
+  al. 1982 blockquote's "which they call primary control ... which they call
+  secondary control" clauses replaced with the published abstract's verbatim
+  parentheticals "(primary control) ... (secondary control)" — the same
+  sentence the Secondary control card carries. The accessible scispace
+  abstract page added as a second carrier link (the DOI/psycnet carrier is
+  robot-blocked; the scispace page was fetch-tool-verified this pass and
+  carries the same abstract). No other line touched. Gates after the edit:
+  dossier_check exit 0 (60 card links, 17 headers, 13 external carriers),
+  density 0, quote_verify 11 checked / 0 not found — the repaired span now
+  machine-verifies. Registry rebuilt (--rebuild=agency, 86 blocks) so the
+  published site reflects the fix.
