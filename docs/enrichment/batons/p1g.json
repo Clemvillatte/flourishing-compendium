@@ -39,5 +39,7 @@
    "from": "worker-p1g-72a54432",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:14:45+00:00"
 }
