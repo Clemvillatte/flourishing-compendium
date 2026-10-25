@@ -27,5 +27,7 @@
    "from": "worker-p1zw-1025b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:21:00+00:00"
 }
