@@ -135,3 +135,58 @@ card-faithful; the keep-or-recast decision is a voice/style call.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+
+## GF-model rewrite (2026-10-25 03:26Z, worker-pplx-dos30-1025i, baton dos30 held for lane 4)
+
+The retired map-format dossier was rewritten as one interwoven thread per
+DOSSIER-MODEL.md, with genuine-flourishing.md as the exemplar. Structure:
+question blockquote, three first-person opening paragraphs, Nearby terms
+as bullets, main body in five subsections phrased as movements
+(the arrow that is added; the judgment that adds the harm; the suffering
+that is not added; the reflex that keeps it going; what the body does
+with the first arrow), a three-question genuine-disagreement section,
+a Variation-Selection-Retention practice section, and the Story section
+last. Every card link from the previous draft is retained (49 card
+links resolve per dossier_check.py; the old draft carried the same
+inventory, none dropped, none added).
+
+Carriers opened and re-read this session before reuse:
+
+1. SN 36.6, Thanissaro translation,
+   https://www.dhammatalks.org/suttas/SN/SN36_6.html — the opening
+   paragraph's two-pains account is a paraphrase of the sutta's own
+   wording ("sorrows, grieves, & laments... two pains, physical &
+   mental"); the paraphrase is not presented as a quote.
+2. SN 56.11, Thanissaro translation,
+   https://www.dhammatalks.org/suttas/SN/SN56_11.html — the block
+   quote in the body is the full sutta enumeration, verified
+   word-for-word this session (dossier_quote_verify.py: checked 2,
+   not found 0). The old draft's abridged form was replaced with the
+   complete sentence.
+3. Enchiridion 5, Long translation, MIT Classics,
+   https://classics.mit.edu/Epictetus/epicench.html — newly quoted
+   this session; wording verified word-for-word against the opened
+   page ("Men are disturbed, not by things, but by the principles and
+   notions which they form concerning things...").
+
+Story cards re-read this session for the Story section loglines:
+ST059, ST078, ST289, ST290, ST311 (files opened; loglines rewritten
+from the cards' own text). Concept and principle glosses reused from
+the previous draft, whose card-fidelity sweep (gfva-1025a, recorded
+above) found all glosses matching their cards; no claim wording was
+invented beyond the old draft's card-faithful material, and the
+new editorial framing (the split between added and unadded suffering,
+the convergence paragraph's restraint, the disagreement leans) is
+first-person judgment, marked as such by its voice.
+
+Checks this session: dossier_check.py exit 0 (49 card links, 20
+headers, 3 external carriers); dossier_density.py 0 dense paragraphs;
+dossier_quote_verify.py checked 2, not found 0. Reader pass done
+(two awkward phrasings fixed after a full read: the opening's "The
+oldest text on this I know", the convergence sentence).
+
+FLAGGED for the supervisor: suffering is registry status "planned";
+per CURRENT ORDERS the GF-model rewrite was the precondition for
+flipping it to published. The supervisor owns registry.json and the
+registry rebuild. This rewrite is offered as satisfying that
+precondition; supervisor review requested before the flip.
