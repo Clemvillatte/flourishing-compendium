@@ -724,3 +724,60 @@ card-fidelity-swept glosses. Checks: dossier_check exit 0 (63 card
 links, 20 headers, 14 carriers); density 0; the Virtue ethics card
 link count change (65 -> 63) is the moved card plus the prior ST384
 gloss removal, both recorded above.
+
+## Takeover rounds 7-9 (2026-10-25, worker-pplx-dos21-1025g, commits 21f48c29b d3c5abeac a23f3f794)
+
+Advisor QC round 7 (blockers repaired):
+- Baseline-to-current card-target comparison run against the
+  pre-takeover revision (612c442f^): the Virtue ethics and The moral
+  situation links were missing from the current file (the Virtue
+  ethics removal was misrecorded in the round-6 ledger as a move to
+  Nearby terms; the Nearby bullets carried no such link, and the
+  Moral situation link was dropped when the Dewey sentence was
+  reworded). Both RESTORED in the body. The one added target,
+  Conduct even in just war, is the named-Aquinas replacement for the
+  unlinked "Christian tradition" wording at the same position.
+- "For those not born with the disposition" purpose-assignment
+  softened to "For those without the natural start, the tradition
+  tables the character virtues".
+- Confucian "names the same work" equivalence softened to "names a
+  related work"; the body-fixing reading attributed to the term's
+  characters.
+- "backs Dewey's placement" corroboration replaced with "gathers
+  cases that fit Dewey's placement"; the situationist studies' scope
+  stated as their own (findings about specific designs).
+- "If the setting carries that much of the outcome" inference
+  replaced with a stated scope-limit and the design question framed
+  as what those findings raise.
+- Care/justice elaboration removed (the card's own contrast states
+  it); Aquinas sentence fragment repaired ("his reply opens").
+
+Round 8 (readability):
+- Story intro rewritten as a fact about conduct (no document
+  description); the "Wealth, theft and harm" opaque line replaced.
+- Nearby terms page-allocation language removed ("nothing is split",
+  "stays there", "each with its own page and dossier"); the
+  conduct-factors sentence now states the path's own order.
+- ST087 and ST295 loglines recast as concrete incidents from the
+  cards (Schindler's watch/car breakdown; Prometheus's Caucasus rock
+  and regrowing liver), the unattributed interpretive glosses
+  removed.
+
+Round 9 (density): the dense paragraph (line 67, 4 links in 101
+words) split at the unity-of-the-virtues entry, which now stands in
+its own paragraph; density 0 again; all 65 links kept.
+
+Verification scope recorded honestly: the automated checks pass
+(checker 65 links, 20 headers, 14 carriers; density 0; quote_verify
+15/0 live this session); the four story cards were re-read directly
+(content/stories/ST405, ST087, ST295, ST384); the source-context
+and reader-level clearance of the inherited Wang/Aristotle section
+remains with the prior sessions' records in this ledger (the quotes
+are byte-identical to the pass-8 verified text and live-matched by
+dossier_quote_verify this session). The concept-page validator's
+word cap, Sources-heading requirement and card-title dash count are
+not dossier blockers and are not treated as such.
+
+OPEN for the supervisor: review plus dossier_registry_build.py
+--rebuild=right-action (the registry entry already says published;
+no status flip is requested from the worker).
