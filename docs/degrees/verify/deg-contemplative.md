@@ -378,6 +378,21 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   it? How?"). Caveats: third-party transcript page, no timestamps in the
   retrieved text; playback itself not opened.
 - Relevant segment: whole roundtable, 1:59:09.
+- PLACEMENT FLAG (raised by the degree owner, 2026-10-25): the owner queried
+  whether this roundtable fits a Walk of Life degree whose aim is the
+  alleviation of suffering, cultivating wisdom and flourishing despite
+  uncertainty — as distinct from political theory. Verifier's note for that
+  decision (coverage basis only, not a placement ruling): the transcript shows
+  the roundtable's center of gravity is political philosophy (Zhuangzi on
+  government and state legitimacy), with walk-of-life-relevant material in the
+  Valmisa and Walker contributions (non-coercive responsiveness, releasing
+  rigid fixed views, courage/integrity as non-aggression). If the module
+  outcome targets walk-of-life application, the responsive segment is a subset
+  of the event rather than its whole; the placement decision belongs to the
+  owner. Same question may apply to other mod-cont optional attachments
+  verified this round (e.g. M05-MA-01/MA-02 Carrasco are Nahuatl religious
+  history rather than walk-of-life practice; Komjathy D03/D08/D20 and Kohn D13
+  are practice-centered and squarely within the walk-of-life frame).
 - Verification status: verified-video (2026-10-25); coverage confirmed against
   a third-party transcript page (no timestamps); identity, access and duration
   verified earlier.
@@ -889,8 +904,24 @@ attach them with evidence on file.
   critique in the second chapter of Tanabe's Philosophy as Metanoetics, as a
   systematic development of Kant's Critique of Pure Reason and its transcendence
   via trans-rational faith in Other-Power.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=28N4lGq0_MQ&current_language_code=en,
+  opened 2026-10-25) confirms the talk's substance on the recording: Tanabe's
+  metanoetics as the development of Kant's critical philosophy ("metan noetics
+  is the inevitable result of philosophy pursued as the critique of Reason");
+  reason's inability to set its own limits ("Reason by its own self-power cannot
+  consistently draw its own limits"); the absolute as "the great nay" and
+  "absolute nothingness", with other-power as "the great compassion"; the
+  absolute revealed only through reason's failure; metanoetic transformation
+  (despair, humility, repentance, thankfulness) with religious experience not
+  requiring the abandonment of reason ("philosophy itself is [a] religious
+  practice"); truth beyond correspondence; and the closing action-faith-witness
+  formula. Caveats: third-party transcript page, no timestamps in the retrieved
+  text; playback itself not opened.
 - Relevant segment: whole talk, 49:25.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M02-K07: Shantideva's Guide, Lesson 6, Patience (Ringu Tulku Rinpoche, The Buddhist Society)
 
