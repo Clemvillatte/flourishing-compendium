@@ -1,6 +1,35 @@
 # Dossiers band handoff — read this first
 
-## Newest owner correction: readable synthesis and approval gate
+## CURRENT ORDERS (2026-10-25, owner validated; supersedes everything below that conflicts)
+
+The owner validated Genuine Flourishing as the exemplar. The earlier "candidate awaiting validation / do not launch the rollout" gate is lifted. The goal is NOT a copy of the old four-section map format: every dossier is rewritten as one interwoven thread, as GF is. Wisdom is already rewritten and pushed (`wisdom.md`); read it beside GF.
+
+Read in this order: `genuine-flourishing.md` end to end, `DOSSIER-MODEL.md` (binding shape, pace and cognitive-load rules), `wisdom.md`, `HUMANIZER-SKILL.md`. An old map-format dossier is raw material only: reuse its verified links and quotes after re-reading each source passage, never its structure.
+
+Every dossier must have: a `## Where the traditions genuinely disagree` section (only disagreements the sources support); every quotation opened and matched (`python3 scripts/dossier_quote_verify.py <file.md>` fetches each URL and matches the wording; "NOT FOUND" for PubMed, SAGE, Taylor and Francis or MDPI usually means a blocked fetch, so open the page another way and confirm by eye, or drop the quote); `dossier_check.py` passing; art (already assigned in `registry.json` for all planned dossiers); a ledger in `docs/enrichment/sources/dossiers/<id>.md`.
+
+Publish bar (owner-approved): checker passes, every quote verified, an independent review finds no glib or formulaic prose, art set. The owner vetoes from the per-batch list afterwards.
+
+Who touches what: workers write only their own `docs/enrichment/dossiers/<id>.md` and ledger. Do NOT edit `registry.json`, `site/assets/app.js` or run `dossier_registry_build.py`; the supervisor flips status to published and rebuilds (`--rebuild=<id>` for already-published ones). Commit your files with explicit paths, then `git pull --rebase origin main` before push.
+
+Scope: all 35 registered dossiers, the new suffering, acceptance, freedom, impermanence entries, and creation, creativity, procrastination. Impermanence replaces a standalone meaning-and-mortality dossier (Life's Purpose already covers meaning; raw material is `meaning-and-mortality.md`).
+
+Lanes (claim one by a baton commit naming it; lane sizes fit one worker):
+1. right-view, right-intention, right-speech, right-action
+2. right-livelihood, right-effort, right-mindfulness, right-concentration
+3. gratitude, fear, sadness-and-grief, shame-and-guilt
+4. frustration, suffering, acceptance, freedom
+5. impermanence, creation, creativity, procrastination
+6. affect, anger, anxiety, happiness
+7. cognition, decision-making, attention, the-self
+8. motivation, goals, agency, behaviour
+Second wave: others, body, uncertainty, overload-overwhelm, lifes-purpose.
+
+Already-drafted creation (rev 7), creativity and procrastination are in the old map shape: restructure them, do not just polish.
+
+---
+
+## (Superseded gate, kept for history) Newest owner correction: readable synthesis and approval gate
 
 The owner rejected the GF passage beginning "Its goal research adds..."
 as cognitively overloading and impossible to read, navigate or comprehend.
