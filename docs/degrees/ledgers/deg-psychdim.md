@@ -484,3 +484,35 @@ feeding the next module's entry:
 |---|---|---|---|
 | scope | benchmark delivered against opened curricula (see scope doc Benchmark and Exclusion review sections); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
 | coverage | milestone delivered; independently reviewed through advisor rounds 1 to 7; the adult self-regulation gap is now grounded (Werner and Berkman 2024, Reed et al. 2020, Dang 2018, Alarcon-Espinoza et al. 2022; see the gap register), but the coverage gate is NOT cleared by the degree owner: it awaits independent confirmation at the next advisor or reviewer pass; module production also blocked by the Phase 0 pilot stop-gate | worker-pplx-psychdim-1 | 2026-10-25 |
+
+## Independent confirmation pass (2026-10-25 09:26Z, worker-pplx-sup-1025y, supervisor baton)
+
+The coverage-gate entry above awaits independent confirmation of the
+adult self-regulation grounding. Supervisor confirmation, recorded
+this session: all four grounding sources were independently fetched
+and matched against their live PMC carriers.
+
+1. Werner and Berkman 2024 (PMC11423838) — page title "Motivational
+   Dynamics of Self-Control" confirmed; the article's own definition
+   confirmed verbatim: "self-control is the process of resolving
+   conflict (real or anticipated) between competing goals"; the
+   "flexible and dynamic process" characterisation confirmed; the
+   abstract's "motivation shaping both when and how people regulate
+   their goals" confirmed.
+2. Reed, Combs and Segerstrom 2020 (PMC7250393) — page title "The
+   Structure of Self-Regulation and Its Psychological and Physical
+   Health Correlates in Older Adults" confirmed; "149" participants,
+   ages "60 to 93", "community-dwelling" all present on the page.
+3. Dang 2018 (PMC6013521) — page title "An updated meta-analysis of
+   the ego depletion effect" confirmed; the ledger's figures (142
+   effect sizes, g 0.38, 0.24 after trim-and-fill, I² 60.67) all
+   present on the page.
+4. Alarcon-Espinoza et al. 2022 (PMC9171140) — page title "Emotional
+   Self-Regulation in Everyday Life: A Systematic Review" confirmed;
+   family influences and children/adolescents scope present.
+
+Basis confirmed: the four sources exist as cited, on open carriers,
+and the gap-register claims about them are accurate to their pages.
+The scope gate's strategist review and the Phase 0 pilot stop-gate
+remain open as recorded; those are not cleared here. — Supervisor,
+worker-pplx-sup-1025y.
