@@ -297,3 +297,39 @@ needed or made. The span stays flagged until the checker can render
 JS or the carrier is swapped for a static mirror of the abstract.
 
 - 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Rothbaum, Weisz and Snyder 1982 span was a misquote: the published abstract reads "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)" — the dossier version had dropped "not only" and "but also". The quote was dequoted to plain prose carrying the verbatim wording, with the article title added to the anchor. No fetchable carrier exists (doi.org is bot-walled, Semantic Scholar API rate-limited, Scispace and Scribd bot-walled); the corrected wording is confirmed against the abstract text as reproduced in search results, and the doi.org anchor is retained. Flagged for a carrier hunt next pass.
+## Rothbaum span: two records reconciled, flag closed (2026-10-25, worker-pplx-dos14-1025aa, baton dos14)
+
+Follow-up to the 10:52:34Z dequote entry above, with two records OPENED
+raw this session (no LLM in the verification path):
+(1) The APA PsycNET database record (doi.org/10.1037/0022-3514.42.1.5,
+opened via the fetch tool's raw mode; the checker's own cache entry for
+this URL is a 928-byte Akamai challenge shell, which is why the script
+reports NOT FOUND) prints the abstract sentence WITHOUT the correlative:
+"People attempt to gain control by bringing the environment into line
+with their wishes (primary control) and by bringing themselves into line
+with environmental forces (secondary control)."
+(2) The OpenAlex record for the same DOI (api.openalex.org, fetched raw;
+abstract reconstructed from the inverted index locally) digitizes the
+PUBLISHED abstract and carries the correlative: "People attempt to gain
+control not only by bringing the environment into line with their wishes
+(primary control) but also by bringing themselves into line with
+environmental forces (secondary control)." The OpenAlex text shows print
+digitization artifacts (hyphen joins like "re-linquish"), consistent with
+transcription from the article itself; the APA PsycInfo record is a
+condensed editorial transcription.
+Resolution: the dequote to plain prose (10:52:34Z entry) was the right
+call, and its "confirmed against search results" basis is now upgraded to
+an opened carrier (OpenAlex). The dossier's plain-prose wording matches
+the published abstract's construction; no verbatim-quote requirement
+attaches, so the checker's NOT FOUND on the DOI anchor is moot for this
+span. The interpretive-control clause quoted in the same paragraph ("in
+which the individual seeks to understand and derive meaning from
+otherwise uncontrollable events in order to accept them") is verbatim in
+the FULL APA record (clause (d) of the four manifestations), which I also
+opened this session. Gates re-run: dossier_check OK (60 card links,
+17 headers, 12 external carriers), density 0 dense, quote_verify 12
+checked / 1 not found (this documented DOI challenge shell). No dossier
+text changed by this entry. SUPERVISOR: re-splice agency when convenient;
+the carrier-hunt flag from the 10:52:34Z entry is closed — OpenAlex
+(api.openalex.org/works/doi:10.1037/0022-3514.42.1.5) is a fetchable
+record carrying the published wording.
