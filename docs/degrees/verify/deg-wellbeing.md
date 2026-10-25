@@ -225,6 +225,10 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   integration time.
 
 ## Block I batch (verified 2026-10-25)
+
+Half-attribution note (2026-10-25): entries from M08-P09 through M08-P10
+are from the deg-verify-a hash half; entries from M08-P05 onward were
+added by verifier-pplx-1025g (deg-verify-b hash half, md5-odd).
 Coverage-basis note for owners: entries in this section record the basis of each
 content-coverage claim (host/uploader description, page transcript, or recording
 material). Entries whose basis is a host or uploader description have their
