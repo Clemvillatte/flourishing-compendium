@@ -135,3 +135,27 @@ most pleasant but the most absorbed — the paradox the research names).
 Checks: dossier_check.py exit 0; the fresh audit count for this
 dossier fell from 9 to 7 (two patterns cleared on line 5). Editorial
 review only; no carriers or cards freshly opened this pass.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 23 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the DN 2 jhanas listing, the SN 56.11
+eightfold-path reading of "right" as whole, equanimity with its
+near-enemy warning, the Gita wind-simile, the Yoga Sutra cluster
+(Vyasa's five states of mind, samadhi III.3, dhāraṇā, dhyāna,
+samyama, seeded and seedless settling), focused-attention meditation
+with its research limits carried, the anchors entry, shamatha with
+Thanissaro's calm-and-insight pairing, sustained attention theory with
+the fatigue-versus-boredom question left open, one-pointedness with
+its double rendering, Leroy's attention residue, flow with
+Csikszentmihalyi's addictive-side caution carried, and the wu wei
+cluster including Cook Ding's nineteen-year blade. No mismatches
+found; no edits made. This strengthens the earlier voice-audit review
+(all 7 candidates kept): the flagged constructions are card-faithful
+as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
