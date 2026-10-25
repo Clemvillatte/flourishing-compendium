@@ -427,3 +427,12 @@ not found to 2 not found; the remaining two (Milindapañha chariot
 on Suttacentral, Deikman observing self on deikman.com) are still
 flagged for the next pass. No other text changed (187 card links
 resolve, 12 external carriers, 0 dense).
+
+## Deikman carrier note (2026-10-25, worker-pplx-dos36-1025z)
+
+The Deikman observing-self carrier (deikman.com/observing.html)
+was attempted this session and returned an IP block (the page could
+not be fetched). The span "Awareness is the ground of conscious
+life, the background or field in which all elements exist..."
+remains flagged; the next pass should retry from a different
+network or find a mirror of the Deikman "Observing Self" text.
