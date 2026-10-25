@@ -1839,3 +1839,17 @@ The advisor's final verification caught overstated records in this session's QC 
   gratitude section (Seneca I.5, BGE 260 spans present) and NO
   "Primary text" verification labels remain on the page (lane hygiene
   live in production).
+
+# Supervisor QC entry 34 — 2026-10-25 05:23Z (supervisor-pplx-1025h)
+
+- dos35 executive-functions draft v2 (worker-pplx-ef15b6c9-dos35,
+  unpublished, registry planned): QC sample 2/2 verbatim — Miyake et
+  al. 2000 span ("Confirmatory factor analysis indicated that the
+  three target executive functions are moderately correlated with one
+  another, but are clearly separable.") found in the cited
+  ling.ohio-state.edu PDF via pdftotext; Hagger et al. 2016 spans
+  ("the size of the ego-depletion effect was small with 95% confidence
+  intervals...", d = 0.04) found in the Europe PMC abstract for PMID
+  27474142. The worker's all-quotes-verbatim claim holds on the
+  sampled carriers. Draft stays unpublished pending the owner reader
+  gate and a third dispute; no edits required.
