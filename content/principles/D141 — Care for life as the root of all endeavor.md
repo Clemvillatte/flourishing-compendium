@@ -22,17 +22,17 @@ Afterwards he wipes the knife and puts it away. The ruler hears a lesson in [[Ya
 > Excellent! I have heard the words of my cook, and learned from them the nourishment of (our) life.
 > (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The analogy makes care part of how work is done. Applying it to a modern workload requires judgment; this story establishes no clinical treatment or guarantee of longevity.
+There is also a harder question about the work itself. Chris Fraser asks whether the cook should be doing this task at all: skill at cutting up an ox does not settle whether it is fitting work ([Applied Emptiness in the Zhuangzi, manuscript pp. 23 and 24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)). I use the knife's care as an image for preserving the person doing the work, while keeping that further question open: what does the work cost other lives? This reading makes no promise of longevity.
 
 (Zhuangzi 3 §2.)
 
 ### Plain words
 
-Care for life can be practised in the way a task is done. A difficult point may call for slowing down or changing the method. In a modern workload, that can also mean making room for meals or asking for help while the work is still unfinished.
+Care for the lives affected by your work, including your own.
 
 ### For example
 
-Imagine an editor whose extra assignment would remove the lunch break every day. Try a smaller assignment for one week. This means accepting less work. Check whether that arrangement leaves room for meals and the agreed work; keep it if workable, or renegotiate.
+An editor considering an extra assignment could first check what would happen to meal breaks and existing promises. If there is room to negotiate, propose less work or a later deadline. Name the cost rather than promising the same output from a day that has no space left.
 
 ## Related concepts
 

@@ -107,3 +107,14 @@ Opened through search and fetch:
 Changes: gave the modern rest-planning extension a clear interpretive boundary, added scholarly context, and replaced the replicated Plain words section with one sentence. The musician illustration recognises some control over schedules and the work that must move or remain undone. All baseline links, front matter, opening statement and reflection remain intact.
 
 Supervisor flag: the preserved Psychology parallels block below D039's body includes a legacy claim about psychological detachment predicting next-day engagement and long-term health attributed to Sonnentag and Fritz (2007). That claim was not used in the repaired body and was not independently verified in this pass. It needs a separate legacy-parallels evidence audit; do not treat this body repair as verification of every linked-section claim.
+
+Follow-up evidence check on that flag: opened [Sonnentag and Fritz (2007), *The Recovery Experience Questionnaire*, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17638488/?dopt=Abstract). It describes development and validation of self-report measures, with moderate relations to job stressors and psychological well-being, and discusses future longitudinal/diary applications. This abstract does not establish the legacy sentence's particular next-day/long-term predictions. The full article was not opened, so the flag remains a request to locate appropriate evidence or narrow the legacy wording, not a claim that the broader recovery literature lacks such findings.
+
+## D141: Care for life as the root of all endeavor
+
+Opened through search and fetch:
+
+- [*Zhuangzi*, Legge translation, METIS edition, Inner Chapter 3 §§1–2](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf). Read the full opening and cook dialogue. Verified the narrative's nineteen-year knife, the complicated-joint quotation, wiping and sheathing the knife, and the ruler's exact closing words about nourishing life. These are details in a literary scene, not empirical reports of tool performance or longevity.
+- [Chris Fraser, “Heart-Fasting, Forgetting, and Using the Heart Like a Mirror,” author manuscript, pp. 23–24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf). Read his explicit ethical challenge: practical efficacy at cutting up an ox does not establish that it is a fitting task. The principle attributes this challenge to Fraser rather than claiming that the primary text explicitly condemns the cook.
+
+Changes: retained both primary quotations, added the ethical question that skill alone leaves open, and broadened the practical reflection to lives affected by work. Converted Plain words to one sentence. The editor example names tradeoffs and negotiation rather than promising unchanged output or a health benefit. Preserved opening statement, front matter, every original link and reflection.
