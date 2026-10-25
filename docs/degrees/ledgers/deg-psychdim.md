@@ -158,9 +158,18 @@ introduction to the study of the human mind, listing the range of topics
 love) and the questions the course addresses (why some people get
 depressed and others do not, whether childhood memories can be trusted,
 and others), plus course logistics (Peter Gray's Psychology textbook,
-Norton Reader, exams). This serves the M1 orientation row. Status for
-the chapter-1 segment: verified-video; the remaining segments are
-candidates until their transcripts are read.
+Norton Reader, exams). This serves the M1 orientation row. Chapter 3
+(00:13:08 to end) was then read in full as well: Bloom gives five
+examples of course topics, the brain (the Terri Schiavo case as a stark
+illustration of the physical nature of mental life), child development
+(how much knowledge is innate versus learned; continuity and whether
+the child is father to the man), what makes people different (genes,
+environment and their interaction; whether parents shape us),
+attraction (computer-generated faces and what makes a face attractive
+within and across cultures), and morality (good and evil). This is the
+substantive orientation content for the M1 row. Status for the
+chapter-1 and chapter-3 segments: verified-video; the remaining
+segments are candidates until their transcripts are read.
 
 Additional inspections (2026-10-25, batch 12): lecture 12 (Emotions, Part
 II, 56:06) had its chapter outline recorded (Emotional Responses to
