@@ -298,3 +298,38 @@ retains its one-line loglines as the format allows. Checker exit 0
 check 0 dense; 59 paragraphs, 2.0 card links per paragraph. Commits:
 b4abf67c, 84b9d123, 4c284076, 74d15032, f078cb97, 23b9621b,
 a596f761, a88f916d, b4aa9b4e (passes 1-9).
+
+## Disagreement section 1 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos16)
+
+Two questions added under "Where the traditions genuinely disagree".
+
+Q2, what is owed to someone who has done harm. The Analects 14.34 and
+Matthew 5.43-44 passages already in the dossier were moved from the
+"What one person owes another" subsection into this question, and
+Matthew 5.45 was added as the stated reason. All three re-opened this
+session: Legge's Analects 14.34 on the Chinese Text Project (fetched
+text matches), KJV Matthew 5 on biblehub (page text matches, checked by
+normalised substring). The comparison and lean are the author's and
+flagged as such; limit stated: English translations only.
+
+Q3, partiality toward kin. Sources opened this session: Mei's
+translation of Mozi Universal Love II (themozi.org ch15: "Mozi said: It
+is to regard the state of others as one's own, the houses of others as
+one's own, the persons of others as one's self.") and Universal Love III
+(ch16: the "Should I first love others' parents..." passage), both found
+by script; Legge's Mencius, Teng Wen Gong I (Yi Zhi's "love all without
+difference of degree; but the manifestation of love must begin with our
+parents" and Mencius' "one root ... two roots" reply, from the fetched
+page) and Teng Wen Gong II (the "Mo's principle is 'to love all
+equally,' which does not acknowledge the peculiar affection due to a
+father" sentence, read in the full fetched chapter). Not done: the
+Chinese was not read, and secondary scholarship on jian ai was seen only
+in search snippets, so it is not cited.
+
+Checks: dossier_check exit 0 (133 card links, 21 headers); density 0
+dense. dossier_quote_verify flags the Legge and KJV quotes as not found
+(PDF/nested-quote and apostrophe false positives; the same text was
+matched by hand against the fetched pages as above). Note for the
+supervisor: the Mozi translation site (themozi.org) reproduces Mei's
+translation sourced from the Chinese Text Project, which was
+unreachable for direct fetch of the Mozi chapters this session.

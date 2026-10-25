@@ -102,16 +102,6 @@ The welcome owed to the stranger who arrives, from Levinas and Derrida, is [hosp
 
 The command of Matthew 5.44 is [enemy-love](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy-love), and Śāntideva's teaching on forbearance, in which the adversary provides the occasion for patience, is [enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher).
 
-The Analects record the proposal and Confucius' rejection of it:
-
-> Some one said, "What do you say concerning the principle that injury should be recompensed with kindness?" The Master said, "With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness." ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
-
-The Gospel commands the other response:
-
-> "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
-
-Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. The two passages leave open whether they give incompatible answers to one question, what is owed, or answers to two different questions, what is owed and what may be given.
-
 The Gospel of Luke 23.34 saying is [Father, forgive them](https://clemvillatte.github.io/flourishing-compendium/#card=Father%2C%20forgive%20them). Miller's account of extending care beyond proximity is [cosmopolitan care](https://clemvillatte.github.io/flourishing-compendium/#card=Cosmopolitan%20care).
 
 De Beauvoir's conclusion that willing your own freedom commits you to the freedom of other people is [the liberation of others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20liberation%20of%20others), and the same ethics argued across The Ethics of Ambiguity, that a person's freedom cannot be fulfilled alone, is [the interdependence of freedoms](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interdependence%20of%20freedoms).
@@ -165,6 +155,42 @@ Cialdini's group answered with the opposite interpretation, tested in the paradi
 > "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))
 
 The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
+
+### What is owed to someone who has done harm?
+
+The shared question: when another person has injured you, what do you owe them in return? The Analects record the proposal and Confucius' rejection of it:
+
+> Some one said, "What do you say concerning the principle that injury should be recompensed with kindness?" The Master said, "With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness." ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
+
+The Gospel commands the other response, and gives its reason in the next verse:
+
+> "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
+
+> "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good," ([Matthew 5.45 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
+
+The two reasons differ in kind. Confucius argues from what kindness would mean if it were also the answer to injury: with nothing left to repay kindness with, the distinction that gives kindness its point is lost. Matthew argues from imitation of a giver whose benefit does not sort the evil from the good. I read the passages as answers to one question, since both say what a person owes after harm and both give a reason.
+
+My lean, which is mine and not a finding of either text, is that the sharpest difference is about desert: Confucius keeps the return tied to what the other person did, and Matthew cuts it loose. I cannot settle it from the verses alone, because the Analects line gives only a short saying and does not say what "justice" requires in a concrete case, and because I have read both in English translation, not in the original languages.
+
+### Is care for one's own people a limit on moral concern or a fault in it?
+
+The shared question: if every person's good counts, may you give more to your parents and kin than to strangers? The Mohist case for equal concern is stated in W. P. Mei's translation of Universal Love II:
+
+> "Mozi said: It is to regard the state of others as one's own, the houses of others as one's own, the persons of others as one's self." ([Mozi, Universal Love II, Mei translation](https://www.themozi.org/chapters/ch15.html))
+
+Universal Love III gives a reason that works through filial concern itself, as this passage on those who wish to be filial shows:
+
+> "Should I first love others' parents in order that they would love my parents in return, or should I first hate others' parents in order that they would love my parents in return? Of course I should first love others' parents in order that they would love my parents in return." ([Mozi, Universal Love III, Mei translation](https://www.themozi.org/chapters/ch16.html))
+
+Mencius is told of a Mohist, Yi Zhi, and Legge's translation records Yi's position, which already concedes something: "we are to love all without difference of degree; but the manifestation of love must begin with our parents." Mencius answers:
+
+> "Moreover, Heaven gives birth to creatures in such a way that they have one root, and Yi makes them to have two roots. This is the cause of his error." ([Mencius, Teng Wen Gong I, Legge translation](https://ctext.org/mengzi/teng-wen-gong-i))
+
+Later, in the passage on the doctrines that fill the age, he states the charge: "Mo's principle is 'to love all equally,' which does not acknowledge the peculiar affection due to a father." ([Mencius, Teng Wen Gong II, Legge translation](https://ctext.org/mengzi/teng-wen-gong-ii))
+
+The two sides are not fully facing each other. Mozi's reasoning in the quoted passage is about outcomes and reciprocity, and Mencius replies about where care comes from, with one root in the family. So the page cannot say that either has refuted the other.
+
+My lean is that Mencius's objection has most force against the idea that care can be moved outward by calculation, and that Mozi's has most force when partiality becomes license for harm, which his Universal Love I describes for thieves, ministers and feudal lords. The limits: both translators render the key term differently, Mei as universal love and Legge as loving all equally, and I did not check the Chinese, so what exactly jian ai demands (equal feeling or equal weight in action) is not something this page decides.
 
 ## Practice: variation, selection, retention
 
