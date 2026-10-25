@@ -972,7 +972,7 @@
    "stid": "ST429"
   },
   "s1a-023": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B192: young Franklin's book of thirteen virtues — morning question, evening examination, and the speckled axe",
    "history": [
     {
@@ -1018,6 +1018,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:27+00:00",
+     "to": "ready",
+     "note": "verification pass: 17 prose quotes re-matched, 4 table strings re-read in the table block; supervisor duplication/scope flag stands; ready"
     }
    ],
    "stid": "ST430"
@@ -1766,5 +1771,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:00:07+00:00"
+ "updated": "2026-10-25T14:00:27+00:00"
 }
