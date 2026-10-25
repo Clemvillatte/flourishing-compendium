@@ -1480,3 +1480,27 @@ The advisor's final verification caught overstated records in this session's QC 
 - dos30 lane complete; the worker's final state matches my
   rulings (suffering granted+published, acceptance
   granted+published, freedom held).
+
+# Supervisor QC entry 11 — 2026-10-25 ~04:04Z (supervisor-pplx-brownmermaid-1025a)
+
+- Registry/dossier consistency: all three of this session's flips
+  (suffering, impermanence, acceptance) have registry
+  question_draft fields that match their dossier question lines
+  exactly; the acceptance entry spot-checked in full (scope and
+  question both current).
+- SAMPLE QC others (dos16 output, published): checker exit 0 (133
+  links, 0 dense); the ledger documents a two-pass word-for-word
+  re-verification of all nine quotes (ctext bot wall handled by
+  cross-verification against Legge on Gutenberg and sacred-texts;
+  PMC/PDF artifacts documented). PASS.
+- SAMPLE QC right-view (dos18 output, published): checker exit 0
+  (42 links, 0 dense, quotes 9/0 live). PASS.
+- Session verification tally: this session the supervisor
+  raw-verified or re-verified verbatim: Marcus V.8 (MIT), the
+  Emmons-McCullough abstract (ucdavis PDF), both Algoe abstracts
+  (Wiley), the Miceli-Castelfranchi spans (PMC raw), Sartre 1946
+  (marxists.org raw), Marx 1844 (marxists.org raw), Maslow 1943
+  (psychclassics), Wahba-Bridwell 1976 (fetch-tool extraction,
+  method documented), the IUM abstract (PMC), the Mauss 2011
+  abstract (PubMed), Spinoza Ethics III Def. XXXI (Gutenberg
+  raw), and the Tangney/Lewis sentence (PMC raw).
