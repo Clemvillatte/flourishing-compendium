@@ -12,18 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 64** — Trust nothing more useful than other people
 
-The sentence is conditional. Ethics IV, Proposition 35, Corollary 1 reads: "There is no individual thing in nature, which is more useful to man, than a man who lives in obedience to reason." The proof turns on agreement of nature: what helps us most is what agrees with our nature, and people agree "in so far only" as they live by reason ([Ethics, Part IV, Elwes](https://monadnock.net/spinoza/ethics-4.html)). Corollary 2 adds that men are "most useful one to another" when each seeks "that which is useful to him", because self-preservation is what Spinoza counts as virtue (same text).
+Ethics IV, Proposition 35, Corollary 1 reads: "There is no individual thing in nature, which is more useful to man, than a man who lives in obedience to reason." The proof turns on agreement of nature: what helps most is what agrees with our nature, and people agree "in so far only" as they live by reason ([Ethics, Part IV, Elwes](https://monadnock.net/spinoza/ethics-4.html)). Corollary 2 adds that men are "most useful one to another" when each seeks "that which is useful to him", self-preservation being Spinoza's virtue (same text).
 
-The next scholium is less hopeful. In a quotation of Curley's translation, Spinoza writes that "it rarely happens that men live according to the guidance of reason", so they are "usually envious and burdensome to one another", yet "they can hardly, however, live a solitary life" ([Scandinavian Journal of Philosophy article](https://onlinelibrary.wiley.com/doi/10.1111/sjp.12603)). The Internet Encyclopedia of Philosophy likewise treats other humans as both a source of conflict, when driven by passions, and a main external good ([IEP, Spinoza on Free Will and Freedom](https://iep.utm.edu/spinoza-free-will-determinism/)).
+The next scholium is bleaker. In Curley's translation, "it rarely happens that men live according to the guidance of reason", so they are "usually envious and burdensome to one another", yet "they can hardly, however, live a solitary life" ([Scandinavian Journal of Philosophy article](https://onlinelibrary.wiley.com/doi/10.1111/sjp.12603)). The Internet Encyclopedia of Philosophy likewise treats other humans as both a source of conflict when driven by passions and a main external good ([IEP, Spinoza on Free Will and Freedom](https://iep.utm.edu/spinoza-free-will-determinism/)).
 
 (Ethics IV, P35 corollary; P35 scholium.)
 
 ### Scope
 
-The principle's title says "other people", but Spinoza's claim concerns people guided by reason. No disaster research was opened for this page, so the original entry's claim about disaster studies is not cited. The advice to treat conflict as damage to infrastructure is my own.
+The principle's title says "other people", but Spinoza's claim concerns people guided by reason. No disaster research was opened for this page, so the original entry's claim about disaster studies is not cited. The advice to treat conflict as damage to infrastructure does not come from Spinoza.
 
 **Plain words**
-Why point at people at all, when food, tools and medicine are at hand? Spinoza's answer is that a thing helps you insofar as it is like you, and another reasonable mind is the closest likeness there is. One catch: almost nobody manages it for long. So the same creatures who can be your greatest help spend most of their time being difficult, and you cannot simply do without them.
+Why point at people at all, when food, tools and medicine are at hand? Spinoza's answer: a thing helps you insofar as it is like you, and another reasonable mind is the closest likeness. One catch: almost nobody manages it for long. The same creatures who can be your greatest help spend most of their time being difficult, and you cannot do without them.
 
 **For example**
 List the three people who most help you think clearly. Plan something concrete with each of them this month.
