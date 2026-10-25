@@ -3329,3 +3329,15 @@ effect-size emphasis proposed, not anchor-established). Practice pilot
 mod-qg-3 remains DRAFT NOT CLEARED (QG-M03-01 YoQi VOD access ruling with
 the owner; replacement candidate S0ZqKo0KQvA needs verification-band
 completion). Phase 0 stop-gate still blocks module production.
+
+## Agent launch record (Path A, second launch by this launcher)
+
+- 2026-10-25 ~12:56Z (owner local ~10:56 PM AEDT): launcher-pplx (session
+  470f530d) launched a NEW worker agent via Path A of the Agent Launcher
+  Protocol, account email brittanylily2354+axysr@outlook.com (Perplexity
+  display name brittanyli73462, Free plan). Task URL:
+  https://www.perplexity.ai/computer/tasks/5e07f548-d745-40bf-b06f-c5d322bee570
+  Worker prompt: docs/enrichment/PROMPT-WORKER.md verbatim (8414 chars,
+  token filled; token never stored in the repo). Sign-in code authorized
+  by the owner. Launch took the standard batched browser flow; no
+  obstacles beyond one Cloudflare interstitial after code entry.
