@@ -5,7 +5,7 @@ type: "kernel"
 title: "Behavioral activation"
 file: "K174 — Behavioral activation"
 tags: ["applied-practice", "topic/action"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-BA"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
 > **Kernel K174** — Behavioral activation
@@ -37,6 +37,8 @@ A guided recording exists: Greater Manchester Mental Health NHS Foundation Trust
 
 - **and habit formation** — Lally et al., 2010
 - **structure effects**
+
+> **Therapeutic approach: BA**
 
 ## Operationalises
 

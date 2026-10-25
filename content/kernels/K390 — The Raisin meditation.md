@@ -45,6 +45,8 @@ What the sources do not test: the raisin exercise is an entry-point exercise ins
 
 Free guided audio of the raisin exercise is available from [Insight Timer](https://insighttimer.com/lynseywellington/guided-meditations/the-raisin-exwercise) and the book's own [franticworld.com free meditations](https://franticworld.com/free-meditations-from-mindfulness/).
 
+> **Therapeutic approach: MBCT, MBSR**
+
 ## Operationalises
 
 - [[B169 — Eat mindfully|B169 Eat mindfully]], [[P067 — My world is what I attend to|P067 My world is what I attend to]], [[D050 — Keep a mirror-mind|D050 Keep a mirror-mind]], [[B067 — Notice feeling tone first (vedana)|B067 Notice feeling tone first (vedana)]], [[K020 — Know by doing|K020 Know by doing]]

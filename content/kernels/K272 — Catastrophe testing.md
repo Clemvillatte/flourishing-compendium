@@ -5,7 +5,7 @@ type: "kernel"
 title: "Catastrophe testing"
 file: "K272 — Catastrophe testing"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K272** — Catastrophe testing
@@ -43,6 +43,8 @@ Beck's method, as summarized by the psychotherapist and Stoicism writer Donald R
 - [Robertson, D. (2024), "How to Stop Catastrophizing"](https://donaldrobertson.substack.com/p/how-to-stop-catastrophizing): verbatim Clark and Beck (2010) definition of decatastrophizing, Beck et al. method description, and the Stoic connections (premeditation, dichotomy of control, cognitive distancing).
 - [Wilson, T. D., & Gilbert, D. T., "Affective Forecasting"](https://greatergood.berkeley.edu/images/uploads/Wilson-Affective_Forecasting.pdf): verbatim definitions of impact bias and durability bias and the statement that impact bias is the most prevalent forecasting error.
 - Clark, D. A., & Beck, A. T. (2010), Cognitive Therapy of Anxiety Disorders, Guilford Press, and Beck et al. (2005), Anxiety Disorders and Phobias: A Cognitive Perspective: cited at second hand through Robertson's article.
+
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

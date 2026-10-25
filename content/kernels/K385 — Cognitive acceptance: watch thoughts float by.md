@@ -30,6 +30,8 @@ The kernel's logic has been tested against its great rival, suppression. In a co
 
 A classic guided version is the [Leaves on a Stream exercise from the ACT Toolkit](https://www.acttoolkit.com/), an eight-minute practice in which thoughts are placed on leaves and allowed to drift past.
 
+> **Therapeutic approach: CBT, ACT**
+
 ## Operationalises
 
 - [[B090 — Don't suppress — observe kindly|B090 Don't suppress: observe kindly]]

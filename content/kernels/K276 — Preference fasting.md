@@ -5,7 +5,7 @@ type: "kernel"
 title: "Preference fasting"
 file: "K276 — Preference fasting"
 tags: ["applied-practice", "topic/desire"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.04 — 4. Desire, Preference, and Voluntary Discomfort", "parent": ""}
 ---
 > **Kernel K276** — Preference fasting
@@ -42,6 +42,8 @@ This study recorded naturally occurring desires; it did not test abstention or w
 ### A guided version
 
 Not applicable: the practice is a week of abstention and notes, not a recording.
+
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Graded task assignment"
 file: "K175 — Graded task assignment"
 tags: ["applied-practice", "topic/action"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-BA"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
 > **Kernel K175** — Graded task assignment
@@ -29,6 +29,8 @@ The grading is your own task on your own paper; no guided recording is cited for
 Why the trivial first step matters: "We suggest that the reinforcing qualities of success and mastery over a given component will increase the likelihood of completing the other components" (same paper). The same idea appears in the clinical teaching text as successive approximation: "Breaking larger tasks into smaller tasks which are easy to accomplish," with "The tasks which are generally avoided by patient can be divided into graded tasks" ([Gautam et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7001356/)). The manual also warns that the step can always be cut smaller: "If the therapist and client determine that the component selected may be too challenging for the client, the task can be broken down further" (Jacobson et al., 2001).
 
 What the research does not cover: the trials test behavioral activation as a treatment package for depression, delivered with a therapist, homework review, and mood monitoring. The solo use on an ordinary daunting task, without the surrounding treatment, borrows the tool; the evidence belongs to the package.
+
+> **Therapeutic approach: BA, CBT**
 
 ## Operationalises
 

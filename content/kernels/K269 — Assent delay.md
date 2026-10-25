@@ -5,7 +5,7 @@ type: "kernel"
 title: "Assent delay"
 file: "K269 — Assent delay"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K269** — Assent delay
@@ -44,6 +44,8 @@ What this evidence does not test: the cited research studies laboratory stop-sig
 ### A guided version
 
 Not applicable: the practice is a pause inside a moment, not a recording.
+
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

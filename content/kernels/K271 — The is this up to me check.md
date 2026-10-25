@@ -5,7 +5,7 @@ type: "kernel"
 title: "The \"is this up to me?\" check"
 file: "K271 — The is this up to me check"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K271** — The "is this up to me?" check
@@ -41,6 +41,8 @@ The Enchiridion opens with the distinction itself: "Some things are in our contr
 
 - [Epictetus, Enchiridion, Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html): Chapter 1 verbatim, the dichotomy of control and the instruction to examine each appearance by it.
 - [Cheng, C., Cheung, S. F., Chio, J. H. M., & Chan, M. P. S. (2013), "Cultural meaning of perceived control: a meta-analysis of locus of control and psychological symptoms across 18 cultural regions", Psychological Bulletin 139(1)](https://pubmed.ncbi.nlm.nih.gov/22642229/): 152 samples, 33,224 adults; external locus of control correlates r = .30 with depression and anxiety symptoms, moderated by culture.
+
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

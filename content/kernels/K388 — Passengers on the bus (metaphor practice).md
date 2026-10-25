@@ -50,6 +50,8 @@ What the sources do not test: the metaphor is an experiential ACT exercise, not 
 
 Free audio guided exercises built on the metaphor are available from ACT practitioners; a written version is carried in Morris (2013) at the link above.
 
+> **Therapeutic approach: CBT, ACT**
+
 ## Operationalises
 
 - [[D055 — Don't force|D055 Don't force]]

@@ -28,6 +28,8 @@ The strongest single trial is the "9 Hunger" online RCT (Peitz & Warschburger, 2
 
 A free 12-minute guided raisin meditation from Palouse Mindfulness-Based Stress Reduction is available at [Raisin Meditation, Palouse Mindfulness](https://www.palousemindfulness.com/meditations/raisin.html).
 
+> **Therapeutic approach: MBCT, MBSR**
+
 ## Operationalises
 
 - [[B169 — Eat mindfully|B169 Eat mindfully]]

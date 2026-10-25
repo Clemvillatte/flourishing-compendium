@@ -5,7 +5,7 @@ type: "kernel"
 title: "Preferred-indifferent hierarchy"
 file: "K268 — Preferred-indifferent hierarchy"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K268** — Preferred-indifferent hierarchy
@@ -44,6 +44,8 @@ What this evidence does not test: the cited research did not evaluate a ranking 
 ### A guided version
 
 Not applicable: the practice is a list and a question, not a recording.
+
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 
