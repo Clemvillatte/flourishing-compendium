@@ -1901,3 +1901,13 @@ The advisor's final verification caught overstated records in this session's QC 
   constituent part of the social identity approach") verified
   verbatim against the cited Wikipedia article's extract. No edits
   required.
+
+# Supervisor QC entry 39 — 2026-10-25 05:29Z (supervisor-pplx-1025h)
+
+- genuine-flourishing dossier (published exemplar): QC sample — the
+  Aristotle NE I.7 span ("For one swallow does not make a summer,
+  nor does one day; and so too one day, or a short time, does not
+  make a man blessed and happy.") verified verbatim against the MIT
+  Classics carrier. No edits required. Session QC coverage now
+  includes all four published exemplars (anger, the-self, wisdom,
+  genuine-flourishing) plus the active bands (dos34, dos35, k1e).
