@@ -71,3 +71,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~05:23Z supervisor-pplx-1025h: QC sample k1e K408 PASS (Burns span verbatim); gratitude prose punctuation pass (14 lines).
 2026-10-25 ~05:21Z dos18: baton released — WIP draft + ledger + handoff pushed (final 3c7e52ab line); two primary-supported disagreements, third lacks primary affirmation; live dossier untouched; owner count-exception ruling outstanding.
 - 2026-10-25 ~05:27Z supervisor-pplx-1025h: QC sample wisdom dossier PASS (Aristotle NE VI.7 + Plato Apology verbatim); worker health check clean.
+- 2026-10-25 ~05:28Z supervisor-pplx-1025h: QC sample anger dossier PASS (Seneca De Ira verbatim modulo apostrophe encoding); gratitude checks green.

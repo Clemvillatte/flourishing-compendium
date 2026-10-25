@@ -1880,3 +1880,15 @@ The advisor's final verification caught overstated records in this session's QC 
 - Worker health at 05:25Z: dos34, dos35, k1e all FRESH and active;
   dos18 released with a durable handoff (WIP state, owner-exception
   dependency recorded); no dead workers.
+
+# Supervisor QC entry 37 — 2026-10-25 05:28Z (supervisor-pplx-1025h)
+
+- anger dossier (published exemplar): QC sample — the Seneca De Ira
+  II.3 span verified against the Gutenberg 64576 carrier: verbatim
+  except the carrier prints a curly apostrophe in "man's" where the
+  dossier uses a straight apostrophe (typographic encoding only, not
+  a wording difference; no edit required — the site renders both).
+- gratitude re-verification (pre-final pass): dossier_check OK (45
+  card links, 20 headers, 18 carriers), 0 dense, quote_verify 30
+  checked / 7 not found, all 7 misses ledger-documented (Wiley
+  paywalls, Kant PDF extraction mismatch, Trungpa PDF).
