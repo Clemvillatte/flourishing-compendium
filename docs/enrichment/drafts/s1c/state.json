@@ -428,6 +428,11 @@
      "t": "2026-10-21T12:28:51+00:00",
      "to": "published",
      "note": "supervisor verification: quotes verified verbatim against Gutenberg texts"
+    },
+    {
+     "t": "2026-10-25T15:12:21+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:12:21: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -663,6 +668,11 @@
      "t": "2026-10-21T12:35:31+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:12:21+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:12:21: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -893,6 +903,11 @@
      "t": "2026-10-21T12:46:51+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:12:21+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:12:21: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -1117,5 +1132,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:46:03+00:00"
+ "updated": "2026-10-25T15:12:21+00:00"
 }
