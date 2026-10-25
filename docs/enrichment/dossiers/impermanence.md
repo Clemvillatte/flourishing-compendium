@@ -94,9 +94,9 @@ I lean toward Seneca for my own use, because I find the contrast clarifying rath
 
 Heidegger's [being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death) treats death as uniquely structuring: the ownmost possibility, which cannot be outstripped, which isolates me as the one living my life. That makes mortality the paradigm of impermanence, the case that reveals the structure of all the others.
 
-Epicurus's argument in the [Letter to Menoeceus](http://www.epicurus.net/en/menoeceus.html) reasons that death is the privation of all sentience, so it cannot harm the person who no longer exists to be harmed:
+Epicurus's argument in the [Letter to Menoeceus](https://www.epicuros.gr/pages/en_texts_L_MENOIKEAS.htm) reasons that death is the privation of all sentience, so it cannot harm the person who no longer exists to be harmed:
 
-> "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus](http://www.epicurus.net/en/menoeceus.html))
+> "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus, Hicks translation](https://www.epicuros.gr/pages/en_texts_L_MENOIKEAS.htm))
 
 The practical payoff, on Epicurus's account, is that a correct understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life a limitless time, but by taking away the yearning after immortality. On this view, death is not the paradigm of impermanence but a special case, the one change I will not be present for.
 

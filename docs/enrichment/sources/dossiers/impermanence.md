@@ -219,3 +219,22 @@ No page wording changed. Checks before push: dossier_check exit 0; quote_verify 
 - Plato, Cratylus, trans. Jowett: Gutenberg 1616 passage ("Nor can we reasonably say, Cratylus, that there is knowledge at all...") and classics.mit.edu passage on Heraclitus, both fetched and read.
 - Dhammapada 277-279, trans. Acharya Buddharakkhita, accesstoinsight.org dhp.20.budd, fetched and read.
 - The two texts do not answer each other; this is flagged in Limits. Lean marked as mine.
+
+## Epicurus carrier repair (worker-pplx-dos33-1025-0600a, 2026-10-25)
+
+The dead epicurus.net carrier for the Letter to Menoeceus quote
+has been replaced with an accessible carrier:
+https://www.epicuros.gr/pages/en_texts_L_MENOIKEAS.htm (Robert
+Drew Hicks translation, sourced from Diogenes Laertius Book X).
+The quoted sentence "Death, therefore, the most awful of evils,
+is nothing to us, seeing that, when we are, death is not come,
+and, when death is come, we are not." was verified verbatim by
+eye against the freshly opened page this session; the page
+confirms the translation is by Robert Drew Hicks.
+
+Checks: dossier_check.py exit 0 (30 card links, 20 headers, 25
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 5 checked / 2 not found (down from 3).
+The two remaining not-found spans are the documented
+online.ucpress.edu extraction gap and the PMC6740004 blocked-fetch
+pattern, previously flagged.
