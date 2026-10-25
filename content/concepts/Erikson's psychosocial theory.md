@@ -15,6 +15,8 @@ Erikson's psychosocial theory is Erik Erikson's lifespan model of development: t
 
 The stages as the page renders them: trust vs. mistrust; autonomy vs. shame and doubt; initiative vs. guilt; industry vs. inferiority; identity vs. role confusion; intimacy vs. isolation; generativity vs. stagnation; ego integrity vs. despair.
 
+The eight stages share one structure: each pairs a capacity with what undoes it, and each is negotiated socially, as the opening definition has it. The structure runs from trust versus mistrust in infancy to ego integrity versus despair in old age, and the model treats the lifespan as one project that changes its terms at each stage.
+
 ### Identity theory Erikson
 
 The fifth stage is adolescence. The focus is on discovering "Who am I?", and success there brings the virtue of fidelity.
