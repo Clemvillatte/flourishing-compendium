@@ -1338,12 +1338,12 @@
  },
  "K284": {
   "mods": [
-   "Stoic"
+   "general"
   ],
   "evidence": [
    [
-    "card body: \"The Stoic ground is quoted above\" (Stoic role-ethics practice)",
-    "Stoic"
+    "ADVISOR CORRECTION: card grounds in BOTH Stoic (Epictetus) and Confucian (Analects 12.11) traditions; Stoic-only filing didn't follow the single-attribution rule; multi-modal -> general per \"no clear modality, mark general\"",
+    "general"
    ]
   ]
  },

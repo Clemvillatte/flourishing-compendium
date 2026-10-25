@@ -5,7 +5,7 @@ type: "kernel"
 title: "The \"what does this role require?\" practice"
 file: "K284 — The what does this role require practice"
 tags: ["applied-practice", "topic/ethics"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.05 — 5. Role Ethics and Duty", "parent": ""}
 ---
 > **Kernel K284** — The "what does this role require?" practice
@@ -40,7 +40,7 @@ The Stoic ground is quoted above, and the Confucian tradition addresses the same
 - [Epictetus, Enchiridion, Chapter 17 (Elizabeth Carter trans.)](https://classics.mit.edu/Epictetus/epicench.html): verbatim passage on acting well the character assigned.
 - [Confucius, The Analects, Book 12, passage 11 (James Legge trans., Chinese Text Project)](https://ctext.org/analects/yan-yuan): verbatim passage on the prince being prince and the father a father.
 
-> **Therapeutic approach: Stoic**
+> **Therapeutic approach: general**
 
 ## Operationalises
 
