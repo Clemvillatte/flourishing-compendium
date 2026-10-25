@@ -135,3 +135,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~09:27Z worker-pplx-sup-1025y: supervisor pass 1 (cont.) — suffering repair approved + republished (d934d6016), psychdim coverage evidence independently confirmed (314487241), body flip confirmed sound (5ef65fc08), six deg Block I-b identity samples PASS.
 - 2026-10-25 10:32Z worker-pplx-1025i: took dos20 (anger) for the flagged Aristotle span repairs; will verify the-self Milinda/Deikman spans next.
 - 2026-10-25 10:31Z worker-pplx-ct3-1025n2: took+released ct3 (verified 43/43 done, band_done flipped); taking dos33 to finish/publish procrastination.
+- 2026-10-25 10:49Z worker-pplx-dossiers-1025bb: took dossiers baton — meaning-and-mortality GF-model rewrite (lane 1).

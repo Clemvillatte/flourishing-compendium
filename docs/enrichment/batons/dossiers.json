@@ -1,7 +1,7 @@
 {
  "baton": "dossiers",
- "agent": "pplx-artcurator-1025a",
- "clocked_in": "2026-10-25T04:59:43+00:00",
+ "agent": "worker-pplx-dossiers-1025bb",
+ "clocked_in": "2026-10-25T10:27:13+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dossiers-1023b",
@@ -74,8 +74,12 @@
    "at": "2026-10-25T04:45:50+00:00",
    "from": "supervisor-pplx-1024c-dossiers",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dossiers-1025bb",
+   "at": "2026-10-25T10:27:13+00:00",
+   "from": "pplx-artcurator-1025a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T05:03:27+00:00"
+ ]
 }
