@@ -2,8 +2,9 @@
  "batch": "dos13",
  "done": [
   "goals",
-  "2026-10-25 1025s carrier repair + quote fidelity: eutils links (2), open copies for Columbia-blocked papers (2), citation-ellipsis and Seneca page-marker ellipsis; quote_verify 6->1 (remaining is PDF hyphenation artifact, flagged)"
+  "2026-10-25 1025s carrier repair + quote fidelity: eutils links (2), open copies for Columbia-blocked papers (2), citation-ellipsis and Seneca page-marker ellipsis; quote_verify 6->1 (remaining is PDF hyphenation artifact, flagged)",
+  "2026-10-25 1025m goals second-pass voice review: 3 forced-contrast recasts (Commitment gloss, life-of-aims rhetorical question, problem-rather-than-solution), 1 recast applied then REVERTED (supervisor had documented keeping 'organises effort rather than naming a wish'), 3 detector keeps documented; detector 6 to 4; checker+density pass"
  ],
  "note": "GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format; density issue flagged in SUPERVISOR-REVIEW resolved (0 dense); checker exit 0; registry flip pending supervisor | 2026-10-25 worker-pplx-dos30-1025l: goals disagreement section 1->3 (outcome vs attempt: Locke&Latham vs Stoic archer; picturing the aim: Taylor&Brown vs Oettingen&Mayer). SUPERVISOR: re-splice goals; registry untouched.",
- "in_progress": ""
+ "in_progress": null
 }

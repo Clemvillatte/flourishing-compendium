@@ -667,3 +667,74 @@ are card-catalogue by sentence structure, which the v2 format's
 exhaustive-map requirement partly mandates; whether the owner wants
 those sections re-prosed beyond the format is not settled by this
 review.
+
+## Reader-level voice review (2026-10-25, worker-pplx-dos13-1025m)
+
+Complete reader-level review per VOICE-AUDIT.md, one of the two
+remaining dossiers from the 2026-10-24 programme (zero matches in the
+persisted inventory did not certify natural prose). The dossier was
+read in full at reader level; the detector was re-run on the current
+file (6 flagged lines before this review, 4 after the revert below). No quotes were
+changed; every edit preserves the facts, qualifications and links.
+
+RECAST (3, plus 1 applied then reverted — see the correction below):
+- Nearby terms, Commitment: "a condition for difficult goals to work
+  rather than a feeling in its own right" → "the condition that lets
+  difficult goals work". The contrast with feelings was the writer's
+  addition; the Locke & Latham source supports commitment as a
+  condition for difficult goals to work, and says nothing about
+  feelings.
+- "What happens when the unit is not one aim but a life of aims?" →
+  "The theories above take one aim at a time. The unit can also be a
+  life of aims." Rhetorical not-X-but-Y question recast as direct
+  statement.
+- "staying the course can be the problem rather than the solution" →
+  "staying the course can itself be the failure". Forced contrast
+  recast; the closing "which raises the question of when leaving is
+  the better skill" kept.
+
+REVERTED (1): "Read together, these theories treat the aim as an
+instrument: chosen well, it organises effort rather than naming a
+wish" — I first recast this line, then found the supervisor's
+reader-level review of 2026-10-25 (entry above) had explicitly KEPT it
+with the documented reason that the construction "carries the
+theories' substantive claim, not a rhetorical flourish". A worker must
+not override a documented supervisor disposition, so the line is
+restored verbatim. The keep stands; if the owner wants it revisited,
+that is a supervisor decision.
+
+Note on scope: this session's review is a second pass over the
+detector-flagged lines (the detector currently flags 6 on goals; the
+supervisor's review recorded zero after its recasts, so the pattern
+set has likely been extended since). It does not re-open the
+supervisor's four recasts, five keeps, or the advisor-QC corrections —
+those all stand.
+
+KEPT with reasons (3, all still flagged by the detector):
+- Line 11, Intrinsic motivation: "for its inherent satisfactions
+  rather than for some separable consequence" is Ryan and Deci's own
+  definitional contrast, carried as the source's wording.
+- Line 25, Achievement motivation: "meeting a standard rather than in
+  the aim's content" is the McClelland/Atkinson theory's own
+  distinction (the motive attaches to the standard of excellence).
+- Line 137, Deliberate practice item: "repeat there rather than where
+  you already succeed" is an instructional contrast in a practice
+  instruction, not a rhetorical scaffold.
+
+Reader-level notes on the rest of the dossier: the opening's
+characterisation ("unusually practical") is earned by the enumeration
+that follows; the first-person leans in the disagreement sections are
+marked as the writer's own with stated scope limits (abstracts read,
+full articles not); the Nearby terms carry real sources with the
+Frankl boundary marked as the writer's convention; quotation density
+is reasonable and attributed. No decorative metaphors beyond the
+recast "instrument"; no link underlining; no generic
+traditions-agree claims (the classical material is scoped to Stoic
+teaching and named sources).
+
+Post-review checks: dossier_check.py exit 0 (52 card links, 19
+headers, 23 carriers); dossier_density.py 0 dense; voice audit
+detector 6 → 4 flagged lines after the revert (the three keeps below,
+plus the supervisor-kept "organises effort" line). Registry untouched (goals is published;
+a rebuild is only needed if the supervisor wants the recasts live on
+the served site — the dossier file is the source of record).
