@@ -25,7 +25,7 @@ Right giving is specified: the liberal man "will give to the right people, and t
 The measure is the giver's means, not the gift's size: "the liberal man is one who spends in proportion to his means as well as on the right objects; while he that exceeds his means is prodigal," and "to waste one's substance seems to be in a way to ruin oneself, inasmuch as wealth is the means of life." ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4))
 
 **Plain words**
-Generosity sounds like a matter of size, and Aristotle quietly relocates it to a matter of fit. The same cheque that is a trifle from one hand is a catastrophe from another, and the virtue is measured against the giver's purse rather than the recipient's applause. The miser fails by holding, the wastrel by scattering, but the wastrel is the subtler failure, since giving badly still feels like virtue while it drains the estate. A gift lands well when its amount, its recipient, its hour and its motive all line up.
+Generosity sounds like a matter of size, and Aristotle relocates it to fit. The same cheque that is a trifle from one hand is a catastrophe from another, and the virtue is measured against the giver's purse, not the recipient's applause. The miser fails by holding, the wastrel by scattering, but the wastrel is the subtler failure, since giving badly still feels like virtue while it drains the estate. A gift lands well when amount, recipient, hour and motive all line up.
 
 *For example:* compare a regular donation with a gift that would leave rent unpaid. Consider the recipient, amount, timing, motive and your available resources.
 
