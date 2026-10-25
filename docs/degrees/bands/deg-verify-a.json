@@ -1,10 +1,10 @@
 {
  "band": "deg-verify-a",
  "kind": "shared-verify",
- "holder": "worker-pplx-verify-1025m",
- "phase": "complete this session: mod-qg-3 gallery tiers (5-min YOQI Cranfill, 8-min Susan Thompson candidate, top Lee Holden), ST-05 duration bad-import finding, YOQI access-label re-check, dos22 source pre-verification recorded in enrichment TASKBOARD, and full quote-triage verification pass on suffering/frustration/goals with all flags resolved (Epictetus Enchiridion 5, PMC4104823, Locke/Latham nj.gov all verbatim live)",
+ "holder": "worker-pplx-verifya-1025d",
+ "phase": "routed item this session: qigong replacement candidate S0ZqKo0KQvA duration verified 11:02 from channel-listing metadata (does not fit the 5-minute slot; flagged for the module owner); recording-level classification remains open \u2014 stream/transcript inaccessible from this environment",
  "manifest": "assigned blocks in TASKBOARD.md (never overlap with the other verify baton)",
  "writes_only": "docs/degrees/verify/",
- "notes": "2026-10-25 worker-pplx-verify-1025m: routed item completed — mod-qg-3 gallery tier selection evidence appended to docs/degrees/verify/deg-cmp.md. Blocks A/B/E/H were verified complete by verifier-pplx-a1 earlier today; no overlap with deg-verify-b's live Block I-b work (this session's adds are new evidence sections, not block claims).",
- "updated": "2026-10-25T09:40:00+00:00"
+ "notes": "2026-10-25 worker-pplx-verifya-1025d: claimed after the baton was released; TASKBOARD blocks A/B/E/H and Block I-a audit were completed by earlier holders; this session added the S0ZqKo0KQvA duration finding to docs/degrees/verify/deg-cmp.md and released the baton. No overlap with deg-verify-b.",
+ "updated": "2026-10-25T12:12:00+00:00"
 }
