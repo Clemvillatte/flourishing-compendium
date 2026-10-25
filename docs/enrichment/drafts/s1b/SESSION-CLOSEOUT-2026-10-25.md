@@ -51,3 +51,8 @@ thirteen-week rotation. Same source narrative, distinct principle targets — th
 s1a-042 vs ST065 "distinct angle" pattern. The child's qc_pending hold is the
 right call; ruling belongs to the supervisor (publish, or fold into ST430 as an
 upgrade with the A108/A042 wiring).
+
+## s1e mechanical check (2026-10-25)
+All six child items (s1e-003/004/005/006/007/008) pass story_check --context
+draft with 0 errors, combined with the earlier span verification. Registration-
+ready pending supervisor action.
