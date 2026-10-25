@@ -790,9 +790,10 @@ standard.
   channel (https://www.youtube.com/watch?v=j4OwoS6Stg0); watch page
   opened 2026-10-25.
 - Duration: 1:30:55 (watch page, 2026-10-25).
-- Instructor credentials: Nicholas A. Christakis, MD, PhD, MPH, social
-  scientist and physician at Yale University (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Nicholas A. Christakis, MD, PhD, MPH, Sterling
+  Professor of Social and Natural Science, Yale School of Medicine (Yale
+  Medicine profile opened 2026-10-25,
+  https://medicine.yale.edu/profile/nicholas_christakis/).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25):
   interventions involving offline and online social networks —
