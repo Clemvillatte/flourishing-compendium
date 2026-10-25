@@ -22,12 +22,12 @@ The review's central claim is that labelling works as regulation even when it do
 
 The noticing side comes from the meta-awareness account already opened in this compendium: "meta-awareness directly aids in the identification of mind-wandering lapses, and the subsequent re-engagement of the primary task" ([Schooler et al. 2011](https://metalab.psych.ucsb.edu/sites/default/files/2025-12/perceptual-decoupling.pdf)).
 
-Scope: the labelling studies measured affective states and evocative stimuli. My application extends the same practice to attentional states, labelling a caught state ("focused", "distracted", "wandering") as the note-taking step that Schooler's account treats as the operative event.
+Scope: the labelling studies measured affective states and evocative stimuli. The page's application extends the same practice to attentional states, labelling a caught state ("focused", "distracted", "wandering") as the note-taking step that Schooler's account treats as the operative event.
 
 (Torre and Lieberman, Emotion Review, 2018; Schooler et al., Trends in Cognitive Sciences, 2011.)
 
 **Plain words**
-The finding: naming an emotional state in words attenuates the experience, and the naming works without any intent to regulate. The studies measured affect; the extension of the practice to attentional states is my application. Name the state you catch, then decide what to do.
+The finding: naming an emotional state in words attenuates the experience, and the naming works without any intent to regulate. The studies measured affect; the extension of the practice to attentional states is the page's application. Name the state you catch, then decide what to do.
 
 *For example:*
 While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.

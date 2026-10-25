@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 46** — See the particular
 
-[[T002 — Aristotle|Aristotle]] says prudence must take account of particular facts because action concerns particular things. ([Nicomachean Ethics VI.7, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) I turn this into an exercise in noticing concrete features of a situation.
+[[T002 — Aristotle|Aristotle]] says prudence must take account of particular facts because action concerns particular things. ([Nicomachean Ethics VI.7, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The page turns this into an exercise in noticing concrete features of a situation.
 
 (NE VI.7, VI.11.)
 
@@ -21,7 +21,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 The discussion of practical reasoning ends in perception: "hence we must have perception of particulars, and this immediate perception is Intelligence." ([NE VI.11, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Aristotle also writes that "that eye of the soul of which we spoke cannot acquire the quality of Prudence without possessing Virtue." ([NE VI.12, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
 **Plain words**
-Knowledge of general principles is not sufficient on its own in this account. ([NE VI.7, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, list concrete details that a general rule might leave unspecified.
+The general rule runs out at the edge of the case; prudence, Aristotle says, needs perception of particulars, and he ends the discussion by calling that immediate perception intelligence. ([NE VI.7, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The exercise: before acting, list what is actually in front of you that the rule does not mention.
 
 *For example:* Before responding to a nervous new hire, list the details that might matter when deciding between praise and a specific correction.
 

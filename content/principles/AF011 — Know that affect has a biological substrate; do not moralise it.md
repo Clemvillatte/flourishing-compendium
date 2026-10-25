@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 11** — Know that affect has a biological substrate; do not moralise it
 
-In a study of healthy adults aged 18–30, Yoo and colleagues compared responses to negative pictures in sleep-deprived and sleep-control groups. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) I use this finding as a prompt to consider recent sleep when reflecting on emotional reactions, without assuming that sleep explains a persistent mood change.
+In a study of healthy adults aged 18–30, Yoo and colleagues compared responses to negative pictures in sleep-deprived and sleep-control groups. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) The page uses this finding as a prompt to consider recent sleep when reflecting on emotional reactions, without assuming that sleep explains a persistent mood change.
 
 (Yoo et al., 2007, Current Biology 17(20); Craig, 2009; Koob & Le Moal, 2008.)
 
@@ -21,7 +21,7 @@ In a study of healthy adults aged 18–30, Yoo and colleagues compared responses
 The study's authors summarise the finding: "Taken together, these data suggest an amplified, hyper-limbic response by the human amygdala to negative emotional stimuli under conditions of sleep deprivation." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) They add that "It therefore seems that a night of sleep may 'reset' the correct brain reactivity to next-day emotional challenges by maintaining functional integrity of this MPFC-amygdala circuit, and thus govern appropriate behavioral repertoires." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf))
 
 **Plain words**
-The reported 60% difference concerns amygdala activation to negative pictures in this study. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) For reflection, note how rested you were without treating that observation as a diagnosis.
+One night without sleep made the amygdala about 60% more reactive to negative pictures in this study — a body-state finding, not a character finding. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) The reflection it prompts: when an emotional reaction seems out of scale, one cheap question is how the sleeping went. It is a prompt, not a diagnosis.
 
 *For example:* A feeling that resists interpretation may be worth describing alongside the body's recent state, without assuming the body explains it.
 
