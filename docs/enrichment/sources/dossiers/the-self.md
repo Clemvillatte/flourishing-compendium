@@ -455,18 +455,27 @@ browser or against a static mirror of the Rhys Davids translation.
    on account of its having all these things—the pole, and the axle,
    the wheels, and the framework, the ropes, the yoke, the spokes, and
    the goad—that it comes under the generally understood term, the
-   designation in common use, of 'chariot.'" No change needed; flag
-   cleared.
-2. Deikman observing-self span: VERIFIED VERBATIM against the Wayback
-   capture (web.archive.org/web/20261005074233/http://www.deikman.com/
-   observing.html, "Observing Self: Mysticism and Psychotherapy").
-   The sentence matches exactly. REPAIR: the dossier's carrier link
-   switched from the dead live page (deikman.com returns "Account
-   Suspended") to the Wayback capture, matching the ledger's existing
-   carrier-limitation note. Flag cleared.
+   designation in common use, of 'chariot.'" Normalization noted: the
+   page prints double curly quotes around the word (of "chariot.")
+   where the dossier uses single curly quotes ('chariot.') — a
+   single-for-double quotation-mark substitution, same documented class
+   as the CT3 CNVC repair (supervisor-pplx-18731e82, 2026-10-23); no
+   words differ. No change needed; flag cleared.
+2. Deikman observing-self span: VERIFIED by RAW-TEXT MATCH against the
+   Wayback capture (web.archive.org/web/20261005074233/http://
+   www.deikman.com/observing.html, "Observing Self: Mysticism and
+   Psychotherapy"). The sentence "Awareness is the ground of conscious
+   life, the background or field in which all elements exist,
+   different from thoughts, sensations, or images." is an exact
+   substring of the archived HTML's text (curl fetch + tag-stripped
+   substring check; not prompted extraction). REPAIR: the dossier's
+   carrier link switched from the dead live page (deikman.com returns
+   "Account Suspended") to the Wayback capture, matching the ledger's
+   existing carrier-limitation note. Flag cleared.
 Both environment-blocks (JS-required suttacentral, IP-blocked
 deikman.com) were bypassed with the cloud browser and the archive
 respectively. dossier_check re-run after the link change: exit 0.
+D
 
 ## Worker addendum (2026-10-25 ~11:05Z, worker-pplx-1025i, dos20 — same verification, independently repeated)
 
@@ -492,3 +501,11 @@ quote_verify 14 checked / 2 not found (mil3.1.1 and PMC3635495 — both
 documented fetch-blocked exceptions above, both browser-verified);
 density 0; app.js rebuilt via --rebuild=the-self, node --check OK.
 (the-self: Milinda + Deikman carrier flags cleared by browser verification — chariot passage and both observing-self spans verbatim; dead deikman.com link repointed to verified Wayback snapshot; PMC Hayes span live-verified; app.js rebuilt)
+
+FOLLOW-THROUGH NOTE (supervisor launcher-pplx-1025n, post-merge): the
+rebuild in my original commit was computed before the dos20 worker's
+second-span carrier change reached my checkout; app.js was rebuilt
+AGAIN from the merged markdown during conflict resolution so the
+compiled data carries both span fixes (first and second Deikman
+links) plus the Hume verbatim fix and the Nearby-terms sync.
+

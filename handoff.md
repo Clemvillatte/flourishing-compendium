@@ -7,20 +7,25 @@ proposals queue CLEAN (only the guarded thinker-schema t1a/t1d/t1f files hold
 records — supervisor-applied in bounded selections only, never an unrestricted
 enrich_apply). Two fresh workers launched this hour (ba5d9385 jensenakyb16,
 c36d0acc cherylwals2079) plus deg-psychdim live (worker-pplx-psychdim-2) and dos34
-leisure live. Registry: 37 published, 3 planned. OPEN WORK, in priority order:
+leisure live. Registry: 38 published, 3 planned (procrastination, leisure,
+executive-functions). OPEN WORK, in priority order:
 (1) meaning-and-mortality GF-model rewrite — the last of the original four, file
-exists but unregistered, raw material meaning-and-mortality.md (note:
-dossiers/HANDOFF.md's impermanence-replaces-it line is superseded by the 09:35Z
-session short list; the rewrite is owed either way — register it as its own slug
-or fold into impermanence per DOSSIER-MODEL, but the GF rewrite comes first);
+exists but unregistered, raw material meaning-and-mortality.md. OWNER QUESTION
+(open, not ruled): dossiers/HANDOFF.md's scope line says impermanence replaces a
+standalone meaning-and-mortality dossier, while the 09:35Z session short list
+still names the meaning-and-mortality GF rewrite as owed — take a ruling from
+the owner or the next supervisor before registering a new slug; the GF rewrite
+of the material is owed either way;
 (2) procrastination 3-5-bar repair (1 substantiated dispute, needs 2+ more — lane
 open, dos33); (3) executive-functions dossier work (planned, lane open);
 (4) anger, freedom, the-self old-map GF conversions (supervisor/dossiers band, not
 DOS bands — the-self already carries 3 substantiated disputes from the 1025e
 pass, its conversion is a restructure not a research job); (5) leisure flip —
 HELD by the live dos34 worker pending the owner's Monet art ruling, do not touch;
-(6) verification-pass flags: Deikman/Milinda span-definitions, dos20 anger
-span-definition, M01-D05 dead-link replace-import candidate. The creative-prompts
+(6) verification-pass flags: dos20 anger span-definition now owned by a live
+worker (supervisor-pplx-1025i); Deikman/Milinda the-self spans and M01-D05
+RESOLVED this session (see QC log entries; M01-D05 flag withdrawn as a
+notes-typo false positive). The creative-prompts
 scale-up (~60) still waits on the OWNER reading the 12 shipped prompts. Workers:
 take ONE lane each, claim by baton clock-in, follow dossiers/HANDOFF.md +
 DOSSIER-MODEL.md + HUMANIZER-SKILL.md; publish-then-review applies.

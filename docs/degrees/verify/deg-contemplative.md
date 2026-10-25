@@ -1415,8 +1415,11 @@ fcAcademyData record carries youtube_id u2PT1hIjp8g (NOT the
 u2PT1hIjp8U transcribed in the deg-verify-b notes above); the oembed
 for u2PT1hIjp8g returns 200 with title "Lectures to Blow Your Mind
 with Dr. Alan Fox: Daoism Part 1- Being versus Becoming", author
-Alan Fox, channel @weiwuwei07 — the video is available and the record
-identity (title/presenter/channel) is confirmed against the live
-oembed. No replacement import needed; no site change made. Lesson
+Alan Fox, channel @weiwuwei07 — the video is available and the live
+record's title matches it. Scope of this check: metadata identity
+only (title and channel via oembed); playback, duration, speaker
+credentials and content coverage were NOT re-verified this pass and
+rest on the earlier import verification. No replacement import
+needed; no site change made. Lesson
 recorded for verify passes: re-read the ID from the record, not from
 notes, before declaring a dead link.
