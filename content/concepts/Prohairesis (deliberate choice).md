@@ -9,9 +9,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Prohairesis is [[T002 — Aristotle|Aristotle]]'s reasoned choice or decision, which Kahn explains as joining desire for a goal with deliberation about action ([Discovering Will, pp. 239–240](https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?docId=ft029002rv&doc.view=content&chunk.id=d0e12594&toc.depth=1&anchor.id=0&brand=eschol)). Aristotle distinguishes it from appetite, opinion and the broader category of voluntary action ([Nicomachean Ethics III.2](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
-> "choice will be deliberate desire of things in our own power" (NE III.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html); excerpt).
+> "The same thing is deliberated upon and is chosen, except that the object of choice is already determinate, since it is that which has been decided upon as a result of deliberation that is the object of choice. For every one ceases to inquire how he is to act when he has brought the moving principle back to himself and to the ruling part of himself; for this is what chooses." (NE III.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-His health example separates wishing to be healthy from choosing acts directed toward health; the wish and the choice have different objects ([NE III.2](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). Deliberation reaches a point where the object is settled and desired, rather than remaining an endless search ([NE III.3](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+> "The object of choice being one of the things in our own power which is desired after deliberation, choice will be deliberate desire of things in our own power; for when we have decided as a result of deliberation, we desire in accordance with our deliberation." (NE III.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+
+> "Again, wish relates rather to the end, choice to the means; for instance, we wish to be healthy, but we choose the acts which will make us healthy, and we wish to be happy and say we do, but we cannot well say we choose to be so; for, in general, choice seems to relate to the things that are in our own power." (NE III.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+
+His health example separates wishing to be healthy from choosing acts directed toward health; the wish and the choice have different objects ([NE III.2](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). Deliberation reaches a point where the object is settled and desired, rather than remaining an endless search ([NE III.3](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The structure Aristotle marks is that a wish names a state of the world and a choice names something a person can do about it, which is why the two can both be held and still differ in what they commit a person to.
+
+The stopping condition is the part that makes the concept workable. A person who has not brought the moving principle back to themselves is still inquiring, and the inquiry is not a failure of decisiveness but a sign that the deliberation has not yet reached its object. A choice that names what a person will do next has a different relation to the future than a wish about how the future will be, since the choice carries the doing and the wish carries only the hoping.
 
 ## Related concepts
 
