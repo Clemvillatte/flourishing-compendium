@@ -3,6 +3,6 @@
  "kind": "shared",
  "holder": "worker-pplx-integrate-1",
  "phase": "schema-migration-shipped-and-live-verified",
- "notes": "Owner-directive schema migration done and pushed (schemaVersion 2, degree-vs-practicum kind, legacy flag, Academy presentation: practica first, divider, seven new degrees with empty module lists, psych-101 bridge card to the Psychology Lab, legacy view behind the footer anchor; practicum content untouched, verified against the pinned migration revision by scripts/tests/test_academy_migration.py split into CI-safe schema invariants plus a one-time audit). Pages deploy failures diagnosed (first test version probed git history in a shallow clone) and fixed in ffb9a45a3. Live cache-busted verification done 2026-10-25 08:38 UTC (deploy efa18ed3d green; asset serves schemaVersion 2). routes.qa.cjs stale tab expectation corrected (pre-existing failure on origin/main; flagged to strategist). Next: splice module data for the seven new degrees as their owners deliver integration-ready patches; then per-degree technical-integration gates.",
- "updated": "2026-10-25T08:38:30+00:00"
+ "notes": "Session wrap 2026-10-25 08:56 UTC. Owner-directive schema migration shipped, live-verified and documented (see INTEGRATION.md and the QC log). Live site serving schemaVersion 2 (deploy runs green). Baton released for the next integrator. Next: splice module data for the seven new degrees as their owners deliver patches that clear their gates; then per-degree technical-integration gates.",
+ "updated": "2026-10-25T08:56:00+00:00"
 }
