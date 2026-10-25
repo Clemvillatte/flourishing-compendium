@@ -1110,7 +1110,23 @@ attach them with evidence on file.
   drawing on Isaiah Berlin's definitions of the two intellectual ages and arguing
   their relevance for society today.
 - Relevant segment: whole lecture, 1:28:23.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:04:54Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=8wbcszqoDPs&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; the introduction identifies David Mikics as the speaker,
+  though his name is garbled in places in the transcript) confirms the
+  lecture's substance: the contrast between Enlightenment and
+  Romanticism; Emerson and Nietzsche on happiness, freedom, fate,
+  passion, value creation and the risks of unchecked romantic impulses;
+  a focus on Emerson's essay "Fate" and Nietzsche's writings including
+  The Gay Science; the tension between disruptive exceptions and shared
+  morality (Yale University, Franke Lectures in the Humanities). The
+  coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per the
+  house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### SRC-M10-010: Why God and Nature Are One, Spinoza's Theory of Love Lecture 1 (Noa Lahav Ayalon, Ergo)
 
@@ -1194,7 +1210,21 @@ attach them with evidence on file.
   differences between modern and classical Stoicism, and its use in self-help,
   coaching and therapy.
 - Relevant segment: whole lecture, 1:27:35.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT clearly name the speaker (garbled as "Miko Ba"/"Mika"), so Buis's identity still rests on the host description — see the note below.
+  COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the 15:04:54Z save): the
+  third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=yahceTYdcJI&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's TOPIC: ancient and modern Stoicism,
+  how they differ and how to apply Stoic ideas in life; Stoic ideas about
+  desire, emotion, judgment, virtue and living in harmony with human and
+  cosmic nature; practical exercises and audience questions (Studium
+  Generale, Erasmus). CAVEAT: the retrieved text does not clearly name
+  Michiel Buis (the name appears garbled as "Miko Ba" and "Mika"), so
+  the speaker-identity basis is unchanged (host description); the status
+  therefore remains verified-partial rather than upgraded, with the
+  no-timestamps and no-playback caveats carried.
 
 ### SRC-M20-C01: Spinoza, Ethics, The Nature of Reality and the Relation of Mind and Body (John Russon)
 
