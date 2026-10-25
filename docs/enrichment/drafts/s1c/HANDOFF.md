@@ -69,3 +69,10 @@ Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. 
 - s1c-039: no new teller-level action — two independent verifications and the ST430 overlap
   analysis already stand in the draft's QC notes; supervisor disposition requested (reject or
   retell with genuinely different narrative material). Third pass adds nothing.
+
+ROUTE for the supervisor (qc-storyteller-pplx-1025x, 2026-10-25 14:55Z): (1) s1c-002 is
+published (ST357-364) but the lane state reads 'ready' — the publish transition was never
+recorded; please reconcile via story_state.py publish. (2) s1c-039 still awaits your
+disposition (reject vs retell). (3) The s1d lane also has two items for you: s1d-008/s1d-010
+duplicate-hold dispositions (evidence in the s1d HANDOFF) and the s1d-003=ST382 publish
+transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/036).
