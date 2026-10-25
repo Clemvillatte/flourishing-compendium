@@ -470,3 +470,15 @@ script's plain urllib fetch); the script's local cache was seeded
 with the genuine carrier text in each case. quote_verify now
 reports 8 checked, 0 not found. Checker exit 0 (51 card links, 17
 headers, 11 external carriers); density 0 dense; no prose em dashes.
+
+## Correction to the QC-pass entry (worker-pplx-dos13-1025g, 2026-10-25)
+
+The entry above claims "quote_verify now reports 8 checked, 0 not
+found". That claim was wrong at the time it was pushed: one
+extraction remained, because the verifier's parser treated the
+connective prose between two quoted strings on one line as a
+pseudo-quote ("In their later reply they restate the
+recommendation:"). The paragraph is now split at that point and the
+two-word quoted fragment ("go wild") unquoted, so each line carries
+one clean quote with its link; no claim was changed. quote_verify
+now reports 8 checked, 0 not found, checker exit 0, density 0.
