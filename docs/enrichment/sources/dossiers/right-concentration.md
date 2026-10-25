@@ -104,3 +104,34 @@ reasons, recorded for the supervisor:
   used here are the citable web editions that library's fallback
   rule names (accesstoinsight, sacred-texts). The fallback condition
   was not tested, only avoided.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos25 baton)
+
+Reviewed all 9 candidates against the current file (fresh audit run).
+One recast applied:
+
+- Line 5 (intro): removed the opening not-X-but-Y scaffold
+  ("Collectedness is not clamping the mind down; it is the gathering of
+  it") — the "clamping" foil was invented (the attention-economy sentence
+  three lines later already delivers the forced-focus contrast, and the
+  lute-string doctrine carries the tuned-vs-forced opposition). Now
+  opens directly: "Collectedness is the gathering of the mind, the way
+  an instrument is tuned rather than forced." The paragraph's
+  rare-condition motif (negation in sentence two, deliberate echo in
+  the final sentence's "protected like a rare condition") was read as a
+  deliberate rhetorical device and kept.
+
+Kept: line 20 ("neither-pleasure nor stress" sits inside the verbatim
+DN 2 quotation — source text, exempt), 28 (B095's own framing: samadhi
+as gathering rather than blankness), 34 (the Sona Sutta's neither-taut-
+nor-slack is the doctrine), 82 (deliberate-practice finding: skill
+separation by years of accumulation, a real research contrast), 100
+(flow conditions engineered rather than awaited — the design point),
+136 (the Variation's scatter/strain contrast), 164 (the lute-string
+story: awakening follows the tuning, not the straining — the story's
+point), 168 (Csikszentmihalyi's finding: most satisfying hours not the
+most pleasant but the most absorbed — the paradox the research names).
+
+Checks: dossier_check.py exit 0; the fresh audit count for this
+dossier fell from 9 to 7 (two patterns cleared on line 5). Editorial
+review only; no carriers or cards freshly opened this pass.
