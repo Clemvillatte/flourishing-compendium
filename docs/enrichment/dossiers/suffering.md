@@ -72,6 +72,8 @@ That is why the meditation tradition has an instrument for it. The [pain curve](
 
 > "Suffering itself less afflicts the senses than the apprehension of suffering." (An old author's saying, quoted in [Montaigne, Essays, Gutenberg vol. 18](https://www.gutenberg.org/cache/epub/3598/pg3598.html))
 
+The clinical line of the same question is [chronic pain research](https://clemvillatte.github.io/flourishing-compendium/#card=Chronic%20pain%20research): what beside the pain itself is associated with disability and distress. In McCracken's 1998 study of 160 adults with chronic pain, greater acceptance of pain came with lower pain intensity, less pain-related anxiety and avoidance, less depression, less physical and psychosocial disability, more daily uptime, and better work status, and the low correlation between acceptance and pain intensity showed acceptance is not simply a function of having little pain. The catastrophizing line studies the mental set a person brings to the pain, an exaggerated negative mental set during actual or anticipated painful experience, with rumination, magnification and helplessness as its parts.
+
 ## Practice: separating the arrows
 
 ::Variation:: If pain and the story about pain have fused into one mass, the variation to make is a separation: learning to feel the first arrow as it is, and to see the second arrow as an addition with its own signature. The maladaptive pattern is the fusion; the adaptive direction is the gap between the two.

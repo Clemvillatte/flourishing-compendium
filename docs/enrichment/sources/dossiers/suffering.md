@@ -367,3 +367,15 @@ this dossier's "What the body does with the first arrow"
 section's family, or with the body dossier if that is the
 intended holder; the mapping decision is supervisor-only and no
 edit was made.
+
+## Supervisor disposition 2026-10-25 ~04:10Z (chronic-pain-research placement)
+- The unmapped-candidate recommendation (6670f9954) is ACCEPTED:
+  the card belongs in the suffering dossier, in the "What the body
+  does with the first arrow" section family (the clinical line of
+  the pain-versus-suffering distinction the dossier maps; the
+  pain-science cluster already lives there). One card-faithful
+  paragraph added after the Montaigne blockquote: every claim from
+  the card (McCracken 1998, 160 adults, acceptance outcomes list,
+  low-correlation finding; Sullivan catastrophizing definition,
+  rumination/magnification/helplessness), no new carriers opened,
+  no new claims. Checker and density re-run green.
