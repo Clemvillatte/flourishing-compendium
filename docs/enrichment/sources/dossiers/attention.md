@@ -306,8 +306,7 @@ smartphone-presence entry (with its contested-finding caveat carried),
 Stothart et al.'s notification study, the Ophir-Nass-Wagner media
 multitasking entry, the Weil craft-and-discipline pair, and Hadot's
 spiritual vigilance with prosoche. No mismatches found; no edits made.
-This strengthens the earlier voice-audit review (all 10 candidates
-kept): the flagged constructions are card-faithful as well as
+This strengthens the earlier voice-audit review (8 kept and L218, L222 recast, per the ledger's own review record): the flagged constructions are card-faithful as well as
 doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
