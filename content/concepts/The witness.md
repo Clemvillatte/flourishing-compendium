@@ -16,6 +16,8 @@ The witness, in Śaṅkara's Advaita Vedānta, is consciousness in its role as t
 
 That account is provisional. From the absolute order, Śaṅkara strips consciousness of its relational properties, including its status as witness ([SEP, Śaṅkara §3](https://plato.stanford.edu/entries/shankara/)).
 
+The two levels matter for anyone using the idea in practice. At the level of individual experience the witness is a useful handle, naming the simple fact that experience is known as it happens and that it unifies waking, dreaming and memory. Pressed to the absolute, the handle is withdrawn along with the relational properties, and what remains is no further thing to hold.
+
 ### Here
 
 - [[K007 — Learn the mind's two registers — appearance and awareness]]

@@ -1,13 +1,11 @@
 {
  "batch": "w1j",
  "done": [
-  "The witness",
   "The seasons of the body",
   "The water metaphor",
   "Throwing away the ladder",
   "Ritual",
   "Self-distancing",
-  "Perspectivism",
   "Radical freedom",
   "Restorative justice",
   "Shared reality",
@@ -70,7 +68,9 @@
   "Predictive processing",
   "The avoidance of suffering",
   "The still mirror",
-  "Perceived partner responsiveness"
+  "Perceived partner responsiveness",
+  "Perspectivism",
+  "The witness"
  ],
  "in_progress": null,
  "flagged": {
@@ -121,10 +121,12 @@
   "Predictive processing": "Reopened for QC: QC: prose 125 < 150 (pre-existing); expand from page's verified Clark 2013 quotes",
   "The avoidance of suffering": "Reopened for QC: QC: prose 126 < 150 (pre-existing); expand from page's verified SN 56.11 + IEP material",
   "The still mirror": "Reopened for QC: QC: prose 133 < 150 (pre-existing); expand from page's verified Watson ch.7/ch.13 quotes",
-  "Perceived partner responsiveness": "Reopened for QC: QC: prose 138 < 150 (pre-existing); expand from page's verified Reis & Clark 2013 quotes"
+  "Perceived partner responsiveness": "Reopened for QC: QC: prose 138 < 150 (pre-existing); expand from page's verified Reis & Clark 2013 quotes",
+  "Perspectivism": "Reopened for QC: QC: prose 147 < 150 (pre-existing); small expansion from page's verified GS 299/78 material",
+  "The witness": "Reopened for QC: QC: prose 148 < 150 (pre-existing); small expansion from page's verified SEP Sankara material"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:36:07+00:00",
+ "updated": "2026-10-25T01:36:24+00:00",
  "band_done": false
 }
