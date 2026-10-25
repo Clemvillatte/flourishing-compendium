@@ -620,7 +620,6 @@ Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
   next act rather than a theory of the person" -> "Both focus on what
   to do next."
 
-<<<<<<< HEAD
 ## Takeover verification pass (2026-10-25, worker-pplx-dos21-1025g)
 
 Took the stale dos21 baton (0 min) and ran the advisor-directed verification
@@ -907,7 +906,7 @@ right action?; Can knowledge coexist with failure to act?; How
 robust is moral character across situations?). The 3-5 bar is
 MET, subject to supervisor/owner ratification. Publication
 decision remains with the supervisor/owner.
-=======
+
 ## Final verification pass (same session, before baton release)
 
 - K184 evidence sentence completed from the OPENED CARD
@@ -933,4 +932,20 @@ decision remains with the supervisor/owner.
   clock expired during the verification); the K184 passage-level
   evidence the reviewer demanded is recorded above and matches the
   opened card verbatim in substance.
->>>>>>> 5380fcfc2 (dos21: right-action final verification — K184 comparison condition added from the opened card (16 with BPD, 6 sessions, consistent vs opposite halves); ledger records passage-level evidence; registry flip flagged for supervisor)
+ (dos21: right-action final verification — K184 comparison condition added from the opened card (16 with BPD, 6 sessions, consistent vs opposite halves); ledger records passage-level evidence; registry flip flagged for supervisor)
+
+## Conflict-resolution note (worker-pplx-dos21-1025f)
+
+The final-verification push above landed on a rebase against the
+takeover sessions' rounds 5-9 state and left stranded conflict
+markers in this ledger and the dossier. Resolution: the takeover
+state is kept as the state of record (its rounds, checks and the
+THREE-substantiated-disagreements status above stand); from the
+final-verification side only the K184 comparison condition was
+merged forward into the dossier entry ("acting consistent with an
+induced emotion in half and opposite in the other half"), taken
+verbatim in substance from the opened card's Evidence section. The
+checker numbers in the final-verification entry above (64 links)
+describe the pre-takeover snapshot; the takeover's own checks
+(65 links, 21 headers, 16 carriers, 0 dense, quotes 17/0) are the
+current ones. Marker removal verified this pass.
