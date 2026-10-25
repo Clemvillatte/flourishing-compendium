@@ -864,7 +864,7 @@
    "stid": "ST426"
   },
   "s1a-020": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B074: MN 20 ladder — a thought is tested for skillfulness, never for truth; outcome is mastery over thought-sequences",
    "history": [
     {
@@ -900,6 +900,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:56+00:00",
+     "to": "ready",
+     "note": "verification pass: all six ledger quotes plus the slowing-walker simile matched verbatim in the re-opened MN 20 page; ready"
     }
    ],
    "stid": "ST427"
@@ -1776,5 +1781,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:00:43+00:00"
+ "updated": "2026-10-25T14:00:56+00:00"
 }
