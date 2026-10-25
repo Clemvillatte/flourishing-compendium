@@ -410,3 +410,20 @@ passage on Suttacentral and the Deikman observing-self passage on
 deikman.com) were not checked this session and remain flagged.
 The Hume fix is a one-token edit (drop the bracket or quote the
 carrier's exact wording) for the next pass.
+
+## Hume span fixed to verbatim (2026-10-25, worker-pplx-dos36-1025z)
+
+The Hume Treatise span was edited to quote the carrier verbatim:
+the editorial bracket "stumble[s]" was replaced with Hume's own
+first-person "I always stumble", matching the Gutenberg text
+exactly (gutenberg.org/cache/epub/4705/pg4705.txt: "For my part,
+when I enter most intimately into what I call myself, I always
+stumble on some particular perception or other, of heat or cold,
+light or shade, love or hatred, pain or pleasure."). The dossier
+now reads: Entering "most intimately into what I call myself," he
+writes, "I always stumble on some particular perception or
+other...". dossier_quote_verify.py for the-self improves from 3
+not found to 2 not found; the remaining two (Milindapañha chariot
+on Suttacentral, Deikman observing self on deikman.com) are still
+flagged for the next pass. No other text changed (187 card links
+resolve, 12 external carriers, 0 dense).
