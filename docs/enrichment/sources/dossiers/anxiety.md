@@ -92,3 +92,35 @@ practice, and the simile's ranging-then-staying carries the contrast).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 57 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Kierkegaard cluster (anxiety about the
+future, dizziness of freedom, facing the fear and the monster), the
+Heidegger cluster (Angst, Das Nichts), existential confrontation, the
+uncanny, the fear entries shared with the fear dossier, the Aristotle
+courage cluster (courage, courage as action despite fear, authentic
+courage without props, courage built gradually), moral courage
+research, the fearless mind, the Borkovec worry cluster, Nolen-Hoeksema
+rumination, the Wells metacognitive cluster, the Dugas
+intolerance-of-uncertainty cluster, anticipatory affect, risk
+perception, attentional control theory and the MacLeod attentional-bias
+cluster, cognitive bias modification, the Lazarus-Folkman
+stress-appraisal cluster, the McEwen-Lupien stress-response cluster,
+stress mindset and cycle completion, stress inoculation training,
+diathesis-stress, Barlow's Triple Vulnerability Model, Cohen-Wills
+stress buffering, Leyro distress tolerance, cognitive mediation of
+distress, MBSR, Meyer's minority stress theory, stress-related growth,
+death anxiety research, terror management, anxiety buffer disruption
+theory, clinical thresholds, shamatha, premeditatio malorum, spiritual
+vigilance, and the two sayings entries. No mismatches found; no edits
+made. This strengthens the earlier voice-audit review (all 6 candidates
+kept): the flagged constructions are card-faithful as well as
+doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
