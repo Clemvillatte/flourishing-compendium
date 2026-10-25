@@ -225,3 +225,6 @@ AF035 ([Petri et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC10172524/)),
 
 ## Audit: last PMC quotes
 SE011 (redemption and contamination sentence in [Sawatzki and Thomsen](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)) and P163 (creative hopelessness sentence in [Kanter, Baruch and Gaynor](https://pmc.ncbi.nlm.nih.gov/articles/PMC2223147/)) confirmed verbatim. Note for the supervisor: the Sawatzki and Thomsen record shows online publication 2025-11-20 while the PMC page header reads 2026; the page cites 2025.
+
+## PP083 — Rogers, The Good Life
+Confirmed in the [Panarchy.org excerpt of On Becoming a Person](https://www.panarchy.org/rogers/person.html) that "selected by the total organism, when there is psychological freedom to move in any direction" is verbatim. The pp. 186-187 locator is cited in [Thomas et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8608581/). No change.
