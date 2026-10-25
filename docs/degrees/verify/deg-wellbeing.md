@@ -352,5 +352,71 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Language: English.
 - Content coverage: the host's description states the lecture covers situational
   construal and naive realism.
-- Relevant segment: whole lecture, 1:18:39.
+
+### M08-S18: The Value of Social Capital and Bowling Alone in 2025 (Robert Putnam, Harvard IOP)
+
+- Identity and access: oembed confirms the conversation on the Institute of
+  Politics at Harvard Kennedy School channel
+  (https://www.youtube.com/watch?v=H7MfmA9mBhY).
+- Duration: 1:18:50 (watch page, 2026-10-25).
+- Instructor credentials: Robert Putnam, author of Bowling Alone and Peter and
+  Isabel Malkin Professor of Public Policy, Emeritus, Harvard Kennedy School;
+  moderated by David Ellwood, former Dean of the Kennedy School (per the host
+  description).
+- Language: English.
+- Content coverage: the host's description states the conversation covers the
+  Join or Die documentary about his work, the decline in community connections,
+  social capital and civic connections, polarization, economic inequality, social
+  isolation, class-based isolation, building connections across social classes,
+  and the role of technology and community organizations for democracy.
+- Relevant segment: whole conversation, 1:18:50.
 - Verification status: verified-video.
+
+### M08-S22: Misbehaving, The Making of Behavioural Economics (Richard Thaler, LSE)
+
+- Identity and access: oembed confirms the event on the LSE channel
+  (https://www.youtube.com/watch?v=Ox7_RQshIsc).
+- Duration: 1:27:38 (watch page, 2026-10-25).
+- Instructor credentials: Richard H. Thaler, Ralph and Dorothy Keller Distinguished
+  Service Professor of Behavioral Science and Economics, University of Chicago
+  Booth School of Business (per the host description); chaired by LSE Director
+  Craig Calhoun, June 1, 2016.
+- Language: English.
+- Content coverage: the host's description states the conversation covers his
+  book Misbehaving, an authoritative history of behavioral economics: the idea
+  that economic agents are error-prone humans rather than fully rational actors,
+  biases in decisions such as purchases and mortgages, and the implications for
+  individuals, managers and policymakers.
+- Relevant segment: whole event, 1:27:38.
+- Verification status: verified-video.
+
+### M08-S24: Book Talk on Wiser, Getting Beyond Groupthink (Cass Sunstein, Harvard Law School)
+
+- Identity and access: oembed confirms the book talk on the Harvard Law School
+  channel (https://www.youtube.com/watch?v=TzqwSsfoXGY).
+- Duration: 1:01:38 (watch page, 2026-10-25).
+- Instructor credentials: Cass Sunstein, with panelists HLS Dean Martha Minow,
+  HLS Prof. Louis Kaplow and HBS Prof. Max H. Bazerman (per the host
+  description); Harvard Law School Library faculty book talk, February 11.
+- Language: English.
+- Content coverage: the host's description states the talk covers how groups make
+  decisions, including groupthink, group biases and errors, information-sharing
+  and group polarization, and ways to structure groups to make better decisions.
+- Relevant segment: whole talk, 1:01:38.
+- Verification status: verified-video.
+
+### M08-S25: #Republic, Divided Democracy in the Age of Social Media (Cass Sunstein, Carnegie Council)
+
+- Identity and access: oembed confirms the talk on the Carnegie Council for
+  Ethics in International Affairs channel
+  (https://www.youtube.com/watch?v=_Uv-IJXVm3c).
+- Duration: 1:01:40 (watch page, 2026-10-25).
+- Instructor credentials: Cass R. Sunstein, Robert Walmsley University Professor
+  at Harvard Law School (per the host description).
+- Language: English.
+- Content coverage: the host's description states the talk discusses how the
+  Internet and social media drive political fragmentation, polarization and
+  extremism, and what can be done about these challenges.
+- Relevant segment: whole talk, 1:01:40.
+- Verification status: verified-video.
+
