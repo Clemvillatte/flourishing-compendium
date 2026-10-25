@@ -32,7 +32,7 @@ Book X chapter 8 continues: "Now if you take away from a living being action, an
 ## Sources
 
 - [Aristotle, Nicomachean Ethics Book X, trans. W. D. Ross (Internet Classics Archive)](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) — the X.7 and X.8 passages, quoted verbatim
-- Aristotle, Nicomachean Ethics X (original seed line, kept)
+- Aristotle, Nicomachean Ethics X
 
 [[A090 — Recognise that the theoretical life is not for everyone]]
 [[ST174 — Ove Is Interrupted]]

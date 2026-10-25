@@ -43,8 +43,8 @@ My behavioural-science entries sit alongside this passage in the register of ill
 
 - [Ecclesiastes 3:1-8, KJV (Bible Gateway)](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV) — the quotation
 - [Daniel W. Graham, "Heraclitus", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heraclitus/) — fragment B88, quoted verbatim
-- Ecclesiastes (original seed line, kept)
-- Heraclitus, fragments (original seed line, kept)
+- Ecclesiastes
+- Heraclitus, fragments
 
 [[D151 — Follow the seasons]]
 [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]]

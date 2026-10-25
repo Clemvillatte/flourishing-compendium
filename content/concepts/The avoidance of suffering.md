@@ -37,7 +37,7 @@ I pair the two accounts rather than equating them. Craving is the engine named b
 
 - [Internet Encyclopedia of Philosophy, "Buddha"](https://www.iep.utm.edu/buddha/) — the aversion and three-roots passages, quoted verbatim
 - [Thanissaro Bhikkhu, Dhammacakkappavattana Sutta SN 56.11 (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the Second Noble Truth quotation
-- Buddhism, Second Noble Truth (original seed line, kept)
+- Buddhism, Second Noble Truth
 
 [[SP034 — Distinguish shame from guilt's signal]]
 [[E064 — Practise meaning through the attitude toward suffering]]

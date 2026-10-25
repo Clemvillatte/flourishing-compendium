@@ -38,7 +38,7 @@ The image returns in the Outer Chapter "The Way of Heaven." There the sage's sti
 
 - [Burton Watson, The Complete Works of Chuang Tzu, ch. 7 "Fit for Emperors and Kings"](https://terebess.hu/english/chuangtzu.html) — the Inner Chapter 7 quotation
 - [Burton Watson, The Complete Works of Chuang Tzu, ch. 13 "The Way of Heaven"](https://terebess.hu/english/chuangtzu1.html) — the stillness passage quoted verbatim
-- Zhuangzi, Inner Chapters (original seed line, kept)
+- Zhuangzi, Inner Chapters
 
 [[ST017 — The Mind as Mirror]]
 [[SP007 — Keep thought and world in parallel]]

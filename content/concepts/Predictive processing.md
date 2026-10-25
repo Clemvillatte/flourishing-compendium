@@ -28,11 +28,11 @@ The framework's reach is perception and action together: such accounts "offer a 
 
 ## Sources
 
-- Seth, 2013 (original seed line, kept)
-- Clark, 2013 (original seed line, kept)
-- Clark, 2013, "Whatever next?" (original seed line, kept)
-- Clark, 2013, 2016 (original seed line, kept)
-- Friston, 2010 (original seed line, kept)
+- Seth, 2013
+- Clark, 2013
+- Clark, 2013, "Whatever next?"
+- Clark, 2013, 2016
+- Friston, 2010
 - [Clark 2013, "Whatever next? Predictive brains, situated agents, and the future of cognitive science", Behavioral and Brain Sciences 36(3):181-204 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/23663408/) — the abstract's prediction-machine passage, the unifying-model sentence and the critical-examination sentence, quoted verbatim
 
 ## Cited in psychology parallels

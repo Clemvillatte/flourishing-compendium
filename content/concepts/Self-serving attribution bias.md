@@ -33,8 +33,8 @@ The same review finds the bias is not uniform. Asian samples display significant
 ## Sources
 
 - [Mezulis, Abramson, Hyde & Hankin 2004, Psychological Bulletin 130(5), 711-747 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/15367078/) — the abstract, quoted verbatim
-- Miller & Ross, 1975 (original seed line, kept)
-- Mezulis et al., 2004 (original seed line, kept)
+- Miller & Ross, 1975
+- Mezulis et al., 2004
 
 ## Cited in psychology parallels
 

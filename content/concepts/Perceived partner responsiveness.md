@@ -21,7 +21,7 @@ The chapter presents the intimacy model's core claim: intimacy is defined "in te
 - [[Attachment security]] — partner responsiveness is the behaviour the attachment-security cycle runs on
 ## Sources
 
-- Reis and Clark, 2013 (original seed line, kept)
+- Reis and Clark, 2013
 - [Reis & Clark 2013, "Responsiveness", The Oxford Handbook of Close Relationships (PDF)](https://anthonyongphd.wordpress.com/wp-content/uploads/2018/01/reis-clark-2013.pdf) — the three-element definition (PDF p. 7), the intimacy-model and construal passages (PDF p. 5), quoted verbatim against the raw PDF text
 
 ## Cited in psychology parallels

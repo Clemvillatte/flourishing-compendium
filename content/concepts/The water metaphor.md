@@ -43,7 +43,7 @@ The metaphor returns in Daodejing 78, where Eno's translation reads: "Nothing in
 - [Robert Eno, Daodejing ch. 8 (Terebess)](https://terebess.hu/english/tao/Daodejing-Eno.pdf) — chapter 8, quoted verbatim
 - [Robert Eno, Daodejing ch. 78 (Terebess)](https://terebess.hu/english/tao/Daodejing-Eno.pdf) — chapter 78, quoted verbatim
 - [Burton Watson, The Complete Works of Chuang Tzu, ch. 13 "The Way of Heaven" (Terebess)](https://terebess.hu/english/chuangtzu1.html) — the still-water passage, quoted verbatim
-- Daoism, Daodejing 8 (original seed line, kept)
+- Daoism, Daodejing 8
 
 [[D055 — Don't force]]
 [[P191 — Joy is the felt signature of creation; distinct from pleasure]]

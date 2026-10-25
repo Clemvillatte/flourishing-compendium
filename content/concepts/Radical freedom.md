@@ -31,7 +31,7 @@ The word radical is doing real work here. "The for-itself is always in a factica
 
 - [Reynolds & Renaudie, "Jean-Paul Sartre", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/) — the situated-freedom summary
 - [Kevin Aho, "Existentialism", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/existentialism/) — the Sartre 1946 [2001, 296] quotation with translator attribution
-- Sartre, Being and Nothingness (original seed line, kept)
+- Sartre, Being and Nothingness
 
 [[S007 — Accept what happens as the will of providence]]
 [[ST270 — Kierkegaard's Abraham]]

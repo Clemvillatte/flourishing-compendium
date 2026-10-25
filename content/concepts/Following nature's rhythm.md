@@ -34,8 +34,8 @@ I place this idea next to the body's rhythms as an editorial juxtaposition. The 
 ## Sources
 
 - [Robert Eno, Daodejing ch. 25 (Terebess)](https://terebess.hu/english/tao/Daodejing-Eno.pdf) — chapter 25 quoted verbatim; the ziran gloss is a paraphrase of Eno's glossary, not a verbatim quotation
-- Daoism (original seed line, kept)
-- Daoism, Daodejing 25 (original seed line, kept)
+- Daoism
+- Daoism, Daodejing 25
 
 [[BI066 — Recognise hormonal effects on mood — thyroid, menstrual cycle, menopause]]
 [[P105 — Feel time in the body — rhythm, tempo, flow]]

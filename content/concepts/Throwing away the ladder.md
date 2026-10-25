@@ -35,7 +35,7 @@ For comparison, I also link this image to the raft simile in MN 22. The Alagaddu
 
 - [Wittgenstein, Tractatus Logico-Philosophicus 6.54, from kfs.org (translator not stated on the page)](https://www.kfs.org/jonathan/witt/t654en.html) — the proposition, quoted verbatim
 - [Thanissaro Bhikkhu, Alagaddupama Sutta MN 22 (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile, quoted verbatim
-- Wittgenstein, Tractatus 6.54 (original seed line, kept)
+- Wittgenstein, Tractatus 6.54
 
 [[S044 — Act as a member of the whole]]
 [[X006 — Let the skeptics' slogans guard the practice's humility]]

@@ -35,8 +35,8 @@ The same book gives the counter-move in the aphorism on the perspective that fla
 ## Sources
 
 - [Nietzsche, The Joyful Wisdom ("La Gaya Scienza"), trans. Thomas Common (Project Gutenberg #52124)](https://www.gutenberg.org/ebooks/52124) — aphorisms 299 and 78, quoted verbatim
-- Nietzsche, On the Genealogy of Morality III (original seed line, kept)
-- Nietzsche, The Gay Science (original seed line, kept)
+- Nietzsche, On the Genealogy of Morality III
+- Nietzsche, The Gay Science
 
 ## Cited in philosophy parallels
 

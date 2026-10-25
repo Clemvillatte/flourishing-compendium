@@ -31,8 +31,8 @@ The same paper states: "Shared reality lies at the intersection of two motives: 
 ## Sources
 
 - [Higgins, Rossignac-Milon & Echterhoff 2021, Shared Reality: From Sharing-Is-Believing to Merging Minds, Current Directions in Psychological Science (Columbia PDF)](https://blogs.cuit.columbia.edu/mayarossignacmilon/files/2021/05/Higgins.Rossignac-Milon.Echterhoff.CD_.2021.pdf) — the definition and the Hardin & Higgins 1996 sentence, quoted verbatim
-- Hardin and Higgins, 1996 (original seed line, kept)
-- Higgins, 2019, shared-reality theory, as framework (original seed line, kept)
+- Hardin and Higgins, 1996
+- Higgins, 2019, shared-reality theory, as framework
 
 ## Facets
 

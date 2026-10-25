@@ -33,7 +33,7 @@ The one-day gap gave a moderate benefit (d = 0.42); the thirty-day gap gave a la
 ## Sources
 
 - [Rohrer, Dedrick & Stershic 2015, Interleaved Practice Improves Mathematics Learning, Journal of Educational Psychology 107(3), 900-908](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf) — abstract and Results quoted verbatim
-- Rohrer et al., 2015 (original seed line, kept)
+- Rohrer et al., 2015
 
 [[K194 — Slow breathing (5 to 6 breaths per minute)]]
 [[AF010 — Recognise that affect has temporal structure — intensity, duration, variability, recovery]]

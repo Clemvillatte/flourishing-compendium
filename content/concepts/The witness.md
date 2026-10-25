@@ -35,11 +35,11 @@ That account is provisional. From the absolute order, Śaṅkara strips consciou
 ## Sources
 
 - [Neil Dalal, "Śaṅkara", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/shankara/) — all quotations and locators
-- Buddhism (original seed line, kept)
-- Ramana Maharshi, Day by Day (original seed line, kept)
-- modern Advaita (original seed line, kept)
-- Vedanta, Upanishads (original seed line, kept)
-- Shankara, Advaita Vedanta (original seed line, kept)
+- Buddhism
+- Ramana Maharshi, Day by Day
+- modern Advaita
+- Vedanta, Upanishads
+- Shankara, Advaita Vedanta
 
 [[CO066]]
 

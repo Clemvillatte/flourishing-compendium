@@ -33,12 +33,12 @@ The finding is that the shift in pronoun does the regulatory work.
 
 - [Kross, Gard, Deldin, Clifton & Ayduk 2012, Asking "why" from a distance, Journal of Applied Psychology](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/) — the self-distancing definition
 - [Kross, Bruehlman-Senecal, Park, Burson, Dougherty, Shablack, Bremner, Moser & Ayduk 2014, Self-talk as a regulatory mechanism: how you do it matters, Journal of Personality and Social Psychology 106(2), 304-324](https://pubmed.ncbi.nlm.nih.gov/24467424/) — the abstract, quoted verbatim
-- Kross and Ayduk, 2017 (original seed line, kept)
-- Kross, 2014 (original seed line, kept)
-- Grossmann and Kross, 2014 (original seed line, kept)
-- Kross & Ayduk, 2011 (original seed line, kept)
-- Kross et al., 2014 (original seed line, kept)
-- Grossmann & Kross, 2014 (original seed line, kept)
+- Kross and Ayduk, 2017
+- Kross, 2014
+- Grossmann and Kross, 2014
+- Kross & Ayduk, 2011
+- Kross et al., 2014
+- Grossmann & Kross, 2014
 
 ## Facets
 

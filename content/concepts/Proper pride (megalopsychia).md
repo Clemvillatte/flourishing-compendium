@@ -32,7 +32,7 @@ Honour, on this account, is the prize of virtue, and it is to the good that it i
 ## Sources
 
 - [Aristotle, Nicomachean Ethics Book IV, trans. W. D. Ross (Internet Classics Archive)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the IV.3 passage, quoted verbatim
-- Aristotle, Nicomachean Ethics IV (original seed line, kept)
+- Aristotle, Nicomachean Ethics IV
 
 [[K250 — Virtue rehearsal]]
 [[K253 — The mean calibration]]

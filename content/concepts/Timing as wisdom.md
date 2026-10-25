@@ -33,7 +33,7 @@ Later in the chapter: "When people pursue an undertaking, it is always at the po
 ## Sources
 
 - [Robert Eno, Daodejing ch. 64 (Terebess)](https://terebess.hu/english/tao/Daodejing-Eno.pdf) — chapter 64, quoted verbatim
-- Laozi, Daodejing 64 (original seed line, kept)
+- Laozi, Daodejing 64
 
 [[ST151 — The Owl of Minerva]]
 [[M005 — Read the signs of the times humbly]]

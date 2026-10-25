@@ -36,9 +36,9 @@ The passage puts the awakening before the repose.
 ## Sources
 
 - [Augustine, The Confessions of St. Augustine, trans. E. B. Pusey (Project Gutenberg eBook #3296)](https://www.gutenberg.org/ebooks/3296) — Confessions I.1 and VII.21, quoted verbatim
-- Augustine, Confessions (original seed line, kept)
-- Christian tradition (original seed line, kept)
-- the tradition of received quiet (original seed line, kept)
+- Augustine, Confessions
+- Christian tradition
+- the tradition of received quiet
 
 ## Cited in philosophy parallels
 

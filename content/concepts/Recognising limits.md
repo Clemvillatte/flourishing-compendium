@@ -32,7 +32,7 @@ The Enchiridion puts opinion, aim, desire and aversion within our power, and bod
 ## Sources
 
 - [Epictetus, The Enchiridion, ch. 1, trans. Thomas W. Higginson (Project Gutenberg #45109)](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm) — the opening passage, quoted verbatim
-- Stoics (original seed line, kept)
+- Stoics
 
 [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]]
 [[CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait]]

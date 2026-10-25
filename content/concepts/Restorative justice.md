@@ -41,7 +41,7 @@ The direct forms vary in scope: "Another 'direct' form of restorative justice is
 ## Sources
 
 - [Lawrence W. Sherman & Heather Strang 2007, Restorative Justice: The Evidence, Smith Institute (IIRP full PDF)](https://www.iirp.edu/images/pdf/RJ_full_report.pdf) — the abstract bullet list, quoted verbatim
-- Sherman and Strang, 2007 (original seed line, kept)
+- Sherman and Strang, 2007
 
 ## Cited in psychology parallels
 
