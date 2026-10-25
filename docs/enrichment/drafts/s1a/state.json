@@ -808,7 +808,7 @@
    "stid": "ST425"
   },
   "s1a-019": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B054: the worldly winds staged as the Ciñcā accusation; equanimity reading is the compendium's interpretation",
    "history": [
     {
@@ -854,6 +854,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:00:43+00:00",
+     "to": "ready",
+     "note": "verification pass: all five ledger quotes plus three body strings matched verbatim in the re-opened Burlingame page; ready"
     }
    ],
    "stid": "ST426"
@@ -1771,5 +1776,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:00:27+00:00"
+ "updated": "2026-10-25T14:00:43+00:00"
 }
