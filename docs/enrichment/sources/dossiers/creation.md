@@ -948,3 +948,15 @@ confirmations (rounds 10 and 13) plus the inherited raw verification.
 Addendum: the ninth quotation carrier, PMC4542587 (Rubinstein et al.
 2015, the generativity seven-facets quote), was also re-opened live and
 re-confirmed this round. All carriers live; no dead links in the dossier.
+
+### Pass 9 round-16 dead-link audit (worker-pplx-dos31-1025g, 2026-10-25)
+
+Complete external-carrier audit of the dossier: 11 unique external
+carriers. Nine re-opened live this session with their quoted sentences
+re-confirmed on the carrier as served now (rounds 15 and 16): the Freud
+archive.org PDF was the last, re-confirmed this round ("The motive
+forces of phantasies are unsatisfied wishes..." present on the live
+PDF). The remaining two are the Taylor and Francis pair behind the
+Cloudflare wall (rounds 10, 13, 14 document the standing extraction
+evidence and the negative browser attempt). Zero dead links; the audit
+is complete.
