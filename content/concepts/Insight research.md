@@ -15,7 +15,7 @@ The research program summarized there contrasts insight solving with deliberate,
 
 > "Individual differences in the tendency to solve problems insightfully rather than in a deliberate, analytic fashion are associated with different patterns of resting-state brain activity." (Kounios and Beeman 2014, [abstract, PubMed](https://pubmed.ncbi.nlm.nih.gov/24405359/))
 
-**Plain words** Some answers arrive by working the steps; some arrive all at once, sideways, with a click. The research says the click is not a myth: the abstract reports internally focused attention preceding and during problem solving, and a right-hemisphere style of coding.
+**Plain words** Some answers arrive by working the steps; some arrive all at once, sideways, with a click. The research says the click is not a myth: people who crack things the sudden way show more inward-turned focus before and while they work, and the right half of the brain seems to handle meaning loosely and widely rather than tightly.
 
 ### Here
 

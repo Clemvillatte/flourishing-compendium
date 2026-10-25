@@ -49,7 +49,6 @@
   "Individualism collectivism theory Triandis",
   "Individuality",
   "Induction from experience",
-  "Insight research",
   "Intentionality",
   "Interdependence Theory",
   "Integrity (integritas: wholeness)",
@@ -71,7 +70,8 @@
   "Hickman et al",
   "Janis",
   "Karasek",
-  "Nondual awareness"
+  "Nondual awareness",
+  "Insight research"
  ],
  "in_progress": null,
  "flagged": {
@@ -83,7 +83,7 @@
   "Groupthink theory": "QC round 2: bold seed line removed",
   "HEXACO model of personality structure": "QC round 2: bold seed line removed; H-factor quote locator corrected to the 'Theoretical Interpretation' section (quote precedes the table heading the earlier locator named); degrees verified via title search: Festinger 8, Grit 1, Generative 1, Group cohesion 5, Groupthink 7, HEXACO 5 (all fast-track eligible)",
   "Halo effect": "Reopened for QC: advisor QC repairs | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
-  "Hermeneutic listening": "Reopened for QC: advisor QC round 2 | Sweep check 2026-10-25 (worker-pplx-1025-o): REAL defect found and repaired \u2014 prose 98<150 words; expanded with verified SPI 2015 article material; first-person line and workflow wording removed; validator ok.",
+  "Hermeneutic listening": "Reopened for QC: advisor QC round 2 | Sweep check 2026-10-25 (worker-pplx-1025-o): REAL defect found and repaired — prose 98<150 words; expanded with verified SPI 2015 article material; first-person line and workflow wording removed; validator ok.",
   "Hostility research": "Reopened for QC: QC2 | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
   "Hubris and nemesis": "Reopened for QC: QC2 | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
   "Identity statuses (Marcia)": "Reopened for QC: QC2 | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
@@ -99,7 +99,7 @@
   "Individualism collectivism theory Triandis": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Individuality": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Induction from experience": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
-  "Insight research": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
+  "Insight research": "Reopened for QC: concept Plain-words repair (2026-10-25T11:39Z, worker-pplx-92251348): see done note",
   "Intentionality": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Interdependence Theory": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Interdependence research": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
@@ -121,6 +121,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:23:12+00:00",
- "band_done": true
+ "updated": "2026-10-25T11:33:21+00:00",
+ "band_done": false
 }
