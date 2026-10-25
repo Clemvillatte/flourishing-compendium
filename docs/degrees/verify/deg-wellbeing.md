@@ -498,9 +498,10 @@ standard.
 
 ### M08-P07: Is it possible to become happier and, if yes, how? — IDENTITY ONLY
 
-- Identity and access: oembed confirmed the video
-  (https://www.youtube.com/watch?v=ohsAWiCC0YE) but the watch page
-  returned broken-content errors on a single fetch attempt
+- Identity and access: oembed (re-confirmed by direct retrieval,
+  2026-10-25) identifies the video on the Missouri State University
+  channel (https://www.youtube.com/watch?v=ohsAWiCC0YE) but the watch
+  page returned broken-content errors on a single fetch attempt
   (2026-10-25); no retry made per the no-retry rule.
 - Verification status: unverified beyond identity (blocked watch page,
   2026-10-25) — retry permitted in a later session.
@@ -954,7 +955,9 @@ standard.
 
 ### M08-S26: Collective Intelligence (MIT Comparative Media Studies) — IDENTITY ONLY
 
-- Identity and access: oembed confirmed the video
+- Identity and access: oembed (re-confirmed by direct retrieval,
+  2026-10-25) identifies the video as "Collective Intelligence" on the
+  MIT Comparative Media Studies/Writing channel
   (https://www.youtube.com/watch?v=JAPg8NgINUU) but the watch page
   returned broken-content errors on a single fetch attempt
   (2026-10-25); no retry made per the no-retry rule.
