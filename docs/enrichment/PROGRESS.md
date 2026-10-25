@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-25 02:55 UTC (input revision `b806024bd`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 03:55 UTC.
+As of 2026-10-25 03:03 UTC (input revision `acf27a1ab`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 04:03 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -32,7 +32,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
-| Kernels | 316 | 1510 (cmp, k1a, k1b, k1c, k1d, k1e, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
+| Kernels | 316 | 1515 (cmp, k1a, k1b, k1c, k1d, k1e, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
 | Thinkers | 56 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 56 | — |
 
 - Thinker reconciliation: 56 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 56 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
