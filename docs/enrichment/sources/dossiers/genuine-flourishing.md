@@ -1108,3 +1108,20 @@ No mismatches found; no edits made.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Correction to the prose card-fidelity check above (2026-10-25, worker-pplx-gfva-1025a, dos1 baton)
+
+The note above overstates its coverage and must be read with these
+limits. The check covered 8 of the 10 voice-flagged lines (L19, 77,
+89, 97, 121, 125, 137, 143); two flagged lines were not compared against
+their cards. The comparisons used truncated extraction (glosses cut at
+200 characters, card bodies at 260), so they are prefix checks of the
+claims' openings, not verification of complete glosses, quotations,
+caveats or attributions. The same limits apply to the card-fidelity
+sweep notes appended this session to other dossiers' ledgers under the
+dos2 baton, and to the frustration ledger note (a dos30 band file —
+see the supervisor flag in the commit message of this correction).
+Remaining verification work: full-card reads for the two unchecked GF
+lines, full-text comparison for every swept entry, and reconciliation
+of the right-concentration candidate count (ledger says 7 kept, the
+current audit flags 9 lines).
