@@ -4,9 +4,9 @@
 
 Frustration is what a blocked path feels like from inside. The goal is set, the effort is spent, and the world will not cooperate: the code will not compile, the child will not sleep, the career will not move. What the feeling is, and what it asks of the person who has it, is where the accounts split.
 
-The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress. On the first account the wise response is defusing the fuel; on the second it is reading the pace.
+The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress.
 
-The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. The contemplative traditions ask whether the feeling is ever useful at all: Shantideva's patience chapter poses the question directly, asking what use frustration is whether or not the problem has a remedy. On those accounts the wise response is examining the belief, or questioning the goal itself.
+The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. The contemplative traditions ask whether the feeling is ever useful at all: Shantideva's patience chapter poses the question directly, asking what use frustration is whether or not the problem has a remedy.
 
 ## Nearby terms
 
@@ -25,17 +25,17 @@ Seneca's line is about how anger develops, not a definition of frustration, and 
 
 ### What frustration is taken to be
 
-[Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the 1939 formulation that began the modern study: aggression as a consequence of frustration, frustration as an obstacle blocking an expected gratification, an event before it is an emotion.
+[Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the 1939 formulation that began the modern study: aggression as a consequence of frustration, frustration as an obstacle blocking an expected gratification.
 
-[Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory): Carver and Scheier's loop, where a second loop watches the rate of progress and yields affect as its error signal: on this view, feeling bad is a reading on the pace, not a verdict on the goal.
+[Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory): Carver and Scheier's loop, where a second loop watches the rate of progress and yields affect as its error signal: on this view, feeling bad is a reading on the pace.
 
-[Patience](https://clemvillatte.github.io/flourishing-compendium/#card=Patience): Schnitker's research construct, defined against frustration itself, with a scale that separates patience with people, with hardships and with daily hassles.
+[Patience](https://clemvillatte.github.io/flourishing-compendium/#card=Patience): Schnitker's research construct, defined against frustration itself.
 
 [The irritation of doubt](https://clemvillatte.github.io/flourishing-compendium/#card=The%20irritation%20of%20doubt): Peirce's name for the discomfort an unresolved belief produces, the discomfort inquiry exists to settle: frustration's cognitive cousin.
 
-[The insatiability of craving](https://clemvillatte.github.io/flourishing-compendium/#card=The%20insatiability%20of%20craving): Schopenhauer's pessimism on desire, on which frustration is not an accident of planning but the standing condition of a desiring life.
+[The insatiability of craving](https://clemvillatte.github.io/flourishing-compendium/#card=The%20insatiability%20of%20craving): Schopenhauer's pessimism on desire, on which life is filled with unavoidable frustration, the line quoted above from the encyclopedia entry on him.
 
-Schnitker's definition makes patience the counter-construct, and her studies found the capacity trainable:
+Schnitker's definition makes patience the counter-construct, and her training study suggested that patience might be modifiable:
 
 > "Patience is the propensity to wait calmly in the face of frustration or adversity." ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))
 
@@ -49,7 +49,7 @@ Schopenhauer's line on desire, from the encyclopedia entry on him:
 
 [ERG Theory](https://clemvillatte.github.io/flourishing-compendium/#card=ERG%20Theory): Alderfer's frustration-regression: when needs in a higher category are frustrated, effort is invested in the lower categories, existence and relatedness.
 
-[Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance): Siegrist's model of the high cost, low gain condition, where continued failed reciprocity at work frustrates basic reward expectations; the model's own summary reports associations of failed reciprocity with reduced mental health, measured by depressive symptoms, including one prospective link two years on.
+[Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance): Siegrist's model of the high cost, low gain condition, where continued failed reciprocity at work frustrates basic reward expectations.
 
 [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy): self-determination research lists autonomy among three basic needs whose satisfaction and frustration track wellness.
 
@@ -57,7 +57,7 @@ Schopenhauer's line on desire, from the encyclopedia entry on him:
 
 [Noogenic neurosis](https://clemvillatte.github.io/flourishing-compendium/#card=Noogenic%20neurosis): Frankl's existential frustration, the will to meaning with nowhere to put itself: a blockage at the level of purpose, which he insisted is misdiagnosed when read as a drive conflict.
 
-[Novelty seeking without commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Novelty%20seeking%20without%20commitment): the temperament pattern where persistence, the dimension that carries behaviour through frustration and fatigue, is the one missing: many starts, few finishes.
+[Novelty seeking without commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Novelty%20seeking%20without%20commitment): the temperament pattern where persistence, the dimension Cloninger's model defines as the tendency to persevere despite frustration and fatigue, is the one missing: many starts, few finishes.
 
 ### What frustration turns into
 
@@ -97,15 +97,15 @@ Berkowitz's reformulation of the 1939 model, from the abstract of the review tha
 
 > "A proposed revision of the 1939 model holds that frustrations generate aggressive inclinations to the degree that they arouse negative affect." ([Berkowitz 1989, Psychological Bulletin, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))
 
-That sentence puts an affect in the middle of the chain: the blockage does its work by arousing negative affect, and the aggressive inclinations follow the affect. The same abstract keeps the person's reading in the picture:
+Berkowitz proposes that frustration generates aggressive inclinations insofar as it arouses negative affect. The same abstract keeps the person's reading in the picture:
 
 > "Interpretations and attributions can be understood partly in terms of the original analysis but they can also influence the unpleasantness of the thwarting." ([Berkowitz 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))
 
-The REBT tradition works on that second part of the episode. Its low frustration tolerance belief is the conviction that discomfort cannot be stood, and the Turner review reports that the belief travels with aggressive expression of anger, reduced anger control, poor social adjustment, addictive behaviors, anxiety, depression, procrastination and dysfunctional affect. My reading of the two together: the affect a blockage arouses and the belief the person holds about that affect are two parts of one episode, and a practice can work on either part.
+The REBT tradition names its low frustration tolerance belief as the conviction that discomfort cannot be stood, and the Turner review reports that the belief travels with aggressive expression of anger, reduced anger control, poor social adjustment, addictive behaviors, anxiety, depression, procrastination and dysfunctional affect. My reading of the two together: the affect a blockage arouses and the belief the person holds about that affect are two parts of one episode.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the jump from blockage to response, in either direction: the rush forward into hostility or retaliation, or the collapse into the conviction that the situation cannot be stood, which shows up as avoidance, procrastination and addictive behaviour. The adaptive direction is the gap between the blockage and the response: the frustration read as information about the path, the belief examined before it is obeyed, and the question asked of the blockage itself, whether it calls for more effort, different effort, or no effort.
+::Variation:: What tends to need varying on this theme is the jump from blockage to response, in either direction: the rush forward into hostility or retaliation, or the collapse into the conviction that the situation cannot be stood. The adaptive direction is the gap between the blockage and the response: the frustration read as information about the path, the belief examined before it is obeyed, and the question asked of the blockage itself, whether it calls for more effort, different effort, or no effort.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 

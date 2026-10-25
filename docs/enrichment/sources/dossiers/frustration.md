@@ -1,6 +1,6 @@
 # Evidence ledger: Frustration (dos30)
 
-Owner-directed mint 2026-10-25 (in-session owner message: "Add 'Frustration', 'Creation', 'Creativity', 'Procrastination' to the dossiers"). Writer: worker-pplx-dos30-1025 (supervisor baton also held briefly this session per owner direction, then taken over by supervisor-pplx-1024c, live). Registry entry minted as planned; the status flip to published and the Academy data splice are supervisor-only and were NOT done. Advisor QC rounds 1 and 2 applied (see below); this revision is the post-round-2-repair draft. QC status: PENDING a third advisor pass; not certified publication-ready.
+Owner-directed mint 2026-10-25 (in-session owner message: "Add 'Frustration', 'Creation', 'Creativity', 'Procrastination' to the dossiers"). Writer: worker-pplx-dos30-1025 (supervisor baton also held briefly this session per owner direction, then taken over by supervisor-pplx-1024c, live). Registry entry minted as planned; the status flip to published and the Academy data splice are supervisor-only and were NOT done. Advisor QC rounds 1-4 applied (see below); this revision is the post-round-4-repair draft. QC status: PENDING a fifth advisor pass; not certified publication-ready.
 
 ## Corpus sweep (how the map was built), with an honest reading record
 
@@ -52,7 +52,7 @@ Verdict: still needs repairs; kept as QC-pending. Repairs applied in this revisi
 3. Factual glosses given opened external carriers or reduced scope: ERG (Wikipedia ERG theory, opened, verbatim confirmed) and Effort-reward imbalance (Siegrist PDF, opened, verbatim confirmed); the Autonomy gloss remains attributed to what the theory holds, per the card.
 4. Ledger read labels corrected: ERG, General strain theory, Effort-reward imbalance, K271 and K189 were head-only during drafting and are now read in full (tails read this revision).
 5. Disguised prose deleted: "The blockage itself comes in kinds, and the family is held by member." and "The blockage has to go somewhere, and the accounts map the exits." (which asserted inevitability); the intro's prescriptive inference ending ("pushing harder makes sense if...") rewritten to a plain account of what each tradition changes.
-6. HUMANIZER-SKILL.md was read in full this revision (it had not been opened in the transcript); the HUMANIZER inventory scan for each sourced card was recorded above.
+6. HUMANIZER-SKILL.md was read in full this revision (it had not been opened in the transcript). (Superseded in round 3: no per-card HUMANIZER inventory scan was performed; the corrected concrete-changes entry appears above.)
 
 ## Advisor QC round 3 (2026-10-25) and repairs applied
 
@@ -64,9 +64,18 @@ Verdict: still QC-pending. Repairs applied in this revision:
 5. Full-read labels verified against file lengths (ERG 59, General strain theory 57, Effort-reward imbalance 39, K271 51, K189 51 lines; gap lines read in QC rounds 2-3); SP031 and B105 read in full this revision; the "these four" wording fixed (four overlabelled, K189 previously partial).
 6. Checker record updated with the observed result (below).
 
+## Advisor QC round 4 (2026-10-25) and repairs applied
+
+Verdict: still QC-pending; repairs requested were narrow and concrete. Repairs applied in this revision:
+1. Prescriptive inferences removed: the intro's "On the first account the wise response..." and "On those accounts the wise response..." sentences deleted; "her studies found the capacity trainable" narrowed to "her training study suggested that patience might be modifiable"; the Variation block's "which shows up as avoidance, procrastination and addictive behaviour" clause deleted; the affect/appraisal commentary rewritten to "Berkowitz proposes that frustration generates aggressive inclinations insofar as it arouses negative affect"; "The REBT tradition works on that second part" and "a practice can work on either part" deleted.
+2. ERI gloss ended after "frustrates basic reward expectations"; the health-outcome sentence was removed (the prospective link in the opened PDF concerns partnership quality and intimate exchange, a different context from workplace imbalance).
+3. External-source verification: the ERI context error caught and fixed as above; the K271 gloss is supported by the card's verbatim Enchiridion 1 quotes (card read in full); the Novelty seeking gloss now attributes the persistence definition to Cloninger's model, which the card quotes verbatim ("Persistence reflects the tendency to persevere despite frustration and fatigue (Cloninger, et al., 1993)"); the Schopenhauer gloss now rests on the opened SEP line; the Baumeister-Leary two-criteria sentence re-verified with layout-preserving extraction (pdftotext -layout: "Satisfying this drive involves two criteria: First,"), and the pervasive-drive sentence confirmed in the raw extraction. Remaining glosses that describe what a theory or thinker holds (Carver and Scheier's loop, Peirce's irritation of doubt, Frankl's noogenic neurosis, Agnew's strain theory, the DBT module's content, Spinoza's diagnosis) are stated as claims of their sources, per the cards read; no empirical findings are asserted without an opened carrier.
+4. Ledger corrections: Positive attention training's lines 46-57 read (full read now complete, file is 57 lines); the round-2 HUMANIZER attestation explicitly superseded; the status line updated; the checker re-run below.
+5. HUMANIZER scaffold removed: "frustration is not an accident of planning but the standing condition of a desiring life" replaced with the positive formulation; "a reading on the pace, not a verdict on the goal" trimmed to "a reading on the pace"; "an event before it is an emotion" deleted from the Frustration–aggression hypothesis gloss.
+
 ## Checker
 
-`python3 scripts/dossier_check.py docs/enrichment/dossiers/frustration.md` -> exit 0; 25 card links resolve; 13 headers; 8 external carriers. Run after round-2 repairs and re-run after round-3 repairs, 2026-10-25.
+`python3 scripts/dossier_check.py docs/enrichment/dossiers/frustration.md` -> exit 0; 25 card links resolve; 13 headers; 8 external carriers. Run after rounds 2, 3 and 4 repairs, 2026-10-25.
 
 ## Open points for any revision pass
 
