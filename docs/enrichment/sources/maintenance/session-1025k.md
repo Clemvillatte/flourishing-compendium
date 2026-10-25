@@ -59,3 +59,7 @@
 ## P011 Refuse essences
 - Carrier opened: Wittgenstein PI Anscombe PDF (squarespace) via pdftotext: §66 and §67 quotes and thread image verified verbatim. Nietzsche WP 481: Wood (Stanford) handout excerpt seen via search; Kaufmann/Hollingdale wording.
 - Repair: the old page cited Gutenberg 52965 for The Will to Power; that ID is 'Brazil and the River Plate in 1868' (wrong book). Also dropped the unsupported 'thing is the sum of its effects' attribution, the 'glove' line and the introvert 'only one is still arguing' conclusion. Literature Network German-text link dropped.
+
+## P045 Think with a community
+- Carriers opened: Peirce Fixation of Belief (Wikisource HTML) and Addams Twenty Years at Hull-House (Gutenberg 1325). Peirce hermits/community sentence and Reals sentence, and Addams comradeship sentence verified verbatim.
+- Repair: page cited Gutenberg 2396 (a history of the Catholic Church) for Addams and claimed 'plans kept failing until neighbours were in the room', which I could not find; replaced with the verified comradeship sentence. Removed 'only mechanism by which an error gets caught' overclaim and the invented 18-month loan example.

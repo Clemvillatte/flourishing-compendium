@@ -12,15 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 45** — Think with a community
 
-Peirce's essay "The Fixation of Belief" ends with the scientific method, but the essay's real conclusion is about who gets to check the answer. His formulation is stark: any man with sufficient experience and reason will be led to the one True conclusion — because reality does not change its behaviour based on individual opinion ([The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)). This makes thinking a public project, not a private one. The community of inquiry is the only mechanism by which an error you cannot see gets caught.
+In "The Fixation of Belief" (1877) Peirce starts from a plain observation about people: "Unless we make ourselves hermits, we shall necessarily influence each other's opinions; so that the problem becomes how to fix belief, not in the individual merely, but in the community" ([Peirce, "The Fixation of Belief", Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)). He is introducing the method of authority at that point, and he rejects it. His own method, which he calls the method of science, rests on the hypothesis that reality does not bend to anyone's opinion.
 
-Addams makes the same point from the ground. Twenty Years at Hull-House records her discovery that the settlement's plans for its neighbours kept failing until the neighbours were in the room ([Addams 1910, Gutenberg](https://www.gutenberg.org/ebooks/2396)). Thinking about people without them is not thinking — it is guessing dressed up as expertise.
+> "There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Charles Peirce, "The Fixation of Belief", 1877, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-> "There are Real things, whose characters are entirely independent of our opinions about them... and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion." (Charles Peirce, "The Fixation of Belief", 1877, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
+The sentence says "any man", which makes the conclusion open to anyone's check and not private to the thinker. Two people with different sensations are still supposed to arrive at the same answer if they reason long enough.
 
-**Plain words** A single mind has a blind spot it cannot see from the inside. This is not a character flaw — it is just what being one mind does. The checking circle is not there to make you feel supported; it is there to be the pair of eyes you do not own. Every serious discipline has one: peer review, replication, co-authors, master-apprentice. If your current thinking has no one who can tell you it is wrong, you do not have a stronger view — you have an unchallenged one.
+Jane Addams gives a practical case in *Twenty Years at Hull-House*. After describing early civic efforts, she writes that "nothing brought us so absolutely into comradeship with our neighbors as mutual and sustained effort such as the paving of a street, the closing of a gambling house, or the restoration of a veteran police sergeant" ([Addams, *Twenty Years at Hull-House*, Project Gutenberg](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
 
-*For example:* Two founders pitch the same business. One shows it to three smart friends and gets the plan shredded in twenty minutes. The other keeps it private for eighteen months and signs a loan. Both believed in the idea equally; only one of them had a chance to find out they were wrong while it was still cheap.
+**Plain words** One mind has blind spots it cannot see from the inside, and that is just what being one mind is like. Peirce's method asks that your conclusion could be checked by anyone with enough experience and reason. In practice that means asking someone who can tell you that you are wrong.
+
+*For example:* Two people pitch the same business idea. One shows it to three sharp friends and hears the problems in twenty minutes. The other keeps it to herself for a year and a half. The first has had a chance to find an error early, while it is still cheap to fix. This is my illustration, not Peirce's.
+
+## Sources
+
+- [Charles S. Peirce, "The Fixation of Belief" (1877), Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief): both quotations.
+- [Jane Addams, Twenty Years at Hull-House (1910), Project Gutenberg](https://www.gutenberg.org/cache/epub/1325/pg1325.txt): the comradeship sentence, from her account of early civic cooperation.
 
 ## Stories
 
