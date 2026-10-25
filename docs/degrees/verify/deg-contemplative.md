@@ -1407,3 +1407,16 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   institutional (GloPhi) pages; coverage corroborated by the host event
   page and rests otherwise on the uploader description — confirm against
   the recording before scheduling.
+
+### M01-D05 resolution (2026-10-25 10:36Z, supervisor launcher-pplx-1025n)
+
+FALSE POSITIVE — the replace-import flag is withdrawn. The live
+fcAcademyData record carries youtube_id u2PT1hIjp8g (NOT the
+u2PT1hIjp8U transcribed in the deg-verify-b notes above); the oembed
+for u2PT1hIjp8g returns 200 with title "Lectures to Blow Your Mind
+with Dr. Alan Fox: Daoism Part 1- Being versus Becoming", author
+Alan Fox, channel @weiwuwei07 — the video is available and the record
+identity (title/presenter/channel) is confirmed against the live
+oembed. No replacement import needed; no site change made. Lesson
+recorded for verify passes: re-read the ID from the record, not from
+notes, before declaring a dead link.
