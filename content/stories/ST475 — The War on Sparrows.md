@@ -26,7 +26,7 @@ The 2025 study by Frank, Wang, Wang, Wang and You put numbers on the answer the 
 
 In yield terms, the study found that "after sparrow eradication, a one-standard-deviation increase in sparrow suitability led to 5.3% larger rice and 8.7% larger wheat declines" ([NBER w34087](https://www.nber.org/papers/w34087)); in the Chicago insight's summary, the sparrow killing "can account for 19.6 percent of the national crop yield reduction during the Great Famine," with "the loss of nearly 2 million lives" ([University of Chicago insight](https://climate.uchicago.edu/insights/campaigning-for-extinction-eradication-of-sparrows-and-the-great-famine-in-china/)).
 
-My reading: Laozi's warning in D133 runs through a kingdom, and the logic covers any system that answers back ([DDJ 29, Legge](https://www.sacred-texts.com/tao/taote.htm)):
+My reading: [[T012 — Laozi|Laozi]]'s warning in D133 runs through a kingdom, and the logic covers any system that answers back ([DDJ 29, Legge](https://www.sacred-texts.com/tao/taote.htm)):
 
 > "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it."
 

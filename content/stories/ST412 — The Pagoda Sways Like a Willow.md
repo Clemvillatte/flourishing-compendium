@@ -22,7 +22,7 @@ The final mechanism is the thick central pillar, the *shinbashira*. If one of th
 
 (Ueda Atsushi, NIPPONIA, 2005.)
 
-Read alongside D156, Ueda's account illustrates the principle. The principle quotes Laozi's Daodejing 76: "Man at his birth is supple and weak; at his death, firm and strong. (So it is with) all things. Trees and plants, in their early growth, are soft and brittle; at their death, dry and withered." The pagoda lives on the supple side of that contrast: it moves, snake-dances, and the pillar keeps the movement from becoming collapse.
+Read alongside D156, Ueda's account illustrates the principle. The principle quotes [[T012 — Laozi|Laozi]]'s Daodejing 76: "Man at his birth is supple and weak; at his death, firm and strong. (So it is with) all things. Trees and plants, in their early growth, are soft and brittle; at their death, dry and withered." The pagoda lives on the supple side of that contrast: it moves, snake-dances, and the pillar keeps the movement from becoming collapse.
 
 **Principles:**
 - [[D156 — Stay flexible — rigidity is death's companion|D156 Stay flexible — rigidity is death's companion]] — the pagoda survives by bending with the shaking while the pillar holds it to center, the article's own contrast with the oak-like stone tower.
