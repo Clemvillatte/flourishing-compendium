@@ -17989,7 +17989,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "A life spends itself making things: meals, sentences, friendships, children, institutions, a character. I find the question surfacing on ordinary days: why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?"
+          "x": "A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?"
         },
         {
           "t": "p",
