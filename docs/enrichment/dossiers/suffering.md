@@ -38,7 +38,7 @@ The daily form matters because the arrows of an ordinary week are small enough t
 
 The Stoics drew the same line. [Judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm) is Epictetus, Enchiridion 5, and the wording is worth having exactly:
 
-> "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing." (Epictetus, [Enchiridion 5, Perseus translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:5/?right=perseus-eng4))
+> "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing." (Epictetus, [Enchiridion 5, Perseus translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:5/?right=perseus-eng4); same wording in the [George Long 1877 text on Wikisource](https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual))
 
 The two traditions agree on the line and differ on the work. The Buddhist version works on craving and the reflexes of the mind; the Stoic version works on assent, the moment I sign off on the reading of an event. A person can try each and keep the one that fits their case.
 

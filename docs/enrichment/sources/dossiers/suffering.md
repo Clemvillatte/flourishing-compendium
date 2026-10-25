@@ -524,3 +524,29 @@ wording, span absent) and Wikisource's Long translation (fetch error).
 Next pass: try the Perseus Hopper text server or the ScaifeCTS API for
 tlg0557.tlg002.pers-eng. No dossier text change needed; span not
 verified this pass.
+
+## Enchiridion 5 span machine-verified via Wikisource carrier (2026-10-25, worker-pplx-dos30-1025aa, baton dos30)
+
+Follow-up to the 11:10Z hand-off ("Next pass: try the Perseus Hopper text
+server or the ScaifeCTS API"). The ScaifeCTS API host did not respond and
+scaife.perseus.org serves an Anubis bot challenge to plain fetches, but the
+suggested goal — a fetchable carrier carrying the same Long wording — was
+met elsewhere: the George Long 1877 text on Wikisource,
+https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual
+(fetched raw with a plain curl this session, 210,655 bytes, server-rendered
+text). The full dossier span is verbatim on that page, punctuation
+included ("...the things: for example, ... for if it were, it would have
+seemed so to Socrates; for the opinion about death, that it is terrible,
+is the terrible thing."), matching the Scaife perseus-eng3 wording the
+dossier already carried. The Gutenberg #10661 Long text was also opened
+raw: same wording with minor punctuation differences (semicolon for the
+colon, no comma after "were" or around "that it is terrible"), so the
+Wikisource page is the closer match and is the carrier now added to the
+quote's attribution (the Scaise link stays as the primary carrier; the
+Wikisource link is added as a same-wording second carrier). Dossier edit:
+one attribution line, no quote text changed. Gates: dossier_check OK
+(53 card links, 19 headers, 27 external carriers); density 0 dense;
+quote_verify 22 checked / 0 not found — the last standing flag on this
+dossier is cleared and now machine-verifies. Suffering is published, so
+the site data does not change until a supervisor rebuild: FLAGGED,
+re-splice suffering when convenient.
