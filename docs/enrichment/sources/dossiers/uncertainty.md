@@ -153,3 +153,39 @@ opened and are not cited.
 
 Checks: dossier_check exit 0 (45 card links, 15 headers). SUPERVISOR:
 re-splice uncertainty; registry untouched.
+
+## Full-span hand-verification (2026-10-25, worker-7fbdff24, baton dos11; clock readings 12:27:31Z claim, 12:28:32Z gates)
+
+The supervisor's review row for uncertainty carried "prose sampled, not
+a full-body read"; this pass closes that gap. The whole 130-line
+dossier was read end to end; all quoted spans verified this pass
+(seven spans, raw-text string matches unless noted):
+
+- Keats, Negative Capability letter (Gutenberg 35698, raw HTML): the
+  "Negative Capability , that is..." span VERBATIM, including the
+  space before the comma as printed in the carrier.
+- Epictetus, Enchiridion 1 (MIT Classics Carter, raw HTML): the
+  dichotomy-of-control span VERBATIM, plus the relayed inline "no one
+  will ever compel you or restrain you" VERBATIM in the same carrier.
+- Knight, Risk, Uncertainty, and Profit III.VIII (Econlib, raw HTML):
+  the risk-vs-uncertainty span VERBATIM.
+- IUM abstract (PMC5088195, live page via the session fetch tool —
+  plain curl is bot-walled; the supervisor's 11:37Z Europe PMC
+  resolution confirmed independently): the IUM span VERBATIM.
+- Ramsey, Truth and Probability (fitelson.org PDF, direct download +
+  pdftotext extraction, string match): both spans VERBATIM — the
+  "degree of a belief is a causal property" span and the "beliefs do
+  differ in measurability" span.
+
+Gates (12:28:32Z read clock): dossier_check exit 0 (45 card links, 15
+headers, 6 carriers); density 24 paragraphs, 0 dense; quote_verify
+6 checked / 0 not found.
+
+Reader-level notes: the intro states the theme's question plainly;
+the Knight-Ramsey section marks the pairing as the writer's own
+framing ("pairing them is my framing and not either author's") and
+carries honest reading limits ("I read Knight's chapter text and
+Ramsey's paper only for these passages"); the practice section flags
+that several kernels are untested proposals. No voice or structure
+defects found; no text change owed. Full-span hand-verification
+item: CLOSED.
