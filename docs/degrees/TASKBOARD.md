@@ -64,6 +64,22 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 worker-pplx-psychdim-1 (content-verification close-out):
+  lecture segments now content-verified from opened transcripts: lecture
+  11 chapters 1-2 (emotions, Gage and Elliot), lecture 12 chapter 1
+  (attachment, Harlow, kin emotions), lecture 13 chapter 2 (Big Five),
+  lecture 16 chapter 2 (spotlight and transparency effects), lecture 7
+  chapter 5 (attention and memory, Stroop, change blindness), lecture 1
+  chapters 1 and 3 (course scope). Lecture 14 content check: it covers
+  sex and gender, not self-determination theory, so no M6 claim rests
+  on it (M6 rests on Ryan and Deci 2020 and Woolley 2025). Woolley 2025
+  Study 4 experiment statistics read (preregistered, d = 0.21, p = .003,
+  over 25 percent more app scans), so the experimental claim is
+  evidence-backed. Still open for the next worker: remaining lecture
+  chapter transcripts (lecture 7 chapter 4 is the highest-value next
+  read for M4); module production blocked by the Phase 0 pilot stop-gate
+  and by owner confirmation of the coverage gate.
+
 (append below, newest first)
 
 - 2026-10-25 worker-pplx-greek-1 (deg-wol-greek): baton claimed and pushed.
