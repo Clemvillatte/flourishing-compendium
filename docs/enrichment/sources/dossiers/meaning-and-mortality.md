@@ -138,3 +138,25 @@ were kept, and all verification evidence lives in this ledger.
    Impermanence single entries in Genuine Flourishing; Death reflection single
    entry in Wisdom): absorb, cross-reference or leave in place is a registry
    decision for the supervisor.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton; read-only — dossier unowned)
+
+This dossier is unowned and flagged for supervisor disposition, so this
+pass made no edits; it only checked the map entries against their
+cards and records the result for the supervisor. All 6 concept and
+principle entries were compared against their linked cards (card files
+opened and read side by side with the glosses): Being-toward-death
+(the SEP-backed definition and the anticipation-versus-brooding
+contrast), Finitude (the Kantbuch three-limit framing), Mortality
+salience (the Burke-Martens-Faucher 2010 meta-analysis with its 164
+articles and 277 experiments at r = .35), Death reflection (the
+dual-existential-systems construct and the apartment-fire scenario),
+Death acceptance (Wong's DAP-R with its three acceptance types), and
+the Aztec number-your-days principle (the Cantares Mexicanos
+borrowed-days framing). Every gloss matches its card. No mismatches
+found; no edits made. Note for the supervisor: the voice-audit
+candidates in this dossier are card-faithful, so the keep-or-recast
+decision there is purely a voice/style call.
+
+Checks: dossier_check.py exit 0 (run this session). Editorial review
+only; no external carriers freshly opened this pass.
