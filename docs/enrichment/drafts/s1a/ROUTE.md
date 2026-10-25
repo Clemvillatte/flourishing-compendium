@@ -400,3 +400,27 @@ decisions for the supervisor:
 - s1a-063 (Milton): Book III locator corrected (III.40-46, was III.40-43),
   recounted against the raw text; s1a-068: MN 10 fetched and opened this
   round, the three hindrance correspondences hold; no decisions needed.
+
+2026-10-25 15:19Z storyteller-pplx-s1a-1026a: advisor round-5 repairs:
+
+- s1a-074 (Pepys): D060 mapping now WITHDRAWN outright (the entry does
+  not establish the fire was small or controllable at three, so the
+  inversion cannot carry the page's central instruction); narrative
+  retained for your decision, like s1a-071.
+- s1a-073 (cellist): the motivation material removed entirely (the BBC
+  and Irish Times interviews were never opened); the draft rests on the
+  performance narrative alone. B156 proposal unchanged, final call yours.
+- s1a-070 (monkey keeper): target-principles set to D083 and the D124
+  wikilink removed from the Principles section, so registration cannot
+  create D124 coverage (story_register.py, read only, builds backlinks
+  from the Principles links); the D124 withdrawal stays in QC/ROUTE.
+- s1a-072 (wolves): the popular-narrative quote's capitalization
+  restored to the page's own ("More plants meant..." / "And more
+  beavers..."), the ledger date span restored to the page's en-dash,
+  and the interdependence sentence now cites Marshall et al. inline with
+  their supported formulation; no supervisor decision needed.
+- s1a-075 (Rohini): "the reframe landing" replaced with the account's
+  own sequence (followed by the kings' silence); chronology sentence
+  cited; fit vs s1a-070 still routed as before.
+- s1a-063 (Milton): the in-text "Shine inward" locator corrected to
+  III.52 and the Sources bullet to III.40-46; no decision needed.
