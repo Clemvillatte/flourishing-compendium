@@ -199,12 +199,12 @@
  },
  "K127": {
   "mods": [
-   "CBT"
+   "general"
   ],
   "evidence": [
    [
-    "card body: \"Cognitive reappraisal is a form of cognitive change that involves construing a potentially emotion-eliciting situation in a way that changes its emotional impact\" (CBT-family cognitive-change practice)",
-    "CBT"
+    "ADVISOR CORRECTION: card cites Gross & John (emotion regulation research), not CBT; the CBT classification was familiarity-based, not card-attributed; reverted to general",
+    "general"
    ]
   ]
  },
