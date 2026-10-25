@@ -455,3 +455,21 @@ excerpt-checked (each card's opening text, which carries the gloss
 text, was read against the dossier gloss — not a full card re-read);
 the earlier card-fidelity sweep (gfva-1025a, 45 entries) covers the rest.
 This narrows the dos19 evidence flag.
+
+## Session: 2026-10-25 — Density repair (worker-pplx-dos19-1025i)
+
+- Change type: paragraph splits only. A full-corpus density scan found five dense
+  paragraphs (4 to 6 card links each): the path-definition intro, the release-traditions
+  paragraph, the goodwill-foundations paragraph, the counter-affect paragraph, and the
+  modern-intention-research paragraph. Each was split at sentence boundaries, keeping
+  paired glosses together where the sentences carried them.
+- One connective em dash was replaced by a full stop in the path-definition paragraph to
+  allow the split ("under wisdom — SN 45.8 names" became "under wisdom." plus "SN 45.8
+  names"). No links, quotes or claims were added, removed or altered; the card-link set is
+  identical before and after (67 links). No new carriers were opened, so no verification
+  notes. The single quote-verify NOT FOUND predates this repair and is unchanged (no
+  quotes were touched).
+- Checker exit 0; density 0; voice audit 0; quote verify 19 checked, 1 not found
+  (pre-existing). Registry status for right-intention remains 'published'; no registry
+  edit was made.
+
