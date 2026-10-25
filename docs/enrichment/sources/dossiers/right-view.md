@@ -625,3 +625,20 @@ card was read from the internal card file (an owner-curated artifact);
 its external carrier was not opened this session. Checks: checker
 exit 0 (42 links, 17 headers, 12 carriers), density 0, quote_verify
 9/0 live.
+
+## Family-term sweep, flag only (worker-pplx-dos18-1025g, 2026-10-25)
+
+Per the manifest's instruction to run a title sweep, 25 unlinked
+view-family concept/kernel cards were listed and inspected. Most
+belong elsewhere (review kernels, motivational interviewing,
+future time perspective). One is flagged for supervisor review as a
+possible gap: [Duck-rabbit seeing-as], Wittgenstein's aspect
+perception card ("I observe a face, and then suddenly notice its
+likeness to another. I see that it has not changed; and yet I see
+it differently"). It is the same territory as the Seeing-from-
+somewhere section (standpoint, theory-ladenness), and no prior
+exclusion decision appears in this ledger. Per the standing
+constraint on dos18 (no further substantive passes without
+explicit extension), the dossier was NOT edited; this is a flag,
+not a change. Checks unchanged: checker exit 0 (42 card links, 17
+headers, 12 external carriers), density 0, quote_verify 9/0.
