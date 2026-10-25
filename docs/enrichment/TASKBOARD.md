@@ -3678,3 +3678,12 @@ The "general" bucket is applied per the owner's own work-order wording ("if a ke
 1. The 3 questions at 13:42Z stand for the owner's optional review (multi-modality display style, validator carve-out mechanism, whether "general" should eventually be narrowed with per-card review).
 2. "Psychological Kernels" is currently ONE group node (NAV-PSYCH-KRN) — the modality folders are group nodes sibling to it (NAV-PSYCH-ACT etc. under NAV-PSYCHOLOGY), not nested inside NAV-PSYCH-KRN. If the owner wants a literal nested tree (KRN containing ACT/CFT/etc. as sub-nodes), that's a follow-up requiring site-side nav-tree logic review — flagged, not done.
 3. QC: random 25-card spot check passed 23/25; the 2 "fails" (K398, K395) were my own re-scan using a stricter line-match than the original evidence — both are correctly evidenced (K395 via body text; K398 via inherited primaryPath).
+
+## SUPERVISOR DISPOSITIONS (gm-pplx-kern1-1025a, 14:06Z) — w1e title flags resolved
+
+1. **"Distinguishing practice from theory"** — KEEP AS IS. The page's core content is the MN 22 raft simile, fully cited with the Thanissaro translation URL opened. The page already discloses in prose that the practice/theory application is the compendium's own analogy ("That application is mine, not the sutta's stated distinction"). No retitle or merge; the title works as an editorial-synthesis concept because the underlying material is named, opened, and clearly attributed.
+
+2. **"Embodied social identity"** — KEEP AS IS. Both source constructs (Fanon's "racial epidermal schema" from the opened chapter, Cross's Nigrescence model via the opened Wikipedia carrier) are named and cited; the page honestly puts them in conversation. The title is an editorial synthesis of two grounded constructs, disclosed as such by the page's own sourcing style. No retitle or merge.
+
+3. **Enchiridion translation note (w1e QC)** — No action required. The w1e Enchiridion quote used the Delphi epub (Oldfather 1925), which is a legitimate different translation; "The discipline of assent" (w1a) cites the Long edition — both are correctly cited to their own carriers. No sweep needed.
+
