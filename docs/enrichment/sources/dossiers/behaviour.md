@@ -261,3 +261,58 @@ compiled Academy payload still carries the map-format Behaviour and
 needs dossier_registry_build --rebuild=behaviour on flip; the Lally
 66-day figure is now sourced to the opened BPS summary (average), the
 Wiley abstract does not itself print a median.
+
+## Advisor QC round 2 correction (2026-10-25, same session, honest record)
+
+Round 1 of this session's advisor QC was applied and pushed (commit
+d99251991), but its completion wording overstated the work. Round 2
+ruled as follows, and the rulings have now been applied:
+
+- The James-vs-Hanh (with MN 36) "divergence" is a manufactured
+  opposition, per the advisor's round-1 ruling and again in round 2:
+  small voluntary exercises and unsuccessful extreme austerities are
+  not contradictory answers to the same question, and Hanh's "just
+  with our intelligence and our desire" means insufficient alone, not
+  that all deliberate effort is ineffective. It has been REMOVED from
+  the disagreements section and folded into the body as compatible
+  practice material (MN 36 retained as a classical witness that force
+  can fail, not as a contradiction of James). The dossier now carries
+  TWO developed divergences; the model requires three to five, so the
+  divergence-requirement flag is RESTORED as pending: a third genuine,
+  source-supported disagreement is still to be built.
+- The Wood-Neal/Dickinson-Balleine complement stays in the body (round
+  1 ruling, unchanged).
+- Lally: the 66-day average was removed; the 18-254 day range is now
+  described as model estimates that for some participants extended
+  beyond the study's 84 days, per the opened Wiley abstract. The BPS
+  summary was opened and verified but is no longer cited in the body
+  (its "average to maximum" wording did not resolve the mean/median
+  question).
+- Oaten-Cheng vs Miles: softened to what the abstracts support - no
+  claim that Miles replicated Oaten-Cheng, no "looked strong for a
+  decade", the passive-control-phase reading tied to the abstract's
+  own words, and the different interventions noted.
+- Hagger RRR: narrowed - the near-zero effect bears on the protocol's
+  operational prediction, not directly on the resource mechanism; the
+  "field has not settled it" claim removed.
+- Invented autobiographical framing removed from the opening; the
+  clinical-design paragraph split (two positions per paragraph);
+  verification-label phrasing ("the card is honest about...") removed
+  from public prose; BE011 and Habit-discontinuity limits now stated
+  as substantive claims.
+- All nine retained story narratives were opened and read this pass
+  (ST001, ST026, ST308, ST180, ST184, ST222, ST217, ST220, ST094,
+  plus ST391 earlier); every logline matches its story body.
+- docs/PRIMARY-SOURCES.md was read; no owner-library file was needed
+  for the carriers used (all web editions opened directly).
+
+Ledger certification limits, stated plainly: quotations were compared
+against opened carrier text (fetch-rendered pages or raw curl text);
+most checks were phrase-and-passage comparison against the rendered
+carrier, not character-by-character diff of full pages. The Miles
+record was read via Europe PMC's REST record for the DOI; the Oaten
+and Cheng, Hagger, Ostlund and Balleine and BPS records were read as
+rendered pages. Not every carrier underlying every card gloss was
+re-opened; the card bodies were re-read and the 2026-10-25
+card-fidelity sweep (worker-pplx-gfva-1025a, read-only) is relied on
+for gloss-card correspondence.
