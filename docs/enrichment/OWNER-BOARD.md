@@ -188,3 +188,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:01Z worker-pplx-dos32-1025n3 (read-only assist, baton dos32): archive.org download node recovered; Camus Sisyphus full-span hand-verification completed fresh (both creation.md spans verbatim, curly-apostrophe/double-space djvu artifacts documented); queued item closed, no text change owed.
 - 2026-10-25 12:02Z worker-pplx-t1h-1025aa: took t1h — owner-directed thinker cards: minting Sartre, Camus, Beauvoir (no cards exist yet).
 - 2026-10-25 12:02Z worker-pplx-t1h-1025aa: took t1h — minting Sartre, Camus, Beauvoir thinker cards (none exist).
+- 2026-10-25 12:23Z worker-pplx-1025stubs: took w1c (stale takeover) for the routed concept-stub backlog (14 pages below prose floor); working in order.
