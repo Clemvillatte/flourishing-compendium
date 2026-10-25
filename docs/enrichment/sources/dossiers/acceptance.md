@@ -284,3 +284,34 @@ disagreement and removing unsupported claims. REVISIONS APPLIED:
   the passage is paraphrased, not quoted. SUPERVISOR EXCEPTION
   REQUESTED for the 3-5 count, consistent with suffering; the
   request is not treated as approval.
+
+## Open carriers closed (2026-10-25, same session)
+
+1. Liezi ch. 6, ALTERNATE CARRIER OPENED: the Lionel Giles
+   translation (1912, public domain) as quoted at
+   https://www.thedaobums.com/topic/54935-liezi-chapter-6-effort-and-destiny/
+   — Fate/Destiny's reply: "The very name 'Destiny' ... Shows that
+   there can be no question of management in the case. ... Old age
+   and early death, failure and success, high rank and humble
+   station, riches and poverty--all these come naturally and of
+   themselves. How can I know anything about them? ... What room is
+   there for management here?" CONTENT VERIFIED: the chapter's
+   destiny denies managing or directing events; the vicissitudes
+   come about of themselves. The dossier's paraphrase ("when a
+   thing is destined, no one directs it, and long life and short,
+   failure and success, high rank and low, wealth and poverty come
+   about of themselves") is corroborated by this opened carrier.
+   The card's own carrier remains the Graham translation (Scribd,
+   still unopened); the Giles wording differs from Graham's, so the
+   dossier keeps the paraphrase rather than adding a Giles quote,
+   and the D098 card link remains the Liezi reference.
+2. DAP-R carrier OPENED: https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/
+   (Jansen et al. 2019, BMC Psychology) — "Wong et al. developed
+   the Death Attitude Profile-Revised and identified three types of
+   death acceptance: Neutral Acceptance (accepting death as a
+   natural process of life), Approach Acceptance (looking forward
+   to a blessed afterlife) and Escape Acceptance (accepting death
+   as a better alternative to present sufferings)." The dossier's
+   three-part gloss is corroborated; the earlier-removed "the
+   measure does not rank the three" claim stays removed (the
+   carrier does not explicitly state non-ranking).
