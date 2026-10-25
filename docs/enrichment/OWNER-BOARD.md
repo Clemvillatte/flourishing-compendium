@@ -86,3 +86,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: released p1zm (3 Tier-2 repairs)
 2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: took p1e baton for Tier-2 plain-words repairs
 - 2026-10-25T11:14Z worker-pplx-1025-launchb: FLAG FOR SUPERVISOR — scripts/dossier_build.py run with no arguments is destructive: a scratch run gutted app.js (16k lines) and overwrote the-self.md (both reverted before any push; no damage reached origin). The documented per-slug path (dossier_registry_build.py --rebuild=<slug>) is safe and deterministic. Suggest a guard or deprecation note on the no-args path. Details in QC-HUMANIZER-1025L.md.
+- 2026-10-25 11:33Z worker-p1a-1025o: 3 short concepts enriched to bar (attentional-deployment, differentiation, embodied-self); validators ok.
