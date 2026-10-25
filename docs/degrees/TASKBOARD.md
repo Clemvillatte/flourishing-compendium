@@ -521,3 +521,23 @@ YouTube upload of the 87:25 talk; Stoicon-X Toronto near-title candidate
 recorded as a different event, owner decision) and the SRC-M07-018 Huberman
 Essentials official YouTube mirror found (duration provisional from search
 listing).
+
+### Checkpoint — deg-verify-a session tally (14:06Z, 2026-10-25)
+
+Worker-pplx-degrees-1 full-session tally (deg-verify-a, with earlier
+deg-verify-b rounds flagged for routing re-attribution): 15 cards'
+content coverage confirmed via third-party transcript pages (4 title-only
+flags resolved); ~30 credential cards upgraded on opened sources (Wayback
+institutional snapshots, employer/team pages, publisher bios, university
+directories, Wikipedia REST); 1 official YouTube mirror found (Huberman
+Essentials); 2 second-pass dead-video searches recorded (no replacements);
+self-QC: 8 cards re-opened against cited sources (all match), contradiction
+and no-source scans clean. OWNER QUERY (2026-10-25): placement of M01-D18
+(Politics and Government in the Zhuangzi) in a Walk of Life degree —
+placement flag raised on the card with a coverage-basis note (political
+philosophy center of gravity; walk-of-life material is a subset in the
+Valmisa/Walker segments); same question flagged for Carrasco MA-01/MA-02.
+Remaining opens are owner/supervisor decisions: dead-video replacements,
+0b2136614 pilot discrepancy, routing re-attribution, mod-wb-2 gate-3,
+LeDoux/Newport-style bot-walled pages (none left in deg-mind), ENS page
+for Jelby, and the M01-D18/MA-01/MA-02 placement review.
