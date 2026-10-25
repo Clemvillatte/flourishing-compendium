@@ -274,3 +274,20 @@ Restored three missing sentence periods after source citations (the
 pre-existing ")) Capital" gaps flagged in commit 25e13407): right-effort
 SN 45.8 and AN 6.55 blockquotes, right-speech Bhagavad Gita 17.15
 blockquote. No quoted text, links, or content changed. Checker passes.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos23 baton)
+
+Reviewed all 7 candidates against the current file (fresh audit run).
+No scaffolds removed; all 7 flagged constructions carry the sources' own
+contrasts: line 18 (right effort defined by four directions rather
+than quantity — the sutta's definition), 26 (the middle path: neither
+indulgence nor mortification, both of which the Buddha tried first),
+50 (the lute string verbatim: neither too taut nor too loose), 74
+(the Stoic discipline of assent: impression as candidate for judgment,
+not judgment already made), 112 (the Variation's undifferentiated-push
+contrast), 120 (K193 run as a design review rather than willpower
+audit — the kernel's framing), 126 (B036's retune-rather-than-push
+instruction). Editorial review only; no carriers or cards freshly
+opened this pass.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review.
