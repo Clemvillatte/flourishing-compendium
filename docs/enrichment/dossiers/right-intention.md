@@ -57,7 +57,7 @@ My positive rendering is refusing to add suffering. The Stoic and modern entries
 
 [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa) is the Indic principle of non-harm; I read it as a starting floor: whatever else a practice does, it begins by doing no injury. Two modern practices take non-harm as their subject: [nonviolent action](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20action) is Gene Sharp's theory of power and his documented methods, and [nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions.
 
-The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm) is the Stoic position that events do not disturb people, the opinions about the events do (Enchiridion 5), which I connect editorially to the harmlessness resolve. And [the inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself.
+The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5) — a claim I connect editorially to the harmlessness resolve. And [the inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself.
 
 ## How the resolve is trained
 
