@@ -36,47 +36,29 @@ The tendency to stick with a current or previous choice more often than a neutra
 
 The finding that bad events have more psychological impact than good ones of similar size is [negativity bias](https://clemvillatte.github.io/flourishing-compendium/#card=Negativity%20bias). Drawing conclusions from what made it through a selection process while overlooking what did not is [survivorship bias](https://clemvillatte.github.io/flourishing-compendium/#card=Survivorship%20bias).
 
-### Overconfidence and holding on
+### What overconfidence does, and why people hold on
 
-[Overconfidence effects](https://clemvillatte.github.io/flourishing-compendium/#card=Overconfidence%20effects): the family of biases in which people rate themselves, their performance or their knowledge too highly.
+The family of biases in which people rate themselves, their performance or their knowledge too highly is [overconfidence effects](https://clemvillatte.github.io/flourishing-compendium/#card=Overconfidence%20effects). The confident belief that your project will run as planned, held even while you know that most similar projects ran late, is the [planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy).
 
-[Planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy): the confident belief that your project will run as planned, held even while you know that most similar projects ran late.
+The finding that people rate their own chances of good events as above average and of bad events as below average is [unrealistic optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Optimism%20bias%20unrealistic%20optimism). The finding that people see outcomes as more predictable after they know how things turned out is [hindsight bias](https://clemvillatte.github.io/flourishing-compendium/#card=Hindsight%20bias).
 
-[Optimism bias unrealistic optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Optimism%20bias%20unrealistic%20optimism): people rate their own chances of good events as above average and of bad events as below average.
+The tendency to search for, interpret, favor and recall information in a way that confirms what one already believes is [confirmation bias](https://clemvillatte.github.io/flourishing-compendium/#card=Confirmation%20bias). The finding that people see biases operating in everyone but themselves is the [bias blind spot](https://clemvillatte.github.io/flourishing-compendium/#card=Bias%20blind%20spot).
 
-[Hindsight bias](https://clemvillatte.github.io/flourishing-compendium/#card=Hindsight%20bias): people see outcomes as more predictable after they know how things turned out.
+The tendency to let spent money, effort or time steer present decisions is the [sunk cost effect](https://clemvillatte.github.io/flourishing-compendium/#card=Sunk%20cost%20effect). The tendency to keep investing in a course of action that is going badly is [escalation of commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Escalation%20of%20commitment), and the systematic error people make when predicting their own future feelings is [impact bias](https://clemvillatte.github.io/flourishing-compendium/#card=Impact%20bias).
 
-[Confirmation bias](https://clemvillatte.github.io/flourishing-compendium/#card=Confirmation%20bias): the tendency to search for, interpret, favor and recall information in a way that confirms what one already believes.
+### Where intuition fits in judgment
 
-[Bias blind spot](https://clemvillatte.github.io/flourishing-compendium/#card=Bias%20blind%20spot): people see biases operating in everyone but themselves.
+Klein's account of how experienced decision-makers act fast under pressure is the [recognition-primed decision model](https://clemvillatte.github.io/flourishing-compendium/#card=Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29). The research that asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains is [moral intuition research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20intuition%20research).
 
-[Sunk cost effect](https://clemvillatte.github.io/flourishing-compendium/#card=Sunk%20cost%20effect): the tendency to let spent money, effort or time steer present decisions.
+Haidt's 2001 account, in which moral intuitions come first and reasoning is usually post-hoc, is the [social intuitionist model](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20intuitionist%20model%20%28Haidt%29). Bergson's setting of intuition against analysis as two ways of knowing a thing is [intuition as method](https://clemvillatte.github.io/flourishing-compendium/#card=Intuition%20as%20method).
 
-[Escalation of commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Escalation%20of%20commitment): the tendency to keep investing in a course of action that is going badly.
+Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions is [risk literacy](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20literacy). The study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies is [risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception).
 
-[Impact bias](https://clemvillatte.github.io/flourishing-compendium/#card=Impact%20bias): the systematic error people make when predicting their own future feelings.
+### What too many options do
 
-### Intuition and judgment
+The finding that more options degrade satisfaction and decision quality (Iyengar and Lepper, 2000; Schwartz, 2004) is [choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload). The idea that having more options can leave people worse off, not better, is the [paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice).
 
-[Expert intuition (Klein's recognition-primed decision model)](https://clemvillatte.github.io/flourishing-compendium/#card=Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Klein's account of how experienced decision-makers act fast under pressure.
-
-[Moral intuition research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20intuition%20research): asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains.
-
-[Social intuitionist model (Haidt)](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20intuitionist%20model%20%28Haidt%29): Haidt's 2001 account: moral intuitions come first, and reasoning is usually post-hoc.
-
-[Intuition as method](https://clemvillatte.github.io/flourishing-compendium/#card=Intuition%20as%20method): Bergson sets intuition against analysis as two ways of knowing a thing.
-
-[Risk literacy](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions.
-
-[Risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies.
-
-### Too many options
-
-[Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload): more options degrade satisfaction and decision quality (Iyengar and Lepper, 2000; Schwartz, 2004).
-
-[Paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice): the idea that having more options can leave people worse off, not better.
-
-[Maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice.
+The two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice are [maximizing versus satisficing](https://clemvillatte.github.io/flourishing-compendium/#card=Maximizing%20versus%20satisficing).
 
 ### Designing the choice
 
