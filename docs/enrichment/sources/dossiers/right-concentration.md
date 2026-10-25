@@ -221,3 +221,38 @@ contradictory simile removed; the clause now reads "a capacity
 tuned like an instrument and reachable inside ordinary life", with
 "protectable" already carried by the thesis sentence; nothing else
 changed.
+
+## Verification pass (2026-10-25, worker-pplx-dos25-1025c)
+
+Fresh raw verification of the two external carriers, both on the
+Wikipedia Samadhi article the page cites:
+
+1. Buddhaghosa (Visuddhimagga) definition: the article's raw HTML was
+   fetched and the quote "the state in virtue of which consciousness
+   and its concomitants remain evenly and rightly on a single object,
+   undistracted and unscattered" is verbatim in it.
+
+2. Shankman passages: the same raw HTML carries "The term samadhi
+   basically means 'undistractedness'", "an exclusive focus on a
+   single object", "a broader state of awareness in which the mind
+   remains steady and unmoving, yet aware of a wide range of phenomena
+   around the meditation object", and the citt'ekaggata renderings
+   "one-pointedness" and "unification of mind" (the dossier's
+   "basically means 'undistractedness'" fragment matches the raw
+   sentence; the raw text uses escaped typographic quotes in the HTML
+   source).
+
+Card-fidelity spot-check of six fact-bearing glosses against their
+card files: Right concentration (DN 2 fourth jhana phrase), B028 (MN
+118 breath steps; the card's wording is "I will breathe in steadying
+the mind"), B036 (Sona Sutta; the card says "neither too taut nor
+too loose" and "overly slack persistence leads to laziness"), Y021
+(Vyasa's five states), Equanimity (near-enemy warning), B095 (MN
+118's sensing-gladdening-releasing sequence; the card says
+"gladdening"). All claims carried on the cards in substance; the
+three initial grep misses were wording variants, not factual gaps.
+
+Checks: dossier_check.py exit 0 (61 card links, 20 headers, 3
+external carriers); dossier_voice_audit.py exit 0. No edits made to
+the dossier this pass. Batch state left as found (in_progress, slug
+right-concentration).
