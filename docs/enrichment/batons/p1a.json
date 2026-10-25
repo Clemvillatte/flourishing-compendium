@@ -81,5 +81,7 @@
    "from": "worker-p1a-promptskill-1024",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T00:39:07+00:00"
 }
