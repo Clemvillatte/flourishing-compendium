@@ -18,7 +18,7 @@ Here, M046 anchors its "cleverness joined to humility" reading in this research 
 ## Sources
 
 - [D'Zurilla, T. J., Nezu, A. M., & Maydeu-Olivares, A. (2004), Social Problem Solving: Theory and Assessment, in Chang, D'Zurilla & Sanna (eds.), Social Problem Solving: Theory, Research, and Training, APA, ch. 1 (author-hosted PDF)](https://www.ub.edu/gdne/documents/sps_chapter_in_APA_book.pdf) — the definition of the model, its four skills, and the impulsivity-carelessness style
-- D'Zurilla and Nezu's problem-solving research, as framework (original seed line)
+- D'Zurilla and Nezu's problem-solving research, as framework
 
 ## Cited in psychology parallels
 

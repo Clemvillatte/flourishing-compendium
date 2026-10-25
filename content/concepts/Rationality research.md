@@ -18,7 +18,7 @@ Here, A031 pairs the program with [[T002 — Aristotle|Aristotle]]'s synesis (un
 ## Sources
 
 - [Stanovich, K. E. (2010), Rationality and the Reflective Mind, Oxford University Press, book page and abstract (online edn. 2011)](https://academic.oup.com/book/5930) — the rationality-versus-intelligence separation, the tripartite model and the error-data claim
-- Stanovich, 2011 (original seed line)
+- Stanovich, 2011
 
 ## Cited in psychology parallels
 

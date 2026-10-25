@@ -13,13 +13,15 @@ Heidegger's name (Zuhandenheit) for the way equipment shows up when it is in use
 
 The contrast is presence-at-hand (Vorhandenheit): the same entity encountered as an independent object with measurable properties. That mode surfaces when skilled coping breaks down — when "a tool turns out to be damaged", attention is drawn to the equipment's material foundations and "pure occurrentness announces itself" (current [SEP Heidegger entry](https://plato.stanford.edu/entries/heidegger/), citing SZ 73).
 
+The two modes are two ways the same entity can show up. In use, the hammer is encountered as equipment, and the hammering itself uncovers its manipulability. When a tool turns out to be damaged, the same hammer shows up as a thing with properties, and pure occurrentness announces itself. The difference lies in the mode of encounter, which is what the two names mark.
+
 Here, E024 practises the contrast between engaged use and detached looking, and D056 reads skilled coping as the way the world's usable structure opens up.
 
 ## Sources
 
 - [Wheeler, M., "Martin Heidegger", Stanford Encyclopedia of Philosophy (winter 2016 archive)](https://plato.stanford.edu/archives/win2016/entries/heidegger/) — carrier of the verbatim Being and Time §15 hammer passage
 - [Wrathall, M., "Martin Heidegger", Stanford Encyclopedia of Philosophy (current edition)](https://plato.stanford.edu/entries/heidegger/) — the presence-at-hand contrast and the breakdown passages (SZ 61, SZ 73)
-- Heidegger, Being and Time (original seed line)
+- Heidegger, Being and Time
 
 ## Cited in philosophy parallels
 

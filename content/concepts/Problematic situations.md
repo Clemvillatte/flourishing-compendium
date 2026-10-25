@@ -22,7 +22,7 @@ Here, P046 treats problems as invitations and P149 treats instability as materia
 ## Sources
 
 - [Dewey, J. (1929), The Quest for Certainty, ch. VII and IX (Internet Archive scan)](https://archive.org/download/questforcertaint029410mbp/questforcertaint029410mbp_djvu.txt) — the inquiry-starts-from-a-problematic-situation passage and the situation-becomes-a-problem passage
-- Dewey, The Quest for Certainty (original seed line)
+- Dewey, The Quest for Certainty
 
 ## Cited in philosophy parallels
 
