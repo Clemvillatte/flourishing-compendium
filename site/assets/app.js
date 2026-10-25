@@ -1,13 +1,20 @@
 
 /* Browser-storage-backed FC_LS (with in-memory fallback for restricted contexts
- * such as sandboxed preview iframes). Resolves the storage object once via a
- * computed key so restricted contexts fail safe into the fallback instead of
- * throwing at load time. */
+ * such as sandboxed preview iframes). Tests storage access once so restricted
+ * contexts fail safe into the fallback instead of throwing at load time. */
 const FC_LS = (function(){
   var mem = {};
-  /* preview build: no native storage access — always the in-memory adapter */
   var persistent = false;
   var st = null;
+  try {
+    st = window.localStorage;
+    var probe = '__fc_storage_probe__';
+    st.setItem(probe, '1');
+    st.removeItem(probe);
+    persistent = true;
+  } catch (_) {
+    st = null;
+  }
   if (persistent) {
     // Use real browser storage (persistent across sessions)
     return {

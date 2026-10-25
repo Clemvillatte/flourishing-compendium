@@ -9,3 +9,4 @@
 - Dossiers: Meaning & Mortality opens with the supplied artwork and working contents navigation.
 - Responsive: check reading at desktop and 375px, no horizontal overflow.
 - Cross-view card routing: open a #card=K136 link from Dossiers at 375px; Library must be visible with no stale academy-mode class.
+- Persistence: save a Randomiser card, reload, and verify the saved count remains. Restricted-storage contexts must keep working with the memory fallback.
