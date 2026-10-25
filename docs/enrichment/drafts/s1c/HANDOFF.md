@@ -76,3 +76,9 @@ recorded; please reconcile via story_state.py publish. (2) s1c-039 still awaits 
 disposition (reject vs retell). (3) The s1d lane also has two items for you: s1d-008/s1d-010
 duplicate-hold dispositions (evidence in the s1d HANDOFF) and the s1d-003=ST382 publish
 transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/036).
+
+## 2026-10-25 15:14Z — QC second pass (qc-storyteller-pplx-1025x)
+
+- Sampled five more s1c ready drafts this pass: 005, 014, 022, 023, 031 (with 002, 013, 024 from the earlier pass). All quotes VERBATIM against freshly downloaded or fetch-opened carriers. Notes appended to each draft.
+- Combined with the earlier pass: 8 of 38 s1c ready drafts QC-sampled. Remaining unsampled: 001, 003, 004, 006-012, 015-021, 025-030, 032-039.
+- No new flags this pass. Baton released after this save.
