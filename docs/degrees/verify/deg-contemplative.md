@@ -379,9 +379,81 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Relevant segment: whole lecture, 1:01:14.
 - Verification status: verified-video.
 
+## Block B optional batch 3 (verified 2026-10-25)
+
+### SRC-M22-YV04: Patanjali's Yoga Sutras 1, New Course (Swami Tattwamayananda)
+
+- Identity and access: oembed confirms the class on the Vedanta Society of Northern
+  California channel (https://www.youtube.com/watch?v=ekAHkiYflZQ).
+- Duration: 1:15:45 (watch page, 2026-10-25).
+- Instructor credentials: Swami Tattwamayananda, resident minister of the Vedanta
+  Society of Northern California (series hosted with the Stanford Hindu Students
+  Association, per the host description).
+- Language: English.
+- Content coverage: the host's description states the series teaches the Yoga
+  Sutras of Patanjali (195 sutras, four chapters) in the light of traditional
+  Sanskrit commentaries, including the psychology of samskaras and Ashtanga Yoga.
+  Note for the owner: the degree already carries this same teacher's class 1 from
+  the Vedanta Society of New York (M05-YV-01); this Stanford-hosted series is a
+  parallel course and the two class-1 recordings should not both be scheduled
+  without checking for redundancy.
+- Relevant segment: whole class, 1:15:45.
+- Verification status: verified-video.
+
+### SRC-M24-001: The Tonalamatl as Talking Book (James Maffie, Latinx Research Center)
+
+- Identity and access: oembed confirms the lecture on the Latinx Research Center
+  channel, UC Berkeley (https://www.youtube.com/watch?v=U_6FxS48GzU).
+- Duration: 1:57:13 (displayed duration, watch page, 2026-10-25). The record prints
+  1:19:12, which does not match the full recording; the owner should check whether
+  the record measured only the lecture before the discussion. Flagged to reconcile.
+- Instructor credentials: Dr James Maffie, scholar of Aztec Nahua philosophy (per
+  the host description); event hosted by the Latinx Research Center's Decolonial
+  Knowledges and Pluriversal University research group.
+- Language: English.
+- Content coverage: the host's description states the 10 November 2022 lecture
+  argues the tonalamatl functions as a portable altar and talking book through
+  which a diviner converses with time-persons, focusing on the Codex Tonalamatl
+  Aubin and Codex Borbonicus.
+- Relevant segment: whole recording, 1:57:13, pending the owner's reconciliation.
+- Verification status: verified-video, with the duration mismatch flagged.
+
+### SRC-M24-002: Tlamatiliztli, The Wisdom of the Nahua People (Osiris Gonzalez Romero)
+
+- Identity and access: oembed confirms the lecture on the GloPhi, Philosophizing
+  in a Globalized World channel (https://www.youtube.com/watch?v=EFnixE16wtM).
+- Duration: 1:56:16 (watch page, 2026-10-25).
+- Instructor credentials: Osiris Sinuhe Gonzalez Romero, researcher on Nahua
+  philosophy and intercultural epistemology (per the lecture series framing);
+  presented in the Transatlantic Resonances series at Universitat Hildesheim.
+- Language: English.
+- Content coverage: the host's description states the 26 May 2026 lecture
+  systematically analyzes the concept of wisdom developed by the Nahua people,
+  building an intercultural epistemology from indigenous languages and collaborative
+  methodologies, tied to indigenous cultural rights under UNDRIP article 13.
+- Relevant segment: whole lecture, 1:56:16.
+- Verification status: verified-video.
+
+### SRC-M24-003: Decolonization, Neocolonialism and Human Rights, Gloria Anzaldua (Verena Dolle, Columbia ILAS)
+
+- Identity and access: oembed confirms the session on the ILAS Columbia channel
+  (https://www.youtube.com/watch?v=wMxx5-IRaKw).
+- Duration: 1:34:32 (watch page, 2026-10-25).
+- Instructor credentials: Prof. Dr. Verena Dolle, leading the interdisciplinary
+  reading group session on Anzaldua's Borderlands/La Frontera, hosted by the
+  Institute of Latin American Studies at Columbia University (per the host
+  description).
+- Language: English.
+- Content coverage: the host's description states this reading group session
+  discusses Anzaldua's Borderlands/La Frontera in relation to intersectional
+  discrimination, postcolonialism, neocolonialism, abolitionism and
+  decolonization, with a Latin America focus.
+- Relevant segment: whole session, 1:34:32.
+- Verification status: verified-video.
+
 ## Remainder
 
-Optional media still pending: SRC-M22-YV04, SRC-M24-001 to 006, M05-MA-02 and the
- capstone repeats.
+Optional media still pending: SRC-M24-004, SRC-M24-005, SRC-M24-006, M05-MA-02
+ and the capstone repeats.
 
 (in progress: verifier-pplx-a1)
