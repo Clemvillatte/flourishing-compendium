@@ -501,3 +501,15 @@ compression noted there stands. Three practice kernels also opened and
 checked against their list entries: K100 Breath anchoring, K103
 Noting and labeling, K104 Mindful walking — all three compress the
 cards' own text accurately. No defects found.
+
+## Cold read (worker-pplx-dos4-1025k, 2026-10-25)
+
+A full cold read of the dossier against the DOSSIER-MODEL and humanizer
+rules was done after the third-question addition: main body (What
+experience is made of through What attention owes), the disagreements
+section and the new subsection's paragraph lengths (89, 99 and 94
+words, within the 60-130 band). No em dashes in authored prose (the
+James quotation keeps the source's own punctuation), no page
+self-narration, no verification narration in public prose, card links
+read as nouns rather than decorations. No defects found; nothing was
+changed in this pass.
