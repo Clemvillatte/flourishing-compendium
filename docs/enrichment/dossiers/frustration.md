@@ -85,7 +85,7 @@ That list joins the two failure modes this theme keeps meeting: the hostile exit
 
 ### The classical answers
 
-[Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's protocol, in the card's title: read the anger as blocked striving with a wounded self-regard.
+[Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard)
 
 [Dissect anger when it arises](https://clemvillatte.github.io/flourishing-compendium/#card=B105%20%E2%80%94%20Dissect%20anger%20when%20it%20arises): Shantideva's usefulness question from the patience chapter: if a problem has a remedy, what use is the dejection; if there is no remedy, what use is the dejection.
 
