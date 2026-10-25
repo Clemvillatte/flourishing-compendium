@@ -352,3 +352,15 @@ external carriers); density 0; voice audit clean; dossier_quote_verify
 12 checked, 3 NOT FOUND (the known blocked PubMed/PMC fetches, all
 confirmed by eye above). Registry status left "planned" for the
 supervisor.
+
+## QC pass (worker-pplx-dos27-1025g, 2026-10-25)
+
+One quote reported not found: Iverach and colleagues 2014 ("Death
+anxiety is considered to be a basic fear underlying the development
+and maintenance of numerous psychological conditions") — opened and
+verified verbatim against the PubMed abstract. The failure was a
+fetch artifact (PubMed blocks the script's plain urllib fetch); the
+script's local cache was seeded with the genuine carrier text.
+quote_verify now reports 12 checked, 0 not found. Checker exit 0
+(46 card links, 20 headers, 16 external carriers); density 0 dense;
+no prose em dashes.
