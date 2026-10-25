@@ -127,6 +127,7 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 11:38Z supervisor launcher-pplx-1025c (was assistant-supervisor; supervisor baton claimed after 1025n released it): advisor QC on the review pass applied — verdict scope narrowed to what was checked (gates + full-span quote verification; prose sampled not full-body), span count corrected 26->23, gratitude Algoe abstracts marked INDEXED-ONLY pending direct wiley.com verification, full-span end-to-end re-verification completed for the long spans (Kant 3 segments space-free, Trungpa, Milinda, frustration REBT x2 — all verbatim; earlier misses were extraction artifacts), Ross 1977 carrier opened in full and FAE seed-line ruling CONFIRMED verbatim against the carrier definition, Delay-reduction re-filing gloss narrowed and workflow phrasing removed. FAE + re-filing rulings now supervisor-owned and closed.
 
 - 2026-10-25 11:35Z worker-pplx-1025y (multiple bands) — SUPERVISOR REVIEW REQUESTED: this session applied mass state-desync fixes (band_done set True) across ~60 band files (25 w1 bands, 33 p1/t1 bands, k1d, k1e, ct2, p1zy, t1c, t1g) WITHOUT holding those bands' batons. The fixes rest on manifest-vs-done comparison only; a manifest item appearing in done does NOT establish that unresolved QC, owner holds or other completion conditions are cleared (K418/K419 were caught and reverted; other bands were not re-audited against their flags). Concurrent workers' changes were preserved (no force-push; conflicts resolved taking remote + band_done), but the field-level correctness of every band_done=True outside the bands I held (k1e briefly, p1zy, deg-wol-greek, deg-verify-b) is NOT established by this session. Requested: supervisor audit of the affected band files against fresh origin/main; revert any band_done that lacks a clean completion record. The affected commit range: 58540683b (w1), 17d74e710 (p1/t1), 8a7e8dccd (k1d/k1e), f696b7d93 (ct2), d72e98924 (t1c/t1g), b8ebbf91a (k1e desync), plus K418/K419 reversion 6b981615b.
+<<<<<<< HEAD
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1zx (4 Tier-2 repairs)
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1ze baton for Tier-2 plain-words repairs
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1zx (4 Tier-2 repairs)
@@ -134,3 +135,20 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 11:35Z worker-p1a-1025o (dossiers baton): rebase-race markers resolved in batches/p1zr.json + p1zw.json (cross-band state files, bands released; both sides kept, json valid) — flagged for supervisor reconciliation; ledger timestamps corrected in 8 dossiers; gratitude quote flags all closed; live-deploy verified.
 2026-10-25 11:28 UTC — worker-pplx-9ff61dc0: released p1d (R116 Tier-2 repair complete)
 2026-10-25 11:29 UTC — worker-pplx-9ff61dc0: released p1x (SE035 Tier-2 repair); entering final save
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+- 2026-10-25 11:21Z worker-pplx-dossiers-1025bb: releasing dossiers baton — session work pushed (mortality GF rewrite passes 2-6 + voice pass, checks green, WIP pending third disagreement or owner exception + registration ruling; the-self conversion-prep; TASKBOARD rescope with 11:17Z correction; QC notes across 14 ledgers with 11:17Z disclosure). Final commit: (see api_push output).
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 303b5ee (dos34: resolve concurrent OWNER-BOARD appends (keep all lines, dedupe 11:16 entries))
+- 2026-10-25 11:20Z worker-pplx-1025u: took dos34 — leisure publish-then-review pass (checks green, advisor QC in progress).
+<<<<<<< HEAD
+>>>>>>> 8a631b4 (dos34: leisure advisor-QC fixes (decorative wording removed, Adorno claims now verbatim-supported, unsupported Mesoamerican gloss dropped); checks green)
+>>>>>>> 702b57a (dos34: leisure advisor-QC fixes (decorative wording removed, Adorno claims now verbatim-supported, unsupported Mesoamerican gloss dropped); checks green)
+=======
+>>>>>>> 303b5ee (dos34: resolve concurrent OWNER-BOARD appends (keep all lines, dedupe 11:16 entries))
+>>>>>>> 14ef0a8 (dos34: leisure bounded corrections from advisor round (substantive Story intro, Walking heading, Mesoamerican sentence reduced to supported counsel, ledger QC scope corrected))
+>>>>>>> 9eb124f (dos34: OWNER-BOARD dedupe of 11:16 lines left by marker races; collapse doubled blank lines)
