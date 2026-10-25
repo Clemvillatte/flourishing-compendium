@@ -23,7 +23,7 @@ Self-determination theory is the nearest research. Ryan and Deci's 2000 review s
 No Codex passage on small works specifically was found. The huehuetlatolli "counsel on the smallest works" cited in the original entry was not located.
 
 **Plain words**
-The Nahua dictionary entry praises a person, not a rule: the craftsman who works as a willing, patient, calm arranger of materials. Nothing in the entry speaks of working unseen. The link between that kind of care and keeping it when nobody looks is this page's own reading, not the source's.
+The Nahua dictionary praises a person, not a rule: the willing, patient, calm arranger of materials. Nothing in it speaks of working unseen. Linking that care to keeping it when nobody looks is this page's reading, not the source's.
 
 **For example**
 Pick one small recurring task, such as how you leave a tool or a document at the end of the day. For a month, finish it to the same standard each time, and tick it off on a private list.
