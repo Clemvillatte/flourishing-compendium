@@ -1,7 +1,7 @@
 {
  "baton": "dos27",
- "agent": "worker-pplx-dos27-1025g",
- "clocked_in": "2026-10-25T04:11:27+00:00",
+ "agent": "worker-pplx-dos30-1025l",
+ "clocked_in": "2026-10-25T06:14:35+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos29-1024a",
@@ -56,8 +56,12 @@
    "at": "2026-10-25T04:11:27+00:00",
    "from": "worker-pplx-dos27-1025g",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dos30-1025l",
+   "at": "2026-10-25T06:14:35+00:00",
+   "from": "worker-pplx-dos27-1025g",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T04:11:37+00:00"
+ ]
 }
