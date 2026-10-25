@@ -325,8 +325,26 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Content coverage: the host's description states the 27 May 2026 roundtable covers
   political thought and government in the Zhuangzi, non-coercive leadership and
   responsiveness, and the "five great" passage.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=VlKdSPfC_34&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain speech-to-text errors in
+  names and Chinese terms) confirms the roundtable's substance on the recording:
+  Fraser on "political Daoism" as contextual, with "the only legitimate ends of
+  the state … are those of the people themselves"; Valmisa on non-coercive
+  leadership ("Only someone who doesn't seek to influence, guide or control
+  others can do so"; "Do not try to lead"; "empty yourself of anything rigid
+  and fixed"; "respond to multiplicity in non-reductionist ways"); Walker on
+  the "five great" passage (great Dao, disputation, courage, integrity and
+  caring — "Great courage is not harsh or aggressive", "Great integrity is
+  not humble" — with versions in both the Zhuangzi and the Huainanzi); and the
+  discussion of morality as "insufficiently responsive", responsiveness training
+  and political legitimacy ("You've got the power. What are you going to do with
+  it? How?"). Caveats: third-party transcript page, no timestamps in the
+  retrieved text; playback itself not opened.
 - Relevant segment: whole roundtable, 1:59:09.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M01-D19: The Dao of the Scholar/Practitioner (Siegler, Palmer, Komjathy, Brown University)
 
