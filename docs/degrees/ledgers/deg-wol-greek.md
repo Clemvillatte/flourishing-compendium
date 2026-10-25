@@ -535,15 +535,15 @@ Sorabji lecture's own duration. The blocking gap for workload arithmetic
 stands. Third independent re-check (after worker-pplx-greek-1025m's two);
 no change.
 
-## ST-03 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## ST-03 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The Stoicon 2020 John Sellars candidate (Modern Stoicism channel,
 28:05, verified earlier in this ledger) now carries a transcript-level
 content classification, superseding the watch page's auto-generated
-chapter titles as the evidence basis. Transcript read this session via
+chapter titles as the evidence basis. Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=8Nz5nDXgLZw (the page
 rendered with the full transcript; direct raw fetch is Cloudflare-walled,
-the classification rests on the rendered transcript as read).
+the classification rests on selected prompted extracts of the rendered transcript, not a browse of the full transcript page; only ST-03's direct raw fetch failure was demonstrated, the other URLs were not raw-fetched).
 
 Content confirmed from the transcript:
 
@@ -574,7 +574,7 @@ chapter-titles-only to transcript-read. It remains an unattached candidate
 (the module it would serve is behind the Phase 0 stop-gate); no
 attachment is made this session.
 
-## AR-05 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## AR-05 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The AR-05 record (Stoicism, Marcus Aurelius's Meditations, Adam
 Rosenfeld's own PHI 251 session 23; verified earlier in this ledger,
@@ -605,14 +605,14 @@ verified-video; identity, access, credentials and durations unchanged.
 Module production stays behind the Phase 0 stop-gate; no attachment is
 made this session.
 
-## ST-01 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## ST-01 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The ST-01 record (STOICON '16, Julia Annas, "Is Stoic Virtue as
 Off-Putting as it Seems?"; Modern Stoicism channel; verified earlier in
 this ledger, 29:09 with the 19-second watch-page discrepancy already
 flagged to deg-verify-b) now carries a transcript-level content
 classification, superseding the uploader-description-only basis.
-Transcript read this session via
+Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=WoDGgj_cfKE (rendered page;
 direct raw fetch is Cloudflare-walled).
 
@@ -634,18 +634,18 @@ Content confirmed from the transcript:
 Content matches the manifest's proposed topic "Stoic virtue and its
 critics": Annas both presents the Stoic position (virtue as necessary
 and sufficient for happiness) and interrogates why it is off-putting.
-Transcript-level classification closes the "transcript still unread"
+Selected-extract classification closes the "transcript still unread"
 gap for ST-01. Status remains verified-video; identity, access,
 credentials and durations unchanged. Module production stays behind the
 Phase 0 stop-gate; no attachment is made this session.
 
-## M05-XP-01 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## M05-XP-01 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The M05-XP-01 record (Epicurus, Adam Rosenfeld's own PHI 251 session
 21; verified earlier in this ledger, 1:15:39, with the label-broadening
 note already carried in the manifest correction) now carries a
 transcript-level content classification, superseding the
-uploader-description-only basis. Transcript read this session via
+uploader-description-only basis. Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=2u6Z-NaUDAs (rendered
 page; direct raw fetch is Cloudflare-walled).
 
@@ -674,7 +674,7 @@ Content confirms and extends the manifest's label-broadening note: the
 session covers Epicurean natural philosophy (atomism) and ethics
 together, with ethics as the stated focus; the manifest's original
 "Epicurean pleasure doctrine" label is indeed too narrow and the
-broadened label stands. Transcript-level classification closes the
+broadened label stands. Selected-extract classification closes the
 "transcript still unread" gap for M05-XP-01. Status remains
 verified-video; identity, access, credentials and durations unchanged.
 Module production stays behind the Phase 0 stop-gate; no attachment is
@@ -689,13 +689,13 @@ resolve the scope question (whether the Greek walk needs a pre-Socratic
 module or can legitimately exclude them); it is noted as a data point
 for the strategist. The flag is carried forward unchanged.
 
-## M05-XP-02 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## M05-XP-02 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The M05-XP-02 record (Pyrrhonic Skepticism, Adam Rosenfeld's own PHI
 251 session 24; verified earlier in this ledger, 1:15:32) now carries a
 transcript-level content classification, superseding the
 uploader-description-only basis and resolving the manifest's open
-question on the modes. Transcript read this session via
+question on the modes. Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=jaFcOp_bPME (rendered
 page; direct raw fetch is Cloudflare-walled).
 
@@ -733,18 +733,18 @@ on the modes); M05-XP-02 cannot carry them. Content matches the
 manifest's proposed topic "Pyrrhonian skepticism" with this narrower
 scope stated.
 
-Transcript-level classification closes the "transcript still unread"
+Selected-extract classification closes the "transcript still unread"
 gap for M05-XP-02. Status remains verified-video; identity, access,
 credentials and durations unchanged. Module production stays behind the
 Phase 0 stop-gate; no attachment is made this session.
 
-## SRC-M25-001 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## SRC-M25-001 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The SRC-M25-001 record (2025 Terry Lectures, Peter Adamson, Yale
 University channel; verified earlier in this ledger, 1:31:08 with the
 record mismatch already flagged) now carries a transcript-level content
 classification, superseding the uploader-description-only basis.
-Transcript read this session via
+Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=6iLpGOkOx0A (rendered
 page; direct raw fetch is Cloudflare-walled).
 
@@ -775,19 +775,18 @@ Content confirmed from the transcript:
 
 Content matches the manifest's proposed topic "skepticism across
 traditions" (the lecture compares Chinese, Greek and Arabic/Islamic
-skepticism via the animal-difference argument). Transcript-level
-classification closes the content-check gap for SRC-M25-001. Status
+skepticism via the animal-difference argument). Selected-extract classification closes the content-check gap for SRC-M25-001. Status
 remains verified-video (optional role); identity, access, credentials
 and durations unchanged. Module production stays behind the Phase 0
 stop-gate; no attachment is made this session.
 
-## SRC-M25-002 transcript read (2026-10-25, worker-pplx-greek-1025y)
+## SRC-M25-002 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 The SRC-M25-002 record (Curious Researches: Skepticism from Sextus to
 Descartes, Michael Williams, UCD channel; verified earlier in this
 ledger, 1:18:04 with the 1-second page mismatch already flagged) now
 carries a transcript-level content classification, superseding the
-uploader-description-only basis. Transcript read this session via
+uploader-description-only basis. Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=Dss98-rTl6Q (rendered page;
 direct raw fetch is Cloudflare-walled).
 
@@ -814,17 +813,17 @@ context and the lecture's own title):
 
 Content matches the manifest's proposed topic "later reception": the
 lecture traces skepticism from Sextus Empiricus to Descartes and on to
-modern epistemology. Transcript-level classification closes the
+modern epistemology. Selected-extract classification closes the
 content-check gap for SRC-M25-002. Status remains verified-video
 (optional role); identity, access, credentials and durations unchanged.
 Module production stays behind the Phase 0 stop-gate; no attachment is
 made this session.
 
-## SRC-M25-003 and SRC-M25-004 transcripts read (2026-10-25, worker-pplx-greek-1025y)
+## SRC-M25-003 and SRC-M25-004 selected transcript extracts checked (2026-10-25, worker-pplx-greek-1025y)
 
 Both optional mod-phil-3 records now carry transcript-level content
 classifications, superseding the uploader-description-only basis.
-Transcripts read this session via
+Selected transcript extracts checked this session via
 https://youtubetotranscript.com/transcript?v=j5QVMN2chOI and
 https://youtubetotranscript.com/transcript?v=AZZ5G8KGM2E (rendered
 pages; direct raw fetches are Cloudflare-walled).
@@ -875,7 +874,7 @@ stop-gate; no attachments are made this session.
 
 ## Correction: transcript reads were duplicate verification (2026-10-25, worker-pplx-greek-1025y)
 
-The eight transcript-read entries above (ST-03, AR-05, ST-01, M05-XP-01,
+The eight selected-transcript-extract entries above (ST-03, AR-05, ST-01, M05-XP-01,
 M05-XP-02, SRC-M25-001, SRC-M25-002, SRC-M25-003, SRC-M25-004 — nine
 records in total) duplicated verification work the deg-verify-b
 verifier had already completed and recorded in
