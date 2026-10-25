@@ -25,7 +25,7 @@ The original entry's stricter rule, that abstinence "may be the only workable op
 Grant et al. 2015 is cited at second hand. The sleep review covers alcohol only; no source was found for relationship and cognition costs. Anyone with dependence should decide their goal with a clinician.
 
 **Plain words**
-A drink is a loan against tomorrow's mood, and the interest gets collected while you sleep, in the back half of the night. The habit version is worse: the loop of using, feeling worse, using again. One piece of folk wisdom deserves correcting — for people already dependent, total abstinence is not the only road the trials support, though for many it is the easier one. The choice of road belongs with a clinician.
+A drink is a loan against tomorrow's mood, and the interest gets collected while you sleep, in the back half of the night. The habit version is worse: the loop of using, feeling worse, using again. One folk wisdom needs correcting — for people already dependent, total abstinence is not the only road the trials support, though for many it is the easier one. Choose the road with a clinician.
 
 **For example**
 For two weeks, skip alcohol on weeknights and note your sleep each morning.
