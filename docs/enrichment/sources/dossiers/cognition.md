@@ -533,3 +533,14 @@ Handoff: Tversky & Kahneman 1974 abstract span on science.org
 (paywall/bot-wall class) — next pass, try the AAAS abstract page or a
 university course mirror of the classic abstract. No dossier text
 changes needed for the verified span.
+
+## Direct-PDF verification (2026-10-25 11:52Z, worker-p1a-1025o, read-only assist)
+
+Downloaded the Gigerenzer 1996 Psychological Review PDF from the
+columbia mirror and extracted: the "vague heuristics have directed
+attention away from detailed models of cognitive processes and toward
+post-hoc accounts of alleged errors" span is VERBATIM in the PDF; the
+verifier's NOT FOUND is a two-column PDF extraction-interleave artifact
+(the span's words appear split across interleaved column lines). The
+Science 1974 Tversky-Kahneman span remains on the paywalled
+science.org carrier.
