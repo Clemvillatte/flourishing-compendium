@@ -19,15 +19,17 @@ Both options fail. If fire simply were the wood, the burning and the burned woul
 
 Verse 15 then names what the example is for: "Through fire and wood is explained without exception all the stages of self and the grasped and at the same time jugs, cloth and so on." The self and its aggregates, like fire and fuel, are neither one thing nor two.
 
-### Here
+The refusal is not a third position. It closes the question both answers share: what a thing is, taken independent of what it depends on. The example is deliberately domestic. Fire and fuel are ordinary things, and the chapter applies the same form to the self and its aggregates, to jug and cloth, to anything that might be taken as one thing or as two.
+
+### In the compendium
 
 - [[B132 — Rest in not one, not two (nonduality)]] cites this concept as a philosophy parallel.
 
 ## Related concepts
 
-- [[Buddhist emptiness of inherent nature]] — my page on emptiness
-- [[Dependent origination]] — my page on dependent origination
-- [[Two truths]] — my page on the two truths
+- [[Buddhist emptiness of inherent nature]] — the compendium's page on emptiness
+- [[Dependent origination]] — the compendium's page on dependent origination
+- [[Two truths]] — the compendium's page on the two truths
 - [[T050 — Nagarjuna]]: the refusal of both halves of a dichotomy the concept is built on.
 
 ## Sources
