@@ -32,3 +32,7 @@
 ## P187 Separate the religious quality of experience from religion
 - Carriers: Harvard Square Library excerpt of A Common Faith (search excerpt of page; "Any activity pursued...", "identification of the religious with the supernatural", "another conception...", "things in civilization we most prize" quoted verbatim) and Hauptli FIU lecture supplement (search excerpt; "heart of my point" sentence). Note: the HSL page returned an empty body to direct curl, so quotes rely on the search excerpt text of the page; locators (page numbers) not given because editions disagree (Yale 2013 p. 27/30; LW9:19).
 - Repair: dropped the Muse "LW 9.8" citation (never opened), the "contested from both ... sides" claim, and the "delivery mechanism / wrapping / membership card" scaffolding.
+
+## B015 Nothing exists alone (interbeing)
+- Carrier opened: Awakin.org "Clouds In Each Paper" (tid=222). All quotes verified verbatim.
+- Repair: the page attributed the passage to "The Sun My Heart"; Awakin gives no book, so attribution reduced to the reading title. Removed duplicate quotation, invented "4 a.m." / "three weeks" details and the spill example; added the sunshine, logger, wheat and parents steps that the text actually contains.
