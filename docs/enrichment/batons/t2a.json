@@ -21,5 +21,7 @@
    "from": "worker-pplx-t2a-1024e",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:45:28+00:00"
 }
