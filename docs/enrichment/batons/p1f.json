@@ -1,7 +1,7 @@
 {
  "baton": "p1f",
  "agent": "worker-pplx-1025w1g",
- "clocked_in": "2026-10-25T12:47:47+00:00",
+ "clocked_in": "2026-10-25T12:49:07+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing33",
@@ -98,8 +98,12 @@
    "at": "2026-10-25T12:47:47+00:00",
    "from": "worker-pplx-1025w1g",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-1025w1g",
+   "at": "2026-10-25T12:49:07+00:00",
+   "from": "worker-pplx-1025w1g",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T12:48:00+00:00"
+ ]
 }

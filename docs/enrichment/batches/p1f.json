@@ -41,7 +41,6 @@
     "SE008",
     "SO002",
     "SO018",
-    "A057",
     "A079",
     "AF011",
     "AF019",
@@ -61,7 +60,8 @@
     "A030",
     "A013",
     "A047",
-    "B122"
+    "B122",
+    "A057"
   ],
   "in_progress": null,
   "flagged": {
@@ -87,7 +87,7 @@
     "A030": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "A046": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
     "A047": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
-    "A057": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 the page distinguishes the profligate (uncurable, vice-like) from the unrestrained (curable, aware of infirmity) and reports Aristotle's habit-vs-nature remark without a reform recommendation in the prose; fragments re-verified as verbatim substrings vs the Perseus Rackham NE VII text; formatting repair applied (list newline).",
+    "A057": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "AT025": "supervisor disposition (2026-10-22 04:19Z, worker-sup-flourish-1022, corrected after advisor QC): repair verified \u2014 validator passes on the current page (prose length within band after the sentence-level citations; only a pre-existing minor warning on Related-concepts line count, not the flagged defect).",
     "AT059": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
     "AT060": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 all four requested repairs are present on the current page: non-significance not overread ('does not establish equivalence'), dependence wording matches the study ('working-memory'), the sustained-attention null is kept distinct, and the meta-analysis pooling caveat ('does not isolate mere presence') is explicit.",
@@ -99,7 +99,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 22,
-  "updated": "2026-10-25T12:47:53+00:00",
+  "updated": "2026-10-25T12:49:17+00:00",
   "band_done": false,
   "notes": {
     "AT053": {
@@ -149,6 +149,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://www.lotsawahouse.org/indian-masters/nagarjuna/fundamental-wisdom-middle-way/"
+    },
+    "A057": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=7"
     }
   }
 }

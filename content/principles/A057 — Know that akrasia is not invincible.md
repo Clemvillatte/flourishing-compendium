@@ -21,7 +21,7 @@ In Book VII, [[T002 — Aristotle|Aristotle]] distinguishes the unrestrained per
 The chapter grounds the curability claim in the akratic's own awareness: "the unrestrained man is aware of his infirmity," and "the former can easily be persuaded to change, but the latter cannot." ([NE VII.8, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=7)) Aristotle also compares unrestraint arising through habit with unrestraint by nature: "those who have become unrestrained through habit are more easily cured than those who are unrestrained by nature, since habit is easier to change than nature." ([NE VII.10, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=7))
 
 **Plain words**
-Aristotle treats unrestraint as reformable and distinguishes forms that are easier or harder to change. ([NE VII.8, VII.10, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=7)) For this exercise, identify one recurring lapse and one change you could try.
+Aristotle's comforting claim hides inside the dark news about weakness of will. The failure itself is a fault, and the person caught in it is not a separate species who cannot be otherwise, since the fault is one of arrangement rather than of machinery, a misplacement of what the person already values. His own shelf of distinctions shows how the repair can differ from case to case, some forms yield readily once the occasion for the lapse is gone, others hold on the way an old habit holds, and a few are stubborn because the person has rehearsed the reasons against acting well. The knowledge that a lapse tends to repeat until something in the arrangement changes is itself one of the levers.
 
 ## Psychology parallels
 
