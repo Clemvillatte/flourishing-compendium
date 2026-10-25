@@ -33,17 +33,22 @@ the end shows where.
 ### Step 1: vocabulary from the wiki reading (Outcome 1)
 
 Read the Book I overview page, then the layer indexes with their principles
-(all links are to pages on this site; the principle pages quote the
-Nicomachean Ethics and link the free Ross and Rackham translations):
+(all links below resolve to the pages on this site; the principle pages
+quote the Nicomachean Ethics and link the free Ross and Rackham
+translations):
 
-- Layer I (First Principles): A001 Make eudaimonia the organising end of your
-  life; A002 Live according to your function (ergon); A003 Make virtue your
-  primary investment; A004 Become virtuous by doing virtuous acts; A005
-  Choose the mean, not the extreme (virtue and vice, excess and
-  deficiency).
-- Layer III (Intellectual Virtues): A042 Recognise that virtue is a hexis, not
-  a feeling.
-- Layer IV (Practical Wisdom): A043 Develop phronesis, practical wisdom.
+- [Book I overview](../../../content/structure/A%20%E2%80%94%20Aristotelian%20Virtue%20Ethics%20and%20Practical%20Wisdom.md),
+  then [Layer I (First Principles)](../../../content/structure/A-S01%20%E2%80%94%20Layer%20I%20-%20First%20Principles%20%E2%80%94%20Eudaimonia%20and%20the%20Function%20Argument.md):
+  [A001 Make eudaimonia the organising end of your life](../../../content/principles/A001%20%E2%80%94%20Make%20eudaimonia%20the%20organising%20end%20of%20your%20life.md),
+  [A002 Live according to your function (ergon)](../../../content/principles/A002%20%E2%80%94%20Live%20according%20to%20your%20function%20(ergon).md),
+  [A003 Make virtue your primary investment](../../../content/principles/A003%20%E2%80%94%20Make%20virtue%20your%20primary%20investment.md),
+  [A004 Become virtuous by doing virtuous acts](../../../content/principles/A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts.md),
+  [A005 Choose the mean, not the extreme](../../../content/principles/A005%20%E2%80%94%20Choose%20the%20mean%2C%20not%20the%20extreme.md)
+  (virtue and vice, excess and deficiency).
+- [Layer III (Intellectual Virtues)](../../../content/structure/A-S03%20%E2%80%94%20Layer%20III%20-%20Intellectual%20Virtues.md):
+  [A042 Recognise that virtue is a hexis, not a feeling](../../../content/principles/A042%20%E2%80%94%20Recognise%20that%20virtue%20is%20a%20hexis%2C%20not%20a%20feeling.md).
+- [Layer IV (Practical Wisdom)](../../../content/structure/A-S04%20%E2%80%94%20Layer%20IV%20-%20Practical%20Wisdom%20%E2%80%94%20Phronesis.md):
+  [A043 Develop phronesis, practical wisdom](../../../content/principles/A043%20%E2%80%94%20Develop%20phronesis%20%E2%80%94%20practical%20wisdom.md).
 
 Before your second pass through these pages, do Retrieval activity 1
 (below): free recall first, then re-read to check yourself. The four terms
@@ -57,20 +62,23 @@ to human goods (NE VI.5, quoted in A043).
 
 Before the worked example, a short introduction so the comparison is not
 heard as three slogans. The Stanford Encyclopedia of Philosophy (free)
-defines the two rivals: deontology holds that some choices cannot be
-justified by their effects, that what makes a choice right is its
-conformity with a moral norm, and the Right has priority over the Good; the
-Kantian version judges the principle (maxim) the agent acts on and forbids
-using others as mere means. Consequentialism holds that whether an act is
-right depends only on its consequences, with classical utilitarianism as the
-paradigm (Bentham, Mill, Sidgwick). Read the two introductions:
+defines the two rivals. Read the assigned sections:
 
-- https://plato.stanford.edu/entries/ethics-deontological/
-- https://plato.stanford.edu/entries/consequentialism/
+- Deontological Ethics, section 1, Deontology's Foil: Consequentialism
+  (1122 words), which sets the two families against each other:
+  https://plato.stanford.edu/entries/ethics-deontological/
+- Consequentialism, section 2, What is Consequentialism? (620 words):
+  https://plato.stanford.edu/entries/consequentialism/
 
-The worked example below illustrates one Kantian-style duty analysis and one
-classical utilitarian tally; other versions of each family differ, and the
-learner should treat them as families, not single doctrines.
+The deontological family judges choices by conformity to moral norms, some
+forbidden whatever their effects; the Kantian version judges the principle
+(maxim) the agent acts on and forbids using others merely as means. The
+consequentialist family holds that whether an act is right depends only on
+its consequences, with classical utilitarianism as the paradigm (Bentham,
+Mill, Sidgwick). The worked example below illustrates one Kantian-style
+duty analysis and one classical utilitarian tally; other versions of each
+family differ, and the learner should treat them as families, not single
+doctrines.
 
 ### Step 3: lectures (Outcomes 1 and 2)
 
@@ -100,17 +108,24 @@ stretch passes without practice:
   the episode stages these debates and closes by contrasting Aristotle
   with Kantian and Rawlsian liberalism.
 
-Optional lectures, verified and linked for learners who want more:
+Optional lecture, verified and linked for learners who want more:
 
 - AR-06 Aristotle's Nicomachean Ethics book 1, Gregory B. Sadler,
   1:01:15 (https://www.youtube.com/watch?v=jpjjhraoNGg), a close reading
-  of the primary text (means, ends, and the question what happiness is).
-- ST-03 Stoicon 2020, John Sellars, 28:05 structured (player displays
-  28:04; https://www.youtube.com/watch?v=8Nz5nDXgLZw), a first look at
-  Stoicism, the subject of the next module.
-- A006 Expect flourishing to require external goods, with the two-sentence
-  reflection on how the Stoic claim that virtue alone suffices for
-  happiness sharpens and breaks from Aristotle's position.
+  of the primary text: the transcript confirms it covers means and ends,
+  the candidate accounts of happiness (honor, pleasure, wealth, virtue),
+  virtuous activity as the best candidate with social goods and external
+  means still needed, and priorities shaping a whole life. It suits
+  learners who want the argument worked through slowly; it does not use
+  the term eudaimonia, which the wiki reading supplies.
+
+ST-03 (Stoicon 2020, John Sellars, 28:05) is held as an unattached
+candidate pending a transcript read; it is not assigned.
+
+Optional reflection, for learners who want the look ahead to the next
+module: read A006 Expect flourishing to require external goods and write
+two sentences on how the Stoic claim that virtue alone suffices for
+happiness sharpens and breaks from Aristotle's position.
 
 ### Step 4: worked example with fading (Outcome 3)
 
@@ -120,8 +135,8 @@ three times with the guidance faded:
 
 1. Fully worked (demonstrated). The found wallet: you find a wallet on a
    park bench with 200 dollars and an ID card. A Kantian-style duty
-   analysis: the wallet is not yours, keeping it treats the owner as a
-   means to your ends, and honesty is a norm that holds whatever the
+   analysis: the wallet is not yours, keeping it treats the owner merely
+   as a means to your ends, and honesty is a norm that holds whatever the
    consequences. A classical utilitarian tally: the owner's loss, your
    gain, the trust costs if finder-keeping spread, and the world where
    people return wallets holds more good overall. A virtue ethics
@@ -148,7 +163,9 @@ three times with the guidance faded:
 - Retrieval activity 1 (Outcome 1, spaced): from memory, write one
   sentence defining each of virtue, vice, eudaimonia and phronesis, with
   one example of each from your own life. Do this before re-reading the
-  wiki pages, then again after AR-04, and compare the two attempts.
+  wiki pages, then again after AR-04, and compare the two attempts. The
+  second pass is a submitted deliverable, self-assessed against rubric
+  criterion 1.
 - Retrieval activity 2 (Outcome 2, after AR-01 segment 1): state the
   function argument in three sentences of your own, then explain in two
   more why habituation (A004) is needed if virtue is a hexis (A042).
@@ -190,21 +207,27 @@ can self-check.
    without quoting the wiki verbatim. Rejection: "Aristotle thought being
    good makes you happy" (no function argument, no habituation, no
    connection between them).
-3. The dilemma analysis names the framework it is using at each step, and
-   runs each analysis on the learner's own case rather than a summary of
-   the lecture cases. Strong: each paragraph opens by naming its
-   framework and applies it to the learner's own dilemma. Rejection: the
+3. The dilemma analysis names the framework it is using at each step and
+   applies it accurately on the learner's own case: the duty analysis
+   identifies the relevant norm and justifies it, the consequentialist
+   analysis compares consequences for everyone affected, and the virtue
+   analysis asks what a person with the relevant virtues would do and
+   what the act trains. Strong: each paragraph names its framework,
+   states the norm or the consequence comparison or the character
+   question, and applies it to the learner's own dilemma. Rejection: the
    two analyses blur into one general "what should I do" discussion with
-   no frameworks named.
+   no frameworks named, or a framework is named but not applied (a duty
+   is asserted without saying why it binds, a tally lists only the
+   learner's own outcomes).
 4. The comparison paragraph states where the two frameworks' reasons
    overlap and disagree, and what the virtue ethics analysis adds, in the
    learner's own case. Strong: "Both frameworks told me what to decide;
-   the virtue ethics question also asked what kind of person the decision
-   was training, and although a far-sighted utilitarian could count those
-   effects too, virtue ethics makes that question the starting point rather
-   than a side effect." Rejection: "Virtue ethics is about being a good
-   person, so it is also important" (adds nothing; no overlap or
-   disagreement named).
+   the virtue ethics analysis judged the act by the character it expressed
+   and cultivated, where the utilitarian tally judged it by outcomes and
+   the duty analysis by conformity to a norm, and a far-sighted
+   utilitarian could still count character effects among the outcomes."
+   Rejection: "Virtue ethics is about being a good person, so it is also
+   important" (adds nothing; no overlap or disagreement named).
 
 ## Workload arithmetic
 
@@ -214,34 +237,35 @@ can self-check.
   concepts; the 238 wpm default adjusted down by purpose) that is 26
   minutes of raw reading; with study overhead at three times raw
   reading, about 1 hour 17 minutes (estimate, labelled).
-- SEP introductions: about 15 minutes (estimate; the two entries'
-  opening sections).
+- SEP introductions (word counts measured on the assigned sections):
+  1742 words = 10 minutes of raw reading; their study is carried out in
+  the definitions exercise, already counted below.
 - Required video (measured): AR-04 44:17 plus AR-01 whole episode 55:07,
   total 1:39:24.
 - Retrieval activities: about 30 minutes (estimate).
 - Worked example study and the faded practice: about 30 minutes
   (estimate).
-- Graded activity including both deliverables and self-assessment: about
-  60 minutes (estimate).
+- Graded deliverables (definitions exercise, paragraph, dilemma
+  analysis) including self-assessment: about 60 minutes (estimate).
 
-Total: about 4 hours 41 minutes. The legacy module claimed 4 hours with no
+Total: about 5 hours 6 minutes (311.7 minutes of labelled components:
+77.3 reading study, 10 SEP raw reading, 99.4 video, 30 retrieval, 30
+worked example, 60 graded). The legacy module claimed 4 hours with no
 arithmetic behind it; the figure above is the computed total. Optional
-material (AR-06 1:01:15, ST-03 28:05, A006 and its reflection) is not
-counted.
+material (AR-06 1:01:15) is not counted.
 
 ## Verification status of attached sources
 
-All four attached sources are verified to the skill's standard with evidence
+All attached sources are verified to the skill's standard with evidence
 and dates in ledgers/deg-wol-greek.md: AR-01 verified-video (55:07 player
 display, 55:08 structured data), AR-04 verified-video (44:17), AR-06
-verified-video (1:01:15), ST-03 verified-video (28:05). AR-01's content is
-classified from the recording's transcript (see ledger); AR-04's from the
-Gresham transcript page; AR-06 and ST-03 rest on the uploader description
-and watch page chapters respectively, and serve as optional material. The
-deg-verify band's Block A priority batch (verify/deg-philosophy.md,
-2026-10-25) independently verified all four; the resource-verification gate
-rests on that Block A confirmation. No imported labels remain on attached
-sources.
+verified-video (1:01:15). AR-01's and AR-06's content is classified from
+their recordings' transcripts (see ledger); AR-04's from the Gresham
+transcript page. ST-03 is an unattached candidate pending a transcript
+read and is not assigned. The deg-verify band's Block A priority batch
+(verify/deg-philosophy.md, 2026-10-25) independently verified all four
+legacy records; the resource-verification gate rests on that Block A
+confirmation. No imported labels remain on attached sources.
 
 ## Alignment map
 

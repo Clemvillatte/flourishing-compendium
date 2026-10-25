@@ -75,9 +75,10 @@ Findings for the scope gate (strategist owns the gate):
   friendship, contemplation; Epicurean morality and death; Stoic ethics;
   Skepticism as a practical stance. The wiki's Book I already covers
   akrasia (Layer V), friendship (Layer VI), contemplation (Layer VIII).
-- Open question for the strategist or owner: the three anchors all
-  include the pre-Socratics, and the scope excludes them without a stated
-  reason. Either state the reason (they are not guides for living in the
-  walk's sense) or add an elective row.
+- Open question for the strategist or owner: the Yale syllabus
+  explicitly includes the pre-Socratics, and the scope excludes them
+  without a stated reason (the MIT calendar and the Stanford description
+  do not establish the point either way). Either state the reason (they
+  are not guides for living in the walk's sense) or add an elective row.
 - The Cynics elective is consistent with the anchors (none of the three
   requires them).

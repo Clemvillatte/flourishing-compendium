@@ -129,3 +129,37 @@ Appended after advisor round 2; earlier entries above stand as history.
 | Cynics | elective | pending |
 | Pre-Socratics | open question | flagged to strategist/owner (all three anchors include them; scope excludes without stated reason) |
 | Formal logic; academic metaphysics/epistemology | excluded (reason stated in scope) | none |
+
+## Corrections and additions round 2 (recorded 2026-10-25T08:31Z from the clock, worker-pplx-greek-1)
+
+- Timestamp withdrawal: the minute-level "opened (UTC)" stamps in the
+  sources table and in the earlier corrections entry (including its own
+  08:48Z stamp) were reconstructions not supported by clock reads; the
+  clock at that point read 08:27:25Z, before some stamps already recorded.
+  All minute-level stamps are withdrawn. The verified fact for every entry
+  in the sources table is the opening date, 2026-10-25. Future entries use
+  date-only unless a clock read was taken at the moment of opening.
+- AR-06 content now classified from the recording's transcript (caption
+  track read via a transcript rendering, opened 2026-10-25): the lecture
+  covers means and ends, the candidate accounts of happiness (honor,
+  pleasure, wealth, virtue), virtuous activity as the best candidate with
+  social goods and external means still needed, and priorities shaping a
+  whole life; it does not use the term eudaimonia and gives no formal
+  definition of happiness. Status remains verified-video (1:01:15), used
+  as optional material in mod-phil-1.
+- ST-03 moved to an unattached candidate: two transcript read attempts
+  returned client errors, so its content classification still rests on
+  the watch page's auto-generated chapter titles, which the skill does not
+  accept as content evidence. It is not assigned in mod-phil-1. Candidate
+  note: Stoicon 2020 talk by John Sellars (Reader in History of
+  Philosophy, Royal Holloway; credentials verified on the institutional
+  profile), 28:05 structured / 28:04 player display, likely a first look
+  at Stoicism for the next module once a transcript read succeeds.
+- SEP assigned sections bounded and measured for mod-phil-1: Deontological
+  Ethics section 1 (Deontology's Foil: Consequentialism), 1122 words;
+  Consequentialism section 2 (What is Consequentialism?), 620 words. Both
+  opened 2026-10-25.
+- Coverage matrix correction: the Socratic method row is a gap; mod-phil-1
+  does not teach it (it teaches Aristotelian definitions and the
+  three-framework comparison). A dedicated module on Socrates and the
+  examined life is required by the scope.
