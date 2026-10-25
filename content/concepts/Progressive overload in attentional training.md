@@ -21,7 +21,7 @@ Zanesco, King, MacLean and Saron followed participants who did full-time meditat
 
 ### Adaptive difficulty in cognitive training
 
-The nearest direct test of progressive difficulty comes from working memory training, where tasks are made harder as the trainee succeeds. A randomised study of 130 adults found neither near nor far transfer, and "neither training nor transfer effects were modulated by training procedure," so exposure to varying difficulty was enough ([Springer article](https://link.springer.com/content/pdf/10.1007/s00426-015-0655-z.pdf)). A trial in children found "no evidence that adaptive working memory training maximizes children's outcomes" ([PMC11868676](https://pmc.ncbi.nlm.nih.gov/articles/PMC11868676/)).
+The nearest direct test of progressive difficulty comes from working memory training, where tasks are made harder as the trainee succeeds. A randomised study of 130 adults found neither near nor far transfer, and reported that "neither training nor transfer effects were modulated by training procedure, indicating that exposure to varying levels of task difficulty is sufficient for inducing training gains" ([Springer article](https://link.springer.com/content/pdf/10.1007/s00426-015-0655-z.pdf)). A trial in children found "no evidence that adaptive working memory training maximizes children's outcomes" ([PMC11868676](https://pmc.ncbi.nlm.nih.gov/articles/PMC11868676/)).
 
 ### Here
 

@@ -221,3 +221,10 @@
 - Reciprocals: 4 filed (Narrative redemption sequences, Narrative self, Generativity theory, Post-traumatic growth — backlink absence rg-verified). No inline filed.
 - Assembly note: first write dropped the body (format-string error silently skipped); caught by validator prose count (4 < 150); rebuilt with concatenation and re-validated ok.
 - Validator on final: ok. Seed line, Sources, Field links, philosophy parallels preserved.
+
+## Stale-flag disposition pass (2026-10-25, worker-pplx-9ff61dc0)
+
+- The eight reopened-for-QC entries in the w1f band state were stale: all routed repairs are present on the current pages and were committed on 2026-10-25 (3f99ba693 jargon cleanup 1-3/8, 8a4f0a4dc 4-6/8, 1ab6423f5 7-8/8, 0c1e38b54 advisor QC round 2 — five rewordings).
+- Verified per page, reading current text against each flag: Mind wandering (tedious-task result reported through the Mooneyham & Schooler review, line 72), Moral foundations / Role ethics / Second nature (page-facing seed narration gone), Progressive overload (2016 Zanesco honestly marked unlocated, AT031 bounded), Righteous anger vs wrath ('draws only on NE IV.5' scoped to the Aristotle discussion), Sleep architecture ('common description' lead-in absent), Social construction of gender (Butler quotes scoped to the OUP chapter).
+- Follow-up repairs this pass (validators PASS on all three): Righteous anger vs wrath ('what I call wrath' -> 'what the page calls wrath'); Role ethics ('The label is mine.' -> the 'role ethics' label named as the compendium's own grouping, disclosure preserved); Progressive overload in attentional training (the 'exposure to varying difficulty was enough' inference replaced with the study's own verbatim conclusion, 'indicating that exposure to varying levels of task difficulty is sufficient for inducing training gains' — Bastian & Eschen 2015 abstract opened and verified this session).
+- Validated all 8 pages (PASS 8/8) before clearing; flagged dict emptied, no done-list changes; sources_checked +1 (Bastian & Eschen 2015, Springer PDF).

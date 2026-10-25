@@ -21,7 +21,7 @@ The passage itself concerns government. Reading it as a statement about persons 
 
 In After Virtue, MacIntyre writes that "we all approach our own circumstances as bearers of a particular social identity. I am someone's son or daughter, someone else's cousin or uncle; I am a citizen of this or that city, a member of this or that guild or profession... Hence what is good for me has to be the good for one who inhabits these roles." The same passage says these inherited debts and obligations "constitute the given of my life, my moral starting point" (After Virtue, p. 220, [PDF excerpt](https://epistemh.pbworks.com/f/4.+Macintyre.pdf)). Earlier he says "we enter human society, that is, with one or more imputed characters- roles into which we have been drafted" (p. 216, [PDF excerpt](https://epistemh.pbworks.com/f/4.+Macintyre.pdf)).
 
-The two views overlap on the claim that identity and obligation come partly from inherited roles. The sources cited here do not show that MacIntyre belongs to a "role ethics" school in the Ames and Rosemont sense. The label is mine.
+The two views overlap on the claim that identity and obligation come partly from inherited roles. The sources cited here do not show that MacIntyre belongs to a "role ethics" school in the Ames and Rosemont sense. The "role ethics" label for this grouping is the compendium's own, not a school MacIntyre names.
 
 ### Here
 
