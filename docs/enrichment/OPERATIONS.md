@@ -1853,3 +1853,16 @@ The advisor's final verification caught overstated records in this session's QC 
   27474142. The worker's all-quotes-verbatim claim holds on the
   sampled carriers. Draft stays unpublished pending the owner reader
   gate and a third dispute; no edits required.
+
+# Supervisor QC entry 35 — 2026-10-25 05:23Z (supervisor-pplx-1025h)
+
+- k1e K408 (The downward arrow, commit 5d0edc387, art curator
+  verification): supervisor re-sample — the Burns originator span
+  ("To use this technique, draw a downward arrow under a Negative
+  Thought on a Daily Mood Log and ask your patient...") verified
+  verbatim against the cited feelinggood.com carrier. Worker's claim
+  independently confirmed; no edits required.
+- gratitude dossier read-through (post-repair): terminal periods
+  restored after citations in 14 prose lines (blockquote citations
+  keep the anger-exemplar style); checks green; app.js rebuilt
+  (commit 4399199e5).
