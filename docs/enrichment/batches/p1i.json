@@ -4,7 +4,6 @@
   "D115",
   "D118",
   "D129",
-  "D166",
   "B144",
   "B148",
   "B102",
@@ -32,12 +31,12 @@
   "P121",
   "D142"
  ],
- "in_progress": null,
+ "in_progress": "D166",
  "flagged": {
   "D118": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (overclaim \"budget rule\"/spending metaphor removed; Plain words re-derived as a revisable speaking exercise; Mehl et al. 2010 parallel qualified to less small talk/more substantive conversation); current page carries the repaired text (\"Chapter 5 gives its rule in verse\" framing, outcomes left with the people). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
   "D129": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (the \"only response that ends the cycle\" overclaim and retaliation-subscription metaphor removed; maxim scoped so what the other person does next remains theirs); current page carries the repaired text. The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
   "D142": "RESOLVED: classical concepts and translator ambiguity explicit, two-line quote exact, Nair74/tape/experimental scope; comfortable nonforced application; validator PASS",
-  "D166": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (the \"missing piece is usually not out there\" advice-claim scoped to the chapter's contrast between two ways of knowing); current page carries the repaired text (the chapter's contrast between distance and depth). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
+  "D166": "Reopened for QC: Keep DDJ47 claim attributed; distinguish inquiry into aims from certainty about inner causes using opened NisbettWilson",
   "B052": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone-25 QC repairs applied in commit 507f3a5cb (invented-psychology removal; Karaniya Metta Sutta citation note distinguishing metta from karuna added; page's compassion application offered as its own rather than the sutta's instruction); current page carries the repaired text (citation note present, \"ask what assistance they want\" application framing). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words]",
   "P066": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): QC round-2 repairs applied in commit 988846cf8 and the page subsequently reworked further; the current page carries the honest scope-bounding (verbatim James quotation with linked Gutenberg carrier; \"This page's application, rather than a claim James makes\"; \"an exercise rather than a claim about what experience ultimately is\"). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: final QC round 2]",
   "B060": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone-25 QC repairs applied in commit 507f3a5cb (Dogen fascicle fish/bird passage added with locator; gaining-idea framing as the page's application rather than Dogen's phrasing); current page carries the repaired text (fish/bird passage and gaining-idea framing present). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone-25 QC repairs: removed invented psychology/overclaims, fixed locators, re-derived plain words]",
@@ -56,6 +55,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T06:32:02+00:00",
+ "updated": "2026-10-25T06:32:26+00:00",
  "band_done": false
 }
