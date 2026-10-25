@@ -147,3 +147,10 @@ reference, unique source ids in brackets):
   Study 1 statistics; Singh medians/means/ranges recorded under the
   paper's exact labels; OYC lecture 11 chapter 1 (00:00:00-00:09:06)
   content-verified, remaining videos are candidates.
+- 2026-10-25 worker-pplx-psychdim-1 (gap resolved, gate still uncleared by
+  owner): the adult self-regulation strand is now grounded (Werner and
+  Berkman 2024 on self-control as dynamic motivational process; Reed et
+  al. 2020 adult structure with the older-adult limit stated; Dang 2018;
+  Alarcon-Espinoza et al. 2022). The coverage gate is not cleared by the
+  degree owner: it awaits independent confirmation. Phase 0 pilot
+  stop-gate still blocks module production.
