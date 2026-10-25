@@ -42,7 +42,7 @@ The design is observational and does not establish causation, and the unsupporte
 
 ## Where the new idea comes from
 
-The process has two named modes. Divergent thinking is "spontaneous, free-flowing thinking with the goal of generating many different ideas in a short period"; convergent thinking is "more disciplined thinking, focused on narrowing possibilities to a workable solution" ([Hennessey and Amabile 2010, pp. 573, 579](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). [CO074 — Cultivate creative thinking — divergent and convergent modes](https://clemvillatte.github.io/flourishing-compendium/#card=CO074%20%E2%80%94%20Cultivate%20creative%20thinking%20%E2%80%94%20divergent%20and%20convergent%20modes) draws the practical consequence: generation and evaluation are different jobs, and doing them as separate passes is a skill, not a personality trait.
+The process has two named modes. Divergent thinking is "spontaneous, free-flowing thinking with the goal of generating many different ideas in a short period"; convergent thinking is "more disciplined thinking, focused on narrowing possibilities to a workable solution" ([Hennessey and Amabile 2010, pp. 573, 579](https://site.caes.uga.edu/sandlin/files/2023/10/Hennessey-Amabile-2010.pdf)). [CO074 — Cultivate creative thinking — divergent and convergent modes](https://clemvillatte.github.io/flourishing-compendium/#card=CO074%20%E2%80%94%20Cultivate%20creative%20thinking%20%E2%80%94%20divergent%20and%20convergent%20modes) draws the practical consequence: generation and judgment are different jobs, and its exercise is to try them as separate passes.
 
 Inside the generative mode there is a signature pattern, the serial order effect:
 
