@@ -420,8 +420,7 @@ now the authority of record.
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 21): lecture 13 (Why Are
 People Different, 65:49) chapters 3 to 6 read in full from the transcript on the [OYC
 page](https://oyc.yale.edu/psychology/psyc-110/lecture-13), via a full-text fetch returning
-the cleaned page text as-is (see the batch 23 provenance correction); chapters 1 to 2 were
-verified previously, so this completes the lecture.
+the cleaned page text as-is (see the batch 23 provenance correction); chapter 2 was verified previously (batch 12), so this entry completes the lecture except for chapter 1, of which only the opening had been read before; chapter 1's complete bounded read was completed later, in the batch 23 raw-source review (see the batch 21 closing note and the batch 23 entry).
 
 Chapter 3 (Defining and Measuring Intelligence, 00:19:47 to 00:30:29): Bloom presents the
 difficulty of defining intelligence (an expert survey naming abstract reasoning, problem
@@ -616,8 +615,7 @@ evolutionary split; and Bloom's opinion that teaching apes sign language is misg
 wild systems the interesting study. Serves the M3 cognitive elective. Chapter 2 (The
 Relationship between Language and Thought, 00:09:16 to 00:12:39): the skipped subfields
 (language in the brain, aphasias, specific language impairment, dyslexia, perception and
-production, reading as a cultural invention versus language as an instinct); and the two
-language-and-thought questions framed for the next course segment: is language necessary for abstract thought (framed as an open question, to be studied by looking at creatures without language such as babies and chimpanzees and how smart they are) and does language structure thought (linguistic relativity, English versus Korean). Serves the
+production, reading as a cultural invention versus language as an instinct); and the two language-and-thought questions posed for the course reading response (Bloom says the readings and the reading response address the Sapir-Whorf question): is language necessary for abstract thought (framed as an open question, to be studied by looking at creatures without language such as babies and chimpanzees and how smart they are) and does language structure thought (linguistic relativity, English versus Korean). Serves the
 M3 cognitive elective. Chapter 3 (Question and Answer on Language, 00:12:39 to 00:18:06):
 individual differences in language learning (Bloom's Einstein-did-not-speak-until-age-four anecdote, explicitly flagged by Bloom as not a true story; slight female advantage; large
 genetic factor; hemispheric bases); bilingual children distinguishing and learning both
