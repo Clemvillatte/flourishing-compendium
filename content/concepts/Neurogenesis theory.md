@@ -17,11 +17,9 @@ The theory's status in humans is contested. A 2018 study that directly counted y
 
 > "We conclude that recruitment of young neurons to the primate hippocampus decreases rapidly during the first years of life, and that neurogenesis in the dentate gyrus does not continue, or is extremely rare, in adult humans." (Sorrells et al. 2018, [abstract](https://pubmed.ncbi.nlm.nih.gov/29513649/))
 
-The same abstract records what had made the idea attractive: in mammals the process "has been linked to learning and memory, stress and exercise". That link is why the debate matters for mood and learning.
+The same abstract records what had made the idea attractive: in mammals the process "has been linked to learning and memory, stress and exercise". That link is what makes the question of whether new neurons appear matter beyond anatomy.
 
-The two abstracts state the disagreement at the level of the evidence rather than of doctrine: one demonstrates new neurons generated from dividing progenitor cells in the dentate gyrus of adult humans; the other concludes that recruitment of young neurons decreases rapidly during the first years of life and that neurogenesis in the dentate gyrus does not continue, or is extremely rare, in adult humans. Both papers work on human hippocampal tissue, and the disagreement is about what is present in it and at what ages.
-
-The stakes named in the abstracts are the mammalian links to learning and memory, stress and exercise. Those are the reasons the question of whether new neurons appear matters beyond anatomy, and the debate is carried out in those terms.
+The two abstracts state the disagreement at the level of the evidence: the 1998 paper concludes that new neurons are generated from dividing progenitor cells in the dentate gyrus of adult humans and that the human hippocampus retains its ability to generate neurons throughout life; the 2018 paper concludes that recruitment of young neurons to the primate hippocampus decreases rapidly during the first years of life and that neurogenesis in the dentate gyrus does not continue, or is extremely rare, in adult humans. That is a disagreement between two studies, twenty years apart, and neither abstract settles it for the field.
 
 ### Here
 
