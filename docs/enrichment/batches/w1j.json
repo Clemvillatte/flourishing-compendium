@@ -4,14 +4,12 @@
   "The witness",
   "The still mirror",
   "The avoidance of suffering",
-  "Variability in practice",
   "The seasons of the body",
   "The water metaphor",
   "Throwing away the ladder",
   "Ritual",
   "Self-distancing",
   "Perspectivism",
-  "Self-serving attribution bias",
   "Radical freedom",
   "Restorative justice",
   "Shared reality",
@@ -70,7 +68,9 @@
   "Timing as wisdom",
   "Proper pride (megalopsychia)",
   "Following nature's rhythm",
-  "The contemplative life"
+  "The contemplative life",
+  "Self-serving attribution bias",
+  "Variability in practice"
  ],
  "in_progress": null,
  "flagged": {
@@ -115,10 +115,12 @@
   "Timing as wisdom": "Reopened for QC: QC: prose 88 < 150 (pre-existing); expand from page's verified Eno ch.64 quotes",
   "Proper pride (megalopsychia)": "Reopened for QC: QC: prose 98 < 150 (pre-existing); expand from page's verified Ross NE IV.3 quotes",
   "Following nature's rhythm": "Reopened for QC: QC: prose 100 < 150 (pre-existing); expand from page's verified Eno ch.25 material",
-  "The contemplative life": "Reopened for QC: QC: prose 111 < 150 (pre-existing); expand from page's verified Ross NE X quotes"
+  "The contemplative life": "Reopened for QC: QC: prose 111 < 150 (pre-existing); expand from page's verified Ross NE X quotes",
+  "Self-serving attribution bias": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Mezulis 2004 material",
+  "Variability in practice": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Rohrer 2015 material"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:35:02+00:00",
+ "updated": "2026-10-25T01:35:18+00:00",
  "band_done": false
 }

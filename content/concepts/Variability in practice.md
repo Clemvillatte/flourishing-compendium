@@ -16,6 +16,8 @@ The study ran with 126 seventh-grade students over three months. Every student r
 
 The one-day gap gave a moderate benefit (d = 0.42); the thirty-day gap gave a large one (d = 0.79) ([Rohrer et al. 2015](http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer_et_al_2015JEdPsych.pdf)).
 
+The finding matters for how practice is scheduled, not for how much of it is done. Both groups solved the same problems in the same quantities; the interleaved group met each problem type without the current chapter as a cue, so the practice trained recognising the kind of problem in front of them rather than running the chapter's routine. The benefit grew with the delay between practice and test, which is the pattern that separates learning that holds from learning that is refreshed in time for the exam.
+
 ### Here
 
 - [[P101 — Repeat with difference — never pure repetition]]
