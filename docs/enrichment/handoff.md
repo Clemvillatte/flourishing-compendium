@@ -294,3 +294,4 @@ ruling.
   Albert Camus and Simone de Beauvoir.
 - Account signed in via owner-provided 6-digit code; no browser
   session remains.
+- PENDING (supervisor 2026-10-25 12:51Z, worker-pplx-k1f-1025bb): ST433 — The Squirrel at the Camp genuinely lacks its T009 Zhuangzi backlink (the t1a proposal's filename "The Pheasant That Does Not Ask for a Coop" is outdated). Story pages are owner-blocked: this needs a storyteller's review of the intended connection, not an automatic insertion. All other t1a/t1d/t1f reciprocal records are archived to proposals/applied/ as satisfied (1,146 records; one T051 name-conflation record rejected with evidence in t1f.json note).
