@@ -65,7 +65,7 @@ The accounts also map where the pressure goes.
 
 [Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the original exit: aggression, revised by Berkowitz into inclinations rather than acts, with the reformulation quoted in the section below.
 
-[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure.
+[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure. In Agnew's account strain is a negative relation with another person, and the effect of strain runs through negative emotion: the Baylor ISR paper summarises it as, "GST posits that strain generates negative emotions that provide motivation for deviance as a coping strategy because such emotional forces create pressure for corrective action" ([Jang and Johnson 2003, hosted by Baylor ISR](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)). For Agnew, anger is the "most critical emotional reaction" to strain, though the theory holds that strain raises the whole range of negative emotions ([Jang and Johnson, quoting Agnew 1992 p. 59](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)).
 
 [Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): the neighbouring state, held in its own dossier, with the Seneca line drawn in Nearby terms above.
 
@@ -85,7 +85,7 @@ That list joins the two failure modes this theme keeps meeting: the hostile exit
 
 ### The classical answers
 
-[Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard)
+[Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's protocol. The Ethics defines anger as the desire, "whereby through hatred we are induced to injure one whom we hate" (Ethics III, Definitions of the Affects XXXVI, [Elwes translation](https://www.gutenberg.org/ebooks/3800)), and defines evil in the P39 note as "every kind of pain, especially that which frustrates our longings" ([Elwes translation](https://www.gutenberg.org/ebooks/3800)). Anger, on the theory, is frustrated longing pressed against a person; the protocol is to name the frustration before deciding what to do with it.
 
 [Dissect anger when it arises](https://clemvillatte.github.io/flourishing-compendium/#card=B105%20%E2%80%94%20Dissect%20anger%20when%20it%20arises): Shantideva's usefulness question from the patience chapter: if a problem has a remedy, what use is the dejection; if there is no remedy, what use is the dejection.
 

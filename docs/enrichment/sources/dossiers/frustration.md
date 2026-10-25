@@ -154,3 +154,64 @@ verification carrier); the Shantideva 6.10 verse with the Padmakara
 Translation Group attribution (Tsadra chapter page, curly apostrophe in
 "there’s" confirmed); and both Turner 2016 LFT sentences (PMC5028385,
 freshly fetched). No discrepancies found; no edits to the page were needed.
+
+
+## Rev — GST and SP031 glosses restored (worker-pplx-dos30-1025e, 2026-10-25)
+
+The ledger's open item ("GST and SP031: the external carriers were
+not opened this session; the page keeps navigation-only glosses, and a
+future writer who opens the carriers can restore the substantive
+claims") is resolved. Both external carriers were opened fresh this
+session and the substantive glosses restored to the dossier.
+
+Carriers opened this session:
+
+1. Spinoza, Ethics, Elwes translation, Project Gutenberg raw text,
+   https://www.gutenberg.org/cache/epub/3800/pg3800.txt
+   Two passages verified verbatim against the raw text (local
+   extraction): the Definitions of the Affects XXXVI (Anger) and
+   XXXVII (Revenge), and the III, P39 note's evil definition ("By
+   evil, I mean every kind of pain, especially that which frustrates
+   our longings"). The 2003 February raw text is the
+   plain-text PG edition; the card cites the same ebook at
+   https://www.gutenberg.org/ebooks/3800.
+
+2. Jang and Johnson 2003, "Strain, Negative Emotions, and Deviant
+   Coping Among African Americans: A Test of General Strain Theory",
+   hosted by Baylor ISR, http://www.baylorisr.org/wp-content/uploads/
+   johnson_strain_negative.pdf. The live baylorisr.org URL is behind
+   a Cloudflare "Just a moment" interstitial this session, so the
+   PDF was fetched through the Wayback Machine's mirror of the same
+   URL (web.archive.org). The passage the card quotes was verified
+   verbatim against the extracted PDF text, at page 82: "GST posits
+   that strain generates negative emotions that provide motivation
+   for deviance as a coping strategy because such emotional forces
+   create pressure for corrective action" and "For Agnew (1992, p.
+   59), anger is the 'most critical emotional reaction' to strain,
+   but 'strain increases the likelihood that individuals will
+   experience one or more of a range of negative emotions.'"
+   Attribution note: the "most critical emotional reaction" clause is
+   the Baylor paper's summary of Agnew 1992 p. 59, not a verbatim
+   Agnew sentence; the dossier cites it as such, not as a quote from
+   Agnew.
+
+The GST gloss now carries: the theory's mechanism (strain through
+negative emotion), the anger-as-most-critical-reaction clause, and
+the strain-raises-the-whole-range clause, all attributed to the
+opened Baylor carrier. The SP031 gloss now carries the Ethics
+definitions (Anger, the P39 evil note) from the opened Elwes text,
+and states the protocol (name the frustration before deciding what to
+do with it) as the page's own connection, per the advisor's earlier
+guidance on editorial synthesis.
+
+The coping-resources claim (the Wiley Encyclopedia's "delinquent or
+criminal coping may not result if the individual has different forms
+of emotional, physical, or spiritual coping resources") remains
+restored to the card, not the dossier: the encyclopedia entry was not
+opened this session, and the dossier keeps the theory-level claim
+the Baylor carrier supports. This is a scope decision, not a gap; a
+future writer who opens the encyclopedia entry can extend the gloss
+further.
+
+Checker after this revision: exit 0 (25 card links resolve, 13
+headers, 12 external carrier link occurrences).
