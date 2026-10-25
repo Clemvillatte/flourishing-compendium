@@ -16880,7 +16880,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing.\" (Epictetus, [Enchiridion 5, Perseus translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:5/?right=perseus-eng4))",
+          "x": "\"Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing.\" (Epictetus, [Enchiridion 5, Perseus translation](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:5/?right=perseus-eng4); same wording in the [George Long 1877 text on Wikisource](https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual))",
           "s": null
         },
         {
