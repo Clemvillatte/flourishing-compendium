@@ -2,9 +2,9 @@
 
 > What is free time for, once it is actually free?
 
-I want to know what the hours no one is paying for are for. The answer that they exist to recover a person for the next stretch of work is not wrong, only incomplete, and it leaves the interesting question standing: if rest is taken for the sake of activity, what is the activity then for? This dossier asks that question of the classical accounts of scholē and of the modern research on what actually restores people, and it keeps the two in conversation rather than picking one.
+I want to know what the time genuinely at a person's disposal is for. The answer that it exists to recover a person for the next stretch of work is not wrong, only incomplete, and it leaves the interesting question standing: if rest is taken for the sake of activity, what is the activity then for? This dossier asks that question of the classical accounts of scholē and of the modern research on what actually restores people, and it keeps the two in conversation rather than picking one.
 
-The question matters to me because free time is where a life's shape shows. The hours are either the place where the things worth having for their own sake happen, or they are a waiting room between shifts, and the difference between those two is not a matter of schedule. The disagreements I find are real, and they run from who gets leisure at all to what the recovered capacity is then for.
+The question matters to me because free time is where a life's shape shows. The hours can be the place where the things worth having for their own sake happen, or they can sit between shifts as a waiting room, and much of the time they are something in between. What a person does with the hours at their disposal is not settled by the schedule alone, and the disagreements I find are real: they run from who gets leisure at all to what the recovered capacity is then for.
 
 ### Nearby terms
 
@@ -147,6 +147,7 @@ Stebbins rejects Veal's case for replacement. He records the challenge as the mo
 The disagreement is direct. Veal proposes a broader successor that combines features of the SLP with other research traditions ([Veal, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)); Stebbins rejects the grounds offered for that replacement, arguing that Veal overlooks central concepts and the framework's theoretical foundations ([Stebbins, 2018](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/leisure_reflections_no._47__the_serious_leisure_perspective__past_present_and_future___leisure_studie.pdf)). Their disagreement concerns what leisure research should build on, a different question from whether serious and casual leisure form distinct categories.
 
 I would not replace it yet. Veal's case is that the framework is untested as theory, and an untested framework is a research programme, which is what Stebbins says he is offering; the honest reading is that the framework organises the field and the testing is still owed.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: The thing to vary on this theme is what free time is asked to be. The options on offer are maintenance for the next shift, a slot to fill with whatever is easiest, and something with a use of its own. The third is the one worth testing: attention that recovers, a stance that receives, and hours not measured by output.

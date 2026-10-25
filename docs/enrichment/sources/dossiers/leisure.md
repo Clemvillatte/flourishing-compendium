@@ -289,3 +289,21 @@ dossier_quote_verify.py 40 checked 0 not found.
 Still open for a future pass, recorded here rather than claimed done: a
 reader-level pass over the relocated subsections' fit inside their new
 main-body sections, and the batch record note.
+
+## Final verification pass (2026-10-25, worker-pplx-dos34-1025z2)
+
+The reader-level check of the full file was completed. The opening
+distinction was corrected: "the hours no one is paying for" became "the
+time genuinely at a person's disposal", since the unpaid-hours phrasing
+would have swept in unpaid care and household work, which is the very
+complication the relocated feminist discussion identifies, and the
+either/or waiting-room binary in the second paragraph was softened to
+"much of the time they are something in between". The Stebbins-Veal
+split was checked against the evidence: the continuum question keeps the
+two-forms assertion, Veal's continuum and helping example, and the
+uniqueness-claims evidence charge; the replacement question keeps the
+2017 theory evaluation, the Leisure Experience Perspective proposal,
+and Stebbins's four-problem rejection. Each first-person judgment is
+present and follows its evidence. Checks: dossier_check.py OK,
+dossier_density.py 0 dense, dossier_quote_verify.py 40 checked 0 not
+found. Batch record updated earlier this pass.
