@@ -954,10 +954,11 @@ Next actions, in order: (1) if the owner grants the exception, a supervisor
 applies the draft section to the live dossier and rebuilds via
 dossier_registry_build.py --rebuild=right-view; (2) if the owner instead
 requires three primary-supported, the missing piece is an opened PRIMARY
-Abhidharma text affirming svabhāva alongside causal production (candidates:
-Vasubandhu's Abhidharmakośa on dravya; a Sarvāstivāda saṃgīti record) — the
-SEP aside and Kalupahana's commentary do NOT carry it (both checked this
-session); (3) the two documented quote-verify exceptions (archive.org
+Abhidharma text affirming svabhāva alongside causal production — the SEP
+aside and Kalupahana's commentary do NOT carry it (both checked this
+session); UNVERIFIED SEARCH LEADS, not established carriers or known
+solutions: possibly Vasubandhu's Abhidharmakośa on dravya, or a
+Sarvāstivāda saṃgīti record — neither has been checked for availability; (3) the two documented quote-verify exceptions (archive.org
 Kathāvatthu scan; antilogicalism MMK PDF) are PDFs the verifier cannot
 parse — both were raw-extracted and visually verified from rendered pages
 this session; do not re-litigate them without a reason. Checks on the draft:
