@@ -37,7 +37,7 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 - [[Right mindfulness]] — another factor in the same MN 9 list
 - [[The coloured lens]] — my image for biased seeing, used in the Right View parallels
 - [[Appraisal theory]] — its page links B021's interpretation-first orientation
-- [[First impressions bias]] — its seed names Buddhism's Right View as its tradition
+- [[First impressions bias]] — names Buddhism's Right View as its tradition
 - [[Cognitive distortions]] — the distortion patterns CO051 pairs with Right view
 - [[The standpoint determines what appears]] — its page cites B021 among its parallels
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
