@@ -109,6 +109,10 @@ The diary study found a lagged association: days with more reported creative act
 
 On the work itself: Sennett's craftsman wants to do a job well for its own sake, with objective standards, on the thing itself. Zhuangzi's bell-stand maker loses thought of reward and praise before he touches the tree. Arendt's homo faber erects a world and asks whether the machines still serve it.
 
+A contrast I keep here rather than in the disagreements, because the passages do not oppose each other on one proposition: Arendt's toolmaker "invented tools and implements in order to erect a world, not—at least, not primarily—to help the human life process" ([Arendt, The Human Condition, excerpt](https://kortina.nyc/notes/the-human-condition/)), while Bergson's creation runs on the vital side of that line — joy "always announces that life has succeeded, gained ground, conquered", and his clearest case of a creator is the mother beholding her child ([Bergson, Life and Consciousness](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)).
+
+The two lives named here are not the same thing — Arendt's life process is the biological cycle of labour, Bergson's life is the creative thrust — and neither passage denies what the other affirms. I read it as a difference of emphasis about the same making: the thing may serve a durable world and still be, for the maker, one more form that life takes.
+
 Can these aims conflict, and what should take priority if they do? The passages quoted here do not settle it.
 
 ## Where the traditions genuinely disagree
@@ -128,6 +132,26 @@ Nietzsche says created. The significance of things is human, assigned, and nothi
 These accounts give making different roles: responding to a meaning already in the world for Frankl, assigning value for Nietzsche. What the two sources leave unresolved is whether they are incompatible accounts of the same meaning or different aspects of one act of making, the usefulness of a made thing being there to be found while its worth is conferred.
 
 I lean toward the second reading, because the two passages do not address the same proposition: Frankl speaks of the meaning of a life, Nietzsche of the significance of things, and a maker can plausibly find the one and confer the other. But that is my reading, and the sources themselves do not settle it.
+
+### Does the maker's tendency run toward his own completion, or beyond it?
+
+Maslow, naming the need he called self-actualization in 1943, put the self's completion at the centre of the account:
+
+> "A musician must make music, an artist must paint, a poet must write, if he is to be ultimately happy. What a man can be, he must be." ([Maslow, "A Theory of Human Motivation", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
+
+> "It refers to the desire for self-fulfillment, namely, to the tendency for him to become actualized in what he is potentially." ([Maslow, "A Theory of Human Motivation", 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
+
+The desire he names runs toward the self: to become what one is, everything one is capable of becoming. He hedges the creative reading himself — the need "is not necessarily a creative urge", and satisfaction rests on doing what one is fitted for — but the direction of the tendency is the self's realization. The [P114 — Create as growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) card carries the same reading: creation as the evidence of growth.
+
+Frankl denies that direction. Being human, he writes, points away from the self:
+
+> "It denotes the fact that being human always points, and is directed, to something, or someone, other than oneself—be it a meaning to fulfil or another human being to encounter." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
+
+> "In other words, self-actualization is possible only as a side-effect of self-transcendence." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
+
+The disagreement turns on the direction of the fundamental tendency, and the two sides state it directly. Maslow's passage affirms that the desire is for self-fulfillment, the self's own realization. Frankl's passage denies that the self can be the direction — being human points to something or someone other than oneself — and denies that the fulfilment can be an aim: the more one would strive for it, the more one would miss it.
+
+I lean toward Frankl's reading of the attainment, resting on the passages themselves: his sentence says the striving defeats the aim, and Maslow's own satisfaction condition, doing what one is fitted for, already puts the work in the foreground rather than the self. But the two papers do not settle whether these are rival accounts of one tendency or two tendencies sharing a word, and Maslow's hedges leave room for Frankl's reading inside his own text.
 
 ## Practice: variation, selection, retention
 

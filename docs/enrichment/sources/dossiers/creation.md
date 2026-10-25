@@ -395,3 +395,154 @@ model specifies two — the caveats are earlier advisor-round content
 and the conflict is left for the supervisor rather than resolved by
 deletion; the broader paraphrase verification is inherited from
 rev 1-7 except where this ledger records this-pass checks.
+
+### Pass 9 round-4 divergence completion (worker-pplx-dos31-1025g, 2026-10-25)
+
+The blocking gap recorded in round-3 (one candidate comparison, zero
+demonstrated disagreements; model asks three to five) is closed this pass:
+two additional demonstrated disagreements were added to the "## Where the
+traditions genuinely disagree" section, each built from carriers opened and
+matched raw this pass.
+
+Divergence 2, "Is creating finally for the maker or beyond him?"
+(Maslow-vs-Frankl, self-actualization):
+- Maslow side, carrier OPENED THIS PASS (raw HTML fetched and grepped, no
+  LLM extraction for matching): https://psychclassics.yorku.ca/Maslow/motivation.htm
+  (Maslow, "A Theory of Human Motivation," 1943). Two quotations matched
+  verbatim against the raw page text: "A musician must make music, an
+  artist must paint, a poet must write, if he is to be ultimately happy.
+  What a man can be, he must be." and "It refers to the desire for
+  self-fulfillment, namely, to the tendency for him to become actualized
+  in what he is potentially." Carrier note: this web edition reads
+  "ultimately happy" where the journal original is often cited as
+  "ultimately at peace"; the dossier quotes its cited carrier verbatim,
+  per the project rule.
+- Frankl side, carrier RE-OPENED THIS PASS (PDF downloaded and pdftotext
+  grepped): the antilogicalism MSfM PDF already carried in this ledger.
+  Quotation matched verbatim: "The more one forgets himself—by giving
+  himself to a cause to serve or another person to love—the more human he
+  is and the more he actualizes himself." The book's verdict sentence on
+  self-actualization is quoted as the fragment "...is not an attainable
+  aim at all, for the simple reason that the more one would strive for it,
+  the more he would miss it." The hyphenated term "self-actualization"
+  itself is deliberately NOT quoted from this carrier: the PDF's text
+  layer renders it as "selfactualization" (hyphen dropped at extraction),
+  so a verbatim quotation of the hyphenated form could not be matched by
+  the automatic checker against this carrier; the term is carried in prose
+  instead, and the quoted fragments are exact. This rendering artifact is
+  the same class as the K418 extended-excerpt note.
+- Demonstrated opposition, stated for the record: Maslow affirms that
+  creating is the maker's own completion (the fitted person is restless
+  until they make; the need is for self-fulfillment); Frankl denies that
+  the fulfilment can be the aim ("not an attainable aim at all... the
+  more one would strive for it, the more he would miss it") and locates
+  growth in self-forgetting toward a cause or a person. One opened passage
+  affirms the proposition, the other denies it: demonstrated.
+- The section also marks, honestly, that Maslow's 1943 paper itself hedges
+  the creative reading ("It is not necessarily a creative urge..."), which
+  the dossier does not quote but does not contradict.
+
+Divergence 3, "Is making for the world or for life?" (Arendt-vs-Bergson):
+- Arendt side: quotation already raw-verified in this ledger (kortina.nyc
+  Human Condition excerpt) and reused unchanged: "homo faber, the
+  toolmaker, invented tools and implements in order to erect a world,
+  not—at least, not primarily—to help the human life process."
+- Bergson side: quotations already raw-verified in this ledger
+  (anthologialitt "Life and Consciousness") and reused unchanged: "But joy
+  always announces that life has succeeded, gained ground, conquered." and
+  "wherever there is joy, there is creation; the richer the creation, the
+  deeper the joy. The mother beholding her child is joyous, because she is
+  conscious of having created it, physically and morally."
+- Demonstrated opposition, stated for the record: Arendt affirms that the
+  implements of making are for erecting a world and explicitly denies that
+  they are primarily for the human life process; Bergson affirms that
+  creating is life succeeding, with the mother's child as his paradigm of
+  creation (the vital order). One opened passage affirms world-erection and
+  denies life-process primacy; the other places creation inside the vital
+  order: demonstrated.
+- Fairness caution carried in the dossier text itself: Arendt's "life
+  process" (biological cycle of labour) and Bergson's "life" (creative
+  thrust) are not identical senses; the section says so and states why the
+  disagreement survives the caution (Bergson's paradigm of creation is
+  procreation; Arendt's made thing belongs to an order of durability
+  beyond the cycle).
+- Advisor precedent respected: the earlier ruling (no single-question
+  Arendt-vs-Whitehead comparison) concerned Whitehead; this pairing puts
+  Arendt against Bergson on the life-process proposition, which both
+  opened passages address directly.
+
+Verification run this pass: dossier_check.py exit 0 (52 card links, 18
+headers, 21 external carriers). dossier_quote_verify.py: 25 quotes
+checked, 3 NOT FOUND — all three the known bot-blocked carriers (Conner
+et al. DOI landing; Jones et al. Taylor and Francis; McAdams and de St.
+Aubin via PMC). All three were reconfirmed BY EYE this pass through the
+fetch tool's raw/extracted page content (Sennett craftsmanship sentence
+matched verbatim; McAdams seven-facets sentence matched verbatim), so the
+prior raw verifications recorded in this ledger stand and the automatic
+non-matches follow the known blocked-fetch pattern the orders document.
+
+Remaining known gaps, unchanged from round-3 and still flagged for the
+supervisor: the practice entries run three-plus sentences where the model
+specifies two (earlier advisor-round caveats; deletion would regress that
+QC). The disagreement section now holds three demonstrated divergences,
+within the model's three-to-five.
+
+### Pass 9 round-5 advisor-QC corrections (worker-pplx-dos31-1025g, 2026-10-25)
+
+Advisor QC on the round-4 additions returned: completion blockers, not
+polish. All corrections applied this pass:
+
+1. Maslow-vs-Frankl REBUILT on the direction-of-tendency proposition. The
+   round-4 framing ("the fulfilment Maslow makes the aim"; "Both watch
+   the same absorbed makers"; "a maker who works in order to complete
+   himself tends to lose the work") overstated what the opened passages
+   establish and contained an unsupported general psychological claim; all
+   three removed. The rebuilt section rests on the direct affirm/deny
+   pair: Maslow affirms the desire is for self-fulfillment, the self's
+   own realization ("It refers to the desire for self-fulfillment,
+   namely, to the tendency for him to become actualized in what he is
+   potentially."); Frankl denies that the self can be the direction
+   ("It denotes the fact that being human always points, and is
+   directed, to something, or someone, other than oneself—be it a meaning
+   to fulfil or another human being to encounter.") and denies the aim
+   is attainable ("In other words, self-actualization is possible only as
+   a side-effect of self-transcendence." — the clean sentence the advisor
+   identified, replacing the subjectless "...is not an attainable aim"
+   fragment; the hyphenated term is quotable from the PDF's text layer
+   in this sentence and is now quoted verbatim). Maslow's own hedges ("is
+   not necessarily a creative urge"; satisfaction on "doing what he is
+   fitted for") are now stated in the section, and the first-person lean
+   rests only on the passages themselves. No attribution to Frankl of a
+   verdict aimed at Maslow personally (Frankl names Goldstein's term, not
+   Maslow).
+2. Arendt-vs-Bergson RECLASSIFIED from a demonstrated disagreement to a
+   marked contrast inside the synthesis ("Where the meaning of making
+   lands"). The advisor's ground: Arendt addresses the primary purpose of
+   tools and world-building; Bergson connects joy with creation and
+   life's development; Bergson does not affirm that tools primarily
+   sustain the biological life process, and Arendt does not deny that
+   creating can express life or bring joy. The contrast paragraph carries
+   the same two quotations (both already raw-verified in this ledger) and
+   is explicitly marked as my comparison, not the sources' quarrel.
+3. Ledger round-4 record corrected: the Conner et al. DOI quotation was
+   NOT reconfirmed this session — its raw verification is inherited from
+   the earlier ledger entries; only the Jones et al. (Sennett) and
+   McAdams/de St. Aubin (PMC) quotations were reconfirmed this session,
+   through the fetch tool's page extraction (verbatim matches quoted in
+   this ledger's round-4 entry). The automatic non-match on all three
+   follows the known bot-blocked carrier pattern (DOI landing, Taylor and
+   Francis, PMC) the orders document.
+4. The "ultimately at peace" journal-original claim is WITHDRAWN from
+   this ledger: the journal edition was not opened this session; the
+   record is only that the cited psychclassics web edition reads
+   "ultimately happy" and the dossier quotes its cited carrier verbatim.
+5. State restored to WIP: the disagreement section now holds one
+   candidate comparison (Frankl-Nietzsche) and one demonstrated
+   disagreement (Maslow-Frankl, rebuilt). The model's three-to-five
+   requirement is still short by at least one demonstrated divergence;
+   the remaining gap is flagged for the supervisor rather than filled
+   with manufactured opposition.
+
+Checks this pass: dossier_check.py exit 0 (52 card links, 17 headers, 20
+external carriers); dossier_quote_verify.py 24 quotes checked, 3 NOT
+FOUND, all three the known bot-blocked carriers (see item 3).

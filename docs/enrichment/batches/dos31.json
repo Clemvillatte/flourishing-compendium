@@ -1,15 +1,8 @@
 {
  "batch": "dos31",
- "done": [
-  {
-   "slug": "creation",
-   "worker": "worker-pplx-dos31-1025c",
-   "state": "publication: pending supervisor (advisor QC passed round 7)",
-   "verification": "seven-rev build (rev 1 first draft + ledger; revs 2-7 advisor rounds 1-6). Every block quotation verified word-for-word against unprompted raw text (raw curl downloads, raw HTML with tags stripped, or fetch-tool raw HTML where curl is bot-blocked); three extraction reconstructions caught by raw comparison and fixed (Arendt, Whitehead, Rubinstein). Divergence developed on opened carriers: Frankl's discover-in-the-world sentence (grep-verified against the raw PDF text) vs Nietzsche's created-significance passages (Gutenberg raw), framed as a tension with the reconciliation left as an unresolved question. Connections-between-ideas cluster added (Conceptual metaphor theory, Insight research, The interconnected good) with exclusions substantiated by full card reads. Checker exit 0 (51 card links, 16 headers, 14 external carrier occurrences across 9 distinct URLs). Registry status left planned for the supervisor flip."
-  }
- ],
- "note": "Pass 9: restructured to GF interwoven format, WIP per advisor QC rounds 1-3. One candidate comparison, zero demonstrated disagreements (model asks 3-5) \u2014 that gap blocks completion. T&F quotes reconfirmed this pass against fetch-tool raw HTML. rev 7 note below is superseded for the current manuscript.",
- "in_progress": "",
+ "done": false,
+ "note": "pass 9 WIP (worker-pplx-dos31-1025g, 2026-10-25, round 5): disagreement section now holds 1 candidate comparison (Frankl-Nietzsche) + 1 DEMONSTRATED divergence (Maslow-Frankl rebuilt on direction-of-tendency per advisor QC: Maslow affirms desire for self-fulfillment; Frankl denies the self can be the direction; clean side-effect sentence quoted verbatim). Arendt-Bergson reclassified as marked contrast in synthesis per advisor (no single-proposition opposition). Model's 3-5 requirement still short by >=1 demonstrated divergence — flagged for supervisor, not manufactured. dossier_check exit 0; quote verify 24 checked / 3 known bot-blocked (Conner DOI NOT reconfirmed this session — inherited verification; Jones T&F and McAdams PMC reconfirmed via fetch-tool extraction). Ledger round-5 entry records all corrections. FLAG FOR SUPERVISOR: (a) 38 entries remain in plain-words-replicates.md with no active band; (b) practice entries still 3+ sentences vs model's 2 (inherited advisor-caveat conflict); (c) registry left 'planned' for supervisor flip.",
+ "in_progress": "creation-restructure-pass9",
  "flagged": {
   "divergence-requirement": "Developed and raw-verified: Frankl ('the true meaning of life is to be discovered in the world rather than within man or his own psyche', grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, corrected and strengthened through rev 7; supervisor review of the divergence itself requested",
   "procreation": "full-text search across content/ finds no card carrying the word \"procreation\"; the nearest material is generativity, legacy research and Bergson's mother-and-child passage; possible owner-visible gap"
@@ -21,8 +14,9 @@
    "done": false,
    "date": "2026-10-25",
    "worker": "worker-pplx-c3b0f2fb",
-   "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim. Advisor QC rounds 1-3 applied (evidence bridges fixed/narrowed; disagreement section now holds ONE CANDIDATE comparison, ZERO demonstrated disagreements, count requirement unmet and flagged; where-it-lands moved to body synthesis; opening/shape fixes; banned institutional-voice phrase removed). Evidence this pass: Frankl PDF and Nietzsche Gutenberg reopened and matched verbatim with context read; both T&F quotes reconfirmed against the fetch-tool RAW HTML (not the generated extraction) this pass; P149 card read in full and the prose aligned to the card own hedge. Checker exit 0 (51 links, 16 headers, 14 carriers). Known gaps left flagged: practice entries run 3+ sentences where the model specifies two (the extra sentences are earlier advisor-round caveats; trimming would regress that QC \u2014 flagged for the supervisor), and the broader paraphrase verification is inherited from rev 1-7 except where recorded this pass. STATUS: WIP \u2014 not QC-passed; disagreement count blocks completion/publication.",
+   "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim. Advisor QC rounds 1-3 applied (evidence bridges fixed/narrowed; disagreement section now holds ONE CANDIDATE comparison, ZERO demonstrated disagreements, count requirement unmet and flagged; where-it-lands moved to body synthesis; opening/shape fixes; banned institutional-voice phrase removed). Evidence this pass: Frankl PDF and Nietzsche Gutenberg reopened and matched verbatim with context read; both T&F quotes reconfirmed against the fetch-tool RAW HTML (not the generated extraction) this pass; P149 card read in full and the prose aligned to the card own hedge. Checker exit 0 (51 links, 16 headers, 14 carriers). Known gaps left flagged: practice entries run 3+ sentences where the model specifies two (the extra sentences are earlier advisor-round caveats; trimming would regress that QC — flagged for the supervisor), and the broader paraphrase verification is inherited from rev 1-7 except where recorded this pass. STATUS: WIP — not QC-passed; disagreement count blocks completion/publication.",
    "status": "WIP"
   }
- ]
+ ],
+ "worker": "worker-pplx-dos31-1025g"
 }
