@@ -1470,3 +1470,40 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole lecture, 51:14.
 - Verification status: verified-video (2026-10-25); independent-channel
   basis noted; Braver credentials pending.
+
+### SRC-M19-AR01: Aristotle's Nicomachean Ethics, Book 1 — What Is Happiness? (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the lecture on the Gregory B.
+  Sadler - That Philosophy Guy channel
+  (https://www.youtube.com/watch?v=jpjjhraoNGg); watch page opened
+  2026-10-25. Fall 2011 Ethics class at Marist College. INDEPENDENT-CHANNEL
+  FLAG with named institutional origin in the description.
+- Duration: 1:01:15 (watch page, 2026-10-25).
+- Instructor credentials: Gregory B. Sadler, then teaching at Marist
+  College (per the description; institutional page not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the beginning
+  of Aristotle's Nicomachean Ethics — different answers to "What is
+  Happiness?", means, ends and disciplines.
+- Relevant segment: whole lecture, 1:01:15.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### SRC-M19-ST01: Stoic Ethics — Epictetus' Enchiridion and Discourses (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the lecture on the Gregory B.
+  Sadler - That Philosophy Guy channel
+  (https://www.youtube.com/watch?v=opgYh-X2hww); watch page opened
+  2026-10-25. Spring 2012 Ethics classes at Marist. INDEPENDENT-CHANNEL
+  FLAG with named institutional origin in the description.
+- Duration: 1:32:05 (watch page, 2026-10-25).
+- Instructor credentials: as SRC-M19-AR01 (Sadler, Marist, per the
+  description).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Epictetus and
+  his moral theory — choice, rationality, desires and emotions, the good
+  for human beings, and duties arising from social roles.
+- Relevant segment: whole lecture, 1:32:05.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.

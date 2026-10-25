@@ -1260,3 +1260,45 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole talk, 1:03:30.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### SRC-M18-B02: 2021 Khyentse Lecture — Carmen Meinert (UC Berkeley Numata Center)
+
+- Identity and access: oembed confirms the lecture on the Numata Center
+  for Buddhist Studies, UC Berkeley channel
+  (https://www.youtube.com/watch?v=tu9e-oz3Qag); watch page opened
+  2026-10-25. "Sacred Space and Time: Perspectives on Tantric Buddhist
+  Materials from the Tangut Empire (11th to 13th C.)".
+- Duration: 1:34:21 (watch page, 2026-10-25).
+- Instructor credentials: Carmen Meinert, Professor of Central Asian
+  Religions and PI of the ERC-funded BuddhistRoad project at CERES,
+  Ruhr-Universität Bochum (per the uploader description; institutional
+  page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a case study
+  on Tantric Buddhist ritual practice in Eastern Central Asia under
+  Tangut rule (ca. 1038-1227) — material, visual and textual sources
+  including the Northern Section of the Mogao Cave complex and Mogao Cave
+  465; how caves may have been used for meditation and ritual practice;
+  the transcendence-immanence distinction applied to transformations of
+  ritual and bodily space and perceptions of time.
+- Relevant segment: whole lecture, 1:34:21.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### SRC-M18-K01: Taking Buddhist Philosophy Seriously — Symposium in Honor of Jay L. Garfield, part 3 of 6 (Smith College)
+
+- Identity and access: oembed confirms the symposium session on the Smith
+  College Buddhist Studies channel
+  (https://www.youtube.com/watch?v=LDGG1OSr7bs); watch page opened
+  2026-10-25. Held 29 March 2025.
+- Duration: 59:18 (watch page, 2026-10-25).
+- Instructor credentials: Karin Meyers and Chris Rahlwes, presenters (per
+  the uploader description; institutional pages not opened this
+  session); symposium honoring Jay L. Garfield.
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Meyers on
+  "Naturalizing Buddhism: Karma, Rebirth, and the Practice of
+  Intercultural Philosophy"; Rahlwes on "Buddhist Coherentism."
+- Relevant segment: whole session, 59:18.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional pages pending.
