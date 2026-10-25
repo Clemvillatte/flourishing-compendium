@@ -3,19 +3,20 @@
  "done": [
   {
    "slug": "right-livelihood",
-   "worker": "worker-pplx-dos22-1025a (takeover of worker-pplx-dos22-1024h's completed dossier)",
-   "state": "carrier verification complete; substantive/divergence review pending",
-   "verification": "takeover verification pass: all three external carriers re-opened as raw downloads and the dossier's quoted passages compared word-for-word (Vanijja Sutta AN 5.177 Thanissaro via accesstoinsight; Weber Protestant Ethic ch. III via marxists.org; Dewey Democracy and Education ch. 23 via standardebooks, both the dominant-vocation and the occupations-training quotes), all match; dossier_check exit 0 (60 card links, 14 headers, 3 external carriers). Bounded claim: this session verified carriers and recorded state; the substantive/divergence review was NOT re-performed this session — it rests on the dossier ledger's recorded QC history (divergences removed as manufactured, Revision 3; publication flagged as waiting on a verified genuine divergence or owner decision) and the divergence requirement remains unclaimed",
+   "worker": "worker-pplx-dos22-1024h (original) then worker-pplx-brownmermaid-1025a (GF-model restructure)",
+   "state": "GF-model restructure complete; bounded disagreement comparison added; 3-5 disagreement bar UNMET (flagged to supervisor/owner)",
+   "verification": "worker-pplx-brownmermaid-1025a pass (2026-10-25 ~03:45Z, commit 4f1346cf): all four external carriers freshly opened and quotes verified verbatim by this worker (ATI AN 5.177 via fetch; Weber ch. III via fetch; Dewey ch. 23 via curl, fetch tool robots-blocked; Politics 1.1254b/1255b/1256b Perseus Rackham via curl, fetch tool robots-blocked); dossier_check exit 0 (59 card links, 14 headers, 8 external carriers); dossier_density 0 dense; dossier_quote_verify 8 checked / 0 not-found; all prior card-link targets preserved; advisor planning QC applied before drafting (bounded comparison, not a claimed demonstrated disagreement; same-practice check stated in the reader-facing text)",
    "flags": [
-    "Flagged for supervisor: publication pending; registry flip blocked on the art assignment for the twelve new planned dossiers (standing structural reason)",
-    "Flagged for concept band: the Right livelihood concept card cites AN III.208 via Wikipedia; the ATI carrier is AN 5.177 (recorded in the dossier ledger, open points)"
+    "SUPERVISOR/OWNER: the disagreement section carries ONE bounded comparison (AN 5.177 trade prohibition vs Politics 1254b/1255b/1256b acquisition/ownership/employment), limits stated on the page; the model's 3-5 demonstrated-disagreement bar is UNMET - owner call whether the bounded comparison satisfies the requirement (per supervisor addendum and advisor QC)",
+    "SUPERVISOR: registry flip, Academy splice and art assignment remain supervisor-only; art still null",
+    "standing flag for the concept band: the Right livelihood concept card cites AN III.208 via Wikipedia; the ATI carrier is AN 5.177 (recorded in the dossier ledger, open points)"
    ],
    "dates": {
-    "takeover_verification": "2026-10-24"
+    "gf_restructure": "2026-10-25"
    }
   }
  ],
- "note": "Takeover of a stale baton: the dossier of record was complete and checker-clean; this session added a carrier re-verification pass and the band-state record. Publication (registry flip, fcDossiersData rebuild, artwork) is supervisor-only.",
+ "note": "GF-model restructure complete per CURRENT ORDERS (old map format retired for this dossier). Disagreement requirement remains the owner's call; publication blocked on that decision plus art assignment.",
  "review": [
   "right-livelihood"
  ],

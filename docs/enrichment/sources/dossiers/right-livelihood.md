@@ -222,3 +222,64 @@ WHY IT FALLS SHORT (advisor QC, round applied): the Buddhist text prohibits COMM
 - ADDENDUM (same pass, ~03:05Z): Politics 1.1255b (Rackham, Perseus) also opened fresh — one more verbatim candidate line: "The science of acquiring slaves is different both from their ownership and from their direction—that is, the just acquiring of slaves, which is akin to the art of war or that of the chase." Together with 1254b (ownership) and 1256b (just-war acquisition), the Aristotelian side now covers the full theory — acquiring, holding, employing — as legitimate economic activity; what remains missing for a TRADE-level divergence is still a passage explicitly on buying and selling people. The candidate divergence stands at the acquisition level and is the owner's call whether that satisfies the requirement; recommend the dos22 next worker or the owner decides.
 
 - TRADE-LEVEL SEARCH ADDENDUM (supervisor-pplx-1025e, 2026-10-25 ~03:10Z actual): targeted search for a canonical-Aristotle passage explicitly on buying and selling enslaved people came back NEGATIVE, which is itself decision-relevant: (1) Nicomachean Ethics V.7 1134b18-24 (MIT Classics, Ross translation, opened fresh) classes "that a prisoner's ransom shall be a mina" under LEGAL justice — "that which is originally indifferent, but when it has been laid down is not indifferent" — i.e. the fixed per-head price of captives is convention, not nature; no endorsement of commerce in persons appears, and the per-head tariff example concerns ransoming captives, not property trade. (Same chapter's involuntary-transaction list includes "enticement of slaves" among clandestine wrongs — a property-interference framing, again not commerce.) (2) The pseudo-Aristotelian Oeconomica opens "Of property, the first and most indispensable kind is... the human chattel. Our first step therefore must be to procure good slaves" (ToposText carrier) — acquisition-forward, but the work's Aristotelian authorship is disputed, so it is a weak carrier for a divergence claim. (3) The Politics retail-trade chapters (1258b) condemn exchange-based wealth-getting in general terms without a slave-trade passage. CONCLUSION for the owner: a clean canonical trade-level passage was not found by targeted search; the divergence can stand at the acquisition level (Politics 1254b/1255b/1256b vs AN 5.177) or the section stays unpublished — the owner's call. One interpretive lead (flagged as interpretation, not evidence): NE 1134b's placing of the captive-ransom tariff under conventional rather than natural justice could be read as Aristotle denying that commerce-in-persons claims natural authority — a reading that would need a scholar's secondary source before use.
+
+## GF-model restructure + disagreement section (2026-10-25 ~03:45Z, worker-pplx-brownmermaid-1025a, dos22 baton)
+
+Restructured the dossier from the old map format to the GF interwoven
+thread per the CURRENT ORDERS (commit 4f1346cf). Advisor planning QC
+applied before drafting; its key rulings followed: the AN 5.177 vs
+Politics comparison is presented as a BOUNDED comparison with its limits
+stated in the reader-facing text, NOT claimed as a demonstrated
+disagreement (the same-practice check fails: the sutta prohibits the
+trade, the Politics licenses acquisition/ownership/employment, and no
+opened passage on either side meets the other on the same practice); the
+model's 3-5 disagreement-heading bar is UNMET and flagged to the
+supervisor/owner rather than manufactured; Weber-vs-Dewey woven into the
+synthesis as an honest distinction, not counted as a disagreement.
+
+Carriers freshly opened and verified by this worker (fetch tool unless
+noted; quotes matched word-for-word against the raw text):
+
+1. AN 5.177, ATI Thanissaro page: the five-trades passage verified
+   verbatim (opening and closing sentences both on the page).
+2. Weber, Protestant Ethic ch. III (marxists.org): the Beruf/calling
+   sentence verified verbatim.
+3. Dewey, Democracy and Education ch. 23 (standardebooks.org): the
+   fetch tool is robots-blocked there; verified via curl of the page
+   (same method as the rev-1 verification recorded above). The
+   "dominant vocation" sentence verified with its word-joiner em dash,
+   "living\u2060\u2014intellectual"; the dossier keeps the spaced-dash
+   typographic adjustment recorded above in the quotes section. The
+   "predetermine" and "training through occupations" sentences verified
+   the same way.
+4. Aristotle, Politics 1.1254b, 1.1255b, 1.1256b (Perseus, Rackham): the
+   fetch tool is robots-blocked at Perseus; verified via curl of each
+   section page. All three quoted spans verified verbatim, including
+   the carrier's full-width parentheses (\uff08\uff09) in 1254b and
+   1256b, the [20] page marker avoided by span choice in 1254b, and the
+   1255b em dash in "direction\u2014that is". The 1256b quote runs "Hence
+   even the art of war will by nature be in a manner an art of
+   acquisition..."; the dossier quotes from "this warfare is by nature
+   just" onward, a continuous span on the carrier.
+
+Structure changes: old "## The map: the entries on right livelihood"
+body replaced with a question-led main body ("What right livelihood
+asks of a working life", five question-named subsections); the body's
+duplicated stories subsection removed (stories appear once, in the
+Story section); Nearby terms rewritten as substantive distinctions
+with card links (Goal setting theory, Purpose, Workaholism research,
+Work engagement newly linked) and the page-self-description wording
+("this page keeps") removed; the intro's unsourced "work is where most
+adult hours go" replaced; practice entries extended to two sentences
+(what to do, what to notice); Story intro rewritten as a fact about the
+theme. Every card link target from the previous revision is preserved
+(59 links resolve; the six story cards now appear once each).
+
+Checks: dossier_check.py exit 0 (59 card links, 14 headers, 8 external
+carriers); dossier_density.py 0 dense paragraphs; dossier_quote_verify
+8 checked / 0 not-found. STATUS: disagreement requirement still
+UNFINISHED for the 3-5 bar (one bounded comparison, honestly framed);
+publication, registry flip and Academy splice remain supervisor-only;
+art still unassigned. The bounded-comparison framing (acquisition
+level) awaits supervisor/owner ratification per the supervisor's
+addendum above.
