@@ -19,15 +19,15 @@ In chapter 29 of the Daodejing, the wish to possess a kingdom leads to a warning
 
 Chapter 64 describes the sage as someone who "helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)" ([DDJ 64, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). Helping remains possible; the qualification concerns the purpose brought to it.
 
-In his scholarly account of wuwei, Alan Chan distinguishes nonaction from total inactivity and reads it as a reorientation away from self-serving desire. On this reading, doing less would miss the point if it were simply another tactic for gaining control ([Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/)).
+Alan Chan reads wuwei as a turn away from self-serving desire, not total inactivity ([Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/)). I take his reading as a reason to ask whether I am offering help or trying to make another person comply. Doing less could still be a way of pressing for the same preferred result.
 
 ### Plain words
 
-Forcing, in this application, means imposing a preferred outcome without attending to how things are developing. Reconsidering that pressure can leave room to offer useful help. It does not require withdrawing when action is needed.
+Offer the help you can without demanding the response you want.
 
 ### For example
 
-Imagine that a colleague asks for time to consider your proposal. You could agree when to return to it and offer the information they need, while leaving them free to disagree. At the next meeting, hear their concerns and consider whether to revise the proposal. Securing a meeting is different from securing their assent.
+Suppose a colleague asks for time to consider your proposal. Agree when to return to it and offer the information they need. At the next meeting, hear their concerns before repeating your case. They may still decline; this suggested exercise asks you to leave that possibility open, rather than treat the extra time as a way to obtain an inevitable yes.
 
 ## Sources
 - [[T012 — Laozi]]: the chapter 29 warning the page draws: trying to master the kingdom, one fails.

@@ -41,7 +41,18 @@ Changes: retained the primary verse and the basic-needs caveat, converted Plain 
 
 Opened through search and fetch:
 
-- [Laozi, *Tao Teh King*, Legge translation, chapter 25](https://www.gutenberg.org/files/216/216-h/216-h.htm). Verified the retained quotation against §4, including the parenthetical translator's explanation of Dao's law. The paragraph describes successive models for human beings, earth, heaven and Dao.
+- [Laozi, *Tao Teh King*, Legge translation, chapter 25](https://www.gutenberg.org/files/216/216-h/216-h.htm). Verified the retained quotation against §4, including the final statement explaining Dao's law. The paragraph describes successive models for human beings, earth, heaven and Dao.
 - [Chad Hansen, “Daoism,” *Stanford Encyclopedia of Philosophy*, §§2 and 9](https://plato.stanford.edu/entries/daoism/). Read the entry's opening and both relevant sections separately because a whole-entry fetch was truncated. Section 2 explicitly contrasts navigation and possible paths with the law metaphor; section 9 discusses choosing and adapting shared practices. This is attributed as Hansen's reading, not a settled consensus that nature supplies moral commands.
 
 Changes: retained the source-bounded interpretation, personally owned the practical extension, and replaced the three-sentence Plain words section with one sentence. The moving-house illustration now names an actual constraint and shows revision of means without discarding a commitment. Preserved front matter, opening statement, existing links and reflection.
+
+Milestone advisor QC of D031, D087, D019 and D001: PASS with two minor precision corrections, both applied. D087 now refers to the dream's “closing lines,” because the explicit distinction is penultimate rather than final. The D001 ledger no longer calls the final source sentence parenthetical. The advisor independently confirmed baseline preservation, single-sentence Plain words and 40–300 prose words for all four; validation returned four checked, zero failed.
+
+## D055: Don't force
+
+Opened through search and fetch:
+
+- [Laozi, *Tao Teh King*, Legge translation, chapters 29 and 64](https://www.gutenberg.org/files/216/216-h/216-h.htm). Read the full text and separately extracted both chapters with their paragraph numbers. Chapter 29 §1 supplies the retained kingdom quotation. Chapter 64 §4 explicitly permits helping natural development while qualifying ulterior purpose; its parenthetical wording remains intact in the page.
+- [Alan Chan, “Laozi,” *Stanford Encyclopedia of Philosophy*, §7](https://plato.stanford.edu/entries/laozi/). Read the discussion of wuwei through targeted extraction. Chan explicitly distinguishes it from total inaction and interprets it as a contrast to action driven by self-serving desire. He also warns against turning the ideal into a deliberate prescription to do less. His interpretation is not presented as scholarly consensus or as a proven interpersonal intervention.
+
+Changes: converted Plain words to one direct sentence; personally owned the practical question; revised the colleague example so a refusal remains genuinely possible rather than making postponement another tactic for assent. Preserved all existing links, front matter, opening statement and reflection. The modern conversation exercise is expressly suggested, not a procedure specified in the primary text.

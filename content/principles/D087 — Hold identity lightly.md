@@ -17,7 +17,7 @@ At the end of Zhuangzi 2, Zhou dreams of being a butterfly; on waking, he recogn
 > "But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things."
 > (Zhuangzi 2, James Legge's translation, with pinyin spellings in [Silkqin's source note](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm).)
 
-I read the dream as an invitation to question a settled description of oneself. What does calling yourself independent, dependable or unsuccessful help you notice, and what does it prevent you from trying? The story supplies a question rather than a verdict that personal identity is unreal; its closing sentence still distinguishes Zhou from the butterfly ([§14](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+I read the dream as an invitation to question a settled description of oneself. What does calling yourself independent, dependable or unsuccessful help you notice, and what does it prevent you from trying? The story supplies a question rather than a verdict that personal identity is unreal; its closing lines still distinguish Zhou from the butterfly ([§14](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 ### Plain words
 
