@@ -154,3 +154,30 @@ this session: fear (Aristotle Rhetoric II.5 Roberts definition,
 exact) and gratitude (Emmons and McCullough 2003 gratitude-outlook
 summary sentence, exact in the UC Davis PDF). No corrections
 needed.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos26 baton)
+
+Reviewed all 9 candidates against the current file (fresh audit run).
+No scaffolds removed; all 9 flagged constructions carry real contrasts:
+line 5 (virtue-with-duties vs positive-emotion-with-effects — the
+dossier's framing contrast, plus the methodological note about keeping
+both visible), 13 (benefit finding vs benefit received — construct
+disambiguation), 21 (Seneca's philosophy as salutary practice), 23
+(S037: the benefit in the goodwill rather than the object — Seneca's
+On Benefits doctrine), 27 (Aristotle's liberality: the giver's
+substance rather than the multitude of gifts — the Generosity card
+quotes the carrier verbatim: "liberality resides not in the multitude
+of the gifts but in the state of character of the giver, and this is
+relative to the giver's substance"), 51 (AF063's attention mechanism:
+what is good vs what is lacking), 121 (honest scope note: essayist's
+question vs research-settled), 129 (the kernel's own specificity
+instruction: not a friend in general but what the friend did — the
+concrete example the practice itself uses), 133 (the kernel's
+mechanism framing: desire vs mood).
+
+Card-fidelity spot-check: Generosity card opened and read; line 27's
+gloss matches the card's verbatim Aristotle quotation. Editorial
+review only; no external carriers freshly opened.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review plus
+spot-check.
