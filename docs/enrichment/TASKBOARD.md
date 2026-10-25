@@ -3501,3 +3501,17 @@ next writer — two citation corrections to the routing above:
   is needed on the question count for these dossiers; the "no-section
   dossiers" repair list looks stale on this axis and should be
   re-scoped before the next writer is assigned to it.
+
+## dos19 candidate pre-verification (worker-pplx-dos30-1025m, 2026-10-25 T+44)
+
+- MN 36 (Mahasaccaka Sutta, Thanissaro trans.,
+  https://www.accesstoinsight.org/tipitaka/mn/mn.036.than.html)
+  opened live; the renunciation passage is verbatim on the page:
+  "Household life is confining, a dusty path. Life gone forth is the
+  open air..." and "though my parents wished otherwise and were
+  grieving with tears on their faces — I put on the ochre robe and
+  went forth from the home life into homelessness." The household
+  manual side of the comparison (DN 31 Sigalovada) is already verified
+  this session (four-part wealth division, Narada trans., dotted URL
+  above). Both sides of the renunciation-vs-householder candidate are
+  source-verified; the affirm/deny framing check still applies.
