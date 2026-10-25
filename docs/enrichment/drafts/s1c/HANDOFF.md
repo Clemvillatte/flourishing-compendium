@@ -129,3 +129,7 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 - s1c-015 (Hokusai): PARTIAL - quotes 4-5 verbatim on the BM blog; quotes 1-3 are misattributed to the object page (they sit on the blog with numeral and small wording differences: '70' vs 'seventy', 'nothing I drew' vs 'nothing that I drew', 'are not false' vs 'prove not false'). Carrier and wording corrections needed before registration.
 - s1c-016 (Polymath): PARTIAL - Gowers post 1 2/2 verbatim, post 2 2/3 verbatim, Tao carrier 1/1 verbatim; the quote 'So I hereby state that I am basically sure that the problem is solved (though not in the way originally envisaged).' was NOT FOUND on any recorded carrier - likely sits on Gowers's separate 'Problem solved (probably)' post or is a paraphrase. Re-source before registration.
 - Session close: 25 of 38 s1c ready drafts sampled. No other faults found. Baton released after this save.
+
+## 2026-10-25 15:23Z — QC last samples (qc-storyteller-pplx-1025x)
+
+- s1c-017 (Autumn Floods River Spirit) and s1c-018 (Zizhi/God-given form) sampled - all quotes VERBATIM on both carriers. Final session totals for s1c: 27 of 38 ready drafts sampled. Standing flags: 015 (BM carrier misattribution + wording), 016 (one Gowers quote unlocated on recorded carriers), 006 (Frege carrier Cloudflare-walled). No other faults found. Baton released after this save.
