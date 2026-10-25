@@ -15,6 +15,10 @@ And its conclusion from such results ([Flavell, Metacognition and Cognitive Moni
 
 > "Results such as these have suggested that young children are quite limited in their knowledge and cognition about cognitive phenomena, or in their metacognition, and do relatively little monitoring of their own memory, comprehension, and other cognitive enterprises (see, e.g., Brown, 1978; Flavell, 1978; Flavell & Wellman, 1977; Kreutzer, Leonard, & Flavell, 1975; Flavell, Note 1, Note 2, Note 3; Markman, Note 4)." (Flavell, [Metacognition and Cognitive Monitoring, via Semantic Scholar](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d))
 
+The study the children were in is the part that carries the practical weight, since the finding is about a mismatch between a judgment and a capacity rather than about a lack of capacity. The younger children were not worse at remembering; they were wrong about whether they were ready to remember, and the wrongness is what made their study end early. The readiness judgment is therefore doing work in the learning rather than sitting beside it, and the same is true of any judgment about whether a thing is understood.
+
+The concept's claim is not that people should monitor more but that the monitoring is itself a skill with a developmental trajectory, which means it can be better or worse in a particular person rather than merely present or absent. A person applying the concept can treat their own feeling of readiness as data about a feeling rather than as data about the material, and the distinction is what the whole field rests on.
+
 ## Facets
 
 - **as trainable**

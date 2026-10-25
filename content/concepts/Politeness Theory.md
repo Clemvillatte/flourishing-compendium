@@ -17,6 +17,10 @@ The model distinguishes avoiding an act, speaking indirectly off record, speakin
 
 Brown reviews challenges to the model's universality and its ranking of strategies ([p. 328](https://pure.mpg.de/rest/items/item_1719314_10/component/file_2152013/content)). Indirectness is not always judged most polite, and the meaning of an utterance depends on the interaction rather than on a permanently polite form of words ([p. 328](https://pure.mpg.de/rest/items/item_1719314_10/component/file_2152013/content)).
 
+The two faces are worth reading as a description of what an utterance can threaten rather than as a classification of kinds of politeness. Positive face wants approval and closeness, so a threat to it is a signal that the closeness is not there; negative face wants freedom from imposition, so a threat to it is a signal that a demand has arrived. A politeness strategy is a way of doing the threatening thing while managing what it threatens, which is why the model treats indirectness and redress as alternatives to bald on-record speech rather than as decorations on it.
+
+The limits Brown reports are also what make the model workable rather than merely elegant, since a theory that said which form was polite would be a rulebook rather than an account. The practical reading is that the faces being managed are real in the hearer and not visible in the words, so a person applying the concept can ask what a given utterance is threatening and what it is doing to soften the threat. The question is answerable in a way that a question about which words are polite is not.
+
 ## Field
 
 Sociocultural · Psychological science
