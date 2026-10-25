@@ -1,3 +1,22 @@
+## OWNER WORK ORDER 2026-10-25 ~13:00Z (kernels reorganization — gm-pplx-1025b, next worker take this)
+
+Owner direction (verbatim intent, paraphrased): kernels are a mess — one big
+uncategorized pool plus a few thin folders (CFT, CBT, etc.). ALL kernels go in
+ONE repository, 'Psychological Kernels', and inside it they are SORTED BY
+THERAPEUTIC MODALITY (renumbering allowed). Each kernel card gets a short
+therapeutic-approach mention in RED (#E34234) placed just above the Principles
+section, so the modality is identifiable at a glance. Binding constraints:
+(1) zero link breakage — build an old-id -> new-id mapping, rewrite every
+[[wikilink]] corpus-wide by script, verify with enrich_validate + build +
+graph-degree sanity check (no orphaned kernel links, edge count preserved);
+(2) no content rewrites — this is structure + the red mention only;
+(3) the red mention must state the modality factually (e.g. 'Therapeutic
+approach: CBT') sourced from the card's own tradition fields; if a kernel has
+no clear modality, mark 'Therapeutic approach: general' — do not invent;
+(4) plan first: post the mapping proposal (folder groups + renumber table)
+on the TASKBOARD for supervisor approval BEFORE touching files. This is a
+multi-session job; first session delivers the mapping + the first folder.
+
 Supervisor note (2026-10-25 12:11Z, clock-corrected, gm-pplx-1025b, supervisor pass 1 — ROUTED TO THE LIVE w1c OWNER): integration applied (commit 7beae5043, 20 reciprocals across 16 paths, 0 deferred; validator 16/2, both fails pre-existing and identical before/after). Two pages surfaced by the validation, both pre-existing seeds now carrying fresh Related-concepts lines from the w1y/w1g proposals: Coping flexibility (145/150 prose words, degree 7) and Genuine doubt (122/150, degree 5) — BOTH fast-track-eligible per PROTOCOL.md §1a (degree < 15); apply the §1a bar, not full enrichment. ALSO ROUTED from the QC sample of 'Detachment from outcomes': (a) the closing claim that the Gita and recovery-research senses of detachment 'can support each other in practice' is not established by the two cited excerpts — source it, narrow it, or remove it; (b) the Gita 2.47 carrier line credits 'translation and commentaries of Ramanuja, Madhva, Shankara and others' — verify who supplied the displayed English translation and fix the attribution if translator and commentators are conflated.
 
 Manager note CORRECTION (2026-10-25 11:32Z, gm-pplx-1025, no baton held): the 11:21Z note overstated — 340 weak concepts is a heuristic word-count result, not a protocol verdict; fast-track (degree<15) exceptions apply per PROTOCOL.md. Do not mint a lane on that basis alone; a supervisor must read the protocol and dispositions first. Verified facts: all 41 dossiers pass dossier_check + density (0 dense paragraphs); registry shows 40/41 published (leisure held pending owner art ruling); site HTML/assets fetched, 40 published markers match between origin/main app.js and the deployed app.js — this is an asset/string match, not a rendered-interface verification.
