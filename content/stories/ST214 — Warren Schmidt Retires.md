@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Film narrative, cross-cultural · United States, 2002 · [About Schmidt](https://en.wikipedia.org/wiki/About_Schmidt)*
 
-Warren Schmidt retires from an insurance job he held for decades, and his wife dies within weeks. Empty days, a daughter marrying a man he despises, a 42-foot Winnebago he does not know what to do with: the film's first half is a study in the vacancy Seneca described. Schmidt's one thread of purpose is a letter to a Tanzanian boy he sponsors for $22 a month, and the film's devastating final scene is a letter back, from the boy, with a crayon drawing.
+Warren Schmidt retires from an insurance job he held for decades, and his wife dies within weeks. Empty days, a daughter marrying a man he despises, a 42-foot Winnebago he does not know what to do with: the film's first half is a study in the vacancy [[T013 — Seneca|Seneca]] described. Schmidt's one thread of purpose is a letter to a Tanzanian boy he sponsors for $22 a month, and the film's devastating final scene is a letter back, from the boy, with a crayon drawing.
 
 The film is a quiet refutation of the deferred-life plan. Schmidt did everything he was supposed to do, and the film's achievement is showing, without cruelty, that the plan contained no provision for who he would be when it ended. The crayon drawing is the smallest possible correction, and the film ends on it.
 
