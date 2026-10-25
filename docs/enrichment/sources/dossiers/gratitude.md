@@ -207,3 +207,22 @@ checked manually and match. No mismatches found; no edits made.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+Full read of the manuscript. Findings: the opening holds the
+classical-versus-research contrast without collapsing it; the
+40-entry numbered map is long but every gloss is card-faithful; the
+parallels section is honest about what the research does not settle
+("Which effect is primary... is a question an essayist can take up
+rather than one the research settles") and states plainly that no
+verified disagreement is recorded on this theme; the quotations
+carry their own carrier-check labels (Primary text; checked against
+the PDF / read from the article page), which serve the project's
+no-hallucination rule; the practice and story sections read
+naturally, including the Magi card's honest marker that the
+Aristotle comparison is the card's editorial move, not O. Henry's.
+No defects found at reader level; no edits. Checker exit 0.
+Editorial review only; no external carriers freshly opened this
+pass (the quoted passages carry prior verification labels in this
+ledger).
