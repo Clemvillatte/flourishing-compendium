@@ -124,3 +124,14 @@ various parts that the word 'chariot' is used, just so is it that when the Skand
 are there we talk of a 'being.'" (the page's trailing footnote marker after "being"
 is furniture). With this, all six s1a-042 ledger quotes are verified by direct
 retrieval; the s1a QC continuation's accounting stands.
+
+## s1e published-page sample — ST408 (2026-10-25, logged from s1b)
+
+ST408 (The Material Told Her Where to Go, McClintock) — all three distinctive
+quotes verified verbatim by directed retrieval: the "time to look" passage and the
+"I don't feel I really know the story" sentence against the Keller excerpt PDF
+(epistemologies.wordpress.com, open); "The material just tells you where to go.
+The maize cases were so spectacular that I just had to follow them." against Wu
+2024 (pmc.ncbi.nlm.nih.gov/articles/PMC11393105, open). ST409 (Casals) remains
+carrier-walled, as recorded above. This completes the s1e published-page sample
+started in the child cross-check.
