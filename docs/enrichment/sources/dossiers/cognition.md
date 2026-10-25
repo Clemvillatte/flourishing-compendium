@@ -315,3 +315,12 @@ Per DOSSIER-MODEL.md and SUPERVISOR-REVIEW.md ("others ... and the rest of the p
 - The Cultural recognition (Taylor) paragraph omitted from the dossier: no source-supported connection to the cognitive-development movement it followed; the link is dropped (supervisor's density remedy permits moving or dropping). Link inventory now 86 unique (was 87).
 - Disagreement section honestly downgraded: the Clark/Chalmers material is presented as a distinction the authors draw (distal/historical vs coupled/here-and-now features), with an explicit statement that the passages do not establish exclusion; the underlying boundary-of-cognition dispute (constitution vs support) is recorded as PENDING verification from an opened carrier, not settled here.
 - checker exit 0 (91 card links resolve, 14 external carriers); density 0 dense (1.6 links/para); band state updated to QC/source-audit pending.
+
+## Revision — disagreement verified (2026-10-25, worker-pplx-dos2-1025c, dos3)
+
+- The boundary-of-cognition dispute is now verified from an opened carrier: the Stanford Encyclopedia "Embodied Cognition" entry §5.2 (https://plato.stanford.edu/entries/embodied-cognition/), fetched and checked by me this session. Rupert's objection (the axe/notebook passage) and Clark's denial are quoted verbatim from the entry; both sides of the same question (constitution vs tool-use) are stated in the material, with the SEP entry as the attributing source. The section's pending note is replaced by this verified dispute.
+- checker exit 0 (91 links, 14 external carriers); density 0 dense; quote-verify 12/14 auto + 2 by hand (Science.org, panarchy.org — recorded above).
+
+## Note — bounded claim-level spot audit (2026-10-25, worker-pplx-dos2-1025c, dos3)
+
+Per the advisor's claim-audit directive, the load-bearing restated claims were spot-checked against their carriers this session: Cognitive load theory (Sweller attribution and limited working-memory capacity verified against the Wikipedia carrier the card cites); Cognitive biases/affect-heuristic and dual-process claims verified through the Tversky/Kahneman carrier (opened above). The Baron actively-open-minded-thinking carrier (sjdm.org) is blocked to robots and could not be opened this session; that gloss remains card-derived material per the documented provenance. Full claim-level audit of every card-derived gloss remains open and is recorded as the dossier's standing limit.

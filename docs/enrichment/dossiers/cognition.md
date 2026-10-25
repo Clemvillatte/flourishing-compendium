@@ -123,21 +123,21 @@ A last warning belongs to the whole theme. [Instrumental reason](https://clemvil
 
 ## Where the traditions genuinely disagree
 
-### Does cognition extend into the world, or only depend on it?
+### Does cognition extend into the world, or only embed itself in it?
 
-The dispute is stated by its proponents. Clark and Chalmers's active externalism takes a position against the semantic externalism of Putnam and Burge, and they state the contrast themselves:
-
-> "In the cases we describe, by contrast, the relevant external features are *active*, playing a crucial role in the here-and-now. Because they are coupled with the human organism, they have a direct impact on the organism and on its behavior. In these cases, the relevant parts of the world are *in the loop*, not dangling at the other end of a long causal chain. Concentrating on this sort of coupling leads us to an *active externalism*, as opposed to the passive externalism of Putnam and Burge." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
-
-Their charge against the rival position:
-
-> "In most of the Putnam/Burge cases, the immediate environment is irrelevant; only the historical environment counts. Debate has focused on the question of whether mind must be in the head, but a more relevant question in assessing these examples might be: is mind in the present?" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
-
-The Putnam/Burge side is characterized here by Clark and Chalmers, not by its own defenders, and I do not put words in theirs beyond this characterization. The criterion Clark and Chalmers offer for their side:
+Clark and Chalmers's criterion for their side of the boundary question:
 
 > "If, as we confront some task, a part of the world functions as a process which, *were it done in the head*, we would have no hesitation in recognizing as part of the cognitive process, then that part of the world *is* (so we claim) part of the cognitive process." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
 
-The passages establish a distinction the authors draw between their view and Putnam and Burge's: distal, historical features against coupled, here-and-now features. They do not establish that accepting one view excludes the other, and I do not claim more than the passages support. The boundary question behind the section's heading — whether external processes constitute cognition or merely support it — has a live dispute in the literature that I have not verified from an opened carrier this session; it is recorded as pending in the dossier ledger rather than settled here with a manufactured incompatibility.
+Rupert's objection to exactly that criterion, as stated in the Stanford Encyclopedia's exposition of the dispute:
+
+> "Instead of insisting that cognitive systems extend, Rupert asks, why not regard them as seeking ways to embed themselves among tools that make their jobs easier? An axe does not become part of a person when she uses it to chop down a tree, why does a notebook become part of cognitive system when a brain uses it to locate MoMA?" ([Shapiro and Spaulding, SEP "Embodied Cognition", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))
+
+Clark's side of the answer, in the same exposition:
+
+> "Similarly, Clark would deny Rupert's claim that the hypothesis of embedded cognition can equally well save the phenomena that the hypothesis of extended cognition was intended to capture and do so while requiring less revision of existing ideas about how cognitive systems operate." ([Shapiro and Spaulding, SEP "Embodied Cognition", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))
+
+The two positions answer the same question — does the notebook function as part of the cognitive system, or as a tool the system uses — with opposing answers, and each side is stated in the material above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness. The passages state the positions; the wiki does not adjudicate between them.
 
 ## Practice: variation, selection, retention
 
