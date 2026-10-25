@@ -5,7 +5,7 @@ type: "kernel"
 title: "Decatastrophizing"
 file: "K130 — Decatastrophizing"
 tags: ["applied-practice", "topic/mind"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-COGFLEX"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-COGFLEX"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
 > **Kernel K130** — Decatastrophizing

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Creative risk-taking"
 file: "K327 — Creative risk-taking"
 tags: ["applied-practice", "topic/meaning", "topic/creativity"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.12 — 12. Creativity and Value Creation", "parent": ""}
 ---
 > **Kernel K327** — Creative risk-taking

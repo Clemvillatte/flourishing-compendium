@@ -5,7 +5,7 @@ type: "kernel"
 title: "Feeling-tone pass"
 file: "K160 — Feeling-tone pass"
 tags: ["applied-practice", "topic/emotion", "topic/compassion"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
 > **Kernel K160** — Feeling-tone pass

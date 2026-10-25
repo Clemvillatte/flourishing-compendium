@@ -5,7 +5,7 @@ type: "kernel"
 title: "Microcosmic orbit (xiao zhoutian)"
 file: "K419 — Microcosmic orbit (xiao zhoutian)"
 tags: ["applied-practice", "topic/body", "topic/meditation"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"], ["NAV-SHARED", "NAV-THEM-ATTENTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"], ["NAV-SHARED", "NAV-THEM-ATTENTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.08 — 8. Body and Biophysiology", "parent": ""}
 ---
 > **Kernel K419** — Microcosmic orbit (xiao zhoutian)

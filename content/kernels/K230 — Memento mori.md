@@ -5,7 +5,7 @@ type: "kernel"
 title: "Memento mori"
 file: "K230 — Memento mori"
 tags: ["applied-practice", "topic/meaning"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.10 — 10. Meaning and Existential Orientation", "parent": ""}
 ---
 > **Kernel K230** — Memento mori

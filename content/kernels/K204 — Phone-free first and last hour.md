@@ -5,7 +5,7 @@ type: "kernel"
 title: "Phone-free first and last hour"
 file: "K204 — Phone-free first and last hour"
 tags: ["applied-practice", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.08 — 8. Body and Biophysiology", "parent": ""}
 ---
 > **Kernel K204** — Phone-free first and last hour

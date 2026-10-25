@@ -5,7 +5,7 @@ type: "kernel"
 title: "Stewardship acts"
 file: "K300 — Stewardship acts"
 tags: ["applied-practice", "topic/nature"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.08 — 8. Place, Ecology, and World Relation", "parent": ""}
 ---
 > **Kernel K300** — Stewardship acts

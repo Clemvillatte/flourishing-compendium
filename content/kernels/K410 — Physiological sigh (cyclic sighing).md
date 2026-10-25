@@ -5,7 +5,7 @@ type: "kernel"
 title: "Physiological sigh (cyclic sighing)"
 file: "K410 — Physiological sigh (cyclic sighing)"
 tags: ["applied-practice", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.08 — 8. Body and Biophysiology", "parent": ""}
 ---
 > **Kernel K410** — Physiological sigh (cyclic sighing)

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Moral injury audit"
 file: "K352 — Moral injury audit"
 tags: ["applied-practice", "topic/ethics"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.18 — 18. Existential Therapy and Moral Injury", "parent": ""}
 ---
 > **Kernel K352** — Moral injury audit

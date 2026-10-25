@@ -5,7 +5,7 @@ type: "kernel"
 title: "Restorative conversation"
 file: "K338 — Restorative conversation"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.14 — 14. Conflict Mediation and Restorative Practice", "parent": ""}
 ---
 > **Kernel K338** — Restorative conversation

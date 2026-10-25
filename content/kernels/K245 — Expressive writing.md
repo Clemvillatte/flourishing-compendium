@@ -5,7 +5,7 @@ type: "kernel"
 title: "Expressive writing"
 file: "K245 — Expressive writing"
 tags: ["applied-practice", "topic/wisdom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-INQUIRY"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-INQUIRY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.11 — 11. Inquiry, Experimentation, and Process", "parent": ""}
 ---
 > **Kernel K245** — Expressive writing

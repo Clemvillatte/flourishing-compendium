@@ -5,7 +5,7 @@ type: "kernel"
 title: "\"Enough\" lines"
 file: "K155 — Enough lines"
 tags: ["applied-practice", "topic/meaning"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
 > **Kernel K155** — "Enough" lines

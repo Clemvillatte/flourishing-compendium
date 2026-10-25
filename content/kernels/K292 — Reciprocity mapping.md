@@ -5,7 +5,7 @@ type: "kernel"
 title: "Reciprocity mapping"
 file: "K292 — Reciprocity mapping"
 tags: ["applied-practice", "topic/relationships"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.07 — 7. Relational-Cultural Wellbeing", "parent": ""}
 ---
 > **Kernel K292** — Reciprocity mapping

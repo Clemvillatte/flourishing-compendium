@@ -5,7 +5,7 @@ type: "kernel"
 title: "Desire inventory"
 file: "K281 — Desire inventory"
 tags: ["applied-practice", "topic/desire"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.04 — 4. Desire, Preference, and Voluntary Discomfort", "parent": ""}
 ---
 > **Kernel K281** — Desire inventory

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Box breathing"
 file: "K413 — Box breathing"
 tags: ["applied-practice", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.08 — 8. Body and Biophysiology", "parent": ""}
 ---
 > **Kernel K413** — Box breathing

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Body-first emotion work"
 file: "K172 — Body-first emotion work"
 tags: ["applied-practice", "topic/emotion", "topic/compassion", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
 > **Kernel K172** — Body-first emotion work

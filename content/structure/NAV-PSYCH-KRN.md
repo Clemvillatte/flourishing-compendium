@@ -1,9 +1,9 @@
 ---
 schema: 3
-id: "NAV-PSYCH-V1K"
+id: "NAV-PSYCH-KRN"
 type: "navnode"
-title: "Kernels"
-file: "NAV-PSYCH-V1K"
+title: "Psychological Kernels"
+file: "NAV-PSYCH-KRN"
 tags: ["navigation"]
 parent: "NAV-PSYCHOLOGY"
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY"], "alternatePaths": []}

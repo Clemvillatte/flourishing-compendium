@@ -5,7 +5,7 @@ type: "kernel"
 title: "Anxiety-as-signal"
 file: "K314 — Anxiety-as-signal"
 tags: ["applied-practice", "topic/identity", "topic/freedom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.10 — 10. Authenticity, Freedom, and Responsibility", "parent": ""}
 ---
 > **Kernel K314** — Anxiety-as-signal

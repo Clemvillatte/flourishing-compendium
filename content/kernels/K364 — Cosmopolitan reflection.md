@@ -5,7 +5,7 @@ type: "kernel"
 title: "Cosmopolitan reflection"
 file: "K364 — Cosmopolitan reflection"
 tags: ["applied-practice", "topic/leadership"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.21 — 21. Civic Courage and Democratic Practice", "parent": ""}
 ---
 > **Kernel K364** — Cosmopolitan reflection

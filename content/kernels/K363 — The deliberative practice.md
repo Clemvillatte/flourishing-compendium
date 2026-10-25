@@ -5,7 +5,7 @@ type: "kernel"
 title: "The deliberative practice"
 file: "K363 — The deliberative practice"
 tags: ["applied-practice", "topic/leadership"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.21 — 21. Civic Courage and Democratic Practice", "parent": ""}
 ---
 > **Kernel K363** — The deliberative practice

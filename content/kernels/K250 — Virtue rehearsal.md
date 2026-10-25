@@ -5,7 +5,7 @@ type: "kernel"
 title: "Virtue rehearsal"
 file: "K250 — Virtue rehearsal"
 tags: ["applied-practice", "topic/ethics"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.01 — 1. Character and Virtue Formation", "parent": ""}
 ---
 > **Kernel K250** — Virtue rehearsal

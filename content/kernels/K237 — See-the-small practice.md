@@ -5,7 +5,7 @@ type: "kernel"
 title: "See-the-small practice"
 file: "K237 — See-the-small practice"
 tags: ["applied-practice", "topic/wisdom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-INQUIRY"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-INQUIRY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.11 — 11. Inquiry, Experimentation, and Process", "parent": ""}
 ---
 > **Kernel K237** — See-the-small practice

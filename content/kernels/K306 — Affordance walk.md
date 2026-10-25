@@ -5,7 +5,7 @@ type: "kernel"
 title: "Affordance walk"
 file: "K306 — Affordance walk"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.09 — 9. Phenomenological Embodiment", "parent": ""}
 ---
 > **Kernel K306** — Affordance walk

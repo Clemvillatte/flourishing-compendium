@@ -5,7 +5,7 @@ type: "kernel"
 title: "Flow block"
 file: "K190 — Flow block"
 tags: ["applied-practice", "topic/action", "topic/flow"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
 > **Kernel K190** — Flow block

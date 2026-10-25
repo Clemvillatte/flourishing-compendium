@@ -5,7 +5,7 @@ type: "kernel"
 title: "Name the loss"
 file: "K348 — Name the loss"
 tags: ["applied-practice", "topic/death", "topic/nature"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.17 — 17. Ecological Grief and Stewardship", "parent": ""}
 ---
 > **Kernel K348** — Name the loss

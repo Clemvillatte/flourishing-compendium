@@ -5,7 +5,7 @@ type: "kernel"
 title: "Identity flexibility audit"
 file: "K141 — Identity flexibility audit"
 tags: ["applied-practice", "topic/identity"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.04 — 4. Self and Perspective", "parent": ""}
 ---
 > **Kernel K141** — Identity flexibility audit

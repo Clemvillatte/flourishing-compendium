@@ -5,7 +5,7 @@ type: "kernel"
 title: "The Inner Smile (Daoist practice)"
 file: "K412 — The Inner Smile (Daoist practice)"
 tags: ["applied-practice", "topic/emotion", "topic/compassion", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
 > **Kernel K412** — The Inner Smile (Daoist practice)

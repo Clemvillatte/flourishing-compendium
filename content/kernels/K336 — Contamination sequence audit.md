@@ -5,7 +5,7 @@ type: "kernel"
 title: "Contamination sequence audit"
 file: "K336 — Contamination sequence audit"
 tags: ["applied-practice", "topic/identity"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.13 — 13. Narrative Identity and Life Review", "parent": ""}
 ---
 > **Kernel K336** — Contamination sequence audit

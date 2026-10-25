@@ -5,7 +5,7 @@ type: "kernel"
 title: "Near-enemy audit"
 file: "K168 — Near-enemy audit"
 tags: ["applied-practice", "topic/emotion", "topic/compassion"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
 > **Kernel K168** — Near-enemy audit

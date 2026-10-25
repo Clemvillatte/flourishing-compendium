@@ -5,7 +5,7 @@ type: "kernel"
 title: "Positionality statement"
 file: "K345 — Positionality statement"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.16 — 16. Cultural Safety and Cross-Cultural Practice", "parent": ""}
 ---
 > **Kernel K345** — Positionality statement

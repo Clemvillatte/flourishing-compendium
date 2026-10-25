@@ -5,7 +5,7 @@ type: "kernel"
 title: "Meaning audit"
 file: "K223 — Meaning audit"
 tags: ["applied-practice", "topic/meaning"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.10 — 10. Meaning and Existential Orientation", "parent": ""}
 ---
 > **Kernel K223** — Meaning audit

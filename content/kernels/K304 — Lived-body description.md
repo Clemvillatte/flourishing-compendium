@@ -5,7 +5,7 @@ type: "kernel"
 title: "Lived-body description"
 file: "K304 — Lived-body description"
 tags: ["applied-practice", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.09 — 9. Phenomenological Embodiment", "parent": ""}
 ---
 > **Kernel K304** — Lived-body description

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Mindful walking"
 file: "K104 — Mindful walking"
 tags: ["applied-practice", "topic/attention", "topic/mind"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ATTENTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ATTENTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.01 — 1. Attention and Awareness", "parent": ""}
 ---
 > **Kernel K104** — Mindful walking

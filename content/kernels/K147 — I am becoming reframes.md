@@ -5,7 +5,7 @@ type: "kernel"
 title: "\"I am becoming\" reframes"
 file: "K147 — I am becoming reframes"
 tags: ["applied-practice", "topic/identity"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.04 — 4. Self and Perspective", "parent": ""}
 ---
 > **Kernel K147** — "I am becoming" reframes

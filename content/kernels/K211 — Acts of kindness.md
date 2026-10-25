@@ -5,7 +5,7 @@ type: "kernel"
 title: "Acts of kindness"
 file: "K211 — Acts of kindness"
 tags: ["applied-practice", "topic/compassion", "topic/relationships"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
 > **Kernel K211** — Acts of kindness

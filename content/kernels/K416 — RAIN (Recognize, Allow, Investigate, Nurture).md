@@ -5,7 +5,7 @@ type: "kernel"
 title: "RAIN (Recognize, Allow, Investigate, Nurture)"
 file: "K416 — RAIN (Recognize, Allow, Investigate, Nurture)"
 tags: ["applied-practice", "topic/emotion", "topic/compassion"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
 

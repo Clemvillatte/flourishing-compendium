@@ -5,7 +5,7 @@ type: "kernel"
 title: "Particulars before rules"
 file: "K259 — Particulars before rules"
 tags: ["applied-practice", "topic/leadership", "topic/wisdom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.02 — 2. Practical Wisdom and Deliberation", "parent": ""}
 ---
 > **Kernel K259** — Particulars before rules

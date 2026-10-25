@@ -5,7 +5,7 @@ type: "kernel"
 title: "Active constructive responding"
 file: "K210 — Active constructive responding"
 tags: ["applied-practice", "topic/relationships"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
 > **Kernel K210** — Active constructive responding

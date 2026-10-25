@@ -5,7 +5,7 @@ type: "kernel"
 title: "Public reasoning"
 file: "K365 — Public reasoning"
 tags: ["applied-practice", "topic/leadership"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.21 — 21. Civic Courage and Democratic Practice", "parent": ""}
 ---
 > **Kernel K365** — Public reasoning

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Evening examination"
 file: "K274 — Evening examination"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K274** — Evening examination

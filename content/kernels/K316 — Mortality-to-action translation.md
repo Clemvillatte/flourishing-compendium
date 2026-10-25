@@ -5,7 +5,7 @@ type: "kernel"
 title: "Mortality-to-action translation"
 file: "K316 — Mortality-to-action translation"
 tags: ["applied-practice", "topic/meaning", "topic/death", "topic/action"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.11 — 11. Finitude, Tragedy, and Existential Meaning", "parent": ""}
 ---
 > **Kernel K316** — Mortality-to-action translation

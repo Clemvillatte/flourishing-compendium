@@ -5,7 +5,7 @@ type: "kernel"
 title: "The mean calibration"
 file: "K253 — The mean calibration"
 tags: ["applied-practice", "topic/ethics"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.01 — 1. Character and Virtue Formation", "parent": ""}
 ---
 > **Kernel K253** — The mean calibration

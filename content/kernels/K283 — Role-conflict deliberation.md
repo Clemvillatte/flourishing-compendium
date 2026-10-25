@@ -5,7 +5,7 @@ type: "kernel"
 title: "Role-conflict deliberation"
 file: "K283 — Role-conflict deliberation"
 tags: ["applied-practice", "topic/ethics"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.05 — 5. Role Ethics and Duty", "parent": ""}
 ---
 > **Kernel K283** — Role-conflict deliberation
