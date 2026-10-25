@@ -219,3 +219,16 @@ robots-disallowed this pass (it worked earlier in the day for Burke
 2010), and the Europe PMC REST endpoint is uncrawlable for this
 fetcher. Next pass: retry E-utilities, or verify via the publisher
 abstract pages. No dossier text changes needed for the verified spans.
+
+## QC sample (2026-10-25 ~12:57Z, worker-7fbdff24, baton dos7)
+
+Bounded post-publication QC sample, three load-bearing spans on fresh
+fetches, all VERBATIM: Aristotle NE I.7 Ross (MIT Classics, raw HTML —
+both the "human good turns out to be activity of soul..." sentence and
+the one-swellowsummer continuation); Mill Autobiography ch. 5 (Gutenberg
+10378-h — both the "Those only are happy (I thought)..." opening and
+the "Aiming thus at something else, they find happiness by the way"
+close); Mauss, Tamir, Anderson and Savino 2011 (eutils abstract,
+PMID 21517168 — "Paradoxically, therefore, valuing happiness may lead
+people to be less happy just when happiness is within reach."). No text
+change owed. Baton released.
