@@ -80,9 +80,9 @@ Bodhi allows nonconceptual observation as a practice. His objection is to making
 
 ### Is sati awareness of the present moment, or remembering?
 
-The shared question: whether the core of sati is attending to what is happening now. The clinical definition says yes:
+The shared question: whether the core of sati is attending to what is happening now. The clinical definition says yes. Kabat-Zinn's own commentary gives it as an operational working definition:
 
-> "the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment." ([Jon Kabat-Zinn, quoted in Wikipedia, "Mindfulness"](https://en.wikipedia.org/wiki/Mindfulness))
+> "the awareness that emerges through paying attention on purpose, in the present moment, and nonjudgmentally to the unfolding of experience moment by moment." ([Jon Kabat-Zinn, Mindfulness-Based Interventions in Context, 2003, author's site](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf))
 
 Thanissaro answers from the canon that the Buddha defined it differently:
 
@@ -98,7 +98,7 @@ The two definitions differ on the core. In Kabat-Zinn's the present moment frame
 
 My lean, which is mine: Bodhi's reading fits what I opened best, since SN 48.10 itself sets the memory definition beside the satipatthana formula. For essays on wisdom development, I would write "keeping the aim in mind while attending to what is present" and avoid making either half the whole.
 
-Limits: I read one essay by each Pali scholar and the clinical definition through a secondary encyclopedia page. I have not opened Kabat-Zinn's own text or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have.
+Limits: I read one essay by each Pali scholar and the clinical definition in Kabat-Zinn's 2003 commentary, one sentence of it. I have not read the rest of Kabat-Zinn's commentary or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have.
 
 ### Is mindfulness a nonjudgmental awareness?
 
@@ -114,7 +114,7 @@ Both scholars object to treating judgment as foreign to mindfulness. The disagre
 
 My lean, which is mine: both sides are right about their own settings. A person calming a spiral of self-criticism benefits from the clinical stance, and a person deciding what to do about a harmful habit needs the evaluating function Bodhi describes. The dossier's essays should say which setting they mean.
 
-Limits: Bodhi's MN 117 argument is read in his paper's wording, and I have not opened MN 117 itself. Neither Pali scholar addresses Kabat-Zinn by name in the passages I opened, and the clinical definition is again read secondhand.
+Limits: Bodhi's MN 117 argument is read in his paper's wording, and I have not opened MN 117 itself. Neither Pali scholar addresses Kabat-Zinn by name in the passages I opened, and the clinical definition is read from a single sentence of Kabat-Zinn's 2003 commentary.
 
 ## Related questions and parallels
 

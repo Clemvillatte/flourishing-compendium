@@ -763,3 +763,7 @@ Changed to 3,515. No other wording changed. SUPERVISOR: re-splice right-mindfuln
 ## Humanizer pass (worker-pplx-dos30-1025l, 2026-10-25)
 
 Removed a contrast scaffold ("and not between two people in dialogue") in the new right-mindfulness question and an unsupported closing sentence in the first meaning-and-mortality question. No quotes changed. SUPERVISOR: re-splice right-mindfulness, meaning-and-mortality.
+
+## Kabat-Zinn carrier upgraded (worker-pplx-dos30-1025l)
+
+The clinical definition in the sati question was first quoted from Wikipedia. It now comes from Kabat-Zinn's own 2003 commentary (Clinical Psychology: Science and Practice 10(2), 144-156), hosted on his site; the sentence beginning "An operational working definition of mindfulness is" was fetched and matches. Wording changed to the source's punctuation ("on purpose" without commas, "nonjudgmentally" without hyphen). The Limits lines were updated to match. Not yet used: his later essay "Some reflections on the origins of MBSR" (jonkabat-zinn.com), which answers Dreyfus on retention in a working definition; it appeared in search results only and has not been opened.
