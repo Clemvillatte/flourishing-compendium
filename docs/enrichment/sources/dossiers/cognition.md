@@ -254,3 +254,29 @@ Checks after the recast: dossier_check.py exit 0. Fresh audit count for
 this dossier fell from 11 to 10. Scope: candidate-line review only; the
 dossier's overall rhythm was read but the map format's entry glosses were
 not restructured.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 45 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Kahneman dual-process entries, the
+Epstein Cognitive-Experiential Self-Theory entry, the Tversky-Kahneman
+1974 founding paper reference, Sweller's cognitive load theory, the
+Baron actively-open-minded-thinking entry, the Klein
+recognition-primed-decision model, Barsalou's grounded-cognition
+manifesto, Clark and Chalmers's active externalism, the weak-coherence
+account of autistic cognition, Peirce's belief-as-habit, the Festinger
+dissonance entry, Kahan's identity-protective cognition, Beck's
+cognitive model, Wells's cognitive attentional syndrome,
+Nolen-Hoeksema's rumination, the Kohlberg and justice-reasoning
+entries, Taylor's politics of recognition, Flavell's metacognition, the
+executive-functions trio, the divergent-thinking entries, Grossmann's
+wise reasoning, and the Horkheimer-Adorno instrumental-reason entry. No
+mismatches found; no edits made. This strengthens the earlier
+voice-audit review (all 11 candidates kept): the flagged constructions
+are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
