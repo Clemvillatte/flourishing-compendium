@@ -563,7 +563,7 @@ machine-verified; the remaining flags (ERIC carrier, Schumpeter PDF,
 Nietzsche Gutenberg ellipsis spans) are the documented artifact
 classes.
 
-## Haught-Tromp carrier re-verification + public-path URL fix (2026-10-25 12:12Z, worker-pplx-dos32-1025n3, baton dos32)
+## Haught-Tromp carrier re-verification + public-path URL fix (2026-10-25 11:59Z, worker-pplx-dos32-1025n3, baton dos32; TIMESTAMP CORRECTION 12:02Z: this header was first stamped 12:12Z from an estimated time — corrected to the read clock; the work sits between commits e7a01610 (11:59:09Z) and 930706298 (12:00:39Z))
 
 The supervisor review row's open item ("The Haught-Tromp carrier is
 unopened: open it or remove every claim that depends on it") was already

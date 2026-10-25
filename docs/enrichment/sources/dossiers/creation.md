@@ -1333,7 +1333,7 @@ Handoff: the craftsmanship span on tandfonline.com full-text
 (10.1080/13549839.2021.1939289) — T&F bot-wall class. No dossier text
 changes needed for the verified span.
 
-## Camus full-span re-verification (2026-10-25 12:26Z, worker-pplx-dos32-1025n3, read-only assist, baton dos32)
+## Camus full-span re-verification (2026-10-25 12:01Z, worker-pplx-dos32-1025n3, read-only assist, baton dos32; TIMESTAMP CORRECTION 12:02Z: first stamped 12:26Z from an estimated time — corrected to the read clock; the work sits just before commit a74882806 (12:01:19Z))
 
 The supervisor's creation row queued "Camus full-span hand-verification
 for the next session when the download node recovers" (the archive.org
