@@ -55,7 +55,9 @@ round; batch 3: Noba and recency round; batch 4: gap-family round).
 | https://nobaproject.com/modules/personality-traits | batch 3 | worker-pplx-psychdim-1 | Diener and Lucas, Personality Traits (Noba): trait consistency and stability, the lexical hypothesis and factor analysis, the Five-Factor Model and facets, Eysenck and HEXACO, the person-situation debate |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/ | batch 4 | worker-pplx-psychdim-1 | Branje, de Moor, Spitzer and Becht 2021, Journal of Research on Adolescence: identity development 2010 to 2020; dual-cycle models of exploration and commitment; identity domains (educational, vocational, relational, gender, ethnic, religious, illness); daily identity processes; narrative identity; links to adjustment |
 | https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf | batch 1 | worker-pplx-psychdim-1 | Ryan and Deci 2020, Contemporary Educational Psychology: intrinsic and extrinsic motivation from a self-determination theory perspective; autonomy, competence and relatedness; the four extrinsic regulations (external, introjected, identified, integrated) and amotivation |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | batch 3 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: studies adherence to personal resolutions across time, culture and goal domains; examines whether intrinsic versus extrinsic motivation predicts sticking with goals, using a year-long study of New Year's resolutions, a comparison with Chinese New Year resolutions, objective step-count measurement and an experiment testing intrinsic versus extrinsic emphasis; the extraction returned the design and questions, and the results were not separately extracted |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/ | batch 6 | worker-pplx-psychdim-1 | Singh et al. 2024, Healthcare: meta-analysis of health-behaviour habit formation time (20 studies, 2601 participants); median 59 to 66 days (2 to 5 months); range 4 to 335 days across studies; findings reject the 21-day myth; smaller habits form faster than larger ones |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC9171140/ | batch 6 | worker-pplx-psychdim-1 | Alarcon-Espinoza, Grigera and Berra 2022, Frontiers in Psychology: systematic review of emotional self-regulation in everyday life; family influences, with a focus on children and adolescents |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | batches 3 and 7 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: across its studies, intrinsic motivation (enjoyment, positive experience, engagement) predicted stronger adherence than extrinsic motivation (usefulness, importance, future benefits); intrinsic motivation predicted New Year's resolution adherence in the United States over a year and in China over a month, predicted objectively measured walking steps over two weeks, and experimentally increasing intrinsic (versus extrinsic) motivation increased health-app use; participants rated their goals as more extrinsic than intrinsically motivating; extrinsic motivation was more strongly associated with choosing goals, intrinsic motivation with following through |
 | https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf | batch 1 | worker-pplx-psychdim-1 | Carden and Wood 2018, Current Opinion in Behavioral Sciences: habit formation and change; context cues and learned associations; habits versus effortful self-control; change strategies (implementation intentions, reminders, rewards); environment disruption and technology in habit research |
 | https://nobaproject.com/modules/conditioning-and-learning | batch 3 | worker-pplx-psychdim-1 | Bouton, Conditioning and Learning (Noba): classical and instrumental conditioning, prediction error, blocking, extinction, spontaneous recovery, renewal, reinforcement and punishment |
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/ | batch 4 | worker-pplx-psychdim-1 | Dang 2018 (journal issue dated 2018), Psychological Research: updated meta-analysis of the ego depletion effect; 142 effect sizes; overall Hedges g of 0.38 (95 percent CI 0.31 to 0.45), 0.24 after trim-and-fill adjustment for publication bias, heterogeneity I squared of 60.67 percent; effects varied by task (emotion video g of 0.48; attention video not significant after adjustment); the author calls the restricted analysis tentative |
@@ -95,6 +97,8 @@ timestamps happens at module production.
 | 14. What Motivates Us: Sex | RCNgknc7Qv8 | 52:47 | M6 motivational |
 | 16. Self and Other, Part I | jsrB5m3mL-A | 58:15 | M5 self |
 | 17. Self and Other, Part II | S6OfFaBWtx4 | 64:53 | M5 self |
+| 7. Conscious of the Present; Conscious of the Past: Language | DmWrOUK2zgA | 59:43 | M3 cognitive |
+| 13. Why Are People Different?: Differences | piDznzrNymE | 65:49 | M5 self (personality) |
 
 ## Coverage matrix (v3, current; supersedes v1, v2 and v2.1)
 
@@ -131,8 +135,8 @@ blocking gaps on the register, not quiet omissions.
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: the field's dominant framework) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus verified OYC lecture 14 | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
-| motivational | Goal pursuit and adherence: intrinsic versus extrinsic reasons, resolution studies (essential: the current state-of-the-art question on sticking with goals; results to be extracted from the paper at module production) | [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/) | M6 | reading | design an adherence analysis for one own goal | analysis rubric |
-| overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf) | M7 | reading | habit diary with cue analysis | diary rubric |
+| motivational | Goal pursuit and adherence: intrinsic versus extrinsic reasons (essential: the current state-of-the-art question on sticking with goals) | [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/) | M6 | reading | design an adherence analysis for one own goal | analysis rubric |
+| overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf); [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/) | M7 | reading | habit diary with cue analysis | diary rubric |
 | overt behavioural | Conditioning and learning as the substrate of behaviour change (essential: the basic learning science behind change) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning) | M7 | reading | identify conditioning processes in daily behaviour | identification exercise |
 | overt behavioural | Self-regulation and self-control: the ego depletion debate with effect sizes and replication status (essential: the field's most instructive replication case; effect sizes and nulls included per the binding rules) | [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/) | M7 | reading | appraise the meta-analysis against the replication literature | appraisal rubric |
 | overt behavioural | Overt behaviour in the EEMM; the FAP target (clinically relevant behaviour) as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M7 | reading | functional analysis of one behaviour pattern | analysis rubric |
@@ -185,12 +189,12 @@ distinguishing mechanisms from outcomes.
   production. Current state-of-the-art talks per dimension are still to be
   sourced during production.
 - Self-regulation beyond the ego depletion debate: Dang 2018 grounds the
-  debate; a broader current self-regulation review is still open if module
-  production needs one.
-- SDT (2020) and habits (2018) anchors predate 2021; refresh during module
-  production with newer open reviews or talks.
-- Woolley et al. 2025 results were not extracted in session; extract the
-  findings from the paper at module production before any factual claim.
+  debate and Alarcon-Espinoza et al. 2022 ground everyday emotional
+  self-regulation (children and adolescents focus); a broader adult
+  self-regulation review is still open if module production needs one.
+- SDT (2020) remains the field's core synthesis and stays; the habits
+  anchor is refreshed with Singh et al. 2024. Ryan and Deci 2020 predates
+  2021, so a newer SDT review or talk is still welcome at production.
 - The Phase 0 pilot stop-gate (README.md) blocks module production until
   the pilots pass independent review.
 

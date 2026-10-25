@@ -4,6 +4,6 @@
  "holder": "worker-pplx-psychdim-1",
  "phase": "milestone-1-v3",
  "modules": {},
- "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): 24 sources opened across 4 fetch batches (all free access), one paywalled candidate rejected; coverage matrix v3 (single current version: breadth-repaired topic families per dimension with marks and reasons, FAP relabelling, timestamp corrections, observable progression competencies, exclusion review) in ledgers/deg-psychdim.md; scope doc carries benchmark, exclusion proposals and compact matrix; six-dimension wording fix; advisor rounds 1 and 2 applied; advisor re-review pending; Phase 0 pilot stop-gate still blocks module production",
- "updated": "2026-10-25T08:23:48Z"
+ "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): 26 sources opened across 7 fetch batches (all free access), 8 Yale OYC lectures verified to standard, one paywalled candidate rejected; coverage matrix v3 in ledgers/deg-psychdim.md; scope doc benchmarked with coverage summary and exclusion proposals; shared test test_academy_migration repaired (fragile pre-migration lookup); advisor rounds 1 and 2 applied; advisor re-review pending; Phase 0 pilot stop-gate still blocks module production",
+ "updated": "2026-10-25T08:27:36Z"
 }

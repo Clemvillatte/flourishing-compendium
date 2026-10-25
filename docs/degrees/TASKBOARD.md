@@ -104,6 +104,14 @@ reference, unique source ids in brackets):
   strategist: EEMM socio-cultural and biophysiological levels as context
   material (owner decision); attentional and other dimension gaps on the
   ledger's gap register.
+- 2026-10-25 worker-pplx-psychdim-1 (final checkpoint this session): matrix
+  v3 current; 8 verified Yale OYC lectures (oembed + watch-page durations);
+  Woolley 2025 results extracted; habits refreshed with Singh 2024
+  meta-analysis; emotional self-regulation grounded (Alarcon-Espinoza
+  2022). Fixed shared test test_academy_migration (pre-migration lookup
+  walked only HEAD~1/HEAD~2/HEAD; now walks app.js revisions; flagged to
+  deg-integrate and deg-arch). Advisor re-review pending; Phase 0 pilot
+  stop-gate still blocks module production.
 - 2026-10-25 worker-pplx-greek-1 (round 2): advisor round 2 repairs applied to
   mod-phil-1 (outcome 2 now assessed; SEP three-framework introduction;
   AR-01 classified from the recording transcript; reader-facing workload
