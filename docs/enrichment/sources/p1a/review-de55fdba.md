@@ -145,3 +145,14 @@ Opened through search and fetch:
 - [Richard Kraut, “Aristotle's Ethics,” Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/aristotle-ethics/). Opened the discussion of virtuous activity, external conditions, and good fortune. Also read the extraction of §5.2 concerning the absence of an all-purpose decision procedure, but made no separate new claim from that section.
 
 Changes: explained the external-goods qualification affirmatively and attached Kraut's explanation to the relevant sentence. Preserved the primary quotation and both original body wikilinks. One-sentence Plain words and a care/course example that leaves room to change an arrangement as circumstances change. No empirical claim from the retained modern-psychology further-reading links is used in the body; those older bibliography entries were not independently reverified here. Read the linked Eudaimonia and Virtue concept pages for alignment, without editing them or treating their claims as verified evidence.
+
+## R055: Practise xin
+
+Opened through search and fetch:
+
+- [*Analects* Book 2, James Legge translation, Chinese Text Project, 2.22](https://ctext.org/analects/wei-zheng). Read the entire book and checked the complete carriage comparison. Extended the former one-sentence quotation with the adjacent sentence, copied exactly from this edition.
+- [*Analects* Book 1, James Legge translation, Chinese Text Project, 1.4, 1.8 and 1.13](https://ctext.org/analects/xue-er). Read the full book; verified Zengzi's self-examination about sincerity with friends, the first-principles wording, and Youzi's relation of agreements to rightness.
+- [Karyn Lai, *Learning to Be Reliable: Confucius' Analects*, printed pp. 194–196](https://philarchive.org/archive/LAILTB). Opened the discussion of reliability across time and relationships, with reviewing or withdrawing from undertakings when weightier moral considerations apply. The page uses a paraphrase; it does not reproduce the extraction's apparently garbled bracketed rendering of 2.22.
+- [*Mencius*, Legge, Li Lou I chapter XII, 4A12](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07). Read the complete passage on trust, parents, sincerity and understanding goodness. Treated it as an ethical account, with my application explicitly distinguished from an empirical character test.
+
+Changes: fuller verbatim primary quotation, one-sentence Plain words, and a changed-promise example that attends to the friend's opportunity to rearrange plans. Removed the formulaic application disclaimer. Preserved front matter, opening principle, all existing links and lower sections.

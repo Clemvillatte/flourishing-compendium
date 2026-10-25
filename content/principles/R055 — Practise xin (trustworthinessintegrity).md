@@ -12,23 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Practise xin (信) — trustworthiness/integrity.**
 
-In Analects 2.22, Confucius compares someone without xin to a carriage missing the connection that allows it to be drawn ([Legge translation](https://ctext.org/analects/wei-zheng)). He begins:
+In Analects 2.22, Confucius gives xin, trustworthiness, the role of a connecting part in a carriage ([Legge translation](https://ctext.org/analects/wei-zheng)):
 
-> "I do not know how a man without truthfulness is to get on." (Analects 2.22, [Legge translation](https://ctext.org/analects/wei-zheng))
+> "I do not know how a man without truthfulness is to get on. How can a large carriage be made to go without the crossbar for yoking the oxen to, or a small carriage without the arrangement for yoking the horses?" (Analects 2.22, [Legge translation](https://ctext.org/analects/wei-zheng))
 
 Karyn Lai reads xin as reliability demonstrated in relationships across changing circumstances ([Learning to Be Reliable, pp. 194–197](https://philarchive.org/archive/LAILTB)). Zengzi's daily examination includes whether he has been sincere with friends (Analects 1.4, [Legge translation](https://ctext.org/analects/xue-er)). Analects 1.8 places faithfulness and sincerity among the learner's first concerns ([Legge translation](https://ctext.org/analects/xue-er)).
 
 There is room for judgment about what to promise: Analects 1.13 links making good on agreements with their being right, and Lai cautions against treating fidelity as blind persistence regardless of the situation ([Legge translation](https://ctext.org/analects/xue-er); [Lai, pp. 195–196](https://philarchive.org/archive/LAILTB)).
 
-Mencius 4A12 connects trust among friends with serving parents, examining one's sincerity and understanding what is good ([Legge translation](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07)). This is Mencius's ethical account, not a test for judging someone's trustworthiness from their family relationships.
+Mencius 4A12 connects trust among friends with serving parents, examining one's sincerity and understanding what is good ([Legge translation](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07)). I use that ethical account for self-examination, and judge another person's reliability by what they actually undertake and do.
 
 ### Plain words
 
-Being reliable means giving others good grounds to count on you. Their plans matter when you decide what to undertake. If circumstances change, explain what has happened and discuss what you can responsibly offer now.
+Make commitments others can rely on, and speak promptly when circumstances require a change.
 
 ### For example
 
-Suppose you promised to collect a friend but discover that your car is unsafe. Explain promptly and help arrange another way home. Later, review what you should check before offering again. This is my illustration of reliability exercised with judgment.
+Suppose you promised to collect a friend but discover that your car is unsafe. Explain promptly, ask what alternative would work and help arrange another way home. Later, check whether you warned them in time to change their plans and what you should check before offering again.
 
 ## Sources
 
