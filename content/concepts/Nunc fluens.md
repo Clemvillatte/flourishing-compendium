@@ -17,6 +17,8 @@ The concept is Heraclitus's river image read as a theory of the present. The riv
 
 The SEP's reading gives the fragment's point: "some things stay the same only by changing... constancy and change are not opposed but inextricably connected". The flowing now is exactly this kind of existent — the present remains the present only because each of its waters passes away.
 
+The two sources stand at some distance, and the distance is worth noticing. Boethius's formula gives a scholastic contrast between two nows, one flowing and one standing, and it is quoted by Aquinas inside a question about God's eternity, not about experience. The Heraclitus fragment gives the image of something that stays the same only because other and other waters flow, and the SEP's reading of it is that constancy and change are inextricably connected. The term nunc fluens names the point where the two meet: a present with the Heraclitean structure, carried in a Latin formula built to contrast time with eternity.
+
 ### Here
 
 - [[M002 — Expect the cosmos itself to be motion]] cites this concept as a philosophy parallel.
