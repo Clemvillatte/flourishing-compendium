@@ -96,3 +96,57 @@ M04-R10, M04-R14, SRC-M24-003.
 - Note: the transcript service was not read for this recording this session;
   content classification rests on the recording's own description and
   chapter list.
+
+### M04-R02: An ubu-ntu Perspective on Dialogue among World Philosophies (Mogobe Ramose)
+
+- Legacy attachment: mod-rel-1 required media.
+- Identity: oembed confirms the video on the GloPhi (Philosophizing in a
+  Globalized World) channel, title "An ubu-ntu Perspective on Dialogue among
+  World Philosophies (Mogobe Ramose)"
+  (https://www.youtube.com/watch?v=JmZlBEjkpYg). Freely playable, no paywall.
+- Duration: 1:26:14 printed on the page (2026-10-25).
+- Instructor credentials: Mogobe Bernard Ramose, Professor Extraordinarius at
+  the University of South Africa and Research Professor at Sefako Makgatho
+  Health Sciences University, PhD in Philosophy from KU Leuven, a foundational
+  figure in the internationalization of African philosophy and ubuntu
+  scholarship (bio printed in the event description on the recording's own
+  page; not separately re-verified on an institutional page this session,
+  flagged below).
+- Language: English. The watch page offers a transcript panel.
+- Event: GloPhi lecture series Philosophizing in African Languages, 17 April
+  2025, Ruhr University Bochum cultural campus (stated in the description).
+- Content coverage (from the recording's own abstract, read 2026-10-25):
+  Ramose argues the speaking human being precedes the writing human being,
+  takes ubuntu as his point of departure for dialogue among world
+  philosophies, and draws on the rivers of Africa as a source of philosophy
+  (fluvial philosophy) against the backdrop of colonization and economic
+  globalization.
+- Relevant segments: a single 1:26:14 lecture; no chapter timestamps
+  printed.
+- Verification status: verified-video (2026-10-25).
+- Flag for the owner: Ramose's credentials are taken from the event
+  description on the recording's own page; a university page should be
+  opened for a second provenance if the module leans on his seniority.
+
+### M04-R10: Robert Bernasconi, Levinasian Relationality
+
+- Legacy attachment: mod-rel-3 required media.
+- Identity: oembed confirms the video on the InSchibbolethTV channel, title
+  "Robert Bernasconi - Levinasian Relationality"
+  (https://www.youtube.com/watch?v=i_1VVnSvGtA). Freely playable, no
+  paywall.
+- Duration: 48:06 printed in the player (2026-10-25).
+- Instructor credentials: same as M04-R09 (Penn State Philosophy page,
+  opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: international conference Current Readings of Levinas' Otherwise
+  Than Being, or Beyond Essence, Rome, 28 to 31 May 2025 (stated in the
+  description).
+- Content coverage (from the recording's own description, read 2026-10-25):
+  Bernasconi's conference talk on Levinasian relationality, part of a
+  conference dedicated to Otherwise Than Being. The description is otherwise
+  thin; the content claim rests on the talk's title, event and Bernasconi's
+  documented Levinas specialism, and the owner should read the transcript
+  panel for segment detail.
+- Relevant segments: a single 48:06 talk; no chapter timestamps printed.
+- Verification status: verified-video (2026-10-25).
