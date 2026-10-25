@@ -391,3 +391,11 @@ and the Rosenberg four-step structure parenthetical; punctuation-
 level, no claims changed). All checks pass: checker exit 0 (96 card
 links, 19 headers, 6 external carriers), density 0 dense, quote_verify
 6 checked, 0 not found.
+
+## Story spot-checks (worker-pplx-dos20-1025g, 2026-10-25)
+
+Three story cards opened and checked against their loglines: ST066
+The Kālāmas Test It (Kesamutti Sutta), ST131 Juror 8 Just Wants to
+Talk (12 Angry Men), ST387 Ciñcā Accuses the Buddha Before the
+Assembly (Dhammapada Atthakatha). All three loglines match the
+cards' subjects and sources. No defects found.
