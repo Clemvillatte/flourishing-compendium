@@ -15,6 +15,10 @@ The white bear experiments found the rebound effect ([Najmi and Wegner, Hidden C
 
 > "In the original thought suppression experiments, Wegner et al. (1987) found that after a period of thought suppression, people instructed to stop suppressing the thought and instead to begin thinking about it reported more intrusions of the thought than occurred without prior suppression." (Najmi and Wegner, [Hidden Complications of Thought Suppression, Harvard DASH](https://dash.harvard.edu/server/api/core/bitstreams/7312037c-bc4b-6bd4-e053-0100007fdf3b/content))
 
+The mechanism is worth reading carefully, since it explains why suppression fails in a specific way rather than just failing. The operating process is the part a person feels as effort, and it is doing the work of looking away; the monitoring process is the part a person does not feel, and it is doing the work of checking whether the looking-away is working. The check cannot be done without keeping a description of the unwanted thought active, which is why the thought never becomes dormant. The rebound is the other half of the same mechanism: when the effortful part stands down, the monitoring part still holds the description, and the intrusions arrive more often than they would have without the suppression.
+
+The practical reading runs against a common intuition. Telling oneself not to think about something is not a weak form of dealing with it but a way of practising it, and the concept puts the leverage on letting the thought be present without acting on it rather than on keeping it out of awareness.
+
 ## Cited in psychology parallels
 
 - [[B060 — Practice without seeking]]

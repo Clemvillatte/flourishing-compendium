@@ -17,6 +17,8 @@ In the meaning-in-life literature, mattering appears as one of three facets of m
 
 Costin and Vignoles connect existential mattering with the perceived value of one's life and the difference one's actions make ([Costin and Vignoles, Meaning Is About Mattering](https://pdfs.semanticscholar.org/6d5a/00c00957155add5b4e8853ed7cbcdd78ae68.pdf)). Deficits in mattering have established links with mental health problems across life contexts ([Flett and Zangeneh, Mattering as a Vital Support for People](https://pdfs.semanticscholar.org/6c58/ddb9d4765e08ba66de217a89c88f4edd1933.pdf)).
 
+The Rosenberg and McCullough components are worth reading as a set rather than as a list, since they name three different ways a person's significance shows up rather than three feelings that happen to co-occur. Being depended on says that a person's presence is doing work; being regarded as important says that others have taken a measure; being actively attended to says that the measure is happening now. The third component is the one the authors call most central, which fits with the observation that mattering is not a settled achievement but something that needs a live audience to hold it up.
+
 ## Cited in psychology parallels
 
 - [[P153 — Participate in the world's becoming]]
