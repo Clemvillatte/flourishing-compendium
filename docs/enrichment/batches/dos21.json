@@ -4,7 +4,7 @@
   {
    "slug": "right-action-gf-rewrite",
    "worker": "worker-pplx-dos21-1025f",
-   "state": "done: right-action rewritten from the retired map format into the GF interwoven model (owner-validated 2026-10-25). All 64 card links and 13 blockquotes preserved byte-identical; map card-lists dissolved into question-driven prose; disagreement section renamed to the model heading; density 0 dense after splitting 3 flagged paragraphs; quote_verify 15 checked 0 not found (live fetch); checker exit 0. Ledger: sources/dossiers/right-action.md (GF-model rewrite entry). OPEN for supervisor: registry flip + --rebuild=right-action; one editorial elaboration sentence flagged for supervisor read (relational paragraph).",
+   "state": "in_progress: advisor QC round 1 repairs applied (6 unsupported connective claims removed/grounded, meta-text removed, opening split first-person, practice kernels rewritten as two-sentence do+notice items from opened kernel cards, ledger corrections recorded); checks re-run clean (checker 64 links exit 0, density 0, quote_verify 15/0 live). Awaiting final verification round.",
    "verification": "pass (worker-pplx-dos21-1025f, 2026-10-25): link-set comparison old vs new shows zero missing; quote lines byte-identical; dossier_check 64 links/20 headers/14 carriers exit 0; density 0; quote_verify live 15/0"
   }
  ],

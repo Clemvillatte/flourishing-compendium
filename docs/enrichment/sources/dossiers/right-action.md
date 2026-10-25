@@ -500,3 +500,39 @@ recorded:
   elaboration noted above; art already assigned (right-action.jpg).
 
 Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
+
+## Advisor QC round 1 (same session) — corrections to the entry above
+
+- LEDGER CORRECTIONS (3, per advisor): (1) the flagged "justice
+  ethic asks what anyone owes" elaboration is NOT in the final text —
+  the sentence was never carried into the pushed version; the flag in
+  the entry above is withdrawn as a documentation error, no page defect.
+  (2) "two sibling-factor links added" is wrong — right speech and
+  right livelihood were added in body prose; the Nearby terms bullets
+  for them are plain text. (3) "No new claims introduced" is WITHDRAWN:
+  the first push did introduce connective/editorial sentences beyond
+  the swept glosses; repaired this round (list below).
+- REPAIRS APPLIED (6 unsupported connective claims removed or
+  grounded): the "floor/ceiling" manufactured-agreement frame in the
+  first-restraint opening; "decide once, universally..." (rule-answer
+  tidy aphorism); "if the virtues unify, training one trains the
+  others; the catalogue is not a menu" (inference beyond the card);
+  "abstentions fail most often not by decision but by the quiet
+  rearrangement of what counts" (frequency claim beyond the card);
+  "the body in the phrase is the one this factor restrains" (ungrounded
+  bridge); "clinical versions translate the same insight" (equivalence
+  claim). Replaced with card-bounded wording or deleted.
+- META-TEXT REMOVED: "have their own cards" (first restraint), "this
+  page holds" x2 (Nearby terms), "the role-ethics card keeps ... apart"
+  (card-maintenance note), "widen the road"/"same road" metaphors.
+- OPENING: split into two first-person paragraphs per the model.
+- PRACTICE: each of the 8 kernels rewritten as two sentences (what to
+  do, what to notice), grounded in the kernel cards opened this session
+  (K250, K255, K263, K266, K184, K152, K290, K216 read directly).
+- CARD-LIST PARAGRAPHS rethreaded: character-answer (puzzle ->
+  strict virtue -> catalogue -> cardinal), svadharma/bodhisattva/upaya,
+  care/role ethics, Kohlberg/Bandura split into separate paragraphs.
+- STILL OPEN for the supervisor: registry flip + --rebuild=right-action;
+  the advisor notes the Wang/Socrates section is inherited verified
+  prose, not re-opened this session (quotes byte-identical to the
+  pass-8 verified text and live-matched by quote_verify).
