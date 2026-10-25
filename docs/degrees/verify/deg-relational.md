@@ -150,3 +150,88 @@ M04-R10, M04-R14, SRC-M24-003.
   panel for segment detail.
 - Relevant segments: a single 48:06 talk; no chapter timestamps printed.
 - Verification status: verified-video (2026-10-25).
+
+### M04-R01: Ubuntu's Implications for Philosophical Ethics (Thaddeus Metz)
+
+- Legacy attachment: mod-rel-1 required media.
+- Identity: oembed confirms the video on the University of Pretoria channel,
+  title "27th UP Expert Lecture 'Ubuntu's Implications for Philosophical
+  Ethics'" (https://www.youtube.com/watch?v=t9lVivXlAQc). Freely playable,
+  no paywall.
+- Duration: 1:02:30 printed in the player (2026-10-25).
+- Instructor credentials: Thaddeus Metz, Research Professor of Philosophy at
+  the University of Pretoria since 2020, PhD from Cornell (1997), NRF
+  A1-rated, the leading analytic interpreter of ubuntu as a moral theory
+  (University of Pretoria profile: https://www.up.ac.za/philosophy/prof-thaddeus-metz,
+  opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: 27th University of Pretoria Expert Lecture, published 30 September
+  2021.
+- Content coverage (from the recording's own chapter list and UP's lecture
+  page, read 2026-10-25): Metz constructs a moral theory from ubuntu,
+  arguing right action harmonises communal relations; chapters include
+  harmony (21:52), communal relations (28:00), punishment and education
+  (42:37), conclusion (51:00), questions (53:16).
+- Relevant segments: harmony 21:52 to 34:07, communal relations 28:00 to
+  34:07, or assign the full 1:02:30 lecture.
+- Verification status: verified-video (2026-10-25).
+- Dedupe note: the manifest lists this same URL twice, as M04-R01 (imported)
+  and as SRC-M27-001 (optional attachment on the same module). One
+  recording, one entry; the owner should drop the duplicate record.
+
+### M04-R14: Vā (Aiono Manu Faaea)
+
+- Legacy attachment: mod-rel-3 required media.
+- Identity: oembed confirms the video on the ACE Aotearoa channel, title
+  "Vā" (https://www.youtube.com/watch?v=WH7dN35mUhE). Freely playable, no
+  paywall.
+- Duration: 51:07 printed in the player (2026-10-25).
+- Instructor credentials: Aiono Manu Fa'aea, Senior Pasifika Manager at
+  Manukau Institute of Technology, a practising ethnomusicologist and
+  educator of Sāmoan descent who has published on vā in tertiary settings
+  (MIT contact page: https://www.manukau.ac.nz/pasifika/contact-us/, and
+  the Journal of Global Indigeneity article Navigating the digital va-vā,
+  both opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: ACE Aotearoa workshop for the adult community education sector,
+  published 5 January 2025.
+- Content coverage (from the recording's own description, read 2026-10-25):
+  a workshop on vā, relationship and relational space, explored through a
+  Sāmoan and Tongan lens from a community perspective, with critical
+  reflection on applying vā in work practice.
+- Relevant segments: a single 51:07 workshop; no chapter timestamps printed.
+- Verification status: verified-video (2026-10-25).
+- Flag for the owner: the New Zealand Teachers Disciplinary Tribunal
+  censured Fa'aea in 2023 for issuing fraudulent invoices between 2012 and
+  2018 while employed by CORE Education (Newstalk ZB report and the
+  tribunal decision, both opened 2026-10-25). She remains employed at MIT.
+  The owner should weigh this against the module's use of the workshop.
+
+### M04-R04: Book Discussion of Human Becomings (Roger T. Ames)
+
+- Legacy attachment: mod-rel-2 required media.
+- Identity: oembed confirms the video on the Collaborative Learning
+  四海为学 channel, title "Prof. Roger Ames: Book Discussion of Human
+  Becomings: Theorizing Persons for Confucian Role Ethics"
+  (https://www.youtube.com/watch?v=eOvAW-xa3Hc). Freely playable, no
+  paywall.
+- Duration: 1:54:32 printed in the player (2026-10-25); a 1:58:39 figure on
+  the page belongs to a recommended video.
+- Instructor credentials: same as M04-R03; at this June 2023 event Ames is
+  presented as Peking University faculty (his chair there since 2016 per
+  the UH news page opened 2026-10-25). Co-discussants Liu Huawen (Jiaotong
+  University), David Elstein (SUNY New Paltz) and Yang Yuzhou (Qujing
+  Normal University) are named in the description.
+- Language: English and Mandarin (the title and discussion series are
+  bilingual). The watch page offers a transcript panel.
+- Event: Collaborative Learning 四海为学 book discussion series, held 15
+  June 2023.
+- Content coverage (from the recording's own description, read 2026-10-25):
+  a panel discussion of Ames' book Human Becomings: Theorizing Persons for
+  Confucian Role Ethics with three Chinese-philosophy scholars.
+- Relevant segments: a single 1:54:32 discussion; no chapter timestamps
+  printed.
+- Verification status: verified-video (2026-10-25).
+- Note: the owner should confirm the discussion's spoken language mix from
+  the transcript panel before assigning; the event is bilingual in
+  framing.
