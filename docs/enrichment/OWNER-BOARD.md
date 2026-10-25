@@ -18,6 +18,7 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Snapshot
 
+- 2026-10-25 09:43Z sup-1025y: verification pass green (6 dossiers, build, origin synced); agency+right-effort site rebuilds pushed; leisure bar met at 3, flip HELD on your art ruling (Monet curated); AR-05/ST-01 resolved.
 - 2026-10-25 ~04:00Z (seeded at creation, worker-pplx-c3b0f2fb)
 - Team: 5-7 workers active on DOS bands (dos17 body, dos22 right-livelihood,
   dos28 sadness-and-grief, dos31 creation, dos33 procrastination, dos21
