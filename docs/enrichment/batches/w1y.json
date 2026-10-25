@@ -73,11 +73,11 @@
   "Corsi e ricorsi": "supervisor disposition (2026-10-23 ~06:53Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the §31 quotation now runs through all three ages to its sentence end (no end-truncation); no further action.",
   "Conversational research": "supervisor disposition (2026-10-23 ~06:53Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the Mehl finding is stated in the present tense ('predicts well-being'); no further action.",
   "Plan-then-adapt strategies outperform rigid plans": "supervisor disposition 2026-10-25 ~02:47Z worker-pplx-w1y-1025f: created replacement concept card Adaptive planning (content/concepts/Adaptive planning.md) grounded in opened sources (Kwakkel & Haasnoot 2019 DMDU ch.15 p.359; Masicampo & Baumeister 2012 abstract; Klein 2007 Flexecution abstract). Old stub left UNTOUCHED pending supervisor/owner decision on retirement or redirect (incoming links D073/ST019/CO045/MO054/B084/CO073/AF019/D156 preserved on both pages); no link migration attempted. New page recorded under w1y new_concepts with evidence trail.",
-  "Adaptive planning": "QC round 2 open items (worker-pplx-w1y-1025f, 2026-10-25 ~02:52Z): (1) locator uncertainty p.359 vs p.358 (Springer page was crawler-blocked; quotes verified via search snippets only, access method recorded in w1y ledger); (2) drop 'wisdom infrastructure' phrasing; (3) tighten planned-adaptation contrast per source wording (predetermined review moments with condition review, not decisions regardless of conditions); (4) Masicampo phrasing: specific plans impaired attainment under insufficient time only when alternative opportunity was essential; (5) Flexecution section: framed as Klein's observation, AAAI review crawler-blocked, 'as reported in' framing deliberate; (6) ST019/AF019 remain on old stub only; relevance to new card not assessed this session; old stub UNTOUCHED pending supervisor/owner decision (retire vs redirect). Replacement card recorded under w1y new_concepts with evidence."
+  "Adaptive planning": "round-3 QC applied: Flexecution removed (crawler-blocked carriers), unsupported flourishing/advice removed, Springer ch.15 opened via TU Delft repository PDF (all 4 quotes verbatim, pp.358-359), Masicampo stated precisely. Open: supervisor review of replacement (old stub disposition, ST019/AF019 relevance, no link migration attempted)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T02:52:53+00:00",
+ "updated": "2026-10-25T02:55:43+00:00",
  "band_done": false,
  "new_concepts": [
   {
