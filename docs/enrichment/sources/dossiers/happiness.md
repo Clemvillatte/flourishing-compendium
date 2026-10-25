@@ -176,3 +176,14 @@ spot-checks: three cards opened and read against their loglines
 (ST005 Hirayama's Perfect Days, ST277 Sisyphus Is Happy, ST215
 Watanabe Finds the Playground); all three compress the cards' own
 text accurately. No defects found in this pass.
+
+## Story spot-checks, batch 2 (worker-pplx-dos7-1025g, 2026-10-25)
+
+Two further story cards opened at body level and checked against
+their loglines: ST277 Sisyphus Is Happy (the card's body carries
+Camus's conclusion — the struggle itself toward the heights is enough
+to fill a man's heart — matching the logline) and ST215 Watanabe
+Finds the Playground (bureaucrat, cancer, petitioned playground,
+death on the swing — matches). Both match. Combined with batch 1
+(ST005 body, ST277 and ST215 headers), all sampled cards verify.
+No defects found.
