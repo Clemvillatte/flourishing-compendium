@@ -308,5 +308,7 @@ register" removed from the dossier prose in the advisor pass is the Deep
 listening card's own wording; the removal stands as a prose choice and
 the gloss remains card-faithful without it. Together with the two
 advisor-flagged cards checked earlier (AF075, Spiral of Silence), the
-load-bearing glosses are now worker-re-read; the earlier card-fidelity
+load-bearing glosses are now worker excerpt-checked (each card's
+opening text, which carries the gloss text, was read against the
+dossier gloss — not a full card re-read); the earlier card-fidelity
 sweep covers the rest. This narrows the dos20 evidence flag.

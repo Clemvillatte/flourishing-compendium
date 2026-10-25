@@ -540,4 +540,6 @@ All thirteen glosses match their cards; two glosses carry the card's own
 phrasing with card attribution in the prose. The remaining right-view
 entries remain covered by the earlier card-fidelity sweep (gfva-1025a,
 26 entries). This narrows the dos18 evidence flag: the load-bearing
-glosses are now worker-re-read; the sweep covers the rest.
+glosses are now worker excerpt-checked (each card's opening text,
+which carries the gloss text, was read against the dossier gloss —
+not a full card re-read); the sweep covers the rest.

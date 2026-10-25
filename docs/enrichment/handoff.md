@@ -92,3 +92,12 @@
   rebuild (or the build splices them via the registry flip itself).
   All three registry entries verified present with correct group
   (eightfold-path), scope, nearby_terms, question_draft and art names.
+- Correction (advisor QC, 2026-10-25): this session's "card spot-checks"
+  were EXCERPT checks (each card's opening text read against the dossier
+  gloss), not full card re-reads; the ledger entries have been reworded
+  accordingly (all three dossiers). The right-intention quote-check pass
+  retains its one documented exception (Ryan-Deci 2000 PDF running-header
+  artifact; quote verified manually in the raw PDF). The session's
+  manuscript reads were also excerpt-level (truncated line tails), so
+  reader-level review is claimed only for the portions read in full;
+  right-speech's full untruncated read is in progress.

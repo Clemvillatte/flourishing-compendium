@@ -450,6 +450,8 @@ Purpose (Frankl), The bodhisattva vow, Implementation intentions
 (Gollwitzer), The intention-behavior gap (Sheeran), Vairagya (Patañjali).
 All fifteen glosses match their cards. Together with the two
 advisor-flagged cards checked earlier this pass (counter-affect,
-extrinsic aspirations), the load-bearing glosses are now worker-re-read;
+extrinsic aspirations), the load-bearing glosses are now worker
+excerpt-checked (each card's opening text, which carries the gloss
+text, was read against the dossier gloss — not a full card re-read);
 the earlier card-fidelity sweep (gfva-1025a, 45 entries) covers the rest.
 This narrows the dos19 evidence flag.
