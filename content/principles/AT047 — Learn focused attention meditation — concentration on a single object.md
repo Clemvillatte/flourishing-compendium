@@ -23,7 +23,7 @@ The same passage sets the measure of progress:
 By that measure, a session with many returns is a session with much practice.
 
 **Plain words**
-You pick one thing, such as the breath. Your mind will leave it. The practice is the noticing and the coming back: spotting the drift, letting go of the distraction, getting back. A session full of returns is a session full of practice.
+Beginners expect meditation to feel like holding a note, one unbroken tone of attention. The studies describe something closer to weight training for the mind: the lift is the noticing itself, the moment the drift is caught, the distraction dropped and the object recovered. A sit that feels like failure, forty minutes of wandering and returning, may hold the most repetitions.
 
 **For example**
 Sitting with the breath at the nostrils, the focus slides to the ache in a knee. The practice is right there: notice the shift, release the ache, return to the breath. That is one repetition, and the session is made of them.
