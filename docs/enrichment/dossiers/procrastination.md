@@ -92,11 +92,13 @@ The two accounts need not compete. A devalued future and an aversive present can
 
 ## Where the traditions genuinely disagree
 
-### Can someone know the better course and still delay?
+### Can we act against our better judgment?
 
-The classical question is whether a person can know the better course and act against it. Socrates, as reported in the Protagoras, denies it outright:
+Plato's Socrates denies that someone who judges another available course better will continue on the worse one:
 
-> "No one, he declared, who either knows or believes that there is another possible course of action, better than the one he is following, will ever continue on his present course" ([Protagoras 358b-c, in SEP "Weakness of Will"](https://plato.stanford.edu/entries/weakness-will/))
+> "Then, I said, if the pleasant is the good, nobody does anything under the idea or conviction that some other thing would be better and is also attainable, when he might do the better. And this inferiority of a man to himself is merely ignorance, as the superiority of a man to himself is wisdom." ([Protagoras, Jowett translation](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/protagoras))
+
+> "Then, I said, no man voluntarily pursues evil, or that which he thinks to be evil. To prefer evil to good is not in human nature; and when a man is compelled to choose one of two evils, no one will choose the greater when he may have the less." ([Protagoras, Jowett translation](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/protagoras))
 
 Aristotle objects that the denial cannot be squared with conduct anyone can watch, and then locates the failure in the difference between having knowledge and using it:
 
@@ -104,7 +106,9 @@ Aristotle objects that the denial cannot be squared with conduct anyone can watc
 
 > "since we use the word 'know' in two senses (for both the man who has knowledge but is not using it and he who is using it are said to know), it will make a difference whether, when a man does what he should not, he has the knowledge but is not exercising it, or is exercising it" ([Nicomachean Ethics VII.3, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))
 
-The disagreement, carried on these passages, is not the classical stance versus the research stance: the two modern reviews examine delay without settling the philosophical question. The boundary belongs in the page, not in a footnote. Akrasia is broader than procrastination, and reading the debate onto delay is the page's own connection, not a finding of either review. Where the disagreement does bear, and where the corpus's own cards already carry it, is on what counts as the missing piece: the classical argument turns on what knowing amounts to at the moment of action, while the modern argument turns on predictors of delay that are properties of the valuation and the initiation, not of the knowledge. The [A057](https://clemvillatte.github.io/flourishing-compendium/#card=A057%20%E2%80%94%20Know%20that%20akrasia%20is%20not%20invincible) card carries the reformability claim, and the [Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom) card the Seneca counsel, both on the classical side of the gap.
+His conclusion, however, grants Socrates a qualified victory: the position Socrates sought to establish actually seems to result, because incontinence does not arise in the presence of what is thought to be knowledge proper, but of perceptual knowledge ([Nicomachean Ethics VII.3, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The disagreement concerns what kind of knowing is present when judgment and action part.
+
+I connect that dispute to postponing an intended action. Akrasia is broader than procrastination, and neither modern review settles this philosophical question.
 
 ## Practice: variation, selection, retention
 

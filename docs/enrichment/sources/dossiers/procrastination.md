@@ -346,3 +346,70 @@ re-checked against the cards before any future addition). Supervisor
 review of the bounded comparison and a decision on whether the
 Socrates–Aristotle section satisfies the divergence requirement
 remain outstanding, per the advisor's round-3 handoff verdict.
+
+## Rev 6.1 — advisor QC repairs + primary-source upgrade (worker-pplx-dos33-1025d, 2026-10-25)
+
+The advisor's QC on rev 6 returned four repairs and one structural
+requirement. All four repairs are applied; the structural requirement
+(a primary source on each side) is met by upgrading the Socrates
+carrier from SEP to the Protagoras itself.
+
+Repairs applied:
+
+1. The closing paragraph's manufactured opposition ("Where the
+disagreement does bear... classical argument turns on what knowing
+amounts to at the moment of action, while the modern argument turns
+on predictors of delay that are properties of the valuation and the
+initiation, not of the knowledge") and the closing A057/Seneca
+card catalogue are deleted. The section no longer contrasts classical
+knowledge with modern valuation.
+2. The Socrates quotation is no longer presented as a verbatim quote
+with the SEP's narration embedded ("he declared"). The SEP passage is
+not quoted at all in the dossier; the section now paraphrases the
+Socratic position and quotes from the Protagoras primary text
+instead (see below). The rev-6 ledger's verbatim-verification claim
+for the SEP quote is superseded by this note.
+3. Aristotle's closing qualification in Socrates' favour is now
+included: the position Socrates sought to establish actually seems
+to result, because incontinence does not arise in the presence of
+what is thought to be knowledge proper, but of perceptual
+knowledge.
+4. The process-narration sentence ("The boundary belongs in the page,
+not in a footnote") is removed; the substantive boundary (akrasia
+is broader than procrastination, and reading the debate onto delay
+is the page's own connection) is stated directly.
+
+Primary-source upgrade (the structural repair):
+
+The Socrates carrier is now the Protagoras itself, in the Jowett
+translation, Standard Ebooks edition:
+https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/protagoras
+The page was fetched this session and the two quoted passages were
+verified verbatim against the fetched full text: the "Then, I said,
+if the pleasant is the good, nobody does anything under the idea or
+conviction that some other thing would be better and is also
+attainable, when he might do the better" passage, and the "Then, I
+said, no man voluntarily pursues evil, or that which he thinks to be
+evil" passage. The Standard Ebooks page did not display stephanus
+numbers in the fetched text; the passages sit in the dialogue's
+climactic hedonic argument, which the SEP entry locates at Protagoras
+358b-c. The owner's library in docs/PRIMARY-SOURCES.md holds no
+Plato text, so this is a citable web edition fallback, noted here.
+
+The Aristotle carrier remains the Ross translation of NE VII from
+the MIT Classics Archive, opened fresh this session (rev 6 note,
+above, still applies).
+
+The SEP "Weakness of Will" page was opened fresh this session and is
+retained in this ledger as the secondary reference that located the
+dialogue passage; it is not quoted in the dossier.
+
+Checker after rev 6.1: exit 0 (35 card links resolve, 14 headers, 7
+external carrier link occurrences across 5 distinct URLs).
+
+The advisor's completion-block note: the Socrates–Aristotle section
+is now a defensible philosophical disagreement carried on primary
+sources, but this does not by itself clear any requirement for the
+current dossier format's count of disagreements or cross-tradition
+requirements; the supervisor's decision on the divergence
+requirement and the bounded-comparison review remain outstanding.
