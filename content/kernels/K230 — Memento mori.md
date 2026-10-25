@@ -5,7 +5,7 @@ type: "kernel"
 title: "Memento mori"
 file: "K230 — Memento mori"
 tags: ["applied-practice", "topic/meaning"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.10 — 10. Meaning and Existential Orientation", "parent": ""}
 ---
 > **Kernel K230** — Memento mori
@@ -38,7 +38,7 @@ What this evidence does not test: the skull on the desk. In the trial, an interv
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

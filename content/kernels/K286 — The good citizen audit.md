@@ -5,7 +5,7 @@ type: "kernel"
 title: "The good citizen audit"
 file: "K286 — The good citizen audit"
 tags: ["applied-practice", "topic/ethics"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.05 — 5. Role Ethics and Duty", "parent": ""}
 ---
 > **Kernel K286** — The good citizen audit
@@ -44,7 +44,7 @@ What this evidence does not test: the cited research is an observational panel, 
 
 Not applicable: the practice is a monthly self-review, not a recording.
 
-> **Therapeutic approach: general**
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

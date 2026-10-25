@@ -910,9 +910,14 @@
  },
  "K230": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: Marcus Aurelius Meditations links + Stoics",
+    "Stoic"
+   ]
+  ]
  },
  "K231": {
   "mods": [
@@ -1345,9 +1350,14 @@
  },
  "K286": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: Marcus Aurelius Meditations X.6 happy-citizen passage quoted",
+    "Stoic"
+   ]
+  ]
  },
  "K287": {
   "mods": [
