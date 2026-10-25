@@ -473,3 +473,30 @@ OwzkEoUyr38 at the level available from this environment; the remaining gap
 before the owner's Phase 1 launch is the transcript re-read against the
 module's exact posture checkpoints (bot-wall risk noted) and the degrees-lane
 owner's coordination. NOT CLEARED by this entry alone.
+
+### Content re-read vs the module's checkpoints (same pass, 2026-10-25 ~23:59Z) — PASS with one caveat
+The watch page (description + transcript-derived instructions) was read
+successfully this pass (earlier sessions were bot-walled). Standing meditation
+segment (1:32-8:05) instructions vs the module's checkpoints:
+- Posture: weight released into the feet ("bottom of the feet" awareness,
+  handing an imaginary ball to gravity); knees as "kickstands", stopping just
+  before locking; arms embracing an imaginary ball in front of the heart
+  center; spine elongated ("a string extending from the bottom of the feet
+  through the crown of the head", "an antenna on top of the head"); gaze down
+  toward the floor about 10-15 feet ahead. MATCHES (knees softened, arms
+  hugging, spine upright).
+- Breathing: "breathe in" and release; energy-breath imagery; condensing the
+  imagined ball into the lower abdomen (dantian). MATCHES.
+- Stillness: "And in here, no corrections, absolute stillness." MATCHES.
+- CAVEAT: the transcript does NOT state the feet's distance apart (the
+  module's shoulder-width checkpoint is implied by the stance but not
+  explicit), and the classic jaw-relaxed/tongue-on-roof-of-mouth details from
+  the previous candidate are not taught. The module's checkpoint text should
+  be re-checked against these specifics by the lane owner before final
+  clearance; if the module requires those exact cues, they can be carried by
+  the module's own written instructions rather than the video.
+
+STATUS AFTER THIS PASS: OwzkEoUyr38 is verified on identity, access,
+duration, credentials (biography page) and content. Remaining before the
+owner's Phase 1 launch: the degrees-lane owner's coordination and the
+advisor's round-6 verification. Do NOT treat as cleared until those land.
