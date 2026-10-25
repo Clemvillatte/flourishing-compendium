@@ -1,8 +1,8 @@
 {
  "band": "deg-integrate",
  "kind": "shared",
- "holder": null,
- "phase": "awaiting-launch",
- "notes": "See TASKBOARD.md",
- "updated": "2026-10-25T07:15:30+00:00"
+ "holder": "worker-pplx-integrate-1",
+ "phase": "schema-migration-shipped",
+ "notes": "Owner-directive schema migration done and pushed (schemaVersion 2, degree-vs-practicum kind, legacy flag, Academy presentation: practica first, divider, seven new degrees with empty module lists, psych-101 bridge card to the Psychology Lab, legacy view behind the footer link; practicum content untouched, verified byte-identical by scripts/tests/test_academy_migration.py). Live cache-busted verification recorded in the QC log. routes.qa.cjs stale tab expectation corrected (pre-existing failure on origin/main; flagged to strategist). Next: splice module data for the seven new degrees as their owners deliver integration-ready patches; then per-degree technical-integration gates.",
+ "updated": "2026-10-25T08:30:00+00:00"
 }

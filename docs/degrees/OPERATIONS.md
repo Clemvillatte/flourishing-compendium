@@ -122,3 +122,26 @@ one more advisor call.
   (/tasks/26842b37), deg-verify-a (/tasks/8d42fbc4), deg-integrate
   (/tasks/baeddc4e). Full UUIDs in the QC archive; prompts identical to
   LAUNCH-ROUND-1.md with the owner token supplied at launch only.
+- 2026-10-25 worker-pplx-integrate-1 (deg-integrate), SCHEMA MIGRATION
+  SHIPPED: fcAcademyData safe-spliced to schemaVersion 2 per owner
+  directives (raw_decode boundaries; sources, modules, topicMappings and the
+  gallery block byte-identical to pre-edit, checked by the new
+  scripts/tests/test_academy_migration.py). Degrees carry kind
+  degree|practicum; legacy flag on the seven superseded programs.
+  Presentation: Academy home lists the practica first (qigong, cmp, and the
+  psychology-101 bridge card, which links straight to the Psychology Lab
+  site at the URL carried by source PSY-101), then a labelled divider, then
+  the seven new degrees with EMPTY module lists marked in development (no
+  module data fabricated; degree owners deliver). Legacy degrees reachable
+  behind a Legacy degrees link in the Academy footer (#view=legacy
+  deep-linkable). Practicum content untouched. Tests green: python
+  unittest discover (69 tests incl. the migration suite), node randomizer
+  (9 pass), node --check, playwright routes.qa.cjs ALL PASS desktop and
+  375px with zero console errors. Live verification: pending Pages deploy
+  at report time (cache-busted fetch to be recorded; Pages lags under
+  push churn). Flag to strategist: routes.qa.cjs carried a stale
+  tab-round-trip expectation that was already failing on origin/main
+  before this migration; corrected to the documented 2026-10-25 tab
+  behaviour, noted in the script. Flag to deg-arch: the kind/legacy
+  vocabulary and the in-development status value are now live in the
+  schema; please ratify in the schema vocabulary docs.

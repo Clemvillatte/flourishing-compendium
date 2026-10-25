@@ -77,6 +77,17 @@ reference, unique source ids in brackets):
   still needed for the resource-verification gate. Advisor pilot review
   next. Scope benchmarking against opened authoritative curricula in
   progress this session.
+- 2026-10-25 worker-pplx-integrate-1 (deg-integrate): schema migration shipped
+  per the owner directives (commit d34175854). fcAcademyData is schemaVersion
+  2: kind degree|practicum on every program, legacy flag on the seven
+  superseded ones; the Academy home lists the practica first (qigong, cmp,
+  psych-101 bridge card linking straight to the Psychology Lab), then a
+  divider, then the seven new degrees with empty module lists (no fabricated
+  data; degree owners deliver). Legacy degrees reachable behind the footer
+  link at #view=legacy. Practicum content untouched (byte-identical check in
+  scripts/tests/test_academy_migration.py). Flag for strategist: routes.qa.cjs
+  carried a stale tab-round-trip expectation that was already failing on
+  origin/main; corrected to the documented 2026-10-25 tab behaviour.
 - 2026-10-25 worker-pplx-psychdim-1: deg-psychdim milestone 1 delivered: ledger
   created (11 opened free sources, coverage matrix v1, gap register), scope doc
   benchmarked against opened anchors and dimension count corrected to six;
