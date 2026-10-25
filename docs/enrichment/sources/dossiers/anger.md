@@ -251,3 +251,43 @@ matching. Note: the Gutenberg text carries an inline footnote marker
 ({50}) inside the I.II sentence; the dossier's quotation elides the
 marker, standard practice for footnote numbers, wording otherwise
 exact.
+
+## Voice-audit candidate review (2026-10-25, supervisor-pplx-1024c)
+
+Reviewed all six candidates from the 2026-10-24 inventory against the
+current file. All six RECAST as direct statements; the distinctions
+each line carried are preserved, the "not X, but Y" / "rather than"
+scaffolds are gone. No candidate was deleted outright.
+
+- Line 11 (Seneca definition): the gloss now reads "anger is the mad
+  rush that follows the first confusion at an apparent injury, treating
+  the appearance as true and moving to revenge." The two-stage
+  distinction is Seneca's own (De Ira II.III: the first confusion is
+  "no more anger than the apparent injury itself"); stating the rush as
+  what FOLLOWS the confusion keeps the distinction without the negation
+  scaffold.
+- Line 51 (anger management): recast to two positive statements —
+  treats anger "as its own target; related approaches treat the anger
+  as a symptom of something else." Same contrast, each side stated
+  directly.
+- Line 127 (Variation, "the debt released rather than collected"):
+  now "the debt released"; the uncollected alternative is carried by
+  the word "debt" itself.
+- Line 151 (Empty Boat): "The fuel is the story of a responsible
+  offender." The event was already described in the preceding
+  sentence; the negation added nothing.
+- Line 155 (Aristotle's gentle person): kept "praised for being angry
+  at the right things, with the right people, for the right duration;
+  the vice is the emotion's bad aim." The mean IS the positive
+  content; "not for never being angry" and ", not the emotion" were
+  scaffold around it.
+- Line 169 (Mandela): "the new country built on recognition." The
+  logline's surprise (warders as honoured guests) carries the
+  renounced-revenge point; the explicit contrast was editorial.
+
+Checks: dossier_check.py exit 0 (54 card links, 20 headers, 3
+external carriers); registry rebuilt (91 blocks), node --check OK.
+Editorial review only; no carriers or cards freshly opened this
+pass; the Seneca wording relies on the 2026-10-24 spot-check
+addendum above (raw Gutenberg text). Scope: candidate-line review;
+this is not a whole-manuscript re-read.

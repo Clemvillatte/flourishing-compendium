@@ -8,7 +8,7 @@ Anger arrives with its defence already written: someone did wrong, and the wrong
 
 ### What anger is taken to be
 
-[Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): Seneca's definition in De Ira: not the first stirring at an apparent injury, but the subsequent mad rush that treats the appearance as true and moves to revenge.
+[Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): Seneca's definition in De Ira: anger is the mad rush that follows the first confusion at an apparent injury, treating the appearance as true and moving to revenge.
 
 [Righteous anger vs wrath](https://clemvillatte.github.io/flourishing-compendium/#card=Righteous%20anger%20vs%20wrath): the contrast between anger that fits its object and anger that is excessive, prolonged or vengeful.
 
@@ -48,7 +48,7 @@ Shantideva treats hatred in the sixth chapter of the Bodhicharyavatara as what d
 
 ### What can be done with anger
 
-[Anger management](https://clemvillatte.github.io/flourishing-compendium/#card=Anger%20management): the clinical field that treats problematic anger as its own target rather than as a symptom of something else.
+[Anger management](https://clemvillatte.github.io/flourishing-compendium/#card=Anger%20management): the clinical field that treats problematic anger as its own target; related approaches treat the anger as a symptom of something else.
 
 [Anger reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Anger%20reappraisal): applying cognitive reappraisal to situations that elicit anger; Gross describes reappraisal as cognitive change directed at a situation's meaning.
 
@@ -124,7 +124,7 @@ Seneca's treatise denies the fitting case: anger is by definition the mind's rus
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released rather than collected.
+::Variation:: What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
@@ -148,11 +148,11 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### What anger is taken to be
 
-[ST004 — The Empty Boat](https://clemvillatte.github.io/flourishing-compendium/#card=ST004%20%E2%80%94%20The%20Empty%20Boat): an empty boat drifts into yours and you do not shout; the same collision with a person in it fills the river with curses. The fuel is not the event but the story of a responsible offender.
+[ST004 — The Empty Boat](https://clemvillatte.github.io/flourishing-compendium/#card=ST004%20%E2%80%94%20The%20Empty%20Boat): an empty boat drifts into yours and you do not shout; the same collision with a person in it fills the river with curses. The fuel is the story of a responsible offender.
 
 [ST160 — Medea Knows](https://clemvillatte.github.io/flourishing-compendium/#card=ST160%20%E2%80%94%20Medea%20Knows): Medea knows what evil she is about to do, sees it clearly and does it; passion stronger than deliberation, the portrait of weakness of will that Aristotle could not solve.
 
-[ST185 — The Gentle Person's Anger](https://clemvillatte.github.io/flourishing-compendium/#card=ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): Aristotle's gentle-tempered person is praised not for never being angry but for being angry at the right things, with the right people, for the right duration; the vice is the emotion's bad aim, not the emotion.
+[ST185 — The Gentle Person's Anger](https://clemvillatte.github.io/flourishing-compendium/#card=ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): Aristotle's gentle-tempered person is praised for being angry at the right things, with the right people, for the right duration; the vice is the emotion's bad aim.
 
 ### The rush to verdict
 
@@ -166,7 +166,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): after the change, the villagers of Savatthi throw clods, stones and potsherds at the former killer, and the Buddha tells him to bear it; the intention has ended and the consequences have not.
 
-[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition rather than revenge.
+[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition.
 
 ### Forgiveness and its limits
 

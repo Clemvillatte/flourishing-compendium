@@ -4542,7 +4542,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on anger"
+          "x": "The map: the entries on anger"
         },
         {
           "t": "h2",
@@ -4550,7 +4550,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anger](card:Anger): Seneca's definition in De Ira: not the first stirring at an apparent injury, but the subsequent mad rush that treats the appearance as true and moves to revenge."
+          "x": "[Anger](card:Anger): Seneca's definition in De Ira: anger is the mad rush that follows the first confusion at an apparent injury, treating the appearance as true and moving to revenge."
         },
         {
           "t": "p",
@@ -4570,7 +4570,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve.\" ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt)): Primary text; quoted passages checked.",
+          "x": "\"Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve.\" ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt))",
           "s": null
         },
         {
@@ -4579,7 +4579,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame.\" (Seneca, De Ira I.II): Primary text; quoted passages checked.",
+          "x": "\"no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame.\" (Seneca, De Ira I.II)",
           "s": null
         },
         {
@@ -4624,7 +4624,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger.\" ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf)): Primary text; quoted passages checked.",
+          "x": "\"Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger.\" ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf))",
           "s": null
         },
         {
@@ -4633,7 +4633,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anger management](card:Anger%20management): the clinical field that treats problematic anger as its own target rather than as a symptom of something else."
+          "x": "[Anger management](card:Anger%20management): the clinical field that treats problematic anger as its own target; related approaches treat the anger as a symptom of something else."
         },
         {
           "t": "p",
@@ -4649,7 +4649,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end.\" (Seneca, De Ira II.XXIX): Primary text; quoted passages checked.",
+          "x": "\"The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end.\" (Seneca, De Ira II.XXIX)",
           "s": null
         },
         {
@@ -4702,7 +4702,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Gentleness as virtue](card:Gentleness%20as%20virtue): the compendium's label for Aristotle's treatment of the mean concerned with anger in the Nicomachean Ethics."
+          "x": "[Gentleness as virtue](card:Gentleness%20as%20virtue): the label I use for Aristotle's treatment of the mean concerned with anger in the Nicomachean Ethics."
         },
         {
           "t": "p",
@@ -4738,7 +4738,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium holds anger in narrative form too:"
+          "x": "The theme comes in narrative form too:"
         },
         {
           "t": "p",
@@ -4774,7 +4774,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised.\" ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)): Primary text; quoted passages checked.",
+          "x": "\"The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised.\" ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))",
           "s": null
         },
         {
@@ -4788,12 +4788,12 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released rather than collected."
+          "x": "What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released."
         },
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -4836,7 +4836,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -4844,7 +4844,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST004 — The Empty Boat](card:ST004%20%E2%80%94%20The%20Empty%20Boat): an empty boat drifts into yours and you do not shout; the same collision with a person in it fills the river with curses. The fuel is not the event but the story of a responsible offender."
+          "x": "[ST004 — The Empty Boat](card:ST004%20%E2%80%94%20The%20Empty%20Boat): an empty boat drifts into yours and you do not shout; the same collision with a person in it fills the river with curses. The fuel is the story of a responsible offender."
         },
         {
           "t": "p",
@@ -4852,7 +4852,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST185 — The Gentle Person's Anger](card:ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): Aristotle's gentle-tempered person is praised not for never being angry but for being angry at the right things, with the right people, for the right duration; the vice is the emotion's bad aim, not the emotion."
+          "x": "[ST185 — The Gentle Person's Anger](card:ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): Aristotle's gentle-tempered person is praised for being angry at the right things, with the right people, for the right duration; the vice is the emotion's bad aim."
         },
         {
           "t": "h2",
@@ -4880,7 +4880,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST226 — Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition rather than revenge."
+          "x": "[ST226 — Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition."
         },
         {
           "t": "h2",
