@@ -6,7 +6,7 @@ Frustration is what a blocked path feels like from inside. The goal is set, the 
 
 The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress.
 
-The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. The contemplative traditions ask whether the feeling is ever useful at all: Shantideva's patience chapter poses the question directly, asking what use the dejection is whether or not the trouble has a remedy.
+The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. Shantideva's patience chapter asks a different question: what use the dejection is whether or not the trouble has a remedy.
 
 ## Nearby terms
 
@@ -25,7 +25,7 @@ Seneca's line is about how anger develops, not a definition of frustration, and 
 
 ### What frustration is taken to be
 
-[Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the 1939 formulation that began the modern study: aggression as a consequence of frustration, frustration as an obstacle blocking an expected gratification.
+[Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the 1939 formulation: aggression as a consequence of frustration, frustration as interference with a goal-response.
 
 [Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory): Carver and Scheier's loop, where a second loop watches the rate of progress and yields affect as its error signal: on this view, feeling bad is a reading on the pace.
 
@@ -55,7 +55,7 @@ Schopenhauer's line on desire, from the encyclopedia entry on him:
 
 [Social embeddedness](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20embeddedness): the belongingness drive, which the review behind the card treats as a need rather than a preference for company.
 
-[Noogenic neurosis](https://clemvillatte.github.io/flourishing-compendium/#card=Noogenic%20neurosis): Frankl's existential frustration, the will to meaning with nowhere to put itself: a blockage at the level of purpose, which he insisted is misdiagnosed when read as a drive conflict.
+[Noogenic neurosis](https://clemvillatte.github.io/flourishing-compendium/#card=Noogenic%20neurosis): Frankl's discussion of noogenic neuroses as conflicts concerning values rather than drives; existential frustration is his name for a will to meaning that can be frustrated.
 
 [Novelty seeking without commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Novelty%20seeking%20without%20commitment): the temperament pattern where persistence, the dimension Cloninger's model defines as the tendency to persevere despite frustration and fatigue, is the one missing: many starts, few finishes.
 
@@ -65,7 +65,7 @@ The accounts also map where the pressure goes.
 
 [Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the original exit: aggression, revised by Berkowitz into inclinations rather than acts, with the reformulation quoted in the section below.
 
-[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure: on the theory, strain generates negative emotions that press for corrective action.
+[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure.
 
 [Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): the neighbouring state, held in its own dossier, with the Seneca line drawn in Nearby terms above.
 
@@ -85,7 +85,7 @@ That list joins the two failure modes this theme keeps meeting: the hostile exit
 
 ### The classical answers
 
-[Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's diagnosis, where evil is every kind of pain, especially the pain that frustrates our longings: the grievance read as blocked striving, and examined as such.
+[Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's protocol, in the card's title: read the anger as blocked striving with a wounded self-regard.
 
 [Dissect anger when it arises](https://clemvillatte.github.io/flourishing-compendium/#card=B105%20%E2%80%94%20Dissect%20anger%20when%20it%20arises): Shantideva's usefulness question from the patience chapter: if a problem has a remedy, what use is the dejection; if there is no remedy, what use is the dejection.
 
