@@ -50,3 +50,18 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos11 baton)
+
+Reviewed all 3 candidates against the current file (fresh audit run).
+No scaffolds removed; all 3 flagged constructions state the sources'
+actual claims: line 5 (the suffering comes not from the not knowing
+but from the demand that it stop — the second-arrow framing the
+dossier's traditions and the intolerance-of-uncertainty literature
+share; the construction is the thesis, not decoration), 29
+(equanimity's standard definition: neither grasping the pleasant nor
+pushing away the unpleasant), 79 (generalized trust: strangers and
+most people rather than known others — the construct's definition).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
