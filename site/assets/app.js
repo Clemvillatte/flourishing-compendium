@@ -13486,19 +13486,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; my card is [Right action](card:Right%20action), and nothing is split between the names."
+          "x": "Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; the [card](card:Right%20action) sits under one of them."
         },
         {
           "t": "p",
-          "x": "Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to the Right Intention page; right action holds the bodily restraints that resolve issues in."
+          "x": "Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to Right Intention; right action holds the bodily restraints that resolve issues in."
         },
         {
           "t": "p",
-          "x": "Behaviour: the general science of habit formation stays there; right action holds the path's ethical restraints on bodily conduct."
+          "x": "Behaviour: the general science of habit formation; right action holds the path's ethical restraints on bodily conduct."
         },
         {
           "t": "p",
-          "x": "Right speech and right livelihood: the neighbouring conduct factors, each with its own page and dossier."
+          "x": "Right speech and right livelihood: the neighbouring conduct factors on either side of this one."
         },
         {
           "t": "p",
@@ -13519,11 +13519,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Right action](card:Right%20action) is the fourth factor of the [Eightfold Path](card:Eightfold%20Path), and [the three trainings](card:The%20three%20trainings) group it under the ethics training, with wisdom and concentration as the other two. The conduct factors sit together on the path — speech first, then action, then livelihood — and each has its own page and dossier."
+          "x": "[Right action](card:Right%20action) is the fourth factor of the [Eightfold Path](card:Eightfold%20Path), and [the three trainings](card:The%20three%20trainings) group it under the ethics training, with wisdom and concentration as the other two. The path lists the conduct factors in order: speech, then action, then livelihood."
         },
         {
           "t": "p",
-          "x": "[Action over intention](card:Action%20over%20intention) is my label for this factor, marking where the path moves from resolve to conduct. The resolves were trained first, and here they have to show up in what the hands do, which is where most intentions meet their test."
+          "x": "[Action over intention](card:Action%20over%20intention) is my label for this factor, marking where the path moves from resolve to conduct. Here the resolve has to show up in what the hands do, which is where most intentions meet their test."
         },
         {
           "t": "p",
@@ -13545,7 +13545,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "So the factor is a floor with practices above it: abstain from three things, cultivate compassion, honesty, contentment, generosity and fidelity. [Spontaneous right action](card:Spontaneous%20right%20action) — Wang Yangming's doctrine that knowing the good already issues in acting — waits with the question of whether knowledge can fail to act."
+          "x": "So the factor is a floor with practices above it: abstain from three things, cultivate compassion, honesty, contentment, generosity and fidelity. [Spontaneous right action](card:Spontaneous%20right%20action), Wang Yangming's doctrine that knowing the good already issues in acting, waits with the question of whether knowledge can fail to act."
         },
         {
           "t": "h",
@@ -13553,7 +13553,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The first abstention is taking life. [Ahimsa](card:Ahimsa) is the Indic principle of non-harm; I read it as the starting floor of this factor: whatever else a practice does, it begins by doing no injury. The counterpart Bodhi names first is [compassion](card:Compassion), being moved by suffering and motivated to act, and [courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) is the courage the counterparts can demand, acting for the sake of something despite fear."
+          "x": "The first abstention is taking life. [Ahimsa](card:Ahimsa) is the Indic principle of non-harm; I read it as the starting floor of this factor: whatever else a practice does, it begins by doing no injury. The counterpart Bodhi names first is [compassion](card:Compassion), being moved by suffering and motivated to act, and [courage as action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) is the courage the counterparts can demand, acting for the sake of something despite fear."
         },
         {
           "t": "p",
@@ -13561,7 +13561,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Two neighbouring claims about harm answer questions of their own rather than this one. [Harm principle](card:Harm%20principle) is Mill's principle for when society may coerce an adult, the boundary question of harm done to others; [judgment adds the harm](card:Judgment%20adds%20the%20harm) is the Stoic claim that events do not disturb people, the opinions about the events do — a claim about disturbance rather than harm done. The question this restraint raises is whether the floor is absolute: whether taking life can ever be right action. The Christian tradition answers differently — [conduct even in just war](card:Conduct%20even%20in%20just%20war) is Aquinas's three requirements for a just war, with the warning that a war can meet two of them and still be rendered unlawful through a wicked intention — and that exchange is the first genuine disagreement below."
+          "x": "Two neighbouring claims about harm answer questions of their own rather than this one. [Harm principle](card:Harm%20principle) is Mill's principle for when society may coerce an adult, the boundary question of harm done to others; [judgment adds the harm](card:Judgment%20adds%20the%20harm) is the Stoic claim that events do not disturb people, the opinions about the events do, a claim about disturbance rather than harm done. The question this restraint raises is whether the floor is absolute: whether taking life can ever be right action. [Aquinas](card:Conduct%20even%20in%20just%20war) answers differently: his three requirements for a just war, with the warning that a war can meet two of them and still be rendered unlawful through a wicked intention. That exchange is the first genuine disagreement below."
         },
         {
           "t": "h",
@@ -13578,7 +13578,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Generosity](card:Generosity) is Aristotle's liberality, the mean with regard to wealth, concerned especially with giving; [truthfulness](card:Truthfulness) is his account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake. The research on truth-telling that hurts — [prosocial honesty research](card:Prosocial%20honesty%20research) — is about honesty in speech rather than conduct of the hands, and belongs with the speech factor's honesty question."
+          "x": "[Generosity](card:Generosity) is Aristotle's liberality, the mean with regard to wealth, concerned especially with giving; [truthfulness](card:Truthfulness) is his account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake. The research on truth-telling that hurts, [prosocial honesty research](card:Prosocial%20honesty%20research), is about honesty in speech rather than conduct of the hands, and belongs with the speech factor's honesty question."
         },
         {
           "t": "h",
@@ -13594,7 +13594,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The restraints state what not to do; the training question is how a person comes to do them. The traditions answer with rules, with character, and with situations, and they do not agree about which does the work."
+          "x": "The rule answer, the situation answer and the character answer ask different questions. A rule tells a person what to do; a situation tells a person where the doing happens; the character answer asks who is doing it."
         },
         {
           "t": "h2",
@@ -13606,11 +13606,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The character answer instead asks what kind of person is doing the acting, and it starts from a puzzle: some people seem good from birth. [Natural virtue](card:Natural%20virtue) is Aristotle's name for those dispositions, set against virtue in the strict sense where the difference is practical wisdom. [The catalogue of virtues](card:The%20catalogue%20of%20virtues) is Aristotle's table of the character virtues as means between vices of excess and deficiency; [cardinal virtues](card:Cardinal%20virtues) are the four hinge virtues — prudence, justice, fortitude and temperance — on which the classical tradition says the whole of moral life turns."
+          "x": "The character answer instead asks what kind of person is doing the acting, and it starts from a puzzle: some people seem good from birth. [Natural virtue](card:Natural%20virtue) is Aristotle's name for those dispositions, set against virtue in the strict sense where the difference is practical wisdom."
         },
         {
           "t": "p",
-          "x": "[Virtue ethics](card:Virtue%20ethics) is the normative approach that puts character first, contrasted with deontology and consequentialism; [the unity of the virtues](card:The%20unity%20of%20the%20virtues) is the thesis, argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents."
+          "x": "For those without the natural start, the tradition tables the character virtues. [Virtue ethics](card:Virtue%20ethics) is the approach that puts character first, contrasted with the duty-based and consequence-based approaches; [the catalogue of virtues](card:The%20catalogue%20of%20virtues) is Aristotle's table of the character virtues as means between vices of excess and deficiency; [cardinal virtues](card:Cardinal%20virtues) are the four hinge virtues, prudence, justice, fortitude and temperance, on which the classical tradition says the whole of moral life turns."
+        },
+        {
+          "t": "p",
+          "x": "A further thesis runs through the table: the virtues are not separate talents. [The unity of the virtues](card:The%20unity%20of%20the%20virtues), argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, says they come together."
         },
         {
           "t": "h2",
@@ -13631,11 +13635,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Moral cultivation (xiushen)](card:Moral%20cultivation%20%28xiushen%29) is the Confucian practice of building moral character; the term literally reads as body-fixing. [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is effortlessness in action as the far end of long effort, skill matured until the act stops feeling like an act."
+          "x": "Confucian practice names a related work with the body in it: [moral cultivation (xiushen)](card:Moral%20cultivation%20%28xiushen%29) is the practice of building moral character, and the term's characters read as body-fixing. [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is effortlessness in action as the far end of long effort, skill matured until the act stops feeling like an act."
         },
         {
           "t": "p",
-          "x": "[Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29) is the DBT skill of acting against the action urge that comes with an emotion; [action commitment](card:Action%20commitment) is ACT's committed action, one act consistent with a chosen value, however small. Both give an instruction for the next act rather than a theory of the person. [Self-constitution through action](card:Self-constitution%20through%20action) is Kierkegaard's Judge Vilhelm: choosing shapes personality, and a life that keeps choice at arm's length loses definition."
+          "x": "[Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29) is the DBT skill of acting against the action urge that comes with an emotion; [action commitment](card:Action%20commitment) is ACT's committed action, one act consistent with a chosen value, however small. Both focus on what to do next. [Self-constitution through action](card:Self-constitution%20through%20action) is Kierkegaard's Judge Vilhelm: choosing shapes personality, and a life that keeps choice at arm's length loses definition."
         },
         {
           "t": "p",
@@ -13647,11 +13651,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The moral situation](card:The%20moral%20situation) is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self. [Moral situation research](card:Moral%20situation%20research) is the situationist literature behind the claim that context dominates in real moral choice: Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings. If situations do that much of the work, the training is not only inward."
+          "x": "[The moral situation](card:The%20moral%20situation) is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self."
         },
         {
           "t": "p",
-          "x": "The training can also be arranged rather than willed. [Designing for virtue](card:Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](card:Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](card:Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29 — the Commandments, non-injury, truthfulness, abstention from stealing — placed before the Rules, conduct as the foundation of practice."
+          "x": "The situationist literature gathers cases that fit Dewey's placement: [moral situation research](card:Moral%20situation%20research) names Doris's Lack of Character, the hurrying seminarians and Milgram's obedience findings. The studies' own scope matters: they are findings about specific designs, not a settled claim that settings outweigh persons everywhere."
+        },
+        {
+          "t": "p",
+          "x": "Those findings, read with their scope, raise the question the design entries take up: if a setting shapes conduct, can the setting be arranged. [Designing for virtue](card:Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](card:Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](card:Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29, the Commandments of non-injury, truthfulness and abstention from stealing, placed before the Rules, conduct as the foundation of practice."
         },
         {
           "t": "h2",
@@ -13659,7 +13667,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Kohlberg's theory of moral development](card:Kohlberg%27s%20theory%20of%20moral%20development) and [moral development research](card:Moral%20development%20research) are the research tradition on how moral reasoning develops, from stage theory to the intuition approaches that followed; the tradition measures whether reasoning leads conduct, not only what conduct is right."
+          "x": "[Kohlberg's theory of moral development](card:Kohlberg%27s%20theory%20of%20moral%20development) and [moral development research](card:Moral%20development%20research) are the research tradition on how moral reasoning develops, from stage theory to the intuition approaches that followed."
         },
         {
           "t": "p",
@@ -13675,11 +13683,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Role ethics](card:Role%20ethics) makes the relation constitutive: on its family of views, a person's roles and relationships are central to what is morally required and to who the person is; [Confucian role ethics](card:Confucian%20role%20ethics) is the Confucian branch of that family."
+          "x": "[Role ethics](card:Role%20ethics) makes the relation constitutive: on its family of views, a person's roles and relationships are central to what is morally required and to who the person is. [Confucian role ethics](card:Confucian%20role%20ethics) is the Confucian branch of that family."
         },
         {
           "t": "p",
-          "x": "[The call of conscience](card:The%20call%20of%20conscience) and [conscience (Gewissen)](card:Conscience%20%28Gewissen%29) are Heidegger's account of Dasein summoned out of its lostness in the \"they\": conscience as the call."
+          "x": "[The call of conscience](card:The%20call%20of%20conscience) and [conscience (Gewissen)](card:Conscience%20%28Gewissen%29) are Heidegger's account of Dasein summoned out of its lostness in the \"they\"."
         },
         {
           "t": "h",
@@ -13700,7 +13708,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Christian tradition codifies the other answer, that taking up the sword of war can be lawful conduct. Aquinas asks whether it is always sinful to wage war, and the reply opens by giving what makes a war just:"
+          "x": "The other side is named: for [Aquinas](card:Conduct%20even%20in%20just%20war), taking up the sword of war can be lawful conduct. He asks whether it is always sinful to wage war, and his reply opens by giving what makes a war just:"
         },
         {
           "t": "q",
@@ -13794,7 +13802,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[K250 — Virtue rehearsal](card:K250%20%E2%80%94%20Virtue%20rehearsal): pick one virtue and practise it in small daily acts that get written down, drawing on Aristotle's habituation teaching and Franklin's chart; hold the focus on that one virtue for a week or a month, then move to the next and come round again. On a day of failure, mark the fault plainly — Franklin's black spot — and notice where the spots cluster across the rotation."
+          "x": "[K250 — Virtue rehearsal](card:K250%20%E2%80%94%20Virtue%20rehearsal): pick one virtue and practise it in small daily acts that get written down, drawing on Aristotle's habituation teaching and Franklin's chart; hold the focus on that one virtue for a week or a month, then move to the next and come round again. On a day of failure, mark the fault plainly, Franklin's black spot, and notice where the spots cluster across the rotation."
         },
         {
           "t": "n",
@@ -13804,7 +13812,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 3,
-          "x": "[K263 — Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, the four questions in writing — the intention, what actually happened, where the gap between them came from, what to do differently — and end with one concrete amendment for the next similar action. Notice whether the review changes anything; a review that changes nothing is a diary entry."
+          "x": "[K263 — Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, write the four questions: the intention, what actually happened, where the gap between them came from, what to do differently. Notice whether the review changes anything; a review that changes nothing is a diary entry. End with one concrete amendment for the next similar action."
         },
         {
           "t": "n",
@@ -13814,7 +13822,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 5,
-          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized — sadness says withdraw, reach out; anger says attack, step back — and stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people over six sessions, and it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design."
+          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, so reach out; anger says attack, so step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, and it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design."
         },
         {
           "t": "n",
@@ -13824,12 +13832,12 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 7,
-          "x": "[K290 — Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): choose a weekly slot in advance; during the week, write down one situation where you saw unfairness and stayed silent, then act on it or its next occurrence — the talked-over colleague named in the meeting, the one-line disagreement with the biased joke, the safety concern reported. Afterwards note what you did, what it cost and what it accomplished; acts that misfired get adjusted, not abandoned. The drill schedules the act against the presence of other people, the setting where bystander research finds silence spreads."
+          "x": "[K290 — Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): choose a weekly slot in advance; during the week, write down one situation where you saw unfairness and stayed silent, then act on it or its next occurrence: the talked-over colleague named in the meeting, the one-line disagreement with the biased joke, the safety concern reported. Afterwards note what you did, what it cost and what it accomplished; acts that misfired get adjusted, not abandoned."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[K216 — Nonviolent communication](card:K216%20%E2%80%94%20Nonviolent%20communication): before the hard conversation, write the four steps out for yourself — what happened without evaluation, what you feel, what you need, what you request — then speak them in order and slowly; the request is askable and refusable. When attacked, run the same steps on the attacker's words, and notice whether the exchange keeps a shared language rather than turning into a counterattack."
+          "x": "[K216 — Nonviolent communication](card:K216%20%E2%80%94%20Nonviolent%20communication): before the hard conversation, write the four steps out for yourself: what happened without evaluation, what you feel, what you need, what you request. Speak them in order and slowly; the request is askable and refusable. When attacked, run the same steps on the attacker's words."
         },
         {
           "t": "vs",
@@ -13842,7 +13850,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "Conduct shows its shape after the choice is made: a stopped harm, a discovered harm, a taking with its cost, a rule that holds in one setting and fails in another."
         },
         {
           "t": "h2",
@@ -13858,7 +13866,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST087 — Schindler's List](card:ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the card's own reading is that the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along."
+          "x": "[ST087 — Schindler's List](card:ST087%20%E2%80%94%20Schindler%27s%20List): Oskar Schindler arrives in Kraków hiring Jewish workers because they are cheap, and ends with his entire fortune spent buying lives; surrounded by the people he saved, he breaks down over this watch, this car, this could-have-been-more."
         },
         {
           "t": "h2",
@@ -13866,7 +13874,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST295 — Prometheus Steals](card:ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the card reads the theft as the creative act and the punishment as its permanent cost, an editorial juxtaposition with this factor's second restraint rather than the myth's own framing."
+          "x": "[ST295 — Prometheus Steals](card:ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock in the Caucasus with an eagle eating his liver daily, the liver regrowing nightly, forever."
         },
         {
           "t": "h2",
@@ -13874,7 +13882,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST384 — The Tree Is Spared; the Goose Is Killed](card:ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble. The card reads this as a warning that a rule which protects in one setting may fail in another."
+          "x": "[ST384 — The Tree Is Spared; the Goose Is Killed](card:ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble."
         }
       ],
       "group": "eightfold-path",
