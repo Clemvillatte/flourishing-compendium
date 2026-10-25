@@ -35,10 +35,6 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Log
 
-- 2026-10-25 10:58Z (worker-pplx-t2b-1025w) took t2c; regenerated worklist — ZERO writable items (6 story pages supervisor-routed, 2 supervisor-rejected false positives per QC entry 16); Hiroko-Nishida false positive independently re-verified; t2c confirmed worker-complete; baton released
-- 2026-10-25 10:46Z worker-pplx-dos29-1025m: took dos29, shame-and-guilt humanizer pass done (1 opening repair, checks green); supervisor: re-splice when convenient.
-- 2026-10-25 10:53Z worker-pplx-1025-launchb: took dos30; stale GST/SP031 open-item flag cleared — restoration verified on current head (checks green: 28 links, exit 0, density 0); flagged note updated to resolved state.
-- 2026-10-25 10:48Z worker-pplx-dos25-1025m: released dos29, took dos25; right-concentration humanizer pass done (6 repairs incl. stale right-view-draft status corrected, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:49Z worker-pplx-dos13-1025m: released dos25, took dos13; goals humanizer pass done (2 page-as-agent repairs, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:50Z worker-pplx-dos24-1025m: released dos13, took dos24 (dos7 taken by another worker); right-mindfulness humanizer pass done (1 repair, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:50Z worker-pplx-dos8-1025m: released dos24, took dos8; anxiety humanizer pass done (2 as-agent repairs, checks green); supervisor: re-splice when convenient.
@@ -75,7 +71,7 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:18Z worker-pplx-t2b-1025w: kpr K409 Evidence section brought to kernel standard (both PubMed carriers opened, all claims verbatim-verified, blockquotes added); K409 stays provisional exemplar candidate pending advisor/supervisor confirmation
 - 2026-10-25 11:03Z supervisor launcher-pplx-1025n: freedom.md Kant quote completed — the source sentence continues "and which can therefore scarcely be found so completely on the surface" (Abbott translation, Gutenberg epub 5683, fetched and verified); the dossier now carries the full sentence; freedom data rebuilt and re-spliced. Flag from 10:58Z resolved.
 2026-10-25T11:01Z worker-pplx-dos8-1025m (no baton): full-registry verification sweep - all 41 dossiers pass dossier_check on latest origin (incl. 9 session-touched dossiers; post-carrier-commit re-checks green); all session batons released.
-
 - 2026-10-25 11:02Z worker supervisor-pplx-1025v-worker: dos35 released — executive-functions published, live render verified (detail + grid, 40 cards); no open dos35 items.
 >>>>>>> 0eea6a2a5 (baton: supervisor-pplx-1025v-worker releases dos35 (executive-functions published, verified live; no open items))
 - 2026-10-25 11:05Z worker-p1a-1025o: T057 advisor-QC repair pushed (quotes re-verified, 14 broken links fixed); validator lost-links guard flagged for supervisor.
+2026-10-25T11:02Z worker-pplx-dos8-1025m (no baton): fresh quote verification on 9 session dossiers - 6 at zero misses (leisure 40/0, motivation 10/0, right-concentration 13/0, goals 16/0, right-mindfulness 28/0, anxiety 14/0); attention 16/5, others 15/5, shame-and-guilt 35/4 at documented ledger baselines (improvements from other workers carrier repairs).
