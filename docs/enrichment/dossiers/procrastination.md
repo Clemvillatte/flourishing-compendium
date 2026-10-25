@@ -90,6 +90,22 @@ Steel's meta-analysis of 691 correlations found the strong and consistent predic
 
 The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. I would ask which intervention to try first: changing what makes starting unpleasant, or changing the timing and attractiveness of the outcome.
 
+## Where the traditions genuinely disagree
+
+### Can someone know the better course and still delay?
+
+The classical question is whether a person can know the better course and act against it. Socrates, as reported in the Protagoras, denies it outright:
+
+> "No one, he declared, who either knows or believes that there is another possible course of action, better than the one he is following, will ever continue on his present course" ([Protagoras 358b-c, in SEP "Weakness of Will"](https://plato.stanford.edu/entries/weakness-will/))
+
+Aristotle objects that the denial cannot be squared with conduct anyone can watch, and then locates the failure in the difference between having knowledge and using it:
+
+> "Now this view plainly contradicts the observed facts, and we must inquire about what happens to such a man; if he acts by reason of ignorance, what is the manner of his ignorance?" ([Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))
+
+> "since we use the word 'know' in two senses (for both the man who has knowledge but is not using it and he who is using it are said to know), it will make a difference whether, when a man does what he should not, he has the knowledge but is not exercising it, or is exercising it" ([Nicomachean Ethics VII.3, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))
+
+The disagreement, carried on these passages, is not the classical stance versus the research stance: the two modern reviews examine delay without settling the philosophical question. The boundary belongs in the page, not in a footnote. Akrasia is broader than procrastination, and reading the debate onto delay is the page's own connection, not a finding of either review. Where the disagreement does bear, and where the corpus's own cards already carry it, is on what counts as the missing piece: the classical argument turns on what knowing amounts to at the moment of action, while the modern argument turns on predictors of delay that are properties of the valuation and the initiation, not of the knowledge. The [A057](https://clemvillatte.github.io/flourishing-compendium/#card=A057%20%E2%80%94%20Know%20that%20akrasia%20is%20not%20invincible) card carries the reformability claim, and the [Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom) card the Seneca counsel, both on the classical side of the gap.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, is a candidate target on the mood-repair account: the proposed chain is that self-blame feeds the mood being escaped, and the studies behind the self-compassion line are correlational, so the chain is a proposed mechanism, not a demonstrated one. The schedule-first framing rearranges time and, on the mood-repair account, leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits.

@@ -288,3 +288,61 @@ content review; the genuine-divergence requirement still blocks
 completion, done stays empty, and the next steps are named (supervisor
 review of the bounded comparison; decision on the divergence
 requirement; editorial polish).
+
+## Rev 6 — divergence section added (worker-pplx-dos33-1025d, 2026-10-25)
+
+Per the advisor's instruction this session, the divergence is the
+Socrates–Aristotle disagreement on whether someone who knows the
+better course can act against it, carried on two carriers opened fresh
+this session, and the section is titled "Where the traditions genuinely
+disagree".
+
+Carriers opened fresh this session (not inherited from earlier
+sessions' provenance):
+
+1. SEP "Weakness of Will" (Stroud and Svirsky),
+   https://plato.stanford.edu/entries/weakness-will/
+   The Protagoras 358b-c quote is verified verbatim against this page:
+   "No one, he declared, who either knows or believes that there is
+   another possible course of action, better than the one he is
+   following, will ever continue on his present course".
+2. Aristotle, Nicomachean Ethics Book VII, Ross translation, MIT
+   Classics Archive,
+   https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html
+   Two passages verified verbatim against this page: the Chapter 2
+   objection ("Now this view plainly contradicts the observed facts,
+   and we must inquire about what happens to such a man; if he acts by
+   reason of ignorance, what is the manner of his ignorance?"), and
+   the Chapter 3 having-versus-using knowledge distinction ("since we
+   use the word 'know' in two senses (for both the man who has
+   knowledge but is not using it and he who is using it are said to
+   know), it will make a difference whether, when a man does what he
+   should not, he has the knowledge but is not exercising it, or is
+   exercising it").
+
+Translation boundary recorded per the advisor: A056's card body
+carries the Ross-translation VII.2 passage; the Rackham material
+belongs to A057's VII.8 passage. The unverified Rackham quotation
+from the discarded rev-2 attempt was not restored; the section quotes
+Ross from the MIT Classics carrier, not Rackham.
+
+Editorial boundary recorded per the advisor, stated in the section
+itself: akrasia is broader than procrastination, and reading the
+Socrates–Aristotle debate onto delay is the page's own connection,
+not a finding of either opened review. The two modern reviews are
+untouched in this revision: the "Where the two reviews stand"
+section is unchanged and remains a bounded comparison, not a claimed
+disagreement.
+
+Checker after rev 6: exit 0 (37 card links resolve, 14 headers, 5
+external carrier link occurrences across 4 distinct URLs).
+
+What remains for the next revision pass: the story section still
+carries the rev-1 selection of three lapse-response cards, and the
+six story additions from the discarded rev-2 attempt were not
+restored (ST161, ST160, ST331, ST484, ST485 were opened and read in
+full in that earlier session; their glosses would need to be
+re-checked against the cards before any future addition). Supervisor
+review of the bounded comparison and a decision on whether the
+Socrates–Aristotle section satisfies the divergence requirement
+remain outstanding, per the advisor's round-3 handoff verdict.
