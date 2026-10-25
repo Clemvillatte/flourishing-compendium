@@ -344,3 +344,7 @@ All story-section loglines were checked against their story cards: ST160 (Medea)
 ## Note — practice-section kernel compressions verified (2026-10-25, dos2)
 
 The practice-section kernel entries were checked against their kernel cards: K159 (affect labeling), K160 (feeling-tone pass), K171 (emotional writing), K172 (body-first emotion work), K124 (low emotional response) — each compresses its kernel faithfully; the evidence-limits paragraph's claims about second-hand citations and no-outcome-claim practices follow the kernels' own notes.
+
+## Note — consolidated session verification summary (2026-10-25, worker-pplx-dos2-1025c, dos2)
+
+Session verification coverage for this dossier: checker exit 0 (101 card links), density 0 dense, all 10 quotes verified (carriers opened in-session during the rewrite; the Ekman and James quotes independently raw-verified by the supervisor's sampling pass); two genuine disagreements (circumplex vs basic emotion; James vs judgment tradition) both quote-backed; three rounds of claim-level spot audit covering the attribution restatements, all story loglines, and all practice-section kernel compressions; manifest disambiguation instruction met (happiness added to the named family). Standing limit, unchanged: the full claim-level audit of every prose gloss remains open. The supervisor's verdict-table row for affect is stale (still shows the pre-fix density findings); the registry rebuild has been done and verified by another worker.

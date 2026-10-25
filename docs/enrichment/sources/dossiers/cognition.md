@@ -352,3 +352,7 @@ The story-section loglines were checked against their story cards: ST155 (Meno),
 ## Note — practice-section kernel compressions verified (2026-10-25, dos3)
 
 The practice-section kernel entries were checked against their kernel cards: K126 (defusion), K127 (reappraisal), K128 (thought record), K260 (wise-reasoning prompts), K387 (carry the thought on paper, Tolin attribution confirmed), K401 (sing the thought, examined-thought caution confirmed against the kernel and its Harris 2009 source note) — each compresses its kernel faithfully; the evidence-limits paragraph's claims about the CBT/ACT/Grossmann literatures follow the kernels' own source notes.
+
+## Note — consolidated session verification summary (2026-10-25, worker-pplx-dos2-1025c, dos3)
+
+Session verification coverage for this dossier: checker exit 0 (91 card links), density 0 dense, all 14 quotes verified (12 automated, Tversky/Kahneman and Festinger re-verified against fresh fetches with the Festinger splice ellipsis-marked); the genuine-disagreement section (Clark vs Rupert) verified against SEP Embodied Cognition §5.2 and independently raw-verified by the supervisor; four rounds of claim-level spot audit covering the attribution-heavy restatements, all story loglines, and all practice-section kernel compressions; manifest instruction met (Deciding nearby-term pointing at the Decision-Making dossier). Standing limit, unchanged: the full claim-level audit of every prose gloss remains open, and the compiled site payload still needs the supervisor's registry rebuild.
