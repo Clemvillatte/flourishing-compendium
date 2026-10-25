@@ -198,3 +198,6 @@ The quote (labelled Elwes, Gutenberg 3800) mixed in wording from another transla
 
 ## S029 — Marcus Aurelius VI.31 (Casaubon)
 Matched against [Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt): Casaubon reads "the hand that which belongs unto it"; the page had "belongs to it". Corrected. A divergence check across every page citing a single Gutenberg text found only formatting differences (verse line breaks, paragraph numbers, capitals) elsewhere, plus SP015, SP082 and this one.
+
+## Audit: quote-divergence sweep (no page changes beyond those logged)
+Compared every double-quoted passage on principle pages against the opened source texts: Gutenberg (216, 2388, 2680, 3800, 6920, 10661, 15877, 45109, 64576 and others), the [Rackham Nicomachean Ethics on Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4) and the [Ross text on MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.mb.txt). Real wording errors found and fixed: SP015, SP082, S029. Everything else differed only in verse line breaks, paragraph numbers, capitals or bracketed Greek. A013 (Rackham, NE IV.1, 1120a) re-matched verbatim.
