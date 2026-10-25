@@ -11,7 +11,7 @@ Via media is Latin for a middle way, and the English noun is defined as "A third
 
 > "The quip highlighted the extent to which the philosophes were seeking a via media between what they saw as the morally and intellectually impoverished tradition of Christian revelation and its embattled polar opposite, a sceptical materialism [...]." (Colin Jones, The Great Nation, 2002, quoted in [Wiktionary, "via media"](https://en.wiktionary.org/wiki/via_media))
 
-My seed names Bernstein's Beyond Objectivism and Relativism, where the two poles are objectivism and relativism. The relativist side of the dilemma, as Bernstein states it: "There is no substantive overarching framework in which radically different and alternative schemes are commensurable" (Bernstein, Beyond Objectivism and Relativism, pp. 11-12, quoted in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/cognitive-relativism-truth/)).
+The account draws on Bernstein's Beyond Objectivism and Relativism, where the two poles are objectivism and relativism. The relativist side of the dilemma, as Bernstein states it: "There is no substantive overarching framework in which radically different and alternative schemes are commensurable" (Bernstein, Beyond Objectivism and Relativism, pp. 11-12, quoted in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/cognitive-relativism-truth/)).
 
 Bernstein's way across is not a compromise that splits the difference between the poles. He treats the Either/Or itself as the error, and looks for the shape of rationality that the shared assumption of both poles hides. A review of the book in Zygon states the route plainly:
 
