@@ -329,7 +329,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole talk, 1:02:57.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:35Z clock reading): the third-party
+  batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=j5QVMN2chOI&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the masterclass's substance: Warren on modern
@@ -356,21 +356,23 @@ Block A, fcAcademyData records for deg-philosophy modules.
   contentment and satisfaction, the classification of desires as necessary,
   unnecessary and extravagant, and the value of friendship. Fits the module.
 - Relevant segment: whole lecture, 49:36.
-- Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT name the speaker, so Lampe's identity still rests on the host description — see the note below.
-  COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 15:01:35Z clock reading):
-  the third-party transcript route
-  (https://youtubetotranscript.com/transcript?v=AZZ5G8KGM2E&current_language_code=en,
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description — the retrieved transcript text does not name the speaker).
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:47Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=AZZ5G8KGM2E&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
-  not opened) confirms the talk's TOPIC: an introduction to Epicureanism
-  and its sources; pleasure as contentment; the Epicurean categories of
-  necessary, unnecessary and extravagant desires and the difficulties of
-  applying them to personal emotional needs; Epicurean views of
-  friendship including reciprocity, care for friends and friendship's
-  role in happiness (North Staffs Classical Association). CAVEAT: the
-  retrieved text does not name Kurt Lampe, so the speaker-identity basis
-  is unchanged (host description); the status therefore remains
-  verified-partial rather than upgraded, with the no-timestamps and
+  not opened) confirms the talk's substance: an introduction to
+  Epicureanism and its sources; pleasure as contentment; the Epicurean
+  categories of necessary, unnecessary and extravagant desires and the
+  difficulties of applying them to personal emotional needs; Epicurean
+  views of friendship including reciprocity, care for friends and
+  friendship's role in happiness (North Staffs Classical Association).
+  SEPARATE-BASES NOTE (per the QC ruling): the retrieved text does not
+  name Kurt Lampe, but the no-hallucination standard does not require
+  the transcript to repeat the speaker's name — the identity basis
+  remains the opened host page (as previously recorded), and the
+  transcript establishes coverage. Status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
   no-playback caveats carried.
 
 ## mod-phil-4 required batch (verified 2026-10-25)
@@ -564,22 +566,24 @@ Block A, fcAcademyData records for deg-philosophy modules.
   legacies, with topics including domestic and international politics, race and
   ethnicity, and law. Fits mod-phil-4's pragmatism-and-society angle.
 - Relevant segment: whole lecture, 0:58:12.
-- Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT name the speaker, so Kloppenberg's identity still rests on the host description — see the note below.
-  COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 15:01:35Z clock reading):
-  the third-party transcript route
-  (https://youtubetotranscript.com/transcript?v=Yp5PIqGefJ0&current_language_code=en,
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description — the retrieved transcript text does not name the speaker).
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:47Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=Yp5PIqGefJ0&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
-  not opened) confirms the lecture's TOPIC: William James's pragmatism
+  not opened) confirms the lecture's substance: William James's pragmatism
   and its influence on early 20th-century progressive politics including
   Theodore Roosevelt, Woodrow Wilson, Herbert Croly and Walter
   Lippmann; pragmatist contributions to social movements and ideas about
   race, ethnicity, cultural pluralism and peace; later influence and
   challenges to pragmatism in American public life (Harvard Divinity
-  School). CAVEAT: the retrieved text does not name James Kloppenberg,
-  so the speaker-identity basis is unchanged (host description); the
-  status therefore remains verified-partial rather than upgraded, with
-  the no-timestamps and no-playback caveats carried.
+  School). SEPARATE-BASES NOTE (per the QC ruling): the retrieved text
+  does not name James Kloppenberg, but the no-hallucination standard
+  does not require the transcript to repeat the speaker's name — the
+  identity basis remains the opened host page (as previously recorded),
+  and the transcript establishes coverage. Status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### M01-P12: William James and the Sick Soul (John Kaag, Harvard Divinity School)
 
@@ -598,7 +602,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole lecture, 1:25:53.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:35Z clock reading): the third-party
+  batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Z80EnEs-4oI&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: Kaag on James's "maybe"
@@ -718,7 +722,7 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 47:18.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:35Z clock reading): the third-party
+  batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=JgWq5vbTD7A&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: process thought
@@ -746,7 +750,7 @@ attach them with evidence on file.
 - Relevant segment: whole talk, 1:36:01.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:35Z clock reading): the third-party
+  batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=sRA-QoOGPPg&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Whitehead's career and the
@@ -1210,20 +1214,21 @@ attach them with evidence on file.
   differences between modern and classical Stoicism, and its use in self-help,
   coaching and therapy.
 - Relevant segment: whole lecture, 1:27:35.
-- Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT clearly name the speaker (garbled as "Miko Ba"/"Mika"), so Buis's identity still rests on the host description — see the note below.
-  COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 15:05:51Z save): the
-  third-party transcript route
-  (https://youtubetotranscript.com/transcript?v=yahceTYdcJI&current_language_code=en,
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description and the route's page title, which names "dr. Michiel Buis" — the retrieved transcript text garbles the name).
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:05:51Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=yahceTYdcJI&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
-  not opened) confirms the lecture's TOPIC: ancient and modern Stoicism,
-  how they differ and how to apply Stoic ideas in life; Stoic ideas about
-  desire, emotion, judgment, virtue and living in harmony with human and
-  cosmic nature; practical exercises and audience questions (Studium
-  Generale, Erasmus). CAVEAT: the retrieved text does not clearly name
-  Michiel Buis (the name appears garbled as "Miko Ba" and "Mika"), so
-  the speaker-identity basis is unchanged (host description); the status
-  therefore remains verified-partial rather than upgraded, with the
+  not opened) confirms the lecture's substance: ancient and modern
+  Stoicism, how they differ and how to apply Stoic ideas in life; Stoic
+  ideas about desire, emotion, judgment, virtue and living in harmony
+  with human and cosmic nature; practical exercises and audience
+  questions (Studium Generale, Erasmus). SEPARATE-BASES NOTE (per the
+  QC ruling): the retrieved text garbles the speaker's name ("Miko Ba",
+  "Mika") and the route's page title names "dr. Michiel Buis"; the
+  identity basis remains the opened host page (as previously recorded),
+  and the transcript establishes coverage. Status upgraded
+  verified-partial to verified-video per the house convention, with the
   no-timestamps and no-playback caveats carried.
 
 ### SRC-M20-C01: Spinoza, Ethics, The Nature of Reality and the Relation of Mind and Body (John Russon)

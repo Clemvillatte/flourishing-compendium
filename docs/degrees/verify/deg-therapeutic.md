@@ -142,26 +142,28 @@ SRC-M27-004 (duplicate record; directly verified above).
   practical suggestions (shift from problem-solver to guide; give
   advice by connecting first). Corroborated by the ATTC Network page
   for the same lecture (opened 2026-10-25).
-- Verification status: verified-video (coverage basis: third-party transcript, full retrieval, 2026-10-25; no timestamps; playback not opened); identity and credentials previously verified; duration-basis and commercial-uploader flags retained below.
-  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): a fresh
+- Verification status: verified-partial — coverage corroborated by a fuller third-party transcript retrieval (see note); identity and credentials previously verified; duration still rests on search-listing metadata, not a direct watch-page read, and playback was not confirmed from this environment; confirm against the recording before scheduling. The fuller transcript does NOT resolve the duration gate, so the status remains verified-partial rather than verified-video.
+  COVERAGE CORROBORATED, STATUS UNCHANGED (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the 14:58:43Z save): a fresh
   retrieval of the same third-party transcript page
   (https://youtubetotranscript.com/transcript?v=SAntO8nLDMQ&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
-  not opened) returned a COMPLETE text: motivational interviewing as a
+  not opened) reports a COMPLETE text: motivational interviewing as a
   practical, skillful guiding approach — connection, reflective
   listening, open questions, recognizing people's strengths and
   ambivalence, and drawing out their own reasons for change; giving
   advice with permission; applying the approach in healthcare and other
-  settings (South Africa HIV ATTC). The text begins with the welcome
-  and ends with the speaker's closing thanks, so the earlier truncation
-  no longer bounds the coverage basis. The coverage basis is upgraded
-  from truncated extraction to full third-party transcript; status
-  upgraded verified-partial to verified-video per the house convention.
-  The duration-basis flag (search-listing metadata, not a direct
-  watch-page read) and the commercial-uploader access ruling are
-  RETAINED for the owner, with the no-timestamps and no-playback
-  caveats carried.
+  settings (South Africa HIV ATTC). The retrieval begins with the
+  welcome and ends with the speaker's closing thanks, so the earlier
+  truncation no longer bounds the coverage basis. However, the prior
+  verified-partial status rested on the DURATION basis (search-listing
+  metadata, no direct watch-page read, playback not confirmed), and a
+  transcript does not resolve that gate. Per the QC ruling the earlier
+  status upgrade to verified-video is WITHDRAWN: the card remains
+  verified-partial with the fuller coverage evidence recorded here and
+  the no-timestamps and no-playback caveats carried. The commercial-
+  uploader access ruling is retained. The owner can close the duration
+  gate with a watch-page read or playback check.
 
 ### M16-C01: Meng Wu Lecture — Paul Gilbert, PhD
 

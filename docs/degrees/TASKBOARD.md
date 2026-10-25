@@ -71,23 +71,32 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
-- 2026-10-25 (before the 15:03:28Z save and after; latest push pending)
-  worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5
-  — 25 more description-basis cards worked via the third-party transcript
-  route (5dbf41e8f, 0295b5030, c8849acf7, plus the Moran/Nadler batch):
-  deg-wellbeing M08-S15/S04/S06/S08/S17/S18/S22/S24 upgraded
-  verified-partial→verified-video, M08-S13 corroborated; deg-relational
-  M04-R05/R08/R13/R15/R16 upgraded (Mika's dual-duration flag retained);
-  deg-mind M06-AF07 and deg-therapeutic SRC-M09-005 upgraded on FULL
-  transcript retrievals (truncation bounds lifted; duration-basis flags
-  retained); deg-philosophy Warren, Kaag, Clayton, Segall x2, Bergson
-  roundtable (partial-speaker note), Herring, Misak, Moran (title-only
-  speaker caveat), Nadler upgraded. Lampe and Kloppenberg TOPIC-confirmed
-  but their transcripts do not name the speaker — remain verified-partial
-  with identity still resting on host descriptions. Chittick (M05-XP-04)
-  and Beth Lord (M05-SP-05) transcript routes failed twice each (service
-  error) — bounded, still open. M08-S01 (Markus Sage-CASBS) also failed
-  twice — bounded, still open.
+- 2026-10-25 (passes 2-5 plus QC repairs; latest save see below)
+  worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5 + QC
+  REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
+  3864101ca, fd4410dea, plus this QC-repair save). 34 description-basis
+  cards worked via the third-party transcript route. 26 UPGRADED
+  verified-partial→verified-video with the coverage basis in the status
+  line: deg-wellbeing M08-S04/S06/S08/S17/S18/S22/S24 (7); deg-relational
+  M04-R05/R08/R13/R15/R16 (5; Mika's dual-duration flag retained);
+  deg-philosophy Warren, Kaag, Clayton, Segall x2, Bergson roundtable
+  (partial-speaker note), Herring, Misak, Moran (title-only speaker
+  caveat), Nadler, Mikics, Lampe, Kloppenberg, Buis (14; the last three
+  upgraded per the separate-bases QC ruling — the transcript need not
+  name the speaker; identity basis remains the opened host page).
+  2 FRESH CORROBORATIONS with no status change: M08-S13, M08-S15
+  (M08-S15 was already verified-video; an earlier note's upgrade claim
+  was corrected this pass). 2 COVERAGE-EVIDENCE RECORDS, STATUS STILL
+  verified-partial (duration gate unresolved — the earlier upgrade to
+  verified-video was WITHDRAWN per QC): deg-mind M06-AF07 Gross (raw
+  retrieval inspected at length), deg-therapeutic SRC-M09-005 Rollnick.
+  4 TRANSCRIPT-ROUTE FAILURES bounded after two attempts each, still
+  open: M08-S01 (Markus Sage-CASBS), M05-XP-04 (Chittick), M05-SP-05
+  (Beth Lord), M16-P01 (Kristjánsson). QC-repair pass also corrected
+  stamp bounds (batches 2-3 had cited pre-writing clock readings) and
+  reconciled this ledger (a commit message said 13 for a 16-card batch;
+  an earlier checkpoint said 25 for a 28-card enumeration — history left
+  as pushed, corrected here).
 
 - 2026-10-25 (before the 14:53:26Z save) worker-pplx-degfin-1 (deg-verify-a):
   deg-wellbeing BATCHED TRANSCRIPT PASS — 10 description-basis cards

@@ -308,7 +308,7 @@ standard.
 - Relevant segment: whole lecture, 1:24:14.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading; the route
+  batched pass; written before the 14:58:43Z save; the route
   needed three attempts before serving the page, the first two failing
   with a service error): the third-party transcript route
   (https://youtubetotranscript.com/transcript?v=HRIFwtf4uhE&current_language_code=en,
@@ -341,7 +341,7 @@ standard.
 - Relevant segment: whole lecture, 57:03.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=5bahLBei5mw&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened; the route titles the recording "Henry Rosemont Jr., 11th Annual
@@ -375,7 +375,7 @@ standard.
 - Relevant segment: whole keynote, 54:02.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading; the route
+  batched pass; written before the 14:58:43Z save; the route
   needed three attempts before serving the page, the first two failing
   with a service error): the third-party transcript route
   (https://youtubetotranscript.com/transcript?v=3T2YGbxFV7A&current_language_code=en,
@@ -409,7 +409,7 @@ standard.
 - Relevant segment: whole conversation, 0:58:29.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=vnAhKeZXmZk&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the conversation's substance: decolonising research
@@ -521,7 +521,7 @@ standard.
 - Relevant segment: talk proper 6:38-53:26 (about 46 minutes).
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified; dual-figure duration flag retained.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=-ILyEN5-6wA&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Mika on Māori philosophy

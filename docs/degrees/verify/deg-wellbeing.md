@@ -257,7 +257,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole lecture, 1:21:58.
 - Verification status: verified-video.
   COVERAGE CORROBORATED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=5k0TXwL_5u0&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: loneliness as an adaptive
@@ -303,9 +303,9 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   health, wealth and communication in human groups, manipulating connection,
   contagion and position. Fits mod-wb-3's social networks strand.
 - Relevant segment: whole seminar, 1:01:11.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
-  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified; status was already verified-video before this pass.
+  FRESH CORROBORATION, NO STATUS CHANGE (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=PR21oQpeKZM&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the seminar's substance: how social network structure
@@ -315,10 +315,10 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   friendship-based targeting of public-health interventions, rewiring
   connections to support cooperation, and strategically placed bots helping
   groups coordinate; social networks framed as social capital (Yale
-  Institute for Network Science). The coverage basis is upgraded from
-  description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  Institute for Network Science). The entry's status was ALREADY
+  verified-video before this pass; this note records the coverage basis
+  and fresh corroboration, with the no-timestamps and no-playback caveats
+  carried. No upgrade is claimed.
 
 ## Notes for the deg-wellbeing owner
 
@@ -482,7 +482,7 @@ standard.
 - Relevant segment: whole lecture, 1:22:09.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=DPsvYv9ORK0&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: cultures shaping independent
@@ -512,7 +512,7 @@ standard.
 - Relevant segment: whole lecture, 1:16:23.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=OotlTvy1hIk&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened; the route titles the recording "2017 Annual Distinguished
@@ -547,7 +547,7 @@ standard.
 - Relevant segment: whole lecture, 0:53:09.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=9Lunz9SVIvQ&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: robust cultural pluralism
@@ -574,7 +574,7 @@ standard.
 - Relevant segment: whole lecture, 1:18:39.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=_Jy5bgkHjTw&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the lecture's substance: situational construal and
@@ -605,7 +605,7 @@ standard.
 - Relevant segment: whole conversation, 1:18:50.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=H7MfmA9mBhY&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the conversation's substance: declining social
@@ -637,7 +637,7 @@ standard.
 - Relevant segment: whole event, 1:27:38.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Ox7_RQshIsc&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the event's substance: Thaler on Misbehaving and the
@@ -665,7 +665,7 @@ standard.
 - Relevant segment: whole talk, 1:01:38.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 14:54:27Z clock reading): the third-party
+  batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=TzqwSsfoXGY&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: how groups can amplify bias,
