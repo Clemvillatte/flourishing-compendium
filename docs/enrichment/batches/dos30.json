@@ -1,8 +1,10 @@
 {
  "batch": "dos30",
  "done": [],
- "note": "minted 2026-10-25 (owner-directed in-session); one dossier per band; see bands/dos30-manifest.json",
+ "note": "owner-directed mint 2026-10-25; dossier drafted (frustration.md) + evidence ledger; advisor QC round 1 applied (divergence withdrawn as unestablished -> open-question section with test stated; Turner quote repaired to verbatim; Seneca re-presented as comparison; unsupported glosses cut; K253/K184 removed from selection after full reads); checker exit 0; QC status: pending second advisor pass, NOT certified publication-ready; registry flip and Academy splice remain supervisor-only",
  "in_progress": "frustration",
- "flagged": {},
+ "flagged": {
+  "frustration": "QC round 1 applied 2026-10-25; awaiting second advisor pass; open items: irritation/annoyance 71-file triage incomplete; frustration-vs-irritation boundary undefined (honest); open-question section needs genuine divergence test or closure"
+ },
  "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."
 }
