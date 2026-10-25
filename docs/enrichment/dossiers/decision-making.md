@@ -2,7 +2,7 @@
 
 > How does a person choose well under uncertainty, and what gets in the way?
 
-A choice under uncertainty is the moment a person's values meet the world's refusal to guarantee anything. Choosing well is therefore several skills at once: seeing the options, weighing them without distortion, and knowing when to stop weighing. The research and the traditions disagree productively on what goes wrong and why, and underneath all of it sits the practical question: how a person acts on their own considered values when the pressure of the choice is highest.
+A choice under uncertainty is what happens when a person has to act on their values without knowing how things will turn out. Choosing well is therefore several skills at once: seeing the options, weighing them without distortion, and knowing when to stop weighing. The research and the traditions disagree productively on what goes wrong and why, and underneath all of it sits the practical question: how a person acts on their own considered values when the pressure of the choice is highest.
 
 ### Nearby terms
 

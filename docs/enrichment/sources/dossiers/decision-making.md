@@ -111,3 +111,13 @@ Choice Theory. No mismatches found; no edits made.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Decorative-metaphor fix (2026-10-25, worker-pplx-dos9-1025c)
+
+Supervisor-routed item (pass 5): the opening line's "the world's
+refusal to guarantee anything" personified the world as a decorative
+metaphor. Rewritten as a direct statement ("what happens when a
+person has to act on their values without knowing how things will
+turn out"); no claim, attribution or scope changed. Body text only;
+no cards or carriers freshly opened this pass. dossier_check.py
+exit 0 after the edit (79 card links resolve).
