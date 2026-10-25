@@ -620,6 +620,7 @@ Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
   next act rather than a theory of the person" -> "Both focus on what
   to do next."
 
+<<<<<<< HEAD
 ## Takeover verification pass (2026-10-25, worker-pplx-dos21-1025g)
 
 Took the stale dos21 baton (0 min) and ran the advisor-directed verification
@@ -906,3 +907,30 @@ right action?; Can knowledge coexist with failure to act?; How
 robust is moral character across situations?). The 3-5 bar is
 MET, subject to supervisor/owner ratification. Publication
 decision remains with the supervisor/owner.
+=======
+## Final verification pass (same session, before baton release)
+
+- K184 evidence sentence completed from the OPENED CARD
+  (content/kernels/K184 — Opposite action.md, read in full this pass):
+  the card's Evidence section states "Sixteen individuals with
+  borderline personality disorder attended six laboratory sessions,
+  acting consistent with an induced emotion in half and opposite in
+  the other half; opposite action cut intensity more for sadness and
+  guilt or shame, and showed no advantage for anxiety or anger in this
+  design," quoting the study abstract ("significantly greater decreases
+  in emotional intensity for those in the sadness and guilt/shame
+  conditions, but not those in the anxiety or anger conditions",
+  Sauer-Zavala et al. 2019, BRAT 117, 79-86). The dossier entry now
+  carries the comparison condition ("acting consistent with an induced
+  emotion in half and opposite in the other half") so the "no
+  advantage" claim is stated exactly as the card and its quoted
+  abstract state it — study-specific, not an equivalence claim.
+- All four QC rounds applied; checkers clean (64 links, 20 headers,
+  14 carriers, 0 dense, quotes byte-identical, zero link drift).
+- FLAG FOR SUPERVISOR: registry status left "planned" per protocol;
+  run scripts/dossier_registry_build.py --rebuild=right-action when
+  flipping. The round-5 advisor verdict was not obtained (the run
+  clock expired during the verification); the K184 passage-level
+  evidence the reviewer demanded is recorded above and matches the
+  opened card verbatim in substance.
+>>>>>>> 5380fcfc2 (dos21: right-action final verification — K184 comparison condition added from the opened card (16 with BPD, 6 sessions, consistent vs opposite halves); ledger records passage-level evidence; registry flip flagged for supervisor)
