@@ -273,3 +273,46 @@ headers, 25 external carriers); density 0; voice clean; quote_verify
 26 checked, 3 not found (de Hooge via PubMed, verified by eye against
 the fetched Tilburg record). Registry left "planned" for the
 supervisor.
+
+## Advisor re-QC bounded repair (2026-10-25, worker-pplx-dos29-1025h, dos29 baton)
+
+Second QC round required a bounded pass before release. What was
+actually checked this pass:
+
+- Tracy & Robins chapter (rpforschools PDF) fetched directly: the
+  self-conscious-emotions gloss wording ("elicitation requires the
+  ability to form stable self-representations... to generate a
+  self-evaluation") confirmed verbatim; direct carrier citation added
+  to the dossier.
+- Heidegger Being and Time §58 (dhspriory Macquarrie-Robinson text)
+  fetched directly: "Dasein need not first load a 'guilt' upon
+  itself through its failures or omissions" confirmed verbatim;
+  direct carrier citation added. The .doc carrier is blocked to the
+  quote verifier (new NOT FOUND); verified by eye as above.
+- Apology-component ranking (acknowledgment of responsibility most
+  important, offer of repair second) confirmed against the OSU news
+  release fetched this session.
+- Kernel caveats checked against the kernel cards: K352 (Litz et al.
+  2009 abstract: conceptual review, no trial of the audit), K289
+  (victim-side responses to imagined apology and restitution), K162
+  (meta-analytic association correlational), K184 (guilt/shame
+  conditions specifically, small sample) all match the cards'
+  evidence-boundary statements.
+- Three wording fixes applied per QC: "presents as beyond repair" ->
+  "the whole self rather than the particular action"; Sartre
+  comparison reduced to the open-question formulation ("I leave open
+  how this involuntary experience relates to Tangney's account of
+  global self-evaluation; these passages do not establish that the
+  accounts are incompatible"); Tangney-vs-de Hooge lean reduced to
+  "These passages do not settle when shame is associated with
+  withdrawal and when with a preference for company" with the
+  practical conclusion qualified to cases where repair is possible.
+
+Checks: dossier_check.py exit 0 (39 card links, 23 headers, 28
+external carriers); density 0; voice clean; quote_verify 27 checked,
+4 not found (3 de Hooge via PubMed, verified by eye against the
+fetched Tilburg record; 1 Heidegger via .doc, verified by eye against
+the fetched dhspriory text). Released as a REVIEW HANDOFF, not full
+model compliance: 1 of 3 disagreement questions remains, the
+DOSSIER-MODEL 3-question minimum is UNRESOLVED and flagged for the
+supervisor. Registry left "planned".
