@@ -7,7 +7,7 @@ file: "The mirror for others"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-My heading "the mirror for others" points here to Mencius' advice to examine oneself when one's actions do not bring the desired response.
+The heading "the mirror for others" points here to Mencius' advice to examine oneself when one's actions do not bring the desired response.
 
 ### Mencius' ground
 
@@ -25,7 +25,9 @@ Legge's chapter summary reads: "With what measure a man metes it will be measure
 
 Mencius also quotes the Book of Poetry: "Be always studious to be in harmony with the ordinances of God, And you will obtain much happiness" (Li Lou I, ch. IV, same opened carrier).
 
-### Here
+The advice has a direction. The examination is not self-blame for its own sake; it is the practical step before the next attempt, on the assumption that the person is the one part of the exchange available for repair. The mirror is not a compliment either: it returns the world's response as information about the self, in both directions.
+
+### In the compendium
 
 - [[M048 — Be a torch and a mirror]]
 - [[D128 — Learn from everyone]]
