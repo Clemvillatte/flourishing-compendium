@@ -17,6 +17,10 @@ The lecture's abstract states the general claim:
 
 > "It is shown that non-equilibrium may become a source of order and that irreversible processes may lead to a new type of dynamic states of matter called \"dissipative structures\"." (Prigogine, [Nobel Lecture, 1977](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf))
 
+The Bénard description is worth reading for its mechanism rather than for its imagery, since the order it describes is a specific thing and the image of order emerging from chaos can be used more loosely than the physics supports. The order in question appears above a critical value of a driving gradient: below it, fluctuations are damped and disappear; above it, some fluctuations are amplified and give rise to a macroscopic current. The structure that results is not a thing at rest but a thing held up by exchanges of energy with the outside world, which is why Prigogine calls it dissipative rather than stable.
+
+The everyday-facing reading has to respect the threshold and the exchange, since those are the parts of the account that make the claim a claim. A dissipative structure is not a metaphor for order that will arrive if a person waits; it is an account of order that exists only while a flow is being maintained. A person applying the concept can therefore ask of any stable-looking arrangement what flow is holding it up, and the question is not answerable by looking at the arrangement alone.
+
 ### Here
 
 - [[P148 — Expect order to arise through flux]]

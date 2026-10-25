@@ -15,6 +15,10 @@ The rhythm of breath is the Daoist image of breathing as a deep, whole-body rhyt
 
 Giles, the translator, notes in the footnote to this passage that "uttermost depths" is literally "heels", and that commentators take the sentence to mean that pure men breathe with their whole being, "not as it were superficially, from the throat only".
 
+The passage's contrast is a claim about where a breath ends rather than about how much air a person takes in. A breath that draws from the throat is a breath that stops at the throat, and the person breathing that way has a body that is not participating in the exchange; a breath drawn from the uttermost depths is a breath the whole body is doing. The comparison does not say the vulgar are doing something wrong so much as that they are doing something small, and the smallness is what shows up as tension in the places the breath does not reach.
+
+The practical reading is that the rhythm of breath is a rhythm a person can locate rather than one to be believed in. A person can notice where a given breath ends, and the noticing is itself a change in where the breath ends, since attending to a place is one of the things that makes it available to the breath. The concept puts the whole-body image and the attentional anchor on the same axis, and what they share is that the anchor is the body rather than an instruction.
+
 ### Here
 
 - [[AT049 — Learn to use breath as an attentional anchor — always available, always stabilising]]
