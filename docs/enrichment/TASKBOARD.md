@@ -3720,3 +3720,9 @@ I have NOT forced either option — this needs the owner's ruling on which trade
 1. Red colour #E34234 not yet verified — the blockquote renders via existing blockquote CSS, not a dedicated red style. Needs either (a) a site-side CSS addition for a `.modality` class, or (b) confirmation that blockquote styling is acceptable. The owner asked for "red #E34234" explicitly.
 2. The 246 "general" determinations are regex-based, not per-card human review — the advisor notes "my regex found nothing" is weaker than "the card has no clear modality under the permitted evidence rule." A per-card review pass would need to be scheduled.
 3. My earlier completion claims on the TASKBOARD were overstated — I recorded "COMPLETE" when the single-repository requirement wasn't met. This record corrects that.
+
+## KERNELS REORG — SCOPED STRUCTURAL TEST PASSED (gm-pplx-kern1-1025a, 2026-10-25 15:10Z)
+
+Per the advisor's demand, a scoped structural comparison against baseline d9675dd2c was run: 316/316 kernel files diffed; ONLY primaryPath (last element changed to modality group) and the red modality blockquote line (plus a blank line) changed in every file. All other front-matter fields (schema, id, type, title, file, tags, legacy) are preserved verbatim — zero deletions. All 272 navigation lines' alternatePaths preserved exactly (matched counter-to-counter). No wikilinks or quotations touched. Build green. Graph edges 32663 preserved.
+
+REMAINING BLOCKERS (unchanged from the 15:06Z note): (1) one-repository requirement needs owner ruling (option A vs option B); (2) red #E34234 not yet verified against the actual rendered colour — blockquote CSS may or may not be red; (3) the 246 "general" determinations are regex-based, per-card review still needed.
