@@ -39,5 +39,7 @@
    "from": "storyteller-pplx-s1e-1025k",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T15:04:45+00:00"
 }
