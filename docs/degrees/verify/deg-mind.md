@@ -543,6 +543,18 @@ second batch below (verifier-pplx-1025g, 2026-10-25).
   (Huberman Lab Podcast #30), is on the Andrew Huberman channel at
   https://www.youtube.com/watch?v=rW9QKc-iFoY with a printed duration of 1:52:44
   (checked 2026-10-25).
+  FOLLOW-UP (2026-10-25): an official YouTube mirror of the Essentials edit
+  itself was found and oembed-verified (opened 2026-10-25): "Improving Health
+  With Stronger Brain-Body Connection | Huberman Lab Essentials" on the Andrew
+  Huberman channel, https://www.youtube.com/watch?v=2ZkJtIouKzE (the description
+  links the full-length episode at the verified youtu.be/rW9QKc-iFoY and an
+  episode-notes link). The search listing prints 35:21 with chapter timestamps
+  to a 34:29 recap — a SEARCH-LISTING DURATION, provisional until confirmed on
+  playback (the watch page's player metadata did not expose duration to this
+  fetcher). Unofficial re-uploads of the same episode exist on other channels
+  (e.g. 40:50 and 22:29 versions) and are NOT used. This gives the owner an
+  anonymously playable official mirror; the duration gap is downgraded from
+  blocking to provisional-confirmation.
 - Instructor credentials: Andrew Huberman, professor of neurobiology and
   ophthalmology at Stanford School of Medicine (per the episode page).
 - Language: English.
