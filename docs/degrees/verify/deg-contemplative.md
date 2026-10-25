@@ -770,6 +770,56 @@ attach them with evidence on file.
 - Relevant segment: whole lecture part, 1:14:36.
 - Verification status: verified-video.
 
+### M-15-006: The Scientific Buddha, Past, Present, Future, The Problem With Karma (Donald Lopez, Yale)
+
+- Identity and access: oembed confirms the lecture on the Yale University channel
+  (https://www.youtube.com/watch?v=FVnEYpcYRFU).
+- Duration: 1:08:32 (watch page, 2026-10-25).
+- Instructor credentials: Donald Lopez, Arthur E. Link Distinguished University
+  Professor of Buddhist and Tibetan Studies at the University of Michigan and chair
+  of the Department of Asian Languages and Cultures (per the host description);
+  Dwight H. Terry Lectureship, October 6, 2008.
+- Language: English.
+- Content coverage: the host's description states the lecture series examines the
+  origins of the association of the Buddha with modern science, what is at stake in
+  that association and new directions for the role of the Buddha in scientific
+  research; this lecture addresses the problem with karma.
+- Relevant segment: whole lecture, 1:08:32.
+- Verification status: verified-video.
+
+### M-15-008: Karma and Rebirth in Buddhism (John Cianciosi, Theosophical Society)
+
+- Identity and access: oembed confirms the talk on the Theosophical Society
+  channel (https://www.youtube.com/watch?v=idQiaajnFts), part of the Classics
+  Series; presented February 20, 2014.
+- Duration: 1:16:02 (watch page, 2026-10-25).
+- Instructor credentials: John Cianciosi, presenter in the Theosophical Society in
+  America's Classics Series (per the host description).
+- Language: English.
+- Content coverage: the host's description states the talk covers the Buddhist
+  teachings on karma and rebirth, distinguishing them from fatalism and soul
+  transmigration, and the process of conditioned becoming in which freedom and
+  responsibility shape destiny.
+- Relevant segment: whole talk, 1:16:02.
+- Verification status: verified-video.
+
+### SRC-M18-B01: On Death and Rebirth, and What Happens in Between (Rupert Gethin, Stanford)
+
+- Identity and access: oembed confirms the talk on The Ho Center for Buddhist
+  Studies at Stanford channel
+  (https://www.youtube.com/watch?v=CKleVQGBMww).
+- Duration: 0:59:43 (watch page, 2026-10-25).
+- Instructor credentials: Rupert Gethin, speaking at the Ho Center for Buddhist
+  Studies, Stanford, May 17, 2018 (per the host description).
+- Language: English.
+- Content coverage: the host's description states the talk examines Buddhist
+  accounts of death, rebirth and the intermediate existence (antarabhava),
+  comparing Theravada and Sarvastivada accounts of how karma conditions rebirth,
+  the arguments for and against intermediate existence, and parallels between
+  northern and southern Buddhist traditions.
+- Relevant segment: whole talk, 0:59:43.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15
