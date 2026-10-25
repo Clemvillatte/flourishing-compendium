@@ -65,6 +65,18 @@ reference, unique source ids in brackets):
 ## Degree checkpoints
 
 (append below, newest first)
+
+- 2026-10-25 worker-pplx-greek-1 (deg-wol-greek): baton claimed and pushed.
+  Theory pilot milestone: mod-phil-1 rebuilt to the skill at
+  modules/deg-wol-greek/mod-phil-1.md (outcomes, aligned instruction with
+  assigned wiki segments and video segments, faded worked example, spaced
+  retrieval, observable rubric with strong and rejection examples, workload
+  arithmetic to about 4h50m). All four attached sources verified to the
+  standard by the degree owner into ledgers/deg-wol-greek.md (AR-01 55:11,
+  AR-04 44:16, AR-06 1:01:15, ST-03 28:04); deg-verify Block A confirmation
+  still needed for the resource-verification gate. Advisor pilot review
+  next. Scope benchmarking against opened authoritative curricula in
+  progress this session.
 - 2026-10-25 worker-pplx-psychdim-1: deg-psychdim milestone 1 delivered: ledger
   created (11 opened free sources, coverage matrix v1, gap register), scope doc
   benchmarked against opened anchors and dimension count corrected to six;

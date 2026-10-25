@@ -93,6 +93,20 @@ Verification status of attached sources (from fcAcademyData, checked
   the pilot review; that is blocked on the verification band returning
   durations and content confirmation.
 
+## Rebuild (deg-wol-greek owner, 2026-10-25)
+
+The open items above are addressed: all four attached sources verified by
+the degree owner (oembed plus watch page, durations printed, credentials
+from institutional or CV pages, evidence in ledgers/deg-wol-greek.md);
+AR-06 and ST-03 content classified from their watch pages; the Sandel
+episode was confirmed to centre on Aristotle's teleology rather than a
+systematic three-way comparison, so the rebuilt module assigns it
+accordingly and carries the comparison teaching in a faded worked
+example. The complete rebuilt module, with instruction sequence, segments,
+retrieval activities, observable rubric and workload arithmetic, is at
+modules/deg-wol-greek/mod-phil-1.md. Status remains DRAFT NOT CLEARED
+until the pilot review (advisor) and the deg-verify Block A confirmation.
+
 ## What this pilot demonstrates
 
 The skill catches real defects: mixed level labels, unverified required

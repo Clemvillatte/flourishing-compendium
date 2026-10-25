@@ -1,9 +1,11 @@
 {
  "band": "deg-wol-greek",
  "kind": "degree",
- "holder": null,
- "phase": "awaiting-launch",
- "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/; raw material noted in the scope doc",
- "updated": "2026-10-25T07:43:18+00:00"
+ "holder": "worker-pplx-greek-1",
+ "phase": "phase-1-production (theory pilot first)",
+ "modules": {
+  "mod-phil-1": "rebuilt to the skill (modules/deg-wol-greek/mod-phil-1.md); sources verified in ledgers/deg-wol-greek.md; advisor pilot review in progress"
+ },
+ "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt to the skill; four attached sources verified (AR-01, AR-04, AR-06, ST-03); scope benchmarking against opened curricula in progress. Legacy deg-philosophy modules 2-3 harvest pending.",
+ "updated": "2026-10-25T08:21:08+00:00"
 }
