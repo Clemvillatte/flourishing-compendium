@@ -1,7 +1,7 @@
 {
  "baton": "s1c",
- "agent": "storyteller-pplx-s1c-1025z",
- "clocked_in": "2026-10-25T13:27:47+00:00",
+ "agent": "storyteller-pplx-s1e-1025k",
+ "clocked_in": "2026-10-25T13:44:12+00:00",
  "takeovers": [
   {
    "by": "storyteller-perplexity-s1c",
@@ -20,8 +20,12 @@
    "at": "2026-10-25T13:27:47+00:00",
    "from": "storyteller-perplexity-s1c-b82e4a9f",
    "reason": "released"
+  },
+  {
+   "by": "storyteller-pplx-s1e-1025k",
+   "at": "2026-10-25T13:44:12+00:00",
+   "from": "storyteller-pplx-s1c-1025z",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T13:35:07+00:00"
+ ]
 }
