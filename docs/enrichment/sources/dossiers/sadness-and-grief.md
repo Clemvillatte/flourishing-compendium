@@ -255,3 +255,12 @@ full continuation passage was then opened on the ctext page (all
 three fragments verbatim, including the Great Chamber sentence) and
 the cache seed completed. quote_verify now reports 15 checked, 0 not
 found, confirmed by re-run before this entry was written.
+
+## Story spot-checks (worker-pplx-dos28-1025g, 2026-10-25)
+
+All four story cards opened and checked against their loglines:
+ST031 Zhuangzi Drums on a Basin (Zhuangzi ch. 18), ST403 Two
+Friends Sing Beside the Corpse of Sang Hu (Zhuangzi ch. 6, Eno),
+ST187 Joy Reads the Memory (Inside Out), ST037 Ruben Loses the
+Hearing (Sound of Metal). All four loglines match the cards'
+subjects and sources. No defects found.
