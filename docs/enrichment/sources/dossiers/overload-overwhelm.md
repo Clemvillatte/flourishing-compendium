@@ -224,3 +224,15 @@ outside consumer choice.
 
 Checks: dossier_check exit 0 (39 card links, 15 headers). SUPERVISOR:
 re-splice overload-overwhelm; registry untouched.
+
+## Carrier repair round (2026-10-25, worker-pplx-dos12-1025t, baton dos12)
+
+quote_verify went 5 NOT FOUND -> 1. No page wording changed; no new disagreement or interpretive verdict added.
+
+Repaired (all quotes re-verified today in NCBI eutils plain-text abstracts, links added alongside the PubMed citations): Baumeister et al. 1998 ego depletion (efetch ID 9599441); Carter et al. 2015 meta-analysis (efetch ID 27474142); Iyengar and Lepper 2000 (efetch ID 11138768). pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network.
+
+Also added: the Chernev, Böckenholt and Goodman 2015 author-copy PDF (chernev.com), fetched today, quote verified in it; the Wiley doi/full page is challenge-blocked from this network.
+
+REMAINING 1 NOT FOUND, flagged for the supervisor: the Scheibehenne, Greifeneder and Todd 2010 quote ("In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero...") cannot mechanically verify against any open carrier from this network. The Oxford full-text page is challenge-blocked; the author-copy PDF (scheibehenne.com, fetched today, correct document) has two pdftotext extraction artifacts that break normalised substring matching: the equals sign in "N = 5,036" extracts as "p", and "published" breaks across a hyphenated line end. The passage was read in the extracted text and the quotation matches the printed text of the PDF. A carrier that extracts cleanly would clear the check.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 7 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.

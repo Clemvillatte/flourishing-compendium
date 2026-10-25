@@ -60,11 +60,11 @@ The monastic practice of regulating rest by rule is the [discipline of rest](htt
 
 The shared question: when effort runs out, is something finite being used up? Baumeister and colleagues argued so from a series of experiments, reporting results:
 
-> "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/))
+> "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9599441&rettype=abstract&retmode=text))
 
 A 23-laboratory preregistered replication of the standard protocol found almost nothing:
 
-> "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/))
+> "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27474142&rettype=abstract&retmode=text))
 
 Later work has not closed the question: a 12-laboratory replication of a different task pair [found a small and significant effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/) (d = 0.10), and a reader should treat the resource model of self-control as unsettled.
 
@@ -72,15 +72,15 @@ Later work has not closed the question: a 12-laboratory replication of a differe
 
 The shared question: past some point, does adding options make a person less likely to choose, or less happy with what they chose? Iyengar and Lepper reported that it does, in three studies:
 
-> "These experiments, which were conducted in both field and laboratory settings, show that people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, JPSP 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11138768/))
+> "These experiments, which were conducted in both field and laboratory settings, show that people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, JPSP 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11138768/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11138768&rettype=abstract&retmode=text))
 
 A meta-analysis of the later literature found something different:
 
-> "In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647))
+> "In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))
 
 A second meta-analysis, built on 99 observations, reached a different overall result once it accounted for the conditions under which overload happens:
 
-> "Finally, we document that when moderating variables are taken into account the overall effect of assortment size on choice overload is significant—a finding counter to the data reported by prior meta-analytic research." ([Chernev, Böckenholt and Goodman, Journal of Consumer Psychology 2015, abstract](https://onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2014.08.002))
+> "Finally, we document that when moderating variables are taken into account the overall effect of assortment size on choice overload is significant—a finding counter to the data reported by prior meta-analytic research." ([Chernev, Böckenholt and Goodman, Journal of Consumer Psychology 2015, abstract](https://onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2014.08.002), [author copy](https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf))
 
 The two meta-analyses disagree on what a zero average means. The 2010 authors report an average near zero with large differences between studies and no condition that reliably produced overload. The 2015 authors name four moderators (choice set complexity, decision task difficulty, preference uncertainty and decision goal) and report that each had a reliable effect on overload. Both can describe the same data if the average hides cases that go in opposite directions, and I cannot judge from abstracts which treatment of the moderators is right.
 

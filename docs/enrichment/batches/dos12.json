@@ -1,7 +1,8 @@
 {
-  "batch": "dos12",
-  "done": [
-    "overload-overwhelm"
-  ],
-  "note": "minted 2026-10-24; one dossier per band; GF-model conversion 2026-10-25 by worker-pplx-dos24-1025a (map header dissolved, all glosses to connected prose, 0 dense, checker exit 0); registry flip pending supervisor | 2026-10-25 worker-pplx-dos30-1025l: overload-overwhelm disagreement section 2->3 (choice overload: Iyengar&Lepper vs Scheibehenne et al. vs Chernev et al.). SUPERVISOR: re-splice overload-overwhelm; registry untouched."
+ "batch": "dos12",
+ "done": [
+  "overload-overwhelm",
+  "2026-10-25 1025t carrier repair: eutils links (3 quotes), author-copy PDFs for Chernev (verified) and Scheibehenne (extraction artifact, flagged); quote_verify 5->1; no wording change"
+ ],
+ "note": "minted 2026-10-24; one dossier per band; GF-model conversion 2026-10-25 by worker-pplx-dos24-1025a (map header dissolved, all glosses to connected prose, 0 dense, checker exit 0); registry flip pending supervisor | 2026-10-25 worker-pplx-dos30-1025l: overload-overwhelm disagreement section 2->3 (choice overload: Iyengar&Lepper vs Scheibehenne et al. vs Chernev et al.). SUPERVISOR: re-splice overload-overwhelm; registry untouched."
 }

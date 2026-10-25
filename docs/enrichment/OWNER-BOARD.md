@@ -120,3 +120,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 dos14 (1025r): agency eutils carriers added (3 quotes); quote_verify 4->1; Rothbaum-1982 scispace quote flagged (carrier blocked; may be mirror summary, not abstract); baton released.
 >>>>>>> da02fdbbc (dos14: eutils carriers added for 3 quotes; quote_verify 4->1; Rothbaum-1982 scispace quote flagged for verification (carrier blocked; possibly mirror summary))
 - 2026-10-25 dos13 (1025s): goals eutils+open-copy carriers added; two quote repairs (citation ellipsis, Seneca page marker); quote_verify 6->1 (last is PDF hyphenation artifact, flagged); baton released.
+- 2026-10-25 dos12 (1025t): overload-overwhelm eutils+author-copy carriers added; quote_verify 5->1 (Scheibehenne 2010 PDF extraction artifact, flagged); no wording change; baton released.
