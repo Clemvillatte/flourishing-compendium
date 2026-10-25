@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K381** — Compassionate Thinking: name the part, then look from the other side
 
+### Protocol
+
 Give your inner states names — "Anxious Me," "the Critic," "the Procrastinator." Not as labels to identify *with*, but as separate voices you can *talk about* rather than *talk from*.
 
 Then do the cardboard-cutout move. Imagine the anxious part of you is looking at a life-size cardboard cutout of a scary situation — it looks real from the front because that's the only angle the anxious part can see. Now imagine stepping into your Compassionate Self (see K378) and *walking around* the cutout — looking at the situation from behind, from the side, from up close. What does the situation look like from those angles? What would a compassionate, wise, curious part of you see that the anxious part can't?

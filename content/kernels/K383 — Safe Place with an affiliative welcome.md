@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K383** — Safe Place with an affiliative welcome
 
+### Protocol
+
 Sit comfortably, eyes closed. Take a minute of slow, comfortable breathing (from K378). Now bring to mind a place that feels safe, calm, peaceful, and where you belong — a beach, a forest, a room, anywhere.
 
 Build the sensory detail: what you see, hear, smell, feel under your feet. Stay with the felt sense of *being* there.

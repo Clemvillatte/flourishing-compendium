@@ -14,7 +14,9 @@ Think of two teachers giving the same correction — one with contempt, one with
 
 When you catch yourself in self-criticism (or criticizing someone you care about), ask: what is the *information* here? What would change if the same words were delivered by someone who was on your side? The goal is not to stop being corrected — the goal is to correct the *way* you're correcting.
 
-Practice: next time you hear your inner critic say something, write the sentence down. Then rewrite it in the voice of a warm teacher — same lesson, different tone. Notice the difference in your body. You are not deleting the correction; you are keeping the useful part and dropping the contempt.
+### Protocol
+
+Next time you hear your inner critic say something, write the sentence down. Then rewrite it in the voice of a warm teacher — same lesson, different tone. Notice the difference in your body. You are not deleting the correction; you are keeping the useful part and dropping the contempt.
 
 Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 8, printed pp. 107-114 (vignette at pp. 109-112).
 

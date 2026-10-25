@@ -12,6 +12,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 A simple affirmation comments on something specific someone did: "You said that well." "You saw the warning signs and took action." A complex affirmation comments on an enduring strength: "What you did took real courage." "Once you make up your mind about something, you persist until you succeed." "You're someone people can rely on."
 
+### Protocol
+
 The complex version goes beyond the action to the quality behind it. Miller & Rollnick note that an affirmation is also a reflection — a guess — and the person may confirm or correct it. A further tip from the same book's fourth edition: leave out the word "I" when affirming; it's about the person, not about you.
 
 The self-directed version works the same way; for example: "I kept going even when it was boring."

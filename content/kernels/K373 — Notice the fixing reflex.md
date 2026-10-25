@@ -12,6 +12,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 When someone tells you about a problem, notice the urge that arrives first: the urge to *fix it*. Give advice, reassure, solve, say "Have you tried…?" The third edition of Miller & Rollnick's book calls this the righting reflex — well-meant, and a common reason conversations go in circles.
 
+### Protocol
+
 The practice: when you feel the urge to fix, pause and check — did they ask for a solution, or are they telling you how it is? If you're not sure, you can ask: "Do you want ideas, or do you want me to just listen?"
 
 The passage quoted below is the third edition's account of the reflex; the explicit check-in question is an addition, not Miller & Rollnick's own.

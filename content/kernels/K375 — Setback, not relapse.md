@@ -12,6 +12,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 When you slip back into an old behavior, notice the word your mind reaches for. "Relapse" implies there are only two outcomes — perfection or failure — and that once the rule is broken, there's nothing to lose. Miller argues the term itself frames slipping as more catastrophic than it needs to be.
 
+### Protocol
+
 The practice: catch the setback early, treat it as a normal part of change rather than a verdict, and ask what was happening right before. A setback is an event to learn from, not an identity.
 
 A caveat the source takes seriously: not every setback is harmless. For some changes (addiction, self-harm, medical regimens), a slip can have serious consequences, and "it's just data" can be the wrong frame. Where that's the case, professional support belongs in the picture.

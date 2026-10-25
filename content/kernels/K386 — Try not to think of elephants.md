@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K386** — Try not to think of elephants
 
+### Protocol
+
 For the next thirty seconds, do not think about elephants. Not even a little. Set a timer.
 
 What happened? Most people find the elephant popping up every few seconds. The very act of trying not to think about something makes you think about it. This is the rebound effect of thought suppression.

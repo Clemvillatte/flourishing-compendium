@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K377** — Offer two or three options, not one
 
+### Protocol
+
 When you're helping someone choose a course of action, the book's recommendation is a menu of options. How many to offer is an editorial suggestion of this page: two or three at once, so the person can compare and choose.
 
 "Of the things I've mentioned, which ones do you think would be possible for you?" is a question that respects both the person's autonomy and the reality that they know their life better than you do.

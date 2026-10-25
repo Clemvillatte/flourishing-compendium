@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K400** — Word repetition
 
+### Protocol
+
 Start with a neutral word such as "milk." Say it once, slowly, and notice what shows up with it: images, sensations, maybe a taste. Then say the word out loud, over and over, as fast as you can, for thirty seconds.
 
 Notice what happens by the end. Most people find the images have thinned out, and what remains is the sound of the word and the movements of speaking it — a word being produced, rather than a scene being delivered.

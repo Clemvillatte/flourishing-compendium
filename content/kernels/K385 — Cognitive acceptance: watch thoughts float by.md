@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K385** — Cognitive acceptance: watch thoughts float by
 
+### Protocol
+
 Step 1: Identify one negative or recurring thought you struggle with.
 
 Step 2: Set a timer for five minutes. Close your eyes and imagine your thoughts floating past, like clouds in the sky. Don't judge or evaluate them; just notice them. If your target thought shows up, notice it and let it float by with the others.

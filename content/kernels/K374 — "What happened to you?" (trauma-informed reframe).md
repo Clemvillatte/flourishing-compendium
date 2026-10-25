@@ -10,6 +10,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K374** — "What happened to you?" not "What's wrong with you?"
 
+### Protocol
+
 When you're trying to understand someone's struggle (or your own), notice which question you're asking. "What's wrong with you?" looks for a defect inside the person. "What happened to you?" looks for the history that shaped them.
 
 This is a shift in *where you look first* — not a claim that everything is caused by events, and not a request for someone to recount painful experiences. You can hold the reframe privately, without asking the question out loud.
