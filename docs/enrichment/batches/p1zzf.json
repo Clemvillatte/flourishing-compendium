@@ -35,9 +35,10 @@
  "in_progress": null,
  "flagged": {
   "PP055": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.57->0.45 (detector re-run); Plain words re-derived (buildable-belief framing, honest-label caution); body first-person narration line ('I did not find') reworded impersonally; validator PASS (pre-existing Related-concepts warning only)",
-  "R033": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.54->below-bar (re-run); Plain words re-derived (exchange-closing framing, touch-more-than-received from Patterson/Firth); validator PASS"
+  "R033": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.54->below-bar (re-run); Plain words re-derived (exchange-closing framing, touch-more-than-received from Patterson/Firth); validator PASS",
+  "R039": "Tier-2 plain-words repair complete 2026-10-25 (worker-pplx-9ff61dc0): replicate 0.71->0.47 (re-run); Plain words re-derived (life-force core vs contested gift-story framing, Firth/Best-mistranslation caution kept honest); validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T10:49:43+00:00"
+ "updated": "2026-10-25T10:50:04+00:00"
 }
