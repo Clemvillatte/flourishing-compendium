@@ -631,6 +631,11 @@
      "t": "2026-10-22T15:53:19+00:00",
      "to": "ready",
      "note": "Final independent advisor review complete; exact-case and precise-page corrections applied where requested"
+    },
+    {
+     "t": "2026-10-25T15:17:27+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:17:27: s1b-023 verified; s1b-035 suntzu quotes verbatim, ctext sub-entry unverified (Cloudflare wall) - see QC notes"
     }
    ]
   },
@@ -931,6 +936,11 @@
      "t": "2026-10-24T14:44:43+00:00",
      "to": "ready",
      "note": "advisor repairs applied: symmetry removed, distribution arithmetic verified against Shiji 129 Chinese at ctext (three fortunes, twice distributed), narration separated from translation, boat sentence attributed to ch. 129"
+    },
+    {
+     "t": "2026-10-25T15:17:27+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:17:27: s1b-023 verified; s1b-035 suntzu quotes verbatim, ctext sub-entry unverified (Cloudflare wall) - see QC notes"
     }
    ]
   },
@@ -1015,5 +1025,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:16:59+00:00"
+ "updated": "2026-10-25T15:17:27+00:00"
 }
