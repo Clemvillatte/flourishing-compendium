@@ -15266,6 +15266,1089 @@ window.fcDossiersData = {
       "group": "affective-life",
       "status": "published",
       "art": "assets/dossier-art/shame-and-guilt.jpg"
+    },
+    {
+      "id": "sadness-and-grief",
+      "title": "Sadness & Grief",
+      "question": "",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Sadness: the state itself, felt toward anything lost or absent; the family's cleanest treatment of it as a working state rather than a defect is [Sorrow's fruit](card:Sorrow%27s%20fruit), and the film case is [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)."
+        },
+        {
+          "t": "p",
+          "x": "Sorrow: the deep register of sadness; Gibran's chapter treats it as constitutive, the well the laughter rises from."
+        },
+        {
+          "t": "p",
+          "x": "Mourning: grief's public and ritual form; the classical arguments about its limits sit on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively)."
+        },
+        {
+          "t": "p",
+          "x": "Bereavement: the objective situation of loss; grief is the process it starts."
+        },
+        {
+          "t": "p",
+          "x": "Lament: voiced, formalised mourning; the Aztec songs that hold grief and enjoyment in one breath are on [M038 — Grieve without pretending, and without drowning](card:M038%20%E2%80%94%20Grieve%20without%20pretending%2C%20and%20without%20drowning)."
+        },
+        {
+          "t": "p",
+          "x": "Depression: the clinical condition this dossier must keep distinct from grief; the boundary work is [AF051 — Recognise the difference between sadness and depression](card:AF051%20%E2%80%94%20Recognise%20the%20difference%20between%20sadness%20and%20depression) and [Complicated grief research](card:Complicated%20grief%20research)."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on sadness and grief"
+        },
+        {
+          "t": "h2",
+          "x": "The boundary between sadness and grief"
+        },
+        {
+          "t": "p",
+          "x": "Sadness is a state; grief is a course of work. The clinical material separates grief from depression rather than sadness from grief, and it does so with two observations:"
+        },
+        {
+          "t": "q",
+          "x": "\"In grief, painful feelings come in waves, often intermixed with positive memories of the deceased. In major depression, mood and/or interest (pleasure) are decreased for most of two weeks.\" ([APA, What Is Depression](https://www.psychiatry.org/patients-families/depression/what-is-depression))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"In grief, self-esteem is usually maintained. In major depression, feelings of worthlessness and self-loathing are common.\" ([APA, What Is Depression](https://www.psychiatry.org/patients-families/depression/what-is-depression))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The research tradition gives grief its structure as a process rather than a state: [Grief's oscillation model](card:Grief%27s%20oscillation%20model) defines it as alternation between two kinds of work, and [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) states the same point as a principle."
+        },
+        {
+          "t": "p",
+          "x": "The clinical sources distinguish grief from depression and model bereavement coping; they do not directly establish the sadness-as-state versus grief-as-process boundary. What the family's own entries show is that its sadness material ([Sorrow's fruit](card:Sorrow%27s%20fruit), [ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory)) treats sorrow as deep and constitutive, which is grief's register rather than a passing mood's. The boundary stays open; the grouping keeps both sides legible."
+        },
+        {
+          "t": "h2",
+          "x": "Grief as work"
+        },
+        {
+          "t": "p",
+          "x": "[Grief's oscillation model](card:Grief%27s%20oscillation%20model): the model's own summary sentence:"
+        },
+        {
+          "t": "q",
+          "x": "\"This model identifies two types of stressors, loss- and restoration-oriented, and a dynamic, regulatory coping process of oscillation, whereby the grieving individual at times confronts, at other times avoids, the different tasks of grieving.\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The practice built on it is [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work): a deliberate, time-limited sitting with the loss, then a return to the restoration side, with respite treated as part of adaptive coping rather than as failure. [AF052 — Learn to grieve — grief is a process, not a problem to solve](card:AF052%20%E2%80%94%20Learn%20to%20grieve%20%E2%80%94%20grief%20is%20a%20process%2C%20not%20a%20problem%20to%20solve) carries the same point as a principle rather than a model. [M038 — Grieve without pretending, and without drowning](card:M038%20%E2%80%94%20Grieve%20without%20pretending%2C%20and%20without%20drowning) adds the paired observation from the Cantares Mexicanos: the songs hold grief and enjoyment side by side inside one stanza."
+        },
+        {
+          "t": "p",
+          "x": "[Continuing bonds](card:Continuing%20bonds) records the finding that softened the older clinical picture: the bereaved often keep an inner relationship with the dead. The 2012 longitudinal study put one limit on it:"
+        },
+        {
+          "t": "q",
+          "x": "\"Quite consistently, the results show that those persons who have experienced an unexpected bereavement, and who retain close bonds to the deceased person, fail to recover over time.\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The conditionality is the finding, not a verdict against bonds as such."
+        },
+        {
+          "t": "h2",
+          "x": "How long to grieve: the classical prescriptions"
+        },
+        {
+          "t": "p",
+          "x": "Zhuangzi, on his wife's death, gives grief both its due and its stop:"
+        },
+        {
+          "t": "q",
+          "x": "\"When she first died, was it possible for me to be singular and not affected by the event? ... The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer. ... I therefore restrained myself!\" ([Zhuangzi 18, Legge, ctext](https://ctext.org/zhuangzi/perfect-enjoyment))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Seneca's letter on the death of Flaccus draws the line at proportion rather than at absence:"
+        },
+        {
+          "t": "q",
+          "x": "\"I am grieved to hear that your friend Flaccus is dead, but I would not have you sorrow more than is fitting.\" ([Seneca, Letter 63](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Let not the eyes be dry when we have lost a friend, nor let them overflow. ... Let us see to it that the recollection of those whom we have lost becomes a pleasant memory to us.\" ([Seneca, Letter 63](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"For I have had them as if I should one day lose them; I have lost them as if I have them still.\" ([Seneca, Letter 63](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[S070 — Do not let grief become your identity](card:S070%20%E2%80%94%20Do%20not%20let%20grief%20become%20your%20identity) carries the identity limit: grief may be kept and kept company with, but it is not to become the person. [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess) adds Epictetus' instruction for the companion: accommodate the griever, groan with him if need be, but do not groan inwardly. [D089 — Grief without destruction](card:D089%20%E2%80%94%20Grief%20without%20destruction) and [D090 — Accept death as transformation](card:D090%20%E2%80%94%20Accept%20death%20as%20transformation) hold the Zhuangzian side of the same limit, and [S018 — Accept loss without devastation](card:S018%20%E2%80%94%20Accept%20loss%20without%20devastation) holds the Stoic verb change: what was received is restored, not lost."
+        },
+        {
+          "t": "p",
+          "x": "The clinical thresholds on the same question sit on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) and [Complicated grief research](card:Complicated%20grief%20research): prolonged grief disorder is diagnosed when the grief response has persisted for \"more than 6 months at a minimum\" (ICD-11) or the death was \"at least 12 months ago\" (DSM-5-TR, adults), in both cases clearly exceeding the expected social, cultural or religious norms and causing significant impairment ([PGD review, Psychiatria Polska](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf)). Seneca's proportion is a letter-writer's judgement; the clinic's is a duration and an impairment. The two answer different questions, and neither is a deadline handed to the griever."
+        },
+        {
+          "t": "h2",
+          "x": "Sorrow and its fruit"
+        },
+        {
+          "t": "p",
+          "x": "Gibran's chapter is the family's statement of what sorrow is made of:"
+        },
+        {
+          "t": "q",
+          "x": "\"Your joy is your sorrow unmasked. And the selfsame well from which your laughter rises was oftentimes filled with your tears. ... The deeper that sorrow carves into your being, the more joy you can contain.\" ([Gibran, The Prophet](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight.\" ([Gibran, The Prophet](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory) is the same claim dramatised: Joy rewinds the sad core memory and finds that the comfort Riley received after the loss was made by Sadness. [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) turns the state into an attention practice: notice the empty chair at breakfast, stay with the memory or tell someone, set no deadline for feeling better. The Buddhist note it carries is the other edge of the same cloth: the Dhammapada verse on its card ties grief to endearment itself, which is a claim about the root, not a deadline for the feeling."
+        },
+        {
+          "t": "h2",
+          "x": "Grief beyond death"
+        },
+        {
+          "t": "p",
+          "x": "[Grief for what passes](card:Grief%20for%20what%20passes): the reading of Zhuangzi's drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: ecological grief is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The same article gives this extension its social reading:"
+        },
+        {
+          "t": "q",
+          "x": "\"For Butler, and others, grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others\" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn — including climate change-induced ecological loss and degradation.\" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[R124 — Practise ecological grief work](card:R124%20%E2%80%94%20Practise%20ecological%20grief%20work) and [K348 — Name the loss](card:K348%20%E2%80%94%20Name%20the%20loss) carry the practice: name the loss in a plain sentence, first person, specific, and let the naming be said or seen."
+        },
+        {
+          "t": "h2",
+          "x": "When grief goes wrong"
+        },
+        {
+          "t": "p",
+          "x": "[Complicated grief research](card:Complicated%20grief%20research) holds the research on the failure modes: grief that persists past the clinical thresholds, grief that forecloses the restoration side of life, and the rumination that [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work)'s container is built to catch. The dual-process reading on [S062 — Do not grieve excessively](card:S062%20%E2%80%94%20Do%20not%20grieve%20excessively) treats dosage, not suppression, as the operative variable: the model argues for respite from grieving, which is a different instruction from either wallowing or cutting the loss off."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "h2",
+          "x": "The basin and the song"
+        },
+        {
+          "t": "p",
+          "x": "[ST031 — Zhuangzi Drums on a Basin](card:ST031%20%E2%80%94%20Zhuangzi%20Drums%20on%20a%20Basin): Zhuangzi's wife dies; Hui Shi comes to condole and finds him drumming on a basin and singing, and Zhuangzi traces her life back through birth and body to breath, and stops weeping where the tracing stops."
+        },
+        {
+          "t": "p",
+          "x": "[ST403 — Two Friends Sing Beside the Corpse of Sang Hu](card:ST403%20%E2%80%94%20Two%20Friends%20Sing%20Beside%20the%20Corpse%20of%20Sang%20Hu): after Zisanghu dies, two friends sing beside his corpse; Zigong objects that this breaks li, and Confucius admits the two roam beyond bounds he cannot cross."
+        },
+        {
+          "t": "h2",
+          "x": "Sadness doing its job"
+        },
+        {
+          "t": "p",
+          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory): Joy rewinds the sad core memory and finds that the comfort Riley received after the loss was made by Sadness."
+        },
+        {
+          "t": "h2",
+          "x": "The life that is actually available"
+        },
+        {
+          "t": "p",
+          "x": "[ST037 — Ruben Loses the Hearing](card:ST037%20%E2%80%94%20Ruben%20Loses%20the%20Hearing): Ruben loses his hearing, chases implants to fix it, and ends sitting in stillness with the life the Deaf community shows him."
+        },
+        {
+          "t": "h",
+          "x": "Retention"
+        },
+        {
+          "t": "p",
+          "x": "A reader who keeps one thing from this family might keep the alternation. Seneca recommends moderation in mourning; Zhuangzi narrates a change in his own response to his wife's death; the dual-process model describes alternating coping orientations. These are different kinds of claim, a prescription, a narration and a description, and the passages behind them establish neither a single shared stopping rule nor a genuine incompatibility."
+        },
+        {
+          "t": "p",
+          "x": "What the practice entries share is quieter: [K319 — Non-avoidant grief work](card:K319%20%E2%80%94%20Non-avoidant%20grief%20work) gives the sitting a container and a return, [K348 — Name the loss](card:K348%20%E2%80%94%20Name%20the%20loss) gives the naming a sentence and a listener, and [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence) sets no deadline for feeling better. None of the three argues for wallowing, and none for cutting the loss off."
+        },
+        {
+          "t": "h",
+          "x": "Sources"
+        },
+        {
+          "t": "p",
+          "x": "[Stroebe & Schut 1999, The Dual Process Model of Coping with Bereavement (PDF)](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf) — the model's summary sentence quoted."
+        },
+        {
+          "t": "p",
+          "x": "[Zhuangzi, Perfect Enjoyment, ch. 18, Legge translation (ctext)](https://ctext.org/zhuangzi/perfect-enjoyment) — wife-death passage quoted."
+        },
+        {
+          "t": "p",
+          "x": "[Seneca, Moral Letters to Lucilius, Letter 63 (Wikisource, Gummere)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63) — four sentences quoted verbatim."
+        },
+        {
+          "t": "p",
+          "x": "[Gibran, The Prophet, On Joy and Sorrow (Project Gutenberg)](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm) — excerpts quoted verbatim."
+        },
+        {
+          "t": "p",
+          "x": "[APA, What Is Depression?](https://www.psychiatry.org/patients-families/depression/what-is-depression) — grief-versus-depression sentences quoted verbatim."
+        },
+        {
+          "t": "p",
+          "x": "[Cunsolo & Ellis 2018, Ecological grief as a mental health response to climate change (PDF)](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf) — sentences quoted verbatim, p. 276; the \"we-creating\" sentence presents Butler's reading, which the article invokes rather than reports as a measurement."
+        },
+        {
+          "t": "p",
+          "x": "[Stroebe et al. 2012, Continuing bonds in adjustment to bereavement (PDF)](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf) — \"fail to recover over time\" sentence quoted."
+        },
+        {
+          "t": "p",
+          "x": "[Prolonged grief disorder in ICD-11 and DSM-5-TR (Psychiatria Polska PDF)](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf) — duration thresholds quoted."
+        },
+        {
+          "t": "p",
+          "x": "Card-carried material: Epictetus Ench. XVI on [S114 — Handle grief without excess](card:S114%20%E2%80%94%20Handle%20grief%20without%20excess); Dhammapada 212 and SN 56.11 on [B108 — Grieve with presence](card:B108%20%E2%80%94%20Grieve%20with%20presence); R124's definitions on [R124 — Practise ecological grief work](card:R124%20%E2%80%94%20Practise%20ecological%20grief%20work)."
+        }
+      ],
+      "group": "affective-life",
+      "status": "published",
+      "art": "assets/dossier-art/sadness-and-grief.jpg"
+    },
+    {
+      "id": "right-concentration",
+      "title": "Right Concentration",
+      "question": "What is collectedness, and how is it tuned rather than forced?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The modern attention economy trains the opposite, a scattered, forced, white-knuckle focus that exhausts what it uses, and the counterweight is practice: a capacity tuned like an instrument and reachable inside ordinary life."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Samadhi: the umbrella term both traditions use, in the Yoga group below."
+        },
+        {
+          "t": "p",
+          "x": "One-pointedness and collectedness: the renderings of the same Pali term, in their own group below."
+        },
+        {
+          "t": "p",
+          "x": "Absorption: the English word under which the jhanas and flow meet; the research construct is held at the Attention boundary above."
+        },
+        {
+          "t": "p",
+          "x": "Flow: the psychological cousin, in its own group below."
+        },
+        {
+          "t": "p",
+          "x": "Right effort: the lute-string tuning is the factor this page shares with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons."
+        },
+        {
+          "t": "p",
+          "x": "The sibling factors: [right view](card:Right%20view), [right intention](card:Right%20intention) and [right mindfulness](card:Right%20mindfulness) each have their own card, and each factor has a dossier written or in progress; right view's is still in draft on its band. Right mindfulness carries the sati side of the collected mind, and this page keeps the samadhi side."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on right concentration"
+        },
+        {
+          "t": "h2",
+          "x": "The path's own account"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Right concentration](card:Right%20concentration): the eighth factor; DN 2's four jhanas, each quieter than the last, from rapture-and-pleasure born of withdrawal to \"purity of equanimity and mindfulness, neither-pleasure nor stress\"."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Eightfold Path](card:Eightfold%20Path): the SN 56.11 listing, where \"right\" (sammā) reads as complete or whole: a skill to develop, not a rule to obey."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[B028 — Develop right concentration (samadhi)](card:B028%20%E2%80%94%20Develop%20right%20concentration%20%28samadhi%29): the training instruction from MN 118's breath steps, steadying the mind on the in-breath and the out-breath, with the Dhammapada's pairing of concentration and insight."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[B020 — Train ethics, concentration, and wisdom together (the threefold training)](card:B020%20%E2%80%94%20Train%20ethics%2C%20concentration%2C%20and%20wisdom%20together%20%28the%20threefold%20training%29): the Dhammapada's one-verse curriculum, avoid evil, do the skillful, cleanse the mind, in which concentration is one third of a single training."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[B095 — Collect the mind (samadhi as gathering)](card:B095%20%E2%80%94%20Collect%20the%20mind%20%28samadhi%20as%20gathering%29): samadhi read as gathering rather than blankness, one step in MN 118's sequence that also senses, gladdens and releases the mind."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Equanimity](card:Equanimity): the fourth jhana's tone: even-mindedness regardless of valence, with the research definition and the near-enemy warning against indifference."
+        },
+        {
+          "t": "h2",
+          "x": "The tuning teaching, and its two failure modes"
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[B036 — Tune, don't force: the lute string](card:B036%20%E2%80%94%20Tune%2C%20don%27t%20force%20%E2%80%94%20the%20lute%20string): the Sona Sutta's craftsman's question, neither taut nor slack, with over-aroused persistence leading to restlessness and overly slack persistence to laziness."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Restlessness as weather](card:Restlessness%20as%20weather): the Gita's wind-simile for the restless mind, the Pali hindrance of restlessness-and-worry, and calm (samatha) as the tradition's own remedy."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Y021 — Diagnose the mind's state before choosing a practice](card:Y021%20%E2%80%94%20Diagnose%20the%20mind%27s%20state%20before%20choosing%20a%20practice): Vyasa's five states of mind, from restless to arrested, with the fitness rule that samadhi belongs to the one-pointed mind."
+        },
+        {
+          "t": "h2",
+          "x": "The Yoga account: three steps to absorption"
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Samadhi](card:Samadhi): the Yoga Sutras' culminating step, where the object fills awareness and the sense of a separate onlooker falls away (III.3 in Johnston's translation)."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[Y073 — Bind attention to one place](card:Y073%20%E2%80%94%20Bind%20attention%20to%20one%20place): dhāraṇā, the binding of consciousness to a region, with the commentary's named supports and its rule that fixing needs something to fix on."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[Y074 — Let absorption come from continuity](card:Y074%20%E2%80%94%20Let%20absorption%20come%20from%20continuity): dhyāna as the unbroken stream of one kind of idea on the same object; holding, not forcing."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[Y075 — Let the object fill the field](card:Y075%20%E2%80%94%20Let%20the%20object%20fill%20the%20field): samadhi defined by what happens to the object: shining forth in consciousness as the intended object and nothing more."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[Y076 — Combine the three into one skill](card:Y076%20%E2%80%94%20Combine%20the%20three%20into%20one%20skill): the three stages given a single name, samyama, the combined tool Book III then uses for everything that follows."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Y078 — Distinguish settling with and without seed](card:Y078%20%E2%80%94%20Distinguish%20settling%20with%20and%20without%20seed): the seeded settling that has an object, and the seedless state that follows when the impressions cease."
+        },
+        {
+          "t": "n",
+          "i": 16,
+          "x": "[T041 — Patanjali](card:T041%20%E2%80%94%20Patanjali): the compiler of the 196 sutras, with the system's heart in two lines, union through control of the versatile psychic nature."
+        },
+        {
+          "t": "n",
+          "i": 17,
+          "x": "[Yoga — union of body, breath, and mind](card:Yoga%20%E2%80%94%20union%20of%20body%2C%20breath%2C%20and%20mind): the stilling of the citta's fluctuations (YS I.2) that the three inner steps serve."
+        },
+        {
+          "t": "h2",
+          "x": "The concentration practices, and their mechanics"
+        },
+        {
+          "t": "n",
+          "i": 18,
+          "x": "[Focused-attention meditation](card:Focused-attention%20meditation): the Lutz-group definition, notice the wandering, release the distraction, return to the object, with the research limits the review itself names."
+        },
+        {
+          "t": "n",
+          "i": 19,
+          "x": "[Anchors in focused attention meditation](card:Anchors%20in%20focused%20attention%20meditation): the return is the practice, not the object; the definition leaves the object open."
+        },
+        {
+          "t": "n",
+          "i": 20,
+          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): MN 118's sixteen steps on the breath as the portable anchor, from plain observation to relinquishment."
+        },
+        {
+          "t": "n",
+          "i": 21,
+          "x": "[Shamatha (calm abiding)](card:Shamatha%20%28calm%20abiding%29): the settling of the mind comfortably in the present, with Thanissaro's pairing of calm and insight as complementary, not rival techniques."
+        },
+        {
+          "t": "n",
+          "i": 22,
+          "x": "[B035 — Balance calming and insight (samatha-vipassana; zhiguan)](card:B035%20%E2%80%94%20Balance%20calming%20and%20insight%20%28samatha-vipassana%3B%20zhiguan%29): the Mohe Zhiguan's account of the pair as one thing: putting an end to deluded thoughts and attachments attains calm serenity, and contemplating things as they are attains clear insight."
+        },
+        {
+          "t": "n",
+          "i": 23,
+          "x": "[B042 — Develop calm (samatha)](card:B042%20%E2%80%94%20Develop%20calm%20%28samatha%29): MN 118's repeated breath instruction, in which calming is trained with each in-breath and out-breath, and serenity becomes an awakening factor once body and mind have grown calm."
+        },
+        {
+          "t": "n",
+          "i": 24,
+          "x": "[AT047 — Learn focused attention meditation — concentration on a single object](card:AT047%20%E2%80%94%20Learn%20focused%20attention%20meditation%20%E2%80%94%20concentration%20on%20a%20single%20object): the principle form of the same training: attending to a chosen object in a sustained fashion, with the training in the return."
+        },
+        {
+          "t": "n",
+          "i": 25,
+          "x": "[AT048 — Learn open monitoring meditation — awareness without narrow focus](card:AT048%20%E2%80%94%20Learn%20open%20monitoring%20meditation%20%E2%80%94%20awareness%20without%20narrow%20focus): the other style in the Lutz typology: non-reactive monitoring of the content of experience, moment to moment."
+        },
+        {
+          "t": "n",
+          "i": 26,
+          "x": "[D048 — Guard the One (shouyi)](card:D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29): the Neiye's instruction, 'Hold fast to the One; do not lose it, and you will be able to master the myriad things,' with a recipe that aligns the body before it unifies the awareness."
+        },
+        {
+          "t": "n",
+          "i": 27,
+          "x": "[Sustained attention theory](card:Sustained%20attention%20theory): why the detection-ready state degrades with time on task, and the two accounts, fatigue and boredom, between which the meta-analysis declines to choose."
+        },
+        {
+          "t": "n",
+          "i": 28,
+          "x": "[AT025 — Build concentration capacity through practice — attention is like a muscle](card:AT025%20%E2%80%94%20Build%20concentration%20capacity%20through%20practice%20%E2%80%94%20attention%20is%20like%20a%20muscle): the capacity claim, with the randomized-trial framing."
+        },
+        {
+          "t": "n",
+          "i": 29,
+          "x": "[AT031 — Cultivate attentional endurance — build capacity gradually](card:AT031%20%E2%80%94%20Cultivate%20attentional%20endurance%20%E2%80%94%20build%20capacity%20gradually): the deliberate-practice finding that full-attention practice is limited in daily duration, starts at an hour or less, and separates skill levels by years of accumulation rather than heroic sessions."
+        },
+        {
+          "t": "n",
+          "i": 30,
+          "x": "[AT042 — Recognise the role of sleep in attention — sleep deprivation destroys concentration](card:AT042%20%E2%80%94%20Recognise%20the%20role%20of%20sleep%20in%20attention%20%E2%80%94%20sleep%20deprivation%20destroys%20concentration): the bodily base the tuning teaching cannot tune around."
+        },
+        {
+          "t": "h2",
+          "x": "One-pointedness, and its double sense"
+        },
+        {
+          "t": "n",
+          "i": 31,
+          "x": "[One-pointedness](card:One-pointedness): citt'ekaggata rendered two ways at once: one-pointedness, fixated on a single object, and unification of mind, still but not merged, able to observe the changing flow."
+        },
+        {
+          "t": "n",
+          "i": 32,
+          "x": "[Attention residue](card:Attention%20residue): Leroy's name for what switching leaves behind: part of the thinking stays with the task left, and the next task suffers while it does."
+        },
+        {
+          "t": "h2",
+          "x": "Absorption in activity: flow and its cousins"
+        },
+        {
+          "t": "n",
+          "i": 33,
+          "x": "[Flow](card:Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered \"quite withdrawn from sensuality\" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep them as cousins and does not collapse them."
+        },
+        {
+          "t": "n",
+          "i": 34,
+          "x": "[AT026 — Learn to enter flow — the state of full attentional absorption](card:AT026%20%E2%80%94%20Learn%20to%20enter%20flow%20%E2%80%94%20the%20state%20of%20full%20attentional%20absorption): attention as the finite medium of consciousness, and what that bound places on experience."
+        },
+        {
+          "t": "n",
+          "i": 35,
+          "x": "[P118 — Engineer flow — match challenge to skill](card:P118%20%E2%80%94%20Engineer%20flow%20%E2%80%94%20match%20challenge%20to%20skill): the challenge-skill match, checked against the meta-analysis that followed."
+        },
+        {
+          "t": "n",
+          "i": 36,
+          "x": "[P119 — Give flow clear goals and immediate feedback](card:P119%20%E2%80%94%20Give%20flow%20clear%20goals%20and%20immediate%20feedback): the other two conditions, engineered rather than awaited."
+        },
+        {
+          "t": "n",
+          "i": 37,
+          "x": "[PP019 — Protect absorption](card:PP019%20%E2%80%94%20Protect%20absorption): the state found is not the state kept; protection is its own principle."
+        },
+        {
+          "t": "n",
+          "i": 38,
+          "x": "[P173 — Engineer absorption](card:P173%20%E2%80%94%20Engineer%20absorption): Nakamura and Csikszentmihalyi's conditions: perceived challenges that stretch existing skills, clear nearby goals, and immediate feedback about progress."
+        },
+        {
+          "t": "n",
+          "i": 39,
+          "x": "[MO060 — Recognise the role of flow in motivated well-being](card:MO060%20%E2%80%94%20Recognise%20the%20role%20of%20flow%20in%20motivated%20well-being): flow as one of the most studied optimal motivational states, associated with intrinsic reward and high well-being."
+        },
+        {
+          "t": "n",
+          "i": 40,
+          "x": "[D057 — Enter flow](card:D057%20%E2%80%94%20Enter%20flow): the Daoist entry point: Cook Ding's blade that needs no sharpening because it moves through the joints."
+        },
+        {
+          "t": "n",
+          "i": 41,
+          "x": "[Wu wei](card:Wu%20wei): non-forcing as the Daoist cousin of tuned effort, from the Daodejing's doing-nothing line."
+        },
+        {
+          "t": "n",
+          "i": 42,
+          "x": "[Effortless action through long effort](card:Effortless%20action%20through%20long%20effort): the nineteen-year blade: the effortlessness that long practice, not abstention from effort, produces."
+        },
+        {
+          "t": "h2",
+          "x": "Single-tasking, and the modern conditions"
+        },
+        {
+          "t": "n",
+          "i": 43,
+          "x": "[AT016 — Cultivate single-tasking — do one thing at a time](card:AT016%20%E2%80%94%20Cultivate%20single-tasking%20%E2%80%94%20do%20one%20thing%20at%20a%20time): the Monsell switching costs, principle form."
+        },
+        {
+          "t": "n",
+          "i": 44,
+          "x": "[AT027 — Recognise the conditions for deep work — environment, time, and energy](card:AT027%20%E2%80%94%20Recognise%20the%20conditions%20for%20deep%20work%20%E2%80%94%20environment%2C%20time%2C%20and%20energy): the environment side of the protected block."
+        },
+        {
+          "t": "n",
+          "i": 45,
+          "x": "[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention](card:AT063%20%E2%80%94%20Recognise%20attentional%20costs%20of%20media%20multitasking%20%E2%80%94%20heavy%20multitaskers%20have%20worse%20attention): the scatter the single-tasking principle answers."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is the collected mind fixed on one point or gathered into a whole field?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: what does collecting the mind do to the field of awareness? The Theravada commentarial tradition's definition, in Buddhaghosa's Visuddhimagga, fixes the mind on a single object:"
+        },
+        {
+          "t": "q",
+          "x": "\"the state in virtue of which consciousness and its concomitants remain evenly and rightly on a single object, undistracted and unscattered\" ([Wikipedia, Samadhi, quoting Buddhaghosa's Visuddhimagga](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passage was checked against the raw HTML of the article.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Shankman's reading of the same family of terms holds a wider option inside the same word. Samadhi \"basically means 'undistractedness'\"; it may be viewed as \"an exclusive focus on a single object,\" but also as \"a broader state of awareness in which the mind remains steady and unmoving, yet aware of a wide range of phenomena around the meditation object.\" The same source renders citt'ekaggata both as \"one-pointedness,\" fixated on a single object, and as \"unification of mind,\" in which mind becomes very still but does not merge with the object of attention, and is thus able to observe and gain insight into the changing flow of experience. ([Wikipedia, Samadhi, quoting Richard Shankman](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passages were checked against the raw HTML of the article."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation \"has become a matter of debate.\" What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and my own pages hold both."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the scatter and the strain: attention divided across tabs and tasks, the switching costs paid as residue, and the white-knuckle forcing that the lute-string teaching names as the first failure mode. The adaptive direction is the tuned middle: one object, one task, one protected block, with the return counted as the practice rather than as failure, and the effort checked against the two failure modes the sutta names, restless over-effort and slack neglect."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The practices I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 46,
+          "x": "[K100 — Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the breath's physical sensation; note where it went; return. The return is the practice, not a failure."
+        },
+        {
+          "t": "n",
+          "i": 47,
+          "x": "[K105 — Single-tasking](card:K105%20%E2%80%94%20Single-tasking): one task with its next concrete step chosen in advance, protected for a defined block of forty-five to ninety minutes."
+        },
+        {
+          "t": "n",
+          "i": 48,
+          "x": "[K190 — Flow block](card:K190%20%E2%80%94%20Flow%20block): the protected block assembled from flow's own conditions: clear goal, feedback signal, notifications cleared."
+        },
+        {
+          "t": "n",
+          "i": 49,
+          "x": "[K392 — The Three-minute Breathing Space](card:K392%20%E2%80%94%20The%20Three-minute%20Breathing%20Space): the three-step mini-practice that narrows to the breath and widens back to the whole body: the double sense of collectedness in one exercise."
+        },
+        {
+          "t": "n",
+          "i": 50,
+          "x": "[K417 — Shouyi (guarding the One)](card:K417%20%E2%80%94%20Shouyi%20%28guarding%20the%20One%29): the Daoist guarding of the One, a stillness-based counterpart to the binding of attention, one of the oldest named Daoist meditations on the card's account."
+        },
+        {
+          "t": "n",
+          "i": 51,
+          "x": "[K391 — Bring raisin mind to one routine activity](card:K391%20%E2%80%94%20Bring%20raisin%20mind%20to%20one%20routine%20activity): one daily activity done for a week with full attention: the single-tasking taught in the small."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps one breath anchor, one protected block, or the tuning feel itself has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The rose-apple tree"
+        },
+        {
+          "t": "p",
+          "x": "[ST391 — Backsliding into Abundance](card:ST391%20%E2%80%94%20Backsliding%20into%20Abundance): MN 36's account of the forcing that failed, the clenched-teeth austerities that attained nothing, and the first jhana returning as a memory of sitting in the cool shade of a rose-apple tree, rapture and pleasure born from seclusion; the path followed the memory, not the strain."
+        },
+        {
+          "t": "h2",
+          "x": "The lute string"
+        },
+        {
+          "t": "p",
+          "x": "[ST064 — The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains until his feet bleed, and the Buddha asks a lute player's question, neither too taut nor too loose; the awakening follows the tuning, not the straining."
+        },
+        {
+          "t": "h2",
+          "x": "Flow in the everyday"
+        },
+        {
+          "t": "p",
+          "x": "[ST138 — Flow in the Everyday](card:ST138%20%E2%80%94%20Flow%20in%20the%20Everyday): thousands paged at random moments; the most satisfying hours were not the most pleasant but the most absorbed, and the book's demand is what a life does about that, one activity at a time."
+        },
+        {
+          "t": "h2",
+          "x": "The rock climbers' absorption"
+        },
+        {
+          "t": "p",
+          "x": "[ST307 — The Rock Climbers' Absorption](card:ST307%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): the original studies began with climbers, chess players, surgeons and dancers; the phenomenology held, with complete absorption, loss of self-consciousness, distorted time, and the activity an end in itself."
+        },
+        {
+          "t": "h2",
+          "x": "The single instruction"
+        },
+        {
+          "t": "p",
+          "x": "[ST061 — Bāhiya's Single Instruction](card:ST061%20%E2%80%94%20B%C4%81hiya%27s%20Single%20Instruction): the tradition's minimalism at its limit, nothing added to experience, no commentary, no self standing behind it."
+        },
+        {
+          "t": "h2",
+          "x": "The cowherd after the harvest"
+        },
+        {
+          "t": "p",
+          "x": "[ST352 — The Cowherd After the Harvest](card:ST352%20%E2%80%94%20The%20Cowherd%20After%20the%20Harvest): MN 19's two pictures of watching, guarding ripening crops and then watching after the harvest, for what the mind repeatedly pursues and the direction it takes."
+        },
+        {
+          "t": "h2",
+          "x": "The two-year-old and the blocks"
+        },
+        {
+          "t": "p",
+          "x": "[ST325 — The Two-Year-Old and the Blocks](card:ST325%20%E2%80%94%20The%20Two-Year-Old%20and%20the%20Blocks): the tower falls, the base widens, the tower stands; the engaged cycle of attempt, observe, adjust, present before language and before self-consciousness."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-concentration.jpg"
+    },
+    {
+      "id": "gratitude",
+      "title": "Gratitude",
+      "question": "What is gratitude actually about, and why does it resist being a self-help technique?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gratitude looks like the simplest of the virtues and keeps turning out to be one of the strangest: a benefit received, a debt acknowledged, and a whole anthropology of giving and owing underneath. Both the classical and the scientific traditions have a worked-out account of it, and the two do not match: in the classical treatment gratitude is a virtue with duties, in the research a positive emotion with effects. The theme rewards keeping the two answers visible side by side rather than letting either one absorb the other."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Thankfulness and appreciation: near synonyms, held inside the groups below."
+        },
+        {
+          "t": "p",
+          "x": "Indebtedness: the benefit's shadow, the felt obligation to repay; the couples studies found gratitude, unlike indebtedness, predicted connection."
+        },
+        {
+          "t": "p",
+          "x": "Reciprocity: the exchange structure gratitude sits in and can exceed, in the classical group below."
+        },
+        {
+          "t": "p",
+          "x": "Contentment and sufficiency: gratitude's present-tense cousins, in their own group below."
+        },
+        {
+          "t": "p",
+          "x": "Benefit finding: finding good in adversity rather than benefit received from a giver; its own card and evidence."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on gratitude"
+        },
+        {
+          "t": "h2",
+          "x": "The classical account: benefit, goodwill, and return"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Gratitude](card:Gratitude): the felt recognition of a benefit received, with Seneca's On Benefits and Aristotle's Nicomachean Ethics VIII.14 as the classical anchors, and the psychological study beginning from the same observation that the emotion is about a source."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[T013 — Seneca](card:T013%20%E2%80%94%20Seneca): the Stoic whose Moral Letters and essays carry the On Benefits account the anchor card opens with; philosophy as salutary practice rather than lecture."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[S037 — Practise beneficence](card:S037%20%E2%80%94%20Practise%20beneficence): Seneca's location of a benefit in the goodwill behind it rather than the money or object that changes hands, with delay, reproach and humiliation named as spoilers of the gift."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[S084 — Practise gratitude](card:S084%20%E2%80%94%20Practise%20gratitude): Marcus Aurelius's first book as a list of what he learned from particular people, each entry naming a giver and a gift, which is what makes it more than a mood."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Generosity](card:Generosity): Aristotle's test of the manner of the gift, giving for the sake of the noble, to the right people, amounts and times, and the giver's substance rather than the multitude of gifts."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Reciprocity](card:Reciprocity): the two demands of the norm, help those who have helped you and do not injure them, as the structure the emotion sits in."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Reciprocity norm theory Gouldner](card:Reciprocity%20norm%20theory%20Gouldner): the 1960 statement of the norm in its universal form, the sociological base under the exchange."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Reciprocal altruism research](card:Reciprocal%20altruism%20research): Trivers's evolutionary account that lists gratitude among the regulators of the exchange, the base the relationship theory later builds on."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[SP022 — Practice gratitude as repayment of love](card:SP022%20%E2%80%94%20Practice%20gratitude%20as%20repayment%20of%20love): Spinoza's definition, a desire springing from love, wanting to benefit someone who has benefited us out of love."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Benevolence](card:Benevolence): Hume's sentiment that grounds the social virtues, the giving side of the same bond."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[SP070 — Live among the free; friendship is the economy of the strong](card:SP070%20%E2%80%94%20Live%20among%20the%20free%3B%20friendship%20is%20the%20economy%20of%20the%20strong): Spinoza's contrast between gratitude among free people, who benefit one another out of agreement of natures, and thanks prompted by obligation, which belongs to the bargain."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[A070 — Understand the asymmetry of benefaction](card:A070%20%E2%80%94%20Understand%20the%20asymmetry%20of%20benefaction): Aristotle's observation that benefactors love those they have benefited more than the reverse, with his own account of why: the beneficiary is the benefactor's handiwork and carries the maker's activity in it, so the imbalance is normal and not a ledger to correct."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[K053 — Practice recognizing the kindness you have received](card:K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received): the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[K034 — Be grateful to everyone](card:K034%20%E2%80%94%20Be%20grateful%20to%20everyone): the thirteenth lojong slogan, whose gratitude includes the harmful, with Trungpa's commentary that the difficult are presenting the chance to practise."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Thanksgiving as sacrifice](card:Thanksgiving%20as%20sacrifice): the Psalm's line, the offering-side of thankfulness, cited by the fundamental-stance page as its religious parallel."
+        },
+        {
+          "t": "h2",
+          "x": "The attention theory: counting what is good"
+        },
+        {
+          "t": "n",
+          "i": 16,
+          "x": "[AF063 — Practise gratitude: it recalibrates attention toward what is good](card:AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good): the mechanism as the lab frames it, a practice of directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries."
+        },
+        {
+          "t": "n",
+          "i": 17,
+          "x": "[PP013 — Practise gratitude with specificity](card:PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity): the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card."
+        },
+        {
+          "t": "n",
+          "i": 18,
+          "x": "[PP063 — Dose appropriately](card:PP063%20%E2%80%94%20Dose%20appropriately): the 2005 interventions where the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them."
+        },
+        {
+          "t": "n",
+          "i": 19,
+          "x": "[AT021 — Learn to attend to the positive deliberately](card:AT021%20%E2%80%94%20Learn%20to%20attend%20to%20the%20positive%20deliberately%20%E2%80%94%20attention%20training%20for%20well-being): the two things that go by the name of attention training, gaze trained toward positive information, and the bias-modification family whose meta-analysis was less encouraging."
+        },
+        {
+          "t": "n",
+          "i": 20,
+          "x": "[B112 — Practice gratitude: recognize your conditions](card:B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions): the Kataññu Suttas' framing of gratitude as a mark of integrity, with parents as the clearest case and even extreme service not discharging the debt."
+        },
+        {
+          "t": "n",
+          "i": 21,
+          "x": "[Hedonic adaptation](card:Hedonic%20adaptation): the taking-for-granted treadmill the counting practice counters, in Brickman and Campbell's original image."
+        },
+        {
+          "t": "n",
+          "i": 22,
+          "x": "[Savoring](card:Savoring): attention, not acquisition, stopping the good moment from passing unnoticed; gratitude's present-tense cousin."
+        },
+        {
+          "t": "n",
+          "i": 23,
+          "x": "[Benefit finding](card:Benefit%20finding): the adversity-side relation, finding good in a stressor, with the meta-analytic finding that it tracks both more well-being and more intrusive thoughts about the stressor."
+        },
+        {
+          "t": "n",
+          "i": 24,
+          "x": "[X011 — Bank gratitude for past pleasures, and draw on it in need](card:X011%20%E2%80%94%20Bank%20gratitude%20for%20past%20pleasures%2C%20and%20draw%20on%20it%20in%20need): Epicurus's memory as a source of present pleasure, in his own last letter."
+        },
+        {
+          "t": "n",
+          "i": 25,
+          "x": "[K068 — Practice gratitude as the fundamental stance](card:K068%20%E2%80%94%20Practice%20gratitude%20as%20the%20fundamental%20stance): Tanabe's philosophy as returned to the world in an act of gratitude, with the daily routine of naming one thing that was given and not earned."
+        },
+        {
+          "t": "n",
+          "i": 26,
+          "x": "[Fundamental stance](card:Fundamental%20stance): Jaspers's settled postures from which a whole life thinks and sees, the category the stance belongs to."
+        },
+        {
+          "t": "h2",
+          "x": "The relationship theory: the bond as the beneficiary"
+        },
+        {
+          "t": "n",
+          "i": 27,
+          "x": "[Active constructive responding](card:Active%20constructive%20responding): meeting another's shared good news with enthusiasm, the capitalization research on the receiving side of the bond."
+        },
+        {
+          "t": "n",
+          "i": 28,
+          "x": "[BE055 — Learn to express gratitude behaviourally: thank others](card:BE055%20%E2%80%94%20Learn%20to%20express%20gratitude%20behaviourally%20%E2%80%94%20thank%20others): Kumar and Epley's finding that expressers underestimate how positive and overestimate how awkward recipients will feel."
+        },
+        {
+          "t": "n",
+          "i": 29,
+          "x": "[Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29): the unadulterated goodness felt when something good happens for someone else, the other-directed cousin."
+        },
+        {
+          "t": "n",
+          "i": 30,
+          "x": "[Four immeasurables](card:Four%20immeasurables): each a stance toward a condition: mudita is metta meeting good fortune, joy in another's happiness even when one contributed nothing to it."
+        },
+        {
+          "t": "n",
+          "i": 31,
+          "x": "[Enemy as teacher](card:Enemy%20as%20teacher): Śāntideva's closing turn, longing for an enemy like a treasure discovered in the home, because forbearance depends on the hostile intention."
+        },
+        {
+          "t": "h2",
+          "x": "Contentment, sufficiency, and finitude"
+        },
+        {
+          "t": "n",
+          "i": 32,
+          "x": "[Santosha](card:Santosha): the Yoga-sutra's one line, that by contentment the acquisition of extreme happiness, with Vyasa's commentary on \"extreme.\""
+        },
+        {
+          "t": "n",
+          "i": 33,
+          "x": "[Sufficiency](card:Sufficiency): the Daodejing's contentment that needs fear no shame, the knowing-when-to-stop that gratitude shares a border with."
+        },
+        {
+          "t": "n",
+          "i": 34,
+          "x": "[S026 — Practise contentment with what you have](card:S026%20%E2%80%94%20Practise%20contentment%20with%20what%20you%20have): Marcus Aurelius's placement of the Stoic's self-sufficiency in one's own mind."
+        },
+        {
+          "t": "n",
+          "i": 35,
+          "x": "[D030 — Contentment is the greatest wealth](card:D030%20%E2%80%94%20Contentment%20is%20the%20greatest%20wealth): the Daodejing chapter 46 naming of the failure, no disaster greater than not knowing contentment."
+        },
+        {
+          "t": "n",
+          "i": 36,
+          "x": "[X016 — Pair patience and gratitude as the two meters of every state](card:X016%20%E2%80%94%20Pair%20patience%20and%20gratitude%20as%20the%20two%20meters%20of%20every%20state): the Quran's pairing, whoever is steadfast, grateful, as the two readings of one condition."
+        },
+        {
+          "t": "n",
+          "i": 37,
+          "x": "[E054 — Practise finitude as gift](card:E054%20%E2%80%94%20Practise%20finitude%20as%20gift): Heidegger's death as a limit that belongs to one's own existence, the facing of which discloses the possibilities one can actually choose."
+        },
+        {
+          "t": "h2",
+          "x": "Ecological and inherited gratitude"
+        },
+        {
+          "t": "n",
+          "i": 38,
+          "x": "[Ecological gratitude](card:Ecological%20gratitude): gratitude directed at the natural world, with the card's own correction of the Mayer and Frantz citation and the study that links gratitude and nature connection directly."
+        },
+        {
+          "t": "n",
+          "i": 39,
+          "x": "[R128 — Practise ecological gratitude](card:R128%20%E2%80%94%20Practise%20ecological%20gratitude): Kimmerer's Honorable Harvest, taking only what you need and never more than half."
+        },
+        {
+          "t": "n",
+          "i": 40,
+          "x": "[R058 — Practise filial piety (xiao)](card:R058%20%E2%80%94%20Practise%20filial%20piety%20%28xiao%29): the Confucian form of gratitude to those one stands on, with the Analects' care that support without reverence is what dogs and horses also do."
+        },
+        {
+          "t": "h",
+          "x": "Related questions and parallels"
+        },
+        {
+          "t": "h2",
+          "x": "Attention or bond: two accounts that do not exclude each other"
+        },
+        {
+          "t": "p",
+          "x": "The counting-blessings experiment and the relationship theory answer different questions about the same emotion. Read side by side, the experiment's own summary keeps both effects in view:"
+        },
+        {
+          "t": "q",
+          "x": "\"The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits.\" ([Emmons and McCullough, \"Counting Blessings Versus Burdens,\" JPSP 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf)): Primary text; the passage was checked against the PDF's own text.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Algoe's theory relocates the function without denying the felt effect, and the couples study reports both sides of the bond:"
+        },
+        {
+          "t": "q",
+          "x": "\"The find-remind-and-bind theory of gratitude posits that the positive emotion of gratitude serves the evolutionary function of strengthening a relationship with a responsive interaction partner (Algoe, Haidt, & Gable, 2008).\" ([Algoe, \"Find, Remind, and Bind,\" 2012](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x)): Primary text; the passage was read from the article page.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"However, for both men and women, gratitude from interactions predicted increases in relationship connection and satisfaction the following day, for both recipient and benefactor.\" ([Algoe, Gable and Maisel, \"It's the little things,\" 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x)): Primary text; the passage was read from the article page. The same abstract adds that \"gratitude had uniquely predictive power in relationship promotion, perhaps acting as a booster shot for the relationship,\" where indebtedness maintained only the external signals of engagement.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Which effect is primary in ordinary life, the feeler's attention or the bond's maintenance, is a question an essayist can take up rather than one the research settles; the practices here split along the same line, attention practices on one side, expression practices on the other. No verified disagreement is recorded on this theme, and the map's classical anchors were checked instead: Seneca's location of the benefit in the goodwill rather than the thing given, and Aristotle's account of returning honour and doing what one can when equivalent repayment is impossible, both checked against their sources."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the taken-for-granted: adaptation flattens repeated benefits, the counting practice meets it with deliberate attention, and the danger the theme itself names is that gratitude becomes a technique, a mood listed for effect. The adaptive direction keeps the benefit's source in view, names the giver and the gift specifically, and lets the acknowledgment reach the person when expression is possible."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The practices I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 41,
+          "x": "[K164 — Gratitude practice](card:K164%20%E2%80%94%20Gratitude%20practice): three things, written or expressed directly, with specificity named as what matters: not a friend in general but what the friend did."
+        },
+        {
+          "t": "n",
+          "i": 42,
+          "x": "[K212 — Gratitude expression](card:K212%20%E2%80%94%20Gratitude%20expression): the gratitude visit from Seligman's intervention study, reported on the card with its own raw-text check of the paper as the largest immediate effect of the five exercises tested, lasting about a month before it fades."
+        },
+        {
+          "t": "n",
+          "i": 43,
+          "x": "[K280 — Gratitude for sufficiency](card:K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, one thing you already have that is enough, targeting the mechanism of desire rather than the mood."
+        },
+        {
+          "t": "n",
+          "i": 44,
+          "x": "[K110 — Savoring](card:K110%20%E2%80%94%20Savoring): the present-tense cousin, stopping the good moment from passing unnoticed."
+        },
+        {
+          "t": "n",
+          "i": 45,
+          "x": "[K157 — Evening review](card:K157%20%E2%80%94%20Evening%20review): the last quarter hour of the day, three questions in writing; the card's report that the written form outperformed more practice in the field experiment."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps one evening list, one expressed thanks, or the sufficiency naming has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The gift of the Magi"
+        },
+        {
+          "t": "p",
+          "x": "[ST167 — The Gift of the Magi](card:ST167%20%E2%80%94%20The%20Gift%20of%20the%20Magi): the young couple each sell the thing the other's gift is for, and O. Henry names them the two foolish children who were also the wisest of all who give gifts, for in giving they saw the other as the whole point; the card's editorial reading sets the story beside Aristotle's kinds of exchange, failure on utility and success on mutual giving; the comparison is the card's, not O. Henry's."
+        },
+        {
+          "t": "h2",
+          "x": "The gift nobody accepted"
+        },
+        {
+          "t": "p",
+          "x": "[ST367 — The Gift Nobody Accepted](card:ST367%20%E2%80%94%20The%20Gift%20Nobody%20Accepted): the insulting brahman's curses returned as a question about guests and unaccepted food, with the Buddha's \"It's all yours, brahman\" as the receiving side's limit case; whoever returns the insult is eating together with the insulter."
+        }
+      ],
+      "group": "affective-life",
+      "status": "published",
+      "art": "assets/dossier-art/gratitude.jpg"
     }
   ],
   "groups": [
@@ -15300,21 +16383,6 @@ window.fcDossiersData = {
       "id": "right-livelihood",
       "title": "Right Livelihood",
       "group": "eightfold-path"
-    },
-    {
-      "id": "right-concentration",
-      "title": "Right Concentration",
-      "group": "eightfold-path"
-    },
-    {
-      "id": "gratitude",
-      "title": "Gratitude",
-      "group": "affective-life"
-    },
-    {
-      "id": "sadness-and-grief",
-      "title": "Sadness & Grief",
-      "group": "affective-life"
     },
     {
       "id": "frustration",

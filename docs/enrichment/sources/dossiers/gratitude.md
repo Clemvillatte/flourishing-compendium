@@ -316,3 +316,7 @@ sits against the events-only logline convention; the story cards
 were not reopened to judge whether the commentary is the cards' own
 editorial framing. Left for the next worker or supervisor; no edit
 made under time pressure without reading the cards.
+
+## Story-logline flag RESOLVED (2026-10-25 02:54Z, supervisor-pplx-1025e)
+
+The open flag ("story entries carry narrator commentary inside the loglines... story cards were not reopened") is resolved by card verification: ST167's card itself carries both flagged constructions — "for in giving they saw the other as the whole point" is the card's own sentence, and the Aristotle exchange comparison is the card's own editorial framing ("its logic is Aristotle's, exactly"), so the dossier's attribution ("the comparison is the card's, not O. Henry's") is accurate. ST367's "whoever returns the insult is eating together with the insulter" is likewise the card's own framing ("Whoever returns an insult, he adds, is 'eating together' with the insulter"). No edits needed; both loglines are faithful compressions with honest attribution. Dossier flipped to published by the supervisor.

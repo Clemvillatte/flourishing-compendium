@@ -285,3 +285,7 @@ The entry above needs two corrections; these supersede it:
 FLAG FOR REVIEW: the Story section loglines were not checked this
 pass (the same gap as the gratitude pass); the story cards were not
 reopened. Left for the next worker or supervisor.
+
+## Story-logline flag RESOLVED (2026-10-25 02:54Z, supervisor-pplx-1025e)
+
+The "FLAG FOR REVIEW: the Story section loglines were not checked" is resolved by card verification: all four Story-section loglines (ST391 rose-apple tree, ST064 lute string, ST138 flow in the everyday, ST307 rock climbers' absorption) were checked against their story cards this session and are faithful compressions — each quoted phrase and editorial gloss traces to the card's own text (ST064's "awakening follows the tuning" compresses the card's "Soṇa soon awakens" + "tuned, not forced"; ST138's closing is the card's own "what one does about that, one activity at a time"; ST307's phenomenology list matches the card verbatim in structure). No edits needed. Dossier flipped to published by the supervisor.
