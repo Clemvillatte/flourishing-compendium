@@ -7,7 +7,7 @@ file: "Fundamental attribution error"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-the robust bias toward over-crediting the self (Ross, 1977); self-serving attribution and its reversal in depression research.
+the tendency to underestimate situational factors and to overestimate dispositional factors in explaining behavior (Ross, 1977); kept distinct from self-serving attribution.
 
 The fundamental attribution error (FAE) is not a bias toward over-crediting the self. Ross (1977) named it as a bias about explaining other people's behavior. Over-crediting the self belongs to a different idea, self-serving attribution, which is kept as a separate concept. The sections below separate the two.
 
