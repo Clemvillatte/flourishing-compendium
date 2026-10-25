@@ -12,15 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 11** — Refuse essences: things have no fixed inner nature
 
-Wittgenstein's argument in the Philosophical Investigations is the primary source, and it is unusually concrete. He asks what a game is, and then lists what he finds: board-games, card-games, ball-games, Olympic games — and concludes that there is no common element running through all of them. "We see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail" ([Wittgenstein, Philosophical Investigations §66, German text via The Literature Network](https://www.literature-net.com/wittgenstein/philosophical-investigations/)). The term for this is family resemblance: the members of the category are related the way family members are related — not by a shared essence, but by overlapping traits.
+Wittgenstein's argument in the *Philosophical Investigations* is the primary source, and it is concrete. In §66 he asks what the things we call "games" have in common ("board-games, card-games, ball-games, Olympic games, and so on") and tells the reader to look rather than assume: "Don't say: 'There must be something common, or they would not be called "games"'—but look and see whether there is anything common to all."
 
-Nietzsche makes the same move a generation earlier and more aggressively: there are no facts, only interpretations, and the "thing" is a sum of its effects ([Nietzsche, The Will to Power, Note 481](https://www.gutenberg.org/ebooks/52965)). The practical consequence for both is that categories are tools, not mirrors of eternal essences.
+> "For if you look at them you will not see something that is common to all, but similarities, relationships, and a whole series of them at that. ... And the result of this examination is: we see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail." (Wittgenstein, *Philosophical Investigations*, §66, trans. G. E. M. Anscombe, [PDF of the text](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf))
 
-> "We see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. I can think of no better expression to characterize these similarities than 'family resemblances'." (Wittgenstein, Philosophical Investigations §66, [The Literature Network](https://www.literature-net.com/wittgenstein/philosophical-investigations/))
+In §67 he gives the name: "I can think of no better expression to characterize these similarities than 'family resemblances'; for the various resemblances between members of a family: build, features, colour of eyes, gait, temperament, etc. etc. overlap and criss-cross in the same way." He adds an image for why no single shared feature is needed: "One might as well say: 'Something runs through the whole thread—namely the continuous overlapping of those fibres.'"
 
-**Plain words** A concept that fits every case like a glove fits no case at all. The argument about whether chess, solitaire and tag are "really" games dissolves once you notice that "game" was never a bordered category — it was a family, and families have overlapping traits, not essences. It is a licence to use concepts loosely and flexibly, and to stop treating a tool as a mirror.
+Nietzsche makes a related point in a notebook entry, printed after his death as *The Will to Power* §481: "No, facts is precisely what there is not, only interpretations" (Kaufmann and Hollingdale translation, quoted by [Allen Wood, Stanford](https://web.stanford.edu/~allenw/Hum193/TruthandPerspectivism.doc)). This is a posthumously compiled note, not a published work.
 
-*For example:* Two people argue about whether someone is "really" an introvert. One treats introversion as a bordered natural kind and the argument goes in circles. The other treats it as a family-resemblance cluster, notes that the person shares some traits with introverts and some with extroverts, and the argument dissolves. Same person; only one of them is still arguing.
+**Plain words** Many of the categories you rely on may have no single feature that every member shares. Wittgenstein's example is "game": look at chess, solitaire and tag, and you find overlapping likenesses, with no one trait running through all of them. Try holding such a category as a family of cases, and ask what a particular case resembles before asking whether it qualifies.
+
+*For example:* Two people argue about whether a friend is "really" an introvert. Treat the label as a family of traits and the question changes to which of those traits the friend shows and in which settings. This is my illustration of the family-resemblance idea.
+
+## Sources
+
+- [Ludwig Wittgenstein, Philosophical Investigations, trans. G. E. M. Anscombe, PDF text](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf): §§66-67.
+- [Allen Wood, "Truth and Perspectivism", Stanford University](https://web.stanford.edu/~allenw/Hum193/TruthandPerspectivism.doc): Nietzsche, The Will to Power §481, in the Kaufmann and Hollingdale translation.
 
 ## Psychology parallels
 

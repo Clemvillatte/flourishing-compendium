@@ -55,3 +55,7 @@
 ## P075 Treat habits as will
 - Carrier opened: Dewey, Human Nature and Conduct, Gutenberg pg41386.txt. Part 1 §2 passage, tools-in-a-box passage and Part 1 §1 'alter objective conditions' sentence verified verbatim and section-checked.
 - Repair: removed 'resolution is not the will; the environment...is the will' (presented as Dewey's), 'twenty-third morning' invention and 'a month later only one still running' outcome claim. Environment-design step now labelled as my extension.
+
+## P011 Refuse essences
+- Carrier opened: Wittgenstein PI Anscombe PDF (squarespace) via pdftotext: §66 and §67 quotes and thread image verified verbatim. Nietzsche WP 481: Wood (Stanford) handout excerpt seen via search; Kaufmann/Hollingdale wording.
+- Repair: the old page cited Gutenberg 52965 for The Will to Power; that ID is 'Brazil and the River Plate in 1868' (wrong book). Also dropped the unsupported 'thing is the sum of its effects' attribution, the 'glove' line and the introvert 'only one is still arguing' conclusion. Literature Network German-text link dropped.
