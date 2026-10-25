@@ -15,6 +15,10 @@ Chronic pain acceptance is a construct from the chronic-pain research literature
 
 Cook and colleagues summarize earlier research reporting that pain acceptance predicts adjustment and functioning beyond the influences of other common predictors, including pain severity, over both the short and long term.
 
+### What the veteran study found
+
+The construct held up in a polytrauma sample: "Eighty trauma-exposed veterans with chronic pain completed a PTSD diagnostic interview, clinician-administered mTBI screening, and self-report measures of disability, pain acceptance, depression, and alcohol use" (Cook et al. 2015). "As hypothesized, higher chronic pain acceptance predicted lower disability (at both baseline and 1-year follow-up) after controlling for symptoms of PTSD, depression, alcohol-related problems, and mTBI" (Cook et al. 2015). The acceptance-based treatment framing the authors rely on cuts across diagnoses: "The previously described ACT treatment model, based on acceptance of unwanted internal experiences including chronic pain, is transdiagnostic, and therefore holds promise as an integrated treatment approach to these co-occurring conditions" (Cook et al. 2015). The open question they leave: "Future research is needed to determine whether augmenting traditional pain management practices with brief chronic pain acceptance interventions would benefit long-term functional recovery in veterans" (Cook et al. 2015).
+
 ### Here
 
 - [[B182 — Separate pain from suffering — daily]] and [[B069 — Don't shoot the second arrow (pain vs. suffering)]] — the Buddhist separation of pain from the suffering added to it
