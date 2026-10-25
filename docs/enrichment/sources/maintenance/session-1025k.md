@@ -144,3 +144,6 @@
 
 ## D114 verbatim quotes added
 - Legge ch. 8, 22, 66 quoted word for word from Gutenberg 216 (previously paraphrase only); application labelled as the page's own. P068 audited: James Principles ch. XXVI quote verified verbatim at psychclassics; no change.
+
+## S053 verbatim Epictetus
+- Enchiridion 1 (Long, Gutenberg 10661) quoted word for word; control/influence/accept three-way split labelled as a modern gloss, not Epictetus; example labelled. E012 audited: relies on Walsh and Husserl extracts, not re-opened (no change).
