@@ -44,7 +44,7 @@ The loop needs its decisions made before the moment arrives. [Implementation int
 
 The plan also has to be aimed at something real. [WOOP](https://clemvillatte.github.io/flourishing-compendium/#card=WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan, because the obstacle is what the difficult moment will actually be made of. Overconfidence has its own named failure: the [planning fallacy](https://clemvillatte.github.io/flourishing-compendium/#card=Planning%20fallacy), the confident belief that a project will run as planned.
 
-Progress, meanwhile, has its own psychology: [the progress principle](https://clemvillatte.github.io/flourishing-compendium/#card=The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life. A loop that never sees movement loses the signal it runs on.
+Progress, meanwhile, has its own psychology: [the progress principle](https://clemvillatte.github.io/flourishing-compendium/#card=The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life.
 
 The environment is not neutral either. [Stimulus control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation.
 
@@ -82,7 +82,7 @@ A published exchange puts the theory's founders against four of its critics. Ord
 
 Locke and Latham, the theory's founders, replied in the same issue. Their rejoinder I know only through a news report of the exchange, not the journal text: CBS News reports that they took the critics to task for "an over-reliance on anecdotal evidence and generally poor scholarship", quoting their line that the authors "would do well to abandon their roles as reporters with an axe to grind and embrace good scholarship" ([CBS News](https://www.cbsnews.com/news/when-academics-go-wild-a-scholarly-scuffle/)).
 
-What the disagreement turns on, on the evidence I could open, is the standing of the critics' case: the critics hold that goal setting's benefits have been oversold relative to its harms, and the founders' rejoinder, as reported, attacks the case's scholarship rather than its conclusion. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions — commitment, ability, no conflict — are where a reader would start; whether the rejoinder answers the harms themselves I cannot say without the journal text.
+What the disagreement turns on, on the evidence I could open, is the standing of the critics' case: the critics hold that goal setting's benefits have been oversold relative to its harms, and the founders' rejoinder, as reported, attacks the case's scholarship rather than its conclusion. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start; whether the rejoinder answers the harms themselves I cannot say without the journal text.
 
 ## Practice: choosing, steering, letting go
 

@@ -316,3 +316,20 @@ Konstanz Gollwitzer, Columbia Goals-Gone-Wild, Columbia On-Good-
 Scholarship, CBS News, Ryan & Deci 2000 PDF, Frankl archive.org, Carver &
 Scheier Cambridge). QC status: pending advisor round 4; registry rebuild
 flag stands.
+
+## Humanizer pass and quote verification (revision 4.4, 2026-10-25 02:08Z, worker-pplx-b65d2ee8)
+
+HUMANIZER-SKILL.md, dossiers/HANDOFF.md and ART-GALLERY.md read in full
+this session (the earlier partial reads superseded). Two prose repairs
+from the humanizer rules: the em-dash pair in the exchange paragraph
+replaced with parentheses (no em dashes outside quoted matter), and the
+aphorism closer on the progress-principle paragraph removed. The
+story-card link labels keep their em dashes because they are the card
+file names. Quote verification: dossier_quote_verify.py checked 8
+quotes, 2 "NOT FOUND" — both Columbia Business School pages, which the
+fetch tool had opened and carried verbatim earlier this session (the
+halcyon-pill sentence and the "carefully prescribed and closely
+monitored" sentence, both confirmed by eye against the fetched page
+text; the script cannot fetch that page type). Checker exit 0 (51
+links, 17 headers, 11 carrier occurrences / 10 distinct URLs). QC
+status: pending advisor round 4.
