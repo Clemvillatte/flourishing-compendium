@@ -95,16 +95,22 @@ Zero-story Daoism/Buddhism/Pragmatism principles not blocked by any lane draft a
 Both returns are parked for supervisor decisions, not teller repairs; this pass prepares the
 disposition evidence. Statuses left as found (returned).
 
-- s1b-033 (Rodia / P162): the return reason is the lane-registry rule (P162 already has 8
-  stories), not a draft defect. Coverage check against all 8 published P162 stories this
-  session (ST138 flow/everyday; ST140 Gardner showing up through hardship; ST441 maintenance
-  after success; ST443 small next action; ST447/449/451/453 editorial-application angles):
-  NONE carries the Rodia angle — decades-long weekly, unwitnessed, unrewarded physical
-  doing with no audience, no buyer and no protocol structure. The draft's quotes were verified
-  by the drafting teller (2026-10-24); the parked repair list (no absolutes beyond sources,
-  keep split quotes separate) applies only if the draft is revived. QC position: the angle is
-  distinct from the existing 8; whether P162 takes a 9th story is the supervisor's/owner's
-  call under the registry rule.
+- s1b-033 (Rodia / P162): the return reason is the teller-prompt commissioning ladder
+  (rung 3 commissions second stories only for principles that have only ONE story — P162 has
+  8, so the draft is not a commissioning priority), NOT a numerical cap; whether P162 takes
+  another story is the owner's/supervisor's call. REPAIRS APPLIED this session per the
+  return's repair list, both sources re-opened (LAT 1985; PBS SoCal): unsupported absolutes
+  removed or narrowed to the opened text ('no audience, no buyer, no encouragement',
+  'unwitnessed', 'no reward' -> 'working without cranes, scaffolds or assistants', 'spare
+  moments and spare dimes', 'weather, vandals and a city order that they be ripped down');
+  'tile-setter' -> PBS's 'one-time telephone lineman and stone mason'; 'deeded' -> 'sold the
+  property to his neighbor'; 'whole paycheck' -> 'every spare dime'; split quotes kept
+  separate with the sources' attribution clauses; PBS's hedge on its 'something big' line
+  noted in the ledger (body uses the LAT version). story_check 0 errors. Coverage vs the
+  existing 8 P162 stories: only the principle-link clauses were read, so whether any of
+  them carries a neighbouring angle is left EXPLICITLY UNRESOLVED; a full-text comparison is
+  available on request. Status stays 'returned'; registration eligibility is the
+  supervisor's.
 - s1b-036 (Zhuangzi 19.4 ferryman/archer / D096): duplicate of published ST368 (same
   passage, same Legge translation, substantially the same quotes; carriers differ: ctext.org
   vs the METIS PDF). ST368 maps the passage to D073 only; the draft maps it to D096. What

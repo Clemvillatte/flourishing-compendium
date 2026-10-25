@@ -741,6 +741,11 @@
      "t": "2026-10-25T14:55:16+00:00",
      "to": "returned",
      "note": "QC pass 1025x: angle distinct from all 8 P162 stories (clauses checked); disposition under registry rule = supervisor's call"
+    },
+    {
+     "t": "2026-10-25T14:58:00+00:00",
+     "to": "returned",
+     "note": "QC 1025x round 2: repairs applied per return list (absolutes narrowed to opened LAT/PBS text, split quotes separated with attributions, deeded->sold, tile-setter->stone mason); ladder rule read (prioritization, not cap); angle-vs-8-stories question left unresolved; supervisor decides registration eligibility"
     }
    ]
   },
@@ -855,5 +860,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:55:16+00:00"
+ "updated": "2026-10-25T14:58:00+00:00"
 }
