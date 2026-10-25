@@ -113,11 +113,17 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   union with the Dao; Dao shu ("techniques of the Dao"), Zhuangzi passages
   and inner-cultivation lineage teachings; and the argument that the
   "philosophical" versus "religious" Daoism distinction is a modern
-  fabrication, with classical Daoism religious from the beginning. The
-  coverage basis is upgraded from description-only to third-party transcript;
-  status upgraded verified-partial to verified-video per the house
-  convention, with the transcript's no-timestamps and no-playback caveats
-  carried.
+  fabrication, with classical Daoism religious from the beginning. The coverage basis is upgraded from description-only to third-party transcript.
+  STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): this note's
+  earlier claim that the status was upgraded to verified-video was NOT carried
+  into the status line, which still reads verified-partial — and per the
+  section-4 ruling that is the correct outcome: the instructor-credential
+  evidence rests on the host/uploader description, which section 4 of the
+  binding standard (docs/degrees/skill/curriculum-design/Skill.md) does not
+  accept as a credentials basis. The card therefore remains verified-partial
+  with the coverage evidence recorded above; the owner can clear the
+  credentials gate by attaching a biography or institutional page. The
+  no-timestamps and no-playback caveats are carried.
 
 ### M01-D13: Time in Daoist Culture (Livia Kohn, Collaborative Learning)
 
