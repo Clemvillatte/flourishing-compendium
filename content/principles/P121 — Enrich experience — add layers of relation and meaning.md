@@ -28,6 +28,10 @@ Stay with an activity long enough to notice what your actions change. Let what y
 **For example**
 Imagine cooking for a friend. You taste the soup, adjust it and discover what the change did. As you serve it, the meal includes your friend's response.
 
+## Related concepts
+
+- [[P002]] — a separate metaphysical account of events and experience
+
 ## Sources
 
 - [Dewey, Art as Experience (1934), chapter III, Having an Experience](https://people.wou.edu/~girodm/670/having_an_experience.pdf): university-hosted excerpt; the quotation comes from its opening definition.

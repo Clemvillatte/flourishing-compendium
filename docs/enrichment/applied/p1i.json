@@ -1,16 +1,48 @@
 {
- "inline": [],
- "reciprocal": [
-  {
-   "into": "A048 — Act in the right way, at the right time, toward the right objects, in the right manner",
-   "link": "D118 — Speak rarely (guayan)",
-   "why": "A048's reflections ask what cues tell you when to speak; D118 is the Daoist counterpart on speech timing (reticence, few words)"
-  },
-  {
-   "into": "B147 — Listen deeply",
-   "link": "D118 — Speak rarely (guayan)",
-   "why": "Speaking rarely and listening deeply are two framings of the same speech economy"
-  }
- ],
- "notes": "2026-10-20 supervisor: removed link-census phrasing from why clauses before integration."
+  "batch": "p1i",
+  "agent": "supervisor-442ae42a",
+  "reciprocal": [
+    {
+      "into": "B004",
+      "link": "B021",
+      "why": "another application of SN 12.15, directed to the expectations guiding a plan"
+    },
+    {
+      "into": "B021",
+      "link": "B004",
+      "why": "applies conditionality to a quarrel while keeping responsibility in view"
+    },
+    {
+      "into": "B041",
+      "link": "B034",
+      "why": "another MN 10 practice, asking how hindrances arise and are abandoned"
+    },
+    {
+      "into": "B034",
+      "link": "B041",
+      "why": "extends attention to walking and other everyday bodily postures"
+    },
+    {
+      "into": "B088",
+      "link": "E014",
+      "why": "a comparison with bodily habit and self-reported automaticity"
+    },
+    {
+      "into": "D142",
+      "link": "E014",
+      "why": "considers bodily learning and the conditions of practice"
+    },
+    {
+      "into": "P121",
+      "link": "P002",
+      "why": "a separate metaphysical account of events and experience"
+    },
+    {
+      "into": "P064",
+      "link": "B034",
+      "why": "a practical list for investigating a difficulty and how it changes"
+    }
+  ],
+  "inline": [],
+  "notes": "Pending supervisor review and ownership-aware integration. Prepared after mention searches for walking meditation, hindrances, right livelihood, conditionality, automaticity and psychological richness. Relationship clauses use only the repaired pages and opened sources recorded in their ledgers. No enrich_apply run was made; no target outside this band was edited."
 }

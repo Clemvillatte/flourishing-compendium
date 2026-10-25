@@ -29,6 +29,10 @@ Notice how you are supported. Try a comfortable adjustment and see what changes 
 **For example**
 Imagine beginning a writing session with your chair too far from the desk. You bring it closer, let your arms rest and begin again.
 
+## Related concepts
+
+- [[E014]] — considers bodily learning and the conditions of practice
+
 ## Sources
 
 - [Study of Inner Cultivation (Neiye, Guanzi ch. 49), trans. Bruce R. Linnell (2011), Project Gutenberg](https://www.gutenberg.org/cache/epub/38585/pg38585.txt): the passage beginning with the four limbs, and the translator's introduction.

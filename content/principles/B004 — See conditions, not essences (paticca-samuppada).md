@@ -56,4 +56,6 @@ Every state of mind arises from conditions. What's your current state, and what 
 -->
 
 ## Related concepts
+
 - [[T050 — Nagarjuna]]: a thinker to explore alongside the question of conditionality.
+- [[B021]] — another application of SN 12.15, directed to the expectations guiding a plan

@@ -30,6 +30,10 @@ Notice the feeling and ask what might explain it. I can listen to what it brings
 **For example**
 Suppose Sunday evenings bring dread. Write down when it starts, what you expect on Monday and what else is happening. I use this imagined exercise to open questions about the pattern.
 
+## Related concepts
+
+- [[B034]] — a practical list for investigating a difficulty and how it changes
+
 ## Sources
 
 - [William James, The Principles of Psychology, vol. II (Project Gutenberg)](https://www.gutenberg.org/cache/epub/57634/pg57634.txt) — ch. XXV, the emotion theory

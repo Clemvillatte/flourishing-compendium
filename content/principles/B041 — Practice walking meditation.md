@@ -26,6 +26,10 @@ While walking, notice that you are walking. Let the movement be something you at
 **For example**
 Imagine walking along a quiet corridor between meetings. You notice a foot meeting the floor, then realise you are rehearsing an argument. Return attention to the next step.
 
+## Related concepts
+
+- [[B034]] — another MN 10 practice, asking how hindrances arise and are abandoned
+
 ## Sources
 
 - [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html): body sections A.2–3.

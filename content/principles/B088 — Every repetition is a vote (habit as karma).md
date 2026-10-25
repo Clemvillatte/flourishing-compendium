@@ -28,6 +28,10 @@ Take the small action seriously. Choose something worth repeating, notice when y
 **For example**
 Imagine repeatedly interrupting a colleague. Today you let her finish and ask about the point you missed. You have an opportunity to hear what you kept cutting short.
 
+## Related concepts
+
+- [[E014]] — a comparison with bodily habit and self-reported automaticity
+
 ## Sources
 
 - [Dhammapada ch. 9, trans. Acharya Buddharakkhita (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html) — vv. 121-122

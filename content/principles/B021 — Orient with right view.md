@@ -28,6 +28,10 @@ Name what the plan would change. Then look at the hopes you have attached to it.
 **For example**
 Imagine saving for a home because you want stable housing. You also hope owning it will end your need for other people's approval. The budget and the expectation of approval deserve separate examination.
 
+## Related concepts
+
+- [[B004]] — applies conditionality to a quarrel while keeping responsibility in view
+
 ## Sources
 
 - [SN 12.15 Kaccayanagotta Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)

@@ -28,6 +28,10 @@ Notice which obstacle is present. Ask how it began, what helps it subside and wh
 **For example**
 Imagine sitting down to read while silently composing a cutting reply. You recognise ill will, notice what keeps restarting the argument and explore whether you can leave the reply unsent.
 
+## Related concepts
+
+- [[B041]] — extends attention to walking and other everyday bodily postures
+
 ## Sources
 
 - [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html): mental qualities, D.1, the five hindrances.
