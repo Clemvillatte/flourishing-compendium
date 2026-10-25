@@ -1990,3 +1990,17 @@ The advisor's final verification caught overstated records in this session's QC 
   verified verbatim against the Gutenberg carrier; the IUM model
   abstract span verified verbatim against the PMC5088195 record via
   Europe PMC. No edits required.
+
+# Supervisor QC entry 48 — 2026-10-25 05:31Z (supervisor-pplx-1025h)
+
+- fear dossier: QC sample — the Aristotle Rhetoric II.5 definition
+  ("Fear may be defined as a pain or disturbance due to a mental
+  picture of some destructive or painful evil in the future.")
+  verified verbatim against the MIT Classics carrier. No edits
+  required. Session QC sampling closes here: 16 samples today across
+  the published set (all four exemplars, the active bands dos34/
+  dos35/k1e, and nine further published dossiers), all PASS, with two
+  carrier-side encoding artifacts documented (curly apostrophes, HTML
+  anchors/entities) and one carrier-side fetch block noted (MIT
+  Classics intermittent 403 from this sandbox; not a content
+  finding).

@@ -83,3 +83,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~05:31Z supervisor-pplx-1025h: QC sample sadness-and-grief PASS (APA spans verbatim; uwosh carrier family live).
 - 2026-10-25 ~05:33Z supervisor-pplx-1025h: QC sample anxiety PASS (Ohman verbatim; Lazarus definition verbatim in the PMC secondary, honestly attributed).
 - 2026-10-25 ~05:30Z supervisor-pplx-1025h: QC sample uncertainty PASS (Keats + IUM spans verbatim).
+- 2026-10-25 ~05:31Z supervisor-pplx-1025h: QC sample fear PASS (Aristotle Rhetoric verbatim); 16 samples today, all PASS; sampling closed.
