@@ -84,17 +84,33 @@ The hardest cases ask whether a livelihood is worth its terms at all. [The exami
 
 The question finally returns to the person doing the work. [Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action) holds Wang Yangming's doctrine of the unity of knowledge and action: there have never been people who know but do not act; those who are supposed to know but do not act simply do not yet know.
 
-## Where the traditions genuinely disagree
+### Trade, ownership and acquisition
 
-### May human beings be part of the economy's business?
-
-The Buddhist floor names the trade: "business in human beings" is one of the five a lay follower should not engage in ([Thanissaro, AN 5.177](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)). Aristotle's household science, in the Politics, defends something else, ownership and acquisition, as a matter of nature:
+The Buddhist floor and the Greek household science both reach the question of whether a human being may be an item of economic life, and they reach it from opposite sides. The Buddhist text names the trade: "business in human beings" is one of the five a lay follower should not engage in ([Thanissaro, AN 5.177](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)). Aristotle's household science, in the Politics, defends ownership and acquisition as matters of nature:
 
 > "For he is by nature a slave who is capable of belonging to another （and that is why he does so belong）, and who participates in reason so far as to apprehend it but not to possess it; for the animals other than man are subservient not to reason, by apprehending it, but to feelings." ([Aristotle, Politics 1.1254b, Rackham translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1254b))
 
 The same work treats the acquiring as legitimate: "The science of acquiring slaves is different both from their ownership and their direction—that is, the just acquiring of slaves, which is akin to the art of war or that of the chase" ([Aristotle, Politics 1.1255b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1255b)), and grounds it in nature: "this warfare is by nature just. One kind of acquisition therefore in the order of nature is a part of the household art" ([Aristotle, Politics 1.1256b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1256b)).
 
-The Buddhist text prohibits the buying and selling of human beings. The Politics passages defend the owning, acquiring and directing of them. These are different practices, and the passages alone do not establish a direct disagreement about trading people: the sutta says nothing about holding, and the Politics never evaluates the trade. What the two texts do give a reader is the same underlying question from opposite sides, whether a human being may be an item of economic life at all, and two answers that do not meet. I lean toward the Buddhist side of that question, and I state the limit of the comparison rather than manufacture a cleaner one.
+The Buddhist text prohibits the buying and selling of human beings. The Politics passages defend the owning, acquiring and directing of them. These are different practices, and the passages alone do not establish a direct disagreement about trading people: the sutta says nothing about holding, and the Politics passages quoted here do not evaluate buying and selling people. What the two texts do give a reader is the same underlying question from opposite sides, whether a human being may be an item of economic life at all, and two answers that do not meet. I lean toward the Buddhist side of that question, and I state the limit of the comparison rather than manufacture a cleaner one.
+
+## Where the traditions genuinely disagree
+
+### Does low burnout mean high engagement?
+
+The research on what work does to a person holds two schools of thought on how [burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout) and [work engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Work%20engagement) relate, and they predict differently about the same working person.
+
+On one account, described by [Schaufeli](https://www.wilmarschaufeli.nl/publications/Schaufeli/414.pdf) as Maslach and Leiter's, the two are the positive and negative endpoints of a single continuum: engagement's energy, involvement and efficacy are the direct opposites of burnout's exhaustion, cynicism and lack of accomplishment, so a person high on engagement is inevitably low on burnout, and vice versa. On the other account, engagement is a distinct concept negatively related to burnout: a positive, fulfilling work-related state of mind characterised by vigour, dedication and absorption, defined in its own right rather than as burnout's mere absence.
+
+The first model places engagement and burnout on one continuum. The alternative defines engagement separately while expecting a negative relationship. I favour asking about both: I want to know how drained someone feels and what still draws them into their work.
+
+### Is work what life is for?
+
+The classical answer runs through Aristotle, and it is blunt: "Happiness is thought to stand in perfect rest; for we toil that we may rest, and war that we may be at peace" ([Aristotle, Nicomachean Ethics X.7, Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm)). [Pieper](https://clemvillatte.github.io/flourishing-compendium/#card=Leisure), recovering the Greek scholē, gives the same claim its modern defence: the original meaning of leisure has been forgotten in the culture of total work, where "One does not only work in order to live, but one lives for the sake of one's work" ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)).
+
+Pieper calls that outlook an inversion and sets Aristotle's "We work in order to be at leisure", his rendering of the ancient claim, against it, noting that the modern valuation of work differs so sharply from Antiquity and the Middle Ages that the ancient statement is hard to hear as anything but an attack on the basic principles of society ([Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The disagreement turns on whether work is life's governing end or serves something valuable beyond itself. For Pieper, leisure involves stillness, receptive understanding and affirmation; its value extends beyond preparing someone for another shift.
+
+I lean with Pieper here. A livelihood is one of the places a life's hours go, and the hours are for something; I want a livelihood to leave room for things worth doing for their own sake.
 
 ## Practice: variation, selection, retention
 

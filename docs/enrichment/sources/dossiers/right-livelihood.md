@@ -336,3 +336,66 @@ burnout research, Ahimsa, Purpose. Checks re-run after repairs:
 dossier_check exit 0 (59 card links, 14 headers, 8 external carriers);
 dossier_density 0 dense; dossier_quote_verify 8 checked / 0
 not-found.
+
+## Disagreement-repair pass (2026-10-25, worker-pplx-dos22-1025-0600, dos22 baton)
+
+Two new substantiated disagreements added; the AN 5.177 vs Politics
+comparison relocated out of the disagreement section into the main body
+as a bounded comparison (new subsection heading "Trade, ownership and
+acquisition"), per the advisor's ruling that it does not count as a
+demonstrated disagreement. The 3-5 bar now stands at TWO substantiated
+disagreements — still short of the minimum of three; FLAGGED for the
+supervisor/owner rather than manufactured.
+
+Carriers freshly opened and verified this session (fetch tool;
+quotes matched word-for-word against the raw text):
+
+1. Schaufeli, What is Engagement? chapter 1 (wilmarschaufeli.nl 414.pdf)
+   — the two-schools passage: "According to Maslach and Leiter (1997)
+   engagement and burnout are the positive and negative endpoints of a
+   single continuum" and the alternative distinct-concepts view;
+   the absorption definition including "one has difficulties with
+   detaching oneself from work".
+2. Sonnentag & Fritz 2007 (PubMed 17638488) — "four recovery
+   experiences can be differentiated: psychological detachment from
+   work, relaxation, mastery, and control." (Replaced an earlier
+   candidate disagreement on absorption-vs-detachment after the
+   advisor ruled the constructs compatible; the Shimazu et al. 2016
+   curvilinear paper (PMC4939862) was also opened and is recorded
+   here but NOT used — cross-sectional inverted-U finding, judged
+   not to support a causal disagreement claim.)
+3. Pieper, Leisure: The Basis of Culture (iwcinsb.org PDF) — "One
+   does not only work in order to live, but one lives for the sake of
+   one's work" (capitalisation restored to the carrier); "We work in
+   order to be at leisure" identified in the dossier as Pieper's
+   rendering of Aristotle, not the Chase translation's wording; the
+   stillness/receptive-understanding/affirmation characterisation of
+   leisure.
+4. Aristotle, Nicomachean Ethics X.7 (Gutenberg, Chase) — "Happiness
+   is thought to stand in perfect rest; for we toil that we may rest,
+   and war that we may be at peace."
+
+Advisor QC applied before push (two rounds): the first draft's
+"one scale can read a working person's state off another"
+(measurement-conversion overreach) removed; the leisure definition
+recast to a direct statement (no negative-then-redefinition
+scaffold); the unsupported Buddhist-floor attribution ("asks only
+whether the trade does harm") removed; "the Politics never evaluates
+the trade" corrected to "the Politics passages quoted here do not
+evaluate buying and selling people" (passage-level, not
+work-level); Pieper's "One" capitalisation restored; "We work in
+order to be at leisure" attributed as Pieper's rendering.
+
+Checks: dossier_check.py exit 0 (62 card links, 16 headers, 11
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 10 checked / 0 not found.
+
+STATUS: two substantiated disagreements (Maslach-Leiter-vs-Schaufeli
+on the engagement/burnout relation; Pieper-vs-the-work-centred-
+outlook on the telos of work); the 3-5 bar remains UNMET (2 of 3
+minimum). Publication decision remains with the supervisor/owner.
+Rejected candidates this session, recorded to prevent re-litigation:
+Aristotle-rest-vs-Dewey-growth (compatible emphases, no opened
+passage of exclusion), absorption-vs-detachment (compatible
+constructs per the advisor; counterevidence in the
+engagement/detachment coexistence literature).
