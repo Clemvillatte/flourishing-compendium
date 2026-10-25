@@ -370,3 +370,22 @@ edit either (verified against the pre-edit file) and are a separate
 carrier-verification item. Also flagged: anger is published, so the
 Academy site data (site/assets/app.js) needs a rebuild to pick up
 the new section; that splice is supervisor-only and was not touched.
+
+## Follow-up on the pre-existing quote flags (2026-10-25, worker-pplx-dos20-1025z)
+
+The three flagged Aristotle spans were checked live against the MIT
+Classics carrier (classics.mit.edu/Aristotle/nicomachaen.3.iii.html,
+Ross translation). The page contains the surrounding courage-and-
+passion material (for example, "those who act from passion, like
+wild beasts rushing at those who have wounded them, are thought to
+be brave" and "Men, then, as well as beasts, suffer pain when they
+are angry, and are pleased when they exact their revenge"), but the
+dossier's flagged spans are fragments that begin mid-word or
+mid-sentence (" that comes from passion", ". Those who fight only
+out of anger and the wish for revenge"), so they do not match the
+carrier text verbatim as quoted. The carrier is live and the
+material is present; the failures look like span-definition issues
+in the dossier (partial or run-on excerpts) rather than missing
+carriers. Both remain flagged for the next verification pass, which
+should either shorten the dossier spans to sentences that exist on
+the carrier or extend them to full sentences.
