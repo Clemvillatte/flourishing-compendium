@@ -550,3 +550,108 @@ standard.
 - Verification status: verified-partial: identity, access and duration
   verified; coverage rests on the uploader description and must be
   confirmed against the recording before scheduling.
+
+### M08-P17: Keynote Address — Prof. Jeanne Nakamura, NPPA 2025 (National Positive Psychology Association)
+
+- Identity and access: oembed confirms the keynote on the National
+  Positive Psychology Association channel
+  (https://www.youtube.com/watch?v=rZf_4lODOYk); watch page opened
+  2026-10-25. Third International Conference on Positive Psychology
+  (NPPA 2025), held online 28-29 March 2025 on "Cultural Perspectives in
+  Positive Psychology."
+- Duration: 58:11 (watch page, 2026-10-25).
+- Instructor credentials: Prof. Jeanne Nakamura, Claremont Graduate
+  University (per the uploader description; institutional page not
+  opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the limits
+  of attention, flow, and commitments beyond the self — how people
+  allocate limited attention between deep absorption and prosocial
+  commitment, and the relationship between personal fulfillment and
+  dedication to others.
+- Relevant segment: whole keynote, 58:11.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-P18: LSE Events — Prof. Alison Gopnik, Why Children Learn Better (LSE)
+
+- Identity and access: oembed confirms the lecture on the LSE channel
+  (https://www.youtube.com/watch?v=E_bviT3-fbQ); watch page opened
+  2026-10-25. Recorded 11 May 2017, Old Theatre, Old Building; hosted by
+  the LSE Department of Psychological and Behavioural Science, chaired by
+  Prof. Sandra Jovchelovitch.
+- Duration: 1:28:28 (watch page, 2026-10-25).
+- Instructor credentials: Professor Alison Gopnik (per the host
+  description; university page not opened this session).
+- Language: English.
+- Content coverage (host description, read 2026-10-25): studies on how
+  children, older learners and adults learn — preschoolers' ability to
+  infer abstract principles, younger children's greater success at
+  inferring unusual or unlikely principles; connections to socioeconomic
+  status and culture, computational ideas about search and sampling,
+  human life history and neuroscience.
+- Relevant segment: whole lecture, 1:28:28.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the host description and must be
+  confirmed against the recording before scheduling.
+
+### M08-P19: Tsinghua Open Lecture on Positive Psychology for the Post-Pandemic Era (CGTN)
+
+- Identity and access: oembed confirms the lecture on the CGTN channel
+  (https://www.youtube.com/watch?v=hh7IjcYKDyA); watch page opened
+  2026-10-25. Sixth day of Tsinghua University's Global Summer School
+  (GSS) 2020, one of 13 GSS open lectures.
+- Duration: 46:25 (watch page, 2026-10-25).
+- Instructor credentials: Professor Peng Kaiping, dean of Tsinghua
+  University's School of Social Sciences (per the host description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (host description, read 2026-10-25): his experience
+  with positive psychology for optimizing pandemic responses, toward a
+  post-pandemic world.
+- Relevant segment: whole lecture, 46:25.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the host description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S03: Bridging Divides — Thriving in the Multicultural World (Hazel Rose Markus, UCSB SAGE Center)
+
+- Identity and access: oembed confirms the talk on the SAGE CENTER
+  channel (https://www.youtube.com/watch?v=ncFZa_VOkdQ); watch page
+  opened 2026-10-25. Recorded 22 April 2019 at the SAGE Center for the
+  Study of the Mind, University of California, Santa Barbara.
+- Duration: 1:15:17 (watch page, 2026-10-25).
+- Instructor credentials: Hazel Rose Markus, Stanford cultural
+  psychologist (per the event description; university page not opened
+  this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): cultural
+  divides, models of self and agency, multicultural identity, East Asian
+  cultural examples, interdependence, gender divides in STEM, and
+  strategies for bridging divides.
+- Relevant segment: whole talk, 1:15:17.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S05: Mutual Constitution of Culture and the Mind — Insights from Cultural Neuroscience (Shinobu Kitayama, McGill)
+
+- Identity and access: oembed confirms the talk on the Transcultural
+  Psychiatry channel (https://www.youtube.com/watch?v=2WwHwbGvryk);
+  watch page opened 2026-10-25. Part of the Culture, Mind & Brain Speaker
+  Series, Division of Social & Transcultural Psychiatry, Department of
+  Psychiatry, McGill University; held on Zoom.
+- Duration: 50:18 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Shinobu Kitayama, Robert B. Zajonc
+  Collegiate Professor of Psychology and Director of the Culture &
+  Cognition Program, University of Michigan (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): mutual
+  constitution of culture and the mind, with insights from cultural
+  neuroscience.
+- Relevant segment: whole talk, 50:18.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
