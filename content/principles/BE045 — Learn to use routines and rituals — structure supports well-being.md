@@ -21,7 +21,7 @@ For rituals, Norton and Gino ran three experiments in which people who completed
 The original entry's claim that routines "reduce decision fatigue" was not supported by any source opened for this page. Lyons 2016 or Zisberg 2007 is cited at second hand. Norton and Gino 2014 is a set of lab experiments with short-term measures.
 
 **Plain words**
-The routine findings are associations, not causes. The ritual evidence is three small lab studies: lower grief after a loss, with regained control as the measured bridge.
+Two different things travel under this rule. One is the ordinary shape of a week: wake up, meals, work, sleep at roughly the same hours. When that shape breaks, low mood and anxious mood tend to show up with it. The other is ritual, a small act done on purpose after something goes wrong, and its claim is that doing it helps people feel they hold the reins again. The first kind of evidence points together but cannot prove direction; the second comes from three small experiments.
 
 **For example**
 Fix one anchor in your week, such as a regular wake time, and note over a month whether your mood is steadier.

@@ -17,7 +17,6 @@
     "AF038",
     "AF054",
     "AT030",
-    "BE045",
     "BI025",
     "BI030",
     "BI042",
@@ -30,7 +29,8 @@
     "M020",
     "BI024",
     "BI021",
-    "AF071"
+    "AF071",
+    "BE045"
   ],
   "in_progress": null,
   "flagged": {
@@ -52,14 +52,14 @@
     "M017": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
     "M018": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
     "M020": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
-    "BE045": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (evidence-limitation framing); body first-person lines reworded; validator PASS",
+    "BE045": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.55)",
     "BI024": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.67)",
     "BI021": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.57)",
     "AF071": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.56)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:25:44+00:00",
+  "updated": "2026-10-25T12:26:09+00:00",
   "band_done": false,
   "notes": {
     "BI024": {
@@ -79,6 +79,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://ideas.repec.org/a/eee/jobhdp/v170y2022ics0749597822000334.html"
+    },
+    "BE045": {
+      "qc": "Plain-words replicate replaced (0.55 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23398180/"
     }
   }
 }
