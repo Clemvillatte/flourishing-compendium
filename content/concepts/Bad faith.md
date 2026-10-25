@@ -17,6 +17,18 @@ The entry quotes Sartre's most famous case, the café waiter who "attempts to in
 > "There is no doubt I am in a sense a café waiter – otherwise could I not just as well call myself a diplomat or reporter? But if I am one, this cannot be in the mode of being-in-itself. I am a waiter in the mode of being what I am not." (Sartre 1943 [1956: 60])
 > — [quoted in SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)
 
+### The dodge in both directions
+
+The structural formula cuts both ways. The waiter's dodge is to be only the object, to reduce the self to a role as if it were fixed. The opposite dodge is to be only the freedom, to treat the facts of one's situation as nothing, which is the same evasion pointed the other way. The SEP entry's own framing is that bad faith is not error but a motivated and selective oscillation, which is why it is not solved by adding information; the person knows both halves and is avoiding holding them together ([Reynolds & Renaudie, SEP, §4.2](https://plato.stanford.edu/entries/sartre/)).
+
+### The freedom that produces it
+
+Bad faith is only possible because freedom is real. The waiter is not merely a waiter, and the person who pretends to be is exercising a freedom in the pretending. The connection to flourishing is direct: the freedom the dodge refuses is the same freedom the practice is for, which is why the kernels on this page interrupt the necessity phrases rather than argue with them.
+
+### What is at stake in the practice
+
+The practice family this concept sits in treats the dodge as catchable in the moment of its occurring, because the oscillation happens at decisions rather than as a standing state. Pausing at the phrases that name necessity, naming the avoidance, and restating the sentence with the choice visible are all ways of returning the person to holding both the facticity and the freedom at once, which is what the SEP entry's formula says the bad faith refuses.
+
 ## Related concepts
 
 
