@@ -27,5 +27,7 @@
    "from": "supervisor-442ae42a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T12:41:21+00:00"
 }
