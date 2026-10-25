@@ -69,5 +69,7 @@
    "from": "pplx-dos33-1025-0600a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T09:04:22+00:00"
 }
