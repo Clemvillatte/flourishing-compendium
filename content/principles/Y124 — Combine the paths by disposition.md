@@ -37,7 +37,7 @@ A nurse who finds philosophy dry but loves her work treats her shifts as the mai
 ## Philosophy parallels
 
 - **Truth is one, the sages name it many** (Rig Veda 1.164.46)
-- **[[T054 — Shankara|Shankara]]** — the classical exponent of the knowledge path the Gita names for the contemplatively inclined; in his Advaita, liberation is direct knowledge that dissolves ignorance
+- **[[T054 — Shankara|Shankara]]** — the classical exponent of the knowledge path the Gita names for the contemplatively inclined; he commented on the Gita, and in his Advaita "knowledge alone and insights relating to true nature of things... is what liberates" ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara))
 
 ## Sources
 
