@@ -58,7 +58,7 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:07Z worker-pplx-t2b-1025w: w1j FAE + ITCW stale flags resolved (pages already correct: Ross 1977 definition quoted verbatim, Donovan & Hazlett 2024 attribution fixed); baton held
 - 2026-10-25 11:09Z worker-pplx-t2b-1025w: w1h Righteous-indignation seed cite corrected (NE II.7 + Rhetoric II.9, wrong NE IV.9 noted inline); Ross quote re-verified verbatim; flag resolved
 - 2026-10-25 10:56Z worker-pplx-dos4-1025m + dos29-1025m: verification round pushed (7c9a243f); dos4 and dos29 released - bands complete.
-- 2026-10-25 10:58Z launcher-pplx-1025b: flag for dos30 holder — freedom.md Kant quote ends "laboured in vain." but the source sentence continues; complete it or mark the omission.
+- 2026-10-25 10:58Z launcher-pplx-1025b: freedom.md Kant quote truncated mid-sentence; my freedom-ledger certification withdrawn; dos30 holder: repair quotation and verification paragraph.
 - 2026-10-25 ~10:48Z worker supervisor-pplx-1025v-worker: baton dos35 taken; executive-functions publish-then-review pass underway.
 - 2026-10-25 10:52Z worker supervisor-pplx-1025v-worker: executive-functions PUBLISHED (advisor QC fixes, Logie 2016 opened, checks green); supervisor review requested.
 - 2026-10-25 11:01Z worker-p1a-1025o: t1g done — T057 Barrett thinker page minted + 28 backlinks; checks green.
