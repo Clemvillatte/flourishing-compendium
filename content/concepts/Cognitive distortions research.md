@@ -13,6 +13,10 @@ Cognitive distortions are the systematic thinking errors Aaron Beck identified i
 
 > "According to Beck, Rush, Shaw, and Emery (1979), there are seven types of cognitive distortions: (a) selective abstraction (attending to negative aspects of experiences in a selective way), (b) overgeneralisation (believing that a negative outcome will happen in similar situations in the future), (c) catastrophisation (always thinking of the worst on the premise that the worst is most likely to happen), (d) personalisation (inappropriately attributing the cause of external events to oneself), (e) temporal causality or predicting without sufficient evidence (believing that something negative that happened in the past is likely to also occur in the future), (f) self-reference (believing that oneself, especially one's bad performance, is the centre of everyone's attention), and (g) dichotomous thinking (only focusing on the extreme results of a situation, be that a positive or negative one)." (Panourgia & Comoretto, [Stress and Health 2017, PMC5763391](https://pmc.ncbi.nlm.nih.gov/articles/PMC5763391/), summarizing Beck, Rush, Shaw and Emery 1979)
 
+The seven types are worth reading as a list of specific habits rather than as a list of things to avoid, since each names a way a thought can be systematic without being true. Selective abstraction and catastrophisation are attentional; personalisation and self-reference are about where the self is taken to be in the scene; dichotomous thinking is about the resolution of the thinking. The list is therefore not a moral taxonomy but a set of places to look when a reading of a situation feels like it arrived fully formed.
+
+The practical reading is the one the cognitive model rests on: a distortion is identifiable, and what is identifiable can be examined. A person does not need to stop having a thought to notice what the thought is doing, and the noticing is the part the modification operates on. The concept pairs with the Stoic instruction not to add to the impression, since both put the work after the impression arrives and before it is acted on.
+
 ### Here
 
 - [[S046 — Do not add to the impression]]

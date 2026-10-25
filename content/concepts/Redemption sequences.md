@@ -15,6 +15,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The definitions come with a coding practice. In the study the article reports, the key episodes of each narrative were scored, and a narrative was coded as redemption when it transitioned from a negative beginning to a positive conclusion; contamination, a positive event turning negative, was coded the same way (Sawatzki and Thomsen, [section 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)). The article reports that redemption sequences relate to higher well-being (Dunlop 2021; McAdams et al. 2001), whereas contamination sequences are related to more psychological distress (McAdams et al. 2001) ([section 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)).
 
+The term is a description of a shape rather than a recommendation to feel differently about what happened. A redemption sequence is an episode whose ending has taken in the beginning, and the well-being association is with lives that get told that way, not with lives that contain no bad scenes. The coding practice is what keeps the claim empirical: the sequences are found in stories people actually tell about themselves, which means the shape is available to be looked for in any life and does not have to be found before the fact.
+
+A person applying the concept can ask of any hard episode what, if anything, it is now a beginning of, and the question is a way of re-reading rather than of editing. The contamination sequence is the same operation in the other direction, which is why the two are reported together: a life can be told as things that got better or as things that got worse, and the same events will sometimes support both tellings.
+
 ### Here
 
 - [[SE011 — Recognise the narrative structure of self — you are a story]] treats the self as a story and names this bad-to-good shape as one of the recurring forms a life story takes.
