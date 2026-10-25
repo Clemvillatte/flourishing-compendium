@@ -1,0 +1,13 @@
+{
+ "batch": "p1zr",
+ "agent": "worker-pplx-92251348",
+ "reciprocal": [
+  {
+   "into": "BI006",
+   "link": "Placebo effects",
+   "why": "the comparison group that makes the efficacy finding meaningful"
+  }
+ ],
+ "inline": [],
+ "notes": "Tier-2 repair pass (BI006). Records proposed after mention-sweep; Placebo effects card opened and read."
+}

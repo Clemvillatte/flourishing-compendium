@@ -20,9 +20,9 @@ The review covered six research areas (serotonin and its metabolite 5-HIAA in bo
 
 Efficacy is a separate question from mechanism, and it has its own large evidence base. A network meta-analysis of 522 double-blind trials of the acute treatment of adults with major depressive disorder found: "In terms of efficacy, all antidepressants were more effective than placebo, with ORs ranging between 2·13 (95% credible interval [CrI] 1·89–2·41) for amitriptyline and 1·37 (1·16–1·63) for reboxetine" (Cipriani et al., 2018, The Lancet 391(10128):1357-1366, [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC5889788/)). The finding covers the 21 studied drugs, on average, for that population and time frame, not antidepressants in general or any individual's response. The same paper is candid about quality: "46 (9%) of 522 trials were rated as high risk of bias, 380 (73%) trials as moderate, and 96 (18%) as low; and the certainty of evidence was moderate to very low."
 
-**Plain words** "Low serotonin" is a one-breath story, and the breath is the problem. The 2022 umbrella review found it unsupported, and a published reply argues the review overstates. Meanwhile the trials say the studied drugs beat placebo. Both hold at once: the pill can help without the story being true. Treat any one-chemical explanation of a mood as a placeholder.
+**Plain words** A treatment helping and the explanation for that help are different questions. In trials treating episodes of major depression in adults, the 21 studied medicines did better than placebo on average. That finding does not establish that depression is caused by too little serotonin. Researchers disagree about what the serotonin evidence establishes. Improvement after taking an SSRI does not, by itself, show that someone's serotonin was low.
 
-**For example** someone says "my serotonin is low" and takes an SSRI that helps. Both things are true at once: the theory is unsupported and the drug worked in the trials.
+**For example** You improve after starting an SSRI. Ask your prescriber what that improvement can tell you about treatment, and what it cannot establish about the cause of your symptoms. Cognition: separate the observed benefit from the proposed explanation.
 
 ## Psychology parallels
 
