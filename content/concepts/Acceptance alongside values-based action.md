@@ -7,7 +7,7 @@ file: "Acceptance alongside values-based action"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Acceptance and committed action are two components of Acceptance and Commitment Therapy's six-process model, alongside defusion, contact with the present moment, self-as-context and values. The page title is my phrasing of the pairing; ACT's own terms are acceptance and committed action. In the model's first presentation, Hayes and colleagues defined the six components as interlinked rather than sequential.
+Acceptance and committed action are two components of Acceptance and Commitment Therapy's six-process model, alongside defusion, contact with the present moment, self-as-context and values. The page title pairs the two; ACT's own terms are acceptance and committed action. In the six-process model, Hayes and colleagues present the six components as interlinked rather than sequential.
 
 > "The approach combines processes of acceptance and mindfulness with those of commitment and behavioural change to produce increased psychological flexibility and an expanded behavioural repertoire." (Webster, [Introduction to acceptance and commitment therapy](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5), Advances in Psychiatric Treatment 17(4), 2011, Summary)
 
@@ -33,7 +33,7 @@ Acceptance involves attending to thoughts, feelings and bodily sensations withou
 - [[K315]] — a fixed frame plus chosen valued action is the ACT pairing compressed into one exercise
 ## Sources
 
-- Hayes, Strosahl and Wilson, 2011 (the six-process model's first presentation; see the Webster source)
+- Hayes, Strosahl and Wilson, 2011 (see the Webster source)
 
 - [Webster, "Introduction to acceptance and commitment therapy" (Advances in Psychiatric Treatment 17(4), 2011, Cambridge Core)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5) — source for the Summary sentence, the acceptance and committed-action descriptions, the six components and the psychological flexibility aim
 
