@@ -15,6 +15,14 @@ Resilience is positive adaptation in the context of adversity. In Ann Masten's r
 
 The abstract suggests that "resilience is common and that it usually arises from the normative functions of human adaptational systems, with the greatest threats to human development being those that compromise these protective systems." The practical question follows: for children at risk, Masten argues that efforts to promote resilience "should focus on strategies that protect or restore the efficacy of these basic systems."
 
+### What counts as a threat
+
+Masten's definition is precise: "Resilience refers to a class of phenomena characterized by good outcomes in spite of serious threats to adaptation or development. Research on resilience aims to understand the processes that account for these good outcomes" (Masten 2001). The threats that matter are the ones that break the machinery itself: "The great threats to human development are those that jeopardize the systems underlying these adaptive processes, including brain development and cognition, caregiver-child relationships, regulation of emotion and behavior, and the motivation for learning and engaging in the environment" (Masten 2001).
+
+### The view this supports
+
+The review closes against both gloom and rosy optimism: "Our current knowledge justifies a more positive view of normative human capabilities, ordinary parents, and the self-righting power of development than either the gloom-and-doom or the rosy-resiliency perspectives could provide" (Masten 2001). For suffering and flourishing, the practical reading follows from the passages above: resilience is not a rare armor but a set of ordinary systems that adversity threatens and that protection or restoration can keep working.
+
 ## Related concepts
 
 
