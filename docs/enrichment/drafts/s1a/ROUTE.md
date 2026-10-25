@@ -502,3 +502,11 @@ session; commits through 91e1a948 on origin/main):
 - All decisions are yours; nothing has been self-marked ready. The
   owner-board line for this session's baton take is requested via this
   route (storytellers cannot edit OWNER-BOARD directly).
+
+2026-10-25 storyteller-pplx-s1a-1026a: s1a-065's Terebess exchange quotes
+re-verified against a fresh fetch (the Shitou question and answer, the
+"I want to do what I like" exchange, and the "How wondrous, how
+miraculous – chopping wood and carrying water" line all match the
+page's printed wording). With this, every source span across
+s1a-063..075 has been verified this session. Session complete; baton
+release follows.
