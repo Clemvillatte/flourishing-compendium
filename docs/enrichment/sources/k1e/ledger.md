@@ -589,3 +589,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K375 Setback, not relapse
 - Read the full page; the verbatim quote re-verified against the downloaded M&R 3rd ed. PDF text: the "absolute black-or-white perfection goal" passage through "perfection or relapse (Miller, 1996)" and "catch these setbacks early, normalize them" (verbatim; the PDF's own line-break hyphenation "black-orwhite" is a layout artifact, the page's rendering is correct).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K377 Offer two or three options, not one
+- Read the full page; both verbatim quotes re-verified against the downloaded M&R 3rd ed. PDF text: the "not one possibility but a menu of options" sentence (verbatim) and the FRAMES components passage including "Menu of options from which to choose in pursuing change" (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
