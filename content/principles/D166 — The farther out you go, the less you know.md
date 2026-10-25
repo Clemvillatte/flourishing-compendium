@@ -12,36 +12,36 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 166** — The farther out you go, the less you know
 
-Don't exhaust yourself gathering external data: know the world by knowing yourself; the sage knows without going out the door.
+There are questions I can clarify before gathering more information. I bring that thought to chapter 47 of the Daodejing, while taking seriously how sweeping its claim is:
 
-Chapter 47 states the claim in full:
+> "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven." ([Legge, chapter 47](https://www.sacred-texts.com/tao/taote.htm))
 
-> "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven. The farther that one goes out (from himself), the less he knows." (DDJ 47 §1, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+The chapter goes on to describe sages who know without travelling and accomplish their ends without purposeful doing ([chapter 47](https://www.sacred-texts.com/tao/taote.htm)). My everyday application is narrower: before searching for the next destination, course or possession, ask what I hope it will answer.
 
-The same chapter adds that the sages got their knowledge without travelling and gave things their right names without seeing them. The verse contrasts two ways of knowing — going out to gather, and understanding from where one stands — and describes the sages by the second.
+Looking inward also calls for care. Nisbett and Wilson argued that people can have little or no direct introspective access to higher-order cognitive processes and may explain them through plausible causal theories ([1977, abstract on p. 231](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf)). I would treat a story about my motives as something to examine.
 
-(DDJ 47.)
+The question I want to carry into research is more precise: what do I need to learn, and what could count as an answer? I can then seek the evidence the question requires.
 
 **Plain words**
-The chapter contrasts two ways of knowing: going out to gather, and understanding from where you stand. One application for a modern reader: before researching how to get something, try naming what you actually want; the naming may change the search.
+Name the question you hope more information will answer. Examine your own explanation of what you want, and keep room for evidence that changes it.
 
 **For example**
-The traveler who's been everywhere and knows themselves nowhere — the chapter's contrast between distance and depth.
+Imagine comparing postgraduate courses late into the night. You pause to write down what you want to learn and what work you hope to do. In this invented case, those questions help define the next enquiry.
 
 ## Sources
-- [[T036 — Hadot, Pierre]]: the self-transformation-over-information parallel the page lists.
+- [[T036 — Hadot, Pierre]]: further philosophical reading.
 
-- [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 47 §1-2
+- [Tao Te Ching, trans. James Legge, Sacred Texts](https://www.sacred-texts.com/tao/taote.htm): chapter 47.
+- [Nisbett and Wilson, Telling more than we can know (1977)](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf): abstract, p. 231.
 
 ## Psychology parallels
 
-- **The introspection illusion and limits of self-report** (Nisbett and Wilson, 1977)
-- **[[Information overload research|Information overload research]]**
+- **Introspection**: the limits discussed above concern reports of higher-order cognitive processes.
+- [[Information overload research|Information overload research]]: a separate topic for further reading.
 
 ## Philosophy parallels
 
-- **Know thyself**, the Delphic maxim
-- **[[Self-transformation over information|Self-transformation over information]]** (Hadot, Philosophy as a Way of Life)
+- [[Self-transformation over information|Self-transformation over information]]: a separate philosophical comparison.
 
 <!-- fc: reflections
 Where are you currently exhausting yourself gathering external data when the answer is internal? What would knowing yourself actually reveal?
