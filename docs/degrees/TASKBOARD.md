@@ -65,16 +65,20 @@ reference, unique source ids in brackets):
 ## Degree checkpoints
 
 - 2026-10-25 verifier-pplx-1025g (deg-verify-b): Block I-b COMPLETE —
-  md5-odd unattached half fully processed: 95 records from the original
-  enumeration plus SRC-M12-004 (GloPhi Ubuntu/Nepantla), found by an
-  end-of-band inventory audit (24 other md5-odd records without entries
-  are module-attached — qg-*, cmp-*, phil/mind optionalMedia — and
-  outside Block I-b scope). Entries with identity, access, duration,
-  credential basis and coverage basis in verify/deg-mind,
-  deg-therapeutic, deg-philosophy, deg-contemplative, deg-relational,
-  deg-wellbeing, deg-cmp. Statuses use verified-video / verified-page /
-  verified-partial (description-only coverage) per skill section 4, with
-  coverage-basis caveats in each file. Advisor QC round applied: oembed
+  md5-odd unattached half fully processed: every one of the 95 unattached
+  md5-odd records in the current catalog has an evidence entry (exact
+  heading recount, 2026-10-25). SRC-M12-004 (GloPhi Ubuntu/Nepantla) was
+  missed by the original enumeration and caught by the end-of-band
+  inventory audit; 24 other md5-odd records without entries are
+  module-attached — qg-*, cmp-*, phil/mind optionalMedia — and outside
+  Block I-b scope. Entries with identity, access, duration, credential
+  basis and coverage basis in verify/deg-mind, deg-therapeutic,
+  deg-philosophy, deg-contemplative, deg-relational, deg-wellbeing,
+  deg-cmp. Statuses use verified-video / verified-page plus local
+  verified-partial labels for description-only coverage (see the
+  vocabulary note below), with coverage-basis caveats in each file.
+  Verification evidence is complete, with exceptions flagged below —
+  this is not a clean-verification declaration. Advisor QC round applied: oembed
   evidence recorded for all 21 M08 records; wave 15-16 description-only
   entries restated verified-partial; Fredrickson, Markus, Nakamura,
   Goldman, Turner credentials upgraded on opened pages. Flags for owners:
@@ -89,12 +93,15 @@ reference, unique source ids in brackets):
   (re-fetch, 2026-10-25); Dreyfus restored edition (M04-E03) is only 3
   lectures restored — incomplete resource. Many speakers' institutional
   credential pages remain pending (noted per entry; institutional pages
-  were robots-blocked or rate-limited for Bronk and Neff; resolved on
-  opened pages since: Sherman, Meinert, Balasubramanian, Peng, Gopnik,
+  were robots-blocked or rate-limited for Bronk; resolved on opened or
+  retrieved pages since: Sherman, Meinert, Balasubramanian, Peng, Gopnik,
   De Moor, Christakis, Fredrickson, Markus, Nakamura, Goldman, Turner,
   Sadler (supplementary), Niemiec (partial), Shabane, Grigoletto, Mika,
-  Haslam, Kitayama, Hewstone, D. S. Wilson (both entries), Cacioppo —
-  the last four via Wikipedia REST retrieval). Addendum: the supervisor's routed
+  Haslam, Neff, Guzmán and Rogaski/Petrarca remain pending; Kitayama,
+  Hewstone, D. S. Wilson (both entries), Cacioppo, LeDoux, Newport,
+  Shiller, Kraut, Gemes, Huberman, Shweder and A. Phillips were resolved
+  via Wikipedia REST summary retrieval — recorded as secondary
+  biographical summaries, not institutional verifications). Addendum: the supervisor's routed
   AR-05/ST-01 duration flag is RESOLVED — AR-05 watch page re-read 1:14:59
   (catalog 1:15:33 rejected); ST-01 is dual-figure on the page itself
   (player 29:09 vs listing 29:28, catalog matches the listing). Vocabulary
