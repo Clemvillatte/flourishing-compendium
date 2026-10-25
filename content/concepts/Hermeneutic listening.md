@@ -13,7 +13,9 @@ Hermeneutic listening is the kind of listening that Gadamer's philosophical herm
 
 The quote is taken from an open journal article whose footnote 12 cites that page of Truth and Method directly. The same article elaborates that to re-enact the question of a text, one must first learn to listen perceptively for what is said in it, or for what an interlocutor is speaking about ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)).
 
-My principle on deep listening is B147.
+### What the discipline involves
+
+The article's author, Maria Przanowska, works out a hermeneutics of listening in several registers, from unwitting listening to witting listening, and records Gadamer's advice to his students: "You must sharpen your ear" in order to understand ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)). On her account there is no understanding without listening, and the listener is not passively fixed on a sound: "we are the openness which welcomes a question". Even the simplest question must be heard before it can become a real question calling for an answer.
 
 ## Related concepts
 
@@ -25,7 +27,7 @@ My principle on deep listening is B147.
 ## Sources
 
 - Gadamer, Truth and Method
-- [The Hermeneutic Priority of the Question: Cultivating the Hermeneutic Ear (SPI, 2015)](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946): carrier of the Truth and Method p. 461 quotation, opened and verified
+- [Przanowska, M., The Hermeneutic Priority of the Question: Cultivating the Hermeneutic Ear (SPI 18, 2015), DOI 10.12775/SPI.2015.003](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946): carrier of the Truth and Method p. 461 quotation and of the listening passages cited above
 
 ## Cited in philosophy parallels
 
