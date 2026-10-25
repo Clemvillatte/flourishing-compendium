@@ -208,3 +208,33 @@ After this session's 23 drafts (s1a-040 through s1a-062), the regenerated zero-s
 
 - APPROVED and registered: s1a-058 (B160, Kesaputta/Kalamas → ST466, ST-S02.06), s1a-059 (B124, Mumonkan 38 → ST467, ST-S02.06), s1a-060 (D035, Thoreau's twenty-eight dollar house → ST468, ST-S01.02), s1a-061 (P105, Keller's swaying in answer → ST469, ST-S03.07), s1a-062 (P074, Keller's little savage → ST470, ST-S03.05). Rationale: all five target zero-story principles in the owner's priority traditions (Buddhism, Daoism, Pragmatism), which is exactly the owner's storyteller directive; scope extension follows the mission rather than the slice list. Draft front-matter statuses corrected drafting→ready (lane state and teller commits already said ready; leftover bookkeeping). Quotes independently verified by the supervisor against opened carriers before registration (vipassana.com AN 3.65 Kalama Sutta, Wikisource Gateless Gate 38, Gutenberg Walden 205, Gutenberg Keller #2397 with line-wraps rejoined as documented).
 - Standing ruling for future ROUTE requests of this shape: a ready draft targeting a zero-story principle in Daoism/Buddhism/Pragmatism may be registered on the owner's directive; note it in ROUTE and proceed.
+
+## Continuation 2026-10-25 (storyteller-pplx-s1a-1025z, finishing pass on unpublished s1a items)
+
+- s1a-027 (Oxherding, D065): kept qc_pending. Re-verified by me today: all 6 quotes
+  verbatim against the live Terebess page (fetched 2026-10-25, commentary Kubota Ji'un,
+  paintings Yokoo Tatsuhiko as the draft states); story_check 0 errors. BUT the drafting
+  premise has expired: D065 is no longer zero-story — its page now lists ST409 and ST438
+  (ST438 registered from s1b-019). The 1024j standing ruling (register zero-story
+  Daoism targets on owner directive) therefore no longer applies to this draft. A third
+  D065 story is allowed if the angle differs (it does: the cycle narrative vs Bach /
+  the robe parable), but the priority call is the supervisor's. REQUESTING DISPOSITION:
+  register (angle differs) or reject (two stories suffice).
+- s1a-031 (B016, The All Is Aflame), s1a-032 (P192, Django), s1a-036 (D023, The Slowest
+  Vessel): ready, unpublished (no page exists), story_check 0 errors — awaiting
+  supervisor registration. Front matter reconciled to ready (031/032 were stale qc_pending).
+- s1a-042 (B122, Milinda's Chariot) and s1a-043 (D047, Yan Hui): fm was stale `drafting`,
+  reconciled to ready; story_check 0 errors. Verified NOT duplicates: ST065 Nagasena maps
+  B020/B021/B037 (not B122); ST019/ST439 map the mind-fasting passage (D045), not D047
+  zuowang. Awaiting supervisor registration.
+- s1a-035 (Agnes Martin), s1a-037 (af Klint), s1a-039 (Beethoven): confirmed already
+  published as ST488 / ST490 / ST491 with clean titles (the supervisor's registration
+  handled the draft titles' "NN." prefixes). No draft edits made — the prefixes stay as
+  historical record. STATE RECONCILIATION still requested (as in the 1024l entry).
+- s1a-038 (Brancusi, D022): unchanged — mapping rejected by advisor QC, retarget to D034
+  still an untested candidate; supervisor decision still open.
+- s1a-005 (Akko): `returned` state is stale — the replacement was registered as ST367
+  (The Gift Nobody Accepted) on 2026-10-17. Suggest the supervisor close it `rejected`
+  (superseded) during reconciliation.
+- The 20 qc_pending-with-page items from the 1024a ROUTE entry remain awaiting the
+  reconciliation already routed there.
