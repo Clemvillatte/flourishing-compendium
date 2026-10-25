@@ -715,13 +715,30 @@ paths (see the access note).
   https://nubic.northeastern.edu/profile/barrett-lisa/, opened 2026-10-25).
 - Language: English (title in English; lecture series hosted by a Swedish
   faculty body).
-- Content coverage: the page carries no description; the coverage basis is the
+- Content coverage: the page carries no description; the coverage basis was the
   title only (Day 1 of the 2024 Pufendorf Lectures by Lisa Feldman Barrett,
-  "Constructing Emotion"). CONTENT BASIS FLAG: confirm against the recording
-  or transcript before scheduling.
+  "Constructing Emotion"). Coverage-confirmation (2026-10-25): a third-party
+  transcript page
+  (https://youtubetotranscript.com/transcript?v=rgXUQuQQXBo&current_language_code=en,
+  opened 2026-10-25) confirms the lecture's substance on the recording:
+  facial expressions are not universal emotion readouts ("A face does not
+  speak for itself"); facial movements and bodily changes take emotional
+  meaning from context ("physical signals have no inherent emotional
+  meaning"; a racing heart can accompany anxiety, excitement, determination or
+  a lecture); a re-reading of William James against the classic James-Lange
+  misreading; no dedicated brain circuits for particular emotions (amygdala
+  BOLD increases in about 30% of imaging studies and across other states);
+  multiple realizability ("Variation is the norm" in face, body and brain,
+  structured by context); emotions "actually made by you" rather than
+  happening to you; and a Q&A on valence, arousal, Darwin, Damasio's
+  somatic-marker hypothesis and multicultural applications. Caveats:
+  third-party transcript page, no timestamps in the retrieved text; playback
+  itself not opened.
 - Relevant segment: whole lecture, 1:50:04.
-- Verification status: verified-partial (identity, access, duration; coverage
-  basis is the title only).
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier. The title-only CONTENT BASIS FLAG is resolved by this
+  confirmation.
 
 ### M06-AF05: Pufendorf Lectures 2024, Lisa Feldman Barrett — Day 2: Constructing the Mind
 
