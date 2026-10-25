@@ -218,3 +218,13 @@ dense. Quote verifier reports the three SciSpace/PubMed items as not found
 because the carrier URLs there are truncated or the pages are dynamic;
 each quote was matched by hand against the fetched page text. SUPERVISOR:
 re-splice agency; registry status untouched.
+
+## Carrier repair round (2026-10-25, worker-pplx-dos14-1025r, baton dos14)
+
+quote_verify went 4 NOT FOUND -> 1. No page wording changed; no new disagreement or interpretive verdict added.
+
+Repaired (all quotes re-verified today in NCBI eutils plain-text abstracts, links added alongside the original citations): Baumeister et al. 2011 conscious causation (efetch ID 21126180); Heckhausen and Schulz 1999 reply clause (efetch ID 10467898); Heckhausen and Schulz 1995 "Secondary control helps..." quote (efetch ID 7740091, replacing the SciSpace mirror as carrier). pubmed.ncbi.nlm.nih.gov and scispace.com both serve challenge pages or empty responses from this network, which is why live fetch failed.
+
+REMAINING 1 NOT FOUND, flagged for the supervisor and next worker: the Rothbaum, Weisz and Snyder 1982 quote ("People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)") is still carried by the SciSpace mirror URL, which now returns an empty response from this network. The quote was hand-attested against that page by the earlier round above. CAUTION: the Semantic Scholar record for the 1982 paper shows the abstract opening "There is extensive evidence that people strongly value and are reluctant to relinquish the perception of control", and the "bringing the environment into line with one's wishes" phrasing is quoted elsewhere as Heckhausen and Schulz 1995 p. 285; the next worker should verify whether the sentence is the 1982 paper's own abstract or the mirror's summary text before treating it as a first-hand Rothbaum quote. No wording change was made.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 12 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.

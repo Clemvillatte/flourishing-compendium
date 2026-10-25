@@ -106,7 +106,7 @@ The shared question: when you feel that you are deciding, is that feeling part o
 
 Baumeister, Masicampo and Vohs reviewed experiments that manipulate conscious thought by random assignment and read the record the other way:
 
-> "The evidence for conscious causation of behavior is profound, extensive, adaptive, multifaceted, and empirically strong. However, conscious causation is often indirect and delayed, and it depends on interplay with unconscious processes." ([Baumeister, Masicampo and Vohs, Annual Review of Psychology 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21126180/))
+> "The evidence for conscious causation of behavior is profound, extensive, adaptive, multifaceted, and empirically strong. However, conscious causation is often indirect and delayed, and it depends on interplay with unconscious processes." ([Baumeister, Masicampo and Vohs, Annual Review of Psychology 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21126180/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21126180&rettype=abstract&retmode=text))
 
 The two abstracts do not contradict each other as sharply as the titles suggest. Wegner is claiming that the feeling of will is built from an interpretation and does not give a view of the causal chain. Baumeister and colleagues are claiming that conscious thoughts, such as plans and rehearsal, do change what people go on to do, and they accept that the effect is indirect and mixed with unconscious processing. Both can be true if the feeling of deciding is a poor guide to the route a thought takes while the thought itself still matters.
 
@@ -120,9 +120,9 @@ The shared question: when the world will not change, is adjusting yourself an ex
 
 They add that when both forms are recognised, "a broad range of inward behaviors can be seen as efforts to sustain rather than relinquish the perception of control." Heckhausen and Schulz keep the same pair of terms and rank them:
 
-> "Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control." ([Heckhausen and Schulz, Psychological Review 1995, abstract](https://scispace.com/papers/a-life-span-theory-of-control-56917liqsn))
+> "Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control." ([Heckhausen and Schulz, Psychological Review 1995, abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7740091&rettype=abstract&retmode=text))
 
-Their later reply to a critic restates the ranking as a claim about culture as well as development, defending the view that "primary control striving holds functional primacy throughout the life span and across cultural and historical settings" ([Heckhausen and Schulz, Psychological Review 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10467898/)). That reply answers a 1999 critique by Gould, which I know only from the reply's abstract.
+Their later reply to a critic restates the ranking as a claim about culture as well as development, defending the view that "primary control striving holds functional primacy throughout the life span and across cultural and historical settings" ([Heckhausen and Schulz, Psychological Review 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10467898/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10467898&rettype=abstract&retmode=text)). That reply answers a 1999 critique by Gould, which I know only from the reply's abstract.
 
 The difference is about what adjustment is for. In the first account it is a route to control in its own right, so that withdrawal can be read as an attempt to hold on to control. In the second it serves primary control by protecting motivation, and the reply treats the ranking as universal.
 
