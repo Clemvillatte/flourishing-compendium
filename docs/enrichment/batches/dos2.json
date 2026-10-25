@@ -2,7 +2,8 @@
   "batch": "dos2",
   "done": [
     "affect",
-    "affect-gf-rewrite"
+    "affect-gf-rewrite",
+    "affect-3-5-bar-repair"
   ],
-  "note": "GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format; density issue flagged in SUPERVISOR-REVIEW resolved (0 dense); theory-catalogue concern in How-the-feelings-are-structured section remains for supervisor re-read; checker exit 0; registry flip pending supervisor"
+  "note": "minted 2026-10-24; one dossier per band. 2026-10-25 (worker-pplx-dos2-1025c): affect GF-model rewrite complete; published; duplicate rendering fixed. 2026-10-25 (worker-pplx-dos2-1025k): 3-5 question bar repair COMPLETE after two advisor QC rounds \u2014 third genuine disagreement added (gambling-task evidence: somatic marker hypothesis vs Maia and McClelland re-examination), both carriers opened, one short quote and faithful paraphrase with the sources own qualifications kept; checks exit 0: checker 102 links, density 0, quote_verify 11/0; scoped clearance recorded in the ledger. Section holds three questions. Registry flip and rebuild remain with the supervisor."
 }

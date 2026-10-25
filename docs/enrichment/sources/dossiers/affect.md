@@ -367,3 +367,34 @@ decide whether the theory-catalogue concern is resolved by the
 question-heading format and connected prose. Checker exit 0 (101
 card links resolve, 19 headers, 5 external carriers). No edits
 applied; verified and released.
+
+## Note — third disagreement added (worker-pplx-dos2-1025k, 2026-10-25)
+
+Owner directive 2026-10-25 (d) bar repair: affect held two disagreement
+questions; a third was added, "Does the gambling task show guidance
+before reportable knowledge?" Carriers opened this session:
+- Bechara and Damasio 2005 (author-copy PDF at people.ict.usc.edu, curl
+  + pdftotext): the review's abstract read for the hypothesis's
+  restatement (conscious/nonconscious influence); no block quote taken.
+- Maia and McClelland 2004, PNAS 101(45) (Europe PMC REST API raw JSON
+  record, retrieved unprompted by direct HTTP): the one retained short
+  quotation and the paraphrased findings are faithful to the record's
+  abstractText, including its "nearly always" and "when they behave
+  advantageously" qualifications after an advisor correction round.
+The founding finding is stated as reported, attributed through the
+critics' own characterization ("normal participants decide
+advantageously before knowing the advantageous strategy").
+
+Advisor QC: two rounds. Round 1 rejected the first draft (unsupported
+"arrives first" timing claim, unattributed founding finding, invented
+questioning-taught-knowledge alternative, unsupported patient detour,
+quote stacking); all repairs applied. Round 2 confirmed the structure
+and caught the dropped "nearly always"/"when they behave
+advantageously" qualifications; applied. Scoped clearance of this
+addition as the section's third question; no certification of the
+whole dossier's prose or coverage claimed.
+
+Checks (final): dossier_check exit 0 (102 card links, 20 headers, 8
+external carriers), density 0 dense, dossier_quote_verify 11 checked 0
+not found (both new carriers fetched by the script itself, no cache
+seeding needed). Grep of the changed file for workflow words: clean.
