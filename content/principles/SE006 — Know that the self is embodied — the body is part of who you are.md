@@ -28,7 +28,7 @@ On James's account the body is the innermost part of what you count as yours. So
 *For example (my illustration):* When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
 ## Sources
 
-- [William James, *The Principles of Psychology*, vol. I (1890), ch. X "The Consciousness of Self", Project Gutenberg](https://www.gutenberg.org/cache/epub/57628/pg57628.txt): both block quotations, checked against the text. The page previously cited Barrett et al. (2019) and Craig (2009) in a footnote line without a link; I did not open those and removed the line.
+- [William James, *The Principles of Psychology*, vol. I (1890), ch. X "The Consciousness of Self", Project Gutenberg](https://www.gutenberg.org/cache/epub/57628/pg57628.txt): both block quotations, checked against the text. An earlier version of this page cited Barrett et al. (2019) and Craig (2009) in a footnote without a link; that line was removed because the claims it supported are carried by the opened sources below.
 
 ## Psychology parallels
 
