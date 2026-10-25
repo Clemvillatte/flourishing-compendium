@@ -738,6 +738,38 @@ attach them with evidence on file.
 - Relevant segment: whole conversation, 1:07:41.
 - Verification status: verified-video.
 
+### SRC-M12-006: Daoism 1 of 6, Making THIS Life Significant (Roger Ames, Alanus University)
+
+- Identity and access: oembed confirms the recording on the danfelixmueller channel
+  (https://www.youtube.com/watch?v=KwTSmAjlPKo). PROVENANCE FLAG: this is a
+  third-party upload (a video by Indaba e.V.) of a public lecture at Alanus
+  University, Alfter, Germany; the university did not publish it.
+- Duration: 0:09:35 (watch page, 2026-10-25). NOTE: this is part 1 of 6 of the
+  lecture; the owner should attach the remaining segments or note the series.
+- Instructor credentials: Prof. Dr. Roger T. Ames, University of Hawaii, described
+  as one of the best renowned translators and interpreters of Chinese philosophy
+  (per the uploader description).
+- Language: English (lecture in Germany).
+- Content coverage: the uploader description states the lecture rethinks modern
+  education in the light of Daoism, under the title Making THIS Life Significant.
+- Relevant segment: this segment, 0:09:35; series of 6 segments total.
+- Verification status: verified-video, with the provenance and segment flags
+  noted.
+
+### SRC-M12-008: Daoist Philosophy II, Zhuangzi Part 2 (Jenny Hung, SDCF)
+
+- Identity and access: oembed confirms the lecture on the SDCF Sinological
+  Development Charitable Foundation channel
+  (https://www.youtube.com/watch?v=hKpxwiCrVPw).
+- Duration: 1:14:36 (watch page, 2026-10-25).
+- Instructor credentials: Professor Jenny Hung, presenting in the SDCF Summer
+  Program of 2024 (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture explains the
+  philosophy of Zhuangzi; this is part 2 of the Daoist Philosophy II lecture.
+- Relevant segment: whole lecture part, 1:14:36.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15

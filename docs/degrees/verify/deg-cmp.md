@@ -8,3 +8,22 @@ verified-audio; none is still labelled imported. Per the queue's re-check rule f
 Block H, no record required re-verification, so no per-source evidence entries are
 needed in this file. If the owner wants belt-and-braces spot checks, the most
 recently added qigong/cmp sources would be the place to start.
+
+## Block I batch (verified 2026-10-25)
+
+### QI-01: A Brief History of Qi (Heiner Fruehauf, Stanford Contemplation by Design)
+
+- Identity and access: oembed confirms the presentation on the Stanford
+  Contemplation by Design channel
+  (https://www.youtube.com/watch?v=87UT-MU_c5A).
+- Duration: 1:20:22 (watch page, 2026-10-25).
+- Instructor credentials: Heiner Fruehauf, Ph.D., Founding Professor of the College
+  of Classical Chinese Medicine at the National University of Natural Medicine in
+  Portland, Oregon (per the host description).
+- Language: English.
+- Content coverage: the host's description states the presentation explores the
+  philosophical concepts surrounding vital energy in China and their historical
+  development, including the cultural background and practical applications of qi
+  in Chinese medicine, nourishing life practices and the martial arts.
+- Relevant segment: whole presentation, 1:20:22.
+- Verification status: verified-video.
