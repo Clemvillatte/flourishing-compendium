@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 42** — Learn by doing
 
-In chapter 6 of *Democracy and Education*, Dewey uses a small example to say what learning from experience involves. He writes of "a child who reaches for a bright light gets burned. Henceforth he knows that a certain act of touching in connection with a certain act of vision (and vice-versa) means heat and pain; or, a certain light means a source of heat." He then sets the scientist beside the child: "The acts by which a scientific man in his laboratory learns more about flame differ no whit in principle" ([Dewey, *Democracy and Education*, 1916, ch. 6, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)).
+In chapter 6 of *Democracy and Education*, Dewey uses a small example to say what learning from experience involves. He writes: "To recur to our simple example, a child who reaches for a bright light gets burned. Henceforth he knows that a certain act of touching in connection with a certain act of vision (and vice-versa) means heat and pain; or, a certain light means a source of heat." He then sets the scientist beside the child: "The acts by which a scientific man in his laboratory learns more about flame differ no whit in principle" ([Dewey, *Democracy and Education*, 1916, ch. 6, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)).
 
 Dewey says what both are doing: "By doing certain things, he makes perceptible certain connections of heat with other things, which had been previously ignored" (same chapter). On his account, the doing makes visible connections that were there all along.
 
