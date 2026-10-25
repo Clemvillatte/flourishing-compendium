@@ -454,15 +454,16 @@ standard.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 
-### SRC-M08-S27: Belonging — the Science and Solace of Good Relationships (positiveorgs.bus.umich.edu) — NOT VERIFIED
+### SRC-M08-S27: Belonging — the Science and Solace of Good Relationships (positiveorgs.bus.umich.edu) — NOT VERIFIED (retry attempted 2026-10-25)
 
 - Identity and access: NOT VERIFIED. The catalog page
   https://positiveorgs.bus.umich.edu/videos/belonging-the-science-and-solace-of-good-relationships/
-  returned an HTTP client error on a single fetch attempt (2026-10-25);
-  no retry was made per the no-retry rule for blocked pages. Identity
-  rests on the catalog title only.
-- Verification status: unverified (page blocked, 2026-10-25) — retry
-  permitted in a later session.
+  was retried once this session (2026-10-25, worker-pplx-degrees-1,
+  deg-verify-b) and still returned an HTTP client error; the retry is
+  spent. Identity rests on the catalog title only.
+- Verification status: unverified (page blocked after the permitted
+  retry, 2026-10-25) — further attempts should use a genuinely
+  different route or environment.
 
 ### M08-P05: Meng-Wu Lecture — Barbara L. Fredrickson (CCARE at Stanford)
 
@@ -496,15 +497,42 @@ standard.
   verified; coverage basis is the watch page's chapter list (not a prose
   description) — flagged for confirmation against the recording.
 
-### M08-P07: Is it possible to become happier and, if yes, how? — IDENTITY ONLY
+### M08-P07: Is it possible to become happier and, if yes, how? — verified-partial (2026-10-25, worker-pplx-degrees-1, deg-verify-b retry)
 
-- Identity and access: oembed (re-confirmed by direct retrieval,
-  2026-10-25) identifies the video on the Missouri State University
-  channel (https://www.youtube.com/watch?v=ohsAWiCC0YE) but the watch
-  page returned broken-content errors on a single fetch attempt
-  (2026-10-25); no retry made per the no-retry rule.
-- Verification status: unverified beyond identity (blocked watch page,
-  2026-10-25) — retry permitted in a later session.
+- Identity and access: oembed re-confirmed this session on the Missouri
+  State University channel
+  (https://www.youtube.com/watch?v=ohsAWiCC0YE), read 2026-10-25; and
+  the WATCH PAGE OPENED this session (2026-10-25) — streamed live Apr
+  6, 2017, 2,638 views. No paywall or login.
+- Duration: 1:05:48 (watch page player, read 2026-10-25).
+- Instructor credentials: Sonja Lyubomirsky, Professor, Department of
+  Psychology, University of California, Riverside (basis: Wikipedia,
+  opened 2026-10-25,
+  https://en.wikipedia.org/wiki/Sonja_Lyubomirsky — a tertiary source,
+  used because her laboratory site and the UCR faculty page were
+  robots-blocked from this fetcher this session; the watch-page
+  description independently names "Sonja Lyubomirsky, Professor of
+  Psychology" as presenter).
+- Language: English.
+- Content coverage: uploader description (watch page, read 2026-10-25)
+  plus a third-party transcript attributed to this video
+  (youtubetotranscript.com, opened 2026-10-25, no timestamps
+  printed) — Lyubomirsky's lecture on the science of increasing
+  happiness: benefits associated with happiness (productivity,
+  relationships, health, longevity); whether happiness can change
+  (genetics, personality, hedonic adaptation); and happiness-increasing
+  practices (gratitude, kindness, optimism, exercise, forgiveness,
+  helping others, investing in relationships) with research on dose,
+  personal fit and social support, including a study in Japan where
+  employees recorded three things that went well each week. The watch
+  page prints a chapter list that ends at 46:23 while the player
+  duration is 1:05:48 — the chapters may cover only part of the
+  recording (possible Q&A remainder); flagged.
+- Relevant segment: whole lecture, 1:05:48.
+- Verification status: verified-partial — identity, access and
+  duration verified; coverage rests on the uploader description and a
+  third-party transcript; confirm against the recording before
+  scheduling; chapter-list/duration mismatch flagged.
 
 ### M08-P11: The Dual Role of Character Strengths — Dr. Ryan Niemiec (VIA Institute)
 
@@ -954,13 +982,33 @@ standard.
   verified; coverage rests on the uploader description and must be
   confirmed against the recording before scheduling.
 
-### M08-S26: Collective Intelligence (MIT Comparative Media Studies) — IDENTITY ONLY
+### M08-S26: Collective Intelligence (MIT Comparative Media Studies) — content partial; duration NOT established (2026-10-25, worker-pplx-degrees-1, deg-verify-b retry)
 
-- Identity and access: oembed (re-confirmed by direct retrieval,
-  2026-10-25) identifies the video as "Collective Intelligence" on the
-  MIT Comparative Media Studies/Writing channel
-  (https://www.youtube.com/watch?v=JAPg8NgINUU) but the watch page
-  returned broken-content errors on a single fetch attempt
-  (2026-10-25); no retry made per the no-retry rule.
-- Verification status: unverified beyond identity (blocked watch page,
-  2026-10-25) — retry permitted in a later session.
+- Identity and access: oembed re-confirmed this session: "Collective
+  Intelligence" on the MIT Comparative Media Studies/Writing channel
+  (https://www.youtube.com/watch?v=JAPg8NgINUU), read 2026-10-25. The
+  watch page still could not be fetched from this environment
+  (JS/IP-blocked, 2026-10-25); no paywall or login is indicated by any
+  opened page, and playback was not confirmed here.
+- Content coverage: a third-party summary service (videohighlight.com,
+  opened 2026-10-25) attributes to this video an October 2007 MIT
+  Communications Forum panel on the theory and practice of collective
+  intelligence, with emphasis on Wikipedia and aggregated intellectual
+  work, naming Karim R. Lakhani (Harvard Business School assistant
+  professor), Thomas W. Malone (founder of MIT's Center for Collective
+  Intelligence) and Alex (Sandy) Pentland (director of the MIT Media
+  Lab's Human Dynamics research program). Basis is a third-party
+  summary of the recording's description, NOT a transcript; the
+  transcript route returned a client error for this video this session.
+  NOT CONFLATED: the MIT Learn catalog page "Collective Intelligence"
+  (learn.mit.edu, opened 2026-10-25 — 103 min, Sep 28, 2018, a panel
+  with Kurant, Helmreich, Jones, Haar Horowitz and Montfort) is a
+  DIFFERENT recording and its 103-minute duration is NOT attributed to
+  this video; that page embeds no YouTube ID.
+- Duration: NOT established this session — no route yielded a duration
+  figure attributable to this video.
+- Verification status: verified-identity (oembed) with content
+  classification supported by a third-party summary of the description;
+  duration and transcript coverage flagged for the next verifier; no
+  playback confirmation from this environment; retry of the watch page
+  from a different environment permitted in a later session.

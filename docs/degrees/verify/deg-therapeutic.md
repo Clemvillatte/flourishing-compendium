@@ -100,24 +100,45 @@ SRC-M27-004 (duplicate record; directly verified above).
 - Verification status: verified-partial (identity, access to the YouTube video,
   duration; commercial-uploader access ruling and credentials pending).
 
-### SRC-M09-005: SA HIV ATTC — Stephen Rollnick Lecture on Motivational Interviewing
+### SRC-M09-005: SA HIV ATTC — Stephen Rollnick Lecture on Motivational Interviewing — verified-partial (2026-10-25, worker-pplx-degrees-1, deg-verify-b retry)
 
-- Identity and access: oembed confirms the lecture on the South Africa HIV
-  ATTC channel (https://www.youtube.com/watch?v=SAntO8nLDMQ); oembed read
-  2026-10-25. The watch page could not be fetched from this session's
-  environment (repeated fetcher failures), so duration and content basis are
-  NOT verified this session.
-- Instructor credentials: Stephen Rollnick, Honorary Distinguished
-  Professor, School of Medicine, Cardiff University; co-developer of
-  motivational interviewing (Cardiff honorary-staff page is robots-blocked
-  from this fetcher; opened basis: Wikipedia,
-  https://en.wikipedia.org/wiki/Stephen_Rollnick, 2026-10-25).
-- Language: English (title).
-- Content coverage: unknown from opened pages this session; title indicates a
-  lecture on motivational interviewing for the South Africa HIV Addiction
-  Technology Transfer Center.
-- Verification status: verified-identity-only (oembed); DURATION AND CONTENT
-  FLAGGED for the next verifier (read the watch page and transcript).
+- Identity and access: oembed re-confirmed this session on the South
+  Africa HIV ATTC channel
+  (https://www.youtube.com/watch?v=SAntO8nLDMQ), read 2026-10-25. The
+  watch page still could not be fetched from this environment
+  (JS-required, 2026-10-25); no paywall or login is indicated by any
+  opened page, and playback was not confirmed here.
+- Duration: 0:56:13 — basis is the YouTube watch-page metadata as
+  surfaced in a web-search listing (read 2026-10-25: "South Africa
+  HIV ATTC — May 19, 2019 (0:56:13)"), NOT a direct watch-page
+  read; flagged with that caveat. The lecture was hosted 12 March
+  2019 per the uploader description surfaced in the same listing.
+- Instructor credentials: Stephen Rollnick, co-founder of motivational
+  interviewing, Professor (ATTC Network institutional page for this
+  lecture, opened 2026-10-25,
+  https://attcnetwork.org/products_and_resources/lecture-on-motivational-interviewing-by-stephen-rollnick/);
+  Honorary Distinguished Professor, School of Medicine, Cardiff
+  University (basis: Wikipedia, opened 2026-10-25, as recorded in the
+  earlier pass above; the Cardiff honorary-staff page remains
+  robots-blocked from this fetcher).
+- Language: English.
+- Content coverage (third-party transcript attributed to this video,
+  youtubetotranscript.com, opened 2026-10-25, no timestamps printed):
+  Rollnick on motivational interviewing in healthcare — directing vs
+  skillful guiding; engaging, focusing, evoking and planning
+  processes; a brief consultation demonstration with a person using
+  methamphetamine experiencing homelessness, with reflective
+  listening and open questions identified by the audience; ambivalence
+  and change talk; the co-founder account of MI's origins and the
+  mention of more than 1,200 randomized controlled trials; and
+  practical suggestions (shift from problem-solver to guide; give
+  advice by connecting first). Corroborated by the ATTC Network page
+  for the same lecture (opened 2026-10-25).
+- Verification status: verified-partial — identity, credentials and
+  content classification supported; duration rests on search-listing
+  metadata, not a direct watch-page read, and playback was not
+  confirmed from this environment; confirm against the recording
+  before scheduling.
 
 ### M16-C01: Meng Wu Lecture — Paul Gilbert, PhD
 

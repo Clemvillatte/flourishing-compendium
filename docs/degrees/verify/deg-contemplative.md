@@ -1357,15 +1357,16 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Verification status: verified-page (2026-10-25); coverage is
   title-only, flagged for confirmation against the recording.
 
-### M05-YV-04: The Yoga Sutras of Patanjali — Prof. Ed Bailey (yoga.org) — NOT VERIFIED
+### M05-YV-04: The Yoga Sutras of Patanjali — Prof. Ed Bailey (yoga.org) — NOT VERIFIED (retry attempted 2026-10-25)
 
 - Identity and access: NOT VERIFIED. The catalog page
   https://yoga.org/videos/the-yoga-sutras-of-patanjali-prof-ed-bailey/
-  returned an HTTP client error on a single fetch attempt
-  (2026-10-25); no retry was made per the no-retry rule for blocked
-  pages. Identity rests on the catalog title only.
-- Verification status: unverified (page blocked, 2026-10-25) — retry
-  permitted in a later session.
+  was retried once this session (2026-10-25, worker-pplx-degrees-1,
+  deg-verify-b) and still returned an HTTP client error; the retry is
+  spent. Identity rests on the catalog title only.
+- Verification status: unverified (page blocked after the permitted
+  retry, 2026-10-25) — further attempts should use a genuinely
+  different route or environment.
 
 ### SRC-M12-004: Ubuntu as a Particular Universal and Nepantla as a Transitional Space (GloPhi, Universität Hildesheim)
 

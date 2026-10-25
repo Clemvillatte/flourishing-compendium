@@ -1309,13 +1309,38 @@ against the recording or transcript before the record is attached to a module.
 - Verification status: verified-page (2026-10-25), approximate duration
   only.
 
-### M06-AF07: Making the Most of Our Emotions (University of Melbourne)
+### M06-AF07: Making the Most of Our Emotions (University of Melbourne) — verified-partial (2026-10-25, worker-pplx-degrees-1, deg-verify-b retry)
 
-- Identity and access: oembed confirms the video on The University of
-  Melbourne channel (https://www.youtube.com/watch?v=n4guVd7bNaU); the
-  watch page could not be fetched from this session's environment
-  (repeated fetcher failures, 2026-10-25), so duration and content basis
-  are NOT verified this session.
-- Verification status: verified-identity-only (oembed); duration and
-  content coverage flagged for the next verifier (read the watch page and
-  description).
+- Identity and access: oembed re-confirmed this session: "Making the
+  Most of Our Emotions" on The University of Melbourne channel
+  (https://www.youtube.com/watch?v=n4guVd7bNaU), read 2026-10-25. The
+  watch page still could not be fetched from this environment
+  (JS-required, 2026-10-25); no paywall or login is indicated by any
+  opened page, and playback was not confirmed here.
+- Duration: 0:59:16 — basis is the YouTube watch-page metadata as
+  surfaced in a web-search listing (read 2026-10-25: "The University
+  of Melbourne — Aug 02, 2019 (0:59:16)"), NOT a direct watch-page
+  read; flagged with that caveat. Published Aug 2, 2019.
+- Instructor credentials: James J. Gross, Ernest R. Hilgard Professor
+  of Psychology at Stanford University and director of the Stanford
+  Psychophysiology Laboratory (Stanford Department of Psychology
+  faculty page, opened 2026-10-25,
+  https://psychology.stanford.edu/people/james-gross); the listing
+  also names him 2019 Brotherton Fellow, University of Melbourne.
+- Language: English.
+- Content coverage (third-party transcript attributed to this video,
+  youtubetotranscript.com, opened 2026-10-25, no timestamps printed):
+  Gross's lecture on emotions and emotion regulation — whether emotions
+  help or hurt; what emotions are (changes in subjective experience,
+  physiology and expressive behaviour); the five families of regulation
+  strategies (situation selection, situation modification, attention
+  deployment, reinterpretation, response modification); research
+  comparing suppression and rethinking (suppression reduces expression
+  but not feelings and raises physiological load; rethinking reduces
+  both and calms physiology); and applications (temptation management;
+  a rethinking intervention in the Israeli-Palestinian conflict).
+- Verification status: verified-partial — identity, credentials and
+  content classification supported; duration rests on search-listing
+  metadata, not a direct watch-page read, and playback was not
+  confirmed from this environment; confirm against the recording
+  before scheduling.

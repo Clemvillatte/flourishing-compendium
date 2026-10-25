@@ -195,6 +195,28 @@ still blocks module production.
   coverage basis); 9 speakers' credential pages still to be opened (see the
   credential note in the file). Block F started.
 
+- 2026-10-25 13:28Z worker-pplx-degrees-1 (deg-verify-b): blocked-record
+  retry round COMPLETE — four identity-only videos and two blocked
+  catalog pages processed (entries in verify/deg-mind.md,
+  verify/deg-therapeutic.md, verify/deg-wellbeing.md,
+  verify/deg-contemplative.md): M08-P07 upgraded to verified-partial
+  (watch page opened: duration 1:05:48, Lyubomirsky lecture, Missouri
+  State; transcript + description coverage; chapter list ends 46:23
+  vs player 1:05:48 flagged); M06-AF07 upgraded to verified-partial
+  (third-party transcript: Gross emotion-regulation lecture;
+  credentials on the Stanford faculty page; duration 0:59:16 from
+  search-listing metadata, watch page still JS-blocked);
+  SRC-M09-005 upgraded to verified-partial (third-party transcript:
+  Rollnick MI lecture; ATTC Network institutional page corroborates;
+  duration 0:56:13 from search-listing metadata); M08-S26 content
+  partial via third-party summary (2007 MIT Communications Forum panel,
+  Lakhani/Malone/Pentland) — duration NOT established, and the
+  learn.mit.edu 2018 panel (103 min) is a DIFFERENT recording, not
+  conflated; M05-YV-04 (yoga.org) and SRC-M08-S27 (umich positiveorgs)
+  retried once and still blocked — retries spent, genuinely different
+  routes needed. Watch pages remain JS/IP-blocked from this
+  environment except M08-P07; playback not confirmed elsewhere.
+
 - 2026-10-25 worker-pplx-psychdim-1 (superseding checkpoint; corrects the
   one above): lecture 7 chapter 4 (perception) HAS now been read and
   content-verified, along with lecture 11 chapter 3 (facial expressions

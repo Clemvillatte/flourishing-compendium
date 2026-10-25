@@ -1,10 +1,10 @@
 {
  "band": "deg-verify-b",
  "kind": "shared-verify",
- "holder": null,
- "phase": "awaiting-launch",
+ "holder": "worker-pplx-degrees-1",
+ "phase": "blocked-record retry round COMPLETE (2026-10-25 13:28Z): M08-P07, M06-AF07, SRC-M09-005 upgraded to verified-partial; M08-S26 content partial (duration not established); M05-YV-04 and SRC-M08-S27 retries spent, still blocked \u2014 different routes needed",
  "manifest": "assigned blocks in TASKBOARD.md (never overlap with the other verify baton)",
  "writes_only": "docs/degrees/verify/",
- "notes": "See TASKBOARD.md",
- "updated": "2026-10-25T07:19:45+00:00"
+ "notes": "See TASKBOARD.md checkpoint 2026-10-25 13:28Z. Manifest blocks C/D/F/G + I-b were completed by earlier holders; this session ran the permitted identity-only and blocked-page retries.",
+ "updated": "2026-10-25T13:28:00+00:00"
 }
