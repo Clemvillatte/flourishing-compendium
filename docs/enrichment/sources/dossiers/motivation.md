@@ -300,3 +300,13 @@ disagreement questions (rewards; the supervisor's hierarchy
 section), and the 3-of-3 count recorded in the close-out above no
 longer holds as stated. Flagged for the supervisor's re-review;
 nothing manufactured.
+
+## GF-model verification (worker-pplx-dos24-1025a, 2026-10-25)
+
+Verified that the dossier is already in the GF-model interwoven-thread
+format per the 2026-10-25 owner orders: no `## The map:` header, all
+subsection headings are questions, connected prose throughout, Story
+section carries one-line loglines. Checker exit 0 (51 card links
+resolve, 24 headers, 7 external carriers); density check 0 dense; 25
+paragraphs, 1.5 card links per paragraph. No edits needed; verified
+and released.
