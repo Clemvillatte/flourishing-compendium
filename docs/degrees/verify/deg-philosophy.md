@@ -1099,3 +1099,75 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Verification status: verified-partial (identity of the series and access
   verified; the lecturer is unnamed on the page; coverage basis is the
   uploader description).
+
+### M01-P04: Introduction to Process Philosophy (Intro to PCC, CIIS)
+
+- Identity and access: oembed confirms the lecture on the Footnotes2Plato
+  channel (https://www.youtube.com/watch?v=oTogDiejEvk); watch page opened
+  2026-10-25. The description ties it to Introduction to Philosophy,
+  Cosmology, and Consciousness at the California Institute of Integral
+  Studies. INDEPENDENT-CHANNEL FLAG: the uploader is a personal scholarly
+  channel, and the page does not name the speaker.
+- Duration: 1:09:55 (watch page, 2026-10-25).
+- Instructor credentials: unnamed on the page (independent channel tied to
+  a CIIS course); SPEAKER-IDENTITY FLAG.
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): an introduction
+  to process philosophy.
+- Relevant segment: whole lecture, 1:09:55.
+- Verification status: verified-partial (identity, access, duration; the
+  speaker is unnamed on the page; coverage basis is the title and course
+  tie).
+
+### M01-P08: John Dewey, Democracy and Education — Stephen Hicks (Philosophers, Explained)
+
+- Identity and access: oembed confirms the episode on the CEE Video Channel
+  (https://www.youtube.com/watch?v=JOt0QNxHCG4); watch page opened
+  2026-10-25. Philosophers, Explained series.
+- Duration: 56:16 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Stephen Hicks, series presenter (per the
+  description; an institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the pragmatic,
+  democratic education theory in John Dewey's 1916 Democracy and
+  Education, focusing on chapters 1 and 7.
+- Relevant segment: whole episode, 56:16.
+- Verification status: verified-video (2026-10-25); Hicks credentials from
+  the description, institutional page pending.
+
+### M01-P10: Bergson's Elan Vital and Vitalism (Michael Sugrue)
+
+- Identity and access: oembed confirms the lecture on the Michael Sugrue
+  channel (https://www.youtube.com/watch?v=0-JN_vf9EFo); watch page opened
+  2026-10-25. The page identifies this as Dr. Sugrue's official channel and
+  an archive of his lectures (BA University of Chicago, PhD Columbia
+  University, per the description).
+- Duration: DUAL FIGURES — page details show 39:53 while the player
+  displays 45:15 (2026-10-25); the owner should reconcile before workload
+  arithmetic.
+- Instructor credentials: Dr. Michael Sugrue (per the description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (page, read 2026-10-25): Bergson's élan vital and
+  vitalism (title basis; the description adds no further content).
+- Relevant segment: whole lecture (duration to reconcile).
+- Verification status: verified-partial (identity, access; dual-figure
+  duration; coverage basis is the title only).
+
+### M01-P19: Process Philosophy in Bergson and Whitehead (dialogue with Pedro Brea)
+
+- Identity and access: oembed confirms the dialogue on the Footnotes2Plato
+  channel (https://www.youtube.com/watch?v=QXI4iz1rIlY); watch page opened
+  2026-10-25. INDEPENDENT-CHANNEL FLAG as M01-P04.
+- Duration: 59:13 (watch page, 2026-10-25).
+- Instructor credentials: Pedro Brea, dialogue guest (a philpeople.org
+  profile is linked; institutional page not opened this session).
+- Language: English.
+- Content coverage (page chapters, read 2026-10-25): Brea's academic
+  journey, overcoming scientific materialism, Bergson and Whitehead, time,
+  space and reality, ontology of becoming, theological substructures,
+  probability and potentiality, future research and community. No written
+  description on the page — chapter-heading basis.
+- Relevant segment: whole dialogue, 59:13.
+- Verification status: verified-partial (identity, access, duration;
+  coverage basis is the chapter headings; independent channel).
