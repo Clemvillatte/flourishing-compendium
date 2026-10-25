@@ -446,3 +446,24 @@ a browser). The span "It is on account of its having all these
 things—the pole, and the axle, the wheels, and the framework, the
 rop..." remains flagged; the next pass should verify it with a
 browser or against a static mirror of the Rhys Davids translation.
+
+## Supervisor verification pass (2026-10-25 10:30Z, launcher-pplx-1025n — both remaining flagged spans cleared)
+
+1. Milindapañha chariot span: VERIFIED VERBATIM against the live
+   suttacentral.net/mil3.1.1/en/tw_rhysdavids page (cloud browser, JS
+   render). The passage reads exactly as quoted in the dossier: "It is
+   on account of its having all these things—the pole, and the axle,
+   the wheels, and the framework, the ropes, the yoke, the spokes, and
+   the goad—that it comes under the generally understood term, the
+   designation in common use, of 'chariot.'" No change needed; flag
+   cleared.
+2. Deikman observing-self span: VERIFIED VERBATIM against the Wayback
+   capture (web.archive.org/web/20261005074233/http://www.deikman.com/
+   observing.html, "Observing Self: Mysticism and Psychotherapy").
+   The sentence matches exactly. REPAIR: the dossier's carrier link
+   switched from the dead live page (deikman.com returns "Account
+   Suspended") to the Wayback capture, matching the ledger's existing
+   carrier-limitation note. Flag cleared.
+Both environment-blocks (JS-required suttacentral, IP-blocked
+deikman.com) were bypassed with the cloud browser and the archive
+respectively. dossier_check re-run after the link change: exit 0.
