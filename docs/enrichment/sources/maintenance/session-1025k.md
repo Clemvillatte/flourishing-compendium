@@ -120,3 +120,6 @@
 
 ## P101 Repeat with difference
 - Broken-link audit of all 2622 principle-page URLs found plato.stanford.edu/entries/repetition-identity/ (404; no such SEP entry) used as the source for two Deleuze 'quotes' that do not appear in the SEP Deleuze entry. Replaced with two verified SEP Deleuze sentences (section 3.1); stated that Deleuze is not quoted directly; labelled application and illustration. Flag: Difference and Repetition itself not opened; a primary-source quote (Patton translation) would be a real plus.
+
+## B134 Layman Pang
+- terebess.hu/zen/layman-pang.html is 404. Replaced with Sasaki translation PDF (https://terebess.hu/zen/LaymanPang.pdf); verse, Shitou exchange and 'I want to do what I like' verified verbatim; invented daily schedule and two-practitioner story removed; application and example labelled as mine.

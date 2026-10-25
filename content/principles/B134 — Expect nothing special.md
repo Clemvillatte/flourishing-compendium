@@ -12,15 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 134** — Expect nothing special
 
-Layman Pang's famous verse is the whole principle in four lines. Asked to describe the Zen of the great masters, he replied: "My supernatural power and marvelous activity: drawing water and carrying firewood" ([Layman Pang, The Sayings of Layman Pang, Terebess](https://terebess.hu/zen/layman-pang.html)). The joke is precise — what the tradition calls the miraculous is the ordinary, done fully. No levitation, no light: hauling water and stacking wood.
+In the Recorded Sayings of Layman Pang, the Chan master Shitou asks the layman, "Since seeing me, what have your daily activities been?" Pang first says that he cannot open his mouth about it. Shitou replies, "Just because I know you are thus I now ask you." Then Pang offers a verse ([Layman P'ang, *Recorded Sayings*, Terebess PDF](https://terebess.hu/zen/LaymanPang.pdf)).
 
-This is a claim about the nature of awakening, not a modest refusal to brag. The awakened person's day is the same day as the unawakened person's, without the extra layer of commentary. The students who arrive expecting fireworks keep waiting, and the schedule never changes — wake, tea, garden, teach, sleep.
+> My daily activities are not unusual,
+> I'm just naturally in harmony with them.
+> Grasping nothing, discarding nothing,
+> In every place there's no hindrance, no conflict.
+> Who assigns the ranks of vermilion and purple?
+> The hills' and mountains' last speck of dust is extinguished.
+> [My] supernatural power and marvelous activity—
+> Drawing water and carrying firewood.
+> (Layman P'ang, *Recorded Sayings*, [Terebess PDF](https://terebess.hu/zen/LaymanPang.pdf))
 
-> "My supernatural power and marvelous activity: drawing water and carrying firewood." (Layman Pang, The Sayings of Layman Pang, [Terebess](https://terebess.hu/zen/layman-pang.html))
+The text goes on: "Shih-t'ou gave his assent." Shitou then asks whether Pang will put on black robes or keep wearing white, and Pang answers, "I want to do what I like," so "he did not shave his head or dye his clothing" (same PDF). A translator's note in the same text says that the final two lines "are often quoted and widely known."
 
-**Plain words** The enlightenment you are waiting for is not going to arrive with fireworks, and if it does arrive with fireworks, that is not the thing. The awakened version of a person still has to do the dishes, still gets tired, still has to buy groceries. What changes is the removal of the layer of commentary about how the day should be going. The content of the day stays. The specialness was never in the enlightenment; it was in the waiting.
+The verse names the supernatural power in the most ordinary tasks, and puts no special state beside them. The principle I draw from it is mine and not the text's: do not wait for an extraordinary experience to make the ordinary part of the day count.
 
-*For example:* Two practitioners both have a profound meditation experience. One spends the next year trying to reproduce it, treating ordinary days as failures to get back there. The other goes back to chopping wood and carrying water, and the experience is quietly absorbed into how the ordinary day is done. Only one of them is still practising a year later.
+**Plain words** Pang says his marvellous power is drawing water and carrying firewood. The days of people who practise are not required to look different from anyone else's. Look at what you are already doing with your hands today.
+
+*For example (my illustration, not Pang's):* After a retreat or a strong experience in meditation, the temptation is to treat ordinary days as a lesser version of it. Pang's verse points the other way, toward the chores in front of you.
+
+## Sources
+
+- [Layman P'ang, *The Recorded Sayings of Layman P'ang*, trans. Ruth Fuller Sasaki et al., Terebess PDF](https://terebess.hu/zen/LaymanPang.pdf): the exchange with Shitou, the verse, and the translator's note. The page previously linked `terebess.hu/zen/layman-pang.html`, which now returns 404, and described a daily schedule ("wake, tea, garden, teach, sleep") and a two-practitioner story that the text does not contain.
 
 ## Psychology parallels
 - [[T012 — Laozi]]: the sage-wears-coarse-cloth-and-carries-jade image (Daodejing 70) the page lists.
