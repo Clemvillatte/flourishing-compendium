@@ -689,9 +689,12 @@ paths (see the access note).
   2026-10-25. A Stockholm Psychiatry Lecture held 2 February 2011 at
   Karolinska Institutet by Prof. Joseph LeDoux, New York University.
 - Duration: 51:41 (watch page, 2026-10-25).
-- Instructor credentials: Joseph LeDoux, New York University (per the talk
-  description; NYU faculty pages and Wikipedia were blocked from this
-  session's fetcher — institutional page still pending, see credential note).
+- Instructor credentials: Joseph E. LeDoux, American neuroscientist,
+  Henry and Lucy Moses Professor of Science, New York University,
+  researching survival circuits including fear and anxiety (Wikipedia
+  page content retrieved 2026-10-25 via the Wikipedia REST summary
+  endpoint, https://en.wikipedia.org/api/rest_v1/page/summary/Joseph_LeDoux;
+  NYU faculty pages remained fetcher-blocked).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): chapters on
   Pavlovian fear conditioning, amygdala and fear circuitry, extinction and
@@ -1018,9 +1021,12 @@ against the recording or transcript before the record is attached to a module.
   University Library channel (https://www.youtube.com/watch?v=gJ0MV3ixnOM);
   watch page opened 2026-10-25.
 - Duration: 1:02:29 (watch page, 2026-10-25).
-- Instructor credentials: Cal Newport, Associate Professor of Computer
-  Science, Georgetown University (per the uploader description; an
-  institutional page was not opened this session).
+- Instructor credentials: Calvin C. Newport, Associate Professor of
+  Computer Science, Georgetown University, author on attention
+  management in the digital age (Wikipedia page content retrieved
+  2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Cal_Newport; the
+  uploader description names Georgetown).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a book talk on
   Digital Minimalism — being more selective about personal technologies to
@@ -1129,9 +1135,12 @@ against the recording or transcript before the record is attached to a module.
   channel (https://www.youtube.com/watch?v=0ZLNbxWH8Lc); watch page opened
   2026-10-25. Financial Markets (ECON 252) with Robert Shiller, Spring 2008.
 - Duration: 1:05:09 (watch page, 2026-10-25).
-- Instructor credentials: Robert Shiller, instructor of ECON 252 (per the
-  uploader description; an institutional page was not opened this
-  session).
+- Instructor credentials: Robert James Shiller, Sterling Professor of
+  Economics, Yale University, fellow at the Yale School of Management's
+  International Center for Finance (Wikipedia page content retrieved
+  2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Robert_J._Shiller);
+  instructor of ECON 252 per the uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): behavioral
   finance applying social-science insights to finance — overconfidence,

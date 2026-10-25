@@ -1187,10 +1187,11 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   (https://www.youtube.com/watch?v=KSb7qlaUNrg); watch page opened
   2026-10-25. Tanner Lectures 2017, lecture 2.
 - Duration: 1:22:22 (watch page, 2026-10-25).
-- Instructor credentials: Richard Kraut (per the uploader description; an
-  institutional page was not opened this session — he is the Charles
-  Morrison Professor Emeritus in the Humanities at Northwestern per
-  general knowledge, NOT verified in an opened source this session).
+- Instructor credentials: Richard Kraut, Emeritus Charles and Emma
+  Morrison Professor in the Humanities, Northwestern University,
+  specialist in ancient Greek philosophy (Wikipedia page content
+  retrieved 2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Richard_Kraut).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): an answer to
   "What is the good in being a good human being?" via the inner life of
