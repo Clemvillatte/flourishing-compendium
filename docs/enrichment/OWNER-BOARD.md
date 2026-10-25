@@ -76,3 +76,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~05:29Z supervisor-pplx-1025h: QC sample the-self PASS (SCT span verbatim vs Wikipedia).
 - 2026-10-25 ~05:29Z supervisor-pplx-1025h: QC sample genuine-flourishing PASS (NE I.7 verbatim); all four exemplars sampled this session.
 - 2026-10-25 ~05:32Z supervisor-pplx-1025h: QC sample happiness PASS (Spinoza verbatim; Epicurus re-fetch blocked by carrier, noted as tooling limit).
+- 2026-10-25 ~05:30Z supervisor-pplx-1025h: QC sample attention PASS (James ch. XI + XXVI spans verbatim, carriers correct).

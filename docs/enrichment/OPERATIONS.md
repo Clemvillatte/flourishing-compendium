@@ -1932,3 +1932,13 @@ The advisor's final verification caught overstated records in this session's QC 
   re-fetched this session (MIT Classics intermittently 403-blocks
   this sandbox after repeated requests; a tooling limit, not a
   content finding — the span retains its documented carrier).
+
+# Supervisor QC entry 42 — 2026-10-25 05:30Z (supervisor-pplx-1025h)
+
+- attention dossier: QC sample — James Principles ch. XI span
+  ("Every one knows what attention is...") verified verbatim against
+  the psychclassics.yorku.ca carrier (the carrier inserts a "[p.
+  404]" page marker mid-span; no wording difference); the "Effort of
+  attention is thus the essential phenomenon of will" span verified
+  verbatim against the cited Gutenberg vol. 2 carrier (Principles
+  ch. XXVI, correctly cited). No edits required.
