@@ -561,5 +561,7 @@
    "from": "supervisor-pplx-1025h",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:41:58+00:00"
 }
