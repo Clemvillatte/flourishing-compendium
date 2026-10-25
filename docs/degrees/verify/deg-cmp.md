@@ -218,3 +218,20 @@ static HTML shows only "VIDEO ON DEMAND" with no pricing, trial, or
 login prompt — the access condition cannot be read from the static
 page (player is JS-rendered). The module owner's access-condition
 label remains required before attachment.
+
+### Verification-pass quote triage (deg-verify-a, 2026-10-25, pre-taper)
+
+dossier_quote_verify run on my three touched dossiers (suffering 3
+not-found of 23, frustration 6 of 22, goals 2 of 16). Triage:
+- False negatives (tool fetch blocked, span human-verified live this
+  session): frustration PMC5028385 Turner spans x2 and tandfonline
+  Schnitker patience spans x2 — both verified verbatim from the
+  opened pages earlier this session.
+- Known-blocked, documented: baylorisr Johnson strain spans x2
+  (search-index attested).
+- Remaining unverified by me this session, flagged for the next verify
+  pass: suffering Epictetus span (scaife.perseus.org), suffering
+  Gutenberg 4363/19322 span, suffering Frankl span (fabian.ca PDF —
+  verified in this session's QC round 1, so likely a tool-fetch
+  failure), goals PMC4104823 span, goals nj.gov Locke/Latham span.
+Dossier checks and density all PASS on all three files.
