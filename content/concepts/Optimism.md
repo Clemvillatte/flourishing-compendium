@@ -15,6 +15,12 @@ Optimism, in Martin Seligman's sense, is not cheerfulness but a style of explain
 
 The two styles face the same events; what differs is the recovery. Seligman's summary: "Optimists recover from their momentary helplessness immediately. Very soon after failing, they pick themselves up, shrug, and start trying again." The book's later claim — "Life inflicts the same setbacks and tragedies on the optimist as on the pessimist, but the optimist weathers them better" — makes the point plain: optimism changes the weathering, not the weather.
 
+The contrast is built on three dimensions a reader can check against their own explanations after a bad event: permanence, whether the cause is judged lasting or temporary; pervasiveness, whether it is judged specific to this one case or undermining everything; and personalization, whether it is located in oneself or elsewhere. Seligman's opening passage packs all three into its definitions, and the pessimist's version is the one in which each dimension is answered in the way that keeps the bad event going after it ends. The style is therefore learnable in principle, since the dimensions are about what a person says to themselves about an event rather than about the event, and what a person says is something that can be argued with.
+
+The claim is also bounded in a way the page should keep visible. Seligman does not hold that optimism is always the better stance, and the book's own argument is that the pessimist's style can be more accurate in situations where the misfortune is genuinely lasting, general, and self-caused. What makes the explanatory style worth training is the recovery it buys in the ordinary run of setbacks, not a rule for reading every situation.
+
+The distinction from cheerfulness is worth holding onto, since a cheerful person can hold pessimist explanations and a dour person can hold optimist ones. What Seligman measures is the shape of the explanation, and the shape is visible in a sentence a person writes down, which is what the testability of the concept rests on.
+
 ### Here
 
 - [[R087 — Practise hope]] cites this concept as a psychology parallel.
