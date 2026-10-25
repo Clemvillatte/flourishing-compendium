@@ -275,7 +275,7 @@ entries, Taylor's politics of recognition, Flavell's metacognition, the
 executive-functions trio, the divergent-thinking entries, Grossmann's
 wise reasoning, and the Horkheimer-Adorno instrumental-reason entry. No
 mismatches found; no edits made. This strengthens the earlier
-voice-audit review (all 11 candidates kept): the flagged constructions
+voice-audit review (10 kept and L160 recast, per the ledger's own review record): the flagged constructions
 are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
