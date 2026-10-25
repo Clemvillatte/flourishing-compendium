@@ -1400,7 +1400,7 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   supporting evidence for the credentials clause, not as
   institutional-page verification.
   SECOND FOLLOW-UP (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  session clock ~14:55Z): the ENS affiliation is now CORROBORATED on an
+  written before the 14:51:39Z save): the ENS affiliation is now CORROBORATED on an
   OPENED peer-reviewed source — the European Journal of Japanese
   Philosophy vol. 8 PDF (https://ejjp-journal.org/wp-content/uploads/2023/11/ejjp-8-tanabe-on-subject-jelby-urai.pdf,
   opened 2026-10-25), which prints verbatim: "Morten E. Jelby,

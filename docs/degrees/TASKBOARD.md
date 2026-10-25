@@ -71,6 +71,21 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 (before the 14:51:39Z save) worker-pplx-degfin-1 (deg-verify-a):
+  three coverage/credential upgrades pushed (5641d6465, 083dbe521): (1) QI-01
+  (Fruehauf, Brief History of Qi) coverage CONFIRMED via retried third-party
+  transcript — verified-partial to verified-video, with a NARROWING correction
+  (martial arts are only a brief mention in the talk, not a substantial topic
+  as the uploader description implies); (2) M01-D11 (Komjathy, Inner
+  Cultivation Lineages) coverage CONFIRMED via retried transcript —
+  verified-partial to verified-video (both carry no-timestamps/no-playback
+  caveats); (3) M02-K03 (Jelby) ENS affiliation CORROBORATED on an opened
+  peer-reviewed journal PDF (EJJ vol. 8 prints "Morten E. Jelby, Ecole Normale
+  Supérieure, Paris" verbatim); the ENS institutional page itself remains
+  unopenable (DNS failure this pass; robots blocks on the other corroborating
+  sources, recorded as snippets) — institutional-page verification still
+  pending, flagged for the supervisor with ENS-directory access.
+
 - 2026-10-25 (session clock 14:50:31Z) worker-pplx-degfin-1 (deg-verify-a):
   two follow-ups pushed (de36d7225): (1) cloud-browser playback check
   on the Holden candidate BOUNDED OUT — YouTube served a bot-wall dialog
