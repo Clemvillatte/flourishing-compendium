@@ -133,6 +133,13 @@ long evidence records in the ledger, not in the public reading path.
   clean. dos19's self-verified card re-read pass independently
   spot-checked: Nonattachment and Detachment-from-outcomes glosses match
   their cards' own wording; checker exit 0 (67 card links). PASS.
+- ADDENDUM 5 (~T+25): dos15 behaviour divergences 1-2 quotes all verified
+  against raw carriers (Europe PMC core records): Oaten & Cheng 2006 both
+  fragments; Miles et al. 2016 all three fragments; Hagger et al. 2016
+  sequential-task fragment verbatim including the source's own unclosed
+  parenthesis. The landed behaviour content is quotation-solid; the
+  open items remain the divergence-3 argument concerns routed to the
+  live worker.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
