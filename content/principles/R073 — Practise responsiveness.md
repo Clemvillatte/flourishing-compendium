@@ -33,7 +33,7 @@ After helping someone, ask one open question a week later: "Has this been useful
 
 ## Psychology parallels
 
-- **[[Responsive parenting|Responsive parenting]]** (Bernstein et al., 2014)
+- **[[Responsive parenting|Responsive parenting]]** (responsive-parenting research; the concept page grounds the construct and its correlates in the NCBI parenting volume, [NBK402020](https://www.ncbi.nlm.nih.gov/books/NBK402020/))
 
 ## Philosophy parallels
 
