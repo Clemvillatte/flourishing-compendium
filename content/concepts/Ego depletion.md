@@ -17,6 +17,10 @@ The empirical status is part of the concept's content: a meta-analysis of ego-de
 
 These results concern the standardized sequential-task protocol used in this replication ([Hagger et al. 2016](https://pubmed.ncbi.nlm.nih.gov/27474142/)).
 
+### What the null result settles
+
+The registered replication report is part of the concept rather than a footnote to it. The theory predicted a resource that depletes; the standardized protocol built to detect that depletion found, across 23 labs, an effect indistinguishable from zero. The honest summary is that the resource model, in its sequential-task form, is unconfirmed at scale, and any practice built on the fuel-tank picture of willpower inherits that uncertainty. The compendium's treatment keeps both halves on the table: the everyday experience of worn-down self-control, and the failure of the best-tested model of it.
+
 ## Sources
 
 - [Hagger, M. S., et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science 11(4):546-573. PubMed 27474142](https://pubmed.ncbi.nlm.nih.gov/27474142/)
