@@ -16,9 +16,9 @@ Addams's practice at Hull-House made conversation a discipline: "I never address
 
 > The man who wears the shoe knows best that it pinches and where it pinches, even if the expert shoemaker is the best judge of how the trouble is to be remedied.
 >
-> (Dewey, The Public and Its Problems, 1927, Ch. VI)
+> (Dewey, [The Public and Its Problems, 1927, Ch. VI, Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/text/chapter-6))
 
-Dewey's version is the shoe that pinches: the wearer knows where, and the expert may be the best judge of the remedy, and democratic discussion is the arrangement that puts both knowledges in one conversation. His condition for the public is communication itself: "Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community" (Ch. IV).
+Dewey's version is the shoe that pinches: the wearer knows where, and the expert may be the best judge of the remedy, and democratic discussion is the arrangement that puts both knowledges in one conversation. His condition for the public is communication itself: "Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community" ([Ch. IV, Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/the-public-and-its-problems/text/chapter-4)).
 
 I propose turn-taking and listening as practices for making room for those contributions.
 

@@ -638,3 +638,16 @@ clinging). Advisor round-2 verdict: SCOPED PASS — Plain words replacement,
 MN 10 URL addition, and quotation passages checked; MN 119 (unopened) and
 unchanged page content outside the review. Baseline-aware validation ok
 (vs 2b08bd2e^).
+
+## Supervisor route closures (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+Route 4 (Addams shoe-quotation carrier) CLOSED: the "man who wears
+the shoe" sentence IS in Dewey's The Public and Its Problems, Chapter
+VI (The Problem of Method), verified by direct fetch of the Standard
+Ebooks text this session (URL: standardebooks.org/ebooks/john-dewey/
+the-public-and-its-problems/text/chapter-6). The P128 body now cites
+the carrier on both Dewey quotes (the Ch. VI shoe sentence and the
+Ch. IV Great-Community sentence, both verified verbatim against the
+opened pages). The earlier exact-phrase misses are superseded: the
+quotation was located in the book, in the chapter the page already
+named.
