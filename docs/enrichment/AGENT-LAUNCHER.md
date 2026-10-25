@@ -5,6 +5,10 @@ accounts, using the cloud browser. Written 2026-10-22 after launching a 4-agent 
 for the flourishing-compendium enrichment project. Every step below was actually
 executed; the "Obstacles" section records what failed and the workaround that fixed it.
 Speed methodology added 2026-10-24 after a 3-minute launch (see the last section).
+Add-account protocol added 2026-10-25 after live testing (see "Add account flow"
+section): launching multiple workers should use **Add account** instead of signing
+out, so the launcher keeps every session alive and can switch accounts to monitor
+workers or send them additional information.
 
 ## Overview
 
@@ -23,6 +27,12 @@ enter the 6-digit code, switch the composer to Computer mode, paste the worker
 prompt, submit. The session URL (`perplexity.ai/computer/tasks/<uuid>`) is the
 agent. It runs server-side; closing the browser does NOT stop it.
 
+When launching MORE THAN ONE worker from the same launcher browser, do NOT sign
+out between launches: use the account menu → **Add account** (see "Add account
+flow" below). It takes the same time as a sign-out/sign-in but keeps every
+previous session signed in, so the launcher can switch accounts later to monitor
+workers or send them follow-up information without re-authenticating.
+
 ## Prerequisites
 
 - Load the `browser-use` skill before driving the browser. Start it with
@@ -33,12 +43,38 @@ agent. It runs server-side; closing the browser does NOT stop it.
   die (502 websocket errors) and a smailpro mailbox cannot be recovered on the
   free plan once the browser session is lost.
 
+## Add account flow (verified 2026-10-25 — use this for the 2nd+ worker)
+
+Tested live on 2026-10-25 while signed in as one worker account: launching the next
+worker via **Add account** works exactly like the sign-out/sign-in flow and takes
+the same time (same dialog, same 6-digit code, same free-plan onboarding). The
+difference is that the previous session stays signed in.
+
+1. Stay on perplexity.ai, signed in as the previous account. Open the account
+   menu (button named `<user> Free plan` in the sidebar) → click **Add account**.
+   The standard sign-in dialog opens — the current session is NOT signed out.
+2. Fill the new email, click **Continue with email** → the 6-digit code screen
+   appears. Ask the owner for the code exactly as in Path A.
+3. Enter the code, dismiss the onboarding dialogs (Get started → Continue with
+   free if a plan picker appears), then proceed to **Launch** below.
+4. The new account is now the active one. To switch back to a previous account
+   later (e.g. to monitor that worker's task or send it a message), open the
+   account menu and pick the other account from the account list — no new code
+   is needed.
+
+Why this matters: a launcher that signs out between launches loses the ability to
+reach earlier workers' sessions (each sign-in invalidates the previous session's
+cookie in that browser profile). Add account stacks the sessions instead, so one
+launcher can oversee the whole team by switching accounts.
+
 ## Path A — user-provided email
 
 1. Navigate to `https://www.perplexity.ai/`. If the page shows "Just a moment..."
    (Cloudflare), navigate to the same URL once more — it auto-resolves. Only if it
    persists look for a turnstile checkbox (see Obstacles).
 2. Click **Sign In** → the dialog opens with an "Enter your email" textbox.
+   (For the second and subsequent workers, use **Add account** instead of Sign In
+   — see the section above.)
 3. Fill the email, click **Continue with email**. A 6-digit code screen appears.
 4. Ask the user for the code from their inbox (they said they would authorize
    with the activation code). Fill the six "Digit N of 6" textboxes in order.
@@ -162,8 +198,11 @@ dialogs, then proceed to Launch.
 - **Code emails expire**: the Perplexity code is valid ~5-10 minutes. If you hit
   the turnstile loop for too long, request a fresh code (restart the sign-in)
   rather than entering a stale one.
-- **Multiple accounts in one browser**: tabs share the profile. Use the account
-  menu → **Add account** to stack sign-ins, or sign out between launches.
+- **Multiple accounts in one browser**: tabs share the profile. PREFERRED: use
+  the account menu → **Add account** to stack sign-ins (verified 2026-10-25, see
+  the "Add account flow" section). Signing out between launches works too but
+  invalidates the previous session in that profile, so avoid it when launching
+  several workers in a row.
 
 ## Speed methodology (added 2026-10-24 — the ~3-minute Path A launch)
 
@@ -253,10 +292,13 @@ Path A (owner-provided email):
       token filled in.
     - I will read the 6-digit verification code from the inbox when you ask.
     - After launch: record it in handoff.md and push.
+    - If more than one worker is launched from this session, use the
+      Add account flow (not sign-out) for the 2nd+ worker, per the protocol.
 
 Path B (fully automated, smailpro temporary email): same message with
 "Path B" and no email line — the agent generates the mailbox itself and
-reads the code via the smailpro API.
+reads the code via the smailpro API. The Add-account rule applies here too
+once a session is signed in.
 
 Note: if the launcher session already has the repo cloned with the token in
 the remote URL, the token line is optional — it can be extracted from the
