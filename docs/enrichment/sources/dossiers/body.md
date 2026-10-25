@@ -439,3 +439,33 @@ respiratory rate compared with mindfulness meditation. The dossier
 claims only that the practice was tested in a 2023 trial of five
 minutes a day, which the record supports; no efficacy claim is made
 in the dossier entry itself.
+
+## Further inherited-claim verifications (2026-10-25, worker-pplx-dos17-1025h)
+
+Three more inherited claims were verified against carriers this pass.
+(1) The body schema gloss ("Head and Holmes's unconscious postural
+standard, an on-line, real-time plastic representation of one's own
+body in space") was confirmed verbatim against the Body schema card's
+carrier, Vallar's historical review (PMC11923729), which quotes Head
+and Holmes 1911 ("we propose the word 'schema'") and describes the
+schema as "unconscious, referring to an on-line, real-time plastic,
+representation of one's own body in space." (2) The anapanasati
+instruction ("sitting upright in a quiet place, attending to
+inhalation and exhalation, discerning long from short") was confirmed
+against the Thanissaro translation of MN 118 on Access to Insight
+("sits down folding his legs crosswise, holding his body erect, and
+setting mindfulness to the fore," having gone "to the wilderness, to
+the shade of a tree, or to an empty building"; the long/short
+discernment instructions). (3) The phantom-hand story logline: the
+SEP Merleau-Ponty entry confirms phantom limbs are among the
+pathological cases Merleau-Ponty analyzes in contrast to the body's
+typical mode of existence, and gives the body schema discussion, but
+does not state the card's specific gloss ("the body schema does not
+dissolve when a part is lost"); that clause remains the story card's
+framing, not re-verified against Phenomenology of Perception itself
+this session - recorded as pending. Remaining inherited glosses
+(situated embodiment, body memory, embodied cognition, somatic marker,
+pranayama, yangsheng, Yoga Sutra 1.34, Satipatthana body-first,
+Qi/Legge, the remaining story loglines) are card-fidelity-swept and
+were not reopened against carriers this session; recorded as pending
+for a future pass.
