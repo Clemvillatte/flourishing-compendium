@@ -21,7 +21,7 @@ Nicomachean Ethics III.1 opens with the voluntary and the involuntary, because p
 > Aristotle, Nicomachean Ethics III.1, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-Both cases start the same way: you acted without knowing a circumstance that mattered. What splits them is what happens after you learn it: pain and repentance make the act involuntary; no vexation at all leaves it not voluntary, with a name of its own because the person differs from the one who repents.
+A court verdict often turns on a fact nobody contests, that the act was done in ignorance. The verdict does not close the case though, because the sentence looks at the face the defendant turns toward the court once the facts arrive. Wincing, apologising, trying to mend matters, this is what converts an act done through ignorance into one that counts as against the will. The defendant who hears the same facts and shrugs remains outside that category as well, since the shrug shows no wish the deed had been otherwise, and Aristotle gives such a person a class of his own precisely because the two men are not treated alike.
 
 **For example**
 Someone who forwards a message not knowing it was private, then feels pain and tries to recall it, fits the involuntary case. Someone who learns the same fact and feels no vexation does not, and the difference between them, on Aristotle's line, is that pain.

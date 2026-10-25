@@ -11,7 +11,6 @@
     "A060",
     "A024",
     "A034",
-    "A061",
     "A084",
     "A086",
     "A087",
@@ -30,7 +29,8 @@
     "AF052",
     "AF053",
     "AF057",
-    "AF004"
+    "AF004",
+    "A061"
   ],
   "in_progress": null,
   "flagged": {
@@ -42,7 +42,7 @@
     "Y095_supervisor": "Routed to supervisor by prior worker; not re-verified this session. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
     "Y097_supervisor": "Routed to supervisor by prior worker; not re-verified this session. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
     "A009_supervisor": "Routed to supervisor by prior worker; not re-verified this session. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
-    "A061": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
+    "A061": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "A084": "unresolved title support \u2014 supervisor decision required: title's conclusion not established by opened passages (VII.13 reports pro-pleasure argument; X.4 supervenence); page presents both neutrally",
     "A086": "unresolved title support \u2014 supervisor decision required: title's inference ('not always bad') insufficiently supported by opened passages (II.3 appropriate pain; VII.13 two ways bad); page asks the two questions separately",
     "A087": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
@@ -65,7 +65,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:29:48+00:00",
+  "updated": "2026-10-25T12:48:10+00:00",
   "band_done": false,
   "notes": {
     "AF004": {
@@ -73,6 +73,12 @@
       "claims": "n/a",
       "limitations": "Small-sample imaging studies",
       "url": "https://pubmed.ncbi.nlm.nih.gov/17576282/"
+    },
+    "A061": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html"
     }
   }
 }
