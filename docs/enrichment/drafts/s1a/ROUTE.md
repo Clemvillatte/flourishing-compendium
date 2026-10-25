@@ -220,9 +220,13 @@ After this session's 23 drafts (s1a-040 through s1a-062), the regenerated zero-s
   D065 story is allowed if the angle differs (it does: the cycle narrative vs Bach /
   the robe parable), but the priority call is the supervisor's. REQUESTING DISPOSITION:
   register (angle differs) or reject (two stories suffice).
-- s1a-031 (B016, The All Is Aflame), s1a-032 (P192, Django), s1a-036 (D023, The Slowest
-  Vessel): ready, unpublished (no page exists), story_check 0 errors — awaiting
-  supervisor registration. Front matter reconciled to ready (031/032 were stale qc_pending).
+- s1a-031 (B016, The All Is Aflame) and s1a-032 (P192, Django): ready, unpublished
+  (no page exists), story_check 0 errors — awaiting supervisor registration. Front
+  matter reconciled to ready (031/032 were stale qc_pending). CORRECTION 2026-10-25
+  (second pass): s1a-036 (The Slowest Vessel, target D160 — not D023 as earlier noted)
+  is ALREADY PUBLISHED as ST489 (the D160 page's Stories backlink confirms); earlier
+  title-based matching missed it because of the "36." prefix in the draft title.
+  The s1a unpublished-ready set is therefore: 031, 032, 042, 043.
 - s1a-042 (B122, Milinda's Chariot) and s1a-043 (D047, Yan Hui): fm was stale `drafting`,
   reconciled to ready; story_check 0 errors. Verified NOT duplicates: ST065 Nagasena maps
   B020/B021/B037 (not B122); ST019/ST439 map the mind-fasting passage (D045), not D047
