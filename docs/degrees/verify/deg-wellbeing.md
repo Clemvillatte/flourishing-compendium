@@ -479,13 +479,22 @@ standard.
   confirming the chair title and PEP Lab directorship; the PEP Lab site
   https://peplab.web.unc.edu/ also opened 2026-10-25).
 - Language: English.
-- Content coverage (uploader description, read 2026-10-25): a Meng-Wu
-  Lecture; the description names her positive-emotions work and books
-  (Positivity; Love 2.0) but does not state this lecture's particular
-  topics — FLAGGED title/credentials-only coverage.
+- Content coverage (watch page chapters, read 2026-10-25 on a re-fetch
+  of the page): the recording carries chapter markers — Introduction;
+  Redefining love; Broaden and build theory; Connection and perspective;
+  What love is not; Defining love science; Core elements of love;
+  Biobehavioral components; Positivity resonance; Conditions for love;
+  Smiles and eye contact; Synchrony in connection; Health benefits;
+  Loving-kindness meditation; Vagus nerve and health; Nudging upward
+  spirals; Social genomics; Evolutionary purpose; Micro-utopias; Q&A
+  session — i.e., her love-as-positivity-resonance research program
+  (Love 2.0), including broaden-and-build theory and
+  loving-kindness-meditation findings. Coverage basis is the chapter
+  list; confirm against the recording before scheduling.
 - Relevant segment: whole lecture, 1:24:27.
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage not described on the watch page — flagged.
+  verified; coverage basis is the watch page's chapter list (not a prose
+  description) — flagged for confirmation against the recording.
 
 ### M08-P07: Is it possible to become happier and, if yes, how? — IDENTITY ONLY
 
@@ -533,13 +542,22 @@ standard.
   site, opened 2026-10-25, https://www.nancysherman.com/about, lists
   Distinguished University Professor and Professor of Philosophy).
 - Language: English.
-- Content coverage (uploader description, read 2026-10-25): keynote
-  presentation followed by questions and answers at Stoicon 2021; the
-  description does not state the keynote's particular topics — FLAGGED
-  title/credentials-only coverage.
+- Content coverage (watch page chapters, read 2026-10-25 on a re-fetch
+  of the page): the recording carries chapter markers — Introduction;
+  Gratitude; Resilience through Social Grit; Social connectedness;
+  External goods; The dichotomy of control; The Stoic perspective;
+  Social constructs; Stoic claim; Rehearsal; Anticipating; Preexposure;
+  Epictetus; Go light on your impulses; We are social animals; Heroic
+  courage; Bulletproof; Veterans; Attention Bias Modification; Kindness
+  and Strength; Learning through Narrative; Embrace the Suck;
+  Inculcationphobic; Prospects for Stoicism; Conclusion — i.e., Stoic
+  resilience, the dichotomy of control and Stoic practices, with a
+  Q&A. Coverage basis is the chapter list; confirm against the
+  recording before scheduling.
 - Relevant segment: whole keynote with Q&A, 47:47.
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage not described on the watch page — flagged.
+  verified; coverage basis is the watch page's chapter list (not a prose
+  description) — flagged for confirmation against the recording.
 
 ### M08-P16: The Power of Purpose — Kendall Cotton Bronk (Claremont Flourishing Center)
 
@@ -890,13 +908,19 @@ standard.
   University; co-founder of Prosocial World (Wikipedia page content
   retrieved 2026-10-25 via the REST summary endpoint — see M08-S20).
 - Language: English.
-- Content coverage (uploader description, read 2026-10-25): "Compassion
-  and Altruism from an Integrated Evolutionary Perspective" — the
-  description gives the talk's title but does not further describe its
-  content.
+- Content coverage (watch page chapters, read 2026-10-25 on a re-fetch
+  of the page): the recording carries chapter markers — Intro; Prelude:
+  Three Waves of Evolutionary Thought; Four questions that must be
+  answered to fully understand any particular trait; Compassion and
+  Altruism From an Evolutionary Perspective (several segments); Take
+  home messages; Development Long-term vs short-term effects — i.e.,
+  the talk "Compassion and Altruism from an Integrated Evolutionary
+  Perspective" as announced. Coverage basis is the chapter list;
+  confirm against the recording before scheduling.
 - Relevant segment: whole talk, 46:13.
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage rests on the talk title — flagged.
+  verified; coverage basis is the watch page's chapter list (not a prose
+  description) — flagged for confirmation against the recording.
 
 ### M08-S23: How Can We Decide Who the Experts Are? Or Can We? (Alvin Goldman, Royal Institute of Philosophy)
 
