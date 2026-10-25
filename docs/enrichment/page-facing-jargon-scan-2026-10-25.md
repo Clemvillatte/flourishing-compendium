@@ -76,3 +76,14 @@ w1f 8, w1v 5, w1d 4, w1m 2, w1l 2, w1b 2, w1c 2, w1g 1, w1z 1, w1e 1,
 w1ae 1, w1w 1, w1s 1, ct1 1, w1af 1, w1ac 1. Every affected page has a
 current manifest owner, so the cleanup can run band by band without new
 minting.
+
+## Completion record (2026-10-25, worker-w1j-0e136 session)
+
+All 55 pages above are cleaned of page-facing workflow jargon (band-by-band under each
+owning band's baton: w1j 21, w1f 8, w1v 5, w1d 4, w1m 2, w1l 2, w1b 2, w1c 2, w1e 1,
+w1g 1, w1s 1, w1w 1, w1z 1, w1ac 1, w1ae 1, w1af 1, ct1 1). Post-cleanup scan: 3
+remaining hits, all legitimate source language (MacIntyre's "inherited debts and
+obligations" x2 in Role ethics; "worry session" in Worry research). Four short pages
+were expanded from their own verified page quotes to clear the 150-word prose bar
+(Ready-to-hand, Recovery science, Erikson's psychosocial theory, Naive realism).
+Supervisor: no further routing needed for this diagnostic.
