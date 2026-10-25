@@ -38,3 +38,4 @@ For example: someone raised in a household where money was never discussed does 
 
 - **[[Thrownness|Thrownness]]** (Heidegger, Being and Time)
 - **[[Facticity|Facticity]]** (Sartre, Being and Nothingness)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

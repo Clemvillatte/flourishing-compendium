@@ -47,3 +47,4 @@ You have an outside. Other people can see you, and what they see is a real part 
 
 - **[[Being-for-others|Being-for-others]]** (Sartre, Being and Nothingness)
 - **[[The looking-glass self|The looking-glass self]]** (Cooley, Human Nature and the Social Order)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

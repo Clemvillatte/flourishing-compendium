@@ -38,3 +38,4 @@ Her link to other people is explicit: "To will oneself free is also to will othe
 
 - **[[The free person|The free man]]** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Authentic existence|Authentic existence]]** (Heidegger, Being and Time; Sartre, Being and Nothingness)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

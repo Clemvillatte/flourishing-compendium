@@ -38,3 +38,4 @@ Try separating two questions: what is already the case, and what will I do next?
 
 - **[[Facticity|Facticity and transcendence]]** (Sartre, Being and Nothingness; de Beauvoir, The Ethics of Ambiguity)
 - **[[Situated freedom|Situated freedom]]** (Merleau-Ponty, Phenomenology of Perception)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

@@ -38,3 +38,4 @@ The project is freely chosen, so why would anyone need an analysis to find it? S
 
 - **[[Project (projet)|Project (projet)]]** (Sartre, Being and Nothingness)
 - **[[Projection (Entwurf)|Projection (Entwurf)]]** (Heidegger, Being and Time)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

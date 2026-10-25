@@ -37,3 +37,4 @@ For example: someone who moves to a new country every year can be adventurous in
 
 - **The adventurer** (de Beauvoir, The Ethics of Ambiguity)
 - **[[Freedom|Freedom without content]]** (Sartre, Being and Nothingness)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

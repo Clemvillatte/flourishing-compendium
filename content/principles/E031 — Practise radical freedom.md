@@ -39,3 +39,4 @@ The sentence that follows rules out two escapes. Sartre says the existentialist 
 
 - **[[Radical freedom|Radical freedom]]** (Sartre, Being and Nothingness)
 - **[[Freedom|Freedom as responsibility]]** (Sartre, Existentialism Is a Humanism)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

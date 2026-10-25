@@ -44,3 +44,4 @@ The anxious person's mind keeps pointing at "everything" — and the phenomenolo
 
 - **[[Intentionality|Intentionality]]** (Husserl, Logical Investigations V; Brentano, Psychology from an Empirical Standpoint)
 - **Consciousness as directedness** (Sartre, Being and Nothingness, Introduction)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

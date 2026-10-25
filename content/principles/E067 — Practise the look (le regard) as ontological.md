@@ -40,3 +40,4 @@ Levinas, in Totality and Infinity, describes a different encounter. The way the 
 
 - **[[The look (le regard)|The look (le regard)]]** (Sartre, Being and Nothingness)
 - **[[The face|The face of the Other]]** (Levinas, Totality and Infinity)- **[[The look (le regard)|Le regard]]** (Existentialism & Phenomenology)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

@@ -37,3 +37,4 @@ Suppose someone has said for years that they are not a math person. They can ask
 
 - **[[Bad faith|Bad faith]]** (Sartre, Being and Nothingness)
 - **[[Self-deception|Self-deception]]** (Sartre, Being and Nothingness)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

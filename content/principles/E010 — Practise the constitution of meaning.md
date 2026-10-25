@@ -54,4 +54,5 @@ Husserl's term for what this principle describes is constitution. In the Stanfor
 
 - **[[Constitution of meaning|Constitution of meaning]]** (Husserl, Ideas I)
 - **[[Meaning|Meaning as constituted]]** (Sartre, Being and Nothingness)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who extends Husserl's constitution into the responsible choice of meaning; his bad faith is the failure this principle guards against.
 

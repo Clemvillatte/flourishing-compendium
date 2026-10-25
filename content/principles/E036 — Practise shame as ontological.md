@@ -35,3 +35,4 @@ Suppose someone stumbles in public and feels heat rise in their face. They can s
 
 - **[[Shame|Shame as ontological]]** (Sartre, Being and Nothingness)
 - **[[Being-for-others|Being-for-others]]** (Sartre, Being and Nothingness)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

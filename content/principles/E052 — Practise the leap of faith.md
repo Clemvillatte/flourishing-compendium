@@ -39,3 +39,4 @@ For example: someone deciding to move abroad has gathered every fact available a
 
 - **[[The leap of faith|The leap of faith]]** (Kierkegaard, Fear and Trembling)
 - **[[Commitment|Commitment without guarantees]]** (Sartre, Existentialism Is a Humanism)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

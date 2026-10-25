@@ -45,3 +45,4 @@ You never questioned that a good career means a title and a rising salary. Ask w
 - **[[The they (das Man)|The they (das Man)]]** (Heidegger, Being and Time)
 - **[[Conformity|Conformity and bad faith]]** (Sartre, Being and Nothingness)
 - **[[The they (das Man)|Das Man]]** (Existentialism & Phenomenology)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

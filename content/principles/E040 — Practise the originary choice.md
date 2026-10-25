@@ -39,3 +39,4 @@ Sartre insists on revisability. The initial project can change by "a radical con
 
 - **[[The originary choice|The originary choice]]** (Sartre, Being and Nothingness)
 - **[[Fundamental stance|Fundamental stance]]** (Jaspers, Psychology of Worldviews)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

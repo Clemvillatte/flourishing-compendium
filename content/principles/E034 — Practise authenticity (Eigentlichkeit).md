@@ -36,3 +36,4 @@ Suppose someone's five-year plan was assembled from what their family and their 
 
 - **[[Authenticity|Authenticity (Eigentlichkeit)]]** (Heidegger, Being and Time)
 - **[[Authentic existence|Authentic existence]]** (Sartre, Being and Nothingness; Kierkegaard, Concluding Unscientific Postscript)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.

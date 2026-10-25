@@ -49,3 +49,4 @@ I use this passage to revisit a commitment you made earlier. Ask what keeping it
 
 - **[[Choice of self|Choice of self]]** (Sartre, Being and Nothingness)
 - **[[Self-making|Self-making]]** (Nietzsche, Thus Spoke Zarathustra)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist who carried this into the twentieth century; his bad faith and radical freedom are the practical companion to this principle.
