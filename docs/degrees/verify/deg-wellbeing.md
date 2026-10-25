@@ -591,8 +591,10 @@ standard.
   the LSE Department of Psychological and Behavioural Science, chaired by
   Prof. Sandra Jovchelovitch.
 - Duration: 1:28:28 (watch page, 2026-10-25).
-- Instructor credentials: Professor Alison Gopnik (per the host
-  description; university page not opened this session).
+- Instructor credentials: Professor Alison Gopnik, Professor of the
+  Graduate School, Department of Psychology, University of California,
+  Berkeley (department page opened 2026-10-25,
+  https://psychology.berkeley.edu/people/alison-gopnik).
 - Language: English.
 - Content coverage (host description, read 2026-10-25): studies on how
   children, older learners and adults learn — preschoolers' ability to
