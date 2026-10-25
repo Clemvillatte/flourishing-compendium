@@ -69,3 +69,17 @@ finding — attribution honesty).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, the four concept entries in this dossier's
+map were compared against their linked cards (card files opened and
+read side by side with the glosses): Stroebe and Schut's dual-process
+oscillation model, Klass-Silverman-Nickman continuing bonds (with the
+2012 longitudinal limit carried), the Zhuangzi drumming-on-the-tub
+reading, and complicated grief research. All four glosses match their
+cards. No mismatches found; no edits made.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
