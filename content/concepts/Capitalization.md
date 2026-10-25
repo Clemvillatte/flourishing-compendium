@@ -19,6 +19,10 @@ The same abstract gives the response's role:
 
 > "Moreover, when others were perceived to respond actively and constructively (and not passively or destructively) to capitalization attempts, the benefits were further enhanced. Two studies found that close relationships in which one's partner typically responds to capitalization attempts enthusiastically were associated with higher relationship well-being (e.g., intimacy, daily marital satisfaction)." (Gable, Reis, Impett & Asher, 2004, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/15301629/))
 
+### What the finding adds up to
+
+The design matters as much as the result, because the effect survived controls for the positive event itself, which means the benefit came from the sharing rather than the luck. The response classification is where the practice lives: the enthusiastic response is the one that enhances, and the passive or destructive responses not only fail to add benefit but forfeit the available one. The mudita kernels below are the Buddhist training for exactly that response, since rejoicing in another's good is a skill that runs dry under envy and can be built by repetition.
+
 ### Here
 
 - [[B053 — Practice sympathetic joy (mudita)]] — the principle takes the capitalization finding and pairs it with the Buddhist practice of joy in others' good.
