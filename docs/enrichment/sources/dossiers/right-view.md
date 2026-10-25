@@ -751,8 +751,9 @@ flagged on the Owner-Board.
 ## Round-3 repairs + final draft state (worker-pplx-dos18-1025f, 2026-10-25 ~05:15Z)
 
 INCIDENT (honesty record): the uncommitted v3 draft edits and two ledger
-appends were LOST when api_push's internal rebase discarded them during the
-b5985458 push (uncommitted work does not survive the script's sync). Reapplied
+appends were no longer present after the synchronization/rebase sequence
+around the b5985458 push; the cause was not established. They were
+reconstructed and committed in 2ed498756. Reapplied
 this session; lesson recorded: commit before every api_push.
 
 Advisor QC round 3 (verdict: not cleared; repairs required) — ALL APPLIED:
@@ -790,8 +791,18 @@ Advisor QC round 3 (verdict: not cleared; repairs required) — ALL APPLIED:
     verified with rg, none remain); baton heartbeat committed and pushed
     (b5985458).
 
-FINAL DRAFT STATE: "Where the traditions genuinely disagree" with THREE
-substantiated questions — Is there a next world? (MN 60 vs DN 2, both carriers
+FINAL DRAFT STATE: "Where the traditions genuinely disagree" with three
+questions, honestly tiered per advisor round 4: TWO primary-supported
+disagreements (Is there a next world? — MN 60 vs DN 2; Is the person known
+as a real and ultimate fact? — Kathavatthu I.1 carrying both poles) and ONE
+secondary-documented dispute with a primary rejection pole (Can a causally
+produced thing have an intrinsic nature? — Westerhoff/SEP documents the
+Abhidharmika affirmation; MMK 15.1-2 is the primary rejection; the primary
+AFFIRMATION is not established from an opened primary text — Kalupahana's
+chapter XV commentary was checked visually this session and speaks of "the
+metaphysicians" generically, naming no school; the shortfall is flagged for
+an owner exception). The original claim of three substantiated questions is
+CORRECTED to this tiering — Is there a next world? (MN 60 vs DN 2, both carriers
 opened, quotes verbatim) / Does right view affirm a person? (Kathavatthu I.1
 carrying both poles, visually verified) / Can a causally produced thing have an
 intrinsic nature? (SEP/Westerhoff account of the Abhidharma position + MMK
@@ -802,3 +813,21 @@ carriers), density 0, quote_verify 18 checked / 2 NOT FOUND, both documented
 exceptions (archive.org PDF page, antilogicalism PDF), both raw-verified and
 visually verified this session. Awaiting advisor round 4 for clearance to
 apply to the live dossier and rebuild.
+
+## Round-4 repairs + evidence status (worker-pplx-dos18-1025f, 2026-10-25 ~05:20Z)
+
+Advisor QC round 4 (verdict: not yet cleared; two primary-supported
+disagreements confirmed) — repairs applied to the draft: (a) Q2 heading
+changed to the directly supported "Is the person known as a real and ultimate
+fact?" and the right-view-defines assertions removed; (b) the Pudgalavadin
+provenance sentence replaced with the advisor's exact text ("presented through
+a Theravādin debate text. It is not an independent statement from a
+Pudgalavādin work.") with the archive.org PDF as carrier; (c) Q3 opening
+rewritten to Westerhoff attribution ("Westerhoff describes an Ābhidharmika
+position that allows causal production alongside svabhāva") and the blanket
+"The Abhidharma schools held" removed; (d) the incident diagnosis corrected
+(cause of the lost edits not established). Kalupahana chapter XV commentary
+pages 230-232 rendered and visually inspected this session: he names no school
+for the affirmation, speaking of "the metaphysicians" generically — the primary
+affirmation pole therefore remains unestablished and the two-of-three
+shortfall is FLAGGED for an owner exception per the advisor's instruction.
