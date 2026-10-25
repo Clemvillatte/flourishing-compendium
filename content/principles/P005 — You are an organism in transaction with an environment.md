@@ -22,9 +22,9 @@ Dewey himself says in *Human Nature and Conduct* that "all habits are demands fo
 
 My own practical inference, which Dewey does not state in these passages, is that if behaviour comes out of the person and the setting together, then changing the setting is one of the available ways to change the behaviour, alongside working on yourself.
 
-**Plain words** You are not a self sitting inside a body and looking out at a world. What you do comes out of you and your surroundings together, so the surroundings are part of what you can change.
+**Plain words** The picture on the box almost everyone inherits is a little pilot in the head, steering a body through a foreign country. Dewey's picture is a swimmer in a river: the stroke and the current are one event, and asking which half of the swimming to fix is a late, artificial question. This matters for self-improvement, because the riverbank is often the cheaper half to modify, and habits, on his account, live in the transaction, not in the pilot.
 
-*For example (my illustration, not Dewey's):* If you scroll your phone in bed every night, you can try more resolve, or you can charge the phone in another room. Both are ways of changing the same activity.
+*For example (an illustration, not Dewey's):* If you scroll your phone in bed every night, you can try more resolve, or you can charge the phone in another room. Both are ways of changing the same activity.
 
 ## Sources
 
