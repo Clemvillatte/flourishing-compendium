@@ -6,7 +6,7 @@ scope, question draft — is recorded in the dos32 batch note and was used as
 the reading list). Dossier:
 docs/enrichment/dossiers/creativity.md, CURRENT rev 3 (rev 1: 4dc84038d,
 first draft; rev 2: 536cfd694, advisor QC round 1 applied; rev 3: advisor
-QC round 2 applied).
+QC rounds 2 and 3 applied).
 Checker at rev 3: exit 0 (31 card links resolve, 16 headers, 37 external
 carrier link occurrences).
 
@@ -31,14 +31,17 @@ the extraction quoted the abstract's own sentences, including 'r = .39',
 'r = .53' and 'r = .23'; rev 3 corrected a .25 figure that appears in no
 opened text to the abstract's own .23). Each is labeled per quote below.
 
-Rev 3 ran a full-span re-verification of every quotation against its raw
-carrier (whitespace-normalized substring match) after the advisor's round-2
-review; two defects found and fixed: the rewards quotation had lowercased
+Rev 3 ran a full-span re-verification of every quotation except the Haase
+figures (fetch-tool extraction, labeled below) against its raw carrier
+(whitespace-normalized substring match) after the advisor's round-2 review;
+two defects found and fixed: the rewards quotation had lowercased
 'Despite' and truncated the sentence, and the Haase .25 figure was not in any
-opened text. Known extraction artifacts, not quote defects: the Schumpeter
-carrier interleaves a footnote marker inside 'incessantly revolutionizes',
-and the Flow/Bergson Gutenberg texts use curly apostrophes where the dossier
-uses straight ones.
+opened text. The complete displayed mini-c quotation, including the leading
+'the' and the chapter's nested quotation marks, was verified as a contiguous
+span against the raw chapter text. Known extraction artifacts, not quote
+defects: the Schumpeter carrier interleaves a footnote marker inside
+'incessantly revolutionizes', and the Flow/Bergson Gutenberg texts use curly
+apostrophes where the dossier uses straight ones.
 
 Cards: cards were read via their markdown files; several were read in
 targeted section ranges (some from line 13 onward after the front matter),
@@ -134,6 +137,47 @@ not necessarily whole files. The relied-on passages are inside those ranges.
   the intrinsic-motivation principle; Bergson's false contrast fixed
   ('extends the question of novelty to life and time themselves').
 - K323 Holt sentence tightened to the abstract's own wording.
+
+## Advisor QC round 3 (rev 3 second pass)
+
+- Ledger corrected to match the checks actually performed: 'every quotation'
+  now excepts the Haase figures; the SEP Henri Bergson entry was downloaded
+  raw (curl) and both quoted spans verified locally, so the raw-verification
+  claim is now true; the complete displayed mini-c span (leading 'the' plus
+  nested marks) verified against the raw chapter text.
+- The Kierkegaard gloss removed from the Schumpeter paragraph: the sentence
+  asserting what Kierkegaard's movement means and what neither source does
+  rested on no opened Kierkegaard carrier. The Creative repetition link now
+  frames only the question (whether doing again can be creative).
+- Story incidents verified against opened carriers or corrected to them:
+  Edison logline rewritten to the Incandescent light bulb article's own
+  facts (carbon, platinum and other metals, return to carbon, carbonized
+  Japanese bamboo lasting over 1200 hours); the 'thousands of materials',
+  'Japanese fan' and notebook details appeared in no opened carrier and were
+  removed. Paterson logline rewritten to the film article's plot (notebook
+  he carries, wife urging publication, denial to the Japanese stranger);
+  'secret notebook' and 'publishes nothing' were not in the plot text.
+  Bob Ross logline verified (Air Force master sergeant; half-hour segment
+  painted in real time; 'we don't make mistakes; we just have happy
+  accidents'; soft voice). Rock Climbers logline verified against the opened
+  Flow text (rock climbers, chess players, surgeons among the interviewed;
+  ballet dancers describing time). The Two-Year-Old vignette remains
+  explicitly illustrative; the Four C's logline is backed by the opened
+  Cambridge chapter; the Three Metamorphoses logline retells the opened
+  ST293 card's own narrative without quotation and adds nothing to it.
+- 'Novelty research holds the fuller study' removed from the constraint
+  paragraph: the remaining connection between the neuronal study and the
+  constraint exercise was the dossier's own.
+- Rewards disagreement tightened: the behaviorist position is now stated as
+  reward-specific, the review's conditional account added (rewards undermine
+  when they lead people to feel controlled; can enhance when they confirm
+  competence, provide useful information supportively, or enable already
+  intrinsically motivated doing), and the unresolved residue named: whether
+  the undermining condition is the exception or the rule where rewards
+  arrive with evaluation attached.
+- 'Seventy years' replaced with a nonnumeric transition (1950 to the cited
+  2009 model is 59 years, not seventy).
+- The opened Holt 2018 carrier now cited inline after the K323 study details.
 
 ## Quotations (verification per quote; see the method section)
 
@@ -295,6 +339,18 @@ not necessarily whole files. The relied-on passages are inside those ranges.
 20. Zhang, Chen and Monosov 2018. REMOVED from the dossier in rev 3: the
     constraint-paragraph use was the dossier's own inference, and the
     connection to creative constraints was unsupported by the opened text.
+
+21. Story-incident carriers (rev 3 second pass). Incandescent light bulb,
+    Wikipedia (carbon, platinum and other metals; carbonized Japanese
+    bamboo filament lasting over 1200 hours), Bob Ross, Wikipedia (Air
+    Force master sergeant; half-hour segment painted in real time; 'we
+    don't make mistakes; we just have happy accidents'; soft voice), and
+    Paterson (film), Wikipedia (notebook carried; wife urging publication;
+    the Japanese stranger; the denial). All fetch-tool reads of the articles
+    quoting exact sentences; the loglines were rewritten to these articles'
+    own facts. The Rock Climbers logline is backed by the raw Flow text
+    already on file; the Three Metamorphoses logline retells the opened
+    ST293 card's narrative without quotation.
 
 ## Scope and boundary notes
 
