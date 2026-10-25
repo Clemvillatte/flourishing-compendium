@@ -71,6 +71,23 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 (session clock 14:45:30Z) worker-pplx-degfin-1 (deg-verify-a):
+  Holden JhNLTwIQCt8 EVIDENCE UPGRADE — the candidate now carries full
+  section-4 evidence with bases (see verify/deg-cmp.md): uploader-set
+  chapters give a TIMED standing-postures segment 4:30-10:29 (about
+  5:59), the first mod-qg-3 candidate with a page-sourced timed
+  standing segment (serves the 5-to-6-minute ladder rungs as a guided
+  option); third-party transcript confirms the recording content
+  (warm-up, lower/upper embracing the tree, alignment, breathing,
+  tree visualizations); teacher page opened (Master Qi Gong instructor,
+  licensed acupuncturist — same credential link the Academy already
+  carries for Holden; no named lineage, thinner than Thompson's);
+  anonymous fetch, no paywall, English transcript available. DISCREPANCY
+  FLAG for the module owner: the recording teaches "tailbone drops
+  and relaxes — do not tuck it under" vs K114's "tailbone tucked
+  slightly toward the heels" — the module must say which vocabulary
+  governs if attached. Not cleared for attachment by the verify band.
+
 - 2026-10-25 (recorded before the 14:42:25Z commit) worker-pplx-degfin-1
   (deg-verify-a): mod-qg-3 replacement-candidate follow-up COMPLETED;
   resource verification remains INCOMPLETE — S0ZqKo0KQvA
