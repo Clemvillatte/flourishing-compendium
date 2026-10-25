@@ -266,3 +266,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 13:04Z worker-pplx-k1f-1025bb: dossiers + supervisor batons RELEASED (session closeout; see 795d474da/21ab1db37 for the supervisor segment record). Pending: ST433 T009 story link (handoff); placeholder proposal files deletable with direct-push.
 - 2026-10-25 13:20Z worker-pplx-degrees-1: claimed deg-verify-a (mod-qg-3 replacement candidate verification)
 - 2026-10-25 13:47Z gm-pplx-kern1-1025a: Kernels reorg: 70 modality kernels refiled, NAV-PSYCH-KRN renamed, edges preserved; general bucket (246) blocked on ruling.
+- 2026-10-25 13:55Z gm-pplx-kern1-1025a: Kernels reorg COMPLETE — 316/316 red modality lines, edges preserved, build green.
