@@ -10965,112 +10965,72 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "A habit is what the doing becomes once the deciding drops out of it. The sciences of behaviour have left several distinct answers lying side by side: consequences shaping actions, contexts triggering them, deliberate repetition automatizing them. The classical traditions add a sharper hope: that what is repeated hardens into character as well as routine, and that the hardening can be aimed. The question is where the aim is best placed, and the honest answer runs through environment and design more often than through willpower."
+          "x": "A habit is what the doing becomes once the deciding drops out of it. The route home, the first reach for the phone and the tone a person takes with certain people can all happen without being chosen, and a life is largely made of such settled patterns. The question worth taking seriously is where those patterns come from, what they build, and what it actually takes to change one that hurts."
         },
         {
-          "t": "h",
+          "t": "p",
+          "x": "The answers differ more than I first expected. Consequence learning, context cuing and deliberate repetition each explain a different part of the doing. The classical traditions add a stronger claim on top: what is repeated hardens into character as well as routine, and the hardening can be aimed. Where the aim belongs, in the will or in the world around it, is a live dispute, and the traditions hold it honestly."
+        },
+        {
+          "t": "h2",
           "x": "Nearby terms"
         },
         {
           "t": "p",
-          "x": "Habit: the biggest share of this dossier's material; the umbrella card holds the family, and the map below separates formation, maintenance, discontinuity and the body that carries it."
+          "x": "Habit: the umbrella card [Habit](card:Habit) holds the family; formation, maintenance, discontinuity and the body that carries it are all parts of this theme rather than neighbours of it."
         },
         {
           "t": "p",
-          "x": "Action and conduct: the same territory seen from the choosing side; the Agency dossier (not yet minted as a card) holds the say a person has over their doing, this page what the doing does to the person. [Autonomy](card:Autonomy) is the need that pairs them."
+          "x": "Action and conduct: the same territory seen from the choosing side. The Agency dossier holds the say a person has over their doing; [Autonomy](card:Autonomy) is the need that pairs them."
         },
         {
           "t": "p",
-          "x": "Practice: the deliberate, designed repetition side of the same process, in the map's classical group."
+          "x": "Practice: the deliberate, designed side of repetition; [Habituation by design](card:K257%20%E2%80%94%20Habituation%20by%20design) is its kernel form."
         },
         {
           "t": "p",
-          "x": "Behaviour change: the applied science of moving stuck patterns; its frameworks and techniques hold their own groups below."
+          "x": "Behaviour change: the applied science of moving stuck patterns, from if-then plans to whole taxonomies of techniques."
+        },
+        {
+          "t": "p",
+          "x": "Lapse and routine: the moments and grooves a pattern runs through. The return after a lapse is where most change succeeds or fails."
         },
         {
           "t": "h",
-          "x": "The map: the entries on behaviour"
+          "x": "What repetition builds, and what it asks for"
         },
         {
           "t": "h2",
-          "x": "What the science says a habit is"
+          "x": "What a habit is, once the deciding drops out"
         },
         {
           "t": "p",
-          "x": "[Habit](card:Habit): the umbrella card; its gloss runs the associations and carries the family's map."
+          "x": "The science of habit formation starts from a plain observation: repetition gets faster and easier, until the act no longer waits for a decision. [Habit formation](card:Habit%20formation) holds the acquisition question. Lally's study had 96 volunteers carry out a daily behaviour in the same context for 12 weeks, and the time it took participants to reach 95 percent of their asymptote of automaticity ranged from 18 to 254 days, model estimates that for some participants extended beyond the study's 84 days ([European Journal of Social Psychology 40(6), 2010, abstract](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)). That range is itself the finding: there is no single timeline a person can promise themselves."
         },
         {
           "t": "p",
-          "x": "[Habit formation](card:Habit%20formation): the acquisition question; Lally's study put the time to 95% of the asymptote of automaticity at 18 to 254 days, and the same family of research holds the Wood-and-Neal context-cuing model."
-        },
-        {
-          "t": "p",
-          "x": "[Habit maintenance](card:Habit%20maintenance): the stage after rooting; a systematic review of 100 behaviour-change theories opens with the line that behaviour-change interventions are effective at achieving temporary change while maintenance is rarely attained."
-        },
-        {
-          "t": "p",
-          "x": "[Habituation](card:Habituation): the classical meaning, learning by repetition; Aristotle's Book II line that we become just by doing just acts, in the Ross translation, and the passage read in full below in the Chase translation."
-        },
-        {
-          "t": "p",
-          "x": "[Second nature](card:Second%20nature): the idea that a settled habit works like a natural disposition; the phrase itself is Durant's paraphrase, not Aristotle's."
-        },
-        {
-          "t": "p",
-          "x": "[Context-dependent behaviour (Wood & Neal)](card:Context-dependent%20behaviour%20%28Wood%20%26%20Neal%29): the model that redefined habit as context-cued responding:"
+          "x": "Wendy Wood and David Neal gave the mechanism its sharpest form. On their model, [context-dependent behaviour](card:Context-dependent%20behaviour%20%28Wood%20%26%20Neal%29) is not weak will but learned association:"
         },
         {
           "t": "q",
-          "x": "\"Habits emerge from the gradual learning of associations between responses and the features of performance contexts that have historically covaried with them (e.g., physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the associated response without a mediating goal.\" ([Wood & Neal, \"A New Look at Habits and the Habit-Goal Interface\", Psychological Review 114(4), 843-863, 2007, abstract](https://eric.ed.gov/?id=EJ776723))",
+          "x": "\"Habits emerge from the gradual learning of associations between responses and the features of performance contexts that have historically covaried with them (e.g., physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the associated response without a mediating goal.\" ([Wood and Neal, \"A New Look at Habits and the Habit-Goal Interface\", Psychological Review 114(4), 2007, abstract](https://eric.ed.gov/?id=EJ776723))",
           "s": null
         },
         {
           "t": "p",
-          "x": "[Goal-directed behavior theory](card:Goal-directed%20behavior%20theory): the boundary marker; Dickinson and Balleine's two tests, action-outcome contingency and current motivational value, for what counts as goal-directed rather than habitual."
+          "x": "The goal-directed tradition draws the line on the other side of the same behaviour. Dickinson and Balleine's tests, restated by Ostlund and Balleine, are that, in order to be classified as goal-directed, \"the performance of an action must be shown to depend on two things: (i) the causal relationship between that action and its outcome (i.e., its action-outcome contingency) and (ii) the current motivational value of that outcome\" ([Ostlund and Balleine, \"On habits and addiction\", Drug Discovery Today: Disease Models](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891067/)). [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory) carries the two tests, and the accounts turn out to meet edge to edge: both agree that a habit, once formed, no longer tracks the value of its outcome, which is why devaluing the reward often leaves the behaviour running. The tests tell a person when to stop trusting the pattern; the context model tells them what to change."
         },
         {
           "t": "p",
-          "x": "[Effortless action through long effort](card:Effortless%20action%20through%20long%20effort): the Daoist resolution of the paradox; wu wei as the far end of training, Cook Ding's years of oxen."
+          "x": "The classical side of the same question is older and less mechanistic. [Habituation](card:Habituation) keeps Aristotle's Book II line that we become just by doing just acts, and [Second nature](card:Second%20nature) names the settled result: a disposition that works like a natural one. The Daoist [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) puts wu wei at the far end of the same road, Cook Ding's years of oxen behind a blade that never dulls. [Excellence as habit](card:Excellence%20as%20habit) carries Durant's paraphrase of Aristotle, and the card is honest that it is paraphrase, not text."
         },
         {
           "t": "h2",
-          "x": "The learning side: consequences and models"
+          "x": "Repetition becomes character"
         },
         {
           "t": "p",
-          "x": "[Operant conditioning (Skinner)](card:Operant%20conditioning%20%28Skinner%29): the consequences account; the quote carries the operant as a class of responses that operate on the environment to generate consequences."
-        },
-        {
-          "t": "p",
-          "x": "[Reinforcement schedules (Ferster & Skinner)](card:Reinforcement%20schedules%20%28Ferster%20%26%20Skinner%29): when reinforcement arrives matters as much as whether it does."
-        },
-        {
-          "t": "p",
-          "x": "[Shaping (Skinner)](card:Shaping%20%28Skinner%29): reinforcing successive approximations; in Science and Human Behavior Skinner writes that operant conditioning shapes behaviour as a sculptor shapes a lump of clay, and that complicated operants can be built that would otherwise never appear."
-        },
-        {
-          "t": "p",
-          "x": "[Behavioural chaining (applied behaviour analysis)](card:Behavioural%20chaining%20%28applied%20behaviour%20analysis%29): routines as chains of component steps, taught in sequence."
-        },
-        {
-          "t": "p",
-          "x": "[Ego depletion](card:Ego%20depletion): the willpower-as-resource account and its contested history."
-        },
-        {
-          "t": "p",
-          "x": "[Self-control training](card:Self-control%20training): the strongest test was a caution; Miles and colleagues' six-week programme with active controls found no effect of training on any measure of self-control."
-        },
-        {
-          "t": "p",
-          "x": "[Plasticity of human nature](card:Plasticity%20of%20human%20nature): Dewey's claim that habits are the material education works on; the card carries his line that the real existence of habits is different in old and young."
-        },
-        {
-          "t": "h2",
-          "x": "The classical side: repetition becomes character"
-        },
-        {
-          "t": "p",
-          "x": "[A004 — Become virtuous by doing virtuous acts](card:A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts): Aristotle's builders-by-building line in the Chase translation, with Book II's conditions for an act counting as virtuous. The Ethics puts it plainly:"
+          "x": "Aristotle states the classical claim at the opening of Book II of the Ethics, in the plainest words the tradition has:"
         },
         {
           "t": "q",
@@ -11079,175 +11039,229 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[A108 — Practise habituation through repeated action](card:A108%20%E2%80%94%20Practise%20habituation%20through%20repeated%20action): the same mechanism as principle; repeated conduct forms dispositions in both directions."
+          "x": "[A004 — Become virtuous by doing virtuous acts](card:A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts) carries the principle with Book II's conditions for an act counting as virtuous, and [A108 — Practise habituation through repeated action](card:A108%20%E2%80%94%20Practise%20habituation%20through%20repeated%20action) repeats the mechanism as practice: the same repetition forms dispositions in both directions. The Buddhist rendering, [B088 — Every repetition is a vote (habit as karma)](card:B088%20%E2%80%94%20Every%20repetition%20is%20a%20vote%20%28habit%20as%20karma%29), strengthens the track with each pass, for better or worse."
         },
         {
           "t": "p",
-          "x": "[B088 — Every repetition is a vote (habit as karma)](card:B088%20%E2%80%94%20Every%20repetition%20is%20a%20vote%20%28habit%20as%20karma%29): the Buddhist rendering; each repetition strengthens the track."
+          "x": "Two daily practices keep the classical shape. [B058 — Sit daily — consistency over intensity](card:B058%20%E2%80%94%20Sit%20daily%20%E2%80%94%20consistency%20over%20intensity) takes the Dhammapada's smith removing dross from silver little by little, and [S134 — Build a daily structure](card:S134%20%E2%80%94%20Build%20a%20daily%20structure) takes Marcus naming the day's difficult people before meeting them. Small, boring, repeated: the size of the act is not the point."
         },
         {
           "t": "p",
-          "x": "[B184 — Recognize habit energy](card:B184%20%E2%80%94%20Recognize%20habit%20energy): Thich Nhat Hanh on familiar tendencies such as rushing toward a future happiness; the practice is to recognise the tendency and meet it with mindfulness rather than fight it, and he concedes that some habit energies are very difficult to transform."
+          "x": "William James gave the modern tradition its own version. [P038 — Make habit your flywheel](card:P038%20%E2%80%94%20Make%20habit%20your%20flywheel) takes his image from the Principles of Psychology, where he writes that \"Habit is thus the enormous fly-wheel of society, its most precious conservative agent\" ([James, The Principles of Psychology, ch. 4](https://psychclassics.yorku.ca/James/Principles/prin4.htm)). The flywheel keeps a life on its lines, which is a comfort when the lines are good and a problem when they are not."
         },
         {
           "t": "p",
-          "x": "[P038 — Make habit your flywheel](card:P038%20%E2%80%94%20Make%20habit%20your%20flywheel): James's flywheel image from the Principles of Psychology, taken down to one life."
-        },
-        {
-          "t": "p",
-          "x": "[B058 — Sit daily — consistency over intensity](card:B058%20%E2%80%94%20Sit%20daily%20%E2%80%94%20consistency%20over%20intensity): the Dhammapada's line, a wise man removing his own impurities little by little, as a smith removes dross from silver."
-        },
-        {
-          "t": "p",
-          "x": "[S134 — Build a daily structure](card:S134%20%E2%80%94%20Build%20a%20daily%20structure): Marcus's morning preparation, the day's difficult people named in advance."
-        },
-        {
-          "t": "p",
-          "x": "[Obstruction as stimulus](card:Obstruction%20as%20stimulus): Dewey's hitch; a habit that runs smoothly gives no occasion for thought, and the blockage is where inquiry begins."
-        },
-        {
-          "t": "p",
-          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey again, on deliberation as a trial balancing of habits in imagination."
-        },
-        {
-          "t": "p",
-          "x": "[The habit body](card:The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, distinct from both thought and the objective body; knowledge in the hands."
-        },
-        {
-          "t": "p",
-          "x": "[E014 — Practise the habit body](card:E014%20%E2%80%94%20Practise%20the%20habit%20body): the principle form of the same; the body as our general medium for having a world."
-        },
-        {
-          "t": "p",
-          "x": "[Excellence as habit](card:Excellence%20as%20habit): Durant's paraphrase of Aristotle, labeled on the card as paraphrase."
+          "x": "Thich Nhat Hanh reads the same settledness from inside. [B184 — Recognize habit energy](card:B184%20%E2%80%94%20Recognize%20habit%20energy) names the restless habit of running toward a future happiness, and his practice is to recognize the tendency and meet it with mindfulness rather than fight it; he concedes that some habit energies are very difficult to transform. The Buddha's own retrospective gives the same warning a classical form: after years of, in his words, beating down, constraining and crushing his mind with his awareness, his verdict was that the racking practice of austerities had attained no superior human state, and the path appeared instead as a memory of ease ([Mahasaccaka Sutta, MN 36](https://www.accesstoinsight.org/tipitaka/mn/mn.036.than.html)). The two methods, effort and recognition, are answers to different failures, and a person facing a stuck pattern does well to know which failure is theirs."
         },
         {
           "t": "h2",
-          "x": "Changing a stuck pattern"
+          "x": "The body that carries it"
         },
         {
           "t": "p",
-          "x": "[Habit discontinuity](card:Habit%20discontinuity): the finding that life-course changes loosen old cues; Verplanken and Roy's 800-participant experiment and its three-month window, with the card's honest limits."
+          "x": "Habits are not confined to the head. Merleau-Ponty's [habit body](card:The%20habit%20body) treats habit as the body's own way of having a world: knowledge in the hands, a mediator between thought and setting, distinct from both. [E014 — Practise the habit body](card:E014%20%E2%80%94%20Practise%20the%20habit%20body) carries the principle form, the body as our general medium for having a world."
         },
         {
           "t": "p",
-          "x": "[Habit reversal theory Azrin](card:Habit%20reversal%20theory%20Azrin): awareness training plus competing response for nervous habits and tics."
-        },
-        {
-          "t": "p",
-          "x": "[Relapse prevention protocols](card:Relapse%20prevention%20protocols): Marlatt's high-risk situations and the coping-skills answer."
-        },
-        {
-          "t": "p",
-          "x": "[Stimulus control theory](card:Stimulus%20control%20theory): Bootzin's arrangement of the environment so the target response occurs on cue and competing responses do not; a later review found benefit for insomnia while judging the studies generally poor and the conditioning mechanism unproven."
-        },
-        {
-          "t": "p",
-          "x": "[Implementation intentions](card:Implementation%20intentions): Gollwitzer's if-then plans, advance decisions linking a critical situation to a goal-directed response; the meta-analytic verdict is that effects are typically of medium-to-large size."
-        },
-        {
-          "t": "p",
-          "x": "[Tiny habits (Fogg)](card:Tiny%20habits%20%28Fogg%29): motivation, ability and prompt; the design answer of shrinking the behaviour and anchoring it to a routine."
-        },
-        {
-          "t": "p",
-          "x": "[Habit stacking](card:Habit%20stacking): anchoring the new to an existing cue; Fogg's recipe cards name the Anchor Moment, the Tiny Behavior and the celebration, and the average time to maximum automaticity in Lally's data was 66 days."
-        },
-        {
-          "t": "p",
-          "x": "[Keystone habits](card:Keystone%20habits): the spillover claim, with its tendency-not-guarantee caveat."
-        },
-        {
-          "t": "p",
-          "x": "[Behavioral activation](card:Behavioral%20activation): the depression loop interrupted from the behaviour side; act according to the schedule, not the feeling."
-        },
-        {
-          "t": "p",
-          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory): Carver and Scheier's cybernetic account: goals as reference values, perception as input, and action closing the gap between the two."
-        },
-        {
-          "t": "p",
-          "x": "[Transtheoretical model (Prochaska & DiClemente)](card:Transtheoretical%20model%20%28Prochaska%20%26%20DiClemente%29): precontemplation to maintenance; the stages a change runs through."
-        },
-        {
-          "t": "p",
-          "x": "[Behavior change wheel theory Michie](card:Behavior%20change%20wheel%20theory%20Michie): the COM-B system, capability, opportunity and motivation as the three conditions."
-        },
-        {
-          "t": "p",
-          "x": "[Nudge theory Thaler](card:Nudge%20theory%20Thaler): choice architecture; fruit at eye level, not the ban."
-        },
-        {
-          "t": "p",
-          "x": "[Situation selection](card:Situation%20selection): choosing the situations that select the behaviour."
-        },
-        {
-          "t": "p",
-          "x": "[Situational strategies](card:Situational%20strategies): Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time."
-        },
-        {
-          "t": "p",
-          "x": "[PP072 — Design the environment to support the practice](card:PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice): the Wood-and-Neal route applied; upstream control, phone in another room, guitar left visible."
-        },
-        {
-          "t": "p",
-          "x": "[S133 — Accept that you will fail and return](card:S133%20%E2%80%94%20Accept%20that%20you%20will%20fail%20and%20return): Marcus's line on returning to the harmony quickly."
+          "x": "John Dewey makes habit the material of growth. [Plasticity of human nature](card:Plasticity%20of%20human%20nature) carries his claim that habits are what education works on, and that their real existence differs in old and young. A habit that runs smoothly gives no occasion for thought, so the blockage is where inquiry begins: that is Dewey's [Obstruction as stimulus](card:Obstruction%20as%20stimulus). Deliberation, on his account, is itself a [rehearsal](card:Deliberation%20as%20rehearsal): a trial balancing of habits in imagination."
         },
         {
           "t": "h2",
-          "x": "Tracking and rehearsal"
+          "x": "What consequences teach"
         },
         {
           "t": "p",
-          "x": "[Self-monitoring (Michie et al.)](card:Self-monitoring%20%28Michie%20et%20al.%29): technique 16 of the CALO-RE taxonomy; keeping a record as a method of change."
+          "x": "The learning sciences explain behaviour from its results. [Operant conditioning (Skinner)](card:Operant%20conditioning%20%28Skinner%29) defines the operant as a class of responses that operate on the environment to generate consequences, and [Reinforcement schedules (Ferster & Skinner)](card:Reinforcement%20schedules%20%28Ferster%20%26%20Skinner%29) adds that when reinforcement arrives matters as much as whether it does."
         },
         {
           "t": "p",
-          "x": "[BE011 — Recognise that behaviour is measurable — tracking improves outcomes](card:BE011%20%E2%80%94%20Recognise%20that%20behaviour%20is%20measurable%20%E2%80%94%20tracking%20improves%20outcomes): Harkin's 138-study meta-analysis of monitoring prompts, with the card's honest bounds."
+          "x": "Complex behaviour is built, not summoned. [Shaping (Skinner)](card:Shaping%20%28Skinner%29) reinforces successive approximations; in Science and Human Behavior, Skinner writes that operant conditioning shapes behaviour as a sculptor shapes a lump of clay, and that complicated operants can be built that would otherwise never appear. [Behavioural chaining (applied behaviour analysis)](card:Behavioural%20chaining%20%28applied%20behaviour%20analysis%29) teaches routines as chains of component steps, in sequence."
         },
         {
           "t": "p",
-          "x": "[MO044 — Learn to track habits — monitoring sustains](card:MO044%20%E2%80%94%20Learn%20to%20track%20habits%20%E2%80%94%20monitoring%20sustains): cue-monitoring and vigilant monitoring for unwanted habits, from the Gardner 2021 review."
-        },
-        {
-          "t": "p",
-          "x": "[Behavioural rehearsal role-play (DBT, social skills training)](card:Behavioural%20rehearsal%20role-play%20%28DBT%2C%20social%20skills%20training%29): practising a target response before performing it in real life; the card carries the Miltenberger and Cowperthwait line."
-        },
-        {
-          "t": "p",
-          "x": "[BE021 — Learn to use behavioural rehearsal — practise before performing](card:BE021%20%E2%80%94%20Learn%20to%20use%20behavioural%20rehearsal%20%E2%80%94%20practise%20before%20performing): role-play, dialogue rehearsal and, for those who decline both, covert rehearsal in imagination."
+          "x": "The willpower side of this science has not held up well. [Ego depletion](card:Ego%20depletion) holds the willpower-as-resource account together with its contested history, and [Self-control training](card:Self-control%20training) carries the strongest caution: Miles and colleagues' six-week programme with active controls found no effect of training on any measure of self-control. What those nulls mean is disputed."
         },
         {
           "t": "h2",
-          "x": "Related questions and parallels"
+          "x": "Why maintenance fails"
         },
         {
           "t": "p",
-          "x": "Is habit the enemy of freedom or its form? The traditions differ in emphasis. James's flywheel makes habit society's conservative agent; Dewey's habits are the material education works on and the stuff that obstruction interrupts; the meditative traditions treat automaticity as something to be seen through. The question runs through all of them."
+          "x": "If forming a pattern is hard, keeping it is harder. [Habit maintenance](card:Habit%20maintenance) opens with a systematic review of 100 behaviour-change theories and its opening line: interventions are effective at achieving temporary change while maintenance is rarely attained. That is the review's verdict on its hundred theories, not a proof about every change."
         },
         {
           "t": "p",
-          "x": "What is a body in all this? Merleau-Ponty's answer, knowledge in the hands, is a different question than the laboratory's: where a habit lives, not what triggers it. The habit body is the phenomenological account of the same fact the context account measures."
+          "x": "Life-course change offers one opening. [Habit discontinuity](card:Habit%20discontinuity) carries two studies behind one argument: Wood, Tam and Witt tracked people through an actual move and found the habits that persisted were the ones whose performance context had stayed the same, and Verplanken and Roy's 800-participant experiment found that a major change in life circumstances loosened old habits most for people whose old contexts did not recur and whose new settings supported the change. For clinical patterns, [Relapse prevention protocols](card:Relapse%20prevention%20protocols) identify Marlatt's high-risk situations and answer them with coping skills, and [Habit reversal theory Azrin](card:Habit%20reversal%20theory%20Azrin) pairs awareness training with a competing response for nervous habits and tics."
         },
         {
           "t": "p",
-          "x": "Why does maintenance fail so often? The systematic review's opening line, that maintenance is rarely attained, is the review's verdict on its 100 theories, not a proof about every change; the techniques above are answers, not guarantees."
+          "x": "The environment can be arranged directly. [Stimulus control theory](card:Stimulus%20control%20theory) is Bootzin's arrangement of the setting so the target response occurs on cue and competing responses do not; a later review found benefit for insomnia while judging the studies generally poor and the conditioning mechanism unproven. And the return matters as much as the streak: [S133 — Accept that you will fail and return](card:S133%20%E2%80%94%20Accept%20that%20you%20will%20fail%20and%20return) carries Marcus's line on returning to the harmony quickly."
+        },
+        {
+          "t": "h2",
+          "x": "Changing a pattern by design"
+        },
+        {
+          "t": "p",
+          "x": "The design tools start from the moment of performance. [Implementation intentions](card:Implementation%20intentions) are Gollwitzer's if-then plans, advance decisions linking a critical situation to a goal-directed response; the meta-analytic verdict is that effects are typically of medium-to-large size. [Tiny habits (Fogg)](card:Tiny%20habits%20%28Fogg%29) shrinks the behaviour to something motivation can always carry and anchors it to a routine, and [Habit stacking](card:Habit%20stacking) names the recipe cards: the Anchor Moment, the Tiny Behavior and the celebration."
+        },
+        {
+          "t": "p",
+          "x": "The clinical side has its own design logics. [Behavioral activation](card:Behavioral%20activation) interrupts the depression loop from the behaviour side, acting according to the schedule rather than the feeling. [Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory) is Carver and Scheier's cybernetic account: goals as reference values, perception as input, action closing the gap."
+        },
+        {
+          "t": "p",
+          "x": "Readiness models and mechanism models answer different questions. [Transtheoretical model (Prochaska & DiClemente)](card:Transtheoretical%20model%20%28Prochaska%20%26%20DiClemente%29) maps whether a person has moved from precontemplation through to maintenance, and [Behavior change wheel theory Michie](card:Behavior%20change%20wheel%20theory%20Michie) asks instead whether the change has the capability, opportunity and motivation it needs."
+        },
+        {
+          "t": "p",
+          "x": "The design can also be somebody else's. [Nudge theory Thaler](card:Nudge%20theory%20Thaler) is choice architecture, fruit at eye level rather than the ban. A person can do it to themselves: [Situation selection](card:Situation%20selection) chooses the situations that select the behaviour, and [Situational strategies](card:Situational%20strategies) carries Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time. [PP072 — Design the environment to support the practice](card:PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice) makes it concrete: phone in another room, guitar left visible. [Keystone habits](card:Keystone%20habits) adds the spillover claim, with its tendency-not-guarantee caveat."
+        },
+        {
+          "t": "h2",
+          "x": "Watching what you do"
+        },
+        {
+          "t": "p",
+          "x": "Measurement is its own lever. [Self-monitoring (Michie et al.)](card:Self-monitoring%20%28Michie%20et%20al.%29) is technique 16 of the CALO-RE taxonomy, keeping a record as a method of change, and [BE011 — Recognise that behaviour is measurable — tracking improves outcomes](card:BE011%20%E2%80%94%20Recognise%20that%20behaviour%20is%20measurable%20%E2%80%94%20tracking%20improves%20outcomes) carries Harkin's 138-study meta-analysis: monitoring prompts raised goal attainment by a moderate average, mainly in personal health goals, and the effect is no guarantee for every person or goal. [MO044 — Learn to track habits — monitoring sustains](card:MO044%20%E2%80%94%20Learn%20to%20track%20habits%20%E2%80%94%20monitoring%20sustains) separates cue-monitoring from vigilant monitoring for unwanted habits, from the Gardner 2021 review."
+        },
+        {
+          "t": "p",
+          "x": "A response can also be rehearsed before it is needed. [Behavioural rehearsal role-play (DBT, social skills training)](card:Behavioural%20rehearsal%20role-play%20%28DBT%2C%20social%20skills%20training%29) practises a target response before performing it in real life, and [BE021 — Learn to use behavioural rehearsal — practise before performing](card:BE021%20%E2%80%94%20Learn%20to%20use%20behavioural%20rehearsal%20%E2%80%94%20practise%20before%20performing) offers role-play, dialogue rehearsal and, for those who decline both, covert rehearsal in imagination."
         },
         {
           "t": "h",
-          "x": "Practice: variation, selection, retention"
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Does a habit need an active goal to fire?"
         },
         {
           "t": "p",
-          "x": "The practice material clusters into design and review. The design side: [Environment design](card:K177%20%E2%80%94%20Environment%20design) makes the desired behaviour the easy choice. [Habit stacking](card:K176%20%E2%80%94%20Habit%20stacking) anchors it to a cue that already fires. [Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions) pre-decides the moment. [Habituation by design](card:K257%20%E2%80%94%20Habituation%20by%20design) runs a thirty-day plan of micro-actions for one virtue. The review side: [Weekly habit review](card:K193%20%E2%80%94%20Weekly%20habit%20review) reads the week as a design review, and [Deimplementation](card:K181%20%E2%80%94%20Deimplementation) asks what to stop. The unlearning side: [The Habit Releaser](card:K393%20%E2%80%94%20The%20Habit%20Releaser) breaks a small pattern to see the autopilot."
+          "x": "Consider the cyclist who rides to campus every morning. When the lectures move online, does the bicycle still get ridden? The two research traditions answer differently, one from experiments on travel choices, the other from a review and a reanalysis of reaction-time data."
         },
         {
           "t": "p",
-          "x": "This is an editorial combination, not a validated recipe. The trial is: pick one behaviour, design the cue and the environment around it, review weekly, and judge the result by whether the behaviour fires in the week. Retain the anchor and the review if the behaviour fires; drop them if it does not. A person who keeps one anchor, one review and one environment change that survives the trial has what the theme offered."
+          "x": "Aarts and Dijksterhuis tested habits as goal-action links. In their travel studies, \"the automaticity in habits is conditional on the presence of an active goal (cf., goal-dependent automaticity; J. A. Bargh, 1989), supporting the idea that habits are mentally represented as goal—action links\" ([Aarts and Dijksterhuis, Journal of Personality and Social Psychology 78(1), 2000, abstract](https://research.tue.nl/en/publications/habits-as-knowledge-structures-automaticity-in-goal-directed-beha/)). In their account the goal is the trigger: habits are mentally represented as goal-action links, and the automaticity is conditional on that goal being active. Their abstract adds a practical note: forming implementation intentions, a strong mental link between a goal and an action, may simulate goal-directed automaticity in habits."
+        },
+        {
+          "t": "p",
+          "x": "Wood, Mazar and Neal state the opposing view directly: \"We found that habitual responses are activated regardless of goals, but they can be performed in concert with goal pursuit\" ([Wood, Mazar and Neal, \"Habits and Goals in Human Behavior: Separate but Interacting Systems\", 2021](https://marketing.wharton.upenn.edu/wp-content/uploads/2022/02/Wood.Mazar_.Neal_.2021.pdf)). On their account, \"habits are not goal dependent; they are activated directly by context cues without supporting goals\", and \"strong habits persist in memory regardless of whether they are consistent with current goals\". The cyclist's morning might fire from the hallway and the helmet hook alone."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement concerns what the trigger is, and it stays a disagreement about activation: whether an active goal is necessary for a habitual response to fire, not whether a person must perform every response that comes to mind. Wood, Mazar and Neal's own sentence keeps the two apart, reporting responses activated regardless of goals but performed in concert with goal pursuit. I lean toward the context-direct account, because it predicts the failure that matters most here: the pattern that survives its own rejection. In practice I examine cues alongside intentions, because changing the aim may leave the old response readily activated, and neither account alone establishes which intervention will work for a particular person. That leaves the operational question where it belongs: not only what should I do instead, but what am I already primed to do next?"
+        },
+        {
+          "t": "h2",
+          "x": "Can self-control be strengthened by practice?"
+        },
+        {
+          "t": "p",
+          "x": "The strength tradition says yes. Oaten and Cheng put participants through a two-month programme of regular physical exercise, chosen because keeping it up requires regulation, and found \"significant improvement in self-regulatory capacity\" together with reported decreases in perceived stress, emotional distress, smoking, alcohol and caffeine consumption, and improvements in healthy eating, emotional control, study habits and spending control ([Oaten and Cheng, British Journal of Health Psychology 11(4), 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/17032494/)). Their conclusion was direct: \"The idea that the capacity for self-regulation can be improved is therefore of vast practical importance.\""
+        },
+        {
+          "t": "p",
+          "x": "Miles and colleagues ran the same hypothesis with active and no-contact control conditions. They had 174 participants complete a six-week programme of cognitive or behavioural self-control tasks, compared training with active and no-contact control conditions, and found \"no effect of training on any measure of self-control\"; trained participants did not show reduced ego depletion, become better at overcoming their habits, or report exerting more self-control in everyday life ([Miles et al., Journal of Experimental Psychology: General 145, 2016, abstract](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/xge0000185&resultType=core&format=json)). Their stated implication is that \"training self-control through repeated practice does not result in generalized improvements in self-control.\""
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on what the earlier studies actually tested. Oaten and Cheng's design compared each person against their own earlier control phase, and Miles and colleagues note that in many earlier studies improvements \"could be attributable to methodological factors (e.g., passive control conditions)\". The two papers also used different interventions, exercise programmes against cognitive and behavioural tasks, so the null is not a failed replication of the earlier result. Where I lean: I would not spend six weeks on self-control drills, and I would treat any single-study claim on either side with the caution the designs invite."
+        },
+        {
+          "t": "h2",
+          "x": "Does one self-control task impair performance on the next?"
+        },
+        {
+          "t": "p",
+          "x": "One proposed mechanism is a fuel: the strength model holds that self-control is a limited resource depleted after a period of exertion. The model's operational prediction was the sequential-task effect, a measurable drop in performance on a second self-control task, and a meta-analysis of the experiments initially found a medium-sized effect."
+        },
+        {
+          "t": "p",
+          "x": "The prediction then met a registered replication. Twenty-three laboratories ran the standardized sequential-task protocol on 2,141 participants, and \"the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]\" ([Hagger et al., Perspectives on Psychological Science 11(4), 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)). The result concerns one standardized protocol, not every depletion finding ever published."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on what the near-zero effect settles. It bears on the protocol's operational prediction, and not directly on the resource mechanism: even a positive result would not by itself have established that mechanism, and a failed manipulation is a further possible reading of a null. What I take from the exchange is practical: a plan that only works if my willpower tank is full is a fragile plan, and the situational tools above do not depend on the tank."
         },
         {
           "t": "h",
-          "x": "Story: the stories that carry the theme"
+          "x": "Practice: designing what repeats"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "A stuck pattern usually needs the cue, the environment or the review rhythm to vary, and rarely needs the person to become someone else first. Begin by naming the pattern's cue and the moment it fires, before choosing any exercise from below."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels cluster into design, review and loosening. Choose one behaviour, one anchor and one review, and let the trial decide what stays."
+        },
+        {
+          "t": "h2",
+          "x": "Make the behaviour the easy choice"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Environment design](card:K177%20%E2%80%94%20Environment%20design): arrange the setting so the desired behaviour is the easy choice and the undesired one is hard. Notice how often the cue, not the intention, decides the moment."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Habit stacking](card:K176%20%E2%80%94%20Habit%20stacking): anchor the new behaviour to a cue that already fires, and let the existing routine do the reminding. Notice whether the anchor holds through a change of place or schedule."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): pre-decide the moment as an if-then plan, so the decision is made before fatigue arrives. Notice how much deciding the plan removes at the critical moment."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Habituation by design](card:K257%20%E2%80%94%20Habituation%20by%20design): choose one virtue and a micro-action that expresses it, repeated over thirty days. Notice the act becoming easier before it becomes interesting."
+        },
+        {
+          "t": "h2",
+          "x": "Review what repeats"
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Weekly habit review](card:K193%20%E2%80%94%20Weekly%20habit%20review): read the week as a design review, one page, asking which cued behaviours fired and which did not. Notice which cue did the work and which the review missed."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Deimplementation](card:K181%20%E2%80%94%20Deimplementation): regularly retire a practice, strategy or rule that no longer earns its keep. Notice what the removal makes room for."
+        },
+        {
+          "t": "h2",
+          "x": "Loosen what is stuck"
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[The Habit Releaser](card:K393%20%E2%80%94%20The%20Habit%20Releaser): once this week, deliberately break a small habit: a different chair, a different route. Notice how much of the day runs on autopilot, and how perception sharpens when the pattern is broken."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Keep what survives the trial only if the pattern still serves the aim it was chosen for: a behaviour that fires reliably but works against the aim is a habit doing its job in the wrong cause, and the weekly review is where that gets caught. What people keep, in the end, is what works for them."
+        },
+        {
+          "t": "h",
+          "x": "Story: lives shaped by repetition"
+        },
+        {
+          "t": "p",
+          "x": "The stories hold the pattern at full length: years of it, the daily offices of it, and the return after it fails."
+        },
+        {
+          "t": "h2",
+          "x": "Years of practice"
         },
         {
           "t": "p",
@@ -11259,7 +11273,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Deliberate Practice](card:ST308%20%E2%80%94%20Deliberate%20Practice): Ericsson's Berlin violinists; the difference was accumulated hours of practice focused on weaknesses with immediate feedback, at the edge of ability."
+          "x": "[Deliberate Practice](card:ST308%20%E2%80%94%20Deliberate%20Practice): Ericsson's team followed violinists at a Berlin conservatory and tallied how they practised; by the same age, the best had logged thousands more hours of work focused on weaknesses, with immediate feedback, at the edge of ability."
         },
         {
           "t": "p",
@@ -11274,6 +11288,10 @@ window.fcDossiersData = {
           "x": "[Phil Connors Practises](card:ST222%20%E2%80%94%20Phil%20Connors%20Practises): a weatherman trapped in a repeating day practises piano, French and ice sculpture with no audience and no reward, until the practice becomes what he is."
         },
         {
+          "t": "h2",
+          "x": "The day's offices"
+        },
+        {
           "t": "p",
           "x": "[The Morning Preparation](card:ST217%20%E2%80%94%20The%20Morning%20Preparation): at dawn Marcus names the day's difficult people and their ignorance of good and evil before he meets them."
         },
@@ -11282,12 +11300,16 @@ window.fcDossiersData = {
           "x": "[The Evening Review](card:ST220%20%E2%80%94%20The%20Evening%20Review): Seneca, with the lights out, reviews the day's cases, what he did badly and what well."
         },
         {
+          "t": "h2",
+          "x": "Returning after a fall"
+        },
+        {
           "t": "p",
           "x": "[The Monk and the Seasons](card:ST094%20%E2%80%94%20The%20Monk%20and%20the%20Seasons): a child monk on a floating temple torments animals, learns love, commits murder, does penance dragging a millstone up a mountain; spring returns with a new child."
         },
         {
           "t": "p",
-          "x": "[Backsliding into Abundance](card:ST391%20%E2%80%94%20Backsliding%20into%20Abundance): a meditation on the return after the fall, read against the principle that the mistake is part of the practice."
+          "x": "[Backsliding into Abundance](card:ST391%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's own account of force failing, remembered ease becoming the path, and the return to solid food judged as part of the practice."
         }
       ],
       "group": "eemm",

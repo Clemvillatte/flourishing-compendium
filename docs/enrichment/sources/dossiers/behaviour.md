@@ -374,3 +374,19 @@ the creative-prompt rework; the remaining adviser round-3 prose repairs
 separation, Miles design wording, depletion heading, ST308 logline)
 were applied and pushed earlier in the session (commits through
 eedd90230), except any the supervisor finds on review.
+
+## Supervisor content-review record (supervisor-margauth1839068, 2026-10-25, takeover of stale dos15)
+
+The worker's advisor round-3 prose repairs (commits through eedd90230) were
+verified in place. Divergence quotes independently raw-verified this
+session: Aarts & Dijksterhuis 2000 (TU/e portal HTML, 2 fragments), Wood,
+Mazar & Neal 2021 (Wharton PDF via pdftotext, 3 fragments), Oaten & Cheng
+2006 (Europe PMC core, 2), Miles et al. 2016 (Europe PMC core, 3),
+Hagger et al. 2016 (Europe PMC core, 1, including the source's own
+unclosed parenthesis). Two remaining figurative phrasings repaired by the
+supervisor: "does the bicycle still call to be ridden?" -> "does the
+bicycle still get ridden?" and "the morning goal does the waking" ->
+"the goal is the trigger". The cyclist case is the studies' own example
+(frequent cycling to the university appears in the Aarts & Dijksterhuis
+abstract). Checker exit 0 (68 card links, 21 headers, 11 external
+carriers). Content review: PASS.
