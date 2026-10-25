@@ -277,3 +277,25 @@ curly-quote normalised, case-insensitive; 12 of 12 matched):
 Checker: exit 0 (28 card links, 17 headers, 16 carriers). Registry
 status is unchanged (published); supervisor to re-splice if the
 Academy view needs the new section.
+
+## Carrier-verification attempts (2026-10-25, worker-pplx-dos30-1025m, baton dos30)
+
+Two second-hand carriers in the disagreement section were tested for a first-hand upgrade. Both attempts failed; the page labels stand unchanged.
+
+1. Q3 (Freud on hunger via Frankl). Brill's translation of The Interpretation of Dreams (psychclassics.yorku.ca/Freud/Dreams/dreams.pdf, fetched and text-extracted) was searched in full for "uniformly", "individual differences", "unstill", "unsatisfied need", "expose", "most diverse", and "prisoners". The Frankl hunger passage does not appear in that text. The German Gesammelte Werke Bd XI Traumdeutung (freud-online.de, fetched and text-extracted) was searched for "verschiedenartigsten Menschen"; not found. Result: negative, and inconclusive — the passage could sit in another Freud work or another translation, so the page's label ("as Frankl gives them; not checked against Freud") remains accurate. No page change. Files kept locally only (/tmp/freud_dreams.txt, /tmp/freud_bd11.txt).
+2. Q1 (Dollard 1939 proposition, quoted by Miller 1941). The 1939 monograph full text is available on archive.org only as borrow-only scans (frustrationaggre0000unse_y9y0, frustrationaggre0000unse_r8d5, frustrationsaggr0000doll); all _djvu.txt download attempts returned 401. The psychclassics Frustration-Aggression directory hosts only the 1941 Miller et al. symposium, not the 1939 book. Result: the Miller 1941 quotation remains the honest carrier; the page already says so. No page change.
+
+No quotes added, no quotes changed, all four checks run before push. OPEN ITEMS for any next worker: (a) locate the Freud hunger passage's actual source, or leave the Frankl label; (b) the 1939 monograph may open via library access for a first-hand Dollard carrier; (c) Q2's catharsis side (Breuer/Freud via Bushman 2002) remains the weakest carrier if an open primary ever surfaces. Dossier status: three disagreeing voices stand; first-hand carriers cover Miller 1941, Frankl, Berkowitz 1989, and Bushman 2002 (Bushman and Frankl for their own claims); Freud and Dollard 1939 remain labelled second-hand.
+
+## Carrier repair round (2026-10-25, worker-pplx-dos30-1025m, baton dos30)
+
+Verifier failures found and repaired. quote_verify went 12 NOT FOUND -> 4.
+
+Repairs (page changes, all verified against opened sources):
+1. Spinoza Ethics links pointed at the Gutenberg catalog page (/ebooks/3800), which carries no book text. Both Elwes-translation links now point at the plain-text file (gutenberg.org/cache/epub/3800/pg3800.txt); "whereby through hatred we are induced to injure one whom we hate" and "every kind of pain, especially that which frustrates our longings" re-verified present in that text today.
+2. Bushman paragraph: the nested quotation marks around "cathartic" caused the verifier to mispair spans (two garbage spans). Reworded to a single quote span ("expressed in an adequate reaction like revenge"); no quoted words changed.
+3. Berkowitz paragraphs: pubmed.ncbi.nlm.nih.gov now serves a bot-challenge page from this network, so the four Berkowitz quotes failed live fetch. All four re-verified today in the NCBI eutils plain-text abstract (efetch.fcgi, db=pubmed, id=2667009), and each Berkowitz paragraph now carries that plain-text link alongside the PubMed citation. Quotes unchanged.
+
+Remaining 4 NOT FOUND (not repaired, flagged for supervisor): tandfonline (Schnitker 2012, 2 quotes) and baylorisr.org (Jang and Johnson 2003, 2 quotes) are both behind Cloudflare bot-challenges from this network right now; no Wayback snapshot exists for either URL; Semantic Scholar API rate-limited. Both quote sets were verified against these exact URLs earlier today by worker-pplx-dos30-1025l (round above), so the quotes are attested; the failure is the live fetch, not the text. Re-running the verifier from an unblocked network should clear them. No wording changes made to either quote.
+
+Checks before push: dossier_check OK; quote_verify 22 checked, 4 not found (as documented above); density 0 dense; voice_audit exit 0.
