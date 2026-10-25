@@ -7,7 +7,7 @@ file: "Progressive overload in attentional training"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Progressive overload is a term borrowed from strength training: raise the demand on a system in steps so that it keeps adapting. Applied to attention, the idea is that gradually harder or longer practice builds capacity. The claim is cited to Lutz et al. (2008) and Zanesco et al. (2016). The Lutz paper supports it; no 2016 Zanesco paper matching the sentence has been located, though a 2018 Zanesco et al. paper exists.
+Progressive overload is a term borrowed from strength training: raise the demand on a system in steps so that it keeps adapting. Applied to attention, the idea is that gradually harder or longer practice builds capacity. The claim is cited to Lutz et al. (2008) and Zanesco et al. (2016). No 2016 Zanesco paper matching the sentence has been located, though a 2018 Zanesco et al. paper exists.
 
 ### What Lutz and colleagues describe
 

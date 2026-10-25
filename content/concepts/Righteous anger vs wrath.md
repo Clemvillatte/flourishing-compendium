@@ -23,7 +23,7 @@ The word wrath comes more from scripture than from Aristotle. Two verses in the 
 
 ### Here
 
-A029 (Practice the right kind of anger) and K253 (The mean calibration) follow Aristotle's mean. A017 (Practice gentleness) and K040 (See that anger destroys what you are trying to protect) lean toward restraint, and Aristotle himself does not say that anger destroys what one protects. SP032 and BE033 apply the topic in other terms. The page claims no empirical result about whether anger helps or harms, and draws only on NE IV.5.
+A029 (Practice the right kind of anger) and K253 (The mean calibration) follow Aristotle's mean. A017 (Practice gentleness) and K040 (See that anger destroys what you are trying to protect) lean toward restraint, and Aristotle himself does not say that anger destroys what one protects. SP032 and BE033 apply the topic in other terms. The page claims no empirical result about whether anger helps or harms, and the discussion of Aristotle draws only on NE IV.5.
 
 ## Related concepts
 
