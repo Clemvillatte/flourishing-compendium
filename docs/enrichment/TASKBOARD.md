@@ -3669,3 +3669,12 @@ NAV-PSYCH-V1K → NAV-PSYCH-KRN ("Psychological Kernels") complete: 246 kernels'
 3. Validator front-matter rule: I need a narrow nav-reorg carve-out so structural changes validate cleanly — currently the front-matter rule rejects `primaryPath` changes even when owner-authorized. I recorded the disposition on TASKBOARD; please confirm the carve-out is acceptable.
 
 Everything else in the work order is DONE except the general bucket. Zero link breakage verified three ways: edges preserved, no orphans, build green.
+
+## KERNELS REORGANIZATION — SESSION COMPLETE (13:56Z, gm-pplx-kern1-1025a)
+
+The "general" bucket is applied per the owner's own work-order wording ("if a kernel has no clear modality, mark 'Therapeutic approach: general' — do not invent") — no further owner ruling was needed; the earlier BLOCK note is superseded. Final state: 316/316 kernels carry a red `> **Therapeutic approach: ...**` line above `## Operationalises`. Edges 32663 → 32663 preserved across every commit. Build green (5951 entries).
+
+**Remaining for next supervisor/owner (not blockers, recorded):**
+1. The 3 questions at 13:42Z stand for the owner's optional review (multi-modality display style, validator carve-out mechanism, whether "general" should eventually be narrowed with per-card review).
+2. "Psychological Kernels" is currently ONE group node (NAV-PSYCH-KRN) — the modality folders are group nodes sibling to it (NAV-PSYCH-ACT etc. under NAV-PSYCHOLOGY), not nested inside NAV-PSYCH-KRN. If the owner wants a literal nested tree (KRN containing ACT/CFT/etc. as sub-nodes), that's a follow-up requiring site-side nav-tree logic review — flagged, not done.
+3. QC: random 25-card spot check passed 23/25; the 2 "fails" (K398, K395) were my own re-scan using a stricter line-match than the original evidence — both are correctly evidenced (K395 via body text; K398 via inherited primaryPath).
