@@ -181,6 +181,20 @@ The Buddha then asks:
 
 Their ideals differ over whether excellent character includes appropriate anger ([Aristotle, Nicomachean Ethics IV.5](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html); [SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). The passages leave unresolved whether a firm, anger-free response can perform the protective role Aristotle associates with anger.
 
+### Is an act's moral worth complete before its effects exist?
+
+Kant holds that the good will carries its whole worth in itself, whatever the world then does with it. His image is the jewel:
+
+> "Even if it should happen that, owing to special disfavour of fortune, or the niggardly provision of a step-motherly nature, this will should wholly lack power to accomplish its purpose, if with its greatest efforts it should yet achieve nothing... then, like a jewel, it would still shine by its own light, as a thing which has its whole value in itself. Its usefulness or fruitlessness can neither add nor take away anything from this value." ([Kant, Groundwork of the Metaphysics of Morals, Abbott translation](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm))
+
+Mill holds that the rightness of an act is a fact about what it tends to do, and that the same deed counts the same whatever the doer's motive:
+
+> "The creed which accepts as the foundation of morals, Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness." ([Mill, Utilitarianism, chapter II](https://www.gutenberg.org/files/11224/11224-h/11224-h.htm))
+
+> "He who saves a fellow creature from drowning does what is morally right, whether his motive be duty, or the hope of being paid for his trouble." ([Mill, Utilitarianism, chapter II](https://www.gutenberg.org/files/11224/11224-h/11224-h.htm))
+
+The two positions divide over the same proposition: whether an act's moral worth is settled before its effects exist. Kant affirms it — fruitlessness can subtract nothing from the good will; Mill denies it — rightness is proportioned to the act's tendency, and the rescuer's deed is right because it tends to a life saved, not because the will was pure. What remains unresolved is whether these are rival answers to one question or answers to two — the worth of the agent, which Mill concedes belongs to motive, against the worth of the act, which he assigns to tendency. The resolves of this factor sit exactly on that seam: they train the intending, and the traditions do not agree on how much of the moral result is already decided there.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken.
