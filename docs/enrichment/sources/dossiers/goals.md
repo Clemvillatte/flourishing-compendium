@@ -263,7 +263,9 @@ Two divergences total; the model's 3-5 guidance remains superseded by
 the evidence rule — FLAGGED FOR SUPERVISOR (accept two, or direct a
 third with sources). Checker exit 0: 51 card links, 18 headers, 10
 external carriers. QC status: pending advisor round 3; registry rebuild
-flag stands.## QC round 3 repair (revision 4.3, 2026-10-25 02:01Z, worker-pplx-b65d2ee8)
+flag stands.
+
+## QC round 3 repair (revision 4.3, 2026-10-25 02:01Z, worker-pplx-b65d2ee8)
 
 Corrections to the 4.2 entry first: its timestamp placeholder was wrong
 (the actual clock at the 4.2 save was 01:58Z); "three PMC quotes kept
@@ -333,3 +335,53 @@ monitored" sentence, both confirmed by eye against the fetched page
 text; the script cannot fetch that page type). Checker exit 0 (51
 links, 17 headers, 11 carrier occurrences / 10 distinct URLs). QC
 status: pending advisor round 4.
+
+## QC round 4 repair (revision 4.5, 2026-10-25 02:14Z, worker-pplx-b65d2ee8)
+
+Supersedes the 4.4 entry's verification note: the quote verifier's two
+"NOT FOUND" strings are BOTH from the two Columbia Business School
+pages (the halcyon-pill sentence and the "carefully prescribed and
+closely monitored" sentence); both were verified BY EYE against the
+fetched page text this session; the verifier cannot fetch that page
+type, so the by-eye record is the verification. The "8/10 checked"
+phrasing in the 4.4 commit message was wrong: 8 quotes were checked
+and matched, 2 needed the by-eye record (all 10 verified in total).
+
+Definitional carriers opened and verified this session for the
+nearby-terms distinctions: Ryan & Deci 2000 definitions PDF ("Intrinsic
+motivation is defined as the doing of an activity for its inherent
+satisfactions rather than for some separable consequence" — verbatim);
+Frankl Internet Archive full text (the "any attempt to restore a
+man's inner strength... future goal" and "one had to give them a
+why—an aim—for their lives" passages present; the Purpose bullet
+narrowed to what the passage supports, the "outlasts any single
+goal" gloss removed); Cambridge Core book page for Carver & Scheier
+(book description: "behavior is goal-directed and regulated by
+feedback control processes" — supports the Self-regulation bullet);
+Locke & Latham 2006 nj.gov PDF (commitment condition, verified
+earlier this session). PMC4104823 fetched: EMPIRICAL study
+confirmation recorded in the 4.3 entry.
+
+Prose repairs: the exchange's exclusion clause ("attacks the case's
+scholarship rather than its conclusion") replaced with a neutral
+account of what the CBS report does and does not establish; the
+"on the evidence I could open" narration moved to the ledger; the
+Ntoumanis paragraph opens on associations (motive correlates), the
+early-realization qualification restored alongside the reengagement
+finding; remaining multi-position paragraphs split (Which aims
+deserve the wanting; When aims collide; What a commitment is).
+SUPERVISOR-REVIEW verdict row for goals ("six dense paragraphs")
+ADDRESSED: dossier_density.py now reports 0 dense paragraphs
+(28 paragraphs, 1.3 card links per paragraph). Kernel full-card
+reads re-attested against the archived tool-call outputs (all six
+card headings present in the archived full-read output). The
+launched-agent task URL (0fc55163) is IP-blocked to this session's
+fetch tool; no repo/baton activity observed from it as of 02:14Z.
+
+Checker exit 0 (51 links, 17 headers, 11 carrier occurrences /
+10 distinct URLs); density 0 dense; quote verifier exit 0 with the
+by-eye Columbia record. QC status: pending advisor round 5;
+SUPERVISOR FLAGS: (1) one-divergence exception to the model's 3-5
+guidance (evidence rule); (2) registry rebuild (--rebuild=goals);
+(3) re-read the supervisor-review row for goals against this
+revision.
