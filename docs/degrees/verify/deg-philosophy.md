@@ -133,7 +133,10 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Identity and access: oembed confirms "23) Stoicism - Marcus Aurelius's "Meditations"" on
   Adam Rosenfeld's channel (https://www.youtube.com/watch?v=YbAY_xNLReE). Freely
   playable, no paywall.
-- Duration: 1:15:00 (player display, watch page opened 2026-10-25).
+- Duration: 1:15:00 (player display, watch page opened 2026-10-25;
+  independently re-read 2026-10-25 in response to the supervisor's routed
+  flag: player display 1:14:59 — consistent with 1:15:00; the catalog
+  figure 1:15:33 does not match the watch page, which wins).
 - Instructor credentials: Adam Rosenfeld, Senior Lecturer in Philosophy at the
   University of North Carolina Greensboro, PhD in Philosophy from Stony Brook
   University (UNCG employee directory, https://www.uncg.edu/employees/adam-rosenfeld/).
@@ -153,7 +156,12 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Identity and access: oembed confirms "STOICON '16 : Julia Annas - Is Stoic Virtue as
   Off-Putting as it Seems?" on the Modern Stoicism channel
   (https://www.youtube.com/watch?v=WoDGgj_cfKE). Freely playable, no paywall.
-- Duration: 0:29:09 (watch page opened 2026-10-25).
+- Duration: 0:29:09 (player, watch page opened 2026-10-25;
+  independently re-read 2026-10-25 in response to the supervisor's
+  routed flag: player 29:09, listing elsewhere on the page 29:28 —
+  dual-figure ON THE PAGE itself; the catalog figure 29:28 matches the
+  page listing, not the player. Owners should schedule against 29:09
+  and treat 29:28 as including the fuller recording span).
 - Instructor credentials: Julia Annas, Regents Professor of Philosophy, Emerita,
   University of Arizona (department directory,
   https://philosophy.arizona.edu/faculty).
