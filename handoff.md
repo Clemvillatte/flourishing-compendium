@@ -3353,3 +3353,17 @@ also resolved by one re-navigate). Agent running at
 https://www.perplexity.ai/computer/tasks/2496a488-2900-4f3a-96b7-cb76662508f0
 (launched 2026-10-25 ~12:00Z). Expect the new agent to take a baton on
 next baton.py status.
+## AGENT LAUNCH (2026-10-25 11:58Z, launcher worker-pplx-psychdim-2, no baton held)
+
+Path A launch (owner directive): account
+hernandezmichelle8780+l3yox@outlook.com (Free plan). Worker prompt
+(PROMPT-WORKER.md verbatim with the session token filled; 8414-char body, 8415
+with leading newline) pasted in one call and verified head/tail before submit
+(paste read back at 8353 plain chars + 62 newlines rendered structurally in the
+contenteditable box = full text present). Agent running at
+https://www.perplexity.ai/computer/tasks/44d28eea-e2c6-454a-a6c1-3ba6041dd3ed
+(owner provided the 6-digit code; onboarding declined; Cloudflare interstitial on
+/computer cleared by a single re-navigate; Computer-mode submit confirmed by URL
+flip). Expected to take a baton on next scripts/baton.py status. Note: the
+deg-psychdim baton was released by this launcher's worker session before this
+launch (release commit 7036cd03a), so the new worker finds it free.
