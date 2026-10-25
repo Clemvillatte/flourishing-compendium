@@ -13,7 +13,7 @@ Deliberation as rehearsal is John Dewey's account of what happens when action ge
 
 ### Why imagination is the right stage
 
-Dewey's reason is retrievability. In his words: "An act overtly tried out is irrevocable, its consequences cannot be blotted out. An act tried out in imagination is not final or fatal. It is retrievable." The experiment in thought "runs ahead and foresees outcomes", so the person does not have to await the instruction of actual failure. The rehearsal reading also fixes what deliberation is not: it is not a verdict handed down after weighing, but the trying-out itself, which is why a decision that feels like pure judgment has usually already been rehearsed.
+Dewey's reason is retrievability. In his words: "An act overtly tried out is irrevocable, its consequences cannot be blotted out. An act tried out in imagination is not final or fatal. It is retrievable." The experiment in thought "runs ahead and foresees outcomes", so the person does not have to await the instruction of actual failure. The rehearsal reading also fixes what deliberation is not: it is not a verdict handed down after weighing, but the trying-out itself, which is why a decision that feels like pure judgment has usually already been rehearsed. The compendium's principle names this directly, since deliberating by rehearsal means giving the competing lines their turns rather than cutting to the ruling.
 
 ### Here
 
