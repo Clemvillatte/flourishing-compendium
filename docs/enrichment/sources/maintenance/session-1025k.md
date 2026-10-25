@@ -186,3 +186,6 @@
 
 ## S023 — Do not fear pain
 Opened [Seneca, Letter 78, Gummere (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78). Both quotes ("No man can suffer both severely..." §4; "Pain is slight if opinion has added nothing to it" §13) match verbatim. Added the section locators and a direct link. Marcus quotes (Casaubon, IX.41, X.33) left as is.
+
+## S094 — Accept pain as part of nature
+Opened [Seneca, Letter 24, Gummere (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_24): the "Forsooth thou are naught but Pain..." quote (§14) matches verbatim, so the cite now points to Wikisource and states the translator. Marcus quote (Casaubon, Gutenberg 2680) re-matched in the local copy.

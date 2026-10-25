@@ -28,7 +28,7 @@ He then borrows a line from Epicurus:
 
 Seneca stages the same point as a taunt addressed to pain in person:
 
-> "Forsooth thou are naught but Pain, scorned by yonder gout-ridden wretch, endured by yonder dyspeptic in the midst of his dainties, borne bravely by the girl in travail. Slight thou art, if I can bear thee; short thou art if I cannot bear thee!" (Seneca, Letters 24.14, [SenecaLetters.com](https://senecaletters.com/en/letters/24))
+> "Forsooth thou are naught but Pain, scorned by yonder gout-ridden wretch, endured by yonder dyspeptic in the midst of his dainties, borne bravely by the girl in travail. Slight thou art, if I can bear thee; short thou art if I cannot bear thee!" (Seneca, Letters 24.14, tr. Gummere, [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_24))
 
 **Plain words** Pain, for the Stoics, is neither a moral event nor an unbounded one. Marcus offers a measure to test against experience: what is unbearable ends, and what lasts is tolerable, a claim to check rather than a promise to lean on. The practical move is to separate the sensation, which is nature's business, from the verdict about it, which is yours, and accepting the sensation is compatible with treating its cause. In the dental chair this is literal practice: breathe slowly, drop the catastrophe narration, and let the sensation be as large as it is rather than as large as the fear says.
 
