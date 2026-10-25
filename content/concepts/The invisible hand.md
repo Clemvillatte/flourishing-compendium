@@ -46,5 +46,4 @@ The concept belongs in a family with [[Spontaneous order]] (Hayek's generalizati
 
 ## Cited in philosophy parallels
 
-- [[E018 — Practise the reversibility of flesh]]
 - [[D017 — Trust emergent order]]

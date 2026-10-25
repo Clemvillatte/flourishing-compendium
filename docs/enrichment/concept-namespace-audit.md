@@ -551,3 +551,12 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   opened source, caught in advisor QC). Supervisor/owner disposition requested: (a) rename
   and rewrite as a proper concept card grounded in an opened planning-adaptivity source, or
   (b) retire the page. Evidence trail: dos13 ledger.
+
+- **Reversal (fu)** (2026-10-25, supervisor launcher-pplx-1025c, from the w1ac ledger flag):
+  title romanization question. The w1ac QC flag records that DDJ 40's Chinese text
+  conventionally reads fan (反, 'reversal'), so the title's parenthetical '(fu)' may be
+  a mismatch with the source term. The page body and front-matter were left untouched
+  per protocol (title changes are namespace decisions). Owner disposition requested:
+  confirm the intended romanization and, if '(fu)' is an error, rename the page to the
+  corrected form (candidate per the flag: 'Reversal (fan)'). Evidence trail: w1ac ledger
+  flagged entry; no page edit was made.

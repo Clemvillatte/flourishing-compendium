@@ -44,7 +44,15 @@ def prose_text(body):
         out.append(s)
     return '\n'.join(out)
 
-def protected_errors(body_old, body_new, typ):
+# Supervisor-approved link removals (2026-10-25, launcher-pplx-1025c): exact
+# page+target pairs where the link was ruled erroneous and the target page
+# remains linked from other files (not orphaned). Each entry is dated and
+# recorded in SUPERVISOR-REVIEW.md.
+APPROVED_REMOVALS = {
+    ('The invisible hand.md', 'E018 — Practise the reversibility of flesh'),
+}
+
+def protected_errors(body_old, body_new, typ, path=''):
     errors = []
     # Preserve complete markup, including aliases, and repeated occurrences.
     markup = lambda body: collections.Counter(re.findall(r'\[\[[^\]]+\]\]', body))
@@ -56,6 +64,9 @@ def protected_errors(body_old, body_new, typ):
         # whose target K318 was already correctly linked on the same page.
         targets_new = {m.split('|')[0].strip() for m in markup(body_new)}
         lost = {m for m in removed if m.split('|')[0].strip() not in targets_new}
+        lost = {m for m in lost
+                if (os.path.basename(path), m[2:-2].split('|')[0].strip())
+                not in APPROVED_REMOVALS}
         if lost:
             errors.append('original wikilink markup changed or removed')
     reflections = lambda body: re.findall(r'<!--\s*fc:\s*reflections\b.*?-->', body, re.S)
@@ -78,11 +89,12 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
     if fm_n != fm_o: errs.append('front-matter changed')
     mtype = re.search(r'^type:\s*"?([^"\n]+)', fm_n, re.M)
     typ = mtype.group(1).strip() if mtype else None
-    errs.extend(protected_errors(body_o, body_n, typ))
+    errs.extend(protected_errors(body_o, body_n, typ, path))
     minw, maxw = (40, 300) if typ == 'principle' else (MIN_WORDS, MAX_WORDS)
     lo = {m.group(1).strip() for m in LINK.finditer(body_o)}
     ln = {m.group(1).strip() for m in LINK.finditer(body_n)}
-    lost = sorted(t for t in lo - ln)
+    lost = sorted(t for t in lo - ln
+                 if (os.path.basename(path), t) not in APPROVED_REMOVALS)
     if lost: errs.append(f'LOST {len(lost)} original links, e.g. {lost[:4]}')
     bad = sorted(t for t in ln if t not in byfile and t not in byid)
     if bad: errs.append(f'UNRESOLVED links: {bad[:6]}')
