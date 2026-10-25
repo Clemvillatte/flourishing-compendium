@@ -123,3 +123,6 @@
 
 ## B134 Layman Pang
 - terebess.hu/zen/layman-pang.html is 404. Replaced with Sasaki translation PDF (https://terebess.hu/zen/LaymanPang.pdf); verse, Shitou exchange and 'I want to do what I like' verified verbatim; invented daily schedule and two-practitioner story removed; application and example labelled as mine.
+
+## B175, B197 Thich Nhat Hanh
+- bps.lk Wheel 234 link is 404. B175 quote was Wheel 234 wording; replaced with Miracle of Mindfulness day-of-mindfulness wording, verified in PDF copy (truthbrary.mpaq.org; third-party copy, flag for supervisor: prefer a publisher/library link if one is found). B197 dishwashing quote verified verbatim in same PDF; dead source line swapped.

@@ -12,13 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 175** — Slow down
 
-In The Miracle of Being Awake, Thich Nhat Hanh describes doing ordinary tasks slowly and attentively. His dishwashing example concerns thinking ahead to tea while treating the washing as a nuisance.
+In *The Miracle of Mindfulness*, Thich Nhat Hanh describes a day of mindfulness in which ordinary household work is done slowly. His dishwashing example is about thinking only of "the cup of tea that awaits us, thus hurrying to get the dishes out of the way as if they were a nuisance" ([Thich Nhat Hanh, *The Miracle of Mindfulness*, PDF copy](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20(Books)/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)).
 
-> Whatever the tasks, they must be done slowly and with ease, and in mindfulness. In any case, don't do these tasks in order to get them over with. Resolve to do them relaxingly, with all your attention focused on them.
+> Whatever the tasks, do them slowly and with ease, in mindfulness. Don't do any task in order to get it over with. Resolve to do each job in a relaxed way, with all your attention. Enjoy and be one with your work.
 >
-> (Thich Nhat Hanh, The Miracle of Being Awake)
-
-(Thich Nhat Hanh, The Miracle of Being Awake, BPS Wheel 234.)
+> (Thich Nhat Hanh, *The Miracle of Mindfulness*, [PDF copy](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20(Books)/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf))
 
 **Plain words**
 Choose an ordinary task you have time to do without hurrying. Pay attention to its movements and sensations. When you notice yourself planning what comes afterward, return your attention to what you are doing.
@@ -27,7 +25,7 @@ Choose an ordinary task you have time to do without hurrying. Pay attention to i
 
 ## Sources
 
-- [Thich Nhat Hanh, The Miracle of Being Awake (BPS Wheel 234)](https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html) — the dishwashing passages
+- [Thich Nhat Hanh, *The Miracle of Mindfulness*, PDF copy hosted on truthbrary.mpaq.org](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20(Books)/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf): the day-of-mindfulness passage and the dishwashing passage, checked word for word. The page previously cited the Wheel 234 edition at bps.lk, which now returns 404, and quoted wording from that edition that I could not check.
 
 ## Psychology parallels
 
@@ -46,4 +44,4 @@ Rushing is the body's argument that now is not enough. What's your current rushi
 -->
 
 ## Related concepts
-- [[T035 — Thich Nhat Hanh]]: The Miracle of Being Awake, the ordinary-tasks-slowly account the page draws on.
+- [[T035 — Thich Nhat Hanh]]: The Miracle of Mindfulness, the ordinary-tasks-slowly account the page draws on.
