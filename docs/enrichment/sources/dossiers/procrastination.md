@@ -604,3 +604,25 @@ exit 0.
 Registry: entry remains "planned" pending the advisor publication
 verdict (round 3). Tally: three disagreements, each with verbatim
 quotes from opened carriers on both sides.
+
+Round-3 advisor repairs applied: the definitional close was corrected
+(expected harm is part of the definition, not an exclusion from it;
+the "disqualifies" inversion and the deliberateness contrast are
+gone); the Davidson-Holton application is bounded to what the sources
+say (no empirical generalisation about procrastinators' judgments, no
+prescriptive bridge to the if-then plan, no claim about what neither
+essay addresses); the active-delay opposition is now substantiated with
+a correctly identified carrier: Chowdhury 2016, doctoral thesis,
+Carleton University, DOI 10.22215/etd/2016-11554, abstract via
+Semantic Scholar (corpus 150847280). Bibliographic note: this is NOT
+the Chowdhury and Pychyl 2018 PAID article; it is the same author's
+2016 thesis carrying the same argument, and the dossier cites it under
+its own identity. Quote-verification exception (documented): the
+Semantic Scholar page is JS-rendered, so raw-curl matching fails
+(quote_verify reports 1 not found); the page was opened twice with
+rendered fetches this session and the abstract text confirmed
+identically by eye, per the HANDOFF's blocked-fetch rule. Corrected
+tally: two established philosophical disagreements (Socrates-Aristotle;
+Davidson-Holton) plus the active-delay opposition (Chu-Choi vs
+Chowdhury 2016 thesis, both sides verbatim from opened carriers),
+pending the focused final review.

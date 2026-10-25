@@ -98,7 +98,11 @@ Their abstract concludes that procrastination "appears to be a self-defeating be
 
 > "although active procrastinators procrastinate to the same degree as passive procrastinators, they are more similar to nonprocrastinators than to passive procrastinators in terms of purposive use of time, control of time, self-efficacy belief, coping styles, and outcomes including academic performance." ([Chu and Choi 2005, abstract, plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15959999&rettype=abstract&retmode=text))
 
-The disagreement is definitional, and the data leave it live. On the definition, what disqualifies a delay from the word is expecting to be worse off, so a delay a person expects to serve them falls outside it, and a delay a person expects to harm them stays inside even if the outcome surprises them; on Chu and Choi's construct, the word covers deliberate delay too, and only the passive kind is the problem. Neither abstract settles whether "active procrastination" names a separate behaviour or planning that happens to look like delay, and both studies use student samples.
+A construct-validity test of the new construct sides with the definition against it:
+
+> "correlational results revealed that active procrastination has been mislabeled as a type of procrastination that is more appropriately construed as purposeful delay with adaptive qualities." ([Chowdhury 2016, doctoral thesis, Carleton University, abstract via Semantic Scholar](https://www.semanticscholar.org/paper/f75c5c0d8c30510c44b74e99419e11c9599bc89f))
+
+Expected harm is part of this definition of procrastination, not an exclusion from it: a person can procrastinate despite an unexpectedly good outcome if they anticipated harm when delaying, and purposeful delay undertaken without that expectation falls outside the definition. The disagreement concerns whether the word should carry that expectation at all, and it stays open. Chu and Choi's abstract reports a deliberate type with outcomes matching nonprocrastinators; the construct-validity thesis reports that the construct fails to replicate its nomological network and is better named purposeful delay; neither abstract settles whether "active procrastination" names a separate behaviour or planning that happens to look like delay, and both studies use student samples.
 
 ### When judgment and action part, what gives way?
 
@@ -112,7 +116,7 @@ Holton denies that this is what the ordinary cases are, and moves the failure fr
 
 > "Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions." ([Holton 1999, author-hosted paper](https://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))
 
-The disagreement matters for delay because it locates the repair differently. The procrastinator's judgment that the task matters usually survives the postponement intact, which fits Holton's reading better than Davidson's: what gives way is the intention to start, and an over-ready reconsideration of it. On Davidson's frame the work is on the judgment, making the better course more vivid; on Holton's it is on the resolution, forming intentions that are, in his words, "relatively resistant to reconsideration". The if-then plan carries exactly that resistance. Neither essay addresses procrastination by name, and the dispute is not settled.
+The disagreement changes what a case of delay must establish. Davidson's characterization asks whether someone intentionally acted against their current better judgment; Holton's asks whether they reconsidered an intention too readily. These are different questions, and either may help distinguish cases of postponement. The philosophical disagreement does not itself establish which intervention reduces procrastination.
 
 ## Practice: variation, selection, retention
 
