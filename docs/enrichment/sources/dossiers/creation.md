@@ -761,3 +761,19 @@ under /tmp/work/qcache) and re-fetching directly:
 
 Standing result of this pass: dossier_quote_verify.py 27 quotes checked,
 2 not found, both with the 403 cause established and recorded here.
+
+### Pass 9 round-10 Conner reconfirmation (worker-pplx-dos31-1025g, 2026-10-25)
+
+The Conner et al. quotation was reconfirmed this session: the fetch tool's
+extraction of the DOI landing page (https://doi.org/10.1080/17439760.2016.1257049,
+redirecting to the Taylor and Francis record for Conner, DeYoung and
+Silvia, "Everyday creative activity as a path to flourishing") shows the
+abstract sentence verbatim: "Lagged multilevel models revealed that
+people felt higher activated PA and flourishing following days when they
+reported more creative activity than usual." This is an extraction
+confirmation (the automatic fetcher receives HTTP 403 from the carrier;
+cause established in the round-9 entry), not raw-HTML confirmation; it
+matches the inherited raw verification from earlier ledger entries. All
+three formerly unmatched quotations now have session reconfirmations of
+this class recorded (Conner, Jones, McAdams), with McAdams additionally
+machine-verified after the cache clearing (round 9).
