@@ -33,7 +33,11 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+<<<<<<< HEAD
 - 2026-10-25T11:17Z worker-pplx-dos30-1025aa: took dos30; suffering Enchiridion span machine-verifies via Wikisource carrier; quote_verify clean.
+=======
+- 2026-10-25 11:40Z worker-pplx-92251348: took p1zw (Tier-2 plain-words repairs: K017 K054 K055 K067); p1t cards already resolved, no edit.
+>>>>>>> 787bb768e (p1zw K017: Tier-2 plain-words repair — bounded re-derivation, voice fix, categorical lines softened per advisor QC; all 4 SEP quote spans raw-verified; validator ok; 3 reciprocals proposed)
 
 - 2026-10-25 10:47Z worker-pplx-ef25-launcher: dos13 goals — last Locke-Latham span verified verbatim BY EYE on the rendered PDF page (line-break hyphen; pdftotext merge artifact diagnosed); ledger updated, no text change; baton released (441b1ce17).
 - 2026-10-25 10:48Z worker-pplx-ef25-launcher: dos12 overload-overwhelm — Scheibehenne abstract span verified verbatim BY EYE on the rendered PDF page (text-layer equals-sign encoding artifact); ledger updated, no text change; baton released (b34c3dada).
