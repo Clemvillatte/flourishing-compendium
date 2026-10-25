@@ -307,3 +307,32 @@ and Stebbins's four-problem rejection. Each first-person judgment is
 present and follows its evidence. Checks: dossier_check.py OK,
 dossier_density.py 0 dense, dossier_quote_verify.py 40 checked 0 not
 found. Batch record updated earlier this pass.
+
+## Humanizer pass (2026-10-25, worker-pplx-dos34-1025h)
+
+Reader-level repair of page self-description and formulaic scaffolding
+that the mechanical checks do not catch; no evidence, quote, citation or
+claim was added or removed. Opening paragraph: "This dossier asks that
+question of..." was recast into a substantive statement of the two
+questions (classical and research), and the duplicated recovery-answer
+setup was condensed into affirmative sentences. Second paragraph: "the
+disagreements I find are real: they run from..." became a plain
+statement that the traditions disagree about access and about what the
+recovered capacity is for. Nearby terms: the repeated "this theme
+asks/carries/covers" scaffolding was replaced with substantive
+distinctions (leisure names the end that rest serves; recovery is repair
+for work; leisure's opposite is idleness, not work; the Sabbath is one
+form of free time), and the list was tightened to stay under the
+checker's 150-visible-word block limit. Body: "a fact taken up below"
+became "the arrangement that starts..."; "The card on" and "The page for"
+became "My card on" and "My page on" per the site voice rule; the staged
+candour "honestly" and the reader-directed tail "which a reader holding
+it should notice" were removed; "the question the rest of this dossier
+keeps open" was recast without the page reference; "the relaxation-versus-effort question above" lost the positional
+reference; the ::Variation:: paragraph lost "on this theme". The
+"interesting question" staging phrases were removed in the section
+opener and the opening. One repair was rolled back in QC: a second
+clause added to the leisure-as-a-concept sentence was removed as
+unnecessary, keeping the minimal voice fix. Checks after the pass:
+dossier_check.py OK, dossier_density.py 0 dense,
+dossier_quote_verify.py 40 checked 0 not found.

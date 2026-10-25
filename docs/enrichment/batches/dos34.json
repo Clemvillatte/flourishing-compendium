@@ -70,9 +70,20 @@
     "SUPERVISOR: acceptance of 3-substantiated count still requested",
     "OWNER: artwork assignment still blocks registry flip"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025h",
+   "state": "QC round 15: humanizer pass - page self-description removed from opening (This dossier asks...), second paragraph and Nearby terms (this theme asks/carries/covers scaffolding replaced with substantive distinctions), body meta-text repaired (a fact taken up below; The card on/The page for -> My card on/My page on; staged 'honestly' and reader-directed tail removed; the question the rest of this dossier keeps open recast; question above; Variation 'on this theme'); one QC rollback of an unnecessary added clause; no evidence, quote or claim changed; checks green (checker exit 0, density 0, quotes 40/40); flip remains HELD on the owner's art ruling per supervisor",
+   "verification": "dossier_check.py exit 0; dossier_density.py 0 dense; dossier_quote_verify.py 40 checked 0 not found; ledger appended (Humanizer pass 2026-10-25)",
+   "flags": [
+    "SUPERVISOR: acceptance of 3-substantiated count still requested",
+    "OWNER: artwork assignment still blocks registry flip"
+   ]
   }
  ],
  "in_progress": "leisure: model-conformance additions + advisor QC rounds 1-3 + final verification pass applied (2026-10-25, worker-pplx-dos34-1025z2). All DOSSIER-MODEL elements present; disagreement section at 3 substantiated question headings with first-person judgments; complementary comparisons relocated to main body; full reader-level check of the file completed. Checks green. Next pass: supervisor acceptance of the 3-substantiated count and the registry flip.",
  "flagged": {},
- "comment": "Minted 2026-10-25 by owner directive: Leisure dossier (registry planned, flourishing section). Art pending owner assignment - no unassigned works remain in the collection. Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full."
+ "comment": "Minted 2026-10-25 by owner directive: Leisure dossier (registry planned, flourishing section). Art pending owner assignment - no unassigned works remain in the collection. Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full.",
+ "updated": "2026-10-25T10:30:00+00:00"
 }
