@@ -3793,3 +3793,7 @@ Zero link breakage maintained throughout; build green; edges preserved 32663.
 Round 8 sampled 35 more (260 total across 8 rounds). Only one new finding (K110 Savoring, "metta" in a related-link — confirmed false positive). No new genuine classifications found — the sample is converging. **Final reclassification count: 12** (9 Stoic, 1 CBT, plus K127 CBT and K267/K320 Stoic from batches). Final distribution: Stoic 18, CBT 17, ACT 14, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 = 87 modality-tagged; 229 general.
 
 Per-card review is now saturated — further rounds will only re-find the ~17 already-flagged marginal cards. The review is DONE pending the owner's rulings on tradition-based modality folders.
+
+## CORRECTION — final distribution (gm-pplx-kern1-1025a, 2026-10-25 15:41Z)
+
+The round-8 note above overstated the Stoic count (said 18; actual is 15). Corrected, file-verified count: Stoic 15, CBT 16, ACT 16, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 (MBSR 2 appears only as the second modality on 2 MBCT cards) = 85 modality-mentions across 82 tagged cards; 234 general; 316 total. All 316 cards have a red modality line. Zero link breakage; build green; edges 32663.
