@@ -7,7 +7,7 @@ file: "Attentional deployment theory"
 tags: ["theory", "psych/attention"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-ATTENTION"], "alternatePaths": []}
 ---
-**Attentional deployment theory** — attention can be moved within a situation toward or away from emotional stimuli as a regulation strategy.
+**Attentional deployment theory**: attention can be moved within a situation toward or away from emotional stimuli as a regulation strategy.
 
 Attentional deployment is one of the five families in James Gross's process model of emotion regulation, sitting between situation modification and cognitive change. The definition, from Gross and Barrett's own review:
 
@@ -15,7 +15,15 @@ Attentional deployment is one of the five families in James Gross's process mode
 
 ### Its place in the model
 
-The same article presents the process model as "five families of emotion regulation strategies" (from Gross & Thompson, 2007). The definition's wording carries the original entry line's point: the situation stays, the attention moves.
+The same article presents the process model as "five families of emotion regulation strategies" (from Gross & Thompson, 2007): situation selection, situation modification, attentional deployment, cognitive change, and response modulation. The definition's wording carries the original entry line's point: the situation stays, the attention moves.
+
+### What counts as deployment
+
+Because the situation itself is left alone, everything happens inside the span of attention: looking away from a hospital monitor toward a friend's face, replaying an argument instead of the drive ahead, narrowing onto breath or mantra. The article's own constructionist framing adds a second layer: regulation can happen even earlier: "the construction process itself can be regulated by directing the focus of goal-based attention, in that executive function plays a role in both affect regulation and knowledge development and use" (Gross & Barrett, 2011). On that view attentional deployment is not one trick among five but the lever that runs through them, since where attention lands shapes which situation, appraisal and response get built at all.
+
+### Why it matters for practice
+
+Deployment is the family most available mid-event: situation selection needs forewarning and modification needs control of circumstances, but attention can be re-aimed in seconds, which is why so many contemplative practices, attention training and loving-kindness among them, are deployment exercises in this sense.
 
 ### Here
 
@@ -27,7 +35,7 @@ The same article presents the process model as "five families of emotion regulat
 
 ## Related thinkers
 
-- [[T057 — Barrett, Lisa Feldman|Barrett]] — her affect-as-body-budget account gives the deployment theory its substrate — what is being steered.
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — her affect-as-body-budget account names what deployment steers.
 
 ## Related concepts
 
@@ -37,7 +45,7 @@ The same article presents the process model as "five families of emotion regulat
 
 ## Sources
 
-- [Gross & Barrett, "Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View", Emotion Review 2011, PMC3072688](https://pmc.ncbi.nlm.nih.gov/articles/PMC3072688/) — the attentional deployment definition and the five-families process model
+- [Gross & Barrett, "Emotion Generation and Emotion Regulation: One or Two Depends on Your Point of View", Emotion Review 2011, PMC3072688](https://pmc.ncbi.nlm.nih.gov/articles/PMC3072688/): the attentional deployment definition and the five-families process model
 
 ## Field
 

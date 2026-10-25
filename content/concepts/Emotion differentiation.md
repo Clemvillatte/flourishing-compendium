@@ -13,6 +13,10 @@ Emotion differentiation is the ability to tell one's feelings apart with precisi
 
 The skill is linked to regulation. Improving the "ability to identify and differentiate among emotions, particularly negative emotions, has been linked to enhanced emotion regulation and an improved ability to select a more effective strategy for managing emotions", and those "who can identify and label emotions with granularity are more apt to select adaptive emotion regulation strategies" (Linn et al., [Journal of Clinical Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8800422/)).
 
+### How it works
+
+The vocabulary is the mechanism. A person whose feeling-words run to "stressed", "drained", "wistful" and "furious" holds more handles on a bad hour than a person whose only word is "bad"; each distinct label names a distinct cause and a distinct move. The Wang et al. study put a neural edge on this: individuals with high negative emotion differentiation "demonstrated a significant decrease in parietal late positive potential amplitudes during cognitive reappraisal, suggesting enhanced cognitive reappraisal abilities" (Wang et al. 2024). Precision in naming, in other words, is not just bookkeeping; it changes how much work reappraisal does.
+
 ### Here
 
 - [[D095 — Moderate emotion — extremes injure vitality]] and [[D150 — Balance the emotions to protect the body]] are this concept's psychology parallels
