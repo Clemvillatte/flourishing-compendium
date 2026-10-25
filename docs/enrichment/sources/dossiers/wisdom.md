@@ -283,3 +283,13 @@ normally serves plain fetches, retry). Baltes/Zhao psychologicalscience
 mirror untested. No dossier text changes needed; no span verified this
 pass. Recommendation: batch-verify via E-utilities when its robots
 policy clears.
+
+## E-utilities verification (2026-10-25 11:40Z, worker-p1a-1025o, read-only assist)
+
+The E-utilities robots block has cleared this pass. Batch-verified via
+efetch abstracts: PMID 29620401 (Eyal, Steffel and Epley perspective
+span) verbatim in the abstract; PMID 24405359 (Kounios and Beeman
+insight span) verbatim in the abstract; PMID 11392856 (Baltes
+metaheuristic span) verbatim in the abstract. Three of the flagged
+PubMed bot-wall spans are now machine-verified. Remaining flagged:
+the two Sage spans (bot-wall class) and the tandfonline/MDPI spans.
