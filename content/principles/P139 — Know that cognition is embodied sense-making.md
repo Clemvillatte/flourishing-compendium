@@ -22,11 +22,11 @@ Oppezzo and Schwartz's Experiment 1 found improved divergent-thinking scores dur
 
 ### Plain words
 
-For these authors, making sense of something involves a bodily engagement with it. As you act, what you notice guides your next movement. Their account includes this continuing relationship, along with the biological and cultural setting in which the activity takes place.
+On the enactive account, making sense of the world involves what your body senses and does in its surroundings.
 
 ### For example
 
-While learning a paper fold, notice how the paper responds to your hands and how that changes what you try next. After a few attempts, examine which adjustments helped and use them when practising again. This is my illustration of sensing and acting together, not an experiment that establishes the theory.
+Try learning a paper fold from a diagram. The drawing gives you a starting point; the paper's resistance and the alignment of its edges guide your next movement. Unfold a mistake and try a different hold.
 
 ## Sources
 

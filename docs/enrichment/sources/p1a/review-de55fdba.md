@@ -172,3 +172,13 @@ Opened through search and fetch:
 - [Elizabeth Anderson, “Dewey's Moral Philosophy,” Stanford Encyclopedia of Philosophy, §1.2](https://plato.stanford.edu/entries/dewey-moral/). Read the full habit section: conditions can change while habits remain, producing unintended results. My follow-up question is marked as my own application.
 
 Changes: one-sentence Plain words; added a scholarly explanation of why an established habit can need revision; removed the repeated application disclaimer from the meeting example. Preserved both primary quotations, front matter, opening principle, all links, and lower sections. No empirical guarantee about a meeting intervention is made.
+
+## P139: Know that cognition is embodied sense-making
+
+Opened through search and fetch:
+
+- [Varela, Thompson and Rosch, *The Embodied Mind*, chapter 8, “Enaction: Embodied Cognition,” publisher's abstract, revised edition](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399). Read the entire accessible abstract, not the full chapter. The retained definition of “embodied” matches it exactly. The abstract supports the two-part account of perceptually guided action and recurrent sensorimotor patterns.
+- [Shapiro and Spaulding, “Embodied Cognition,” Stanford Encyclopedia of Philosophy, §§2.4 and 5.1](https://plato.stanford.edu/entries/embodied-cognition/). Read the varieties of enactivism and the distinction between causal contribution and constitution. Retained the limitation that a bodily influence on task performance alone does not establish a constitutive theory of cognition.
+- [Oppezzo and Schwartz (2014), *Give your ideas some legs*, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/). Read the complete abstract. Experiment 1 reports improvement in GAU scores for 81% of participants and CRA scores for 23%; these are proportions of participants, not percentage increases in performance or general cognitive benefits. The full article was not opened.
+
+Changes: one-sentence Plain words and a paper-fold example with specific bodily feedback. Preserved the primary definition, the theoretical/empirical distinction, every existing link, opening statement, front matter and lower sections. Removed the stock disclaimer from the example; the body already limits what the empirical study establishes.
