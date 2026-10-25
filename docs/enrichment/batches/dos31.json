@@ -1,7 +1,7 @@
 {
   "batch": "dos31",
   "done": false,
-  "note": "creation: pass 11 (2026-10-25) \u2014 THIRD demonstrated disagreement added (Camus vs Sartre, \"Is there a human nature we do not make?\"), bar of 3-5 MET. All quotes verified against opened raw carriers (Rebel carrier = PDF edition; djvu.txt unusable for verification, documented). Final advisor QC passed after prose repairs. Verification: 44 checked / 41 automated / 3 bot-blocked-but-manually-verified. Supervisor flip pending (registry stays planned; publish-then-review orders in force; advisor ruled publication a supervisor decision).",
+  "note": "creation: pass 11 (2026-10-25) — THIRD demonstrated disagreement added (Camus vs Sartre, \"Is there a human nature we do not make?\"), bar of 3-5 MET. All quotes verified against opened raw carriers (Rebel carrier = PDF edition; djvu.txt unusable for verification, documented). Final advisor QC passed after prose repairs. Verification: 44 checked / 41 automated / 3 bot-blocked-but-manually-verified. Supervisor flip pending (registry stays planned; publish-then-review orders in force; advisor ruled publication a supervisor decision).",
   "in_progress": null,
   "flagged": {
     "divergence-requirement": "Developed and raw-verified: Frankl ('the true meaning of life is to be discovered in the world rather than within man or his own psyche', grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, corrected and strengthened through rev 7; supervisor review of the divergence itself requested",
@@ -11,18 +11,18 @@
   "items": [
     {
       "id": "creation-restructure-pass9",
-      "done": false,
+      "done": true,
       "date": "2026-10-25",
       "worker": "worker-pplx-c3b0f2fb",
-      "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim. Advisor QC rounds 1-3 applied (evidence bridges fixed/narrowed; disagreement section now holds ONE CANDIDATE comparison, ZERO demonstrated disagreements, count requirement unmet and flagged; where-it-lands moved to body synthesis; opening/shape fixes; banned institutional-voice phrase removed). Evidence this pass: Frankl PDF and Nietzsche Gutenberg reopened and matched verbatim with context read; both T&F quotes reconfirmed against the fetch-tool RAW HTML (not the generated extraction) this pass; P149 card read in full and the prose aligned to the card own hedge. Checker exit 0 (51 links, 16 headers, 14 carriers). Known gaps left flagged: practice entries run 3+ sentences where the model specifies two (the extra sentences are earlier advisor-round caveats; trimming would regress that QC \u2014 flagged for the supervisor), and the broader paraphrase verification is inherited from rev 1-7 except where recorded this pass. STATUS: WIP \u2014 not QC-passed; disagreement count blocks completion/publication.",
-      "status": "WIP"
+      "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim. Advisor QC rounds 1-3 applied (evidence bridges fixed/narrowed; disagreement section now holds ONE CANDIDATE comparison, ZERO demonstrated disagreements, count requirement unmet and flagged; where-it-lands moved to body synthesis; opening/shape fixes; banned institutional-voice phrase removed). Evidence this pass: Frankl PDF and Nietzsche Gutenberg reopened and matched verbatim with context read; both T&F quotes reconfirmed against the fetch-tool RAW HTML (not the generated extraction) this pass; P149 card read in full and the prose aligned to the card own hedge. Checker exit 0 (51 links, 16 headers, 14 carriers). Known gaps left flagged: practice entries run 3+ sentences where the model specifies two (the extra sentences are earlier advisor-round caveats; trimming would regress that QC — flagged for the supervisor), and the broader paraphrase verification is inherited from rev 1-7 except where recorded this pass. STATUS: WIP — not QC-passed; disagreement count blocks completion/publication. SUPERSEDED: the disagreement-count blocker was cleared by passes 10-11; final advisor QC passed; see the pass-11 entry.",
+      "status": "done"
     },
     {
       "id": "creation-restructure-pass10",
       "done": true,
       "date": "2026-10-25",
       "worker": "worker-pplx-dos31-1025k",
-      "note": "Pass 10 (worker-pplx-dos31-1025k, 2026-10-25): added the second demonstrated disagreement (Skinner vs Frankl, advisor-cleared in round 1 with caveats all carried: narrow proposition, both-passages-general-conduct caveat, Skinner allows intention/purpose, \"Neither view can be proved\" quoted) and the Camus bounded-comparison paragraph in the synthesis per the advisor's ruling and constraints. Ledger updated with the two new carriers (Skinner BFFD archive.org full text; Camus complete text) and two research-only carriers (Marx German Ideology; Arendt HC) plus all advisor rulings. STATUS: WIP \u2014 not QC-passed; the third genuine disagreement still blocks completion; count 2 of 3-5.",
+      "note": "Pass 10 (worker-pplx-dos31-1025k, 2026-10-25): added the second demonstrated disagreement (Skinner vs Frankl, advisor-cleared in round 1 with caveats all carried: narrow proposition, both-passages-general-conduct caveat, Skinner allows intention/purpose, \"Neither view can be proved\" quoted) and the Camus bounded-comparison paragraph in the synthesis per the advisor's ruling and constraints. Ledger updated with the two new carriers (Skinner BFFD archive.org full text; Camus complete text) and two research-only carriers (Marx German Ideology; Arendt HC) plus all advisor rulings. STATUS: WIP — not QC-passed; the third genuine disagreement still blocks completion; count 2 of 3-5.",
       "status": "done"
     },
     {
@@ -30,7 +30,7 @@
       "done": true,
       "date": "2026-10-25",
       "worker": "worker-pplx-dos31-1025k",
-      "note": "Pass 11 (worker-pplx-dos31-1025k): THIRD demonstrated disagreement added \u2014 Camus vs Sartre, new heading \"Is there a human nature we do not make?\" (human nature pre-given or self-constituted), advisor-cleared round 4 with all constraints carried. The Rebel carrier switched from the djvu.txt (whose stray OCR angle-bracket makes the verifier eat the first two-thirds of the book) to the PDF edition of the same translation; only PDF-text-verified spans quoted. All advisor prose repairs applied (Skinner paraphrase fix, human-nature narrowing, Camus synthesis limits, analytical leans, QC language removed); final advisor QC passed. Disagreement count: 3 of the 3-5 bar \u2014 MET. Verification: 44 quotations checked; 41 automated matches; three automated matches unresolved (bot-blocked carriers), all documented as manually verified in the ledger \u2014 not a completion blocker. Registry flip and publication left to the supervisor per advisor ruling; art remains the owner call.",
+      "note": "Pass 11 (worker-pplx-dos31-1025k): THIRD demonstrated disagreement added — Camus vs Sartre, new heading \"Is there a human nature we do not make?\" (human nature pre-given or self-constituted), advisor-cleared round 4 with all constraints carried. The Rebel carrier switched from the djvu.txt (whose stray OCR angle-bracket makes the verifier eat the first two-thirds of the book) to the PDF edition of the same translation; only PDF-text-verified spans quoted. All advisor prose repairs applied (Skinner paraphrase fix, human-nature narrowing, Camus synthesis limits, analytical leans, QC language removed); final advisor QC passed. Disagreement count: 3 of the 3-5 bar — MET. Verification: 44 quotations checked; 41 automated matches; three automated matches unresolved (bot-blocked carriers), all documented as manually verified in the ledger — not a completion blocker. Registry flip and publication left to the supervisor per advisor ruling; art remains the owner call.",
       "status": "done"
     }
   ],
