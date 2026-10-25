@@ -3184,7 +3184,7 @@ session b7e5875a complete.
 - Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
   No coordination needed post-launch; the baton system governs.
 
-## AGENT LAUNCH (2026-10-25 10:40Z, launcher pplx-1025-launch-b, no baton held)
+## AGENT LAUNCH (2026-10-25 10:39Z, launcher pplx-1025-launch-b, no baton held)
 
 Path A launch: account johnnysaunders405+ihxrm@outlook.com (signed in as
 johnnysaun74365, Free plan), worker prompt (current PROMPT-WORKER.md with the
@@ -3195,7 +3195,7 @@ https://www.perplexity.ai/computer/tasks/9b23d590-2287-4d88-9479-2e5d8bfbcf53
 submit confirmed by URL flip). Second launch (larichedavid+0001@gmail.com) in
 progress via Add account flow per owner directive.
 
-## AGENT LAUNCH 2 (2026-10-25 10:42Z, launcher pplx-1025-launch-b, no baton held)
+## AGENT LAUNCH 2 (2026-10-25 10:40Z, launcher pplx-1025-launch-b, no baton held)
 
 Path A launch via Add account flow (owner directive): account
 larichedavid+0001@gmail.com (signed in as larichedav94391, Free plan; johnnysaun74365
