@@ -1045,7 +1045,15 @@ against the recording or transcript before the record is attached to a module.
   2026-10-25,
   https://en.wikipedia.org/api/rest_v1/page/summary/Cal_Newport); the
   recording's own description identifies him as Associate Professor of
-  Computer Science at Georgetown at talk time.
+  Computer Science at Georgetown at talk time. Follow-up (2026-10-25):
+  a Georgetown University Center for Digital Ethics profile page was
+  opened (https://digitalethics.georgetown.edu/profiles/cal-newport/,
+  opened 2026-10-25) and lists him as "Provost's Distinguished Professor
+  of Computer Science" with the primary academic appointment
+  "Professor, Computer Science" — an institutional page documenting
+  his current title and department (the talk-time associate rank is the
+  description's statement; the current page does not restate the
+  historical rank, so both are recorded without conflation).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a book talk on
   Digital Minimalism — being more selective about personal technologies to
