@@ -291,3 +291,28 @@ instruction). Editorial review only; no carriers or cards freshly
 opened this pass.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 24 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the canonical cluster (right effort, the
+Eightfold Path, three trainings, the middle path with its
+lute-string calibration), the science-of-effort cluster (Miles et al.'s
+self-control-training null result carried as a caution, Duckworth grit,
+Wrosch-Scheier-Miller-Schulz-Carver goal adjustment), the recovery and
+rhythm cluster (Sonnentag-Fritz recovery experiences, Ecclesiastes
+seasons of energy), the Daoist cluster (Cook Ding's nineteen-year
+blade, Bruya effortless attention, non-striving), and the Stoic
+discipline cluster (Epictetus's three disciplines with Hadot's
+naming, the discipline of assent, non-response, Simone Weil's
+discipline of attention, Hadot's spiritual exercises, James's effort of
+attention, Foucault's disciplined body). No mismatches found; no edits
+made. This strengthens the earlier voice-audit review (all 4 candidates
+kept): the flagged constructions are card-faithful as well as
+doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
