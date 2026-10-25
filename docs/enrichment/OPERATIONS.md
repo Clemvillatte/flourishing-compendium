@@ -1544,3 +1544,17 @@ The advisor's final verification caught overstated records in this session's QC 
   JS-rendered; a plain page fetch shows only the pre-JS shell
   ("Opening the library..."), so payload checks must target
   app.js directly.
+
+# Supervisor QC entry 15 — 2026-10-25 ~04:08Z (supervisor-pplx-brownmermaid-1025a)
+
+- GOALS post-QC verification: the dos13 worker's commitment-
+  devices addition is card-faithful (the gloss is a faithful
+  compression of the card's own plain-words text, checked against
+  the card file this pass). PASS.
+- SAMPLE QC body (dos17's GF rewrite, published): checker exit 0
+  (60 links, 0 dense, quotes 1/0). PASS. Its 0-question state is
+  part of the catalogue-wide finding (entry 7).
+- Band states at this pass: dos13 released (final), dos2 claimed
+  (affect verification), dos19 claimed; dos17's body work
+  complete per its ledger. No conflicts with any live worker;
+  no worker files edited by this supervisor this pass.
