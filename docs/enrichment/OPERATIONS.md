@@ -1701,3 +1701,24 @@ The advisor's final verification caught overstated records in this session's QC 
   meaning-and-mortality deletion path; the 1-question exceptions
   (suffering, acceptance) and gratitude's 0-question exception.
 - Releasing both supervisor batons. Report follows.
+
+# Supervisor QC entry 27 — 2026-10-25 04:57Z (supervisor-pplx-1025h, takeover)
+
+- Takeover from released baton; health check OK (build 5944 entries / fcAuthored 979,
+  clean tree at takeover except PROGRESS refresh); PROGRESS.md refreshed at this
+  revision (principles 2182/2182, concepts 2262/2263).
+- PROPOSALS: none applyable — all applyable-schema files (ct3, k1c, k1d, w1ad) show
+  0 pending records; the three EMPTY PLACEHOLDERS (ct2, maintenance, p1t) retain the
+  standing hazard note; t1a/t1d/t1f (1,147 thinker-schema records) remain under the
+  deliberate apply guard, backlog duplicates unchanged. No enrich_apply run this pass.
+- SAMPLE QC freedom (published this hour by the previous supervisor): all four
+  Rousseau Social Contract spans (Book I ch. 1, ch. 8, ch. 7) verified VERBATIM
+  against the raw Gutenberg 46333 carrier (Cole translation; the dossier's initial
+  capital on "Whoever" is bracket-free house style, wording exact). PASS.
+- SAMPLE QC goals (reader-level review, f65b4b77e): both Miller & Wrosch 2007
+  spans (persistence-embedded; disengage-adaptive) verified VERBATIM against the
+  freshly opened Concordia PDF (pdftotext). PASS.
+- Repair-pass enumeration check (standing entry-24 flag): dos18 claimed by a live
+  worker (right-view); dos34 live (leisure). Corrected-count targets remain
+  available; supervisor taking dos26 (gratitude, 0-question published item) as
+  band work between passes, supervisor role noted in the claim.
