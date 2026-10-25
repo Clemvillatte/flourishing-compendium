@@ -19,9 +19,13 @@ As described in the overview, the theory distinguishes intrinsic load (the diffi
 
 > A heavy cognitive load typically creates error or some kind of interference in the task at hand. — [Wikipedia, Cognitive load (opened)](https://en.wikipedia.org/wiki/Cognitive_load)
 
-I read the finding through its simplicity and rest principles.
+The compendium reads the finding through its simplicity and rest principles.
 
-### Here
+### Why the three-way split helps
+
+The three-way split is the theory's practical gift. Because the loads have different sources, they have different fixes: intrinsic load belongs to the material and is met with time and segmentation, extraneous load belongs to the presentation and is met with design, and germane load is the learner's own effort aimed at the essential information rather than the clutter. The simplicity principle attacks the second kind, and the rest principle concedes the first: a tired working memory is not a character flaw, it is a small container with a finite bottom.
+
+### In the compendium
 
 - [[CO003 — Know that thinking has limited capacity — cognitive load is real]] — the limited-capacity principle.
 - [[D037 — Empty the heart-mind (xuxin)]] — emptying the heart-mind.

@@ -15,7 +15,11 @@ In Deci and Ryan's self-determination theory, the goals people pursue sort into 
 
 In the studies the paper summarizes, the relative importance a person places on the three intrinsic aspirations (personal growth, relationships, community involvement) related positively to self-actualization and vitality, while the index for financial success related negatively: "The higher the relative importance of financial success, the lower the subject's self-actualization and vitality."
 
-### Here
+### What the relative weight means
+
+The findings give the distinction teeth because the measure is not the content of a goal but its relative weight against the others a person holds. A life usually contains both kinds of ambition; what tracked well-being was the priority ordering, not the possession of ambitions. That is the practical point of the label the page adds: eudaimonic motivation names a direction of investment rather than a category of activity, and on this evidence the direction can be read off a person's list of what matters most.
+
+### In the compendium
 
 - [[MO003 — Recognise the difference between intrinsic and extrinsic motivation — quality matters]]
 - [[SE064 — Recognise intrinsic vs extrinsic motivation — intrinsic predicts well-being]]
