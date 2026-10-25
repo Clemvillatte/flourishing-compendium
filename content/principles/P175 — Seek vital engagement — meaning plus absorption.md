@@ -16,9 +16,9 @@ Jeanne Nakamura and Mihaly Csikszentmihalyi describe a lasting relationship with
 
 > We will define vital engagement in this chapter as a relationship to the world that is characterized both by experiences of flow (enjoyed absorption) and by meaning (subjective significance).
 
-(Nakamura and Csikszentmihalyi, 2003, p. 87, [archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf).)
+(Nakamura and Csikszentmihalyi, 2003, p. 8, [archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf).)
 
-Their waiting-room crossword example explains why absorption alone is insufficient: someone can enjoy the puzzle yet care little when it ends. They also propose that significance can develop through continued involvement. A pursuit need not arrive with its lifelong meaning already settled (pp. 94-97). Their account draws on retrospective interviews with artists and scientists; they acknowledge the limits of those recollections as evidence (p. 87).
+Their waiting-room crossword example explains why absorption alone is insufficient: someone can enjoy the puzzle yet care little when it ends. They also propose that significance can develop through continued involvement. A pursuit need not arrive with its lifelong meaning already settled (pp. 15, 19-21). Their account draws on retrospective interviews with artists and scientists; they acknowledge the limits of those recollections as evidence (p. 8).
 
 **Plain words**
 Something can hold your attention for an hour without becoming something you care about. With a lasting interest, you also care what happens to the work and want to return to it. That attachment may grow as you learn what the activity makes possible.
@@ -27,7 +27,7 @@ Something can hold your attention for an hour without becoming something you car
 
 ## Sources
 
-- [Nakamura and Csikszentmihalyi, The Construction of Meaning Through Vital Engagement, archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf) — definition and retrospective-data limits, p. 87; crossword and developing meaning, pp. 94-97
+- [Nakamura and Csikszentmihalyi, The Construction of Meaning Through Vital Engagement, archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf) — definition and retrospective-data limits, p. 8; crossword, p. 15; developing meaning, pp. 19-21
 
 ## Psychology parallels
 
