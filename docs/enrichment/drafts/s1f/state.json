@@ -298,6 +298,11 @@
      "t": "2026-10-25T15:06:32+00:00",
      "to": "ready",
      "note": "qc-storyteller-pplx-1025x: correction — the previous note's 15:09Z stamp was estimated, actual browser verification completed 15:07Z (clock-measured); findings unchanged: 6/6 quotes verbatim, Roth/Ruth author correction flagged"
+    },
+    {
+     "t": "2026-10-25T15:06:54+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x: precision fix — the browser verification completed by 15:06:30Z (clock reading taken immediately after browser close); the 15:07Z in the prior note overstated by ~30s. Findings unchanged: 6/6 verbatim, Roth author correction flagged"
     }
    ]
   },
@@ -318,9 +323,14 @@
      "t": "2026-10-23T06:39:31+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:06:59+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:06: sample verified — full empty-boat passage VERBATIM in the Legge translation on the tianmu.org page (downloaded and string-matched)"
     }
    ]
   }
  },
- "updated": "2026-10-25T15:06:46+00:00"
+ "updated": "2026-10-25T15:06:59+00:00"
 }
