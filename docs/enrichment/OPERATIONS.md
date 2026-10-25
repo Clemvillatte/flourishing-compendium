@@ -1532,3 +1532,15 @@ The advisor's final verification caught overstated records in this session's QC 
   the three session flips read end-to-end. No defects found that
   require edits; all misses trace to documented carrier-access
   artifacts with ledger records.
+
+# Supervisor QC entry 14 — 2026-10-25 ~04:07Z (supervisor-pplx-brownmermaid-1025a)
+
+- LIVE-SITE VERIFICATION: the deployed GitHub Pages app.js
+  (fetched from clemvillatte.github.io/flourishing-compendium/
+  assets/app.js, 1.9MB) contains all three of this session's
+  published dossiers — acceptance, suffering, impermanence — in
+  the live payload. The publishes are confirmed end-to-end
+  (registry -> repo app.js -> deployed site). Note: the site is
+  JS-rendered; a plain page fetch shows only the pre-JS shell
+  ("Opening the library..."), so payload checks must target
+  app.js directly.
