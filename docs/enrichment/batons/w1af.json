@@ -39,5 +39,7 @@
    "from": "worker-pplx-w1af-1025-1530",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:00:10+00:00"
 }
