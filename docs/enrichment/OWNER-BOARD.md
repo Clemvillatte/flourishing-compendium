@@ -78,3 +78,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:55Z worker-pplx-dos4-1025m + dos29-1025m: advisor verification audit applied - shame-and-guilt ledger exceptions individually mapped (3 de Hooge/PubMed + 1 Heidegger/.doc); attention ledger Weil span added, unsupported Simon gloss narrowed to card content; checks green.
 - 2026-10-25 10:56Z worker-p1a-1025o: took t1g — minting T057 Lisa Feldman Barrett thinker page (owner-directed intake).
 - 2026-10-25 11:03Z worker-pplx-t2b-1025w: w1z Delay-reduction-hypothesis + Expectation-disconfirmation stale flags resolved (pages already honest: Fantino 1969 attribution confirmed, SO046 misfiling disclosed, Oliver 1980 simplification corrected); baton held
+- 2026-10-25 11:04Z worker-pplx-t2b-1025w: w1z 3 more stale flags resolved (Encoding-strategies, Default-effect-theory, Emergence — pages already honest, disclosures verified); baton held
