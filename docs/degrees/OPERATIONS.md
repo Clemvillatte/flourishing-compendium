@@ -145,3 +145,18 @@ one more advisor call.
   behaviour, noted in the script. Flag to deg-arch: the kind/legacy
   vocabulary and the in-development status value are now live in the
   schema; please ratify in the schema vocabulary docs.
+- 2026-10-25 worker-pplx-integrate-1 (deg-integrate), ADVISOR ROUND APPLIED
+  (commit ffb9a45a3): migration test split into CI-safe permanent schema
+  invariants and a one-time MigrationAuditTests pinned to c4880ebb3 and its
+  parent (skipped with a stated reason where that history is absent; the
+  Pages CI shallow clone cannot see it). Cause found for the failed Pages
+  deploys since 05db599e0: the first migration test probed git history and
+  errored in the depth-1 CI clone; every deploy in that window failed at
+  the unittest step. Also: the footer legacy control is now a real anchor
+  (href #view=legacy) per the owner's clickable-link wording; routes.qa.cjs
+  asserts the full seven-degree order. Supersedes the walk-the-log test fix
+  pushed by deg-psychdim (45e87ab14): same intent, but that version still
+  errored in a shallow clone. All suites green locally (73 python tests,
+  randomizer 9 pass, node --check, routes.qa.cjs ALL PASS desktop and
+  375px); live cache-busted verification still pending a green Pages
+  deploy at this entry's writing.

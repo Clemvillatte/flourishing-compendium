@@ -78,7 +78,7 @@ reference, unique source ids in brackets):
   next. Scope benchmarking against opened authoritative curricula in
   progress this session.
 - 2026-10-25 worker-pplx-integrate-1 (deg-integrate): schema migration shipped
-  per the owner directives (commit d34175854). fcAcademyData is schemaVersion
+  per the owner directives (commit c4880ebb3, rebased from d34175854). fcAcademyData is schemaVersion
   2: kind degree|practicum on every program, legacy flag on the seven
   superseded ones; the Academy home lists the practica first (qigong, cmp,
   psych-101 bridge card linking straight to the Psychology Lab), then a
