@@ -35,3 +35,9 @@ Per-item verification pass on the p1a "Reopened for QC" flags, following the p1z
 - Method: current pages re-read this session against each allegation; the specific requested repair confirmed present in each Plain words/For example section; carrier evidence per repair-b303ba60.md sections (Legge Daodejing/Zhuangzi, SEP Hansen/Chan/Fraser, Wilhelm/Baynes, Lally abstract) not re-fetched.
 - D001: Hansen path-reading qualification present and attributed; example revisable. D037: political stakes and Yan Hui danger retained; receptivity vs blankness distinguished. D039: chapter-26 vs modern-rest distinction explicit. D019: standalone sufficiency explanation. D055: non-forcing defined directly; feedback in application. D054: automaticity explained before instructions; counts verified per ledger. D080: accommodation explained without flattening judgments.
 - Disposition: all RESOLVED, no page edits needed.
+
+## Final 12: D078, R055, P073, S001, B001, A053, R005, SO044, S007, S011, A001, A023
+
+- Method identical to the previous batches: current pages re-read this session (Plain words and For example sections checked against each allegation); every requested repair confirmed present; carrier evidence per repair-b303ba60.md sections not re-fetched; no page edits needed.
+- Quotation-bearing items (D078 Huizi tree; R055 Analects 2.22; P073 Dewey habit-through-conditions; S001 Carter Enchiridion; B001 SN 56.11 §9; A053 NE III.1; R005 Tutu excerpt; SO044 Henrich et al. long abstract; S007 Meditations V.8; S011 Discourses III.2; A001 NE I.7; A023 NE V.1) were verified by the prior disposition against opened carriers recorded in the ledger; source verification not repeated.
+- Disposition: all RESOLVED as scoped acceptances of the repaired passages; not certifications of inherited parallels, concept pages or protected reflections.
