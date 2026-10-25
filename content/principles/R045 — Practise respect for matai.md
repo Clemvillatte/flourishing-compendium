@@ -22,7 +22,7 @@ The original entry attributes this principle to Tuhiwai Smith (1999), a Māori s
 
 Hofstede (2001) offers a parallel for the psychology bullet, though a loose one. He defines power distance as "the extent to which the less powerful members of institutions and organizations within a country expect and accept that power is distributed unequally" (as quoted in [a Jagiellonian University paper](https://ruj.uj.edu.pl/server/api/core/bitstreams/f9a77453-1a75-4437-a145-78749e030a83/content)). That describes acceptance of inequality, which is different from respect for responsible leaders.
 
-**Plain words** In Samoa a matai leads an extended family and answers for its welfare, and gets authority by serving. Respecting such people means recognising the weight they carry. The same system gives them real power over family land.
+**Plain words** A Samoan title is not a trophy; it is a job description written in the third person. The holder speaks for the household in the village council, watches over its shared property, and is chosen, and can be unchosen, by the very people being served. The proverb makes the ladder run the wrong way round to a careerist's eye: service is the road up, and the ones below do the electing. So respect here is not deference to a rank but acknowledgement of a load, and the same load includes the power to send a cousin off the family land.
 
 *For example:* The newest member of a committee speaks last and listens first to the people who carry the longest responsibility, and learns how the group actually decides.
 
