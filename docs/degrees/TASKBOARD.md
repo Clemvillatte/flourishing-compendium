@@ -341,9 +341,9 @@ still blocks module production.
   verified), Rorty elective against anchor core; Existentialism — the
   therapy half (Frankl, Yalom, May) is unanchored by these three and
   needs one opened therapy-anchored syllabus before sign-off;
-  Positive — the criticism emphasis exceeds two of three anchors
-  (anchored by Warwick's critical-evaluation outcomes alone; no
-  anchor names a criticisms-of-the-field unit) and flow is a full unit
+  Positive — no anchor names a criticisms-of-the-field unit; Warwick's
+  learning outcomes anchor critical evaluation of the field's methods
+  and research, which is the closest support; and flow is a full unit
   in one anchor (Penn) only. deg-wol-greek was already benchmarked by
   its owner agent. Also delivered the strategist ruling the Greek
   scope left open: the pre-Socratics stay excluded (a curricular

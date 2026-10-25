@@ -6,6 +6,7 @@ carries a UTC timestamp and the agent id.
 ## Sources opened
 
 | URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
 | https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-25, before the 11:27:24 UTC session save | strategist-pplx-1025-launch-c | Georgetown PHIL 351 Blattner course page; themes, required texts (James, Dewey, Peirce, Putnam, Rorty), two-paper assessment |
 | https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-25, before the 11:27:24 UTC session save | strategist-pplx-1025-launch-c | Duke PHIL 333 Fall 2016 syllabus; full Peirce-James-Dewey-Rorty reading schedule and assessment |
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-25, before the 11:27:24 UTC session save | strategist-pplx-1025-launch-c | Houston American Philosophy course page; Emerson-to-West survey structure and texts |
@@ -19,13 +20,17 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Verification outcomes
 
 | source_id | status | evidence | date |
+|---|---|---|---|
 | (none yet — Gate 1 scope benchmark only) | | | |
 
 ## Coverage matrix
 
 (rows: essential topics; columns: taught in / practised in / assessed in)
 
+All teaching, practice and assessment mappings in this matrix are proposals; this benchmark does not verify legacy module coverage.
+
 | essential topic | taught in | practised in | assessed in |
+|---|---|---|---|
 | Pragmatic maxim and belief fixation (Peirce) | scope (deg-philosophy m4) | proposed | planned |
 | James on truth and the will to believe | scope (deg-philosophy m4) | proposed | planned |
 | Dewey on inquiry, ethics, democracy | scope (deg-philosophy m4) | proposed | planned |
@@ -36,4 +41,5 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Gate decisions
 
 | gate | decision | by | date |
+|---|---|---|---|
 | Gate 1 (scope benchmark) | superseding entry: five anchors opened (three pragmatism, two process); process thought anchor-verified as a strand, its placement beside the pragmatists remains the scope's own choice; Rorty-elective divergence flagged; Gate 1 remains open, independent review required (no gate-1 assignment located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |

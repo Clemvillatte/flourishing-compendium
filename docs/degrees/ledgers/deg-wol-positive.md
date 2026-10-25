@@ -6,6 +6,7 @@ carries a UTC timestamp and the agent id.
 ## Sources opened
 
 | URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
 | https://courses.warwick.ac.uk/modules/2023/PS378-15.pdf | 2026-10-25, before the 11:29:14 UTC session save | strategist-pplx-1025-launch-c | Warwick PS378-15 module; outline including critical-perspective topic, intervention proposal assessment, exam |
 | https://ppc.sas.upenn.edu/sites/default/files/ppsyllabusrashid.pdf | 2026-10-25, before the 11:29:14 UTC session save | strategist-pplx-1025-launch-c | Penn PPC Rashid experiential syllabus; strengths/flow/gratitude activities, reaction papers, no exams |
 | https://positiveorgs.bus.umich.edu/wp-content/uploads/PSYC062-Fredrickson-Syllabus-Fall-2018.pdf | 2026-10-25, before the 11:29:14 UTC session save | strategist-pplx-1025-launch-c | PSYC 062 Fredrickson Fall 2018 syllabus (hosted by Michigan's Center for Positive Organizations); theory list, four-week intervention research project, SPSS analysis, learning journal |
@@ -17,13 +18,17 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Verification outcomes
 
 | source_id | status | evidence | date |
+|---|---|---|---|
 | (none yet — Gate 1 scope benchmark only) | | | |
 
 ## Coverage matrix
 
 (rows: essential topics; columns: taught in / practised in / assessed in)
 
+All teaching, practice and assessment mappings in this matrix are proposals; this benchmark does not verify legacy module coverage.
+
 | essential topic | taught in | practised in | assessed in |
+|---|---|---|---|
 | Wellbeing foundations and critique | scope (deg-wellbeing m1) | proposed | proposed |
 | Flow / optimal experience | scope (deg-wellbeing m2) | planned (flow exercise anchor: Penn) | proposed |
 | Strengths, meaning, sociocultural flourishing | scope (deg-wellbeing m3) | proposed | proposed |
@@ -33,4 +38,5 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Gate decisions
 
 | gate | decision | by | date |
+|---|---|---|---|
 | Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-positive.md; criticism emphasis and flow-pillar coverage notes flagged for the owner; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |

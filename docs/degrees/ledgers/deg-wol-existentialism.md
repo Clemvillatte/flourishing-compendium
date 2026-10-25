@@ -6,6 +6,7 @@ carries a UTC timestamp and the agent id.
 ## Sources opened
 
 | URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
 | https://web.stanford.edu/~jsabol/existentialism/schedule.html | 2026-10-25, before the 11:28:10 UTC session save | strategist-pplx-1025-launch-c | Stanford Phil 78 Hands-On Existentialism schedule; ten sessions Kierkegaard to Beauvoir |
 | https://philosophy.ucla.edu/wp-content/uploads/2026/03/PHILOS-177A-Syllabus-Molina-Alonso.pdf | 2026-10-25, before the 11:28:10 UTC session save | strategist-pplx-1025-launch-c | UCLA PHILOS 177A syllabus; full Heidegger/Sartre reading arc, themes, paper-based assessment |
 | https://www.uno.edu/media/39046/download | 2026-10-25, before the 11:28:10 UTC session save | strategist-pplx-1025-launch-c | UNO PHIL 3511 syllabus; 15-week plan with literary pairings, activities, assessment; no Frankl/therapy content |
@@ -19,13 +20,17 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Verification outcomes
 
 | source_id | status | evidence | date |
+|---|---|---|---|
 | (none yet — Gate 1 scope benchmark only) | | | |
 
 ## Coverage matrix
 
 (rows: essential topics; columns: taught in / practised in / assessed in)
 
+All teaching, practice and assessment mappings in this matrix are proposals; this benchmark does not verify legacy module coverage.
+
 | essential topic | taught in | practised in | assessed in |
+|---|---|---|---|
 | Freedom, responsibility, death, absurd (Kierkegaard to Camus) | scope (deg-philosophy m5) | proposed | proposed |
 | Application to own life structure | scope (walk framing; anchored by UNO's documented activities alone among the philosophy anchors) | proposed | proposed |
 | Existential therapy (Yalom, May, Frankl) | scope (to be newly curated); theorists/methods anchored by USFQ + HUJI syllabi | proposed | proposed; evidence-base-and-limits clause unanchored |
@@ -35,4 +40,5 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Gate decisions
 
 | gate | decision | by | date |
+|---|---|---|---|
 | Gate 1 (scope benchmark) | groundwork done: five anchors opened (three philosophy, two therapy), benchmark section written in docs/degrees/scope/deg-wol-existentialism.md; therapy half now anchored (theorists and methods), evidence-and-limits clause and Binswanger/Boss elective still unanchored; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |

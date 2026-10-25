@@ -6,6 +6,7 @@ carries a UTC timestamp and the agent id.
 ## Sources opened
 
 | URL | opened (UTC) | by | what it verified |
+|---|---|---|---|
 | https://courses.warwick.ac.uk/modules/2021/PH387-15 | 2026-10-25, before the 11:25:56 UTC session save | strategist-pplx-1025-launch-c | Warwick PH387-15 aims and full outline syllabus; philosophical/political Daoism, no religious content |
 | https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf | 2026-10-25, before the 11:25:56 UTC session save | strategist-pplx-1025-launch-c | Wabash RELS 318 Fischer syllabus; philosophy core plus Celestial Master and Quanzhen religious Daoism |
 | https://languages.ufl.edu/wp-content/uploads/sites/119/Fall22_CHT3513_Wang.pdf | 2026-10-25, before the 11:25:56 UTC session save | strategist-pplx-1025-launch-c | UF CHT3513 Wang Fall 2022 syllabus; full-spectrum tradition, readings and assessment structure |
@@ -17,13 +18,17 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Verification outcomes
 
 | source_id | status | evidence | date |
+|---|---|---|---|
 | (none yet — Gate 1 scope benchmark only) | | | |
 
 ## Coverage matrix
 
 (rows: essential topics; columns: taught in / practised in / assessed in)
 
+All teaching, practice and assessment mappings in this matrix are proposals; this benchmark does not verify legacy module coverage.
+
 | essential topic | taught in | practised in | assessed in |
+|---|---|---|---|
 | Daodejing core chapters | scope (deg-contemplative m1) | proposed | proposed |
 | Zhuangzi skill stories and wu wei | scope (deg-contemplative m1) | proposed | proposed |
 | Daoist ethics of the sage | scope | proposed | proposed |
@@ -33,4 +38,5 @@ Timestamp audit correction (2026-10-25, strategist-pplx-1025-launch-c): the open
 ## Gate decisions
 
 | gate | decision | by | date |
+|---|---|---|---|
 | Gate 1 (scope benchmark) | groundwork done: three anchors opened, benchmark section written in docs/degrees/scope/deg-wol-daoism.md; Gate 1 remains open; independent review required (no gate-1 assignment was located in the repo instructions this session); groundwork only, no gate cleared | strategist-pplx-1025-launch-c | 2026-10-25 |
