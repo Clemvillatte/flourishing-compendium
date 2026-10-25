@@ -158,3 +158,21 @@ each case (abstract openings plus the verified sentences), so the
 check runs against real content. quote_verify now reports 14
 checked, 0 not found. Checker exit 0 (85 card links, 21 headers, 14
 external carriers); density 0 dense; no prose em dashes.
+
+## Coverage check and story spot-checks (worker-pplx-dos7-1025g, 2026-10-25)
+
+Coverage against the manifest's title-sweep inventory: 37 of 40
+concept candidates and all 5 kernel candidates are unlinked, but the
+manifest marks the inventory as substring matches "not verified
+semantic coverage; read the cards, keep what is genuinely on-theme",
+and the unlinked candidates are affect-family cards (Affect as
+information, Affect heuristic, Affect labeling) that belong to the
+Affect dossier and eudaimonic-family cards that belong to Genuine
+Flourishing per the manifest's explicit boundary ("eudaimonic
+material lives there"). Spot-check: "Action before feeling" was
+opened and read; it is Aristotle's habituation account (NE II.1),
+eudaimonic-territory material, correctly not linked. Story
+spot-checks: three cards opened and read against their loglines
+(ST005 Hirayama's Perfect Days, ST277 Sisyphus Is Happy, ST215
+Watanabe Finds the Playground); all three compress the cards' own
+text accurately. No defects found in this pass.
