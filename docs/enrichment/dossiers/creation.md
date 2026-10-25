@@ -25,9 +25,9 @@ The family around creation overlaps easily, so I keep apart what can be kept apa
 
 [The will to meaning](https://clemvillatte.github.io/flourishing-compendium/#card=The%20will%20to%20meaning): Frankl's primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium.
 
-[Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy): Breitbart's short-term treatment for people with advanced cancer, rooted in Frankl's writings.
+[Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy): the clinical descendant of that account, Breitbart's short-term treatment for people with advanced cancer, rooted in Frankl's writings.
 
-[Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities): Conner, DeYoung and Silvia's 13-day diary study of 658 young adults. What a day's creative time did to the next day:
+[Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities): the diary study asks a different question, an empirical one. Conner, DeYoung and Silvia's 13-day diary study of 658 young adults asked how reported creative activity related to the following day's positive affect and flourishing, and the abstract words the association carefully:
 
 > "Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual. The other direction – PA predicting next-day creative activity – was not supported, suggesting that the cross-day effect was specific to creative activity predicting well-being." ([Conner, DeYoung and Silvia 2018, abstract](https://doi.org/10.1080/17439760.2016.1257049))
 
@@ -71,6 +71,8 @@ The family around creation overlaps easily, so I keep apart what can be kept apa
 
 [The pontifex, bridge-maker](https://clemvillatte.github.io/flourishing-compendium/#card=The%20pontifex%2C%20bridge-maker): the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods. The word holds a whole sociology of mediation: connection as something built, and the person who builds it, with a social status to go with it, even though ancient scholars contested the etymology from the start.
 
+[Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): connection as something made between people, on Fredrickson's account of positivity resonance: shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments.
+
 [Value creation](https://clemvillatte.github.io/flourishing-compendium/#card=Value%20creation): Nietzsche's account of valuing as creating, in the Common translation:
 
 > "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!" ([Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
@@ -93,9 +95,9 @@ Sennett extends the impulse well past skilled manual labour, to programming, med
 
 [Generativity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Generativity%20theory): Erikson's generativity turned into a measurable research programme:
 
-> "McAdams and de St. Aubin described generativity as an arrangement of seven empirically grounded facets including desire, cultural demand, concern, belief, commitment, action, and narration. Accordingly, cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind." ([Rubinstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/))
+> "McAdams and de St. Aubin’s approach described generativity as an arrangement of seven empirically grounded facets including desire, cultural demand, concern, belief, commitment, action, and narration ( McAdams & de St. Aubin, 1992 ; McAdams, Hart, & Maruna, 2004). Accordingly, cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind." ([Rubinstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/))
 
-[Legacy motivation research](https://clemvillatte.github.io/flourishing-compendium/#card=Legacy%20motivation%20research): Fox, Tost and Wade-Benzoni on the legacy motive as a link between life-meaning and prosocial motivation, developed from intergenerational decision making, generativity and terror management theory, and measured by what participants endorse across a list of ends beyond themselves.
+[Legacy motivation research](https://clemvillatte.github.io/flourishing-compendium/#card=Legacy%20motivation%20research): the same concern picked up as a motive measurable in the lab. Fox, Tost and Wade-Benzoni on the legacy motive as a link between life-meaning and prosocial motivation, developed from intergenerational decision making, generativity and terror management theory, and measured by what participants endorse across a list of ends beyond themselves.
 
 [K224 — Legacy letter](https://clemvillatte.github.io/flourishing-compendium/#card=K224%20%E2%80%94%20Legacy%20letter): the practice kernel: write a letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished. The value is in the writing.
 
@@ -127,11 +129,11 @@ On the maker: Bergson's joy passage:
 
 > "wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally." ([Bergson, "Life and Consciousness"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))
 
-The diary study found one direction of the arrow: creative activity predicted next-day activated affect and flourishing, and the reverse direction did not hold. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
+The diary study reports a lagged association rather than a cause: days with more creative activity than usual were followed by higher activated positive affect and flourishing, the reverse direction was not supported, and an observational diary design cannot establish what an experiment would. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
 
 On the work itself: Sennett's craftsman wants to do a job well for its own sake, with objective standards, on the thing itself. Zhuangzi's bell-stand maker loses thought of reward and praise before he touches the tree. Arendt's homo faber erects a world and asks whether the machines still serve it.
 
-The three emphases are not exclusive, and the sources do not rank them. Can these aims conflict, and what should take priority if they do? That question is left open here, and no passage quoted above answers it.
+The three emphases are not exclusive, and the sources do not rank them. Can these aims conflict, and what should take priority if they do?
 
 ## Practice: variation, selection, retention
 

@@ -1,7 +1,7 @@
 {
   "batch": "dos31",
   "done": [],
-  "note": "rev 3 (worker-pplx-dos31-1025c, 2026-10-25): all quotations now raw-text verified (two more extraction reconstructions caught by raw comparison and fixed: Whitehead blockquote corrected to the Garland page wording, Rubinstein blockquote replaced with the raw PMC sentence); comparison section closes on an open question; Creative impulse and Verum factum added after full-text sweeps; checker exit 0 (47 card links, 11 external occurrences, 9 distinct carriers); STATUS: content review — the genuine-divergence requirement is pending supervisor disposition (no opposed positions from opened carriers found); ledger carries the full QC record",
+  "note": "rev 4 (worker-pplx-dos31-1025c, 2026-10-25): advisor round 3 applied — Rubinstein sentence now the complete raw wording with the carrier parentheticals; Conner prose corrected to lagged-association non-causal wording; Micro-moments of connection added; parenting-cluster and Conjunctive relations exclusions documented in the ledger; ledger rewritten with no stale certification; checker exit 0 (48 card links); STATUS: content review — genuine-divergence requirement pending supervisor disposition",
   "in_progress": "creation (rev 3: content review — advisor rounds 1-2 applied; genuine-divergence requirement pending supervisor disposition)",
   "flagged": {
     "divergence-requirement": "the comparison section is honest but is not a developed genuine divergence; advisor rounds 1-2 ruled the requirement unmet on the current carriers; supervisor disposition requested (candidate: Arendt world-erecting homo faber vs Whitehead creativity as ultimate principle, both already raw-quoted in the dossier)",
