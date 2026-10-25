@@ -18,7 +18,7 @@ The same paper says the aim is understanding rather than agreement. The original
 
 For psychology, McAdams (2008) argues that life stories are told in social relationship and vary with the audience ([summary in a book chapter](https://www.irma-international.org/viewtitle/76737/?isxn=9781466629493)). That fits storytelling as relational. It is not evidence that talanoa builds bonds; the chapter itself is cited at second hand.
 
-**Plain words** Most hard conversations run on an agenda: positions, rebuttals, a clock. Talanoa takes the agenda out on purpose. You sit together and tell what you actually lived, nothing in particular to decide, and the telling does the work. The surprise is that this is not soft avoidance. The same practice was taken into Fiji's political reconciliation and into the climate talks, on the reasoning that stories build the empathy and trust that positions cannot. So the move for a stalled meeting is to stop trading conclusions and start trading stories.
+**Plain words** Talanoa is talk that drops the rigid framework: people tell their own stories, and the telling is the point. It is not aimless. It has been used for hard political conversations in Fiji and at the climate talks, where its stated purpose was to share stories and build empathy and trust rather than trade blame. For a stuck meeting, the move is to let people say what they lived before anyone defends a position.
 
 *For example:* A team replaces its blame-focused review with one question, "tell the story of what you saw", and people start listening to one another.
 

@@ -20,7 +20,7 @@ The original entry's instructions, "do not take the hau of others; do not let yo
 
 For the psychology parallel, Ryan and Frederick (1997) studied subjective vitality, "a positive feeling of aliveness and energy". They report associations with psychological well-being and physical symptoms, and lower vitality in people with chronic pain than in matched controls ([abstract](https://pubmed.ncbi.nlm.nih.gov/9327588/)). That is a measured personal feeling. Hau, in the sources above, is broader, and applies to places and objects too.
 
-**Plain words** Hau names a life-force: not only in people, but in land and in objects, the dictionaries say. What most readers meet is the gift story, where a gift carries something of the giver and demands a return, and that story is the contested part. Raymond Firth thought Mauss misread it, and a later paper that went back to the Māori-language original says the key account was mistranslated by its recorder. So the settled core is the life-force meaning, and the gift mechanism is an open scholarly argument. The Western cousin is subjective vitality, the feeling of aliveness psychologists measure, and it applies to persons only.
+**Plain words** The dictionaries gloss hau as vital essence or vitality, of a person, a place or an object. The famous reading, in which the hau of a gift obliges a return, is disputed scholarship rather than settled teaching. The nearest research idea, subjective vitality, is a feeling measured in persons, so it covers less ground than the word.
 
 *For example:* A person notices that some friendships leave them feeling more alive and some obligations leave them flat, and plans their week with that in mind.
 

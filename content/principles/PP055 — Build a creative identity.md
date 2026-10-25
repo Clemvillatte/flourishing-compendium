@@ -20,7 +20,7 @@ How the confidence is built is also less settled than the earlier text said. In 
 
 A caution from a recent paper: higher creative self-efficacy predicted a larger positive bias in self-assessed creative performance, together with lower creative achievements ([Springer 2025](https://link.springer.com/article/10.1007/s11409-025-09432-2)). Confidence and skill are separate things.
 
-**Plain words** Believing you can make things and actually making them travel together. The studies only show the two move together, moderately, and the link is weaker when creativity is measured by tests rather than surveys. The useful part is that the belief looks buildable: it responds to what you finish and to feedback from people whose judgment you respect. So build it from evidence: small finished pieces, one trusted reader, a regular slot. And keep the label honest, since self-belief and demonstrated skill can come apart; one recent paper even found higher creative confidence going with lower actual achievement.
+**Plain words** Believing you can make things and actually making things move together, moderately, and the tie is weaker when creativity is scored by performance tests than by self-ratings. Nothing yet shows that finishing work is what builds the belief; the studies only show the two travel together, with feedback and output in the mix. Keep the label honest, too: in one recent study, overrating your own creative performance went together with high creative confidence and a thinner record of judged achievements.
 
 *For example:* Someone starts saying "I write", shows up every Saturday morning, and shares a draft with one reader whose feedback they trust.
 

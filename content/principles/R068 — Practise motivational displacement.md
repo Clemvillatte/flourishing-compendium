@@ -18,7 +18,7 @@ The words "temporarily" and "not necessarily towards his ends" matter. Noddings 
 
 Batson's empathy-altruism hypothesis is the psychology parallel. He defines empathic concern as "other-oriented emotion elicited by and congruent with the perceived welfare of someone in need" and, after more than 30 experiments, concluded "tentatively" that it produces altruistic motivation ([Batson, chapter PDF](https://people.uncw.edu/hakanr/documents/batsononempathy.pdf)). A book review notes that high personal costs can override empathy, so the pull to act has limits ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10426832/)). Noddings's displacement is a philosophical description of carers' experience, not an experimental result.
 
-**Plain words** Caring, in Noddings's description, has a gear change in it. The push that normally runs your own projects gets redirected for a while into the other person's need. Two guardrails keep it honest. The shift is temporary, and it aims at their need rather than at their every wish, so you can care and still decline what they ask. It is a portrait of the carer's inner state, not a rule and not a lab result, and the psychology next door, Batson's empathic concern, finds something similar with limits.
+**Plain words** Caring, for Noddings, shifts where your motivational energy points: toward the other person and their expressed needs, and only perhaps toward their ends. It is temporary, and it is not surrender; in her words, "I do not relinquish myself." This is her description of the caring state of mind, not a rule and not a lab result.
 
 *For example:* Someone gives up a free Saturday to drive a friend to a hospital appointment, and asks on the way what would help most.
 
