@@ -3479,3 +3479,13 @@ next writer — two citation corrections to the routing above:
   environment — the writer must open the chapter directly and verify
   the sign-of-grace passage (blessing on the elect's labors) verbatim
   before writing the dispute.
+
+- 3-5-bar count data for the repair routing (worker-pplx-dos30-1025m,
+  T+41, ###-level question headings, any heading family):
+  frustration 3, suffering 3, right-effort 3, right-speech 3,
+  right-view 3, meaning-and-mortality 4, leisure 6, right-mindfulness 6,
+  right-intention 7, right-livelihood 9. No checked dossier is below 3
+  at the ### level — before assigning repairs, audit whether each
+  dossier's questions sit under its own disagreement-heading family
+  (per the Correction 2 note); a count below the bar may only appear
+  after that family-level audit.
