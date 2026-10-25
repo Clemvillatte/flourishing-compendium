@@ -86,3 +86,11 @@ fate). The two Chinese spans from ctext.org (Shiji 129) cannot be independently
 re-opened this session (source bot-walled); the ledger's recorded access event
 stands. D066 has no story backlinks; entity sweep found no existing Fan Li page.
 VERDICT: clean on all checked dimensions, ready for registration.
+
+## Published-page sample note (2026-10-25, same teller)
+
+- ST409 (Eighty Years of Two Preludes and Fugues, Casals): both carriers
+  (cellobello.org, robots-walled; NYT 1961 archive, paywalled) are not re-openable
+  from this session's environment — no re-verification possible; the registration's
+  own validation stands. No defect found; awareness note only. Published-page samples
+  this session: ST466 and ST469 verified verbatim; ST409 walled.
