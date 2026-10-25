@@ -12,22 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 6** — Know that the self is embodied: the body is part of who you are
 
-William James calls the body "the innermost part of the material Self." ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm)) I use this description as a starting point for thinking about bodily care as care for oneself.
+In the chapter on the consciousness of self, William James begins the material Self with the body. I use his description as a starting point for thinking about bodily care as care for oneself.
 
-(William James, "The Principles of Psychology," Vol. I, 1890, ch. X; Barrett et al., 2019; Craig, 2009.)
+> "In its widest possible sense, however, a man's Self is the sum total of all that he CAN call his, not only his body and his psychic powers, but his clothes and his house, his wife and children, his ancestors and friends, his reputation and works, his lands and horses, and yacht and bank-account." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
 
-> "In its widest possible sense, however, a man's Self is the sum total of all that he CAN call his, not only his body and his psychic powers, but his clothes and his house, his wife and children, his ancestors and friends, his reputation and works, his lands and horses, and yacht and bank-account." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
+In the first passage James widens the self to include possessions, family and reputation, and in the second he puts the body at the centre.
 
-James includes the body within his account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
+> "The body is the innermost part of the material Self in each of us; and certain parts of the body seem more intimately ours than the rest. The clothes come next." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
 
-> "The body is the innermost part of the material Self in each of us; and certain parts of the body seem more intimately ours than the rest. The clothes come next." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
-
-I recommend including bodily care when considering care of yourself. This is a practical application of James's account of the material self. ([The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
+My recommendation, which is mine and not James's, is to include bodily care when you think about caring for yourself.
 
 **Plain words**
-You are not a mind renting a body. When the body is tired or hurt, it is you who is tired or hurt, not your transport. So caring for yourself has to include the unglamorous maintenance: sleep, food, movement. A plan for self-improvement that skips them is a plan built on a crumbling foundation.
+On James's account the body is the innermost part of what you count as yours. So when the body is tired or hurt, you are the one who is tired or hurt. A plan for caring for yourself can reasonably include the plain maintenance: sleep, food, movement.
 
-*For example:* When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
+*For example (my illustration):* When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
+## Sources
+
+- [William James, *The Principles of Psychology*, vol. I (1890), ch. X "The Consciousness of Self", Project Gutenberg](https://www.gutenberg.org/cache/epub/57628/pg57628.txt): both block quotations, checked against the text. The page previously cited Barrett et al. (2019) and Craig (2009) in a footnote line without a link; I did not open those and removed the line.
+
 ## Psychology parallels
 
 - **[[Embodied self|Embodied self]]**, bodily states and interoception shape self-concept and self-awareness (Barrett et al., 2019; Craig, 2009)

@@ -103,3 +103,6 @@
 
 ## AF009 Affect is constructed
 - Page had no source link. Opened a full-text copy of Barrett, How Emotions Are Made (Stanford course folder) and verified all six quoted sentences; removed unverified 'chs. 4, 6' locator; rewrote body as prose with block quote; Sources added. Flag: the text copy is a copyrighted-book copy on a university course server; supervisor may prefer a different citation form.
+
+## SE006 Self is embodied
+- James Principles vol. I ch. X: both quotes verified in Gutenberg 57628 text (chapter title confirmed on psychclassics). Removed stray unlinked 'Barrett et al., 2019; Craig, 2009' citation line from the body and the 'crumbling foundation' flourish; added Sources. Flag: the Psychology parallels line still cites Barrett et al. 2019 and Craig 2009 without links; I did not open them.
