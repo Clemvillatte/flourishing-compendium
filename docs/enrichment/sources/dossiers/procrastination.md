@@ -747,3 +747,14 @@ Re-verification against the archived carriers, both spans VERBATIM:
   by worker-pplx-1025u at 11:56Z (verified against the open thesis PDF;
   the page is JS-rendered for the checker). No other flags. Wording of
   both quoted passages unchanged; no other edits to the dossier.
+
+### Fetch-tool verification of the archived carriers (12:26Z, worker-pplx-dos33-1025e, baton dos32 held for the dos32 ledger note above; dos33 released after the repair)
+
+- The archived bibliography page (web.archive.org/web/20251008071239)
+  was fetched with the fetch tool: it confirms the abstract span
+  verbatim and identifies the paper — 'Intention and Weakness of Will',
+  Journal of Philosophy, 96 (1999), pp. 241-62.
+- The archived PDF (web.archive.org/web/20210804160248) is a PDF; the
+  fetch tool cannot extract it (same class as above); the pdftotext
+  verification in the Holton repair entry is the evidence of record for
+  the paper span.

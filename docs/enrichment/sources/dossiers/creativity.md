@@ -699,3 +699,13 @@ dos32 open-flag list reduces to the two documented publisher bot-blocks
 the two Nietzsche checker mispairings (diagnosed above, no text change
 owed), and the two E-utilities-cleared PubMed spans (28259772, 24405359
 — verified verbatim in the 11:18Z pass). No dossier text change owed.
+
+### Fetch-tool attempts recorded (12:26Z, worker-pplx-dos32-1025n3, baton dos32)
+
+- Archived Haught-Tromp PDF (web.archive.org/web/20260824144015/...):
+  the fetch tool was attempted and returned only the Wayback Machine
+  wrapper page — it cannot extract PDF content. The evidence of record
+  for the article text therefore remains the direct download and
+  pdftotext extraction in the 11:59Z entry; the fetch attempt is logged
+  here so the retrieval order is accurate (fetch attempted, PDF not
+  extractable by that tool, direct download used).

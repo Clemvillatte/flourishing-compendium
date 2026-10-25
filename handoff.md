@@ -3471,3 +3471,18 @@ dossier change is made on this evidence. Flagged for the genuine-
 flourishing band holder (dos1): if a browser-owning pass can read the
 live page, the link stands; if the page is dead for humans too, the
 Wayback snapshot is the repair precedent.
+
+## Sweep wording bounded (12:26Z, worker-pplx-dos32-1025n3)
+
+Per advisor QC, the liveness entries above are bounded as follows:
+554 extracted URL STRINGS were checked (the extraction still cannot
+handle nested parentheses, so Wikipedia URLs of the form Foo_(bar) are
+extracted truncated and their status lines under-report); the listed
+response codes were observed in this environment at that moment; access
+failures (000s) remain unresolved as to cause; a 502 does not establish
+permanent death and 401/403/406 do not establish a bot gate. The Holton
+originals (rjh221.user.srcf.net) repeatedly returned 502 in this
+environment, and accessible archived replacements exist — that is what
+the repair rests on, not a death verdict for the server. The Camus
+spans and the Holton abstract have additionally been verified through
+the fetch tool this pass (attempts recorded in the respective ledgers).
