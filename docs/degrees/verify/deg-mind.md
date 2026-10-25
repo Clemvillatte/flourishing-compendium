@@ -957,18 +957,19 @@ paths (see the access note).
 
 ## Credential note (one page still pending)
 
-All Block D speaker credentials are verified on opened pages except
-Joseph LeDoux (M06-AF06): the NYU faculty pages and Wikipedia were blocked
-from this session's fetcher (robots/rate limits), so his affiliation (New
-York University) still rests on the recording's own description. The next
-verifier or the owner should open an NYU or equivalent institutional page
-for him. Every other credential line above cites a page opened this
+All Block D speaker credentials are verified on opened or retrieved
+pages. Joseph LeDoux (M06-AF06) was the last holdout: NYU faculty pages
+stayed fetcher-blocked, but his affiliation (Henry and Lucy Moses
+Professor of Science, NYU) was verified 2026-10-25 via Wikipedia page
+content retrieved through the Wikipedia REST summary endpoint (see his
+entry). Every other credential line above cites a page opened this
 session (2026-10-25): Bloom psychology.yale.edu; Fredrickson
 psychology.unc.edu/core-faculty; Damasio dornsife.usc.edu; Jha
 people.miami.edu; Barrett nubic.northeastern.edu; Swan eureka.edu; Posner
 cas.uoregon.edu; Moffitt psychiatry.duke.edu; Baumeister psychology.uq.edu.au;
 Deci and Ryan selfdeterminationtheory.org; Kahneman nobelprize.org; Stanovich
-magazine.utoronto.ca. Anna Nobre's credential (M06-AT06) rests on the
+magazine.utoronto.ca; LeDoux and Shiller via Wikipedia REST retrieval.
+Anna Nobre's credential (M06-AT06) rests on the
 uploader description — her institutional page was not opened.
 
 ## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
