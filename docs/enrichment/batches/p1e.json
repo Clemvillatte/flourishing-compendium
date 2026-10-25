@@ -18,7 +18,6 @@
     "B099",
     "B100",
     "P003",
-    "P012",
     "P015",
     "P089",
     "P115",
@@ -71,7 +70,8 @@
     "CO074",
     "CO075",
     "CO079",
-    "CO039"
+    "CO039",
+    "P012"
   ],
   "in_progress": null,
   "flagged": {
@@ -91,14 +91,14 @@
     "B099": "RESOLVED by supervisor-pcx-fe429f3b: opened the Klimecki et al. 2013 abstract (Europe PMC - 'Functional neural plasticity and associated changes in positive affect after compassion training') - it supports 'compassion training increased positive affective experiences, even in response to witnessing others in distress' and neural changes in 'regions previously associated with positive affect and affiliation', but NOT the inherited 'increases helping' claim (not measured in the study); the compassion-training gloss was REPAIRED to the carrier's own phrasing (affect shift + affiliation network); the Metta Sutta mother simile was already verified verbatim (Thanissaro carrier) and the body's karuna application is the practical extension (the QC's goodwill-vs-karuna concern is addressed by the body's framing); validated",
     "B100": "RESOLVED by supervisor-pcx-fe429f3b: verified against the Singer and Klimecki 2014 Current Biology paper (author-uploaded PDF opened) - empathic distress is defined as a strong aversive and self-oriented response to others' suffering with withdrawal motivation, and chronic empathic distress gives rise to negative health outcomes; the page's gloss (self-focused reactivity that depletes) is supported; no repair needed",
     "P003": "RESOLVED by supervisor-pcx-fe429f3b: the social-baseline gloss ('the brain regulates in relation') verified as a fair compression of Social Baseline Theory per the opened Europe PMC record (Social Baseline Theory: The Social Regulation of Risk and Effort - social relationships mitigate risk and diminish effort; decreased access increases cognitive and physiological effort); bounded disclosure: the opened record is the 2015 formulation, the 2011 citation points to the earlier Beckes-Coan paper, not separately opened; the Markus-Kitayama interdependence reference is a bare reference to a real classic; no repair",
-    "P012": "RESOLVED by supervisor-pcx-fe429f3b: the opened Hayes et al. 2020 carrier (PMC7445588, Journal of Contextual Behavioral Science, COVID-19 functional-analysis paper) does NOT state 'function not form' in those words - the gloss was a compression beyond the carrier; bullet rewritten to the carrier's own account (process-based renewal of functional analysis: organizing case information in terms of behavioural principles to identify changeable causal relationships) and the carrier URL added to Sources; validated",
+    "P012": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "P015": "RESOLVED by supervisor-pcx-fe429f3b: the inherited 'Experience and Nature, 1925' locator had no body content (the body quotes only Human Nature and Conduct, verified verbatim per Sources) and was removed from the locator line; the growth-mindset bullet states the book's own hedged thesis (beliefs about malleability shape persistence and outcomes, with context-dependent effects) - Dweck 2006 is a book, thesis-level claim, bounded disclosure: not freshly opened; the Dweck-Leggett 1988 learning-vs-performance-goals reference is a bare reference to the real Psychological Review classic; validated",
     "P089": "RESOLVED by supervisor-pcx-fe429f3b: the 2007 REQ paper's opened abstract (PMID 17638488) shows the four-factor structure and relations with job stressors and WELL-BEING - not performance; the parallels bullet was reworded to the paper's own findings; the inherited Bergson Time and Free Will locator had no body content and was removed from the locator line; validated",
     "P115": "RESOLVED by supervisor-pcx-fe429f3b: (1) the parallels bullet reworded to the opened Yaden et al. 2017 review's own claim (STEs more often ASSOCIATED with positive outcomes such as well-being and prosocial behavior - 'predict' was stronger than the carrier) and the Stellar citation corrected to 2017 (the self-transcendent-emotions Emotion Review paper whose title itself carries the prosociality thesis; 'Stellar et al. 2018' is the Awe and humility paper, a mismatch); (2) the inherited 'Toward a Psychology of Being, 1962' locator had no body content (the body quotes only the 1964 Religions, Values, and Peak-Experiences, verified verbatim per Sources) and was removed from the locator line; validated",
     "P140": "RESOLVED by supervisor-pcx-fe429f3b: the page's Thompson quote is verified against Thompson's own published precis (JCS author proof PDF on his site, opened by the predecessor and disclosed on the page) - an acceptable bounded carrier per the house precedent (secondary/adjacent carriers accepted with on-page disclosure); the Sources entry honestly labels it 'Precis of Mind in Life... author proof PDF', not the book; the lifestyle-psychiatry bullet cites Firth et al. 2019 (a real World Psychiatry umbrella review on diet/exercise and mental health, bounded: not freshly opened this session); no repair",
     "CO008": "RESOLVED by supervisor-pcx-fe429f3b: Dunlosky et al. 2013 verified via the opened Europe PMC record (10-techniques monograph with relative-utility recommendations); the bullet's lumping of self-explanation and elaboration with retrieval practice was stronger than the monograph's own ratings (practice testing HIGH utility; self-explanation and elaborative interrogation MODERATE with limited evidence) - bullet hedged accordingly; Roediger-Karpicke 2006 is the canonical testing-effect paper (bounded: not freshly opened); the constructivist bullet is the standard Piaget-Bruner thesis (bare references to real works); validated",
     "CO011": "RESOLVED by supervisor-pcx-fe429f3b: Masuda defusion studies verified real via opened Europe PMC records (2008 parametric study; 2009 defusion-vs-distraction study on believability and discomfort of negative self-referential thoughts - the bullet's claim about reduced distress and believability matches); Gillanders et al. CFQ paper verified real (2013/2014, cognitive fusion questionnaire); Hayes et al. 2011 is the ACT 2nd-edition book (bare reference to the real construct source, bounded: not freshly opened); Deacon et al. 2011 is a real defusion comparison study; both rows' claims are the standard defusion-literature findings; no repair",
-    "CO039": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
+    "CO039": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
     "E002": "RESOLVED by supervisor-pcx-fe429f3b: the two psychology-parallel bullets are bare references to real classic papers (Posner and Petersen 1990 attention system; Corbetta and Shulman 2002 goal-directed attention) - no claim clauses, left as-is; the inherited Husserl locators (Logical Investigations V; Ideas I section 84) had no body content and were removed from the locator line, leaving the Brentano carrier the body actually quotes; validated",
     "E016": "RESOLVED by supervisor-pcx-fe429f3b: the inherited Sartre Being and Nothingness Part III locator had no body content (the body quotes only Merleau-Ponty via SEP) and was removed from the locator line; the psychology-parallel row is a bare reference to real works (Gallagher 2005 How the Body Shapes the Mind; Legrand 2006 bodily-self paper) left as-is; validated",
     "PP001": "ROUTED to owner (statement protected): the predecessor's flag stands on its own verification (Ryan & Deci 2001; Ryff 1989 do not establish the comparative claim); supervisor did NOT freshly re-open those carriers - no fresh confirmation claimed. Recommended replacement recorded previously: end the statement at 'Flourishing requires both.'",
@@ -130,12 +130,12 @@
     "CO073": "RESOLVED by supervisor-pcx-fe429f3b: opened the Gigerenzer and Gaissmaier 2011 Annual Review abstract (Europe PMC) - it frames the paper's core question as 'When should people rely on a given heuristic rather than a complex strategy to make better judgments?' and 'how well cognitive heuristics function in an uncertain world', which fairly supports the first bullet's 'simple heuristics can outperform complex models in uncertain environments'; Taleb 2012 (robust-vs-optimal) remains a bare reference to Antifragile (bounded: not freshly opened; the bullet's gloss is the book's own antifragility thesis); Todd-Gigerenzer 2012 and the Aristotle/Zhuangzi/Nietzsche philosophy parallels remain bare references (bounded); no repair needed",
     "CO074": "RESOLVED by supervisor-pcx-fe429f3b: per the predecessor's opening of Guilford 1950 (the address discusses and criticizes the four-stage account and does not carry the generation-and-selection framing) and Runco 2004 (abstract checked, no relevant definitions), the first bullet's claim clause was unsupported and was REMOVED - reduced to a bare reference per the AF011/AF046/BI041 precedent; the other two bullets (Conner 2016 everyday creative activity and positive affect; Baird et al. 2012 distraction-and-creativity; Sio and Ormerod 2009 incubation meta-analysis) are bare references to real, canonical studies with fair standard glosses, left as-is (bounded: not freshly opened); validated",
     "CO075": "RESOLVED by supervisor-pcx-fe429f3b: opened the Greene et al. 2001 Science abstract (Europe PMC - 'An fMRI investigation of emotional engagement in moral judgment', framing reason and emotion as both playing important roles in moral judgment - consistent with the dual-process bullet) and confirmed the Haidt 2001 social-intuitionist model characterization (via the Haidt 2010 commentary in Europe PMC - 'The social intuitionist model (Haidt, 2001) is a more realistic portrayal of the ways that moral intuition and reasoning work together'); Haidt 2012 (The Righteous Mind), Graham et al. 2013 and Greene 2013 (Moral Tribes) remain bare references to canonical books/reviews (bounded: not freshly opened); the Hume/Kant/Adam Smith/Buddhist philosophy parallels remain bare references (bounded); no repair",
-    "CO079": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed."
+    "CO079": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed."
   },
   "missing_concepts": [],
   "sources_checked": 49,
-  "updated": "2026-10-25T12:29:34+00:00",
-  "band_done": true,
+  "updated": "2026-10-25T12:40:30+00:00",
+  "band_done": false,
   "takeover": {
     "by": "genuineflourishing35",
     "at": "2026-10-19T12:53:46.962687+00:00",
@@ -154,6 +154,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://affectivebrain.com/wp-content/uploads/2014/09/Sharot-T.-2011-The-Optimism-Bias.-Current-Biology.pdf"
+    },
+    "P012": {
+      "qc": "Plain-words replicate replaced (0.55 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.peirce.org/writings/p119.html"
     }
   }
 }
