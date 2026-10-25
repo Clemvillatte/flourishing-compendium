@@ -4251,6 +4251,1056 @@
       ],
       "dossier": "lifes-purpose",
       "sensitive": false
+    },
+    {
+      "id": "S0201",
+      "family": "desire",
+      "text": "What is the earliest step in the chain you could catch — before it becomes ruin?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y056",
+          "title": "Interrupt the chain from stimulus to ruin",
+          "why": "Krishna's chain starts with turning an object over in the mind; catch the earliest step."
+        },
+        {
+          "kind": "principle",
+          "ref": "S049",
+          "title": "Replace first movements with considered responses",
+          "why": "The surge is not yet anger; the thought needs your agreement."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0202",
+      "family": "decision",
+      "text": "Where does comfort pit itself against a responsibility — and what would honesty cost?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S015",
+          "title": "Distinguish preferred from dispreferred indifferents",
+          "why": "Ask whether gaining the preferred thing would cost you honesty or fairness."
+        },
+        {
+          "kind": "principle",
+          "ref": "A023",
+          "title": "Practice justice (dikaiosyne)",
+          "why": "Justice is what the comfort is asking you to skip."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0203",
+      "family": "wisdom",
+      "text": "What is the obstacle, by name — and is naming it the first step?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y059",
+          "title": "Know the obstacles by name",
+          "why": "The text lists nine named obstacles; naming is a fair first step."
+        },
+        {
+          "kind": "principle",
+          "ref": "B078",
+          "title": "Name the poison on contact",
+          "why": "Naming gives you something specific between the urge and the action."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0204",
+      "family": "uncertainty",
+      "text": "What did you notice that your original plan did not account for?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P089",
+          "title": "Ride the rhythm of activity and receptivity",
+          "why": "Before pressing on: does the plan still fit?"
+        },
+        {
+          "kind": "principle",
+          "ref": "D100",
+          "title": "Rest in unknowing",
+          "why": "Staying bothered by the gap is the safeguard."
+        }
+      ],
+      "dossier": "uncertainty",
+      "sensitive": false
+    },
+    {
+      "id": "S0205",
+      "family": "others",
+      "text": "What is going on with this person in front of you — and what would actually help?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R066",
+          "title": "Practise care as a moral orientation",
+          "why": "The questions are primary when someone is in need in front of you."
+        },
+        {
+          "kind": "principle",
+          "ref": "SO033",
+          "title": "Treat perspective-taking as a skill",
+          "why": "Ask what they know, want and fear — then check your guess with them."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0206",
+      "family": "courage",
+      "text": "What do you want your words to do — explain, or hurt?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B065",
+          "title": "Guard the mind at the source (mind precedes all)",
+          "why": "Before speaking, ask what you want your words to do."
+        },
+        {
+          "kind": "principle",
+          "ref": "B023",
+          "title": "Practice right speech",
+          "why": "Right speech is the same question, older."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0207",
+      "family": "meaning",
+      "text": "What thought arrives on a Sunday evening with no instructions — and can you stay with it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E045",
+          "title": "Practise conscience (Gewissen)",
+          "why": "The interruption pulls you back to the question of your own life; leave enough quiet to hear it."
+        },
+        {
+          "kind": "kernel",
+          "ref": "K112",
+          "title": "Scheduled empty time",
+          "why": "Empty time is where the plain thought gets a slot."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0208",
+      "family": "decision",
+      "text": "What choice do the facts not make — and is deciding anyway the leap?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E052",
+          "title": "Practise the leap of faith",
+          "why": "The leap is a commitment the facts alone cannot settle."
+        },
+        {
+          "kind": "principle",
+          "ref": "A045",
+          "title": "Deliberate well",
+          "why": "Deliberation ends where the facts end; the decision is still yours."
+        }
+      ],
+      "dossier": "uncertainty",
+      "sensitive": false
+    },
+    {
+      "id": "S0209",
+      "family": "wisdom",
+      "text": "Where are you about to assent to an appearance you do not fully comprehend?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S048",
+          "title": "Withhold assent when the impression is uncertain",
+          "why": "The rule: incline to the true, withhold on the uncertain."
+        },
+        {
+          "kind": "principle",
+          "ref": "S045",
+          "title": "Examine every impression",
+          "why": "Examination comes before assent, not after."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0210",
+      "family": "identity",
+      "text": "Which facts didn't you choose — and what do they mean now that you're the one deciding?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E037",
+          "title": "Practise the situation",
+          "why": "The facts shape the options; you decide what they mean."
+        },
+        {
+          "kind": "principle",
+          "ref": "A055",
+          "title": "Understand that you are responsible for your character",
+          "why": "The response is where the responsibility lives."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0211",
+      "family": "attention",
+      "text": "How many returns did it take — and did the flame fill the attention?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y074",
+          "title": "Let absorption come from continuity",
+          "why": "The returns are the earlier stage; work on that."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT047",
+          "title": "Learn focused attention meditation — concentration on a single object",
+          "why": "A session full of returns is a session full of practice."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0212",
+      "family": "silence",
+      "text": "What thought came up while you sat — and could you leave its story unfinished?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K059",
+          "title": "Let thoughts arise and dissolve, like waves on water",
+          "why": "Observe without making the disappearance the goal."
+        },
+        {
+          "kind": "principle",
+          "ref": "B044",
+          "title": "Just sit (zazen, shikantaza)",
+          "why": "Be the room the thoughts pass through, without a verdict."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0213",
+      "family": "identity",
+      "text": "What would you cross off next — not the job, not the divorce, not the diagnosis?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y088",
+          "title": "Run not this, not this as a procedure",
+          "why": "The discipline is crossing off in order, without skipping to the conclusion."
+        },
+        {
+          "kind": "principle",
+          "ref": "P160",
+          "title": "Distinguish the observing self from the story of self",
+          "why": "What remains when the crossing-off is done is not named by the procedure."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0214",
+      "family": "meaning",
+      "text": "What unconditional thing has claimed you — and was the refusal or the yes the first moment that felt like yours?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E095",
+          "title": "Practise the distinction between existence and being",
+          "why": "The refusal is the first moment in years that felt like theirs."
+        },
+        {
+          "kind": "principle",
+          "ref": "E046",
+          "title": "Practise resoluteness (Entschlossenheit)",
+          "why": "Resoluteness is the moment the choosing becomes visible."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0215",
+      "family": "wisdom",
+      "text": "What have you checked — and what are you still assuming?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D100",
+          "title": "Rest in unknowing",
+          "why": "Separate what you have checked from what you assume; stay bothered by the gap."
+        },
+        {
+          "kind": "principle",
+          "ref": "P010",
+          "title": "Hold every belief as provisional — fallibilism",
+          "why": "Provisional is the epistemic version of the same bother."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0216",
+      "family": "time",
+      "text": "What did you hear as a melody rather than a sequence of notes — and what did the clock miss?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P091",
+          "title": "Distinguish lived time from clock time",
+          "why": "The clock gives positions; the phrase is duration."
+        },
+        {
+          "kind": "principle",
+          "ref": "P092",
+          "title": "Live in a thick present",
+          "why": "The thick present is the melody, not the note."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0217",
+      "family": "attention",
+      "text": "Where does your attention habitually go out — and what is the tally?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D155",
+          "title": "Watch the thieves within",
+          "why": "The pivot is in the eyes: notice where attention goes out."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT018",
+          "title": "Practise deliberate distraction management — know what pulls your attention",
+          "why": "The tally is the management."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0218",
+      "family": "meaning",
+      "text": "What truth in your life keeps defeating your sentences — and what form would carry it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M011",
+          "title": "Treat beauty as a mode of truth",
+          "why": "Said straight, it comes out flat; some truths want a different form."
+        },
+        {
+          "kind": "principle",
+          "ref": "P086",
+          "title": "Channel the creative impulse",
+          "why": "The channel is the form the truth accepts."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0219",
+      "family": "others",
+      "text": "What would you hate arriving in your inbox — and what are you still sending?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R064",
+          "title": "Practise reciprocity (shu)",
+          "why": "The rule cuts both ways: restraint and help are the same skill."
+        },
+        {
+          "kind": "principle",
+          "ref": "B023",
+          "title": "Practice right speech",
+          "why": "Right speech includes the forwards."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0220",
+      "family": "suffering",
+      "text": "What mistake could you describe without making self-acceptance conditional on having fixed it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P166",
+          "title": "Offer unconditional regard — to yourself and others",
+          "why": "Listen to the experience and still discuss the conduct — both at once."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE025",
+          "title": "Cultivate self-compassion — treat yourself as you would a good friend",
+          "why": "The friend doesn't wait for the fix to stay a friend."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0221",
+      "family": "attention",
+      "text": "When do you think best — and is that a question about the body?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E016",
+          "title": "Practise the body-subject",
+          "why": "Thinking happens in a body that is tired or rested, cramped or walking."
+        },
+        {
+          "kind": "principle",
+          "ref": "BI013",
+          "title": "Prioritise sleep as the foundation of mental health",
+          "why": "The body's condition is the mind's floor."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": false
+    },
+    {
+      "id": "S0222",
+      "family": "meaning",
+      "text": "What is the plan after the plan — and what did you notice that it didn't account for?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P089",
+          "title": "Ride the rhythm of activity and receptivity",
+          "why": "Before pressing on, ask what your original plan did not account for."
+        },
+        {
+          "kind": "principle",
+          "ref": "D100",
+          "title": "Rest in unknowing",
+          "why": "The provisional decision is allowed; the certainty about it is not."
+        }
+      ],
+      "dossier": "uncertainty",
+      "sensitive": false
+    },
+    {
+      "id": "S0223",
+      "family": "wisdom",
+      "text": "What memory feels like a photograph — and what would asking again show?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "CO058",
+          "title": "Understand flashbulb memories — vividness is not accuracy",
+          "why": "The certainty tells you how it feels now, not what happened."
+        },
+        {
+          "kind": "principle",
+          "ref": "CO060",
+          "title": "Use memory for growth — reconsolidation allows updating",
+          "why": "The update is allowed; the photograph isn't the thing."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0224",
+      "family": "wisdom",
+      "text": "What did you become certain about after doubt — and did you notice the pattern?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "X006",
+          "title": "Let the skeptics' slogans guard the practice's humility",
+          "why": "If you become certain that certainty is bad, you've moved from method to doctrine."
+        },
+        {
+          "kind": "principle",
+          "ref": "B047",
+          "title": "Keep the great doubt alive",
+          "why": "The doubt is the guard, not the enemy."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0225",
+      "family": "others",
+      "text": "What disputed word do you and they both use — and do you mean the same thing?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP046",
+          "title": "Watch words; they are not ideas",
+          "why": "Ask what each person means and which cases they include."
+        },
+        {
+          "kind": "principle",
+          "ref": "CO078",
+          "title": "Understand the role of language in thinking — words shape thought",
+          "why": "The word shapes the thought; check the shape."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0226",
+      "family": "attention",
+      "text": "What note are you dwelling on — and what did it do to the phrase?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P091",
+          "title": "Distinguish lived time from clock time",
+          "why": "The wrongness is the qualitative change in the whole phrase, not the added length."
+        },
+        {
+          "kind": "principle",
+          "ref": "E008",
+          "title": "Practise the structure of temporality",
+          "why": "Each note comes with the one just before it and a sense of what's coming."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0227",
+      "family": "wisdom",
+      "text": "What description has quietly replaced the thing described — and what is the lived version?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E004",
+          "title": "Practise the lifeworld (Lebenswelt)",
+          "why": "A number, a diagnosis, a profile: catch the moment it replaces the warm evening."
+        },
+        {
+          "kind": "principle",
+          "ref": "E011",
+          "title": "Practise phenomenological description",
+          "why": "Describe the lived version before the numbered one."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0228",
+      "family": "time",
+      "text": "What is your week of Sundays holding that no burst of inspiration would have produced?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y038",
+          "title": "Make self-study a discipline",
+          "why": "The notebook holds a year of the mind."
+        },
+        {
+          "kind": "principle",
+          "ref": "M014",
+          "title": "Learn the poems of your tradition by heart",
+          "why": "What's held by heart is held differently than what's scrolled."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0229",
+      "family": "identity",
+      "text": "What reaction do you keep repeating — and what is one different response you could practise?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y022",
+          "title": "Work with samskaras as the deep layer",
+          "why": "Describe the situation, what you did, one different response; review after a week."
+        },
+        {
+          "kind": "principle",
+          "ref": "MO036",
+          "title": "Learn to use context-dependent repetition — same context, same behaviour",
+          "why": "The context is where the new response gets installed."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0230",
+      "family": "decision",
+      "text": "Where are you stuck in one setting — gas or brake — and can you still shift?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "BI002",
+          "title": "Recognise that the autonomic nervous system has two branches — arousal and restoration",
+          "why": "The question for a stressed week is whether you can still shift."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF034",
+          "title": "Cultivate equanimity — the capacity to remain steady amid affect",
+          "why": "Equanimity is the shifting, not the absence of either."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": false
+    },
+    {
+      "id": "S0231",
+      "family": "others",
+      "text": "What does the other person mean by that word — and which cases do they include?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SO033",
+          "title": "Treat perspective-taking as a skill",
+          "why": "Your first guess tends to sound like you; check it with them."
+        },
+        {
+          "kind": "principle",
+          "ref": "R046",
+          "title": "Practise talanoa",
+          "why": "The talk that checks the guess is the practice."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0232",
+      "family": "meaning",
+      "text": "What are you forwarding — the cruel joke or the opportunity?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R064",
+          "title": "Practise reciprocity (shu)",
+          "why": "You know exactly how each lands; that knowledge is the rule."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE061",
+          "title": "Engage in helping behaviour — contribute to others",
+          "why": "The opportunity forward is the contribution."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0233",
+      "family": "suffering",
+      "text": "What flinch happened before you said anything to yourself — and is the accusation in it true?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S049",
+          "title": "Replace first movements with considered responses",
+          "why": "The flinch is the first movement; the anger needs your agreement."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF050",
+          "title": "Understand anger's function — it signals a violated boundary or blocked goal",
+          "why": "Check what happened and what you inferred before deciding on the response."
+        }
+      ],
+      "dossier": "anger",
+      "sensitive": false
+    },
+    {
+      "id": "S0234",
+      "family": "wisdom",
+      "text": "What would you find if you kept a tally of the moments you reached for the phone without deciding to?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D155",
+          "title": "Watch the thieves within",
+          "why": "The tally is the audit of what reaches out through your eyes."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT062",
+          "title": "Learn to manage social media attention — infinite scroll and variable rewards",
+          "why": "The tally is also the design's confession."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0235",
+      "family": "uncertainty",
+      "text": "What is the assumption your plan rests on — and what would challenge it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y017",
+          "title": "Catch distortion early",
+          "why": "Check what was actually observed and what would count against your account."
+        },
+        {
+          "kind": "principle",
+          "ref": "P052",
+          "title": "Hold hypotheses, not positions",
+          "why": "The position is what the hypothesis hardened into."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0236",
+      "family": "courage",
+      "text": "What did you decline this year that felt like the first moment in years that was yours?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E095",
+          "title": "Practise the distinction between existence and being",
+          "why": "The refusal is where the existence becomes yours."
+        },
+        {
+          "kind": "principle",
+          "ref": "E033",
+          "title": "Practise avoiding bad faith (mauvaise foi)",
+          "why": "Bad faith is the promotion accepted to avoid the cost."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0237",
+      "family": "meaning",
+      "text": "What would you make — song, painted poem, metaphor — to carry what the plain statement drops?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M011",
+          "title": "Treat beauty as a mode of truth",
+          "why": "The Nahua answer was to make something."
+        },
+        {
+          "kind": "principle",
+          "ref": "P111",
+          "title": "Do art as experience, not as object",
+          "why": "The making is the experience; the object is the residue."
+        }
+      ],
+      "dossier": "lifes-purpose",
+      "sensitive": false
+    },
+    {
+      "id": "S0238",
+      "family": "suffering",
+      "text": "What surge arrived with bad news — and what did you check before acting on it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S049",
+          "title": "Replace first movements with considered responses",
+          "why": "The reply is drafted and left unsent while its accusations are checked."
+        },
+        {
+          "kind": "principle",
+          "ref": "S054",
+          "title": "Distinguish between facts and interpretations",
+          "why": "The check is the distinction in action."
+        }
+      ],
+      "dossier": "affect",
+      "sensitive": false
+    },
+    {
+      "id": "S0239",
+      "family": "others",
+      "text": "What is going on with this person — and what can they receive?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R066",
+          "title": "Practise care as a moral orientation",
+          "why": "What would actually help is a different question from what would be right."
+        },
+        {
+          "kind": "principle",
+          "ref": "A026",
+          "title": "Practice patience with others' faults",
+          "why": "The patience is often the help."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0240",
+      "family": "wisdom",
+      "text": "What did you write down after the difficult discussion — and did you leave the comparison open?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP011",
+          "title": "Read joy and sadness as power signals",
+          "why": "Record what you understood better and what remains unresolved."
+        },
+        {
+          "kind": "principle",
+          "ref": "M010",
+          "title": "Let the in-between soften your judgments of both sides",
+          "why": "The unresolved is the in-between; it's allowed to stay."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0241",
+      "family": "identity",
+      "text": "What is the story of your own history — and are you answering to it or fitting in?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E095",
+          "title": "Practise the distinction between existence and being",
+          "why": "Being yourself in your own history is a possibility you answer to."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP024",
+          "title": "Build narrative coherence",
+          "why": "The story that holds together is the history you answer to."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0242",
+      "family": "attention",
+      "text": "What is running in every situation — and could it carry the practice?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "K028",
+          "title": "Practice sending and taking on the breath",
+          "why": "The breath carries the practice because it is already running."
+        },
+        {
+          "kind": "principle",
+          "ref": "B038",
+          "title": "Practice mindfulness of breathing (anapanasati)",
+          "why": "The oldest carrier there is."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": false
+    },
+    {
+      "id": "S0243",
+      "family": "decision",
+      "text": "What would you say 'I can't' to — and does the world forbid it, or do you want to avoid the cost?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E037",
+          "title": "Practise the situation",
+          "why": "The facts shape which options exist; you decide what they mean."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF036",
+          "title": "Learn to regulate through action — affect follows behaviour",
+          "why": "The cost-avoidance often dissolves in the small step."
+        }
+      ],
+      "dossier": "agency",
+      "sensitive": false
+    },
+    {
+      "id": "S0244",
+      "family": "wisdom",
+      "text": "What melody are you hearing that the clock can't report?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E008",
+          "title": "Practise the structure of temporality",
+          "why": "Each note comes with the one before and a sense of what's coming."
+        },
+        {
+          "kind": "principle",
+          "ref": "P105",
+          "title": "Feel time in the body — rhythm, tempo, flow",
+          "why": "The melody is a bodily time, not a clock's."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0245",
+      "family": "identity",
+      "text": "What is the truth about you that keeps defeating your sentences?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M011",
+          "title": "Treat beauty as a mode of truth",
+          "why": "Some truths want a different form — song, poem, metaphor."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE046",
+          "title": "Recognise identity and meaning — identity provides meaning",
+          "why": "The story that holds is the form the truth accepts."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0246",
+      "family": "others",
+      "text": "What did you understand better — and what remains unresolved?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP011",
+          "title": "Read joy and sadness as power signals",
+          "why": "Record both; leave the entry descriptive rather than scored."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP033",
+          "title": "Repair ruptures promptly",
+          "why": "The unresolved is where the rupture lives; the signal is the repair."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0247",
+      "family": "silence",
+      "text": "What is the quality of the quiet you leave — enough for the plain thought to be heard?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E045",
+          "title": "Practise conscience (Gewissen)",
+          "why": "The interruption is easy to drown out; leave enough quiet."
+        },
+        {
+          "kind": "principle",
+          "ref": "B172",
+          "title": "Value silence",
+          "why": "Silence is the medium, not the absence."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0248",
+      "family": "decision",
+      "text": "What are the facts you've gathered — and what choice do they still not make?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E052",
+          "title": "Practise the leap of faith",
+          "why": "Deciding anyway, after every fact available, is the loose modern sense of the leap."
+        },
+        {
+          "kind": "principle",
+          "ref": "CO043",
+          "title": "Recognise the limits of analysis — overthinking can be worse than deciding",
+          "why": "The facts have a stopping point; so should the analysis."
+        }
+      ],
+      "dossier": "decision-making",
+      "sensitive": false
+    },
+    {
+      "id": "S0249",
+      "family": "courage",
+      "text": "What would you do if the choice between fitting in and being yourself were actually in front of you?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E095",
+          "title": "Practise the distinction between existence and being",
+          "why": "The refusal is the first moment that felt like theirs."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE043",
+          "title": "Cultivate authentic identity — be who you are, not who others want",
+          "why": "The authentic is the one the fitting-in keeps deferring."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0250",
+      "family": "time",
+      "text": "What did you hear together — the note now playing and the ones already sounded?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P091",
+          "title": "Distinguish lived time from clock time",
+          "why": "To hear a melody as a melody is to hear them together."
+        },
+        {
+          "kind": "principle",
+          "ref": "E008",
+          "title": "Practise the structure of temporality",
+          "why": "The structure is what lets a sentence hang together too."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
     }
   ]
 }
