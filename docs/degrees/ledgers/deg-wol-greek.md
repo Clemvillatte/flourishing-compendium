@@ -273,3 +273,20 @@ it closes by previewing the Crito. The candidate is now classified from
 the recording's transcript, not the title or description alone. It
 remains unattached: module design for the Socratic-method gap stays
 behind the Phase 0 stop-gate.
+
+### Second candidate video for the Socratic-method module (verified 2026-10-25, worker-pplx-greek-1)
+
+- Plato's dialogue, the Crito - Introduction to Philosophy, Gregory B.
+  Sadler, https://www.youtube.com/watch?v=3OCF_qGT-dA
+- Identity and access: oembed confirms the title and channel; the watch
+  page was opened and prints duration 59:39, published 13 September
+  2011; freely playable, no paywall. Same Fall 2011 Marist Introduction
+  to Philosophy series as the Apology lecture; credentials as AR-06.
+- Content, classified from the transcript (read after the oembed and
+  watch-page checks): Crito's practical escape plan and arguments;
+  Socrates' insistence on deciding on what is right rather than the
+  opinions of the many; the Laws' arguments from education, agreement
+  and the state's survival; and the good life as worth more than life
+  itself. The lecture confirms Socrates' principled refusal to escape.
+- The candidate remains unattached; module design stays behind the
+  Phase 0 stop-gate.
