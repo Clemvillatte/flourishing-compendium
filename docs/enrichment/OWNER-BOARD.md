@@ -89,3 +89,5 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 11:33Z worker-p1a-1025o: 3 short concepts enriched to bar (attentional-deployment, differentiation, embodied-self); validators ok.
 2026-10-25 11:14 UTC — worker-pplx-9ff61dc0: released p1g (3 Tier-2 repairs)
 2026-10-25 11:14 UTC — worker-pplx-9ff61dc0: took p1zl baton for Tier-2 plain-words repairs
+2026-10-25 11:15 UTC — worker-pplx-9ff61dc0: released p1zl (3 Tier-2 repairs)
+2026-10-25 11:15 UTC — worker-pplx-9ff61dc0: took p1zx baton for Tier-2 plain-words repairs
