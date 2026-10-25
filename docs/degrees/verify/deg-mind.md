@@ -967,3 +967,137 @@ cas.uoregon.edu; Moffitt psychiatry.duke.edu; Baumeister psychology.uq.edu.au;
 Deci and Ryan selfdeterminationtheory.org; Kahneman nobelprize.org; Stanovich
 magazine.utoronto.ca. Anna Nobre's credential (M06-AT06) rests on the
 uploader description — her institutional page was not opened.
+
+## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
+
+Records below are unattached imported records from the deg-verify-b md5-odd
+half, verified to skill section 4 (oembed identity, watch-page duration and
+description, credentials from opened pages where noted). Coverage-basis note
+as the Block I sections above: each entry records the basis of its
+content-coverage claim; uploader-description coverage should be confirmed
+against the recording or transcript before the record is attached to a module.
+
+### M06-AF10: Positivity Resonates (Barbara Fredrickson, MIT Media Lab)
+
+- Identity and access: oembed confirms the lecture on the MIT Media Lab
+  channel (https://www.youtube.com/watch?v=AUZ0YbWvq2A); watch page opened
+  2026-10-25. Advancing Wellbeing Seminar Series.
+- Duration: 1:19:46 (watch page, 2026-10-25).
+- Instructor credentials: Barbara L. Fredrickson, Kenan Distinguished
+  Professor, UNC (UNC core-faculty page opened this session, see M06-AF09).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): positivity
+  resonance — a momentary state co-experienced by two or more people with
+  shared positive affect, mutual care, and cross-person behavioral and
+  biological synchrony; empirical evidence linking positivity resonance to
+  mental and physical health.
+- Relevant segment: whole lecture, 1:19:46.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AF11: Open Your Heart and Flourish (Barbara Fredrickson, Boston University)
+
+- Identity and access: oembed confirms the lecture on the Boston University
+  channel (https://www.youtube.com/watch?v=w8ACFIZ-h4I); watch page opened
+  2026-10-25. Religious and Psychological Well-Being Templeton Lecture
+  Series, BU Danielsen Institute, 20 February 2010. Note: the uploader
+  description misspells the speaker's name as "Barbara Frederickson".
+- Duration: 1:42:51 (watch page, 2026-10-25).
+- Instructor credentials: as M06-AF09 (Fredrickson, UNC page opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "How Positivity
+  Seeds Character Development, Spiritual Transformation, and Lifestyle
+  Change" — how positive thoughts and emotions broaden perspective and
+  transform life.
+- Relevant segment: whole lecture, 1:42:51.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AT03: Digital Minimalism — Cal Newport (Georgetown University Library)
+
+- Identity and access: oembed confirms the book talk on the Georgetown
+  University Library channel (https://www.youtube.com/watch?v=gJ0MV3ixnOM);
+  watch page opened 2026-10-25.
+- Duration: 1:02:29 (watch page, 2026-10-25).
+- Instructor credentials: Cal Newport, Associate Professor of Computer
+  Science, Georgetown University (per the uploader description; an
+  institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a book talk on
+  Digital Minimalism — being more selective about personal technologies to
+  cultivate a focused life in a noisy world.
+- Relevant segment: whole talk, 1:02:29.
+- Verification status: verified-video (2026-10-25); credentials from the
+  uploader description, institutional page pending.
+
+### M06-AT04: "Attention: Perspectives from Neuroscience, Art, and Literature" (Oregon Humanities Center)
+
+- Identity and access: oembed confirms the video on the Oregon Humanities
+  Center channel (https://www.youtube.com/watch?v=rgcAvtoAkvk); watch page
+  opened 2026-10-25. OHC 2025-26 Robert D. Clark Lectureship, "Attention"
+  series.
+- Duration: NOT READABLE (watch page player displays 0:00/0:00; no printed
+  duration, 2026-10-25). DURATION FLAG for the owner before workload
+  arithmetic.
+- Instructor credentials: three University of Oregon faculty per the
+  description — neuroscientist Santiago Jaramillo, art historian Kate
+  Mondloch, and English professor Forest Pyle (institutional pages not
+  opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): how and why
+  what we focus on shapes reality and purpose; attention across
+  neuroscience (auditory cognition), art (technology, spectatorship), and
+  literature (poetry, Romanticism). Multi-speaker series record, not a
+  single-speaker lecture.
+- Relevant segment: whole video (duration unread).
+- Verification status: verified-partial (identity and access; duration
+  unreadable from the player this session; coverage basis is the uploader
+  description).
+
+### M06-AT05: Combining Mouse and Human Studies to Reveal Mechanisms of Learning — Michael Posner (University of Hyderabad)
+
+- Identity and access: oembed confirms the webinar on the University of
+  Hyderabad channel (https://www.youtube.com/watch?v=3gJYk3Q1Y-c); watch
+  page opened 2026-10-25. Cogtalk webinar series.
+- Duration: 1:12:56 (watch page, 2026-10-25).
+- Instructor credentials: Michael I. Posner, Professor Emerit of
+  Psychology, University of Oregon (U of O CAS directory opened this
+  session, see M06-AT02).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): combining mouse
+  and human studies to reveal mechanisms of learning.
+- Relevant segment: whole webinar, 1:12:56.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AT09: Meng Wu Lecture — Dr. Kristin Neff (CCARE, Stanford)
+
+- Identity and access: oembed confirms the lecture on the CCARE at
+  Stanford University channel (https://www.youtube.com/watch?v=gpl54HBuOLk);
+  watch page opened 2026-10-25. Meng Wu Lecture.
+- Duration: 1:02:47 (watch page, 2026-10-25).
+- Instructor credentials: Kristin Neff (per the description; an
+  institutional page was not opened this session — see the credential
+  note below).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "The Science
+  of Self-Compassion".
+- Relevant segment: whole lecture, 1:02:47.
+- Verification status: verified-video (2026-10-25); credentials from the
+  uploader description, institutional page pending.
+
+### M06-AT10: ML11 Session 4 — Integration and Final Reflections (Mind and Life Institute)
+
+- Identity and access: oembed confirms the session on the Mind and Life
+  Institute channel (https://www.youtube.com/watch?v=CIBY43HMLHE); watch
+  page opened 2026-10-25. Mind and Life Dialogue, Cambridge, Massachusetts.
+- Duration: 1:04:55 (watch page, 2026-10-25).
+- Instructor credentials: a multi-participant dialogue; the description
+  lists the 14th Dalai Lama, Eric Lander and Jerome Kagan among
+  participants (no single instructor; institutional pages not opened).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Buddhist and
+  biobehavioral-science approaches to investigating the mind — attention
+  and cognitive control, emotion, mental imagery; this session is the
+  integration and final-reflections panel.
+- Relevant segment: whole session, 1:04:55.
+- Verification status: verified-video (2026-10-25); multi-speaker event
+  record, no single-instructor credential.
