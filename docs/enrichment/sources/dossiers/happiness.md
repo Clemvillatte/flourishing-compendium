@@ -96,3 +96,30 @@ study counted rather than weighed).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 50 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Aristotle activity and eudaimonia
+entries, the Epicurus katastematic-pleasure and ataraxia entries,
+Spinoza's laetitia, the Kant disinterested-pleasure entry, the
+Mehrabian-Russell PAD model, Oishi and Westgate's psychological
+richness, dukkha, Schopenhauer's vanity of desire, the Daodejing
+contentment cluster, Epictetus's contentment-in-station, Schwartz's
+maximizing-satisficing and paradox-of-choice entries, the hedonic
+treadmill and opponent-process entries, adaptation research, affective
+forecasting, the fading affect bias, the Sidgwick paradox of hedonism,
+the Mauss valuing-happiness paradox, Fredrickson's broaden-and-build,
+the Lyubomirsky positive-activity model, flow, the Brown play entries,
+Huizinga's Homo Ludens paradox, prosocial spending and behaviour, time
+affluence, mudita, Zhuangzi's laughter, the Nahuatl flower-and-song
+entry, Ryff's 1989 question, and Joshanloo's cross-cultural review. No
+mismatches found; no edits made. This strengthens the earlier
+voice-audit review (all 9 candidates kept): the flagged constructions
+are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
