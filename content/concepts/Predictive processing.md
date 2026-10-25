@@ -15,6 +15,8 @@ Predictive processing is the framework in which mind and world are modeled as on
 
 The framework's reach is perception and action together: such accounts "offer a unifying model of perception and action, illuminate the functional role of attention, and may neatly capture the special contribution of cortical processing to adaptive success" (Clark 2013 abstract). Clark presents the approach as an argument under examination rather than a settled result: the article "critically examines this 'hierarchical prediction machine' approach, concluding that it offers the best clue yet to the shape of a unified science of mind and action" (Clark 2013 abstract).
 
+The move that matters for the rest of this compendium is the reversal of the usual picture. On the predictive account, perception works as the brain's best current guess about the causes of its sensory input, corrected wherever the guess misses, rather than as a camera passively taking in the world. What the approach promises, in Clark's own summary, is a unified science of mind and action in which perception, action and attention are one loop rather than three separate faculties.
+
 ## Facets
 
 - **/ active inference**

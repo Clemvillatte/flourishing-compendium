@@ -3,7 +3,6 @@
  "done": [
   "The witness",
   "The still mirror",
-  "The avoidance of suffering",
   "The seasons of the body",
   "The water metaphor",
   "Throwing away the ladder",
@@ -16,7 +15,6 @@
   "Recognising limits",
   "Perceived partner responsiveness",
   "Pleasant activities scheduling (Lewinsohn)",
-  "Predictive processing",
   "The body schema",
   "Stage theories of development",
   "The bundle theory",
@@ -70,7 +68,9 @@
   "Following nature's rhythm",
   "The contemplative life",
   "Self-serving attribution bias",
-  "Variability in practice"
+  "Variability in practice",
+  "Predictive processing",
+  "The avoidance of suffering"
  ],
  "in_progress": null,
  "flagged": {
@@ -117,10 +117,12 @@
   "Following nature's rhythm": "Reopened for QC: QC: prose 100 < 150 (pre-existing); expand from page's verified Eno ch.25 material",
   "The contemplative life": "Reopened for QC: QC: prose 111 < 150 (pre-existing); expand from page's verified Ross NE X quotes",
   "Self-serving attribution bias": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Mezulis 2004 material",
-  "Variability in practice": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Rohrer 2015 material"
+  "Variability in practice": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Rohrer 2015 material",
+  "Predictive processing": "Reopened for QC: QC: prose 125 < 150 (pre-existing); expand from page's verified Clark 2013 quotes",
+  "The avoidance of suffering": "Reopened for QC: QC: prose 126 < 150 (pre-existing); expand from page's verified SN 56.11 + IEP material"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:35:18+00:00",
+ "updated": "2026-10-25T01:35:50+00:00",
  "band_done": false
 }
