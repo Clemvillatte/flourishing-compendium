@@ -333,3 +333,33 @@ matched by hand against the fetched pages as above). Note for the
 supervisor: the Mozi translation site (themozi.org) reproduces Mei's
 translation sourced from the Chinese Text Project, which was
 unreachable for direct fetch of the Mozi chapters this session.
+
+Humanizer pass (2026-10-25, worker-pplx-dos16-1025m): reader-level
+repair of page/dossier self-description, four edits. (1) Nearby terms:
+"are treated inside this dossier" became "are treated here" (scope
+guidance kept). (2) Batson/Cialdini disagreement: "My page on the
+program records Batson's summary judgment ... with the limits kept on
+record there" became a card-grounded sentence — the [altruism theory
+Batson empathy] card (opened this session) records the summary
+judgment ("the book's summary judges the support 'remarkably strong
+and consistent,' forcing the tentative conclusion that
+empathy-induced altruism is within the human repertoire"), and the
+sentence now carries that judgment with its tentative conclusion and
+a card citation; the card does not record separate "limits", so that
+word was dropped per advisor QC. (3) Mozi/Mencius close: "So the page
+cannot say that either has refuted the other" became "I cannot
+conclude from these passages that either side has refuted the other"
+(advisor QC: inability to conclude refutation is not a verdict that
+none occurred — same distinction as the motivation pass). (4) Limits
+sentence: "is not something this page decides" became "is left open"
+(the translator-difference and no-Chinese limits stand immediately
+before it). Quote text unchanged; one card citation was added (the
+Batson card link in the disagreements section). Checks:
+dossier_check exit 0 (134 card links, 21 headers); dossier_density 0
+dense; dossier_quote_verify 15 checked, 8 not found — verifier misses
+against blocked carriers (ctext.org bot wall, PubMed, Biblehub),
+covered by the prior ledger verification recorded above (two
+independent passes, all spans exact against opened carriers); no quote
+was newly verified in this pass and no quote text was touched.
+Others is published; the site data does not change until a supervisor
+rebuild, so this is flagged: re-splice others when convenient.

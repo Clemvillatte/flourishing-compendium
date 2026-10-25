@@ -6,7 +6,7 @@ The theme asks a double question: what other people do to a person's mind and fl
 
 ## Nearby terms
 
-[Friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship) and [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion) are treated inside this dossier, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier.
+[Friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship) and [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion) are treated here, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier.
 
 ## Where others sit in a life
 
@@ -154,7 +154,7 @@ Cialdini's group answered with the opposite interpretation, tested in the paradi
 
 > "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))
 
-The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
+The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. The [altruism theory Batson empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism%20theory%20Batson%20empathy) card records Batson's summary judgment that support for the altruistic reading is remarkably strong and consistent, with the tentative conclusion that empathy-induced altruism is within the human repertoire. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
 
 ### What is owed to someone who has done harm?
 
@@ -188,9 +188,9 @@ Mencius is told of a Mohist, Yi Zhi, and Legge's translation records Yi's positi
 
 Later, in the passage on the doctrines that fill the age, he states the charge: "Mo's principle is 'to love all equally,' which does not acknowledge the peculiar affection due to a father." ([Mencius, Teng Wen Gong II, Legge translation](https://ctext.org/mengzi/teng-wen-gong-ii))
 
-The two sides are not fully facing each other. Mozi's reasoning in the quoted passage is about outcomes and reciprocity, and Mencius replies about where care comes from, with one root in the family. So the page cannot say that either has refuted the other.
+The two sides are not fully facing each other. Mozi's reasoning in the quoted passage is about outcomes and reciprocity, and Mencius replies about where care comes from, with one root in the family. I cannot conclude from these passages that either side has refuted the other.
 
-My lean is that Mencius's objection has most force against the idea that care can be moved outward by calculation, and that Mozi's has most force when partiality becomes license for harm, which his Universal Love I describes for thieves, ministers and feudal lords. The limits: both translators render the key term differently, Mei as universal love and Legge as loving all equally, and I did not check the Chinese, so what exactly jian ai demands (equal feeling or equal weight in action) is not something this page decides.
+My lean is that Mencius's objection has most force against the idea that care can be moved outward by calculation, and that Mozi's has most force when partiality becomes license for harm, which his Universal Love I describes for thieves, ministers and feudal lords. The limits: both translators render the key term differently, Mei as universal love and Legge as loving all equally, and I did not check the Chinese, so what exactly jian ai demands (equal feeling or equal weight in action) is left open.
 
 ## Practice: variation, selection, retention
 
