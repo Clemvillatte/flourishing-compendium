@@ -20,9 +20,9 @@ In the Alagaddupama Sutta (MN 22), in Bhikkhu Sujato's translation, the Buddha s
 
 ### What the principle adds
 
-Neither passage says that a luminous state is only a state, or tells anyone to write down a breakthrough, thank it and return to basics within a week. The extension from teachings and descriptions to attainments is the principle's own reading, and the weekly return is its practical advice. My sources for the Upanishad were a search excerpt and the Brhat page, not a full edition.
+Neither passage says that a luminous state is only a state, or tells anyone to write down a breakthrough, thank it and return to basics within a week. The extension from teachings and descriptions to attainments is the principle's own reading, and the weekly return is its practical advice. The Upanishad sources here were a search excerpt and the Brhat page, not a full edition.
 
-**Plain words** The Upanishad says the highest description of ultimate reality is a denial of every description. The Buddha says the teaching is for crossing, so do not carry it afterwards. The principle takes both as a reason not to cling to a good experience. That reading is the principle's, not either text's.
+**Plain words** Two old texts give the same warning in different words. The Upanishad teaches the highest thing by saying no to each description of it, because any description falls short of it. The Buddha says his teaching is a raft: use it to cross, then leave it on the bank instead of carrying it on your head. The step from those two to "treat your best morning as a raft too" is this principle's move, not something either text says.
 
 *For example:* after an unusually clear morning of reflection, you write a paragraph about it. You then go back to the plain routine of your practice the next day.
 
