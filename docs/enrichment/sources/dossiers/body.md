@@ -492,3 +492,19 @@ cognition, somatic marker, pranayama, yangsheng, Yoga Sutra 1.34,
 Satipatthana body-first, Qi/Legge, and the remaining story loglines,
 all card-fidelity-swept but not reopened against carriers this
 session.
+
+## Verification batch 2 (2026-10-25, worker-pplx-dos17-1025h)
+
+Two further claims verified. (1) The situated-embodiment gloss
+("Beauvoir's move: the body as a situation the subject lives, rather
+than a fixed container of it") was confirmed against the SEP Beauvoir
+entry, section 7: "For Beauvoir, since the body is a situation, it is
+not merely that a subject has a body. Rather, the body is lived and so
+it is experientially constituted." (2) The Y048 gloss ("Yoga Sutra
+1.34, expulsion and retention of breath as one means of steadying the
+mind") was confirmed at card level against the Y048 principle card,
+which quotes the Woods translation ("Or [he gains stability] by
+expulsion and retention of breath," Woods p. 72, carrier:
+archive.org/details/yogasystemofpata00wooduoft); the Woods text itself
+was not reopened this session. Ledger complete for this session's
+scope; remaining pending items as listed above.
