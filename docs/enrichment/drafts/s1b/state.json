@@ -761,6 +761,11 @@
      "t": "2026-10-24T14:38:11+00:00",
      "to": "ready",
      "note": "advisor round 1 applied: unsupported reactions cut, developmental claim removed, ending restored, violence boundary added"
+    },
+    {
+     "t": "2026-10-25T15:10:02+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:10:02: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -811,6 +816,11 @@
      "t": "2026-10-24T14:41:34+00:00",
      "to": "ready",
      "note": "advisor repairs applied: continuity claim removed, sequel claims removed, reading re-anchored to the sequence the extract carries"
+    },
+    {
+     "t": "2026-10-25T15:10:02+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:10:02: sample verified — all quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -910,5 +920,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:09:36+00:00"
+ "updated": "2026-10-25T15:10:02+00:00"
 }
