@@ -12,36 +12,39 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 69** — Recognise identity disturbances: when self is fragmented
 
-The clinical pattern the principle names is documented in the BPD literature:
+What matters here is being able to describe a difficulty and find appropriate help. The US National Institute of Mental Health lists this among the possible symptoms of borderline personality disorder (BPD):
 
-> "This identity disturbance manifests as uncertainty in personal values, beliefs, preferences, and interests." (Wikipedia, [Borderline personality disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder))
+> "A distorted and unstable self-image or sense of self" ([NIMH, Borderline Personality Disorder](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder))
 
-The article adds that individuals diagnosed with BPD frequently experience significant difficulties in maintaining a stable self-concept, and that the main approach to managing BPD is psychotherapy, with long-term, consistent psychotherapy preferred ([Wikipedia](https://en.wikipedia.org/wiki/Borderline_personality_disorder)).
+The title's "fragmented" is descriptive language. A diagnosis requires a thorough discussion of symptoms and personal and family history with a qualified mental health professional; a medical examination can help rule out other causes ([NIMH](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder)).
+
+For an assessment of possible BPD, NICE asks clinicians to consider functioning, coping strategies, strengths, vulnerabilities, other mental disorders and social problems ([CG78, 1.3.1.2](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)). That breadth matters to me: a person seeking help brings a life and capacities as well as difficulties.
+
+NIMH identifies psychotherapy as BPD's primary treatment and describes approaches that teach emotional and relationship skills ([treatment guidance](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder)). NICE also asks clinicians to discuss treatment with hope, explaining that "recovery is possible and attainable" ([CG78, 1.1.3.1](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations)). Those are grounds for seeking care without making a diagnosis from a phrase on a page.
 
 **Plain words**
-The description concerns people diagnosed with BPD: uncertainty in personal values, beliefs, preferences and interests, and significant difficulty maintaining a stable self-concept. The article also notes that the main approach to managing BPD is psychotherapy. Read as advice, the principle points towards professional evaluation rather than towards a stronger self-improvement push.
+If changes in how I experience myself are distressing or disrupting my life, I can describe them to a qualified professional. I do not need to arrive with a diagnosis.
 
 *For example:*
-Suppose someone's sense of self feels persistently fragmented to them, beyond ordinary exploration. The principle's advice is to seek professional evaluation rather than diagnose the pattern from the outside.
+Someone preparing for an appointment writes down what changes, when it happens and how it affects relationships or work. These notes start a conversation; they are not a diagnostic test. This is an illustration.
 
 ## Psychology parallels
 
-- **Identity disturbance in BPD and complex trauma**, identity diffusion is a clinical symptom (APA, 2022; Kernberg, 1976)
-- **Identity disturbance requires professional treatment**, it is not resolved by self-help alone (Kernberg, 1976; Linehan, 1993)
+- Self-image instability: one symptom described in the NIMH account, considered within a full assessment.
+- Psychotherapy for BPD: the treatment category identified by NIMH; care should follow an individual professional assessment.
 
 ## Philosophy parallels
 
-- **[[The fractured self|The fractured self]]** (Laing, The Divided Self)
-- **Dissociation and self** (Janet, Psychological Automatism)
-- **Know thy limits** (Delphic maxim)
+- [[The fractured self|The fractured self]]: philosophical reading, separate from a clinical assessment.
 
 ## Sources
 
-- [Wikipedia, Borderline personality disorder](https://en.wikipedia.org/wiki/Borderline_personality_disorder) — identity-disturbance description quoted verbatim; self-concept and psychotherapy sentences cited
+- [National Institute of Mental Health, Borderline Personality Disorder](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder): symptoms, diagnosis, treatment and finding help.
+- [NICE, Borderline personality disorder: recognition and management, CG78 recommendations](https://www.nice.org.uk/guidance/cg78/chapter/Recommendations): 1.1.3.1 on hope and recovery; 1.3.1.2 on comprehensive assessment.
 
 ## Practice
 
-- If your sense of self is persistently fragmented, unstable, or incoherent (not just exploring, but unable to maintain a coherent self), seek professional evaluation. This is a clinical pattern.
+- If these difficulties are distressing or disrupting everyday life, discuss them with a health professional who can help assess what is happening ([NIMH, finding help](https://www.nimh.nih.gov/health/publications/borderline-personality-disorder)).
 
 ## Related concepts
-- [[T032 — Linehan, Marsha]]: the professional-treatment boundary the page marks (Linehan, 1993).
+- [[T032 — Linehan, Marsha]]: related reading on therapy.
