@@ -14,10 +14,10 @@ evidence on file.
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
 these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06, M06-CO02.
+M06-AF06, M06-CO02, M06-AF04.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-AF04, M06-AF05, M06-CO05, M06-AT02,
+session: M06-AF05, M06-CO05, M06-AT02,
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
@@ -217,6 +217,30 @@ SRC-M07-019.
 - Verification status: verified-video for identity, access and duration
   (2026-10-25); content coverage is classified from the recording's own
   chapter list, and the transcript panel was not read this session.
+
+### M06-AF04: Pufendorf Lectures 2024, Day 1, Constructing Emotion (Lisa Feldman Barrett)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: the watch page confirms the video on the Lund University HT
+  faculties channel, title "Pufendorf Lectures 2024 Lisa Feldman Barrett -
+  Day 1 - Constructing Emotion" (https://www.youtube.com/watch?v=rgXUQuQQXBo,
+  checked 2026-10-25). Freely playable, no paywall.
+- Duration: 1:50:04 printed in the player (2026-10-25).
+- Instructor credentials: Lisa Feldman Barrett, University Distinguished
+  Professor of Psychology and Director of the Interdisciplinary Affective
+  Science Laboratory at Northeastern University (Northeastern profile:
+  https://nubic.northeastern.edu/profile/barrett-lisa/, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: Pufendorf Lectures at Lund University, 2024, published 20 June
+  2024.
+- Content coverage: the page prints no description and no chapters; the
+  coverage claim rests on the printed title (Constructing Emotion), the
+  lecture series and Barrett's documented theory of constructed emotion.
+  The owner should read the transcript panel before scheduling segments.
+- Relevant segments: unknown until the transcript is read.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage unclassified beyond the title this
+  session, transcript not read.
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
