@@ -234,3 +234,47 @@ was read in full at reader level, but the linked cards were NOT
 reopened in that pass, so "card-faithful" there means the glosses
 read as consistent with their cards as the page presents them —
 card fidelity was NOT rechecked this pass.
+
+## Verification pass (2026-10-25, worker-pplx-dos26-1025c)
+
+Fresh raw verification of the three external carriers, addressing the
+ledger's standing note that prior passes had not freshly opened them:
+
+1. Emmons and McCullough 2003 (JPSP): PDF downloaded from the
+   emmons.faculty.ucdavis.edu link on the page and read with pdftotext;
+   the block quote is verbatim in the PDF text, including "heightened
+   well-being across several, though not all, of the outcome
+   measures", "The effect on positive affect appeared to be the most
+   robust finding", and "a conscious focus on blessings may have
+   emotional and interpersonal benefits".
+
+2. Algoe 2012 (Find, Remind, and Bind): Wiley's page blocks direct
+   retrieval; the abstract was read from the Crossref API record for
+   the DOI. The block quote is verbatim in the abstract text; the
+   inline citation (Algoe, Haidt, and Gable, 2008) renders as a
+   reference in the publisher text.
+
+3. Algoe, Gable and Maisel 2010 (It's the little things): Wiley's
+   page blocks direct retrieval; the abstract was read from the
+   OpenAlex record for the DOI. The block quote is verbatim, and the
+   follow-up sentence the page paraphrases ("gratitude had uniquely
+   predictive power in relationship promotion, perhaps acting as a
+   booster shot for the relationship"; "indebtedness may maintain
+   external signals of relationship engagement") is in the abstract.
+
+Card-fidelity spot-check (the gap the scope correction above named):
+the seven most fact-bearing glosses were checked against their card
+files with exact-phrase greps — AF063 (Hedges g = 0.19, 145 papers,
+28 countries), K212 (gratitude visit, about a month), B112 (Kataññu
+Suttas, integrity), BE055 (Kumar and Epley, underestimate positive,
+overestimate awkward), SP022 (Spinoza's desire springing from love),
+A070 (benefactors love beneficiaries, handiwork), PP063 (once-weekly
+vs three-times-weekly, 2005). All phrases present on the cards; no
+mismatch found.
+
+Checks: dossier_check.py exit 0 (47 card links, 13 headers, 3
+external carriers); dossier_voice_audit.py exit 0. No edits made to
+the dossier this pass. Batch state left as found (in_progress,
+slug gratitude); the divergence question stands as the page states
+it: no verified disagreement is recorded on this theme, and the
+classical anchors' check labels stand from the prior pass.
