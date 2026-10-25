@@ -19,15 +19,15 @@ Chapter 25 of the Daodejing places human conduct within a wider sequence of mode
 
 Legge's repeated word law should be read alongside the passage's final turn to the Dao's being what it is. Chad Hansen interprets dao through the metaphor of a path: circumstances offer possibilities for conduct, without issuing commands about which one we must choose ([Daoism, §§2 and 9](https://plato.stanford.edu/entries/daoism/)). This is one scholarly reading, not a settled translation of everything dao can mean.
 
-I apply the passage by examining what my plans assume about the world they must operate in. An intention to help still needs attention to what help is possible here, for these people, under these conditions.
+My practical reading starts with a question: what must be true for this plan to help? An intention to help still needs attention to who needs what, what is possible now, and what you may have assumed without asking.
 
 ### Plain words
 
-A worthwhile aim does not make every way of pursuing it workable. Understanding the circumstances gives you something to respond to when choosing how to act. Recognising a condition does not require approving it: changing an unjust arrangement also begins with understanding it.
+Notice what the situation allows before deciding how to act.
 
 ### For example
 
-Suppose you offer to help a friend move without checking when they need you or what you can carry. Ask before fixing a plan, agree on a useful contribution and review how it worked afterwards. Carry that knowledge into your next offer. This is my practical illustration, not a claim that arranging a move exhausts what alignment with the Dao means.
+Suppose you offer to help a friend move because you have a free afternoon. They need transport for furniture, but you only have a small car. Ask what would actually help before promising the journey: perhaps you could pack boxes or help find a van. This is an illustration of revising the means while keeping the commitment to help, not a procedure specified by Laozi.
 
 ## Related concepts
 

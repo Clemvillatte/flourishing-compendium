@@ -36,3 +36,12 @@ Opened through search and fetch:
 - [Alan Chan, “Laozi,” *Stanford Encyclopedia of Philosophy*, §7, “Naturalness and Nonaction”](https://plato.stanford.edu/entries/laozi/). Fetched the full entry and extracted §7 separately because the full entry was truncated before that section. Read the explicit distinction between basic human needs and desire that inflates self-gratification without end. No claims about money, happiness thresholds or psychological outcomes are taken from the unopened financial-well-being readings in the preserved source list.
 
 Changes: retained the primary verse and the basic-needs caveat, converted Plain words to one sentence, and turned the vague freelancer example into a concrete comparison of an additional fee against time lost. Four clients is an invented illustration, not data or a recommended workload. The practical reading is personally owned; no one else's deprivation is redefined as enough. Preserved existing links, opening statement, front matter and reflection.
+
+## D001: Align your life with the Dao
+
+Opened through search and fetch:
+
+- [Laozi, *Tao Teh King*, Legge translation, chapter 25](https://www.gutenberg.org/files/216/216-h/216-h.htm). Verified the retained quotation against §4, including the parenthetical translator's explanation of Dao's law. The paragraph describes successive models for human beings, earth, heaven and Dao.
+- [Chad Hansen, “Daoism,” *Stanford Encyclopedia of Philosophy*, §§2 and 9](https://plato.stanford.edu/entries/daoism/). Read the entry's opening and both relevant sections separately because a whole-entry fetch was truncated. Section 2 explicitly contrasts navigation and possible paths with the law metaphor; section 9 discusses choosing and adapting shared practices. This is attributed as Hansen's reading, not a settled consensus that nature supplies moral commands.
+
+Changes: retained the source-bounded interpretation, personally owned the practical extension, and replaced the three-sentence Plain words section with one sentence. The moving-house illustration now names an actual constraint and shows revision of means without discarding a commitment. Preserved front matter, opening statement, existing links and reflection.
