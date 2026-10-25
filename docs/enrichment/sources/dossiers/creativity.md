@@ -418,6 +418,14 @@ not necessarily whole files. The relied-on passages are inside those ranges.
   check now passes. Recorded here and in the commit message for the
   supervisor to re-read.
 - Format: thread with question headings; no `## The map:` section.
+- URL liveness sweep (rev 3, post-complete): all 22 distinct external carrier
+  URLs in the dossier were requested with curl. 15 returned 200 and the four
+  PubMed pages returned 203 (the pages exist). Two Taylor & Francis URLs
+  returned 403 to curl (bot-block; they open in browsers and their content
+  was verified this session via the fetch tool), and the cct.umb.edu
+  Haught-Tromp URL failed to connect from this environment (the known
+  block; the ledger records the Wayback Machine retrieval that verified it).
+  All 30 wiki card links resolve per the checker.
 
 ## Scope and boundary notes
 
