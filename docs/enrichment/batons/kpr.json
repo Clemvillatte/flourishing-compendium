@@ -87,5 +87,7 @@
    "from": "worker-kpr-1025b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:09:55+00:00"
 }
