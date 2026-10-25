@@ -114,6 +114,22 @@ Wahba and Bridwell's review of the studies that tested the theory found the hier
 
 The disagreement is between the theory's ordering claim and the record of its tests. The review addresses the testable propositions, the deprivation/domination and gratification/activation claims, not whether the needs themselves are real; the passages quoted do not adjudicate the later literature either way.
 
+### Can reason alone move a person to act?
+
+The shared question: when a person acts, does a conclusion of reasoning supply the push, or does the push always come from something felt? Hume denied that reason alone does:
+
+> "I shall endeavour to prove first, that reason alone can never be a motive to any action of the will; and secondly, that it can never oppose passion in the direction of the will." ([Hume, A Treatise of Human Nature, Book II, Part III, Section III](https://www.gutenberg.org/cache/epub/4705/pg4705.txt))
+
+> "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." ([Hume, A Treatise of Human Nature, Book II, Part III, Section III](https://www.gutenberg.org/cache/epub/4705/pg4705.txt))
+
+Kant, in the first section of the Groundwork, describes an action whose worth lies in the principle behind it and not in the object wanted:
+
+> "an action done from duty derives its moral worth, not from the purpose which is to be attained by it, but from the maxim by which it is determined, and therefore does not depend on the realization of the object of the action, but merely on the principle of volition by which the action has taken place, without regard to any object of desire." ([Kant, Fundamental Principles of the Metaphysic of Morals, Section I, Abbott translation](https://www.gutenberg.org/cache/epub/5682/pg5682.txt))
+
+Kant also anticipates the Humean reply that a feeling must be doing the work. His note says "although respect is a feeling, it is not a feeling received through influence, but is self-wrought by a rational concept" (same source). So the dispute is narrower than the headlines make it. Hume says no conclusion of reasoning moves the will unless a passion is present, and Kant says that the will can be determined by the thought of a law, while granting that a feeling of respect comes with it and arises from the thought. The page cannot decide whether a feeling that is produced by a rational concept counts as the passion Hume requires.
+
+My lean, which is mine, is that the two descriptions can be reconciled on the facts of motivation, since Kant's respect is a feeling in Hume's sense, and that the live disagreement is over the source of the feeling and over what makes an act praiseworthy. Limits: I read these passages in English translations, I did not open the secondary literature on Hume's motivational claim or on Kant's incentive of respect, and neither author wrote about motivation in the psychologist's sense of drive, goal pursuit or reward, which the other questions on this page address.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying is the source a person acts from. The look-alikes are effort, streaks and rewards that supply motion without ownership. The adaptive moves are to check whose reasons a goal rests on, to make the decision explicitly one's own, and to separate wanting from enjoying.

@@ -349,3 +349,24 @@ matches) and ST311 Frankl's Why (will to meaning as primary
 motivation, frustration as clinical condition — matches). All three
 match. With batch 1 (header checks), the sampled cards all verify.
 No defects found.
+
+## Disagreement section 2 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos10)
+
+Added "Can reason alone move a person to act?" Sources opened this
+session (full plain-text files from Project Gutenberg, quoted strings
+matched by script): Hume, A Treatise of Human Nature, Gutenberg 4705
+(Book II, Part III, Section III, "Of the influencing motives of the will";
+the two quoted sentences); Kant, Fundamental Principles of the Metaphysic
+of Morals, Abbott translation, Gutenberg 5682 (Section I; the "action done
+from duty" sentence, which begins mid-sentence after "The second
+proposition is: That", so the quote starts lower-case at "an", and the
+footnote sentence "although respect is a feeling, it is not a feeling
+received through influence, but is self-wrought by a rational concept").
+The dossier states the narrowing, that Kant grants a feeling of respect,
+and leaves open whether such a feeling is Hume's "passion". Not done:
+secondary literature (Korsgaard, Smith, Williams), which was not opened and
+is not cited. Both authors write about moral motivation and not the
+psychologist's drive, goal and reward, which the dossier says.
+
+Checks: dossier_check exit 0 (51 card links, 25 headers). SUPERVISOR:
+re-splice motivation; registry untouched.
