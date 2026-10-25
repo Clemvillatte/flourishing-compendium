@@ -15,5 +15,7 @@
    "from": "auditor-pplx-b9c3e4a1",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:29:52+00:00"
 }
