@@ -12,7 +12,6 @@
     "K026",
     "K058",
     "K060",
-    "K064",
     "K068",
     "K012",
     "K023",
@@ -30,7 +29,8 @@
     "E106",
     "M004",
     "M005",
-    "K010"
+    "K010",
+    "K064"
   ],
   "in_progress": null,
   "flagged": {
@@ -54,7 +54,8 @@
     "M004": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M004.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
     "M005": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M005.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
     "K058": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words first-person line ('My exercise') reworded; body 'I use this instruction' reworded; validator PASS",
-    "K010": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.65)"
+    "K010": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.65)",
+    "K064": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [
     {
@@ -64,7 +65,7 @@
     }
   ],
   "sources_checked": 17,
-  "updated": "2026-10-25T12:36:22+00:00",
+  "updated": "2026-10-25T12:43:16+00:00",
   "band_done": false,
   "notes": {
     "K010": {
@@ -72,6 +73,12 @@
       "claims": "n/a",
       "limitations": "Religion and Nothingness cited at second hand via SEP",
       "url": "https://plato.stanford.edu/entries/kyoto-school/"
+    },
+    "K064": {
+      "qc": "Plain-words replicate replaced (~0.55 -> ~0.1), first-person and card-workflow defects fixed; validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.lotsawahouse.org/tibetan-masters/milarepa/songs/benefactors/"
     }
   }
 }

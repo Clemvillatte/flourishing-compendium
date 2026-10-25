@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 64** — Keep the body simple and the conduct clean
 
-In a song addressed to the benefactors gathered around him, Milarepa sums his counsel in one line: forsake negative deeds and accomplish virtue (Lowell Cook's translation), offering his own example as the standard. My application separates the two halves: the ethical counsel is the song's own content, and the body-and-conduct routine (sleep, money, speech, integrity) is my monthly audit built on it.
+In a song addressed to the benefactors gathered around him, Milarepa sums his counsel in one line: forsake negative deeds and accomplish virtue (Lowell Cook's translation), offering his own example as the standard. The application separates the two halves: the ethical counsel is the song's own content, and the body-and-conduct routine (sleep, money, speech, integrity) is a monthly audit built on it.
 
 (Milarepa's songs to householders; the lay practice instructions.)
 
@@ -22,7 +22,7 @@ In a song addressed to the benefactors gathered around him, Milarepa sums his co
 >
 > (Milarepa, from the Songs of Milarepa, Lowell Cook translation)
 
-**Plain words** Milarepa does not hand his benefactors a rulebook; he points at how he lives and says follow that. The counsel fits in one line: drop the harmful deeds, do the good ones. The rest is upkeep. The habit test this card keeps: does the habit simplify your life or complicate it?
+**Plain words** The singer's advice to householders is almost disappointingly short: stop the harmful actions, do the helpful ones, and let the rest of life stay small enough to keep clean. No list of forbidden foods, no altar requirements, just an economy of wants, an honest tongue, sleep and money kept in order. The monthly audit is where the teaching earns its keep, since a habit that quietly complicates the budget or the conscience is the negative deed arriving on schedule.
 
 *For example:* a parent with a job, a mortgage and a sick relative practises by working honestly, keeping needs modest, and not lying at the school gate.
 
