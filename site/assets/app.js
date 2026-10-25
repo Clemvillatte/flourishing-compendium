@@ -16155,7 +16155,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits.\" ([Emmons and McCullough, \"Counting Blessings Versus Burdens,\" JPSP 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf)): Primary text; the passage was checked against the PDF's own text.",
+          "x": "\"The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits.\" ([Emmons and McCullough, \"Counting Blessings Versus Burdens,\" JPSP 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf))",
           "s": null
         },
         {
@@ -16164,12 +16164,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The find-remind-and-bind theory of gratitude posits that the positive emotion of gratitude serves the evolutionary function of strengthening a relationship with a responsive interaction partner (Algoe, Haidt, & Gable, 2008).\" ([Algoe, \"Find, Remind, and Bind,\" 2012](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x)): Primary text; the passage was read from the article page.",
+          "x": "\"The find-remind-and-bind theory of gratitude posits that the positive emotion of gratitude serves the evolutionary function of strengthening a relationship with a responsive interaction partner (Algoe, Haidt, & Gable, 2008).\" ([Algoe, \"Find, Remind, and Bind,\" 2012](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"However, for both men and women, gratitude from interactions predicted increases in relationship connection and satisfaction the following day, for both recipient and benefactor.\" ([Algoe, Gable and Maisel, \"It's the little things,\" 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x)): Primary text; the passage was read from the article page. The same abstract adds that \"gratitude had uniquely predictive power in relationship promotion, perhaps acting as a booster shot for the relationship,\" where indebtedness maintained only the external signals of engagement.",
+          "x": "\"However, for both men and women, gratitude from interactions predicted increases in relationship connection and satisfaction the following day, for both recipient and benefactor.\" ([Algoe, Gable and Maisel, \"It's the little things,\" 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x)). The same abstract adds that \"gratitude had uniquely predictive power in relationship promotion, perhaps acting as a booster shot for the relationship,\" where indebtedness maintained only the external signals of engagement.",
           "s": null
         },
         {
