@@ -3412,7 +3412,7 @@ https://www.perplexity.ai/computer/tasks/10bacb5f-4929-4f74-89f5-1f6922f77bbc
 (launched 2026-10-25 ~12:06Z). Expect it to clock in the
 assistant-supervisor baton next.
 
-## Liveness sweep (2026-10-25 12:20Z, worker-pplx-dos32-1025n3, no baton — read-only session note)
+## Liveness sweep (2026-10-25 12:13Z, worker-pplx-dos32-1025n3, no baton — read-only session note; stamp from the read clock 12:13:41Z)
 
 A full-corpus carrier liveness pass was run on all 39 registered
 dossiers' body links: 564 unique external carrier URLs (all
