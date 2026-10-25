@@ -2,11 +2,11 @@
 
 > Why do we delay what we intend to value, and what does the delay do to the self that inherits it?
 
-The gap between intending and doing is ordinary. What makes procrastination a problem is its shape: the delay buys a present mood at the price of a future self's time, and the buyer and the payer are the same person. The ancient accounts located the failure in knowledge, the modern reviews in self-regulation, and the practice traditions in the design of the moment. Where the accounts still divide is on what exactly is failing: the valuation of the future, or the management of the present mood.
+The gap between intending and doing is ordinary. What makes procrastination a problem is its shape: the delay buys a present mood at the price of a future self's time, and the buyer and the payer are the same person. The ancient accounts located the failure in knowledge, the modern reviews in self-regulation, and the practice traditions in the design of the moment. What the reviews leave open is which end deserves the intervention first: what makes the outcome worth pursuing, or what makes starting unpleasant.
 
 ## Nearby terms
 
-Akrasia is the oldest name on this territory, and the corpus holds it twice: [Akrasia (weakness of will)](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia%20%28weakness%20of%20will%29) as the theory problem and [Akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia) as the catalogue of positions. The map keeps both and separates the puzzle from the positions.
+Akrasia is the oldest name on this territory, and it names two different things: the lived problem of acting against one's own better judgment, and the philosophical catalogue of positions on whether that is possible. The map carries the problem first, then the positions.
 
 Habit and behaviour change hold the neighbouring mechanics; the Behaviour dossier carries them. This page takes only what is specific to delay: what the delay protects, and what it costs.
 
@@ -30,13 +30,9 @@ Self-forgiveness sits here rather than under compassion because its evidence is 
 
 ### What the reviews say the delay is
 
-[MO045 — Recognise procrastination as emotion regulation, not laziness](https://clemvillatte.github.io/flourishing-compendium/#card=MO045%20%E2%80%94%20Recognise%20procrastination%20as%20emotion%20regulation%2C%20not%20laziness): the review argument, in the paper's own words:
+[MO045 — Recognise procrastination as emotion regulation, not laziness](https://clemvillatte.github.io/flourishing-compendium/#card=MO045%20%E2%80%94%20Recognise%20procrastination%20as%20emotion%20regulation%2C%20not%20laziness): the review argument. Sirois and Pychyl contend that procrastination is, in significant part, short-term mood repair: the avoidance manages a feeling, and a schedule alone leaves the feeling unaddressed. The review is explicit that this is not offered as the whole story, and the card carries that limit.
 
-> "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (Sirois and Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation", Social and Personality Psychology Compass 7(2), 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
-
-The review is explicit that this is not offered as the whole story, and the card carries that limit. What the framing changes is the intervention: if the avoidance is managing a feeling, the schedule alone leaves the feeling unaddressed.
-
-[MO005 — Recognise that motivation is temporal — delay reduces motivation](https://clemvillatte.github.io/flourishing-compendium/#card=MO005%20%E2%80%94%20Recognise%20that%20motivation%20is%20temporal%20%E2%80%94%20delay%20reduces%20motivation): the other engine. Steel and König build delay into a formal model of motivation, and the 2018 test with N = 7,400 found pacing on a hyperbolic curve, susceptibility to proximity of temptation, and procrastination related to intention-action gaps but not to intentions. Delay weakens motivation; the delay is a timing problem more than a missing intention.
+[MO005 — Recognise that motivation is temporal — delay reduces motivation](https://clemvillatte.github.io/flourishing-compendium/#card=MO005%20%E2%80%94%20Recognise%20that%20motivation%20is%20temporal%20%E2%80%94%20delay%20reduces%20motivation): the timing side. Steel and König build delay into a formal model of motivation, and the 2018 test with N = 7,400 found pacing on a hyperbolic curve, susceptibility to proximity of temptation, and procrastination related to intention-action gaps but not to intentions. Delay weakens motivation; the delay is a timing problem more than a missing intention.
 
 [Temporal motivation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Temporal%20motivation%20theory): the model the Steel review found its effects consistent with, the hybrid of expectancy theory and hyperbolic discounting that [Temporal discounting](https://clemvillatte.github.io/flourishing-compendium/#card=Temporal%20discounting) supplies the mechanism for: the devaluing of rewards as receipt moves away, on a curve steep near the present and flatter further out, which is what lets the present self bind the future one.
 
@@ -62,21 +58,21 @@ The review is explicit that this is not offered as the whole story, and the card
 
 [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan, written once for one foreseeable moment.
 
-## Where the two engines stand
+## Where the two reviews stand
 
-Both opened reviews call procrastination a failure of self-regulation, and both say so in their abstracts. They locate the engine differently:
+Both opened reviews call procrastination a failure of self-regulation, and both say so in their abstracts:
 
 > "Procrastination is a prevalent and pernicious form of self-regulatory failure that is not entirely understood." (Steel, "The Nature of Procrastination", Psychological Bulletin 133(1), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17201571/))
 
 > "In this paper, we argue that as a form of self-regulation failure, procrastination has a great deal to do with short-term mood repair and emotion regulation." (Sirois and Pychyl 2013, author manuscript, [White Rose eprints PDF](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf))
 
-Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and read the effects as consistent with temporal motivation theory: the problem is the shape of the valuation, delay flattening the worth of the future act. Sirois and Pychyl put the mood first: the avoidance is the regulation of a present feeling, and the cost lands on the future self.
+Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and the effects, the abstract says, prove consistent with temporal motivation theory. Sirois and Pychyl emphasize short-term mood repair within that same self-regulation failure.
 
-The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. What neither review settles is which end the intervention should aim at first: the valuation of the future or the management of the mood. That question is left open here.
+The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. What neither review settles is what makes the outcome worth pursuing and what makes starting unpleasant, and which end the intervention should aim at first. That question is left open here.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, adds a bad mood to the one already being escaped, which is the opposite of what the mood-repair account prescribes. The schedule-first framing rearranges time and leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits.
+::Variation:: What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, is a candidate target on the mood-repair account: the review's theory is that self-blame feeds the mood being escaped, and the studies behind the self-compassion line are correlational, so the chain is a proposed mechanism, not a demonstrated one. The schedule-first framing rearranges time and, on the mood-repair account, leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
@@ -84,7 +80,7 @@ The two accounts need not compete. A devalued future and an aversive present can
 
 2. [K188 — Friction audit](https://clemvillatte.github.io/flourishing-compendium/#card=K188%20%E2%80%94%20Friction%20audit): walk the chain from intention to action, time each step, remove the costliest, add friction to the unwanted chain at the same time. The protocol steps are editorial; the principle beneath them is the friction literature on present bias.
 
-3. [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan, written once for one foreseeable moment, linking the critical situation to the response in advance. The meta-analytic verdict on the family is medium-to-large effects; the kernel is one application of it.
+3. [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan, written once for one foreseeable moment, linking the critical situation to the response in advance. The kernel's own evidence is the screening-attendance field test: 92 percent attendance among the women who wrote down when, where and how they would make the appointment, against 69 percent among equally motivated controls. The trial tested one if-then plan for one appointment, not the kernel's anxious-moment example, and the abstract reports nothing about the plan's proposed mechanism.
 
 ::Retention:: Retention is what the person keeps using because it works for them. The two minutes that keep getting taken, the friction change that survives the re-audit, the if-then plan that fires without being re-read: what stays is a matter of fit between the lever and the life it enters.
 
@@ -92,7 +88,7 @@ The two accounts need not compete. A devalued future and an aversive present can
 
 ### The wrong kind of effort
 
-[ST391 — Backsliding into Abundance](https://clemvillatte.github.io/flourishing-compendium/#card=ST391%20%E2%80%94%20Backsliding%20into%20Abundance): before his awakening the Buddha tried to master his mind by force, clenching his teeth and crushing his mind with his awareness, until his body was agitated and his spine showed through his belly; the answer came as a memory of ease under a rose-apple tree, and when he took solid food to regain strength for it, the five monks said he had abandoned his exertion and was backsliding into abundance.
+[ST391 — Backsliding into Abundance](https://clemvillatte.github.io/flourishing-compendium/#card=ST391%20%E2%80%94%20Backsliding%20into%20Abundance): before his awakening the Buddha tried to master his mind by force, clenching his teeth and crushing his mind with his awareness, eating a handful of soup at a time until, thinking to touch his belly, he could grab hold of his spine; the answer came as a memory of ease under a rose-apple tree, and when he took solid food to regain strength for it, the five monks said he had abandoned his exertion and was backsliding into abundance. The story is a contrast about misdirected effort and restored strength, not an instance of procrastination.
 
 ### Reviewing the day's faults
 
