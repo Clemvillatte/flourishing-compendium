@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
  "agent": "supervisor-pplx-brownmermaid-1025a",
- "clocked_in": "2026-10-25T03:38:01+00:00",
+ "clocked_in": "2026-10-25T04:06:31+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -536,6 +536,13 @@
    "at": "2026-10-25T03:38:01+00:00",
    "from": "supervisor-pplx-1025e",
    "reason": "released"
+  },
+  {
+   "by": "supervisor-pplx-brownmermaid-1025a",
+   "at": "2026-10-25T04:06:31+00:00",
+   "from": "supervisor-pplx-brownmermaid-1025a",
+   "reason": "stale (29 min)"
   }
- ]
+ ],
+ "released": false
 }
