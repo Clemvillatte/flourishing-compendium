@@ -99,5 +99,7 @@
    "from": "pplx-dos25-1025-0600c",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:38:22+00:00"
 }
