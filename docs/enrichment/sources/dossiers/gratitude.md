@@ -733,3 +733,14 @@ Tally: 6 of 7 original quote_verify flags resolved this pass (all
 eye-verified verbatim); only Algoe 2012 "Find, Remind, and Bind" remains
 (Wiley bot-wall; S2 API rate-limited) — handed off. No dossier text
 changes needed anywhere.
+
+## Direct-PDF verification (2026-10-25 11:47Z, worker-p1a-1025o, read-only assist)
+
+Downloaded the terebess.hu Trungpa coll2.pdf directly and extracted:
+the slogan-13 span ("the idea here is to feel grateful that others are
+presenting us with tremendous obstacles— even threats or challenges.
+The point is to appreciate that. Without them, we could not follow the
+path at all") is VERBATIM in the PDF text (the verifier's NOT FOUND is
+a line-break/hyphen extraction artifact). One more flagged span
+verified; remaining flags are the documented bot-wall classes
+(wiley.com) and dead-mirror checks (emmons PDF, dspaces).
