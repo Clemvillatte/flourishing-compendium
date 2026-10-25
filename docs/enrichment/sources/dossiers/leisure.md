@@ -77,3 +77,15 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - New subsection "Relaxation, or wholehearted action": Kleiber, "The Neglect of Relaxation", Journal of Leisure Research 2000, 32(1), 82-86 (https://www.nrpa.org/globalassets/journals/jlr/2000/volume-32/jlr-volume-32-number-1-pp-82-86.pdf). Carrier fetched with curl, PDF read; both quoted fragments raw substring matches. The section presents the Tinsley & Tinsley action-essence view as reported by Kleiber, and Kleiber's own dissent siding with Pieper; the Tinsley original was not opened and is cited second-hand through the opened carrier.
 - Page now carries THREE substantiated disagreements (Aristotle vs Russell on distribution; Rojek vs Pieper on the work/leisure dichotomy; action-essence vs relaxation-essence within leisure studies) plus FOUR bounded comparisons. The 3-5 substantiated-disagreement bar's lower bound is now met, subject to supervisor/owner ruling; flag stands.
 - Checks after the additions: dossier_check exit 0 (23 card links, 13 headers, 19 carriers); dossier_quote_verify 16/16 machine-verified, zero documented exceptions; dossier_density 0; dossier_voice_audit exit 0.
+
+## QC round 4 (applied this session)
+
+- Tinsley & Tinsley 1986 was NOT opened (paywalled literature); the page now states the contrast as Kleiber's report and marks the Tinsley position "cited at second hand through Kleiber's essay".
+- Rojek subsection de-fictionalized: the imagined Pieperian reply is gone; the page now describes Regi's report and bounds what the rejection lands on.
+- "The Greeks could say this" replaced with Aristotle's proposed citizen class (the husbandmen exclusion already quoted below).
+- Russell paraphrase: "and for nothing else" deleted (strengthened beyond the opened passage).
+- Recovery section made internally consistent: the questionnaire is a research programme about repair, not a rival definition of leisure; the "defined by its relation to work" framing is gone.
+- "loved for its own sake" given its own NE X.7 citation (raw-verified in the MIT carrier this session); previously it sat in a paragraph cited only to Zhuangzi.
+- Card bodies read in full before use as positions: M031 (Nahua counsel, card itself flags interpretation limits), Y112 (Gita 4.18 definition of the wise worker), D113 (Zhuangzi 6), D039 (Daodejing 26); the page's claims about these cards stay within what their bodies state. "each side can point at the other's wreckage" deleted.
+- Checks after round 4: dossier_check exit 0 (23 card links, 13 headers, 20 carriers); quotes 16/16; density 0; voice audit 0.
+- Status: QC-blocked draft remains. Publication blockers: (1) artwork assignment (owner action), (2) the 3-5 substantiated-disagreement ruling - the page carries 3 substantiated (Aristotle/Russell, Rojek-vs-Pieper-dichotomy as reported by Regi, Kleiber-vs-Tinsley-action contrast) + 4 bounded comparisons, all honestly labelled.
