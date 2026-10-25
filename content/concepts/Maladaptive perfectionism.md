@@ -15,6 +15,10 @@ Maladaptive perfectionism is the unhealthy pattern of perfectionism: high standa
 
 Hewitt and Flett (1991) described three dimensions of perfectionism: self-oriented perfectionism, socially prescribed perfectionism, and other-oriented perfectionism ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)). Of the dimensions: "Socially prescribed perfectionism characterizes the beliefs that others are demanding perfectionistic standards and shows strong associations with depression" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)). The review also states the distress link: "maladaptive perfectionism is associated with higher levels of psychological distress" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)).
 
+The two quoted passages divide the labour. The definition names what the pattern feels like from inside: standards set very high, a feeling that what is done is never good enough, an intense fear of failure, and a lack of satisfaction with one's actions. The correlates passage names where the pattern is reported to do its damage: the socially prescribed dimension shows strong associations with depression, and maladaptive perfectionism overall is associated with higher levels of psychological distress.
+
+The construct is measured in dimensions rather than as one thing, and the dimensions matter for how the pattern is described. Self-oriented perfectionism is the standards a person sets for themselves; socially prescribed perfectionism is the standards a person believes others demand; other-oriented perfectionism is the standards a person applies to others. The depression link is reported for the socially prescribed dimension, which is the one whose standards are located, on the construct's own terms, in other people's demands.
+
 ### Here
 
 - [[D108 — Accept imperfection]] lists maladaptive perfectionism as its psychology parallel for the costs of demanding flawlessness.
