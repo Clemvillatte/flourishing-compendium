@@ -178,3 +178,44 @@ session, exact wording in the suffering ledger) vs Hayes's
 prescribes a feeling of love, the other a behavior of non-meddling;
 whether that is opposition or layers is the question to test
 against the sources before writing it as one).
+
+## Substantiated genuine opposition found (2026-10-25, same session)
+
+The next writer can open the disagreement section with this, verified
+this session:
+
+- Marcus Aurelius, Meditations V.8 (MIT Classics, George Long
+  translation, https://classics.mit.edu/Antoninus/meditations.5.five.html)
+  — OPENED and verified word-for-word this session: "And so accept
+  everything which happens, even if it seem disagreeable, because it
+  leads to this, to the health of the universe and to the prosperity
+  and felicity of Zeus (the universe). For he would not have brought
+  on any man what he has brought, if it were not useful for the
+  whole." The passage grounds acceptance in a providential order:
+  what happens is a prescription, fitted to the whole, useful.
+- Liezi 6, "Endeavour and Destiny" (Graham translation, on the D098
+  card; Scribd carrier NOT opened, so quote the card's account or
+  paraphrase, do not present the Liezi wording as freshly verified):
+  "when we say that a thing is destined, how can there be anyone who
+  directs it?... Long life and short, failure and success, high rank
+  and low, wealth and poverty, come about of themselves." The card's
+  own reading (via IEP): neither your effort nor an external
+  controlling hand is in charge; things come about of themselves
+  (gu).
+
+The opposition: both prescribe accepting what happens; they disagree
+on whether the happening has an author whose order the acceptance
+trusts. Marcus's acceptance rests on the usefulness of what happens
+to the whole; the Liezi's acceptance denies the director and drops
+the authorship question entirely. The disagreement turns on whether
+acceptance needs a metaphysical ground, and the practical difference
+is real: Marcus's acceptance can carry gratitude toward the order;
+the Liezi's carries neither trust nor resentment. State each side
+faithfully (Marcus quoted from the opened carrier; Liezi via the
+card's account), then the writer's lean. Candidate second heading if
+needed, to be tested against sources before writing: Linehan's
+"you cannot make yourself accept... unbelievably invalidating to tell
+someone to accept" (K123, read this session) against the imperative
+tone of Enchiridion 8 (verified this session) — but note this may be
+practice-vs-ideal rather than genuine opposition; do not present it
+as one without source support.
