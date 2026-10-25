@@ -12,15 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 120** — Experience is five streams (the aggregates)
 
-The Buddha's analysis in the Anattalakkhana Sutta runs the same test across each of the five aggregates: form, feeling, perception, formations, consciousness. The test is the same question each time. "Is form constant or inconstant?" Inconstant. "And is that which is inconstant easeful or stressful?" Stressful. "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" No ([SN 22.59, Anattalakkhana Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)).
+In SN 22.59, known as the Anattalakkhana Sutta, the Buddha speaks to his first five monks and goes through the five aggregates one by one: form, feeling, perception, fabrications and consciousness. He begins with control. "Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible [to say] with regard to form, 'Let this form be thus. Let this form not be thus.'" The same is said of each of the other four ([SN 22.59, Thanissaro Bhikkhu's translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)).
 
-The conclusion covers all five streams with the same formula: any form whatsoever, past future or present, internal or external, blatant or subtle, is to be seen with right discernment as "this is not mine, this is not my self, this is not what I am" ([SN 22.59, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)). The teaching says experience happens and that none of the five streams is its owner.
+He then asks the monks a short run of questions. Is form constant or inconstant? "Inconstant, lord." Is what is inconstant "easeful or stressful"? "Stressful, lord." And "is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" "No, lord." The sutta repeats the questions for each aggregate and closes with the same instruction for all five:
 
-> "Any form whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every form is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" (SN 22.59, Anattalakkhana Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
+> "Any form whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every form is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" (SN 22.59, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
 
-**Plain words** A sunset is not one thing you are watching; it is five things happening at once — the light, the pleasure, the label "sunset," the wanting it to last, and the noticing of all four. The Buddha leaves the sunset alone and asks, of each of the five, whether it could be the one who is watching. None of them is stable enough for the job. The conductor you keep looking for is a position in the score, not a person.
+The sutta says what follows from seeing this: "the well-instructed disciple of the noble ones grows disenchanted with form, disenchanted with feeling, disenchanted with perception, disenchanted with fabrications, disenchanted with consciousness. Disenchanted, he becomes dispassionate. Through dispassion, he is fully released."
 
-*For example:* Two people watch the same sunset. One experiences it as a self having an experience, and spends the next hour protecting the mood. The other notices the five streams — light, pleasure, label, wanting, noticing — arising and passing, and the mood protects itself. Same sunset; one of them is holding it with an open hand.
+**Plain words** Take a sunset. You can sort what is happening into five parts: the light (form), the pleasure (feeling), the label "sunset" (perception), the wish for it to last (fabrications) and the awareness of all this (consciousness). The Buddha asks of each part whether you can order it around and whether it stays put. If neither is true, it makes a poor candidate for "me".
+
+*For example:* Imagine watching a sunset and wanting the mood to last. The pleasure fades anyway, and you feel the wish for it to stay. If you can see that wish as one more passing part of the scene, you hold the evening more loosely. This is my illustration of the practice, not a line from the sutta.
+
+## Sources
+
+- [SN 22.59, "Pañcavaggi Sutta: Five Brethren" (the Anattalakkhana Sutta), translated by Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html): every quotation on this page.
 
 ## Stories
 
@@ -33,7 +39,8 @@ The conclusion covers all five streams with the same formula: any form whatsoeve
 ## Philosophy parallels
 
 - **[[The analysis of experience into elements|The analysis of experience into elements]]** (Husserl, Ideas I)
-- **[[The composite self|The composite self]]** (Parfit, Reasons and Persons)- **[[Skandha|Skandha]]** (Buddhism, SN 22.59)
+- **[[The composite self|The composite self]]** (Parfit, Reasons and Persons)
+- **[[Skandha|Skandha]]** (Buddhism, SN 22.59)
 
 
 <!-- fc: reflections

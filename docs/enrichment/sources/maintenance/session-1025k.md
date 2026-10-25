@@ -16,3 +16,7 @@
 ## P116 Pursue becoming, not arrival
 - Carriers opened: Rogers, On Becoming a Person (teots.org PDF text), ch. 9 p. 186 "process, not a state of being" and preceding paragraph (insulted/adjusted/actualized; "stated very tentatively") verified verbatim; Maslow 1943, psychclassics.yorku.ca/Maslow/motivation.htm, "What a man can be, he must be" and the self-actualization definition verified verbatim.
 - Repair: removed unverified Toward a Psychology of Being claim, wrong "ch. 5" Rogers link, "need the same way food is a need" overstatement, and the AI contrast scaffolds. Archive.org Maslow djvu link returned an error page, so replaced with Classics in the History of Psychology.
+
+## B120 Experience is five streams
+- Carrier opened: SN 22.59 (Thanissaro) accesstoinsight sn22.059.than.html. Control argument ("If form were the self...Let this form be thus"), question run, closing instruction and disenchantment passage verified verbatim.
+- Repair: the page omitted the sutta's control argument; added. Removed "The teaching says experience happens...none is its owner" gloss and the conductor metaphor (not in text). Sunset mapping kept as labelled illustration (form/feeling/perception/fabrications/consciousness). Fixed run-together parallels line.
