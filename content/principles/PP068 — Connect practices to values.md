@@ -19,7 +19,7 @@ The self-concordance model's definition covers both developing interests and cor
 The model, supported by longitudinal data, gives sustained effort a central role: goals consistent with the person's developing interests and core values receive more sustained effort. This page's application: when adopting a practice, identify a personally endorsed reason for it. The connection is not motivational decoration; on the model it is part of what sustains the practice.
 
 **Plain words**
-The model's finding is that goals consistent with your developing interests and core values receive more sustained effort, and pay back more well-being when attained. Note the definition includes both interests and values: enjoying a practice is not the inferior reason. The move is to identify a reason you actually endorse.
+Two kinds of reason can keep a practice going, on this model: it fits something you are actually interested in, or it serves something you actually value, and the second is not just the nobler-sounding substitute for the first. Goals of that kind get more sustained effort behind them, and reaching them pays more well-being. So before adopting a routine, name the reason you would endorse.
 
 *For example:* Imagine a parent who meditates so he can actually listen at dinner; whether that reason sustains the practice is for him to observe.
 

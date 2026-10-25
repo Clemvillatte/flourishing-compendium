@@ -19,7 +19,7 @@ Emmons and McCullough tested gratitude-listing exercises against comparison writ
 This page's suggested practice, going beyond what the listing studies tested: write down what happened, who helped, and why it mattered to you; and if you choose to thank the person directly, use that concrete detail.
 
 **Plain words**
-The studies asked people to write down things they were thankful for, next to people writing hassles or neutral events; the thankful groups came out somewhat better on well-being, most reliably on positive mood. The suggested practice is to make the entries concrete — what happened, who helped, why it mattered — and, if you tell the person, to use that detail.
+Three studies is a small base, and the authors say so: the grateful-listing groups did better on some measures, not all, with positive mood the most reliable. What the trials tested was plain listing; the page's addition is specificity. Write what happened, who helped, and why it mattered, and if you thank the person, thank them in that detail.
 
 *For example:* Telling your brother exactly what his phone call meant on the night you were struggling.
 
