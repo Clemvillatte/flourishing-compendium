@@ -1,0 +1,13 @@
+{
+ "baton": "k1w",
+ "agent": "worker-k1w-1025b",
+ "clocked_in": "2026-10-25T00:57:49+00:00",
+ "takeovers": [
+  {
+   "by": "worker-k1w-1025b",
+   "at": "2026-10-25T00:57:49+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
