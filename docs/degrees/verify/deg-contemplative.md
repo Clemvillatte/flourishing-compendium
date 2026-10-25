@@ -491,8 +491,25 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   the tradition of the Upanisads and Vedanta and its relevance today: Advaita as
   knowledge and self-inquiry, consciousness, non-duality, and applying Vedantic
   teaching to conflict, stress and difficult choices.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=WR0mzX1h09Y&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain [HINDI]/[INAUDIBLE] gaps) confirms
+  the panel's substance on the recording: the framing of Vedanta's relevance amid
+  contemporary dangers; Akshar on Arjuna's crisis applied to "stress … uncertain
+  situations … difficult choices" and "God resides in everyone"; Savapriyananda on
+  Advaita as "a path of knowledge" grounded in ordinary waking/dreaming/deep-sleep
+  experience, and the hard problem of consciousness ("How is it that we … have
+  this inner movie playing within our heads?"); Shweta Chaitanya on non-duality
+  ("We are Brahman, the infinite self") and engagement ("The only illusion is
+  the illusion of finding completeness separate from the self"); Rambachan on
+  ethics and social suffering ("We need an expansive understanding of both
+  suffering and liberation"); and Q&A on grace, jivanmukti, caste and karma.
+  Caveats: third-party transcript page, no timestamps in the retrieved text;
+  playback itself not opened.
 - Relevant segment: whole panel, 2:04:33.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### SRC-M22-YV02: Introduction to Advaita Vedanta (Arvind Sharma, Centre for Indic Studies)
 
