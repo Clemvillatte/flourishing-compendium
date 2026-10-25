@@ -257,3 +257,37 @@ seemed so to Socrates; for the opinion about death, that it is
 terrible, is the terrible thing." All spans flagged in the quote
 triage are now resolved: verified live this session, or documented
 tool-fetch false negatives / known-blocked sources.
+
+## Qigong replacement candidate S0ZqKo0KQvA — duration verified (2026-10-25 12:11Z, worker-pplx-verifya-1025d, deg-verify-a)
+
+The strategist's handoff left the replacement candidate
+(https://www.youtube.com/watch?v=S0ZqKo0KQvA, "5 Minute Standing Tree
+Meditation: Beginner Qigong for Calm, Posture & Grounding", Stillness
+Studio Sanctuary) with duration and recording-level content unverified
+(watch page JS-blocked, innertube LOGIN_REQUIRED, cloud browser stream
+not loading). Findings this pass, from YouTube's own rendered metadata:
+
+- DURATION: 11:02. Read from the channel's Videos tab listing
+  (youtube.com/@StillnessStudioSanctuary/videos, opened in the cloud
+  browser this pass; the listing shows "11:02" under this video's
+  title). The player on the watch page remains bot-walled ("Sign in to
+  confirm you're not a bot"), and the raw watch-page HTML contains no
+  player response, so 11:02 is the channel-listing metadata rather than
+  the player's lengthSeconds field; it is YouTube metadata, not an
+  uploader title claim.
+- The "5 Minute" in the title and the description's "this 5 minute
+  Standing Tree Meditation" are content claims by the uploader; the
+  recording is 11:02 long. The description (rendered on the watch page
+  despite the player wall) reads: "Welcome to this 5 minute Standing
+  Tree Meditation, a beginner-friendly qigong practice designed to calm
+  the mind, improve posture, and build quiet inner strength."
+- RECORDING-LEVEL CLASSIFICATION: still open. The stream and transcript
+  are not accessible from this environment (player bot-walled;
+  innertube 403; third-party mirrors down or blocked this pass), so the
+  skill's requirement of classification from the recording or transcript
+  cannot be completed here.
+- Bearing for the module owner: the candidate does NOT fit the
+  5-minute gallery tier on duration (11:02 actual); either the slot
+  tolerance is widened by an owner ruling, a different ~5-minute
+  candidate is located, or the video is used at a longer slot. Flagged,
+  not decided — the verification band does not assign resources.
