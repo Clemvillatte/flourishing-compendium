@@ -18,9 +18,9 @@ Dewey's version of the point is moral: growth is something a person is doing, an
 
 > Since growth is the characteristic of life, education is all one with growing; it has no end beyond itself. ([Dewey, Democracy and Education, 1916, ch. 4, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-**Plain words** Dewey says growth "has no end beyond itself". A draft is a version you can still work on, and a finished thing cannot be revised. On that view, an unfinished state is not a defect to be cleared before life can begin. It is the condition of being alive and still growing.
+**Plain words** There is a quiet assumption in most life plans: first get sorted, then live. Dewey's sentence on growth pulls the floor out from under it, since a growing thing never arrives, and a thing that has arrived is no longer growing. So the unfinished state is not the lobby before the show; it is the show. The practical consequence is about sequencing, not comfort, since the person waiting for career, body and housing to be perfect before starting anything has quietly made the waiting itself the plan.
 
-*For example (my illustration, not Dewey's):* Two people hesitate to start dating. One waits until career, body and living situation are sorted. The other starts now, openly unfinished. I cannot say how either turns out, but the first has made the waiting a condition of the plan.
+*For example (an illustration, not Dewey's):* Two people hesitate to start dating. One waits until career, body and living situation are sorted. The other starts now, openly unfinished. How either turns out is not knowable in advance, but the first has made the waiting a condition of the plan.
 
 ## Sources
 
