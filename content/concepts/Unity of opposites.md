@@ -15,9 +15,13 @@ Unity of opposites is the label for Heraclitus' doctrine, illustrated in his fra
 
 ### What the fragments give
 
-The fragments offer examples, not a definition. Another has Heraclitus say of day and night that "they are one" (B57). The Stanford Encyclopedia article reads his famous flux doctrine as a special case of the doctrine: "a special case of the unity of opposites, pointing to ways things are both the same and not the same over time".
+The fragments offer examples, not a definition. Another has Heraclitus say of day and night that "they are one" (B57). A longer pair-fragment runs through the human lifetime itself:
 
-### Here
+> "As the same thing in us are living and dead, waking and sleeping, young and old. For these things having changed around are those, and those in turn having changed around are these." (B88, in the [Stanford Encyclopedia of Philosophy, "Heraclitus"](https://plato.stanford.edu/entries/heraclitus/))
+
+The Stanford Encyclopedia article reads his famous flux doctrine as a special case of the doctrine: "a special case of the unity of opposites, pointing to ways things are both the same and not the same over time". The examples travel: what is drinkable for one creature is poison for another, and what one stage of a life calls death another calls birth.
+
+### In the compendium
 
 - [[D005 — Expect reversal — extremes turn into their opposites]]
 - [[D007 — Hold yin and yang together]]

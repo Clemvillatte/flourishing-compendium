@@ -17,7 +17,15 @@ The Evaluative Space Model gives the offset its shape. Positivity and negativity
 
 The review's table adds the functional reading: without a positivity offset, "a person in a neutral environment is unlikely to approach novel stimuli."
 
-### Here
+### The offset in illness
+
+The review extends the calibration to mood. Where positivity is decreased across the board, the offset is the first thing to go:
+
+> "A second possibility in depression is that, if positivity is decreased across the board, individuals may fail to experience a positivity offset." (Norris et al. 2010, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/))
+
+A person who feels no pull toward the neutral and the new is not failing at resolve; the approach function the offset supplies is itself diminished. The same review notes the general point: "Such individual differences in the positivity offset and negativity bias may predict whether an individual is prone to experience depression or anxiety."
+
+### In the compendium
 
 - [[AF008 — Know the negativity bias; correct for it deliberately]] — lists the concept among its psychology parallels; the offset is the other half of the asymmetry that principle corrects for.
 
