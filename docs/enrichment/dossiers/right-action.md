@@ -82,7 +82,7 @@ The habituation ordering runs through several traditions. [Action before feeling
 
 ### The situation answer
 
-[The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation) is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self. [Moral situation research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20situation%20research) is the situationist literature behind the claim that context can dominate in real moral choice: Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings. The situations these studies describe do much of the work, so the training is not only inward.
+[The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation) is Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self. [Moral situation research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20situation%20research) is the situationist literature behind the claim that context can dominate in real moral choice: Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings. The situations these studies describe carry much of the effect in their designs. The training that follows need not be only inward.
 
 The training can also be arranged rather than willed. [Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29, the Commandments of non-injury, truthfulness and abstention from stealing, placed before the Rules, conduct as the foundation of practice.
 
@@ -108,7 +108,7 @@ The path's definition states the restraint without exception:
 
 > "Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
 
-The Christian tradition codifies the other answer, that taking up the sword of war can be lawful conduct. Aquinas asks whether it is always sinful to wage war, and the reply opens by giving what makes a war just:
+The other side is named: for [Aquinas](https://clemvillatte.github.io/flourishing-compendium/#card=Conduct%20even%20in%20just%20war), taking up the sword of war can be lawful conduct. He asks whether it is always sinful to wage war, and the reply opens by giving what makes a war just:
 
 > "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)).
 
@@ -154,23 +154,23 @@ The two accounts also differ in emphasis. Aristotle's chapter on virtue of chara
 
 2. [K255 — Virtue journaling](https://clemvillatte.github.io/flourishing-compendium/#card=K255%20%E2%80%94%20Virtue%20journaling): each evening, one sentence, the virtue, the situation, the action, and on missed days what got in the way, in the flat voice of a missed training session rather than a confession. The loop closes on the weekly reread: notice the situations that recur, because the repetition is where the next deliberate practice gets aimed.
 
-3. [K263 — Post-action phronesis review](https://clemvillatte.github.io/flourishing-compendium/#card=K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, write the four questions: the intention, what actually happened, where the gap between them came from, what to do differently. End with one concrete amendment for the next similar action. Notice whether the review changes anything; a review that changes nothing is a diary entry.
+3. [K263 — Post-action phronesis review](https://clemvillatte.github.io/flourishing-compendium/#card=K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, write the four questions: the intention, what actually happened, where the gap between them came from, what to do differently. Notice whether the review changes anything; a review that changes nothing is a diary entry. End with one concrete amendment for the next similar action.
 
 4. [K266 — Impression-judgement-action log](https://clemvillatte.github.io/flourishing-compendium/#card=K266%20%E2%80%94%20Impression-judgement-action%20log): keep the three-column log for one week, the impression, the judgement, the action, one row per situation that stirred you. At the week's end, read the judgement column alone and notice the interpretations that recur; for each, ask what in the impression column supports it.
 
-5. [K184 — Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, reach out, anger says attack, step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, and it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design.
+5. [K184 — Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized; sadness says withdraw, so reach out; anger says attack, so step back. Stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people with borderline personality disorder over six laboratory sessions, and it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design.
 
 6. [K152 — Committed action](https://clemvillatte.github.io/flourishing-compendium/#card=K152%20%E2%80%94%20Committed%20action): take one action today consistent with a chosen value, however small, at a size you can actually do, especially when you do not feel like it. In the evening log, notice which actions happened and which stayed on the list; keep the sizes that get done and drop the ones that do not.
 
 7. [K290 — Prosocial courage drill](https://clemvillatte.github.io/flourishing-compendium/#card=K290%20%E2%80%94%20Prosocial%20courage%20drill): choose a weekly slot in advance; during the week, write down one situation where you saw unfairness and stayed silent, then act on it or its next occurrence: the talked-over colleague named in the meeting, the one-line disagreement with the biased joke, the safety concern reported. Afterwards note what you did, what it cost and what it accomplished; acts that misfired get adjusted, not abandoned.
 
-8. [K216 — Nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=K216%20%E2%80%94%20Nonviolent%20communication): before the hard conversation, write the four steps out for yourself: what happened without evaluation, what you feel, what you need, what you request. Then speak them in order and slowly; the request is askable and refusable. When attacked, run the same steps on the attacker's words, and notice whether the exchange keeps a shared language rather than turning into a counterattack.
+8. [K216 — Nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=K216%20%E2%80%94%20Nonviolent%20communication): before the hard conversation, write the four steps out for yourself: what happened without evaluation, what you feel, what you need, what you request. Speak them in order and slowly; the request is askable and refusable. When attacked, run the same steps on the attacker's words.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the evening sentence, or the weekly slot, or the three-column log has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
 ## Story: the stories that carry the theme
 
-The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
+Wealth, theft and harm each meet a person who keeps acting after the choice is made.
 
 ### The stopped harm
 
@@ -178,11 +178,11 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### Harm discovered late
 
-[ST087 — Schindler's List](https://clemvillatte.github.io/flourishing-compendium/#card=ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along.
+[ST087 — Schindler's List](https://clemvillatte.github.io/flourishing-compendium/#card=ST087%20%E2%80%94%20Schindler%27s%20List): Oskar Schindler arrives in Kraków hiring Jewish workers because they are cheap, and ends with his entire fortune spent buying lives; surrounded by the people he saved, he breaks down over this watch, this car, this could-have-been-more.
 
 ### Taking for others
 
-[ST295 — Prometheus Steals](https://clemvillatte.github.io/flourishing-compendium/#card=ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the myth makes the willingness to pay the cost part of the taking itself.
+[ST295 — Prometheus Steals](https://clemvillatte.github.io/flourishing-compendium/#card=ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock in the Caucasus with an eagle eating his liver daily, the liver regrowing nightly, forever.
 
 ### Rules and situations
 
