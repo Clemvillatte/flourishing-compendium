@@ -232,6 +232,17 @@ long evidence records in the ledger, not in the public reading path.
   live bands at this point: dos3, dos32, w1y. PROGRESS refreshed
   (dc0bd94a); the 18->19 unmatched delta identified as the uncertainty
   DOS dossier's done record (band-slug artifact, benign).
+- ADDENDUM 13 (~T+46): PLACEHOLDER HAZARD NOTE OUTDATED —
+  proposals/t1a.json (182KB) and t1d.json (48KB) are no longer the
+  empty placeholders; a live worker merged the real thinker-schema
+  queues (proposed_reciprocal records) into them. The archived real
+  records remain in applied/. Consequence for the next apply: an
+  unrestricted enrich_apply would now genuinely apply the thinker-
+  schema conversions (the 1,147-record multi-session programme), not
+  archive-and-destroy — but the programme is multi-session by design,
+  so the next supervisor should still apply t1a/t1d deliberately in
+  bounded selections, and re-check the remaining placeholder set
+  (ct2/maintenance/p1t/ct3/k1c/k1d/w1ad) before any unrestricted run.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
