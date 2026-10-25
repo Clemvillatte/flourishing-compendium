@@ -65,3 +65,6 @@ not this session's output.)
 - s1e-008 (Andrew Wiles / Fermat's Last Theorem, PBS NOVA "The Proof" transcript):
   both quoted spans (the seven-years sentence, the September-19 desk-checking
   passage) verbatim against the live transcript. Child sample now 3/3 clean.
+
+- s1e-006 (Ramana Maharshi, Arunachala Ashrama "Life" page): all three 1896
+  death-experience spans verbatim against the live page. Child sample 4/4 clean.
