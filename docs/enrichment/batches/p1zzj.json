@@ -21,7 +21,6 @@
     "SO066",
     "SO068",
     "SO069",
-    "SP018",
     "SP033",
     "SP040",
     "SP049",
@@ -30,16 +29,18 @@
     "SP080",
     "SP081",
     "SO033",
-    "SP064"
+    "SP064",
+    "SP018"
   ],
   "in_progress": null,
   "flagged": {
     "SO033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 1.00)",
-    "SP064": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.71)"
+    "SP064": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.71)",
+    "SP018": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:28:13+00:00",
+  "updated": "2026-10-25T12:32:00+00:00",
   "band_done": false,
   "notes": {
     "SO033": {
@@ -53,6 +54,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://monadnock.net/spinoza/ethics-4.html"
+    },
+    "SP018": {
+      "qc": "Plain-words replicate replaced (0.50 -> ~0.05), first-person defects in scope fixed; validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.gutenberg.org/files/3800/3800-h/3800-h.htm"
     }
   }
 }
