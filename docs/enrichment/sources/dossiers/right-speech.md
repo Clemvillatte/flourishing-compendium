@@ -399,3 +399,13 @@ The Kālāmas Test It (Kesamutti Sutta), ST131 Juror 8 Just Wants to
 Talk (12 Angry Men), ST387 Ciñcā Accuses the Buddha Before the
 Assembly (Dhammapada Atthakatha). All three loglines match the
 cards' subjects and sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos20-1025g, 2026-10-25)
+
+Three story cards opened at body level and checked against their
+loglines: ST066 The Kālāmas Test It (contradicting teachers, know
+for yourselves — matches), ST131 Juror 8 Just Wants to Talk (the
+lone not-guilty vote, wanting to talk — matches) and ST387 Ciñcā
+Accuses the Buddha Before the Assembly (the faked pregnancy, the
+one sentence, the unmasking — matches). All three match. With batch
+1, the sampled cards all verify. No defects found.
