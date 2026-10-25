@@ -272,5 +272,53 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   for child development, parenting, education, social policy and society, drawing
   on research on three-dimensional-object play and animal studies of play
   deprivation.
-- Relevant segment: whole talk, 1:11:12.
+
+### M08-P13: Social Connection and Happiness (Robert Waldinger, Osher Center)
+
+- Identity and access: oembed confirms the lecture on the Osher Center for
+  Integrative Medicine channel (https://www.youtube.com/watch?v=Dvxl7EVELJ8).
+- Duration: 0:56:08 (watch page, 2026-10-25).
+- Instructor credentials: Robert Waldinger, MD, director of the Harvard Study of
+  Adult Development (per the host description); Annual Cogan Endowed Lecture.
+- Language: English.
+- Content coverage: the host's description states the lecture reports on the
+  Harvard Study of Adult Development, the longest study of adult life ever done,
+  and presents scientific findings about human wellbeing throughout the lifespan,
+  examining what actually helps people thrive rather than wealth, fame and
+  achievement.
+- Relevant segment: whole lecture, 0:56:08.
+- Verification status: verified-video.
+
+### M08-S04: Our Cultures, Our Selves, The Sources of Belonging (Hazel Markus, University of Missouri)
+
+- Identity and access: oembed confirms the lecture on the Mizzou Visual Productions
+  channel (https://www.youtube.com/watch?v=DPsvYv9ORK0).
+- Duration: 1:22:09 (watch page, 2026-10-25).
+- Instructor credentials: Hazel Markus, Department of Psychological Sciences
+  Distinguished Lecture Series, University of Missouri, March 14, 2013 (per the
+  host description).
+- Language: English.
+- Content coverage: the host's description states the lecture covers how cultures
+  shape selves, how a match or mismatch between culture and self affects
+  belonging, performance and well-being, social class culture in the United
+  States, independent and interdependent selves, mismatch for first-generation
+  college students, belonging interventions and institutional support.
+- Relevant segment: whole lecture, 1:22:09.
+- Verification status: verified-video.
+
+### M08-S06: Interesting WEIRD Psychology, The Challenges of Searching for a Human Nature (Steven Heine, CMPR)
+
+- Identity and access: oembed confirms the lecture on the Consortium for
+  Multicultural Psychology Research channel
+  (https://www.youtube.com/watch?v=OotlTvy1hIk).
+- Duration: 1:16:23 (watch page, 2026-10-25).
+- Instructor credentials: Steven J. Heine, 2017 Annual Distinguished Lecture in
+  Multicultural Psychology (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture discusses challenges
+  in using psychological research to understand human nature, comparisons across
+  industrialized and non-industrialized and Western and non-Western societies,
+  self-enhancement motivations in North American and East Asian samples, and ways
+  to improve cross-cultural research.
+- Relevant segment: whole lecture, 1:16:23.
 - Verification status: verified-video.
