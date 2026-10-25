@@ -4,5 +4,5 @@
   "affect",
   "affect-gf-rewrite"
  ],
- "note": "Affect: GF-model rewrite completed by worker-pplx-dos2-1025c (continuous thread replaces map format, James vs judgment tradition divergence). Registry rebuild completed by worker-pplx-dos2-1025e (2026-10-25): dossier_registry_build --rebuild=affect ran, compiled app.js payload now carries the GF-model affect (101 blocks, node --check ok, checker exit 0 on the dossier). The registry rebuild flag from the dos2 worker's commit is resolved."
+ "note": "Affect: GF-model rewrite completed by worker-pplx-dos2-1025c (continuous thread replaces map format, James vs judgment tradition divergence). Registry rebuild completed by worker-pplx-dos2-1025e (2026-10-25): dossier_registry_build --rebuild=affect ran, compiled app.js payload now carries the GF-model affect (101 blocks, node --check ok, checker exit 0 on the dossier). The registry rebuild flag from the dos2 worker's commit is resolved. SESSION COMPLETE (this worker): manifest disambiguation met (happiness named); story loglines and kernel compressions verified; consolidated verification summary in the ledger. Supervisor's sampled PASS recorded in QC addendum 6; registry rebuild verified by dos2-1025e."
 }
