@@ -119,7 +119,7 @@ Tortoises in the mud, a phantom hand, a memoir dictated by blinking: the theme's
 
 [ST045 — The True Man Breathes from His Heels](https://clemvillatte.github.io/flourishing-compendium/#card=ST045%20%E2%80%94%20The%20True%20Man%20Breathes%20from%20His%20Heels): Zhuangzi's true man of old breathes from his heels; everyone else from the throat.
 
-[ST046 — The Yellow Emperor Climbs Kongtong](https://clemvillatte.github.io/flourishing-compendium/#card=ST046%20%E2%80%94%20The%20Yellow%20Emperor%20Climbs%20Kongtong): the sage refuses the emperor's question, sends him to sit in stillness for three months, then teaches him to guard the inner and quiet the hearing and sight.
+[ST046 — The Yellow Emperor Climbs Kongtong](https://clemvillatte.github.io/flourishing-compendium/#card=ST046%20%E2%80%94%20The%20Yellow%20Emperor%20Climbs%20Kongtong): the sage refuses the emperor's question; the emperor withdraws for three months and returns, and is then taught to guard the inner and quiet the hearing and sight.
 
 [ST044 — The Tortoise in the Mud](https://clemvillatte.github.io/flourishing-compendium/#card=ST044%20%E2%80%94%20The%20Tortoise%20in%20the%20Mud): Zhuangzi declines a ministry; the sacred tortoise would rather be alive dragging its tail in the mud.
 
@@ -131,10 +131,10 @@ Tortoises in the mud, a phantom hand, a memoir dictated by blinking: the theme's
 
 [ST264 — Bauby Blinks](https://clemvillatte.github.io/flourishing-compendium/#card=ST264%20%E2%80%94%20Bauby%20Blinks): locked-in syndrome; a memoir dictated by blinking, the butterfly of consciousness not shrinking with the diving bell.
 
-[ST265 — Christy Brown's A](https://clemvillatte.github.io/flourishing-compendium/#card=ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A scraped on the kitchen floor; a body-subject constituted around the limb that answered.
+[ST265 — Christy Brown's A](https://clemvillatte.github.io/flourishing-compendium/#card=ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A drawn on the floor with chalk; a body-subject constituted around the limb that answered.
 
-[ST048 — Yayoi Kusama Paints the Hallucinations](https://clemvillatte.github.io/flourishing-compendium/#card=ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood, has lived voluntarily in a Tokyo psychiatric hospital since 1977, and the Infinity Mirror Rooms turn that inner experience into architectural scale.
+[ST048 — Yayoi Kusama Paints the Hallucinations](https://clemvillatte.github.io/flourishing-compendium/#card=ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood and took up voluntary residence in a Tokyo psychiatric hospital in 1977.
 
 ### A life in the wild
 
-[ST047 — McCandless and the Bus](https://clemvillatte.github.io/flourishing-compendium/#card=ST047%20%E2%80%94%20McCandless%20and%20the%20Bus): the Alaskan wilderness, four months, a journal's last legible line.
+[ST047 — McCandless and the Bus](https://clemvillatte.github.io/flourishing-compendium/#card=ST047%20%E2%80%94%20McCandless%20and%20the%20Bus): the Alaskan wilderness, a journal that counted a hundred and thirteen days, its last written entry reading only "BEAUTIFUL BLUE BERRIES."

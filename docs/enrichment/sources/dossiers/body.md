@@ -535,3 +535,51 @@ Wikipedia My Left Foot article ("He marks the letter 'A' on the floor
 with his foot and the help of his mother"); the kitchen-floor detail
 is the card's own, consistent with the book's account. This closes the
 story section's verification for this session's scope.
+
+## Carrier-based corrections and ledger repairs (2026-10-25, worker-pplx-dos17-1025h)
+
+Final advisor pass required four corrections, all applied and pushed
+with this entry. (1) The Kusama logline no longer infers current
+status from the carrier extract: it now states the supported dated
+fact ("took up voluntary residence in a Tokyo psychiatric hospital in
+1977," per the Wikipedia article's account of her residence from 1977),
+and the "Infinity Mirror Rooms" clause was removed entirely — the
+carrier describes the rooms and her dot-painting separately and does
+not establish the equivalence; the earlier paraphrase of the card's
+framing was not a verification repair and is withdrawn. (2) The Yellow
+Emperor logline now matches the ST046 card's chronology: the emperor
+withdraws for three months and returns, rather than the sage sending
+him to sit in stillness for three months. (3) The McCandless logline
+was rebuilt from the opened carrier (Wikipedia, Chris McCandless,
+opened via the MediaWiki API this pass): his final written journal
+entry, Day 107, read "BEAUTIFUL BLUE BERRIES."; days 108-112 were
+marked only with slashes and Day 113 had no entry; his farewell was a
+separate photographed note ("I HAVE HAD A HAPPY LIFE AND THANK THE
+LORD..."). FLAG FOR THE SUPERVISOR: the ST047 card's claim that the
+journal's last legible line was "Happiness only real when shared" is
+NOT supported by this carrier — that line comes from Krakauer's book
+(a note associated with a copy of Doctor Zhivago) — the card may need
+correction in a future pass. The dossier logline now quotes only what
+the carrier supports. (4) The Christy Brown logline was adjusted to
+the carrier's wording (Wikipedia, My Left Foot (book), opened via the
+MediaWiki API): the letter A was marked on the floor with chalk and
+his mother's help; "scraped on the kitchen floor" overstated the
+carrier and is replaced.
+
+Ledger repairs. The batch-4 entry above said the Bauby and Christy
+Brown checks "closed the story section's verification for this
+session's scope" — overstated: those checks were made through search
+results, not opened carriers. Both have now been opened directly via
+the Wikipedia API (Jean-Dominique Bauby: "After developing locked-in
+syndrome in 1995 following a debilitating stroke, he dictated a
+memoir, The Diving Bell and the Butterfly, using a system of
+communication based on blinking"; My Left Foot (book): "He marks the
+letter 'A' on the floor with his foot and the help of his mother").
+The Zhuangzi ch. 6 check remains a search-result check (ctext.org
+direct fetch was IP-blocked; the Legge passage was confirmed in
+ctext.org's English text as surfaced in search results, not as a
+fetched page). The McCandless and Kusama checks above are opened-
+carrier checks (MediaWiki API). Remaining pending for a future pass,
+unchanged: body memory, embodied cognition, somatic marker, pranayama,
+yangsheng, Yoga Sutra 1.34 (Woods carrier named), Qi/Legge, the
+phantom-hand clause, and the ST047 card correction flagged above.
