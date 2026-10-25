@@ -19,7 +19,7 @@ Chapter 19 of the Daodejing lists three renunciations, sageness and wisdom, bene
 > With no desire, at rest and still,
 > All things go right as of their will." (Daodejing 37, [Legge](https://www.gutenberg.org/ebooks/216))
 
-I applie these passages by asking which optional wants you are willing to leave unfulfilled.
+I apply these passages by asking which optional wants you are willing to leave unfulfilled.
 
 **Plain words**
 You can want something without making it your next project. Pick an optional purchase and postpone it for a week. Afterwards, reconsider whether you still want it.

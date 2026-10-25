@@ -18,7 +18,7 @@ What should be done is to drag it on dry land or sink it in the water, and go wh
 
 > "Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas." (MN 22, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html))
 
-I applie the simile by asking what task a framework is meant to serve and whether that task is complete.
+I apply the simile by asking what task a framework is meant to serve and whether that task is complete.
 
 **Plain words**
 A tool that saved you earns a kind of loyalty, and loyalty to a tool is misplaced once the job is done. The simile counts the raft as good for crossing and says the crossing was the point. Ask what a teaching is still doing for you, and let the answer decide whether it travels.

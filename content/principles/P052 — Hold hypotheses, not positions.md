@@ -16,7 +16,7 @@ Peirce's essay describes what your own doubt is for. Doubt is "an uneasy and dis
 
 > "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, The Fixation of Belief, [peirce.org](https://www.peirce.org/writings/p107.html))
 
-I applie the essay to meetings and plans: a view stated so that it can be tested keeps the doubt alive; a view stated as final buries it with the opinion already settled.
+I apply the essay to meetings and plans: a view stated so that it can be tested keeps the doubt alive; a view stated as final buries it with the opinion already settled.
 
 **Plain words**
 Peirce's picture: doubt is the itch, inquiry is the scratch, and belief is the calm after. The catch is that calm can be bought cheaply, by refusing to listen, or honestly, by testing. A hypothesis is a belief that has agreed to be disturbed; a position is a belief that has hired guards. The sentence "I might be wrong" is the beginning of intelligence.

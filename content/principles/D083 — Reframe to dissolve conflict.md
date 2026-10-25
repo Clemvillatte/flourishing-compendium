@@ -21,7 +21,7 @@ The passage is from the second chapter of the Zhuangzi. A keeper of monkeys, han
 >
 > (Zhuangzi 2, Legge)
 
-The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The daily total of acorns is the same in both proposals; what differs is the distribution, and the monkeys' anger and pleasure tracked the distribution. I applie the story by asking which terms can change while the total remains fixed.
+The chapter draws the lesson for disputes: "the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible." The daily total of acorns is the same in both proposals; what differs is the distribution, and the monkeys' anger and pleasure tracked the distribution. I apply the story by asking which terms can change while the total remains fixed.
 
 (Zhuangzi 2.)
 

@@ -16,7 +16,7 @@ In [Zhuangzi's story](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_
 
 > "a preying mantis raised its feelers, and pounced on the cicada, in its eagerness for its prey, (also) forgetting (its care for) its body" (Zhuangzi 20, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-He puts away the bow and hurries back, but the [forester reproaches him](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf). The observer has shared the creatures' mistake. Later he admits that he was guarding his person and forgot himself. I applie the story to the costs a desirable gain can hide.
+He puts away the bow and hurries back, but the [forester reproaches him](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf). The observer has shared the creatures' mistake. Later he admits that he was guarding his person and forgot himself. I apply the story to the costs a desirable gain can hide.
 
 **Plain words**
 A gain can be real and still cost more than you would willingly pay. Extra money is easy to picture; a month with no unhurried evening is harder to put beside it. The point is to let both enter the decision. Wanting something does not oblige you to pursue it, and declining this opportunity need not mean that ambition itself is wrong.

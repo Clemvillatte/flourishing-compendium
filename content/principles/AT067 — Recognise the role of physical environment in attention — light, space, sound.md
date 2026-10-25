@@ -16,7 +16,7 @@ Szalma and Hancock analyzed 242 studies of noise and performance. The reported e
 
 > "Collective findings identified continuous versus intermittent noise, noise type, and type of task as the major distinguishing characteristics that moderated response." (Szalma & Hancock, 2011, [Psychological Bulletin 137(4):682-707](https://eric.ed.gov/?id=EJ930167))
 
-I applie this finding by suggesting comparisons suited to a particular task, without assuming that one sound environment suits all work.
+I apply this finding by suggesting comparisons suited to a particular task, without assuming that one sound environment suits all work.
 
 **Plain words**
 A sound may have different effects depending on what you are doing. For this compendium exercise, compare how a particular task goes in different sound conditions and record what you notice.

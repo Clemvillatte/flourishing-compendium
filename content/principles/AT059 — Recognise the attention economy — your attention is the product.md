@@ -18,7 +18,7 @@ In his 1971 discussion, Herbert Simon argues that abundant information makes the
 >
 > (Simon, "Designing Organizations for an Information-Rich World", 1971, pp. 40-41)
 
-The cost falls on the receiver: "most of the cost of information is the cost incurred by the recipient. ... we must also know how much it costs, in terms of scarce attention, to receive it" (p. 41). I applie this accounting to digital media: a price of zero does not say how much time a service will take.
+The cost falls on the receiver: "most of the cost of information is the cost incurred by the recipient. ... we must also know how much it costs, in terms of scarce attention, to receive it" (p. 41). I apply this accounting to digital media: a price of zero does not say how much time a service will take.
 
 **Plain words**
 A service can cost you no money and still take an hour of your day. Count that hour when deciding whether it is worth using, and ask what you got during it.

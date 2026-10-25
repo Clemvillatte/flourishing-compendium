@@ -16,7 +16,7 @@ Chapter 11 of the Daodejing makes its argument with three objects: a wheel, a cl
 
 > "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends." (Daodejing 11, [Legge](https://www.gutenberg.org/ebooks/216))
 
-I applie the image to a calendar, a home and a mind: a schedule with no gaps has no slot for what turns up, however well made its bookings.
+I apply the image to a calendar, a home and a mind: a schedule with no gaps has no slot for what turns up, however well made its bookings.
 
 **Plain words**
 A cup holds water because it is mostly hole. A week works the same way: every booking fills space the rest of the day might have used. The empty part is where the use happens. If you want a week that can hold what turns up, keep some of it unfilled.

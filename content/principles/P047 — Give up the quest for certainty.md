@@ -18,7 +18,7 @@ Dewey argues that action takes place in changing, particular situations. However
 
 ### Care without a guarantee
 
-This philosophical argument does not make caution a weakness or every delay unreasonable. I applie it by distinguishing information that could improve a decision from a demand for an outcome nobody can promise. Whether to proceed still depends on what is at stake and what can be learned.
+This philosophical argument does not make caution a weakness or every delay unreasonable. I apply it by distinguishing information that could improve a decision from a demand for an outcome nobody can promise. Whether to proceed still depends on what is at stake and what can be learned.
 
 (Dewey, The Quest for Certainty, 1929.)
 

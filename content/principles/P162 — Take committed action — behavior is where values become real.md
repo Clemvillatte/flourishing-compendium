@@ -16,7 +16,7 @@ The ACT article's action side: committed action is where ACT's behavior-therapy 
 
 > "Finally, ACT encourages the development of larger and larger patterns of effective action linked to chosen values, undermining inaction, impulsivity, or avoidant persistence." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-I applie the sentence to the Tuesday walk: the value is the direction, the walk is a goal-sized piece of it, and the article's contrast is that goals can be achieved while values are only instantiated.
+I apply the sentence to the Tuesday walk: the value is the direction, the walk is a goal-sized piece of it, and the article's contrast is that goals can be achieved while values are only instantiated.
 
 **Plain words**
 A value that never touches a Tuesday is a mood about the value. The ACT recipe asks for goals in three sizes, short, medium and long, that point the same way as the value. The test is behavioral: what got done. The caring is real either way; the value exists in the doing.

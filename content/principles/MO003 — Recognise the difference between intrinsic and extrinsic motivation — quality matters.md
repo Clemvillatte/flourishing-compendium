@@ -16,7 +16,7 @@ Ryan and Deci's definitions: "The term extrinsic motivation refers to the perfor
 
 > "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." (Deci et al. 1999, [PubMed](https://pubmed.ncbi.nlm.nih.gov/10589297/))
 
-I applie the finding with its boundary: the effect concerns expected tangible rewards, and the same meta-analysis found positive feedback enhanced motivation. The quality question for any drive is which side of the definition it lives on.
+I apply the finding with its boundary: the effect concerns expected tangible rewards, and the same meta-analysis found positive feedback enhanced motivation. The quality question for any drive is which side of the definition it lives on.
 
 **Plain words**
 Two engines look identical from outside: same midnight, same book. One is reading for the grade, one for the subject, and the definitions differ in what happens when the reward stops. The meta-analytic finding is specific: expected tangible rewards contingent on performance undermined free-choice motivation in these studies. Positive feedback did the opposite. Ask which kind of fuel a given commitment runs on.

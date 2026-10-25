@@ -20,7 +20,7 @@ And the chapter is equally direct about how the disease is avoided:
 
 > "It is simply by being pained at (the thought of) having this disease that we are preserved from it. The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it." (DDJ 71)
 
-Chapter 71 calls not knowing while believing one knows a disease. In Legge's translation, the sage's awareness of its painfulness protects him from it. I applie this warning to admitting uncertainty before making a confident claim. This is a practical interpretation of the chapter's disease metaphor.
+Chapter 71 calls not knowing while believing one knows a disease. In Legge's translation, the sage's awareness of its painfulness protects him from it. I apply this warning to admitting uncertainty before making a confident claim. This is a practical interpretation of the chapter's disease metaphor.
 
 (DDJ 71.)
 

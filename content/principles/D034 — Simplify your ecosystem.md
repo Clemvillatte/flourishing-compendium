@@ -16,7 +16,7 @@ Chapter 80 of the Daodejing draws a little state with a small population and ima
 
 > "They should think their (coarse) food sweet; their (plain) clothes beautiful; their (poor) dwellings places of rest; and their common (simple) ways sources of enjoyment." (Daodejing 80, [Legge](https://www.gutenberg.org/ebooks/216))
 
-I applie this picture by asking which possessions and commitments you still want to maintain.
+I apply this picture by asking which possessions and commitments you still want to maintain.
 
 **Plain words**
 Look at something you keep but seldom use. Would you choose it again today? Try setting it aside without buying a replacement, and see whether you miss it. Apply the same question to one optional commitment before accepting another.

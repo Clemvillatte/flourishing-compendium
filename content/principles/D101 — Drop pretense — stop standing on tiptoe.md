@@ -19,7 +19,7 @@ Chapter 24 of the Daodejing opens with two bodily images, then widens the patter
 >
 > (Daodejing 24, Legge)
 
-I applie these comparisons to claims of competence or certainty that exceed what a person can support.
+I apply these comparisons to claims of competence or certainty that exceed what a person can support.
 
 (DDJ 24.)
 

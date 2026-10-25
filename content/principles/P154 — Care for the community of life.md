@@ -18,7 +18,7 @@ Cobb argues that relations to the natural world belong within an account of the 
 
 ### Include more than human advantage
 
-This is Cobb's philosophical and ethical argument, not a scientific measurement of intrinsic value. I applie it by asking whose interests a decision leaves out, including nonhuman lives. Calling the biosphere a stakeholder is a practical metaphor here, not a claim that an ecosystem has a single voice or legally defined standing.
+This is Cobb's philosophical and ethical argument, not a scientific measurement of intrinsic value. I apply it by asking whose interests a decision leaves out, including nonhuman lives. Calling the biosphere a stakeholder is a practical metaphor here, not a claim that an ecosystem has a single voice or legally defined standing.
 
 (Cobb and Griffin, Process Theology, 1976: secularized; Whitehead's value realism.)
 

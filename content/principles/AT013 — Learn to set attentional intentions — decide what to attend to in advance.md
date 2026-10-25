@@ -16,7 +16,7 @@ Implementation intentions link an anticipated situation to a planned goal-direct
 
 > "Findings from 94 independent tests showed that implementation intentions had a positive effect of medium-to-large magnitude (d= .65) on goal attainment." (Gollwitzer & Sheeran, 2006, [abstract](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f))
 
-The review reports process findings concerning the accessibility of specified opportunities and the automation of goal-directed responses. I applie this planning format to attention in the exercise below. (Gollwitzer & Sheeran, 2006.)
+The review reports process findings concerning the accessibility of specified opportunities and the automation of goal-directed responses. I apply this planning format to attention in the exercise below. (Gollwitzer & Sheeran, 2006.)
 
 **Plain words**
 Choose a situation in which you want to listen closely. Decide what you will do if something interrupts you, and make the response specific enough to try. Afterwards, describe whether you followed your plan.

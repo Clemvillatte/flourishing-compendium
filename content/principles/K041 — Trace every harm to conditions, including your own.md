@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 41** — Trace every harm to conditions, including your own
 
-Shantideva asks why a person should be the target of anger when, like bodily illness, their conduct arises through conditions (VI.22). I applie this question to one's own conduct as well: examine what contributed to a harmful act before deciding how to respond.
+Shantideva asks why a person should be the target of anger when, like bodily illness, their conduct arises through conditions (VI.22). I apply this question to one's own conduct as well: examine what contributed to a harmful act before deciding how to respond.
 
 (Shantideva, Bodhicharyavatara, ch. 6; the Buddhist doctrine of dependent origination.)
 

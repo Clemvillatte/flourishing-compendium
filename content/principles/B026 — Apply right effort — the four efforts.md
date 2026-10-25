@@ -16,7 +16,7 @@ Right effort, in the Pali Canon, is defined as four efforts. Two work on unskill
 
 > "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort." (SN 45.8, [Thanissaro, accesstoinsight](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))
 
-I applie the four as a checklist for changing any behaviour: which direction does this situation need, prevention, abandonment, development or maintenance?
+I apply the four as a checklist for changing any behaviour: which direction does this situation need, prevention, abandonment, development or maintenance?
 
 **Plain words**
 Choose the target of your effort first. Ask whether a mental quality is harmful or helpful, then whether it is already present. That gives you a specific job: prevent harm, let go of harm already present, encourage something helpful, or keep nurturing it.

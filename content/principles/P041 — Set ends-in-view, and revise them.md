@@ -16,7 +16,7 @@ Dewey's argument in Human Nature and Conduct is that ends are not places you arr
 
 > "Men do not shoot because targets exist, but they set up targets in order that throwing and shooting may be more effective and significant." (Dewey, Human Nature and Conduct, [Gutenberg](https://www.gutenberg.org/ebooks/41386))
 
-I applie the target line to the five-year plan: the plan is equipment for the present acting, and its revision is the system working, not failing.
+I apply the target line to the five-year plan: the plan is equipment for the present acting, and its revision is the system working, not failing.
 
 **Plain words**
 A goal on Dewey's account is more like a target than a destination: something set up so that today's shooting has direction, and moved when the shooting changes. The test of a goal is what it does to this week's action. When the action produces information the goal did not expect, the goal moves; that is the design, not a defect.

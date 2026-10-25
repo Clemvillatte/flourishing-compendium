@@ -159,3 +159,6 @@
 
 ## CO008, R060, D173, D178, D075, MO017, PP008 audits
 - CO008: Kant A51/B75 sentences quoted verbatim (Meiklejohn, Gutenberg 4280); parallel labelled as structural. R060: Great Learning cascade (Quackenbos, Gutenberg 67687) and Analects XIV.45, XII.1, I.4 (Gutenberg 3330) verified verbatim; no change. D173 (DDJ 78), D178 (DDJ 27), D075 (DDJ 69) verified verbatim against Legge; MO017/PP008 SDT quote verified in Niemiec, Ryan and Deci 2009 manuscript p. 3; no change (the two pages share a similar Plain words paragraph; flag for supervisor as near-duplicate).
+
+## Systemic typo fix: 'I applie' to 'I apply'
+- 86 occurrences across 85 principle pages (the verb had lost its final letter, likely from a past bulk edit). Replaced with 'I apply' in content/principles only. The same typo exists in content/concepts (6 files: Experiential purchases, Distinguishing feeling from fact, Emergent evolution, The seasons of illness, The courage to act against impulse, Distinguishing practice from theory) and docs/enrichment/sources/p1a/repair-b303ba60.md; not touched as they belong to other bands. Flag for supervisor.

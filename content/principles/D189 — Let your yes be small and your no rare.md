@@ -18,7 +18,7 @@ Chapter 63 of the Daodejing warns that light promises cost trust: whoever promis
 
 > "A violent wind does not last for a whole morning; a sudden rain does not last for the whole day." (DDJ 23, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-I applie the weather image by analogy: what is violent cannot keep going, and the reading drawn from that is to make few commitments, small enough to keep on an ordinary week, and to keep them once given.
+I apply the weather image by analogy: what is violent cannot keep going, and the reading drawn from that is to make few commitments, small enough to keep on an ordinary week, and to keep them once given.
 
 **Plain words**
 Each yes spends a future evening or a future morning. Before agreeing, check whether the promised hour still exists in an ordinary week of yours; if it does not, refuse early, while the other person can still make other plans. My exercise: when you are about to say yes, name the exact evening it will use and confirm you are free that evening.

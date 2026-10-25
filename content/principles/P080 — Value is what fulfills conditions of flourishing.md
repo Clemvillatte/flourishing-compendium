@@ -16,10 +16,10 @@ Dewey's Theory of Valuation treats valuing as something an inquiry can test. The
 
 > "Observation of results obtained, of actual consequences in their agreement with and difference from ends anticipated or held in view, thus provides the conditions by which desires and interests (and hence valuations) are matured and tested." (Dewey, Theory of Valuation, [Internet Archive](https://archive.org/stream/theoryofvaluatio032168mbp/theoryofvaluatio032168mbp_djvu.txt))
 
-I applie the test to the heirloom and the slogan alike: the value question is not what is said about the thing but what the acting on it actually brings over time. The flourishing framing is my application and goes beyond the quoted passage.
+I apply the test to the heirloom and the slogan alike: the value question is not what is said about the thing but what the acting on it actually brings over time. The flourishing framing is my application and goes beyond the quoted passage.
 
 **Plain words**
-If you expect a choice to improve your life, check what follows from making it. What happened as expected? What disappointed you? Those observations give you something to reconsider. I applie this inquiry to flourishing; that application goes beyond the quoted passage.
+If you expect a choice to improve your life, check what follows from making it. What happened as expected? What disappointed you? Those observations give you something to reconsider. I apply this inquiry to flourishing; that application goes beyond the quoted passage.
 
 *For example:* Suppose you work late because you expect the extra income to improve family life. As a modern application, compare that expectation with the resulting income, time together and relationships, then reconsider the arrangement.
 

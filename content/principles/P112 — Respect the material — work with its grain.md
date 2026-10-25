@@ -18,7 +18,7 @@ In Art as Experience, Dewey distinguishes releasing an impulse from making somet
 
 (Dewey, Art as Experience, chapter 4, LW 10:69, [university-hosted text](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf).)
 
-For Dewey, this is a process in time: both what comes from the maker and the objective conditions acquire a form they did not possess at the outset ([LW 10:70](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)). I applie that account as a reason to let the work modify an initial plan. It does not mean always yielding to resistance, or treating other people as materials to be shaped.
+For Dewey, this is a process in time: both what comes from the maker and the objective conditions acquire a form they did not possess at the outset ([LW 10:70](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1987).-art-as-experience.pdf)). I apply that account as a reason to let the work modify an initial plan. It does not mean always yielding to resistance, or treating other people as materials to be shaped.
 
 **Plain words** Try a small part of what you intend to make and look at what actually happened. What does the result let you do, and what does it ask you to reconsider?
 

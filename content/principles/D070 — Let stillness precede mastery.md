@@ -16,7 +16,7 @@ In Book XIX of the Zhuangzi, the woodcarver Qing explains how he made a bell-sta
 
 > "Then I went into the forest, and looked at the natural forms of the trees. When I saw one of a perfect form, then the figure of the bell-stand rose up to my view, and I applied my hand to the work. Had I not met with such a tree, I must have abandoned the object; but my Heaven-given faculty and the Heaven-given qualities of the wood were concentrated on it. So it was that my spirit was thus engaged in the production of the bell-stand." (Zhuangzi 19, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-I applie the story as a question: what state would you have to be in for your best work, and what would prepare it?
+I apply the story as a question: what state would you have to be in for your best work, and what would prepare it?
 
 **Plain words**
 Before you start, ask how much of your attention is on the task and how much is on getting credit for it. Try setting the second concern aside long enough to look closely at what you are working with. Qing still needed a suitable tree; without one, he would have abandoned the task.

@@ -16,7 +16,7 @@ The two branches are the textbook fact: sympathetic arousal and parasympathetic 
 
 > "Thus, HRV may serve as a proxy for 'vertical integration' of the brain mechanisms that guide flexible control over behavior with peripheral physiology, and as such provides an important window into understanding stress and health." (Thayer et al. 2012, [PubMed](https://pubmed.ncbi.nlm.nih.gov/22178086/))
 
-Lehrer and Gevirtz's review of HRV biofeedback finds the most supported mechanism "the strengthening of homeostasis in the baroreceptor", with effects on the vagal afferent pathway to frontal cortical areas as a recent proposal. I applie the two papers as a question: which branch is holding the day, and can the balance be trained?
+Lehrer and Gevirtz's review of HRV biofeedback finds the most supported mechanism "the strengthening of homeostasis in the baroreceptor", with effects on the vagal afferent pathway to frontal cortical areas as a recent proposal. I apply the two papers as a question: which branch is holding the day, and can the balance be trained?
 
 **Plain words**
 The gas-and-brake picture is a picture: two settings, both needed, trouble when stuck in one. The research adds that the balance is measurable (HRV) and possibly trainable (biofeedback). The question for a stressed week is not whether you feel activated but whether you can still shift.

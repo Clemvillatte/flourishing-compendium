@@ -16,7 +16,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > "All these characteristics are found in the highest degree in a man’s relations to himself; for he is his own best friend: and so he must love himself better than anyone else." (Aristotle, Nicomachean Ethics IX.8, [Peters trans., Standard Ebooks](https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-9))
 
-I applie the argument to the self-criticism habit: Aristotle's self-friendship is not self-esteem but inner agreement, the absence of a war between the parts.
+I apply the argument to the self-criticism habit: Aristotle's self-friendship is not self-esteem but inner agreement, the absence of a war between the parts.
 
 **Plain words**
 The claim is structural, not a mood: friendship needs wishing-good, and the good person can wish themselves good without conflict, because the parts of them want the same things. A person at war with themselves cannot give friendship its first gift. As a proposed reflection exercise, notice what the internal conversation sounds like when nobody is watching; the evening alone is one place to hear it.

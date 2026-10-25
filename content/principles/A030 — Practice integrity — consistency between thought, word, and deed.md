@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 30** — Practice integrity: consistency between thought, word, and deed
 
-[[T002 — Aristotle|Aristotle]] links prudence and moral virtue in an argument about the [[The unity of the virtues|unity of the virtues]]. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) I applie that discussion here as an exercise in comparing professed commitments with conduct.
+[[T002 — Aristotle|Aristotle]] links prudence and moral virtue in an argument about the [[The unity of the virtues|unity of the virtues]]. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) I apply that discussion here as an exercise in comparing professed commitments with conduct.
 
 (NE I.8, X.9; EE VIII.3; NE VI.12-13.)
 

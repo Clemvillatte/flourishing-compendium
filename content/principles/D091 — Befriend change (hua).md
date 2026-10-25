@@ -20,7 +20,7 @@ The chapter 6 argument for not litigating comes from Zi-lai, dying while his fri
 
 > "When we once understand that heaven and earth are a great melting-pot, and the Creator a great founder, where can we have to go to that shall not be right for us? We are born as from a quiet sleep, and we die to a calm awaking." (Zhuangzi 6, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-I applie these passages as advice for responding to changes one cannot prevent.
+I apply these passages as advice for responding to changes one cannot prevent.
 
 **Plain words** When a friendship changes, name what you miss and ask what contact is possible now. Consider whether you want to stay in touch differently. Leave room for grief while deciding how to respond.
 

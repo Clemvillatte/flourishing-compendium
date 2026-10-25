@@ -16,7 +16,7 @@ Thich Nhat Hanh's example is the sink: "While washing the dishes one should only
 
 > "There's no way I can be tossed around mindlessly like a bottle slapped here and there on the waves." (Thich Nhat Hanh, The Miracle of Mindfulness, [excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
-I applie the example to attention split across tasks: one thing done with the whole attention is the instruction, whatever the thing is.
+I apply the example to attention split across tasks: one thing done with the whole attention is the instruction, whatever the thing is.
 
 **Plain words**
 The instruction is literal: when you wash up, the washing is the event. The failure mode the passage names is being tossed around mindlessly. Pick one task and give it the whole attention for ten minutes, then notice where the mind went.

@@ -20,7 +20,7 @@ His farm-equipment example makes the point plain:
 >
 > (Dewey, The Quest for Certainty, 1929, ch. VII, p. 192)
 
-I applie the same reading to personal strategies. A strategy is an instrumentality that earned its place by producing consequences; retirement is what happens when the consequences stop, and what the strategy built while it worked is not lost with it. My stop-doing list is a way of scheduling the retirement on purpose rather than waiting for the failure.
+I apply the same reading to personal strategies. A strategy is an instrumentality that earned its place by producing consequences; retirement is what happens when the consequences stop, and what the strategy built while it worked is not lost with it. My stop-doing list is a way of scheduling the retirement on purpose rather than waiting for the failure.
 
 **Plain words**
 Every strategy you run was once the answer to a real situation. Situations change, and the strategy keeps running on its own momentum, still costing attention, time or goodwill after it stops delivering. My exercise: keep a stop-doing list beside your to-do list, and put on it one thing that used to work and no longer does.

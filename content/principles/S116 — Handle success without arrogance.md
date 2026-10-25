@@ -18,7 +18,7 @@ Marcus describes how his adoptive father handled good fortune:
 
 (Med. I.16, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-I applie the portrait to success: the man is praised for using fortune's gifts without arrogance and for not missing them when he did not have them. The exercise after a win is to enjoy it without display, and to notice what you begin calling your due.
+I apply the portrait to success: the man is praised for using fortune's gifts without arrogance and for not missing them when he did not have them. The exercise after a win is to enjoy it without display, and to notice what you begin calling your due.
 
 **Plain words** Use what came in, thank whoever helped, and go back to the plan. Watch whether success changes how you treat other people.
 

@@ -16,7 +16,7 @@ Monsell reviews experiments comparing responses after a task change with respons
 
 > "Subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch. This 'switch cost' is reduced, but not eliminated, by an opportunity for preparation." (Monsell, 2003, [Trends in Cognitive Sciences 7(3):134-140](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf))
 
-I applie these laboratory findings by suggesting fewer avoidable task changes while completing a chosen piece of work. The findings do not supply a fixed time penalty for an everyday interruption. (Monsell, 2003.)
+I apply these laboratory findings by suggesting fewer avoidable task changes while completing a chosen piece of work. The findings do not supply a fixed time penalty for an everyday interruption. (Monsell, 2003.)
 
 **Plain words**
 When you move to another task, you take up a different set of instructions. In the reviewed experiments, responses were slower immediately after that change. For your own work, try choosing a stopping point and postponing interruptions that can wait.

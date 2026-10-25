@@ -16,7 +16,7 @@ Marcus advises returning after disturbing events:
 
 > "Whensoever by some present hard occurrences thou art constrained to be in some sort troubled and vexed, return unto thyself as soon as may be, and be not out of tune longer than thou must needs." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VI.9, Casaubon)
 
-Elsewhere he writes that "our life is short; we must endeavour to gain the present time with best discretion and justice" (Med. IV.21). For worry about an upcoming event, I applie these passages by asking what can be done now: prepare a slide, check a figure, or request information. This is a practical application to situational worry; the passages do not establish a clinical definition of anxiety.
+Elsewhere he writes that "our life is short; we must endeavour to gain the present time with best discretion and justice" (Med. IV.21). For worry about an upcoming event, I apply these passages by asking what can be done now: prepare a slide, check a figure, or request information. This is a practical application to situational worry; the passages do not establish a clinical definition of anxiety.
 
 (Med. VI.9, IV.21, trans. Casaubon, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 

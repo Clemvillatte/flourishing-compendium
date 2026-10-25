@@ -18,7 +18,7 @@ Marcus compares two kinds of enjoyment:
 
 (Med. X.33, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-Marcus compares luxury with the enjoyment of acting according to human nature. I applie that comparison by asking what is worth doing when an added comfort is unavailable. Choose an ordinary responsibility and consider what makes it worth doing, and which comforts merely make it more pleasant.
+Marcus compares luxury with the enjoyment of acting according to human nature. I apply that comparison by asking what is worth doing when an added comfort is unavailable. Choose an ordinary responsibility and consider what makes it worth doing, and which comforts merely make it more pleasant.
 
 **Plain words** Ask of a comfort whether the task needs it or only goes more pleasantly with it.
 

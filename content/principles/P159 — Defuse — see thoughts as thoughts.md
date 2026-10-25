@@ -16,7 +16,7 @@ The ACT article names the problem and the move. The problem: "People begin to ta
 
 > "The goal is greater behavioral flexibility, not an immediate change in their frequency or form." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-I applie the goal sentence to the panic thought: the exercise is not to stop "I can't do this" but to present while thinking it.
+I apply the goal sentence to the panic thought: the exercise is not to stop "I can't do this" but to present while thinking it.
 
 **Plain words**
 The technique is a labeling move: the thought shows up, and you say "having the thought that..." — the sentence keeps the thought from being mistaken for a command. The article is explicit that the aim is not fewer thoughts or nicer thoughts; the aim is flexibility. You can still be nervous and still present.

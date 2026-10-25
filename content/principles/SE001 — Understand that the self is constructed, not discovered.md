@@ -20,7 +20,7 @@ McAdams's life-story model puts the construction claim in its plainest form:
 
 A narrative identity, in his terms, is "a person's internalized and evolving story of how he or she has become the person he or she is becoming"; narrative identities "reconstruct the autobiographical past and anticipate the imagined future to provide the self with temporal coherence and some semblance of psychosocial unity and purpose".
 
-McAdams is describing narrative identity: the evolving story a person tells about their life. I applie this model by inviting readers to review familiar self-descriptions and consider experiences those descriptions leave out.
+McAdams is describing narrative identity: the evolving story a person tells about their life. I apply this model by inviting readers to review familiar self-descriptions and consider experiences those descriptions leave out.
 
 **Plain words**
 Take a description you often use about yourself, such as "I avoid responsibility". Look for particular occasions when it fits and occasions when it does not. Consider whether a more specific description would represent your experience more accurately.

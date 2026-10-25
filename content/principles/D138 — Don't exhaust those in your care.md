@@ -20,7 +20,7 @@ Chapter 75 of the Daodejing states the famine case in one cause named twice: "Th
 >
 > (Daodejing 75, Legge)
 
-The chapter's parallel cases extend the pattern: people are "difficult to govern because of the (excessive) agency of their superiors", and they "make light of dying because of the greatness of their labours in seeking for the means of living". In each case the behavior that looks like a problem in the governed traces back to what the governing side is doing. I applie the pattern to any position that draws on other people's effort.
+The chapter's parallel cases extend the pattern: people are "difficult to govern because of the (excessive) agency of their superiors", and they "make light of dying because of the greatness of their labours in seeking for the means of living". In each case the behavior that looks like a problem in the governed traces back to what the governing side is doing. I apply the pattern to any position that draws on other people's effort.
 
 (DDJ 75.)
 

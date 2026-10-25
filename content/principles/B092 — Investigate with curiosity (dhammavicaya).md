@@ -16,7 +16,7 @@ What makes an inquiry useful? In [SN 46.51](https://www.accesstoinsight.org/tipi
 
 > "There are mental qualities that are skillful & unskillful, blameworthy & blameless, gross & refined, siding with darkness & with light." (SN 46.51, [Thanissaro](https://accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html))
 
-The [sutta](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html) calls appropriate attention to these qualities the food that supports investigation; in its account of hindrances, inappropriate attention nourishes ill will or restlessness. The inquiry therefore involves discernment, not observation without any concern for consequences. I applie that distinction to examining a difficult reaction and the responses available within it.
+The [sutta](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html) calls appropriate attention to these qualities the food that supports investigation; in its account of hindrances, inappropriate attention nourishes ill will or restlessness. The inquiry therefore involves discernment, not observation without any concern for consequences. I apply that distinction to examining a difficult reaction and the responses available within it.
 
 **Plain words**
 Knowing that you are frustrated leaves more to understand. There is the situation, what you are adding to it, and what you might do next. Calling a reaction unhelpful is a starting point for looking closely, rather than a verdict that you are a bad person. Curiosity can serve that work without becoming another way to rehearse the complaint.

@@ -18,7 +18,7 @@ Epictetus describes how to be with a grieving person:
 
 (Ench. XVI, Thomas Wentworth Higginson translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt).)
 
-I applie the passage to keeping company with grief: what hurts can include the view taken of a loss, and sharing another's grief is permitted. The exercise is to examine your own view of the loss while you keep company.
+I apply the passage to keeping company with grief: what hurts can include the view taken of a loss, and sharing another's grief is permitted. The exercise is to examine your own view of the loss while you keep company.
 
 **Plain words** Listen to the grieving person and offer company. Treat Epictetus's distinction as a philosophical prompt for your own response, without deciding how much grief the other person should feel.
 

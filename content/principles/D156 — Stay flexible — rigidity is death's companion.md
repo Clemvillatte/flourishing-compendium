@@ -32,7 +32,7 @@ The text speaks of bodies, plants, armies and trees. Extending it to opinions an
 
 (DDJ 76, trans. Legge, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt).)
 
-**Plain words** Push on something alive and it gives a little, then comes back. Push on something dead and it either holds or snaps. Laozi applies the test to bodies, plants and armies. I applie it to the rest of what you carry around: a plan, an opinion, a way of doing things. The stiff ones feel safe, but stiffness often means the thing has stopped taking in new information.
+**Plain words** Push on something alive and it gives a little, then comes back. Push on something dead and it either holds or snaps. Laozi applies the test to bodies, plants and armies. I apply it to the rest of what you carry around: a plan, an opinion, a way of doing things. The stiff ones feel safe, but stiffness often means the thing has stopped taking in new information.
 
 *For example:* Imagine a plan you made in January that March has overtaken. The supple move is to rewrite it. The rigid move is to defend it, because changing it feels like admitting you were wrong.
 

@@ -18,7 +18,7 @@ Epictetus warns his students about public entertainments:
 
 (Ench. XXXIII, Thomas Wentworth Higginson translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt).)
 
-I applie the passage to any crowd, online or physical. The warning is about drifting without noticing; the exercise is to notice your own speech and appetites after time in a group, and compare them with before.
+I apply the passage to any crowd, online or physical. The warning is about drifting without noticing; the exercise is to notice your own speech and appetites after time in a group, and compare them with before.
 
 **Plain words** You do not have to leave every room. Watch what the room is doing to you, and leave when you can no longer watch.
 
