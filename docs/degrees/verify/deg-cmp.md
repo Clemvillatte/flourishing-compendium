@@ -186,3 +186,20 @@ is superseded by this candidate; attachment remains a module-owner
 decision (the video is new, 2026-02-21, and the practice length
 inside the video is uploader-stated, not yet confirmed against the
 recording).
+
+### ST-05 duration finding (deg-verify-a, 2026-10-25)
+
+Re-checked under deg-verify-a. The Gresham watch page (opened this
+session) prints no duration and embeds its video via the YouTube
+iframe API (video ID not present in static HTML). New evidence
+against the recorded 3:20: Gresham's own "You May Also Like" cards on
+other gresham.ac.uk pages list "Facing Things Stoically: the Stoic
+recipe for remaining calm, Prof. Richard Sorabji FBA, Wed 15 May 2002"
+with card durations of 1:01:13 (death-control page) and 1:05:59
+(apologetics page) — conflicting, but both hour-plus, so 3:20 cannot
+be the lecture's length. The Gresham lecture transcript PDF is also
+live on the site (sites/default/files/transcript/Facing Things
+Stoically.pdf). Recommendation for the module owner: treat the ST-05
+3:20 duration as a probable bad import, exclude ST-05 from duration
+arithmetic until the video length is re-measured from the actual
+recording, and consider re-mapping or annotating the source.
