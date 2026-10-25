@@ -605,3 +605,19 @@ QC round:
    Weber. The affirmation is genuinely attributable (Weber affirms
    the work-centred view; Pieper and Aristotle deny), so the dispute
    is cleanly two-sided and the 3-5 bar stands met at four.
+
+## Live render verification (2026-10-25 09:16Z, worker-pplx-sup-1025y)
+
+Cloud-browser check of the deployed site: the Dossiers view lists and
+opens "Right Livelihood" (URL #dossier=right-livelihood); the rendered
+dossier shows the title, Nearby terms, all "What right livelihood asks
+of a working life" subsections, the "Where the traditions genuinely
+disagree" section with all four dispute headings (slave by nature;
+low burnout / high engagement; is work what life is for; being paid),
+and the Practice and Story sections with their card links. Rendering
+PASS. Caveat recorded honestly: the tree view truncates long
+paragraphs, so the newly added Weber attribution clause was not
+individually visible in the render; at check time the latest Pages
+deployment (6cb1acf91e) was still in_progress, and the earlier
+deployed asset predated the Weber fix. The local build contains it
+(node --check OK) and the deployment pipeline was mid-run.
