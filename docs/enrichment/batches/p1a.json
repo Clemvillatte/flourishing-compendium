@@ -24,7 +24,6 @@
   "SO044",
   "S001",
   "A001",
-  "R055",
   "P073",
   "P139",
   "S011",
@@ -32,7 +31,7 @@
   "A037",
   "S007"
  ],
- "in_progress": null,
+ "in_progress": "R055",
  "flagged": {
   "D087": "QC complete: butterfly passage and modernized names verified; Plain words repaired",
   "D055": "QC complete: DDJ 29/64 and Chan section 7 verified; Plain words repaired",
@@ -49,7 +48,7 @@
   "A001": "QC: Ross I.7–10 and Kraut §2 verified, external conditions retained, one-sentence Plain words",
   "D141": "QC complete: Cook Ding quotations and Fraser ethical challenge verified; Plain words repaired",
   "D078": "QC complete: tree dialogue verified and Hansen usefulness reading added; Plain words repaired",
-  "R055": "QC: full Legge carriage quote, Analects 1.4/1.8/1.13, Lai and Mencius verified; Plain words repaired",
+  "R055": "Reopened for QC: QC short fix: inherited Aristotle locator IV.3 must be IV.7 in Ross, with scope qualification",
   "P073": "QC: Dewey section and Introduction verified, Anderson §1.2 added, Plain words repaired",
   "S001": "Advisor QC passed; redundant final example explanation removed",
   "D031": "QC complete: source and preservation checks passed; advisor corrections applied",
@@ -67,7 +66,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 95,
- "updated": "2026-10-25T11:27:25+00:00",
+ "updated": "2026-10-25T11:28:17+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."
