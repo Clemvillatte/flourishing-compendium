@@ -1188,3 +1188,59 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole talk, 1:16:46.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### SRC-M10-005: Buddhism and Science — A Brief History (Donald Lopez, Berkley Center)
+
+- Identity and access: oembed confirms the lecture on the Berkley Center
+  (Georgetown) channel (https://www.youtube.com/watch?v=FF6rzOSM0Iw);
+  watch page opened 2026-10-25. Lecture given 9 February 2009.
+- Duration: 54:10 (watch page, 2026-10-25).
+- Instructor credentials: Donald Lopez, lecturer (per the description; an
+  institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): historical
+  associations between Buddhism and science — nineteenth-century Buddhist
+  monks' polemical responses to Christian missionaries, the views of the
+  Dalai Lama, why compatibility claims have persisted, and what Buddhism
+  may gain or lose through that association.
+- Relevant segment: whole lecture, 54:10.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M-15-004: Impermanence (anicca) — Guided Meditation and Dhamma Talk (Ayya Brahmavara)
+
+- Identity and access: oembed confirms the session on the Buddhist
+  Insights @ Empty Cloud channel
+  (https://www.youtube.com/watch?v=qcsz_allJcE); watch page opened
+  2026-10-25. Streamed live 13 July 2022. Note: the oembed channel is
+  Buddhist Insights @ Empty Cloud; the page content was served under a
+  Clear Mountain Monastery author field — the catalog title matches the
+  Empty Cloud series listing.
+- Duration: 1:33:35 (watch page, 2026-10-25).
+- Instructor credentials: Ven. Ayya Brahmavara, guiding teacher (per the
+  uploader description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a guided
+  meditation reflecting on impermanence (anicca) — constant changes and
+  sensations throughout the body — followed by a Dhamma discussion and
+  Q&A.
+- Relevant segment: whole session, 1:33:35.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M-15-007: Discovering Buddhism Module 6 — All About Karma (Ven. Kartson)
+
+- Identity and access: oembed confirms the module on The Buddhist Center
+  channel (https://www.youtube.com/watch?v=kdceHbQ8Lm8); watch page opened
+  2026-10-25. Discovering Buddhism series, module 6.
+- Duration: 1:38:32 (watch page, 2026-10-25).
+- Instructor credentials: Ven. Kartsön, module teacher (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): karma as a
+  natural law of cause and effect in relation to happiness and suffering;
+  how thoughts, words and actions sow seeds that ripen as future
+  experiences; creating and purifying karma to support future happiness.
+- Relevant segment: whole module, 1:38:32.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.

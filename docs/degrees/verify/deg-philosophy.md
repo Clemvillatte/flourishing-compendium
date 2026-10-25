@@ -1451,3 +1451,22 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole lecture (duration to reconcile).
 - Verification status: verified-video (2026-10-25), dual-figure duration
   flagged; independent channel noted.
+
+### SRC-M10-002: Aristotle on Living Your Best Life — Socrates to Sartre, Lecture 7 (Lee Braver, Ergo)
+
+- Identity and access: oembed confirms the lecture on the Ergo channel
+  (https://www.youtube.com/watch?v=Y9lSq6bM9C8); watch page opened
+  2026-10-25. Lecture 7 of "From Socrates to Sartre: How Should We Live?"
+  INDEPENDENT-CHANNEL FLAG: the Ergo course channel.
+- Duration: 51:14 (watch page, 2026-10-25).
+- Instructor credentials: Lee Braver, lecturer (per the description; an
+  institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Aristotle's
+  approach to ethics — empirical observation, goals and the highest good,
+  eudaimonia as flourishing rather than simply happiness, flourishing
+  across species, the function argument, reason as distinctive to humans,
+  and how the parts of the mind relate to ethics.
+- Relevant segment: whole lecture, 51:14.
+- Verification status: verified-video (2026-10-25); independent-channel
+  basis noted; Braver credentials pending.
