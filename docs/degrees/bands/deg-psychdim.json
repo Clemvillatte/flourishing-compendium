@@ -2,8 +2,8 @@
  "band": "deg-psychdim",
  "kind": "degree",
  "holder": "worker-pplx-psychdim-1",
- "phase": "milestone-1-delivered",
+ "phase": "milestone-1-revised",
  "modules": {},
- "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): fresh source strategy built, 11 sources opened (all free access), one paywalled candidate rejected; coverage matrix v1 and scope benchmark delivered in ledgers/deg-psychdim.md and scope/deg-psychdim.md; scope wording fixed from five to six dimensions; awaiting advisor review of matrix before module production",
- "updated": "2026-10-25T08:35:00+00:00"
+ "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): 17 sources opened (all free access), one paywalled candidate rejected; coverage matrix v2 (breadth repair per advisor round 1: topic families per dimension, Maitland FAP relabelling, timestamp correction, progression spine, exclusions pending) in ledgers/deg-psychdim.md; scope doc benchmarked and coverage summary added; six-dimension wording fix; advisor re-review pending; Phase 0 pilot stop-gate still blocks module production",
+ "updated": "2026-10-25T08:26:00+00:00"
 }

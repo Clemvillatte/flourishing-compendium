@@ -72,3 +72,12 @@ reference, unique source ids in brackets):
   Flags for strategist: whether EEMM socio-cultural and biophysiological
   levels appear as context material; attentional dimension needs a post-2020
   open review (current anchors 2019/2014).
+- 2026-10-25 worker-pplx-psychdim-1 (round 2): advisor round 1 applied; matrix
+  v2 delivered with per-dimension topic families grounded in the Yale 2026
+  syllabus, OpenStax contents and Noba modules; Maitland Table 1 descriptions
+  relabelled as FAP targets; unsupported opening timestamps corrected; scope
+  doc carries the benchmark and coverage summary. Advisor re-review pending;
+  Phase 0 pilot stop-gate still blocks module production. Flags for
+  strategist: EEMM socio-cultural and biophysiological levels as context
+  material (owner decision); attentional and other dimension gaps on the
+  ledger's gap register.
