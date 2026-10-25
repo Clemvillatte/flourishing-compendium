@@ -172,8 +172,23 @@ gorilla demonstration (about half of viewers counting passes miss the
 person in the gorilla suit), and change blindness (Dan Simons's work,
 including the door study in which people do not notice the
 experimenter being switched). This serves the M4 attentional row
-directly. Status for the chapter-5 segment: verified-video; the
-remaining segments are candidates until their transcripts are read.
+directly. Chapter 4 (00:18:06 to 00:39:15) was then read in full as
+well: Bloom frames perception, attention and memory as one story, argues
+that successful perception involves educated unconscious guesses
+(inferring a three-dimensional world from the two-dimensional retinal
+array), and presents the evidence: color and brightness constancy
+(factoring out illumination, the shadow demonstration), the Gestalt
+object-segmentation principles (proximity, similarity, closure, good
+continuation, common movement, good form) with illusory-contour figures
+(Kanizsa triangle and square), the depth cues (binocular disparity,
+interposition, relative size, texture gradient, linear perspective) and
+the illusions that expose them (Mueller-Lyer, Ponzo, Shepard tables),
+closing with the claim that we are often wrong about our own
+experiences, including flashbular memories of September 11 studied
+prospectively and often wrong a year or two later. This serves the M3
+cognitive row (perception as inference). Status for the chapter-4 and
+chapter-5 segments: verified-video; the remaining segments are
+candidates until their transcripts are read.
 
 Additional inspection (2026-10-25, batch 14): lecture 14 (What Motivates
 Us: Sex, 52:47) had its chapter outline recorded (Addressing Morality and
@@ -300,6 +315,7 @@ blocking gaps on the register, not quiet omissions.
 | affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
 | cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
 | cognitive | Language (elective: psycholinguistics is a distinct field with its own curricula; the Yale syllabus covers it in one introductory class and the OYC lecture 7 candidate covers it at introductory level) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M3 | optional OYC lecture 7 segment | optional | not assessed unless elected |
+| cognitive | Perception as educated unconscious inference: constancy, Gestalt segmentation, depth cues and illusions (essential: the standard introductory treatment of perception, grounded in a verified lecture segment) | verified OYC lecture 7 chapter 4 (00:18:06 to 00:39:15) | M3 | lecture segment with illusions demonstrated | explain one illusion by its depth cue | explanation rubric |
 | self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
 | cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
 | cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
