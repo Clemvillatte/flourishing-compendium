@@ -487,7 +487,10 @@ Block A, fcAcademyData records for deg-philosophy modules.
   lectures at the University of Girona, published by Harvard University Press in
   2021, covering morality and prudence, reason and sentiment, moral progress,
   sympathy and human rights, and justice as a larger loyalty, with discussion.
-- Relevant segment: pending the owner's reconciliation above.
+- Relevant segment: pending the owner's reconciliation above. Pointer: Part 1 (the
+  first eight lectures, 9:32:40) exists as a separate upload on the same channel at
+  https://www.youtube.com/watch?v=-k-IUoEAHpg (per the uploader's own series
+  framing found via the Richard Rorty Society announcement of the lecture videos).
 - Verification status: verified-video, with the duration mismatch flagged.
 
 ### M01-P18: Whitehead's Process and Reality, Part I, The Speculative Scheme
