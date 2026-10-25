@@ -153,6 +153,26 @@ The disagreement turns on the direction of the fundamental tendency, and the two
 
 I lean toward Frankl's reading of the attainment, resting on the passages themselves: his sentence says the striving defeats the aim, and Maslow's own satisfaction condition, doing what one is fitted for, already puts the work in the foreground rather than the self. But the two papers do not settle whether these are rival accounts of one tendency or two tendencies sharing a word, and Maslow's hedges leave room for Frankl's reading inside his own text.
 
+### Does the work rise from the maker's wishes, or answer a meaning?
+
+Freud's account of the creative writer puts the maker's own wish at the source of the work:
+
+> "A strong experience in the present awakens in the creative writer a memory of an earlier experience (usually belonging to his childhood) from which there now proceeds a wish which finds its fulfilment in the creative work." ([Freud, "Creative Writers and Day-Dreaming", 1908](http://garrygillard.net/freud/1908e.html))
+
+> "The writer softens the character of his egoistic day-dreams by altering and disguising it" ([Freud, "Creative Writers and Day-Dreaming", 1908](http://garrygillard.net/freud/1908e.html))
+
+On this account the work is the writer's day-dream in disguise: the wish is egoistic, and the making disguises it well enough that others can take pleasure in it too.
+
+Frankl built logotherapy against exactly this direction of explanation, and he names the pleasure principle as the target:
+
+> "That is why I speak of a will to meaning in contrast to the pleasure principle" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
+
+> "Man's search for meaning is the primary motivation in his life and not a 'secondary rationalization' of instinctual drives." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
+
+The disagreement turns on the direction of the explanation, and the two sides state it directly. Freud affirms the wish as the source of the work: the making proceeds from the writer's wish and fulfils it. Frankl denies that meaning is a rationalization of drives and affirms the search for meaning as the primary motivation, drawn from a meaning in the world rather than pushed by a wish in the maker.
+
+I lean toward Frankl, because his account leaves the maker something to answer, and because Freud's own sentence locates the fulfilment in the writer's private wish. But Freud's account is offered for a kind of work, the day-dream-like work, and the sources do not settle how much of any maker's work is one or the other.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the direction of the energy: consuming without contributing, waiting to feel like making before making, making only for display, or treating the finished thing as the only point, so that the maker is left out of the account. The adaptive direction is making that is small, regular, connected to someone beyond the maker, and allowed to be imperfect.

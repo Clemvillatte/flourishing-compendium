@@ -546,3 +546,62 @@ polish. All corrections applied this pass:
 Checks this pass: dossier_check.py exit 0 (52 card links, 17 headers, 20
 external carriers); dossier_quote_verify.py 24 quotes checked, 3 NOT
 FOUND, all three the known bot-blocked carriers (see item 3).
+
+### Pass 9 round-6 third divergence (worker-pplx-dos31-1025g, 2026-10-25)
+
+Third disagreement heading added: "Does the work rise from the maker's
+wishes, or answer a meaning?" (Freud-vs-Frankl on the direction of the
+explanation). Built from carriers opened and matched raw this pass:
+
+- Freud side, carrier OPENED THIS PASS (raw HTML fetched and grepped, no
+  LLM extraction for matching): http://garrygillard.net/freud/1908e.html
+  (Freud, "Creative Writers and Day-Dreaming," 1908; Strachey
+  translation web reprint, SE 9:143-50 excerpts). Two quotations matched
+  verbatim against the raw page text: "A strong experience in the present
+  awakens in the creative writer a memory of an earlier experience
+  (usually belonging to his childhood) from which there now proceeds a
+  wish which finds its fulfilment in the creative work." and "The writer
+  softens the character of his egoistic day-dreams by altering and
+  disguising it" (excerpt ending mid-sentence before ", and he bribes
+  us by the purely formal—that is, æsthetic—yield of pleasure"; the
+  carrier's ligature spelling "æsthetic" is why the quotation stops where
+  it does — a normally-spelled "aesthetic" could not be matched against
+  the carrier's normalized text). Carrier note: this is an excerpt page
+  of the essay, not the full text; both quotations are on it, and the
+  ledger records the carrier as such.
+- Frankl side, carrier RE-OPENED THIS PASS (the antilogicalism PDF,
+  pdftotext grepped): "That is why I speak of a will to meaning in
+  contrast to the pleasure principle" and "Man's search for meaning is
+  the primary motivation in his life and not a 'secondary
+  rationalization' of instinctual drives." — the second quotation
+  renders the book's inner double quotes as single quotes in the
+  manuscript (nesting typography; the wording is verbatim and the
+  automatic matcher normalizes quote marks, so the match is exact).
+- Demonstrated opposition, stated for the record: proposition — is the
+  motive of the creative work the maker's own wish, drive-derived?
+  Freud affirms it: the work proceeds from the writer's wish and
+  fulfils it, the day-dreams being egoistic. Frankl denies it: the
+  search for meaning is the primary motivation, not a secondary
+  rationalization of instinctual drives, and he names the pleasure
+  principle as the explicit target of the will to meaning. One opened
+  passage affirms the proposition, the other denies it: demonstrated.
+- Faithfulness note: Freud's essay is offered by Freud for a kind of
+  work (the day-dream-like work, per his own framing), and the dossier's
+  first-person lean carries that limit rather than refuting Freud
+  wholesale.
+
+Checks this pass: dossier_check.py exit 0 (52 card links, 18 headers, 24
+external carriers); dossier_quote_verify.py 30 quotes checked, 3 NOT
+FOUND, all three the known bot-blocked carriers with the standing
+verification distinction recorded in the round-5 entry (Conner
+inherited; Jones and McAdams reconfirmed this session via fetch-tool
+extraction).
+
+Section state after round 6: three headings under "## Where the
+traditions genuinely disagree" — one candidate comparison
+(Frankl-Nietzsche, marked as such in the text), two demonstrated
+disagreements (Maslow-Frankl on the direction of the tendency;
+Freud-Frankl on the direction of the explanation). The model's
+three-to-five heading requirement is met; the round-5 flag about
+manufactured opposition is closed by two genuinely demonstrated
+divergences, not by count-filling.
