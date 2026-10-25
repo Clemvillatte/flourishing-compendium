@@ -10,11 +10,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Allostatic load is Bruce McEwen's term for the cumulative wear the body takes when stress-mediating systems stay chronically over- or under-active. McEwen's 1998 New England Journal of Medicine review defines it, building on allostasis, "the ability to achieve stability through change".
 
-> "The price of this accommodation to stress can be allostatic load, which is the wear and tear that results from chronic overactivity or underactivity of allostatic systems." (McEwen, [Protective and Damaging Effects of Stress Mediators, NEJM 338:171-179, 1998](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf))
+> "Through allostasis, the autonomic nervous system, the hypothalamic–pituitary–adrenal (HPA) axis, and the cardiovascular, metabolic, and immune systems protect the body by responding to internal and external stress. The price of this accommodation to stress can be allostatic load, which is the wear and tear that results from chronic overactivity or underactivity of allostatic systems." (McEwen, [Protective and Damaging Effects of Stress Mediators, NEJM 338:171-179, 1998](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf))
 
 ### Adaptive then harmful
 
 The review's two-sided point is stated directly: the autonomic, HPA-axis, cardiovascular, metabolic and immune systems "protect the body by responding to internal and external stress", and the same chronic activation accumulates damage. It names four situations that produce allostatic load, the first being frequent stress, and notes overexposure to stress hormones "over weeks, months, or years".
+
+> "Four situations are associated with allostatic load (Fig. 3). The first and most obvious is frequent stress. For example, surges in blood pressure can trigger myocardial infarction in susceptible persons, and in primates repeated elevations of blood pressure over periods of weeks and months accelerate atherosclerosis, thereby increasing the risk of myocardial infarction." (McEwen, [Protective and Damaging Effects of Stress Mediators, NEJM 338:171-179, 1998](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf))
+
+The remaining three are: lack of adaptation to repeated stressors of the same type, resulting in prolonged exposure to stress hormones; an inability to shut off allostatic responses after a stress is terminated; and inadequate responses by some allostatic systems, which trigger compensatory increases in others ([McEwen, 1998](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf)). The load is therefore not the stress itself but the system's handling of it, which is why the same stressor can produce wear in one person and not in another.
 
 ### Here
 
