@@ -1960,3 +1960,13 @@ The advisor's final verification caught overstated records in this session's QC 
   the idea or conviction..."; "this inferiority of a man to himself
   is merely ignorance...") verified verbatim against the
   standardebooks Jowett carrier. No edits required.
+
+# Supervisor QC entry 45 — 2026-10-25 05:31Z (supervisor-pplx-1025h)
+
+- sadness-and-grief dossier: QC sample — both APA depression-page
+  spans ("In grief, painful feelings come in waves, often intermixed
+  with positive memories of the deceased..."; "In grief, self-esteem
+  is usually maintained...") verified verbatim against the
+  psychiatry.org carrier (the same page family as the
+  transient-outage uwosh carrier flagged earlier — live and
+  verbatim). No edits required.
