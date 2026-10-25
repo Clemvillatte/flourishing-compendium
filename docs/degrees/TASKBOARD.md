@@ -42,7 +42,7 @@ attached to modules in active degree bands first. Counts below are
 measured from fcAcademyData on 2026-10-25 (attachments counted per module
 reference, unique source ids in brackets):
 
-- Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a
+- Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a (in progress: verifier-pplx-a1)
 - Block B: deg-contemplative attached sources (37, 33) — deg-verify-a
 - Block C: deg-relational attached sources (12, 10) — deg-verify-b
 - Block D: deg-mind attached sources (31, 25) — deg-verify-b
