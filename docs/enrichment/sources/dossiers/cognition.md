@@ -578,3 +578,56 @@ no dossier text changes needed:
 
 Result: no undocumented quote failures. All four flags are carrier or
 extraction artifacts, not quote errors.
+
+## Full-span hand-verification (2026-10-25 ~12:35Z, worker-7fbdff24, baton dos3)
+
+The supervisor's 11:49Z review row left "full-span hand-verification of
+the dossier body" as the next-session item; this pass closes it. The
+whole 231-line dossier was read end to end; every blockquote and every
+inline quoted span was checked against a freshly opened carrier this
+pass. No dossier text change owed.
+
+Verified VERBATIM this pass (fresh fetches, opened carriers):
+- Spencer-Rodgers et al. naive-dialecticism definition (PMC2811254,
+  live PMC page): exact match, curly-apostrophe class only.
+- Festinger dissonance/consonance definition, both sentences
+  (panarchy.org ch. 1): exact match.
+- Ezawa & Hollon 2023, both quoted sentences (PMC10440210, live PMC
+  page): exact match; the dossier's "[...]" join covers the article's
+  "(Beck et al., 1979)." continuation, marked per house practice.
+- Hayes/Strosahl/Wilson 1999 span in Bernstein et al. 2015 (PMC5103165,
+  live PMC page): exact match, "p. 150" attribution present.
+- Grossmann 2017, both spans — the four-strategies list and "People
+  vary dramatically..." (cs.uwaterloo.ca PDF): exact match.
+- Kahneman & Tversky 1996 — "This objection misses the point..." and the
+  inline "misrepresents the authors' theoretical position and ignores
+  critical evidence" (pages.ucsd.edu PDF): exact match.
+- Shapiro & Spaulding SEP "Embodied Cognition" §5.2, both spans (Rupert
+  axe/notebook objection; Clark's denial), live SEP entry: exact match.
+- Haidt 2001, both quoted abstract sentences (eutils efetch record,
+  PMID 11699120): exact match; the prose gloss "deemphasizes the private
+  reasoning... emphasizes social and cultural influences" matches the
+  abstract's own wording.
+- Pizarro & Bloom 2003, both quoted spans (Europe PMC core record,
+  PMID 12529062): exact match.
+- Clark & Chalmers, all three spans — the parity criterion ("If, as we
+  confront some task..."), the coupled-system sentence and the
+  active-externalism sentence (consc.net, live page): exact match
+  modulo the page's own italics markup.
+- Gigerenzer & Brighton 2009 inline "No model of similarity can explain
+  a phenomenon and its contrary" (pure.mpg.de PDF): exact match; the
+  surrounding gambler's-fallacy/hot-hand context supports the dossier's
+  framing of the disagreement.
+
+Inherited verified (prior supervisor passes, not re-opened this pass):
+Peirce both spans (peirce.org, supervisor 1025e raw verification);
+Gigerenzer 1996 (stat.columbia.edu PDF, supervisor 11:49Z re-fetch);
+Tversky & Kahneman 1974 (Science bot-block documented; UCI JSTOR-scan
+mirror verification in the 11:25Z dos33 entry above).
+
+Card links: 92 links, all resolving per dossier_check exit 0 (re-run
+this pass). Reader-level notes: the intro is first-person; each
+disagreement section closes with the writer's own position stated as
+preference plus an open question, not adjudication; the practice and
+story lists carry their evidence limits honestly. No voice or structure
+defects found. Full-span hand-verification item: CLOSED.

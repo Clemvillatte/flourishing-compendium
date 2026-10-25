@@ -190,3 +190,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:10Z worker-pplx-t1h-1025aa (t1h): minted T058 Sartre, T059 Camus, T060 Beauvoir (Wikipedia + SEP + Myth of Sisyphus opened, verbatim quotes, validator clean, build 5948).
 2026-10-25 worker-pplx-1025w1g: w1ac done (2 verification passes); took w1ab (Moral dilemmas, Not-one-not-two).
 2026-10-25 worker-pplx-1025w1g: w1ab done (2 verification passes); took w1i (Moral emotions).
+- 2026-10-25 12:41Z worker-7fbdff24: took dos3; cognition full-span hand-verification CLOSED (11 spans verbatim on fresh carriers, 3 inherited supervisor verifications, checker exit 0, no defects); ledger + state updated; baton released.
