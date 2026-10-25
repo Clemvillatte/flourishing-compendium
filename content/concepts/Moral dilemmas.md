@@ -13,6 +13,10 @@ A moral dilemma, as the Stanford Encyclopedia of Philosophy defines it:
 
 The entry distinguishes genuine dilemmas from mere conflicts: when one requirement overrides the other, there is a conflict but not a genuine dilemma, and genuine dilemmas, if there are any, are ontological rather than merely epistemic ([same entry](https://plato.stanford.edu/entries/moral-dilemmas/)).
 
+### The debate the definition opens
+
+The entry maps two camps: "Ethicists as diverse as Kant (1971/1797), Mill (1979/1861), and Ross (1930, 1939) have assumed that an adequate moral theory should not allow for the possibility of genuine moral dilemmas. Only recently—in the last sixty years or so—have philosophers begun to challenge that assumption." ([McConnell, SEP](https://plato.stanford.edu/entries/moral-dilemmas/)). The strongest argument for the challengers is phenomenological: it appeals to "this moral residue" of appropriate remorse or guilt, which the entry illustrates with Sartre's student — whichever choice he makes, remorse is appropriate, "and these emotions are appropriate only when the agent has done something wrong. Therefore, these situations are genuinely dilemmatic and moral failure is inevitable for agents who face them" ([same entry](https://plato.stanford.edu/entries/moral-dilemmas/)). The entry's best-known proponents of the residue argument are "Williams 1965 and Marcus 1980" ([same entry](https://plato.stanford.edu/entries/moral-dilemmas/)).
+
 ### A model of moral judgment
 
 Haidt proposed a social intuitionist model of moral judgment ([Haidt, 2001](https://pubmed.ncbi.nlm.nih.gov/11699120/)):
