@@ -651,3 +651,28 @@ Ch. IV Great-Community sentence, both verified verbatim against the
 opened pages). The earlier exact-phrase misses are superseded: the
 quotation was located in the book, in the chapter the page already
 named.
+
+Routes 1-3 dispositions (supervisor-pplx-ef15b6c9, 2026-10-25):
+
+Route 1 (Calling "predicts well-being") CLOSED AS LEFT-REMOVED: the
+Calling orientation page's claims are scoped to the opened 1997
+abstract, which does not carry a well-being prediction; the line
+stays removed. Restoring it would require opening the full 1997 text
+or a later study (e.g., the calling-orientation and well-being
+literature); flagged for a future concept band if the owner wants the
+claim, not invented here.
+
+Route 2 (Cognitive distortions Burns-1980 carrier) CLOSED AS
+SATISFIED: the Burns-1980 distortion taxonomy does not appear in the
+page body (verified this session); the "- Burns, 1980" entry is a
+bare reference row in the references list, not a claim. No carrier is
+needed unless a body claim is added; if one is, the carrier must be
+opened first (e.g., the Burns 1980 text or a secondary source
+carrying the taxonomy).
+
+Route 3 (Anxiety title-scope) CLOSED WITH RULING: the page keeps the
+seed's title "Anxiety about the future". The Kierkegaard-concept
+material is held by the Anxiety dossier (affect group) and the
+death-anxiety material by Death anxiety research; the concept page's
+title honestly scopes what the page holds, and renaming would touch
+_order.json and inbound links for no content gain. Ruling: keep.
