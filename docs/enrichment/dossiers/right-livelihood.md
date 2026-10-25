@@ -112,6 +112,20 @@ Pieper calls that outlook an inversion and sets Aristotle's "We work in order to
 
 I lean with Pieper here. A livelihood is one of the places a life's hours go, and the hours are for something; I want a livelihood to leave room for things worth doing for their own sake.
 
+### Must the follower of the path let go of property?
+
+The shared question: does the training itself require giving up wealth? The Buddha's rule for his monks answers yes, and it is absolute:
+
+> "NP 18 forbids a bhikkhu from accepting gifts of money, from getting others to accept them, and from consenting to gifts of money meant for him being placed down next to him." ([Thanissaro, Buddhist Monastic Code I](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/lib/modern/thanissaro/bmc1/ch07-1.html))
+
+> "There are people of conviction and confidence, bhikkhus, who place gold and silver in the hand of stewards, saying 'Give the master whatever is allowable.' I allow that whatever is allowable coming from that be accepted. But in no way at all do I say that money is to be accepted or sought for." (same source)
+
+The Buddha's advice to the householder Sigala answers no:
+
+> "With wealth acquired this way, a layman fit for household life, in portions four divides his wealth: thus will he friendship win. One portion for his wants he uses, two portions on his business spends, the fourth for times of need he keeps." ([Sigalovada Sutta, DN 31, Narada translation](https://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html))
+
+The two passages answer the same question with opposite rules, and both are the Buddha's own. The monk may not so much consent to money set down beside him; the householder is told to keep a quarter for emergencies and put half back into the business. The rule of the order draws the line at ownership itself: not "use wealth well" but "do not touch it." The advice to the lay follower draws the line at use: wealth is to be earned, divided, invested and enjoyed as the material of a responsible life. What remains unresolved is whether the two answers describe one path with two stations — renunciation as the monk's vocation, stewardship as the layperson's — or two paths with different demands; the texts do not force the choice.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the drift into work that is only endured: the trade chosen for its wage and never revisited, the burnout read as a personal failing rather than a failed exchange, the rest postponed until it collapses into illness, and the having-mode relation to work in which the job is a possession to be guarded rather than a use of the person's faculties. The adaptive direction is the periodic revisiting of the livelihood against the floor and the growth standard: does the trade do harm, and does the work still grow the person doing it, with rest kept inside the rhythm rather than deferred.
