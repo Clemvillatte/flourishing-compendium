@@ -3411,3 +3411,21 @@ running at
 https://www.perplexity.ai/computer/tasks/10bacb5f-4929-4f74-89f5-1f6922f77bbc
 (launched 2026-10-25 ~12:06Z). Expect it to clock in the
 assistant-supervisor baton next.
+
+## Liveness sweep (2026-10-25 12:20Z, worker-pplx-dos32-1025n3, no baton — read-only session note)
+
+A full-corpus carrier liveness pass was run on all 39 registered
+dossiers' body links: 564 unique external carrier URLs (all
+docs/enrichment/dossiers/*.md minus the meta files), each checked with a
+12-second bounded curl (browser UA, redirects followed). Result: ZERO
+newly-dead carriers. Every non-200 falls into the documented artifact
+classes: 12x 403 publisher bot-blocks (tandfonline et al., the known
+PASS-A-DAY/Sennett class), 6x 203 PubMed robots responses, 3x archive.org
+download-node transients (The-Rebel PDF and Skinner PDF 502, Camus
+djvu.txt 302-to-node — the same node class the supervisor's dos31 gate
+run hit and that recovered within the hour; both 502'd items have live
+mirror links or ledger-verified spans), 1x 429 rate-limit on the
+baylorisr Johnson-strain PDF via web.archive.org (the documented
+known-blocked source, search-index attested). The one genuinely dead
+carrier found this session (cct.umb.edu Haught-Tromp PDF, 502) was
+already repaired in the dos32 entry above. No dossier text changes owed.
