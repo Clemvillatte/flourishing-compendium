@@ -28,3 +28,12 @@ unpublished ones are 031, 032, 042, 043 (036 was later found published as ST489 
 All 26 s1a-origin published pages pass `--context published` except ST432 (1 word over
 cap) and ST184 (upgrade body below the word floor, no Sources URL) — both routed in
 ROUTE.md for supervisor repair.
+
+## End-to-end review s1a-032 (2026-10-25, same teller)
+
+Quotes: the clinical-description span and the caravan-fire/recovery sentences verified
+verbatim against the live University of Michigan Press chapter PDF (Givan 2010);
+the source's own caveat ("the view of some authors that two of his digits were
+'useless' or 'paralyzed' is misleading") is handled in the draft's ledger. Principle
+P192 has no story backlinks (zero-story); no existing page tells the Django story
+(entity sweep clean). VERDICT: clean, ready for registration as-is.
