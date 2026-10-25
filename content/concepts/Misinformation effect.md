@@ -19,6 +19,8 @@ Loftus's abstract lists the questions the field has worked through: the conditio
 
 - [[CO055 — Know that memories can be implanted — confidence is not accuracy]] lists this topic as a psychology parallel.
 
+The practical reading of the effect is that a memory is not a recording but something that can be revised after the fact, and that confidence in a memory is not evidence about where it came from. A person applying the concept treats strong recollections, especially ones that fit a story someone is telling, as things worth checking against what was actually recorded.
+
 ## Related concepts
 
 - [[False memory implantation (Loftus)]] — the rich-false-memory line the 2005 review ends with
