@@ -1313,9 +1313,13 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   2026-10-25. Session of 7 April 2022 from a Thursday series (7, 14, 21,
   28 April).
 - Duration: 1:03:26 (watch page, 2026-10-25).
-- Instructor credentials: Dr. K. S. Balasubramanian, described as an
-  award-winning international scholar, author and professor (per the
-  uploader description; institutional page not opened this session).
+- Instructor credentials: Dr. K. S. Balasubramanian, award-winning
+  international scholar, author and professor; Deputy Director of the
+  Kuppuswamy Sastri Research Institute, Chennai (per the WWU Foundation
+  event page for this very series, opened 2026-10-25,
+  https://foundation.wwu.edu/event/yoga-sutra-lecture-series, which also
+  confirms the series ran on Zoom, free of charge, Thursdays 7-8pm PT in
+  April 2022).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Patanjali's
   Yoga Sutra as Sanskrit aphorisms guiding self-knowledge; its eight-part

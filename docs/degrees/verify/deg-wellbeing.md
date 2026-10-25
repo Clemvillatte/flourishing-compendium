@@ -614,9 +614,14 @@ standard.
   2026-10-25. Sixth day of Tsinghua University's Global Summer School
   (GSS) 2020, one of 13 GSS open lectures.
 - Duration: 46:25 (watch page, 2026-10-25).
-- Instructor credentials: Professor Peng Kaiping, dean of Tsinghua
-  University's School of Social Sciences (per the host description;
-  institutional page not opened this session).
+- Instructor credentials: Professor Peng Kaiping, Professor and
+  doctoral supervisor, Department of Psychological and Cognitive
+  Sciences, Tsinghua University; former Dean of Tsinghua's School of
+  Social Sciences and inaugural Dean of its re-established Psychology
+  Department; formerly a tenured faculty member at UC Berkeley
+  (Tsinghua faculty page opened 2026-10-25,
+  https://www.pcs.tsinghua.edu.cn/xlxen/info/1008/1346.htm; the dean
+  title at lecture time, 2020, per the host description).
 - Language: English.
 - Content coverage (host description, read 2026-10-25): his experience
   with positive psychology for optimizing pandemic responses, toward a
