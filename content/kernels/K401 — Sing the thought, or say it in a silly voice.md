@@ -41,7 +41,7 @@ The caution against invalidating use, in the same document:
 A dissertation carrying Blackledge's framework describes the technique class:
 
 > "There are many ways to do this, including saying a thought out loud very slowly or very quickly, watching thoughts come and go from an observer perspective, singing the thoughts out loud to a favorite tune, and many more."
-> — [Moustafa (BYU dissertation), citing Blackledge 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7834&context=etd)
+> — [Maisel (BYU dissertation), citing Blackledge 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7834&context=etd)
 
 The definitional claim defusion rests on:
 
@@ -77,5 +77,5 @@ The exercise is spoken or sung by the practicer; no recording is needed.
 
 - [Blackledge, J. T. (2015). *Cognitive Defusion in Practice: A Clinician's Guide to Assessing, Observing, and Supporting Change in Your Client*. New Harbinger, ch. 7 (Changing Language Parameters) — published 2015, not 2017]
 - [Harris, R., "Mindfulness without meditation", Healthcare Counselling and Psychotherapy Journal, Oct 2009, PDF](https://www.actmindfully.com.au/upimages/Mindfulness_without_meditation_--_Russ_Harris_--_HCPJ_Oct_09.pdf)
-- [Moustafa (BYU dissertation), citing Blackledge 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7834&context=etd)
+- [Maisel, M. E. (BYU dissertation), citing Blackledge 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7834&context=etd)
 - [Common Language Psychotherapy, "Cognitive defusion"](https://www.commonlanguagepsychotherapy.org/assets/accepted_procedures/cognitivedefusion.pdf)
