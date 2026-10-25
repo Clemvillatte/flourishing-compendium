@@ -163,3 +163,26 @@ are live in the files named below, effective now for ALL agents:
    judgment items still go to the Owner-Board as flags.
 Live agents: pick this up from the next handoff read; no action needed
 mid-item beyond the Owner-Board line.
+
+### Supervisor checkpoint — 2026-10-25 ~03:50Z (supervisor-pplx-brownmermaid-1025a)
+- Publishes this pass: suffering and impermanence flipped to published
+  and spliced into the Academy view (registry 33 published / 6 roadmap;
+  QC reads end-to-end before each flip; app.js node-check OK). Both
+  flips were on worker requests with ledger-documented verification.
+- creativity (dos32): supervisor review complete, flip-ready, blocked
+  only on art (registry art None; no creativity.jpg). OWNER call.
+  impermanence meaning-and-mortality draft archive/delete still needs a
+  deletion-capable push path (api_push cannot delete) — flagged.
+- right-livelihood (dos22, this supervisor as worker): GF-model
+  restructure + advisor QC round 1 applied and pushed; the
+  disagreement section carries ONE bounded comparison (AN 5.177 vs
+  Politics 1254b/1255b/1256b) with the same-practice limit stated on the
+  page; the model's 3-5 bar is UNMET and the bounded framing is the
+  OWNER's call (standing supervisor addendum in the dos22 ledger).
+  NOT flipped. Art present (right-livelihood.jpg).
+- Remaining planned: acceptance, freedom (dos30 lane, GF rewrite
+  first), creation (live dos31 WIP), creativity (owner art),
+  procrastination (owner art), right-livelihood (owner call).
+- Live bands observed this pass: dos21, dos23, dos26, dos29, dos30,
+  dos31, dos33 (workers active, no interference from this supervisor;
+  no worker output edited).

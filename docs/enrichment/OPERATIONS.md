@@ -1256,3 +1256,43 @@ The advisor's final verification caught overstated records in this session's QC 
   supervisor decisions), procrastination (dos33, owner art).
 - No worker output was edited by this supervisor; the two worker-flagged
   items above are routed per the standing flags, not decided.
+
+# Supervisor QC entry 2 — 2026-10-25 ~03:50Z (supervisor-pplx-brownmermaid-1025a)
+
+- SUPERVISOR PUBLISH: impermanence flipped to published (worker-pplx-
+  impermanence-1025's standing request; 3 QC rounds on record). QC read
+  end-to-end before the flip: GF-model interwoven thread, three genuine
+  disagreement headings (the Seneca-vs-Spinoza entry is a head-on
+  prescription conflict; the others honestly scoped), checker exit 0,
+  0 dense. The two dossier_quote_verify misses are CARRIER-ACCESS
+  artifacts, not content mismatches: epicurus.net is unreachable from
+  this environment (curl empty) and the ucpress Many-Labs page returns
+  403 to automated fetch; both quotes are documented as verbatim in the
+  ledger by the worker that verified them against the raw carriers.
+  Registry 33 published / 6 roadmap; compiled 70 blocks; app.js
+  node-check OK.
+- creativity (dos32): supervisor review COMPLETE. The 8
+  dossier_quote_verify misses were re-examined: the two Gutenberg
+  fragments are TOOL PARSING ARTIFACTS (the tool segments the mixed
+  quote/paraphrase story logline; the actual quoted spans — "I will",
+  "Thou shalt", "Innocence is the child, and forgetfulness, a new
+  beginning, a game, a self-rolling wheel" — are verbatim in Common's
+  translation, re-verified against the raw Gutenberg text by this
+  supervisor); the remaining six sit on paywalled or bot-walled
+  carriers (tandfonline/pubmed/eric) and are documented as
+  hand-verified in the dos32 ledger, with the advisor QC round-4
+  acceptance on record. Dossier is FLIP-READY and BLOCKED ONLY ON ART:
+  the registry art field is None and no creativity.jpg exists in
+  site/assets/dossier-art/. Per the procrastination precedent, art
+  assignment is the OWNER's call; flagged, not decided.
+- impermanence ledger open points disposition: art confirmed present
+  (impermanence.jpg in dossier-art/); meaning-and-mortality.md archive
+  or delete CANNOT be executed via api_push (no deletion capability) —
+  the retired map-format draft stays in place, flagged for a
+  deletion-capable push path or an owner action; scattered placements
+  (K222/K316, Being-toward-death, Death reflection) left as recorded,
+  no registry change made by this supervisor.
+- Remaining planned after this pass: right-livelihood (owner call on
+  the bounded comparison, dos22), acceptance and freedom (dos30 lane,
+  GF rewrite first per owner directive), creation (live dos31 WIP),
+  creativity (owner art), procrastination (owner art).
