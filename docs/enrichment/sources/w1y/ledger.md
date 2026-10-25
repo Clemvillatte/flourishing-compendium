@@ -202,3 +202,68 @@ Fast-track enrichment.
   Ekman's 1992 criteria as cited in this 1993 paper and the
   Wikiversity summary of Ekman 1992 Table 1.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-25 (UTC): Adaptive planning (worker-pplx-w1y-1025f)
+
+New concept card (dos13 flag disposition, PROTOCOL.md §182 new_concepts rule).
+
+- Item: content/concepts/Adaptive planning.md (new file, no baseline).
+  Trigger: dos13 worker flagged the existing "Plan-then-adapt strategies
+  outperform rigid plans" page as a normative comparative claim with no
+  carrier (24-word stub); supervisor disposition offered (a) rename and
+  rewrite as a proper concept grounded in an opened source, or (b) retire
+  the page. This session created the replacement card under option (a);
+  the old stub was left UNTOUCHED pending supervisor/owner decision on
+  retirement or redirect. No link migration was attempted. ST019 and
+  AF019 remain cited on the old stub only; their substantive relevance
+  to the new card is not assessed this session and is left to a
+  supervisor review of the replacement.
+- Opened sources: (1) Masicampo and Baumeister 2012, "When making a
+  specific plan for a goal hinders its pursuit", Social Cognition 30(4),
+  author-hosted PDF at Wake Forest University, fetched and read in full
+  (abstract). Verbatim quote: "participants failed to capitalize on an
+  alternative opportunity for achieving the goal" (abstract). (2) Klein
+  2007 Flexecution Part 1 record at SciSpace (fetched; quotes verified
+  against record text). (3) Springer ch.15 Kwakkel & Haasnoot 2019
+  DMDU: the Springer page itself was crawler-blocked (bad_robots_code);
+  quotes were verified against search-engine snippets of the Springer
+  chapter text and of the Springer PDF, which show the exact wording,
+  and cross-checked against the published locator in Kwakkel & Haasnoot
+  2019 (T&F citation gives p. 358 for the "plans are designed" quote;
+  Springer's own front matter for ch. 15 starts at p. 359). Access
+  method recorded as search-snippet verification, NOT a full fetch of
+  the Springer chapter; supervisor should treat the locator (p. 359 vs
+  p. 358) as a minor uncertainty to resolve on first full access.
+- Verbatim blockquotes on page: "Adaptive planning means that plans are
+  designed from the outset to be adapted over time in response to how
+  the future may actually unfold." (Kwakkel & Haasnoot 2019); "The way
+  a plan is designed to adapt in the face of potential changes in
+  conditions is announced simultaneously with the plan itself rather
+  than taking place in an ad hoc manner post facto." (same); "The
+  timing of plan adaptation is not known a priori; it depends on how
+  the future unfolds." (same); "adaptive planning differs from planned
+  adaptation... where changes generally occur at predetermined moments
+  (e.g., every 5 years)" (same); "participants failed to capitalize on
+  an alternative opportunity for achieving the goal" (Masicampo &
+  Baumeister 2012); "widely understood to be the exception to the rule"
+  and "in complex reasoning and problem solving, people clarify and
+  adapt their goals while pursuing them" (Klein 2007 as reported in
+  the Klein & Lippert AAAI review, which was crawler-blocked; the
+  "as reported in" framing is used deliberately); "entails changing
+  the goals themselves based on discoveries made during execution"
+  (Klein 2007 abstract via SciSpace record).
+- Synthesis: all prose sections state only what the opened sources
+  support. The identity-commitment/instrument contrast and the
+  cheap-versus-expensive flexibility advice were removed after
+  advisor QC round 1 (unsupported psychological claims); the Flexecution
+  section is retained but framed as Klein's observation, NOT as the
+  mechanistic account of adaptive planning (the AAAI review explicitly
+  distinguishes Flexecution from adaptive planning because goals
+  themselves change).
+- Validation: enrich_validate.py 1 checked, 0 failed (470 prose words,
+  within 150-480). Build passes (5944 entries).
+- QC: advisor rounds 1 and 2 applied; round-2 open items (drop
+  "wisdom infrastructure" phrasing, tighten the planned-adaptation
+  contrast, precise Masicampo phrasing) were NOT applied before the
+  current push and are tracked in the flagged note for the next
+  supervisor pass.
