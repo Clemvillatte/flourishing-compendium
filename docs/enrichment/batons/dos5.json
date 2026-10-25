@@ -1,7 +1,7 @@
 {
  "baton": "dos5",
- "agent": "worker-pplx-1025i-wis",
- "clocked_in": "2026-10-25T10:37:22+00:00",
+ "agent": "worker-pplx-ef25-launcher",
+ "clocked_in": "2026-10-25T10:42:57+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1024c-dos5",
@@ -44,8 +44,12 @@
    "at": "2026-10-25T10:37:22+00:00",
    "from": "pplx-dos5-1025-0600b",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-ef25-launcher",
+   "at": "2026-10-25T10:42:57+00:00",
+   "from": "worker-pplx-1025i-wis",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T10:39:59+00:00"
+ ]
 }
