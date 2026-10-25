@@ -326,3 +326,26 @@ still blocks module production.
   bot-wall, transcript services failing); Socratic method and the
   examined life remain an essential coverage gap with no module; the
   pre-Socratics exclusion from the scope awaits the strategist's ruling.
+- 2026-10-25 strategist-pplx-1025-launch-c (Gate-1 groundwork for the walk
+  scopes): benchmark sections written into all five remaining WALK OF
+  LIFE scope docs (deg-wol-daoism, deg-wol-buddhism,
+  deg-wol-pragmatism, deg-wol-existentialism, deg-wol-positive), each
+  against three opened authoritative curricula with URLs and evidence in
+  new per-degree ledgers (docs/degrees/ledgers/). Divergences and gaps
+  recorded per degree, not silently: Daoism — religious Daoism excluded
+  under owner rule though two of three anchors teach it; Buddhism —
+  rebirth cosmology excluded though all three anchors teach it, and the
+  school list (Secular, Thai Forest) is not anchor-mirrored; Pragmatism
+  — process thought has no support among the opened anchors (Whitehead
+  anchor should be opened before Gate 1 if the owner wants it
+  verified), Rorty elective against anchor core; Existentialism — the
+  therapy half (Frankl, Yalom, May) is unanchored by these three and
+  needs one opened therapy-anchored syllabus before sign-off;
+  Positive — the criticism emphasis exceeds two of three anchors
+  (anchored by Warwick alone) and flow is a full unit in one anchor
+  (Penn) only. deg-wol-greek was already benchmarked by its owner
+  agent. Also delivered the strategist ruling the Greek scope left
+  open: the pre-Socratics stay excluded (natural philosophy, not
+  guides for living; elective branch if the owner wants them). All
+  Gate-1 sign-offs remain with the degree owner; the strategist holds
+  the groundwork complete for all six walk scopes.

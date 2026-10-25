@@ -29,6 +29,12 @@ Covers:
 Excludes (with reasons):
 - Formal logic; academic metaphysics and epistemology beyond practical needs.
 - Non-Greek traditions (their own walks).
+- The pre-Socratics (strategist ruling, 2026-10-25: the Yale anchor includes
+  them, but the walk reads its thinkers as guides for living; the
+  pre-Socratic fragments are natural-philosophy material without the
+  practical-life instruction the walk is built on. They stay out; the
+  Cynics elective remains the walk's radical alternative. If the owner
+  wants them, the right slot is an elective branch, not core.)
 
 Elective branches:
 - Cynics as a radical elective; Greek political thought where it bears on the lived polity.
