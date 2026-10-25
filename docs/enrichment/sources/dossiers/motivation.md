@@ -96,3 +96,17 @@ doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+Full read of the manuscript. Findings: the opening is direct; the
+nearby-terms section holds boundaries correctly; the two disagreement
+sections handle the rewards-controversy honestly (both meta-analyses
+quoted, the third-party comment cited, the SDT-side preference
+disclosed rather than hidden); the practice and story sections read
+naturally. One defect found and fixed: the Nearby-terms line said
+goal-setting and goal conflict belong to "a planned Goals dossier" —
+stale, the Goals dossier is published in the registry (and already
+cross-references this page); now reads "belong to the Goals
+dossier". No other edits. Checker exit 0 after the edit. Editorial
+review only; no external carriers freshly opened this pass.

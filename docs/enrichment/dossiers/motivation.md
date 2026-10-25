@@ -12,7 +12,7 @@ Desire: held in the last group below, where the traditions disagree on whether t
 
 Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will.
 
-Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
+Goals: goal-setting and goal conflict belong to the Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
 
 ## The map: the entries on motivation
 
