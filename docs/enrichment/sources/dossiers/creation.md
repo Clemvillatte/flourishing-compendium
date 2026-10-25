@@ -1023,3 +1023,44 @@ is complete.
   bot-blocked carriers (Sennett via T&F) unchanged — the Sennett
   span is quoted in the section exactly as verified by eye in the
   earlier pass.
+
+### Advisor QC round 2 — corrections applied (same takeover pass)
+
+- The advisor BLOCKED the first version of both new sections. Its
+  rulings and the repairs:
+  (a) Frankl-vs-Sartre failed the same-question test as first
+  written (Frankl on where meaning is found; Sartre on how a
+  person becomes what they are; the "no human nature" quote did not
+  establish "nothing waiting"). REPAIR, following the advisor's own
+  path: a passage addressing exactly the demanded proposition was
+  located in the already-opened Sartre text and verified verbatim
+  in the raw page: "to say that we invent values means neither
+  more nor less than this; that there is no sense in life a
+  priori. Life is nothing until it is lived; but it is yours to
+  make sense of, and the value of it is nothing else but the sense
+  that you choose." The section now collides on one proposition:
+  is the sense of a life there before it is lived? Frankl:
+  discoverable in the world. Sartre: no sense a priori, the sense
+  is given in living. The "no human nature" quote was replaced;
+  the speculative claims ("opposite answer", "nothing waiting")
+  were removed.
+  (b) Sennett-vs-Marx ruled a SCOPE DIFFERENCE (impulse vs
+  estranged conditions), not a disagreement. REPAIR: the heading
+  and the pairing were MOVED OUT of the disagreement section into
+  the body ("The maker and the made world"), reframed as a
+  complementary comparison per the advisor's suggested wording; the
+  third Marx span (external-labour sentence) was removed from the
+  page (the paragraph summarizes it without quoting), the two
+  remaining spans kept verbatim.
+- The earlier ledger entries' counts are CORRECTED by this note:
+  after this round the page holds ONE demonstrated disagreement
+  (Frankl vs Sartre, repaired) — not two. The Sennett-Marx pair is
+  body material. The 3-5 bar remains UNMET (two more genuine
+  disagreements needed); NOT manufactured.
+- Quote-check accounting: the tool reports 4 not-found spans —
+  three unique documented bot-blocked carriers (Conner DOI, Jones
+  T&F x2 occurrences of the Sennett span, McAdams PMC) plus the
+  duplicate-occurrence counting of the Sennett span (quoted once in
+  the body; the earlier section occurrence was removed with the
+  move). The Sartre and Marx spans are verbatim in their raw
+  pages (marxists.org), fetched and checked this pass.

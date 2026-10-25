@@ -77,6 +77,14 @@ Aristotle gives the maker's competence its shape: [A035 — Cultivate art and cr
 
 Sennett extends the impulse well past skilled manual labour, to programming, medicine and parenting, and holds that in all these domains craftsmanship focuses on objective standards, on the thing itself. I group Zhuangzi's [quiet craftsman's life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20quiet%20craftsman%27s%20life) — Qing's bell-stands look like the work of spirits because his fasting loses thought of reward by the third day, praise by the fifth, and his own body by the seventh — with Weil's [craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention), attention as the trained suspension of one's own thought so the thing or person in front of one can appear, as an editorial comparison: kindred focus, contemplative registers.
 
+Marx's account of making under the wage relation runs against that charter definition, and the pair belongs together as a comparison rather than a disagreement, because the two describe different conditions: on Sennett's account the desire to do a job well belongs to the maker; on Marx's, labour under another's command does not belong to the worker's intrinsic nature, and the thing made stands over against the one who made it:
+
+> "The worker becomes all the poorer the more wealth he produces, the more his production increases in power and size."
+>
+> "This fact expresses merely that the object which labor produces – labor's product – confronts it as something alien, as a power independent of the producer." ([Marx, Estranged Labour, 1844](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm))
+
+The two can both be true: the impulse can be enduring and the conditions estranging, and the passages do not say how much making under command estranges its maker, or only some.
+
 ## What outlasts the maker
 
 Erikson's generativity — the adult concern for guiding and providing for the next generation, set against stagnation — became a measurable research programme. [Generativity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Generativity%20theory) records the arrangement:
@@ -135,13 +143,13 @@ A tension runs through the sources: when a maker finds meaning in the making, is
 
 Frankl locates meaning beyond the self, as something to discover and fulfil. The sentence that precedes the three routes in the book: "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
 
-Sartre gives the opposite answer to the same question, and he gives it about the person rather than about things:
+Sartre answers the same question about the sense of a life, and gives the opposite answer:
 
 > "Man is nothing else but that which he makes of himself."
 >
-> "Thus, there is no human nature, because there is no God to have a conception of it." ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))
+> "to say that we invent values means neither more nor less than this; that there is no sense in life a priori. Life is nothing until it is lived; but it is yours to make sense of, and the value of it is nothing else but the sense that you choose." ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))
 
-On Frankl's account the meaning of a life is waiting in the world and a person answers it; on Sartre's there is nothing waiting, and what a person is, is what they make. The two answers are incompatible on one question: is the meaning of a life found or made. What the passages do not settle is whether the making itself is answerable to anything, and I do not claim they settle it.
+On the question whether the sense of a life is there before it is lived, the two answers are incompatible: for Frankl the meaning of a life is discoverable, waiting in the world; for Sartre there is no sense a priori, and the sense is the one the person gives it in living. What the passages do not settle is whether a made sense can still be answerable to anything beyond the maker, and I do not claim they settle it.
 
 Nietzsche had said created, about things rather than about the self. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
 
@@ -149,23 +157,7 @@ Nietzsche had said created, about things rather than about the self. The signifi
 
 > "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of what a person is, so Frankl can find the meaning of a life while still conferring significance on things. That reading is mine; the sources do not make it. The Sartre passage above is the demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers.
-
-### Does the making belong to the maker, or confront them?
-
-The shared question: when a person makes a thing, does the work realize the maker, or stand over against them? [Craftsmanship research](https://clemvillatte.github.io/flourishing-compendium/#card=Craftsmanship%20research) gives the realization answer, in Sennett's charter definition:
-
-> "Craftsmanship names an enduring, basic human impulse, the desire to do a job well for its own sake." ([Sennett 2008, quoted in Jones et al. 2021](https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1939289))
-
-Marx, writing about making under the wage relation, gives the opposite answer:
-
-> "The worker becomes all the poorer the more wealth he produces, the more his production increases in power and size."
->
-> "This fact expresses merely that the object which labor produces – labor's product – confronts it as something alien, as a power independent of the producer."
->
-> "First, the fact that labor is external to the worker, i.e., it does not belong to his intrinsic nature; that in his work, therefore, he does not affirm himself but denies himself, does not feel content but unhappy, does not develop freely his physical and mental energy but mortifies his body and ruins his mind." ([Marx, Estranged Labour, 1844](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm))
-
-The collision is direct on one question: does the making belong to the maker's nature? For Sennett the desire to do a job well is an enduring basic human impulse, the maker's own; for Marx the labor does not belong to the worker's intrinsic nature, and the thing made confronts its maker as an alien power. What the passages do not settle is the reach of Marx's diagnosis: he describes making under another's command, Sennett the craft done for its own sake, and whether every making under command estranges its maker, or only some, is not decided by these texts.
+Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of the sense of a life, so Frankl's discovered meaning and Nietzsche's conferred significance can both hold. That reading is mine; the sources do not make it. The Sartre passage above is the demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers.
 
 ## Practice: variation, selection, retention
 
