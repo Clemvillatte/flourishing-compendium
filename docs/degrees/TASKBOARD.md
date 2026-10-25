@@ -494,3 +494,17 @@ Motivational Interviewing (MI), Professor Stephen Rollnick" — matches), Sadler
 status lines correctly scope verification to the named speaker. No defects
 found in the sample; no repairs needed beyond the Rosemont credentials-line
 fix already pushed (df1000b38) and the taskboard timestamp corrections.
+
+### Checkpoint — deg-verify-a transcript coverage round (13:58Z, 2026-10-25)
+
+Worker-pplx-degrees-1: third-party transcript route used to confirm content
+coverage on 10 deg-mind cards — Fredrickson M06-AF12 and Brach M06-AF13
+upgraded verified-partial to verified-video; Barrett M06-AF04 and M06-AF05
+title-only CONTENT BASIS FLAGs resolved and upgraded; Stanovich (pre-M06-AT01
+card) title-only flag resolved and upgraded; corroboration notes added to
+Lieberman SRC-M07-003, Jha M06-AT01, Moffitt SRC-M07-007, Posner M06-AT05,
+Fredrickson M06-AF09 and Gross M06-AF07 (Brotherton structure). All with the
+standard caveats: third-party transcript pages, no timestamps in retrieved
+text, playback itself not opened. QI-01 (deg-cmp) transcript attempt was
+Cloudflare-blocked (403) on both routes — recorded in the card, stays
+description-basis for the next pass.

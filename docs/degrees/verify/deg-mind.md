@@ -1524,6 +1524,12 @@ against the recording or transcript before the record is attached to a module.
   but not feelings and raises physiological load; rethinking reduces
   both and calms physiology); and applications (temptation management;
   a rethinking intervention in the Israeli-Palestinian conflict).
+  Second retrieval (2026-10-25, same transcript page): confirms the same
+  content and adds that the event is presented as the Brotherton lecture,
+  with an introduction, the lecture, audience questions and closing
+  remarks — indicating a substantial lecture with Q&A rather than a short
+  talk; the page still prints no duration, so the duration basis is
+  unchanged.
 - Verification status: verified-partial — identity, credentials and
   content classification supported; duration rests on search-listing
   metadata, not a direct watch-page read, and playback was not
