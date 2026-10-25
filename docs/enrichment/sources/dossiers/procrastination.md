@@ -165,3 +165,15 @@ flagged, not hidden.
   explicitly.
 - Advisor QC: round 1 applied in rev 2. Rev 2 remains a first-draft
   checkpoint under review, not a completed dossier.
+
+## Coverage closed (rev 3, 2026-10-25)
+
+The nine unread inventory cards were read this session (MO021, MO022,
+MO025, MO026, MO027, MO033, MO047, MO048, K189) and added to the map:
+a new subtheme, "The shape of the task and its pull" (MO048, K189,
+MO026, MO027, MO021, MO022), and lever entries beside their kin
+(MO047 with K185, MO025 with K153, MO033 with Pre-commitment as
+wisdom and K269). All 27 inventoried cards are now read and glossed;
+the map is exhaustive against the prep's sweep. The stories remain
+selected from outside the sweep, as flagged. Checker exit 0 (35 card
+links, 11 headers, 2 external carriers).

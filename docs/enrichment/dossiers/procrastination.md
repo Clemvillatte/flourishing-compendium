@@ -28,6 +28,8 @@ Self-forgiveness sits here rather than under compassion because its evidence is 
 
 [K269 — Assent delay](https://clemvillatte.github.io/flourishing-compendium/#card=K269%20%E2%80%94%20Assent%20delay): the Stoic pause in kernel form. The impression prints itself, the assent remains in our power, and the practice reaches for the pause when the response is already forming.
 
+[MO033 — Learn to use commitment devices — pre-commit to future behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=MO033%20%E2%80%94%20Learn%20to%20use%20commitment%20devices%20%E2%80%94%20pre-commit%20to%20future%20behaviour): the binding lever in its modern form. Bryan, Karlan and Nelson's definition, the arrangement aimed at helping fulfil a plan that would otherwise be difficult owing to intrapersonal conflict, with the hard commitments that carry real economic penalties distinguished from the soft ones that work psychologically.
+
 ### What the reviews say the delay is
 
 [MO045 — Recognise procrastination as emotion regulation, not laziness](https://clemvillatte.github.io/flourishing-compendium/#card=MO045%20%E2%80%94%20Recognise%20procrastination%20as%20emotion%20regulation%2C%20not%20laziness): the review argument. Sirois and Pychyl contend that procrastination is, in significant part, short-term mood repair: the avoidance manages a feeling, and a schedule alone leaves the feeling unaddressed. The review is explicit that this is not offered as the whole story, and the card carries that limit.
@@ -44,6 +46,20 @@ Self-forgiveness sits here rather than under compassion because its evidence is 
 
 [Temptation bundling (Milkman)](https://clemvillatte.github.io/flourishing-compendium/#card=Temptation%20bundling%20%28Milkman%29): the binding lever from the other direction. Pair the want with the should, gym-only audiobooks, and the field experiment found 51% and 29% more gym visits for full and intermediate treatment at first, effects that declined, and 61% willing to pay for the restriction afterwards.
 
+### The shape of the task and its pull
+
+[MO048 — Learn to break tasks down — overwhelm causes avoidance](https://clemvillatte.github.io/flourishing-compendium/#card=MO048%20%E2%80%94%20Learn%20to%20break%20tasks%20down%20%E2%80%94%20overwhelm%20causes%20avoidance): the review's own premise, that procrastination often occurs when people are faced with tasks that are seen as aversive, with the conclusion sentence proposing the primacy of short-term mood repair. The card's task-breakdown exercise is an application, and its effect on procrastination is not established by the quoted passages.
+
+[K189 — Challenge-skill calibration](https://clemvillatte.github.io/flourishing-compendium/#card=K189%20%E2%80%94%20Challenge-skill%20calibration): Csikszentmihalyi's rule from Flow. Too easy tips into boredom, too hard into anxiety, and the way back to absorption is an adjustment on one of the two axes; the calibration is the book's structural account, not a tested intervention, and the kernel's daily-use form is editorial.
+
+[MO026 — Learn to use mental contrasting — visualise obstacle, not just outcome](https://clemvillatte.github.io/flourishing-compendium/#card=MO026%20%E2%80%94%20Learn%20to%20use%20mental%20contrasting%20%E2%80%94%20visualise%20obstacle%2C%20not%20just%20outcome): Oettingen's separation of expectations from fantasies, with the contrasting remedy and the MCII meta-analysis behind it, 21 studies and 15,907 participants, a small-to-medium effect with the publication-bias caveat stated on the card.
+
+[MO027 — Learn to make progress visible — feedback sustains motivation](https://clemvillatte.github.io/flourishing-compendium/#card=MO027%20%E2%80%94%20Learn%20to%20make%20progress%20visible%20%E2%80%94%20feedback%20sustains%20motivation): the progress side. Amabile and Kramer's small wins, and the 138-study meta-analysis in which monitoring prompts raised goal attainment, d+ = 0.40, larger when progress was physically recorded or made public, strongest for health goals.
+
+[MO021 — Learn to connect goals to identity — I am a person who...](https://clemvillatte.github.io/flourishing-compendium/#card=MO021%20%E2%80%94%20Learn%20to%20connect%20goals%20to%20identity%20%E2%80%94%20I%20am%20a%20person%20who...): the identity framing. The voter experiments found the being-a-voter wording increased registration and official-record turnout in two statewide elections; the effect is direct support in one domain, not a general result about I-am-a-person-who statements, and the card says so.
+
+[MO022 — Recognise the role of curiosity and interest — intrinsic motivation's engine](https://clemvillatte.github.io/flourishing-compendium/#card=MO022%20%E2%80%94%20Recognise%20the%20role%20of%20curiosity%20and%20interest%20%E2%80%94%20intrinsic%20motivation%27s%20engine): the pull side. In the trivia-question studies, higher curiosity tracked caudate activity implicated in anticipated reward and better recall of surprising answers one to two weeks later; the application is to let the unanswered question do the work.
+
 ### The levers the cards carry
 
 [MO028 — Learn to use the fresh start effect — temporal landmarks boost motivation](https://clemvillatte.github.io/flourishing-compendium/#card=MO028%20%E2%80%94%20Learn%20to%20use%20the%20fresh%20start%20effect%20%E2%80%94%20temporal%20landmarks%20boost%20motivation): temporal landmarks as prompts. Google searches for diet, gym visits and goal commitments all rose after new weeks, months, years and birthdays in the three field studies; the effect is on starting, not on lasting.
@@ -54,9 +70,13 @@ Self-forgiveness sits here rather than under compassion because its evidence is 
 
 [K185 — The two-minute rule](https://clemvillatte.github.io/flourishing-compendium/#card=K185%20%E2%80%94%20The%20two-minute%20rule): the smallest start. Two minutes, meant, with the honest stop kept cheap to obey tomorrow.
 
+[MO047 — Learn to use the 5-minute rule — lower the barrier to starting](https://clemvillatte.github.io/flourishing-compendium/#card=MO047%20%E2%80%94%20Learn%20to%20use%20the%205-minute%20rule%20%E2%80%94%20lower%20the%20barrier%20to%20starting): the other small start, Pychyl's just-get-started with the card's honest note that five minutes is a convention no study tests against other durations.
+
 [K188 — Friction audit](https://clemvillatte.github.io/flourishing-compendium/#card=K188%20%E2%80%94%20Friction%20audit): the chain walk. Time each step from intention to action, remove the costliest, add friction to the unwanted chain, and re-run.
 
 [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan, written once for one foreseeable moment.
+
+[MO025 — Learn to use implementation intentions — if-then plans](https://clemvillatte.github.io/flourishing-compendium/#card=MO025%20%E2%80%94%20Learn%20to%20use%20implementation%20intentions%20%E2%80%94%20if-then%20plans): the principle form of the same lever, carrying the meta-analysis of 94 independent tests, medium-to-large, d = 0.65, on goal attainment, with the component processes the review reports support for.
 
 ## Where the two reviews stand
 
