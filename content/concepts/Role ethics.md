@@ -7,7 +7,7 @@ file: "Role ethics"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Role ethics is the family of views on which a person's roles and relationships, such as parent, child, citizen or member of a profession, are central to what is morally required and to who the person is. My seed cites two very different sources, Confucius's Analects and MacIntyre's After Virtue, so this page keeps them apart.
+Role ethics is the family of views on which a person's roles and relationships, such as parent, child, citizen or member of a profession, are central to what is morally required and to who the person is. Two very different sources anchor the account, Confucius's Analects and MacIntyre's After Virtue, and the page keeps them apart.
 
 ### The Confucian version
 

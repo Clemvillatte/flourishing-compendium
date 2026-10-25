@@ -59,29 +59,32 @@
   "Social attention",
   "Social construction of gender",
   "Social influences on motivation",
-  "Role ethics",
   "Positive attention training / attentional deployment toward positive stimuli",
   "Process focus research",
   "Proper self-love",
   "Self as construction",
   "Self-concordant goal pursuit over time",
-  "Second nature",
-  "Righteous anger vs wrath",
   "Reappraisal's effectiveness depends on separating the feeling from the appraisal",
   "Natural liberty versus the chains",
   "Mind wandering",
   "Moral foundations",
-  "Progressive overload in attentional training"
+  "Progressive overload in attentional training",
+  "Righteous anger vs wrath",
+  "Role ethics",
+  "Second nature"
  ],
  "in_progress": null,
  "flagged": {
   "Mind wandering": "Reopened for QC: QC: page-facing 'NOT opened' narration in Sources (routed jargon cleanup 2026-10-25); reword to plain provenance",
   "Moral foundations": "Reopened for QC: QC: page-facing 'seed line' narration (routed jargon cleanup 2026-10-25); reword to plain reader voice",
-  "Progressive overload in attentional training": "Reopened for QC: QC: page-facing 'My seed / I opened' narration (routed jargon cleanup 2026-10-25); reword to plain provenance"
+  "Progressive overload in attentional training": "Reopened for QC: QC: page-facing 'My seed / I opened' narration (routed jargon cleanup 2026-10-25); reword to plain provenance",
+  "Righteous anger vs wrath": "Reopened for QC: QC: page-facing 'My seed'/'I include'/'was opened' narration (routed jargon cleanup 2026-10-25); reword to plain reader voice",
+  "Role ethics": "Reopened for QC: QC: page-facing 'My seed' narration (routed jargon cleanup 2026-10-25); reword to plain reader voice",
+  "Second nature": "Reopened for QC: QC: page-facing 'My seed'/'opened here'/'were opened' narration (routed jargon cleanup 2026-10-25); reword to plain reader voice"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:42:46+00:00",
+ "updated": "2026-10-25T01:43:04+00:00",
  "notes": {
   "Language spinning beyond the world": "fast-track done 2026-10-20; RENAMED to \"Language on holiday\" — the seed title was a compendium coinage, not Wittgenstein wording (\"spins beyond the world\" does not appear in PI; verified in an opened PI selection). Real concept = language on holiday (PI 38) / engine idling (PI 132). File renamed, _order.json and the B070 backlink label migrated; fast-track body grounded in opened PI selection 132 + DBU overview quoting 38.",
   "Original nature, nothing to add": "fast-track done 2026-10-20; title verified as a real concept (self-nature/benxing in the Platform Sutra — no rename needed); McRae passage + verse lines quoted verbatim from the opened e-Buddhism page (which compares McRae Zongbao vs Yampolsky Dunhuang renderings); Yampolsky PDF at terebess.hu is image-based, unusable for verbatim extraction (noted).",
