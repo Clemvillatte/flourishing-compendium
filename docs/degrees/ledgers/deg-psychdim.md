@@ -395,8 +395,7 @@ chased); Freudian theories with little support; the memory-consolidation view of
 epiphenomena of the brain backing itself up.
 
 Chapter 8 (The True Mystery of Laughter, 00:51:31 to end): laughter as an evolutionary
-puzzle; the incongruity account quoted and rejected; Provine's mall observations (over a
-thousand laughter episodes, only about ten percent following anything humorous); laughter as
+puzzle; the incongruity account quoted and rejected; Provine's mall and other public-place observations (over a thousand laughter-initiated situations, only ten percent of the initiating comments re-codable as actually humorous in any sense); laughter as
 social, loud, contagious (laugh tracks); primate parallels (monkeys laughing in attack,
 chimps in tickling); the mock-aggression theory; Plato's bonding-against-a-common-enemy
 view; the ingredients of humor (a target, harm not serious enough for fear or grief,
