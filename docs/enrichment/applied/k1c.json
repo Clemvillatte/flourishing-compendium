@@ -1,61 +1,7 @@
 {
- "reciprocal": [
-  {
-   "into": "Prosocial spending",
-   "link": "K213 — Prosocial spending",
-   "why": "the practice page for this concept, including the replication record"
-  },
-  {
-   "into": "The dichotomy of control",
-   "link": "K267 — Controllability sorting",
-   "why": "the practice page for the dichotomy"
-  },
-  {
-   "into": "Locus of control",
-   "link": "K267 — Controllability sorting",
-   "why": "the sorting exercises that apply the construct"
-  },
-  {
-   "into": "Locus of control",
-   "link": "K311 — Responsibility inventory",
-   "why": "the sorting exercises that apply the construct"
-  },
-  {
-   "into": "Narrative identity",
-   "link": "K321 — Dignity conversation",
-   "why": "the life story gathered and witnessed in speech"
-  },
-  {
-   "into": "Meaning-making",
-   "link": "K351 — The meaning question",
-   "why": "the open question and the unconsoling stance both belong to the family"
-  },
-  {
-   "into": "Meaning-making",
-   "link": "K318 — Absurd-revolt practice",
-   "why": "the open question and the unconsoling stance both belong to the family"
-  },
-  {
-   "into": "Habit formation",
-   "link": "K257 — Habituation by design",
-   "why": "the design borrows the context-cued repetition process"
-  },
-  {
-   "into": "Narrative identity",
-   "link": "K336 — Contamination sequence audit",
-   "why": "the audit works within the narrative-identity programme"
-  },
-  {
-   "into": "Narrative identity",
-   "link": "K142 — Narrative reconstruction",
-   "why": "the sentence is a unit of the identity theory"
-  },
-  {
-   "into": "Psychological flexibility",
-   "link": "K315 — Freedom in constraint",
-   "why": "the constraint-stays-response-changes move is psychological flexibility practised on one fixed fact"
-  }
- ],
+ "batch": "k1c",
+ "agent": "supervisor-margauth1839068",
+ "reciprocal": [],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 11 recip, 0 inline"
+ "notes": "All records applied and archived to applied/k1c.json (supervisor integration pass 2, 2026-10-25). Placeholder keeps the proposals path present so the tree stays pushable via api_push (cannot push deletions); remove via a deletion-capable push window. HAZARD: an unrestricted enrich_apply run would archive this placeholder over the real applied/ archive — always use explicit --proposal selections."
 }

@@ -1,11 +1,7 @@
 {
- "reciprocal": [
-  {
-   "into": "Broaden-and-build",
-   "link": "Metta (loving-kindness)",
-   "why": "loving-kindness meditation is the practice whose daily positive emotions the theory's build hypothesis was tested on"
-  }
- ],
+ "batch": "ct3",
+ "agent": "supervisor-margauth1839068",
+ "reciprocal": [],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 1 recip, 0 inline"
+ "notes": "All records applied and archived to applied/ct3.json (supervisor integration pass 2, 2026-10-25). Placeholder keeps the proposals path present so the tree stays pushable via api_push (cannot push deletions); remove via a deletion-capable push window. HAZARD: an unrestricted enrich_apply run would archive this placeholder over the real applied/ archive — always use explicit --proposal selections."
 }

@@ -1,7 +1,0 @@
-{
- "batch": "w1ad",
- "agent": "supervisor-margauth1839068",
- "reciprocal": [],
- "inline": [],
- "notes": "All records applied and archived to applied/w1ad.json (supervisor integration pass 2, 2026-10-25). Placeholder keeps the proposals path present so the tree stays pushable via api_push (cannot push deletions); remove via a deletion-capable push window. HAZARD: an unrestricted enrich_apply run would archive this placeholder over the real applied/ archive — always use explicit --proposal selections."
-}

@@ -1,7 +1,0 @@
-{
- "batch": "maintenance",
- "agent": "supervisor-margauth1839068",
- "reciprocal": [],
- "inline": [],
- "notes": "All records applied and archived to applied/maintenance.json (supervisor integration, 2026-10-25). This placeholder keeps the proposals path present so the tree stays pushable via api_push (which cannot push deletions); a future supervisor with a stable direct-push window may remove it."
-}
