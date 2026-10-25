@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Stoic practice narrative · Rome, 1st century CE · [Seneca the Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)*
 
-Seneca describes, in De Ira, his own nightly practice: when the day is over and the lights out, he examines himself, the day's cases, what he did badly and what he did well. He asks whether he gave up a fault, whether he restrained passion, whether he became better. He reports that he sometimes finds, on the review, that he has been pleased with his own progress, and he treats that pleasure as the next thing to watch.
+[[T013 — Seneca|Seneca]] describes, in De Ira, his own nightly practice: when the day is over and the lights out, he examines himself, the day's cases, what he did badly and what he did well. He asks whether he gave up a fault, whether he restrained passion, whether he became better. He reports that he sometimes finds, on the review, that he has been pleased with his own progress, and he treats that pleasure as the next thing to watch.
 
 The practice has Pythagorean antecedents, and it is the direct ancestor of every daily self-review protocol in modern practice, including Ben Franklin's chart. Its Stoic content is the direction of the audit: not what happened to me today, but what I did with what happened, which is the only thing on the list that was ever mine.
 

@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Stoic practice narrative · Greece/Rome, 1st century CE · [Seneca the Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)*
 
-The Stoics practised premeditatio malorum: the morning rehearsal of the day's possible losses, the illness, the insult, the failure, the death. Seneca's letters prescribe it, and Epictetus's students practised forms of it. The purpose is not pessimism but preparation: the rehearsed loss, when it arrives, meets a person who has already sorted it as an indifferent, and the surprise, which is half the suffering, is removed.
+The Stoics practised premeditatio malorum: the morning rehearsal of the day's possible losses, the illness, the insult, the failure, the death. [[T013 — Seneca|Seneca]]'s letters prescribe it, and Epictetus's students practised forms of it. The purpose is not pessimism but preparation: the rehearsed loss, when it arrives, meets a person who has already sorted it as an indifferent, and the surprise, which is half the suffering, is removed.
 
 The exercise is frequently confused with catastrophising, and the difference is the point of the practice. Catastrophising is involuntary rumination that ends in fear; premeditation is a bounded, deliberate rehearsal that ends in the discovery that the imagined loss, examined, is survivable. Modern research on defensive pessimism and stress inoculation has studied its descendants.
 

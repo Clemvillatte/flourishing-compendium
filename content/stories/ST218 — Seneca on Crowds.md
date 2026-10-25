@@ -11,7 +11,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 
 Letter VII warns Lucilius against crowds. Not because the crowd is physically dangerous, but because it is morally contagious: to consort with the crowd is to be swept into its standards, its pleasures, its estimates of what matters, and one cannot notice the infection while it is happening. The advice is not hermitage but hygiene: associate with those who will make you better, and count the crowd's opinion as one of the indifferents.
 
-The letter's modernity is its media analysis, and its descendants run through every study of social contagion and norm influence. Seneca's specific claim, that we absorb the crowd's values without noticing because absorption is how social animals work, is now well-supported, and his advice remains the same: choose your exposures deliberately.
+The letter's modernity is its media analysis, and its descendants run through every study of social contagion and norm influence. [[T013 — Seneca|Seneca]]'s specific claim, that we absorb the crowd's values without noticing because absorption is how social animals work, is now well-supported, and his advice remains the same: choose your exposures deliberately.
 
 
 
