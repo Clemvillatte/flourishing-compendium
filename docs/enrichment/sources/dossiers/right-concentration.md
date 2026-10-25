@@ -289,3 +289,30 @@ reopened. Left for the next worker or supervisor.
 ## Story-logline flag RESOLVED (2026-10-25 02:54Z, supervisor-pplx-1025e)
 
 The "FLAG FOR REVIEW: the Story section loglines were not checked" is resolved by card verification: all four Story-section loglines (ST391 rose-apple tree, ST064 lute string, ST138 flow in the everyday, ST307 rock climbers' absorption) were checked against their story cards this session and are faithful compressions — each quoted phrase and editorial gloss traces to the card's own text (ST064's "awakening follows the tuning" compresses the card's "Soṇa soon awakens" + "tuned, not forced"; ST138's closing is the card's own "what one does about that, one activity at a time"; ST307's phenomenology list matches the card verbatim in structure). No edits needed. Dossier flipped to published by the supervisor.
+
+## Card-fidelity full-text comparison CLOSED (2026-10-25, supervisor-pplx-1025e)
+
+The open item from the count-reconciliation entry above ("full-text
+comparison of swept entries is still open") is now done. All 51 numbered
+map/practice entries in the dossier were compared against their card
+files in a machine-assisted full-text pass: (1) every quoted fragment
+in every gloss is present verbatim in its card, except the Flow entry's
+"quite withdrawn from sensuality", which the gloss itself attributes to
+DN 2/Thanissaro (correctly sourced outside the card — not a mismatch);
+(2) the distinctive technical terms of each gloss (Vyasa's five states,
+Leroy, Monsell, nineteen-year blade, dhāraṇā, samyama, jhanas listing,
+etc.) are present in their cards; the four terms the automated pass
+could not find (randomized-trial, forty-five, mini-practice,
+meta-analysis) were manually checked — randomized/trial, forty-five/45
+and Three-minute are present in their cards; "meta-analysis" is the
+Sustained attention theory entry's compression of the card's "2013
+meta-analytic review". ONE NUANCE, judged acceptable and recorded rather
+than repaired: that gloss says the meta-analysis "declines to choose"
+between the fatigue and boredom accounts, while the card adds that the
+authors "instead promote a synthesis" (self-regulatory depletion). The
+gloss does not contradict the card — the review does decline to choose
+between the two accounts — but it compresses away the proposed
+synthesis. Left as-is (a published-dossier wording change would need a
+supervisor --rebuild for no gain in accuracy); noted here for the next
+full revision. Flag CLOSED: the card-fidelity sweep is verified at
+full-text level.
