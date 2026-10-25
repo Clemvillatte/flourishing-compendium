@@ -88,7 +88,8 @@
   "Akrasia",
   "Workability",
   "Being-in-the-world",
-  "Autonomous motivation"
+  "Autonomous motivation",
+  "Cognitive distortions"
  ],
  "in_progress": null,
  "flagged": {
@@ -128,7 +129,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-25T12:13:42+00:00",
+ "updated": "2026-10-25T12:13:57+00:00",
  "band_done": true,
  "new_concepts": [
   {

@@ -16,7 +16,9 @@ Cognitive distortions are the systematic errors Beck found in the thinking of de
 
 Beck describes examining whether the initial impression of a situation was distorted or a conclusion jumped too quickly: a professor was downcast and complained that he was "slipping" because "nobody showed up" for a lecture, and on re-examining the evidence realized that in actuality most of the seats in the lecture hall had been filled ([Beck 1964](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)).
 
-### Here
+The case shows the shape of the method. The evidence had not changed; the extraction had. The report that nobody showed up was a conclusion about the self dressed as a count of the room, and the correction came from the same lecture hall, counted again. The distortions named in the paper, arbitrary inference, selective abstraction and overgeneralization, are all extraction errors of this kind, and the check is always the same one: go back to what is actually there and see if the reading survives it.
+
+### In the compendium
 
 - [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the principle built on the Beck 1964 errors and the checking method
 - [[CO050 — Learn to question your thoughts — not every thought deserves belief]] — the thought-testing worksheet procedure
