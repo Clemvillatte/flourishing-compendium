@@ -69,5 +69,7 @@
    "from": "worker-w1x-1025b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:15:49+00:00"
 }
