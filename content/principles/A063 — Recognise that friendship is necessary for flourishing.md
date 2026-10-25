@@ -12,24 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 63** — Recognise that friendship is necessary for flourishing
 
-[[T002 — Aristotle|Aristotle]] argues that wealth and power do not remove the need for friends. His question includes the opportunity to care for someone, rather than only the help one might receive:
+[[T002 — Aristotle|Aristotle]] frames friendship as an opportunity to care for someone:
 
 > For without friends no one would choose to live, though he had all other goods; even rich men and those in possession of office and of dominating power are thought to need friends most of all; for what is the use of such prosperity without the opportunity of beneficence, which is exercised chiefly and in its most laudable form towards friends?
 > (NE VIII.1, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
-The argument concerns a life shared in activity and goodwill. It does not require treating every acquaintance as a close friend or using another person as insurance against misfortune ([NE VIII.1–3](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). A practical application is to make friendship part of deliberation about how to live, rather than something considered only after other commitments are fixed.
+The argument concerns a life shared in activity and goodwill ([NE VIII.1–3](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). In the friendship based on character, each person wishes the other's good for that person's sake ([Richard Kraut, Stanford Encyclopedia of Philosophy, §9](https://plato.stanford.edu/entries/aristotle-ethics/)). Aristotle's happy person needs friends with whom to share discussion, thought and worthwhile activity ([IX.9](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)).
 
 ### Plain words
 
-A friendship involves mutual, recognised care and activities the people share. Treating it as part of a good life gives its practical needs a place when you plan your time. The question is what a relationship means in your life, not whether you can achieve a particular number of friends.
+Make time for relationships in which you care for one another and share activities you value.
 
 ### For example
 
-Imagine a promotion that would mean moving away from close friends. Discuss what contact could continue and what would be lost, alongside pay, caring responsibilities and the work itself. Try a feasible arrangement, then review it together rather than assuming that contact will sustain itself. This is my illustration of including friendships in the decision, while leaving the choice open.
+Imagine a promotion that would mean moving away from close friends. Alongside pay and caring responsibilities, consider the meals, walks or conversations you would miss. Ask your friends which shared activities could continue and what each of you could realistically commit to.
 
 ## Sources
 
 - [Aristotle, Nicomachean Ethics VIII.1–3, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html): friendship, beneficence and shared life.
+- [Aristotle, Nicomachean Ethics IX.9, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html): why a happy person needs friends and shared activity.
+- [Richard Kraut, Aristotle's Ethics, Stanford Encyclopedia of Philosophy, §9](https://plato.stanford.edu/entries/aristotle-ethics/): friendship based on character and concern for the friend's own sake.
 - [Holt-Lunstad, Smith and Layton, "Social Relationships and Mortality Risk: A Meta-analytic Review", PLOS Medicine 7(7), 2010](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316): the observational synthesis discussed below.
 - [Liz Mineo, Harvard Gazette, 11 April 2017, report on the Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/): the institutional account discussed below.
 - Waldinger and Schulz (2023): further reading.

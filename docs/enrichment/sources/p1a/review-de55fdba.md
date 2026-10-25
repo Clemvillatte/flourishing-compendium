@@ -195,3 +195,19 @@ Changes: one-sentence Plain words, fuller standalone primary quotation showing c
 Supervisor alignment flag: the linked concept *The three disciplines* presents the Hadot mapping to physics/ethics/logic quite firmly, whereas Graver advises caution about that identification. This is a request to compare interpretations and their evidence, not a verdict that Hadot is wrong; the concept and Hadot's book were not edited or independently researched in this item.
 
 Also applied the earlier advisor's optional D141 refinements: narrowed Fraser's ethical question locator to p. 24 and changed the potentially agentive “knife's care” to “care taken with the knife.” No substantive interpretation changed.
+
+## A063: Recognise that friendship is necessary for flourishing
+
+Opened through search and fetch:
+
+- [Aristotle, *Nicomachean Ethics* VIII, Ross](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html). Read the full book, especially VIII.1–3. The retained blockquote exactly gives the beneficence question in VIII.1.
+- [Aristotle, *Nicomachean Ethics* IX.9 and IX.12, Ross](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html). Read IX.9 in full and IX.12: the happy person's need for friends involves shared discussion, thought and activity. The body uses IX.9, without turning Aristotle's ethical argument into a universal empirical result.
+- [Richard Kraut, “Aristotle's Ethics,” Stanford Encyclopedia of Philosophy, §9](https://plato.stanford.edu/entries/aristotle-ethics/). Read the discussion of friendship based on character and wanting the friend's good for the friend's sake. This is not asserted of every relationship called friendship.
+
+Changes: shortened the setup, supplied the character-friendship distinction, and made Plain words one sentence. The moving-for-work example now asks which specific activities and commitments could continue; it does not prescribe staying or moving. Read Philia, Friendship and Relatedness concept pages for alignment, without treating them as evidence or equating Aristotelian friendship with a psychological construct. Preserved front matter, seed, primary blockquote, all baseline links, reflection and lower sections. Older health-study bibliography items were not used as evidence for the body.
+
+## Milestone advisor QC: A001, R055, P073 and P139
+
+All four bodies passed source, structure and preservation checks; four checked, zero failed (189 / 201 / 207 / 181 prose words). Advisor confirmed the full R055 carriage quote, P073's Dewey/Anderson context, and P139's participant proportions and abstract-only scope. Suggested adding printed p. 20 to P073's main quotation locator, which will be handled during the short-fix pass.
+
+New inherited flag: R055's lower Philosophy parallels line locates Aristotelian trustworthiness at NE IV.3. Advisor checked Ross Book IV and found IV.3 concerns pride/magnanimity, while IV.7 addresses truthfulness. This needs a separately source-checked correction, with the contrast between xin and Aristotle's treatment made explicit rather than calling them interchangeable.
