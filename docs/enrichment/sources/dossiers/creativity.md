@@ -651,11 +651,17 @@ Schumpeter flag is closed: fully verified. No dossier text change owed.
 - HAUGHT-TROMP SEARCH CORROBORATION: a web search independently returns
   the same cct.umb.edu PDF as the top hit with the full abstract in the
   snippet (matching the archived PDF verbatim), and the publication record
-  is corroborated across independent indexes (Psychology of Aesthetics,
-  Creativity, and the Arts, 2017, Vol. 11, No. 1, pp. 10-17,
-  doi 10.1037/aca0000061; Rider University author page; Semantic Scholar;
-  citing articles in Research-Technology Management and Psychology
-  Today). This supplies the search leg of the owner's search+fetch
+  is corroborated by search-result excerpts from independent indexes
+  (Psychology of Aesthetics, Creativity, and the Arts, 2017, Vol. 11,
+  No. 1, pp. 10-17, doi 10.1037/aca0000061; Semantic Scholar; citing
+  articles in Research-Technology Management and Psychology Today).
+  SCOPE NOTE: these are search snippets, not pages opened this session;
+  the opened-source evidence for the article remains the archived PDF
+  download and the cct.umb.edu fetch attempts recorded in the 11:59Z
+  entry. The search also corroborates that the cct.umb.edu URL was
+  serving the PDF to crawlers as of the snippet date (the top result
+  excerpt reproduces the abstract), which is consistent with the 502
+  being an environment-level block rather than a removed file. This supplies the search leg of the owner's search+fetch
   evidence trail; the fetch leg is the archived-snapshot download recorded
   in the 11:59Z entry.
 - SUPERVISOR FLAG: my Camus full-span entry and its clock correction were
@@ -669,7 +675,7 @@ Schumpeter flag is closed: fully verified. No dossier text change owed.
   only in the verifying worker's own band record and the supervisor's
   review.
 
-## PMID 22941876 span verified via efetch (2026-10-25 12:08Z, worker-pplx-dos32-1025n3, baton dos32)
+## PMID 22941876 span verified via efetch (2026-10-25 12:07Z, worker-pplx-dos32-1025n3, baton dos32; stamp from the read clock 12:07:45Z)
 
 The mind-wandering span ("These data suggest that engaging in simple
 external tasks that allow the mind to wander may facilitate creative
@@ -679,8 +685,15 @@ Baird, Smallwood, Mrazek, Kam, Franklin and Schooler 2012, "Inspired by
 distraction: mind wandering facilitates creative incubation",
 Psychological Science 23(10):1117-22, doi 10.1177/0956797612446024;
 efetch fetched fresh this pass, 200). The span is the abstract's final
-sentence, exact. The ERIC carrier (EJ827110) is the duplicate link; the
-primary PubMed record now carries the verification. With this entry the
+sentence, exact. CORRECTION (12:217Z, same worker): the sentence above first said
+"The ERIC carrier (EJ827110) is the duplicate link" — that was WRONG.
+EJ827110 is the carrier of Sio and Ormerod 2009 (the incubation
+meta-analysis quoted earlier in the dossier), a DIFFERENT article; it is
+not a Baird duplicate. The checker flagged the Baird span against both
+URLs because it gathers every link in the paragraph; the efetch
+verification closes the Baird span itself, and says nothing about the
+ERIC record, whose own Sio and Ormerod span was verified in the same
+checker run (not flagged). With this entry the
 dos32 open-flag list reduces to the two documented publisher bot-blocks
 (T&F PASS-A-DAY and Sennett spans — supervisor-confirmed block pages),
 the two Nietzsche checker mispairings (diagnosed above, no text change

@@ -286,8 +286,13 @@ not loading). Findings this pass, from YouTube's own rendered metadata:
   innertube 403; third-party mirrors down or blocked this pass), so the
   skill's requirement of classification from the recording or transcript
   cannot be completed here.
-- Bearing for the module owner: the candidate does NOT fit the
-  5-minute gallery tier on duration (11:02 actual); either the slot
-  tolerance is widened by an owner ruling, a different ~5-minute
-  candidate is located, or the video is used at a longer slot. Flagged,
-  not decided — the verification band does not assign resources.
+- Bearing for the module owner (corrected phrasing): YouTube's listed
+  TOTAL RUNTIME is 11:02, which exceeds five minutes; the duration of
+  the guided-practice segment itself is NOT established by this check,
+  and the recording-level classification also remains unverified. The
+  uploader's title and description both present the practice as a
+  5-minute meditation, so whether the video fits the 5-minute slot
+  depends on whether the slot means total runtime or guided-practice
+  segment — an owner/module-owner decision on evidence this entry
+  supplies. Flagged, not decided — the verification band does not
+  assign resources.
