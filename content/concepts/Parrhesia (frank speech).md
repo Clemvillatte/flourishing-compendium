@@ -11,7 +11,11 @@ Parrhesia is frank truth-telling that exposes the speaker to danger in Foucault'
 
 > "Someone is said to use parrhesia and merits consideration as a parrhesiastes only if there is a risk or danger for him or her in telling the truth." (Foucault, [Parrhesia and Danger](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)).
 
-His contrast is concrete: a teacher can tell children the truth without qualifying as a parrhesiastes, while a philosopher who confronts a tyrant risks punishment ([Parrhesia and Danger](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)). The distinction concerns the speaker's situation and commitment as well as the statement's content ([same lecture](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)).
+His contrast is concrete: a teacher can tell children the truth without qualifying as a parrhesiastes, while a philosopher who confronts a tyrant risks punishment ([Parrhesia and Danger](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)):
+
+> "When a philosopher addresses himself to a sovereign, to a tyrant, and tells him that his tyranny is disturbing and unpleasant because tyranny is incompatible with justice, then the philosopher speaks the truth, believes he is speaking the truth, and, more than that, also takes a risk (since the tyrant may become angry, may punish him, may exile him, may kill him)." (Foucault, [Parrhesia and Danger](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)).
+
+The distinction concerns the speaker's situation and commitment as well as the statement's content ([same lecture](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)). The word is ordinarily translated "free speech," and Foucault notes that the parrhesiastes is the one who speaks the truth — the two halves of that translation only meet where the speaking costs the speaker something, since a speech that carries no cost asks nothing of the character who makes it, and so tells the listener nothing about that character ([same lecture](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)).
 
 ### Here
 

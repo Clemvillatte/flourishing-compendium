@@ -11,7 +11,11 @@ Prudence here refers to [[T002 — Aristotle|Aristotle]]'s practical wisdom, phr
 
 > "Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods." (NE VI.5, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
-Aristotle distinguishes practical wisdom from cleverness, which can efficiently serve a bad purpose; practical wisdom requires a good character ([NE VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). It is therefore wider than simple caution about danger, the context in which several principles below use it as a comparison ([NE VI.5, VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
+Aristotle distinguishes practical wisdom from cleverness, which can efficiently serve a bad purpose; practical wisdom requires a good character ([NE VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)):
+
+> "Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness... And this eye of the soul acquires its formed state not without the aid of virtue... for wickedness perverts us and causes us to be deceived about the starting-points of action. Therefore it is evident that it is impossible to be practically wise without being good." (NE VI.12–13, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
+
+The distinction is not a caution against intelligence but a claim about what intelligence needs. Cleverness can hit any target; practical wisdom is the capacity to see which target is worth hitting, and that seeing is not available to a character that has already chosen badly, because the starting point the reasoning works from is itself something only a settled character can read. It is therefore wider than simple caution about danger, the context in which several principles below use it as a comparison ([NE VI.5, VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
 ## Sources
 
