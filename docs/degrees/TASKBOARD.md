@@ -87,7 +87,10 @@ reference, unique source ids in brackets):
   restored — incomplete resource. Many speakers' institutional credential
   pages remain pending (noted per entry; institutional pages were
   robots-blocked or rate-limited for Meinert, Sherman, De Moor, Hewstone,
-  Peng, Kitayama, Niemiec, Christakis).
+  Peng, Kitayama, Niemiec, Christakis). Addendum: the supervisor's routed
+  AR-05/ST-01 duration flag is RESOLVED — AR-05 watch page re-read 1:14:59
+  (catalog 1:15:33 rejected); ST-01 is dual-figure on the page itself
+  (player 29:09 vs listing 29:28, catalog matches the listing).
 
 - 2026-10-25 verifier-pplx-1025g (round 2): Block F COMPLETE — 12 of 13
   imported deg-therapeutic records verified in verify/deg-therapeutic.md
