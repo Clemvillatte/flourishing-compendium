@@ -63,5 +63,7 @@
    "from": "worker-pplx-1025i-sg",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T10:53:54+00:00"
 }
