@@ -2,134 +2,93 @@
 
 > Can a living be made without harm, and what does work do to the person who does it?
 
-Work is where most adult hours go, which makes earning a place where ethics either lives or quietly dies. The fifth factor asks whether a living can be made without harm, and the answers run from the trades the Buddha named to modern questions of exploitation and extraction. Underneath the list sits the live question: what the work does to the person who does it, and whether a life can be arranged so that its daily labour does not quietly work against it.
+A livelihood is where a life's hours go, so whatever principles a person holds, the hours answer to the work before anything else does. That is why earning is one of the places ethics either lives or quietly dies: the trade can be reconsidered, but the day spent inside it cannot. I want to know whether a living can be made without harm, and what the daily labour does to the person doing it.
+
+The answers below run from the trades the Buddha named outright to the modern study of what work does to a person: burnout, recovery, the fit between a life and its organisation. Underneath the list sits the live question the intro raised in another form: whether a life can be arranged so that its daily labour does not quietly work against it.
 
 ### Nearby terms
 
-- Ethical work and earning: the path's own account, below.
-- Vocation and calling: the calling group below.
-- Work aims and goals: held by the Goals dossier; this page keeps to the work itself and the person doing it.
-- Life's purpose: held by that dossier; a livelihood is one of the places a purpose gets spent, not the place it is found.
+- Vocation and calling: the tradition that reads work as a task set for a person rather than chosen, held on [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling) with its modern measurement on [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation); the livelihood question asks what may be done for a living, not only what it means.
 
-## The map: the entries on right livelihood
+- Work aims and goals: the targets a person sets inside work belong to the goals material, for example [Goal setting theory (Locke & Latham)](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20setting%20theory%20%28Locke%20%26%20Latham%29); livelihood keeps to the work itself and the person doing it.
 
-### The path's own account
+- Life's purpose: a livelihood is one of the places a purpose gets spent, not the place it is found; the search itself is the [Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose) material.
 
-[Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): the fifth factor of the Noble Eightfold Path: avoiding and abstaining from wrong livelihood, work that cheats, harms or kills; the card holds the canonical list of five trades and the path's grouping of livelihood with speech and action in the virtue division, sila, not with wisdom.
+- Workaholism: work that takes the person over is its own studied condition, on [Workaholism research](https://clemvillatte.github.io/flourishing-compendium/#card=Workaholism%20research); the livelihood question asks about the harm a trade does and the growth it allows, not the hours alone.
 
-[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth: the Buddha's summary of the training, right view through right concentration, with right livelihood fifth among the eight factors.
+- Work engagement: the absorbed, energetic relation to work studied on [Work engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Work%20engagement) is one of the things a well-chosen livelihood can produce; it is not the ethical floor itself.
 
-[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with right livelihood under virtue alongside speech and action.
+## What right livelihood asks of a working life
 
-[Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech) and [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action): the sibling factors inside the virtue division, each with its own dossier in this programme.
+### What does the path itself say about earning?
 
-[Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the principle of non-harm that runs through the Indic traditions, the floor under the livelihood factor: whatever else a livelihood does, it begins by doing no injury.
+The fifth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path) is [Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): avoiding and abstaining from wrong livelihood, work that cheats, harms or kills. The Buddha's own words name the trades:
 
-[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label I give the right action factor, the same placement logic: the path names conduct as its own factor rather than training intention alone.
+> "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. These are the five types of business that a lay follower should not engage in." ([Thanissaro, AN 5.177, the Vanijja Sutta](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html))
 
-The canonical list, in the Buddha's own words:
+The placement is as instructive as the list. The path groups livelihood with [Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech) and [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) in the virtue division of [The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings), so work is an ethical practice field before it is a question of insight. [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention) records the same placement logic: conduct gets its own factor rather than being left to trained intention. The grouping says something a modern reader can miss: the question the path asks about work is not first whether the job expresses the person or fulfills them, but whether it is conduct they can stand behind, the same question it asks of a word spoken or a thing taken. A trade is an act repeated some hundreds of times a year, and the path treats it with the seriousness owed to acts.
 
-> "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. These are the five types of business that a lay follower should not engage in." ([Thanissaro, AN 5.177, the Vanijja Sutta](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)).
+The floor under the factor is [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa), the principle of non-harm that runs through the Indic traditions: whatever else a livelihood does, it begins by doing no injury. That floor is what the fifth trade in the sutta stands on, and it is the part of the teaching that travels furthest beyond the list.
 
-### The floor and its reasons
+The list is prohibitive, and it is short. [B025 — Practice right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=B025%20%E2%80%94%20Practice%20right%20livelihood) gives the formation rule in one line: earn a living without causing harm, avoid the trades in weapons, poisons, intoxicants and exploitation, align work with your deepest values.
 
-[Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): the five trades the sutta names, and the instructive placement: the path groups livelihood with speech and action in the moral-virtue division, so work is an ethical practice field before it is a question of insight.
+But as [B152 — Align your work with your values (right livelihood, revisited)](https://clemvillatte.github.io/flourishing-compendium/#card=B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29) observes, the list does not describe how to choose among the many livelihoods outside it, and it says nothing about how a practice will feel after a job change. The tradition refuses the harmful trades and leaves the choice among the permitted ones to the person, which is exactly where the calling tradition and the work research begin.
 
-[B025 — Practice right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=B025%20%E2%80%94%20Practice%20right%20livelihood): the formation rule in one line: earn your living without causing harm, avoid trades in weapons, poisons, intoxicants and exploitation, align work with your deepest values.
+### Is work a calling or an occupation among others?
 
-[B152 — Align your work with your values (right livelihood, revisited)](https://clemvillatte.github.io/flourishing-compendium/#card=B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29): the revisiting note: the list is specific and prohibitive, it does not describe how to choose among the many livelihoods outside the list, and it says nothing about how a practice will feel after a job change.
+The loudest answer in the tradition is that work is a task set for a person rather than chosen. [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling) holds Weber's account of the Reformation shift that gave everyday worldly activity religious significance:
 
-### Work as calling
+> "Now it is unmistakable that even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))
 
-[Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling): Weber's account of work as a Beruf, a task set by God, and the Reformation's shift that gave everyday worldly activity a religious significance.
+The modern measurement tradition keeps the word and drops the theology. [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation) holds Wrzesniewski, McCauley, Rozin and Schwartz's three orientations to work: a Job focused on financial rewards, a Career focused on advancement, a Calling focused on fulfilling, socially useful work. The finding worth keeping is that the same work can be one or the other to different people doing it, which makes the orientation a property of the person-work relation rather than of the trade.
 
-> "Now it is unmistakable that even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): the chapter's account of Luther's conception of the calling.
+Dewey refuses both the fixed station and the wage-first reading. [The dignity of labor](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20labor) holds his claim in Democracy and Education that work belongs to the educative life of a person, and the chapter's own sentences carry the weight:
 
-[Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation): Wrzesniewski, McCauley, Rozin and Schwartz's three orientations to work: a Job focused on financial rewards, a Career focused on advancement, a Calling focused on fulfilling, socially useful work; the same work can be one or the other to different people doing it.
+> "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23))
 
-[The dignity of labor](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20labor): Dewey's claim in Democracy and Education that work belongs to the educative life of a person, not to its payment plan: the sorting of children into laborers and gentlemen is the injury.
+The same chapter adds that "to predetermine some future occupation for which education is to be a strict preparation is to injure the possibilities of present development", and closes the argument with "The only adequate training for occupations is training through occupations" ([Dewey, Democracy and Education, ch. 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)). The sorting of children into laborers and gentlemen is the injury, on his account, and the dignity of the work lies in what it grows. A tradition that set the calling in a station one was placed in and an account that refuses to predetermine the occupation do not prescribe the same working life; what they share is the refusal to measure work by its wage alone. The Benedictine [Ora et labora](https://clemvillatte.github.io/flourishing-compendium/#card=Ora%20et%20labora) holds a third arrangement: prayer and work under one rule, neither answerable to the other.
 
-> "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)): the same chapter: "The only adequate training for occupations is training through occupations."
+The research tradition asks the fitting question at its own scale. [Person-organization fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-organization%20fit) holds Kristof-Brown, Zimmerman and Johnson's finding that a person's values matching those of the organization predicts satisfaction, commitment and staying more than performance. [Life-span, life-space career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Life-span%2C%20life-space%20career%20theory) holds Super's stages from growth through exploration, establishment and maintenance to disengagement, each with its career development tasks. [Social cognitive career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20career%20theory) extends Bandura's framework to how interests and choices develop, and [Krumboltz Learning Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Krumboltz%20Learning%20Theory) names the four categories of influence on the path: genetic endowment and special abilities, environmental conditions and events, learning experiences, and task approach skills. Whether a livelihood grows the person is partly a matter of fit and partly of timing, and these models map the ground the calling question works on. They describe how working lives unfold; the question of what work does to the person inside them is where the modern evidence gets darker.
 
-[Ora et labora](https://clemvillatte.github.io/flourishing-compendium/#card=Ora%20et%20labora): the Benedictine motto, drawn from the Rule's balance of the Divine Office and manual labor: prayer and work under one rule.
+### What does work do to the person doing it?
 
-[Person-organization fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-organization%20fit): the research on whether a person's values match those of the organization they work in; Kristof-Brown, Zimmerman and Johnson's meta-analysis found fit predicts satisfaction, commitment and staying more than performance.
+The clinical tradition has a name for work that hollows the person out. [Burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout) is the WHO's ICD-11 term for a syndrome resulting from chronic workplace stress that has not been successfully managed: energy depletion, mental distance or cynicism about the job, and reduced professional efficacy. [Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model) holds the definition researchers use: emotional exhaustion, depersonalization and reduced personal accomplishment among individuals who do people work of some kind.
 
-[Life-span, life-space career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Life-span%2C%20life-space%20career%20theory): Super's theory: five stages from growth through exploration, establishment and maintenance to disengagement, each with its career development tasks and roles.
+Two models locate the failure in the exchange rather than the person. [Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance) holds Siegrist's account of occupational stress as a failed social exchange, high cost and low gain between efforts spent and rewards received. [The job demands-resources model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20job%20demands-resources%20model) holds Demerouti, Bakker, Nachreiner and Schaufeli's two-category account: demands relate to exhaustion, lacking resources to disengagement. What a person can do about a hollowing job depends on which of these describes it, and the design question is the worker's ally here: [Job characteristics model](https://clemvillatte.github.io/flourishing-compendium/#card=Job%20characteristics%20model) holds Hackman and Oldham's finding that skill variety, task identity, task significance, autonomy and feedback are the characteristics that make work itself meaningful.
 
-[Social cognitive career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20career%20theory): Lent, Hackett and Brown's model of how people develop educational and occupational interests, make choices and attain different levels of success, extending Bandura's social cognitive framework to career development.
+Some of the harm is done through the feelings the work requires. [Impression-management burnout research](https://clemvillatte.github.io/flourishing-compendium/#card=Impression-management%20burnout%20research) holds the emotional-labor line: surface acting, faking the required display, relates to impaired well-being across the meta-analysis, while deep acting, actually changing the feeling, is the studied alternative. A worker who must perform a self all day is carrying a load the job description never names.
 
-[Krumboltz Learning Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Krumboltz%20Learning%20Theory): Mitchell and Krumboltz's learning theory of career decision making: four categories of influence on the career path, genetic endowment and special abilities, environmental conditions and events, learning experiences, and task approach skills.
+Two further cards widen the frame to what the work is for. [The having mode](https://clemvillatte.github.io/flourishing-compendium/#card=The%20having%20mode) holds Fromm's account of the mode of experience in which the self relates to the world by possession, wanting to make everybody and everything, including itself, its property; the being mode is the alternative the card holds beside it. [The attention economy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20attention%20economy) holds the market for attention as a factor in working life, and the card itself flags its flagship phone-presence study as influential but contested. [AT059 — Recognise the attention economy — your attention is the product](https://clemvillatte.github.io/flourishing-compendium/#card=AT059%20%E2%80%94%20Recognise%20the%20attention%20economy%20%E2%80%94%20your%20attention%20is%20the%20product) is the formation principle for work done inside that market: the attention being sold is yours.
 
-### What work does to the worker
+### How much effort, and how much rest?
 
-[Burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout): the WHO's ICD-11 name for a syndrome resulting from chronic workplace stress that has not been successfully managed: energy depletion, mental distance or cynicism about the job, and reduced professional efficacy.
+The path itself puts a sixth factor beside the fifth: [Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort), the question of how hard to pull. The classical statement of the measure is Aristotle's mean, held on [The right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way. [The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention) holds William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will, which is the effort work draws on. Effort spent without recovery, though, is the pattern the recovery research names and the burnout research measures.
 
-[Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model): Maslach's definition: a syndrome of emotional exhaustion, depersonalization and reduced personal accomplishment that can occur among individuals who do people work of some kind.
+The recovery evidence gives the rhythm a research base. [Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles) holds Sonnentag and Fritz's finding that four recovery experiences can be differentiated: psychological detachment from work, relaxation, mastery and control. The rest of the tradition says what the recovery is for.
 
-[Effort-reward imbalance](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-reward%20imbalance): Siegrist's model of occupational stress as a failed social exchange: high cost, low gain conditions between efforts spent and rewards received.
+[Discipline of rest](https://clemvillatte.github.io/flourishing-compendium/#card=Discipline%20of%20rest) holds rest as a practice rather than a remainder: the rule that the recovery is part of the work. [The completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) holds rest as something complete in itself rather than the mere absence of work.
 
-[The job demands-resources model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20job%20demands-resources%20model): Demerouti, Bakker, Nachreiner and Schaufeli's two-category account of working conditions: demands relate to exhaustion, lacking resources to disengagement.
+[The importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest) carries Aristotle's formula from Nicomachean Ethics X.7: we toil that we may rest, and war that we may be at peace. [The rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest) holds the Zhuangzi's sixth chapter: life spent in toil, old age seeking ease, rest at death; what makes my life a good makes my death also a good.
 
-[Job characteristics model](https://clemvillatte.github.io/flourishing-compendium/#card=Job%20characteristics%20model): Hackman and Oldham's work design: skill variety, task identity, task significance, autonomy and feedback, the characteristics that make work itself meaningful.
+Rest has its own tradition of ends. [Leisure](https://clemvillatte.github.io/flourishing-compendium/#card=Leisure) holds Pieper's account of leisure as the basis of culture: stillness, receptive understanding and affirmation rather than the mere break between shifts. [A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work) is the Aristotelian formation rule: leisure as the end work serves, schole, the condition of contemplation. Confucius gives the rhythm a diagnostic use on [Judging by where one rests](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests): see what a man does, mark his motives, examine in what things he rests, from Analects 2.10, because the resting place is the hardest thing to fake. A livelihood that leaves no honest place to rest is answering a question about output while quietly deciding the shape of the life.
 
-[Impression-management burnout research](https://clemvillatte.github.io/flourishing-compendium/#card=Impression-management%20burnout%20research): the emotional-labor line: surface acting, faking the required display, relates to impaired well-being across the meta-analysis, and deep acting, actually changing the feeling, is the studied alternative.
+### Where does a livelihood sit inside a whole life?
 
-[The having mode](https://clemvillatte.github.io/flourishing-compendium/#card=The%20having%20mode): Fromm's account of one of the two fundamental modes of experience, in which the self relates to the world by possession, wanting to make everybody and everything, including itself, its property; the being mode is the alternative the card holds beside it.
+The hardest cases ask whether a livelihood is worth its terms at all. [The examined economics](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examined%20economics) holds the Apology read as a pricing problem: Socrates offered his life on the condition of silence, the unexamined life not worth living, the case where no livelihood is worth its terms. The larger effects have their own standard on [The commonwealth of the good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20commonwealth%20of%20the%20good): Augustine's two cities, where there is no justice there is no commonwealth, the measure a livelihood's wider effects are held against. And where harm has been done in the course of a trade, [Restorative justice](https://clemvillatte.github.io/flourishing-compendium/#card=Restorative%20justice) holds the repair tradition for putting it right.
 
-[The attention economy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20attention%20economy): the market for attention as a factor in working life, held with its unresolved findings: the card itself flags its flagship phone-presence study as influential but contested.
+The last entry in the map returns the question to the person doing the work. [Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action) holds Wang Yangming's doctrine of the unity of knowledge and action: there have never been people who know but do not act; those who are supposed to know but do not act simply do not yet know. On that doctrine a livelihood is known in the doing, and the person who cannot say what their work is doing to them has not yet finished looking.
 
-[AT059 — Recognise the attention economy — your attention is the product](https://clemvillatte.github.io/flourishing-compendium/#card=AT059%20%E2%80%94%20Recognise%20the%20attention%20economy%20%E2%80%94%20your%20attention%20is%20the%20product): the formation principle for work done inside that market: the attention being sold is yours.
+## Where the traditions genuinely disagree
 
-### Rest, effort and the rhythm of work
+### May human beings be part of the economy's business?
 
-[Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences can be differentiated, psychological detachment from work, relaxation, mastery and control.
+The two oldest accounts here give the sharpest available answer, and it is worth stating exactly what each one says. The Buddhist floor names the trade: "business in human beings" is one of the five a lay follower should not engage in ([Thanissaro, AN 5.177](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)). Aristotle's household science, in the Politics, builds the person into its inventory as a matter of nature:
 
-[The right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): Aristotle's mean: to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way.
+> "For he is by nature a slave who is capable of belonging to another （and that is why he does so belong）, and who participates in reason so far as to apprehend it but not to possess it." ([Aristotle, Politics 1.1254b, Rackham translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1254b))
 
-[Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort): the path's own sixth factor, the effort factor of the training, the sibling question of how hard to pull.
+The same work treats the acquiring as legitimate: "The science of acquiring slaves is different both from their ownership and their direction—that is, the just acquiring of slaves, which is akin to the art of war or that of the chase" ([Aristotle, Politics 1.1255b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1255b)), and grounds it in nature: "this warfare is by nature just. One kind of acquisition therefore in the order of nature is a part of the household art" ([Aristotle, Politics 1.1256b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1256b)).
 
-[The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention): William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will, the effort work draws on.
-
-[Discipline of rest](https://clemvillatte.github.io/flourishing-compendium/#card=Discipline%20of%20rest): rest as a practice rather than a remainder: the rule that the recovery is part of the work.
-
-[The completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest): the entry holding rest as something complete in itself rather than the mere absence of work.
-
-[The importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest): Aristotle's formula in Nicomachean Ethics X.7: we toil that we may rest, and war that we may be at peace.
-
-[The rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest): the Zhuangzi's sixth chapter: life spent in toil, old age seeking ease, rest at death; what makes my life a good makes my death also a good.
-
-[Leisure](https://clemvillatte.github.io/flourishing-compendium/#card=Leisure): Pieper's account of leisure as the basis of culture: stillness, receptive understanding and affirmation rather than the mere break between shifts.
-
-[A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): the Aristotelian formation rule: leisure as the end work serves, schole, the condition of contemplation.
-
-[Judging by where one rests](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests): Confucius's rule from Analects 2.10: see what a man does, mark his motives, examine in what things he rests; the resting place is the hardest thing to fake.
-
-### Work inside a life
-
-[The examined economics](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examined%20economics): the Apology read as a pricing problem: Socrates offered his life on the condition of silence declines, the unexamined life not worth living, the case where no livelihood is worth its terms.
-
-[The commonwealth of the good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20commonwealth%20of%20the%20good): Augustine's two cities: where there is no justice there is no commonwealth, the standard a livelihood's larger effects are held against.
-
-[Restorative justice](https://clemvillatte.github.io/flourishing-compendium/#card=Restorative%20justice): the repair tradition for harms done, including harms done in the course of a trade.
-
-[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine of the unity of knowledge and action: there have never been people who know but do not act; those who are supposed to know but do not act simply do not yet know.
-
-### The stories and sayings
-
-The theme comes in narrative form too:
-
-[ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): arriving at Gombe in 1960 with no formal training, her discoveries redefine the boundary between human and animal; in 1986, seeing the scale of the destruction, she leaves fieldwork permanently and becomes an activist who travels roughly 300 days a year.
-
-[ST432 — Jim Forest Washes the Dishes](https://clemvillatte.github.io/flourishing-compendium/#card=ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): the peace activist offers to wash the dishes and Thich Nhat Hanh answers that there are two ways to wash them, to have clean dishes and to wash the dishes; hurrying to get them out of the way is the failure of the first.
-
-[ST008 — Siddhartha Learns from the River](https://clemvillatte.github.io/flourishing-compendium/#card=ST008%20%E2%80%94%20Siddhartha%20Learns%20from%20the%20River): having tried asceticism, pleasure and worldly success, Siddhartha lives beside the river with the ferryman Vasudeva, and the lesson is not a doctrine but a way of hearing the river's many voices.
-
-[ST340 — Fukuoka Learns to Do Nothing](https://clemvillatte.github.io/flourishing-compendium/#card=ST340%20%E2%80%94%20Fukuoka%20Learns%20to%20Do%20Nothing): the customs-office microbiologist's hospital stay with pneumonia in 1937 changes his view of his own profession; he resigns his research post and returns to the family farm with a question: what happens if you stop?
-
-[ST290 — Job and the Whirlwind](https://clemvillatte.github.io/flourishing-compendium/#card=ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job, righteous and prosperous, suffers catastrophe after catastrophe; his three friends explain at length that his suffering is a punishment for his sin; God answers from the whirlwind with a speech that is questions, and the friends are rebuked for not speaking of God what is right.
-
-[ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same.
+What the disagreement turns on is whether a human being can legitimately be an item of economic life at all. The Buddhist text refuses the commerce; the Aristotelian text treats acquiring, holding and directing as part of the natural management of a household. I have to state the limit of the comparison honestly: no passage I opened on either side meets the other on the same practice. The sutta addresses the buying and selling, and says nothing about holding; the Politics addresses acquiring, owning and employing, and never evaluates the trade. The two traditions pull against each other on the underlying question, and a reader who wants a clean head-on collision will not find one in these texts; I lean toward the Buddhist side, because the floor it sets is the one a person can still stand on when the arguments from nature have fallen away.
 
 ## Practice: variation, selection, retention
 
@@ -137,23 +96,23 @@ The theme comes in narrative form too:
 
 ::Selection:: The practices I have selected as sources of that variation:
 
-1. [B025 — Practice right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=B025%20%E2%80%94%20Practice%20right%20livelihood): the floor check: no trade in weapons, poisons, intoxicants or exploitation, and the work aligned with the values you hold.
+1. [B025 — Practice right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=B025%20%E2%80%94%20Practice%20right%20livelihood): run the floor check before the next job decision, the trade in weapons, poisons, intoxicants or exploitation ruled out and the work aligned with the values you hold. Notice whether the check has ever changed a decision, or whether it only confirms choices already made.
 
-2. [B152 — Align your work with your values (right livelihood, revisited)](https://clemvillatte.github.io/flourishing-compendium/#card=B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29): the revisiting pass: the list does not choose among the permitted livelihoods, so the values alignment is a separate and repeatable act.
+2. [B152 — Align your work with your values (right livelihood, revisited)](https://clemvillatte.github.io/flourishing-compendium/#card=B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29): repeat the alignment as its own pass, since the list does not choose among the permitted livelihoods. Notice what the revisiting turns up that the first choice did not consider.
 
-3. [K149 — Values clarification](https://clemvillatte.github.io/flourishing-compendium/#card=K149%20%E2%80%94%20Values%20clarification): write the answer to what you want your life to stand for in three to five domains, values as directions rather than goals; the measurement tradition is the Valued Living Questionnaire.
+3. [K149 — Values clarification](https://clemvillatte.github.io/flourishing-compendium/#card=K149%20%E2%80%94%20Values%20clarification): write the answer to what you want your life to stand for in three to five domains, values as directions rather than goals, in the Valued Living Questionnaire tradition. Notice which domain the working life touches least.
 
-4. [K320 — Values coherence check](https://clemvillatte.github.io/flourishing-compendium/#card=K320%20%E2%80%94%20Values%20coherence%20check): monthly, read the calendar against the stated values: where does the way time is spent contradict the priorities said out loud.
+4. [K320 — Values coherence check](https://clemvillatte.github.io/flourishing-compendium/#card=K320%20%E2%80%94%20Values%20coherence%20check): monthly, read the calendar against the stated values. Notice where the way time is spent contradicts the priorities said out loud, and take one item from that list into the next month.
 
-5. [K200 — Rest as practice](https://clemvillatte.github.io/flourishing-compendium/#card=K200%20%E2%80%94%20Rest%20as%20practice): schedule one deliberate do-nothing period daily, ten minutes, guilt-free; rest as the root of activity rather than its absence.
+5. [K200 — Rest as practice](https://clemvillatte.github.io/flourishing-compendium/#card=K200%20%E2%80%94%20Rest%20as%20practice): schedule one deliberate do-nothing period daily, ten minutes, guilt-free, rest as the root of activity rather than its absence. Notice what the first days of it show about how much rest was actually being taken.
 
-6. [A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): the Aristotelian formation rule: leisure as the end work serves, schole, the condition of contemplation.
+6. [A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): treat leisure as the end work serves, schole, the condition of contemplation. Notice whether the leisure is entered on its own terms or used as another place to be productive.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the floor check, or the revisiting habit, or the recovery discipline has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
 ## Story: the stories that carry the theme
 
-The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
+The question of a livelihood becomes concrete when a whole working life is in view: a career left on principle, a trade redesigned, a price refused, a rhythm corrected.
 
 ### Work that is one with the life
 
