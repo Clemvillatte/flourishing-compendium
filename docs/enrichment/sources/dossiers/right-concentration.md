@@ -437,3 +437,15 @@ section carries one-line loglines. Checker exit 0 (61 card links
 resolve, 30 headers, 3 external carriers); density check 0 dense; 25
 paragraphs, 1.8 card links per paragraph. No edits needed; verified
 and released.
+
+## QC pass (worker-pplx-dos25-1025g, 2026-10-25)
+
+One quote reported not found: the verifier's parser treated the
+text between two inline-quoted renderings on the Shankman paragraph
+("one-pointedness," fixated on a single object, and as
+"unification of mind,") as a pseudo-quote. The two-word renderings
+are now unquoted (the paragraph's actual quoted sentences, the
+Shankman readings, are unchanged); no claim was changed. quote_verify
+now reports 6 checked, 0 not found. Checker exit 0 (61 card links,
+30 headers, 3 external carriers); density 0 dense; no prose em
+dashes.
