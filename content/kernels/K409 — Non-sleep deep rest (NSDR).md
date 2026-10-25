@@ -14,9 +14,9 @@ Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew
 
 ### Protocol
 
-1. Set aside time when you will not be interrupted — Huberman's own scripts run 10, 20, or 30 minutes. Lie down somewhere comfortable (flat on your back works well) and let your arms rest beside you.
+1. Set aside time when you will not be interrupted — Huberman's own scripts run 10, 20, or 30 minutes. Lie down somewhere comfortable (the exact position is your choice) and let your arms rest beside you.
 2. Play a recorded guided script and close your eyes. You stay still and follow the voice rather than doing anything yourself.
-3. The script will walk your attention through a slow body scan, and most scripts weave in long-exhale breathing, since exhales slow the heart rate. Let sleepiness come if it comes; falling asleep is allowed, though staying awake is the point.
+3. The script will walk your attention through a slow body scan, and many scripts weave in breathing guidance. Let sleepiness come if it comes; falling asleep is allowed, though staying awake is the point.
 4. Rise slowly at the end. Huberman says even a brief 10-minute script has benefits, but to aim for 20 to 30 minutes if possible. If you are recovering from a poor night's sleep, a 30 to 60-minute session is recommended.
 
 ### Evidence
@@ -27,7 +27,7 @@ A positron emission tomography study using a dopamine tracer estimated that duri
 
 > "All participants reported a decreased desire for action during meditation, along with heightened sensory imagery." — [Kjaer et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11958969/)
 
-In a randomised controlled trial with 362 adults (101 on the 11-minute form, 80 on the 30-minute form, 74 on a 10-minute music control, 107 on a waitlist), an 11-minute online yoga nidra audio, practiced ideally daily over two months, produced improvements over the waitlist with small effect sizes (d = 0.08 to 0.16; the paper's outcomes were subjective well-being and diurnal cortisol, per its title), and reduced depression more than the 10-minute music control (d = 0.13). Regular practice was associated with lower total daily cortisol output ([Moszeik et al. 2025, abstract](https://pubmed.ncbi.nlm.nih.gov/40373021/)). Note: these studies examined yoga nidra, not the linked Huberman recording specifically; the term NSDR and the protocol above are Huberman's framing of the same underlying practice.
+In a randomised controlled trial with 362 adults (101 on the 11-minute form, 80 on the 30-minute form, 74 on a 10-minute music control, 107 on a waitlist), an 11-minute online yoga nidra audio, practiced ideally daily over two months, produced improvements over the waitlist with small effect sizes (d = 0.08 to 0.16), and reduced depression more than the 10-minute music control (d = 0.13). Regular practice was associated with lower total daily cortisol output ([Moszeik et al. 2025, abstract](https://pubmed.ncbi.nlm.nih.gov/40373021/)). Note: these studies examined yoga nidra interventions, not the linked Huberman recording.
 
 > "The intervention was delivered online via pre-recorded audio files and practiced ideally daily over 2 months. Significant improvements were observed for the 11-min Yoga Nidra group compared to the WC (effect sizes d = 0.08-0.16). Regular practice was associated with reductions in total cortisol and steeper diurnal slopes." — [Moszeik et al. 2025](https://pubmed.ncbi.nlm.nih.gov/40373021/)
 
