@@ -15,7 +15,7 @@ The quote is taken from an open journal article whose footnote 12 cites that pag
 
 ### What the discipline involves
 
-The article's author, Maria Przanowska, works out a hermeneutics of listening in several registers, from unwitting listening to witting listening, and records Gadamer's advice to his students: "You must sharpen your ear" in order to understand ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)). On her account there is no understanding without listening, and the listener is not passively fixed on a sound: "we are the openness which welcomes a question". Even the simplest question must be heard before it can become a real question calling for an answer.
+The article's author, Maria Przanowska, works out a hermeneutics of listening in several registers, from unwitting listening, where different sounds simply reach our ears, to witting listening, the intentional, deliberate kind that "reads out" a sense, and records Gadamer's advice to his students: "You must sharpen your ear" in order to understand ([SPI, 2015](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946)). On her account there is no understanding without listening, and the listener is not passively fixed on a sound: "we are the openness which welcomes a question". Even the simplest question must be heard before it can become a real question calling for an answer.
 
 ## Related concepts
 
