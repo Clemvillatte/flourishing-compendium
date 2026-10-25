@@ -18,7 +18,6 @@
     "PP076",
     "PP080",
     "PP083",
-    "R017",
     "R043",
     "R072",
     "S108",
@@ -30,7 +29,8 @@
     "BI059",
     "PP077",
     "PP078",
-    "R019"
+    "R019",
+    "R017"
   ],
   "in_progress": null,
   "flagged": {
@@ -40,13 +40,13 @@
     "PP066": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (miss-day framing from Lally 18-254 days, small-coin gains scoping); validator PASS",
     "PP070": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Savoring wikilink preserved; broken 'is my.' Scope line repaired; 'as I read it' reworded; validator PASS",
     "PP078": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)",
-    "R017": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (ties-not-state framing, honest limits kept); no new claims; validator PASS",
+    "R017": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.69)",
     "PP077": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.54)",
     "R019": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.88)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:33:55+00:00",
+  "updated": "2026-10-25T12:34:03+00:00",
   "band_done": false,
   "notes": {
     "BI059": {
@@ -72,6 +72,12 @@
       "claims": "n/a",
       "limitations": "2004 framework cited at second hand",
       "url": "https://www.niaa.gov.au/sites/default/files/documents/publications/mhsewb-framework_0.pdf"
+    },
+    "R017": {
+      "qc": "Plain-words replicate replaced (0.69 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "Working Together chapter not directly opened",
+      "url": "https://research.bond.edu.au/en/publications/aboriginal-and-torres-strait-islander-social-and-emotional-wellbe/"
     }
   }
 }
