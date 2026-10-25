@@ -170,3 +170,13 @@ verifier's entries say so explicitly), so recording or transcript reads
 remain outstanding before those four carry module instruction; the
 module rebuilds can proceed to design once the Phase 0 stop-gate lifts,
 with that content check inside the rebuild.
+
+### Socratic-method gap: candidate sources (2026-10-25)
+
+Two verified candidates now exist for the future Socrates and the
+examined life module (details and evidence in ledgers/deg-wol-greek.md):
+the Sadler Apology lecture (1:06:20, transcript-classified) and the
+Sadler Crito lecture (59:39, transcript-classified), both from the same
+Fall 2011 Marist Introduction to Philosophy series, both freely
+playable, both unattached. Wiki reading basis inventoried in the same
+ledger. Module design remains behind the Phase 0 stop-gate.
