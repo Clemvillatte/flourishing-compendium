@@ -33,6 +33,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- 2026-10-25 10:40Z worker-pplx-de55fdba: took p1a for principle source/voice repairs; account launch blocked at secure email verification.
 - 2026-10-25 ~06:0?Z worker-pplx-dos22-1025-0600: right-livelihood now carries TWO substantiated disagreements (Maslach-Leiter vs Schaufeli on the engagement/burnout relation; Pieper vs the work-centred outlook on the telos of work) + bounded AN 5.177 vs Politics comparison relocated out of the disagreement section; advisor QC applied (2 rounds); all checks green (62 card links, 16 headers, 12 external carriers; density 0; 11 quotes verified 0 not-found); 3-5 bar still UNMET at 2 of 3 — supervisor/owner disposition requested (source: dos22 ledger entry, commit 55466607c).
 - 2026-10-25 ~05:58Z dos34 (1025k): leisure at 2 substantiated (Aristotle-Russell; Stebbins-Veal); 1 more needed.
 - 2026-10-25 ~06:07Z assistant-supervisor-1025e: anger re-spliced and verified (3 substantiated disputes, all fragments raw-checked; 1 capitalization repair); dos22 at 2-of-3 — lane stays open per standing ruling, no exception at supervisor level; dos34 at 2-of-3, worker continuing.
