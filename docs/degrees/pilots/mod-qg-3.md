@@ -42,12 +42,13 @@ Prerequisites rewritten as observable competencies:
 Instruction (each outcome taught):
 
 - Outcome 1: the module's guided instruction. The legacy required medium
-  QG-M03-01 FAILS the accessibility standard on page-level evidence (see
-  the verification section: the page's own video metadata marks the video
-  accessible:false and public:false, with a VOD login), so the module
-  needs a REPLACEMENT guided 5-minute session from the free body of
-  teaching, or an owner ruling on YoQi access. A replacement candidate
-  was located and partly verified this session (2026-10-25, see the
+  QG-M03-01 is WITHHELD on page-level evidence (see the verification
+  section: the page's own video metadata marks the video accessible:false
+  and public:false with a VOD login, and anonymous playback is not
+  verified), so the module needs a REPLACEMENT guided 5-minute session
+  from the free body of teaching, or an owner ruling on YoQi access. A
+  replacement candidate was located and partly verified this session
+  (2026-10-25, see the
   verification section): "5 Minute Standing Tree Meditation: Beginner
   Qigong for Calm, Posture & Grounding" (Stillness Studio Sanctuary),
   described by its page as a guided beginner session through posture,
@@ -100,15 +101,17 @@ rungs only.
   there"; session 3, 6 minutes, notes "calmer, breathing settled".
   Week 3, three sessions planned at 7; session 2, 7 minutes, notes
   "tremble started at 6:30, stood through to 7". Then one printed
-  adjustment with its reasoning: "the tremble starts around minute 6
-  of continuous standing in both weeks, so week 5 keeps two sessions
-  at the full 8-minute rung and splits the third into 4 minutes plus
-  4 minutes with a short rest, because the log shows the tremble is a
-  duration effect, not a posture effect (it starts at the same minute
-  whether the shoulders are held or not)". The learner is told this
+  adjustment stated as a TRIAL WITH EXPLICIT UNCERTAINTY: "trembling
+  appeared around six minutes in these two entries. The cause is
+  unclear. Proposed trial for week 5 (rung 9 minutes): keep two
+  sessions at the full rung and split the third into 4 minutes plus
+  4 minutes with a short rest; the next log will record what
+  happens". A split session is PRACTICE ONLY: it counts toward the
+  week's practice allocation and NEVER as one of the assessed
+  continuous 15-minute stands. The learner is told this
   sample IS the format: planned rung, minutes stood per session, one
-  observation per session, one adjustment per week with a reason
-  drawn from the observations.
+  observation per session, one adjustment per week stated as a trial
+  with a reason drawn from the observations.
 
 Practice (the module's spine, with an explicit schedule):
 
@@ -152,20 +155,47 @@ Assessment (rubric rewritten to observable criteria):
   the checkpoints before module close (L2 into early L3 independence).
   The instrument is a plain checklist printed on the module page (a
   house-designed assessment rule, distinct from the source-backed
-  practice instructions above). For each of the five checkpoints the
-  learner records YES, PARTLY or NOT YET with one sentence of evidence
-  from their own log or photographs; the checklist states what satisfies
-  each outcome and what requires further practice:
+  practice instructions above). It separates what a PHOTOGRAPH can show
+  (posture checkpoints: feet, knees, tailbone and hips, shoulder and
+  arm shape, and the head-crown line) from what only the LEARNER can
+  report (breathing quality, attention, where tension was found and
+  released); the photograph-observable items are the ones that carry
+  the pass decision, and the self-report items are recorded as context,
+  never as pass evidence. For each of the five checkpoints the learner
+  records YES, PARTLY or NOT YET with one sentence of evidence from
+  their own log or photographs. Observable anchors for each rating
+  (the same anchors define the rubric lines above):
+  - YES: a week 14 photograph shows the checkpoint (for example, the
+    knees visibly soft, not locked straight) AND the log sentence names
+    it without prompting.
+  - PARTLY: the photograph shows the checkpoint in the opening
+    minutes' stance but the log notes it was lost partway through the
+    stand (for example, shoulders noted rising in minute 9).
+  - NOT YET: the photograph cannot show the checkpoint (for example,
+    locked knees) or the log never mentions it.
+  One unmet checkpoint (a single NOT YET on any one of the five) means
+  further practice on THAT checkpoint while the module continues: the
+  learner adds one extra practice session per week focused on that
+  checkpoint and reassesses it at the next weekly log review. Two or
+  more NOT YET across the four assessed stands means the outcome is
+  not yet met: hold 15 minutes for two more weeks and reassess the
+  full checklist.
   - Outcome 1 satisfied when: four logged 15-minute stands (weeks 11
-    to 14) each marked with at least PARTLY on the posture checkpoints.
-    Any NOT YET on two or more checkpoints across those stands means
-    further practice: hold 15 minutes for two more weeks and reassess.
+    to 14) each marked with at least PARTLY on every posture
+    checkpoint, with the pass decision carried by the
+    photograph-observable items as stated above.
   - Outcome 2 satisfied when: both photographs carry all five
-    checkpoints named and one correction each. Missing names means
+    checkpoint names and one correction each. Missing names means
     redo the annotation, not the photograph.
-  - Outcome 3 satisfied when: the final log entry names one adjustment,
-    the observation it came from, and the reason. An adjustment with no
-    observation behind it is a redo.
+  - Outcome 3 satisfied when: the final log entry names one adjustment
+    stated as a trial, the observation it came from, and what the next
+    log will record. An adjustment with no observation behind it is a
+    redo.
+  - Strong example (rubric line 1): a week 12 log entry reading
+    "15 minutes, checkpoints held to minute 12, knees softened at 13
+    after a reminder" passes; it shows minutes, checkpoints and an
+    honest loss. Rejection example: "15 min, felt good" fails; it
+    records no checkpoint and no observation.
   - The closing self-assessment records the checklist totals and one
     sentence on what changed between the week 1 and week 14
     photographs.
@@ -174,8 +204,9 @@ Workload (honest arithmetic, components summed, measured and estimated
 kept distinct):
 
 - Guided instruction: NO required recording at present. The legacy
-  required medium QG-M03-01 FAILS the accessibility standard (see the
-  verification section) and is removed from the required sequence; a
+  required medium QG-M03-01 is WITHHELD pending an access check or
+  replacement (see the verification section) and is not in the required
+  sequence; a
   replacement guided 5-minute session is a candidate pending duration
   verification. Any guided session the module later assigns is
   performed as one of the week's practice sessions, so its minutes are
@@ -209,8 +240,9 @@ kept distinct):
 
 Verification status:
 
-- QG-M03-01 (legacy REQUIRED medium): FAILS the accessibility standard
-  on page-level evidence and is REMOVED from the required sequence.
+- QG-M03-01 (legacy REQUIRED medium): WITHHELD from the required
+  sequence on page-level evidence (access check or replacement
+  pending); see the verification-status section below.
   Checks performed this session (2026-10-25, URL
   https://videos.yoqi.com/video/959): the page confirms the title
   "5 Minutes of Zhan Zhuang Self Practice", presenter Marisa Cranfill,
@@ -218,11 +250,16 @@ Verification status:
   page's own video metadata marks the video "accessible": false and
   "public": false, with purchases and rentals not allowed and a "VIDEO
   ON DEMAND LOGIN" link present, and the page HTML contains no video
-  player, stream URL or playable source. The skill's accessibility rule
-  (the link resolves for an anonymous visitor; no paywalled or
-  app-gated content, owner ruling 2026-10-25) is therefore failed at
-  page level: an anonymous visitor cannot play the recording. The
-  inherited "free trial" gate-evidence label is consistent with this.
+  player, stream URL or playable source. ANONYMOUS PLAYBACK IS NOT
+  VERIFIED: the metadata flags and the absent stream URLs are page
+  evidence, not an observed playback failure (the page loads its
+  player with JavaScript and no playback attempt was made on YoQi
+  this session); the resource is WITHHELD from the pilot pending an
+  access check or replacement. The skill's accessibility rule (the
+  link resolves for an anonymous visitor; no paywalled or app-gated
+  content, owner ruling 2026-10-25) cannot be shown to pass on this
+  evidence. The inherited "free trial" gate-evidence label is
+  consistent with the flags.
   This supersedes this pilot's earlier page-level note (no paywall
   visible) which read only the rendered text, not the page's video
   metadata. Disposition: the module owner replaces it, or the owner
@@ -334,6 +371,45 @@ Status after round 4: the pilot remains DRAFT NOT CLEARED (a final
   advisor verification of this revision is pending); the required-
   guided-session replacement is the main open item for the module owner
   or verification band, plus the owner ruling on YoQi VOD access.
+
+## Advisor QC round 5 (2026-10-25, strategist session)
+
+The advisor's round-5 review found the required-teaching gap still
+open and demanded precision; repairs applied in this revision:
+
+- The access finding is stated with its actual certainty: anonymous
+  playback is NOT VERIFIED (the metadata flags and absent stream URLs
+  are page evidence, not an observed playback failure; no playback
+  attempt was made on YoQi); QG-M03-01 is WITHHELD from the pilot
+  pending an access check or replacement, not declared "failed" as an
+  observed interaction.
+- The worked example's week-5 rung is corrected to 9 minutes (the
+  ladder's own arithmetic), the causal "duration effect" conclusion is
+  replaced with explicit uncertainty (the cause is unclear; the
+  adjustment is a trial and the next log will record what happens),
+  and split sessions are marked PRACTICE ONLY, never counted as one
+  of the assessed continuous 15-minute stands.
+- The self-assessment instrument now separates photograph-observable
+  posture checkpoints (which carry the pass decision) from learner
+  self-reports (breathing, attention, tension; recorded as context,
+  never as pass evidence); each YES/PARTLY/NOT YET rating carries an
+  observable anchor; ONE unmet checkpoint means targeted further
+  practice on that checkpoint while the module continues (two or more
+  means the outcome is not yet met); strong and rejection examples are
+  printed for the first rubric line per the skill's rubric rule.
+- The required-teaching gap remains OPEN and is recorded as the
+  blocking item: no guided session is currently assigned. A transcript
+  read of the replacement candidate was attempted and BLOCKED from
+  this session's environment (the YouTube transcript panel would not
+  open; playback, watch-page HTML and the innertube API were already
+  exhausted in earlier rounds). The verification band or the module
+  owner completes the candidate's duration and recording-level checks.
+
+Recorded checkpoint (advisor wording): practice-pilot review remains
+not cleared. Schedule and workload accounting are repaired; required
+guided teaching, resource verification, worked-example reasoning and
+performance criteria remain incomplete. Optional candidates remain
+unassigned. No gate cleared.
 
 ## What this pilot demonstrates
 

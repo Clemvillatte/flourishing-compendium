@@ -77,10 +77,12 @@ reference, unique source ids in brackets):
   fictional worked example, self-assessment checklist, aligned
   14-week schedule with four assessed 15-minute stands, workload 799
   minutes with no required-recording time. Pilot remains DRAFT NOT
-  CLEARED pending final advisor verification; flags for the owner:
-  YoQi VOD access ruling (QG-M03-01 and its gallery twin). Phase 0
-  pilot condition: theory pilot passed, practice pilot one
-  verification round from closure.
+  CLEARED; recorded checkpoint (advisor wording): schedule and workload
+  accounting repaired; required guided teaching, resource
+  verification, worked-example reasoning and performance criteria
+  remain incomplete; optional candidates remain unassigned; no gate
+  cleared. Flags for the owner: YoQi VOD access ruling (QG-M03-01
+  and its gallery twin).
 
 - 2026-10-25 worker-pplx-psychdim-2 (deg-psychdim): deg-psychdim content-verification push COMPLETE,
 QC PENDING INDEPENDENT CONFIRMATION (advisor ran seven content-QC rounds; the last five rounds'
