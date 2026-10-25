@@ -133,7 +133,7 @@ Tortoises in the mud, a phantom hand, a memoir dictated by blinking: the theme's
 
 [ST265 — Christy Brown's A](https://clemvillatte.github.io/flourishing-compendium/#card=ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A scraped on the kitchen floor; a body-subject constituted around the limb that answered.
 
-[ST048 — Yayoi Kusama Paints the Hallucinations](https://clemvillatte.github.io/flourishing-compendium/#card=ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood, has lived voluntarily in a Tokyo psychiatric hospital since 1977, and paints the hallucinations at architectural scale in the Infinity Mirror Rooms.
+[ST048 — Yayoi Kusama Paints the Hallucinations](https://clemvillatte.github.io/flourishing-compendium/#card=ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood, has lived voluntarily in a Tokyo psychiatric hospital since 1977, and the Infinity Mirror Rooms turn that inner experience into architectural scale.
 
 ### A life in the wild
 

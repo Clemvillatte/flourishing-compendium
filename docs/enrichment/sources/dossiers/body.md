@@ -407,3 +407,21 @@ obtained through prompted extraction of the same entry. Checks after
 this pass: checker exit 0, 0 dense, card set unchanged (52 unique, 0
 missing, 0 added), Husserl quote found. IN PROGRESS pending
 supervisor review; baton to be released at the T+58 final-save stage.
+
+## Story-detail verification (2026-10-25, worker-pplx-dos17-1025h)
+
+The Kusama logline was checked against the ST048 card and its
+Wikipedia carrier this pass. Confirmed against the carrier: the
+hallucinations of "dense fields of dots" from childhood (the article
+says they began when she was ten) and the voluntary residence, taken
+up in 1977, at a Tokyo psychiatric hospital. The card's framing of the
+Infinity Mirror Rooms as the inner experience externalised at
+architectural scale is the card's own editorial claim; the Wikipedia
+article describes the rooms and her dot-painting separately and does
+not state the equivalence. The dossier logline was aligned to the
+card's framing ("the Infinity Mirror Rooms turn that inner experience
+into architectural scale") rather than asserting that she paints the
+hallucinations in the rooms. The Yellow Emperor logline matches the
+ST046 card (the Emperor withdraws, lives alone three months, returns;
+the teaching to guard the inner and quiet the hearing and sight).
+Checks re-run: checker exit 0, 0 dense.

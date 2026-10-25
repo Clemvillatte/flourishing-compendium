@@ -376,3 +376,13 @@ in progress: remaining known work is a full cold-read of the rewritten
 body against the exemplar's voice, and the supervisor's registry rebuild
 (--rebuild=attention) to carry the new body into the compiled payload;
 registry.json and app.js were not touched (supervisor-only).
+
+## Flag for the supervisor (2026-10-25, worker-pplx-dos17-1025h)
+
+Cross-item check requested by advisor QC on the body dossier: this
+dossier's "Where the traditions genuinely disagree" section carries two
+entries ("Where does selection happen: early or late?" and "Does a
+wandering mind cost more than it returns?"). DOSSIER-MODEL.md asks for
+three to five. A third sourced entry was not manufactured; the dos4
+baton was already released, so no edit was made. Flagging for a future
+pass with the appropriate baton.
