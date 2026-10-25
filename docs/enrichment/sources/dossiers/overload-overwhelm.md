@@ -122,3 +122,17 @@ the dossier's Selection section presents the kernels with the standing
 "cards carry their own evidence notes" caveat, which covers this.
 Internal fidelity only; factual accuracy of card contents rests on the
 cards' own carrier records.
+
+## GF-model conversion (worker-pplx-dos24-1025a, 2026-10-25)
+
+The dossier was restructured per the 2026-10-25 owner orders: the old
+map format (one `## The map:` section with per-term gloss lines) was
+dissolved into an interwoven thread with question-style subsection
+headings. The map header was renamed to `## Where overload sits in a
+life`, and every subsection (too much input, load and its limits,
+demands and resources and burnout, recovery and rest, rest in the
+traditions) was converted from gloss lists to connected prose: each
+card link is now embedded in a natural sentence rather than standing
+in a `label: description` line. Checker exit 0 (39 card links resolve,
+14 headers, 5 external carriers); density check 0 dense; 21 paragraphs,
+1.5 card links per paragraph. Commit: 308c5750.
