@@ -220,3 +220,37 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos3 baton)
+
+Reviewed all 11 candidates from the persisted inventory (and re-ran the
+audit fresh; count unchanged except the recast below). This dossier is a
+map-format compilation: most flagged lines are one-line card glosses whose
+"rather than" carries the card's own definitional contrast. No carriers
+were freshly opened this pass; dispositions rest on the card texts and
+inherited verification, read as editorial judgements.
+
+- Line 160 (Wise reasoning): RECAST. "not a saintly personality type but
+  strategies deployed, or not, situation by situation" — a direct
+  not-X-but-Y with a flourish X ("saintly personality type") the source
+  framing does not need. Now reads "strategies deployed, or not,
+  situation by situation." The anti-trait point survives in the quoted
+  Grossmann line two entries below ("People vary dramatically in their
+  likelihood of utilizing wise thought from one situation to the next").
+- Kept: line 45 (Enactivism — body-in-environment vs brain-with-
+  representations is the position the movement is defined by), 72 (Peirce's
+  test-vs-defend practice is the card's point), 108 (Rumination —
+  Nolen-Hoeksema's standard definition contrasts focusing on symptoms with
+  taking action), 109 (Wells's style-vs-content assignment), 120
+  (Decentering — the standard mental-events-vs-world definition), 126
+  (Cognitive defusion — thoughts-as-thought vs commands/facts/self), 140
+  (Taylor's recognition-vs-misrecognition demand), 186 (Variation — the
+  adaptive direction vs the maladaptive pattern is the V-S-R section's
+  own structure), 200 (Compassionate Thinking — voices to talk about,
+  the exercise's own framing), 210 (evidence-limit caveat on the
+  wise-reasoning prompts).
+
+Checks after the recast: dossier_check.py exit 0. Fresh audit count for
+this dossier fell from 11 to 10. Scope: candidate-line review only; the
+dossier's overall rhythm was read but the map format's entry glosses were
+not restructured.

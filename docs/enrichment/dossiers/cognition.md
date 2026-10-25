@@ -157,7 +157,7 @@ Festinger's definition:
 
 [Episodic future thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Episodic%20future%20thinking): the mind's rehearsal of specific futures: vividly imagining and mentally simulating personally relevant events that have not yet happened.
 
-[Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning): Grossmann's research program's answer to what wisdom is, studied empirically: not a saintly personality type but strategies deployed, or not, situation by situation.
+[Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning): Grossmann's research program's answer to what wisdom is, studied empirically: strategies deployed, or not, situation by situation.
 
 [Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason): reason reduced to the choice of means; it asks how to get what it has been given, and has stopped asking whether what it has been given is worth wanting.
 
