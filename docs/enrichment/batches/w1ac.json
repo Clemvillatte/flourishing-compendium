@@ -13,7 +13,6 @@
     "Plain-language comprehension research",
     "Poiesis as disclosing",
     "Popol Vuh",
-    "Positivity offset",
     "Post-conventional development",
     "Pragmatic solidarity",
     "Pre-commitment as wisdom",
@@ -66,12 +65,13 @@
     "Pre-understanding",
     "Reinterpretation of the past",
     "Relationship dissolution research",
-    "Personal projects"
+    "Personal projects",
+    "Positivity offset"
   ],
   "in_progress": null,
   "flagged": {
     "Reversal (fu)": "title romanization: DDJ 40 Chinese text conventionally reads fan (\u53cd, 'reversal'), the title's '(fu)' may be a mismatch \u2014 flagged for supervisor; front-matter untouched per protocol. QC: advisor round 1 fixes applied (quote line breaks restored, ch.58 referent narrowed, AF008 bullet narrowed, Wu wei line grounded in ch.40 + D003 title gloss).",
-    "Positivity offset": "SUPERVISOR DISPOSITION 2026-10-25 11:42Z (launcher-pplx-1025c): STALE AS TO THE CURRENT PAGE - the overgeneralized seed claim ('improves comprehension, trust, and recall') is NOT present on the current Positivity offset page (grep-verified this session; also absent in the prior commit), which now carries the correct Cacioppo et al. 1999 formulation (mild positive affect in neutral conditions, negative events dominating once they occur). The overgeneralization survives only in the historical seed line preserved in this ledger. Nothing to repair. seed line overgeneralizes the ESM finding (claims 'improves comprehension, trust, and recall'; opened source supports identification of risks via prospective hindsight and lower judged competence for needless complexity) - flagged for supervisor; front-matter untouched.",
+    "Positivity offset": "Reopened for QC: QC correction: below 150-word prose floor (supervisor concept-stub backlog 2026-10-25)",
     "Pragmatic solidarity": "SUPERVISOR DISPOSITION 2026-10-25 11:42Z (launcher-pplx-1025c): NO REPAIR NEEDED - the page's quote attribution is accurate as it stands: the Bernstein quote is correctly labeled 'Bernstein, The Abuse of Evil, p. 29, as reprinted in Solidarity in Contingency' with the OBP carrier link, and the Sources section lists both the Axtell philarchive carrier and the OBP reprint. The title-label line credits Bernstein's The Pragmatic Turn as the concept's home while the quoted material is attributed to its actual source - an honest structure. Note: the OBP PDF carrier could not be re-opened fresh this session (fetch returned an error page, not the book); the attribution structure was verified, the quote text stands on the prior session's attestation. Bernstein quote in page is from The Abuse of Evil p.29, not the seed's 'The Pragmatic Turn'; Rorty quotes are from CIS as reprinted in the opened OBP book - flagged for supervisor.",
     "Purpose": "RESOLVED by worker-w1ac-1025b 2026-10-25 (per-item verification): QC correction round-1 repairs confirmed on the current page \u2014 the Hill-Turiano claim is now attributed to [[PP025]]'s research finding rather than asserted as this page's own verified claim (checked this session: the finding is scoped to the principle page), the wrong AF062 attribution repaired and the unsupported glosses removed per the ledger. No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC correction round 1: unverified Hill-Turiano claim, wrong AF062 attribution, unsupported glosses; repairing to fast-track bar with Frankl 1963 only]",
     "Responsive parenting": "SUPERVISOR DISPOSITION 2026-10-25 11:42Z (launcher-pplx-1025c): REPAIRED - the phantom citation was removed from R073's psychology-parallels bullet (replaced with a reference to the responsive-parenting construct as grounded on the linked concept page, which documents that 'Bernstein et al., 2014' matches no responsive-parenting construct and grounds the construct in the NCBI parenting volume NBK402020). The concept page's own correction stands as the record. Note: the NCBI page is reCAPTCHA-walled from the supervisor sandbox this session, so the NCBI carrier was not re-opened fresh; the construct grounding stands on the prior attestation. R073 page cites 'Bernstein et al., 2014' for responsive parenting; no such construct paper found in opened searches (Bernard et al 2014/2015 and Bernstein et al 2014 are different papers). Supervisor: verify R073's source line.",
@@ -84,7 +84,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 1,
-  "updated": "2026-10-25T12:09:26+00:00",
+  "updated": "2026-10-25T12:09:39+00:00",
   "notes": {
     "Purpose": "enriched+QC-repaired 2026-10-22 by worker-sup-flourish-1022b. Advisor round 1 findings applied: Hill-Turiano mortality claim now described as PP025's own citation (not restated as opened evidence), AF062 misattribution corrected to B155/PP025 framing, unsupported research-literature glosses and Noogenic-neurosis overreach removed, Frankl quote replaced with the complete sentence verified verbatim in the opened 1963 OCR (em-dashes as printed, OCR 'existence:-Woe' join disclosed in ledger). Degree <15 at start; fast-track bar. Baseline 708222a39 used for lost-link check.",
     "Reconstruction": "enriched 2026-10-22 by worker-sup-flourish-1022b. Dewey Reconstruction in Philosophy Gutenberg #40089 opened; lecture-I 'Philosophic reconstruction for the present' passage quoted verbatim; prefatory-note Japan framing; P100 link preserved. Fast-track bar (degree 1 at start).",
@@ -98,6 +98,14 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x ; https://notes.artsmanaged.org/p/personal-projects",
       "limitations": "'These foundational, self-defining projects we call core projects' line retained from prior verification (author site dead); matches article text surfaced in search snippets of the Little 2008 Compass article",
       "qc": "Link repair: dead author-site citation replaced with live carriers; verified continuation added; page above floor"
+    },
+    "Positivity offset": {
+      "claims": "All five Norris et al. 2010 quotes re-verified verbatim this session against the live PMC article; page already above prose floor (sweep count stale)",
+      "quotation": "ESM two-asymmetries sentence; affect-system evolution sentence; 'without a positivity offset, a person in a neutral environment is unlikely to approach novel stimuli'; depression second-possibility sentence; individual-differences sentence",
+      "locator": "Norris, Gollan, Berntson & Cacioppo 2010, Biological Psychology 83, 211-237",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/",
+      "limitations": "None",
+      "qc": "Verification pass only; no defects found"
     }
   },
   "band_done": false
