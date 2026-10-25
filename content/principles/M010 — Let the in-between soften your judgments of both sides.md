@@ -25,7 +25,7 @@ Hear each account and check it against what happened. Notice what you cannot yet
 
 ## Psychology parallels
 
-- **[[Perspective-taking|Perspective-taking's depolarizing effects]]** (Galinsky's research, as framework)
+- **[[Perspective-taking|Perspective-taking's debiasing effects]]** (Galinsky's research: decreased stereotype expression and in-group favoritism, [JPSP 2000 abstract](https://pubmed.ncbi.nlm.nih.gov/10794375/))
 
 ## Philosophy parallels
 

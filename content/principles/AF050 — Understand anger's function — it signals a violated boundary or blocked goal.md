@@ -27,7 +27,7 @@ Being angry does not settle whether someone wronged you. Check what happened and
 
 - **Anger and [[Approach versus avoidance motivation|approach motivation]]** (Carver & Harmon-Jones, 2009)
 - **Catharsis and the expression of anger** (Bushman, 2002)
-- **[[Rumination|Anger rumination maintains aggression]]** (Bushman, 2002; Denson et al., 2011)
+- **[[Rumination|Anger rumination maintains aggression]]** (Bushman, 2002; Denson et al., 2011 — rumination reduced self-control and increased aggression under provocation, [PSPB 2011 abstract](https://pubmed.ncbi.nlm.nih.gov/21421767/))
 
 ## Philosophy parallels
 
