@@ -14,9 +14,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Pain is a dispreferred indifferent on the Stoic account: real, unwelcome, and outside the reach of the one thing that matters, the state of character. Marcus records Epicurus' own illness practice: in sickness his mind, "by a natural and unavoidable sympathy partaking in some sort with the present indisposition of my body," still worked to keep itself "free from trouble, and in present possession of her own proper happiness" (Med. IX.41).
 
-> "No man can suffer both severely and for a long time; Nature, who loves us most tenderly, has so constituted us as to make pain either endurable or short." (Seneca, Moral Letters 78, Gummere)
+> "No man can suffer both severely and for a long time; Nature, who loves us most tenderly, has so constituted us as to make pain either endurable or short." (Seneca, Moral Letters 78 §§4–5, tr. Gummere, [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78))
 
-Seneca adds that fear of pain is mostly added opinion: "Pain is slight if opinion has added nothing to it" (Ep. 78). Marcus carries the point to its limit: a person who uses hindrances well is "rather the better and the more praiseworthy for any of those kind of hindrances, than otherwise" (Med. X.33). The instruction follows: do not flee pain at the cost of integrity, because fleeing costs the one thing pain cannot touch.
+Seneca adds that fear of pain is mostly added opinion: "Pain is slight if opinion has added nothing to it" (Ep. 78 §13, [Gummere](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78)). Marcus carries the point to its limit: a person who uses hindrances well is "rather the better and the more praiseworthy for any of those kind of hindrances, than otherwise" (Med. X.33). The instruction follows: do not flee pain at the cost of integrity, because fleeing costs the one thing pain cannot touch.
 
 (Seneca, Letters 24, 67, 78, 107; Med. VII.33, IX.41, X.33; Disc. I.1, I.6, I.14.)
 

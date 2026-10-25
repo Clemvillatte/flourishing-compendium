@@ -183,3 +183,6 @@
 
 ## P191 Bergson
 - Quotes verified against the Anthologia reproduction and against the Wildon Carr translation of Mind-Energy (search excerpts of archive.org and the Auro PDF; the Anthologia page does not name the translator). Citation label now names the lecture, the book and Carr as translator.
+
+## S023 — Do not fear pain
+Opened [Seneca, Letter 78, Gummere (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78). Both quotes ("No man can suffer both severely..." §4; "Pain is slight if opinion has added nothing to it" §13) match verbatim. Added the section locators and a direct link. Marcus quotes (Casaubon, IX.41, X.33) left as is.
