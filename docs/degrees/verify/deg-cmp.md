@@ -134,9 +134,12 @@ tier gap stands as documented above.
 - Duration: DUAL FIGURES — the listing prints 56:50 while the player shows
   1:39:50 (2026-10-25); the owner should reconcile (the listing figure may
   cover only the lecture portion) before workload arithmetic.
-- Instructor credentials: Ruth Rogaski, History, Vanderbilt University
-  (per the uploader description; institutional page not opened this
-  session).
+- Instructor credentials: Ruth Rogaski, Andrew W. Mellon Chair in the
+  Humanities and Professor of History and Asian Studies, Vanderbilt
+  University (institutional biography page, opened 2026-10-25,
+  https://as.vanderbilt.edu/history/bio/ruth-rogaski/); specialist in
+  the history of science, medicine and environment in China —
+  corroborating the uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   historical relationship between the air people breathe (kongqi) and qi
@@ -146,7 +149,7 @@ tier gap stands as documented above.
   increasingly unbreathable atmosphere.
 - Relevant segment: whole lecture (duration to reconcile).
 - Verification status: verified-video (2026-10-25), dual-figure duration
-  flagged; credentials from the description, institutional page pending.
+  flagged; credentials verified on an institutional page (2026-10-25).
 
 ### QI-03: The Fundamentals of Traditional Chinese Medicine — Three Treasures, Four Levels, Five Elements (Asian Art Museum)
 
@@ -154,17 +157,20 @@ tier gap stands as documented above.
   channel (https://www.youtube.com/watch?v=YOugTb9KU-c); watch page opened
   2026-10-25.
 - Duration: 1:34:38 (watch page, 2026-10-25).
-- Instructor credentials: Amy Petrarca, MS, RN, LAc, Bay Area practitioner
-  (per the uploader description; institutional page not opened this
-  session).
+- Instructor credentials: Amy Petrarca, Registered Nurse (RN), Licensed
+  Acupuncturist (LAc), Institute for Functional Medicine Certified
+  Practitioner (IFMCP), described as triple board certified; practitioner
+  at GlistenHealth, San Francisco (her practice site, opened
+  2026-10-25, https://www.glistenhealth.com/) — corroborating the
+  uploader description (MS, RN, LAc, Bay Area practitioner).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   fundamentals of Traditional Chinese Medicine — three treasures, four
   levels, five elements — introduced via the search for eternal youth
   from Qin Shihuang's mercury consumption to modern anti-aging practices.
 - Relevant segment: whole talk, 1:34:38.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the practitioner's own practice site (2026-10-25).
 
 ### Gallery tier selection update 2 (same session)
 

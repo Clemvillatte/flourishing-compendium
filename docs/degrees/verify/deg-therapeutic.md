@@ -18,8 +18,11 @@ standard.
 - Identity and access: oembed confirms the lecture on the Dr. Mario Guzmán Sescosse
   channel (https://www.youtube.com/watch?v=OAidjP12T3o).
 - Duration: 1:40:07 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Mario Guzmán, teaching Counseling Theory and Method II
-  (COUN 503) at Trinity Christian College (per the uploader description).
+- Instructor credentials: Dr. Mario Guzmán, Associate Professor of
+  Psychology at Trinity Christian College, Chicago (his professional
+  site, opened 2026-10-25, https://www.drmarioguzman.com/en; full-time
+  professor and researcher of psychology there), clinical psychologist
+  of adolescents and adults.
 - Language: NOT CONFIRMED. The uploader's description is bilingual
   English/Spanish and does not state the spoken language; the owner must check
   the recording before scheduling.

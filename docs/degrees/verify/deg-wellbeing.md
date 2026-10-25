@@ -596,9 +596,12 @@ standard.
   watch page opened 2026-10-25. INDEPENDENT-CHANNEL FLAG with named
   institutional speaker.
 - Duration: 1:12:41 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Kendall Cotton Bronk, purpose
-  researcher (per the uploader description; affiliation and
-  institutional page not substantiated this session — pending).
+- Instructor credentials: Dr. Kendall Cotton Bronk, Professor of
+  Psychology, Division of Behavioral and Social Sciences, Claremont
+  Graduate University (her laboratory biography page, opened
+  2026-10-25, https://www.kendallcottonbronk.com/people); developmental
+  scientist studying positive youth development and purpose — matching
+  the uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): research on
   the importance of purpose in life and its critical role in well-being,
