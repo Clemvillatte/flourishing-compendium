@@ -471,3 +471,29 @@ Checks after rewrite: dossier_check exit 0 (94 card links, 19 headers,
 25 external carriers), density 0 dense, dossier_quote_verify 24
 checked 0 not found (two bot-blocked carriers documented above with
 cache provenance). Grep of changed files for workflow words: clean.
+
+Round 3 (advisor final clearance conditions, all applied): the
+heuristics closing paragraph was rewritten so both sides keep their
+testability (the earlier "measurable label vs model precise enough to
+be wrong" contrast implied the K and T side was unfalsifiable; the
+field-wide "not reconciled" claim was dropped); the take-the-best/
+regression detour was removed from the subsection; the Gigerenzer 1996
+block quote was shortened to the vague-heuristics sentence only (the
+narrow-norms half distracts from the heading); the moral subsection
+dropped "the reasoning of other people included" (not in the abstract)
+and the verification-narration closer, replaced with the
+speed-does-not-establish-formation close; the Haidt cache was
+reseeded from the Europe PMC REST raw record for PMID 11699120 and
+the retained quotes re-matched against that raw response (the
+prompted-extraction cache alone was not independent verification).
+Final checks: dossier_check exit 0 (92 card links, 19 headers, 22
+external carriers), density 0 dense, dossier_quote_verify 22 checked
+0 not found. Cache provenance summary: Gigerenzer 1996 (raw pdftotext
+-raw mode of the opened PDF; default two-column extraction
+interleaves, recorded above), Kahneman and Tversky 1996 (script's own
+plain extraction of the opened single-file PDF), Gigerenzer and
+Brighton 2009 (script's own plain extraction), Haidt 2001 (Europe PMC
+REST raw record), Pizarro and Bloom 2003 (Europe PMC REST raw record;
+carrier link is the REST record). Advisor clearance: scoped clearance
+of the two additions as a three-question disagreement section; not a
+certification of the whole dossier's prose or coverage.
