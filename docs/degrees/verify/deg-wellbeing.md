@@ -469,8 +469,10 @@ standard.
 - Duration: 1:24:27 (watch page, 2026-10-25).
 - Instructor credentials: Barbara L. Fredrickson, Ph.D., Kenan
   Distinguished Professor of Psychology and Director of the Positive
-  Emotions and Psychophysiology Lab (PEP Lab), UNC Chapel Hill (per the
-  uploader description; institutional page not opened this session).
+  Emotions and Psychophysiology Lab (PEP Lab), UNC Chapel Hill (PEP Lab
+  site opened 2026-10-25, https://peplab.web.unc.edu/, confirming her
+  professorship at UNC Chapel Hill; the Kenan chair title per the
+  uploader description).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a Meng-Wu
   Lecture; the description names her positive-emotions work and books
@@ -560,9 +562,10 @@ standard.
   (NPPA 2025), held online 28-29 March 2025 on "Cultural Perspectives in
   Positive Psychology."
 - Duration: 58:11 (watch page, 2026-10-25).
-- Instructor credentials: Prof. Jeanne Nakamura, Claremont Graduate
-  University (per the uploader description; institutional page not
-  opened this session).
+- Instructor credentials: Prof. Jeanne Nakamura, Full Professor and
+  Director of the Quality of Life Research Center, Claremont Graduate
+  University (CGU page opened 2026-10-25,
+  https://www.cgu.edu/people/jeanne-nakamura/).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the limits
   of attention, flow, and commitments beyond the self — how people
@@ -622,9 +625,9 @@ standard.
   opened 2026-10-25. Recorded 22 April 2019 at the SAGE Center for the
   Study of the Mind, University of California, Santa Barbara.
 - Duration: 1:15:17 (watch page, 2026-10-25).
-- Instructor credentials: Hazel Rose Markus (speaker named on the event
-  page; affiliation and institutional page not substantiated this
-  session — pending).
+- Instructor credentials: Hazel Rose Markus, Davis-Brack Professor of
+  the Behavioral Sciences, Stanford University (Stanford Profiles page
+  opened 2026-10-25, https://profiles.stanford.edu/hazel-markus).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): cultural
   divides, models of self and agency, multicultural identity, East Asian
