@@ -13,7 +13,7 @@ The term Lee Ross and Andrew Ward gave to a cluster of everyday convictions abou
 
 The second tenet adds that other rational perceivers, given the same information, will share one's views; the third, that disagreement must come from the other side's poor information, poor thinking, or bias, never one's own. The chapter's own summary line: "The first tenet thus asserts, essentially, that I see things as they are". Pronin, Gilovich and Ross (2004) extended the construct to the divergence named in their paper's title, perceptions of bias in self versus others.
 
-The three tenets together explain why conflict escalates: each side takes its own seeing as the facts, and reads the other side's difference as failure. The chapter's subtitle names the implication, social conflict and misunderstanding, and the construct's name carries the point: the convictions are real in everyday life, and they are naive as an account of perception.
+The three tenets together frame disagreement: each side takes its own seeing as the facts, and reads the other side's difference as failure of information, thinking or bias. The chapter's subtitle names the implication, social conflict and misunderstanding.
 
 I pair the construct with Husserl's natural attitude (E003 practises its suspension) and with D081's recognition that perspectives are relative; B076 works the same insight on the contemplative side.
 
