@@ -17097,6 +17097,66 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is pain itself an evil?"
+        },
+        {
+          "t": "p",
+          "x": "Diogenes Laertius reports that Dionysius of Heraclea, a Stoic, left the school for the doctrine of pleasure because the severity of his ophthalmia meant he \"had no longer the nerve to call pain a thing indifferent\" ([Diogenes Laertius VII.37, Hicks translation, Wikisource](https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII)). The story is an ancient report and shows nothing about pain itself. It does show where the dispute sits. The same book lists pain among the things that \"neither benefit nor harm a man\", beside death, disease and poverty, and keeps the words good and evil for virtue and vice (VII.101-102, same carrier)."
+        },
+        {
+          "t": "p",
+          "x": "Epicurus says the opposite in plain words: \"all pain is an evil and yet not all pain is to be shunned\", and he defines the pleasure he recommends as \"the absence of pain in the body and of trouble in the soul\" ([Letter to Menoeceus, MIT Classics](https://classics.mit.edu/Epicurus/menoec.html)). A pain can be worth accepting when it buys more later, and it is still a bad thing while it lasts."
+        },
+        {
+          "t": "p",
+          "x": "Marcus Aurelius, a Stoic, gives advice that either camp could use. In every pain, he writes, remember that \"there is no dishonour in it, nor does it make the governing intelligence worse\", and in the same breath he borrows an Epicurean remark, that pain \"is neither intolerable nor everlasting\" if one remembers its limits and adds nothing to it in imagination ([Meditations, Book 7, MIT Classics](https://classics.mit.edu/Antoninus/meditations.7.seven.html)). The methods overlap and the classification does not. As I read the two lists, the disagreement turns on whether a harm to a living creature counts as a harm to the person, or only a harm to character does."
+        },
+        {
+          "t": "p",
+          "x": "I take Epicurus's label and Marcus's method. The label is my own preference for severe pain; I would not want to be told that nothing bad is happening to me. The method is the one this dossier already uses on the added layer."
+        },
+        {
+          "t": "h2",
+          "x": "Should ending suffering govern our aspirations?"
+        },
+        {
+          "t": "p",
+          "x": "The Buddha describes his own teaching as having one subject: \"Both formerly & now, it is only stress that I describe, and the cessation of stress\" ([SN 22:86, Thanissaro translation, dhammatalks.org](https://www.dhammatalks.org/suttas/SN/SN22_86.html)). The passage puts the ending of suffering at the centre of the teaching's aim; it does not rule on whether suffering can be put to use along the way. The [karuna](card:Karuna) line, the wish to relieve suffering, points the same way."
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche challenges that aspiration. Addressing readers who sympathise with the suffering of others, he writes that they want \"to do away with suffering\", while he and his kind \"would rather have it increased and made worse than it has ever been\". He asks whether it is not \"the discipline of great suffering\" that \"has produced all the elevations of humanity hitherto\" ([Beyond Good and Evil, section 225, Zimmern translation, Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)). Section 225 does not name the Buddha. In The Antichrist he does: he praises Buddhism as \"a hundred times as realistic as Christianity\", describes it as the \"struggle with suffering\", and still counts it among \"the nihilistic religions\" ([The Antichrist, section 20, Mencken translation, Gutenberg](https://www.gutenberg.org/cache/epub/19322/pg19322.txt))."
+        },
+        {
+          "t": "p",
+          "x": "[Frankl](card:T019%20%E2%80%94%20Frankl%2C%20Viktor) draws the distinction that matters here. He asks whether suffering is indispensable to the discovery of meaning and answers: \"In no way.\" When suffering can be avoided, \"the meaningful thing to do is to remove its cause, for unnecessary suffering is masochistic rather than heroic\" ([Frankl, The Case for a Tragic Optimism](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)). His own line separates avoidable from unavoidable suffering: the avoidable kind calls for removing its cause; in the unavoidable kind, meaning is still available, and the person can still choose his attitude toward it. On that account the two aims are not exclusive: ending what can be ended does not decide what to do with the rest. The question is whether eliminating suffering should govern our aspirations, or whether the aspiration to be rid of it is itself the thing Nietzsche doubts."
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche's claim about \"all the elevations of humanity\" is a sweeping one, and the passage offers no case that tests it. I follow Frankl: remove what can be removed, and look for meaning in the rest without treating the pain as a requirement. [M020](card:M020%20%E2%80%94%20Accept%20suffering%20as%20a%20teacher%2C%20without%20seeking%20it) holds the same position in its title."
+        },
+        {
+          "t": "h2",
+          "x": "Does suffering track what a person deserves?"
+        },
+        {
+          "t": "p",
+          "x": "The Book of Job stages this argument between speakers inside one book, not between traditions. Eliphaz asks, \"who ever perished, being innocent? Or where were the upright cut off?\" ([Job 4:7](https://ebible.org/eng-web/JOB04.htm)), and Bildad says, \"God will not cast away a blameless man, neither will he uphold the evildoers\" ([Job 8:20](https://ebible.org/eng-web/JOB08.htm), World English Bible). As I read it, the rule comforts the person applying it and burdens the person it is applied to, because it makes his pain evidence about him."
+        },
+        {
+          "t": "p",
+          "x": "Job rejects the rule on observation. \"It is all the same,\" he says. \"Therefore I say he destroys the blameless and the wicked\" ([Job 9:22](https://ebible.org/eng-web/JOB09.htm)). Later he asks, \"Why do the wicked live, become old, yes, and grow mighty in power?\" ([Job 21:7](https://ebible.org/eng-web/JOB21.htm)). The book then sides against the friends: God says to Eliphaz, \"you have not spoken of me the thing that is right, as my servant Job has\" ([Job 42:7](https://ebible.org/eng-web/JOB42.htm)). The verdict does not say which of Job's statements it endorses, and Job's final speech in the chapter ends in self-abhorrence and repentance, so the ending is not a plain vindication."
+        },
+        {
+          "t": "p",
+          "x": "The question matters to this dossier because the friends' rule is an explanation of the first arrow, and the [poisoned arrow](card:ST059%20%E2%80%94%20The%20Poisoned%20Arrow) story warns against making an answer the precondition of treatment. I lean with Job: a rule that fails on observation should not be handed to someone in pain."
+        },
+        {
+          "t": "h",
           "x": "Practice: separating the arrows"
         },
         {
