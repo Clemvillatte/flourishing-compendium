@@ -916,3 +916,18 @@ suspension of belief (epoché in substance). The ten modes by name
 owner: broaden the module topic label to "Pyrrhonian skepticism and
 suspension of judgment" (mirroring the M05-XP-01 broadening), or accept
 partial coverage of the modes with that noted in the module.
+
+### Socratic-method gap — harvest recommendation (deg-verify-b, 2026-10-26)
+The essential coverage gap "Socrates and the examined life; Socratic method"
+(no dedicated module) can be closed from the SAME verified course the degree
+already uses (Adam Rosenfeld, UNCG PHI 251; instructor credentials already
+verified in the verify file via the UNCG Senior Lecturer page):
+- Session 5: Plato's "Euthyphro" part I (https://www.youtube.com/watch?v=5Eh2b12fPcU, 1:14:59) — history of Athens, Socrates cross-examining Euthyphro, up to the Euthyphro Dilemma.
+- Session 6: Plato's "Euthyphro" part II (https://www.youtube.com/watch?v=6dmtlteMQ54, 1:10:37) — Euthyphro's frustration and the nature of Socrates' method (the elenchus in action).
+- Session 10: Plato's Republic II, "Apology" & "Crito" (https://www.youtube.com/watch?v=YN_5QksktmI, 1:18:47) — the trial of Socrates and his decision not to avoid execution; the examined life.
+All three are free public YouTube lectures from the same playlist; durations
+read from the live listings this pass (2026-10-26). Identity and access
+confirmed via the channel's own listing; the deg-wol-greek owner should still
+run the standard per-video verification (transcript vs module checkpoints)
+before attaching. This closes the last "essential" coverage gap named in the
+benchmark matrix.
