@@ -16,14 +16,14 @@ Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew
 
 1. Set aside time when you will not be interrupted — Huberman's own scripts run 10, 20, or 30 minutes. Lie down somewhere comfortable (the exact position is your choice) and let your arms rest beside you.
 2. Play a recorded guided script and close your eyes. You stay still and follow the voice rather than doing anything yourself.
-3. The script will walk your attention through a slow body scan, and many scripts weave in breathing guidance. Let sleepiness come if it comes; falling asleep is allowed, though staying awake is the point.
+3. The script will walk your attention through a body scan and intentional deep breathing, as the Huberman guide describes: "All NSDR practices involve listening to an audio script that guides you through a body scan and intentional deep breathing." Let sleepiness come if it comes; falling asleep is allowed, though staying awake is the point. (The arm position and the exact posture are this wiki's editorial suggestions, not the guide's.)
 4. Rise slowly at the end. Huberman says even a brief 10-minute script has benefits, but to aim for 20 to 30 minutes if possible. If you are recovering from a poor night's sleep, a 30 to 60-minute session is recommended.
 
 ### Evidence
 
 A positron emission tomography study using a dopamine tracer estimated that during yoga nidra, tracer binding in the ventral striatum falls by 7.9 per cent, which the authors calculate as a 65 per cent increase in endogenous dopamine release. Every participant in that study reported a decreased desire for action during the meditation ([Kjaer et al. 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/11958969/)):
 
-> "During meditation, 11C-raclopride binding in ventral striatum decreased by 7.9%. ... This corresponds to a 65% increase in endogenous dopamine release." — [Kjaer et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11958969/)
+> "During meditation, 11C-raclopride binding in ventral striatum decreased by 7.9%. This corresponds to a 65% increase in endogenous dopamine release." — [Kjaer et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11958969/)
 
 > "All participants reported a decreased desire for action during meditation, along with heightened sensory imagery." — [Kjaer et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11958969/)
 
