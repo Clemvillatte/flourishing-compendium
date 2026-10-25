@@ -25,7 +25,7 @@ Humor research supports a social cost. Martin and colleagues (2003) defined aggr
 The Nahuatl source text is cited at second hand. The locator "Book VI" may be wrong.
 
 **Plain words**
-Ridicule has an odd economy: the laughter costs the teller nothing, and the listener who cannot answer back pays the whole bill. The Nahua elders placed the blind, the deaf and the injured inside this warning because each stands where a joke lands without resistance, and mockery there reads as colder, not cleverer.
+Ridicule has an odd economy: the laughter costs the teller nothing, and the listener who cannot answer back pays the bill. The Nahua elders placed the blind, the deaf and the injured inside this warning because each stands where a joke lands without resistance, and mockery there reads as colder, not cleverer.
 
 **For example**
 A joke diary marks any entry whose target cannot answer back.
