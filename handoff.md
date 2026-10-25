@@ -124,7 +124,7 @@ before submit). Expect the new agent to take a baton on next baton.py status.
 3. OPEN FLAGS for the supervisor: four dossiers pass dossier_check but are not in registry.json
    (suffering, acceptance, freedom, meaning-and-mortality); registry now has 19 published + 16 planned;
    test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
-   the registration commits; succession via disposable mail accounts should be raised with the owner.
+   the registration commits; succession via disposable mail accounts: RAISED and CLOSED by the owner 2026-10-25 (~12:46Z) — disposable accounts are the intended way of working for now; do not re-raise.
 
 ## AGENT LAUNCH (2026-10-25 ~10:30Z, launcher pplx-1025-launch-a, no baton held)
 
