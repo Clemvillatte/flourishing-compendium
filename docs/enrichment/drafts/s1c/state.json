@@ -1083,9 +1083,24 @@
      "t": "2026-10-22T07:58:29+00:00",
      "to": "qc_pending",
      "note": "advisor QC: unsupported details removed; Pericles label corrected; source-level review by supervisor pending"
+    },
+    {
+     "t": "2026-10-25T13:29:03+00:00",
+     "to": "ready",
+     "note": "independent source-level verification 2026-10-25 (storyteller-pplx-s1c-1025z): all 6 ledger quotes + the black-spot sentence verbatim against Gutenberg #20203 text; story_check 0 errors; duplicate check reconfirmed (ST184/ST430/ST392 target A106/A111/A039/B192, A108/A042 angle free)"
+    },
+    {
+     "t": "2026-10-25T13:29:39+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC 2026-10-25: readiness flip premature — supervisor source-level review still pending; quotation fidelity rechecked teller-side (7/7 verbatim), angle and assertion checks added to QC notes for the supervisor"
+    },
+    {
+     "t": "2026-10-25T13:29:46+00:00",
+     "to": "qc_pending",
+     "note": "supervisor disposition requested: s1c-039 duplicates ST430's narrative (same Franklin little-book material and quotes; only the principle mapping differs); recommend reject or retell with genuinely different narrative material"
     }
    ]
   }
  },
- "updated": "2026-10-22T07:58:29+00:00"
+ "updated": "2026-10-25T13:29:46+00:00"
 }
