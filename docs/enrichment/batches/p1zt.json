@@ -52,7 +52,8 @@
   "E101": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/E101.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
   "E106": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/E106.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
   "M004": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M004.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
-  "M005": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M005.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure."
+  "M005": "New body and quotation source-checked, validator-clean and advisor-reviewed; inherited psychology/philosophy parallel attributions not independently certified by takeover. See sources/p1zt/M005.md and drafts/p1zt/TAKEOVER-728a1014.md. Scope flag, not a new-body failure.",
+  "K058": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words first-person line ('My exercise') reworded; body 'I use this instruction' reworded; validator PASS"
  },
  "missing_concepts": [
   {
@@ -62,6 +63,6 @@
   }
  ],
  "sources_checked": 17,
- "updated": "2026-10-21T14:26:19+00:00",
+ "updated": "2026-10-25T11:29:50+00:00",
  "band_done": true
 }

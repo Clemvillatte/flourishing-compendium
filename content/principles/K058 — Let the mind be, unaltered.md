@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 58** — Let the mind be, unaltered
 
-Verse 13 of the Ganges Mahamudra asks the practitioner to let what arises settle by itself, like patterns in water. I use this instruction as an exercise in noticing the urge to interfere: sit for five minutes with the single instruction "do not adjust anything," and notice how many times your hands reach for the dials.
+Verse 13 of the Ganges Mahamudra asks the practitioner to let what arises settle by itself, like patterns in water. This page turns that instruction into an exercise in noticing the urge to interfere: sit for five minutes with the single instruction "do not adjust anything," and notice how many times your hands reach for the dials.
 
 (Tilopa, Ganges Mahamudra, v. 13; Ken McLeod translation.)
 
 > Do not think about anything; let all ambition drop. Let what arises settle by itself, like patterns in water. (Tilopa, Ganges Mahamudra v. 13, Ken McLeod translation)
 
-**Plain words** The verse tells the practitioner to let what arises settle by itself, the way patterns settle in water. My exercise: take one minute and add nothing; notice the difference between watching a thought and fixing one.
+**Plain words** The verse tells the practitioner to let what arises settle by itself, the way patterns settle in water. A one-minute version: add nothing, and notice the difference between watching a thought and fixing one.
 
 *For example:* sitting down and, instead of trying to calm yourself, letting restlessness be restlessness, and noticing whether it settles on its own after a while.
 

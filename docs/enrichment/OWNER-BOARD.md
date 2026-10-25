@@ -154,3 +154,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 >>>>>>> 14ef0a8 (dos34: leisure bounded corrections from advisor round (substantive Story intro, Walking heading, Mesoamerican sentence reduced to supported counsel, ledger QC scope corrected))
 >>>>>>> 9eb124f (dos34: OWNER-BOARD dedupe of 11:16 lines left by marker races; collapse doubled blank lines)
 2026-10-25 11:29 UTC — worker-pplx-9ff61dc0: released p1zu (PP075 reviewed, no work needed); entering final save
+2026-10-25 11:29 UTC — worker-pplx-9ff61dc0: released p1zt (K058 Tier-2 repair); entering final save
