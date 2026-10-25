@@ -13,7 +13,7 @@ The label for the occupational-health psychology line on how people recuperate f
 
 The program's core distinction is that recovery is a psychological experience with a named structure. Sonnentag and Fritz identify four recovery experiences: detachment from work-related tasks, relaxation, mastery experiences, and agency experiences. The detachment experience is defined as "the subjective experience of leaving work behind, to 'switch off,' and to forget about work during non-work time" (same source).
 
-The definition gives recovery a direction and a baseline: strain rises in reaction to a demand, and recovery is the unwinding and restoration by which the strain level returns to its prestressor level. The four experiences name the psychological routes: leaving work behind, relaxation, mastery and agency. What the construct adds to ordinary talk of rest is the baseline: the return is defined against where the person started, so the recuperation can be asked about directly.
+The definition gives recovery a direction and a baseline: strain rises in reaction to a demand, and recovery is the unwinding and restoration by which the strain level returns to its prestressor level. Detachment, as defined here, is the subjective experience of leaving work behind during non-work time. The definition of recovery and the description of detachment therefore address different parts of the account: the return of strain, and the subjective leaving of work.
 
 Here, D039 makes rest the root of activity and D006 reads renewal in cycles (fu); PP073 leans on this literature to keep detachment findings and short-break experiments distinct.
 
@@ -31,4 +31,4 @@ Here, D039 makes rest the root of activity and D006 reads renewal in cycles (fu)
 ## Sources
 
 - [Pladdys, J. (2024), Mitigating Workplace Burnout Through Transformational Leadership and Employee Participation in Recovery Experiences, HCA Healthcare Journal of Medicine 5(3):215 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249184/) — carrier of the verbatim Sonnentag et al. recovery definition and the psychological detachment definition
-- Research on psychological and physiological recovery — sleep, detachment, nature exposure — and its role in sustaining performance and health (sleep and nature-exposure findings are cited at second hand and left unasserted in the body)
+- Research on psychological and physiological recovery — sleep, detachment, nature exposure — and its role in sustaining performance and health (this entry does not review the sleep and nature-exposure findings)
