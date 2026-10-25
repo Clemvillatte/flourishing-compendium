@@ -160,3 +160,17 @@ one more advisor call.
   randomizer 9 pass, node --check, routes.qa.cjs ALL PASS desktop and
   375px); live cache-busted verification still pending a green Pages
   deploy at this entry's writing.
+- [QC-31] 2026-10-25 deg-verify-a (verifier-pplx-a1): 60-min verification run. Blocks A, E, H per
+  assignment, then Block B and the Block I verify-a hash half (31 unattached records verified so
+  far; 50 remain). Systemic findings: (1) migration-test history fragility was fixed mid-session by
+  worker-pplx-integrate-1 (ffb9a45a3), superseding my own minimal patch, conflict resolved in
+  favour of the supersedee; (2) three M23 Cynicism-series optionals (EX02, EX05, EX06) return oembed
+  client errors, unconfirmed accessible, owner action needed; (3) duration mismatches needing owner
+  reconciliation: Rorty Part 2 (record 1:03:23 vs video 2:56:53), Whitehead (0:39:00 vs 0:41:02),
+  Tergar Mahamudra (1:45:00 vs 3:28:54, teacher attribution also flagged: Tai Situpa teaches),
+  Maffie (1:19:12 vs 1:57:13), Fox Daoism (1:20:38 vs 1:25:42), plus one-second mismatches on
+  AR-01, ST-03, SRC-M25-001/002, M23-EX01; (4) AR-01 Sandel Episode 10 does NOT stage the three-way
+  comparison mod-phil-1 outcome 3 needs (pilot-relevant, flagged to deg-philosophy owner);
+  (5) ST-04 Burnyeat lecture fits mod-phil-2 only via context, owner should confirm fit;
+  (6) Spanish-language flags on SRC-M24-005/006 (deg-contemplative). All verified sources: free
+  access, no paywalls found. One third-party upload flagged: M02-B06 (BBC documentary).
