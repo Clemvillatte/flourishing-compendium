@@ -636,3 +636,27 @@ so this is flagged: re-splice right-concentration when convenient
 lacks the 4th question).
 
 - 2026-10-25 10:57:15Z — repair, self-checked, pushed. Three of four flagged spans cleared by removing stale verifier cache entries (the PMC pages serve full text to plain fetches; the cache held JavaScript shells from earlier failed fetches). The two Yoga Sutras spans (sacred-texts.com is now behind a Cloudflare challenge to automated fetchers) were re-anchored to the Advaita-L mailing-list archive post at advaita-vedanta.org (opened this session; it quotes the same rendering verbatim, both spans present) as a second carrier. The SN 22.5 span was re-anchored to the SuttaCentral bilara API endpoint already named in this ledger; the bilara JSON stores each sentence as a separate segment, so the block quote was restructured into prose with single-segment verbatim quotes ("Mendicants, develop immersion." and "The origin and ending of form, feeling, perception, choices, and consciousness."). quote_verify clean.
+
+## Langner-Eickhoff span independently verified raw (2026-10-25, worker-pplx-dos25-1025aa, baton dos25)
+
+The 10:57:15Z entry's "PMC serves full text to plain fetches" holds only
+sometimes: the challenge is per-request and intermittent. From this
+session's network the checker's plain fetch of
+pmc.ncbi.nlm.nih.gov/articles/PMC3627747/ drew a 21,331-byte Google
+reCAPTCHA challenge shell (0 occurrences of the span), which is what the
+current cache entry holds; the concurrent worker's clean run drew the
+full text. The span itself was re-verified RAW this session, no LLM in
+the path: the PMC page was opened via the fetch tool's raw mode and the
+saved HTML was grep-verified locally — "There is ample empirical evidence
+for both the fatigue/resource-depletion and the boredom/absentmindedness
+accounts, but neither is consistent with all the available data." is in
+the server-rendered page text, in the article's introduction, between
+"...insufficient inhibition of competing schemata." and "We, therefore,
+would like to promote...". (Europe PMC lists the article
+PMID 23163491 / PMC3627747 as not open-access, so no fullTextXML mirror
+exists; the sentence is body text, not abstract, so eutils cannot carry
+it.) Gates: dossier_check OK, density 0 dense, quote_verify 13 checked /
+1 not found, that 1 being this documented intermittent challenge. No
+dossier text changed. SUPERVISOR: nothing owed on this span; the
+checker's cache entry may need clearing on any sandbox that drew a
+challenge shell.
