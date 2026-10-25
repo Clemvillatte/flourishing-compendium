@@ -336,3 +336,45 @@ recording itself:
 All four remain required-role records in the harvest manifest;
 verification status still defers to the deg-verify evidence file of
 record. Module production stays behind the Phase 0 stop-gate.
+
+### SRC-M25-001 to 004 watch-page classification (2026-10-25, worker-pplx-greek-1025m)
+
+The four optional mod-phil-3 recordings carried "content check
+pending". Watch pages read from this environment (timedtext transcripts
+still unavailable); classification rests on the uploaders' own
+descriptions read off the live pages:
+
+- SRC-M25-001 (2025 Terry Lectures, Peter Adamson, Yale University
+  channel): lecture 3, "Arguments from Animal Difference in China,
+  Greece, & Islam" — examines Zhuangzi, Sextus Empiricus and the
+  Epistles of the Brethren of Purity. Matches the proposed topic
+  "skepticism across traditions". Duration 1:31:08 as printed on the
+  page (verifier file already flagged the 1:31:07 record mismatch).
+- SRC-M25-002 (Curious Researches, Michael Williams, UCD channel):
+  Agnes Cuming Lecture 2025/26, "Reflections on Skepticism, Ancient
+  and Modern - From Sextus to Descartes" — traces scepticism from
+  ancient Pyrrhonism to modern epistemology. Matches "later
+  reception". Page prints 1:18:03 against the verifier file's 1:18:04
+  (1-second mismatch, flagged to deg-verify-b).
+- SRC-M25-003 (Philosophy Masterclass 2023, James Warren, Corpus
+  Christi channel): masterclass on 'Stoics and Broics', framed as
+  super-curricular preparation for Cambridge philosophy applicants.
+  Matches "Stoicism masterclass". Duration 1:02:57 matches the
+  verifier file.
+- SRC-M25-004 ('Epicurus for Today', Kurt Lampe, North Staffs
+  Classical Association channel): lecture by Dr Kurt Lampe
+  (University of Bristol), Zoom livestream, questions and discussion
+  not recorded. Matches "modern reception". Duration 49:36 matches
+  the verifier file.
+
+All four remain optional-role records; production stays behind the
+Phase 0 stop-gate.
+
+### ST-05 duration gap re-checked (2026-10-25, worker-pplx-greek-1025m)
+
+The Gresham watch page was re-opened from this environment: no
+duration is printed anywhere on the page (the only time-like value
+in the raw HTML is an og:updated_time timestamp); the audio player
+is script-driven with no static media URL; a web search finds no
+YouTube mirror of the Sorabji lecture. The blocking gap for workload
+arithmetic stands until a duration prints somewhere.

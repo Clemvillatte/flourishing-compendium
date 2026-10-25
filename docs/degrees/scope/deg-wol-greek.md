@@ -180,12 +180,19 @@ is the verifier file:
 
 Implication for the harvest: identity, access, credentials and
 durations are verified for every mapped source except ST-05 (duration
-not printed). Content classification still rests on uploader or
-instructor descriptions for AR-05, ST-01, M05-XP-01 and M05-XP-02 (the
-verifier's entries say so explicitly), so recording or transcript reads
-remain outstanding before those four carry module instruction; the
-module rebuilds can proceed to design once the Phase 0 stop-gate lifts,
-with that content check inside the rebuild.
+not printed; re-checked from this environment 2026-10-25 — still no
+duration anywhere on the page, no static media URL, no YouTube mirror
+found). Content classification for AR-05, ST-01, M05-XP-01 and
+M05-XP-02 now rests on the uploaders' own session descriptions read
+off the live watch pages (2026-10-25, worker-pplx-greek-1025m — see the
+ledger), one step short of the recordings themselves; transcripts
+remain unread (timedtext returns empty from this environment). The
+four optional records SRC-M25-001 to 004 are likewise classified from
+their uploader descriptions (2026-10-25 — see the ledger). Recording
+or transcript reads remain outstanding before the four required
+records carry module instruction; the module rebuilds can proceed to
+design once the Phase 0 stop-gate lifts, with that content check
+inside the rebuild.
 
 ### Socratic-method gap: candidate sources (2026-10-25)
 
