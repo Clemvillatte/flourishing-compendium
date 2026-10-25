@@ -1,8 +1,8 @@
 {
  "batch": "dos33",
  "done": [],
- "in_progress": "procrastination (rev 3: content review — advisor round 1 applied; coverage closed, all 27 inventoried cards read and glossed (nine added in rev 3: new task-shape subtheme plus lever entries); genuine divergence PENDING; checker exit 0 (35 card links, 2 external carriers))",
- "note": "rev 3 (worker-pplx-dos33-1025c, 2026-10-25): the nine remaining inventory cards read and added (MO048, K189, MO026, MO027, MO021, MO022 under a new task-shape subtheme; MO047, MO025, MO033 beside their kin); coverage now exhaustive against the prep's sweep; checker exit 0 (35 card links, 11 headers, 2 external carriers); STATUS: content review, divergence pending",
+ "in_progress": "procrastination (rev 4: content review — advisor rounds 1-2 applied; hallucinated card-gloss content caught by grep and rewritten from the card files; reading claims reconciled (29 unique inventoried cards, 32 distinct linked); mood-repair attribution and editorial-question framing fixed; divergence PENDING; checker exit 0 (35 links / 32 cards, 12 headers, 2 external carriers))",
+ "note": "rev 4 (worker-pplx-dos33-1025c, 2026-10-25): advisor round 2 — grep of the card files caught named-person gloss content not on the cards (Akrasia x2, Self-forgiveness rewritten from actual card bodies); MO021 result corrected to the card's wording; K153 record corrected (kernel Evidence section opened, trial not reopened); inventory reconciled to 29 unique cards, all read; mood-repair attributions fixed; ST391 logline events-only; checker exit 0 (35 card links, 12 headers, 2 external carriers); STATUS: content review, incomplete-but-source-faithful checkpoint, divergence pending",
  "sweep_title_inventory": {
   "concepts": [
    "Akrasia (weakness of will)",

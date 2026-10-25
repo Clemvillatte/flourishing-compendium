@@ -3,14 +3,14 @@
 Worker: worker-pplx-dos33-1025c (band dos33 taken over from the released
 dos33 baton; the provisional prep by worker-pplx-dos33-1025b is
 incorporated: the 27-card inventory and carriers named below).
-Dossier: docs/enrichment/dossiers/procrastination.md, rev 2 (rev 1: first
-draft 2026-10-25, 3a467c4a1; rev 2: this entry, advisor round 1).
-Checker at rev 2: exit 0 (28 card links resolve, 11 headers, 2 external
-carrier link occurrences across 2 distinct URLs; the duplicated Sirois
-and Pychyl block was removed from the MO045 map entry in rev 2, keeping
-the quotation in the comparison section only).
+Dossier: docs/enrichment/dossiers/procrastination.md, rev 4 (rev 1:
+first draft 2026-10-25, 3a467c4a1; rev 2: 7aaef2f86, advisor round 1;
+rev 3: afd01294e, coverage closed; rev 4: this entry, advisor round 2).
+Checker at rev 4: exit 0 (35 card link occurrences over 32 distinct
+cards, 12 headers, 2 external carrier link occurrences across 2
+distinct URLs).
 
-## Verification method (rev 2)
+## Verification method (rev 4)
 
 Both block quotations are verified word-for-word against UNPROMPTED raw
 carriers opened this session:
@@ -103,7 +103,10 @@ MO/A principles (read through their Plain words sections); excerpt-only
 for K153, K188 and the other kernel and concept entries. At rev 2, after
 the advisor flagged this, K153 and K188 were read through their Evidence
 sections (K153: the Sheeran and Orbell 2000 screening-attendance field
-test, 92 vs 69 percent, with its limits; K188: the behavioural-economics
+test, 92 vs 69 percent, as quoted in the kernel's Evidence section, which
+quotes the trial abstract; the underlying trial carrier was NOT
+independently reopened this session, and the dossier's K153 entry says
+'kernel's evidence section' accordingly; K188: the behavioural-economics
 toolkit chapter's friction passages, with the card's own note that the
 chapter was not directly fetched), and the Implementation intentions
 concept card was read in full to source the meta-analytic verdict
@@ -176,4 +179,62 @@ MO026, MO027, MO021, MO022), and lever entries beside their kin
 wisdom and K269). All 27 inventoried cards are now read and glossed;
 the map is exhaustive against the prep's sweep. The stories remain
 selected from outside the sweep, as flagged. Checker exit 0 (35 card
-links, 11 headers, 2 external carriers).
+links, 12 headers, 2 external carriers; the 11 in this record as first
+appended was a transcription error, corrected in rev 4).
+
+## Advisor QC round 2 — repairs applied in rev 4
+
+1. Hallucinated gloss content caught and rewritten. A grep of the
+   actual card files against the rev 2-3 glosses showed that the
+   Akrasia (weakness of will), Akrasia and Self-forgiveness entries
+   carried named-person material that is NOT on those cards (Hart's
+   Bayesian account, Protagoras's position, Conti's Pull, Arpaly's
+   Hal, Raja's desert-cave, Buber's Twofold Being, and the Aquinas/
+   Mele/Goldman catalogue). All three glosses were rewritten from the
+   actual card bodies, which carry: the SEP account (Socrates'
+   Protagoras denial, Aristotle's partial agreement, Hare, Davidson,
+   Holton), the IEP account (knowing the better and doing the worse;
+   curable failure of habituation; boulesis, Frankfurt, Spinoza's
+   drunkard), and Hall and Fincham's 2005 definition with Marcus's
+   return-without-disgust. This is the same failure mode as the
+   reconstruction catches in the Creation dossier, on the card side:
+   glosses must be re-checked against the card file, not recalled.
+2. MO021's gloss corrected to the card's own result: the identity
+   wording significantly increased interest in registering to vote
+   (experiment 1) and official-record turnout in two statewide
+   elections (experiments 2 and 3), not "registration" as such.
+3. Reading claims reconciled: the prep's inventory resolves to 29
+   unique cards (the "27" was the prep's row count, some rows
+   multi-prefixed); all 29 are now read and glossed; the dossier
+   links 32 distinct cards (the three stories are from outside the
+   sweep, which is how 29 read + 3 stories covers 32 linked). The
+   reads were relevant-section excerpts for most cards (opening,
+   plain words, evidence), full for others; described as such above,
+   no longer certified as full-body reads.
+4. K153's verification record corrected: the kernel's Evidence
+   section, which quotes the Sheeran and Orbell abstract, was opened;
+   the trial itself was not independently reopened.
+5. Opening and comparison reframed: the mood-buying sentence now
+   attributed to the mood-repair account; the open question posed as
+   this page's editorial question ("the question I would put to both
+   reviews"), not as a finding about what the reviews settle; the
+   Variation paragraph's self-blame chain attributed to the
+   mood-repair account as a proposed mechanism, not "the review's
+   theory".
+6. ST391's explanatory closing sentence moved out of the logline
+   (events only in the logline; the contrast-about-misdirected-effort
+   reading is recorded here).
+7. Nearby-terms: the catalogue narration removed; the distinction
+   stated substantively.
+
+## Scope and honest limits (rev 4, supersedes rev 2's)
+
+- Coverage: all 29 inventoried cards read in relevant sections and
+  glossed; three stories from outside the sweep, fit flagged.
+- Divergence: PENDING; the comparison is bounded and honest, and the
+  advisor's round 2 instruction is not to manufacture one between
+  these compatible accounts.
+- Advisor QC: two rounds applied. Rev 4 remains an incomplete but
+  source-faithful checkpoint under review; next steps for whoever
+  takes the band: a supervisor review of the bounded comparison, a
+  decision on the divergence requirement, and any editorial polish.
