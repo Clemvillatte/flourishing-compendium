@@ -247,3 +247,39 @@ quotation blocks that each join excerpts with ellipses; the phrases
 of every excerpt were located in the opened PDF, and the join points
 are marked as ellipses in the body, but the joined whole was not
 compared as one continuous passage (it is not one).
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos4 baton)
+
+Reviewed all 10 candidates against the current file (fresh audit run;
+persisted line numbers had shifted). No carriers freshly opened;
+dispositions are editorial judgements resting on card texts and
+inherited verification.
+
+Two recasts applied, both in the divergence section, both flagged
+not-X-but-Y and both redundant with their own context:
+
+- Line 218: "What remains unresolved is therefore not the filter's
+  location but its behaviour under load" — the clause after the colon
+  already states the reframe ("the question has been reframed from where
+  selection happens to which kind of load is operating"), so the opening
+  antithesis repeated it. Now reads "What remains unresolved is therefore
+  the filter's behaviour under load: ...".
+- Line 222: "The shared question is not whether wandering has effects but
+  under which conditions the costs outweigh the functions" — the section
+  heading directly above ("Under what conditions does a wandering mind
+  cost more than it returns?") already carries the condition framing;
+  the "not whether" clause answered a question no one was asking. Now
+  reads "The shared question is under which conditions the costs
+  outweigh the functions."
+
+Kept: line 11 (mind-wandering as part of attention's life — scoping
+note), 38 (top-down vs bottom-up is the concept), 160 (Brown's
+interest-based account is the card's claim), 228 (Mooneyham and
+Schooler's accept-and-reframe stance described accurately), 234
+(insulation vs cost — both outcomes quoted above), 238 (the trainable
+skill is the return, a substantive point), 270 (the kernel's own
+instruction: how it appears vs what it means), 276 (evidence caveat:
+conventions vs tested doses).
+
+Checks: dossier_check.py exit 0; the fresh audit count for this dossier
+fell from 10 to 8. Scope: candidate-line review only.
