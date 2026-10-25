@@ -583,3 +583,81 @@ decision):
 ROUTING: the pilot repair (required-guided-session replacement,
 advisor round-6 verification) is the module owner's and supervisor's;
 the verify band supplies this evidence only.
+
+## Holden JhNLTwIQCt8 — full section-4 evidence upgrade: chapters, credentials page, transcript content confirmed; standing-postures segment 4:30-10:29 (about 5:59) (worker-pplx-degfin-1, deg-verify-a, 2026-10-25; session clock 14:45:30Z at entry writing, save commit follows)
+
+Advisor-directed follow-up on the already-recorded 12-minute-tier
+candidate (the entry above). New evidence this pass, standard: skill
+section 4. This is an evidence upgrade, not an assignment; the
+candidate was already standard-meeting at tier level; the module owner
+remains the attacher.
+
+- IDENTITY and DURATION (watch page OPENED this session,
+  https://www.youtube.com/watch?v=JhNLTwIQCt8, 2026-10-25): "Postures
+  of Power | Activate Internal Energy and Improve Posture Naturally",
+  Holden QiGong channel, premiered 2023-04-28, duration 10:29 as
+  reported by the page. The description presents the practice as
+  Zhan Zhuang standing meditation with two foundational postures
+  (Lower and Upper Embracing the Tree).
+- SEGMENT TIMING (uploader-set chapters printed on the watch page,
+  2026-10-25): Introduction 0:00, Warm Up 1:50, Postures 4:30. The
+  guided standing-postures segment therefore runs 4:30 to 10:29,
+  about 5:59. Basis: uploader-set chapter metadata on the page, not a
+  playback observation; the third-party transcript (below) prints no
+  timestamps. This is the first mod-qg-3 candidate with a TIMED
+  standing segment from the page itself: the 5:59 Postures segment
+  can serve the module's 5-to-6-minute ladder rungs as a guided
+  option, with the warm-up segment (1:50-4:30) optional.
+- CONTENT (third-party transcript opened this session,
+  https://youtubetotranscript.com/transcript?v=JhNLTwIQCt8&current_language_code=en,
+  2026-10-25; no timestamps in the retrieved text): the transcript
+  confirms the recording's instructional content — warm-up (hip/waist
+  turns, "knock on the door of Life", "spread the feathers" neck and
+  shoulder work); lower embracing the tree (feet shoulder-width and
+  pointing straight ahead, knees bent slightly, arms rounded with
+  elbows away from the ribs, hands relaxing as if resting in water);
+  upper embracing the tree (briefly cued); alignment (crown of the head
+  lifted as if suspended, elongation between vertebrae); breathing
+  (slow and deep through the nose); visualization (feet in wet sand,
+  energy rising through the legs, lower abdomen as energy reservoir,
+  tree taking in light); closing (lower hands, feet together, notice
+  sensations). The narrator describes arms as branches, legs as
+  roots, torso as trunk.
+  DISCREPANCY FLAG for the module owner: the transcript's lower-
+  embracing-the-tree instruction says "let the tailbone drop and
+  relax — do not tuck it under", while K114's checkpoint 2 says
+  "tailbone tucked slightly toward the heels". The two instructions
+  differ; if this resource is attached, the module page must say
+  which checkpoint vocabulary governs (K114, the assigned reading, or
+  the recording) rather than silently blending them.
+- INSTRUCTOR CREDENTIALS (teacher page OPENED this session,
+  https://holdenqigong.com/about, 2026-10-25): the page presents Lee
+  Holden as a Master Qi Gong instructor, expert in meditation and
+  Tai Chi, licensed acupuncturist and herbalist, and author, with the
+  origin story (collegiate soccer at UC Berkeley; a Chinese Medicine
+  doctor in Santa Cruz taught him Qi Gong after a back injury). The
+  page does NOT name his qigong lineage, masters or specific
+  certifications — the credential basis is his own school's page
+  ("Master Qi Gong instructor") plus the stated professional
+  license, THINNER than Thompson's named lineage (Wu Ji Jing Gong,
+  Master William Ting) but the same credential link the Academy QG1
+  file already carries for Holden as a verified guide. Recorded as
+  satisfying the documented-teacher-training clause on the same
+  basis the gallery already accepted, with the thinner-basis caveat
+  stated.
+- ACCESS and LANGUAGE: the watch page was fetched anonymously with no
+  paywall or login; the description carries a promotional "two weeks
+  of free Qi Gong classes" link (a promotion, not a gate on this
+  video). The page shows a Transcript section (captions available;
+  the page notes auto-dubbed audio tracks; caption-language
+  availability not specified — English transcript retrieved). No
+  chapters text contradicts the description. Playback itself was not
+  attempted this pass.
+
+STATUS: upgraded candidate — identity, access metadata, duration,
+segment timing (uploader-set chapters), content classification
+(third-party transcript) and instructor credentials (opened school
+page) now all recorded with their bases. NOT CLEARED for attachment
+by this band; the K114 tailbone discrepancy above needs the module
+owner's ruling if attached. Assignment and any pilot revision remain
+the module owner's and supervisor's.
