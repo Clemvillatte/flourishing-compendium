@@ -67,3 +67,11 @@ quotes clean.
   crows-and-kites exchange with Legge's exact "to take from those and give to these
   would only show your partiality", and the heaven-and-earth coffin reply). D192 has
   no story backlinks; no overlap. Clean, ready for registration.
+
+## Verification-pass addendum (2026-10-25, s1a holder, ~T+49)
+
+- Cross-lane story_check batch: every draft in s1e and s1c reports 0 errors; every s1a draft processed this session reports 0 errors.
+- URL liveness sweep over the 34 distinct external carriers cited by the s1a drafts marked ready this session: 31/34 return HTTP 200 directly. The three 403s are known bot-walls, each confirmed live via alternate route this session: brocku.ca (Cloudflare challenge; identical chapter text verified at Gutenberg #53910, brocku wording confirmed via search index), ctext.org (JS shell to curl; Legge quotations confirmed via ctext's own indexed text and two independent hosts of Legge's Texts of Taoism), web-japan.org (nipponia33 pagoda pages; quotes verified earlier this session via the alternate fetch route).
+- Remaining qc_pending in s1a: s1a-028 and s1a-029 (prepared rung-4 upgrades, routed to the supervisor per the separation guard), s1a-038 (quotes verified; principle mapping flagged for supervisor: D022 rejected, D034 candidate), s1a-051 corrected to drafting then completed to ready this pass.
+- Flag for supervisor: dipama.com restructured; the coverage-matrix string "whatever is happening is to be noticed" (s1a-024) could not be re-located anywhere on the restructured site.
+- Flag for supervisor: the supervisor and assistant-supervisor batons read RELEASED at ~T+42 this session; no supervisor was live for the flagged dispositions (s1c-039 ST430 overlap, s1a-023 duplication/scope, s1a-024 string, s1a-038 retargeting, s1a-028/029 upgrades).
