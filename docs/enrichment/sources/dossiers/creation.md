@@ -1203,3 +1203,87 @@ is complete.
 - Advisor meta-rule adopted for all further candidates: identify the
   contrary claim in the source itself. If the denial exists only in a
   connecting paraphrase, reject locally without consultation.
+
+### Pass 11 (2026-10-25) — THIRD demonstrated disagreement added; bar of 3-5 met; final advisor QC passed
+
+- NEW SECTION: "Is there a human nature we do not make?" — Camus vs
+  Sartre. Shared proposition (advisor's safest wording): whether a
+  shared human nature exists independently of each person's
+  self-definition. Sartre denies a pre-given human essence ("there is
+  no human nature, because there is no God to have a conception of
+  it"; "condemned at every instant to invent man" — "without any
+  support or help whatever"); Camus's analysis of rebellion leads him
+  "to the suspicion that, contrary to the postulates of contemporary
+  thought, a human nature does exist, as the Greeks believed," with
+  the common-values appeal ("If men cannot refer to common values,
+  which they all separately recognize, then man is incomprehensible
+  to man"). Advisor CLEARED the pairing (round 4) after I applied its
+  meta-rule — the contrary claim is identified in the sources
+  themselves, not in connecting paraphrase. Constraints carried on
+  the page: Sartre's denial scoped to pre-given essence (not shared
+  circumstances or responsibility); Camus's "suspicion" qualification
+  kept inside the quote; no claim that Camus names Sartre; no
+  historical-quarrel framing; Sartre's no-human-nature and invent-man
+  spans used, the chosen-sense and "Man is nothing else but..." spans
+  NOT reused (disagreement one's evidence).
+- CARRIER CHANGE for The Rebel: the djvu.txt edition
+  (https://archive.org/download/in.ernet.dli.2015.507721/2015.507721.The-Rebel_djvu.txt)
+  contains one stray OCR angle-bracket at the front matter whose
+  pairing with a later ">" makes the verifier's HTML-stripping
+  normalization delete the book's first two-thirds (382KB), so no
+  Part I quote can verify against it. Switched the page's carrier to
+  the PDF edition of the same Bower translation
+  (https://archive.org/download/in.ernet.dli.2015.125230/2015.125230.The-Rebel_text.pdf)
+  and kept only spans whose PDF text layer I verified verbatim by
+  pdftotext of the exact downloaded file: the human-nature suspicion
+  sentence and the common-values sentence. Two spans dropped because
+  the PDF's OCR text layer renders them with errors ("die
+  conception", "whidi", "condusion diat"): the "conception of values
+  as pre-existent" sentence and the "does not belong to him alone"
+  fragment; the opposition-marking now rests on "contrary to the
+  postulates of contemporary thought" inside the verified quote.
+- PROSE REPAIRS applied per the advisor's final QC rounds: (1) the
+  Skinner "scientific view" sentence is now a faithful close paraphrase
+  in prose (the ellipsis-accommodated quotation was grammatically
+  broken; the verbatim determination sentence remains documented here
+  as supporting evidence: "In the scientific view (and the word is not
+  necessarily honorific) a person's behaviour is determined by a
+  genetic endowment traceable to the evolutionary history of the
+  species and by the environmental circumstances to which as an
+  individual he has been exposed."); the clean complete quotations on
+  the page are "As we learn more about the effects of the
+  environment...", "Autonomous man is a device...", and "Neither view
+  can be proved...". (2) The human-nature section narrowed
+  consistently ("Sartre denies a pre-given human essence";
+  "Camus's analysis of rebellion points toward a shared human
+  nature"; "whether self-formation answers to a shared human nature
+  that individual choices did not create"); the unsupported
+  refusals-need-no-argument claim removed and replaced with the
+  advisor's restrained lean. (3) The Camus synthesis paragraph
+  limited ("Camus considers the work that may not last"; "These
+  passages do not establish a disagreement with Frankl's
+  creative-values route"; the closing practical question in the first
+  person). (4) First heading: brief first-person lean added with a
+  reason (analytical, not autobiographical), QC language removed.
+  (5) Both first-person leans rewritten as analytical preferences
+  after the advisor flagged invented lived experience.
+- DISAGREEMENT COUNT: THREE source-supported headings, bar of 3-5
+  MET — (1) life's meaning discovered or conferred (Frankl vs
+  Sartre); (2) human responses exhaustively conditioned or partly
+  self-determining (Skinner vs Frankl); (3) human nature pre-given or
+  constituted through self-definition (Camus vs Sartre). Recorded
+  per the advisor's completion verdict, subject to the applied prose
+  repair.
+- VERIFICATION REPORT (accurate wording per the advisor): 44
+  quotations checked; 41 automated matches; three automated matches
+  unresolved. The three unresolved are the known bot-blocked
+  carriers (Conner et al. DOI landing; Jones et al. Taylor & Francis;
+  Rubinstein et al. PMC). Their ledger entries contain actual
+  evidence — exact quotations, opened carrier URLs, and documented
+  verbatim comparisons against fetch-tool raw HTML with no LLM
+  extraction (ledger entries above; T&F reconfirmed in the pass-9
+  round-3 accuracy close) — so they are recorded as MANUALLY
+  VERIFIED; AUTOMATED MATCHES UNRESOLVED, and are not a
+  whole-dossier completion blocker.
+- Publication and registry changes left to the supervisor, as
+  settled. Art: None (owner call). Checker exit 0.
