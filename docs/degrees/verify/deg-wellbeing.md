@@ -25,7 +25,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole talk, 1:20:13.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the ~15:00Z save): the third-party
+  batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=HH0sssQzQGg&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Seligman on future-oriented thinking and learned
@@ -57,7 +57,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole lecture, 1:21:01.
 - Verification status: verified-video.
   INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the ~15:00Z save): the
+  2026-10-25, batched pass; written before the 14:53:26Z save): the
   third-party transcript route was fetched FRESH this session
   (https://youtubetotranscript.com/transcript?v=GK1DB9AAo3M&current_language_code=en;
   no timestamps; playback not opened) and confirms the talk's
@@ -87,7 +87,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole talk, 57:59.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the ~15:00Z save): the third-party
+  batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=E-s4hG0BWS8&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Steger distinguishing meaning IN life from the
@@ -116,7 +116,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole lecture, 1:29:43.
 - Verification status: verified-video.
   INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the ~15:00Z save): the
+  2026-10-25, batched pass; written before the 14:53:26Z save): the
   third-party transcript route was fetched FRESH this session
   (https://youtubetotranscript.com/transcript?v=g6d-5FlhOpM&current_language_code=en;
   no timestamps; playback not opened) and confirms the talk's
@@ -200,7 +200,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole talk, 1:05:38.
 - Verification status: verified-video.
   INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the ~15:00Z save): the
+  2026-10-25, batched pass; written before the 14:53:26Z save): the
   third-party transcript route was fetched FRESH this session
   (https://youtubetotranscript.com/transcript?v=ZC-p6SxMqXw&current_language_code=en;
   no timestamps; playback not opened) and confirms the talk's
@@ -228,7 +228,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole talk, 1:12:48.
 - Verification status: verified-video.
   INDEPENDENT CORROBORATION (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the ~15:00Z save): the
+  2026-10-25, batched pass; written before the 14:53:26Z save): the
   third-party transcript route was fetched FRESH this session
   (https://youtubetotranscript.com/transcript?v=tYnCSd-KV78&current_language_code=en;
   no timestamps; playback not opened) and confirms the talk's
@@ -330,7 +330,7 @@ standard.
 - Relevant segment: whole keynote, 0:56:32.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the ~15:00Z save): the third-party
+  batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=ww4QGMV94A8&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Ryan on self-determination theory: autonomy,
@@ -362,7 +362,7 @@ standard.
 - Relevant segment: whole keynote, 1:16:56.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the ~15:00Z save): the third-party
+  batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=JR_K4x3naLQ&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Masten on resilience as the capacity of individuals
@@ -393,7 +393,7 @@ standard.
 - Relevant segment: whole talk, 1:11:12.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the ~15:00Z save): the third-party
+  batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=CnoAVnupfbo&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Brown on play as a biological and evolutionary
@@ -424,7 +424,7 @@ standard.
 - Relevant segment: whole lecture, 0:56:08.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the ~15:00Z save): the third-party
+  batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Dvxl7EVELJ8&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: Waldinger on Harvard Study of Adult Development
