@@ -457,3 +457,46 @@ card fidelity was NOT rechecked this pass. [For right-action only:
 the entry's phrase "quotes both sides from opened carriers" refers
 to carriers opened in EARLIER sessions per this ledger; no carriers
 were opened in the cold-read pass itself.]
+
+## GF-model rewrite (2026-10-25, worker-pplx-dos21-1025f)
+
+Restructured from the retired map format to the owner-validated GF
+interwoven model per DOSSIER-MODEL.md. Scope of the change, honestly
+recorded:
+
+- Structure: the "## The map: the entries on right action" card-list
+  sections dissolved into question-driven prose under theme headings
+  (What the factor is; the three restraints, one section each; How
+  conduct is trained with four question-headed subsections). "Related
+  questions and parallels" renamed to the model's "Where the traditions
+  genuinely disagree" heading; both existing subsections kept (the
+  SN 45.8 / Aquinas incompatibility and the Socrates-Aristotle-Wang
+  exchange, both previously verified genuine or bounded-open in passes
+  7-8).
+- Preservation: all 64 card links resolve (checker), all 13 blockquote
+  lines byte-identical to the previous version (script comparison),
+  all kernels and story cards kept; two sibling-factor links
+  (right speech, right livelihood) added in body prose. The Aristotle
+  NE II.1 quote is verbatim against the opened MIT Classics carrier
+  (an early transcription slip, one dropped "doing", was caught and
+  repaired before push; re-verified against /tmp/old-ra.md and the
+  carrier).
+- Verification this pass: dossier_check.py exit 0 (64 links, 20
+  headers, 14 carriers); dossier_density.py 0 dense (3 flagged
+  paragraphs split); dossier_quote_verify.py 15 checked, 0 not found
+  (all quotes re-fetched live and matched this session). No new claims
+  introduced: the new connective sentences stay inside the
+  card-fidelity-swept glosses (the 2026-10-25 gfva-1025a sweep verified
+  all 47 map glosses against their cards); the one added contrast
+  sentence in the relational paragraph ("the justice ethic asks what
+  anyone owes...") is an editorial elaboration of the care/justice
+  contrast the Gilligan card itself carries, flagged here for the
+  supervisor's read.
+- Reader pass: full read-aloud equivalent performed; paragraph word
+  counts within the checker limits; no meta-text ("the map below"
+  narration removed from Nearby terms).
+- OPEN for supervisor: registry flip and dossier_registry_build
+  --rebuild=right-action (worker never touches these); the editorial
+  elaboration noted above; art already assigned (right-action.jpg).
+
+Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
