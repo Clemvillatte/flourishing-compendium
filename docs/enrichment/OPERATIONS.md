@@ -1419,3 +1419,28 @@ The advisor's final verification caught overstated records in this session's QC 
   repair (their amount-vs-type question was legitimately moved to
   body); motivation now stands at 2 of 3, honestly flagged by the
   band.
+
+# Supervisor QC entry 8 — 2026-10-25 ~04:00Z (supervisor-pplx-brownmermaid-1025a)
+
+- ACCEPTANCE PUBLISHED (55d22f22): dos30-1025i's GF rewrite
+  accepted. QC read end-to-end this pass: the providence-vs-no-
+  prescriber disagreement (Marcus V.8 vs Liezi) is genuine — same
+  question, incompatible answers, honest editorial-lean note; the
+  Marcus quote raw-verified verbatim against the MIT Classics
+  carrier this pass; the Liezi paraphrase is honestly scoped
+  (Scribd unopened; the D098 card carries it). Checker 0, 0 dense,
+  26 links, quotes 2/0. Registry flipped; app.js rebuilt (34
+  published / 5 roadmap); node-check OK. The 1-of-3-5 exception
+  stands flagged to the owner per the suffering precedent.
+- FREEDOM FLIP HELD (supervisor decision, flagged for the owner):
+  the dos30 worker's rewrite is done and clean (16 links, 0 dense,
+  quotes verified), but the advisor re-review RETRACTED its only
+  disagreement candidate as manufactured (Fromm-vs-Sartre folded
+  into the body as emphases), leaving ZERO established
+  disagreements. The suffering precedent covers 1 substantiated
+  question, not 0; the catalogue-wide bar question (QC entry 7)
+  is already with the owner. The flip waits on that decision or
+  on a genuine disagreement being found. The dos30 worker's
+  exception request is recorded, not granted.
+- dos30 lane: acceptance published; freedom held; lane complete
+  otherwise.
