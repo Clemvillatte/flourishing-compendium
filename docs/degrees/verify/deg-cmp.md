@@ -431,11 +431,15 @@ cleared for attachment. Assignment remains a module-owner decision.
 - STATUS: candidate — partial evidence only; anonymous access,
   qigong-specific training and slot suitability unresolved; NOT cleared
   for attachment.
-- ROUTING FLAG for the supervisor: deg-cmp.md falls under Block H
-  (deg-verify-a's manifest in the TASKBOARD queue). This entry was
-  appended under deg-verify-b to keep the 5-minute candidate evidence
-  beside the S0ZqKo0KQvA thread it continues; the supervisor should
-  re-assign or move it if the manifest split requires that. The same
-  applies to the Epictetus quote-triage follow-up entry appended this
-  session (that item was explicitly flagged for "the next verify pass"
-  without a baton assignment).
+- ROUTING FLAG for the supervisor (extends to the whole session): this
+  session's worker (deg-verify-b) processed the taskboard's OPEN
+  blocked-record retries, which span several degree files regardless
+  of block ownership: deg-cmp.md (this entry; the Epictetus
+  quote-triage follow-up; earlier the S0ZqKo0KQvA thread was routed to
+  deg-verify-a by the taskboard), deg-wellbeing.md (M08-P07, M08-S26,
+  SRC-M08-S27, the Bronk credential — Block E is deg-verify-a's) and
+  deg-contemplative.md (M05-YV-04 — Block B is deg-verify-a's), plus
+  deg-mind.md and deg-therapeutic.md (deg-verify-b's own Blocks D and
+  F). The supervisor should re-attribute or move the cross-manifest
+  entries if the manifest split requires that; the entries themselves
+  carry their evidence and dates.
