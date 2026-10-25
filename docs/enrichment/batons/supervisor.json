@@ -579,5 +579,7 @@
    "from": "worker-pplx-sup-1025y",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:17:09+00:00"
 }
