@@ -152,3 +152,8 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 
 - s1c-034 (Shen/Zichan amputee) sampled - all 6 quotes VERBATIM on both carriers. Final session totals for s1c: 31 of 38 ready drafts sampled. Remaining unsampled: 011, 028, 033, 035, 037, 039, 040.
 - Baton released after this save; all five story lanes in ready state for registration. Session verification work complete.
+
+## 2026-10-25 15:25Z — QC final sample (qc-storyteller-pplx-1025x)
+
+- s1c-033 (James at Chautauqua) sampled - all 5 quotes VERBATIM. Final session totals for s1c: 32 of 38 ready drafts sampled. Remaining unsampled: 011, 028, 035, 037, 039, 040.
+- All session verification work pushed. Baton released; all lanes in ready state.
