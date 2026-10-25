@@ -532,8 +532,7 @@ Segal-Teasdale MBCT entry, Brown and Ryan's dispositional mindfulness,
 the Bishop et al. two-part operational definition, the Weil and James
 attention entries, Lutz et al.'s focused-attention meditation, and the
 Daodejing 80 delight-in-the-ordinary entry. No mismatches found; no
-edits made. This strengthens the earlier voice-audit review (all 9
-candidates kept): the flagged constructions are card-faithful as well
+edits made. This strengthens the earlier voice-audit review (all 10 candidates kept, per the ledger's own review record): the flagged constructions are card-faithful as well
 as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
