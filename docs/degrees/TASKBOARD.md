@@ -9,17 +9,23 @@ OPERATIONS.md.
 Phases: Phase 0 (setup, in progress by the strategist), Phase 1
 (multi-agent production), Phase 2 (gates and integration per degree).
 
-1. Phase 0 closes when: scope docs for all nine degrees are verified by the
-   degree owners against opened sources, the superskill is piloted on one
-   theory module and one practice module, and the advisor has reviewed both
-   pilots.
-2. Phase 1 launch order (PRACTICUM SPLIT applied, owner directive
-   2026-10-25): pilot programs first (deg-philosophy as the theory pilot;
-   practicum-qigong in docs/practicum/ as the practice pilot), then the
-   remaining theory degrees (deg-mind, deg-wellbeing, deg-therapeutic,
-   deg-relational, deg-contemplative), then practicum-cmp (via the
-   designated cmp agent per the 2026-10-22 owner directive) and
-   deg-psychology-101 (pending the owner's ruling on its fate).
+1. Phase 0 closes when: scope docs for the SEVEN new degrees (owner
+   directive 2026-10-25 list) are verified by the degree owners against
+   opened sources, the superskill is piloted on one theory module and one
+   practice module, and the advisor has reviewed both pilots. Legacy
+   scope docs are raw material only; verify new scopes against opened
+   curricula, not against legacy text.
+2. Phase 1 launch order (NEW DEGREE LIST, owner directive 2026-10-25):
+   pilot programs first (deg-wol-greek as the theory pilot, harvesting the
+   legacy philosophy modules; practicum-qigong as the practice pilot),
+   then the remaining walks (deg-wol-daoism, deg-wol-buddhism,
+   deg-wol-pragmatism, deg-wol-existentialism, deg-wol-positive) and
+   deg-psychdim (recency-valuing; needs a fresh source strategy, not
+   only legacy harvest), then practicum-cmp (via the designated cmp agent
+   per the 2026-10-22 owner directive). The psychology-101 bridge is a
+   small practicum task (direct link). The integrator band owns the schema
+   migration: new degree ids, legacy flag plus footer link, PRACTICUM
+   section, bridge entry.
 3. The verification band (deg-verify) starts with the shared queue below
    as soon as Phase 0 closes, and keeps pace with new sources.
 

@@ -115,8 +115,9 @@ the degree ledger with a verification date:
 
 - Identity: the resource is what its title claims; the practice or doctrine
   is classified from the recording, transcript or text itself, not the title.
-- Accessibility: the link resolves for an anonymous visitor; paywalled or
-  app-only resources are labelled with their access conditions.
+- Accessibility: the link resolves for an anonymous visitor. NO paywalled
+  or app-gated content (owner ruling, 2026-10-25): curate from the large
+  body of free, authoritative teaching available online.
 - Instructor credentials: lineage, institution or documented teacher training,
   verified on a biography or institutional page, not the recording's own
   description.

@@ -2,8 +2,8 @@
  "band": "deg-therapeutic",
  "kind": "degree",
  "holder": null,
- "phase": "awaiting-launch",
+ "phase": "legacy",
  "modules": {},
- "notes": "Phase 1 not started; scope doc in scope/",
+ "notes": "LEGACY: retired from the degree list by owner directive; existential therapy content moves to deg-wol-existentialism",
  "updated": "2026-10-25T07:15:30+00:00"
 }

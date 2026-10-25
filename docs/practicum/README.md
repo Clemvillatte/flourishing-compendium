@@ -25,6 +25,14 @@ prompt conventions, but they do not share files.
 
 ## Programs and bands
 
+- practicum-psych-lab-bridge (psychology-101): NOT a degree and not a
+  training arc; it remains as-is for now (owner directive 2026-10-25),
+  presented as a direct link to the owner-built Psychology Lab website
+  (interactive gamified teaching of Psychology: Themes and Variations,
+  12e by Weiten and Gurung, 2027). Small task: verify the link, align the
+  entry text with the site's coverage map. Data id remains
+  deg-psychology-101 until the schema migration.
+
 - practicum-qigong (Qi Gong, a Year of Practice): scope doc in
   scope/qigong.md. Data id remains deg-qigong until the integrator migrates
   the schema.

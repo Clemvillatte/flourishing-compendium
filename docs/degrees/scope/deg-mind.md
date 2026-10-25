@@ -1,3 +1,5 @@
+# LEGACY DEGREE (owner directive, 2026-10-25): deg-mind is superseded by the new degree list. raw material for deg-psychdim. Kept as raw material; the Academy shows the legacy degrees behind a footer link pending the owner's later decision on their fate. Do not build new work against this scope; harvest from it.
+
 # Scope: deg-mind — Mind & Adaptive Behaviour
 
 Status: PROPOSAL by the strategist (2026-10-25), derived largely from the

@@ -1,0 +1,8 @@
+{
+ "band": "practicum-psych-lab-bridge",
+ "kind": "practicum-bridge",
+ "holder": null,
+ "phase": "awaiting-launch",
+ "notes": "Small task: keep the Academy entry as a direct link to the owner-built Psychology Lab site (Weiten and Gurung 12e, gamified, 411 missions); verify the link; align the entry text with the site's coverage map. Data id remains deg-psychology-101 until the schema migration.",
+ "updated": "2026-10-25T07:43:18+00:00"
+}

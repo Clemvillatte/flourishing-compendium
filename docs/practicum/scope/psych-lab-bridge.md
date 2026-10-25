@@ -1,3 +1,5 @@
+# PRACTICUM BRIDGE (owner directive, 2026-10-25): psychology-101 is not a degree; it remains as-is for now and moves to the practicum, presenting a direct link to the Psychology Lab website. See docs/practicum/README.md.
+
 # Scope: deg-psychology-101 — Psychology 101 — The Psychology Lab
 
 Status: PROPOSAL by the strategist (2026-10-25), derived largely from the

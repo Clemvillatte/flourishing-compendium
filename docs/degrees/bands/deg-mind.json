@@ -2,8 +2,8 @@
  "band": "deg-mind",
  "kind": "degree",
  "holder": null,
- "phase": "awaiting-launch",
+ "phase": "legacy",
  "modules": {},
- "notes": "Phase 1 not started; scope doc in scope/",
+ "notes": "LEGACY: raw material for deg-psychdim",
  "updated": "2026-10-25T07:15:30+00:00"
 }

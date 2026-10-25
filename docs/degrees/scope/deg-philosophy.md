@@ -1,3 +1,5 @@
+# LEGACY DEGREE (owner directive, 2026-10-25): deg-philosophy is superseded by the new degree list. split into deg-wol-greek, deg-wol-pragmatism, deg-wol-existentialism. Kept as raw material; the Academy shows the legacy degrees behind a footer link pending the owner's later decision on their fate. Do not build new work against this scope; harvest from it.
+
 # Scope: deg-philosophy — Practical Philosophy & Ethical Life
 
 Status: PROPOSAL by the strategist (2026-10-25), derived largely from the

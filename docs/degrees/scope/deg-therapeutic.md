@@ -1,3 +1,5 @@
+# LEGACY DEGREE (owner directive, 2026-10-25): deg-therapeutic is superseded by the new degree list. retired from the degree list by owner directive; existential therapy content moves to deg-wol-existentialism. Kept as raw material; the Academy shows the legacy degrees behind a footer link pending the owner's later decision on their fate. Do not build new work against this scope; harvest from it.
+
 # Scope: deg-therapeutic — Therapeutic Approaches — Critical Study
 
 Status: PROPOSAL by the strategist (2026-10-25), derived largely from the

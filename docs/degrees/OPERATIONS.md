@@ -12,10 +12,12 @@ rewrite others.
 - Claim order: `python3 scripts/degree_baton.py clock-in <band> <agent-id>`,
   then push the claim with `scripts/enrich_save.sh` and confirm it reached
   origin BEFORE editing anything.
-- Bands: `deg-philosophy`, `deg-contemplative`, `deg-relational`, `deg-mind`,
-  `deg-wellbeing`, `deg-therapeutic`, `deg-psychology-101` (one
-  accountable owner per degree; the qigong and cmp practica have their own
-  ecosystem in docs/practicum/), plus shared bands
+- Bands: the owner's 2026-10-25 degree list (`deg-psychdim`,
+  `deg-wol-daoism`, `deg-wol-buddhism`, `deg-wol-greek`,
+  `deg-wol-pragmatism`, `deg-wol-existentialism`, `deg-wol-positive`;
+  one accountable owner per degree; legacy degree bands are raw material
+  only; the practica and the psychology-101 bridge live in
+  docs/practicum/), plus shared bands
   `deg-arch` (curriculum architecture), `deg-verify-a` and `deg-verify-b`
   (resource verification, two parallel batons with non-overlapping
   manifests; they write only to `docs/degrees/verify/` evidence files,
@@ -98,3 +100,11 @@ one more advisor call.
   Themes and Variations 12e; coverage map, 411 missions, spaced
   repetition, per the fcAcademyData record checked this session); the
   rebuild/bridge/retire choice stays with the owner.
+- 2026-10-25 strategist-pplx-1025, OWNER DIRECTIVES APPLIED (round 2):
+  new seven-degree list written (scope docs and bands for deg-psychdim and
+  the six Walk of Life degrees; legacy marks on the superseded degree
+  scopes and bands with a harvest mapping); psychology-101 moved to the
+  practicum as a direct-link bridge (remains as-is for now); footer legacy
+  link plus schema migration queued for the integrator band; safety
+  language RESOLVED (trust the speakers; no added caveats); paywalls
+  RESOLVED (no paywalled content, skill updated).

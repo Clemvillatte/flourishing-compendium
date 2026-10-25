@@ -4,31 +4,27 @@ Questions only the owner can settle. Degree Workers and the strategist flag
 items here in commit messages and keep working; nothing here blocks setup
 work, but each item blocks the gate named beside it.
 
-1. deg-psychology-101 is one module linking the owner-built Psychology
-   Lab (an interactive gamified site teaching Psychology: Themes and
-   Variations, 12e by Weiten and Gurung, 2027; coverage map, 411 missions,
-   spaced repetition, per the fcAcademyData record). Fate: keep as a
-   bridge entry with a light rework, grow a full foundational degree
-   around it as the shared prerequisite layer for deg-mind, deg-wellbeing
-   and deg-therapeutic, or retire it. Blocks its scope gate.
-2. Degree overlap: deg-mind (Mind & Adaptive Behaviour), deg-wellbeing
-   (Wellbeing, Creativity & Community) and deg-therapeutic (Therapeutic
-   Approaches) share psychology-of-flourishing territory. The scope docs
-   propose a boundary (see scope docs), but mergers or retirements are the
-   owner's call, not the workers'. Blocks the scope gates of all three.
-3. Safety language: the enrichment-era directive 2B prohibited disclaimers
-   and safety caveats. This project touches therapeutic, contemplative and
-   movement curricula where proportionate safety information may matter.
-   Until the owner rules, workers include only safety language the evidence
-   itself requires. Blocks the pedagogical gate of deg-therapeutic,
-   deg-qigong and deg-cmp in cases where evidence-required safety content
-   was withheld.
-4. "Final" status on the two practica (deg-qigong, deg-cmp; now
-   docs/practicum/) is inherited from the single-agent era. Re-approval
-   after the rework gates is the owner's call. Related: the site must
-   present them as a PRACTICUM section, not as degrees (schema migration
-   queued for the integrator band).
-5. Paid or app-gated resources: the degrees favour free access, but some
-   verified, high-quality teaching sits behind paywalls or apps. Current
-   rule: label access conditions clearly and prefer free equivalents when
-   they pass the same verification bar. Owner confirmation welcome.
+1. RESOLVED (owner, 2026-10-25): no Psychology 101 degree. It remains as
+   is for now and moves to the practicum as a direct link to the
+   Psychology Lab website (band practicum-psych-lab-bridge).
+2. RESOLVED (owner, 2026-10-25): the degree list is replaced by the new
+   seven degrees (Psychological Dimensions, and the Walk of Life series:
+   Daoism, Buddhism, Greek Philosophy, Pragmatism, Existentialism and
+   Existential Therapy, Positive Psychology). The old degrees become
+   LEGACY: kept in the site footer behind a clickable legacy link; their
+   fate is decided after the rework is done. Content is harvested into the
+   new degrees where it fits (mapping recorded in each new scope doc).
+3. RESOLVED (owner, 2026-10-25): safety language is not an important
+   consideration; the degrees are built on authoritative, qualitative
+   videos and lectures, and the owner trusts the speakers to have
+   carefully designed their teachings. Workers do not add safety caveats
+   or disclaimers beyond what a source itself says.
+4. OPEN: "Final" status on the two practica is inherited from the
+   single-agent era; re-approval after the rework gates is the owner's
+   call. The site must present them as a PRACTICUM section, not degrees
+   (schema migration queued for the integrator band).
+5. RESOLVED (owner, 2026-10-25): NO paywalled content anywhere in the
+   degrees or practica. Curate from the large body of free, authoritative
+   teaching available online. (Also: a legacy link in the footer keeps the
+   present degrees reachable; the owner will decide their fate when the
+   rework is done.)

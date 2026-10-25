@@ -73,6 +73,33 @@ No degree's author may clear their own coverage or pedagogical gates.
    labels on deg-qigong and deg-cmp are inherited from the single-agent era
    and are not clearance from this rework.
 
+## The degree list (owner directive, 2026-10-25)
+
+Seven degrees, two ecosystems:
+
+1. deg-psychdim, Psychological Dimensions: a psychological exploration of
+   state-of-the-art knowledge on all aspects of the PBT EEMM dimensions
+   (affective, cognitive, attentional, self, motivational, overt
+   behavioural). The outcome is a deep, evidence-based understanding of
+   what we know about each dimension; recency is a real bonus because the
+   field moves fast.
+2. deg-wol-daoism, A Walk of Life: Daoism.
+3. deg-wol-buddhism, A Walk of Life: Buddhism (Secular, Zen,
+   Insight/Vipassana, Theravada, Thai Forest; metaphysical and arcane
+   material is skipped in favour of ethics and practical, pragmatic
+   content).
+4. deg-wol-greek, A Walk of Life: Greek Philosophy.
+5. deg-wol-pragmatism, A Walk of Life: Pragmatism.
+6. deg-wol-existentialism, A Walk of Life: Existentialism and Existential
+   Therapy.
+7. deg-wol-positive, A Walk of Life: Positive Psychology.
+
+LEGACY: the previous degrees (philosophy, contemplative, relational, mind,
+wellbeing, therapeutic, psychology-101) are superseded. The site keeps the
+existing degrees reachable behind a clickable legacy link in the footer
+(integrator task); their fate is decided when the rework is done. Their
+scope docs stay in scope/ marked LEGACY as raw material for harvest.
+
 ## Boundaries with neighbouring ecosystems
 
 - The wiki (dossiers, principles, concepts, kernels) is a separate project.
@@ -84,11 +111,11 @@ No degree's author may clear their own coverage or pedagogical gates.
   this directory and integration-ready patches; they never edit app.js.
 - PRACTICUM SPLIT (owner directive, 2026-10-25): the Qi Gong and
   Contemplative & Mental Practices programs are NOT degrees; they live in
-  docs/practicum/ with their own bands, batons and scope docs. The degrees
-  ecosystem covers the seven remaining degrees (philosophy, contemplative,
-  relational, mind, wellbeing, therapeutic, psychology-101). A schema
-  migration to a degree-versus-practicum kind and a separate PRACTICUM
-  site section is queued for the integrator band.
+  docs/practicum/ with their own bands, batons and scope docs, joined
+  there by the psychology-101 bridge (a direct link to the owner-built
+  Psychology Lab site). A schema migration to a degree-versus-practicum
+  kind, a separate PRACTICUM site section and the footer legacy link are
+  queued for the integrator band.
 - The enrichment batons and queues do not exist here. This ecosystem uses
   `scripts/degree_baton.py` and the bands in `bands/`.
 

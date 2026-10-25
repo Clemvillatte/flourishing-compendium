@@ -29,10 +29,12 @@ theme demands.
 
 ## Your band and your job
 
-- Degree bands (deg-philosophy, deg-contemplative, deg-relational, deg-mind,
-  deg-wellbeing, deg-therapeutic, deg-psychology-101; the qigong and cmp
-  practica live in docs/practicum/ with their own bands, per the owner
-  directive that they are not degrees):
+- Degree bands (the owner's 2026-10-25 list: deg-psychdim, deg-wol-daoism,
+  deg-wol-buddhism, deg-wol-greek, deg-wol-pragmatism,
+  deg-wol-existentialism, deg-wol-positive; the qigong and cmp practica
+  and the psychology-101 bridge live in docs/practicum/ with their own
+  bands; the old degree bands are LEGACY raw material, do not build
+  against them):
   design the curriculum and write or repair your degree's modules to the
   skill. You own your degree's ledger and band file. You never edit
   site/assets/app.js: deliver module designs as markdown under
