@@ -1722,3 +1722,28 @@ The advisor's final verification caught overstated records in this session's QC 
   worker (right-view); dos34 live (leisure). Corrected-count targets remain
   available; supervisor taking dos26 (gratitude, 0-question published item) as
   band work between passes, supervisor role noted in the claim.
+
+# Supervisor QC entry 28 — 2026-10-25 05:01Z (supervisor-pplx-1025h)
+
+- dos34 leisure (published): bar claim "3 substantiated + 4 bounded" sampled.
+  Kleiber JLR 2000 spans ("I share Pieper's view..."; "clearly neglected and
+  subordinated") verified VERBATIM against the freshly opened NRPA PDF
+  (pdftotext). PASS. Leisure meets the 3-5 bar lower bound; standing
+  ruling noted for the owner.
+- dos26 gratitude (published): bar-repair delivered this session — the
+  "Where the traditions genuinely disagree" section (previously "no
+  verified disagreement recorded") now carries ONE substantiated
+  disagreement (Seneca On Benefits III.18 vs the noble morality of BGE
+  260 on rank-restricted gratitude) plus TWO honest contrasts with their
+  missing premises named (Seneca goodwill vs Aristotle VIII.13 split
+  measure; Aristotle VIII.14 permanent debt vs Kataññu Suttas named
+  repayment). Two advisor rounds: first draft blocked for overstated
+  contrasts and a wrong BGE translation credit (Common -> Zimmern, fixed;
+  Seneca "neither with discernment" relocated I.5 -> I.6, fixed);
+  lojong carrier (Trungpa, terebess coll2.pdf) opened and quoted. Checks
+  exit 0; app.js rebuilt and live (66 blocks). REMAINING for the
+  3-5 bar: two more substantiated questions; in progress this session.
+- OWNER-BOARD flags resolved: sadness-and-grief app.js rebuild done
+  (60bd725c). Open art-curator flags (right-speech Miro saturation,
+  freedom art files despite withdrawal) remain for the art curator /
+  owner; not blocking content.
