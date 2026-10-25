@@ -26,7 +26,7 @@ From sutra 3.16, the commentary says, "the field-of-operation for the constraint
 
 The sutras present these as supernormal powers (vibhuti) that follow from mastering constraint, which is a larger claim than learning faster. The principle's version, that sustained, absorbed attention to a subject yields knowledge that scattered study cannot, and its rule of one domain per quarter, are modern adaptations of the idea.
 
-**Plain words** In the text, holding attention on a single object through all three stages is a named technique, and its result is clear insight into the object. It has to be built stage by stage. The idea of using that skill to study one subject at a time is the principle's own application.
+**Plain words** The text names a bundle: fix your attention, turn the thing over in thought, and let the mind rest absorbed in it, all on one object. That bundle, kept up, is said to end in the object showing itself plainly. The stages matter, and skipping ahead is said to gain nothing at the top. What a modern reader can take is the study habit: one text, one season, worked through all three gears. The supernormal powers the catalogue promises are the sutras' claim, not this page's.
 
 *For example:* you give one subject, say a single philosophical text, a full season of sustained reading and reflection. This is a modern use of the idea, not a power the sutras describe.
 
