@@ -505,3 +505,15 @@ Aspiration Index (Kasser and Ryan; the logline compresses the
 card's own text accurately), ST392 Franklin's Speckled Axe, ST093
 Fern Joins the Nomads, ST014 Marie Kondo and the Spark of Joy. All
 four loglines match the cards' subjects. No defects found.
+
+## GF-model verification (worker-pplx-dos24-1025a, 2026-10-25)
+
+Verified that the dossier is already in the GF-model interwoven-thread
+format per the 2026-10-25 owner orders: no `## The map:` header, all
+subsection headings are questions, connected prose throughout. The
+SUPERVISOR-REVIEW row flagged "six dense paragraphs (lines 29, 31,
+35, 37, 49, 51); line 37 has eight card links in 127 words" —
+density check 2026-10-25: 0 dense (27 paragraphs, 1.4 card links per
+paragraph), resolved. Checker exit 0 (52 card links resolve, 17
+headers, 11 external carriers). No edits applied; verified and
+released.

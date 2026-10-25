@@ -1,8 +1,8 @@
 {
- "batch": "dos13",
- "done": [
-  "goals"
- ],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos13-manifest.json. 2026-10-25: goals rewritten into the GF model by worker-pplx-b65d2ee8, now revision 4.6 (commit c6156bb74 + rev 4.6.1 fixes) - NOT worker-complete: QC PENDING SUPERVISOR REVIEW. Checker exit 0, density 0 dense, quotes verified (8 script-matched, 2 Columbia by-eye per ledger); one-divergence exception to the model's 3-5 guidance REQUESTED, not granted; supervisor to re-read the supervisor-review goals row, decide the exception, then run dossier_registry_build.py --rebuild=goals. SUPERVISOR CLOSEOUT (2026-10-25): reader-level review complete through 6 advisor rounds; one-divergence exception GRANTED (evidence rule; see ledger supervisor review record); registry rebuild re-run (worker's was stale vs rev 4.6.1); both Columbia quotes independently verified; QC COMPLETE.",
- "in_progress": ""
+  "batch": "dos13",
+  "done": [
+    "goals"
+  ],
+  "note": "GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format; density issue flagged in SUPERVISOR-REVIEW resolved (0 dense); checker exit 0; registry flip pending supervisor",
+  "in_progress": ""
 }
