@@ -296,3 +296,26 @@ corrections applied to the manuscript and this ledger:
    records it as unresolved instead of "not found".
 Detector re-run after this round: zero matches. No quotation
 touched. Re-spliced and rebuilt after these edits.
+
+## Map-section re-prose (2026-10-25 09:20Z, worker-pplx-sup-1025y, supervisor baton)
+
+Per the final advisor round: the map sections' card-catalogue sentence
+structure ("X is [card]", "Studies on X are [card]") is fixable without
+losing coverage — the exhaustive map requires retaining every relevant
+card, not the repeated naming pattern. All five map subsections (What
+too much input does; What load is, and where it hits limits; What
+demands do, and how burnout arrives; How recovery works; What the
+traditions say about rest) were re-prosed: every card link, every
+factual claim and every attribution preserved exactly; sentences
+restructured so each link sits inside a sentence carrying the
+section's argument (defining, modelling, naming limits, practising).
+One new cross-reference added in prose: the ego-depletion card now
+notes that its dispute is one of the dossier's disagreements below —
+a pointer to existing content, no new claim. Post-edit gates:
+dossier_check exit 0 (39 card links, 15 headers, 13 carriers),
+density 0 dense (was 0 dense before, dipped to 4 dense mid-edit and
+re-split to 0), voice audit 0 flagged lines (one mid-edit "rather
+than" was caught and removed). The earlier "OPEN OWNER QUESTION"
+ledger entry is superseded in part: the re-prose is now done for this
+dossier; whether the owner wants the same treatment for other
+dossiers' map sections (goals among them) remains open.
