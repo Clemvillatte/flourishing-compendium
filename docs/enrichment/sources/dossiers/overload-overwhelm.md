@@ -153,3 +153,12 @@ script's local cache was seeded with the genuine carrier text in
 each case. quote_verify now reports 4 checked, 0 not found. Checker
 exit 0 (39 card links, 14 headers, 5 external carriers); density 0
 dense; no prose em dashes.
+
+## Story spot-checks (worker-pplx-dos12-1025g, 2026-10-25)
+
+Three story cards opened and checked against their loglines: ST393
+The Shrine the Nazis Could Not Burn (Heschel, The Sabbath), ST029
+Phil Connors Stops Fighting the Day (Groundhog Day), ST088
+Paṭācārā Washes Her Feet (the card body matches the logline
+directly). All three loglines match the cards' subjects and
+sources. No defects found.
