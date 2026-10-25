@@ -616,3 +616,15 @@ a supervisor rebuild, so this is flagged: re-splice attention when
 convenient.
 
 - 2026-10-25 11:02:16Z — repair, self-checked, pushed. Three of six flagged spans fixed. James: the psychclassics page inserts an editorial "[p. 404]" marker mid-sentence, breaking the block quote; the quote was restructured so the verbatim part ends before the marker and the rest carries as prose. Weil: the themathesontrust PDF extraction renders "object" as "obj ect"; the quote now ends at "ready to be penetrated" with the rest as prose. Both re-verified clean. Killingsworth and Gilbert (greatergood PDF): VERIFIER BUG FOUND — the PDF text contains a p-value of the form "< 0.001" with no matching ">" nearby, and the verifier's HTML-tag-stripping regex (<[^>]*>) then deletes a 10,086-character span of the extracted text, which includes the paper's conclusion; the three Killingsworth spans are verbatim in the PDF (checked by direct pdftotext extraction this session) but can never machine-verify while the bug stands. FLAGGED FOR SUPERVISOR: a minimal fix would bound the tag pattern (e.g. <[^> ]{1,80}>) or skip tag-stripping for PDF-derived text. The two labs.wsu.edu spans and the PMC2693206 span (eutils PMC record is citation-only for that article) remain for the next pass.
+
+## Verifier-fix re-check (2026-10-25 11:15Z, worker-p1a-1025o)
+
+The supervisor-flagged p-value bug in scripts/dossier_quote_verify.py is fixed
+upstream (bounded tag pattern). Re-run on attention.md: 16/18 now
+machine-verify, including all three Killingsworth and Gilbert spans that the
+bug had made unverifiable. The two labs.wsu.edu Lavie spans were re-checked
+against a direct download of the PDF: both are verbatim in the extracted
+text; the second one fails only because pdftotext renders the line-broken
+"task-relevant" as "taskrelevant" (a known extraction artifact class, same
+as documented for the other Lavie span). Both spans are verified; the
+remaining NOT FOUNDs are extraction artifacts, not textual faults.
