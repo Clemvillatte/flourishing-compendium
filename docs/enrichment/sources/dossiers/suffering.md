@@ -135,58 +135,119 @@ card-faithful; the keep-or-recast decision is a voice/style call.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+## GF-model rewrite (2026-10-25, worker-pplx-dos30-1025i, baton dos30 held for lane 4)
 
-## GF-model rewrite (2026-10-25 03:26Z, worker-pplx-dos30-1025i, baton dos30 held for lane 4)
+Two passes this session: the first rewrite (commit a9e6262) was
+advisor-reviewed and found deficient (disagreement section stated
+compatible positions; opening overstated voluntariness; carriers
+beyond the three opened quotes not re-read). This entry records the
+revised state, which supersedes the first.
 
-The retired map-format dossier was rewritten as one interwoven thread per
-DOSSIER-MODEL.md, with genuine-flourishing.md as the exemplar. Structure:
-question blockquote, three first-person opening paragraphs, Nearby terms
-as bullets, main body in five subsections phrased as movements
-(the arrow that is added; the judgment that adds the harm; the suffering
-that is not added; the reflex that keeps it going; what the body does
-with the first arrow), a three-question genuine-disagreement section,
-a Variation-Selection-Retention practice section, and the Story section
-last. Every card link from the previous draft is retained (49 card
-links resolve per dossier_check.py; the old draft carried the same
-inventory, none dropped, none added).
+Structure per DOSSIER-MODEL.md: question blockquote, three
+first-person opening paragraphs, Nearby terms as four bullets, main
+body in five subsections, a three-question genuine-disagreement
+section, a Variation-Selection-Retention practice section grounded in
+kernel cards, and the Story section last. The three disagreement
+questions are now real oppositions on shared questions (Stoic vs
+Jaspers on whether the fear of death is removable in principle;
+Buddhist vs Frankl on whether the mental layer around unavoidable
+pain is to be disassembled or used; craving vs meaning-discrepancy
+as the engine of suffering), each with a stated first-person lean.
+The three compatible clarifications from the old draft (purpose,
+acceptance-vs-resignation, prevention) were folded into the main
+body rather than presented as disagreements.
 
-Carriers opened and re-read this session before reuse:
+Carriers opened and read this session, with what each supports:
 
-1. SN 36.6, Thanissaro translation,
-   https://www.dhammatalks.org/suttas/SN/SN36_6.html — the opening
-   paragraph's two-pains account is a paraphrase of the sutta's own
-   wording ("sorrows, grieves, & laments... two pains, physical &
-   mental"); the paraphrase is not presented as a quote.
-2. SN 56.11, Thanissaro translation,
-   https://www.dhammatalks.org/suttas/SN/SN56_11.html — the block
-   quote in the body is the full sutta enumeration, verified
-   word-for-word this session (dossier_quote_verify.py: checked 2,
-   not found 0). The old draft's abridged form was replaced with the
-   complete sentence.
-3. Enchiridion 5, Long translation, MIT Classics,
-   https://classics.mit.edu/Epictetus/epicench.html — newly quoted
-   this session; wording verified word-for-word against the opened
-   page ("Men are disturbed, not by things, but by the principles and
-   notions which they form concerning things...").
+1. SN 36.6 Thanissaro, dhammatalks.org — the opening two-pains
+   paraphrase; the well-instructed "feels one pain: physical, but
+   not mental".
+2. SN 56.11 Thanissaro, dhammatalks.org — the full enumeration
+   block quote (verified word-for-word; the earlier abridged quote
+   was replaced with the complete sentence); tanha's three objects.
+3. Enchiridion 5, Perseus translation (scaife.perseus.org,
+   JS-rendered; the verifier reports NOT FOUND because the page
+   cannot be raw-fetched — wording confirmed by eye via the
+   rendering tool this session): "Men are disturbed not by the
+   things which happen, but by the opinions about the things...".
+   The first rewrite's MIT Classics quotation was replaced by the
+   Perseus wording, which is the translation the Judgment adds the
+   harm card itself carries.
+4. SEP, Karl Jaspers — the limit-situations passage (dread, guilt
+   or acute anxiety; restrictions of existing forms; new
+   self-consciousness). The death/chance/guilt/struggle list is NOT
+   in the SEP entry; in the revision it appears only inside the
+   ST289 story card link and logline, where the card itself carries
+   it. The first rewrite wrongly presented that list as Jaspers's
+   SEP enumeration in the main body; corrected.
+5. Frankl, The Case for a Tragic Optimism (fabian.ca excerpt PDF)
+   — "meaning is available in spite of, nay even through,
+   suffering, provided the suffering is unavoidable"; "If it is
+   avoidable, the meaningful thing to do is to remove its cause";
+   "he can still choose his attitude"; the tragic triad; the bar
+   on commanding optimism. The first rewrite's "last of the human
+   freedoms" phrasing rested on the meaning-of-suffering card's
+   archive.org carrier, not opened this session; the revision
+   phrases the Frankl claims from the opened excerpt only.
+6. McCracken and Vowles definition via PMC5032639 — "a behavior
+   pattern of engagement in activity with pain present, but without
+   restrictions by pain, or attempts to avoid or control pain";
+   cited in the body.
+7. Park meaning-making model (ehps.net PDF) — discrepancy between
+   appraised and global meaning; work on either side.
+8. Tedeschi and Calhoun PTG conceptual foundations (ptgi.uncc.edu)
+   — "positive psychological change experienced as a result of the
+   struggle with highly challenging life circumstances"; growth
+   not inevitable; distress and growth coexist.
+9. Melzack, From the gate to the neuromatrix (PubMed 10491980) —
+   gate control's contribution (brain as active system that
+   filters, selects and modulates; dorsal horns as modulation
+   sites); neuromatrix as widely distributed network with output
+   pattern. The 1965 Science abstract is not on PubMed; the first
+   rewrite's specific gate-control gloss ("descending signals and
+   touch determine how much pain reaches the brain") was replaced
+   with what the opened retrospective states.
+10. Dhammasami, Mindfulness Meditation Made Easy ch. 3 (wisdomlib)
+    — the pain-curve instruction (observe a few times, return to
+    the breath, watch objectively); pain arising from causes and
+    vanishing with them. The first rewrite's "arrive, change and
+    pass" gloss went beyond the carrier; corrected.
+11. Montaigne, Essays, Gutenberg vol. 18 — "Suffering itself less
+    afflicts the senses than the apprehension of suffering"
+    (verified word-for-word this session; newly quoted).
 
-Story cards re-read this session for the Story section loglines:
-ST059, ST078, ST289, ST290, ST311 (files opened; loglines rewritten
-from the cards' own text). Concept and principle glosses reused from
-the previous draft, whose card-fidelity sweep (gfva-1025a, recorded
-above) found all glosses matching their cards; no claim wording was
-invented beyond the old draft's card-faithful material, and the
-new editorial framing (the split between added and unadded suffering,
-the convergence paragraph's restraint, the disagreement leans) is
-first-person judgment, marked as such by its voice.
+Cards read this session (files opened): Limit situations, Judgment
+adds the harm, The meaning of suffering, Tragic optimism, The
+body-mind unity in pain, The pain curve, ST289, ST311, plus
+ST059/ST078/ST290 re-read; kernels K123, K319, K397, K351 read and
+their protocols reflected in the practice items. Other concept
+glosses (Dukkha, Tanha, Stuckness as suffering, The avoidance of
+suffering, Benefit finding, Karuna, Post-traumatic growth, Chronic
+pain acceptance, Gate control, Neuromatrix, the B/E/M/SP/SE/Y
+principles) rest on the card bodies, whose match to the cards was
+verified by the gfva-1025a card-fidelity sweep recorded above; the
+sweep's certification is relied on for those, and the external
+claims among them are carried by the citations listed in items 1-11.
 
-Checks this session: dossier_check.py exit 0 (49 card links, 20
-headers, 3 external carriers); dossier_density.py 0 dense paragraphs;
-dossier_quote_verify.py checked 2, not found 0. Reader pass done
-(two awkward phrasings fixed after a full read: the opening's "The
-oldest text on this I know", the convergence sentence).
+Editorial judgments, marked as such by their first-person voice and
+not attributed to sources: the two-halves framing (added layer vs
+the event itself); the refusal charter paragraph; the disagreement
+leans; the practice section's editorial-combination label; the
+retention line. The invented week-long schedule from the first
+rewrite was removed; practice items now stay inside what the linked
+cards and kernels state.
 
-FLAGGED for the supervisor: suffering is registry status "planned";
-per CURRENT ORDERS the GF-model rewrite was the precondition for
-flipping it to published. The supervisor owns registry.json and the
-registry rebuild. This rewrite is offered as satisfying that
-precondition; supervisor review requested before the flip.
+Checks: dossier_check.py exit 0 (48 card links resolve, 19 headers,
+17 external carriers); card-target diff against the previous
+version: nothing dropped (T019, The meaning of suffering, The
+body-mind unity in pain were restored after the diff caught their
+loss); dossier_density.py 0 dense paragraphs; dossier_quote_verify.py
+checked 3, not found 1 (the Perseus carrier, JS-rendered —
+confirmed by eye per the HANDOFF rule, recorded in item 3 above).
+
+FLAGGED for the supervisor: suffering remains registry status
+"planned"; the GF-model rewrite was the precondition for the flip.
+This revision is offered as satisfying it; supervisor review
+requested before the registry flip and rebuild. The first rewrite's
+commit (a9e6262) overstated readiness; this entry corrects the
+record.
