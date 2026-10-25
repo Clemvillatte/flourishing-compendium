@@ -151,3 +151,60 @@ carriers). Registry status unchanged (published); the supervisor should
 run `python3 scripts/dossier_registry_build.py --rebuild=goals` to
 refresh the Academy view data from the rewritten markdown — FLAGGED FOR
 SUPERVISOR in the commit message.
+
+## QC correction and repair round (revision 4.1, 2026-10-25 ~01:52Z, worker-pplx-b65d2ee8)
+
+This entry supersedes the over-claims in the revision-4 entry above.
+
+Advisor QC findings and repairs applied (revision 4.1):
+- Divergence 3 ("Is the outcome yours to commit to?") REMOVED: the opposition was
+  supplied by the writer, not established by the sources (Locke & Latham make a
+  conditional performance claim; the Enchiridion sentence does not address it). Two
+  divergences remain; the model's 3-5 guidance is superseded by the evidence rule
+  ("only disagreements the sources support") — FLAGGED FOR SUPERVISOR: accept two,
+  or direct a third with sources. The Epictetus carrier (Enchiridion 1, Carter, MIT
+  Classics) was opened and verified this session but is no longer quoted in the
+  dossier; the opening's Stoic pursuit/control mention stands as verified background.
+- Divergence 1 strengthened with the Wrosch paper's own framing sentence ("The
+  notion that persistence is essential for success and happiness is deeply embedded
+  in popular and scientific writings"), verified verbatim in this session's fetch of
+  the Concordia PDF; it is now paraphrased (quoted fragment "the notion that
+  persistence is essential for success and happiness is deeply embedded in popular
+  and scientific writings") to establish the norm-vs-research tension.
+- Divergence 2 bounded to its measures (cognitive ease of reengagement and of
+  disengagement); the "truly yours is harder to put down" generalisation replaced by
+  the study's own measured claim. The third quoted sentence now begins with the
+  source's capital ("When faced with failure..."), matching the opened wording.
+- Locke & Latham quotation restored to the opened carrier's exact punctuation
+  (curly ‘‘do one’s best.’’); the "so long as" fragment is now a paraphrase without
+  quotation marks.
+- REMOVED as unverified: the plan-then-adapt claim and card (24-word no-URL stub,
+  title asserts an unestablished finding; flagged in concept-namespace-audit.md),
+  "most aims fail", "the research on exit is as developed as the research on entry",
+  "the failure mode with the longest history", "a result stable enough to anchor
+  decades", "among the most replicated in the field", the "promise made to a future
+  self" metaphor-definition.
+- Self-narration removed (nearby-terms bullet references to the dossier/pages,
+  "carried by cards like this one", "the disagreement section below"); decorative
+  metaphors replaced ("keep charging", "complete the kit", "quiet driver").
+- Goal-directed behavior theory's "two tests" now named (belief and desire criteria)
+  from the card's own verified carriers; "Dasein" replaced with plain phrasing.
+- Practice section regrouped under three subheadings; every entry now two sentences
+  (what to do, what to notice), grounded in the six kernel cards opened and read
+  this session (K153, K154, K179, K182, K219, K223, including K223's four reason
+  questions in the researchers' wording).
+
+CORRECTED COUNTS: the carried inventory is 37 concept cards (38 minus the removed
+plan-then-adapt), 6 kernels, 4 stories = 47 entries; the checker counts 51 card-link
+occurrences (the extra four are the Nearby-terms links: Intrinsic motivation, Purpose,
+Commitment, Self-regulation; Purpose and Commitment also appear in the body). External
+carriers linked in the public text: 5 (Locke & Latham, Wrosch, PMC4104823, Gollwitzer
+& Sheeran; PMC linked twice for the two quoted sentences).
+
+WHAT THIS SESSION ACTUALLY VERIFIED: five external carriers opened and quoted
+verbatim (four re-verified, one new then unquoted), the six kernel cards and the
+goal-directed-behavior card read in full this session. The remaining concept-card
+glosses were recast from the prior map text, whose card fidelity is documented in the
+2026-10-25 full-card sweep entries above; the new wording was NOT independently
+re-checked against every card body this session. QC status: revision 4.1 pushed
+pending supervisor review; the registry rebuild flag stands.

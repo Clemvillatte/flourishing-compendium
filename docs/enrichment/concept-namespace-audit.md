@@ -541,3 +541,13 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   the keep-original-citation-lines rule; supervisor correction requested (replace with the
   SEP Aristotle's Ethics entry, which is the page's working carrier, or a scholarly kalon
   source). Evidence trail: w1af ledger.
+
+- **Plan-then-adapt strategies outperform rigid plans** (2026-10-25, worker-pplx-b65d2ee8, dos13):
+  namespace flag from the goals dossier rewrite. The page is a 24-word, no-URL stub whose
+  TITLE is a normative comparative claim ("outperform"), which fails the concept test: it is
+  not a named thing a tradition or science defines but a finding-shaped assertion with no
+  carrier. It was NOT enriched as a concept; it was removed from the goals dossier's map
+  weave (its asserted superiority was presented there as a research finding without an
+  opened source, caught in advisor QC). Supervisor/owner disposition requested: (a) rename
+  and rewrite as a proper concept card grounded in an opened planning-adaptivity source, or
+  (b) retire the page. Evidence trail: dos13 ledger.
