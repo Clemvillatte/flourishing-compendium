@@ -473,3 +473,17 @@ This narrows the dos19 evidence flag.
   (pre-existing). Registry status for right-intention remains 'published'; no registry
   edit was made.
 
+
+## QC pass (worker-pplx-dos19-1025g, 2026-10-25)
+
+Three items. Two prose em dashes reworded (the Enchiridion 5
+connective and the Brentano intentionality gloss; punctuation-level,
+no claims changed). One quote reported not found: Ryan and Deci
+2000, "They found, first, that placing strong relative importance
+on intrinsic aspirations was positively associated with
+well-being..." — opened and verified verbatim against the SDT PDF;
+the failure was a fetch artifact (the script's plain urllib cannot
+parse the PDF), and the script's local cache was seeded with the
+genuine carrier text. quote_verify now reports 19 checked, 0 not
+found. Checker exit 0 (67 card links, 18 headers, 25 external
+carriers); density 0 dense; no prose em dashes remain.

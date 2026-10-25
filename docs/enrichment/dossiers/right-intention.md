@@ -69,7 +69,7 @@ My positive rendering is refusing to add suffering. The Stoic and modern entries
 
 [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa) is the Indic principle of non-harm; I read it as a starting floor: whatever else a practice does, it begins by doing no injury. Two modern practices take non-harm as their subject: [nonviolent action](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20action) is Gene Sharp's theory of power and his documented methods, and [nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions.
 
-The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5) — a claim I connect editorially to the harmlessness resolve. And [the inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself.
+The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5), a claim I connect editorially to the harmlessness resolve. And [the inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself.
 
 ## How the resolve is trained
 
@@ -85,7 +85,7 @@ The counter-affect has its own instruction in MN 20: attend to another theme, ap
 
 The modern research on intention is less about training the thought than about closing the gap between aim and act. [Akrasia (weakness of will)](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia%20%28weakness%20of%20will%29) is the standing problem that knowing the aim does not secure acting on it. [The intention-behavior gap](https://clemvillatte.github.io/flourishing-compendium/#card=The%20intention-behavior%20gap) is Sheeran's measurement of how little intentions predict what people then do, and [implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions) are Gollwitzer's if-then plans, advance decisions that link a situation to a response.
 
-The everyday scale of the discipline is [morning intention](https://clemvillatte.github.io/flourishing-compendium/#card=Morning%20intention), the daily setting of one sentence of aim. [Intentionality](https://clemvillatte.github.io/flourishing-compendium/#card=Intentionality) is Brentano's revival of the scholastic term for the mind's directedness at its objects — a different sense of intention from the aiming of a resolve.
+The everyday scale of the discipline is [morning intention](https://clemvillatte.github.io/flourishing-compendium/#card=Morning%20intention), the daily setting of one sentence of aim. [Intentionality](https://clemvillatte.github.io/flourishing-compendium/#card=Intentionality) is Brentano's revival of the scholastic term for the mind's directedness at its objects, a different sense of intention from the aiming of a resolve.
 
 ## What a resolved life aims at
 
