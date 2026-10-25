@@ -153,3 +153,6 @@
 
 ## SE082 verbatim Nietzsche
 - GS §§273-275 quoted word for word from Gutenberg 52124. Translator ambiguity flagged (title page: Thomas Common; Gutenberg record: Paul V. Cohn). Note the same ambiguity probably affects other pages citing 52124/52881 as 'Common' or 'Cohn'. Example labelled.
+
+## AF036 verbatim Veale
+- Veale 2008 (Advances in Psychiatric Treatment 14:1) abstract and Activity scheduling sentences quoted verbatim from the Cambridge page; example labelled. Page still lacks ## Sources (cosmetic).

@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 36** — Learn to regulate through action: affect follows behaviour
 
-[[Behavioral activation|Behavioural activation]] offers a clinical version of this principle: plan actions that matter, notice what avoidance is costing, and monitor what changes when you act. Veale's account asks people to begin with small changes, build gradually and review both their mood and whether an activity serves their values. ([Veale, 2008](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9))
+[[Behavioral activation|Behavioural activation]] offers a clinical version of this principle. Veale's abstract describes it as "A formal therapy for depression, behavioural activation focuses on activity scheduling to encourage patients to approach activities that they are avoiding and on analysing the function of cognitive processes (e.g. rumination) that serve as a form of avoidance. Patients are thus refocused on their goals and valued directions in life" ([Veale, 2008, abstract](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9)).
 
-He explicitly warns against filling days with activity for its own sake. The point is to recover contact with valued parts of life, rather than to earn relief by becoming relentlessly productive. ([Veale, “Activity scheduling”](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9))
+On pacing, he writes: "The aim is to introduce small changes, building up the level of activity gradually towards long-term goals." He also warns: "Days should not be filled with activity for activity's sake," and "The activities chosen must relate to what the individual has been avoiding and help them to act in accordance with their valued directions" ([Veale, "Activity scheduling"](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9)).
 
 For everyday use, treat the next action as an experiment. Choose a manageable step, make room for the feeling you already have, then review the effect. A hard day does not mean you have failed at the exercise; persistent or severe depression deserves professional support rather than a demand to try harder.
 
 **Plain words** You do not always have to feel ready before taking a small step. Choose something worthwhile and doable, then see what it actually does for you.
 
-*For example:* If withdrawing from a friend is making life smaller, you could try a brief call rather than a long visit. Afterwards, note what happened to your mood and sense of connection; repeat, shorten or change the activity according to what you learn.
+*For example (my illustration):* If withdrawing from a friend is making life smaller, you could try a brief call rather than a long visit. Afterwards, note what happened to your mood and sense of connection; repeat, shorten or change the activity according to what you learn.
 
 ## Related concepts
 
