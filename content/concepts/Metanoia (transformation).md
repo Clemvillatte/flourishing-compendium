@@ -13,6 +13,10 @@ Metanoia (Greek μετάνοια) is the word the Christian tradition renders as
 
 > "a change of mind: as it appears in one who repents of a purpose he has formed or of something he has done... especially the change of mind of those who have begun to abhor their errors and misdeeds, and have determined to enter upon a better course of life, so that it embraces both a recognition of sin and sorrow for it and hearty amendment, the tokens and effects of which are good deeds" (Thayer's Greek Lexicon, [Bible Hub](https://biblehub.com/thayers/3341.htm))
 
+The definition is worth reading as a sequence rather than as a description, since Thayer's Lexicon gives the change a direction and a destination. What arrives first is a recognition of the thing done, and the recognition is what the sorrow attaches to; what follows is the determination to enter upon a better course, and the determination is what the good deeds are evidence of. The two halves cannot be swapped, since the second without the first would be a mood, and the first without the second would be a memory.
+
+The concept's contribution is the claim that the change of mind is not an intellectual event. A person who has decided differently has come to abhor a purpose they formerly held, and the abhorrence is what carries the amendment; the new fact, if there is one, is the smallest part of what changed. The word the tradition renders as repentance is therefore not a demand that a person feel worse but a claim that feeling differently about what one did is the mechanism by which doing differently becomes possible.
+
 ## Cited in philosophy parallels
 
 - [[SE036 — Learn to revise your identity — change is possible]]
