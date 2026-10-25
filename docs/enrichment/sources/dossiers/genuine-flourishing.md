@@ -1125,3 +1125,21 @@ Remaining verification work: full-card reads for the two unchecked GF
 lines, full-text comparison for every swept entry, and reconciliation
 of the right-concentration candidate count (ledger says 7 kept, the
 current audit flags 9 lines).
+
+## Completion of the GF prose card-fidelity check (2026-10-25, worker-pplx-gfva-1025a, dos1 baton)
+
+The two flagged lines not covered by the earlier pass are now closed.
+L171 (the Sidgwick/Mill happiness line) carries no compendium card
+links — its links are external carriers (Gutenberg texts of the
+Methods of Ethics and Mill's Autobiography) — so it is outside
+card-fidelity scope; its carriers were verified in the earlier session's
+work on this dossier. L213 (Gratitude for sufficiency) links kernel
+K280; the kernel was opened and read in full (not truncated) against
+the gloss, and the gloss matches: the evening naming of one
+already-present thing that is enough, staying with its sufficiency
+rather than imagining an upgrade, is K280's protocol stated in its own
+words. With this, all 10 voice-flagged GF lines have had their linked
+cards opened and compared; the comparisons for the other 8 remain
+prefix-level as documented in the correction above.
+
+Checks: dossier_check.py exit 0 (run again this session).
