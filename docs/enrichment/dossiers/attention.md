@@ -2,202 +2,118 @@
 
 > What is attention, what does it cost, and what does it build?
 
-Attention is the place a life is lived; everything a person does with their hours passes through it first. It costs, it builds, and it can be pulled away, which makes it both a resource and a battleground. The contemplative traditions trained it long before the science measured it, and both agree it is trainable; what differs is what each thinks it is for.
+Everything a person does with their hours passes through attention first. A conversation, a book, a worry, a feed: each becomes part of a life only if it is attended to, and the rest goes by as though it had not happened. That is why the question has weight. Attention is the place a life is lived.
+
+The place costs. Holding attention on something difficult takes effort, the effortful kind tires with use, and much of the world is arranged to pull attention away from wherever a person has put it. The contemplative traditions trained attention long before the science measured it, and the two agree it is trainable; what differs is what each thinks it is for.
+
+I ask four questions of attention: what it is, what it costs and how it recovers, where it goes when feeling leads it, and what it can build in a person. The last question is also a moral one. What I attend to is what I give, to a task, to another person, or to my own worry, and I want to know whether that giving can be trained.
 
 ### Nearby terms
 
-- Concentration: the contemplative account of collectedness is held by [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one.
-- Focus: the visual-metaphor side is [Focus theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](https://clemvillatte.github.io/flourishing-compendium/#card=Focusing).
+- Concentration: collectedness in the contemplative sense is [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration); it is treated here as the trained end of attention rather than a separate faculty.
+- Focus: the visual metaphor is held by [Focus theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Focus%20theory%20of%20attention) and the spotlight entries; [Focusing](https://clemvillatte.github.io/flourishing-compendium/#card=Focusing) is Gendlin's practice of attending to a felt sense, a different thing under a near name.
 - Mind-wandering: held as its own object of study by [Mind wandering](https://clemvillatte.github.io/flourishing-compendium/#card=Mind%20wandering), and treated here as part of attention's life rather than its opposite.
 - Absorption: the states are [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow), [Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention) and [Hyperfocus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hyperfocus%20theory).
 
-## The map: the entries on attention
+## What attention asks of a life
 
-### What attention is taken to be
+### What experience is made of
 
-[Attention](https://clemvillatte.github.io/flourishing-compendium/#card=Attention): the selection and sustaining of awareness; William James's classic definition and the experiential weight he gave it.
-
-[Spotlight model of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Spotlight%20model%20of%20attention): Posner's 1980 account of covert orienting, attention as a beam that can be moved across the visual field.
-
-[Spotlight vs floodlight attention](https://clemvillatte.github.io/flourishing-compendium/#card=Spotlight%20vs%20floodlight%20attention): the aperture metaphor: attention narrowed to a detail or broadened to the whole, with different consequences for what is seen.
-
-[Attentional breadth global vs local processing](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20breadth%20global%20vs%20local%20processing): the spatial extent over which attention is applied, from Goodhew's working definition.
-
-[Posner's three-network model](https://clemvillatte.github.io/flourishing-compendium/#card=Posner%27s%20three-network%20model): Posner and Petersen's 1990 division of the brain's attention system into three anatomically distinct networks, alerting, orienting and executive, restated in their 2012 update.
-
-[Attentional flexibility (set-shifting)](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20flexibility%20%28set-shifting%29): the executive capacity to disengage from one mental set and take up another as demands change; Diamond's third core function, alongside inhibition and working memory.
-
-[Executive function theory Miyake](https://clemvillatte.github.io/flourishing-compendium/#card=Executive%20function%20theory%20Miyake): the three functions tested in Miyake and Friedman's 2000 study, inhibition, shifting and updating, correlated yet separable.
-
-[Focus theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Focus%20theory%20of%20attention): the attended stimulus dominates awareness and processing; includes Eriksen and St. James's zoom-lens model.
-
-[Two modes of attentional control](https://clemvillatte.github.io/flourishing-compendium/#card=Two%20modes%20of%20attentional%20control): Corbetta and Shulman's two partly separate brain systems, one goal-directed, one a circuit breaker for salient events.
-
-[Goal-directed attention](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20attention): the top-down half of selection, preparing and applying selection for stimuli and responses according to what you are trying to do.
-
-[Goal-directed attentional control](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20attentional%20control): the same division of labor stated for practice: attention steered by intention rather than pulled by whatever is loud, new or threatening.
-
-[Selective attention (Broadbent's filter model)](https://clemvillatte.github.io/flourishing-compendium/#card=Selective%20attention%20%28Broadbent%27s%20filter%20model%29): the first influential account of how selection happens: a limited-capacity channel with a filter in front of it.
-
-[Load theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Load%20theory%20of%20attention): Lavie's resolution of the early-or-late selection debate, tying the filter's place to how loaded perception is.
-
-[Divided attention theory](https://clemvillatte.github.io/flourishing-compendium/#card=Divided%20attention%20theory): what happens when a person tries to do two things at once; performance usually suffers, and researchers disagree about why.
-
-[Attentional blink](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20blink): the finding that attention briefly goes dark after it lands; probes are poorly detected in a window beginning 180 ms after a target.
-
-[Inattentional blindness](https://clemvillatte.github.io/flourishing-compendium/#card=Inattentional%20blindness): the failure to perceive a fully visible but unexpected object when attention is engaged elsewhere; the invisible-gorilla experiment.
-
-[Attention Network Test (ANT)](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20Network%20Test%20%28ANT%29): the computer task that measures the efficiency of three attentional networks, alerting, orienting and executive attention, in one sitting.
-
-[Attention Schema Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20Schema%20Theory): Graziano's account of awareness as the brain's simplified model of its own attention.
-
-William James gave the field its definition and its stakes, both in the Principles of Psychology:
+William James gave the field its definition and its stakes in the same chapter. [Attention](https://clemvillatte.github.io/flourishing-compendium/#card=Attention) is the selection and sustaining of awareness, and he stated it in words that still hold the experiential weight:
 
 > "Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))
 
+The withdrawal is the cost side of his definition, and the experiential side is just as direct:
+
 > "My experience is what I agree to attend to. Only those items which I notice shape my mind — without selective interest, experience is an utter chaos." ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))
 
-Lavie's load theory, in the review that states its central prediction:
+The metaphors that followed try to say what this selecting is like. [Spotlight model of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Spotlight%20model%20of%20attention) is Posner's 1980 account of covert orienting: attention as a beam that can be moved across the visual field. [Spotlight vs floodlight attention](https://clemvillatte.github.io/flourishing-compendium/#card=Spotlight%20vs%20floodlight%20attention) widens the aperture: narrowed to a detail or broadened to the whole, with different consequences for what is seen. The same spatial idea, stated as a measure rather than a metaphor, is [Attentional breadth global vs local processing](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20breadth%20global%20vs%20local%20processing): the spatial extent over which attention is applied, from Goodhew's working definition.
 
-> "This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
+What the beam lands on then does something of its own. [Focus theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Focus%20theory%20of%20attention) adds that the attended stimulus dominates awareness and processing, in Eriksen and St. James's zoom-lens model. That is the practical seed of the whole theme: what is attended to takes over the processing around it.
 
-### What attention costs and how it recovers
+The systems view divides the machinery instead of the beam. [Posner's three-network model](https://clemvillatte.github.io/flourishing-compendium/#card=Posner%27s%20three-network%20model) is Posner and Petersen's 1990 division of the brain's attention system into three anatomically distinct networks, alerting, orienting and executive, restated in their 2012 update. The [Attention Network Test (ANT)](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20Network%20Test%20%28ANT%29) is the computer task that measures the efficiency of all three in one sitting.
 
-[The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention): James's phrase from the chapter on will: where a thought prevails with effort, attention is doing the work.
+The executive network is where thinking meets selection. [Attentional flexibility (set-shifting)](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20flexibility%20%28set-shifting%29) is Diamond's third core function, the capacity to disengage from one mental set and take up another as demands change, alongside inhibition and working memory. [Executive function theory Miyake](https://clemvillatte.github.io/flourishing-compendium/#card=Executive%20function%20theory%20Miyake) tested the three functions, inhibition, shifting and updating, and found them correlated yet separable. Flexibility is therefore a capacity with parts: a person can be good at one of these moves and poor at another.
 
-[Directed attention fatigue](https://clemvillatte.github.io/flourishing-compendium/#card=Directed%20attention%20fatigue): Kaplan's name for the fatigue of the effortful, voluntarily controlled kind of attention.
+Selection also has a direction of control. [Two modes of attentional control](https://clemvillatte.github.io/flourishing-compendium/#card=Two%20modes%20of%20attentional%20control) is Corbetta and Shulman's account of two partly separate brain systems, one goal-directed, one a circuit breaker for salient events. [Goal-directed attention](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20attention) is the top-down half, preparing and applying selection according to what a person is trying to do. [Goal-directed attentional control](https://clemvillatte.github.io/flourishing-compendium/#card=Goal-directed%20attentional%20control) states the same division for practice: attention steered by intention rather than pulled by whatever is loud, new or threatening.
 
-[Attention restoration](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20restoration): Kaplan's framework that directed attention fatigues with use and that certain experiences and environments, natural ones above all, allow it to recover.
+One account steps back from the machinery to the awareness that reports it. [Attention Schema Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20Schema%20Theory) is Graziano's account of awareness as the brain's simplified model of its own attention. I keep it here as a reminder that the felt sense of attending, the sense everyone knows from the inside, is itself something the mind builds.
 
-[Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention): Bruya's term for attention or action experienced as effortless, or exertion with lower-than-normal subjective effort while effectiveness holds.
+### What happens to what is not selected
 
-[Ultradian rhythms in attention](https://clemvillatte.github.io/flourishing-compendium/#card=Ultradian%20rhythms%20in%20attention): the roughly 90-minute basic rest-activity cycle Kleitman proposed, as fluctuations in alertness across the day.
+Selection means some things are left out, and the oldest argument in the field concerns where the leaving out happens. [Selective attention (Broadbent's filter model)](https://clemvillatte.github.io/flourishing-compendium/#card=Selective%20attention%20%28Broadbent%27s%20filter%20model%29) was the first influential account of how selection happens: a limited-capacity channel with a filter in front of it. [Load theory of attention](https://clemvillatte.github.io/flourishing-compendium/#card=Load%20theory%20of%20attention) is Lavie's resolution of the early-or-late selection debate, tying the filter's place to how loaded perception is. Her review states the resolution plainly: under high perceptual load there is no spare capacity for task-irrelevant stimuli, while under low load any spare capacity involuntarily spills over to the perception of distractors. The disagreement that remains inside that resolution is taken up below.
 
-[Attention residue](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20residue): Leroy's name for what remains of attention on a previous task after switching, degrading the next task while it persists.
+The limits show up even when selection succeeds. [Attentional blink](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20blink) is the finding that attention briefly goes dark after it lands: probes are poorly detected in a window beginning 180 ms after a target. [Inattentional blindness](https://clemvillatte.github.io/flourishing-compendium/#card=Inattentional%20blindness) is the failure to perceive a fully visible but unexpected object when attention is engaged elsewhere, the invisible-gorilla experiment. And when a person tries to do two things at once, [Divided attention theory](https://clemvillatte.github.io/flourishing-compendium/#card=Divided%20attention%20theory) records what happens: performance usually suffers, and researchers disagree about why.
 
-[Attention management](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20management): the practice of governing where attention goes: choosing, protecting, and handling what switching costs.
+### The effort and its fatigue
 
-[Sustained attention theory](https://clemvillatte.github.io/flourishing-compendium/#card=Sustained%20attention%20theory): how people hold a detection-ready state over time, and why that state degrades.
-
-[Vigilance decrement](https://clemvillatte.github.io/flourishing-compendium/#card=Vigilance%20decrement): the decline in the ability to detect critical signals as time on a monitoring task increases; one of the most consistently replicated findings in attention research.
-
-James gave the effort its place in the will:
+James gave the effort its place in the will. [The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention) is his phrase from the chapter on will: where a thought prevails with effort, attention is doing the work. In his words, to attend to a difficult object and hold it fast before the mind is the essential achievement of the will when it is most voluntary, and:
 
 > "Effort of attention is thus the essential phenomenon of will." ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
 
-> "The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind." ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
-
-The degradation of attention over time on task, in the meta-analytic review's own terms:
+That effort runs down. [Directed attention fatigue](https://clemvillatte.github.io/flourishing-compendium/#card=Directed%20attention%20fatigue) is Kaplan's name for the fatigue of the effortful, voluntarily controlled kind of attention. [Sustained attention theory](https://clemvillatte.github.io/flourishing-compendium/#card=Sustained%20attention%20theory) asks how people hold a detection-ready state over time and why that state degrades. The [Vigilance decrement](https://clemvillatte.github.io/flourishing-compendium/#card=Vigilance%20decrement), the decline in the ability to detect critical signals as time on a monitoring task increases, is one of the most consistently replicated findings in attention research. A meta-analytic review states the stakes in everyday terms:
 
 > "Maintaining attention for more than a few seconds is essential for mastering everyday life. Yet, our ability to stay focused on a particular task is limited, resulting in well-known performance decrements with increasing time on task." ([Langner and Eickhoff 2012, Psychological Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/))
 
-### Attention and the emotional life
+The day also has a shape, and switches have a residue. [Ultradian rhythms in attention](https://clemvillatte.github.io/flourishing-compendium/#card=Ultradian%20rhythms%20in%20attention) follow the roughly 90-minute basic rest-activity cycle Kleitman proposed, as fluctuations in alertness across the day. [Attention residue](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20residue) is Leroy's name for what remains of attention on a previous task after switching, degrading the next task while it persists. [Attention management](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20management) is the practice that answers those two facts: governing where attention goes, choosing, protecting, and handling what switching costs.
 
-[Attentional bias research](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20research): whether what attention selects toward threat contributes to emotional vulnerability or merely accompanies it; the field's question is causal.
+### Where it recovers
 
-[Attentional bias theory MacLeod](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20theory%20MacLeod): anxiety maintained partly by where attention goes; the 1986 dot-probe study founded the paradigm.
+If effortful attention fatigues with use, the next question is what restores it. [Attention restoration](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20restoration) is Kaplan's framework: directed attention fatigues with use, and certain experiences and environments, natural ones above all, allow it to recover. [Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention) is Bruya's term for the other face of the same relief: attention or action experienced as effortless, exertion with lower-than-normal subjective effort while effectiveness holds. The two accounts leave open whether effort and absorption are different states of one capacity, and the trainings below take that question seriously rather than resolving it.
 
-[Attentional control theory (Eysenck)](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20theory%20%28Eysenck%29): what anxiety does to thinking, developing the processing efficiency account.
+### Where feeling leads it
 
-[Cognitive attentional syndrome Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders.
+Feeling has opinions about where attention goes. [Attentional bias research](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20research) asks whether what attention selects toward threat contributes to emotional vulnerability or merely accompanies it; the field's question is causal. [Attentional bias theory MacLeod](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20theory%20MacLeod) holds that anxiety is maintained partly by where attention goes, and the 1986 dot-probe study founded the paradigm. [Attentional control theory (Eysenck)](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20theory%20%28Eysenck%29) develops the processing-efficiency account of what anxiety does to thinking.
 
-[Avoidance versus attentional engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Avoidance%20versus%20attentional%20engagement): the behavioural activation model of what keeps depression going: withdrawal brings short-term relief while removing the experiences that could counter the low mood.
+The clinical reach of that question is wide. [Cognitive attentional syndrome Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20attentional%20syndrome%20Wells) is his name, within the self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders. On the depression side, [Avoidance versus attentional engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Avoidance%20versus%20attentional%20engagement) carries the behavioural activation model of what keeps depression going: withdrawal brings short-term relief while removing the experiences that could counter the low mood.
 
-[Attentional deployment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20deployment%20theory): one of the five families in Gross's process model of emotion regulation: moving attention within a situation toward or away from emotional stimuli.
+Attention can also be steered on purpose, within a situation. [Attentional deployment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20deployment%20theory) is one of the five families in Gross's process model of emotion regulation: moving attention toward or away from emotional stimuli. [Positive attention training attentional deployment toward positive stimuli](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20attention%20training%20attentional%20deployment%20toward%20positive%20stimuli) collects the laboratory methods that shift attention toward positive information and test whether emotional responses change.
 
-[Positive attention training attentional deployment toward positive stimuli](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20attention%20training%20attentional%20deployment%20toward%20positive%20stimuli): the laboratory methods that shift attention toward positive information and test whether emotional responses change.
+Steering also works through the frame a person brings to a pursuit. [Regulatory focus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Regulatory%20focus%20theory) shows Higgins's promotion and prevention foci making the same goal a different pursuit. [Compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy), Gilbert's approach for high shame and self-criticism, trains soothing rhythms of attention among its three emotion-regulation systems.
 
-[Regulatory focus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Regulatory%20focus%20theory): Higgins's promotion and prevention foci; the same goal pursued under the two foci is a different pursuit.
+### The trainings
 
-[Compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy): Gilbert's approach for high shame and self-criticism, training soothing rhythms of attention among its three emotion-regulation systems.
+The contemplative traditions built curricula for attention, and the first family trains selection on a single object. [Focused-attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Focused-attention%20meditation) is directing and sustaining attention on a chosen object, noticing wandering, disengaging, returning. [Anchors in focused attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Anchors%20in%20focused%20attention%20meditation) is the chosen object as the stable point attention is brought back to, and [Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29) makes the breath the portable anchor.
 
-### The contemplative trainings
-
-[Focused-attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing wandering, disengaging, returning.
-
-[Anchors in focused attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Anchors%20in%20focused%20attention%20meditation): the chosen object as the stable point attention is brought back to.
-
-[Open-monitoring meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Open-monitoring%20meditation): non-reactive awareness of moment-to-moment experience without a single object as its explicit focus.
-
-[Bare attention in mindfulness practice](https://clemvillatte.github.io/flourishing-compendium/#card=Bare%20attention%20in%20mindfulness%20practice): Nyanaponika Thera's way of observing experience without immediately answering it with action or commentary.
-
-[Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention): attention deliberately trained on present experience; Kabat-Zinn's operational definition is the field's touchstone.
-
-[Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29): mindfulness of in-and-out breathing, the breath as the portable anchor.
-
-[Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation): deliberate awareness brought to walking itself: contact, movement, breath.
-
-[Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration): the eighth factor of the Noble Eightfold Path; the four jhānas, each quieter than the last.
-
-[The noticing-wandering-returning cycle in meditation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is my own framing.
-
-[Focusing](https://clemvillatte.github.io/flourishing-compendium/#card=Focusing): Gendlin's method for attending to experience before it has words, the felt sense as its object.
-
-[Attentional control training and the role of repeated redirection](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection): practising the noticing of distraction and the return of attention to a chosen object.
-
-[Progressive overload in attentional training](https://clemvillatte.github.io/flourishing-compendium/#card=Progressive%20overload%20in%20attentional%20training): the strength-training analogy applied to attention: raise the demand in steps so the system keeps adapting; the page records a citation gap behind the stronger versions of the claim.
-
-[Vigilance theory](https://clemvillatte.github.io/flourishing-compendium/#card=Vigilance%20theory): Oaten and Cheng's account of self-control as a strength that practice can build.
-
-The FA/OM distinction, in the review that introduced it to the meditation-science literature:
+The same training travels into movement. [Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation) brings deliberate awareness to walking itself: contact, movement, breath. The review that introduced this family to the meditation-science literature describes the work inside a single sit:
 
 > "A widespread style of Buddhist practice consists in sustaining selective attention moment by moment on a chosen object, such as a subset of localized sensations caused by respiration. To sustain this focus, the meditator must also constantly monitor the quality of attention. At first, the attention wanders away from the chosen object, and the typical instruction is to recognize the wandering and then restore attention to the chosen object." ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
-> "One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection." ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
-
-The laboratory study that gave the meditation cycle its four intervals:
+The laboratory study that measured the cycle gave it four intervals, and the repeating sequence has its own card in [The noticing-wandering-returning cycle in meditation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20noticing-wandering-returning%20cycle%20in%20meditation), where the training reading is mine:
 
 > "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." ([Hasenkamp et al. 2012, NeuroImage](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf))
 
-### Absorption and its varieties
+The second family trains the monitoring itself rather than the object. [Open-monitoring meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Open-monitoring%20meditation) is non-reactive awareness of moment-to-moment experience without a single object as its explicit focus; in the same review's terms, the effortful selection of an object is gradually replaced by the effortless sustaining of an awareness without explicit selection. [Bare attention in mindfulness practice](https://clemvillatte.github.io/flourishing-compendium/#card=Bare%20attention%20in%20mindfulness%20practice) is Nyanaponika Thera's way of observing experience without immediately answering it with action or commentary.
 
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the state of full immersion in an activity, presented by Csikszentmihalyi in 1975.
+The clinical programmes that carried these practices into modern settings gave them measurable form. [Mindful attention](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20attention) carries Kabat-Zinn's operational definition as the field's touchstone, and [Body scan in MBSR (Kabat-Zinn)](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29) is the first formal practice taught in mindfulness-based stress reduction: attention moved slowly through the body, lying on the back. [Right concentration](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20concentration), the eighth factor of the Noble Eightfold Path, holds the four jhānas, each quieter than the last.
 
-[Hyperfocus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hyperfocus%20theory): complete absorption in a task to the point of tuning out everything else; poorly defined within the literature.
+The trainings raise the question of what practice does to the capacity. [Attentional control training and the role of repeated redirection](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection) practises the noticing of distraction and the return of attention to a chosen object. [Progressive overload in attentional training](https://clemvillatte.github.io/flourishing-compendium/#card=Progressive%20overload%20in%20attentional%20training) applies the strength-training analogy, raising the demand in steps so the system keeps adapting, and the page records a citation gap behind the stronger versions of the claim.
 
-[Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention): the Bruya volume's subject: attention or action experienced as effortless, with effectiveness normal or elevated.
+The strengthening evidence comes from a related capacity. [Vigilance theory](https://clemvillatte.github.io/flourishing-compendium/#card=Vigilance%20theory) is Oaten and Cheng's account of self-control as a strength that practice can build. One tradition works from the other side of words: [Focusing](https://clemvillatte.github.io/flourishing-compendium/#card=Focusing) is Gendlin's method for attending to experience before it has words, the felt sense as its object.
 
-[ADHD — interest-based attention](https://clemvillatte.github.io/flourishing-compendium/#card=ADHD%20%E2%80%94%20interest-based%20attention): attention driven by strong personal interest or imminent unpleasantness rather than by the importance of the task, in Brown's account.
+### When attention disappears into its object
 
-[Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing): the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form.
+The trained end of attention can look like its absence. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) is the state of full immersion in an activity, presented by Csikszentmihalyi in 1975. [Hyperfocus theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hyperfocus%20theory) names complete absorption in a task to the point of tuning out everything else, and the literature itself flags it as poorly defined. [Effortless attention](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20attention) returns here as the Bruya volume's subject: attention or action experienced as effortless, with effectiveness normal or elevated.
 
-### Attention in the social field
+Absorption also has styles that differ by person, which keeps any single ideal of attention honest. [ADHD — interest-based attention](https://clemvillatte.github.io/flourishing-compendium/#card=ADHD%20%E2%80%94%20interest-based%20attention) is Brown's account of attention driven by strong personal interest or imminent unpleasantness rather than by the importance of the task. [Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing) is the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form. A capacity with that much variation in how it engages is not well served by one prescription for how to use it.
 
-[Social attention](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20attention): the way one person's attention is guided by what others attend to, most clearly through where they look.
+### Attention between people
 
-[Attentional synchronisation in groups](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20synchronisation%20in%20groups): group members converge in attentional focus; the gaze of conversational pairs is coupled across several seconds.
+Attention is also a social act. [Social attention](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20attention) is the way one person's attention is guided by what others attend to, most clearly through where they look. [Attentional synchronisation in groups](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20synchronisation%20in%20groups) extends this: group members converge in attentional focus, and the gaze of conversational pairs is coupled across several seconds. What one person attends to is partly set by what the people around them are attending to, which makes shared attention a small social fact with large consequences.
 
-### Attention in action: process, craft and the economy of the gaze
+### At work and under capture
 
-[Process focus research](https://clemvillatte.github.io/flourishing-compendium/#card=Process%20focus%20research): whether attending to the means of a goal works better than attending to its desired result.
+Where attention rests while pursuing something can change what is pursued. [Process focus research](https://clemvillatte.github.io/flourishing-compendium/#card=Process%20focus%20research) asks whether attending to the means of a goal works better than attending to its desired result. [Process versus outcome focus](https://clemvillatte.github.io/flourishing-compendium/#card=Process%20versus%20outcome%20focus) names the two places attention can rest: on the controllable actions of the moment, or on the desired result.
 
-[Process versus outcome focus](https://clemvillatte.github.io/flourishing-compendium/#card=Process%20versus%20outcome%20focus): where attention rests while pursuing something: on the controllable actions of the moment, or on the desired result.
+The environment around a person's attention is also engineered. [The attention economy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20attention%20economy) is Herbert Simon's scarcity, commercialised, and the page carries the contested finding that mere smartphone presence reduces cognitive capacity. [Notification and feed research on attention capture](https://clemvillatte.github.io/flourishing-compendium/#card=Notification%20and%20feed%20research%20on%20attention%20capture) tests whether smartphone notifications and infinite feeds pull attention away from what a person is doing; in the notification study, the distraction effects were comparable to actively using the device. [Heavy media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Heavy%20media%20multitasking) is Ophir, Nass and Wagner's media-use pattern, chronic multitasking across incoming streams, studied as a challenge for human cognition.
 
-[The attention economy](https://clemvillatte.github.io/flourishing-compendium/#card=The%20attention%20economy): Herbert Simon's scarcity, commercialised; the page also carries the contested finding that mere smartphone presence reduces cognitive capacity.
+### What attention owes
 
-[Notification and feed research on attention capture](https://clemvillatte.github.io/flourishing-compendium/#card=Notification%20and%20feed%20research%20on%20attention%20capture): whether smartphone notifications and infinite feeds pull attention away from what a person is doing; the notification study's distraction effects were comparable to actively using the device.
-
-[Heavy media multitasking](https://clemvillatte.github.io/flourishing-compendium/#card=Heavy%20media%20multitasking): Ophir, Nass and Wagner's media-use pattern: chronic multitasking across incoming streams, studied as a challenge for human cognition.
-
-### The moral face of attention
-
-[The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention): Simone Weil's account: the trained capacity to suspend one's own thought so that the thing or person in front of one can appear.
-
-[The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): Weil's essay on school studies: prayer as attention, and attention to a sufferer as what she calls almost a miracle.
-
-[Spiritual vigilance](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20vigilance): Pierre Hadot's name for the watchful attention the ancient Stoic kept over his own mind, hour by hour; the Greek term is prosoche.
-
-[Body scan in MBSR (Kabat-Zinn)](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in mindfulness-based stress reduction: attention moved slowly through the body, lying on the back.
-
-The theme comes in narrative form too:
-
-[ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's essay on school studies: every time we really attend to something, we exercise the same faculty that prayer and friendship require.
-
-Weil's own lines, from the essay collected in Waiting for God:
+Simone Weil gave the moral face its strongest statement. [The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention) is her account of the trained capacity to suspend one's own thought so that the thing or person in front of one can appear:
 
 > "Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))
 
-> "The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))
+[The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention) is her essay on school studies, where prayer consists of attention and attention to a sufferer is what she calls almost a miracle. The ancient Stoics kept a watch of their own. [Spiritual vigilance](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20vigilance) is Pierre Hadot's name for the watchful attention the Stoic kept over his own mind, hour by hour, the Greek term prosoche. Between the contemplative trainings and the engineered feeds, the choice of where attention goes is trained, tempted and owned, and I take Weil's point to be that the ownership is ethical before it is practical.
 
 ## Where the traditions genuinely disagree
 
@@ -207,7 +123,7 @@ The shared question, in Lavie's statement of it: when attention selects, at what
 
 > "Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
-Her resolution ties the filter's place to how loaded perception is, in the passage quoted in the map above: under high perceptual load there is no spare capacity for distractors, and under low load capacity spills over to them. The review's own summary of where the research landed:
+Her resolution ties the filter's place to how loaded perception is. The review's own summary of where the research landed:
 
 > "This research indicates that distractor perception can be prevented (early selection) when processing of task-relevant stimuli involves high perceptual load, and that although distractors are perceived in tasks of low perceptual load (late selection), their impact on behaviour depends on other types of load, such as that on working memory." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
@@ -215,9 +131,9 @@ What the resolution does not do is hand one side the victory. The second kind of
 
 > "Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
-What remains unresolved is therefore the filter's behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less.
+What remains unresolved is the filter's behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less.
 
-### Under what conditions does a wandering mind cost more than it returns?
+### Does a wandering mind cost more than it returns?
 
 The shared question is under which conditions the costs outweigh the functions. Killingsworth and Gilbert's smartphone study, sampling 2250 adults at random moments, measured the mood difference:
 
@@ -231,7 +147,13 @@ Mooneyham and Schooler's review accepts the cost findings and proposes functions
 
 > "Contemplating this question leads us to propose the following potential functions of mind-wandering: attentional cycling, dishabituation, and relief from boredom... mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task." ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))
 
-The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits — which tasks, moods and people get the insulation rather than the cost — and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it.
+The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits, which tasks, moods and people get the insulation rather than the cost, and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it.
+
+### Does attention deplete or strengthen with use?
+
+The effortful kind of attention is usually described as a budget. Kaplan's framework has directed attention fatiguing with use and needing particular environments to recover, and the vigilance decrement is one of the field's most consistently replicated findings. Against that stands a training literature that treats the same capacity as buildable: Oaten and Cheng's vigilance theory describes self-control as a strength that practice can build, and the progressive-overload analogy applies it to attention directly.
+
+The disagreement turns on which claim is about what. The fatigue findings concern a state that declines within a session of use; the strengthening findings concern a capacity compared across weeks of practice. What remains unresolved is whether the thing that fatigues and the thing that trains are the same system measured at different time scales, or two systems sharing a name. I read the sources as compatible on their own terms and honest about the gap: the stronger versions of the training claim carry a recorded citation gap, and the restoration account does not promise that rest builds capacity.
 
 ## Practice: variation, selection, retention
 
@@ -245,7 +167,7 @@ The two papers do not contradict each other: one measures the average mood while
 
 3. [Body scan](https://clemvillatte.github.io/flourishing-compendium/#card=K102%20%E2%80%94%20Body%20scan): moving attention slowly through the body, noticing sensations in each region without trying to change them.
 
-4. [Noting and labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K103%20%E2%80%94%20Noting%20and%20labeling): silently naming what is present — "breathing," "hearing," "thinking" — the label a pointer, not a judgment.
+4. [Noting and labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K103%20%E2%80%94%20Noting%20and%20labeling): silently naming what is present, "breathing," "hearing," "thinking," with the label a pointer, not a judgment.
 
 5. [Mindful walking](https://clemvillatte.github.io/flourishing-compendium/#card=K104%20%E2%80%94%20Mindful%20walking): attending to the sensations of movement, lifting, moving, placing the foot; useful when the mind is too restless for seated practice.
 
@@ -273,7 +195,7 @@ The two papers do not contradict each other: one measures the average mood while
 
 17. [Flow block](https://clemvillatte.github.io/flourishing-compendium/#card=K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are my protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow.
 
-The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family — that attention is trainable — is the AT006 principle, and the cards above carry its evidence.
+The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family, that attention is trainable, is the AT006 principle, and the cards above carry its evidence.
 
 ::Retention:: Retention is what people keep because it works for them.
 

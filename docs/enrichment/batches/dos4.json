@@ -1,7 +1,8 @@
 {
  "batch": "dos4",
  "done": [
-  "attention"
+  "attention",
+  "attention-gf-rewrite"
  ],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos4-manifest.json"
+ "note": "minted 2026-10-24; one dossier per band; see bands/dos4-manifest.json. 2026-10-25 (worker-pplx-dos4-1025h): attention rewritten in the GF model per DOSSIER-MODEL.md and the validated genuine-flourishing exemplar \u2014 map format dissolved into a question-led thread under one body heading; third genuine disagreement added (depletion vs strengthening); all 90 card links and all 14 quotations retained and re-verified (5 by fresh eye after blocked fetches, record in the ledger); checker exit 0, density 0 dense; registry.json and app.js untouched (supervisor-only). FLAG FOR SUPERVISOR: registry rebuild --rebuild=attention needed to carry the new body into the compiled payload; attention remains status 'published' in the registry."
 }
