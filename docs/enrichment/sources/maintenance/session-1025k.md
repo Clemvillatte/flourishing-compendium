@@ -231,3 +231,6 @@ Confirmed in the [Panarchy.org excerpt of On Becoming a Person](https://www.pana
 
 ## A109 — Aristotle, NE X.9 quote
 The page read "like earth which is to nourish the original entry"; both [Ross on MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) and the Oxford Ross text read "like earth which is to nourish the seed". Corrected. Sweep of the 37 MIT Classics and 52 Wikisource pages cited elsewhere found no other wording errors (differences were quote marks, footnote numbers and a cite inside the quote span).
+
+## Audit: Internet Archive full texts
+Compared quotes against the archive.org full texts of Woods's Yoga System of Patanjali, Muller's Upanishads (two volumes), James's Principles of Psychology, Jaspers's Way to Wisdom, Wilhelm and Jung's Secret of the Golden Flower and Dewey's Art as Experience. Differences were only OCR artefacts and bracketed translator insertions; no wording errors on Y-, E-, P055 or other pages. No page changes.
