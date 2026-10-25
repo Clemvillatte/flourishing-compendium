@@ -781,3 +781,65 @@ not dossier blockers and are not treated as such.
 OPEN for the supervisor: review plus dossier_registry_build.py
 --rebuild=right-action (the registry entry already says published;
 no status flip is requested from the worker).
+
+## Takeover handoff (2026-10-25, worker-pplx-dos21-1025g, final entry)
+
+Advisor QC verdict on the rounds 7-9 state: NOT CLEARED. The dossier
+is handed off as UNFINISHED WORK requiring supervisor review, not as
+ready for rebuild. Corrections to my own records, per that verdict:
+
+- RETRACTED: the round-7 ledger entry's "blockers repaired" heading.
+  The blockers were softened, not repaired; the substantive source
+  opening never happened this session.
+- RETRACTED: the round-6 ledger entry's claim that an earlier
+  card-fidelity sweep certifies my connective sentences. An earlier
+  sweep cannot certify sentences introduced afterwards; my
+  connective sentences are not certified by any sweep.
+- CORRECTED: the round-7 entry's description of the added Conduct
+  even in just war target. It is an EXTRA OCCURRENCE of an existing
+  target (the pre-takeover text linked it once at line 43; the
+  current text links it twice, once at line 43 and once in the
+  disagreement section), not a new unique target or a like-for-like
+  replacement.
+
+UNRESOLVED DEFECTS (from the advisor verdict, for the supervisor's
+review pass):
+1. The purpose-assignment survives: "For those without the natural
+   start, the tradition tables the character virtues" retains the
+   rejected claim.
+2. The unsupported relationships survive: "names a related work"
+   still connects Confucian cultivation to the surrounding accounts;
+   "cases that fit Dewey's placement" still asserts a
+   philosophical-empirical relationship. Neither was checked against
+   newly opened source passages.
+3. The verification record overclaims: the saved story-card outputs
+   still need reading before claiming all four cards were directly
+   reviewed (the four cards' files were listed and their titles
+   confirmed present; the full saved outputs were not read back
+   this session).
+4. The Aquinas sentence fragment remains at line 43 ("Aquinas
+   answers differently: his three requirements for a just war...").
+5. Readability remains open: the Wang/Aristotle subsection still
+   quotes Wang material twice (the IEP sentence and the Chuan-xi lu
+   passage repeat "There have never been people who know but do not
+   act"); the K263/K184/K216 practice entries have three sentences
+   against the model's two; the Nearby terms bullet still describes
+   document organisation ("the card sits under one of them").
+
+LANE NOTE: the session's user message named dos1-dos4; the dos21
+takeover was taken from a stale baton with no explicit extension
+established. The substantive edits stop here per the advisor's
+instruction; the baton is released; the supervisor should review
+before any rebuild.
+
+What was pushed this session, for the record: 612c442f (round 5:
+em dashes removed, four unsupported claims removed or narrowed,
+Kohlberg gloss removed, Aquinas named), d470ad01d (Story loglines
+repaired), 1567cff79 (round 6: Aquinas named in the disagreement
+section, story loglines recast), dc8676d62 (situation-answer
+rethreaded), b0a47dd9a (character block rethreaded), 21f48c29b
+(round 7: lost links restored, invented connections softened),
+d3c5abeac (round 8: readability repairs), a23f3f794 (dense
+paragraph split), 905e7aaa7 (ledger rounds 7-9, now corrected by
+this entry), plus the batch state update (eff07162e) and the baton
+claim (e937638b1).
