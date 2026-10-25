@@ -209,7 +209,7 @@ glosses were recast from the prior map text, whose card fidelity is documented i
 re-checked against every card body this session. QC status: revision 4.1 pushed
 pending supervisor review; the registry rebuild flag stands.
 
-## QC round 2 repair (revision 4.2, 2026-10-25 ~02:07Z, worker-pplx-b65d2ee8)
+## QC round 2 repair (revision 4.2, 2026-10-25 01:58Z, worker-pplx-b65d2ee8)
 
 Supersedes the kernel-card claim in the 4.1 entry: at 4.1 time only the
 card-body PREFIXES (first ~1100 characters) had been read; the "read in
@@ -263,4 +263,56 @@ Two divergences total; the model's 3-5 guidance remains superseded by
 the evidence rule — FLAGGED FOR SUPERVISOR (accept two, or direct a
 third with sources). Checker exit 0: 51 card links, 18 headers, 10
 external carriers. QC status: pending advisor round 3; registry rebuild
+flag stands.## QC round 3 repair (revision 4.3, 2026-10-25 02:01Z, worker-pplx-b65d2ee8)
+
+Corrections to the 4.2 entry first: its timestamp placeholder was wrong
+(the actual clock at the 4.2 save was 01:58Z); "three PMC quotes kept
+verbatim" was wrong — only the abstract's summary sentence remains
+quoted in the public text; the practical-translations paragraph was NOT
+split in 4.2 (it is split now, this round); the checker's "10 external
+carriers" are link OCCURRENCES, not ten distinct sources. The archived
+full-card kernel reads were verified against the session's archived
+tool-call outputs (K153 full text incl. the Sheeran & Orbell 92% vs 69%
+field test is in the archived output) before this entry repeats the
+attestation.
+
+Repairs applied in revision 4.3 (advisor QC round 3):
+- Divergence 1 ("When a pursuit becomes hard...") DISSOLVED: the
+  attainable/unattainable distinction moved into the main body ("Letting
+  go as a skill"), with the L&L and Wrosch quotes and the persistence-
+  norm framing sentence now carried there as evidence, not as a
+  manufactured disagreement. ONE divergence remains (the Goals Gone
+  Wild exchange). SUPERVISOR FLAG UPDATED: the model's 3-5 guidance vs
+  one established published controversy — accept one, or direct more
+  with sources.
+- Ntoumanis article verified as an EMPIRICAL STUDY (two studies; Self
+  and Identity 2014; Ntoumanis, Healy, Sedikides, Smith, Duda) — the
+  "review" label corrected everywhere; the causal conclusion removed;
+  findings stated as associations from the studies' measures of
+  cognitive ease, with reengagement and disengagement named as two
+  different measured responses.
+- Goals Gone Wild exchange narrowed to the opened evidence: the
+  "dosed and monitored" paraphrase replaced by the verbatim sentence
+  from the On Good Scholarship abstract page (NEW carrier opened this
+  session, Columbia Business School: "...it should be carefully
+  prescribed and closely monitored", AMP 23, 82-87); the rejoinder now
+  explicitly reported as known only through the CBS News report, not
+  the journal text; the judgment marked provisional; the "cases versus
+  experiments" framing removed as unestablished.
+- Nearby terms: each bullet's source link now comes from the linked
+  card's own source list — Ryan & Deci 2000 definitions PDF (Intrinsic
+  motivation card), Frankl Internet Archive full text (Purpose card),
+  Carver & Scheier Cambridge book page (Self-regulation card), Locke &
+  Latham 2006 (Commitment; verified condition).
+- Paragraph structure: the steering paragraph split (self-regulation +
+  control theory, then behavioral self-regulation alone); the
+  implementation-intentions paragraph split at its reasoning transitions
+  (II + weekly-review; WOOP + planning fallacy; progress principle;
+  stimulus control + situation-sensitivity).
+
+Checker exit 0: 51 card links, 17 headers, 11 external carrier link
+occurrences (10 distinct URLs: nj.gov L&L, Concordia Wrosch, PMC4104823,
+Konstanz Gollwitzer, Columbia Goals-Gone-Wild, Columbia On-Good-
+Scholarship, CBS News, Ryan & Deci 2000 PDF, Frankl archive.org, Carver &
+Scheier Cambridge). QC status: pending advisor round 4; registry rebuild
 flag stands.
