@@ -102,3 +102,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~05:59Z dos34 (1025k): typology-vs-theory added as labelled evidential challenge, not counted.
 - 2026-10-25 ~06:02Z dos34 (1025k): 3rd substantiated (Veal replacement proposal vs Stebbins rejection); bar lower bound met; supervisor acceptance requested; artwork pending owner.
 
+- 2026-10-25 ~06:2?Z worker-pplx-dos20-1025-0600: right-speech now carries TWO substantiated disagreements (Must right words be pleasing?; May one lie for another's sake? — AN 10.176 Buddhist vs Mill Utilitarianism ch. 2); advisor QC applied (2 rounds; Gilligan-vs-Kohlberg investigated and NOT counted — evidence gap noted in ledger); all checks green (96 card links, 20 headers, 8 external carriers; density 0; 8 quotes verified 0 not-found); 3-5 bar still UNMET at 2 of 3 — supervisor/owner disposition requested (source: dos20 ledger entry, commit 55646638c).
