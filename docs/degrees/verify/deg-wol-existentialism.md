@@ -53,7 +53,9 @@ pages.
   The transcript service was not read for this recording this session; the
   content claim rests on the recording's own description.
 - Relevant segments: a single talk; assign whole.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 
 ### M23-EX05: Music First, Narrative Later, Understanding Empathy (Shaun Gallagher)
 
@@ -140,7 +142,9 @@ pages.
   consequences of existentialism (29:04), the case of a pupil (35:00),
   morality (51:01).
 - Relevant segments: a single lecture; assign whole.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service was not read for this recording this session;
   content classification rests on the lecturer's own detailed description
   and chapter list.
@@ -192,7 +196,9 @@ pages.
   being in time (18:04), the world is you (26:17).
 - Relevant segments: a single 32:12 lecture, part 1a of 3; the owner should
   verify parts 1b and 1c separately if they want the full sequence.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service was not read for this recording this session;
   content classification rests on the lecturer's own description and chapter
   list.
@@ -219,7 +225,9 @@ pages.
   embodied knowledge (1:13:35).
 - Relevant segments: for a Merleau-Ponty assignment, 9:50 to 1:40:15; the
   opening 9:50 is series review.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: content classification rests on the lecturer's own description and
   chapter list; the transcript was not read this session.
 

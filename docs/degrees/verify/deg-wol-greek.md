@@ -330,7 +330,9 @@ entry.
   transcript panel if they want only that part. The talk as a whole is
   modern-focused, so it serves mod-phil-3 as a reception and comparison
   resource rather than a core Hellenistic teaching.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 
 ### ST-01: STOICON '16, Julia Annas, Is Stoic Virtue as Off-Putting as it Seems?
 

@@ -36,7 +36,9 @@ pages.
   (1:55:16).
 - Relevant segments: the lecture proper runs from 2:54; the comments and
   questions block starts at 44:05.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service returned no transcript for this recording
   this session; content classification rests on the recording's own
   description and auto chapter list.
@@ -70,7 +72,9 @@ pages.
   progress as a quilt (34:02), imagination as the edge (35:57).
 - Relevant segments: the description itself gives lecture boundaries
   (0:00:03 and 1:53:01); the owner should assign by lecture.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 
 ### M01-P18: Whitehead's Process and Reality, Part I, The Speculative Scheme (Matthew Segall)
 
@@ -150,7 +154,9 @@ pages.
   identity (37:26), New Deal era (44:12), modern challenges (47:40),
   conclusion (54:21).
 - Relevant segments: a single 58:12 lecture; assign whole.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service was not read for this recording this
   session; content classification rests on the recording's own description
   and chapter list.
@@ -185,7 +191,9 @@ pages.
   (52:41).
 - Relevant segments: a single 1:25:53 lecture plus responses; assign
   whole.
-- Verification status: verified-video (2026-10-25).
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description, and the transcript panel was not read this session.
 - Note: the transcript service was not read for this recording this
   session; content classification rests on the recording's own detailed
   description and chapter list.
