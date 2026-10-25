@@ -26,7 +26,7 @@ George and Park (2016) use the word for something broader, one of three parts of
 
 The adolescent systematic review found mostly weak-to-moderate links, with depression correlations from -0.02 to -0.42. It notes that "methodological limitations restrict the strength of these conclusions" and that causality needs longitudinal and experimental designs. Read "predicts" as an association.
 
-**Plain words** Mattering is the feeling that particular people notice you, value you and rely on you. It adds something beyond self-esteem and support in several studies, though the evidence is mostly correlational. George and Park use the same word for feeling that your life counts in the wider world.
+**Plain words** Everyone quietly keeps a count of the places they would be missed: the friend who would notice if you went quiet, the team that would have to reshuffle without you, the street that would still run. Mattering is that count — the felt sense that particular people notice you, value you and rely on you. Studies find it tracks low mood even after self-esteem and social support are accounted for, mostly with correlational data, so read that as a clue rather than a law. The second use of the word is bigger and quieter: the sense that your existence has weight in the world at large, whoever notices. Both are built in small ways — showing up where your absence would be felt, and asking people for their view.
 
 *For example:* A neighbour asks you to the street meeting because they want your view. Their asking, more than the meeting, is what tells you that you count.
 
