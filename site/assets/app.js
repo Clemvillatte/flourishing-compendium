@@ -4703,6 +4703,34 @@ window.fcDossiersData = {
           "x": "Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf))."
         },
         {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "[Narrative as meaning-making](card:Narrative%20as%20meaning-making) — the self as told; this dossier holds the one doing the telling and the paradox of the observer."
+        },
+        {
+          "t": "p",
+          "x": "[Identity](card:Identity) — the broader construct; the self is the one who has it, identity the thing had."
+        },
+        {
+          "t": "p",
+          "x": "[Ego dissolution](card:Ego%20dissolution) — the contemplative endpoint; where the self is defended, this is the practice of letting the defence go."
+        },
+        {
+          "t": "p",
+          "x": "[Locus of evaluation](card:Locus%20of%20evaluation) — where judgments of worth are taken from; the self is the one being judged, this names who is doing the judging."
+        },
+        {
+          "t": "p",
+          "x": "[Anxiety about the future](card:Anxiety%20about%20the%20future) — the agitation the defended self lives in; the self is the thing defended, this the weather of the defending."
+        },
+        {
+          "t": "p",
+          "x": "These are the nearest entries, not the scope."
+        },
+        {
           "t": "h",
           "x": "The map: the entries on the self"
         },
@@ -4828,12 +4856,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982](https://www.deikman.com/observing.html))",
+          "x": "“Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982, archived at the Wayback Machine](https://web.archive.org/web/20261005074233/http://www.deikman.com/observing.html))",
           "s": null
         },
         {
           "t": "q",
-          "x": "“In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982)",
+          "x": "“In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” ([Deikman 1982, archived at the Wayback Machine](https://web.archive.org/web/20261005074233/http://www.deikman.com/observing.html))",
           "s": null
         },
         {
@@ -5449,7 +5477,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Hume, a century later, turns the same question on the search itself and reports the opposite result. Entering \"most intimately into what I call myself,\" he writes, he \"always stumble[s] on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe any thing but the perception\" (Treatise 1.4.6, [Gutenberg](https://www.gutenberg.org/cache/epub/4705/pg4705.txt)). One examination finds a thinker; the other finds only thoughts."
+          "x": "Hume, a century later, turns the same question on the search itself and reports the opposite result. Entering \"most intimately into what I call myself,\" he writes, \"I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe any thing but the perception\" (Treatise 1.4.6, [Gutenberg](https://www.gutenberg.org/cache/epub/4705/pg4705.txt)). One examination finds a thinker; the other finds only thoughts."
         },
         {
           "t": "p",

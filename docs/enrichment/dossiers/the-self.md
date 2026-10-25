@@ -76,9 +76,9 @@ The chariot image from the Milindapañha gives the aggregate analysis its everyd
 
 Deikman’s own lines on the observing self:
 
-> “Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982, via Wayback](https://web.archive.org/web/20261005074233/http://www.deikman.com/observing.html))
+> “Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982, archived at the Wayback Machine](https://web.archive.org/web/20261005074233/http://www.deikman.com/observing.html))
 
-> “In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982)
+> “In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” ([Deikman 1982, archived at the Wayback Machine](https://web.archive.org/web/20261005074233/http://www.deikman.com/observing.html))
 
 The ACT version trains the position as a skill:
 

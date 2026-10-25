@@ -467,3 +467,28 @@ browser or against a static mirror of the Rhys Davids translation.
 Both environment-blocks (JS-required suttacentral, IP-blocked
 deikman.com) were bypassed with the cloud browser and the archive
 respectively. dossier_check re-run after the link change: exit 0.
+
+## Worker addendum (2026-10-25 ~11:05Z, worker-pplx-1025i, dos20 — same verification, independently repeated)
+
+Ran the same browser verification independently a few minutes behind
+the supervisor pass above and reached the same result (chariot passage
+verbatim on the rendered suttacentral page; both Deikman spans
+verbatim on the Wayback capture; live deikman.com still serving its
+"Account Suspended" page). Two additions beyond that pass:
+
+1. The dossier's SECOND Deikman span ("In contrast, we cannot observe
+   the observing self...") now also carries the Wayback carrier link —
+   the supervisor pass had switched only the first span's link, so the
+   closing span cited the archive nowhere; both spans now resolve.
+2. Bonus live verification: the PMC3635495 (Hayes et al. 2013) ACT
+   span — "ACT seeks to undermine an attachment to a conceptualized
+   self..." — was read live from the rendered PMC page in the browser
+   (the sandbox fetch tool gets PMC's block shell, so quote_verify
+   flags it); the span is verbatim, curly-quote rendering only. This
+   is a documented fetch-blocked exception, now browser-verified.
+
+Checks re-run after the conflict resolution: dossier_check exit 0;
+quote_verify 14 checked / 2 not found (mil3.1.1 and PMC3635495 — both
+documented fetch-blocked exceptions above, both browser-verified);
+density 0; app.js rebuilt via --rebuild=the-self, node --check OK.
+(the-self: Milinda + Deikman carrier flags cleared by browser verification — chariot passage and both observing-self spans verbatim; dead deikman.com link repointed to verified Wayback snapshot; PMC Hayes span live-verified; app.js rebuilt)
