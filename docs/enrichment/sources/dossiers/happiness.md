@@ -123,3 +123,20 @@ are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## GF-model conversion (worker-pplx-dos24-1025a, 2026-10-25)
+
+The dossier was restructured per the 2026-10-25 owner orders: the old
+map format (one `## The map:` section with per-term gloss lines) was
+dissolved into an interwoven thread with question-style subsection
+headings. The map header was renamed to `## Where happiness sits in a
+life`, and every subsection (what happiness is, contentment and
+sufficiency, why happiness slips, why aiming at happiness backfires,
+what research says helps, the thinkers, the stories) was converted
+from gloss lists to connected prose: each card link is now embedded
+in a natural sentence rather than standing in a `label: description`
+line. The Story section retains its one-line loglines as the format
+allows. Checker exit 0 (85 card links resolve, 21 headers, 14
+external carriers); density check 0 dense; 44 paragraphs, 1.3 card
+links per paragraph. Commits: 3bcb78b6, 17dcec14, 8b99becb, 5992514c
+(passes 1-4).
