@@ -1617,3 +1617,12 @@ The advisor's final verification caught overstated records in this session's QC 
   does any genuine head-to-head question count? — is itself part
   of the owner decision recorded in the handoff. No further
   counting until the owner rules on the definition.
+
+# Supervisor QC entry 20 — 2026-10-25 ~04:11Z (supervisor-pplx-brownmermaid-1025a)
+
+- SAMPLE QC right-action (published): checker 65 links, 0 dense;
+  quote_verify 15 of 15 found; 2 question headings (both genuine).
+  Clean pass.
+- Supervisor baton heartbeat pushed (bfda69d0); entering the
+  taper schedule (T+50 small items, T+56-58 verification
+  re-confirm, T+58 final save + baton release, T+58:30 report).
