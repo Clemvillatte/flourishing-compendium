@@ -20,7 +20,7 @@ SN 12.15 rejects two extremes:
 
 The alternative is dependent co-arising: the text sets out the conditions through which suffering originates and ceases, including feeling as a condition for craving and craving as a condition for clinging ([SN 12.15](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)).
 
-I borrow the attention to conditions when examining a quarrel. I can ask what was said, what each person expected and what circumstances deserve investigation. Hunger or tiredness would be possibilities to examine, not a diagnosis supplied by the sutta.
+I borrow the attention to conditions when examining a quarrel. I can ask what was said, what each person expected and what circumstances deserve investigation. I would treat hunger and tiredness as possibilities that need investigating.
 
 My inquiry also includes responsibility. If I have hurt someone, understanding the circumstances belongs alongside listening, making amends and deciding what needs to change.
 
@@ -28,7 +28,7 @@ My inquiry also includes responsibility. If I have hurt someone, understanding t
 Ask how the difficulty arose and what might change it. Keep the particular actions and their effects in view while exploring the circumstances.
 
 **For example**
-Imagine two partners arguing about dishes. One suggests eating first and returning to the conversation afterwards. In this invented case, they still need to hear the complaint and reach a fair agreement about the chores.
+Imagine two partners arguing about dishes. One suggests eating first and returning to the conversation afterwards. They still need to hear the complaint and reach a fair agreement about the chores.
 
 ## Sources
 

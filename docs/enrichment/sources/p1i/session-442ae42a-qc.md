@@ -22,6 +22,12 @@ All eleven p1d repairs received bounded independent source checks: D017, D095, D
 
 These checks certify only the reviewed quotation, locator and claim scope. They do not certify linked concept pages, stories, kernels, protected reflections, or absence of AI-sounding prose. Structural validation and a full build are separate gates.
 
+## Reader pass
+
+Read all twenty-one repaired bodies in sequence. Cut redundant “this invented scene” and “my illustration” endings where “Imagine” already labels the hypothetical. Removed the drafting-instruction ending in P121 and the restrictive “only if” in B034. These are prose changes, not new factual claims; the source limits remain.
+
+Eight cross-link proposals are pending in p1i.json. Mention searches were run; target IDs resolve. No proposal was applied and no other band's target was edited.
+
 ## Maintenance issue outside this band
 
 D150 remains assigned to live maintenance. Advisor flagged a Suwen chapter-number locator unsupported by its cited carrier and an unsupported continuity bridge from Neiye to later medicine. No edit to maintenance-owned files was made.

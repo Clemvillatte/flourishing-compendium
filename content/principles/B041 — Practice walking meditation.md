@@ -24,7 +24,7 @@ I keep the research questions separate. [Oppezzo and Schwartz](https://aaalab.st
 While walking, notice that you are walking. Let the movement be something you attend to. I would begin with a short, safe route and see what I actually notice.
 
 **For example**
-Imagine walking along a quiet corridor between meetings. You notice a foot meeting the floor, then realise you are rehearsing an argument. Return attention to the next step. This is my illustration of the practice.
+Imagine walking along a quiet corridor between meetings. You notice a foot meeting the floor, then realise you are rehearsing an argument. Return attention to the next step.
 
 ## Sources
 

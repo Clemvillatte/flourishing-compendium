@@ -26,7 +26,7 @@ My planning exercise is an application of that reading. I can ask what difficult
 Name what the plan would change. Then look at the hopes you have attached to it. I would check both before deciding how much of my life to give the effort.
 
 **For example**
-Imagine saving for a home because you want stable housing. You also hope owning it will end your need for other people's approval. In this invented case, the budget and the expectation of approval deserve separate examination.
+Imagine saving for a home because you want stable housing. You also hope owning it will end your need for other people's approval. The budget and the expectation of approval deserve separate examination.
 
 ## Sources
 

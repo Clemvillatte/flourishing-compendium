@@ -26,7 +26,7 @@ Dewey also allows that an experience with aesthetic quality can be harmful to th
 Stay with an activity long enough to notice what your actions change. Let what you discover affect your next step, and consider who else is involved.
 
 **For example**
-Imagine cooking for a friend. You taste the soup, adjust it and discover what the change did. As you serve it, the meal includes your friend's response. This invented scene gives the practical question a setting.
+Imagine cooking for a friend. You taste the soup, adjust it and discover what the change did. As you serve it, the meal includes your friend's response.
 
 ## Sources
 

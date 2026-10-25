@@ -26,7 +26,7 @@ For me, this leaves room for repair. If I have spoken cruelly, the next task may
 Take the small action seriously. Choose something worth repeating, notice when you have caused harm and make the next choice with care.
 
 **For example**
-Imagine repeatedly interrupting a colleague. Today you let her finish and ask about the point you missed. In this invented scene, the change begins with a particular conversation and a person who deserves to be heard.
+Imagine repeatedly interrupting a colleague. Today you let her finish and ask about the point you missed. You have an opportunity to hear what you kept cutting short.
 
 ## Sources
 

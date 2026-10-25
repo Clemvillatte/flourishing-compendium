@@ -26,7 +26,7 @@ The question I want to carry into research is more precise: what do I need to le
 Name the question you hope more information will answer. Examine your own explanation of what you want, and keep room for evidence that changes it.
 
 **For example**
-Imagine comparing postgraduate courses late into the night. You pause to write down what you want to learn and what work you hope to do. In this invented case, those questions help define the next enquiry.
+Imagine comparing postgraduate courses late into the night. You pause to write down what you want to learn and what work you hope to do, then use those questions to define the next enquiry.
 
 ## Sources
 - [[T036 — Hadot, Pierre]]: further philosophical reading.

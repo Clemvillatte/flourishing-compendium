@@ -27,7 +27,7 @@ Nair and colleagues studied a different question: 74 participants were randomly 
 Notice how you are supported. Try a comfortable adjustment and see what changes for you. I would keep the freedom to move and avoid forcing a painful position.
 
 **For example**
-Imagine beginning a writing session with your chair too far from the desk. You bring it closer, let your arms rest and begin again. This is an invented example of attending to a practical condition.
+Imagine beginning a writing session with your chair too far from the desk. You bring it closer, let your arms rest and begin again.
 
 ## Sources
 

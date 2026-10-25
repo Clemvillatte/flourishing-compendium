@@ -1,0 +1,48 @@
+{
+  "batch": "p1i",
+  "agent": "supervisor-442ae42a",
+  "reciprocal": [
+    {
+      "into": "B004",
+      "link": "B021",
+      "why": "another application of SN 12.15, directed to the expectations guiding a plan"
+    },
+    {
+      "into": "B021",
+      "link": "B004",
+      "why": "applies conditionality to a quarrel while keeping responsibility in view"
+    },
+    {
+      "into": "B041",
+      "link": "B034",
+      "why": "another MN 10 practice, asking how hindrances arise and are abandoned"
+    },
+    {
+      "into": "B034",
+      "link": "B041",
+      "why": "extends attention to walking and other everyday bodily postures"
+    },
+    {
+      "into": "B088",
+      "link": "E014",
+      "why": "a comparison with bodily habit and self-reported automaticity"
+    },
+    {
+      "into": "D142",
+      "link": "E014",
+      "why": "considers bodily learning and the conditions of practice"
+    },
+    {
+      "into": "P121",
+      "link": "P002",
+      "why": "a separate metaphysical account of events and experience"
+    },
+    {
+      "into": "P064",
+      "link": "B034",
+      "why": "a practical list for investigating a difficulty and how it changes"
+    }
+  ],
+  "inline": [],
+  "notes": "Pending supervisor review and ownership-aware integration. Prepared after mention searches for walking meditation, hindrances, right livelihood, conditionality, automaticity and psychological richness. Relationship clauses use only the repaired pages and opened sources recorded in their ledgers. No enrich_apply run was made; no target outside this band was edited."
+}

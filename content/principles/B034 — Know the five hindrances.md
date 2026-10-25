@@ -20,13 +20,13 @@ The instruction for desire includes this:
 
 The passage also asks the monk to discern presence, absence, arising and the prevention of future arising; it repeats the formula for the other four hindrances ([MN 10, D.1](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-I understand this as a practical inquiry into what is happening and how it changes. When I want a [[Clarity of mind|clear mind]], I can begin by distinguishing tiredness from agitation or resentment. Those names are useful to me only if I return to the experience and investigate it.
+I understand this as a practical inquiry into what is happening and how it changes. When I want a [[Clarity of mind|clear mind]], I can begin by distinguishing tiredness from agitation or resentment, then investigate the difficulty I have named.
 
 **Plain words**
 Notice which obstacle is present. Ask how it began, what helps it subside and what might prevent its return. I would use the list to guide attention to the difficulty I am actually having.
 
 **For example**
-Imagine sitting down to read while silently composing a cutting reply. I recognise ill will, notice what keeps restarting the argument and explore whether I can leave the reply unsent. This is my application of the inquiry.
+Imagine sitting down to read while silently composing a cutting reply. You recognise ill will, notice what keeps restarting the argument and explore whether you can leave the reply unsent.
 
 ## Sources
 
