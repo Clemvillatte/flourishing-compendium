@@ -1033,6 +1033,11 @@
      "t": "2026-10-21T12:47:37+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:23:45+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:23:45: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1242,5 +1247,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:23:33+00:00"
+ "updated": "2026-10-25T15:23:45+00:00"
 }
