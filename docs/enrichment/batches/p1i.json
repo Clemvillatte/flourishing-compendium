@@ -10,7 +10,6 @@
   "B148",
   "B102",
   "B039",
-  "B041",
   "B034",
   "B083",
   "B004",
@@ -32,7 +31,7 @@
   "P121",
   "P064"
  ],
- "in_progress": null,
+ "in_progress": "B041",
  "flagged": {
   "D118": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (overclaim \"budget rule\"/spending metaphor removed; Plain words re-derived as a revisable speaking exercise; Mehl et al. 2010 parallel qualified to less small talk/more substantive conversation); current page carries the repaired text (\"Chapter 5 gives its rule in verse\" framing, outcomes left with the people). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
   "D129": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (the \"only response that ends the cycle\" overclaim and retaliation-subscription metaphor removed; maxim scoped so what the other person does next remains theirs); current page carries the repaired text. The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
@@ -46,10 +45,11 @@
   "P196": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification, record corrected after file-specific diff check): the final-QC repair for P196 is in commit b9f4cc878's P196 file diff — Bergson quotations given with verified page locators (Hulme 1912 edition, printed pp. 7, 8, 11), the phrase \"direct vision of the mind by the mind\" not verified in the consulted edition and not quoted, the mood-attending exercise bounded as \"this page's application rather than a report of Bergson's method in action\". Current page re-read this session and carries exactly this state. NOTE: an earlier draft of this record wrongly attributed the therapy/grocery-store analogy (which belongs to B130); corrected. No page edit needed; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: final QC round 2]",
   "P030": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification, record corrected after current-page re-read): the round-2 repair (commit b9f4cc878) had disclosed that Goodman's Ways of Worldmaking could not be opened; the CURRENT page has since been reworked further and now quotes Goodman pp. 20-21 via a scholarly carrier (Vervoort et al. 2015, \"Scenarios and the art of worldmaking\") with that mediation disclosed in Sources (\"no open web edition verified, so the passage is quoted via the scholarly article\"), and frames the version-asking move as \"this page's application\". Current page re-read this session; no page edit needed; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: final QC round 2]",
   "P121": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification, record corrected after current-page re-read): the round-2 repair (commit b9f4cc878) had disclosed that Art as Experience was lending-restricted; the CURRENT page has since been reworked further and now quotes Dewey ch. 1 from an archive.org scan with the ch. 3 complete-episode passage, and labels the three-links practice as \"a labeled application\". Current page re-read this session; no page edit needed; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: final QC round 2]",
-  "P064": "RESOLVED: James historic theory distinguished from attribution evidence, 2003 source and 2016 replication dispute explicit; Sunday dread no longer diagnoses job; validator PASS, advisor pending"
+  "P064": "RESOLVED: James historic theory distinguished from attribution evidence, 2003 source and 2016 replication dispute explicit; Sunday dread no longer diagnoses job; validator PASS, advisor pending",
+  "B041": "Reopened for QC: Separate MN10 posture awareness from slow-step technique, creative walking and nature-rumination findings"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T06:17:58+00:00",
+ "updated": "2026-10-25T06:19:29+00:00",
  "band_done": false
 }
