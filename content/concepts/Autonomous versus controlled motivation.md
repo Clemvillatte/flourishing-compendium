@@ -13,7 +13,15 @@ This page holds the comparison between the two halves of the self-determination 
 >
 > (Ryan and Deci, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions", Contemporary Educational Psychology 25(1), 2000, [open PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
 
-Within extrinsic motivation the theory grades autonomy: "extrinsic motivation can vary greatly in the degree to which it is autonomous" (Ryan and Deci 2000). Ryan and Deci describe external regulation as the least autonomous form of extrinsic motivation. Identification is more autonomous, and integration is the most autonomous form. Introjection is internal regulation that remains controlling. For each half, see the granular pages above.
+Within extrinsic motivation the theory grades autonomy: "extrinsic motivation can vary greatly in the degree to which it is autonomous" (Ryan and Deci 2000). For each half, see the granular pages above.
+
+### The four grades of extrinsic motivation
+
+External regulation is the least autonomous: "Such behaviors are performed to satisfy an external demand or obtain an externally imposed reward contingency. Individuals typically experience externally regulated behavior as controlled or alienated, and their actions have an external perceived locus of causality" (Ryan and Deci 2000). Introjection is internal but still controlling: people "perform such actions with the feeling of pressure in order to avoid guilt or anxiety or to attain ego-enhancements or pride... introjection represents regulation by contingent self-esteem" (Ryan and Deci 2000). Regulation through identification comes when "the person has identified with the personal importance of a behavior and has thus accepted its regulation as his or her own" (Ryan and Deci 2000). Integration is the fullest grade: "identified regulations have been fully assimilated to the self... through self-examination and bringing new regulations into congruence with one's other values and needs. The more one internalizes the reasons for an action and assimilates them to the self, the more one's extrinsically motivated actions become self-determined" (Ryan and Deci 2000).
+
+### What the grades predict
+
+The continuum has stakes: "With increasing internalization (and its associated sense of personal commitment) come greater persistence, more positive self-perceptions, and better quality of engagement" (Ryan and Deci 2000). More autonomous extrinsic motivation predicts "greater engagement... better performance... less dropping out... higher quality learning... and greater psychological well-being" (Ryan and Deci 2000). Intrinsic motivation remains the prototype: behaviors "performed out of interest and satisfy the innate psychological needs for competence and autonomy are the prototype of self-determined behavior" (Ryan and Deci 2000).
 
 ## Related concepts
 
@@ -23,7 +31,7 @@ Within extrinsic motivation the theory grades autonomy: "extrinsic motivation ca
 
 ## Sources
 
-- Deci and Ryan, 2000
+- Ryan and Deci, 2000
 - [Ryan and Deci, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions", Contemporary Educational Psychology 25(1), 2000 (open PDF)](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf) — the reasons-based distinction and the autonomy grading
 
 ## Cited in psychology parallels
