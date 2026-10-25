@@ -1481,7 +1481,10 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Duration: 1:01:15 (watch page, 2026-10-25).
 - Instructor credentials: Gregory B. Sadler, then teaching at Marist
   College (per the description; institutional page not opened this
-  session).
+  session). Supplementary credential page opened 2026-10-25
+  (https://www.gregorybsadler.com/): co-founder of ReasonIO, APPA-certified
+  philosophical counselor, with a popular philosophy-focused YouTube
+  channel used as an educational resource.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the beginning
   of Aristotle's Nicomachean Ethics — different answers to "What is
@@ -1500,7 +1503,9 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
   FLAG with named institutional origin in the description.
 - Duration: 1:32:05 (watch page, 2026-10-25).
 - Instructor credentials: as SRC-M19-AR01 (Sadler, Marist, per the
-  description).
+  description; supplementary credential page
+  https://www.gregorybsadler.com/ opened 2026-10-25 — ReasonIO
+  co-founder and APPA-certified philosophical counselor).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Epictetus and
   his moral theory — choice, rationality, desires and emotions, the good

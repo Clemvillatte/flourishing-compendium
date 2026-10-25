@@ -502,9 +502,11 @@ standard.
   opened 2026-10-25.
 - Duration: 46:08 as displayed by the player; another listing on the
   page shows 44:02 — FLAGGED dual-figure duration.
-- Instructor credentials: Dr. Ryan Niemiec, psychologist, author, Chief
-  Science & Education Officer at the VIA Institute (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Dr. Ryan M. Niemiec, Psy.D., psychologist,
+  author, Chief Science & Education Officer at the VIA Institute (per
+  the uploader description; the VIA about page opened 2026-10-25,
+  https://www.viacharacter.org/about, confirms his Psy.D. and VIA
+  listing).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a
   research-informed session drawing on over 1,000 studies and his recent
