@@ -60,8 +60,11 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   2026-10-25. Fourth Annual Health Disparities Conference, Teachers College,
   Columbia University, 6 March 2009.
 - Duration: 59:32 (watch page, 2026-10-25).
-- Instructor credentials: William R. Miller, developer of motivational
-  interviewing (institutional page pending this session — see credential note).
+- Instructor credentials: William R. Miller, Distinguished Professor Emeritus
+  of Psychology, University of New Mexico, developer of motivational
+  interviewing (UNM Psychology faculty page:
+  https://psych.unm.edu/people/faculty/profile/william-miller.html, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a presentation on
   motivational interviewing for facilitating change across boundaries, at the
@@ -79,9 +82,8 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   Onlinevents library. The YouTube video itself is freely playable; whether the
   library content is paid is not stated on the page. Owner ruling recommended.
 - Duration: 1:01:43 (watch page, 2026-10-25).
-- Instructor credentials: William R. Miller, the approach's original developer,
-  co-author with Stephen Rollnick (per the description; institutional page
-  pending this session).
+- Instructor credentials: as SRC-M09-002 (William R. Miller, UNM faculty
+  page opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): motivational
   interviewing as a person-centred clinical method growing from Carl Rogers'
@@ -98,8 +100,11 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   2026-10-25. The watch page could not be fetched from this session's
   environment (repeated fetcher failures), so duration and content basis are
   NOT verified this session.
-- Instructor credentials: Stephen Rollnick, co-developer of motivational
-  interviewing (institutional page pending this session).
+- Instructor credentials: Stephen Rollnick, Honorary Distinguished
+  Professor, Cardiff University; co-developer of motivational interviewing
+  (Cardiff honorary and emeritus staff page:
+  https://www.cardiff.ac.uk/medicine/about-us/people/honorary-and-emeritus-staff,
+  opened 2026-10-25).
 - Language: English (title).
 - Content coverage: unknown from opened pages this session; title indicates a
   lecture on motivational interviewing for the South Africa HIV Addiction
@@ -128,8 +133,9 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   recording (same URL) — one catalog entry should be retired or
   cross-referenced at integration time.
 - Duration: 1:06:58 (watch page, 2026-10-25).
-- Instructor credentials: Paul Gilbert, creator of Compassion Focused Therapy
-  (institutional page pending this session — see credential note).
+- Instructor credentials: Paul Gilbert, Research Professor, University of
+  Derby; creator of Compassion Focused Therapy (Derby staff page:
+  https://www.derby.ac.uk/staff/paul-gilbert/, opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): part 1 of a
   full-day CFT workshop by Dr. Paul Gilbert.
@@ -143,7 +149,8 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   (https://www.youtube.com/watch?v=Gm_PEFYgnus); watch page opened 2026-10-25.
 - Duration: 1:06:57 (watch page, 2026-10-25). Catalog prints 1:06:58 — a
   one-second discrepancy to reconcile at integration.
-- Instructor credentials: as SRC-M09-007 (pending institutional page).
+- Instructor credentials: as SRC-M09-007 (Derby staff page, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): part 2 of the
   full-day CFT workshop with Dr. Paul Gilbert.
@@ -158,7 +165,8 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   catalog prints 1:31:28 for this part; the watch page prints 1:28:31. The
   two figures look transposed (1:31:28 vs 1:28:31); the owner should re-read
   the player before workload arithmetic.
-- Instructor credentials: as SRC-M09-007 (pending institutional page).
+- Instructor credentials: as SRC-M09-007 (Derby staff page, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): part 3 of the
   full-day CFT workshop with Dr. Paul Gilbert.
@@ -174,7 +182,8 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   one-second discrepancy to reconcile. NOTE: the four watch-page parts sum to
   about 5:10:56, against the catalog's "total workshop 5:15:31"; the owner
   should re-read the parts before workload arithmetic.
-- Instructor credentials: as SRC-M09-007 (pending institutional page).
+- Instructor credentials: as SRC-M09-007 (Derby staff page, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): part 4 of the
   full-day CFT workshop with Dr. Paul Gilbert.
@@ -188,8 +197,9 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   Derby channel (https://www.youtube.com/watch?v=uZp5-AHHx4k); watch page
   opened 2026-10-25. 2012 Compassionate Mind Foundation Conference, Manchester.
 - Duration: 58:07 (watch page, 2026-10-25; matches the catalog).
-- Instructor credentials: Paul Gilbert OBE (per the description; institutional
-  page pending this session — see credential note).
+- Instructor credentials: Paul Gilbert OBE, Research Professor,
+  University of Derby (Derby staff page:
+  https://www.derby.ac.uk/staff/paul-gilbert/, opened 2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "Compassion and
   the Blocks, Fears and Resistances to Compassion: The Therapeutic
@@ -207,9 +217,11 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   identifiable scholar-presenter channel (@DianeRGehartPhD).
 - Duration: 1:32:56 (watch page, 2026-10-25; catalog prints 1:32:57 — a
   one-second discrepancy to reconcile).
-- Instructor credentials: Diane R. Gehart, Professor Emerita, California
-  State University, Northridge; Founder of the Therapy that Works Institute
-  (per the description; institutional page pending this session).
+- Instructor credentials: Diane R. Gehart, Professor Emeritus of Educational
+  Psychology and Counseling, California State University, Northridge; Founder
+  of the Therapy that Works Institute (CSUN faculty catalog:
+  https://catalog.csun.edu/academics/epc/faculty/gehart-diane-r/, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): an introduction to
   CBT for mental health professionals; chapters cover CBT's unifying framework
@@ -226,8 +238,10 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   sCtpCG0i8bo); watch page opened 2026-10-25. UMindfulness lecture series.
 - Duration: 56:34 (watch page, 2026-10-25).
 - Instructor credentials: Zindel Segal, Distinguished Professor of Psychology
-  in Mood Disorders, University of Toronto Scarborough (per the description;
-  institutional page pending this session).
+  in Mood Disorders, University of Toronto Scarborough (UTSC Department of
+  Psychology:
+  https://www.utsc.utoronto.ca/psych/person/zindel-segal, opened
+  2026-10-25).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Segal's research
   on mindfulness meditation and antidepressant medication, and his thoughts
@@ -245,10 +259,11 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
 - Duration: 1:22:53 (watch page, 2026-10-25). DUAL-FIGURE FLAG: the page also
   displays 1:34:03 elsewhere; provenance-noted, the owner should reconcile
   (player re-read) before workload arithmetic.
-- Instructor credentials: John Teasdale, MRC-funded research scientist,
-  Department of Psychiatry, University of Oxford, then the Cognition and Brain
-  Sciences Unit, Cambridge (per the description; institutional page pending
-  this session).
+- Instructor credentials: John Teasdale, FBA, formerly MRC research
+  scientist, Department of Psychiatry, University of Oxford, then the MRC
+  Cognition and Brain Sciences Unit, Cambridge (CBSU alumni page:
+  https://www.mrc-cbu.cam.ac.uk/people/alumni/, opened 2026-10-25; the
+  Unit's history pages record his role in developing MBCT).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Teasdale on the
   framework for devising MBCT; his research on basic psychological processes
@@ -257,12 +272,12 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
 
-## Credential note (Block F, pending pages)
+## Credential note (Block F)
 
-Block F speaker credentials currently rest on the recordings' own
-descriptions for: William R. Miller (SRC-M09-002/004), Stephen Rollnick
-(SRC-M09-005), Paul Gilbert (SRC-M09-007, M14-CFT-01b/c/d, M26-C01), Diane R.
-Gehart (SRC-M09-013), Zindel Segal (SRC-M09-011), John Teasdale
-(SRC-M09-008). Identity, access and duration are otherwise verified above.
-The next verifier or the owner should open one institutional page per speaker
-to close the gate.
+All Block F speaker credentials are verified on opened pages (Miller: UNM
+faculty page; Rollnick: Cardiff honorary/emeritus staff page; Gilbert:
+Derby staff page; Gehart: CSUN faculty catalog; Segal: UTSC psychology
+page; Teasdale: MRC CBU alumni page — all opened 2026-10-25). The open items
+on this degree are the SRC-M09-005 watch-page read (duration and content
+basis) and the SRC-M09-004 commercial-uploader access ruling, both flagged
+in the status section.
