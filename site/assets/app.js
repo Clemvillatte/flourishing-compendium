@@ -16349,6 +16349,290 @@ window.fcDossiersData = {
       "group": "affective-life",
       "status": "published",
       "art": "assets/dossier-art/gratitude.jpg"
+    },
+    {
+      "id": "frustration",
+      "title": "Frustration",
+      "question": "What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Frustration is what a blocked path feels like from inside. The goal is set, the effort is spent, and the world will not cooperate: the code will not compile, the child will not sleep, the career will not move. What the feeling is, and what it asks of the person who has it, is where the accounts split."
+        },
+        {
+          "t": "p",
+          "x": "The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress."
+        },
+        {
+          "t": "p",
+          "x": "The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. Shantideva's patience chapter asks a different question: what use the dejection is whether or not the trouble has a remedy."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "The words around frustration are used loosely, so I keep them apart unless a source joins them:"
+        },
+        {
+          "t": "p",
+          "x": "Anger: Seneca marks where anger begins, inside the response to an apparent injury. The first stirring is not yet anger; anger is what follows assent:"
+        },
+        {
+          "t": "q",
+          "x": "\"the first confusion of a man’s mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve.\" ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Seneca's line is about how anger develops, not a definition of frustration, and I do not treat it as one. Anger has its own dossier."
+        },
+        {
+          "t": "p",
+          "x": "Irritation and annoyance: everyday words here, their boundary with frustration left as loose as ordinary usage leaves it."
+        },
+        {
+          "t": "p",
+          "x": "Patience: the counter-capacity, Schnitker's propensity to wait calmly in the face of frustration or adversity, held in its own group in the map."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on frustration"
+        },
+        {
+          "t": "h2",
+          "x": "What frustration is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[Frustration–aggression hypothesis](card:Frustration%E2%80%93aggression%20hypothesis): the 1939 formulation: aggression as a consequence of frustration, frustration as interference with a goal-response."
+        },
+        {
+          "t": "p",
+          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory): Carver and Scheier's loop, where a second loop watches the rate of progress and yields affect as its error signal: on this view, feeling bad is a reading on the pace."
+        },
+        {
+          "t": "p",
+          "x": "[Patience](card:Patience): Schnitker's research construct, defined against frustration itself."
+        },
+        {
+          "t": "p",
+          "x": "[The irritation of doubt](card:The%20irritation%20of%20doubt): Peirce's name for the discomfort an unresolved belief produces, the discomfort inquiry exists to settle: frustration's cognitive cousin."
+        },
+        {
+          "t": "p",
+          "x": "[The insatiability of craving](card:The%20insatiability%20of%20craving): Schopenhauer's pessimism on desire, on which life is filled with unavoidable frustration, the line quoted below from the encyclopedia entry on him."
+        },
+        {
+          "t": "p",
+          "x": "Schnitker's definition makes patience the counter-construct, and her training study suggested that patience might be modifiable:"
+        },
+        {
+          "t": "q",
+          "x": "\"Patience is the propensity to wait calmly in the face of frustration or adversity.\" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Her patience training program \"led to increased patience, decreased depression, and increased positive affect relative to a control condition, suggesting that patience may be modifiable\" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))."
+        },
+        {
+          "t": "p",
+          "x": "Schopenhauer's line on desire, from the encyclopedia entry on him:"
+        },
+        {
+          "t": "q",
+          "x": "\"In a manner reminiscent of traditional Buddhism, he recognizes that life is filled with unavoidable frustration and acknowledges that the suffering caused by this frustration can itself be reduced by minimizing one’s desires.\" ([Wicks, SEP: Arthur Schopenhauer](https://plato.stanford.edu/entries/schopenhauer/))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The blocked paths"
+        },
+        {
+          "t": "p",
+          "x": "[ERG Theory](card:ERG%20Theory): Alderfer's frustration-regression: when needs in a higher category are frustrated, effort is invested in the lower categories, existence and relatedness."
+        },
+        {
+          "t": "p",
+          "x": "[Effort-reward imbalance](card:Effort-reward%20imbalance): Siegrist's model of the high cost, low gain condition, where continued failed reciprocity at work frustrates basic reward expectations."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomy](card:Autonomy): self-determination research lists autonomy among three basic needs whose satisfaction and frustration track wellness."
+        },
+        {
+          "t": "p",
+          "x": "[Social embeddedness](card:Social%20embeddedness): the belongingness drive, which the review behind the card treats as a need rather than a preference for company."
+        },
+        {
+          "t": "p",
+          "x": "[Noogenic neurosis](card:Noogenic%20neurosis): Frankl's discussion of noogenic neuroses as conflicts concerning values rather than drives; existential frustration is his name for a will to meaning that can be frustrated."
+        },
+        {
+          "t": "p",
+          "x": "[Novelty seeking without commitment](card:Novelty%20seeking%20without%20commitment): the temperament pattern where persistence, the dimension Cloninger's model defines as the tendency to persevere despite frustration and fatigue, is the one missing: many starts, few finishes."
+        },
+        {
+          "t": "h2",
+          "x": "What frustration turns into"
+        },
+        {
+          "t": "p",
+          "x": "The accounts also map where the pressure goes."
+        },
+        {
+          "t": "p",
+          "x": "[Frustration–aggression hypothesis](card:Frustration%E2%80%93aggression%20hypothesis): the original exit: aggression, revised by Berkowitz into inclinations rather than acts, with the reformulation quoted in the section below."
+        },
+        {
+          "t": "p",
+          "x": "[General strain theory](card:General%20strain%20theory): Agnew's criminology of the same pressure. In Agnew's account strain is a negative relation with another person, and the effect of strain runs through negative emotion: the Baylor ISR paper summarises it as, \"GST posits that strain generates negative emotions that provide motivation for deviance as a coping strategy because such emotional forces create pressure for corrective action\" ([Jang and Johnson 2003, hosted by Baylor ISR](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)). For Agnew, anger is the \"most critical emotional reaction\" to strain, though the theory holds that strain raises the whole range of negative emotions ([Jang and Johnson, quoting Agnew 1992 p. 59](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "[Anger](card:Anger): the neighbouring state, held in its own dossier, with the Seneca line drawn in Nearby terms above."
+        },
+        {
+          "t": "p",
+          "x": "[Positive attention training attentional deployment toward positive stimuli](card:Positive%20attention%20training%20attentional%20deployment%20toward%20positive%20stimuli): the attentional exit: in one study summarized in a review, undergraduates who attended to happy faces showed lower state frustration scores after a stress task."
+        },
+        {
+          "t": "h2",
+          "x": "Tolerance: the capacity to stand it"
+        },
+        {
+          "t": "p",
+          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): the clinical construct that splits the perceived capacity to withstand aversive states from the behavioral act of withstanding them, with the DBT module teaching crisis survival and acceptance strategies."
+        },
+        {
+          "t": "p",
+          "x": "The tolerance construct has a clinical shadow. In Rational Emotive Behavior Therapy, low frustration tolerance is one of the four core irrational beliefs:"
+        },
+        {
+          "t": "q",
+          "x": "\"Low frustration tolerance is a secondary irrational belief, and research indicates that it is positively associated with aggressive expression of anger (Martin and Dahlen, 2004), reduced anger control (Moller and Van der Merwe, 1997), poor social adjustment (Watson et al., 1998), addictive behaviors (Ko et al., 2008), anxiety, depression, procrastination, and dysfunctional affect (Harrington, 2005b, 2006).\" ([Turner 2016, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028385/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "That list joins the two failure modes this theme keeps meeting: the hostile exit and the avoidant one. The same source reports the procrastination link, with the founding claim inside it:"
+        },
+        {
+          "t": "q",
+          "x": "\"The link between LFT and procrastination has received much research attention, with Ellis and Knaus (1977, p. 19) regarding LFT as 'the main and the most direct cause of procrastination.'\" ([Turner 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5028385/))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The classical answers"
+        },
+        {
+          "t": "p",
+          "x": "[Read anger as blocked striving with a wounded self-regard](card:SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's protocol. The Ethics defines anger as the desire, \"whereby through hatred we are induced to injure one whom we hate\" (Ethics III, Definitions of the Affects XXXVI, [Elwes translation](https://www.gutenberg.org/ebooks/3800)), and defines evil in the P39 note as \"every kind of pain, especially that which frustrates our longings\" ([Elwes translation](https://www.gutenberg.org/ebooks/3800)). Anger, on the theory, is frustrated longing pressed against a person; the protocol is to name the frustration before deciding what to do with it."
+        },
+        {
+          "t": "p",
+          "x": "[Dissect anger when it arises](card:B105%20%E2%80%94%20Dissect%20anger%20when%20it%20arises): Shantideva's usefulness question from the patience chapter: if a problem has a remedy, what use is the dejection; if there is no remedy, what use is the dejection."
+        },
+        {
+          "t": "p",
+          "x": "[The \"is this up to me?\" check](card:K271%20%E2%80%94%20The%20is%20this%20up%20to%20me%20check): Epictetus's portable test, run at the moment a concern appears: what is up to you gets an action, what is not gets released."
+        },
+        {
+          "t": "h",
+          "x": "Affect and appraisal in one episode"
+        },
+        {
+          "t": "p",
+          "x": "Berkowitz's reformulation of the 1939 model, from the abstract of the review that set it out:"
+        },
+        {
+          "t": "q",
+          "x": "\"A proposed revision of the 1939 model holds that frustrations generate aggressive inclinations to the degree that they arouse negative affect.\" ([Berkowitz 1989, Psychological Bulletin, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Berkowitz proposes that frustration generates aggressive inclinations insofar as it arouses negative affect. The same abstract keeps the person's reading in the picture:"
+        },
+        {
+          "t": "q",
+          "x": "\"Interpretations and attributions can be understood partly in terms of the original analysis but they can also influence the unpleasantness of the thwarting.\" ([Berkowitz 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The REBT tradition names its low frustration tolerance belief as the conviction that discomfort cannot be stood, and the Turner review reports that the belief travels with aggressive expression of anger, reduced anger control, poor social adjustment, addictive behaviors, anxiety, depression, procrastination and dysfunctional affect. My reading of the two together: the affect a blockage arouses and the belief the person holds about that affect are two parts of one episode."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the jump from blockage to response, in either direction: the rush forward into hostility or retaliation, or the collapse into the conviction that the situation cannot be stood. The adaptive direction is the gap between the blockage and the response: the frustration read as information about the path, the belief examined before it is obeyed, and the question asked of the blockage itself, whether it calls for more effort, different effort, or no effort."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[The \"is this up to me?\" check](card:K271%20%E2%80%94%20The%20is%20this%20up%20to%20me%20check): sort the blockage at the moment it appears into what is yours to act on and what is not; act on the first, release the second."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection): take the anger apart, bodily sensation, trigger, story, value, action urge; its appraisal step asks whether a goal is being blocked, which is the question a frustration-borne anger most needs answered."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Challenge-skill calibration](card:K189%20%E2%80%94%20Challenge-skill%20calibration): when the blockage is a mismatch between difficulty and skill, adjust one of the two axes; the model's markers are boredom on one side and anxiety on the other, and Csikszentmihalyi notes that doing the same thing at the same level for long grows boring or frustrating."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the check, the dissection or the calibration, and finds the same blockage met differently a month later, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "h2",
+          "x": "Frustration watched in the mind"
+        },
+        {
+          "t": "p",
+          "x": "[ST457 — Gunaratana's Sequence of Breathing, Distraction, and Return](card:ST457%20%E2%80%94%20Gunaratana%27s%20Sequence%20of%20Breathing%2C%20Distraction%2C%20and%20Return): a meditator watches distraction arise, then frustration over the distraction, then self-condemnation over the frustration, and returns to the breath; the sequence, watched, is a smooth cycle rather than a spiral."
+        },
+        {
+          "t": "h2",
+          "x": "The cost of struggling against the block"
+        },
+        {
+          "t": "p",
+          "x": "[ST332 — Quicksand](card:ST332%20%E2%80%94%20Quicksand): in the film image, kicking and clawing is what takes the person under; the borrowed point is that fighting an inner experience that will not be fought away can leave a person more entangled in it than the experience warranted."
+        },
+        {
+          "t": "h2",
+          "x": "Frustration as an observed state"
+        },
+        {
+          "t": "p",
+          "x": "[ST461 — Kabat-Zinn Starts the Stress Reduction Program](card:ST461%20%E2%80%94%20Kabat-Zinn%20Starts%20the%20Stress%20Reduction%20Program): in Kabat-Zinn's account of the third foundation of mindfulness practice, frustration sits in the list of mental states one becomes intimate with, recognized in the moment of arising without having to react to it."
+        }
+      ],
+      "group": "affective-life",
+      "status": "published",
+      "art": "assets/dossier-art/frustration.jpg"
     }
   ],
   "groups": [
@@ -16383,11 +16667,6 @@ window.fcDossiersData = {
       "id": "right-livelihood",
       "title": "Right Livelihood",
       "group": "eightfold-path"
-    },
-    {
-      "id": "frustration",
-      "title": "Frustration",
-      "group": "affective-life"
     },
     {
       "id": "creation",
