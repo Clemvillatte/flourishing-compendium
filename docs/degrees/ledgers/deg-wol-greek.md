@@ -638,3 +638,53 @@ Transcript-level classification closes the "transcript still unread"
 gap for ST-01. Status remains verified-video; identity, access,
 credentials and durations unchanged. Module production stays behind the
 Phase 0 stop-gate; no attachment is made this session.
+
+## M05-XP-01 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The M05-XP-01 record (Epicurus, Adam Rosenfeld's own PHI 251 session
+21; verified earlier in this ledger, 1:15:39, with the label-broadening
+note already carried in the manifest correction) now carries a
+transcript-level content classification, superseding the
+uploader-description-only basis. Transcript read this session via
+https://youtubetotranscript.com/transcript?v=2u6Z-NaUDAs (rendered
+page; direct raw fetch is Cloudflare-walled).
+
+Content confirmed from the transcript:
+
+- Topic statement: "we're going to look at epicurus we're going to look
+  at how his philosophy functions as a pretty serious practical Guide to
+  Life and then maybe kind of question like is it is that good enough
+  is it maybe too thin"; "I want to spend most of our time today
+  talking about his ethics".
+- Ethics as four claims: "we can think of epicurian Ethics as maybe
+  being summed up by just four truths... the first is this gods are
+  nothing to fear second one is death is nothing to fear the third one
+  is what's good isn't that hard to get and the fourth one is what's bad
+  isn't that hard to endure".
+- Pleasure: "the pleasure seeking life is the best life... all that
+  there is to good stuff is that it's Pleasant".
+- Natural philosophy: "epicurus along with all the other atomists...
+  it's just matter really everything just matter it's Adams [atoms] in
+  the void"; "everything's made of atoms these are uncuttable smallest
+  things".
+- Closing: "that's all I'll see you guys on Thursday" — the session is
+  inside a course sequence.
+
+Content confirms and extends the manifest's label-broadening note: the
+session covers Epicurean natural philosophy (atomism) and ethics
+together, with ethics as the stated focus; the manifest's original
+"Epicurean pleasure doctrine" label is indeed too narrow and the
+broadened label stands. Transcript-level classification closes the
+"transcript still unread" gap for M05-XP-01. Status remains
+verified-video; identity, access, credentials and durations unchanged.
+Module production stays behind the Phase 0 stop-gate; no attachment is
+made this session.
+
+Incidental (flagged, not resolved): the lecturer's own opening frames
+the course as moving through "the presocratic... then we had Socrates
+and we had the early dialogues we had middle later dialogues and then
+we had Aristotle" — a working philosopher's own course sequence that
+treats the pre-Socratics as a stage before Socrates. This does not
+resolve the scope question (whether the Greek walk needs a pre-Socratic
+module or can legitimately exclude them); it is noted as a data point
+for the strategist. The flag is carried forward unchanged.
