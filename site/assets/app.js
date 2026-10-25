@@ -19319,10 +19319,12 @@ function renderAcademyHome(){
   // About note — colophon, carrying the legacy link (owner decides their fate)
   const about = el('div','acad-colophon');
   about.textContent = 'The Academy is the instructional sequence over the Learning Library of curated source records. Records carry mission provenance; gate evidence varies by record, and some inherit unresolved host-gate or duration questions. Views/likes do not matter. Curriculum status: draft; the seven degrees above are in development. The degrees from the earlier edition stay reachable here.';
-  const legacyBtn = el('button','acad-btn ghost','Legacy degrees');
-  legacyBtn.style.marginTop = '10px';
-  legacyBtn.onclick = () => { A.view='legacy'; renderAcademy(); if(window.__fcRoute) window.__fcRoute.set('#view=legacy'); };
-  about.appendChild(legacyBtn);
+  const legacyLink = el('a','acad-btn ghost','Legacy degrees');
+  legacyLink.href = '#view=legacy';
+  legacyLink.style.marginTop = '10px';
+  legacyLink.style.display = 'inline-block';
+  legacyLink.style.textDecoration = 'none';
+  about.appendChild(legacyLink);
   wrap.appendChild(about);
   return wrap;
 }

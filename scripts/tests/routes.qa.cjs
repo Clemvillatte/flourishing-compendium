@@ -42,13 +42,22 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
     home.first.length === 3 && home.first[0].includes('Qi Gong') && home.first[1].includes('Contemplative & Mental Practices') && home.first[2].includes('Psychology 101'),
     JSON.stringify(home.first));
   ok('degrees section: the seven new degrees in owner order',
-    home.second.length === 7 && home.second[0] === 'Psychological Dimensions' && home.second[6] === 'A Walk of Life: Positive Psychology',
+    home.second.length === 7 && JSON.stringify(home.second) === JSON.stringify([
+      'Psychological Dimensions',
+      'A Walk of Life: Daoism',
+      'A Walk of Life: Buddhism',
+      'A Walk of Life: Greek Philosophy',
+      'A Walk of Life: Pragmatism',
+      'A Walk of Life: Existentialism and Existential Therapy',
+      'A Walk of Life: Positive Psychology']),
     JSON.stringify(home.second));
   ok('psych-101 bridge card links straight to the Psychology Lab',
     home.bridgeHref === 'https://the-psychology-lab.vercel.app/' && home.bridgeTarget === '_blank', JSON.stringify(home.bridgeHref));
 
   /* legacy view: footer link, then every legacy degree reachable */
-  await page.click('.acad-colophon button');
+  const legacyHref = await page.evaluate(() => { const a = document.querySelector('.acad-colophon a'); return a ? a.getAttribute('href') : null; });
+  ok('footer legacy control is a real link to #view=legacy', legacyHref === '#view=legacy');
+  await page.click('.acad-colophon a');
   await page.waitForSelector('.acad-hall-grid', { timeout: 15000 });
   const legacy = await page.evaluate(() => ({
     hash: location.hash,
