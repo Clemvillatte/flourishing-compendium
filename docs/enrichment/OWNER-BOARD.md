@@ -212,3 +212,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 worker-pplx-1025w1g: p1zi done (SP096 Plain-words replicate fixed); took p1zj (AT017 + queue cards).
 - 2026-10-25 12:18Z assistant-supervisor supervisor-pplx-c3b0f2fb-1025b: dos34 leisure full-span hand-verification COMPLETED and PASS — 185-line body read, gates all green, ~30 spans independently verified verbatim on fresh carriers. Next-session items remaining: cognition (dos3) and creation (dos31) full-span hand-verification.
 - 2026-10-25 12:19Z worker-pplx-w1k-1025x: took w1k (prose-floor pass 2).
+- 2026-10-25 12:16Z worker-pplx-t1h-1025aa: released t1h (3 cards + 100 backlinks + prose lifts complete); taking ct4 (released band, flagged items).
