@@ -50,7 +50,7 @@ The habit of reading another person's mind from one's own is [egocentric project
 
 The training research separates two states a person can bring to another's pain. In Klimecki and colleagues' study, one group was trained first in empathic resonance and then in compassion; the resonance training raised negative affect and the brain activations associated with empathy for pain, and the compassion training reversed it:
 
-> "We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience." ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/))
+> "We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience." ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23576808&rettype=abstract&retmode=text))
 
 ### Compassion, kindness and care
 
@@ -148,11 +148,11 @@ The naturalist whose discoveries at Gombe redefined the boundary between human a
 
 The shared question: when empathy moves a person to help, whose welfare is the motivation's ultimate goal? Batson's research program says the other's:
 
-> "The empathy-altruism hypothesis claims that prosocial motivation associated with feeling empathy for a person in need is directed toward the ultimate goal of benefiting that person, not toward some subtle form of self-benefit." ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/))
+> "The empathy-altruism hypothesis claims that prosocial motivation associated with feeling empathy for a person in need is directed toward the ultimate goal of benefiting that person, not toward some subtle form of self-benefit." ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3418490&rettype=abstract&retmode=text))
 
 Cialdini's group answered with the opposite interpretation, tested in the paradigm Batson's associates typically used:
 
-> "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))
+> "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3572736&rettype=abstract&retmode=text))
 
 The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. The [altruism theory Batson empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism%20theory%20Batson%20empathy) card records Batson's summary judgment that support for the altruistic reading is remarkably strong and consistent, with the tentative conclusion that empathy-induced altruism is within the human repertoire. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
 

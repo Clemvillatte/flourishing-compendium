@@ -200,3 +200,5 @@ greater to a less perfection."). The checker's NOT FOUND is a fetch
 artifact on the sacred-texts carrier, not a source failure. The other
 happiness flags in the sweep (PubMed, Sage spans) are the documented
 bot-wall exception class. No dossier edits.
+
+- 2026-10-25 11:00:47Z — repair, self-checked, pushed. Five of seven flagged spans fixed. The Wilson and Gilbert 2005 impact-bias span now machine-verifies through the author-manuscript PDF hosted at the University of Florida (bear.warrington.ufl.edu, opened this session; also used as carrier in decision-making). Four PubMed-anchored spans (valuing happiness 21517168; hedonic treadmill 16719675; Dunn 18356530; Aknin 23421360) now machine-verify through NCBI eutils plain-text abstract carriers added as second links. Note: the eutils endpoints rate-limit under rapid repeated fetches (HTTP 429), so a verifier run can transiently report these spans NOT FOUND; re-running after a pause clears it. Remaining flagged: the Spinoza Ethics span (sacred-texts.com now serves a Cloudflare challenge to automated fetchers).

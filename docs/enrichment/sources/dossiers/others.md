@@ -363,3 +363,5 @@ independent passes, all spans exact against opened carriers); no quote
 was newly verified in this pass and no quote text was touched.
 Others is published; the site data does not change until a supervisor
 rebuild, so this is flagged: re-splice others when convenient.
+
+- 2026-10-25 11:00:47Z — repair, self-checked, pushed. Three of eight flagged spans fixed: the PubMed-anchored spans (compassion training 23576808; empathy-altruism 3418490; observer empathy 3572736) are verbatim in the NCBI eutils plain-text abstracts (opened this session), and eutils efetch URLs were added as second carriers; all three now machine-verify. Note: the eutils endpoints rate-limit under rapid repeated fetches (HTTP 429), so a verifier run can transiently report these spans NOT FOUND; re-running after a pause clears it. Remaining flagged spans are anchored to ctext.org (Analects, Mengzi; known bot-wall) and biblehub.com (Matthew 5 KJV) — left for the next pass.

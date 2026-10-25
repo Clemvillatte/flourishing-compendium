@@ -46,7 +46,7 @@ Cognitive styles also differ across cultures: [Analytic vs holistic cognition](h
 
 The dialecticism definition is Spencer-Rodgers and colleagues':
 
-> "Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism." ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/))
+> "Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism." ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/), [NCBI full text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2811254))
 
 ### How do beliefs form, and why do they hold?
 
@@ -154,7 +154,7 @@ The two positions answer the same question, whether the notebook functions as pa
 
 ### Does reasoning cause moral judgments, or explain them afterwards?
 
-Haidt's abstract opens by naming the tradition he is attacking: "Research on moral judgment has been dominated by rationalist models, in which moral judgment is thought to be caused by moral reasoning" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/)). His case against that causal arrow, in his own summary:
+Haidt's abstract opens by naming the tradition he is attacking: "Research on moral judgment has been dominated by rationalist models, in which moral judgment is thought to be caused by moral reasoning" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11699120&rettype=abstract&retmode=text)). His case against that causal arrow, in his own summary:
 
 > "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached." ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/))
 

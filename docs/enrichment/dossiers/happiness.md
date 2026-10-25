@@ -108,7 +108,7 @@ Sidgwick named the same effect as a paradox of hedonism:
 
 Mauss and colleagues tested a version of it. Across two studies they found that valuing happiness was linked to disappointment, and they concluded:
 
-> "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/))
+> "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21517168&rettype=abstract&retmode=text))
 
 The research on intentional activity points the other way, or at least sideways. Lyubomirsky, Sheldon and Schkade propose that happiness has three influences, and that the third can be changed on purpose:
 
@@ -120,7 +120,7 @@ The two claims are less opposed than they look. Mauss and colleagues studied the
 
 The shared question: if people adapt to almost everything, is effort to raise happiness wasted? The treadmill model says so, in the words of the review that set out to revise it:
 
-> "According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality." ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/))
+> "According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality." ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16719675&rettype=abstract&retmode=text))
 
 The same abstract lists revisions, among them that "well-being set points can change under some conditions" and that individuals differ in how they adapt. Lucas's review of panel studies puts the finding from life events in plain terms:
 
@@ -132,15 +132,15 @@ So the treadmill describes part of what happens. Adaptation is real and often us
 
 The shared question: if happiness is the aim, can we judge in advance what serves it? Wilson and Gilbert's review says that forecasts tend to go wrong in a particular direction:
 
-> "They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events." ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))
+> "They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events." ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x), [author manuscript PDF, University of Florida](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/wilson-gilbert-cdips2005.pdf))
 
 Against a purely inward guess, Dunn, Aknin and Norton proposed that a plain, countable choice, whom the money is spent on, mattered:
 
-> "how people spend their money may be at least as important as how much money they earn." ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/))
+> "how people spend their money may be at least as important as how much money they earn." ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/, [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18356530&rettype=abstract&retmode=text)))
 
 The finding has a replication history, and the registered replication report states it with care:
 
-> "Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features." ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/))
+> "Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features." ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32250135&rettype=abstract&retmode=text))
 
 A fair reading is that the direction held up and the size is smaller and less certain than the first paper suggested. The abstracts do not tell a reader how big the effect is in a given life.
 
@@ -152,7 +152,7 @@ The shared question: does the word name one experience everywhere? Joshanloo's r
 
 The abstract does not list the six differences, and this dossier does not guess at them; the card summarises the review. On the other side, one cross-country study of giving reports:
 
-> "This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending)." ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/))
+> "This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending)." ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23421360&rettype=abstract&retmode=text))
 
 The two findings answer different questions. One is about what people mean by the good life; the other is about what lifts mood across the countries studied. Both can be true, and the sources held here do not weigh one against the other.
 

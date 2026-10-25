@@ -7164,7 +7164,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on happiness"
+          "x": "Where happiness sits in a life"
         },
         {
           "t": "h2",
@@ -7172,119 +7172,55 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Happiness as activity](card:Happiness%20as%20activity): for Aristotle, happiness is something we do and not something we have."
+          "x": "For Aristotle, [happiness as activity](card:Happiness%20as%20activity) is something we do and not something we have. His claim in Nicomachean Ethics I, that every other good is chosen at least partly for the sake of happiness while happiness is chosen only for itself, is that [everyone desires eudaimonia](card:Everyone%20desires%20eudaimonia)."
         },
         {
           "t": "p",
-          "x": "[Everyone desires eudaimonia](card:Everyone%20desires%20eudaimonia): Aristotle's claim in Nicomachean Ethics I that every other good is chosen at least partly for the sake of happiness, while happiness is chosen only for itself."
+          "x": "His account of happiness as final and self-sufficient is the [sufficient good](card:The%20sufficient%20good), and Aristotle's term for the highest human good, a life of flourishing rather than a passing state of mind, is [eudaimonia](card:Eudaimonia)."
         },
         {
           "t": "p",
-          "x": "[The sufficient good](card:The%20sufficient%20good): Aristotle's account of happiness as final and self-sufficient."
+          "x": "In Epicurus's ethics, the pleasure of a settled state rather than of a process is [katastematic pleasure](card:Katastematic%20pleasure). Freedom from mental disturbance, tranquillity, untroubledness, or serenity of mind, is [ataraxia](card:Ataraxia)."
         },
         {
           "t": "p",
-          "x": "[Eudaimonia](card:Eudaimonia): Aristotle's term for the highest human good: a life of flourishing, not a passing state of mind."
+          "x": "Spinoza's laetitia, defined by a change and not a state, a crossing from a lesser to a greater perfection, is [joy](card:Joy). In my Aristotelian frame, the gladness that belongs to a life going well is [spiritual joy](card:Spiritual%20joy), and Aristotle's account of the pleasure a good person takes in activity consistent with virtue is [the joy of virtue](card:The%20joy%20of%20virtue)."
         },
         {
           "t": "p",
-          "x": "[Katastematic pleasure](card:Katastematic%20pleasure): in Epicurus's ethics, the pleasure of a settled state rather than of a process."
+          "x": "Kant's term for the pleasure taken in beauty, a satisfaction that neither depends on a desire for the object nor produces one, is [disinterested aesthetic pleasure](card:Disinterested%20aesthetic%20pleasure). Mehrabian and Russell's model that locates any emotional state in a space of pleasure, arousal and dominance is the [Pleasure-Arousal-Dominance Model](card:Pleasure-Arousal-Dominance%20Model). Oishi and Westgate's proposed aspect of a good life, centred on varied, interesting experiences and distinguished by them from both happiness and meaning, is [psychological richness](card:Psychological%20richness)."
         },
         {
           "t": "p",
-          "x": "[Ataraxia](card:Ataraxia): freedom from mental disturbance: tranquillity, untroubledness, or serenity of mind."
-        },
-        {
-          "t": "p",
-          "x": "[Joy](card:Joy): Spinoza's laetitia, defined by a change and not a state: a crossing from a lesser to a greater perfection."
-        },
-        {
-          "t": "p",
-          "x": "[Spiritual joy](card:Spiritual%20joy): in my Aristotelian frame, the gladness that belongs to a life going well."
-        },
-        {
-          "t": "p",
-          "x": "[The joy of virtue](card:The%20joy%20of%20virtue): Aristotle's account of the pleasure a good person takes in activity consistent with virtue."
-        },
-        {
-          "t": "p",
-          "x": "[Disinterested aesthetic pleasure](card:Disinterested%20aesthetic%20pleasure): Kant's term for the pleasure taken in beauty, a satisfaction that neither depends on a desire for the object nor produces one."
-        },
-        {
-          "t": "p",
-          "x": "[Pleasure-Arousal-Dominance Model](card:Pleasure-Arousal-Dominance%20Model): Mehrabian and Russell's model that locates any emotional state in a space of pleasure, arousal and dominance."
-        },
-        {
-          "t": "p",
-          "x": "[Psychological richness](card:Psychological%20richness): Oishi and Westgate's proposed aspect of a good life, centred on varied, interesting experiences, and distinguished by them from both happiness and meaning."
-        },
-        {
-          "t": "p",
-          "x": "[Dukkha](card:Dukkha): the first Noble Truth: experience, when grasped, is unsatisfactory."
-        },
-        {
-          "t": "p",
-          "x": "[The vanity of desire](card:The%20vanity%20of%20desire): Schopenhauer's charge that wanting promises a satisfaction it cannot deliver, a failure he takes to be structural."
+          "x": "The first Noble Truth, that experience when grasped is unsatisfactory, is [dukkha](card:Dukkha). Schopenhauer's charge that wanting promises a satisfaction it cannot deliver, a failure he takes to be structural, is [the vanity of desire](card:The%20vanity%20of%20desire)."
         },
         {
           "t": "h2",
-          "x": "Contentment and sufficiency"
+          "x": "What sufficiency has to do with contentment"
         },
         {
           "t": "p",
-          "x": "[Contentment with sufficiency](card:Contentment%20with%20sufficiency): the label I use for the Daodejing's teaching on contentment and sufficiency."
+          "x": "The label I use for the Daodejing's teaching on contentment and sufficiency is [contentment with sufficiency](card:Contentment%20with%20sufficiency). The Daoist practice of knowing what is enough, sizing desire to what life already supplies, is [zhi zu (knowing sufficiency)](card:Zhi%20zu%20%28knowing%20sufficiency%29), and the capacity to find sufficiency and freshness in plain, repeated things, rooted in Daodejing 80, is [delight in the ordinary](card:Delight%20in%20the%20ordinary)."
         },
         {
           "t": "p",
-          "x": "[Zhi zu (knowing sufficiency)](card:Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, sizing desire to what life already supplies."
-        },
-        {
-          "t": "p",
-          "x": "[Delight in the ordinary](card:Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, rooted in Daodejing 80."
-        },
-        {
-          "t": "p",
-          "x": "[Contentment in station](card:Contentment%20in%20station): Epictetus's answer to what to do with a life one did not choose."
-        },
-        {
-          "t": "p",
-          "x": "[Maximizing versus satisficing](card:Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies."
-        },
-        {
-          "t": "p",
-          "x": "[Paradox of choice](card:Paradox%20of%20choice): the idea that having more options can leave people worse off, not better."
+          "x": "Epictetus's answer to what to do with a life one did not choose is [contentment in station](card:Contentment%20in%20station). Two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies are [maximizing versus satisficing](card:Maximizing%20versus%20satisficing), and the idea that having more options can leave people worse off, not better, is the [paradox of choice](card:Paradox%20of%20choice)."
         },
         {
           "t": "h2",
-          "x": "Why happiness slips: adaptation and forecasting"
+          "x": "Why happiness slips"
         },
         {
           "t": "p",
-          "x": "[Hedonic adaptation](card:Hedonic%20adaptation): the hedonic treadmill: people adapt to both good and bad changes, returning toward a relatively stable baseline of happiness."
+          "x": "The hedonic treadmill, in which people adapt to both good and bad changes and return toward a relatively stable baseline of happiness, is [hedonic adaptation](card:Hedonic%20adaptation). Solomon and Corbit's theory that hedonic states are automatically opposed by mechanisms that reduce their intensity is [Opponent-Process Theory](card:Opponent-Process%20Theory)."
         },
         {
           "t": "p",
-          "x": "[Opponent-Process Theory](card:Opponent-Process%20Theory): Solomon and Corbit's theory that hedonic states are automatically opposed by mechanisms that reduce their intensity."
+          "x": "The longitudinal literature on whether people return to baseline happiness after life events is [adaptation research](card:Adaptation%20research). Research on how people adjust to major life changes such as marriage, divorce, unemployment, widowhood and disability is [adaptation to life transitions research](card:Adaptation%20to%20life%20transitions%20research)."
         },
         {
           "t": "p",
-          "x": "[Adaptation research](card:Adaptation%20research): the longitudinal literature on whether people return to baseline happiness after life events."
-        },
-        {
-          "t": "p",
-          "x": "[Adaptation to life transitions research](card:Adaptation%20to%20life%20transitions%20research): research on how people adjust to major life changes such as marriage, divorce, unemployment, widowhood and disability."
-        },
-        {
-          "t": "p",
-          "x": "[Affective forecasting](card:Affective%20forecasting): the prediction of one's own future emotional reactions."
-        },
-        {
-          "t": "p",
-          "x": "[Fading affect bias](card:Fading%20affect%20bias): the finding that negative affect fades faster than positive affect in memory."
-        },
-        {
-          "t": "p",
-          "x": "[Sustainability of well-being gains](card:Sustainability%20of%20well-being%20gains): the question of whether boosts in happiness from intentional effort can outlast the initial lift."
+          "x": "The prediction of one's own future emotional reactions is [affective forecasting](card:Affective%20forecasting). The finding that negative affect fades faster than positive affect in memory is [fading affect bias](card:Fading%20affect%20bias), and the question of whether boosts in happiness from intentional effort can outlast the initial lift is [sustainability of well-being gains](card:Sustainability%20of%20well-being%20gains)."
         },
         {
           "t": "h2",
@@ -7292,23 +7228,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The paradox of hedonism](card:The%20paradox%20of%20hedonism): Sidgwick's finding that pleasure, pursued as a direct target, tends to defeat itself."
+          "x": "Sidgwick's finding that pleasure, pursued as a direct target, tends to defeat itself, is the [paradox of hedonism](card:The%20paradox%20of%20hedonism). The claim, in Frankl and before him in Mill, that happiness is not something one can successfully aim at, is [happiness as by-product](card:Happiness%20as%20by-product)."
         },
         {
           "t": "p",
-          "x": "[Happiness as by-product](card:Happiness%20as%20by-product): the claim, in Frankl and before him in Mill, that happiness is not something one can successfully aim at."
-        },
-        {
-          "t": "p",
-          "x": "[Valuing happiness paradox](card:Valuing%20happiness%20paradox): the finding that making happiness one's goal can reduce it."
-        },
-        {
-          "t": "p",
-          "x": "[The hedonic trap of seeking peak experiences](card:The%20hedonic%20trap%20of%20seeking%20peak%20experiences): Mauss and colleagues' 2011 paper on whether wanting happiness too much can undermine it."
-        },
-        {
-          "t": "p",
-          "x": "[The paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively): the finding that wanting something too much, with happiness as the test case, can cost the very thing wanted."
+          "x": "The finding that making happiness one's goal can reduce it is the [valuing happiness paradox](card:Valuing%20happiness%20paradox). Mauss and colleagues' 2011 paper on whether wanting happiness too much can undermine it is [the hedonic trap of seeking peak experiences](card:The%20hedonic%20trap%20of%20seeking%20peak%20experiences), and the finding that wanting something too much, with happiness as the test case, can cost the very thing wanted is the [paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively)."
         },
         {
           "t": "h2",
@@ -7316,119 +7240,59 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Positive psychology](card:Positive%20psychology): a turn in the discipline toward studying the strengths and conditions that let a life go well, alongside its work on repairing damage."
+          "x": "The turn in the discipline toward studying the strengths and conditions that let a life go well, alongside its work on repairing damage, is [positive psychology](card:Positive%20psychology). Fredrickson's broaden-and-build programme is [positive emotions research](card:Positive%20emotions%20research), and simple, intentional practices meant to raise a person's happiness, such as expressing gratitude or practicing kindness, are [positive activity interventions](card:Positive%20activity%20interventions)."
         },
         {
           "t": "p",
-          "x": "[Positive emotions research](card:Positive%20emotions%20research): Fredrickson's broaden-and-build programme."
+          "x": "The felt recognition of a benefit received is [gratitude](card:Gratitude). The capacity to attend to, appreciate, and amplify positive experience is [savoring](card:Savoring), and the mental state of full immersion in an activity, with energized focus, full involvement, and enjoyment in the process, is [flow](card:Flow)."
         },
         {
           "t": "p",
-          "x": "[Positive activity interventions](card:Positive%20activity%20interventions): simple, intentional practices meant to raise a person's happiness, such as expressing gratitude or practicing kindness."
+          "x": "Stuart Brown's study of what play does to the adults who keep doing it is [play research](card:Play%20research), and his research programme on play as a biological state central to development, mood and adaptability is [the play ethos](card:The%20play%20ethos). The paradox Johan Huizinga builds Homo Ludens around, that play is marked off from ordinary life as not serious yet absorbs the player intensely, is [seriousness about the play](card:Seriousness%20about%20the%20play)."
         },
         {
           "t": "p",
-          "x": "[Gratitude](card:Gratitude): the felt recognition of a benefit received."
+          "x": "Spending money to benefit others, with the finding that how people spend their money may be at least as important as how much they earn, is [prosocial spending](card:Prosocial%20spending). A family of voluntary, other-directed actions, helping, sharing, donating, co-operating and volunteering, is [prosocial behaviour](card:Prosocial%20behaviour)."
         },
         {
           "t": "p",
-          "x": "[Savoring](card:Savoring): the capacity to attend to, appreciate, and amplify positive experience."
+          "x": "The subjective sense of having enough time, together with autonomy over its use, is [time affluence](card:Time%20affluence). The third of the four brahmaviharas, the capacity to feel glad at another's good fortune as if it were one's own, is [mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29)."
         },
         {
           "t": "p",
-          "x": "[Flow](card:Flow): the mental state of full immersion in an activity, with energized focus, full involvement, and enjoyment in the process."
+          "x": "The Daoist art of taking the world lightly, laughing at grandiosity from below, at oneself, and at the brevity that makes laughter precious, is [Zhuangzi's laughter](card:Zhuangzi%27s%20laughter). The Nahuatl difrasismo for art, poetry and metaphor, and by extension the creative activity through which the world was understood, is [flower and song](card:Flower%20and%20song)."
         },
         {
           "t": "p",
-          "x": "[Play research](card:Play%20research): Stuart Brown's study of what play does to the adults who keep doing it."
-        },
-        {
-          "t": "p",
-          "x": "[The play ethos](card:The%20play%20ethos): Stuart Brown's research programme on play as a biological state central to development, mood and adaptability."
-        },
-        {
-          "t": "p",
-          "x": "[Seriousness about the play](card:Seriousness%20about%20the%20play): the paradox Johan Huizinga builds Homo Ludens around: play is marked off from ordinary life as not serious, yet absorbs the player intensely."
-        },
-        {
-          "t": "p",
-          "x": "[Prosocial spending](card:Prosocial%20spending): spending money to benefit others, with the finding that how people spend their money may be at least as important as how much they earn."
-        },
-        {
-          "t": "p",
-          "x": "[Prosocial behaviour](card:Prosocial%20behaviour): a family of voluntary, other-directed actions: helping, sharing, donating, co-operating and volunteering."
-        },
-        {
-          "t": "p",
-          "x": "[Time affluence](card:Time%20affluence): the subjective sense of having enough time, together with autonomy over its use."
-        },
-        {
-          "t": "p",
-          "x": "[Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29): the third of the four brahmaviharas: the capacity to feel glad at another's good fortune as if it were one's own."
-        },
-        {
-          "t": "p",
-          "x": "[Zhuangzi's laughter](card:Zhuangzi%27s%20laughter): the Daoist art of taking the world lightly: laughing at grandiosity from below, at oneself, and at the brevity that makes laughter precious."
-        },
-        {
-          "t": "p",
-          "x": "[Flower and song](card:Flower%20and%20song): the Nahuatl difrasismo for art, poetry and metaphor, and by extension the creative activity through which the world was understood."
-        },
-        {
-          "t": "p",
-          "x": "[Social determinants of well-being](card:Social%20determinants%20of%20well-being): how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income."
-        },
-        {
-          "t": "p",
-          "x": "[Holistic well-being](card:Holistic%20well-being): Ryff's 1989 question of what psychological well-being actually is."
-        },
-        {
-          "t": "p",
-          "x": "[Cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness): Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life."
+          "x": "The finding that how people rate their own lives depends heavily on the social conditions around them, and not only on their own traits or income, is [social determinants of well-being](card:Social%20determinants%20of%20well-being). Ryff's 1989 question of what psychological well-being actually is is [holistic well-being](card:Holistic%20well-being), and Joshanloo's review of Western and Eastern accounts of happiness, identifying six fundamental differences in conceptions of the good life, is [cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness)."
         },
         {
           "t": "h2",
-          "x": "The thinkers"
+          "x": "Who the thinkers are"
         },
         {
           "t": "p",
-          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle): Greek philosopher whose Nicomachean Ethics gives the lasting account of happiness as an activity of a whole life."
+          "x": "The Greek philosopher whose Nicomachean Ethics gives the lasting account of happiness as an activity of a whole life is [Aristotle](card:T002%20%E2%80%94%20Aristotle). The Dutch philosopher whose Ethics defines pleasure and joy by a change in a person's power is [Spinoza](card:T007%20%E2%80%94%20Spinoza%2C%20Baruch)."
         },
         {
           "t": "p",
-          "x": "[Spinoza](card:T007%20%E2%80%94%20Spinoza%2C%20Baruch): Dutch philosopher whose Ethics defines pleasure and joy by a change in a person's power."
-        },
-        {
-          "t": "p",
-          "x": "[Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin): psychologist who began with learned helplessness and, as president of the American Psychological Association in 1998, called for positive psychology."
-        },
-        {
-          "t": "p",
-          "x": "[Csikszentmihalyi](card:T001%20%E2%80%94%20Csikszentmihalyi%2C%20Mihaly): Hungarian-American psychologist, co-founder of positive psychology, who named and mapped flow."
+          "x": "The psychologist who began with learned helplessness and, as president of the American Psychological Association in 1998, called for positive psychology is [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin). The Hungarian-American psychologist, co-founder of positive psychology, who named and mapped flow is [Csikszentmihalyi](card:T001%20%E2%80%94%20Csikszentmihalyi%2C%20Mihaly)."
         },
         {
           "t": "h2",
-          "x": "The stories"
+          "x": "What the stories carry"
         },
         {
           "t": "p",
-          "x": "[169. The Philosopher and the Hedonist](card:ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist): Aristotle sorts the competing theories of the good life: the many say pleasure, and he does not dismiss them lightly."
+          "x": "The story in which Aristotle sorts the competing theories of the good life, where the many say pleasure and he does not dismiss them lightly, is [the Philosopher and the Hedonist](card:ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist). The story of a shy waitress in Montmartre who keeps a catalogue of small pleasures is [Amélie's Small Pleasures](card:ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures)."
         },
         {
           "t": "p",
-          "x": "[305. Amélie's Small Pleasures](card:ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures): a shy waitress in Montmartre keeps a catalogue of small pleasures."
+          "x": "The story of a Tokyo bureaucrat with less than a year to live who tries the pleasures, and they do not work, is [Watanabe Finds the Playground](card:ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground). The study in which Csikszentmihalyi extends the climbers' finding to ordinary life, with participants paged at random moments, is [Flow in the Everyday](card:ST138%20%E2%80%94%20Flow%20in%20the%20Everyday)."
         },
         {
           "t": "p",
-          "x": "[215. Watanabe Finds the Playground](card:ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): a Tokyo bureaucrat with less than a year to live tries the pleasures, and they do not work."
-        },
-        {
-          "t": "p",
-          "x": "[138. Flow in the Everyday](card:ST138%20%E2%80%94%20Flow%20in%20the%20Everyday): Csikszentmihalyi extends the climbers' finding to ordinary life, with participants paged at random moments."
-        },
-        {
-          "t": "p",
-          "x": "[304. Savoring](card:ST304%20%E2%80%94%20Savoring): Fred Bryant's research distinguishes savoring from positive emotion itself."
+          "x": "Fred Bryant's research that distinguishes savoring from positive emotion itself is [Savoring](card:ST304%20%E2%80%94%20Savoring)."
         },
         {
           "t": "h",
@@ -7497,7 +7361,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach.\" ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/))",
+          "x": "\"Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach.\" ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21517168&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -7523,7 +7387,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality.\" ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/))",
+          "x": "\"According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality.\" ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16719675&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -7549,7 +7413,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events.\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))",
+          "x": "\"They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events.\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x), [author manuscript PDF, University of Florida](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/wilson-gilbert-cdips2005.pdf))",
           "s": null
         },
         {
@@ -7558,7 +7422,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"how people spend their money may be at least as important as how much money they earn.\" ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/))",
+          "x": "\"how people spend their money may be at least as important as how much money they earn.\" ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/, [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18356530&rettype=abstract&retmode=text)))",
           "s": null
         },
         {
@@ -7567,7 +7431,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features.\" ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/))",
+          "x": "\"Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features.\" ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32250135&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -7593,7 +7457,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending).\" ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/))",
+          "x": "\"This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending).\" ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23421360&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -8404,7 +8268,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Deciding: decision research — choice under uncertainty, preference and risk — is the subject of the Decision-Making dossier; the judgment material here stops where choosing begins."
+          "x": "Deciding: decision research, which covers choice under uncertainty, preference and risk, is the subject of the Decision-Making dossier; the judgment material here stops where choosing begins."
         },
         {
           "t": "h",
@@ -8433,19 +8297,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Speed also has a budget. [Cognitive load theory](card:Cognitive%20load%20theory), Sweller's theory of working-memory demands in learning, starts from the small capacity of working memory — the same narrow resource the slow system depends on."
+          "x": "Speed also has a budget. [Cognitive load theory](card:Cognitive%20load%20theory), Sweller's theory of working-memory demands in learning, starts from the small capacity of working memory, the same narrow resource the slow system depends on."
         },
         {
           "t": "p",
-          "x": "Not every fast judgment is a bias, though. Expertise can make speed accurate: [Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29) is Gary Klein's account of how experienced decision-makers act fast under pressure — a possible course of action is generated and compared against the situation's constraints. And the quality of slow thinking is itself measurable: [Critical thinking research](card:Critical%20thinking%20research) studies how well people reason and decide, along the Cognitive Reflection Test line, and [Actively open-minded thinking](card:Actively%20open-minded%20thinking), Baron's reasoning style, is the disposition the two speeds leave room for: considering alternatives and evidence against one's own conclusion, not only for it."
+          "x": "Not every fast judgment is a bias, though. Expertise can make speed accurate: [Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29) is Gary Klein's account of how experienced decision-makers act fast under pressure: a possible course of action is generated and compared against the situation's constraints. And the quality of slow thinking is itself measurable: [Critical thinking research](card:Critical%20thinking%20research) studies how well people reason and decide, along the Cognitive Reflection Test line, and [Actively open-minded thinking](card:Actively%20open-minded%20thinking), Baron's reasoning style, is the disposition the two speeds leave room for: considering alternatives and evidence against one's own conclusion, not only for it."
         },
         {
           "t": "h2",
-          "x": "Where does thinking happen — in the head, or in the world?"
+          "x": "Where does thinking happen: in the head, or in the world?"
         },
         {
           "t": "p",
-          "x": "A second question displaces the first: what is doing the thinking? The research programme of [Embodied cognition](card:Embodied%20cognition) moves thinking out of the amodal symbol system and into the body — Barsalou's grounded-cognition manifesto — and [Embedded cognition](card:Embedded%20cognition) lightens it further: thinking happens against, and is lightened by, the environment the thinker is embedded in."
+          "x": "A second question displaces the first: what is doing the thinking? The research programme of [Embodied cognition](card:Embodied%20cognition) moves thinking out of the amodal symbol system and into the body, in Barsalou's grounded-cognition manifesto, and [Embedded cognition](card:Embedded%20cognition) lightens it further: thinking happens against, and is lightened by, the environment the thinker is embedded in."
         },
         {
           "t": "p",
@@ -8463,11 +8327,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The same outward move applies to people. [Dialogic reason](card:Dialogic%20reason) treats understanding and good judgement as arising between people in exchange, rather than inside a single isolated mind — Buber and Habermas."
+          "x": "The same outward move applies to people. [Dialogic reason](card:Dialogic%20reason) treats understanding and good judgement as arising between people in exchange, rather than inside a single isolated mind, in Buber and Habermas."
         },
         {
           "t": "p",
-          "x": "Cognitive styles also differ across cultures: [Analytic vs holistic cognition](card:Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](card:Dialectical%20thinking) carries the account of naïve dialecticism — lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form."
+          "x": "Cognitive styles also differ across cultures: [Analytic vs holistic cognition](card:Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](card:Dialectical%20thinking) carries the account of naïve dialecticism, lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form."
         },
         {
           "t": "p",
@@ -8475,7 +8339,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism.\" ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/))",
+          "x": "\"Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism.\" ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/), [NCBI full text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2811254))",
           "s": null
         },
         {
@@ -8484,7 +8348,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Belief as habit](card:Belief%20as%20habit) is Peirce's account in \"How to Make Our Ideas Clear\": a belief is the establishment of a habit of action. And [Holding as hypothesis](card:Holding%20as%20hypothesis) is his practice — treating a strongly held belief as a proposition to be tested rather than a possession to be defended. His own lines:"
+          "x": "[Belief as habit](card:Belief%20as%20habit) is Peirce's account in \"How to Make Our Ideas Clear\": a belief is the establishment of a habit of action. And [Holding as hypothesis](card:Holding%20as%20hypothesis) is his practice: treating a strongly held belief as a proposition to be tested rather than a possession to be defended. His own lines:"
         },
         {
           "t": "q",
@@ -8511,7 +8375,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Belief also has its lay theories. [Implicit theories of intelligence](card:Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](card:Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true — cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly."
+          "x": "Belief also has its lay theories. [Implicit theories of intelligence](card:Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](card:Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true; cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly."
         },
         {
           "t": "h2",
@@ -8523,11 +8387,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The errors Beck found in depressed patients have a name and a research programme: [Cognitive distortions](card:Cognitive%20distortions) are the idiosyncratic conceptualizations that led him to characterize depression's phenomena in terms of a thought disorder, and [Cognitive distortions research](card:Cognitive%20distortions%20research) works to identify and modify the patterns: catastrophising, overgeneralisation, personalisation. One such pattern is structural: [Dichotomous (black-and-white) thinking](card:Dichotomous%20%28black-and-white%29%20thinking) sorts events into two opposite boxes — all or nothing, right or wrong, safe or dangerous."
+          "x": "The errors Beck found in depressed patients have a name and a research programme: [Cognitive distortions](card:Cognitive%20distortions) are the idiosyncratic conceptualizations that led him to characterize depression's phenomena in terms of a thought disorder, and [Cognitive distortions research](card:Cognitive%20distortions%20research) works to identify and modify the patterns: catastrophising, overgeneralisation, personalisation. One such pattern is structural: [Dichotomous (black-and-white) thinking](card:Dichotomous%20%28black-and-white%29%20thinking) sorts events into two opposite boxes: all or nothing, right or wrong, safe or dangerous."
         },
         {
           "t": "p",
-          "x": "The hurt is also maintained by repetition. [Rumination](card:Rumination), Nolen-Hoeksema's term, is repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting — response styles theory's account of why it travels with depression. The metacognitive wing locates the maintenance one level up: the [Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29) holds that positive and negative metacognitive beliefs maintain worry and rumination, and [Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells) is his name for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
+          "x": "The hurt is also maintained by repetition. [Rumination](card:Rumination), Nolen-Hoeksema's term, is repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting; response styles theory's account of why it travels with depression. The metacognitive wing locates the maintenance one level up: the [Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29) holds that positive and negative metacognitive beliefs maintain worry and rumination, and [Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells) is his name for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
         },
         {
           "t": "p",
@@ -8543,7 +8407,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Between the two lines sit the mindfulness-based and metacognitive programmes. [Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy) is a group program for people who have recovered from depression and want to stay well — systematic mindfulness training combined with elements from cognitive therapy — and [Decentering](card:Decentering) names the capacity it trains: observing thoughts and feelings as mental events rather than as the world."
+          "x": "Between the two lines sit the mindfulness-based and metacognitive programmes. [Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy) is a group program for people who have recovered from depression and want to stay well, combining systematic mindfulness training with elements from cognitive therapy, and [Decentering](card:Decentering) names the capacity it trains: observing thoughts and feelings as mental events rather than as the world."
         },
         {
           "t": "p",
@@ -8551,7 +8415,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The strategy already met in the affect dossier also belongs here: [Cognitive reappraisal](card:Cognitive%20reappraisal) changes an emotional event's meaning so that the feeling that follows changes. And change can happen at the level of a life's direction, not only a thought: [Cognitive transformation theory of desistance](card:Cognitive%20transformation%20theory%20of%20desistance) is Giordano and colleagues' account of how people stop offending — cognitive shifts that recognise new possibilities and reinterpret one's past."
+          "x": "The strategy already met in the affect dossier also belongs here: [Cognitive reappraisal](card:Cognitive%20reappraisal) changes an emotional event's meaning so that the feeling that follows changes. And change can happen at the level of a life's direction, not only a thought: [Cognitive transformation theory of desistance](card:Cognitive%20transformation%20theory%20of%20desistance) is Giordano and colleagues' account of how people stop offending: cognitive shifts that recognise new possibilities and reinterpret one's past."
         },
         {
           "t": "p",
@@ -8585,7 +8449,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Moral thinking was long treated as a fixed staircase. [Cognitive-developmental theory of moral reasoning](card:Cognitive-developmental%20theory%20of%20moral%20reasoning) is Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels, with [Justice reasoning](card:Justice%20reasoning) — justice-as-fairness — as the central moral concept of the program."
+          "x": "Moral thinking was long treated as a fixed staircase. [Cognitive-developmental theory of moral reasoning](card:Cognitive-developmental%20theory%20of%20moral%20reasoning) is Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels, with [Justice reasoning](card:Justice%20reasoning), justice-as-fairness, as the central moral concept of the program."
         },
         {
           "t": "h2",
@@ -8593,15 +8457,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The last movement turns thinking on itself. [Metacognition](card:Metacognition) is thinking about thinking — Flavell's 1979 article and its four classes of phenomena — and [Metacognitive monitoring](card:Metacognitive%20monitoring) is the assessment of one's own cognitive activity, including memory and comprehension. People differ in appetite for the effort: [Need for cognition](card:Need%20for%20cognition) is Cacioppo and Petty's 1982 construct, a stable individual difference in how much people engage in and enjoy effortful thinking."
+          "x": "The last movement turns thinking on itself. [Metacognition](card:Metacognition) is thinking about thinking, in Flavell's 1979 article and its four classes of phenomena, and [Metacognitive monitoring](card:Metacognitive%20monitoring) is the assessment of one's own cognitive activity, including memory and comprehension. People differ in appetite for the effort: [Need for cognition](card:Need%20for%20cognition) is Cacioppo and Petty's 1982 construct, a stable individual difference in how much people engage in and enjoy effortful thinking."
         },
         {
           "t": "p",
-          "x": "[Unconscious thought theory (Dijksterhuis)](card:Unconscious%20thought%20theory%20%28Dijksterhuis%29), Dijksterhuis and Nordgren's 2006 proposal, treats unconscious thought as a mode with its own strengths: the mind does work on a problem while attention is on something else. A further inward step names the watcher: [The observing self](card:The%20observing%20self) is Deikman's name for awareness itself — the \"I\" that witnesses thoughts, feelings and sensations without being identical to any of them."
+          "x": "[Unconscious thought theory (Dijksterhuis)](card:Unconscious%20thought%20theory%20%28Dijksterhuis%29), Dijksterhuis and Nordgren's 2006 proposal, treats unconscious thought as a mode with its own strengths: the mind does work on a problem while attention is on something else. A further inward step names the watcher: [The observing self](card:The%20observing%20self) is Deikman's name for awareness itself, the \"I\" that witnesses thoughts, feelings and sensations without being identical to any of them."
         },
         {
           "t": "p",
-          "x": "A separate question concerns where judgment comes from. [Moral intuition research](card:Moral%20intuition%20research) asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains — Haidt's 2001 case."
+          "x": "A separate question concerns where judgment comes from. [Moral intuition research](card:Moral%20intuition%20research) asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains, in Haidt's 2001 case."
         },
         {
           "t": "p",
@@ -8639,6 +8503,32 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
+          "x": "Must representativeness be defined before it can explain judgments?"
+        },
+        {
+          "t": "p",
+          "x": "The bias catalogue rests on labels: representativeness, availability, anchoring. Gigerenzer's objection is that a label is not a model, and his reply to Kahneman and Tversky names the obstacle as he sees it:"
+        },
+        {
+          "t": "q",
+          "x": "\"vague heuristics have directed attention away from detailed models of cognitive processes and toward post-hoc accounts of alleged errors\" ([Gigerenzer 1996, Psychological Review](https://sites.stat.columbia.edu/gelman/communication/Gigerenzer1996.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A one-word explanation, he argues, can cover a finding and its opposite: the gambler's fallacy and the hot-hand fallacy were both attributed to representativeness; in Gigerenzer's words, \"No model of similarity can explain a phenomenon and its contrary\" ([Gigerenzer and Brighton 2009](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)). Kahneman and Tversky's answer is that representativeness is measurable, so a formal definition is not needed to test it:"
+        },
+        {
+          "t": "q",
+          "x": "\"This objection misses the point that representativeness (like similarity) can be assessed experimentally; hence it need not be defined a priori. Testing the hypothesis that probability judgments are mediated by representativeness does not require a theoretical model of either concept.\" ([Kahneman and Tversky 1996, Psychological Review](https://pages.ucsd.edu/~mckenzie/KahnemanTversky1996PsychRev.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Their reply also states that Gigerenzer's critique \"misrepresents the authors' theoretical position and ignores critical evidence\", and stands by the finding that judgments of frequency are susceptible to large and systematic biases ([Kahneman and Tversky 1996](https://pages.ucsd.edu/~mckenzie/KahnemanTversky1996PsychRev.pdf)). The disagreement concerns how explicit an explanation of judgment must be. Kahneman and Tversky hold that experimental assessment of representativeness can test its proposed role without a prior theoretical model; Gigerenzer asks for a detailed account of the cognitive process producing the judgment. I prefer explicit process models, because they make the proposed mechanism easier to inspect, and that preference does not make the other side's proposal untestable; their reply describes an empirical test. What I still want to know is when a label is carrying a real process and when it is only naming the outcome."
+        },
+        {
+          "t": "h2",
           "x": "Does cognition extend into the world, or only embed itself in it?"
         },
         {
@@ -8670,7 +8560,32 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two positions answer the same question — does the notebook function as part of the cognitive system, or as a tool the system uses — with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them."
+          "x": "The two positions answer the same question, whether the notebook functions as part of the cognitive system or as a tool the system uses, with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them."
+        },
+        {
+          "t": "h2",
+          "x": "Does reasoning cause moral judgments, or explain them afterwards?"
+        },
+        {
+          "t": "p",
+          "x": "Haidt's abstract opens by naming the tradition he is attacking: \"Research on moral judgment has been dominated by rationalist models, in which moral judgment is thought to be caused by moral reasoning\" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11699120&rettype=abstract&retmode=text)). His case against that causal arrow, in his own summary:"
+        },
+        {
+          "t": "q",
+          "x": "\"The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached.\" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "On the [social intuitionist model](card:Moral%20intuition%20research) the judgment is generally the result of quick, automatic evaluations, and the reasoning arrives afterward to justify it. The model is social in Haidt's own emphasis: it deemphasizes the private reasoning done by individuals and emphasizes social and cultural influences ([Haidt 2001](https://pubmed.ncbi.nlm.nih.gov/11699120/))."
+        },
+        {
+          "t": "p",
+          "x": "The direct counter came in the same journal, two years later. Pizarro and Bloom's commentary on the model presents \"evidence that fast and automatic moral intuitions are actually shaped and informed by prior reasoning\", and concludes that these facts \"limit the strong claims of the social intuitionist model concerning the irrelevance of conscious deliberation\" ([Pizarro and Bloom 2003, Psychological Review](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:12529062&format=json&resultType=core))."
+        },
+        {
+          "t": "p",
+          "x": "Haidt's usually and generally leave reasoning some work, and Pizarro and Bloom challenge how little causal importance the model gives it: their objection is that an immediate response can depend on earlier reflection. I give that objection weight, since a judgment's speed alone does not establish how the intuition behind it was formed. I still want to know when earlier reasoning changes later intuitions, and when reflection changes a judgment already reached."
         },
         {
           "t": "h",
@@ -8719,7 +8634,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 7,
-          "x": "[Cognitive acceptance: watch thoughts float by](card:K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): a chosen recurring thought watched for five minutes floating past like clouds, then noticed for twenty-four hours without judging, changing or avoiding it — the aim being to stop adding struggle on top."
+          "x": "[Cognitive acceptance: watch thoughts float by](card:K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): a chosen recurring thought watched for five minutes floating past like clouds, then noticed for twenty-four hours without judging, changing or avoiding it; the aim being to stop adding struggle on top."
         },
         {
           "t": "n",
@@ -8729,7 +8644,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 9,
-          "x": "[Sounds and Thoughts meditation](card:K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): resting on the breath, then receiving sounds near and far without searching for them, then turning the same receiving stance on thoughts — events arising, lingering, passing."
+          "x": "[Sounds and Thoughts meditation](card:K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): resting on the breath, then receiving sounds near and far without searching for them, then turning the same receiving stance on thoughts: events arising, lingering, passing."
         },
         {
           "t": "n",
@@ -11240,11 +11155,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Friendship](card:Friendship) and [Compassion](card:Compassion) are treated inside this dossier, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier."
+          "x": "[Friendship](card:Friendship) and [Compassion](card:Compassion) are treated here, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier."
         },
         {
           "t": "h",
-          "x": "The map: the entries on others"
+          "x": "Where others sit in a life"
         },
         {
           "t": "h2",
@@ -11252,55 +11167,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Social baseline](card:Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources."
+          "x": "The claim that the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources, is the [social baseline](card:Social%20baseline). Butler's temporal framework, in which partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them, is [co-regulation in relationships](card:Co-regulation%20in%20relationships), and the precise version of the claim that relationship maintenance is a shared regulatory task is [co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships)."
         },
         {
           "t": "p",
-          "x": "[Co-regulation in relationships](card:Co-regulation%20in%20relationships): Butler's temporal framework: partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them."
+          "x": "My name for Fredrickson's positivity resonance, the brief shared positive states that constitute love as a day-to-day biological event, is [micro-moments of connection](card:Micro-moments%20of%20connection). My label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002) is [connectedness in well-being research](card:Connectedness%20in%20well-being%20research)."
         },
         {
           "t": "p",
-          "x": "[Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships): the precise version of the claim: relationship maintenance is a shared regulatory task."
+          "x": "The classic review distinguishing two proposed relationships between support and health is [social support theory](card:Social%20support%20theory%20Cohen%20Wills), and the competing account that support blunts the stress response itself, so its health benefit shows up mainly under stress, is [the stress-buffering model](card:The%20stress-buffering%20model)."
         },
         {
           "t": "p",
-          "x": "[Micro-moments of connection](card:Micro-moments%20of%20connection): my name for Fredrickson's positivity resonance: the brief shared positive states that constitute love as a day-to-day biological event."
+          "x": "Baumeister and Leary's claim that belonging is a need built in prior to choice is [social embeddedness](card:Social%20embeddedness). The subjective, distressing gap between desired and actual social relationships, distinct from objective solitude, is [loneliness](card:Loneliness), and the account of loneliness as an aversive biological signal that evolved to protect the social body, the way pain protects the physical one, is [the evolutionary account of loneliness](card:The%20evolutionary%20account%20of%20loneliness)."
         },
         {
           "t": "p",
-          "x": "[Connectedness in well-being research](card:Connectedness%20in%20well-being%20research): my label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002)."
-        },
-        {
-          "t": "p",
-          "x": "[Social support theory Cohen Wills](card:Social%20support%20theory%20Cohen%20Wills): the classic review distinguishing two proposed relationships between support and health."
-        },
-        {
-          "t": "p",
-          "x": "[The stress-buffering model](card:The%20stress-buffering%20model): the competing account: support blunts the stress response itself, so its health benefit shows up mainly under stress."
-        },
-        {
-          "t": "p",
-          "x": "[Social embeddedness](card:Social%20embeddedness): Baumeister and Leary's claim that belonging is a need built in prior to choice."
-        },
-        {
-          "t": "p",
-          "x": "[Loneliness](card:Loneliness): the subjective, distressing gap between desired and actual social relationships, distinct from objective solitude."
-        },
-        {
-          "t": "p",
-          "x": "[The evolutionary account of loneliness](card:The%20evolutionary%20account%20of%20loneliness): loneliness as an aversive biological signal that evolved to protect the social body, the way pain protects the physical one."
-        },
-        {
-          "t": "p",
-          "x": "[Social contagion](card:Social%20contagion): the spread of affect and behaviour from person to person through observation and induction."
-        },
-        {
-          "t": "p",
-          "x": "[Social attention](card:Social%20attention): attention guided by where other people are attending, most clearly through gaze."
-        },
-        {
-          "t": "p",
-          "x": "[Social determinants of well-being](card:Social%20determinants%20of%20well-being): how people rate their lives depends heavily on the surrounding social conditions, not only on traits or income."
+          "x": "The spread of affect and behaviour from person to person through observation and induction is [social contagion](card:Social%20contagion). Attention guided by where other people are attending, most clearly through gaze, is [social attention](card:Social%20attention). The finding that how people rate their lives depends heavily on the surrounding social conditions, not only on traits or income, is [social determinants of well-being](card:Social%20determinants%20of%20well-being)."
         },
         {
           "t": "p",
@@ -11326,83 +11209,35 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The social self](card:The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct."
+          "x": "Mead's answer to what a self is made of, something with a development arising in social conduct, is [the social self](card:The%20social%20self). William James's term for the version of a person that exists in other people's minds is [the social selves](card:The%20social%20selves). Mead's mechanism, responding to one's own gesture as another person would, is [taking the role of the other](card:Taking%20the%20role%20of%20the%20other)."
         },
         {
           "t": "p",
-          "x": "[The social selves](card:The%20social%20selves): William James's term for the version of a person that exists in other people's minds."
+          "x": "The two ways cultures teach people to be a self are [independent vs interdependent self-construal](card:Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29), and the view of the self as fundamentally connected to other people is [interdependent self-construal](card:Interdependent%20self-construal). Cross and colleagues' name for thinking about yourself in terms of your close relationships is [relational-interdependent self-construal](card:Relational-interdependent%20self-construal)."
         },
         {
           "t": "p",
-          "x": "[Taking the role of the other](card:Taking%20the%20role%20of%20the%20other): Mead's mechanism: responding to one's own gesture as another person would."
-        },
-        {
-          "t": "p",
-          "x": "[Independent vs interdependent self-construal (Markus & Kitayama)](card:Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29): the two ways cultures teach people to be a self."
-        },
-        {
-          "t": "p",
-          "x": "[Interdependent self-construal](card:Interdependent%20self-construal): the view of the self as fundamentally connected to other people."
-        },
-        {
-          "t": "p",
-          "x": "[Relational-interdependent self-construal](card:Relational-interdependent%20self-construal): Cross and colleagues' name for thinking about yourself in terms of your close relationships."
-        },
-        {
-          "t": "p",
-          "x": "[Social identity theory](card:Social%20identity%20theory): Tajfel and Turner's account of how the part of self-image that comes from group membership drives intergroup behaviour."
-        },
-        {
-          "t": "p",
-          "x": "[Embodied social identity](card:Embodied%20social%20identity): social identity lived through the body, anchored in Fanon's account of Blackness under the white gaze."
-        },
-        {
-          "t": "p",
-          "x": "[Erikson's psychosocial theory](card:Erikson%27s%20psychosocial%20theory): the lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity."
+          "x": "Tajfel and Turner's account of how the part of self-image that comes from group membership drives intergroup behaviour is [social identity theory](card:Social%20identity%20theory). Social identity lived through the body, anchored in Fanon's account of Blackness under the white gaze, is [embodied social identity](card:Embodied%20social%20identity). The lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity, are [Erikson's psychosocial theory](card:Erikson%27s%20psychosocial%20theory)."
         },
         {
           "t": "h2",
-          "x": "Empathy: feeling with, and understanding"
+          "x": "How empathy works, and where it fails"
         },
         {
           "t": "p",
-          "x": "[Empathy](card:Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide."
+          "x": "The capacity to feel with and understand another, the umbrella the rest of these entries divide, is [empathy](card:Empathy). Batson's other-oriented warmth, feeling for a person in need with that person's welfare as the aim, is [empathic concern](card:Empathic%20concern). Affective resonance with another's pain that turns self-oriented and leads to withdrawal is [empathic distress](card:Empathic%20distress)."
         },
         {
           "t": "p",
-          "x": "[Empathic concern](card:Empathic%20concern): Batson's other-oriented warmth: feeling for a person in need, with that person's welfare as the aim."
+          "x": "Ickes's construct for how well one person infers what another is actually thinking and feeling is [empathic accuracy](card:Empathic%20accuracy). Rogers's condition, understanding another's experience from inside their frame of reference, is [empathic understanding](card:Empathic%20understanding), and the therapist's perception and communication of that understanding, with the research on whether it helps, is [therapeutic empathy](card:Therapeutic%20empathy)."
         },
         {
           "t": "p",
-          "x": "[Empathic distress](card:Empathic%20distress): affective resonance with another's pain that turns self-oriented and leads to withdrawal."
+          "x": "The extension of the macaque premotor finding to human feeling-with is the [mirror neuron theory of empathy](card:Mirror%20neuron%20theory%20of%20empathy). The sharing of feeling and perspective that comes through stories, in Mar and Oatley's account, is [narrative empathy](card:Narrative%20empathy)."
         },
         {
           "t": "p",
-          "x": "[Empathic accuracy](card:Empathic%20accuracy): Ickes's construct for how well one person infers what another is actually thinking and feeling."
-        },
-        {
-          "t": "p",
-          "x": "[Empathic understanding](card:Empathic%20understanding): Rogers's condition: understanding another's experience from inside their frame of reference."
-        },
-        {
-          "t": "p",
-          "x": "[Therapeutic empathy](card:Therapeutic%20empathy): the therapist's perception and communication of that understanding, and the research on whether it helps."
-        },
-        {
-          "t": "p",
-          "x": "[Mirror neuron theory of empathy](card:Mirror%20neuron%20theory%20of%20empathy): the extension of the macaque premotor finding to human feeling-with."
-        },
-        {
-          "t": "p",
-          "x": "[Narrative empathy](card:Narrative%20empathy): the sharing of feeling and perspective that comes through stories, in Mar and Oatley's account."
-        },
-        {
-          "t": "p",
-          "x": "[Egocentric projection in social inference](card:Egocentric%20projection%20in%20social%20inference): the habit of reading another person's mind from one's own."
-        },
-        {
-          "t": "p",
-          "x": "[Confirming the other](card:Confirming%20the%20other): Buber's term for what the other person does in a dialogic relation."
+          "x": "The habit of reading another person's mind from one's own is [egocentric projection in social inference](card:Egocentric%20projection%20in%20social%20inference). Buber's term for what the other person does in a dialogic relation is [confirming the other](card:Confirming%20the%20other)."
         },
         {
           "t": "p",
@@ -11410,7 +11245,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience.\" ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/))",
+          "x": "\"We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience.\" ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23576808&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -11419,15 +11254,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Compassion](card:Compassion): the wish to relieve suffering when it is seen, trainable as a capacity."
-        },
-        {
-          "t": "p",
-          "x": "[Karuna](card:Karuna): the second brahmavihara: where metta wishes all beings well, karuna responds to their pain."
-        },
-        {
-          "t": "p",
-          "x": "[Metta (loving-kindness)](card:Metta%20%28loving-kindness%29): the first immeasurable: goodwill for all beings without limit."
+          "x": "The wish to relieve suffering when it is seen, trainable as a capacity, is [compassion](card:Compassion). The second brahmavihara, in which metta wishes all beings well and karuna responds to their pain, is [karuna](card:Karuna). The first immeasurable, goodwill for all beings without limit, is [metta (loving-kindness)](card:Metta%20%28loving-kindness%29)."
         },
         {
           "t": "p",
@@ -11440,51 +11267,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29): the third immeasurable: gladness at another's good fortune as if it were one's own."
+          "x": "The third immeasurable, gladness at another's good fortune as if it were one's own, is [mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29). Underwood's construct of love centred on the good of another person is [compassionate love](card:Compassionate%20love), and Gilbert's integrated approach for people with high shame and self-criticism is [compassion-focused therapy](card:Compassion-focused%20therapy)."
         },
         {
           "t": "p",
-          "x": "[Compassionate love](card:Compassionate%20love): Underwood's construct of love centred on the good of another person."
+          "x": "Noddings's analysis of the practice of responding to need, in which attention, feeling and action bend toward the well-being of a particular other, is [care](card:Care). Tronto's account of caring as a species activity with phases, from caring about to care receiving, is [care as practice](card:Care%20as%20practice). The normative theory that moral action centers on relationships and benevolence is [care ethics](card:Care%20ethics)."
         },
         {
           "t": "p",
-          "x": "[Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's integrated approach for people with high shame and self-criticism."
+          "x": "Held's version, in which moral significance is located in relationships and dependencies, with universal rules considered in the abstract as the comparison class, is [the ethics of care](card:The%20ethics%20of%20care). Gilligan's claim that moral reasoning has more than one voice is [Gilligan's ethics-of-care theory](card:Gilligan%27s%20ethics-of-care%20theory)."
         },
         {
           "t": "p",
-          "x": "[Care](card:Care): the practice of responding to need: attention, feeling and action bent toward the well-being of a particular other, in Noddings's analysis."
+          "x": "Confucius's cardinal virtue, the humane disposition toward others, is [ren](card:Ren), and Hume's sentiment grounding the social virtues is [benevolence](card:Benevolence)."
         },
         {
           "t": "p",
-          "x": "[Care as practice](card:Care%20as%20practice): Tronto's account of caring as a species activity with phases, from caring about to care receiving."
-        },
-        {
-          "t": "p",
-          "x": "[Care ethics](card:Care%20ethics): the normative theory that moral action centers on relationships and benevolence."
-        },
-        {
-          "t": "p",
-          "x": "[The ethics of care](card:The%20ethics%20of%20care): Held's version: moral significance is located in relationships and dependencies, with universal rules considered in the abstract as the comparison class."
-        },
-        {
-          "t": "p",
-          "x": "[Gilligan's ethics-of-care theory](card:Gilligan%27s%20ethics-of-care%20theory): the claim that moral reasoning has more than one voice."
-        },
-        {
-          "t": "p",
-          "x": "[Ren](card:Ren): Confucius's cardinal virtue: the humane disposition toward others."
-        },
-        {
-          "t": "p",
-          "x": "[Benevolence](card:Benevolence): Hume's sentiment grounding the social virtues."
-        },
-        {
-          "t": "p",
-          "x": "[Acts of kindness (Lyubomirsky)](card:Acts%20of%20kindness%20%28Lyubomirsky%29): the deliberate kind acts used in positive psychology interventions."
-        },
-        {
-          "t": "p",
-          "x": "[Helper's high](card:Helper%27s%20high): Post's label for the pleasurable state many people report after helping someone."
+          "x": "The deliberate kind acts used in positive psychology interventions are [acts of kindness](card:Acts%20of%20kindness%20%28Lyubomirsky%29), and Post's label for the pleasurable state many people report after helping someone is the [helper's high](card:Helper%27s%20high)."
         },
         {
           "t": "h2",
@@ -11492,35 +11291,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Love](card:Love): the terrain Aristotle opens by calling friendship a thing most necessary for life."
+          "x": "The terrain Aristotle opens by calling friendship a thing most necessary for life is [love](card:Love). The Pauline love of 1 Corinthians 13, patient and keeping no account of evil, is [agape](card:Agape)."
         },
         {
           "t": "p",
-          "x": "[Agape](card:Agape): the Pauline love of 1 Corinthians 13, patient and keeping no account of evil."
+          "x": "Sternberg's account of intimacy, passion and commitment, and the loves their combinations name, is the [Triangular Theory of Love](card:Triangular%20Theory%20of%20Love), and the steady affection between people whose lives are interdependent is [companionate love in adversity](card:Companionate%20love%20in%20adversity)."
         },
         {
           "t": "p",
-          "x": "[Triangular Theory of Love](card:Triangular%20Theory%20of%20Love): Sternberg: intimacy, passion and commitment, and the loves their combinations name."
+          "x": "Aristotle's account of the bond without which no one would choose to live is [friendship](card:Friendship), treated in Nicomachean Ethics VIII and IX as [Aristotelian friendship](card:Aristotelian%20friendship). The kinds counted by what people find lovable, the useful, the pleasant and the good, are the [three kinds of friendship](card:Three%20kinds%20of%20friendship)."
         },
         {
           "t": "p",
-          "x": "[Companionate love in adversity](card:Companionate%20love%20in%20adversity): the steady affection between people whose lives are interdependent."
-        },
-        {
-          "t": "p",
-          "x": "[Friendship](card:Friendship): Aristotle's account of the bond without which no one would choose to live."
-        },
-        {
-          "t": "p",
-          "x": "[Aristotelian friendship](card:Aristotelian%20friendship): the treatment in Nicomachean Ethics VIII and IX."
-        },
-        {
-          "t": "p",
-          "x": "[Three kinds of friendship](card:Three%20kinds%20of%20friendship): the kinds counted by what people find lovable: the useful, the pleasant and the good."
-        },
-        {
-          "t": "p",
-          "x": "[Friendship shapes character](card:Friendship%20shapes%20character): Aristotle's claim that the company we keep shapes the people we become."
+          "x": "Aristotle's claim that the company we keep shapes the people we become is that [friendship shapes character](card:Friendship%20shapes%20character)."
         },
         {
           "t": "p",
@@ -11533,27 +11316,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The wounds of love](card:The%20wounds%20of%20love): Alcibiades' complaint in the Symposium about the injuries Socrates inflicts."
+          "x": "Alcibiades' complaint in the Symposium about the injuries Socrates inflicts is [the wounds of love](card:The%20wounds%20of%20love). The saying from 1 John 4.18 is [perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear)."
         },
         {
           "t": "p",
-          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): 1 John 4.18."
+          "x": "Diotima's staged ascent in the Symposium, from one beautiful body to the beautiful itself, is [the ladder of love](card:The%20ladder%20of%20love). Spinoza's free person, who lives by reason and refuses the rule of fear, is [the free person loves all](card:The%20free%20person%20loves%20all)."
         },
         {
           "t": "p",
-          "x": "[The ladder of love](card:The%20ladder%20of%20love): Diotima's staged ascent in the Symposium, from one beautiful body to the beautiful itself."
-        },
-        {
-          "t": "p",
-          "x": "[The free person loves all](card:The%20free%20person%20loves%20all): Spinoza's free person, who lives by reason and refuses the rule of fear."
-        },
-        {
-          "t": "p",
-          "x": "[Sympatheia](card:Sympatheia): the Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs himself to keep in mind."
-        },
-        {
-          "t": "p",
-          "x": "[The interconnected good](card:The%20interconnected%20good): the Stoic teaching that a person's good is part of one woven system."
+          "x": "The Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs himself to keep in mind is [sympatheia](card:Sympatheia), and the Stoic teaching that a person's good is part of one woven system is [the interconnected good](card:The%20interconnected%20good)."
         },
         {
           "t": "h2",
@@ -11561,101 +11332,35 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Being-for-others](card:Being-for-others): Sartre's ontological principle for the experience of being seen."
+          "x": "Sartre's ontological principle for the experience of being seen is [being-for-others](card:Being-for-others). Mencius' advice to examine oneself when one's actions do not bring the desired response from others is [the mirror for others](card:The%20mirror%20for%20others), and Confucius' instruction in Analects 13.6 is to [rectify the self before others](card:Rectify%20the%20self%20before%20others)."
         },
         {
           "t": "p",
-          "x": "[The mirror for others](card:The%20mirror%20for%20others): Mencius' advice to examine oneself when one's actions do not bring the desired response from others."
+          "x": "Confucius' correction of the very proposal to repay injury with kindness, in Analects 14.34, is the instruction to [repay injury with uprightness, kindness with kindness](card:Repay%20injury%20with%20uprightness%2C%20kindness%20with%20kindness). The Galatians 6.2 command is [bear one another's burdens](card:Bear%20one%20another%27s%20burdens), and the instruction of 2 Timothy 2.2 is [entrust to faithful others](card:Entrust%20to%20faithful%20others)."
         },
         {
           "t": "p",
-          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others): Confucius, Analects 13.6."
+          "x": "The Gospel of Matthew 6 instruction is [almsgiving in secret](card:Almsgiving%20in%20secret). The Buddhist tradition is [dāna (generosity) without expectation](card:D%C4%81na%20%28generosity%29%20without%20expectation), and Aristotle's liberality, the mean concerned with wealth, is [generosity](card:Generosity)."
         },
         {
           "t": "p",
-          "x": "[Repay injury with uprightness, kindness with kindness](card:Repay%20injury%20with%20uprightness%2C%20kindness%20with%20kindness): Confucius, Analects 14.34, where Confucius corrects the very proposal to repay injury with kindness."
+          "x": "The welcome owed to the stranger who arrives, from Levinas and Derrida, is [hospitality](card:Hospitality). Work done for another's sake, in which the server is not left behind, is [service](card:Service)."
         },
         {
           "t": "p",
-          "x": "[Bear one another's burdens](card:Bear%20one%20another%27s%20burdens): Galatians 6.2."
+          "x": "The command of Matthew 5.44 is [enemy-love](card:Enemy-love), and Śāntideva's teaching on forbearance, in which the adversary provides the occasion for patience, is [enemy as teacher](card:Enemy%20as%20teacher)."
         },
         {
           "t": "p",
-          "x": "[Entrust to faithful others](card:Entrust%20to%20faithful%20others): the instruction of 2 Timothy 2.2."
+          "x": "The Gospel of Luke 23.34 saying is [Father, forgive them](card:Father%2C%20forgive%20them). Miller's account of extending care beyond proximity is [cosmopolitan care](card:Cosmopolitan%20care)."
         },
         {
           "t": "p",
-          "x": "[Almsgiving in secret](card:Almsgiving%20in%20secret): Gospel of Matthew 6."
+          "x": "De Beauvoir's conclusion that willing your own freedom commits you to the freedom of other people is [the liberation of others](card:The%20liberation%20of%20others), and the same ethics argued across The Ethics of Ambiguity, that a person's freedom cannot be fulfilled alone, is [the interdependence of freedoms](card:The%20interdependence%20of%20freedoms)."
         },
         {
           "t": "p",
-          "x": "[Dāna (generosity) without expectation](card:D%C4%81na%20%28generosity%29%20without%20expectation): the Buddhist tradition."
-        },
-        {
-          "t": "p",
-          "x": "[Generosity](card:Generosity): Aristotle's liberality, the mean concerned with wealth."
-        },
-        {
-          "t": "p",
-          "x": "[Hospitality](card:Hospitality): the welcome owed to the stranger who arrives, from Levinas and Derrida."
-        },
-        {
-          "t": "p",
-          "x": "[Service](card:Service): work done for another's sake, in which the server is not left behind."
-        },
-        {
-          "t": "p",
-          "x": "[Enemy-love](card:Enemy-love): the command of Matthew 5.44."
-        },
-        {
-          "t": "p",
-          "x": "[Enemy as teacher](card:Enemy%20as%20teacher): Śāntideva on forbearance: the adversary provides the occasion for patience."
-        },
-        {
-          "t": "p",
-          "x": "The Analects record the proposal and Confucius' rejection of it:"
-        },
-        {
-          "t": "q",
-          "x": "Some one said, \"What do you say concerning the principle that injury should be recompensed with kindness?\" The Master said, \"With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness.\" ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The Gospel commands the other response:"
-        },
-        {
-          "t": "q",
-          "x": "\"Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;\" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. The two passages leave open whether they give incompatible answers to one question, what is owed, or answers to two different questions, what is owed and what may be given."
-        },
-        {
-          "t": "p",
-          "x": "[Father, forgive them](card:Father%2C%20forgive%20them): Gospel of Luke 23.34."
-        },
-        {
-          "t": "p",
-          "x": "[Cosmopolitan care](card:Cosmopolitan%20care): Miller's account of extending care beyond proximity."
-        },
-        {
-          "t": "p",
-          "x": "[The liberation of others](card:The%20liberation%20of%20others): de Beauvoir's conclusion that willing your own freedom commits you to the freedom of other people."
-        },
-        {
-          "t": "p",
-          "x": "[The interdependence of freedoms](card:The%20interdependence%20of%20freedoms): the same ethics argued across The Ethics of Ambiguity: a person's freedom cannot be fulfilled alone."
-        },
-        {
-          "t": "p",
-          "x": "[The golden rule](card:The%20golden%20rule): the family of sayings that tell people to treat others as they would wish to be treated."
-        },
-        {
-          "t": "p",
-          "x": "[Wish good for your friend for their own sake](card:Wish%20good%20for%20your%20friend%20for%20their%20own%20sake): Aristotle, Nicomachean Ethics VIII.2."
+          "x": "The family of sayings that tell people to treat others as they would wish to be treated is [the golden rule](card:The%20golden%20rule), and Aristotle's instruction in Nicomachean Ethics VIII.2 is to [wish good for your friend for their own sake](card:Wish%20good%20for%20your%20friend%20for%20their%20own%20sake)."
         },
         {
           "t": "h2",
@@ -11663,43 +11368,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Altruism](card:Altruism): motivation aimed at another person's good for that person's sake, not as a means to one's own."
+          "x": "Motivation aimed at another person's good for that person's sake, not as a means to one's own, is [altruism](card:Altruism). The research program testing whether empathy produces genuinely other-directed motivation is [altruism theory Batson empathy](card:Altruism%20theory%20Batson%20empathy), and the claim that empathic concern produces motivation with the ultimate goal of relieving the other's need is the [empathy-altruism hypothesis](card:Empathy-altruism%20hypothesis)."
         },
         {
           "t": "p",
-          "x": "[Altruism theory Batson empathy](card:Altruism%20theory%20Batson%20empathy): the research program testing whether empathy produces genuinely other-directed motivation."
+          "x": "The family of voluntary actions taken to help and benefit others is [prosocial behaviour](card:Prosocial%20behaviour). Grant and Berg's desire to protect and promote the well-being of others is [prosocial motivation](card:Prosocial%20motivation), and spending money to benefit others, where how people spend may matter as much as how much they earn, is [prosocial spending](card:Prosocial%20spending)."
         },
         {
           "t": "p",
-          "x": "[Empathy-altruism hypothesis](card:Empathy-altruism%20hypothesis): the claim that empathic concern produces motivation with the ultimate goal of relieving the other's need."
+          "x": "The finding that brutal honesty often serves the speaker's discharge, not the listener's benefit, is [prosocial honesty research](card:Prosocial%20honesty%20research). Trivers's model of helping between non-relatives as mutualism with a time lag is [reciprocal altruism research](card:Reciprocal%20altruism%20research)."
         },
         {
           "t": "p",
-          "x": "[Prosocial behaviour](card:Prosocial%20behaviour): the family of voluntary actions taken to help and benefit others."
-        },
-        {
-          "t": "p",
-          "x": "[Prosocial motivation](card:Prosocial%20motivation): Grant and Berg's desire to protect and promote the well-being of others."
-        },
-        {
-          "t": "p",
-          "x": "[Prosocial spending](card:Prosocial%20spending): spending money to benefit others; how people spend may matter as much as how much they earn."
-        },
-        {
-          "t": "p",
-          "x": "[Prosocial honesty research](card:Prosocial%20honesty%20research): the finding that brutal honesty often serves the speaker's discharge, not the listener's benefit."
-        },
-        {
-          "t": "p",
-          "x": "[Reciprocal altruism research](card:Reciprocal%20altruism%20research): Trivers's model of helping between non-relatives as mutualism with a time lag."
-        },
-        {
-          "t": "p",
-          "x": "[Social value orientation](card:Social%20value%20orientation): the measurable difference between people in how much weight they give another person's outcomes."
-        },
-        {
-          "t": "p",
-          "x": "[Social influences on motivation](card:Social%20influences%20on%20motivation): the ways other people, their norms and their support change what a person wants and how strongly."
+          "x": "The measurable difference between people in how much weight they give another person's outcomes is [social value orientation](card:Social%20value%20orientation). The ways other people, their norms and their support change what a person wants and how strongly are [social influences on motivation](card:Social%20influences%20on%20motivation)."
         },
         {
           "t": "h2",
@@ -11707,63 +11388,27 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Relationship categorisation](card:Relationship%20categorisation): how people sort their relationships into kinds and where they draw the boundaries, in Fehr's research."
+          "x": "How people sort their relationships into kinds and where they draw the boundaries, in Fehr's research, is [relationship categorisation](card:Relationship%20categorisation). Duck's phase model of how relationships end is [relationship dissolution research](card:Relationship%20dissolution%20research)."
         },
         {
           "t": "p",
-          "x": "[Relationship dissolution research](card:Relationship%20dissolution%20research): Duck's phase model of how relationships end."
+          "x": "The family of models for how relationships begin, continue and end is [social exchange theory](card:Social%20exchange%20theory). Thibaut and Kelley's account, in which relationship outcomes are judged by comparison level and comparison level for alternatives, is [Interdependence Theory](card:Interdependence%20Theory), and the research line on the interdependent construal of self anchored in Markus and Kitayama is [interdependence research](card:Interdependence%20research)."
         },
         {
           "t": "p",
-          "x": "[Social exchange theory](card:Social%20exchange%20theory): the family of models for how relationships begin, continue and end."
+          "x": "Altman and Taylor's account of relationships deepening through self-disclosure is [social penetration theory](card:Social%20penetration%20theory). Bowlby's account of love bonds, in which the child-caregiver bond is organized by an inborn behavioural system whose business is protection, and the system keeps running in adult relationships, is [attachment theory](card:Attachment%20theory). The sense, built from experience with available and responsive caregivers and partners, that others will be available and supportive when needed, is [attachment security](card:Attachment%20security)."
         },
         {
           "t": "p",
-          "x": "[Interdependence Theory](card:Interdependence%20Theory): Thibaut and Kelley: relationship outcomes judged by comparison level and comparison level for alternatives."
+          "x": "The view that communities largely make the identities of their members is [communitarianism](card:Communitarianism). MacIntyre's local form of life in which identity, roles and goods are constituted together with others is [community](card:Community). McMillan and Chavis's felt experience of belonging and mattering to a group is [sense of community](card:Sense%20of%20community)."
         },
         {
           "t": "p",
-          "x": "[Interdependence research](card:Interdependence%20research): the research line on the interdependent construal of self anchored in Markus and Kitayama."
+          "x": "The study of well-being at the level of settings and systems is [community psychology theory](card:Community%20psychology%20theory), and implementation research in community settings is [community intervention research](card:Community%20intervention%20research)."
         },
         {
           "t": "p",
-          "x": "[Social penetration theory](card:Social%20penetration%20theory): Altman and Taylor's account of relationships deepening through self-disclosure."
-        },
-        {
-          "t": "p",
-          "x": "[Attachment theory](card:Attachment%20theory): Bowlby's account of love bonds: the child-caregiver bond is organized by an inborn behavioural system whose business is protection, and the system keeps running in adult relationships."
-        },
-        {
-          "t": "p",
-          "x": "[Attachment security](card:Attachment%20security): the sense, built from experience with available and responsive caregivers and partners, that others will be available and supportive when needed."
-        },
-        {
-          "t": "p",
-          "x": "[Communitarianism](card:Communitarianism): the view that communities largely make the identities of their members."
-        },
-        {
-          "t": "p",
-          "x": "[Community](card:Community): MacIntyre's local form of life in which identity, roles and goods are constituted together with others."
-        },
-        {
-          "t": "p",
-          "x": "[Sense of community](card:Sense%20of%20community): McMillan and Chavis's felt experience of belonging and mattering to a group."
-        },
-        {
-          "t": "p",
-          "x": "[Community psychology theory](card:Community%20psychology%20theory): the study of well-being at the level of settings and systems."
-        },
-        {
-          "t": "p",
-          "x": "[Community intervention research](card:Community%20intervention%20research): implementation research in community settings."
-        },
-        {
-          "t": "p",
-          "x": "[Parasocial interaction theory](card:Parasocial%20interaction%20theory): Horton and Wohl's observation that mass media give the illusion of face-to-face relationship with the performer."
-        },
-        {
-          "t": "p",
-          "x": "[Parasocial contact hypothesis](card:Parasocial%20contact%20hypothesis): the proposal that contact via media can reduce prejudice."
+          "x": "Horton and Wohl's observation that mass media give the illusion of face-to-face relationship with the performer is [parasocial interaction theory](card:Parasocial%20interaction%20theory). The proposal that contact via media can reduce prejudice is the [parasocial contact hypothesis](card:Parasocial%20contact%20hypothesis)."
         },
         {
           "t": "h2",
@@ -11771,43 +11416,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The theme comes in narrative form too:"
+          "x": "The theme comes in narrative form too. The Confucian wulun, five relationships each defined by reciprocal duties between the two parties, is [the Five Relationships](card:ST243%20%E2%80%94%20The%20Five%20Relationships). The Metta Sutta's mother, willing to risk her life for her only child, made the measure of a boundless heart toward all beings in [the Mother's Protection](card:ST077%20%E2%80%94%20The%20Mother%27s%20Protection)."
         },
         {
           "t": "p",
-          "x": "[ST243 — The Five Relationships](card:ST243%20%E2%80%94%20The%20Five%20Relationships): the Confucian wulun: five relationships, each defined by reciprocal duties between the two parties."
+          "x": "Fred Rogers' sign-off, an ordained minister's theology of the neighbourhood built into a children's show, is [Won't You Be My Neighbour](card:ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour). Levinas' encounter, in which the face addresses me and the address is a command, is [the Face of the Other](card:ST267%20%E2%80%94%20The%20Face%20of%20the%20Other)."
         },
         {
           "t": "p",
-          "x": "[ST077 — The Mother's Protection](card:ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the Metta Sutta's mother, willing to risk her life for her only child, made the measure of a boundless heart toward all beings."
+          "x": "The story in which a failed couple each pay to erase the other from memory, and inside the procedure Joel fights to keep her, is [Joel and Clementine Erase Each Other](card:ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other). Holt-Lunstad's meta-analysis, in which across 148 studies stronger social relationships predicted higher survival odds (OR 1.50), a 50 per cent increased likelihood of survival in the authors' phrasing, is [Loneliness and Mortality](card:ST315%20%E2%80%94%20Loneliness%20and%20Mortality)."
         },
         {
           "t": "p",
-          "x": "[ST079 — Won't You Be My Neighbour](card:ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): Fred Rogers' sign-off, an ordained minister's theology of the neighbourhood built into a children's show."
-        },
-        {
-          "t": "p",
-          "x": "[ST267 — The Face of the Other](card:ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): Levinas' encounter: the face addresses me, and the address is a command."
-        },
-        {
-          "t": "p",
-          "x": "[ST288 — Joel and Clementine Erase Each Other](card:ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple each pay to erase the other from memory; inside the procedure, Joel fights to keep her."
-        },
-        {
-          "t": "p",
-          "x": "[ST315 — Loneliness and Mortality](card:ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: across 148 studies, stronger social relationships predicted higher survival odds (OR 1.50), a 50 per cent increased likelihood of survival in the authors' phrasing."
-        },
-        {
-          "t": "p",
-          "x": "[ST313 — Jane Goodall's Two Careers](card:ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): the naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions."
-        },
-        {
-          "t": "p",
-          "x": "[ST262 — Georges Cares for Anne](card:ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne): Haneke's Amour: the feeding, the washing, the refusal of the hospital, and love that stays at the bedside to the end."
-        },
-        {
-          "t": "p",
-          "x": "[ST194 — Seneca Writes to His Mother](card:ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from exile, Seneca refuses to console his mother with the usuals, and keeps writing to her."
+          "x": "The naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions, is [Jane Goodall's Two Careers](card:ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers). Haneke's Amour, with the feeding, the washing, the refusal of the hospital, and love that stays at the bedside to the end, is [Georges Cares for Anne](card:ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne). From exile, Seneca refuses to console his mother with the usuals, and keeps writing to her, in [Seneca Writes to His Mother](card:ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother)."
         },
         {
           "t": "h",
@@ -11823,7 +11444,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The empathy-altruism hypothesis claims that prosocial motivation associated with feeling empathy for a person in need is directed toward the ultimate goal of benefiting that person, not toward some subtle form of self-benefit.\" ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/))",
+          "x": "\"The empathy-altruism hypothesis claims that prosocial motivation associated with feeling empathy for a person in need is directed toward the ultimate goal of benefiting that person, not toward some subtle form of self-benefit.\" ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3418490&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -11832,12 +11453,90 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy.\" ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))",
+          "x": "\"We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy.\" ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3572736&rettype=abstract&retmode=text))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves."
+          "x": "The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. The [altruism theory Batson empathy](card:Altruism%20theory%20Batson%20empathy) card records Batson's summary judgment that support for the altruistic reading is remarkably strong and consistent, with the tentative conclusion that empathy-induced altruism is within the human repertoire. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves."
+        },
+        {
+          "t": "h2",
+          "x": "What is owed to someone who has done harm?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when another person has injured you, what do you owe them in return? The Analects record the proposal and Confucius' rejection of it:"
+        },
+        {
+          "t": "q",
+          "x": "Some one said, \"What do you say concerning the principle that injury should be recompensed with kindness?\" The Master said, \"With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness.\" ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Gospel commands the other response, and gives its reason in the next verse:"
+        },
+        {
+          "t": "q",
+          "x": "\"Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;\" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good,\" ([Matthew 5.45 KJV](https://www.biblehub.com/kjv/matthew/5.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two reasons differ in kind. Confucius argues from what kindness would mean if it were also the answer to injury: with nothing left to repay kindness with, the distinction that gives kindness its point is lost. Matthew argues from imitation of a giver whose benefit does not sort the evil from the good. I read the passages as answers to one question, since both say what a person owes after harm and both give a reason."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine and not a finding of either text, is that the sharpest difference is about desert: Confucius keeps the return tied to what the other person did, and Matthew cuts it loose. I cannot settle it from the verses alone, because the Analects line gives only a short saying and does not say what \"justice\" requires in a concrete case, and because I have read both in English translation, not in the original languages."
+        },
+        {
+          "t": "h2",
+          "x": "Is care for one's own people a limit on moral concern or a fault in it?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: if every person's good counts, may you give more to your parents and kin than to strangers? The Mohist case for equal concern is stated in W. P. Mei's translation of Universal Love II:"
+        },
+        {
+          "t": "q",
+          "x": "\"Mozi said: It is to regard the state of others as one's own, the houses of others as one's own, the persons of others as one's self.\" ([Mozi, Universal Love II, Mei translation](https://www.themozi.org/chapters/ch15.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Universal Love III gives a reason that works through filial concern itself, as this passage on those who wish to be filial shows:"
+        },
+        {
+          "t": "q",
+          "x": "\"Should I first love others' parents in order that they would love my parents in return, or should I first hate others' parents in order that they would love my parents in return? Of course I should first love others' parents in order that they would love my parents in return.\" ([Mozi, Universal Love III, Mei translation](https://www.themozi.org/chapters/ch16.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Mencius is told of a Mohist, Yi Zhi, and Legge's translation records Yi's position, which already concedes something: \"we are to love all without difference of degree; but the manifestation of love must begin with our parents.\" Mencius answers:"
+        },
+        {
+          "t": "q",
+          "x": "\"Moreover, Heaven gives birth to creatures in such a way that they have one root, and Yi makes them to have two roots. This is the cause of his error.\" ([Mencius, Teng Wen Gong I, Legge translation](https://ctext.org/mengzi/teng-wen-gong-i))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Later, in the passage on the doctrines that fill the age, he states the charge: \"Mo's principle is 'to love all equally,' which does not acknowledge the peculiar affection due to a father.\" ([Mencius, Teng Wen Gong II, Legge translation](https://ctext.org/mengzi/teng-wen-gong-ii))"
+        },
+        {
+          "t": "p",
+          "x": "The two sides are not fully facing each other. Mozi's reasoning in the quoted passage is about outcomes and reciprocity, and Mencius replies about where care comes from, with one root in the family. I cannot conclude from these passages that either side has refuted the other."
+        },
+        {
+          "t": "p",
+          "x": "My lean is that Mencius's objection has most force against the idea that care can be moved outward by calculation, and that Mozi's has most force when partiality becomes license for harm, which his Universal Love I describes for thieves, ministers and feudal lords. The limits: both translators render the key term differently, Mei as universal love and Legge as loving all equally, and I did not check the Chinese, so what exactly jian ai demands (equal feeling or equal weight in action) is left open."
         },
         {
           "t": "h",
