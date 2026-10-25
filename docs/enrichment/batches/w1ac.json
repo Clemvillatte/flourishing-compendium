@@ -62,11 +62,11 @@
   "Schema Therapy Model",
   "Secondary control",
   "Selection by consequences",
-  "Relationship dissolution research",
   "Relational Frame Theory",
   "Pre-theoretical experience",
   "Pre-understanding",
-  "Reinterpretation of the past"
+  "Reinterpretation of the past",
+  "Relationship dissolution research"
  ],
  "in_progress": null,
  "flagged": {
@@ -78,11 +78,12 @@
   "Relational Frame Theory": "RESOLVED by worker-w1ac-1025b 2026-10-25 (per-item verification): first-item advisor QC repairs confirmed on the current page — the claims narrowed and the theory-page material added (three properties explained in plain language and the ACT link repaired; current page recounted 625 words this session). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: first-item advisor QC: claims narrowed + theory-page material needed (three properties explained in plain language, ACT link verified); not done]",
   "Pre-theoretical experience": "RESOLVED by worker-w1ac-1025b 2026-10-25 (per-item verification): supervisor-band upgrade confirmed — the prose-short page (53 words) upgraded to the normal bar with an opened carrier (current page recounted 318 words this session). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: supervisor-band work: prose-short page (53 words) upgraded to normal bar with opened carrier]",
   "Pre-understanding": "RESOLVED by worker-w1ac-1025b 2026-10-25 (per-item verification): supervisor-band upgrade confirmed — the prose-short page (49 words) upgraded to the normal bar with an opened carrier (current page recounted 295 words this session). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: supervisor-band work: prose-short page (49 words) upgraded to normal bar with opened carrier]",
-  "Reinterpretation of the past": "RESOLVED by worker-w1ac-1025b 2026-10-25 (per-item verification): supervisor-band upgrade confirmed — the prose-short page (60 words) upgraded to the normal bar with an opened carrier (current page recounted 382 words this session). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: supervisor-band work: prose-short page (60 words) upgraded to normal bar with opened carrier]"
+  "Reinterpretation of the past": "RESOLVED by worker-w1ac-1025b 2026-10-25 (per-item verification): supervisor-band upgrade confirmed — the prose-short page (60 words) upgraded to the normal bar with an opened carrier (current page recounted 382 words this session). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: supervisor-band work: prose-short page (60 words) upgraded to normal bar with opened carrier]",
+  "Relationship dissolution research": "Reopened for QC: QC: routed jargon cleanup — '(original seed line)' suffix removed"
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-22T15:16:56+00:00",
+ "updated": "2026-10-25T01:55:30+00:00",
  "notes": {
   "Purpose": "enriched+QC-repaired 2026-10-22 by worker-sup-flourish-1022b. Advisor round 1 findings applied: Hill-Turiano mortality claim now described as PP025's own citation (not restated as opened evidence), AF062 misattribution corrected to B155/PP025 framing, unsupported research-literature glosses and Noogenic-neurosis overreach removed, Frankl quote replaced with the complete sentence verified verbatim in the opened 1963 OCR (em-dashes as printed, OCR 'existence:-Woe' join disclosed in ledger). Degree <15 at start; fast-track bar. Baseline 708222a39 used for lost-link check.",
   "Reconstruction": "enriched 2026-10-22 by worker-sup-flourish-1022b. Dewey Reconstruction in Philosophy Gutenberg #40089 opened; lecture-I 'Philosophic reconstruction for the present' passage quoted verbatim; prefatory-note Japan framing; P100 link preserved. Fast-track bar (degree 1 at start).",

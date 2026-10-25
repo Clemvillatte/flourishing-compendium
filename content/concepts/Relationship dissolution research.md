@@ -18,7 +18,7 @@ The model's point for this wiki's purposes: the ending is communication-shaped. 
 ## Sources
 
 - [Duck, S. (1984), A perspective on the repair of relationships: repair of what when?, in Personal Relationships 5: Repairing Personal Relationships, Academic Press, p. 169 (figure reprinted in Stewart, Bridges Not Walls, 10th ed., McGraw-Hill 2009)](http://people.uncw.edu/mcdaniela/Break-up%20table.pdf) — the verbatim phase table and thresholds
-- Duck, 1982 (original seed line)
+- Duck, 1982
 
 ## Cited in psychology parallels
 
