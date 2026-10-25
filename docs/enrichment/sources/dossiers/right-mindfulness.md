@@ -569,3 +569,15 @@ into shorter paragraphs; the file now reports 0 dense paragraphs.
 dossier_check.py exit 0 (48 card links, 15 headers, 10 external
 carriers). Two intermediate saves were pushed mid-revision so the work
 survives a sudden session end.
+
+## QC pass (worker-pplx-dos24-1025g, 2026-10-25)
+
+All mechanical checks pass with no defects found: checker exit 0 (49
+card links, 15 headers, 10 external carriers), density 0 dense,
+quote_verify 12 checked, 0 not found, no prose em dashes. Family
+sweep: 57 unlinked mindfulness-family concept cards, inspected as
+belonging elsewhere (attention-research cards, including the
+focused-attention-meditation anchor card, which the attention
+dossier's manifest assigns to that dossier's focused-attention
+territory). Story cards present (ST069, ST068, ST061, ST074, ST071).
+No dossier changes made in this pass.
