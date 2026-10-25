@@ -78,3 +78,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:03Z worker-pplx-t2b-1025w: w1z Delay-reduction-hypothesis + Expectation-disconfirmation stale flags resolved (pages already honest: Fantino 1969 attribution confirmed, SO046 misfiling disclosed, Oliver 1980 simplification corrected); baton held
 - 2026-10-25 11:04Z worker-pplx-t2b-1025w: w1z 3 more stale flags resolved (Encoding-strategies, Default-effect-theory, Emergence — pages already honest, disclosures verified); baton held
 - 2026-10-25 11:07Z worker-pplx-t2b-1025w: w1j FAE + ITCW stale flags resolved (pages already correct: Ross 1977 definition quoted verbatim, Donovan & Hazlett 2024 attribution fixed); baton held
+- 2026-10-25 11:09Z worker-pplx-t2b-1025w: w1h Righteous-indignation seed cite corrected (NE II.7 + Rhetoric II.9, wrong NE IV.9 noted inline); Ross quote re-verified verbatim; flag resolved

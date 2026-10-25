@@ -7,7 +7,7 @@ file: "Righteous indignation (nemesis)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-“Righteous indignation (nemesis)” — [[T002 — Aristotle|Aristotle]], NE IV.9.
+“Righteous indignation (nemesis)” — [[T002 — Aristotle|Aristotle]], NE II.7 and Rhetoric II.9 (the original entry’s NE IV.9 cite pointed at the shame chapter; see below).
 
 Righteous indignation is Aristotle's name for the pain felt at good fortune that someone has not deserved. He treats it as the right-hand middle between two worse states, envy and spite, and as a sign of good character. The original entry cites NE IV.9, but that chapter is Aristotle's discussion of shame; the passage on indignation sits in Book II, chapter 7 (the survey of the virtues) and in the Rhetoric, Book II, chapter 9.
 
@@ -50,7 +50,7 @@ The original entry's second source, Summa Theologiae II-II, q.158, is about ange
 
 ## Sources
 
-- Aristotle, NE IV.9
+- Aristotle, NE II.7 and Rhetoric II.9 (the original entry's NE IV.9 cite pointed at the shame chapter — corrected above; the two MIT Classics and New Advent carriers carry the verified quotations)
 - [Aristotle, Nicomachean Ethics Book II, trans. W. D. Ross (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — source; quotation verified
 - [Aristotle, Rhetoric Book II, trans. W. Rhys Roberts (MIT Classics)](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) — source; quotation verified
 - [Aquinas, Summa Theologiae II-II q.158 (New Advent)](https://www.newadvent.org/summa/3158.htm) — source; article 1 quotation verified
