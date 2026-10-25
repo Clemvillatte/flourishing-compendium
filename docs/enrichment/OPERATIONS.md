@@ -114,6 +114,15 @@ long evidence records in the ledger, not in the public reading path.
   message: "validators ok" is wrong — 4 of the 6 pages FAIL validation
   on their PRE-EXISTING prose-short seeds (documented above); the
   repairs themselves touched only Related-concepts lines.
+- ADDENDUM 3 (~T+22): gloss review COMPLETE — all 255 applied lines read;
+  8 mirror/circular instances repaired in total (9b99a59f: 6; d2980ba35:
+  2) plus 2 bare links given glosses (b8867b40). Cognition dossier
+  (dos3 rewrite in flight) sampled: checker exit 0 (91 card links, 17
+  headers, 14 carriers); three quotes verified against raw carriers —
+  Peirce How to Make Our Ideas Clear verbatim (peirce.org), Clark &
+  Chalmers coupled-system quote verbatim (consc.net), Clark & Chalmers
+  active-externalism quote verbatim modulo the carrier's own
+  "externalism ," spacing artifact (normalization noted here). PASS.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
