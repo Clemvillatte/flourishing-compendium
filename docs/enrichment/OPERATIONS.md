@@ -1866,3 +1866,17 @@ The advisor's final verification caught overstated records in this session's QC 
   restored after citations in 14 prose lines (blockquote citations
   keep the anger-exemplar style); checks green; app.js rebuilt
   (commit 4399199e5).
+
+# Supervisor QC entry 36 — 2026-10-25 05:27Z (supervisor-pplx-1025h)
+
+- wisdom dossier (published exemplar): QC sample 2/2 verbatim —
+  Aristotle NE VI.7 Ross span ("Therefore wisdom must be intuitive
+  reason combined with scientific knowledge...") and the Plato
+  Apology Jowett span ("He, O men, is the wisest, who, like Socrates,
+  knows that his wisdom is in truth worth nothing.") both verified
+  against the MIT Classics carriers (initial misses were the carrier's
+  interspersed HTML anchors; verbatim once tags are stripped). No
+  edits required.
+- Worker health at 05:25Z: dos34, dos35, k1e all FRESH and active;
+  dos18 released with a durable handoff (WIP state, owner-exception
+  dependency recorded); no dead workers.
