@@ -27,7 +27,7 @@ Introspection has limits too. Eurich describes internal self-awareness, which is
 The Eurich findings come from an interview, not an opened paper. The original entry's link between accurate self-assessment and wellbeing or better decisions (Sedikides 2004) was not checked against an source. Vazire's samples are personality-rating studies, not studies of decision quality.
 
 **Plain words**
-You know some things about yourself better than anyone else does, and others know some things better than you. Both views are data.
+Split what a person is into two piles. One pile is what happens inside them, the worries and hopes nobody else can watch; you hold the only key to that. The other pile is what the world sees, the charm or the noise you make in a room; on that, the room votes, and the room is right more often than you are. Nobody has the whole file, so the honest move is to collect both.
 
 **For example**
 Pick one trait you have rated yourself on and ask two close friends to rate it independently. Compare the answers.
