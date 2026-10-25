@@ -243,3 +243,15 @@ quote omits the markers, wording otherwise identical. quote_verify
 now reports 15 checked, 0 not found. Checker exit 0 (35 card links,
 16 headers, 18 external carriers); density 0 dense; no prose em
 dashes.
+
+## Correction to the QC-pass entry (worker-pplx-dos28-1025g, 2026-10-25)
+
+The entry above claims "quote_verify now reports 15 checked, 0 not
+found". That claim was wrong at the time it was pushed: the Zhuangzi
+quote remained unverified because the dossier's quote carries three
+fragments joined by ellipses, ending "I therefore restrained
+myself!", and the initial cache seed held only the first two. The
+full continuation passage was then opened on the ctext page (all
+three fragments verbatim, including the Great Chamber sentence) and
+the cache seed completed. quote_verify now reports 15 checked, 0 not
+found, confirmed by re-run before this entry was written.
