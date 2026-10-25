@@ -3058,7 +3058,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). On his account the good is an activity, not a passing state: his account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete). It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). And it belongs to a whole life rather than a lucky stretch:"
+          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). His account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete). It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). He also insists on a complete life:"
         },
         {
           "t": "q",
@@ -3099,11 +3099,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Another part of the answer concerns illness, because its absence is not the same as health. [Keyes's model](https://pubmed.ncbi.nlm.nih.gov/12096700/) likewise makes [complete mental health](card:Complete%20mental%20health%20model) more than the absence of illness: his [two-factor account](card:The%20two-factor%20model%20of%20well-being) treats [mental health and mental illness as related but distinct](https://thefpr.org/wp-content/uploads/Keyes_flourishing.pdf). Removing a disabling condition and having the resources to live well are not the same achievement."
+          "x": "Another part of the answer concerns illness, because its absence is not the same as health. [Keyes's model](https://pubmed.ncbi.nlm.nih.gov/12096700/) likewise makes [complete mental health](card:Complete%20mental%20health%20model) more than the absence of illness: his [two-factor account](card:The%20two-factor%20model%20of%20well-being) treats [mental health and mental illness as related but distinct](https://thefpr.org/wp-content/uploads/Keyes_flourishing.pdf)."
         },
         {
           "t": "p",
-          "x": "The measures also differ in what they count. [Huppert and So](https://pmc.ncbi.nlm.nih.gov/articles/PMC3545194/) define [flourishing through ten features](card:Flourishing%20scale) of positive feeling and functioning; [Seligman](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) proposes [PERMA](card:PERMA%20model): positive emotion, engagement, relationships, meaning and accomplishment. The schemes overlap without agreeing, which is itself telling: a measure of a life embodies a view of what a good life is. I would ask what each measure lets us notice before treating its score as a verdict."
+          "x": "The measures also differ in what they count. [Huppert and So](https://pmc.ncbi.nlm.nih.gov/articles/PMC3545194/) define [flourishing through ten features](card:Flourishing%20scale) of positive feeling and functioning; [Seligman](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) proposes [PERMA](card:PERMA%20model): positive emotion, engagement, relationships, meaning and accomplishment. The schemes overlap without agreeing, which is itself telling: a measure of a life embodies a view of what a good life is. I ask what each measure lets us notice before treating its score as a verdict."
         },
         {
           "t": "h2",
@@ -3151,7 +3151,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Sidgwick](https://www.gutenberg.org/files/46743/46743-h/46743-h.htm) called this [the paradox of hedonism](card:The%20paradox%20of%20hedonism): the desire for pleasure can defeat its own aim when it dominates. [Frankl's response](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) is to let [happiness come as a by-product](card:Happiness%20as%20by-product) of involvement in something beyond the feeling itself. I would distinguish caring about how life feels from making every experience answer the question, “Am I happy enough yet?”"
+          "x": "[Sidgwick](https://www.gutenberg.org/files/46743/46743-h/46743-h.htm) called this [the paradox of hedonism](card:The%20paradox%20of%20hedonism): the desire for pleasure can defeat its own aim when it dominates. [Frankl's response](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) is to let [happiness come as a by-product](card:Happiness%20as%20by-product) of involvement in something beyond the feeling itself. I distinguish caring about how life feels from making every experience answer the question, “Am I happy enough yet?”"
         },
         {
           "t": "p",
@@ -3223,7 +3223,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The capabilities approach](card:The%20capabilities%20approach) distinguishes [real opportunities from the ways of living someone actually achieves](https://plato.stanford.edu/entries/capability-approach/). Nussbaum's [account of flourishing](card:Flourishing%20as%20capability) makes [minimum levels of central capabilities a matter of justice](https://plato.stanford.edu/entries/capability-approach/). I would be wary of praising someone's contentment without asking what alternatives were open to them."
+          "x": "[The capabilities approach](card:The%20capabilities%20approach) distinguishes [real opportunities from the ways of living someone actually achieves](https://plato.stanford.edu/entries/capability-approach/). Nussbaum's [account of flourishing](card:Flourishing%20as%20capability) makes [minimum levels of central capabilities a matter of justice](https://plato.stanford.edu/entries/capability-approach/). I am wary of praising someone's contentment without asking what alternatives were open to them."
         },
         {
           "t": "p",
@@ -3267,7 +3267,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "A practice also has to survive contact with the person doing it. [Research on intentional activities](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Layous-2013.pdf) treats [person–activity fit](card:Person-activity%20fit), motivation and effort as conditions that may shape the benefit of [gratitude or kindness exercises](card:Positive%20activity%20interventions). A temporary lift is not yet a lasting change: [the sustainability model](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf) asks how [well-being gains](card:Sustainability%20of%20well-being%20gains) might endure, rather than promising that they will."
+          "x": "A practice also has to survive contact with the person doing it. [Research on intentional activities](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Layous-2013.pdf) treats [person–activity fit](card:Person-activity%20fit), motivation and effort as conditions that may shape the benefit of [gratitude or kindness exercises](card:Positive%20activity%20interventions). A temporary lift is not yet a lasting change: [the sustainability model](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf) asks under what conditions [well-being gains](card:Sustainability%20of%20well-being%20gains) might endure."
         },
         {
           "t": "p",
@@ -3283,7 +3283,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin), [relieving distress and building well-being are different tasks, with positive psychology supplementing rather than replacing the work of reducing suffering](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf). I would distrust a conception of flourishing that used the second task to lose sight of the first."
+          "x": "For [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin), [relieving distress and building well-being are different tasks, with positive psychology supplementing rather than replacing the work of reducing suffering](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf). I distrust a conception of flourishing that uses the second task to lose sight of the first."
         },
         {
           "t": "h2",
@@ -3355,7 +3355,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Mauss and colleagues](https://pubmed.ncbi.nlm.nih.gov/21517168/) tested how valuing happiness could worsen responses to a happy situation through disappointment at one's own feelings. Their finding concerns emotional expectations in that setting. I would keep the broader question of how to live open, with room for worthwhile activities that bring mixed feelings."
+          "x": "[Mauss and colleagues](https://pubmed.ncbi.nlm.nih.gov/21517168/) tested how valuing happiness could worsen responses to a happy situation through disappointment at one's own feelings. Their finding concerns emotional expectations in that setting. I keep the broader question of how to live open, with room for worthwhile activities that bring mixed feelings."
         },
         {
           "t": "h2",
@@ -3363,7 +3363,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Could two very different lives both flourish? [Self-determination theory](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) proposes that everyone needs autonomy, competence and relatedness, while allowing different goals and preferences. On that view, what is shared is a need, not a script."
+          "x": "Could two very different lives both flourish? [Self-determination theory](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) proposes that everyone needs autonomy, competence and relatedness, while allowing different goals and preferences."
         },
         {
           "t": "p",
@@ -3379,7 +3379,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "I would keep two questions open together: what must no person be denied, and what should each person be free to decide? A shared minimum need not prescribe an identical life."
+          "x": "I keep two questions open together: what must no person be denied, and what should each person be free to decide? A shared minimum need not prescribe an identical life."
         },
         {
           "t": "h",
@@ -3470,7 +3470,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 13,
-          "x": "[Evening examination](card:K274%20%E2%80%94%20Evening%20examination): ask what went well, where you drifted and what you will do differently tomorrow. Choose one adjustment rather than a verdict on your character."
+          "x": "[Evening examination](card:K274%20%E2%80%94%20Evening%20examination): ask what went well, where you drifted and what you will do differently tomorrow. Keep the last answer concrete: one adjustment for tomorrow, naming a situation and an action."
         },
         {
           "t": "n",
@@ -3531,7 +3531,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Ryff's Six Dimensions](card:ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): [Ryff challenges measures with little theoretical grounding](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), then develops six dimensions of positive functioning rather than equating well-being with happiness."
+          "x": "[Ryff's Six Dimensions](card:ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): [Ryff challenges measures with little theoretical grounding](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), then develops six dimensions of positive functioning."
         },
         {
           "t": "p",
@@ -6049,7 +6049,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness — have their own pages; what belongs here are the questions that cut across all of them."
+          "x": "The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness, happiness — are each treated on their own; what belongs here are the questions that cut across all of them."
         },
         {
           "t": "h2",
@@ -6065,11 +6065,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Judgment side: the [Affect heuristic](card:Affect%20heuristic) entry appears in the Cognition dossier from the judgment side; both are listed there and here."
+          "x": "Judgment side: [Affect heuristic](card:Affect%20heuristic) handles the judgment side of the intrusion, treated in the cognition dossier; here the question is what the feeling does."
         },
         {
           "t": "p",
-          "x": "The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being). Feeling well and living well are different questions, and the dossiers keep them different."
+          "x": "The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being). Feeling well and living well are different questions, kept different here."
         },
         {
           "t": "h",
@@ -6351,7 +6351,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body — what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation — the reappraisal material above takes exactly that opening. The two opened passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first."
+          "x": "Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body — what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation — the reappraisal material above takes exactly that opening. The two passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first."
         },
         {
           "t": "h",
@@ -6481,11 +6481,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Concentration: the contemplative account of collectedness is held by [Right concentration](card:Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one. - Focus: the visual-metaphor side is [Focus theory of attention](card:Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](card:Focusing). - Mind-wandering: held as its own object of study by [Mind wandering](card:Mind%20wandering), and treated here as part of attention's life rather than its opposite. - Absorption: the states are [Flow](card:Flow), [Effortless attention](card:Effortless%20attention) and [Hyperfocus theory](card:Hyperfocus%20theory)."
+          "x": "Concentration: the contemplative account of collectedness is held by [Right concentration](card:Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one."
+        },
+        {
+          "t": "p",
+          "x": "Focus: the visual-metaphor side is [Focus theory of attention](card:Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](card:Focusing)."
+        },
+        {
+          "t": "p",
+          "x": "Mind-wandering: held as its own object of study by [Mind wandering](card:Mind%20wandering), and treated here as part of attention's life rather than its opposite."
+        },
+        {
+          "t": "p",
+          "x": "Absorption: the states are [Flow](card:Flow), [Effortless attention](card:Effortless%20attention) and [Hyperfocus theory](card:Hyperfocus%20theory)."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on attention"
+          "x": "The map: the entries on attention"
         },
         {
           "t": "h2",
@@ -6569,12 +6581,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm)) — Primary text; quoted passages checked.",
+          "x": "\"Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"My experience is what I agree to attend to. Only those items which I notice shape my mind — without selective interest, experience is an utter chaos.\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm)) — Primary text; quoted passages checked.",
+          "x": "\"My experience is what I agree to attend to. Only those items which I notice shape my mind — without selective interest, experience is an utter chaos.\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))",
           "s": null
         },
         {
@@ -6583,7 +6595,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))",
           "s": null
         },
         {
@@ -6632,12 +6644,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Effort of attention is thus the essential phenomenon of will.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)) — Primary text; quoted passages checked.",
+          "x": "\"Effort of attention is thus the essential phenomenon of will.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)) — Primary text; quoted passages checked.",
+          "x": "\"The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))",
           "s": null
         },
         {
@@ -6646,7 +6658,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Maintaining attention for more than a few seconds is essential for mastering everyday life. Yet, our ability to stay focused on a particular task is limited, resulting in well-known performance decrements with increasing time on task.\" ([Langner and Eickhoff 2012, Psychological Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/)) — Scholarly review; cited passage checked.",
+          "x": "\"Maintaining attention for more than a few seconds is essential for mastering everyday life. Yet, our ability to stay focused on a particular task is limited, resulting in well-known performance decrements with increasing time on task.\" ([Langner and Eickhoff 2012, Psychological Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/))",
           "s": null
         },
         {
@@ -6727,7 +6739,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The noticing-wandering-returning cycle in meditation](card:The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is the compendium's own framing."
+          "x": "[The noticing-wandering-returning cycle in meditation](card:The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is my own framing."
         },
         {
           "t": "p",
@@ -6751,12 +6763,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"A widespread style of Buddhist practice consists in sustaining selective attention moment by moment on a chosen object, such as a subset of localized sensations caused by respiration. To sustain this focus, the meditator must also constantly monitor the quality of attention. At first, the attention wanders away from the chosen object, and the typical instruction is to recognize the wandering and then restore attention to the chosen object.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)) — Scholarly review; cited passage checked.",
+          "x": "\"A widespread style of Buddhist practice consists in sustaining selective attention moment by moment on a chosen object, such as a subset of localized sensations caused by respiration. To sustain this focus, the meditator must also constantly monitor the quality of attention. At first, the attention wanders away from the chosen object, and the typical instruction is to recognize the wandering and then restore attention to the chosen object.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)) — Scholarly review; cited passage checked.",
+          "x": "\"One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))",
           "s": null
         },
         {
@@ -6765,7 +6777,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention.\" ([Hasenkamp et al. 2012, NeuroImage](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf)) — Study; quoted passage checked.",
+          "x": "\"This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention.\" ([Hasenkamp et al. 2012, NeuroImage](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf))",
           "s": null
         },
         {
@@ -6850,7 +6862,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium holds the theme in narrative form too:"
+          "x": "The theme comes in narrative form too:"
         },
         {
           "t": "p",
@@ -6862,12 +6874,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)) — Primary text; quoted passages checked.",
+          "x": "\"Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)) — Primary text; quoted passages checked.",
+          "x": "\"The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))",
           "s": null
         },
         {
@@ -6884,7 +6896,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))",
           "s": null
         },
         {
@@ -6893,7 +6905,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"This research indicates that distractor perception can be prevented (early selection) when processing of task-relevant stimuli involves high perceptual load, and that although distractors are perceived in tasks of low perceptual load (late selection), their impact on behaviour depends on other types of load, such as that on working memory.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"This research indicates that distractor perception can be prevented (early selection) when processing of task-relevant stimuli involves high perceptual load, and that although distractors are perceived in tasks of low perceptual load (late selection), their impact on behaviour depends on other types of load, such as that on working memory.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))",
           "s": null
         },
         {
@@ -6902,12 +6914,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "What remains unresolved is therefore not the filter's location but its behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less."
+          "x": "What remains unresolved is therefore the filter's behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less."
         },
         {
           "t": "h2",
@@ -6915,16 +6927,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question is not whether wandering has effects but under which conditions the costs outweigh the functions. Killingsworth and Gilbert's smartphone study, sampling 2250 adults at random moments, measured the mood difference:"
+          "x": "The shared question is under which conditions the costs outweigh the functions. Killingsworth and Gilbert's smartphone study, sampling 2250 adults at random moments, measured the mood difference:"
         },
         {
           "t": "q",
-          "x": "\"Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)) — Study; quoted passage checked.",
+          "x": "\"Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)) — Study; quoted passage checked.",
+          "x": "\"In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))",
           "s": null
         },
         {
@@ -6933,12 +6945,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Substantial evidence suggests that mind-wandering typically occurs at a significant cost to performance. Mind-wandering-related deficits in performance have been observed in many contexts, most notably reading, tests of sustained attention, and tests of aptitude.\" ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"Substantial evidence suggests that mind-wandering typically occurs at a significant cost to performance. Mind-wandering-related deficits in performance have been observed in many contexts, most notably reading, tests of sustained attention, and tests of aptitude.\" ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"Contemplating this question leads us to propose the following potential functions of mind-wandering: attentional cycling, dishabituation, and relief from boredom... mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task.\" ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"Contemplating this question leads us to propose the following potential functions of mind-wandering: attentional cycling, dishabituation, and relief from boredom... mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task.\" ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))",
           "s": null
         },
         {
@@ -6957,7 +6969,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -7042,7 +7054,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 17,
-          "x": "[Flow block](card:K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are the compendium's protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow."
+          "x": "[Flow block](card:K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are my protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow."
         },
         {
           "t": "p",
@@ -7059,7 +7071,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -7134,11 +7146,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Joy, pleasure and contentment: held as separate entries below, because the sources treat them as different things. - Subjective well-being: the research name for how people rate their own lives; the cards on adaptation and on sustainability use it. - Eudaimonia: Aristotle's term for the good life, which the English word happiness often translates; held by [Eudaimonia](card:Eudaimonia) and in the Genuine Flourishing dossier."
+          "x": "Joy, pleasure and contentment: held as separate entries below, because the sources treat them as different things."
+        },
+        {
+          "t": "p",
+          "x": "Subjective well-being: the research name for how people rate their own lives; the cards on adaptation and on sustainability use it."
+        },
+        {
+          "t": "p",
+          "x": "Eudaimonia: Aristotle's term for the good life, which the English word happiness often translates; held by [Eudaimonia](card:Eudaimonia) and in the Genuine Flourishing dossier."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on happiness"
+          "x": "The map: the entries on happiness"
         },
         {
           "t": "h2",
@@ -7174,7 +7194,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Spiritual joy](card:Spiritual%20joy): in the compendium's Aristotelian frame, the gladness that belongs to a life going well."
+          "x": "[Spiritual joy](card:Spiritual%20joy): in my Aristotelian frame, the gladness that belongs to a life going well."
         },
         {
           "t": "p",
@@ -7206,7 +7226,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Contentment with sufficiency](card:Contentment%20with%20sufficiency): the compendium's label for the Daodejing's teaching on contentment and sufficiency."
+          "x": "[Contentment with sufficiency](card:Contentment%20with%20sufficiency): the label I use for the Daodejing's teaching on contentment and sufficiency."
         },
         {
           "t": "p",
@@ -7418,7 +7438,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passage checked.",
+          "x": "\"human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))",
           "s": null
         },
         {
@@ -7427,7 +7447,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"By pleasure we mean the absence of pain in the body and of trouble in the soul.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)): Primary text; quoted passage checked.",
+          "x": "\"By pleasure we mean the absence of pain in the body and of trouble in the soul.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html))",
           "s": null
         },
         {
@@ -7436,7 +7456,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Pleasure is the transition of a man from a less to a greater perfection.\" ([Spinoza, Ethics III, Definitions of the Emotions II, Elwes translation](https://www.sacred-texts.com/phi/spinoza/ethics/eth03.htm)): Primary text; quoted passage checked.",
+          "x": "\"Pleasure is the transition of a man from a less to a greater perfection.\" ([Spinoza, Ethics III, Definitions of the Emotions II, Elwes translation](https://www.sacred-texts.com/phi/spinoza/ethics/eth03.htm))",
           "s": null
         },
         {
@@ -7453,7 +7473,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end. Aiming thus at something else, they find happiness by the way.\" ([Mill, Autobiography, ch. 5](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm)): Primary text; quoted passage checked.",
+          "x": "\"Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end. Aiming thus at something else, they find happiness by the way.\" ([Mill, Autobiography, ch. 5](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm))",
           "s": null
         },
         {
@@ -7462,7 +7482,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Here comes into view what we may call the fundamental paradox of Hedonism, that the impulse towards pleasure, if too predominant, defeats its own aim.\" ([Sidgwick, The Methods of Ethics, Book I, ch. IV, §2](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html)): Primary text; quoted passage checked.",
+          "x": "\"Here comes into view what we may call the fundamental paradox of Hedonism, that the impulse towards pleasure, if too predominant, defeats its own aim.\" ([Sidgwick, The Methods of Ethics, Book I, ch. IV, §2](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html))",
           "s": null
         },
         {
@@ -7471,7 +7491,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach.\" ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/)): Secondary source; quoted passage checked.",
+          "x": "\"Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach.\" ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/))",
           "s": null
         },
         {
@@ -7480,7 +7500,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"changing one's intentional activities may provide a happiness-boosting potential that is at least as large as, and probably much larger than, changing one's circumstances.\" ([Lyubomirsky, Sheldon and Schkade, Review of General Psychology 2005](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"changing one's intentional activities may provide a happiness-boosting potential that is at least as large as, and probably much larger than, changing one's circumstances.\" ([Lyubomirsky, Sheldon and Schkade, Review of General Psychology 2005](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf))",
           "s": null
         },
         {
@@ -7497,7 +7517,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality.\" ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/)): Secondary source; quoted passage checked.",
+          "x": "\"According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality.\" ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/))",
           "s": null
         },
         {
@@ -7506,7 +7526,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Although inborn factors certainly matter and some adaptation does occur, events such as divorce, death of a spouse, unemployment, and disability are associated with lasting changes in SWB.\" ([Lucas, Current Directions in Psychological Science 2007, abstract](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/)): Secondary source; quoted passage checked.",
+          "x": "\"Although inborn factors certainly matter and some adaptation does occur, events such as divorce, death of a spouse, unemployment, and disability are associated with lasting changes in SWB.\" ([Lucas, Current Directions in Psychological Science 2007, abstract](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/))",
           "s": null
         },
         {
@@ -7523,7 +7543,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events.\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)): Secondary source; quoted passage checked.",
+          "x": "\"They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events.\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))",
           "s": null
         },
         {
@@ -7532,7 +7552,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"how people spend their money may be at least as important as how much money they earn.\" ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/)): Secondary source; quoted passage checked.",
+          "x": "\"how people spend their money may be at least as important as how much money they earn.\" ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/))",
           "s": null
         },
         {
@@ -7541,7 +7561,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features.\" ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/)): Secondary source; quoted passage checked.",
+          "x": "\"Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features.\" ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/))",
           "s": null
         },
         {
@@ -7558,16 +7578,16 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Six fundamental differences in western and eastern conceptualizations of the good life are identified and discussed in the context of broader psychological theory.\" ([Joshanloo, Journal of Happiness Studies 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)): Secondary source; quoted passage checked.",
+          "x": "\"Six fundamental differences in western and eastern conceptualizations of the good life are identified and discussed in the context of broader psychological theory.\" ([Joshanloo, Journal of Happiness Studies 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The abstract does not list the six differences, and this dossier does not guess at them; the card summarises what the compendium holds. On the other side, one cross-country study of giving reports:"
+          "x": "The abstract does not list the six differences, and this dossier does not guess at them; the card summarises the review. On the other side, one cross-country study of giving reports:"
         },
         {
           "t": "q",
-          "x": "\"This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending).\" ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/)): Secondary source; quoted passage checked.",
+          "x": "\"This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending).\" ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/))",
           "s": null
         },
         {
@@ -7586,7 +7606,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -7668,7 +7688,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -8350,7 +8370,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Thinking is what the mind does with what awareness delivers, and it is a mixed instrument: the same equipment that reasons and plans also biases, ruminates and confuses. How thinking works, and where it reliably fails, has two literatures behind it, the classical analyses of reason and its limits, and the experimental catalogues of bias. The selection and sustaining of awareness is a separate theme with its own dossier; what lives here is what thinking does with what awareness delivers."
+          "x": "Thinking is what the mind does with what awareness delivers, and it is a mixed instrument: the same equipment that reasons and plans also biases, ruminates and confuses. A conclusion can arrive fast, confident, and wrong. The question worth asking of my own thinking is not only whether it is intelligent but whether it is going where I want it to go."
+        },
+        {
+          "t": "p",
+          "x": "Two literatures hold the material: the classical analyses of reason and its limits, and the experimental catalogues of bias. The selection and sustaining of awareness is a separate theme with its own dossier; what lives here is what thinking does with what awareness delivers."
         },
         {
           "t": "h2",
@@ -8358,288 +8382,250 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Thinking: the general capacity is this page's subject; its two speeds are held by [System 1 and System 2](card:System%201%20and%20System%202). - Thoughts: the \"thoughts are not facts\" territory is held here by [Cognitive defusion](card:Cognitive%20defusion) and the meditation cluster it links to. - Reasoning: studied as measured performance by [Critical thinking research](card:Critical%20thinking%20research) and as wise performance by [Wise reasoning](card:Wise%20reasoning). - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](card:Instrumental%20reason) and the philosophy cards it links to."
+          "x": "Thinking: the general capacity; its two speeds are held by [System 1 and System 2](card:System%201%20and%20System%202)."
+        },
+        {
+          "t": "p",
+          "x": "Thoughts: the \"thoughts are not facts\" territory is held here by [Cognitive defusion](card:Cognitive%20defusion) and the meditation cluster it links to."
+        },
+        {
+          "t": "p",
+          "x": "Reasoning: studied as measured performance by [Critical thinking research](card:Critical%20thinking%20research) and as wise performance by [Wise reasoning](card:Wise%20reasoning)."
+        },
+        {
+          "t": "p",
+          "x": "Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](card:Instrumental%20reason) and the philosophy cards it links to."
+        },
+        {
+          "t": "p",
+          "x": "Deciding: decision research — choice under uncertainty, preference and risk — is the subject of the Decision-Making dossier; the judgment material here stops where choosing begins."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on cognition"
+          "x": "How thinking runs, and where it fails"
         },
         {
           "t": "h2",
-          "x": "The two speeds of thought"
+          "x": "How fast does thinking run, and what does speed cost?"
         },
         {
           "t": "p",
-          "x": "[System 1 and System 2](card:System%201%20and%20System%202): Kahneman's names for the two modes: fast, automatic, intuitive thought, and slow, effortful, deliberate thought; the terms borrowed from Stanovich and West."
+          "x": "The most influential answer gives thinking two speeds. [System 1 and System 2](card:System%201%20and%20System%202) are Kahneman's names for the two modes: fast, automatic, intuitive thought, and slow, effortful, deliberate thought. The terms were borrowed from Stanovich and West."
         },
         {
           "t": "p",
-          "x": "[Cognitive-Experiential Self-Theory](card:Cognitive-Experiential%20Self-Theory): Epstein's dual-process theory of personality: a rational system that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven. - [Dual-process theory](card:Dual-process%20theory): the general form — autonomous Type 1 processing distinguished from Type 2 processing that depends on working memory and supports hypothetical reasoning."
+          "x": "The idea has an independent life in personality theory: [Cognitive-Experiential Self-Theory](card:Cognitive-Experiential%20Self-Theory), Epstein's dual-process account, runs a rational system that thinks slowly and logically against an experiential one that is fast, automatic and emotionally driven. The general form is held by [Dual-process theory](card:Dual-process%20theory): autonomous Type 1 processing distinguished from Type 2 processing that depends on working memory and supports hypothetical reasoning."
         },
         {
           "t": "p",
-          "x": "[Cognitive biases](card:Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts, from the founding 1974 paper."
-        },
-        {
-          "t": "p",
-          "x": "[Affect heuristic](card:Affect%20heuristic): the finding that positive or negative feelings about an object drive judgments of its risk and benefit."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive load theory](card:Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning; its starting point is the small capacity of working memory."
-        },
-        {
-          "t": "p",
-          "x": "[Actively open-minded thinking](card:Actively%20open-minded%20thinking): Baron's reasoning style: considering alternatives and evidence against one's own conclusion, not only for it."
-        },
-        {
-          "t": "p",
-          "x": "[Critical thinking research](card:Critical%20thinking%20research): the empirical study of how well people reason and decide; the Cognitive Reflection Test line."
-        },
-        {
-          "t": "p",
-          "x": "[Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Gary Klein's account of how experienced decision-makers act fast under pressure: a possible course of action is generated and compared against the situation's constraints."
-        },
-        {
-          "t": "p",
-          "x": "The founding paper's own summary of the program:"
+          "x": "Why does the fast mode exist at all? Because it is economical, and its errors are the price. [Cognitive biases](card:Cognitive%20biases) are the systematic, predictable errors produced by the mind's shortcuts, from the founding 1974 paper, and feeling is one of the shortcuts: the [Affect heuristic](card:Affect%20heuristic) is the finding that positive or negative feelings about an object drive judgments of its risk and benefit. The founding paper's own summary of the program:"
         },
         {
           "t": "q",
-          "x": "\"This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors.\" ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124)) — Study abstract; quoted passage checked.",
+          "x": "\"This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors.\" ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124))",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "Speed also has a budget. [Cognitive load theory](card:Cognitive%20load%20theory), Sweller's theory of working-memory demands in learning, starts from the small capacity of working memory — the same narrow resource the slow system depends on."
+        },
+        {
+          "t": "p",
+          "x": "Not every fast judgment is a bias, though. Expertise can make speed accurate: [Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29) is Gary Klein's account of how experienced decision-makers act fast under pressure — a possible course of action is generated and compared against the situation's constraints. And the quality of slow thinking is itself measurable: [Critical thinking research](card:Critical%20thinking%20research) studies how well people reason and decide, along the Cognitive Reflection Test line, and [Actively open-minded thinking](card:Actively%20open-minded%20thinking), Baron's reasoning style, is the disposition the two speeds leave room for: considering alternatives and evidence against one's own conclusion, not only for it."
         },
         {
           "t": "h2",
-          "x": "Where thinking happens"
+          "x": "Where does thinking happen — in the head, or in the world?"
         },
         {
           "t": "p",
-          "x": "[Embodied cognition](card:Embodied%20cognition): the research programme that moves thinking out of the amodal symbol system and into the body; Barsalou's grounded-cognition manifesto."
+          "x": "A second question displaces the first: what is doing the thinking? The research programme of [Embodied cognition](card:Embodied%20cognition) moves thinking out of the amodal symbol system and into the body — Barsalou's grounded-cognition manifesto — and [Embedded cognition](card:Embedded%20cognition) lightens it further: thinking happens against, and is lightened by, the environment the thinker is embedded in."
         },
         {
           "t": "p",
-          "x": "[Embedded cognition](card:Embedded%20cognition): the thesis that thinking happens against, and is lightened by, the environment the thinker is embedded in. - [Situated cognition theory](card:Situated%20cognition%20theory): thinking is scaffolded by the situation; tools, places and other people carry part of the cognitive load. - [Enactivism](card:Enactivism): the family of views treating cognition as something a living body does in its environment, rather than something a brain does with internal representations."
-        },
-        {
-          "t": "p",
-          "x": "[Distributed cognition extended mind](card:Distributed%20cognition%20extended%20mind): the two research programmes that deny the skull as the boundary of thinking; Clark and Chalmers's active externalism."
-        },
-        {
-          "t": "p",
-          "x": "[Dialogic reason](card:Dialogic%20reason): understanding and good judgement as arising between people in exchange, not inside a single isolated mind; Buber and Habermas."
-        },
-        {
-          "t": "p",
-          "x": "[Analytic vs holistic cognition](card:Analytic%20vs%20holistic%20cognition): two habits of attention and explanation documented across cultures, in Nisbett's group's account."
-        },
-        {
-          "t": "p",
-          "x": "[Dialectical thinking](card:Dialectical%20thinking): the account of naïve dialecticism: lay beliefs about how the world works, found more strongly in East Asian cultures."
-        },
-        {
-          "t": "p",
-          "x": "[Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing): the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form."
-        },
-        {
-          "t": "p",
-          "x": "Clark and Chalmers's position, in their own words:"
+          "x": "The environment does part of the work. [Situated cognition theory](card:Situated%20cognition%20theory) has thinking scaffolded by the situation, with tools, places and other people carrying part of the cognitive load; [Enactivism](card:Enactivism) treats cognition as something a living body does in its environment, rather than something a brain does with internal representations. The strongest version denies the skull as the boundary of thinking: [Distributed cognition extended mind](card:Distributed%20cognition%20extended%20mind) is the Clark and Chalmers programme of active externalism. Their position, in their own words:"
         },
         {
           "t": "q",
-          "x": "\"In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.",
+          "x": "\"In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.",
+          "x": "\"We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Spencer-Rodgers and colleagues' definition:"
+          "x": "The same outward move applies to people. [Dialogic reason](card:Dialogic%20reason) treats understanding and good judgement as arising between people in exchange, rather than inside a single isolated mind — Buber and Habermas."
+        },
+        {
+          "t": "p",
+          "x": "Cognitive styles also differ across cultures: [Analytic vs holistic cognition](card:Analytic%20vs%20holistic%20cognition) documents two habits of attention and explanation across cultures, in Nisbett's group's account, and [Dialectical thinking](card:Dialectical%20thinking) carries the account of naïve dialecticism — lay beliefs about how the world works, found more strongly in East Asian cultures. One more variation belongs here as a strength rather than a deficit: [Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing), the weak coherence account, describes strength in detail and pattern where the typical style pulls for gist and global form."
+        },
+        {
+          "t": "p",
+          "x": "The dialecticism definition is Spencer-Rodgers and colleagues':"
         },
         {
           "t": "q",
-          "x": "\"Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism.\" ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/)) — Study abstract; quoted passage checked.",
+          "x": "\"Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism.\" ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/))",
           "s": null
         },
         {
           "t": "h2",
-          "x": "How beliefs form and hold"
+          "x": "How do beliefs form, and why do they hold?"
         },
         {
           "t": "p",
-          "x": "[Belief as habit](card:Belief%20as%20habit): Peirce's account in \"How to Make Our Ideas Clear\": belief as the establishment of a rule of action."
-        },
-        {
-          "t": "p",
-          "x": "[Belief perseverance effect](card:Belief%20perseverance%20effect): beliefs persist after their evidential basis has been removed, in Ross, Lepper and Hubbard's demonstration. - [Holding as hypothesis](card:Holding%20as%20hypothesis): Peirce's practice — treating a strongly held belief as a proposition to be tested rather than a possession to be defended. - [Implicit theories of intelligence](card:Implicit%20theories%20of%20intelligence): people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown — Dweck's model. - [Motivated reasoning](card:Motivated%20reasoning): Ziva Kunda's 1990 proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive dissonance](card:Cognitive%20dissonance): Festinger's theory of the mismatch between cognitions and the pressure to reduce it."
-        },
-        {
-          "t": "p",
-          "x": "[Belief evaluation in CBT](card:Belief%20evaluation%20in%20CBT): examining what a thought does, not only whether it is true; cognitive therapy evaluates the content, acceptance-based therapies the context."
-        },
-        {
-          "t": "p",
-          "x": "[Identity-protective cognition](card:Identity-protective%20cognition): Dan Kahan's research program on reasoning in which \"is this true?\" is answered, unnoticed, by \"does this mark me as one of us?\"."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory): the approach to modifying the biases that confer vulnerability to anxiety, targeting attention bias and interpretation bias."
-        },
-        {
-          "t": "p",
-          "x": "Peirce's own lines:"
+          "x": "[Belief as habit](card:Belief%20as%20habit) is Peirce's account in \"How to Make Our Ideas Clear\": a belief is the establishment of a habit of action. And [Holding as hypothesis](card:Holding%20as%20hypothesis) is his practice — treating a strongly held belief as a proposition to be tested rather than a possession to be defended. His own lines:"
         },
         {
           "t": "q",
-          "x": "\"The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise.\" ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.",
+          "x": "\"The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise.\" ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached.\" ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.",
+          "x": "\"As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached.\" ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Festinger's definition:"
+          "x": "Beliefs can also outlive their evidence. The [Belief perseverance effect](card:Belief%20perseverance%20effect) is Ross, Lepper and Hubbard's demonstration that beliefs persist after their evidential basis has been removed. Two further mechanisms have been studied. [Motivated reasoning](card:Motivated%20reasoning) is Ziva Kunda's 1990 proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes; [Identity-protective cognition](card:Identity-protective%20cognition) is Dan Kahan's research programme on reasoning in which \"is this true?\" is answered, unnoticed, by \"does this mark me as one of us?\""
+        },
+        {
+          "t": "p",
+          "x": "Beliefs also cohere, and the pressure of incoherence is felt. [Cognitive dissonance](card:Cognitive%20dissonance) is Festinger's theory of the mismatch between cognitions and the pressure to reduce it:"
         },
         {
           "t": "q",
-          "x": "\"These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant.\" ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html)) — Primary text; quoted passages checked.",
+          "x": "\"These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. [...] If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant.\" ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html))",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "Belief also has its lay theories. [Implicit theories of intelligence](card:Implicit%20theories%20of%20intelligence) are people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown, in Dweck's model. [Belief evaluation in CBT](card:Belief%20evaluation%20in%20CBT) examines what a thought does, not only whether it is true — cognitive therapy evaluates the content, acceptance-based therapies the context. And [Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory) targets the biases that confer vulnerability to anxiety, working on attention bias and interpretation bias directly."
         },
         {
           "t": "h2",
-          "x": "The thinking that hurts"
+          "x": "When does thinking itself hurt?"
         },
         {
           "t": "p",
-          "x": "[Beck's cognitive model](card:Beck%27s%20cognitive%20model): automatic thoughts, assumptions and core schemas about self and world maintain depression and anxiety."
+          "x": "The clinical material answers with a family of thinking styles. [Beck's cognitive model](card:Beck%27s%20cognitive%20model) holds that automatic thoughts, assumptions and core schemas about self and world maintain depression and anxiety; the [Cognitive-behavioural model](card:Cognitive-behavioural%20model) behind CBT says that how a person interprets a situation, more than the situation itself, shapes what they feel and do; [Cognitive mediation of distress](card:Cognitive%20mediation%20of%20distress) is the cognitive-therapy assumption that interpretations influence emotional responses."
         },
         {
           "t": "p",
-          "x": "[Cognitive-behavioural model](card:Cognitive-behavioural%20model): how a person interprets a situation, more than the situation itself, shapes what they feel and do; the model behind CBT."
+          "x": "The errors Beck found in depressed patients have a name and a research programme: [Cognitive distortions](card:Cognitive%20distortions) are the idiosyncratic conceptualizations that led him to characterize depression's phenomena in terms of a thought disorder, and [Cognitive distortions research](card:Cognitive%20distortions%20research) works to identify and modify the patterns: catastrophising, overgeneralisation, personalisation. One such pattern is structural: [Dichotomous (black-and-white) thinking](card:Dichotomous%20%28black-and-white%29%20thinking) sorts events into two opposite boxes — all or nothing, right or wrong, safe or dangerous."
         },
         {
           "t": "p",
-          "x": "[Cognitive mediation of distress](card:Cognitive%20mediation%20of%20distress): the cognitive-therapy assumption that interpretations influence emotional responses."
+          "x": "The hurt is also maintained by repetition. [Rumination](card:Rumination), Nolen-Hoeksema's term, is repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting — response styles theory's account of why it travels with depression. The metacognitive wing locates the maintenance one level up: the [Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29) holds that positive and negative metacognitive beliefs maintain worry and rumination, and [Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells) is his name for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
         },
         {
           "t": "p",
-          "x": "[Cognitive distortions](card:Cognitive%20distortions): the systematic errors Beck found in the thinking of depressed patients, the idiosyncratic conceptualizations that led him to characterize depression's phenomena in terms of a thought disorder."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive distortions research](card:Cognitive%20distortions%20research): the patterns to be identified and modified: catastrophising, overgeneralisation, personalisation."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
-        },
-        {
-          "t": "p",
-          "x": "[Rumination](card:Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting; response styles theory's account of why it travels with depression. - [Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29): positive and negative metacognitive beliefs maintain worry and rumination — anxiety and depression assigned to a thinking style rather than to thought content. - [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec): the avoidance theory of worry — predominantly verbal thought functioning as cognitive avoidance in response to threatening images. - [Ironic process](card:Ironic%20process): Wegner's account of how attempts at thought suppression can backfire."
-        },
-        {
-          "t": "p",
-          "x": "[Dichotomous (black-and-white) thinking](card:Dichotomous%20%28black-and-white%29%20thinking): the habit of sorting events into two opposite boxes: all or nothing, right or wrong, safe or dangerous."
+          "x": "Repetition even serves avoidance. [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec) is the avoidance theory of worry: predominantly verbal thought functioning as cognitive avoidance in response to threatening images. And the attempt to stop a thought can strengthen it: the [Ironic process](card:Ironic%20process), Wegner's account of how attempts at thought suppression can backfire."
         },
         {
           "t": "h2",
-          "x": "Changing thinking"
+          "x": "Can thinking be changed?"
         },
         {
           "t": "p",
-          "x": "[Cognitive restructuring](card:Cognitive%20restructuring): the technique family at the heart of cognitive therapy: helping clients identify, evaluate and correct inaccurate beliefs. - [Rational Emotive Behavior Theory](card:Rational%20Emotive%20Behavior%20Theory): Albert Ellis's theory of how suffering is made, and how it can be unmade — presented in 1955. - [Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy): a group program for people who have recovered from depression and want to stay well — systematic mindfulness training combined with elements from cognitive therapy. - [Decentering](card:Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world. - [Detached mindfulness theory Wells](card:Detached%20mindfulness%20theory%20Wells): a way of responding to a thought within metacognitive therapy: notice it, and do nothing further with it. - [Metacognitive therapy (Wells)](card:Metacognitive%20therapy%20%28Wells%29): shifts the target of treatment from the content of thought to the metacognitive beliefs that keep it going."
+          "x": "The therapeutic traditions say yes, along two lines. One line corrects the content: [Cognitive restructuring](card:Cognitive%20restructuring) is the technique family at the heart of cognitive therapy, helping clients identify, evaluate and correct inaccurate beliefs. [Rational Emotive Behavior Theory](card:Rational%20Emotive%20Behavior%20Theory), Albert Ellis's 1955 theory of how suffering is made and unmade, works the same territory. The other line changes the relation to the thought: [Cognitive defusion](card:Cognitive%20defusion), the ACT practice of seeing thoughts as thoughts, mental events passing through awareness, rather than as commands, facts or the self."
         },
         {
           "t": "p",
-          "x": "[Cognitive reappraisal](card:Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning so that the feeling that follows changes; antecedent-focused in Gross's process model."
+          "x": "Between the two lines sit the mindfulness-based and metacognitive programmes. [Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy) is a group program for people who have recovered from depression and want to stay well — systematic mindfulness training combined with elements from cognitive therapy — and [Decentering](card:Decentering) names the capacity it trains: observing thoughts and feelings as mental events rather than as the world."
         },
         {
           "t": "p",
-          "x": "[Cognitive defusion](card:Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, mental events passing through awareness, rather than as commands, facts or the self."
+          "x": "Wells's programme makes the same move clinically: [Detached mindfulness theory Wells](card:Detached%20mindfulness%20theory%20Wells) responds to a thought by noticing it and doing nothing further with it, and [Metacognitive therapy (Wells)](card:Metacognitive%20therapy%20%28Wells%29) shifts the target of treatment from the content of thought to the metacognitive beliefs that keep it going."
         },
         {
           "t": "p",
-          "x": "[Cognitive transformation theory of desistance](card:Cognitive%20transformation%20theory%20of%20desistance): Giordano and colleagues' account of how people stop offending: cognitive shifts that recognise new possibilities and reinterpret one's past."
-        },
-        {
-          "t": "h2",
-          "x": "Thinking over a life"
+          "x": "The strategy already met in the affect dossier also belongs here: [Cognitive reappraisal](card:Cognitive%20reappraisal) changes an emotional event's meaning so that the feeling that follows changes. And change can happen at the level of a life's direction, not only a thought: [Cognitive transformation theory of desistance](card:Cognitive%20transformation%20theory%20of%20desistance) is Giordano and colleagues' account of how people stop offending — cognitive shifts that recognise new possibilities and reinterpret one's past."
         },
         {
           "t": "p",
-          "x": "[Cognitive ageing](card:Cognitive%20ageing): the abilities do not rise and fall together; some peak at high-school graduation, some plateau in early adulthood."
-        },
-        {
-          "t": "p",
-          "x": "[Information-processing theory of cognitive development](card:Information-processing%20theory%20of%20cognitive%20development): how children represent, transform and use information."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive-developmental theory of moral reasoning](card:Cognitive-developmental%20theory%20of%20moral%20reasoning): Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels."
-        },
-        {
-          "t": "p",
-          "x": "[Justice reasoning](card:Justice%20reasoning): the core of Kohlberg's program: justice-as-fairness as the central moral concept."
-        },
-        {
-          "t": "p",
-          "x": "[Cultural recognition](card:Cultural%20recognition): Taylor's classic statement of the demand at the centre of multicultural politics: that identities be acknowledged rather than demeaned."
-        },
-        {
-          "t": "h2",
-          "x": "Thinking's reach and limits"
-        },
-        {
-          "t": "p",
-          "x": "[Metacognition](card:Metacognition): thinking about thinking; Flavell's 1979 article and its four classes of phenomena. - [Metacognitive monitoring](card:Metacognitive%20monitoring): assessing one's own cognitive activity, including memory and comprehension — Flavell's territory. - [Need for cognition](card:Need%20for%20cognition): a stable individual difference in how much people engage in and enjoy effortful thinking — Cacioppo and Petty's 1982 construct. - [Unconscious thought theory (Dijksterhuis)](card:Unconscious%20thought%20theory%20%28Dijksterhuis%29): Dijksterhuis and Nordgren's 2006 account of what the mind does with a problem when attention is elsewhere: unconscious thought as a mode with its own strengths. - [The observing self](card:The%20observing%20self): Deikman's name for awareness itself — the \"I\" that witnesses thoughts, feelings and sensations without being identical to any of them. - [Moral intuition research](card:Moral%20intuition%20research): asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains — Haidt's 2001 case. - [Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind — approached by psychological science along the Berlin expertise line and others."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive flexibility](card:Cognitive%20flexibility): one of the three core executive functions: the capacity to switch perspectives and adapt to changed circumstances."
-        },
-        {
-          "t": "p",
-          "x": "[Divergent and convergent thinking](card:Divergent%20and%20convergent%20thinking): generating many varied ideas from the same starting point, and narrowing to the one already known answer."
-        },
-        {
-          "t": "p",
-          "x": "[Divergent thinking tests](card:Divergent%20thinking%20tests): the standard tasks creativity researchers use to measure the generation of many varied responses."
-        },
-        {
-          "t": "p",
-          "x": "[Episodic future thinking](card:Episodic%20future%20thinking): the mind's rehearsal of specific futures: vividly imagining and mentally simulating personally relevant events that have not yet happened."
-        },
-        {
-          "t": "p",
-          "x": "[Wise reasoning](card:Wise%20reasoning): Grossmann's research program's answer to what wisdom is, studied empirically: not a saintly personality type but strategies deployed, or not, situation by situation."
-        },
-        {
-          "t": "p",
-          "x": "[Instrumental reason](card:Instrumental%20reason): reason reduced to the choice of means; it asks how to get what it has been given, and has stopped asking whether what it has been given is worth wanting."
-        },
-        {
-          "t": "p",
-          "x": "Grossmann's own list of the strategies:"
+          "x": "The two therapeutic traditions differ in what they take as the target of change. Cognitive therapy's line works on the thought's accuracy, per the meta-analytic review of its core technique:"
         },
         {
           "t": "q",
-          "x": "\"They include (a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions.\" ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events.\" ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The acceptance-and-commitment tradition keeps the thought and moves the observer:"
+        },
+        {
+          "t": "q",
+          "x": "\"to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)\" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Whether the two treatments compete or stack is left open."
+        },
+        {
+          "t": "h2",
+          "x": "How does thinking change over a life?"
+        },
+        {
+          "t": "p",
+          "x": "The abilities do not rise and fall together. [Cognitive ageing](card:Cognitive%20ageing) is the finding that some abilities peak at high-school graduation and some plateau in early adulthood. Development has its own account: [Information-processing theory of cognitive development](card:Information-processing%20theory%20of%20cognitive%20development) describes how children represent, transform and use information."
+        },
+        {
+          "t": "p",
+          "x": "Moral thinking was long treated as a fixed staircase. [Cognitive-developmental theory of moral reasoning](card:Cognitive-developmental%20theory%20of%20moral%20reasoning) is Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels, with [Justice reasoning](card:Justice%20reasoning) — justice-as-fairness — as the central moral concept of the program."
+        },
+        {
+          "t": "h2",
+          "x": "What can thinking do, and what watches it?"
+        },
+        {
+          "t": "p",
+          "x": "The last movement turns thinking on itself. [Metacognition](card:Metacognition) is thinking about thinking — Flavell's 1979 article and its four classes of phenomena — and [Metacognitive monitoring](card:Metacognitive%20monitoring) is the assessment of one's own cognitive activity, including memory and comprehension. People differ in appetite for the effort: [Need for cognition](card:Need%20for%20cognition) is Cacioppo and Petty's 1982 construct, a stable individual difference in how much people engage in and enjoy effortful thinking."
+        },
+        {
+          "t": "p",
+          "x": "[Unconscious thought theory (Dijksterhuis)](card:Unconscious%20thought%20theory%20%28Dijksterhuis%29), Dijksterhuis and Nordgren's 2006 proposal, treats unconscious thought as a mode with its own strengths: the mind does work on a problem while attention is on something else. A further inward step names the watcher: [The observing self](card:The%20observing%20self) is Deikman's name for awareness itself — the \"I\" that witnesses thoughts, feelings and sensations without being identical to any of them."
+        },
+        {
+          "t": "p",
+          "x": "A separate question concerns where judgment comes from. [Moral intuition research](card:Moral%20intuition%20research) asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains — Haidt's 2001 case."
+        },
+        {
+          "t": "p",
+          "x": "The question of what experience leaves behind is held by [Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind, approached by psychological science along the Berlin expertise line and others."
+        },
+        {
+          "t": "p",
+          "x": "The repertoire of thinking also has named components. [Cognitive flexibility](card:Cognitive%20flexibility), one of the three core executive functions, is the capacity to switch perspectives and adapt to changed circumstances. [Divergent and convergent thinking](card:Divergent%20and%20convergent%20thinking) pairs generating many varied ideas from the same starting point with narrowing to the one already known answer; [Divergent thinking tests](card:Divergent%20thinking%20tests) are the standard tasks creativity researchers use to measure the generation of many varied responses."
+        },
+        {
+          "t": "p",
+          "x": "[Episodic future thinking](card:Episodic%20future%20thinking) is the mind's rehearsal of specific futures: vividly imagining and mentally simulating personally relevant events that have not yet happened."
+        },
+        {
+          "t": "p",
+          "x": "The situation-by-situation account of good judgment is Grossmann's. [Wise reasoning](card:Wise%20reasoning) is his research program's answer to what wisdom is, studied empirically: strategies deployed, or not, situation by situation. His own list of the strategies:"
+        },
+        {
+          "t": "q",
+          "x": "\"They include (a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions.\" ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"People vary dramatically in their likelihood of utilizing wise thought from one situation to the next.\" ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.",
+          "x": "\"People vary dramatically in their likelihood of utilizing wise thought from one situation to the next.\" ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf))",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "A last warning belongs to the whole theme. [Instrumental reason](card:Instrumental%20reason) is reason reduced to the choice of means: it asks how to get what it has been given, and has stopped asking whether what it has been given is worth wanting. The question of whether thinking is serving the life is not one thinking settles on its own."
         },
         {
           "t": "h",
@@ -8647,29 +8633,38 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Should you argue with the thought, or step back from it?"
+          "x": "Does cognition extend into the world, or only embed itself in it?"
         },
         {
           "t": "p",
-          "x": "The shared question: when a thought is hurting you, is the work to correct its content or to change your relationship to it? Cognitive therapy's answer, from the meta-analytic review of its core technique:"
+          "x": "Clark and Chalmers's criterion for their side of the boundary question:"
         },
         {
           "t": "q",
-          "x": "\"One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events.\" ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/)) — Scholarly review; cited passages checked.",
+          "x": "\"If, as we confront some task, a part of the world functions as a process which, *were it done in the head*, we would have no hesitation in recognizing as part of the cognitive process, then that part of the world *is* (so we claim) part of the cognitive process.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The acceptance-and-commitment tradition's answer keeps the thought and moves the observer:"
+          "x": "Rupert's objection to exactly that criterion, as stated in the Stanford Encyclopedia's exposition of the dispute:"
         },
         {
           "t": "q",
-          "x": "\"to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)\" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.",
+          "x": "\"Instead of insisting that cognitive systems extend, Rupert asks, why not regard them as seeking ways to embed themselves among tools that make their jobs easier? An axe does not become part of a person when she uses it to chop down a tree, why does a notebook become part of cognitive system when a brain uses it to locate MoMA?\" ([Shapiro and Spaulding, SEP \"Embodied Cognition\", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. The wiki holds both without adjudicating which works when; the defusion card itself notes its exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass."
+          "x": "Clark's side of the answer, in the same exposition:"
+        },
+        {
+          "t": "q",
+          "x": "\"Similarly, Clark would deny Rupert's claim that the hypothesis of embedded cognition can equally well save the phenomena that the hypothesis of extended cognition was intended to capture and do so while requiring less revision of existing ideas about how cognitive systems operate.\" ([Shapiro and Spaulding, SEP \"Embodied Cognition\", §5.2](https://plato.stanford.edu/entries/embodied-cognition/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two positions answer the same question — does the notebook function as part of the cognitive system, or as a tool the system uses — with opposing answers, each stated above. What the dispute turns on is whether parity of function is enough for constitution, or whether constitution demands more than a tool's usefulness; nothing here adjudicates between them."
         },
         {
           "t": "h",
@@ -8683,7 +8678,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -8733,7 +8728,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 10,
-          "x": "[Sing the thought, or say it in a silly voice](card:K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the card's own caution is to use it only on the examined thought, not a fresh wound."
+          "x": "[Sing the thought, or say it in a silly voice](card:K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the caution is to use it only on an examined thought, not a fresh wound."
         },
         {
           "t": "p",
@@ -8750,7 +8745,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line."
         },
         {
           "t": "h2",
@@ -8802,7 +8797,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST415 — The Blind Men and the Elephant](card:ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part in its hands."
+          "x": "[ST415 — The Blind Men and the Elephant](card:ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part it was shown."
         },
         {
           "t": "p",
@@ -8829,7 +8824,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "A choice under uncertainty is the moment a person's values meet the world's refusal to guarantee anything. Choosing well is therefore not one skill but several: seeing the options, weighing them without distortion, and knowing when to stop weighing. The research and the traditions disagree productively on what goes wrong and why, and underneath all of it sits the practical question: how a person acts on their own considered values when the pressure of the choice is highest."
+          "x": "A choice under uncertainty is what happens when a person has to act on their values without knowing how things will turn out. Choosing well is therefore several skills at once: seeing the options, weighing them without distortion, and knowing when to stop weighing. The research and the traditions disagree productively on what goes wrong and why, and underneath all of it sits the practical question: how a person acts on their own considered values when the pressure of the choice is highest."
         },
         {
           "t": "h2",
@@ -8837,11 +8832,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Choice: held under [Choice overload](card:Choice%20overload), [Paradox of choice](card:Paradox%20of%20choice) and [Choice architecture](card:Choice%20architecture); Sartre's cards on choosing a self sit in the last group of the map. - Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing. - Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here. - Akrasia: acting against one's own better judgment, held under its own group below."
+          "x": "Choice: held under [Choice overload](card:Choice%20overload), [Paradox of choice](card:Paradox%20of%20choice) and [Choice architecture](card:Choice%20architecture); Sartre's cards on choosing a self sit in the last group of the map."
+        },
+        {
+          "t": "p",
+          "x": "Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing."
+        },
+        {
+          "t": "p",
+          "x": "Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here."
+        },
+        {
+          "t": "p",
+          "x": "Akrasia: acting against one's own better judgment, held under its own group below."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on decision-making"
+          "x": "The map: the entries on decision-making"
         },
         {
           "t": "h2",
@@ -9073,7 +9080,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
+          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
         },
         {
           "t": "p",
@@ -9125,7 +9132,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Because using heuristics saves effort, the classical view has been that heuristic decisions imply greater errors than do “rational” decisions as defined by logic or statistical models.\" ([Gigerenzer and Gaissmaier, Annual Review of Psychology 2011, abstract](https://spds.uni-konstanz.de/en/node/1119)): Secondary source; quoted passage checked.",
+          "x": "\"Because using heuristics saves effort, the classical view has been that heuristic decisions imply greater errors than do “rational” decisions as defined by logic or statistical models.\" ([Gigerenzer and Gaissmaier, Annual Review of Psychology 2011, abstract](https://spds.uni-konstanz.de/en/node/1119))",
           "s": null
         },
         {
@@ -9134,7 +9141,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples.\" ([Gigerenzer and Gaissmaier 2011, abstract](https://spds.uni-konstanz.de/en/node/1119)): Secondary source; quoted passage checked.",
+          "x": "\"ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples.\" ([Gigerenzer and Gaissmaier 2011, abstract](https://spds.uni-konstanz.de/en/node/1119))",
           "s": null
         },
         {
@@ -9151,7 +9158,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment.\" ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/)): Secondary source; quoted passage checked.",
+          "x": "\"evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment.\" ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/))",
           "s": null
         },
         {
@@ -9168,7 +9175,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices.\" ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices.\" ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf))",
           "s": null
         },
         {
@@ -9177,7 +9184,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647)): Secondary source; quoted passage checked.",
+          "x": "\"we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647))",
           "s": null
         },
         {
@@ -9194,12 +9201,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"For Socrates was entirely opposed to the view in question, holding that there is no such thing as incontinence; no one, he said, when he judges acts against what he judges best-people act so only by reason of ignorance. Now this view plainly contradicts the observed facts\" ([Aristotle, Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)): Primary text; quoted passage checked.",
+          "x": "\"For Socrates was entirely opposed to the view in question, holding that there is no such thing as incontinence; no one, he said, when he judges acts against what he judges best-people act so only by reason of ignorance. Now this view plainly contradicts the observed facts\" ([Aristotle, Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The compendium's cards on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a preprint replicating its second study reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026."
+          "x": "The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The cards I hold on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a preprint replicating its second study reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026."
         },
         {
           "t": "h",
@@ -9213,7 +9220,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -9262,7 +9269,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, \"overestimating the intensity and duration of their emotional reactions to such events\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)): Secondary source; quoted passage checked."
+          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, \"overestimating the intensity and duration of their emotional reactions to such events\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))"
         },
         {
           "t": "vs",
@@ -9275,7 +9282,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -10021,11 +10028,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Overwhelm and saturation: held under the information and load groups below. - Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier. - Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier."
+          "x": "Overwhelm and saturation: held under the information and load groups below."
+        },
+        {
+          "t": "p",
+          "x": "Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier."
+        },
+        {
+          "t": "p",
+          "x": "Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on overload and overwhelm"
+          "x": "The map: the entries on overload and overwhelm"
         },
         {
           "t": "h2",
@@ -10037,7 +10052,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Choice overload](card:Choice%20overload): more options degrade satisfaction and decision quality."
+          "x": "[Choice overload](card:Choice%20overload): more options degrade satisfaction and decision quality, though later meta-analytic work finds the overload only under certain conditions."
         },
         {
           "t": "p",
@@ -10189,7 +10204,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"suggesting that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/)): Secondary source; quoted passage checked.",
+          "x": "\"These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/))",
           "s": null
         },
         {
@@ -10198,7 +10213,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15].\" ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)): Secondary source; quoted passage checked.",
+          "x": "\"Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15].\" ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/))",
           "s": null
         },
         {
@@ -10215,7 +10230,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Relaxation, then, is not an end; for it is taken for the sake of activity.\" ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)): Primary text; quoted passage checked.",
+          "x": "\"Relaxation, then, is not an end; for it is taken for the sake of activity.\" ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))",
           "s": null
         },
         {
@@ -10224,7 +10239,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace.\" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)): Primary text; quoted passage checked.",
+          "x": "\"And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace.\" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))",
           "s": null
         },
         {
@@ -10243,7 +10258,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -10275,7 +10290,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -10600,7 +10615,23 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "- [Narrative identity](card:Narrative%20identity) — Ricoeur's self as told, an answer to the who question; agency asks what a person can run, this asks who is running it. - [Intrinsic motivation](card:Intrinsic%20motivation) — the doing of an activity for its inherent satisfaction; agency asks whether the doing is one's own, this names the doing that needs no further reason. - [Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals) — the pull toward intrinsic aspirations, affiliation, growth and community contribution; the aims the acting is for, where this page holds the capacity to act. - [Locus of evaluation](card:Locus%20of%20evaluation) — where judgments of worth are taken from; this page holds control over actions and their outcomes, that one the source of the verdicts. - [Wisdom](card:Wisdom) — the judgment about where to spend the say; wisdom uses it, this page asks what it is."
+          "x": "[Narrative identity](card:Narrative%20identity) — Ricoeur's self as told, an answer to the who question; agency asks what a person can run, this asks who is running it."
+        },
+        {
+          "t": "p",
+          "x": "[Intrinsic motivation](card:Intrinsic%20motivation) — the doing of an activity for its inherent satisfaction; agency asks whether the doing is one's own, this names the doing that needs no further reason."
+        },
+        {
+          "t": "p",
+          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals) — the pull toward intrinsic aspirations, affiliation, growth and community contribution; the aims the acting is for, where this page holds the capacity to act."
+        },
+        {
+          "t": "p",
+          "x": "[Locus of evaluation](card:Locus%20of%20evaluation) — where judgments of worth are taken from; this page holds control over actions and their outcomes, that one the source of the verdicts."
+        },
+        {
+          "t": "p",
+          "x": "[Wisdom](card:Wisdom) — the judgment about where to spend the say; wisdom uses it, this page asks what it is."
         },
         {
           "t": "p",
@@ -13443,7 +13474,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Right action is the fourth factor of the Eightfold Path: what the body does when it does no harm. The precepts are short, and the life they point to is not: a floor of non-harm under conduct, with the counterparts practised above that floor. A life whose conduct keeps the floor is livable with itself in a way a life of unexamined habit is not."
+          "x": "Right action is the fourth factor of the Eightfold Path: what the body does when it does no harm. The precepts are short, and the life they point to is not: a floor of non-harm under conduct, with the counterparts practised above that floor."
+        },
+        {
+          "t": "p",
+          "x": "I hold this factor close because conduct is where intentions meet their test. A resolve can live comfortably in the mind for years without costing anything; conduct is where it either shows up or does not. A life whose conduct keeps the floor is livable with itself in a way a life of unexamined habit is not."
         },
         {
           "t": "h2",
@@ -13455,11 +13490,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to the Right Intention page; this page holds the bodily restraints that resolve issues in."
+          "x": "Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to the Right Intention page; right action holds the bodily restraints that resolve issues in."
         },
         {
           "t": "p",
-          "x": "Behaviour: the general science of habit formation stays there; this page holds the path's ethical restraints on bodily conduct."
+          "x": "Behaviour: the general science of habit formation stays there; right action holds the path's ethical restraints on bodily conduct."
         },
         {
           "t": "p",
@@ -13518,15 +13553,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The first abstention is taking life, and the traditions around it agree on a floor before they disagree about the ceiling. [Ahimsa](card:Ahimsa) is the Indic principle of non-harm; I read it as the starting floor of this factor: whatever else a practice does, it begins by doing no injury. The counterpart Bodhi names first is [compassion](card:Compassion), being moved by suffering and motivated to act, and [courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) is the courage the counterparts can demand, acting for the sake of something despite fear."
+          "x": "The first abstention is taking life. [Ahimsa](card:Ahimsa) is the Indic principle of non-harm; I read it as the starting floor of this factor: whatever else a practice does, it begins by doing no injury. The counterpart Bodhi names first is [compassion](card:Compassion), being moved by suffering and motivated to act, and [courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) is the courage the counterparts can demand, acting for the sake of something despite fear."
         },
         {
           "t": "p",
-          "x": "The modern practices built on refusing harm while still acting have their own cards. [Nonviolent action](card:Nonviolent%20action) is Gene Sharp's theory of power and his documented methods of nonviolent action; [nonviolent communication](card:Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions. Both take non-harm as a working method rather than a rule to keep."
+          "x": "Non-harm also has working methods. [Nonviolent action](card:Nonviolent%20action) is Gene Sharp's theory of power and his documented methods of nonviolent action; [nonviolent communication](card:Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions."
         },
         {
           "t": "p",
-          "x": "Two neighbouring claims about harm belong here by editorial connection rather than equivalence. [Harm principle](card:Harm%20principle) is Mill's principle for when society may coerce an adult, the boundary question of harm done to others; [judgment adds the harm](card:Judgment%20adds%20the%20harm) is the Stoic claim that events do not disturb people, the opinions about the events do — a claim about disturbance rather than harm done. The ceiling question, whether taking life can ever be right action, is where the Christian tradition answers differently — [conduct even in just war](card:Conduct%20even%20in%20just%20war) is Aquinas's three requirements for a just war, with the warning that a war can meet two of them and still be rendered unlawful through a wicked intention — and it is the first genuine disagreement below."
+          "x": "Two neighbouring claims about harm answer questions of their own rather than this one. [Harm principle](card:Harm%20principle) is Mill's principle for when society may coerce an adult, the boundary question of harm done to others; [judgment adds the harm](card:Judgment%20adds%20the%20harm) is the Stoic claim that events do not disturb people, the opinions about the events do — a claim about disturbance rather than harm done. The question this restraint raises is whether the floor is absolute: whether taking life can ever be right action. The Christian tradition answers differently — [conduct even in just war](card:Conduct%20even%20in%20just%20war) is Aquinas's three requirements for a just war, with the warning that a war can meet two of them and still be rendered unlawful through a wicked intention — and that exchange is the first genuine disagreement below."
         },
         {
           "t": "h",
@@ -13543,7 +13578,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Generosity](card:Generosity) is Aristotle's liberality, the mean with regard to wealth, concerned especially with giving; [truthfulness](card:Truthfulness) is his account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake. The research on truth-telling that hurts — [prosocial honesty research](card:Prosocial%20honesty%20research) — belongs with the speech factor's honesty question; I group it here by editorial connection, because it is about honesty rather than bodily conduct."
+          "x": "[Generosity](card:Generosity) is Aristotle's liberality, the mean with regard to wealth, concerned especially with giving; [truthfulness](card:Truthfulness) is his account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake. The research on truth-telling that hurts — [prosocial honesty research](card:Prosocial%20honesty%20research) — is about honesty in speech rather than conduct of the hands, and belongs with the speech factor's honesty question."
         },
         {
           "t": "h",
@@ -13551,7 +13586,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The third abstention is sexual misconduct, and its positive counterpart for laypeople is fidelity. [Fidelity](card:Fidelity) is Gabriel Marcel's treatment of fidelity as more than keeping a promise: the problem of constancy. The abstention states a boundary; the counterpart names what has to be kept alive inside it, which is why the tradition treats the pairing as a standing practice rather than a line not to cross."
+          "x": "The third abstention is sexual misconduct, and its positive counterpart for laypeople is fidelity. [Fidelity](card:Fidelity) is Gabriel Marcel's treatment of fidelity as more than keeping a promise: the problem of constancy. The abstention states a boundary; the counterpart names what has to be kept alive inside it."
         },
         {
           "t": "h",
@@ -13567,15 +13602,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The categorical imperative](card:The%20categorical%20imperative) is Kant's supreme principle of morality, binding regardless of what a person wants: the restraint stated as a universal law. Its companion on the motivational side is [the courage to act against impulse](card:The%20courage%20to%20act%20against%20impulse), Kant's account of acting from duty against inclination, my own heading for it. The rule answer is the purest form of the training: decide once, universally, and let the decision carry the moment."
+          "x": "[The categorical imperative](card:The%20categorical%20imperative) is Kant's supreme principle of morality, binding regardless of what a person wants: the restraint stated as a universal law. Its companion on the motivational side is [the courage to act against impulse](card:The%20courage%20to%20act%20against%20impulse), Kant's account of acting from duty against inclination, my own heading for it."
         },
         {
           "t": "p",
-          "x": "The character answer instead asks what kind of person is doing the acting. [Natural virtue](card:Natural%20virtue) is Aristotle's name for the dispositions people seem to have from birth, set against virtue in the strict sense where the difference is practical wisdom; [the catalogue of virtues](card:The%20catalogue%20of%20virtues) is his table of the character virtues as means between vices of excess and deficiency; [cardinal virtues](card:Cardinal%20virtues) are the four hinge virtues — prudence, justice, fortitude and temperance — on which the classical tradition says the whole of moral life turns."
+          "x": "The character answer instead asks what kind of person is doing the acting, and it starts from a puzzle: some people seem good from birth. [Natural virtue](card:Natural%20virtue) is Aristotle's name for those dispositions, set against virtue in the strict sense where the difference is practical wisdom. [The catalogue of virtues](card:The%20catalogue%20of%20virtues) is Aristotle's table of the character virtues as means between vices of excess and deficiency; [cardinal virtues](card:Cardinal%20virtues) are the four hinge virtues — prudence, justice, fortitude and temperance — on which the classical tradition says the whole of moral life turns."
         },
         {
           "t": "p",
-          "x": "[Virtue ethics](card:Virtue%20ethics) is the normative approach that puts character first, contrasted with deontology and consequentialism; [the unity of the virtues](card:The%20unity%20of%20the%20virtues) is the thesis, argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents. If the virtues unify, training one trains the others; the catalogue is not a menu."
+          "x": "[Virtue ethics](card:Virtue%20ethics) is the normative approach that puts character first, contrasted with deontology and consequentialism; [the unity of the virtues](card:The%20unity%20of%20the%20virtues) is the thesis, argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents."
         },
         {
           "t": "h2",
@@ -13596,15 +13631,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Two further formations widen the road. [Moral cultivation (xiushen)](card:Moral%20cultivation%20%28xiushen%29) is the Confucian practice of building moral character; the term literally reads as body-fixing, and the body in the phrase is the one this factor restrains. [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is the far end of the same road: effortlessness in action as skill matured until the act stops feeling like an act."
+          "x": "[Moral cultivation (xiushen)](card:Moral%20cultivation%20%28xiushen%29) is the Confucian practice of building moral character; the term literally reads as body-fixing. [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is effortlessness in action as the far end of long effort, skill matured until the act stops feeling like an act."
         },
         {
           "t": "p",
-          "x": "The clinical and commitment-based versions translate the same insight. [Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29) is the DBT skill of acting against the action urge that comes with an emotion; [action commitment](card:Action%20commitment) is ACT's committed action, one act consistent with a chosen value, however small. [Self-constitution through action](card:Self-constitution%20through%20action) is Kierkegaard's Judge Vilhelm: choosing shapes personality, and a life that keeps choice at arm's length loses definition."
+          "x": "[Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29) is the DBT skill of acting against the action urge that comes with an emotion; [action commitment](card:Action%20commitment) is ACT's committed action, one act consistent with a chosen value, however small. Both give an instruction for the next act rather than a theory of the person. [Self-constitution through action](card:Self-constitution%20through%20action) is Kierkegaard's Judge Vilhelm: choosing shapes personality, and a life that keeps choice at arm's length loses definition."
         },
         {
           "t": "p",
-          "x": "The traditions also ask what the formed person is acting for. [Svadharma, one's own duty](card:Svadharma%2C%20one%27s%20own%20duty) is the Bhagavad Gita's teaching that one's own duty, however imperfect, is better than another's done well; [the bodhisattva vow](card:The%20bodhisattva%20vow) is the Mahayana commitment to work for the liberation of all beings, conduct undertaken for everyone's sake; [skillful means (upaya)](card:Skillful%20means%20%28upaya%29) is the Lotus Sutra's flexible application of the teaching to the situation."
+          "x": "[Svadharma, one's own duty](card:Svadharma%2C%20one%27s%20own%20duty) addresses whose duty it is: the Bhagavad Gita's teaching that one's own duty, however imperfect, is better than another's done well. [The bodhisattva vow](card:The%20bodhisattva%20vow) addresses who the conduct is for: the Mahayana commitment to work for the liberation of all beings, conduct undertaken for everyone's sake. [Skillful means (upaya)](card:Skillful%20means%20%28upaya%29) addresses how the teaching meets the case: the Lotus Sutra's flexible application of it to the situation."
         },
         {
           "t": "h2",
@@ -13616,7 +13651,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The design answer follows from the situation answer. [Designing for virtue](card:Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](card:Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](card:Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29 — the Commandments, non-injury, truthfulness, abstention from stealing — placed before the Rules, conduct as the foundation of practice."
+          "x": "The training can also be arranged rather than willed. [Designing for virtue](card:Designing%20for%20virtue) is the design-research idea that products and environments can support virtuous behaviour, the third ingredient of the Positive Design Framework; [designing the environment for virtue](card:Designing%20the%20environment%20for%20virtue) is arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs. [Ethics as foundation](card:Ethics%20as%20foundation) is Johnston's reading of Yoga Sūtra II.29 — the Commandments, non-injury, truthfulness, abstention from stealing — placed before the Rules, conduct as the foundation of practice."
         },
         {
           "t": "h2",
@@ -13628,7 +13663,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Social cognitive theory of morality](card:Social%20cognitive%20theory%20of%20morality) is Bandura's account of moral conduct through the interaction of personal standards, self-regulation and social circumstances; [moral disengagement research](card:Moral%20disengagement%20research) is his account of how moral self-sanctions are selectively disengaged from inhumane conduct. The disengagement finding matters for this factor directly: the abstentions fail most often not by decision but by the quiet rearrangement of what counts."
+          "x": "[Social cognitive theory of morality](card:Social%20cognitive%20theory%20of%20morality) is Bandura's account of moral conduct through the interaction of personal standards, self-regulation and social circumstances; [moral disengagement research](card:Moral%20disengagement%20research) is his account of how moral self-sanctions are selectively disengaged from inhumane conduct."
         },
         {
           "t": "h2",
@@ -13636,11 +13671,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The relational traditions hold that conduct is answerable to particular others rather than to a rule or a character alone. [Care ethics](card:Care%20ethics) and [Gilligan's ethics-of-care theory](card:Gilligan%27s%20ethics-of-care%20theory) are moral reasoning with more than one voice, the relationship-oriented ethic of care contrasted with the ethic of justice; [role ethics](card:Role%20ethics) is the family of views on which a person's roles and relationships are central to what is morally required and to who the person is."
+          "x": "The relational traditions hold that conduct is answerable to particular others rather than to a rule or a character alone. [Care ethics](card:Care%20ethics) and [Gilligan's ethics-of-care theory](card:Gilligan%27s%20ethics-of-care%20theory) are moral reasoning with more than one voice, the relationship-oriented ethic of care contrasted with the ethic of justice."
         },
         {
           "t": "p",
-          "x": "[Confucian role ethics](card:Confucian%20role%20ethics) holds the Analects material — the role-ethics card keeps Confucius's Analects and MacIntyre's After Virtue apart. [The call of conscience](card:The%20call%20of%20conscience) and [conscience (Gewissen)](card:Conscience%20%28Gewissen%29) are Heidegger's account of Dasein summoned out of its lostness in the \"they\": conscience as the call."
+          "x": "[Role ethics](card:Role%20ethics) makes the relation constitutive: on its family of views, a person's roles and relationships are central to what is morally required and to who the person is; [Confucian role ethics](card:Confucian%20role%20ethics) is the Confucian branch of that family."
+        },
+        {
+          "t": "p",
+          "x": "[The call of conscience](card:The%20call%20of%20conscience) and [conscience (Gewissen)](card:Conscience%20%28Gewissen%29) are Heidegger's account of Dasein summoned out of its lostness in the \"they\": conscience as the call."
         },
         {
           "t": "h",
@@ -13755,42 +13794,42 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[K250 — Virtue rehearsal](card:K250%20%E2%80%94%20Virtue%20rehearsal): pick one virtue and practise it in small daily acts that get written down, drawing on Aristotle's habituation teaching and Franklin's chart."
+          "x": "[K250 — Virtue rehearsal](card:K250%20%E2%80%94%20Virtue%20rehearsal): pick one virtue and practise it in small daily acts that get written down, drawing on Aristotle's habituation teaching and Franklin's chart; hold the focus on that one virtue for a week or a month, then move to the next and come round again. On a day of failure, mark the fault plainly — Franklin's black spot — and notice where the spots cluster across the rotation."
         },
         {
           "t": "n",
           "i": 2,
-          "x": "[K255 — Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): each evening, one sentence, the virtue, the situation, the action; a training log rather than a diary."
+          "x": "[K255 — Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): each evening, one sentence, the virtue, the situation, the action, and on missed days what got in the way, in the flat voice of a missed training session rather than a confession. The loop closes on the weekly reread: notice the situations that recur, because the repetition is where the next deliberate practice gets aimed."
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[K263 — Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, four questions, the intention, the outcome, the gap, the revision."
+          "x": "[K263 — Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, the four questions in writing — the intention, what actually happened, where the gap between them came from, what to do differently — and end with one concrete amendment for the next similar action. Notice whether the review changes anything; a review that changes nothing is a diary entry."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[K266 — Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): a three-column log for one week, the impression, the judgement, the action, training the gap Epictetus puts at the root of disturbance."
+          "x": "[K266 — Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): keep the three-column log for one week, the impression, the judgement, the action, one row per situation that stirred you. At the week's end, read the judgement column alone and notice the interpretations that recur; for each, ask what in the impression column supports it."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite; the action does not deny the emotion, it refuses to let it drive."
+          "x": "[K184 — Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when an emotion urges a behaviour that runs counter to your values, do the opposite act in the opposite direction, full-sized — sadness says withdraw, reach out; anger says attack, step back — and stay in the act, recording afterwards whether the intensity changed. The laboratory test behind the skill is small, sixteen people over six sessions, and it favoured opposite action for sadness and guilt or shame while showing no advantage for anxiety or anger in that design."
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[K152 — Committed action](card:K152%20%E2%80%94%20Committed%20action): one action today consistent with a chosen value, however small; the action matters more than the feeling."
+          "x": "[K152 — Committed action](card:K152%20%E2%80%94%20Committed%20action): take one action today consistent with a chosen value, however small, at a size you can actually do, especially when you do not feel like it. In the evening log, notice which actions happened and which stayed on the list; keep the sizes that get done and drop the ones that do not."
         },
         {
           "t": "n",
           "i": 7,
-          "x": "[K290 — Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): a standing weekly slot for speaking up where unfairness would normally be met with silence, converting the act from a decision under pressure into a decision already made."
+          "x": "[K290 — Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): choose a weekly slot in advance; during the week, write down one situation where you saw unfairness and stayed silent, then act on it or its next occurrence — the talked-over colleague named in the meeting, the one-line disagreement with the biased joke, the safety concern reported. Afterwards note what you did, what it cost and what it accomplished; acts that misfired get adjusted, not abandoned. The drill schedules the act against the presence of other people, the setting where bystander research finds silence spreads."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[K216 — Nonviolent communication](card:K216%20%E2%80%94%20Nonviolent%20communication): the four-step structure for conflict, observation, feeling, need, request, giving dispute a shared language instead of a counterattack."
+          "x": "[K216 — Nonviolent communication](card:K216%20%E2%80%94%20Nonviolent%20communication): before the hard conversation, write the four steps out for yourself — what happened without evaluation, what you feel, what you need, what you request — then speak them in order and slowly; the request is askable and refusable. When attacked, run the same steps on the attacker's words, and notice whether the exchange keeps a shared language rather than turning into a counterattack."
         },
         {
           "t": "vs",
