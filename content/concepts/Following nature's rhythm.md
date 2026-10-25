@@ -14,7 +14,7 @@ Following nature's rhythm is this compendium's label. The Daodejing passage it p
 
 Eno's glossary paraphrases ziran 自然 as a thing as it is in itself, without regard for forces that may act upon it, and notes the term later came to be used as a noun meaning Nature ([Robert Eno, Daodejing glossary](https://terebess.hu/english/tao/Daodejing-Eno.pdf)).
 
-The chain runs downward: a person takes their cue from the earth's seasons and limits, the earth from heaven's larger order, heaven from the Dao, and the Dao from nothing but its own spontaneous way of proceeding. To follow nature's rhythm, on this reading, is not to imitate scenery but to locate one's own timing inside that chain, acting when the situation is ripe because the situation, not the will, has made it ripe.
+The chain runs downward: men emulate earth, earth emulates heaven, heaven emulates the Dao, and the Dao emulates spontaneity, in Eno's rendering. Following nature's rhythm, on this reading, means taking one's cue from the level below the one acting, and the chain ends in ziran, which Eno's glossary paraphrases as a thing as it is in itself. The chapter sets the direction of the example; a schedule is not its business.
 
 I place this idea next to the body's rhythms as an editorial juxtaposition. The Daodejing chapter is not a physiological claim; the principles below are my own behavioural-science entries on circadian and hormonal cycles.
 
