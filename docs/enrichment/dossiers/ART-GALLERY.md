@@ -22,10 +22,14 @@ Eightfold Path and affective-state assignments were added below.
   seems a poor match once a dossier is written, flag it in a commit
   message for the supervisor; the supervisor swaps it.
 - The manifest (`site/assets/dossier-art/manifest.json`) records each
-  file's origin in the owner's archive (the Google Drive `#ART.zip`)
-  and the attribution as it appears in the collection filenames. Those
+  file's origin in the owner's archive — the Google Drive `#ART.zip`,
+  shared by the owner at
+  https://drive.google.com/file/d/16j3zZ4Bfrz5Xk73GpTdzxEPPNnjbQBqx/view
+  — and the attribution as it appears in the collection filenames. Those
   attributions are not independently verified; the site does not
-  display them.
+  display them. The "Why" column holds curatorial interpretations:
+  readings offered to the owner for review, with no claim about the
+  artists' intentions or the depicted people's states of mind.
 
 ## Selection rules (for any future supervisor adding art)
 
@@ -88,9 +92,9 @@ review.
 | Frustration | Jean Dubuffet, Samedi tantot | Interlocking fragments that never resolve into one picture: the blocked gesture, pieces that will not fit. |
 | Creation | Fu Baoshi, Appreciating paintings under trees | Figures gathered under pines around an unrolled painting: a made thing at the center of human gathering — making as what connects people. |
 | Creativity | Wassily Kandinsky, Ensemble | Seed-like vessels, each with a different inner structure, floating on a quiet ground: invention as germination — the same world, new combinations. |
-| Procrastination | Le Pho, La lettre | A woman with her hand at her chin, the letter open before her in a sunlit garden: the task present, the doing suspended — the gap itself, painted. |
+| Procrastination | Le Pho, La lettre | A woman pauses over a letter in a sunlit garden, hand at her chin. Chosen here as a symbol of the gap between intention and action: the task lies open in front of her, and the doing waits. |
 | Leisure | Monet, Matinee sur la Seine | A misty morning river holding the trees and the light: time inhabited rather than used — the rest that is not idleness. |
-| Executive Functions | Le Pho, Les joueuses de cartes | A card game on a riverbank: rules held in mind, moves weighed, impulses held — the mind's management at play. |
+| Executive Functions | Le Pho, Les joueuses de cartes | A card game on a riverbank. Chosen here as a symbol of rule-guided play: rules held, moves weighed, impulses held back. |
 
 Consistency note: the set deliberately mixes East Asian ink and
 woodblock traditions with European modern painting, but holds to
@@ -107,16 +111,23 @@ the forefront of the programme, and its vividness marks it as such.
 
 Pending assignment (2026-10-25 update, dossiers baton): every dossier
 in the registry now carries an art assignment. The earlier pending
-note — that the twelve new dossiers had no artwork and that the
-collection had no unassigned works left — is superseded: the owner's
-Drive collection holds hundreds of suitable works; the constraint was
-never the collection.
+notes — that the twelve new dossiers and then Leisure and Executive
+Functions had no artwork, and that the collection had no unassigned
+works left — are superseded. The Drive collection holds far more
+candidate works than the forty-one assigned; any future dossier can be
+served from it.
+
+Authority note (2026-10-25): this pass was owner-directed in session
+and executed under the dossiers baton while a live supervisor held
+the supervisor baton. The central registry and manifest edits are
+flagged here and in the commit messages for that supervisor's review;
+nothing here should be read as supervisor-approved integration.
 
 Notes for the supervisor (2026-10-25 pass):
 - Procrastination and executive-functions both received Le Pho works,
-  deliberately: the same painterly world shows the letter unanswered
-  (the gap between intending and doing) and the game played with full
-  attention (rules held in mind) — the two poles of task engagement.
+  deliberately: the same painterly world holds the letter paused over
+  (the gap between intending and doing) and the game in play
+  (rule-guided action) — the two poles of task engagement.
 - Flag: right-speech (Miro, L'oiseau au plumage deploye) runs more
   saturated than the gallery's muted register; kept because the
   exchange-of-signs symbolism fits right speech exactly. Supervisor
@@ -128,7 +139,9 @@ a supervisor decision on whether to retire them.
 rejected: the print shows pleasurable idleness with no task present,
 and its printed title ("Laziness") names a different concept than the
 dossier's.
-- Crop convention: "4:3 from the top third" describes the typical
-landscape-plate crop; where a work's subject sits low or a tall print
-block needs centering, crops are subject-centered (same precedent as
-attention and the 2026-10-25 fixes).
+- Crop convention: the written rule says "4:3 from the top third".
+  Where a work's subject sits low in a tall sheet, or a print block
+  needs centering, crops were placed on the subject instead (the
+  attention assignment set this precedent; the 2026-10-25 re-crops
+  follow it). Flagged for the supervisor to confirm or amend the
+  written rule.

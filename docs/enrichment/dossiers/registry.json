@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-10-25T05:05:00Z",
-  "note": "Section rules (owner-directed 2026-10-24): (1) Flourishing & Wisdom is the flagship first section - the eudaimonic trio. (2) The Extended Evolutionary Meta Model section holds EXACTLY the model's own dossiers: the six ACASMO dimensions (Affect, Cognition, Attention, Self, Motivation, Behaviour) plus its two levels of selection (Body = biophysiological, Others = sociocultural) - nothing else ever goes in it. (3) Themed sections are reader-facing life themes holding the SPECIFIC dossiers, not the EEMM umbrellas: The Affective Life (specific affective states), The Mind's Life (deciding, aiming, willing), Life Challenges (cross-cutting challenges). (4) A themed section must hold at least three dossiers a reader would expect together; a new theme is minted only when three or more planned dossiers cluster, otherwise the candidate sits in the backlog. (5) A family umbrella stays in the EEMM section; its specific family members live in the themed section (e.g. Affect is EEMM, Anger is The Affective Life). Owner-directed mint 2 (2026-10-24): new themed section The Noble Eightfold Path holds one planned dossier per path factor (right-view, right-intention, right-speech, right-action, right-livelihood, right-effort, right-mindfulness, right-concentration); four affective states minted as planned after card review (Gratitude, Fear, Sadness & Grief, Shame & Guilt); the remaining affective candidates sit in the backlog with scope-review questions. Artwork for the twelve new planned dossiers is pending supervisor assignment from the owner's collection. Owner-directed mint 3 (2026-10-25): Leisure (Flourishing & Wisdom) and Executive Functions (The Mind's Life) added as planned; their artwork is pending owner assignment (the collection has no unassigned works left).",
+  "note": "Section rules (owner-directed 2026-10-24): (1) Flourishing & Wisdom is the flagship first section - the eudaimonic trio. (2) The Extended Evolutionary Meta Model section holds EXACTLY the model's own dossiers: the six ACASMO dimensions (Affect, Cognition, Attention, Self, Motivation, Behaviour) plus its two levels of selection (Body = biophysiological, Others = sociocultural) - nothing else ever goes in it. (3) Themed sections are reader-facing life themes holding the SPECIFIC dossiers, not the EEMM umbrellas: The Affective Life (specific affective states), The Mind's Life (deciding, aiming, willing), Life Challenges (cross-cutting challenges). (4) A themed section must hold at least three dossiers a reader would expect together; a new theme is minted only when three or more planned dossiers cluster, otherwise the candidate sits in the backlog. (5) A family umbrella stays in the EEMM section; its specific family members live in the themed section (e.g. Affect is EEMM, Anger is The Affective Life). Owner-directed mint 2 (2026-10-24): new themed section The Noble Eightfold Path holds one planned dossier per path factor (right-view, right-intention, right-speech, right-action, right-livelihood, right-effort, right-mindfulness, right-concentration); four affective states minted as planned after card review (Gratitude, Fear, Sadness & Grief, Shame & Guilt); the remaining affective candidates sit in the backlog with scope-review questions. Artwork for the twelve new planned dossiers is pending supervisor assignment from the owner's collection. Owner-directed mint 3 (2026-10-25): Leisure (Flourishing & Wisdom) and Executive Functions (The Mind's Life) added as planned; artwork for both was assigned 2026-10-25 from the owner's Drive collection (dossiers baton, owner-directed curation pass; flagged for supervisor review).",
   "groups": [
     {
       "id": "flourishing",
@@ -529,7 +529,7 @@
         "meaning-making"
       ],
       "question_draft": "Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?",
-      "art": "#ART/2024_HGK_22884_0776_000(fu_baoshi_appreciating_paintings_under_trees110745).jpg"
+      "art": "creation.jpg"
     },
     {
       "id": "creativity",
@@ -544,7 +544,7 @@
         "creation"
       ],
       "question_draft": "What is the creative capacity actually for, and what does it need to work?",
-      "art": "#ART/2024_NYR_23141_0059A_000(wassily_kandinsky_ensemble075923).jpg"
+      "art": "creativity.jpg"
     },
     {
       "id": "procrastination",
@@ -559,7 +559,7 @@
         "temporal discounting"
       ],
       "question_draft": "Why does a person who knows better still postpone, and what actually closes the gap between intending and doing?",
-      "art": "#ART/Portrait/2024_HGK_21649_0132_000(le_pho_la_lettre062220).jpg"
+      "art": "procrastination.jpg"
     },
     {
       "id": "suffering",
@@ -637,7 +637,7 @@
         "schele"
       ],
       "question_draft": "What is leisure for, and why does a life without it feel impoverished even when it is full?",
-      "art": "#ART/2017_NYR_15004_0026A_000(claude_monet_matinee_sur_la_seine010143).jpg"
+      "art": "leisure.jpg"
     },
     {
       "id": "executive-functions",
@@ -653,7 +653,7 @@
         "willpower"
       ],
       "question_draft": "What does it cost to hold a plan in mind against distraction, and who or what is doing the holding?",
-      "art": "#ART/Portrait/2025_HGK_24143_0127_000(le_pho_les_joueuses_de_cartes_d6526772073731).jpg"
+      "art": "executive-functions.jpg"
     }
   ],
   "backlog": [
