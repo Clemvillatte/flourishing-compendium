@@ -6,7 +6,7 @@ Frustration is what a blocked path feels like from inside. The goal is set, the 
 
 The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress.
 
-The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. The contemplative traditions ask whether the feeling is ever useful at all: Shantideva's patience chapter poses the question directly, asking what use frustration is whether or not the problem has a remedy.
+The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. The contemplative traditions ask whether the feeling is ever useful at all: Shantideva's patience chapter poses the question directly, asking what use the dejection is whether or not the trouble has a remedy.
 
 ## Nearby terms
 
@@ -33,7 +33,7 @@ Seneca's line is about how anger develops, not a definition of frustration, and 
 
 [The irritation of doubt](https://clemvillatte.github.io/flourishing-compendium/#card=The%20irritation%20of%20doubt): Peirce's name for the discomfort an unresolved belief produces, the discomfort inquiry exists to settle: frustration's cognitive cousin.
 
-[The insatiability of craving](https://clemvillatte.github.io/flourishing-compendium/#card=The%20insatiability%20of%20craving): Schopenhauer's pessimism on desire, on which life is filled with unavoidable frustration, the line quoted above from the encyclopedia entry on him.
+[The insatiability of craving](https://clemvillatte.github.io/flourishing-compendium/#card=The%20insatiability%20of%20craving): Schopenhauer's pessimism on desire, on which life is filled with unavoidable frustration, the line quoted below from the encyclopedia entry on him.
 
 Schnitker's definition makes patience the counter-construct, and her training study suggested that patience might be modifiable:
 
@@ -65,7 +65,7 @@ The accounts also map where the pressure goes.
 
 [Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the original exit: aggression, revised by Berkowitz into inclinations rather than acts, with the reformulation quoted in the section below.
 
-[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure: strain generates negative emotions that press for corrective action, with anger the most critical reaction, and delinquent coping may not result if the person has other coping resources.
+[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure: on the theory, strain generates negative emotions that press for corrective action.
 
 [Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): the neighbouring state, held in its own dossier, with the Seneca line drawn in Nearby terms above.
 
@@ -73,7 +73,7 @@ The accounts also map where the pressure goes.
 
 ### Tolerance: the capacity to stand it
 
-[Distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29): the clinical construct that splits the perceived capacity to withstand aversive states from the behavioral act of withstanding them, with the DBT module teaching crisis survival and acceptance rather than approval.
+[Distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29): the clinical construct that splits the perceived capacity to withstand aversive states from the behavioral act of withstanding them, with the DBT module teaching crisis survival and acceptance strategies.
 
 The tolerance construct has a clinical shadow. In Rational Emotive Behavior Therapy, low frustration tolerance is one of the four core irrational beliefs:
 
@@ -87,7 +87,7 @@ That list joins the two failure modes this theme keeps meeting: the hostile exit
 
 [Read anger as blocked striving with a wounded self-regard](https://clemvillatte.github.io/flourishing-compendium/#card=SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's diagnosis, where evil is every kind of pain, especially the pain that frustrates our longings: the grievance read as blocked striving, and examined as such.
 
-[Dissect anger when it arises](https://clemvillatte.github.io/flourishing-compendium/#card=B105%20%E2%80%94%20Dissect%20anger%20when%20it%20arises): Shantideva's usefulness question from the patience chapter: if a problem has a remedy, what use is frustration; if there is no remedy, what use is frustration.
+[Dissect anger when it arises](https://clemvillatte.github.io/flourishing-compendium/#card=B105%20%E2%80%94%20Dissect%20anger%20when%20it%20arises): Shantideva's usefulness question from the patience chapter: if a problem has a remedy, what use is the dejection; if there is no remedy, what use is the dejection.
 
 [The "is this up to me?" check](https://clemvillatte.github.io/flourishing-compendium/#card=K271%20%E2%80%94%20The%20is%20this%20up%20to%20me%20check): Epictetus's portable test, run at the moment a concern appears: what is up to you gets an action, what is not gets released.
 
