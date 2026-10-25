@@ -8,9 +8,9 @@ tags: ["topic/emotion", "topic/identity", "topic/meaning", "topic/death", "topic
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
-*Historical/biographical narrative, cross-cultural · South Africa, 1962-1990 · [Nelson Mandela, Long Walk to Freedom](https://en.wikipedia.org/wiki/Nelson_Mandela)*
+*Historical/biographical narrative, cross-cultural · South Africa, 1962-1990 · [Nelson Mandela — Wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela) · quarry years and eye damage: [LA Times, 1995](https://www.latimes.com/archives/la-xpm-1995-02-11-mn-30638-story.html)*
 
-Mandela spends twenty-seven years in prison, eighteen of them on Robben Island, thirteen of those breaking rocks in the lime quarry whose stinging grit and blinding glare permanently damaged his eyes. He is permitted one visit and one letter every six months. He studies his jailers' language and history. When released, he negotiates with the government that jailed him rather than overthrowing it, and invites one of his prison guards to his inauguration.
+Mandela spends twenty-seven years in prison, eighteen of them on Robben Island, thirteen of those breaking rocks in the lime quarry whose stinging grit and blinding glare permanently damaged his eyes. He is permitted one visit and one letter every six months. He studies his jailers' language and history. When released, he negotiates with the government that jailed him and invites one of his prison guards to his inauguration.
 
 The detail that matters is what he did with the years. The warders expected bitterness and found study. Freedom, in his account, was something practised in a cell long before the door opened.
 
