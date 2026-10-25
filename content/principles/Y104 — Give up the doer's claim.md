@@ -20,7 +20,7 @@ The verse the entry cites for the guṇas reads: "When wise persons see that in 
 
 In both verses, the claim is that the actions of the body and senses belong to nature's processes. The wise person recognises this while acting. Neither verse tells the reader to leave "I" out of accomplishment stories or to credit collaborators and conditions. That bounded practice, one story per week, is the entry's own adaptation. The entry's phrase "the inner announcement of 'I do this'" is also its wording, not the translation's.
 
-The psychology parallel names the fundamental attribution error (Ross, 1977, [p. 184](https://ia800601.us.archive.org/21/items/15341_Readings/15341_Readings/Social_Cognition/Ross_Intuitive_Psychologist_in_Adv_Experiment_Soc_Psych_vol10_p173_text.pdf)), which Ross defined as the tendency "to underestimate the impact of situational factors and to overestimate the role of dispositional factors in controlling behavior" — a bias about explaining other people's behaviour, not about crediting the self. Over-crediting the self belongs to self-serving attribution, which the parallel now names separately. The Buddhist parallel is cited at second hand.
+The psychology parallel names the fundamental attribution error (Ross, 1977, [p. 183](https://ia800601.us.archive.org/21/items/15341_Readings/15341_Readings/Social_Cognition/Ross_Intuitive_Psychologist_in_Adv_Experiment_Soc_Psych_vol10_p173_text.pdf)), which Ross defined as the tendency "to underestimate the impact of situational factors and to overestimate the role of dispositional factors in controlling behavior" — a bias about explaining other people's behaviour, not about crediting the self. Over-crediting the self belongs to self-serving attribution, which the parallel now names separately. The Buddhist parallel is cited at second hand.
 
 **Plain words** The Gita says a wise person sees that the body, senses and natural forces do the acting, and that "I" is not the one doing it. As a modest exercise, tell one story of something you achieved without the word "I" and see how much of the credit belonged to other people and conditions.
 
@@ -30,7 +30,7 @@ The psychology parallel names the fundamental attribution error (Ross, 1977, [p.
 
 - [Bhagavad Gita 5.8-9, Swami Mukundananda translation, holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/5/verse/8) — opened
 - [Bhagavad Gita 14.19, holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/14/verse/19) — opened (translator not stated on the page)
-- Ross, L. (1977), "The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process", in Advances in Experimental Social Psychology, vol. 10, p. 184 — [Internet Archive PDF](https://ia800601.us.archive.org/21/items/15341_Readings/15341_Readings/Social_Cognition/Ross_Intuitive_Psychologist_in_Adv_Experiment_Soc_Psych_vol10_p173_text.pdf) — opened; the FAE definition is quoted verbatim on printed p. 184 (the chapter begins at p. 173)
+- Ross, L. (1977), "The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process", in Advances in Experimental Social Psychology, vol. 10, p. 183 — [Internet Archive PDF](https://ia800601.us.archive.org/21/items/15341_Readings/15341_Readings/Social_Cognition/Ross_Intuitive_Psychologist_in_Adv_Experiment_Soc_Psych_vol10_p173_text.pdf) — opened; the FAE definition is quoted verbatim on printed p. 183 (verified by rendering the PDF page; the chapter begins at p. 173)
 
 ## Psychology parallels
 
