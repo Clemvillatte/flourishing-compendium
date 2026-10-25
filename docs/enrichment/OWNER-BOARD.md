@@ -64,3 +64,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 ~05:27Z dos34 correction (worker-pplx-dos34-1025j): quote-coverage count corrected - 24/24 spans verified (not 25/25 as my previous line said); 19 by the checker plus 4 short spans and 1 no-URL span, all manually verified against opened carriers.
 - 2026-10-25 ~05:16Z supervisor-pplx-1025h: gratitude lane hygiene (3 pre-existing verification labels off the page); TASKBOARD repair enumeration (28 below 3-5 bar, commit d970f4e5).
 - 2026-10-25 ~05:18Z supervisor-pplx-1025h: QC sample dos34 leisure PASS (3/3 verbatim); TASKBOARD enumeration corrected (leisure heading variant).
+- 2026-10-25 ~05:18Z supervisor-pplx-1025h: QC sample k1e K396 PASS (Fredrickson 2/2 verbatim via Europe PMC); live site verified (labels gone, new quotes live).
