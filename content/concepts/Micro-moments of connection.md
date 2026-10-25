@@ -15,6 +15,8 @@ Micro-moments of connection is this page's title for the construct Barbara Fredr
 
 The moments are momentary by definition, and the article reports studies of everyday interactions: "studies on people directed to have meaningful interactions with the barista while buying coffee, greet and thank strangers, and chat with strangers found that these interactions increased their happiness and positivity" ([same article](https://greatergood.berkeley.edu/article/item/what_is_love_scientists_have_answersbut_they_dont_all_agree)). Fredrickson's research program connects positive emotions with biology: "Fredrickson's team has also identified biological resources, such as cardiac vagal tone (indexed as heart rate variability) that influence, and are influenced by positive emotions in an upward spiral dynamic" ([Fredrickson and Joiner, PEP Lab, UNC](https://peplab.web.unc.edu/wp-content/uploads/sites/18901/2019/06/FredricksonJoiner2019PPSupwardspirals.pdf)).
 
+The three ingredients the summary lists give the construct its shape. Shared positive emotion makes the moment a positive one, biobehavioral synchrony makes it a two-person one, and mutual care makes it more than mood. The emotion is described as momentary, swelling up and expanding awareness of the surroundings, the self, and the other person, which is why the studies the article reports concern greetings and barista exchanges rather than relationships as wholes: the unit the construct names is small enough to occur between strangers, and the studies of greeting and thanking strangers are reported as increasing happiness and positivity.
+
 ### Here
 
 - [[D161 — See the small]] cites this concept as its psychology parallel: the small exchanges are the material of relational health.
