@@ -30,7 +30,7 @@ The verses that follow make the registers interdependent:
 
 Garfield's commentary on the chapter reads the relation this way: understanding the ultimate nature of things just is understanding that their conventional nature is merely conventional, and explaining emptiness must use words and concepts, which are themselves conventional. Neither register is an untruth; each needs the other. (Nagarjuna, MMK 24.8-10.)
 
-**Plain words** Two registers, one world. At the checkout, money works; that is a truth of worldly convention, and it is a truth. Under analysis, the same money holds no independent essence; that is the ultimate truth, and it does not cancel the checkout. The two registers need each other: the ultimate is taught in conventional language, and understanding the ultimate is seeing the conventional as merely conventional.
+**Plain words** The teaching is a cure for a pair of chronic errors. One error treats the everyday ledger as the final word, so the checkout, the mortgage and the grudge all seem made of stone. The opposite error, hearing that nothing has its own essence, concludes the ledger is fake and stops paying. Nagarjuna's two truths hand each error its correction: the ledger is fully usable and fully real in its own register, the analysis that dissolves it is equally right in its register, and the mature view stands in the first while never forgetting the second. The checkout works; the stone was never there.
 
 *For example:* Money is real at the checkout and empty under analysis; both true, and neither cancels the other.
 

@@ -9,7 +9,6 @@
     "D074",
     "B043",
     "B054",
-    "B122",
     "B006",
     "B053",
     "B069",
@@ -61,7 +60,8 @@
     "K005",
     "A030",
     "A013",
-    "A047"
+    "A047",
+    "B122"
   ],
   "in_progress": null,
   "flagged": {
@@ -71,7 +71,7 @@
     "B053": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): plain-words defect ABSENT \u2014 the plain-words section is a genuine re-derivation for the user (each line a fresh sentence from the numbered steps), not a replicate of the quoted source structure; no repair needed.",
     "B054": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): plain-words defect ABSENT \u2014 the 'plain words repeat' concern does not hold on the current page: the numbered exercise lines and the plain-words sentence differ in register and wording; the Spinoza Ethics V fragment is cited, not restated.",
     "B069": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): plain-words defect ABSENT \u2014 the plain-words paragraph restates the two-arrow distinction in the compendium's voice without reusing the Spinoza/verse wording; formatting repair applied (list newline before the Related links).",
-    "B122": "supervisor disposition (2026-10-22 04:19Z, worker-sup-flourish-1022, corrected after advisor QC): repair verified \u2014 the Garfield MMK 24.8 and 24.10 verses re-verified verbatim (fresh fetch of the uoregon.edu carrier) exactly as the page quotes them; formatting repair applied (list newline before the Related-concepts line).",
+    "B122": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
     "B133": "supervisor disposition (2026-10-22 04:19Z, worker-sup-flourish-1022, corrected after advisor QC): collapse-equation defect ABSENT on the current page \u2014 the page explicitly marks the Zen saying as 'a different and larger matter' and labels the ordinary-anger application; the Zhuangzi 6 citation was not re-fetched this session, so no verbatim claim is recorded here (left as-is on the page, which cites its carrier).",
     "P091": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 all three Bergson fragments re-verified verbatim vs the Gutenberg Pogson translation of Time and Free Will (clock-dial sentence, 'melting, so to speak, into one another', 'may be compared to a living being whose parts, although distinct, permeate one another'); the tune example is presented as Bergson's illustration, not an added claim.",
     "P100": "supervisor disposition (2026-10-22 04:07Z, worker-sup-flourish-1022): repair verified \u2014 all three Dewey fragments re-verified verbatim vs the Standard Ebooks chapter VI text, including the italicized 'of' ('the past of the present'); the education warning is attributed to Dewey's own text, not asserted as Dewey's empirical finding.",
@@ -99,7 +99,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 22,
-  "updated": "2026-10-25T12:46:16+00:00",
+  "updated": "2026-10-25T12:47:53+00:00",
   "band_done": false,
   "notes": {
     "AT053": {
@@ -143,6 +143,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6"
+    },
+    "B122": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.lotsawahouse.org/indian-masters/nagarjuna/fundamental-wisdom-middle-way/"
     }
   }
 }
