@@ -361,8 +361,9 @@ still blocks module production.
   The Basics of Existential Therapy, Yalom/Frankl/May readings with
   clinical use), so the therapy half no longer needs an anchor before
   Gate 1; the evidence-and-limits clause still exceeds both syllabi
-  and the Binswanger/Boss elective remains unanchored (recorded in
-  the scope doc). Pragmatism: process thought is now anchor-verified
+  and the Binswanger/Boss elective is now anchored with a thinner-support
+caveat (Rutgers GSAPP Daseinsanalytic therapy class; HEPI Binswanger/Boss
+hours), recorded in the scope doc and ledger. Pragmatism: process thought is now anchor-verified
   as a strand (Edinburgh Honours Option Whitehead's Metaphysics; Cobb
   Institute process thought and practice syllabus), with its
   placement beside the pragmatists remaining the scope's own choice;

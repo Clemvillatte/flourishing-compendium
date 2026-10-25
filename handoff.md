@@ -3322,8 +3322,9 @@ labelled proposed). Gate 1 remains open; independent review required; no
 gate cleared or signed. Open items for the next degrees worker: the owner
 sign-offs/items listed on OWNER-BOARD (Daoism ritual-liturgy exclusion
 challenge; Buddhism rebirth-cosmology boundary; Pragmatism process-thought
-placement and Rorty elective; Existentialism evidence-and-limits clause and
-Binswanger/Boss elective unanchored; Positive criticisms framing and
+placement and Rorty elective; Existentialism evidence-and-limits clause
+unanchored (Binswanger/Boss elective now anchored via Rutgers GSAPP and
+HEPI, thinner-support caveat recorded); Positive criticisms framing and
 effect-size emphasis proposed, not anchor-established). Practice pilot
 mod-qg-3 remains DRAFT NOT CLEARED (QG-M03-01 YoQi VOD access ruling with
 the owner; replacement candidate S0ZqKo0KQvA needs verification-band
