@@ -3150,3 +3150,14 @@ session b7e5875a complete.
 >>>>>>> c4fc8df8b (launcher: Path A worker launched 2026-10-25 10:23Z (outlook alias, task a836db7b) — record appended)  scripts/baton.py.
 - Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
   No coordination needed post-launch; the baton system governs.
+
+## AGENT LAUNCH (2026-10-25 10:40Z, launcher pplx-1025-launch-b, no baton held)
+
+Path A launch: account johnnysaunders405+ihxrm@outlook.com (signed in as
+johnnysaun74365, Free plan), worker prompt (current PROMPT-WORKER.md with the
+session token filled, 8414 chars) pasted in one call and verified head/tail
+before submit. Agent running at
+https://www.perplexity.ai/computer/tasks/9b23d590-2287-4d88-9479-2e5d8bfbcf53
+(owner provided the 6-digit code; free-plan onboarding cleared; Computer-mode
+submit confirmed by URL flip). Second launch (larichedavid+0001@gmail.com) in
+progress via Add account flow per owner directive.
