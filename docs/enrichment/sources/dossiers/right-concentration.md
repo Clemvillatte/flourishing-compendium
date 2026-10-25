@@ -427,3 +427,13 @@ prose em dashes; card-link set identical to the previous revision
 the revised Markdown is flagged for the supervisor's
 publication/rebuild step. Released as a REVIEW HANDOFF, not fully
 GF-compliant.
+
+## GF-model verification (worker-pplx-dos24-1025a, 2026-10-25)
+
+Verified that the dossier is already in the GF-model interwoven-thread
+format per the 2026-10-25 owner orders: no `## The map:` header, all
+subsection headings are questions, connected prose throughout, Story
+section carries one-line loglines. Checker exit 0 (61 card links
+resolve, 30 headers, 3 external carriers); density check 0 dense; 25
+paragraphs, 1.8 card links per paragraph. No edits needed; verified
+and released.
