@@ -736,6 +736,11 @@
      "t": "2026-10-24T14:39:45+00:00",
      "to": "returned",
      "note": "advisor QC: rung 3 does not apply (P162 has 8 stories); quotes kept as verified research material, draft parked; also repair list noted: no absolutes beyond sources, keep split quotes separate"
+    },
+    {
+     "t": "2026-10-25T14:55:16+00:00",
+     "to": "returned",
+     "note": "QC pass 1025x: angle distinct from all 8 P162 stories (clauses checked); disposition under registry rule = supervisor's call"
     }
    ]
   },
@@ -801,6 +806,11 @@
      "t": "2026-10-24T14:47:08+00:00",
      "to": "returned",
      "note": "duplicate of ST368 (Zhuangzi 19.4 ferryman/archer); parked as lane candidate for supervisor: backlink D096 to ST368 or register as D096 angle"
+    },
+    {
+     "t": "2026-10-25T14:55:16+00:00",
+     "to": "returned",
+     "note": "QC pass 1025x: duplicate of ST368 confirmed (same passage/translation); recommend option (a) D096 backlink onto ST368, discard draft; supervisor decides"
     }
    ]
   },
@@ -845,5 +855,5 @@
    ]
   }
  },
- "updated": "2026-10-24T14:54:12+00:00"
+ "updated": "2026-10-25T14:55:16+00:00"
 }

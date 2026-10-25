@@ -90,3 +90,28 @@ narratives and angles; both pairs satisfy the taskboard's distinct-angle convent
 ## Leads for the next s1b teller (verified open at T+48, 2026-10-24)
 
 Zero-story Daoism/Buddhism/Pragmatism principles not blocked by any lane draft at scan time (beyond the ones this session covered): D060, D140, D187, D132, D127, D103, D135, D136, D177, D076, D155, D033, D110 (principle body already retells the horse story), D150, D025, D084 (Zhuangzi useless tree - well-known), D189, D113, D042, D014, D096 (see s1b-036/ST368 flag: consider a D096 backlink to ST368 instead), D066 (covered by s1b-035), D029 (covered by s1b-037), D192 (covered by s1b-038). Check for narrative duplicates in content/stories/ AND all lane drafts before writing: backlink scans miss same-passage stories (lesson of s1b-036 vs ST368).
+
+## QC pass on the returned drafts (2026-10-25 15:00Z, qc-storyteller-pplx-1025x, s1b baton)
+Both returns are parked for supervisor decisions, not teller repairs; this pass prepares the
+disposition evidence. Statuses left as found (returned).
+
+- s1b-033 (Rodia / P162): the return reason is the lane-registry rule (P162 already has 8
+  stories), not a draft defect. Coverage check against all 8 published P162 stories this
+  session (ST138 flow/everyday; ST140 Gardner showing up through hardship; ST441 maintenance
+  after success; ST443 small next action; ST447/449/451/453 editorial-application angles):
+  NONE carries the Rodia angle — decades-long weekly, unwitnessed, unrewarded physical
+  doing with no audience, no buyer and no protocol structure. The draft's quotes were verified
+  by the drafting teller (2026-10-24); the parked repair list (no absolutes beyond sources,
+  keep split quotes separate) applies only if the draft is revived. QC position: the angle is
+  distinct from the existing 8; whether P162 takes a 9th story is the supervisor's/owner's
+  call under the registry rule.
+- s1b-036 (Zhuangzi 19.4 ferryman/archer / D096): duplicate of published ST368 (same
+  passage, same Legge translation, substantially the same quotes; carriers differ: ctext.org
+  vs the METIS PDF). ST368 maps the passage to D073 only; the draft maps it to D096. What
+  the draft adds beyond ST368: the Chinese line 凡外重者內拙 quoted alongside Legge, and the
+  explicit D096 framing (outer reward pressure displacing the inner). QC RECOMMENDATION:
+  option (a) — add a D096 backlink to the existing ST368 and discard this draft; a second
+  story page would retell the identical passage with the identical quotes, and the D096
+  reading can live as a backlink clause on ST368. If the owner prefers a separate page,
+  the quoted Chinese line is the only genuinely new material. Backlink work is
+  supervisor-only either way.
