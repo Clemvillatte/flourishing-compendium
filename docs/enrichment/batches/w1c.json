@@ -103,7 +103,14 @@
   "Eudaimonic motivation, intrinsic goals",
   "Cognitive load theory",
   "Coping flexibility",
-  "Genuine doubt"
+  "Genuine doubt",
+  "Cultural recognition",
+  "The moral situation",
+  "Stress response (Lupien, McEwen)",
+  "Two-process model of sleep",
+  "Empiricism — experience over argument",
+  "The meaning of suffering",
+  "Connectedness in well-being research"
  ],
  "in_progress": null,
  "flagged": {
@@ -143,7 +150,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-25T12:26:14+00:00",
+ "updated": "2026-10-25T12:34:23+00:00",
  "band_done": true,
  "new_concepts": [
   {
