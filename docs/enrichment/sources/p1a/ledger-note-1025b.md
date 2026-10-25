@@ -29,3 +29,9 @@ Per-item verification pass on the p1a "Reopened for QC" flags, following the p1z
 - Current page: Plain words explains reciprocal care directly ("mutual, recognised care and activities the people share"); the relocation example includes "Try a feasible arrangement, then review it together rather than assuming that contact will sustain itself".
 - Evidence: repair-b303ba60.md §A063 (NE VIII Ross opened; VIII.1 quotation matches; Holt-Lunstad et al. and Harvard Gazette annotations qualified).
 - Disposition: RESOLVED, no page edit needed; source verification not repeated.
+
+## D001 / D037 / D039 / D019 / D055 / D054 / D080: editorial repairs
+
+- Method: current pages re-read this session against each allegation; the specific requested repair confirmed present in each Plain words/For example section; carrier evidence per repair-b303ba60.md sections (Legge Daodejing/Zhuangzi, SEP Hansen/Chan/Fraser, Wilhelm/Baynes, Lally abstract) not re-fetched.
+- D001: Hansen path-reading qualification present and attributed; example revisable. D037: political stakes and Yan Hui danger retained; receptivity vs blankness distinguished. D039: chapter-26 vs modern-rest distinction explicit. D019: standalone sufficiency explanation. D055: non-forcing defined directly; feedback in application. D054: automaticity explained before instructions; counts verified per ledger. D080: accommodation explained without flattening judgments.
+- Disposition: all RESOLVED, no page edits needed.
