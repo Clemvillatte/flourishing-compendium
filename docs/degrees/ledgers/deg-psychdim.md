@@ -99,7 +99,7 @@ Lecture 11 (Evolution, Emotion, and Reason: Emotions, Part I, 53:15):
 identity, duration and instructor as above. What was read: chapter 1
 (00:00:00 to 00:09:06) in full from the transcript on the
 [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-11), plus the
-chapter outline of the rest. Chapter 1 content, from the transcript:
+chapter outline of the rest. Chapter 2 (00:09:06 to 00:15:45) was then read in full as well: Bloom presents Phineas Gage and Damasio's patient Elliot, frontal-lobe damage cases in which a large part of emotional capacity was lost and with it the ability to prioritize and set goals, concluding that emotions set goals and establish priorities and that life without them would be impossible, and setting the agenda of universals and cultural differences. This serves the M2 emotion-functions row and links emotion to motivation. Chapter 1 content, from the transcript:
 Bloom opens the emotions unit from an evolutionary perspective, reading
 William James on why we smile and love, argues that what feels natural
 emerges from contingent aspects of our biological nature (his examples:
@@ -114,8 +114,8 @@ chapters, outline only: Phineas Gage and the Loss of Emotional Capacity
 [00:09:06]; Facial Expressions and Smiles in Particular [00:15:45];
 Question and Answer on Smiles [00:28:08]; Non-social Emotions: Fear
 [00:32:22]; Social Emotions and Altruism [00:36:29]. Status for the
-chapter-1 segment: verified-video; the remaining segments are candidates
-until their transcripts are read.
+chapter-1 and chapter-2 segments: verified-video; the remaining segments
+are candidates until their transcripts are read.
 
 | Lecture | Links | Duration | Planned use |
 |---|---|---|---|
@@ -158,10 +158,16 @@ two-lecture social psychology sequence on how we think about ourselves
 and others, using the fascination with celebrities (the Aniston and
 Pitt separation) to raise the question of why we are so interested in
 other people, then sets up an individual-difference test from Gladwell
-recounting a Milgram package-passing study. This partial inspection
-keeps lecture 16 a candidate; the spotlight-effect chapter (from
-00:15:56) is the likely segment for the M5 self row and needs its
-transcript read before attachment.
+recounting a Milgram package-passing study. The chapter 2 segment
+(00:15:56 to 00:22:40) was then read in full: Bloom presents Gilovich's
+spotlight effect (people believe others notice them far more than they
+do, grounded in regret research: dying and old people regret what they
+did not try, and the stated reason is looking silly) and the
+transparency effect (we believe we are more transparent than we are;
+people overestimate how much others notice their secrets), with a
+classroom lying demonstration. This serves the M5 self row (how we think
+others see us). Status for the chapter-2 segment: verified-video; the
+remaining segments are candidates until their transcripts are read.
 
 ## Coverage matrix (v3, current; supersedes v1, v2 and v2.1)
 
@@ -196,7 +202,7 @@ blocking gaps on the register, not quiet omissions.
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
-| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
+| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 16 chapter 2 (00:15:56 to 00:22:40) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading (OYC lecture 14 is a candidate pending a content check; it is not assumed to teach self-determination theory) | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
