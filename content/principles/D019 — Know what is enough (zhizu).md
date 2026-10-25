@@ -22,15 +22,15 @@ Chapter 44 of the Daodejing asks what a person would sacrifice for fame and weal
 
 Chapter 46 calls contentment's sufficiency "enduring and unchanging" ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). Alan Chan's interpretation adds a distinction: naturalness includes basic human needs, while self-gratifying desire can keep expanding without an end ([Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/)).
 
-As an application, decide what would meet a need before allowing every further opportunity to become a requirement. That is different from treating an unmet need as sufficient or asking someone else to accept deprivation.
+My practical reading is to name what would meet a need before deciding whether to pursue more. That judgment belongs to the person whose needs are at stake; it is no excuse to call someone else's deprivation sufficient.
 
 ### Plain words
 
-Enough is a judgment about what meets a need. Once that need is met, another gain may cost time or attention you want to give elsewhere. Genuine obligations still matter when you make that judgment; an unmet need does not become sufficient merely because someone calls it so.
+Decide what you need, then ask what pursuing more would cost.
 
 ### For example
 
-Imagine a freelancer deciding how many clients to accept. They first consider essential costs and caring responsibilities, then choose a workable limit. When another inquiry arrives, they can revisit that judgment instead of assuming that either accepting or refusing is automatically the wiser choice.
+Suppose a freelancer can cover their essential costs and caring responsibilities with four clients. A fifth inquiry arrives. Before answering, they could write down what the extra fee would make possible and what time they would lose. Their answer can change as their circumstances change; this is a suggested stopping question, not a rule that four clients is enough for everyone.
 
 ## Related concepts
 - [[T012 — Laozi]]: the chapter 44 questions the page draws on: knowing what is enough.

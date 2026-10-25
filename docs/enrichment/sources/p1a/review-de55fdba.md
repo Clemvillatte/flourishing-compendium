@@ -27,3 +27,12 @@ Opened through search and fetch:
 - [John Thompson's Silkqin source note, footnote 4](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm). Opened the full note, which reproduces the Chinese and Legge translation in modernized romanization. It supports the page's explicit attribution to Legge with pinyin spellings, rather than pretending those spellings are unchanged from the 1891 printing.
 
 Changes: replaced the three-sentence Plain words passage with one direct sentence. Replaced “unresolved shift of perspective” with concrete questions about labels and retained the distinction at the dream's close. The illness/help example remains a suggested application rather than a historical instruction, clinical intervention or proof of a theory of identity. Preserved all original links, front matter, opening statement and reflection. No claim rests on the unopened secondary readings listed below the body.
+
+## D019: Know what is enough
+
+Opened through search and fetch:
+
+- [Laozi, *Tao Teh King*, Legge translation, chapters 44 and 46](https://www.gutenberg.org/files/216/216-h/216-h.htm). Verified chapter 44's four quoted verse lines without alteration. Chapter 46 ends with “the sufficiency of contentment is an enduring and unchanging sufficiency”; the page's brief quote is exact and its locator is explicit.
+- [Alan Chan, “Laozi,” *Stanford Encyclopedia of Philosophy*, §7, “Naturalness and Nonaction”](https://plato.stanford.edu/entries/laozi/). Fetched the full entry and extracted §7 separately because the full entry was truncated before that section. Read the explicit distinction between basic human needs and desire that inflates self-gratification without end. No claims about money, happiness thresholds or psychological outcomes are taken from the unopened financial-well-being readings in the preserved source list.
+
+Changes: retained the primary verse and the basic-needs caveat, converted Plain words to one sentence, and turned the vague freelancer example into a concrete comparison of an additional fee against time lost. Four clients is an invented illustration, not data or a recommended workload. The practical reading is personally owned; no one else's deprivation is redefined as enough. Preserved existing links, opening statement, front matter and reflection.
