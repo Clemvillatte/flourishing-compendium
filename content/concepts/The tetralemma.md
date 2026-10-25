@@ -17,7 +17,15 @@ And the upshot of rejecting all four:
 
 > "Neither of the four alternatives just examined allows a plausible understanding of cause and effect as existing with svabhāva." (Westerhoff, [SEP: Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))
 
-### Here
+### What each horn is
+
+The four horns name the only ways something could be caused. A thing might arise from its own nature, springing from itself; or from something external, made by another; or from both at once; or from neither, arriving with no cause at all. Nāgārjuna does not conclude that causation is impossible. He concludes the trouble lies in a mistaken supposition underneath every horn — that cause and effect exist as independent, self-contained objects. As the same entry puts it, Nāgārjuna's concern is "that our understanding of the causal relation must be based on some faulty premiss" (Westerhoff, [SEP: Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)). The four-cornered examination is a diagnostic: run through every option the mind can reach, and watch the shared assumption surface as the common defect.
+
+### What survives the examination
+
+The Stanford Encyclopedia entry reads the upshot as mutual dependence, not denial. Cause and effect are "not independent but mutually dependent" — the effect plainly needs the cause, and the entry notes three ways of making sense of the harder claim that the cause also depends on the effect. What the tetralemma dissolves is the picture of things standing alone with their own nature (svabhāva), not causation itself. The entry adds a boundary: showing causal dependence supports emptiness of svabhāva, but universal emptiness rests on dependence on cognition, "generally regarded as the most profound understanding of emptiness" (Westerhoff, [SEP: Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)).
+
+### In the compendium
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)]] — the principle pairs the tetralemma's dissolution of fixed positions with the Zhuangzi's equalising of right and wrong.
 
@@ -32,7 +40,7 @@ And the upshot of rejecting all four:
 
 ## Sources
 
-- [Westerhoff JC. Nāgārjuna. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nagarjuna/) — the four-ways-of-causal-production passage and the svabhāva conclusion.
+- [Westerhoff JC. Nāgārjuna. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nagarjuna/) — the four-ways-of-causal-production passage, the svabhāva conclusion, and the mutual-dependence reading.
 - Nagarjuna, Mūlamadhyamakakārikā — the work discussed in the Stanford Encyclopedia entry above.
 
 ## Cited in philosophy parallels
