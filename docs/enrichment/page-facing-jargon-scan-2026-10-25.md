@@ -98,6 +98,7 @@ record claims only that — page-facing workflow jargon is gone from the 55 page
 validators pass. It is not a claim of scholarly source-fidelity or prose approval;
 advisor QC rounds 2-4 repaired over-readings, unsupported claims and provenance errors
 found during review. The Aristotle NE II citation on Competence was resolved during
-round 5: the carrier (MIT Classics, W.D. Ross translation) was opened, the practice
-passage quoted verbatim, and the citation grounded — the word "competence" appears
-nowhere in NE II, so the page now attributes only the practice account to Aristotle.
+rounds 5-6: the carrier (MIT Classics, W.D. Ross translation) was opened, the
+practice passage quoted verbatim, and the page now attributes only the practice
+account to Aristotle — the word "competence" appears nowhere in NE II, so no
+historical-lineage or source-fidelity claim is made for the page.
