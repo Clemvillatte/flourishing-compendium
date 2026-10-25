@@ -399,3 +399,33 @@ creative act, the punishment as its permanent cost). Editorial review
 only; no carriers or cards freshly opened this pass.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 47 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the canonical cluster (right action,
+Eightfold Path, three trainings, action over intention, karma),
+spontaneous right action, ahimsa, compassion, the nonviolence cluster
+(Gene Sharp's methods, Rosenberg's NVC), conduct even in just war,
+courage as action despite fear, the Mill harm principle and the Stoic
+judgment-adds-the-harm entry, generosity, prosocial honesty research,
+truthfulness, fidelity, the Kant categorical imperative and courage-
+against-impulse entries, the Aristotle virtue cluster (natural virtue,
+catalogue, cardinal virtues, unity), Kohlberg's moral development,
+Bandura's social cognitive theory of morality and moral disengagement,
+opposite action, virtue ethics, xiushen, the rehearsal of virtue,
+self-constitution through action, svadharma, the bodhisattva vow, care
+and role ethics, Heidegger's call of conscience, skillful means, action
+precedes feeling and action before feeling, action commitment,
+effortless action through long effort, designing for virtue and the
+environment for virtue, Dewey's moral situation and its situationist
+research, and ethics as foundation in Johnston's Yoga Sutra reading.
+No mismatches found; no edits made. This strengthens the earlier
+voice-audit review (all 4 candidates kept): the flagged constructions
+are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
