@@ -23,6 +23,10 @@ His counter-hypothesis, in the same abstract:
 
 The social intuitionist model Haidt presents states that moral judgment is generally the result of quick, automatic evaluations, intuitions, and deemphasizes the private reasoning done by individuals in favour of social and cultural influences ([2001 abstract](https://pubmed.ncbi.nlm.nih.gov/11699120/)). On Haidt's proposed model, a reason offered after a judgment need not be the reason that produced it. A052 (Know when to depart from rules) and A105 (Recognise the limits of law) both list the concept among their psychology parallels.
 
+### The dilemmas as probes
+
+The intuitionist turn put the dilemma cases to empirical use. Greene and colleagues brought moral dilemmas into the scanner: "In two functional magnetic resonance imaging (fMRI) studies using moral dilemmas as probes, we apply the methods of cognitive neuroscience to the study of moral judgment." ([Greene, Sommerville, Nystrom, Darley and Cohen 2001, abstract, Science 293:2105-8](https://pubmed.ncbi.nlm.nih.gov/11557895/)). Their finding returns the weight to emotion, the trend the paper's opening names against the rationalist tradition: "We argue that moral dilemmas vary systematically in the extent to which they engage emotional processing and that these variations in emotional engagement influence moral judgment" ([same abstract](https://pubmed.ncbi.nlm.nih.gov/11557895/)). The paper closes on the bridge back to the philosophers: "These results may shed light on some puzzling patterns in moral judgment observed by contemporary philosophers" ([same abstract](https://pubmed.ncbi.nlm.nih.gov/11557895/)).
+
 ## Sources
 
 - [McConnell, T., "Moral Dilemmas", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-dilemmas/) — the verbatim definition of the dilemma cases
