@@ -470,3 +470,18 @@ quote_verify went 1 NOT FOUND -> 0. No new disagreement or interpretive verdict 
 Kant, On a Supposed Right to Lie from Philanthropy (line 146): the dossier's rendering dropped the translator's parenthetical "(Aussagen [Declarationen])" from inside the second sentence ("that declarations (Aussagen [Declarationen]) in general are not believed"), which broke word-for-word verification against the carrier. The parenthetical is restored verbatim; nothing else in the quotation changed. The carrier (scielo.org.co article quoting Kant's essay with its own translation, with the Academy pagination 8:426) was fetched today and both sentences verified against it, including the ellipsis over the intervening clause ("and though I indeed do no wrong... called a lie").
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 10 checked, 0 not found; density 0 dense; voice_audit exit 0.
+
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos20, 2026-10-25 11:00Z)
+
+The voice audit reported 7 structural candidates. All 7 were reviewed
+and kept: Interpersonal Deception Theory's "an interaction rather than
+a one-way act" (the theory's claim), the self-criticism finding's "an
+association rather than a prediction" (evidence scoping), beneficial
+speech's "true and useful to the hearer rather than merely pleasing"
+(the doctrine), Buber's "as a Thou" and Jaspers's "as selves rather
+than as cases" (both doctrines), MN 122's abstention list ("not
+engaging in talk that is base..."), and Kant's "harms not the murderer
+but humanity generally" (Kant's own argument). The opening and prose
+were read whole: no staged openers, closers or forced triads found.
+No text changed in this pass; the dossier's voice audit candidates
+are all substantive content, and the count stands at 7 reviewed keeps.
