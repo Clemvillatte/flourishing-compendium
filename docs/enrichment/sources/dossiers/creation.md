@@ -1300,7 +1300,7 @@ The advisor corrected the pass-12 ledger entry: a verifier run against a cache s
 
 Advisor's bounded voice check on the opening: "I find the question surfacing on ordinary days" was worker prose from the pass-9 restructure (commit c0fdafda4), not documented owner wording, and read as an invented lived-experience lean. Recast to the direct question without the autobiographical framing: "A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?" No quotations touched. Checker, quote verification (44 checked / 41 raw automated / 3 retrieval exceptions per the pass-12b corrected accounting) and density re-run green after the edit.
 
-## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos31, 2026-10-25 11:10Z)
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos31, 2026-10-25 11:02Z)
 
 The voice audit reported 12 structural candidates. All 12 were reviewed
 and kept: Dewey's creative impulse "follows the idea rather than the

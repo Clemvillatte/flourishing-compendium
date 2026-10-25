@@ -624,7 +624,7 @@ deployed asset predated the Weber fix. The local build contains it
 
 - 2026-10-25 10:52:34Z — typographical repair, pushed. The Aristotle Politics 1.1254b Rackham span contained fullwidth parentheses, which can never match an ASCII source page. They were replaced with ASCII parentheses. Perseus (perseus.tufts.edu) was returning a busy page to all automated fetchers during this pass, so the span could not be machine-reverified after the fix; the wording is otherwise untouched. Flagged for reverification once Perseus recovers.
 
-## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos22, 2026-10-25 11:09Z)
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos22, 2026-10-25 11:02Z)
 
 The voice audit reported 17 structural candidates. All 17 were reviewed
 and kept: vocation "a task set for a person rather than chosen" (the
