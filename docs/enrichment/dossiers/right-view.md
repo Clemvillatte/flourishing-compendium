@@ -93,25 +93,47 @@ Mill's suspicion is of one-sidedness. [partial truths in every opinion](https://
 
 The Stoics, finally, distrust scale rather than fixity or one-sidedness. Their contribution is a standing exercise rather than an argument: [the view from above](https://clemvillatte.github.io/flourishing-compendium/#card=The%20view%20from%20above), picturing human affairs from a great height until their scale changes, Marcus Aurelius's herds and solemnities seen from above.
 
-## Related questions and contrasts
+## Where the traditions genuinely disagree
 
-### Is the work with views a cultivation or a non-establishment?
+### Is there a next world?
 
-The strongest candidate pairs two passages that may not oppose each other. The early discourses cultivate right view as forerunner, in the MN 117 passage quoted above. The Mahāyāna passage that grounds the candidate instructs knowing and viewing dharmas without setting up the perception of a dharma:
+MN 60 presents right view as a claim about what is real, and grounds it:
 
-> "That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'... someone who has set out in the Bodhisattva-vehicle should know all dharmas, view them, be intent on them. And he should know, view and be intent on them in such a way that he does not set up the perception of a dharma... 'Perception of dharma, perception of dharma,' Subhuti, as no-perception has this been taught by the Tathagata. Therefore is it called 'perception of dharma'." ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt))
+> "Because there actually is the next world, the view of one who thinks, 'There is a next world' is his right view." ([MN 60, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))
 
-The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the comparison, not one of its poles: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)).
+In DN 2, the king reports the opposing position from Ajita Kesakambali, one of the teachers he consulted:
 
-Whether this is a disagreement at all is what remains unresolved. MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views.
+> "...there is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions. There is no this world, no next world, no mother, no father, no spontaneously reborn beings; no brahmans or contemplatives who, faring rightly and practicing rightly, proclaim this world and the next after having directly known and realized it for themselves." ([DN 2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html))
 
-### Is the view a set of convictions or a direct discernment?
+The two positions answer one question, and they leave no middle ground. Ajita presses the denial to its end: "With the break-up of the body, the wise and the foolish alike are annihilated, destroyed" ([DN 2](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)). The Buddhist texts add a wager for those who cannot verify the answer themselves: "If there is the next world, then this venerable person — on the breakup of the body, after death — will reappear in a good destination, a heavenly world", so that "this safe-bet teaching, when well grasped & adopted... covers both sides" ([MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html)).
 
-MN 117 presents the two forms within one discourse, which is a grading rather than a disagreement between traditions; the two-forms material stays in the body above. The open question is whether any tradition actually reads the conviction set as sufficient without the discernment.
+I would distinguish MN 60's conditional practical argument from its assertion that a next world exists. The wager supplies a reason for choosing how to act under uncertainty; it does not by itself verify that assertion. Here Ajita's teaching is presented through the king's report within a Buddhist discourse.
 
-### Are the truths tasks or beliefs?
+### Is the person known as a real and ultimate fact?
 
-The sutta's own presentation assigns each truth a task, in the SN 56.11 passage quoted above. The propositional reading exists in summary sources; the tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification.
+The early schools split over the status of the one who holds a view. The Kathāvatthu, the Theravāda Abhidhamma's book of disputed points, opens its whole survey with this question. The Theravādin asks whether the person is known as a real and ultimate fact; the Puggalavādin answers yes. Asked next whether the person is known in the same way as a real and ultimate fact, he answers, "Nay, that cannot truly be said." The Theravādin then challenges whether those two answers can consistently stand together. ([Kathāvatthu I.1, Aung and Rhys Davids translation, archive.org scan](https://archive.org/details/pointsofcontrove00mogg))
+
+The Puggalavāda schools — the Vātsīputrīyas and Sammitīyas named in that record — affirmed a person that a modern account of the school describes as neither identical with the aggregates nor separate from them ([Wikipedia, Pudgalavāda](https://en.wikipedia.org/wiki/Pudgalavada)). The Theravādin's refutation concludes that the affirmation must be withdrawn: the person is not known as a real and ultimate fact. The disagreement is recorded as worth a whole chapter of the Abhidhamma's dispute book. The chariot story below (Nagasena and the chariot) carries the same issue in narrative form.
+
+In this passage, the Puggalavādin position is presented through a Theravādin debate text. It is not an independent statement from a Pudgalavādin work. ([Kathāvatthu I.1, scanned translation](https://archive.org/download/pointsofcontrove00mogg/pointsofcontrove00mogg.pdf))
+
+### Can a causally produced thing have an intrinsic nature?
+
+Westerhoff describes an Ābhidharmika position that allows causal production alongside svabhāva: primary existents "constitute the objective and irreducible constituents of the world out there", and the Ābhidharmikas "saw no conflict between objects being causally produced and their possessing svabhāva" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)). The Abhidharma side can also be read in its own text. Vasubandhu's Abhidharmakośabhāṣya (1.2) glosses the word dharma as "svalakṣaṇadhāraṇād dharmaḥ", that is, a dharma is so called from upholding its own characteristic, and his list at 1.4 counts the conditioned (saṃskṛta) things among the dharmas ([Abhidharmakośabhāṣya, Sanskrit text, GRETIL](https://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-abhidharmakozabhASya.xml)). The Stanford Encyclopedia renders the same definition as "upholding intrinsic nature (svabhāva)" ([SEP, Abhidharma](https://plato.stanford.edu/archives/fall2023/entries/abhidharma/)). I read the Sanskrit only for those two phrases, and I take the English gloss of the first from the Encyclopedia, not from my own Sanskrit.
+
+Nāgārjuna challenges the compatibility of those notions in the opening verses of the MMK's chapter on self-nature:
+
+> "The occurrence of self-nature through causes and conditions is not proper. Self-nature that has occurred as a result of causes and conditions would be something that is made. Again, how could there be a self-nature that is made? Indeed, an unmade self-nature is also non-contingent upon another." ([MMK 15.1-2, Kalupahana translation, scan](https://antilogicalism.com/wp-content/uploads/2017/07/mulamadhyamakakarika.pdf))
+
+The logic is that anything produced is made, and a made self-nature is a contradiction in terms; Kalupahana's commentary on the chapter notes that in refuting substance Nāgārjuna relies on the Buddha's middle position, dependent arising — the same SN 12.15 middle quoted in the body above. Westerhoff's entry puts the Madhyamaka view of truth this way: "there can be no such thing as ultimate truth, a theory describing how things really are, independent of our interests and conceptual resources employed in describing it" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)).
+
+What the disagreement turns on is whether being produced by conditions excludes having a nature of one's own. The two sides answer with opposite verdicts, and the MMK's verses are addressed to the Abhidharma position as the entry records it. What remains unresolved is which side the sutta's own test — watching stress arise and pass — presupposes. The passages quoted here do not settle it.
+
+## Related questions
+
+MN 117 calls right view the forerunner. MMK 13.8 describes emptiness as "the relinquishing of all views" and warns against making emptiness itself a view. The comparison raises a question about what each passage means by "view"; the opened passages do not establish that Nāgārjuna rejects the cultivation MN 117 recommends. ([MN 117](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html); [MMK 13.8, Garfield translation](https://justdharma.org/the-relinquishing-of-all-views-nagarjuna/))
+
+SN 56.11 assigns tasks to the four truths; MN 60 also gives right view propositional content through its affirmation of a next world. Neither passage says that performing those tasks excludes accepting propositions. How conviction and practice belong together remains a useful question, but these passages do not establish rival answers. ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html); [MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))
 
 ## Practice: variation, selection, retention
 

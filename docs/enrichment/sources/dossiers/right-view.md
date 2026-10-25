@@ -964,3 +964,39 @@ parse — both were raw-extracted and visually verified from rendered pages
 this session; do not re-litigate them without a reason. Checks on the draft:
 checker exit 0, density 0, quote_verify 18/2 (the two exceptions), voice
 audit 0. The batch state (batches/dos18.json) records the item in progress.
+
+## Draft applied to the live dossier, Q3 primary pole added (2026-10-25, worker-pplx-dos30-1025l, baton dos18)
+
+Action. The vetted draft section
+(docs/enrichment/drafts/dos18/right-view-disagreements-rev1.md, six advisor
+rounds in the entries above) replaces "Related questions and contrasts" in
+the live dossier. Everything outside that section was byte-identical
+between draft and live (checked by diff), so only the section moved. The
+standing orders for the programme read "repair, don't wait" on count
+exceptions; no per-dossier owner ruling had been recorded in the repo, so
+this application is flagged below for the supervisor instead of waited on.
+
+New in this entry. The open gap in the handoff (no opened PRIMARY Abhidharma
+text for the pole of question 3) is closed in part: the Sanskrit of
+Vasubandhu's Abhidharmakośabhāṣya (GRETIL XML, fetched this session) reads,
+at the commentary on 1.2, "nirvacanaṃ tu svalakṣaṇadhāraṇād dharmaḥ" and, at
+1.4, "saṃskṛtā mārgavarjitāḥ ... anye saṃskṛtā dharmāḥ sāsravāḥ" (both
+strings found by script in the extracted text). The dossier states them as
+two phrases only, glosses dharma as "so called from upholding its own
+characteristic" (a literal reading of svalakṣaṇa + dhāraṇāt, which the
+page flags as the author's reading of two phrases), and takes the English
+"upholding intrinsic nature (svabhāva)" from the Stanford Encyclopedia of
+Philosophy, Abhidharma, Fall 2023 archive (string found by script). Caveat
+recorded in the dossier: the Sanskrit says svalakṣaṇa, the Encyclopedia
+renders the transmitted definition with svabhāva; the page does not merge
+the two terms. The claim now rests on a primary Sanskrit pole plus Kathāvatthu
+and MMK 15.1-2 for the other two questions, so all three questions have an
+opened primary pole; the Q3 pole is still read by the author from two
+Sanskrit phrases, not from a published translation of the bhāṣya, which is
+the residual weakness for any reviewer.
+
+Checks. dossier_check exit 0 (42 card links, 18 headers, 26 carriers);
+density 0 dense; quote_verify 20 checked, 2 not found, both the previously
+documented PDF exceptions (archive.org Kathāvatthu scan; antilogicalism MMK
+PDF). Count: right-view now has THREE substantiated questions plus two
+"Related questions" items under the standard heading.
