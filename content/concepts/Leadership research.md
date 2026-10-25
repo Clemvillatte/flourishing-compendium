@@ -15,7 +15,7 @@ Leadership research is the social-scientific study of leading: what leaders do, 
 
 The review also covers "the role of relationships through our review of leader member exchange and the emerging work on followership", plus "substitutes for leadership, servant leadership, spirituality and leadership, cross-cultural leadership, and e-leadership" ([same review, abstract](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.60.110707.163621)). The review surveys several approaches and identifies questions for further research in each.
 
-The topics this 2009 review covers are listed rather than argued for: authentic leadership and its development, work that takes a cognitive science approach, new-genre leadership theories, complexity leadership, leadership that is shared, collective or distributed, then leader member exchange, followership, and the further topics named above.
+The topics this 2009 review covers are listed rather than argued for: authentic leadership and its development, work that takes a cognitive science approach, new-genre leadership theories, complexity leadership, leadership that is shared, collective or distributed, then leader member exchange, followership, and the further topics named above, each in its own part of the survey.
 
 ### Here
 

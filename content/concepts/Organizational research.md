@@ -15,7 +15,7 @@ One strand of organizational research examines person-environment fit: studies o
 
 The synthesis pulled together 172 usable studies with 836 effect sizes, and its credibility intervals nearly all excluded zero, which the authors read as "the broad generalizability of the relationships across situations" ([Kristof-Brown et al., 2005](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1744-6570.2005.00672.x)).
 
-The meta-analysis covers preentry and postentry outcomes. The preentry half covers what happens before a person joins: attraction to an organization, acceptance of a job, intent to hire, job offers. The postentry half covers what the match tracks after joining: attitudes, performance, withdrawal behaviors, strain and tenure. The fit relationships are reported in the abstract as generalizing across situations.
+The meta-analysis covers preentry and postentry outcomes. The preentry half covers what happens before a person joins: attraction to an organization, acceptance of a job, intent to hire, job offers. The postentry half covers what the match tracks after joining: attitudes, performance, withdrawal behaviors, strain and tenure. The fit types it relates to these outcomes are four: person-job, person-organization, person-group and person-supervisor. The fit relationships are reported in the abstract as generalizing across situations.
 
 ### Here
 
