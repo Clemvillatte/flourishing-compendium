@@ -223,3 +223,54 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - M08-S15's Christakis credentials rest on the host institute's seminar framing; if
   the owner wants a Yale directory page as provenance, one can be attached at
   integration time.
+
+## Block I batch (verified 2026-10-25)
+
+### M08-P09: Self-Determination Theory, Work Motivation and Performance (Richard Ryan, Aalto University)
+
+- Identity and access: oembed confirms the keynote on the Aalto University channel
+  (https://www.youtube.com/watch?v=ww4QGMV94A8).
+- Duration: 0:56:32 (watch page, 2026-10-25).
+- Instructor credentials: Professor Richard M. Ryan, co-developer of
+  Self-Determination Theory and one of the world's leading researchers on human
+  motivation and well-being (per the host description); keynote at Aalto
+  University, June 3, 2025.
+- Language: English.
+- Content coverage: the host's description states the lecture covers the role of
+  employee motivation in organizational success and creativity in competitive
+  environments, and how to lead employee engagement to unleash human potential.
+- Relevant segment: whole keynote, 0:56:32.
+- Verification status: verified-video.
+
+### M08-P10: Ordinary Magic on the Developmental Road to Resilience (Ann Masten, UMass Amherst)
+
+- Identity and access: oembed confirms the keynote on the Rudd Adoption Program
+  channel (https://www.youtube.com/watch?v=JR_K4x3naLQ).
+- Duration: 1:16:56 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Ann Masten, University of Minnesota (per the host
+  description); keynote for the Rudd Adoption Research Program's New Worlds of
+  Adoption Conference, Launching into Adulthood.
+- Language: English.
+- Content coverage: the host's description states the presentation highlights
+  research on resilience in development with a focus on transitions to adulthood,
+  the adaptive systems that protect development and promote recovery after adverse
+  childhood experiences, adoption in relation to risk and resilience, and recent
+  advances in resilience science and their applications in practice.
+- Relevant segment: whole keynote, 1:16:56.
+- Verification status: verified-video.
+
+### M08-P12: Play, How it Shapes the Brain, Opens the Imagination and Invigorates the Soul (Stuart Brown, Microsoft Research)
+
+- Identity and access: oembed confirms the talk on the Microsoft Research channel
+  (https://www.youtube.com/watch?v=CnoAVnupfbo).
+- Duration: 1:11:12 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Stuart Brown, physician-psychiatrist and founder of
+  the National Institute for Play (per the host description and talk framing).
+- Language: English.
+- Content coverage: the host's description states the talk argues play is a
+  biological drive as integral to health as sleep or nutrition, with implications
+  for child development, parenting, education, social policy and society, drawing
+  on research on three-dimensional-object play and animal studies of play
+  deprivation.
+- Relevant segment: whole talk, 1:11:12.
+- Verification status: verified-video.
