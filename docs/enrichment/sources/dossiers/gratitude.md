@@ -454,3 +454,37 @@ delimiters, the same class as the standing Algoe artifact in this ledger;
 the two actual spans in that sentence ("Be grateful to everyone"; "the
 idea here is to feel grateful...") were each verified by eye against the
 downloaded carrier text.
+
+## Repair completion round (supervisor-pplx-1025h, 2026-10-25, second delivery)
+
+Two further substantiated questions added, reaching the 3-5 bar lower
+bound (3 substantiated + 1 bounded contrast):
+
+Q-A "What full repayment requires" — Seneca On Benefits I.1 "a benefit is
+repaid by being acknowledged" (Stewart, Wikisource, opened) vs Aquinas ST
+II-II Q106 a.6 "gratitude always inclines, as far as possible, to pay
+back something more" (English Dominican Province trans., Wikisource,
+opened; section Art. 6). Same question, incompatible rulings. One
+fragment ("he who conferred the favor gratis...") was first drafted as a
+quote but the carrier reads "having conferred" — caught by
+dossier_quote_verify and re-quoted verbatim as "deserving of praise,
+chiefly for having conferred the favor gratis without being bound to do
+so" before push.
+
+Q-B "Can the debt to parents ever be repaid" upgraded to a substantiated
+head-to-head — Analects XVII.21 (Legge trans., Project Gutenberg 3330,
+opened) "It is not till a child is three years old that it is allowed to
+leave the arms of its parents. And the three years' mourning is
+universally observed throughout the empire" (mourning proportioned to the
+arms-care: service rendered is the return) vs Kataññu Suttas (opened
+above) "you would not in that way pay or repay your parents" (no quantity
+of service repays; only establishing parents in conviction, virtue,
+generosity and discernment does). Aristotle explicitly recorded as
+standing beside the dispute, not inside it, per the second advisor
+round's rule.
+
+Checks after completion: dossier_check exit 0 (18 headers, 13 external
+carriers); density 0 dense; dossier_quote_verify 24 checked / 6
+not-found (5 pre-existing Emmons/Algoe artifacts + 1 lojong
+quote-delimiter parser artifact, both classes documented above; every
+genuine span verified by eye against the freshly fetched carrier).
