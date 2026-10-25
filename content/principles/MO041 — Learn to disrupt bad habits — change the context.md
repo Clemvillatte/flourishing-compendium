@@ -17,7 +17,7 @@ The idea that removing the trigger beats resisting the urge is only partly suppo
 
 What does support changing the context is that habits stay tied to it. Habitual cinema popcorn eaters ate stale and fresh popcorn alike, "only when currently in the context associated with past performance", the cinema, and only when eating in the way that context cued, with the dominant hand (Neal, Wood, Wu and Kurlander 2011, Pers Soc Psychol Bull 37(11):1428-1437, [abstract](https://pubmed.ncbi.nlm.nih.gov/21859902/)). Students' habits likewise broke when their setting changed (Wood, Tam and Witt 2005, [abstract](https://pubmed.ncbi.nlm.nih.gov/15982113/)). Marteau, Hollands and Fletcher argue that interventions aimed at automatic, cue-driven behaviour "may be more effective" than those that ask people to reflect, as a proposal rather than a settled result (Science 337:1492-1495, 2012, [abstract](https://pubmed.ncbi.nlm.nih.gov/22997327/)).
 
-**Plain words** A habit is tied to its setting, so changing the setting can break the link. Do not drop the watchfulness, though. In the diary studies, watching for slips was what worked on strong habits.
+**Plain words** Habits live where they were learned. The popcorn study's punchline is that people ate stale popcorn without minding, but only in the cinema, eating the way they always had there; move them to a different setting or a different hand and the habit thins out. So the practical lever is the situation, not the willpower speech: do not buy the snacks, eat them in another room, work somewhere else. What watchfulness is still for is the early stretch, noticing the pull and catching the slip before it happens.
 
 *For example:* A man who snacks at the kitchen table moves his laptop to another room. Early on, he still notices the pull and tells himself to hold off.
 
@@ -29,7 +29,7 @@ What does support changing the context is that habits stay tied to it. Habitual 
 - [Marteau, Hollands and Fletcher (2012), Science 337, 1492-1495, abstract](https://pubmed.ncbi.nlm.nih.gov/22997327/)
 ## Psychology parallels
 
-- **Habit disruption through context change**, habits persisted only in the context linked to past performance (Neal et al., 2011) and broke when circumstances changed (Wood et al., 2005); Wood & Neal (2007) is the model paper; Gardner (2015) is unopened
+- **Habit disruption through context change**, habits persisted only in the context linked to past performance (Neal et al., 2011) and broke when circumstances changed (Wood et al., 2005); Wood & Neal (2007) is the model paper
 - **Cue removal versus monitoring**, diary studies found stimulus control worked for temptations but vigilant monitoring was what worked for strong habits (Quinn et al., 2010); Marteau et al. (2012) propose targeting automatic processes, as a proposal
 
 ## Philosophy parallels
