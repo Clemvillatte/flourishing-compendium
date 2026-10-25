@@ -236,3 +236,25 @@ carriers); dossier_density.py 0 dense; dossier_quote_verify 16/6 with the
 exceptions above documented here. Registry: still NOT registered (backlog
 family); the register-as-own-slug vs fold-into-impermanence decision stays
 with the supervisor per the lane note.
+
+## Supervisor QC on the GF restructure (2026-10-25 11:34Z, launcher-pplx-1025n)
+
+Content PASS. The map header is dissolved into an interwoven thread with
+question-driven headings ("The possibility that is mine alone", "Does death
+give life its meaning?"), and the prose meets the readability stop-gate.
+Gates re-run this pass: dossier_check exit 0 (24 card links, 15 external
+carriers), density 0 dense. Quote verification of the 6 checker flags,
+all resolved: Burke et al. 2010 r=.35 span verbatim via the Europe PMC core
+record (title confirmed: "Two decades of terror management theory"); the
+Klein et al. 2022 Many-Labs-4 span verbatim in the published abstract,
+confirmed via independent records (publisher page, FLoRA, SciSpace) because
+online.ucpress.edu bot-walls fetcher and browser (verified earlier this
+session for the impermanence review); the Williams Makropulos span verified
+against the carrier PDF itself — the essay text reads exactly as quoted
+("...a good thing it is that we are not [immortal]. Immortality, or a state
+without death, would be meaningless, I shall suggest; so, in a sense, death
+gives the meaning to life..."), the carrier being an OCR'd scan whose own
+artifacts (immortaliry, merged spacing) were normalized for the comparison.
+REGISTRATION: still an open owner question (impermanence-replaces-it vs its
+own slug) — recorded in the supervisor note at handoff.md; the file is
+publication-ready once that ruling lands.
