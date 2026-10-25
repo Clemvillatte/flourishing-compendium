@@ -849,13 +849,30 @@ paths (see the access note).
   why-people-are-irrational-kurt-kleiner/, opened 2026-10-25).
 - Language: English.
 - Content coverage: the page states "No description has been added to this
-  video"; the coverage basis is the title only (a Portland State talk by Keith
+  video"; the coverage basis was the title only (a Portland State talk by Keith
   Stanovich on What Intelligence Tests Miss, his 2009 book on the psychology
-  of rational thought). CONTENT BASIS FLAG: confirm against the recording or
-  transcript before scheduling.
+  of rational thought). Coverage-confirmation (2026-10-25): a third-party
+  transcript page
+  (https://youtubetotranscript.com/transcript?v=IhwovFgur-E&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain speech-recognition
+  errors and garbled names) confirms the talk's substance on the recording:
+  "intelligence tests are radically incomplete as measures of cognitive
+  functioning"; "rationality and intelligence are conceptually two different
+  things"; dysrationalia as "irrational thought and action despite more than
+  adequate intelligence"; the contrast with Kahneman and Tversky's
+  judgment-and-decision research; correlations of roughly 0.1 to 0.3 between
+  some rational-thinking tasks and intelligence; thinking dispositions (need
+  for cognition, actively open-minded thinking); myside bias, the bat-and-ball
+  question and framing examples; the tripartite model (autonomous,
+  algorithmic and reflective minds) with IQ assessing the algorithmic level;
+  and teaching prospects for rational thinking. Caveats: third-party
+  transcript page, no timestamps in the retrieved text; playback itself not
+  opened.
 - Relevant segment: whole talk, 1:38:34.
-- Verification status: verified-partial (identity, access, duration; coverage
-  basis is the title only).
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier. The title-only CONTENT BASIS FLAG is resolved by this
+  confirmation.
 
 ### M06-AT01: CMS Mindfulness Science Keynote Lecture — Dr. Amishi Jha
 
@@ -870,6 +887,20 @@ paths (see the access note).
 - Language: English.
 - Content coverage (page content, read 2026-10-25): "Strengthening Attention
   and Working Memory with Mindfulness Training" — the keynote's listed topic.
+  Corroboration (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=K9mxZ26cnaA&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain speech-recognition
+  errors) confirms the keynote's substance: attention and working memory as
+  the framed systems; impairments from "stress, poor mood and threat",
+  negative distraction and mind wandering; performance degradation in
+  high-demand intervals (military preparation, medical residency, academic
+  semesters); mindfulness training as protective, with beneficial effects
+  reported for eight hours of training over four weeks plus roughly 12-15
+  minutes of daily practice (four-hour and two-week formats not reliably
+  beneficial in the studies discussed); comparisons with relaxation and
+  positivity training; and context-familiar instructors for scalability.
+  Caveats: third-party transcript page, no timestamps in the retrieved text;
+  playback itself not opened.
 - Relevant segment: whole keynote, 1:24:01.
 - Verification status: verified-video (2026-10-25).
 
