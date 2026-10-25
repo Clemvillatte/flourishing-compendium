@@ -2808,6 +2808,23 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   prepared file (7773 chars; head and tail matched). Per its bands annex the
   worker takes a free principle band first while the principles queue is
   untouched, else a concept or dos band via scripts/baton.py.
+- Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
+  No coordination needed post-launch; the baton system governs.
+
+## Agent launch record (2026-10-25, launcher session — Path A)
+
+- Owner requested Path A. Account: Margauth18+0001@gmail.com (Perplexity account
+  margauth1839068, Free plan).
+- Task URL: https://www.perplexity.ai/computer/tasks/04c8493e-d74d-4eb2-8dc5-d954691edb9d
+- Launched at 2026-10-25 ~01:44 UTC with PROMPT-WORKER.md verbatim (token filled
+  from the owner's message, never stored in the repo). Paste verified against
+  the prepared file before submission (8123 chars + browser trailing newline;
+  head and tail matched exactly). Standard worker prompt — per its bands annex
+  it will take a free principle band first while the principles queue is
+  untouched, else a concept or dos band via scripts/baton.py.
+- Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
+  No coordination needed post-launch; the baton system governs.
+
 - Launcher session (this one, c3b0f2fb) also launched and confirmed a worker
   at 01:41 UTC via the same Path A flow: task URL
   https://www.perplexity.ai/computer/tasks/165b10a2-b525-4c25-8ebf-67adab5955fa
@@ -2816,3 +2833,4 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   two task URLs are recorded for the same email — both sessions were
   confirmed live independently; if one is a duplicate launch, the baton system
   will reconcile (only one can hold a given band).
+
