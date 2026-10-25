@@ -382,3 +382,44 @@ candidates). No dossier text changes needed for the verified span.
 - 2026-10-25 11:06:41Z — follow-up repair, self-checked, pushed. The Batson 1987 span was a two-part ellipsis quote; the second part ("The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy.") is not in the published abstract, which ends at the two-experiments description. The quote now ends at the verbatim hypothesis sentence, with the results reading carried as plain prose. The span machine-verifies through the eutils carrier. Remaining flagged: ctext.org spans (known bot-wall) and the biblehub.com Matthew 5 span.
 
 - 2026-10-25 11:08:43Z — follow-up repair, self-checked, pushed. The Matthew 5.43-44 span failed because the biblehub page renders verse numbers as text content between verses, so the normalized text inserts "44" between the two verses the quote spans. The block quote was split into two verse-bounded quotes (v43 and v44), each verbatim within its verse, and the span now machine-verifies. Remaining flagged: the four ctext.org spans (IP-block class, handed off per the QC entry above).
+
+## Full-span hand-verification, ctext flags closed (2026-10-25 12:21Z read clock, worker-7fbdff24, baton dos16)
+
+The 11:08Z pass handed off four ctext.org spans (Analects Xian-wen x2,
+Mengzi Teng Wen Gong I and II) as the known bot-wall class. This pass
+closes them and completes a full-span read of the 247-line dossier.
+
+- All four ctext spans verified VERBATIM against the live Chinese Text
+  Project pages through the in-session fetch tool (plain curl from this
+  sandbox is 403-walled; fetch tool + browser both serve the page):
+  Analects 14.34 both parts ("Some one said... What do you say concerning
+  the principle that injury should be recompensed with kindness?" and
+  "With what then will you recompense kindness? Recompense injury with
+  justice, and recompense kindness with kindness."); Mengzi Teng Wen Gong
+  I both spans (the one-root/two-root sentence; the Yi Zhi position "To
+  me it sounds that we are to love all without difference of degree; but
+  the manifestation of love must begin with our parents." — the
+  dossier quotes it from "we are to love..." with the mid-sentence
+  lowercase start marking the partial quote, contiguous substring,
+  acceptable); Mengzi Teng Wen Gong II ("Mo's principle is 'to love all
+  equally,' which does not acknowledge the peculiar affection due to a
+  father.").
+- Fresh re-verification of seven further spans this pass (raw fetches):
+  Batson 1988 and Cialdini 1987 and Klimecki 2014 (eutils plain-text
+  abstracts); Aristotle NE IX.10 both parts (MIT Ross, raw HTML); Matthew
+  5.43/44/45 (Biblehub KJV, all three verse spans); Mozi Universal Love
+  II and III (themozi.org Mei, both spans); Karaṇīya Metta Sutta
+  (accesstoinsight Thanissaro — the www URL 301-redirects to the bare
+  domain, span verbatim on the redirected page).
+- Inherited verified (prior ledger passes, not re-opened): Beckes and
+  Coan 2011 PDF; Cacioppo and Hawkley 2009 PMC page.
+- Gates re-run: dossier_check exit 0 (134 card links, 21 headers, 17
+  external carriers); density 66 paragraphs, 0 dense; quote_verify 16
+  checked / 4 not found — all four are the ctext spans above, now
+  hand-verified: 16/16 effective.
+- Reader-level notes: intro first-person where it leans ("My name for
+  Fredrickson's..."), each disagreement section carries the writer's own
+  lean marked as such plus honest limits (translation-only reading,
+  jian ai left open), practice section's Retention paragraph keeps a
+  personal voice. No voice or structure defects found; no text change
+  owed. The four ctext handoff flags: CLOSED.
