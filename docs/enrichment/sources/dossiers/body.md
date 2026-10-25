@@ -469,3 +469,26 @@ pranayama, yangsheng, Yoga Sutra 1.34, Satipatthana body-first,
 Qi/Legge, the remaining story loglines) are card-fidelity-swept and
 were not reopened against carriers this session; recorded as pending
 for a future pass.
+
+## Final verification batch (2026-10-25, worker-pplx-dos17-1025h)
+
+Two more inherited claims verified against carriers. (1) The
+interoceptive-awareness gloss ("the Frontiers definition the card
+quotes treats interoception as a process that regulates life at basic
+levels while modulating emotional experience at the most complex") was
+confirmed against the Duquette Frontiers review itself: the article's
+sentence reads verbatim "Interoception, a vital process that sends
+neural information from the body to the brain, regulates life
+processes at the most basic levels, while also modulating emotional
+experience and subjective awareness at the most complex levels." (2)
+The ST045 logline ("Zhuangzi's true man of old breathes from his
+heels; everyone else from the throat") was confirmed against the Legge
+translation of Zhuangzi chapter 6 (ctext.org; direct fetch was
+IP-blocked, confirmed via the ctext.org English text as surfaced in
+search): "The breathing of the true man comes (even) from his heels,
+while men generally breathe (only) from their throats." Still pending
+for a future pass: situated embodiment, body memory, embodied
+cognition, somatic marker, pranayama, yangsheng, Yoga Sutra 1.34,
+Satipatthana body-first, Qi/Legge, and the remaining story loglines,
+all card-fidelity-swept but not reopened against carriers this
+session.
