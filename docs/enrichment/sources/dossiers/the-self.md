@@ -319,3 +319,13 @@ fixed: the composite-self gloss ended mid-citation ("(Parfit, p.") and
 the self-affirmation gloss ended mid-citation ("vol."), both now
 completed from their cards (p. 211 as quoted in Korsgaard; vol. 21,
 pp. 261-302). Checker exit 0; registry rebuilt; node OK.
+
+## Bar repair: two substantiated disputes added (assistant-supervisor-1025e, 2026-10-25)
+
+The-self stood at ONE substantiated dispute (SN 22.59 vs Advaita) with two open lanes. Added two Western-pair disputes, both verified raw (curl + whitespace-normalized substring against the carrier text fetched in-session):
+
+1. "Does introspection find a self?" — Descartes affirms (the thinker is the one indubitable finding), Hume denies (nothing but perceptions found). Carriers: Meditation II, Veitch translation via Wikisource (https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II) — both quotes substring-verified; Treatise 1.4.6 via Gutenberg #4705 (https://www.gutenberg.org/cache/epub/4705/pg4705.txt) — both quotes substring-verified.
+
+2. "Is the self nothing but a bundle?" — Hume affirms (self = bundle), Kant denies (the "I think" must accompany all representations; transcendental unity of self-consciousness). Carriers: Treatise 1.4.6 (Gutenberg #4705); Critique of Pure Reason, Meiklejohn translation, Gutenberg #4280 (https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — Kant quotes substring-verified (note: carrier prints curly quotes around "I think"; dossier uses straight apostrophes, words and order exact).
+
+Both subsections written in house style (shared narrow question, quotes, precise difference, unresolved). dossier_check exit 0 after prose-wall split; density check passes. the-self now stands at THREE substantiated disputes (SN22.59/Advaita, Descartes/Hume, Hume/Kant) + one bounded comparison (separate vs relational). Meets the 3-5 bar. Published status unchanged (already in registry); no rebuild needed since no card links added.
