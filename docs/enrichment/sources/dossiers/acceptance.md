@@ -354,3 +354,8 @@ sadness-and-grief.md). No wrongly-unlinked family cards; no edits.
 The five-card suffering/acceptance overlap (Amor fati, Chronic
 pain acceptance, Judgment adds the harm, K123, The second arrow)
 is the documented junction material, inherited from the mint maps.
+
+## Em-dash check (2026-10-25, same session)
+
+Prose em dashes outside quotes and card-title link text: zero
+(same result for suffering.md and freedom.md, checked together).

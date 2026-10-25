@@ -275,3 +275,8 @@ ST269's logline checked against the reopened card: Paris 1943,
 too exact too quick too waiter-like, playing at being a waiter,
 the table-is-a-table comparison — all match the card text. No
 defects; no edits.
+
+## Em-dash check (2026-10-25, same session)
+
+Prose em dashes outside quotes and card-title link text: zero
+(same result for suffering.md and acceptance.md, checked together).
