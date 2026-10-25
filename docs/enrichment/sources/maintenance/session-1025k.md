@@ -177,3 +177,6 @@
 
 ## P192 Bergson
 - Creative Evolution quotes (Mitchell, Gutenberg 26163) verified verbatim. Opening paragraph attributed to Bergson an unquoted 'inertia, geometry' claim and a 'precisely' phrasing; rewritten around verified phrases ('necessity itself', 'freedom itself', 'cannot pass through matter without settling on it'); water image and pianist example labelled mine. P193 (same author, 7 em-dashes) not checked.
+
+## P193 Bergson
+- Both Creative Evolution quotes (Mitchell, Gutenberg 26163) verified verbatim. Opening paragraph no longer states 'consciousness is memory, anticipation and choice' as Bergson's wording; now anchored on the verified quote. Example labelled as mine.

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 193** — Consciousness is choice; where there is no choice, there is mechanism
 
-Bergson's phenomenological reading of consciousness: consciousness is memory, anticipation, and choice. Where your actions are fully determined — where there is no genuine choice — consciousness diminishes. Where you are genuinely choosing between alternatives, consciousness is at its most alive. This is Bergson's philosophical account, not a clinical or measured finding.
+Bergson ties consciousness to choice. In the passage quoted below, consciousness "lies dormant when life is condemned to automatism" and "wakens as soon as the possibility of a choice is restored". Read broadly, the more your action is settled in advance, the less consciousness has to do, and the more real alternatives you face, the more it has to do. This is Bergson's philosophical account, not a clinical or measured finding.
 
 ### The fringe of possible action
 
@@ -24,7 +24,7 @@ The mechanism side is stated in the same chapter: consciousness "lies dormant wh
 
 **Plain words** On Bergson's account, consciousness tracks choice rather than effort. The first week in a new job shows the shape of it: every task carries a decision, and the mind is fully engaged without trying harder. By the fifth year the day runs on procedure, and the same person calls it boring. If Bergson is right about the mechanism, the boredom is not a character flaw but a shortage of live options, which points at a different repair: put a fork somewhere in the day and see whether the attention follows it.
 
-*For example:* The commute driven on autopilot — consciousness dimmed to a pilot light. The same stretch of road in a borrowed car, wrong side of the road, in a new country: consciousness blazing. Choice is the dimmer switch.
+*For example (my illustration, not Bergson's):* a commute driven on autopilot barely registers. The same road in a borrowed car on the other side of the road, in a new country, takes full attention.
 
 ## Stories
 - [[ST454 — Akaki and the New Cloak|454. Akaki and the New Cloak]]
