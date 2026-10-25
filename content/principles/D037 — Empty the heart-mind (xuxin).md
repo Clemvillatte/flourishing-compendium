@@ -16,17 +16,17 @@ In Zhuangzi 4, Yan Hui wants to reform the ruler of Wei. Zhongni, the dialogue's
 
 > But the spirit is free from all pre-occupation and so waits for (the appearance of) things. Where the (proper) course is, there is freedom from all pre-occupation; such freedom is the fasting of the mind. (Zhuangzi 4 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-Later, Zhongni points to an opening through which light fills an empty apartment ([§2](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Chris Fraser reads heart-fasting as setting aside fixed, fully formed preconceptions to respond appropriately to unfolding circumstances; he treats emptiness as metaphorical and considers practical efficacy one possible criterion, while warning that success alone does not establish a fitting course ([Applied Emptiness in the Zhuangzi, manuscript pp. 9–11 and 20–24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)).
+Later, Zhongni points to an opening through which light fills an empty apartment ([§2](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Chris Fraser interprets heart-fasting as loosening fixed preconceptions so that a person can respond to the circumstances; he stresses that this emptiness is metaphorical, since nobody sheds every assumption and habit ([Applied Emptiness in the Zhuangzi, manuscript pp. 9–11 and 20–24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)). His further caution matters: succeeding at a task does not settle whether it was a fitting task to undertake ([manuscript pp. 23 and 24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)).
 
-I draw from this reading an invitation to hold my expectations provisionally when listening. That modest exercise leaves much of the text's cultivation ideal unexplored.
+My practical use of the passage is to notice an expectation before a conversation, then let the answer revise it. Understanding someone need not mean agreeing with them.
 
 ### Plain words
 
-Your first account of another person's situation may leave something important out. Making room for their answer means allowing it to change what you think and do. You can retain your judgment while postponing a conclusion long enough to understand what they are saying.
+Let the other person's answer change your first account of what is happening.
 
 ### For example
 
-Before discussing a missed deadline, notice what you assume caused it. Ask your colleague what happened and let them finish. Check your understanding with them, then agree on a response. Afterwards, consider which assumptions changed and what you want to listen for next time. This is my application, not advice to approach a dangerous person as Yan Hui proposes.
+Before discussing a missed deadline, notice what you assume caused it. Ask your colleague what happened and let them finish. Before proposing a remedy, name one thing you heard that your first account left out. This is a suggested listening exercise, not advice to approach a dangerous person as Yan Hui proposes.
 
 ## Related concepts
 
