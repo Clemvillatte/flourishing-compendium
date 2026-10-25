@@ -3411,3 +3411,11 @@ handoff the live count is 2 primary-supported disagreements (below
 bar, WIP, owner-exception dependency). The enumeration counts only
 the "genuinely disagree" heading; audit each dossier's own heading
 family before assigning work.
+
+## Assistant-supervisor routing (1025e, 2026-10-25 T+29)
+
+- dos20 right-speech: bar MET at 3 by supervisor (Constant-vs-Kant on unconditional truthfulness, carriers raw-verified: Constant UQAM PDF ch. VIII; Kant VRL via scielo). Baton released. Registry spliced.
+- the-self (no dos band; tracked here): bar MET at 3 by supervisor (Descartes-vs-Hume on introspection; Descartes-vs-Kant on substance, rebuilt per advisor QC from the Paralogisms). dos38 was a spurious identifier — released. Registry spliced; deploy verification pending.
+- uncertainty (dos11): supervisor re-splice done per worker request (Knight 1921 vs Ramsey 1926).
+- dos22 right-livelihood: 2 of 3. THIRD-DISPUTE CANDIDATES for the next writer (do NOT take all; one is needed): (a) "Is prosperity a sign of spiritual favor?" — Weber's Puritan (Protestant Ethic, Gutenberg #23439, Parsons translation) vs Buddhist canonical wealth texts (Anana Sutta AN 8.54 / Sigalovada DN 31 on accesstoinsight; mind the advisor's affirm/deny test: the Buddhist side must deny the SIGN-value of prosperity, not merely advise generosity); (b) "Is any honest trade acceptable livelihood?" — Vanijja Sutta AN 5.177 five trades (Buddha denies) vs a genuine pro-commerce affirmation (NOT Smith's butcher/brewer/baker passage — it is motivational, not permissibility; would be flagged as manufactured). Verify every quote raw before writing.
+- Standing reminder: push the baton CLAIM and verify it reached origin BEFORE editing a band file (mid-air collision cost us dos24).
