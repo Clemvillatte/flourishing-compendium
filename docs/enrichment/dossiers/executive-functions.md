@@ -26,7 +26,7 @@ Their result is the field's touchstone, and its phrasing has a deliberate double
 
 Moderately correlated, clearly separable. The three functions travel together, so a person good at one tends to be somewhat better at the others, but they are not one muscle. Complex tasks draw on them in different proportions: card sorting leaned on shifting, the Tower of Hanoi puzzle on inhibition, operation span on updating. The authors' own closing caution is that a simple dichotomy, one faculty or three, "will not suffice, and both aspects must be taken into account" ([Miyake et al. 2000](https://www.ling.ohio-state.edu/research/groups/lacqueys/readings/MiyakeEtAl2000.pdf)).
 
-A later review by the same group extended the picture without breaking it. Executive functions are high-level processes that control lower-level ones in the service of goal-directed behavior; they are robustly correlated but separable; they are not the same as intelligence; and they are highly heritable at the latent level ([Friedman & Miyake 2017](https://pubmed.ncbi.nlm.nih.gov/27251123/)). What the laboratory hands the reader is not a muscle but a correlated family of capacities: shared variance plus specific skills.
+A later review by the same group extended the picture without breaking it. Executive functions are high-level processes that control lower-level ones in the service of goal-directed behavior; they are robustly correlated but separable; they are not strongly related to fluid intelligence; and they are highly heritable ([Friedman & Miyake 2017](https://pubmed.ncbi.nlm.nih.gov/27251123/)). What the laboratory hands the reader is not a muscle but a correlated family of capacities: shared variance plus specific skills.
 
 ### The executive as placeholder
 
