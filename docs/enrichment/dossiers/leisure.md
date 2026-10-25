@@ -116,6 +116,14 @@ Veal's evaluation in Leisure Sciences asks what has actually been tested. His pa
 
 The challenge is to the evidence and the explanatory reach, not to the framework's usefulness as a description. An untested theory is still a theory, and Veal's own phrasing keeps the word. What his critique leaves open is whether the perspective explains anything beyond the sorting, and that question waits on comparative research across all three forms.
 
+### Should the framework be replaced?
+
+Veal's 2017 paper ends with a proposal, not just a verdict. Its abstract states it flatly: "It is proposed that the SLP be replaced by a more flexible, open research approach, the Leisure Experience Perspective, which consolidates features of the SLP and other research traditions and a number of other theoretical perspectives" ([Veal, The serious leisure perspective and the experience of leisure, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)). The typology would fold into something broader.
+
+Stebbins rejects Veal's case for replacement. He records the challenge as the most recent and broadest of the critiques the framework has absorbed, and replies that "four problems seriously undermine his assessment": Veal "bases much of his critique on a textbook", ignores the central idea of core activity, fails to see the theoretic bases of the types in the perspective's schematic typology, and understands poorly its grounded theoretic basis ([Stebbins, Leisure Reflections 47, 2018](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/leisure_reflections_no._47__the_serious_leisure_perspective__past_present_and_future___leisure_studie.pdf)).
+
+The disagreement is direct. Veal proposes a broader successor that combines features of the SLP with other research traditions ([Veal, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)); Stebbins rejects the grounds offered for that replacement, arguing that Veal overlooks central concepts and the framework's theoretical foundations ([Stebbins, 2018](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/leisure_reflections_no._47__the_serious_leisure_perspective__past_present_and_future___leisure_studie.pdf)). Their disagreement concerns what leisure research should build on, rather than simply whether serious and casual leisure form distinct categories.
+
 ### Can uselessness be the point
 
 Zhuangzi ends a story about a huge useless tree with an invitation:

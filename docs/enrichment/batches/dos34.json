@@ -40,6 +40,16 @@
     "SUPERVISOR/OWNER: leisure at 2 substantiated; third requires a new primary-text incompatibility, leads recorded in ledger",
     "OWNER: registry flip and rebuild still blocked on artwork assignment"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025k",
+   "state": "QC round 12: THIRD substantiated disagreement added (Veal proposes replacing the SLP with the Leisure Experience Perspective, Veal 2017 abstract; Stebbins rejects the case for replacement, Leisure Reflections 47, 2018); advisor QC approved the axis (P: is the replacement justified) and its corrections applied (field-wide overclaim, narrowing, bibliography count, unresolved-status claim, closing prose all removed). Count THREE substantiated; 3-5 bar lower bound MET; supervisor acceptance requested.",
+   "verification": "Stebbins Reflections 47 (2018) fetched and raw-verified (carrier 15); Veal 2017 proposal quote raw-verified (carrier 14); checks green (exit 0, 40/40 quotes, 0 dense, voice 0)",
+   "flags": [
+    "SUPERVISOR: bar lower bound met at 3 substantiated (Aristotle-Russell; Stebbins-Veal continuum; Veal-Stebbins replacement) - acceptance requested",
+    "OWNER: registry flip and rebuild still blocked on artwork assignment"
+   ]
   }
  ],
  "in_progress": "",
