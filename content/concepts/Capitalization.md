@@ -21,7 +21,7 @@ The same abstract gives the response's role:
 
 ### What the finding adds up to
 
-The design matters as much as the result, because the effect survived controls for the positive event itself, which means the benefit came from the sharing rather than the luck. The response classification is where the practice lives: the enthusiastic response is the one that enhances, and the passive or destructive responses not only fail to add benefit but forfeit the available one. The mudita kernels below are the Buddhist training for exactly that response, since rejoicing in another's good is a skill that runs dry under envy and can be built by repetition.
+The design matters as much as the result, because the effect survived controls for the positive event itself, which means the benefit came from the sharing rather than the luck. The response classification is where the practice lives: the enthusiastic response is the one that enhances, while a passive or destructive response forfeits the benefit that was sitting there for the taking. The mudita kernels below are the Buddhist training for exactly that response, since rejoicing in another's good is a skill that runs dry under envy and can be rebuilt by repetition, one piece of good news at a time.
 
 ### Here
 
