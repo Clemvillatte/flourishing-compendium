@@ -2943,3 +2943,11 @@ Addendum 2 to checkpoint 7 (03:35Z): dos22 (right-livelihood) was re-claimed by 
   account gastonwhitehead170+4orpc@outlook.com (display name gastonwhit29656),
   task https://www.perplexity.ai/computer/tasks/91b3b43c-4be1-4de9-959d-282f037e51da,
   launched ~05:00 UTC. Same prompt (PROMPT-WORKER.md verbatim, token filled).
+- Worker agent launched via Path B (smailpro temp outlook, Add account flow):
+  account wmfrlrxcix902+m3v9z@outlook.com (display name wmfrlrxcix63511),
+  task https://www.perplexity.ai/computer/tasks/65eb3cba-38a3-4eba-b7c0-51fdfdd8d431,
+  launched ~05:15 UTC. Same prompt (PROMPT-WORKER.md verbatim, token filled).
+
+All 4 requested workers are running server-side; each takes its baton per
+OPERATIONS.md (worker prompts include the DOS-band directive). Launcher
+session b7e5875a complete.
