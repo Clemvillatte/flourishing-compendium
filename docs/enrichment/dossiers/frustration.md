@@ -2,7 +2,11 @@
 
 > What is frustration telling the person about the gap between effort and outcome, and when is the right move to push harder rather than change course?
 
-Frustration is what a blocked path feels like from inside. The goal is set, the effort is spent, and the world will not cooperate: the code will not compile, the child will not sleep, the career will not move. What the feeling is, and what it asks of the person who has it, is where the accounts split. The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress; the clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds; and the contemplative traditions ask whether the feeling is ever useful at all. What each account changes is the response: whether to read the feeling as data about the path, to defuse it as fuel, or to question the goal itself.
+Frustration is what a blocked path feels like from inside. The goal is set, the effort is spent, and the world will not cooperate: the code will not compile, the child will not sleep, the career will not move. What the feeling is, and what it asks of the person who has it, is where the accounts split.
+
+The aggression researchers treat it as an event that generates its own pressure toward hostile action; the self-regulation researchers treat it as information about the rate of progress. On the first account the wise response is defusing the fuel; on the second it is reading the pace.
+
+The clinical tradition that studies low frustration tolerance asks how much of the sting the person's belief adds. The contemplative traditions ask whether the feeling is ever useful at all: Shantideva's patience chapter poses the question directly, asking what use frustration is whether or not the problem has a remedy. On those accounts the wise response is examining the belief, or questioning the goal itself.
 
 ## Nearby terms
 
@@ -89,15 +93,15 @@ That list joins the two failure modes this theme keeps meeting: the hostile exit
 
 ## Affect and appraisal in one episode
 
-The accounts of what frustration does can be read as rivals, and they need not be. Berkowitz's reformulation of the 1939 model, from the abstract of the review that set it out:
+Berkowitz's reformulation of the 1939 model, from the abstract of the review that set it out:
 
 > "A proposed revision of the 1939 model holds that frustrations generate aggressive inclinations to the degree that they arouse negative affect." ([Berkowitz 1989, Psychological Bulletin, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))
 
-That puts the affect in the middle of the chain: the blockage does its work by arousing negative affect, and the aggressive inclinations follow the affect. The same abstract keeps the person's reading in the picture:
+That sentence puts an affect in the middle of the chain: the blockage does its work by arousing negative affect, and the aggressive inclinations follow the affect. The same abstract keeps the person's reading in the picture:
 
 > "Interpretations and attributions can be understood partly in terms of the original analysis but they can also influence the unpleasantness of the thwarting." ([Berkowitz 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))
 
-The REBT line works at the other end of the chain. It does not ask what the blockage arouses; it asks what the person believes about the discomfort, and it treats the belief that the discomfort is unbearable as one of its four core irrational beliefs. Read together, the two accounts describe different layers of one episode: the affect a blockage arouses, and the belief that can make the affect worse. Whether they ever conflict, case by case, is a question the passages quoted here do not answer.
+The REBT tradition works on that second part of the episode. Its low frustration tolerance belief is the conviction that discomfort cannot be stood, and the Turner review reports that the belief travels with aggressive expression of anger, reduced anger control, poor social adjustment, addictive behaviors, anxiety, depression, procrastination and dysfunctional affect. My reading of the two together: the affect a blockage arouses and the belief the person holds about that affect are two parts of one episode, and a practice can work on either part.
 
 ## Practice: variation, selection, retention
 
