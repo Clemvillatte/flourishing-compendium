@@ -17,15 +17,15 @@ At the end of Zhuangzi 2, Zhou dreams of being a butterfly; on waking, he recogn
 > "But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things."
 > (Zhuangzi 2, James Legge's translation, with pinyin spellings in [Silkqin's source note](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm).)
 
-I take the story as an invitation to question how final a description of myself needs to be. Its unresolved shift of perspective gives me a way to reconsider a settled label, without concluding that Zhou and the butterfly are simply identical. This is my application of the passage, not a psychological finding.
+I read the dream as an invitation to question a settled description of oneself. What does calling yourself independent, dependable or unsuccessful help you notice, and what does it prevent you from trying? The story supplies a question rather than a verdict that personal identity is unreal; its closing sentence still distinguishes Zhou from the butterfly ([§14](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 ### Plain words
 
-A description of who you are need not prescribe everything you will do next. You can value a commitment while reconsidering an assumption about what fulfilling it requires. Leave room to revise the description when your experience no longer fits it.
+Let your idea of who you are change when experience gives you reason.
 
 ### For example
 
-Imagine that you have always avoided asking for help because independence matters to you. During an illness, if it feels safe and useful, you might ask someone you trust for one specific favour. Afterwards, consider whether receiving help conflicted with the independence you value and whether you would ask again in similar circumstances.
+Suppose independence matters to you, but illness makes a familiar task difficult. Ask someone you trust for one specific favour, if you want their help. Afterwards, consider what accepting it changed about the independence you value. This is my suggested use of the story, not an experiment that proves a theory of the self.
 
 ## Related concepts
 
