@@ -48,3 +48,16 @@ Re-ran `story_check --context draft` on all 14 drafts touched this session acros
 lanes (s1a-031/032/042/043, s1b-034/035/037/038, s1c-039, s1d-006/007/008/009/010):
 all 14 pass with 0 errors after this session's edits (fm reconciliations, the
 reverted-and-corrected s1b-034, the two publication holds, the QC note additions).
+
+## Cross-check of the launched storyteller's output (2026-10-25, logged from s1b)
+
+The second storyteller (Path A launch, holding s1e then s1c) cleared all six s1e
+qc_pending items to ready this session. I spot-verified two of the six against their
+live carriers:
+- s1e-003 (Brother Lawrence, Gutenberg #13871): both key quotes verbatim (the
+  leafless-tree conversion sentence and the kitchen-cook sentence).
+- s1e-007 (Herrigel, Zen in the Art of Archery, Wake Forest PDF): the breath
+  instruction quote matches the carrier (the PDF's text layer drops one space after
+  "That's" — an extraction artifact, not a wording difference).
+Child output sample: clean. (Its two "published" items predate the launch and are
+not this session's output.)
