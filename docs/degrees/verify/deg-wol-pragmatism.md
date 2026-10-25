@@ -96,6 +96,33 @@ pages.
 - Relevant segments: a single 41:01 lecture; assign whole.
 - Verification status: verified-video (2026-10-25).
 
+### M01-P12: Conceptualizing Metaphors on Charles Peirce's Marginalia (Ivan Mladenov, Balıkesir University)
+
+- Legacy attachment: mod-phil-4 required media.
+- Identity: oembed confirms the video on the Balıkesir Üniversitesi
+  channel, title "Conceptualizing Metaphors On Charles Peirce's Marginalia
+  | Prof. Dr. Ivan MLADENOV" (https://www.youtube.com/watch?v=te7f9VvENXQ).
+  Freely playable, no paywall.
+- Duration: 1:24:08 printed in the player (2026-10-25). The session was
+  streamed live on 30 July 2026.
+- Instructor credentials: Ivan Mladenov, Professor at the Institute of
+  Literature of the Bulgarian Academy of Sciences, PhD and D.Sc., a Peirce
+  scholar and author of Conceptualizing Metaphors: On Charles Peirce's
+  Marginalia (Routledge 2006), currently a guest lecturer at Humboldt
+  University in Berlin (Bulgarian Academy of Sciences profile:
+  https://ilit.bas.bg/index.php/en/members/mladenov-ivan.html, opened
+  2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Content coverage (from the recording's own session text, read
+  2026-10-25): seminar IV of a Peirce series, on Peirce's pragmatism and
+  his late pragmaticism (first session), with Mladenov presenting his work
+  on Peirce's marginalia and metaphors. The transcript was not read this
+  session; the content claim rests on the recording's own session text and
+  the speaker's published book title it names.
+- Relevant segments: a single 1:24:08 seminar session; no chapter
+  timestamps printed.
+- Verification status: verified-video (2026-10-25).
+
 ### M01-P03: Philosophy Talk, American Pragmatism (John Perry, Ken Taylor, guest John McDermott)
 
 - Legacy attachment: mod-phil-4 required media.

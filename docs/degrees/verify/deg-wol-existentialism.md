@@ -10,6 +10,113 @@ pages.
 
 ## mod-phil-5, Existentialism and Phenomenology
 
+### M23-EX01: The Phenomenological We (Dan Zahavi, seminar)
+
+- Legacy attachment: mod-phil-5 required media.
+- Identity: oembed confirms the video on the History of Distributed Cognition
+  channel, title "Prof. Dan Zahavi, 'The Phenomenological We'"
+  (https://www.youtube.com/watch?v=TMexAaeZuFI). Freely playable, no paywall.
+- Duration: 1:02:36 printed in the player (2026-10-25).
+- Instructor credentials: Dan Zahavi, Professor of Philosophy at the
+  University of Copenhagen, Head of the Center for Subjectivity Research
+  (University of Copenhagen staff page:
+  https://comm.ku.dk/staff/?pure=en/persons/34520, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Content coverage (from the transcript, read 2026-10-25): Zahavi opens by
+  introducing himself as director of the Center for Subjectivity Research
+  and announces his topic, the phenomenological we; the talk asks whether
+  the we-perspective puts pressure on individualistic accounts of mind,
+  whether shared experiences involve a breakdown of individual boundaries,
+  and argues that collective intentionality rests on interpersonal
+  understanding and reciprocal recognition.
+- Relevant segments: a single 1:02:36 seminar talk; assign whole.
+- Verification status: verified-video (2026-10-25).
+
+### M23-EX02: Self-Consciousness, Self-Knowledge, and Knowledge of and with Others (Dan Zahavi, CPKP)
+
+- Legacy attachment: mod-phil-5 required media.
+- Identity: oembed confirms the video on the CPKP (Center for Post-Kantian
+  Philosophy) channel, title "Dan Zahavi – Self-Consciousness,
+  Self-Knowledge, and Knowledge of and with Others"
+  (https://www.youtube.com/watch?v=e6ZeZ0tofWc). Freely playable, no
+  paywall.
+- Duration: 1:13:00 printed in the player (2026-10-25).
+- Instructor credentials: same as M23-EX01 (University of Copenhagen staff
+  page, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: talk at the CPKP conference Knowing One Another, The Sociality of
+  Self-Knowledge, 3 to 4 July 2026, Literaturforum im Brecht-Haus, Berlin,
+  chaired by Isabel Sickenberger (Potsdam), stated in the description.
+- Content coverage (from the recording's own description, read 2026-10-25):
+  Zahavi's talk on self-consciousness, self-knowledge and knowledge of and
+  with others, subtitled Some French Perspectives in the session listing.
+  The transcript service was not read for this recording this session; the
+  content claim rests on the recording's own description.
+- Relevant segments: a single talk; assign whole.
+- Verification status: verified-video (2026-10-25).
+
+### M23-EX05: Music First, Narrative Later, Understanding Empathy (Shaun Gallagher)
+
+- Legacy attachment: mod-phil-5 required media.
+- Identity: oembed confirms the video on the Int. Centre for Enactivism and
+  Cog. Semiotics channel, title "Shaun Gallagher - Music First, Narrative
+  Later: Understanding Empathy" (https://www.youtube.com/watch?v=d59WUHd1aZY).
+  Freely playable, no paywall.
+- Duration: 2:03:54 printed in the player (2026-10-25).
+- Instructor credentials: Shaun Gallagher, Lillian and Morrie Moss
+  Professor of Philosophy at the University of Memphis, with a secondary
+  research appointment at the University of Wollongong (Memphis faculty
+  page: https://www.memphis.edu/philosophy/people/bios/shaun-gallagher.php,
+  opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: first talk of the series organized by the International Centre
+  for Enactivism and Cognitive Semiotics, published 21 February 2021.
+- Content coverage (from the recording's own abstract, read 2026-10-25):
+  Gallagher maps theories of empathy, uses Colwyn Trevarthen's work on
+  intersubjective interaction and sympathy as an alternative view of basic
+  empathy, and argues for continuity between basic and higher-order
+  empathy grounded in primary intersubjectivity (the music of
+  intersubjective relations) rather than narrative. The auto chapter list
+  prints: intro (0:00), phenomenologists on empathy (9:36), narrative
+  competency in children (27:27), primary intersubjectivity (38:59), basic
+  empathy as bodily engagement (43:39), narrative structure (49:38).
+- Relevant segments: talk plus discussion in one 2:03:54 recording; the
+  owner should read the discussion boundary from the transcript panel.
+- Verification status: verified-video (2026-10-25).
+
+### M23-EX06: Anthony Steinbock, Hating and hatred in the shema of the heart
+
+- Legacy attachment: mod-phil-5 required media.
+- IDENTITY FLAG for the owner: the legacy fcAcademyData record titles this
+  source "Phenomenology as Method: Practice not Theory (Anthony
+  Steinbock)", but the recording at the canonical URL
+  (https://www.youtube.com/watch?v=eSrdUB28oR8) is titled "Anthony
+  Steinbock | Hating and hatred in the shema of the heart". The attached
+  video is the hatred talk, not a general phenomenology-method talk; if the
+  module outcome needs a method talk, this attachment does not serve it.
+- Identity: oembed confirms the video on the Faculté de philosophie,
+  Université Laval channel (co-listed with the Berggruen Institute),
+  published 11 October 2018. Freely playable, no paywall.
+- Duration: 54:44 printed in the player (2026-10-25).
+- Instructor credentials: Anthony Steinbock, Professor of Philosophy at
+  Stony Brook University, PhD from Stony Brook (1993), Director of the
+  Phenomenology Research Center, author of Moral Emotions: Reclaiming the
+  Evidence of the Heart (Stony Brook faculty page:
+  https://www.stonybrook.edu/philosophy/people/faculty/anthony_steinbock.html,
+  opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Content coverage (from the transcript, read 2026-10-25): Steinbock
+  presents hating as "a movement a personal creative enacting process of
+  negating diminishing or restricting someone or some thing as bearer of
+  value", within his project on the schema (shema) of the heart and forms
+  of givenness not reducible to reason or sensibility. The auto chapter
+  list prints: the non-necessity of experiencing any feeling state in order
+  to hate (16:35), characteristics of hating (20:35), essential features of
+  hating (21:10).
+- Relevant segments: a single 54:44 talk; assign whole.
+- Verification status: verified-video, with the identity flag above
+  (2026-10-25).
+
 ### M04-E07: Jean-Paul Sartre, Existentialism is a Humanism (Gregory B. Sadler)
 
 - Legacy attachment: mod-phil-5 required media.
