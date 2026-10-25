@@ -13,7 +13,7 @@ Face negotiation theory is Stella Ting-Toomey's account of conflict as a negotia
 
 ### What the theory claims
 
-Face becomes an issue most in emotionally threatening or identity-vulnerable situations, when the situated identities of the communicators are called into question. The cultural value spectrums of individualism-collectivism and power distance shape facework concerns and styles: individualism and collectivism shape members' preferences for self-oriented face concern versus other-oriented or mutual-oriented concern. In conflict-style terms, self-face concern goes with dominating styles and other-face concern with avoiding and integrating styles.
+Face becomes an issue most in emotionally threatening or identity-vulnerable situations, when the situated identities of the communicators are called into question. The cultural value spectrums of individualism-collectivism and power distance shape facework concerns and styles: individualism and collectivism shape members' preferences for self-oriented face concern versus other-oriented or mutual-oriented concern. In conflict-style terms, self-face concern goes with dominating styles and other-face concern with avoiding and integrating styles. The practical reading is that conflict escalates when face is threatened, so the skill is naming face concerns rather than treating the content dispute as the whole of what is at stake.
 
 ### Here
 
