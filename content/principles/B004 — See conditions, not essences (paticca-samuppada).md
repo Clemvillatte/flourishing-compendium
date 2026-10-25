@@ -12,21 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 4** — See conditions, not essences (paticca-samuppada)
 
-Every state of mind arises from conditions and dissolves when they change. When something disturbs you, look for the conditions: sleep, stimuli, history, company — before looking for someone to blame.
+When I am tempted to dismiss someone as difficult, I can ask what is happening between us. I draw that practical question from a text whose concern is suffering and its cessation.
 
-The Kaccayanagotta Sutta locates the mind's habit in a polarity: it takes things as existing or not existing. The move it teaches is to see origination and cessation instead:
+SN 12.15 rejects two extremes:
 
-> "By & large, Kaccayana, this world is supported by (takes as its object) a polarity, that of existence & non-existence. But when one sees the origination of the world as it actually is with right discernment, 'non-existence' with reference to the world does not occur to one. When one sees the cessation of the world as it actually is with right discernment, 'existence' with reference to the world does not occur to one." (SN 12.15, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
+> "'Everything exists': That is one extreme. 'Everything doesn't exist': That is a second extreme." ([Thanissaro, Kaccayanagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
 
-States are neither things nor nothings: they are assembled, run while the conditions hold, and come apart when the conditions change. Looking for the conditions is what the principle asks before the blame.
+The alternative is dependent co-arising: the text sets out the conditions through which suffering originates and ceases, including feeling as a condition for craving and craving as a condition for clinging ([SN 12.15](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)).
 
-(SN 12; Batchelor's principle of conditionality.)
+I borrow the attention to conditions when examining a quarrel. I can ask what was said, what each person expected and what circumstances deserve investigation. Hunger or tiredness would be possibilities to examine, not a diagnosis supplied by the sutta.
+
+My inquiry also includes responsibility. If I have hurt someone, understanding the circumstances belongs alongside listening, making amends and deciding what needs to change.
 
 **Plain words**
-Notice what a disturbance is made of before deciding who it is. The 9pm fight's parts list included a skipped dinner, four hours of sleep and a long week. States are assembled from conditions, and the assembly is the first thing to look for when one needs to come apart.
+Ask how the difficulty arose and what might change it. Keep the particular actions and their effects in view while exploring the circumstances.
 
 **For example**
-The fight you had at 9pm after skipping dinner and four hours of sleep — was it really about the dishes, or was it the conditions?
+Imagine two partners arguing about dishes. One suggests eating first and returning to the conversation afterwards. In this invented case, they still need to hear the complaint and reach a fair agreement about the chores.
 
 ## Sources
 
@@ -39,12 +41,11 @@ The fight you had at 9pm after skipping dinner and four hours of sleep — was i
 - [[ST062 — Sadness Gets a Role|62. Sadness Gets a Role]]
 ## Psychology parallels
 
-- **[[Functional analysis|Functional analysis and case formulation in CBT]]**, distress is maintained by identifiable conditions (Persons, 2008)
+- [[Functional analysis|Functional analysis and case formulation in CBT]]: a separate clinical topic for comparative reading.
 
 ## Philosophy parallels
 
-- **[[Dependent origination|Dependent origination as causality]]** (Nagarjuna, Mulamadhyamakakarika)
-- **Situational explanation over character essences** (Dewey, Human Nature and Conduct)
+- [[Dependent origination|Dependent origination as causality]]: the canonical account discussed above.
 
 <!-- fc: reflections
 What's currently disturbing you — and what are the actual conditions producing it? Sleep, stimulation, hunger, loneliness?
@@ -55,4 +56,4 @@ Every state of mind arises from conditions. What's your current state, and what 
 -->
 
 ## Related concepts
-- [[T050 — Nagarjuna]]: dependent origination as causality, the Mulamadhyamakakarika account the page cites.
+- [[T050 — Nagarjuna]]: a thinker to explore alongside the question of conditionality.

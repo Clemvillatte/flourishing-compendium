@@ -26,7 +26,7 @@ I would include the need to earn a living and responsibilities to dependants in 
 Look at what your work enables and who is affected. Ask which responsibilities you can act on now, including the people who rely on your income.
 
 **For example**
-Imagine a marketer asked to promote tobacco. She could seek another account or plan a move while meeting her financial obligations. This is my modern example; I would let the story show the costs as well as the choice.
+Imagine a marketer asked to promote tobacco. She could seek another account or plan a move while meeting her financial obligations. In this imagined case, keeping her boundary includes working out how to pay next month's rent.
 
 ## Sources
 
