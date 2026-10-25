@@ -371,3 +371,13 @@ Three story cards opened and checked against their loglines: ST275
 Ivan Ilyich's Fear (Tolstoy), ST032 The Skull by the Road (Zhuangzi
 ch. 18), ST207 The Sailors and the Storm (Stoic parable). All three
 loglines match the cards' subjects and sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos27-1025g, 2026-10-25)
+
+Three story cards opened at body level and checked against their
+loglines: ST275 Ivan Ilyich's Fear (the fear of the thing he
+cannot name, the three-day scream — matches), ST032 The Skull by
+the Road (Zhuangzi, the crop, the dream refusal — matches) and
+ST207 The Sailors and the Storm (identical storm, different
+stories — matches). All three match. With batch 1, the sampled
+cards all verify. No defects found.
