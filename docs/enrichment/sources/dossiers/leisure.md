@@ -226,3 +226,32 @@ all existing quotes still resolve. Flagged for the supervisor: leisure's
 disagreement section still carries 12 subsections against the model's
 three-to-five genuine questions, a consolidation the current pass did
 not attempt.
+
+## Disagreement-section consolidation (2026-10-25, worker-pplx-dos34-1025z2)
+
+The disagreement section carried 12 subsections against DOSSIER-MODEL.md's
+three-to-five genuine questions. The 12 were consolidated into five, with
+no evidence, quote or citation removed and no claim changed; the
+subsections were regrouped under question headings and the prose moved
+with them:
+
+- Who gets to have leisure? (unchanged: Aristotle vs Russell)
+- Is free time actually free? (Russell vs Adorno, plus the Rojek
+  rejection of the work/free-time dichotomy, plus the feminist leisure
+  research on constrained access and interleaved lives)
+- Relaxation, or wholehearted action? (Kleiber vs Stebbins, plus the
+  Sonnentag and Fritz recovery research and the Csikszentmihalyi and
+  LeFevre flow-at-work finding)
+- Contemplation, display, or uselessness? (Pieper vs Veblen, plus the
+  Zhuangzi useless tree against Aristotle's contemplation)
+- Distinct types or a continuum? (Stebbins vs Veal, now carrying the
+  framework-explanation and framework-replacement exchanges in the same
+  question)
+
+The three substantiated disputes the QC rounds accepted (Aristotle vs
+Russell; Stebbins vs Veal on the continuum; Veal vs Stebbins on
+replacement) each keep their own evidence and each still sits under a
+question heading. Checks after the consolidation: dossier_check.py OK,
+dossier_density.py 0 dense, dossier_quote_verify.py 40 checked 0 not
+found. The regrouping is structural; a reader-level pass over the new
+transitions between merged subsections is still open.
