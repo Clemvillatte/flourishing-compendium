@@ -502,3 +502,13 @@ two identical cards for the same Meghiya story, ST376 and ST421
 the id/title metadata; verified by diff). The cognition dossier
 links ST421, this dossier links ST376. This is a content-library
 issue outside DOS dossier scope; no files were changed.
+
+## Story spot-checks, batch 2 (worker-pplx-dos19-1025g, 2026-10-25)
+
+Two further story cards opened and checked against their loglines:
+ST085 The Quarrel at Kosambī (Vinaya Mahāvagga 10) and ST086 The
+Bodhisattva and the Tigress (jātaka). Both loglines match the
+cards' subjects and sources. With batch 1 (ST376, ST352) and the
+cards already verified in other dossiers' checks (ST301, ST066),
+all six of this dossier's story cards have now been read against
+their loglines; all match. No defects found.
