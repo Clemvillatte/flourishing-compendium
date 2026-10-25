@@ -30,7 +30,8 @@
     "S022",
     "S032",
     "S024",
-    "PP075"
+    "PP075",
+    "K008"
   ],
   "in_progress": null,
   "flagged": {
@@ -54,7 +55,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:22:32+00:00",
+  "updated": "2026-10-25T12:39:23+00:00",
   "band_done": false,
   "notes": {
     "PP075": {
@@ -62,6 +63,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://baycrest.echoontario.ca/wp-content/uploads/2021/05/Exercise-for-depression-Cochrane.pdf"
+    },
+    "K008": {
+      "qc": "Plain-words replicate replaced (0.58 -> ~0.1), first-person defect fixed; validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.ucpress.edu/book/9780520045793/religion-and-nothingness"
     }
   }
 }

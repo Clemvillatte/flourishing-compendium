@@ -21,9 +21,9 @@ On pages 4-5, Nishitani describes a conversion from a self-centered mode of bein
 
 (Nishitani, Religion and Nothingness, ch. 1, pp. 3-5; the passage is quoted in [Graham Parkes](https://www.grahamparkes.net/wp-content/uploads/2023/04/K10-Parkes-Nishitani_Keiji-Practicing_Philosophy_as_a_Matter_of_Life_and_Death.pdf) and with page markers in [Buddhism: The Way of Emptiness](https://buddhism-thewayofemptiness.blog.nomagic.uk/what-is-religion-2/).)
 
-**Plain words** You might have clear reasons for pursuing a goal yet struggle to say what makes the whole effort worthwhile. Nishitani examines what happens when that question becomes a personal concern.
+**Plain words** Most philosophies of life start from the good days; this one starts from the day the floor goes. Nishitani's subject is the hour when the job, the title and the plan all stop paying out at once, and the usual answers to "what is it for?" come back empty. His provocation is that the emptiness is not the end of the road but the road's first honest stretch, since what a person builds on the far side of it is no longer borrowed.
 
-*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. My exercise is to write down the questions you cannot yet answer.
+*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. The exercise is to write down the questions you cannot yet answer.
 
 ## Psychology parallels
 
