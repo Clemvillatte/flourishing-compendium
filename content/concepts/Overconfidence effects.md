@@ -15,7 +15,7 @@ Overconfidence effects are the family of biases in which people rate themselves,
 
 The three effects do not move together. The abstract's summary of the task-dependent pattern: "On difficult tasks, people overestimate their actual performances but also mistakenly believe that they are worse than others; on easy tasks, people underestimate their actual performances but mistakenly believe they are better than others." Overprecision, the third form, behaves differently: it "appears to be more persistent than either of the other 2 types of overconfidence, but its presence reduces the magnitude of both overestimation and overplacement".
 
-The practical lesson is diagnostic: before calling someone overconfident, say which of the three it is, because the word names different errors with different causes. The practice consequences follow from the same pattern, since an overestimate calls for feedback on the task while an overplacement calls for comparison data, and overprecision responds best to being asked for ranges rather than point estimates.
+The practical lesson is diagnostic: before calling someone overconfident, say which of the three it is, because the word names different errors with different causes. The abstract itself does not prescribe interventions, so any practice built on the distinction has to be constructed rather than quoted; the page's kernels take the diagnostic step as their starting point and leave the treatment question to the sources that address it.
 
 ### Here
 
