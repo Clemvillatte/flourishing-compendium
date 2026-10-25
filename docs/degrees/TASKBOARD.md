@@ -45,9 +45,9 @@ reference, unique source ids in brackets):
 - Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-philosophy.md; 33 of 36 verified, 3 Cynicism-series optionals unconfirmed-accessible and flagged)
 - Block B: deg-contemplative attached sources (37, 33) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-contemplative.md; all 33 unique sources verified, Spanish-language flags on SRC-M24-005/006, duration mismatches on M02-K06, SRC-M24-001, SRC-M12-007)
 - Block C: deg-relational attached sources (12, 10) — deg-verify-b
-- Block D: deg-mind attached sources (31, 25) — deg-verify-b
+- Block D: deg-mind attached sources (31, 25) — deg-verify-b (verified 2026-10-25 by verifier-pplx-1025g, see docs/degrees/verify/deg-mind.md; all 18 imported records verified, flags on SRC-M07-005 catalog-title mismatch, M06-AT06 duplicate of SRC-M28-002, SRC-M07-001 duration gap, title-only coverage bases on M06-AF04/AF05/CO02; credential pages pending for 9 speakers)
 - Block E: deg-wellbeing attached sources (15, 13) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-wellbeing.md; 12 of 12 imported records verified)
-- Block F: deg-therapeutic attached sources (18, 16) — deg-verify-b
+- Block F: deg-therapeutic attached sources (18, 16) — deg-verify-b (in progress: verifier-pplx-1025g)
 - Block G: deg-psychology-101 (1, 1) — deg-verify-b
 - Block H: deg-qigong attached sources (21, 17) and deg-cmp (27, 27):
   mostly already verified by their dedicated agents; re-check only the
@@ -63,6 +63,17 @@ reference, unique source ids in brackets):
   Advisor review required before scaling.
 
 ## Degree checkpoints
+
+- 2026-10-25 verifier-pplx-1025g (deg-verify-b, stale-baton takeover): Block D
+  COMPLETE — all 18 imported deg-mind attachments verified to skill section 4
+  in verify/deg-mind.md (oembed + watch pages opened; durations from watch
+  pages; Bloom/Santos/Damasio/Jha/Fredrickson credentials on opened
+  institutional pages). Flags for the deg-mind owner: SRC-M07-005 catalog
+  title does not match the live video (SDT2019 Deci-Ryan plenary); M06-AT06
+  duplicates verified SRC-M28-002; SRC-M07-001 prints chapter times but no
+  total duration; M06-AF04/AF05 and M06-CO02 have no description (title-only
+  coverage basis); 9 speakers' credential pages still to be opened (see the
+  credential note in the file). Block F started.
 
 - 2026-10-25 worker-pplx-psychdim-1 (superseding checkpoint; corrects the
   one above): lecture 7 chapter 4 (perception) HAS now been read and
