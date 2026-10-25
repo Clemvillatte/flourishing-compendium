@@ -7,8 +7,8 @@
  ],
  "in_progress": null,
  "flagged": {
-  "executive-functions": "RESOLVED 2026-10-25 ~11:00Z (supervisor-pplx-1025v-worker, baton dos35): advisor QC fixes applied; Logie 2016 original opened (T&F abstract, Cloudflare exception documented); coverage sweep done, 5 cards added; quotes spot-checked first-hand (Hagger eutils, Miles PDF). Published per the owner publish-then-review directive; supervisor post-publication review requested."
+  "executive-functions": "RESOLVED 2026-10-25 (supervisor-pplx-1025v-worker, baton dos35): advisor QC fixes applied; Logie 2016 original opened; coverage sweep closed (5 cards + MO067); quotes spot-checked first-hand. Published per the owner publish-then-review directive; SUPERVISOR POST-PUBLICATION REVIEW PASS recorded in dossiers/SUPERVISOR-REVIEW.md (launcher-pplx-1025n, all three disputes two-sided, Logie spans verified on the live T&F page). No open dos35 items."
  },
- "comment": "Minted 2026-10-25 by owner directive: Executive Functions dossier (registry planned, The Mind's Life section). Art assigned by curator in 0ed6d1c: Le Pho, Les joueuses de cartes (already in assets). Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full. Draft v2 complete 2026-10-25; three substantiated disputes since 06:16Z; QC repair rounds 10:35Z (advisor rounds applied; see sources ledger). Owner reader gate outstanding; supervisor to flip registry.",
- "updated": "2026-10-25T10:52:00Z"
+ "comment": "Minted 2026-10-25 by owner directive: Executive Functions dossier (registry published, The Mind's Life section). Art assigned by curator in 0ed6d1c: Le Pho, Les joueuses de cartes (already in assets). Three substantiated disputes; QC repair rounds; publish-then-review pass 2026-10-25 10:52Z (advisor QC fixes, Logie 2016 opened, coverage closed); final QC round 10:57Z (CO045 alignment, MO067, records repaired); supervisor review PASS. The earlier owner-reader-gate note is answered by the 2026-10-25 publish-then-review directive.",
+ "updated": "2026-10-25T11:05:00Z"
 }
