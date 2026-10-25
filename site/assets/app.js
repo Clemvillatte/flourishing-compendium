@@ -8588,7 +8588,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached.\" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/))",
+          "x": "\"The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached.\" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11699120&rettype=abstract&retmode=text))",
           "s": null
         },
         {

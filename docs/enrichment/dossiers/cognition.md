@@ -156,7 +156,7 @@ The two positions answer the same question, whether the notebook functions as pa
 
 Haidt's abstract opens by naming the tradition he is attacking: "Research on moral judgment has been dominated by rationalist models, in which moral judgment is thought to be caused by moral reasoning" ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11699120&rettype=abstract&retmode=text)). His case against that causal arrow, in his own summary:
 
-> "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached." ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/))
+> "The author gives 4 reasons for considering the hypothesis that moral reasoning does not cause moral judgment; rather, moral reasoning is usually a post hoc construction, generated after a judgment has been reached." ([Haidt 2001, Psychological Review](https://pubmed.ncbi.nlm.nih.gov/11699120/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11699120&rettype=abstract&retmode=text))
 
 On the [social intuitionist model](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20intuition%20research) the judgment is generally the result of quick, automatic evaluations, and the reasoning arrives afterward to justify it. The model is social in Haidt's own emphasis: it deemphasizes the private reasoning done by individuals and emphasizes social and cultural influences ([Haidt 2001](https://pubmed.ncbi.nlm.nih.gov/11699120/)).
 

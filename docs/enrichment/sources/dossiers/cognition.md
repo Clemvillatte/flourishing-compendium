@@ -519,3 +519,5 @@ evidence-limits note's "situation-varying findings rather than a
 tested protocol" (honest scoping). No text changed in this pass.
 
 - 2026-10-25 11:00:47Z — repair, self-checked, pushed. Two of five flagged spans fixed: the Haidt 2001 moral-judgment spans (PMID 11699120) are verbatim in the NCBI eutils plain-text abstract (opened this session), so the eutils efetch URL was added as a second carrier and both spans now machine-verify. The dialecticism span (PMC2811254) was fixed the same way using the eutils PMC full-text endpoint. Remaining flagged: Tversky and Kahneman 1974 (science.org) and Gigerenzer 1996 (Columbia PDF) — left for the next pass.
+
+- 2026-10-25 11:06:06Z — follow-up repair, self-checked, pushed. The second Haidt span ("The author gives 4 reasons...") sits in a separate paragraph whose anchor did not carry the eutils link added earlier to the first span's anchor; the eutils carrier was added to that anchor too, and the span now machine-verifies. Remaining flagged: Tversky and Kahneman 1974 (science.org) and Gigerenzer 1996 (Columbia PDF), both unfetchable by the verifier this session.
