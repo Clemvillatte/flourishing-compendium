@@ -1,8 +1,8 @@
 {
- "batch": "dos27",
- "done": [],
- "review": [
-  "fear"
- ],
- "note": "minted 2026-10-24 (supervisor-pplx-1024g, owner-directed); one dossier per band; see bands/dos27-manifest.json; fear-vs-anxiety boundary matrix built first per DISAMBIGUATION.md (matrix row updated); dossier written, checker exit 0, left in review-pending for the supervisor (worker-pplx-dos29-1024a)"
+  "batch": "dos27",
+  "done": [],
+  "review": [
+    "fear"
+  ],
+  "note": "GF-model rewrite pushed 2026-10-25 (worker-pplx-dos27-1025h): fear restructured to the owner-validated interwoven format per DOSSIER-MODEL.md; disagreement section built (4 questions); card-link set unchanged (42 unique); quotes re-verified against opened carriers (3 blocked-fetch NOT FOUNDs confirmed by eye); checker exit 0, density 0, voice audit clean; registry left planned for supervisor flip"
 }

@@ -264,3 +264,49 @@ no-ranked-taxonomy caveat all match the card's own statements. Both
 rewrites stand.
 
 Checks: dossier_check.py exit 0 (run again this session).
+
+## GF-model rewrite (2026-10-25, worker-pplx-dos27-1025h, dos27 baton)
+
+Restructured docs/enrichment/dossiers/fear.md from the map format to
+the owner-validated GF interwoven format (docs/enrichment/dossiers/
+DOSSIER-MODEL.md, modeled on genuine-flourishing.md and wisdom.md),
+per CURRENT ORDERS (the dossier map is no longer the presentation form;
+every dossier is now one interwoven thread).
+
+What was done:
+
+- Kept the question, the intro, the nearby-terms row and the VSR/story
+  sections, and rewove the map entries into interwoven ### question-headed
+  threads: definition (Aristotle Rhetoric II.5), the body's answer
+  (Oehman & Mineka), the named fears and their exercises (Stoic curriculum,
+  Spinoza), the hardest case death (Epicurus, maranasati, Marcus, terror
+  management, Iverach), courage, exposure.
+- Built the previously-missing Where-the-traditions-genuinely-disagree
+  section (4 questions): Can reasoning dissolve a fear? Is death fear
+  removable by argument? Is the aim to cast fear out or to act with it?
+  Is a treated fear gone, or only answered? Each states both sides from
+  held sources, what it turns on, and the writer's lean.
+- Card-link set identical to the previous revision (42 unique card links,
+  verified by diff of extracted #card= targets).
+- Added the Seneca Letter 18 rehearsal quote (previously unquoted) to the
+  named-fears thread, with the Wikisource carrier.
+
+Quote verification (this session, per the no-hallucination rule):
+
+- dossier_quote_verify.py: 9 quotes checked; 3 NOT FOUND, all blocked
+  fetches (PubMed 25306232, PMC4114726 x2), per HANDOFF blocked-fetch
+  rule; each verified by eye against an opened carrier instead:
+  - Iverach et al. 2014 transdiagnostic sentence pair: confirmed verbatim
+    as quoted in full in an opened PMC carrier (PMC9894592, Nursing
+    Report article quoting the abstract) and the NLM research news page.
+  - Craske et al. 2014 inhibitory-learning sentence and expectancy-
+    violation sentence: confirmed verbatim by fetching PMC4114726.
+  - Seneca Letter 18 "Is this the condition that I feared?": confirmed
+    verbatim by fetching the Wikisource Letter 18 carrier.
+- The remaining 6 quotes (Aristotle Rhetoric II.5 x3, Oehman & Mineka,
+  Epicurus, Marcus II.11) passed the automatic fetch check.
+
+Checks: dossier_check.py exit 0 (45 card links, 20 headers, 13 external
+carriers); dossier_density.py 0 dense; dossier_voice_audit.py clean;
+banned-word grep clean. Registry status left "planned" for the
+supervisor to flip and publish.

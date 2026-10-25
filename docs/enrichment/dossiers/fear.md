@@ -2,104 +2,111 @@
 
 > What is fear protecting, and how much of it belongs to the person rather than the threat?
 
-Fear is the body's answer to a specific danger, and its answer is mobilised before reflection arrives: the heart rate, the stillness, the urge to flee. The classical traditions worked on the person's share of the question, examining what the fear rests on: a mental picture, a belief about the future, an estimate of one's own cowardice. The modern research worked on the system itself and found an evolved defense that is automatic and only partly penetrable to cognitive control. Between the two sits courage, the virtue that answers fear with action, and exposure, the clinical practice of approaching what is feared.
+Fear moves before I have finished noticing what set it off: the heart answers first, and the thought arrives afterward to explain the answer. I want to understand what this response is for, because it plainly does something — it keeps creatures alive. I also want to know how much of a given fear belongs to the threat and how much to the person carrying it: the picture held up, the belief about the future, the estimate of one's own cowardice.
 
-## Nearby terms
+The accounts below divide that question between them. The classical traditions work on the person's share — the picture, the belief, the rehearsal — and they promise that an examined fear shrinks to its real size. The modern research works on the system itself and describes an evolved defense that starts automatically and is only partly open to reasoning. Between the two sits courage, the virtue that answers fear with action, and exposure, the clinical practice of approaching what is feared.
 
-- Dread: the fear-of-death material is death fear, held on the cards below; the dread that has no object at all belongs to the anxiety family, and [Anxiety about the future](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20about%20the%20future) is its map line.
-- Phobia: the clinical extreme of a specific fear; its classification sits on [Fear](https://clemvillatte.github.io/flourishing-compendium/#card=Fear), and the exposure cluster holds its treatment.
+### Nearby terms
+
+- Anxiety: fear answers a specific near danger, on the definition held on [Fear](https://clemvillatte.github.io/flourishing-compendium/#card=Fear); the anticipation of what has not yet taken shape belongs to the anxiety family, and [Anxiety about the future](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20about%20the%20future) is its map line. The clinical fear/anxiety boundary is not settled in the sources opened for this dossier, and I treat it as provisional rather than asserting it.
+- Dread: dread with no object at all belongs to the anxiety family; the fear-of-death material below is death fear, which has an object.
+- Phobia: the clinical extreme of a specific fear; its classification sits on [Fear](https://clemvillatte.github.io/flourishing-compendium/#card=Fear), and the exposure cluster below holds its treatment.
 - Panic: fear turned on its own symptoms, fear of fear; the interoceptive-exposure material is its clinical counterpart.
 - Courage: fear's virtue counterpart, held inside this theme rather than split off.
 
-## The map: the entries on fear
+## What fear is and what it does
 
-### What fear is taken to be
+### A pain at a pictured evil
 
-[Fear](https://clemvillatte.github.io/flourishing-compendium/#card=Fear): the emotion of a specific danger; Aristotle's definition sets the structure the tradition keeps returning to.
+Aristotle's definition organised the question for the traditions that followed him:
 
 > "Fear may be defined as a pain or disturbance due to a mental picture of some destructive or painful evil in the future." ([Aristotle, Rhetoric II.5, Roberts translation](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html))
 
-The same book adds two qualifications that carry most of the tradition's later work: fear requires nearness — "we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand" — and fear is already a kind of thinking: "fear sets us thinking what can be done, which of course nobody does when things are hopeless" ([Aristotle, Rhetoric II.5](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)).
+Two further clauses in the same chapter carry most of the later work. Fear requires nearness — "we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand" — and fear is already a kind of thinking: "fear sets us thinking what can be done, which of course nobody does when things are hopeless" ([Aristotle, Rhetoric II.5](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). A response built out of a picture, a distance and a hope has levers in it, and the classical remedies are named after those levers.
 
-The evolutionary account gives fear a motive state rather than a definition:
+If fear is a pain at a picture, the picture is the thing to examine. [The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear) holds Epicurus's method in the Letter to Menoeceus: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death. [The classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears) carries the letter's own sorting — its two main fears, of the gods and of death — so the groundless ones can be dropped. Spinoza sharpens the same work in [SP038 — Treat superstition as fear's theology](https://clemvillatte.github.io/flourishing-compendium/#card=SP038%20%E2%80%94%20Treat%20superstition%20as%20fear%27s%20theology): superstition is dread converted into behaviour, the paper talisman against misfortune.
+
+### The body's answer and its limits
+
+The research tradition starts further down, at the response itself. Öhman and Mineka give fear a motive state rather than a definition:
 
 > "An essential characteristic of fear, therefore, is that it motivates avoidance and escape." ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf))
 
-The same review proposes a fear module with four characteristics: preferential activation by stimuli that are fear relevant in an evolutionary perspective, automatic activation, relative impenetrability to cognitive control, and a dedicated neural circuitry centered on the amygdala ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)).
+Their review proposes a fear module with four characteristics: preferential activation by stimuli that are fear-relevant in an evolutionary perspective, automatic activation, relative impenetrability to cognitive control, and a dedicated neural circuitry centered on the amygdala ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). On this account the system answers before the person has voted, and reasoning arrives as a latecomer.
 
-[Facing the fear](https://clemvillatte.github.io/flourishing-compendium/#card=Facing%20the%20fear): Kierkegaard's thread through The Concept of Anxiety — anxiety as "sympathetic antipathy," drawn toward and repelled by a possibility at once, belonging to the human condition rather than being only a symptom; whoever has learned to be anxious in the right way has learned the ultimate.
+Two cards describe what it is like to stand inside that gap between the response and the thought. [Facing the fear](https://clemvillatte.github.io/flourishing-compendium/#card=Facing%20the%20fear) holds Kierkegaard's thread through The Concept of Anxiety: anxiety as "sympathetic antipathy," drawn toward and repelled by a possibility at once, belonging to the human condition rather than being only a symptom. [SP017 — Treat hope and fear as one system](https://clemvillatte.github.io/flourishing-compendium/#card=SP017%20%E2%80%94%20Treat%20hope%20and%20fear%20as%20one%20system) carries Spinoza's observation that hope and fear have the same object, exist simultaneously, and neither exists without some doubt in the imagination. Both make the fear a relation to a possibility, which is why the picture can be worked on at all.
 
-[SP017 — Treat hope and fear as one system](https://clemvillatte.github.io/flourishing-compendium/#card=SP017%20%E2%80%94%20Treat%20hope%20and%20fear%20as%20one%20system): Spinoza's account — hope and fear have the same object, exist simultaneously, and neither exists without some doubt in the imagination.
+### The named fears and their exercises
 
-### How fear is examined and classified
+The Stoic curriculum names the fears it intends to remove. [S022 — Do not fear poverty](https://clemvillatte.github.io/flourishing-compendium/#card=S022%20%E2%80%94%20Do%20not%20fear%20poverty), [S023 — Do not fear pain](https://clemvillatte.github.io/flourishing-compendium/#card=S023%20%E2%80%94%20Do%20not%20fear%20pain) and [S024 — Do not fear death](https://clemvillatte.github.io/flourishing-compendium/#card=S024%20%E2%80%94%20Do%20not%20fear%20death) each carry an exercise. Seneca's is rehearsal of the minimum:
 
-[The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): Epicurus's method in the Letter to Menoeceus — take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death, which is nothing to us, “seeing that, when we are, death is not come, and, when death is come, we are not”.
+> "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'" ([Seneca, Letters to Lucilius 18, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18))
 
-[The classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears): the card's editorial label for the Letter to Menoeceus — its two main fears, of the gods and of death, and its sorting of desires so the groundless ones can be dropped; the letter supplies no ranked taxonomy.
+The rule behind the exercises is a sorting. [S063 — Do not fear what you cannot control](https://clemvillatte.github.io/flourishing-compendium/#card=S063%20%E2%80%94%20Do%20not%20fear%20what%20you%20cannot%20control) and [D097 — Don't fear what you can't act on](https://clemvillatte.github.io/flourishing-compendium/#card=D097%20%E2%80%94%20Don%27t%20fear%20what%20you%20can%27t%20act%20on) hold the Stoic instruction to sort what requires effort, attention and experiment from what simply requires waiting, and to spend no fear on the second pile.
 
-[SP038 — Treat superstition as fear's theology](https://clemvillatte.github.io/flourishing-compendium/#card=SP038%20%E2%80%94%20Treat%20superstition%20as%20fear%27s%20theology): Spinoza's description of superstition as dread converted into behavior — the surveying of nature, the paper talisman against misfortune.
+The sorting has a moral edge, and Spinoza states it. [SP065 — Act from strength, not from fear](https://clemvillatte.github.io/flourishing-compendium/#card=SP065%20%E2%80%94%20Act%20from%20strength%2C%20not%20from%20fear) records his rule that the man who does good only to escape evil is not led by reason: under desire that springs from reason, "we seek good directly, and shun evil indirectly." A life ordered by fear-avoidance is not the same life as one ordered by what is worth seeking, and the difference shows up in the hardest case the curriculum names.
 
-[S063 — Do not fear what you cannot control](https://clemvillatte.github.io/flourishing-compendium/#card=S063%20%E2%80%94%20Do%20not%20fear%20what%20you%20cannot%20control) and [D097 — Don't fear what you can't act on](https://clemvillatte.github.io/flourishing-compendium/#card=D097%20%E2%80%94%20Don%27t%20fear%20what%20you%20can%27t%20act%20on): the Stoic rule — no need for fear on any object over which the patient exercises no control; the examination of what requires effort, attention, and experiment versus what simply requires waiting.
+### The hardest case: death
 
-### Fear and the future evil: the classical remedies
-
-[S022 — Do not fear poverty](https://clemvillatte.github.io/flourishing-compendium/#card=S022%20%E2%80%94%20Do%20not%20fear%20poverty), [S023 — Do not fear pain](https://clemvillatte.github.io/flourishing-compendium/#card=S023%20%E2%80%94%20Do%20not%20fear%20pain), [S024 — Do not fear death](https://clemvillatte.github.io/flourishing-compendium/#card=S024%20%E2%80%94%20Do%20not%20fear%20death): the three named fears of the Stoic curriculum, each with its exercise — Seneca's rehearsal of the minimum ("Is this the condition that I feared?"), the notice of what opinion adds to pain, and the sorting of death into the column of things that happen to everyone.
-
-[SP065 — Act from strength, not from fear](https://clemvillatte.github.io/flourishing-compendium/#card=SP065%20%E2%80%94%20Act%20from%20strength%2C%20not%20from%20fear): Spinoza's rule and its corollary — the man who does good only to escape evil is not led by reason; under desire that springs from reason, "we seek good directly, and shun evil indirectly".
-
-[Epicurean argument against the fear of death](https://clemvillatte.github.io/flourishing-compendium/#card=Epicurean%20argument%20against%20the%20fear%20of%20death): the argument that the supposed horror of death has no referent in experience — the two never coexist.
+Epicurus's argument against the fear of death is the tradition's most quoted remedy. [The Epicurean argument against the fear of death](https://clemvillatte.github.io/flourishing-compendium/#card=Epicurean%20argument%20against%20the%20fear%20of%20death) holds it: the supposed horror has no referent in experience, because the two never coexist.
 
 > "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus, Wikisource translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus))
 
-[B055 — Contemplate mortality (maranasati)](https://clemvillatte.github.io/flourishing-compendium/#card=B055%20%E2%80%94%20Contemplate%20mortality%20%28maranasati%29): the Buddhist death recollection — the Upajjhatthana Sutta's five facts recollected often, because beings intoxicated with life conduct themselves badly; the reflection abandons or weakens the intoxication.
+The Buddhist tradition works the same fear with recollection instead of argument. [B055 — Contemplate mortality (maranasati)](https://clemvillatte.github.io/flourishing-compendium/#card=B055%20%E2%80%94%20Contemplate%20mortality%20%28maranasati%29) holds the Upajjhatthana Sutta's five facts, recollected often, because beings intoxicated with life conduct themselves badly; the reflection abandons or weakens the intoxication. Marcus Aurelius turns the same recollection into a standing instruction: "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" ([S089 — Remember that you will die](https://clemvillatte.github.io/flourishing-compendium/#card=S089%20%E2%80%94%20Remember%20that%20you%20will%20die), Meditations II.11).
 
-[S089 — Remember that you will die](https://clemvillatte.github.io/flourishing-compendium/#card=S089%20%E2%80%94%20Remember%20that%20you%20will%20die): Marcus's working instruction — "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" (Meditations II.11).
-
-[Terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management): the experimental finding that reminders of mortality make people defend their cultural worldview and derogate challengers; mortality salience biases reasoning generally.
-
-[Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research): the clinical-psychology study of fear of death; a review in Clinical Psychology Review proposed treating death anxiety as a transdiagnostic construct:
+The research tradition treats death fear as persistent material rather than a removable error. [Terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management) holds the experimental finding that reminders of mortality make people defend their cultural worldview and derogate challengers, and that mortality salience biases reasoning generally. [Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research) goes further clinically:
 
 > "Death anxiety is considered to be a basic fear underlying the development and maintenance of numerous psychological conditions. Treatment of transdiagnostic constructs, such as death anxiety, may increase treatment efficacy across a range of disorders." ([Iverach, Menzies & Menzies, 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/))
 
-### Courage: acting despite fear
+The laboratory does not show death fear dissolving under argument. It shows it doing work, and that difference is where the traditions genuinely part ways.
 
-[Courage](https://clemvillatte.github.io/flourishing-compendium/#card=Courage): the umbrella card for the virtue that answers fear with action; Aristotle's account of courage as the mean concerned with fear is its spine.
+### Courage: fear's virtue counterpart
 
-[Courage — action despite fear](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20%E2%80%94%20action%20despite%20fear): Tutu's account from the anti-apartheid movement — the coward's bravery at the moment of death, and the madness of continuing to fight after all's lost.
+The virtue tradition refuses to wait for fear to leave before acting. [Courage](https://clemvillatte.github.io/flourishing-compendium/#card=Courage) is the umbrella card, with Aristotle's account of courage as the mean concerned with fear as its spine. Aristotle's finer observations are on two cards worth reading together. [Courage built gradually](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20built%20gradually) holds the NE III.9 point that most people mistake cowardice for the lack of intensity, when the real question is the internal confusion over whether one should bear the feeling at all; those who feel fear's influence in their reasoning, refuse to obey it, and act from confidence in the right option are more truly courageous than those who feel no fear. [The courage to act against impulse](https://clemvillatte.github.io/flourishing-compendium/#card=The%20courage%20to%20act%20against%20impulse) adds from NE III.8 that insecurity about one's own courage is not itself cowardice, and neither is the mere fact of fearing.
 
-[Authentic courage without props](https://clemvillatte.github.io/flourishing-compendium/#card=Authentic%20courage%20without%20props): Nietzsche's aphorism GS §139 — those who depend on the applause of others receive their strength not from themselves.
+The cluster around that spine carries the same refusal in other registers. [Courage — action despite fear](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20%E2%80%94%20action%20despite%20fear) holds Tutu's account from the anti-apartheid movement, the coward's bravery at the moment of death. [Authentic courage without props](https://clemvillatte.github.io/flourishing-compendium/#card=Authentic%20courage%20without%20props) carries Nietzsche's aphorism GS §139: those who depend on the applause of others receive their strength not from themselves. Both describe courage as something that holds under pressure, and the question of what feeds it is exactly where they differ.
 
-[Courage built gradually](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20built%20gradually): Aristotle's NE III.9 — most people mistake cowardice for the lack of intensity (softness) rather than the internal confusion over whether one should bear the feeling at all; those who feel fear's influence in their reasoning, refuse to obey it, and act from confidence in the right option are more truly courageous than those who feel no fear.
+The research tradition gives the question a measured answer. [Moral courage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20courage%20research) holds Rand's bystander experiments — engaged participants show higher moral courage under risk, and those with more developed moral identity acted independently of social influence, suggesting moral identity can override social inhibition. The practice pages [A011 — Practice courage (andreia)](https://clemvillatte.github.io/flourishing-compendium/#card=A011%20%E2%80%94%20Practice%20courage%20%28andreia%29) and [PP037 — Cultivate courage](https://clemvillatte.github.io/flourishing-compendium/#card=PP037%20%E2%80%94%20Cultivate%20courage) hold the virtue as something exercised.
 
-[The courage to act against impulse](https://clemvillatte.github.io/flourishing-compendium/#card=The%20courage%20to%20act%20against%20impulse): Aristotle's NE III.8 — insecurity in one's confidence in one's own courage is not itself cowardice, and neither is the mere fact of fearing; courage is the confidence of one's own power in the face of danger, not the mere ability to endure the fear.
+### Exposure: approaching what is feared
 
-[Moral courage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20courage%20research): Rand's bystander experiments — engaged participants show higher moral courage under risk conditions; those with more developed moral identity acted independently of social influence, suggesting moral identity can override social inhibition.
-
-[A011 — Practice courage (andreia)](https://clemvillatte.github.io/flourishing-compendium/#card=A011%20%E2%80%94%20Practice%20courage%20%28andreia%29) and [PP037 — Cultivate courage](https://clemvillatte.github.io/flourishing-compendium/#card=PP037%20%E2%80%94%20Cultivate%20courage): the virtue-practice pages — Aristotle's exercise as an act of courage, and the affirmative cultivation of courage as a strength.
-
-### Exposure: the clinical counterpart
-
-[Exposure therapy (Foa, Craske)](https://clemvillatte.github.io/flourishing-compendium/#card=Exposure%20therapy%20%28Foa%2C%20Craske%29): the repeated approach toward fear-provoking stimuli, a mainstay of cognitive behavioral therapy since its inception; on the inhibitory-learning account the old fear is not erased but is left intact as new learning develops.
+The clinical translation of courage is exposure, and it is the best-evidenced material in this theme. [Exposure therapy (Foa, Craske)](https://clemvillatte.github.io/flourishing-compendium/#card=Exposure%20therapy%20%28Foa%2C%20Craske%29) holds the repeated approach toward fear-provoking stimuli, a mainstay of cognitive behavioral therapy since its inception. The inhibitory-learning account has changed what counts as success:
 
 > "Within a Pavlovian conditioning approach, the inhibitory learning models mean that the original CS-US association learned during fear conditioning is not erased during extinction, but rather is left intact as new, secondary inhibitory learning about the CS-US develops – specifically, that the CS no longer predicts the US (e.g., Bouton & King, 1983; Bouton, 1993)." ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
 
-[Exposure processes](https://clemvillatte.github.io/flourishing-compendium/#card=Exposure%20processes): the mechanisms by which exposure produces its effects — expectancy violation first:
+The mechanisms live on [Exposure processes](https://clemvillatte.github.io/flourishing-compendium/#card=Exposure%20processes), expectancy violation first:
 
 > "The more the expectancy can be violated by experience, the greater the inhibitory learning." ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
 
-[Graded exposure systematic desensitisation (Wolpe)](https://clemvillatte.github.io/flourishing-compendium/#card=Graded%20exposure%20systematic%20desensitisation%20%28Wolpe%29): the ordered approach from least to most disturbing step; Wolpe's principle — if a response antagonistic to anxiety can be made to occur in the presence of anxiety-evoking stimuli, the bond between the stimuli and the anxiety responses will be weakened.
+The older behavioural version of the same practice is on [Graded exposure systematic desensitisation (Wolpe)](https://clemvillatte.github.io/flourishing-compendium/#card=Graded%20exposure%20systematic%20desensitisation%20%28Wolpe%29): the ordered approach from least to most disturbing step, on Wolpe's principle that if a response antagonistic to anxiety can be made to occur in the presence of anxiety-evoking stimuli, the bond between the stimuli and the anxiety responses will be weakened. [Interoceptive exposure (Barlow)](https://clemvillatte.github.io/flourishing-compendium/#card=Interoceptive%20exposure%20%28Barlow%29) applies the approach to the body itself: a racing heart or dizziness brought on deliberately and stayed with, so that it can be learned that it does not lead to the disaster expected.
 
-[Interoceptive exposure (Barlow)](https://clemvillatte.github.io/flourishing-compendium/#card=Interoceptive%20exposure%20%28Barlow%29): the part of exposure where the thing approached is a bodily sensation — a racing heart, dizziness — brought on deliberately and stayed with, so that it can be learned that it does not lead to the disaster expected.
+Two further cards complete the clinical cluster. [ERP (exposure and response prevention)](https://clemvillatte.github.io/flourishing-compendium/#card=ERP%20%28exposure%20and%20response%20prevention%29) pairs deliberate confrontation of feared situations with the blocking of the compulsions that follow, and is a first-line treatment for OCD on its evidence base. [BE026 — Learn exposure therapy principles — approach what you fear](https://clemvillatte.github.io/flourishing-compendium/#card=BE026%20%E2%80%94%20Learn%20exposure%20therapy%20principles%20%E2%80%94%20approach%20what%20you%20fear) is the principle at practice size: systematically approaching feared situations, objects or sensations while preventing avoidance.
 
-[ERP (exposure and response prevention)](https://clemvillatte.github.io/flourishing-compendium/#card=ERP%20%28exposure%20and%20response%20prevention%29): the OCD treatment that pairs deliberate confrontation of feared situations with the blocking of the compulsions that follow; on the evidence base it is a first-line treatment for OCD.
+## Where the traditions genuinely disagree
 
-[BE026 — Learn exposure therapy principles — approach what you fear](https://clemvillatte.github.io/flourishing-compendium/#card=BE026%20%E2%80%94%20Learn%20exposure%20therapy%20principles%20%E2%80%94%20approach%20what%20you%20fear): the exposure principle at practice size — systematically approaching feared situations, objects, or sensations while preventing avoidance.
+### Can reasoning dissolve a fear?
 
-### The stories and sayings
+The Epicurean method promises that a fear held up to reasoning dissolves or shrinks to its real size, and the Stoic exercises are built on the same confidence that judgment is the lever. The fear-module review pulls the ground from under that confidence with its third characteristic: activation that is automatic and relatively impenetrable to cognitive control ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)).
 
-[Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): the Christian tradition's one-line removal — 1 John 4:18.
+What the disagreement turns on is which fear each account is describing. The module answers the snake and the loud noise; the Letter to Menoeceus works on the fear of gods and the fear of death, which are pictures and arguments rather than stimuli. The sources do not reconcile the two accounts, and I read them as descriptions of different layers of the same response: the automatic system fires first, and the examined picture is what reasoning can still reach. That reading is my synthesis, not a finding in either carrier.
 
-[I fear the Greeks even bearing gifts](https://clemvillatte.github.io/flourishing-compendium/#card=I%20fear%20the%20Greeks%20even%20bearing%20gifts): Laocoon's warning against what arrives as a gift — Aeneid II.
+### Is death fear removable by argument?
+
+Epicurus's conclusion is that death is nothing to us, and the argument is meant to end the fear. The recollection traditions do not predict an ending. The Upajjhatthana Sutta prescribes recollecting the five facts often, because the intoxication with life is weakened by repetition, and Marcus's instruction is to regulate every act as if departure were possible this moment — a standing practice, not a settled conclusion.
+
+The research side supports the rehearsal reading of the situation. Terror-management findings show death reminders biasing reasoning and stiffening worldview defense, and the clinical review treats death anxiety as a construct underlying numerous conditions, which is a claim that it persists and does work ([Iverach et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/)). I lean toward the recollection traditions here: they assume the fear returns, and they give the person something to do each time it does.
+
+### Is the aim to cast fear out or to act with it?
+
+The Christian one-liner held on [Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear) promises removal: 1 John 4:18. Aristotle's account of courage is built on the opposite assumption. On [Courage built gradually](https://clemvillatte.github.io/flourishing-compendium/#card=Courage%20built%20gradually), those who feel fear's influence, refuse to obey it and act from confidence in the right option are more truly courageous than those who feel no fear — the feeling is not the obstacle; obedience to it is.
+
+The disagreement turns on whether fear is an intruder or a normal load the virtuous person carries into action. The exposure research, with its finding that the original association is not erased but overlaid, gives the acting-with reading the measured support ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)). The cast-out reading keeps a defender in the argument: a state of perfect love is not a claim the laboratory tested.
+
+### Is a treated fear gone, or only answered?
+
+The classical remedies promise that an examined groundless fear shrinks or dissolves. The inhibitory-learning account of exposure found the opposite in the conditioning laboratory: the original association is left intact, and what develops is new learning that the feared cue no longer predicts the disaster ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)).
+
+This is a disagreement about what success looks like, and it matters for anyone practising. If the fear is gone, the work ends; if it is answered, the work is a standing arrangement, and the record of what was predicted and what occurred stays valuable. I follow the laboratory on the conditioning cases, and I note the classical claim survives intact for the fears that really are groundless pictures — the gods of the Letter to Menoeceus have no conditioning history to overlay.
 
 ## Practice: variation, selection, retention
 
@@ -130,6 +137,12 @@ The same review proposes a fear module with four characteristics: preferential a
 ### The sorting that removes fear
 
 [ST207 — The Sailors and the Storm](https://clemvillatte.github.io/flourishing-compendium/#card=ST207%20%E2%80%94%20The%20Sailors%20and%20the%20Storm): in a storm at sea the passengers panic and the sailors work; the storm is identical for both, and the difference is the story each has about it: the sailors know what is theirs to do and what is not, and their calm is a by-product of that sorting.
+
+### Sayings that carry the theme
+
+[Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): the Christian tradition's one-line removal, 1 John 4:18.
+
+[I fear the Greeks even bearing gifts](https://clemvillatte.github.io/flourishing-compendium/#card=I%20fear%20the%20Greeks%20even%20bearing%20gifts): Laocoon's warning against what arrives as a gift, Aeneid II.
 
 ### A disputed example
 
