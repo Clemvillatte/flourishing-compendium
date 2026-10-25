@@ -106,3 +106,8 @@
 
 ## SE006 Self is embodied
 - James Principles vol. I ch. X: both quotes verified in Gutenberg 57628 text (chapter title confirmed on psychclassics). Removed stray unlinked 'Barrett et al., 2019; Craig, 2009' citation line from the body and the 'crumbling foundation' flourish; added Sources. Flag: the Psychology parallels line still cites Barrett et al. 2019 and Craig 2009 without links; I did not open them.
+
+## M013 Make something of every season
+- Opened Islands of History page (León-Portilla, Flower and Song). Both Nahuatl poems verified. Page said 'León-Portilla's translation'; the article credits no translator for the passage and attributes the elegy to Nezahualcoyotl (Cantares Mexicanos fol. 17r). Corrected; example labelled.
+## P150 Accept incompleteness
+- Dewey ch.4 quote verified earlier (Gutenberg 852). Removed invented three-year dating narrative claims; added Sources.

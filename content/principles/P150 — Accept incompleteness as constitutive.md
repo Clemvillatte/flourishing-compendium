@@ -18,9 +18,14 @@ Dewey's version of the point is moral: growth is something a person is doing, an
 
 > Since growth is the characteristic of life, education is all one with growing; it has no end beyond itself. ([Dewey, Democracy and Education, 1916, ch. 4, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-**Plain words** A draft is not a failed final version; it is the only version that can actually be worked on. The finished thing cannot be revised, which is why nothing interesting is ever finished. You, right now, are a process that has not yet ended, and the not-yet-ended part is what gives you something to do tomorrow. Waiting until you have it together misunderstands what kind of thing you are.
+**Plain words** Dewey says growth "has no end beyond itself". A draft is a version you can still work on, and a finished thing cannot be revised. On that view, an unfinished state is not a defect to be cleared before life can begin. It is the condition of being alive and still growing.
 
-*For example:* Two people are both hesitant to start dating. One is waiting until their career, body and living situation are sorted. The other starts now, visibly unfinished, and meets someone who is also visibly unfinished. Three years later the first person's conditions have improved but the waiting has not stopped, because the conditions were never the actual barrier. The second one is in a relationship with a real person.
+*For example (my illustration, not Dewey's):* Two people hesitate to start dating. One waits until career, body and living situation are sorted. The other starts now, openly unfinished. I cannot say how either turns out, but the first has made the waiting a condition of the plan.
+
+## Sources
+
+- [John Dewey, *Democracy and Education* (1916), ch. 4 "Education as Growth", Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt): the quoted sentence, checked against the text.
+- [Terrence Deacon, *Incomplete Nature*, book page](https://terrencedeacon.com/incomplete-nature): listed only as a possible parallel; this page does not quote or summarise it.
 
 ## Psychology parallels
 
