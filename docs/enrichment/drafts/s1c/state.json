@@ -393,6 +393,11 @@
      "t": "2026-10-21T12:25:19+00:00",
      "to": "published",
      "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-25T14:46:03+00:00",
+     "to": "ready",
+     "note": "QC sample 1025x: 5/5 quotes verbatim vs fresh downloads; ready stands"
     }
    ]
   },
@@ -708,6 +713,11 @@
      "t": "2026-10-21T12:39:55+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T14:46:03+00:00",
+     "to": "ready",
+     "note": "QC sample 1025x: 6/6 quotes verified (Feynman 4/4 verbatim; arXiv verbatim w/ page-break artifact, corroborated in PMC5792583; AJP abstract verbatim via university mirror); ready stands"
     }
    ]
   },
@@ -1107,5 +1117,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:45:05+00:00"
+ "updated": "2026-10-25T14:46:03+00:00"
 }
