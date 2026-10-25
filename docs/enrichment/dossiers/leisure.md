@@ -2,15 +2,13 @@
 
 > What is free time for, once it is actually free?
 
-Most weeks hold hours that no one is paying for and nothing is measuring, and the question is what they are for. The easy answer is that they recover a person for the next stretch of work, and the answer is not wrong, only incomplete. If evenings and weekends are not only fuel, what are they for?
+I want to know what the hours no one is paying for are for. The answer that they exist to recover a person for the next stretch of work is not wrong, only incomplete, and it leaves the interesting question standing: if rest is taken for the sake of activity, what is the activity then for? This dossier asks that question of the classical accounts of scholē and of the modern research on what actually restores people, and it keeps the two in conversation rather than picking one.
 
-The old word for it, scholē, named more than a gap in the schedule, and this dossier follows it through Aristotle's ranking of work under leisure, the arguments over who got to have it, and the modern research on what actually restores attention and mood. The disagreements are real and they sit close to the centre of the question.
-
-What makes the theme practical is that some free hours exist in most weeks, though the dossier's own distributive debate records who historically got leisure and who did not. Where the hours exist, deciding what they are for takes no new tool.
+The question matters to me because free time is where a life's shape shows. The hours are either the place where the things worth having for their own sake happen, or they are a waiting room between shifts, and the difference between those two is not a matter of schedule. The disagreements I find are real, and they run from who gets leisure at all to what the recovered capacity is then for.
 
 ### Nearby terms
 
-- Rest: [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) carries Aristotle's finding that relaxation is taken for the sake of activity and is not an end; this theme asks what the activity is for.
+- Rest: [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) carries Aristotle's argument that relaxation is taken for the sake of activity and is not an end; this theme asks what the activity is for.
 - Play: [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research) is Stuart Brown's study of what play does to the adults who keep doing it; leisure includes play, contemplation and the receptive stance.
 - Recovery: [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences) sets out Sonnentag and Fritz's four ways people recuperate, carried by experiences rather than activities; this theme asks whether maintenance is all there is.
 - Amusement: the card on [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) gives amusement a real but limited job, a medicine; this theme carries the distinction.
@@ -26,39 +24,6 @@ One way to treat time off is as maintenance. You rest so you can work again, and
 > "And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
 Read twice, that sentence turns the week around. Work is the means, leisure the end, which is the claim behind [practising scholē as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work). The ancient word [scholē](https://clemvillatte.github.io/flourishing-compendium/#card=Schol%C4%93) did not mean time left over after duties; it named the space where the activities worth having for their own sake could happen. In Aristotle's proposed best state the citizens were to be freed from the fields, a fact taken up below as the start of the tradition's distributive disagreement.
-
-## Amusement is a medicine, not the point
-
-Aristotle does not sneer at rest. He gives amusement a real but limited job:
-
-> "amusement is a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end; for it is taken for the sake of activity." ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
-
-In the Politics the same thought gets a medical image. Amusements, he says, "should be our medicines", while "leisure of itself gives pleasure and happiness and enjoyment of life, which are experienced, not by the busy man, but by those who have leisure" ([Aristotle, Politics VIII.3, Jowett translation](https://classics.mit.edu/Aristotle/politics.8.eight.html)). The card on [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) works out the practical test: an evening of television after a heavy shift is amusement doing its proper job, and two evenings a week spent slowly learning a piece of music, with no deadline, is closer to leisure. The two answer different questions, and on this distinction, being off work does not by itself amount to leisure.
-
-The ordering also runs upward through society: "there must be war for the sake of peace, business for the sake of leisure, things useful and necessary for the sake of things honorable" ([Aristotle, Politics VII.14, Jowett translation](https://classics.mit.edu/Aristotle/politics.7.seven.html)). Modern psychology studies a cousin of the question under the name of [time affluence](https://clemvillatte.github.io/flourishing-compendium/#card=Time%20affluence), how having command over one's own hours bears on how life goes.
-
-## Leisure is not idleness
-
-The deepest account of what leisure is, as opposed to what it is for, is Josef Pieper's, and it is built against idleness rather than against work:
-
-> "Leisure is a form of that stillness that is the necessary preparation for accepting reality; only the person who is still can hear, and whoever is not still, cannot hear." ([Josef Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))
-
-Pieper insists the stillness is not inactivity: leisure "is not the same as the absence of activity; it is not the same thing as quiet, or even as an inner quiet", and it "lives on affirmation", meaning a fundamental agreement that the world is worth receiving ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). Idleness, on his account, is not too much rest but a broken relation to reality, an inability to receive it. The page for [leisure as a concept](https://clemvillatte.github.io/flourishing-compendium/#card=Leisure) carries the fuller passages.
-
-This matters for practice because it relocates the failure. In Pieper's account, the capacity for leisure involves more than arranging a schedule. [Resting deeply](https://clemvillatte.github.io/flourishing-compendium/#card=D113%20%E2%80%94%20Rest%20deeply) and [making rest the root of activity](https://clemvillatte.github.io/flourishing-compendium/#card=D039%20%E2%80%94%20Make%20rest%20the%20root%20of%20activity) both treat rest as something a person can approach deliberately, and Pieper calls the power to be at leisure one of the basic powers of the human soul.
-
-## Where the traditions genuinely disagree
-### Who gets to have leisure?
-
-Aristotle's leisure was bought with other people's labour. He is explicit that the citizens of his best state must not be husbandmen, "since leisure is necessary both for the development of virtue and the performance of political duties" ([Aristotle, Politics VII.9, Jowett translation](https://classics.mit.edu/Aristotle/politics.7.seven.html)). Russell keeps Aristotle's valuation, leisure over work, and drops the exclusion:
-
-> "The morality of work is the morality of slaves, and the modern world has no need of slavery." ([Bertrand Russell, In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
-
-Russell's case is distributive ([In Praise of Idleness, 1935 text](https://www.idler.co.uk/article/book-of-the-week-in-praise-of-idleness/)). The labours that once bought leisure for the few were valuable, he argues, for the sake of the leisure they bought, and a decent economy would spread that good justly. He adds the sociological sting:
-
-> "The idea that the poor should have leisure has always been shocking to the rich." ([In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
-
-The disagreement is not about whether leisure is the point. It is about whether the point can be universal.
 
 ### Is free time actually free?
 
@@ -82,6 +47,42 @@ A later open survey by the same author records an observation reported by Hender
 
 For a life in which work and leisure interleave, the question of what free time is for has no clean subject to address.
 
+
+## Amusement is a medicine, not the point
+
+Aristotle does not sneer at rest. He gives amusement a real but limited job:
+
+> "amusement is a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end; for it is taken for the sake of activity." ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
+
+In the Politics the same thought gets a medical image. Amusements, he says, "should be our medicines", while "leisure of itself gives pleasure and happiness and enjoyment of life, which are experienced, not by the busy man, but by those who have leisure" ([Aristotle, Politics VIII.3, Jowett translation](https://classics.mit.edu/Aristotle/politics.8.eight.html)). The card on [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) works out the practical test: an evening of television after a heavy shift is amusement doing its proper job, and two evenings a week spent slowly learning a piece of music, with no deadline, is closer to leisure. The two answer different questions, and on this distinction, being off work does not by itself amount to leisure.
+
+The ordering also runs upward through society: "there must be war for the sake of peace, business for the sake of leisure, things useful and necessary for the sake of things honorable" ([Aristotle, Politics VII.14, Jowett translation](https://classics.mit.edu/Aristotle/politics.7.seven.html)). Modern psychology studies a cousin of the question under the name of [time affluence](https://clemvillatte.github.io/flourishing-compendium/#card=Time%20affluence), how having command over one's own hours bears on how life goes.
+
+### Contemplation, display, or uselessness?
+
+Pieper says leisure is receptive beholding of reality. Veblen found something else at the bottom of aristocratic leisure: showing that you did not have to work. The "requirement of abstention from productive work" is, on his account, the widest of the demands of emulation, and "labour comes to be associated in men's habits of thought with weakness and subjection to a master", so that not working becomes a mark of rank ([Thorstein Veblen, The Theory of the Leisure Class, ch. 2](https://www.gutenberg.org/files/833/833-h/833-h.htm)). His book names the phenomenon after it, conspicuous leisure.
+
+The two books are not arguing with each other. Pieper describes what leisure is at its best and Veblen what much of it has historically been for, and both can be true of different hours. The uncomfortable question they leave open is which of the two things a given weekend actually is, and [judging a person by where they rest](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests) is one way of asking it.
+
+Zhuangzi ends a story about a huge useless tree with an invitation:
+
+> "There you might saunter idly by its side, or in the enjoyment of untroubled ease sleep beneath it." ([Zhuangzi 1, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+His summary line runs: "All men know the advantage of being useful, but no one knows the advantage of being useless" ([Zhuangzi 4, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). His tree passage and Aristotle's contemplation are not directly opposed: both put the best things outside the economy of usefulness, and sleeping beneath a useless tree does not commit Zhuangzi against worthwhile activity. The divergence is in the shape of the ideal. Aristotle's leisure is an activity, contemplation, "loved for its own sake" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)), the highest and most self-sufficient thing a person can do. Zhuangzi's image is closer to resting in what nothing is harvesting, and [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless) draws the lesson for a person's week.
+
+The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) counsels steady work, and its own texts also name rest and laughter as gifts, so its counsel runs against heavy sleeping rather than against rest itself; it is not a third pole in the question. That question remains, whether the best hours of a life are the ones doing something, the ones receiving something, or the ones nothing is harvesting. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
+
+
+## Leisure is not idleness
+
+The deepest account of what leisure is, as opposed to what it is for, is Josef Pieper's, and it is built against idleness rather than against work:
+
+> "Leisure is a form of that stillness that is the necessary preparation for accepting reality; only the person who is still can hear, and whoever is not still, cannot hear." ([Josef Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))
+
+Pieper insists the stillness is not inactivity: leisure "is not the same as the absence of activity; it is not the same thing as quiet, or even as an inner quiet", and it "lives on affirmation", meaning a fundamental agreement that the world is worth receiving ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). Idleness, on his account, is not too much rest but a broken relation to reality, an inability to receive it. The page for [leisure as a concept](https://clemvillatte.github.io/flourishing-compendium/#card=Leisure) carries the fuller passages.
+
+This matters for practice because it relocates the failure. In Pieper's account, the capacity for leisure involves more than arranging a schedule. [Resting deeply](https://clemvillatte.github.io/flourishing-compendium/#card=D113%20%E2%80%94%20Rest%20deeply) and [making rest the root of activity](https://clemvillatte.github.io/flourishing-compendium/#card=D039%20%E2%80%94%20Make%20rest%20the%20root%20of%20activity) both treat rest as something a person can approach deliberately, and Pieper calls the power to be at leisure one of the basic powers of the human soul.
+
 ### Relaxation, or wholehearted action?
 
 Leisure studies has its own version of the fight. Douglas Kleiber, writing in the Journal of Leisure Research, reports a view in the field that treats wholehearted investment in action as the essence of true leisure, following Tinsley and Tinsley, and that in this view relaxation "is clearly neglected and subordinated", taking appreciation, contemplation and peacefulness down with it. Kleiber dissents:
@@ -102,21 +103,24 @@ The difference from the classical accounts is one of purpose, and the two can co
 
 A one-week experience-sampling study of 78 adult workers found that most reported flow experiences occurred at work rather than during leisure, and that most measured aspects of the quality of experience were more closely associated with being in flow than with being at work or in leisure, with relaxation and motivation as exceptions ([Csikszentmihalyi and LeFevre, 1989](https://pubmed.ncbi.nlm.nih.gov/2724069/)). The same respondents reported more motivation in leisure than in work. The finding concerns what these participants reported during one week, and it does not test Aristotle's account of scholē, whose leisure is an activity rather than free time. What it does disturb is any assumption that free hours by themselves hold a person's best moments, which is an assumption neither Aristotle nor Pieper held, and which a reader holding it should notice.
 
-### Contemplation, display, or uselessness?
 
-Pieper says leisure is receptive beholding of reality. Veblen found something else at the bottom of aristocratic leisure: showing that you did not have to work. The "requirement of abstention from productive work" is, on his account, the widest of the demands of emulation, and "labour comes to be associated in men's habits of thought with weakness and subjection to a master", so that not working becomes a mark of rank ([Thorstein Veblen, The Theory of the Leisure Class, ch. 2](https://www.gutenberg.org/files/833/833-h/833-h.htm)). His book names the phenomenon after it, conspicuous leisure.
+## Where the traditions genuinely disagree
 
-The two books are not arguing with each other. Pieper describes what leisure is at its best and Veblen what much of it has historically been for, and both can be true of different hours. The uncomfortable question they leave open is which of the two things a given weekend actually is, and [judging a person by where they rest](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests) is one way of asking it.
+### Who should have access to leisure?
 
-Zhuangzi ends a story about a huge useless tree with an invitation:
+Aristotle's leisure was bought with other people's labour. He is explicit that the citizens of his best state must not be husbandmen, "since leisure is necessary both for the development of virtue and the performance of political duties" ([Aristotle, Politics VII.9, Jowett translation](https://classics.mit.edu/Aristotle/politics.7.seven.html)). Russell keeps Aristotle's valuation, leisure over work, and drops the exclusion:
 
-> "There you might saunter idly by its side, or in the enjoyment of untroubled ease sleep beneath it." ([Zhuangzi 1, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+> "The morality of work is the morality of slaves, and the modern world has no need of slavery." ([Bertrand Russell, In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
 
-His summary line runs: "All men know the advantage of being useful, but no one knows the advantage of being useless" ([Zhuangzi 4, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). His tree passage and Aristotle's contemplation are not directly opposed: both put the best things outside the economy of usefulness, and sleeping beneath a useless tree does not commit Zhuangzi against worthwhile activity. The divergence is in the shape of the ideal. Aristotle's leisure is an activity, contemplation, "loved for its own sake" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)), the highest and most self-sufficient thing a person can do. Zhuangzi's image is closer to resting in what nothing is harvesting, and [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless) draws the lesson for a person's week.
+Russell's case is distributive ([In Praise of Idleness, 1935 text](https://www.idler.co.uk/article/book-of-the-week-in-praise-of-idleness/)). The labours that once bought leisure for the few were valuable, he argues, for the sake of the leisure they bought, and a decent economy would spread that good justly. He adds the sociological sting:
 
-The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) counsels steady work, and its own texts also name rest and laughter as gifts, so its counsel runs against heavy sleeping rather than against rest itself; it is not a third pole in the question. That question remains, whether the best hours of a life are the ones doing something, the ones receiving something, or the ones nothing is harvesting. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
+> "The idea that the poor should have leisure has always been shocking to the rich." ([In Praise of Idleness, Harper's, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/))
 
-### Distinct types or a continuum?
+The disagreement is not about whether leisure is the point. It is about whether the point can be universal.
+
+I lean with Russell on the access and with Aristotle on the valuation. The hours should not be a privilege, and spreading them does not by itself settle what they are for, which is the question the rest of this dossier keeps open.
+
+### Are serious and casual leisure distinct types or a continuum?
 
 Stebbins's framework divides leisure into serious, casual and project-based forms, and the serious-casual distinction is its load-bearing wall. He maintained it flatly in a 2022 reflection: "leisure activities can be classified as either serious or casual, with each form offering its participants sharply different experiences and generating sharply different states of mind" ([Stebbins, Leisure Reflections 60, 2022](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/reflections60.pdf)).
 
@@ -125,6 +129,10 @@ Veal, reviewing four decades of the perspective in Leisure Studies, attacks the 
 Veal's sharpest charge is about the evidence. "Claims concerning the unique qualities of serious leisure have not generally been subject to empirical testing because of the marked lack of comparable research demonstrating the theorised distinctive qualities of casual leisure", while casual leisure, by Stebbins's own estimate, accounts for some 80 per cent of all leisure activity ([Veal, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf)). He also records that Stebbins once anticipated he would "abandon eventually this primitive categorical terminology for terminology conveying continuousness", a plan that never eventuated, with the responses to continuum proposals ranging from silence to limited acceptance.
 
 The disagreement is genuine: Stebbins asserts two forms with sharply different experiences; Veal argues the forms blur into a continuum and that the uniqueness claims have not had the comparative testing their weight deserves. Veal's challenge is to the evidential basis; the rewards themselves may still be there. For the relaxation-versus-effort question above, that means the two categories cannot settle it by themselves, since whether they are categories at all is what these two are arguing about.
+
+I lean toward Veal on the continuum, because the helping example is his own and it is hard to answer, and because the uniqueness claims carrying the category's weight are the ones he shows have not had the comparative testing. The rewards of serious pursuits are not in doubt; the sorting is.
+
+### Should the serious-leisure perspective be replaced?
 
 Stebbins presents the perspective as, in his words, "a theoretic framework that synthesizes three main forms of leisure, showing, at once, their distinctive features, similarities, and interrelationships" ([Stebbins, LSA Newsletter 79, 2008](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/reflections17.pdf)). The three forms and their rewards are meant to fit together into one account of free time.
 
@@ -138,6 +146,7 @@ Stebbins rejects Veal's case for replacement. He records the challenge as the mo
 
 The disagreement is direct. Veal proposes a broader successor that combines features of the SLP with other research traditions ([Veal, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)); Stebbins rejects the grounds offered for that replacement, arguing that Veal overlooks central concepts and the framework's theoretical foundations ([Stebbins, 2018](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/leisure_reflections_no._47__the_serious_leisure_perspective__past_present_and_future___leisure_studie.pdf)). Their disagreement concerns what leisure research should build on, a different question from whether serious and casual leisure form distinct categories.
 
+I would not replace it yet. Veal's case is that the framework is untested as theory, and an untested framework is a research programme, which is what Stebbins says he is offering; the honest reading is that the framework organises the field and the testing is still owed.
 ## Practice: variation, selection, retention
 
 ::Variation:: The thing to vary on this theme is what free time is asked to be. The options on offer are maintenance for the next shift, a slot to fill with whatever is easiest, and something with a use of its own. The third is the one worth testing: attention that recovers, a stance that receives, and hours not measured by output.
