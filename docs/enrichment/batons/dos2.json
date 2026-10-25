@@ -21,5 +21,7 @@
    "from": "worker-pplx-dos2-1025k",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T10:39:18+00:00"
 }
