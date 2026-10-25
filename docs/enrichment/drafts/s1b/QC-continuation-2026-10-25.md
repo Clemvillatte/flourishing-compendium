@@ -61,3 +61,7 @@ live carriers:
   "That's" — an extraction artifact, not a wording difference).
 Child output sample: clean. (Its two "published" items predate the launch and are
 not this session's output.)
+
+- s1e-008 (Andrew Wiles / Fermat's Last Theorem, PBS NOVA "The Proof" transcript):
+  both quoted spans (the seven-years sentence, the September-19 desk-checking
+  passage) verbatim against the live transcript. Child sample now 3/3 clean.
