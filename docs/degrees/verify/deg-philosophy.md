@@ -318,7 +318,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   Stoicism for prospective Cambridge philosophy applicants. Classification rests on
   the host description; the owner may quote the transcript for tighter provenance.
 - Relevant segment: whole talk, 1:02:57.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M25-004: Epicurus for Today, Kurt Lampe (optional)
 
@@ -335,7 +335,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   contentment and satisfaction, the classification of desires as necessary,
   unnecessary and extravagant, and the value of friendship. Fits the module.
 - Relevant segment: whole lecture, 49:36.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## mod-phil-4 required batch (verified 2026-10-25)
 
@@ -528,7 +528,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   legacies, with topics including domestic and international politics, race and
   ethnicity, and law. Fits mod-phil-4's pragmatism-and-society angle.
 - Relevant segment: whole lecture, 0:58:12.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-P12: William James and the Sick Soul (John Kaag, Harvard Divinity School)
 
@@ -545,7 +545,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   discusses James's 1895 lecture "Is Life Worth Living?" and why the founder of
   pragmatism can speak to anyone struggling to make a life worth living.
 - Relevant segment: whole lecture, 1:25:53.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## mod-phil-3 optional Cynicism series (verified 2026-10-25)
 
@@ -628,7 +628,7 @@ attach them with evidence on file.
   material covers God-world relation, ethics, Christology, spirituality and biblical
   studies.
 - Relevant segment: whole lecture, 47:18.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-P09: Whitehead's Philosophy of Organism (Matthew D. Segall, Dartington Trust)
 
@@ -644,7 +644,7 @@ attach them with evidence on file.
   Philosophy of Organism as a protest against scientific materialism, exploring the
   major themes of Process and Reality.
 - Relevant segment: whole talk, 1:36:01.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-P11: Spotlights 3.14, Process Studies and Imagination (Matthew Segall, Yale Forum)
 
@@ -659,7 +659,7 @@ attach them with evidence on file.
   on environmental ethics and eco-theology, and Segall's work on imagination in
   Schelling and Whitehead.
 - Relevant segment: whole episode, 58:25.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-P13: O Pragmatismo de John Dewey (Cassiano Terra Rodrigues and Larry Hickman, UNIVESP)
 
@@ -715,7 +715,7 @@ attach them with evidence on file.
   James in particular, and the continuing influence of Bergson's concepts of
   temporality, life, difference and novelty.
 - Relevant segment: whole roundtable, 1:21:27.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-P17: How French Philosopher Henri Bergson Helped 20th-century Biologists Get Creative About Evolution (Emily Herring, Linda Hall Library)
 
@@ -729,7 +729,7 @@ attach them with evidence on file.
   of Bergson among the biologists of his time and the relationship between science
   and philosophy, in 20th-century biology and in the present state of the humanities.
 - Relevant segment: whole talk, 1:00:02.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-P20: Cheryl Misak Lecture, Pragmatism and the Law (Centre for Constitutional Studies)
 
@@ -744,7 +744,7 @@ attach them with evidence on file.
   by John Dewey and C.I. Lewis, drawing on the founders of pragmatism's thinking
   about norms.
 - Relevant segment: whole lecture, 1:00:34.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### AR-02: PHIL 181, Lecture 9, Virtue and Habit I (Tamar Gendler, Open Yale Courses)
 
@@ -802,7 +802,7 @@ attach them with evidence on file.
   sphere of ownness and the ego, transcendental subjectivity, self-givenness,
   habit formation, the minimal self, personalism and the ego-world relation.
 - Relevant segment: whole lecture, 0:58:29.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### ST-06: Modern Stoicism course lecture (learn.modernstoicism.com)
 
@@ -823,10 +823,11 @@ attach them with evidence on file.
   access standard; the record needs an anonymously playable source. The course
   also contains a "YouTube Video Playlist" section, so a YouTube upload of the
   talk may exist and should be sought before abandoning the record.
-- What the owner needs to do: replace the dead canonical URL with the correct
-  lecture URL above or the YouTube upload, then this record can be verified.
-- Verification status: not verified at canonical URL, corrected location and
-  duration identified.
+- What the owner needs to do: find an anonymously playable source for this talk
+  (the course's YouTube playlist section is the first place to look); an
+  account-locked course page will not satisfy the access ruling.
+- Verification status: NOT VERIFIED. Dead canonical URL; candidate replacement is
+  unconfirmed and, being enrollment-locked, would fail the access ruling anyway.
 
 ### M05-SP-01: Spinoza, Toleration and the First Amendment (Steven Nadler, St. Norbert College)
 
@@ -842,7 +843,7 @@ attach them with evidence on file.
   belief, public worship, state authority and freedom of expression, and their
   relation to the First Amendment.
 - Relevant segment: whole lecture, 1:01:04.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M05-XP-04: Farghani on Wahdat al-Wujud in the Four Journeys (William C. Chittick, Columbia)
 
@@ -860,7 +861,7 @@ attach them with evidence on file.
   return, human perfection, divine names, intoxication and sobriety, annihilation
   and subsistence, and ascension.
 - Relevant segment: whole keynote, 1:31:24.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M05-SP-05: Hobbes and Spinoza on Equality, Equalization and Equilibrium (Beth Lord, Open University)
 
@@ -876,7 +877,7 @@ attach them with evidence on file.
   they converge on the need to achieve equilibrium as the most important form of
   equality a state can deliver.
 - Relevant segment: whole keynote, 0:37:33.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M05-XP-05: Emerson, Nietzsche, and the Romantic World (David Mikics, Yale Franke Lectures)
 
@@ -893,7 +894,7 @@ attach them with evidence on file.
   drawing on Isaiah Berlin's definitions of the two intellectual ages and arguing
   their relevance for society today.
 - Relevant segment: whole lecture, 1:28:23.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M10-010: Why God and Nature Are One, Spinoza's Theory of Love Lecture 1 (Noa Lahav Ayalon, Ergo)
 
@@ -912,7 +913,7 @@ attach them with evidence on file.
   the Ethics' architecture of definitions, substance, attributes and modes, causa
   sui, the identity of God and nature, and Spinoza's determinism.
 - Relevant segment: whole lecture, 0:54:12.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M10-011: Love as an Expansion of Self, Spinoza's Theory of Love Lecture 4 (Noa Lahav Ayalon, Ergo)
 
@@ -930,7 +931,7 @@ attach them with evidence on file.
   stages of knowledge culminating in the intellectual love of God as immanent
   salvation.
 - Relevant segment: whole lecture, 0:45:44.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M-15-001: Spinoza on Conatus and the Impossibility of Suicide (Hao Dong, IU Philosophy)
 
@@ -946,7 +947,7 @@ attach them with evidence on file.
   Proposition 4 and the claim that nothing can destroy itself, drawing on
   Spinoza's Dutch-scholastic context and Huygens's pendulum clocks.
 - Relevant segment: whole lecture, 1:46:43.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### PHR-01: A Romp Through Ethics for Complete Beginners, Part 3 of 7 (Marianne Talbot, Oxford)
 
@@ -960,7 +961,7 @@ attach them with evidence on file.
 - Content coverage: the host's description states this episode reflects on
   Aristotle's account of morality and the centrality of the virtues.
 - Relevant segment: whole episode, 1:22:24.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M19-ST02: How to be a Stoic (Michiel Buis, Studium Generale, Erasmus)
 
@@ -977,7 +978,7 @@ attach them with evidence on file.
   differences between modern and classical Stoicism, and its use in self-help,
   coaching and therapy.
 - Relevant segment: whole lecture, 1:27:35.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M20-C01: Spinoza, Ethics, The Nature of Reality and the Relation of Mind and Body (John Russon)
 
@@ -997,7 +998,7 @@ attach them with evidence on file.
   the owner may want it placed alongside the Zhuangzi empathy record (SRC-M20-D02,
   deg-contemplative).
 - Relevant segment: whole lecture, 0:54:28.
-- Verification status: verified-video, with the credential-provenance note.
+- Verification status: verified-partial: media checks done; instructor biography not yet attached from an institutional page (see note above).
 
 ### M16-P01: What is Phronesis and How to Develop It? (Kristján Kristjánsson, Mind&Ethics Roma Tre)
 
@@ -1017,7 +1018,7 @@ attach them with evidence on file.
   phronesis in organizations and politics, and flourishing and moral identity in
   liberal societies.
 - Relevant segment: whole lecture, 1:16:19.
-- Verification status: verified-video, with the credential-provenance note.
+- Verification status: verified-partial: media checks done; instructor biography not yet attached from an institutional page (see note above).
 
 ### M16-P02: Cultivating Practical Wisdom in Medical Education (Zack Loveless, University of Chicago)
 
@@ -1036,7 +1037,7 @@ attach them with evidence on file.
   compassion, courage and honesty, and research showing gains in wisdom, wise
   reasoning, epistemic humility and life satisfaction for participants.
 - Relevant segment: whole lecture, 0:53:50.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### PHR-02: The Corbett Lecture 2024, Targeting the Good, Archery as an Image of Wisdom in Aristotle and Plato (Gabriel Richardson Lear, Cambridge)
 
@@ -1052,7 +1053,7 @@ attach them with evidence on file.
   decision theory, and argues we should attend to images of rationality and not
   only theories.
 - Relevant segment: whole lecture, 0:52:59.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M23-EX04: Dan Zahavi on the Appropriation of Phenomenology in Qualitative Research (Laboratory for Phenomenological Research)
 
@@ -1067,7 +1068,7 @@ attach them with evidence on file.
   appropriation of philosophical phenomenology in qualitative literature and
   advocates a middle path between hyper-philosophizing and ignoring the tradition.
 - Relevant segment: whole lecture, 0:55:55.
-- Verification status: verified-video, with the credential-provenance note.
+- Verification status: verified-partial: media checks done; instructor biography not yet attached from an institutional page (see note above).
 
 ## Block A status
 

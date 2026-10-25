@@ -287,7 +287,7 @@ standard.
   engaging Michael Walzer's thin morality, family, state and world in Confucian
   thought, relational equity and a planetary order.
 - Relevant segment: whole lecture, 1:24:14.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M04-R08: A Confucian Meditation on Justice (Henry Rosemont Jr., Creighton)
 
@@ -302,7 +302,7 @@ standard.
   focuses mainly on distributive justice, with retributive and restorative justice,
   role-based relationships, human rights and truth and reconciliation commissions.
 - Relevant segment: whole lecture, 57:03.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M04-R13: Reweaving Relational Worlds (Jacoba Matapo, PESA 2024)
 
@@ -318,7 +318,7 @@ standard.
   regeneration, drawing on Samoan concepts of va (relational space), fanua
   (land/placenta) and Indigenous weaving pedagogies.
 - Relevant segment: whole keynote, 54:02.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M04-R16: A Conversation with Professor Linda Tuhiwai Smith (Te Tiriti Based Futures)
 
@@ -336,4 +336,4 @@ standard.
   working in institutions, the impact of digitisation and support for young
   academics and activists.
 - Relevant segment: whole conversation, 0:58:29.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.

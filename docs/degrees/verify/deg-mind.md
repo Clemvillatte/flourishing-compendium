@@ -165,7 +165,7 @@ standard.
   research findings on the role of positive emotions in behavior, health and
   connection, with applications for enhancing daily life.
 - Relevant segment: whole lecture, 1:05:17.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M06-AF13: Radical Acceptance, Our Gateway to Love and Freedom (Tara Brach, IMCW)
 
@@ -180,7 +180,7 @@ standard.
   trance of unworthiness and using mindfulness, self-compassion and the RAIN
   practice (Recognize, Allow, Investigate, Nurture) to loosen self-aversion.
 - Relevant segment: talk begins at 21:28; whole class runs 1:01:39.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M06-AT07: Human Behavioral Biology, Lecture 1, Introduction (Robert Sapolsky, Stanford)
 
@@ -196,7 +196,7 @@ standard.
   integrating sociobiology, ethology, neuroscience and endocrinology to examine
   aggression, sexual behavior, language use and mental illness.
 - Relevant segment: whole lecture, 0:53:03.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M07-002: PSYC 110, Lecture 17, A Person in the World of People, Self and Other Part II (Paul Bloom, Open Yale Courses)
 
@@ -231,7 +231,7 @@ standard.
   of behavior, including individual selection, kin selection and reciprocal
   altruism.
 - Relevant segment: whole lecture, 1:19:06.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M07-003: Social Psychology Lecture 8 (Matthew Lieberman, UCLA Psych 135)
 
@@ -338,4 +338,4 @@ standard.
   kin, evolutionary explanations, the prisoner's dilemma, the ultimatum game and
   cultures of honor.
 - Relevant segment: whole lecture, 0:56:06.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.

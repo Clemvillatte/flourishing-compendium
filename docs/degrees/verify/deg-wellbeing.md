@@ -23,7 +23,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   for Happiness event at Friends House, London, on 9 May 2016, with Seligman sharing
   ideas to help people flourish as individuals and contribute to a happier world.
 - Relevant segment: whole talk, 1:20:13.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-P01: Positive Psychology and Beyond (Martin Seligman, Dickinson College)
 
@@ -59,7 +59,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   chaos: the purpose crisis, burnout, what brings direction to life, and how purpose
   guides people forward. Fits mod-wb-1's meaning strand.
 - Relevant segment: whole talk, 57:59.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-P02: 2010 Tanner Lecture, Martin Seligman (optional)
 
@@ -129,7 +129,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   in human flourishing and the neurobiology and neurodynamics of flow onset. Fits
   mod-wb-2 as optional material with a research-forward angle.
 - Relevant segment: whole recording, 54:32.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## mod-wb-3 batch (verified 2026-10-25)
 
@@ -247,7 +247,7 @@ standard.
   employee motivation in organizational success and creativity in competitive
   environments, and how to lead employee engagement to unleash human potential.
 - Relevant segment: whole keynote, 0:56:32.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-P10: Ordinary Magic on the Developmental Road to Resilience (Ann Masten, UMass Amherst)
 
@@ -264,7 +264,7 @@ standard.
   childhood experiences, adoption in relation to risk and resilience, and recent
   advances in resilience science and their applications in practice.
 - Relevant segment: whole keynote, 1:16:56.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-P12: Play, How it Shapes the Brain, Opens the Imagination and Invigorates the Soul (Stuart Brown, Microsoft Research)
 
@@ -280,7 +280,7 @@ standard.
   on research on three-dimensional-object play and animal studies of play
   deprivation.
 - Relevant segment: whole talk, 1:11:12.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-P13: Social Connection and Happiness (Robert Waldinger, Osher Center)
 
@@ -296,7 +296,7 @@ standard.
   examining what actually helps people thrive rather than wealth, fame and
   achievement.
 - Relevant segment: whole lecture, 0:56:08.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S04: Our Cultures, Our Selves, The Sources of Belonging (Hazel Markus, University of Missouri)
 
@@ -313,7 +313,7 @@ standard.
   States, independent and interdependent selves, mismatch for first-generation
   college students, belonging interventions and institutional support.
 - Relevant segment: whole lecture, 1:22:09.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S06: Interesting WEIRD Psychology, The Challenges of Searching for a Human Nature (Steven Heine, CMPR)
 
@@ -330,7 +330,7 @@ standard.
   self-enhancement motivations in North American and East Asian samples, and ways
   to improve cross-cultural research.
 - Relevant segment: whole lecture, 1:16:23.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S08: Robust Cultural Pluralism in the New World Order (Richard Shweder, University of Chicago)
 
@@ -348,7 +348,7 @@ standard.
   cultural diversity, drawing on his research on the challenges of cultural
   diversity in Western democracies.
 - Relevant segment: whole lecture, 0:53:09.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S17: Social Psychology Lecture 2, Situational Construal and Naive Realism (Matthew Lieberman, UCLA Psych 135)
 
@@ -362,7 +362,7 @@ standard.
 - Content coverage: the host's description states the lecture covers situational
   construal and naive realism.
 - Relevant segment: whole lecture, 1:18:39.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S18: The Value of Social Capital and Bowling Alone in 2025 (Robert Putnam, Harvard IOP)
 
@@ -381,7 +381,7 @@ standard.
   isolation, class-based isolation, building connections across social classes,
   and the role of technology and community organizations for democracy.
 - Relevant segment: whole conversation, 1:18:50.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S22: Misbehaving, The Making of Behavioural Economics (Richard Thaler, LSE)
 
@@ -399,7 +399,7 @@ standard.
   biases in decisions such as purchases and mortgages, and the implications for
   individuals, managers and policymakers.
 - Relevant segment: whole event, 1:27:38.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S24: Book Talk on Wiser, Getting Beyond Groupthink (Cass Sunstein, Harvard Law School)
 
@@ -414,7 +414,7 @@ standard.
   decisions, including groupthink, group biases and errors, information-sharing
   and group polarization, and ways to structure groups to make better decisions.
 - Relevant segment: whole talk, 1:01:38.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M08-S25: #Republic, Divided Democracy in the Age of Social Media (Cass Sunstein, Carnegie Council)
 
@@ -429,7 +429,7 @@ standard.
   Internet and social media drive political fragmentation, polarization and
   extremism, and what can be done about these challenges.
 - Relevant segment: whole talk, 1:01:40.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M21-PP01: Conducive Conditions for Positivity Resonance at Multiple Levels of Analysis (Barbara Fredrickson, UBC)
 
@@ -447,5 +447,5 @@ standard.
   collective and structural levels, aiming at interventions for loneliness and
   connectedness.
 - Relevant segment: whole colloquium, 1:18:27.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 

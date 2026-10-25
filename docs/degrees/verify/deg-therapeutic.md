@@ -29,4 +29,4 @@ standard.
   Beck, Jeffrey Young, Prochaska and Norcross, and Donald Robertson on Stoicism
   and CBT.
 - Relevant segment: whole lecture, 1:40:07.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.

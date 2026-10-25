@@ -54,12 +54,6 @@ reference, unique source ids in brackets):
   records still labelled imported — deg-verify-a (checked 2026-10-25 by verifier-pplx-a1: zero records still labelled imported, see docs/degrees/verify/deg-cmp.md; no re-checks required)
 - Block I: remaining unattached "imported" records (the rest of the 291) —
   split by canonical URL hash between the two batons at claim time
-  (deg-verify-a hash half: all 81 records verified or flagged 2026-10-25 by
-  verifier-pplx-a1, see the Block I sections of docs/degrees/verify/
-  deg-philosophy.md, deg-contemplative.md, deg-wellbeing.md, deg-mind.md,
-  deg-relational.md, deg-cmp.md and deg-therapeutic.md; ST-06 dead canonical
-  URL and two Huberman episodes without printed durations are flagged for the
-  owners; deg-verify-b half still open)
 
 ## Pilots (Phase 0)
 

@@ -66,7 +66,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   yangsheng (nourishing life): the informing Daoist view, general principles, and the
   theory behind the foundation's basic yangsheng practice.
 - Relevant segment: whole talk, 53:43.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D11: Lundao 7, The Inner Cultivation Lineages of Classical Daoism (Louis Komjathy)
 
@@ -80,7 +80,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   and remedies mistaken views about Daoism including the so-called philosophical
   Daoism fiction.
 - Relevant segment: whole talk, 1:10:54.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D13: Time in Daoist Culture (Livia Kohn, Collaborative Learning)
 
@@ -94,7 +94,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   nootemporality through biotemporality, eotemporality and prototemporality to
   atemporality, including Daoist practices tied to each level.
 - Relevant segment: whole lecture, 1:31:33.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## mod-cont-3 batch (verified 2026-10-25)
 
@@ -159,7 +159,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   visionary time and space, and the distinction between discursive and meditative
   thinking, with comparisons to Freud, Nietzsche and other traditions.
 - Relevant segment: whole lecture, 1:29:58.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## mod-cont-4 batch (verified 2026-10-25)
 
@@ -241,7 +241,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   tribute to Miguel León-Portilla, covering his work on Nahuatl philosophy and
   archaeology, cultural justice for indigenous peoples, and The Broken Spears.
 - Relevant segment: whole lecture, 1:31:04.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## Block B optional batch 1 (verified 2026-10-25)
 
@@ -287,7 +287,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   political thought and government in the Zhuangzi, non-coercive leadership and
   responsiveness, and the "five great" passage.
 - Relevant segment: whole roundtable, 1:59:09.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D19: The Dao of the Scholar/Practitioner (Siegler, Palmer, Komjathy, Brown University)
 
@@ -303,7 +303,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   the West, including globalization of Taoism, Western spiritual tourism and Chinese
   Taoist lineages, and the scholar/practitioner position.
 - Relevant segment: whole lecture, 1:44:40.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## Block B optional batch 2 (verified 2026-10-25)
 
@@ -322,7 +322,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   conceptions of illness, earlier attempts to identify Daoist medical trajectories,
   and more viable frameworks for reconstructing pre-modern Daoist medicine.
 - Relevant segment: whole talk, 1:14:23.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M02-K06: Osel Ling, Mahamudra Teachings, Day 1 (Tergar)
 
@@ -361,7 +361,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   knowledge and self-inquiry, consciousness, non-duality, and applying Vedantic
   teaching to conflict, stress and difficult choices.
 - Relevant segment: whole panel, 2:04:33.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M22-YV02: Introduction to Advaita Vedanta (Arvind Sharma, Centre for Indic Studies)
 
@@ -377,7 +377,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   mumukshutva, and the ultimate reality, with Q&A; chapters are timestamped from
   0:00:00 to 1:00:26.
 - Relevant segment: whole lecture, 1:01:14.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## Block B optional batch 3 (verified 2026-10-25)
 
@@ -398,7 +398,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   parallel course and the two class-1 recordings should not both be scheduled
   without checking for redundancy.
 - Relevant segment: whole class, 1:15:45.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M24-001: The Tonalamatl as Talking Book (James Maffie, Latinx Research Center)
 
@@ -432,7 +432,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   building an intercultural epistemology from indigenous languages and collaborative
   methodologies, tied to indigenous cultural rights under UNDRIP article 13.
 - Relevant segment: whole lecture, 1:56:16.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M24-003: Decolonization, Neocolonialism and Human Rights, Gloria Anzaldua (Verena Dolle, Columbia ILAS)
 
@@ -449,7 +449,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   discrimination, postcolonialism, neocolonialism, abolitionism and
   decolonization, with a Latin America focus.
 - Relevant segment: whole session, 1:34:32.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## Block B optional batch 4 (verified 2026-10-25)
 
@@ -467,7 +467,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   was given at the May 2023 Archives of the Impossible conference on
   transnationalism, transdisciplinarity and transcendence.
 - Relevant segment: whole lecture, 50:26.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M24-005: Pensamientos de Gloria Anzaldua (Stehn and Alessandri, UNAM FCPyS)
 
@@ -516,7 +516,7 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   Mappa Mundi: Great Temples and Sacred Bundles in Aztec Society", covers the Aztec
   ceremonial center and Great Temple, the Mapa de Cuauhtinchan, and sacred bundles.
 - Relevant segment: whole lecture, 1:12:17.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
@@ -544,7 +544,7 @@ attach them with evidence on file.
   Laozi and the Daodejing, the historical evidence about Laozi, and the influence of
   his ideas on science, politics, martial arts, music and the counterculture.
 - Relevant segment: whole documentary, 50:09.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D03: Lundao 1, The Daoist Tradition (Louis Komjathy)
 
@@ -556,7 +556,7 @@ attach them with evidence on file.
 - Content coverage: the uploader's description states the talk introduces Daoism as
   an indigenous and global religion.
 - Relevant segment: whole talk, 1:13:54.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D06: What is Daoist Philosophy? (Hans-Georg Moeller, Carefree Wandering)
 
@@ -586,7 +586,7 @@ attach them with evidence on file.
   organized Daoist religion founded on revelation, its early communities, and how
   successive revelations transformed it into the caretaker of China's popular gods.
 - Relevant segment: whole lecture, 54:02.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D12: Lundao 8, Towards a Radical (Re)Reading of the Daode jing (Louis Komjathy)
 
@@ -599,7 +599,7 @@ attach them with evidence on file.
   Daode jing based on Komjathy's bilingual translation and interpretive study,
   encouraging an informed contemplative approach to the source text.
 - Relevant segment: whole talk, 1:32:47.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M01-D16: Losing the Self in the Philosophy of Zhuangzi (Brook Ziporyn, Tel Aviv)
 
@@ -627,7 +627,7 @@ attach them with evidence on file.
   explores how Daoism shaped Chinese Buddhism in the second to sixth centuries CE,
   with Daoist scripture, ritual and monastic forms developing on Buddhist models.
 - Relevant segment: whole lecture, 57:21.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M02-B03: Buddhist Spirituality and the Contemplation of Nature (Charles Hallisey, Brown)
 
@@ -643,7 +643,7 @@ attach them with evidence on file.
   poetry as contemplative practice in Buddhist spirituality, drawing on Dharmakirti,
   Dandin and a Sinhala messenger poem.
 - Relevant segment: whole lecture, 1:27:39.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M02-B06: The Life of the Buddha (BBC/Discovery documentary)
 
@@ -674,7 +674,7 @@ attach them with evidence on file.
   in the Buddhist Arts of Ministry and Leadership series, covers a Buddhist
   perspective on care of the dying.
 - Relevant segment: whole lecture, 1:21:59.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M02-K01: Absolute Critique in Tanabe Hajime's Philosophy as Metanoetics (Gregory Moss, Edinburgh)
 
@@ -689,7 +689,7 @@ attach them with evidence on file.
   systematic development of Kant's Critique of Pure Reason and its transcendence
   via trans-rational faith in Other-Power.
 - Relevant segment: whole talk, 49:25.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M02-K07: Shantideva's Guide, Lesson 6, Patience (Ringu Tulku Rinpoche, The Buddhist Society)
 
@@ -722,7 +722,7 @@ attach them with evidence on file.
   resilience, and how the emerging neuroscience of sensation and the practice of
   Sense Foraging support resilience, wellbeing, health and creativity.
 - Relevant segment: whole discussion, 1:21:21.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M12-002: James Maffie on Aztec Philosophy, Mythology and Metaphysics (Taproot Therapy Pod)
 
@@ -775,7 +775,7 @@ attach them with evidence on file.
 - Content coverage: the host's description states the lecture explains the
   philosophy of Zhuangzi; this is part 2 of the Daoist Philosophy II lecture.
 - Relevant segment: whole lecture part, 1:14:36.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M-15-006: The Scientific Buddha, Past, Present, Future, The Problem With Karma (Donald Lopez, Yale)
 
@@ -792,7 +792,7 @@ attach them with evidence on file.
   that association and new directions for the role of the Buddha in scientific
   research; this lecture addresses the problem with karma.
 - Relevant segment: whole lecture, 1:08:32.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### M-15-008: Karma and Rebirth in Buddhism (John Cianciosi, Theosophical Society)
 
@@ -808,7 +808,7 @@ attach them with evidence on file.
   transmigration, and the process of conditioned becoming in which freedom and
   responsibility shape destiny.
 - Relevant segment: whole talk, 1:16:02.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M18-B01: On Death and Rebirth, and What Happens in Between (Rupert Gethin, Stanford)
 
@@ -825,7 +825,7 @@ attach them with evidence on file.
   the arguments for and against intermediate existence, and parallels between
   northern and southern Buddhist traditions.
 - Relevant segment: whole talk, 0:59:43.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M18-B03: Back to the Roots, Mapping the Mind through Abhidharma (Bhikkhu Bodhi, Tergar)
 
@@ -842,7 +842,7 @@ attach them with evidence on file.
   consciousness, wholesome and unwholesome states, and the relation of the
   Abhidharma's analysis to practice and liberation.
 - Relevant segment: whole teaching, 1:45:00.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M18-B04: Buddhist Studies Podcast Ep. 2, Buddhist Philosophy and Ecological Activism (Karin Meyers, BDG)
 
@@ -859,7 +859,7 @@ attach them with evidence on file.
   philosophy to contemporary engagement with social issues, and staying motivated
   to tackle the ecological crisis.
 - Relevant segment: whole episode, 1:15:14.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M18-B05: Buddhism and the Senses, Lecture 7, Conclusion (Donald Lopez, HKU)
 
@@ -877,7 +877,7 @@ attach them with evidence on file.
   winds, the stages of dissolution at death, the intermediate state and its visions,
   rebirth into the Buddha's three bodies, and the mind as Buddhism's sixth sense.
 - Relevant segment: whole lecture, 0:45:43.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ### SRC-M18-K02: Rebirth, A Guide to Mind, Karma and Cosmos in the Buddhist World (Roger Jackson, Tibet House)
 
@@ -898,7 +898,11 @@ attach them with evidence on file.
   presents traditional arguments in favor of rebirth including Dharmakirti's, and
   reflects on the place of rebirth within modern Buddhism.
 - Relevant segment: whole lecture, 2:22:25.
-- Verification status: verified-video.
+- Verification status: INCOMPLETE. The oembed author (Tibet House, New Delhi)
+  conflicts with the author string returned by one watch-page extraction
+  (Shantideva Center/FPMT), and the 2:22:25 duration comes from a single page
+  extraction; the owner must re-confirm uploader identity and duration against
+  the page before this record counts as verified.
 
 ### SRC-M20-D02: Empathy in the Daoist Zhuangzi (Youru Wang, Ric Edelman College)
 
@@ -915,7 +919,7 @@ attach them with evidence on file.
   receptivity, cultivating empathic capacity and the Daoist forgetfulness of
   self-centricity.
 - Relevant segment: whole talk, 1:03:03.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
 
 ## Block B status
 

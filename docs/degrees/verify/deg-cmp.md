@@ -33,4 +33,4 @@ standard.
   development, including the cultural background and practical applications of qi
   in Chinese medicine, nourishing life practices and the martial arts.
 - Relevant segment: whole presentation, 1:20:22.
-- Verification status: verified-video.
+- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
