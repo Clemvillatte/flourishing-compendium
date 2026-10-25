@@ -16,7 +16,7 @@ Jeanne Tsai separates actual affect, "the affective states that people actually 
 
 ### Expression and well-being
 
-How much holding back an emotion costs may also differ by group. One study of Chinese Americans and Mexican Americans found that suppression of positive emotions "was related to lower hedonic and eudaimonic well-being among Mexican Americans but not among Chinese Americans" ([Zamboanga et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC8460117/)). A later study across two culturally distinct regions found habitual suppression of positive emotions "consistently" predicted lower well-being in both ([Yu, Haase and Chang, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10751279/)). So the evidence on cultural differences in the costs of suppression is mixed.
+How much holding back an emotion costs may also differ by group. One study of Chinese Americans and Mexican Americans found that suppression of positive emotions "was related to lower hedonic and eudaimonic well-being among Mexican Americans but not among Chinese Americans" ([Su et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC8460117/)). A later study across two culturally distinct regions found habitual suppression of positive emotions "consistently" predicted lower well-being in both ([Yu, Haase and Chang, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10751279/)). So the evidence on cultural differences in the costs of suppression is mixed.
 
 ### Scope
 
@@ -29,7 +29,7 @@ These sources support the claim about ideal affect and about varied results on s
 ## Psychology parallels
 
 - **Ideal affect differs across cultures**, European Americans idealise high-arousal positive affect; East Asians idealise low-arousal positive affect (Tsai, 2007)
-- **Emotion norms vary; the costs of suppression are not uniform across groups** (Zamboanga et al., 2015; Soto et al., 2011)
+- **Emotion norms vary; the costs of suppression are not uniform across groups** (Su et al., 2015; Soto et al., 2011)
 
 ## Philosophy parallels
 

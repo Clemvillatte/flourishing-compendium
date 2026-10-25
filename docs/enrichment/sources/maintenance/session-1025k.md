@@ -165,3 +165,6 @@
 
 ## A003, S003 truncated-URL parallels
 - Both pages had parallels lines ending in truncated links ('...)'). A003: replaced the unsupported claim (effect sizes holding across cultures) with what the opened Casali and Feraco 2025 abstract and VIA summary say. S003: replaced with Beck 1976 sentence as quoted in Dickinson 2024 (search excerpt of the Springer article; Beck's book itself not opened).
+
+## D089, AF012 mislinked PMC citations (found by comparing all 165 PMC links on principle pages with NCBI titles/authors)
+- D089: 'Bonanno, 2004' pointed to PMC3181329 (an E. coli metabolism paper) and 'Stroebe and Schut, 1999' pointed to PMC6844541 (O'Connor 2019, a grief history). Replaced with the PubMed record for Stroebe and Schut 1999 (abstract opened) and the Columbia-hosted PDF of Bonanno 2004 (abstract opened). AF012: first author of PMC8460117 is Su (Zamboanga is ninth); label corrected, quote verified in the PMC abstract. The other 160+ PMC links had author/title consistent with their labels at the first-author level; I did not open each full text.

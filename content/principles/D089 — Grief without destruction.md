@@ -42,8 +42,8 @@ Zhuangzi looks back beyond the death itself. In his account, changes brought his
 - [[K245 — Expressive writing|K245 Expressive writing]]
 ## Psychology parallels
 
-- **[[Dual-process theory|The dual-process model]]**, healthy grieving oscillates between loss- and restoration-orientation ([Stroebe and Schut, 1999](https://pmc.ncbi.nlm.nih.gov/articles/PMC6844541/))
-- **Grief trajectories** ([Bonanno, 2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC3181329/)), resilience is the most common outcome pattern
+- **[[Dual-process theory|The dual-process model]]**, healthy grieving oscillates between loss- and restoration-orientation ([Stroebe and Schut, 1999, PubMed](https://pubmed.ncbi.nlm.nih.gov/10848151/))
+- **Grief trajectories** ([Bonanno, 2004, American Psychologist](https://www.tc.columbia.edu/media/centers--labs/lte-lab/peered-review-journals/2004/16916_2004_american_psychologist.pdf)), resilience is the most common outcome pattern
 - **[[Continuing bonds|Continuing bonds]]** (Klass et al., 1996)
 
 ## Philosophy parallels
