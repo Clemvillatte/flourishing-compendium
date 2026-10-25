@@ -17,7 +17,9 @@ Being-in-the-world (In-der-Welt-sein) is Heidegger's name for the unitary struct
 
 The same article notes Heidegger's definition of world as "that 'wherein' a factical Dasein as such 'lives'" (Sein und Zeit, p. 65). A unitary phenomenon, the article explains, is "made up holistically of parts that cannot exist separately, and each of which is what it is only through its relationship to the others" — the world, the self who exists in it, and the being-in relation.
 
-### Here
+The unitary reading is what the hyphens defend. An independent subject contemplating an independent world is, on this account, a late abstraction from a primary involvement: hammering, walking, greeting are skilled dealings in which the doer and the surroundings show up together. The payoff is practical rather than exotic. The self is not asked to build a bridge out to the world before acting in it, because it never stood apart.
+
+### In the compendium
 
 - [[S033 — Do not retreat from the world]]
 - [[R088 — Practise the distinction between problem and mystery]]

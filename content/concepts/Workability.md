@@ -13,9 +13,11 @@ In Acceptance and Commitment Therapy (ACT), [[Workability]] is a criterion for a
 
 ### What the test does
 
-My practice kernel [[K135 — Workability check]] applies the criterion to holding a view: does doing so help a person act in line with their values?
+The practice kernel [[K135 — Workability check]] applies the criterion to holding a view: does doing so help a person act in line with their values?
 
-### Here
+The test is deliberately external. It does not ask whether a view is true in the abstract; it asks what holding it does to the person's movement toward what they say matters. A view can be defensible and still be a bad trade if clinging to it narrows behavior, and the reverse can hold too: a rough working rule that keeps a person moving toward their chosen direction can outperform a more careful one that does not. That is the sense in which values are the precursor rather than the conclusion — without a stated direction there is nothing for the word "works" to mean.
+
+### In the compendium
 
 - [[P013 — Judge by workability]] — reads James's pragmatic method as an instrument for settling otherwise endless disputes.
 - [[P155 — Make workability your everyday criterion]] — grounds the criterion in ACT sources: chosen values supply the direction a response is assessed against.

@@ -85,7 +85,9 @@
   "Prejudice (Vorurteil)",
   "Sufficiency",
   "Love",
-  "Akrasia"
+  "Akrasia",
+  "Workability",
+  "Being-in-the-world"
  ],
  "in_progress": null,
  "flagged": {
@@ -125,7 +127,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-25T12:12:41+00:00",
+ "updated": "2026-10-25T12:13:12+00:00",
  "band_done": true,
  "new_concepts": [
   {
