@@ -18,7 +18,7 @@ In the account of Nishitani's three-field topology given in the Stanford Encyclo
 
 > Yet the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness on the "field of emptiness." (Bret W. Davis, "The Kyoto School", §3.5, Stanford Encyclopedia of Philosophy, describing Nishitani's three-field topology)
 
-**Plain words** The account has two steps: first away from the ego's stance, then through the emptiness that remains. The step can be taken with one question: with the "me" subtracted, what is still true of the situation? What shows up is what the field was holding all along.
+**Plain words** Nishitani's map of the self reads like a journey with two borders. The first crossing leaves the fortress of "me" behind and lands in a desert where the usual certainties have died; most people turn back there. The second crossing walks through the desert, and on the far side the world returns, no longer a set of objects facing an owner. The question that moves the walker is not "who am I?" but "what remains, once the owning stops?"
 
 *For example:* after a public failure, someone stops drafting a comeback story and for a day notices the weather, the dishes, a friend's voice, as they are.
 
