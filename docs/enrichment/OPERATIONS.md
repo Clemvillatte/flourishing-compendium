@@ -185,6 +185,19 @@ long evidence records in the ledger, not in the public reading path.
   story-page thinker backlinks applied per the routed disposition
   (ST194<-T013, ST432/ST458<-T035, ST206<-T036, ST023<-T037; card link
   on the author's first body mention, commit 4922538e9).
+- ADDENDUM 9 (~T+37): dos33 (procrastination) supervisor review PASS and
+  FLAGS RULED: (1) divergence requirement — the single genuine
+  disagreement section (Socrates/Aristotle akrasia on primary sources)
+  SATISFIES the model; the evidence rule governs, not a count, same
+  ruling as dos13 goals; the Steel vs Sirois-Pychyl non-disagreement is
+  honestly marked as such. (2) bounded-comparison — PASS, the section
+  closes on what kind of knowing is present. (3) rev-2 practice
+  additions stay out (upheld). All four primary-source quotes
+  raw-verified this pass: Protagoras Jowett both fragments, NE VII.2
+  'plainly contradicts the observed facts', NE VII.3 two-senses passage
+  (verbatim; first check hit a smart-quote artifact). PUBLISHING BLOCKED
+  on artwork, same as creativity: no procrastination art in the owner's
+  collection; registry left 'planned'.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
