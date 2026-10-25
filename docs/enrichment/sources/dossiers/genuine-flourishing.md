@@ -1082,3 +1082,29 @@ candidate count is unchanged at 10 (the recasts did not touch flagged
 lines). Scope: this is a closer-to-full structural read of the dossier,
 but owner validation of the GF candidate remains the pending gate this
 pass does not affect.
+
+## Prose card-fidelity check (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+This dossier's map is prose-embedded rather than a gloss-per-entry
+list, so the map-format sweep used on the other dossiers does not apply.
+Instead, the ten lines the voice audit flags (all previously reviewed
+and kept) had their linked cards opened and read against the claims the
+prose makes. All match: the Thriving line against Flourishing as
+capability (Nussbaum's real opportunities) and the Complete mental
+health model (Keyes 2002); the Frankl line against The meaning of life,
+Meaning and Purpose; the finitude line against E043 being-toward-death
+(ownmost, non-relational) and Impermanence; the relationships line
+against Connectedness in well-being research (Diener and Seligman 2002,
+222 students, happiest tenth, association-not-causation carried) and
+the need to belong (Baumeister and Leary); the character line against
+Character development (NE II.1 habituation) and Virtue development
+research (Sanderse, explicitly philosophical not a proven training
+programme); the Maslow line against Pursue becoming, not arrival
+(Maslow's own correction of his static framing); the Seligman line
+against T026, which carries the supplement-not-replacement passage
+verbatim from the Tanner Lecture; and the Frankl/Diogenes line against
+ST279 (modest claim, no survival promise) and ST195 (the sun anecdote).
+No mismatches found; no edits made.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
