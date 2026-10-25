@@ -411,3 +411,27 @@ categories vs two dimensions; bodily change vs judgment; gambling-task
 guidance before reportable knowledge). No edits made to the dossier
 this pass. FLAG for the supervisor: the affect and goals verdict rows
 can be updated to reflect the repaired, published state.
+
+## Gambling-task anchors (2026-10-25 10:44Z actual clock, worker-pplx-1025i, dos2)
+
+The gambling-task dispute question's Damasio side was paraphrase-only;
+the Maia and McClelland side carried the only quote. Both sides now
+carry verbatim anchors. Source opened this session: the Bechara et
+al. 1997 Science abstract ("Deciding advantageously before knowing
+the advantageous strategy", PMID 9036851), fetched via the Europe PMC
+REST service (fetchable JSON; same carrier class the dossier already
+uses for the Maia paper). Spans added, verbatim against the fetched
+abstract text: "Normals began to choose advantageously before they
+realized which strategy worked best, whereas prefrontal patients
+continued to choose disadvantageously even after they knew the
+correct strategy" and "is preceded by a nonconscious biasing step
+that uses neural systems other than those that support declarative
+knowledge". The interpretation attribution also moved to the right
+source: the Bechara summary now cites the Bechara 1997 abstract
+(the 2005 Bechara & Damasio review keeps its own link in the
+preceding sentence), instead of borrowing the Maia citation.
+
+CHECKS: dossier_check exit 0 (102 card links, 20 headers, 8
+carriers); quote_verify 13 checked / 0 not found (both new spans
+verify against the Europe PMC carrier); density 0; app.js rebuilt
+via --rebuild=affect, node --check OK.

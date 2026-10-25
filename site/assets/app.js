@@ -6492,6 +6492,22 @@ window.fcDossiersData = {
           "x": "Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body — what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation — the reappraisal material above takes exactly that opening. The two passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first."
         },
         {
+          "t": "h2",
+          "x": "Does the gambling task show guidance before reportable knowledge?"
+        },
+        {
+          "t": "p",
+          "x": "[Somatic marker hypothesis (Damasio)](card:Somatic%20marker%20hypothesis%20%28Damasio%29) proposes that signals arising in the body's regulatory processes influence decisions, sometimes consciously and sometimes outside awareness ([Bechara and Damasio 2005, Games and Economic Behavior](https://people.ict.usc.edu/~gratch/CSCI534/Readings/The%20somatic%20marker%20hypothesis.pdf)). One disputed piece of evidence came from the Iowa gambling task. Bechara and colleagues' own summary of it: \"Normals began to choose advantageously before they realized which strategy worked best, whereas prefrontal patients continued to choose disadvantageously even after they knew the correct strategy.\" They read that sequence as support for guidance by nonconscious somatic markers, proposing that overt reasoning \"is preceded by a nonconscious biasing step that uses neural systems other than those that support declarative knowledge\" ([Bechara et al. 1997, Science, abstract via Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22Deciding%20advantageously%20before%20knowing%20the%20advantageous%20strategy%22&format=json&resultType=core)). The disagreement concerns how that gap between performance and knowledge should be explained."
+        },
+        {
+          "t": "p",
+          "x": "Maia and McClelland challenged the interpretation with more sensitive questions about what participants knew. Participants reported knowledge of the advantageous strategy more reliably than they behaved advantageously. When they behaved advantageously, their verbal reports nearly always provided evidence of quantitative knowledge about the decks' outcomes sufficient to guide those choices ([Maia and McClelland 2004](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22reexamination%20of%20the%20evidence%20for%20the%20somatic%20marker%20hypothesis%22&format=json&resultType=core)). The authors described these findings as compatible with choices and verbal reports drawing on consciously accessible knowledge: \"there is no need to appeal to nonconscious somatic markers.\""
+        },
+        {
+          "t": "p",
+          "x": "What the dispute turns on is whether advantageous play requires an explanation in terms of nonconscious markers, or whether reportable knowledge accounts for it. I give the methodological objection weight, since the claim that participants lacked knowledge depends on how their knowledge was assessed, and the re-examination supplies an alternative explanation of the task performance. Whether marker signals also contributed is a separate question this comparison does not settle."
+        },
+        {
           "t": "h",
           "x": "Practice: working with what a feeling is doing"
         },
