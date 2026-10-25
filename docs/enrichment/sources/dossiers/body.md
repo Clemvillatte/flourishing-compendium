@@ -685,3 +685,32 @@ is recorded as such. Final pending list for a future pass: Woods
 translation page, Barsalou PDF (server unavailable), Qi IEP carrier,
 Zhuangzi direct fetch (ctext IP-blocked), and the ST047 card
 correction flagged for the supervisor.
+
+## Disagreement-section verbatim quotes (2026-10-25, worker-pplx-dos17-1025z)
+
+The three disputes in "Where the traditions genuinely disagree" previously
+carried paraphrase only. Three short verbatim spans from the already-cited
+carrier (Ted Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of
+Philosophy, https://plato.stanford.edu/entries/merleau-ponty/) were
+substituted for the closest paraphrase, with the secondary attribution
+named in the prose ("as Ted Toadvine's SEP entry recounts it"). The page
+was fetched fresh this session and each span matched word-for-word in its
+surrounding passage before insertion: (1) "the organism is not passive
+but imposes its own conditions between the given stimulus and the
+expected response, so that behavior remains inexplicable in purely
+anatomical or atomistic terms" and "cannot be explained in terms of
+trial-and-error fixing of habitual reactions, but instead involves a
+general aptitude with respect to typical structures of situations";
+(2) "the basic level of perceptual experience is the gestalt, the
+meaningful whole of figure against ground"; (3) "aims to provide an
+alternative to empiricism by introducing judgment or attention as mental
+activities that synthesize experience from the sensory givens, yet it
+adopts empiricism's starting point in dispersed, atomic sensations". The
+carrier's own wording "positive phenomenon" (singular) is not quoted; the
+surrounding paraphrase keeps the plural as the writer's own prose.
+dossier_quote_verify.py: 5 checked, 0 not found. dossier_check.py and
+dossier_density.py exit clean. No interpretive claim changed; the
+first-person leanings stand. Flagged for the supervisor: body.md is
+published, so the Academy site data (site/assets/app.js) needs a rebuild
+to pick up this wording; that splice is supervisor-only and was not
+touched.
