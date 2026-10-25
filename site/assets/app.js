@@ -11039,7 +11039,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The classical side of the same question is older and less mechanistic. [Habituation](card:Habituation) keeps Aristotle's Book II line that we become just by doing just acts, and [Second nature](card:Second%20nature) names the settled result: a disposition that works like a natural one. The Daoist [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) puts wu wei at the far end of the same road, Cook Ding's years of oxen behind a blade that never dulls. [Excellence as habit](card:Excellence%20as%20habit) carries Durant's paraphrase of Aristotle, and the card is honest that it is paraphrase, not text."
+          "x": "The classical side of the same question is older and less mechanistic. [Habituation](card:Habituation) keeps Aristotle's Book II line that we become just by doing just acts, and [Second nature](card:Second%20nature) names the settled result: a disposition that works like a natural one."
+        },
+        {
+          "t": "p",
+          "x": "The Daoist [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) puts wu wei at the far end of the same road, Cook Ding's years of oxen behind a blade that never dulls. [Excellence as habit](card:Excellence%20as%20habit) carries Durant's paraphrase of Aristotle, and the card is honest that it is paraphrase, not text."
         },
         {
           "t": "h2",
@@ -11132,7 +11136,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The design can also be somebody else's. [Nudge theory Thaler](card:Nudge%20theory%20Thaler) is choice architecture, fruit at eye level rather than the ban. A person can do it to themselves: [Situation selection](card:Situation%20selection) chooses the situations that select the behaviour, and [Situational strategies](card:Situational%20strategies) carries Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time. [PP072 — Design the environment to support the practice](card:PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice) makes it concrete: phone in another room, guitar left visible. [Keystone habits](card:Keystone%20habits) adds the spillover claim, with its tendency-not-guarantee caveat."
+          "x": "The design can also be somebody else's. [Nudge theory Thaler](card:Nudge%20theory%20Thaler) is choice architecture, fruit at eye level rather than the ban."
+        },
+        {
+          "t": "p",
+          "x": "A person can do it to themselves: [Situation selection](card:Situation%20selection) chooses the situations that select the behaviour, and [Situational strategies](card:Situational%20strategies) carries Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time."
+        },
+        {
+          "t": "p",
+          "x": "[PP072 — Design the environment to support the practice](card:PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice) makes it concrete: phone in another room, guitar left visible. [Keystone habits](card:Keystone%20habits) adds the spillover claim, with its tendency-not-guarantee caveat."
         },
         {
           "t": "h2",
@@ -11176,7 +11188,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The strength tradition says yes. Oaten and Cheng put participants through a two-month programme of regular physical exercise, chosen because keeping it up requires regulation, and found \"significant improvement in self-regulatory capacity\" together with reported decreases in perceived stress, emotional distress, smoking, alcohol and caffeine consumption, and improvements in healthy eating, emotional control, study habits and spending control ([Oaten and Cheng, British Journal of Health Psychology 11(4), 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/17032494/)). Their conclusion was direct: \"The idea that the capacity for self-regulation can be improved is therefore of vast practical importance.\""
+          "x": "The strength tradition says yes. Oaten and Cheng put participants through a two-month programme of regular physical exercise, chosen because keeping it up requires regulation, and found that participants improved significantly relative to controls on self-regulation measures, together with reported decreases in perceived stress, emotional distress, smoking, alcohol and caffeine consumption, and improvements in healthy eating, emotional control, study habits and spending control ([Oaten and Cheng, British Journal of Health Psychology 11(4), 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/17032494/)). Their conclusion was direct: the capacity for self-regulation can be improved, and the implications are of vast practical importance."
         },
         {
           "t": "p",
@@ -11192,11 +11204,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "One proposed mechanism is a fuel: the strength model holds that self-control is a limited resource depleted after a period of exertion. The model's operational prediction was the sequential-task effect, a measurable drop in performance on a second self-control task, and a meta-analysis of the experiments initially found a medium-sized effect."
+          "x": "One proposed mechanism is a fuel: the strength model holds that self-control is a limited resource depleted after a period of exertion. The model's founding paper states the claim plainly: \"Choice, active response, self-regulation, and other volition may all draw on a common inner resource\", and concludes that \"the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource\" ([Baumeister et al. 1998, abstract via Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22Ego%20depletion%3A%20is%20the%20active%20self%20a%20limited%20resource%22&format=json&resultType=core)). The model's operational prediction was the sequential-task effect, a measurable drop in performance on a second self-control task, and a meta-analysis of the experiments initially found a medium-sized effect."
         },
         {
           "t": "p",
-          "x": "The prediction then met a registered replication. Twenty-three laboratories ran the standardized sequential-task protocol on 2,141 participants, and \"the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]\" ([Hagger et al., Perspectives on Psychological Science 11(4), 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)). The result concerns one standardized protocol, not every depletion finding ever published."
+          "x": "The prediction then met a registered replication. Twenty-three laboratories ran the standardized sequential-task protocol on 2,141 participants, and found the size of the ego-depletion effect was small, with 95% confidence intervals that encompassed zero ([Hagger et al., Perspectives on Psychological Science 11(4), 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)). The result concerns one standardized protocol, not every depletion finding ever published."
         },
         {
           "t": "p",
