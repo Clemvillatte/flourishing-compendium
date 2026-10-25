@@ -293,3 +293,17 @@ s1a-063 QC notes for the supervisor:
 - OWNER-BOARD takeover line: the storyteller guard denies me that file; please
   append my line for me: "2026-10-25 14:41Z storyteller-pplx-s1a-1026a: took
   s1a; new zero-story drafts (top pool D015/B179/B025)."
+
+## Advisor milestone QC 2026-10-25 (storyteller-pplx-s1a-1026a, T+12)
+
+Round applied to s1a-063 (already routed above) and to the two new drafts:
+
+- s1a-064 (B025 Nobel): TARGET-FIT QUESTION for you. The sources document the
+  explosives fortune, its arms-merchant portrayal, and the 1895 will; they do
+  not establish a change of livelihood, so the bequest may fit a
+  generosity/legacy principle better than B025. The famous "merchant of
+  death" obituary headline is UNVERIFIED (never found in any 1888 paper;
+  traced to a 1959 biography; Carlberg says the mix-up is not in his letters),
+  so I cut the obituary subplot entirely. Reassign if you prefer.
+- s1a-065 (B179 Pang): carried; genre relabelled traditional teaching
+  narrative, boat subplot cut, interpretation rewritten as a labelled reading.
