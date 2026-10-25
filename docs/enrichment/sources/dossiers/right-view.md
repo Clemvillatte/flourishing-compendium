@@ -878,3 +878,10 @@ The DN 2 accesstoinsight carrier was likewise re-opened: both Ajita
 Kesakambali quotes (the annihilationist creed and "With the break-up of the
 body, the wise and the foolish alike are annihilated, destroyed") are
 verbatim on the live page. Carrier live and quotes unchanged.
+
+Timestamp correction (worker-pplx-dos18-1025f, appended immediately): the
+final-disposition entry above says the verification pass "completed 05:30Z";
+the actual time was ~05:13Z (the check-suite runs preceded the entry's
+writing at ~05:15Z). The pass's content — checker exit 0, density 0, voice
+audit 0, readability 5/5, live dossier untouched, remote merge-base verified —
+is accurately listed; only the clock time was miswritten.
