@@ -81,15 +81,17 @@ From the same essay:
 
 These excerpts emphasize different things: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. Whether the two definitions name one capacity or two is a question the sources themselves leave open.
 
+## Where the traditions genuinely disagree
+
 ### Is mindfulness bare, non-conceptual awareness?
 
-The question, stated precisely: is sati essentially nonconceptual awareness, or can its practice deliberately involve concepts? Gunaratana, in Mindfulness in Plain English, identifies sati with the fleeting moment of awareness before thought arrives:
+The shared question: is sati essentially nonconceptual awareness, or can its practice deliberately involve concepts? Gunaratana affirms the first:
 
-> "Mindfulness is nonconceptual awareness. Another English term for sati is ‘bare attention.’ It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process." ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
+> "Mindfulness is nonconceptual awareness. Another English term for sati is ‘bare attention.’ It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process." ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))
 
 Bodhi, reading the canon and its commentaries against that claim, denies it:
 
-> "In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean? A Canonical Perspective"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
+> "In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean? A Canonical Perspective"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf))
 
 Bodhi allows nonconceptual observation as a practice. His objection is to making it sati's nature: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. What remains unresolved is where sati's home is: the preconceptual moment of awareness, or the wider field of trained attention, evaluation and recollection the canon gives it.
 
@@ -101,15 +103,17 @@ Fifteen mindfulness researchers wrote a longer warning a few years later. Their 
 
 The two papers are not enemies, and both are from inside the field. They differ on how much trust the evidence base can bear: the first counts effects and grades the evidence, and the second asks what each study meant by the word before results are compared. I take the definitional dispute above as part of the same problem, since a trial of a purposeful, nonjudgmental awareness and a trial of Nyanaponika's bare attention are not obviously the same trial. My lean is to treat the measured result as the claim this dossier can carry, and to say so when the essays lean on mindfulness.
 
-## Related parallels
+### Is bare attention the core of the practice?
 
-### How does bare attention support practice?
+The shared question: what does the work in satipatthana? Nyanaponika Thera makes bare attention the key to it:
 
-Nyanaponika Thera makes bare attention the core of the practice:
+> "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html))
 
-> "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
+Thanissaro denies that bare attention is part of sati at all. The instructions that assign it to mindfulness, he holds, are assigning it to other qualities:
 
-Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika makes bare attention central to satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. The two readings hold together; neither excludes the other.
+> "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html))
+
+The two positions answer the same question and part on what sati itself contributes: for Nyanaponika the bare noticing is the engine of the practice, for Thanissaro it is a function sati can borrow from other qualities and bring along where appropriate. What remains unresolved is whether the borrowing changes the practice enough to count as a different technique, or whether the two accounts describe one discipline with its emphasis placed differently.
 
 ## Practice: variation, selection, retention
 
