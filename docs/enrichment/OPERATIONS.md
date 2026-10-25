@@ -153,6 +153,23 @@ long evidence records in the ledger, not in the public reading path.
   dos2-1025e confirmed. Live Pages deploy verified CURRENT with
   origin/main (07df486c): both the behaviour revision and the GF-model
   affect are live on the deployed app.js.
+- ADDENDUM 7 (~T+31): dos13 goals supervisor review COMPLETE — the
+  one-divergence exception GRANTED (the model's evidence rule governs
+  the 3-5 count; six advisor rounds rejected the manufactured
+  oppositions; the surviving Ordóñez/Locke-Latham divergence is genuine
+  and honestly bounded). Both Columbia quotes independently verified
+  by fresh supervisor fetches (halcyon pill; potent medication). The
+  worker's registry rebuild was STALE relative to rev 4.6.1 — the
+  supervisor re-ran --rebuild=goals (66 blocks, node ok, DOM-stub
+  render PASS, voice-audit ok). OPEN FLAGS carried forward: ~65
+  story-page thinker backlinks (t2a: Zhuangzi 42, Socrates 7, Laozi
+  3, Seneca 7; t2b: Hadot 4) are worker-untouchable per the stories
+  separation — multi-session supervisor/storyteller work, exemplar
+  gloss pattern A001/S011; the plan-then-adapt stub card stays with
+  the concept programme (already on concept-namespace-audit.md; the
+  dossier rightly does not link it). Note: proposals/t1a.json and
+  t1d.json reappeared in proposals/ (a live worker's queue merge) —
+  the unrestricted-apply hazard note in addendum 1 stands.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
