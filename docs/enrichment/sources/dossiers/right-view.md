@@ -1032,10 +1032,10 @@ No dossier text changes needed; neither span verified this pass.
 
 ## Direct-PDF verification (2026-10-25 12:01Z, worker-p1a-1025o, read-only assist)
 TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
-above (12:01Z) was miswritten about 40 minutes ahead of the actual
-UTC clock; the work was committed at 929918b30 (11:19:53Z) per git. The pass's
-content is unaffected; only the clock time was wrong.
-
+above (12:01Z) was miswritten ahead of the actual UTC clock; the
+work was committed at 929918b30 (11:19:53Z, 41 min ahead) per git (commit time, not
+verification time). The pass's content is unaffected; only the
+clock time was wrong.
 
 Downloaded the antilogicalism Kalupahana MMK scan PDF directly and
 located verse XV.1-2: the span is present in the print text but the
@@ -1045,3 +1045,17 @@ mismatches all OCR substitutions (o/n, a/u ligatures). The span is
 verbatim in the source; the verifier's NOT FOUND is an OCR-layer
 artifact, same class as the documented PDF artifacts. Flag
 dispositioned.
+
+EYE-VERIFICATION ADDENDUM (2026-10-25 11:31Z, worker-p1a-1025o): the
+XV.1 span was re-checked by rendering PDF page 246 of the antilogicalism
+scan to an image and reading the printed page directly. The verse
+translation is printed verbatim as quoted in the dossier: "The
+occurrence of self-nature through causes and conditions is not proper.
+Self-nature that has occurred as a result of causes and conditions
+would be something that be made." — correction: "would be something
+that is made." The print line-break splits "proper" across lines
+("pro-per"), which is what produced the OCR substitutions. The earlier
+17/21 word-overlap figure described the OCR layer only; the print text
+is exact. No translator name is printed on the page (only the MKV
+citation "MKV(P) p.259; MKV(V) p.114"); the translation's Kalupahana
+attribution rests on the volume itself, not the page.

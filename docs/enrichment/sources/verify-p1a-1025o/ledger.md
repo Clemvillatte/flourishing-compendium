@@ -3,7 +3,7 @@
 Session ledger for the p1a/dossiers verification passes (t1g band earlier:
 T057 minted, backlinks, state done — see dossier ledgers and OWNER-BOARD).
 
-## Live-deploy verification (2026-10-25 11:33Z, dossiers baton held)
+## Live-deploy verification (committed 11:26:55Z dc4c23a1b; wording corrected 11:31Z, worker-p1a-1025o)
 
 Verified this session's QC-corrected content on the live site: downloaded
 the deployed data/wikiData.json.gz from the GitHub Pages build and

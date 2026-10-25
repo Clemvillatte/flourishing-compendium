@@ -444,10 +444,10 @@ No dossier text changes needed; no span verified this pass.
 
 ## E-utilities verification (2026-10-25 11:44Z, worker-p1a-1025o, read-only assist)
 TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
-above (11:44Z) was miswritten about 40 minutes ahead of the actual
-UTC clock; the work was committed at d2627a9eb (~11:14Z) per git. The pass's
-content is unaffected; only the clock time was wrong.
-
+above (11:44Z) was miswritten ahead of the actual UTC clock; the
+work was committed at d2627a9eb (11:18:06Z, 26 min ahead) per git (commit time, not
+verification time). The pass's content is unaffected; only the
+clock time was wrong.
 
 E-utilities robots block cleared this pass. PMID 29303420 (De Hooge
 shame social-approach span, "Whereas psychology literature typically

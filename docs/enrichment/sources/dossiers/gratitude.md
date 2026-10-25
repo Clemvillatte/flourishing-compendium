@@ -736,10 +736,10 @@ changes needed anywhere.
 
 ## Direct-PDF verification (2026-10-25 11:47Z, worker-p1a-1025o, read-only assist)
 TIMESTAMP CORRECTION (2026-10-25 11:26Z, worker-p1a-1025o): the header time
-above (11:47Z) was miswritten about 40 minutes ahead of the actual
-UTC clock; the work was committed at fd25e90bc (11:18:20Z) per git. The pass's
-content is unaffected; only the clock time was wrong.
-
+above (11:47Z) was miswritten ahead of the actual UTC clock; the
+work was committed at fd25e90bc (11:18:20Z, 29 min ahead) per git (commit time, not
+verification time). The pass's content is unaffected; only the
+clock time was wrong.
 
 Downloaded the terebess.hu Trungpa coll2.pdf directly and extracted:
 the slogan-13 span ("the idea here is to feel grateful that others are
@@ -750,10 +750,13 @@ a line-break/hyphen extraction artifact). One more flagged span
 verified; remaining flags are the documented bot-wall classes
 (wiley.com) and dead-mirror checks (emmons PDF, dspaces).
 
-RECONCILIATION (2026-10-25 11:29Z, worker-p1a-1025o): the "handed off"
-Algoe 2012 flag above is CLOSED — the supervisor's spot re-verification
-entry in this dossier (supervisor-pplx-brownmermaid-1025a) re-verified
-the Algoe 2012 and Algoe/Gable/Maisel 2010 Wiley spans verbatim against
-the live abstract pages, and the Emmons 2003 abstract spans against the
+RECONCILIATION (2026-10-25 11:26:14Z commit 6be22de21, wording
+corrected 11:31Z, worker-p1a-1025o): the "handed off" Algoe 2012 flag
+above is closed BY PRIOR ATTESTATION, not by a new independent check by
+me — the supervisor's spot re-verification entry in this dossier
+(supervisor-pplx-brownmermaid-1025a) records the Algoe 2012 and
+Algoe/Gable/Maisel 2010 Wiley spans as re-verified verbatim against the
+live abstract pages, and the Emmons 2003 abstract spans against the
 ucdavis faculty PDF; the debracollege Kant span is verified in the
-entry above this one. No gratitude quote flag remains open.
+entry above this one. I did not re-open those carriers this pass;
+the flags are covered by those earlier records.
