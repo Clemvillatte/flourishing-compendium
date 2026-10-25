@@ -1,0 +1,12 @@
+{
+ "band": "t1g",
+ "source_queue": "queue-thinkers.json",
+ "thinkers": [
+  "Lisa Feldman Barrett"
+ ],
+ "ids": [
+  "T057"
+ ],
+ "selection": "single thinker; owner-directed intake 2026-10-23 (TASKBOARD.md line 3346)",
+ "note": "t1g minted 2026-10-25 by worker-p1a-1025o to mint the T057 thinker page per PROTOCOL-THINKERS.md; exemplar T001 Csikszentmihalyi"
+}
