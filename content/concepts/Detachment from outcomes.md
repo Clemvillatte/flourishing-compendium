@@ -13,16 +13,23 @@ Detachment from outcomes is the Bhagavad Gita's instruction to act from duty whi
 
 ### What the verse separates
 
-The closing line guards against the opposite error: detachment is not withdrawal from duty. My principle Y111 reads the Gita's renunciation texts the same way: give up the lien on the fruit, keep the activity.
+The closing line guards against the opposite error: detachment is not withdrawal from duty. The principle [[Y111 — Renounce the inner claim, not the outer duty]] reads the Gita's renunciation texts the same way: give up the lien on the fruit, keep the activity. Renouncing the claim on results is not renouncing the act itself.
 
-### Here
+### The modern cousin
+
+Contemporary psychology uses a nearby word for a smaller thing. In recovery research, psychological detachment from work means mentally disengaging from job demands during off-hours, and it is one of four recovery experiences measured by the Recovery Experience Questionnaire:
+
+> "Confirmatory factor analyses with a calibration and a cross-validation sample (total N=930) showed that four recovery experiences can be differentiated: psychological detachment from work, relaxation, mastery, and control (Study 2)." ([Sonnentag and Fritz 2007](https://pubmed.ncbi.nlm.nih.gov/17638488/))
+
+The overlap is real but partial: the Gita addresses the actor's claim on outcomes while acting; the questionnaire addresses the worker's rumination after hours. Both locate relief in releasing what cannot be controlled, one at the point of duty, the other at the point of rest.
+
+### In the compendium
 
 - [[S072 — Practise emotional detachment from outcomes]] — the Stoic version: responsibility for the action, not the result
-- [[Y111 — Renounce the inner claim, not the outer duty]] — the Gita's distinction between renouncing the fruit and renouncing the activity
 - [[P104 — Perfect the process, not the product]] — process priority over product
 - [[AF059 — Work with disappointment — it is the gap between expectation and reality]] — the expectation gap detachment works on
 - [[D066 — Withdraw when the work is done]] — the Daoist counterpart: step back at completion
-- the series' ACT kernels
+- [[K152 — Committed action]] and [[K126 — Cognitive defusion]] — the acceptance-and-commitment kernels that separate valued action from its results
 
 ## Related concepts
 
