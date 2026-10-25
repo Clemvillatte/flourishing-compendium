@@ -5301,6 +5301,636 @@
       ],
       "dossier": "attention",
       "sensitive": false
+    },
+    {
+      "id": "S0251",
+      "family": "wisdom",
+      "text": "What would you say to a friend in your spot — and could you say it to yourself?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "S125",
+          "title": "Practise self-dialogue",
+          "why": "Marcus writes to himself the way a firm coach would: direct, specific, short."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE027",
+          "title": "Practise self-kindness over self-judgment — kindness is more motivating than cruelty",
+          "why": "The kinder voice is also the more effective one."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0252",
+      "family": "identity",
+      "text": "Which two sets of instructions are talking at once — and what would you keep, reject, or combine?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "M007",
+          "title": "Expect the in-between to be uncomfortable, and do not flee it prematurely",
+          "why": "The discomfort is part of the account, not a sign you're doing it wrong."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE073",
+          "title": "Recognise self and culture conflict — bicultural and marginalised selves",
+          "why": "The difficulty comes from two sets of norms; you are not failing at either."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0253",
+      "family": "uncertainty",
+      "text": "What are you waiting on — and is checking on it speeding it up?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "D018",
+          "title": "Give things time",
+          "why": "Some things are set back by an early look; the question is which kind you're waiting on."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP066",
+          "title": "Practise patience with the timeline",
+          "why": "The timeline is a property of the thing, not of your will."
+        }
+      ],
+      "dossier": "uncertainty",
+      "sensitive": false
+    },
+    {
+      "id": "S0254",
+      "family": "wisdom",
+      "text": "What question includes you so deeply that removing you would change it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R088",
+          "title": "Practise the distinction between problem and mystery",
+          "why": "A mystery includes your own involvement."
+        },
+        {
+          "kind": "principle",
+          "ref": "E009",
+          "title": "Practise intersubjectivity",
+          "why": "Some questions are only yours because you are in them."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0255",
+      "family": "others",
+      "text": "What would you coordinate differently — and what might emerge that wasn't in anyone's skills?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P007",
+          "title": "Expect emergence — wholes exceed their parts",
+          "why": "Treat the rearrangement as something to investigate."
+        },
+        {
+          "kind": "principle",
+          "ref": "SO035",
+          "title": "Use collective intelligence deliberately",
+          "why": "The coordination is where the intelligence lives."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0256",
+      "family": "meaning",
+      "text": "Which way in are you drawn to — thinking, caring, working, sitting still?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y124",
+          "title": "Combine the paths by disposition",
+          "why": "Any one will do, or a mix; the trouble starts when the door is declared the only one."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y063",
+          "title": "Hold one practice to steady the mind",
+          "why": "One held practice steadies regardless of the door."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0257",
+      "family": "others",
+      "text": "What happened in that exchange — and what did you think they intended?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SP093",
+          "title": "Practice the daily emendation",
+          "why": "Write down what happened separately from what you think they intended; check which parts you can support."
+        },
+        {
+          "kind": "principle",
+          "ref": "S054",
+          "title": "Distinguish between facts and interpretations",
+          "why": "The check is the distinction, done daily."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0258",
+      "family": "attention",
+      "text": "What is your mind pointed at right now — and is the aiming the experience?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "E002",
+          "title": "Practise intentionality",
+          "why": "Consciousness is always of something; the direction is the experience."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT001",
+          "title": "Understand that attention is selective — you cannot attend to everything",
+          "why": "The selecting is the aiming."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0259",
+      "family": "desire",
+      "text": "What is the urge and its surroundings — the time, place, what came just before, who was there?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "MO044",
+          "title": "Learn to track habits — monitoring sustains",
+          "why": "The one-week diary of action and circumstances; look for recurring situations."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE003",
+          "title": "Know that behaviour is triggered by context — environment drives action",
+          "why": "The surroundings are the trigger's address."
+        }
+      ],
+      "dossier": "behaviour",
+      "sensitive": false
+    },
+    {
+      "id": "S0260",
+      "family": "wisdom",
+      "text": "What are the two sides of the case you believe — and could you build the opposing one until they feel equal?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "X001",
+          "title": "Practice equipollence deliberately",
+          "why": "When the two sides feel equal, the verdict has nothing to grip."
+        },
+        {
+          "kind": "principle",
+          "ref": "X005",
+          "title": "Carry the ten modes lightly, as spot-checks",
+          "why": "The modes are spot-checks, not a worldview."
+        }
+      ],
+      "dossier": "wisdom",
+      "sensitive": false
+    },
+    {
+      "id": "S0261",
+      "family": "wisdom",
+      "text": "What is real at the checkout and empty under analysis — and does either cancel the other?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B122",
+          "title": "Use two truths (conventional and ultimate)",
+          "why": "Money works at the checkout and holds no essence under analysis; both true."
+        },
+        {
+          "kind": "principle",
+          "ref": "B010",
+          "title": "See emptiness — nothing has a fixed essence (shunyata)",
+          "why": "The emptiness is the analysis, not the nihilism."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
+    },
+    {
+      "id": "S0262",
+      "family": "attention",
+      "text": "What maintenance task could you do carefully — and what would attentive work on it involve?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P122",
+          "title": "Turn maintenance into art",
+          "why": "Identify what doing it carefully would involve; describe what prevented attentive work."
+        },
+        {
+          "kind": "principle",
+          "ref": "B170",
+          "title": "Wash the dishes to wash the dishes",
+          "why": "The washing is the art."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0263",
+      "family": "others",
+      "text": "Who provokes you — and what is the restraint you learnt in the encounter worth?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B113",
+          "title": "Be grateful to everyone (lojong)",
+          "why": "The difficult person gives the wish something to work on."
+        },
+        {
+          "kind": "principle",
+          "ref": "S043",
+          "title": "Be patient with difficult people",
+          "why": "Patience needs the difficult to be patience."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0264",
+      "family": "identity",
+      "text": "Where do you need to be your own person and belong to people — and can both be true?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE053",
+          "title": "Learn to balance autonomy and connection — both are needs",
+          "why": "Agreeing freely is not the same as agreeing because disagreement feels forbidden."
+        },
+        {
+          "kind": "principle",
+          "ref": "R077",
+          "title": "Practise relational autonomy",
+          "why": "Autonomy that requires no one is not the human kind."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0265",
+      "family": "silence",
+      "text": "What stillness has something to hold — and what would letting even that go be?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "Y078",
+          "title": "Distinguish settling with and without seed",
+          "why": "A quiet stretch with no object is not necessarily the end of the path."
+        },
+        {
+          "kind": "principle",
+          "ref": "B125",
+          "title": "Dwell nowhere (non-abiding)",
+          "why": "Dwelling nowhere is the not-holding of the holding."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0266",
+      "family": "courage",
+      "text": "What would you bring to a doctor — snoring with gasping, chronic insomnia, persistent sleepiness?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "BI069",
+          "title": "Recognise sleep disorders as medical conditions — apnea, insomnia, circadian",
+          "why": "The partner's report of gasping belongs in the referral conversation."
+        },
+        {
+          "kind": "principle",
+          "ref": "AF078",
+          "title": "Recognise when affect requires professional help — clinical boundaries",
+          "why": "Some things are not practice questions."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": true
+    },
+    {
+      "id": "S0267",
+      "family": "uncertainty",
+      "text": "What are you afraid of in the panic — and is it the fear of the fear itself?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF049",
+          "title": "Learn to work with panic — panic is fear of fear",
+          "why": "Panic is fear of fear — the loop is the content."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "The return breaks the loop that feeds on the future."
+        }
+      ],
+      "dossier": "anxiety",
+      "sensitive": false
+    },
+    {
+      "id": "S0268",
+      "family": "suffering",
+      "text": "What did the stretch of worrying end in — and was there a concrete step?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "CO048",
+          "title": "Distinguish worry from problem-solving — worry is not planning",
+          "why": "The useful check: whether a stretch of worrying ended in a concrete step."
+        },
+        {
+          "kind": "principle",
+          "ref": "S115",
+          "title": "Handle anxiety by returning to the present",
+          "why": "The first slide heading is the move from worry to preparation."
+        }
+      ],
+      "dossier": "anxiety",
+      "sensitive": false
+    },
+    {
+      "id": "S0269",
+      "family": "identity",
+      "text": "Who do you think you are, who would you love to be, who do you owe it to others to be?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE003",
+          "title": "Know that the self is multilayered — actual, ideal, and ought selves",
+          "why": "The three gaps have different feelings and different repairs."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE039",
+          "title": "Cultivate possible selves — who could you become",
+          "why": "The hoped-for and feared futures both steer."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0270",
+      "family": "others",
+      "text": "What do you want from the conversation — a listener, understanding, or practical help?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AF077",
+          "title": "Learn emotional disclosure — the capacity to share feelings in a way that helps",
+          "why": "Choose what you want from the sharing before you share."
+        },
+        {
+          "kind": "principle",
+          "ref": "BE053",
+          "title": "Learn to give and receive support — social support behaviours",
+          "why": "The support that helps is the kind you asked for."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0271",
+      "family": "others",
+      "text": "What good only exists if you secure it together — the school, the drainage, the trust?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R107",
+          "title": "Practise the common good",
+          "why": "The common good is a condition, not a sum."
+        },
+        {
+          "kind": "principle",
+          "ref": "S030",
+          "title": "Act for the common good",
+          "why": "The same question from the Stoic side."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0272",
+      "family": "attention",
+      "text": "What would you do on purpose to recover — and is it planned for when work is heaviest?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP048",
+          "title": "Practise recovery as a skill",
+          "why": "Switch off, move, see people, outdoors; when work is heaviest, recovery is hardest."
+        },
+        {
+          "kind": "principle",
+          "ref": "B186",
+          "title": "Practice the art of resting",
+          "why": "Rest is an art, not a residue."
+        }
+      ],
+      "dossier": "overload-overwhelm",
+      "sensitive": false
+    },
+    {
+      "id": "S0273",
+      "family": "others",
+      "text": "What did you do for the neighbour — and was once ever the right unit of measure?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R084",
+          "title": "Practise infinite responsibility",
+          "why": "The demand is never fully discharged; that's a description, not a guilt trip."
+        },
+        {
+          "kind": "principle",
+          "ref": "R002",
+          "title": "Practise humanity toward others",
+          "why": "Humanity doesn't bill by the hour."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0274",
+      "family": "meaning",
+      "text": "What part of a former role do you miss — and what might you try in present circumstances?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "SE041",
+          "title": "Learn to work with identity transitions — grieving and rebuilding",
+          "why": "Neither paragraph has to turn the loss into a benefit."
+        },
+        {
+          "kind": "principle",
+          "ref": "SE046",
+          "title": "Recognise identity and meaning — identity provides meaning",
+          "why": "The role was part of the story; the story continues."
+        }
+      ],
+      "dossier": "the-self",
+      "sensitive": false
+    },
+    {
+      "id": "S0275",
+      "family": "wisdom",
+      "text": "What worry interrupts what you're doing — and does something need doing now?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "B062",
+          "title": "Rest in the unborn (Bankei)",
+          "why": "Pause before following it; if nothing needs doing, return with the thought still present."
+        },
+        {
+          "kind": "principle",
+          "ref": "CO048",
+          "title": "Distinguish worry from problem-solving — worry is not planning",
+          "why": "The pause is where the distinction shows up."
+        }
+      ],
+      "dossier": "anxiety",
+      "sensitive": false
+    },
+    {
+      "id": "S0276",
+      "family": "others",
+      "text": "When you need support — can you reach it, and can you have a say in how it's offered?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "R025",
+          "title": "Practise resilience through cultural strength",
+          "why": "Coping is not something a person must do entirely alone."
+        },
+        {
+          "kind": "principle",
+          "ref": "PP049",
+          "title": "Build social support as a buffer",
+          "why": "The buffer is built, not found."
+        }
+      ],
+      "dossier": "others",
+      "sensitive": false
+    },
+    {
+      "id": "S0277",
+      "family": "attention",
+      "text": "What are your attention hours training — and what is the default being set?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "AT055",
+          "title": "Recognise and work with attentional conditioning — what you practise becomes default",
+          "why": "The default is being set by the daily pattern."
+        },
+        {
+          "kind": "principle",
+          "ref": "AT059",
+          "title": "Recognise the attention economy — your attention is the product",
+          "why": "The pattern is partly the product's design."
+        }
+      ],
+      "dossier": "attention",
+      "sensitive": false
+    },
+    {
+      "id": "S0278",
+      "family": "suffering",
+      "text": "What is the stressful moment doing for you — and what does it cost?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "PP045",
+          "title": "Build a stress mindset that is nuanced",
+          "why": "Pure poison and pure fuel are both too simple."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y061",
+          "title": "Take obstacles as information, not verdicts",
+          "why": "The information is the doing-for; the verdict is the poison."
+        }
+      ],
+      "dossier": "overload-overwhelm",
+      "sensitive": false
+    },
+    {
+      "id": "S0279",
+      "family": "suffering",
+      "text": "What is your body's stress response doing — acute and adaptive, or chronic and harmful?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "BI043",
+          "title": "Understand the stress response — acute adaptive, chronic harmful",
+          "why": "The dose is the diagnosis."
+        },
+        {
+          "kind": "principle",
+          "ref": "BI052",
+          "title": "Learn to recognise and manage trauma's physiological effects — bottom-up approaches",
+          "why": "The body's report is data, not weakness."
+        }
+      ],
+      "dossier": "body",
+      "sensitive": false
+    },
+    {
+      "id": "S0280",
+      "family": "wisdom",
+      "text": "What is your explanatory style — and what would count against it?",
+      "connections": [
+        {
+          "kind": "principle",
+          "ref": "P171",
+          "title": "Watch your explanatory style",
+          "why": "The style is the habit of the explanation."
+        },
+        {
+          "kind": "principle",
+          "ref": "Y017",
+          "title": "Catch distortion early",
+          "why": "Check what was actually observed before building the account."
+        }
+      ],
+      "dossier": "cognition",
+      "sensitive": false
     }
   ]
 }
