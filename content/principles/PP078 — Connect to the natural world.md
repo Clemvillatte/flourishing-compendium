@@ -12,20 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 78** — Connect to the natural world
 
-The rumination claim has an experimental source. In Bratman and colleagues' study, healthy participants took a "90-min walk in a natural setting" or "in an urban setting". The nature walk "decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex", while the urban walk "has no such effects" ([Bratman et al. 2015, PubMed](https://pubmed.ncbi.nlm.nih.gov/26124129/)). That is one controlled study of a 90-minute walk, not a measure of a garden or a street tree.
+In Bratman and colleagues' study, participants took a "90-min walk in a natural setting" or "in an urban setting". The nature walk "decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex", while the urban walk "has no such effects" ([Bratman et al. 2015, PubMed](https://pubmed.ncbi.nlm.nih.gov/26124129/)). That is one controlled study of a walk, not a garden or a street tree.
 
-The attention claim is weaker. A systematic review of 31 studies found "some support" for attention restoration theory: significant positive effects on three measures (Digit Span Forward, Digit Span Backward and Trail Making Test B), while "the remaining 10 meta-analyses did not show marked beneficial effects". The authors cite small samples and varied outcomes ([Ohly et al. 2016, PubMed](https://pubmed.ncbi.nlm.nih.gov/27668460/?dopt=Abstract)).
+The attention claim is weaker. A review of 31 studies found "some support" for attention restoration theory: significant effects on Digit Span Forward, Digit Span Backward and Trail Making Test B, while "the remaining 10 meta-analyses did not show marked beneficial effects"; the authors cite small samples and varied outcomes ([Ohly et al. 2016, PubMed](https://pubmed.ncbi.nlm.nih.gov/27668460/?dopt=Abstract)).
 
-For dose, a cross-sectional survey of about 20,000 people in England found that those with at least 120 minutes of nature contact in the past week were more likely to report good health and high well-being ([White et al. 2019, PubMed](https://pubmed.ncbi.nlm.nih.gov/31197192/)). This is an association, not proof that nature caused it.
+For dose, a survey of 20,000 people in England found those with at least 120 minutes of nature contact in the past week more likely to report good health and high well-being ([White et al. 2019, PubMed](https://pubmed.ncbi.nlm.nih.gov/31197192/)), an association, not proof nature caused it.
 
-(Bratman et al., 2015; two nature and attention restoration studies.)
+(Bratman et al., 2015; Ohly et al., 2016.)
 
 ### Scope
 
-Evidence on stress physiology, and on whether a garden or street tree gives the same benefit as a park, is cited at second hand; "soft fascination" follows the secondary literature rather than Kaplan's original text. The original entry's second study was never named.
+Evidence on stress physiology, and on whether a street tree gives the same benefit as a park, is second hand; "soft fascination" follows the secondary literature, not Kaplan's original text. The original second study was never named.
 
 **Plain words**
-What does a walk actually buy? The honest ledger has one strong line and several faint ones. Strong: brooding quietens after a long stretch of green, in mood and in the brain's own readings, while the same time on pavements leaves it untouched. Faint: the idea that nature refills attention rests on a handful of small tests with mixed results, and the popular two-hours-a-week figure is a survey answer, where healthier people may simply be the ones outdoors. Bank the walk; hold the rest lightly.
+What does a walk buy? The ledger has one strong line and several faint ones. Strong: brooding quietens after a long stretch of green, in mood and in the brain's readings, while the same time on pavements changes nothing. Faint: the idea that nature refills attention rests on small mixed tests, and the two-hours-a-week figure is a survey answer, where healthier people may simply be the ones outdoors. Bank the walk; hold the rest lightly.
 
 **For example**
 Walk for 90 minutes in a park, phone away, and rate how much you ruminated before and after.
