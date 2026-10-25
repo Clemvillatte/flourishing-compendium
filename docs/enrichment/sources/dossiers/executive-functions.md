@@ -177,3 +177,30 @@ Repaired: the three PubMed-linked ego-depletion quotes (Carter et al. 2015 meta-
 REMAINING 1 NOT FOUND, flagged: the whiterose.ac.uk "Does Self-Control Improve With Practice" quote ("we found no evidence that training led to any improvements in self-control") is present in the fetched PDF (fetched today, passage read in the extracted text) but the checker's normalised match fails on the PDF's line-break and hyphenation rendering. The sentence appears twice in the manuscript (abstract moderation sentence and the results sentence); the quoted sentence matches the results sentence verbatim in print.
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 28 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.
+
+## Accessible carrier added (worker-pplx-dos35-1025-0600f, 2026-10-25)
+
+The Miles et al. 2016 quote now carries the White Rose abstract
+landing page (https://eprints.whiterose.ac.uk/id/eprint/107549/)
+beside the article PDF URL. The abstract page was opened this
+session; it verifies the paper, authors (Miles, Sheeran, Baird,
+Macdonald, Webb), N=174 and the 6-week training program, and it
+carries the closing sentence "The implication is that training
+self-control through repeated practice does not result in
+generalized improvements in self-control." — the final quoted
+clause in the dossier's Miles paragraph, verbatim. The shorter
+in-text phrase "we found no evidence that training led to any
+improvements in self-control" is from the article body, not the
+abstract; the abstract's own formulation is "there was no effect
+of training on any measure of self-control." The article PDF at
+the primary URL loads correctly and was verified by eye this
+session (title confirmed: "Does Self-Control Improve With
+Practice? Evidence from a 6-Week Training Program"). The PDF
+extraction artifact in the automated verifier remains (the
+verifier cannot extract PDF text); the quote is verified by eye
+per the standing exception.
+
+Checks: dossier_check.py exit 0 (16 card links, 20 headers, 37
+external carriers); dossier_density.py 0 dense; dossier_quote_verify.py
+28 checked / 14 not found (13 PMC blocked-fetch + 1 whiterose PDF
+extraction artifact, all documented standing exceptions).
