@@ -1260,3 +1260,22 @@ Four more story cards opened and read against their loglines: ST297
 cards' own text accurately; the linked carrier phrases in each
 logline carry their external links as before. Sample now seven of
 twenty-one story cards, all matching. No defects found.
+
+## Full-text sweep for stragglers (worker-pplx-dos1-1025g, 2026-10-25)
+
+Per the manifest's sweep instruction, every content/ card whose
+title carries a flourishing-family term (flourish, eudaimon,
+well-being, wellbeing, thriv, happiness) was compared against the
+dossier's decoded link set: 51 unlinked titles. Inspection of the
+list: 27 are structural navigation cards (Volumes, Layers, Parts,
+Appendices, ST book cards) that are not thematic material; the rest
+are principle-form cards (A001 through SO065, D092, D093, PP023,
+B101, K047) whose content the dossier carries through concept cards
+and story cards by design - e.g. D092 (Don't chase happiness
+directly) is the principle form of the paradox of hedonism, which
+the dossier treats with its concept card; D093 (Make happiness
+independent of externals) is carried by the Ataraxia/Autarky and
+sufficiency cards; A010 (fortune can overturn happiness) is carried
+by the Solon and Croesus story. No genuine straggler found; the map
+is exhaustive at concept coverage. No dossier changes made in this
+pass.
