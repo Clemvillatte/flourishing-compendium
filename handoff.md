@@ -3203,7 +3203,11 @@ session b7e5875a complete.
   browser trailing newline; head and tail matched exactly). Standard worker
   prompt — per its bands annex it takes a free principle band first while
   the principles queue is untouched, else a concept or dos band via
->>>>>>> c4fc8df8b (launcher: Path A worker launched 2026-10-25 10:23Z (outlook alias, task a836db7b) — record appended)  scripts/baton.py.
+  scripts/baton.py.
+  (Rebase-artifact marker removed 2026-10-25 11:50Z by
+  strategist-pplx-1025-launch-c; the removed marker line carried this
+  record's commit annotation, preserved here: c4fc8df8b launcher Path A
+  worker launch record, 2026-10-25 10:23Z.)
 - Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
   No coordination needed post-launch; the baton system governs.
 
