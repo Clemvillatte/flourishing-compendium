@@ -424,3 +424,17 @@ decisions for the supervisor:
   cited; fit vs s1a-070 still routed as before.
 - s1a-063 (Milton): the in-text "Shine inward" locator corrected to
   III.52 and the Sources bullet to III.40-46; no decision needed.
+
+2026-10-25 15:23Z storyteller-pplx-s1a-1026a: advisor round-6 verdicts and
+operational holds — DO NOT REGISTER WITH CURRENT TARGET:
+
+- s1a-071 (Ralston): DO NOT REGISTER WITH CURRENT TARGET. B072 mapping
+  withdrawn; narrative held for your reassignment.
+- s1a-074 (Pepys): DO NOT REGISTER WITH CURRENT TARGET. D060 mapping
+  withdrawn; narrative held for your decision. (Its Principles section
+  keeps the D060 wikilink in the withdrawn annotation, like s1a-071's
+  B072 — registration would create a D060 backlink, so it is held.)
+- s1a-063/070/072/073/075: PASS as qc_pending; registration decisions
+  yours as routed (notably the D083 choice between s1a-070 and s1a-075).
+- s1a-075: sentence-level citation added to the "quarrel is about water"
+  answer.
