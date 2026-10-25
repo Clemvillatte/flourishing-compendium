@@ -15,7 +15,23 @@
   "K385 Cognitive acceptance",
   "K386 Try not to think of elephants",
   "K400 Word repetition",
-  "K419 Microcosmic orbit"
+  "K419 Microcosmic orbit",
+  "K115 \u2014 Willingness practice",
+  "K159 \u2014 Affect labeling",
+  "K371 \u2014 Importance and confidence rulers",
+  "K372 \u2014 The decisional-balance caution",
+  "K373 \u2014 Notice the fixing reflex",
+  "K374 \u2014 \"What happened to you?\" (trauma-informed reframe)",
+  "K375 \u2014 Setback, not relapse",
+  "K376 \u2014 Give complex affirmations",
+  "K377 \u2014 Offer two or three options, not one",
+  "K380 \u2014 The Two Teachers: change the tone, keep the lesson",
+  "K381 \u2014 Compassionate Thinking: name the part, then look from the other side",
+  "K383 \u2014 Safe Place with an affiliative welcome",
+  "K385 \u2014 Cognitive acceptance: watch thoughts float by",
+  "K386 \u2014 Try not to think of elephants",
+  "K400 \u2014 Word repetition",
+  "K419 \u2014 Microcosmic orbit (xiao zhoutian)"
  ],
  "in_progress": null,
  "flagged": {
@@ -23,5 +39,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-25T12:22:00+00:00"
+ "updated": "2026-10-25T12:34:00+00:00",
+ "note": "State desync resolved 2026-10-25 by worker-pplx-k1f-1025aa (second pass): all 16 remaining manifest items were already enriched by the prior k1f worker (K115+K159 substantive Protocol sections, 12 structural Protocol headings, K419 Operationalises, K372 was the k1f skip item addressed by k1e; each carries ### Protocol and ## Sources; verified by direct page inspection); their batch-state pushes were lost. All 16 popped to done. k1f band complete."
 }
