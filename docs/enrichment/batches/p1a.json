@@ -19,7 +19,6 @@
   "A023",
   "A063",
   "D080",
-  "D141",
   "E003",
   "E007",
   "D031",
@@ -32,7 +31,7 @@
   "D078",
   "D039"
  ],
- "in_progress": null,
+ "in_progress": "D141",
  "flagged": {
   "D087": "QC complete: butterfly passage and modernized names verified; Plain words repaired",
   "D055": "QC complete: DDJ 29/64 and Chan section 7 verified; Plain words repaired",
@@ -47,7 +46,7 @@
   "A037": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): body verified unchanged with opened carriers per sources/p1a/repair-b303ba60.md §A037 (NE VI Ross opened; retained quotation matches VI.12; VI.13 supplies the reciprocal dependence) — the distinction is explained plainly with a coherent hypothetical example; NOTE: the repair file referenced in the prior flag text (A037-repair-d9e5b9d0.md) is not present in the repo; the actual evidence location is repair-b303ba60.md. No page edit needed this session; source verification not repeated; scoped acceptance only, not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/A037-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.]",
   "A063": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words explains reciprocal care directly (\"mutual, recognised care and activities the people share\") and the relocation example includes trying a feasible arrangement and reviewing it together (\"Try a feasible arrangement, then review it together\"); opened carriers and quote verification per sources/p1a/repair-b303ba60.md §A063 (NE VIII Ross; Holt-Lunstad et al.; Harvard Gazette report), including the correctly qualified empirical annotations (survival odds, 148 studies, OR 1.50). No page edit needed this session; source verification not repeated. [ORIGINAL ALLEGATION: Reopened for QC: Explain reciprocal care directly and make relocation deliberation include a trial/review]",
   "A001": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — relational context prevents self-sufficiency reading as isolation; Plain words explains quality of activity across a life; the course/caregiving case includes consultation, trial and review; the retained complete-life/swallow quotation matches NE I.7 per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §A001. [ORIGINAL ALLEGATION: Reopened for QC: Explain flourishing as activity over a life; make course-and-friendship deliberation revisable]",
-  "D141": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words explains life-care in the conduct of work (\"Care for life can be practised in the way a task is done\"), and the editor case retains the actual reduction in accepted work with a one-week trial, check and renegotiation; both Cook Ding quotations were verified against the opened Legge/METIS chapter 3 dialogue per the ledger (nineteen-year knife, caution at the difficult joint, slow hand, cleaning/sheathing, the ruler's lesson). No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §D141. [ORIGINAL ALLEGATION: Reopened for QC: Explain life-care in the conduct of work; verify both Cook Ding quotations]",
+  "D141": "Reopened for QC: QC: add Fraser ethical challenge to the cook analogy and repair Plain words",
   "D078": "QC complete: tree dialogue verified and Hansen usefulness reading added; Plain words repaired",
   "R055": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the single-lapse-permanent-discount claim, uncited K243 attribution and decorative metaphors are gone; Plain words explains reliability directly; the car example is hypothetical, explicitly author-designed and includes noticing changed circumstances, review and carrying the lesson forward; the Analects 2.22 quotation and Lai's reliability reading were verified against opened carriers per the ledger (including the Mencius/Wikiquote link restoration in the milestone QC repair). No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §R055. [ORIGINAL ALLEGATION: Reopened for QC: Advisor: preserve every original external link occurrence, explain reliability directly, repair stale T055 clause]",
   "P073": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — Plain words explains learned capacity and supporting surroundings directly (advisor milestone repair applied); the meeting exercise is a hypothetical application with joint revision; the retained Dewey quotation on changing habit through conditions was verified against the opened Human Nature and Conduct Part I §1 per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §P073. [ORIGINAL ALLEGATION: Reopened for QC: Repair mechanical metaphors and incoherent example; verify Dewey interaction account]",
@@ -67,7 +66,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 67,
- "updated": "2026-10-25T11:06:52+00:00",
+ "updated": "2026-10-25T11:07:47+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."
