@@ -200,9 +200,10 @@ still blocks module production.
   catalog pages processed (entries in verify/deg-mind.md,
   verify/deg-therapeutic.md, verify/deg-wellbeing.md,
   verify/deg-contemplative.md): M08-P07 upgraded to verified-partial
-  (watch page opened: duration 1:05:48, Lyubomirsky lecture, Missouri
-  State; transcript + description coverage; chapter list ends 46:23
-  vs player 1:05:48 flagged); M06-AF07 upgraded to verified-partial
+  (watch-page content retrieved without authentication: duration 1:05:48
+  reported by the extraction, Lyubomirsky lecture, Missouri State;
+  description + third-party transcript extraction coverage);
+  M06-AF07 upgraded to verified-partial
   (third-party transcript: Gross emotion-regulation lecture;
   credentials on the Stanford faculty page; duration 0:59:16 from
   search-listing metadata, watch page still JS-blocked);

@@ -116,14 +116,19 @@ SRC-M27-004 (duplicate record; directly verified above).
 - Instructor credentials: Stephen Rollnick, co-founder of motivational
   interviewing, Professor (ATTC Network institutional page for this
   lecture, opened 2026-10-25,
-  https://attcnetwork.org/products_and_resources/lecture-on-motivational-interviewing-by-stephen-rollnick/);
-  Honorary Distinguished Professor, School of Medicine, Cardiff
-  University (basis: Wikipedia, opened 2026-10-25, as recorded in the
-  earlier pass above; the Cardiff honorary-staff page remains
-  robots-blocked from this fetcher).
+  https://attcnetwork.org/products_and_resources/lecture-on-motivational-interviewing-by-stephen-rollnick/).
+  A prior verifier's finding, preserved and not re-verified this
+  session: Honorary Distinguished Professor, School of Medicine,
+  Cardiff University (that verifier's opened basis: Wikipedia,
+  https://en.wikipedia.org/wiki/Stephen_Rollnick, read 2026-10-25 by
+  that session; the Cardiff honorary-staff page was robots-blocked
+  from its fetcher).
 - Language: English.
-- Content coverage (third-party transcript attributed to this video,
-  youtubetotranscript.com, opened 2026-10-25, no timestamps printed):
+- Content coverage (an extraction from a third-party transcript page
+  attributed to this video,
+  https://youtubetotranscript.com/transcript?v=SAntO8nLDMQ&current_language_code=en,
+  opened 2026-10-25; the raw retrieval was truncated at the fetch cap,
+  and the retrieved text carries no timestamps):
   Rollnick on motivational interviewing in healthcare — directing vs
   skillful guiding; engaging, focusing, evoking and planning
   processes; a brief consultation demonstration with a person using

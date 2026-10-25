@@ -1328,8 +1328,11 @@ against the recording or transcript before the record is attached to a module.
   https://psychology.stanford.edu/people/james-gross); the listing
   also names him 2019 Brotherton Fellow, University of Melbourne.
 - Language: English.
-- Content coverage (third-party transcript attributed to this video,
-  youtubetotranscript.com, opened 2026-10-25, no timestamps printed):
+- Content coverage (an extraction from a third-party transcript page
+  attributed to this video,
+  https://youtubetotranscript.com/transcript?v=n4guVd7bNaU&current_language_code=en,
+  opened 2026-10-25; the raw retrieval was truncated at the fetch cap,
+  and the retrieved text carries no timestamps):
   Gross's lecture on emotions and emotion regulation — whether emotions
   help or hurt; what emotions are (changes in subjective experience,
   physiology and expressive behaviour); the five families of regulation

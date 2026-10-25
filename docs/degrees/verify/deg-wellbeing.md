@@ -502,37 +502,38 @@ standard.
 - Identity and access: oembed re-confirmed this session on the Missouri
   State University channel
   (https://www.youtube.com/watch?v=ohsAWiCC0YE), read 2026-10-25; and
-  the WATCH PAGE OPENED this session (2026-10-25) — streamed live Apr
-  6, 2017, 2,638 views. No paywall or login.
-- Duration: 1:05:48 (watch page player, read 2026-10-25).
+  watch-page content was retrieved without authentication (2026-10-25)
+  — streamed live Apr 6, 2017, 2,638 views. No paywall or login;
+  playback itself was not tested from this environment.
+- Duration: 1:05:48, reported by the watch-page extraction (read
+  2026-10-25).
 - Instructor credentials: Sonja Lyubomirsky, Professor, Department of
   Psychology, University of California, Riverside (basis: Wikipedia,
   opened 2026-10-25,
   https://en.wikipedia.org/wiki/Sonja_Lyubomirsky — a tertiary source,
-  used because her laboratory site and the UCR faculty page were
-  robots-blocked from this fetcher this session; the watch-page
-  description independently names "Sonja Lyubomirsky, Professor of
-  Psychology" as presenter).
+  used because her laboratory site was robots-blocked and the UCR
+  faculty URL returned an HTTP client error from this fetcher this
+  session; the watch-page description independently names "Sonja
+  Lyubomirsky, Professor of Psychology" as presenter).
 - Language: English.
 - Content coverage: uploader description (watch page, read 2026-10-25)
-  plus a third-party transcript attributed to this video
-  (youtubetotranscript.com, opened 2026-10-25, no timestamps
-  printed) — Lyubomirsky's lecture on the science of increasing
+  plus an extraction from a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=ohsAWiCC0YE&current_language_code=en,
+  opened 2026-10-25; the raw retrieval was truncated at the fetch
+  cap, and the retrieved text carries no timestamps) —
+  Lyubomirsky's lecture on the science of increasing
   happiness: benefits associated with happiness (productivity,
   relationships, health, longevity); whether happiness can change
   (genetics, personality, hedonic adaptation); and happiness-increasing
   practices (gratitude, kindness, optimism, exercise, forgiveness,
   helping others, investing in relationships) with research on dose,
   personal fit and social support, including a study in Japan where
-  employees recorded three things that went well each week. The watch
-  page prints a chapter list that ends at 46:23 while the player
-  duration is 1:05:48 — the chapters may cover only part of the
-  recording (possible Q&A remainder); flagged.
+  employees recorded three things that went well each week.
 - Relevant segment: whole lecture, 1:05:48.
 - Verification status: verified-partial — identity, access and
-  duration verified; coverage rests on the uploader description and a
-  third-party transcript; confirm against the recording before
-  scheduling; chapter-list/duration mismatch flagged.
+  duration verified; coverage rests on the uploader description and an
+  extraction from a third-party transcript page; confirm against the
+  recording before scheduling.
 
 ### M08-P11: The Dual Role of Character Strengths — Dr. Ryan Niemiec (VIA Institute)
 
@@ -990,16 +991,18 @@ standard.
   watch page still could not be fetched from this environment
   (JS/IP-blocked, 2026-10-25); no paywall or login is indicated by any
   opened page, and playback was not confirmed here.
-- Content coverage: a third-party summary service (videohighlight.com,
-  opened 2026-10-25) attributes to this video an October 2007 MIT
+- Content coverage: a third-party page mirroring the recording's
+  description (https://videohighlight.com/v/JAPg8NgINUU, opened
+  2026-10-25; the page states no summary is available and displays the
+  video description) attributes to this video an October 2007 MIT
   Communications Forum panel on the theory and practice of collective
   intelligence, with emphasis on Wikipedia and aggregated intellectual
   work, naming Karim R. Lakhani (Harvard Business School assistant
   professor), Thomas W. Malone (founder of MIT's Center for Collective
   Intelligence) and Alex (Sandy) Pentland (director of the MIT Media
-  Lab's Human Dynamics research program). Basis is a third-party
-  summary of the recording's description, NOT a transcript; the
-  transcript route returned a client error for this video this session.
+  Lab's Human Dynamics research program). Basis is the mirrored
+  description text, NOT a transcript; the transcript route returned a
+  client error for this video this session.
   NOT CONFLATED: the MIT Learn catalog page "Collective Intelligence"
   (learn.mit.edu, opened 2026-10-25 — 103 min, Sep 28, 2018, a panel
   with Kurant, Helmreich, Jones, Haar Horowitz and Montfort) is a
