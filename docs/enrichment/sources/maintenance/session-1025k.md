@@ -171,3 +171,6 @@
 
 ## Verification sweep (T+41)
 - All 145 principle pages touched by this session pass enrich_validate.py. A029 EE III.7 (Kenny) quote verified verbatim in the archive.org PDF. A049/A077 quotes verified. No new page edits in this entry.
+
+## M006 Nepantla
+- Opened chicano.ucla.edu/files/s7.pdf through the page reader (it returns 404 to plain command-line requests but opens normally in the reader, so earlier '404' flag for this URL is a false alarm). Durán/Olmos/Molina material and the convert's words verified. The Anzaldúa and Keating 2002 quote was reworded from a secondary journal article ('lacking boundaries'); replaced by the wording Villaseñor Black gives ('lacking clear boundaries'). Example labelled as illustration. The Heidelberg HeLix 'very awkward, uncomfortable' quote not re-opened.
