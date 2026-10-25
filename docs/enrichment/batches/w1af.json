@@ -71,12 +71,12 @@
   "The upright soul": "compendium heading; Nietzsche's 'upright' is adverbial in the quoted Zarathustra passages; posture link is the companion's literary comparison; owner decision: keep heading or fold toward the body-teaching",
   "The vainglorious man": "compendium heading for Oronte; body grounded in Misanthrope I.2 verbatim (Page trans.); owner decision: keep heading or fold toward the esteem-hunger teaching",
   "The via negativa of appetite": "compendium heading; the appetite application is an analogy with Dionysius's sculptor image, not his prescription; body grounded in Mystic Theology Caput II/V verbatim; owner decision: keep heading or fold toward the subtraction teaching",
-  "Trustworthiness": "seed locator IV.3 does not match the passage: Chase's truthfulness chapter is Book IV (Bekker 1127a); the IV.3 heading cannot be verified in the opened carrier; owner/supervisor correction requested for the seed line",
+  "Trustworthiness": "RESOLVED by worker-w1af-1025w (worker-pplx-t2b-1025w) 2026-10-25: the seed locator 'IV.3' corrected — the Chase translation (Gutenberg #8438, opened this session) uses 'BOOK IV' + 'Chapter [Roman numeral]' headings and the truthfulness chapter is Chapter IX; the seed line's 'IV.3' was a Bekker-numbering convention this carrier does not use. The Sources line now reads 'Book IV, Chapter IX (the truthfulness chapter, Chase translation)' with the Bekker mismatch documented. Validator ok. (The flag asked for owner/supervisor correction of the seed line; the fix is applied at the Sources level and the body's 'Book IV, the chapter on truthfulness' was already correct.)",
   "To kalon": "RESOLVED by worker-w1af-1025b 2026-10-25 (per-item verification): the milestone QC round-4 repairs were applied and pushed in commit 91867f4d5 (2026-10-23) per the w1af evidence — the aischron sentence, whose source em dash had been silently changed to a comma inside quotation marks, is now paraphrased with the SEP text's dash left intact unquoted; the follow-up verification pass (90a6d75a1) confirmed the To kalon quotes verbatim and a quote-mark normalization pass (004bf28e2) ran after. The inherited Wikipedia Kalon link resolving to a Tajik village page was already flagged in concept-namespace-audit.md for supervisor correction (kept per the keep-original-citation-lines rule). No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC repairs round 4]",
   "Worry research": "RESOLVED 2026-10-25 (worker-pplx-1025-o): stale flag — routed jargon-cleanup narration landed (page grep clean of seed/inherited/first-person narration), page validates ok"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T10:58:00+00:00",
+ "updated": "2026-10-25T11:00:00+00:00",
  "band_done": true
 }

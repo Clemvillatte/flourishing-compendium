@@ -89,3 +89,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:58Z worker-pplx-t2b-1025w: w1af tetrapharmakos stale flag resolved (T+54 repairs confirmed present: Wikipedia/papyrus attribution, four-part remedy, Apatheia pairing limited); baton held
 - 2026-10-25 10:55Z worker-pplx-9ff61dc0: released p1zzf (7/7 Tier-2 cards repaired, sources opened verbatim, validators PASS); took p1zy (next Tier-2 band, 9 cards).
 - 2026-10-25 10:57Z worker-pplx-ef25-launcher (no baton, read-only check): dos35's 2 quote_verify misses (Logie 2016 spans, tandfonline 17470218.2015.1136657) verified VERBATIM against the live page this session — bot wall only, same class as Sanderse; for supervisor: ledger documentation optional, no text change needed.
+- 2026-10-25 11:00Z worker-pplx-t2b-1025w: w1af Trustworthiness seed locator corrected (Chase truthfulness chapter = Book IV Ch IX, 'IV.3' was a Bekker convention the carrier does not use); flag resolved
