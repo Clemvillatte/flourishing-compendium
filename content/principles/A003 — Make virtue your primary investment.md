@@ -41,7 +41,7 @@ In II.5 he argues that [[Virtue|Virtue (arete)]] is not a passion, because "we f
 
 ## Psychology parallels
 
-- **[[Character strengths (Peterson & Seligman)|Character strengths interventions]]**, identifying and using signature strengths raises well-being with effect sizes that hold across cultures ([Casali and Feraco, 2025; [VIA Institute](https://www.viacharacter.org/resea...)
+- **[[Character strengths (Peterson & Seligman)|Character strengths research]]**: a meta-analysis of 130 studies (N = 275,007) found meaningful correlations (r > .10) with healthy functioning for all 24 character strengths except humility, most between .10 and .30; the evidence is correlational ([Casali and Feraco, 2025](https://journals.sagepub.com/doi/10.1177/08902070251366765), as summarised by the [VIA Institute](https://www.viacharacter.org/research/findings/character-strengths-and--well-being-happiness)).
 - **[[Virtue development research|Virtue development research]]**, stable dispositions form through repeated practice and social modelling (Kristjánsson, 2018)
 
 ## Philosophy parallels

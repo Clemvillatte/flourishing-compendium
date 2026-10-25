@@ -58,7 +58,7 @@ My practical reading: the same event can be read as catastrophe or as indifferen
 - [[K314 — Anxiety-as-signal|K314 Anxiety-as-signal]]
 ## Psychology parallels
 
-- **[[Cognitive-behavioural model|Cognitive-behavioural therapy]]**, the core CBT model: thoughts mediate between events and emotions, and changing the thought changes the emotion (Beck, 1976; [Stoic origins of CBT](https://pmc.ncbi.nlm.nih.go...)
+- **[[Cognitive-behavioural model|Cognitive-behavioural therapy]]**, the core CBT model: thoughts mediate between events and emotions. Beck wrote that the "philosophical underpinnings go back thousands of years, certainly to the time of the Stoics, who considered man's conceptions (or misconceptions) of events rather than the events themselves as the key to his emotional upsets" ([Beck, 1976, p. 3, as quoted in Dickinson, 2024](https://link.springer.com/article/10.1007/s44202-024-00121-w)).
 - **[[Cognitive reappraisal|Cognitive reappraisal]]**, changing the interpretation of a situation to change its emotional impact (Gross, 2015)
 
 ## Philosophy parallels

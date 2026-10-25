@@ -162,3 +162,6 @@
 
 ## Systemic typo fix: 'I applie' to 'I apply'
 - 86 occurrences across 85 principle pages (the verb had lost its final letter, likely from a past bulk edit). Replaced with 'I apply' in content/principles only. The same typo exists in content/concepts (6 files: Experiential purchases, Distinguishing feeling from fact, Emergent evolution, The seasons of illness, The courage to act against impulse, Distinguishing practice from theory) and docs/enrichment/sources/p1a/repair-b303ba60.md; not touched as they belong to other bands. Flag for supervisor.
+
+## A003, S003 truncated-URL parallels
+- Both pages had parallels lines ending in truncated links ('...)'). A003: replaced the unsupported claim (effect sizes holding across cultures) with what the opened Casali and Feraco 2025 abstract and VIA summary say. S003: replaced with Beck 1976 sentence as quoted in Dickinson 2024 (search excerpt of the Springer article; Beck's book itself not opened).
