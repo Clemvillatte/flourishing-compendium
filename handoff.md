@@ -2705,3 +2705,39 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   frustration entry). Supervisor did not flip.
 - Board at checkpoint: dos15, dos31, dos32 live and fresh; enrich_apply
   still guarded by t1a.json (thinker-schema proposal) — unchanged.
+
+## Supervisor session close-out — supervisor-pplx-1024c, 2026-10-25 ~01:15 UTC
+
+- SESSION TALLY: 22 supervisor passes, all pushed to origin/main.
+- VOICE-AUDIT PROGRAMME: coverage now documented for every record in
+  the inventory (21 candidate reviews + the goals and
+  overload-overwhelm full reads). Scope: these are documented
+  voice-review/editorial decisions, NOT a factual or card-fidelity
+  certification — the card-fidelity sweeps' full-text comparison
+  remains open (prefix checks only, per the dos1 worker's honest
+  correction).
+- COLD READS this session (editorial reviews; card fidelity not
+  rechecked unless stated): anger, the-self, decision-making, goals,
+  overload-overwhelm, anxiety, motivation, freedom, gratitude,
+  right-action, body — 11 full reads; frustration is
+  quotation-checked (all 8 extracts verbatim vs opened carriers);
+  fear was a sample check.
+- REPAIRS this session: anxiety ST275 map gloss completed (was
+  truncated mid-sentence); motivation's stale "planned Goals
+  dossier" reference fixed (dossier AND compiled registry payload —
+  the payload rebuild initially missed, caught in advisor review);
+  To kalon's Tajik-village Wikipedia link removed; GF's two
+  unchecked flagged lines dispositioned (kept); right-concentration
+  9-flagged reconciliation documented (with the correction that L5
+  was recast in an earlier session); kpr K112 closed.
+- ADVISOR FINAL-VERIFIER ROUND (pass 22): my own documentation was
+  corrected — an invented explanation withdrawn, L171's "card-linked"
+  description corrected to external carriers, cold-read entries
+  scoped as editorial, the motivation payload rebuild completed.
+  Two rebase-conflict marker incidents this session, both caught and
+  fixed immediately, origin/main verified clean each time.
+- FLAGS carried forward for the owner: frustration flip blocked on
+  art assignment; full-text sweep comparison open; enrich_apply
+  guarded by t1a.json; dos9 decorative-metaphor line; ST033
+  story-band seed errors (pre-existing); exemplar recasts await
+  owner voice-validation.
