@@ -544,6 +544,45 @@ Block A, fcAcademyData records for deg-philosophy modules.
 - Relevant segment: whole lecture, 1:25:53.
 - Verification status: verified-video.
 
+## mod-phil-3 optional Cynicism series (verified 2026-10-25)
+
+### M23-EX01: Hellenistic Philosophy 2.3.2.1, Diogenes of Sinope and Cynicism (version 2)
+
+- Identity and access: oembed confirms the video on Monte Johnson's own channel
+  (https://www.youtube.com/watch?v=YL_b5hUNaIQ). Freely playable, no paywall.
+- Duration: 45:56 (watch page, 2026-10-25). The record prints 45:57, a one-second
+  mismatch to reconcile.
+- Instructor credentials: Monte R. Johnson, Professor of Philosophy, University of
+  California, San Diego, specialist in early Greek philosophy, Aristotle and
+  Hellenistic philosophy (UCSD Hellenic Studies Center faculty page,
+  https://helleniccenter.ucsd.edu/people/faculty/mjohnson.html).
+- Language: English.
+- Content coverage: the uploader's own description states the lecture discusses
+  Diogenes of Sinope on the basis of Diogenes Laertius VI.2.
+- Relevant segment: whole lecture, 45:56.
+- Verification status: verified-video, with the one-second duration mismatch noted.
+
+### M23-EX02: Hellenistic Philosophy 2.3.2.2 (Cynics series)
+
+- NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
+  https://www.youtube.com/watch?v=W7XTOnTVNrs and the watch page could not be
+  opened in-session (2026-10-25). The video could not be confirmed accessible.
+  The degree owner must re-check the URL, find the replacement (the surviving
+  2.3.2.1 is titled "version 2", suggesting earlier uploads were replaced), or
+  drop the attachment from mod-phil-3.
+
+### M23-EX05: Hellenistic Philosophy 2.3.3.1
+
+- NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
+  https://www.youtube.com/watch?v=ADaSJaXm8pU and the watch page could not be
+  opened in-session (2026-10-25). Same action needed as M23-EX02.
+
+### M23-EX06: Hellenistic Philosophy 2.3.3.2
+
+- NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
+  https://www.youtube.com/watch?v=Pl13Wtm47lQ and the watch page could not be
+  opened in-session (2026-10-25). Same action needed as M23-EX02.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)

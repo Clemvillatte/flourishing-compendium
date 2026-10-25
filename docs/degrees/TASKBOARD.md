@@ -42,16 +42,16 @@ attached to modules in active degree bands first. Counts below are
 measured from fcAcademyData on 2026-10-25 (attachments counted per module
 reference, unique source ids in brackets):
 
-- Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a (in progress: verifier-pplx-a1)
+- Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-philosophy.md; 33 of 36 verified, 3 Cynicism-series optionals unconfirmed-accessible and flagged)
 - Block B: deg-contemplative attached sources (37, 33) — deg-verify-a
 - Block C: deg-relational attached sources (12, 10) — deg-verify-b
 - Block D: deg-mind attached sources (31, 25) — deg-verify-b
-- Block E: deg-wellbeing attached sources (15, 13) — deg-verify-a
+- Block E: deg-wellbeing attached sources (15, 13) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-wellbeing.md; 12 of 12 imported records verified)
 - Block F: deg-therapeutic attached sources (18, 16) — deg-verify-b
 - Block G: deg-psychology-101 (1, 1) — deg-verify-b
 - Block H: deg-qigong attached sources (21, 17) and deg-cmp (27, 27):
   mostly already verified by their dedicated agents; re-check only the
-  records still labelled imported — deg-verify-a
+  records still labelled imported — deg-verify-a (checked 2026-10-25 by verifier-pplx-a1: zero records still labelled imported, see docs/degrees/verify/deg-cmp.md; no re-checks required)
 - Block I: remaining unattached "imported" records (the rest of the 291) —
   split by canonical URL hash between the two batons at claim time
 
