@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 3** — Hold the self lightly (anatta)
 
-The Anatta-lakkhana Sutta examines form, feeling, perception, mental fabrications and consciousness. Each changes, can bring distress, and resists complete command; the teaching asks whether it is fitting to regard any of them as one's self. Its practical instruction is to loosen identification with these experiences. ([SN 22.59, Thanissaro Bhikkhu's translation](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
+In the Anatta-lakkhana Sutta (SN 22.59) the Buddha takes form, feeling, perception, mental fabrications and consciousness in turn. Of form he says: "If form were the self, this form would not lend itself to dis-ease. It would be possible [to say] with regard to form, 'Let this form be thus. Let this form not be thus.'" The same is then said of the other four. He then asks: "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" and the monks answer, "No, lord" ([SN 22.59, Thanissaro Bhikkhu's translation](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html)). The practical instruction I draw from it is to loosen identification with these experiences.
 
 The Milindapanha approaches the question through a chariot: a useful everyday name need not identify a separate, permanent entity. Nagasena applies the comparison to his own name. This does not require abandoning ordinary speech about people. ([Book II, chapter 1, §1, T. W. Rhys Davids's translation](https://www.sacred-texts.com/bud/sbe35/sbe3504.htm))
 
@@ -21,6 +21,10 @@ Nor is not-self a licence to dismiss responsibility: MN 109 challenges the infer
 **Plain words** A painful thought or mood need not settle who you are. Notice it without turning it into a permanent verdict, while still taking care over what you do next.
 
 *For example:* After criticism, you could notice shame before accepting it as proof of being a failure. Try asking what needs correcting; afterwards, check whether that response helped you repair the work without defending your whole identity.
+
+## Sources
+
+- [Pañcavaggi Sutta: Five Brethren (SN 22.59), trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html): the quotations above, checked against the page.
 
 ## Related concepts
 

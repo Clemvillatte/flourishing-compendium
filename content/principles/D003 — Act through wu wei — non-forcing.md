@@ -12,15 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 3** — Act through wu wei: non-forcing
 
-In chapter 48, the Daodejing describes following the Dao as a gradual reduction in deliberate doing. Chapter 37 presents the Dao as accomplishing things without acting for the sake of acting. Read together, these passages invite a question about effort: which part helps the task, and which part merely satisfies our wish to control it? ([James Legge's translation, chapters 37 and 48](https://www.sacred-texts.com/tao/taote.htm))
+Chapter 48 of the Daodejing contrasts two kinds of daily effort: "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing)." It continues: "He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do" ([Legge's translation, ch. 48](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+Chapter 37 puts the same idea about the Dao itself: "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do" ([Legge, ch. 37](https://www.gutenberg.org/cache/epub/216/pg216.txt)). Read together, the two passages raise a question about effort: which part helps the task, and which part only satisfies our wish to control it?
 
 ### A subtractive discipline
 
-The practical reading offered here is to remove unnecessary interference while remaining answerable for what happens. A gardener still waters a seedling; pulling its stem will not make it grow faster. The distinction asks for judgement about the particular situation, rather than a rule that less effort is always better.
+The practical reading offered here is to remove unnecessary interference while remaining answerable for what happens. As an illustration of my own, a gardener still waters a seedling, and pulling its stem will not make it grow faster. The distinction asks for judgement about the particular situation, rather than a rule that less effort is always better.
 
 **Plain words** Before pushing harder, check whether you are helping. Ease your grip where it gets in the way; do the work that still needs doing.
 
 *For example:* A teacher could give a class more time to attempt a problem before offering another explanation. She watches whether pupils make progress, keeps the pause when it helps, and changes her approach when they are simply stuck.
+
+## Sources
+
+- [Laozi, Tao Te Ching (Tao Teh King), trans. James Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapters 37 and 48, quoted word for word. The page's earlier link was to the same translation at sacred-texts.com.
 
 ## Related concepts
 

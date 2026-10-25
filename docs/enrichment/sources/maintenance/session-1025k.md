@@ -138,3 +138,6 @@
 
 ## S067, SP001, B124 broken links
 - S067: two malformed/truncated parallel links replaced with PubMed records for Desbordes et al. 2014 and Sahdra, Shaver and Brown 2010 (abstracts opened). SP001: Spinoza quote 'I have laboured carefully, not to mock, lament, or execrate, but to understand human actions' verified verbatim in the Elwes-edition A Political Treatise PDF (files.ethz.ch); dead umb.edu link replaced. B124: dead handout link replaced with a Kaiser Permanente PDF of Linehan's Distress Tolerance Handout 11 where the 'facts about the past and the present are the facts, even if you don't like them' line is present.
+
+## D003, B003 verbatim quotes added
+- Both pages had a paraphrase only. D003: Legge ch. 37 and 48 quoted word for word from Gutenberg 216; garden example labelled. B003: SN 22.59 (Thanissaro, Access to Insight) not-self and 'Is it fitting' passages quoted word for word; Milindapanha and MN 109 paragraphs not re-opened (flag).
