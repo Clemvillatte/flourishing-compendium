@@ -7438,7 +7438,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"how people spend their money may be at least as important as how much money they earn.\" ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/, [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18356530&rettype=abstract&retmode=text)))",
+          "x": "\"how people spend their money may be at least as important as how much money they earn.\" ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18356530&rettype=abstract&retmode=text))",
           "s": null
         },
         {

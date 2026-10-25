@@ -136,7 +136,7 @@ The shared question: if happiness is the aim, can we judge in advance what serve
 
 Against a purely inward guess, Dunn, Aknin and Norton proposed that a plain, countable choice, whom the money is spent on, mattered:
 
-> "how people spend their money may be at least as important as how much money they earn." ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/, [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18356530&rettype=abstract&retmode=text)))
+> "how people spend their money may be at least as important as how much money they earn." ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18356530&rettype=abstract&retmode=text))
 
 The finding has a replication history, and the registered replication report states it with care:
 
