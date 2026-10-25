@@ -111,5 +111,7 @@
    "from": "launcher-pplx-1025b-dos25",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T10:49:17+00:00"
 }

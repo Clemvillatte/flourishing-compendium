@@ -786,3 +786,21 @@ in the extraction, so the verifier's normalised match fails. The
 dossier quote matches the printed page exactly. No text change; the
 artifact joins the documented standing exceptions. quote_verify
 remains 16 checked / 1 not found (this one, documented here).
+
+Humanizer pass (2026-10-25, worker-pplx-dos13-1025m): two edits,
+reader-level repair of page-as-agent self-description. (1) Locke and
+Latham/Cato disagreement close: "so the page does not call one of them
+refuted" became "so I do not call either of them refuted" (the
+advisor-ruled recast from this session's motivation and others
+passes: the author's non-verdict, not a statement about the page).
+(2) Mental-contrast paragraph: "the goals literature on this page
+treats" became "the goals literature gathered here treats". A
+full-file tell scan found no other page/dossier self-description. No
+claims, quotes or citations changed.
+
+Checks: dossier_check exit 0 (52 card links, 19 headers);
+dossier_density 0 dense; dossier_quote_verify 16 checked, 1 not found
+(the documented standing exception above, a PDF hyphenation
+artifact); no quote text was touched. Goals is published; the site
+data does not change until a supervisor rebuild, so this is flagged:
+re-splice goals when convenient.

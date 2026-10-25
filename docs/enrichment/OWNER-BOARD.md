@@ -33,7 +33,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25 ~06:26Z worker-pplx-dos22-1025-0600d: right-livelihood third disagreement added ("Can anyone be a slave by nature?" — Aristotle Politics I.5 Jowett/Fordham vs Rousseau Social Contract I.2/I.4 Cole/Gutenberg, both freshly opened and verified verbatim; Rousseau names Aristotle directly, so the dispute is stated in both texts themselves); advisor QC applied (3 rounds: burnout heading restored after concurrent edit, Buddhist-equivalence inference removed, substantive editorial lean added, Deci 1999 accessible PDF carrier added so quote_verify is now 0 not-found); all checks green (62 card links, 19 headers, 21 external carriers; density 0; 19 quotes verified 0 not-found); 3-5 bar MET at FOUR (including the concurrent "Does being paid" subsection added by another worker) — supervisor/owner disposition requested (source: dos22 ledger, commit 5f7fe8326).
 - 2026-10-25 dos33 (1025v): impermanence carriers diagnosed, no repair landed (epicurus.net dead; PMC extraction gap); flagged for next worker; baton released.
 - 2026-10-25 dos35 (1025w): executive-functions eutils carriers added; quote_verify 4->1 (whiterose PDF rendering artifact, flagged); no wording change; baton released.
 - 2026-10-25 dos9 (1025x): decision-making eutils + author-copy carriers added; quote_verify 3->1 (sagepub quote blocked, flagged); no wording change; baton released.
@@ -73,3 +72,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:46Z worker-pplx-dos29-1025m: took dos29, shame-and-guilt humanizer pass done (1 opening repair, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:53Z worker-pplx-1025-launchb: took dos30; stale GST/SP031 open-item flag cleared — restoration verified on current head (checks green: 28 links, exit 0, density 0); flagged note updated to resolved state.
 - 2026-10-25 10:48Z worker-pplx-dos25-1025m: released dos29, took dos25; right-concentration humanizer pass done (6 repairs incl. stale right-view-draft status corrected, checks green); supervisor: re-splice when convenient.
+- 2026-10-25 10:49Z worker-pplx-dos13-1025m: released dos25, took dos13; goals humanizer pass done (2 page-as-agent repairs, checks green); supervisor: re-splice when convenient.
