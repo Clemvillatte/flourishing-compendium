@@ -11,11 +11,11 @@ Pearls before swine is the image Jesus uses in the Sermon on the Mount for the r
 
 > "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you." (Matthew 7:6, [KJV, Wikisource](https://en.wikisource.org/wiki/Bible_(King_James)/Matthew))
 
-The warning doubles as counsel about where to spend your best: not everything holy should be offered everywhere, because the offering can be trampled and the offerer torn. The saying is a rule of fit — of matching the fineness of the material to the capacity of the receiver — rather than a rule of contempt.
+The warning doubles as counsel about where to spend your best: not everything holy should be offered everywhere, because the offering can be trampled and the offerer torn. One practical reading of the saying is as a rule of fit, matching the fineness of the material to the capacity of the receiver.
 
-The verse gives the image three parts, and the third is the one easy to miss. There is the holy thing given to dogs, the pearls cast before swine, and then the consequence: the swine trample them under their feet and turn again and rend you. The danger the saying warns of has two parts: the gift is trampled, and the giver is torn. The counsel is therefore not stinginess about treasures but protection about the person carrying them.
+The verse gives the image three parts, and the third is the one easy to miss. There is the holy thing given to dogs, the pearls cast before swine, and then the consequence: the swine trample them under their feet and turn again and rend you. The image warns of harm to both the gift and the giver, and the counsel that follows from the warning is protection of the person carrying the treasures.
 
-The fit the image marks runs in both directions. What is holy and what are pearls are not in question; the question is the audience, dogs and swine being animals that, on the image's terms, cannot tell what they have been given. A person using the image asks not whether the material is fine but whether the receiver can tell that it is, and the verse's rule is to withhold the casting when they cannot.
+The audience is what varies in the image. What is holy and what are pearls are not in question; the dogs and the swine are. A reading of the image as being about fit asks not whether the material is fine but whether the receiver can tell that it is, and on that reading the verse counsels withholding the casting when they cannot.
 
 ### Here
 

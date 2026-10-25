@@ -7,7 +7,7 @@ file: "Micro-moments of connection"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Micro-moments of connection is this page's title for the construct Barbara Fredrickson's Love 2.0 (2013) calls positivity resonance. A Greater Good summary of her view:
+Micro-moments of connection names the construct Barbara Fredrickson's Love 2.0 (2013) calls positivity resonance. A Greater Good summary of her view:
 
 > "In her book Love 2.0, Barbara Fredrickson describes love as a momentary emotion that swells up and expands your awareness of your surroundings, your sense of self, and your ability to truly see another person. We experience a \"positivity resonance\" comprising three events: \"shared positive emotions, biobehavioral synchrony, and mutual care\" with the other person, writes Fredrickson, a psychology professor at the University of North Carolina at Chapel Hill." ([Greater Good Science Center, UC Berkeley](https://greatergood.berkeley.edu/article/item/what_is_love_scientists_have_answersbut_they_dont_all_agree))
 
@@ -15,7 +15,7 @@ Micro-moments of connection is this page's title for the construct Barbara Fredr
 
 The moments are momentary by definition, and the article reports studies of everyday interactions: "studies on people directed to have meaningful interactions with the barista while buying coffee, greet and thank strangers, and chat with strangers found that these interactions increased their happiness and positivity" ([same article](https://greatergood.berkeley.edu/article/item/what_is_love_scientists_have_answersbut_they_dont_all_agree)). Fredrickson's research program connects positive emotions with biology: "Fredrickson's team has also identified biological resources, such as cardiac vagal tone (indexed as heart rate variability) that influence, and are influenced by positive emotions in an upward spiral dynamic" ([Fredrickson and Joiner, PEP Lab, UNC](https://peplab.web.unc.edu/wp-content/uploads/sites/18901/2019/06/FredricksonJoiner2019PPSupwardspirals.pdf)).
 
-The three ingredients the summary lists give the construct its shape. Shared positive emotion makes the moment a positive one, biobehavioral synchrony makes it a two-person one, and mutual care makes it more than mood. The emotion is described as momentary, swelling up and expanding awareness of the surroundings, the self, and the other person, which is why the studies the article reports concern greetings and barista exchanges rather than relationships as wholes: the unit the construct names is small enough to occur between strangers, and the studies of greeting and thanking strangers are reported as increasing happiness and positivity.
+The three ingredients the summary lists give the construct its shape: shared positive emotion, biobehavioral synchrony, and mutual care. The emotion is described as momentary, swelling up and expanding awareness of the surroundings, the self, and the other person. The construct and the interaction studies are separate matters in the article: the studies concern greetings, barista exchanges and chats with strangers, and are reported as increasing happiness and positivity, while the definition of positivity resonance stands on its own. Whether an ordinary greeting contains all three ingredients is a question the quoted material does not settle.
 
 ### Here
 

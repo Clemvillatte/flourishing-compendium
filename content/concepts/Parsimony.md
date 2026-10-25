@@ -13,9 +13,9 @@ Parsimony is the habit of not multiplying what a claim needs. The concept's cano
 
 The same entry situates the razor inside Ockham's larger economy: in metaphysics he admits "only individual substances and qualities", holding that universal essences such as humanity or whiteness "are nothing more than concepts in the mind". Parsimony for Ockham is not an aesthetic preference for tidiness; it is a discipline of ontology — what cannot be shown to be needed is not shown to be.
 
-The two passages belong together, and the connection is what the razor is. The principle of simplicity eliminates unnecessary hypotheses, and the nominalism it sits inside removes a whole class of supposed entities, universal essences that turn out to be concepts in the mind. Both moves have the same shape: something has been supposed to exist, and the question is whether anything needs it. The razor is the discipline of answering that question by removal rather than by addition.
+The two passages belong together, and the connection is what the razor is. The principle of simplicity eliminates unnecessary hypotheses, and the nominalism it sits inside removes a whole class of supposed entities, the universal essences that Ockham holds to be nothing more than concepts in the mind. Both moves have the same shape: something has been supposed to exist, and the question is whether anything needs it. The razor is the discipline of answering that question by removal rather than by addition.
 
-The discipline concerns need rather than truth. A hypothesis can be simple and wrong, and the razor does not say otherwise; what it asks is whether the hypothesis is necessary, which is a different question from whether it is correct. The habit the concept names is therefore a habit of bookkeeping: count what a claim costs in entities and assumptions, and decline to pay for what the claim can be shown to do without.
+Simplicity alone does not establish that an explanation is correct, and nothing in the quoted passages says otherwise. What the razor asks of a hypothesis is whether it is necessary, and the habit the concept names is a habit of bookkeeping: count what a claim costs in entities and assumptions, and decline to pay for what the claim can be shown to do without.
 
 ### Here
 

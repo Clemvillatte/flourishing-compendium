@@ -11,13 +11,13 @@ Nunc fluens, "the flowing now", is the scholastic name for the present of time �
 
 > "dicit enim Boetius quod nunc fluens facit tempus, nunc stans facit aeternitatem" — Boethius says that the flowing now makes time, and the standing now makes eternity. (Aquinas, [Summa theologiae I q.10 a.2, Latin text](https://bkv.unifr.ch/en/works/sth/compare/summa-theologiae/69/summe-der-theologie))
 
-The concept is Heraclitus's river image read as a theory of the present. The river fragment, in the Stanford Encyclopedia's translation:
+The Heraclitus fragment offers a natural analogy for this kind of present, and the two are often read together. The river fragment, in the Stanford Encyclopedia's translation:
 
 > "On those stepping into rivers staying the same other and other waters flow." (Heraclitus fragment B12, [SEP](https://plato.stanford.edu/entries/heraclitus/))
 
 The SEP's reading gives the fragment's point: "some things stay the same only by changing... constancy and change are not opposed but inextricably connected". The flowing now is exactly this kind of existent — the present remains the present only because each of its waters passes away.
 
-The two sources stand at some distance, and the distance is worth noticing. Boethius's formula gives a scholastic contrast between two nows, one flowing and one standing, and it is quoted by Aquinas inside a question about God's eternity, not about experience. The Heraclitus fragment gives the image of something that stays the same only because other and other waters flow, and the SEP's reading of it is that constancy and change are inextricably connected. The term nunc fluens names the point where the two meet: a present with the Heraclitean structure, carried in a Latin formula built to contrast time with eternity.
+The two sources stand at some distance, and the distance is worth noticing. Boethius's formula contrasts two nows, one flowing and one standing, and Aquinas quotes it in the opening objection of his question on God's eternity. The Heraclitus fragment gives different material, an image of something that stays the same only because other and other waters flow, which the SEP reads as constancy and change being inextricably connected. Reading the scholastic formula alongside the river fragment is an analogy rather than a documented lineage: both present a now that lasts by passing, one in the language of eternity and one in the language of a river.
 
 ### Here
 
