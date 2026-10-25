@@ -100,6 +100,20 @@ Their abstract concludes that procrastination "appears to be a self-defeating be
 
 The disagreement is definitional, and the data leave it live. On the definition, what disqualifies a delay from the word is expecting to be worse off, so a delay a person expects to serve them falls outside it, and a delay a person expects to harm them stays inside even if the outcome surprises them; on Chu and Choi's construct, the word covers deliberate delay too, and only the passive kind is the problem. Neither abstract settles whether "active procrastination" names a separate behaviour or planning that happens to look like delay, and both studies use student samples.
 
+### When judgment and action part, what gives way?
+
+The shared question: the procrastinator still judges the task worth starting, so what exactly fails when the starting does not happen? Davidson's answer, which set the modern terms of the debate, makes the failure one of judgment: the incontinent act is intentional action against the agent's all-things-considered better judgment.
+
+> "In doing b an agent acts incontinently if and only if: (a) the agent does b intentionally; (b) the agent believes there is an alternative action a open to him; and (c) the agent judges that, all things considered, it would be better to do a than to do b." (Davidson 1970, quoted in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/weakness-will/))
+
+Holton denies that this is what the ordinary cases are, and moves the failure from judgment to intention:
+
+> "Philosophical orthodoxy identifies weakness of will with akrasia: the weak willed person is someone who intentionally acts against their better judgement. It is argued that this is a mistake. Weakness of will consists in a quite different failing, namely an over-ready revision of one's intentions." ([Holton 1999, abstract](https://rjh221.user.srcf.net/bibliography/))
+
+> "Weakness of will arises, I shall suggest, when agents are too ready to reconsider their intentions." ([Holton 1999, author-hosted paper](https://rjh221.user.srcf.net/bibliography/pubs/Weakness.pdf))
+
+The disagreement matters for delay because it locates the repair differently. The procrastinator's judgment that the task matters usually survives the postponement intact, which fits Holton's reading better than Davidson's: what gives way is the intention to start, and an over-ready reconsideration of it. On Davidson's frame the work is on the judgment, making the better course more vivid; on Holton's it is on the resolution, forming intentions that are, in his words, "relatively resistant to reconsideration". The if-then plan carries exactly that resistance. Neither essay addresses procrastination by name, and the dispute is not settled.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the response to the lapse. The moral framing, laziness, guilt, self-blame, is a candidate target on the mood-repair account: the proposed chain is that self-blame feeds the mood being escaped, and the studies behind the self-forgiveness line are correlational, so the chain is a proposed mechanism, not a demonstrated one. The schedule-first framing rearranges time and, on the mood-repair account, leaves the feeling unaddressed. The intention-first framing assumes the missing piece is deciding, when the intention-action gap is the measured problem. The adaptive direction is to treat the delay as information: how the task feels, how rested the person is, and how far away the reward sits.
