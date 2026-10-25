@@ -42,13 +42,19 @@ reading record is corrected below per the advisor's round 1 ruling
 (rev 1's claim of full-body reads was wrong for the excerpted cards,
 and is set right here rather than left standing).
 
-## Cards read in full this session
+## Cards read this session (REVISED; supersedes this section's original
+form, which wrongly claimed full-body reads and is retained below the
+line for the record)
 
 Akrasia (weakness of will), Akrasia, A056, A057, Pre-commitment as
 wisdom, K269, MO045, MO005, Temporal motivation theory, Temporal
 discounting, MO050, Self-forgiveness, The intention-behavior gap,
 Temptation bundling (Milkman), MO028, MO049, MO051, K185, K188, K153,
-ST391, ST220, ST184.
+ST391, ST220, ST184, and (rev 3) MO021, MO022, MO025, MO026, MO027,
+MO033, MO047, MO048, K189. Read depths varied: relevant sections for
+most, full bodies for some (the reading record in the round-1 section
+describes which); external carriers were independently opened only for
+the two block quotations.
 
 ## Scope and honest limits (rev 1)
 
@@ -112,8 +118,13 @@ chapter was not directly fetched), and the Implementation intentions
 concept card was read in full to source the meta-analytic verdict
 correctly. The three story cards were read in full, not from prefixes.
 
-Inventory reconciliation: the prep's inventory ran to 27 cards; 20 were
-read and glossed (the two Akrasia cards, A056, A057, MO045, MO005,
+Inventory reconciliation, REVISED: the earlier claim that the prep's
+row count was 27 is withdrawn (not demonstrated against the manifest);
+what is verified is the working set: the dossier links 32 distinct
+cards, 3 of them stories, and every linked non-story card was read
+this session. The earlier enumeration below is retained for the
+record: the prep's inventory listed (by my enumeration) 29 unique
+cards; 20 were read and glossed (the two Akrasia cards, A056, A057, MO045, MO005,
 MO050, MO028, MO049, MO051, Self-forgiveness, The intention-behavior
 gap, Temporal motivation theory, Temporal discounting, Temptation
 bundling, Pre-commitment as wisdom, K153, K185, K188, K269), plus the
@@ -238,3 +249,34 @@ appended was a transcription error, corrected in rev 4).
   source-faithful checkpoint under review; next steps for whoever
   takes the band: a supervisor review of the bounded comparison, a
   decision on the divergence requirement, and any editorial polish.
+
+## Advisor QC round 3 — repairs applied in rev 5
+
+1. The comparison's closing "the reviews do not settle it, and this
+   page does not pretend to" removed; the section now ends with the
+   editorial question in the advisor's own form: which intervention to
+   try first, changing what makes starting unpleasant or changing the
+   timing and attractiveness of the outcome. The opening's "the ancient
+   accounts located the failure in knowledge" narrowed to "Socrates
+   and Aristotle ask how knowledge relates to action".
+2. Nearby-terms Self-forgiveness line corrected: the card concerns
+   responses after an offense generally; the procrastination-specific
+   study is MO050's, and the line now says so.
+3. The Self-forgiveness map gloss shortened to a genuine paraphrase of
+   Hall and Fincham (shift away from avoiding reminders and
+   retaliating, toward self-directed benevolence; Marcus's counsel
+   beside it), so it no longer reproduces the card's quoted definition
+   without quotation marks.
+4. Ledger reconciled: the original "Cards read in full this session"
+   section marked revised and superseded in place; the "27 was the
+   prep's row count" explanation withdrawn as not demonstrated; the
+   verified working-set count stands on its own (32 distinct linked
+   cards, 3 of them stories, every linked non-story card read this
+   session, read depths described accurately).
+
+Handoff verdict per the advisor's round 3: after these corrections
+and a fresh checker pass, a defensible incomplete checkpoint under
+content review; the genuine-divergence requirement still blocks
+completion, done stays empty, and the next steps are named (supervisor
+review of the bounded comparison; decision on the divergence
+requirement; editorial polish).

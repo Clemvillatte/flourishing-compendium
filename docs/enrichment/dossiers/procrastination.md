@@ -2,7 +2,7 @@
 
 > Why do we delay what we intend to value, and what does the delay do to the self that inherits it?
 
-The gap between intending and doing is ordinary. What makes procrastination a problem is its shape: on the mood-repair account, the delay buys a present mood at the price of a future self's time, and the buyer and the payer are the same person. The ancient accounts located the failure in knowledge, the modern reviews in self-regulation, and the practice traditions in the design of the moment. The question I would put to both reviews is which end deserves the intervention first: what makes the outcome worth pursuing, or what makes starting unpleasant.
+The gap between intending and doing is ordinary. What makes procrastination a problem is its shape: on the mood-repair account, the delay buys a present mood at the price of a future self's time, and the buyer and the payer are the same person. Socrates and Aristotle ask how knowledge relates to action; the modern reviews call procrastination a failure of self-regulation; the practice traditions work on the design of the moment. The question I would put to both reviews is which end deserves the intervention first: what makes the outcome worth pursuing, or what makes starting unpleasant.
 
 ## Nearby terms
 
@@ -10,7 +10,7 @@ Akrasia is the oldest name on this territory: the lived problem of acting agains
 
 Habit and behaviour change hold the neighbouring mechanics; the Behaviour dossier carries them. This page takes only what is specific to delay: what the delay protects, and what it costs.
 
-Self-forgiveness sits here rather than under compassion because its evidence is procrastination-specific: the two-exam study of students who forgave themselves for delaying, and the mediations around it.
+Self-forgiveness concerns how a person responds after an offense. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination.
 
 ## The map: the entries on procrastination
 
@@ -40,7 +40,7 @@ Self-forgiveness sits here rather than under compassion because its evidence is 
 
 [MO050 — Learn to practise self-compassion when procrastinating — guilt backfires](https://clemvillatte.github.io/flourishing-compendium/#card=MO050%20%E2%80%94%20Learn%20to%20practise%20self-compassion%20when%20procrastinating%20%E2%80%94%20guilt%20backfires): the repair side. Among the 119 first-year students in the two-exam study, self-forgiveness for procrastinating before the first exam went with less procrastination before the second, mediated by negative affect; the self-compassion line is correlational, and neither line shows harshness helping.
 
-[Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness): Hall and Fincham's 2005 definition, a set of motivational changes whereby one becomes decreasingly motivated to avoid stimuli associated with the offense, decreasingly motivated to retaliate against the self, and increasingly motivated to act benevolently toward the self, adapting McCullough's three motivations for interpersonal forgiveness; Marcus's instruction to return after failure without disgust or discouragement sits beside it on the card.
+[Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness): Hall and Fincham describe a shift away from avoiding reminders of an offense and retaliating against oneself, toward self-directed benevolence. The card also points to Marcus's counsel to return after failure without disgust or discouragement.
 
 [The intention-behavior gap](https://clemvillatte.github.io/flourishing-compendium/#card=The%20intention-behavior%20gap): the measured gap itself. Sheeran's review of ten meta-analyses put the intention-behaviour correlation at 0.53, large, and leaving most of the variance in behaviour unexplained by intention; the best-validated bridge is the if-then plan.
 
@@ -88,7 +88,7 @@ Both opened reviews call procrastination a failure of self-regulation, and both 
 
 Steel's meta-analysis of 691 correlations found the strong and consistent predictors to be task aversiveness, task delay, self-efficacy and impulsiveness, with the conscientiousness facets behind them, and the effects, the abstract says, prove consistent with temporal motivation theory. Sirois and Pychyl emphasize short-term mood repair within that same self-regulation failure.
 
-The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. The question I would put to both reviews is which end the intervention should aim at first, what makes the outcome worth pursuing or what makes starting unpleasant; the reviews do not settle it, and this page does not pretend to.
+The two accounts need not compete. A devalued future and an aversive present can be one mechanism seen from two ends, and the mood-repair review itself does not claim to be the whole story. I would ask which intervention to try first: changing what makes starting unpleasant, or changing the timing and attractiveness of the outcome.
 
 ## Practice: variation, selection, retention
 

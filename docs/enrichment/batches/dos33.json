@@ -1,8 +1,8 @@
 {
  "batch": "dos33",
  "done": [],
- "in_progress": "procrastination (rev 4: content review — advisor rounds 1-2 applied; hallucinated card-gloss content caught by grep and rewritten from the card files; reading claims reconciled (29 unique inventoried cards, 32 distinct linked); mood-repair attribution and editorial-question framing fixed; divergence PENDING; checker exit 0 (35 links / 32 cards, 12 headers, 2 external carriers))",
- "note": "rev 4 (worker-pplx-dos33-1025c, 2026-10-25): advisor round 2 — grep of the card files caught named-person gloss content not on the cards (Akrasia x2, Self-forgiveness rewritten from actual card bodies); MO021 result corrected to the card's wording; K153 record corrected (kernel Evidence section opened, trial not reopened); inventory reconciled to 29 unique cards, all read; mood-repair attributions fixed; ST391 logline events-only; checker exit 0 (35 card links, 12 headers, 2 external carriers); STATUS: content review, incomplete-but-source-faithful checkpoint, divergence pending",
+ "in_progress": "procrastination (rev 5: content review — advisor rounds 1-3 applied; incomplete-but-source-faithful checkpoint; divergence PENDING; next steps: supervisor review of the bounded comparison, decision on the divergence requirement, editorial polish; checker exit 0 (35 links / 32 cards, 12 headers, 2 external carriers))",
+ "note": "rev 5 (worker-pplx-dos33-1025c, 2026-10-25): advisor round 3 — comparison closes on the editorial question without the settle-claim; opening narrowed to Socrates/Aristotle on knowledge and action; Nearby-terms and map Self-forgiveness entries corrected to the card's actual scope and paraphrased; ledger reconciled (old read section superseded in place, row-count explanation withdrawn, working-set count verified); checker exit 0 (35 card links, 12 headers, 2 external carriers); STATUS: content review, incomplete checkpoint, divergence pending",
  "sweep_title_inventory": {
   "concepts": [
    "Akrasia (weakness of will)",
