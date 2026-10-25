@@ -20,7 +20,7 @@ Two essay angles the material supports. First, the two great examinations of exp
 
 [Witness consciousness in the Drig-Drisya-Viveka procedure](https://clemvillatte.github.io/flourishing-compendium/#card=Witness%20consciousness%20in%20the%20Drig-Drisya-Viveka%20procedure): Witness consciousness (sākṣī) is, in the Advaita Vedanta of the Drig-Drisya-Viveka, the seer behind every seen.
 
-[The empirical self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20empirical%20self): William James’s name, in The Principles of Psychology, for the self as it can be studied: me rather than I.
+[The empirical self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20empirical%20self): William James’s name, in The Principles of Psychology, for the self as it can be studied: what James calls the me, as distinct from the I.
 
 [True self](https://clemvillatte.github.io/flourishing-compendium/#card=True%20self): The construct, in Schlegel and colleagues’ research, of a self felt as real and stable beneath its roles.
 
@@ -32,11 +32,11 @@ Two essay angles the material supports. First, the two great examinations of exp
 
 [Minimal self](https://clemvillatte.github.io/flourishing-compendium/#card=Minimal%20self): The minimal self is the thinnest sense of being a subject: the first-person character that every experience has, before any reflection or life story.
 
-[Embodied self](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment rather than the body as observed.
+[Embodied self](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment, of the body as it feels from within.
 
 [Critique of the unencumbered self](https://clemvillatte.github.io/flourishing-compendium/#card=Critique%20of%20the%20unencumbered%20self): Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the "unencumbered self"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel interview, sourcesjournal.org).
 
-[The wider self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wider%20self): my umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it.
+[The wider self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wider%20self): my umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can hold the status of parts of the self.
 
 The Anattalakkhaṇa Sutta runs the analysis through the five aggregates, testing each for the control a true owner would have:
 
@@ -110,7 +110,7 @@ The ACT version trains the position as a skill:
 
 [The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): George Herbert Mead's answer to the question of what a self is made of.
 
-[The relational self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20relational%20self): the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected later.
+[The relational self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20relational%20self): the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities; the contrast is with a self assembled first and connected later.
 
 [Independent vs interdependent self-construal (Markus & Kitayama)](https://clemvillatte.github.io/flourishing-compendium/#card=Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29): Independent and interdependent self-construal are Hazel Markus and Shinobu Kitayama's names for the two ways cultures teach people to be a self.
 
@@ -126,7 +126,7 @@ The ACT version trains the position as a skill:
 
 [The culturally embedded self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20culturally%20embedded%20self): Taylor connects identity with commitments and identifications that provide a framework for judging what is good, valuable, or ought to be done.
 
-[The hyphenated self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hyphenated%20self): the postcolonial name for an identity held in the join: British-Indian, Korean-American, the self that lives in the hyphen between inherited and adopted affiliations rather than in either alone.
+[The hyphenated self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hyphenated%20self): the postcolonial name for an identity held in the join: British-Indian, Korean-American, the self that lives in the hyphen between inherited and adopted affiliations, held by both together.
 
 [Bicultural identity integration](https://clemvillatte.github.io/flourishing-compendium/#card=Bicultural%20identity%20integration): (BII) names the degree to which a bicultural individual perceives his or her two cultural identities as "compatible" versus "oppositional" (Benet-Martínez and Haritatos 2005, abstract).
 
@@ -148,7 +148,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-perception theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-perception%20theory): Daryl Bem's account of how people know their own attitudes and internal states: by observing their own behavior and the circumstances in which it occurs, much as an outside observer would.
 
-[The ideal self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ideal%20self): In Higgins’s self-discrepancy theory, the representation of the attributes that someone would like a person, ideally, to possess, hopes and aspirations rather than duties.
+[The ideal self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ideal%20self): In Higgins’s self-discrepancy theory, the representation of the attributes that someone would like a person, ideally, to possess: hopes and aspirations, with duties belonging to the ought self.
 
 [Self-discrepancy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-discrepancy): E. Tory Higgins’s term for the gaps between a person’s self-state representations: actual, ideal and ought selves, each with its own emotional weather.
 
@@ -164,7 +164,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-serving attribution bias](https://clemvillatte.github.io/flourishing-compendium/#card=Self-serving%20attribution%20bias): the tendency to explain your own successes by what you did and your failures by what the world did.
 
-[Self-handicapping theory Jones](https://clemvillatte.github.io/flourishing-compendium/#card=Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle rather than on one's ability.
+[Self-handicapping theory Jones](https://clemvillatte.github.io/flourishing-compendium/#card=Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle, and the ability never has to answer for it.
 
 [Temporal self-appraisal theory (Wilson & Ross)](https://clemvillatte.github.io/flourishing-compendium/#card=Temporal%20self-appraisal%20theory%20%28Wilson%20%26%20Ross%29): Temporal self-appraisal theory is Anne Wilson and Michael Ross's account of how people use their past selves as material for feeling good now.
 
@@ -262,13 +262,13 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [The care of the self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20care%20of%20the%20self): Care of the self is a theme in Michel Foucault's later studies of ancient ethics.
 
-[Hermeneutics of the self](https://clemvillatte.github.io/flourishing-compendium/#card=Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as interpreted rather than inspected.
+[Hermeneutics of the self](https://clemvillatte.github.io/flourishing-compendium/#card=Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as something one interprets, known the way a text is read.
 
 [Self-transformation over information](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transformation%20over%20information): 'Self-transformation over information' names Pierre Hadot's account of philosophy as a way of life, in which the schools taught doctrines but the doctrines served a practice whose object was the practitioner.
 
 [Deconditioning of learned self-concepts](https://clemvillatte.github.io/flourishing-compendium/#card=Deconditioning%20of%20learned%20self-concepts): "Deconditioning of learned self-concepts" is a general label, not the name of a single research programme.
 
-[Choice of self](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20of%20self): Sartre’s claim, in Being and Nothingness, that the self is not a given but something chosen.
+[Choice of self](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20of%20self): Sartre’s claim, in Being and Nothingness, that the self is something chosen, with no ready-made essence given in advance.
 
 [Self-making](https://clemvillatte.github.io/flourishing-compendium/#card=Self-making): Zarathustra's account of the spirit's three metamorphoses supplies this picture of self-making.
 
@@ -292,7 +292,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-actualization (Maslow)](https://clemvillatte.github.io/flourishing-compendium/#card=Self-actualization%20%28Maslow%29): Self-actualization, in Abraham Maslow's original statement, is the need to become what one has it in one to become.
 
-[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination): the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted rather than pressured, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness.
+[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination): the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted, and fares worse under pressure, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness.
 
 [Self-determined personality growth](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determined%20personality%20growth): A compendium label for personality growth driven by the basic psychological needs; not a term from the underlying literature.
 
@@ -306,7 +306,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-expansion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-expansion): the motivation to grow the self: to add knowledge, abilities, perspectives and resources to what one is.
 
-[The expanding self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20expanding%20self): a cross-tradition figure: the self described not as a fixed unit but as something that grows past its own boundaries, whether by including more of the world or by discovering layers within.
+[The expanding self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20expanding%20self): a cross-tradition figure: the self described as something that grows past its own boundaries, whether by including more of the world or by discovering layers within.
 
 [Self-as-doer theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-as-doer%20theory): Houser-Marko and Sheldon (2006) introduced the self-as-doer as "a new motivational construct" to answer why some people persist in goal pursuit while others quickly give up; studies found longitudinal evidence that endorsing doer statements predicts goal attainment.
 
@@ -448,7 +448,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST285 — Ricoeur's Threefold Mimesis](https://clemvillatte.github.io/flourishing-compendium/#card=ST285%20%E2%80%94%20Ricoeur%27s%20Threefold%20Mimesis): the circuit from lived action to emplotment and back into a changed life; the self as the story one tells and lives, with the telling shaping the living.
 
-[ST312 — McAdams's Redemptive Sequences](https://clemvillatte.github.io/flourishing-compendium/#card=ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling is not a report on the events but a shaping of them.
+[ST312 — McAdams's Redemptive Sequences](https://clemvillatte.github.io/flourishing-compendium/#card=ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling shapes the events as much as it reports them.
 
 ### Identity over a life
 

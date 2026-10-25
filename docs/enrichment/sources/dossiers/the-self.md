@@ -238,3 +238,56 @@ self. This is not what I am" is verbatim, and the aggregate-by-
 aggregate examination structure matches the dossier's description.
 No discrepancy found. Other carriers were not re-opened this
 session.
+
+## Voice-audit candidate review (2026-10-25, supervisor-pplx-1024c)
+
+Reviewed all fourteen candidates from the 2026-10-24 inventory against
+the current file. Twelve RECAST as direct statements with the
+distinctions preserved; two KEPT with documented reasons. Nothing was
+deleted outright.
+
+RECAST (scaffold removed, distinction kept):
+- L23 empirical self: "what James calls the me, as distinct from the
+  I" (the James Me/I terminology, stated as two terms).
+- L35 embodied self: "an interoceptive account of embodiment, of the
+  body as it feels from within" (the observed-body contrast was
+  already carried by "felt from inside the body").
+- L39 wider self: "can hold the status of parts of the self" (the
+  objects-for-it alternative is implied by "parts").
+- L113 relational self: the contrast now stated as its own sentence —
+  "the contrast is with a self assembled first and connected later"
+  (each view stated separately, per VOICE-AUDIT).
+- L129 hyphenated self: "held by both together".
+- L151 ideal self: "hopes and aspirations, with duties belonging to
+  the ought self" (Higgins's own two selves, each named).
+- L167 self-handicapping: "blamed on the obstacle, and the ability
+  never has to answer for it".
+- L265 hermeneutics of the self: "the self as something one
+  interprets, known the way a text is read" (Ricoeur's reading/texts
+  framing).
+- L271 choice of self: "the self is something chosen, with no
+  ready-made essence given in advance" (Sartre's existence-precedes-
+  essence point as a direct statement).
+- L295 self-determination: "self-endorsed, chosen and wanted, and
+  fares worse under pressure" (SDT's autonomous/controlled contrast,
+  both sides stated).
+- L309 expanding self: "grows past its own boundaries" (the fixed-
+  unit picture is implied by growth past boundaries).
+- L451 McAdams: "the telling shapes the events as much as it reports
+  them".
+
+KEPT with reasons:
+- L59 self-as-context: "awareness as context rather than content" is
+  the ACT source's own technical formula (self-as-context vs
+  self-as-content, Hayes et al.); recasting would break the source's
+  terminology.
+- L369 aggregate analysis: the negation is the Anattalakkhana Sutta's
+  own repeated formula ("This is not mine..."), quoted material inside
+  the passage; the surrounding analysis is already direct.
+
+Checks: dossier_check.py exit 0 (182 card links, 24 headers, 7
+external carriers); registry rebuilt (230 blocks), node --check OK.
+Editorial review only; no carriers or cards freshly opened this pass;
+recasts stay inside the semantic content already documented on the
+cards and this ledger. Scope: candidate-line review; this is not a
+whole-manuscript re-read.

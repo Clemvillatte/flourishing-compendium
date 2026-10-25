@@ -3587,7 +3587,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on the self"
+          "x": "The map: the entries on the self"
         },
         {
           "t": "h2",
@@ -3615,7 +3615,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The empirical self](card:The%20empirical%20self): William James’s name, in The Principles of Psychology, for the self as it can be studied: me rather than I."
+          "x": "[The empirical self](card:The%20empirical%20self): William James’s name, in The Principles of Psychology, for the self as it can be studied: what James calls the me, as distinct from the I."
         },
         {
           "t": "p",
@@ -3639,7 +3639,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Embodied self](card:Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment rather than the body as observed."
+          "x": "[Embodied self](card:Embodied%20self): The self as felt from inside the body: an interoceptive account of embodiment, of the body as it feels from within."
         },
         {
           "t": "p",
@@ -3647,7 +3647,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The wider self](card:The%20wider%20self): the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it."
+          "x": "[The wider self](card:The%20wider%20self): my umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can hold the status of parts of the self."
         },
         {
           "t": "p",
@@ -3655,12 +3655,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, ‘Let my form be thus. Let my form not be thus.’” ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html)) — Primary text; quoted passages checked.",
+          "x": "“Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, ‘Let my form be thus. Let my form not be thus.’” ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html))",
           "s": null
         },
         {
           "t": "q",
-          "x": "“Every form is to be seen with right discernment as it has come to be: ‘This is not mine. This is not my self. This is not what I am.’” (SN 22.59) — Primary text; quoted passages checked.",
+          "x": "“Every form is to be seen with right discernment as it has come to be: ‘This is not mine. This is not my self. This is not what I am.’” (SN 22.59)",
           "s": null
         },
         {
@@ -3669,7 +3669,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“The fundamental thrust of Advaita Vedānta is that the ātman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.” ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)) — Scholarly interpretation; cited passage checked.",
+          "x": "“The fundamental thrust of Advaita Vedānta is that the ātman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.” ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/))",
           "s": null
         },
         {
@@ -3678,7 +3678,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“It is on account of its having all these things—the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad—that it comes under the generally understood term, the designation in common use, of ‘chariot.’” ([Mil 3.1.1, trans. Rhys Davids](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids)) — Primary text; quoted passages checked.",
+          "x": "“It is on account of its having all these things—the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad—that it comes under the generally understood term, the designation in common use, of ‘chariot.’” ([Mil 3.1.1, trans. Rhys Davids](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids))",
           "s": null
         },
         {
@@ -3711,12 +3711,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982](https://www.deikman.com/observing.html)) — Primary text; quoted passages checked.",
+          "x": "“Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982](https://www.deikman.com/observing.html))",
           "s": null
         },
         {
           "t": "q",
-          "x": "“In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982) — Primary text; quoted passages checked.",
+          "x": "“In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982)",
           "s": null
         },
         {
@@ -3725,7 +3725,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)) — Scholarly review; cited passage checked.",
+          "x": "“ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))",
           "s": null
         },
         {
@@ -3802,7 +3802,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The relational self](card:The%20relational%20self): the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected later."
+          "x": "[The relational self](card:The%20relational%20self): the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities; the contrast is with a self assembled first and connected later."
         },
         {
           "t": "p",
@@ -3826,7 +3826,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Embodied social identity](card:Embodied%20social%20identity): The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development."
+          "x": "[Embodied social identity](card:Embodied%20social%20identity): I anchor embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development."
         },
         {
           "t": "p",
@@ -3834,7 +3834,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The hyphenated self](card:The%20hyphenated%20self): the postcolonial name for an identity held in the join: British-Indian, Korean-American, the self that lives in the hyphen between inherited and adopted affiliations rather than in either alone."
+          "x": "[The hyphenated self](card:The%20hyphenated%20self): the postcolonial name for an identity held in the join: British-Indian, Korean-American, the self that lives in the hyphen between inherited and adopted affiliations, held by both together."
         },
         {
           "t": "p",
@@ -3862,12 +3862,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one’s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.” ([Markus and Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)) — Primary text; quoted passages checked.",
+          "x": "“Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one’s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.” ([Markus and Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "“Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one’s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.” (Markus and Kitayama 1991) — Primary text; quoted passages checked.",
+          "x": "“Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one’s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.” (Markus and Kitayama 1991)",
           "s": null
         },
         {
@@ -3880,7 +3880,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The ideal self](card:The%20ideal%20self): In Higgins’s self-discrepancy theory, the representation of the attributes that someone would like a person, ideally, to possess, hopes and aspirations rather than duties."
+          "x": "[The ideal self](card:The%20ideal%20self): In Higgins’s self-discrepancy theory, the representation of the attributes that someone would like a person, ideally, to possess: hopes and aspirations, with duties belonging to the ought self."
         },
         {
           "t": "p",
@@ -3912,7 +3912,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle rather than on one's ability."
+          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones): Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle, and the ability never has to answer for it."
         },
         {
           "t": "p",
@@ -3960,7 +3960,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The polyphonic self](card:The%20polyphonic%20self): the compendium's name for a claim Bakhtin makes about novels and the compendium transfers to persons."
+          "x": "[The polyphonic self](card:The%20polyphonic%20self): my name for a claim Bakhtin makes about novels and I transfer to persons."
         },
         {
           "t": "p",
@@ -4032,7 +4032,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Identity development](card:Identity%20development): The compendium uses \"Identity development\" for the Eriksonian research tradition on how a coherent sense of self forms."
+          "x": "[Identity development](card:Identity%20development): I use \"Identity development\" for the Eriksonian research tradition on how a coherent sense of self forms."
         },
         {
           "t": "p",
@@ -4044,7 +4044,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Ego strength](card:Ego%20strength): the compendium's label for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will."
+          "x": "[Ego strength](card:Ego%20strength): the label I use for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will."
         },
         {
           "t": "p",
@@ -4108,7 +4108,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Hermeneutics of the self](card:Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as interpreted rather than inspected."
+          "x": "[Hermeneutics of the self](card:Hermeneutics%20of%20the%20self): Ricoeur’s account, in Oneself as Another, of the self as something one interprets, known the way a text is read."
         },
         {
           "t": "p",
@@ -4120,7 +4120,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Choice of self](card:Choice%20of%20self): Sartre’s claim, in Being and Nothingness, that the self is not a given but something chosen."
+          "x": "[Choice of self](card:Choice%20of%20self): Sartre’s claim, in Being and Nothingness, that the self is something chosen, with no ready-made essence given in advance."
         },
         {
           "t": "p",
@@ -4168,7 +4168,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-determination](card:Self-determination): the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted rather than pressured, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness."
+          "x": "[Self-determination](card:Self-determination): the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted, and fares worse under pressure, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness."
         },
         {
           "t": "p",
@@ -4196,7 +4196,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The expanding self](card:The%20expanding%20self): a cross-tradition figure: the self described not as a fixed unit but as something that grows past its own boundaries, whether by including more of the world or by discovering layers within."
+          "x": "[The expanding self](card:The%20expanding%20self): a cross-tradition figure: the self described as something that grows past its own boundaries, whether by including more of the world or by discovering layers within."
         },
         {
           "t": "p",
@@ -4268,39 +4268,39 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "The wiki’s own shelves on the self"
+          "x": "My own shelves on the self"
         },
         {
           "t": "p",
-          "x": "The compendium also organizes self material into structured pathways; the hub is [SE: Self](card:SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:"
+          "x": "I also organize self material into structured pathways; the hub is [SE: Self](card:SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:"
         },
         {
           "t": "p",
-          "x": "- [SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF](card:SE-S01%20%E2%80%94%20LAYER%20I%20%E2%80%94%20FIRST%20PRINCIPLES%20%E2%80%94%20THE%20ARCHITECTURE%20OF%20SELF)"
+          "x": "[SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF](card:SE-S01%20%E2%80%94%20LAYER%20I%20%E2%80%94%20FIRST%20PRINCIPLES%20%E2%80%94%20THE%20ARCHITECTURE%20OF%20SELF)"
         },
         {
           "t": "p",
-          "x": "- [SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF](card:SE-S02%20%E2%80%94%20LAYER%20II%20%E2%80%94%20KNOWING%20AND%20EVALUATING%20THE%20SELF)"
+          "x": "[SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF](card:SE-S02%20%E2%80%94%20LAYER%20II%20%E2%80%94%20KNOWING%20AND%20EVALUATING%20THE%20SELF)"
         },
         {
           "t": "p",
-          "x": "- [SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP](card:SE-S03%20%E2%80%94%20LAYER%20III%20%E2%80%94%20SELF-COMPASSION%20AND%20SELF-RELATIONSHIP)"
+          "x": "[SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP](card:SE-S03%20%E2%80%94%20LAYER%20III%20%E2%80%94%20SELF-COMPASSION%20AND%20SELF-RELATIONSHIP)"
         },
         {
           "t": "p",
-          "x": "- [SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION](card:SE-S04%20%E2%80%94%20LAYER%20IV%20%E2%80%94%20IDENTITY%20%E2%80%94%20CONSTRUCTION%20AND%20REVISION)"
+          "x": "[SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION](card:SE-S04%20%E2%80%94%20LAYER%20IV%20%E2%80%94%20IDENTITY%20%E2%80%94%20CONSTRUCTION%20AND%20REVISION)"
         },
         {
           "t": "p",
-          "x": "- [SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE](card:SE-S05%20%E2%80%94%20LAYER%20V%20%E2%80%94%20SELF%20IN%20RELATION%20%E2%80%94%20OTHERS%20AND%20CULTURE)"
+          "x": "[SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE](card:SE-S05%20%E2%80%94%20LAYER%20V%20%E2%80%94%20SELF%20IN%20RELATION%20%E2%80%94%20OTHERS%20AND%20CULTURE)"
         },
         {
           "t": "p",
-          "x": "- [SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH](card:SE-S06%20%E2%80%94%20LAYER%20VI%20%E2%80%94%20SELF-EXPANSION%20AND%20GROWTH)"
+          "x": "[SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH](card:SE-S06%20%E2%80%94%20LAYER%20VI%20%E2%80%94%20SELF-EXPANSION%20AND%20GROWTH)"
         },
         {
           "t": "p",
-          "x": "- [SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS](card:SE-S07%20%E2%80%94%20LAYER%20VII%20%E2%80%94%20SPECIFIC%20SELF-CHALLENGES%20%26%20BOUNDARY%20CONDITIONS)"
+          "x": "[SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS](card:SE-S07%20%E2%80%94%20LAYER%20VII%20%E2%80%94%20SPECIFIC%20SELF-CHALLENGES%20%26%20BOUNDARY%20CONDITIONS)"
         },
         {
           "t": "p",
@@ -4316,7 +4316,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59’s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: “This is not mine. This is not my self. This is not what I am” (SN 22.59, quoted passage checked). That analysis locates no owner in the body or the mind. Advaita Vedānta, in Dalal’s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. The entry describes the error as mutual superimposition: “We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)” (SEP, cited passage checked)."
+          "x": "The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59’s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: “This is not mine. This is not my self. This is not what I am” (SN 22.59). That analysis locates no owner in the body or the mind. Advaita Vedānta, in Dalal’s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. The entry describes the error as mutual superimposition: “We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)” (SEP)."
         },
         {
           "t": "p",
@@ -4346,7 +4346,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -4355,7 +4355,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The component evidence is thin, and the review that canvassed it says so in its own words: “there is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being” (Godbee and Kangas 2020, quoted passage checked)."
+          "x": "The component evidence is thin, and the review that canvassed it says so in its own words: “there is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being” (Godbee and Kangas 2020)."
         },
         {
           "t": "n",
@@ -4409,7 +4409,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The research behind it is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked)."
+          "x": "The research behind it is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014)."
         },
         {
           "t": "n",
@@ -4447,7 +4447,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -4499,7 +4499,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling is not a report on the events but a shaping of them."
+          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling shapes the events as much as it reports them."
         },
         {
           "t": "h2",
