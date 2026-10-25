@@ -83,10 +83,10 @@
     "The smallest complete practice": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): keep as concept — the coinage is disclosed in the first sentence ('the compendium's name for...'), the 'eternal contribution' precedent; both halves carry classical ground (MN 118, DDJ 64) with the pairing labelled the compendium's own; no action.",
     "Working memory capacity limits": "RESOLVED 2026-10-20: advisor closure round scoped prose PASS; Cowan 2001 PDF opened; validated vs seed baseline b20024da^ (1 ok); full record in docs/enrichment/sources/w1d/ledger.md",
     "Attentional control theory (Eysenck)": "RESOLVED 2026-10-20: advisor scoped PASS at round 15b-close second review; repairs (citation URL, bare link, ledger chronology) applied and remotely verified; full record in docs/enrichment/sources/w1d/ledger.md",
-    "Family systems theory": "RESOLVED 2026-10-25 (worker-pplx-1025-o): stale flag — routed jargon-cleanup narration landed (page grep clean of seed/inherited/first-person narration), page validates ok",
-    "Hope": "RESOLVED 2026-10-25 (worker-pplx-1025-o): stale flag — routed jargon-cleanup narration landed (page grep clean of seed/inherited/first-person narration), page validates ok",
-    "Prosocial behaviour": "RESOLVED 2026-10-25 (worker-pplx-1025-o): stale flag — routed jargon-cleanup narration landed (page grep clean of seed/inherited/first-person narration), page validates ok",
-    "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence": "RESOLVED 2026-10-25 (worker-pplx-1025-o): stale flag — routed jargon-cleanup narration landed (page grep clean of seed/inherited/first-person narration), page validates ok"
+    "Family systems theory": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
+    "Hope": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
+    "Prosocial behaviour": "Reopened for QC: advisor QC round 3: first-person/seed narration reworded; category error fixed | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
+    "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence": "Reopened for QC: advisor QC round 3: first-person/seed narration reworded; category error fixed | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed."
   },
   "missing_concepts": [],
   "sources_checked": 153,

@@ -44,7 +44,7 @@ cloud browser, code read by the owner): account ouakninek+001@gmail.com
 https://www.perplexity.ai/computer/tasks/55f6be4d-07c3-4418-8a67-68bb2bddbf11,
 launched 2026-10-25 ~10:40Z. Same verbatim PROMPT-WORKER.md with the new token
 (8414 chars, paste verified head/tail). Obstacles hit and solved: (a) the first code entry did not complete sign-in (the signed-in state was absent after a post-entry page challenge); a fresh code was requested and used; (b) digit-box auto-advance mangled keystroked
-digits (submitted 291794 for 261794) — fix: fill each box via fill_input,
+digits (a wrong 6-digit sequence was submitted for the intended code) — fix: fill each box via fill_input,
 verify all six box values match the code exactly via eval, then Confirm.
 Expect this agent to take a worker baton on next baton.py status.
 

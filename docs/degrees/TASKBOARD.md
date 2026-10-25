@@ -86,16 +86,13 @@ still blocks module production.
 
 - 2026-10-25 worker-pplx-1025-o (deg-verify-a): Block I-a INVENTORY AUDIT
   COMPLETE — every one of the 81 unattached md5-even records in the current
-  catalog has an evidence entry (81/81: 73 matched by direct heading, 8 more
-  confirmed by heading grep — AR-02, ST-06, QI-01, PHR-01, PHR-02, M-15-001,
-  M-15-006, M-15-008 — all real dated entries with identity/access, duration,
-  credentials, language and coverage basis). Spot-checks: AR-02 and M-15-001
-  read in full, both carry the full section-4 basis set. Combined with the
-  I-b checkpoint, the shared verification queue is fully evidenced: all 176
-  unattached records processed, no blocks outstanding. Catalog
-  verification_status for these records remains 'imported' by design —
-  verifiers write only to the verify files; the catalog flip is the degree
-  owners'/integrator's consumption step, gated on Phase 0 closing.
+  catalog has an evidence entry LOCATED (81/81: 73 matched by direct heading,
+  8 more confirmed by heading grep — AR-02, ST-06, QI-01, PHR-01, PHR-02,
+  M-15-001, M-15-006, M-15-008). Headings establish that entries exist, not
+  that every entry meets section 4 in full; the entry spot-checks (AR-02,
+  M-15-001) were partial reads, and M-15-001's credentials rest on the host
+  description rather than a separate institutional page — the standing
+  exceptions recorded by the previous verifiers are retained unchanged.
   deg-verify-a baton released after the audit.
 
 - 2026-10-25 verifier-pplx-1025g (deg-verify-b): Block I-b COMPLETE —
