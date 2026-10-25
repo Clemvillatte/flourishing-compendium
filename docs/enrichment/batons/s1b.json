@@ -1,7 +1,7 @@
 {
  "baton": "s1b",
  "agent": "qc-storyteller-pplx-1025x",
- "clocked_in": "2026-10-25T15:08:30+00:00",
+ "clocked_in": "2026-10-25T15:13:03+00:00",
  "takeovers": [
   {
    "by": "storyteller-caa860fe",
@@ -68,8 +68,12 @@
    "at": "2026-10-25T15:08:30+00:00",
    "from": "qc-storyteller-pplx-1025x",
    "reason": "released"
+  },
+  {
+   "by": "qc-storyteller-pplx-1025x",
+   "at": "2026-10-25T15:13:03+00:00",
+   "from": "qc-storyteller-pplx-1025x",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T15:12:00+00:00"
+ ]
 }
