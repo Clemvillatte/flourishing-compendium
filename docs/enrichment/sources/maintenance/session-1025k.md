@@ -192,3 +192,6 @@ Opened [Seneca, Letter 24, Gummere (Wikisource)](https://en.wikisource.org/wiki/
 
 ## SP082 — Spinoza, Ethics V, P29 quote
 Compared with the Elwes text in [Gutenberg 3800](https://www.gutenberg.org/cache/epub/3800/pg3800.txt): P29 reads "present actual existence of the body"; the page had dropped "actual" inside quotation marks. Restored. Also re-matched the IV P62 proof quotes. S122 (Seneca, On Anger III.36, Stewart) re-matched against [Gutenberg 64576](https://www.gutenberg.org/cache/epub/64576/pg64576.txt).
+
+## SP015 — Ethics III, P27 quote
+The quote (labelled Elwes, Gutenberg 3800) mixed in wording from another translation ("hitherto regarded with no emotion", "affectu simili"). Replaced with the Elwes text in [Gutenberg 3800](https://www.gutenberg.org/cache/epub/3800/pg3800.txt): "which we have not regarded with any emotion ... (affectus)". Ran a prefix-divergence check on all pages citing Gutenberg 3800; this was the only other mismatch beyond SP082.
