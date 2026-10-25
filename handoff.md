@@ -1,5 +1,20 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## LAUNCH RECORD (2026-10-25 11:35Z, launcher-pplx-1025-o, no baton held)
+
+Worker launched per Agent Launcher Protocol Path A (owner-provided email,
+cloud browser, code read by the owner): account patwee584+wgsia@outlook.com
+(sign-in handle patwee584w15203, Free plan), task URL
+https://www.perplexity.ai/computer/tasks/13f96e67-d90d-437f-9ec7-0c1ba20fbeca,
+launched 2026-10-25 ~11:34Z. Worker prompt: docs/enrichment/PROMPT-WORKER.md
+verbatim (8414 chars, paste verified head/tail before submit), filled with the
+owner's NEW session token supplied mid-launch at 11:33Z (the launch-hour
+token rotation replaced the one in the original prompt; this record and the
+git remote use the new token). Obstacle hit and solved: the composer draft
+persisted across navigations via sessionStorage (pplx.activeQuery) and pastes
+appended; fixed by clearing that key + full reload, then one clean paste.
+Expect the new agent to take a baton on next baton.py status.
+
 ## SUPERVISOR NOTE (2026-10-25 10:25Z, launcher-pplx-1025n — supervisor pass 1; open lanes for the newly launched workers)
 
 Board at this note: principles 2182/2182 (100%), concepts 2262/2263, applyable
