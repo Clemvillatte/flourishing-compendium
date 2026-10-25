@@ -71,6 +71,18 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 (session clock 14:50:31Z) worker-pplx-degfin-1 (deg-verify-a):
+  two follow-ups pushed (de36d7225): (1) cloud-browser playback check
+  on the Holden candidate BOUNDED OUT — YouTube served a bot-wall dialog
+  on both hosts (two attempts, stopped per retry bound); recorded
+  honestly in the entry; playback and the guided-standing interval
+  remain open. (2) M23-EX02/EX05/EX06 dead videos RE-CONFIRMED via
+  fresh routes (fetch page_is_incomplete x3; oembed 404 x3; a fresh
+  replacement search found no re-uploads of the numbered series) —
+  the replacement-or-drop decision remains the deg-philosophy owner's;
+  UCSD syllabus trail recorded as a lead. Both entries carry their
+  bases in the verify files.
+
 - 2026-10-25 (session clocks 14:45:30Z-14:48:51Z) worker-pplx-degfin-1
   (deg-verify-a): Holden JhNLTwIQCt8 PARTIAL EVIDENCE UPDATE (see the
   corrected entry in verify/deg-cmp.md; my earlier pushed wording on

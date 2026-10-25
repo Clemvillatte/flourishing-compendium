@@ -101,6 +101,23 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   Daoism fiction.
 - Relevant segment: whole talk, 1:10:54.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25, session
+  clock ~14:52Z): the third-party transcript route, which returned a client
+  error for this video in the prior pass, was RETRIED this session and
+  SUCCEEDED (https://youtubetotranscript.com/transcript?v=yuiYIaaUtds&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself not
+  opened; the speaker's name renders in the auto-captions as "Louis
+  kamiati"). The transcript confirms the talk's substance: classical Daoism
+  as the earliest Daoist religious community, described as loosely affiliated
+  master-disciple communities emphasizing contemplative practice and mystical
+  union with the Dao; Dao shu ("techniques of the Dao"), Zhuangzi passages
+  and inner-cultivation lineage teachings; and the argument that the
+  "philosophical" versus "religious" Daoism distinction is a modern
+  fabrication, with classical Daoism religious from the beginning. The
+  coverage basis is upgraded from description-only to third-party transcript;
+  status upgraded verified-partial to verified-video per the house
+  convention, with the transcript's no-timestamps and no-playback caveats
+  carried.
 
 ### M01-D13: Time in Daoist Culture (Livia Kohn, Collaborative Learning)
 

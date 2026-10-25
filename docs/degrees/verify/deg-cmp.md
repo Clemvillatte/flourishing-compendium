@@ -38,6 +38,21 @@ standard.
   attempted for this video and returned a Cloudflare challenge (HTTP 403) both via
   the fetcher and direct request — no transcript could be opened this session;
   the coverage clause remains description-basis and flagged for the next pass.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25, session
+  clock ~14:52Z): the third-party transcript route RETRIED this session and
+  SUCCEEDED (https://youtubetotranscript.com/transcript?v=87UT-MU_c5A&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself not
+  opened). The transcript confirms the presentation's substance: qi as central
+  to Chinese medical diagnosis and treatment (meridians, organ networks,
+  acupuncture, herbs, self-healing); qi traced through ancient Chinese
+  cosmology (Dao, heaven/earth/humanity, yin-yang, seasons); yangsheng
+  ("nourishing life") and Qigong cultivation (breathing, meditation,
+  visualization, movement). NARROWING CORRECTION against the uploader
+  description: martial arts are NOT a substantial topic in the talk — boxing
+  is mentioned briefly as an example of balancing left and right sides. The
+  coverage basis is upgraded from description-only to third-party transcript;
+  status upgraded verified-partial to verified-video per the house convention,
+  with the transcript's no-timestamps and no-playback caveats carried.
 
 ## Gallery tier selection for mod-qg-3 (Standing), 2026-10-25
 
