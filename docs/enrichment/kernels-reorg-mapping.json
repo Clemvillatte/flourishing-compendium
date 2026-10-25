@@ -1338,12 +1338,12 @@
  },
  "K284": {
   "mods": [
-   "general"
+   "Stoic"
   ],
   "evidence": [
    [
-    "ADVISOR CORRECTION: card grounds in BOTH Stoic (Epictetus) and Confucian (Analects 12.11) traditions; Stoic-only filing didn't follow the single-attribution rule; multi-modal -> general per \"no clear modality, mark general\"",
-    "general"
+    "PROVISIONAL (supervisor ruling needed): card's primary framing is Stoic (\"It is the Stoic practice of role ethics\", Epictetus Enchiridion 17); Confucian (Analects 12.11) is cited as parallel ground. Work order permits multiple modalities (MBCT cards have MBSR secondary). Stoic primary attribution stands; flagged for supervisor in case dual-tradition cards need their own ruling.",
+    "Stoic"
    ]
   ]
  },

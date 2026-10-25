@@ -3798,7 +3798,7 @@ Per-card review is now saturated — further rounds will only re-find the ~17 al
 
 The round-8 note above overstated the Stoic count (said 18; actual is 15). Corrected, file-verified count: Stoic 15, CBT 16, ACT 16, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 (MBSR 2 appears only as the second modality on 2 MBCT cards) = 85 modality-mentions across 82 tagged cards; 234 general; 316 total. All 316 cards have a red modality line. Zero link breakage; build green; edges 32663.
 
-## KERN REORG — ONE REPOSITORY REQUIREMENT NOW MET (gm-pplx-kern1-1025a, 2026-10-25 15:47Z)
+## KERN REORG — RUNTIME VERIFICATION COMPLETE (gm-pplx-kern1-1025a, 2026-10-25 15:52Z)
 
 Implemented the derived collection per the reorg plan's Part 1 recommendation: NAV-PSYCH-KRN now has `derived: 'kernel'` in its navigation, and the nav renderer's GROUP_NODES builder populates derived groups with ALL entries of type 'kernel' regardless of their own primaryPath.
 
