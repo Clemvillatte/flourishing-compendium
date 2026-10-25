@@ -41,10 +41,14 @@
   "R068": "Tier-2 repair + advisor-QC corrections 2026-10-25: Philopractice Noddings page opened (\"I do not relinquish myself\" verbatim), Noddings 2010 Abstracta opened (expressed needs quote); Plain words re-derived, Batson comparison removed from Plain words; validator PASS",
   "R092": "Tier-2 repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; sources opened verbatim (Jenny Mackness Buber quotes, Rogers-Farson 1957 PDF); body first-person lines (\"passages I found\", \"not a quotation I found\") reworded impersonally; validator PASS",
   "R097": "Tier-2 repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; sources opened verbatim (NDPR review, SDU Løgstrup basic-trust paper); one-sided/counterdemand and unspoken-demand claims verified against SDU paper; validator PASS",
-  "R125": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (axe-not-lottery framing, Ojala split kept, tree-quote provenance flagged); validator PASS"
+  "R125": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (axe-not-lottery framing, Ojala split kept, tree-quote provenance flagged); validator PASS",
+  "R045": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.64 is domain-vocabulary repeat (matai, matai system); Plain words already a genuine re-derivation; no work needed per RECREATION-QUEUE caveat",
+  "R049": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.62 is domain-vocabulary repeat (alofa); Plain words already a genuine re-derivation; no work needed",
+  "R058": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.50 is domain-vocabulary repeat (xiao); Plain words already a genuine re-derivation; no work needed",
+  "S040": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.50 is domain-vocabulary repeat (friendship); Plain words already a genuine re-derivation; no work needed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T11:26:33+00:00",
+ "updated": "2026-10-25T11:26:47+00:00",
  "band_done": true
 }
