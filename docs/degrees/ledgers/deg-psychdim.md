@@ -2,55 +2,67 @@
 
 One ledger per degree. Append entries; never rewrite history. Every entry
 carries a UTC timestamp and the agent id. Created 2026-10-25 by
-worker-pplx-psychdim-1 from the TEMPLATE. Matrix v1 (pushed in commit
-428a86b0) is superseded by matrix v2 below; the superseded text is preserved
-in git history.
+worker-pplx-psychdim-1 from the TEMPLATE. The current matrix is v3 below;
+v1 (commit 428a86b0), v2 and the v2.1 addendum (commits a7b746478 and
+6b470727d) are superseded and preserved in git history.
 
-## Corrections (2026-10-25, worker-pplx-psychdim-1)
+## Corrections (2026-10-25, worker-pplx-psychdim-1; updated after advisor round 2)
 
 - The v1 sources table recorded per-source opening times (08:15Z, 08:31Z,
-  08:33Z) that were estimates rather than clock readings. The run clock
-  shows the whole first batch happened between 08:14:44Z and about
-  08:16:40Z. The table below now records the verified date and batch
-  window; exact per-source times were not recorded.
+  08:33Z) that were estimates rather than clock readings; superseded. The
+  v2/v2.1 batch windows (08:14:44 to 08:16:40Z, about 08:19 to 08:23Z,
+  about 08:21Z) were also reconstructions and are superseded. Verified
+  clock facts for this session: T0 08:14:17Z; baton clock-in 08:14:44Z;
+  pushes at 08:16:43Z, 08:20:26Z and 08:21:02Z. Per-source opening times
+  were not recorded; the table below records only the verified date
+  (2026-10-25) and the batch number.
 - Matrix v1's self and overt-behaviour rows presented descriptions from
   Maitland 2024 Table 1 as general EEMM dimension definitions. Re-opening
   the paper shows the table is captioned "Expanded evolutionary meta model
   (EEMM) dimensions and linked FAP targets" and the descriptions sit in
   the FAP column: they are FAP targets linked to the dimensions, not
-  general definitions. Matrix v2 relabels them.
+  general definitions. v2 onward relabels them.
+- The v2.1 row for Woolley, Giurge and Fishbach 2025 described study
+  components (a year-long resolution study, a cross-cultural comparison,
+  step-count measurement, an experiment on intrinsic versus extrinsic
+  emphasis) in language that could read as verified findings. The
+  extraction returned the study design and research questions, not
+  confirmed results; the current row describes what the paper studies.
 
 ## Sources opened
 
 All URLs opened in-session on 2026-10-25 by worker-pplx-psychdim-1; every
 row was fetched and read, not just searched. All are freely accessible (no
-paywall, no app gate). Batch 1 ran between 08:14:44Z and about 08:16:40Z;
-batch 2 between about 08:19Z and 08:23Z; exact per-source times were not
-recorded.
+paywall, no app gate). Per-source opening times were not recorded; rows are
+labelled by batch only (batch 1: first fetch round; batch 2: benchmark
+round; batch 3: Noba and recency round; batch 4: gap-family round).
 
-| URL | opened (UTC) | by | what it verified |
+| URL | opened (2026-10-25, batch) | by | what it verified |
 |---|---|---|---|
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/ | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Hofmann and Hayes 2024, Clinical Psychology in Europe: process-based therapy and the EEMM as a model of models; lists the psychological dimensions as affect, cognition, self, attention, motivation and overt behaviour, with biophysiological and sociocultural levels of analysis; defines adaptation and psychopathology in process terms; idiographic and idionomic analysis |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/ | 2026-10-25, batches 1 and 2 | worker-pplx-psychdim-1 | Maitland 2024, Journal of Contextual Behavioral Science: Table 1 links the six EEMM dimensions to FAP targets and Awareness, Courage and Love categories (FAP-specific applications, not general definitions); the paper describes behaviour as developed and maintained through variation, selection and retention, adaptive or maladaptive based on the individual's context, and process-based change as dynamic, progressive, contextually bound and multilevel |
-| https://oyc.yale.edu/introduction-psychology/psyc-110 | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Yale Open Courses PSYC 110 (Paul Bloom): full lecture list for introductory psychology, free access; covers emotion, motivation, self and other, mental illness, happiness |
-| https://openstax.org/details/books/psychology-2e and https://openstax.org/books/psychology-2e/pages/preface | 2026-10-25, batches 1 and 2 | worker-pplx-psychdim-1 | OpenStax Psychology 2e (Spielman, Jenkins, Lovett et al.): free web and PDF access, CC BY-NC-SA 4.0; 16-chapter table of contents opened in batch 2 (including Psychological Research; Learning; Thinking and Intelligence; Memory; Motivation and Emotion; Personality; Social Psychology) |
-| https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf | 2026-10-25, batch 2 | worker-pplx-psychdim-1 | Yale PSYC S1100 syllabus (Dunham, summer 2026): current Yale introductory curriculum, week-by-week topics (evolutionary roots, mind and brain, unconscious, learning, thinking, memory, development, language and personality, emotion and sleep, social context); names the Noba Project as the free textbook |
-| https://nobaproject.com/modules/thinking-like-a-psychological-scientist | 2026-10-25, batch 2 | worker-pplx-psychdim-1 | Smith, Thinking like a Psychological Scientist (Noba): scientific versus everyday reasoning, falsifiability, induction and deduction, research design, NHST and p-values, Type I and II errors, replication, theories as revisable frameworks |
-| https://nobaproject.com/modules/functions-of-emotions | 2026-10-25, batch 2 | worker-pplx-psychdim-1 | Hwang and Matsumoto, Functions of Emotions (Noba): intrapersonal functions (action readiness, coordination of perception, attention, memory, motivation and behaviour), interpersonal functions (expressions communicate and shape behaviour), social and cultural functions (display rules, norms) |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/ | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Martinez-Priego, Poveda and Roca 2024, Frontiers in Psychology: systematic review of emotion regulation models (Gross process model, Gratz and Roemer difficulties, Garnefski cognitive emotion regulation, Bonanno and Burton flexibility, Pekrun control-value, Lazarus and Folkman coping and others); strategies classified as cognitive, motivational-coping and behavioural; goals as hedonic, instrumental and eudaimonic |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/ | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Ehring 2021, World Psychiatry: rumination and repetitive negative thinking; response styles theory; experimental effects of induced rumination; transdiagnostic RNT evidence across depression, anxiety, PTSD, insomnia, eating disorders and substance use |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/ | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Posner, Rothbart and Ghassemzadeh 2019, Yale Journal of Biology and Medicine: the three attention networks (alerting, orienting, executive attention) with anatomy and modulators, the Attention Network Test, links to affect regulation and to disorders |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Lippelt, Hommel and Colzato 2014, Frontiers in Psychology: focused attention, open monitoring and loving-kindness meditation classified from the practice descriptions; attentional scope and attentional blink effects |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/ | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Manchiraju 2026, Frontiers in Psychology: comprehensive review of self-concept clarity; definition (clarity, internal consistency and temporal stability of self-beliefs); distinctions from self-esteem, self-complexity and identity commitment; the 12-item Self-Concept Clarity Scale and self-report limits; SCC as outcome, predictor, mediator and moderator; lifespan development |
-| https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Ryan and Deci 2020, Contemporary Educational Psychology: intrinsic and extrinsic motivation from a self-determination theory perspective; autonomy, competence and relatedness; the four extrinsic regulations (external, introjected, identified, integrated) and amotivation |
-| https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Carden and Wood 2018, Current Opinion in Behavioral Sciences: habit formation and change; context cues and learned associations; habits versus effortful self-control; change strategies (implementation intentions, reminders, rewards); environment disruption and technology in habit research |
-| https://nobaproject.com/modules/conditioning-and-learning | 2026-10-25, batch 3 (about 08:21Z; exact time not recorded) | worker-pplx-psychdim-1 | Bouton, Conditioning and Learning (Noba): classical and instrumental conditioning, prediction error, blocking, extinction, spontaneous recovery, renewal, reinforcement and punishment |
-| https://nobaproject.com/modules/memory-encoding-storage-retrieval | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | McDermott and Roediger, Memory: Encoding, Storage, Retrieval (Noba): working, episodic, semantic and collective memory; encoding, storage, retrieval; false memories; consolidation and interference |
-| https://nobaproject.com/modules/judgment-and-decision-making | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Bazerman, Judgment and Decision Making (Noba): anchoring, biases, bounded rationality, awareness, ethicality, self-interest, willpower, framing, overconfidence, System 1 and System 2 |
-| https://nobaproject.com/modules/personality-traits | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Diener and Lucas, Personality Traits (Noba): trait consistency and stability, lexical hypothesis and factor analysis, the Five-Factor Model and facets, Eysenck and HEXACO, the person-situation debate |
-| https://nobaproject.com/modules/affective-neuroscience | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Harmon-Jones and Harmon-Jones, Affective Neuroscience (Noba): basic emotional systems (wanting, liking, fear, rage, love, grief), neural structures and neurotransmitters, plasticity of affective circuits |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/ | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Posner 2023, Journal of Intelligence: the evolution and future development of attention networks; cross-species comparisons; development of alerting, orienting and executive networks; covert versus overt attention; network interactions with memory; molecular and genetic aspects. Closes the post-2020 attention recency gap |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: adherence to personal resolutions across time, culture and goal domains; intrinsic versus extrinsic motivation in goal pursuit; year-long resolution study; cross-cultural replication; objective step-count measurement; causal test of intrinsic versus extrinsic emphasis. Grounds the goal-pursuit family for the motivational and overt behavioural dimensions |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/ | batch 1 | worker-pplx-psychdim-1 | Hofmann and Hayes 2024, Clinical Psychology in Europe: process-based therapy and the EEMM as a model of models; lists the psychological dimensions as affect, cognition, self, attention, motivation and overt behaviour, with biophysiological and sociocultural levels of analysis; defines adaptation and psychopathology in process terms; idiographic and idionomic analysis |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/ | batches 1 and 2 | worker-pplx-psychdim-1 | Maitland 2024, Journal of Contextual Behavioral Science: Table 1 links the six EEMM dimensions to FAP targets and Awareness, Courage and Love categories (FAP-specific applications, not general definitions); the paper describes behaviour as developed and maintained through variation, selection and retention, adaptive or maladaptive based on the individual's context, and process-based change as dynamic, progressive, contextually bound and multilevel |
+| https://oyc.yale.edu/introduction-psychology/psyc-110 | batch 1 | worker-pplx-psychdim-1 | Yale Open Courses PSYC 110 (Paul Bloom): full lecture list for introductory psychology, free access; covers emotion, motivation, self and other, mental illness, happiness |
+| https://openstax.org/details/books/psychology-2e and https://openstax.org/books/psychology-2e/pages/preface | batches 1 and 2 | worker-pplx-psychdim-1 | OpenStax Psychology 2e (Spielman, Jenkins, Lovett et al.): free web and PDF access, CC BY-NC-SA 4.0; 16-chapter table of contents opened in batch 2 (including Psychological Research; Learning; Thinking and Intelligence; Memory; Motivation and Emotion; Personality; Social Psychology) |
+| https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf | batch 2 | worker-pplx-psychdim-1 | Yale PSYC S1100 syllabus (Dunham, summer 2026): current Yale introductory curriculum, week-by-week topics; names the Noba Project as the free textbook |
+| https://nobaproject.com/modules/thinking-like-a-psychological-scientist | batch 2 | worker-pplx-psychdim-1 | Smith, Thinking like a Psychological Scientist (Noba): scientific versus everyday reasoning, falsifiability, induction and deduction, research design, NHST and p-values, Type I and II errors, replication, theories as revisable frameworks |
+| https://nobaproject.com/modules/functions-of-emotions | batch 2 | worker-pplx-psychdim-1 | Hwang and Matsumoto, Functions of Emotions (Noba): intrapersonal functions (action readiness, coordination of perception, attention, memory, motivation and behaviour), interpersonal functions (expressions communicate and shape behaviour), social and cultural functions (display rules, norms) |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/ | batch 1 | worker-pplx-psychdim-1 | Martinez-Priego, Poveda and Roca 2024, Frontiers in Psychology: systematic review of emotion regulation models (Gross process model, Gratz and Roemer difficulties, Garnefski cognitive emotion regulation, Bonanno and Burton flexibility, Pekrun control-value, Lazarus and Folkman coping and others); strategies classified as cognitive, motivational-coping and behavioural; goals as hedonic, instrumental and eudaimonic |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/ | batch 1 | worker-pplx-psychdim-1 | Ehring 2021, World Psychiatry: rumination and repetitive negative thinking; response styles theory; experimental effects of induced rumination; transdiagnostic RNT evidence across depression, anxiety, PTSD, insomnia, eating disorders and substance use |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/ | batch 1 | worker-pplx-psychdim-1 | Posner, Rothbart and Ghassemzadeh 2019, Yale Journal of Biology and Medicine: the three attention networks (alerting, orienting, executive attention) with anatomy and modulators, the Attention Network Test, links to affect regulation and to disorders |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/ | batch 3 | worker-pplx-psychdim-1 | Posner 2023, Journal of Intelligence: the evolution and future development of attention networks; cross-species comparisons; development of alerting, orienting and executive networks; covert versus overt attention; interactions with memory; molecular and genetic aspects |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf | batch 1 | worker-pplx-psychdim-1 | Lippelt, Hommel and Colzato 2014, Frontiers in Psychology: focused attention, open monitoring and loving-kindness meditation classified from the practice descriptions; attentional scope and attentional blink effects |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/ | batch 1 | worker-pplx-psychdim-1 | Manchiraju 2026, Frontiers in Psychology: comprehensive review of self-concept clarity; definition (clarity, internal consistency and temporal stability of self-beliefs); distinctions from self-esteem, self-complexity and identity commitment; the 12-item Self-Concept Clarity Scale and self-report limits; SCC as outcome, predictor, mediator and moderator; lifespan development |
+| https://nobaproject.com/modules/personality-traits | batch 3 | worker-pplx-psychdim-1 | Diener and Lucas, Personality Traits (Noba): trait consistency and stability, the lexical hypothesis and factor analysis, the Five-Factor Model and facets, Eysenck and HEXACO, the person-situation debate |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/ | batch 4 | worker-pplx-psychdim-1 | Branje, de Moor, Spitzer and Becht 2021, Journal of Research on Adolescence: identity development 2010 to 2020; dual-cycle models of exploration and commitment; identity domains (educational, vocational, relational, gender, ethnic, religious, illness); daily identity processes; narrative identity; links to adjustment |
+| https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf | batch 1 | worker-pplx-psychdim-1 | Ryan and Deci 2020, Contemporary Educational Psychology: intrinsic and extrinsic motivation from a self-determination theory perspective; autonomy, competence and relatedness; the four extrinsic regulations (external, introjected, identified, integrated) and amotivation |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | batch 3 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: studies adherence to personal resolutions across time, culture and goal domains; examines whether intrinsic versus extrinsic motivation predicts sticking with goals, using a year-long study of New Year's resolutions, a comparison with Chinese New Year resolutions, objective step-count measurement and an experiment testing intrinsic versus extrinsic emphasis; the extraction returned the design and questions, and the results were not separately extracted |
+| https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf | batch 1 | worker-pplx-psychdim-1 | Carden and Wood 2018, Current Opinion in Behavioral Sciences: habit formation and change; context cues and learned associations; habits versus effortful self-control; change strategies (implementation intentions, reminders, rewards); environment disruption and technology in habit research |
+| https://nobaproject.com/modules/conditioning-and-learning | batch 3 | worker-pplx-psychdim-1 | Bouton, Conditioning and Learning (Noba): classical and instrumental conditioning, prediction error, blocking, extinction, spontaneous recovery, renewal, reinforcement and punishment |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/ | batch 4 | worker-pplx-psychdim-1 | Dang 2018 (journal issue dated 2018), Psychological Research: updated meta-analysis of the ego depletion effect; 142 effect sizes; overall Hedges g of 0.38 (95 percent CI 0.31 to 0.45), 0.24 after trim-and-fill adjustment for publication bias, heterogeneity I squared of 60.67 percent; effects varied by task (emotion video g of 0.48; attention video not significant after adjustment); the author calls the restricted analysis tentative |
+| https://nobaproject.com/modules/memory-encoding-storage-retrieval | batch 3 | worker-pplx-psychdim-1 | McDermott and Roediger, Memory: Encoding, Storage, Retrieval (Noba): working, episodic, semantic and collective memory; encoding, storage, retrieval; false memories; consolidation and interference |
+| https://nobaproject.com/modules/judgment-and-decision-making | batch 3 | worker-pplx-psychdim-1 | Bazerman, Judgment and Decision Making (Noba): anchoring, biases, bounded rationality, awareness, ethicality, self-interest, willpower, framing, overconfidence, System 1 and System 2 |
+| https://nobaproject.com/modules/affective-neuroscience | batch 3 | worker-pplx-psychdim-1 | Harmon-Jones and Harmon-Jones, Affective Neuroscience (Noba): basic emotional systems (wanting, liking, fear, rage, love, grief), neural structures and neurotransmitters, plasticity of affective circuits |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/ | batch 4 | worker-pplx-psychdim-1 | Barrett et al. 2025, Perspectives on Psychological Science: the theory of constructed emotion; emotion as whole-brain events involving bodily regulation, action and lived experience; allostasis as the brain's predictive regulation of the body's needs; the theory's claims and the errors it attributes to misreadings |
 
 ## Verification outcomes
 
@@ -61,129 +73,107 @@ independent review). One candidate was rejected during the source strategy:
 
 | source_id | status | evidence | date |
 |---|---|---|---|
-| springer s41465-022-00254-7 (Lodha and Gupta, mindfulness and attentional networks review) | rejected | the Springer page describes subscription content with purchase options, so it fails the owner's no-paywall ruling (2026-10-25); replaced in the strategy by PMC6430178 and PMC4171985 | 2026-10-25 |
+| springer s41465-022-00254-7 (Lodha and Gupta, mindfulness and attentional networks review) | rejected | the Springer page describes subscription content with purchase options, so it fails the owner's no-paywall ruling (2026-10-25); replaced in the strategy by PMC6430178, PMC10301152 and PMC4171985 | 2026-10-25 |
 
-## Coverage matrix (v2, supersedes v1)
+## Coverage matrix (v3, current; supersedes v1, v2 and v2.1)
 
 Module plan (proposal, pending advisor review; module ids are placeholders
 until the integrator band assigns schema ids): M1 orientation, M2 affective,
 M3 cognitive, M4 attentional, M5 self, M6 motivational, M7 overt behavioural,
 M8 capstone. Rows are topic families derived from the opened sources and
-from the opened syllabus and survey-text anchors (Yale 2026 syllabus,
-OpenStax Psychology 2e contents, Yale OYC lecture list); each row names the
-grounding source and carries a mark (essential, elective, excluded with
-reason). Taught, practised and assessed refer to the planned module design;
-no module has been written yet, so every row's delivery status is planned,
-not built.
+the opened syllabus and survey-text anchors; each row names its grounding
+source and carries a mark with a reason. Taught, practised and assessed
+refer to the planned module design; no module has been written yet, so
+every row's delivery status is planned, not built. Gaps named below are
+blocking gaps on the register, not quiet omissions.
 
-| Dimension | Topic family (mark) | Grounded in | Planned module | Taught | Practised | Assessed |
+| Dimension | Topic family (mark, reason) | Grounded in | Module | Taught | Practised | Assessed |
 |---|---|---|---|---|---|---|
-| framework | The six EEMM psychological dimensions in process terms (essential) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/); [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) | M1 | reading both papers | dimension-mapping exercise on a personal example | written definitions in the learner's own words |
-| framework | Evolutionary change processes: variation, selection, retention, and context as the organising frame (essential) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) | M1 | reading | apply the three processes to one own behaviour | rubric-checked application |
-| framework | Idiographic, multilevel analysis; biophysiological and sociocultural levels as context (essential) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/) | M1 | reading | identify levels of analysis in a case study | level-labelling exercise |
-| framework | Research literacy: falsifiability, design, NHST, Type I and II errors, replication, theories (essential) | [Smith, Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist) | M1 | reading plus worked appraisal | appraisal of one study | appraisal rubric |
-| affective | What emotions are and do: intrapersonal, interpersonal and cultural functions (essential) | [Hwang and Matsumoto, Functions of Emotions](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus lecture | function-spotting in a personal episode | episode analysis rubric |
-| affective | Emotion generation versus regulation; strategy families (cognitive, behavioural, motivational-coping) and goals (hedonic, instrumental, eudaimonic) (essential) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading plus Yale OYC emotion lectures (verification pending) | apply the process model to a personal episode | case analysis rubric |
-| affective | Difficulties in emotion regulation and regulatory flexibility (essential) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
-| affective | Affective neuroscience (elective: named in the Yale 2026 syllabus as a Noba module; no dimension review opened yet) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M2 | gap: source to open and verify | gap | gap |
-| cognitive | Core cognitive families: learning, memory, thinking, judgment and decision making (essential; grounded only at survey level, dimension-specific state-of-the-art review still a gap) | [OpenStax Psychology 2e contents](https://openstax.org/books/psychology-2e/pages/preface) chapters 6 to 8; [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) classes 3 and 4 | M3 | gap: survey text plus a review to be sourced | gap | gap |
-| cognitive | Rumination and repetitive negative thinking: defining features and transdiagnostic evidence (essential) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
-| cognitive | Experimental evidence on induced rumination and its appraisal (essential) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
-| attentional | The three attention networks: alerting, orienting, executive attention, with anatomy and modulators (essential) | [Posner, Rothbart and Ghassemzadeh 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
-| attentional | Attention measurement (ANT) and links to disorders and affect regulation (essential) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/) | M4 | reading | interpret sample network scores | interpretation exercise |
-| attentional | Contemplative training as attentional evidence: focused attention, open monitoring, attentional scope (essential; scope limits contemplative science to attentional evidence) | [Lippelt, Hommel and Colzato 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
-| self | Self-concept clarity: definition, distinctions, measurement, lifespan development, evidence limits (essential) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
-| self | Self as an EEMM dimension; FAP's linked target (specification of the stimuli controlling the verbal response "I") presented as one FAP-specific application, not a general definition (essential) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
-| self | Self and identity development, personality, self-esteem (essential family; grounded only at survey level, dimension-specific review still a gap) | [OpenStax Psychology 2e contents](https://openstax.org/books/psychology-2e/pages/preface) chapters 9 and 11 | M5 | gap: source to open and verify | gap | gap |
-| motivational | Intrinsic and extrinsic motivation; the autonomy continuum (external, introjected, identified, integrated) and amotivation; basic needs (essential) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus Yale OYC motivation lecture (verification pending) | classify personal motivations on the continuum | classification with reasons |
-| motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
-| motivational | Goal pursuit and achievement motivation beyond SDT (essential family; no dimension-specific source opened yet) | [OpenStax Psychology 2e contents](https://openstax.org/books/psychology-2e/pages/preface) chapter 10 | M6 | gap: source to open and verify | gap | gap |
-| overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf) | M7 | reading | habit diary with cue analysis | diary rubric |
-| overt behavioural | Learning and conditioning as the substrate of behaviour change (essential family; grounded only at survey level) | [OpenStax Psychology 2e contents](https://openstax.org/books/psychology-2e/pages/preface) chapter 6 | M7 | gap: source to open and verify | gap | gap |
-| overt behavioural | Self-regulation and goal-directed action (essential family; no dimension-specific source opened yet) | survey anchors only | M7 | gap: source to open and verify | gap | gap |
-| overt behavioural | Overt behaviour in the EEMM; FAP's linked target (clinically relevant behaviour) as one FAP-specific application (essential) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M7 | reading | functional analysis of one behaviour pattern | analysis rubric |
-| integrative | Apply all six dimensions to one real behavioural pattern, distinguishing mechanisms from outcomes (essential) | all dimension sources | M8 capstone | synthesis guidance | sustained self-analysis project | public rubric with self-assessment |
+| framework | The six EEMM psychological dimensions in process terms (essential: the owner's degree definition names them) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/); [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) | M1 | reading both papers | dimension-mapping exercise on a personal example | written definitions in the learner's own words |
+| framework | Evolutionary change processes: variation, selection, retention, context (essential: the EEMM's organising frame) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) | M1 | reading | apply the three processes to one own behaviour | rubric-checked application |
+| framework | Levels of analysis: biophysiological and sociocultural as context, idiographic multilevel assessment (essential: the EEMM is multilevel; see the context proposal in the scope doc) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/) | M1 | reading | identify levels of analysis in a case study | level-labelling exercise |
+| framework | Research literacy: falsifiability, design, NHST, Type I and II errors, replication, theories (essential: the owner's exit capability requires critical reading of current research) | [Smith, Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist) | M1 | reading plus worked appraisal | appraisal of one study | appraisal rubric |
+| affective | What emotions are and do: functions across intrapersonal, interpersonal and cultural levels (essential: the affective dimension's core content) | [Hwang and Matsumoto](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus lecture | function-spotting in a personal episode | episode analysis rubric |
+| affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the state-of-the-art debate on regulation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading plus Yale OYC emotion lectures (verification pending) | apply the process model to a personal episode | case analysis rubric |
+| affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
+| affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
+| affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
+| cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
+| cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: the best-grounded state-of-the-art strand of the dimension) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
+| cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
+| attentional | The three attention networks with anatomy and modulators (essential: the field's organising framework) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
+| attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | interpret sample network scores | interpretation exercise |
+| attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
+| self | Self-concept clarity: definition, measurement, development, evidence limits (essential: the best-reviewed structural account of the self) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
+| self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
+| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
+| self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
+| motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: the field's dominant framework) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus Yale OYC motivation lecture (verification pending) | classify personal motivations on the continuum | classification with reasons |
+| motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
+| motivational | Goal pursuit and adherence: intrinsic versus extrinsic reasons, resolution studies (essential: the current state-of-the-art question on sticking with goals; results to be extracted from the paper at module production) | [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/) | M6 | reading | design an adherence analysis for one own goal | analysis rubric |
+| overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf) | M7 | reading | habit diary with cue analysis | diary rubric |
+| overt behavioural | Conditioning and learning as the substrate of behaviour change (essential: the basic learning science behind change) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning) | M7 | reading | identify conditioning processes in daily behaviour | identification exercise |
+| overt behavioural | Self-regulation and self-control: the ego depletion debate with effect sizes and replication status (essential: the field's most instructive replication case; effect sizes and nulls included per the binding rules) | [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/) | M7 | reading | appraise the meta-analysis against the replication literature | appraisal rubric |
+| overt behavioural | Overt behaviour in the EEMM; the FAP target (clinically relevant behaviour) as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M7 | reading | functional analysis of one behaviour pattern | analysis rubric |
+| integrative | Apply all six dimensions to one real behavioural pattern, distinguishing mechanisms from outcomes (essential: the owner's capstone requirement) | all dimension sources | M8 | synthesis guidance | sustained self-analysis project | public rubric with self-assessment |
 
-Excluded rows, with reasons, pending independent review at the coverage
-gate: clinical protocols as treatment (the EEMM papers are treatment
-frameworks; this degree studies the processes, and treatment belongs to
-legacy deg-therapeutic material); wellbeing as outcome science (owned by
-deg-wol-positive); contemplative doctrine (owned by the practica;
-contemplative science appears here only as attentional evidence).
+## Progression spine (v2, current)
 
-## Progression spine (proposal)
+Entry and exit capabilities are observable. M1 entry: none beyond the
+scope assumptions (no psychology background). M1 exit (L1): can define
+the six dimensions and the variation-selection-retention-context frame in
+their own words; can name the levels of analysis; can appraise a simple
+study's design and evidence type using a worked model; can state what the
+degree covers and excludes. M2 to M4 exit (L2): can apply the module's
+core framework to a case not used in the materials, execute a guided
+analysis sequence start to finish, and compare two accounts of the same
+question naming where they disagree. M5 to M7 exit (L2 to L3, scaffolding
+faded): can analyse a novel case without a template, evaluate evidence
+quality (trial versus mechanism, sample, effect size where reported,
+replication status), and adapt a framework to their own pattern with
+reasons. M8 exit (L4): can design, execute and self-assess an integrative
+capstone applying all six dimensions to one real behavioural pattern,
+distinguishing mechanisms from outcomes.
 
-Entry competencies for M1 are the scope doc's entry assumptions (no
-psychology background). The spine increases complexity and learner
-independence: M1 is L1 orientation with fully guided demonstrations; M2 to
-M4 are L2 guided application, each applying a framework to a case not used
-in the materials and comparing two accounts of the same question; M5 to M7
-fade the scaffolding toward L3 independent analysis (appraising evidence
-quality, adapting frameworks to the learner's own patterns with reasons);
-M8 is the L4 synthesis capstone on one real behavioural pattern with
-records and self-assessment. Exact exit competencies per module are written
-at module production, against the skill's four-level taxonomy.
+## Exclusion review (proposed, for independent challenge at the coverage gate)
+
+- Clinical protocols as treatment: excluded as training in treatment
+  delivery (that belongs to legacy deg-therapeutic material). Clinical
+  studies that test psychological mechanisms stay in as evidence about the
+  dimensions; Ehring 2021 on rumination across disorders is exactly this
+  kind of source, and the matrix uses it on that basis.
+- Wellbeing as outcome science: excluded as a degree topic (owned by
+  deg-wol-positive). Outcome evidence remains admissible where an opened
+  dimension source itself uses it to evaluate a process.
+- Contemplative doctrine: excluded (practica). Contemplative science is
+  admitted as attentional evidence; where an opened contemplative-science
+  source also speaks to affect, self or motivation, it may be admitted as
+  evidence for those dimensions without importing doctrine. This is a
+  scope decision proposed for review, stated here so it can be challenged.
+- Levels of analysis: the multilevel row is essential orientation content
+  in M1, grounded in Hofmann and Hayes 2024. The separate owner question
+  is only whether deeper interpersonal or sociocultural study is added as
+  an elective branch; the scope already lists interpersonal material as an
+  elective branch, and no further expansion is proposed.
 
 ## Gap register (blocking or open)
 
-- Dimension-specific state-of-the-art sources still to open: core cognitive
-  families (learning, memory, thinking, judgment), self and identity
-  development beyond self-concept clarity, goal pursuit and achievement
-  motivation beyond SDT, conditioning and self-regulation beyond habits,
-  affective neuroscience (currently elective).
-- Theories of emotion generation and construction are still ungrounded; the
-  Functions of Emotions module covers what emotions do, not how they arise.
-- No verified video lectures attached yet. The recency strategy calls for
-  current state-of-the-art talks per dimension; candidates (Yale OYC,
-  recent conference talks) must pass the skill's verification standard
-  including YouTube oembed plus watch-page duration before attachment.
-- The attentional dimension's opened reviews are 2019 and 2014; a
-  post-2020 open-access state-of-the-art review or talk is still needed to
-  honour the degree's recency commitment.
-- The motivational (2020) and overt behavioural (2018) anchors predate 2021;
-  refresh during module production with newer open reviews or talks.
-- Whether the EEMM's socio-cultural and biophysiological levels appear as
-  context material is a strategist or owner decision, flagged in the scope
-  doc benchmark rather than silently decided.
+- Verified video lectures: none attached yet. Candidates (Yale OYC,
+  current talks) must pass the skill's verification standard including
+  YouTube oembed plus watch-page duration before attachment.
+- Self-regulation beyond the ego depletion debate: Dang 2018 grounds the
+  debate; a broader current self-regulation review is still open if module
+  production needs one.
+- SDT (2020) and habits (2018) anchors predate 2021; refresh during module
+  production with newer open reviews or talks.
+- Woolley et al. 2025 results were not extracted in session; extract the
+  findings from the paper at module production before any factual claim.
+- The Phase 0 pilot stop-gate (README.md) blocks module production until
+  the pilots pass independent review.
 
 ## Gate decisions
 
 | gate | decision | by | date |
 |---|---|---|---|
-| scope | benchmark delivered against opened curricula (see scope doc Benchmark section); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
-| coverage | matrix v2 delivered after advisor round 1 (breadth repair, Maitland relabelling, timestamp correction, progression spine, exclusions marked pending); advisor re-review pending | worker-pplx-psychdim-1 | 2026-10-25 |
-
-## Matrix v2.1 addendum (2026-10-25, batch 3 openings)
-
-Seven further sources opened (five Noba modules, Posner 2023, Woolley et al
-2025; see the sources table). Rows they change:
-
-- Affective neuroscience moves from elective-with-gap to grounded elective
-  for M2 ([Harmon-Jones and Harmon-Jones, Noba](https://nobaproject.com/modules/affective-neuroscience)).
-- Core cognitive families for M3 are now grounded by opened modules rather
-  than only survey-text chapter titles:
-  [Bouton, Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning),
-  [McDermott and Roediger, Memory](https://nobaproject.com/modules/memory-encoding-storage-retrieval)
-  and
-  [Bazerman, Judgment and Decision Making](https://nobaproject.com/modules/judgment-and-decision-making).
-- The self dimension's personality family for M5 is grounded by
-  [Diener and Lucas, Personality Traits](https://nobaproject.com/modules/personality-traits);
-  identity development beyond that still needs a dimension-specific source.
-- The motivational goal-pursuit family for M6 is grounded by
-  [Woolley, Giurge and Fishbach 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/),
-  which also links motivation to measured behaviour for M7.
-- The overt behavioural conditioning family for M7 is grounded by
-  [Bouton, Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning).
-- The attentional dimension's post-2020 recency gap is closed by
-  [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/).
-
-Gap register after this addendum: identity development and
-self-regulation beyond resolution adherence still need dimension-specific
-sources; theories of emotion generation and construction remain ungrounded;
-no verified video lectures yet; SDT (2020) and habits (2018) anchors to be
-refreshed during module production; EEMM socio-cultural and biophysiological
-levels remain a strategist or owner decision.
-
-| gate | decision | by | date |
-|---|---|---|---|
-| coverage | matrix v2.1 addendum: seven further openings close the attention recency gap and ground the cognitive, personality, goal-pursuit, conditioning and affective-neuroscience families; advisor re-review pending | worker-pplx-psychdim-1 | 2026-10-25 |
+| scope | benchmark delivered against opened curricula (see scope doc Benchmark and Exclusion review sections); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
+| coverage | matrix v3 delivered after advisor rounds 1 and 2 (breadth repair, FAP relabelling, timestamp corrections, single current matrix, observable progression competencies, marks with reasons, exclusion review, gap families grounded); advisor re-review pending | worker-pplx-psychdim-1 | 2026-10-25 |

@@ -1,8 +1,8 @@
 # Scope: deg-psychdim — Psychological Dimensions (PBT EEMM)
 
 WALK OF LIFE series (owner directive, 2026-10-25). Status: PROPOSAL by the
-strategist, mapped onto existing module material; the degree owner must
-benchmark it against opened authoritative curricula before the scope gate.
+strategist, benchmarked by the degree owner on 2026-10-25 (see the
+Benchmark section); independent scope-gate review still required.
 
 ## Intended learner
 
@@ -25,19 +25,27 @@ Covers:
 - State-of-the-art reviews and current debates per dimension.
 - A capstone integrating the dimensions on one real behavioural pattern.
 
-Excludes (with reasons; pending independent review at the coverage gate):
-- Clinical protocols as treatment (legacy deg-therapeutic material stays legacy).
-- Wellbeing science as outcomes (owned by A Walk of Life: Positive Psychology).
-- Contemplative doctrine (practica); contemplative science appears only as attentional evidence.
+Excludes (proposed; see the ledger's Exclusion review for the reasoning,
+open to challenge at the coverage gate):
+- Clinical protocols as treatment (legacy deg-therapeutic material stays
+  legacy; clinical studies that test psychological mechanisms stay in as
+  dimension evidence).
+- Wellbeing science as outcomes (owned by A Walk of Life: Positive
+  Psychology; outcome evidence stays admissible where an opened dimension
+  source uses it).
+- Contemplative doctrine (practica); contemplative science appears as
+  attentional evidence, and where an opened contemplative-science source
+  speaks to affect, self or motivation it may serve those dimensions too.
 
 Elective branches:
-- Interpersonal dimension material; computational psychiatry primers.
+- Interpersonal dimension material; computational psychiatry primers;
+  affective neuroscience.
 
 ## Raw material available (measured 2026-10-25)
 
 deg-mind's four teaching modules (affect and emotion, cognition and attention, self and identity, motivation and behaviour) plus its capstone; attached sources: 31 attachments, 25 unique ids (to re-verify or harvest).
 
-## Benchmark against opened authoritative curricula (2026-10-25, degree owner; revised after advisor round 1)
+## Benchmark against opened authoritative curricula (2026-10-25, degree owner; revised after advisor rounds)
 
 Benchmarked against anchors opened this session (opening dates in
 [ledgers/deg-psychdim.md](../ledgers/deg-psychdim.md)):
@@ -57,56 +65,46 @@ Findings:
   dimensions as affect, cognition, self, attention, motivation and overt
   behaviour. The previous "five" wording in this doc was a counting error;
   corrected. The EEMM also names socio-cultural and biophysiological levels
-  of analysis; this scope covers the psychological dimensions and treats
-  those two levels as context material whose inclusion is a strategist or
-  owner decision, flagged here rather than silently decided.
+  of analysis; the proposal is to teach them as M1 orientation context
+  (grounded in Hofmann and Hayes 2024) and keep deeper interpersonal study
+  as the existing elective branch, with the owner free to rule otherwise.
 - Curriculum anchor fit. The Yale 2026 syllabus and OpenStax contents give
   the current introductory topic families (learning, memory, thinking,
   emotion, motivation, personality, social context); they anchor entry-level
-  coverage and expose the breadth the first dimension reviews alone did not
-  cover. The dimension reviews (2018 to 2026) supply state-of-the-art depth
-  on the strands they cover, and the ledger's gap register names the
-  families still needing dimension-specific sources.
-- Exclusions are carried as pending independent review at the coverage gate,
-  not as settled: clinical protocols as treatment (the EEMM papers are
-  treatment frameworks; this degree studies the processes), wellbeing as
-  outcome science (deg-wol-positive), contemplative doctrine (practica;
-  contemplative science appears only as attentional evidence).
-- Recency gaps carried to the ledger's gap register: the attentional
-  dimension's reviews are 2019 and 2014, and the motivational (2020) and
-  overt behavioural (2018) anchors predate 2021. Fresh open-access reviews
-  and current talks are required during module production.
+  coverage and exposed the breadth the first dimension reviews alone did
+  not cover. The dimension reviews and modules (2014 to 2026) now ground
+  each family; the ledger's matrix carries the per-row citations.
+- Exclusions are carried as proposed, with reasoning recorded in the
+  ledger's Exclusion review section, open to independent challenge at the
+  coverage gate (see Bounded domain above for the summary).
+- Recency: the attentional dimension now has a 2023 review
+  ([Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/)), the
+  affective dimension a 2025 theory paper
+  ([Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/))
+  and the motivational dimension a 2025 study
+  ([Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/)).
+  The SDT (2020) and habits (2018) anchors predate 2021; refresh during
+  module production.
 
-## Coverage summary (full matrix in the ledger)
+## Coverage summary (compact matrix; full version with marks and reasons in the ledger)
 
-Essential topic families per dimension, grounded in the opened sources
-(matrix v2 in [ledgers/deg-psychdim.md](../ledgers/deg-psychdim.md)):
+| Dimension and family | Taught in | Practised in | Assessed in |
+|---|---|---|---|
+| framework: EEMM dimensions; variation, selection, retention, context; levels of analysis; research literacy | M1 | M1 exercises (dimension mapping, appraisal) | M1 (definitions, appraisal rubric) |
+| affective: emotion functions; generation versus regulation; constructed emotion; difficulties and flexibility; affective neuroscience (elective) | M2 | M2 exercises (process model on own episode, account comparison) | M2 (episode and case rubrics) |
+| cognitive: conditioning and learning; memory; judgment and decision making; rumination and RNT; evidence appraisal | M3 | M3 exercises (family applications, RNT analysis, study appraisal) | M3 (application and appraisal rubrics) |
+| attentional: three attention networks; ANT and links to disorders and affect; contemplative training as attentional evidence | M4 | M4 exercises (network mapping, score interpretation, practice comparison) | M4 (mapping and interpretation exercises) |
+| self: self-concept clarity; identity development; personality traits; self in the EEMM | M5 | M5 exercises (SCC self-assessment, identity domain chart, trait account) | M5 (write-ups and charts) |
+| motivational: SDT continuum and needs; goals of regulation; goal pursuit and adherence | M6 | M6 exercises (continuum classification, adherence analysis) | M6 (classification and analysis rubrics) |
+| overt behavioural: habits; conditioning substrate; self-regulation and the ego depletion debate; behaviour in the EEMM | M7 | M7 exercises (habit diary, conditioning identification, meta-analysis appraisal) | M7 (diary and appraisal rubrics) |
+| integrative: all six dimensions on one real behavioural pattern | M8 capstone | sustained self-analysis project | public rubric with self-assessment |
 
-- Affective: functions of emotion (intrapersonal, interpersonal, cultural);
-  emotion generation versus regulation and the strategy families; goals of
-  regulation; difficulties and flexibility. Affective neuroscience is
-  elective.
-- Cognitive: core cognitive families (learning, memory, thinking, judgment
-  and decision making; survey-grounded, dimension-specific review still
-  open); rumination and repetitive negative thinking; appraisal of
-  experimental evidence.
-- Attentional: the three attention networks with anatomy and modulators;
-  attention measurement and links to disorders and affect regulation;
-  contemplative training as attentional evidence.
-- Self: self-concept clarity; self as an EEMM dimension (the FAP target is
-  one application); self and identity development, personality and
-  self-esteem (survey-grounded, dimension-specific review still open).
-- Motivational: intrinsic and extrinsic motivation with the autonomy
-  continuum and basic needs; goals of regulation and motivation; goal
-  pursuit and achievement motivation beyond SDT (still open).
-- Overt behavioural: habit formation and change; conditioning as substrate
-  (survey-grounded, still open); self-regulation and goal-directed action
-  (still open); overt behaviour in the EEMM.
-- Integrative: a capstone applying all six dimensions to one real
-  behavioural pattern.
-
-Open items per family are on the ledger's gap register; the matrix marks
-every row essential, elective or excluded with reasons.
+Progression: M1 exit is L1 (define, identify, follow, state scope); M2 to
+M4 exits are L2 (apply to a new case, execute a guided sequence, compare
+accounts); M5 to M7 exits fade scaffolding toward L3 (analyse without a
+template, appraise evidence quality, adapt with reasons); M8 exit is L4
+(design, execute and self-assess the integrative capstone). Observable
+statements are in the ledger's progression spine.
 
 ## Owner items
 
