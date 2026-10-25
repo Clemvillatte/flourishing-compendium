@@ -137,3 +137,7 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 ## 2026-10-25 15:24Z — QC session end (qc-storyteller-pplx-1025x)
 
 - s1c-026 (Darwin letters) sampled - all 5 quotes VERBATIM. Final session totals for s1c: 28 of 38 ready drafts sampled. Baton released; lane in ready state for registration.
+
+## 2026-10-25 15:24Z — QC final sample (qc-storyteller-pplx-1025x)
+
+- s1c-030 (Zhuangzi ch. 5 Duke Ling) sampled - all 5 quotes VERBATIM on both carriers. Final session totals for s1c: 29 of 38 ready drafts sampled. Baton released; lane in ready state.
