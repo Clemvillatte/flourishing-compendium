@@ -19,7 +19,6 @@
     "AF071",
     "AT030",
     "BE045",
-    "BI021",
     "BI025",
     "BI030",
     "BI042",
@@ -30,7 +29,8 @@
     "M017",
     "M018",
     "M020",
-    "BI024"
+    "BI024",
+    "BI021"
   ],
   "in_progress": null,
   "flagged": {
@@ -53,11 +53,12 @@
     "M018": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
     "M020": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
     "BE045": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived (evidence-limitation framing); body first-person lines reworded; validator PASS",
-    "BI024": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.67)"
+    "BI024": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.67)",
+    "BI021": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.57)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:24:42+00:00",
+  "updated": "2026-10-25T12:25:24+00:00",
   "band_done": false,
   "notes": {
     "BI024": {
@@ -65,6 +66,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://pubmed.ncbi.nlm.nih.gov/30099000/"
+    },
+    "BI021": {
+      "qc": "Plain-words replicate replaced (0.57 -> ~0.05); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22884182/"
     }
   }
 }

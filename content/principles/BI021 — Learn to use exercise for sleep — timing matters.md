@@ -21,7 +21,7 @@ On timing, a meta-analysis of 23 studies of single evening sessions in healthy a
 The experiments mostly involve healthy, good sleepers and single sessions. The advice that morning or afternoon is "safest" has no direct support in the studies above, and Dolezal 2017 is listed as further reading rather than summarized here. Individual responses vary, so a personal test is more informative than a rule.
 
 **Plain words**
-Regular exercise helps sleep. Hard exercise in the last hour before bed may delay sleep, while earlier evening sessions usually do not.
+The old advice to never train at night has mostly fallen apart; the studies now say evening exercisers sleep about the same as anyone else. The one real exception is narrow: a hard session that ends less than an hour before lights out. Finish vigorous work two hours before bed and the problem, to the extent the measurements can see one, goes away.
 
 **For example**
 For two weeks, keep hard sessions at least two hours before bed, and compare your sleep log with the previous fortnight.
