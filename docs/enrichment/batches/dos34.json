@@ -10,6 +10,16 @@
     "SUPERVISOR/OWNER: does the page as revised satisfy the 3-5 substantiated-disagreement bar (one genuine disagreement plus three bounded comparisons), or does it need further research into genuinely opposed positions?",
     "SUPERVISOR/OWNER: registry flip and rebuild blocked on artwork assignment for leisure (same blocker as creation/creativity/procrastination); dossier is check-green otherwise"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025k",
+   "state": "QC round 9: Adorno (Free Time essay, xenopraxis full-text PDF) and Stebbins (LSA Newsletter 79, seriousleisure.net PDF) added as first-hand comparisons; advisor QC ruled BOTH are qualifications, not substantiated disagreements (Adorno targets free time, not Pieper's capacity; Stebbins's contrast is reward-source, not essence-denial); referent error on the Adorno opening fragment caught and removed; checking-apparatus language moved to ledger. Page carries ONE substantiated (Aristotle vs Russell); 3-5 bar NOT met. All checks green (checker exit 0, 25 links, 15 headers, 27 carriers, quotes 28/28, density 0, voice 0).",
+   "verification": "both new carriers fetched with curl, extracted with pdftotext, read; all quoted fragments raw substring matches (Adorno: 4 quotes; Stebbins: 4 quotes + 'counts as well' paraphrase); no new documented exceptions",
+   "flags": [
+    "SUPERVISOR/OWNER: 3-5 substantiated-disagreement bar still unmet for leisure; next lead recorded in ledger (UTS accepted manuscript on the serious-leisure perspective)",
+    "OWNER: registry flip and rebuild still blocked on artwork assignment for leisure"
+   ]
   }
  ],
  "in_progress": "",
