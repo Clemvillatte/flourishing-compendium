@@ -71,36 +71,47 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
-- 2026-10-25 (scope: since b6aa42884, including subsequent additions)
+- 2026-10-25 (scope: whole session, since the 0d8f812e3 baton claim)
   worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
-  3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 38
-  cards worked via the third-party transcript route. FINAL SECTION-4
+  3864101ca, fd4410dea, 450ce7480, 7b210f70d, 057425732, ce8bacc4a,
+  846f08654, plus the final saves). 44 cards worked via the third-party
+  transcript route. FINAL SECTION-4
   RULING (QC correction, pushed in the final saves): after reading the
   binding standard itself (docs/degrees/skill/curriculum-design/Skill.md
   section 4: instructor credentials must be verified on a biography or
-  institutional page, NOT the recording's/host's own description), 27 of
-  the 29 cards upgraded earlier this session were REVERTED to
+  institutional page, NOT the recording's/host's own description), 32 of
+  the 35 cards upgraded earlier this session were REVERTED to
   verified-partial with their coverage evidence retained in-file and a
   STATUS NOT UPGRADED note naming the open credentials gate — their
-  credential lines cite host/uploader descriptions. 2 UPGRADES RETAINED
+  credential lines cite host/uploader descriptions (the 32 = the 27
+  post-baseline reverts PLUS the 5 first-batch wellbeing cards
+  M08-P15/P09/P12/P13/P10, commits b6c1c1577/b6aa42884, re-audited
+  against the pre-session baseline). 3 UPGRADES RETAINED
   (actual institutional sources recorded): SRC-M25-003 Warren (Cambridge
-  Faculty of Classics page) and M04-R15 Mika (opened Canterbury profile
-  page; dual-duration flag retained). 30 RETAINED-PARTIAL with coverage
-  evidence: the 27 reverted above plus the 3 earlier retained-partial
-  evidence records (M06-AF07 Gross, SRC-M09-005 Rollnick, M23-EX04
-  Zahavi). 2 FRESH CORROBORATIONS with no status change: M08-S13,
+  Faculty of Classics page), M04-R15 Mika (opened Canterbury profile
+  page; dual-duration flag retained) and M08-P03 Seligman (Penn Positive
+  Psychology Center page, ppc.sas.upenn.edu). 35 RETAINED-PARTIAL with
+  coverage evidence: the 32 reverted above plus the 3 earlier
+  retained-partial evidence records (M06-AF07 Gross, SRC-M09-005
+  Rollnick, M23-EX04 Zahavi). 2 FRESH CORROBORATIONS with no status change: M08-S13,
   M08-S15 (M08-S15 was already verified-video; an earlier note's upgrade
   claim was corrected this pass). 4 unsuccessful probes (not verified
   cards): M08-S01 (Markus Sage-CASBS), M05-XP-04 (Chittick), M05-SP-05
-  (Beth Lord), M16-P01 (Kristjánsson). The 2-upgrade count is
+  (Beth Lord), M16-P01 (Kristjánsson). The 3-upgrade count is
   MECHANICALLY AUDITED: a git comparison of the Verification status
-  fields between b6aa42884 and HEAD shows exactly 2 PARTIAL→VIDEO
-  changes remaining (SRC-M25-003, M04-R15), matching this ledger.
+  fields between the baton-claim baseline (0d8f812e3) and HEAD shows
+  exactly 3 PARTIAL→VIDEO changes remaining (SRC-M25-003, M04-R15,
+  M08-P03), matching this ledger. The same whole-session audit found two
+  more current-session upgrade CLAIMS that were never carried into their
+  status lines (QI-01 in deg-cmp, M01-D11 in deg-contemplative, commit
+  5641d6465) — both notes' claims were WITHDRAWN (846f08654): their
+  status lines already read verified-partial and the section-4
+  credentials gates (host/uploader descriptions) keep them there.
   QC-repair pass also corrected stamp bounds (batches 2-3 had cited
   pre-writing clock readings) and reconciled counts (a commit message
   said 13 for a 16-card batch; an earlier checkpoint said 25 for a
-  28-card enumeration — history left as pushed, corrected here). SECTION-4 CREDENTIALS GATE (supersedes the earlier flag): all 27
+  28-card enumeration — history left as pushed, corrected here). SECTION-4 CREDENTIALS GATE (supersedes the earlier flag): all 32
   host-description-basis cards are now reverted to verified-partial in the
   files; the owner can clear each gate by attaching a biography or
   institutional page, at which point the recorded coverage evidence
