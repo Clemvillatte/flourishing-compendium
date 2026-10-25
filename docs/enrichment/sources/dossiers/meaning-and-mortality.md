@@ -399,3 +399,28 @@ two substantiated disagreements. Publication remains blocked by the
 third-disagreement requirement or an explicit owner exception, and by the
 supervisor's overlap/registration decision (impermanence-replaces vs own
 slug). Both gates flagged; not waived.
+
+## Registration options for the supervisor/owner (2026-10-25 10:59Z, worker-pplx-dossiers-1025bb)
+
+Evidence for the open decision — own slug vs fold into the
+impermanence-replacement:
+- Card overlap: 13 of this dossier's 24 unique cards (54%) are shared with
+  impermanence (Being-toward-death, Finitude, memento mori cluster,
+  Epicurean argument, death-anxiety research, K222/K226/K316, M037, ST272,
+  Death reflection/acceptance).
+- Distinct material impermanence does not carry: the Buddhist
+  recollection (AN 5.57) vs Stoic memento mori (Marcus II.11, Seneca 12)
+  vs Heideggerian Being-toward-death practice-reading, Zhuangzi's
+  skull-exchange, the Aztec xochicuicatl, and the scientific record
+  (mortality salience, fear-of-death consolidation, Cozzolino 2004) —
+  this dossier's core is HOW death-awareness is practiced, impermanence's
+  is doctrine and grief.
+- Registration trade-offs: own slug keeps the practice-analysis and
+  dispute sections intact but needs the below-bar 2-disagreement question
+  resolved (owner exception or a genuine third); folding into
+  impermanence dissolves the below-bar question but risks diluting the
+  scientific record and the cross-tradition practice reading, which have
+  no impermanence counterpart.
+- Worker's non-binding read: register as its own slug; if the owner
+  prefers folding, the Epicurus/Nagel and Marcus/Spinoza disputes and the
+  scientific-record section should survive the merge verbatim.
