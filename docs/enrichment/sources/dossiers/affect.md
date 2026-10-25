@@ -336,3 +336,7 @@ The attribution restatements were checked against their card bodies: fear (Öhma
 ## Note — manifest disambiguation instruction met (2026-10-25, dos2)
 
 The band manifest requires the family (Anger, Anxiety, Happiness) to be disambiguated without being absorbed. The specific-states sentence now names anger, anxiety, fear, sadness and happiness — each treated on its own — covering the manifest's named family members with their own dossiers (anger.md, anxiety.md, happiness.md) and fear/sadness alongside.
+
+## Note — story loglines verified against card bodies (2026-10-25, dos2)
+
+All story-section loglines were checked against their story cards: ST160 (Medea), ST062 and ST187 (Inside Out, checked earlier this session), ST425 (Duchenne), ST146 (Achilles), ST170 (lotus-eaters), ST185 (gentle person's anger), ST401 (Dipa Ma), ST429 (backsliding into abundance) — each logline compresses its card faithfully; no embellishment found.
