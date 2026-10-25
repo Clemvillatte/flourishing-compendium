@@ -3637,3 +3637,12 @@ For multi-modality cards (CBT+ACT, MBCT+MBSR, BA+CBT — 5 total), the red line 
 K-IDs preserved (no renumbering) — every corpus-wide [[K###]] wikilink stays intact; navigation.primaryPath is the only field edited, pointed at the new modality folder. File names unchanged (same "K100 — Breath anchoring.md" inside a new modality folder), so no path-breakage on disk or in build discovery.
 
 PENDING APPROVAL. Do not apply until the owner/supervisor signs off. Flagged for supervisor disposition of (1) whether "general" as the majority bucket is acceptable per the work order's own instruction; (2) whether the 5 multi-modality cards should list both or pick one primary.
+
+## KERNELS REORGANIZATION — ACT pilot verified + disposition of validator front-matter rule
+
+ACT pilot (commit 794ccfb78) verified: 14 kernels moved to NAV-PSYCH-ACT; red `> **Therapeutic approach: ACT**` blockquote above `## Operationalises`; edge count 32663 → 32663 (preserved); build ok (5948 entries); all 14 resolvable in the graph (no orphans). Two prose-length false positives (K173, K405) were resolved by rendering the red line as a blockquote (skipped by `prose_text`).
+
+**Validator disposition (front-matter changed, 8 ACT kernels):** `enrich_validate.py` hard-rejects any front-matter change. This reorg changes `navigation.primaryPath` in front-matter by design — an owner-authorized structural edit, not a prose-enrichment drift. `--base` cannot accommodate it without a per-change exemption. ACTION for next supervisor: add a `REORG_BASE` mechanism or a front-matter allow-list for `navigation.primaryPath` only, so structural reorgs validate cleanly. Do not weaken the rule for normal enrichment — this is a narrow carve-out for nav-reorg commits, gated on a supervisor-approved base-commit and recorded in the QC log.
+
+Next folder in the queue: MI (14 kernels), then CBT (11), CFT (9), MBCT (9), Stoic (5), DBT (2), BA (1), then the multi-modality cards, then the "general" bucket (246 — flagged for owner: is "general" as the majority bucket acceptable, or should the 246 be re-scoped/spot-audited before refile?).
+
