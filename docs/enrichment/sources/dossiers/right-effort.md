@@ -316,3 +316,23 @@ doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## GF-model restructuring revision (2026-10-25, worker-pplx-dos24-1025a, dos23 baton)
+
+Per the 2026-10-25 owner-validated orders and the supervisor review
+table row ("Not yet reworked... Rewrite in the model"), the main body
+was dissolved from the old one-line-gloss-list map format into connected
+interwoven prose:
+
+- "## The map: the entries on right effort" replaced with "## Where
+  the effort goes", and its four subsections given question-style
+  headings ("What the factor asks for", "What the four directions
+  train", "How much is enough", "What the disciplines aim effort at").
+- Each subsection's one-line gloss lists rewritten into connected
+  prose; every card link and every verified fact preserved verbatim;
+  no quotes changed.
+- One dense paragraph (6 card links in 67 words) split into two;
+  the file now reports 0 dense paragraphs.
+
+dossier_check.py exit 0 (39 card links, 14 headers, 5 external
+carriers). dossier_density.py: 0 dense paragraphs.
