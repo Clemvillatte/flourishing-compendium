@@ -1,8 +1,127 @@
-# Verification evidence: deg-mind (Block I, unattached records)
+# Verification evidence: deg-mind (Blocks D and I)
 
-Verifier: verifier-pplx-a1 (baton deg-verify-a). Verification standard: skill section 4.
-These are unattached records from the Block I hash half for deg-verify-a, verified
-2026-10-25 so owners can attach them with evidence on file.
+Two verifiers share this degree file. Block D (deg-verify-b, verifier-pplx-b1):
+verification standard: skill section 4. Verification dates recorded per
+source. Method note as verify/deg-wol-greek.md: identity from oembed plus
+the watch page, duration from the watch page player or structured
+metadata, content from the recording's own description, chapters and
+transcript panel, credentials from institutional pages. Block I
+(deg-verify-a, verifier-pplx-a1): unattached records from the Block I hash
+half for deg-verify-a, verified 2026-10-25 so owners can attach them with
+evidence on file.
+
+## Block D status
+
+25 unique attachments. Verified below: M06-AF09, M06-CO04, M06-AF01,
+M06-AF03. Already verified in the manifest: SRC-M28-001 through
+SRC-M28-007 and M06-AT02 (same recording as SRC-M28-002). Queued for the
+next session: M06-AF03's sibling recordings, M06-AF04, M06-AF05, M06-AF06,
+M06-CO05, M06-CO02, M06-AT01, SRC-M07-001, SRC-M07-004, SRC-M07-005,
+SRC-M07-007, SRC-M07-008, SRC-M07-019.
+
+### M06-AF09: How Positive Emotions Work and Why (Barbara L. Fredrickson)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: oembed confirms the video on the Aalto University channel,
+  title "How Positive Emotions Work and Why, Barbara L. Fredrickson, 21 Jun
+  2010" (https://www.youtube.com/watch?v=nD_SbilNMo4). Freely playable,
+  no paywall.
+- Duration: 1:47:18 printed in the player (2026-10-25).
+- Instructor credentials: Barbara L. Fredrickson, Kenan Distinguished
+  Professor of Psychology and Neuroscience at the University of North
+  Carolina at Chapel Hill, director of the Positive Emotions and
+  Psychophysiology Laboratory (UNC faculty page:
+  https://socialpsych.unc.edu/faculty/, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: guest lecture at Aalto University, 21 June 2010, archived and
+  published 8 February 2019.
+- Content coverage (from the recording's own chapter list, read
+  2026-10-25): her broaden-and-build theory of positive emotions,
+  including defining positive emotions (6:11), broaden and build (8:31),
+  downstream consequences (20:13), cellular and physical impact (30:14),
+  vagal tone and meditation (38:57), transforming relationships (44:42),
+  flourishing as a process (52:24), the 3:1 positivity ratio (55:05),
+  practical application (1:00:30) and discussion of resilience (1:07:05).
+- Relevant segments: broaden and build 8:31 to 20:13; vagal tone and
+  meditation 38:57 to 44:42; flourishing 52:24 to 1:00:30.
+- Verification status: verified-video (2026-10-25).
+- Note: the 3:1 positivity ratio chapter presents Fredrickson's own
+  then-current research; the owner should treat that segment as
+  historical, as later work revised the ratio claim.
+
+### M06-CO04: Feeling and Knowing (Antonio Damasio)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: oembed confirms the video on the Harvard Science Book Talks
+  and Research Lectures channel, title "Antonio Damasio, 'Feeling &
+  Knowing: Making Minds Conscious'"
+  (https://www.youtube.com/watch?v=PrVJflJLooc). Freely playable, no
+  paywall.
+- Duration: 59:38 printed in the player (2026-10-25); a 53:55 figure on the
+  page belongs to a recommended video.
+- Instructor credentials: stated in the recording's own description and
+  read there (2026-10-25): University Professor and David Dornsife
+  Professor of Neuroscience, Psychology and Philosophy, and director of the
+  Brain and Creativity Institute at the University of Southern California.
+- Language: English. The watch page offers a transcript panel.
+- Event: Harvard Science Book Talk, published 28 January 2022.
+- Content coverage (from the recording's own description and chapter list,
+  read 2026-10-25): Damasio presents his book Feeling & Knowing, arguing
+  feelings arise from homeostasis and open the way to consciousness;
+  chapters include homeostatic feelings (13:46), nervous systems (18:13),
+  emotions (30:49), sensing versus feeling (39:17), free will (46:07) and
+  conclusion (58:36).
+- Relevant segments: homeostatic feelings 13:46 to 23:05; sensing versus
+  feeling 39:17 to 42:21.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AF01: Evolution, Emotion, and Reason, Emotions Part I (Paul Bloom)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: oembed confirms the video on the YaleCourses channel, title
+  "11. Evolution, Emotion, and Reason: Emotions, Part I"
+  (https://www.youtube.com/watch?v=8UySWKNjw5Y). Freely playable, no
+  paywall.
+- Duration: 53:14 printed in the player (2026-10-25); the nearby 56:07
+  figure belongs to the recommended Part II lecture.
+- Instructor credentials: Paul Bloom, then Yale professor, Brooks and
+  Suzanne Ragen Professor Emeritus of Psychology at Yale, PhD from MIT,
+  the recorded instructor of the Spring 2007 PSYC 110 course (Open Yale
+  Courses page: https://oyc.yale.edu/introduction-psychology/psyc-110,
+  opened 2026-10-25; Yale Psychology page:
+  https://psychology.yale.edu/people/paul-bloom, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: Yale PSYC 110 Introduction to Psychology, recorded Spring 2007,
+  published 30 September 2008.
+- Content coverage (from the recording's own description, read
+  2026-10-25): evolutionary analysis of human emotions, with case studies
+  of happiness and smiling, fear, and emotions toward relatives; chapters
+  include Phineas Gage (9:06), facial expressions and smiles (15:45),
+  fear (32:22), social emotions and altruism (36:29).
+- Relevant segments: Phineas Gage 9:06 to 15:45; smiles 15:45 to 32:22;
+  social emotions and altruism 36:29 to end.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AF03: The Good Life, Happiness (Paul Bloom)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: oembed confirms the video on the YaleCourses channel, title
+  "20. The Good Life: Happiness" (https://www.youtube.com/watch?v=7dep9KPWp3g).
+  Freely playable, no paywall.
+- Duration: 47:35 printed in the player (2026-10-25).
+- Instructor credentials: same as M06-AF01 (Open Yale Courses and Yale
+  Psychology pages, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: Yale PSYC 110, recorded Spring 2007, published 30 September 2008.
+- Content coverage (from the recording's own description, read
+  2026-10-25): the course's final lecture wraps clinical psychology with
+  treatment efficacy, then turns to positive psychology and happiness,
+  how happiness varies across person and culture, and affective
+  forecasting errors; chapters include therapy (0:00), happiness and
+  positive psychology (11:16), getting used to happiness (18:58) and
+  closing remarks (42:41).
+- Relevant segments: happiness and positive psychology 11:16 to 42:41.
+- Verification status: verified-video (2026-10-25).
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
