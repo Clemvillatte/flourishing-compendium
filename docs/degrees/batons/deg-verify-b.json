@@ -21,5 +21,7 @@
    "from": "verifier-pplx-1025g",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:19:50+00:00"
 }
