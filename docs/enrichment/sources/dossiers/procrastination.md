@@ -663,21 +663,23 @@ carriers), quote_verify 13 automated + 1 og:description metadata match,
 density 0, voice 0. A re-review of the current text is warranted; the
 published registry state is unaffected.
 
-## Independent post-publication spot-check (2026-10-25 10:52Z, launcher-pplx-1025b, no baton)
+## Independent post-publication spot-check (2026-10-25, launcher-pplx-1025b; corrected 10:59Z under the dos33 baton)
 
-Corroborating verification for the supervisor's post-publication review: the
-one quote_verify NOT-FOUND on the freshly published dossier is a fetch
-artifact, not a fidelity problem. The Chowdhury 2016 span ("correlational
-results revealed that active procrastination has been mislabeled as a type
-of procrastination that is more appropriately construed as purposeful delay
-with adaptive qualities") was re-verified verbatim this pass against the
-full thesis PDF (Chowdhury, S. (2016). The Construct Validity of Active
-Procrastination: Is it Procrastination or Purposeful Delay? MA thesis,
-Carleton University — the Semantic Scholar record's own linked PDF; abstract
-read directly). The Semantic Scholar HTML page is JS-rendered, which is why
-the checker cannot see the text. Mechanical checks at this pass:
-dossier_check exit 0 (40 card links, 18 headers, 15 carriers); density 0;
-quote_verify 14 checked / 1 not found (this artifact, now resolved).
+Corroborating verification for the supervisor's post-publication review.
+FINDING (narrow): the Chowdhury 2016 span ("correlational results revealed
+that active procrastination has been mislabeled as a type of
+procrastination that is more appropriately construed as purposeful delay
+with adaptive qualities") matches, word-for-word, the abstract of the PDF
+opened this pass: https://scispace.com/pdf/the-construct-validity-of-active-procrastination-is-it-1uo2j1sb5o.pdf
+(Chowdhury, S. (2016). The Construct Validity of Active Procrastination:
+Is it Procrastination or Purposeful Delay? MA thesis, Carleton
+University). The automated dossier_quote_verify check failed to match this
+span against its recorded carrier (the Semantic Scholar paper page); the
+cause of that failure was not diagnosed this pass. The two render-check
+addenda below (grid/detail render PASS) stand as recorded. Mechanical
+checks at this pass: dossier_check exit 0 (40 card links, 18 headers, 15
+carriers); density 0; quote_verify 14 checked / 1 not found (this span,
+verified against the PDF above).
 
 Live-deploy verification (2026-10-25 ~10:57Z, worker-pplx-dos33-1025n2):
 cloud-browser pass on the Pages deploy — grid shows Procrastination

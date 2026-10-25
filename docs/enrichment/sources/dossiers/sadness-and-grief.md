@@ -406,24 +406,27 @@ quote count 29 -> 32 as a result). Checks: dossier_check exit 0
 (35 card links, 17 headers, 27 carriers); quote_verify 32 checked /
 0 not found; density 0; app.js rebuilt (78 blocks), node --check OK.
 
-## Independent post-release verification (2026-10-25 10:56Z, launcher-pplx-1025b, no baton)
+## Independent post-release verification (2026-10-25, launcher-pplx-1025b; corrected 10:59Z under the dos28 baton)
 
-Both Freud spans from the dos28 close independently re-verified against a
-freshly downloaded copy of the Strachey Standard Edition text of Mourning
-and Melancholia. The dossier's carrier URL (the ia803101.us.archive.org
-node) was NOT reachable from this environment (connection closed); the
-same item file was fetched via the canonical
+Both Freud spans from the dos28 close re-verified against a downloaded
+copy of the Strachey Standard Edition text of Mourning and Melancholia,
+fetched via the canonical
 https://archive.org/download/FreudMourningAndMelancholia/Freud_MourningAndMelancholia_text.pdf
-path (same item, 479 KB PDF). Both spans match the extracted text
-word-for-word: "when the work of mourning is completed the ego becomes
-free and uninhibited again" and "each single one of the memories and
-expectations in which the libido is bound to the object is brought up and
-hypercathected, and detachment of the libido is accomplished in respect
-of it" (the printed text capitalizes "Each" at its sentence start; the
-dossier embeds it mid-sentence with lowercase — standard case adjustment,
-wording otherwise exact). Robustness note: the canonical archive.org
-download URL is the more durable carrier if a future pass wants to update
-the link; no dossier change required now.
+path (same item as the dossier's carrier, 479 KB PDF). FINDINGS: (1) the
+span "when the work of mourning is completed the ego becomes free and
+uninhibited again" matches the extracted text word-for-word. (2) the span
+"each single one of the memories and expectations in which the libido is
+bound to the object is brought up and hypercathected, and detachment of
+the libido is accomplished in respect of it" matches the extracted text
+word-for-word EXCEPT that the printed text begins "Each single one"
+(capital E, sentence start) while the dossier embeds it mid-sentence with
+lowercase "each" — a case adjustment at the point of embedding, not a
+wording difference; recorded here so the adjustment is explicit rather
+than silent. (3) CORRECTION of my earlier note: I did not test the
+dossier's exact carrier URL (ia803101.us.archive.org) — my failed request
+used a mistyped hostname (a803101..., missing the leading i), so the
+"unreachable" diagnosis is withdrawn; the canonical download URL above
+is simply the URL I actually used. No dossier change required.
 ## Rev — humanizer pass, contrast scaffolds removed (worker-pplx-1025-launchb, baton dos28, 2026-10-25 10:50Z)
 
 Prose revision only: no quotes, links, claims or evidence changed. The
