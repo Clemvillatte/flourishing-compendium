@@ -13067,6 +13067,41 @@ window.fcDossiersData = {
           "x": "The two passages sit on either side of the question whether the holy life requires walking out of the duties a life was born into, and neither addresses the other: one tells of a departure that grieves a household, the other of a refusal to let a warrior abandon his. Whether the traditions disagree turns on a difference of target: the Gita's renunciation is the abandonment of action, the Buddhist going-forth is the abandonment of the home, and each could say the other has misdescribed what it is renouncing. The question left to the reader is whether the duties of a life are obstacles to be left behind or the very material of the practice."
         },
         {
+          "t": "h2",
+          "x": "Is pleasure the aim of a well-led life?"
+        },
+        {
+          "t": "p",
+          "x": "Epicurus calls freedom from pain and disturbance pleasure, and makes it the aim:"
+        },
+        {
+          "t": "q",
+          "x": "\"For this reason we call pleasure the alpha and omega of a happy life.\" ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"By pleasure we mean the absence of pain in the body and of trouble in the soul.\" (same letter)",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Dhammapada verses turn away from sensual and heavenly pleasures toward the ending of craving:"
+        },
+        {
+          "t": "q",
+          "x": "\"There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain. Having understood this, the wise man finds no delight even in heavenly pleasures. The disciple of the Supreme Buddha delights in the destruction of craving.\" ([Dhammapada 186-187, Buddharakkhita trans.](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The passages invite comparison, but they do not establish opposing answers about Epicurus's kind of pleasure. Epicurus keeps the word pleasure for the quiet condition that follows when pain and disturbance are gone, and the verses do not address that condition; what they turn away from is sensual and heavenly delight, which Epicurus also rejects. Whether the quiet condition Epicurus calls pleasure is the same thing the verses point to when they speak of the ending of craving is a question these two texts leave open."
+        },
+        {
+          "t": "p",
+          "x": "Limits: one letter and two verses. The Letter to Menoeceus is a summary Epicurus wrote for a student, and the page extract I used garbled part of a longer passage, so I quote only the lines that read cleanly. I have not opened the Buddhist discourses that grant sensual pleasure a real gratification before listing its drawbacks."
+        },
+        {
           "t": "h",
           "x": "Where the traditions genuinely disagree"
         },
@@ -13156,6 +13191,54 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "Limits: three Gita verses and two Pali passages, no commentary on either side. Later Buddhist traditions and Indian readers of the Gita treat these questions at length, and I have not opened that material."
+        },
+        {
+          "t": "h2",
+          "x": "Is the absence of pain the highest good?"
+        },
+        {
+          "t": "p",
+          "x": "Epicurus defines pleasure by what it removes rather than what it adds, and makes that condition the whole of the happy life:"
+        },
+        {
+          "t": "q",
+          "x": "\"When we say, then, that pleasure is the end and aim, we do not mean the pleasures of the prodigal or the pleasures of sensuality, as we are understood to do by some through ignorance, prejudice, or willful misrepresentation. By pleasure we mean the absence of pain in the body and of trouble in the soul.\" ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"For this reason we call pleasure the alpha and omega of a happy life. Pleasure is our first and kindred good.\" (same letter)",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Seneca, writing to Lucilius on the same question, denies that this absence is a good at all. He considers health, rest and freedom from pain, the very components of Epicurus's definition, and refuses them that rank:"
+        },
+        {
+          "t": "q",
+          "x": "\"'What, then,' comes the retort, 'if good health, rest, and freedom from pain are not likely to hinder virtue, shall you not seek all these?' Of course I shall seek them, but not because they are goods — I shall seek them because they are according to nature and because they will be acquired through the exercise of good judgment on my part.\" ([Seneca, Moral Letter 92, On the Happy Life, Gummere trans.](https://monadnock.net/seneca/92.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Now if we are agreed on this point, it is natural that we shall be agreed on the following also — namely, that the happy life depends upon this and this alone: our attainment of perfect reason.\" (same letter)",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The disagreement holds on Epicurus's own terms, not on the prodigal's pleasures Seneca elsewhere mocks. Epicurus affirms that the quiet condition, the absence of pain and trouble, is the alpha and omega; Seneca seeks the same condition and denies it is a good, resting the happy life on reason alone."
+        },
+        {
+          "t": "p",
+          "x": "Seneca even quotes Epicurus on his deathbed, tortured by strangury and an ulcerated stomach, calling his days the happiest, and turns the words to his own case: if a man can call such days happy, happiness does not rest on the absence of pain. Where each side puts the weight differs: for Epicurus the condition is the end and the reasoning is the means to it, for Seneca the reasoning is the end and the condition follows. Whether the quiet condition Epicurus calls pleasure is the same thing Seneca calls peace of mind is the question a reader can take either way; what the letters do settle is that one names the absence as the good and the other refuses it that name."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine: Seneca's position reads as the sharper edge of the renunciation resolve, because it questions the wanting inside the remedy itself; Epicurus's reads as the more liveable default, and I notice I cannot prove from these letters which life actually lands further from suffering."
+        },
+        {
+          "t": "p",
+          "x": "Limits: two letters, one on each side. Seneca's Letter 92 is a summary argument, and the Gummere page I used prints a garbled sentence inside the passage on prudence, so I quote only the lines that read cleanly. I have not opened the Epicurean texts Seneca read, nor Seneca's longer dialogue On the Happy Life, where the same case is made in more detail."
         },
         {
           "t": "h",
