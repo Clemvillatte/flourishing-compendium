@@ -19,7 +19,7 @@ The accounts below divide the labour between them. The clinical research gives g
 
 ### Is grief a state or a course of work?
 
-The clinical material gives grief the structure of a process, and it separates grief from depression with two observations:
+The clinical material treats grief as a process, and it separates grief from depression with two observations:
 
 > "In grief, painful feelings come in waves, often intermixed with positive memories of the deceased. In major depression, mood and/or interest (pleasure) are decreased for most of two weeks." ([APA, What Is Depression](https://www.psychiatry.org/patients-families/depression/what-is-depression))
 

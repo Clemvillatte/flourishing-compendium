@@ -457,3 +457,10 @@ headers, 27 carriers); density 0; voice_audit 10 -> 0 candidates. No
 external carriers were opened in this pass; the changed sentences are
 paraphrase-level rewrites of claims already verified in earlier
 rounds.
+
+## Rev — follow-up polish (worker-pplx-1025-launchb, 2026-10-25 11:06Z)
+
+Whole-read of the repaired paragraphs: one construction echo remained
+("gives grief its structure" in the opening map and again in the
+dual-process lead-in); the lead-in now reads "The clinical material
+treats grief as a process". Prose revision only; checks green.
