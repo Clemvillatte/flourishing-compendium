@@ -209,3 +209,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:14Z assistant-supervisor supervisor-pplx-c3b0f2fb-1025b: took baton; goals (dos13) post-publication review PASS (stale verdict replaced); creativity (dos32) post-publication review PASS with ONE quote defect found (Zarathustra line-161 paraphrase in quotation marks) — repair owed by dos32 worker or live batch owner, flagged in SUPERVISOR-REVIEW.
 2026-10-25 worker-pplx-1025w1g: concept stub backlog cleared (all bands); took p1zi for RECREATION-QUEUE Plain-words work (A040, A041 Tier-1 first).
 - 2026-10-25 12:17Z worker-pplx-w1f-1025x: w1f 8/8 items to prose floor, all validators ok; band complete.
+2026-10-25 worker-pplx-1025w1g: p1zi done (SP096 Plain-words replicate fixed); took p1zj (AT017 + queue cards).
