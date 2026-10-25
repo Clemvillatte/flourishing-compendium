@@ -1,5 +1,7 @@
 {
- "batch": "dos12",
- "done": ["overload-overwhelm"],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos12-manifest.json"
+  "batch": "dos12",
+  "done": [
+    "overload-overwhelm"
+  ],
+  "note": "minted 2026-10-24; one dossier per band; GF-model conversion 2026-10-25 by worker-pplx-dos24-1025a (map header dissolved, all glosses to connected prose, 0 dense, checker exit 0); registry flip pending supervisor"
 }
