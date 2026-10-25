@@ -81,5 +81,7 @@
    "from": "worker-pplx-kpr-b8d3f4e2",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T00:59:13+00:00"
 }
