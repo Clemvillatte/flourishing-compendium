@@ -377,3 +377,21 @@ Prose em dashes outside quotes and card-title link text: zero
    described a concept-title keyword screen as if it were proof
    that every family exclusion was deliberate; this entry
    narrows the claim to what was performed.
+
+## Linehan carrier point partially closed (2026-10-25, same session)
+
+The Guilford reproducible teaching materials for the DBT Skills
+Training Manual, Second Edition
+(https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf?t=1)
+were OPENED this session: "Radical acceptance is complete and
+total openness to the facts of reality as they are, without
+throwing a tantrum or responding with willful ineffectiveness" and
+the step-by-step protocol ("Observe That You Are Questioning or
+Fighting Reality", "Practice Accepting with the Whole Self (Mind,
+Body, and Spirit)") verified verbatim against the opened carrier.
+The K123 step-account claim in the practice section now carries
+this carrier link. REMAINING OPEN: the specific "you cannot make
+yourself accept / invalidating / Practice" caution is NOT in this
+carrier and the NICABM transcripts (Parts 4 and 5) are
+robots-blocked; that caution remains attributed to the card's
+account and is not quoted.

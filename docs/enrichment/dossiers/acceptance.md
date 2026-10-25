@@ -58,7 +58,7 @@ The difference is in the direction of the happening, not in the acceptance of it
 
 ### Open to what is here
 
-1. [K123 — Radical acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=K123%20%E2%80%94%20Radical%20acceptance): accept the reality of a situation you cannot change, as acknowledgment rather than approval. Linehan's steps run from noticing the fight against reality to practicing with the whole self; her caution stands: acceptance is practiced, not commanded.
+1. [K123 — Radical acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=K123%20%E2%80%94%20Radical%20acceptance): accept the reality of a situation you cannot change, as acknowledgment rather than approval. Linehan's steps run from noticing the fight against reality to practicing with the whole self ([Guilford reproducible teaching materials, DBT Skills Training Manual](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf?t=1)); her caution stands: acceptance is practiced, not commanded.
 
 2. [K385 — Cognitive acceptance: watch thoughts float by](https://clemvillatte.github.io/flourishing-compendium/#card=K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): for five minutes, watch thoughts pass like clouds, including the recurring one, without judging or trying to change or avoid them. The aim is not to make the thought go away; it is to stop adding the struggle on top of it.
 
