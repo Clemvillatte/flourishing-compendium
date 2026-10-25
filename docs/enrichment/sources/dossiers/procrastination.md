@@ -688,3 +688,9 @@ its quoted sentence, the practice kernels and the Story section
 (DOM-level text check, cache-busted reload after the deploy caught
 up; origin/main's app.js confirmed to carry the final state before
 the check).
+
+Render check (same pass, launcher-pplx-1025b): the live Pages deploy renders
+the published dossier in full — Dossiers grid card (LIFE CHALLENGES section,
+question chip), detail view with the disagreement section, the Chowdhury and
+Chu-and-Choi material, practice content and Story section all present in the
+rendered text (cloud-browser pass, cache-live asset).
