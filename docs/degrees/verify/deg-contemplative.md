@@ -1373,9 +1373,12 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   absent from the original Block I-b enumeration and was caught by the
   end-of-band inventory audit (2026-10-25).
 - Duration: 1:58:15 (watch page, 2026-10-25).
-- Instructor credentials: Lindokuhle Shabane and Lorena Grigoletto,
-  presenters (per the uploader description; institutional pages not
-  opened this session).
+- Instructor credentials: Lindokuhle Shabane, Long-Term Fellow at the
+  Center for Advanced Studies "Philosophizing in a Globalized World"
+  (GloPhi), Universität Hildesheim (GloPhi fellow page opened 2026-10-25,
+  https://www.uni-hildesheim.de/glophi/fellows/lindokuhle-shabane/);
+  Lorena Grigoletto, presenter (per the uploader description;
+  institutional page not opened this session — pending).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a double
   lecture — "Travelling Concepts: Ubuntu as a Particular Universal"
