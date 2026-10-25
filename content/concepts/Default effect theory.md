@@ -19,7 +19,7 @@ The review names three channels: endorsement, ease and endowment. People may cho
 
 ### Scope
 
-My earlier summary says defaults act as implicit recommendations. That is one of the three channels, the endorsement one, and not the whole account. The studies concern choices such as donating or buying. They do not test contemplative practice or rest.
+The original summary said defaults act as implicit recommendations. That is one of the three channels, the endorsement one, and not the whole account. The studies concern choices such as donating or buying. They do not test contemplative practice or rest.
 
 ### Here
 
