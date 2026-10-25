@@ -6,14 +6,14 @@ The body is more than the shell the mind rides in. The scientific literatures gi
 
 The phenomenologists give the claim its strongest form: the body is the medium through which a world is had. That sounds like a different subject from cortisol and heart rate, and I want to understand the difference between measuring a body and living through one. Their disagreements are left where they stand.
 
-Breath is where the theme becomes practical. The classical training traditions and the modern trials meet there, on the same object, and it is the lever most available in an ordinary day.
+Breath is where the theme becomes practical. The classical training traditions and the modern trials meet there, on the same object, and it is a readily available practical entry.
 
 ### Nearby terms
 
-- Embodiment: [Embodiment](https://clemvillatte.github.io/flourishing-compendium/#card=Embodiment) names the philosophical wing of the theme, together with the [lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body) and the [body schema](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20schema). The difference: embodiment asks what the body is, and this theme also asks what the body's signals and rhythms do.
-- Interoception: [Interoception](https://clemvillatte.github.io/flourishing-compendium/#card=Interoception) is the perception of the body's internal states. The difference: it is one part of the theme, which also includes what is done with the perception, from breath practices to exposure.
-- Physiology: the stress systems and their measures, from the [autonomic nervous system](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29) to [allostatic load](https://clemvillatte.github.io/flourishing-compendium/#card=Allostatic%20load). The difference: they are the measurable body, and the theme also carries the lived body those systems are measured in.
-- Breath: from [anapanasati](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29) to the [physiological sigh](https://clemvillatte.github.io/flourishing-compendium/#card=Physiological%20sigh%20%28Balban%20et%20al.%2C%20Stanford%29). The difference: breath is the practical entry, narrower than the theme, which runs from phenomenology to the organs.
+- Embodiment: [Embodiment](https://clemvillatte.github.io/flourishing-compendium/#card=Embodiment) names the philosophical wing of the theme, together with the [lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body) and the [body schema](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20schema); where embodiment asks what the body is, this theme also asks what the body's signals and rhythms do.
+- Interoception: [Interoception](https://clemvillatte.github.io/flourishing-compendium/#card=Interoception) is the perception of the body's internal states, one part of the theme, which also includes what is done with the perception, from breath practices to exposure.
+- Physiology: the stress systems and their measures, from the [autonomic nervous system](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29) to [allostatic load](https://clemvillatte.github.io/flourishing-compendium/#card=Allostatic%20load), are the measurable body; the theme also carries the lived body those systems are measured in.
+- Breath: from [anapanasati](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29) to the [physiological sigh](https://clemvillatte.github.io/flourishing-compendium/#card=Physiological%20sigh%20%28Balban%20et%20al.%2C%20Stanford%29) is the practical entry, narrower than the theme, which runs from phenomenology to the organs.
 
 ## What the body knows
 
@@ -53,7 +53,7 @@ The stress systems also have proposed maps, with different evidence behind them.
 
 ### Breath as the lever
 
-The early canon's breath manual is full. [Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29) is the MN 118 instruction: sitting upright in a quiet place, attending to inhalation and exhalation, discerning long from short. [ST068 — The Sixteen Steps of the Breath](https://clemvillatte.github.io/flourishing-compendium/#card=ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath) holds the full manual in four tetrads; the card calls it the most detailed breath manual in the early canon. [B038 — Practice mindfulness of breathing (anapanasati)](https://clemvillatte.github.io/flourishing-compendium/#card=B038%20%E2%80%94%20Practice%20mindfulness%20of%20breathing%20%28anapanasati%29) carries the principle form of the same posture and instruction.
+The early canon's breath manual is full. [Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29) is the MN 118 instruction: sitting upright in a quiet place, attending to inhalation and exhalation, discerning long from short. [ST068 — The Sixteen Steps of the Breath](https://clemvillatte.github.io/flourishing-compendium/#card=ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath) holds the full manual in four tetrads. [B038 — Practice mindfulness of breathing (anapanasati)](https://clemvillatte.github.io/flourishing-compendium/#card=B038%20%E2%80%94%20Practice%20mindfulness%20of%20breathing%20%28anapanasati%29) carries the principle form of the same posture and instruction.
 
 The Daoist image of breathing is bigger than the lungs. [The rhythm of breath](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20breath) is the image of whole-body breathing, from the Zhuangzi's true men who breathe from their heels. [Qi](https://clemvillatte.github.io/flourishing-compendium/#card=Qi) is the Chinese word for the breath-like, moving stuff early thinkers took everything to be made of; the card notes Legge rendered it as breath.
 
@@ -85,7 +85,7 @@ Intellectualism proposed to fix empiricism's problems by introducing judgment or
 
 ### Steady the attention on the body
 
-1. [Breath anchoring](https://clemvillatte.github.io/flourishing-compendium/#card=K100%20%E2%80%94%20Breath%20anchoring): rest attention on the physical sensation of breathing at the nostrils or belly, and when it wanders, note where it went and return. The return is the practice, not a failure.
+1. [Breath anchoring](https://clemvillatte.github.io/flourishing-compendium/#card=K100%20%E2%80%94%20Breath%20anchoring): rest attention on the physical sensation of breathing at the nostrils or belly, and when it wanders, return. Notice where attention went before you return.
 
 2. [Body scan](https://clemvillatte.github.io/flourishing-compendium/#card=K102%20%E2%80%94%20Body%20scan): move attention slowly through the body, noticing sensations in each region without trying to change them. Where there is no sensation, simply note the absence.
 
@@ -93,19 +93,19 @@ Intellectualism proposed to fix empiricism's problems by introducing judgment or
 
 3. [Interoceptive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=K111%20%E2%80%94%20Interoceptive%20awareness): tune into subtle body signals, heartbeat, breathing, hunger, tension, temperature, starting with a brief daily check-in: what is my body telling me right now? Notice which of the signals is easiest to catch and which stays quiet.
 
-4. [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body. Notice where the tension sits, what the temperature is, what the texture is; the body often knows before the mind does.
+4. [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body. Notice where the tension sits, its temperature and its texture.
 
-5. [Slow breathing (5 to 6 breaths per minute)](https://clemvillatte.github.io/flourishing-compendium/#card=K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): breathe at approximately five to six breaths per minute for five minutes, useful before stressful events and as a daily reset. Notice the pace settling into the count; the kernel states this frequency maximizes heart-rate variability and activates the parasympathetic nervous system, and that claim is the kernel's own.
+5. [Slow breathing (5 to 6 breaths per minute)](https://clemvillatte.github.io/flourishing-compendium/#card=K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): breathe at approximately five to six breaths per minute for five minutes, useful before stressful events and as a daily reset. Notice the breathing pace as you count.
 
 ### Stay with the difficult sensations
 
-6. [Interoceptive exposure](https://clemvillatte.github.io/flourishing-compendium/#card=K118%20%E2%80%94%20Interoceptive%20exposure): deliberately induce feared bodily sensations, spinning, rapid breathing, heart-rate elevation, in a safe context and remain with them. Notice whether the sensation leads where the fear predicts; the technique is a named component of cognitive-behavioural treatment for panic disorder, and the component analyses put it among the strongest parts of that treatment.
+6. [Interoceptive exposure](https://clemvillatte.github.io/flourishing-compendium/#card=K118%20%E2%80%94%20Interoceptive%20exposure): deliberately induce feared bodily sensations, spinning, rapid breathing, heart-rate elevation, in a safe context and remain with them. Notice whether the sensation leads where the fear predicts.
 
 ### Attend to the body as lived
 
-7. [Lived-body description](https://clemvillatte.github.io/flourishing-compendium/#card=K304%20%E2%80%94%20Lived-body%20description): spend five minutes describing your body as you experience it from the inside, not as it appears from outside. The exercise is the phenomenological reduction in miniature; reach for it when you have become a spectator of your own body.
+7. [Lived-body description](https://clemvillatte.github.io/flourishing-compendium/#card=K304%20%E2%80%94%20Lived-body%20description): spend five minutes describing your body as you experience it from the inside, not as it appears from outside. Notice whether the description stays with felt experience or shifts to outward appearance.
 
-8. [Body-schema noticing](https://clemvillatte.github.io/flourishing-compendium/#card=K307%20%E2%80%94%20Body-schema%20noticing): throughout the day, notice the implicit sense of where your body ends and the world begins. It shifts in different contexts: larger when confident, smaller when anxious, blurred when absorbed.
+8. [Body-schema noticing](https://clemvillatte.github.io/flourishing-compendium/#card=K307%20%E2%80%94%20Body-schema%20noticing): throughout the day, notice the implicit sense of where your body ends and the world begins. Notice whether that implicit sense differs across contexts.
 
 This is an editorial combination, not a validated recipe. The trial is: pick one body practice, run it daily for two weeks, and judge by what changes in the body's felt presence in ordinary situations. Retain what steadies; drop what does not.
 

@@ -375,3 +375,35 @@ session. Checks after this round: checker exit 0, 0 dense, card set
 unchanged (52 unique, 0 missing, 0 added), Husserl quote found, 5
 external carriers. The section now meets the model's three-heading
 minimum. Still IN PROGRESS pending supervisor review.
+
+## Advisor QC round 6: final practice-format pass (2026-10-25, worker-pplx-dos17-1025h)
+
+Round 6 accepted the rebuilt disagreements and cleared the draft as
+acceptable IN PROGRESS work, with a final bounded pass on the practice
+entries, all applied: every second sentence is now an observation
+prompt rather than an aphorism, efficacy claim, or background (K100
+"Notice where attention went before you return"; K172 "Notice where
+the tension sits, its temperature and its texture"; K194 "Notice the
+breathing pace as you count"; K118 "Notice whether the sensation leads
+where the fear predicts"; K304 "Notice whether the description stays
+with felt experience or shifts to outward appearance"; K307 "Notice
+whether that implicit sense differs across contexts"). The kernel
+cards' efficacy and ranking sentences (K194's HRV maximization claim,
+K118's component-analysis ranking, K172's aphorism, K307's
+confidence/anxiety/absorption directions, K304's equivalence to the
+phenomenological reduction) were removed from the practice entries;
+the K194 and K118 cards still carry those claims themselves and the
+ledger records that the removal is from the dossier's practice
+entries, not a correction to the cards. Two superlatives were removed
+("the lever most available" became "a readily available practical
+entry"; the ST068 "most detailed breath manual in the early canon"
+claim was dropped in favour of describing the sixteen steps in four
+tetrads). The repeated "The difference:" scaffold in Nearby terms was
+removed in a final voice pass. Ledger correction: the earlier
+"unabridged page fetch" wording overstated — the 40,000-character
+fetch was truncated during section 3; section 2 and the available
+portion of section 3 were read directly, with the remaining passages
+obtained through prompted extraction of the same entry. Checks after
+this pass: checker exit 0, 0 dense, card set unchanged (52 unique, 0
+missing, 0 added), Husserl quote found. IN PROGRESS pending
+supervisor review; baton to be released at the T+58 final-save stage.
