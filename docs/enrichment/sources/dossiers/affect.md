@@ -269,3 +269,24 @@ Russell and Peterson), which is the format the audit inventory
 encourages. No edits were made to the dossier body; dossier_check.py
 exit 0 unchanged. Scope: candidate-line review plus divergence-section
 read; not a full structural pass.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 80 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Spinoza Ethics definition of affect,
+the Ekman/Barrett construction divergence entries, the James-Lange and
+embodied-emotion entries, Scherer's Component Process Model, the
+Fredrickson cluster, the envy taxonomy (van de Ven, Zeelenberg and
+Pieters), Gross's process and extended process models, the DBT/Linehan
+cluster, Butler's co-regulation work, Smith's sympathy, Gilbert's
+compassion definition, Barsade's group contagion and the Laozi saying.
+No mismatches found; no edits made. The earlier voice-audit review of
+this dossier (all 10 candidates kept) is thereby strengthened: the
+flagged constructions are not only doctrinally sourced but
+card-faithful.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
