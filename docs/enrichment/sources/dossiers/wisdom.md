@@ -271,3 +271,15 @@ prints the span verbatim, character for character. The
 search-excerpt-only caveat is withdrawn; the span carries a
 live-fetched carrier. No dossier text changed (the span and carrier
 link already in the dossier are now fully verified). FLAG CLEARED.
+
+## QC sample — flags handed off (2026-10-25 11:14Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist)
+
+quote_verify reported 11 spans not found. Carrier classes: PubMed
+(29620401, 24405359, 11392856 x5 — bot-wall; E-utilities
+robots-disallowed this pass), Sage (0956797614535400,
+0956797620969170 — bot-wall), tandfonline (03057240.2018.1497952 —
+bot-wall), MDPI (2499-6564/71/2/109 — bad_robots_code this pass; MDPI
+normally serves plain fetches, retry). Baltes/Zhao psychologicalscience
+mirror untested. No dossier text changes needed; no span verified this
+pass. Recommendation: batch-verify via E-utilities when its robots
+policy clears.
