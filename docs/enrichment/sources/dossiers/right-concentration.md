@@ -154,7 +154,7 @@ its double rendering, Leroy's attention residue, flow with
 Csikszentmihalyi's addictive-side caution carried, and the wu wei
 cluster including Cook Ding's nineteen-year blade. No mismatches
 found; no edits made. This strengthens the earlier voice-audit review
-(all 7 candidates kept): the flagged constructions are card-faithful
+(all 9 candidates kept, per the ledger's own review record at its line 110): the flagged constructions are card-faithful
 as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
