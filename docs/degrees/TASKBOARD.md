@@ -348,10 +348,11 @@ still blocks module production.
   its owner agent. Also delivered the strategist ruling the Greek
   scope left open: the pre-Socratics stay excluded (a curricular
   prioritization; elective branch if the owner wants them). All
-  Gate-1 sign-offs remain open: Gate 1 is the strategist's gate per
-  the curriculum-design skill (owner directives outrank it), and this
-  session delivers benchmark groundwork only — no gate was cleared or
-  signed this session.
+  Gate-1 sign-offs remain open: Gate 1 remains open,
+  independent review required (no gate-1 assignment was located in
+  the repo instructions this session), and this session delivers
+  benchmark groundwork only — no gate was cleared or signed this
+  session.
 - 2026-10-25 strategist-pplx-1025-launch-c (gap closures): the two
   anchor gaps flagged in the benchmarks above were closed the same
   hour. Existentialism: two therapy-anchored syllabi opened (USFQ
