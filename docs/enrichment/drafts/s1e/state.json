@@ -87,7 +87,7 @@
    ]
   },
   "s1e-004": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D115 lead from behind: Marva Collins - the school with no substitutes, where students taught themselves and said the day's phenomenal thing was theirs",
    "history": [
     {
@@ -113,11 +113,16 @@
      "t": "2026-10-25T13:28:08+00:00",
      "to": "qc_pending",
      "note": "advisor milestone QC (2026-10-25) returned item for repairs: humanizer contrast scaffolds, unverified claims, or record correction"
+    },
+    {
+     "t": "2026-10-25T13:43:18+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
     }
    ]
   },
   "s1e-005": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D041 qingjing: George Fox - the ocean of light already flowing over the darkness; standing still in the Light; the gathered people who worshipped in silence",
    "history": [
     {
@@ -143,11 +148,16 @@
      "t": "2026-10-25T13:28:09+00:00",
      "to": "qc_pending",
      "note": "advisor milestone QC (2026-10-25) returned item for repairs: humanizer contrast scaffolds, unverified claims, or record correction"
+    },
+    {
+     "t": "2026-10-25T13:43:18+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
     }
    ]
   },
   "s1e-006": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the self-inquiry search for the one who dies, run on his own person, finds the 'I' (the Spirit, in his conclusion) persisting through the dying body; the teaching made it a method",
    "history": [
     {
@@ -173,6 +183,11 @@
      "t": "2026-10-25T13:28:09+00:00",
      "to": "qc_pending",
      "note": "advisor milestone QC (2026-10-25) returned item for repairs: humanizer contrast scaffolds, unverified claims, or record correction"
+    },
+    {
+     "t": "2026-10-25T13:43:18+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
     }
    ]
   },
@@ -212,8 +227,8 @@
    ]
   },
   "s1e-008": {
-   "status": "qc_pending",
-   "angle": "P191 joy as creation's signature: Wiles on September 19, 1994 - the joy arrived with the thing created, before any recognition, while the world still believed the proof broken",
+   "status": "ready",
+   "angle": "P191 joy as creation's signature: Wiles on September 19, 1994 - the joy arrived with the thing created itself, before he had told anyone",
    "history": [
     {
      "t": "2026-10-21T12:51:54+00:00",
@@ -243,9 +258,14 @@
      "t": "2026-10-25T13:34:31+00:00",
      "to": "qc_pending",
      "note": "record correction: the earlier 'first night restored' note described a no-op; the probe failure was a shell-escaping artifact and the draft already matched the NOVA source verbatim; no wording change was made or needed"
+    },
+    {
+     "t": "2026-10-25T13:43:18+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 3-5 applied and cleared: quotes verbatim, mappings bounded, humanizer pass, YAML valid"
     }
    ]
   }
  },
- "updated": "2026-10-25T13:41:30+00:00"
+ "updated": "2026-10-25T13:43:18+00:00"
 }
