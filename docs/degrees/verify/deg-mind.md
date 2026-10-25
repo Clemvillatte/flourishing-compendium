@@ -13,11 +13,11 @@ evidence on file.
 ## Block D status
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
-these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03.
+these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-AF04, M06-AF05, M06-AF06, M06-CO05, M06-CO02, M06-AT01,
-M06-AT02, SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
+session: M06-AF04, M06-AF05, M06-AF06, M06-CO05, M06-CO02, M06-AT02,
+SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
 ### M06-AF09: How Positive Emotions Work and Why (Barbara L. Fredrickson)
@@ -132,6 +132,35 @@ SRC-M07-019.
   (2026-10-25); content coverage is classified from the recording's own
   description and chapter list, and the transcript panel was not read
   this session.
+
+### M06-AT01: CMS Mindfulness Science Keynote (Amishi Jha)
+
+- Legacy attachment: mod-mind-2 required media.
+- Identity: oembed confirms the video on the USC Center for Mindfulness
+  Science channel, title "CMS Mindfulness Science Keynote Lecture -
+  Dr. Amishi Jha" (https://www.youtube.com/watch?v=K9mxZ26cnaA; oembed
+  and watch page both checked 2026-10-25). Freely playable, no paywall.
+- Duration: 1:24:01 printed in the player (2026-10-25).
+- Instructor credentials: Amishi Jha, Professor of Psychology and Director
+  of Contemplative Neuroscience at the University of Miami, PhD from UC
+  Davis, postdoctoral training at Duke (University of Miami profile:
+  https://people.miami.edu/profile/23c4cb6d81809e3189c670d4e7b6649d,
+  opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: USC Center for Mindfulness Science keynote, published 8 February
+  2022.
+- Content coverage (from the recording's own chapter list, read
+  2026-10-25): strengthening attention and working memory with
+  mindfulness training; chapters include what makes attention vulnerable
+  (15:46), mindfulness training (16:07), working memory metaphor (18:34),
+  mind-wandering (22:43), the wandering mind as an unhappy mind (44:42),
+  mindfulness-based cognitive therapy (47:19), comparisons with other
+  training forms (1:00:15) and mindfulness of breath practice (1:15:08).
+- Relevant segments: vulnerability of attention 15:46 to 30:37; training
+  the mind 46:38 to 1:00:15.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  chapter list, and the transcript panel was not read this session.
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
