@@ -198,6 +198,19 @@ long evidence records in the ledger, not in the public reading path.
   (verbatim; first check hit a smart-quote artifact). PUBLISHING BLOCKED
   on artwork, same as creativity: no procrastination art in the owner's
   collection; registry left 'planned'.
+- ADDENDUM 10 (~T+39): STORY-BACKLINK PROGRAMME COMPLETE — all 65
+  flagged story pages now carry thinker-card backlinks: Seneca 6
+  (ST194/ST205/ST213/ST218/ST220/ST221 <- T013), Socrates 5
+  (ST141/ST152/ST203/ST155/ST176 <- T011; ST466/ST392/ST430
+  deliberately skipped — Socrates incidental, link would be ungrounded),
+  Laozi 3 (ST475/ST394/ST412 <- T012), Zhuangzi 42 (all <- T009; 4
+  first-body-mention links, 38 intro-line card links on the bare
+  'Zhuangzi parable' prefix with ctext source links untouched), Hadot/
+  Nhat Hanh/Weil 4 (ST206/ST432/ST458/ST023). Commits 4922538e9,
+  5a98ccc0d, 15e1c90f, 1b53e740, a55a9b00. Build stable at 5943
+  entries / fcAuthored 979 throughout; build.py validation clean after
+  each batch. ST214 (Warren Schmidt) left for contextual review. The
+  t2a/t2b flags from addendum 7 are CLOSED.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
