@@ -69,11 +69,12 @@
   "AT020",
   "B129",
   "AT023",
-  "AT062"
+  "AT062",
+  "D017"
  ],
- "in_progress": "D017",
+ "in_progress": null,
  "flagged": {
-  "D017": "Reopened for QC: Remove pseudo-quotation and AI-shaped repetition; verified chapter 57 and scoped psychology comparison",
+  "D017": "RESOLVED: unsupported systems generalization narrowed, medical illustration replaced, exact DDJ57/64 quotations; validator against session baseline passed, advisor review pending",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
   "CO072": "Supervisor evidence repair independently PASS: no general-endurance or social-media causation claims remain. Protected title and old link label explicitly qualified; metadata exception needed for cleaner future naming.",
   "D095": "QC round 3: plain words now faithful explanation + separate application; It=vital essence verified from opened excerpt",
@@ -90,6 +91,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-25T05:54:17+00:00",
+ "updated": "2026-10-25T05:56:03+00:00",
  "band_done": false
 }

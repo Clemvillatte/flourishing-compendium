@@ -26,7 +26,7 @@ Give people room to work things out before telling them how. Keep watching what 
 *For example:* A writing-group organiser stops assigning the order of every discussion. Members choose the next piece themselves. When one writer keeps being passed over, the organiser raises it. This is my illustration, not a reported result.
 
 ## Sources
-- [[T012 — Laozi]]: the compendium's author page for the Daodejing.
+- [[T012 — Laozi]]
 - [Laozi, Daodejing, James Legge translation, Sacred Texts](https://www.sacred-texts.com/tao/taote.htm): chapters 57 and 64, quoted above. This edition's wording is retained, including "(of purpose)".
 - [Deci, Koestner & Ryan (1999), A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation](https://pubmed.ncbi.nlm.nih.gov/10589297/): abstract checked for the limited psychology comparison; the full paper was not used.
 
@@ -47,6 +47,10 @@ These are comparative reading links, not evidence that the accounts make the sam
 - [[Spontaneous order|Spontaneous order]]
 - [[Dao|The Dao — the way things work]]
 
+## Related concepts
+
+- [[Spontaneous order]]
+- [[The invisible hand]]
 
 <!-- fc: reflections
 What in your life is currently organizing itself while you keep poking at it? What would leaving it alone cost you?
