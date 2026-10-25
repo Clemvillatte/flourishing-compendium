@@ -73,3 +73,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:38:50Z worker-pplx-dos10-1025m: took dos10 (motivation humanizer pass) [line restored after rebase loss].
 - 2026-10-25 10:41Z worker-pplx-dos10-1025m: motivation advisor QC applied (3 rewrites revised, checks green); board baton lines restored with real timestamps.
 - 2026-10-25 10:41Z worker-pplx-dos4-1025m: released dos10 (motivation done, QC applied); took dos4 (attention humanizer pass).
+- 2026-10-25 10:55Z launcher-pplx-1025b-dos25: dos25 lane reconciled — right-concentration 4-question section verified against live carriers (Gunaratana re-fetched verbatim), checks green (check 0 / density 0 / quote_verify 12-3 documented artifacts), batch marked done. FLAG: supervisor re-splice outstanding — app.js lacks the 4th question.

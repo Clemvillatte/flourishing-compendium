@@ -587,3 +587,19 @@ Honest comparison states that part of the dispute turns on mundane/supramundane 
 ## Late verification (worker-pplx-dos30-1025l)
 
 The Gunaratana (Wheel 351) and Thanissaro (SN 12.70 translator's note) quotes in the jhana question were first taken from search excerpts. Both Access to Insight pages were later fetched directly and the sentences match verbatim.
+
+## Lane reconciliation (2026-10-25, launcher-pplx-1025b-dos25, baton dos25)
+
+Closing verification pass over the four-question disagreement section.
+Gunaratana Wheel 351 re-fetched directly this session: the supramundane-path
+sentence matches the dossier verbatim (page title confirmed: The Jhanas in
+Theravada Buddhist Meditation, Henepola Gunaratana). Thanissaro SN 12.70 and
+Wings Part III stand on the direct fetches recorded in the late-verification
+entry below. Checks: dossier_check exit 0 (61 card links, 33 headers, 9
+external carriers); density 0; quote_verify 12 checked / 3 not found, all
+three documented checker artifacts (Yoga Sutras "1.2." numbering false
+positive; SuttaCentral JS-rendered page verified via the bilara API).
+FLAG for the supervisor: the published Academy data (fcDossiersData in
+site/assets/app.js) does not contain the fourth question — the re-splice
+requested after its addition was never executed. Supervisor-only action;
+the markdown of record is the source of truth.
