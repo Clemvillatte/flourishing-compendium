@@ -21,7 +21,7 @@ On timing, a meta-analysis of 23 studies of single evening sessions in healthy a
 The experiments mostly involve healthy, good sleepers and single sessions. The advice that morning or afternoon is "safest" has no direct support in the studies above, Dolezal 2017 is further reading, not summarized. Individual responses vary, so a personal test is more informative than a rule.
 
 **Plain words**
-The old advice to never train at night has mostly fallen apart; the studies now say evening exercisers sleep about the same as anyone else. The one real exception is narrow: a hard session that ends less than an hour before lights out. Finish vigorous work two hours before bed and the problem, as far as the measurements can see, goes away.
+The blanket ban on night workouts has quietly collapsed. Measured sleep in people who train late looks much like anybody else's. One narrow doorway remains: going flat out with less than an hour to go before lights-out. Stop the hard effort two hours ahead and, on today's numbers, the worry closes with it.
 
 **For example**
 For two weeks, keep hard sessions at least two hours before bed, and compare your sleep log with the previous fortnight.
