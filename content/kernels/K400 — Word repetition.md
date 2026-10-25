@@ -28,6 +28,8 @@ In the original study, eight undergraduates used alternating-treatment designs t
 
 A tidy three-minute walkthrough, part of a larger library of ACT exercises, is [Milk, Milk, Milk from the ACT Toolkit](https://www.acttoolkit.com/).
 
+> **Therapeutic approach: ACT**
+
 ## Operationalises
 
 - [[P159 — Defuse — see thoughts as thoughts|P159 Defuse: see thoughts as thoughts]]

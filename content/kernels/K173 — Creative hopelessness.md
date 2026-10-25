@@ -5,7 +5,7 @@ type: "kernel"
 title: "Creative hopelessness"
 file: "K173 — Creative hopelessness"
 tags: ["applied-practice", "topic/emotion", "topic/compassion", "topic/creativity"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
 > **Kernel K173** — Creative hopelessness
@@ -29,6 +29,8 @@ The audit runs on your own list of strategies, in your own words; no guided reco
 In the trial above, ACT was compared with progressive relaxation training over eight sessions. ACT "produced greater changes at posttreatment and follow-up over PRT on OCD severity (Y-BOCS: ACT pre=24.22, post=12.76, follow-up=11.79; PRT pre=25.4, post=18.67, follow-up=16.23), and produced greater change on depression among those reporting at least mild depression before treatment," and "Clinically significant change in OCD severity occurred more in the ACT condition than PRT using multiple criteria (clinical response rates: ACT post=46-56%, follow-up 46-66%; PRT post=13%-18%, follow-up 16-18%)" (both quotes from the abstract of [Twohig et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2948415/)). The treatment's opening move is described in the clinical literature this way: "The beginning stage of ACT typically involves attempts to draw out a sense of 'creative hopelessness' from the client, where the client's specific experiential avoidance strategies are articulated, and these strategies' short- and long-term effectiveness and effects on movement toward personal values are assessed" ([Blackledge and Barnes-Holmes](https://contextualscience.org/sites/default/files/Blackledge_Barnes-Holmes_2009.pdf)).
 
 What the research does not cover: the trial tested an eight-session package delivered by therapists, of which this audit was one phase; it did not test a standalone self-guided audit. The response rates describe OCD patients in treatment, not people doing this exercise on their own, and the sentence in step 4 is this practice's wording, not study material.
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 

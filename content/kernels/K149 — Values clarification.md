@@ -5,7 +5,7 @@ type: "kernel"
 title: "Values clarification"
 file: "K149 — Values clarification"
 tags: ["applied-practice", "topic/meaning"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
 > **Kernel K149** — Values clarification
@@ -44,6 +44,8 @@ The instrument is described by its authors: "the Valued Living Questionnaire (VL
 
 - [Wilson, K. G., Sandoz, E. K., Kitchens, J., & Roberts, M. (2010), "The Valued Living Questionnaire: Defining and Measuring Valued Action within a Behavioral Framework", The Psychological Record 60, 249-272 (PDF)](https://link.springer.com/content/pdf/10.1007/BF03395706.pdf): abstract quoted verbatim.
 - [Deci, E. L., & Ryan, R. M. (2000), "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", Psychological Inquiry 11(4), 227-268 (PDF)](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf): abstract quoted verbatim.
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 

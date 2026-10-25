@@ -54,6 +54,8 @@ What the sources do not test: the exercise is a defusion technique inside ACT, w
 
 The exercise is silent self-directed listening; no recording is needed.
 
+> **Therapeutic approach: ACT**
+
 ## Operationalises
 
 - [[P160 — Distinguish the observing self from the story of self|P160 Distinguish the observing self from the story of self]]

@@ -49,6 +49,8 @@ What the sources do not test: the exercise is a values-clarification and defusio
 
 The exercise is written and arranged by the practicer; no recording is needed.
 
+> **Therapeutic approach: ACT**
+
 ## Operationalises
 
 - [[P158 — Choose values as directions, not destinations|P158 Choose values as directions, not destinations]]

@@ -5,7 +5,7 @@ type: "kernel"
 title: "Shared attention"
 file: "K357 — Shared attention"
 tags: ["applied-practice", "topic/attention"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.19 — 19. Embodied Intersubjectivity", "parent": ""}
 ---
 > **Kernel K357** — Shared attention
@@ -34,6 +34,8 @@ The talking version of sharing the good points the same direction: "communicatin
 ### A guided version
 
 None located for this practice among official sources. Guided recordings for two people do exist in the neighbourhood — partner-compassion and couples-mindfulness audio, such as Russ Harris's ACT exercise for partners ([Psychwire resource page](https://psychwire.com/free-resources/audio/resource-1hm1mbh/compassion-for-your-partner)) — but they guide related practices, not shared attention itself; the exercise is its own instruction.
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 

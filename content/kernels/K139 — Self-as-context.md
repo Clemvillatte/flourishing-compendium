@@ -5,7 +5,7 @@ type: "kernel"
 title: "Self-as-context"
 file: "K139 — Self-as-context"
 tags: ["applied-practice", "topic/identity"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.04 — 4. Self and Perspective", "parent": ""}
 ---
 > **Kernel K139** — Self-as-context
@@ -41,6 +41,8 @@ A candidate exists: the Observer Exercise, from the 1999 ACT book, recorded by R
 ## Facets
 
 - **ACT** — Hayes et al., 2011
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 

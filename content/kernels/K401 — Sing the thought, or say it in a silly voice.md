@@ -54,6 +54,8 @@ What the sources do not test: the exercise is a single defusion technique inside
 
 The exercise is spoken or sung by the practicer; no recording is needed.
 
+> **Therapeutic approach: ACT**
+
 ## Operationalises
 
 - [[P159 — Defuse — see thoughts as thoughts|P159 Defuse: see thoughts as thoughts]]

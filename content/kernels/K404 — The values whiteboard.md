@@ -52,6 +52,8 @@ What the sources do not test: the worksheet is a defusion technique inside ACT-b
 
 The exercise is written and read at a distance; no recording is needed.
 
+> **Therapeutic approach: ACT**
+
 ## Operationalises
 
 - [[P159 — Defuse — see thoughts as thoughts|P159 Defuse: see thoughts as thoughts]]

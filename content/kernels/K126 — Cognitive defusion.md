@@ -5,7 +5,7 @@ type: "kernel"
 title: "Cognitive defusion"
 file: "K126 — Cognitive defusion"
 tags: ["applied-practice", "topic/mind"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-COGFLEX"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-COGFLEX"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
 > **Kernel K126** — Cognitive defusion
@@ -48,6 +48,8 @@ In the original comparison, run as eight single-case alternating treatment desig
 
 - [Masuda, A., Hayes, S. C., Sackett, C. F., & Twohig, M. P. (2004), "Cognitive Defusion and Self-Relevant Negative Thoughts: Examining the Impact of a Ninety Year Old Technique", Behaviour Research and Therapy 42(4): 477-485](https://contextualscience.org/sites/default/files/305%20Defusion%20word%20repetition%20BRAT%202004.pdf): verbatim abstract; definition of defusion, Titchener word repetition, reductions in discomfort and believability, and the authors' own clinical-utility caveat.
 - ["Defusion Techniques on Self-Referential Thought in Laboratory-Based Experimental Research", Journal of Contextual Behavioral Science 40 (2026)](https://contextualscience.org/article/defusion_techniques_selfreferential_thought_laboratorybased_experimental_research): verbatim abstract; 12 studies, 22 samples, n = 659, large effects on believability and discomfort.
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 

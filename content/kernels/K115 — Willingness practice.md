@@ -5,7 +5,7 @@ type: "kernel"
 title: "Willingness practice"
 file: "K115 — Willingness practice"
 tags: ["applied-practice", "topic/freedom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
 > **Kernel K115** — Willingness practice
@@ -30,6 +30,8 @@ In a study with participants diagnosed with anxiety and mood disorders, people w
 ### A guided version
 
 A short guided exercise in the same library as the other acceptance tools is [Willingness as a Choice from the ACT Toolkit](https://www.acttoolkit.com/) — a seven-minute exercise whose framing line is "Acceptance isn't a feeling you have to produce, but a stance you can choose."
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 

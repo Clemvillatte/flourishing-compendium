@@ -50,6 +50,8 @@ What the sources do not test: the matrix is an ACT delivery format, whose effect
 
 The sort is drawn by hand; a free interactive version is carried at [Fabulous ACT Matrix](https://www.thefabulous.co/hz/act-matrix) and [Mentalyc ACT Matrix](https://www.mentalyc.com/therapy-games-and-tools/act-matrix).
 
+> **Therapeutic approach: ACT**
+
 ## Operationalises
 
 - [[P155 — Make workability your everyday criterion|P155 Make workability your everyday criterion]]

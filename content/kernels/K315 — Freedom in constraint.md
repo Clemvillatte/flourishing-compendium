@@ -5,7 +5,7 @@ type: "kernel"
 title: "Freedom in constraint"
 file: "K315 — Freedom in constraint"
 tags: ["applied-practice", "topic/identity", "topic/freedom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.10 — 10. Authenticity, Freedom, and Responsibility", "parent": ""}
 ---
 > **Kernel K315** — Freedom in constraint
@@ -45,6 +45,8 @@ The [Choice Point worksheet](https://static1.squarespace.com/static/651105c838c0
 - [Frankl, V. E., Man's Search for Meaning (Part One, "Experiences in a Concentration Camp"; full text PDF)](https://scispace.com/pdf/man-s-search-for-meaning-32rza2rmye.pdf)
 - [Kashdan, T. B., & Rottenberg, J. (2010), "Psychological flexibility as a fundamental aspect of health", Clinical Psychology Review 30(7), 865–878 (PMC2998793)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)
 - [The Choice Point Worksheet (based on Russ Harris's ACT tool)](https://static1.squarespace.com/static/651105c838c0f658bdb86cd8/t/685dfa7e967e7f20b45f0018/1750989439354/Choice+Point+Worksheet_FM.pdf)
+
+> **Therapeutic approach: ACT**
 
 ## Operationalises
 
