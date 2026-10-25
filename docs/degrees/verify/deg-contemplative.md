@@ -1046,20 +1046,20 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Duration: 45:57 (watch page, 2026-10-25).
 - Instructor credentials: Morten E. Jelby, École Normale Supérieure, Paris
   (per the uploader description; institutional page not opened this
-  session). Follow-up (2026-10-25): the ENS and Kyoto University
-  institutional pages were not locatable via search (the Kyoto Faculty
-  of Letters directory does not list him; LinkedIn is a social-media
-  page the ethos disallows; the HAL archive API was returning errors),
-  but a current-employer team page was opened
+  session). Follow-up (2026-10-25): the ENS institutional page was not
+  locatable via search and the search did not locate a relevant Kyoto
+  institutional profile (LinkedIn is a social-media page the ethos
+  disallows; the HAL archive API was returning errors), but a team
+  page of Bespoke English, where he is listed, was opened
   (https://www.bespoke-english.jp/the-team, opened 2026-10-25) that
-  documents his education and roles: University of Copenhagen M.A.
+  lists his education and roles: University of Copenhagen M.A.
   Philosophy; École Normale Supérieure (Paris) Ph.D. Philosophy;
-  Kyoto University Visiting Researcher. This corroborates the
-  description's ENS Paris affiliation and the talk's Patočka and
-  Tanabe subject matter (his Kyoto School / phenomenology research
-  profile per the search-index lead on his ENS-hosted Academia.edu
-  profile), with the caveat that the opened page is an employer team
-  page documenting degrees, not the ENS institutional page itself.
+  Kyoto University Visiting Researcher. Evidence note: this is a
+  company team page listing degrees, not the ENS institutional page,
+  and a later degree listing does not by itself establish his
+  affiliation at the time of the 2018 talk — recorded as opened
+  supporting evidence for the credentials clause, not as
+  institutional-page verification.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   intersection of Jan Patočka's and Tanabe Hajime's philosophies —
@@ -1069,13 +1069,12 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole talk, 45:57.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
-  Follow-up (2026-10-25): credentials corroborated on the opened
-  current-employer team page (Bespoke English, see above) — ENS
-  (Paris) Ph.D. Philosophy, University of Copenhagen M.A. Philosophy,
-  Kyoto University Visiting Researcher — so the description-basis is
-  upgraded to corroborated-on-opened-page; the ENS institutional page
-  itself remains unlocated and is flagged for a supervisor with
-  ENS-directory access.
+  Follow-up (2026-10-25): opened supporting evidence recorded above
+  (Bespoke English team page listing ENS Paris Ph.D. Philosophy) —
+  the ENS institutional page itself remains unlocated and is flagged
+  for a supervisor with ENS-directory access; the credentials clause
+  remains partially resolved, so this stays a verified-video with the
+  institutional-page dimension flagged rather than fully verified.
 
 ### M02-K05: What is Lam Rim? — Robert A.F. Thurman (Tibet House US)
 
@@ -1351,8 +1350,10 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Bodhi (Brahmali one of the major helpers on the translation of the
   Numerical Discourses); author with Bhante Sujato of "The
   Authenticity of the Early Buddhist Texts" (Buddhist Publication
-  Society); regular Sutta and Pali classes at Dhammaloka Centre,
-  Perth.
+  Society). Evidence note: this is the archived institutional page as
+  captured 2026-05-16 — the live BSWA page was not opened this session.
+  This upgrades the credentials clause only; it does not independently
+  establish playback, duration or content coverage.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the
   importance of spiritual practice and how everything is impermanent.
@@ -1360,7 +1361,8 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Verification status: verified-video (2026-10-25); credentials now
   verified on the opened archived BSWA teacher page (see the
   instructor credentials entry above) — the earlier description-basis
-  is superseded.
+  is superseded for the credentials clause; the archived-page evidence
+  covers the biography, not playback or coverage.
 
 ### SRC-M18-B02: 2021 Khyentse Lecture — Carmen Meinert (UC Berkeley Numata Center)
 

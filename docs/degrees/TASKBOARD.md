@@ -451,15 +451,17 @@ hours), recorded in the scope doc and ledger. Pragmatism: process thought is now
   narrowed the same way (anchor-set phrasing instead of per-anchor
   claims; effect-size instruction marked proposed, not established).
 
-### Checkpoint — deg-verify-a follow-up round (13:50Z, 2026-10-25)
+### Checkpoint — deg-verify-a follow-up round (13:46Z, 2026-10-25)
 
 Worker-pplx-degrees-1: Brahmali's BSWA institutional biography opened via a
-Wayback Machine snapshot of the society's teacher page (M-15-005-B lead upgraded);
-Jelby's credentials corroborated on an opened current-employer team page (ENS
-Ph.D. Philosophy documented; the ENS institutional page itself remains
-unlocated — flagged for a supervisor with ENS-directory access); the Thompson
-8-minute practice boundary remains uploader-stated (transcript opened, no
-timestamps). All open institutional-biography leads in the assigned blocks are
-now swept to the extent this environment allows; remaining items are owner or
-supervisor decisions (dead-video replacements, the 0b2136614 pilot discrepancy,
-routing re-attribution, mod-wb-2 gate-3 verdict).
+Wayback Machine snapshot of the society's teacher page (M-15-005 credentials
+clause upgraded on the archived institutional page); Jelby's degrees recorded
+from an opened Bespoke English team page (opened supporting evidence, not the
+ENS institutional page — that page remains unlocated and flagged for a
+supervisor with ENS-directory access); the Thompson 8-minute practice boundary
+remains uploader-stated (third-party transcript opened, no timestamps). Entries
+reviewed this round: M-15-005, M02-K03, the deg-cmp Thompson note. Separately
+flagged from earlier rounds and still open: dead-video replacements (owner
+decision), the 0b2136614 pilot discrepancy (supervisor), routing re-attribution
+(supervisor), mod-wb-2 gate-3 verdict (supervisor), and the LeDoux/Newport
+institutional pages (verification gap, sources robots-blocked).
