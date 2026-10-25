@@ -36,7 +36,6 @@
     "The meaning of life",
     "The meaning of suffering",
     "The moving body",
-    "The narrative self",
     "The ongoing reduction",
     "The question kept alive",
     "The question of being (Seinsfrage)",
@@ -70,7 +69,8 @@
     "The rehearsal of virtue",
     "The right amount of effort",
     "Attention management",
-    "The inner light"
+    "The inner light",
+    "The narrative self"
   ],
   "in_progress": null,
   "flagged": {
@@ -103,7 +103,7 @@
     "The meaning of life": "fast-track enriched (item 16); degree 11; Frankl MSFM full text opened via Internet Archive, four passages verified verbatim; no rename needed \u2014 the concept title is the book's own subject",
     "The meaning of suffering": "fast-track enriched (item 17); degree 11; Frankl MSFM (Internet Archive) opened, two suffering passages verified verbatim; no rename needed",
     "The moving body": "fast-track enriched (item 18); degree 10; PoP Smith translation (Internet Archive) opened, two motility passages verified verbatim; no rename needed",
-    "The narrative self": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): concept identity VERIFIED \u2014 the page body faithfully presents the tradition's teaching from the opened source (per the audit record and the w1g ledger's opened-carrier verification); the title is the compendium's heading, not the tradition's own term. Per the owner's namespace rule, keep-as-heading is not automatically permitted: the rename/merge decision (and its inbound-link effects) remains the OWNER's; consolidated in concept-namespace-audit.md. The QC/evidence part of this flag is closed (the carrier was opened and the quotes verified by the w1g worker; the disclosure notes stand). [ORIGINAL: fast-track enriched (item 19); degree ~11; After Virtue full text opened via Internet Archive, story-telling-animal passage verified verbatim; Taylor not opened (left to citation); no rename needed]",
+    "The narrative self": "Reopened for QC: QC correction: below 150-word prose floor (supervisor concept-stub backlog 2026-10-25, 114 words)",
     "The ongoing reduction": "fast-track enriched (item 20); degree ~14; SEP Husserl entry (Zahavi, 2025 revision) opened \u2014 Crisis full text NOT openly available (archive.org OCR unusable, library item access-restricted); page anchored on SEP quotes; FLAG for supervisor: 'ongoing' framing is the compendium's gloss (E012), not a phrase verified in the Crisis itself; seed citation 'Husserl, The Crisis' kept as inherited",
     "The right amount of effort": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): concept identity VERIFIED \u2014 the page body faithfully presents the tradition's teaching from the opened source (per the audit record and the w1g ledger's opened-carrier verification); the title is the compendium's heading, not the tradition's own term. Per the owner's namespace rule, keep-as-heading is not automatically permitted: the rename/merge decision (and its inbound-link effects) remains the OWNER's; consolidated in concept-namespace-audit.md. The QC-debt part of this flag is closed. [ORIGINAL: QC r2: body PASS; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition; researched body pushed as WIP]",
     "The quiet craftsman's life": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): concept identity VERIFIED \u2014 the page body faithfully presents the tradition's teaching from the opened source (per the audit record and the w1g ledger's opened-carrier verification); the title is the compendium's heading, not the tradition's own term. Per the owner's namespace rule, keep-as-heading is not automatically permitted: the rename/merge decision (and its inbound-link effects) remains the OWNER's; consolidated in concept-namespace-audit.md. The QC-debt part of this flag is closed. [ORIGINAL: Reopened for QC: QC milestone: identity gate \u2014 seed's 'Book II, principle 94' referent unresolved; Zhuangzi research retained as WIP; title/identity awaiting supervisor disposition (worker flag in concept-namespace-audit.md); NOT done pending disposition; takeover note 2026-10-21 worker-p1zzg-8c31f0a7: done-mark REMOVED (was added in error against this hold); Legge quotes re-verified verbatim against the freshly fetched ETH Zurich PDF, recorded in sources/w1g ledger; still NOT done pending disposition] | Sweep check 2026-10-25 (worker-pplx-1025-o): targeted narration absent; validator (normal profile) passed.",
@@ -127,7 +127,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 24,
-  "updated": "2026-10-25T12:04:06+00:00",
+  "updated": "2026-10-25T12:05:06+00:00",
   "band_done": false,
   "notes": {
     "band_completion": "2026-10-22 worker-sup-flourish-1022b: all 5 w1g concepts closed at fast-track bar. Four already carried verbatim quotes (Gross/Bonanno, SEP Phenomenology, Legge Zhuangzi 19, Ross NE + Sona Sutta); 'The rehearsal of virtue' rewritten from the opened Seneca L94 Gummere text (Virtue depends partly upon training and partly upon practice + mind-metamorphosis sentence verbatim).",
@@ -138,6 +138,14 @@
       "url": "https://archive.org/details/plotinus-in-seven-volumes.-vol.-1-loeb-440",
       "limitations": "Sun-like quote verified from IA OCR of Loeb text; D065 quote not re-fetched this session",
       "qc": "Advisor pass 1: cut unsupported bridging claims (Forms/Good gloss rewritten from I.6.9 source only; 'never self-made' Daoist-Plotinus claim removed; Legge '/' line-joining in prose removed). Floor reached (88->150+ prose words)."
+    },
+    "The narrative self": {
+      "claims": "MacIntyre childhood-stories grounding; Strawson Episodic/Diachronic objection; good non-Narrative lives",
+      "quotation": "'wicked stepmothers, lost children, good but misguided kings, wolves that suckle twin boys' (After Virtue ch.15, IA hOCR); 'He is not essentially, but becomes through his history, a teller of stories that aspire to truth.' (same); Strawson: '[E] one does not figure oneself, considered as a self, as something that was there in the (further) past and will be there in the (further) future'; 'I have absolutely no sense of my life as a narrative with form, or indeed as a narrative without form. Absolutely none.'; 'There are deeply non-Narrative people and there are good ways to live that are deeply non-Narrative.'",
+      "locator": "After Virtue ch.15 (IA hOCR); Against Narrativity Ratio 17(4) 2004 pp.430ff (UCSD author PDF via Wayback)",
+      "url": "https://archive.org/details/after-virtue-alasdair-macintyre ; https://web.archive.org/web/2022/https://lchc.ucsd.edu/mca/Paper/against_narrativity.pdf",
+      "limitations": "Strawson quotes from archived UCSD author PDF; page numbers approximate (p.430 for Episodic definition)",
+      "qc": "Fixed first-person defect ('my broader entry'); added sourced objection section; floor reached (114 -> ~220 prose words). Advisor QC on The inner light pass applied lessons: no bridge-claim inflation."
     }
   }
 }
