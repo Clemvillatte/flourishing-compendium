@@ -639,8 +639,7 @@ not know the why; the cannot-not-read, cannot-stop-listening and cannot-shut-eye
 and confirms the amnesia patient retained pre-accident knowledge such as his own name.
 Boundary material for the M4 attentional row. Status for the chapter-1, chapter-2, chapter-3
 and chapter-6 segments: verified-video (transcript-based content review; identity, duration
-and instructor metadata inherited from the previous worker's checks). Lecture 7 is now fully
-content-verified across all six chapters.
+and instructor metadata inherited from the previous worker's checks). Lecture 7 is now fully content-verified across all six chapters; the bounded chapters 1 to 3 and 6 were re-read from the raw fetch's saved output file with boundaries and lengths printed (chapter 1, 7,894 characters; chapter 2, 3,368; chapter 3, 4,499; chapter 6, 1,443), confirming full coverage of each bounded chapter.
 
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 24, continued): lecture 1
 (Introduction to Psychology, 29:37) chapter 2 (General Goals, 00:10:03 to 00:13:08) read in
@@ -655,13 +654,13 @@ anthropology, literature and theology). Serves M1 orientation; no matrix row cur
 lecture 1 segments, so the assignment is flagged for the strategist or an independent review
 rather than made by this worker. Status for the chapter-2 segment: verified-video
 (transcript-based content review; identity, duration and instructor metadata inherited from
-the previous worker's checks). Lecture 1 is now fully content-verified across all three chapters; the chapter 2 text, and the re-reads of chapters 1 and 3, were read from the raw fetch's saved output file, completing the read recorded above.
+the previous worker's checks). Lecture 1 is now fully content-verified across all three chapters; the chapter 2 text, and the re-reads of chapters 1 and 3, were read in full from the raw fetch's saved output file (chapter 1, 6,061 characters; chapter 3, 12,894 characters), completing the read recorded above.
 
 QC pass (2026-10-25, worker-pplx-psychdim-2, batch 23; advisor round 2): the advisor
 withheld clearance on batches 19 to 22 with four repairs, all applied in this pass. (1)
 Provenance: the full-text fetches used for batches 18 to 22 carried a return-as-is prompt
 rather than being fully unprompted; every entry was re-verified in this pass against a raw
-unprompted re-fetch of the same OYC page (prompt omitted). The checks differed by lecture and are recorded as performed: lecture 13's transcript body was compared word-by-word (normalised) and is identical; lecture 17's body was compared and is identical in substance, the raw additionally preserving printed false starts; lectures 11 and 12 were re-read from raw fetches with the entries' content claims and quoted spans checked against the raw text and matching; lecture 16 was re-read from a raw fetch with the entry's content claims checked and matching. Full word-by-word body comparisons were run only for lectures 13 and 17; the lectures 11, 12 and 16 checks were claim-and-quote checks, not full-body diffs. Lecture 17's raw fetch additionally preserves
+unprompted re-fetch of the same OYC page (prompt omitted). The checks differed by lecture and are recorded as performed: lecture 13's transcript body was compared in full (all words, then all alphanumerics) and is identical, the only differences being sentence-boundary spacing introduced by the two page cleanings; lecture 17's body was compared and is identical in substance, the raw additionally preserving printed false starts; lectures 11 and 12 were re-read from raw fetches with the entries' content claims and quoted spans checked against the raw text and matching; lecture 16 was re-read from a raw fetch with the entry's content claims checked and matching. Full word-by-word body comparisons were run only for lectures 13 and 17; the lectures 11, 12 and 16 checks were claim-and-quote checks, not full-body diffs. Lecture 17's raw fetch additionally preserves
 Bloom's printed false starts (for example 'typical — typically' and 'what we expect and what
 we actually — what actually happens') that the earlier fetch had smoothed; no quoted span in
 the ledger is affected, and the raw text is now the authority of record. (2) Lecture 13's
@@ -954,12 +953,12 @@ feeding the next module's entry:
   13 to 24 entries). The three talks: Barrett and Wood are content-verified
   from their published transcripts (see the batch 25 and 26 entries and the
   matrix rows they now support); the Howard lecture remains a candidate
-  with no accessible transcript (batch 27 documents the three blocked
+  with no transcript retrieved through the routes tried (batch 27 documents the blocked
   routes); flagged for the supervisor.
 - The three talks: the Barrett talk (18:29) and the Wood talk (6:18) are
   content-verified from their published transcripts (see the batch 25
   and 26 entries); the Howard lecture (58:54) remains a candidate —
-  no accessible transcript (batch 27 documents the three blocked
+  no transcript retrieved through the routes tried (batch 27 documents the blocked
   routes); flagged for the supervisor.
 - Intelligence and behavioral genetics (lecture 13 chapters 3 to 6):
   content-verified but unassigned — intelligence is not an established
