@@ -17,6 +17,8 @@ The article describes the sequence: "The ceremony itself entailed all the fires 
 
 The ceremony was not uniquely Aztec: the article notes it "was an ancient and widespread ritual in Postclassic Central Mexico that the Aztecs appropriated to their own society".
 
+The pieces of the rite hold together as an economy of fear and renewal. The fires go out everywhere, one new fire is made and carried all over the city, and the carrying is described as a celebration because the sun would return. The belief the article names, that the sun might not come back, is what the whole sequence answers: the world is treated as something that has to be re-lit, and the lighting is the rite.
+
 ### Here
 
 - [[M054 — Light the New Fire periodically]] cites this ceremony as its source image.
