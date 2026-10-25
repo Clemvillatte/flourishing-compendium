@@ -601,3 +601,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K381 Compassionate Thinking: name the part, then look from the other side
 - Read the full page; both verbatim quotes re-verified against the downloaded Kolts CFT Made Simple PDF: the Anxious Jenny cardboard-cutout passage (verbatim, including "or Justin Bieber") and the Compassionate Jenny walk-around passage with Jenny's reply (verbatim; PDF soft hyphens are layout artifacts).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K383 Safe Place with an affiliative welcome
+- Read the full page; both verbatim quotes re-verified against the downloaded Kolts CFT Made Simple PDF: the "safe place imagery... soothing space" passage (verbatim) and the affiliative-component passage with the full welcome instruction (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
