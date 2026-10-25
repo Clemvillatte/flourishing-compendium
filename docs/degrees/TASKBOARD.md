@@ -71,8 +71,8 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
-- 2026-10-25 (passes 2-5 plus QC repairs; latest save see below)
-  worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5 + QC
+- 2026-10-25 (scope: since b6aa42884, including subsequent additions)
+  worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES + QC
   REPAIRS — LEDGER (commits 5dbf41e8f, 0295b5030, c8849acf7, 46923f9b0,
   3864101ca, fd4410dea, 450ce7480, 7b210f70d, plus the final saves). 34
   description-basis cards evidenced (29 upgrades + 2 corroborations +
@@ -103,12 +103,22 @@ reference, unique source ids in brackets):
   stamp bounds (batches 2-3 had cited pre-writing clock readings) and
   reconciled this ledger (a commit message said 13 for a 16-card batch;
   an earlier checkpoint said 25 for a 28-card enumeration — history left
-  as pushed, corrected here).
+  as pushed, corrected here). SECTION-4 CREDENTIALS FLAG FOR THE OWNER:
+  the binding standard (docs/degrees/skill/curriculum-design/Skill.md
+  section 4) requires instructor credentials verified on a biography or
+  institutional page, NOT the recording's/host's own description. An
+  audit of the 29 upgraded cards' credential lines shows 12 cite host
+  descriptions (M-15-001, M01-P05, M01-P17, M01-P20, M05-SP-01, PHR-01,
+  M04-R05, M04-R08, M04-R13, M08-S06, M08-S17, M08-S24); the rest cite
+  institutional or opened pages. The transcript pass closed the COVERAGE
+  gate only; the credentials basis is the prior verification's record.
+  The owner should attach institutional/biography pages for the 12 (or
+  revert those cards to verified-partial).
 
-- 2026-10-25 (before the 14:53:26Z save) worker-pplx-degfin-1 (deg-verify-a):
+- 2026-10-25 (evidence commits b6c1c1577, stamp-corrected b6aa42884;
+  checkpoint appended in a later save) worker-pplx-degfin-1 (deg-verify-a):
   deg-wellbeing BATCHED TRANSCRIPT PASS — 10 description-basis cards
-  coverage-confirmed via the third-party transcript route (b6c1c1577,
-  stamp-corrected b6aa42884): six upgraded verified-partial to
+  coverage-confirmed via the third-party transcript route: six upgraded verified-partial to
   verified-video with the coverage basis moved into the status line
   (M08-P03 Seligman AfH, M08-P15 Steger, M08-P09 Ryan, M08-P12 Brown,
   M08-P13 Waldinger, M08-P10 Masten); four already-verified entries
