@@ -1,0 +1,253 @@
+# Verification evidence: deg-contemplative (Block B, required sources)
+
+Verifier: verifier-pplx-a1 (baton deg-verify-a). Verification standard: skill section 4.
+Method note: every source below was opened in-session (oembed plus watch page for
+YouTube; source page for the Penn Museum lecture). Verification dates recorded per
+source. Optional media for this degree are not yet verified; see the remainder note at
+the end. All sources below are freely accessible, no paywalls or app gates found.
+
+## mod-cont-1 batch (verified 2026-10-25)
+
+### M01-D01: Daoism, Forms, History, and Present (Livia Kohn)
+
+- Identity and access: oembed confirms the talk on The Interfaith Center at Miami
+  University channel (https://www.youtube.com/watch?v=2mxEeTSGxcc).
+- Duration: 1:28:45 (watch page, 2026-10-25).
+- Instructor credentials: Livia Kohn, PhD, Professor Emerita of Religion and East Asian
+  Studies at Boston University, editor of the Journal of Daoist Studies (stated in the
+  host's event description).
+- Language: English.
+- Content coverage: the host's description frames it as an accessible introduction to
+  Daoism as a religious tradition, its forms, history and present state.
+- Relevant segment: whole talk, 1:28:45.
+- Verification status: verified-video.
+
+### M01-D04: Why This Text Matters, Daodejing (Brook Ziporyn, UChicago Divinity School)
+
+- Identity and access: oembed confirms the episode on the University of Chicago
+  Divinity School channel (https://www.youtube.com/watch?v=EJ1bB2w2gBk).
+- Duration: 0:53:36 (watch page, 2026-10-25).
+- Instructor credentials: Brook Ziporyn, Mircea Eliade Professor of Chinese Religion,
+  Philosophy, and Comparative Thought at the University of Chicago Divinity School,
+  translator of the Zhuangzi (stated in the host's description).
+- Language: English.
+- Content coverage: the host's description and chapter list show a philosophical
+  introduction to the Daodejing: dao, de and wu wei, disputed origins, the text read
+  as a coherent anthology, being and nonbeing, the infant and the fertile void,
+  Zhuangzi on wu wei, and ambiguity as deliberate. The page prints full chapter
+  timestamps from 0:00:00 to 0:51:07.
+- Relevant segment: whole episode, 53:36; chapters are timestamped on the page.
+- Verification status: verified-video.
+
+### M01-D07: The Greatest Daoist Philosopher, Zhuangzi (Bryan Van Norden)
+
+- Identity and access: oembed confirms the lecture on Bryan Van Norden's channel
+  (https://www.youtube.com/watch?v=UNju5zGfdjI).
+- Duration: 0:58:32 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: Bryan W. Van Norden, Professor of Philosophy at Vassar
+  College (stated in the event description; hosted by Saint Louis University).
+- Language: English.
+- Content coverage: the event description states the 5 February 2021 public lecture
+  discusses relativism, skepticism and mysticism as understood by Zhuangzi.
+- Relevant segment: whole lecture, 58:32.
+- Verification status: verified-video.
+
+## mod-cont-2 batch (verified 2026-10-25)
+
+### M01-D08: Lundao 5, Daoist Yangsheng, Nourishing Life (Louis Komjathy)
+
+- Identity and access: oembed confirms the video on the Daoist Foundation channel
+  (https://www.youtube.com/watch?v=WDwPln1CczI).
+- Duration: 0:53:43 (watch page, 2026-10-25).
+- Instructor credentials: Louis Komjathy, PhD, founding Co-director and senior
+  teacher of the Daoist Foundation (per the uploader description).
+- Language: English.
+- Content coverage: the uploader's description states the talk covers Daoist
+  yangsheng (nourishing life): the informing Daoist view, general principles, and the
+  theory behind the foundation's basic yangsheng practice.
+- Relevant segment: whole talk, 53:43.
+- Verification status: verified-video.
+
+### M01-D11: Lundao 7, The Inner Cultivation Lineages of Classical Daoism (Louis Komjathy)
+
+- Identity and access: oembed confirms the video on the Daoist Foundation channel
+  (https://www.youtube.com/watch?v=yuiYIaaUtds).
+- Duration: 1:10:54 (watch page, 2026-10-25).
+- Instructor credentials: as M01-D08 above.
+- Language: English.
+- Content coverage: the uploader's description states the talk covers the Inner
+  Cultivation Lineages of classical Daoism, the earliest Daoist religious community,
+  and remedies mistaken views about Daoism including the so-called philosophical
+  Daoism fiction.
+- Relevant segment: whole talk, 1:10:54.
+- Verification status: verified-video.
+
+### M01-D13: Time in Daoist Culture (Livia Kohn, Collaborative Learning)
+
+- Identity and access: oembed confirms the lecture on the Collaborative Learning
+  Si Hai Wei Xue channel (https://www.youtube.com/watch?v=vpWZTiaL504).
+- Duration: 1:31:33 (watch page, 2026-10-25).
+- Instructor credentials: as M01-D01 above (Kohn, Boston University emerita).
+- Language: English.
+- Content coverage: the host's description states the 6 April 2026 lecture draws on
+  Kohn's Taming Time to examine six levels of temporality, from sociotemporality and
+  nootemporality through biotemporality, eotemporality and prototemporality to
+  atemporality, including Daoist practices tied to each level.
+- Relevant segment: whole lecture, 1:31:33.
+- Verification status: verified-video.
+
+## mod-cont-3 batch (verified 2026-10-25)
+
+### M02-B04: The Four Noble Truths (Georges Dreyfus, Shantideva Center)
+
+- Identity and access: oembed confirms the teaching on the Shantideva Center, FPMT
+  channel (https://www.youtube.com/watch?v=DLPsIhDWZp4).
+- Duration: 1:20:35 (watch page, 2026-10-25).
+- Instructor credentials: Georges Dreyfus, scholar of Tibetan Buddhism (the center's
+  description); a noted Buddhist scholar and former monk, per the FPMT framing.
+- Language: English.
+- Content coverage: the center's description states the 23 April 2024 teaching covers
+  the Four Noble Truths Sutra, the three phases of engaging with each truth, and the
+  path structure of Buddhist philosophy.
+- Relevant segment: whole teaching, 1:20:35.
+- Verification status: verified-video.
+
+### M02-B05: Nature of the Mind (His Holiness the 14th Dalai Lama)
+
+- Identity and access: oembed confirms the talk on the Dalai Lama channel
+  (https://www.youtube.com/watch?v=gO7RQi55asY).
+- Duration: 2:05:06 (watch page, 2026-10-25).
+- Instructor credentials: His Holiness the 14th Dalai Lama, Nobel Peace Prize
+  laureate and spiritual head of Tibetan Buddhism; talk given at UC Santa Barbara
+  (per the page description).
+- Language: English.
+- Content coverage: the page description states the talk at the UCSB Events Center
+  on 24 April 2009 covers the nature of mind, levels of consciousness including
+  subtle consciousness, constructive and destructive emotions, and Buddhist
+  perspectives in dialogue with modern science.
+- Relevant segment: whole talk, 2:05:06.
+- Verification status: verified-video.
+
+### M02-B07: What the Buddha Taught (Ajahn Brahm)
+
+- Identity and access: oembed confirms the talk on the Everyday Dhamma Network
+  channel (https://www.youtube.com/watch?v=W6pGAvtBmCw).
+- Duration: 0:49:44 (watch page, 2026-10-25).
+- Instructor credentials: Ajahn Brahm, Abbot of Bodhinyana Monastery, Western
+  Australia, talks recorded and distributed free by the Buddhist Society of Western
+  Australia (per the channel description).
+- Language: English.
+- Content coverage: the channel description states this is a remastered recording of
+  a 21 November 2003 dhamma talk outlining what the Buddha taught through the
+  framework of the night of the Buddha's awakening, focusing on rebirth, kamma and
+  vipaka, and the Four Noble Truths. A full transcript is available via the podcast
+  site.
+- Relevant segment: whole talk, 49:44.
+- Verification status: verified-video.
+
+### M02-B02: The Buddhist Meditative Askesis (Gananath Obeyesekere, Harvard Divinity School)
+
+- Identity and access: oembed confirms the lecture on the Harvard Divinity School
+  channel (https://www.youtube.com/watch?v=GbxCprEcD-0).
+- Duration: 1:29:58 (watch page, 2026-10-25).
+- Instructor credentials: Gananath Obeyesekere, Emeritus Professor of Anthropology
+  at Princeton University (stated in the host's description).
+- Language: English.
+- Content coverage: the host's description states this 22 April 2004 William James
+  Lecture presents a phenomenological account of Buddhist meditative trance as a
+  source of knowledge beyond waking consciousness, the Buddha's mythic path,
+  visionary time and space, and the distinction between discursive and meditative
+  thinking, with comparisons to Freud, Nietzsche and other traditions.
+- Relevant segment: whole lecture, 1:29:58.
+- Verification status: verified-video.
+
+## mod-cont-4 batch (verified 2026-10-25)
+
+### M05-YV-03: The Atman (Swami Sarvapriyananda)
+
+- Identity and access: oembed confirms the talk on the Ramakrishna Vedanta Society
+  of North Texas channel (https://www.youtube.com/watch?v=9h7sK5jOMSM).
+- Duration: 0:50:47 (watch page, 2026-10-25).
+- Instructor credentials: Swami Sarvapriyananda, Vedanta monk of the Ramakrishna
+  Order (the talk is part of his Practical Vedanta Workshop 2021).
+- Language: English.
+- Content coverage: the watch page material identifies the talk as part of the
+  Practical Vedanta Workshop on knowledge and action, drawing on Bhagavad Gita
+  chapter 2, verses 11 to 25, examining the Atman as self-revealed awareness,
+  neither doer nor experiencer.
+- Relevant segment: whole talk, 50:47.
+- Verification status: verified-video.
+
+### M05-YV-01: Patanjali's Yoga Sutras, Class 1 (Swami Tattwamayananda)
+
+- Identity and access: oembed confirms the class on the Vedanta Society of New York
+  channel (https://www.youtube.com/watch?v=8vELEza_CH4).
+- Duration: 1:15:50 (watch page, 2026-10-25).
+- Instructor credentials: Swami Tattwamayananda, minister of the Vedanta Society of
+  Northern California, San Francisco (stated in the series description).
+- Language: English.
+- Content coverage: the series description states this first class introduces the
+  Yoga Sutras of Patanjali, their four chapters, the muntraya of Patanjali, Vyasa
+  and Shankaracharya, and Yoga's analysis of mind, vrittis, samskaras, and the
+  seer-seen relationship, taught with traditional Sanskrit commentaries.
+- Relevant segment: whole class, 1:15:50.
+- Verification status: verified-video.
+
+### M02-K04: Japanese Philosophy, The Power of Nothingness (Fréderique Petit, Studium Generale Delft)
+
+- Identity and access: oembed confirms the lecture on the Studium Generale Delft
+  channel (https://www.youtube.com/watch?v=f9nwN4aXWvI).
+- Duration: 0:49:42 (watch page, 2026-10-25).
+- Instructor credentials: Fréderique Petit, independent philosopher, political
+  scientist, psychologist and teacher, lecturing for institutions including TU Delft
+  (stated in the host's description).
+- Language: English.
+- Content coverage: the host's description and chapter list show the lecture covers
+  the Kyoto School and nothingness, Zen Buddhism, koans, tetsugaku as engaged
+  knowing, with chapters timestamped (intro 0:00, Kyoto School 25:25, Q&A 43:24).
+  Note: it is part two of a two-part series; part one is a separate video not
+  attached to the degree.
+- Relevant segment: whole lecture, 49:42.
+- Verification status: verified-video.
+
+## mod-cont-5 batch (verified 2026-10-25)
+
+### M05-MA-03: Teotihuacan, Rome of the Ancient Americas (Simon Martin, Penn Museum)
+
+- Identity and access: the Penn Museum collections page hosts the video
+  (https://collections.penn.museum/collections/videos/video/1280), free.
+- Duration: 1:06:00 (printed on the museum page, 2026-10-25, matches the record).
+- Instructor credentials: Simon Martin, Associate Curator and Keeper in the American
+  Section, Penn Museum, and Adjunct Associate Professor of Anthropology, University
+  of Pennsylvania (stated on the museum page).
+- Language: English.
+- Content coverage: the museum page states the lecture covers Teotihuacan's
+  emergence around 100 CE, its urban grid, population of up to 150,000, pyramids and
+  apartment compounds, murals and iconography, and its impact on ancient
+  Mesoamerica.
+- Relevant segment: whole lecture, 1:06:00.
+- Verification status: verified-video.
+
+### M05-MA-01: Miguel León-Portilla and the Work of Eternal Return (Davíd Carrasco)
+
+- Identity and access: oembed confirms the lecture on the Observatorio (Instituto
+  Cervantes at Harvard) channel (https://www.youtube.com/watch?v=wFVQtyXtNVc).
+- Duration: 1:31:04 (watch page, 2026-10-25).
+- Instructor credentials: Davíd Carrasco, Neil L. Rudenstine Professor of the Study
+  of Latin America at Harvard University (stated in the host's description).
+- Language: English (with Spanish sections in the event description; the lecture
+  itself is delivered in English per the recording's framing).
+- Content coverage: the host's description states the illustrated lecture pays
+  tribute to Miguel León-Portilla, covering his work on Nahuatl philosophy and
+  archaeology, cultural justice for indigenous peoples, and The Broken Spears.
+- Relevant segment: whole lecture, 1:31:04.
+- Verification status: verified-video.
+
+## Remainder
+
+Optional media for deg-contemplative (M01-D09, SRC-M12-007, M01-D18, M01-D19,
+M01-D20, M02-K06, SRC-M22-YV01, SRC-M22-YV02, SRC-M22-YV04, SRC-M24-001 to 006,
+M05-MA-02 and the capstone repeats) are still labelled imported and await a following
+verification pass.
+
+(in progress: verifier-pplx-a1)
