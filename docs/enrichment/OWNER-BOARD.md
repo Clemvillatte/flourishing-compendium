@@ -36,21 +36,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25T10:54Z worker-pplx-dos14-1025aa: took dos14; agency Rothbaum flag closed with raw evidence; ledger updated.
-- 2026-10-25 ~06:37Z worker-pplx-dos33-1025-0600a: impermanence Epicurus Letter to Menoeceus dead carrier (epicurus.net) replaced with accessible epicuros.gr Hicks translation; quote verified verbatim by eye against freshly opened page; checks green (30 card links, 20 headers, 25 external carriers; density 0; quote_verify 5 checked 2 not-found, down from 3; both remaining are documented standing exceptions); baton to be released (source: commit 866d95430).
-- 2026-10-25 ~09:05Z worker-pplx-sup-1025y: supervisor pass 1 done — build ok, p1i applied (8 links, verified card-faithful), oembed identity sample PASS, PROGRESS refreshed.
-- 2026-10-25 ~09:15Z worker-pplx-sup-1025y: PP059 'unmatched principle' in PROGRESS is a FALSE POSITIVE — page deleted by owner directive (a1c314560, narrative arts); stale done-record sits in p1zzi.json; flagged, band file left untouched per rules.
-- 2026-10-25 ~09:27Z worker-pplx-sup-1025y: supervisor pass 1 (cont.) — suffering repair approved + republished (d934d6016), psychdim coverage evidence independently confirmed (314487241), body flip confirmed sound (5ef65fc08), six deg Block I-b identity samples PASS.
-- 2026-10-25 10:32Z worker-pplx-1025i: took dos20 (anger) for the flagged Aristotle span repairs; will verify the-self Milinda/Deikman spans next.
-- 2026-10-25 10:31Z worker-pplx-ct3-1025n2: took+released ct3 (verified 43/43 done, band_done flipped); taking dos33 to finish/publish procrastination.
-- 2026-10-25 10:26Z worker-pplx-dossiers-1025bb: took dossiers baton — meaning-and-mortality GF-model rewrite (lane 1). [timestamp corrected 10:43Z from a fresh clock reading; baton-claim time was ~10:26Z, exact commit time lost in a rebase]
-- 2026-10-25 ~10:33Z worker-pplx-1025i: took dos28 (sadness-and-grief) — two under-substantiated dispute questions need primary-source quotes (mourning-as-detachment vs continuing bonds; grief-work confrontation vs avoidance).
-- 2026-10-25 10:45Z dos19: pleasure pairing demoted per advisor QC; third dispute (Epicurus vs Seneca 92) added, bar met at 3.
-- 2026-10-25 ~10:35Z worker-pplx-dos34-1025h: dos34 baton taken; leisure humanizer pass done (page self-description removed, checks green); flip stays held on owner art ruling.
-- 2026-10-25 ~10:42Z worker-pplx-dos34-1025h: leisure advisor QC applied (claims re-grounded, checks green); flip still held on owner art ruling.
-- 2026-10-25 10:37Z worker-pplx-1025i: released dos28 (sadness-and-grief substantiated, Freud anchors added, quote_verify 32/0); took dos17 (body) for the two under-anchored perception questions.
-- 2026-10-25 10:35Z worker-pplx-ef25-launcher (dos35): executive-functions advisor QC rounds 1-2 applied, checks green; registry stays planned — owner reader gate flagged for supervisor.
-- 2026-10-25 ~10:40Z worker-pplx-dos10-1025m: motivation humanizer pass done (5 self-description repairs, checks green); supervisor: re-splice motivation when convenient.
 - 2026-10-25 10:38:39Z worker-pplx-dos34-1025h: released dos34 (leisure done, flip held on owner art ruling) [line restored after rebase loss].
 - 2026-10-25 10:38:50Z worker-pplx-dos10-1025m: took dos10 (motivation humanizer pass) [line restored after rebase loss].
 - 2026-10-25 10:41Z worker-pplx-dos10-1025m: motivation advisor QC applied (3 rewrites revised, checks green); board baton lines restored with real timestamps.
@@ -90,3 +75,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:55Z worker-pplx-9ff61dc0: released p1zzf (7/7 Tier-2 cards repaired, sources opened verbatim, validators PASS); took p1zy (next Tier-2 band, 9 cards).
 - 2026-10-25 10:57Z worker-pplx-ef25-launcher (no baton, read-only check): dos35's 2 quote_verify misses (Logie 2016 spans, tandfonline 17470218.2015.1136657) verified VERBATIM against the live page this session — bot wall only, same class as Sanderse; for supervisor: ledger documentation optional, no text change needed.
 - 2026-10-25 11:00Z worker-pplx-t2b-1025w: w1af Trustworthiness seed locator corrected (Chase truthfulness chapter = Book IV Ch IX, 'IV.3' was a Bekker convention the carrier does not use); flag resolved
+- 2026-10-25 10:55Z worker-pplx-dos4-1025m + dos29-1025m: advisor verification audit applied - shame-and-guilt ledger exceptions individually mapped (3 de Hooge/PubMed + 1 Heidegger/.doc); attention ledger Weil span added, unsupported Simon gloss narrowed to card content; checks green.

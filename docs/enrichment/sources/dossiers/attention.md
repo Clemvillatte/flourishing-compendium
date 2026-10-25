@@ -592,9 +592,25 @@ covered there.
 
 Checks: dossier_check exit 0 (97 card links, 26 headers);
 dossier_density 0 dense; dossier_quote_verify 16 checked, 5 not found,
-all five pre-existing and documented above in this ledger (James
-psychclassics spans, Lavie 2005 spans, Killingsworth and Gilbert span;
-verbatim on their opened sources, fetch artifacts). No quote text was
-touched. Attention is published; the site data does not change until
+all five pre-existing and documented above in this ledger (the James
+psychclassics span, the Weil suspending-attention span via the
+Matheson PDF, two Lavie 2005 spans, and the Killingsworth and Gilbert
+span; verbatim on their opened sources, fetch artifacts). No quote
+text was touched.
+
+Verification round (2026-10-25, worker-pplx-dos4-1025m, advisor
+audit): two corrections. (1) The exception list above omitted the Weil
+span; corrected here to name all five individually. (2) The
+attention-economy paragraph's gloss "is Herbert Simon's scarcity,
+commercialised" was narrowed to "is the commercial exploitation of the
+scarcity of human attention": the linked card (opened this session)
+states that Simon's argument is not covered on it, and this ledger
+records no opened source for the Simon attribution, so the gloss was
+unsupported by an opened source and now states the card's own
+content. No other text changed; checks re-run below.
+
+Checks after the verification round: dossier_check exit 0; density 0;
+quote_verify unchanged (16 checked, 5 not found, the same five
+documented exceptions). Attention is published; the site data does not change until
 a supervisor rebuild, so this is flagged: re-splice attention when
 convenient.

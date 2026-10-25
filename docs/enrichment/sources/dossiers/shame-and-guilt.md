@@ -423,8 +423,11 @@ page/dossier self-description. No claims, quotes or citations changed.
 
 Checks: dossier_check exit 0 (39 card links, 25 headers);
 dossier_density 0 dense; dossier_quote_verify 35 checked, 4 not
-found — all under the standing blocked-fetch exceptions documented
-above in this ledger (PMC/PubMed plain-fetch blocks; supervisor
-sampling recorded); no quote text was touched. Shame-and-guilt is
+found — all four individually documented above in this ledger: 3 de
+Hooge spans via PubMed 29303420 (opened and verified, and re-verified
+by eye against the fetched Tilburg record), 1 Heidegger Being and
+Time §58 span via the dhspriory .doc (fetched directly, confirmed
+verbatim, verified by eye); the .doc and PubMed carriers block the
+verifier's plain fetch. No quote text was touched. Shame-and-guilt is
 published; the site data does not change until a supervisor rebuild,
 so this is flagged: re-splice shame-and-guilt when convenient.
