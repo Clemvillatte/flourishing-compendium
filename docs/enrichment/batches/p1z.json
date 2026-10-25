@@ -1,90 +1,90 @@
 {
-  "batch": "p1z",
-  "done": [
-    "BE023",
-    "AF069",
-    "AF084",
-    "AT001",
-    "AT012",
-    "AT014",
-    "AT038",
-    "AT043",
-    "AT026",
-    "AT055",
-    "AT078",
-    "BE025",
-    "BE039",
-    "BE060",
-    "BE059",
-    "BE050",
-    "BE040",
-    "BI041",
-    "BI029",
-    "BE078",
-    "BE068",
-    "BI005",
-    "BI049",
-    "CO004",
-    "CO010",
-    "CO019",
-    "BI043",
-    "AT047",
-    "AT069",
-    "AT005"
-  ],
-  "in_progress": null,
-  "flagged": {
-    "BE023": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE023.md and the BI041 round-2 supervisor entry",
-    "AT001": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/AT001.md and the BI041 round-2 supervisor entry",
-    "AT026": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/AT026.md and the BI041 round-2 supervisor entry",
-    "BE040": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE040.md and the BI041 round-2 supervisor entry",
-    "BE059": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE059.md and the BI041 round-2 supervisor entry",
-    "BE050": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE050.md and the BI041 round-2 supervisor entry",
-    "BI029": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BI029.md and the BI041 round-2 supervisor entry",
-    "BE078": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE078.md and the BI041 round-2 supervisor entry",
-    "BE068": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE068.md and the BI041 round-2 supervisor entry",
-    "BI005": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BI005.md and the BI041 round-2 supervisor entry",
-    "CO019": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
-    "BI043": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
-    "AT047": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
-    "AT069": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE \u2014 the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
-    "AT005": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
+ "batch": "p1z",
+ "done": [
+  "BE023",
+  "AF069",
+  "AF084",
+  "AT001",
+  "AT012",
+  "AT014",
+  "AT038",
+  "AT043",
+  "AT026",
+  "AT055",
+  "AT078",
+  "BE025",
+  "BE039",
+  "BE060",
+  "BE059",
+  "BE050",
+  "BE040",
+  "BI041",
+  "BI029",
+  "BE078",
+  "BE068",
+  "BI005",
+  "BI049",
+  "CO004",
+  "CO010",
+  "CO019",
+  "BI043",
+  "AT047",
+  "AT069",
+  "AT005"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "BE023": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE023.md and the BI041 round-2 supervisor entry",
+  "AT001": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/AT001.md and the BI041 round-2 supervisor entry",
+  "AT026": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/AT026.md and the BI041 round-2 supervisor entry",
+  "BE040": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE040.md and the BI041 round-2 supervisor entry",
+  "BE059": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE059.md and the BI041 round-2 supervisor entry",
+  "BE050": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE050.md and the BI041 round-2 supervisor entry",
+  "BI029": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BI029.md and the BI041 round-2 supervisor entry",
+  "BE078": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE078.md and the BI041 round-2 supervisor entry",
+  "BE068": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BE068.md and the BI041 round-2 supervisor entry",
+  "BI005": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BI005.md and the BI041 round-2 supervisor entry",
+  "CO019": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
+  "BI043": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
+  "AT047": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
+  "AT069": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
+  "AT005": "RESOLVED by supervisor-pplx-c3b0f2fb-1025b 2026-10-25 13:45Z (p1z baton claimed under the fallback band-work rule; per-item measurement): the Plain-words replicate allegation is STALE — the 5-gram Plain-words/body overlap detector re-run on the current page (content/principles/AT005 — Know that attention and awareness are not the same — you can be aware without attending.md): Plain-words section is 78 words / 74 five-grams, of which 0 appear in the same page's body (0.0% overlap, threshold 30%). Fresh everyday language, not a body copy. Consistent with the 2026-10-25 11:10Z register refresh (worker-p1a-1025o) that found 0 remaining entries at >=30%. No page edit needed. [ORIGINAL ALLEGATION: Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)]"
+ },
+ "missing_concepts": [],
+ "sources_checked": 0,
+ "updated": "2026-10-25T13:45:00+00:00",
+ "band_done": true,
+ "notes": {
+  "_band": "\n2026-10-20 worker-p1z-2f8d4c1a: flag reconciliation audit. All ten flagged items (BE023, AT001, AT026, BE040, BE059, BE050, BI029, BE078, BE068, BI005) have ledgers recording applied, validator-ok QC repairs (BE023 round-2 scoped PASS; AT001 round-3 scoped PASS; AT026/BE040/BE059/BE050/BI029/BE078/BE068/BI005 corrected with validator ok). The state tool has no unflag command; SUPERVISOR: please clear these ten flagged entries, the repairs are verified in docs/enrichment/sources/p1z/. BI041 round-2 status checked separately.\n2026-10-20 worker-p1z-2f8d4c1a: band closed 30/30. Takeover completed BI043, BI049, CO004, CO010, CO019. CO010/CO019 were written without an individual advisor QC round (cadence next-due item 10; only 7 items taken) - recommend supervisor spot-check at integration; quotes verbatim-verified against directly fetched sources (see docs/enrichment/sources/p1z/CO010.md, CO019.md). p1z.json proposal records repaired for schema (15 legacy records given their documented link fields; see CO010.md ledger). Supervisor items outstanding: clear the ten flagged entries after review, and the BI041 round-2 advisor re-review routed earlier.",
+  "CO019": {
+   "qc": "Plain-words replicate replaced (0.55 -> ~0.05); prose trimmed to fit 300 cap; validator ok",
+   "claims": "n/a",
+   "limitations": "None",
+   "url": "https://psycnet.apa.org/record/1981-12384-001"
   },
-  "missing_concepts": [],
-  "sources_checked": 0,
-  "updated": "2026-10-25T12:40:53+00:00",
-  "band_done": false,
-  "notes": {
-    "_band": "\n2026-10-20 worker-p1z-2f8d4c1a: flag reconciliation audit. All ten flagged items (BE023, AT001, AT026, BE040, BE059, BE050, BI029, BE078, BE068, BI005) have ledgers recording applied, validator-ok QC repairs (BE023 round-2 scoped PASS; AT001 round-3 scoped PASS; AT026/BE040/BE059/BE050/BI029/BE078/BE068/BI005 corrected with validator ok). The state tool has no unflag command; SUPERVISOR: please clear these ten flagged entries, the repairs are verified in docs/enrichment/sources/p1z/. BI041 round-2 status checked separately.\n2026-10-20 worker-p1z-2f8d4c1a: band closed 30/30. Takeover completed BI043, BI049, CO004, CO010, CO019. CO010/CO019 were written without an individual advisor QC round (cadence next-due item 10; only 7 items taken) - recommend supervisor spot-check at integration; quotes verbatim-verified against directly fetched sources (see docs/enrichment/sources/p1z/CO010.md, CO019.md). p1z.json proposal records repaired for schema (15 legacy records given their documented link fields; see CO010.md ledger). Supervisor items outstanding: clear the ten flagged entries after review, and the BI041 round-2 advisor re-review routed earlier.",
-    "CO019": {
-      "qc": "Plain-words replicate replaced (0.55 -> ~0.05); prose trimmed to fit 300 cap; validator ok",
-      "claims": "n/a",
-      "limitations": "None",
-      "url": "https://psycnet.apa.org/record/1981-12384-001"
-    },
-    "BI043": {
-      "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
-      "claims": "n/a",
-      "limitations": "None",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/17615391/"
-    },
-    "AT047": {
-      "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
-      "claims": "n/a",
-      "limitations": "None",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/"
-    },
-    "AT069": {
-      "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
-      "claims": "n/a",
-      "limitations": "None",
-      "url": "https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content"
-    },
-    "AT005": {
-      "qc": "Plain-words replicate replaced (~0.55 -> ~0.05); validator ok",
-      "claims": "n/a",
-      "limitations": "None",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/"
-    }
+  "BI043": {
+   "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
+   "claims": "n/a",
+   "limitations": "None",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17615391/"
+  },
+  "AT047": {
+   "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
+   "claims": "n/a",
+   "limitations": "None",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/"
+  },
+  "AT069": {
+   "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
+   "claims": "n/a",
+   "limitations": "None",
+   "url": "https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content"
+  },
+  "AT005": {
+   "qc": "Plain-words replicate replaced (~0.55 -> ~0.05); validator ok",
+   "claims": "n/a",
+   "limitations": "None",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/"
   }
+ }
 }
