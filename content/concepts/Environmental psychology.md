@@ -23,7 +23,7 @@ The field's identity is a commitment list: "what sets environmental psychology a
 
 ### How the field arrived
 
-"Scientific psychology began in the 19th century, but not until the end of the 1950s was psychology's range extended in any serious way to the physical environment" (Gifford, Steg and Reser 2011). The chapter's compressed history runs forward from there: "By mid-century, environmental psychology was a clearly established discipline with work on topics such as sensory isolation, personal space, and building design" (Gifford, Steg and Reser 2011).
+"Scientific psychology began in the 19th century, but not until the end of the 1950s was psychology's range extended in any serious way to the physical environment" (Gifford, Steg and Reser 2011). The chapter's fuller chronology was not independently verified against the printed PDF text, so no further dated claims are made here.
 
 A sample of its experimental findings is Bratman and colleagues' PNAS study:
 

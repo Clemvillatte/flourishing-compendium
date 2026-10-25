@@ -21,7 +21,7 @@ Book IX grounds the account in the self: "a friend being in fact another Self" (
 
 ### Whether the happy man needs friends
 
-Aristotle raises the question directly and answers it: "it is perhaps absurd to make our Happy man a solitary, because no man would choose the possession of all goods in the world on the condition of solitariness, man being a social animal and formed by nature for living with others... we conclude, therefore, that the Happy man does need Friends" (NE IX.9). He adds a working reason: "life is burthensome to a man in solitude, for it is not easy to work continuously by one's self" (NE IX.9). The friend the happy man needs is of the perfect kind, since he desires to contemplate good actions and those of a good friend are that.
+Aristotle raises the question directly and answers it: "it is perhaps absurd to make our Happy man a solitary, because no man would choose the possession of all goods in the world on the condition of solitariness, man being a social animal and formed by nature for living with others" (NE IX.9). The chapter concludes that "the Happy man does need Friends" (NE IX.9). He adds a working reason: "life is burthensome to a man in solitude, for it is not easy to work continuously by one's self" (NE IX.9). The friend the happy man needs is of the perfect kind, since he desires to contemplate good actions and those of a good friend are that.
 
 ### What friends do in misfortune
 

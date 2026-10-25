@@ -21,7 +21,7 @@ Masten's definition is precise: "Resilience refers to a class of phenomena chara
 
 ### The view this supports
 
-The review closes against both gloom and rosy optimism: "Our current knowledge justifies a more positive view of normative human capabilities, ordinary parents, and the self-righting power of development than either the gloom-and-doom or the rosy-resiliency perspectives could provide" (Masten 2001). For suffering and flourishing, the practical reading follows from the passages above: resilience is not a rare armor but a set of ordinary systems that adversity threatens and that protection or restoration can keep working.
+The review closes against both gloom and rosy optimism: "Our current knowledge justifies a more positive view of normative human capabilities, ordinary parents, and the self-righting power of development than either the gloom-and-doom or the rosy-resiliency perspectives could provide" (Masten 2001). The study of resilience is the study of the processes behind those good outcomes; for children at risk, Masten recommends strategies that protect or restore the basic adaptive systems.
 
 ## Related concepts
 
