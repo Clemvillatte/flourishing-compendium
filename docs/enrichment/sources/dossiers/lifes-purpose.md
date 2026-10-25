@@ -403,3 +403,33 @@ stronger than the carrier support recorded in the GF ledger ("glare
 hurting the prisoners' eyes and dust making it difficult to see", NOT a
 permanent-injury diagnosis from that chapter); the card is outside this
 band, so the card wording is left for a supervisor or card-band worker.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos6 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 47 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read; glosses read side by side). Every gloss matches
+its card: the Frankl cluster (Purpose, Meaning, will/search/meaning-of-
+life, Logotherapy, Noogenic neurosis, Attitudinal values), the Steger,
+Mattering, Weber Beruf, Yeager purpose-linked practice, Ryff,
+self-concordance, Kasser-Ryan, Wrosch, Weick, Park meaning-making,
+McAdams life story and generativity, Taleb narrative fallacy, Ricoeur,
+Husserl (the card's own wording is "The mind does not merely receive a
+ready-made world" — the dossier's compression is faithful), Kelly (the
+card's own wording is "not found lying in events but built out of
+them"), self-transcendence cluster, Jonas/Fox-Tost-Wade-Benzoni legacy
+cluster, Nietzsche eternal recurrence, Socrates' daimon, Heidegger's
+call, the Camus cluster, nihilism and Jaspers' boundary situations. No
+mismatches found; no edits made.
+
+FLAG FOR SUPERVISOR: the voice-audit review this session covered every
+dossier that has a worker band. Six dossiers with candidates remain,
+owned by no worker band (the original published set under the
+dossiers baton): the-self (14), meaning-and-mortality (10), anger (6),
+suffering (4), freedom (4), acceptance (2) — 40 candidate lines
+altogether. Recommend the supervisor disposition these or mint bands
+for them; the-self in particular carries the highest count in the
+corpus. Also flagged earlier this session: the ST033 card's "until his
+eyes were permanently damaged" is stronger than the carrier support
+recorded in the GF ledger.
