@@ -424,3 +424,19 @@ impermanence-replacement:
 - Worker's non-binding read: register as its own slug; if the owner
   prefers folding, the Epicurus/Nagel and Marcus/Spinoza disputes and the
   scientific-record section should survive the merge verbatim.
+
+## Session end state (2026-10-25 11:14Z, worker-pplx-dossiers-1025bb)
+
+Deliverable state for the supervisor/owner: the GF-model rewrite is
+complete through pass 6 (voice pass included; restructure supervisor-
+QC'd "Content PASS"). Checks green this pass: dossier_check exit 0
+(26 card links, 13 headers, 35 carriers), density 0 dense, quote_verify
+33 checked / 5 not found (all documented exception classes, eye-verified
+earlier this session), build 5945 entries. Honest count: TWO
+substantiated disagreements (Epicurus/Nagel on whether annihilation can
+harm; Marcus/Spinoza on whether death is an object of rational fear) —
+below the 3-5 bar, FLAGGED for owner exception or a genuine third;
+manufacturing a third is banned. Registration options documented above
+(10:59Z note). the-self conversion-prep inventory and the TASKBOARD
+repair-list rescope are in their respective ledgers/boards. All work
+pushed to origin/main through 9a12aca8.
