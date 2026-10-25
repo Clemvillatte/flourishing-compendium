@@ -489,3 +489,36 @@ Every card summary in the dossier was checked against the linked card's own body
 ### Session sign-off
 
 Session end at T+58. Final verification pass re-run at T+57: dossier_check exit 0 (30 card links, 16 headers, 47 external carriers); density 0 dense; quote_verify 29 checked, 8 not-found, all hand-verified against raw carriers. Supervisor review PASS per QC addendum 10 (commit 6cfea8923); publication blocked on owner artwork; registry left planned for the supervisor to flip. Band dos32 released to the pool.
+
+### Independent carrier re-verification (2026-10-25, worker-pplx-dos32-1025aa, baton dos32)
+
+Second-session confirmation of the supervisor's open row ("The Haught-Tromp
+carrier is unopened: open it or remove every claim that depends on it. Then
+run the density check."). The carrier was opened AGAIN, independently, this
+session, raw: the Wayback Machine copy of the cct.umb.edu PDF was downloaded
+with curl (122662 bytes, PDF-1.3) and text-extracted locally; all three
+retained spans are substring-verbatim in the extracted text — "Two experiments
+tested the hypothesis that constraints imposed on a common writing task yield
+more creative outputs"; "Both studies show a main effect of constraints on
+creativity and an interaction with order of presentation, which suggests a
+carryover effect: Mere practice with constraints can stimulate creativity";
+"written using only 50 words" (Dr. Seuss's best-seller, in the abstract's own
+sentence). The two-line-rhyme scope limit kept in the dossier's reader
+sentence is the paper's own method wording ("2-line rhyme" in the abstract).
+Density re-run: 31 paragraphs, 0.5 card links per paragraph, 0 dense.
+dossier_check re-run: exit 0 (30 card links, 16 headers, 47 external
+carriers). quote_verify re-run: 29 checked, 7 not found; every flag resolved
+by hand THIS session: Conner 2018 (Taylor & Francis abstract page fetched as
+raw HTML via the fetch tool's raw mode, cleaned text read directly, no LLM
+extraction in the verification path — title, authors and both sentences
+verbatim in the page's own abstract text);
+Wang 2017, Kounios & Beeman 2014 and Baird 2012 (PubMed eutils raw abstract
+text, full spans verbatim); Schumpeter ch. VII (thaleszp PDF downloaded raw;
+"process of Creative Destruction is the essential fact about capitalism"
+verbatim; the "incessantly revolutionizes ... creating a new one" span is
+verbatim once the carrier's interleaved footnote marker "2" is removed —
+house-documented); the two Zarathustra spans are the dossier's own connective
+paraphrase between quotations, not quotations (checker extraction artifacts;
+the quoted fragments themselves passed). No dossier text changed this pass —
+the row's demand is met and independently re-verified; recorded for the
+supervisor's re-read.
