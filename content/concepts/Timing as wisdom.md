@@ -14,6 +14,8 @@ Timing as wisdom is this compendium's label for a claim in Daodejing chapter 64 
 
 Later in the chapter: "When people pursue an undertaking, it is always at the point of success that they ruin it. Attend at the end as you did at the start and you will have no failures" ([Robert Eno, Daodejing ch. 64](https://terebess.hu/english/tao/Daodejing-Eno.pdf)).
 
+Read together, the two halves of the chapter give one instruction. The first half tells the practitioner where to look: at things still at rest, situations not yet emerged, the brittle and the minute, because that is where effort is cheap and disorder has not compounded. The second half names the failure mode: attention relaxes exactly when the undertaking is nearly won, and ruin arrives at the point of success. Attending at the end as at the start is the same discipline as acting before things arise, pointed at the other end of the task.
+
 ### Here
 
 - [[D059 — Do the difficult while it is easy]]

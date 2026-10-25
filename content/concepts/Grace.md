@@ -19,6 +19,8 @@ The Confessions opens with the received-quiet formulation: "Thou awakest us to d
 
 The passage puts the awakening before the repose.
 
+The two passages make one argument. Seeing, for Augustine, is itself a gift: whoever sees has first received both the thing seen and the power to see it, so insight cannot be claimed as a personal achievement. The awakening comes before the repose in the same way, arriving as something done to the person rather than by them. The principles below draw the practical corollary for anyone who deals in self-criticism: the quiet follows the gift rather than preceding it, and demanding it of oneself reverses the order the passage describes.
+
 ### Here
 
 - [[D171 — Nothing is beyond redemption]]

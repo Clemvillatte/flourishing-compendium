@@ -14,6 +14,8 @@ Proper pride, or megalopsychia, is [[T002 — Aristotle|Aristotle]]'s name for t
 
 Honour, on this account, is the prize of virtue, and it is to the good that it is rendered ([Aristotle, NE IV.3](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
+The crown image carries the structure of the virtue. Pride does not add a further virtue to the list; it magnifies the ones already there, and it cannot exist without them, which is why Aristotle calls it hard to be truly proud. The test in the first passage runs on worthiness, not on the size of the claim: the question is whether the worth is there before a person thinks themselves worthy of much.
+
 ### Here
 
 - [[A015 — Practice magnanimity (megalopsychia)]]
