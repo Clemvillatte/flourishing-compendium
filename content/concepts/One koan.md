@@ -15,6 +15,10 @@ In the Rinzai line of Zen, a student receives a single assigned kōan, most ofte
 
 Rinzai training begins by assigning a hosshi, a breakthrough kōan, usually the mu-kōan or "the sound of one hand", and students are told to concentrate on the "word-head", the phrase itself ([Wikipedia, "Koan"](https://en.wikipedia.org/wiki/K%C5%8Dan)). The Stanford Encyclopedia adds that the practitioner must tackle the Mu "by mobilizing the whole of his or her person" ([Nagatomo, SEP](https://plato.stanford.edu/entries/japanese-zen/)).
 
+The one-case method is therefore a choice about scope rather than a claim that only one case exists. The Gateless Gate contains forty-eight cases, and the Rinzai entry does not ask a student to work through them; it asks a student to work one of them with the whole person, on the theory that a barrier of ego-consciousness does not yield to a survey. The concentration the word-head demands is a concentration on the phrase rather than on the riddle the phrase appears to pose, since the case is designed so that intellectual reasoning cannot solve it, and the design is what makes the case worth holding.
+
+The instruction is also not a demand for agreement. A student can find the case silly or unanswerable and still be instructed to hold it, since the case's job is not to be believed but to be worked, and the working is what the single assignment is for. What the tradition does not supply is a method for knowing in advance that the work will produce anything, which is why the word "breakthrough" names an event rather than a step in a sequence.
+
 ### Here
 
 - [[Y063 — Hold one practice to steady the mind]] — lists this Zen practice alongside Patanjali's remedy of "steady application to a principle" (Yoga Sutras 1.32); the comparison concerns sustained practice, not an equivalence between the traditions.
