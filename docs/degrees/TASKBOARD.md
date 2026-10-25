@@ -71,6 +71,24 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 (before the 15:03:28Z save and after; latest push pending)
+  worker-pplx-degfin-1 (deg-verify-a): BATCHED TRANSCRIPT PASSES 2-5
+  — 25 more description-basis cards worked via the third-party transcript
+  route (5dbf41e8f, 0295b5030, c8849acf7, plus the Moran/Nadler batch):
+  deg-wellbeing M08-S15/S04/S06/S08/S17/S18/S22/S24 upgraded
+  verified-partial→verified-video, M08-S13 corroborated; deg-relational
+  M04-R05/R08/R13/R15/R16 upgraded (Mika's dual-duration flag retained);
+  deg-mind M06-AF07 and deg-therapeutic SRC-M09-005 upgraded on FULL
+  transcript retrievals (truncation bounds lifted; duration-basis flags
+  retained); deg-philosophy Warren, Kaag, Clayton, Segall x2, Bergson
+  roundtable (partial-speaker note), Herring, Misak, Moran (title-only
+  speaker caveat), Nadler upgraded. Lampe and Kloppenberg TOPIC-confirmed
+  but their transcripts do not name the speaker — remain verified-partial
+  with identity still resting on host descriptions. Chittick (M05-XP-04)
+  and Beth Lord (M05-SP-05) transcript routes failed twice each (service
+  error) — bounded, still open. M08-S01 (Markus Sage-CASBS) also failed
+  twice — bounded, still open.
+
 - 2026-10-25 (before the 14:53:26Z save) worker-pplx-degfin-1 (deg-verify-a):
   deg-wellbeing BATCHED TRANSCRIPT PASS — 10 description-basis cards
   coverage-confirmed via the third-party transcript route (b6c1c1577,

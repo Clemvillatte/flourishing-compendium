@@ -975,7 +975,23 @@ attach them with evidence on file.
   sphere of ownness and the ego, transcendental subjectivity, self-givenness,
   habit formation, the minimal self, personalism and the ego-world relation.
 - Relevant segment: whole lecture, 0:58:29.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:03:28Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=GZNvecfQG8s&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the plenary's substance: Husserl's account of the
+  ego and the "sphere of ownness" — the pure ego, its continuity and
+  development through decisions, habits, bodily and sensory experience,
+  and its relation to the empirical self, unconscious life, personalism
+  and intersubjectivity (National and Kapodistrian University of
+  Athens Philosophy Department). CAVEAT: "Dermot Moran" appears in the
+  route's page title but is not explicitly named in the retrieved
+  transcript text; the speaker-identity basis remains the host page. The
+  coverage basis is upgraded from description-only to third-party
+  transcript; status upgraded verified-partial to verified-video per
+  the house convention, with the no-timestamps and no-playback caveats
+  carried.
 
 ### ST-06: Modern Stoicism course lecture (learn.modernstoicism.com)
 
@@ -1027,7 +1043,23 @@ attach them with evidence on file.
   belief, public worship, state authority and freedom of expression, and their
   relation to the First Amendment.
 - Relevant segment: whole lecture, 1:01:04.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:03:28Z save): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=sFhG1Yt5-0E&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened; Nadler is named in the retrieved text, though the
+  transcription also renders his name as "Adler" and "Naylor") confirms
+  the lecture's substance: Spinoza's views on the relationship between
+  religion and the state, arguing that Spinoza did not support a full
+  separation of church and state and favored civil authority overseeing
+  public religious practice; Spinoza's defense of freedom of belief and
+  expression including limits on speech deemed seditious; comparison with
+  the First Amendment and later U.S. government and court decisions (St.
+  Norbert College). The coverage basis is upgraded from description-only
+  to third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### M05-XP-04: Farghani on Wahdat al-Wujud in the Four Journeys (William C. Chittick, Columbia)
 
