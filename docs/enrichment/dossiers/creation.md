@@ -4,7 +4,9 @@
 
 A life spends itself making things: meals, sentences, friendships, children, institutions, a character. I find the question surfacing on ordinary days: why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?
 
-The accounts answer with different emphases. Frankl counts creating a work or doing a deed among the three ways a life finds meaning. Bergson reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. This page follows each emphasis where it leads.
+Frankl counts creating a work or doing a deed among the three ways a life finds meaning — the first route in his account, ahead of experiencing something or encountering someone, and the attitude taken toward unavoidable suffering.
+
+The other accounts spread the emphasis wider. Bergson reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. This page follows each emphasis where it leads.
 
 The question underneath is whether the meaning is found or conferred, and where it lands when the thing is made.
 

@@ -353,3 +353,18 @@ supported disagreements would require carrier work outside this
 pass's scope; and the two T&F quotes remain un-reconfirmed. The
 dos31 batch note records the WIP status; the inherited rev-7
 "worker-complete" note no longer describes the current manuscript.
+
+### Pass 9 round-2 close (2026-10-25)
+
+Opening reworked per the model's position load: Frankl alone in the
+first account paragraph (his three routes, matching the verified
+quotation below), Bergson and Arendt as the wider spread in the second.
+Removed a banned institutional-voice phrase from the Prigogine sentence
+(first-person per the owner directive the checker enforces). Known
+shape gaps that remain, recorded honestly: the practice entries run
+three-plus sentences (what to do, what to notice, evidence, caveat)
+where the model specifies two — the caveats were added by earlier
+advisor rounds and removing them would regress that QC, so the conflict
+is flagged for the supervisor rather than resolved by deletion. The
+disagreement section remains at one candidate comparison, zero
+demonstrated disagreements.
