@@ -497,3 +497,11 @@ now survives the weakness that will come later), with a lead-in
 not a sourced claim. The remaining 19 unlinked cards are recorded as
 belonging elsewhere. Checks: checker exit 0 (52 card links, 17
 headers, 11 external carriers), density 0 dense, quote_verify 8/0.
+
+## Story spot-checks (worker-pplx-dos13-1025g, 2026-10-25)
+
+Four story cards opened and read against their loglines: ST301 The
+Aspiration Index (Kasser and Ryan; the logline compresses the
+card's own text accurately), ST392 Franklin's Speckled Axe, ST093
+Fern Joins the Nomads, ST014 Marie Kondo and the Spark of Joy. All
+four loglines match the cards' subjects. No defects found.
