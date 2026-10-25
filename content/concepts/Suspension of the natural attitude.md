@@ -13,7 +13,7 @@ The suspension of the natural attitude is Husserl's name for the move that start
 
 ### What the suspension does
 
-The abstention is methodological: the existence question is bracketed while attention turns to the structure of experience. David Woodruff Smith's SEP entry places the method in Husserl's Ideas I (1913), where phenomenology became the study of consciousness approached in the first person. The suspension is what makes that first-person study possible, because the natural attitude's automatic acceptance of the world would otherwise carry every description along with it.
+The abstention is methodological: the existence question is bracketed while attention turns to the structure of experience. David Woodruff Smith's SEP entry places the method in Husserl's Ideas I (1913), where phenomenology became the study of consciousness approached in the first person. The suspension is what makes that first-person study possible, because the natural attitude's automatic acceptance of the world would otherwise carry every description along with it. The bracketing is also temporary by design, since the point is to return with a description of the structure rather than to live in the doubt, which distinguishes the epoché from both skepticism and denial, and the practice kernels below preserve that shape by making the suspension a step rather than a stance.
 
 ### Here
 
