@@ -63,3 +63,6 @@
 ## P045 Think with a community
 - Carriers opened: Peirce Fixation of Belief (Wikisource HTML) and Addams Twenty Years at Hull-House (Gutenberg 1325). Peirce hermits/community sentence and Reals sentence, and Addams comradeship sentence verified verbatim.
 - Repair: page cited Gutenberg 2396 (a history of the Catholic Church) for Addams and claimed 'plans kept failing until neighbours were in the room', which I could not find; replaced with the verified comradeship sentence. Removed 'only mechanism by which an error gets caught' overclaim and the invented 18-month loan example.
+
+## D097 Don't fear what you can't act on
+- Carrier opened: Wiktionary 杞人憂天 (Liezi 1, English adapted from A. C. Graham). Old page quote ('There was a man in Qi who worried... He couldn't eat or sleep.') did not match the carrier text; replaced with verbatim passage, all fragments checked programmatically. Invented 'friend' framing and 'groundless fear' gloss removed. Flag: Wiktionary text is adapted from Graham, not Graham verbatim; supervisor may want a print Graham/Lieh-tzu check.
