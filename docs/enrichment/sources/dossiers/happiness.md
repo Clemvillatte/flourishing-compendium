@@ -237,3 +237,60 @@ remote baton status at 12:19:36Z read-clock shows dos7 held by
 worker-7fbdff24 (claim and later release both recorded under my
 name — the intervening launcher report was a race or a stale read, not
 established as a takeover); released now at 12:20Z read-clock.
+
+## Full-span hand-verification (2026-10-25, worker-7fbdff24, baton dos7; clock readings 12:21:11Z claim, 12:22:57Z gates; commit stamps in the push that follows)
+
+The supervisor's review row for happiness carried "prose sampled, not a
+full-body read"; this pass closes that gap. The whole 230-line dossier
+was read end to end; all quoted spans are accounted for: fourteen
+carrier groups verified this session (three in the earlier QC-sample
+entry below, eleven in this pass).
+
+Verified this pass (eleven carrier groups):
+- Epicurus, Letter to Menoeceus (MIT Hicks, raw HTML, string match):
+  "By pleasure we mean the absence of pain in the body and of trouble in
+  the soul." VERBATIM.
+- Spinoza, Ethics III (sacred-texts Elwes): "Pleasure is the transition
+  of a man from a less to a greater perfection." VERBATIM — verified
+  through the session fetch tool against the live page (the sandbox's
+  plain curl receives a ~160-byte stub page, no HTTP status recorded;
+  the fetch tool serves the full page; no browser used).
+- Sidgwick, Methods of Ethics I.IV.2 (UT Austin LAITS, raw HTML, string
+  match): "Here comes into view what we may call the fundamental paradox
+  of Hedonism..." VERBATIM.
+- Lyubomirsky, Sheldon and Schkade 2005 (greatergood.berkeley.edu PDF):
+  the "changing one's intentional activities..." span VERBATIM, with
+  the preceding "40% of the variance" sentence confirming context.
+- Diener, Lucas and Scollon 2006 (eutils 16719675, raw text, string
+  match): the hedonic-treadmill span VERBATIM, plus the inline "well-being
+  set points can change under some conditions" VERBATIM.
+- Lucas 2007 (psychologicalscience.org abstract page, raw HTML, string
+  match): "Although inborn factors certainly matter..." VERBATIM.
+- Wilson and Gilbert 2005 (UF author-manuscript PDF, the dossier's
+  second carrier): "They often display an impact bias..." VERBATIM, with
+  the preceding sentence present (the Sage abstract page is the primary
+  carrier and was not fetched this pass).
+- Dunn, Aknin and Norton 2008 (eutils 18356530, string match): VERBATIM.
+- Prosocial-spending registered replication report (eutils 32250135,
+  string match): VERBATIM.
+- Aknin et al. 2013 (eutils 23421360, string match): the psychological-
+  universal span VERBATIM.
+- Joshanloo 2014 (Springer page): the "Six fundamental differences..."
+  span matches the publisher's own abstract text as returned in
+  search-indexed form; the direct fetch is robot-blocked (bad_robots_code,
+  the documented publisher bot-wall class) — INDEXED-ONLY evidence, same
+  class as the gratitude dossier's Wiley exception; direct springer
+  verification remains available to a future pass with browser access.
+
+Gates (12:22:57Z read clock): dossier_check exit 0 (85 card links, 21
+headers, 20 carriers); density 44 paragraphs, 0 dense; quote_verify 14
+checked / 1 not found — the one flag is the Spinoza span above,
+hand-resolved this pass: 14/14 effective.
+
+Reader-level notes: the body keeps a first-person voice where it leans
+("In my Aristotelian frame...", "The label I use..."), the disputes
+state evidence limits honestly ("The sources here do not test the two
+against each other", "the abstracts do not tell a reader how big the
+effect is"), and the Joshanloo section declines to guess the six
+differences. No voice or structure defects found; no text change owed.
+Full-span hand-verification item: CLOSED.
