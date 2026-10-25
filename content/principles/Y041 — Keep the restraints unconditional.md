@@ -22,9 +22,7 @@ The commentary shows what a limited version looks like, taking non-injury as its
 
 So the exceptions the text names are limits a person has set on the vow, and it sets them aside as qualified. The commentary gives the four-fold list above. It does not speak of home and abroad, or of being observed and alone. The suggestion to write down any exception you catch yourself drafting is this page's own practice.
 
-**Plain words**
-
-A restraint with a clause attached, such as only in this place, only at this time or only for this cause, is not yet the full practice. The text calls the unqualified version the great one. If you catch yourself drafting a clause, look at it.
+**Plain words** The loophole is the thing being graded. The old commentary lists the forms a softened vow takes: I only harm fish; not in a holy place; not on the fourteenth day; only in battle. Each is a real limit quietly written into the vow. The unqualified version, holding across species, place, time and circumstance, is what the text calls great. So the working rule is to catch your clauses: write down every exception you are drafting, and look at the list.
 
 **For example**
 

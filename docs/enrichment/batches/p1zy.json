@@ -82,10 +82,11 @@
   "Y020": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 1.11 + Vyasa commentary verified verbatim in archive.org full text; validator PASS",
   "Y032": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 2.30 commentary + 2.15 gloss + 2.39 verified verbatim in archive.org full text; validator PASS",
   "Y073": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 3.1 sutra verified verbatim in archive.org full text (commentary claims kept at the page's quoted level); validator PASS",
-  "Y106": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Arnold Song Celestial ch.17 food + gift passages verified verbatim at Project Gutenberg; validator PASS"
+  "Y106": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Arnold Song Celestial ch.17 food + gift passages verified verbatim at Project Gutenberg; validator PASS",
+  "Y041": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 2.31 + commentary (fish-catcher, holy place, fourteenth day, battle) verified verbatim in archive.org full text; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T10:59:28+00:00",
+ "updated": "2026-10-25T10:59:48+00:00",
  "band_done": false
 }
