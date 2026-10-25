@@ -9630,167 +9630,83 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on uncertainty"
+          "x": "What not knowing asks of a person"
         },
         {
           "t": "h2",
-          "x": "Enduring not knowing"
+          "x": "Can the not-knowing be endured?"
         },
         {
           "t": "p",
-          "x": "[Intolerance of uncertainty](card:Intolerance%20of%20uncertainty): a dispositional incapacity to endure the aversive response triggered by uncertain situations."
+          "x": "The clinical literature measures the incapacity. [Intolerance of uncertainty](card:Intolerance%20of%20uncertainty) is a dispositional incapacity to endure the aversive response triggered by uncertain situations, and [intolerance of ambiguity](card:Intolerance%20of%20ambiguity) is the tendency to perceive ambiguous situations as sources of threat, in Budner's classic definition."
         },
         {
           "t": "p",
-          "x": "[Intolerance of ambiguity](card:Intolerance%20of%20ambiguity): the tendency to perceive ambiguous situations as sources of threat, in Budner's classic definition."
+          "x": "The contemplative and philosophical traditions train the capacity itself. [Mindful uncertainty](card:Mindful%20uncertainty) is the ACT posture toward the unknowable parts of experience: stay open to the present moment without needing it to be settled first. Keats's term for the power to remain in uncertainties, mysteries and doubts without any irritable reaching after fact and reason is [negative capability](card:Negative%20capability)."
         },
         {
           "t": "p",
-          "x": "[Mindful uncertainty](card:Mindful%20uncertainty): the ACT posture toward the unknowable parts of experience: stay open to the present moment without needing it to be settled first."
+          "x": "The measured capacity is [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29), the perceived capacity to withstand aversive states, distinguished by Leyro and colleagues from the behavioral act of withstanding them. The even-minded stance toward experience, neither grasping at the pleasant nor pushing away the unpleasant, is [equanimity](card:Equanimity). The Zen practice of meeting experience as if for the first time is [beginner's mind](card:Beginner%27s%20mind)."
         },
         {
           "t": "p",
-          "x": "[Negative capability](card:Negative%20capability): Keats's term for the power to remain in uncertainties, mysteries and doubts without any irritable reaching after fact and reason."
-        },
-        {
-          "t": "p",
-          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): the perceived capacity to withstand aversive states, distinguished by Leyro and colleagues from the behavioral act of withstanding them."
-        },
-        {
-          "t": "p",
-          "x": "[Equanimity](card:Equanimity): the even-minded stance toward experience: neither grasping at the pleasant nor pushing away the unpleasant."
-        },
-        {
-          "t": "p",
-          "x": "[Beginner's mind](card:Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time."
-        },
-        {
-          "t": "p",
-          "x": "[Openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson's deliberate practice as work on tasks just outside current reliable performance."
+          "x": "Ericsson's deliberate practice as work on tasks just outside current reliable performance is [openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice)."
         },
         {
           "t": "h2",
-          "x": "Doubt, ignorance and inquiry"
+          "x": "What doubt is for"
         },
         {
           "t": "p",
-          "x": "[Socratic ignorance](card:Socratic%20ignorance): the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does."
+          "x": "The profession Socrates makes at his trial is [Socratic ignorance](card:Socratic%20ignorance): he does not know the things that matter most, and unlike others he does not think he does. The productive dead end is [aporia](card:Aporia), the state of being unable to move forward in an inquiry."
         },
         {
           "t": "p",
-          "x": "[Aporia](card:Aporia): the productive dead end: the state of being unable to move forward in an inquiry."
+          "x": "Descartes' procedure in the Meditations is [doubt as method](card:Doubt%20as%20method): doubt to find what survives doubt. Peirce's name for the real and living doubt that inquiry actually requires is [genuine doubt](card:Genuine%20doubt), and his phrase from The Fixation of Belief, naming the engine of inquiry, is [the irritation of doubt](card:The%20irritation%20of%20doubt)."
         },
         {
           "t": "p",
-          "x": "[Doubt as method](card:Doubt%20as%20method): Descartes' procedure in the Meditations: doubt to find what survives doubt."
+          "x": "The Zen name for the concentrated questioning at the centre of koan practice is [the great doubt](card:The%20great%20doubt). The Pyrrhonist practice in Sextus Empiricus is [skepticism about the obvious](card:Skepticism%20about%20the%20obvious): what seems plainly there is still an appearance, and appearances conflict. Hume's idea that radical doubt does not survive ordinary living is [skepticism answered by life](card:Skepticism%20answered%20by%20life)."
         },
         {
           "t": "p",
-          "x": "[Genuine doubt](card:Genuine%20doubt): Peirce's name for the real and living doubt that inquiry actually requires."
-        },
-        {
-          "t": "p",
-          "x": "[The irritation of doubt](card:The%20irritation%20of%20doubt): Peirce's phrase from The Fixation of Belief, naming the engine of inquiry."
-        },
-        {
-          "t": "p",
-          "x": "[The great doubt](card:The%20great%20doubt): the Zen name for the concentrated questioning at the centre of koan practice."
-        },
-        {
-          "t": "p",
-          "x": "[Skepticism about the obvious](card:Skepticism%20about%20the%20obvious): the Pyrrhonist practice in Sextus Empiricus: what seems plainly there is still an appearance, and appearances conflict."
-        },
-        {
-          "t": "p",
-          "x": "[Skepticism answered by life](card:Skepticism%20answered%20by%20life): Hume's idea that radical doubt does not survive ordinary living."
-        },
-        {
-          "t": "p",
-          "x": "[Actively open-minded thinking](card:Actively%20open-minded%20thinking): a reasoning style that Jonathan Baron developed in the judgment-and-decision-making literature."
+          "x": "A reasoning style that Jonathan Baron developed in the judgment-and-decision-making literature is [actively open-minded thinking](card:Actively%20open-minded%20thinking)."
         },
         {
           "t": "h2",
-          "x": "What lasts, and what is up to us"
+          "x": "What is up to us"
         },
         {
           "t": "p",
-          "x": "[Impermanence](card:Impermanence): the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations."
+          "x": "The fact that everything that arises will pass, moods, plans, bodies, relationships, reputations, is [impermanence](card:Impermanence), and [anicca](card:Anicca) is its name as the first of the Three Marks of Existence. Epictetus's distinction in Enchiridion 1 between what is up to us and what is not is [the dichotomy of control](card:The%20dichotomy%20of%20control)."
         },
         {
           "t": "p",
-          "x": "[Anicca](card:Anicca): impermanence, the first of the Three Marks of Existence."
-        },
-        {
-          "t": "p",
-          "x": "[The dichotomy of control](card:The%20dichotomy%20of%20control): Epictetus's distinction in Enchiridion 1 between what is up to us and what is not."
-        },
-        {
-          "t": "p",
-          "x": "[Locus of control](card:Locus%20of%20control): Rotter's generalized expectancy about where reinforcement comes from."
-        },
-        {
-          "t": "p",
-          "x": "[Secondary control](card:Secondary%20control): Rothbaum, Weisz and Snyder's way of gaining a sense of control by bringing yourself into line with the world."
-        },
-        {
-          "t": "p",
-          "x": "[Antifragility](card:Antifragility): Taleb's coinage for the third category that fragile and robust leave out."
+          "x": "Rotter's generalized expectancy about where reinforcement comes from is [locus of control](card:Locus%20of%20control). Rothbaum, Weisz and Snyder's way of gaining a sense of control by bringing yourself into line with the world is [secondary control](card:Secondary%20control). Taleb's coinage for the third category that fragile and robust leave out is [antifragility](card:Antifragility)."
         },
         {
           "t": "h2",
-          "x": "Hope, trust and the open"
+          "x": "What hope and trust are worth here"
         },
         {
           "t": "p",
-          "x": "[Hope](card:Hope): the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed."
+          "x": "The forward-facing emotion, expectation of a good that has not arrived and is not guaranteed, is [hope](card:Hope). The Greek word for hope, best known from Hesiod's story of Pandora, is [elpis (hope)](card:Elpis%20%28hope%29). A pattern in Seneca and Epictetus holds hope as a thing to weigh, because it travels with fear, carried as [hope tempered by prudence](card:Hope%20tempered%20by%20prudence)."
         },
         {
           "t": "p",
-          "x": "[Elpis (hope)](card:Elpis%20%28hope%29): the Greek word for hope, best known from Hesiod's story of Pandora."
+          "x": "Emerson's conviction that one's own perception is a fit instrument for living is [self-trust](card:Self-trust). Trust in strangers, or in most people in society, rather than in people you already know is [generalized trust](card:Generalized%20trust). Rilke's word, in the eighth Duino Elegy, for what the animal sees and we do not is [the open (das Offene)](card:The%20open%20%28das%20Offene%29)."
         },
         {
           "t": "p",
-          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
-        },
-        {
-          "t": "p",
-          "x": "[Self-trust](card:Self-trust): Emerson's conviction that one's own perception is a fit instrument for living."
-        },
-        {
-          "t": "p",
-          "x": "[Generalized trust](card:Generalized%20trust): trust in strangers, or in most people in society, rather than in people you already know."
-        },
-        {
-          "t": "p",
-          "x": "[The open (das Offene)](card:The%20open%20%28das%20Offene%29): Rilke's word, in the eighth Duino Elegy, for what the animal sees and we do not."
-        },
-        {
-          "t": "p",
-          "x": "[The absurd](card:The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence."
-        },
-        {
-          "t": "p",
-          "x": "[Ambiguity](card:Ambiguity): Beauvoir's name for the human condition's two-foldness."
-        },
-        {
-          "t": "p",
-          "x": "[The ethics of ambiguity](card:The%20ethics%20of%20ambiguity): Beauvoir's existentialist ethics: freedom is ambiguous because it must will both itself and the freedom of others."
+          "x": "Camus's name for the confrontation between the human demand for meaning and the world's silence is [the absurd](card:The%20absurd). Beauvoir's name for the human condition's two-foldness is [ambiguity](card:Ambiguity), and her existentialist ethics, that freedom is ambiguous because it must will both itself and the freedom of others, is [the ethics of ambiguity](card:The%20ethics%20of%20ambiguity)."
         },
         {
           "t": "h2",
-          "x": "Probability and risk"
+          "x": "What probability is for"
         },
         {
           "t": "p",
-          "x": "[Probabilistic thinking](card:Probabilistic%20thinking): the move from yes-or-no to how-likely, whose arrival in European thought was sudden."
-        },
-        {
-          "t": "p",
-          "x": "[Risk literacy](card:Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions."
-        },
-        {
-          "t": "p",
-          "x": "[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](card:Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty."
+          "x": "The move from yes-or-no to how-likely, whose arrival in European thought was sudden, is [probabilistic thinking](card:Probabilistic%20thinking). Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions is [risk literacy](card:Risk%20literacy), and his simple decision rules that ignore part of the available information and can still judge well under uncertainty are [decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](card:Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29)."
         },
         {
           "t": "h",
@@ -9838,6 +9754,40 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "His claim is that holding to the division removes the injury: \"no one will ever compel you or restrain you.\" Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and I keep both."
+        },
+        {
+          "t": "h2",
+          "x": "Can a one-off unknown be given a number?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a person faces something that has not happened before, is there a probability to be found, or only a judgment? Knight, writing in 1921, drew a line between the two cases and placed most of business life on the side that has no number:"
+        },
+        {
+          "t": "q",
+          "x": "\"The practical difference between the two categories, risk and uncertainty, is that in the former the distribution of the outcome in a group of instances is known (either through calculation a priori or from statistics of past experience), while in the case of uncertainty this is not true, the reason being in general that it is impossible to form a group of instances, because the situation dealt with is in a high degree unique.\" ([Knight, Risk, Uncertainty, and Profit, Part III, Chapter VIII, Econlib edition](https://www.econlib.org/library/Knight/knRUP7.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Ramsey, five years later, built a theory in which every belief has a degree, whether or not a group of instances exists:"
+        },
+        {
+          "t": "q",
+          "x": "\"We are driven therefore to the second supposition that the degree of a belief is a causal property of it, which we can express vaguely as the extent to which we are prepared to act on it.\" ([Ramsey, Truth and Probability, 1926](https://fitelson.org/probability/ramsey.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Ramsey is careful about what this buys. His text says that \"beliefs do differ in measurability in the following two ways. First, some beliefs can be measured more accurately than others; and, secondly, the measurement of beliefs is almost certainly an ambiguous process leading to a variable answer depending on how exactly the measurement is conducted.\" ([Ramsey, Truth and Probability, 1926](https://fitelson.org/probability/ramsey.pdf))"
+        },
+        {
+          "t": "p",
+          "x": "The two do not answer one another, since Ramsey's paper does not cite Knight, and pairing them is my framing and not either author's. What they share is the starting fact that people must act without a record of earlier cases."
+        },
+        {
+          "t": "p",
+          "x": "Knight concludes that the lack of a record leaves a different kind of problem, which calls for judgment about the situation. Ramsey concludes that a person's action already shows a degree of belief, which can be written down as a number even if it is imprecise. My lean, which is mine, is that the Ramsey route is useful for deciding and Knight's route is useful for knowing when the number is a guess. Put plainly, one holds that for a unique situation no distribution of outcomes is known, and the other holds that a degree of belief exists anyway and can be roughly measured. Limits: I read Knight's chapter text and Ramsey's paper only for these passages, and I did not open the later literature that argues over how the two relate, such as work on ambiguity."
         },
         {
           "t": "h",
