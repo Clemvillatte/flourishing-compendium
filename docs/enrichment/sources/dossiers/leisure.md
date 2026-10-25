@@ -45,3 +45,11 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - dossier_density.py: 18 paragraphs, 0.9 card links per paragraph, 0 dense.
 - Publishing: BLOCKED on artwork. The registry entry for leisure has no art assigned (owner action pending; same blocker as creation/creativity/procrastination). The dossier is complete and passes all checks; flip and rebuild when the owner assigns art.
 - Story cards were opened and read before writing loglines. Card-link targets all resolve.
+
+## Advisor QC round 1 (applied this session)
+
+- Recast the Pieper/Veblen, recovery/Pieper and Zhuangzi/Aristotle subsections as bounded comparisons, not demonstrated disputes; the only section now presented as a genuine disagreement is the Aristotle/Russell distribution subsection. The 3-5 substantiated-disagreement bar is NOT claimed as met; flagged for supervisor/owner ruling.
+- Deleted unsupported empirical claims (time-affluence "as much as money", detachment "returns to work in better shape", "predicts well-being where rumination does not", "measured by how fast it returns you to the machine"). The recovery paragraph now claims only what the opened 2007 abstract supports (four distinguishable experiences; moderate relations with well-being).
+- Added Pieper's own "renewed and alive again" passage (raw-verified in carrier 4) to bound the recovery/Pieper contrast honestly.
+- Retitled the disagreement section "Where the traditions differ"; split the Zhuangzi paragraph (prose-wall fix).
+- Correction to the earlier commit message: it said "5 substantiated disagreements"; the page has four subsections, of which one is a genuine disagreement and three are bounded comparisons.
