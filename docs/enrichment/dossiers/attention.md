@@ -227,7 +227,7 @@ A cicada catcher, a marathoner, a painter of grids, a philosopher washing dishes
 
 [ST025 — The Cicada Catcher's Stillness](https://clemvillatte.github.io/flourishing-compendium/#card=ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; asked the secret, he describes balancing poles with increasing weights until his body stood like an old stump, no longer noticing the world's ten thousand things, only the wings.
 
-[ST018 — The Swimmer at Lüliang Falls](https://clemvillatte.github.io/flourishing-compendium/#card=ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way: down with the whirlpools, up with the waves.
+[ST018 — The Swimmer at Lüliang Falls](https://clemvillatte.github.io/flourishing-compendium/#card=ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer, asked how, says he follows the water's way: down with the whirlpools, up with the waves.
 
 [ST028 — Eliud Kipchoge Runs 1 — 59](https://clemvillatte.github.io/flourishing-compendium/#card=ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40, not a record: the conditions were engineered; he lives in a spartan training camp, shares chores with younger runners, smiles in the late stages of races, and says afterwards: No human is limited.
 

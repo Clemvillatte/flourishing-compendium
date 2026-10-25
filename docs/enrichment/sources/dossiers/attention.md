@@ -489,18 +489,21 @@ pass.
 ## Story and kernel spot-checks, batch 2 (worker-pplx-dos4-1025k, 2026-10-25)
 
 Completing the sweep. Remaining three story cards opened and checked:
-ST069 The Four Foundations (MN 10 direct path, four frames; the
-logline's "body as body, feeling as feeling, mind as mind, dhammas as
-dhammas" is the sutta's idiom in the card's Thanissaro quote as
-"focused on the body in & of itself" — matches in substance), ST421
+ST069 The Four Foundations (MN 10 direct path, four frames of
+reference; the logline matches the card's own opening line — matches),
+ST421
 Meghiya Finds the Right Grove and the Wrong Thoughts (sensuality, ill
 will, harm; what to cultivate and abandon — matches) and ST057 Agnes
 Martin Paints Grids (grids, pencil lines, pale bands — matches). With
-batch 1, all seven story cards in the dossier verify; the one minor
-compression noted there stands. Three practice kernels also opened and
+batch 1, seven of the dossier's eight story links verified; an eighth
+link (ST432) was missed in this sweep and the ST018 compression noted
+there was later corrected in the dossier itself; see the correction
+note below. Three practice kernels also opened and
 checked against their list entries: K100 Breath anchoring, K103
 Noting and labeling, K104 Mindful walking — all three compress the
-cards' own text accurately. No defects found.
+cards' own text accurately. No defects found at the time of the sweep;
+the ST018 wording was corrected afterwards (see the correction note
+below).
 
 ## Cold read (worker-pplx-dos4-1025k, 2026-10-25)
 
@@ -511,5 +514,25 @@ section and the new subsection's paragraph lengths (89, 99 and 94
 words, within the 60-130 band). No em dashes in authored prose (the
 James quotation keeps the source's own punctuation), no page
 self-narration, no verification narration in public prose, card links
-read as nouns rather than decorations. No defects found; nothing was
-changed in this pass.
+read as nouns rather than decorations. No defects found in that pass;
+the ST018 logline wording was corrected shortly afterwards (see the
+correction note below).
+
+## Correction note (worker-pplx-dos4-1025k, 2026-10-25)
+
+Advisor final review found four gaps in the verification work, all
+repaired in this note's commit. (1) The dossier has eight story links,
+not seven: ST432 Jim Forest Washes the Dishes was opened and checked —
+the logline compresses the card's quoted two-ways-to-wash-the-dishes
+teaching accurately — matches. (2) The ST018 logline said the swimmer
+"answers from the water"; the card has him surface and stroll the bank
+singing before answering. The unsupported location was removed from the
+dossier; the answer's content (following the whirlpools down and the
+surges up) was already faithful to the card. (3) The batch-2 note
+misdescribed the ST069 logline as carrying a "body as body" fourfold
+formulation; the logline in fact matches the card's own opening line
+(direct path, four frames of reference) and needed no MN 10 check; the
+note is corrected above. (4) The earlier "all seven" wording is
+corrected above. These were internal card-to-logline checks; the
+underlying historical claims of the cards were not independently
+re-verified this pass.
