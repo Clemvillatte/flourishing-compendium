@@ -1377,8 +1377,12 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Center for Advanced Studies "Philosophizing in a Globalized World"
   (GloPhi), Universität Hildesheim (GloPhi fellow page opened 2026-10-25,
   https://www.uni-hildesheim.de/glophi/fellows/lindokuhle-shabane/);
-  Lorena Grigoletto, presenter (per the uploader description;
-  institutional page not opened this session — pending).
+  Lorena Grigoletto, Long-Term Fellow at GloPhi (Jan-Dec 2026), PhD in
+  Philosophy from the University of Naples Federico II and the University
+  of Seville, teaches Semiotics of Art at the Academy of Fine Arts in
+  Naples and directs a research programme at the Collège International
+  de Philosophie, Paris (GloPhi fellow page opened 2026-10-25,
+  https://www.uni-hildesheim.de/glophi/fellows/lorena-grigoletto/).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a double
   lecture — "Travelling Concepts: Ubuntu as a Particular Universal"
@@ -1386,8 +1390,14 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Decolonial Destiny of a Nahuatl Concept" (Grigoletto) — covering the
   histories, meanings and changing interpretations of ubuntu and
   Nepantla, including their circulation in global, decolonial,
-  postcolonial and feminist thought.
+  postcolonial and feminist thought. CORROBORATED by the host's own
+  event page for the double lecture, opened 2026-10-25
+  (https://www.uni-hildesheim.de/glophi/event/lindokuhle-shabane-travelling-concepts-ubuntu-as-a-particular-universal-lorena-grigoletto-nepantla-as-a-transitional-space-double-lecture/),
+  which confirms both talk titles, the 28 April 14:00-16:00 slot and
+  the Transatlantic Resonances series.
 - Relevant segment: whole double lecture, 1:58:15.
-- Verification status: verified-partial: identity, access and duration
-  verified; coverage rests on the uploader description and credentials
-  are pending institutional confirmation.
+- Verification status: verified-video (2026-10-25): identity, access and
+  duration verified; both presenters' credentials verified on opened
+  institutional (GloPhi) pages; coverage corroborated by the host event
+  page and rests otherwise on the uploader description — confirm against
+  the recording before scheduling.
