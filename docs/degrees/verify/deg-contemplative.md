@@ -717,6 +717,27 @@ attach them with evidence on file.
 - Relevant segment: whole discussion, 1:21:21.
 - Verification status: verified-video.
 
+### SRC-M12-002: James Maffie on Aztec Philosophy, Mythology and Metaphysics (Taproot Therapy Pod)
+
+- Identity and access: oembed confirms the conversation on the Discover + Heal +
+  Grow: The Taproot Therapy Pod channel
+  (https://www.youtube.com/watch?v=NY00lyMvYi8); free podcast upload with
+  chapter markers.
+- Duration: 1:07:41 (watch page, 2026-10-25).
+- Instructor credentials: Dr James Maffie, author of Aztec Philosophy (per the
+  host description); interviewed by the Taproot Therapy Collective podcast.
+- Language: English.
+- Content coverage: the host's description and chapter list state the conversation
+  covers Aztec metaphysics centered on teotl and its patterns (olin, malinalli,
+  nepantla), sacrifice as participation in cosmic balance, the sacred power of
+  language, Aztec art as alive, maize agriculture, critical handling of
+  post-conquest sources and colonial interpretations.
+- Routing note for the owner: routed here per the M12 domain split, but the
+  content may fit the comparative philosophy degree better; the owner should
+  confirm placement.
+- Relevant segment: whole conversation, 1:07:41.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15

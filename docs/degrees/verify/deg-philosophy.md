@@ -874,6 +874,43 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:28:23.
 - Verification status: verified-video.
 
+### SRC-M10-010: Why God and Nature Are One, Spinoza's Theory of Love Lecture 1 (Noa Lahav Ayalon, Ergo)
+
+- Identity and access: oembed confirms the lecture on the Ergo channel
+  (https://www.youtube.com/watch?v=UpGhFvYfows); Ergo is a nonprofit publishing
+  structured philosophical lectures free to anyone (per the channel description).
+- Duration: 0:54:12 (watch page, 2026-10-25).
+- Instructor credentials: Noa Lahav Ayalon, lecturer of philosophy in the
+  Department of Humanities and Arts at the Technion, Israel Institute of
+  Technology, previously a Postdoctoral Fellow in Philosophy at Harvard
+  University and a Rothschild Fellow (per the uploader description).
+- Language: English.
+- Content coverage: per the uploader description, the opening lecture of a
+  four-lecture course situates Spinoza's life and the scientific revolution's
+  crisis of truth, contrasts rationalist and empiricist methods, and walks through
+  the Ethics' architecture of definitions, substance, attributes and modes, causa
+  sui, the identity of God and nature, and Spinoza's determinism.
+- Relevant segment: whole lecture, 0:54:12.
+- Verification status: verified-video.
+
+### SRC-M10-011: Love as an Expansion of Self, Spinoza's Theory of Love Lecture 4 (Noa Lahav Ayalon, Ergo)
+
+- Identity and access: oembed confirms the lecture on the Ergo channel
+  (https://www.youtube.com/watch?v=xvUnRx9qy8g); same free nonprofit series as
+  SRC-M10-010.
+- Duration: 0:45:44 (watch page, 2026-10-25).
+- Instructor credentials: Noa Lahav Ayalon, Technion lecturer and former Harvard
+  postdoctoral fellow in philosophy (per the uploader description).
+- Language: English.
+- Content coverage: per the uploader description, the course's final lecture argues
+  love is the most important thread of the Ethics, covering Spinoza's definitions
+  of love and hate, love as expansion of the self, possessiveness and jealousy,
+  rational love as friendship and nobility, overcoming hate with love, and the
+  stages of knowledge culminating in the intellectual love of God as immanent
+  salvation.
+- Relevant segment: whole lecture, 0:45:44.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
