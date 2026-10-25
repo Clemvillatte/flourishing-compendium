@@ -14,10 +14,10 @@ evidence on file.
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
 these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06, M06-CO02, M06-AF04, M06-AF05.
+M06-AF06, M06-CO02, M06-AF04, M06-AF05, M06-AT02.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-CO05, M06-AT02,
+session: M06-CO05,
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
@@ -264,6 +264,36 @@ SRC-M07-019.
 - Verification status: verified-video for identity, access and duration
   (2026-10-25); content coverage unclassified beyond the title this
   session, transcript not read.
+
+### M06-AT02: Training Brain Networks and States (Michael I. Posner)
+
+- Legacy attachment: mod-mind-2 required media.
+- Identity: the watch page confirms the video on the Beckman Institute at
+  Illinois channel, title "Training Brain Networks and States by Michael
+  Posner (SmithGroup Lecture 2016)" (https://www.youtube.com/watch?v=IAw1L2CIaHs,
+  checked 2026-10-25). Freely playable, no paywall.
+- Duration: 59:40 printed in the player (2026-10-25).
+- Instructor credentials: Michael I. Posner, professor emeritus of
+  psychology at the University of Oregon and adjunct professor at Weill
+  Medical College, more than fifty years studying attention with
+  cognitive, imaging and genetic methods (bio printed in the recording's
+  own description, opened 2026-10-25).
+- Language: English. The watch page offers a transcript panel.
+- Event: SmithGroup Lecture, Beckman Institute, University of Illinois at
+  Urbana-Champaign, 15 April 2016, published 25 May 2016.
+- Content coverage (from the recording's own chapter list, read
+  2026-10-25): mechanisms of white-matter change from training; chapters
+  include attention and white matter (4:02), meditation study results
+  (8:25), mechanism of white matter change (12:22), general plasticity
+  (22:25), learning and neural pathways (27:18), individual differences
+  (35:08), development and training (38:33), summary (45:33), Q&A
+  (48:48).
+- Relevant segments: attention and white matter 4:02 to 12:22;
+  meditation study results 8:25 to 12:22.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage is classified from the recording's own
+  description and chapter list, and the transcript panel was not read
+  this session.
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
