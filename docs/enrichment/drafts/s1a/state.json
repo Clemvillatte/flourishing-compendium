@@ -1638,7 +1638,7 @@
    ]
   },
   "s1a-051": {
-   "status": "ready",
+   "status": "drafting",
    "angle": "P012: James's squirrel — the camping-party quarrel about going round the squirrel, dissolved by naming the practical difference",
    "history": [
     {
@@ -1649,6 +1649,11 @@
      "t": "2026-10-24T14:20:16+00:00",
      "to": "ready",
      "note": "James Pragmatism raw text verified; quotes verbatim; belief-as-habit facet marked NOT carried"
+    },
+    {
+     "t": "2026-10-25T14:06:34+00:00",
+     "to": "drafting",
+     "note": "correction: state.json said ready but the draft's QC notes record story_check pending and front matter is drafting; quotes were verified 2026-10-24 but the full QC pass never ran - reverting state to drafting to match the draft; flagged for the next storyteller pass"
     }
    ]
   },
@@ -1816,5 +1821,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:06:13+00:00"
+ "updated": "2026-10-25T14:06:34+00:00"
 }
