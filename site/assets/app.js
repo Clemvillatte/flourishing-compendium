@@ -3061,7 +3061,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). His account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete). It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). He also insists on a complete life:"
+          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+        },
+        {
+          "t": "p",
+          "x": "His account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete)."
+        },
+        {
+          "t": "p",
+          "x": "It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). He also insists on a complete life:"
         },
         {
           "t": "q",
@@ -3074,7 +3082,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Knowing that still leaves the practical question: what does acting well require here, in this situation? Courage shows the difficulty. Aristotle explains [the doctrine of the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). A person facing danger can get the fear wrong in either direction — flinching from what should be faced, or charging into what should be weighed. Locating the mean between those failures is the work of [practical wisdom](card:Practical%20wisdom), which involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). His [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. He also takes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as [a sign of the character doing it](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html): [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+          "x": "Knowing that still leaves the practical question: what does acting well require here, in this situation? Courage shows the difficulty. Aristotle explains [the doctrine of the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). A person facing danger can get the fear wrong in either direction: flinching from what should be faced, or charging into what should be weighed. Locating the mean between those failures is the work of [practical wisdom](card:Practical%20wisdom), which involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). His [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. He also takes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as [a sign of the character doing it](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html): [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "p",
@@ -3094,11 +3102,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Assessing a life first requires saying what it contains. [Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham) connects the [hierarchy of needs](card:Hierarchy%20of%20Needs%20Theory) with [self-actualization](card:Self-actualization%20%28Maslow%29): [becoming what one is capable of becoming](https://psychclassics.yorku.ca/Maslow/motivation.htm). [Positive psychology](card:Positive%20psychology) later made [building a life worth living](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) an explicit research aim. But an aim is not yet a measure: what would count as evidence that a life was going well?"
+          "x": "Assessing a life first requires saying what it contains. [Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham) connects the [hierarchy of needs](card:Hierarchy%20of%20Needs%20Theory) with [self-actualization](card:Self-actualization%20%28Maslow%29): [becoming what one is capable of becoming](https://psychclassics.yorku.ca/Maslow/motivation.htm)."
         },
         {
           "t": "p",
-          "x": "One answer defines the dimensions along which a person can function well. For [Ryff](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), [psychological well-being](card:Psychological%20well-being) includes accepting oneself, good relationships, autonomy, managing one's circumstances, purpose and growth. This [broader view](card:Holistic%20well-being) gives several dimensions to consider when asking how a person is doing, and it marks out the territory the [eudaimonic approach](card:Eudaimonic%20well-being) studies when it concerns [meaning and functioning](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)."
+          "x": "[Positive psychology](card:Positive%20psychology) later made [building a life worth living](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) an explicit research aim. But an aim is not yet a measure: what would count as evidence that a life was going well?"
+        },
+        {
+          "t": "p",
+          "x": "One answer defines the dimensions along which a person can function well. For [Ryff](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), [psychological well-being](card:Psychological%20well-being) includes accepting oneself, good relationships, autonomy, managing one's circumstances, purpose and growth."
+        },
+        {
+          "t": "p",
+          "x": "This [broader view](card:Holistic%20well-being) gives several dimensions to consider when asking how a person is doing, and it marks out the territory the [eudaimonic approach](card:Eudaimonic%20well-being) studies when it concerns [meaning and functioning](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)."
         },
         {
           "t": "p",
@@ -3130,7 +3146,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Research on the good life then took two further shapes. One classified character: [Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. Another asked what positive emotions do: for [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible, and her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
+          "x": "Research on the good life then took two further shapes. One classified character: [Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues."
+        },
+        {
+          "t": "p",
+          "x": "Another asked what positive emotions do: for [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible, and her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
         },
         {
           "t": "p",
@@ -3278,7 +3298,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Admiration offers another way to look beyond ourselves. [Zagzebski's moral theory](https://www.rivistateoria.eu/index.php/teoria/article/download/44/43) begins with [exemplars](card:Moral%20exemplarism): people whose lives make goodness desirable. That is a philosophical proposal, not a research finding. On the empirical side, [two cross-sectional studies](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9) — one of European churchgoers, one of US university employees interested in meditation — found that religiosity and spirituality went with well-being, and that [self-transcendent positive emotions](card:Self-transcendent%20emotions) such as awe, gratitude, love and peace helped explain that link, whereas amusement and pride did not. Because both studies are cross-sectional, they do not establish a cause. I take them as a reason to ask what a practice helps us notice and care about, not just how it makes us feel."
+          "x": "Admiration offers another way to look beyond ourselves. [Zagzebski's moral theory](https://www.rivistateoria.eu/index.php/teoria/article/download/44/43) begins with [exemplars](card:Moral%20exemplarism): people whose lives make goodness desirable. That is a philosophical proposal, not a research finding. On the empirical side, [two cross-sectional studies](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9), one of European churchgoers and one of US university employees interested in meditation, found that religiosity and spirituality went with well-being, and that [self-transcendent positive emotions](card:Self-transcendent%20emotions) such as awe, gratitude, love and peace helped explain that link, whereas amusement and pride did not. Because both studies are cross-sectional, they do not establish a cause. I take them as a reason to ask what a practice helps us notice and care about, not just how it makes us feel."
         },
         {
           "t": "h2",
@@ -7669,7 +7689,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Stress: Lazarus and Folkman define it as a relationship, not a feeling: \"psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources\" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](card:Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either."
+          "x": "Stress: Lazarus and Folkman define it as a relationship, not a feeling: \"psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources\" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](card:Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and I do not say so either."
         },
         {
           "t": "p",
@@ -7689,7 +7709,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on anxiety"
+          "x": "Where anxiety lives"
         },
         {
           "t": "h2",
@@ -7697,35 +7717,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anxiety about the future](card:Anxiety%20about%20the%20future): Kierkegaard's Concept of Anxiety (1844) locates anxiety in possibility: the felt pull of possibilities, in which we are both drawn toward and repelled by one."
+          "x": "Kierkegaard's Concept of Anxiety (1844) locates anxiety in possibility: the felt pull of possibilities, in which we are both drawn toward and repelled by one, carried on [anxiety about the future](card:Anxiety%20about%20the%20future). His image for it is [the dizziness of freedom](card:The%20dizziness%20of%20freedom): fear has a definite object, while anxiety responds to possibility itself."
         },
         {
           "t": "p",
-          "x": "[The dizziness of freedom](card:The%20dizziness%20of%20freedom): Kierkegaard's image for anxiety: fear has a definite object, while anxiety responds to possibility itself."
+          "x": "The thread he pulled through the book, written under the pseudonym Vigilius Haufniensis, is [facing the fear](card:Facing%20the%20fear), and the monster is what one is drawn toward and repelled by at once, a description Kierkegaard takes from children's play, carried on [facing the monster](card:Facing%20the%20monster)."
         },
         {
           "t": "p",
-          "x": "[Facing the fear](card:Facing%20the%20fear): the thread Kierkegaard pulled through The Concept of Anxiety, written under the pseudonym Vigilius Haufniensis."
+          "x": "Heidegger's [angst](card:Angst) is the fundamental mood in which the ground of things slips away; for him, the disclosure of finitude as such. His 1929 lecture claims that the nothing is met in a particular mood, anxiety, carried on [das Nichts](card:Das%20Nichts)."
         },
         {
           "t": "p",
-          "x": "[Facing the monster](card:Facing%20the%20monster): the monster is what one is drawn toward and repelled by at once, a description Kierkegaard takes from children's play."
-        },
-        {
-          "t": "p",
-          "x": "[Angst](card:Angst): the fundamental mood in which the ground of things slips away; for Heidegger, the disclosure of finitude as such."
-        },
-        {
-          "t": "p",
-          "x": "[Das Nichts](card:Das%20Nichts): Heidegger's 1929 lecture claims that the nothing is met in a particular mood, anxiety."
-        },
-        {
-          "t": "p",
-          "x": "[Existential confrontation](card:Existential%20confrontation): facing the basic conditions of human life, death, freedom, isolation and meaninglessness, instead of avoiding them."
-        },
-        {
-          "t": "p",
-          "x": "[The uncanny](card:The%20uncanny): a specific kind of fright that comes from the familiar and not from the alien."
+          "x": "Facing the basic conditions of human life, death, freedom, isolation and meaninglessness, instead of avoiding them is [existential confrontation](card:Existential%20confrontation). A specific kind of fright that comes from the familiar and not from the alien is [the uncanny](card:The%20uncanny)."
         },
         {
           "t": "h2",
@@ -7733,227 +7737,127 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Fear](card:Fear): the emotion that mobilizes defense against threat; for Öhman and Mineka, the central motive state of an evolved module."
+          "x": "The emotion that mobilizes defense against threat is [fear](card:Fear); for Öhman and Mineka, the central motive state of an evolved module. Epicurus's Letter to Menoeceus addresses the two fears he treats as the main sources of disturbance, fear of the gods and fear of death, on [the classification of fears](card:The%20classification%20of%20fears)."
         },
         {
           "t": "p",
-          "x": "[The classification of fears](card:The%20classification%20of%20fears): Epicurus's Letter to Menoeceus addresses the two fears he treats as the main sources of disturbance: fear of the gods and fear of death."
+          "x": "His method is [the examination of fear](card:The%20examination%20of%20fear): take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size. The [Epicurean argument against the fear of death](card:Epicurean%20argument%20against%20the%20fear%20of%20death) holds that death is the privation of all sentience, so it cannot harm the person who no longer exists, and fearing it is a groundless pain."
         },
         {
           "t": "p",
-          "x": "[The examination of fear](card:The%20examination%20of%20fear): Epicurus's method: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size."
+          "x": "One of the four cardinal virtues, acting well in the face of fear, is [courage](card:Courage). Aristotle's definition, carried on [courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear), is that the brave person does not lack fear but fears the right things."
         },
         {
           "t": "p",
-          "x": "[Epicurean argument against the fear of death](card:Epicurean%20argument%20against%20the%20fear%20of%20death): death is the privation of all sentience, so it cannot harm the person who no longer exists, and fearing it is a groundless pain."
+          "x": "His distinction between courage proper and the things that merely look like it is [authentic courage without props](card:Authentic%20courage%20without%20props), and his description of courage as formed through habituation is [courage built gradually](card:Courage%20built%20gradually)."
         },
         {
           "t": "p",
-          "x": "[Courage](card:Courage): one of the four cardinal virtues: acting well in the face of fear."
-        },
-        {
-          "t": "p",
-          "x": "[Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear): Aristotle's definition: the brave person does not lack fear but fears the right things."
-        },
-        {
-          "t": "p",
-          "x": "[Authentic courage without props](card:Authentic%20courage%20without%20props): Aristotle's distinction between courage proper and the things that merely look like it."
-        },
-        {
-          "t": "p",
-          "x": "[Courage built gradually](card:Courage%20built%20gradually): Aristotle describes courage as formed through habituation."
-        },
-        {
-          "t": "p",
-          "x": "[Moral courage research](card:Moral%20courage%20research): Hannah, Avolio and Walumbwa's working definition of the research field."
-        },
-        {
-          "t": "p",
-          "x": "[The fearless mind](card:The%20fearless%20mind): the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58)."
+          "x": "Hannah, Avolio and Walumbwa's working definition of the research field is [moral courage research](card:Moral%20courage%20research), and the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58) is [the fearless mind](card:The%20fearless%20mind)."
         },
         {
           "t": "h2",
-          "x": "Worry, rumination and uncertainty"
+          "x": "What worry actually does"
         },
         {
           "t": "p",
-          "x": "[Worry research](card:Worry%20research): Borkovec and colleagues' programme: worry is abstract verbal thought that feels like preparation while functioning as avoidance."
+          "x": "Borkovec and colleagues' programme, carried on [worry research](card:Worry%20research), holds that worry is abstract verbal thought that feels like preparation while functioning as avoidance. The avoidance theory, carried on [worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec), is that verbal thought can function as cognitive avoidance of threatening images."
         },
         {
           "t": "p",
-          "x": "[Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec): the avoidance theory of worry: verbal thought that can function as cognitive avoidance of threatening images."
+          "x": "Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences is [rumination](card:Rumination). Wells's [metacognitive model of anxiety and depression](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29) holds that positive and negative metacognitive beliefs maintain worry and rumination, and his [metacognitive therapy](card:Metacognitive%20therapy%20%28Wells%29) treats beliefs about thinking, such as \"worrying is useful\", instead of the content of thoughts."
         },
         {
           "t": "p",
-          "x": "[Rumination](card:Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences."
+          "x": "A dispositional incapacity to endure the aversive response triggered by uncertain situations is [intolerance of uncertainty](card:Intolerance%20of%20uncertainty), and the research on what reducing it does to worry is carried on [uncertainty tolerance](card:Uncertainty%20tolerance)."
         },
         {
           "t": "p",
-          "x": "[Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29): positive and negative metacognitive beliefs maintain worry and rumination."
+          "x": "Comfort with incomplete information, as discussed in medical practice and in anxiety research, is [tolerance of uncertainty](card:Tolerance%20of%20uncertainty). The feeling state that arrives before the outcome, in Loewenstein's 1996 account, is [anticipatory affect](card:Anticipatory%20affect)."
         },
         {
           "t": "p",
-          "x": "[Metacognitive therapy (Wells)](card:Metacognitive%20therapy%20%28Wells%29): treating beliefs about thinking, such as \"worrying is useful\", instead of the content of thoughts."
-        },
-        {
-          "t": "p",
-          "x": "[Intolerance of uncertainty](card:Intolerance%20of%20uncertainty): a dispositional incapacity to endure the aversive response triggered by uncertain situations."
-        },
-        {
-          "t": "p",
-          "x": "[Uncertainty tolerance](card:Uncertainty%20tolerance): research on intolerance of uncertainty and what reducing it does to worry."
-        },
-        {
-          "t": "p",
-          "x": "[Tolerance of uncertainty](card:Tolerance%20of%20uncertainty): comfort with incomplete information, as discussed in medical practice and in anxiety research."
-        },
-        {
-          "t": "p",
-          "x": "[Anticipatory affect](card:Anticipatory%20affect): the feeling state that arrives before the outcome, in Loewenstein's 1996 account."
-        },
-        {
-          "t": "p",
-          "x": "[Risk perception](card:Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies."
+          "x": "The study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies is [risk perception](card:Risk%20perception)."
         },
         {
           "t": "h2",
-          "x": "What anxiety does to attention"
+          "x": "Where anxiety sends attention"
         },
         {
           "t": "p",
-          "x": "[Attentional control theory (Eysenck)](card:Attentional%20control%20theory%20%28Eysenck%29): Eysenck and colleagues' 2007 account of what anxiety does to thinking."
+          "x": "Eysenck and colleagues' 2007 account of what anxiety does to thinking is [attentional control theory](card:Attentional%20control%20theory%20%28Eysenck%29). MacLeod's theory, carried on [attentional bias theory](card:Attentional%20bias%20theory%20MacLeod), is that anxiety is maintained partly by where attention goes: toward threat cues."
         },
         {
           "t": "p",
-          "x": "[Attentional bias theory MacLeod](card:Attentional%20bias%20theory%20MacLeod): anxiety is maintained partly by where attention goes: toward threat cues."
-        },
-        {
-          "t": "p",
-          "x": "[Attentional bias research](card:Attentional%20bias%20research): asks whether what attention selects contributes to emotional vulnerability or merely accompanies it."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory): an approach to modifying the cognitive biases that confer vulnerability to anxiety."
+          "x": "The research asks whether what attention selects contributes to emotional vulnerability or merely accompanies it, carried on [attentional bias research](card:Attentional%20bias%20research). An approach to modifying the cognitive biases that confer vulnerability to anxiety is [cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory)."
         },
         {
           "t": "h2",
-          "x": "Stress: demand, body and buffer"
+          "x": "What the body does under demand"
         },
         {
           "t": "p",
-          "x": "[Stress appraisal](card:Stress%20appraisal): the central idea of Lazarus and Folkman's transactional theory: stress depends on how a person-environment relationship is appraised."
+          "x": "The central idea of Lazarus and Folkman's transactional theory is [stress appraisal](card:Stress%20appraisal): stress depends on how a person-environment relationship is appraised. Their [transactional theory of stress and coping](card:Lazarus%20and%20Folkman%27s%20Transactional%20Theory%20of%20Stress%20and%20Coping) holds that stress is a person-environment transaction; harm depends on appraisal, and coping can change it."
         },
         {
           "t": "p",
-          "x": "[Lazarus and Folkman's Transactional Theory of Stress and Coping](card:Lazarus%20and%20Folkman%27s%20Transactional%20Theory%20of%20Stress%20and%20Coping): stress is a person-environment transaction; harm depends on appraisal, and coping can change it."
+          "x": "The body's coordinated reaction to perceived threat is the [stress response](card:Stress%20response%20%28Lupien%2C%20McEwen%29); in McEwen's review the system protects in the short run and wears the body down when it stays active. The hormonal cascade from hypothalamus to pituitary to adrenal cortex, tuned for adaptation, is [HPA axis theory](card:HPA%20axis%20theory%20stress). The part of the peripheral nervous system that regulates involuntary processes such as heart rate is the [autonomic nervous system](card:Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29)."
         },
         {
           "t": "p",
-          "x": "[Stress response (Lupien, McEwen)](card:Stress%20response%20%28Lupien%2C%20McEwen%29): the body's coordinated reaction to perceived threat; in McEwen's review the system protects in the short run and wears the body down when it stays active."
+          "x": "A person's standing belief that stress either enhances or debilitates performance, health and growth is [stress mindset](card:Stress%20mindset). The Nagoskis' account of completing the stress cycle as a shift from stress toward relief is [stress cycle completion](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29). Meichenbaum's method for building coping capacity before stress arrives, on the vaccine metaphor, is [stress inoculation training](card:Stress%20inoculation%20training)."
         },
         {
           "t": "p",
-          "x": "[HPA axis theory stress](card:HPA%20axis%20theory%20stress): the hormonal stress response as a cascade from hypothalamus to pituitary to adrenal cortex, tuned for adaptation."
+          "x": "Disorder as a meeting of a latent vulnerability and environmental stress is the [diathesis-stress model](card:Diathesis-stress%20model). Barlow's model of the origins of anxiety and mood disorders through three separate but interacting vulnerabilities is the [Triple Vulnerability Model](card:Triple%20Vulnerability%20Model). Cohen and Wills's account of how social support protects people from the effects of stress is [the stress-buffering model](card:The%20stress-buffering%20model)."
         },
         {
           "t": "p",
-          "x": "[Autonomic nervous system (sympathetic vs parasympathetic)](card:Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29): the part of the peripheral nervous system that regulates involuntary processes such as heart rate."
+          "x": "Leyro and colleagues distinguish the perceived capacity to withstand aversive states from the behavioural act of withstanding them, on [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29). The cognitive-therapy assumption that interpretations influence emotional responses is [cognitive mediation of distress](card:Cognitive%20mediation%20of%20distress)."
         },
         {
           "t": "p",
-          "x": "[Stress mindset](card:Stress%20mindset): a person's standing belief that stress either enhances or debilitates performance, health and growth."
+          "x": "The eight-week course in secular mindfulness training that Jon Kabat-Zinn founded in 1979 is [mindfulness-based stress reduction](card:Mindfulness-based%20stress%20reduction). Ilan Meyer's 2003 framework, that stigma, prejudice and discrimination create a hostile and stressful social environment that explains higher rates of mental disorder, is [minority stress theory](card:Minority%20stress%20theory)."
         },
         {
           "t": "p",
-          "x": "[Stress cycle completion (Nagorski, Sapolsky)](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29): the Nagoskis' account of completing the stress cycle as a shift from stress toward relief."
-        },
-        {
-          "t": "p",
-          "x": "[Stress inoculation training](card:Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives, on the vaccine metaphor."
-        },
-        {
-          "t": "p",
-          "x": "[Diathesis-stress model](card:Diathesis-stress%20model): disorder as a meeting of a latent vulnerability and environmental stress."
-        },
-        {
-          "t": "p",
-          "x": "[Triple Vulnerability Model](card:Triple%20Vulnerability%20Model): Barlow's model of the origins of anxiety and mood disorders through three separate but interacting vulnerabilities."
-        },
-        {
-          "t": "p",
-          "x": "[The stress-buffering model](card:The%20stress-buffering%20model): Cohen and Wills's account of how social support protects people from the effects of stress."
-        },
-        {
-          "t": "p",
-          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): Leyro and colleagues distinguish the perceived capacity to withstand aversive states from the behavioural act of withstanding them."
-        },
-        {
-          "t": "p",
-          "x": "[Cognitive mediation of distress](card:Cognitive%20mediation%20of%20distress): the cognitive-therapy assumption that interpretations influence emotional responses."
-        },
-        {
-          "t": "p",
-          "x": "[Mindfulness-based stress reduction](card:Mindfulness-based%20stress%20reduction): the eight-week course in secular mindfulness training that Jon Kabat-Zinn founded in 1979."
-        },
-        {
-          "t": "p",
-          "x": "[Minority stress theory](card:Minority%20stress%20theory): Ilan Meyer's 2003 framework: stigma, prejudice and discrimination create a hostile and stressful social environment that explains higher rates of mental disorder."
-        },
-        {
-          "t": "p",
-          "x": "[Stress-related growth](card:Stress-related%20growth): Tedeschi and Calhoun, 2004; the card is a short entry that points to post-traumatic growth."
+          "x": "The short entry by Tedeschi and Calhoun, 2004, that points to post-traumatic growth is [stress-related growth](card:Stress-related%20growth)."
         },
         {
           "t": "h2",
-          "x": "Death anxiety"
+          "x": "How death reaches forward"
         },
         {
           "t": "p",
-          "x": "[Death anxiety research](card:Death%20anxiety%20research): the clinical-psychology study of fear of death and its role in mental disorder, proposed as a transdiagnostic construct."
+          "x": "The clinical-psychology study of fear of death and its role in mental disorder, proposed as a transdiagnostic construct, is [death anxiety research](card:Death%20anxiety%20research). The social-psychological account of how humans live with the knowledge that they will die is [terror management](card:Terror%20management)."
         },
         {
           "t": "p",
-          "x": "[Terror management](card:Terror%20management): the social-psychological account of how humans live with the knowledge that they will die."
-        },
-        {
-          "t": "p",
-          "x": "[Anxiety buffer disruption theory](card:Anxiety%20buffer%20disruption%20theory): Pyszczynski and Kesebir: reminders of mortality normally defend via culture; when that buffer is broken, anxiety and defensiveness intensify."
-        },
-        {
-          "t": "p",
-          "x": "[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder](card:Clinical%20thresholds%20for%20depression%2C%20anxiety%2C%20PTSD%2C%20and%20bipolar%20disorder): gathers public help-seeking guidance and diagnostic passages; it does not establish one clinical threshold for all four conditions."
+          "x": "Pyszczynski and Kesebir's [anxiety buffer disruption theory](card:Anxiety%20buffer%20disruption%20theory) holds that reminders of mortality normally defend via culture; when that buffer is broken, anxiety and defensiveness intensify. The card that gathers public help-seeking guidance and diagnostic passages is [clinical thresholds for depression, anxiety, PTSD, and bipolar disorder](card:Clinical%20thresholds%20for%20depression%2C%20anxiety%2C%20PTSD%2C%20and%20bipolar%20disorder); it does not establish one clinical threshold for all four conditions."
         },
         {
           "t": "h2",
-          "x": "Calming and steadying"
+          "x": "How the traditions calm and steady"
         },
         {
           "t": "p",
-          "x": "[Shamatha (calm abiding)](card:Shamatha%20%28calm%20abiding%29): the settling of the mind: attention rests on a chosen object until the mind grows quiet and comfortable."
+          "x": "The settling of the mind in which attention rests on a chosen object until the mind grows quiet and comfortable is [shamatha (calm abiding)](card:Shamatha%20%28calm%20abiding%29). The Stoic exercise of rehearsing future misfortunes in advance so as to strip misfortune of the strangeness that makes it heavy is [premeditatio malorum](card:Premeditatio%20malorum)."
         },
         {
           "t": "p",
-          "x": "[Premeditatio malorum](card:Premeditatio%20malorum): the Stoic exercise of rehearsing future misfortunes in advance so as to strip misfortune of the strangeness that makes it heavy."
-        },
-        {
-          "t": "p",
-          "x": "[Spiritual vigilance](card:Spiritual%20vigilance): Hadot's name for the watchful attention the Stoic philosopher kept over his own mind, prosoche."
+          "x": "Hadot's name for the watchful attention the Stoic philosopher kept over his own mind, prosoche, is [spiritual vigilance](card:Spiritual%20vigilance)."
         },
         {
           "t": "h2",
-          "x": "The sayings and the story"
+          "x": "What the sayings and stories carry"
         },
         {
           "t": "p",
-          "x": "[275. Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that everyone around him insists was correct."
+          "x": "The story in which Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that everyone around him insists was correct, is [Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear). The saying cited in my practice principles on obeying from understanding and not from fear is [perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear), from 1 John 4.18."
         },
         {
           "t": "p",
-          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in my practice principles on obeying from understanding and not from fear."
-        },
-        {
-          "t": "p",
-          "x": "[I fear the Greeks even bearing gifts](card:I%20fear%20the%20Greeks%20even%20bearing%20gifts): Virgil, Aeneid II, Laocoon's warning."
+          "x": "Laocoon's warning from Virgil, Aeneid II, is [I fear the Greeks even bearing gifts](card:I%20fear%20the%20Greeks%20even%20bearing%20gifts)."
         },
         {
           "t": "h",
@@ -8009,7 +7913,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The first source is about the body over time, the second about belief at the moment of stress. Neither abstract says that believing stress is helpful makes chronic stress harmless, and this dossier does not claim it."
+          "x": "The first source is about the body over time, the second about belief at the moment of stress. Neither abstract says that believing stress is helpful makes chronic stress harmless, and I do not claim it."
         },
         {
           "t": "h2",
@@ -13338,7 +13242,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Truthfulness in declarations (Aussagen) that one cannot avoid is a human being's duty to everyone, however great the disadvantage to him or to another that may result from it... I bring it about, as far as I can, that declarations in general are not believed, and so too that all rights which are based on contracts come to nothing and lose their force; and this is a wrong inflicted upon humanity generally.\" ([Kant, On a Supposed Right to Lie from Philanthropy](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-88572011000200005))",
+          "x": "\"Truthfulness in declarations (Aussagen) that one cannot avoid is a human being's duty to everyone, however great the disadvantage to him or to another that may result from it... I bring it about, as far as I can, that declarations (Aussagen [Declarationen]) in general are not believed, and so too that all rights which are based on contracts come to nothing and lose their force; and this is a wrong inflicted upon humanity generally.\" ([Kant, On a Supposed Right to Lie from Philanthropy](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-88572011000200005))",
           "s": null
         },
         {
@@ -14989,10 +14893,14 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Shame and guilt answer occasions of exposure and of wrong: a harm done, a standard broken, a self seen and found wanting. The classical traditions treated that whole territory under names like aidos, repentance and teshuva, and asked how the pain over a wrong should be used. The modern research tradition split the territory in two and staked much on the split: one emotion evaluates an act and reaches for repair, the other evaluates the self and reaches for cover. Both the classical treatments and the split have a claim on a reader who has done wrong and wants to know what to do next."
+          "x": "Shame and guilt answer occasions of exposure and of wrong: a harm done, a standard broken, a self seen and found wanting. The classical traditions treated that whole territory under names like aidos, repentance and teshuva, and asked how the pain over a wrong should be used. The modern research tradition split the territory in two and staked much on the split: one emotion evaluates an act and reaches for repair, the other evaluates the self and reaches for cover."
         },
         {
-          "t": "h",
+          "t": "p",
+          "x": "I began with the question of a reader who has done wrong and wants to know what to do next, and both the classical treatments and the split have a claim on me. I keep two questions separate below: what the feelings are and what they move a person to do, and then what repair of a wrong actually consists of, from confession and apology to the harder case where the feeling has turned on the self and become the problem."
+        },
+        {
+          "t": "h2",
           "x": "Nearby terms"
         },
         {
@@ -15001,7 +14909,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Remorse: I hold it inside [Repentance](card:Repentance), where Spinoza's definition makes the belief clause — pain over an act believed freely done — the operative part."
+          "x": "Remorse: I hold it inside [Repentance](card:Repentance), where Spinoza's definition makes the belief clause, pain over an act believed freely done, the operative part."
         },
         {
           "t": "p",
@@ -15009,35 +14917,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Self-consciousness: the family umbrella. The set of emotions that take the self as object — shame, guilt, embarrassment, pride — is mapped on [Self-conscious emotions](card:Self-conscious%20emotions)."
+          "x": "Self-consciousness: the family umbrella. The set of emotions that take the self as object, shame, guilt, embarrassment, pride, is mapped on [Self-conscious emotions](card:Self-conscious%20emotions)."
         },
         {
           "t": "h",
-          "x": "The map: the entries on shame and guilt"
+          "x": "What the two feelings are and what they do"
         },
         {
           "t": "h2",
-          "x": "What the two feelings are taken to be"
+          "x": "What is the difference between them?"
         },
         {
           "t": "p",
-          "x": "[Self-conscious emotions](card:Self-conscious%20emotions): the family that takes the self as its object; Tangney's research tradition treats the set as failures and social-exposure signs with distinct social functions."
-        },
-        {
-          "t": "p",
-          "x": "[Moral emotions](card:Moral%20emotions): the wider set that links moral standards to behaviour; shame and guilt are its self-directed members."
-        },
-        {
-          "t": "p",
-          "x": "[Guilt](card:Guilt): the negative evaluation of a specific behaviour; its adaptive form moves toward confession, apology and undoing, its chronic form toward rumination and self-blame."
-        },
-        {
-          "t": "p",
-          "x": "[Shame](card:Shame): the negative evaluation of the global self; the feeling that the whole person is defective, with the hiding that follows from that verdict."
-        },
-        {
-          "t": "p",
-          "x": "The distinction the research runs on comes from Helen Block Lewis, restated in Tangney and colleagues' review of the moral emotions:"
+          "x": "The family umbrella is [Self-conscious emotions](card:Self-conscious%20emotions): embarrassment, guilt, pride and shame, the set whose elicitation requires stable self-representations and a self-evaluation, on the Tracy and Robins model the card carries ([Tracy & Robins, 2007](http://rpforschools.net/articles/ASP/Tracy%20&%20Robbins%202007%20Self-Conscious%20Emotions%20-%20Where%20Self%20and%20Emotion%20Meet.pdf)). [Moral emotions](card:Moral%20emotions) is the wider set that links moral standards to behaviour, and shame and guilt are its self-directed members. The distinction the research runs on comes from Helen Block Lewis, restated in Tangney and colleagues' review:"
         },
         {
           "t": "q",
@@ -15045,12 +14937,12 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "h2",
-          "x": "What each feeling does"
+          "t": "p",
+          "x": "On that account, [guilt](card:Guilt) is the negative evaluation of a specific behaviour, its adaptive form moving toward confession, apology and undoing, its chronic form toward rumination and self-blame, and [shame](card:Shame) is the negative evaluation of the global self, the feeling that the whole person is defective. The difference is not fine-grained psychology for its own sake: one evaluation points at an act that confession, apology and undoing can reach; the other at the whole self rather than the particular action. The criterion itself is contested below, where the traditions genuinely disagree."
         },
         {
-          "t": "p",
-          "x": "[Guilt motivates reparative behaviour](card:Guilt%20motivates%20reparative%20behaviour): the empirical claim that guilt, aimed at a harm, generates confession, apology and undoing rather than avoidance."
+          "t": "h2",
+          "x": "What does each move a person to do?"
         },
         {
           "t": "p",
@@ -15058,32 +14950,33 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"On the one hand, shame corresponds with attempts to deny, hide, or escape the shame-inducing situation. Guilt, on the other hand, corresponds with reparative actions including confessions, apologies, and undoing the consequences of the behavior.\" ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))",
+          "x": "\"On the one hand, shame corresponds with attempts to deny, hide, or escape the shame-inducing situation.\"",
           "s": null
         },
         {
           "t": "p",
-          "x": "The same review records the cost side: proneness to shame is related to a wide variety of psychological symptoms, from low self-esteem and depression to suicidal ideation. These are correlations with proneness, and the review does not describe a cure. Aristotle's brake and these correlations are claims about different things — a state that restrains a developing character, and a stable disposition measured across people — and neither settles the other."
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"Guilt, on the other hand, corresponds with reparative actions including confessions, apologies, and undoing the consequences of the behavior.\" ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "Guilt has its own failure mode. The advantages of guilt are lost when the guilt experience is magnified and generalized to the self — the review's example is the slide from \"Oh, look at what a horrible thing I have done\" to \"… and aren't I a horrible person\" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). The clinical literature adds obsessional guilt: \"In both populations, trait guilt significantly predicted obsessional compulsive complaints, independent of anxiety and depression\" ([Shafran, Watkins & Charman, 1996](https://kclpure.kcl.ac.uk/portal/en/publications/guilt-in-obsessive-compulsive-disorder/))."
+          "x": "The empirical claim behind [Guilt motivates reparative behaviour](card:Guilt%20motivates%20reparative%20behaviour) is that guilt, aimed at a specific harm, corresponds with confession, apology and undoing rather than avoidance. The same review records the cost side: proneness to shame is related to a wide variety of psychological symptoms, from low self-esteem and depression to suicidal ideation. These are correlations with proneness, and the review does not describe a cure."
+        },
+        {
+          "t": "p",
+          "x": "Guilt has its own failure mode. The advantages of guilt are lost when the guilt experience is magnified and generalized to the self; the review's example is the slide from \"Oh, look at what a horrible thing I have done\" to \"… and aren't I a horrible person\" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). The clinical literature adds obsessional guilt: \"In both populations, trait guilt significantly predicted obsessional compulsive complaints, independent of anxiety and depression\" ([Shafran, Watkins & Charman, 1996](https://kclpure.kcl.ac.uk/portal/en/publications/guilt-in-obsessive-compulsive-disorder/))."
         },
         {
           "t": "h2",
-          "x": "The learner's brake: aidos"
+          "x": "What is shame for, in a developing character?"
         },
         {
           "t": "p",
-          "x": "[Shamefastness (aidos)](card:Shamefastness%20%28aidos%29): the brake that restrains before the principled agent has finished forming, backed by the dread of others' sight; the concept trains honour kept even when no one watches."
-        },
-        {
-          "t": "p",
-          "x": "[Shamefastness as quasi-virtue](card:Shamefastness%20as%20quasi-virtue): Aristotle's NE IV.9 account of shame — short of virtue, aimed at the developing character."
-        },
-        {
-          "t": "p",
-          "x": "Aristotle draws the line in the Nicomachean Ethics:"
+          "x": "The classical brake runs under the name aidos. [Shamefastness (aidos)](card:Shamefastness%20%28aidos%29) is the brake that restrains before the principled agent has finished forming, backed by the dread of others' sight, and it trains honour kept even when no one watches. [Shamefastness as quasi-virtue](card:Shamefastness%20as%20quasi-virtue) holds Aristotle's NE IV.9 account of shame, short of virtue and aimed at the developing character, and Aristotle draws the line himself:"
         },
         {
           "t": "q",
@@ -15102,11 +14995,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Rhetoric adds the audience structure: shame is \"pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit\", and \"the people before whom we feel shame are those whose opinion of us matters to us\" ([Aristotle, Rhetoric II.6, Roberts translation](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html))."
-        },
-        {
-          "t": "p",
-          "x": "Spinoza defines shame by that audience and judges it double-sided:"
+          "x": "The Rhetoric adds the audience structure: shame is \"pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit\", and \"the people before whom we feel shame are those whose opinion of us matters to us\" ([Aristotle, Rhetoric II.6, Roberts translation](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). Spinoza defines shame by that same audience and judges it double-sided:"
         },
         {
           "t": "q",
@@ -15119,24 +15008,24 @@ window.fcDossiersData = {
           "s": null
         },
         {
+          "t": "p",
+          "x": "Nietzsche values the same capacity differently, and the pair is worth holding together. Spinoza judges shame good as a sign of the desire to live honourably ([Spinoza, Ethics IV, LVIII note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)); Nietzsche marks its absence as the achievement: \"What is the Seal of Liberty Attained? To be no longer ashamed of oneself.\" ([Nietzsche, The Joyful Wisdom §275, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))"
+        },
+        {
+          "t": "p",
+          "x": "Whether those two judgments conflict turns on whether the feeling is a possession or a stage. Aristotle's aidos material supplies a stage reading, and it is my own lens here, distinct from either author's position: shamefastness is praised in the young, who live by feeling and are restrained by it, and not praised in the older person, who should not do anything that need cause it ([Aristotle, NE IV.9](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). Read that way, Spinoza's sign is right about the learner and Nietzsche's seal about the finished character; but that is my reconciliation, not one either author endorses."
+        },
+        {
+          "t": "h",
+          "x": "Being seen"
+        },
+        {
           "t": "h2",
-          "x": "Shame before the eyes of others"
+          "x": "What is it to be seen?"
         },
         {
           "t": "p",
-          "x": "[The look (le regard)](card:The%20look%20%28le%20regard%29): Sartre's name for being-seen; shame as the discovery that one exists as an object for another consciousness."
-        },
-        {
-          "t": "p",
-          "x": "[Being-for-others](card:Being-for-others): the dimension of selfhood the look opens; the keyhole example is its founding scene."
-        },
-        {
-          "t": "p",
-          "x": "[The body-for-others](card:The%20body-for-others): the body as it exists for the other's gaze, in Sartre's account in Being and Nothingness."
-        },
-        {
-          "t": "p",
-          "x": "The Stanford Encyclopedia's account of the keyhole scene gives the structure:"
+          "x": "Sartre gives the experience its structure. [The look (le regard)](card:The%20look%20%28le%20regard%29) is his name for being-seen: shame as the discovery that one exists as an object for another consciousness. [Being-for-others](card:Being-for-others) is the dimension of selfhood the look opens, with the keyhole example as its founding scene, and [The body-for-others](card:The%20body-for-others) is the body as it exists for the other's gaze in Being and Nothingness. The Stanford Encyclopedia's account of the keyhole scene gives the structure:"
         },
         {
           "t": "q",
@@ -15145,11 +15034,70 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Stigma research](card:Stigma%20research): the sociology of a marked difference turned into a disqualifying social identity — an attribute \"deeply discrediting\", with status loss and social rejection as its consequences; a social process, distinct from the emotion felt from inside."
+          "x": "I leave open how this involuntary experience relates to Tangney's account of global self-evaluation; these passages do not establish that the accounts are incompatible ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/); [SEP, \"Jean-Paul Sartre\"](https://plato.stanford.edu/entries/sartre/))."
         },
         {
           "t": "h2",
-          "x": "Correction without humiliation"
+          "x": "When does a difference become a disqualifying identity?"
+        },
+        {
+          "t": "p",
+          "x": "The sociology of the question is [Stigma research](card:Stigma%20research): a marked difference turned into a disqualifying social identity, an attribute \"deeply discrediting\", with status loss and social rejection as its consequences. That is a social process, distinct from the emotion felt from inside; the shame a person feels and the stigma a society applies are different objects, and repair work on one is not repair work on the other."
+        },
+        {
+          "t": "h",
+          "x": "The repair of a wrong"
+        },
+        {
+          "t": "h2",
+          "x": "What does repair consist of?"
+        },
+        {
+          "t": "p",
+          "x": "The Jewish practice of return is [Teshuva (return/repentance)](card:Teshuva%20%28returnrepentance%29), and Maimonides gives it its classic form:"
+        },
+        {
+          "t": "q",
+          "x": "\"What constitutes Teshuvah? That a sinner should abandon his sins and remove them from his thoughts, resolving in his heart, never to commit them again... Similarly, he must regret the past... He must verbally confess and state these matters which he resolved in his heart.\" ([Maimonides, Mishneh Torah, Repentance 2:2](https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.2?lang=bi))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The New Testament's word is on [Metanoia (transformation)](card:Metanoia%20%28transformation%29): Thayer's lexicon gives the sense as a change of mind that embraces recognition of sin, sorrow for it and hearty amendment, with good deeds as its tokens. The experimental literature measures the pieces: [Apology research](card:Apology%20research) holds that acknowledgment of responsibility carries the most weight in what makes apologies work, an offer of repair the second most. [Self-forgiveness](card:Self-forgiveness) is Hall and Fincham's construct for the far side of it: the motivational changes whereby one becomes decreasingly motivated to avoid stimuli associated with the offense, decreasingly motivated to retaliate against the self, and increasingly motivated to act benevolently toward the self."
+        },
+        {
+          "t": "p",
+          "x": "The mirror the Buddha holds up to his son gives the review its shape:"
+        },
+        {
+          "t": "q",
+          "x": "\"What do you think, Rahula: What is a mirror for?\" ... \"For reflection, sir.\" ... \"In the same way, Rahula, bodily actions, verbal actions, & mental actions are to be done with repeated reflection.\" ([MN 61, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Repentance](card:Repentance) holds Spinoza's dissent from the whole category, and it is worth quoting for what it attacks:"
+        },
+        {
+          "t": "q",
+          "x": "\"Repentance is pain accompanied by the idea of some action, which we believe we have performed by the free decision of our mind.\" ([Spinoza, Ethics III, Definitions of the Affects XXVII, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "On his account the pain is real, the free decision it presupposes is not, and that makes the repenter \"doubly wretched\", though still useful to those ruled by emotion."
+        },
+        {
+          "t": "h2",
+          "x": "What is conscience?"
+        },
+        {
+          "t": "p",
+          "x": "The German tradition gives conscience a different shape from rule-storage. [Conscience (Gewissen)](card:Conscience%20%28Gewissen%29) is Heidegger's silent call by which the self is summoned to own its situation, and [The call of conscience](card:The%20call%20of%20conscience) is the same account's treatment of guilt. The guilt the call summons to is ontological rather than moral: Dasein \"need not first load a 'guilt' upon itself through its failures or omissions\", on Heidegger's own formulation of the point ([Heidegger, Being and Time §58, Macquarrie & Robinson text](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc)). A reader who wants the ledger version of conscience will not find it in Heidegger, and a reader who wants the summons version will not find it in the moral-emotions research; the two pictures are after different things."
+        },
+        {
+          "t": "h2",
+          "x": "How should a wrongdoer be corrected?"
         },
         {
           "t": "p",
@@ -15167,79 +15115,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "And the self-directed version, the mark of a finished liberty:"
+          "x": "The instruction runs against a familiar correction habit, and I take it as a practice choice: deliver the correction, and keep the contempt out of it."
         },
         {
-          "t": "q",
-          "x": "\"What is the Seal of Liberty Attained? To be no longer ashamed of oneself.\" ([Nietzsche, The Joyful Wisdom §275, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))",
-          "s": null
-        },
-        {
-          "t": "h2",
-          "x": "The turn: guilt's repair practices"
-        },
-        {
-          "t": "p",
-          "x": "[Repentance](card:Repentance): Spinoza's definition and its consequence — the pain is real, the free decision it presupposes is not, which makes the repenter \"doubly wretched\" on his account, though still useful to those ruled by emotion."
-        },
-        {
-          "t": "q",
-          "x": "\"Repentance is pain accompanied by the idea of some action, which we believe we have performed by the free decision of our mind.\" ([Spinoza, Ethics III, Definitions of the Affects XXVII, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Teshuva (return/repentance)](card:Teshuva%20%28returnrepentance%29): the Jewish practice of return — abandoning the sin, regretting the past, resolving never to return, and confessing out loud."
-        },
-        {
-          "t": "p",
-          "x": "Maimonides gives the practice its classic form:"
-        },
-        {
-          "t": "q",
-          "x": "\"What constitutes Teshuvah? That a sinner should abandon his sins and remove them from his thoughts, resolving in his heart, never to commit them again... Similarly, he must regret the past... He must verbally confess and state these matters which he resolved in his heart.\" ([Maimonides, Mishneh Torah, Repentance 2:2](https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.2?lang=bi))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Metanoia (transformation)](card:Metanoia%20%28transformation%29): the New Testament word for repentance; Thayer's lexicon gives the sense as a change of mind that embraces recognition of sin, sorrow for it and hearty amendment, with good deeds as its tokens."
-        },
-        {
-          "t": "p",
-          "x": "[Conscience (Gewissen)](card:Conscience%20%28Gewissen%29): Heidegger's silent call by which the self is summoned to own its situation; the event that replaces the rule-storage picture of conscience."
-        },
-        {
-          "t": "p",
-          "x": "[The call of conscience](card:The%20call%20of%20conscience): the same account's treatment of guilt — the guilt the call summons to is ontological rather than moral; \"Dasein is guilty before it has incurred any debt.\""
-        },
-        {
-          "t": "p",
-          "x": "[Apology research](card:Apology%20research): the experimental study of what makes apologies work; acknowledgment of responsibility carries the most weight, an offer of repair the second most."
-        },
-        {
-          "t": "p",
-          "x": "[Self-forgiveness](card:Self-forgiveness): Hall and Fincham's construct — the motivational changes whereby one becomes decreasingly motivated to avoid stimuli associated with the offense, decreasingly motivated to retaliate against the self, and increasingly motivated to act benevolently toward the self."
-        },
-        {
-          "t": "p",
-          "x": "The mirror the Buddha holds up to his son gives the review its shape, with confession and restraint for harm and refreshment for skillful conduct:"
-        },
-        {
-          "t": "q",
-          "x": "\"What do you think, Rahula: What is a mirror for?\" ... \"For reflection, sir.\" ... \"In the same way, Rahula, bodily actions, verbal actions, & mental actions are to be done with repeated reflection.\" ([MN 61, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))",
-          "s": null
-        },
-        {
-          "t": "h2",
+          "t": "h",
           "x": "When the feelings turn on the self"
         },
         {
-          "t": "p",
-          "x": "[Harsh self-criticism](card:Harsh%20self-criticism): the self-attack tangled with shame; associated with psychopathology, with its roots often in histories of abuse and neglect."
+          "t": "h2",
+          "x": "What is the failure mode?"
         },
         {
           "t": "p",
-          "x": "[Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's approach built for exactly this clientele:"
+          "x": "[Harsh self-criticism](card:Harsh%20self-criticism) is the self-attack tangled with shame, associated with psychopathology, with its roots often in histories of abuse and neglect. [Compassion-focused therapy](card:Compassion-focused%20therapy) is Gilbert's approach built for exactly this clientele:"
         },
         {
           "t": "q",
@@ -15248,15 +15136,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-compassion](card:Self-compassion): Neff's construct — self-kindness, common humanity, mindfulness — a stance toward suffering that does not need a global self-evaluation to defend."
-        },
-        {
-          "t": "p",
-          "x": "[Grace](card:Grace): what is received before it is earned; Augustine's formulation against the ledger of merit."
-        },
-        {
-          "t": "p",
-          "x": "[Be gentle with yourself in the review](card:S066%20%E2%80%94%20Be%20gentle%20with%20yourself%20in%20the%20review): Marcus Aurelius's instruction after failure — \"Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again\" (Meditations V.9); Seneca's nightly audit hands down a pardon with a correction attached."
+          "x": "[Self-compassion](card:Self-compassion) is Neff's construct for the alternative stance, self-kindness, common humanity and mindfulness: a stance toward suffering that does not need a global self-evaluation to defend. [Grace](card:Grace) is, as I read the two together, the theological counterpart of that unearned position: what is received before it is earned, Augustine's formulation against the ledger of merit. The classical practice instruction is on [Be gentle with yourself in the review](card:S066%20%E2%80%94%20Be%20gentle%20with%20yourself%20in%20the%20review): Marcus Aurelius's \"Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again\" (Meditations V.9), and Seneca's nightly audit hands down a pardon with a correction attached."
         },
         {
           "t": "h2",
@@ -15264,15 +15144,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29): the DBT skill of acting against the emotion's urge, applied to shame; a five-person pilot found shame about a specific event could be reduced over a short period."
-        },
-        {
-          "t": "p",
-          "x": "[The truth sets you free](card:The%20truth%20sets%20you%20free): the Christian tradition's one-line case for confession (John 8:32)."
-        },
-        {
-          "t": "p",
-          "x": "The hiding claim needs one qualification. De Hooge and colleagues note the literature's usual portrayal and their own finding:"
+          "x": "The clinical skill for the hiding is [Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29): the DBT practice of acting against the emotion's urge, applied to shame, with a five-person pilot finding shame about a specific event could be reduced over a short period. [The truth sets you free](card:The%20truth%20sets%20you%20free) is the Christian tradition's saying (John 8:32); the practice card pairs it with confession under the show-up rule, and I read it as the one-line case for bringing a wrong into the open. The hiding claim needs one qualification, and the qualification is a live finding rather than a settled one:"
         },
         {
           "t": "q",
@@ -15290,15 +15162,94 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Is the flash of shame a judgment?"
+          "x": "Does shame move a person toward hiding or toward others?"
         },
         {
           "t": "p",
-          "x": "Sartre's account and the appraisal account in Tangney's tradition describe the same flash and give opposing answers to what it is. For Sartre, shame is pre-moral and pre-reflective: the shudder of finding oneself an object in another's eyes, arriving \"without room for any sort of inferential theorising or cognising\" ([SEP, \"Jean-Paul Sartre\"](https://plato.stanford.edu/entries/sartre/)). For the appraisal tradition, shame is a cognizing — an evaluation of the global self as defective ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). One account reads the feeling as arriving before any judgment; the other defines it as a judgment."
+          "x": "The two research findings give opposing answers to the same question, and the de Hooge paper frames them as competing interpretations being tested. The Tangney review's action tendencies hold that \"shame corresponds with attempts to deny, hide, or escape the shame-inducing situation\" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). De Hooge and colleagues' induced-state experiments found the opposite preference: people experiencing shame preferred \"to be together with others (social approach) over being alone (social withdrawal)\" ([de Hooge et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29303420/))."
         },
         {
           "t": "p",
-          "x": "What remains unresolved is whether both can be true of one experience: a judgment that borrows its sting from the structure of being seen. The accounts also part ways on what the feeling is for — Sartre reads it as disclosing a dimension of selfhood, the appraisal tradition as a signal with repair and hiding as its outlets."
+          "x": "These passages do not settle when shame is associated with withdrawal and when with a preference for company. I take these experiments as a reason not to treat withdrawal as inevitable. They do not establish that every episode of shame produces a preference for company, nor do they explain away the withdrawal findings. When I have caused harm and repair remains possible, I would choose the next step by what repair requires, rather than by the feeling alone; shame does not always attach to a reparable wrong."
+        },
+        {
+          "t": "h2",
+          "x": "Must shame involve others' real or imagined blame?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is believed blame by others part of what makes the pain shame? Spinoza's definition builds it in:"
+        },
+        {
+          "t": "q",
+          "x": "\"Shame is pain accompanied by the idea of some action of our own, which we believe to be blamed by others.\" ([Spinoza, Ethics III, Definitions of the Affects XXXI, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Miceli and Castelfranchi, reviewing the public-versus-private criterion, deny that the audience is necessary:"
+        },
+        {
+          "t": "q",
+          "x": "\"We question that shame coincides with being afraid of others' disapproval.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"One can even be certain that nobody will ever know about one's own fault, and still experience shame.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"In the same vein, one does not need to imagine a judging audience.\" ([Miceli and Castelfranchi, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "In their view, shared with Deonna and colleagues and with Tangney and Tracy, a real or imagined audience is typical of shame, but not constitutive of it; what is constitutive is a negative self-evaluation against one's own standards. The two sources give incompatible answers to one question: for Spinoza, pain over an action not believed blamed by others would not be shame; for Miceli and Castelfranchi, shame survives the certain absence of any knower."
+        },
+        {
+          "t": "h2",
+          "x": "Is the difference between shame and guilt the target — whole self or single act?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is the distinction between the two feelings a difference of target, the whole person versus one deed? Tangney's review reports Lewis's account of it, and treats it as the distinction the research runs on:"
+        },
+        {
+          "t": "q",
+          "x": "\"According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior.\" ([Tangney, Stuewig and Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Miceli and Castelfranchi contest the criterion itself:"
+        },
+        {
+          "t": "q",
+          "x": "\"However, we suggest that guilt is not necessarily circumscribed to one's behavior—it may imply blaming one's self; and shame does not necessarily imply a global negative self-view.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"Thus, the self-versus-behavior view appears to be questionable.\" ([Miceli and Castelfranchi, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Their alternative is a difference of evaluative kind rather than target: \"Whereas shame implies a self-evaluation of inadequacy, guilt implies a self-evaluation of harmfulness\" ([Miceli and Castelfranchi, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/)). The disagreement concerns whether the self-versus-behavior contrast adequately distinguishes the emotions; these passages alone do not adjudicate the competing accounts."
         },
         {
           "t": "h",
@@ -15307,7 +15258,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the slide from act to self: the miss that becomes \"I am a fraud\", the apology that never gets made because the person stops showing up, the correction that arrives wrapped in contempt. The adaptive direction runs the other way: name the particular act, ask what repair is still available, and deliver correction — to others and to oneself — without the global verdict."
+          "x": "What tends to need varying on this theme is the slide from act to self: the miss that becomes \"I am a fraud\", the apology that never gets made because the person stops showing up, the correction that arrives wrapped in contempt. The adaptive direction runs the other way: name the particular act, ask what repair is still available, and deliver correction (to others and to oneself) without the global verdict."
         },
         {
           "t": "vs",
@@ -15317,7 +15268,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[Moral injury audit](card:K352%20%E2%80%94%20Moral%20injury%20audit): name one decision that violated your code — what was done, what was violated, who was affected — then distinguish the injury from the guilt and take one step of repair. The paper behind it defines moral injury as the lasting impact of transgressing deeply held moral beliefs; it contains no trial of the audit itself."
+          "x": "[Moral injury audit](card:K352%20%E2%80%94%20Moral%20injury%20audit): name one decision that violated your code (what was done, what was violated, who was affected), then distinguish the injury from the guilt and take one step of repair. The paper behind it defines moral injury as the lasting impact of transgressing deeply held moral beliefs; it contains no trial of the audit itself."
         },
         {
           "t": "n",
@@ -15327,7 +15278,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 3,
-          "x": "[Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when shame urges hiding and the urge runs against your values, do the reverse — keep the appointment, tell one safe person. The laboratory finding holds for guilt/shame conditions specifically, in a small sample."
+          "x": "[Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when shame urges hiding and the urge runs against your values, do the reverse: keep the appointment, tell one safe person. The laboratory finding holds for guilt/shame conditions specifically, in a small sample."
         },
         {
           "t": "n",
@@ -15337,12 +15288,12 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 5,
-          "x": "[Self-compassion practice](card:K162%20%E2%80%94%20Self-compassion%20practice): hand on chest — \"This is a moment of suffering. Suffering is part of life. May I be kind to myself in this moment.\" The meta-analytic association with lower psychopathology is correlational."
+          "x": "[Self-compassion practice](card:K162%20%E2%80%94%20Self-compassion%20practice): hand on chest: \"This is a moment of suffering. Suffering is part of life. May I be kind to myself in this moment.\" The meta-analytic association with lower psychopathology is correlational."
         },
         {
           "t": "vs",
           "l": "Retention",
-          "x": "What a reader keeps from this theme is usually a question rather than a technique: after a miss, \"what exactly did I do, and what can I put right?\" A reader who keeps asking it, and who keeps the amends they promised, has the theme's core; whether they add the self-compassion break or the opposite-action experiment is a matter of what their own shame answers to."
+          "x": "What I would retain from this theme is a question rather than a technique: after a miss, \"what exactly did I do, and what can I put right?\" A reader who keeps asking it, and who keeps the amends they promised, has the theme's core; whether they add the self-compassion break or the opposite-action experiment is a matter of what their own shame answers to."
         },
         {
           "t": "h",
