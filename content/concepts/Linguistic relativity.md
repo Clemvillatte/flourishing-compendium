@@ -31,8 +31,8 @@ My principles carry the finding across tracks: language as cultural practice, th
 
 - [Boroditsky, L. (2011). How Language Shapes Thought. Scientific American 304(2), 62-65 — full text PDF (University of Victoria)](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)
 - [Lupyan, G., Abdel Rahman, R., Boroditsky, L., & Clark, A. (2020). Effects of Language on Visual Perception. Trends in Cognitive Sciences 24(11), 930-944](https://pubmed.ncbi.nlm.nih.gov/33012687/)
-- Boroditsky, 2001
-- Lupyan, 2012
+- [Boroditsky, L. (2001). Does language shape thought? Mandarin and English speakers' conceptions of time. Cognitive Psychology 43(1), 1-22](https://pubmed.ncbi.nlm.nih.gov/11487292/)
+- [Lupyan, G. (2012). Linguistically modulated perception and cognition: the label-feedback hypothesis. Frontiers in Psychology 3:54](https://doi.org/10.3389/fpsyg.2012.00054)
 
 ## Cited in psychology parallels
 
