@@ -143,7 +143,7 @@
   },
   "s1e-006": {
    "status": "qc_pending",
-   "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the search for the one who dies finds no examiner, only the I-thought; the teaching made it a method",
+   "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the self-inquiry search for the one who dies, run on his own person, finds the I-thought persisting through the dying body; the teaching made it a method",
    "history": [
     {
      "t": "2026-10-21T12:48:15+00:00",
@@ -172,7 +172,7 @@
    ]
   },
   "s1e-007": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B095 samadhi as gathering: Herrigel's professor - the master's cure for scattered striving was the breath; 'being breathed'; the shot that fell like a ripe fruit",
    "history": [
     {
@@ -198,6 +198,11 @@
      "t": "2026-10-25T13:28:09+00:00",
      "to": "qc_pending",
      "note": "advisor milestone QC (2026-10-25) returned item for repairs: humanizer contrast scaffolds, unverified claims, or record correction"
+    },
+    {
+     "t": "2026-10-25T13:38:24+00:00",
+     "to": "ready",
+     "note": "advisor QC round 3 cleared: analogy narrowed to B095, drift-return disclosure added, quotes verbatim; draft+state synchronized to ready"
     }
    ]
   },
@@ -237,5 +242,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:34:31+00:00"
+ "updated": "2026-10-25T13:38:24+00:00"
 }
