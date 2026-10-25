@@ -378,3 +378,16 @@ entry was then seeded with that genuine page text so the check runs
 against the real content; quote_verify now reports 14 checked,
 0 not found. Checks: checker exit 0 (91 card links, 17 headers, 14
 external carriers), density 0 dense, quote_verify 14/0.
+
+## Coverage check and story spot-checks (worker-pplx-dos3-1025g, 2026-10-25)
+
+Coverage against the manifest's title-sweep inventory: all 10 kernel
+candidates linked; 39 of 40 concept candidates linked, the exception
+being Cultural recognition, which was inspected and found to be
+Charles Taylor's multicultural-politics card (a substring false
+positive from "recognition"), correctly not linked; principles are
+carried through concept cards by the dossier's design, as in the
+flagship exemplar. Story spot-checks: four cards opened and read
+against their loglines (ST154 Nash, ST186 Fox and the Grapes, ST415
+Blind Men and the Elephant, ST130 Berlin's Fox and Hedgehog); all
+four compress the cards' own text accurately. No defects found.
