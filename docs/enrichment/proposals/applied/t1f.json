@@ -1,0 +1,1340 @@
+{
+ "retired": [
+  {
+   "when": "2026-10-25T12:50Z",
+   "by": "worker-pplx-k1f-1025bb",
+   "records": [
+    {
+     "page": "content/principles/M048 — Be a torch and a mirror.md",
+     "id": "M048",
+     "title": "Be a torch and a mirror",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R051 — Practise ren (humanitybenevolence).md",
+     "id": "R051",
+     "title": "Practise ren (humanity/benevolence)",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R052 — Practise yi (righteousnessjustice).md",
+     "id": "R052",
+     "title": "Practise yi (righteousness/justice)",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R054 — Practise zhi (wisdom).md",
+     "id": "R054",
+     "title": "Practise zhi (wisdom)",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R055 — Practise xin (trustworthinessintegrity).md",
+     "id": "R055",
+     "title": "Practise xin (trustworthiness/integrity)",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R057 — Practise the five relationships.md",
+     "id": "R057",
+     "title": "Practise the five relationships",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R058 — Practise filial piety (xiao).md",
+     "id": "R058",
+     "title": "Practise filial piety (xiao)",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R059 — Practise the Mencian sprouts.md",
+     "id": "R059",
+     "title": "Practise the Mencian sprouts",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Effortless action through long effort.md",
+     "id": "Effortless action through long effort",
+     "title": "Effortless action through long effort",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Natural virtue.md",
+     "id": "Natural virtue",
+     "title": "Natural virtue",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Ren.md",
+     "id": "Ren",
+     "title": "Ren",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Righteousness.md",
+     "id": "Righteousness",
+     "title": "Righteousness",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The exemplary person.md",
+     "id": "The exemplary person",
+     "title": "The exemplary person",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The mirror for others.md",
+     "id": "The mirror for others",
+     "title": "The mirror for others",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Virtue ethics.md",
+     "id": "Virtue ethics",
+     "title": "Virtue ethics",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Wu wei.md",
+     "id": "Wu wei",
+     "title": "Wu wei",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/stories/ST241 — The Child at the Well.md",
+     "id": "ST241",
+     "title": "241. The Child at the Well",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/stories/ST243 — The Five Relationships.md",
+     "id": "ST243",
+     "title": "243. The Five Relationships",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/thinkers/T009 — Zhuangzi.md",
+     "id": "T009",
+     "title": "Zhuangzi",
+     "thinker": "T055",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/AF009 — Understand that affect is constructed, not discovered.md",
+     "id": "AF009",
+     "title": "Understand that affect is constructed, not discovered",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B004 — See conditions, not essences (paticca-samuppada).md",
+     "id": "B004",
+     "title": "See conditions, not essences (paticca-samuppada)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B007 — Trust that the fires can cool here and now (nibbana).md",
+     "id": "B007",
+     "title": "Trust that the fires can cool here and now (nibbana)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B009 — Walk the Middle Way.md",
+     "id": "B009",
+     "title": "Walk the Middle Way",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B010 — See emptiness — nothing has a fixed essence (shunyata).md",
+     "id": "B010",
+     "title": "See emptiness: nothing has a fixed essence (shunyata)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B121 — Form is emptiness, emptiness is form (Heart Sutra).md",
+     "id": "B121",
+     "title": "Form is emptiness, emptiness is form (Heart Sutra)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B122 — Use two truths (conventional and ultimate).md",
+     "id": "B122",
+     "title": "Use two truths (conventional and ultimate)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B123 — Refuse both extremes — nothing is permanent, nothing is nothing.md",
+     "id": "B123",
+     "title": "Refuse both extremes: nothing is permanent, nothing is nothing",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B132 — Rest in not one, not two (nonduality).md",
+     "id": "B132",
+     "title": "Rest in not one, not two (nonduality)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B135 — Samsara and nirvana are one mind.md",
+     "id": "B135",
+     "title": "Samsara and nirvana are one mind",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B141 — Let emptiness itself be empty.md",
+     "id": "B141",
+     "title": "Let emptiness itself be empty",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B143 — Emptiness is relational fullness.md",
+     "id": "B143",
+     "title": "Emptiness is relational fullness",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/CO019 — Recognise framing effects — how something is presented changes how you evaluate it.md",
+     "id": "CO019",
+     "title": "Recognise framing effects: how something is presented changes how you evaluate it",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D009 — Trust emptiness — space is what works.md",
+     "id": "D009",
+     "title": "Trust emptiness: space is what works",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D016 — Distrust names and labels.md",
+     "id": "D016",
+     "title": "Distrust names and labels",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D080 — Dissolve rigid right and wrong (qiwu).md",
+     "id": "D080",
+     "title": "Dissolve rigid right and wrong (qiwu)",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D168 — Put yourself last — and be preserved.md",
+     "id": "D168",
+     "title": "Put yourself last: and be preserved",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/P003 — Relation is primary.md",
+     "id": "P003",
+     "title": "Relation is primary",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/S046 — Do not add to the impression.md",
+     "id": "S046",
+     "title": "Do not add to the impression",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SP006 — Treat mind and body as one thing.md",
+     "id": "SP006",
+     "title": "Treat mind and body as one thing",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Buddhist emptiness of inherent nature.md",
+     "id": "Buddhist emptiness of inherent nature",
+     "title": "Buddhist emptiness of inherent nature",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Deconstruction of essences.md",
+     "id": "Deconstruction of essences",
+     "title": "Deconstruction of essences",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Dependent origination.md",
+     "id": "Dependent origination",
+     "title": "Dependent origination",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Interbeing.md",
+     "id": "Interbeing",
+     "title": "Interbeing",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Not-one-not-two.md",
+     "id": "Not-one-not-two",
+     "title": "Not-one-not-two",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Shunyata.md",
+     "id": "Shunyata",
+     "title": "Shunyata",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The emptiness of emptiness.md",
+     "id": "The emptiness of emptiness",
+     "title": "The emptiness of emptiness",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The middle path.md",
+     "id": "The middle path",
+     "title": "The middle path",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The tetralemma.md",
+     "id": "The tetralemma",
+     "title": "The tetralemma",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/stories/ST434 — Fazang's Hall of Mirrors.md",
+     "id": "ST434",
+     "title": "434.  Fazang's Hall of Mirrors",
+     "thinker": "T050",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/A001 — Make eudaimonia the organising end of your life.md",
+     "id": "A001",
+     "title": "Make eudaimonia the organising end of your life",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/A040 — Practise the unity of the virtues.md",
+     "id": "A040",
+     "title": "Practise the unity of the virtues",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/A047 — Let practical wisdom unify the virtues.md",
+     "id": "A047",
+     "title": "Let practical wisdom unify the virtues",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/A078 — Recognise that the best friendship is between the good.md",
+     "id": "A078",
+     "title": "Recognise that the best friendship is between the good",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/CO061 — Recognise the role of narrative in identity — your life story shapes who you are.md",
+     "id": "CO061",
+     "title": "Recognise the role of narrative in identity: your life story shapes who you are",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D001 — Align your life with the Dao.md",
+     "id": "D001",
+     "title": "Align your life with the Dao",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/E083 — Practise narrative identity.md",
+     "id": "E083",
+     "title": "Practise narrative identity",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R025 — Practise resilience through cultural strength.md",
+     "id": "R025",
+     "title": "Practise resilience through cultural strength",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R043 — Practise fa'asamoa.md",
+     "id": "R043",
+     "title": "Practise fa'asamoa",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R101 — Practise relational autonomy.md",
+     "id": "R101",
+     "title": "Practise relational autonomy",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R102 — Practise constitutive relationality.md",
+     "id": "R102",
+     "title": "Practise constitutive relationality",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R103 — Practise communitarian critique.md",
+     "id": "R103",
+     "title": "Practise communitarian critique",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R104 — Practise recognition.md",
+     "id": "R104",
+     "title": "Practise recognition",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R105 — Practise narrative identity.md",
+     "id": "R105",
+     "title": "Practise narrative identity",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R107 — Practise the common good.md",
+     "id": "R107",
+     "title": "Practise the common good",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SE011 — Recognise the narrative structure of self — you are a story.md",
+     "id": "SE011",
+     "title": "Recognise the narrative structure of self: you are a story",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Communitarianism.md",
+     "id": "Communitarianism",
+     "title": "Communitarianism",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Community.md",
+     "id": "Community",
+     "title": "Community",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Cultural embeddedness.md",
+     "id": "Cultural embeddedness",
+     "title": "Cultural embeddedness",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Cultural resilience.md",
+     "id": "Cultural resilience",
+     "title": "Cultural resilience",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Phronesis.md",
+     "id": "Phronesis",
+     "title": "Phronesis",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Practical wisdom.md",
+     "id": "Practical wisdom",
+     "title": "Practical wisdom",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Role ethics.md",
+     "id": "Role ethics",
+     "title": "Role ethics",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The culturally embedded self.md",
+     "id": "The culturally embedded self",
+     "title": "The culturally embedded self",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The narrative self.md",
+     "id": "The narrative self",
+     "title": "The narrative self",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Virtue ethics.md",
+     "id": "Virtue ethics",
+     "title": "Virtue ethics",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Virtue.md",
+     "id": "Virtue",
+     "title": "Virtue",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/stories/ST252 — MacIntyre's Burned Library.md",
+     "id": "ST252",
+     "title": "252. MacIntyre's Burned Library",
+     "thinker": "T052",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B044 — Just sit (zazen, shikantaza).md",
+     "id": "B044",
+     "title": "Just sit (zazen, shikantaza)",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B045 — Let practice and enlightenment be one.md",
+     "id": "B045",
+     "title": "Let practice and enlightenment be one",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B060 — Practice without seeking.md",
+     "id": "B060",
+     "title": "Practice without seeking",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B171 — Make work itself the practice (samu).md",
+     "id": "B171",
+     "title": "Make work itself the practice (samu)",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B179 — The path is the goal.md",
+     "id": "B179",
+     "title": "The path is the goal",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D070 — Let stillness precede mastery.md",
+     "id": "D070",
+     "title": "Let stillness precede mastery",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y035 — Practice purity inside and out.md",
+     "id": "Y035",
+     "title": "Practice purity inside and out",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y045 — Relax effort into support.md",
+     "id": "Y045",
+     "title": "Relax effort into support",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Ecological spirituality.md",
+     "id": "Ecological spirituality",
+     "title": "Ecological spirituality",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Gelassenheit.md",
+     "id": "Gelassenheit",
+     "title": "Gelassenheit",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Means as end.md",
+     "id": "Means as end",
+     "title": "Means as end",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Shikantaza, just sitting.md",
+     "id": "Shikantaza, just sitting",
+     "title": "Shikantaza, just sitting",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The rhythm of small pauses.md",
+     "id": "The rhythm of small pauses",
+     "title": "The rhythm of small pauses",
+     "thinker": "T053",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B044 — Just sit (zazen, shikantaza).md",
+     "id": "B044",
+     "title": "Just sit (zazen, shikantaza)",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B061 — Trust original purity — nothing to attain.md",
+     "id": "B061",
+     "title": "Trust original purity: nothing to attain",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B087 — Trust the luminous mind — defilements are visitors.md",
+     "id": "B087",
+     "title": "Trust the luminous mind: defilements are visitors",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B176 — Treat the present moment as the miracle.md",
+     "id": "B176",
+     "title": "Treat the present moment as the miracle",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D009 — Trust emptiness — space is what works.md",
+     "id": "D009",
+     "title": "Trust emptiness: space is what works",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K001 — Return to experience before the labels.md",
+     "id": "K001",
+     "title": "Return to experience before the labels",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K002 — Know that the split is made, not found.md",
+     "id": "K002",
+     "title": "Know that the split is made, not found",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K003 — Act from unity; reflect from unity.md",
+     "id": "K003",
+     "title": "Act from unity; reflect from unity",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K013 — Let the questions you cannot answer do their work.md",
+     "id": "K013",
+     "title": "Let the questions you cannot answer do their work",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K014 — Let nothingness work as the place of things.md",
+     "id": "K014",
+     "title": "Let nothingness work as the place of things",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K017 — Find the still point that is not a withdrawal.md",
+     "id": "K017",
+     "title": "Find the still point that is not a withdrawal",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K019 — Let contradiction stand as structure, not error.md",
+     "id": "K019",
+     "title": "Let contradiction stand as structure, not error",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K020 — Know by doing.md",
+     "id": "K020",
+     "title": "Know by doing",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K021 — Treat the body as the self's working edge.md",
+     "id": "K021",
+     "title": "Treat the body as the self's working edge",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K022 — Locate yourself in history, not above it.md",
+     "id": "K022",
+     "title": "Locate yourself in history, not above it",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K045 — Understand self-cherishing as the root error.md",
+     "id": "K045",
+     "title": "Understand self-cherishing as the root error",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/M003 — Think in pairs.md",
+     "id": "M003",
+     "title": "Think in pairs",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/P066 — Rest in pure experience before the splits.md",
+     "id": "P066",
+     "title": "Rest in pure experience before the splits",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SE006 — Know that the self is embodied — the body is part of who you are.md",
+     "id": "SE006",
+     "title": "Know that the self is embodied: the body is part of who you are",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/X019 — Refuse the hobgoblin of consistency.md",
+     "id": "X019",
+     "title": "Refuse the hobgoblin of consistency",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Absolute nothingness.md",
+     "id": "Absolute nothingness",
+     "title": "Absolute nothingness",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Distrust names and labels.md",
+     "id": "Distrust names and labels",
+     "title": "Distrust names and labels",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Pure experience.md",
+     "id": "Pure experience",
+     "title": "Pure experience",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Reduction as return.md",
+     "id": "Reduction as return",
+     "title": "Reduction as return",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Stream of consciousness.md",
+     "id": "Stream of consciousness",
+     "title": "Stream of consciousness",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The tool-being of equipment.md",
+     "id": "The tool-being of equipment",
+     "title": "The tool-being of equipment",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The unexamined I.md",
+     "id": "The unexamined I",
+     "title": "The unexamined I",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Unity of opposites.md",
+     "id": "Unity of opposites",
+     "title": "Unity of opposites",
+     "thinker": "T051",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B147 — Listen deeply.md",
+     "id": "B147",
+     "title": "Listen deeply",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/CO040 — Know the curse of knowledge — you cannot un-know what you know.md",
+     "id": "CO040",
+     "title": "Know the curse of knowledge: you cannot un-know what you know",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D124 — Look for the right in the other side.md",
+     "id": "D124",
+     "title": "Look for the right in the other side",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/E047 — Practise historicity (Geschichtlichkeit).md",
+     "id": "E047",
+     "title": "Practise historicity (Geschichtlichkeit)",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/E079 — Practise the hermeneutic circle.md",
+     "id": "E079",
+     "title": "Practise the hermeneutic circle",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/E080 — Practise the fusion of horizons.md",
+     "id": "E080",
+     "title": "Practise the fusion of horizons",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/E081 — Practise the universality of prejudice.md",
+     "id": "E081",
+     "title": "Practise the universality of prejudice",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/E082 — Practise historical consciousness.md",
+     "id": "E082",
+     "title": "Practise historical consciousness",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/M008 — Use the middle as a vantage point.md",
+     "id": "M008",
+     "title": "Use the middle as a vantage point",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R007 — Honour the ancestors.md",
+     "id": "R007",
+     "title": "Honour the ancestors",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R020 — Practise cultural continuity.md",
+     "id": "R020",
+     "title": "Practise cultural continuity",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R046 — Practise talanoa.md",
+     "id": "R046",
+     "title": "Practise talanoa",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/R091 — Practise the word that is spoken.md",
+     "id": "R091",
+     "title": "Practise the word that is spoken",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO004 — Treat culture as both a resource and a constraint.md",
+     "id": "SO004",
+     "title": "Treat culture as both a resource and a constraint",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO013 — Treat cultural meaning as constructed, not given.md",
+     "id": "SO013",
+     "title": "Treat cultural meaning as constructed, not given",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO021 — Treat cultural traditions as living, not static.md",
+     "id": "SO021",
+     "title": "Treat cultural traditions as living, not static",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO063 — Treat migration and acculturation as a designable process.md",
+     "id": "SO063",
+     "title": "Treat migration and acculturation as a designable process",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO064 — Treat cultural adaptation of interventions as a necessity.md",
+     "id": "SO064",
+     "title": "Treat cultural adaptation of interventions as a necessity",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO072 — Use cultural formulation in clinical practice.md",
+     "id": "SO072",
+     "title": "Use cultural formulation in clinical practice",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/SO073 — Use acculturation strategies deliberately.md",
+     "id": "SO073",
+     "title": "Use acculturation strategies deliberately",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Critical distance.md",
+     "id": "Critical distance",
+     "title": "Critical distance",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Dialogue.md",
+     "id": "Dialogue",
+     "title": "Dialogue",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Fusion of horizons.md",
+     "id": "Fusion of horizons",
+     "title": "Fusion of horizons",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Hermeneutic circle.md",
+     "id": "Hermeneutic circle",
+     "title": "Hermeneutic circle",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Hermeneutic listening.md",
+     "id": "Hermeneutic listening",
+     "title": "Hermeneutic listening",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Historical consciousness.md",
+     "id": "Historical consciousness",
+     "title": "Historical consciousness",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Historicity.md",
+     "id": "Historicity",
+     "title": "Historicity",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Horizon.md",
+     "id": "Horizon",
+     "title": "Horizon",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Openness.md",
+     "id": "Openness",
+     "title": "Openness",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Pre-understanding.md",
+     "id": "Pre-understanding",
+     "title": "Pre-understanding",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Prejudice (Vorurteil).md",
+     "id": "Prejudice (Vorurteil)",
+     "title": "Prejudice (Vorurteil)",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The hermeneutic circle.md",
+     "id": "The hermeneutic circle",
+     "title": "The hermeneutic circle",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The hermeneutic horizon.md",
+     "id": "The hermeneutic horizon",
+     "title": "The hermeneutic horizon",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The hermeneutics of faith.md",
+     "id": "The hermeneutics of faith",
+     "title": "The hermeneutics of faith",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The natural attitude.md",
+     "id": "The natural attitude",
+     "title": "The natural attitude",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The via media.md",
+     "id": "The via media",
+     "title": "The via media",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/kernels/K291 — Equity scan.md",
+     "id": "K291",
+     "title": "Equity scan",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/thinkers/T038 — Heidegger, Martin.md",
+     "id": "T038",
+     "title": "Heidegger, Martin",
+     "thinker": "T049",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/B019 — Awakening is available in this life.md",
+     "id": "B019",
+     "title": "Awakening is available in this life",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K008 — Expect the collapse of meaning; do not waste it.md",
+     "id": "K008",
+     "title": "Expect the collapse of meaning; do not waste it",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K009 — Let the doubt become great.md",
+     "id": "K009",
+     "title": "Let the doubt become great",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K010 — Step back from the ego to the field.md",
+     "id": "K010",
+     "title": "Step back from the ego to the field",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K011 — See the ego's groundlessness as its nature, not its failure.md",
+     "id": "K011",
+     "title": "See the ego's groundlessness as its nature, not its failure",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K012 — Do not make an identity out of the collapse.md",
+     "id": "K012",
+     "title": "Do not make an identity out of the collapse",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K013 — Let the questions you cannot answer do their work.md",
+     "id": "K013",
+     "title": "Let the questions you cannot answer do their work",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K014 — Let nothingness work as the place of things.md",
+     "id": "K014",
+     "title": "Let nothingness work as the place of things",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K015 — Let things be what they are, on their own bottom.md",
+     "id": "K015",
+     "title": "Let things be what they are, on their own bottom",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K016 — Practice the double negation.md",
+     "id": "K016",
+     "title": "Practice the double negation",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K018 — Take interpenetration literally.md",
+     "id": "K018",
+     "title": "Take interpenetration literally",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/K023 — Practice the return to the ordinary as the completion.md",
+     "id": "K023",
+     "title": "Practice the return to the ordinary as the completion",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Buddhist emptiness of inherent nature.md",
+     "id": "Buddhist emptiness of inherent nature",
+     "title": "Buddhist emptiness of inherent nature",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Self-validation theory.md",
+     "id": "Self-validation theory",
+     "title": "Self-validation theory",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Side-Bet Theory.md",
+     "id": "Side-Bet Theory",
+     "title": "Side-Bet Theory",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Things thinging.md",
+     "id": "Things thinging",
+     "title": "Things thinging",
+     "thinker": "T056",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/AT023 — Learn to attend to process, not just outcome.md",
+     "id": "AT023",
+     "title": "Learn to attend to process, not just outcome",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D008 — See the oneness of things.md",
+     "id": "D008",
+     "title": "See the oneness of things",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/D050 — Keep a mirror-mind.md",
+     "id": "D050",
+     "title": "Keep a mirror-mind",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y013 — Work with the field and the witness.md",
+     "id": "Y013",
+     "title": "Work with the field and the witness",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y087 — Assimilate until it changes perception.md",
+     "id": "Y087",
+     "title": "Assimilate until it changes perception",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y089 — Separate the seer from the seen daily.md",
+     "id": "Y089",
+     "title": "Separate the seer from the seen daily",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y092 — Read the great statements as prompts, not doctrines.md",
+     "id": "Y092",
+     "title": "Read the great statements as prompts, not doctrines",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y096 — Keep urgency without hurry.md",
+     "id": "Y096",
+     "title": "Keep urgency without hurry",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y118 — Bear the opposites.md",
+     "id": "Y118",
+     "title": "Bear the opposites",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/principles/Y124 — Combine the paths by disposition.md",
+     "id": "Y124",
+     "title": "Combine the paths by disposition",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Atman.md",
+     "id": "Atman",
+     "title": "Atman",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Brahman.md",
+     "id": "Brahman",
+     "title": "Brahman",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Detachment from outcomes.md",
+     "id": "Detachment from outcomes",
+     "title": "Detachment from outcomes",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Neti neti.md",
+     "id": "Neti neti",
+     "title": "Neti neti",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/Non-dual awareness.md",
+     "id": "Non-dual awareness",
+     "title": "Non-dual awareness",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/That thou art, read relationally.md",
+     "id": "That thou art, read relationally",
+     "title": "That thou art, read relationally",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The same in all conditions.md",
+     "id": "The same in all conditions",
+     "title": "The same in all conditions",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+     "page": "content/concepts/The witness.md",
+     "id": "The witness",
+     "title": "The witness",
+     "thinker": "T054",
+     "add": "Add thinker wikilink in Related/See-also"
+    }
+   ]
+  }
+ ]
+}
