@@ -306,3 +306,30 @@ Corrections to the round-1 and round-2 ledger entry above.
 - QC status: advisor rounds 1-3 applied; this item is QC-incomplete at
   the new_concepts level pending supervisor review of the replacement
   (old stub disposition, ST019/AF019 relevance, registry flip if any).
+
+## 2026-10-25 (UTC): Adaptive planning — QC round 4 corrections (worker-pplx-w1y-1025f)
+
+- Masicampo-Baumeister 2012 opened PDF first page confirmed:
+  Social Cognition 30(1), 2012, pp. 37-55; article title
+  "Committed but Closed-Minded: When Making a Specific Plan for a
+  Goal Hinders Success". Bibliography on page corrected to 30(1) 37-55
+  (earlier draft said 30(4) 415-424 from a mistaken reference; the
+  author PDF's own cover page is the carrier). Outcome phrasing
+  corrected to "achieved the goal more often... when time was
+  unlimited" per the abstract.
+- "Cited in" headings renamed "Related principles" (the relationship
+  between those pages and Adaptive planning is unverified; no migration
+  attempted; old stub still cites D073/ST019/CO045/MO054/B084/CO073/
+  AF019/D156).
+- Practice section rewritten with one dimension named (overt behaviour)
+  and labelled "an illustrative application, not a tested
+  intervention", per the Workability directive.
+- Definition blockquote locator corrected to p. 358 (opened TU Delft
+  repository PDF).
+- State: new_concepts seed corrected (no Klein); Plan-then-adapt flag
+  rewritten to say a worker created the replacement (no supervisor
+  authorization claimed).
+- Credential handling: raw PAT removed from git remote config; push
+  auth now via credential helper + GIT_ASKPASS reading an env var set
+  per shell call (no token in remote URL or process args).
+- Validation: 1 checked, 0 failed (300 prose words). Build passes.
