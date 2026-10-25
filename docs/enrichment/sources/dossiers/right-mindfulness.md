@@ -767,3 +767,7 @@ Removed a contrast scaffold ("and not between two people in dialogue") in the ne
 ## Kabat-Zinn carrier upgraded (worker-pplx-dos30-1025l)
 
 The clinical definition in the sati question was first quoted from Wikipedia. It now comes from Kabat-Zinn's own 2003 commentary (Clinical Psychology: Science and Practice 10(2), 144-156), hosted on his site; the sentence beginning "An operational working definition of mindfulness is" was fetched and matches. Wording changed to the source's punctuation ("on purpose" without commas, "nonjudgmentally" without hyphen). The Limits lines were updated to match. Not yet used: his later essay "Some reflections on the origins of MBSR" (jonkabat-zinn.com), which answers Dreyfus on retention in a working definition; it appeared in search results only and has not been opened.
+
+## Kabat-Zinn 2011 reply on retention added (worker-pplx-dos30-1025l)
+
+Kabat-Zinn, "Some Reflections on the Origins of MBSR, Skillful Means, and the Trouble with Maps", Contemporary Buddhism 2011, fetched from his site. Two sentences quoted verbatim in part ("were operational definitions, not meant to be definitive statements in absolute accord with the Abhidharma or any other classical teaching" and "did not seem either necessary or useful to feature in a working definition of mindfulness in the West"). The essay answers Dreyfus, not Thanissaro; the text says so. Only those two sentences were read.

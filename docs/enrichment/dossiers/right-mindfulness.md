@@ -96,9 +96,11 @@ He holds that sati makes the object "stand forth vividly and distinctly before t
 
 The two definitions differ on the core. In Kabat-Zinn's the present moment frames the practice, and in Thanissaro's the core is retaining what matters in mind across time. Bodhi sits between them, accepting both usages in the canon and tying them to one capacity. Thanissaro does not name Kabat-Zinn, so the contrast is between two definitions, with no direct exchange between the authors.
 
+Kabat-Zinn has answered the retention view himself, though in reply to Georges Dreyfus and not to Thanissaro. In a 2011 essay in [Contemporary Buddhism](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_SomeReflectionsOriginsMBSR.pdf) he writes that his definitions "were operational definitions, not meant to be definitive statements in absolute accord with the Abhidharma or any other classical teaching," and that retention "did not seem either necessary or useful to feature in a working definition of mindfulness in the West." So he accepts that the classical sense includes remembering and chose a working definition without it.
+
 My lean, which is mine: Bodhi's reading fits what I opened best, since SN 48.10 itself sets the memory definition beside the satipatthana formula. For essays on wisdom development, I would write "keeping the aim in mind while attending to what is present" and avoid making either half the whole.
 
-Limits: I read one essay by each Pali scholar and the clinical definition in Kabat-Zinn's 2003 commentary, one sentence of it. I have not read the rest of Kabat-Zinn's commentary or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have.
+Limits: I read one essay by each Pali scholar the clinical definition in Kabat-Zinn's 2003 commentary (one sentence), and two sentences from his 2011 essay. I have not read the rest of Kabat-Zinn's commentary or the Pali of SN 48.10, and Thanissaro's own translation of the passage is the only wording I have.
 
 ### Is mindfulness a nonjudgmental awareness?
 
