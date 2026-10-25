@@ -5,16 +5,17 @@ in-session research notes in the dos31 baton commits are incorporated: card
 reading of Generativity theory, Homo faber, Creative values, BE059, E062,
 PP022, The will to meaning; M039 Nezahualcóyotl flower-and-song read against
 its card; the Ricoeur SEP carrier noted; the procreation-cluster thinness
-flagged). Dossier: docs/enrichment/dossiers/creation.md, CURRENT rev 4
+flagged). Dossier: docs/enrichment/dossiers/creation.md, CURRENT rev 6
 (rev 1: 5e9e5fd88; rev 2: f985c5d4b, advisor round 1; rev 3: 23937d248,
-advisor round 2; rev 4: advisor round 3, this entry).
-Checker at rev 4: exit 0 (48 card links resolve, 15 headers, 11 external
+advisor round 2; rev 4: f849f81c1, advisor round 3; rev 5: 946b8d262,
+advisor round 4; rev 6: this entry, advisor round 5).
+Checker at rev 6: exit 0 (51 card links resolve, 16 headers, 15 external
 carrier link occurrences across 9 distinct URLs; the Nietzsche page and the
 Bergson lecture are each linked twice).
 
 ## Verification method (current state)
 
-EVERY block quotation in rev 4 was verified word-for-word against
+EVERY block quotation in rev 6 was verified word-for-word against
 UNPROMPTED raw text: raw curl downloads (Bergson Creative Evolution,
 Nietzsche Zarathustra, Frankl PDF via pdftotext), raw HTML with tags
 stripped (Whitehead Garland, Bergson lecture, Arendt kortina, Rubinstein
@@ -31,7 +32,16 @@ story cards were read in full, not from prefixes.
    Carrier: https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf
    (raw download + pdftotext; local file /tmp/frankl.pdf). VERBATIM. Note: the E062 card prints "discover this
    meaning of life"; the opened carrier reads "discover this meaning in
-   life". The dossier follows the opened carrier.
+   life". The dossier follows the opened carrier. The rev 6 divergence also
+   quotes the book's rejection of the meanings-and-values-as-defence-
+   mechanisms reduction ("There are some authors who contend that meanings
+   and values are 'nothing but defence mechanisms, reaction formations and
+   sublimations.' ... Man, however, is able to live and even to die for the
+   sake of his ideals and values!"); grep-verified against the same raw
+   pdftotext output (the middle of the sentence, "But as for myself, I
+   would not be willing to live merely for the sake of my 'defence
+   mechanisms,' nor would I be ready to die merely for the sake of my
+   'reaction formations.'", is elided with an ellipsis in the dossier).
 
 2. Conner, DeYoung and Silvia 2018, abstract sentences.
    Carrier: https://doi.org/10.1080/17439760.2016.1257049
@@ -130,11 +140,12 @@ story cards were read in full, not from prefixes.
 - Sweep method: title sweep (creat, generativ, craft, homo faber, maker,
   workmanship, procrea, meaning-making, narrative, legacy) over concepts,
   kernels, principles and stories, full reads of the selected cards, plus
-  full-text sweeps for homo faber and procreation. 48 card links, all
+  full-text sweeps for homo faber and procreation. 51 card links, all
   resolving.
 - The dossier now carries one developed divergence ("Is the meaning of
   making discovered or created?", Frankl vs Nietzsche, both passages
-  raw-verified) plus one bounded comparison with an open ranking question
+  raw-verified, the Frankl side argued with the book's own rejection of
+  the invented-values view) plus one bounded comparison with an open ranking question
   ("Where the meaning of making lands"). The Arendt-vs-Whitehead candidate
   was NOT promoted, per the advisor's ruling that verified quotes alone
   cannot put them on one question.
@@ -220,12 +231,46 @@ present-tense certification contradicts the current state.
    including the raw-text endpoints used for grep verification where they
    differ from the public citation link.
 
+## Advisor QC round 5 — repairs applied in rev 6
+
+1. Divergence strengthened: the raw Frankl text was searched for an explicit
+   discover-vs-invent distinction. The book supplies one: Frankl names the
+   authors who contend that meanings and values are "nothing but defence
+   mechanisms, reaction formations and sublimations" only to refuse them
+   ("Man, however, is able to live and even to die for the sake of his
+   ideals and values!"). The divergence now argues the Frankl side with
+   that passage plus the discover fragment, quotes it with the carrier's
+   own ellipsis, and drops the unsupported stronger paraphrase ("a meaning
+   that holds whether or not anyone finds it"). The reconciliation stays
+   phrased as the unresolved question, attributed to neither author.
+2. Two card links restored to the first subtheme after the rev 5 synthesis
+   dropped them: Creative values (Frankl's own name for the first route,
+   now introduced with the card's own definition) and The will to meaning
+   (now linked at its first mention).
+3. Connection-card coverage: the five relevant cards were read in full
+   bodies this round (Conceptual metaphor theory, Insight research, The
+   interconnected good, Connectedness in well-being research,
+   Connectionism). Glosses corrected: the metaphor entry now describes the
+   theory structurally (one domain mapped onto another with systematic
+   correspondences) rather than echoing the card's own contrast phrase;
+   the insight entry no longer claims every insight creates a link between
+   ideas and instead follows the review's own definition (sudden
+   reinterpretation, nonobvious and nondominant, with comprehension of a
+   joke or metaphor among its forms).
+4. Exclusions now substantiated by full card reads: Connectedness in
+   well-being research is Diener and Seligman's study of social ties
+   (necessary-not-sufficient social relations), a felt-having rather than
+   a making; Connectionism is the neural-network modelling tradition
+   (weighted links between units), a technical sense of connection. Both
+   exclusions stand.
+
 ## Open points for any revision pass
 
-- The genuine-divergence requirement: pending supervisor disposition. A
-  candidate for a supervised research round: whether the world-erecting
-  homo faber and the creativity-as-ultimate tradition can be put into
-  contact on one question by an opened carrier that does so itself.
+- The genuine-divergence requirement: developed and raw-verified (rev 5,
+  strengthened rev 6 with the defence-mechanisms passage); supervisor
+  review requested. The remaining open research question, whether both
+  accounts can hold of different parts of one act of making, is stated
+  as unresolved in the dossier and attributed to neither author.
 - The Bangerter et al. generativity definition quoted on the K225 kernel
   card was not verifiable against the cited carrier's abstract this
   session; the dossier paraphrases it.

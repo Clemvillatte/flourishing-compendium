@@ -1,10 +1,10 @@
 {
   "batch": "dos31",
   "done": [],
-  "note": "rev 5 (worker-pplx-dos31-1025c, 2026-10-25): advisor round 4 applied — genuine divergence developed (Frankl discovery vs Nietzsche creation, acceptance test satisfied, both passages raw-verified); connections-between-ideas cluster added (Conceptual metaphor theory, Insight research, The interconnected good); route-to-meaning subtheme reworked into connected prose; Conner wording simplified; ledger URLs restored; checker exit 0 (49 card links, 14 external occurrences); STATUS: content review",
-  "in_progress": "creation (rev 3: content review — advisor rounds 1-2 applied; genuine-divergence requirement pending supervisor disposition)",
+  "note": "rev 6 (worker-pplx-dos31-1025c, 2026-10-25): advisor round 5 applied — divergence strengthened with the raw-verified Frankl defence-mechanisms passage; Creative values and The will to meaning links restored; five connection cards read in full and glosses corrected; exclusions substantiated; checker exit 0 (51 card links, 15 external occurrences); STATUS: content review",
+  "in_progress": "creation (rev 6: content review — advisor rounds 1-5 applied; divergence developed and raw-verified, supervisor review requested)",
   "flagged": {
-    "divergence-requirement": "RESOLVED in rev 5 per the advisor acceptance test (Frankl vs Nietzsche on discovered vs created meaning, both raw-verified); supervisor review of the divergence itself requested",
+    "divergence-requirement": "Developed and raw-verified: Frankl (discover + rejection of the invented-values view, defence-mechanisms passage grep-verified against the raw PDF text) vs Nietzsche (created significance + Valuing is creating, Gutenberg raw). Rev 5 per the advisor acceptance test, strengthened in rev 6; supervisor review of the divergence itself requested",
     "procreation": "full-text search across content/ finds no card carrying the word \"procreation\"; the nearest material is generativity, legacy research and Bergson's mother-and-child passage; possible owner-visible gap"
   },
   "notes": "Owner-directed mint 2026-10-25: registry entry added as planned; supervisor review of the mint requested (precedent: Hypo-egoic owner-directed intake). Registry flip and Academy splice remain supervisor-only."
