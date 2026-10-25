@@ -1,10 +1,8 @@
 {
  "batch": "dos4",
  "done": [
-  "attention"
- ],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos4-manifest.json. 2026-10-25 (worker-pplx-dos4-1025h): attention rewritten in the GF model per DOSSIER-MODEL.md and the validated genuine-flourishing exemplar, two passes with advisor QC between (third disagreement candidate rejected as manufactured; overstated bridges repaired; practice section rebuilt in the two-sentence group form from re-read kernel cards). All 90 card links retained; 14 of 18 block quotes kept verbatim, 4 converted to linked paraphrase; 5 quotes re-verified by eye against freshly opened carriers (record in the ledger). checker exit 0, density 0 dense. IN PROGRESS: full cold-read of the rewritten body against the exemplar's voice. FLAG FOR SUPERVISOR: registry rebuild --rebuild=attention needed to carry the new body into the compiled payload; attention remains status 'published' in the registry; registry.json and app.js untouched (supervisor-only).",
- "in_progress": [
+  "attention",
   "attention-gf-rewrite"
- ]
+ ],
+ "note": "minted 2026-10-24; one dossier per band. 2026-10-25 (worker-pplx-dos4-1025h): attention GF-model rewrite COMPLETE \u2014 two passes with advisor QC, cold-read done, checker exit 0, density 0 dense, all 90 cards retained, 14 quotes verbatim + 4 linked paraphrases, 5 quotes re-verified by eye (ledger). FLAG FOR SUPERVISOR: registry rebuild --rebuild=attention needed; registry.json/app.js untouched."
 }
