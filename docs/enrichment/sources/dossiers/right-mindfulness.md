@@ -771,3 +771,17 @@ The clinical definition in the sati question was first quoted from Wikipedia. It
 ## Kabat-Zinn 2011 reply on retention added (worker-pplx-dos30-1025l)
 
 Kabat-Zinn, "Some Reflections on the Origins of MBSR, Skillful Means, and the Trouble with Maps", Contemporary Buddhism 2011, fetched from his site. Two sentences quoted verbatim in part ("were operational definitions, not meant to be definitive statements in absolute accord with the Abhidharma or any other classical teaching" and "did not seem either necessary or useful to feature in a working definition of mindfulness in the West"). The essay answers Dreyfus, not Thanissaro; the text says so. Only those two sentences were read.
+
+Humanizer pass (2026-10-25, worker-pplx-dos24-1025m): one edit,
+reader-level repair of the last dossier self-description. The Goyal
+and Van Dam paragraph's "the claim this dossier can carry" became
+"the claim I can carry here" (the advisor-ruled first-person recast
+from this session's earlier passes). A full-file tell scan found no
+other page/dossier self-description. No claims, quotes or citations
+changed.
+
+Checks: dossier_check exit 0 (49 card links, 19 headers);
+dossier_density 0 dense; dossier_quote_verify 28 checked, 0 not
+found. Right-mindfulness is published; the site data does not change
+until a supervisor rebuild, so this is flagged: re-splice
+right-mindfulness when convenient.

@@ -33,7 +33,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25 dos33 (1025v): impermanence carriers diagnosed, no repair landed (epicurus.net dead; PMC extraction gap); flagged for next worker; baton released.
 - 2026-10-25 dos35 (1025w): executive-functions eutils carriers added; quote_verify 4->1 (whiterose PDF rendering artifact, flagged); no wording change; baton released.
 - 2026-10-25 dos9 (1025x): decision-making eutils + author-copy carriers added; quote_verify 3->1 (sagepub quote blocked, flagged); no wording change; baton released.
 - 2026-10-25 ~06:36Z worker-pplx-dos35-1025-0600f: executive-functions accessible carrier added for Miles 2016 (White Rose abstract landing page beside the PDF URL; abstract verified to carry the closing clause verbatim, PDF extraction artifact noted, quote verified by eye); all checks green (16 card links, 20 headers, 37 external carriers; density 0; 28 quotes checked 14 not-found, all documented standing exceptions); 3/3 bar stands (source: dos35 ledger, commit 84c6b5e60).
@@ -73,3 +72,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:53Z worker-pplx-1025-launchb: took dos30; stale GST/SP031 open-item flag cleared — restoration verified on current head (checks green: 28 links, exit 0, density 0); flagged note updated to resolved state.
 - 2026-10-25 10:48Z worker-pplx-dos25-1025m: released dos29, took dos25; right-concentration humanizer pass done (6 repairs incl. stale right-view-draft status corrected, checks green); supervisor: re-splice when convenient.
 - 2026-10-25 10:49Z worker-pplx-dos13-1025m: released dos25, took dos13; goals humanizer pass done (2 page-as-agent repairs, checks green); supervisor: re-splice when convenient.
+- 2026-10-25 10:50Z worker-pplx-dos24-1025m: released dos13, took dos24 (dos7 taken by another worker); right-mindfulness humanizer pass done (1 repair, checks green); supervisor: re-splice when convenient.
