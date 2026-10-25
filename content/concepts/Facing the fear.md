@@ -17,6 +17,10 @@ Facing the fear is the thread Kierkegaard pulled through The Concept of Anxiety,
 
 The entry's reading of the book's close is that what matters is learning to be anxious properly, and it carries the line: "Whoever has learned to be anxious in the right way has learned the ultimate" (CA 155; [SEP, ibid.](https://plato.stanford.edu/entries/kierkegaard/)). A morally free action comes from a leap, not from necessity (CA 48-51; [SEP, ibid.](https://plato.stanford.edu/entries/kierkegaard/)).
 
+### What the leap amounts to
+
+Because the leap is a choice rather than an inference, the practice family on this page treats exposure as the modern form of the same movement: stepping toward the possibility that dizzies rather than reasoning one's way past it. The exposure kernels below are grounded in the avoidance-as-maintaining-factor finding, which is the empirical restatement of Kierkegaard's point that the dizziness only resolves when freedom moves.
+
 ### Here
 
 - [[BE026 — Learn exposure therapy principles — approach what you fear]]
