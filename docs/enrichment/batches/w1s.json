@@ -72,7 +72,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
+  "Motor intentionality": "RESOLVED by worker-w1s-1025b 2026-10-25 (per-item verification): the attribution and phrasing QC repairs were applied and pushed in commit 5f3172011 (2026-10-22) per the w1s ledger — removed the \"coined\" claim and the unverifiable phantom-limb gloss, bounded the \"without requiring explicit deliberation\" phrasing, and attributed the blockquote to the Toadvine SEP section; the page was re-validated against its pre-enrichment baseline. The Merleau-Ponty \"I can\" passage quoted verbatim from the opened SEP entry. No page edit needed this session; source verification not repeated; scoped acceptance only. [ORIGINAL ALLEGATION: Reopened for QC: QC: attribution and phrasing repairs]",
   "Object relations theory": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED — Fairbairn specificity via the Gomez introduction quote (checked earlier) AND Winnicott grounding present: the page carries Winnicott's contribution via Sutherland's JAPA 1980 summary, disclosed as such, with the PubMed record carrier linked. Flag closed.",
   "Organism-environment transaction": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED — the Dewey & Bentley triad quotation re-verified against a RAW download of the cited archive.org carrier: the passage is present, words verbatim, with the carrier's scan-artifact single quotes and hyphenation normalized per house practice; the Origin section's grounding (the introduction's transactional framing) is confirmed in the same carrier. Flag closed."
  },
