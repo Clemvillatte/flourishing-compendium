@@ -725,3 +725,28 @@ for this theme in passes 8-9.
 
 Checks: dossier_check.py exit 0 (51 card links, 16 headers, 21 external
 carriers); dossier_quote_verify.py 27 checked, 3 unmatched (see item 3).
+
+### Pass 9 round-9 unmatched-quote investigation (worker-pplx-dos31-1025g, 2026-10-25)
+
+The three automatic-run non-matches from rounds 7-8 were investigated by
+inspecting the verifier's cached responses (the verifier caches fetches
+under /tmp/work/qcache) and re-fetching directly:
+
+- McAdams and de St. Aubin (PMC4542587): the cached response was a
+  Google interstitial page (bot wall), not the article. After clearing
+  the cache entry, a fresh fetch returned the real article and the
+  quotation now MATCHES in the automatic run (this pass: 27 checked,
+  2 not found). The quotation is therefore machine-verified against the
+  carrier; the earlier non-match was a cached challenge page.
+- Conner et al. (doi.org/10.1080/17439760.2016.1257049): the automatic
+  fetcher receives HTTP 403 Forbidden (cause established by inspecting
+  the cached response, which records the error). The quotation's raw
+  verification remains inherited from earlier ledger entries; it is not
+  machine-checkable with the current fetcher.
+- Jones et al. (Taylor and Francis): HTTP 403 Forbidden, same cause,
+  established the same way. The sentence was seen verbatim this session
+  in the fetch tool's page extraction (round-4 entry); that remains an
+  extraction, not raw-HTML confirmation.
+
+Standing result of this pass: dossier_quote_verify.py 27 quotes checked,
+2 not found, both with the 403 cause established and recorded here.
