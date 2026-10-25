@@ -1600,3 +1600,13 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Verification status: verified-page (2026-10-25); only 3 of the
   lectures restored at the time of opening — flagged as an incomplete
   resource.
+
+### Follow-up — dead-video replacement search, second pass (2026-10-25)
+
+A second, differently-worded replacement search this session (searching
+Monte Johnson's channel for the numbered Hellenistic Philosophy series,
+2026-10-25) again surfaced no re-uploaded successors to the dead 2.3.2.2 /
+2.3.3.1 / 2.3.3.2 entries — the channel's surviving numbered lectures skip
+from 2.3.2.1 (version 2) to 2.3.3. No replacement candidates were found
+beyond those already recorded; the replace-or-drop decision remains with
+the degree owner.
