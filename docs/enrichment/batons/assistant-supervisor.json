@@ -1,7 +1,7 @@
 {
  "baton": "assistant-supervisor",
- "agent": "launcher-pplx-1025c",
- "clocked_in": "2026-10-25T11:42:58+00:00",
+ "agent": "supervisor-pplx-c3b0f2fb-1025b",
+ "clocked_in": "2026-10-25T12:06:52+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-brownmermaid-1025a",
@@ -26,8 +26,12 @@
    "at": "2026-10-25T11:42:58+00:00",
    "from": "launcher-pplx-1025c",
    "reason": "stale (25 min)"
+  },
+  {
+   "by": "supervisor-pplx-c3b0f2fb-1025b",
+   "at": "2026-10-25T12:06:52+00:00",
+   "from": "launcher-pplx-1025c",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T12:00:32+00:00"
+ ]
 }
