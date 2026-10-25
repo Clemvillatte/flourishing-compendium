@@ -1,51 +1,51 @@
 {
-  "batch": "p1j",
-  "done": [
-    "B153",
-    "B176",
-    "D010",
-    "D043",
-    "D015",
-    "D042",
-    "D077",
-    "D097",
-    "D098",
-    "D137",
-    "D165",
-    "D180",
-    "P016",
-    "P026",
-    "P039",
-    "P042",
-    "P045",
-    "P048",
-    "P062",
-    "P070",
-    "P075",
-    "P101",
-    "P116",
-    "P138",
-    "P174",
-    "P178",
-    "P181",
-    "P187",
-    "P189",
-    "P150"
-  ],
-  "in_progress": null,
-  "flagged": {
-    "P150": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
-  },
-  "missing_concepts": [],
-  "sources_checked": 0,
-  "updated": "2026-10-25T12:47:03+00:00",
-  "band_done": false,
-  "notes": {
-    "P150": {
-      "qc": "Plain-words replicate replaced (~0.55 -> ~0.1), first-person defects fixed; validator ok",
-      "claims": "n/a",
-      "limitations": "Deacon not quoted",
-      "url": "https://www.gutenberg.org/cache/epub/852/pg852.txt"
-    }
+ "batch": "p1j",
+ "done": [
+  "B153",
+  "B176",
+  "D010",
+  "D043",
+  "D015",
+  "D042",
+  "D077",
+  "D097",
+  "D098",
+  "D137",
+  "D165",
+  "D180",
+  "P016",
+  "P026",
+  "P039",
+  "P042",
+  "P045",
+  "P048",
+  "P062",
+  "P070",
+  "P075",
+  "P101",
+  "P116",
+  "P138",
+  "P174",
+  "P178",
+  "P181",
+  "P187",
+  "P189",
+  "P150"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "P150": "RESOLVED by supervisor-pplx-c3b0f2fb-1025b 2026-10-25 13:34Z (p1j baton claimed under the fallback band-work rule; per-item measurement): the Plain-words replicate allegation is STALE — the 5-gram Plain-words/body overlap detector re-run on the current page (content/principles/P150 — Accept incompleteness as constitutive.md): Plain-words section is 136 words / 132 five-grams, of which 0 appear in the same page's body (0.0% overlap, threshold 30%). The Plain-words text is fresh everyday language, not a body copy. Consistent with the 2026-10-25 11:10Z register refresh (worker-p1a-1025o) that found 0 remaining entries at >=30%. No page edit needed. [ORIGINAL ALLEGATION: Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)]"
+ },
+ "missing_concepts": [],
+ "sources_checked": 0,
+ "updated": "2026-10-25T13:34:00+00:00",
+ "band_done": true,
+ "notes": {
+  "P150": {
+   "qc": "Plain-words replicate replaced (~0.55 -> ~0.1), first-person defects fixed; validator ok",
+   "claims": "n/a",
+   "limitations": "Deacon not quoted",
+   "url": "https://www.gutenberg.org/cache/epub/852/pg852.txt"
   }
+ }
 }
