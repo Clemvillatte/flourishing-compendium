@@ -418,11 +418,10 @@ uninhibited again" matches the extracted text word-for-word. (2) the span
 "each single one of the memories and expectations in which the libido is
 bound to the object is brought up and hypercathected, and detachment of
 the libido is accomplished in respect of it" matches the extracted text
-word-for-word EXCEPT that the printed text begins "Each single one"
-(capital E, sentence start) while the dossier embeds it mid-sentence with
-lowercase "each" — a case adjustment at the point of embedding, not a
-wording difference; recorded here so the adjustment is explicit rather
-than silent. (3) CORRECTION of my earlier note: I did not test the
+word-for-word, including the capital "Each" at the sentence start (the
+dossier quote now preserves the source's capitalization after this pass;
+the earlier lowercase embedding was repaired at 11:01Z). (3) CORRECTION of
+my earlier note: I did not test the
 dossier's exact carrier URL (ia803101.us.archive.org) — my failed request
 used a mistyped hostname (a803101..., missing the leading i), so the
 "unreachable" diagnosis is withdrawn; the canonical download URL above
