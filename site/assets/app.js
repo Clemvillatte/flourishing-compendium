@@ -13226,7 +13226,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus calls the absence of pain part of pleasure, his first and kindred good. Seneca refuses the painless condition that status: what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good."
+          "x": "Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus counts the absence of pain part of pleasure, his first and kindred good; Seneca denies the painless condition that standing — what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good."
         },
         {
           "t": "p",

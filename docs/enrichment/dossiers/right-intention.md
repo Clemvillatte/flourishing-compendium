@@ -241,7 +241,7 @@ Seneca, writing to Lucilius on the same question, refuses the condition that ran
 
 > "Now if we are agreed on this point, it is natural that we shall be agreed on the following also — namely, that the happy life depends upon this and this alone: our attainment of perfect reason." (same letter)
 
-Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus calls the absence of pain part of pleasure, his first and kindred good. Seneca refuses the painless condition that status: what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good.
+Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus counts the absence of pain part of pleasure, his first and kindred good; Seneca denies the painless condition that standing — what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good.
 
 Seneca also recalls Epicurus, tortured on one occasion by strangury and on another by the incurable pain of an ulcerated stomach, calling such days the happiest of all, and turns the report to his own argument: if a man can call such days happy, happiness does not rest on the absence of pain. That is Seneca reading Epicurus for his own case; Epicurus is not there to answer.
 
