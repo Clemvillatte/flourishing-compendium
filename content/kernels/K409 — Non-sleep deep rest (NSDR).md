@@ -21,7 +21,17 @@ Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew
 
 ### Evidence
 
-A positron emission tomography study using a dopamine tracer estimated that during yoga nidra, tracer binding in the ventral striatum falls by 7.9 per cent, which the authors calculate as a 65 per cent increase in endogenous dopamine release. Every participant in that study reported a decreased desire for action during the meditation. In a randomised controlled trial with 362 adults, an 11-minute online yoga nidra audio, practiced ideally daily over two months, improved well-being more than a waitlist, though the effects were small (d = 0.08 to 0.16), and reduced depression more than a 10-minute music control (d = 0.13). Regular practice was associated with lower total daily cortisol output.
+A positron emission tomography study using a dopamine tracer estimated that during yoga nidra, tracer binding in the ventral striatum falls by 7.9 per cent, which the authors calculate as a 65 per cent increase in endogenous dopamine release. Every participant in that study reported a decreased desire for action during the meditation ([Kjaer et al. 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/11958969/)):
+
+> "During meditation, 11C-raclopride binding in ventral striatum decreased by 7.9%. ... This corresponds to a 65% increase in endogenous dopamine release." — [Kjaer et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11958969/)
+
+> "All participants reported a decreased desire for action during meditation, along with heightened sensory imagery." — [Kjaer et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11958969/)
+
+In a randomised controlled trial with 362 adults (101 on the 11-minute form, 80 on the 30-minute form, 74 on a 10-minute music control, 107 on a waitlist), an 11-minute online yoga nidra audio, practiced ideally daily over two months, improved well-being more than a waitlist, though the effects were small (d = 0.08 to 0.16), and reduced depression more than the 10-minute music control (d = 0.13). Regular practice was associated with lower total daily cortisol output ([Moszeik et al. 2025, abstract](https://pubmed.ncbi.nlm.nih.gov/40373021/)):
+
+> "The intervention was delivered online via pre-recorded audio files and practiced ideally daily over 2 months. Significant improvements were observed for the 11-min Yoga Nidra group compared to the WC (effect sizes d = 0.08-0.16). Regular practice was associated with reductions in total cortisol and steeper diurnal slopes." — [Moszeik et al. 2025](https://pubmed.ncbi.nlm.nih.gov/40373021/)
+
+> "Additionally, the short form significantly reduced depression compared to the AC (d = 0.13)." — [Moszeik et al. 2025](https://pubmed.ncbi.nlm.nih.gov/40373021/)
 
 ### A guided version
 
