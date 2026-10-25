@@ -17,11 +17,15 @@ Merleau-Ponty's formulation of the position is that the body is not a container 
 
 > The body is our general medium for having a world. Sometimes it is restricted to the actions necessary for the conservation of life, and accordingly it posits around us a biological world; at other times, elaborating upon these primary actions and moving from their literal to a figurative meaning, it manifests through them a core of new significance: this is true of motor habits such as dancing. (Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith, section "The spatiality of one's own body and motility," printed p. 169, [archive.org PDF](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf))
 
-In the surrounding text of the same section, Merleau-Ponty writes that "the significance of an action can be concentrated in a certain place to the extent that, in giving himself entirely to the music, the organist reaches for precisely those stops and pedals which are to bring it into being" (printed pp. 168-169, same PDF), and that "the body is essentially an expressive space" — the origin of the rest. What he is describing is the structure of bodily habit: the meaning of an activity can come to be located in the movement itself rather than in a verbal account of the movement.
+The page before and after that passage carries the same point. Merleau-Ponty writes of "the organist" that, "in giving himself entirely to the music", he "reaches for precisely those stops and pedals which are to bring it into being", and he adds: "Now the body is essentially an expressive space" (*Phenomenology of Perception*, Smith translation, pp. 168-169, same PDF).
 
-**Plain words** A philosophy that treats thinking as pure computation treats the body as a vehicle that merely carries the brain around. Merleau-Ponty's alternative is that the body is not a thing among things but the medium through which anything else becomes available to you at all. A skill you have embodied, like a musical instrument under your hands, is present to you in a way a written instruction about that skill is not.
+**Plain words** Merleau-Ponty does not treat the body as a vehicle that carries the brain around. For him it is how a world becomes available to you at all. A practised skill, such as playing an instrument, shows this: the knowledge sits in the hands, and a written instruction cannot give you the same thing.
 
-*For example:* Imagine someone who has played the organ for years sitting at the console. On Merleau-Ponty's account, the stops and pedals are not first reasoned out as objects in space; the music reaches for them. That is the structure he is pointing at — the body makes things available by incorporating them.
+*For example (my illustration, following his organist):* An experienced organist does not first work out where the pedals are and then move. The music draws the hands and feet to them. A beginner has to think about each one.
+
+## Sources
+
+- [Maurice Merleau-Ponty, *Phenomenology of Perception*, trans. Colin Smith, Internet Archive PDF](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf): the "general medium for having a world" passage and the organist passage, section on the spatiality of one's own body and motility, pp. 168-169 (page numbers as printed in this edition; text checked against the PDF).
 
 ## Psychology parallels
 

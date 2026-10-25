@@ -94,3 +94,6 @@
 
 ## Y105, Y110 (Gita, Arnold)
 - Checked against Gutenberg 2388 text: Y105 chapter XIV quotes and paraphrase verified; Y110 chapter XVI list verified (restored two source semicolons). Links changed from ebook landing page to the plain-text file. Also checked all Yoga Sutra pages (Y013, Y017, Y039, Y063) against Gutenberg 2526: quoted passages found; Y015 uses an 'interpretive translation' from another site, not Johnston (labelled so on the page).
+
+## CO005 Thinking is embodied
+- Merleau-Ponty PDF opened; 'general medium for having a world', organist and 'expressive space' sentences verified. Removed unsupported 'the origin of the rest' gloss; rewrote Plain words; added Sources.
