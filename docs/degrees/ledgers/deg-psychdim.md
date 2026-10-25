@@ -148,6 +148,22 @@ opened event page.
 | The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
 | Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
+Additional inspection (2026-10-25, batch 15): lecture 7 (Language and
+perception-attention-memory content, 59:43) had its chapter outline
+recorded (Non-human Communication [00:00:00]; The Relationship between
+Language and Thought [00:09:16]; Question and Answer on Language
+[00:12:39]; Introduction to the Complexity of Perception and
+Expectation [00:18:06]; Linking Attention and Memory [00:39:15];
+Question and Answer on Attention and Memory [00:58:04]) and the
+opening of chapter 1 read: Bloom reviews language universals,
+phonology, morphology and syntax, the arbitrary-sign and combinatorial
+recursion properties, and turns to animal communication (animals have
+communication systems; language in the technical narrow sense, almost
+certainly no). This serves M3 (cognitive) as elective material, and the
+perception, expectation, attention and memory chapters (from 00:18:06)
+are the likely segments for the M4 attentional row, needing their
+transcripts read before attachment. Lecture 7 remains a candidate.
+
 Additional inspection (2026-10-25, batch 14): lecture 14 (What Motivates
 Us: Sex, 52:47) had its chapter outline recorded (Addressing Morality and
 Inevitability on Evolution, Sex and Gender [00:00:00]; Basic Sex Ed
