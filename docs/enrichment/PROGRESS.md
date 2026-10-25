@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-25 02:02 UTC (input revision `9b99a59f2`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 03:02 UTC.
+As of 2026-10-25 02:05 UTC (input revision `db331836b`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 03:05 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
