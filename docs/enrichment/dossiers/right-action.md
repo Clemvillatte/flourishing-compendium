@@ -8,10 +8,10 @@ I hold this factor close because conduct is where intentions meet their test. A 
 
 ### Nearby terms
 
-- Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; my card is [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action), and nothing is split between the names.
-- Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to the Right Intention page; right action holds the bodily restraints that resolve issues in.
-- Behaviour: the general science of habit formation stays there; right action holds the path's ethical restraints on bodily conduct.
-- Right speech and right livelihood: the neighbouring conduct factors, each with its own page and dossier.
+- Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; the [card](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) sits under one of them.
+- Non-harm: the floor this factor rests on. The harmlessness resolve as an intention belongs to Right Intention; right action holds the bodily restraints that resolve issues in.
+- Behaviour: the general science of habit formation; right action holds the path's ethical restraints on bodily conduct.
+- Right speech and right livelihood: the neighbouring conduct factors on either side of this one.
 - Spontaneous right action: Wang Yangming's doctrine that knowing the good already issues in acting; it returns in the question of whether knowledge can coexist with failure to act.
 
 ## What the factor is
@@ -20,7 +20,7 @@ The definition is stated in one breath. The [Magga-vibhanga Sutta](https://www.a
 
 > "And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
 
-[Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) is the fourth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), and [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) group it under the ethics training, with wisdom and concentration as the other two. The conduct factors sit together on the path, speech first, then action, then livelihood, and each has its own page and dossier.
+[Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) is the fourth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), and [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) group it under the ethics training, with wisdom and concentration as the other two. The path lists the conduct factors in order: speech, then action, then livelihood.
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention) is my label for this factor, marking where the path moves from resolve to conduct. Here the resolve has to show up in what the hands do, which is where most intentions meet their test.
 
@@ -172,7 +172,7 @@ The two accounts also differ in emphasis. Aristotle's chapter on virtue of chara
 
 ## Story: the stories that carry the theme
 
-Wealth, theft and harm each meet a person who keeps acting after the choice is made.
+Conduct shows its shape after the choice is made: a stopped harm, a discovered harm, a taking with its cost, a rule that holds in one setting and fails in another.
 
 ### The stopped harm
 
