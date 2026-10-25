@@ -18,21 +18,23 @@ I can take a feeling seriously while investigating what it means. James gives bo
 
 James is proposing an explanation of how an emotion occurs. My practical question is what I should infer from feeling it.
 
-Schwarz and Clore's research makes that question consequential. In their account of a 1983 laboratory experiment, inducing sadness influenced life-satisfaction judgements, but participants discounted those feelings when they attributed them to an irrelevant source, the room ([Mood as Information: 20 Years Later, pp. 297–298](https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/03_pi_schwarz___clore_mood.pdf)). The related weather finding has been disputed in replication research ([Simonsohn, 2016](https://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/2019/01/Each-reader-published.pdf)).
+Schwarz and Clore describe a 1983 laboratory experiment in which induced sadness influenced life-satisfaction judgements. Participants discounted that mood when told the room might explain it ([their 2003 account, pp. 296–297](https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/03_pi_schwarz___clore_mood.pdf)).
 
-I take a modest lesson from the attribution question: the fact that I feel dread and my explanation of that dread need separate attention. I can examine a workload, a difficult relationship, tiredness or another possibility before deciding what needs to change. Calling the feeling data invites that inquiry; it gives me no automatic diagnosis of a job or a person.
+[Simonsohn's 2016 commentary](https://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/2019/01/Each-reader-published.pdf) reports two large studies that failed to replicate a rainy-day effect on life satisfaction, alongside disagreement over what counts as replication. Those studies tested the weather finding; the laboratory attribution experiment is a separate result.
+
+My lesson from the attribution question is that feeling dread and explaining it need separate attention. I can examine a workload, a difficult relationship, tiredness or another possibility before deciding what needs to change.
 
 **Plain words**
 Notice the feeling and ask what might explain it. I can listen to what it brings to attention while checking the story I have attached to it.
 
 **For example**
-Suppose Sunday evenings bring dread. Write down when it starts, what you expect on Monday and what else is happening. That imagined exercise opens questions about the pattern; it does not identify its cause.
+Suppose Sunday evenings bring dread. Write down when it starts, what you expect on Monday and what else is happening. I use this imagined exercise to open questions about the pattern.
 
 ## Sources
 
 - [William James, The Principles of Psychology, vol. II (Project Gutenberg)](https://www.gutenberg.org/cache/epub/57634/pg57634.txt) — ch. XXV, the emotion theory
-- [Schwarz and Clore, Mood as Information: 20 Years Later (2003)](https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/03_pi_schwarz___clore_mood.pdf): the authors' account of their laboratory and weather experiments.
-- [Uri Simonsohn, Each Reader Decides if a Replication Counts: Reply to Schwarz and Clore (2016)](https://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/2019/01/Each-reader-published.pdf): the weather-finding replication dispute.
+- [Schwarz and Clore, Mood as Information: 20 Years Later (2003)](https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/03_pi_schwarz___clore_mood.pdf): the authors' retrospective, cited here for the laboratory attribution experiment.
+- [Uri Simonsohn, Each Reader Decides if a Replication Counts: Reply to Schwarz and Clore (2016)](https://urisohn.com/sohn_files/wp/wordpress/wp-content/uploads/2019/01/Each-reader-published.pdf): secondary account of the weather-finding replication failures and the disagreement about manipulation checks.
 
 ## Practice kernels
 

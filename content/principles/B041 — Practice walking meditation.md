@@ -12,25 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 41** — Practice walking meditation
 
-Walk slowly, attending to each step, the lifting, moving, and placing of the foot. Movement becomes the object; the body and mind move together.
+I can give an ordinary walk my attention. MN 10 includes walking among the bodily postures a monk is to know:
 
-MN 10 puts walking inside the first foundation of mindfulness, as one of the postures in which the body is simply known as it is:
+> "Furthermore, when walking, the monk discerns, 'I am walking.'" ([Thanissaro's translation, body section A.2](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-> "Furthermore, when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it." (MN 10, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+The passage also names standing, sitting and lying down. Its next section extends alertness to going forward and returning, bending limbs and other daily activities. These instructions give me a way to practise during movement. The slow lifting, moving and placing exercise is an application I can try; this passage itself specifies neither that sequence nor a walking speed.
 
-The sutta does not rank the breath above the step: the walking is a first-class object of the same mindfulness. Slowing the walk is what makes the steps available to attend to.
-
-(MN 10; Thích Nhất Hạnh.)
+I keep the research questions separate. Oppezzo and Schwartz studied walking and creative task performance. Bratman and colleagues compared 90-minute nature and urban walks in healthy participants, finding reduced self-reported rumination after the nature walk. Neither experiment tests the walking meditation instruction in MN 10.
 
 **Plain words**
-The instruction is to know the walking while walking, which sounds trivial until you notice how often you arrive somewhere with no memory of the route. Slowing down makes each step something you can attend to: lifting, moving, placing. The meditation is the same one as sitting; the object is the foot.
+While walking, notice that you are walking. Let the movement be something you attend to. I would begin with a short, safe route and see what I actually notice.
 
 **For example**
-The ten-minute slow walk between meetings that resets more than the coffee — each step an exhale.
+Imagine walking along a quiet corridor between meetings. You notice a foot meeting the floor, then realise you are rehearsing an argument. Return attention to the next step. This is my illustration of the practice.
 
 ## Sources
 
-- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — postures section
+- [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html): body sections A.2–3.
+- [Oppezzo and Schwartz, Give Your Ideas Some Legs (2014)](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf): walking and creative task performance.
+- [Bratman et al., Nature experience reduces rumination and subgenual prefrontal cortex activation (2015), PubMed](https://pubmed.ncbi.nlm.nih.gov/26124129/): cited from the abstract and figure captions.
 
 ## Practice kernels
 
@@ -38,12 +38,12 @@ The ten-minute slow walk between meetings that resets more than the coffee — e
 - [[K196 — Daily movement|K196 Daily movement]]
 ## Psychology parallels
 
-- **Walking in nature**, increases creativity and reduces rumination (Oppezzo and Schwartz, 2014)
-- **[[Attention restoration|Attention restoration]]** (Kaplan, 1995)
+- **Walking research**: the creativity and rumination studies above address different outcomes and conditions.
+- [[Attention restoration|Attention restoration]]: a related topic for separate reading.
 
 ## Philosophy parallels
 
-- None included; the principle is practice-specific (embodied movement).- **[[Sati|Sati]]** (Buddhism, MN 10)
+- [[Sati|Sati]]: the broader mindfulness practice in MN 10.
 
 
 <!-- fc: reflections
