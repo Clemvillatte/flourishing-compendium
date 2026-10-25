@@ -334,3 +334,43 @@ activated regardless of goals"). The dossier now carries three
 developed divergences, meeting the model's three-to-five requirement.
 The divergence-requirement flag can be cleared by the supervisor after
 content review.
+
+## Literal quote-comparison pass (2026-10-25, later in session)
+
+Adviser round 3 required literal comparison of every retained quotation
+against unprompted carrier text (raw HTML, raw API text, or pdftotext
+extraction, whitespace normalised). Results:
+
+- PASS literally: Wood & Neal 2007 (ERIC page, raw HTML); Aristotle NE
+  II.1 (Gutenberg HTML, previously verified against raw pg8438.txt);
+  James ch.4 (psychclassics raw HTML); Aarts & Dijksterhuis 2000 (TU/e
+  portal raw HTML); Wood, Mazar & Neal 2021 (Wharton PDF via pdftotext,
+  all three quoted sentences); Oaten & Cheng 2006 (NCBI efetch plain
+  text, both quotes); Miles et al. 2016 (Europe PMC core JSON, all
+  three quotes); Hagger et al. 2016 (Europe PMC core JSON abstract,
+  including the CI sentence); Lally et al. 2010 (Crossref API abstract:
+  96 volunteers, same context, 12 weeks, 18 to 254 days, model fit over
+  84 days, 62 of 82 modelled).
+- FAIL and CORRECTED: the Ostlund & Balleine "quote" was a paraphrase,
+  not the page's text. The PMC page's literal sentence is: Dickinson
+  and Balleine "argued that, in order to be classified as goal-directed,
+  the performance of an action must be shown to depend on two things:
+  (i) the causal relationship between that action and its outcome
+  (i.e., its action-outcome contingency) and (ii) the current
+  motivational value of that outcome." The dossier sentence was replaced
+  with this literal text.
+- Bot-walled carriers (PubMed pages, Wiley page) were replaced for
+  verification by their raw API equivalents (NCBI efetch, Europe PMC
+  core JSON, Crossref API), which is unprompted literal text of the
+  same abstracts.
+
+Remaining limits, stated honestly: the Wharton PDF was compared via
+pdftotext extraction (raw text, whitespace normalised); the BPS digest
+page is no longer cited in the body. The dossier remains pending
+supervisor content review; source-verification and prose-review flags
+restored per adviser instruction. The owner redirected this worker to
+the creative-prompt rework; the remaining adviser round-3 prose repairs
+(activation/performance distinction, Wood-Tam-Witt attribution, COM-B
+separation, Miles design wording, depletion heading, ST308 logline)
+were applied and pushed earlier in the session (commits through
+eedd90230), except any the supervisor finds on review.

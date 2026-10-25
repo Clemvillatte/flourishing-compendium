@@ -5,8 +5,10 @@
  "review": [
   "behaviour"
  ],
- "in_progress": "behaviour (GF-model rewrite, advisor QC rounds 1-2 applied; THIRD divergence added 2026-10-25: Aarts-Dijksterhuis goal-dependent automaticity vs Wood-Mazar-Neal context-direct activation, both carriers opened and quotes verified verbatim; checker exit 0; three divergences now meet the model's 3-5 requirement)",
+ "in_progress": "behaviour (GF-model rewrite; adviser rounds 1-3 applied; literal quote-comparison pass done against raw carrier text: 12/17 quotes passed literally, Oaten/Hagger/Lally verified via raw NCBI/Crossref/EuropePMC text, Ostlund paraphrase found and corrected to the literal PMC sentence; three divergences; checker exit 0; source-verification and prose-review flags restored per adviser; supervisor content review pending)",
  "flagged": {
+  "source-verification": "Literal quote-comparison pass done against unprompted carrier text (raw HTML, pdftotext, NCBI efetch, Europe PMC JSON, Crossref API). One paraphrase-as-quote found (Ostlund & Balleine) and corrected to the literal PMC sentence. See ledger for the full pass results. Remaining: supervisor spot-check of the pass is welcome.",
+  "prose-review": "Adviser round-3 prose repairs applied (activation/performance distinction, Wood-Tam-Witt attribution, COM-B separation, Miles design wording, depletion heading, ST308 logline retold, page-narration removed). Supervisor content review pending.",
   "launched-worker-verification": "The launched agent (task 04c8493e) is confirmed by git evidence only: the account took the supervisor baton at 01:47 UTC and is directing dos-band work (handoff directive e39899dea, dos32/dos33 activity). Task-level inspection was not possible from this session (different account); recorded here for the supervisor."
  },
  "notes": []
