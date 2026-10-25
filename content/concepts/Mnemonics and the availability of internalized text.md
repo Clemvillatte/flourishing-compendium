@@ -17,6 +17,10 @@ In two experiments, students studied prose passages and took one or three immedi
 
 > "However, on the delayed tests, prior testing produced substantially greater retention than studying, even though repeated studying increased students' confidence in their ability to remember the material. Testing is a powerful means of improving learning, not just assessing it." ([same record](https://pubmed.ncbi.nlm.nih.gov/16507066/))
 
+The study's design gives the result its practical interest. Students either restudied the passage or took free-recall tests without feedback, and the comparison was kept fair by matching the number of exposures, so what differed was what the student did with the passage on each exposure: read it again, or try to produce it.
+
+The delay is where the reversal happens, and the reversal is the finding. At five minutes, repeated studying improved recall relative to repeated testing; on the delayed tests, testing produced substantially greater retention than studying. The confidence result points the same way from the other side: repeated studying increased students' confidence in their memory while leaving less of it in place on the delayed tests, so the strategy that felt more thorough was the one that retained less.
+
 ### Here
 
 - [[M014 — Learn the poems of your tradition by heart]] lists this research as a psychology parallel.
