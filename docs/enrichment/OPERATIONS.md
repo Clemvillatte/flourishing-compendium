@@ -123,6 +123,16 @@ long evidence records in the ledger, not in the public reading path.
   Chalmers coupled-system quote verbatim (consc.net), Clark & Chalmers
   active-externalism quote verbatim modulo the carrier's own
   "externalism ," spacing artifact (normalization noted here). PASS.
+- ADDENDUM 4 (~T+24): dos3's dispute resolution independently verified —
+  both SEP Embodied Cognition 5.2 quotes (Rupert axe/notebook; Clark
+  deny-claim) raw-verified verbatim, curly-apostrophe normalization
+  only; the earlier "honestly downgraded" concern is resolved by a
+  genuine source-supported Clark/Rupert disagreement. The pass-1
+  inline insertion inspected: [[Metta (loving-kindness)|loving-kindness]]
+  linked in AF065's psychology-parallels line, no quotation touched,
+  clean. dos19's self-verified card re-read pass independently
+  spot-checked: Nonattachment and Detachment-from-outcomes glosses match
+  their cards' own wording; checker exit 0 (67 card links). PASS.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
