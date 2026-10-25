@@ -16,7 +16,7 @@ The aphorism continues: "For this fine power of theirs usually ceases with them 
 
 The same book gives the counter-move in the aphorism on the perspective that flatters: without the art of seeing ourselves from a distance, we live under the spell of the perspective that makes the closest and the commonest seem immensely large and like reality in itself ([Nietzsche, The Joyful Wisdom, GS 78](https://www.gutenberg.org/ebooks/52124)).
 
-Put together, the two aphorisms give the practice. The artist's tricks are for seeing a thing at all; the counter-move is for not mistaking the near view for the whole. A reader can use both: choose the distance that lets the thing show, and remember that the choice was made.
+Read together, the two aphorisms give a practice. GS 299 says the artist's power over perspective is one to learn from and to be wiser than, so that it continues where art ceases and life begins. GS 78 names what the power guards against: without the art of seeing ourselves from a distance, the closest and the commonest seem immensely large and like reality in itself. The skill is the choosing of views, and the reason to keep choosing is the spell an unexamined view casts.
 
 ### Here
 

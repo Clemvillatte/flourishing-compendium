@@ -16,7 +16,7 @@ The Second Noble Truth names craving, not avoidance, as the origin of stress. It
 
 I pair the two accounts rather than equating them. Craving is the engine named by the sutta; aversion is the reflex described by the IEP in response to unpleasant sensation.
 
-The pairing does practical work for the principles below. If the engine is craving and the reflex is aversion, then the practice cannot simply be the suppression of aversion, which is itself another move away from an unpleasant experience. The sutta's own list makes room for this reading: craving for non-becoming, the wish that the experience not be there, is still one of the three cravings, so the flight and the wish to be rid of it sit inside the same truth.
+The pairing does practical work for the principles below. The sutta's list names craving for non-becoming among the three cravings that originate stress, so a wish for something to stop, or never to go on, falls inside the truth it states. The principles below can draw on both accounts: the engine the sutta names, and the reflex the IEP describes.
 
 ### Here
 

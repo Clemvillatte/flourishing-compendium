@@ -69,8 +69,8 @@
   "The avoidance of suffering",
   "The still mirror",
   "Perceived partner responsiveness",
-  "Perspectivism",
-  "The witness"
+  "The witness",
+  "Perspectivism"
  ],
  "in_progress": null,
  "flagged": {
@@ -118,15 +118,15 @@
   "The contemplative life": "Reopened for QC: QC: prose 111 < 150 (pre-existing); expand from page's verified Ross NE X quotes",
   "Self-serving attribution bias": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Mezulis 2004 material",
   "Variability in practice": "Reopened for QC: QC: prose 118 < 150 (pre-existing); expand from page's verified Rohrer 2015 material",
-  "Predictive processing": "Reopened for QC: QC: prose 125 < 150 (pre-existing); expand from page's verified Clark 2013 quotes",
-  "The avoidance of suffering": "Reopened for QC: QC: prose 126 < 150 (pre-existing); expand from page's verified SN 56.11 + IEP material",
-  "The still mirror": "Reopened for QC: QC: prose 133 < 150 (pre-existing); expand from page's verified Watson ch.7/ch.13 quotes",
-  "Perceived partner responsiveness": "Reopened for QC: QC: prose 138 < 150 (pre-existing); expand from page's verified Reis & Clark 2013 quotes",
-  "Perspectivism": "Reopened for QC: QC: prose 147 < 150 (pre-existing); small expansion from page's verified GS 299/78 material",
-  "The witness": "Reopened for QC: QC: prose 148 < 150 (pre-existing); small expansion from page's verified SEP Sankara material"
+  "Predictive processing": "Reopened for QC: advisor milestone QC: expansion paragraph reworded to rest strictly on the page's verified quotes (removed over-reading, decorative glosses, contrast scaffolds)",
+  "The avoidance of suffering": "Reopened for QC: advisor milestone QC: expansion paragraph reworded to rest strictly on the page's verified quotes (removed over-reading, decorative glosses, contrast scaffolds)",
+  "The still mirror": "Reopened for QC: advisor milestone QC: expansion paragraph reworded to rest strictly on the page's verified quotes (removed over-reading, decorative glosses, contrast scaffolds)",
+  "Perceived partner responsiveness": "Reopened for QC: advisor milestone QC: expansion paragraph reworded to rest strictly on the page's verified quotes (removed over-reading, decorative glosses, contrast scaffolds)",
+  "Perspectivism": "Reopened for QC: advisor milestone QC: expansion paragraph reworded to rest strictly on the page's verified quotes (removed over-reading, decorative glosses, contrast scaffolds)",
+  "The witness": "Reopened for QC: advisor milestone QC: expansion paragraph reworded to rest strictly on the page's verified quotes (removed over-reading, decorative glosses, contrast scaffolds)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T01:36:24+00:00",
+ "updated": "2026-10-25T01:40:13+00:00",
  "band_done": false
 }

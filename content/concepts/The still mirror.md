@@ -14,7 +14,7 @@ The still mirror is Zhuangzi's image for a mind that responds without pursuing o
 
 The image returns in the Outer Chapter "The Way of Heaven." There the sage's stillness is not something he chooses because stillness is good; nothing among the ten thousand things is enough to disturb him, and "The sage's mind in stillness is the mirror of Heaven and earth, the glass of the ten thousand things." ([Burton Watson, Zhuangzi ch. 13 "The Way of Heaven"](https://terebess.hu/english/chuangtzu1.html))
 
-The mirror is doing specific work in both passages. What makes it still is that it takes no initiative: it neither goes after what approaches nor stores what has passed, and its response costs it nothing because nothing is retained. The practical test Zhuangzi names is injury: the mirror wins out over things without hurting itself, where the scheming mind, storing every slight, is hurt by its own contents.
+The mirror is doing specific work in both passages. What makes it still, in the Inner Chapter's wording, is that it goes after nothing, welcomes nothing, responds but does not store. The outcome the passage itself names is that the Perfect Man can win out over things and not hurt himself. The Way of Heaven passage gives the same stillness a wider scope, as the mirror of Heaven and earth and the glass of the ten thousand things.
 
 ### Here
 
