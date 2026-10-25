@@ -938,8 +938,11 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   for the catalog URL (u2PT1hIjp8U) and the watch page was not reachable
   this session (2026-10-25). The record appears to point to an unavailable
   video. REPLACE-IMPORT CANDIDATE: the owner should replace the link or
-  confirm it from another environment before any use.
-- Verification status: unverified (dead or unreachable link).
+  confirm it from another environment before any use. INDEPENDENT
+  CONFIRMATION (2026-10-25): a direct oembed retrieval from a second
+  network path also returned Not Found for u2PT1hIjp8U — the video is
+  gone from YouTube, not merely fetcher-blocked.
+- Verification status: unverified (dead link, independently confirmed).
 
 ### M01-D14: Book Talk — Zhuangzi: The Complete Writings (Chris Fraser et al., University of Hawai'i)
 
