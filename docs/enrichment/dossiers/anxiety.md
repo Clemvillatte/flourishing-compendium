@@ -52,11 +52,9 @@ Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms 
 
 A dispositional incapacity to endure the aversive response triggered by uncertain situations is [intolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20uncertainty), and the research on what reducing it does to worry is carried on [uncertainty tolerance](https://clemvillatte.github.io/flourishing-compendium/#card=Uncertainty%20tolerance).
 
-[Tolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Tolerance%20of%20uncertainty): comfort with incomplete information, as discussed in medical practice and in anxiety research.
+Comfort with incomplete information, as discussed in medical practice and in anxiety research, is [tolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Tolerance%20of%20uncertainty). The feeling state that arrives before the outcome, in Loewenstein's 1996 account, is [anticipatory affect](https://clemvillatte.github.io/flourishing-compendium/#card=Anticipatory%20affect).
 
-[Anticipatory affect](https://clemvillatte.github.io/flourishing-compendium/#card=Anticipatory%20affect): the feeling state that arrives before the outcome, in Loewenstein's 1996 account.
-
-[Risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies.
+The study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies is [risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception).
 
 ### Where anxiety sends attention
 
@@ -78,33 +76,25 @@ Leyro and colleagues distinguish the perceived capacity to withstand aversive st
 
 The eight-week course in secular mindfulness training that Jon Kabat-Zinn founded in 1979 is [mindfulness-based stress reduction](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20stress%20reduction). Ilan Meyer's 2003 framework, that stigma, prejudice and discrimination create a hostile and stressful social environment that explains higher rates of mental disorder, is [minority stress theory](https://clemvillatte.github.io/flourishing-compendium/#card=Minority%20stress%20theory).
 
-[Stress-related growth](https://clemvillatte.github.io/flourishing-compendium/#card=Stress-related%20growth): Tedeschi and Calhoun, 2004; the card is a short entry that points to post-traumatic growth.
+The short entry by Tedeschi and Calhoun, 2004, that points to post-traumatic growth is [stress-related growth](https://clemvillatte.github.io/flourishing-compendium/#card=Stress-related%20growth).
 
-### Death anxiety
+### How death reaches forward
 
-[Death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research): the clinical-psychology study of fear of death and its role in mental disorder, proposed as a transdiagnostic construct.
+The clinical-psychology study of fear of death and its role in mental disorder, proposed as a transdiagnostic construct, is [death anxiety research](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20anxiety%20research). The social-psychological account of how humans live with the knowledge that they will die is [terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management).
 
-[Terror management](https://clemvillatte.github.io/flourishing-compendium/#card=Terror%20management): the social-psychological account of how humans live with the knowledge that they will die.
+Pyszczynski and Kesebir's [anxiety buffer disruption theory](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20buffer%20disruption%20theory) holds that reminders of mortality normally defend via culture; when that buffer is broken, anxiety and defensiveness intensify. The card that gathers public help-seeking guidance and diagnostic passages is [clinical thresholds for depression, anxiety, PTSD, and bipolar disorder](https://clemvillatte.github.io/flourishing-compendium/#card=Clinical%20thresholds%20for%20depression%2C%20anxiety%2C%20PTSD%2C%20and%20bipolar%20disorder); it does not establish one clinical threshold for all four conditions.
 
-[Anxiety buffer disruption theory](https://clemvillatte.github.io/flourishing-compendium/#card=Anxiety%20buffer%20disruption%20theory): Pyszczynski and Kesebir: reminders of mortality normally defend via culture; when that buffer is broken, anxiety and defensiveness intensify.
+### How the traditions calm and steady
 
-[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder](https://clemvillatte.github.io/flourishing-compendium/#card=Clinical%20thresholds%20for%20depression%2C%20anxiety%2C%20PTSD%2C%20and%20bipolar%20disorder): gathers public help-seeking guidance and diagnostic passages; it does not establish one clinical threshold for all four conditions.
+The settling of the mind in which attention rests on a chosen object until the mind grows quiet and comfortable is [shamatha (calm abiding)](https://clemvillatte.github.io/flourishing-compendium/#card=Shamatha%20%28calm%20abiding%29). The Stoic exercise of rehearsing future misfortunes in advance so as to strip misfortune of the strangeness that makes it heavy is [premeditatio malorum](https://clemvillatte.github.io/flourishing-compendium/#card=Premeditatio%20malorum).
 
-### Calming and steadying
+Hadot's name for the watchful attention the Stoic philosopher kept over his own mind, prosoche, is [spiritual vigilance](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20vigilance).
 
-[Shamatha (calm abiding)](https://clemvillatte.github.io/flourishing-compendium/#card=Shamatha%20%28calm%20abiding%29): the settling of the mind: attention rests on a chosen object until the mind grows quiet and comfortable.
+### What the sayings and stories carry
 
-[Premeditatio malorum](https://clemvillatte.github.io/flourishing-compendium/#card=Premeditatio%20malorum): the Stoic exercise of rehearsing future misfortunes in advance so as to strip misfortune of the strangeness that makes it heavy.
+The story in which Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that everyone around him insists was correct, is [Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear). The saying cited in my practice principles on obeying from understanding and not from fear is [perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear), from 1 John 4.18.
 
-[Spiritual vigilance](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20vigilance): Hadot's name for the watchful attention the Stoic philosopher kept over his own mind, prosoche.
-
-### The sayings and the story
-
-[275. Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that everyone around him insists was correct.
-
-[Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in my practice principles on obeying from understanding and not from fear.
-
-[I fear the Greeks even bearing gifts](https://clemvillatte.github.io/flourishing-compendium/#card=I%20fear%20the%20Greeks%20even%20bearing%20gifts): Virgil, Aeneid II, Laocoon's warning.
+Laocoon's warning from Virgil, Aeneid II, is [I fear the Greeks even bearing gifts](https://clemvillatte.github.io/flourishing-compendium/#card=I%20fear%20the%20Greeks%20even%20bearing%20gifts).
 
 ## Where the traditions genuinely disagree
 
