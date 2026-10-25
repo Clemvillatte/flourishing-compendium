@@ -1052,9 +1052,8 @@ scan to an image and reading the printed page directly. The verse
 translation is printed verbatim as quoted in the dossier: "The
 occurrence of self-nature through causes and conditions is not proper.
 Self-nature that has occurred as a result of causes and conditions
-would be something that be made." — correction: "would be something
-that is made." The print line-break splits "proper" across lines
-("pro-per"), which is what produced the OCR substitutions. The earlier
+would be something that is made." The print line-break splits "proper"
+across lines ("pro-per"), which is what produced the OCR substitutions. The earlier
 17/21 word-overlap figure described the OCR layer only; the print text
 is exact. No translator name is printed on the page (only the MKV
 citation "MKV(P) p.259; MKV(V) p.114"); the translation's Kalupahana
