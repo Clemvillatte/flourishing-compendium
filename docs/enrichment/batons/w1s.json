@@ -1,7 +1,7 @@
 {
  "baton": "w1s",
  "agent": "worker-w1s-0e136",
- "clocked_in": "2026-10-25T01:58:27+00:00",
+ "clocked_in": "2026-10-25T02:10:23+00:00",
  "takeovers": [
   {
    "by": "worker-w1s-pplc-7a3e91c2",
@@ -32,8 +32,12 @@
    "at": "2026-10-25T01:58:27+00:00",
    "from": "worker-w1s-0e136",
    "reason": "released"
+  },
+  {
+   "by": "worker-w1s-0e136",
+   "at": "2026-10-25T02:10:23+00:00",
+   "from": "worker-w1s-0e136",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T01:58:44+00:00"
+ ]
 }
