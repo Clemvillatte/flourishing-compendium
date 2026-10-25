@@ -278,3 +278,41 @@ the dossier this pass. Batch state left as found (in_progress,
 slug gratitude); the divergence question stands as the page states
 it: no verified disagreement is recorded on this theme, and the
 classical anchors' check labels stand from the prior pass.
+
+## Correction to the verification pass above (2026-10-25, worker-pplx-dos26-1025c, after advisor review)
+
+The entry above overstates three of its findings and is corrected
+here; the corrected statements supersede it:
+
+1. Card fidelity. The spot-check established PHRASE PRESENCE only
+   (selected words from each gloss occur on its card), not semantic
+   fidelity (that the card supports each gloss's attribution,
+   direction and conclusion). Downgrade: keyword/phrase-presence
+   screening; semantic fidelity not established this pass.
+
+2. Algoe 2012. The Crossref record's abstract text reads "responsive
+   interaction partner ()" — the inline citation parenthetical
+   "(Algoe, Haidt, & Gable, 2008)" that the dossier's block quote
+   carries is NOT present in the Crossref record (stripped in its
+   processing). The sentence wording is verified; the parenthetical
+   citation inside the quote is unverified against this carrier.
+   The Wiley page itself was not opened (it blocks retrieval).
+
+3. "No edits needed" is withdrawn: not established by these checks.
+   What stands: no edits were made, checker and voice audit exit 0.
+
+Sources actually opened this pass, for the record:
+https://api.crossref.org/works/10.1111/j.1751-9004.2012.00439.x
+(metadata record, not the publisher page) and
+https://api.openalex.org/works/doi:10.1111/j.1475-6811.2010.01273.x
+(metadata record, not the publisher page); the Emmons PDF at the
+emmons.faculty.ucdavis.edu URL on the page (primary text).
+
+FLAG FOR REVIEW: the Story section entries were not checked this
+pass. On inspection they carry narrator commentary inside the
+loglines ("for in giving they saw the other as the whole point" and
+the card's Aristotle comparison, marked as the card's own), which
+sits against the events-only logline convention; the story cards
+were not reopened to judge whether the commentary is the cards' own
+editorial framing. Left for the next worker or supervisor; no edit
+made under time pressure without reading the cards.
