@@ -152,3 +152,26 @@ Retention's framing: a question rather than a technique).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 24 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including Tangney's self-conscious and moral emotions,
+guilt and shame with their behaviour/global-self distinction, guilt
+motivates reparative behaviour, the Aristotle shamefastness cluster,
+the Sartre cluster (the look, being-for-others, body-for-others),
+Goffman stigma research, Spinoza's repentance, teshuva, metanoia, the
+Heidegger conscience and call-of-conscience entries, apology research,
+self-forgiveness, harsh self-criticism with its limits honestly
+carried, compassion-focused therapy, self-compassion, grace, opposite
+action applied to shame with its pilot-study caveat, and the truth
+sets you free saying. No mismatches found; no edits made. This
+strengthens the earlier voice-audit review (all 4 candidates kept):
+the flagged constructions are card-faithful as well as doctrinally
+sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
