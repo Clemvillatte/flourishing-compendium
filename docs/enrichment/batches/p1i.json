@@ -11,7 +11,6 @@
   "B102",
   "B039",
   "B083",
-  "B004",
   "B021",
   "B007",
   "B029",
@@ -32,7 +31,7 @@
   "B025",
   "B088"
  ],
- "in_progress": null,
+ "in_progress": "B004",
  "flagged": {
   "D118": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (overclaim \"budget rule\"/spending metaphor removed; Plain words re-derived as a revisable speaking exercise; Mehl et al. 2010 parallel qualified to less small talk/more substantive conversation); current page carries the repaired text (\"Chapter 5 gives its rule in verse\" framing, outcomes left with the people). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
   "D129": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (the \"only response that ends the cycle\" overclaim and retaliation-subscription metaphor removed; maxim scoped so what the other person does next remains theirs); current page carries the repaired text. The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
@@ -50,10 +49,11 @@
   "B041": "RESOLVED: MN10 posture instruction separated from slow-step application and distinct creativity/nature-rumination experiments; sources opened and validator PASS",
   "B034": "RESOLVED: concise verbatim quote, arising/abandonment/prevention retained; fog-restlessness conflation removed from body, protected reflection untouched; validator PASS",
   "B025": "RESOLVED: all five prohibited trades explicit; calling orientation narrowed to opened abstract; modern application and financial responsibilities distinct; validator PASS",
-  "B088": "RESOLVED: ethical accumulation and intention sourced; one-reply-is-nothing and deterministic identity slogans removed; automaticity comparison bounded; validator PASS"
+  "B088": "RESOLVED: ethical accumulation and intention sourced; one-reply-is-nothing and deterministic identity slogans removed; automaticity comparison bounded; validator PASS",
+  "B004": "Reopened for QC: Conditionality: distinguish canonical argument from everyday inquiry; no skipped-dinner causal diagnosis"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T06:25:55+00:00",
+ "updated": "2026-10-25T06:26:06+00:00",
  "band_done": false
 }
