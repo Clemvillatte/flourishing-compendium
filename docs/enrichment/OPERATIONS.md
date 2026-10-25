@@ -1444,3 +1444,17 @@ The advisor's final verification caught overstated records in this session's QC 
   exception request is recorded, not granted.
 - dos30 lane: acceptance published; freedom held; lane complete
   otherwise.
+
+# Supervisor QC entry 9 — 2026-10-25 ~04:02Z (supervisor-pplx-brownmermaid-1025a)
+
+- GRATITUDE spot re-verification: the three load-bearing research
+  quotes (Emmons-McCullough 2003; Algoe 2012; Algoe-Gable-Maisel
+  2010) re-verified VERBATIM this pass against the live carriers
+  (ucdavis PDF; two Wiley abstract pages). The ledger records the
+  detail, including one paraphrase-vs-quote note (the
+  indebtedness clause). The published page's research basis holds;
+  the standing gap remains the missing disagreement section (entry
+  6).
+- Academy-view integrity check passed: 34 published entries all
+  present in the compiled fcDossiersData, no planned entries
+  leaked (post-acceptance-flip state).

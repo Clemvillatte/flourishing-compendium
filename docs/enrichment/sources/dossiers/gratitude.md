@@ -342,3 +342,28 @@ interwoven prose:
 
 dossier_check.py exit 0 (45 card links, 13 headers, 3 external
 carriers). dossier_density.py: 0 dense paragraphs.
+
+## Supervisor spot re-verification — 2026-10-25 (supervisor-pplx-brownmermaid-1025a)
+
+- The page's three load-bearing research quotes re-verified this
+  pass by this supervisor, verbatim against the live carriers:
+  (1) Emmons and McCullough 2003 abstract (ucdavis faculty PDF):
+  the gratitude-outlook sentence and the conscious-focus sentence,
+  both exact. (2) Algoe 2012 find-remind-and-bind definition
+  (Wiley abstract page): exact. (3) Algoe, Gable and Maisel 2010
+  (Wiley abstract page): the gratitude-from-interactions sentence
+  exact; the booster-shot phrase exact ("gratitude had uniquely
+  predictive power in relationship promotion, perhaps acting as a
+  booster shot for the relationship"; the abstract's preceding
+  clause reads "Although indebtedness may maintain external
+  signals of relationship engagement" — the page's paraphrase
+  "indebtedness maintained only the external signals of
+  engagement" preserves the meaning and is presented as the
+  abstract's addition, not a quote; note it in passing).
+- The dossier_quote_verify misses on these spans are consistent
+  with the tool's inability to parse the Wiley/PDF carriers; the
+  by-eye ledger records from the earlier pass stand, now with
+  supervisor re-verification on record.
+- Standing gap unchanged: no genuine-disagreement section on the
+  published page (QC log entry 6); a research pass for genuine
+  disagreements is the band's next substantive work.
