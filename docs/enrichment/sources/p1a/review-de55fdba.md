@@ -182,3 +182,16 @@ Opened through search and fetch:
 - [Oppezzo and Schwartz (2014), *Give your ideas some legs*, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/). Read the complete abstract. Experiment 1 reports improvement in GAU scores for 81% of participants and CRA scores for 23%; these are proportions of participants, not percentage increases in performance or general cognitive benefits. The full article was not opened.
 
 Changes: one-sentence Plain words and a paper-fold example with specific bodily feedback. Preserved the primary definition, the theoretical/empirical distinction, every existing link, opening statement, front matter and lower sections. Removed the stock disclaimer from the example; the body already limits what the empirical study establishes.
+
+## S011: Recognise the three topoi
+
+Opened through search and fetch:
+
+- [Epictetus, *Discourses* III.2, Internet Classics Archive](https://classics.mit.edu/Epictetus/discourses.3.three.html). Read the complete chapter extraction, especially the opening three areas, priority of desires/aversions, appropriate relations and criticism of premature technical specialization. The page does not identify its translator in the fetched chapter text, so no new translator attribution is made. Both blockquotes match the opened wording, including “for I ought” rather than “for we ought.”
+- [Margaret Graver, “Epictetus,” Stanford Encyclopedia of Philosophy, §5](https://plato.stanford.edu/entries/epictetus/). Read her discussion of education, three areas, proper relations and caution about identifying them with physics/ethics/logic.
+
+Changes: one-sentence Plain words, fuller standalone primary quotation showing care for relations, and removal of redundant instructions/disclaimer from the example. Preserved front matter, original Principle 133 statement, links and protected reflection. The id/title/seed numbering discrepancy is inherited and was not silently corrected.
+
+Supervisor alignment flag: the linked concept *The three disciplines* presents the Hadot mapping to physics/ethics/logic quite firmly, whereas Graver advises caution about that identification. This is a request to compare interpretations and their evidence, not a verdict that Hadot is wrong; the concept and Hadot's book were not edited or independently researched in this item.
+
+Also applied the earlier advisor's optional D141 refinements: narrowed Fraser's ethical question locator to p. 24 and changed the potentially agentive “knife's care” to “care taken with the knife.” No substantive interpretation changed.

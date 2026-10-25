@@ -22,7 +22,7 @@ Afterwards he wipes the knife and puts it away. The ruler hears a lesson in [[Ya
 > Excellent! I have heard the words of my cook, and learned from them the nourishment of (our) life.
 > (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-There is also a harder question about the work itself. Chris Fraser asks whether the cook should be doing this task at all: skill at cutting up an ox does not settle whether it is fitting work ([Applied Emptiness in the Zhuangzi, manuscript pp. 23 and 24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)). I use the knife's care as an image for preserving the person doing the work, while keeping that further question open: what does the work cost other lives? This reading makes no promise of longevity.
+There is also a harder question about the work itself. Chris Fraser asks whether the cook should be doing this task at all: skill at cutting up an ox does not settle whether it is fitting work ([Applied Emptiness in the Zhuangzi, manuscript p. 24](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)). I use the care taken with the knife as an image for preserving the person doing the work, while keeping that further question open: what does the work cost other lives? This reading makes no promise of longevity.
 
 (Zhuangzi 3 §2.)
 

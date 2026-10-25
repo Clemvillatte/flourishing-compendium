@@ -19,15 +19,20 @@ Epictetus writes:
 
 The first area concerns desire and aversion; the second, appropriate action; the third, avoiding deception and rash judgement when giving assent ([Disc. III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html)). Epictetus gives priority to the affects, which he links to frustrated desire and encountering what one wants to avoid; he criticizes students who pursue technical arguments while neglecting their desires and duties ([III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html)).
 
-His account of duty includes maintaining family and civic relations: "I ought not to be free from affects like a statue" ([III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html)). I take the three areas as recurring subjects of practice, with care for others included in the work.
+His account of duty includes maintaining family and civic relations:
+
+> The second topic concerns the duties of a man; for I ought not to be free from affects like a statue, but I ought to maintain the relations natural and acquired, as a pious man, as a son, as a father, as a citizen.
+> ([III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html))
+
+Margaret Graver cautions against simply equating these training areas with the Stoic divisions of physics, ethics and logic ([Stanford Encyclopedia of Philosophy, §5](https://plato.stanford.edu/entries/epictetus/)). I use them as questions about desire, conduct and judgment that I can return to when a situation goes badly.
 
 ### Plain words
 
-What you want, what you do and what you accept as true are connected but different. Wanting an apology leaves questions about how to speak to the person and whether you have understood what happened. Attention to one part of the situation need not settle the other two.
+Train what you want and avoid, how you act with others, and how carefully you judge what seems true.
 
 ### For example
 
-Suppose a colleague arrives late. Notice what you expected, check what happened before assuming an insult, and decide how to handle the delay considerately. Afterwards, review the expectation, the judgment and your action. Use that review when another delay occurs. This is my application of the three areas, not a fixed sequence prescribed by Epictetus.
+Suppose a colleague arrives late. Notice what you expected, check what happened before assuming an insult, and decide how to handle the delay considerately. Afterwards, review the expectation, the judgment and your action.
 
 ## Related concepts
 
@@ -37,6 +42,7 @@ Suppose a colleague arrives late. Notice what you expected, check what happened 
 ## Sources
 
 - [Epictetus, Discourses III.2, Internet Classics Archive](https://classics.mit.edu/Epictetus/discourses.3.three.html): the three areas, their priority, duties and criticism of premature technical specialization.
+- [Margaret Graver, Epictetus, Stanford Encyclopedia of Philosophy, §5](https://plato.stanford.edu/entries/epictetus/): practical education and the caution about equating its three areas with divisions of philosophical discourse.
 
 ## Stories
 
