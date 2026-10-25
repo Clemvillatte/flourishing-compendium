@@ -278,6 +278,11 @@
      "t": "2026-10-21T12:21:08+00:00",
      "to": "published",
      "note": "supervisor registration ST366/ST367"
+    },
+    {
+     "t": "2026-10-25T15:17:50+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:17:50: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -778,6 +783,11 @@
      "t": "2026-10-21T12:41:05+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:17:50+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:17:50: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1157,5 +1167,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:15:10+00:00"
+ "updated": "2026-10-25T15:17:50+00:00"
 }
