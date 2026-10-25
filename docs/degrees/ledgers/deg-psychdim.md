@@ -168,6 +168,23 @@ opened event page.
 | The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
 | Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
+Additional inspection (2026-10-25, batch 17): lecture 11's chapter 3
+(00:15:45 to 00:28:08, Facial Expressions and Smiles in Particular)
+was read in full: Bloom presents Ekman's work on facial expressions,
+the anger-face classroom exercise, facial-expression databases across
+genders and national origins (a Japanese database example) with deep
+universals despite subtle cross-country differences, and the smile
+findings: smiling is universal, congenitally blind children smile
+appropriately (not learned by observation), nonhuman primates smile,
+smiles are social signals rather than readouts of happiness (bowlers do
+not smile facing the pins but grin at their friends; Olympic gold
+medalists smile facing the crowds), and the distinction between the Pan
+Am greeting smile and the Duchenne smile of genuine happiness (the
+difference is around the eyes; only about one in ten people can fake a
+Duchenne smile). This serves the M2 emotion-functions row. Status for
+the chapter-3 segment: verified-video; the remaining segments are
+candidates until their transcripts are read.
+
 Additional inspection (2026-10-25, batch 16): lecture 17 (Self and
 Other, Part II, 64:53) had its chapter outline recorded (Introduction
 [00:00:00]; First and Fast: How We Form Impressions of Others
