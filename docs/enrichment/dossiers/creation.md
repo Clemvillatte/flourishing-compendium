@@ -23,7 +23,9 @@ Frankl's logotherapy puts creating a work or doing a deed first among the three 
 
 > "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
-Frankl's own name for that first route is [Creative values](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20values): what a person gives to the world through a work or a deed. The [will to meaning](https://clemvillatte.github.io/flourishing-compendium/#card=The%20will%20to%20meaning) behind the route is his primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium. The clinical descendant is [Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy), Breitbart's short-term treatment for people with advanced cancer, and [E062 — Practise meaning through creative work](https://clemvillatte.github.io/flourishing-compendium/#card=E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work) carries the route into work as an ongoing contribution to others, with what calling research says about how people get drawn into it.
+Frankl's own name for that first route is [Creative values](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20values): what a person gives to the world through a work or a deed. The [will to meaning](https://clemvillatte.github.io/flourishing-compendium/#card=The%20will%20to%20meaning) behind the route is his primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium.
+
+The clinical descendant is [Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy), Breitbart's short-term treatment for people with advanced cancer, and [E062 — Practise meaning through creative work](https://clemvillatte.github.io/flourishing-compendium/#card=E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work) carries the route into work as an ongoing contribution to others, with what calling research says about how people get drawn into it.
 
 Is there evidence that making does anything for the maker? The diary study asks the question empirically. [Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities) report Conner, DeYoung and Silvia's 13-day diary study of 658 young adults, which asked how reported creative activity related to the following day's positive affect and flourishing, and words the association carefully:
 
@@ -133,15 +135,21 @@ A tension runs through the sources: when a maker finds meaning in the making, is
 
 Frankl locates meaning beyond the self, as something to discover and fulfil. The sentence that precedes the three routes in the book: "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
 
-Nietzsche says created. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
+Sartre gives the opposite answer to the same question, and he gives it about the person rather than about things:
+
+> "Man is nothing else but that which he makes of himself."
+>
+> "Thus, there is no human nature, because there is no God to have a conception of it." ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))
+
+On Frankl's account the meaning of a life is waiting in the world and a person answers it; on Sartre's there is nothing waiting, and what a person is, is what they make. The two answers are incompatible on one question: is the meaning of a life found or made. What the passages do not settle is whether the making itself is answerable to anything, and I do not claim they settle it.
+
+Nietzsche had said created, about things rather than about the self. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
 
 > "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!" ([Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
 > "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
-These accounts give making different roles: responding to a meaning already in the world for Frankl, assigning value for Nietzsche. What the two sources leave unresolved is whether they are incompatible accounts of the same meaning or different aspects of one act of making, the usefulness of a made thing being there to be found while its worth is conferred.
-
-I lean toward the second reading, because the two passages do not address the same proposition: Frankl speaks of the meaning of a life, Nietzsche of the significance of things, and a maker can plausibly find the one and confer the other. But that is my reading, and the sources themselves do not settle it.
+Nietzsche's claim is narrower than Sartre's: he speaks of the significance of things, not of what a person is, so Frankl can find the meaning of a life while still conferring significance on things. That reading is mine; the sources do not make it. The Sartre passage above is the demonstrated disagreement on this page: it and Frankl answer the same question with incompatible answers.
 
 ## Practice: variation, selection, retention
 

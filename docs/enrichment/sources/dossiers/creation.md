@@ -960,3 +960,38 @@ PDF). The remaining two are the Taylor and Francis pair behind the
 Cloudflare wall (rounds 10, 13, 14 document the standing extraction
 evidence and the negative browser attempt). Zero dead links; the audit
 is complete.
+
+## Supervisor takeover pass — 2026-10-25 (worker-pplx-brownmermaid-1025a, dos31)
+
+- Baton taken over from the stale holder. The disagreement-count
+  blocker was the standing flag; this pass converts the candidate
+  comparison into ONE demonstrated disagreement and leaves the
+  remaining gap flagged.
+- NEW CARRIER: Sartre, Existentialism is a Humanism (1946),
+  marxists.org/references/archive/sartre/works/exist/sartre.htm.
+  Opened via fetch tool AND raw curl; both quoted spans verified
+  verbatim in the raw page text: "Man is nothing else but that
+  which he makes of himself."; "Thus, there is no human nature,
+  because there is no God to have a conception of it." The full
+  existence-precedes-essence passage was also read ("We mean that
+  man first of all exists, encounters himself, surges up in the
+  world – and defines himself afterwards...").
+- Frankl carrier re-verified this pass via the fetch tool: "the
+  true meaning of life is to be discovered in the world rather
+  than within man or his own psyche" verbatim in the antilogicalism
+  PDF text.
+- Section restructure: Frankl (meaning of a life discovered in the
+  world) vs Sartre (what a person is, is what they make; no human
+  nature) now stand as the demonstrated disagreement — same
+  question, incompatible answers. Nietzsche's narrower claim (the
+  significance of things) is kept as the adjacent material with the
+  honest narrower-than-Sartre note, replacing the previous
+  unresolved-candidate framing. The Sartre passage and Frankl
+  answer the same proposition; the dos31 holder's own analysis
+  (Frankl speaks of a life, Nietzsche of things) is preserved as
+  the reason the Nietzsche pair alone did not demonstrate a
+  disagreement.
+- Disagreement count after this pass: 1 demonstrated (model's 3-5
+  bar STILL UNMET; two more genuine disagreements still needed for
+  publication; NOT manufactured here). Remaining blockers unchanged
+  otherwise: art None (owner call), registry flip supervisor-only.
