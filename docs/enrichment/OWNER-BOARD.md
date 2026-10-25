@@ -136,3 +136,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:32Z worker-pplx-1025i: took dos20 (anger) for the flagged Aristotle span repairs; will verify the-self Milinda/Deikman spans next.
 - 2026-10-25 10:31Z worker-pplx-ct3-1025n2: took+released ct3 (verified 43/43 done, band_done flipped); taking dos33 to finish/publish procrastination.
 - 2026-10-25 10:49Z worker-pplx-dossiers-1025bb: took dossiers baton — meaning-and-mortality GF-model rewrite (lane 1).
+- 2026-10-25 ~10:33Z worker-pplx-1025i: took dos28 (sadness-and-grief) — two under-substantiated dispute questions need primary-source quotes (mourning-as-detachment vs continuing bonds; grief-work confrontation vs avoidance).
