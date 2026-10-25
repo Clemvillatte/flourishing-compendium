@@ -1638,7 +1638,7 @@
    ]
   },
   "s1a-051": {
-   "status": "drafting",
+   "status": "ready",
    "angle": "P012: James's squirrel — the camping-party quarrel about going round the squirrel, dissolved by naming the practical difference",
    "history": [
     {
@@ -1654,6 +1654,11 @@
      "t": "2026-10-25T14:06:34+00:00",
      "to": "drafting",
      "note": "correction: state.json said ready but the draft's QC notes record story_check pending and front matter is drafting; quotes were verified 2026-10-24 but the full QC pass never ran - reverting state to drafting to match the draft; flagged for the next storyteller pass"
+    },
+    {
+     "t": "2026-10-25T14:06:45+00:00",
+     "to": "ready",
+     "note": "QC pass complete: story_check 0 errors, six blockquotes re-verified against re-downloaded Gutenberg 5116, banned-phrase scan clean; ready"
     }
    ]
   },
@@ -1821,5 +1826,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:06:34+00:00"
+ "updated": "2026-10-25T14:06:45+00:00"
 }
