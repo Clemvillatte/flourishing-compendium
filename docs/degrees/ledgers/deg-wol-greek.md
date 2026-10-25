@@ -819,3 +819,56 @@ content-check gap for SRC-M25-002. Status remains verified-video
 (optional role); identity, access, credentials and durations unchanged.
 Module production stays behind the Phase 0 stop-gate; no attachment is
 made this session.
+
+## SRC-M25-003 and SRC-M25-004 transcripts read (2026-10-25, worker-pplx-greek-1025y)
+
+Both optional mod-phil-3 records now carry transcript-level content
+classifications, superseding the uploader-description-only basis.
+Transcripts read this session via
+https://youtubetotranscript.com/transcript?v=j5QVMN2chOI and
+https://youtubetotranscript.com/transcript?v=AZZ5G8KGM2E (rendered
+pages; direct raw fetches are Cloudflare-walled).
+
+### SRC-M25-003 (Philosophy Masterclass 2023, James Warren, Corpus Christi channel; verified earlier, 1:02:57)
+
+- Warren introduces himself: "a fellow of Corpus Christi and I teach
+  principally and my research interests are principally in ancient
+  philosophy... also in the philosophy of the period that came
+  immediately after Aristotle which is often labeled the Hellenistic
+  period".
+- Topic: "I want to say something about the stoics but also about what
+  sometimes gets called modern or Neo stoicism and I want to use those
+  thoughts to help us to think about the history of philosophy"; "I've
+  called this stoics and bro[ics]" (the lecture's title as spoken).
+- On Stoicism: "the stoics are a philosophical school from that
+  Hellenistic period".
+- The transcript includes the lecture and Q&A.
+
+Content matches the manifest's proposed topic "Stoicism masterclass".
+Note: the manifest's framing ("super-curricular preparation for
+Cambridge philosophy applicants") is consistent with what the transcript
+shows (Warren mentions the philosophy tripos) but the masterclass does
+not explicitly name its audience in the transcript.
+
+### SRC-M25-004 ('Epicurus for Today', Kurt Lampe, North Staffs Classical Association channel; verified earlier, 49:36)
+
+- Lampe's own topic statement: "I was asked to speak about practical
+  epicureanism today so that's basically just what I'm going to
+  address".
+- On Epicureanism: "epicureanism we can say is a hedonistic
+  philosophy"; "it revolves around pursuing pleasure and thinking about
+  the value and the nature of pleasure and around avoiding pain and
+  distress"; "epicurus himself said the limit of the magnitude of
+  pleasure is the removal of all pain".
+- The transcript is present with an opening and a closing. Note: the
+  page's Author field reads "North Staffs Classical Association" and
+  does not name Lampe; the speaker's identity rests on the earlier
+  verification (the manifest correction's uploader-description basis)
+  and on the lecture's own framing as a talk on practical Epicureanism
+  by a university lecturer, not on the transcript page itself.
+
+Content matches the manifest's proposed topic "modern reception" (a
+present-day lecture on practical Epicureanism). Both records' status
+remains verified-video (optional role); identity, access, credentials
+and durations unchanged. Module production stays behind the Phase 0
+stop-gate; no attachments are made this session.
