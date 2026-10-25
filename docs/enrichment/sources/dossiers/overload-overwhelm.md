@@ -162,3 +162,14 @@ Phil Connors Stops Fighting the Day (Groundhog Day), ST088
 Paṭācārā Washes Her Feet (the card body matches the logline
 directly). All three loglines match the cards' subjects and
 sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos12-1025g, 2026-10-25)
+
+Three further story cards opened at body level and checked against
+their loglines: ST393 The Shrine the Nazis Could Not Burn (Heschel,
+the inspirer and the inspired — matches), ST029 Phil Connors Stops
+Fighting the Day (repeating day, full repertoire of strategies
+exhausted — matches) and ST088 Paṭācārā Washes Her Feet (the
+losses, the instruction drawn from washing the feet — matches). All
+three match. With batch 1 (header checks), the sampled cards all
+verify. No defects found.
