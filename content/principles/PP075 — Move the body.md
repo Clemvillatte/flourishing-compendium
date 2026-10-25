@@ -24,7 +24,7 @@ On format, the same abstract reports: "Larger effects were found for interventio
 
 (Cooney et al., 2013; Schuch et al., 2016.)
 
-**Plain words** These studies ask whether exercise can reduce depressive symptoms on average. That is not a promise about how you will feel after one walk. The Cochrane review also found a smaller effect when it restricted the analysis to more robust trials.
+**Plain words** Moving the body is one of the few things that helps a low mood and also helps everything else. But the honest size of the help has been fought over: take the trials as they come and the effect looks moderate; keep only the strictest ones and it shrinks; correct for the studies that never got published and it grows. The practical read is not to wait for the referees — pick a movement you can actually do, give it weeks not days, and let your own mood be the evidence you track.
 
 *For example:* Imagine choosing an accessible form of movement and making time for it during the week.
 
