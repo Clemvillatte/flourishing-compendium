@@ -458,3 +458,9 @@ pre-existing overclaim flagged earlier; the dossier line does not
 repeat it.
 
 Checks: dossier_check.py exit 0 (run again this session).
+
+## Rewrite in the validated model (2026-10-25)
+
+The dossier was rewritten from the map format into one thread (about 4,800 words, three disagreement questions). Every verbatim quotation was opened again and matched against the page. Carriers opened this pass: Steger (OUP chapter abstract), Ostafin, Papenfuss and Vervaeke 2022 (Taylor and Francis; the George and Park wording is quoted at second hand through it), Frankl, Man's Search for Meaning (2006-edition PDF; the camp sentence on a future goal was not in the 1963 Internet Archive text, so that carrier was replaced), Wrzesniewski et al. 1997 (abstract), Weber ch. III, Yeager et al. 2014, Sheldon and Elliot 1999 (PubMed abstract), Wrosch et al. 2007, Yaden et al. 2017 (abstract), Fox, Tost and Wade-Benzoni 2010 (abstract), Plato Apology, Heidegger Being and Time section 56, Kelly, Park, McAdams (Narrative Identity and the Redemptive Self; McAdams 2019 for the cultural caveat), Frankl tragic optimism postscript excerpt, Tedeschi and Calhoun 1996 (PubMed abstract for the five factors) and Tedeschi et al., Clinical Applications (for "common but certainly not universal"), Breitbart et al. 2010 (PMC), Taleb via Kunst and Van de Wiel 2016 (PMC), Pratt (IEP), de Beauvoir, Jaspers via Epimelea, Camus (O'Brien text).
+
+Left out of the new text on purpose: Hill and Turiano mortality finding (carrier not opened this pass), Ricoeur and Husserl quotations (named only).

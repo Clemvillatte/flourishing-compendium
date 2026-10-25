@@ -86,6 +86,12 @@ def compile_markdown(md):
         if not s:
             flush()
             continue
+        if s.startswith('- ') or s.startswith('* '):
+            # a bullet is its own paragraph; the dash is markup, not text
+            flush()
+            para.append(s[2:].strip())
+            flush()
+            continue
         if s.startswith('# ') and title is None:
             title = s[2:].strip()
             continue

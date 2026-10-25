@@ -2978,19 +2978,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Happiness: I distinguish feeling happy from judging how a life is going. Aristotle complicates that distinction by treating [happiness as activity](card:Happiness%20as%20activity), [not simply a feeling](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+          "x": "Happiness: I distinguish feeling happy from judging how a life is going. Aristotle complicates that distinction by treating [happiness as activity](card:Happiness%20as%20activity), [not simply a feeling](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "p",
-          "x": "- Well-being: a broad term that includes [meaning and functioning](card:Eudaimonic%20well-being), while [the two-factor model](card:The%20two-factor%20model%20of%20well-being) [distinguishes mental well-being from mental illness](https://pubmed.ncbi.nlm.nih.gov/12096700/)."
+          "x": "Well-being: a broad term that includes [meaning and functioning](card:Eudaimonic%20well-being), while [the two-factor model](card:The%20two-factor%20model%20of%20well-being) [distinguishes mental well-being from mental illness](https://pubmed.ncbi.nlm.nih.gov/12096700/)."
         },
         {
           "t": "p",
-          "x": "- Eudaimonia: [Aristotle's term](card:Eudaimonia) for [living and acting well across a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+          "x": "Eudaimonia: [Aristotle's term](card:Eudaimonia) for [living and acting well across a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "p",
-          "x": "- Thriving: when I use this near-synonym, I want to ask about both [real possibilities for living](card:Flourishing%20as%20capability) and [positive mental health](card:Complete%20mental%20health%20model), rather than visible success alone."
+          "x": "Thriving: when I use this near-synonym, I want to ask about both [real possibilities for living](card:Flourishing%20as%20capability) and [positive mental health](card:Complete%20mental%20health%20model), rather than visible success alone."
         },
         {
           "t": "h",
@@ -3595,7 +3595,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Intelligence and cleverness: skill at reaching a goal, whatever the goal is. Aristotle separates [practical wisdom](card:Practical%20wisdom) from cleverness, and I follow him in the first section. - Knowledge: wisdom is often described as knowledge, but [Ryle's distinction](card:Knowing-how%20versus%20knowing-that) between ability and stored fact shows how much of it lives in what a person can do. - Humility: the stance toward one's own beliefs that [Leary and colleagues](card:Intellectual%20humility) define as recognising a belief may be wrong, which most accounts treat as part of wisdom. - Insight: the sudden reinterpretation that [Kounios and Beeman](card:Insight%20research) study. It can feed good judgment, and it is a different event. - Flourishing: the life that wisdom steers toward. The Genuine Flourishing dossier holds that question; this one holds the capacity that steers."
+          "x": "Intelligence and cleverness: skill at reaching a goal, whatever the goal is. Aristotle separates [practical wisdom](card:Practical%20wisdom) from cleverness, and I follow him in the first section."
+        },
+        {
+          "t": "p",
+          "x": "Knowledge: wisdom is often described as knowledge, but [Ryle's distinction](card:Knowing-how%20versus%20knowing-that) between ability and stored fact shows how much of it lives in what a person can do."
+        },
+        {
+          "t": "p",
+          "x": "Humility: the stance toward one's own beliefs that [Leary and colleagues](card:Intellectual%20humility) define as recognising a belief may be wrong, which most accounts treat as part of wisdom."
+        },
+        {
+          "t": "p",
+          "x": "Insight: the sudden reinterpretation that [Kounios and Beeman](card:Insight%20research) study. It can feed good judgment, and it is a different event."
+        },
+        {
+          "t": "p",
+          "x": "Flourishing: the life that wisdom steers toward. The Genuine Flourishing dossier holds that question; this one holds the capacity that steers."
         },
         {
           "t": "h",
@@ -4123,7 +4139,15 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and I hold the difference on its own cards."
+          "x": "I come to this question from the side of its absence. People seldom announce that they lack a purpose. The feeling arrives as a question on an ordinary afternoon: what is all this for? I want to know what that question is asking, why it hurts when it has no answer, and what the sources say about where an answer comes from."
+        },
+        {
+          "t": "p",
+          "x": "Three things hide under the word purpose. One is an aim a person pursues. A second is a sense that a life makes sense as a whole. A third is a sense that it matters to someone or something beyond the person. Researchers have pulled these apart, and I keep them apart here, because an argument about one of them is easily heard as an argument about all three."
+        },
+        {
+          "t": "p",
+          "x": "The question that organises the rest is whether a purpose is found or made. Frankl says life puts the question to us. Camus says the world gives no answer at all. The constructivists say the building is ours. I do not think the sources settle it, and the practices at the end are meant to work whichever way it falls."
         },
         {
           "t": "h2",
@@ -4131,315 +4155,146 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](card:Existential%20meaning) and [Meaning-making](card:Meaning-making)."
+          "x": "Meaning: the wider field, which the research splits into [comprehension, purpose and mattering](card:Existential%20meaning). Purpose is one part of it, and [meaning-making](card:Meaning-making) is the process by which people repair it when events break it."
         },
         {
           "t": "p",
-          "x": "Purpose: the aim itself; [Purpose](card:Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](card:PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction)."
+          "x": "Goals: purpose is often defined in the vocabulary of goals, but a goal can be reached and a purpose is a direction. [The principle on purpose as a direction](card:PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction), and the goals section below, keep that difference in view."
         },
         {
           "t": "p",
-          "x": "Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](card:Calling%20orientation) and [Vocation as calling](card:Vocation%20as%20calling)."
+          "x": "Calling and vocation: the work-centred version of the theme, held by [the research on callings](card:Calling%20orientation) and [Weber's history of the word](card:Vocation%20as%20calling)."
         },
         {
           "t": "p",
-          "x": "Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier."
+          "x": "Flourishing: the good life that purpose feeds into. The Genuine Flourishing dossier holds that question; this one holds the aim."
         },
         {
           "t": "p",
-          "x": "Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](card:Vital%20engagement) the bridge card named here."
+          "x": "Flow and absorption: deep involvement is a different thing from significance. [Vital engagement](card:Vital%20engagement) is the card that joins them, and the Attention dossier holds the rest."
         },
         {
           "t": "h",
-          "x": "The map: the entries on purpose and meaning"
+          "x": "What a purpose is"
         },
         {
           "t": "h2",
-          "x": "What a purpose is taken to be"
+          "x": "Three parts of a meaningful life"
         },
         {
           "t": "p",
-          "x": "[Purpose](card:Purpose): an aim or reason for carrying on; Frankl's camp account makes it the thing that lets a person bear almost any how, and the entry ties it to Aristotle's final cause in a life."
-        },
-        {
-          "t": "p",
-          "x": "[Meaning](card:Meaning): the sense that life is about something, with purpose, coherence and mattering as its working parts; the traditions converge on meaning as made through work, love, and the stance taken toward suffering."
-        },
-        {
-          "t": "p",
-          "x": "[Existential meaning](card:Existential%20meaning): Michael Steger's framework for meaning in life, built on two pillars: comprehension, the ability to find patterns and significance in one's life, and purpose, long-term goals one is committed to."
-        },
-        {
-          "t": "p",
-          "x": "The comprehension pillar in Steger's own words:"
+          "x": "Michael Steger's account of meaning in life rests on two pillars. The first is comprehension, which he defines this way:"
         },
         {
           "t": "q",
-          "x": "\"Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors.\" ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120?redirectedFrom=fulltext))",
+          "x": "\"Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors.\" ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120))",
           "s": null
         },
         {
           "t": "p",
-          "x": "[Mattering](card:Mattering) and [Existential mattering](card:Existential%20mattering): the sense that one's existence makes a difference, often treated as a domain distinct from purpose and coherence in the meaning-in-life literature; George and Park describe it as an entity's sense of having value to the world."
+          "x": "The second is purpose, which he defines in the language of goals: \"highly motivating, long-term goals about which people are passionate and highly committed.\" On his account the two work together. People pour effort into their purposes, and the purposes that reward them most are the ones that grow out of how they understand their lives ([Steger's framework](card:Existential%20meaning))."
         },
         {
           "t": "p",
-          "x": "[The will to meaning](card:The%20will%20to%20meaning): Frankl's term for the primary motivational force, set against the pleasure principle of Freud and the striving for superiority of Adler."
+          "x": "George and Park add a third part, [existential mattering](card:Existential%20mattering). In the wording of Ostafin and colleagues, who quote them, mattering consists of individuals feeling that \"their existence is of significance, importance, and value to the world\" ([Ostafin, Papenfuss and Vervaeke 2022](https://www.tandfonline.com/doi/full/10.1080/10615806.2021.1994556)). It is a different thing from [interpersonal mattering](card:Mattering), the feeling that particular people notice and rely on you."
         },
         {
           "t": "p",
-          "x": "[The search for meaning](card:The%20search%20for%20meaning): the drive itself, with Frankl's three channels for finding what it seeks: creating a work or doing a deed, experiencing something or encountering someone, and the attitude taken toward unavoidable suffering."
-        },
-        {
-          "t": "p",
-          "x": "[The meaning of life](card:The%20meaning%20of%20life): Frankl's reversal of the question: life questions us, and we answer with our conduct rather than with talk and meditation."
-        },
-        {
-          "t": "p",
-          "x": "[Logotherapy](card:Logotherapy): Frankl's Third Viennese School of Psychotherapy, a clinical method and a theory of motivation at once; its technique for anticipatory anxiety is paradoxical intention."
-        },
-        {
-          "t": "p",
-          "x": "[Noogenic neurosis](card:Noogenic%20neurosis): Frankl's term for distress that starts in the moral and existential spheres: guilt, grief, despair, demoralisation, and boredom without purpose."
-        },
-        {
-          "t": "p",
-          "x": "[Attitudinal values](card:Attitudinal%20values): Frankl's name for the stance taken toward unavoidable suffering, the third way meaning is found; the other two, creative values and experiential values, run through work and love."
-        },
-        {
-          "t": "p",
-          "x": "Frankl's own statement of the motivational claim:"
-        },
-        {
-          "t": "q",
-          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "And of the reversal at the centre of the book:"
-        },
-        {
-          "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The camp passage behind the why-to-live motto, in Frankl's own words:"
-        },
-        {
-          "t": "q",
-          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The Nicomachean Ethics grounds the whole tradition in one claim about what the good is:"
-        },
-        {
-          "t": "q",
-          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Frankl's reversal of the question is stated in the same terms:"
-        },
-        {
-          "t": "q",
-          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
+          "x": "The split lets a person ask which part is missing: an aim, a sense that things hang together, or a sense of counting for something. Ryff's model of [psychological well-being](card:Psychological%20well-being) lists purpose in life as one of six dimensions of positive functioning, next to self-acceptance and personal growth, and it came out of a complaint that the older well-being measures had no theory behind them ([Ryff 1989](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf)). So the research treats purpose as something a person can lack without being ill in any other way. Frankl went further, and that is where the next section starts."
         },
         {
           "t": "h2",
-          "x": "The three routes: work, love, and the stance toward suffering"
+          "x": "Why its absence hurts"
         },
         {
           "t": "p",
-          "x": "Frankl's own list of the routes:"
+          "x": "Frankl made purpose the centre of his psychology. He called the pull toward it the [will to meaning](card:The%20will%20to%20meaning) and set it against Freud's pleasure principle and Adler's striving for superiority:"
         },
         {
           "t": "q",
-          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "[The meaning of suffering](card:The%20meaning%20of%20suffering): what survives even in the camps: the freedom of attitude, through which a meaning holds to the last moment."
-        },
-        {
-          "t": "q",
-          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
+          "x": "That is a claim from a clinician's experience and not a measured result, and I read it that way. What I take from it is the clinical consequence. Frankl described [noogenic neurosis](card:Noogenic%20neurosis) as distress that starts in the dimension of meaning: values in conflict, or an aspiration to a meaningful life with nowhere to put it. The practical lesson is a screening question. Before treating a low mood as malfunction, ask whether the person is working well and starving for something to work toward."
         },
         {
           "t": "p",
-          "x": "[Tragic optimism](card:Tragic%20optimism): Frankl's term for remaining optimistic in spite of the tragic triad of pain, guilt and death."
+          "x": "His camp account gives the same idea its sharpest form. Any attempt to restore a prisoner's inner strength, he writes, \"had first to succeed in showing him some future goal\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). The [Purpose card](card:Purpose) keeps to what that passage supports: a person who is given an aim can bear a great deal. If the aim matters that much, a worry follows at once. Where does a person get one, if the answer cannot simply be decided?"
         },
         {
-          "t": "q",
-          "x": "\"it means that one is, and remains, optimistic in spite of the \\\"tragic triad,\\\" as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death.\" ([Frankl, \"Tragic Optimism\", lecture excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Post-traumatic growth](card:Post-traumatic%20growth): the psychological research successor to Frankl's claim, tied to the perseverance and exploration of novel environments he named as the core of trauma's best possibility."
-        },
-        {
-          "t": "p",
-          "x": "[Meaning-centred therapy](card:Meaning-centred%20therapy): Breitbart and colleagues' short-term group treatment for people with advanced cancer, rooted in Frankl's writings, built to sustain or enhance a sense of meaning, peace and purpose near the end of life."
+          "t": "h",
+          "x": "Where a purpose comes from"
         },
         {
           "t": "h2",
-          "x": "Work, calling and engagement"
+          "x": "Answering what life asks"
         },
         {
           "t": "p",
-          "x": "[Calling orientation](card:Calling%20orientation): Wrzesniewski, McCauley, Rozin and Schwartz's third orientation to work, alongside the Job and the Career orientations; in their study of 196 employees across occupations, people were unambiguous in seeing their work primarily in one of the three ways."
+          "x": "Frankl's answer begins by refusing the question as it is usually put. In the camps, he writes, it became clear \"that it did not really matter what we expected from life, but rather what life expected from us.\" His [reversal of the question](card:The%20meaning%20of%20life), in the same passage, is that people should stop asking about the meaning of life and think of themselves as those being questioned by it ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). On this view a purpose is a reply to a situation, given in conduct and not in conversation."
         },
         {
           "t": "p",
-          "x": "[Vocation as calling](card:Vocation%20as%20calling): Weber's historical account of the word Beruf: a task set by God, whose Reformation valuation of worldly duty first gave everyday work a religious significance."
-        },
-        {
-          "t": "p",
-          "x": "Weber's own lines:"
+          "x": "He then names three kinds of reply. [The search for meaning](card:The%20search%20for%20meaning) can run through:"
         },
         {
           "t": "q",
-          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
+          "x": "\"(1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "[Vital engagement](card:Vital%20engagement): Nakamura and Csikszentmihalyi's compound of a good life: absorption plus significance; the felt connection between self and activity that carries both flow and meaning."
-        },
-        {
-          "t": "p",
-          "x": "[Purpose-linked practice](card:Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents and young adults to persistence on boring tasks that matter."
-        },
-        {
-          "t": "p",
-          "x": "The research line's own definition:"
-        },
-        {
-          "t": "q",
-          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP, p. 560](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Right livelihood](card:Right%20livelihood): the Eightfold Path's work precept in its economic form, the principle of receiving what is necessary without harm and without taking more than the way."
+          "x": "The third needs a guard, and Frankl supplies it himself. [Attitudinal values](card:Attitudinal%20values) are not a recommendation to suffer. He writes that \"in no way is suffering necessary to find meaning,\" that meaning is possible in spite of suffering when the suffering is unavoidable, and that to suffer unnecessarily is \"masochistic rather than heroic\" ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). I return to suffering later. The first route, a work or a deed, is the one most people can reach on a Monday, so it comes first."
         },
         {
           "t": "h2",
-          "x": "Purpose and goals"
+          "x": "Work as a calling"
         },
         {
           "t": "p",
-          "x": "The research tradition defines purpose in the vocabulary of goals:"
-        },
-        {
-          "t": "q",
-          "x": "\"Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed.\" ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120))",
-          "s": null
+          "x": "Wrzesniewski, McCauley, Rozin and Schwartz asked how people relate to their work and found three patterns. Most people, they report, see their work \"as either a Job (focus on financial rewards and necessity rather than pleasure or fulfillment; not a major positive part of life), a Career (focus on advancement), or a Calling (focus on enjoyment of fulfilling, socially useful work)\" ([Wrzesniewski et al. 1997, abstract](https://www.semanticscholar.org/paper/Jobs,-Careers,-and-Callings:-People's-Relations-to-Wrzesniewski-McCauley/eb983573d298ba1b837e5fb2a2867b51b464e8ff)). The pattern did not follow the occupation. A group of 24 college administrative assistants, all doing similar work, spread evenly across the three ([Calling orientation](card:Calling%20orientation)). The same work can be a job to one person and a calling to the next."
         },
         {
           "t": "p",
-          "x": "[Psychological well-being](card:Psychological%20well-being): Ryff's theory-guided measures of positive functioning, with purpose in life as one of the six dimensions alongside self-acceptance, positive relations, autonomy, environmental mastery and personal growth."
+          "x": "The older meaning of the word runs the other way. Weber traces [Beruf and calling](card:Vocation%20as%20calling) to the Reformation, where the word suggested \"a task set by God.\" For Luther the calling was something a person accepted from where they stood, and Weber says the new element in Protestantism was the valuation of everyday duty as the highest form of moral activity ([Weber, The Protestant Ethic, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)). So there are two ideas under one word. In the modern research a calling is enjoyable, socially useful work a person feels drawn to. In Weber's history it is a post assigned by something above you."
         },
         {
           "t": "p",
-          "x": "[Self-concordant goals](card:Self-concordant%20goals): goals consistent with a person's developing interests and core values; the self-concordance research finds they are pursued with more sustained effort, more often attained, and linked to greater well-being once attained."
+          "x": "The difference matters for anyone choosing a path, because it changes who is responsible for the choice. If a calling is assigned, the task is to recognise it. If a calling is enjoyable, useful work a person is drawn to, the task is to choose it and keep choosing it. The Buddhist [right-livelihood](card:Right%20livelihood) precept asks a different question of work altogether: whether earning a living causes harm."
         },
         {
           "t": "p",
-          "x": "[Values-concordant goals](card:Values-concordant%20goals): the same research line applied to goals aligned with the values a person actually holds."
-        },
-        {
-          "t": "p",
-          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): the distinction between goals whose pursuit satisfies basic psychological needs directly and goals whose value depends on other people's reactions, anchored in Kasser and Ryan's classification."
-        },
-        {
-          "t": "p",
-          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): the intrinsic aspirations of affiliation, personal growth and community contribution, set against the extrinsic aspirations of wealth, fame and image."
-        },
-        {
-          "t": "p",
-          "x": "[Goal disengagement](card:Goal%20disengagement): Wrosch's goal adjustment capacity, withdrawing effort and commitment from a goal that cannot be reached; the research links the capacity to well-being and health."
-        },
-        {
-          "t": "p",
-          "x": "[Small steps, large vision](card:Small%20steps%2C%20large%20vision): Weick's small wins, a series of wins at small but significant tasks revealing a pattern that attracts allies and lowers resistance to what comes next."
+          "x": "Yeager and colleagues studied what keeps people at tedious tasks, and their [self-transcendent purpose](card:Purpose-linked%20practice) line joins this section to the next. They define a purpose for learning as \"a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self.\" In their studies, with more than 2,000 adolescents and young adults, those with more of such a purpose \"persisted longer on a boring task rather than giving in to a tempting alternative,\" and were less likely to drop out of college many months later. Motives that were only self-oriented, such as wanting an enjoyable career, \"did not, on their own, consistently produce these benefits\" ([Yeager et al. 2014](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)). That is evidence about learning, in young people, and I do not stretch it to a whole life."
         },
         {
           "t": "h2",
-          "x": "Meaning made rather than found"
+          "x": "Aims that are really yours"
         },
         {
           "t": "p",
-          "x": "[Meaning-making](card:Meaning-making): Crystal Park's research tradition: when events violate what people believe and want, they revise the event's meaning or the global meaning it violated until the gap closes; the model works at two levels, global and situational."
+          "x": "Work can be assigned and a calling can be inherited, so the next question is about ownership. Sheldon and Elliot's [self-concordance model](card:Self-concordant%20goals) gives a measurable version. A goal is self-concordant when it fits a person's developing interests and core values, and those pursuing such goals \"put more sustained effort into achieving those goals and thus are more likely to attain them\" ([Sheldon and Elliot 1999](https://pubmed.ncbi.nlm.nih.gov/10101878/)). The same abstract reports that attaining them brings greater well-being, through the satisfaction of needs for autonomy, competence and relatedness."
         },
         {
           "t": "p",
-          "x": "The model in Park's own words:"
-        },
-        {
-          "t": "q",
-          "x": "\"Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))",
-          "s": null
+          "x": "Kasser and Ryan sort aims by what they serve. [Intrinsic aspirations](card:Intrinsic%20versus%20extrinsic%20goals) such as affiliation, personal growth and community contribution are linked to basic need satisfaction. Extrinsic ones such as wealth, fame and image depend on other people's reactions, and may distract from need satisfaction ([Deci and Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). A test I take from this is to ask of an aim whether it would still matter if no one ever saw it."
         },
         {
           "t": "p",
-          "x": "[Life story model](card:Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole."
+          "x": "Owning an aim also means being able to put it down. Wrosch and colleagues call this [goal disengagement](card:Goal%20disengagement): withdrawing effort from a goal that cannot be reached, so as to prevent \"repeated goal failure and its associated psychological distress\" ([Wrosch et al. 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSPB_UG_2007.pdf)). People better able to do it reported fewer health problems in their studies, though the authors say the studies do not settle the direction of cause. A purpose is a direction and not a single target. I take that to mean a person can let a particular goal go without losing the direction."
         },
         {
           "t": "p",
-          "x": "[The narrative fallacy](card:The%20narrative%20fallacy): the counterpoint I hold against the story cluster: the predictable tendency to read a coherent story into a linked series of acts, which predicts too many things about what the story will be."
-        },
-        {
-          "t": "p",
-          "x": "[Narrative as meaning-making](card:Narrative%20as%20meaning-making): Ricoeur's claim, across Time and Narrative, that stories configure actions into a followable whole, and through plot work a life becomes a told story."
-        },
-        {
-          "t": "p",
-          "x": "[Constitution of meaning](card:Constitution%20of%20meaning): Husserl's term for what consciousness does: the mind does not receive a ready-made world but constitutes the things of experience as meaningful."
-        },
-        {
-          "t": "p",
-          "x": "[Constructivist approach to meaning](card:Constructivist%20approach%20to%20meaning): Kelly's idea, elaborated by later constructivist psychotherapists, that meaning is not found lying in events but built out of them, and that the building can be done differently."
-        },
-        {
-          "t": "p",
-          "x": "The constructivist line is the plainest about this. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:"
-        },
-        {
-          "t": "q",
-          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf))",
-          "s": null
+          "x": "An aim a person owns can still be a small one, though. Frankl's insistence is that it point past the person."
         },
         {
           "t": "h2",
-          "x": "Purposes beyond the self"
+          "x": "Pointing beyond the self"
         },
         {
           "t": "p",
-          "x": "[Self-transcendence](card:Self-transcendence): the family of orientations in which the self recedes from the center; Frankl's version points beyond itself toward a meaning to fulfill or a person to love."
-        },
-        {
-          "t": "p",
-          "x": "Frankl's formulation:"
+          "x": "Frankl states the claim with unusual force:"
         },
         {
           "t": "q",
@@ -4448,96 +4303,92 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-transcendent experiences](card:Self-transcendent%20experiences): Yaden and colleagues' framework for the transient states marked by decreased self-salience and increased connectedness, with mindfulness, flow, love, awe, peak and mystical experiences inside the grouping."
+          "x": "The sentence that follows in the book makes self-actualisation a side effect of [self-transcendence](card:Self-transcendence) and not something to aim at directly. Psychology uses the same word in a narrower sense. Yaden and colleagues use [self-transcendent experiences](card:Self-transcendent%20experiences) for \"transient mental states marked by decreased self-salience and increased feelings of connectedness,\" a family that includes awe, flow and love ([Yaden et al. 2017](https://journals.sagepub.com/doi/10.1037/gpr0000102)). Frankl describes an orientation of a whole life, and Yaden describes a state a person passes through. The two are related, and I do not treat one as evidence for the other."
         },
         {
           "t": "p",
-          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions): the class the research sorts by fit to spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being; amusement and pride do not."
+          "x": "The research on adult life gives the orientation some concrete forms. Erikson's [generativity](card:Generativity%20theory), the concern for guiding and providing for the next generation, was turned by McAdams and de St. Aubin into seven measurable facets, from desire to narration ([Rubinstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/)). Fox, Tost and Wade-Benzoni review the motive to leave a lasting legacy, and say legacies \"can provide a link between life-meaning and pro-social motivation\" ([Fox, Tost and Wade-Benzoni 2010, abstract](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/abs/legacy-motive-a-catalyst-for-sustainable-decision-making-in-organizations/EA4D858EF20AB081B269030657D4806E)). Hans Jonas pushes the same reach to people who do not yet exist: [duties owed to them](card:Intergenerational%20responsibility) that they cannot return."
         },
         {
           "t": "p",
-          "x": "[Generativity theory](card:Generativity%20theory): Erikson's adult concern for guiding and providing for the next generation, turned by McAdams and de St. Aubin into a measurable research program of seven facets, from desire to narration."
+          "x": "Nietzsche supplies a harder test. In the thought experiment of the eternal recurrence a demon asks whether you would live this life again, innumerable times. [My reading of it](card:The%20eternal%20contribution) turns the question toward what a life leaves behind: what a person gives away, teaches, builds or repairs can answer yes, and what only consumed the hours cannot."
         },
         {
           "t": "p",
-          "x": "[Intergenerational transmission](card:Intergenerational%20transmission): the family research on what parents hand to children beyond genes: narratives, styles of remembering, and the shapes of a life story."
-        },
-        {
-          "t": "p",
-          "x": "[Legacy motivation research](card:Legacy%20motivation%20research): Fox, Tost and Wade-Benzoni's review of the motive to build a lasting legacy, developed from intergenerational decision making, generativity and terror management theory."
-        },
-        {
-          "t": "p",
-          "x": "[Intergenerational responsibility](card:Intergenerational%20responsibility): Hans Jonas's duties owed to people who do not yet exist and cannot return them, built for an age in which action reaches across generations."
-        },
-        {
-          "t": "p",
-          "x": "[The eternal contribution](card:The%20eternal%20contribution): my reading of Nietzsche's eternal recurrence, the demon's proposal to live this life once more and innumerable times over, turned toward what a life leaves behind."
+          "x": "Whether a purpose has to reach beyond the self is disputed, and I return to it in the disagreements. First there is the problem of how a purpose shows itself at all."
         },
         {
           "t": "h2",
-          "x": "The inner check"
+          "x": "A sign that forbids"
         },
         {
           "t": "p",
-          "x": "[The daimon](card:The%20daimon): Socrates' inner sign, described at his trial: present since childhood, it only forbids and never commands, and its silence is its only approval."
+          "x": "Not every purpose arrives as an aim. Socrates told his jurors about an inner sign that had been with him since childhood, \"a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything\" ([Plato, Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html)). [The daimon](card:The%20daimon) is a veto and not a map. It tells him what to stay out of, and he found in that a direction."
         },
         {
           "t": "p",
-          "x": "[The call of conscience](card:The%20call%20of%20conscience): Heidegger's existential call, structurally parallel to the daimon: the call comes from the self, summons the self out of its absorption in the world, and the actual content of the call's revelation is deliberately left empty."
-        },
-        {
-          "t": "q",
-          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html))",
-          "s": null
+          "x": "Heidegger's [call of conscience](card:The%20call%20of%20conscience) has a parallel structure. It comes from the self, summons it out of its absorption in the world, and says nothing. Heidegger writes that conscience \"discourses solely and constantly in the mode of keeping silent\" ([Heidegger, Being and Time §56, Macquarrie and Robinson](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc)). I find the pairing useful because both accounts describe a pull that has a direction and no content. Where the content comes from is the next question."
         },
         {
           "t": "h2",
-          "x": "When life gives no answer"
+          "x": "Purpose as something made"
         },
         {
           "t": "p",
-          "x": "[The absurd](card:The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence; the absurd is a relation, born of the confrontation, lying in neither side alone."
+          "x": "If the inner sign supplies a direction and no content, the content has to be built. The constructivist line says that is true of all meaning. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:"
         },
         {
           "t": "q",
-          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
+          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "[Revolt](card:Revolt): Camus's third answer to the absurd, after the two he rejects: a constant confrontation between man and his own obscurity, an insistence upon an impossible transparency."
-        },
-        {
-          "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
+          "x": "The [constructivist approach](card:Constructivist%20approach%20to%20meaning) adds that the building can be done differently. Crystal Park's [meaning-making model](card:Meaning-making) describes what happens when it has to be. People hold a global meaning, their general orienting system of beliefs and goals, and appraise each event against it. When the two clash, the discrepancy creates distress, and people revise either the event's meaning or the global meaning until the gap closes ([Park, The Meaning Making Model](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)). The sense of purpose, on this view, is repaired and not only discovered."
         },
         {
           "t": "p",
-          "x": "[Sisyphus](card:Sisyphus): the figure Camus takes as the absurd hero, set against the workman of today, whose fate is the same and becomes tragic only when it becomes conscious."
-        },
-        {
-          "t": "q",
-          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
+          "x": "The usual form of the repair is a story. McAdams proposed in the 1980s \"that what Erikson called an identity is really an inner story or personal myth that integrates a person's life in time (past, present, and future) and social space\" ([McAdams, Narrative Identity and the Redemptive Self](https://www.erudit.org/en/journals/nw/2022-v11-nw09057/1108951ar.pdf)). His [life story model](card:Life%20story%20model) finds that highly generative adults tell disproportionately many redemption sequences, in which a bad scene turns good. McAdams adds the caveat himself: stories of agency and redemption \"tend to be highly favored, at least in American society\" ([McAdams 2019](https://web.ics.purdue.edu/~drkelly/McAdamsFirstWeStoriesThenTheyChangedUs2019.pdf)), which is a reason to hold the finding carefully. Ricoeur's account in [Narrative as meaning-making](card:Narrative%20as%20meaning-making) is that plot makes a life followable, and Husserl's [constitution of meaning](card:Constitution%20of%20meaning) is the older claim that consciousness builds the meaningful world and does not receive it."
         },
         {
           "t": "p",
-          "x": "[Nihilism](card:Nihilism): the family's extreme position: no intrinsic values, no objective meaning, no known purpose in life; Nietzsche's diagnosis of the cultural condition behind the modern pursuit of purpose."
+          "x": "That gives two ways to get a purpose: answer what life asks, or build it. Both depend on life being livable long enough to try. The next section is about what happens when it is not."
+        },
+        {
+          "t": "h",
+          "x": "When no answer comes"
+        },
+        {
+          "t": "h2",
+          "x": "Suffering and the stance"
         },
         {
           "t": "p",
-          "x": "[Boundary situations](card:Boundary%20situations): Jaspers's four experiences, death, chance, guilt and the struggle of existence, which cannot be bypassed or overcome and only become fully present when lived; for him, philosophy exists because such situations ask the questions purpose answers."
-        },
-        {
-          "t": "q",
-          "x": "\"But to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being.\" ([Jaspers, Way to Wisdom, quoted in Boundary situations](https://epimelea.com/library/jaspers-boundary-situations/))",
-          "s": null
+          "x": "Frankl's best-known stance is [tragic optimism](card:Tragic%20optimism): remaining optimistic \"in spite of the 'tragic triad,'\" which he lists as pain, guilt and death ([Frankl, The Case for a Tragic Optimism](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)). He turns each into a possibility: suffering into an achievement, guilt into a chance to change, and life's transience into a reason to act responsibly. He also bars the shortcut. Optimism, he writes, \"is not anything to be commanded or ordered\" ([Frankl, The Case for a Tragic Optimism](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf))."
         },
         {
           "t": "p",
-          "x": "Entries with a claim on the title that were read and left out: [Elan vital](card:Elan%20vital) is Bergson's metaphysics of life rather than a life's purpose, [Work engagement](card:Work%20engagement) and [Personal engagement](card:Personal%20engagement) are absorption constructs, and [Eudaimonic well-being](card:Eudaimonic%20well-being) belongs to the Genuine Flourishing boundary."
+          "x": "The research on [post-traumatic growth](card:Post-traumatic%20growth) is the nearest empirical relative. Tedeschi and Calhoun's inventory has five factors: new possibilities, relating to others, personal strength, spiritual change and appreciation of life ([Tedeschi and Calhoun 1996](https://pubmed.ncbi.nlm.nih.gov/8827649/)). Growth is no way around distress. In their later chapter they write that posttraumatic growth is \"common but certainly not universal,\" and that clinicians should never expect every survivor to experience it ([Tedeschi et al., Clinical Applications of Posttraumatic Growth](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2015/01/Tedeschi-et-al-Joseph-Ch-30-Clinical-applications-of-PTG.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "[Meaning-centred therapy](card:Meaning-centred%20therapy) puts Frankl's ideas into a protocol. Breitbart and colleagues built a group treatment for advanced cancer \"to help patients with advanced cancer sustain or enhance a sense of meaning, peace and purpose in their lives, even as they approach the end of life\" ([Breitbart et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3648880/)). It has been tested in several trials since, and It is the best-tested attempt I hold to work on purpose late in life."
+        },
+        {
+          "t": "h2",
+          "x": "The world's silence"
+        },
+        {
+          "t": "p",
+          "x": "Some positions deny that life comes with a meaning attached. Camus names the clash [the absurd](card:The%20absurd): \"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" It is a relation, he writes, lying in neither side alone ([Camus, The Myth of Sisyphus, trans. O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)). His answer is [revolt](card:Revolt): neither ending the confrontation nor papering it over. [Sisyphus](card:Sisyphus) is the figure for it, and the essay ends by insisting that the struggle itself toward the heights is enough to fill a man's heart."
+        },
+        {
+          "t": "p",
+          "x": "Nihilism is the position Camus works against. In the Internet Encyclopedia of Philosophy's wording, [existential nihilism](card:Nihilism) is \"the notion that life has no intrinsic meaning or value\" ([Pratt, IEP](https://iep.utm.edu/nihilism/)). Beauvoir's reading is that nihilism is \"disappointed seriousness which has turned back upon itself\" ([de Beauvoir, The Ethics of Ambiguity](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)). Her claim is that the nihilist is a person who wanted something solid, found nothing, and then decided to want nothing."
+        },
+        {
+          "t": "p",
+          "x": "Jaspers adds the [boundary situations](card:Boundary%20situations): death, suffering, struggle, chance and guilt. They cannot be solved, only faced, and he writes that people react \"either by obfuscation or, if we really apprehend them, by despair and rebirth\" ([Jaspers, Way to Wisdom, quoted at Epimelea](https://epimelea.com/library/jaspers-boundary-situations/)). Frankl, Camus and Jaspers agree that these limits cannot be removed and differ about what a person should do at them, which is the first disagreement below."
         },
         {
           "t": "h",
@@ -4549,25 +4400,35 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: is there a meaning a life is for, such that the task is to find and answer it, or does the world give no answer, such that the task is to stand in the gap honestly? Frankl's position, from the book that carries it:"
-        },
-        {
-          "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
+          "x": "Imagine someone in the middle of a long illness who says that nothing about it makes sense. Frankl would answer that the question is mis-set: life is asking something of this person, and the reply is the meaning. Camus would answer that the silence is the fact, and the honest stance is to stay in it. The constructivists would say the person is already building a meaning whether they notice or not."
         },
         {
           "t": "p",
-          "x": "Camus's position, from the essay that carries his:"
+          "x": "Frankl and Camus ask the same thing, whether a human life can be about something, and they part over where an answer would come from. Frankl treats it as waiting to be given. Camus treats the world's silence as the standing condition and revolt as the coherent reply. What the dispute turns on is the status of the experience Frankl describes: whether a felt answerability is a discovery about the world or a stance taken toward it. I lean toward the stance reading, because no source I hold tests the claim, and because the constructivist work shows meanings can be rebuilt. I still find Frankl's reversal useful in practice, since it moves attention from what I expect to what is asked."
         },
         {
-          "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
+          "t": "h2",
+          "x": "Must a purpose reach beyond the self?"
         },
         {
           "t": "p",
-          "x": "Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. I hold both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered."
+          "x": "The definitions differ. Frankl makes self-forgetting the condition of being fully human. Yeager and colleagues define purpose as a goal motivated by benefit to the self and by connection to the world beyond it, and test that mixed motive. Steger's definition asks only that goals be long-term, highly motivating and strongly committed, with no requirement that they reach anyone else."
+        },
+        {
+          "t": "p",
+          "x": "These are different claims. Frankl is making a claim about what a person is, Yeager one about what sustains effort, and Steger one about how to measure purpose. The evidence on beyond-self motives comes mostly from learning, in the young, so it cannot decide the question for a whole life. I lean toward Yeager's mixed definition. It is the only one of the three that was tested against a real behaviour, and it does not ask a person to be nobody in order to matter."
+        },
+        {
+          "t": "h2",
+          "x": "Is a coherent life story a way to purpose, or a trap?"
+        },
+        {
+          "t": "p",
+          "x": "McAdams and others find that the stories people tell, and especially redemptive ones, go along with generativity and well-being. Taleb's [narrative fallacy](card:The%20narrative%20fallacy) is the warning on the other side: we cannot look at a sequence of facts without weaving an explanation into them. The passage goes on: \"Where this propensity can go wrong is when it increases our impression of understanding\" ([Taleb 2007, as quoted in Kunst and Van de Wiel 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5045839/))."
+        },
+        {
+          "t": "p",
+          "x": "The two answer slightly different questions. McAdams asks what a story does for the person telling it. Taleb asks what the story does to the teller's confidence about causes. I think both are right. A story can orient a life and still mislead about why things happened, so I use it to decide what to do next and I hold it loosely as an account of what caused what."
         },
         {
           "t": "h",
@@ -4576,66 +4437,82 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The direction of improvement is toward aims a person is actually the author of, aims that reach beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance."
+          "x": "What I would vary on this theme is the author of the aims. A life can read like a list of obligations with no one behind them, with aims that only reach inward, work held purely as a job, and a meaning that is expected to arrive finished. The direction I want is aims a person owns, some of which reach past the person, work that can be entered as a calling, and a meaning treated as built from work, love and stance."
         },
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels I have selected as sources of that variation:"
+          "x": "The kernels I selected, grouped by what they do:"
+        },
+        {
+          "t": "h2",
+          "x": "Asking the question"
         },
         {
           "t": "n",
           "i": 1,
-          "x": "[The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): keeping \"What is this life for?\" alive as an ongoing inquiry rather than settling it with a fixed answer; the discipline of holding the question open, in Steger's vocabulary of presence and search."
+          "x": "[The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): keep \"what is this life for?\" open as an inquiry and not a settled answer, using Steger's vocabulary of presence and search. Notice how often you want to close it early."
         },
         {
           "t": "n",
           "i": 2,
-          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): a monthly sitting with the month's activities, asking each one the four reason questions the self-concordance researchers use to tell a chosen goal from an imposed one."
+          "x": "[Living the question](card:K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient with what is unsolved and to love the questions themselves. Notice what changes when you stop pressing for an answer you cannot yet live."
+        },
+        {
+          "t": "h2",
+          "x": "Checking what you serve"
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[Legacy letter](card:K224%20%E2%80%94%20Legacy%20letter): a letter to be read after your death, written to one named person, covering what you learned, what you love and what you left unfinished."
+          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): once a month, ask of each activity the four reason questions the self-concordance researchers use to separate a chosen goal from an imposed one. Notice which ones turn out to be imposed."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Absurd-revolt practice](card:K318%20%E2%80%94%20Absurd-revolt%20practice): for a situation that is genuinely absurd or unjust and cannot be changed, naming it without consolation and then choosing the next action inside it; stance work, in the spirit of Camus, not silver-lining work."
+          "x": "[Project alignment](card:K313%20%E2%80%94%20Project%20alignment): list the projects that currently structure your life and ask of each whether it expresses who you want to be. Notice which projects you would drop if nobody were watching."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[Eulogy exercise](card:K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want delivered at your funeral, clarifying what you stood for by confronting mortality."
+          "x": "[Life chapter mapping](card:K332%20%E2%80%94%20Life%20chapter%20mapping): divide your life into chapters and write one sentence on the turning point and one on what it taught. Notice where the story hangs together too neatly."
+        },
+        {
+          "t": "h2",
+          "x": "Facing the limit"
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes of writing in response to \"I will die. The timing is unknown. What does this make urgent?\", then one insight translated into one action this week; the kernel notes the mortality-salience finding that confronting death, when not defended against, can shift priorities toward intrinsic values."
+          "x": "[Eulogy exercise](card:K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want delivered at your funeral. Notice what it says you stood for."
         },
         {
           "t": "n",
           "i": 7,
-          "x": "[Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): each week, one act of service or creation that outlasts the week; the weekly cadence and the outlasts-the-week test are the practice's own, as the kernel card states, and the research tradition behind it is generativity."
+          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): spend five minutes on \"I will die. The timing is unknown. What does this make urgent?\", then turn one insight into one action this week. The kernel notes the finding that confronting death, when it is not defended against, can shift priorities toward intrinsic values."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[Living the question](card:K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient toward all that is unsolved in the heart and to love the questions themselves, living them now rather than seeking answers that cannot yet be lived."
+          "x": "[Absurd-revolt practice](card:K318%20%E2%80%94%20Absurd-revolt%20practice): for a situation that is truly absurd or unjust and cannot be changed, name it without consolation and then choose the next action inside it. This is an editorial exercise in Camus's spirit and not a tested protocol."
+        },
+        {
+          "t": "h2",
+          "x": "Giving it away"
         },
         {
           "t": "n",
           "i": 9,
-          "x": "[Project alignment](card:K313%20%E2%80%94%20Project%20alignment): listing the projects that currently structure your life and asking of each whether it expresses who you want to be; Heidegger's projection behind the question, Ryff's purposeful engagement behind the dimension it tests."
+          "x": "[Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): each week, do one act of service or creation that outlasts the week. The cadence and the outlasts-the-week test are the practice's own, and the research behind it is generativity."
         },
         {
           "t": "n",
           "i": 10,
-          "x": "[Life chapter mapping](card:K332%20%E2%80%94%20Life%20chapter%20mapping): dividing a life into chapters and writing, for each, one sentence on the turning point and one on what it taught; the map builds the narrative coherence the life-story research links to meaning and well-being."
+          "x": "[Legacy letter](card:K224%20%E2%80%94%20Legacy%20letter): write a letter to be read after your death, to one named person, covering what you learned, what you love and what you left unfinished. Notice what you could say now."
         },
         {
           "t": "p",
-          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, the chapter mapping on the life-story and Hero's Journey studies, and the revolt practice is an editorial exercise in Camus's spirit rather than a tested protocol."
+          "x": "The evidence under these varies. The meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, and the chapter mapping on the life-story studies. Treat the revolt practice as an experiment."
         },
         {
           "t": "vs",
@@ -4648,19 +4525,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "These are the stories I would hand someone who asked what a purpose looks like in a life. Each is retold in a line, and the full telling is on the card."
         },
         {
           "t": "h2",
-          "x": "What a purpose is taken to be"
+          "x": "A life that was never asked"
         },
         {
           "t": "p",
-          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge who has lived the life everyone around him considers correct falls ill and, in his long dying, finds the whole respectable edifice was \"not the real thing\"; he had lived it as others lived theirs, without once asking whether it was his."
+          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich's%20Question): a judge who has lived the life everyone around him approves of falls ill and finds, in his long dying, that it was \"not the real thing.\" He had lived it as others lived theirs, without once asking whether it was his."
         },
         {
           "t": "p",
-          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): Frankl's camps memoir argues the will to meaning is the primary human motivation, and carries the famous line that he who has a why to live can bear almost any how: meaning does not remove suffering, it changes the relation to it."
+          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl's%20Why): Frankl's memoir argues that the will to meaning is the primary human motivation and carries the line that whoever has a why to live can bear almost any how. Meaning does not remove the suffering, it changes the relation to it."
         },
         {
           "t": "h2",
@@ -4668,23 +4545,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST036 — Frankl Chooses the Attitude](card:ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude): the psychiatrist in Auschwitz, observing that prisoners who retained something to live for endured differently, and reporting a freedom that remained when everything else was taken."
+          "x": "[ST036 — Frankl Chooses the Attitude](card:ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude): the psychiatrist in Auschwitz observes that prisoners who kept something to live for endured differently, and reports a freedom that remained when everything else was taken."
         },
         {
           "t": "p",
-          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms."
+          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl's%20Meaning): prisoners who kept a reason to live, a person to return to or a work to finish, endured differently. Frankl limits the claim, because most of those he described died."
         },
         {
           "t": "h2",
-          "x": "Work as calling"
+          "x": "Work as a calling"
         },
         {
           "t": "p",
-          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): decades of hand-drawn grids in solitude in the New Mexico desert, titled \"Innocence,\" \"Gratitude,\" \"Happiness\"; the grid was the trap, and the meaning was what it was a trap for."
+          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): decades of hand-drawn grids in solitude in the New Mexico desert, titled \"Innocence,\" \"Gratitude,\" \"Happiness.\" The grid was the trap, and the meaning was what it was a trap for."
         },
         {
           "t": "p",
-          "x": "[ST052 — Beethoven Writes the Late Quartets](card:ST052%20%E2%80%94%20Beethoven%20Writes%20the%20Late%20Quartets): completely deaf, he writes quartets unlike anything written before, at a level of interior detail that could not be reached by anyone listening for the market."
+          "x": "[ST052 — Beethoven Writes the Late Quartets](card:ST052%20%E2%80%94%20Beethoven%20Writes%20the%20Late%20Quartets): completely deaf, he writes quartets unlike anything before them, at a depth of interior detail that no one writing for the market could reach."
         },
         {
           "t": "p",
@@ -4692,7 +4569,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST005 — Hirayama's Perfect Days](card:ST005%20%E2%80%94%20Hirayama%27s%20Perfect%20Days): a Tokyo toilet cleaner waters his plants, photographs the light through the trees, reads before sleep; asked why he is content he does not explain, because the days are the answer, and the film refuses to reveal a backstory that would explain them for him."
+          "x": "[ST005 — Hirayama's Perfect Days](card:ST005%20%E2%80%94%20Hirayama's%20Perfect%20Days): a Tokyo toilet cleaner waters his plants, photographs light through trees and reads before sleep. Asked why he is content he does not explain, because the days are the answer."
         },
         {
           "t": "h2",
@@ -4700,23 +4577,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him."
+          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela's%20Twenty-Seven%20Years): twenty-seven years in prison, thirteen of them working the lime quarry on Robben Island and studying his jailers' language and history. Released, he negotiates with the government that jailed him."
         },
         {
           "t": "p",
-          "x": "[ST086 — The Bodhisattva and the Tigress](card:ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): a bodhisattva finds a tigress too weak from hunger to feed her cubs, and lies down where she can reach him, ending his life so that hers and the cubs' continue."
+          "x": "[ST086 — The Bodhisattva and the Tigress](card:ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): a bodhisattva finds a tigress too weak from hunger to feed her cubs and lies down where she can reach him, ending his life so that hers and the cubs' continue."
         },
         {
           "t": "h2",
-          "x": "The long journey to a purpose"
+          "x": "The long road to a purpose"
         },
         {
           "t": "p",
-          "x": "[ST092 — Alvin Straight Rides the Mower](card:ST092%20%E2%80%94%20Alvin%20Straight%20Rides%20the%20Mower): 73, his eyes too bad to drive and his hips too bad to walk, he hitches a trailer to his riding lawnmower and travels 240 miles at five miles an hour to reconcile with his brother; the slowness is the argument."
+          "x": "[ST092 — Alvin Straight Rides the Mower](card:ST092%20%E2%80%94%20Alvin%20Straight%20Rides%20the%20Mower): at 73, with eyes too bad to drive and hips too bad to walk, he hitches a trailer to his riding lawnmower and travels 240 miles at five miles an hour to reconcile with his brother. The slowness is the argument."
         },
         {
           "t": "p",
-          "x": "[ST089 — Layman Pang Sinks the Fortune](card:ST089%20%E2%80%94%20Layman%20Pang%20Sinks%20the%20Fortune): a wealthy merchant empties his house and fortune into the river and lives as a layman weaving bamboo sieves with his wife and children; the tradition's proof case that awakening does not require monasticism."
+          "x": "[ST089 — Layman Pang Sinks the Fortune](card:ST089%20%E2%80%94%20Layman%20Pang%20Sinks%20the%20Fortune): a wealthy merchant empties his house and fortune into the river and lives as a layman weaving bamboo sieves with his family. The tradition's proof that awakening does not require monasticism."
         },
         {
           "t": "h2",
@@ -4724,11 +4601,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the stories people tell about their lives, not just the events, predict well-being; suffering narrated as leading to growth predicts best of all, and the telling is a shaping, not a report."
+          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams's%20Redemptive%20Sequences): the stories people tell about their lives predict well-being, and suffering narrated as leading to growth predicts best of all. The telling is a shaping, not a report."
         },
         {
           "t": "p",
-          "x": "[ST280 — Pi's Two Stories](card:ST280%20%E2%80%94%20Pi%27s%20Two%20Stories): the same survival told two ways, with a tiger or with a cook; the investigators prefer the tiger, and the story asks what it is to choose the telling a life can be lived inside."
+          "x": "[ST280 — Pi's Two Stories](card:ST280%20%E2%80%94%20Pi's%20Two%20Stories): the same survival told two ways, with a tiger or with a cook. The investigators prefer the tiger, and the story asks what it is to choose the telling a life can be lived inside."
         },
         {
           "t": "h2",
@@ -4736,15 +4613,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant futile labour as the worst punishment; Camus's conclusion is that the struggle itself toward the heights is enough to fill a man's heart, and one must imagine Sisyphus happy."
+          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant futile labour as the worst punishment, and Camus concludes that the struggle toward the heights is enough to fill a man's heart."
         },
         {
           "t": "p",
-          "x": "[ST278 — Dr. Rieux Fights the Plague](card:ST278%20%E2%80%94%20Dr.%20Rieux%20Fights%20the%20Plague): in the quarantined city the physician offers no theory of the plague's meaning; he treats the sick day after day, and his stated reason is plain, that it is the only thing a man can do in the face of suffering."
+          "x": "[ST278 — Dr. Rieux Fights the Plague](card:ST278%20%E2%80%94%20Dr.%20Rieux%20Fights%20the%20Plague): in the quarantined city the physician offers no theory of the plague's meaning. He treats the sick day after day, and his stated reason is plain: it is the only thing a man can do in the face of suffering."
         },
         {
           "t": "p",
-          "x": "[ST294 — The Demon's Question](card:ST294%20%E2%80%94%20The%20Demon%27s%20Question): Nietzsche's demon offers this life again, innumerable times, every pain and every joy in the same sequence; the question the story leaves the reader is whether to curse the demon or answer that it is divine."
+          "x": "[ST294 — The Demon's Question](card:ST294%20%E2%80%94%20The%20Demon's%20Question): Nietzsche's demon offers this life again, innumerable times, every pain and joy in the same sequence. The story leaves the reader a choice between cursing the demon and answering that it is divine."
         }
       ],
       "group": "flourishing",
