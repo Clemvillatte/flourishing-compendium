@@ -302,3 +302,35 @@ Mandela logline now reports the verified event only (inviting the
 warders as honoured guests) — "the new country built on recognition"
 was editorial interpretation, and it is removed. The other four recasts
 stood. Checker exit 0; registry rebuilt; node OK.
+
+## Disagreement section extended from one to three questions (2026-10-25, worker-pplx-dos30-1025l)
+
+Existing question ("Is anger ever fitting?") untouched. Added, each
+quote matched by script against text fetched this session (whitespace
+and curly quotes normalised):
+1. Does courage need anger? Aristotle, Nicomachean Ethics III.8 (Ross,
+   MIT Classics): "act for honour's sake, but passion aids them";
+   "seems to be the most natural, and to be courage if choice and
+   motive be added"; "are pugnacious but not brave". Seneca, On Anger
+   I.9 (Stewart, Gutenberg 64576, same carrier already used): Aristotle
+   reported as saying anger "is necessary, nor can any fight be won
+   without it" and "not as a general, but as a soldier"; Seneca's
+   dilemma and "a virtue, being self-sufficient, never needs the
+   assistance of a vice". The blunter Aristotle sentence is Seneca's
+   report; the page says it was not found in the Ethics. Book and
+   chapter come from the carrier's own Book and roman-numeral
+   markers (Book I, ch. IX).
+2. Does venting discharge anger, or does time? Bushman 2002, PSPB
+   28(6), 724-731 (umich PDF, text extracted): catharsis-theory
+   sentence, the Breuer and Freud wording as Bushman reports it
+   (secondary for Freud; the page attributes it to Bushman), 600
+   college students, "doing nothing at all was more effective than
+   venting anger". Seneca On Anger II.29 (Book II by the carrier's
+   marker): "The greatest remedy for anger is delay". The page says
+   the two are not the same claim and that follow-up literature on
+   other forms of expression was not read; the "Express by shaping,
+   not venting" card is called a hypothesis there. The lean is marked.
+
+Checker: exit 0 (56 card links, 22 headers, 7 carriers). Count
+correction: anger now has THREE substantiated questions. The same
+Bushman carrier also supports the frustration dossier question 2.
