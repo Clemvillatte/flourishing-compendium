@@ -583,3 +583,43 @@ carrier checks (MediaWiki API). Remaining pending for a future pass,
 unchanged: body memory, embodied cognition, somatic marker, pranayama,
 yangsheng, Yoga Sutra 1.34 (Woods carrier named), Qi/Legge, the
 phantom-hand clause, and the ST047 card correction flagged above.
+
+## Verification batch 5 (2026-10-25, worker-pplx-dos17-1025h)
+
+Four more inherited glosses verified. (1) Body memory: the gloss
+("Fuchs's totality of implicit dispositions of perception and
+behaviour sedimented in earlier experience") was confirmed against
+the opened Fuchs PDF
+(klinikum.uni-heidelberg.de/fileadmin/zpm/psychatrie/fuchs/Body_memory_Unconsious.pdf):
+"implicit dispositions of perception and behavior mediated by the body
+and sedimented in the course of earlier experiences." (2) Somatic
+marker: the gloss ("decision-making influenced by marker signals
+arising in bioregulatory processes, some conscious, some not") was
+confirmed against the opened Damasio PDF
+(people.ict.usc.edu/~gratch/CSCI534/Readings/The somatic marker
+hypothesis.pdf): "marker signals that arise in bioregulatory
+processes... This influence can occur at multiple levels of
+operation, some of which occur consciously." (3) Embodied cognition:
+the SEP embodied-cognition entry was opened and confirms verbatim the
+three-claims organization the card quotes (Conceptualization:
+"The properties of an organism's body limit or constrain the concepts
+an organism can acquire"; Replacement: the computational concepts
+"must be abandoned in favor of others"; Constitution: the body
+"plays a constitutive role in cognition, literally as a part of a
+cognitive system"). The Barsalou sentence my gloss paraphrases
+("grounded cognition proposes that modal simulations, bodily states,
+and situated action underlie cognition") is the Embodied cognition
+card's own block quote from Barsalou 2008; the barsaloulab.org PDF
+could not be downloaded this session (server returns an error page),
+so the sentence is confirmed at card level, with the paper's
+existence and phrasing consistent with the opened SEP entry's account
+of the field. (4) Qi: the gloss ("the Chinese word for the
+breath-like, moving stuff early thinkers took everything to be made
+of; the card notes Legge rendered it as breath") matches the Qi card
+verbatim; the card's IEP carrier was not reopened this session.
+
+Still pending, for a future pass: pranayama and yangsheng glosses
+(card-level only), Yoga Sutra 1.34 (Woods translation carrier named,
+not reopened), the phantom-hand clause, and the ST047 card correction
+flagged above. Checks re-run after the corrections in the previous
+entry: checker exit 0, 0 dense, Husserl quote found.
