@@ -3755,3 +3755,11 @@ Ran the per-card review the advisor demanded (regex alone is weaker than "no cle
 - K222 Mortality reflection and K167 Equanimity under the eight worldly winds: both have Buddhist-tradition references in their Evidence sections, but the practices themselves are generic — marginal, needs owner ruling on whether Buddhist counts as a modality
 
 Current modality distribution after repairs: ACT 14, MI 14, CBT 15, CFT 9, MBCT 11, Stoic 9, DBT 2, BA 2 = 76 modality-tagged; 240 general (down from 246).
+
+## PER-CARD REVIEW PASS — final tally (gm-pplx-kern1-1025a, 2026-10-25 15:27Z)
+
+Total sampled: 155 general cards across 5 rounds. **Reclassified: 10** (7 Stoic, 1 CBT, plus batch-2 K277/K274/K364 and batch-3 K230/K286 all Stoic). **Confirmed false positives: ~15** with documented reasons (journal/channel names, wrong-researcher homonyms, citation-title matches). **Flagged for owner decisions: 8 marginal cards** — K292/K293 Confucian, K309 Phenomenological, K168 Buddhist (Buddhaghosa), K411/K419 Daoist, K119 ERP (Foa), K184 Opposite-action (Related-link names DBT family but body doesn't), K102/K116/K100/K151/K206 mindfulness/ACT-adjacent.
+
+**The marginal cards reveal the real design question:** the work order says "sorted by therapeutic modality" but the corpus's tradition-based cards (Buddhist, Daoist, Confucian, Aristotelian, Phenomenological, Existential) don't map cleanly to clinical modalities. The Stoic precedent (owner already had Stoic as a modality) suggests tradition-based groups are acceptable — but creating NAV nodes for Buddhist/Daoist/Confucian/Aristotelian/Phenomenological/Existential is a corpus-design decision that needs the owner's ruling. I have NOT created any of these.
+
+Current distribution after all repairs: Stoic 16 (up from 5), CBT 16 (up from 13), ACT 14, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 = 84 modality-tagged; 232 general (down from 246). Zero link breakage maintained throughout; build green.
