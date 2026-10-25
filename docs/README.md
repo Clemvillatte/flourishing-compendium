@@ -10,12 +10,12 @@ The core programme that validated all 2,182 principles and 2,263 concepts. Band 
 - Rules: `docs/enrichment/OPERATIONS.md`, `PROTOCOL.md`, `PROTOCOL-PRINCIPLES.md`
 
 ### Dossiers — ACTIVE
-41 published dossiers (Genuine Flourishing model), post-publication reviews, dispute-bar repairs, GF-model conversions of the remaining old-map dossiers, publishing flips (registry + rebuild are supervisor-only).
+42 published dossiers (Genuine Flourishing model), post-publication reviews, the 26-dossier below-bar repair pass and 3 old-map restructures (see [PIPELINE-2026-10-26.md](enrichment/PIPELINE-2026-10-26.md)), publishing flips per the publish-then-review directive.
 - Entry: `docs/enrichment/dossiers/HANDOFF.md` + `DOSSIER-MODEL.md`
 - Gate: `scripts/dossier_check.py` exit 0 before every push
 
 ### Degrees — ACTIVE (owner priority)
-Phase 1 pilot completion and source verification. NO paywalled content anywhere (owner ruling 2026-10-25).
+Phase 1 pilot completion and source verification; execution order and worker count on [PIPELINE-2026-10-26.md](enrichment/PIPELINE-2026-10-26.md). NO paywalled content anywhere (owner ruling 2026-10-25).
 - Entry: `docs/degrees/TASKBOARD.md`; mechanics: `docs/degrees/OPERATIONS.md`
 - Worker prompt: `docs/degrees/WORKER-PROMPT.md`
 
