@@ -1507,3 +1507,30 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole lecture, 1:32:05.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M04-E03: Dreyfus on Heidegger — the Berkeley Lectures (restored web edition)
+
+- Identity and access: page opened 2026-10-25 at
+  https://dreyfus-lectures.vercel.app/; described on the page as an
+  unofficial, non-commercial study edition, unaffiliated with UC
+  Berkeley or the Dreyfus estate; source recordings are UC Berkeley
+  Philosophy 185 (Fall 2007, Hubert L. "Bert" Dreyfus on Heidegger's
+  Being and Time) preserved at the Internet Archive. Whether streaming
+  requires login is not stated on the page.
+- Duration: printed per lecture where available, e.g. Lecture 1 "Why
+  Heidegger Matters" 47:23; Lecture 2 1:12:22; Lecture 3 1:10:37;
+  later lectures are listed as "in restoration" with no duration.
+- Instructor credentials: Hubert L. Dreyfus, UC Berkeley (per the opened
+  page).
+- Language: English.
+- Content coverage: the opened page lists lecture titles (Why Heidegger
+  Matters; Existence Is the Essence; The Invisible Background;
+  Worldhood of the World I-II; Critique of Descartes I-II; Spatiality;
+  The One; Disposedness; Discourse; Falling; Care; Reality; Truth) —
+  matching the Division I structure of Being and Time. Note the edition
+  is a restoration in progress: only the first three lectures are listed
+  as "restored."
+- Relevant segment: all restored lectures.
+- Verification status: verified-page (2026-10-25); only 3 of the
+  lectures restored at the time of opening — flagged as an incomplete
+  resource.

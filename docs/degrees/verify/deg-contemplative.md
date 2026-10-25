@@ -1302,3 +1302,23 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole session, 59:18.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional pages pending.
+
+### SRC-M22-YV03: Yoga Sutra Lecture Series — Dr. K. S. Balasubramanian (Western Washington University)
+
+- Identity and access: oembed confirms the lecture on the Western
+  Washington University channel
+  (https://www.youtube.com/watch?v=NeVOkbkksx0); watch page opened
+  2026-10-25. Session of 7 April 2022 from a Thursday series (7, 14, 21,
+  28 April).
+- Duration: 1:03:26 (watch page, 2026-10-25).
+- Instructor credentials: Dr. K. S. Balasubramanian, described as an
+  award-winning international scholar, author and professor (per the
+  uploader description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Patanjali's
+  Yoga Sutra as Sanskrit aphorisms guiding self-knowledge; its eight-part
+  system as the foundation of classical yoga, influential on modern
+  Hatha yoga.
+- Relevant segment: whole lecture, 1:03:26.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.

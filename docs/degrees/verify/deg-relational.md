@@ -409,3 +409,45 @@ standard.
 - Relevant segment: whole lecture, 2:34:02.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M04-R15: Rangahau Speaker Series — Carl Mika (Māori philosophy)
+
+- Identity and access: oembed confirms the talk on the Wānanga TV
+  channel (https://www.youtube.com/watch?v=-ILyEN5-6wA); watch page
+  opened 2026-10-25.
+- Duration: 53:26 (watch page, 2026-10-25). FLAG: catalog recorded
+  1:00:40 for the same source ID — dual-figure, needs supervisor
+  reconciliation.
+- Instructor credentials: Carl Mika, Māori philosophy scholar (per the
+  uploader description; institutional page not opened this session).
+- Language: English (with Māori karakia and mihimihi within the
+  recording).
+- Content coverage (uploader description, read 2026-10-25): Māori
+  philosophy including Martin Heidegger's concept of being, whakaaro,
+  metaphysics, the interconnected world, philosophy of language and
+  logic, and rangahau (research); audience questions on kaupapa Māori and
+  the productivity of philosophy. The recording includes a formal
+  opening (karakia at 0:00, mihimihi at 4:11) before the talk proper at
+  6:38.
+- Relevant segment: talk proper 6:38-53:26 (about 46 minutes).
+- Verification status: verified-video (2026-10-25); dual-figure duration
+  flagged; credentials from the description, institutional page pending.
+
+### M04-R12: Beyond Autonomy — a Relational Perspective on an Ethics of Care (Elisabeth Conradi, Oxford Institute of Population Ageing)
+
+- Identity and access: page opened 2026-10-25 at
+  https://www.ageing.ox.ac.uk/videos/view/22; no payment or login
+  encountered. Part of the Oxford series "Care Practices: towards a
+  re-casting of Ethics."
+- Duration: not printed on the page.
+- Instructor credentials: Professor Elisabeth Conradi, Professor of
+  Social Theory and Philosophy, Baden-Württemberg Cooperative State
+  University, Stuttgart (per the opened page).
+- Language: English.
+- Content coverage: the title announces a relational perspective on an
+  ethics of care beyond autonomy; the opened page provides no further
+  description of the talk's content, so coverage rests on the title —
+  FLAGGED title-only coverage.
+- Relevant segment: whole talk.
+- Verification status: verified-page (2026-10-25); duration unprinted
+  and coverage title-only — flagged for the supervisor.
