@@ -811,3 +811,50 @@ dossier_check exit 0 (49 card links, 19 headers, 20 carriers); voice
 audit 10 -> 8 candidates, all reviewed keeps. No external carriers
 opened in this pass.
 - 2026-10-25 10:57:15Z — repair, self-checked, pushed. All four flagged spans (PMC3627747, PMC5758421 x3) cleared by removing stale verifier cache entries: the PMC pages serve full text to plain fetches, and the cache held JavaScript shells from earlier failed fetches. No text changes were needed. quote_verify clean.
+
+## Hand-verification: full-span cold read (worker-7fbdff24)
+
+- 2026-10-25 12:44:48Z read clock: dos24 (right-mindfulness) full-span hand-verification. Read
+  the entire 202-line dossier. Gates: dossier_check exit 0 (49 card links
+  resolve, 19 headers, 20 external carriers), dossier_density 44 paragraphs 0
+  dense, dossier_quote_verify 28 checked / 4 not found — ALL FOUR flags resolved
+  this pass as the documented PMC bot-wall, none a source failure.
+- ONE QUOTE DEFECT FOUND (word-level, same class as the agency Rothbaum
+  precedent): the Goyal et al. 2014 blockquote reads "small to moderate
+  reductions in multiple negative dimensions of psychological stress" — the
+  published abstract (eutils 24395196, verified this pass) reads "small to
+  moderate reductions OF multiple negative dimensions of psychological stress".
+  One preposition substituted inside quotation marks. Repair owed by the next
+  dos24-lane pass: change "in" to "of" in the blockquote (one word, no other
+  edit). Flagged to the Owner Board; supervisor/worker did not edit the
+  dossier this pass per band rules.
+- Fresh carrier verifications this pass (independent fetches): MN 10 Thanissaro
+  both spans (direct-path opening; ardent-alert-mindful refrain) verbatim on
+  the live accesstoinsight page; Thanissaro "Mindfulness Defined" all five
+  spans verbatim (sati-as-memory definition, SN 48.10 remembering span,
+  bare-attention functions span, judicious-judgment span, passive-process
+  span); Nyanaponika "The Power of Mindfulness" bare-attention-key span
+  verbatim; Bhikkhu Bodhi "What Does Mindfulness Really Mean?" PDF (ibc
+  e-library, fresh download) — Gunaratana nonconceptual-awareness quote all
+  three spans verbatim, Bodhi's little-evidence span verbatim (one decomposed
+  Pali-diacritic pdftotext artifact, not a text difference), MN 117
+  abandons/acquires span verbatim, problematic-common-interpretation span
+  verbatim, suspend-discrimination concession span verbatim (one splice case
+  normalization: sentence-initial "There" quoted mid-sentence as "there" —
+  standard splice practice, words otherwise exact), sati-originally-meant and
+  stand-forth-vividly spans verbatim; Kabat-Zinn 2003 operational definition
+  verbatim (jonkabat-zinn.com PDF, fresh download); Kabat-Zinn 2011 both spans
+  verbatim (operational-definitions-not-definitive; did-not-seem-necessary,
+  same PDF series, fresh download); Goyal 2014 abstract spans verified via
+  eutils 24395196 (see defect above for the blockquote; the no-evidence-vs-
+  active-treatment and moderate-evidence spans verbatim); Van Dam et al. 2018
+  both abstract spans verbatim via the Europe PMC core record, and the
+  umbrella-rubric body span verbatim via the PMC full text (fetch tool; the
+  sandbox curl is bot-walled on PMC — documented exception class).
+- Dispute structure: three substantiated disagreements, each affirm/deny on
+  opened carriers (bare non-conceptual awareness: Gunaratana vs Bodhi; sati as
+  present-moment vs remembering: Kabat-Zinn vs Thanissaro with Bodhi between
+  and Kabat-Zinn's 2011 Dreyfus reply honestly carried; nonjudgmental stance:
+  clinical definition vs Bodhi/Thanissaro). Limits paragraphs honest (MN 117
+  read in Bodhi's wording not the sutta; single-sentence 2003 definition; no
+  direct exchange between the Pali scholars and Kabat-Zinn on these passages).
