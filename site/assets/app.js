@@ -1069,7 +1069,9 @@ function mdToHtml(src) {
     if (/^\s*>/.test(line)) {
       let buf = [];
       while (i < lines.length && /^\s*>/.test(lines[i])) { buf.push(lines[i].replace(/^\s*>\s?/, '')); i++; }
-      out += '<blockquote>' + mdToHtml(buf.join('\n')) + '</blockquote>';
+      // modality line: red #E34234 (owner directive) — rendered distinctly from ordinary blockquotes
+      const isModality = buf.length && /^\*\*Therapeutic approach:/.test(buf[0].trim());
+      out += (isModality ? '<blockquote class="modality">' : '<blockquote>') + mdToHtml(buf.join('\n')) + '</blockquote>';
       continue;
     }
     // list
