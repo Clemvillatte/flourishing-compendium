@@ -87,3 +87,11 @@ This worker re-spliced with `scripts/dossier_registry_build.py --rebuild=<slug>`
 Operational note: running `scripts/dossier_build.py` with no arguments is
 destructive (it gutted app.js and overwrote the-self.md in a scratch run;
 both reverted cleanly before any push). Use the registry build only.
+## Post-fix quote re-verify (verifier p-value fix, 11:10Z)
+
+Re-ran dossier_quote_verify on the seven repaired dossiers after the supervisor's
+bounded-regex fix: sadness-and-grief 32/1, right-view 20/2, right-intention 36/3,
+right-effort 17/2, motivation 10/2, right-mindfulness 28/1, fear 12/2 (checked/not
+found). All not-found spans remain the ledger-documented fetch-artifact class
+(PMC full-text fetch artifacts, e.g. PMC2731358; wikisource Seneca) — no new
+exceptions, no touched quotes.
