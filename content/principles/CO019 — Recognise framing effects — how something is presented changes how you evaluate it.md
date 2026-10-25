@@ -18,7 +18,7 @@ The effect holds where decisions matter most. When physicians and patients chose
 
 Later research had to sort out what "framing" even names: Levin, Schneider, and Gaeth argued that the literature's mixed findings arose because "different studies have employed different operational definitions of framing" (Levin et al., 1998). But the core observation survived the sorting — whether information is stated in positive or negative terms changes judgments and decisions. A frame is not a neutral container that carries the facts; it tells you what to count.
 
-**Plain words** Framing effects: the same numbers, stated one way or the other, produce different decisions — lives saved or lives lost, gains or losses. The frame is a selector that tells you what to count. Ask for the other frame before you decide.
+**Plain words** Every set of facts arrives wearing an outfit. The same hospital numbers walk in dressed as "survival" and people relax; dressed as "mortality" and people flinch. The outfit is not lying about the facts, it is choosing which facts to show first. The defense is simple and cheap: when a decision matters, ask to see the same story in the other clothes.
 
 *For example:* The treatment choice that shifts when the statistics arrive as "90 will survive" rather than "10 will die" — same data, different decisions, documented for physicians and patients alike. The person who asks for both frames before deciding has stopped letting whichever frame arrived first do the deciding.
 
