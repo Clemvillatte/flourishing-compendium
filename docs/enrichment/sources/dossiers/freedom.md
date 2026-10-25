@@ -429,3 +429,47 @@ headers, 13 carriers); density 0; quote_verify 15 checked / 4 not
 found (all four Constant archive.org PDF spans, exception recorded
 above); prose em dashes outside quotes and card-title link text:
 zero; no paragraph over 150 visible words.
+
+## Advisor QC round 2 applied (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+Round 2 findings and fixes:
+
+1. COMPILED-WITHDRAWAL DEFECT (found real): the builder has no
+   removal path and the renderer does not filter dossiers by
+   status, so the earlier "planned" flip left Freedom publicly
+   listed in fcDossiersData. The freedom entry was removed from
+   the compiled data directly (34 dossiers remain, roadmap retains
+   freedom, node --check and the DOM-stub test pass), commit 6ce22f7.
+   The registry (34 published / 7 planned, no duplicates) and the
+   compiled data now agree.
+2. Third-disagreement verification: the Beauvoir-vs-Sartre divergence
+   is documented as real by Beauvoir scholarship (Andrew, in The
+   Cambridge Companion to Simone de Beauvoir, ed. Card: "it is
+   generally agreed among Beauvoir scholars that Beauvoir's idea of
+   freedom differed significantly from Sartre's"; "Contrary to
+   Sartre's idea that two freedoms are always in conflict,
+   Beauvoir emphasizes... alliance and affinity"), and as
+   disputable by recent work (Kirkpatrick, Philosophy Compass 2023,
+   "Beauvoir and Sartre's 'disagreement' about freedom"). The
+   section now carries both: the primary-text opposition (BN's
+   conflict-as-essence vs EoA's others'-freedom-as-condition, both
+   spans verified verbatim in opened carriers) plus the scholarly
+   caveat sentence with the two carriers cited. Counted as the
+   third disagreement with the caveat on the record.
+3. Content fixes applied: Rousseau section lean no longer uses the
+   unsupported "no rail it cannot outvote" claim (now: the excerpt
+   gives no account of what would stop the general will there);
+   Skinner section now makes Sartre the opposing causal position
+   with Frankl explicitly a corroborating witness who does not
+   settle the causal question; the tentative stance is marked as
+   leaving the causal question open.
+4. ST047: the narrative now attributes the Doctor Zhivago note to
+   Krakauer's report ("Krakauer reports, he wrote...") rather than
+   stating it categorically, matching the Wikiquote Disputed flag.
+
+Checks: dossier_check exit 0 (16 links, 10 headers, 15 carriers),
+density 0, quote_verify 15 checked / 4 not found (all four Constant
+archive.org PDF spans, verified by eye, exception recorded above),
+prose em dashes outside quotes and card-title link text: zero, no
+paragraph over 150 visible words. Publication still held for
+advisor round 3.
