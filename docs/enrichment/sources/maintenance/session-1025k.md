@@ -228,3 +228,6 @@ SE011 (redemption and contamination sentence in [Sawatzki and Thomsen](https://p
 
 ## PP083 — Rogers, The Good Life
 Confirmed in the [Panarchy.org excerpt of On Becoming a Person](https://www.panarchy.org/rogers/person.html) that "selected by the total organism, when there is psychological freedom to move in any direction" is verbatim. The pp. 186-187 locator is cited in [Thomas et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8608581/). No change.
+
+## A109 — Aristotle, NE X.9 quote
+The page read "like earth which is to nourish the original entry"; both [Ross on MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) and the Oxford Ross text read "like earth which is to nourish the seed". Corrected. Sweep of the 37 MIT Classics and 52 Wikisource pages cited elsewhere found no other wording errors (differences were quote marks, footnote numbers and a cite inside the quote span).
