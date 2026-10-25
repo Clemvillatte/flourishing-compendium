@@ -4,7 +4,7 @@
   {
    "slug": "leisure",
    "worker": "worker-pplx-dos34-1025j",
-   "state": "QC-blocked draft: advisor QC round 1 applied (3 subsections recast as bounded comparisons; only Aristotle/Russell presented as genuine disagreement); 3-5 substantiated-disagreement bar NOT claimed met, supervisor/owner ruling flagged; artwork also pending (owner action)",
+   "state": "QC-blocked draft after rounds 1+1b: 2 substantiated divergences now on the page (Aristotle/Russell distribution; Csikszentmihalyi-LeFevre 1989 paradox-of-work vs classical assumption, both sources opened), plus 3 bounded comparisons; 3-5-bar question still flagged for supervisor/owner; artwork pending (owner action)",
    "verification": "all quotes raw-verified against freshly opened carriers (MIT Classics x3, Pieper iwcinsb PDF, Harper's 1932, Gutenberg Veblen, ETH Zhuangzi Legge PDF, Sonnentag&Fritz 2007 via PubMed/Europe PMC record); Idler 1935 extract opened and read but is JS-walled to automated fetch and backs paraphrase only (documented exception in the evidence ledger)",
    "flags": [
     "SUPERVISOR/OWNER: does the page as revised satisfy the 3-5 substantiated-disagreement bar (one genuine disagreement plus three bounded comparisons), or does it need further research into genuinely opposed positions?",

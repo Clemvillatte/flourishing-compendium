@@ -68,6 +68,12 @@ His summary line runs: "All men know the advantage of being useful, but no one k
 
 The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) marks a third position, and the choice between these three is not about facts. It is about whether the best hours of a life are the ones doing something, the ones receiving something, or the ones nothing is harvesting. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
 
+### Is free time where the good hours are?
+
+The classical texts assume the answer is yes: happiness depends on leisure, and the best activity happens there. An experience-sampling study of 78 workers found something more awkward. Every measure of the quality of experience except relaxation and motivation depended more on whether a person was in flow than on whether they were working or at leisure, and "the great majority of flow experiences are reported when working, not when in leisure" ([Csikszentmihalyi and LeFevre, 1989](https://pubmed.ncbi.nlm.nih.gov/2724069/)). The same people were more motivated in leisure than in work, which is the paradox: people want free time and then have their best hours elsewhere.
+
+Read as an attack on Aristotle the finding is weak, since he never claimed free time was automatically the good life, and amusement as medicine already predicts some of it. Read as a test of an actual week it is uncomfortable and useful: [flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow) and [making activities autotelic](https://clemvillatte.github.io/flourishing-compendium/#card=P120%20%E2%80%94%20Make%20activities%20autotelic%20%E2%80%94%20worth%20doing%20for%20their%20own%20sake) are likelier inside structure, and leisure left unshaped tends toward the passive.
+
 ## Practice: variation, selection, retention
 
 The unmeasured evening. For two weeks, spend some free hours with every metric off, no step count, no streak, no monetisable output. Vary what fills them. Selection: notice which activities hold attention for their own sake and which need a feed to keep going. Retention: keep the ones that held. This moves motivation and overt behaviour, and it is the Zhuangzi kernel, testing what survives when nothing is measuring you.

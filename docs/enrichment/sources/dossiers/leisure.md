@@ -53,3 +53,7 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - Added Pieper's own "renewed and alive again" passage (raw-verified in carrier 4) to bound the recovery/Pieper contrast honestly.
 - Retitled the disagreement section "Where the traditions differ"; split the Zhuangzi paragraph (prose-wall fix).
 - Correction to the earlier commit message: it said "5 substantiated disagreements"; the page has four subsections, of which one is a genuine disagreement and three are bounded comparisons.
+
+## QC round 1 addendum: the paradox-of-work subsection
+
+- Added subsection "Is free time where the good hours are?" to strengthen the disagreement bar with a genuinely opposed position: Csikszentmihalyi and LeFevere 1989 (JPSP, PMID 2724069), experience sampling of 78 workers. Quoted fragment "the great majority of flow experiences are reported when working, not when in leisure" is verbatim from the publisher database record, freshly fetched via the Europe PMC REST core record (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2724069&resultType=core&format=json) and read in full. The PubMed page (reader-facing carrier) is JS-walled to the automated verifier, same class as the Idler carrier: documented exception, second of two in this ledger. The motivation finding ("respondents are more motivated in leisure than in work") is paraphrased, not quoted.
