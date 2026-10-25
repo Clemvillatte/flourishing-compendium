@@ -124,3 +124,18 @@ doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+Full read of the manuscript. Findings: the opening's tax image is
+functional; the nearby-terms section is unusually careful (each
+boundary drawn only as far as the quoted sources support); the four
+disagreement sections are honest (each ends by stating what the quoted
+sources do NOT establish); the practice section carries the right
+clinical caution. One defect found and fixed: the map entry for
+ST275 Ivan Ilyich's Fear had a truncated gloss ending mid-sentence
+at "the wrongness of a life that" — completed to "...a life that
+everyone around him insists was correct", verbatim from the card's
+own gloss (the completion was checked against the opened card, which
+matches Tolstoy's text as retold on the card). Registry rebuilt for
+anxiety. Checker exit 0 after the edit.

@@ -7777,15 +7777,31 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The words around anxiety are used loosely, so the compendium keeps them apart unless a source joins them. What each source does say, in the sources' own words:"
+          "x": "The words around anxiety are used loosely, so I keep them apart unless a source joins them. What each source does say, in the sources' own words:"
         },
         {
           "t": "p",
-          "x": "- Stress: Lazarus and Folkman define it as a relationship, not a feeling: \"psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources\" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). The compendium holds it under [Stress appraisal](card:Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either. - Fear: Öhman and Mineka propose \"an evolved module for fear elicitation and fear learning\" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group. - Worry: Borkovec and colleagues describe it as \"a predominance of negatively valenced verbal thought activity\" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](card:Worry%20research) and [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here. - Angst: Heidegger's term; the Stanford Encyclopedia quotes him: \"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](card:Angst) and [Das Nichts](card:Das%20Nichts). - Dread and apprehension: a search of the wiki found no card titled for either, so no separate entry is mapped."
+          "x": "Stress: Lazarus and Folkman define it as a relationship, not a feeling: \"psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources\" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](card:Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either."
+        },
+        {
+          "t": "p",
+          "x": "Fear: Öhman and Mineka propose \"an evolved module for fear elicitation and fear learning\" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group."
+        },
+        {
+          "t": "p",
+          "x": "Worry: Borkovec and colleagues describe it as \"a predominance of negatively valenced verbal thought activity\" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](card:Worry%20research) and [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here."
+        },
+        {
+          "t": "p",
+          "x": "Angst: Heidegger's term; the Stanford Encyclopedia quotes him: \"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](card:Angst) and [Das Nichts](card:Das%20Nichts)."
+        },
+        {
+          "t": "p",
+          "x": "Dread and apprehension: I have no card titled for either, so no separate entry is mapped."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on anxiety"
+          "x": "The map: the entries on anxiety"
         },
         {
           "t": "h2",
@@ -8041,11 +8057,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[275. Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that"
+          "x": "[275. Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that everyone around him insists was correct."
         },
         {
           "t": "p",
-          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in the compendium's practice principles on obeying from understanding and not from fear."
+          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in my practice principles on obeying from understanding and not from fear."
         },
         {
           "t": "p",
@@ -8065,7 +8081,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss . . . Hence, anxiety is the dizziness of freedom.\" ([Kierkegaard, The Concept of Anxiety, as quoted in a New York Times essay](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf)): Secondary source quoting the primary text; quoted passage checked.",
+          "x": "\"Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss . . . Hence, anxiety is the dizziness of freedom.\" ([Kierkegaard, The Concept of Anxiety, as quoted in a New York Times essay](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf))",
           "s": null
         },
         {
@@ -8074,12 +8090,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)): Secondary source; quoted passage checked.",
+          "x": "\"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is \"relatively impenetrable to cognitive control\" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)): Secondary source; quoted passage checked. The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted."
+          "x": "The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is \"relatively impenetrable to cognitive control\" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted."
         },
         {
           "t": "h2",
@@ -8091,7 +8107,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis').\" ([McEwen, Physiological Reviews 2007, abstract](https://www.healthandenvironment.org/uploads-old/stress%20adaptation%20brain%20McEwen%2007.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis').\" ([McEwen, Physiological Reviews 2007, abstract](https://www.healthandenvironment.org/uploads-old/stress%20adaptation%20brain%20McEwen%2007.pdf))",
           "s": null
         },
         {
@@ -8100,7 +8116,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Together, these 3 studies suggest that stress mindset is a distinct and meaningful variable in determining the stress response.\" ([Crum, Salovey and Achor, Journal of Personality and Social Psychology 2013, abstract](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"Together, these 3 studies suggest that stress mindset is a distinct and meaningful variable in determining the stress response.\" ([Crum, Salovey and Achor, Journal of Personality and Social Psychology 2013, abstract](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf))",
           "s": null
         },
         {
@@ -8117,7 +8133,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"In this functional way, worry may be a type of cognitive avoidance to perceived dangers.\" ([Borkovec, Ray and Stöber, Cognitive Therapy and Research 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"In this functional way, worry may be a type of cognitive avoidance to perceived dangers.\" ([Borkovec, Ray and Stöber, Cognitive Therapy and Research 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf))",
           "s": null
         },
         {
@@ -8126,7 +8142,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD.\" ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.",
+          "x": "\"The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD.\" ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/))",
           "s": null
         },
         {
@@ -8143,7 +8159,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)): Primary text; quoted passage checked.",
+          "x": "\"Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html))",
           "s": null
         },
         {
@@ -8152,7 +8168,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Therefore, nothing ought to be unexpected by us. Our minds should be sent forward in advance to meet all problems, and we should consider, not what is wont to happen, but what can happen.\" ([Seneca, Moral Letters to Lucilius, Letter 91, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91)): Primary text; quoted passage checked.",
+          "x": "\"Therefore, nothing ought to be unexpected by us. Our minds should be sent forward in advance to meet all problems, and we should consider, not what is wont to happen, but what can happen.\" ([Seneca, Moral Letters to Lucilius, Letter 91, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91))",
           "s": null
         },
         {
@@ -8161,7 +8177,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Exposure therapy, or repeated approach toward fear provoking stimuli, has been a mainstay of cognitive behavioral therapy for anxiety disorders since its inception.\" ([Craske and colleagues, Behaviour Research and Therapy 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)): Secondary source; quoted passage checked.",
+          "x": "\"Exposure therapy, or repeated approach toward fear provoking stimuli, has been a mainstay of cognitive behavioral therapy for anxiety disorders since its inception.\" ([Craske and colleagues, Behaviour Research and Therapy 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))",
           "s": null
         },
         {
@@ -8180,7 +8196,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -8277,7 +8293,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",

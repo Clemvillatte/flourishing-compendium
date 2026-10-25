@@ -148,7 +148,7 @@ Dread and apprehension: I have no card titled for either, so no separate entry i
 
 ### The sayings and the story
 
-[275. Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that
+[275. Ivan Ilyich's Fear](https://clemvillatte.github.io/flourishing-compendium/#card=ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that everyone around him insists was correct.
 
 [Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in my practice principles on obeying from understanding and not from fear.
 
