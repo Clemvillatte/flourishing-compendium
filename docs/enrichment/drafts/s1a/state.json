@@ -2019,7 +2019,22 @@
      "note": "draft complete; story_check ok; inversion named and routed"
     }
    ]
+  },
+  "s1a-075": {
+   "status": "qc_pending",
+   "angle": "D083: the Rohini dispute — the question chain that re-prices the quarrel",
+   "history": [
+    {
+     "t": "2026-10-25T15:05:05+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T15:05:05+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T15:03:55+00:00"
+ "updated": "2026-10-25T15:05:05+00:00"
 }
