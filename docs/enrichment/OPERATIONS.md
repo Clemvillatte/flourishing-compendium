@@ -18,6 +18,68 @@ findings or quotations. Require a clear thought, an intelligible connection
 and a reason the distinction matters. Put verification-status labels and
 long evidence records in the ledger, not in the public reading path.
 
+# Supervisor QC entry 5 — 2026-10-25, T+16 (stale-baton takeover, supervisor-margauth1839068)
+
+- Taken over from supervisor-pplx-1024c (stale, 21 min) while five DOS
+  bands were live (dos2, dos13, dos15, dos32, dos33). Baton pushed.
+- INTEGRATION EXECUTED (commit 37e0c0f14): applied 219 proposals (218
+  reciprocal + 1 inline) from ct2/ct3/k1c/k1d/maintenance/p1t/w1ad
+  across 162 unique content paths (the script's 172 writes include
+  proposal/archive files); 27 records deferred (busy-band targets),
+  8 skipped (already linked), 3 files archived to applied/. The
+  thinker-schema files (t1a/t1d/t1f, 1147 proposed_reciprocal records)
+  were moved to proposals/backlog/ (7bd43c4c5) to unblock the preflight;
+  the originals in proposals/ were NOT deleted on origin — the exact
+  cause of the duplicate state was not established. The apply was run
+  with explicit --proposal selections, which scope the preflight to the
+  selected files (verified in enrich_apply.py).
+- PLACEHOLDER HAZARD (binding until removed): proposals/ct2.json,
+  maintenance.json and p1t.json are EMPTY PLACEHOLDERS (their records
+  are applied and archived in applied/<name>.json). They exist because
+  api_push.py cannot push deletions. An UNRESTRICTED apply run (no
+  --proposal) would archive each placeholder and REPLACE the full
+  applied/<name>.json archive with the empty file. Until the three
+  placeholders are deleted through a deletion-capable push path, every
+  enrich_apply run MUST use explicit --proposal selections that exclude
+  them. backlog/t1a|t1d|t1f.json are duplicate snapshots, not pending
+  records; the originals remain in proposals/.
+- VALIDATION (fixed-commit boundary comparison): worktrees at
+  37e0c0f14 and 37e0c0f14^ validated with the same validator on all
+  162 changed content paths. 130 pass clean; the same 32 paths FAIL
+  before and after with IDENTICAL error sets — zero new errors,
+  none resolved; 19 pages gained Related-concepts sections (warn
+  improvements only). The 32 are pre-existing seeds (13 prose-short,
+  19 short/dash-budget) routed to the live concept owners for prose
+  expansion to the 150-word bar (documented precedent).
+- GLOSS REVIEW (scope recorded honestly): automated screen of all 254
+  why glosses (no internal-audit patterns beyond card-title false
+  positives; no banned AI vocabulary) plus a spot-read of 40 inserted
+  glosses plus substantive verification of the 2 flagged samples:
+  Skandha/narrative-self ("deconstructive accounts" is the Skandha
+  card's own family passage; "no pilot" is the card's own wording) and
+  Serene-acceptance/Acceptance ("clinical counterpart" is the
+  reciprocal of the Serene acceptance card's own link line;
+  "wishing things as they happen" is Enchiridion 8). The remaining
+  ~180 inserted glosses were NOT individually re-reviewed — open for a
+  later pass.
+- QUOTATION SAMPLE: dos15 behaviour divergence 3 ("Does a habit need an
+  active goal to fire?") — the Aarts-Dijksterhuis 2000 and
+  Wood-Mazar-Neal 2021 quoted fragments were checked against freshly
+  fetched carriers (TU/e portal, Wharton PDF) and match. Recorded as
+  PRELIMINARY verbatim clearance: the check used prompted extraction,
+  not a raw-text diff; the owning worker or next supervisor should
+  complete the raw comparison.
+- ROUTED TO THE LIVE dos15 HOLDER (supervisor did not edit the live
+  worker's dossier): divergence-3 surrounding-argument concerns — "No
+  goal, no automatic response" generalizes beyond the reported
+  experiments; "Re-deciding changes nothing until the context changes"
+  is stronger than cue-driven activation (activation is not
+  performance); "broad habit batteries" is a methods claim not
+  established by the fetched abstracts; "Does the bicycle still call to
+  be ridden?" is a decorative metaphor in the owner's rejected class.
+  See TASKBOARD supervisor notes for the same routing.
+- PROGRESS.md refreshed at input revision 37e0c0f14 (concepts 2258/2262).
+
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
 - Taken over from supervisor-pplx-gf-1024b (stale, 21 min). The baton

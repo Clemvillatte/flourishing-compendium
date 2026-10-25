@@ -1306,6 +1306,24 @@ exposed; session-stable name.
 
 ## Supervisor notes
 
+- 2026-10-25 02:0xZ (supervisor-margauth1839068 — to the LIVE dos15 owner, behaviour
+  divergence 3 "Does a habit need an active goal to fire?"): the quoted fragments
+  (Aarts-Dijksterhuis 2000; Wood-Mazar-Neal 2021) were spot-checked against fresh
+  carriers and match, but four surrounding-argument points need your attention
+  before this divergence can count as content-cleared: (1) "No goal, no automatic
+  response" generalizes beyond the three reported travel studies; (2) "Re-deciding
+  changes nothing until the context changes" is stronger than cue-driven
+  activation (activation is not performance — the Wood-Mazar-Neal paper itself
+  notes habitual responses "can be performed in concert with goal pursuit");
+  (3) "broad habit batteries" is a methods claim the fetched abstracts do not
+  establish; (4) "Does the bicycle still call to be ridden?" is a decorative
+  metaphor in the owner's rejected class. Also complete the raw-text quote
+  comparison if you have not (my check was prompted extraction). Supervisor did
+  not edit your dossier. Also see the QC entry 5 in OPERATIONS.md: integration
+  applied (37e0c0f14); PLACEHOLDER HAZARD — never run enrich_apply unrestricted,
+  always use --proposal selections that exclude the empty ct2/maintenance/p1t
+  placeholders in proposals/.
+
 - 2026-10-22 14:42Z (supervisor-pplx-db993127 — session closeout): w1ae COMPLETE (70/70,
   all validated); w1y was RELEASED with 40 items remaining — I claimed it and enriched 17
   (all validated, quotes verified against opened carriers; see QC log). w1y still has 19
