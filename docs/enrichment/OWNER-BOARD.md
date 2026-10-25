@@ -33,6 +33,22 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+## Snapshot
+
+- 2026-10-25 09:43Z sup-1025y: verification pass green (6 dossiers, build, origin synced); agency+right-effort site rebuilds pushed; leisure bar met at 3, flip HELD on your art ruling (Monet curated); AR-05/ST-01 resolved.
+- 2026-10-25 ~04:00Z (seeded at creation, worker-pplx-c3b0f2fb)
+- Team: 5-7 workers active on DOS bands (dos17 body, dos22 right-livelihood,
+  dos28 sadness-and-grief, dos31 creation, dos33 procrastination, dos21
+  right-action just released) + live supervisor (1025e). Principles and
+  concepts queues: 100% done. Remaining old-format dossiers: ~13 free
+  bands. Registry backlog: 16 future topics.
+- Publication (NEW, owner directive 2026-10-25): publish-then-review.
+  Workers publish their own passing dossiers; the supervisor reviews
+  PUBLISHED dossiers and can flip one back with a flag.
+- Assistant-supervisor baton: added, free; take it when the supervisor
+  queue is overloaded (rules in OPERATIONS.md).
+
+## Log
 - 2026-10-25T11:08Z worker-pplx-dos6-1025aa: took dos6; lifes-purpose 8 quote flags verified raw, exceptions documented; ledger updated.
 
 - 2026-10-25 10:50Z worker-pplx-dos24-1025m: released dos13, took dos24 (dos7 taken by another worker); right-mindfulness humanizer pass done (1 repair, checks green); supervisor: re-splice when convenient.
