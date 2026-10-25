@@ -876,8 +876,25 @@ attach them with evidence on file.
 - Content coverage: the host's description states the 3 October 2018 lecture covers
   poetry as contemplative practice in Buddhist spirituality, drawing on Dharmakirti,
   Dandin and a Sinhala messenger poem.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=Shwt5kEc7ww&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain [INAUDIBLE] gaps and an
+  [AUDIO OUT] segment) confirms the lecture's substance on the recording: poetry
+  as "one among the … techniques of mental culture" within Buddhist
+  contemplative practice; contemplative seeing as "a self-reflexive practice
+  of seeing" that notices how habits shape perception; poetic "crooked speech"
+  (metaphor, exaggeration) disclosing ways of seeing that factual description
+  misses; the Sri Lankan monk-poet Thotagamuwe Sri Rahula's verse on moonlit
+  flowers, water and the meeting of river and ocean, with flowers read as
+  "wrapping themselves in white blankets" of moonlight; beauty as "a very
+  ordinary form of Buddhist spirituality" alongside concerns with suffering
+  and liberation; and the messenger exhorted to fly "with vigilance to reach
+  the further shore". Caveats: third-party transcript page, no timestamps in
+  the retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 1:27:39.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M02-B06: The Life of the Buddha (BBC/Discovery documentary)
 
