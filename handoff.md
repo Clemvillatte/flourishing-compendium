@@ -15,6 +15,20 @@ persisted across navigations via sessionStorage (pplx.activeQuery) and pastes
 appended; fixed by clearing that key + full reload, then one clean paste.
 Expect the new agent to take a baton on next baton.py status.
 
+## LAUNCH RECORD 2 (2026-10-25 11:40Z, launcher-pplx-1025-o, no baton held)
+
+Second worker launched per Agent Launcher Protocol Path A (owner-provided email,
+cloud browser, code read by the owner): account ouakninek+001@gmail.com
+(Free plan), task URL
+https://www.perplexity.ai/computer/tasks/55f6be4d-07c3-4418-8a67-68bb2bddbf11,
+launched 2026-10-25 ~11:40Z. Same verbatim PROMPT-WORKER.md with the new token
+(8414 chars, paste verified head/tail). Obstacles hit and solved: (a) the first
+code submission was lost to a Cloudflare re-challenge navigation (sign-in state
+dropped, fresh code requested); (b) digit-box auto-advance mangled keystroked
+digits (submitted 291794 for 261794) — fix: fill each box via fill_input,
+verify all six box values match the code exactly via eval, then Confirm.
+Expect this agent to take a worker baton on next baton.py status.
+
 ## SUPERVISOR NOTE (2026-10-25 10:25Z, launcher-pplx-1025n — supervisor pass 1; open lanes for the newly launched workers)
 
 Board at this note: principles 2182/2182 (100%), concepts 2262/2263, applyable
