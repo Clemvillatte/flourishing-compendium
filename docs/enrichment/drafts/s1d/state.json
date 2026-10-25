@@ -144,7 +144,7 @@
    ]
   },
   "s1d-008": {
-   "status": "ready",
+   "status": "qc_pending",
    "angle": "P020 James pragmatic method - the squirrel dispute from Pragmatism lecture II (1907)",
    "history": [
     {
@@ -155,6 +155,11 @@
      "t": "2026-10-21T12:41:24+00:00",
      "to": "ready",
      "note": "single primary source (James 1907 Lecture II via Brock transcription), quotes verbatim; story_check ok"
+    },
+    {
+     "t": "2026-10-25T13:41:21+00:00",
+     "to": "qc_pending",
+     "note": "PUBLICATION HOLD (2026-10-25): duplicate of ST433 (The Squirrel at the Camp) — same William James camping-party squirrel anecdote from Pragmatism Lecture II, same principle P020. Recommend rejection (same narrative and same principle; different carrier of the text: Brock Mead Project transcription vs Gutenberg, but the story told is identical)"
     }
    ]
   },
@@ -210,5 +215,5 @@
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-25T13:40:04+00:00"
+ "updated": "2026-10-25T13:41:21+00:00"
 }
