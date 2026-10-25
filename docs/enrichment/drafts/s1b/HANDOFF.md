@@ -91,7 +91,7 @@ narratives and angles; both pairs satisfy the taskboard's distinct-angle convent
 
 Zero-story Daoism/Buddhism/Pragmatism principles not blocked by any lane draft at scan time (beyond the ones this session covered): D060, D140, D187, D132, D127, D103, D135, D136, D177, D076, D155, D033, D110 (principle body already retells the horse story), D150, D025, D084 (Zhuangzi useless tree - well-known), D189, D113, D042, D014, D096 (see s1b-036/ST368 flag: consider a D096 backlink to ST368 instead), D066 (covered by s1b-035), D029 (covered by s1b-037), D192 (covered by s1b-038). Check for narrative duplicates in content/stories/ AND all lane drafts before writing: backlink scans miss same-passage stories (lesson of s1b-036 vs ST368).
 
-## QC pass on the returned drafts (2026-10-25 15:00Z, qc-storyteller-pplx-1025x, s1b baton)
+## QC pass on the returned drafts (2026-10-25 14:55Z, qc-storyteller-pplx-1025x, s1b baton)
 Both returns are parked for supervisor decisions, not teller repairs; this pass prepares the
 disposition evidence. Statuses left as found (returned).
 
