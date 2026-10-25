@@ -450,6 +450,100 @@ Block A, fcAcademyData records for deg-philosophy modules.
   video if the series context is wanted.
 - Verification status: verified-video.
 
+## mod-phil-4 optional batch (verified 2026-10-25)
+
+### M01-P21: Brandom Seminar 2020, Lecture 4, Misak on Rorty's Pragmatism
+
+- Identity and access: oembed confirms the video on Bob Brandom's channel
+  (https://www.youtube.com/watch?v=9qgNFPDRE_8). Freely playable, no paywall.
+- Duration: 2:21:42 (watch page, 2026-10-25).
+- Instructor credentials: Robert Brandom, Distinguished Professor of Philosophy,
+  University of Pittsburgh (his own Pitt page,
+  http://www.pitt.edu/~rbrandom/index.html).
+- Language: English.
+- Content coverage: the uploader's own description identifies this as lecture 4 of
+  his 2020 seminar on pragmatism and expressivism, on Cheryl Misak's critique of
+  Rorty's pragmatism; the recording covers Misak's rational reconstruction of the
+  pragmatist tradition, her criticisms of Rorty, the classical American pragmatist
+  tradition, and Rorty's critique of objectivity. Fits mod-phil-4.
+- Relevant segment: whole seminar session, 2:21:42.
+- Verification status: verified-video.
+
+### M01-P22: Rorty, Pragmatism as Antiauthoritarianism, Part 2 (1996 Girona Lectures)
+
+- Identity and access: oembed confirms the video on Bob Brandom's channel
+  (https://www.youtube.com/watch?v=QbOb99N2u2I). Freely playable, no paywall.
+- Duration: 2:56:53 for the whole video (watch page, 2026-10-25). The fcAcademyData
+  record prints 1:03:23, which matches neither the full video nor the final lecture
+  segment, which the uploader's own description locates at 1:53:01 (running to about
+  1:03:52 from there). BLOCKING mismatch for the module's workload arithmetic: the
+  owner must reconcile what the module schedules, and note that Part 1 (the first
+  eight lectures, in a separate video) is not attached to the degree at all.
+- Instructor credentials: Richard Rorty (1931 to 2007), one of the most widely read
+  philosophers of the 20th century, per the uploader's framing; discussants Robert
+  Brandom (Pittsburgh), John McDowell (Pittsburgh) and Bjorn Ramberg.
+- Language: English.
+- Content coverage: per the uploader's description, Rorty's 1996 Ferrater Mora
+  lectures at the University of Girona, published by Harvard University Press in
+  2021, covering morality and prudence, reason and sentiment, moral progress,
+  sympathy and human rights, and justice as a larger loyalty, with discussion.
+- Relevant segment: pending the owner's reconciliation above.
+- Verification status: verified-video, with the duration mismatch flagged.
+
+### M01-P18: Whitehead's Process and Reality, Part I, The Speculative Scheme
+
+- Identity and access: oembed confirms the video on the Footnotes2Plato channel
+  (https://www.youtube.com/watch?v=TGFTtYwHN50). Freely playable, no paywall.
+- Duration: 0:41:02 (watch page, 2026-10-25). The record prints 0:39:00, which does
+  not match; flagged for the owner to reconcile.
+- Instructor credentials: the channel is an independent philosophy education channel
+  run by Matthew David Segall, PhD (California Institute of Integral Studies), who
+  teaches process thought; this is not a university course recording. The owner
+  should confirm they accept an independent scholar's lecture for this module.
+- Language: English.
+- Content coverage: the uploader's own description states it is a lecture on Part I
+  of Process and Reality covering the speculative method, categorical scheme,
+  categories of existence and explanation, categorical obligations and derivative
+  notions.
+- Relevant segment: whole lecture, 0:41:02.
+- Verification status: verified-video, with the duration mismatch and the
+  independent-scholar provenance flagged.
+
+### M01-P07: William James and Josiah Royce (James T. Kloppenberg, Harvard Divinity School)
+
+- Identity and access: oembed confirms the lecture on the Harvard Divinity School
+  channel (https://www.youtube.com/watch?v=Yp5PIqGefJ0). Freely playable, no
+  paywall.
+- Duration: 0:58:12 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: James T. Kloppenberg, Harvard College Professor and David
+  Woods Kemper '41 Professor of American History at Harvard University (stated in
+  the host's own description).
+- Language: English.
+- Content coverage: the host's description states the 26 May 2007 lecture examines
+  James's pragmatism and its influence on American social thought, sketching its
+  immediate impact in the first 20 years of the 20th century and its longer-term
+  legacies, with topics including domestic and international politics, race and
+  ethnicity, and law. Fits mod-phil-4's pragmatism-and-society angle.
+- Relevant segment: whole lecture, 0:58:12.
+- Verification status: verified-video.
+
+### M01-P12: William James and the Sick Soul (John Kaag, Harvard Divinity School)
+
+- Identity and access: oembed confirms the lecture on the Harvard Divinity School
+  channel (https://www.youtube.com/watch?v=Z80EnEs-4oI). Freely playable, no
+  paywall.
+- Duration: 1:25:53 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: John Kaag, presented as part of HDS's annual William James
+  Lectures on Religious Experience; introduced by Professor David Lamberth (stated in
+  the host's description, with a full transcript at
+  https://hds.harvard.edu/news/2023/3/3/video-william-james-and-sick-soul).
+- Language: English.
+- Content coverage: the host's description states the 2 February 2023 lecture
+  discusses James's 1895 lecture "Is Life Worth Living?" and why the founder of
+  pragmatism can speak to anyone struggling to make a life worth living.
+- Relevant segment: whole lecture, 1:25:53.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
