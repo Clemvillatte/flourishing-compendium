@@ -6,7 +6,7 @@ Feelings are where a life registers itself. An emotion can arrive in the chest b
 
 The question has consequences. How I read a feeling decides whether I act on it, talk it down, name it, or let it pass. Get the reading wrong in either direction and something goes wrong with the action: a signal treated as a verdict, or a verdict ignored because it arrived as a mood.
 
-The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness — have their own pages; what belongs here are the questions that cut across all of them.
+The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness — are each treated on their own; what belongs here are the questions that cut across all of them.
 
 ### Nearby terms
 
@@ -14,9 +14,9 @@ The question runs through several domains at once. What an emotion is made of, h
 
 - Feeling and fact: [Distinguishing feeling from fact](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20feeling%20from%20fact) is the Stoic separation of the thing from the judgement about it, applied here to feelings and their interpretations.
 
-- Judgment side: the [Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic) entry appears in the Cognition dossier from the judgment side; both are listed there and here.
+- Judgment side: [Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic) handles the judgment side of the intrusion, treated in the cognition dossier; here the question is what the feeling does.
 
-- The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](https://clemvillatte.github.io/flourishing-compendium/#card=Common%20flourishing) and [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being). Feeling well and living well are different questions, and the dossiers keep them different.
+- The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](https://clemvillatte.github.io/flourishing-compendium/#card=Common%20flourishing) and [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being). Feeling well and living well are different questions, kept different here.
 
 ## What a feeling is, and what it asks of the person feeling it
 
@@ -142,7 +142,7 @@ From the cognitivist side, following the Stoics:
 
 > "On a common interpretation of their view, my anger at someone is the judgment that I have been wronged by that person. To generalize, the proposal is that an emotion *E* is a judgment that the formal object of *E* is instantiated (by some particular object *X*)." ([Scarantino and de Sousa, SEP "Emotion", §5](https://plato.stanford.edu/entries/emotion/))
 
-Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body — what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation — the reappraisal material above takes exactly that opening. The two opened passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first.
+Where one locates the emotion decides where the work is applied. If the emotion is the feeling of bodily change, the work addresses the body — what James's line implies for practice is spelled out by the action-precedes-feeling pairing above. If the emotion is a judgment, the work examines the evaluation — the reappraisal material above takes exactly that opening. The two passages state the identifications; they do not settle which is right, and a reader of the affect material has to choose where to work first.
 
 ## Practice: working with what a feeling is doing
 
