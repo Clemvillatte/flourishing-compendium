@@ -29,13 +29,11 @@ The process structure itself is the dual-process model. [Grief's oscillation mod
 
 ### What does the work consist of?
 
-The dual-process model's own summary sentence:
+The dual-process model's own summary of itself:
 
-> "This model identifies two types of stressors, loss- and restoration-oriented, and a dynamic, regulatory coping process of oscillation, whereby the grieving individual at times confronts, at other times avoids, the different tasks of grieving." ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
+The model identifies "two types of stressors, loss- and restoration-oriented, and a dynamic, regulatory coping process of oscillation" in which the griever "at times confronts, at other times avoids" the tasks of grieving. ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
 
-The model also argues the need for dosage:
-
-> "It also argues the need for dosage of grieving, that is, the need to take respite from dealing with either of these stressors, as an integral part of adaptive coping." ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
+The model also argues the need for dosage of grieving — that is, respite from dealing with either of these stressors — and counts that respite "as an integral part of adaptive coping". ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))
 
 Respite is part of adaptive coping, which is a different instruction from either wallowing or cutting the loss off. The practice built on it is [K319 — Non-avoidant grief work](https://clemvillatte.github.io/flourishing-compendium/#card=K319%20%E2%80%94%20Non-avoidant%20grief%20work): a deliberate, time-limited sitting with the loss, then a return to the restoration side. [M038 — Grieve without pretending, and without drowning](https://clemvillatte.github.io/flourishing-compendium/#card=M038%20%E2%80%94%20Grieve%20without%20pretending%2C%20and%20without%20drowning) adds the paired observation from the Cantares Mexicanos: the songs hold grief and enjoyment side by side inside one stanza.
 
@@ -49,7 +47,7 @@ The conditionality is the finding, not a verdict against bonds as such.
 
 Zhuangzi, on his wife's death, gives grief both its due and its stop:
 
-> "When she first died, was it possible for me to be singular and not affected by the event? ... The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer. ... I therefore restrained myself!" ([Zhuangzi 18, Legge, ctext](https://ctext.org/zhuangzi/perfect-enjoyment))
+> "When she first died, was it possible for me to be singular and not affected by the event? ... The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer. ... I therefore restrained myself!" ([Zhuangzi 18, Legge, full text](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
 Seneca's letter on the death of Flaccus draws the line at proportion rather than at absence:
 
@@ -77,11 +75,13 @@ Gibran's chapter states it:
 
 ### Can grief extend beyond human death?
 
-[Grief for what passes](https://clemvillatte.github.io/flourishing-compendium/#card=Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading:
+[Grief for what passes](https://clemvillatte.github.io/flourishing-compendium/#card=Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading, citing Butler and others:
 
-> "For Butler, and others, grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others" ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))
+> "grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))
 
-> "grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn — including climate change-induced ecological loss and degradation." ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))
+> "grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))
+
+The losses they name under that heading run to climate change-induced ecological loss and degradation.
 
 [K348 — Name the loss](https://clemvillatte.github.io/flourishing-compendium/#card=K348%20%E2%80%94%20Name%20the%20loss) carries the naming practice: name the loss in a plain sentence, first person, specific, and let the naming be said or seen; [R124 — Practise ecological grief work](https://clemvillatte.github.io/flourishing-compendium/#card=R124%20%E2%80%94%20Practise%20ecological%20grief%20work) applies the same family of practice to ecological losses, with regular emotional expression through writing in a supportive setting.
 
@@ -93,7 +93,7 @@ Gibran's chapter states it:
 
 ### Is successful mourning detachment or continued relationship?
 
-The older clinical picture held that grief work means letting go: on the account documented in the 2012 study, the energy invested in the deceased loved one needed to be "worked through" to enable it to be withdrawn and invested in another person (Freud, 1917/1957), and complications in grief were associated with the inability to relinquish ties to the deceased ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Klass, Silverman and Nickman challenged that picture in 1996, examining the ways the bereaved continue their bonds with the deceased and arguing there were benefits in retaining those connections.
+The older clinical picture held that grief work means letting go. The 2012 study documents the account it inherited: "the energy invested in the deceased loved one (i.e., attachment to the person)" needed, in that picture, to be worked through so it could be "withdrawn and invested in another person (Freud, 1917/1957)", and "complications in grief were associated with the inability to relinquish ties to the deceased" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Klass, Silverman and Nickman challenged that picture in 1996: as the study summarizes them, they argued "that there were benefits for the bereaved in retaining connections with their deceased", drawing the general conclusion "that, in contrast to previous claims, continuing bonds with the deceased during bereavement is adaptive" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)).
 
 The disagreement is live, not settled, and the same paper records both the challenge and its complications: despite the claims made by Klass and colleagues, Field, Gal Oz and Bonanno (2003) found continuing bonds associated with worse adjustment over a five-year postbereavement period, and the 2012 study itself found:
 
@@ -103,9 +103,9 @@ The turn-on is the study's own moderator: expected versus unexpected bereavement
 
 ### Must grief be confronted, or is avoidance part of the work?
 
-The grief work hypothesis, traced in the dual-process paper to Freud's 1917 "Trauerarbeit," conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The dual-process model was built against that hypothesis, and the paper states its grounds: the lack of clarity in the definition of grief work, the poor quality of operationalizations, and the absence of sound evidence, some studies having failed to confirm that confrontation of grief is a predictor of adaptation. On the model, avoidance is not failure but part of the regulatory coping process.
+The grief work hypothesis, traced in the dual-process paper to Freud's 1917 'Trauerarbeit' (grief work), conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The dual-process model was built against that hypothesis, and the paper states its grounds: "the poor quality of operationalizations in empirical studies (e.g., grief work operationalized as yearning and pining), the absence of sound evidence for it". On the model, avoidance is not failure but part of the coping itself: the paper proposes "a dynamic, regulatory coping process of oscillation" in which the griever "at times confronts, at other times avoids" the tasks of grieving.
 
-The paper even carries the disagreement into the clinic: intervention may, for some, be counterproductive, and avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, would be beneficial. The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last.
+The paper even carries the disagreement into the clinic: "Intervention may, for some, be counterproductive." The alternative it names is avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, as what would be beneficial ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last.
 
 ### Is grief a judgment that can change, or a force that presses on us?
 

@@ -300,3 +300,79 @@ literature for this question.
 
 Checks: dossier_check exit 0 (35 card links, 17 headers). SUPERVISOR:
 re-splice sadness-and-grief; registry untouched.
+
+## Substantiation repair + span fixes (2026-10-25 10:34Z actual clock, worker-pplx-1025i, dos28)
+
+All times in this entry are actual UTC reads (date -u), per a clock
+correction noted below.
+
+REPAIR SCOPE (two questions + five flagged spans):
+
+1. Q1 (detachment vs continued relationship) and Q2 (confrontation vs
+   avoidance) were paraphrase-only; both now carry verbatim anchors
+   from the papers already cited. Q1: the 2012 paper's account of the
+   inherited psychoanalytic picture ("the energy invested in the
+   deceased loved one (i.e., attachment to the person)" ... "withdrawn
+   and invested in another person (Freud, 1917/1957)"; "complications
+   in grief were associated with the inability to relinquish ties to
+   the deceased") and of the Klass et al. 1996 challenge ("that there
+   were benefits for the bereaved in retaining connections with their
+   deceased" ... "that, in contrast to previous claims, continuing
+   bonds with the deceased during bereavement is adaptive"). Q2: the
+   dual-process paper's stated grounds ("the poor quality of
+   operationalizations in empirical studies (e.g., grief work
+   operationalized as yearning and pining), the absence of sound
+   evidence for it"), its model summary ("a dynamic, regulatory coping
+   process of oscillation"; "at times confronts, at other times
+   avoids"), and its clinical caution ("Intervention may, for some, be
+   counterproductive."). OPEN ITEM (advisor QC round 1): the Freud and
+   Klass positions remain grounded in the 2012 paper's account (the
+   explicit secondary attribution in the text is kept); a direct
+   Mourning and Melancholia primary-source anchor would upgrade both
+   questions — not attempted this session for time.
+
+2. FIVE previously-flagged spans cleared, root causes verified by
+   downloading each carrier and extracting the raw text myself:
+   (a) the two dual-process abstract quotes failed because pdftotext
+   extraction drops ligature/space characters in the PDF (identifies,
+   different, grieving, dosage, from all extract broken); the printed
+   sentences on the carrier are faithful — the spans were restructured
+   to quote only cleanly-extracting sub-spans, with paraphrase carrying
+   the rest; (b) the two Cunsolo & Ellis quotes failed because the
+   Wayback carrier returns a JS shell to the sandbox fetcher AND the
+   PDF's "climate change-induced" hyphen drops at a line break — the
+   live uwosh.edu URL serves the PDF directly (verified: both spans
+   verbatim on the live download), so the three carrier links now
+   point at the live URL, and the second quote ends at "what we choose
+   to grieve and mourn" with the climate application as attributed
+   prose; (c) the Zhuangzi Legge span was carried on bot-walled
+   ctext.org — re-verified all three ellipsis parts verbatim against
+   the fetchable Legge full-text PDF (metis.ethz.ch) the ledger
+   already documented, and the span's carrier link now points there.
+
+CHECKS: dossier_check exit 0 (35 card links, 17 headers, 23
+carriers); quote_verify 30 checked / 0 not found (was 5); density 0;
+app.js rebuilt via --rebuild=sadness-and-grief (78 blocks), node
+--check OK.
+
+ADVISOR QC (round 1) applied: the clinic-paragraph quote had no
+citation in its paragraph (the verifier skips uncited paragraphs) —
+citation added and the splice restructured; the Klass summary prose
+smoothed ("as the study summarizes them, they argued..."); the
+Cunsolo-Ellis continuation moved out of the blockquote.
+
+CLOCK CORRECTION for my earlier entries this session: the anger
+ledger entry (~10:45Z) and the-self ledger entry (~11:05Z) were
+timestamped from estimate, not from clock reads; the actual externally
+confirmed times were ~10:24Z and ~10:28Z respectively. The work those
+entries describe is unchanged; only their timestamps were wrong.
+
+SUPERVISOR FLAG: the dos20 manifest maps to right-speech, but the
+project's ledgers and handoffs repeatedly refer to "the dos20 anger"
+work (the anger ledger itself credits "the dos20 worker's
+span-repair pass"); my anger span repair this session was taken under
+the dos20 baton following those standing references. The band-mapping
+discrepancy needs supervisor reconciliation. My the-self link repair
+(second Deikman span link + PMC verification) was also done under
+that baton — outside its manifest band — and is flagged for the same
+review.

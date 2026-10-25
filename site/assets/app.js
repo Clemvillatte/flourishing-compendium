@@ -15753,21 +15753,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The dual-process model's own summary sentence:"
-        },
-        {
-          "t": "q",
-          "x": "\"This model identifies two types of stressors, loss- and restoration-oriented, and a dynamic, regulatory coping process of oscillation, whereby the grieving individual at times confronts, at other times avoids, the different tasks of grieving.\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))",
-          "s": null
+          "x": "The dual-process model's own summary of itself:"
         },
         {
           "t": "p",
-          "x": "The model also argues the need for dosage:"
+          "x": "The model identifies \"two types of stressors, loss- and restoration-oriented, and a dynamic, regulatory coping process of oscillation\" in which the griever \"at times confronts, at other times avoids\" the tasks of grieving. ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))"
         },
         {
-          "t": "q",
-          "x": "\"It also argues the need for dosage of grieving, that is, the need to take respite from dealing with either of these stressors, as an integral part of adaptive coping.\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))",
-          "s": null
+          "t": "p",
+          "x": "The model also argues the need for dosage of grieving — that is, respite from dealing with either of these stressors — and counts that respite \"as an integral part of adaptive coping\". ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))"
         },
         {
           "t": "p",
@@ -15796,7 +15790,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"When she first died, was it possible for me to be singular and not affected by the event? ... The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer. ... I therefore restrained myself!\" ([Zhuangzi 18, Legge, ctext](https://ctext.org/zhuangzi/perfect-enjoyment))",
+          "x": "\"When she first died, was it possible for me to be singular and not affected by the event? ... The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer. ... I therefore restrained myself!\" ([Zhuangzi 18, Legge, full text](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))",
           "s": null
         },
         {
@@ -15858,17 +15852,21 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading:"
+          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading, citing Butler and others:"
         },
         {
           "t": "q",
-          "x": "\"For Butler, and others, grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others\" ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
+          "x": "\"grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others\" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn — including climate change-induced ecological loss and degradation.\" ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
+          "x": "\"grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn\" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "The losses they name under that heading run to climate change-induced ecological loss and degradation."
         },
         {
           "t": "p",
@@ -15892,7 +15890,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The older clinical picture held that grief work means letting go: on the account documented in the 2012 study, the energy invested in the deceased loved one needed to be \"worked through\" to enable it to be withdrawn and invested in another person (Freud, 1917/1957), and complications in grief were associated with the inability to relinquish ties to the deceased ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Klass, Silverman and Nickman challenged that picture in 1996, examining the ways the bereaved continue their bonds with the deceased and arguing there were benefits in retaining those connections."
+          "x": "The older clinical picture held that grief work means letting go. The 2012 study documents the account it inherited: \"the energy invested in the deceased loved one (i.e., attachment to the person)\" needed, in that picture, to be worked through so it could be \"withdrawn and invested in another person (Freud, 1917/1957)\", and \"complications in grief were associated with the inability to relinquish ties to the deceased\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Klass, Silverman and Nickman challenged that picture in 1996: as the study summarizes them, they argued \"that there were benefits for the bereaved in retaining connections with their deceased\", drawing the general conclusion \"that, in contrast to previous claims, continuing bonds with the deceased during bereavement is adaptive\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf))."
         },
         {
           "t": "p",
@@ -15913,11 +15911,41 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 \"Trauerarbeit,\" conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The dual-process model was built against that hypothesis, and the paper states its grounds: the lack of clarity in the definition of grief work, the poor quality of operationalizations, and the absence of sound evidence, some studies having failed to confirm that confrontation of grief is a predictor of adaptation. On the model, avoidance is not failure but part of the regulatory coping process."
+          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 'Trauerarbeit' (grief work), conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The dual-process model was built against that hypothesis, and the paper states its grounds: \"the poor quality of operationalizations in empirical studies (e.g., grief work operationalized as yearning and pining), the absence of sound evidence for it\". On the model, avoidance is not failure but part of the coping itself: the paper proposes \"a dynamic, regulatory coping process of oscillation\" in which the griever \"at times confronts, at other times avoids\" the tasks of grieving."
         },
         {
           "t": "p",
-          "x": "The paper even carries the disagreement into the clinic: intervention may, for some, be counterproductive, and avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, would be beneficial. The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last."
+          "x": "The paper even carries the disagreement into the clinic: \"Intervention may, for some, be counterproductive.\" The alternative it names is avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, as what would be beneficial ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last."
+        },
+        {
+          "t": "h2",
+          "x": "Is grief a judgment that can change, or a force that presses on us?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when someone is bereaved, how much of the pain comes from what they believe about the loss, and how much arrives whatever they believe? Cicero, in the third book of the Tusculan Disputations, argues for the first answer from the example of Romans who did not break:"
+        },
+        {
+          "t": "q",
+          "x": "\"Now what made these men so easy, but their persuasion that grief and lamentation was not becoming in a man? Therefore, as some give themselves up to grief from an opinion that it is right so to do, they refrained themselves, from an opinion that it was discreditable; from which we may infer that grief is owing more to opinion than nature.\" ([Cicero, Tusculan Disputations III, Yonge translation](https://www.gutenberg.org/cache/epub/14988/pg14988.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He then states the objection in the words of those who disagree, and gives them the Academic Crantor as authority:"
+        },
+        {
+          "t": "q",
+          "x": "\"It may be said, on the other side, Who is so mad as to grieve of his own accord? Pain proceeds from nature, which you must submit to, say they, agreeably to what even your own Crantor teaches, for it presses and gains upon you unavoidably, and cannot possibly be resisted.\" ([Cicero, Tusculan Disputations III, Yonge translation](https://www.gutenberg.org/cache/epub/14988/pg14988.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "His reply is that the objectors \"allow that we take greater grief on ourselves than nature requires,\" and he names the beliefs that add to it, among them that mourning loudly pleases the dead. Cicero also surveys the comforters: Cleanthes held that the comforter must prove that what is lamented is no evil, the Peripatetics \"prefer urging that the evil is not great,\" and Chrysippus thought the main task is \"to remove the opinion from the person who is grieving, that to grieve is his bounden duty\" ([Cicero, Tusculan Disputations III, Yonge translation](https://www.gutenberg.org/cache/epub/14988/pg14988.txt))."
+        },
+        {
+          "t": "p",
+          "x": "The page lets Cicero speak for the Stoic side, since he is its advocate in this book, and treats the objection as the opposing position only as he reports it. The case against the objection depends on what counts as grief: the reply separates the first pang from the further grief that a person adds to it, and the objectors seem to mean the first. My lean, which is mine, is that Cicero is strongest on the added part and weakest on the pang, and that Seneca's letter on Flaccus, quoted above, is where a middle position is stated in practice. The limit is that I read the Yonge translation of one book, not the Latin or the Peripatetic texts themselves, so the claims about what that school held rest on Cicero's report."
         },
         {
           "t": "h",
