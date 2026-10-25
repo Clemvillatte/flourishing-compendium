@@ -159,3 +159,25 @@ as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Supervisor count reconciliation (2026-10-25, supervisor-pplx-1024c)
+
+The dos1 worker's correction flagged that this ledger says "all 7
+candidates kept" while the voice-audit inventory (2026-10-24 jsonl)
+flags 9 lines. All nine are now reviewed and dispositioned by the
+supervisor: L5 (tuned/forced — the page's own Sona-Sutta-grounded
+thesis; the earlier negative-then-redefinition opening has already
+been recast in a prior session), L20 ("neither-pleasure nor stress"
+— quotation from DN 2, exempt), L28 (samadhi as gathering rather
+than blankness — the card's own gloss), L34 (neither taut nor slack
+— the Sutta's lute-string content), L82 (years of accumulation
+rather than heroic sessions — the deliberate-practice finding's own
+contrast), L100 (engineered rather than awaited — flow theory's own
+contrast), L136 (the return counted as the practice rather than as
+failure — functional instruction fork), L164 (neither too taut nor
+too loose — the story's own content), L168 (not the most pleasant
+but the most absorbed — the ESM finding's own result). ALL NINE
+KEPT; the earlier "7" was a count taken before the inventory was
+finalized. The card-fidelity sweep note above remains a PREFIX
+check per the dos1 correction — full-text comparison of swept
+entries is still open and is flagged for the owner.

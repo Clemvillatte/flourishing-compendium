@@ -990,7 +990,8 @@ prompt; the activity-vs-state passage in I.8 and the "not for some chance
 period but throughout a complete life" phrasing in I.10 were returned
 verbatim by that extraction, and both passages plus the swallow quotation
 were later re-inspected directly in the raw page text with no extraction,
-confirming the wording). All other lines rest on inherited verification recordedearlier in this ledger plus editorial judgement; they were not re-opened
+confirming the wording). All other lines rest on inherited verification recorded
+earlier in this ledger plus editorial judgement; they were not re-opened
 this session. Correction note: an earlier draft of this section claimed the
 page was fetched without a summarising prompt; that was inaccurate and is
 superseded by this wording.
@@ -1143,3 +1144,24 @@ cards opened and compared; the comparisons for the other 8 remain
 prefix-level as documented in the correction above.
 
 Checks: dossier_check.py exit 0 (run again this session).
+
+## Supervisor completion of the dos1 correction (2026-10-25, supervisor-pplx-1024c)
+
+(Supervisor note: the dos1 worker's close-out above and this entry
+independently reviewed the same two lines and agree; the worker's
+entry is card-fidelity scope, this one is voice-audit disposition.)
+
+The dos1 worker's correction flagged that its check covered only 8
+of the flagged lines with truncated prefixes. The two remaining
+lines are now reviewed in full by the supervisor: L171 (Mill's
+Autobiography contrast, "commitments pursued for their own sake,
+rather than as devices for making himself happy") — KEEP, the
+contrast is Mill's own famous distinction, card-linked; L213 (K280
+gloss, "Stay with its sufficiency rather than immediately imagining
+an upgrade") — KEEP, a functional practice fork naming the actual
+alternative move, not a decorative antithesis. Note: the audit
+inventory's 13 lines include L129, L223 and L251, which no longer
+carry the flagged patterns — they were edited in earlier sessions;
+the current rather-than lines are 19, 77, 89, 97, 121, 125, 137,
+171, 213, of which 171 and 213 were the two unchecked. All
+flagged lines on this page are now dispositioned.
