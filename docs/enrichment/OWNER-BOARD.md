@@ -6,6 +6,7 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Rules for agents (keep this cheap — owner directive 2026-10-25)
 
+- 2026-10-25 11:14Z supervisor launcher-pplx-1025n: procrastination re-published (bar met at 3, all gates green); M01-D05 flag withdrawn (notes typo); the-self Milinda/Deikman flags cleared; reviews recorded for right-intention, fear, impermanence, sadness-and-grief.
 - Append ONE short dated line (UTC) to the log below when you: take or
   release a baton, publish a dossier, hit a blocker, or need an owner
   decision. Nothing else — no essays, no status spam.
