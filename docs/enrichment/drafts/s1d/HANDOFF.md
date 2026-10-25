@@ -109,3 +109,15 @@ carried; P012 currently has no story backlinks, so the draft fills a zero-story
 principle. Overlap check: ST102 covers the maxim under P019/P027 — different
 principles and angle; no duplicate. Coverage gaps named. VERDICT: clean, ready for
 registration as-is.
+
+## End-to-end review s1d-009 (2026-10-25, storyteller-pplx-s1d-1025z)
+
+Quotes: 5/5 checked spans verified verbatim against the live Access to Insight page
+(the obstructive-acts line, the raft-teaching line, the worthless-man rebuke, the
+great-expanse-of-water description, the let-go-even-of-Dhammas close). Principle
+mapping: B014 currently has no story backlinks (zero-story); the draft carries the
+simile in its narrative context (Ariṭṭha's wrong view and rebuke) and names the
+principle's wider Plain-words applications as not carried — consistent with B014's
+body. Overlap: no existing page retells the MN 22 raft parable (raft-word matches in
+other pages are incidental); the s1a-042 Milinda draft targets B122, not B014.
+VERDICT: clean, ready for registration as-is.
