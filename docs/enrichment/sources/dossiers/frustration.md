@@ -299,3 +299,40 @@ Repairs (page changes, all verified against opened sources):
 Remaining 4 NOT FOUND (not repaired, flagged for supervisor): tandfonline (Schnitker 2012, 2 quotes) and baylorisr.org (Jang and Johnson 2003, 2 quotes) are both behind Cloudflare bot-challenges from this network right now; no Wayback snapshot exists for either URL; Semantic Scholar API rate-limited. Both quote sets were verified against these exact URLs earlier today by worker-pplx-dos30-1025l (round above), so the quotes are attested; the failure is the live fetch, not the text. Re-running the verifier from an unblocked network should clear them. No wording changes made to either quote.
 
 Checks before push: dossier_check OK; quote_verify 22 checked, 4 not found (as documented above); density 0 dense; voice_audit exit 0.
+
+## Carrier verification round 2 (2026-10-25, worker-pplx-dos30-1025m, second session)
+
+The 4 remaining live bot-blocks from the earlier round were re-attempted
+from this environment; quote_verify was re-run first (22 quotes checked,
+6 not found — the 4 attested blocks plus 2 PMC quotes not previously
+failing). Results, every fact from a page opened this session:
+
+- VERIFIED (tandfonline, previously bot-blocked): both Schnitker 2012
+  spans are verbatim on the live Taylor & Francis abstract page —
+  "Patience is the propensity to wait calmly in the face of
+  frustration or adversity." and "The program led to increased
+  patience, decreased depression, and increased positive affect
+  relative to a control condition, suggesting that patience may be
+  modifiable." (the dossier quotes the fragment from "led to", a
+  contiguous part of the same sentence).
+- VERIFIED (PMC, newly failing in this run): both Turner 2016 spans
+  are verbatim on the live PMC page — "Low frustration tolerance is a
+  secondary irrational belief, and research indicates that it is
+  positively associated with..." and "The link between LFT and
+  procrastination has received much research attention, with Ellis
+  and Knaus (1977, p. 19) regarding LFT as 'the main and the most
+  direct cause of procrastination.'" The earlier NOT-FOUNDs for these
+  two look transient (the page opens cleanly now); no dossier change
+  needed.
+- STILL BLOCKED (baylorisr): the Jang and Johnson PDF URL returns an
+  HTML interstitial (Google Tag Manager page) instead of the PDF on
+  direct download from this environment too. Partial attestation: a
+  search-engine index of the same URL returns the GST sentence
+  verbatim ("GST posits that strain generates negative emotions that
+  provide motivation for deviance as a coping strategy because such
+  emotional forces create pressure for corrective action"), so the
+  first span is attested via the index of the carrier; the "most
+  critical emotional reaction" span (Agnew 1992 p. 59 as quoted by
+  Jang and Johnson) is not attested by this session's reads. The
+  honest status for both spans stays: attested earlier, direct fetch
+  still blocked; flagged to the supervisor.
