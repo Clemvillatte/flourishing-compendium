@@ -137,19 +137,19 @@ Can these aims conflict, and what should take priority if they do? The passages 
 
 ## Where the traditions genuinely disagree
 
-### Is the meaning of making discovered or created?
+### Is the meaning of a life discovered or conferred?
 
-A tension runs through the sources: when a maker finds meaning in the making, is the meaning there to be found, or does the maker put it there?
+A tension runs through the sources, and it bears on making: when a maker finds meaning in the making, is the meaning something a person discovers, or something they confer?
 
 Frankl locates meaning beyond the self, as something to discover and fulfil. The sentence that precedes the three routes in the book: "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
 
-Sartre answers the same question about the sense of a life, and gives the opposite answer:
+Sartre gives the conferred answer, in two sentences of the same lecture:
 
 > "Man is nothing else but that which he makes of himself."
 >
 > "to say that we invent values means neither more nor less than this; that there is no sense in life a priori. Life is nothing until it is lived; but it is yours to make sense of, and the value of it is nothing else but the sense that you choose." ([Sartre, Existentialism is a Humanism, 1946](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm))
 
-On the question whether the sense of a life is there before it is lived, the two answers are incompatible: for Frankl the meaning of a life is discoverable, waiting in the world; for Sartre there is no sense a priori, and the sense is the one the person gives it in living. What the passages do not settle is whether a made sense can still be answerable to anything beyond the maker, and I do not claim they settle it.
+On the question whether the meaning of a life is discovered or conferred, the two answers are incompatible. Frankl presents the meaning of a life as something to discover in the world. Sartre explicitly denies sense in life a priori and says its value is the sense one chooses. The disagreement concerns whether life's meaning is discovered or conferred; these passages do not decide between the accounts.
 
 Nietzsche had said created, about things rather than about the self. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
 
