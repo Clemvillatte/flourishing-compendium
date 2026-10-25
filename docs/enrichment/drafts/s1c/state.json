@@ -683,6 +683,11 @@
      "t": "2026-10-21T12:36:41+00:00",
      "to": "published",
      "note": "supervisor registration ST407"
+    },
+    {
+     "t": "2026-10-25T15:19:31+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:19:31: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1197,5 +1202,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:19:10+00:00"
+ "updated": "2026-10-25T15:19:31+00:00"
 }
