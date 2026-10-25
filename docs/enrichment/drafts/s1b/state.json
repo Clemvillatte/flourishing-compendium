@@ -198,6 +198,11 @@
      "t": "2026-10-21T12:18:49+00:00",
      "to": "ready",
      "note": "supervisor verification: quotes re-verified verbatim against opened cave.pdf this session (all 4 quotes found verbatim; shade-tree passage confirmed verbatim); state file drift only, draft content unchanged from advisor-approved commit 26e677ec1"
+    },
+    {
+     "t": "2026-10-25T15:11:43+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:11:43: sample verified (s1b-029 Beal 11/11 verbatim; Heart Sutra carrier now failing — see QC notes)"
     }
    ]
   },
@@ -701,6 +706,11 @@
      "t": "2026-10-24T14:31:36+00:00",
      "to": "ready",
      "note": "advisor round 1 applied: narrowed to demonstrated point, Heart Sutra opened and cited, context verified against unabridged text"
+    },
+    {
+     "t": "2026-10-25T15:11:43+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:11:43: sample verified (s1b-029 Beal 11/11 verbatim; Heart Sutra carrier now failing — see QC notes)"
     }
    ]
   },
@@ -935,5 +945,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:10:54+00:00"
+ "updated": "2026-10-25T15:11:43+00:00"
 }
