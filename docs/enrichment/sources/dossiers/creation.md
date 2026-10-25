@@ -945,4 +945,6 @@ toolmaker..."); anthologialitt Bergson "Life and Consciousness" ("wherever
 there is joy..."). The two Taylor and Francis carriers remain behind the
 Cloudflare wall (round 14); their quotations stand on the extraction
 confirmations (rounds 10 and 13) plus the inherited raw verification.
-All carriers live; no dead links in the dossier.
+Addendum: the ninth quotation carrier, PMC4542587 (Rubinstein et al.
+2015, the generativity seven-facets quote), was also re-opened live and
+re-confirmed this round. All carriers live; no dead links in the dossier.
