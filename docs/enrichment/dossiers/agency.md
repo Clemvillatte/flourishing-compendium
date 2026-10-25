@@ -98,6 +98,36 @@ Bandura's theory carries the split inside itself. In the 1977 article he separat
 
 The conviction of being able to execute is what his system assigns the causal work in initiation and persistence; the estimate of what follows is a separate variable. That is the Stoic line drawn in psychological dress, though Bandura draws it for predictive reasons and Epictetus for the sake of peace.
 
+### Does the feeling of choosing cause the act?
+
+The shared question: when you feel that you are deciding, is that feeling part of what produces the act, or a report the mind writes about it afterwards? Wegner's account of apparent mental causation takes the second side:
+
+> "Experiences of conscious will thus arise from processes whereby the mind interprets itself – not from processes whereby mind creates action. Conscious will, in this view, is an indication that we think we have caused an action, not a revelation of the causal sequence by which the action was produced." ([Wegner, Behavioral and Brain Sciences 2004, précis of The Illusion of Conscious Will](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/precis-of-the-illusion-of-conscious-will/1C1CDE8A8D9B7A7B13D4A49EA383E674))
+
+Baumeister, Masicampo and Vohs reviewed experiments that manipulate conscious thought by random assignment and read the record the other way:
+
+> "The evidence for conscious causation of behavior is profound, extensive, adaptive, multifaceted, and empirically strong. However, conscious causation is often indirect and delayed, and it depends on interplay with unconscious processes." ([Baumeister, Masicampo and Vohs, Annual Review of Psychology 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21126180/))
+
+The two abstracts do not contradict each other as sharply as the titles suggest. Wegner is claiming that the feeling of will is built from an interpretation and does not give a view of the causal chain. Baumeister and colleagues are claiming that conscious thoughts, such as plans and rehearsal, do change what people go on to do, and they accept that the effect is indirect and mixed with unconscious processing. Both can be true if the feeling of deciding is a poor guide to the route a thought takes while the thought itself still matters.
+
+My lean, which is mine, is that the dispute is less about whether conscious thought has any effect and more about how far the felt moment of choosing can be trusted as evidence of that effect. Limits: I read two abstracts, not the book or the review, and the review's range of topics does not test the specific cases Wegner uses, such as hypnosis or automatic writing.
+
+### Is bringing the self into line a form of control or a lesser one?
+
+The shared question: when the world will not change, is adjusting yourself an exercise of agency or a retreat from it? Rothbaum, Weisz and Snyder argue that it is control of a second kind:
+
+> "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)." ([Rothbaum, Weisz and Snyder, Journal of Personality and Social Psychology 1982, abstract](https://scispace.com/papers/changing-the-world-and-changing-the-self-a-two-process-model-jo5n2dpgej))
+
+They add that when both forms are recognised, "a broad range of inward behaviors can be seen as efforts to sustain rather than relinquish the perception of control." Heckhausen and Schulz keep the same pair of terms and rank them:
+
+> "Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control." ([Heckhausen and Schulz, Psychological Review 1995, abstract](https://scispace.com/papers/a-life-span-theory-of-control-56917liqsn))
+
+Their later reply to a critic restates the ranking as a claim about culture as well as development, defending the view that "primary control striving holds functional primacy throughout the life span and across cultural and historical settings" ([Heckhausen and Schulz, Psychological Review 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10467898/)). That reply answers a 1999 critique by Gould, which I know only from the reply's abstract.
+
+The difference is about what adjustment is for. In the first account it is a route to control in its own right, so that withdrawal can be read as an attempt to hold on to control. In the second it serves primary control by protecting motivation, and the reply treats the ranking as universal.
+
+My lean, which is mine and not a finding of either paper, is that a person who accepts a situation they cannot change is exercising agency, and the 1995 ranking is easier to defend for the span of a life than for a single hard moment. Limits: I read only the abstracts, plus the reply's statement of the cultural claim. I did not read Gould's critique or the empirical studies on either side.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the collapse of control: the lesson that nothing one does matters, learned from uncontrollable events and outlasting them; the external locus that leaves reinforcement to luck or the powerful; the efficacy belief that failures, especially early ones, have hollowed out. The adaptive direction runs through the gap between event and verdict, attributing outcomes to what can still change, and through the small mastery that rebuilds the belief.

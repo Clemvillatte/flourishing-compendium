@@ -189,3 +189,32 @@ link is now embedded in a natural sentence rather than standing in a
 loglines as the format allows. Checker exit 0 (60 card links resolve,
 14 headers, 5 external carriers); density check 0 dense; 29 paragraphs,
 1.5 card links per paragraph. Commits: b7bf9694, a133dda3 (passes 1-2).
+
+## Disagreement section 1 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos14)
+
+Two questions added under "Where the traditions genuinely disagree".
+
+Q2, does the feeling of choosing cause the act. Opened this session
+(fetched pages, abstracts only): Wegner, Precis of The Illusion of
+Conscious Will, Behavioral and Brain Sciences 27(5), 2004, Cambridge Core
+abstract page (the two quoted sentences match); Baumeister, Masicampo and
+Vohs, Annual Review of Psychology 62, 2011, PubMed abstract (the two
+quoted sentences match). Not read: the book, the review's full text. The
+dossier states that the abstracts agree more than their titles suggest.
+
+Q3, is accommodation control. Opened: Rothbaum, Weisz and Snyder 1982,
+JPSP 42(1), abstract on the SciSpace page (both quoted sentences match;
+the page is a mirror of the APA abstract, so the PubMed or APA record
+would be a cleaner carrier if the supervisor prefers one); Heckhausen and
+Schulz 1995, Psychological Review 102(2), same carrier (the two quoted
+sentences match); Heckhausen and Schulz 1999 reply, PubMed 10467898
+(quoted clause matches). Gould's 1999 critique is known only from the
+reply abstract and is flagged as such in the dossier. The existing
+paragraph on Rothbaum and secondary control, which links the card, was left
+unchanged.
+
+Checks: dossier_check exit 0 (60 card links, 16 headers); density 0
+dense. Quote verifier reports the three SciSpace/PubMed items as not found
+because the carrier URLs there are truncated or the pages are dynamic;
+each quote was matched by hand against the fetched page text. SUPERVISOR:
+re-splice agency; registry status untouched.
