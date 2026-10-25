@@ -23,7 +23,7 @@ The review raises the calibration as a hypothesis about depression:
 
 > "A second possibility in depression is that, if positivity is decreased across the board, individuals may fail to experience a positivity offset." (Norris et al. 2010, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/))
 
-Read as a possibility rather than a finding, the line still marks the difference the concept tracks: the offset is not a mood but a standing tendency of the affect system, and the review's general point about it is likewise framed as a prediction to test: "Such individual differences in the positivity offset and negativity bias may predict whether an individual is prone to experience depression or anxiety."
+Read as a possibility rather than a finding, the line still marks the difference the concept tracks: the offset names a standing tendency of the affect system, and the review's general point about it is likewise framed as a prediction to test: "Such individual differences in the positivity offset and negativity bias may predict whether an individual is prone to experience depression or anxiety."
 
 ### In the compendium
 

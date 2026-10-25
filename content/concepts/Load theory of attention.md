@@ -20,7 +20,7 @@ In Lavie's account, perceptual processing that exhausts available capacity leave
 
 ### What the arithmetic implies
 
-The theory's practical edge is that distraction is not a character flaw but a capacity arithmetic. When the task at hand does not fill perception, the spare capacity goes somewhere, and the somewhere is the distractor; filling perception with the task is a design problem rather than a moral one. The reverse direction is the warning half: loading cognitive control, the effortful part that juggles goals, lets more of the world in rather than less, so a person can be too busy to filter and too tired to shut the door. The single-tasking principle follows the arithmetic: one well-loaded task does the filtering on its own.
+The theory's practical edge is that distraction follows a capacity arithmetic. When the task at hand does not fill perception, the spare capacity goes somewhere, and the somewhere is the distractor; filling perception with the task is a design problem rather than a moral one. The reverse direction is the warning half: loading cognitive control, the effortful part that juggles goals, lets more of the world in rather than less, so a person can be too busy to filter and too tired to shut the door. The single-tasking principle follows the arithmetic: one well-loaded task does the filtering on its own.
 
 ## Related concepts
 

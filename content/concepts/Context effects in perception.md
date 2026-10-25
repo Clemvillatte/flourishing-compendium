@@ -26,7 +26,7 @@ Bar proposes context frames as an account of how contextual expectations can aid
 
 ### What the bidirectionality implies
 
-The two directions of the claim matter for how much the seen world is taken as given. If contexts inform the identification of objects, then what a thing is taken to be arrives partly from its surroundings, and the correction is not a harder stare but a changed expectation: the same figure in a different frame is a different thing to name. The review's own subject, objects in rich surroundings with other related objects, is the ordinary case rather than the exception, which is why the effect is hard to notice from inside a single perception. The horizon principle makes the same point from the first-person side: what surrounds a thing is part of how it shows up.
+The two directions of the claim matter for how much the seen world is taken as given. If contexts inform the identification of objects, then what a thing is taken to be arrives partly from its surroundings, and the correction is a changed expectation: the same figure in a different frame is a different thing to name. The review's own subject, objects in rich surroundings with other related objects, is the ordinary case rather than the exception, which is why the effect is hard to notice from inside a single perception. The horizon principle makes the same point from the first-person side: what surrounds a thing is part of how it shows up.
 
 ### In the compendium
 

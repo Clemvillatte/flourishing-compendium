@@ -15,7 +15,7 @@ Genuine doubt is Peirce's name, in The Fixation of Belief (1877), for the real a
 
 Doubt, on Peirce's account, is an uneasy and dissatisfied state from which we struggle to free ourselves and pass into the state of belief. The irritation of doubt is the only immediate motive for the struggle to attain belief; with the doubt the struggle begins, and with the cessation of doubt it ends. And for the reader who holds a belief determined by any circumstance extraneous to the facts, the moment that is seen, a real doubt is experienced, so that it ceases to be a belief.
 
-The distinction sets a test for self-work. A question counts as doubt only if the mind is actually struggling toward belief, which rules out manufactured skepticism as a pose and the interrogation of everything as a style. The practical test is the one Peirce gives: does the doubt irritate, and does the struggle end in a belief, or is the questioning decorative? A review conducted as an idle exercise produces no belief to test.
+The distinction sets a test for self-work. A question counts as doubt only if the mind is actually struggling toward belief, which rules out manufactured skepticism as a pose and the interrogation of everything as a style. The practical test is the one Peirce gives: the doubt must irritate, and the struggle must end in a belief. Questioning that does neither is decorative, and a review conducted as an idle exercise produces no belief to test.
 
 ### In the compendium
 

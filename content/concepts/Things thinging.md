@@ -15,7 +15,7 @@ Things thinging is Martin Heidegger's phrase from the 1950 lecture "Das Ding" (T
 
 The essay's argument runs through the jug's void: "The vessel's thingness does not lie at all in the material of which it consists, but in the void that holds" (Heidegger, [The Thing](https://fairhavenprogram.org/wp-content/uploads/2025/10/Heidegger-The-Thing.pdf)). The jug's holding gives, and what it gives, a drink for mortals or an offering to the divinities, gathers earth and sky into one stay: "The jug's presencing is the pure, giving gathering of the onefold fourfold into a single time-space, a single stay" (Heidegger, [The Thing](https://fairhavenprogram.org/wp-content/uploads/2025/10/Heidegger-The-Thing.pdf)). The four are earth, sky, divinities and mortals, and the world itself "worlds" through such gatherings: "The thing things world" (Heidegger, [The Thing](https://fairhavenprogram.org/wp-content/uploads/2025/10/Heidegger-The-Thing.pdf)).
 
-The essay closes its circle in the gathering's motion: "Out of the ringing mirror-play the thinging of the thing takes place". The four circle in their "circling compliancy", and the thing's stay happens inside that ring. A jug is not an illustration of gathering on this account; it is the gathering, one instance of what things do wherever they are left to do it.
+The essay closes its circle in the gathering's motion: "Out of the ringing mirror-play the thinging of the thing takes place". The four circle in their "circling compliancy", and the thing's stay happens inside that ring. A jug, on this account, is the gathering itself, one instance of what things do wherever they are left to do it.
 
 ### In the compendium
 

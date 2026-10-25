@@ -19,7 +19,7 @@ The essay's own account of the naming gives it more work than a mere label. Nami
 
 > "The 'twilight demons' of the mind — our passionate impulses and obscure thoughts — cannot bear the simple but clarifying questions about their 'names,' much less the knowledge of these names. Hence, this is often alone sufficient to diminish their strength." (Nyanaponika Thera, The Power of Mindfulness, [Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html))
 
-The attention stays bare because the naming reports what is there without reacting to it: the definition of bare attention is attending to "the bare facts of a perception without reacting to them by deed, speech or mental comment." What the naming excludes is not language but the reaction the commentary would add.
+The attention stays bare because the naming reports what is there without reacting to it: the definition of bare attention is attending to "the bare facts of a perception without reacting to them by deed, speech or mental comment." What the naming excludes is the reaction the commentary would add; language itself stays.
 
 ### A practice within a larger account
 

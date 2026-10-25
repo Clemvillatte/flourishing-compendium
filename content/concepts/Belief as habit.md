@@ -15,7 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Two consequences follow in the essay. Peirce describes belief as easing doubt and allowing thought to rest for a moment. Acting on a belief can bring further doubt and further thought. And since beliefs are habits, the meaning of an idea lies in what it disposes us to do. Peirce states that "the whole function of thought is to produce habits of action" and that "what a thing means is simply what habits it involves" (Peirce 1878). The essay's rule for making ideas clear follows from this: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
 
-The account quietly relocates doubt as well. Doubt is not the opposite of belief but the irritation the habit resolves, and the rest that follows is not the end of thinking but a pause it earned.
+The account also gives doubt a working role. Doubt is the irritation the habit resolves, and the rest that follows is a pause the thinking has earned.
 
 ## Related concepts
 

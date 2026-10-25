@@ -25,7 +25,7 @@ The theory's claim about how validation happens:
 
 Illustrative scenario, not a reported experiment: after a job interview a candidate thinks "I answered that question badly". In the model, greater perceived validity of that thought gives it more influence on her overall evaluation of the interview.
 
-The theory relocates the work of checking thoughts. The question is not first whether a thought is true but how valid it feels, and the two can come apart: a good mood can lend a wrong answer the same authority it lends a right one. Practices that ask where a thought's felt authority comes from work the seam the theory describes.
+The theory relocates the work of checking thoughts. What gives a thought its pull is how valid it feels, and felt validity and truth can come apart: a good mood can lend a wrong answer the same authority it lends a right one. Practices that ask where a thought's felt authority comes from work the seam the theory describes.
 
 ### In the compendium
 

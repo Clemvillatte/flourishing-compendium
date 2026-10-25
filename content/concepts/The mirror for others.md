@@ -25,7 +25,7 @@ Legge's chapter summary reads: "With what measure a man metes it will be measure
 
 Mencius also quotes the Book of Poetry: "Be always studious to be in harmony with the ordinances of God, And you will obtain much happiness" (Li Lou I, ch. IV, same opened carrier).
 
-The advice has a direction. The examination is not self-blame for its own sake; it is the practical step before the next attempt, on the assumption that the person is the one part of the exchange available for repair. The mirror is not a compliment either: it returns the world's response as information about the self, in both directions.
+The advice has a direction. The examination is the practical step before the next attempt, taken on the assumption that the person is the one part of the exchange available for repair. The mirror returns the world's response as information about the self, in both directions, and the reading cuts both ways.
 
 ### In the compendium
 

@@ -17,7 +17,7 @@ In the studies the paper summarizes, the relative importance a person places on 
 
 ### What the relative weight means
 
-The findings give the distinction teeth because the measure is not the content of a goal but its relative weight against the others a person holds. A life usually contains both kinds of ambition; what tracked well-being was the priority ordering, not the possession of ambitions. That is the practical point of the label the page adds: eudaimonic motivation names a direction of investment rather than a category of activity, and on this evidence the direction can be read off a person's list of what matters most.
+The findings give the distinction teeth because what the studies tracked was the relative weight of a goal among the others a person holds. A life usually contains both kinds of ambition; what tracked well-being was the priority ordering, not the possession of ambitions. That is the practical point of the label the page adds: eudaimonic motivation names a direction of investment rather than a category of activity, and on this evidence the direction can be read off a person's list of what matters most.
 
 ### In the compendium
 

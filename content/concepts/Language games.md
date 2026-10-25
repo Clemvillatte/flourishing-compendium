@@ -17,7 +17,7 @@ The article carries Wittgenstein's own formulation: the concept was intended "to
 
 ### What the game framing does
 
-The concept's work is deflationary. Where the Tractatus sought the essence of language, the later Wittgenstein teaches attention to the ordinary occasions on which words do their work, and the game in the name is deliberate: a game has rules, moves and a point, and learning it is learning to play rather than to theorize. The family-resemblance tie matters as much, since the games are not instances of one thing but kin to one another, which is why there is no single definition of language to give. The practical reading for self-work follows the Water! example: the same sentence can be an order or an answer depending on the surrounding game, so understanding a thought includes knowing which game it is a move in.
+The concept's work is deflationary. Where the Tractatus sought the essence of language, the later Wittgenstein teaches attention to the ordinary occasions on which words do their work, and the game in the name is deliberate: a game has rules, moves and a point, and learning it is learning to play rather than to theorize. The family-resemblance tie matters as much, since the games are kin to one another, which is why there is no single definition of language to give. The practical reading for self-work follows the Water! example: the same sentence can be an order or an answer depending on the surrounding game, so understanding a thought includes knowing which game it is a move in.
 
 ## Facets
 

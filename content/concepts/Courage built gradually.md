@@ -22,7 +22,7 @@ The same chapter notes that the virtues are got by first exercising them, as wit
 
 ### Why the gradualness is in the doing
 
-The gradualness is in the doing, not in the schedule. The builder's competence and the brave person's steadiness are both acquired in the currency of the acts themselves, which is why the chapter can state the rule for arts and virtues in one breath: each is learned by doing the very thing being learned, not by preparing for it. There is no stage at which the acts are optional. The practices listed below are the modern spellings of that rule (shaping builds a complex behaviour from components; graded exposure arranges the dangers in an order a person can act in), and each works by arranging the doing, not by persuading the person first.
+The gradualness is a matter of the doing itself. The builder's competence and the brave person's steadiness are both acquired in the currency of the acts themselves, which is why the chapter can state the rule for arts and virtues in one breath: each is learned by doing the very thing being learned, not by preparing for it. There is no stage at which the acts are optional. The practices listed below are the modern spellings of that rule (shaping builds a complex behaviour from components; graded exposure arranges the dangers in an order a person can act in), and each works by arranging the doing, not by persuading the person first.
 
 ### In the compendium
 

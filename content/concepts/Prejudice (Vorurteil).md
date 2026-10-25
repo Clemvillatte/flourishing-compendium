@@ -19,7 +19,7 @@ The rehabilitation has a working side. Understanding does not wait for a full re
 
 > "We cannot understand without wanting to understand, that is, without wanting to let something be said. It would be an inadmissible abstraction to contend that we must first have achieved a contemporaneousness with the author or the original reader by means of a reconstruction of his historical horizon before we could begin to grasp the meaning of what is said. A kind of anticipation of meaning guides the effort to understand from the very beginning." (Gadamer, "Aesthetics and Hermeneutics" (1964), in Philosophical Hermeneutics, trans. Linge, p. 101, [Wikiquote](https://en.wikiquote.org/wiki/Hans-Georg_Gadamer))
 
-The anticipation is not a defect to be cleared away before real understanding starts. It is the material understanding works through, and the correction, when it comes, comes from the matter itself: a text that resists the expectation revises it. The practical takeaway runs against both the Enlightenment's ideal of a view from nowhere and the lazy use of the word: prejudice here is a claim one is answerable for, not a permission slip.
+The anticipation is the material understanding works through, and the correction, when it comes, comes from the matter itself: a text that resists the expectation revises it. The practical takeaway runs against both the Enlightenment's ideal of a view from nowhere and the lazy use of the word: prejudice here is a claim one is answerable for, and the answer is given by the matter rather than by the dismissal of the question.
 
 ### In the compendium
 

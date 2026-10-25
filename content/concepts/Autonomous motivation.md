@@ -21,7 +21,7 @@ The review draws the line through the middle of what looks like one thing. Intro
 
 > "Introjection describes a type of internal regulation that is still quite controlling because people perform such actions with the feeling of pressure in order to avoid guilt or anxiety or to attain ego-enhancements or pride." (Ryan and Deci 2000, [open PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
 
-The difference between introjected and identified regulation is ownership in the review's sense. The introjected rule is inside the person but still presses from outside the self, felt as guilt or pride; the identified rule has been weighed and accepted, and so moves rather than pushes. The practical question for any pursuit is not whether its reasons are internal but whose they have become.
+The difference between introjected and identified regulation is ownership in the review's sense. The introjected rule is inside the person but still presses from outside the self, felt as guilt or pride; the identified rule has been weighed and accepted, and so moves rather than pushes. The practical question for any pursuit is whether its reasons have been weighed and accepted. The introjected rule was never weighed; the identified one was.
 
 ## Related concepts
 
