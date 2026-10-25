@@ -85,3 +85,10 @@
   three "planned" registry entries once satisfied. Card-fidelity evidence
   now narrowed for all three bands (gfva-1025a sweep + this session's
   spot-checks).
+- Pre-validation note (scratch-copy test, nothing pushed from it):
+  dossier_registry_build.py --rebuild only accepts published registry
+  entries; right-view, right-intention and right-speech are still
+  status "planned", so the supervisor order is flip status first, then
+  rebuild (or the build splices them via the registry flip itself).
+  All three registry entries verified present with correct group
+  (eightfold-path), scope, nearby_terms, question_draft and art names.
