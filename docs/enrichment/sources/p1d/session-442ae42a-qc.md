@@ -31,3 +31,13 @@ D017's first checkpoint failed original-wikilink preservation and introduced an 
 Reclaimed p1d only to verify these eleven own repairs after releasing p1i. Replaced italic example labels with the protocol's bold marker, removed redundant fiction labels after “Imagine” and cut the drafting instruction in P002. Applied optional bridge/wording improvements in D095, P057, P141, E014, B129 and A043. No source quotation, metadata, original wikilink or protected reflection was changed in this pass.
 
 The continuation in p1i repairs ten further principles and records eight pending cross-link proposals. All twenty-one pass validation against the actual session-start preservation baseline; the reflection comments were separately compared byte-for-byte. This is not a certification of the inherited reflection claims or every linked page.
+
+## Verified handoff
+
+- Upgraded, not added, p1d: D017, D095, D133, P057, P141, E014, B129, A043, SE069, S048, P002.
+- Upgraded, not added, p1i: P064, B041, B034, B025, B088, B004, B021, P121, D142, D166.
+- Final structural pass: 21 checked, zero failed against `29d32da7`; warnings concern sparse Related concepts sections. Eight relationship proposals remain unapplied in p1i.json.
+- Independent protection comparison: all 21 frontmatters, principle statements and reflection comments unchanged. All original wikilinks pass preservation validation.
+- Full build: 5,944 entries. Python test discovery: 58 tests pass. DOM fixture: six sections, 37 cards, card counts/filtering/empty state/detail wiring pass. Build is not an academic source audit.
+- No changes were made to global queues or progress.json, no other band's principle was edited, and enrich_apply was not run.
+- Remaining maintenance flag: D150 still contains both the numbered Suwen locator and unsupported continuity bridge on the last remote read. The maintenance baton was fresh. Preserved reflection prompts are a separate editorial review and should not inherit certification from the body repairs.

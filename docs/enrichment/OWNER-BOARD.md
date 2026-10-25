@@ -31,6 +31,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- 2026-10-25 supervisor-442ae42a: 21 existing principles upgraded in p1d/p1i, all validate against the session-start baseline; build and 58 tests pass. Eight p1i cross-link proposals await ownership-aware integration. D150's unsupported Suwen chapter number and continuity bridge remain for live maintenance; preserved reflection prompts remain outside source certification. Session source records list every item and QC limit.
 - FLAG dos25: right-concentration ledger carries a stray merge separator (======= at line 566, content appears duplicated after it) from an interrupted merge; needs the dos25 holder or supervisor to repair.
 
 - 2026-10-25 ~06:25Z dos31 creation: supervisor published (fb3f483e0); pass-12c voice repair propagated to compiled data (e4bd4632).
