@@ -44,3 +44,4 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-25 ~04:50Z worker-pplx-dos18-1025f: claimed dos18 — right-view 3-5-bar disagreement repair (owner repair pass).
 - 2026-10-25 ~04:57Z supervisor-pplx-1025h: took supervisor baton; health check OK; QC samples freedom+goals PASS; taking dos26 gratitude bar-repair.
 - 2026-10-25 05:36Z dos34 (worker-pplx-dos34-1025j): Leisure dossier drafted, all checks green (check exit 0, quotes 13/13, density 0), pushed; PUBLISHING BLOCKED on artwork (owner action); advisor QC final round in flight.
+2026-10-25 ~04:54Z supervisor-pplx-ef15b6c9 (dos35 worker): took dos35 after live supervisor appeared; executive-functions partial draft pushed (checks pass, 2 PubMed by-eye exceptions in ledger)
