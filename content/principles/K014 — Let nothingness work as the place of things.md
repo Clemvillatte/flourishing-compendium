@@ -20,7 +20,7 @@ The Encyclopedia says that Nishitani follows Nishida in thinking of emptiness "a
 
 The sky image and the practical advice below belong to me, not to these sources.
 
-**Plain words** Absolute nothingness, in this reading, is not an empty hole where things used to be. It is the open field in which things can appear as what they are. When a structure in your life falls away, such as a role, a belief or a relationship, ask what can now appear that the structure was occupying.
+**Plain words** Western ears hear "nothingness" and picture a threat, a void where something should be. Nishitani's emptiness is closer to the stage of a theatre: not one of the props, but the clearing without which no prop could show up as itself. The practical edge follows from the picture, since a life jammed with props, titles, loyalties, opinions, has no clearing left, and the loss of one big prop is often the first open floor a person has had in years. The question worth carrying through a loss is not what to put back, but what the space can now show.
 
 *For example:* After losing a role at work, a person with no title gradually finds time and attention for a friendship that had been squeezed out.
 
