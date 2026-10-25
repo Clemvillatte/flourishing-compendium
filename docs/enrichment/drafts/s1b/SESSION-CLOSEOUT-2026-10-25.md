@@ -56,3 +56,13 @@ upgrade with the A108/A042 wiring).
 All six child items (s1e-003/004/005/006/007/008) pass story_check --context
 draft with 0 errors, combined with the earlier span verification. Registration-
 ready pending supervisor action.
+
+## Independent confirmation of the child's s1c-016 fix (2026-10-25)
+All three March 10, 2009 Gowers quotes verified verbatim against the live posts:
+"So I hereby state that I am basically sure that the problem is solved (though
+not in the way originally envisaged)." (Problem solved (probably)); "So the
+pool of potential collaborators was not as large as it might have been..." and
+"for me personally this has been one of the most exciting six weeks of my
+mathematical life." (Polymath1 and open collaborative mathematics). The
+restored leading "So" is correct on the carrier. The child's verification
+rounds hold up under independent sampling.
