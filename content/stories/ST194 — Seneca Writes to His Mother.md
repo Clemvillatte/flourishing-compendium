@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Historical/biographical narrative · Rome, 1st century CE · [Seneca the Younger](https://en.wikipedia.org/wiki/Seneca_the_Younger)*
 
-Exiled to Corsica by Claudius, Seneca writes the Consolation to Helvia, addressed to his mother. He refuses to console her with the usuals: he will not tell her his exile is not so bad, and he will not tell her to stop grieving. He argues instead that nothing has been taken from him that was ever his: his books, his studies, his mind, his character travel with him. What has been lost is position, and position was never the self.
+Exiled to Corsica by Claudius, [[T013 — Seneca|Seneca]] writes the Consolation to Helvia, addressed to his mother. He refuses to console her with the usuals: he will not tell her his exile is not so bad, and he will not tell her to stop grieving. He argues instead that nothing has been taken from him that was ever his: his books, his studies, his mind, his character travel with him. What has been lost is position, and position was never the self.
 
 The letter's structure is the discipline of desire in literary form. Seneca does not deny the pain of exile; he dismantles the inventory of what was actually lost, item by item, and shows the list of real goods untouched. Corsica, he notes, has the same sun, and the sea is the same sea.
 
