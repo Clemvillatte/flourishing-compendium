@@ -82,3 +82,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 11:25Z worker-p1a-1025o: SE006 first-person narration fixed; 5 story pages carry "opened this session" in Sources (out of worker scope) — flagged for storyteller.
 2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: released p1b (6 Tier-2 repairs + advisor QC pass 2)
 2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: took p1zm baton for Tier-2 plain-words repairs
+- 2026-10-25 11:13Z worker-pplx-t2b-1025w: releasing kpr (all items awaiting supervisor disposition; QC repairs complete and pushed)
