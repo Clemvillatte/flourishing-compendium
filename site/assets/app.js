@@ -9360,11 +9360,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Drive: held under [Drive-reduction theory](card:Drive-reduction%20theory) and the brain-reward group below. - Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it. - Willpower: the compendium holds self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will. - Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal."
+          "x": "Drive: held under [Drive-reduction theory](card:Drive-reduction%20theory) and the brain-reward group below."
+        },
+        {
+          "t": "p",
+          "x": "Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it."
+        },
+        {
+          "t": "p",
+          "x": "Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will."
+        },
+        {
+          "t": "p",
+          "x": "Goals: goal-setting and goal conflict belong to the Goals dossier; this page lists only goal cards that bear on why a person pursues the goal."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on motivation"
+          "x": "The map: the entries on motivation"
         },
         {
           "t": "h2",
@@ -9388,7 +9400,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Distinguishing needs from wants (SDT)](card:Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which the compendium's principles rely."
+          "x": "[Distinguishing needs from wants (SDT)](card:Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which my principles rely."
         },
         {
           "t": "p",
@@ -9552,7 +9564,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards.\" ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract)): Secondary source; quoted passage checked.",
+          "x": "\"As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards.\" ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract))",
           "s": null
         },
         {
@@ -9561,12 +9573,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Our results suggest that in general, rewards are not harmful to motivation to perform a task.\" ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/)): Secondary source; quoted passage checked.",
+          "x": "\"Our results suggest that in general, rewards are not harmful to motivation to perform a task.\" ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "A third paper compared the reviews and noted that \"despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions\" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)): Secondary source; quoted passage checked. The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by the compendium's own cards, and with that later meta-analysis adding that \"Rewards given for low-interest tasks enhance free-choice intrinsic motivation.\""
+          "x": "A third paper compared the reviews and noted that \"despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions\" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)). The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that \"Rewards given for low-interest tasks enhance free-choice intrinsic motivation.\""
         },
         {
           "t": "h2",
@@ -9578,12 +9590,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"that the type of motivation is generally more important than the amount in predicting life's important outcomes.\" ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"that the type of motivation is generally more important than the amount in predicting life's important outcomes.\" ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf))",
           "s": null
         },
         {
           "t": "p",
-          "x": "They define the two types as follows: \"Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self.\" The older needs-based and expectancy accounts that the compendium also holds treat motivation chiefly as a matter of strength or of expected payoff; the compendium's practices lean on the SDT reading and flag where other cards disagree in emphasis."
+          "x": "They define the two types as follows: \"Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self.\" The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis."
         },
         {
           "t": "h",
@@ -9597,7 +9609,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -9639,7 +9651,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
