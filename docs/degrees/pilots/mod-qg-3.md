@@ -42,8 +42,10 @@ Instruction (each outcome taught):
 
 - Outcome 1: the single verified medium (QG-M03-01) as the guided
   instruction. Per fcAcademyData it is already verified-video with a
-  printed 5-minute duration (YoQi VOD, free trial access, so its access
-  condition must be labelled), which fills the 5-minute rung only.
+  printed 5-minute duration; its catalogue page was inspected this
+  session (2026-10-25, see the verification section: no paywall or
+  pricing language visible at page level, playback check open), which
+  fills the 5-minute rung only.
   Graduated guided standing sessions drawn from the verified practice
 gallery would cover the later rungs, so the learner has a guided option
 at shorter standing times (this is the practice degree's version of
