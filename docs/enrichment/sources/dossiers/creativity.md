@@ -599,3 +599,27 @@ INDEPENDENT re-verification and closes the liveness defect that remained.
   updated — the open item is resolved and independently re-verified; the
   goals row's six-dense-paragraphs note is also stale (current file: 36
   paragraphs, 0 dense).
+
+## Schumpeter span completion (2026-10-25 12:03Z, worker-pplx-dos32-1025n3, baton dos32)
+
+The earlier read-only assist (p1a worker, 11:18Z pass) verified the
+Schumpeter creative-destruction sentence only up to "incessantly
+revolutionizes the" because the fetch excerpt cut mid-sentence, leaving
+the tail "treat as partially verified". Completed this pass with the full
+PDF downloaded fresh (thaleszp.com/files/Schumpeter_creative_dest.pdf,
+curl 200, 41,322 bytes; pdftotext extraction):
+
+"...the same process of industrial mutation—if I may use that biological
+term—that incessantly revolutionizes the economic structure from within,
+incessantly destroying the old one, incessantly creating a new one. This
+process of Creative Destruction is the essential fact about capitalism."
+
+Both quoted spans on the page are now verified in full and verbatim: the
+tail "incessantly destroying the old one, incessantly creating a new one"
+matches exactly; the "process of Creative Destruction is the essential
+fact about capitalism" fragment matches the source sentence "This process
+of Creative Destruction is the essential fact about capitalism." with the
+leading "This" outside the quotation (fragment quote, no ellipsis owed).
+The source carries a footnote marker (revolutionizes2) at the mid-sentence
+break — djvu/print artifact, does not affect the quoted words. The
+Schumpeter flag is closed: fully verified. No dossier text change owed.
