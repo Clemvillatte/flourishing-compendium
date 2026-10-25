@@ -16,10 +16,10 @@ The ACT article names the problem and the move. The problem: "People begin to ta
 
 > "The goal is greater behavioral flexibility, not an immediate change in their frequency or form." (Hayes et al. 2011, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-I apply the goal sentence to the panic thought: the exercise is not to stop "I can't do this" but to present while thinking it.
+I apply the goal sentence to the panic thought: the exercise is to keep presenting while "I can't do this" is still being thought.
 
 **Plain words**
-The technique is a labeling move: the thought shows up, and you say "having the thought that..." — the sentence keeps the thought from being mistaken for a command. The article is explicit that the aim is not fewer thoughts or nicer thoughts; the aim is flexibility. You can still be nervous and still present.
+A thought arrives wearing a badge that says FACT, and most of us read the badge without asking who issued it. The labeling move takes the badge off: "I'm having the thought that I can't do this" puts the thought back in its place as one more mental event — real, present, and not in charge. The aim is not fewer thoughts or nicer thoughts; the aim is that the thought stops being the thing that decides what you do.
 
 *For example:* Suppose the presentation panic thought "I can't do this". As a modern application, the defusion version is "there's the can't-do-it thought again" and continuing to present, nervous and all.
 
