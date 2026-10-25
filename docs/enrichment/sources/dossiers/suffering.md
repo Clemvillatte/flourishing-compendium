@@ -514,3 +514,13 @@ to the dos30 worker; this patch follows the lane-4 routing and is
 pushed for the supervisor's disposition.
 
 - 2026-10-25 10:56:17Z — repair, self-checked, pushed. Two of the three flagged spans were phantoms caused by quoted phrases under 25 characters breaking the verifier's quote pairing (the Nietzsche Antichrist sentence's "struggle with suffering" and "the nihilistic religions"; the Frankl paragraph's "In no way."). The short phrases were dequoted to plain prose; the verbatim Frankl span ("the meaningful thing to do is to remove its cause...") and the BGE 225 span were re-checked clean against the fabian.ca PDF (opened this session, fetches and extracts fine) and the Gutenberg text respectively. The scaife.perseus.org span remains the documented JS-render exception.
+
+## QC sample — flag handed off (2026-10-25 11:10Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist)
+
+quote_verify reported 1 not found: the Epictetus Enchiridion 5 span on
+scaife.perseus.org (JS-reader carrier class). Alternate-carrier attempts
+this pass, both failed: Gutenberg #451 (Higginson translation — different
+wording, span absent) and Wikisource's Long translation (fetch error).
+Next pass: try the Perseus Hopper text server or the ScaifeCTS API for
+tlg0557.tlg002.pers-eng. No dossier text change needed; span not
+verified this pass.
