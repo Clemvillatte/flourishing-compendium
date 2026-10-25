@@ -1,11 +1,13 @@
 {
  "batch": "t1h",
  "done": [
-  "T058 Sartre"
+  "T058 Sartre",
+  "T059 Camus",
+  "T060 Beauvoir"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T12:07:04+00:00"
+ "updated": "2026-10-25T12:09:40+00:00"
 }
