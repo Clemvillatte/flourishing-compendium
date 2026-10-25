@@ -4,6 +4,8 @@
 
 Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper: motives that are borrowed, imposed or performative drain the very life they are meant to serve.
 
+I came to this dossier with the ownership question: whether a motive can be mine while I am moved by it, and the threads below keep that question in front of the research. The self-determination family comes first, then the belief-and-expectation accounts, the brain of wanting, interest and curiosity, what people actually pursue and for whom, and desire itself.
+
 ### Nearby terms
 
 Drive: held under [Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory) and the brain-reward group below.
@@ -14,93 +16,77 @@ Willpower: I hold self-control and weakness of will with the Decision-Making dos
 
 Goals: goal-setting and goal conflict belong to the Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
 
-## The map: the entries on motivation
+## Intrinsic, extrinsic and the self-determination family
 
-### Intrinsic, extrinsic and the self-determination family
+### What makes motivation one's own?
 
-[Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation): doing an activity for its inherent satisfaction rather than for a separable consequence.
+The distinction the family runs on is [Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation), doing an activity for its inherent satisfaction rather than for a separable consequence, against [Extrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20motivation), doing something for what it gets you, not for the activity itself.
 
-[Extrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20motivation): doing something for what it gets you, not for the activity itself.
+[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination) is the claim that people do best when their motivation is their own, at the centre of self-determination theory, and [Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy) names the self-governance at stake: acting from one's own endorsement rather than from external pressure.
 
-[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination): the claim that people do best when their motivation is their own, at the centre of self-determination theory.
+The needs behind that claim are held on [Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory), the Deci and Ryan account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, with [Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29) drawing the line between needs and wants that my principles rely on.
 
-[Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory): the Deci and Ryan account of the needs whose satisfaction predicts well-being: autonomy, competence and relatedness.
+### How does a rule become a want?
 
-[Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which my principles rely.
+[Autonomous motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20motivation) includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own; [Controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Controlled%20motivation) is motivation sourced in pressure, external demands and rewards, or internally felt guilt, anxiety and pride. The two halves of the distinction are compared on [Autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation).
 
-[Autonomous motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20motivation): includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own.
+The carrying inside is the interesting part: [Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation) gives two ways of carrying a rule inside, one owned and one swallowed. The question of how a rule becomes a want is what the whole family turns on.
 
-[Controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Controlled%20motivation): motivation sourced in pressure: external demands and rewards, or internally felt guilt, anxiety and pride.
+### Can rewards reach into the ownership?
 
-[Autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation): the comparison between the two halves of the self-determination theory distinction.
+[Motivation crowding theory](https://clemvillatte.github.io/flourishing-compendium/#card=Motivation%20crowding%20theory) holds that external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation. What those conditions are is the live dispute, and it has its own section below.
 
-[Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation): two ways of carrying a rule inside.
+### Where does competence fit?
 
-[Motivation crowding theory](https://clemvillatte.github.io/flourishing-compendium/#card=Motivation%20crowding%20theory): external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation.
+[Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation) is Robert White's proposal for the motive behind exploration and mastery, the felt capacity side of the family's competence need.
 
-[Autonomy](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy): self-governance: acting from one's own endorsement rather than from external pressure.
+## Beliefs, expectations and goals
 
-[Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation): Robert White's proposal for the motive behind exploration and mastery.
+### What do beliefs about the task do?
 
-### Beliefs, expectations and goals
+[Self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy) is Bandura's construct for the belief that one can execute the behaviour required to produce an outcome. [Expectancy theory](https://clemvillatte.github.io/flourishing-compendium/#card=Expectancy%20theory) is Vroom's formula, motivation equals the product of expectancy that effort works and the valence of the outcome, and [Expectancy-value theory (Eccles, Wigfield)](https://clemvillatte.github.io/flourishing-compendium/#card=Expectancy-value%20theory%20%28Eccles%2C%20Wigfield%29) explains why people choose and persist at tasks by two beliefs, how well they expect to do and how much the task is worth to them.
 
-[Self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy): Bandura's construct for the belief that one can execute the behaviour required to produce an outcome.
+[Goal setting theory (Locke & Latham)](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20setting%20theory%20%28Locke%20%26%20Latham%29) adds the finding that specific, difficult goals produce better performance than vague or easy goals.
 
-[Expectancy theory](https://clemvillatte.github.io/flourishing-compendium/#card=Expectancy%20theory): Vroom: motivation equals the product of expectancy that effort works and the valence of the outcome.
+### What about the direction of the motive?
 
-[Expectancy-value theory (Eccles, Wigfield)](https://clemvillatte.github.io/flourishing-compendium/#card=Expectancy-value%20theory%20%28Eccles%2C%20Wigfield%29): explains why people choose and persist at tasks by two beliefs: how well they expect to do, and how much the task is worth to them.
+[Achievement motivation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Achievement%20motivation%20theory) is the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence, and [Acquired Needs Theory (McClelland)](https://clemvillatte.github.io/flourishing-compendium/#card=Acquired%20Needs%20Theory%20%28McClelland%29) names three motives that are learned rather than inborn, the needs for achievement, affiliation and power.
 
-[Goal setting theory (Locke & Latham)](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy goals.
+[Approach versus avoidance motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Approach%20versus%20avoidance%20motivation) is the valence split in the science of motivation, given its modern statement in Elliot's hierarchical model. The goals themselves sort on ownership: a goal is [Self-concordant](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goals) when it is consistent with the person's developing interests and core values, and [Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit) is a trait introduced by Duckworth and colleagues in 2007, defined by effort and interest kept up over years.
 
-[Achievement motivation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Achievement%20motivation%20theory): the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence.
+## Needs, drives and the brain of wanting
 
-[Acquired Needs Theory (McClelland)](https://clemvillatte.github.io/flourishing-compendium/#card=Acquired%20Needs%20Theory%20%28McClelland%29): three motives that are learned rather than inborn: the needs for achievement, affiliation and power.
+### What does wanting look like in the machinery?
 
-[Approach versus avoidance motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Approach%20versus%20avoidance%20motivation): the valence split in the science of motivation, given its modern statement in Elliot's hierarchical model.
+[Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory) is Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency. [Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory) is Hull's account, in which drive reduction provides reinforcement while drive activates learned behavioural potentials into performance.
 
-[Self-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goals): a goal is self-concordant when it is consistent with the person's developing interests and core values.
+The modern neuroscience of wanting splits reward in two: [Incentive salience theory](https://clemvillatte.github.io/flourishing-compendium/#card=Incentive%20salience%20theory), where Berridge and Robinson separate two parts of reward, and [Reward prediction error (Schultz)](https://clemvillatte.github.io/flourishing-compendium/#card=Reward%20prediction%20error%20%28Schultz%29), the difference between the reward received and the reward predicted. The wanting there is not the liking, which is why the wanting-versus-liking kernel below exists.
 
-[Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit): a trait introduced by Duckworth and colleagues in 2007, defined by effort and interest kept up over years.
+## Interest and curiosity
 
-### Needs, drives and the brain of wanting
+### What is interest for?
 
-[Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory): Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency.
+[Curiosity](https://clemvillatte.github.io/flourishing-compendium/#card=Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](https://clemvillatte.github.io/flourishing-compendium/#card=Interest%20as%20motive) is Dewey's claim that interest is not a garnish on learning but its engine.
 
-[Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory): in Hull's account, drive reduction provides reinforcement, while drive activates learned behavioural potentials into performance.
+The state interest feeds is [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow), the mental state of being fully immersed in an activity, with energized focus and full involvement; its opposite is [Boredom](https://clemvillatte.github.io/flourishing-compendium/#card=Boredom), the aversive experience of wanting, but being unable, to engage in satisfying activity.
 
-[Incentive salience theory](https://clemvillatte.github.io/flourishing-compendium/#card=Incentive%20salience%20theory): Berridge and Robinson separate two parts of reward.
+## What people pursue, and for whom
 
-[Reward prediction error (Schultz)](https://clemvillatte.github.io/flourishing-compendium/#card=Reward%20prediction%20error%20%28Schultz%29): the difference between the reward received and the reward predicted.
+### What are people actually after?
 
-### Interest and curiosity
+[Intrinsic versus extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals) is the finding that intrinsic goals predict well-being, as reported by Kasser and Ryan and by Deci and Ryan. [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals) is the self-determination theory account of goals sorting into two kinds with different well-being consequences.
 
-[Curiosity](https://clemvillatte.github.io/flourishing-compendium/#card=Curiosity): in the information-gap account, curiosity arises when a person becomes aware of a gap in their knowledge that information could fill.
+The other half of the finding is [Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved; the correlational part holds.
 
-[Interest as motive](https://clemvillatte.github.io/flourishing-compendium/#card=Interest%20as%20motive): Dewey: interest is not a garnish on learning but its engine.
+### For whom?
 
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the mental state of being fully immersed in an activity, with energized focus and full involvement.
+[Prosocial motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20motivation) is the desire to benefit other people, as Grant and Berg define it. [Motivated reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Motivated%20reasoning) is Kunda's proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes, the shadow use of motive. [Motivational interviewing](https://clemvillatte.github.io/flourishing-compendium/#card=Motivational%20interviewing) is the practice built on working with, not against, a person's own motivation.
 
-[Boredom](https://clemvillatte.github.io/flourishing-compendium/#card=Boredom): the aversive experience of wanting, but being unable, to engage in satisfying activity.
+## Desire
 
-### What people pursue, and for whom
+### Can a want be wanted?
 
-[Intrinsic versus extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals): intrinsic goals predict well-being, as reported by Kasser and Ryan and by Deci and Ryan.
-
-[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): in self-determination theory, goals sort into two kinds with different well-being consequences.
-
-[Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved; the correlational part holds.
-
-[Prosocial motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20motivation): the desire to benefit other people, as Grant and Berg define it.
-
-[Motivated reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Motivated%20reasoning): Kunda's proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes.
-
-[Motivational interviewing](https://clemvillatte.github.io/flourishing-compendium/#card=Motivational%20interviewing): works with, not against, a person's own motivation.
-
-### Desire
-
-[Desire](https://clemvillatte.github.io/flourishing-compendium/#card=Desire): the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it.
-
-[Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires): Frankfurt's term for wanting what you want.
+[Desire](https://clemvillatte.github.io/flourishing-compendium/#card=Desire) is the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it. [Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires) is Frankfurt's term for wanting what you want, the question of ownership raised to the second power.
 
 ## Where the traditions genuinely disagree
 
@@ -142,7 +128,7 @@ They define the two types as follows: "Autonomous motivation involves behaving w
 
 The cards carry their own evidence notes. Several of these are proposals built on the research and have not been tested as protocols.
 
-::Retention:: Retention is what people keep because it works for them. A reader who keeps the monthly reasons check, or the habit of asking whether a want is also a like, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+::Retention:: What I would retain from this theme is the ownership check itself: whose reasons a goal rests on, and whether a want is also a like. What stays is a matter of fit between the practice and the life it enters.
 
 ## Story: the stories that carry the theme
 

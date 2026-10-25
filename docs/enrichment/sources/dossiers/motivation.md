@@ -110,3 +110,54 @@ stale, the Goals dossier is published in the registry (and already
 cross-references this page); now reads "belong to the Goals
 dossier". No other edits. Checker exit 0 after the edit. Editorial
 review only; no external carriers freshly opened this pass.
+
+## GF-model restructuring pass (2026-10-25, worker-pplx-dos10-1025i, dos10 baton)
+
+Per the 2026-10-25 owner-validated orders (the same instruction under
+which right-mindfulness and right-concentration were restructured),
+the dossier's map section was restructured into the GF interwoven
+format.
+
+What was done:
+
+- The "## The map: the entries on motivation" heading and its
+  entry-lists were removed. The six former map subsections became
+  question-headed threads under theme headings: the self-determination
+  family (What makes motivation one's own? / How does a rule become a
+  want? / Can rewards reach into the ownership? / Where does
+  competence fit?), beliefs and expectations (What do beliefs about
+  the task do? / What about the direction of the motive?), the
+  machinery of wanting (What does wanting look like in the
+  machinery?), interest and curiosity (What is interest for?), what
+  people pursue and for whom (What are people actually after? / For
+  whom?), and desire (Can a want be wanted?).
+- A second, first-person intro paragraph was added stating the
+  organizing question (ownership) and the thread order.
+- Card-link set identical to the previous revision: 50 links, diff of
+  extracted #card= targets before and after (identical).
+- No new quotes; disagreement section, VSR practice, Nearby terms and
+  Story section unchanged. Retention rewritten as my editorial
+  recommendation per the house pattern.
+- One dense paragraph split on the first check pass; density 0 after.
+
+Verification this pass: quote_verify 5 checked, 3 not found, all
+PubMed blocked-fetch. Two of the three re-verified by eye this
+session against accessible carriers: the Deci 1999
+engagement-contingent sentence confirmed verbatim against the
+leeds-faculty.colorado.edu full-text PDF of the article; the two
+later-meta-analysis sentences ("rewards are not harmful..."; "Rewards
+given for low-interest tasks enhance...") confirmed verbatim by
+fetching PMC2731358 directly. The third (the 10589298 comment paper's
+"despite their common focus, these reviews have offered dramatically
+opposed bottom-line conclusions") is carried on this ledger's prior
+verification entry (matched against the opened PubMed page in the
+original build session); a fresh fetch was blocked this session and
+no alternate carrier was found, so it rests on the ledger record.
+
+Checks: dossier_check.py exit 0 (50 card links, 26 headers, 4
+external carriers); density 0; voice audit clean; zero prose em
+dashes; banned-word scan clean. The disagreement section holds 2
+questions, both previously verified against opened carriers; the
+3-question minimum remains UNRESOLVED at 2 of 3, flagged for the
+supervisor, not manufactured. Registry status remains 'published';
+post-publication GF restructure, supervisor review requested.

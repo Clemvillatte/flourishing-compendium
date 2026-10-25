@@ -1,5 +1,7 @@
 {
- "batch": "dos10",
- "done": ["motivation"],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos10-manifest.json"
+  "batch": "dos10",
+  "done": [
+    "motivation"
+  ],
+  "note": "GF-model restructuring pass pushed 2026-10-25 (worker-pplx-dos10-1025i): motivation map heading and entry-lists rewritten into question-headed threads; first-person intro paragraph added; 50 card links unchanged (diffed); no new quotes; 2 of 3 blocked-fetch quotes re-verified by eye this session (Deci 1999 via leeds-faculty full-text PDF, later meta-analysis via PMC2731358), the third carried on the ledger's prior verification; checker exit 0, density 0, voice clean. Disagreement minimum UNRESOLVED at 2 of 3, flagged for supervisor. Registry 'published' untouched; post-publication GF restructure per the 2026-10-25 owner-validated orders; supervisor review requested"
 }
