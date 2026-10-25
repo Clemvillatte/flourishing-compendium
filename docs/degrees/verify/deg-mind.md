@@ -14,12 +14,12 @@ evidence on file.
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
 these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06, M06-CO02, M06-AF04, M06-AF05, M06-AT02, M06-CO05.
+M06-AF06, M06-CO02, M06-AF04, M06-AF05, M06-AT02, M06-CO05,
+SRC-M07-001.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
 session:
-SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
-SRC-M07-019.
+SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008, SRC-M07-019.
 
 ### M06-AF09: How Positive Emotions Work and Why (Barbara L. Fredrickson)
 
@@ -318,6 +318,35 @@ SRC-M07-019.
 - Verification status: verified-video for identity, access and duration
   (2026-10-25); content coverage unclassified beyond the title this
   session, transcript not read.
+
+### SRC-M07-001: PSYC 110, Lecture 16, Self and Other Part I (Paul Bloom)
+
+- Legacy attachment: mod-mind-2 required media.
+- Identity: the Open Yale Courses page for PSYC 110, Lecture 16, "A Person
+  in the World of People: Self and Other, Part I", presented by Professor
+  Paul Bloom (https://oyc.yale.edu/psychology/psyc-110/lecture-16, opened
+  2026-10-25). Open Yale Courses serves the lecture video on the open page;
+  no paywall or login was encountered.
+- Duration: not printed on the page (checked 2026-10-25); flagged for the
+  owner to read from the player.
+- Instructor credentials: Paul Bloom, Brooks and Suzanne Ragen Professor
+  Emeritus of Psychology at Yale, the recorded instructor of the Spring
+  2007 PSYC 110 course (same opened pages as M06-AF01:
+  https://psychology.yale.edu/people/paul-bloom and
+  https://oyc.yale.edu/introduction-psychology/psyc-110, both opened
+  2026-10-25).
+- Language: English.
+- Event: Yale PSYC 110, recorded Spring 2007.
+- Content coverage (from the lecture outline on the opened page, read
+  2026-10-25): social psychology and connections between people (00:00),
+  the spotlight and transparency effects (15:56), self-serving
+  aspects of the self (22:40), cognitive dissonance (27:01), self and the
+  other (40:00), how we think about other people (50:03).
+- Relevant segments: spotlight effect 15:56 to 22:40; cognitive dissonance
+  27:01 to 40:00.
+- Verification status: verified-web for identity, access and content
+  outline (2026-10-25); duration unverified, and the transcript was not
+  read this session.
 
 ## Block I batch (verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
