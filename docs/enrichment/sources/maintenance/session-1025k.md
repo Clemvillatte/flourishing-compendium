@@ -168,3 +168,6 @@
 
 ## D089, AF012 mislinked PMC citations (found by comparing all 165 PMC links on principle pages with NCBI titles/authors)
 - D089: 'Bonanno, 2004' pointed to PMC3181329 (an E. coli metabolism paper) and 'Stroebe and Schut, 1999' pointed to PMC6844541 (O'Connor 2019, a grief history). Replaced with the PubMed record for Stroebe and Schut 1999 (abstract opened) and the Columbia-hosted PDF of Bonanno 2004 (abstract opened). AF012: first author of PMC8460117 is Su (Zamboanga is ninth); label corrected, quote verified in the PMC abstract. The other 160+ PMC links had author/title consistent with their labels at the first-author level; I did not open each full text.
+
+## Verification sweep (T+41)
+- All 145 principle pages touched by this session pass enrich_validate.py. A029 EE III.7 (Kenny) quote verified verbatim in the archive.org PDF. A049/A077 quotes verified. No new page edits in this entry.
