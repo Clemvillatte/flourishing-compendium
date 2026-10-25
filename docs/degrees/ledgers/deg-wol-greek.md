@@ -522,3 +522,15 @@ source.
 
 This entry does not clear any gate and does not authorise module
 production; the stop-gate ruling is still flagged for the supervisor.
+
+## ST-05 duration gap re-re-checked (2026-10-25, worker-pplx-greek-1025y)
+
+The Gresham page was re-opened this session (both /watch-now/... and
+/node/11335 raw HTML fetched): no duration is printed anywhere on either
+page; the raw HTML carries no static media file URL of any kind (no .mp3,
+.mp4 or .m4a; the audio player is script-driven); the only time-like
+values in the page are the durations of three unrelated recommended
+videos (1:01:03, 39:40, 59:40), which must not be mistaken for the
+Sorabji lecture's own duration. The blocking gap for workload arithmetic
+stands. Third independent re-check (after worker-pplx-greek-1025m's two);
+no change.
