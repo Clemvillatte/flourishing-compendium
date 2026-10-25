@@ -246,3 +246,6 @@ terrencedeacon.com no longer resolves (DNS failure). Replaced with the publisher
 
 ## Flag resolved: translator credit for Gutenberg 52124 and 52881 (The Joyful Wisdom)
 The Gutenberg header lists the translators as Paul V. Cohn, Thomas Common and Maude Dominica Petre, edited by Oscar Levy ([Gutenberg 52124](https://www.gutenberg.org/ebooks/52124), [Gutenberg 52881](https://www.gutenberg.org/ebooks/52881)). Pages citing "Common" or "Cohn" alone are therefore both partly right; "trans. Common, ed. Levy" is the safest short form. No page changes.
+
+## B047 and B131 — Hakuin "awaken fully" and Yampolsky p. 144 (previously flagged)
+Opened [Great Doubt: Practicing Zen in the World (Terebess PDF)](https://terebess.hu/zen/mesterek/greatdoubt.pdf): it introduces the sentence as Hakuin's and footnotes it as "Yampolsky 1971, 144 revised". The wording and locator on B131 therefore match the source as quoted there; the page already says the book quotes a revised version. Yampolsky's own book was not opened.
