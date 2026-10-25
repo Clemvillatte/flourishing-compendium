@@ -432,3 +432,34 @@ distinction. Checks: dossier_check exit 0 (41 card links, 16
 headers, 15 carriers); voice audit 9 -> 8 candidates, all reviewed
 keeps. No
 external carriers opened in this pass.
+
+## Hand-verification: full-span cold read (worker-7fbdff24)
+
+- 2026-10-25 12:43:27Z read clock: dos23 (right-effort) full-span hand-verification. Read the
+  entire 131-line dossier and this ledger. Gates: dossier_check exit 0 (41 card
+  links resolve, 16 headers, 15 external carriers), dossier_density 26
+  paragraphs 0 dense, dossier_quote_verify 17 checked / 0 not found.
+- Fresh carrier verifications this pass (independent fetches, not inherited):
+  SN 45.8 Thanissaro four-efforts blockquote verbatim on the live accesstoinsight
+  page (raw HTML string match; the fourth effort's carrier wording "for the
+  maintenance" matches the dossier exactly); AN 6.55 lute-string span verbatim
+  (same carrier); Dhammapada 276 Buddharakkhita span verbatim (same carrier);
+  Oaten & Cheng 2006 both spans verbatim via eutils 17032494; Miles et al. 2016
+  both spans verbatim on the live whiterose eprints page; Duckworth et al. 2007
+  all three spans verbatim via eutils 17547490; Credé et al. 2017 all four spans
+  verbatim via eutils 27845531; Jachimowicz et al. 2018 both spans verbatim on
+  the PMC full text (one curly-to-straight apostrophe rendering normalization,
+  same class as the documented SEP precedent); Tao Te Ching 48 Legge spans
+  verbatim on the Gutenberg pg216 text (line-break normalization; one editorial
+  case normalization at a splice point: the carrier's sentence-initial "If one
+  take trouble" is quoted mid-sentence as "if one take trouble" - words
+  otherwise exact; noted, not repaired, as it is standard splice practice and
+  the project's rendering-artifact class).
+- Dispute structure: three substantiated disagreements, each affirm/deny on
+  opened carriers (self-control training general capacity: Oaten & Cheng 2006
+  vs Miles et al. 2016 with Friese et al. 2017 honest; grit vs
+  conscientiousness: Duckworth 2007 vs Credé 2017 with Jachimowicz 2018;
+  trying as road or obstacle: Dhammapada 276 / SN 45.8 vs Tao Te Ching 48 with
+  the lute string as the dossier's own mediating reading, marked as the
+  writer's lean). Limits paragraphs honest (abstracts-only on the grit
+  statistics; the Federer story scoped as observer's report).
