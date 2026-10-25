@@ -978,6 +978,76 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 0:54:28.
 - Verification status: verified-video, with the credential-provenance note.
 
+### M16-P01: What is Phronesis and How to Develop It? (Kristján Kristjánsson, Mind&Ethics Roma Tre)
+
+- Identity and access: oembed confirms the lecture on the Mind&Ethics Roma Tre
+  channel (https://www.youtube.com/watch?v=2IV4PpdW9gI).
+- Duration: 1:16:19 (watch page, 2026-10-25).
+- Instructor credentials: Kristján Kristjánsson, presented in the Mind&Ethics
+  lecture series of Roma Tre University; the host page does not print his
+  affiliation, so the owner should attach an institutional biography before use.
+- Language: English.
+- Content coverage: classified from the recording material, the lecture discusses
+  what phronesis (practical wisdom) is and how it develops, Aristotle's proposed
+  developmental trajectories, a four-part model of moral sensitivity, moral
+  identity concerning flourishing, emotion regulation and reasoning through
+  conflicts, research on whether phronesis predicts moral decision-making,
+  educational and professional interventions, professional ethics, collective
+  phronesis in organizations and politics, and flourishing and moral identity in
+  liberal societies.
+- Relevant segment: whole lecture, 1:16:19.
+- Verification status: verified-video, with the credential-provenance note.
+
+### M16-P02: Cultivating Practical Wisdom in Medical Education (Zack Loveless, University of Chicago)
+
+- Identity and access: oembed confirms the lecture on the University of Chicago
+  Center for Practical Wisdom channel
+  (https://www.youtube.com/watch?v=oPRq0sLWI14); livestream lecture, May 7, 2025.
+- Duration: 0:53:50 (watch page, 2026-10-25).
+- Instructor credentials: Dr Zack Loveless, Director of Programming and Operations
+  at the Hyde Park Institute and Lecturer in the Humanities Collegiate Division at
+  the University of Chicago, PhD in Philosophy from the University of Chicago (per
+  the host description).
+- Language: English.
+- Content coverage: the host's description states the talk describes a yearlong
+  curricular initiative for medical trainees grounded in an Aristotelian conception
+  of virtue, covering common challenges in medical practice, qualities such as
+  compassion, courage and honesty, and research showing gains in wisdom, wise
+  reasoning, epistemic humility and life satisfaction for participants.
+- Relevant segment: whole lecture, 0:53:50.
+- Verification status: verified-video.
+
+### PHR-02: The Corbett Lecture 2024, Targeting the Good, Archery as an Image of Wisdom in Aristotle and Plato (Gabriel Richardson Lear, Cambridge)
+
+- Identity and access: oembed confirms the lecture on the Classics at Cambridge
+  channel (https://www.youtube.com/watch?v=CDeeLO6nMGM).
+- Duration: 0:52:59 (watch page, 2026-10-25).
+- Instructor credentials: Gabriel Richardson Lear, University of Chicago (per the
+  host description); the Corbett Lecture in ancient philosophy, Cambridge.
+- Language: English.
+- Content coverage: the host's description states the lecture explores Plato and
+  Aristotle's craft models of practical wisdom and their comparison of the wise
+  reasoner to an archer, contrasting these with modern instrumental rationality and
+  decision theory, and argues we should attend to images of rationality and not
+  only theories.
+- Relevant segment: whole lecture, 0:52:59.
+- Verification status: verified-video.
+
+### M23-EX04: Dan Zahavi on the Appropriation of Phenomenology in Qualitative Research (Laboratory for Phenomenological Research)
+
+- Identity and access: oembed confirms the lecture on the Laboratory for
+  Phenomenological Research channel
+  (https://www.youtube.com/watch?v=dZxsjIl4IQo).
+- Duration: 0:55:55 (watch page, 2026-10-25).
+- Instructor credentials: Dan Zahavi, philosopher; the host page does not state his
+  affiliation, so the owner should attach an institutional biography before use.
+- Language: English.
+- Content coverage: the host's description states the lecture assesses the
+  appropriation of philosophical phenomenology in qualitative literature and
+  advocates a middle path between hyper-philosophizing and ignoring the tradition.
+- Relevant segment: whole lecture, 0:55:55.
+- Verification status: verified-video, with the credential-provenance note.
+
 ## Block A status
 
 All 36 Block A records for deg-philosophy have been processed: 33 verified in this
