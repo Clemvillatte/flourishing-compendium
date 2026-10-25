@@ -220,7 +220,7 @@ robots-disallowed this pass (it worked earlier in the day for Burke
 fetcher. Next pass: retry E-utilities, or verify via the publisher
 abstract pages. No dossier text changes needed for the verified spans.
 
-## QC sample (2026-10-25 ~12:12Z — TIMESTAMP CORRECTED to the read clock; first stamped ~12:57Z from an estimated time; worker-7fbdff24, baton dos7; the work sits in commit ad1bd7610, 12:13:15Z)
+## QC sample (2026-10-25, worker-7fbdff24, baton dos7; commit ad1bd7610, 12:13:15Z. Stamp history: first stamped ~12:57Z from an estimate, then restamped ~12:12Z as if clock-read — neither was a clock reading; the reliable record is the 12:13:15Z commit stamp)
 
 Bounded post-publication QC sample, three load-bearing spans on fresh
 fetches, all VERBATIM: Aristotle NE I.7 Ross (MIT Classics, raw HTML —
@@ -231,4 +231,9 @@ the "Aiming thus at something else, they find happiness by the way"
 close); Mauss, Tamir, Anderson and Savino 2011 (eutils abstract,
 PMID 21517168 — "Paradoxically, therefore, valuing happiness may lead
 people to be less happy just when happiness is within reach."). No text
-change owed. Baton released.
+change owed. Baton note: the release attempt at the time was REFUSED
+(remote then reported the holder as launcher-pplx-dos7-1025n2); the
+remote baton status at 12:19:36Z read-clock shows dos7 held by
+worker-7fbdff24 (claim and later release both recorded under my
+name — the intervening launcher report was a race or a stale read, not
+established as a takeover); released now at 12:20Z read-clock.

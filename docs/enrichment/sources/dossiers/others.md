@@ -383,15 +383,23 @@ candidates). No dossier text changes needed for the verified span.
 
 - 2026-10-25 11:08:43Z — follow-up repair, self-checked, pushed. The Matthew 5.43-44 span failed because the biblehub page renders verse numbers as text content between verses, so the normalized text inserts "44" between the two verses the quote spans. The block quote was split into two verse-bounded quotes (v43 and v44), each verbatim within its verse, and the span now machine-verifies. Remaining flagged: the four ctext.org spans (IP-block class, handed off per the QC entry above).
 
-## Full-span hand-verification, ctext flags closed (2026-10-25 12:21Z read clock, worker-7fbdff24, baton dos16)
+## Full-span hand-verification, ctext flags closed (2026-10-25, worker-7fbdff24, baton dos16; commits 2a53c22ec 12:16:07Z and 39491387c 12:16:20Z. Stamp history: first stamped "12:21Z read clock" — that was an estimate, not a clock reading; the 12:16:07Z commit stamp is the reliable record; mid-pass time was not recorded)
 
 The 11:08Z pass handed off four ctext.org spans (Analects Xian-wen x2,
 Mengzi Teng Wen Gong I and II) as the known bot-wall class. This pass
 closes them and completes a full-span read of the 247-line dossier.
+Span accounting: all quoted spans were checked this pass (eleven
+carrier groups listed) except Beckes-Coan 2011 and Cacioppo-Hawkley
+2009, inherited from prior ledger passes and not re-opened this pass.
 
-- All four ctext spans verified VERBATIM against the live Chinese Text
-  Project pages through the in-session fetch tool (plain curl from this
-  sandbox is 403-walled; fetch tool + browser both serve the page):
+- All four ctext spans verified VERBATIM against the Chinese Text
+  Project pages through the session fetch tool. Method note: plain curl
+  from this sandbox returned a short block page (no HTTP status
+  recorded; no browser was used — an earlier draft of this entry said
+  "fetch tool + browser", which was wrong); the fetch-tool responses
+  were cache-served ("Is cached: true"), same ctext records as the live
+  pages; the span-to-text comparison was made by the fetch tool's
+  extraction against the spans as printed in the dossier:
   Analects 14.34 both parts ("Some one said... What do you say concerning
   the principle that injury should be recompensed with kindness?" and
   "With what then will you recompense kindness? Recompense injury with
@@ -404,7 +412,11 @@ closes them and completes a full-span read of the 247-line dossier.
   acceptable); Mengzi Teng Wen Gong II ("Mo's principle is 'to love all
   equally,' which does not acknowledge the peculiar affection due to a
   father.").
-- Fresh re-verification of seven further spans this pass (raw fetches):
+- Re-verification of seven further carrier groups this pass. Method:
+  Batson 1988, Cialdini 1987 and Klimecki 2014 were compared against
+  raw eutils plain-text by direct string match; Aristotle NE IX.10,
+  Matthew 5.43/44/45, Mozi II/III and the Metta Sutta were compared
+  against raw fetched text by direct string match as well:
   Batson 1988 and Cialdini 1987 and Klimecki 2014 (eutils plain-text
   abstracts); Aristotle NE IX.10 both parts (MIT Ross, raw HTML); Matthew
   5.43/44/45 (Biblehub KJV, all three verse spans); Mozi Universal Love

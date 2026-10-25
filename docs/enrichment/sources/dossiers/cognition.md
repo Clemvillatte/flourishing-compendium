@@ -579,15 +579,30 @@ no dossier text changes needed:
 Result: no undocumented quote failures. All four flags are carrier or
 extraction artifacts, not quote errors.
 
-## Full-span hand-verification (2026-10-25 ~12:09Z — TIMESTAMP CORRECTED to the read clock; the entry was first stamped ~12:35Z from an estimated time, worker-7fbdff24, baton dos3; the work sits in commit e0e99a1e4, 12:11:27Z)
+## Full-span hand-verification (2026-10-25, worker-7fbdff24, baton dos3; commit e0e99a1e4, 12:11:27Z. Stamp history: first stamped ~12:35Z from an estimated time, then restamped ~12:09Z as if read from a clock — neither was a clock reading; the pass ran between the 12:06:07Z session start and the 12:11:27Z commit; mid-pass time was not recorded)
 
 The supervisor's 11:49Z review row left "full-span hand-verification of
 the dossier body" as the next-session item; this pass closes it. The
-whole 231-line dossier was read end to end; every blockquote and every
-inline quoted span was checked against a freshly opened carrier this
-pass. No dossier text change owed.
+whole 231-line dossier was read end to end. Span accounting: every
+blockquote and inline quoted span was either checked against a carrier
+opened this pass (eleven carrier groups, listed below) or inherited
+from a prior supervisor verification recorded in this ledger (Peirce,
+Gigerenzer 1996, Tversky-Kahneman 1974 — not re-opened this pass). No
+dossier text change owed.
 
-Verified VERBATIM this pass (fresh fetches, opened carriers):
+Method note (accuracy): the eleven carrier groups below were opened
+this pass through the session fetch tool, and the span-to-text
+comparison was made by the fetch tool's extraction against the span as
+printed in the dossier (for the eutils, MIT-Classics, Gutenberg,
+Biblehub, themozi, accesstoinsight and Mozi carriers the comparison
+was additionally made against raw fetched text by direct string match);
+several PMC-page responses were served from the fetch tool's cache
+("Is cached: true" on the response) — the live page and the cached copy
+are the same PMC record, and the two flagged-machine spans below
+(Science 1974, Gigerenzer 1996) carry their exception documentation in
+the earlier ledger entries.
+
+Verified VERBATIM this pass (opened carriers):
 - Spencer-Rodgers et al. naive-dialecticism definition (PMC2811254,
   live PMC page): exact match, curly-apostrophe class only.
 - Festinger dissonance/consonance definition, both sentences
@@ -618,6 +633,14 @@ Verified VERBATIM this pass (fresh fetches, opened carriers):
   a phenomenon and its contrary" (pure.mpg.de PDF): exact match; the
   surrounding gambler's-fallacy/hot-hand context supports the dossier's
   framing of the disagreement.
+
+Gates re-run at correction time (12:20Z read clock): dossier_check exit
+0 (92 card links, 19 headers, 25 carriers); density 46 paragraphs,
+0 dense; quote_verify 22 checked / 2 not found — both are the
+documented exception spans (Science 1974 bot-block, carrier and UCI
+mirror verification in the 11:25Z entry; Gigerenzer 1996
+stat.columbia.edu PDF, re-verified verbatim by the supervisor at
+11:49Z). 22/22 effective.
 
 Inherited verified (prior supervisor passes, not re-opened this pass):
 Peirce both spans (peirce.org, supervisor 1025e raw verification);
