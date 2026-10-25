@@ -197,8 +197,26 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   source of knowledge beyond waking consciousness, the Buddha's mythic path,
   visionary time and space, and the distinction between discursive and meditative
   thinking, with comparisons to Freud, Nietzsche and other traditions.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=GbxCprEcD-0&current_language_code=en,
+  opened 2026-10-25) confirms the lecture's substance on the recording: the
+  William James lecture framing with Obeyesekere as speaker (he notes his own
+  title for it is "A Variety of the Visionary Experience"); meditative trance
+  as "access to knowledge that is outside our normal cognitive faculties"; the
+  Buddha's mythic path (four signs, ascetic phase as symbolic death, the three
+  watches of the night, Four Noble Truths); visionary time ("empirical time"
+  vs "mythic time" / "episodic time") and expanded space; Nietzsche's "it
+  thinking" vs "I thinking" for meditative vs discursive thought; comparisons
+  with Freud's patients' visions (Elizabeth R., Anna O.) and the dream-work
+  creativity challenge; the kalyāṇamitra as a stand-in for suspended rational
+  consciousness; and Q&A on Apollo, Buber's "it", and visionary vs mystical
+  experience. Caveat: the transcript does not state the 2004 date, which
+  remains the host description's statement; third-party transcript page, no
+  timestamps; playback itself not opened.
 - Relevant segment: whole lecture, 1:29:58.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ## mod-cont-4 batch (verified 2026-10-25)
 
