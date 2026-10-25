@@ -160,6 +160,11 @@
      "t": "2026-10-25T13:41:21+00:00",
      "to": "qc_pending",
      "note": "PUBLICATION HOLD (2026-10-25): duplicate of ST433 (The Squirrel at the Camp) — same William James camping-party squirrel anecdote from Pragmatism Lecture II, same principle P020. Recommend rejection (same narrative and same principle; different carrier of the text: Brock Mead Project transcription vs Gutenberg, but the story told is identical)"
+    },
+    {
+     "t": "2026-10-25T14:40:46+00:00",
+     "to": "qc_pending",
+     "note": "QC pass 1025x: quotes re-verified verbatim vs fresh Gutenberg carrier; recommend REJECT as duplicate of ST433 (same angle); supervisor disposition pending"
     }
    ]
   },
@@ -210,10 +215,15 @@
      "t": "2026-10-25T13:40:04+00:00",
      "to": "qc_pending",
      "note": "PUBLICATION HOLD (2026-10-25): Kalama Sutta already published as ST466 (Who Spoke the Truth?, B160, Soma translation) — same narrative event, different principle (B018) and translation (Thanissaro). Quotes re-verified verbatim 4/4; supervisor/owner disposition required before registration: register as distinct-angle story or reject as duplicate"
+    },
+    {
+     "t": "2026-10-25T14:40:46+00:00",
+     "to": "qc_pending",
+     "note": "QC pass 1025x: all 9 quotes re-verified verbatim vs fresh ATI Thanissaro carrier; recommend REGISTER as distinct-angle B018 story (vs ST466/B160); supervisor disposition pending"
     }
    ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-25T13:41:21+00:00"
+ "updated": "2026-10-25T14:40:46+00:00"
 }

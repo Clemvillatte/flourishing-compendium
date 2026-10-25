@@ -121,3 +121,31 @@ principle's wider Plain-words applications as not carried — consistent with B0
 body. Overlap: no existing page retells the MN 22 raft parable (raft-word matches in
 other pages are incidental); the s1a-042 Milinda draft targets B122, not B014.
 VERDICT: clean, ready for registration as-is.
+
+## QC PASS on the publication holds (2026-10-25 14:50Z, qc-storyteller-pplx-1025x, s1d baton)
+Demarcation: s1a is held by another teller (claim 84399bb89, 2026-10-25); this pass touches
+only s1d files. Statuses left as found (qc_pending) — disposition is the supervisor's.
+
+- s1d-008 vs ST433 (The Squirrel at the Camp): SAME narrative (James's camping-party squirrel,
+  Pragmatism Lecture II), SAME principle (P020), SAME angle (the two practical senses of
+  'going round'). Only difference is the carrier (Brock Mead Project transcription vs
+  Gutenberg). This session re-opened the Gutenberg carrier fresh: all 8 draft quotes verify
+  verbatim in wording (Gutenberg renders small-caps lines in caps and '--' for '-'; no word
+  differences). Per the STORIES-TASKBOARD convention (two stories per principle only when the
+  recorded angles differ), the angle does NOT differ. QC RECOMMENDATION: REJECT as duplicate;
+  the alternate-carrier argument does not create a second angle.
+- s1d-010 vs ST466 (Who Spoke the Truth?): same narrative event (Kalama Sutta AN 3.65) but a
+  DIFFERENT principle (B018 verify-in-own-experience vs B160 question authority) and
+  materially different carried facets: s1d-010 carries the ten grounds, the
+  greed-aversion-delusion conduct test, the know-for-yourselves criterion and the
+  wise-as-check (translator's note), none of which ST466 quotes; ST466 carries the
+  doubt-blessing frame and the four solaces. This session re-opened the ATI Thanissaro
+  carrier fresh: all 9 ledger quotes verify verbatim. QC RECOMMENDATION: REGISTER as a
+  distinct-angle story for B018 (the sutta is the principle's own namesake narrative and the
+  two pages serve different principles); supervisor/owner to confirm.
+- Fresh story_check runs on both drafts this session: 0 errors (--context draft).
+
+ROUTE for the supervisor (qc-storyteller-pplx-1025x, 2026-10-25): the OWNER-BOARD line for
+this baton take could not be appended (separation guard blocks storytellers on
+docs/enrichment/OWNER-BOARD.md) — please add the board line: "qc-storyteller-pplx-1025x took
+s1d (QC: 008/010 hold evidence + ready-queue re-verify); s1a untouched, held by new teller."
