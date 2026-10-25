@@ -305,9 +305,83 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Relevant segment: whole lecture, 1:44:40.
 - Verification status: verified-video.
 
+## Block B optional batch 2 (verified 2026-10-25)
+
+### M01-D20: On the (Im)possibility of Daoist Medicine (Louis Komjathy, Daoist Gate 2025)
+
+- Identity and access: oembed confirms the talk on the DaoistGate internal martial
+  arts channel (https://www.youtube.com/watch?v=wcSC8EkVoYE).
+- Duration: 1:14:23 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: Louis Komjathy, PhD in Religious Studies from Boston
+  University, Director and Chongxuan Chair of the Center for Daoist Studies,
+  ordained Daoist priest of the Huashan lineage, author of fourteen books (per the
+  event biography on the watch page).
+- Language: English.
+- Content coverage: the uploader's description states the presentation is a
+  contemplative inquiry on the (im)possibility of Daoist medicine, covering
+  conceptions of illness, earlier attempts to identify Daoist medical trajectories,
+  and more viable frameworks for reconstructing pre-modern Daoist medicine.
+- Relevant segment: whole talk, 1:14:23.
+- Verification status: verified-video.
+
+### M02-K06: Osel Ling, Mahamudra Teachings, Day 1 (Tergar)
+
+- Identity and access: oembed confirms the recording on the Tergar Meditation
+  Community channel (https://www.youtube.com/watch?v=RoP4mm3PpKs).
+- Duration: 3:28:54 (watch page, 2026-10-25). The fcAcademyData record prints
+  1:45:00, a large mismatch the owner must reconcile before scheduling.
+- Instructor credentials: the teaching was given by His Holiness Guru Vajradhara
+  Chamgon Kenting Tai Situpa, lineage holder of the living Mahamudra tradition, at
+  the request of Mingyur Rinpoche for the Tergar Osel Ling Monastery opening (per
+  the Tergar description). Note the video title names Mingyur Rinpoche while the
+  description makes clear Tai Situpa gives the teaching; the owner should record
+  the teacher correctly.
+- Language: English translation is offered over Tibetan teaching (check the
+  transcript before scheduling).
+- Content coverage: the Tergar description identifies this as Mahamudra teaching
+  from the Tergar Osel Ling grand opening, 31 May to 4 June 2026; day 1 of the
+  series. No finer topic breakdown is printed on the page.
+- Relevant segment: whole recording, 3:28:54, pending the owner's reconciliation.
+- Verification status: verified-video, with the duration mismatch and teacher
+  attribution flagged.
+
+### SRC-M22-YV01: Vedanta for the 21st Century (Harvard Divinity School)
+
+- Identity and access: oembed confirms the panel on the Harvard Divinity School
+  channel (https://www.youtube.com/watch?v=WR0mzX1h09Y).
+- Duration: 2:04:33 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: three Hindu monastics, Swami Sarvapriyananda (Ramakrishna
+  Mission), Brahmacharini Shweta Chaitanya (Chinmaya Mission) and Sadhak Akshar of
+  the BAPS Swaminarayan Sanstha, moderated by Francis X. Clooney, SJ, Parkman
+  Professor of Divinity, Harvard, with Anantanand Rambachan, Professor of Religion,
+  Saint Olaf College, as discussant (per the host description).
+- Language: English.
+- Content coverage: the host's description states the 11 March 2020 panel covers
+  the tradition of the Upanisads and Vedanta and its relevance today: Advaita as
+  knowledge and self-inquiry, consciousness, non-duality, and applying Vedantic
+  teaching to conflict, stress and difficult choices.
+- Relevant segment: whole panel, 2:04:33.
+- Verification status: verified-video.
+
+### SRC-M22-YV02: Introduction to Advaita Vedanta (Arvind Sharma, Centre for Indic Studies)
+
+- Identity and access: oembed confirms the lecture on the Centre for Indic Studies
+  channel (https://www.youtube.com/watch?v=aMNTsPordEY).
+- Duration: 1:01:14 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: Arvind Sharma, Birks Professor of Comparative Religion at
+  McGill University since 1987, PhD Harvard 1978, formerly of the Indian
+  Administrative Service (per the event biography on the watch page).
+- Language: English. The page prints full chapter timestamps.
+- Content coverage: the host's description states the talk introduces Advaita
+  Vedanta, its fundamental texts, its final teaching, how to realize its goal,
+  mumukshutva, and the ultimate reality, with Q&A; chapters are timestamped from
+  0:00:00 to 1:00:26.
+- Relevant segment: whole lecture, 1:01:14.
+- Verification status: verified-video.
+
 ## Remainder
 
-Optional media still pending: M01-D20, M02-K06, SRC-M22-YV01, SRC-M22-YV02,
-SRC-M22-YV04, SRC-M24-001 to 006, M05-MA-02 and the capstone repeats.
+Optional media still pending: SRC-M22-YV04, SRC-M24-001 to 006, M05-MA-02 and the
+ capstone repeats.
 
 (in progress: verifier-pplx-a1)
