@@ -638,3 +638,57 @@ focusing attention on task-relevant stimuli..." opening and the "This
 research indicates that distractor perception can be prevented (early
 selection)..." abstract sentence. PDF carrier not machine-parseable by
 the checker. No dossier text changes needed.
+
+## Full-span hand-verification (2026-10-25, worker-7fbdff24, baton dos4; clock readings 12:28:55Z claim, 12:29:08Z gates)
+
+The supervisor's review row for attention carried "prose sampled, not a
+full-body read"; this pass closes that gap. The whole 243-line dossier
+was read end to end; all quoted spans are accounted for.
+
+Verified this pass (raw-text string matches unless noted):
+- James, Principles ch. 11 (psychclassics.yorku.ca, raw HTML): the
+  "Every one knows what attention is..." span VERBATIM; the "My
+  experience is what I agree to attend to..." span VERBATIM modulo two
+  documented artifact classes only (the carrier prints "attend to ."
+  with a space before the period, and hyphens where the dossier prints
+  dashes).
+- James, Principles vol. 2 ch. XXVI (Gutenberg plain text): "Effort of
+  attention is thus the essential phenomenon of will." VERBATIM.
+- Hasenkamp et al. 2012 (wendyhasenkamp.net PDF, direct download +
+  pdftotext): the four-intervals span VERBATIM.
+- Weil, Reflections on the Right Use of School Studies
+  (themathesontrust.org PDF, direct download + pdftotext): the
+  "Attention consists of suspending our thought..." span VERBATIM.
+- Killingsworth and Gilbert 2010 (greatergood.berkeley.edu PDF,
+  pdftotext): the 46.9% span, "a wandering mind is an unhappy mind" and
+  "a cognitive achievement that comes at an emotional cost" all
+  VERBATIM.
+- Mooneyham and Schooler 2013 (metalab.psych.ucsb.edu PDF, pdftotext):
+  the costs span VERBATIM modulo the dash class (the paper prints
+  "Mind-wandering\u2013related" with an en-dash where the dossier prints
+  a hyphen); the functions span and the insulation span VERBATIM.
+- Johnson and Yantis 1995 (Europe PMC core record, PMID 7490586): "a
+  focused-attention mode and a diffuse-attention mode" VERBATIM in the
+  abstract.
+- Eriksen and Yeh 1985 (Europe PMC core record, PMID 2932532): the
+  "continuously constricting to small portions of the visual field with
+  a concomitant increase in processing power" span VERBATIM in the
+  abstract.
+
+Inherited verified (supervisor 11:37Z pass, not re-opened this pass):
+Langner-Eickhoff 2012 (PMC3627747, live rendered page); Lutz et al. 2008
+(PMC2693206, live rendered page); both Lavie 2005 spans (WSU PDF,
+pdftotext, hyphenation artifact documented).
+
+Gates (12:29:08Z read clock): dossier_check exit 0 (97 card links, 26
+headers, 23 carriers); density 44 paragraphs, 0 dense; quote_verify 18
+checked / 4 not found — all four are the supervisor-resolved spans
+above: 18/18 effective.
+
+Reader-level notes: the intro is first-person and states the moral
+question plainly; the switch-or-scale section walks the two papers'
+logic carefully and does not overclaim a verdict; the practice section
+flags its evidence limits (durations as conventions, citation gap on
+progressive overload, "steps are my protocol"). No voice or structure
+defects found; no text change owed. Full-span hand-verification
+item: CLOSED.
