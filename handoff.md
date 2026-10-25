@@ -2799,3 +2799,17 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   (commit f985c5d4b): bounded comparison, raw-verified Arendt +
   Nietzsche, de-quoted unverified spans, kernel-only Selection with
   evidence limits, full-card story loglines. Checker exit 0.
+
+## Agent launch record (2026-10-25, launcher session b65d2ee8)
+
+- Owner requested Path A. Account: clementvillatte+0001@gmail.com (Perplexity
+  account clementvil76248, Free plan).
+- Task URL: https://www.perplexity.ai/computer/tasks/0fc55163-fb3b-4251-8fae-0eff6e449de3
+- Launched at 2026-10-25 01:41 UTC with PROMPT-WORKER.md verbatim (token filled
+  from the owner's message, never stored in the repo). Paste verified against
+  the prepared file before submission (7773 chars + browser trailing newline;
+  head and tail matched exactly). Standard worker prompt — per its bands annex
+  it will take a free principle band first while the principles queue is
+  untouched, else a concept or dos band via scripts/baton.py.
+- Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
+  No coordination needed post-launch; the baton system governs.
