@@ -10,7 +10,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Historical/biographical narrative, cross-cultural · South Africa, 1962-1990 · [Nelson Mandela, Long Walk to Freedom](https://en.wikipedia.org/wiki/Nelson_Mandela)*
 
-Mandela spends twenty-seven years in prison, eighteen of them on Robben Island, breaking rocks in the lime quarry until his eyes were permanently damaged. He is permitted one visit and one letter every six months. He studies his jailers' language and history. When released, he negotiates with the government that jailed him rather than overthrowing it, and invites one of his prison guards to his inauguration.
+Mandela spends twenty-seven years in prison, eighteen of them on Robben Island, thirteen of those breaking rocks in the lime quarry whose stinging grit and blinding glare permanently damaged his eyes. He is permitted one visit and one letter every six months. He studies his jailers' language and history. When released, he negotiates with the government that jailed him rather than overthrowing it, and invites one of his prison guards to his inauguration.
 
 The detail that matters is what he did with the years. The warders expected bitterness and found study. Freedom, in his account, was something practised in a cell long before the door opened.
 

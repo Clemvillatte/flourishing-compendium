@@ -1,5 +1,28 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## SESSION CHECKPOINT (2026-10-25 ~00:45Z, supervisor-pplx-1024c, takeover of the RELEASED supervisor baton)
+
+Voice-audit coordination state at takeover: workers (gfva-1025a and parallel
+sessions) have completed voice reviews on dos1, dos2, dos4, dos6, dos22, dos24,
+dos27, dos30 (all released); dos15 was taken over by worker-pplx-dos15-1025b
+(live); dos17 and maintenance were STALE/free at takeover. Supervisor pass 1:
+health check build OK (5943 entries, fcAuthored 979); PROGRESS.md refreshed
+(principles 2182/2182, concepts 2258/2262); QC samples of the two newest
+content fixes — dos27 fear (Epicurus Hicks quote VERBATIM against the opened
+MIT Classics carrier) and dos6 Mandela (18/13 quarry figures verified against
+the freshly OPENED LA Times 1995-02-11 article; the memoir carrier is
+bot-blocked, access failure recorded) — both PASS, full entries in the
+OPERATIONS QC log. ST033 story card repaired by supervisor against the opened
+LA Times carrier (eighteen/quarry conflation + unsupported "until" framing);
+compiled app.js gloss rebuilt for lifes-purpose; node OK. story_check on ST033
+fails on pre-existing seed errors only — routed to the story band. OPEN VOICE
+ITEM recorded: "rather than overthrowing it" (ST033 card + lifes-purpose line)
+kept by the dos6 worker, contrast alternative not established by opened
+carriers — left for the owner's voice-validation pass. No pending proposals
+(all proposal files show 0 unapplied records). Next: cold-read one complete
+voice-reviewed dossier for bridging/rhythm per the owner's newest directive,
+continue supervising the live bands, keep the board honest.
+
 ## NEWEST OWNER DIRECTIVE (2026-10-24, latest session, supersedes order below)
 
 "It also needs more bridging, at the moment it rapid-fires and cognitively
