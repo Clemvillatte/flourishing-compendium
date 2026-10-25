@@ -86,6 +86,14 @@
    "at": "2026-10-25T11:02:20+00:00",
    "from": "launcher-pplx-dos22-1025n",
    "reason": "released"
+  },
+  {
+   "by": "launcher-pplx-1025c",
+   "at": "2026-10-25T11:48:01+00:00",
+   "from": "worker-pplx-1025-launchb",
+   "reason": "supervisor force-release"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:48:01+00:00"
 }
