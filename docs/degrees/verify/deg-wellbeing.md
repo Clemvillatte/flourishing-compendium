@@ -459,3 +459,94 @@ standard.
   rests on the catalog title only.
 - Verification status: unverified (page blocked, 2026-10-25) — retry
   permitted in a later session.
+
+### M08-P05: Meng-Wu Lecture — Barbara L. Fredrickson (CCARE at Stanford)
+
+- Identity and access: oembed confirms the lecture on the CCARE at
+  Stanford University channel
+  (https://www.youtube.com/watch?v=OoOqj26YbGA); watch page opened
+  2026-10-25.
+- Duration: 1:24:27 (watch page, 2026-10-25).
+- Instructor credentials: Barbara L. Fredrickson, Ph.D., Kenan
+  Distinguished Professor of Psychology and Director of the Positive
+  Emotions and Psychophysiology Lab (PEP Lab), UNC Chapel Hill (per the
+  uploader description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a Meng-Wu
+  Lecture; the description names her positive-emotions work and books
+  (Positivity; Love 2.0) but does not state this lecture's particular
+  topics — FLAGGED title/credentials-only coverage.
+- Relevant segment: whole lecture, 1:24:27.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage not described on the watch page — flagged.
+
+### M08-P07: Is it possible to become happier and, if yes, how? — IDENTITY ONLY
+
+- Identity and access: oembed confirmed the video
+  (https://www.youtube.com/watch?v=ohsAWiCC0YE) but the watch page
+  returned broken-content errors on a single fetch attempt
+  (2026-10-25); no retry made per the no-retry rule.
+- Verification status: unverified beyond identity (blocked watch page,
+  2026-10-25) — retry permitted in a later session.
+
+### M08-P11: The Dual Role of Character Strengths — Dr. Ryan Niemiec (VIA Institute)
+
+- Identity and access: oembed confirms the session on the VIAStrengths
+  channel (https://www.youtube.com/watch?v=63oPIK8Ogb4); watch page
+  opened 2026-10-25.
+- Duration: 46:08 as displayed by the player; another listing on the
+  page shows 44:02 — FLAGGED dual-figure duration.
+- Instructor credentials: Dr. Ryan Niemiec, psychologist, author, Chief
+  Science & Education Officer at the VIA Institute (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a
+  research-informed session drawing on over 1,000 studies and his recent
+  publication on character strengths and mental health — how character
+  strengths promote well-being and support people through adversity,
+  with practical strategies and reflection prompts.
+- Relevant segment: whole session, ~46 minutes.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling; dual-figure
+  duration flagged.
+
+### M08-P14: Stoicon 2021 — Nancy Sherman, Keynote Address with Q&A (Modern Stoicism)
+
+- Identity and access: oembed confirms the keynote on the Modern
+  Stoicism channel (https://www.youtube.com/watch?v=f71oNHX3VxU); watch
+  page opened 2026-10-25.
+- Duration: 47:47 (watch page, 2026-10-25).
+- Instructor credentials: Nancy Sherman, Stoic Wisdom: Ancient Lessons
+  for Modern Resilience (per the uploader description, which links her
+  books; university page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): keynote
+  presentation followed by questions and answers at Stoicon 2021; the
+  description does not state the keynote's particular topics — FLAGGED
+  title/credentials-only coverage.
+- Relevant segment: whole keynote with Q&A, 47:47.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage not described on the watch page — flagged.
+
+### M08-P16: The Power of Purpose — Kendall Cotton Bronk (Claremont Flourishing Center)
+
+- Identity and access: oembed confirms the webinar on the Claremont
+  Flourishing Center channel (https://www.youtube.com/watch?v=9mDdyC-77Q0);
+  watch page opened 2026-10-25. INDEPENDENT-CHANNEL FLAG with named
+  institutional speaker.
+- Duration: 1:12:41 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Kendall Cotton Bronk, purpose researcher
+  (Claremont Graduate University, per the channel context; institutional
+  page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): research on
+  the importance of purpose in life and its critical role in well-being,
+  particularly among youth — definition and development of purpose, its
+  influence on psychological and physical health, connection to
+  long-term success, culturally inclusive approaches to purpose research
+  and emerging directions for global scholarship.
+- Relevant segment: whole webinar, 1:12:41.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
