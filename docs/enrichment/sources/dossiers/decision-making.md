@@ -58,3 +58,27 @@ same carrier), motivation (Iyengar and Lepper limited-array
 sentence, Deci and Ryan 2008 type-vs-amount sentence, and the Deci,
 Koestner and Ryan 1999 meta-analysis sentence, all exact). No
 corrections needed.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos9 baton)
+
+Reviewed all 6 candidates against the current file (fresh audit run).
+One recast applied:
+
+- Line 5 (intro): removed the not-X-but-Y scaffold ("Choosing well is
+  therefore not one skill but several") — now reads "Choosing well is
+  therefore several skills at once:" followed by the unchanged list of
+  the skills. Same claim, stated directly.
+
+Kept: line 143 (Sartre: a person is not a thing with a ready-made
+essence but a project — this is the existence-precedes-essence doctrine
+in compressed form; a human explainer would write it this way), 165
+(the error view vs the adaptive view, each tied to its task setting —
+the Gigerenzer framing distinction, load-bearing), 231 (Cato's
+historical choice: to die rather than accept a pardon he read as a
+performance), 243 ("neither mine nor yours" is the biblical story's
+own wording), 245 (Aristotle's mean: not a mathematical midpoint but
+what is right for this person — the relativity-of-the-mean doctrine).
+
+Checks: dossier_check.py exit 0; the fresh audit count for this
+dossier fell from 6 to 5. Editorial review only; no carriers or cards
+freshly opened this pass.
