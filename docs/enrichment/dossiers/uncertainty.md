@@ -12,87 +12,45 @@ Impermanence: held in its own group below, as the Buddhist and Daoist form of un
 
 Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier.
 
-## The map: the entries on uncertainty
+## What not knowing asks of a person
 
-### Enduring not knowing
+### Can the not-knowing be endured?
 
-[Intolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20uncertainty): a dispositional incapacity to endure the aversive response triggered by uncertain situations.
+The clinical literature measures the incapacity. [Intolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20uncertainty) is a dispositional incapacity to endure the aversive response triggered by uncertain situations, and [intolerance of ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20ambiguity) is the tendency to perceive ambiguous situations as sources of threat, in Budner's classic definition.
 
-[Intolerance of ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20ambiguity): the tendency to perceive ambiguous situations as sources of threat, in Budner's classic definition.
+The contemplative and philosophical traditions train the capacity itself. [Mindful uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20uncertainty) is the ACT posture toward the unknowable parts of experience: stay open to the present moment without needing it to be settled first. Keats's term for the power to remain in uncertainties, mysteries and doubts without any irritable reaching after fact and reason is [negative capability](https://clemvillatte.github.io/flourishing-compendium/#card=Negative%20capability).
 
-[Mindful uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20uncertainty): the ACT posture toward the unknowable parts of experience: stay open to the present moment without needing it to be settled first.
+The measured capacity is [distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29), the perceived capacity to withstand aversive states, distinguished by Leyro and colleagues from the behavioral act of withstanding them. The even-minded stance toward experience, neither grasping at the pleasant nor pushing away the unpleasant, is [equanimity](https://clemvillatte.github.io/flourishing-compendium/#card=Equanimity). The Zen practice of meeting experience as if for the first time is [beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind).
 
-[Negative capability](https://clemvillatte.github.io/flourishing-compendium/#card=Negative%20capability): Keats's term for the power to remain in uncertainties, mysteries and doubts without any irritable reaching after fact and reason.
+Ericsson's deliberate practice as work on tasks just outside current reliable performance is [openness and not knowing in skilled practice](https://clemvillatte.github.io/flourishing-compendium/#card=Openness%20and%20not%20knowing%20in%20skilled%20practice).
 
-[Distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29): the perceived capacity to withstand aversive states, distinguished by Leyro and colleagues from the behavioral act of withstanding them.
+### What doubt is for
 
-[Equanimity](https://clemvillatte.github.io/flourishing-compendium/#card=Equanimity): the even-minded stance toward experience: neither grasping at the pleasant nor pushing away the unpleasant.
+The profession Socrates makes at his trial is [Socratic ignorance](https://clemvillatte.github.io/flourishing-compendium/#card=Socratic%20ignorance): he does not know the things that matter most, and unlike others he does not think he does. The productive dead end is [aporia](https://clemvillatte.github.io/flourishing-compendium/#card=Aporia), the state of being unable to move forward in an inquiry.
 
-[Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time.
+Descartes' procedure in the Meditations is [doubt as method](https://clemvillatte.github.io/flourishing-compendium/#card=Doubt%20as%20method): doubt to find what survives doubt. Peirce's name for the real and living doubt that inquiry actually requires is [genuine doubt](https://clemvillatte.github.io/flourishing-compendium/#card=Genuine%20doubt), and his phrase from The Fixation of Belief, naming the engine of inquiry, is [the irritation of doubt](https://clemvillatte.github.io/flourishing-compendium/#card=The%20irritation%20of%20doubt).
 
-[Openness and not knowing in skilled practice](https://clemvillatte.github.io/flourishing-compendium/#card=Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson's deliberate practice as work on tasks just outside current reliable performance.
+The Zen name for the concentrated questioning at the centre of koan practice is [the great doubt](https://clemvillatte.github.io/flourishing-compendium/#card=The%20great%20doubt). The Pyrrhonist practice in Sextus Empiricus is [skepticism about the obvious](https://clemvillatte.github.io/flourishing-compendium/#card=Skepticism%20about%20the%20obvious): what seems plainly there is still an appearance, and appearances conflict. Hume's idea that radical doubt does not survive ordinary living is [skepticism answered by life](https://clemvillatte.github.io/flourishing-compendium/#card=Skepticism%20answered%20by%20life).
 
-### Doubt, ignorance and inquiry
+A reasoning style that Jonathan Baron developed in the judgment-and-decision-making literature is [actively open-minded thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Actively%20open-minded%20thinking).
 
-[Socratic ignorance](https://clemvillatte.github.io/flourishing-compendium/#card=Socratic%20ignorance): the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does.
+### What is up to us
 
-[Aporia](https://clemvillatte.github.io/flourishing-compendium/#card=Aporia): the productive dead end: the state of being unable to move forward in an inquiry.
+The fact that everything that arises will pass, moods, plans, bodies, relationships, reputations, is [impermanence](https://clemvillatte.github.io/flourishing-compendium/#card=Impermanence), and [anicca](https://clemvillatte.github.io/flourishing-compendium/#card=Anicca) is its name as the first of the Three Marks of Existence. Epictetus's distinction in Enchiridion 1 between what is up to us and what is not is [the dichotomy of control](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dichotomy%20of%20control).
 
-[Doubt as method](https://clemvillatte.github.io/flourishing-compendium/#card=Doubt%20as%20method): Descartes' procedure in the Meditations: doubt to find what survives doubt.
+Rotter's generalized expectancy about where reinforcement comes from is [locus of control](https://clemvillatte.github.io/flourishing-compendium/#card=Locus%20of%20control). Rothbaum, Weisz and Snyder's way of gaining a sense of control by bringing yourself into line with the world is [secondary control](https://clemvillatte.github.io/flourishing-compendium/#card=Secondary%20control). Taleb's coinage for the third category that fragile and robust leave out is [antifragility](https://clemvillatte.github.io/flourishing-compendium/#card=Antifragility).
 
-[Genuine doubt](https://clemvillatte.github.io/flourishing-compendium/#card=Genuine%20doubt): Peirce's name for the real and living doubt that inquiry actually requires.
+### What hope and trust are worth here
 
-[The irritation of doubt](https://clemvillatte.github.io/flourishing-compendium/#card=The%20irritation%20of%20doubt): Peirce's phrase from The Fixation of Belief, naming the engine of inquiry.
+The forward-facing emotion, expectation of a good that has not arrived and is not guaranteed, is [hope](https://clemvillatte.github.io/flourishing-compendium/#card=Hope). The Greek word for hope, best known from Hesiod's story of Pandora, is [elpis (hope)](https://clemvillatte.github.io/flourishing-compendium/#card=Elpis%20%28hope%29). A pattern in Seneca and Epictetus holds hope as a thing to weigh, because it travels with fear, carried as [hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence).
 
-[The great doubt](https://clemvillatte.github.io/flourishing-compendium/#card=The%20great%20doubt): the Zen name for the concentrated questioning at the centre of koan practice.
+Emerson's conviction that one's own perception is a fit instrument for living is [self-trust](https://clemvillatte.github.io/flourishing-compendium/#card=Self-trust). Trust in strangers, or in most people in society, rather than in people you already know is [generalized trust](https://clemvillatte.github.io/flourishing-compendium/#card=Generalized%20trust). Rilke's word, in the eighth Duino Elegy, for what the animal sees and we do not is [the open (das Offene)](https://clemvillatte.github.io/flourishing-compendium/#card=The%20open%20%28das%20Offene%29).
 
-[Skepticism about the obvious](https://clemvillatte.github.io/flourishing-compendium/#card=Skepticism%20about%20the%20obvious): the Pyrrhonist practice in Sextus Empiricus: what seems plainly there is still an appearance, and appearances conflict.
+Camus's name for the confrontation between the human demand for meaning and the world's silence is [the absurd](https://clemvillatte.github.io/flourishing-compendium/#card=The%20absurd). Beauvoir's name for the human condition's two-foldness is [ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=Ambiguity), and her existentialist ethics, that freedom is ambiguous because it must will both itself and the freedom of others, is [the ethics of ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20ambiguity).
 
-[Skepticism answered by life](https://clemvillatte.github.io/flourishing-compendium/#card=Skepticism%20answered%20by%20life): Hume's idea that radical doubt does not survive ordinary living.
+### What probability is for
 
-[Actively open-minded thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Actively%20open-minded%20thinking): a reasoning style that Jonathan Baron developed in the judgment-and-decision-making literature.
-
-### What lasts, and what is up to us
-
-[Impermanence](https://clemvillatte.github.io/flourishing-compendium/#card=Impermanence): the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations.
-
-[Anicca](https://clemvillatte.github.io/flourishing-compendium/#card=Anicca): impermanence, the first of the Three Marks of Existence.
-
-[The dichotomy of control](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dichotomy%20of%20control): Epictetus's distinction in Enchiridion 1 between what is up to us and what is not.
-
-[Locus of control](https://clemvillatte.github.io/flourishing-compendium/#card=Locus%20of%20control): Rotter's generalized expectancy about where reinforcement comes from.
-
-[Secondary control](https://clemvillatte.github.io/flourishing-compendium/#card=Secondary%20control): Rothbaum, Weisz and Snyder's way of gaining a sense of control by bringing yourself into line with the world.
-
-[Antifragility](https://clemvillatte.github.io/flourishing-compendium/#card=Antifragility): Taleb's coinage for the third category that fragile and robust leave out.
-
-### Hope, trust and the open
-
-[Hope](https://clemvillatte.github.io/flourishing-compendium/#card=Hope): the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed.
-
-[Elpis (hope)](https://clemvillatte.github.io/flourishing-compendium/#card=Elpis%20%28hope%29): the Greek word for hope, best known from Hesiod's story of Pandora.
-
-[Hope tempered by prudence](https://clemvillatte.github.io/flourishing-compendium/#card=Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear.
-
-[Self-trust](https://clemvillatte.github.io/flourishing-compendium/#card=Self-trust): Emerson's conviction that one's own perception is a fit instrument for living.
-
-[Generalized trust](https://clemvillatte.github.io/flourishing-compendium/#card=Generalized%20trust): trust in strangers, or in most people in society, rather than in people you already know.
-
-[The open (das Offene)](https://clemvillatte.github.io/flourishing-compendium/#card=The%20open%20%28das%20Offene%29): Rilke's word, in the eighth Duino Elegy, for what the animal sees and we do not.
-
-[The absurd](https://clemvillatte.github.io/flourishing-compendium/#card=The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence.
-
-[Ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=Ambiguity): Beauvoir's name for the human condition's two-foldness.
-
-[The ethics of ambiguity](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20ambiguity): Beauvoir's existentialist ethics: freedom is ambiguous because it must will both itself and the freedom of others.
-
-### Probability and risk
-
-[Probabilistic thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Probabilistic%20thinking): the move from yes-or-no to how-likely, whose arrival in European thought was sudden.
-
-[Risk literacy](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions.
-
-[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty.
+The move from yes-or-no to how-likely, whose arrival in European thought was sudden, is [probabilistic thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Probabilistic%20thinking). Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions is [risk literacy](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20literacy), and his simple decision rules that ignore part of the available information and can still judge well under uncertainty are [decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](https://clemvillatte.github.io/flourishing-compendium/#card=Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29).
 
 ## Where the traditions genuinely disagree
 
