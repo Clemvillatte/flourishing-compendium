@@ -604,6 +604,21 @@ Block A, fcAcademyData records for deg-philosophy modules.
   earlier fetcher path) also returned Not Found — the oembed endpoint
   returns no record for this video.
 
+FRESH-ROUTE RE-CONFIRMATION (worker-pplx-degfin-1, deg-verify-a,
+2026-10-25, session clock ~14:55Z): all three records above re-checked
+through routes not used by the prior passes — the fetch tool's watch-page
+route (which succeeded for other YouTube pages this session) returned
+page_is_incomplete for all three URLs, and fresh oembed curls returned
+HTTP 404 (no record) for W7XTOnTVNrs, ADaSJaXm8pU and Pl13Wtm47lQ. A
+fresh replacement search (2026-10-25, Monte Johnson + Hellenistic
+Philosophy Cynics lecture) located no re-uploads of the numbered series
+episodes (the surviving 2.3.2.1 "version 2" remains the only located
+series upload). The videos remain ABSENT on every route tried; the
+flag stands as before — replacement or drop is the degree owner's
+decision, with the UCSD syllabus trail (philosophy.ucsd.edu course
+files, located in the same search) available as a lead for equivalent
+Cynics-series content if the owner wants a sourced replacement.
+
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each
 content-coverage claim (host/uploader description, page transcript, or recording

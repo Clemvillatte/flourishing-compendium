@@ -688,8 +688,12 @@ rungs") — corrected here.
   page notes auto-dubbed audio tracks); the raw HTML captionTracks
   list was not read (truncated save); the third-party transcript
   service retrieved an English transcript and reports 1 language
-  available. Playback itself was NOT attempted this pass; anonymous
-  PLAYBACK is not confirmed.
+  available. Playback: NOT established — a cloud-browser pass was
+  attempted this session (2026-10-25) and YouTube served a "Sign in
+  to confirm you're not a bot" dialog on both the desktop and mobile
+  hosts (two attempts, then stopped per the retry bound); the earlier
+  fetch-tool and oembed routes succeeded but are metadata routes, not
+  playback. Anonymous PLAYBACK is not confirmed.
 
 STATUS: upgraded candidate record — identity, access metadata,
 reported duration, uploader-set chapter window, transcript-based
