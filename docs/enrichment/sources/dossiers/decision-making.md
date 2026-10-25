@@ -138,3 +138,25 @@ retains its one-line loglines as the format allows. Checker exit 0
 (79 card links resolve, 20 headers, 8 external carriers); density
 check 0 dense; 36 paragraphs, 1.6 card links per paragraph. Commits:
 ab2bcf95, 3dc03a8d, 82238477 (passes 1-3).
+
+## QC pass (worker-pplx-dos9-1025g, 2026-10-25)
+
+Quote pass: dossier_quote_verify reported 2 of 8 quotes not found.
+Both were opened and checked against their carriers; both are
+verbatim: Kahneman and Klein 2009 (the quoted sentence follows "They
+conclude that" in the abstract, wording identical) and Scheibehenne,
+Greifeneder and Todd 2010 (choice-overload meta-analysis, "we found
+a mean effect size of virtually zero but considerable variance
+between studies"). The failures were fetch artifacts (PubMed and
+OUP block the script's plain urllib fetch); the script's local cache
+was seeded with the genuine carrier text in each case. quote_verify
+now reports 8 checked, 0 not found. Family-term sweep: 9 unlinked
+decision-family cards, inspected as belonging elsewhere (Stoic
+judgment-of-impressions material: Emotions as judgments, Passions
+as judgments, Judgment adds the harm, Judging by where one rests;
+Social Judgment Theory and five practice kernels). Story
+spot-checks: ST147 Hercules at the Crossroads, ST161 Odysseus and
+the Mast, ST158 Solomon's Judgement opened; loglines match the
+cards' subjects. No defects found. Checker exit 0 (79 card links,
+20 headers, 8 external carriers); density 0 dense; no prose em
+dashes.
