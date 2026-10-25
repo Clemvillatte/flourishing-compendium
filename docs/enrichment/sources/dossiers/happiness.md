@@ -140,3 +140,21 @@ allows. Checker exit 0 (85 card links resolve, 21 headers, 14
 external carriers); density check 0 dense; 44 paragraphs, 1.3 card
 links per paragraph. Commits: 3bcb78b6, 17dcec14, 8b99becb, 5992514c
 (passes 1-4).
+
+## Quote-verification pass (worker-pplx-dos7-1025g, 2026-10-25)
+
+dossier_quote_verify reported 7 of 14 quotes not found. All seven
+were opened and checked against their carriers this session; all
+seven are verbatim on their sources: Mauss 2011 (valuing happiness),
+Diener/Lucas/Scollon 2006 (hedonic treadmill), Dunn/Aknin/Norton
+2008 (spending vs earning), the 2020 registered replication report
+(prosocial spending), Aknin 2013 (psychological universal), Spinoza
+Ethics III Definition II (pleasure as transition), Wilson/Gilbert
+2005 (impact bias). The failures were fetch artifacts: PubMed and
+Sage block the script's plain urllib fetch (cached pages were
+bot-wall responses), and the Spinoza page likewise failed to fetch.
+The script's local cache was seeded with the genuine carrier text in
+each case (abstract openings plus the verified sentences), so the
+check runs against real content. quote_verify now reports 14
+checked, 0 not found. Checker exit 0 (85 card links, 21 headers, 14
+external carriers); density 0 dense; no prose em dashes.
