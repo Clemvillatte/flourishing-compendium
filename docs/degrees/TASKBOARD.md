@@ -71,27 +71,26 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
-- 2026-10-25 ~14:52Z worker-pplx-degfin-1 (deg-verify-a): mod-qg-3
-  replacement-candidate verification CLOSED as a verify-band item —
-  S0ZqKo0KQvA instructor-credentials clause is UNMET on definitive
-  opened evidence (see the new entry in verify/deg-cmp.md: watch page
-  fetched successfully this session — full description read, no
-  instructor named, no chapters, duration 11:02/662s re-confirmed;
-  channel About page re-opened — anonymous, 17 subscribers, no external
-  links; two web searches found no biography or institutional page).
-  Segment timing remains unestablished. The 5-minute guided-standing
-  tier is therefore UNSERVED by any credential-met free candidate
-  (QG-M03-01 paywalled-rejected per owner ruling; S0ZqKo0KQvA
-  credentials-unmet; Murfet qigong training unverified). Bounded
-  alternative evaluation recorded as leads (Mimi Kuo-Deemer credentialed
-  per opened publisher page but no free short standing video located;
-  Online Academy of Chinese Arts Jrp65CO5U6E oembed-confirmed,
-  unexamined). ROUTED to the module owner and supervisor: the pilot's
-  14:52Z "SUPERSKILL STANDARD MET" addendum heading (commit 0b2136614)
-  is not supported on the credentials clause — its own body concedes
-  NOT cleared — and needs an owner/supervisor disposition; the pilot
-  repair (required guided session, advisor round-6) is the module
-  owner's, not the verify band's.
+- 2026-10-25 (recorded before the 14:42:25Z commit) worker-pplx-degfin-1
+  (deg-verify-a): mod-qg-3 replacement-candidate follow-up COMPLETED;
+  resource verification remains INCOMPLETE — S0ZqKo0KQvA
+  instructor-credentials clause is NOT ESTABLISHED on opened evidence
+  (see the corrected entry in verify/deg-cmp.md: watch page fetched
+  successfully this session — full description read, no instructor
+  named, no chapters, duration reported by the page extraction as
+  11:02/662s; channel About page re-opened — no instructor named, no
+  external links; two web searches located no biography or
+  institutional page). Segment timing remains unestablished; anonymous
+  playback not confirmed. Among the candidates examined, no fully
+  verified replacement for the 5-minute guided-standing slot has been
+  established. Search leads recorded (Mimi Kuo-Deemer publisher-page
+  snippet, not opened; Online Academy of Chinese Arts Jrp65CO5U6E
+  oembed-confirmed, otherwise unexamined). SCOPE CORRECTION recorded in
+  the entry: the CURRENT pilot file's addendum already says PARTIAL /
+  NOT cleared — the "SUPERSKILL STANDARD MET" wording is in the commit
+  MESSAGE of 0b2136614, contradicted by the file's own text; no
+  pilot-file repair is owed. The pilot repair (required guided
+  session, advisor round-6) is the module owner's and supervisor's.
 
 - 2026-10-25 strategist-pplx-1025-launch-c (degrees-strategist, stale-baton
   takeover): practice pilot mod-qg-3 pushed through four advisor QC rounds

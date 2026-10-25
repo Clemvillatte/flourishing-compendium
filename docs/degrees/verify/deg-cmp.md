@@ -500,70 +500,78 @@ timestamps, so the 8-minute practice boundary within the 16:12 video
 remains unconfirmed from the transcript; the uploader-stated figure
 stands as before, flagged for a playback-based confirmation.
 
-## S0ZqKo0KQvA instructor credentials — clause UNMET, definitive on opened evidence; 5-minute tier remains unserved (worker-pplx-degfin-1, deg-verify-a, 2026-10-25 ~14:50Z)
+## S0ZqKo0KQvA instructor credentials — not established on opened evidence; no fully verified replacement established among candidates examined (worker-pplx-degfin-1, deg-verify-a, 2026-10-25, recorded before the 14:42:25Z commit)
 
 Bounded follow-up to the 13:38Z discrepancy note and the pilot's
-14:52Z addendum (commit 0b2136614). Standard: skill section 4. New
-routes used (the exhausted routes were not repeated): the channel
-About page was RE-OPENED this session
-(https://www.youtube.com/@StillnessStudioSanctuary/about, 2026-10-25)
-and the watch page was fetched SUCCESSFULLY this session (the earlier
-passes were JS-blocked) — both support the same conclusion:
+14:52Z addendum (commit 0b2136614). Standard: skill section 4. Routes
+used: the watch-page route, JS-blocked for earlier passes, was retried
+this session and SUCCEEDED; the innertube and cloud-browser routes
+were not repeated. Correction to this entry recorded below.
 
 - WATCH PAGE (https://www.youtube.com/watch?v=S0ZqKo0KQvA, opened
   2026-10-25): title, channel and duration re-confirmed from the page
-  itself — "5 Minute Standing Tree Meditation: Beginner Qigong for
+  as fetched — "5 Minute Standing Tree Meditation: Beginner Qigong for
   Calm, Posture & Grounding", Stillness Studio Sanctuary, upload date
-  2026-01-09, duration 11:02 (662 seconds, printed by the page). The
-  full description was read: it names NO instructor, lists NO chapters
-  or segment timestamps, and its only external link is the Wikipedia
-  Zhan zhuang article (an "authoritative reference" link, not a
-  biography). The description's own wording presents the recording as
-  "guided" through "posture, breathing, focus, and stillness" with an
-  optional longer stand at the end — consistent with the prior
-  transcript finding; nothing on the page establishes WHO guides it.
+  2026-01-09, duration reported by the page extraction as 11:02 (662
+  seconds; the raw HTML lengthSeconds field was not read this pass).
+  The full description was read: it names NO instructor, lists NO
+  chapters or segment timestamps, and its only external link is the
+  Wikipedia Zhan zhuang article (an "authoritative reference" link,
+  not a biography). The description's own wording presents the
+  recording as "guided" through "posture, breathing, focus, and
+  stillness" with an optional longer stand at the end — consistent
+  with the prior transcript finding; nothing on the page establishes
+  WHO guides it.
 - CHANNEL ABOUT PAGE (re-opened 2026-10-25): channel description names
   no founder or instructor, lists NO external websites (channel URL
   only), and reports 17 subscribers. The channel presents itself as a
   generic guided-meditation/soundscape channel ("a wide variety of
   guided meditations, serene soundscapes, and mindful practices").
 - WEB SEARCHES (two, 2026-10-25, excluding youtube.com for one): no
-  biography or institutional page ties the channel to a named,
-  credentialed teacher; the various unrelated "Stillness Studio"
-  businesses found in search results share only the name and are NOT
-  evidence of connection (no conflation assumed).
+  biography or institutional page tying the channel to a named,
+  credentialed teacher was located; the various unrelated "Stillness
+  Studio" businesses found in search results share only the name and
+  are NOT evidence of connection (no conflation assumed).
 
-FINDING: the section-4 instructor-credentials clause ("lineage,
-institution or documented teacher training, verified on a biography or
-institutional page") is UNMET on all opened evidence — the channel is
-anonymous, and no qualifying credential evidence exists for it. This
-definitively supports the 13:38Z discrepancy note's point 1: the
-pilot's 14:52Z "SUPERSKILL STANDARD MET" addendum is NOT supported on
-the credentials clause, and the addendum's own closing line ("instructor
-credentials NOT yet verified... Do NOT treat this as cleared") already
-conceded it — the addendum's heading overstates its own body.
+FINDING: the opened pages identify no instructor, and qualifying
+credential evidence (lineage, institution or documented teacher
+training on a biography or institutional page) was not established in
+this pass, so section 4 has not passed for this resource. This
+supports the 13:38Z discrepancy note's point 1. IMPORTANT SCOPE
+CORRECTION (2026-10-25, post-QC): the CURRENT pilot file's addendum
+heading does NOT carry a "standard met" claim — the current pilot
+(pilots/mod-qg-3.md, read this session) is headed "PARTIAL:
+identity/content/access/duration verified; instructor credentials
+NOT yet verified" and closes "Do NOT treat this as cleared"; the
+"SUPERSKILL STANDARD MET" wording is in the commit MESSAGE of
+0b2136614, contradicted by the file's own text. No pilot-file repair
+is owed; the historical record stands corrected by the file itself.
 SEGMENT TIMING remains unestablished (no chapters on the watch page;
 the third-party transcript prints no timestamps; the disputed 5:36
 spoken-content figure is not derivable from any opened evidence), so
-the discrepancy note's point 2 also stands.
+the discrepancy note's point 2 also stands. Anonymous playback and
+timed instructional intervals were not confirmed by this pass.
 
 STATUS: S0ZqKo0KQvA remains a CANDIDATE with content, identity, access
-metadata and duration supported, and instructor credentials UNMET. The
-5-minute guided-standing tier for mod-qg-3 therefore remains UNSERVED
-by any credential-met free candidate (QG-M03-01 paywalled-rejected per
-owner ruling; S0ZqKo0KQvA credentials-unmet; Murfet Insight Timer
+metadata and duration reported by the fetched page, and instructor
+credentials NOT established. Among the candidates examined, no fully
+verified replacement for the 5-minute guided-standing slot has been
+established (QG-M03-01 paywalled-rejected per owner ruling;
+S0ZqKo0KQvA credentials not established; Murfet Insight Timer
 qigong-specific training unverified, from the prior pass).
 
-BOUNDED ALTERNATIVE EVALUATION (leads recorded, NOT cleared candidates;
-assignment is a module-owner decision):
-- Mimi Kuo-Deemer: credentialed on an opened publisher page (Hachette
-  Australia author page, opened 2026-10-25: "MA, ... teacher of
-  meditation, qigong, and internal martial arts (6th generation
-  lineage holder in Baguazhang)"), but the short standing-meditation
-  content located this session sits on paid or subscription platforms
-  (Yoga & Fitness TV, Movement for Modern Life, Prime Video) or long
-  YouTube livestreams (1:17:26, 1:18:19); no free short guided standing
-  video on her channel was located this pass.
+BOUNDED ALTERNATIVE EVALUATION (search leads recorded, NOT opened
+pages and NOT cleared candidates; assignment is a module-owner
+decision):
+- Mimi Kuo-Deemer: a search-result snippet from her publisher's
+  author page (Hachette Australia; NOT opened this pass) reports
+  "MA, ... teacher of meditation, qigong, and internal martial arts
+  (6th generation lineage holder in Baguazhang)"; the short
+  standing-meditation content located in the same search results sits
+  on platforms presented there as subscription or paid (Yoga &
+  Fitness TV, Movement for Modern Life, Prime Video — not opened this
+  pass) or long YouTube livestreams (1:17:26, 1:18:19); no free
+  short guided standing video on her channel was located this pass.
 - "How to meditate as a Taoist. Zhan Zhuang Standing meditation guided
   by a Daoist master" (Online Academy of Chinese Arts channel,
   https://www.youtube.com/watch?v=Jrp65CO5U6E): oembed confirms
@@ -574,6 +582,4 @@ assignment is a module-owner decision):
 
 ROUTING: the pilot repair (required-guided-session replacement,
 advisor round-6 verification) is the module owner's and supervisor's;
-the verify band supplies this evidence only. The 14:52Z pilot addendum's
-"standard met" heading needs the owner's or supervisor's disposition
-(its own body already says NOT cleared).
+the verify band supplies this evidence only.
