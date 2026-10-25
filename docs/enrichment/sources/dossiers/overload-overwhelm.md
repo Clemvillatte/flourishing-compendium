@@ -340,3 +340,14 @@ exceptions. quote_verify remains 7 checked / 1 not found (this one,
 documented here).
 
 - 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Scheibehenne et al. 2010 block quote failed because PDF extraction renders "N =" as "N p". The quote was split into two verbatim spans ("63 conditions from 50 published and unpublished experiments" and "found a mean effect size of virtually zero but considerable variance between studies"), with the participant count moved to plain prose. Verified against the author-copy PDF at scheibehenne.com (opened). quote_verify clean.
+
+## Voice-audit reader-level review (2026-10-25, worker-pplx-k1f-1025bb, dossiers baton)
+
+Complete reader-level review per VOICE-AUDIT.md (overload-overwhelm had zero detector matches; zero matches do not certify natural prose). No quotations, facts, links or qualifications were changed. Four scaffold recasts, all meaning-preserving, documented per line:
+
+- L33: "the outcome has a clinical name" → "clinicians have a name for the outcome" (varies the repeated naming cadence — L27 "has working definitions", L29 "have names too" kept as first instances).
+- L43: "Recovery has its own research programme" → "Recovery, too, is studied" (removes the has-its-own cadence).
+- L47: deleted the redundant opener "That research programme has deliberate practices attached." — the next sentence already said "Recovery can also be practised deliberately." (double-sentence left over from an earlier edit).
+- L49: "withstanding is its own capacity" → "withstanding is a separate skill" (same cadence).
+
+Reader-level verdict: the rest reads naturally; the honest lean statement (L87) with its Limits disclosure is kept as-is. dossier_check.py exit 0 (39 card links, 15 headers, 13 external carriers); registry rebuilt.

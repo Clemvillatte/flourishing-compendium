@@ -9747,7 +9747,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "When the demands are chronic, the outcome has a clinical name. The WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed is [burnout](card:Burnout), and its standard description through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](card:Maslach%20burnout%20model)."
+          "x": "When the demands are chronic, clinicians have a name for the outcome. The WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed is [burnout](card:Burnout), and its standard description through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](card:Maslach%20burnout%20model)."
         },
         {
           "t": "p",
@@ -9767,7 +9767,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Recovery has its own research programme. The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](card:Effort-recovery%20cycles), and four ways people recuperate from work during leisure time are [recovery experiences](card:Recovery%20experiences)."
+          "x": "Recovery, too, is studied. The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](card:Effort-recovery%20cycles), and four ways people recuperate from work during leisure time are [recovery experiences](card:Recovery%20experiences)."
         },
         {
           "t": "p",
@@ -9775,11 +9775,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "That research programme has deliberate practices attached. Recovery can also be practised deliberately. Completing the stress cycle as a shift from stress toward relief is [stress cycle completion](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29), and the deliberate slowing of breath below the everyday rate is [slow-paced breathing](card:Slow-paced%20breathing)."
+          "x": "Recovery can also be practised deliberately. Completing the stress cycle as a shift from stress toward relief is [stress cycle completion](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29), and the deliberate slowing of breath below the everyday rate is [slow-paced breathing](card:Slow-paced%20breathing)."
         },
         {
           "t": "p",
-          "x": "Where the relieving practices ease what is already here, withstanding is its own capacity: the perceived capacity to endure aversive states, distinguished from the act of withstanding them, is [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29), and Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](card:Stress%20inoculation%20training)."
+          "x": "Where the relieving practices ease what is already here, withstanding is a separate skill: the perceived capacity to endure aversive states, distinguished from the act of withstanding them, is [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29), and Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](card:Stress%20inoculation%20training)."
         },
         {
           "t": "h2",
