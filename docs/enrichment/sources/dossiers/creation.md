@@ -907,3 +907,14 @@ verdict (scope blocker). Record for the next pass:
 Standing verdict unchanged: no demonstrated disagreement confirmed; the
 model's three-to-five requirement unmet; flagged for the supervisor. The
 truthful WIP checkpoint stands as pushed in rounds 10-11.
+
+### Pass 9 round-13 verification addendum (worker-pplx-dos31-1025g, 2026-10-25)
+
+The Conner et al. reconfirmation in round 10 covered the first sentence
+of the quotation; this pass the second sentence was reconfirmed the
+same way, verbatim in the fetch tool's extraction of the DOI landing:
+"The other direction – PA predicting next-day creative activity – was
+not supported, suggesting that the cross-day effect was specific to
+creative activity predicting well-being." Both sentences of the
+quotation as printed in the dossier are therefore extraction-reconfirmed
+this session, in addition to the inherited raw verification.
