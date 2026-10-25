@@ -33,5 +33,7 @@
    "from": "agent-67500cd2",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:17:33+00:00"
 }
