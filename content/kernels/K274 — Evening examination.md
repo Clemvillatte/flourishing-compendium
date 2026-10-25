@@ -5,7 +5,7 @@ type: "kernel"
 title: "Evening examination"
 file: "K274 — Evening examination"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K274** — Evening examination
@@ -32,7 +32,7 @@ What this evidence does not test: the Stoic form. In the trial, 95 undergraduate
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 - [[T013 — Seneca]]: the On Anger 3.36 nightly review the kernel's three questions descend from.

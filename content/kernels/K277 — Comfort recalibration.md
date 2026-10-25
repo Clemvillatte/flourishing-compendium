@@ -5,7 +5,7 @@ type: "kernel"
 title: "Comfort recalibration"
 file: "K277 — Comfort recalibration"
 tags: ["applied-practice", "topic/desire"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.04 — 4. Desire, Preference, and Voluntary Discomfort", "parent": ""}
 ---
 > **Kernel K277** — Comfort recalibration
@@ -52,7 +52,7 @@ What this evidence does not test: the cited work is an overview of a clinician-d
 
 Not applicable: the practice is a chosen discomfort and a question, not a recording.
 
-> **Therapeutic approach: general**
+> **Therapeutic approach: Stoic**
 
 ## Operationalises
 - [[T013 — Seneca]]: the Letter 18 practice of days with inexpensive food behind deliberate discomfort.

@@ -1245,9 +1245,14 @@
  },
  "K274": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"The practice is the Stoic evening\" (Seneca On Anger 3.36 nightly review)",
+    "Stoic"
+   ]
+  ]
  },
  "K275": {
   "mods": [
@@ -1276,9 +1281,14 @@
  },
  "K277": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: Seneca Letter 18 practice of days with inexpensive fare",
+    "Stoic"
+   ]
+  ]
  },
  "K278": {
   "mods": [
@@ -1821,9 +1831,14 @@
  },
  "K364": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"The practice is the Stoic exercise of cosmopolitanism\"",
+    "Stoic"
+   ]
+  ]
  },
  "K365": {
   "mods": [
