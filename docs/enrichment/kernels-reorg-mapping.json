@@ -1583,9 +1583,14 @@
  },
  "K320": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: Seneca On the Shortness of Life quoted (\"it's not that we have a short time to live, but that we waste much of it\")",
+    "Stoic"
+   ]
+  ]
  },
  "K321": {
   "mods": [
