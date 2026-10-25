@@ -420,3 +420,21 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Relevant segment: whole talk, 1:01:40.
 - Verification status: verified-video.
 
+### SRC-M21-PP01: Conducive Conditions for Positivity Resonance at Multiple Levels of Analysis (Barbara Fredrickson, UBC)
+
+- Identity and access: oembed confirms the colloquium on the UBC Psychology
+  channel (https://www.youtube.com/watch?v=CliVqHW13pM).
+- Duration: 1:18:27 (watch page, 2026-10-25).
+- Instructor credentials: Dr Barbara Fredrickson, Kenan Distinguished Professor
+  of Psychology and Neuroscience at the University of North Carolina at Chapel
+  Hill (per the host description); UBC Psychology Colloquia, March 20, 2025.
+- Language: English.
+- Content coverage: the host's description states the colloquium presents the
+  latest evolution of her research program on love conceptualized as positivity
+  resonance, its multi-level consequences from individual health and longevity to
+  communal goodwill, and recent work on conducive conditions at individual,
+  collective and structural levels, aiming at interventions for loneliness and
+  connectedness.
+- Relevant segment: whole colloquium, 1:18:27.
+- Verification status: verified-video.
+

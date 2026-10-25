@@ -890,6 +890,23 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 2:22:25.
 - Verification status: verified-video.
 
+### SRC-M20-D02: Empathy in the Daoist Zhuangzi (Youru Wang, Ric Edelman College)
+
+- Identity and access: oembed confirms the talk on the Ric Edelman College
+  channel (https://www.youtube.com/watch?v=-fCESWzy_yo).
+- Duration: 1:03:03 (watch page, 2026-10-25).
+- Instructor credentials: Professor Youru Wang (per the host description); talk
+  hosted by the Ric Edelman College of Communication and Creative Industry.
+- Language: English.
+- Content coverage: the host's description states the talk investigates elements of
+  empathy in the Zhuangzi: types of empathy, other-centeredness, empathy as
+  process and responsiveness, and the interaction of empathy with other capacities,
+  including perceptual directness, listening, mirroring, qi-energy-connecting,
+  receptivity, cultivating empathic capacity and the Daoist forgetfulness of
+  self-centricity.
+- Relevant segment: whole talk, 1:03:03.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15

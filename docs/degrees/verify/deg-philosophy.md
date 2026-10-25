@@ -941,6 +941,43 @@ attach them with evidence on file.
 - Relevant segment: whole episode, 1:22:24.
 - Verification status: verified-video.
 
+### SRC-M19-ST02: How to be a Stoic (Michiel Buis, Studium Generale, Erasmus)
+
+- Identity and access: oembed confirms the lecture on the Studium Generale
+  channel (https://www.youtube.com/watch?v=yahceTYdcJI); part of Erasmus
+  University Rotterdam's public programme.
+- Duration: 1:27:35 (watch page, 2026-10-25).
+- Instructor credentials: Dr Michiel Buis, PhD from Erasmus School of Philosophy on
+  the contemporary application of ancient Stoicism, researcher at Breda University
+  of Applied Sciences (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture covers the origins of
+  Stoic philosophy, its modern resurgence and application to current life,
+  differences between modern and classical Stoicism, and its use in self-help,
+  coaching and therapy.
+- Relevant segment: whole lecture, 1:27:35.
+- Verification status: verified-video.
+
+### SRC-M20-C01: Spinoza, Ethics, The Nature of Reality and the Relation of Mind and Body (John Russon)
+
+- Identity and access: oembed confirms the lecture on the John Russon personal
+  channel (https://www.youtube.com/watch?v=LNjhFklJH8s). PROVENANCE NOTE: an
+  independent scholar's own channel rather than an institutional host.
+- Duration: 0:54:28 (watch page, 2026-10-25).
+- Instructor credentials: John Russon, philosopher; the page does not state his
+  affiliation, so the owner should attach an institutional biography before use
+  (he is known as a philosophy professor, but that is not verified here).
+- Language: English.
+- Content coverage: the uploader's description states the lecture explains the
+  basic principles of Spinoza's philosophy from Books I and II of the Ethics,
+  focusing on the relation to the Scientific Revolution and his understanding of
+  our ignorance regarding our own actions.
+- Routing note: routed to philosophy by content; if the M20 module is comparative,
+  the owner may want it placed alongside the Zhuangzi empathy record (SRC-M20-D02,
+  deg-contemplative).
+- Relevant segment: whole lecture, 0:54:28.
+- Verification status: verified-video, with the credential-provenance note.
+
 ## Block A status
 
 All 36 Block A records for deg-philosophy have been processed: 33 verified in this
