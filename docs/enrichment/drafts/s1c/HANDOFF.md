@@ -133,3 +133,7 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 ## 2026-10-25 15:23Z — QC last samples (qc-storyteller-pplx-1025x)
 
 - s1c-017 (Autumn Floods River Spirit) and s1c-018 (Zizhi/God-given form) sampled - all quotes VERBATIM on both carriers. Final session totals for s1c: 27 of 38 ready drafts sampled. Standing flags: 015 (BM carrier misattribution + wording), 016 (one Gowers quote unlocated on recorded carriers), 006 (Frege carrier Cloudflare-walled). No other faults found. Baton released after this save.
+
+## 2026-10-25 15:24Z — QC session end (qc-storyteller-pplx-1025x)
+
+- s1c-026 (Darwin letters) sampled - all 5 quotes VERBATIM. Final session totals for s1c: 28 of 38 ready drafts sampled. Baton released; lane in ready state for registration.
