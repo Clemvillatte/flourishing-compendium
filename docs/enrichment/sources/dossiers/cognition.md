@@ -521,3 +521,15 @@ tested protocol" (honest scoping). No text changed in this pass.
 - 2026-10-25 11:00:47Z — repair, self-checked, pushed. Two of five flagged spans fixed: the Haidt 2001 moral-judgment spans (PMID 11699120) are verbatim in the NCBI eutils plain-text abstract (opened this session), so the eutils efetch URL was added as a second carrier and both spans now machine-verify. The dialecticism span (PMC2811254) was fixed the same way using the eutils PMC full-text endpoint. Remaining flagged: Tversky and Kahneman 1974 (science.org) and Gigerenzer 1996 (Columbia PDF) — left for the next pass.
 
 - 2026-10-25 11:06:06Z — follow-up repair, self-checked, pushed. The second Haidt span ("The author gives 4 reasons...") sits in a separate paragraph whose anchor did not carry the eutils link added earlier to the first span's anchor; the eutils carrier was added to that anchor too, and the span now machine-verifies. Remaining flagged: Tversky and Kahneman 1974 (science.org) and Gigerenzer 1996 (Columbia PDF), both unfetchable by the verifier this session.
+
+## QC sample — partial (2026-10-25 11:11Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported 2 not found. Verified this pass:
+- Gigerenzer 1996 (Columbia mirror PDF): span VERBATIM ("The second is
+  that vague heuristics have directed attention away from detailed models
+  of cognitive processes and toward post-hoc accounts of alleged
+  errors."). PDF carrier not machine-parseable by the checker.
+Handoff: Tversky & Kahneman 1974 abstract span on science.org
+(paywall/bot-wall class) — next pass, try the AAAS abstract page or a
+university course mirror of the classic abstract. No dossier text
+changes needed for the verified span.
