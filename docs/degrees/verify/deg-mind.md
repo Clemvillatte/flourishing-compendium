@@ -1040,6 +1040,22 @@ paths (see the access note).
   predicts later criminal offending, addiction, personal finances, benefit
   use, retirement savings, physical health and illness, drawing on a New
   Zealand cohort and a UK twin-sibling cohort.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=vHQV4NSeORE&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain speech-to-text errors)
+  confirms the talk's substance on the recording: the Dunedin cohort (1,037
+  children born 1972-73, 96% participating at age 38); childhood self-control
+  measured across ages 3-11 from parent, teacher and child reports ("a
+  persistent and cross situational pattern of poor self-control"); adult
+  gradients in health, substance dependence, income, finances, convictions and
+  parenting ("the poorer the children's self-control … the poorer their adult
+  health"); persistence in higher-income, higher-IQ, female and non-ADHD
+  subgroups; the UK twin-sibling comparisons ("it's not just the family into
+  which you're born that matters"); the government-benefit duration finding;
+  life-satisfaction gradients; and universal self-control teaching as the
+  intervention upshot ("teaching better self control skills to the whole
+  population of children"). Caveats: third-party transcript page, no
+  timestamps in the retrieved text; playback itself not opened.
 - Relevant segment: whole talk, 51:25.
 - Verification status: verified-video (2026-10-25); credentials verified
   on the Duke Psychiatry profile (opened 2026-10-25, as cited above).
