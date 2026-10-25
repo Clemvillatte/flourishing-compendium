@@ -175,7 +175,7 @@
    ]
   },
   "s1a-006": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B026: Bill W. finds Dr. Bob — AA's founding as the four efforts in action",
    "history": [
     {
@@ -211,6 +211,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:58:05+00:00",
+     "to": "ready",
+     "note": "verification pass: all four sources re-opened, quotes confirmed (typographic artifacts noted); ready"
     }
    ],
    "stid": "ST413"
@@ -1741,5 +1746,5 @@
    ]
   }
  },
- "updated": "2026-10-25T13:57:28+00:00"
+ "updated": "2026-10-25T13:58:05+00:00"
 }
