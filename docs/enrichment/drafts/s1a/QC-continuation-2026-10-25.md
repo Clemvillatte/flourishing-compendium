@@ -48,3 +48,11 @@ page carries a [28] page-number marker inside the "just even so" sentence — pa
 furniture, correctly omitted from the draft's quoted span. Two earlier NOT FOUND
 results in my own probing were artifacts of quote-mark style in the probe, not page
 defects; passages confirmed verbatim on re-examination. s1a-042: quotes clean.
+
+## Cross-lane verification note (2026-10-25, logged from s1a)
+
+- s1b-038 (Kwang-dze Refuses the Grand Burial, D192, Legge introduction via
+  100jia.net): all three key spans verified verbatim against the live page (the
+  crows-and-kites exchange with Legge's exact "to take from those and give to these
+  would only show your partiality", and the heaven-and-earth coffin reply). D192 has
+  no story backlinks; no overlap. Clean, ready for registration.
