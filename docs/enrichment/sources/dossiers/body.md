@@ -280,3 +280,39 @@ James-Lange correction from the earlier pass stands. Card narration
 after repairs: checker exit 0, 0 dense, card set unchanged (52 unique,
 0 missing, 0 added), Husserl quote found. Status returned to IN
 PROGRESS pending final review.
+
+## Advisor QC pass 3, continued (2026-10-25, worker-pplx-dos17-1025h)
+
+A further advisor review of the repaired passages found two remaining
+defects, now fixed. (1) The phenomenology entry had presented the
+unresolved relationship as a disagreement; it is now grounded in the
+SEP entry's explicit statements, freshly opened this pass: Merleau-Ponty
+argues behavior "remains inexplicable in purely anatomical or atomistic
+terms," that reflex accounts "rely on gratuitous hypotheses lacking
+experimental justification," and that scientific explanations "attempt
+to reconstruct the experience of the world, which they inevitably
+presuppose, by means of causal mechanisms." The entry states the
+objection, notes the sources do not settle whether the internal-
+structure models escape it, and adds the required first-person lean.
+(2) The Seth entry's "representation or inference" dichotomy was the
+writer's construction, not the sources'; it is now framed in the
+paper's own terms (prior accounts of selfhood ground it in
+representations of physiological condition; Seth's proposal identifies
+emotional states with top-down inference of the causes of interoceptive
+signals; none of the accounts he discusses do this), with the required
+first-person lean added. The signals-section bridge was rewritten to
+match. The cortisol sentence now carries the abstract's own qualifier
+("appears ... as a distinct feature"). The intro's "suffering
+accumulates or loosens" was softened to "can accumulate or ease."
+
+KNOWN SHORTFALL, flagged for the supervisor: DOSSIER-MODEL.md asks for
+three to five disagreement headings; this section has two. A third
+sourced entry was not manufactured; candidates for a future carrier
+pass (polyvagal theory's disputed status; the slow-breathing
+mechanism question) lack carrier support on the cards. Verification
+scope of this whole ledger record: the passages named above were
+checked against the carriers named above; the remaining glosses are
+inherited from the card-fidelity sweep and were not reopened against
+carriers this session. Checks after these repairs: checker exit 0,
+0 dense, card set unchanged (52 unique, 0 missing, 0 added), Husserl
+quote found.
