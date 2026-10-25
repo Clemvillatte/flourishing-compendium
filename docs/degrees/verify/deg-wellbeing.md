@@ -760,3 +760,110 @@ standard.
   verified; coverage rests on the uploader description and must be
   confirmed against the recording before scheduling; poor audio in the
   first three minutes noted.
+
+### M08-S16: Social Network Interventions (Nicholas Christakis, CUNY SPH)
+
+- Identity and access: oembed confirms the lecture on the CUNY SPH
+  channel (https://www.youtube.com/watch?v=j4OwoS6Stg0); watch page
+  opened 2026-10-25.
+- Duration: 1:30:55 (watch page, 2026-10-25).
+- Instructor credentials: Nicholas A. Christakis, MD, PhD, MPH, social
+  scientist and physician at Yale University (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25):
+  interventions involving offline and online social networks —
+  experiments fostering cooperation in online groups, changing health
+  behaviors in developing-world villages, and facilitating diffusion of
+  innovation and coordination in groups; using social networks and
+  social influence to enhance population-level outcomes (health,
+  wealth, cooperation, coordination, learning).
+- Relevant segment: whole lecture, 1:30:55.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S19: Commons Governance Program Lecture — Tine De Moor (Ostrom Workshop)
+
+- Identity and access: oembed confirms the lecture on the Ostrom
+  Workshop channel (https://www.youtube.com/watch?v=FDbgoVx1Q7Q); watch
+  page opened 2026-10-25. Given 21 April 2022.
+- Duration: 1:17:29 (watch page, 2026-10-25).
+- Instructor credentials: Tine De Moor, commons and collective-action
+  scholar (per the uploader description; institutional page not opened
+  this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25):
+  institutions for collective action over the past millennium —
+  historical commons, guilds, collective irrigation systems, fishing
+  collectives; Europe's new wave of citizen collectives in food
+  production, healthcare and energy provision; how modern collectives
+  differ from historical ones and whether they offer a viable governance
+  model for sustainable resource management.
+- Relevant segment: whole lecture, 1:17:29.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S20: The State of Prosocial World with David Sloan Wilson (ProSocial World)
+
+- Identity and access: oembed confirms the talk on the ProSocial World
+  channel (https://www.youtube.com/watch?v=rw30IBlUqlE); watch page
+  opened 2026-10-25. INDEPENDENT-CHANNEL FLAG with named institutional
+  speaker.
+- Duration: 1:27:06 (watch page, 2026-10-25).
+- Instructor credentials: David Sloan Wilson, evolutionary biologist
+  (per the uploader description; institutional page not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): an overview
+  of ProSocial World and its application of modern evolutionary science
+  to positive cultural change efforts in real-world settings — the
+  practical toolkit's use across economics, health, education and
+  spirituality, at scales from small groups to global governance; the
+  organization's progress and future directions entering its third year
+  as an independent nonprofit.
+- Relevant segment: whole talk, 1:27:06.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
+
+### M08-S21: Meng Wu Lecture — David Sloan Wilson (CCARE at Stanford)
+
+- Identity and access: oembed confirms the lecture on the CCARE at
+  Stanford University channel
+  (https://www.youtube.com/watch?v=9sVfsNoVcL0); watch page opened
+  2026-10-25. Meng Wu Lecture, 9 January 2012.
+- Duration: 46:13 (watch page, 2026-10-25).
+- Instructor credentials: David Sloan Wilson (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "Compassion
+  and Altruism from an Integrated Evolutionary Perspective" — the
+  description gives the talk's title but does not further describe its
+  content.
+- Relevant segment: whole talk, 46:13.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the talk title — flagged.
+
+### M08-S23: How Can We Decide Who the Experts Are? Or Can We? (Alvin Goldman, Royal Institute of Philosophy)
+
+- Identity and access: oembed confirms the lecture on The Royal
+  Institute of Philosophy channel
+  (https://www.youtube.com/watch?v=5bZ03dUXKSA); watch page opened
+  2026-10-25. Royal Institute of Philosophy London Lecture Series, "How
+  Do We Know? The Social Dimension of Knowledge," presented 1 November
+  2019.
+- Duration: 47:50 (watch page, 2026-10-25).
+- Instructor credentials: Alvin Goldman, who has taught philosophy at
+  the University of Michigan, the University of Arizona and Rutgers
+  University (per the uploader description; institutional page not
+  opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): which
+  experts should be relied upon, whether genuine experts exist, and how
+  non-experts can identify them.
+- Relevant segment: whole lecture, 47:50.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and must be
+  confirmed against the recording before scheduling.
