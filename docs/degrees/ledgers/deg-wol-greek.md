@@ -573,3 +573,34 @@ transcript actually contains), upgrading the candidate from
 chapter-titles-only to transcript-read. It remains an unattached candidate
 (the module it would serve is behind the Phase 0 stop-gate); no
 attachment is made this session.
+
+## AR-05 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The AR-05 record (Stoicism, Marcus Aurelius's Meditations, Adam
+Rosenfeld's own PHI 251 session 23; verified earlier in this ledger,
+1:15:00 with the 33-second watch-page discrepancy already flagged to
+deg-verify-b) now carries a transcript-level content classification,
+superseding the uploader-description-only basis. Transcript read this
+session via https://youtubetotranscript.com/transcript?v=YbAY_xNLReE
+(rendered page; direct raw fetch is Cloudflare-walled).
+
+Content confirmed from the transcript:
+
+- Opening: "this is our second second on stoicism" — the session
+  follows a first session on Epictetus' Enchiridion.
+- Context set by the lecturer: "Epictetus was a slave and perhaps this
+  maybe makes sense because stoicism seems like the sort of worldview
+  that could come in handy if you were a slave... stoicism teaches us
+  how to cope with not having control of things".
+- Closes: "I'll see you guys on Thursday and we'll talk about
+  skepticism." — confirming the session is inside a course sequence
+  whose next meeting covers skepticism (which the next record, M05-XP-02
+  Pyrrhonic Skepticism, matches).
+
+Content matches the manifest's proposed topic "Marcus Aurelius as
+practical text": the session is a continuation of the course's Stoicism
+sequence, now through the Meditations. Transcript-level classification
+closes the "transcript still unread" gap for AR-05. Status remains
+verified-video; identity, access, credentials and durations unchanged.
+Module production stays behind the Phase 0 stop-gate; no attachment is
+made this session.
