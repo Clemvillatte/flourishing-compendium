@@ -7,7 +7,7 @@ file: "ST003 — The Useless Tree"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.01 — I.1 First Principles — The Axioms", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 1, "Free and Easy Wandering"](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 1, "Free and Easy Wandering"](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)*
 
 Carpenter Shi sees an enormous oak at the shrine. His apprentice gapes at its size; Shi walks past without looking, calling it useless timber, a tree whose wood would make a boat that sinks and a coffin that rots. That night the tree appears in his dream. The useful trees, it says, are cut down for their fruit or their grain. It survived by being good for nothing, and that uselessness is its use.
 

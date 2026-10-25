@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Philosophical dialogue · Zhuangzi, chapter 2, in Robert Eno's translation, cross-read with Legge's.
+Philosophical dialogue · [[T009 — Zhuangzi|Zhuangzi]], chapter 2, in Robert Eno's translation, cross-read with Legge's.
 
 Nie Que asks Wang Ni whether he knows something that everyone agrees on. "How would I know that?" Wang Ni answers. Does he know what he does not know? "How would I know that?" Then does he know nothing at all? Again, "How would I know that?" ([Eno, §2.17](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content)). In Legge's rendering, Nie Que asks the second question "again, and he got the same reply" ([Legge, ch. 2 §11](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 

@@ -8,7 +8,7 @@ tags: ["topic/mind", "topic/stillness"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 19, "The Full Understanding of Life"](https://ctext.org/zhuangzi/the-full-understanding-of-life)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 19, "The Full Understanding of Life"](https://ctext.org/zhuangzi/the-full-understanding-of-life)*
 
 Confucius watches a man dive into the torrent at Lüliang, where the water drops forty fathoms and even fish and turtles cannot hold their own. The man surfaces, strolls along the bank singing. Asked how, he says he has no method: he enters with the water and comes out with the water, following the whirlpools down and the surges up.
 

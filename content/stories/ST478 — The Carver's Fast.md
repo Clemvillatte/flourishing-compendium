@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
 
-Warring States China · Zhuangzi, Book XIX · a canonical anecdote, James Legge translation
+Warring States China · [[T009 — Zhuangzi|Zhuangzi]], Book XIX · a canonical anecdote, James Legge translation
 
 A woodcarver made a bell stand so fine that the ruler asked what art produced it, and the carver's answer was that art had nothing to do with it. What produced the bell stand was a fast: three days shedding the thought of reward, five days shedding praise and blame, seven days shedding himself. Only when his mind had gone still did he enter the forest and see the stand already standing in the trees. The anecdote is the narrative form of what D041 calls purity and stillness. ([Zhuangzi XIX, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 

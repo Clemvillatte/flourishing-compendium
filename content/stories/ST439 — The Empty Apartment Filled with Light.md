@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity", "parent": ""}
 ---
 
-Daoist literary narrative · Zhuangzi, Book IV (Renjian shi), in James Legge's 1891 translation ([Zhuangzi 4.1, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+Daoist literary narrative · [[T009 — Zhuangzi|Zhuangzi]], Book IV (Renjian shi), in James Legge's 1891 translation ([Zhuangzi 4.1, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 Yan Hui comes to Confucius asking leave to depart for Wei, where the ruler is young and headstrong: "I have heard that the ruler of Wei is in the vigour of his years, and consults none but himself as to his course." ([Zhuangzi 4.1, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)) The ruler deals with his state lightly and the dead lie thick in the countryside; Yan Hui wants to bring the state to order ([Zhuangzi 4.1, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The instruction that follows describes a preparation that is an emptying. The fasting of the mind: "But the spirit is free from all pre-occupation and so waits for (the appearance of) things." ([Zhuangzi 4.1, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)) And the line for it: "Where the (proper) course is, there is freedom from all pre-occupation; such freedom is the fasting of the mind." ([Zhuangzi 4.1, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 

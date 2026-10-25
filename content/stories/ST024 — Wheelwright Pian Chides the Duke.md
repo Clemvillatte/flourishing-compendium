@@ -8,7 +8,7 @@ tags: ["topic/action", "topic/flow"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 13, "The Way of Heaven"](https://ctext.org/zhuangzi/the-way-of-heaven)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 13, "The Way of Heaven"](https://ctext.org/zhuangzi/the-way-of-heaven)*
 
 Wheelwright Pian is carving a wheel for Duke Huan, who is reading. Pian remarks that the Duke is reading the dregs of dead men. Pressed, he explains: if I chisel too slow, the wheel is loose; too fast, and it does not fit. The pace cannot be put into words or taught to a son. The ancients died with their skill unspoken, so what the Duke reads is their leftovers.
 

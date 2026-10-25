@@ -8,7 +8,7 @@ tags: ["topic/relationships", "topic/leadership"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.06 — I.6 Relationships, Speech, and Leadership", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 7, "Letting Be and Inaction"](https://ctext.org/zhuangzi/the-normal-course-for-rulers-and-kings)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 7, "Letting Be and Inaction"](https://ctext.org/zhuangzi/the-normal-course-for-rulers-and-kings)*
 
 Liezi is offered a minister's post and asks his teacher. The teacher's answer is a picture of right rule: a ruler of people does not treat them as sheep to be driven or instruments to be played. He lets each thing be what it is, and the people, when asked who did it, say they did it themselves.
 

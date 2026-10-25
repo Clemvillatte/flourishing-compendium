@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Daoist funeral scene with a commentary · Zhuangzi, chapter 3, in Legge's and Eno's translations.
+Daoist funeral scene with a commentary · [[T009 — Zhuangzi|Zhuangzi]], chapter 3, in Legge's and Eno's translations.
 
 When Lao Dan died, his friend Qin Shi went to the house, cried out three times and left. Legge gives the name as Qin Shi, and Eno as Qin Yi. The dead man's disciples asked whether this was a friend's proper way to offer condolences ([Legge, ch. 3 §5](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). He said it was.
 

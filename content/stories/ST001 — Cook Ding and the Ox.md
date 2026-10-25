@@ -7,7 +7,7 @@ file: "ST001 — Cook Ding and the Ox"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.01 — I.1 First Principles — The Axioms", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 3, "Nourishing the Lord of Life"](https://ctext.org/zhuangzi/nourishing-the-lord-of-life)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 3, "Nourishing the Lord of Life"](https://ctext.org/zhuangzi/nourishing-the-lord-of-life)*
 
 Cook Ding has carved oxen for nineteen years, and his blade is still as sharp as if it had just left the whetstone. He never cuts through bone or forces his way through flesh. He reads the natural openings between the joints and lets the knife find its own way through them. When he reaches a difficult knot, he slows down, studies it, and moves with as little force as the job allows.
 

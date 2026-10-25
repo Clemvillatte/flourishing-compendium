@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Philosophical parable · Zhuangzi, chapter 18, section 5
+Philosophical parable · [[T009 — Zhuangzi|Zhuangzi]], chapter 18, section 5
 
 A marquis welcomes a seabird with the food and music of a lavish human banquet. The bird takes neither food nor drink and dies within three days: the Zhuangzi uses the episode to ask what happens when one creature's standard of good is imposed on another. For D080, it adds a practical consequence to disputes over perspective: someone else's needs may be harmed by what we call kindness. ([Zhuangzi 18.5](https://ctext.org/zhuangzi/perfect-enjoyment))
 

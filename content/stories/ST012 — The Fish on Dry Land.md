@@ -8,7 +8,7 @@ tags: ["topic/desire"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.02 — I.2 Desire, Contentment, and the Economy of Want", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 6, "The Great and Venerable Teacher"](https://ctext.org/zhuangzi/the-great-and-venerable-teacher)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 6, "The Great and Venerable Teacher"](https://ctext.org/zhuangzi/the-great-and-venerable-teacher)*
 
 Two fish stranded on land spit moisture on each other to keep each other alive. It is better, says Zhuangzi, to be in the river, having forgotten each other in its vastness, than to lie on dry land helping.
 

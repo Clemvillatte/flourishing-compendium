@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
 
-Daoist literary narrative · Zhuangzi, Book XIX (Da Sheng), in James Legge's 1891 translation ([Legge, Zhuangzi, METIS](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+Daoist literary narrative · [[T009 — Zhuangzi|Zhuangzi]], Book XIX (Da Sheng), in James Legge's 1891 translation ([Legge, Zhuangzi, METIS](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 Yan Yuan tells Confucius that when he crossed the gulf of Shang-shen, "the ferryman handled the boat like a spirit", and that when he asked whether such handling could be learned, the ferryman answered that good swimmers learn it quickly, while divers can manage a boat without ever having seen one ([Zhuangzi 19.4, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Confucius explains the answer: "Good swimmers acquire the ability quickly - they forget the water (and its dangers)", and divers look on the watery gulf as a hill-side, with the upsetting of a boat no more disturbing than a carriage turning back ([same passage](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Then he turns to what ruins such ability ([same passage](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)):
 

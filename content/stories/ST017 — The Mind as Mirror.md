@@ -8,7 +8,7 @@ tags: ["topic/mind", "topic/stillness"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity", "parent": ""}
 ---
-*Zhuangzi metaphor · China, 4th century BCE · [Zhuangzi, ch. 13, "The Way of Heaven"](https://ctext.org/zhuangzi/the-way-of-heaven)*
+*[[T009 — Zhuangzi|Zhuangzi]] metaphor · China, 4th century BCE · [Zhuangzi, ch. 13, "The Way of Heaven"](https://ctext.org/zhuangzi/the-way-of-heaven)*
 
 The sage's mind, says the Zhuangzi, is a still mirror. It does not go out to meet things, and it does not run after them when they leave. What comes, it responds to. What passes, it lets pass. It wins no victories and stores no grudges.
 

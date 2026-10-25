@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Real person, anecdotes from a philosophical text · Zhuangzi, chapter 17, in Legge's translation and Giles's.
+Real person, anecdotes from a philosophical text · [[T009 — Zhuangzi|Zhuangzi]], chapter 17, in Legge's translation and Giles's.
 
 Zhuangzi is fishing in the river Pu when the king of Chu sends two high officials with a message: he wants to entrust him with the whole of his territory. Zhuangzi keeps holding his rod and does not look round. He says he has heard that Chu keeps a sacred tortoise shell, from a creature dead 3,000 years, in a hamper covered with a cloth in the ancestral temple ([Legge, ch. 17 §11](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 

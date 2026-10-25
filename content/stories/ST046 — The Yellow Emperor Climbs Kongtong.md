@@ -8,7 +8,7 @@ tags: ["topic/body"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.07 — I.7 Body, Breath, and Vitality (Yangsheng)", "parent": ""}
 ---
-*Zhuangzi mythological narrative · China, 4th century BCE · [Zhuangzi, ch. 11, "Let It Be, Let Alone"](https://ctext.org/zhuangzi/zai-you)*
+*[[T009 — Zhuangzi|Zhuangzi]] mythological narrative · China, 4th century BCE · [Zhuangzi, ch. 11, "Let It Be, Let Alone"](https://ctext.org/zhuangzi/zai-you)*
 
 The Yellow Emperor, after ruling for nineteen years, climbs Mount Kongtong to ask the sage Guangcheng for the essence of perfect life. Guangcheng refuses: you governed the world without order, so the clouds rain before the clouds gather; how can you speak of perfect life? Come back when you can sit in stillness. The Emperor withdraws, lives alone for three months, and returns. Guangcheng then teaches him: guard the inner, quiet the hearing and sight, and the body will strengthen of itself.
 

@@ -8,7 +8,7 @@ tags: ["topic/emotion", "topic/identity", "topic/meaning", "topic/death", "topic
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
-*Zhuangzi biographical narrative · China, 4th century BCE · [Zhuangzi, ch. 18, "Perfect Happiness"](https://ctext.org/zhuangzi/perfect-enjoyment)*
+*[[T009 — Zhuangzi|Zhuangzi]] biographical narrative · China, 4th century BCE · [Zhuangzi, ch. 18, "Perfect Happiness"](https://ctext.org/zhuangzi/perfect-enjoyment)*
 
 When Zhuangzi's wife dies, Hui Shi comes to condole and finds him drumming on an overturned basin and singing. Hui Shi is scandalised. Zhuangzi replies that when she first died he grieved like anyone. Then he traced it back: before she had a body, there was no body; then she had a body; then she lived; now she is transformed again, moving as the seasons move. To weep and wail would be to refuse the pattern.
 

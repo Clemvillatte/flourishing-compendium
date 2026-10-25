@@ -7,7 +7,7 @@ file: "ST049 — The Pipes of Heaven"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.08 — I.8 Subtle Refinements", "parent": ""}
 ---
-*Zhuangzi metaphor · China, 4th century BCE · [Zhuangzi, ch. 2, "Discussion on Making All Things Equal"](https://ctext.org/zhuangzi/adjustment-of-controversies)*
+*[[T009 — Zhuangzi|Zhuangzi]] metaphor · China, 4th century BCE · [Zhuangzi, ch. 2, "Discussion on Making All Things Equal"](https://ctext.org/zhuangzi/adjustment-of-controversies)*
 
 Ziqi of the Southern Gate sits lost in himself, his body like dead wood. His student asks what happened. He replies that he just lost himself. Then he unfolds the image: the pipes of earth are the hollows and cavities of the mountains; the pipes of man are the bamboo; the pipes of heaven are the wind blowing through them all, and each hollow sounding its own note. Who is it, he asks, that stirs them all?
 

@@ -7,7 +7,7 @@ file: "ST002 — The Butterfly Dream"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.01 — I.1 First Principles — The Axioms", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 2, "Discussion on Making All Things Equal"](https://ctext.org/zhuangzi/adjustment-of-controversies)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 2, "Discussion on Making All Things Equal"](https://ctext.org/zhuangzi/adjustment-of-controversies)*
 
 Zhuangzhou dreams he is a butterfly, fluttering happily, knowing nothing of Zhuangzhou. He wakes, and there he is, unmistakably Zhuangzhou. But he cannot say whether he is a man who dreamed he was a butterfly, or a butterfly now dreaming it is a man.
 

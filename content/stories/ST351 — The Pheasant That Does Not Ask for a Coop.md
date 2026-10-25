@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Ancient Daoist literary comparison, not a wildlife report · Zhuangzi, chapter 3 §4, translated by James Legge.
+Ancient Daoist literary comparison, not a wildlife report · [[T009 — Zhuangzi|Zhuangzi]], chapter 3 §4, translated by James Legge.
 
 A marsh pheasant works for its food and water, yet does not seek a coop where it could be lavishly fed ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The comparison ends by saying that abundance would not make confinement good for it ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 

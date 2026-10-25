@@ -8,7 +8,7 @@ tags: ["topic/relationships", "topic/leadership"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.06 — I.6 Relationships, Speech, and Leadership", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 9, "Horses' Hooves"](https://ctext.org/zhuangzi/horses-hooves)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 9, "Horses' Hooves"](https://ctext.org/zhuangzi/horses-hooves)*
 
 Horses, left alone, eat grass and drink water, and when pleased, rub their necks together; when angry, turn and kick. This is their nature. Po Lo announces himself a great trainer: he brands them, trims them, halter and bit, stable and grain. Half of them die.
 

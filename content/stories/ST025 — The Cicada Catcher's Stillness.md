@@ -8,7 +8,7 @@ tags: ["topic/action", "topic/flow", "topic/stillness"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 19, "The Full Understanding of Life"](https://ctext.org/zhuangzi/the-full-understanding-of-life)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 19, "The Full Understanding of Life"](https://ctext.org/zhuangzi/the-full-understanding-of-life)*
 
 Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground. Asked the secret, the man describes his training: he balanced poles with increasing weights on his arms until his body stood like an old stump, and he no longer notices the world's ten thousand things, only the wings. The cicada is caught before it knows he is there.
 

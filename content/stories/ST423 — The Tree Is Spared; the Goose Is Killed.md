@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.07 — I.7 Body, Breath, and Vitality (Yangsheng)", "parent": ""}
 ---
 
-Philosophical parable · Zhuangzi, chapter 20, section 1
+Philosophical parable · [[T009 — Zhuangzi|Zhuangzi]], chapter 20, section 1
 
 A tree is spared because its wood is useless; later, a goose is killed because it cannot cackle. Zhuangzi's disciples ask which condition he would choose. His answer challenges both a fixed strategy and a supposedly safe midpoint, giving D156 an angle on flexibility in judgement: a rule that protects in one setting may fail in the next. ([Zhuangzi 20.1](https://ctext.org/zhuangzi/tree-on-the-mountain))
 

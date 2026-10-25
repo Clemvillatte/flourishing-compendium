@@ -8,7 +8,7 @@ tags: ["topic/desire"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.02 — I.2 Desire, Contentment, and the Economy of Want", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 17, "Autumn Floods"](https://ctext.org/zhuangzi/the-floods-of-autumn)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 17, "Autumn Floods"](https://ctext.org/zhuangzi/the-floods-of-autumn)*
 
 The frog in the shallow well is the master of all he surveys. He leaps among the rails, rests in the cracks, and knows nothing beyond the rim. The turtle of the Eastern Sea tries to describe the ocean: a thousand li without deepening, a thousand li without rising. The frog's mind boggles; the well is all the world it has.
 

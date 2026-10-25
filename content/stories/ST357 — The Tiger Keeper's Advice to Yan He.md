@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
 ---
 
-Daoist dialogue and animal-keeping analogies · Zhuangzi, chapter 4, in James Legge's 1891 translation, cross-checked against Robert Eno's.
+Daoist dialogue and animal-keeping analogies · [[T009 — Zhuangzi|Zhuangzi]], chapter 4, in James Legge's 1891 translation, cross-checked against Robert Eno's.
 
 Yan He is about to tutor the eldest son of Duke Ling of Wei and goes to ask Qu Boyu what to do. The young man, he says, is as bad by nature as a person can be: if he lets the prince go his way, the state is in danger, and if he insists on the right way, his own person is ([Legge, ch. 4 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Qu Boyu does not tell him to resist or to give in. He tells him to stay close to the prince in body and in harmony of mind, and to watch for a danger in each: do not be drawn into his pursuits, and do not display how superior you are ([Legge, ch. 4 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 

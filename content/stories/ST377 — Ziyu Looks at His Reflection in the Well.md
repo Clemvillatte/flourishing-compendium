@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Philosophical anecdote with humour · Zhuangzi, chapter 6, in Eno's translation, cross-read with Legge's.
+Philosophical anecdote with humour · [[T009 — Zhuangzi|Zhuangzi]], chapter 6, in Eno's translation, cross-read with Legge's.
 
 Ziyu, Zisi, Zili and Zilai are friends who laugh together at the question of who can see nothingness as the head, life as the spine and death as the rump. Soon Ziyu falls ill ([Eno, §6.4](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content)). When Zisi visits, Ziyu says, "How remarkable!" and then, "The Creator of things is making me into this hooked shape." A hump has thrust up from his back, his shoulders rise above his head, and his pigtail points at the sky. "Yet he was calm at heart and unconcerned."
 

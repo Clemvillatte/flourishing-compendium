@@ -8,7 +8,7 @@ tags: ["topic/relationships", "topic/leadership"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.06 — I.6 Relationships, Speech, and Leadership", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 6, "The Great and Venerable Teacher"](https://ctext.org/zhuangzi/the-great-and-venerable-teacher)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 6, "The Great and Venerable Teacher"](https://ctext.org/zhuangzi/the-great-and-venerable-teacher)*
 
 Three friends agree to live and die together as friends who have forgotten life and death. One of them falls ill; another visits and sees the body twisted and deformed. The sick man laughs: do you think the Creator is clumsy? He has been made like this, and it is not a mistake to be undone.
 

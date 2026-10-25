@@ -7,7 +7,7 @@ file: "ST004 — The Empty Boat"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.01 — I.1 First Principles — The Axioms", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 20, "The Mountain Tree"](https://ctext.org/zhuangzi/the-tree-on-the-mountain)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 20, "The Mountain Tree"](https://ctext.org/zhuangzi/the-tree-on-the-mountain)*
 
 If an empty boat drifts into yours as you cross a river, you do not get angry, even if you are hot-tempered. If there is a person in the other boat, you shout and curse. The collision is the same in both cases. Only the imagined blame differs.
 

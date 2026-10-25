@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Philosophical allegory · Zhuangzi, chapter 17, in James Legge's translation, cross-read with Herbert Giles's.
+Philosophical allegory · [[T009 — Zhuangzi|Zhuangzi]], chapter 17, in James Legge's translation, cross-read with Herbert Giles's.
 
 Autumn floods fill the hundred streams and the Yellow River swells until, in Legge's wording, "one could not distinguish an ox from a horse" across its channel. Giles has a cow in place of the ox ([Giles, ch. 17](https://www.gutenberg.org/cache/epub/59709/pg59709.txt)). The river's spirit, the Earl of the He, laughs with delight "thinking that all the beauty of the world was to be found in his charge" ([Legge, ch. 17 §1](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 

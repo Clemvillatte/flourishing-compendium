@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---
 
-Philosophical anecdote · Zhuangzi, chapter 6, in Robert Eno's translation, cross-read with Legge's.
+Philosophical anecdote · [[T009 — Zhuangzi|Zhuangzi]], chapter 6, in Robert Eno's translation, cross-read with Legge's.
 
 Three friends, Zisanghu, Meng Zifan and Ziqinzhang, ask each other who could climb to Heaven, ride the mists and join in "a life of forgetfulness without any end." In Eno's wording they look at each other and smile with "no disagreement in their hearts." In Legge's, they laugh and do not perceive "the drift of the questions" ([Eno, §6.5](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content); [Legge, ch. 6 §6](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Some time later Zisanghu dies.
 

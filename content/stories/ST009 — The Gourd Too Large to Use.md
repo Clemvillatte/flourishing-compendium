@@ -8,7 +8,7 @@ tags: ["topic/desire"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.02 — I.2 Desire, Contentment, and the Economy of Want", "parent": ""}
 ---
-*Zhuangzi parable · China, 4th century BCE · [Zhuangzi, ch. 1, "Free and Easy Wandering"](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)*
+*[[T009 — Zhuangzi|Zhuangzi]] parable · China, 4th century BCE · [Zhuangzi, ch. 1, "Free and Easy Wandering"](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease)*
 
 A man of Song had a recipe for preventing chapped hands, used for generations in the family laundry business. A traveller bought it for a hundred gold pieces and sold it to the King of Wu, whose navy used it to defeat Yue in a winter campaign. Huizi tells Zhuangzi he has a giant gourd too big for a bottle or a dipper, so he smashed it. Zhuangzi replies that Huizi had the five-bushel heart of the recipe seller: he should have made the gourd into a raft and floated the rivers.
 

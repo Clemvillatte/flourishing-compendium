@@ -9,7 +9,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *A tale from the first chapter of the Zhuangzi, in James Legge's translation*
 
-In a tale in the Zhuangzi's first chapter, Yao, the sage-king of the golden age, wants to hand the empire to Xu You, a hermit with no interest in ruling. Yao argues for the gift in two comparisons: torches still burning after the sun and moon have come forth, and farmers still watering the ground while the seasonal rains come down. Both are wasted effort next to what already works, and Yao says he would rather stop vainly occupying the place. It is a generous offer, made with humility.
+In a tale in the [[T009 — Zhuangzi|Zhuangzi]]'s first chapter, Yao, the sage-king of the golden age, wants to hand the empire to Xu You, a hermit with no interest in ruling. Yao argues for the gift in two comparisons: torches still burning after the sun and moon have come forth, and farmers still watering the ground while the seasonal rains come down. Both are wasted effort next to what already works, and Yao says he would rather stop vainly occupying the place. It is a generous offer, made with humility.
 
 Xu You declines, and his reason is not moral disgust at power. It is closer to arithmetic. His answer, in Legge's translation:
 

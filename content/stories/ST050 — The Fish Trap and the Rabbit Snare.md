@@ -7,7 +7,7 @@ file: "ST050 — The Fish Trap and the Rabbit Snare"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.08 — I.8 Subtle Refinements", "parent": ""}
 ---
-*Zhuangzi metaphor · China, 4th century BCE · [Zhuangzi, ch. 26, "External Things"](https://ctext.org/zhuangzi/external-things)*
+*[[T009 — Zhuangzi|Zhuangzi]] metaphor · China, 4th century BCE · [Zhuangzi, ch. 26, "External Things"](https://ctext.org/zhuangzi/external-things)*
 
 The fish trap exists because of the fish; once you have the fish, you forget the trap. The rabbit snare exists because of the rabbit; once you have the rabbit, you forget the snare. Words exist because of meaning; once you have the meaning, you can forget the words. Where, asks the text, can I find a person who has forgotten words, so I can have a word with them?
 
