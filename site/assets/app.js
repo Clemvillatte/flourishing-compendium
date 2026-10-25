@@ -18660,7 +18660,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Camus's analysis of rebellion points toward a shared human nature, and he marks his opposition himself; it leads him \"to the suspicion that, contrary to the postulates of contemporary thought, a human nature does exist, as the Greeks believed.\" The evidence he offers is the act of refusing, and the appeal it makes: \"If men cannot refer to common values, which they all separately recognize, then man is incomprehensible to man.\" ([Camus, The Rebel, 1951](https://archive.org/download/in.ernet.dli.2015.125230/2015.125230.The-Rebel_text.pdf))"
+          "x": "Camus's analysis of rebellion points toward a shared human nature, and he marks his opposition himself; it leads him \"to the suspicion that, contrary to the postulates of contemporary thought, a human nature does exist, as the Greeks believed.\" The evidence he offers is the act of refusing, and the appeal it makes: \"If men cannot refer to common values, which they all separately recognize, then man is incomprehensible to man.\" ([Camus, The Rebel, 1951](https://archive.org/download/in.ernet.dli.2015.125230/2015.125230.The-Rebel_text.pdf), [plain text](https://dn710701.ca.archive.org/0/items/in.ernet.dli.2015.125230/2015.125230.The-Rebel_djvu.txt))"
         },
         {
           "t": "p",
