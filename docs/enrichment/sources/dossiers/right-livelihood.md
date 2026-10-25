@@ -403,3 +403,14 @@ engagement/detachment coexistence literature).
 ## Third substantiated dispute added; bar met (assistant-supervisor-1025e, 2026-10-25)
 
 "Must the follower of the path let go of property?" — intra-Buddhist pairing, both sides the Buddha's own: the vinaya money rule affirms renunciation (NP 18 summary and the Mv.VI.34.21 Mendaka allowance quote from Thanissaro's Buddhist Monastic Code I), the Sigalovada's four-parts advice denies it (DN 31, Narada verse). Carriers raw substring-verified in-session (cdn.britannica.com BMC mirror; accesstoinsight DN 31). right-livelihood now stands at THREE substantiated disputes (burnout-vs-engagement, work-for-life, monk-vs-householder property) — 3-5 bar met. Supervisor flip: registry status planned -> published; fcDossiersData spliced via registry rebuild. Deploy verification pending.
+
+## ADVISOR QC REVERSAL (assistant-supervisor-1025e, 2026-10-25, T+33)
+
+The advisor round DEMOTED the monk-vs-householder property pairing: the
+Vinaya rule and the Sigalovada advice are explicitly different obligations
+for different roles, not opposing answers for the same practitioner (and
+refusing money does not establish relinquishing all property). Demoted to
+role-dependent guidance; dos22 stands at TWO substantiated disputes (2 of
+3). PUBLICATION FLIP REVERSED: registry status published -> planned (the
+flip depended on this pairing). Manual fcDossiersData surgery applied per
+the no-removal-path precedent.
