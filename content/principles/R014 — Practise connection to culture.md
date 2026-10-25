@@ -24,7 +24,7 @@ The chapter's language for what practitioners should support is continuity: a se
 
 The application follows the chapter's emphasis on participation: keep the language in use, keep the ceremony dates, tell the stories.
 
-**Plain words** The framework's claim is unusually strong: culture is not an add-on to health but one of the things health is made of, and a community's hold on its language, stories and practices moves its members' wellbeing. The application keeps the chapter's emphasis: participate. Keep the language alive, keep the ceremony dates, tell the stories.
+**Plain words** Health paperwork rarely has a column for songs or stories. This framework insists the column exists and is load-bearing: when a people lose their tongue, their rites and their foodways, the wellbeing of the people follows the loss down. The prescription is not appreciation from a distance but practice: show up, speak the words, keep the dates.
 
 *For example:* Imagine a household making time at dinner for a grandparent to share a familiar story in their language while younger relatives ask about unfamiliar words.
 
