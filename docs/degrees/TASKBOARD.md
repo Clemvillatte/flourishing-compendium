@@ -64,6 +64,26 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 worker-pplx-psychdim-2 (deg-psychdim): deg-psychdim content-verification push COMPLETE,
+QC PENDING INDEPENDENT CONFIRMATION (advisor ran seven content-QC rounds; the last five rounds'
+corrections are applied and the final round found no further blocker in the inspected batches 24 to
+27 and the audit repairs — a limited content-QC result, not a blanket approval and not a gate
+clearance). Added since the last checkpoint: lecture 17 fully content-verified (batch 20; all eight
+chapters; stereotypes/IAT added as a PROPOSED interpersonal-elective row pending the scope decision;
+sleep/dreams/laughter verified but with no matrix outcome mapped, flagged for the strategist);
+lecture 13 fully verified (batch 21; intelligence and behavioral-genetics content verified but left
+unassigned pending scope review; the personality row keeps its personality segments only); lecture
+11 fully verified (batch 22; M2 affective row extended); lectures 7 and 1 fully verified (batch 24;
+M3 language row now cites chapters 1 to 3; lecture 1's M1-orientation assignment flagged since no
+matrix row cites it). The three talks: Barrett and Wood content-verified from published transcripts
+and mapped to their existing rows (batches 25 and 26); the Howard inaugural lecture remains a
+candidate — no transcript retrieved through the routes tried (batch 27; timedtext empty, innertube
+403 under three clients, browser transcript panel renders zero segments; no Oxford Podcasts listing)
+— flagged for the supervisor. Provenance standard upgraded mid-session to raw unprompted fetches
+(prompt omitted); earlier fetches re-verified accordingly. Seven lectures and two of three talks now
+fully content-verified. No coverage or pedagogical gate is cleared; the Phase 0 pilot stop-gate
+still blocks module production.
+
 - 2026-10-25 worker-pplx-1025-o (deg-verify-a): Block I-a INVENTORY AUDIT
   COMPLETE — every one of the 81 unattached md5-even records in the current
   catalog has an evidence entry (81/81: 73 matched by direct heading, 8 more
