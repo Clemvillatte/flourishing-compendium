@@ -7,17 +7,7 @@ file: "Karma yoga"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-K"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-The discipline of action taught in the Bhagavad Gita: act fully, give up attachment to what the act returns. The verse traditionally numbered 2.47 carries the core teaching ([Wikipedia, Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga)).
-
-> Find full reward
-> Of doing right in right! Let right deeds be
-> Thy motive, not the fruit which comes from them.
-
-(Bhagavad Gita, Chapter II, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
-
-Chapter III of Arnold's translation urges the reader to perform the allotted task and describes work as preferable to idleness. In this reading, giving up attachment to reward accompanies continuing to do the work.
-
-The discipline of action taught in the Bhagavad Gita: act fully, give up attachment to what the act returns. The verse traditionally numbered 2.47 carries the core teaching ([Wikipedia, Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga)).
+The discipline of action taught in the Bhagavad Gita: act fully, give up attachment to what the act returns ([Wikipedia, Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga)).
 
 > Find full reward
 > Of doing right in right! Let right deeds be
@@ -30,14 +20,20 @@ The discipline of action taught in the Bhagavad Gita: act fully, give up attachm
 
 (Bhagavad Gita, Chapter II, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
 
-The same chapter turns the counsel into a psychological claim: the person who follows virtue for what it pays is less firmly held than the person who has settled the motive in advance. Krishna calls that settled motive "pure devotion," and says it casts good deeds and bad aside equally — not by dismissing them, but by not resting on them. The Gita's teaching on action is therefore a teaching about where the attention sits while the work is happening.
+Arnold's Chapter II makes the reward of a right act something the act itself carries, and puts the reward a person wants somewhere else than the fruit that grows out of the act. The Gita's phrase for the growing-out part is "fruit." What the discipline asks of a person is not that the fruit be refused or refused to arrive; it is that the motive not be the fruit.
 
-Chapter III adds the everyday-facing half. Actionlessness is not available: nature's law compels a person into act, and the body's life proceeds only with work. The discipline is not to stop working but to hold the working and the reward as separate things. The passage Arnold renders as "Do thine allotted task! / Work is more excellent than idleness" carries that reading (Bhagavad Gita, Chapter III, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm)). In this reading, giving up attachment to reward accompanies continuing to do the work, and the two movements reinforce each other.
+> But he who, with strong body serving mind,
+> Gives up his mortal powers to worthy work,
+> Not seeking gain, Arjuna! such an one
+> Is honourable. Do thine allotted task!
+> Work is more excellent than idleness;
+> The body's life proceeds not, lacking work.
 
-The Gita's phrase for the attachment is "fruit" (phala) — what grows out of the act rather than what the act is. The discipline names this as a practice of attention rather than a renunciation of outcome, since the outcome arrives whether or not it is wanted. What is released is the claim on it.
+(Bhagavad Gita, Chapter III, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
+
+Chapter III adds the everyday-facing half. The counsel is to perform the allotted task, and it says plainly that work is more excellent than idleness. Giving up attachment to the reward accompanies continuing to do the work; the passage puts them in the same breath. In this reading, the discipline is not a renunciation of outcome but a settling of the motive while the work happens.
 
 ## Related concepts
-
 
 - [[Karma]] — the Gita's discipline names action itself, the topic karma covers
 - [[M031]] — the Gita's counsel to perform the allotted task prefers work to idleness, the same ordering this principle makes
@@ -47,8 +43,7 @@ The Gita's phrase for the attachment is "fruit" (phala) — what grows out of th
 - Wikipedia Karma yoga: https://en.wikipedia.org/wiki/Karma_yoga
 
 ## Cited in philosophy parallels
-
-“Karma yoga: action without attachment to fruit” — Bhagavad Gita.
+"Karma yoga: action without attachment to fruit" — Bhagavad Gita.
 - Bhagavad Gita
 [[Y129 — Serve with what you realize]]
 [[Y005 — Practice steadiness and let go of grip together]]
