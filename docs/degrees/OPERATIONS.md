@@ -116,3 +116,9 @@ one more advisor call.
   evidence with the mixed-effects record kept). Skill sections 3 and 5
   updated accordingly. Remaining open: practice-time summation (house
   convention), L1-L4 as house taxonomy open to gate challenge.
+- 2026-10-25 strategist-pplx-1025: ROUND 1 LAUNCHED (Path A, owner codes).
+  Four Degree Workers live, server-side: deg-wol-greek
+  (perplexity.ai/computer/tasks/6b0e341f), deg-psychdim
+  (/tasks/26842b37), deg-verify-a (/tasks/8d42fbc4), deg-integrate
+  (/tasks/baeddc4e). Full UUIDs in the QC archive; prompts identical to
+  LAUNCH-ROUND-1.md with the owner token supplied at launch only.
