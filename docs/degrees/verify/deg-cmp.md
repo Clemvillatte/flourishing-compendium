@@ -106,3 +106,20 @@ below; each fact is from a page opened this session.
   31:55 (Xing Yi Standing Pole, Deyin Taijiquan Institute) — the 5/8/12
   tiers cannot be served from the current 80-session gallery; new
   candidates are required, as above.
+
+### Gallery tier selection update (same session, later the same hour)
+
+12-minute tier upgrade: a standard-meeting candidate is now verified —
+Lee Holden, "Postures of Power | Activate Internal Energy and Improve
+Posture Naturally", Holden QiGong channel,
+https://www.youtube.com/watch?v=JhNLTwIQCt8 — watch page opened this
+session: duration 10:29, published 2023-04-28; the uploader description
+states the practice guides two foundational standing postures (Lower and
+Upper Embracing the Tree) with alignment, breathing and visualization,
+and names the practice Zhan Zhuang. Lee Holden is one of the gallery's
+ten verified guides (credential link holdenqigong.com/about, carried in
+the Academy QG1 file's "Who is guiding"). The 10:29 total serves the
+module's upper ladder rungs; count 10:29 (not 12:00) in workload
+arithmetic. The von Plitt 13:38 candidate above remains pending
+credentials and is superseded by this one for the top tier. The 8-minute
+tier gap stands as documented above.
