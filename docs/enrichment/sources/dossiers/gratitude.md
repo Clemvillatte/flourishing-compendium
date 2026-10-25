@@ -226,3 +226,11 @@ No defects found at reader level; no edits. Checker exit 0.
 Editorial review only; no external carriers freshly opened this
 pass (the quoted passages carry prior verification labels in this
 ledger).
+
+## Scope correction (2026-10-25, supervisor-pplx-1024c, after advisor review)
+
+The cold-read entry above is an EDITORIAL review: the manuscript
+was read in full at reader level, but the linked cards were NOT
+reopened in that pass, so "card-faithful" there means the glosses
+read as consistent with their cards as the page presents them —
+card fidelity was NOT rechecked this pass.

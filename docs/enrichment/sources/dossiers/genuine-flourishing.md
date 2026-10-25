@@ -1165,3 +1165,11 @@ carry the flagged patterns — they were edited in earlier sessions;
 the current rather-than lines are 19, 77, 89, 97, 121, 125, 137,
 171, 213, of which 171 and 213 were the two unchecked. All
 flagged lines on this page are now dispositioned.
+
+## Supervisor correction (2026-10-25, supervisor-pplx-1024c)
+
+One correction to the supervisor entry above: it describes L171 as
+"card-linked" — wrong; L171's links are EXTERNAL carriers (Gutenberg
+texts of Sidgwick's Methods of Ethics and Mill's Autobiography), not
+compendium cards, as the dos1 worker's close-out correctly notes.
+The KEEP disposition stands; only the link description is corrected.

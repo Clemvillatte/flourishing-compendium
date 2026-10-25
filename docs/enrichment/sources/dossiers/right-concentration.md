@@ -181,3 +181,24 @@ KEPT; the earlier "7" was a count taken before the inventory was
 finalized. The card-fidelity sweep note above remains a PREFIX
 check per the dos1 correction — full-text comparison of swept
 entries is still open and is flagged for the owner.
+
+## Supervisor correction to the reconciliation entry above (2026-10-25, supervisor-pplx-1024c)
+
+After advisor review, three corrections to the entry above: (a) the
+sentence "the earlier '7' was a count taken before the inventory was
+finalized" is an invented explanation and is WITHDRAWN — the
+discrepancy between the ledger's "7 kept" and the inventory's 9
+flagged lines is recorded here without an assigned cause; (b) L5 and
+L34 were first read only in truncated form; both have now been read
+in full — L5's ORIGINAL flag (negative-then-redefinition,
+"Collectedness is not clamping the mind down") was already recast in
+an earlier session, so the accurate disposition record is: L5's
+original candidate was RECAST earlier (not kept); the rather-than
+pattern remaining in the current L5 (tuned/forced) and L34 (neither
+taut nor slack) were reviewed now and kept as the Sona Sutta's own
+content; (c) the entries for L100 ("engineered rather than awaited")
+and L168 (not the most pleasant but the most absorbed) were kept on
+editorial review — the claim that these are the sources' own
+contrasts was NOT verified against the cards this pass and should
+not be treated as a source check. The full-text card-fidelity
+comparison for swept entries remains open as flagged.
