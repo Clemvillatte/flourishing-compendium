@@ -20413,6 +20413,10 @@ function renderDossiers(){
   return wrap;
 }
 
+/* Per-render controller for the dossier TOC fade listeners (scroll on the
+   real page scroller .acad-inner + window resize). Aborted and replaced on
+   each render so listeners never accumulate across view changes. */
+let tocFadeCtl = null;
 function renderDossierDetail(id){
   const d = (window.fcDossiersData.dossiers||[]).find(x=>x.id===id);
   if(!d) return el('div','acad-empty','Dossier not found');
@@ -20438,6 +20442,7 @@ function renderDossierDetail(id){
   const tocList = el('div','dossier-toc-list');
   toc.appendChild(tocList);
   const syncTocFade = () => {
+    if(!toc.isConnected) return; /* inert once the view moves on */
     /* Mobile layout shows the TOC as a fully expanded wrap (no internal
        scrolling, no fade) — the height cap must not clip it. */
     if(window.matchMedia('(max-width: 900px)').matches){
@@ -20457,9 +20462,13 @@ function renderDossierDetail(id){
     toc.classList.toggle('at-end', over && (tocList.scrollTop + tocList.clientHeight >= tocList.scrollHeight - 4));
   };
   tocList.addEventListener('scroll', syncTocFade, { passive:true });
-  const onWinScroll = () => { if(toc.isConnected) syncTocFade(); };
-  window.addEventListener('scroll', onWinScroll, { passive:true });
-  window.addEventListener('resize', onWinScroll, { passive:true });
+  if(tocFadeCtl) tocFadeCtl.abort();
+  tocFadeCtl = new AbortController();
+  /* The page scrolls inside .acad-inner (not the window), so the fade must
+     track that element's scroll for the sticky pin to keep the fit current. */
+  const scroller = document.querySelector('.acad-inner');
+  if(scroller) scroller.addEventListener('scroll', syncTocFade, { passive:true, signal: tocFadeCtl.signal });
+  window.addEventListener('resize', syncTocFade, { passive:true, signal: tocFadeCtl.signal });
   let tn = 0;
   (d.blocks||[]).forEach(b=>{
     if(b.t==='h'||b.t==='h2'){
@@ -20501,7 +20510,9 @@ function renderDossierDetail(id){
       body.appendChild(holder);
     }
   });
-  if(tocList.childElementCount > 1){ layout.appendChild(body); layout.appendChild(toc); wrap.appendChild(layout); }
+  /* The list holds only links now, so any dossier with at least one header
+     keeps its TOC (the old >1 check counted the title element too). */
+  if(tocList.childElementCount > 0){ layout.appendChild(body); layout.appendChild(toc); wrap.appendChild(layout); }
   else { wrap.appendChild(body); }
   /* The fade classes need the layout measured, which only works once the
      returned element is attached by the caller — hence the rAF (the caller

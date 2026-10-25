@@ -1943,7 +1943,7 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-toc-item:hover { color:var(--gold-ink); border-left-color:color-mix(in srgb, var(--gold) 45%, transparent); }
 .dossier-vs { border:1px solid color-mix(in srgb, var(--gold) 35%, transparent); border-radius:10px; padding:14px 16px; margin:0 0 16px; background:color-mix(in srgb, var(--gold) 6%, var(--bg)); }
 .dossier-vs-label { display:block; font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold-ink); margin-bottom:6px; }
-@media (max-width: 900px){ .dossier-layout { flex-direction:column; } .dossier-toc { position:static; flex:auto; max-height:none; display:flex; flex-wrap:wrap; gap:4px 14px; } .dossier-toc::after { display:none; } .dossier-toc-list { overflow:visible; flex:none; display:contents; } }
+@media (max-width: 900px){ .dossier-layout { flex-direction:column; } .dossier-toc { position:static; flex:auto; max-height:none; display:flex; flex-direction:row; flex-wrap:wrap; gap:4px 14px; } .dossier-toc::after { display:none; } .dossier-toc-list { overflow:visible; flex:none; display:contents; } }
 
 
 /* ═════════════════ RANDOMISER — calm layout, side rails, gold frame ═════════════════
