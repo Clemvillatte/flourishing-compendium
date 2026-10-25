@@ -310,3 +310,45 @@ Checks: dossier_check.py exit 0 (45 card links, 20 headers, 13 external
 carriers); dossier_density.py 0 dense; dossier_voice_audit.py clean;
 banned-word grep clean. Registry status left "planned" for the
 supervisor to flip and publish.
+
+## Advisor-QC correction pass (2026-10-25, worker-pplx-dos27-1025h, dos27 baton)
+
+Advisor QC flagged source-integrity issues on the first draft; all
+fixed in this pass and re-verified:
+
+- Courage-cluster glosses were rebuilt against the cards (glosses in the
+  first draft had drifted from the map lines, which themselves no longer
+  match the cards): "Courage built gradually" is NE II.1 habituation,
+  not NE III.9; "The courage to act against impulse" is Kant's
+  Groundwork, not NE III.8; "Moral courage research" is Hannah, Avolio
+  and Walumbwa 2011 (definition + military field study), not Rand
+  bystander experiments; "Authentic courage without props" is Aristotle
+  NE III (Chase), not Nietzsche GS 139. The "coward's bravery"/Tutu
+  gloss on "Courage — action despite fear" had no card support and was
+  removed; that card is Aristotle NE III (facing pain because it is
+  noble).
+- Disagreement section rebuilt per the same-question test: Q3 now
+  1 John 4:18 vs Aristotle's action-despite-fear (objects difference
+  marked, first-person lean stated); Q4 rebuilt as Wolpe's bond-
+  weakening principle vs Craske's intact-association finding (both
+  held cards, same question). Unsupported "gods have no conditioning
+  history" sentence deleted; "research side supports the rehearsal
+  reading" reworded to "complicates the argument's completion".
+- Carriers opened and verified by eye this session: PMC9894592 (Iverach
+  quote confirmed verbatim, cited there as ref 9); PMC4114726 (both
+  Craske sentences confirmed verbatim); Wikisource Seneca Letter 18
+  ("Is this the condition that I feared?" verbatim); Wikisource
+  Marcus Aurelius Book II.11 Long translation ("Since it is possible
+  that thou mayest depart from life this very moment, regulate every
+  act and thought accordingly" verbatim, after footnote-marker
+  stripping). Aristotle NE II.1, NE III and Kant Groundwork quotes
+  pass the automatic verifier (MIT Classics, Gutenberg).
+- Em dashes in prose: retained where the owner-validated exemplars
+  (genuine-flourishing.md, wisdom.md) use them; the checker's
+  Story-logline rule is honored.
+
+Checks re-run: dossier_check.py exit 0 (46 card links, 20 headers, 16
+external carriers); density 0; voice audit clean; dossier_quote_verify
+12 checked, 3 NOT FOUND (the known blocked PubMed/PMC fetches, all
+confirmed by eye above). Registry status left "planned" for the
+supervisor.
