@@ -28,22 +28,23 @@ story cards were read in full, not from prefixes.
 ## Quotations (all raw-verified)
 
 1. Frankl, three routes to meaning.
-   Carrier: antilogicalism.com PDF of Man's Search for Meaning, raw
-   download + pdftotext. VERBATIM. Note: the E062 card prints "discover this
+   Carrier: https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf
+   (raw download + pdftotext; local file /tmp/frankl.pdf). VERBATIM. Note: the E062 card prints "discover this
    meaning of life"; the opened carrier reads "discover this meaning in
    life". The dossier follows the opened carrier.
 
 2. Conner, DeYoung and Silvia 2018, abstract sentences.
-   Carrier: the Taylor and Francis DOI landing page, raw HTML (the abstract
-   appears in the page's own JSON-LD metadata; raw curl is bot-blocked, the
-   fetch tool's raw-HTML return was used, no LLM extraction). VERBATIM,
+   Carrier: https://doi.org/10.1080/17439760.2016.1257049
+   (raw HTML; the abstract appears in the page's own JSON-LD metadata; raw
+   curl is bot-blocked, the fetch tool's raw-HTML return was used, no LLM
+   extraction). VERBATIM,
    including the carrier's en dashes. n = 658 and the 13-day design are on
    the same opened abstract. The dossier's prose around it states the
    lagged-association, non-causal nature of the finding.
 
 3. Whitehead, Process and Reality, creativity as universal of universals.
-   Carrier: the Garland Encyclopedia of Whiteheadian Thought thematic
-   entry, raw HTML, tags stripped. VERBATIM: "'Creativity' is the universal
+   Carrier: https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/
+   (raw HTML, tags stripped). VERBATIM: "'Creativity' is the universal
    of universals characterizing ultimate matter of fact. It is that
    ultimate principle by which the many, which are the universe
    disjunctively, become the one actual occasion, which is the universe
@@ -56,19 +57,23 @@ story cards were read in full, not from prefixes.
    card's shorter form omitted "thereby".
 
 4. Bergson, Creative Evolution ch. 1, "we are, to a certain extent, what we do".
-   Carrier: raw download of the Project Gutenberg text (pg26163.txt),
-   grep-verified, CRLF-normalized. VERBATIM (raw lines 595-597). The
+   Carrier: https://www.gutenberg.org/files/26163/26163-h/26163-h.htm
+   (dossier link) and the raw text
+   https://www.gutenberg.org/cache/epub/26163/pg26163.txt (grep-verified,
+   CRLF-normalized; local file /tmp/bergson_ce.txt). VERBATIM (raw lines 595-597). The
    "for a conscious being, to exist is to change" fragment on Creative
    selection was grep-verified against the same raw file (line 611).
 
 5. Bergson, "Life and Consciousness", joy passages.
-   Carrier: the anthologialitt.com reprint, raw HTML, tags stripped.
+   Carrier: https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness
+   (raw HTML, tags stripped).
    VERBATIM: both quoted passages, including the mother-beholding-her-child
    sentence.
 
 6. Arendt, The Human Condition, homo faber.
-   Carrier: the kortina.nyc excerpt page, RAW HTML (tags stripped,
-   whitespace normalized). VERBATIM. QC NOTE: the first, prompted fetch of
+   Carrier: https://kortina.nyc/notes/the-human-condition/
+   (RAW HTML, tags stripped, whitespace normalized; local file
+   /tmp/arendt.html). VERBATIM. QC NOTE: the first, prompted fetch of
    this page returned a RECONSTRUCTED passage ("not, strictly speaking, in
    order to help the life process. He is also the one who assists the
    process of nature...") that does NOT appear on the raw page; caught by
@@ -76,13 +81,14 @@ story cards were read in full, not from prefixes.
    (p. 139) comes from a carrier not opened this session and is not used.
 
 7. Sennett 2008, craftsman definition, as quoted in Jones et al. 2021.
-   Carrier: the Jones et al. open-access article, raw HTML (raw curl is
-   bot-blocked; the fetch tool's raw-HTML return was used, no LLM
-   extraction). VERBATIM (first sentence only, per the advisor round; the
+   Carrier: https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1939289
+   (raw HTML; raw curl is bot-blocked, the fetch tool's raw-HTML return
+   was used, no LLM extraction). VERBATIM (first sentence only, per the advisor round; the
    quoting article's "practices" typo sits in the unquoted remainder).
 
 8. Rubinstein et al. 2015, generativity facets.
-   Carrier: PMC4542587, raw HTML, tags stripped. VERBATIM, the complete
+   Carrier: https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/
+   (raw HTML, tags stripped). VERBATIM, the complete
    sentence with the carrier's own parenthetical references: "McAdams and
    de St. Aubin's approach described generativity as an arrangement of
    seven empirically grounded facets including desire, cultural demand,
@@ -97,8 +103,10 @@ story cards were read in full, not from prefixes.
    parentheticals; both corrected in rev 4 per the advisor round 3.
 
 9. Nietzsche, Thus Spake Zarathustra, Common translation.
-   Carrier: raw download of the Project Gutenberg text (pg1998.txt),
-   grep-verified. VERBATIM: the Value creation sentence (raw line 2830, em
+   Carrier: https://www.gutenberg.org/files/1998/1998-h/1998-h.htm
+   (dossier link) and the raw text
+   https://www.gutenberg.org/cache/epub/1998/pg1998.txt (grep-verified;
+   local file /tmp/zarathustra.txt). VERBATIM: the Value creation sentence (raw line 2830, em
    dash as printed) and "Innocence is the child, and forgetfulness, a new
    beginning, a game, a self-rolling wheel, a first movement, a holy Yea."
    (raw lines 1422-1423). The "chaos in one, to give birth to a dancing
@@ -124,13 +132,12 @@ story cards were read in full, not from prefixes.
   kernels, principles and stories, full reads of the selected cards, plus
   full-text sweeps for homo faber and procreation. 48 card links, all
   resolving.
-- The comparison section ("Where the meaning of making lands") is a bounded
-  comparison with an open ranking question, NOT a developed genuine
-  divergence. The GENUINE-DIVERGENCE REQUIREMENT is flagged as PENDING
-  supervisor disposition in the state file; no pair of opened carriers was
-  found that answers one concrete question with opposed positions, and the
-  advisor ruled that promoting Arendt-vs-Whitehead on verified quotes alone
-  would risk juxtaposing positions that answer different questions.
+- The dossier now carries one developed divergence ("Is the meaning of
+  making discovered or created?", Frankl vs Nietzsche, both passages
+  raw-verified) plus one bounded comparison with an open ranking question
+  ("Where the meaning of making lands"). The Arendt-vs-Whitehead candidate
+  was NOT promoted, per the advisor's ruling that verified quotes alone
+  cannot put them on one question.
 - Practice: VSR structure per the owner's model; Selection holds the three
   actual kernels (K324, K225, K224), each with its evidence limits stated
   (K324 task-specific findings; K225 cadence and test are the practice's
@@ -181,6 +188,37 @@ positive affect introduced; "That question is left open here..." removed;
 Micro-moments of connection added; parenting-cluster and Conjunctive
 relations exclusions documented above; this ledger rewritten so no stale
 present-tense certification contradicts the current state.
+
+## Advisor QC round 4 — repairs applied in rev 5
+
+1. The genuine divergence is now developed per the advisor's acceptance
+   test: one concrete question (is the meaning of making there to be found,
+   or does the maker put it there?), two opened passages answering it in
+   opposite directions (Frankl's "we can discover this meaning in life" vs
+   Nietzsche's "Values did man only assign to things... he created only
+   the significance of things" and "Valuing is creating"), the claim each
+   accepts and rejects stated, and what remains unresolved (whether both
+   can hold of different parts of one act of making). The Frankl quote is
+   not duplicated: the divergence uses the opening fragment and points at
+   the same carrier.
+2. Connections between ideas: Conceptual metaphor theory (Lakoff and
+   Johnson), Insight research (Kounios and Beeman) and The interconnected
+   good (Marcus Aurelius's sympatheia, as the discovered-connection
+   boundary of the made-connection cluster) added to the map after title
+   and full-text sweeps. Excluded with reasons: Right association (DN 31
+   is about choosing companions, not making links), Connectedness in
+   well-being research (the felt sense of connection rather than its
+   making), Connectionism (neural-network architecture).
+3. The "Making as a route to meaning" subtheme reworked into connected
+   short paragraphs (Frankl -> will to meaning -> clinical descendant ->
+   the diary study's different, empirical question -> boundary markers),
+   preserving all card links.
+4. Conner prose simplified per the advisor's wording (lagged association,
+   reverse not supported, observational design does not establish
+   causation); "positive affect (PA)" introduced before the quotation.
+5. Ledger URLs restored: every carrier entry now carries its full URL,
+   including the raw-text endpoints used for grep verification where they
+   differ from the public citation link.
 
 ## Open points for any revision pass
 

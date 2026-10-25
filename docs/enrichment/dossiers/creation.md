@@ -17,23 +17,17 @@ The family around creation overlaps easily, so I keep apart what can be kept apa
 
 ### Making as a route to meaning
 
-[Creative values](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20values): Frankl's first of the three routes to meaning, what a person gives to the world through a work or a deed.
+Frankl's logotherapy puts creating a work or doing a deed first among the three routes to meaning:
 
 > "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
-[E062 — Practise meaning through creative work](https://clemvillatte.github.io/flourishing-compendium/#card=E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work): work as an ongoing contribution to others, with what calling research says about how people get drawn into it.
+The will to meaning behind that route is his primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium. [Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy) is the account's clinical descendant, Breitbart's short-term treatment for people with advanced cancer, and [E062 — Practise meaning through creative work](https://clemvillatte.github.io/flourishing-compendium/#card=E062%20%E2%80%94%20Practise%20meaning%20through%20creative%20work) carries the route into work as an ongoing contribution to others, with what calling research says about how people get drawn into it.
 
-[The will to meaning](https://clemvillatte.github.io/flourishing-compendium/#card=The%20will%20to%20meaning): Frankl's primary motivational force, built against Freud's pleasure principle and Adler's striving for superiority: the striving to find meaning, not to restore equilibrium.
-
-[Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy): the clinical descendant of that account, Breitbart's short-term treatment for people with advanced cancer, rooted in Frankl's writings.
-
-[Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities): the diary study asks a different question, an empirical one. Conner, DeYoung and Silvia's 13-day diary study of 658 young adults asked how reported creative activity related to the following day's positive affect and flourishing, and the abstract words the association carefully:
+The diary study asks a different question, an empirical one. [Everyday creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Everyday%20creative%20activities) and [Creative activities](https://clemvillatte.github.io/flourishing-compendium/#card=Creative%20activities) report Conner, DeYoung and Silvia's 13-day diary study of 658 young adults, which asked how reported creative activity related to the following day's positive affect (PA) and flourishing, and the abstract words the association carefully:
 
 > "Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual. The other direction – PA predicting next-day creative activity – was not supported, suggesting that the cross-day effect was specific to creative activity predicting well-being." ([Conner, DeYoung and Silvia 2018, abstract](https://doi.org/10.1080/17439760.2016.1257049))
 
-[BE059 — Engage in creative behaviour — making is well-being](https://clemvillatte.github.io/flourishing-compendium/#card=BE059%20%E2%80%94%20Engage%20in%20creative%20behaviour%20%E2%80%94%20making%20is%20well-being): the diary finding carried into practice, with the study's own limits stated on it.
-
-[Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making) and [Narrative as meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20as%20meaning-making): the boundary markers. Park's process tradition revises the meaning of events; Ricoeur's narrative work composes a life out of them.
+[BE059 — Engage in creative behaviour — making is well-being](https://clemvillatte.github.io/flourishing-compendium/#card=BE059%20%E2%80%94%20Engage%20in%20creative%20behaviour%20%E2%80%94%20making%20is%20well-being) carries the finding into practice, with the study's own limits stated on it. [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making) and [Narrative as meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20as%20meaning-making) mark the boundary: Park's process tradition revises the meaning of events, and Ricoeur's narrative work composes a life out of them, where Frankl's route is about giving something to the world.
 
 ### Life itself as creation
 
@@ -72,6 +66,12 @@ The family around creation overlaps easily, so I keep apart what can be kept apa
 [The pontifex, bridge-maker](https://clemvillatte.github.io/flourishing-compendium/#card=The%20pontifex%2C%20bridge-maker): the Roman high priest's title, pons plus facere, the one who makes the bridge between the community and the gods. The word holds a whole sociology of mediation: connection as something built, and the person who builds it, with a social status to go with it, even though ancient scholars contested the etymology from the start.
 
 [Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): connection as something made between people, on Fredrickson's account of positivity resonance: shared positive emotions, biobehavioral synchrony and mutual care, swelling and subsiding in moments.
+
+[Conceptual metaphor theory Lakoff Johnson](https://clemvillatte.github.io/flourishing-compendium/#card=Conceptual%20metaphor%20theory%20Lakoff%20Johnson): connection between ideas made visible. On Lakoff and Johnson's proposal, metaphor is not a decoration of language but the skeleton of thought, love spoken of in terms of travel, time in terms of space, importance in terms of weight.
+
+[Insight research](https://clemvillatte.github.io/flourishing-compendium/#card=Insight%20research): the moment a link between ideas lands. Kounios and Beeman's review defines insight as a sudden reinterpretation that produces a nonobvious, nondominant reading of a stimulus, situation or event.
+
+[The interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good): the Stoic boundary to the cluster. Marcus Aurelius's sympatheia holds that all things are implicated with one another and the bond is holy, a connection the world already has rather than one a person makes.
 
 [Value creation](https://clemvillatte.github.io/flourishing-compendium/#card=Value%20creation): Nietzsche's account of valuing as creating, in the Common translation:
 
@@ -117,6 +117,20 @@ Sennett extends the impulse well past skilled manual labour, to programming, med
 
 [P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively): Prigogine's non-equilibrium as a source of order rather than decay, with unstable periods of a life as the raw material for reorganization.
 
+## Is the meaning of making discovered or created?
+
+One question the sources answer in opposite ways: when a maker finds meaning in the making, is the meaning there to be found, or does the maker put it there?
+
+Frankl's logotherapy says discovered. The three routes are routes to a meaning that holds whether or not anyone finds it: "we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed" ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)).
+
+Nietzsche says created. The significance of things is human, assigned, and nothing carries it until a valuer assigns it:
+
+> "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance!" ([Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals"](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
+
+> "Valuing is creating: hear it, ye creating ones!" ([Nietzsche, Thus Spake Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
+
+The clash is real at the level each claim makes. Frankl's discovery presupposes a meaning that precedes the maker; Nietzsche's creation rejects any significance that was not assigned. What the two sources leave unresolved is whether both can hold of different parts of one act of making, the usefulness of a made thing being there to be found while its worth is conferred, or whether one account must give way.
+
 ## Where the meaning of making lands
 
 When a person makes something, where does the meaning land?
@@ -129,7 +143,7 @@ On the maker: Bergson's joy passage:
 
 > "wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally." ([Bergson, "Life and Consciousness"](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness))
 
-The diary study reports a lagged association rather than a cause: days with more creative activity than usual were followed by higher activated positive affect and flourishing, the reverse direction was not supported, and an observational diary design cannot establish what an experiment would. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
+The diary study found a lagged association: days with more reported creative activity than usual were followed by higher activated positive affect and flourishing. The reverse association was not supported. The observational design does not establish causation. And on Bergson's account the making changes the maker: "we are, to a certain extent, what we do, and that we are creating ourselves continually."
 
 On the work itself: Sennett's craftsman wants to do a job well for its own sake, with objective standards, on the thing itself. Zhuangzi's bell-stand maker loses thought of reward and praise before he touches the tree. Arendt's homo faber erects a world and asks whether the machines still serve it.
 
