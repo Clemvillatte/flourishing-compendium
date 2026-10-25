@@ -24,7 +24,7 @@ The disadvantage of attachment he quotes from his own gloss on 2.15: "Since pass
 
 The "appointment for attention" phrasing and the subtraction test are the principle's modern reading of the upkeep point. What the commentary supplies is narrower and firmer: the rule operates at acquisition, refusing to appropriate things whose keeping is evidently a disadvantage, however honestly they came your way.
 
-**Plain words** Every thing you keep goes on taking after the purchase: room to store it, attention to mind it, work to move it. The commentary sets the rule at the moment of taking, not afterward: if the keeping is evidently a disadvantage, do not appropriate the thing. The subtraction test is one way to run that check early, by naming what leaves when the new thing arrives.
+**Plain words** Ownership has a running bill: space to put the thing, effort to mind it, legs to move it. The old rule is set at the door, not at the cleanup: when taking something in is plainly going to cost more in upkeep than it gives, you decline it, even if it comes honestly. A quick way to run the check before you buy is to name what will leave the house when the new thing enters; if nothing will, you have your answer.
 
 *For example:* a fourth jacket bought on sale spends three years moving between closets and being rehung each season. Before buying it, the test would have asked which of the four leaves when it arrives. None was going to, and that was the answer.
 
