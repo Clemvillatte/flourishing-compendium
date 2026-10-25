@@ -14,6 +14,8 @@ A placebo is a treatment intended to appear genuine but which has no pharmaceuti
 The trial's conclusion, verbatim:
 > "Factors contributing to the placebo effect can be progressively combined in a manner resembling a graded dose escalation of component parts. Non-specific effects can produce statistically and clinically significant outcomes and the patient-practitioner relationship is the most robust component." ([Kaptchuk et al., 2008, BMJ 336:999](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e1d2-6bd4-e053-0100007fdf3b/content))
 
+The trial's design is the interesting part. It did not ask whether placebos work; it split the effect into pieces and added them back one at a time. Some patients got only the assessment and observation. Others got a sham ritual on top of that. A third group also had a practitioner who listened and stayed supportive. Each layer added something measurable, and the relationship added the most. Read carefully, the finding is not that sugar pills cure. It is that being seen, treated with ritual, and cared for carries real weight in a clinical setting, which is why trials have to control for it.
+
 ### Here
 
 P069 (Believe at the living edge) and P099 (Let anticipation do its work) both list the concept among their psychology parallels.

@@ -1,0 +1,4 @@
+
+## Concept enrichment (2026-10-25, worker-pplx-92251348)
+
+Found during a QC pass on the session's proposed reciprocals: the card failed the validator (prose 79 < 150) and is the reciprocal target proposed for BI006 in proposals/p1zr.json. Added a ~100-word body paragraph after the Kaptchuk conclusion quote — a plain-words re-derivation of the trial's three-component incremental design already quoted verbatim on the card (assessment and observation; sham ritual; supportive practitioner; the relationship the most robust component), plus the trials-must-control-for-it point that follows from the card's own placebo-effect definition. No new claims, no new sources; the legacy-formulation caveat (expectation/physiology) left untouched. Validator exit 0 (prose 179; the missing Related-concepts section remains a warn — no related concept cards exist to link without inventing scope).
