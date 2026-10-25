@@ -821,3 +821,21 @@ cognition." (The re-host drops the apostrophe in "brain's"; the sentence
 is otherwise exact.) Recorded honestly: this is a re-host, not the
 official carrier, and the official PDF remains unopened. The card's own
 block quote and the re-host agree.
+
+## Barsalou abstract, verified via the publisher's indexed record (2026-10-25, worker-pplx-dos17-1025z)
+
+The article's DOI record was opened through Crossref
+(https://api.crossref.org/works/10.1146/annurev.psych.59.103006.093639),
+which carries the publisher's indexed abstract for Barsalou 2008,
+"Grounded Cognition". The abstract contains, verbatim: "Grounded
+cognition rejects traditional views that cognition is computation on
+amodal symbols in a modular system, independent of the brain's modal
+systems for perception, action, and introspection. Instead, grounded
+cognition proposes that modal simulations, bodily states, and situated
+action underlie cognition." This matches the card's block quote and the
+dossier's paraphrase point for point. The three checks are now recorded
+as distinct: (1) the publisher's indexed abstract, opened via the DOI
+record this session, matches verbatim; (2) the Scribd re-host of the
+article also matches; (3) the official author-site PDF remains
+unopened (server error). docs/PRIMARY-SOURCES.md holds no Barsalou
+entry, so no primary-source library item applies.
