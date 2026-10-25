@@ -167,3 +167,63 @@ was read in full at reader level, but the linked cards were NOT
 reopened in that pass, so "card-faithful" there means the glosses
 read as consistent with their cards as the page presents them —
 card fidelity was NOT rechecked this pass.
+
+## GF-model rewrite completed (2026-10-25, worker-pplx-dos30-1025i, baton dos30 held for lane 4)
+
+The numbered-map structure was converted to the GF model: question blockquote,
+first-person openings, Nearby terms, main body (the flight / the exercise / the
+political edges), disagreements, practice, story. All five external carriers
+were OPENED AND RE-VERIFIED this session before any quote was kept:
+
+1. Fromm panarchy excerpt — automaton conformity passage and the "overwhelmed
+   by anxiety, doubt, and a feeling of powerlessness" process language
+   confirmed verbatim; both are quoted in the body.
+2. SEP Sartre (Reynolds & Renaudie) — "No factual state, whatever it may be,
+   can cause consciousness to respond to it in any one way" confirmed
+   verbatim; quoted in the body.
+3. Rousseau, Gutenberg 46333 — both Book I quotes re-verified. PRECISION
+   NOTE: the ch. 8 sentence in the source begins "for the mere impulse of
+   appetite"; the old file's bracketed "[T]he mere impulse" form fails
+   verbatim verification, so the body now quotes the sentence exactly as the
+   source has it, lowercase "for" included.
+4. Beauvoir, marxists.org — "To will oneself free is also to will others
+   free. This will is not an abstract formula." confirmed verbatim.
+5. Diogenes, Philoscopia — "Ask of me any boon you like." / "Stand out of
+   my sunlight." confirmed verbatim.
+
+## Disagreement section evidence
+
+ONE substantiated opposition: Fromm vs Sartre on the causal status of the
+escape from freedom. Fromm describes the escape as a process that overcomes
+the individual ("it is overwhelmed by anxiety, doubt, and a feeling of
+powerlessness"; the person "need not feel alone and anxious any more"),
+language of undergoing; Sartre (via SEP) denies that any factual state can
+cause consciousness to respond in any one way, so the flight is still a
+choice with no excuses. Both quotes verified against opened carriers this
+session. The situated-freedom material was considered as a second candidate
+and REJECTED as a manufactured disagreement: the card presents it as the
+account's own correction, not a rival, and the body keeps that framing.
+SUPERVISOR EXCEPTION REQUESTED for the 3-5 count, same as suffering and
+acceptance; the manufacture of compatible clarifications as oppositions was
+rejected on review in the suffering session and that standard is applied here.
+
+## Checks and diffs
+
+- dossier_check.py exit 0 (16 card links resolve, 8 headers, 8 external
+  carriers); density 0; quote_verify 10 checked / 0 not found.
+- Card-target diff vs the previous version: none dropped. Five Nearby-term
+  links added (Positive freedom, The dizziness of freedom, Second-order
+  desires, Autonomy, Bad faith), all resolving per the checker; the old file
+  carried these as plain text without links.
+- The old "Related questions and parallels" editorial answers were folded
+  into the openings and body or dropped; the freedom-from/freedom-to pairing
+  note (Berlin belongs to Agency) is now carried by the Nearby terms and the
+  boundary paragraph. The Kierkegaardian exclusion is stated in the openings
+  as before.
+- K315 protocol kept as the single exercise; Frankl's "last of the human
+  freedoms" remains paraphrased in Retention (scispace carrier still
+  unopened; the K315 card carries the full quote, and the suffering
+  session's opened Frankl excerpt is the same passage, but the paraphrase
+  stands as the honest form).
+- Registry: freedom is NOT in the registry (mint flag stands); supervisor
+  adds the entry and flips. Flagged in the commit message.
