@@ -73,3 +73,10 @@ hereby state" quote lives on the sibling post (problem-solved-probably), which
 needs its own evidence entry/URL. Routed to the s1c holder (the child) and the
 supervisor; the child's verification rounds otherwise hold up under independent
 sampling.
+
+## Final verification pass (2026-10-25 13:57 UTC)
+story_check --context draft re-run on all 20 touched/child drafts (my 14 + the
+six s1e items) with exit statuses and full output inspected: every file exits 0
+with "ok" and "0 errors". Baton states verified on origin: s1d released=True
+(13:42:07); s1a taken over by the child at 13:56:36 (my release effective); s1b
+held by me for release on the final save; s1c/s1e held by the child (fresh).
