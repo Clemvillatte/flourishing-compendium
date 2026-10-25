@@ -582,11 +582,17 @@ verified elsewhere and are not re-treated.
 labelled imported and are treated below: M06-AF01, M06-AF03, M06-AF09, M06-AF04,
 M06-AF05, M06-AF06, M06-CO04, M06-CO05, M06-CO02, M06-AT01, M06-AT02, M06-AT06,
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008, SRC-M07-019.
-Verified 2026-10-25: all 18. Flags for the degree owner: M06-AF04/AF05/CO02 carry
-no uploader description (content basis is the title only); SRC-M07-005's catalog
-title does not match the live video title; M06-AT06 duplicates the verified
-SRC-M28-002 record; SRC-M07-001's page prints chapter times but no total duration;
-SRC-M07-019 has free and paid access paths (see the access note).
+Verified 2026-10-25: all 18. Coverage-basis note for owners (as the Block I
+sections): verified-video here means identity, access, duration and language
+are verified; each content-coverage claim records its basis per entry, and
+coverage that rests on an uploader or host description should be confirmed
+against the recording or transcript before the record is scheduled into a
+module. Flags for the degree owner: M06-AF04/AF05/CO02 carry no uploader
+description (content basis is the title only); SRC-M07-005's catalog title
+does not match the live video title; M06-AT06 is the same URL as SRC-M28-002
+(catalog-duration conflict noted in its entry); SRC-M07-001's page prints
+chapter times but no total duration; SRC-M07-019 has free and paid access
+paths (see the access note).
 
 ### M06-AF01: 11. Evolution, Emotion, and Reason: Emotions, Part I (Paul Bloom, Yale)
 
@@ -794,14 +800,28 @@ SRC-M07-019 has free and paid access paths (see the access note).
 
 ### M06-AT06: Spring 2025 Quinn Memorial Lecture with Dr. Anna C. Nobre
 
-- Identity and access: duplicate URL of the already-verified SRC-M28-002
-  (https://www.youtube.com/watch?v=pQYMr-qisQY, UBC Psychology channel); that
-  record's verification (duration 0:55:55, watch page) was completed by the
-  earlier session and is on file in this ecosystem.
+- Identity and access: oembed and the watch page confirm the lecture on the
+  UBC Psychology channel (https://www.youtube.com/watch?v=pQYMr-qisQY); watch
+  page opened 2026-10-25. Quinn Memorial Lecture, UBC Department of
+  Psychology, 12 May 2025.
+- Duration: 1:26:25 (watch page, 2026-10-25). CATALOG-DURATION CONFLICT FLAG:
+  the catalog record prints 0:55:55 for this URL; the watch page prints
+  1:26:25. The owner should re-read the player before workload arithmetic.
+- Instructor credentials: Anna C. Nobre, Professor of Psychology and
+  Director of the Center for Neurocognition and Behavior at Yale
+  University's Wu Tsai Institute (per the uploader description; an
+  institutional page was not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "Focusing
+  attention on sensory x memory contents to guide behavior" — the annual
+  Quinn Memorial Lecture on innovative psychology research.
+- Relevant segment: whole lecture, 1:26:25.
+- Verification status: verified-video (2026-10-25), with the catalog-duration
+  conflict and the duplicate-record flag below.
 - Flag for the owner: this M06-AT06 catalog record and SRC-M28-002 are the
-  same resource; one of the two catalog entries should be retired or cross-
-  referenced at integration time.
-- Verification status: verified-video (duplicate of SRC-M28-002).
+  same URL; one of the two catalog entries should be retired or
+  cross-referenced at integration time. No earlier evidence file for
+  SRC-M28-002 was locatable in docs/degrees/verify/ this session.
 
 ### SRC-M07-001: PSYC 110 — Lecture 16: A Person in the World of People: Self and Other, Part I
 
@@ -934,9 +954,16 @@ SRC-M07-019 has free and paid access paths (see the access note).
 
 ## Credential note (one page still pending)
 
-All Block D speaker credentials are now verified on opened pages except
+All Block D speaker credentials are verified on opened pages except
 Joseph LeDoux (M06-AF06): the NYU faculty pages and Wikipedia were blocked
 from this session's fetcher (robots/rate limits), so his affiliation (New
 York University) still rests on the recording's own description. The next
 verifier or the owner should open an NYU or equivalent institutional page
-for him. Every other credential line above cites an opened page.
+for him. Every other credential line above cites a page opened this
+session (2026-10-25): Bloom psychology.yale.edu; Fredrickson
+psychology.unc.edu/core-faculty; Damasio dornsife.usc.edu; Jha
+people.miami.edu; Barrett nubic.northeastern.edu; Swan eureka.edu; Posner
+cas.uoregon.edu; Moffitt psychiatry.duke.edu; Baumeister psychology.uq.edu.au;
+Deci and Ryan selfdeterminationtheory.org; Kahneman nobelprize.org; Stanovich
+magazine.utoronto.ca. Anna Nobre's credential (M06-AT06) rests on the
+uploader description — her institutional page was not opened.

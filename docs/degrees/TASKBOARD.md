@@ -45,9 +45,9 @@ reference, unique source ids in brackets):
 - Block A: deg-philosophy attached sources (39 attachments, 36 unique) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-philosophy.md; 33 of 36 verified, 3 Cynicism-series optionals unconfirmed-accessible and flagged)
 - Block B: deg-contemplative attached sources (37, 33) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-contemplative.md; all 33 unique sources verified, Spanish-language flags on SRC-M24-005/006, duration mismatches on M02-K06, SRC-M24-001, SRC-M12-007)
 - Block C: deg-relational attached sources (12, 10) — deg-verify-b
-- Block D: deg-mind attached sources (31, 25) — deg-verify-b (verified 2026-10-25 by verifier-pplx-1025g, see docs/degrees/verify/deg-mind.md; all 18 imported records verified, flags on SRC-M07-005 catalog-title mismatch, M06-AT06 duplicate of SRC-M28-002, SRC-M07-001 duration gap, title-only coverage bases on M06-AF04/AF05/CO02; credential pages pending for 9 speakers)
+- Block D: deg-mind attached sources (31, 25) — deg-verify-b
 - Block E: deg-wellbeing attached sources (15, 13) — deg-verify-a (verified 2026-10-25 by verifier-pplx-a1, see docs/degrees/verify/deg-wellbeing.md; 12 of 12 imported records verified)
-- Block F: deg-therapeutic attached sources (18, 16) — deg-verify-b (verified 2026-10-25 by verifier-pplx-1025g, see docs/degrees/verify/deg-therapeutic.md; 12 of 13 imported records verified with opened credential pages; SRC-M09-005 identity-only with watch-page read flagged, onlinevents access ruling flagged for SRC-M09-004, Gilbert workshop part 3/4 catalog-duration mismatches flagged)
+- Block F: deg-therapeutic attached sources (18, 16) — deg-verify-b
 - Block G: deg-psychology-101 (1, 1) — deg-verify-b
 - Block H: deg-qigong attached sources (21, 17) and deg-cmp (27, 27):
   mostly already verified by their dedicated agents; re-check only the

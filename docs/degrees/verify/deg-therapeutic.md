@@ -47,11 +47,17 @@ SRC-M09-014 is verified. M16-C01 is the same URL as the verified SRC-M27-004
 
 Verified 2026-10-25: 12 of 13 imported records (SRC-M09-005 identity verified
 via oembed; its watch page was blocked from this session's fetcher, so duration
-and content basis are flagged). Flags for the degree owner: SRC-M09-004 is
-hosted on a commercial training provider's channel (onlinevents.co.uk) with the
-full event behind their library — access ruling needed; the Gilbert workshop
-catalog durations for parts 3-4 disagree with the watch pages (see the entry);
-SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
+and content basis are flagged). Coverage-basis note for owners (as the Block I
+sections): verified-video here means identity, access, duration and language
+are verified; each content-coverage claim records its basis per entry, and
+coverage that rests on an uploader or host description should be confirmed
+against the recording or transcript before the record is scheduled into a
+module. Flags for the degree owner: SRC-M09-004 is hosted on a commercial
+training provider's channel (onlinevents.co.uk) with the full event behind
+their library — access ruling needed; the Gilbert workshop parts sum to about
+5:13:52 on the watch pages against the catalog's 5:15:31 total (see the
+part-4 entry); SRC-M09-005 duration unread; M16-C01 is the same URL as
+SRC-M27-004 (duplicate record; directly verified above).
 
 ### SRC-M09-002: Dr. William Miller, "Motivational Interviewing: Facilitating Change Across Boundaries"
 
@@ -101,10 +107,10 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
   environment (repeated fetcher failures), so duration and content basis are
   NOT verified this session.
 - Instructor credentials: Stephen Rollnick, Honorary Distinguished
-  Professor, Cardiff University; co-developer of motivational interviewing
-  (Cardiff honorary and emeritus staff page:
-  https://www.cardiff.ac.uk/medicine/about-us/people/honorary-and-emeritus-staff,
-  opened 2026-10-25).
+  Professor, School of Medicine, Cardiff University; co-developer of
+  motivational interviewing (Cardiff honorary-staff page is robots-blocked
+  from this fetcher; opened basis: Wikipedia,
+  https://en.wikipedia.org/wiki/Stephen_Rollnick, 2026-10-25).
 - Language: English (title).
 - Content coverage: unknown from opened pages this session; title indicates a
   lecture on motivational interviewing for the South Africa HIV Addiction
@@ -114,15 +120,22 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
 
 ### M16-C01: Meng Wu Lecture — Paul Gilbert, PhD
 
-- Identity and access: same URL as the already-verified SRC-M27-004
-  (https://www.youtube.com/watch?v=LS3-dt5p-84, CCARE at Stanford University
-  channel); oembed reconfirmed 2026-10-25. DUPLICATE RECORD FLAG: M16-C01 and
-  SRC-M27-004 are the same resource; one catalog entry should be retired or
-  cross-referenced at integration time.
-- Duration: 1:29:52 (catalog; the recording is on the verified SRC-M27-004
-  record with its own evidence).
-- Verification status: verified-video (duplicate of SRC-M27-004; consume the
-  SRC-M27-004 evidence).
+- Identity and access: oembed and the watch page confirm the talk on the
+  CCARE at Stanford University channel
+  (https://www.youtube.com/watch?v=LS3-dt5p-84); watch page opened
+  2026-10-25. Meng Wu Lecture, 28 February 2013. DUPLICATE RECORD FLAG:
+  M16-C01 and SRC-M27-004 are the same URL; one catalog entry should be
+  retired or cross-referenced at integration time. No earlier evidence file
+  for SRC-M27-004 was locatable in docs/degrees/verify/ this session, so
+  this entry records the direct verification.
+- Duration: 1:29:52 (watch page, 2026-10-25; matches the catalog).
+- Instructor credentials: as SRC-M09-007 (Derby staff page, opened
+  2026-10-25).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Paul Gilbert
+  presenting his talk on Compassion Focused Therapy at a Meng Wu Lecture.
+- Relevant segment: whole talk, 1:29:52.
+- Verification status: verified-video (2026-10-25).
 
 ### SRC-M09-007 / M14-CFT-01: Workshop Part 1 — Dr. Paul Gilbert (CCARE, Stanford)
 
@@ -161,10 +174,10 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
 
 - Identity and access: oembed confirms part 3 on the CCARE channel
   (https://www.youtube.com/watch?v=pttQaff1Zx4); watch page opened 2026-10-25.
-- Duration: 1:28:31 (watch page, 2026-10-25). DURATION MISMATCH FLAG: the
-  catalog prints 1:31:28 for this part; the watch page prints 1:28:31. The
-  two figures look transposed (1:31:28 vs 1:28:31); the owner should re-read
-  the player before workload arithmetic.
+- Duration: 1:31:27 (watch page re-read, 2026-10-25; the catalog prints
+  1:31:28 — a one-second rounding difference). An earlier fetch of this page
+  this session returned garbled metadata (1:28:31); the clean re-read is
+  authoritative for this file.
 - Instructor credentials: as SRC-M09-007 (Derby staff page, opened
   2026-10-25).
 - Language: English.
@@ -179,9 +192,11 @@ SRC-M09-005 duration unread; M16-C01 duplicates the verified SRC-M27-004.
 - Identity and access: oembed confirms part 4 on the CCARE channel
   (https://www.youtube.com/watch?v=x_rRPRdo514); watch page opened 2026-10-25.
 - Duration: 1:28:30 (watch page, 2026-10-25); the catalog prints 1:28:31 — a
-  one-second discrepancy to reconcile. NOTE: the four watch-page parts sum to
-  about 5:10:56, against the catalog's "total workshop 5:15:31"; the owner
-  should re-read the parts before workload arithmetic.
+  one-second discrepancy to reconcile. TOTAL-DURATION FLAG: the four
+  watch-page parts sum to about 5:13:52, against the catalog's "total
+  workshop 5:15:31"; about 1:39 is unaccounted for (possible Q&A or intro
+  segments outside the four parts). The owner should re-read the parts
+  before workload arithmetic.
 - Instructor credentials: as SRC-M09-007 (Derby staff page, opened
   2026-10-25).
 - Language: English.
