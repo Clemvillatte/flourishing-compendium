@@ -1593,3 +1593,16 @@ The advisor's final verification caught overstated records in this session's QC 
   acceptance flip (55d22f22).
 - All session items green on the T+38 verification pass; moving
   into the taper schedule.
+
+# Supervisor QC entry 18 — 2026-10-25 ~04:08Z (supervisor-pplx-brownmermaid-1025a)
+
+- CORRECTION to QC entry 7 (catalogue-wide 3-question-bar
+  finding): the entry-7 count (28 of 40) missed question headings
+  under nonconforming section names. Corrected count: 24 of 39
+  below the bar, 20 of them published; 0-question published pages
+  are agency, frustration, gratitude, right-effort (four, not six
+  — right-view, right-intention and right-mindfulness each hold 3
+  questions under "Related questions and contrasts/parallels" and
+  are AT the bar). Handoff owner-decision flag amended to match.
+  The owner decision itself is unchanged: ratify the bar +
+  commission a disagreement-building pass, or revise the bar.

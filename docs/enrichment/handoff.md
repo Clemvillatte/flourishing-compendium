@@ -204,10 +204,16 @@ Session totals for the next supervisor/owner:
   87e6a350), Sennett-Marx moved to body as comparison; 2 more
   questions still needed, NOT manufactured; dos31 released for a
   fresh worker.
-- CATALOGUE FINDING (QC log entry 7, 5b4888bc): 28 of 40 dossiers
-  below the 3-question bar, 20 of them published. OWNER decision
-  required: ratify the bar + commission a disagreement-building
-  pass, or revise the bar.
+- CATALOGUE FINDING (QC entry 7, 5b4888bc; CORRECTED by QC
+  entry 18, see OPERATIONS.md): 24 of 39 dossiers below the
+  3-question bar, 20 of them published (the entry-7 count of
+  28 of 40 missed question headings under nonconforming section
+  names — right-view, right-intention and right-mindfulness each
+  hold 3 questions under "Related questions and contrasts/parallels"
+  and are AT the bar; the 0-question published pages are agency,
+  frustration, gratitude, right-effort). OWNER decision required:
+  ratify the bar + commission a disagreement-building pass, or
+  revise the bar.
 - FREEDOM flip HELD (QC entry 8): rewrite clean but 0 established
   disagreements (only candidate retracted as manufactured by
   advisor re-review). Await owner decision or a genuine
