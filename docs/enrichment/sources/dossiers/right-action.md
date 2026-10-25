@@ -619,3 +619,67 @@ Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
 - Clinical pair wording tightened: "Both give an instruction for the
   next act rather than a theory of the person" -> "Both focus on what
   to do next."
+
+## Takeover verification pass (2026-10-25, worker-pplx-dos21-1025g)
+
+Took the stale dos21 baton (0 min) and ran the advisor-directed verification
+pass on the GF-model rewrite. Commits this pass: 612c442f (round 5),
+d470ad01d (Story repair), 1567cff79 (round 6).
+
+Reader-level findings and repairs, in order of the file:
+- The conduct-factors sentence "speech first, then action, then
+  livelihood" was checked against the Eightfold Path card and the Sutta's
+  own order (right speech, right action, right livelihood are factors 3,
+  4 and 5 of the eight); the order claim is the card's own.
+- "The resolves were trained first" (round-5) narrowed further this pass:
+  the prior text asserted a training-order between the Right Intention
+  page and this factor that no opened carrier supports; the sentence now
+  says only that here the resolve has to show up in conduct.
+- "they do not agree about which does the work" removed: an asserted
+  disagreement the carriers do not state; the section intro now names the
+  three answers without ranking them.
+- "context dominates in real moral choice" softened to "can dominate":
+  the situationist literature the card cites is presented by the card as
+  findings, and the "if situations do that much of the work" bridge was
+  an inference; the sentence now states what the studies' designs show
+  and lets the reader draw the conclusion.
+- The Kohlberg gloss "the tradition measures whether reasoning leads
+  conduct" removed: a research-programme characterisation the card does
+  not carry.
+- "The Christian tradition codifies the other answer" replaced with
+  Aquinas named directly (advisor round 6): the opened carrier is the
+  Summa article, and "the Christian tradition" is a generalisation the
+  page does not need.
+- Story section: "the card's own reading", "the card reads" and the
+  ST295 "editorial juxtaposition" note removed; the four story cards
+  were re-opened and read directly (content/stories/ST405, ST087,
+  ST295, ST384) and the loglines now state the narratives in the cards'
+  own terms (ST087: Schindler hiring because the workers are cheap, the
+  fortune spent, the watch/car breakdown; ST295: the Caucasus rock, the
+  eagle, the regrowing liver; ST384: the tree spared for useless wood,
+  the goose killed for not cackling, Zhuangzi's halfway rest).
+- Unquoted em dashes removed throughout body prose and practice steps
+  (17 remained after round 5, all inside card-link labels where the
+  kernel and story titles carry them by convention); the K184 entry's
+  "sadness says withdraw, reach out; anger says attack, step back" was
+  repaired to "sadness says withdraw, so reach out; anger says attack,
+  so step back" so the instruction reads as an instruction.
+- The K263 entry's three sentences were re-ordered (the concrete
+  amendment last, the notice line before it) and the K216 entry's
+  "notice whether the exchange keeps a shared language" removed: the
+  card's own protocol stops at running the steps on the attacker's
+  words.
+
+Checks re-run after each push: dossier_check.py exit 0 (64 then 65 card
+links, 20 headers, 14 carriers); dossier_density.py 0 dense paragraphs;
+dossier_quote_verify.py 15 checked, 0 not found (live fetch). The
+enrich_validate.py dash error is a false positive for dossiers: the
+remaining dashes are inside card-link labels ([K250 — Virtue rehearsal])
+and quoted matter, where the kernel and story titles carry them; the
+published exemplars (anger.md, the-self.md) fail the same check for the
+same reason.
+
+State: batch file left at in_progress; the final advisor verification
+remains open for the next pass. No carriers newly opened this pass; all
+quote carriers were opened in prior sessions per this ledger and
+live-matched by dossier_quote_verify.py this session.
