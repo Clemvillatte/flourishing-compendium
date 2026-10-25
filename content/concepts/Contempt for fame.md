@@ -8,11 +8,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Contempt for fame is the Stoic stance toward reputation: not the refusal of recognition when it comes, but the refusal to make it a target. The account draws on Seneca's Letters, and Letter 79 carries the classic image:
+Contempt for fame is the Stoic stance toward reputation: recognition can be received when it comes, without making it a target. The account draws on Seneca's Letters, and Letter 79 carries the classic image:
 
 > "Fame is the shadow of virtue; it will attend virtue even against ​her will. But, as the shadow sometimes precedes and sometimes follows or even lags behind, so fame sometimes goes before us and shows herself in plain sight, and sometimes is in the rear, and is all the greater in proportion as she is late in coming" (Seneca, Letter 79, [Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_79))
 
-The sentence does the Stoic work in one move: fame is derivative, a shadow cast by something else. Seneca's letter goes on to praise pursuing the ideal "even though few know it, or none" (same letter). On Stoic terms reputation belongs to the indifferents: the [Stanford Encyclopedia's Stoicism entry](https://plato.stanford.edu/entries/stoicism/) states that "the mainstream Stoic view is that some indifferents – such as health, wealth, and reputation – are of a promoted or preferred type". Read that way, the stance this page's title names is a refusal to make reputation an aim rather than a refusal of recognition when it arrives.
+The sentence does the Stoic work in one move: fame is derivative, a shadow cast by something else. Seneca's letter goes on to praise pursuing the ideal "even though few know it, or none" (same letter). On Stoic terms reputation belongs to the indifferents: the [Stanford Encyclopedia's Stoicism entry](https://plato.stanford.edu/entries/stoicism/) states that "the mainstream Stoic view is that some indifferents – such as health, wealth, and reputation – are of a promoted or preferred type". Read that way, the stance this page's title names is a refusal to make reputation an aim; recognition that arrives is received.
 
 ### What it is not
 
