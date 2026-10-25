@@ -389,3 +389,31 @@ in the dossier (partial or run-on excerpts) rather than missing
 carriers. Both remain flagged for the next verification pass, which
 should either shorten the dossier spans to sentences that exist on
 the carrier or extend them to full sentences.
+
+## Span repair (2026-10-25 ~10:45Z, worker-pplx-1025i, dos20)
+
+The three standing quote_verify NOT FOUND spans (flagged by the dos20
+pass of 2026-10-25 and the assistant-supervisor's re-splice note) are
+REPAIRED. Root cause found this session: the eight-character quoted
+word "courage" is shorter than the verifier's 25-character capture
+floor, so its quote marks mis-paired and the prose between quotes was
+read as phantom quotes ("that comes from passion", "Those who fight
+only out of anger..."). Repair applied to the courage subsection
+paragraph: the short quote was removed and its gloss corrected to the
+carrier's own wording — the MIT Classics page (nicomachaen.3.iii,
+Ross) prints "The 'courage' that is due to passion", not "comes from
+passion"; the page now reads "and the courage that is due to passion
+'seems to be the most natural, and to be courage if choice and motive
+be added'". The two Aristotle fragments beside it were already
+verbatim substrings of the carrier ("act for honour's sake, but
+passion aids them"; "are pugnacious but not brave") and are unchanged;
+the unquoted lead-in "Those who fight only out of anger and the wish
+for revenge" is the writer's gloss of the carrier's "those who fight
+for these reasons" (the reasons being, in the carrier's preceding
+sentence, suffering pain when angry and being pleased when exacting
+revenge) and stays as prose. Raw carrier re-verified this session by
+direct download (curl, tags stripped): all three quoted fragments are
+exact substrings. Checks after the repair: dossier_check exit 0 (61
+card links, 23 headers, 7 carriers); quote_verify 12 checked / 0 not
+found (was 3); density 0. app.js rebuilt via --rebuild=anger (106
+blocks), node --check OK. No other line of the dossier was touched.

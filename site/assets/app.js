@@ -5705,6 +5705,34 @@ window.fcDossiersData = {
           "x": "Anger arrives with its defence already written: someone did wrong, and the wrong demands an answer. Whether the answer anger supplies is ever the one the moment needs is the question the traditions keep returning to, and they answer it differently: some condemn the passion outright, some give it a mean and a place, and the research asks what it actually does for and to the person who holds it. The practices that loosen its grip share one commitment: they take the provocation seriously without letting it write the response."
         },
         {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "[Forgiveness](card:Forgiveness) — the counter-practice the anger dossier keeps returning to; anger asks what to do with the wrong, forgiveness asks whether to keep carrying it."
+        },
+        {
+          "t": "p",
+          "x": "[Compassion](card:Compassion) — the neighbouring warmth; anger turns on the wrong, this one turns on the one who is suffering, including the one who is angry."
+        },
+        {
+          "t": "p",
+          "x": "[Self-compassion](card:Self-compassion) — the neighbouring practice; anger turns on the other, this one turns on the self."
+        },
+        {
+          "t": "p",
+          "x": "[Gratitude](card:Gratitude) — the counter-practice to resentment; where anger keeps the injury in view, gratitude keeps the good in view."
+        },
+        {
+          "t": "p",
+          "x": "[Anxiety about the future](card:Anxiety%20about%20the%20future) — the neighbouring agitation; anger has a culprit and a wrong, anxiety has a threat without one."
+        },
+        {
+          "t": "p",
+          "x": "These are the nearest entries, not the scope."
+        },
+        {
           "t": "h",
           "x": "The map: the entries on anger"
         },
@@ -5951,7 +5979,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aristotle, in the Nicomachean Ethics, is careful here. Brave men \"act for honour's sake, but passion aids them\", and he says the \"courage\" that comes from passion \"seems to be the most natural, and to be courage if choice and motive be added\". Those who fight only out of anger and the wish for revenge \"are pugnacious but not brave\" ([Aristotle, Nicomachean Ethics III.8, Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). Seneca reports a blunter version, which I could not find in the Ethics: Aristotle says anger \"is necessary, nor can any fight be won without it\", provided it is used \"not as a general, but as a soldier\" ([Seneca, On Anger I.9, Stewart translation, Gutenberg](https://www.gutenberg.org/files/64576/64576-0.txt))."
+          "x": "Aristotle, in the Nicomachean Ethics, is careful here. Brave men \"act for honour's sake, but passion aids them\", and the courage that is due to passion \"seems to be the most natural, and to be courage if choice and motive be added\". Those who fight only out of anger and the wish for revenge \"are pugnacious but not brave\" ([Aristotle, Nicomachean Ethics III.8, Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). Seneca reports a blunter version, which I could not find in the Ethics: Aristotle says anger \"is necessary, nor can any fight be won without it\", provided it is used \"not as a general, but as a soldier\" ([Seneca, On Anger I.9, Stewart translation, Gutenberg](https://www.gutenberg.org/files/64576/64576-0.txt))."
         },
         {
           "t": "p",
