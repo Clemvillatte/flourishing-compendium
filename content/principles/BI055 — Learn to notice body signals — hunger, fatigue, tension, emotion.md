@@ -21,6 +21,10 @@ Your body keeps sending information about hunger, tiredness, tension and mood. P
 
 *For example:* At mid-afternoon you notice a tight jaw and a short temper. You ask yourself whether you have eaten, slept badly or been sitting for hours, and you try the cheapest fix first. The cause may well be something else.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — interoceptive exposure trains the input stream her constructionist account depends on.
+
 ## Sources
 
 - [Khalsa, S. S. et al. (2018), Interoception and Mental Health: A Roadmap, Biol Psychiatry Cogn Neurosci Neuroimaging 3(6), 501–513](https://pubmed.ncbi.nlm.nih.gov/29884281/)

@@ -46,6 +46,10 @@ On James's account the body is the innermost part of what you count as yours. So
 - Include your body in your sense of self. Care for it (sleep, nutrition, movement) not as maintenance of a machine but as care of the self. Notice how body state affects self-perception.
 
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — reading the body before acting is checking the construction inputs she identified.
+
 ## Related concepts
 
 - [[K021]] — James's body as the innermost part of the material self beside Nishida's historical body as co-creator of the world, two accounts of the body belonging to the self.

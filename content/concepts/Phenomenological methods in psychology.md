@@ -37,6 +37,10 @@ The phenomenological arm is older than the smartphone. My E-principles carry it 
 - [Pacific Standard, Memo to the Mind](https://psmag.com/social-justice/memo-to-the-mind-dont-wander-be-happy-25262/) — the design details in press reporting
 - [Scientific American, A Wandering Mind is an Unhappy One](https://www.scientificamerican.com/article/a-wandering-mind-is-an-un/) — experience sampling explained
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — her constructionist account is one of the places phenomenological description meets affect science.
+
 ## Related concepts
 
 - [[The natural attitude]] — the everyday attitude the methods suspend

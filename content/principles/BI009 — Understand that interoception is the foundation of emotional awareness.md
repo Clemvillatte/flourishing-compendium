@@ -28,6 +28,10 @@ Interoception means noticing internal bodily sensations. The authors of the stud
 **For example**
 Sit still for two minutes and notice sensations in the chest, jaw or gut, without assuming what they mean about your emotional state. Notice what you find.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the body budget she theorizes is exactly what this tracking habit reads.
+
 ## Related concepts
 
 

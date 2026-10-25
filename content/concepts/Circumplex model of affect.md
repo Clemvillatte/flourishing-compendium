@@ -36,6 +36,10 @@ The two axes are meant to be independent, which is what makes the plane informat
 
 ## Cited in philosophy parallels
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — she and Russell worked the circumplex into the core-affect account that underwrites the constructed view.
+
 ## Related concepts
 
 - [[Pleasure-Arousal-Dominance Model]] — the older three-axis cousin: it keeps valence and arousal and adds dominance as a third dimension.

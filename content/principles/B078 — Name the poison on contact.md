@@ -23,6 +23,10 @@ Wanting a new phone is something to notice; placing an order is a decision to ex
 
 For example: You browse a shop after an upsetting conversation and name what you notice: “I am angry, and buying this looks like relief.” Compare the purchase you want to make now with how the item looks when you review it later, including its cost and use. Keep the decision process that lets you give reasons for the purchase. This is a proposed experiment, not a promise that labelling anger will remove it.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — meeting aversion gently gives the constructed brain material to work with rather than a fixed trigger to fight.
+
 ## Sources
 
 - [MN 2, Sabbasava Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html) — appropriate attention and sense-door restraint

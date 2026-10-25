@@ -44,3 +44,7 @@ In a randomised study of 40 healthy adults, one heartbeat-perception training se
 ## Practice
 
 - Spend 2–5 minutes a day scanning the body — heart, breath, gut, shoulders, jaw — without judging. Note the raw signal before the interpretation.
+
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — interoception is the body-signal stream her theory builds affect from.

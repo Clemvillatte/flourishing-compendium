@@ -33,3 +33,7 @@ For example: An unanswered message leads you to assume a friend is angry. Before
 
 - **[[Panta rhei|Panta rhei and the unity of flux]]** (Heraclitus, Fragments)
 - **[[Stream of consciousness|Stream of consciousness]]** (William James, Principles of Psychology)
+
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — welcoming unpleasant affect is easier once it is seen as a budget signal, not a verdict.

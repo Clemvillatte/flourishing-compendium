@@ -24,6 +24,10 @@ The practical reading comes from the Preface to Part III, where Spinoza refuses 
 
 *For example:* Someone treats poor sleep, a short temper and overspending as three separate problems with three culprits. Seen as one system, they find that one pressure, stress, runs through all three.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the feeling behind the avoidance is the core affect her account puts upstream of emotion.
+
 ## Sources
 
 - [Spinoza, Ethics (trans. R. H. M. Elwes), Project Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — full text read; I P14, P15; Preface to Part III; Preface to Part IV

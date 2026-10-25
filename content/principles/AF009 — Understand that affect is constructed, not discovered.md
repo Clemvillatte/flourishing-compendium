@@ -42,5 +42,9 @@ She is not saying emotions are fake. Her words: "Emotions are real, but not in t
 
 - When you notice a feeling, attend to the bodily sensations and the context around them before describing the experience.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the constructed-not-discovered claim is hers; the SCAN 2017 paper this page's family cites is its statement.
+
 ## Related concepts
 - [[T050 — Nagarjuna]]: the emptiness-of-inherent-nature parallel the page cites from the Mulamadhyamakakarika.

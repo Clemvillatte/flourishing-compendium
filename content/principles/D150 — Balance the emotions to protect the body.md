@@ -28,6 +28,10 @@ Later Chinese medicine carried the idea further. The *Basic Questions* (Suwen), 
 
 *For example:* Imagine someone who notices that after every tense week they sleep badly and snap at people. They start writing down what the tension was about on Friday afternoon, and after a month they look at whether the pattern has changed. This is my illustration, not a medical claim.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — reducing valence pressure in the body is regulating the budget her theory describes.
+
 ## Sources
 
 - [Harold D. Roth, Original Tao: Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism (Columbia University Press, 1999), Internet Archive full text](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt): verses XX, XXI and XXV, and the dating.

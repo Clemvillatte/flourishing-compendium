@@ -24,6 +24,10 @@ The noting is mental, not spoken: "The rising should be noted mentally as 'risin
 
 *For example:* Imagine the worry loop starting up. Note it as "worrying, worrying" once or twice, as the instructions have it, and return to the primary object. The pattern is note and return.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — light noting works with, not against, the constructive process she describes.
+
 ## Related concepts
 
 - [[AT034]] — B056 presents the Mahasi noting practice ("wandering, wandering") with its return to the primary object; AT034 reports the theoretical account of that noticing-and-returning function.

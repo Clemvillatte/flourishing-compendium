@@ -24,6 +24,10 @@ The sutta says what follows from seeing this: "the well-instructed disciple of t
 
 *For example:* Imagine watching a sunset and wanting the mood to last. The pleasure fades anyway, and you feel the wish for it to stay. If you can see that wish as one more passing part of the scene, you hold the evening more loosely. This is my illustration of the practice, not a line from the sutta.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — naming to change the relationship is her granularity practice in kernel form.
+
 ## Sources
 
 - [SN 22.59, "Pañcavaggi Sutta: Five Brethren" (the Anattalakkhana Sutta), translated by Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html): every quotation on this page.

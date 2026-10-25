@@ -18,6 +18,10 @@ The skill is linked to regulation. Improving the "ability to identify and differ
 - [[D095 — Moderate emotion — extremes injure vitality]] and [[D150 — Balance the emotions to protect the body]] are this concept's psychology parallels
 - [[P036 — Notice that language shapes what you can see]] and [[B056 — Note lightly (noting)]] are linked principles
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the differentiating capacity this page describes is the emotional granularity her research operationalized.
+
 ## Related concepts
 
 - [[Emotional granularity]] — the same skill under its other name

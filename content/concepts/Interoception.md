@@ -20,6 +20,10 @@ Anil Seth's interoceptive inference model puts the sense to predictive work. On 
 - Craig, 2009
 - Barrett et al., 2019
 - Khalsa et al., 2018
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — interoception is her theory's raw material — the body-budget signal the brain reads to construct affect.
+
 ## Related concepts
 
 

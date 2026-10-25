@@ -35,6 +35,10 @@ The authors' proposed rationale:
 - [[P139 — Know that cognition is embodied sense-making]] — states that cognition is embodied sense-making
 - [[D096 — Don't let the outer displace the inner]] — warns against letting the outer displace the inner
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — awareness here means having the concepts to build precise feeling-instances — her granularity work.
+
 ## Related concepts
 
 - [[Emotion differentiation]] — the construct measured in Barrett and colleagues' 2001 study

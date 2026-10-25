@@ -20,6 +20,10 @@ Monti and colleagues, citing Craig (2002), describe interoception as "the sense 
 - [[E020 — Practise embodiment as condition of possibility]] — embodiment as precondition
 - [[P005 — You are an organism in transaction with an environment]]
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the body-budget reading of interoception is her account of how the felt self is constructed.
+
 ## Related concepts
 
 - [[Interoception]]

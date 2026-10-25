@@ -27,6 +27,10 @@ A later study by Kalokerinos and colleagues found that emotion differentiation w
 
 AF002 (Distinguish the feeling from its interpretation) cites this page as its psychology parallel. The studies opened here support that changing the appraisal can change the response, and that clearer emotion differentiation goes with better regulation. Neither shows that separating feeling from appraisal is a condition for reappraisal to work, so AF002's wording is best read as a practice suggestion.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the feeling she separates from the appraisal is affect — constructed, not delivered — which is why the separation works.
+
 ## Related concepts
 
 - [[Reappraisal's effectiveness depends on controllability]] — the sister boundary condition on the same strategy

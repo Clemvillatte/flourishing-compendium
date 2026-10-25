@@ -34,6 +34,10 @@ On the framework's standing: "The scientific story of predictive processing is s
 
 *For example:* An email arrives, short and unsigned. Read with the expectation of hostility, it comes across as hostile. Later, read again with the picture of a rushed sender, the same words look different, and the pixels have not changed.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — deliberately constructing an emotion is her theory used as a lever.
+
 ## Sources
 
 - [Andy Clark, "The many faces of precision", Frontiers in Psychology 4:270, 2013 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3659294/) — brains as prediction machines predicting their own sensory arrays

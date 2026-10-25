@@ -42,3 +42,7 @@ For example: Before a presentation, you might write "very activated; somewhat un
 ## Practice
 
 - When you feel activated, ask "is this pleasant-activation or unpleasant-activation?" and if unpleasant, test the "excitement" label before acting on the "anxiety" label.
+
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — her valence/arousal structure is the two-feature core affect her constructionist account starts from.

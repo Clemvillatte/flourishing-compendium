@@ -44,6 +44,10 @@ Trying a more specific word for a vague feeling, resentful rather than bad, is a
 - [Lieberman et al., 2007, Psychological Science, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17576282/)
 - [Kashdan et al., 2014, PLoS One, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24594689/)
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the trainable granularity this principle names is her lab's construct.
+
 ## Related concepts
 
 - [[Y015]] — thematic pair: both are naming-as-handling practices (the Yoga taxonomy names the mind-movement's type, emotional granularity names the feeling precisely)

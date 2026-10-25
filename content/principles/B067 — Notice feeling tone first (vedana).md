@@ -31,6 +31,10 @@ For this exercise, ask how an experience feels while it is happening. Is the fee
 
 *For example:* Imagine reading an email you take to be curt. Before writing a reply, note that reading it feels unpleasant. Then reread the message and decide what you want to say.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — cooling reactivity is easier once the feeling is seen as built — her account's practical dividend.
+
 ## Related concepts
 
 

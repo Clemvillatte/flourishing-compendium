@@ -22,6 +22,10 @@ Your body sends signals all day: heart rate, breath, gut, tension. Most of them 
 **For example**
 Sit for five minutes and count your heartbeats without taking your pulse; write down your count, then compare it with a measured count. The gap between the two is information about your current signal.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — noticing affect before it becomes emotion is the move her affect/emotion distinction makes possible.
+
 ## Sources
 
 - [Craig, A. D. (2009), How do you feel--now? The anterior insula and human awareness, PubMed](https://pubmed.ncbi.nlm.nih.gov/19096369/) — abstract verified verbatim

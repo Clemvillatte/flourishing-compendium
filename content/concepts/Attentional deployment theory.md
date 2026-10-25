@@ -25,6 +25,10 @@ The same article presents the process model as "five families of emotion regulat
 - [[MO054 — Learn to use self-regulation strategies — manage impulses]]
 - [[B065 — Guard the mind at the source (mind precedes all)]]
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — her affect-as-body-budget account gives the deployment theory its substrate — what is being steered.
+
 ## Related concepts
 
 - [[Avoidance versus attentional engagement]] — attention turned toward or away is the regulation strategy the engagement side names

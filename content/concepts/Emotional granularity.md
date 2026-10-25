@@ -26,6 +26,10 @@ Those in the first group "reported their emotional experience in more precise, d
 
 The proposed mechanism is informational: an emotion named precisely gives more guidance about what to do. The same review frames the construct's reach: "Being able to carefully perceive and distinguish the rich complexity in emotional experiences is a key component of psychological interventions" ([2015, abstract](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the researcher whose lab tied granularity to self-regulation and made it a trainable skill rather than a trait.
+
 ## Related concepts
 
 - [[Emotion differentiation]] — the construct's earlier name, still used interchangeably

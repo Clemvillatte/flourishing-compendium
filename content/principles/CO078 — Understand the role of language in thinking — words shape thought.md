@@ -22,6 +22,10 @@ Words do not decide what you can feel or think, but they sharpen what you notice
 **For example**
 Someone who says "stressed" about everything tries one precise word each evening for a week, such as "restless", "drained" or "frazzled". The aim is a clearer sense of what the day actually did to them.
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — challenging emotional essentialism is her case against the classical view, stated as a practice.
+
 ## Sources
 
 - [Fuhrman, McCormick, Chen et al., How linguistic and cultural forces shape conceptions of time: English and Mandarin time in 3D, Cognitive Science 35(7) (2011), 1305-1328, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/21884222/): abstract only

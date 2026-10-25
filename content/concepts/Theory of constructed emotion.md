@@ -37,6 +37,10 @@ Basic emotion theory.md
 Interoception.md
 Somatic marker hypothesis (Damasio).md
 
+## Related thinkers
+
+- [[T057 — Barrett, Lisa Feldman|Barrett]] — the theorist who gave the constructed account its modern statement; her SCAN 2017 paper is the scholarly anchor this page cites.
+
 ## Related concepts
 
 - [[Affect as information]] — the older use of affect as evidence
