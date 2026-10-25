@@ -17,6 +17,10 @@ The direction of much of that change has a name ([Bleidorn et al., Personality S
 
 > "Specifically, Roberts et al. (2006) found evidence for steady and significant increases in Emotional Stability, Conscientiousness, and, to a lesser degree, also in Agreeableness throughout the adult life span. This pattern—now referred to as the maturity principle of personality development (Roberts & Nickel, 2021; Specht et al., 2014)—has since been replicated in large-scale cross-sectional (Soto et al., 2008, 2011) and longitudinal data (Lucas & Donnellan, 2011; Specht et al., 2011), across different cultures (Bleidorn et al., 2013) and trait measures (Graham et al., 2020)." (Bleidorn et al., [Personality Stability and Change](https://gwern.net/doc/psychology/personality/2022-bleidorn.pdf))
 
+The finding is not that people change a great deal but that the change is measurable and directional. The cumulative movement across adulthood exceeds one full standard deviation in several trait domains, which is a difference a person can see in themselves and that others will notice; the maturity principle says the direction of that movement is not random. A trait profile is therefore not a fixed description of what a person is but a reading at a particular age, and the age is part of the reading.
+
+The maturity principle is also not a claim that people get better, only that they get, on average, more stable, more conscientious and more agreeable, which are changes in how a person handles difficulty rather than changes in how much difficulty they have. The principle has been replicated across cultures and trait measures, which means the pattern is not an artefact of a particular test or a particular cohort. A person applying the concept can read their own personality as something in motion, and the reading can be done without knowing which age the motion is currently at.
+
 ## Facets
 
 - **and friendship** — Roberts et al., 2006
