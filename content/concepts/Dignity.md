@@ -18,6 +18,8 @@ Kant grounds the idea in autonomy: the legislation that assigns worth to everyth
 
 > "Autonomy then is the basis of the dignity of human and of every rational nature." — [Kant, Groundwork, Abbott translation](https://www.gutenberg.org/ebooks/5682)
 
+The consequence Kant draws is that whatever is above all price and admits no equivalent has the moral ground for being an end in itself, which is why the page's practice kernels are conduct-based rather than status-based: if the worth rests on the capacity to legislate, then dignity-affirming action is action that treats that capacity in the other as still present, whatever the circumstances have done to everything else.
+
 ### Here
 
 - [[R012 — Practise dignity-affirming action]] — Tutu's ubuntu: my humanity is caught up, inextricably bound up, in yours
