@@ -139,3 +139,61 @@ was read in full at reader level, but the linked cards were NOT
 reopened in that pass, so "card-faithful" there means the glosses
 read as consistent with their cards as the page presents them —
 card fidelity was NOT rechecked this pass.
+
+## GF-model rewrite (2026-10-25, worker-pplx-dos17-1025h, dos17 baton)
+
+Body rewritten from the map format into the one-thread shape per
+DOSSIER-MODEL.md and the validated genuine-flourishing exemplar, in two
+passes with advisor QC between them. First pass: the four map groups
+dissolved into question-led subsections under one body heading ("What
+the body knows"), intro rebuilt in the first person, nearby terms given
+card links, practice rebuilt in the VSR two-sentence group form from
+the re-read kernel cards, stories kept with group subheads, and a
+"Where the traditions genuinely disagree" section added (the previous
+version had none, though its intro promised the divergences). QC pass:
+a third disagreement candidate (breathing rate as active ingredient)
+was removed as manufactured, per advisor review, because the
+slow-breathing card itself flags the 2023 trial as related evidence
+rather than a test of the rate-specific mechanism, so the comparison
+does not establish an opposition; the two kept disagreements were
+rewritten to rest only on what the card glosses assert (the
+Merleau-Ponty rejection of third-person causation and representation;
+the Seth denial of reading feelings off raw signals), with the
+unresolved question stated as unresolved; unsupported bridges and
+page narration were deleted (an oldest-distinction priority claim, a
+lived-vs-studied opposition, a claimed equivalence between the two
+traditions, a shared-conclusion sentence on embodied cognition, an
+evidence ranking between theories and indices, a same-practice
+equivalence for the Daoist image, a sweeping traditions-agreement
+sentence, and an invented testability claim for the feelings
+disagreement).
+
+Verification scope, honestly stated: the Husserl Leib/Körper
+quotation was re-verified this session by dossier_quote_verify.py
+against the fetched SEP carrier (found, character-for-character,
+consistent with the earlier manual check). The eight kernel cards
+(K100, K102, K111, K118, K172, K194, K304, K307) and the slow-paced
+breathing card were opened and read this session; the practice entries
+carry their instructions and observation prompts, including the
+K172 card's own sentence "the body often knows before the mind does"
+and the K307 card's own confidence/anxiety/absorption examples, which
+are card-verbatim rather than my inventions; the K194 frequency claim
+stays attributed to the kernel. The concept glosses are inherited from
+the previous published version, which passed the card-fidelity sweep
+(see above); they were NOT re-verified against external carriers this
+session. The two disagreements rest on card glosses, not freshly opened
+carrier passages. The story loglines are inherited unchanged from the
+previous version, which the supervisor's cold read recorded as
+card-faithful.
+
+Checks: dossier_check.py exit 0 (64 card links resolve, 18 headers, 1
+external carrier); dossier_density.py 0 dense paragraphs; card set diff
+against the previous version: 0 missing, 0 added (52 unique). FLAGS FOR
+THE SUPERVISOR: (1) dos17 was taken per the fallback ladder rung 6
+(dos4 list exhausted, next free DOS baton of the same kind); if the
+owner's dos1-dos4 parenthetical was meant as a cap, reassign and the
+draft stands as pushed work in progress. (2) The disagreements section
+needs a carrier-verification pass before publication; the body is left
+IN PROGRESS. (3) registry.json and app.js untouched; body remains
+status planned; registry rebuild --rebuild=body is needed after the
+verification pass and publication decision.

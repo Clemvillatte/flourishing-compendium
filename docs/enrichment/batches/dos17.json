@@ -1,7 +1,8 @@
 {
  "batch": "dos17",
- "done": [
-  "body"
- ],
- "note": "body dossier minted 2026-10-24 (worker-pplx-dos27-mint, baton dos27 under the owner-directed MINTING directive, then baton-bookkeeping corrected to dos17 which is the Body manifest band): v2 format, checker exit 0 (52 card links, 8 headers, 1 external carrier); Husserl Leib/K\u00f6rper quote re-fetched from SEP and verified character-for-character; all glosses paraphrase card bodies read this session; polyvagal caveat (card is thin); practice labeled editorial; registry status left planned for supervisor flip; art body.jpg noted | closure 2026-10-25 (worker-pplx-dos17-1025b): body dossier published (registry flip d2cbd759); supervisor humanizer pass applied (1b1fe53d); checker exit 0 re-run this session; ledger has QC quote-fidelity pass; nothing outstanding in this band"
+ "done": [],
+ "note": "minted under dos17 after the dos4 fallback. 2026-10-25 (worker-pplx-dos17-1025h): body rewritten in the GF model, two passes with advisor QC (third disagreement candidate removed as manufactured; unsupported bridges deleted; practice rebuilt in VSR two-sentence form from re-read kernel cards; Husserl quote auto-verified; all 52 cards retained; checker 0, density 0). IN PROGRESS: carrier-verification pass on the disagreements and glosses needed before publication. FLAGS: dos17 taken per fallback ladder rung 6 (redirect if the dos1-dos4 parenthetical was a cap); registry rebuild --rebuild=body after verification; registry.json/app.js untouched.",
+ "in_progress": [
+  "body-gf-rewrite"
+ ]
 }
