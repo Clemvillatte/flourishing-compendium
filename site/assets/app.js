@@ -15436,16 +15436,16 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading:"
+          "x": "[Grief for what passes](card:Grief%20for%20what%20passes) reads the Zhuangzi drumming-on-the-tub story as a lesson in grieving well, not in feeling nothing; the card itself leaves open whether what Zhuangzi describes counts as grief proper. [Ecological grief](card:Ecological%20grief) extends grief to places: it is associated with the physical disappearance, degradation and death of species, ecosystems and landscapes, driven by climate change ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf)). The same article gives this extension its social reading:"
         },
         {
           "t": "q",
-          "x": "\"For Butler, and others, grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others\" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
+          "x": "\"For Butler, and others, grief and mourning have 'we-creating' capacities, exposing our known, unknown and unacknowledged connections to others\" ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn — including climate change-induced ecological loss and degradation.\" ([Cunsolo & Ellis 2018](https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
+          "x": "\"grief and mourning can also question fundamental assumptions about what we choose to value — and what we choose to grieve and mourn — including climate change-induced ecological loss and degradation.\" ([Cunsolo & Ellis 2018](https://web.archive.org/web/20260908165528/https://www.uwosh.edu/sirt/wp-content/uploads/sites/86/2020/04/Cunsolo-and-Ellis-2018.pdf))",
           "s": null
         },
         {
@@ -15483,7 +15483,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The turn-on is what the bond is doing: a bond held inside a life that continues, or a bond that holds the life in place. My lean is toward the bonds side, with the conditions respected: the studies measure who recovers, not what a kept bond is for, and a bond that keeps the dead present in a life that is still being lived is different material from a bond that substitutes for that life."
+          "x": "The turn-on is the study's own moderator: expected versus unexpected bereavement. The finding conditions the bonds on how the death arrived, not on what a kept bond is; whether a bond that keeps the dead present in a life still being lived differs from one that substitutes for that life is my interpretation, not a measurement in the paper. My lean is toward the bonds side with the conditions respected."
         },
         {
           "t": "h2",
@@ -15495,7 +15495,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The paper even carries the disagreement into the clinic: intervention may, for some, be counterproductive, and avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, would be beneficial. The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side. My lean is toward the model, because it is the one that predicts both the griever who needs to sit with the loss and the griever who needs a week of ordinary life, and it does not force a single prescription on both."
+          "x": "The paper even carries the disagreement into the clinic: intervention may, for some, be counterproductive, and avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, would be beneficial. The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last."
         },
         {
           "t": "h",
@@ -16047,227 +16047,99 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on gratitude"
+          "x": "Where gratitude sits"
         },
         {
           "t": "h2",
-          "x": "The classical account: benefit, goodwill, and return"
+          "x": "What is a benefit, and what does the receiver owe?"
         },
         {
-          "t": "n",
-          "i": 1,
-          "x": "[Gratitude](card:Gratitude): the felt recognition of a benefit received, with Seneca's On Benefits and Aristotle's Nicomachean Ethics VIII.14 as the classical anchors, and the psychological study beginning from the same observation that the emotion is about a source."
+          "t": "p",
+          "x": "The felt recognition of a benefit received is the anchor, and both traditions begin there. [Gratitude](card:Gratitude) carries the classical anchors, Seneca's On Benefits and Aristotle's Nicomachean Ethics VIII.14, and the psychological study begins from the same observation that the emotion is about a source. [T013 — Seneca](card:T013%20%E2%80%94%20Seneca) is the Stoic whose Moral Letters and essays carry the account."
         },
         {
-          "t": "n",
-          "i": 2,
-          "x": "[T013 — Seneca](card:T013%20%E2%80%94%20Seneca): the Stoic whose Moral Letters and essays carry the On Benefits account the anchor card opens with; philosophy as salutary practice rather than lecture."
+          "t": "p",
+          "x": "Seneca's location of a benefit is in the goodwill behind it rather than the money or object that changes hands. [S037 — Practise beneficence](card:S037%20%E2%80%94%20Practise%20beneficence) names delay, reproach and humiliation as spoilers of the gift. [S084 — Practise gratitude](card:S084%20%E2%80%94%20Practise%20gratitude) carries Marcus Aurelius's first book as a list of what he learned from particular people, each entry naming a giver and a gift, which is what makes it more than a mood."
         },
         {
-          "t": "n",
-          "i": 3,
-          "x": "[S037 — Practise beneficence](card:S037%20%E2%80%94%20Practise%20beneficence): Seneca's location of a benefit in the goodwill behind it rather than the money or object that changes hands, with delay, reproach and humiliation named as spoilers of the gift."
+          "t": "p",
+          "x": "Aristotle's test of the manner of the gift is [generosity](card:Generosity): giving for the sake of the noble, to the right people, amounts and times, and the giver's substance rather than the multitude of gifts. The exchange structure the emotion sits in is [reciprocity](card:Reciprocity), with its two demands, help those who have helped you and do not injure them."
         },
         {
-          "t": "n",
-          "i": 4,
-          "x": "[S084 — Practise gratitude](card:S084%20%E2%80%94%20Practise%20gratitude): Marcus Aurelius's first book as a list of what he learned from particular people, each entry naming a giver and a gift, which is what makes it more than a mood."
+          "t": "p",
+          "x": "[Reciprocity norm theory Gouldner](card:Reciprocity%20norm%20theory%20Gouldner) is the 1960 statement of the norm in its universal form, and [reciprocal altruism research](card:Reciprocal%20altruism%20research) is Trivers's evolutionary account that lists gratitude among the regulators of the exchange."
         },
         {
-          "t": "n",
-          "i": 5,
-          "x": "[Generosity](card:Generosity): Aristotle's test of the manner of the gift, giving for the sake of the noble, to the right people, amounts and times, and the giver's substance rather than the multitude of gifts."
+          "t": "p",
+          "x": "Spinoza's definition makes gratitude a desire springing from love, wanting to benefit someone who has benefited us out of love, carried on [SP022 — Practice gratitude as repayment of love](card:SP022%20%E2%80%94%20Practice%20gratitude%20as%20repayment%20of%20love). Hume's [benevolence](card:Benevolence) is the sentiment that grounds the social virtues, the giving side of the same bond."
         },
         {
-          "t": "n",
-          "i": 6,
-          "x": "[Reciprocity](card:Reciprocity): the two demands of the norm, help those who have helped you and do not injure them, as the structure the emotion sits in."
+          "t": "p",
+          "x": "The asymmetry of benefaction is Aristotle's observation that benefactors love those they have benefited more than the reverse. [A070 — Understand the asymmetry of benefaction](card:A070%20%E2%80%94%20Understand%20the%20asymmetry%20of%20benefaction) carries his own account of why: the beneficiary is the benefactor's handiwork and carries the maker's activity in it, so the imbalance is normal and not a ledger to correct."
         },
         {
-          "t": "n",
-          "i": 7,
-          "x": "[Reciprocity norm theory Gouldner](card:Reciprocity%20norm%20theory%20Gouldner): the 1960 statement of the norm in its universal form, the sociological base under the exchange."
-        },
-        {
-          "t": "n",
-          "i": 8,
-          "x": "[Reciprocal altruism research](card:Reciprocal%20altruism%20research): Trivers's evolutionary account that lists gratitude among the regulators of the exchange, the base the relationship theory later builds on."
-        },
-        {
-          "t": "n",
-          "i": 9,
-          "x": "[SP022 — Practice gratitude as repayment of love](card:SP022%20%E2%80%94%20Practice%20gratitude%20as%20repayment%20of%20love): Spinoza's definition, a desire springing from love, wanting to benefit someone who has benefited us out of love."
-        },
-        {
-          "t": "n",
-          "i": 10,
-          "x": "[Benevolence](card:Benevolence): Hume's sentiment that grounds the social virtues, the giving side of the same bond."
-        },
-        {
-          "t": "n",
-          "i": 11,
-          "x": "[SP070 — Live among the free; friendship is the economy of the strong](card:SP070%20%E2%80%94%20Live%20among%20the%20free%3B%20friendship%20is%20the%20economy%20of%20the%20strong): Spinoza's contrast between gratitude among free people, who benefit one another out of agreement of natures, and thanks prompted by obligation, which belongs to the bargain."
-        },
-        {
-          "t": "n",
-          "i": 12,
-          "x": "[A070 — Understand the asymmetry of benefaction](card:A070%20%E2%80%94%20Understand%20the%20asymmetry%20of%20benefaction): Aristotle's observation that benefactors love those they have benefited more than the reverse, with his own account of why: the beneficiary is the benefactor's handiwork and carries the maker's activity in it, so the imbalance is normal and not a ledger to correct."
-        },
-        {
-          "t": "n",
-          "i": 13,
-          "x": "[K053 — Practice recognizing the kindness you have received](card:K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received): the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually."
-        },
-        {
-          "t": "n",
-          "i": 14,
-          "x": "[K034 — Be grateful to everyone](card:K034%20%E2%80%94%20Be%20grateful%20to%20everyone): the thirteenth lojong slogan, whose gratitude includes the harmful, with Trungpa's commentary that the difficult are presenting the chance to practise."
-        },
-        {
-          "t": "n",
-          "i": 15,
-          "x": "[Thanksgiving as sacrifice](card:Thanksgiving%20as%20sacrifice): the Psalm's line, the offering-side of thankfulness, cited by the fundamental-stance page as its religious parallel."
+          "t": "p",
+          "x": "The contemplative traditions extend the remembrance outward. [K053 — Practice recognizing the kindness you have received](card:K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received) carries the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually. [K034 — Be grateful to everyone](card:K034%20%E2%80%94%20Be%20grateful%20to%20everyone) is the thirteenth lojong slogan, whose gratitude includes the harmful, with Trungpa's commentary that the difficult are presenting the chance to practise. [Thanksgiving as sacrifice](card:Thanksgiving%20as%20sacrifice) is the Psalm's line, the offering-side of thankfulness."
         },
         {
           "t": "h2",
-          "x": "The attention theory: counting what is good"
+          "x": "What the counting practice works on"
         },
         {
-          "t": "n",
-          "i": 16,
-          "x": "[AF063 — Practise gratitude: it recalibrates attention toward what is good](card:AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good): the mechanism as the lab frames it, a practice of directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries."
+          "t": "p",
+          "x": "The mechanism as the lab frames it is attention itself. [AF063 — Practise gratitude: it recalibrates attention toward what is good](card:AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good) holds the practice as directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries. [PP013 — Practise gratitude with specificity](card:PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity) carries the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card."
         },
         {
-          "t": "n",
-          "i": 17,
-          "x": "[PP013 — Practise gratitude with specificity](card:PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity): the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card."
+          "t": "p",
+          "x": "Dose matters. The 2005 interventions carried on [PP063 — Dose appropriately](card:PP063%20%E2%80%94%20Dose%20appropriately) found the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them."
         },
         {
-          "t": "n",
-          "i": 18,
-          "x": "[PP063 — Dose appropriately](card:PP063%20%E2%80%94%20Dose%20appropriately): the 2005 interventions where the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them."
+          "t": "p",
+          "x": "The Kataññu Suttas frame gratitude as a mark of integrity, with parents as the clearest case and even extreme service not discharging the debt, carried on [B112 — Practice gratitude: recognize your conditions](card:B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions). [Hedonic adaptation](card:Hedonic%20adaptation) is the taking-for-granted treadmill the counting practice counters, in Brickman and Campbell's original image, and [savoring](card:Savoring) is its present-tense cousin: attention, not acquisition, stopping the good moment from passing unnoticed."
         },
         {
-          "t": "n",
-          "i": 19,
-          "x": "[AT021 — Learn to attend to the positive deliberately](card:AT021%20%E2%80%94%20Learn%20to%20attend%20to%20the%20positive%20deliberately%20%E2%80%94%20attention%20training%20for%20well-being): the two things that go by the name of attention training, gaze trained toward positive information, and the bias-modification family whose meta-analysis was less encouraging."
+          "t": "p",
+          "x": "The adversity-side relation is [benefit finding](card:Benefit%20finding), finding good in a stressor, with the meta-analytic finding that it tracks both more well-being and more intrusive thoughts about the stressor. Epicurus's memory as a source of present pleasure, in his own last letter, is carried on [X011 — Bank gratitude for past pleasures, and draw on it in need](card:X011%20%E2%80%94%20Bank%20gratitude%20for%20past%20pleasures%2C%20and%20draw%20on%20it%20in%20need)."
         },
         {
-          "t": "n",
-          "i": 20,
-          "x": "[B112 — Practice gratitude: recognize your conditions](card:B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions): the Kataññu Suttas' framing of gratitude as a mark of integrity, with parents as the clearest case and even extreme service not discharging the debt."
-        },
-        {
-          "t": "n",
-          "i": 21,
-          "x": "[Hedonic adaptation](card:Hedonic%20adaptation): the taking-for-granted treadmill the counting practice counters, in Brickman and Campbell's original image."
-        },
-        {
-          "t": "n",
-          "i": 22,
-          "x": "[Savoring](card:Savoring): attention, not acquisition, stopping the good moment from passing unnoticed; gratitude's present-tense cousin."
-        },
-        {
-          "t": "n",
-          "i": 23,
-          "x": "[Benefit finding](card:Benefit%20finding): the adversity-side relation, finding good in a stressor, with the meta-analytic finding that it tracks both more well-being and more intrusive thoughts about the stressor."
-        },
-        {
-          "t": "n",
-          "i": 24,
-          "x": "[X011 — Bank gratitude for past pleasures, and draw on it in need](card:X011%20%E2%80%94%20Bank%20gratitude%20for%20past%20pleasures%2C%20and%20draw%20on%20it%20in%20need): Epicurus's memory as a source of present pleasure, in his own last letter."
-        },
-        {
-          "t": "n",
-          "i": 25,
-          "x": "[K068 — Practice gratitude as the fundamental stance](card:K068%20%E2%80%94%20Practice%20gratitude%20as%20the%20fundamental%20stance): Tanabe's philosophy as returned to the world in an act of gratitude, with the daily routine of naming one thing that was given and not earned."
-        },
-        {
-          "t": "n",
-          "i": 26,
-          "x": "[Fundamental stance](card:Fundamental%20stance): Jaspers's settled postures from which a whole life thinks and sees, the category the stance belongs to."
+          "t": "p",
+          "x": "Tanabe's philosophy is returned to the world in an act of gratitude, with the daily routine of naming one thing that was given and not earned, carried on [K068 — Practice gratitude as the fundamental stance](card:K068%20%E2%80%94%20Practice%20gratitude%20as%20the%20fundamental%20stance). [Fundamental stance](card:Fundamental%20stance) is Jaspers's category of settled postures from which a whole life thinks and sees."
         },
         {
           "t": "h2",
-          "x": "The relationship theory: the bond as the beneficiary"
+          "x": "What the bond receives"
         },
         {
-          "t": "n",
-          "i": 27,
-          "x": "[Active constructive responding](card:Active%20constructive%20responding): meeting another's shared good news with enthusiasm, the capitalization research on the receiving side of the bond."
+          "t": "p",
+          "x": "The receiving side of the bond has its own research. [Active constructive responding](card:Active%20constructive%20responding) is meeting another's shared good news with enthusiasm, the capitalization research. Kumar and Epley's finding, carried on [BE055 — Learn to express gratitude behaviourally: thank others](card:BE055%20%E2%80%94%20Learn%20to%20express%20gratitude%20behaviourally%20%E2%80%94%20thank%20others), is that expressers underestimate how positive and overestimate how awkward recipients will feel."
         },
         {
-          "t": "n",
-          "i": 28,
-          "x": "[BE055 — Learn to express gratitude behaviourally: thank others](card:BE055%20%E2%80%94%20Learn%20to%20express%20gratitude%20behaviourally%20%E2%80%94%20thank%20others): Kumar and Epley's finding that expressers underestimate how positive and overestimate how awkward recipients will feel."
-        },
-        {
-          "t": "n",
-          "i": 29,
-          "x": "[Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29): the unadulterated goodness felt when something good happens for someone else, the other-directed cousin."
-        },
-        {
-          "t": "n",
-          "i": 30,
-          "x": "[Four immeasurables](card:Four%20immeasurables): each a stance toward a condition: mudita is metta meeting good fortune, joy in another's happiness even when one contributed nothing to it."
-        },
-        {
-          "t": "n",
-          "i": 31,
-          "x": "[Enemy as teacher](card:Enemy%20as%20teacher): Śāntideva's closing turn, longing for an enemy like a treasure discovered in the home, because forbearance depends on the hostile intention."
+          "t": "p",
+          "x": "[Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29) is the unadulterated goodness felt when something good happens for someone else, and [four immeasurables](card:Four%20immeasurables) holds each as a stance toward a condition: mudita is metta meeting good fortune, joy in another's happiness even when one contributed nothing to it. Śāntideva's closing turn, longing for an enemy like a treasure discovered in the home, because forbearance depends on the hostile intention, is carried on [enemy as teacher](card:Enemy%20as%20teacher)."
         },
         {
           "t": "h2",
-          "x": "Contentment, sufficiency, and finitude"
+          "x": "What sufficiency has to do with it"
         },
         {
-          "t": "n",
-          "i": 32,
-          "x": "[Santosha](card:Santosha): the Yoga-sutra's one line, that by contentment the acquisition of extreme happiness, with Vyasa's commentary on \"extreme.\""
+          "t": "p",
+          "x": "The Yoga-sutra's one line, that by contentment the acquisition of extreme happiness, with Vyasa's commentary on \"extreme,\" is [santosha](card:Santosha). The Daodejing's contentment that needs fear no shame, the knowing-when-to-stop that gratitude shares a border with, is [sufficiency](card:Sufficiency)."
         },
         {
-          "t": "n",
-          "i": 33,
-          "x": "[Sufficiency](card:Sufficiency): the Daodejing's contentment that needs fear no shame, the knowing-when-to-stop that gratitude shares a border with."
+          "t": "p",
+          "x": "Marcus Aurelius's placement of the Stoic's self-sufficiency in one's own mind is [S026 — Practise contentment with what you have](card:S026%20%E2%80%94%20Practise%20contentment%20with%20what%20you%20have), and the Daodejing chapter 46 naming of the failure, no disaster greater than not knowing contentment, is [D030 — Contentment is the greatest wealth](card:D030%20%E2%80%94%20Contentment%20is%20the%20greatest%20wealth)."
         },
         {
-          "t": "n",
-          "i": 34,
-          "x": "[S026 — Practise contentment with what you have](card:S026%20%E2%80%94%20Practise%20contentment%20with%20what%20you%20have): Marcus Aurelius's placement of the Stoic's self-sufficiency in one's own mind."
-        },
-        {
-          "t": "n",
-          "i": 35,
-          "x": "[D030 — Contentment is the greatest wealth](card:D030%20%E2%80%94%20Contentment%20is%20the%20greatest%20wealth): the Daodejing chapter 46 naming of the failure, no disaster greater than not knowing contentment."
-        },
-        {
-          "t": "n",
-          "i": 36,
-          "x": "[X016 — Pair patience and gratitude as the two meters of every state](card:X016%20%E2%80%94%20Pair%20patience%20and%20gratitude%20as%20the%20two%20meters%20of%20every%20state): the Quran's pairing, whoever is steadfast, grateful, as the two readings of one condition."
-        },
-        {
-          "t": "n",
-          "i": 37,
-          "x": "[E054 — Practise finitude as gift](card:E054%20%E2%80%94%20Practise%20finitude%20as%20gift): Heidegger's death as a limit that belongs to one's own existence, the facing of which discloses the possibilities one can actually choose."
+          "t": "p",
+          "x": "The Quran's pairing, whoever is steadfast, grateful, as the two readings of one condition, is [X016 — Pair patience and gratitude as the two meters of every state](card:X016%20%E2%80%94%20Pair%20patience%20and%20gratitude%20as%20the%20two%20meters%20of%20every%20state). Heidegger's death as a limit that belongs to one's own existence, the facing of which discloses the possibilities one can actually choose, is [E054 — Practise finitude as gift](card:E054%20%E2%80%94%20Practise%20finitude%20as%20gift)."
         },
         {
           "t": "h2",
-          "x": "Ecological and inherited gratitude"
+          "x": "What is owed to what one stands on"
         },
         {
-          "t": "n",
-          "i": 38,
-          "x": "[Ecological gratitude](card:Ecological%20gratitude): gratitude directed at the natural world, with the card's own correction of the Mayer and Frantz citation and the study that links gratitude and nature connection directly."
-        },
-        {
-          "t": "n",
-          "i": 39,
-          "x": "[R128 — Practise ecological gratitude](card:R128%20%E2%80%94%20Practise%20ecological%20gratitude): Kimmerer's Honorable Harvest, taking only what you need and never more than half."
-        },
-        {
-          "t": "n",
-          "i": 40,
-          "x": "[R058 — Practise filial piety (xiao)](card:R058%20%E2%80%94%20Practise%20filial%20piety%20%28xiao%29): the Confucian form of gratitude to those one stands on, with the Analects' care that support without reverence is what dogs and horses also do."
+          "t": "p",
+          "x": "Gratitude directed at the natural world is [ecological gratitude](card:Ecological%20gratitude), with the card's own correction of the Mayer and Frantz citation and the study that links gratitude and nature connection directly. Kimmerer's Honorable Harvest, taking only what you need and never more than half, is [R128 — Practise ecological gratitude](card:R128%20%E2%80%94%20Practise%20ecological%20gratitude). The Confucian form of gratitude to those one stands on, with the Analects' care that support without reverence is what dogs and horses also do, is [R058 — Practise filial piety (xiao)](card:R058%20%E2%80%94%20Practise%20filial%20piety%20%28xiao%29)."
         },
         {
           "t": "h",
@@ -16302,7 +16174,55 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Which effect is primary in ordinary life, the feeler's attention or the bond's maintenance, is a question an essayist can take up rather than one the research settles; the practices here split along the same line, attention practices on one side, expression practices on the other. No verified disagreement is recorded on this theme, and the map's classical anchors were checked instead: Seneca's location of the benefit in the goodwill rather than the thing given, and Aristotle's account of returning honour and doing what one can when equivalent repayment is impossible, both checked against their sources."
+          "x": "Which effect is primary in ordinary life, the feeler's attention or the bond's maintenance, is a question an essayist can take up rather than one the research settles; the practices here split along the same line, attention practices on one side, expression practices on the other."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "What measures the return for a benefit"
+        },
+        {
+          "t": "p",
+          "x": "The two accounts start from different places. Seneca locates the benefit itself in the giver's goodwill: \"neither gold, nor silver, nor any of those things which are most highly esteemed, are benefits, but the benefit lies in the goodwill of him who gives them\" ([Seneca, On Benefits I.5, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. A great sum given \"neither with discernment nor with good will\" is for him no benefit at all (On Benefits I.6), and much of the debt is discharged on the spot: \"a benefit is repaid by being acknowledged\" (On Benefits I.1)."
+        },
+        {
+          "t": "p",
+          "x": "Aristotle asks a different question — what the return should be — and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation. The two accounts have not been shown to rule on the same transaction, so this is recorded as a contrast of starting points, not a demonstrated incompatibility: Seneca's measure is the giver's will, Aristotle's is the kind of relationship the exchange sits inside. Whether a case exists where the two measures give opposed verdicts on the same act is left open for research."
+        },
+        {
+          "t": "h2",
+          "x": "Can the debt to parents ever be repaid"
+        },
+        {
+          "t": "p",
+          "x": "Both texts deny that material service can equal what parents gave. Aristotle: toward gods and parents \"no one could ever return to them the equivalent of what he gets, but the man who serves them to the utmost of his power is thought to be a good man,\" and \"there is nothing by doing which a son will have done the equivalent of what he has received, so that he is always in debt\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation."
+        },
+        {
+          "t": "p",
+          "x": "The Kataññu Suttas: carrying both parents on the shoulders for a hundred years, or establishing them in \"absolute sovereignty over this great earth,\" does not repay — \"you would not in that way pay or repay your parents\" — but one class of act does repay: \"anyone who rouses his unbelieving mother & father, settles & establishes them in conviction; rouses his unvirtuous mother & father, settles & establishes them in virtue... To this extent one pays & repays one's mother & father\" ([AN 2.31–32, Thanissaro trans., accesstoinsight](https://www.accesstoinsight.org/tipitaka/an/an02/an02.031.than.html)): Primary text; Thanissaro Bhikkhu's translation."
+        },
+        {
+          "t": "p",
+          "x": "What the passages do not settle is whether these are opposed answers or the same answer in different currencies: Aristotle commends service to the utmost of one's ability and says nothing here about establishing parents in virtue; the suttas name that establishing as the repayment and do not discuss service short of it. Whether Aristotle would deny that those acts repay is not established by the opened text, so this is recorded as a second contrast, not a demonstrated incompatibility."
+        },
+        {
+          "t": "h2",
+          "x": "Does unequal rank exclude a claim to gratitude"
+        },
+        {
+          "t": "p",
+          "x": "Seneca answers no: \"he who affirms that a slave does not sometimes confer a benefit upon his master is ignorant of the rights of man; for the question is, not what the station in life of the giver may be, but what his intentions are. The path of virtue is closed to no one... whether they be free-born men, slaves or freed-men, kings or exiles\" — therefore \"slaves can bestow benefits upon their masters\" ([Seneca, On Benefits III.18, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III)): Primary text; Stewart's translation."
+        },
+        {
+          "t": "p",
+          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" — \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)): Primary text; Helen Zimmern's translation, section 260. On the same question — whether a benefit received from someone of lower rank creates a claim — the two texts give incompatible answers."
+        },
+        {
+          "t": "p",
+          "x": "A related extension sits beside this dispute rather than inside it: the lojong slogan \"Be grateful to everyone\" is taught as gratitude even toward people presenting threats or challenges: \"the idea here is to feel grateful that others are presenting us with tremendous obstacles— even threats or challenges. The point is to appreciate that. Without them, we could not follow the path at all\" ([Trungpa, Training the Mind, slogan 13](https://terebess.hu/english/coll2.pdf)): Primary text; Chögyam Trungpa's commentary on the mind-training slogans. What none of the three settles is whether gratitude to one who cannot or will not reciprocate is generosity or self-deception; the counting-blessings evidence, which measures the practitioner, does not speak to it."
         },
         {
           "t": "h",
@@ -16320,27 +16240,27 @@ window.fcDossiersData = {
         },
         {
           "t": "n",
-          "i": 41,
+          "i": 1,
           "x": "[K164 — Gratitude practice](card:K164%20%E2%80%94%20Gratitude%20practice): three things, written or expressed directly, with specificity named as what matters: not a friend in general but what the friend did."
         },
         {
           "t": "n",
-          "i": 42,
+          "i": 2,
           "x": "[K212 — Gratitude expression](card:K212%20%E2%80%94%20Gratitude%20expression): the gratitude visit from Seligman's intervention study, reported on the card with its own raw-text check of the paper as the largest immediate effect of the five exercises tested, lasting about a month before it fades."
         },
         {
           "t": "n",
-          "i": 43,
+          "i": 3,
           "x": "[K280 — Gratitude for sufficiency](card:K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, one thing you already have that is enough, targeting the mechanism of desire rather than the mood."
         },
         {
           "t": "n",
-          "i": 44,
+          "i": 4,
           "x": "[K110 — Savoring](card:K110%20%E2%80%94%20Savoring): the present-tense cousin, stopping the good moment from passing unnoticed."
         },
         {
           "t": "n",
-          "i": 45,
+          "i": 5,
           "x": "[K157 — Evening review](card:K157%20%E2%80%94%20Evening%20review): the last quarter hour of the day, three questions in writing; the card's report that the written form outperformed more practice in the field experiment."
         },
         {
