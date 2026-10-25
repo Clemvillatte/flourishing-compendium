@@ -1303,9 +1303,14 @@
  },
  "K284": {
   "mods": [
-   "general"
+   "Stoic"
   ],
-  "evidence": []
+  "evidence": [
+   [
+    "card body: \"The Stoic ground is quoted above\" (Stoic role-ethics practice)",
+    "Stoic"
+   ]
+  ]
  },
  "K285": {
   "mods": [
