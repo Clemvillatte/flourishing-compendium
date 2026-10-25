@@ -368,3 +368,13 @@ still blocks module production.
   placement beside the pragmatists remaining the scope's own choice;
   the gap flag is downgraded accordingly. Both scope docs and both
   ledgers updated.
+- 2026-10-25 strategist-pplx-1025-launch-c (superseding correction to the
+  Gate-1 groundwork entry above): the Buddhism line said rebirth
+  cosmology is excluded "though all three anchors teach it" — narrowed:
+  all three anchors teach karma and rebirth; UF and Bond pair it with
+  cosmology explicitly; HKU names karma and rebirth only. The scope's
+  exclusion line is rebirth cosmology (with abhidharma scholastics and
+  tantric ritual), not karma-and-rebirth teaching itself. The
+  existentialism and positive-psychology benchmark claims were
+  narrowed the same way (anchor-set phrasing instead of per-anchor
+  claims; effect-size instruction marked proposed, not established).
