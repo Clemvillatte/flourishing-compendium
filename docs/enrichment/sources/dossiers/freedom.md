@@ -338,3 +338,59 @@ headers, 10 external carriers); density 0; quote_verify 11 checked /
 2 not found (both the Constant PDF spans, exception recorded above);
 prose em dashes outside quotes and card-title link text: zero (the
 three flagged lines all sit inside card-title link text).
+
+## Advisor QC round 1 applied; publication withdrawn (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+The advisor blocked the publication and the flip was reverted (registry
+back to "planned", app.js rebuilt, commit a339f14). Its corrections are
+applied to both sections:
+
+1. Rousseau section: "rescue rather than coercion" replaced with the
+   accurate statement that Rousseau does not deny the compulsion, he
+   re-describes it as freedom-preserving; the "after the Revolution
+   had run the experiment" framing replaced with Constant's own view
+   of the revolutionary leaders ("steeped in ancient views which are
+   no longer valid", verified verbatim against the same archive.org
+   PDF this session); the unsupported universal claim about collective
+   self-authorship removed and replaced with what the excerpt supports
+   (the self-binding of a collective rides over private independence);
+   the first-person lean now answers the same political question
+   (leaning Constant), with the personal-scale self-binding analogy
+   kept but marked as an analogy, not Rousseau's political claim.
+2. Skinner section: retitled "Is choice an explanatory starting
+   point?" to match the evidence (the target is choice as uncaused
+   cause, not the existence of persons); the Frankl category error
+   fixed (the freedom is the choice of attitude, not the person); the
+   two-level reconciliation now marked as a tentative editorial
+   position that states the positions side by side rather than
+   resolving them.
+3. Carriers opened this session to close the evidence gaps: SEP
+   Sartre (Reynolds and Renaudie) - the "No factual state" sentence
+   confirmed verbatim and now cited directly; Wikipedia Logotherapy -
+   the Frankl "last of the human freedoms" sentence confirmed
+   verbatim; the Constant PDF bibliographical note read - the text
+   reproduces the Cours de politique constitutionnelle (1820)
+   publication of the 1819 speech, no translator named, and the
+   citation now says so.
+4. ST047 card: the Wikiquote carrier for the Doctor Zhivago note
+   opened via the MediaWiki API (the page is "Christopher
+   McCandless", not "Chris McCandless"); the note confirmed as
+   "HAPPINESS ONLY REAL WHEN SHARED." written on a page in his copy
+   of Doctor Zhivago, listed by Wikiquote under "Disputed", sourced
+   to Krakauer, Into the Wild, p. 188; the unverified "as he
+   weakened" timing removed from the card; the card's source line now
+   names the page and the dispute flag.
+
+Publication remains blocked pending a third independently supported
+disagreement or an explicit owner waiver of the 3-5 bar.
+
+Post-QC checks: the 191-word prose wall flagged by dossier_check was
+split at its argument joints (comparison side / what the disagreement
+turns on / the tentative position); the SEP Sartre span is now a
+paraphrase with citation so the quoted-span check is not broken by a
+bracket edit. dossier_check exit 0 (16 links, 9 headers, 11 carriers),
+density 0, quote_verify 13 checked / 4 not found (all four are the
+Constant archive.org PDF spans, exception recorded above), prose em
+dashes outside quotes and card-title link text: zero. Publication
+remains blocked pending a third independently supported disagreement
+or an explicit owner waiver.
