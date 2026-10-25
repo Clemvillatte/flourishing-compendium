@@ -187,3 +187,15 @@ calendar and Stanford description do not establish the point).
 
 Module 1 workload figures of record: 4h41m superseded by 4h50m superseded
 by 5h06m (current, component arithmetic in the module doc).
+
+## Corrections round 3 (recorded 2026-10-25T08:44Z from the clock, worker-pplx-greek-1)
+
+Manifest status column withdrawal: the first harvest-manifest draft printed
+durations for AR-05 (32:47), ST-01 (16:29) and ST-02 (11:11) and a
+"third-party documentary" content flag on AR-05. None of these is supported
+by the fcAcademyData records (all five mod-phil-2 video records carry empty
+durations) or by the deg-verify evidence file, which prints AR-05 1:15:00 as
+Adam Rosenfeld's own UNCG PHI 251 session, ST-01 29:09 and ST-02 49:57. The
+status column in the scope doc is corrected to defer to the manifest
+correction section, which quotes the verifier file; the unsupported figures
+are withdrawn. No other file in the band carries them.

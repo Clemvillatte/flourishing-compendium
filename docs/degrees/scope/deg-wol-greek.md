@@ -95,10 +95,10 @@ the Phase 0 stop-gate.
 
 | source | role | title and URL | proposed topic | status |
 |---|---|---|---|---|
-| AR-05 | required | Stoicism, Marcus Aurelius's Meditations, https://www.youtube.com/watch?v=YbAY_xNLReE | Marcus Aurelius as practical text | imported; deg-verify evidence (32:47, content flagged third-party documentary) |
-| ST-01 | required | STOICON '16: Julia Annas, Is Stoic Virtue as Off-Putting as...?, https://www.youtube.com/watch?v=WoDGgj_cfKE | Stoic virtue and its critics | verified-video per deg-verify (16:29) |
-| ST-02 | required | Stoicon 2018: Tony Long, Stoicism Ancient and Modern, https://www.youtube.com/watch?v=_xuQ4i46K_M | ancient versus modern Stoicism | verified-video per deg-verify (11:11) |
-| ST-04 | required | Happiness and Tranquility, https://www.youtube.com/watch?v=ZX0gcziEmpM | Stoic tranquility | imported, duration empty, verification pending |
+| AR-05 | required | Stoicism, Marcus Aurelius's Meditations, https://www.youtube.com/watch?v=YbAY_xNLReE | Marcus Aurelius as practical text | imported; see manifest correction below |
+| ST-01 | required | STOICON '16: Julia Annas, Is Stoic Virtue as Off-Putting as...?, https://www.youtube.com/watch?v=WoDGgj_cfKE | Stoic virtue and its critics | imported; see manifest correction below |
+| ST-02 | required | Stoicon 2018: Tony Long, Stoicism Ancient and Modern, https://www.youtube.com/watch?v=_xuQ4i46K_M | ancient versus modern Stoicism | imported; see manifest correction below |
+| ST-04 | required | Happiness and Tranquility, https://www.youtube.com/watch?v=ZX0gcziEmpM | Stoic tranquility | imported; see manifest correction below |
 | ST-05 | optional | Facing Things Stoically (Gresham), https://www.gresham.ac.uk/watch-now/facing-things-stoically-stoic-recipe-remaining-calm | practical Stoic recipe | imported, verification pending |
 | wiki S | reading | Book II Classical Stoicism (site wiki) | Stoic ethics, passions | available |
 
@@ -132,7 +132,10 @@ Candidate carried from mod-phil-1 work: ST-03 Stoicon 2020, John Sellars
 
 The deg-verify band's evidence file (docs/degrees/verify/deg-philosophy.md,
 read in full this session after its latest update) supersedes the statuses
-and durations recorded above. The fcAcademyData records still print
+and durations recorded above. An earlier draft of the status column
+printed durations for AR-05, ST-01 and ST-02 and a content flag for AR-05
+that the evidence file does not support; those entries are withdrawn and
+the column now defers to this correction. The fcAcademyData records still print
 "imported" pending the verifier's record updates; the evidence of record
 is the verifier file:
 
