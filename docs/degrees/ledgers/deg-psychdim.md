@@ -148,6 +148,25 @@ opened event page.
 | The secret habits that control your life | [watch](https://www.youtube.com/watch?v=Ywec1MbeQDk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Ywec1MbeQDk&format=json), [credential](https://dornsife.usc.edu/wendy-wood/) | 6:18 | 2022-05-26 (watch page) | Wendy Wood, Provost Professor Emerita of Psychology and Business, USC | M7 overt behavioural (habits) |
 | Inaugural Lecture: Unravelling Early Self Regulation | [watch](https://www.youtube.com/watch?v=2ZS_f1cbrKk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=2ZS_f1cbrKk&format=json), [event page](https://www.education.ox.ac.uk/event/inaugural-lecture-unravelling-early-self-regulation-professor-steven-howard/), [credential](https://www.education.ox.ac.uk/person/professor-steven-howard/) | 58:54 | not stated on the opened pages | Steven Howard, Senior Academic Research Leader in Child Development and Education, Oxford | M7 self-regulation; the opened event page describes the lecture as discussing why early self-regulation interventions often have small effects, and a research program on the nature, development and mechanisms of self-regulation |
 
+Additional inspection (2026-10-25, batch 16): lecture 17 (Self and
+Other, Part II, 64:53) had its chapter outline recorded (Introduction
+[00:00:00]; First and Fast: How We Form Impressions of Others
+[00:01:39]; Positive Uses and Negative Effects of Stereotypes
+[00:11:15]; Implicit Attitudes [00:27:19]; Question and Answer on
+Stereotypes [00:34:47]; The Minor Mystery of Sleep [00:38:09]; The
+Greater Mystery of Dreams [00:44:49]) and chapter 2 read in full:
+Bloom presents first impressions and confirmation bias (Kelley's
+warm-cold bio study; the DC sniper white-van example), thin-slice
+research (Rosenthal and Ambady: five-second clips predict teacher
+evaluations; Big Five judgments from brief exposures; sexual-orientation
+detection slightly better than chance from about one second), and the
+Pygmalion effect (Rosenthal and Jacobson: randomly chosen children
+described as about to bloom in IQ gained more, because teacher
+expectations changed teacher behavior), framing self-fulfilling
+prophecies. This serves the M5 self row. Status for the chapter-2
+segment: verified-video; the remaining segments are candidates until
+their transcripts are read.
+
 Additional inspection (2026-10-25, batch 15): lecture 7 (Language and
 perception-attention-memory content, 59:43) had its chapter outline
 recorded (Non-human Communication [00:00:00]; The Relationship between
@@ -324,7 +343,7 @@ blocking gaps on the register, not quiet omissions.
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
-| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 13 chapter 2 (00:13:53 to 00:19:47, Big Five) and lecture 16 chapter 2 (00:15:56 to 00:22:40, spotlight and transparency effects) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
+| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 13 chapter 2 (00:13:53 to 00:19:47, Big Five), lecture 16 chapter 2 (00:15:56 to 00:22:40, spotlight and transparency effects) and lecture 17 chapter 2 (00:01:39 to 00:11:15, impression formation and Pygmalion effect) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading (content check done: OYC lecture 14 covers sex and gender, not SDT, so it is not a segment for this row) | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
