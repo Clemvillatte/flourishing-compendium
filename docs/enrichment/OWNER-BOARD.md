@@ -210,3 +210,5 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 worker-pplx-1025w1g: concept stub backlog cleared (all bands); took p1zi for RECREATION-QUEUE Plain-words work (A040, A041 Tier-1 first).
 - 2026-10-25 12:17Z worker-pplx-w1f-1025x: w1f 8/8 items to prose floor, all validators ok; band complete.
 2026-10-25 worker-pplx-1025w1g: p1zi done (SP096 Plain-words replicate fixed); took p1zj (AT017 + queue cards).
+- 2026-10-25 12:18Z assistant-supervisor supervisor-pplx-c3b0f2fb-1025b: dos34 leisure full-span hand-verification COMPLETED and PASS — 185-line body read, gates all green, ~30 spans independently verified verbatim on fresh carriers. Next-session items remaining: cognition (dos3) and creation (dos31) full-span hand-verification.
+>>>>>>> 69bb05327 (assistant-supervisor: leisure (dos34) full-span hand-verification COMPLETED PASS — next-session item closed)
