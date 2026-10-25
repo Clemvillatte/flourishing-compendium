@@ -398,8 +398,21 @@ second batch below (verifier-pplx-1025g, 2026-10-25).
 - Content coverage: the host's description states the lecture presents her recent
   research findings on the role of positive emotions in behavior, health and
   connection, with applications for enhancing daily life.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=kVcXZTByLI8&current_language_code=en,
+  opened 2026-10-25) confirms the lecture's substance on the recording: positive
+  emotions "fundamentally change the way the human brain takes in information"
+  (behavior); positivity resonance linked to "low depression, low loneliness,
+  high resilience" and to the trajectory of chronic illness and longevity
+  (health); positivity resonance described as "a warm-hearted connection"
+  building rapport, trust and social bonds (connection); and a recommended
+  "steady diet of positive emotions" with prioritized face-to-face connection
+  (daily-life applications). Caveats: third-party transcript page, no
+  timestamps in the retrieved text; playback itself still not opened.
 - Relevant segment: whole lecture, 1:05:17.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M06-AF13: Radical Acceptance, Our Gateway to Love and Freedom (Tara Brach, IMCW)
 
@@ -413,8 +426,22 @@ second batch below (verifier-pplx-1025g, 2026-10-25).
   meditation from 0:20 and a talk from 21:28 on Radical Acceptance, exploring the
   trance of unworthiness and using mindfulness, self-compassion and the RAIN
   practice (Recognize, Allow, Investigate, Nurture) to loosen self-aversion.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=MRLaqqnhwKs&current_language_code=en,
+  opened 2026-10-25) confirms the class substance: the guided meditation opens the
+  recording ("become aware of your breathing... in the area of the heart"); the
+  trance of unworthiness is a central theme ("how do we wake up out of this
+  trance of feeling like there's something wrong with us"; "I call the trance of
+  unworthiness"); the RAIN acronym is explained as Recognize, Allow,
+  Investigate, Nurture and practiced ("Let's do a brief practice"); radical
+  acceptance is framed as what lets us "love more fully" and "live from Love."
+  Caveats: third-party transcript page, no timestamps in the retrieved text (the
+  0:20/21:28 breakdown remains the description's statement); playback itself
+  not opened.
 - Relevant segment: talk begins at 21:28; whole class runs 1:01:39.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M06-AT07: Human Behavioral Biology, Lecture 1, Introduction (Robert Sapolsky, Stanford)
 
