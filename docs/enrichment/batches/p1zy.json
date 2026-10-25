@@ -80,10 +80,11 @@
   "Y127": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Brhat Brihadaranyaka 2.3.6 (Muller) and SuttaCentral MN 22 (Sujato) opened, quotes verified verbatim; body 'My sources' first-person line reworded; validator PASS",
   "Y132": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 1.3 + 4.34 verified verbatim in archive.org full text, Arnold Song Celestial ch.6 lamp passage verified verbatim at Project Gutenberg; validator PASS",
   "Y020": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 1.11 + Vyasa commentary verified verbatim in archive.org full text; validator PASS",
-  "Y032": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 2.30 commentary + 2.15 gloss + 2.39 verified verbatim in archive.org full text; validator PASS"
+  "Y032": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 2.30 commentary + 2.15 gloss + 2.39 verified verbatim in archive.org full text; validator PASS",
+  "Y073": "Tier-2 plain-words repair 2026-10-25 (worker-pplx-9ff61dc0): Plain words re-derived; Woods 3.1 sutra verified verbatim in archive.org full text (commentary claims kept at the page's quoted level); validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T10:58:28+00:00",
+ "updated": "2026-10-25T10:59:09+00:00",
  "band_done": false
 }

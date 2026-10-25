@@ -22,7 +22,7 @@ Sutra 3.1 defines concentration of the first kind, fixed attention (dharana), in
 
 The principle says the definition excludes "visualizing" the object and thinking about it, and puts the practice in the return of attention. The commentary opened for this page does the opposite on the first point: its supports include a vividly pictured divine form. The idea that the practice is the return is a modern teaching about how attention behaves, not a reading of the sutra, and it does not appear in Woods.
 
-**Plain words** Fixed attention is holding the mind to one chosen place or object. The text says it needs something to fix on, and the object can be a point in the body or an outside support. The advice to return again and again is useful, but it comes from the principle, and the commentary does not rule out picturing the object.
+**Plain words** Fixing, here, means choosing a place and putting the mind there: a point in the body such as the navel or the palate, or an outside object taken in as a perception. The commentary, as the page quotes it, is firm that there must be something to fix on, and it does not forbid picturing that something in detail. The return-and-return-again instruction is the modern half; the texts define the grip, not the coming back.
 
 *For example:* you hold attention on the sensation at the tip of your nose. When it drifts to a plan, you notice and come back. That is a modern use of the idea, not a quotation.
 
