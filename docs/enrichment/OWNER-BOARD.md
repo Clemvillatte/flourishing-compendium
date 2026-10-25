@@ -27,6 +27,7 @@ stay in the loop; agents keep it current with one-line entries.
 - Assistant-supervisor baton: added, free; take it when the supervisor
   queue is overloaded (rules in OPERATIONS.md).
 ## Log
+- 2026-10-25 23:47Z sup-1026a: repo clarity pass — README repo map, docs/README project directory, enrichment INDEX, QC reports archived to qc/, root strays archived; canonical paths unchanged.
 - 2026-10-25 14:59Z gm-c2183cca: kernel/artwork corrections, mortality third dispute, routing and persistence repairs complete. 76 Python tests pass; later quota failures now reach callers.
 - 2026-10-25 14:50Z gm-c2183cca: kernel label repair pushed; 15 inherited origin errors corrected or omitted. Mortality third dispute repaired; supplied artwork installed.
 - 2026-10-25 14:34Z gm-c2183cca: supervisor takeover; correcting kernel origin labels and integrating owner-supplied Meaning & Mortality artwork.
@@ -69,7 +70,7 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:00Z worker-pplx-9ff61dc0: released p1zy (9/9 Tier-2 cards repaired, sources opened verbatim, validators PASS); took p1zzk (next Tier-2 band).
 - 2026-10-25 ~11:00Z (approximate, corrected from 11:15Z which was written ahead of the actual clock) worker-pplx-t2b-1025w: kpr K396 franticworld page opened (description verbatim); transcript re-verified; word-for-word equivalence remains open (related-not-equivalent stands); baton held
 2026-10-25T11:00Z worker-pplx-dos8-1025m: dos8 release re-applied after push-race orphan (20bb4974); all session batons released.
-- 2026-10-25 ~11:05Z worker-pplx-1025-launchb: humanizer campaign complete across free DOS bands — 7 repair passes (sadness-and-grief, right-view, right-intention, right-effort, motivation, right-mindfulness, fear; voice-audit candidates 10->0, 5->3, 9->3, 9->8, 5->4, 10->8, 16->14), 4 keep-only verification passes, 6 bands reviewed no-change, dos30 stale flag cleared; QC-HUMANIZER-1025L.md has the full record; all items verified green on origin/main.
+- 2026-10-25 ~11:05Z worker-pplx-1025-launchb: humanizer campaign complete across free DOS bands — 7 repair passes (sadness-and-grief, right-view, right-intention, right-effort, motivation, right-mindfulness, fear; voice-audit candidates 10->0, 5->3, 9->3, 9->8, 5->4, 10->8, 16->14), 4 keep-only verification passes, 6 bands reviewed no-change, dos30 stale flag cleared; qc/QC-HUMANIZER-1025L.md has the full record; all items verified green on origin/main.
 - 2026-10-25 ~11:01Z (approximate, corrected from 11:18Z which was written ahead of the actual clock) worker-pplx-t2b-1025w: kpr K409 Evidence section brought to kernel standard (both PubMed carriers opened, all claims verbatim-verified, blockquotes added); K409 stays provisional exemplar candidate pending advisor/supervisor confirmation
 - 2026-10-25 11:03Z supervisor launcher-pplx-1025n: freedom.md Kant quote completed — the source sentence continues "and which can therefore scarcely be found so completely on the surface" (Abbott translation, Gutenberg epub 5683, fetched and verified); the dossier now carries the full sentence; freedom data rebuilt and re-spliced. Flag from 10:58Z resolved.
 2026-10-25T11:01Z worker-pplx-dos8-1025m (no baton): full-registry verification sweep - all 41 dossiers pass dossier_check on latest origin (incl. 9 session-touched dossiers; post-carrier-commit re-checks green); all session batons released.
@@ -98,7 +99,7 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 11:13Z worker-pplx-t2b-1025w: releasing kpr (all items awaiting supervisor disposition; QC repairs complete and pushed)
 2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: released p1zm (3 Tier-2 repairs)
 2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: took p1e baton for Tier-2 plain-words repairs
-- 2026-10-25T11:14Z worker-pplx-1025-launchb: FLAG FOR SUPERVISOR — scripts/dossier_build.py run with no arguments is destructive: a scratch run gutted app.js (16k lines) and overwrote the-self.md (both reverted before any push; no damage reached origin). The documented per-slug path (dossier_registry_build.py --rebuild=<slug>) is safe and deterministic. Suggest a guard or deprecation note on the no-args path. Details in QC-HUMANIZER-1025L.md.
+- 2026-10-25T11:14Z worker-pplx-1025-launchb: FLAG FOR SUPERVISOR — scripts/dossier_build.py run with no arguments is destructive: a scratch run gutted app.js (16k lines) and overwrote the-self.md (both reverted before any push; no damage reached origin). The documented per-slug path (dossier_registry_build.py --rebuild=<slug>) is safe and deterministic. Suggest a guard or deprecation note on the no-args path. Details in qc/QC-HUMANIZER-1025L.md.
 - 2026-10-25 11:15Z worker-p1a-1025o: 3 short concepts enriched to bar (attentional-deployment, differentiation, embodied-self); validators ok.
 2026-10-25 11:14 UTC — worker-pplx-9ff61dc0: released p1g (3 Tier-2 repairs)
 2026-10-25 11:14 UTC — worker-pplx-9ff61dc0: took p1zl baton for Tier-2 plain-words repairs

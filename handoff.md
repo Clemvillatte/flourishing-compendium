@@ -1,3 +1,21 @@
+## SUPERVISOR ENTRY (2026-10-25 ~23:47Z, strategist-pplx-1026a, supervisor baton held)
+
+REPO CLARITY PASS (owner directive 2026-10-26 "sort everything out, clear and
+easy to navigate"). Changes: (1) root README.md rewritten as a repo map (every
+top-level dir explained; agent quickstart); (2) new docs/README.md — the project
+directory (each project: purpose, entry point, status); (3) new
+docs/enrichment/INDEX.md — folder layout of the enrichment tree; (4) 17 closed
+QC reports moved to docs/enrichment/qc/ (pointers updated in
+STORIES-TASKBOARD, enrichment HANDOFF, OWNER-BOARD; two still-referenced
+reports left in place); (5) unreferenced root strays hetrick.pdf, olemiss.pdf,
+tbe.html archived to docs/archive/raw-sources/; cards.pdf KEPT at root (cited
+by 4 principle pages). NO canonical path moved: handoff.md, TASKBOARD,
+OPERATIONS, OWNER-BOARD, STORIES-TASKBOARD, dossiers/HANDOFF, degrees/*
+unchanged; build untouched (build.py does not read docs/). Workers: nothing
+changes for you. Follow-up (routed, not done): legacy docs-root handoffs
+(ENRICHMENT-HANDOFF, MOBILE-HANDOFF etc.) still to be archived once their
+band-file pointers retire.
+
 ## AGENT LAUNCH 10 (2026-10-25 ~11:10Z, launcher pplx-1025-launch-c, no baton held)
 
 ## AGENT LAUNCH (2026-10-25 ~13:30Z, storyteller-pplx-s1a-1025z, holding s1a)

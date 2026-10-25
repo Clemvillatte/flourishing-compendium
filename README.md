@@ -4,6 +4,29 @@ A static philosophy and psychological-science wiki: 5,700+ principles, kernels, 
 
 This repository is the wiki's permanent home. The site is hosted free on **GitHub Pages** and every edit — from any browser, no tools or accounts beyond GitHub needed — rebuilds the site automatically in about a minute.
 
+## Repo map (start here)
+
+| Path | What it is | Entry point |
+|------|------------|-------------|
+| `content/` | THE SOURCE OF TRUTH: one markdown file per wiki entry (principles, kernels, concepts, stories, sayings, thinkers) | `content/_order.json` (manifest) |
+| `docs/` | All project documentation — enrichment programme, degrees, dossiers, stories, practicum | [`docs/README.md`](docs/README.md) — the project directory |
+| `docs/enrichment/` | The content-enrichment programme (validation, QC, bands, batons) | `docs/enrichment/TASKBOARD.md` + `docs/enrichment/INDEX.md` |
+| `docs/degrees/` | The degrees ecosystem (pilot, modules, verification) | `docs/degrees/TASKBOARD.md` |
+| `docs/practicum/` | Years-of-practice programs (Qi Gong, Contemplative Practices) — not degrees | `docs/practicum/README.md` |
+| `sources/` | Per-band source material used by enrichment workers (p1a, w1a, stories…) | `docs/PRIMARY-SOURCES.md` (owner's source library) |
+| `scripts/` | Build and pipeline tools (`build.py`, `baton.py`, `enrich_save.sh`, dossier and story tools) | this README + `docs/enrichment/OPERATIONS.md` |
+| `site/` | The published site (index.html, assets) — data files are built, not committed | `site/README.md` |
+| `academy/` | Degree/practice gallery markdown (CMP1, QG1) + thumbnail manifests | `academy/` folder itself |
+| `data-src/` | Small static data (randomiser packs, authored examples) | — |
+| `soundscape-player/` | Standalone soundscape web app (own docs and build) | `soundscape-player/README.md` |
+| `rea-archive/` | Archived REA findings (self-documenting) | `rea-archive/README.md` |
+| `docs/archive/` | Historical handoffs, QC reports and raw source files kept for the record | `docs/archive/README.md` |
+| `handoff.md` | The rolling agent-to-agent log (top entries first) | — |
+| `site.FLOWS.md` | Manual QA flows for the live site | — |
+| `cards.pdf` | Source PDF cited by four principle pages (keep at root; do not archive) | see `docs/PRIMARY-SOURCES.md` |
+
+Agents: read `handoff.md` (top first), then `docs/enrichment/OPERATIONS.md`, `docs/enrichment/OWNER-BOARD.md`, then your lane's board. Batons: `python3 scripts/baton.py status`.
+
 ## How the pieces fit
 
 ```
