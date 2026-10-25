@@ -490,3 +490,35 @@ Withdraws the two preceding entries' design-deliverable claims.
 - Coverage matrix: the Socratic-method row is reverted to GAP (no
   module yet); the earlier update entry above is superseded by this
   correction.
+
+## Fresh source verification for the Socratic-method gap (2026-10-25, worker-pplx-greek-1025y)
+
+Verification only; no module production (the Phase 0 stop-gate ruling is
+still pending, flagged above). These fetches were made this session and
+are recorded here so any future module design can cite fresh evidence
+rather than relying on earlier workers' records alone.
+
+### Sources opened (all URLs opened this session, 2026-10-25)
+
+| URL | what it verified |
+|---|---|
+| https://classics.mit.edu/Plato/apology.html | Apology in Jowett's translation, free. The three passages quoted verbatim this session: "He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing" (the page prints no Stephanus pagination, so 20d-e cannot be confirmed from this source alone); the gadfly passage ("I am that gadfly which God has given the state and all day long and in all places am always fastening upon you, arousing and persuading and reproaching you"; the page prints no Stephanus pagination, so 30e cannot be confirmed from this source alone); and "the life which is unexamined is not worth living" (the page prints no Stephanus pagination, so 38a cannot be confirmed from this source alone). The three Stephanus locators used in the wiki's T011 page are therefore attributed to SEP and other secondary carriers, not to the MIT page itself. |
+| https://classics.mit.edu/Plato/crito.html | Crito in Jowett's translation, free. The two passages quoted verbatim this session: "Then we ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him" (Socrates' first principle, stated as a question to Crito) and "not life, but a good life, is to be chiefly valued... And a good life is equivalent to a just and honorable one". Both passages confirmed present; the page prints no Stephanus pagination. |
+| https://plato.stanford.edu/entries/socrates/ | SEP "Socrates" (Nails & Monoson). Elenchus characterised as a "question-and-answer mode of probing serious matter"; a group of Plato's dialogues are called "elenctic dialogues" for Socrates' preferred method of questioning; the entry notes that in some dialogues Socrates "only weeds the garden of its inconsistencies and false beliefs" (e.g. Laches). The entry does not give a fuller definition of the elenchus or state what it establishes. Stephanus locators: the entry cites Apology 20e-23b for the oracle-and-mission passage, Apology 30a-b for improving the Athenians' souls, and quotes "the unexamined life is not worth living for a human being" citing Apology 38a. The 38a locator is therefore confirmed by SEP; 20d-e and 30e as printed on the wiki's T011 page are not independently confirmed by SEP (SEP cites 20e-23b and 30a-b as broader spans). |
+
+### Implication
+
+For any future module design: the Apology's "unexamined life" locator
+(38a) is independently confirmed by SEP; the "wisdom worth nothing"
+locator (printed 20d-e on the wiki's T011 page) and the gadfly locator
+(printed 30e) should either be re-checked against an edition that prints
+Stephanus pagination or cited to their secondary carriers. The Crito
+passages are confirmed verbatim in Jowett's translation without
+locators on the source page. The elenchus has an opened scholarly
+characterisation (SEP) but no opened account of what it establishes; a
+design that claims more than "probing serious matter" and "weeding
+inconsistencies and false beliefs" needs a further opened scholarly
+source.
+
+This entry does not clear any gate and does not authorise module
+production; the stop-gate ruling is still flagged for the supervisor.
