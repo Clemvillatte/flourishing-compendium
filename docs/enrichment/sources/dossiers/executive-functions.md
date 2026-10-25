@@ -43,6 +43,5 @@ P068, AT045, A056, CO045, B036, ST161, ST064, ST325, Executive function theory M
 
 ## Candidate deepening for the next writer (NOT yet opened/verified — do not cite without opening)
 
-- Friedman et al. 2008 / Miyake & Friedman 2012 nested-factor (Common EF) papers.
-- ADHD-as-interest-based-attention material (card AT069) for a clinical-shadow subsection.
-- Development: ST325 (two-year-old and blocks) as story anchor already linked; a development subsection would need a source.
+- Development: ST325 (two-year-old and blocks) as story anchor already linked; a development subsection would need a source (e.g., the pretend-play/executive-function literature the card references).
+- Possible deeper body topics for the next writer: aging and the executive suite; working-memory training controversies (the same train-vs-transfer dispute shape as self-control practice); the unity/diversity literature beyond 2012 (e.g., Friedman et al. 2008 full nested-factor paper).
