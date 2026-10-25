@@ -30,7 +30,8 @@
     "BE077",
     "BI011",
     "BI006",
-    "AT045"
+    "AT045",
+    "AT011"
   ],
   "in_progress": null,
   "flagged": {
@@ -51,7 +52,7 @@
   },
   "missing_concepts": [],
   "sources_checked": 5,
-  "updated": "2026-10-25T12:30:45+00:00",
+  "updated": "2026-10-25T12:38:52+00:00",
   "band_done": false,
   "notes": {
     "AT045": {
@@ -59,6 +60,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf"
+    },
+    "AT011": {
+      "qc": "Plain-words replicate replaced (0.61 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01083/full"
     }
   }
 }

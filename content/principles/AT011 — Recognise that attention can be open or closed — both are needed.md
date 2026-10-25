@@ -30,7 +30,7 @@ On that reading, "the proper path is one in which vipassana and samatha are brou
 
 An analogy from a different tradition: the Daodejing's pairs produce each other, as in "difficulty and ease produce the one (the idea of) the other" ([Daodejing 2, Legge trans.](https://classics.mit.edu/Lao/taote.mb.txt)).
 
-**Plain words** A camera has one lens and two habits: the tight shot that finds the detail, and the wide shot that finds the room. Attention is the same instrument. The skill is knowing which shot the moment calls for, and switching without pride.
+**Plain words** The lab's two meditation styles are really two postures of the same organ. One narrows the beam until a single object fills it, trading the periphery for depth. The other loosens the beam until the periphery is the object, trading depth for reach. Neither posture is the correct one; the practised meditator is the one who can hand the lens back and forth as the work changes.
 
 *For example:* Imagine revising an essay. You inspect one sentence closely, then reread the whole section to consider how that sentence fits.
 
