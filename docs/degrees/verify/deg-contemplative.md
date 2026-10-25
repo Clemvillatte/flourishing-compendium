@@ -594,6 +594,81 @@ attach them with evidence on file.
 - Relevant segment: whole talk, 1:32:47.
 - Verification status: verified-video.
 
+### M01-D16: Losing the Self in the Philosophy of Zhuangzi (Brook Ziporyn, Tel Aviv)
+
+- Identity and access: oembed confirms the lecture on the School of History, Tel
+  Aviv University channel (https://www.youtube.com/watch?v=6kReRZ22B00).
+- Duration: 1:33:57 (watch page, 2026-10-25).
+- Instructor credentials: Brook Ziporyn (as M01-D04 above, Mircea Eliade Professor,
+  University of Chicago Divinity School).
+- Language: English.
+- Content coverage: the watch page material identifies a lecture on the self in
+  Zhuangzi: what it means to lack a fixed self, context-dependent identity,
+  transformation, comparisons with Buddhist non-self and Hume.
+- Relevant segment: whole lecture, 1:33:57.
+- Verification status: verified-video.
+
+### M01-D17: The Buddhist Conquest of Daoism (Stephen Bokenkamp, Stanford)
+
+- Identity and access: oembed confirms the lecture on The Ho Center for Buddhist
+  Studies at Stanford channel (https://www.youtube.com/watch?v=5yaKnhPVq8s).
+- Duration: 0:57:21 (watch page, 2026-10-25).
+- Instructor credentials: Stephen Bokenkamp, scholar of medieval Daoism (lecture
+  hosted by Stanford's Ho Center, per the host description).
+- Language: English.
+- Content coverage: the host's description states the 9 April 2025 lecture
+  explores how Daoism shaped Chinese Buddhism in the second to sixth centuries CE,
+  with Daoist scripture, ritual and monastic forms developing on Buddhist models.
+- Relevant segment: whole lecture, 57:21.
+- Verification status: verified-video.
+
+### M02-B03: Buddhist Spirituality and the Contemplation of Nature (Charles Hallisey, Brown)
+
+- Identity and access: oembed confirms the lecture on the Brown University channel
+  (https://www.youtube.com/watch?v=Shwt5kEc7ww).
+- Duration: 1:27:39 (watch page, 2026-10-25).
+- Instructor credentials: Charles Hallisey, Harvard Divinity School faculty since
+  2007 to 08, previously Associate Professor at the University of Wisconsin;
+  scholar of Theravada Buddhism in Sri Lanka, Pali literature and Buddhist ethics
+  (per the host description).
+- Language: English.
+- Content coverage: the host's description states the 3 October 2018 lecture covers
+  poetry as contemplative practice in Buddhist spirituality, drawing on Dharmakirti,
+  Dandin and a Sinhala messenger poem.
+- Relevant segment: whole lecture, 1:27:39.
+- Verification status: verified-video.
+
+### M02-B06: The Life of the Buddha (BBC/Discovery documentary)
+
+- Identity and access: oembed confirms the documentary on the Dhamma Source
+  channel (https://www.youtube.com/watch?v=vy5W2Q4r_54). PROVENANCE FLAG: this is
+  a third-party upload of a 2007 BBC/Discovery co-production; the rights-holder is
+  not the uploader. The owner should decide whether a third-party upload of a
+  broadcast documentary is acceptable, or find an official source.
+- Duration: 0:49:57 (watch page, 2026-10-25).
+- Language: English.
+- Content coverage: the uploader's description states the docu-narrative describes
+  the life of Siddhartha Gautama, the fundamentals of Buddhism, archaeology
+  confirming the traditional accounts, and Buddhism today, with interviews
+  including the Dalai Lama.
+- Relevant segment: whole documentary, 49:57.
+- Verification status: verified-video, with the third-party-upload provenance
+  flagged for the owner.
+
+### M02-B08: A Buddhist Perspective on Care of the Dying (Joan Halifax, HDS)
+
+- Identity and access: oembed confirms the lecture on the Harvard Divinity School
+  channel (https://www.youtube.com/watch?v=8tvocWeEmBA).
+- Duration: 1:21:59 (watch page, 2026-10-25).
+- Instructor credentials: Joan Halifax, founding teacher of the Zen Peacemaker
+  Order (per the host description).
+- Language: English.
+- Content coverage: the host's description states this 6 March 2007 lecture, third
+  in the Buddhist Arts of Ministry and Leadership series, covers a Buddhist
+  perspective on care of the dying.
+- Relevant segment: whole lecture, 1:21:59.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15
