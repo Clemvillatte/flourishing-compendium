@@ -742,3 +742,41 @@ card's page citation (p. 72) is confirmed by the running header. The
 card's interpretive claim, that the "or" marks a choice among further
 means after 1.33, is the commentary's own statement. This closes the
 Y048 item left pending in the 1025h ledger entry.
+
+## Remaining pending carriers, re-attempted (2026-10-25, worker-pplx-dos17-1025z)
+
+Three of the four items left pending in the 1025h entry were re-attempted;
+the fourth (ST047 card correction) remains a supervisor item.
+
+Qi IEP carrier: the IEP Yinyang page (https://iep.utm.edu/yinyang/)
+cited by the Qi concept card was opened through the fetch tool's cached
+copy, and both quoted spans matched verbatim: "the most enduring
+interpretation of yinyang in Chinese thought is related to the concept
+of qi" (the page continues "(*ch'i*, vital energy)", which the card's
+in-text quote omits) and "When qi moved, the clear and light rose to be
+heaven and the muddy and heavy fell to become earth. When these two qi
+interacted and attained the stage of harmony (he), human life began."
+Recorded honestly: the live site returned a "Database Error" page on
+repeated direct requests this session, so this verification rests on the
+cached copy the fetch tool opened, not on a fresh live fetch.
+
+Zhuangzi direct fetch: the ctext.org carrier
+(https://ctext.org/zhuangzi/the-great-and-venerable-teacher) remained
+blocked (a ~4 KB block page). The passage was instead verified in an
+alternative openable carrier, James Legge's translation of Zhuangzi
+chapter 6 (PDF at
+https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf),
+which reads: "The breathing of the true man comes (even) from his heels,
+while men generally breathe (only) from their throats. When men are
+defeated in argument, their words come from their gullets as if they
+were vomiting. Where lusts and desires are deep, the springs of the
+Heavenly are shallow." This confirms the ST045 story card's paraphrase
+point for point; the card's own ctext citation was not reopened.
+
+Barsalou PDF: the author-site PDF
+(https://www.barsaloulab.org/Online_Articles/2008-Barsalou-ARP-grounded_cognition.pdf)
+still returns an error page (a 226-byte HTML error redirect), unchanged
+from the previous session. The sentence remains confirmed at card level
+only; the underlying PDF was not opened this session.
+
+ST047 card correction: unchanged, still flagged for the supervisor.
