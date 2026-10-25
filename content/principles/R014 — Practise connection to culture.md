@@ -22,9 +22,9 @@ The chapter's language for what practitioners should support is continuity: a se
 > ...the extent to which a cultural group is able to resist assimilation, maintain cultural continuity, and retain the right of self-determination and sovereignty—will all significantly influence a community's capacity to retain their cultural values, principals, practices, and traditions. This, in turn, will differentially empower or impinge upon individual and family SEWB.
 > (Gee et al., Working Together, 2014, p. 62)
 
-My application follows the chapter's emphasis on participation: keep the language in use, keep the ceremony dates, tell the stories.
+The application follows the chapter's emphasis on participation: keep the language in use, keep the ceremony dates, tell the stories.
 
-**Plain words** In this framework, health includes a person's relationships and cultural life alongside their body and mind. Sharing a language, story or practice with family or community belongs within that picture of wellbeing.
+**Plain words** The framework's claim is unusually strong: culture is not an add-on to health but one of the things health is made of, and a community's hold on its language, stories and practices moves its members' wellbeing. The application keeps the chapter's emphasis: participate. Keep the language alive, keep the ceremony dates, tell the stories.
 
 *For example:* Imagine a household making time at dinner for a grandparent to share a familiar story in their language while younger relatives ask about unfamiliar words.
 
