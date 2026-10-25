@@ -13,9 +13,9 @@ Empiricism is the view that knowledge starts in experience: whatever the mind kn
 
 ### The constructive side
 
-The destructive test rests on Section II's copy principle: "all our ideas are nothing but copies of our impressions". Reasoning can combine and refine the materials that impressions supply, but on Hume's account it has no material of its own. Read together, the two passages give this concept its shape: impressions supply the materials of thought, and the flames test admits two kinds of reasoning, abstract reasoning concerning quantity or number and experimental reasoning concerning matter of fact. A volume containing neither is the one Hume sends to the fire.
+The destructive test rests on Section II's copy principle: "all our ideas are nothing but copies of our impressions". Reasoning can combine and refine the materials that impressions supply, but on Hume's account it has no material of its own. Read together, the two passages give this concept its shape: impressions supply the materials of thought, and the flames test admits two kinds of reasoning, abstract reasoning concerning quantity or number and experimental reasoning concerning matter of fact. A volume containing neither is the one Hume sends to the fire. The practical edge for self-work follows the same line: a concept that cannot be traced back to any impression, outer or inner, is a candidate for retirement, which is the use the compendium's concept-retirement principle makes of the test.
 
-### Here
+### In the compendium
 
 - [[P065 — Experience comes whole — relations are experienced]] — experience arrives whole, before analysis divides it
 - [[P066 — Rest in pure experience before the splits]] — rest in what experience delivers before conceptual divisions

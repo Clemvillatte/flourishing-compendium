@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Connectedness in well-being research” — Diener and Seligman, 2002.
 
-Connectedness in well-being research is my name for findings in which people's ties to others travel with how well their lives go. The study the original entry cites is Diener and Seligman's 2002 paper on very happy people. It screened a sample of 222 undergraduates for high happiness using multiple confirming assessment filters, and compared the upper 10% of consistently very happy people with average and very unhappy groups. The abstract's summary of the comparison:
+Connectedness in well-being research is the compendium's name for findings in which people's ties to others travel with how well their lives go. The study the original entry cites is Diener and Seligman's 2002 paper on very happy people. It screened a sample of 222 undergraduates for high happiness using multiple confirming assessment filters, and compared the upper 10% of consistently very happy people with average and very unhappy groups. The abstract's summary of the comparison:
 
 > The very happy people were highly social, and had stronger romantic and other social relationships than less happy groups. — Diener & Seligman, 2002, *Psychol Sci* 13(1):81–4, [PubMed record (opened)](https://pubmed.ncbi.nlm.nih.gov/11894851/)
 
@@ -18,9 +18,9 @@ The same abstract reports, for this sample:
 
 > No variable was sufficient for happiness, but good social relations were necessary. — Diener & Seligman, 2002, [PubMed record (opened)](https://pubmed.ncbi.nlm.nih.gov/11894851/)
 
-The study is about social ties. My principles extend the connectedness idea further, to land, Country, and the more-than-human world, and that extension is my reading rather than the paper's finding.
+The study is about social ties. The compendium's principles extend the connectedness idea further, to land, Country, and the more-than-human world, and that extension is the compendium's reading rather than the paper's finding. The necessity finding carries the practical weight: good social relations did not by themselves guarantee happiness in this sample, but the unhappy groups were the ones without them, which is why connectedness is treated as a precondition to protect rather than a bonus to schedule.
 
-### Here
+### In the compendium
 
 - [[P065 — Experience comes whole — relations are experienced]] — experience as relational.
 - [[SO013 — Treat cultural meaning as constructed, not given]] — cultural meaning.
