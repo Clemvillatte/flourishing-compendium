@@ -13,13 +13,13 @@ A plan designed from the outset to be revised as the future unfolds, rather than
 
 ### What it holds
 
-The adaptation is announced together with the plan itself. The designers say in advance what signals they will watch, which actions suit which futures, and when to switch, so the plan carries its own instructions for revising itself. The chapter states this directly: "The way a plan is designed to adapt in the face of potential changes in conditions is announced simultaneously with the plan itself rather than taking place in an ad hoc manner post facto" (Kwakkel and Haasnoot 2019, p. 359).
+The adaptation is announced together with the plan itself. The designers say in advance what signals they will watch, which actions suit which futures, and when to switch, so the plan carries its own instructions for revising itself. The chapter states this directly: "The way a plan is designed to adapt in the face of potential changes in conditions is announced simultaneously with the plan itself rather than taking place in an ad hoc manner post facto" (Kwakkel and Haasnoot 2019, ch. 15).
 
-The timing of a change is deliberately left open. "The timing of plan adaptation is not known a priori; it depends on how the future unfolds," and "adaptive planning differs from planned adaptation... where changes generally occur at predetermined moments (e.g., every 5 years)" (Kwakkel and Haasnoot 2019, p. 359). A scheduled review every five years is a different animal, because changes there happen at predetermined moments regardless of what the world actually does.
+The timing of a change is deliberately left open. "The timing of plan adaptation is not known a priori; it depends on how the future unfolds," and "adaptive planning differs from planned adaptation... where changes generally occur at predetermined moments (e.g., every 5 years)" (Kwakkel and Haasnoot 2019, ch. 15). Planned adaptation, in the same chapter's terms, reviews conditions at predetermined moments and adjusts the plan there; adaptive planning instead conditions the change itself on observed developments.
 
 ### Where the contrast lives
 
-A specific plan is not automatically bad. In one experiment, participants with a specific plan acted on a goal more often than those holding a broad intention when time was ample. The same specific plan became a liability when recognising and seizing an alternative opportunity was essential, because "participants failed to capitalize on an alternative opportunity for achieving the goal" (Masicampo and Baumeister 2012, abstract; [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)). Where changing course is cheap, hold plans loosely. Where it is expensive, buy the flexibility in advance rather than discover the need later.
+A specific plan is not automatically bad. In one experiment, participants with a specific plan acted on a goal more often than those holding a broad intention when time was ample. The same specific plan impaired attainment under insufficient time, when recognising and seizing an alternative opportunity was essential, because "participants failed to capitalize on an alternative opportunity for achieving the goal" (Masicampo and Baumeister 2012, abstract; [author PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2012SocialCognition.pdf)). Where changing course is cheap, hold plans loosely. Where it is expensive, buy the flexibility in advance rather than discover the need later.
 
 ### How it explains
 
@@ -27,7 +27,7 @@ Gary Klein's Flexecution model offers the mechanistic account. Klein found that 
 
 ### How it relates to flourishing
 
-The distinction is a piece of wisdom infrastructure. A plan you intend to keep regardless of evidence is an identity commitment; one you intend to revise is an instrument. Naming the revision conditions in advance means changing your mind later is not a failure of character but the plan working as designed.
+A plan you intend to keep regardless of evidence is a different thing from one you intend to revise. Naming the revision conditions in advance makes changing your mind later an ordinary act of the plan working rather than a failure of character.
 
 ### Practice
 
