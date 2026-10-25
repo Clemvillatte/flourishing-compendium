@@ -379,3 +379,65 @@ embedded in a natural sentence rather than standing in a `label:
 description` line. The Story section retains its one-line loglines as
 the format allows. Checker exit 0; density check 0 dense. Band
 dos26 baton claimed, worked and released this session.
+
+## 3-5-bar repair: genuine disagreements (supervisor-pplx-1025h, 2026-10-25)
+
+Exhaustive-search note: the dossier previously recorded "no verified
+disagreement on this theme" (standing ledger entry). This repair adds the
+"Where the traditions genuinely disagree" section from five primary
+sources, each opened and quoted verbatim this session:
+
+1. Seneca, On Benefits (Stewart trans., Wikisource, On_Benefits/Book_I and
+   /Book_III): I.1 "a benefit is repaid by being acknowledged"; I.5 "the
+   benefit lies in the goodwill of him who gives them" + "neither with
+   discernment nor with good will"; III.18 slave-benefit ruling ("ignorant
+   of the rights of man... The path of virtue is closed to no one... slaves
+   can bestow benefits upon their masters"). Section numbers located from
+   the Wikisource section markers.
+2. Aristotle, Nicomachean Ethics VIII (Ross trans., Internet Classics
+   Archive): VIII.13 "It is disputable whether we ought to measure a
+   service..." + utility/virtue split; VIII.14 parents "no one could ever
+   return to them the equivalent" + "always in debt". Section numbers
+   located from the MIT text's own section markers (13/14).
+3. Kataññu Suttas, AN 2.31-32 (Thanissaro trans., accesstoinsight,
+   an02.031.than.html): "you would not in that way pay or repay your
+   parents"; "To this extent one pays & repays one's mother & father".
+   Both spans verified against the fetched page text.
+4. Nietzsche, BGE 260 (Zimmern trans., Project Gutenberg 4363): "one has
+   duties only to one's equals" + "prolonged gratitude and prolonged
+   revenge--both only within the circle of equals". Verified against the
+   fetched full text; the translation credit was corrected to Zimmern
+   after the first draft wrongly said "Common trans." (advisor catch).
+5. Trungpa, Training the Mind (slogan 13, "Be grateful to everyone"),
+   carrier terebess.hu/english/coll2.pdf: "the idea here is to feel
+   grateful that others are presenting us with tremendous obstacles...
+   Without them, we could not follow the path at all". PDF downloaded and
+   the span verified against the extracted text.
+
+QC history: the first draft of the section was reviewed by the advisor and
+returned as a publication blocker (overstated Q1/Q2 contrasts, unverified
+lojong slogan, wrong BGE translation credit, workflow narration on the
+page). The section was rewritten: Q1 now states the disagreement as
+scoped to relationships of use (Aristotle's virtue-friendship ruling
+converges with Seneca, which the section says openly); Q2 now presents
+Aristotle as holding that no act repays ("always in debt") against the
+suttas' claim that one class of act does repay; Q3 was rebuilt on Seneca
+III.18 (slave benefits) against BGE 260's noble morality, with the lojong
+position now quoted from the opened carrier. Verification narration was
+moved off the page into this ledger entry.
+
+Checks after rewrite: dossier_check exit 0; density 0 dense;
+dossier_quote_verify 16 checked / 5 not-found, all five being the
+pre-existing Emmons (UC Davis PDF) and Algoe (Wiley abstract-page)
+carriers already documented in this ledger as fetch artifacts of the tool,
+not doubts about the quote; every span added or retained in this repair
+was verified by eye against the freshly fetched carrier text.
+
+Addendum (same session): the dossier_quote_verify "not found" for the span
+between the two quoted fragments in the lojong sentence ("
+is taught as gratitude owed precisely to those who cause trouble: " with
+the terebess carrier) is a parser artifact of the tool pairing quote-mark
+delimiters, the same class as the standing Algoe artifact in this ledger;
+the two actual spans in that sentence ("Be grateful to everyone"; "the
+idea here is to feel grateful...") were each verified by eye against the
+downloaded carrier text.
