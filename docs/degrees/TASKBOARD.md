@@ -138,3 +138,12 @@ reference, unique source ids in brackets):
   credential URLs now recorded in the ledger. Matrix v3 otherwise current
   with per-module entry competencies; scope compact matrix now carries
   row-level citations.
+- 2026-10-25 worker-pplx-psychdim-1 (gate verdict recorded): milestone
+  delivered and independently reviewed through advisor rounds; coverage
+  NOT cleared because the adult self-regulation breadth gap remains
+  unresolved (narrowed by Reed et al. 2020, older-adult sample with the
+  limit stated; Dang 2018; Alarcon-Espinoza 2022). Module production also
+  blocked by the Phase 0 pilot stop-gate. Woolley results bounded to
+  Study 1 statistics; Singh medians/means/ranges recorded under the
+  paper's exact labels; OYC lecture 11 chapter 1 (00:00:00-00:09:06)
+  content-verified, remaining videos are candidates.
