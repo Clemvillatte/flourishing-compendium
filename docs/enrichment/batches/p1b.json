@@ -88,20 +88,6 @@
     "SE066": "REPAIRED-THEN-VERIFIED (worker-p1b-pplx-a91f2c03, 2026-10-22): body outcome-claims confirmed absent (QC round 2 repair stands); the three claim-bearing Psychology-parallels rows REDUCED TO BARE REFERENCES this session per the AF011/AF046/BI041 precedent (challenge necessary for development; flow and growth; adversity produces growth — none re-verified against their carriers this session); ZPD quotes stand on the predecessor ledger mechanical verification. Validator ok. Advisor QC round 1 applied. See sources/p1b/SE066.md.",
     "P038": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22, scoped quotation verification): both repaired inferences confirmed absent from the current page; both James quotes re-verified VERBATIM against a fresh fetch of the psychclassics ch. IV text. Not re-certified: inherited link sections. See sources/p1b/P038.md.",
     "D114": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22, independent verification pass, advisor-reviewed): Legge ch. 66 closing quote re-verified VERBATIM against a fresh fetch of sacred-texts; ch. 8/22 companion images grounded as paraphrase; Ryckman 1994 row re-verified against a fresh PubMed fetch (160 university men and women; narcissism and sensation seeking). Advisor QC round 1 applied. See sources/p1b/D114.md.",
-<<<<<<< HEAD
-    "A004": "dangling wikilink [[D004]] (bare-ID form; target exists as 'D004 \u2014 Cultivate de \u2014 your embodied character-power') \u2014 introduced by supervisor commit 92c5eec33; worker repair blocked by the validator original-markup guard; needs supervisor retarget",
-    "A005": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.71)",
-    "B056": "dangling wikilink [[AT034]] (bare-ID form; target exists as 'AT034 \u2014 Cultivate metacognitive awareness of attention \u2014 notice when attention drifts') \u2014 introduced by supervisor commit 9ad66c1ae; worker repair blocked by the validator original-markup guard; needs supervisor retarget",
-    "SO001": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes \u2014 'beast or god' replaced with body's quoted 'bad man or above humanity'; hermit image removed; validator PASS",
-    "B022": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes \u2014 sutta list vs page exercise separated; body 'my positive renderings' reworded; validator PASS",
-    "A068": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes \u2014 EE direction corrected (shows up non-friends); 'unasked' example no longer implies unannounced; validator PASS",
-    "PP010": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.68)"
-  },
-  "missing_concepts": [],
-  "sources_checked": 110,
-  "updated": "2026-10-25T12:37:22+00:00",
-  "band_done": false,
-=======
     "A004": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:40Z: the dangling-wikilink allegation is STALE — the bare-ID form [[D004]] RESOLVES via the validator's byid map (E has key D004; target file D004 — Cultivate de — your embodied character-power.md exists); enrich_validate.py run on the current page this session: ok, 0 failed. No page edit needed; no retarget needed.",
     "A005": "QC pass 2 2026-10-25 (worker-pplx-9ff61dc0): advisor fixes — Milo ration kept hedged per body quote; validator PASS",
     "B056": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:40Z: the dangling-wikilink allegation is STALE — the bare-ID form [[AT034]] RESOLVES via the validator's byid map (E has key AT034; target file AT034 — Cultivate metacognitive awareness of attention.md exists); enrich_validate.py run on the current page this session: ok, 0 failed. No page edit needed; no retarget needed.",
@@ -112,9 +98,8 @@
   },
   "missing_concepts": [],
   "sources_checked": 110,
-  "updated": "2026-10-25T12:19:00+00:00",
+  "updated": "2026-10-25T12:43:33+00:00",
   "band_done": true,
->>>>>>> 0640525e2 (assistant-supervisor: p1b flag-backlog disposition — A004/B056/PP010 resolved as STALE, band_done set true)
   "notes": {
     "PP010": {
       "qc": "Plain-words replicate replaced (0.68 -> ~0.10); re-derivation written; validator ok",
