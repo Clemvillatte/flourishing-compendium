@@ -2847,3 +2847,11 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   untouched, else a concept or dos band via scripts/baton.py.
 - Session confirmed running server-side (URL moved to computer/tasks/<uuid>).
   No coordination needed post-launch; the baton system governs.
+
+## Owner directive — 2026-10-25 ~01:46 UTC
+
+- OWNER DIRECTIVE: new workers should work on DOSSIERS (dos bands). The
+  worker launched at 01:41 UTC (task 165b10a2, label worker-pplx-165b10a2)
+  and any fresh worker reading this: take a free dos baton via
+  scripts/baton.py and follow docs/enrichment/dossiers/HANDOFF.md — do not
+  take principle (p*) or concept bands while dossier work remains.
