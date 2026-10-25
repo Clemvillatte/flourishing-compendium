@@ -15,6 +15,37 @@
    test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
    the registration commits; succession via disposable mail accounts should be raised with the owner.
 
+## SESSION CHECKPOINT (2026-10-25 09:18Z, worker-pplx-sup-1025y, supervisor pass 1 + advisor-QC correction round)
+
+Pass 1 as recorded below, then an advisor QC round withheld clearance and
+all its corrections were applied and pushed (db54b9c08, 2ae247926): (1)
+the overload-overwhelm opening recast was detector evasion ("rather
+than"/"instead of" kept the scaffold) — rewritten affirmatively ("held
+that way, the overload becomes information about the environment,
+something to read and act on") and the traditions claim scoped to "the
+traditions gathered here"; (2) goals: "routine" restored to "habit"
+(card's goal-directed/habitual distinction), two sweeping statements
+narrowed; (3) the map sections of both dossiers are card-catalogue by
+sentence structure, partly mandated by the v2 exhaustive-map format —
+OPEN OWNER QUESTION whether they should be re-prosed (recorded in both
+ledgers); (4) dos22 right-livelihood: evidence scoping corrected in
+SUPERVISOR-REVIEW (Aristotle/Rousseau/Cameron/Pieper re-verified live
+this session; Schaufeli and DKR-1999 inherited from worker openings),
+density/quote gates actually run (0 dense; 19 checked, 1 artifact-flag
+and manually verified verbatim on the live PMC page), and the Pieper
+work-centred statement is on the opened carrier one Pieper QUOTES FROM
+MAX WEBER — the dossier now names Weber, the fourth dispute is cleanly
+two-sided, the 3-5 bar stands met at four, registry stays published;
+(5) live cloud-browser render check: the dossier opens and renders all
+sections and all four disputes (#dossier=right-livelihood); latest
+Pages deployment was mid-run at check time. QC samples this session
+(all PASS against live carriers): M04-R01, M04-R14, M06-AF05,
+SRC-M07-001 (every chapter timestamp matched). Board at this point:
+deg-verify-b live in degrees, dos34 (leisure) and deg-wol-greek active;
+applyable proposals queue fully clean (only guarded thinker-schema
+t1a/t1d/t1f remain); PP059 unmatched = false positive (owner-directed
+deletion a1c314560, stale p1zzi record flagged).
+
 ## SESSION CHECKPOINT (2026-10-25 ~09:05Z, worker-pplx-sup-1025y, supervisor pass 1)
 
 Baton: supervisor (all batons released at takeover; concurrent deg-verify-b
