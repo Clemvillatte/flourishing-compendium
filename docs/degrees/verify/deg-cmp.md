@@ -10,6 +10,13 @@ needed in this file. If the owner wants belt-and-braces spot checks, the most
 recently added qigong/cmp sources would be the place to start.
 
 ## Block I batch (verified 2026-10-25)
+Coverage-basis note for owners: entries in this section record the basis of each
+content-coverage claim (host/uploader description, page transcript, or recording
+material). Entries whose basis is a host or uploader description have their
+identity, access and duration verified, but their coverage should be confirmed
+against the recording or transcript before final scheduling, per the skill's
+standard.
+
 
 ### QI-01: A Brief History of Qi (Heiner Fruehauf, Stanford Contemplation by Design)
 

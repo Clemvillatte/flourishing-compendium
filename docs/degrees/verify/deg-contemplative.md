@@ -519,6 +519,13 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Verification status: verified-video.
 
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
+Coverage-basis note for owners: entries in this section record the basis of each
+content-coverage claim (host/uploader description, page transcript, or recording
+material). Entries whose basis is a host or uploader description have their
+identity, access and duration verified, but their coverage should be confirmed
+against the recording or transcript before final scheduling, per the skill's
+standard.
+
 
 These records are not yet attached to modules; they are verified here so owners can
 attach them with evidence on file.
@@ -879,7 +886,10 @@ attach them with evidence on file.
   International Centre, November 20, 2024.
 - Duration: 2:22:25 (watch page displayed duration, 2026-10-25).
 - Instructor credentials: Prof. Roger R. Jackson, Professor Emeritus of Asian
-  Studies and Religion at Carleton College (per the host description).
+  Studies and Religion at Carleton College (per the host description). NOTE: the
+  oembed author for this ID is Tibet House, New Delhi; one watch-page extraction
+  returned a different author string (Shantideva Center/FPMT), so the owner may
+  wish to re-confirm the uploader identity against the page before attaching.
 - Language: English.
 - Content coverage: the host's description states the lecture situates the Buddhist
   idea of rebirth within world and South Asian cultures, analyzes the historical

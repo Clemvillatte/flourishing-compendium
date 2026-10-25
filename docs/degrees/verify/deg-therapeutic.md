@@ -5,6 +5,13 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
 2026-10-25 so owners can attach them with evidence on file.
 
 ## Block I batch (verified 2026-10-25)
+Coverage-basis note for owners: entries in this section record the basis of each
+content-coverage claim (host/uploader description, page transcript, or recording
+material). Entries whose basis is a host or uploader description have their
+identity, access and duration verified, but their coverage should be confirmed
+against the recording or transcript before final scheduling, per the skill's
+standard.
+
 
 ### M14-CBT-02: Introduction to Cognitive Behavior Therapy (Dr. Mario Guzmán)
 
@@ -13,8 +20,9 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
 - Duration: 1:40:07 (watch page, 2026-10-25).
 - Instructor credentials: Dr. Mario Guzmán, teaching Counseling Theory and Method II
   (COUN 503) at Trinity Christian College (per the uploader description).
-- Language: English (the uploader's description is bilingual English/Spanish; the
-  owner should confirm the spoken language against the recording if it matters).
+- Language: NOT CONFIRMED. The uploader's description is bilingual
+  English/Spanish and does not state the spoken language; the owner must check
+  the recording before scheduling.
 - Content coverage: per the uploader description, the lecture introduces CBT across
   three topics: the philosophical background of CBT, the psychological background
   of CBT and the historical development of CBT, with reference to works by Judith

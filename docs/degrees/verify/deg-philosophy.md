@@ -587,6 +587,13 @@ Block A, fcAcademyData records for deg-philosophy modules.
   opened in-session (2026-10-25). Same action needed as M23-EX02.
 
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
+Coverage-basis note for owners: entries in this section record the basis of each
+content-coverage claim (host/uploader description, page transcript, or recording
+material). Entries whose basis is a host or uploader description have their
+identity, access and duration verified, but their coverage should be confirmed
+against the recording or transcript before final scheduling, per the skill's
+standard.
+
 
 These records are not yet attached to modules; they are verified here so owners can
 attach them with evidence on file.
@@ -663,7 +670,7 @@ attach them with evidence on file.
   researcher at the Center for the Study of Pragmatism, PUC-SP, and Larry Hickman,
   professor of Philosophy at Southern Illinois University and director of the Center
   for Dewey Studies (per the host description).
-- LANGUAGE: Portuguese. Flag for the owner: the module must state this expectation
+- Language: Portuguese. Flag for the owner: the module must state this expectation
   to learners.
 - Content coverage: the host's description states the program asks how Dewey's
   pragmatism revolutionized education, in two interviews recorded in 2009; the
@@ -757,7 +764,13 @@ attach them with evidence on file.
   distinguishes normative from descriptive laws, presents habit as the way to turn
   reflective commitments into automatic behavior, and introduces classical and
   operant conditioning with applications to self-regulation.
-- Relevant segment: whole lecture, 40:10.
+- Lecture 10 (Virtue and Habit II), also named in this record's manifest title:
+  verified the same way, 44:38 measured from its page-hosted mp3
+  (https://oyc.yale.edu/sites/default/files/courses/spring11/phil181/mp3/phil181_10_021011.mp3);
+  per the page transcript it covers Aristotle's requirements for a virtuous act,
+  Julia Annas on virtue and flow, and John Doris's situationist critique, with
+  chapters at 00:16:02 and 00:35:27.
+- Relevant segment: whole lectures, 40:10 and 44:38.
 - Verification status: verified-recording, with the duration provenance noted.
 
 ### M04-E10: Kierkegaard, Fear and Trembling part 1 (Gregory B. Sadler)
@@ -796,18 +809,20 @@ attach them with evidence on file.
 - FLAG, NOT VERIFIED AT CANONICAL URL: the recorded URL
   (https://learn.modernstoicism.com/courses/688494/lectures/124) returns HTTP 404
   (checked 2026-10-25 via direct request; the site root is up).
-- CORRECT LOCATION FOUND (2026-10-25): the talk "How to Thrive in a World Out
-  of Your Control with Massimo Pigliucci" is in the same platform's "Stoicon
-  2019 Videos and Resources" course, marked COMPLETE and FREE. The course
-  curriculum prints its duration as 87:25. The lecture page the search index
-  attributes to it is
-  https://learn.modernstoicism.com/courses/688494/lectures/12430467 (titled
-  "Massimo Pigliucci | Learn Modern Stoicism").
-- ACCESS CAVEAT for the owner: lecture pages state "Enroll in Course to Unlock";
-  enrollment is free but requires an account, so the media itself is not
-  anonymously viewable. The course also contains a "YouTube Video Playlist"
-  section, so the owner may prefer to re-point the record at the YouTube upload
-  (as was done for ST-03) to satisfy the open-access standard.
+- CANDIDATE LOCATION, UNCONFIRMED (2026-10-25): the talk "How to Thrive in a World
+  Out of Your Control with Massimo Pigliucci" is listed in the curriculum of the
+  platform's "Stoicon 2019 Videos and Resources" course (marked COMPLETE and
+  FREE) with a printed duration of 87:25. The search index attributes the
+  lecture page https://learn.modernstoicism.com/courses/688494/lectures/12430467
+  to it, but that page's exact content could not be confirmed in-session because
+  lecture pages lock media behind enrollment; treat the URL as a candidate, not a
+  verified correction.
+- ACCESS RULING: lecture pages state "Enroll in Course to Unlock"; enrollment is
+  free but requires an account, so the media is not anonymously playable. Under
+  the owner's no-app-gated-content ruling this platform does NOT satisfy the
+  access standard; the record needs an anonymously playable source. The course
+  also contains a "YouTube Video Playlist" section, so a YouTube upload of the
+  talk may exist and should be sought before abandoning the record.
 - What the owner needs to do: replace the dead canonical URL with the correct
   lecture URL above or the YouTube upload, then this record can be verified.
 - Verification status: not verified at canonical URL, corrected location and

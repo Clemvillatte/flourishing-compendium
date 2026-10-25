@@ -225,6 +225,13 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   integration time.
 
 ## Block I batch (verified 2026-10-25)
+Coverage-basis note for owners: entries in this section record the basis of each
+content-coverage claim (host/uploader description, page transcript, or recording
+material). Entries whose basis is a host or uploader description have their
+identity, access and duration verified, but their coverage should be confirmed
+against the recording or transcript before final scheduling, per the skill's
+standard.
+
 
 ### M08-P09: Self-Determination Theory, Work Motivation and Performance (Richard Ryan, Aalto University)
 
@@ -272,6 +279,8 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   for child development, parenting, education, social policy and society, drawing
   on research on three-dimensional-object play and animal studies of play
   deprivation.
+- Relevant segment: whole talk, 1:11:12.
+- Verification status: verified-video.
 
 ### M08-P13: Social Connection and Happiness (Robert Waldinger, Osher Center)
 
@@ -352,6 +361,8 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
 - Language: English.
 - Content coverage: the host's description states the lecture covers situational
   construal and naive realism.
+- Relevant segment: whole lecture, 1:18:39.
+- Verification status: verified-video.
 
 ### M08-S18: The Value of Social Capital and Bowling Alone in 2025 (Robert Putnam, Harvard IOP)
 
