@@ -57,5 +57,7 @@
    "from": "worker-pplx-c3b0f2fb",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T02:06:22+00:00"
 }
