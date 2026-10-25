@@ -264,3 +264,15 @@ Friends Sing Beside the Corpse of Sang Hu (Zhuangzi ch. 6, Eno),
 ST187 Joy Reads the Memory (Inside Out), ST037 Ruben Loses the
 Hearing (Sound of Metal). All four loglines match the cards'
 subjects and sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos28-1025g, 2026-10-25)
+
+Four story cards opened at body level and checked against their
+loglines: ST031 Zhuangzi Drums on a Basin (the grieving, the
+transformation, the refusal to weep at the pattern — matches),
+ST037 Ruben Loses the Hearing (implants chased, stillness chosen —
+matches), ST187 Joy Reads the Memory (the comfort made by Sadness
+— matches) and ST403 Two Friends Sing Beside the Corpse of Sang
+Hu (the singing friends, the question of li — matches). All four
+match. With batch 1, the sampled cards all verify. No defects
+found.
