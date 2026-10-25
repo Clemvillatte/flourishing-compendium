@@ -911,6 +911,41 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 0:45:44.
 - Verification status: verified-video.
 
-## Block A remainder
+### M-15-001: Spinoza on Conatus and the Impossibility of Suicide (Hao Dong, IU Philosophy)
 
-(in progress: verifier-pplx-a1)
+- Identity and access: oembed confirms the lecture on the IU Philosophy channel
+  (https://www.youtube.com/watch?v=JfWv8sY3ERg).
+- Duration: 1:46:43 (watch page, 2026-10-25).
+- Instructor credentials: Hao Dong, PhD candidate in the Philosophy Department at
+  Princeton University, Harold W. Dodds Fellow 2022-2023 (per the host description).
+  Note for the owner: the speaker is a PhD candidate rather than a senior scholar.
+- Language: English.
+- Content coverage: the host's description states the lecture examines Spinoza's
+  doctrine that every thing strives for self-preservation, focusing on Ethics III
+  Proposition 4 and the claim that nothing can destroy itself, drawing on
+  Spinoza's Dutch-scholastic context and Huygens's pendulum clocks.
+- Relevant segment: whole lecture, 1:46:43.
+- Verification status: verified-video.
+
+### PHR-01: A Romp Through Ethics for Complete Beginners, Part 3 of 7 (Marianne Talbot, Oxford)
+
+- Identity and access: oembed confirms the lecture on the University of Oxford
+  channel (https://www.youtube.com/watch?v=AeT3zbJnT-A); slides linked from the
+  description at media.podcasts.ox.ac.uk.
+- Duration: 1:22:24 (watch page, 2026-10-25).
+- Instructor credentials: Marianne Talbot, Oxford continuing education ethics series
+  (per the host description); part 3 of a 7-part beginner series.
+- Language: English.
+- Content coverage: the host's description states this episode reflects on
+  Aristotle's account of morality and the centrality of the virtues.
+- Relevant segment: whole episode, 1:22:24.
+- Verification status: verified-video.
+
+## Block A status
+
+All 36 Block A records for deg-philosophy have been processed: 33 verified in this
+pass (entries above, plus the AR-01, AR-04, AR-06 and ST-03 pilot entries), and 3
+flagged for the owner (see the AR-01 coverage flag and the notes in the mod-phil-1
+pilot section). Unattached Block I records continue above.
+
+Verifier: verifier-pplx-a1 (baton deg-verify-a).
