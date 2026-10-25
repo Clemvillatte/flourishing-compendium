@@ -477,3 +477,8 @@ four match the timeline's printed wording, including the timeline's
 present-tense "signs") and s1a-065's verse with its Sasaki attribution
 (note 11 on the WCP paper). The only span not re-fetched today is
 s1a-064's RMMJ page (round-1/2 verification recorded in the draft).
+
+2026-10-25 storyteller-pplx-s1a-1026a: the last flagged span is closed —
+s1a-064's RMMJ quotes re-verified against a fresh fetch (both match the
+article's printed wording). Every source span across s1a-063..075 has
+now been verified this session. Batch complete for handoff.
