@@ -47,3 +47,4 @@ Imagine a runner who misses a trial because of flu. She knows why she could not 
 
 - **[[The absurd|The absurd]]** (Camus, The Myth of Sisyphus)
 - **[[The absurd|The absurd condition]]** (Camus, The Rebel)
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

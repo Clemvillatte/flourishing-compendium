@@ -49,3 +49,4 @@ The essay's ending, in the O'Brien translation:
 
 - [[E055 — Practise the recognition of the absurd]]
 - [[E057 — Practise Sisyphus happy]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

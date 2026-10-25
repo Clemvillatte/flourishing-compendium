@@ -12,9 +12,14 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 
 Camus opens with the only serious philosophical problem, suicide, and proceeds to the Greek figure condemned to roll a boulder up a hill, forever, the rock rolling back each time. The gods thought there was no worse punishment than futile, hopeless labour. Camus's conclusion is the century's most quoted sentence: the struggle itself toward the heights is enough to fill a man's heart, and one must imagine Sisyphus happy.
 
-The essay's argument is a rejection of both religious and philosophical meaning-making: the absurd, the confrontation between the human demand for meaning and the world's silence, cannot be resolved, and Camus rejects the leap that pretends it can be. His alternative is revolt, the lucid facing of the condition without appeal, and Sisyphus, having no hope, is free of it.
+The essay's argument is a rejection of both religious and philosophical meaning-making: the absurd, the confrontation between the human demand for meaning and the world's silence, cannot be resolved, and Camus rejects the leap that pretends it can be. His alternative is revolt, the lucid facing of the condition without appeal, and Sisyphus, having no hope, is free of it. The sentence is not an optimism but a discipline: keep the rock, keep the eyes open, and let the labour stay yours.
 
 
 
 **Principles:** [[E055 — Practise the recognition of the absurd|E055 Practise the recognition of the absurd]], [[E059 — Practise solidarity|E059 Practise solidarity]]
 **Resonates:** [[S007 — Accept what happens as the will of providence|S007 Accept what happens as the will of providence]], [[A001 — Make eudaimonia the organising end of your life|A001 Make eudaimonia the organising end of your life]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.
+
+## Sources
+
+- [Camus, The Myth of Sisyphus (1942), trans. Justin O'Brien — full text, Internet Archive](https://archive.org/stream/AlbertCamusTheMythOfSisyphus/Albert%20Camus%20-%20The%20Myth%20Of%20Sisyphus_djvu.txt) — the suicide question, the revolt definition, and the Sisyphus-happy sentence; opened for the adjacent concept pages.

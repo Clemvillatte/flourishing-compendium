@@ -34,3 +34,4 @@ Imagine someone who caused a serious breach of trust. They might acknowledge the
 
 - **[[Tragic optimism|Tragic optimism]]** (Frankl, Man's Search for Meaning; Wong, "Self-Transcendence")
 - **[[Hope|Hope in tragedy]]** (Camus, The Myth of Sisyphus; Marcel, The Mystery of Being)
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

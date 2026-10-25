@@ -35,3 +35,4 @@ My principle [[E056 — Practise revolt]] works the stance into practice; [[E055
 
 - [[E056 — Practise revolt]]
 - [[E055]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

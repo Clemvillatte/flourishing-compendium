@@ -40,3 +40,4 @@ This page draws on one encyclopedia entry, not on The Rebel itself. The entry ca
 ## Cited in philosophy parallels
 
 - [[E056 — Practise revolt]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

@@ -42,3 +42,4 @@ This does not say suffering is secretly pleasant. The sentence is an instruction
 ## Related thinkers
 
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

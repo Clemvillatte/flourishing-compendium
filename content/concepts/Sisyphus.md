@@ -35,3 +35,4 @@ Camus's attention is fixed on the walk back down: "That hour like a breathing-sp
 ## Cited in philosophy parallels
 
 - [[E057 — Practise Sisyphus happy]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

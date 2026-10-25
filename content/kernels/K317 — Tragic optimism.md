@@ -48,3 +48,4 @@ Frankl names the three turnings verbatim: tragic optimism is "an optimism in the
 - [[S007 — Accept what happens as the will of providence|S007 Accept what happens as the will of providence]]
 
 Practises the concept: [[Tragic optimism|Tragic optimism]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

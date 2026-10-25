@@ -43,3 +43,4 @@ The Enchiridion puts opinion, aim, desire and aversion within our power, and bod
 ## Cited in philosophy parallels
 
 - [[BI044 — Learn to recognise chronic stress — signs and symptoms]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

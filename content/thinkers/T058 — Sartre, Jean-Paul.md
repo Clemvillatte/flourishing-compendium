@@ -145,3 +145,4 @@ Kept to the pages that carry Sartre's own ideas and the existential tradition he
 - [[T037 — Weil, Simone|Weil]]: the French existentialist writing in the same period with the opposite demand — affliction as the site of grace rather than choice.
 - [[T060 — Beauvoir, Simone de|Beauvoir]]: his lifelong partner, whose ethics of ambiguity and situation made his freedom social.
 - [[T038 — Heidegger, Martin|Heidegger]]: the ontological machinery (facticity, thrownness, das Man) that Sartre radicalised.
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

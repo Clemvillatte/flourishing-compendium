@@ -42,3 +42,4 @@ In The Rebel, Camus carries the idea from private meaning to shared life. The re
 
 - **[[Revolt|Revolt]]** (Camus, The Myth of Sisyphus; The Rebel)
 - **[[Defiance|Defiance]]** (Camus, The Rebel)
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

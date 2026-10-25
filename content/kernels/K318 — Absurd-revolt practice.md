@@ -58,3 +58,4 @@ No official recording exists; the stance is self-chosen by design. The nearest w
 ## Sources
 
 - [Camus, A. (1955). *The Myth of Sisyphus and Other Essays* (Justin O'Brien, trans.) — full text](https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt) — the revolt passage, the three-consequences passage, and the Sisyphus conclusion, quoted verbatim from the downloaded text.
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

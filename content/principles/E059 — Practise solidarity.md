@@ -40,3 +40,4 @@ You are worn out by your workplace's endless pointless meetings and think the fa
 
 - **[[Solidarity|Solidarity]]** (Camus, The Rebel)
 - **[[Sorge|Sorge]]** (Heidegger, Being and Time)
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

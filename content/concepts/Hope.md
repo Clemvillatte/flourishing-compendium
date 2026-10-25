@@ -72,3 +72,4 @@ R087 practises hope as a disposition and R125 applies it to the ecological futur
 
 - [[R087 — Practise hope]]
 - [[R125 — Practise ecological hope]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

@@ -40,3 +40,4 @@ Camus ties measure to Greek thought. Heraclitus, he says, "set a limit to this p
 
 - **[[Measure (mesure)|Measure (mesure)]]** (Camus, The Rebel)
 - **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II.6; Confucius, The Doctrine of the Mean)
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

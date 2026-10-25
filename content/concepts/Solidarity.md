@@ -62,3 +62,4 @@ The Stanford entry lists objections to solidarity itself. One is Shklar's warnin
 - [[R113 — Practise relational solidarity]]
 - [[E059 — Practise solidarity]]
 - [[E077 — Practise the liberation of others]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

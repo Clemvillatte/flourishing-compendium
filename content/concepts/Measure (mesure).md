@@ -25,6 +25,10 @@ The link runs through the limit. Nihilist thought, "because it neglects this fro
 
 - [[E058 — Practise measure]] carries this concept as its philosophy source: measure comes out of the rebel's "no" and works as the standard by which events and men are judged.
 
+### What to practise
+
+The limit Camus describes is not a temperament, a refusal to get carried away. It is a discovery that a certain kind of action negates itself, and that the negation is where the standard comes from. To practise measure is to look for the frontier inside your own project — the point past which the good you wanted becomes the harm you are doing — and to hold the line there. The discipline, in Camus's wording, is that rebellion demands and re-creates moderation; it is not the opposite of it.
+
 ## Related concepts
 
 - [[Hubris and nemesis]] — Camus names Nemesis as the symbol of the limit, enemy of the immoderate
@@ -37,3 +41,4 @@ The link runs through the limit. Nihilist thought, "because it neglects this fro
 ## Cited in philosophy parallels
 
 - [[E058 — Practise measure]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.

@@ -21,6 +21,10 @@ Arendt lists the conditions: "the conditions of human existence—life itself, n
 - [[E055 — Practise the recognition of the absurd]]
 - [[E070 — Practise the ethics of ambiguity]]
 
+### How Camus and Beauvoir use the term
+
+The Arendt coinage is the philosophical origin, but the two French existentialists in this wiki use "the human condition" in a closely related way. For Camus the condition is the absurd itself: the fact that we keep asking a question the world will not answer, and that the answer is not coming. For Beauvoir it is the ambiguous fact that we are both subjects and objects to each other, and that freedom is disclosed in and by a situation rather than exercised in a vacuum. In all three writers the phrase does the same job: it names where we start, not what we are.
+
 ## Related concepts
 
 - [[The absurd]] — Camus's register of the same finitude
@@ -44,3 +48,4 @@ Arendt lists the conditions: "the conditions of human existence—life itself, n
 ## Cited in philosophy parallels
 
 - [[SE026 — Recognise common humanity — your suffering is not unique or isolating]]
+- **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.
