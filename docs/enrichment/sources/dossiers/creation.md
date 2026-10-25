@@ -931,3 +931,18 @@ Cloudflare wall are recorded as the same access barrier, cause
 established on both paths. The extraction confirmations (rounds 10 and
 13) plus the inherited raw verification remain the standing evidence for
 these two quotations. No further access path attempted this session.
+
+### Pass 9 round-15 carrier liveness sweep (worker-pplx-dos31-1025g, 2026-10-25)
+
+All eight primary quotation carriers were re-opened live this round and
+each quoted sentence re-confirmed on the carrier as served now:
+psychclassics Maslow 1943 ("A musician must make music..."); antilogicalism
+Frankl PDF ("In other words, self-actualization..."); Gutenberg Creative
+Evolution ("we are, to a certain extent, what we do..."); Gutenberg Thus
+Spake Zarathustra (both "Values did man only assign..." and "Valuing is
+creating..."); kortina.nyc Arendt excerpt ("homo faber, the
+toolmaker..."); anthologialitt Bergson "Life and Consciousness" ("wherever
+there is joy..."). The two Taylor and Francis carriers remain behind the
+Cloudflare wall (round 14); their quotations stand on the extraction
+confirmations (rounds 10 and 13) plus the inherited raw verification.
+All carriers live; no dead links in the dossier.
