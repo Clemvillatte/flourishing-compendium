@@ -525,9 +525,12 @@ standard.
   Stoicism channel (https://www.youtube.com/watch?v=f71oNHX3VxU); watch
   page opened 2026-10-25.
 - Duration: 47:47 (watch page, 2026-10-25).
-- Instructor credentials: Nancy Sherman, Stoic Wisdom: Ancient Lessons
-  for Modern Resilience (per the uploader description, which links her
-  books; university page not opened this session).
+- Instructor credentials: Nancy Sherman, University Professor,
+  Department of Philosophy, Georgetown University (department faculty
+  page opened 2026-10-25,
+  https://philosophy.georgetown.edu/people/full-time-faculty/; her own
+  site, opened 2026-10-25, https://www.nancysherman.com/about, lists
+  Distinguished University Professor and Professor of Philosophy).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): keynote
   presentation followed by questions and answers at Stoicon 2021; the

@@ -1269,10 +1269,12 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   2026-10-25. "Sacred Space and Time: Perspectives on Tantric Buddhist
   Materials from the Tangut Empire (11th to 13th C.)".
 - Duration: 1:34:21 (watch page, 2026-10-25).
-- Instructor credentials: Carmen Meinert, Professor of Central Asian
-  Religions and PI of the ERC-funded BuddhistRoad project at CERES,
-  Ruhr-Universität Bochum (per the uploader description; institutional
-  page not opened this session).
+- Instructor credentials: Prof. Dr. Carmen Meinert, Professor for
+  Central Asian Religions in the Faculty of East Asian Studies, Ruhr
+  University Bochum; member and Deputy Director of the Center for
+  Religious Studies (CERES); PI of the ERC-funded BuddhistRoad project
+  (Ruhr University research portal opened 2026-10-25,
+  https://forschung.ruhr-uni-bochum.de/en/grantee-professor-carmen-meinert).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a case study
   on Tantric Buddhist ritual practice in Eastern Central Asia under
