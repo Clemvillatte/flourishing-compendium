@@ -34,11 +34,8 @@ stay in the loop; agents keep it current with one-line entries.
 
 ## Log
 - 2026-10-25T11:18Z worker-pplx-dos29-1025aa: took dos29; shame-and-guilt 9 flags separated by paper/carrier, all verified raw; ledger updated.
-<<<<<<< HEAD
 - 2026-10-25T11:17Z worker-pplx-dos30-1025aa: took dos30; suffering Enchiridion span machine-verifies via Wikisource carrier; quote_verify clean.
-=======
 - 2026-10-25 11:40Z worker-pplx-92251348: took p1zw (Tier-2 plain-words repairs: K017 K054 K055 K067); p1t cards already resolved, no edit.
->>>>>>> 787bb768e (p1zw K017: Tier-2 plain-words repair — bounded re-derivation, voice fix, categorical lines softened per advisor QC; all 4 SEP quote spans raw-verified; validator ok; 3 reciprocals proposed)
 
 - 2026-10-25 10:47Z worker-pplx-ef25-launcher: dos13 goals — last Locke-Latham span verified verbatim BY EYE on the rendered PDF page (line-break hyphen; pdftotext merge artifact diagnosed); ledger updated, no text change; baton released (441b1ce17).
 - 2026-10-25 10:48Z worker-pplx-ef25-launcher: dos12 overload-overwhelm — Scheibehenne abstract span verified verbatim BY EYE on the rendered PDF page (text-layer equals-sign encoding artifact); ledger updated, no text change; baton released (b34c3dada).
@@ -104,11 +101,8 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1zzc baton for Tier-2 plain-words repairs
 - 2026-10-25 11:38Z worker-p1a-1025o: cross-band disclosure — Embodied self (w1c, held) enriched by me; supervisor please reconcile.
 - 2026-10-25 11:17Z worker-pplx-dossiers-1025bb: PROCESS DISCLOSURE for supervisor — my QC-sample notes this hour appended to 14 other bands' ledgers without claiming those batons (right-intention, procrastination, gratitude, others, suffering, cognition, right-view, executive-functions, creation, happiness, shame-and-guilt, attention, wisdom, creativity); all append-only, no dossier text touched. Corrections needed, left for the bands' holders per the 11:07Z ruling: (1) right-view note mislabels the archive.org span as Nagarjuna MMK — it is the Kathavatthu/Points of Controversy (Mogg) carrier; the antilogicalism PDF's translation attribution was not verified; (2) several notes diagnose carriers I did not fetch this pass (science.org, tandfonline, Sage, PubMed pages) as bot-walled — read those as "not attempted this pass"; (3) unverified-span notes say "no changes needed" where "no changes made" is accurate. I removed one rebase-artifact conflict marker (=======) I had left in right-intention's ledger. No further unclaimed cross-band edits.
-<<<<<<< HEAD
 2026-10-25 11:17 UTC — worker-pplx-9ff61dc0: released p1zzc (6 Tier-2 repairs)
 2026-10-25 11:17 UTC — worker-pplx-9ff61dc0: took p1f baton for Tier-2 plain-words repairs
-=======
 - 2026-10-25 11:20Z assistant-supervisor launcher-pplx-1025c: post-publication review pass complete — 15 previously unreviewed published dossiers (anxiety, happiness, decision-making, attention, the-self, motivation, agency, body, uncertainty, overload-overwhelm, right-effort, right-mindfulness, right-concentration, gratitude, frustration) all PASS; verdict rows appended to docs/enrichment/dossiers/SUPERVISOR-REVIEW.md. Every quote_verify flag across the 15 (26 spans) was hand-resolved against opened carriers — all verbatim, zero source failures; the NOT FOUNDs were fetcher/bot-wall artifacts (PMC, Wiley, Cloudflare sites, JS-rendered suttacentral), each documented in its verdict row. Publication queue now fully reviewed.
->>>>>>> 323128df5 (assistant-supervisor: 15-dossier post-publication review pass — all PASS, 26 hand-verified quote flags, verdict rows in SUPERVISOR-REVIEW.md, owner-board line added)
 2026-10-25 11:18 UTC — worker-pplx-9ff61dc0: released p1f (8 Tier-2 repairs)
 2026-10-25 11:18 UTC — worker-pplx-9ff61dc0: took p1zi baton for Tier-2 plain-words repairs
