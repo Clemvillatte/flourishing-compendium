@@ -193,6 +193,11 @@
      "t": "2026-10-23T06:28:59+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:06:46+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:06: sample verified 6/6 quotes VERBATIM (MN 143, Access to Insight page downloaded and string-matched)"
     }
    ]
   },
@@ -317,5 +322,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:06:32+00:00"
+ "updated": "2026-10-25T15:06:46+00:00"
 }
