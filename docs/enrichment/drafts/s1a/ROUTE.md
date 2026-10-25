@@ -329,3 +329,11 @@ physical register (the shift from freeing the arm to releasing it); the
 page's MN 118 practice is breath-paced and mental, and the draft names that
 facet as not carried. If you judge the register gap too wide, the draft
 reassigns to a decision-under-extremity principle of your choosing.
+
+## s1a-073 fit note 2026-10-25 (T+24)
+
+B094 (passaddhi) target fit: the cellist story carries calm practiced in a
+burning context with his own humbler reason kept in; the sutta's graded
+right-time logic is named as not carried. If you judge the mapping too
+loose, the draft reassigns to an engaged-response principle of your
+choosing.

@@ -1964,7 +1964,37 @@
      "note": "draft complete; story_check ok; register difference routed"
     }
    ]
+  },
+  "s1a-072": {
+   "status": "qc_pending",
+   "angle": "B015: Yellowstone web told honestly — removal undisputed, return partial",
+   "history": [
+    {
+     "t": "2026-10-25T14:58:44+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:58:44+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-073": {
+   "status": "qc_pending",
+   "angle": "B094: the cellist of Sarajevo — the daily return; fit note routed",
+   "history": [
+    {
+     "t": "2026-10-25T14:58:45+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:58:45+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; fit note routed"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T14:57:02+00:00"
+ "updated": "2026-10-25T14:58:45+00:00"
 }
