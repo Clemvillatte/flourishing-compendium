@@ -228,6 +228,11 @@
      "t": "2026-10-23T06:31:45+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:07:21+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:07:21: sample verified 7/7 quotes VERBATIM (Walden, Project Gutenberg HTML downloaded; one string-match miss was a ligature-normalization artifact — wording verbatim on inspection)"
     }
    ]
   },
@@ -337,5 +342,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:07:08+00:00"
+ "updated": "2026-10-25T15:07:21+00:00"
 }
