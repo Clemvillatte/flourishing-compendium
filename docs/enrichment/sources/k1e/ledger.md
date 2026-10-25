@@ -581,3 +581,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K372 The decisional-balance caution
 - Read the full page; both verbatim quotes re-verified against the downloaded M&R 3rd ed. PDF text: the "MI is also sometimes confused with a decisional balance technique" passage (verbatim) and the "We simply don't have the detachment (thank goodness!)" parenting passage (verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K373 Notice the fixing reflex
+- Read the full page; the verbatim quote re-verified against the downloaded M&R 3rd ed. PDF text: the "these very same motives can lead to the overuse of a directing style" passage, including "Stop! Go back! Don't you see?" and the "righting reflex" naming sentence (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
