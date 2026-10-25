@@ -17,7 +17,7 @@ Camus takes the situation where meaning is demanded and not delivered — the pe
 
 ## Their position
 
-The Stanford Encyclopedia, which I opened for this card, gives the tightest summary:
+The Stanford Encyclopedia gives the tightest summary:
 
 > "This paradoxical situation, then, between our impulse to ask ultimate questions and the impossibility of achieving any adequate answer, is what Camus calls *the absurd*." ([Stanford Encyclopedia of Philosophy, "Albert Camus"](https://plato.stanford.edu/entries/camus/))
 
