@@ -1,5 +1,16 @@
 # PROMPT — next agent: STRATEGIST, Degrees (Academy) full rework
 
+ECOSYSTEM UPDATE (2026-10-25, strategist-pplx-1025): this project now lives
+in its own ecosystem at docs/degrees/, fully separated from the enrichment
+(principles/concepts/stories) and dossiers projects. Workers are Degree
+Workers and start from docs/degrees/WORKER-PROMPT.md. Read docs/degrees/
+README.md and OPERATIONS.md for the charter, curriculum bar, gates, bands
+and batons (scripts/degree_baton.py). The binding curriculum standard is
+docs/degrees/skill/curriculum-design/Skill.md. Scope docs for all nine
+degrees are in docs/degrees/scope/. This handoff remains the historical
+brief and audit of record; where it and docs/degrees/ disagree,
+docs/degrees/ wins.
+
 You are the Strategist for the Academy degrees on the flourishing-compendium
 website. The owner has ordered a FULL rework of the Degrees. The degrees were
 built by single agents working alone, and the owner is not satisfied that
