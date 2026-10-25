@@ -12,21 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 21** — Orient with right view
 
-Before acting, check the view: do I see conditionality, impermanence, and the ordinary costs of craving? Action from a wrong view is strong effort in the wrong direction.
+Before committing effort to a plan, I want to understand what I expect it to accomplish. I bring that question to SN 12.15, where Kaccayana asks what constitutes right view.
 
-The Kaccayanagotta Sutta defines right view by what it is free of, and its test is concrete:
+Part of the answer concerns recognising suffering as it arises and passes:
 
-> "But one such as this does not get involved with or cling to these attachments, clingings, fixations of awareness, biases, or obsessions; nor is he resolved on 'my self.' He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away. In this, his knowledge is independent of others. It's to this extent, Kaccayana, that there is right view." (SN 12.15, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
+> "He has no uncertainty or doubt that just stress, when arising, is arising; stress, when passing away, is passing away." ([Thanissaro, Kaccayanagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html))
 
-The view to check before acting is exactly this: am I watching stress arise and pass, or am I holding a fixed thing and a fixed me it belongs to? The sutta then runs the same seeing into its formula for dependent co-arising: "Now from the remainderless fading & cessation of that very ignorance comes the cessation of fabrications."
+The surrounding passage describes someone who does not cling to attachments and is not resolved on “my self”; the text then teaches dependent co-arising and cessation between the extremes of existence and nonexistence ([SN 12.15](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)).
 
-(SN 12.15; Kaccayanagotta Sutta.)
+My planning exercise is an application of that reading. I can ask what difficulty a decision would address, what I am clinging to and what expectations need examination. I want the answer to leave room for practical needs and for the suffering a successful plan might leave untouched.
 
 **Plain words**
-Ask of any plan: what does it assume about where happiness comes from? If the assumption is that a purchase ends the seeking, the plan can deliver the purchase and keep the seeking. The sutta's check is whether stress is being watched arising and passing without a "me" fastened to it, and it runs before the effort does.
+Name what the plan would change. Then look at the hopes you have attached to it. I would check both before deciding how much of my life to give the effort.
 
 **For example**
-Grinding overtime to afford a house 'to finally be happy' — if the view of happiness is broken, the effort just arrives faster at the wrong address.
+Imagine saving for a home because you want stable housing. You also hope owning it will end your need for other people's approval. In this invented case, the budget and the expectation of approval deserve separate examination.
 
 ## Sources
 
@@ -39,11 +39,12 @@ Grinding overtime to afford a house 'to finally be happy' — if the view of hap
 - [[ST067 — Fletcher's Classroom|67. Fletcher's Classroom]]
 ## Psychology parallels
 
-- **[[Appraisal theory|Appraisal theory]]**, the same event yields different affect depending on interpretation (Lazarus and Folkman, 1984)
+- [[Appraisal theory|Appraisal theory]]: a separate psychological comparison to explore.
 
 ## Philosophy parallels
 
-- **[[The standpoint determines what appears|The standpoint determines what appears]]** (Husserl, The Crisis of European Sciences)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
+- [[The standpoint determines what appears|The standpoint determines what appears]]: further philosophical comparison.
+- [[Eightfold Path|Eightfold Path]]: the broader Buddhist training.
 
 
 <!-- fc: reflections

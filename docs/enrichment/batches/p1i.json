@@ -29,9 +29,10 @@
   "B034",
   "B025",
   "B088",
-  "B004"
+  "B004",
+  "B021"
  ],
- "in_progress": "B021",
+ "in_progress": null,
  "flagged": {
   "D118": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (overclaim \"budget rule\"/spending metaphor removed; Plain words re-derived as a revisable speaking exercise; Mehl et al. 2010 parallel qualified to less small talk/more substantive conversation); current page carries the repaired text (\"Chapter 5 gives its rule in verse\" framing, outcomes left with the people). The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
   "D129": "RESOLVED by worker-p1i-1025b 2026-10-25 (per-item verification): milestone QC repairs applied in commit 66edf25cb (the \"only response that ends the cycle\" overclaim and retaliation-subscription metaphor removed; maxim scoped so what the other person does next remains theirs); current page carries the repaired text. The band closed 30/30 with QC passed (commit a2f9b71f0); this session re-read the current page and confirmed the repaired, honestly-scoped text is present; the flag record had simply not been rewritten. No page edit needed this session; source verification not repeated; not a certification of inherited parallels or linked pages. [ORIGINAL ALLEGATION: Reopened for QC: milestone QC]",
@@ -51,10 +52,10 @@
   "B025": "RESOLVED: all five prohibited trades explicit; calling orientation narrowed to opened abstract; modern application and financial responsibilities distinct; validator PASS",
   "B088": "RESOLVED: ethical accumulation and intention sourced; one-reply-is-nothing and deterministic identity slogans removed; automaticity comparison bounded; validator PASS",
   "B004": "RESOLVED: canonical conditionality distinguished from author inquiry; no skipped-meal causal diagnosis; responsibility and invented scene explicit; validator PASS",
-  "B021": "Reopened for QC: Right view: distinguish SN12.15 claim from personal planning exercise; remove wrong-address slogan"
+  "B021": "RESOLVED: source right-view teaching distinguished from labelled planning exercise; housing needs respected and slogan removed; validator PASS"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-25T06:27:07+00:00",
+ "updated": "2026-10-25T06:27:52+00:00",
  "band_done": false
 }
