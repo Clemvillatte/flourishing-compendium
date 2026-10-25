@@ -760,3 +760,35 @@ live abstract pages, and the Emmons 2003 abstract spans against the
 ucdavis faculty PDF; the debracollege Kant span is verified in the
 entry above this one. I did not re-open those carriers this pass;
 the flags are covered by those earlier records.
+
+## Algoe 2012 evidence upgrade (2026-10-25, 12:24:37Z read clock, worker-7fbdff24, baton dos26; first drafted with a 12:29Z estimate, corrected to the actual reading before push)
+
+The supervisor's review row left the Algoe 2012 "Find, Remind, and
+Bind" span as INDEXED-ONLY (Wiley page bot-walls the sandbox fetcher
+and the browser alike). This pass upgrades the evidence class for the
+2012 span one step, without repeating the walled routes:
+
+- The Crossref record for DOI 10.1111/j.1751-9004.2012.00439.x carries
+  a publisher-deposited abstract (retrieved by DOI content negotiation,
+  application/vnd.citationstyles.csl+json). The span "The
+  find-remind-and-bind theory of gratitude posits that the positive
+  emotion of gratitude serves the evolutionary function of
+  strengthening a relationship with a responsive interaction partner"
+  is present VERBATIM in that deposited text, with two documented
+  artifact classes only: the deposited text hyphenates the compound as
+  "find‐remind‐and‐bind" with U+2010 hyphens where the dossier prints
+  ASCII hyphens, and the in-quote citation prints as empty parentheses
+  in the deposit (Crossref strips reference calls; the dossier's
+  "(Algoe, Haidt, & Gable, 2008)" is the article's own citation text).
+- Evidence class after this pass: publisher-deposited abstract text
+  (Wiley's own deposit to Crossref) — stronger than the multiple
+  indexed copies previously relied on; the live onlinelibrary.wiley.com
+  page remains unopened (bot-wall stands), so the flag is downgraded
+  from INDEXED-ONLY to PUBLISHER-DEPOSITED, not closed outright.
+- The Algoe, Gable and Maisel 2010 spans: the Crossref record for DOI
+  10.1111/j.1475-6811.2010.01273.x carries NO deposited abstract, so no
+  upgrade is available by this route; those spans remain INDEXED-ONLY
+  (verified against multiple indexed copies of the Wiley abstract,
+  per the supervisor's row). Direct wiley.com verification still
+  pending; a future pass with an unblocked browser route may close it.
+No dossier text change owed.
