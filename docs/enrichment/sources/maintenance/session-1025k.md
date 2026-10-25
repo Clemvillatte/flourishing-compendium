@@ -132,3 +132,6 @@
 
 ## R124, AT030 dead-link repair
 - R124: Cunsolo and Ellis 2018 PDF moved to uwosh.edu/sirt/wp-content/uploads/sites/86/...; definition and 'natural response' sentences confirmed against the text. AT030: wisebrain.org copy 404; swapped to the PMC version of Lutz et al. 2008 (PMC2693206), where the focused-attention definition and the three-skills sentences were confirmed verbatim. Wording unchanged.
+
+## SE052, SO003 Markus and Kitayama 1991
+- Stanford-hosted PDF URL returned 404 to my fetch; swapped to MIT-hosted copy (web.mit.edu/curhan/...), where all kept quotes were checked. SO003: two scare-quoted phrases ('a variable, not a constant', 'the self per se') are not in the paper; removed and the advice attributed to the entry. Abstract numeral '2' rendered as [two].

@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 3** — Use the self-culture link, not a fixed self
 
-> People in different cultures have strikingly different construals of the self, of others, and of the interdependence of the two.
+> People in different cultures have strikingly different construals of the self, of others, and of the interdependence of the [two].
 
-(Markus and Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98(2), 1991, abstract, p. 224; text read in the [Stanford-hosted PDF](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf?utm).)
+(Markus and Kitayama, "Culture and the Self: Implications for Cognition, Emotion, and Motivation," Psychological Review 98(2), 1991, abstract, p. 224; text read in the [MIT-hosted PDF copy](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf).)
 
 On who holds which view, the paper says: "The independent view is most clearly exemplified in some sizable segment of American culture, as well as in many Western European cultures," while "The interdependent view is exemplified in Japanese culture as well as in other Asian cultures. But it is also characteristic of African cultures, Latin-American cultures, and many southern European cultures" (p. 225). Indigenous contexts are not named in the passages read, so that part of the entry's earlier wording is dropped here.
 
-The authors also note limits. They "assume that, on average, relatively more individuals in Western cultures will hold this view than will individuals in non-Western cultures" (p. 227), and they point to "a strong theme of interdependence" even in American subcultures such as Quakers and small towns (p. 228). The paper treats the two construals as tendencies, not fixed types, and it does not call either one "the self per se." Treating one's own construal as "a variable, not a constant" is the entry's advice.
+The authors also note limits. They "assume that, on average, relatively more individuals in Western cultures will hold this view than will individuals in non-Western cultures" (p. 227), and they point to "a strong theme of interdependence" even in American subcultures such as Quakers and small towns (p. 228). The paper treats the two construals as tendencies, not fixed types, and it does not rank them. The advice to hold your own construal as one of several, and not as the only way a self can be, is this entry's and not the authors'.
 
 **Plain words** Different cultures teach different pictures of what a self is. One is built around being separate and unique, another around being connected and fitting in. Seeing that your own picture is one of several makes your reactions easier to question.
 
@@ -26,7 +26,7 @@ The authors also note limits. They "assume that, on average, relatively more ind
 
 ## Sources
 
-- [Markus, H. R., & Kitayama, S. (1991). Culture and the self. Psychological Review 98(2), 224-253 (Stanford-hosted PDF)](https://web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf?utm) — text read; abstract and pp. 225-228 quotations
+- [Markus, H. R., & Kitayama, S. (1991). Culture and the self. Psychological Review 98(2), 224-253 (MIT-hosted PDF copy)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf) — text read; abstract and pp. 225-228 quotations
 
 ## Psychology parallels
 
