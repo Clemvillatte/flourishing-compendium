@@ -68,3 +68,22 @@ pmc.ncbi.nlm.nih.gov carriers — the checker-artifact pattern documented
 in earlier ledger rounds (spans verified against opened texts; the
 fetcher cannot read the PMC page). No quote was touched by any pass in
 this campaign, so no new quote defects are possible from this work.
+## Live-data splices (app.js)
+
+The Dossiers view serves prose from `window.fcDossiersData` compiled into
+`site/assets/app.js`; markdown repairs do not reach the site until a re-splice.
+This worker re-spliced with `scripts/dossier_registry_build.py --rebuild=<slug>`
+(deterministic; markdown read-only):
+
+- the seven repaired dossiers above (commit fb101fc56) — repaired prose now
+  compiled in, scaffolds compiled out;
+- attention + goals (b16054a8d) — resolves the 11:03Z dos8 live-site flag;
+- full-registry pass over all 40 published dossiers (3e1b4b293) — found 4 more
+  stale entries (anxiety, genuine-flourishing, right-speech, shame-and-guilt),
+  whose markdown of record had pushed gloss-to-prose and humanizer repairs never
+  re-spliced; block-count shifts match those commits (e.g. anxiety 141->112
+  blocks is the dos8 gloss-to-prose conversion, not data loss; entries 40->40).
+
+Operational note: running `scripts/dossier_build.py` with no arguments is
+destructive (it gutted app.js and overwrote the-self.md in a scratch run;
+both reverted cleanly before any push). Use the registry build only.
