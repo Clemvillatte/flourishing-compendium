@@ -340,3 +340,7 @@ The band manifest requires the family (Anger, Anxiety, Happiness) to be disambig
 ## Note — story loglines verified against card bodies (2026-10-25, dos2)
 
 All story-section loglines were checked against their story cards: ST160 (Medea), ST062 and ST187 (Inside Out, checked earlier this session), ST425 (Duchenne), ST146 (Achilles), ST170 (lotus-eaters), ST185 (gentle person's anger), ST401 (Dipa Ma), ST429 (backsliding into abundance) — each logline compresses its card faithfully; no embellishment found.
+
+## Note — practice-section kernel compressions verified (2026-10-25, dos2)
+
+The practice-section kernel entries were checked against their kernel cards: K159 (affect labeling), K160 (feeling-tone pass), K171 (emotional writing), K172 (body-first emotion work), K124 (low emotional response) — each compresses its kernel faithfully; the evidence-limits paragraph's claims about second-hand citations and no-outcome-claim practices follow the kernels' own notes.

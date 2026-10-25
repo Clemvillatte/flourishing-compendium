@@ -348,3 +348,7 @@ Clinical and developmental restatements checked against their card bodies: Beck'
 ## Note — story loglines verified against card bodies (2026-10-25, dos3)
 
 The story-section loglines were checked against their story cards: ST155 (Meno), ST172 (Thales), ST130 (Berlin's fox and hedgehog), ST419 (Poincare), ST415 (blind men), ST083 (Neo), ST186 (fox and grapes) — each logline compresses its card faithfully. One small embellishment was corrected: the ST415 logline said the groups describe the animal "from the part in its hands"; the card says the parts were shown, and the logline now follows the card wording.
+
+## Note — practice-section kernel compressions verified (2026-10-25, dos3)
+
+The practice-section kernel entries were checked against their kernel cards: K126 (defusion), K127 (reappraisal), K128 (thought record), K260 (wise-reasoning prompts), K387 (carry the thought on paper, Tolin attribution confirmed), K401 (sing the thought, examined-thought caution confirmed against the kernel and its Harris 2009 source note) — each compresses its kernel faithfully; the evidence-limits paragraph's claims about the CBT/ACT/Grossmann literatures follow the kernels' own source notes.
