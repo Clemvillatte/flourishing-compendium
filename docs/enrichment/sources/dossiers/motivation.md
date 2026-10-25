@@ -418,3 +418,16 @@ rational concept counts as the passion Hume requires." The Goals bullet
 and the Limits clause deletion were confirmed as claim-preserving. No
 quotes or citations touched. Checks: exit 0, density 0, quote_verify
 unchanged (12 checked, 3 pre-documented fetch artifacts).
+
+## Re-splice lag confirmation (2026-10-25, launcher-pplx-1025b, no baton)
+
+The outstanding re-splice flag is precise and affects the live site now: the
+published Academy data (fcDossiersData in site/assets/app.js, verified both
+in-repo and on the live Pages deploy) still carries the pre-humanizer
+wording of the 2026-10-25 dos10 pass — e.g. the Goals nearby-terms line
+prints "this page lists only" (the dossier of record reads "I list only")
+and the old page-self-description phrasings remain in the rendered blocks.
+The markdown of record is the corrected one (commit 93ff47690 + the advisor
+QC round 041647ec9); only the compiled view data lags. Supervisor-only
+action: python3 scripts/dossier_registry_build.py --rebuild=motivation,
+node --check, commit site/assets/app.js, verify the deploy.
