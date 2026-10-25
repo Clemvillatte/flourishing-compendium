@@ -23,11 +23,11 @@ I draw an exercise from this conjunction: acknowledge the event you now face, th
 
 ### Plain words
 
-In Marcus's view, a personal disappointment belongs within a larger order whose good can exceed your own immediate advantage ([V.8](https://classics.mit.edu/Antoninus/meditations.5.five.html)). Acceptance accompanies responsibility for how you act towards people; it does not replace that responsibility ([Kamtekar](https://plato.stanford.edu/entries/marcus-aurelius/)).
+On this view, receive what happens as part of nature's order and act justly toward other people.
 
 ### For example
 
-Suppose someone else receives the promotion you wanted. After acknowledging the decision, you might seek feedback, consider whether there are fair grounds to question it and decide how to treat your colleague. Later, review whether your response expressed the fairness you value. This is my illustration, not a claim that the outcome was just or that disappointment must immediately disappear.
+Suppose someone else receives the promotion you wanted. You might seek feedback, consider whether there are fair grounds to question the decision and decide how to treat your colleague. If you need time before speaking to them, arrange a later conversation.
 
 ## Related concepts
 
@@ -37,6 +37,7 @@ Suppose someone else receives the promotion you wanted. After acknowledging the 
 ## Sources
 
 - [Marcus Aurelius, Meditations V.8 and V.36, George Long translation](https://classics.mit.edu/Antoninus/meditations.5.five.html): providential acceptance and help according to ability.
+- [Marcus Aurelius, Meditations V.36, George Long translation, numbered Lexundria edition](https://lexundria.com/m_aur_med/5.36/lg): cross-check of the instruction to give help.
 - [Rachana Kamtekar, Marcus Aurelius, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcus-aurelius/): providence, justice and social duty.
 ## Stories
 

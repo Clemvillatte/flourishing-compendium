@@ -222,3 +222,13 @@ Opened through search and fetch:
 Changes: one-sentence Plain words and a misleading-campaign example that names a claim, evidence, accurate wording and the possible cost of refusal. Read Phronesis, Virtue ethics and The unity of the virtues for alignment. Preserved front matter, seed, primary quotation, baseline links and lower sections.
 
 State reconciliation note: a concurrent supervisor aggregate-completion commit changed p1a's batch while this item was being reopened. Resolved the JSON merge in this band only, retaining the supervisor's flag texts and the worker's A037 in-progress state, then pushed the reconciled checkpoint before editing content. No other band's file, progress file or queue was edited.
+
+## S007: Accept what happens as the will of providence
+
+Opened through search and fetch:
+
+- [Marcus Aurelius, *Meditations* V, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html). Read the complete fetched book after a targeted extraction omitted the first part of V.36. Verified the exact V.8 quotation about the health of the universe and the separate direction to give help.
+- [Marcus Aurelius, *Meditations* V.36, George Long translation, Lexundria](https://lexundria.com/m_aur_med/5.36/lg). Cross-checked the numbered section's opening: “give help [to all] according to thy ability and their fitness.” Long's note warns that the section as a whole is textually corrupt or may join several things. The body uses only the explicit opening direction; it does not build an interpretation on the obscure later passage about the Rostra, or claim to resolve its transmission.
+- [Rachana Kamtekar, “Marcus Aurelius,” Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcus-aurelius/). Read the account of providence, piety and acting justly toward others. Marcus's providential cosmology remains attributed to him, not asserted as empirical fact.
+
+Changes: one-sentence Plain words and a promotion example that retains the option of questioning an unfair decision and allows time before a conversation. Removed the formulaic application disclaimer and obligatory review step; preserved the body's explicit warning that separating the exercise from providential belief changes Marcus's argument. Preserved front matter, original numbered seed, primary quote, all distinct baseline links and lower sections. Did not use any medical analogy as evidence about actual disease or treatment.
