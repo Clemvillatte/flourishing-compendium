@@ -425,3 +425,46 @@ and ST421 Meghiya Finds the Right Grove and the Wrong Thoughts
 (logline compresses the card body directly). Both match. With batch 1
 (ST018 header, ST057, ST421 header), the sampled cards all verify.
 No defects found.
+
+## Note — third question added (worker-pplx-dos4-1025k, 2026-10-25)
+
+Owner directive 2026-10-25 (d) bar repair: attention held two disagreement
+questions; a third was added, "Does attention switch or scale?" Carriers
+opened this session, both via Europe PMC REST raw records:
+- Eriksen and Yeh 1985, JEP:HPP 11(5) (PMID 2932532): the zoom-lens
+  proposal and the quoted fragment are verbatim from the record's
+  abstractText. Jonides's two-process model is characterized only as
+  Eriksen and Yeh's abstract presents it ("Instead of two alternative
+  processing modes..."); Jonides 1983 itself (Bull. Psychon. Soc. 21,
+  247-250) has no open full text and was not opened.
+- Johnson and Yantis 1995, JEP:HPP (PMID 7490586): the characterization
+  of Jonides's model and the mixture-prediction rejection are verbatim
+  or faithful paraphrase of the record's abstractText. The prose
+  attributes the characterization to them explicitly.
+An earlier draft framed the section as Posner's fixed spotlight vs
+Eriksen's zoom lens; the advisor blocked it (Posner, Snyder and Davidson
+1980 itself allows a focus that "may vary in size"; widening a contiguous
+region was conflated with splitting between regions). The Posner
+material was removed from the section; the PSD 1980 full text
+(psych.hanover.edu PDF) was opened during that draft and remains
+available for a future pass.
+
+Advisor QC: two rounds on this addition. Round 1 blocked the spotlight
+framing and required the two-process-vs-continuum dispute; round 2
+supplied a bounded replacement text, applied verbatim, and cleared the
+addition on the evidence shown, subject to validation rerun and this
+ledger update. Jonides is recorded as indirectly characterized; the new
+quote matches are distinguished from the five existing unmatched
+quotations, which remain as documented in the previous note (eye
+verified).
+
+FLAG FOR SUPERVISOR: the section's second question ("Does a wandering
+mind cost more than it returns?") explicitly states its two papers do
+not contradict each other, so three headings should not be read as three
+genuine disagreements for the 3-5 bar; the supervisor should judge the
+section against the bar with that in mind.
+
+Checks (final): dossier_check exit 0 (97 card links, 26 headers, 23
+external carriers), density 0 dense, dossier_quote_verify 16 checked 0
+new failures (5 not found, all pre-existing and documented above).
+Grep of the changed file for workflow words: clean.

@@ -31,8 +31,8 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-
 - 2026-10-25 ~06:15Z dos31 creation: 3-5 disagreement bar met (3, advisor QC passed); supervisor flip pending.
+- dos4 attention: third question added (switch vs scale, Jonides two-process vs Eriksen-Yeh zoom lens + Johnson-Yantis test), advisor-cleared; supervisor flags: 3 headings not 3 genuine disagreements (mind-wandering pair non-contradicting), registry rebuild pending.
 - 2026-10-25 ~06:07Z dos3 cognition: bar-repair drafts two disagreements, advisor QC round applied, WIP.
 
 - 2026-10-25 05:55Z supervisor-442ae42a: supervisor + p1d; advisor flags D150's Suwen locator and unsupported descent bridge for live maintenance.
