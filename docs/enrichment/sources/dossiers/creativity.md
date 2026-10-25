@@ -379,6 +379,18 @@ not necessarily whole files. The relied-on passages are inside those ranges.
     text; an earlier 'Zimmern' credit in this ledger and the third-pass
     commit message was wrong and is corrected here). VERBATIM.
 
+23. Haught-Tromp 2017, abstract (rev 3 fifth pass). "Two experiments
+    tested the hypothesis that constraints imposed on a common writing task
+    yield more creative outputs", "Both studies show a main effect of
+    constraints on creativity and an interaction with order of presentation,
+    which suggests a carryover effect: Mere practice with constraints can
+    stimulate creativity", and "written using only 50 words".
+    Carrier: https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf
+    (original URL robots-blocked; retrieved via the Wayback Machine copy of
+    the same PDF, raw download + pdftotext, all spans substring-verified;
+    the two-line-rhyme scope limit is the card's own stated limit and is
+    visible in the paper's method). VERBATIM.
+
 ## Handoff self-check (rev 3, before worker-complete)
 
 - `dossier_check.py`: exit 0 (30 card links resolve, 16 headers, 46
@@ -418,12 +430,17 @@ not necessarily whole files. The relied-on passages are inside those ranges.
 - Rev 3 keeps three formal disagreements: divergent-thinking tests (H&A raw),
   the rewards debate (H&A raw, quotes and page corrected), and the
   mind-wandering mechanism (Baird raw, Murray/FLoRA raw).
-- The Haught-Tromp 2017 constraint study could NOT be opened this session
-  (fetch robots-blocked, direct curl connection failed). Rev 2 removed its
-  findings, the Dr. Seuss wager and the constraint mechanism from
-  reader-facing prose; the K324 kernel remains linked as a practice. Flagged
-  for the supervisor: if a carrier for Haught-Tromp 2017 is wanted inline,
-  it needs an openable carrier.
+- The Haught-Tromp 2017 constraint study could NOT be opened from its
+  original URL this session (fetch robots-blocked, direct curl connection
+  failed); rev 2 removed its findings, the Dr. Seuss wager and the
+  constraint mechanism from reader-facing prose. RESOLVED late in the
+  session: the paper was retrieved via the Wayback Machine
+  (web.archive.org copy of the cct.umb.edu PDF, raw download, pdftotext),
+  the abstract's two findings sentences and the 50-word Dr. Seuss fact were
+  substring-verified, and a bounded experimental-record sentence was
+  restored to the constraint paragraph with its limits kept (two-line
+  rhymes, the Seuss story an illustration). The K324 kernel remains linked
+  as a practice.
 - The 2025 Springer self-efficacy study (larger positive bias, lower
   achievements) was removed from the dossier in rev 2: its carrier was not
   opened this session. The PP055 card carries it.
