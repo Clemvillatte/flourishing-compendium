@@ -465,3 +465,13 @@ Backsliding into Abundance (Mahāsaccaka Sutta, MN 36), ST138 Flow in
 the Everyday (Csikszentmihalyi's experience sampling), ST307 The
 Rock Climbers' Absorption (the original flow studies). All three
 loglines match the cards' subjects and sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos25-1025g, 2026-10-25)
+
+Three story cards opened at body level and checked against their
+loglines: ST391 Backsliding into Abundance (MN 36's clenched-teeth
+austerities — matches), ST138 Flow in the Everyday (thousands paged
+at random moments — matches) and ST307 The Rock Climbers' Absorption
+(climbers, chess players, surgeons, dancers; the phenomenology of
+absorption — matches). All three match. With batch 1, the sampled
+cards all verify. No defects found.
