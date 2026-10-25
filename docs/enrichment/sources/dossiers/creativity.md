@@ -146,7 +146,9 @@ not necessarily whole files. The relied-on passages are inside those ranges.
   now excepts the Haase figures; the SEP Henri Bergson entry was downloaded
   raw (curl) and both quoted spans verified locally, so the raw-verification
   claim is now true; the complete displayed mini-c span (leading 'the' plus
-  nested marks) verified against the raw chapter text.
+  nested marks) verified against the raw chapter text by whitespace collapse
+  plus explicit typographic normalization of quotation marks (curly to
+  straight), substring match True.
 - The Kierkegaard gloss removed from the Schumpeter paragraph: the sentence
   asserting what Kierkegaard's movement means and what neither source does
   rested on no opened Kierkegaard carrier. The Creative repetition link now
@@ -180,6 +182,14 @@ not necessarily whole files. The relied-on passages are inside those ranges.
 - 'Seventy years' replaced with a nonnumeric transition (1950 to the cited
   2009 model is 59 years, not seventy).
 - The opened Holt 2018 carrier now cited inline after the K323 study details.
+- Second follow-up: the unsupported rewards conclusion removed (the
+  prevalence claim about classrooms and workplaces was the dossier's own);
+  H&A citations attached to the behaviorist-position sentence and the
+  instructions-versus-rewards sentence; the Three Metamorphoses logline now
+  carries its own opened carrier (Zarathustra, Zimmern translation,
+  Gutenberg, raw curl; the parable's camel, lion, 'I will', 'Thou shalt' and
+  child passages all substring-verified) and quotes the child's description
+  from that text.
 
 ## Quotations (verification per quote; see the method section)
 
@@ -351,8 +361,16 @@ not necessarily whole files. The relied-on passages are inside those ranges.
     the Japanese stranger; the denial). All fetch-tool reads of the articles
     quoting exact sentences; the loglines were rewritten to these articles'
     own facts. The Rock Climbers logline is backed by the raw Flow text
-    already on file; the Three Metamorphoses logline retells the opened
-    ST293 card's narrative without quotation.
+    already on file.
+
+22. Thus Spake Zarathustra, 'The Three Metamorphoses' (Zimmern translation,
+    rev 3 second pass). The camel laden hastening into the wilderness, the
+    lion's 'I will' against the dragon 'Thou shalt', the lion's inability
+    to create new values, and the child's 'Innocence is the child, and
+    forgetfulness, a new beginning, a game, a self-rolling wheel'.
+    Carrier: https://www.gutenberg.org/files/1998/1998-0.txt (raw curl;
+    all retained narrative elements substring-verified in the parable text).
+    VERBATIM.
 
 ## Scope and boundary notes
 
