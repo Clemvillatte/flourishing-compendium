@@ -76,8 +76,9 @@ SRC-M27-004 (duplicate record; directly verified above).
   motivational interviewing for facilitating change across boundaries, at the
   Teachers College health disparities conference.
 - Relevant segment: whole lecture, 59:32.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Miller's credentials
+  verified on the opened UNM faculty page (see the Block F credential
+  note).
 
 ### SRC-M09-004: Motivational Interviewing — William R. Miller (Onlinevents)
 
@@ -153,8 +154,9 @@ SRC-M27-004 (duplicate record; directly verified above).
 - Content coverage (uploader description, read 2026-10-25): part 1 of a
   full-day CFT workshop by Dr. Paul Gilbert.
 - Relevant segment: whole part, 1:06:58; the full workshop is parts 1-4.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Gilbert's credentials
+  verified on the opened Derby staff page (see the Block F credential
+  note).
 
 ### M14-CFT-01b: Workshop Part 2 — Dr. Paul Gilbert (CCARE, Stanford)
 
@@ -221,8 +223,9 @@ SRC-M27-004 (duplicate record; directly verified above).
   Challenges" — based on research by Paul Gilbert, Kirsten McEwan and Jean
   Gilbert.
 - Relevant segment: whole presentation, 58:07.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Gilbert's credentials
+  verified on the opened Derby staff page (see the Block F credential
+  note).
 
 ### SRC-M09-013: Introduction to Cognitive-Behavioral Therapy (CBT) for Mental Health Professionals
 
@@ -243,8 +246,9 @@ SRC-M27-004 (duplicate record; directly verified above).
   and three waves, core principles, the ABC theory of change, counseling and
   rapport, case conceptualization, functional analysis and further CBT topics.
 - Relevant segment: whole video, 1:32:56.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Gehart's credentials
+  verified on the opened CSUN faculty catalog (see the Block F credential
+  note).
 
 ### SRC-M09-011: The Mindful Way Through Depression with Dr. Zindel Segal (UMindfulness)
 
@@ -263,8 +267,9 @@ SRC-M27-004 (duplicate record; directly verified above).
   on mindfulness and depression, including mindfulness practice as a
   supplement to antidepressant regimens.
 - Relevant segment: whole talk, 56:34.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Segal's credentials
+  verified on the opened UTSC psychology page (see the Block F credential
+  note).
 
 ### SRC-M09-008: John Teasdale — Oxford Mindfulness Centre Summer School 2016
 
@@ -284,8 +289,9 @@ SRC-M27-004 (duplicate record; directly verified above).
   framework for devising MBCT; his research on basic psychological processes
   applied to relieving emotional disorders.
 - Relevant segment: whole talk, 1:22:53.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); Teasdale's
+  credentials verified on the opened MRC CBU alumni page (see the Block F
+  credential note).
 
 ## Credential note (Block F)
 
