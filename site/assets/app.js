@@ -17748,7 +17748,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "The word is used loosely everywhere, and reading the traditions that thought about it hardest, I keep one negative definition in view: acceptance is not resignation. The clinical definition says active and aware embrace of private events without unnecessary attempts to change their frequency or form ([Hayes et al. 2006, full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). The Stoic line says not to demand that things happen as you wish, but to wish that they happen as they do happen ([Enchiridion 8, Long translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)). Nietzsche's is the most radical: [amor fati](card:Amor%20fati), wanting what happens rather than merely bearing it. The Buddhist face of the same question is the [second arrow](card:The%20second%20arrow), the suffering added by the war against the facts."
+          "x": "The word is used loosely everywhere, and reading the traditions that thought about it hardest, I hold one negative definition: acceptance is not resignation. The clinical definition says active and aware embrace of private events without unnecessary attempts to change their frequency or form ([Hayes et al. 2006, full text](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). The Stoic line says not to demand that things happen as you wish, but to wish that they happen as they do happen ([Enchiridion 8, Long translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)). Nietzsche's is the most radical: [amor fati](card:Amor%20fati), wanting what happens rather than merely bearing it. The Buddhist face of the same question is the [second arrow](card:The%20second%20arrow), the suffering added by the war against the facts."
         },
         {
           "t": "p",
@@ -17764,7 +17764,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Tolerance: enduring while the war continues. The DBT material distinguishes the two, and the distinction is the whole difference."
+          "x": "Tolerance: enduring while the war continues. The Dialectical Behavior Therapy (DBT) material distinguishes the two, and the distinction is the whole difference."
         },
         {
           "t": "p",
@@ -17784,7 +17784,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "In the clinical programme, acceptance is defined against the failure mode it names. [Experiential avoidance theory](card:Experiential%20avoidance%20theory) holds that suffering compounds when a person refuses contact with unwanted inner experience, because the refusal must be maintained, and the maintaining is itself suffering. [Acceptance](card:Acceptance) is defined against that backdrop:"
+          "x": "In the clinical programme, acceptance is defined against the failure mode it answers. [Experiential avoidance theory](card:Experiential%20avoidance%20theory) holds that suffering compounds when a person refuses contact with unwanted inner experience, because the refusal must be maintained, and the maintaining is itself suffering. [Acceptance](card:Acceptance) is defined against that backdrop:"
         },
         {
           "t": "q",
@@ -17793,11 +17793,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Acceptance and Commitment Therapy](card:Acceptance%20and%20Commitment%20Therapy) builds the intervention from six interlinked processes, and [acceptance alongside values-based action](card:Acceptance%20alongside%20values-based%20action) is the pairing that matters most here: willingness without direction can drift into passivity, so the embrace of inner events travels with committed action toward what a person stands for. The definition is behavior, not mood, all the way down: [chronic pain acceptance](card:Chronic%20pain%20acceptance) means engagement in activity with pain present, without restrictions by pain or attempts to avoid or control it."
+          "x": "[Acceptance and Commitment Therapy](card:Acceptance%20and%20Commitment%20Therapy) (ACT) builds the intervention from six interlinked processes, and [acceptance alongside values-based action](card:Acceptance%20alongside%20values-based%20action) is the pairing that matters most here: willingness without direction can drift into passivity, so the embrace of inner events travels with committed action toward what a person stands for. The definition is behavior, not mood, all the way down: [chronic pain acceptance](card:Chronic%20pain%20acceptance) means engagement in activity with pain present, without restrictions by pain or attempts to avoid or control it."
         },
         {
           "t": "p",
-          "x": "Linehan's [radical acceptance](card:Radical%20acceptance) is the DBT form, taught in the distress-tolerance module: the fully open experience of what is, with the unwillingness to accept pain taught as the route to greater suffering. Her own caution belongs beside the definition: you cannot make yourself accept, and telling someone to accept is invalidating; her word for the instruction is practice. [AF039 — Learn acceptance — the willingness to have a feeling without fighting it](card:AF039%20%E2%80%94%20Learn%20acceptance%20%E2%80%94%20the%20willingness%20to%20have%20a%20feeling%20without%20fighting%20it) is the principle form, carrying the Sallatha Sutta's instructed disciple."
+          "x": "Linehan's [radical acceptance](card:Radical%20acceptance) is the DBT form, taught in the distress-tolerance module: the fully open experience of what is, with the unwillingness to accept pain taught as the route to greater suffering. The card that adapts her handout steps carries her own caution beside the definition: you cannot make yourself accept, and telling someone to accept is invalidating; her word for the instruction is practice. [AF039 — Learn acceptance — the willingness to have a feeling without fighting it](card:AF039%20%E2%80%94%20Learn%20acceptance%20%E2%80%94%20the%20willingness%20to%20have%20a%20feeling%20without%20fighting%20it) is the principle form, carrying the Sallatha Sutta's instructed disciple."
         },
         {
           "t": "h2",
@@ -17809,7 +17809,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Nietzsche turns the discipline up a notch: [amor fati](card:Amor%20fati), the love of fate, wanting nothing to be different and loving the necessary rather than merely bearing it. The Daoist neighbour is [D098 — Accept what destiny brings (li ming)](card:D098%20%E2%80%94%20Accept%20what%20destiny%20brings%20%28li%20ming%29), the Liezi's staged debate between Endeavour and Destiny, in which long life, failure, rank and wealth come about of themselves and no one directs them. At the far edge of the theme, [death acceptance](card:Death%20acceptance) in Wong's research programme splits into three attitudes measured by the DAP-R: neutral acceptance of death as a natural process, approach acceptance looking toward what follows it, and escape acceptance of death as a better alternative to present sufferings."
+          "x": "Nietzsche turns the discipline up a notch: [amor fati](card:Amor%20fati), the love of fate, wanting nothing to be different and loving the necessary rather than merely bearing it. The Daoist neighbour is [D098 — Accept what destiny brings (li ming)](card:D098%20%E2%80%94%20Accept%20what%20destiny%20brings%20%28li%20ming%29), the Liezi's staged debate between Endeavour and Destiny, in which long life, failure, rank and wealth come about of themselves and no one directs them. At the far edge of the theme, [death acceptance](card:Death%20acceptance) in Wong's research programme splits into three attitudes measured by the Death Attitude Profile-Revised (DAP-R): neutral acceptance of death as a natural process, approach acceptance looking forward to a blessed afterlife, and escape acceptance of death as a better alternative to present sufferings ([Jansen et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/))."
         },
         {
           "t": "h2",
@@ -17837,11 +17837,43 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Marcus Aurelius grounds it in providence. Meditations V.8 compares adversity to a physician's prescription and concludes: \"accept everything which happens, even if it seem disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus (the universe). For he would not have brought on any man what he has brought, if it were not useful for the whole\" ([Meditations V.8, Long translation, MIT Classics](https://classics.mit.edu/Antoninus/meditations.5.five.html)). The Liezi's debate ends on the other footing: when a thing is destined, no one directs it, and long life and short, failure and success, high rank and low, wealth and poverty come about of themselves ([D098](card:D098%20%E2%80%94%20Accept%20what%20destiny%20brings%20%28li%20ming%29), the Liezi's own answer to Endeavour)."
+          "x": "Marcus Aurelius grounds it in providence. Meditations V.8 compares adversity to a physician's prescription and concludes: \"accept everything which happens, even if it seem disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus (the universe). For he would not have brought on any man what he has brought, if it were not useful for the whole\" ([Meditations V.8, Long translation, MIT Classics](https://classics.mit.edu/Antoninus/meditations.5.five.html)). The Liezi's debate ends on the other footing: when a thing is destined, no one directs it, and long life and short, failure and success, high rank and low, wealth and poverty come about of themselves ([D098](card:D098%20%E2%80%94%20Accept%20what%20destiny%20brings%20%28li%20ming%29), the Liezi's own answer to Endeavour; corroborated in the Giles translation, [Liezi ch. 6](https://www.thedaobums.com/topic/54935-liezi-chapter-6-effort-and-destiny/))."
         },
         {
           "t": "p",
           "x": "The difference is in the direction of the happening, not in the acceptance of it. Marcus's passage reads each adversity as prescribed, fitted to the good of the whole; the Liezi's passage drops the question of who, if anyone, is doing the prescribing. Whether the Liezi's person can be grateful, or trusts anything, is not settled by the passages; what they state is the presence or absence of a prescriber. My lean is editorial rather than sourced: I prefer beginning without attributing a purpose to the loss, but a reader who needs the loss to mean something is not misreading Marcus."
+        },
+        {
+          "t": "h2",
+          "x": "Is acceptance a different process from changing what one thinks?"
+        },
+        {
+          "t": "p",
+          "x": "Hayes and colleagues present acceptance as part of a model that differs from standard cognitive-behavioural therapy in how it works: \"What evidence is available suggests that ACT works through different processes than active treatment comparisons, including traditional CBT\" ([Hayes, Luoma, Bond, Masuda & Lillis 2006, abstract](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)). The paper adds: \"Component analysis studies have generally failed to find support for the importance of direct cognitive change strategies\" (same paper)."
+        },
+        {
+          "t": "p",
+          "x": "Hofmann answers on two fronts. His 2008 abstract says the criticism ACT offers against CBT rests on a misrepresentation of the empirical evidence, that ACT's strategies are not specific to the theory and philosophy underlying ACT, and that they resemble Morita therapy, developed 80 years earlier ([Hofmann 2008, Acceptance and Commitment Therapy: New Wave or Morita Therapy?, Clinical Psychology: Science and Practice, abstract](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2850.2008.00138.x)). With Asmundson he places the two on one map: CBT works on antecedent-focused regulation and the acceptance strategies of ACT counteract response-focused strategies such as suppression, and the techniques are fully compatible with CBT ([Hofmann & Asmundson 2008, Clinical Psychology Review, abstract, PMID 17904260](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17904260&rettype=abstract&retmode=text))."
+        },
+        {
+          "t": "p",
+          "x": "I have read the abstracts on Hofmann's side, not the full papers, and I have not checked his account of the evidence against Hayes's. What the abstracts do show is that the quarrel is about the theory of why acceptance helps: a separate process, or one stage of emotion regulation among others. Hofmann's point about compatibility matters for a writer, because it means the practice described here does not require siding with either theory. My lean is practical and unsourced: use acceptance where the added layer is the problem, as the junction section describes, and leave the mechanism question to the trials."
+        },
+        {
+          "t": "h2",
+          "x": "Is bearing necessity enough, or must it be loved?"
+        },
+        {
+          "t": "p",
+          "x": "Epictetus sets the bar at wishing: \"Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well\" ([Enchiridion 8, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)). Elsewhere in the same text, a little spilt oil is \"the price paid for equanimity, for tranquillity\" (same text)."
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche sets it higher. \"Not only must the necessary be borne, and on no account concealed,--all idealism is falsehood in the face of necessity,--but it must also be loved\" ([Ecce Homo, Why I Am So Clever, Gutenberg](https://www.gutenberg.org/cache/epub/52190/pg52190.txt)). He also attacks the Stoic ground directly: Stoicism, he writes, is self-tyranny, because the Stoics read their own ideals into nature and then claim to follow it ([Beyond Good and Evil, section 9, Zimmern translation, Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt))."
+        },
+        {
+          "t": "p",
+          "x": "The wording is closer than the quarrel suggests, since a wish that things be as they are already goes past bearing. The difference the texts support is in the aim and the charge: tranquillity against a formula for greatness, and the accusation that the Stoic stance is a disguised act of will. Whether loving a loss is something a person can be asked to do is a further question that neither text addresses; the [radical acceptance](card:Radical%20acceptance) card carries Linehan's caution that telling someone to accept can invalidate them. My lean is editorial: begin with Epictetus's lower bar, and treat Nietzsche's as something a person may arrive at, not something to be handed over."
         },
         {
           "t": "h",
@@ -17864,7 +17896,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[K123 — Radical acceptance](card:K123%20%E2%80%94%20Radical%20acceptance): accept the reality of a situation you cannot change, as acknowledgment rather than approval. Linehan's steps run from noticing the fight against reality to practicing with the whole self; her caution stands: acceptance is practiced, not commanded."
+          "x": "[K123 — Radical acceptance](card:K123%20%E2%80%94%20Radical%20acceptance): accept the reality of a situation you cannot change, as acknowledgment rather than approval. Linehan's steps run from noticing the fight against reality to practicing with the whole self ([Guilford reproducible teaching materials, DBT Skills Training Manual](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf?t=1)); her caution stands: acceptance is practiced, not commanded."
         },
         {
           "t": "n",
@@ -17891,7 +17923,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST188 — Epictetus and the Leg](card:ST188%20%E2%80%94%20Epictetus%20and%20the%20Leg): born a slave, Epictetus is reported by later sources to have been lamed by his master, saying as the leg was being broken that he had told him it would break."
+          "x": "[ST188 — Epictetus and the Leg](card:ST188%20%E2%80%94%20Epictetus%20and%20the%20Leg): born a slave, Epictetus is reported by later sources to have been lamed by his master, warning as the leg was being broken that he had told him it would break, and saying when it did that he had told him so."
         },
         {
           "t": "p",
