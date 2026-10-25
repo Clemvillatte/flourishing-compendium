@@ -888,6 +888,11 @@
      "t": "2026-10-21T12:45:11+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:18:17+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:18:17: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1068,6 +1073,11 @@
      "t": "2026-10-21T12:51:03+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:18:17+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:18:17: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1118,6 +1128,11 @@
      "t": "2026-10-21T12:52:49+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-25T15:18:17+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:18:17: sample verified - all quotes VERBATIM on both carriers (see QC notes)"
     }
    ]
   },
@@ -1167,5 +1182,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:17:50+00:00"
+ "updated": "2026-10-25T15:18:17+00:00"
 }
