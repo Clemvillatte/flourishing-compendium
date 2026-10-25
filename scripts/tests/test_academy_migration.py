@@ -32,6 +32,8 @@ APP_JS = os.path.join(ROOT, 'site', 'assets', 'app.js')
 MARKER = 'window.fcAcademyData = '
 GALLERY_MARKER = 'window.fcGalleryData = '
 MIGRATION_COMMIT = 'c4880ebb3'  # app.js schema v2 commit (deg-integrate, 2026-10-25)
+GALLERY_SHA256 = '8acfbe374d4635c9b50b8f846ff3167dac6c9d4e42f01b6b60021193ebcfa6f2'
+GALLERY_BYTES = 337528  # raw JSON slice length at the migration commit
 
 PRACTICA = ('deg-qigong', 'deg-cmp', 'deg-psychology-101')
 LEGACY = ('deg-philosophy', 'deg-contemplative', 'deg-relational', 'deg-mind',
@@ -180,16 +182,16 @@ class MigrationAuditTests(unittest.TestCase):
     def test_gallery_block_bytes_identical(self):
         """The fcGalleryData block that follows the Academy block must be
         untouched: its raw JSON slice is byte-for-byte identical between the
-        two revisions (hash recorded for the record)."""
+        two revisions, matching the recorded digest."""
         pre_src = git_show(MIGRATION_COMMIT + '^')
         post_src = git_show(MIGRATION_COMMIT)
         pre_slice = gallery_slice(pre_src)
         post_slice = gallery_slice(post_src)
         self.assertEqual(pre_slice, post_slice)
-        self.assertTrue(pre_slice)
+        self.assertEqual(len(post_slice), GALLERY_BYTES)
         self.assertEqual(
-            hashlib.sha256(pre_slice.encode('utf-8')).hexdigest(),
-            hashlib.sha256(post_slice.encode('utf-8')).hexdigest())
+            hashlib.sha256(post_slice.encode('utf-8')).hexdigest(),
+            GALLERY_SHA256)
 
 
 def gallery_slice(text):

@@ -14,7 +14,7 @@ in the degrees array:
   psychology-101 bridge) render in the PRACTICUM section of the Academy
   home; everything else renders under Degrees. The psychology-101 card is
   an external link to the Psychology Lab site; its address is read from
-  the url of source PSY-01 attached to its module, never hardcoded.
+  the url of source PSY-101 attached to its module, never hardcoded.
 - legacy: true on the seven superseded programs (deg-philosophy,
   deg-contemplative, deg-relational, deg-mind, deg-wellbeing,
   deg-therapeutic, deg-psychology-101). They render behind the Legacy
