@@ -3,9 +3,12 @@
 Verification round on ready-unpublished drafts across lanes (mechanical + quote fidelity):
 
 - s1b-034 (Hakuin on the Ice Sheet, Terebess/Yampolsky): "great was my distress" and
-  "frozen solid in an ice sheet" spans verbatim; the temple-bell span had "as if a
-  sheet of ice" where the source reads "as though" — FIXED in draft + ledger
-  (commit 4b0bc9bcd); quote now verbatim with "Then" inside the span.
+  "frozen solid in an ice sheet" spans verbatim. CORRECTION 2026-10-25: an earlier
+  pass reported the temple-bell span as "as if" vs the source's "as though" and
+  "fixed" it (commit 4b0bc9bcd); a direct raw-fetch exact-match then proved the
+  source reads "as if a sheet of ice" — the fix was an error and was REVERTED
+  (commit 33aa597d4) with the correction recorded in the draft's QC notes. The
+  draft's wording was verbatim all along.
 - s1d-006 (The Diamond That Was Never Scratched, Peirce's maxim via peirce.org
   p119): both quoted spans verbatim.
 - s1d-010 (Kalamas, Thanissaro via Access to Insight): 4/4 checked spans verbatim;
@@ -33,6 +36,8 @@ Verification round on ready-unpublished drafts across lanes (mechanical + quote 
   spans verbatim.
 
 Session verification tally: 9 ready-unpublished drafts + 2 published pages quote-checked
-across lanes; 1 fidelity defect found and fixed (s1b-034); 2 duplicate-narrative
-dispositions routed (s1c-039 vs ST430, s1d-010 vs ST466); 1 source bot-walled
-(s1b-037, ctext).
+across lanes; 1 false-positive fidelity "fix" made and reverted (s1b-034 — the draft
+was verbatim all along; lesson: exact-match raw carrier text, never trust a
+prompt-extraction's rendering); 3 duplicate-narrative dispositions routed (s1c-039 vs
+ST430, s1d-010 vs ST466, s1d-008 vs ST433 — the last found in a later sweep); 1
+source bot-walled (s1b-037, ctext).
