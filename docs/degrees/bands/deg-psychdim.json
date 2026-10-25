@@ -1,9 +1,9 @@
 {
  "band": "deg-psychdim",
  "kind": "degree",
- "holder": null,
- "phase": "awaiting-launch",
+ "holder": "worker-pplx-psychdim-1",
+ "phase": "milestone-1-delivered",
  "modules": {},
- "notes": "New degree per owner directive 2026-10-25; scope doc in scope/; raw material noted in the scope doc",
- "updated": "2026-10-25T07:43:18+00:00"
+ "notes": "2026-10-25 session (T0 08:14:17Z, 60 min cap): fresh source strategy built, 11 sources opened (all free access), one paywalled candidate rejected; coverage matrix v1 and scope benchmark delivered in ledgers/deg-psychdim.md and scope/deg-psychdim.md; scope wording fixed from five to six dimensions; awaiting advisor review of matrix before module production",
+ "updated": "2026-10-25T08:35:00+00:00"
 }

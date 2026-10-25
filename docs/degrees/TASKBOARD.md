@@ -65,3 +65,10 @@ reference, unique source ids in brackets):
 ## Degree checkpoints
 
 (append below, newest first)
+- 2026-10-25 worker-pplx-psychdim-1: deg-psychdim milestone 1 delivered: ledger
+  created (11 opened free sources, coverage matrix v1, gap register), scope doc
+  benchmarked against opened anchors and dimension count corrected to six;
+  advisor review of the matrix is the next gate before module production.
+  Flags for strategist: whether EEMM socio-cultural and biophysiological
+  levels appear as context material; attentional dimension needs a post-2020
+  open review (current anchors 2019/2014).
