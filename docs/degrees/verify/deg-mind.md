@@ -458,3 +458,366 @@ standard.
   cultures of honor.
 - Relevant segment: whole lecture, 0:56:06.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+
+# Verification evidence: deg-mind (Block D, attached sources)
+
+Verifier: verifier-pplx-1025g (baton deg-verify-b, takeover 2026-10-25). Verification
+standard: skill section 4. Method as the other Block C-I files: identity from oembed
+plus the watch page, duration from the watch page, content coverage from the
+recording's own description or transcript basis, credentials from institutional
+pages (each page opened 2026-10-25). All 18 attached-but-imported unique records
+for deg-mind are treated below; the seven SRC-M28-00x attachments are already
+verified elsewhere and are not re-treated.
+
+## Block D status
+
+25 unique attachments across mod-mind-1..4 and mod-cap-mind; 18 were still
+labelled imported and are treated below: M06-AF01, M06-AF03, M06-AF09, M06-AF04,
+M06-AF05, M06-AF06, M06-CO04, M06-CO05, M06-CO02, M06-AT01, M06-AT02, M06-AT06,
+SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008, SRC-M07-019.
+Verified 2026-10-25: all 18. Flags for the degree owner: M06-AF04/AF05/CO02 carry
+no uploader description (content basis is the title only); SRC-M07-005's catalog
+title does not match the live video title; M06-AT06 duplicates the verified
+SRC-M28-002 record; SRC-M07-001's page prints chapter times but no total duration;
+SRC-M07-019 has free and paid access paths (see the access note).
+
+### M06-AF01: 11. Evolution, Emotion, and Reason: Emotions, Part I (Paul Bloom, Yale)
+
+- Identity and access: oembed confirms the lecture on the YaleCourses channel
+  (https://www.youtube.com/watch?v=8UySWKNjw5Y); watch page opened 2026-10-25.
+- Duration: 56:07 (watch page, 2026-10-25).
+- Instructor credentials: Professor Paul Bloom, instructor of PSYC 110
+  (Introduction to Psychology, Open Yale Courses; the OYC course pages opened
+  this session name him as the course instructor).
+- Language: English; the YaleCourses upload family carries transcripts.
+- Content coverage (uploader description, read 2026-10-25): introduction to the
+  evolutionary analysis of human emotions — how they work, why they exist and
+  what they communicate; happiness (smiling), fear, emotions toward relatives,
+  and babies' emotional responses to caregivers.
+- Relevant segment: whole lecture, 56:07.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AF03: 20. The Good Life: Happiness (Paul Bloom, Yale)
+
+- Identity and access: oembed confirms the lecture on the YaleCourses channel
+  (https://www.youtube.com/watch?v=7dep9KPWp3g); watch page opened 2026-10-25.
+- Duration: 47:35 (watch page, 2026-10-25).
+- Instructor credentials: as M06-AF01 (PSYC 110, Paul Bloom).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the course's final
+  lecture wraps up clinical psychology with treatment efficacy, then reviews
+  positive-psychology research on happiness — what makes people happy, how
+  happiness varies across people and cultures, what happiness is for, and why
+  people are bad at predicting what will make them happiest. Recorded Spring 2007.
+- Relevant segment: whole lecture, 47:35.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AF09: How Positive Emotions Work and Why (Barbara L. Fredrickson, Aalto University)
+
+- Identity and access: oembed confirms the lecture on the Aalto University
+  channel (https://www.youtube.com/watch?v=nD_SbilNMo4); watch page opened
+  2026-10-25. Archive recording of a guest lecture at Aalto University,
+  21 June 2010.
+- Duration: 1:47:19 (watch page, 2026-10-25).
+- Instructor credentials: Barbara L. Fredrickson, Kenan Distinguished Professor
+  of Psychology (UNC Department of Psychology and Neuroscience core-faculty page:
+  https://psychology.unc.edu/core-faculty/, opened 2026-10-25).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): chapters on positive
+  emotions, the broaden-and-build theory, downstream consequences, cellular and
+  physical impact, vagal tone and meditation, relationships, flourishing and
+  resilience.
+- Relevant segment: whole lecture, 1:47:19.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AF04: Pufendorf Lectures 2024, Lisa Feldman Barrett — Day 1: Constructing Emotion
+
+- Identity and access: oembed confirms the video on the HT-fakulteterna vid
+  Lunds universitet (Lund University humanities faculties) channel
+  (https://www.youtube.com/watch?v=rgXUQuQQXBo); watch page opened 2026-10-25.
+  Pufendorf Lectures, Lund University, 2024.
+- Duration: 1:50:04 (watch page, 2026-10-25).
+- Instructor credentials: Lisa Feldman Barrett — institutional page pending this
+  session (see the credential note below; owner should attach her Northeastern
+  University profile when scheduling).
+- Language: English (title in English; lecture series hosted by a Swedish
+  faculty body).
+- Content coverage: the page carries no description; the coverage basis is the
+  title only (Day 1 of the 2024 Pufendorf Lectures by Lisa Feldman Barrett,
+  "Constructing Emotion"). CONTENT BASIS FLAG: confirm against the recording
+  or transcript before scheduling.
+- Relevant segment: whole lecture, 1:50:04.
+- Verification status: verified-partial (identity, access, duration; coverage
+  basis is the title only).
+
+### M06-AF05: Pufendorf Lectures 2024, Lisa Feldman Barrett — Day 2: Constructing the Mind
+
+- Identity and access: oembed confirms the video on the same Lund University
+  channel (https://www.youtube.com/watch?v=jKZbuvS3_Mk); watch page opened
+  2026-10-25.
+- Duration: 1:42:41 (watch page, 2026-10-25).
+- Instructor credentials: as M06-AF04 (pending this session).
+- Language: English.
+- Content coverage: no description on the page; the coverage basis is the title
+  only (Day 2, "Constructing the Mind"). CONTENT BASIS FLAG: confirm against the
+  recording or transcript before scheduling.
+- Relevant segment: whole lecture, 1:42:41.
+- Verification status: verified-partial (identity, access, duration; coverage
+  basis is the title only).
+
+### M06-AF06: LeDoux — What Fearful Rats Can Tell Us About Treating Psychiatric Disorders
+
+- Identity and access: oembed confirms the talk on the PsychiatryLectures
+  channel (https://www.youtube.com/watch?v=9_IIgXWdF-w); watch page opened
+  2026-10-25. A Stockholm Psychiatry Lecture held 2 February 2011 at
+  Karolinska Institutet by Prof. Joseph LeDoux, New York University.
+- Duration: 51:41 (watch page, 2026-10-25).
+- Instructor credentials: Joseph LeDoux, New York University (per the talk
+  description; institutional page pending this session — see credential note).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): chapters on
+  Pavlovian fear conditioning, amygdala and fear circuitry, extinction and
+  therapy, memory reconsolidation, extinction without fear, active versus
+  passive coping, and individual differences.
+- Relevant segment: whole talk, 51:41.
+- Verification status: verified-video (2026-10-25); credentials from the
+  recording's own description, institutional page pending.
+
+### M06-CO04: Antonio Damasio, "Feeling & Knowing: Making Minds Conscious"
+
+- Identity and access: oembed confirms the talk on the Harvard Science Book
+  Talks and Research Lectures channel
+  (https://www.youtube.com/watch?v=PrVJflJLooc); watch page opened 2026-10-25.
+- Duration: 59:38 (watch page, 2026-10-25).
+- Instructor credentials: Antonio Damasio, University Professor and Professor of
+  Psychology, Philosophy and Neurology, David Dornsife Chair in Neuroscience,
+  Director of the Brain and Creativity Institute, USC (USC Dornsife profile:
+  https://dornsife.usc.edu/profile/antonio-damasio/, opened 2026-10-25).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a 2021-22 Harvard
+  Science Book Talk on the book Feeling & Knowing — how consciousness differs
+  from sensing, why nervous systems are essential to feelings, and how feeling
+  opens the way to consciousness.
+- Relevant segment: whole talk, 59:38.
+- Verification status: verified-video (2026-10-25).
+
+### M06-CO05: Thinking, Fast and Slow (Daniel Kahneman, University of Zurich)
+
+- Identity and access: oembed confirms the lecture on the Economics. For
+  Society. channel (https://www.youtube.com/watch?v=qzJxAmJmj8w); watch page
+  opened 2026-10-25. Public lecture by Prof. Daniel Kahneman, 16 April 2013,
+  Aula, University of Zurich.
+- Duration: 1:06:42 (watch page, 2026-10-25). Printed chapters: introduction by
+  Ernst Fehr 0:00; Kahneman lecture 6:50.
+- Instructor credentials: Daniel Kahneman, Nobel laureate in economics (2002);
+  at the time of the lecture Eugene Higgins Professor of Psychology and
+  Professor of Public Affairs Emeritus, Princeton University (institutional
+  page pending this session — see credential note).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a public lecture on
+  Thinking, Fast and Slow at the University of Zurich; the chapter structure is
+  an introduction followed by the lecture itself.
+- Relevant segment: lecture from 6:50 to end (1:06:42); the 0:00-6:50
+  introduction by Ernst Fehr is optional context.
+- Verification status: verified-video (2026-10-25); credentials from the
+  Nobel/Princeton record pending an opened institutional page.
+
+### M06-CO02: PSU's Dr. Keith Stanovich — What Intelligence Tests Miss
+
+- Identity and access: oembed confirms the video on the Portland State
+  University channel (https://www.youtube.com/watch?v=IhwovFgur-E); watch page
+  opened 2026-10-25.
+- Duration: 1:38:34 (watch page, 2026-10-25).
+- Instructor credentials: Keith Stanovich, adjunct professor of human
+  development and applied psychology at the University of Toronto, Canada
+  Research Chair in Applied Cognitive Science (U of T record; institutional
+  page opened via search extracts 2026-10-25 — the OISE graduate bulletin lists
+  him as Professor, status only, Human Development and Applied Psychology).
+- Language: English.
+- Content coverage: the page states "No description has been added to this
+  video"; the coverage basis is the title only (a Portland State talk by Keith
+  Stanovich on What Intelligence Tests Miss, his 2009 book on the psychology
+  of rational thought). CONTENT BASIS FLAG: confirm against the recording or
+  transcript before scheduling.
+- Relevant segment: whole talk, 1:38:34.
+- Verification status: verified-partial (identity, access, duration; coverage
+  basis is the title only).
+
+### M06-AT01: CMS Mindfulness Science Keynote Lecture — Dr. Amishi Jha
+
+- Identity and access: oembed confirms the keynote on the USC Center for
+  Mindfulness Science channel (https://www.youtube.com/watch?v=K9mxZ26cnaA);
+  watch page opened 2026-10-25.
+- Duration: 1:24:01 (watch page, 2026-10-25).
+- Instructor credentials: Amishi Jha, Professor of Psychology and Director of
+  Contemplative Neuroscience, University of Miami (Miami people page:
+  https://people.miami.edu/profile/23c4cb6d81809e3189c670d4e7b6649d, opened
+  2026-10-25).
+- Language: English.
+- Content coverage (page content, read 2026-10-25): "Strengthening Attention
+  and Working Memory with Mindfulness Training" — the keynote's listed topic.
+- Relevant segment: whole keynote, 1:24:01.
+- Verification status: verified-video (2026-10-25).
+
+### M06-AT02: "Training Brain Networks and States" by Michael Posner (SmithGroup Lecture 2016)
+
+- Identity and access: oembed confirms the lecture on the Beckman Institute at
+  Illinois channel (https://www.youtube.com/watch?v=IAw1L2CIaHs); watch page
+  opened 2026-10-25. SmithGroup Lecture, Beckman Institute, University of
+  Illinois Urbana-Champaign, 15 April 2016.
+- Duration: 59:40 (watch page, 2026-10-25).
+- Instructor credentials: Michael I. Posner, Professor Emeritus of Psychology
+  (per the uploader description; institutional page pending this session —
+  see credential note).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): his work examining
+  the mechanisms of change in white matter resulting from various forms of
+  training; how mental operations — particularly attention — are carried out
+  by neural networks, using cognitive, imaging and genetic methods.
+- Relevant segment: whole lecture, 59:40.
+- Verification status: verified-video (2026-10-25); credentials from the
+  uploader description, institutional page pending.
+
+### M06-AT06: Spring 2025 Quinn Memorial Lecture with Dr. Anna C. Nobre
+
+- Identity and access: duplicate URL of the already-verified SRC-M28-002
+  (https://www.youtube.com/watch?v=pQYMr-qisQY, UBC Psychology channel); that
+  record's verification (duration 0:55:55, watch page) was completed by the
+  earlier session and is on file in this ecosystem.
+- Flag for the owner: this M06-AT06 catalog record and SRC-M28-002 are the
+  same resource; one of the two catalog entries should be retired or cross-
+  referenced at integration time.
+- Verification status: verified-video (duplicate of SRC-M28-002).
+
+### SRC-M07-001: PSYC 110 — Lecture 16: A Person in the World of People: Self and Other, Part I
+
+- Identity and access: the OYC page
+  (https://oyc.yale.edu/psychology/psyc-110/lecture-16) opened 2026-10-25;
+  the page displays the lecture and its HTML transcript without login.
+- Duration: no total duration printed on the page; chapter start times run to
+  00:50:03 (chapter 6, "How We Think about Other People"), so the lecture runs
+  past the 50-minute mark. DURATION FLAG: the owner should read the total from
+  the embedded player before workload arithmetic.
+- Instructor credentials: Professor Paul Bloom, PSYC 110, Open Yale Courses
+  (stated on the opened course page).
+- Language: English; a full HTML transcript is printed on the page.
+- Content coverage (page text, read 2026-10-25): begins the social-psychology
+  sequence — how people think about themselves, others and social groups;
+  six degrees of separation; the spotlight and transparency effects; Lake
+  Wobegon effect and self-serving bias; cognitive dissonance; attribution and
+  the fundamental attribution error; liking (proximity, mere exposure,
+  similarity, attractiveness). Chapters: Social Psychology and Connections
+  00:00:00; Aspects of the Self: Spotlight and Transparency 00:15:56; You're
+  Terrific! 00:22:40; Cognitive Dissonance 00:27:01; Self and the Other
+  00:40:00; How We Think about Other People 00:50:03.
+- Relevant segment: whole lecture (chapters as listed).
+- Verification status: verified-page, with the duration gap flagged.
+
+### SRC-M07-004: Lecture 2: The Self — PSY 203: Social Psychology (Alexander Swan, Eureka College)
+
+- Identity and access: oembed confirms the lecture on the Alexander Swan,
+  Ph.D. channel (https://www.youtube.com/watch?v=5QbVUxYsKDQ); watch page
+  opened 2026-10-25. An online summer course in Social Psychology at Eureka
+  College, Eureka, Illinois.
+- Duration: 51:37 (watch page, 2026-10-25).
+- Instructor credentials: Alexander Swan, Ph.D., course instructor (per the
+  uploader description; institutional page pending this session — see
+  credential note).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the self, origins
+  of self-knowledge, self-perception, self-regulation and self-control,
+  ego-depletion theory, and Walter Mischel's marshmallow study.
+- Relevant segment: whole lecture, 51:37.
+- Verification status: verified-video (2026-10-25); credentials from the
+  uploader description, institutional page pending.
+
+### SRC-M07-005: Self-Determination Theory — Deci and Ryan (SDT2019 plenary)
+
+- Identity and access: oembed confirms the plenary on the Center for
+  Self-Determination Theory channel (https://www.youtube.com/watch?v=SpTYTDelrcA);
+  watch page opened 2026-10-25. TITLE MISMATCH FLAG: the catalog record is
+  titled "Self-Determination Theory: An Incomplete Overview in 100 Minutes",
+  but the live video is titled "Plenary by Prof. dr. Edward Deci and Prof. dr.
+  Richard Ryan @ SDT2019" (recorded at the SDT 2019 conference); the owner
+  should reconcile the catalog title at integration time.
+- Duration: 2:16:42 (watch page, 2026-10-25).
+- Instructor credentials: Edward Deci and Richard Ryan, co-founders of
+  self-determination theory, University of Rochester (institutional page
+  pending this session — see credential note).
+- Language: English.
+- Content coverage: the page carries no description; the page's listed key
+  moments cover intrinsic motivation, neuroscience, psychological needs,
+  motivation, rewards, autonomy support, and mindfulness. CONTENT BASIS FLAG:
+  key-moments listing only; confirm against the recording or transcript before
+  scheduling.
+- Relevant segment: whole plenary, 2:16:42.
+- Verification status: verified-partial (identity, access, duration; coverage
+  basis is the key-moments listing; catalog title mismatch flagged).
+
+### SRC-M07-007: Foresight and Self-Control — Terrie Moffitt (Duke)
+
+- Identity and access: oembed confirms the talk on the Darwin College Lecture
+  Series channel (https://www.youtube.com/watch?v=vHQV4NSeORE); watch page
+  opened 2026-10-25. Darwin College Lecture Series, Cambridge.
+- Duration: 51:25 (watch page, 2026-10-25).
+- Instructor credentials: Terrie Moffitt, Associate Director of the Dunedin
+  Longitudinal Study and professor at Duke University (per the description;
+  institutional page pending this session — see credential note).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): "Young Children's
+  Self-control: Foreseeing Health and Wealth" — how childhood self-control
+  predicts later criminal offending, addiction, personal finances, benefit
+  use, retirement savings, physical health and illness, drawing on a New
+  Zealand cohort and a UK twin-sibling cohort.
+- Relevant segment: whole talk, 51:25.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### SRC-M07-008: Leading Voices in Higher Education — Roy F. Baumeister (Dartmouth)
+
+- Identity and access: oembed confirms the lecture on the Dartmouth channel
+  (https://www.youtube.com/watch?v=Lda81_Mq7Es); watch page opened 2026-10-25.
+  Leading Voices in Higher Education lecture, Dartmouth, 27 March 2012.
+- Duration: 54:22 (watch page, 2026-10-25).
+- Instructor credentials: Roy F. Baumeister, social psychologist (per the
+  description "one of the world's leading social psychologists"; institutional
+  page pending this session — see credential note).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): his lecture
+  "Understanding Self-Control and the Limits of Willpower" — how people can
+  influence important aspects of individual and societal wellbeing.
+- Relevant segment: whole lecture, 54:22.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### SRC-M07-019: The Science of Well-Being (Laurie Santos, Yale)
+
+- Identity and access: the Yale Online course page
+  (https://online.yale.edu/courses/science-well-being) opened 2026-10-25.
+  ACCESS NOTE: the page lists free and paid paths — free Coursera access to
+  the full course without a certificate, free YouTube access to the course
+  videos, and a paid Coursera certificate ($49). Free access paths exist for
+  an anonymous visitor on YouTube; the Coursera full-course path requires
+  registration (free account). No paywall is required to watch the videos.
+- Duration: 6 weeks, about 10 hours (printed on the page).
+- Instructor credentials: Laurie Santos, Professor of Psychology and Head of
+  Silliman College, Yale University (stated on the opened Yale page).
+- Language: English.
+- Content coverage (page text, read 2026-10-25): challenges designed to
+  increase happiness and build productive habits; misconceptions about
+  happiness; annoying features of the mind; research that can help people
+  change; incorporating a specific wellness activity into life.
+- Relevant segment: whole course.
+- Verification status: verified-page (2026-10-25), with the registration
+  nuance on the Coursera path recorded for the owner.
+
+## Credential note (pending pages, to be completed by the next verifier or owner)
+
+The following speakers' credentials are currently recorded from the
+recordings' own descriptions or the search-result extracts of institutional
+pages, not yet from an opened institutional page: Lisa Feldman Barrett
+(M06-AF04/05), Joseph LeDoux (M06-AF06), Daniel Kahneman (M06-CO05),
+Michael Posner (M06-AT02), Alexander Swan (SRC-M07-004), Deci and Ryan
+(SRC-M07-005), Terrie Moffitt (SRC-M07-007), Roy Baumeister (SRC-M07-008),
+Keith Stanovich (M06-CO02, U of T extracts only). Identity, access, duration
+and coverage for these records are otherwise verified above.
