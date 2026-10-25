@@ -1056,3 +1056,21 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole class, 1:56:24.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### M02-K08: Emptiness and the Mind Perceiving It — Dr. Jay L. Garfield (Sravasti Abbey)
+
+- Identity and access: oembed confirms the teaching on the Sravasti Abbey
+  channel (https://www.youtube.com/watch?v=qERKfwHRkyk); watch page opened
+  2026-10-25. Series: Emptiness and the Mind Perceiving It with Dr. Jay L.
+  Garfield (2020), session 02, 9 May 2020.
+- Duration: 1:48:23 (watch page, 2026-10-25).
+- Instructor credentials: Dr. Jay L. Garfield (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): continuation
+  of his introduction to Yogacara and Madhyamaka philosophy — the three
+  natures the Buddha taught in the sixth chapter of The Sutra Unravelling
+  the Thought.
+- Relevant segment: whole session, 1:48:23.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.

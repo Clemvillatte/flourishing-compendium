@@ -1171,3 +1171,62 @@ Verifier: verifier-pplx-a1 (baton deg-verify-a).
 - Relevant segment: whole dialogue, 59:13.
 - Verification status: verified-partial (identity, access, duration;
   coverage basis is the chapter headings; independent channel).
+
+### AR-03: Virtue and Experience (Lecture 2) — Richard Kraut, Tanner Lectures 2017 (Stanford)
+
+- Identity and access: oembed confirms the lecture on the McCoy Family
+  Center for Ethics in Society (Stanford) channel
+  (https://www.youtube.com/watch?v=KSb7qlaUNrg); watch page opened
+  2026-10-25. Tanner Lectures 2017, lecture 2.
+- Duration: 1:22:22 (watch page, 2026-10-25).
+- Instructor credentials: Richard Kraut (per the uploader description; an
+  institutional page was not opened this session — he is the Charles
+  Morrison Professor Emeritus in the Humanities at Northwestern per
+  general knowledge, NOT verified in an opened source this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): an answer to
+  "What is the good in being a good human being?" via the inner life of
+  the good person; Kant's view that arguments from self-interest are
+  irrelevant; Nozick's thought experiment examined in detail.
+- Relevant segment: whole lecture, 1:22:22.
+- Verification status: verified-video (2026-10-25); Kraut credentials from
+  the description, institutional page pending.
+
+### M05-SP-02: Spinoza and Hegel on Actual Infinity — Yitzhak Melamed
+
+- Identity and access: oembed confirms the talk on the Speculative Thought
+  channel (https://www.youtube.com/watch?v=h8winTat230); watch page opened
+  2026-10-25. Conference: Between Substance and Subject — The Presence of
+  Spinoza in Hegel, Ljubljana, 26-28 October 2023 (University of Padua and
+  University of Ljubljana).
+- Duration: 51:12 (watch page, 2026-10-25).
+- Instructor credentials: Yitzhak Y. Melamed, Charlotte Bloomberg Professor
+  of Philosophy, Johns Hopkins University (per the uploader description;
+  institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Hegel's
+  discussion of Spinoza's understanding of infinity, whether Hegel's
+  reading is adequate, and the Auseinandersetzung between the two
+  philosophers.
+- Relevant segment: whole talk, 51:12.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M05-SP-03: Why Wasn't Spinoza Excommunicated? — Yitzhak Melamed (Sephardic World)
+
+- Identity and access: oembed confirms the talk on the Sephardic Genealogy
+  channel (https://www.youtube.com/watch?v=G_nDRHn_Ycg); watch page opened
+  2026-10-25. Sephardic World talk series. INDEPENDENT-CHANNEL FLAG: a
+  community-genealogy channel, not an academic uploader.
+- Duration: 51:13 (watch page, 2026-10-25).
+- Instructor credentials: Yitzhak Melamed, professor, Department of
+  Philosophy, Johns Hopkins University (per the uploader description; see
+  also M05-SP-02).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the Herem
+  against Spinoza — its text, fact versus fiction in this milestone of
+  Sephardic history, why community leaders who had faced persecution
+  resorted to the measure, and whether their motivations can be known.
+- Relevant segment: whole talk, 51:13.
+- Verification status: verified-video (2026-10-25); independent-channel
+  basis noted.
