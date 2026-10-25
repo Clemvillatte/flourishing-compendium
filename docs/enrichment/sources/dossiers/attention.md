@@ -468,3 +468,20 @@ Checks (final): dossier_check exit 0 (97 card links, 26 headers, 23
 external carriers), density 0 dense, dossier_quote_verify 16 checked 0
 new failures (5 not found, all pre-existing and documented above).
 Grep of the changed file for workflow words: clean.
+
+## Story spot-checks (worker-pplx-dos4-1025k, 2026-10-25)
+
+Four story cards opened at body level in content/stories/ and checked
+against the dossier's loglines: ST025 The Cicada Catcher's Stillness
+(the Zhuangzi ch. 19 training account, weights and the old stump —
+matches), ST018 The Swimmer at Lüliang Falls (forty fathoms, following
+the water's way — matches; one minor compression: the logline says the
+swimmer "answers from the water" where the card has him surface and
+stroll the bank singing before answering, the answer's content is
+preserved), ST028 Eliud Kipchoge Runs 1 — 59 (Vienna, 1:59:40,
+engineered conditions, spartan camp, "No human is limited" — matches)
+and ST023 Simone Weil on Attention (attention as the rarest and purest
+form of generosity, the faculty shared with prayer and friendship —
+matches). All four verify; no defects found. Sampled cards only; the
+remaining three story links (ST069, ST421, ST057) were not opened this
+pass.
