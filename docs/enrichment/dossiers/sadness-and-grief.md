@@ -107,6 +107,20 @@ The grief work hypothesis, traced in the dual-process paper to Freud's 1917 "Tra
 
 The paper even carries the disagreement into the clinic: intervention may, for some, be counterproductive, and avoidance of grief cues, and perhaps confrontation with other tasks such as the restoration tasks, would be beneficial. The turn-on is what the avoidance is doing: respite inside an alternation, or a wall around the loss that never gets worked on from either side, and the paper does not claim all avoidance is adaptive. I favor this framework because it allows for engagement with the loss and temporary respite, without prescribing how long either should last.
 
+### Is grief a judgment that can change, or a force that presses on us?
+
+The shared question: when someone is bereaved, how much of the pain comes from what they believe about the loss, and how much arrives whatever they believe? Cicero, in the third book of the Tusculan Disputations, argues for the first answer from the example of Romans who did not break:
+
+> "Now what made these men so easy, but their persuasion that grief and lamentation was not becoming in a man? Therefore, as some give themselves up to grief from an opinion that it is right so to do, they refrained themselves, from an opinion that it was discreditable; from which we may infer that grief is owing more to opinion than nature." ([Cicero, Tusculan Disputations III, Yonge translation](https://www.gutenberg.org/cache/epub/14988/pg14988.txt))
+
+He then states the objection in the words of those who disagree, and gives them the Academic Crantor as authority:
+
+> "It may be said, on the other side, Who is so mad as to grieve of his own accord? Pain proceeds from nature, which you must submit to, say they, agreeably to what even your own Crantor teaches, for it presses and gains upon you unavoidably, and cannot possibly be resisted." ([Cicero, Tusculan Disputations III, Yonge translation](https://www.gutenberg.org/cache/epub/14988/pg14988.txt))
+
+His reply is that the objectors "allow that we take greater grief on ourselves than nature requires," and he names the beliefs that add to it, among them that mourning loudly pleases the dead. Cicero also surveys the comforters: Cleanthes held that the comforter must prove that what is lamented is no evil, the Peripatetics "prefer urging that the evil is not great," and Chrysippus thought the main task is "to remove the opinion from the person who is grieving, that to grieve is his bounden duty" ([Cicero, Tusculan Disputations III, Yonge translation](https://www.gutenberg.org/cache/epub/14988/pg14988.txt)).
+
+The page lets Cicero speak for the Stoic side, since he is its advocate in this book, and treats the objection as the opposing position only as he reports it. The case against the objection depends on what counts as grief: the reply separates the first pang from the further grief that a person adds to it, and the objectors seem to mean the first. My lean, which is mine, is that Cicero is strongest on the added part and weakest on the pang, and that Seneca's letter on Flaccus, quoted above, is where a middle position is stated in practice. The limit is that I read the Yonge translation of one book, not the Latin or the Peripatetic texts themselves, so the claims about what that school held rest on Cicero's report.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the relationship with the loss itself: the avoidance that fences the loss off; the rumination that circles the loss without ever returning to the restoration side of life; and the deadline, either imposed from outside or awaited, that converts grief into a waiting-room occupation. The adaptive direction runs toward alternation kept deliberately: the loss sat with inside a container, the life returned to, and the loss named in a plain sentence.

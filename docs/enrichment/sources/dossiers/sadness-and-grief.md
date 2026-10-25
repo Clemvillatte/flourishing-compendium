@@ -282,3 +282,21 @@ found.
 - Stroebe & Schut 1999 dual-process quotes: verified verbatim in the live carrier PDF (`dual-process-model-by-M.-Stroebe-.pdf`); tool could not match because the PDF text layer has broken ligature extraction (spurious spaces inside words: "T his", "conf rontation"). Semantic Scholar record confirms the abstract verbatim. Tool "not found" is an extraction artifact, not a content failure.
 - Cunsolo & Ellis 2018 quotes ("we-creating" and "question fundamental assumptions"): verified verbatim in the Wayback snapshot (20260908165528); carrier URLs in the dossier updated to the archive.org snapshot. Exact cited uwosh URL checked at 05:01Z: HTTP 200; both quotations matched. The archived snapshot is retained as the dossier carrier; reverting to the live original is an owner/supervisor choice. Compiled app.js embeds the live original URL, which resolves.
 - Remaining "not found" spans follow the documented fetch-artifact pattern (ctext.org Zhuangzi, tandfonline paywall, PMC): each verified by eye or against an alternate carrier of the same source during previous passes.
+
+## Disagreement section 2 to 3 questions (worker-pplx-dos30-1025l, 2026-10-25, baton dos28)
+
+Added "Is grief a judgment that can change, or a force that presses on
+us?" Source opened this session: Cicero, Tusculan Disputations Book III,
+Yonge translation, Project Gutenberg 14988 plain text (whole file
+fetched; every quoted string matched by script: the "grief is owing more
+to opinion than nature" passage, the "Who is so mad as to grieve of his
+own accord?" objection naming Crantor, the objectors "allow that we take
+greater grief on ourselves than nature requires", and the survey of
+comforters including the Peripatetics and Chrysippus). The dossier says
+that the Peripatetic position is known only as Cicero reports it, and
+that Cicero is the Stoic advocate, not a neutral witness. Not done: Latin
+text, Crantor's own writing (lost; known through Cicero), and any modern
+literature for this question.
+
+Checks: dossier_check exit 0 (35 card links, 17 headers). SUPERVISOR:
+re-splice sadness-and-grief; registry untouched.
