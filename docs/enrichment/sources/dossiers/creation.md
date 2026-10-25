@@ -368,3 +368,30 @@ advisor rounds and removing them would regress that QC, so the conflict
 is flagged for the supervisor rather than resolved by deletion. The
 disagreement section remains at one candidate comparison, zero
 demonstrated disagreements.
+
+### Pass 9 round-3 accuracy close (2026-10-25)
+
+Evidence checks completed as claimed, this pass, by this worker: the
+two T&F quotations were matched inside the fetch-tool RAW HTML sections
+(excluding the generated Content block), not merely the extracted
+previews; the Nietzsche quotations were matched with the surrounding
+passage read ("The Thousand and One Goals": men have given unto
+themselves all their good and bad, they took it not, they found it
+not — the chapter denies that values are found, which supports the
+candidate comparison's framing); the P149 card was read in full,
+including its keep-the-analogy-within-limits section, and the dossier
+prose now carries the card's own hedge (the physical account does not
+establish that a personal crisis produces growth; the question is
+borrowed, not a law of recovery). Opening corrections applied: the
+ranking implication removed (Frankl LISTS the routes, per the quoted
+enumeration's listing order, not a hierarchy), and the opening is now
+three paragraphs. The batch item note and top-level note are
+reconciled to the current state (one candidate comparison, zero
+demonstrated disagreements; T&F reconfirmed this pass). Remaining,
+explicitly: the disagreement count (1 candidate / 0 demonstrated,
+model asks 3-5) blocks completion and publication; the practice
+entries run 3+ sentences (do, notice, evidence, caveat) where the
+model specifies two — the caveats are earlier advisor-round content
+and the conflict is left for the supervisor rather than resolved by
+deletion; the broader paraphrase verification is inherited from
+rev 1-7 except where this ledger records this-pass checks.

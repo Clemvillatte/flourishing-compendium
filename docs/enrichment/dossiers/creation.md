@@ -4,11 +4,9 @@
 
 A life spends itself making things: meals, sentences, friendships, children, institutions, a character. I find the question surfacing on ordinary days: why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?
 
-Frankl counts creating a work or doing a deed among the three ways a life finds meaning — the first route in his account, ahead of experiencing something or encountering someone, and the attitude taken toward unavoidable suffering.
+Frankl lists creating a work or doing a deed alongside experiencing something or encountering someone, and the attitude taken toward unavoidable suffering, as the three ways a life finds meaning.
 
-The other accounts spread the emphasis wider. Bergson reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. This page follows each emphasis where it leads.
-
-The question underneath is whether the meaning is found or conferred, and where it lands when the thing is made.
+The other accounts spread the emphasis wider. Bergson reads joy itself as the sign that creation has happened. Arendt gives the maker a world to erect. This page follows each emphasis where it leads, and underneath each runs the same question: whether the meaning is found or conferred, and where it lands when the thing is made.
 
 ### Nearby terms
 
@@ -93,7 +91,7 @@ Whether a person sees themselves as a maker is itself studied. [Creative identit
 
 Nietzsche's [creative life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20creative%20life) is a mode of existence rather than a career: one must still have chaos in oneself to give birth to a dancing star, and the spirit's three metamorphoses end in the child, "a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea." ([Thus Spake Zarathustra, Common trans.](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)) Kant's [dignity of self-expression](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20self-expression) gives the identity its moral floor: saying what one needs and where one stands treats the speaker as an end, not a mere means; whatever has value can be replaced, and what is above value has dignity.
 
-Maslow's [P114 — Create as growth — creation is the evidence of growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) reads creativeness as an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health. And [P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively) records Prigogine's non-equilibrium systems, where order can arise away from equilibrium; here I apply that physical account to the unstable stretches of a life, as raw material for reorganization.
+Maslow's [P114 — Create as growth — creation is the evidence of growth](https://clemvillatte.github.io/flourishing-compendium/#card=P114%20%E2%80%94%20Create%20as%20growth%20%E2%80%94%20creation%20is%20the%20evidence%20of%20growth) reads creativeness as an open, spontaneous way of approaching ordinary activities, with his own caution that producing something does not by itself prove psychological health. And [P149 — Use instability creatively](https://clemvillatte.github.io/flourishing-compendium/#card=P149%20%E2%80%94%20Use%20instability%20creatively) records Prigogine's non-equilibrium systems, where order can arise away from equilibrium; the card is careful that the physical account does not establish that a personal crisis produces growth, and I borrow its question, not a law of recovery: when an arrangement has broken down, what could be reorganized, and what support would that require?
 
 ## Where the meaning of making lands
 
