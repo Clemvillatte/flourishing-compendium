@@ -3294,3 +3294,16 @@ pre-edit baseline (--base 5d9649377: 1 checked, 0 failed). Known limitations
 for the supervisor: PDF quotes are extraction-based throughout; the pride-page
 provenance note above; the FAE opening seed line still needs a
 seed-preservation ruling.
+
+## Worker checkpoint — taper-window updates (2026-10-25 11:21Z, worker-pplx-1025-o)
+
+Pride-page provenance limitation RESOLVED: the 2009-abstract wording verified
+via the Illinois Experts repository page (abstract as published) and the
+opening SciSpace blockquote confirmed via search-rendered PDF text; quote form
+restored (d86d89895). Also this window: repaired committed conflict markers
+found on origin/main's OWNER-BOARD (rebase-race artifact; both sides kept,
+remote verified clean at ee49d2f90); holder review of the disclosed cross-band
+Embodied self edit recorded as PASS (0317872cb); verification pass complete —
+Peirce p119 (4 passages), Ryan and Deci 2001, NE IX (3 passages), Masten 2001
+(3 passages) and Bottesi et al. 2016 (4 passages) all re-verified verbatim on
+fresh fetches; all 15 session-touched files validator-clean.
