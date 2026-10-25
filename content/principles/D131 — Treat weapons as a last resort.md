@@ -40,6 +40,7 @@ For an overt-behaviour exercise, write two ways to pause a heated meeting withou
 ## Philosophy parallels
 
 - **[[Just war criteria|Just war criteria]]** (Augustine, The City of God; Aquinas, Summa Theologiae II-II, q.40)
+- **[[T012 — Laozi|Laozi]]** (Daodejing 31, the chapter this principle reads)
 
 <!-- fc: reflections
 What weapon — lawsuit, ultimatum, burned bridge — are you currently reaching for? What would using it only when unavoidable look like?

@@ -161,8 +161,8 @@ The page keeps the B principles plus entries from other books citing the suttas 
 ### Sayings (0)
 No saying is attributed to Gautama. The scan's two hits are scan-closure, not attribution: [[The finger pointing at the moon|The finger pointing at the moon]] (its page sources it to the Zen tradition) and [[The sage teaches without words|The sage teaches without words]] (its page sources it to [[T012 — Laozi|Laozi]], Daodejing 2).
 
-### Thinkers (0)
-No thinker page links to him yet; the Buddhist band's principles are his home in the corpus.
+### Thinkers (1)
+- [[T012 — Laozi|Laozi]]
 
 ## Sources
 

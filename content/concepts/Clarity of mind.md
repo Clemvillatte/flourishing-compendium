@@ -45,6 +45,7 @@ Its contemplative cognates are [[Sati]] (the noticing that clarity requires) and
 - [[B042]] — B042 offers a breathing-based calming exercise alongside its discussion of concentration and insight.
 - [[S129]] — A Stoic comparison: S129 presents the attention discipline of examining impressions before assent
 - [[B151 — Keep the mind clear — sobriety]] — the fifth-precept guard as a related concept
+- [[T012 — Laozi]] — the Daodejing's purity-and-stillness (qingjing) direction the page names, with chapter 45's stillness as the world's standard.
 
 ## Sources
 
