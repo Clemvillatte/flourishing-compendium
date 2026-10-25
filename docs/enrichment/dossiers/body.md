@@ -6,7 +6,7 @@ The body is more than the shell the mind rides in. The scientific literatures gi
 
 The phenomenologists give the claim its strongest form: the body is the medium through which a world is had. That sounds like a different subject from cortisol and heart rate, and I want to understand the difference between measuring a body and living through one. Their disagreements are left where they stand.
 
-Breath is where the theme becomes practical. The classical training traditions and the modern trials meet there, on the same object, and it is a readily available practical entry.
+Breath is where the theme becomes practical. The classical training traditions and the modern trials meet there, on the same object, and it is a readily available entry in an ordinary day.
 
 ### Nearby terms
 

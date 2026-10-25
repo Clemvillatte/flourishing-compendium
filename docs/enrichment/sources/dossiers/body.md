@@ -425,3 +425,17 @@ hallucinations in the rooms. The Yellow Emperor logline matches the
 ST046 card (the Emperor withdraws, lives alone three months, returns;
 the teaching to guard the inner and quiet the hearing and sight).
 Checks re-run: checker exit 0, 0 dense.
+
+## Balban trial verification (2026-10-25, worker-pplx-dos17-1025h)
+
+The physiological sigh logline's "tested in a 2023 trial of five
+minutes a day" was verified against the trial record this pass:
+Balban MY et al. 2023, "Brief structured respiration practices enhance
+mood and reduce physiological arousal" (PMID 36630953, Europe PMC
+record), a remote randomized controlled study of three different daily
+5-min breathwork exercises over 1 month, in which exhale-focused
+cyclic sighing produced greater improvement in mood and reduction in
+respiratory rate compared with mindfulness meditation. The dossier
+claims only that the practice was tested in a 2023 trial of five
+minutes a day, which the record supports; no efficacy claim is made
+in the dossier entry itself.
