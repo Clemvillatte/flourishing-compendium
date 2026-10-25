@@ -15,6 +15,8 @@ The chapter's second axiom states that "the war machine is the invention of the 
 
 Behind the paradox of the motionless nomad sits a distinction the text states plainly: "Movement is extensive; speed is intensive."
 
+The distinction explains the paradox rather than merely coexisting with it. Extensive movement changes location; intensive speed is a matter of what happens within a small interval. The nomad who does not depart can therefore be described as fast, because speed in this sense is a density of happening rather than a distance covered, and the migrant's crossing can be slow in the same sense. What the nomad holds onto, on the passage's terms, is the smooth space itself, and nomadism is the response invented there.
+
 ### Here
 
 - [[D078 — Wander free and easy (xiaoyao you)]] cites this concept as a philosophy parallel.
