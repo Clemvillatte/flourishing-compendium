@@ -137,3 +137,5 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:31Z worker-pplx-ct3-1025n2: took+released ct3 (verified 43/43 done, band_done flipped); taking dos33 to finish/publish procrastination.
 - 2026-10-25 10:49Z worker-pplx-dossiers-1025bb: took dossiers baton — meaning-and-mortality GF-model rewrite (lane 1).
 - 2026-10-25 ~10:33Z worker-pplx-1025i: took dos28 (sadness-and-grief) — two under-substantiated dispute questions need primary-source quotes (mourning-as-detachment vs continuing bonds; grief-work confrontation vs avoidance).
+- 2026-10-25 10:45Z dos19: pleasure pairing demoted per advisor QC; third dispute (Epicurus vs Seneca 92) added, bar met at 3.
+>>>>>>> 485ec8998 (dos19: advisor QC demoted Epicurus-vs-Dhp pleasure pairing (comparison, not affirm/deny); third dispute added — Epicurus vs Seneca Letter 92 on absence of pain as highest good, carriers opened and verified; bar met at 3; site rebuilt)
