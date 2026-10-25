@@ -518,6 +518,82 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Relevant segment: whole lecture, 1:12:17.
 - Verification status: verified-video.
 
+## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
+
+These records are not yet attached to modules; they are verified here so owners can
+attach them with evidence on file.
+
+### M01-D02: Wisdom of China, Laozi (Bryan Van Norden documentary)
+
+- Identity and access: oembed confirms the documentary on Bryan Van Norden's channel
+  (https://www.youtube.com/watch?v=lvglQJDrgJI).
+- Duration: 0:50:09 (watch page, 2026-10-25). Full chapter timestamps are printed in
+  the description, 0:00:00 to 0:46:28.
+- Instructor credentials: Bryan W. Van Norden (as M01-D07 above, Vassar College);
+  the documentary was produced by Homework Productions for China Central
+  Television, with interviews including Michael Puett and Misha Tadd.
+- Language: English.
+- Content coverage: the uploader's description states the documentary introduces
+  Laozi and the Daodejing, the historical evidence about Laozi, and the influence of
+  his ideas on science, politics, martial arts, music and the counterculture.
+- Relevant segment: whole documentary, 50:09.
+- Verification status: verified-video.
+
+### M01-D03: Lundao 1, The Daoist Tradition (Louis Komjathy)
+
+- Identity and access: oembed confirms the talk on the Daoist Foundation channel
+  (https://www.youtube.com/watch?v=_12aeIvlHhM).
+- Duration: 1:13:54 (watch page, 2026-10-25).
+- Instructor credentials: as M01-D08 above (Komjathy, PhD, Daoist Foundation).
+- Language: English.
+- Content coverage: the uploader's description states the talk introduces Daoism as
+  an indigenous and global religion.
+- Relevant segment: whole talk, 1:13:54.
+- Verification status: verified-video.
+
+### M01-D06: What is Daoist Philosophy? (Hans-Georg Moeller, Carefree Wandering)
+
+- Identity and access: oembed confirms the lecture on the Carefree Wandering
+  channel (https://www.youtube.com/watch?v=3l6878MXLaw).
+- Duration: 1:51:53 (watch page, 2026-10-25).
+- Instructor credentials: Hans-Georg Moeller, professor in the Philosophy and
+  Religious Studies Department at the University of Macau (per the channel
+  description).
+- Language: English.
+- Content coverage: the watch page material identifies the lecture, "Civilization
+  and Its Unease", as Moeller presenting Daoist philosophy, especially Zhuangzi, as
+  a critical response to Confucian civilizational order rather than mysticism.
+- Relevant segment: whole lecture, 1:51:53.
+- Verification status: verified-video.
+
+### M01-D10: The 86th Morrison Lecture, Daoism as a New Religious Movement (Terry Kleeman)
+
+- Identity and access: oembed confirms the lecture on the Australian Centre on
+  China in the World channel (https://www.youtube.com/watch?v=RR87wauVKs4).
+- Duration: 0:54:02 (watch page, 2026-10-25).
+- Instructor credentials: Terry Kleeman, Professor Emeritus of Chinese at
+  University of Colorado Boulder, author of Celestial Masters (Harvard, 2015) (per
+  the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture introduces the
+  organized Daoist religion founded on revelation, its early communities, and how
+  successive revelations transformed it into the caretaker of China's popular gods.
+- Relevant segment: whole lecture, 54:02.
+- Verification status: verified-video.
+
+### M01-D12: Lundao 8, Towards a Radical (Re)Reading of the Daode jing (Louis Komjathy)
+
+- Identity and access: oembed confirms the talk on the Daoist Foundation channel
+  (https://www.youtube.com/watch?v=-vLcYZ1Kt7U).
+- Duration: 1:32:47 (watch page, 2026-10-25).
+- Instructor credentials: as M01-D08 above.
+- Language: English.
+- Content coverage: the uploader's description states the talk presents the
+  Daode jing based on Komjathy's bilingual translation and interpretive study,
+  encouraging an informed contemplative approach to the source text.
+- Relevant segment: whole talk, 1:32:47.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15
