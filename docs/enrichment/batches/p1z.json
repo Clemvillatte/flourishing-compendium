@@ -12,7 +12,6 @@
     "AT043",
     "AT026",
     "AT055",
-    "AT069",
     "AT078",
     "BE025",
     "BE039",
@@ -30,7 +29,8 @@
     "CO010",
     "CO019",
     "BI043",
-    "AT047"
+    "AT047",
+    "AT069"
   ],
   "in_progress": null,
   "flagged": {
@@ -46,11 +46,12 @@
     "BI005": "RESOLVED (supervisor-5130eacb, 2026-10-20): recorded repairs verified present in the current file (anchor greps + rejected-phrase absence checks); validator ok; see sources/p1z/BI005.md and the BI041 round-2 supervisor entry",
     "CO019": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.55)",
     "BI043": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)",
-    "AT047": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)"
+    "AT047": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)",
+    "AT069": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:30:22+00:00",
+  "updated": "2026-10-25T12:30:29+00:00",
   "band_done": false,
   "notes": {
     "_band": "\n2026-10-20 worker-p1z-2f8d4c1a: flag reconciliation audit. All ten flagged items (BE023, AT001, AT026, BE040, BE059, BE050, BI029, BE078, BE068, BI005) have ledgers recording applied, validator-ok QC repairs (BE023 round-2 scoped PASS; AT001 round-3 scoped PASS; AT026/BE040/BE059/BE050/BI029/BE078/BE068/BI005 corrected with validator ok). The state tool has no unflag command; SUPERVISOR: please clear these ten flagged entries, the repairs are verified in docs/enrichment/sources/p1z/. BI041 round-2 status checked separately.\n2026-10-20 worker-p1z-2f8d4c1a: band closed 30/30. Takeover completed BI043, BI049, CO004, CO010, CO019. CO010/CO019 were written without an individual advisor QC round (cadence next-due item 10; only 7 items taken) - recommend supervisor spot-check at integration; quotes verbatim-verified against directly fetched sources (see docs/enrichment/sources/p1z/CO010.md, CO019.md). p1z.json proposal records repaired for schema (15 legacy records given their documented link fields; see CO010.md ledger). Supervisor items outstanding: clear the ten flagged entries after review, and the BI041 round-2 advisor re-review routed earlier.",
@@ -71,6 +72,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/"
+    },
+    "AT069": {
+      "qc": "Plain-words replicate replaced (0.50 -> ~0.05); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content"
     }
   }
 }

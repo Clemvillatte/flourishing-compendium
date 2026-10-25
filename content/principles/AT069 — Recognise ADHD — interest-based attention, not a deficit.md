@@ -23,7 +23,7 @@ The neural side of the pattern runs through the reward pathway. PET studies foun
 So the deficit, where it shows up, sits in the interest and motivation circuitry rather than in the attention machinery itself: the same system that drops a boring page can hold a gripping one. The design implication is to supply the spark rather than shame the engine — "the brain of an individual with ADHD needs stimulation and interest in order to ameliorate some ADHD traits" (DeWitt, 2020, p. 18).
 
 **Plain words**
-For this attention system, interest is the on-switch. The machinery is not missing; it starts for some tasks and stays off for others. A boring task and a gripping one are, for this system, two different machines.
+The standard word for the condition points at something missing, and the studies keep finding something tuned instead. The same child who loses a familiar story remembers a new one whole; the same brain that drifts through a dull worksheet locks on when the stakes or the novelty rise. Reward chemistry sits behind the difference, which is why a deadline can switch the machine on in a single hour.
 
 **For example**
 The report that sits untouched for days, then gets finished in one focused hour once the deadline lights up. The capacity was there the whole time; it was waiting for urgency.
