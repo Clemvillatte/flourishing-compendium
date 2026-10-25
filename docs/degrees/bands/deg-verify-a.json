@@ -1,10 +1,10 @@
 {
  "band": "deg-verify-a",
  "kind": "shared-verify",
- "holder": null,
- "phase": "awaiting-launch",
+ "holder": "worker-pplx-verify-1025m",
+ "phase": "gallery tier selection for mod-qg-3 recorded in verify/deg-cmp.md (5-min tier: YOQI Cranfill candidate verified, access label pending; 8-min tier: documented gap, no standard-meeting candidate; 12-min tier: von Plitt candidate pending credential confirmation)",
  "manifest": "assigned blocks in TASKBOARD.md (never overlap with the other verify baton)",
  "writes_only": "docs/degrees/verify/",
- "notes": "See TASKBOARD.md",
- "updated": "2026-10-25T07:19:45+00:00"
+ "notes": "2026-10-25 worker-pplx-verify-1025m: routed item completed — mod-qg-3 gallery tier selection evidence appended to docs/degrees/verify/deg-cmp.md. Blocks A/B/E/H were verified complete by verifier-pplx-a1 earlier today; no overlap with deg-verify-b's live Block I-b work (this session's adds are new evidence sections, not block claims).",
+ "updated": "2026-10-25T09:40:00+00:00"
 }
