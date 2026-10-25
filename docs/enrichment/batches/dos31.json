@@ -18,10 +18,11 @@
  "items": [
   {
    "id": "creation-restructure-pass9",
-   "done": true,
+   "done": false,
    "date": "2026-10-25",
    "worker": "worker-pplx-c3b0f2fb",
-   "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim; advisor QC round applied (evidence bridges fixed/narrowed, disagreement section reduced to the one supported question and the where-it-lands synthesis moved to body, shape fixes); checker exit 0; two T&F bot-blocked quotes carry prior raw verification on record. STATUS: WIP \u2014 disagreement section holds one supported question where the model asks 3-5, and the two T&F quotes were not independently reconfirmed this pass; both flagged for the supervisor/next worker."
+   "note": "Pass 9 (worker-pplx-c3b0f2fb, 2026-10-25): restructured from old map shape to GF interwoven thread per current orders; links/quotes reused verbatim; advisor QC round applied (evidence bridges fixed/narrowed, disagreement section reduced to the one supported question and the where-it-lands synthesis moved to body, shape fixes); checker exit 0; two T&F bot-blocked quotes carry prior raw verification on record. STATUS: WIP \u2014 disagreement section holds one supported question where the model asks 3-5, and the two T&F quotes were not independently reconfirmed this pass; both flagged for the supervisor/next worker.",
+   "status": "WIP"
   }
  ]
 }
