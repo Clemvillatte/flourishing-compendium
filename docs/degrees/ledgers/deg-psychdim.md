@@ -164,10 +164,17 @@ Personality with The Big Five [00:13:53]; Defining and Measuring
 Intelligence [00:19:47]; Q&A [00:30:29]; The Roles of Genes and
 Environment [00:36:33]; Genes, Environment and Intelligence [00:51:16])
 and the opening of chapter 1 read: Bloom shifts from human universals to
-differences, framing how and why people differ. Both remain candidates;
-the Big Five chapter of lecture 13 (from 00:13:53) is the likely segment
-for the M5 personality row and needs its transcript read before
-attachment.
+differences, framing how and why people differ. Lecture 13's chapter 2
+(00:13:53 to 00:19:47) was then read in full: Bloom presents the Big Five
+factors (neuroticism versus stability, extraversion versus introversion,
+openness, agreeableness, conscientiousness), the OCEAN mnemonic, the
+evidence that the traits are stable over time (very stable after age
+thirty) and show cross-observer agreement, and the observation that a
+personality leaves a trail in the minds of the people around you. This
+serves the M5 personality row. Status for the chapter-2 segment:
+verified-video; the remaining segments are candidates until their
+transcripts are read. Lecture 12 remains a candidate with its outline and
+chapter-1 opening recorded.
 
 Additional inspection (2026-10-25, batch 11): lecture 16 (Self and Other,
 Part I, 58:15) had its chapter outline recorded (Social Psychology and
@@ -223,7 +230,7 @@ blocking gaps on the register, not quiet omissions.
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
-| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 16 chapter 2 (00:15:56 to 00:22:40) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
+| self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits); verified OYC lecture 13 chapter 2 (00:13:53 to 00:19:47, Big Five) and lecture 16 chapter 2 (00:15:56 to 00:22:40, spotlight and transparency effects) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading (OYC lecture 14 is a candidate pending a content check; it is not assumed to teach self-determination theory) | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
