@@ -844,6 +844,17 @@ attach them with evidence on file.
 - What the owner needs to do: find an anonymously playable source for this talk
   (the course's YouTube playlist section is the first place to look); an
   account-locked course page will not satisfy the access ruling.
+- FOLLOW-UP SEARCH (2026-10-25): two YouTube searches (one scoped to
+  youtube.com, one open-web) found no YouTube upload of the recorded
+  87:25 Stoicon Athens talk itself. One NEAR-TITLE CANDIDATE was found and
+  verified via oembed (opened 2026-10-25): "Massimo Pigliucci - How to Thrive
+  in a World out of Your Control, One Practical Exercise at a Time" on The
+  Stoa channel (https://www.youtube.com/watch?v=6KMHxnx01R0), per the search
+  listing a Stoicon-X Toronto talk of 8 September 2019, 26:58. This is a
+  DIFFERENT event and a much shorter recording than the recorded 87:25
+  Stoicon Athens talk — similar speaker and near-identical title, but not the
+  same recording; whether it can substitute for the module's coverage is an
+  owner decision, not a verified replacement.
 - Verification status: NOT VERIFIED. Dead canonical URL; candidate replacement is
   unconfirmed and, being enrollment-locked, would fail the access ruling anyway.
 
