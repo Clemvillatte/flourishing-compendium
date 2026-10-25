@@ -22,7 +22,7 @@ When someone is suffering, the first question I want to ask is what would help, 
 
 ### What the good life is: the classical accounts
 
-For [Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle), [eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). On his account the good is an activity, not a passing state: his account of [happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](https://clemvillatte.github.io/flourishing-compendium/#card=Arete). It is final: [desired for its own sake](https://clemvillatte.github.io/flourishing-compendium/#card=Everyone%20desires%20eudaimonia), the [sufficient good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). And it belongs to a whole life rather than a lucky stretch:
+For [Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle), [eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). His account of [happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](https://clemvillatte.github.io/flourishing-compendium/#card=Arete). It is final: [desired for its own sake](https://clemvillatte.github.io/flourishing-compendium/#card=Everyone%20desires%20eudaimonia), the [sufficient good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). He also insists on a complete life:
 
 > "For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." ([Aristotle, Nicomachean Ethics I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
@@ -126,7 +126,7 @@ I find Aristotle's distinction between [potentiality and actuality](https://clem
 
 ### Practices need to fit a life
 
-A practice also has to survive contact with the person doing it. [Research on intentional activities](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Layous-2013.pdf) treats [person–activity fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-activity%20fit), motivation and effort as conditions that may shape the benefit of [gratitude or kindness exercises](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20activity%20interventions). A temporary lift is not yet a lasting change: [the sustainability model](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf) asks how [well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains) might endure, rather than promising that they will.
+A practice also has to survive contact with the person doing it. [Research on intentional activities](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Layous-2013.pdf) treats [person–activity fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-activity%20fit), motivation and effort as conditions that may shape the benefit of [gratitude or kindness exercises](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20activity%20interventions). A temporary lift is not yet a lasting change: [the sustainability model](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf) asks under what conditions [well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains) might endure.
 
 Some of the simplest practices turn attention toward another person. [Seneca](https://www.gutenberg.org/files/3794/3794-h/3794-h.htm) treats receiving a benefit with [gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude) as already a kind of repayment. In research on [capitalization](https://clemvillatte.github.io/flourishing-compendium/#card=Capitalization), [Gable and colleagues found that enthusiastic responses to good news were associated with better relationship well-being](https://pubmed.ncbi.nlm.nih.gov/15301629/). What matters in that moment is how we receive another person's joy.
 
@@ -174,7 +174,7 @@ Wanting a good life seems reasonable. The difficulty begins when wanting turns i
 
 ### Which goods count, and who decides?
 
-Could two very different lives both flourish? [Self-determination theory](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) proposes that everyone needs autonomy, competence and relatedness, while allowing different goals and preferences. On that view, what is shared is a need, not a script.
+Could two very different lives both flourish? [Self-determination theory](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) proposes that everyone needs autonomy, competence and relatedness, while allowing different goals and preferences.
 
 Success alone may be a poor guide. In [a one-year study of life after college](https://pubmed.ncbi.nlm.nih.gov/20161160/), attaining goals of growth, relationships and community went with better psychological health; attaining wealth, fame and image did not. The question becomes what a goal serves, even when someone achieves it.
 
@@ -220,7 +220,7 @@ I would keep two questions open together: what must no person be denied, and wha
 
 12. [Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=K110%20%E2%80%94%20Savoring): when something pleasant happens, pause and give it attention. Do not make extending the moment a test of whether you are enjoying it enough.
 
-13. [Evening examination](https://clemvillatte.github.io/flourishing-compendium/#card=K274%20%E2%80%94%20Evening%20examination): ask what went well, where you drifted and what you will do differently tomorrow. Choose one adjustment rather than a verdict on your character.
+13. [Evening examination](https://clemvillatte.github.io/flourishing-compendium/#card=K274%20%E2%80%94%20Evening%20examination): ask what went well, where you drifted and what you will do differently tomorrow. Keep the last answer concrete: one adjustment for tomorrow, naming a situation and an action.
 
 14. [Habituation by design](https://clemvillatte.github.io/flourishing-compendium/#card=K257%20%E2%80%94%20Habituation%20by%20design): choose one virtue and a small act that would express it. Make room to repeat the act over the next month.
 
@@ -248,7 +248,7 @@ Wealth, achievement and endurance look different when a whole life comes into vi
 
 ### What well-being counts
 
-[Ryff's Six Dimensions](https://clemvillatte.github.io/flourishing-compendium/#card=ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): [Ryff challenges measures with little theoretical grounding](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), then develops six dimensions of positive functioning rather than equating well-being with happiness.
+[Ryff's Six Dimensions](https://clemvillatte.github.io/flourishing-compendium/#card=ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): [Ryff challenges measures with little theoretical grounding](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), then develops six dimensions of positive functioning.
 
 [Seligman Renames the Target](https://clemvillatte.github.io/flourishing-compendium/#card=ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): [Seligman broadens the aim of positive psychology](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) from happiness to well-being, making room for relationships, meaning and accomplishment as things valued for themselves.
 

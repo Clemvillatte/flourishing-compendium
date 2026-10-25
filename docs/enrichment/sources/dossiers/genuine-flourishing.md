@@ -973,3 +973,72 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos1 baton)
+
+Owner-directed next action per handoff.md: review the voice-audit candidates
+for this dossier. A fresh run of scripts/dossier_voice_audit.py this session
+reported 14 candidates; the 2026-10-24 persisted jsonl snapshot holds 13.
+The 14th (line 25, "an activity, not a passing state") was introduced by
+commit 63d515326 (2026-10-25, supervisor-pplx-bridging-1024a), which
+postdates the persisted inventory, so it had not appeared in a voice-audit
+inventory before this review. Dispositions below were made after reading
+each line in full context; an advisor QC round then overruled the initial
+all-KEEP disposition and its repairs were applied. Verification scope: the
+only carrier freshly opened this session is the MIT Classics Nicomachean
+Ethics Book I page (nicomachaen.1.i.html, fetched without a summarising
+prompt; the activity-vs-state passage in I.8 and the "not for some chance
+period but throughout a complete life" phrasing in I.10 were located in the
+opened text). All other lines rest on inherited verification recorded
+earlier in this ledger plus editorial judgement; they were not re-opened
+this session.
+
+Repairs applied to the dossier body (all links preserved; card-link
+occurrence multiset identical, 147 links, before vs after):
+
+- Line 25: removed "On his account the good is an activity, not a passing
+  state:" — the carrier's actual contrast (I.8) is between possessing a
+  state of mind and exercising activity; "passing" was an unsupported
+  modifier. The clause is redundant with the sentence's linked glosses.
+  Also replaced "And it belongs to a whole life rather than a lucky
+  stretch:" with "He also insists on a complete life:" — the whole-life
+  condition is already carried by the first sentence's gloss and by the
+  swallow quotation that follows.
+- Line 129: replaced "asks how well-being gains might endure, rather than
+  promising that they will" with "asks under what conditions well-being
+  gains might endure" — the former invented a promise to reject; the
+  conditional preserves the source's uncertainty.
+- Line 223: replaced "Choose one adjustment rather than a verdict on your
+  character" with "Keep the last answer concrete: one adjustment for
+  tomorrow, naming a situation and an action" — grounded in the K274
+  card's own protocol step ("a differently that names a situation and an
+  action, not a character verdict"); the polished antithesis is gone, the
+  card's instruction kept.
+- Line 251: dropped the trailing "rather than equating well-being with
+  happiness" — the ST297 card's core claim already appears in the
+  compilation section (psychological well-being vs happiness measures),
+  so the story-card summary repeated it.
+- Line 177 (unflagged by the detector, caught in the advisor QC round):
+  deleted "On that view, what is shared is a need, not a script." — a
+  wise-sounding closer repeating the preceding sentence's content.
+
+Kept, with reasons (legitimate comparisons, disambiguations or evidence
+caveats per VOICE-AUDIT.md and HUMANIZER-SKILL.md): lines 19 (term
+scoping), 77 (Frankl's concrete-task meaning), 89 (Heidegger's ownness),
+97 (association-vs-cause caveat), 121 (Aristotle's for-its-own-sake
+difficulty), 125 (Maslow self-correction; "Pursue becoming, not arrival"
+is the linked card's own name), 137 (Seligman's supplement-not-replace
+framing), 143 (honest scope limits on the camps account), 171 (Mill's
+Autobiography argument), 213 (instructive contrast inside an exercise).
+These keep decisions are editorial judgements resting on inherited
+verification; only the Aristotle carrier was re-opened this session.
+
+Outcome: dossier_check.py exit 0 after the repairs; the fresh audit count
+fell from 14 candidates to 10. This reduces the flagged scaffold surface
+but does not certify natural prose — the detector is mechanically narrow
+and the remaining "rather than" uses are individually defensible while
+the dossier's overall rhythm still awaits the owner's validation. The
+owner's pending approval decision on the GF candidate is unaffected by
+this pass. Scope note: this was a candidate-line review plus the
+advisor-caught line 177, not the full structural/rhythm read-through of
+every paragraph the handoff names as the larger next action; that fuller
+review remains open.
