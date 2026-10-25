@@ -21,6 +21,8 @@ The Dhammapada's chapter XXIV, "Thirst" in Max Müller's translation, gives the 
 
 Read as a pair, the passages make a related point by different routes. Schopenhauer's is a psychology of wishing: every satisfied wish "makes room for a new one", and what an attained object gives is "a fleeting gratification". The Dhammapada's is a diagnosis of thirst (Pali tanha) whose root must be dug out or the pain returns.
 
+The two routes differ in what they treat as the problem. Schopenhauer's version is structural: wanting arises from deficiency, so the satisfaction of a wish ends that wish but not the deficiency, and the wish-count of a life does not fall to zero. The Dhammapada's version is horticultural: a cut tree with its root intact is a tree that will be cut again, which puts the work at the root rather than at the branches. A person applying the concept can therefore read their own wanting either as a series of wishes to be satisfied or as a single thirst to be dug at, and the second reading changes what counts as doing something about it.
+
 ### Here
 
 - [[AF020 — Distinguish pleasure from satisfaction; they are different systems]]
