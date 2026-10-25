@@ -366,6 +366,11 @@
      "t": "2026-10-22T15:19:21+00:00",
      "to": "ready",
      "note": "Independent advisor PASS after source-verified corrections; p49 exact quote"
+    },
+    {
+     "t": "2026-10-25T15:11:57+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:11:57: sample verified — quote VERBATIM (see QC notes)"
     }
    ]
   },
@@ -945,5 +950,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:11:43+00:00"
+ "updated": "2026-10-25T15:11:57+00:00"
 }
