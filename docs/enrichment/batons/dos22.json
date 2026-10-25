@@ -1,7 +1,7 @@
 {
  "baton": "dos22",
- "agent": "worker-pplx-brownmermaid-1025a",
- "clocked_in": "2026-10-25T04:00:04+00:00",
+ "agent": "pplx-dos22-1025-0600",
+ "clocked_in": "2026-10-25T05:51:13+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos22-1024h",
@@ -44,8 +44,12 @@
    "at": "2026-10-25T04:00:04+00:00",
    "from": "worker-pplx-brownmermaid-1025a",
    "reason": "stale (31 min)"
+  },
+  {
+   "by": "pplx-dos22-1025-0600",
+   "at": "2026-10-25T05:51:13+00:00",
+   "from": "worker-pplx-brownmermaid-1025a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T04:01:07+00:00"
+ ]
 }
