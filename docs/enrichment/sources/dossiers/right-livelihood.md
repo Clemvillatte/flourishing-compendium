@@ -223,7 +223,7 @@ WHY IT FALLS SHORT (advisor QC, round applied): the Buddhist text prohibits COMM
 
 - TRADE-LEVEL SEARCH ADDENDUM (supervisor-pplx-1025e, 2026-10-25 ~03:10Z actual): targeted search for a canonical-Aristotle passage explicitly on buying and selling enslaved people came back NEGATIVE, which is itself decision-relevant: (1) Nicomachean Ethics V.7 1134b18-24 (MIT Classics, Ross translation, opened fresh) classes "that a prisoner's ransom shall be a mina" under LEGAL justice — "that which is originally indifferent, but when it has been laid down is not indifferent" — i.e. the fixed per-head price of captives is convention, not nature; no endorsement of commerce in persons appears, and the per-head tariff example concerns ransoming captives, not property trade. (Same chapter's involuntary-transaction list includes "enticement of slaves" among clandestine wrongs — a property-interference framing, again not commerce.) (2) The pseudo-Aristotelian Oeconomica opens "Of property, the first and most indispensable kind is... the human chattel. Our first step therefore must be to procure good slaves" (ToposText carrier) — acquisition-forward, but the work's Aristotelian authorship is disputed, so it is a weak carrier for a divergence claim. (3) The Politics retail-trade chapters (1258b) condemn exchange-based wealth-getting in general terms without a slave-trade passage. CONCLUSION for the owner: a clean canonical trade-level passage was not found by targeted search; the divergence can stand at the acquisition level (Politics 1254b/1255b/1256b vs AN 5.177) or the section stays unpublished — the owner's call. One interpretive lead (flagged as interpretation, not evidence): NE 1134b's placing of the captive-ransom tariff under conventional rather than natural justice could be read as Aristotle denying that commerce-in-persons claims natural authority — a reading that would need a scholar's secondary source before use.
 
-## GF-model restructure + disagreement section (2026-10-25 ~03:45Z, worker-pplx-brownmermaid-1025a, dos22 baton)
+## GF-model restructure + disagreement section (2026-10-25 ~03:33Z actual, worker-pplx-brownmermaid-1025a, dos22 baton; commit 4f1346cf)
 
 Restructured the dossier from the old map format to the GF interwoven
 thread per the CURRENT ORDERS (commit 4f1346cf). Advisor planning QC
@@ -279,7 +279,60 @@ Checks: dossier_check.py exit 0 (59 card links, 14 headers, 8 external
 carriers); dossier_density.py 0 dense paragraphs; dossier_quote_verify
 8 checked / 0 not-found. STATUS: disagreement requirement still
 UNFINISHED for the 3-5 bar (one bounded comparison, honestly framed);
-publication, registry flip and Academy splice remain supervisor-only;
-art still unassigned. The bounded-comparison framing (acquisition
-level) awaits supervisor/owner ratification per the supervisor's
-addendum above.
+publication, registry flip and Academy splice remain supervisor-only.
+The bounded-comparison framing (acquisition level) awaits
+supervisor/owner ratification per the supervisor's addendum above.
+
+## Advisor QC round 1 applied (2026-10-25 ~03:36Z actual, worker-pplx-brownmermaid-1025a)
+
+The advisor blocked the first-draft sign-off and its repairs were
+applied in full before this session's next push:
+
+- The disagreement section no longer claims a demonstrated
+  disagreement: the "what the disagreement turns on" and "pull
+  against each other" framings replaced with the advisor's model text
+  ("These are different practices, and the passages alone do not
+  establish a direct disagreement about trading people"); the
+  comparison remains ONE bounded entry with its limit stated on the
+  page.
+- The 1254b blockquote extended to the full Rackham sentence ("...but
+  to feelings."), removing the earlier inserted terminal period.
+- The Dewey inline extract now preserves the carrier capitalisation
+  ("To predetermine..."); no lowercasing.
+- The Socrates gloss repaired against the card (the card: "offered
+  his life on the condition of silence, [he] declines" - the first
+  draft had reversed who offers).
+- Unsupported bridges removed or repaired by reopening the cards:
+  "neither answerable to the other" (ora et labora card gives only
+  "prayer and work under one rule"); "travels furthest beyond the
+  list" (Ahimsa); "a well-chosen livelihood can produce work
+  engagement" (reworded to the card's own definition, engagement as a
+  state defined independently of burnout); "not the place it is found"
+  (Purpose bullet - unjustifiably ruled out finding purpose through
+  work); "a load the job description never names" (my gloss, removed);
+  "fit and timing" manufactured connection (removed); the Weber/Luther
+  prescription claim rewritten to what the chapters are (accounts, not
+  prescriptions); Hackman-Oldham "finding" corrected to "work design";
+  Wang Yangming application sentence removed; "ethics either lives or
+  quietly dies" dramatic phrasing removed; "the answers below" and
+  "the loudest answer in this material" apparatus removed; the
+  repeated "[card] holds" pattern varied where named.
+- The density-check workaround undone: the padding sentences added to
+  pass the checker were removed and the paragraph genuinely split
+  (placement / Action over intention), and the four-model career
+  paragraph split into two paragraphs of two positions each with real
+  bridges.
+- Card-target preservation verified against the previous revision
+  (unique card links: 0 missing, 4 added by the Nearby-terms rewrite:
+  Goal setting theory, Purpose, Workaholism research, Work engagement).
+- Art correction: the registry entry already carries art
+  "right-livelihood.jpg" (the earlier "art still unassigned" flag in
+  this ledger was wrong; the supervisor's standing registry flip and
+  Academy splice remain the publication path).
+
+Cards freshly opened this round for gloss repair: The examined
+economics, Work engagement, Ora et labora, Impression-management
+burnout research, Ahimsa, Purpose. Checks re-run after repairs:
+dossier_check exit 0 (59 card links, 14 headers, 8 external carriers);
+dossier_density 0 dense; dossier_quote_verify 8 checked / 0
+not-found.

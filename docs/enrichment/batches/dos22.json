@@ -4,11 +4,11 @@
   {
    "slug": "right-livelihood",
    "worker": "worker-pplx-dos22-1024h (original) then worker-pplx-brownmermaid-1025a (GF-model restructure)",
-   "state": "GF-model restructure complete; bounded disagreement comparison added; 3-5 disagreement bar UNMET (flagged to supervisor/owner)",
-   "verification": "worker-pplx-brownmermaid-1025a pass (2026-10-25 ~03:45Z, commit 4f1346cf): all four external carriers freshly opened and quotes verified verbatim by this worker (ATI AN 5.177 via fetch; Weber ch. III via fetch; Dewey ch. 23 via curl, fetch tool robots-blocked; Politics 1.1254b/1255b/1256b Perseus Rackham via curl, fetch tool robots-blocked); dossier_check exit 0 (59 card links, 14 headers, 8 external carriers); dossier_density 0 dense; dossier_quote_verify 8 checked / 0 not-found; all prior card-link targets preserved; advisor planning QC applied before drafting (bounded comparison, not a claimed demonstrated disagreement; same-practice check stated in the reader-facing text)",
+   "state": "in_progress (advisor QC round 1 applied; disagreement requirement still the owner call; awaiting supervisor ratification of the bounded-comparison framing)",
+   "verification": "worker-pplx-brownmermaid-1025a pass (2026-10-25 ~03:45Z, commit 4f1346cf): all four external carriers freshly opened and quotes verified verbatim by this worker (ATI AN 5.177 via fetch; Weber ch. III via fetch; Dewey ch. 23 via curl, fetch tool robots-blocked; Politics 1.1254b/1255b/1256b Perseus Rackham via curl, fetch tool robots-blocked); dossier_check exit 0 (59 card links, 14 headers, 8 external carriers); dossier_density 0 dense; dossier_quote_verify 8 checked / 0 not-found; all prior card-link targets preserved; advisor planning QC applied before drafting (bounded comparison, not a claimed demonstrated disagreement; same-practice check stated in the reader-facing text) | QC round 1 (~03:36Z): advisor repairs applied in full (no claimed disagreement; full-sentence 1254b quote; card-backed glosses; density workaround undone; card-target preservation verified); checks re-run green.",
    "flags": [
     "SUPERVISOR/OWNER: the disagreement section carries ONE bounded comparison (AN 5.177 trade prohibition vs Politics 1254b/1255b/1256b acquisition/ownership/employment), limits stated on the page; the model's 3-5 demonstrated-disagreement bar is UNMET - owner call whether the bounded comparison satisfies the requirement (per supervisor addendum and advisor QC)",
-    "SUPERVISOR: registry flip, Academy splice and art assignment remain supervisor-only; art still null",
+    "SUPERVISOR: registry flip, Academy splice and art use remain supervisor-only; registry already carries art right-livelihood.jpg",
     "standing flag for the concept band: the Right livelihood concept card cites AN III.208 via Wikipedia; the ATI carrier is AN 5.177 (recorded in the dossier ledger, open points)"
    ],
    "dates": {
@@ -16,9 +16,9 @@
    }
   }
  ],
- "note": "GF-model restructure complete per CURRENT ORDERS (old map format retired for this dossier). Disagreement requirement remains the owner's call; publication blocked on that decision plus art assignment.",
+ "note": "GF-model restructure complete per CURRENT ORDERS; advisor QC round 1 applied; in review pending supervisor/owner on the bounded disagreement comparison; not band_done.",
  "review": [
   "right-livelihood"
  ],
- "band_done": true
+ "band_done": false
 }
