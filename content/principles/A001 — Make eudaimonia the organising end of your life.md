@@ -17,21 +17,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 > But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
 > (NE I.7, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-This is an account of living and acting well, not simply having a pleasant experience. It is also not a promise that effort controls every outcome: Aristotle acknowledges external goods needed for many noble actions and great misfortunes that can hinder flourishing ([NE I.8–10](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).
+Living well here is an activity sustained over time. Richard Kraut explains the place of external goods in this account: their absence can obstruct opportunities for virtuous activity ([Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/aristotle-ethics/)). Aristotle's own discussion includes bereavement and great misfortunes that can hinder flourishing ([NE I.8–10](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).
 
-His account of self-sufficiency includes family, friends and fellow citizens, since he takes human beings to be political by nature ([I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). I read the principle as asking what pattern of activity a choice serves, including the relationships and material conditions in which it is lived. Calling a goal flourishing does not settle which activities are worthwhile.
+His account of self-sufficiency includes family, friends and fellow citizens, since he takes human beings to be political by nature ([I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). For me, the question is whether a choice helps sustain worthwhile activity with others, given the resources we actually have.
 
 ### Plain words
 
-In this account, living well concerns the quality of your activities across a life. A success or a pleasant day is one part of that larger picture. Bringing the whole life into view includes what your pursuits ask of other people and what conditions make them possible.
+Ask how a choice contributes to a worthwhile life, including the people who share it.
 
 ### For example
 
-Imagine deciding whether to begin an evening course while caring for a relative. Discuss the learning you value, the care required and the help actually available. After trying an arrangement, review how it serves everyone involved and revise it if needed. This is my illustration of deliberating about a life; neither enrolment nor self-denial is automatically the virtuous choice.
+Imagine deciding whether to begin an evening course while caring for a relative. Discuss the learning you value, the care required and the help actually available. A workable answer might be fewer classes this term, with an agreed plan for care. Review it when the relative's needs or the available help change.
 
 ## Sources
 
 - [Aristotle, Nicomachean Ethics I.7–10, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html): rational activity, a complete life, external goods and misfortune.
+- [Richard Kraut, Aristotle's Ethics, Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/aristotle-ethics/): virtuous activity and the external conditions that help make it possible.
 - [Ryff, "Happiness Is Everything, or Is It?", Journal of Personality and Social Psychology 57(6), 1989, 1069–1081](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf): the six proposed psychological dimensions.
 - [Ryan and Deci, "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being", American Psychologist 55(1), 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf): the needs proposed within SDT.
 - [Huta and Ryan, "Pursuing Pleasure or Virtue", Journal of Happiness Studies 11, 2010, 735–762](https://selfdeterminationtheory.org/SDT/documents/2010_HutaRyan_JOHS.pdf): measured motives and well-being outcomes.

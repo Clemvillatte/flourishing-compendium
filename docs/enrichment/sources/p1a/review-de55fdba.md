@@ -136,3 +136,12 @@ Opened through search and fetch:
 - [Margaret Graver, “Epictetus,” Stanford Encyclopedia of Philosophy, §§4.3–4.7](https://plato.stanford.edu/entries/epictetus/). Read choice/volition, value and care for externals, sudden trembling, and ethical training. Retained careful action toward externals and the need for training. No claim that distressed readers can instantly regulate every response follows from these passages.
 
 Changes: stated the ethical account affirmatively, retained the wise person's possible trembling, and personally located the practical application. Plain words is one sentence. The exam example now includes asking for help and learning after a disappointing result, without a success or symptom-control guarantee. Preserved front matter, original blockquote, all original links and lower sections.
+
+## A001: Make eudaimonia the organising end of your life
+
+Opened through search and fetch:
+
+- [Aristotle, *Nicomachean Ethics* Book I, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). Read the full book, especially I.7–10: the function argument, the exact complete-life/swallow quotation, self-sufficiency including family and fellow citizens, external goods, and the effects of great misfortune.
+- [Richard Kraut, “Aristotle's Ethics,” Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/aristotle-ethics/). Opened the discussion of virtuous activity, external conditions, and good fortune. Also read the extraction of §5.2 concerning the absence of an all-purpose decision procedure, but made no separate new claim from that section.
+
+Changes: explained the external-goods qualification affirmatively and attached Kraut's explanation to the relevant sentence. Preserved the primary quotation and both original body wikilinks. One-sentence Plain words and a care/course example that leaves room to change an arrangement as circumstances change. No empirical claim from the retained modern-psychology further-reading links is used in the body; those older bibliography entries were not independently reverified here. Read the linked Eudaimonia and Virtue concept pages for alignment, without editing them or treating their claims as verified evidence.
