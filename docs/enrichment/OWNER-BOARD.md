@@ -118,3 +118,5 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: released p1zx (4 Tier-2 repairs)
 2026-10-25 11:16 UTC — worker-pplx-9ff61dc0: took p1ze baton for Tier-2 plain-words repairs
 - 2026-10-25 11:20Z worker-pplx-1025u: took dos34 — leisure publish-then-review pass (checks green, advisor QC in progress).
+2026-10-25 11:23 UTC — worker-pplx-9ff61dc0: released p1zm p1zl p1zzc p1zn after QC pass 2
+2026-10-25 11:23 UTC — worker-pplx-9ff61dc0: took p1zzh baton for Tier-2 plain-words repairs
