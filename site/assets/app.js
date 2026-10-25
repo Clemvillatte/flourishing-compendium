@@ -14161,6 +14161,1111 @@ window.fcDossiersData = {
       "group": "eightfold-path",
       "status": "published",
       "art": "assets/dossier-art/right-effort.jpg"
+    },
+    {
+      "id": "right-mindfulness",
+      "title": "Right Mindfulness",
+      "question": "What does it take to know what is happening, while it is happening?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Knowing what is happening while it happens sounds like the simplest of skills and is among the hardest to keep. The seventh factor trains awareness of body, feeling, mind and mental objects as they arise, attention steadied on the actual rather than the assumed. The clinical adaptations carried it into the laboratory, which is both a success story and a boundary dispute: the path factor and the intervention are not the same thing, and the two must not be flattened into one."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Mindfulness: the modern practice family, MBSR and its relatives; this page holds the path factor itself and its root text, and points to the family."
+        },
+        {
+          "t": "p",
+          "x": "Attention: the general science of how experience is selected; this page holds the training of it toward clear seeing."
+        },
+        {
+          "t": "p",
+          "x": "Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page."
+        },
+        {
+          "t": "p",
+          "x": "Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the map below holds both."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on right mindfulness"
+        },
+        {
+          "t": "h2",
+          "x": "What the factor is"
+        },
+        {
+          "t": "p",
+          "x": "[Right mindfulness](card:Right%20mindfulness): the seventh factor of the Eightfold Path; its root text, the Satipatthana Sutta, calls the four establishments the direct path."
+        },
+        {
+          "t": "p",
+          "x": "[Eightfold Path](card:Eightfold%20Path): the fourth Noble Truth, the Buddha's summary of the training; the factor's umbrella hub."
+        },
+        {
+          "t": "p",
+          "x": "[The three trainings](card:The%20three%20trainings): the path in its most compressed form, virtue, concentration and wisdom; every practice placed under one of the three."
+        },
+        {
+          "t": "p",
+          "x": "[Sati](card:Sati): the Pali word for mindfulness, keeping something in mind vividly, without commentary."
+        },
+        {
+          "t": "p",
+          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): the flagship practice, mindfulness established on the breath."
+        },
+        {
+          "t": "p",
+          "x": "[The returning practice](card:The%20returning%20practice): my name for the central move of meditation, noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice."
+        },
+        {
+          "t": "p",
+          "x": "[Vipassana (insight)](card:Vipassana%20%28insight%29): clear-seeing, treated by Thanissaro as a quality of mind rather than a technique, the ability to see events clearly."
+        },
+        {
+          "t": "p",
+          "x": "The Satipatthana Sutta opens by naming what the practice is for:"
+        },
+        {
+          "t": "q",
+          "x": "\"This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference.\" ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The refrain that does the work"
+        },
+        {
+          "t": "p",
+          "x": "What makes the practice right is less the objects than the posture toward them; for each of the four frames the instruction returns to the same refrain:"
+        },
+        {
+          "t": "q",
+          "x": "\"There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world.\" ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The observation is effortful and free of grasping. The map holds the capacities the refrain trains:"
+        },
+        {
+          "t": "p",
+          "x": "[Bare attention in mindfulness practice](card:Bare%20attention%20in%20mindfulness%20practice): the attending to what arises before commentary begins."
+        },
+        {
+          "t": "p",
+          "x": "[Meta-awareness](card:Meta-awareness): knowing that one is aware, the capacity I pair with sati."
+        },
+        {
+          "t": "p",
+          "x": "[Metacognitive awareness](card:Metacognitive%20awareness): the part of metacognition that can be reported and measured, what a person knows about their own thinking and how they manage it."
+        },
+        {
+          "t": "p",
+          "x": "[Mindful attention](card:Mindful%20attention): attention deliberately trained on present experience, Kabat-Zinn's operational definition."
+        },
+        {
+          "t": "p",
+          "x": "[Mindful presence](card:Mindful%20presence): the label I use for the attended presence itself; Kabat-Zinn, 1990."
+        },
+        {
+          "t": "p",
+          "x": "[Present-moment awareness theory](card:Present-moment%20awareness%20theory): the claim that contact with the current moment, rather than the remembered past or imagined future, underpins wellbeing."
+        },
+        {
+          "t": "p",
+          "x": "[Detached mindfulness theory Wells](card:Detached%20mindfulness%20theory%20Wells): the clinical cousin, watching thoughts without engaging them."
+        },
+        {
+          "t": "p",
+          "x": "[Decentering](card:Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world or the self."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive defusion](card:Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, constructions passing through awareness, rather than as commands or facts."
+        },
+        {
+          "t": "p",
+          "x": "[Acceptance](card:Acceptance): the willing embrace of unwanted inner experience, without trying to change its frequency or form."
+        },
+        {
+          "t": "p",
+          "x": "[Beginner's mind](card:Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time, many possibilities where the expert's mind holds few."
+        },
+        {
+          "t": "p",
+          "x": "[Clarity of mind](card:Clarity%20of%20mind): the label I use for the unclouded mental state the contemplative traditions describe, Stoic assent, Daoist purity-and-stillness, Buddhist clear seeing."
+        },
+        {
+          "t": "p",
+          "x": "[The lived body](card:The%20lived%20body): the body as experienced from within, the body one is rather than only the body one has; the first frame's home."
+        },
+        {
+          "t": "h2",
+          "x": "The modern family"
+        },
+        {
+          "t": "p",
+          "x": "[Mindfulness](card:Mindfulness): my entry for the modern practice family."
+        },
+        {
+          "t": "p",
+          "x": "[Mindfulness-based stress reduction](card:Mindfulness-based%20stress%20reduction): Kabat-Zinn's clinical programme."
+        },
+        {
+          "t": "p",
+          "x": "[Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy): the programme developed for relapse prevention in depression."
+        },
+        {
+          "t": "p",
+          "x": "[Dispositional mindfulness](card:Dispositional%20mindfulness): the trait version of the capacity, as it varies between people."
+        },
+        {
+          "t": "p",
+          "x": "[Mindfulness's clarity mechanism](card:Mindfulness%27s%20clarity%20mechanism): seeing mental events accurately rather than dimly, the Bishop et al. operational definition."
+        },
+        {
+          "t": "p",
+          "x": "[Mindful self-compassion programme](card:Mindful%20self-compassion%20programme): the practice family's kindness branch."
+        },
+        {
+          "t": "p",
+          "x": "[Body scan in MBSR (Kabat-Zinn)](card:Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in MBSR, attention moved systematically through the body."
+        },
+        {
+          "t": "p",
+          "x": "[Walking meditation](card:Walking%20meditation): deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath."
+        },
+        {
+          "t": "p",
+          "x": "A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:"
+        },
+        {
+          "t": "q",
+          "x": "\"Clinicians should be aware that meditation programs can result in small to moderate reductions in multiple negative dimensions of psychological stress.\" ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The attention traditions"
+        },
+        {
+          "t": "p",
+          "x": "[The craft of attention](card:The%20craft%20of%20attention) and [The discipline of attention](card:The%20discipline%20of%20attention): Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear."
+        },
+        {
+          "t": "p",
+          "x": "[The effort of attention](card:The%20effort%20of%20attention): James's phrase from the Principles of Psychology, attention doing the work where a thought prevails with effort."
+        },
+        {
+          "t": "p",
+          "x": "[Effortless attention](card:Effortless%20attention): attention or action experienced as effortless, in Bruya's working definition."
+        },
+        {
+          "t": "p",
+          "x": "[Focused-attention meditation](card:Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing when it wanders, returning it; Lutz et al.'s account."
+        },
+        {
+          "t": "p",
+          "x": "[Attention management](card:Attention%20management): the practice of governing where attention goes, choosing what receives it and protecting it from capture."
+        },
+        {
+          "t": "p",
+          "x": "[Epoché](card:Epoch%C3%A9): suspension, the deliberate withholding of an automatic mental act, in Husserl's tradition the trained posture of attention."
+        },
+        {
+          "t": "p",
+          "x": "[Delight in the ordinary](card:Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand."
+        },
+        {
+          "t": "h",
+          "x": "Related questions and parallels"
+        },
+        {
+          "t": "h2",
+          "x": "How do these definitions differ?"
+        },
+        {
+          "t": "p",
+          "x": "The clinical definition that the modern practice family works from, Kabat-Zinn's, reads:"
+        },
+        {
+          "t": "q",
+          "x": "\"the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment.\" ([Wikipedia, \"Mindfulness\", quoting Jon Kabat-Zinn](https://en.wikipedia.org/wiki/Mindfulness)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Thanissaro, reading the Pali sati, holds that the functions the clinical definition names are not automatically part of sati:"
+        },
+        {
+          "t": "q",
+          "x": "\"Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate.\" ([Thanissaro Bhikkhu, \"Mindfulness Defined\"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "From the same essay:"
+        },
+        {
+          "t": "q",
+          "x": "\"meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all.\" ([Thanissaro Bhikkhu, \"Mindfulness Defined\"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "These excerpts emphasize different things: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. Whether the two definitions name one capacity or two is a question the sources themselves leave open."
+        },
+        {
+          "t": "h2",
+          "x": "How does bare attention support practice?"
+        },
+        {
+          "t": "p",
+          "x": "Nyanaponika Thera makes bare attention the core of the practice:"
+        },
+        {
+          "t": "q",
+          "x": "\"Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation.\" ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath \"are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate.\" Nyanaponika makes bare attention central to satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. The two readings hold together; neither excludes the other."
+        },
+        {
+          "t": "h2",
+          "x": "Is mindfulness bare, non-conceptual awareness?"
+        },
+        {
+          "t": "p",
+          "x": "The question, stated precisely: is sati essentially nonconceptual awareness, or can its practice deliberately involve concepts? Gunaratana, in Mindfulness in Plain English, identifies sati with the fleeting moment of awareness before thought arrives:"
+        },
+        {
+          "t": "q",
+          "x": "\"Mindfulness is nonconceptual awareness. Another English term for sati is ‘bare attention.’ It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process.\" ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, \"What Does Mindfulness Really Mean?\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Bodhi, reading the canon and its commentaries against that claim, denies it:"
+        },
+        {
+          "t": "q",
+          "x": "\"In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization.\" ([Bhikkhu Bodhi, \"What Does Mindfulness Really Mean? A Canonical Perspective\"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Bodhi allows nonconceptual observation as a practice. His objection is to making it sati's nature: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. What remains unresolved is where sati's home is: the preconceptual moment of awareness, or the wider field of trained attention, evaluation and recollection the canon gives it."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the default setting of the unattended life: experience passing unexamined, the body noticed only when it complains, attention captured by whatever arrives loudest. The adaptive direction is the factor's own shape, awareness established on some frame of the present, breath, body, feeling or thought, and returned to without drama when it wanders."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K102 — Body scan](card:K102%20%E2%80%94%20Body%20scan): attention moved deliberately through the body, frame by frame."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K104 — Mindful walking](card:K104%20%E2%80%94%20Mindful%20walking): the walk itself taken as the frame of reference."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K415 — Mindful eating](card:K415%20%E2%80%94%20Mindful%20eating): one meal attended; the look, smell and changing taste of the food and the body's hunger and fullness signals, noticed."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K398 — Mindfulness bells](card:K398%20%E2%80%94%20Mindfulness%20bells): two or three ordinary activities from the day turned into bells, pre-set reminders to stop and attend."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K108 — Meta-awareness check](card:K108%20%E2%80%94%20Meta-awareness%20check): a standing question through the day, what is the mind doing right now."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[K111 — Interoceptive awareness](card:K111%20%E2%80%94%20Interoceptive%20awareness): subtle body signals, heartbeat, breathing, hunger, tension, temperature, tuned into."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the bell, or the evening scan, or the question at the red light has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "What the factor is"
+        },
+        {
+          "t": "p",
+          "x": "[ST069 — The Four Foundations](card:ST069%20%E2%80%94%20The%20Four%20Foundations): the sutta opens by calling its practice the direct path for the purification of beings, then lays out the four frames of reference, body, feelings, mind and mental qualities."
+        },
+        {
+          "t": "p",
+          "x": "[ST068 — The Sixteen Steps of the Breath](card:ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath): the Buddha trains mindfulness of breathing step by step, breathing in long or short and discerning it, then breathing sensitive to the entire body, calming bodily fabrication, sensitive to rapture and pleasure, on through the mind to relinquishment; the card reads the progression as the point, nothing skipped, each step verifiable in the body."
+        },
+        {
+          "t": "h2",
+          "x": "The refrain that does the work"
+        },
+        {
+          "t": "p",
+          "x": "[ST061 — Bāhiya's Single Instruction](card:ST061%20%E2%80%94%20B%C4%81hiya%27s%20Single%20Instruction): the Buddha's brief instruction to Bahiya, in reference to the seen, there will be only the seen; in reference to the heard, only the heard; the senses received without addition, and Bahiya awakens on the spot."
+        },
+        {
+          "t": "p",
+          "x": "[ST074 — The Five Hindrances as Thieves](card:ST074%20%E2%80%94%20The%20Five%20Hindrances%20as%20Thieves): the Buddha catalogues five hindrances that obscure the mind, and the instruction is to know them rather than fight them, noticing when one is present, when absent, and how it arose and passed away."
+        },
+        {
+          "t": "h2",
+          "x": "The attention traditions"
+        },
+        {
+          "t": "p",
+          "x": "[ST071 — The Wind and the Flag](card:ST071%20%E2%80%94%20The%20Wind%20and%20the%20Flag): two monks argue whether the flag or the wind is moving; Huineng says it is not the wind or the flag, their minds are moving, the Chan tradition's sharpest statement on where events happen."
+        },
+        {
+          "t": "p",
+          "x": "[ST023 — Simone Weil on Attention](card:ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's reading of attention as the rarest and purest form of generosity, school studies as its training ground."
+        },
+        {
+          "t": "p",
+          "x": "[ST122 — Augustine's Threefold Present](card:ST122%20%E2%80%94%20Augustine%27s%20Threefold%20Present): Augustine's account of the present as a triple structure, a present of things past, of things present and of things future, with attention the one of the three that is lived in."
+        }
+      ],
+      "group": "eightfold-path",
+      "status": "published",
+      "art": "assets/dossier-art/right-mindfulness.jpg"
+    },
+    {
+      "id": "fear",
+      "title": "Fear",
+      "question": "What is fear protecting, and how much of it belongs to the person rather than the threat?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Fear is the body's answer to a specific danger, and its answer is mobilised before reflection arrives: the heart rate, the stillness, the urge to flee. The classical traditions worked on the person's share of the question, examining what the fear rests on: a mental picture, a belief about the future, an estimate of one's own cowardice. The modern research worked on the system itself and found an evolved defense that is automatic and only partly penetrable to cognitive control. Between the two sits courage, the virtue that answers fear with action, and exposure, the clinical practice of approaching what is feared."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Dread: the fear-of-death material is death fear, held on the cards below; the dread that has no object at all belongs to the anxiety family, and [Anxiety about the future](card:Anxiety%20about%20the%20future) is its map line."
+        },
+        {
+          "t": "p",
+          "x": "Phobia: the clinical extreme of a specific fear; its classification sits on [Fear](card:Fear), and the exposure cluster holds its treatment."
+        },
+        {
+          "t": "p",
+          "x": "Panic: fear turned on its own symptoms, fear of fear; the interoceptive-exposure material is its clinical counterpart."
+        },
+        {
+          "t": "p",
+          "x": "Courage: fear's virtue counterpart, held inside this theme rather than split off."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on fear"
+        },
+        {
+          "t": "h2",
+          "x": "What fear is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[Fear](card:Fear): the emotion of a specific danger; Aristotle's definition sets the structure the tradition keeps returning to."
+        },
+        {
+          "t": "q",
+          "x": "\"Fear may be defined as a pain or disturbance due to a mental picture of some destructive or painful evil in the future.\" ([Aristotle, Rhetoric II.5, Roberts translation](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same book adds two qualifications that carry most of the tradition's later work: fear requires nearness — \"we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand\" — and fear is already a kind of thinking: \"fear sets us thinking what can be done, which of course nobody does when things are hopeless\" ([Aristotle, Rhetoric II.5](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html))."
+        },
+        {
+          "t": "p",
+          "x": "The evolutionary account gives fear a motive state rather than a definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"An essential characteristic of fear, therefore, is that it motivates avoidance and escape.\" ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same review proposes a fear module with four characteristics: preferential activation by stimuli that are fear relevant in an evolutionary perspective, automatic activation, relative impenetrability to cognitive control, and a dedicated neural circuitry centered on the amygdala ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "[Facing the fear](card:Facing%20the%20fear): Kierkegaard's thread through The Concept of Anxiety — anxiety as \"sympathetic antipathy,\" drawn toward and repelled by a possibility at once, belonging to the human condition rather than being only a symptom; whoever has learned to be anxious in the right way has learned the ultimate."
+        },
+        {
+          "t": "p",
+          "x": "[SP017 — Treat hope and fear as one system](card:SP017%20%E2%80%94%20Treat%20hope%20and%20fear%20as%20one%20system): Spinoza's account — hope and fear have the same object, exist simultaneously, and neither exists without some doubt in the imagination."
+        },
+        {
+          "t": "h2",
+          "x": "How fear is examined and classified"
+        },
+        {
+          "t": "p",
+          "x": "[The examination of fear](card:The%20examination%20of%20fear): Epicurus's method in the Letter to Menoeceus — take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death, which is nothing to us, “seeing that, when we are, death is not come, and, when death is come, we are not”."
+        },
+        {
+          "t": "p",
+          "x": "[The classification of fears](card:The%20classification%20of%20fears): the card's editorial label for the Letter to Menoeceus — its two main fears, of the gods and of death, and its sorting of desires so the groundless ones can be dropped; the letter supplies no ranked taxonomy."
+        },
+        {
+          "t": "p",
+          "x": "[SP038 — Treat superstition as fear's theology](card:SP038%20%E2%80%94%20Treat%20superstition%20as%20fear%27s%20theology): Spinoza's description of superstition as dread converted into behavior — the surveying of nature, the paper talisman against misfortune."
+        },
+        {
+          "t": "p",
+          "x": "[S063 — Do not fear what you cannot control](card:S063%20%E2%80%94%20Do%20not%20fear%20what%20you%20cannot%20control) and [D097 — Don't fear what you can't act on](card:D097%20%E2%80%94%20Don%27t%20fear%20what%20you%20can%27t%20act%20on): the Stoic rule — no need for fear on any object over which the patient exercises no control; the examination of what requires effort, attention, and experiment versus what simply requires waiting."
+        },
+        {
+          "t": "h2",
+          "x": "Fear and the future evil: the classical remedies"
+        },
+        {
+          "t": "p",
+          "x": "[S022 — Do not fear poverty](card:S022%20%E2%80%94%20Do%20not%20fear%20poverty), [S023 — Do not fear pain](card:S023%20%E2%80%94%20Do%20not%20fear%20pain), [S024 — Do not fear death](card:S024%20%E2%80%94%20Do%20not%20fear%20death): the three named fears of the Stoic curriculum, each with its exercise — Seneca's rehearsal of the minimum (\"Is this the condition that I feared?\"), the notice of what opinion adds to pain, and the sorting of death into the column of things that happen to everyone."
+        },
+        {
+          "t": "p",
+          "x": "[SP065 — Act from strength, not from fear](card:SP065%20%E2%80%94%20Act%20from%20strength%2C%20not%20from%20fear): Spinoza's rule and its corollary — the man who does good only to escape evil is not led by reason; under desire that springs from reason, \"we seek good directly, and shun evil indirectly\"."
+        },
+        {
+          "t": "p",
+          "x": "[Epicurean argument against the fear of death](card:Epicurean%20argument%20against%20the%20fear%20of%20death): the argument that the supposed horror of death has no referent in experience — the two never coexist."
+        },
+        {
+          "t": "q",
+          "x": "\"Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.\" ([Epicurus, Letter to Menoeceus, Wikisource translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[B055 — Contemplate mortality (maranasati)](card:B055%20%E2%80%94%20Contemplate%20mortality%20%28maranasati%29): the Buddhist death recollection — the Upajjhatthana Sutta's five facts recollected often, because beings intoxicated with life conduct themselves badly; the reflection abandons or weakens the intoxication."
+        },
+        {
+          "t": "p",
+          "x": "[S089 — Remember that you will die](card:S089%20%E2%80%94%20Remember%20that%20you%20will%20die): Marcus's working instruction — \"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly\" (Meditations II.11)."
+        },
+        {
+          "t": "p",
+          "x": "[Terror management](card:Terror%20management): the experimental finding that reminders of mortality make people defend their cultural worldview and derogate challengers; mortality salience biases reasoning generally."
+        },
+        {
+          "t": "p",
+          "x": "[Death anxiety research](card:Death%20anxiety%20research): the clinical-psychology study of fear of death; a review in Clinical Psychology Review proposed treating death anxiety as a transdiagnostic construct:"
+        },
+        {
+          "t": "q",
+          "x": "\"Death anxiety is considered to be a basic fear underlying the development and maintenance of numerous psychological conditions. Treatment of transdiagnostic constructs, such as death anxiety, may increase treatment efficacy across a range of disorders.\" ([Iverach, Menzies & Menzies, 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Courage: acting despite fear"
+        },
+        {
+          "t": "p",
+          "x": "[Courage](card:Courage): the umbrella card for the virtue that answers fear with action; Aristotle's account of courage as the mean concerned with fear is its spine."
+        },
+        {
+          "t": "p",
+          "x": "[Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear): Tutu's account from the anti-apartheid movement — the coward's bravery at the moment of death, and the madness of continuing to fight after all's lost."
+        },
+        {
+          "t": "p",
+          "x": "[Authentic courage without props](card:Authentic%20courage%20without%20props): Nietzsche's aphorism GS §139 — those who depend on the applause of others receive their strength not from themselves."
+        },
+        {
+          "t": "p",
+          "x": "[Courage built gradually](card:Courage%20built%20gradually): Aristotle's NE III.9 — most people mistake cowardice for the lack of intensity (softness) rather than the internal confusion over whether one should bear the feeling at all; those who feel fear's influence in their reasoning, refuse to obey it, and act from confidence in the right option are more truly courageous than those who feel no fear."
+        },
+        {
+          "t": "p",
+          "x": "[The courage to act against impulse](card:The%20courage%20to%20act%20against%20impulse): Aristotle's NE III.8 — insecurity in one's confidence in one's own courage is not itself cowardice, and neither is the mere fact of fearing; courage is the confidence of one's own power in the face of danger, not the mere ability to endure the fear."
+        },
+        {
+          "t": "p",
+          "x": "[Moral courage research](card:Moral%20courage%20research): Rand's bystander experiments — engaged participants show higher moral courage under risk conditions; those with more developed moral identity acted independently of social influence, suggesting moral identity can override social inhibition."
+        },
+        {
+          "t": "p",
+          "x": "[A011 — Practice courage (andreia)](card:A011%20%E2%80%94%20Practice%20courage%20%28andreia%29) and [PP037 — Cultivate courage](card:PP037%20%E2%80%94%20Cultivate%20courage): the virtue-practice pages — Aristotle's exercise as an act of courage, and the affirmative cultivation of courage as a strength."
+        },
+        {
+          "t": "h2",
+          "x": "Exposure: the clinical counterpart"
+        },
+        {
+          "t": "p",
+          "x": "[Exposure therapy (Foa, Craske)](card:Exposure%20therapy%20%28Foa%2C%20Craske%29): the repeated approach toward fear-provoking stimuli, a mainstay of cognitive behavioral therapy since its inception; on the inhibitory-learning account the old fear is not erased but is left intact as new learning develops."
+        },
+        {
+          "t": "q",
+          "x": "\"Within a Pavlovian conditioning approach, the inhibitory learning models mean that the original CS-US association learned during fear conditioning is not erased during extinction, but rather is left intact as new, secondary inhibitory learning about the CS-US develops – specifically, that the CS no longer predicts the US (e.g., Bouton & King, 1983; Bouton, 1993).\" ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Exposure processes](card:Exposure%20processes): the mechanisms by which exposure produces its effects — expectancy violation first:"
+        },
+        {
+          "t": "q",
+          "x": "\"The more the expectancy can be violated by experience, the greater the inhibitory learning.\" ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Graded exposure systematic desensitisation (Wolpe)](card:Graded%20exposure%20systematic%20desensitisation%20%28Wolpe%29): the ordered approach from least to most disturbing step; Wolpe's principle — if a response antagonistic to anxiety can be made to occur in the presence of anxiety-evoking stimuli, the bond between the stimuli and the anxiety responses will be weakened."
+        },
+        {
+          "t": "p",
+          "x": "[Interoceptive exposure (Barlow)](card:Interoceptive%20exposure%20%28Barlow%29): the part of exposure where the thing approached is a bodily sensation — a racing heart, dizziness — brought on deliberately and stayed with, so that it can be learned that it does not lead to the disaster expected."
+        },
+        {
+          "t": "p",
+          "x": "[ERP (exposure and response prevention)](card:ERP%20%28exposure%20and%20response%20prevention%29): the OCD treatment that pairs deliberate confrontation of feared situations with the blocking of the compulsions that follow; on the evidence base it is a first-line treatment for OCD."
+        },
+        {
+          "t": "p",
+          "x": "[BE026 — Learn exposure therapy principles — approach what you fear](card:BE026%20%E2%80%94%20Learn%20exposure%20therapy%20principles%20%E2%80%94%20approach%20what%20you%20fear): the exposure principle at practice size — systematically approaching feared situations, objects, or sensations while preventing avoidance."
+        },
+        {
+          "t": "h2",
+          "x": "The stories and sayings"
+        },
+        {
+          "t": "p",
+          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): the Christian tradition's one-line removal — 1 John 4:18."
+        },
+        {
+          "t": "p",
+          "x": "[I fear the Greeks even bearing gifts](card:I%20fear%20the%20Greeks%20even%20bearing%20gifts): Laocoon's warning against what arrives as a gift — Aeneid II."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the relationship with the feared thing: the avoidance that fences off ordinary life and feeds the fear, the fear of one's own collapse mistaken for fear of the event, and the courage deferred until the moment feels right. The adaptive direction runs toward contact: the feared situation entered in ordered steps, the expectation exposed to the experience that violates it, and the fear's object named before the body's answer is obeyed."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Graded exposure](card:K117%20%E2%80%94%20Graded%20exposure): write the hierarchy of avoided situations, ordered by difficulty; enter the easiest and stay; move up gradually. The stay-until-anxiety-drops rule comes from the NHS self-help form of the practice; the inhibitory-learning account measures progress by what is learned, not by how far fear falls within a session. The self-help form suits ordinary fears; trauma or severe symptoms belong with a clinician."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Morning premeditation](card:K275%20%E2%80%94%20Morning%20premeditation): spend two minutes on what the day may bring — the difficult conversation, the delay, the setback — and rehearse a response to each in if-then form. The field research behind it found that linking foreseeable obstacles to chosen responses helped goal attainment."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): once a week, act on a situation where unfairness is seen and silence would be normal — speak up, challenge, report. The drill is designed against the finding that people report smoke far less often in the presence of passive others."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Civic courage drill](card:K362%20%E2%80%94%20Civic%20courage%20drill): once a month, act on a civic concern normally avoided — attend the meeting, write to the representative, speak at the forum. The well-being evidence for civic engagement is uneven; the drill runs on courage and conviction first."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "What a reader keeps from this theme is usually a record rather than a feeling: what was predicted, what occurred, and which action is worth repeating. A reader who keeps the hierarchy and re-runs it, or the weekly courage slot, has the theme's core; the drill that survives is the one the reader's life confirms."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "h2",
+          "x": "Fear examined on the deathbed"
+        },
+        {
+          "t": "p",
+          "x": "[ST275 — Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is fear not of death in the abstract but of the thing he cannot name; his scream lasts three days, and it stops when he stops resisting, and the last hour was the most terrible and the most important."
+        },
+        {
+          "t": "h2",
+          "x": "The death contemplated"
+        },
+        {
+          "t": "p",
+          "x": "[ST032 — The Skull by the Road](card:ST032%20%E2%80%94%20The%20Skull%20by%20the%20Road): Zhuangzi pokes a dry skull with his crop, asking whether greed, ambition or shame brought it here; the skull appears in his dream to report no ruler above or servant below in the land of the dead, and declines restoration to life."
+        },
+        {
+          "t": "h2",
+          "x": "The sorting that removes fear"
+        },
+        {
+          "t": "p",
+          "x": "[ST207 — The Sailors and the Storm](card:ST207%20%E2%80%94%20The%20Sailors%20and%20the%20Storm): in a storm at sea the passengers panic and the sailors work; the storm is identical for both, and the difference is the story each has about it: the sailors know what is theirs to do and what is not, and their calm is a by-product of that sorting."
+        },
+        {
+          "t": "h2",
+          "x": "A disputed example"
+        },
+        {
+          "t": "p",
+          "x": "[ST196 — Cato Chooses the Republic](card:ST196%20%E2%80%94%20Cato%20Chooses%20the%20Republic): Cato, seeing Caesar's victory inevitable at Thapsus, reads Plato's Phaedo through the night, twice, discusses the argument with his friends, and then, after the Stoic manner, takes his own life rather than become a prop in Caesar's theatre; the tradition has always been ambivalent: Stoics celebrated the sage's final act, later Christian readers saw pride."
+        }
+      ],
+      "group": "affective-life",
+      "status": "published",
+      "art": "assets/dossier-art/fear.jpg"
+    },
+    {
+      "id": "shame-and-guilt",
+      "title": "Shame & Guilt",
+      "question": "Which of the two moral emotions repairs a life, and which corrodes it?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Shame and guilt answer occasions of exposure and of wrong: a harm done, a standard broken, a self seen and found wanting. The classical traditions treated that whole territory under names like aidos, repentance and teshuva, and asked how the pain over a wrong should be used. The modern research tradition split the territory in two and staked much on the split: one emotion evaluates an act and reaches for repair, the other evaluates the self and reaches for cover. Both the classical treatments and the split have a claim on a reader who has done wrong and wants to know what to do next."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Embarrassment: the family's research treats embarrassment as the briefer social-exposure member of the set; the umbrella sits on [Self-conscious emotions](card:Self-conscious%20emotions), and a reader whose question is the flush of exposure should start there."
+        },
+        {
+          "t": "p",
+          "x": "Remorse: I hold it inside [Repentance](card:Repentance), where Spinoza's definition makes the belief clause — pain over an act believed freely done — the operative part."
+        },
+        {
+          "t": "p",
+          "x": "Humiliation: the unchosen exposures appear in Aristotle's material on shame ([Shame](card:Shame)); the social marking of people is [Stigma research](card:Stigma%20research)."
+        },
+        {
+          "t": "p",
+          "x": "Self-consciousness: the family umbrella. The set of emotions that take the self as object — shame, guilt, embarrassment, pride — is mapped on [Self-conscious emotions](card:Self-conscious%20emotions)."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on shame and guilt"
+        },
+        {
+          "t": "h2",
+          "x": "What the two feelings are taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[Self-conscious emotions](card:Self-conscious%20emotions): the family that takes the self as its object; Tangney's research tradition treats the set as failures and social-exposure signs with distinct social functions."
+        },
+        {
+          "t": "p",
+          "x": "[Moral emotions](card:Moral%20emotions): the wider set that links moral standards to behaviour; shame and guilt are its self-directed members."
+        },
+        {
+          "t": "p",
+          "x": "[Guilt](card:Guilt): the negative evaluation of a specific behaviour; its adaptive form moves toward confession, apology and undoing, its chronic form toward rumination and self-blame."
+        },
+        {
+          "t": "p",
+          "x": "[Shame](card:Shame): the negative evaluation of the global self; the feeling that the whole person is defective, with the hiding that follows from that verdict."
+        },
+        {
+          "t": "p",
+          "x": "The distinction the research runs on comes from Helen Block Lewis, restated in Tangney and colleagues' review of the moral emotions:"
+        },
+        {
+          "t": "q",
+          "x": "\"According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior.\" ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "What each feeling does"
+        },
+        {
+          "t": "p",
+          "x": "[Guilt motivates reparative behaviour](card:Guilt%20motivates%20reparative%20behaviour): the empirical claim that guilt, aimed at a harm, generates confession, apology and undoing rather than avoidance."
+        },
+        {
+          "t": "p",
+          "x": "The action tendencies, from the same review:"
+        },
+        {
+          "t": "q",
+          "x": "\"On the one hand, shame corresponds with attempts to deny, hide, or escape the shame-inducing situation. Guilt, on the other hand, corresponds with reparative actions including confessions, apologies, and undoing the consequences of the behavior.\" ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same review records the cost side: proneness to shame is related to a wide variety of psychological symptoms, from low self-esteem and depression to suicidal ideation. These are correlations with proneness, and the review does not describe a cure. Aristotle's brake and these correlations are claims about different things — a state that restrains a developing character, and a stable disposition measured across people — and neither settles the other."
+        },
+        {
+          "t": "p",
+          "x": "Guilt has its own failure mode. The advantages of guilt are lost when the guilt experience is magnified and generalized to the self — the review's example is the slide from \"Oh, look at what a horrible thing I have done\" to \"… and aren't I a horrible person\" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). The clinical literature adds obsessional guilt: \"In both populations, trait guilt significantly predicted obsessional compulsive complaints, independent of anxiety and depression\" ([Shafran, Watkins & Charman, 1996](https://kclpure.kcl.ac.uk/portal/en/publications/guilt-in-obsessive-compulsive-disorder/))."
+        },
+        {
+          "t": "h2",
+          "x": "The learner's brake: aidos"
+        },
+        {
+          "t": "p",
+          "x": "[Shamefastness (aidos)](card:Shamefastness%20%28aidos%29): the brake that restrains before the principled agent has finished forming, backed by the dread of others' sight; the concept trains honour kept even when no one watches."
+        },
+        {
+          "t": "p",
+          "x": "[Shamefastness as quasi-virtue](card:Shamefastness%20as%20quasi-virtue): Aristotle's NE IV.9 account of shame — short of virtue, aimed at the developing character."
+        },
+        {
+          "t": "p",
+          "x": "Aristotle draws the line in the Nicomachean Ethics:"
+        },
+        {
+          "t": "q",
+          "x": "\"Shame should not be described as a virtue; for it is more like a feeling than a state of character.\" ([Aristotle, NE IV.9, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"For we think young people should be prone to the feeling of shame because they live by feeling and therefore commit many errors, but are restrained by shame; and we praise young people who are prone to this feeling, but an older person no one would praise for being prone to the sense of disgrace, since we think he should not do anything that need cause this sense.\" ([Aristotle, NE IV.9, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"But shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced; but the virtues are not subject to such a qualification.\" ([Aristotle, NE IV.9, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Rhetoric adds the audience structure: shame is \"pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit\", and \"the people before whom we feel shame are those whose opinion of us matters to us\" ([Aristotle, Rhetoric II.6, Roberts translation](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html))."
+        },
+        {
+          "t": "p",
+          "x": "Spinoza defines shame by that audience and judges it double-sided:"
+        },
+        {
+          "t": "q",
+          "x": "\"Shame is pain accompanied by the idea of some action of our own, which we believe to be blamed by others.\" ([Spinoza, Ethics III, Definitions of the Affects XXXI, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"I will only add that shame, like compassion, though not a virtue, is yet good, in so far as it shows, that the feeler of shame is really imbued with the desire to live honourably; in the same way as suffering is good, as showing that the injured part is not mortified.\" ([Spinoza, Ethics IV, LVIII note, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Shame before the eyes of others"
+        },
+        {
+          "t": "p",
+          "x": "[The look (le regard)](card:The%20look%20%28le%20regard%29): Sartre's name for being-seen; shame as the discovery that one exists as an object for another consciousness."
+        },
+        {
+          "t": "p",
+          "x": "[Being-for-others](card:Being-for-others): the dimension of selfhood the look opens; the keyhole example is its founding scene."
+        },
+        {
+          "t": "p",
+          "x": "[The body-for-others](card:The%20body-for-others): the body as it exists for the other's gaze, in Sartre's account in Being and Nothingness."
+        },
+        {
+          "t": "p",
+          "x": "The Stanford Encyclopedia's account of the keyhole scene gives the structure:"
+        },
+        {
+          "t": "q",
+          "x": "\"Suddenly, though, we hear footsteps, and we have an involuntary apprehension of ourselves as an object in the eyes of another; a 'pre-moral' experience of shame; a shudder of recognition that we are the object that the other sees, without room for any sort of inferential theorising or cognising (at least that is manifest to our own consciousness).\" ([SEP, \"Jean-Paul Sartre\"](https://plato.stanford.edu/entries/sartre/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Stigma research](card:Stigma%20research): the sociology of a marked difference turned into a disqualifying social identity — an attribute \"deeply discrediting\", with status loss and social rejection as its consequences; a social process, distinct from the emotion felt from inside."
+        },
+        {
+          "t": "h2",
+          "x": "Correction without humiliation"
+        },
+        {
+          "t": "p",
+          "x": "Nietzsche's Gay Science pair gives the rule for correcting others:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whom dost thou call Bad? Him who always wants to put others to shame.\" ([Nietzsche, The Joyful Wisdom §273, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"What dost thou think most humane? To spare a person shame.\" ([Nietzsche, The Joyful Wisdom §274, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "And the self-directed version, the mark of a finished liberty:"
+        },
+        {
+          "t": "q",
+          "x": "\"What is the Seal of Liberty Attained? To be no longer ashamed of oneself.\" ([Nietzsche, The Joyful Wisdom §275, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The turn: guilt's repair practices"
+        },
+        {
+          "t": "p",
+          "x": "[Repentance](card:Repentance): Spinoza's definition and its consequence — the pain is real, the free decision it presupposes is not, which makes the repenter \"doubly wretched\" on his account, though still useful to those ruled by emotion."
+        },
+        {
+          "t": "q",
+          "x": "\"Repentance is pain accompanied by the idea of some action, which we believe we have performed by the free decision of our mind.\" ([Spinoza, Ethics III, Definitions of the Affects XXVII, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Teshuva (return/repentance)](card:Teshuva%20%28returnrepentance%29): the Jewish practice of return — abandoning the sin, regretting the past, resolving never to return, and confessing out loud."
+        },
+        {
+          "t": "p",
+          "x": "Maimonides gives the practice its classic form:"
+        },
+        {
+          "t": "q",
+          "x": "\"What constitutes Teshuvah? That a sinner should abandon his sins and remove them from his thoughts, resolving in his heart, never to commit them again... Similarly, he must regret the past... He must verbally confess and state these matters which he resolved in his heart.\" ([Maimonides, Mishneh Torah, Repentance 2:2](https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.2?lang=bi))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Metanoia (transformation)](card:Metanoia%20%28transformation%29): the New Testament word for repentance; Thayer's lexicon gives the sense as a change of mind that embraces recognition of sin, sorrow for it and hearty amendment, with good deeds as its tokens."
+        },
+        {
+          "t": "p",
+          "x": "[Conscience (Gewissen)](card:Conscience%20%28Gewissen%29): Heidegger's silent call by which the self is summoned to own its situation; the event that replaces the rule-storage picture of conscience."
+        },
+        {
+          "t": "p",
+          "x": "[The call of conscience](card:The%20call%20of%20conscience): the same account's treatment of guilt — the guilt the call summons to is ontological rather than moral; \"Dasein is guilty before it has incurred any debt.\""
+        },
+        {
+          "t": "p",
+          "x": "[Apology research](card:Apology%20research): the experimental study of what makes apologies work; acknowledgment of responsibility carries the most weight, an offer of repair the second most."
+        },
+        {
+          "t": "p",
+          "x": "[Self-forgiveness](card:Self-forgiveness): Hall and Fincham's construct — the motivational changes whereby one becomes decreasingly motivated to avoid stimuli associated with the offense, decreasingly motivated to retaliate against the self, and increasingly motivated to act benevolently toward the self."
+        },
+        {
+          "t": "p",
+          "x": "The mirror the Buddha holds up to his son gives the review its shape, with confession and restraint for harm and refreshment for skillful conduct:"
+        },
+        {
+          "t": "q",
+          "x": "\"What do you think, Rahula: What is a mirror for?\" ... \"For reflection, sir.\" ... \"In the same way, Rahula, bodily actions, verbal actions, & mental actions are to be done with repeated reflection.\" ([MN 61, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "When the feelings turn on the self"
+        },
+        {
+          "t": "p",
+          "x": "[Harsh self-criticism](card:Harsh%20self-criticism): the self-attack tangled with shame; associated with psychopathology, with its roots often in histories of abuse and neglect."
+        },
+        {
+          "t": "p",
+          "x": "[Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's approach built for exactly this clientele:"
+        },
+        {
+          "t": "q",
+          "x": "\"In compassion-focused therapy it is hypothesised that this affect regulation system is poorly accessible in people with high shame and self-criticism, in whom the 'threat' affect regulation system dominates orientation to their inner and outer worlds.\" ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Self-compassion](card:Self-compassion): Neff's construct — self-kindness, common humanity, mindfulness — a stance toward suffering that does not need a global self-evaluation to defend."
+        },
+        {
+          "t": "p",
+          "x": "[Grace](card:Grace): what is received before it is earned; Augustine's formulation against the ledger of merit."
+        },
+        {
+          "t": "p",
+          "x": "[Be gentle with yourself in the review](card:S066%20%E2%80%94%20Be%20gentle%20with%20yourself%20in%20the%20review): Marcus Aurelius's instruction after failure — \"Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again\" (Meditations V.9); Seneca's nightly audit hands down a pardon with a correction attached."
+        },
+        {
+          "t": "h2",
+          "x": "Show up, do not hide"
+        },
+        {
+          "t": "p",
+          "x": "[Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29): the DBT skill of acting against the emotion's urge, applied to shame; a five-person pilot found shame about a specific event could be reduced over a short period."
+        },
+        {
+          "t": "p",
+          "x": "[The truth sets you free](card:The%20truth%20sets%20you%20free): the Christian tradition's one-line case for confession (John 8:32)."
+        },
+        {
+          "t": "p",
+          "x": "The hiding claim needs one qualification. De Hooge and colleagues note the literature's usual portrayal and their own finding:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whereas psychology literature typically portrays shame as being bad for social relations, motivating social avoidance and withdrawal, there are recent indications that shame can be reinterpreted as having clear social tendencies in the form of motivating approach and social affiliation.\" ([de Hooge et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29303420/))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Two studies (N = 148 and N = 133) using different shame inductions both showed people experiencing shame to prefer to be together with others (social approach) over being alone (social withdrawal).\" ([de Hooge et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29303420/))",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is the flash of shame a judgment?"
+        },
+        {
+          "t": "p",
+          "x": "Sartre's account and the appraisal account in Tangney's tradition describe the same flash and give opposing answers to what it is. For Sartre, shame is pre-moral and pre-reflective: the shudder of finding oneself an object in another's eyes, arriving \"without room for any sort of inferential theorising or cognising\" ([SEP, \"Jean-Paul Sartre\"](https://plato.stanford.edu/entries/sartre/)). For the appraisal tradition, shame is a cognizing — an evaluation of the global self as defective ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). One account reads the feeling as arriving before any judgment; the other defines it as a judgment."
+        },
+        {
+          "t": "p",
+          "x": "What remains unresolved is whether both can be true of one experience: a judgment that borrows its sting from the structure of being seen. The accounts also part ways on what the feeling is for — Sartre reads it as disclosing a dimension of selfhood, the appraisal tradition as a signal with repair and hiding as its outlets."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the slide from act to self: the miss that becomes \"I am a fraud\", the apology that never gets made because the person stops showing up, the correction that arrives wrapped in contempt. The adaptive direction runs the other way: name the particular act, ask what repair is still available, and deliver correction — to others and to oneself — without the global verdict."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Moral injury audit](card:K352%20%E2%80%94%20Moral%20injury%20audit): name one decision that violated your code — what was done, what was violated, who was affected — then distinguish the injury from the guilt and take one step of repair. The paper behind it defines moral injury as the lasting impact of transgressing deeply held moral beliefs; it contains no trial of the audit itself."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Amends and restitution](card:K289%20%E2%80%94%20Amends%20and%20restitution): name what you did without softening clauses, acknowledge the impact as the other person describes it, offer concrete repair and do it. The supporting study measured victim-side responses to imagined apology and restitution; it does not test wrongdoers making real amends."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Opposite action](card:K184%20%E2%80%94%20Opposite%20action): when shame urges hiding and the urge runs against your values, do the reverse — keep the appointment, tell one safe person. The laboratory finding holds for guilt/shame conditions specifically, in a small sample."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[The Two Teachers: change the tone, keep the lesson](card:K380%20%E2%80%94%20The%20Two%20Teachers%3A%20change%20the%20tone%2C%20keep%20the%20lesson): write the inner critic's sentence down, rewrite it in a warm teacher's voice, keep the information and drop the contempt. From Kolts's compassion-focused therapy workbook."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Self-compassion practice](card:K162%20%E2%80%94%20Self-compassion%20practice): hand on chest — \"This is a moment of suffering. Suffering is part of life. May I be kind to myself in this moment.\" The meta-analytic association with lower psychopathology is correlational."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "What a reader keeps from this theme is usually a question rather than a technique: after a miss, \"what exactly did I do, and what can I put right?\" A reader who keeps asking it, and who keeps the amends they promised, has the theme's core; whether they add the self-compassion break or the opposite-action experiment is a matter of what their own shame answers to."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "h2",
+          "x": "The act named and repaired"
+        },
+        {
+          "t": "p",
+          "x": "[ST380 — A Mirror for Rahula](card:ST380%20%E2%80%94%20A%20Mirror%20for%20Rahula): the Buddha asks his son what a mirror is for, then runs the same reflection through every action before, during and after: harm confessed to the Teacher or a knowledgeable companion, restraint ahead, and refreshment and joy for conduct that was skillful."
+        },
+        {
+          "t": "h2",
+          "x": "Being seen"
+        },
+        {
+          "t": "p",
+          "x": "[ST283 — Sartre's Keyhole](card:ST283%20%E2%80%94%20Sartre%27s%20Keyhole): a man crouched at a door, absorbed, hears footsteps and is instantly an object caught in the act; the shame is the discovery that he exists for another's eyes."
+        },
+        {
+          "t": "h2",
+          "x": "The verdict dissolved"
+        },
+        {
+          "t": "p",
+          "x": "[ST363 — Angelina Uses the Front Door](card:ST363%20%E2%80%94%20Angelina%20Uses%20the%20Front%20Door): the daughter who left her kerchiefed mother at the front door and slipped in by the side door learns the visitors call her mother the best stick-spindle spinner in America, and comes in by the same door as her mother."
+        },
+        {
+          "t": "h2",
+          "x": "Release from guilt"
+        },
+        {
+          "t": "p",
+          "x": "[ST390 — The Tinker's Chains Fall Off in a Field](card:ST390%20%E2%80%94%20The%20Tinker%27s%20Chains%20Fall%20Off%20in%20a%20Field): Bunyan's heart \"as full of fear and guilt as ever heart could hold\" until, crossing a field with dashes on his conscience, the sentence \"Thy righteousness is in heaven\" falls upon his soul and the chains come off his legs."
+        }
+      ],
+      "group": "affective-life",
+      "status": "published",
+      "art": "assets/dossier-art/shame-and-guilt.jpg"
     }
   ],
   "groups": [
@@ -14197,11 +15302,6 @@ window.fcDossiersData = {
       "group": "eightfold-path"
     },
     {
-      "id": "right-mindfulness",
-      "title": "Right Mindfulness",
-      "group": "eightfold-path"
-    },
-    {
       "id": "right-concentration",
       "title": "Right Concentration",
       "group": "eightfold-path"
@@ -14212,18 +15312,8 @@ window.fcDossiersData = {
       "group": "affective-life"
     },
     {
-      "id": "fear",
-      "title": "Fear",
-      "group": "affective-life"
-    },
-    {
       "id": "sadness-and-grief",
       "title": "Sadness & Grief",
-      "group": "affective-life"
-    },
-    {
-      "id": "shame-and-guilt",
-      "title": "Shame & Guilt",
       "group": "affective-life"
     },
     {
