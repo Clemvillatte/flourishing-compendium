@@ -167,3 +167,13 @@ component?). The 3-5 bar is MET, subject to supervisor/owner
 ratification. The owner reader gate noted in the batch comment
 remains outstanding and blocks declaring the dossier complete or
 publication-ready; it does not block pushing this scoped repair.
+
+## Carrier repair round (2026-10-25, worker-pplx-dos35-1025w, baton dos35)
+
+quote_verify went 4 NOT FOUND -> 1. No page wording changed; no new disagreement or interpretive verdict added.
+
+Repaired: the three PubMed-linked ego-depletion quotes (Carter et al. 2015 meta-analysis, PMID 27474142, three links; Oaten and Cheng 2006, PMID 10457761) re-verified today in the NCBI eutils plain-text abstracts; plain-text links added alongside the PubMed citations. pubmed.ncbi.nlm.nih.gov serves a bot-challenge page from this network.
+
+REMAINING 1 NOT FOUND, flagged: the whiterose.ac.uk "Does Self-Control Improve With Practice" quote ("we found no evidence that training led to any improvements in self-control") is present in the fetched PDF (fetched today, passage read in the extracted text) but the checker's normalised match fails on the PDF's line-break and hyphenation rendering. The sentence appears twice in the manuscript (abstract moderation sentence and the results sentence); the quoted sentence matches the results sentence verbatim in print.
+
+Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 28 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.

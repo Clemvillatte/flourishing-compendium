@@ -1,12 +1,13 @@
 {
-  "batch": "dos35",
-  "done": [
-    "executive-functions"
-  ],
-  "in_progress": null,
-  "flagged": {
-    "executive-functions": "Third disagreement added 2026-10-25T06:16:00Z (central executive retain vs retire, Hitch Allen Baddeley 2024 + Baddeley 2021, advisor QC applied). 3/3 substantiated disagreements - bar met. Owner reader gate outstanding; supervisor to flip registry from planned. Baton released."
-  },
-  "comment": "Minted 2026-10-25 by owner directive: Executive Functions dossier (registry planned, The Mind's Life section). Art assigned by curator in 0ed6d1c: Le Pho, Les joueuses de cartes (already in assets). Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full. Draft v2 complete 2026-10-25 (two substantiated disputes; see sources ledger for outstanding third dispute + owner reader gate).",
-  "updated": "2026-10-25T06:16:30+00:00"
+ "batch": "dos35",
+ "done": [
+  "executive-functions",
+  "2026-10-25 1025w carrier repair: eutils links for ego-depletion quotes; quote_verify 4->1 (whiterose PDF rendering artifact, flagged); no wording change"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "executive-functions": "Third disagreement added 2026-10-25T06:16:00Z (central executive retain vs retire, Hitch Allen Baddeley 2024 + Baddeley 2021, advisor QC applied). 3/3 substantiated disagreements - bar met. Owner reader gate outstanding; supervisor to flip registry from planned. Baton released."
+ },
+ "comment": "Minted 2026-10-25 by owner directive: Executive Functions dossier (registry planned, The Mind's Life section). Art assigned by curator in 0ed6d1c: Le Pho, Les joueuses de cartes (already in assets). Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full. Draft v2 complete 2026-10-25 (two substantiated disputes; see sources ledger for outstanding third dispute + owner reader gate).",
+ "updated": "2026-10-25T06:16:30+00:00"
 }
