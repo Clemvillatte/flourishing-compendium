@@ -180,3 +180,6 @@
 
 ## P193 Bergson
 - Both Creative Evolution quotes (Mitchell, Gutenberg 26163) verified verbatim. Opening paragraph no longer states 'consciousness is memory, anticipation and choice' as Bergson's wording; now anchored on the verified quote. Example labelled as mine.
+
+## P191 Bergson
+- Quotes verified against the Anthologia reproduction and against the Wildon Carr translation of Mind-Energy (search excerpts of archive.org and the Auro PDF; the Anthologia page does not name the translator). Citation label now names the lecture, the book and Carr as translator.

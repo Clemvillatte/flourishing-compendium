@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 191** — Joy is the felt signature of creation; distinct from pleasure
 
-Bergson distinguishes pleasure from joy. Nature, he says, warns us by a clear sign that our destination is attained: "That sign is joy. I mean joy, not pleasure. Pleasure is only a contrivance devised by nature to obtain for the creature the preservation of its life, it does not indicate the direction in which life is thrusting. But joy always announces that life has succeeded, gained ground, conquered. All great joy has a triumphant note" ([Bergson, "Life and Consciousness", 1911](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)). A pleasure settles a need; joy says something exists that did not exist before: "wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally" ([same lecture](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)). The artist "who has realized his thought," the manufacturer with the feeling of "having brought something to life" — Bergson associates their joy with what they have created, rather than with money or recognition.
+Bergson distinguishes pleasure from joy. Nature, he says, warns us by a clear sign that our destination is attained: "That sign is joy. I mean joy, not pleasure. Pleasure is only a contrivance devised by nature to obtain for the creature the preservation of its life, it does not indicate the direction in which life is thrusting. But joy always announces that life has succeeded, gained ground, conquered. All great joy has a triumphant note" ([Bergson, "Life and Consciousness", Huxley Lecture 1911, in Mind-Energy, tr. H. Wildon Carr, as reproduced by Anthologia](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)). A pleasure settles a need; joy says something exists that did not exist before: "wherever there is joy, there is creation; the richer the creation, the deeper the joy. The mother beholding her child is joyous, because she is conscious of having created it, physically and morally" ([same lecture](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness)). The artist "who has realized his thought," the manufacturer with the feeling of "having brought something to life" — Bergson associates their joy with what they have created, rather than with money or recognition.
 
 This is not a guarantee. Bergson is offering a phenomenological reading of the *experience* of joy, not a clinical test of whether someone is flourishing.
 
@@ -22,7 +22,7 @@ Bergson separates two things we usually lump together. Pleasure keeps you going:
 
 ### For example
 
-A good meal is pleasure. Watching a child ride a bike alone for the first time is joy, because something new now exists. Same body, different feeling. This one is imagined.
+A good meal is pleasure. Watching a child ride a bike alone for the first time is joy, because something new now exists. Same body, different feeling. (My illustration, not Bergson's.)
 
 ## Philosophy parallels
 
