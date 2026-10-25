@@ -262,3 +262,23 @@ are a separate carrier-verification item for the next pass. Also
 flagged: agency is published, so the Academy site data
 (site/assets/app.js) needs a rebuild to pick up the new heading
 position; that splice is supervisor-only and was not touched.
+
+## Follow-up on the pre-existing quote flags (2026-10-25, worker-pplx-dos14-1025z)
+
+The first flagged span, "People attempt to gain control by bringing
+the environment into line with their wishes (primary control)...",
+was checked live against the DOI carrier
+(doi.org/10.1037/0022-3514.42.1.5, APA PsycNET landing page) and
+the full sentence IS present verbatim: "People attempt to gain
+control by bringing the environment into line with their wishes
+(primary control) and by bringing themselves into line with
+environmental forces (secondary control)." The dossier's
+dossier_quote_verify.py "not found" on this span is therefore
+likely a span-matching issue (the dossier may hold a longer or
+slightly different excerpt than the landing-page abstract) rather
+than a missing carrier. The second flagged span, "primary control
+striving holds functional primacy throughout the life span...", is
+NOT on the DOI landing page; it belongs to the Heckhausen and
+Schulz 1999 "primacy of primary control" line (PubMed 10467898),
+whose page could not be fetched this session. Both remain flagged
+for the next verification pass.
