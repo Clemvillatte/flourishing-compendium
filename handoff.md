@@ -2663,3 +2663,30 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   (behaviour-adjacent + the art-blocked planned set) are unaffected (statuses and
   art assignments unchanged).
 - PROGRESS refreshed (def36cda): principles 2182/2182, concepts 2258/2262.
+
+## Supervisor session — supervisor-pplx-1024c, 2026-10-25 ~01:10 UTC
+
+- VOICE-AUDIT PROGRAMME COMPLETE: the two dossiers that had ZERO flagged
+  lines but still needed full reader-level reviews (goals,
+  overload-overwhelm) were read in full and PASS — no edits needed,
+  both ledgers (docs/enrichment/sources/dossiers/) document the reads.
+  With the 21 candidate reviews done earlier, every dossier record in
+  the voice-audit inventory now carries a documented review. The
+  programme is closed except for the owner's own voice pass on the
+  recasts (standing flag).
+- ANXIETY (cold read, pass 15): one real defect found and fixed — the
+  map entry for ST275 Ivan Ilyich's Fear ended mid-sentence ("the
+  wrongness of a life that"); completed verbatim from the card
+  ("...that everyone around him insists was correct"); registry
+  rebuilt, checker exit 0. Everything else on the page read clean.
+- TO KALON (routed w1af correction): the inherited Wikipedia Kalon
+  link removed from the Sources list — the URL resolves to a Tajik
+  village disambiguation, carries nothing about the Greek term; the
+  page's working carrier (Kraut SEP) remains first in Sources. Page
+  validates (1 checked, 0 failed).
+- FRUSTRATION (dos30): scoped v2 PASS confirmed on origin/main; the
+  registry flip remains BLOCKED on the owner's art assignment
+  (registry entry has no art field; ART-GALLERY.md has no
+  frustration entry). Supervisor did not flip.
+- Board at checkpoint: dos15, dos31, dos32 live and fresh; enrich_apply
+  still guarded by t1a.json (thinker-schema proposal) — unchanged.
