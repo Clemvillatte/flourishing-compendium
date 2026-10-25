@@ -140,6 +140,19 @@ long evidence records in the ledger, not in the public reading path.
   parenthesis. The landed behaviour content is quotation-solid; the
   open items remain the divergence-3 argument concerns routed to the
   live worker.
+- ADDENDUM 6 (~T+28): dos15 takeover completed — the worker had already
+  applied most of the routed repairs before going stale; the two
+  remaining figurative phrasings repaired by the supervisor ("call to be
+  ridden" -> "get ridden"; "morning goal does the waking" -> "goal is
+  the trigger"), content review PASS, revision published via
+  --rebuild=behaviour (84 blocks, node ok, DOM-stub render PASS,
+  readability+voice-audit tests ok), baton released, band state closed.
+  Affect GF-rewrite sampled: James 1884 bear passage verbatim
+  (psychclassics), all three Ekman 1993 quotes verbatim (Cambridge
+  PDF); checker exit 0 (101 card links); its registry rebuild by
+  dos2-1025e confirmed. Live Pages deploy verified CURRENT with
+  origin/main (07df486c): both the behaviour revision and the GF-model
+  affect are live on the deployed app.js.
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
