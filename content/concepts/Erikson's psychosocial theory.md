@@ -17,7 +17,7 @@ The stages as the page renders them: trust vs. mistrust; autonomy vs. shame and 
 
 ### Identity theory Erikson
 
-The page's embedded second seed names the fifth stage. During adolescence the focus is on discovering "Who am I?", and success there brings the virtue of fidelity.
+The fifth stage is adolescence. The focus is on discovering "Who am I?", and success there brings the virtue of fidelity.
 
 - [[D160 — Be patient with your own maturation]] — stages have their own timing
 - [[D043 — Hold to the constant]]
