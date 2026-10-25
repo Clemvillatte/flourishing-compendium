@@ -522,3 +522,28 @@ paraphrase between quotations, not quotations (checker extraction artifacts;
 the quoted fragments themselves passed). No dossier text changed this pass —
 the row's demand is met and independently re-verified; recorded for the
 supervisor's re-read.
+
+## QC sample — partial (2026-10-25 11:15Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist)
+
+quote_verify reported 8 not found. Findings this pass:
+- Nietzsche Three Metamorphoses spans (Gutenberg Common trans.): the two
+  flagged fragments ("and wrestles freedom from the dragon", "though the
+  lion cannot yet create new values; the child,") are checker extraction
+  artifacts — they are the dossier's PROSE PARAPHRASE inside a narrative
+  sentence, not block quotations. The embedded verbatim fragments check
+  out ("Thou shalt"; "Innocence is the child, and forgetfulness, a new
+  beginning, a game, a self-rolling wheel" — exact). Paraphrase is
+  faithful to the Common text ("struggle with the great dragon"; "To
+  create new values—that, even the lion cannot yet accomplish"). Note for
+  the band holder: the unmarked paraphrase sits inside a sentence with
+  quotation marks elsewhere; consider re-punctuating so the checker (and
+  readers) do not take it as quotation.
+- Schumpeter creative destruction (thaleszp.com PDF): sentence beginning
+  verified ("...industrial mutation—if I may use that biological
+  term—that incessantly revolutionizes the"); the fetch excerpt cut off
+  mid-sentence, so the tail ("economic structure from within,
+  incessantly destroying the old one, incessantly creating the new one")
+  was not returned this pass — treat as partially verified.
+- Handoff: remaining flags are PubMed (28259772, 24405359 x2, 22941876)
+  and ERIC (EJ827110) classes; E-utilities robots-disallowed this pass.
+No dossier text changes made (read-only assist).
