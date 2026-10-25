@@ -121,3 +121,12 @@ disposition evidence. Statuses left as found (returned).
   reading can live as a backlink clause on ST368. If the owner prefers a separate page,
   the quoted Chinese line is the only genuinely new material. Backlink work is
   supervisor-only either way.
+
+## 2026-10-25 15:12Z — QC second pass (qc-storyteller-pplx-1025x)
+
+- Sampled 12 more s1b ready drafts this pass: 004, 005, 006, 007, 011, 012, 027, 028, 029, 030, 031, 032, 034, 038 (with 001, 015, 033, 036 from the earlier pass). Every quote verified VERBATIM against freshly downloaded or fetch-opened carriers, with these notes:
+  - s1b-012: one-word hyphenation variance ('pre-occupation' in ledger vs 'preoccupation' in the Legge source at that spot) — recommend correction at/before registration.
+  - s1b-027: wisdomlib inline footnote markers and a verse-break quote structure noted; wording verbatim.
+  - s1b-029: Beal 11/11 verbatim (OCR artifacts only); FLAG — the Heart Sutra Red Pine carrier (oaks.nvg.org) now fails (connection refused / server error); its two quotes rest on the 2026-10-24 documented access. Re-source or accept.
+  - s1b-037: NOT VERIFIED — ctext.org carrier Cloudflare-walled to curl, fetch, and the cloud browser; quotes rest on the prior documented access. No fault found either way.
+- Combined with the earlier pass, s1b now has 16 of its ready drafts QC-sampled. Remaining unsampled: 002, 003, 013, 014, 016-026, 035.
