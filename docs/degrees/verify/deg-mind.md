@@ -14,10 +14,10 @@ evidence on file.
 
 25 unique attachments (10 source IDs on mod-mind-1 and mod-mind-2 map to
 these recordings). Verified below: M06-AF09, M06-CO04, M06-AF01, M06-AF03, M06-AT01,
-M06-AF06, M06-CO02, M06-AF04.
+M06-AF06, M06-CO02, M06-AF04, M06-AF05.
 Already verified in the manifest: SRC-M28-001 through SRC-M28-007;
 M06-AT06 is the same recording as SRC-M28-002. Queued for the next
-session: M06-AF05, M06-CO05, M06-AT02,
+session: M06-CO05, M06-AT02,
 SRC-M07-001, SRC-M07-004, SRC-M07-005, SRC-M07-007, SRC-M07-008,
 SRC-M07-019.
 
@@ -237,6 +237,29 @@ SRC-M07-019.
   coverage claim rests on the printed title (Constructing Emotion), the
   lecture series and Barrett's documented theory of constructed emotion.
   The owner should read the transcript panel before scheduling segments.
+- Relevant segments: unknown until the transcript is read.
+- Verification status: verified-video for identity, access and duration
+  (2026-10-25); content coverage unclassified beyond the title this
+  session, transcript not read.
+
+### M06-AF05: Pufendorf Lectures 2024, Day 2, Constructing the Mind (Lisa Feldman Barrett)
+
+- Legacy attachment: mod-mind-1 required media.
+- Identity: the watch page confirms the video on the Lund University HT
+  faculties channel, title "Pufendorf Lectures 2024 Lisa Feldman Barrett -
+  Day 2 - Constructing the Mind" (https://www.youtube.com/watch?v=jKZbuvS3_Mk,
+  checked 2026-10-25). Freely playable, no paywall.
+- Duration: 1:42:41 printed in the player (2026-10-25).
+- Instructor credentials: same as M06-AF04 (Northeastern profile, opened
+  2026-10-25).
+- Language: English (the page notes some audio tracks are auto-dubbed).
+  The watch page offers a transcript panel.
+- Event: Pufendorf Lectures at Lund University, 2024, published 20 June
+  2024.
+- Content coverage: the page prints no description and no chapters; the
+  coverage claim rests on the printed title (Constructing the Mind) and
+  the lecture series. The owner should read the transcript panel before
+  scheduling segments.
 - Relevant segments: unknown until the transcript is read.
 - Verification status: verified-video for identity, access and duration
   (2026-10-25); content coverage unclassified beyond the title this
