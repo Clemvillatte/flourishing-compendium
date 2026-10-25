@@ -391,3 +391,14 @@ flagship exemplar. Story spot-checks: four cards opened and read
 against their loglines (ST154 Nash, ST186 Fox and the Grapes, ST415
 Blind Men and the Elephant, ST130 Berlin's Fox and Hedgehog); all
 four compress the cards' own text accurately. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos3-1025g, 2026-10-25)
+
+Four story cards opened at body level and checked against their
+loglines: ST130 Berlin's Fox and Hedgehog (the Archilochus line and
+the typology — matches), ST154 John Nash and the Delusion's
+Signature (hallucinated characters, the unaging girl as diagnostic
+— matches), ST186 The Fox and the Grapes (Aesop's tag, motivated
+devaluation — matches) and ST415 The Blind Men and the Elephant
+(the Ud 6.4 frame and parable — matches). All four match. With
+batch 1, the sampled cards all verify. No defects found.
