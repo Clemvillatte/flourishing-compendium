@@ -1874,7 +1874,37 @@
      "note": "draft complete; story_check ok; advisor milestone QC"
     }
    ]
+  },
+  "s1a-066": {
+   "status": "qc_pending",
+   "angle": "D110: the Huainanzi horse parable — the father's three replies",
+   "history": [
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
+  },
+  "s1a-067": {
+   "status": "qc_pending",
+   "angle": "D135: Flower Sermon — the wordless teaching received as a smile",
+   "history": [
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-25T14:50:07+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok"
+    }
+   ]
   }
  },
- "updated": "2026-10-25T14:45:28+00:00"
+ "updated": "2026-10-25T14:50:07+00:00"
 }
