@@ -296,3 +296,59 @@ not loading). Findings this pass, from YouTube's own rendered metadata:
   segment — an owner/module-owner decision on evidence this entry
   supplies. Flagged, not decided — the verification band does not
   assign resources.
+
+## Qigong replacement candidate S0ZqKo0KQvA — recording-level classification COMPLETED; instructor credentials NOT verified (2026-10-25 13:40Z, worker-pplx-degrees-1, deg-verify-a)
+
+This pass supersedes the "RECORDING-LEVEL CLASSIFICATION: still open"
+line in the section above. Standard: skill section 4. Evidence below is
+from the recording's own auto-generated caption track, retrieved via
+youtubetotranscript.com (opened 2026-10-25), plus the oembed endpoint
+and the channel's public pages (opened 2026-10-25).
+
+- IDENTITY AND CONTENT CLASSIFICATION (from the transcript, recording's
+  own captions): the recording IS a single continuous guided standing
+  tree meditation (zhan zhuang-style), beginner level. The narration
+  runs from a welcome through posture setup (feet about shoulder width,
+  knees softened and not locked, arms slowly raised "as if softly
+  hugging a large tree", hands relaxed, shoulders dropped, chest soft,
+  spine upright with the crown gently lifted, jaw relaxed, tongue
+  resting lightly on the roof of the mouth), breath awareness ("do not
+  change it, just notice"), root imagery for grounding, an invitation
+  to notice sensations and let thoughts pass, and a closing that offers
+  "end the practice here or remain standing for a little longer". The
+  narration states the practice "comes from traditional Chinese qigong
+  and tai chi where it has been used for centuries". This matches the
+  mod-qg-3 outcome-1 checkpoint vocabulary (feet, knees, posture,
+  breath, stillness). The caption track is auto-generated ("chiong" for
+  qigong), English, and was retrieved in full; no timestamps are printed
+  by the retrieval route, so segment boundaries inside the recording
+  are not timestamped.
+- DURATION: 11:02 total runtime (channel-listing metadata, YouTube's
+  own, recorded above by the prior pass; unchanged). The full guided
+  narration spans the whole recording — welcome to closing — so there is
+  no separate unguided remainder to assign a shorter segment from; the
+  transcript gives no evidence of a distinct 5-minute guided segment
+  inside the 11:02. The uploader's "5 minute" title/description claim
+  remains contradicted by the total runtime.
+- ACCESSIBILITY: oembed resolves the video publicly (no login, no
+  paywall; opened 2026-10-25). The watch page bot-walls automated
+  fetchers, an environment artifact, not a content gate.
+- INSTRUCTOR CREDENTIALS: NOT VERIFIED, and the flag is decisive for
+  assignment. The channel (Stillness Studio Sanctuary) is anonymous:
+  17 subscribers, 7 videos, joined 2024-08-27, no channel description,
+  no instructor named on the channel page or in the video description
+  (channel About page opened 2026-10-25). Web search (2026-10-25)
+  found no biography or institutional page tying the channel to a
+  named, credentialed teacher; same-name "Stillness Studio" sites are
+  unrelated entities and were not conflated. Skill section 4 requires
+  lineage, institution or documented teacher training verified on a
+  biography or institutional page — this resource fails that clause.
+- STATUS: verified-video for identity, access, duration and content
+  classification; the resource CANNOT be assigned as required module
+  media while the instructor-credentials clause fails. Bearing for the
+  module owner: as an OPTIONAL guided option (the pilot's lower-rung
+  tier), assignment is still blocked by the same credentials clause;
+  an owner ruling would be needed to waive it. The 11:02 runtime also
+  does not match the pilot's 5-minute lower rung as total runtime.
+  Flagged, not decided — the verification band does not assign
+  resources.
