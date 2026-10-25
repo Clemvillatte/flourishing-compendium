@@ -382,3 +382,20 @@ Story sections. No issues found; no changes made. First-person stance
 lines ("I hold both sides... and do not reconcile them") follow the
 house style used across the published dossiers and were left as they
 are.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos21 baton)
+
+Reviewed all 5 candidates against the current file (fresh audit run).
+No scaffolds removed; all 5 flagged constructions carry the sources'
+own contrasts: line 61 (the Stoic claim that opinions rather than
+events disturb, grouped by editorial connection as a claim about
+disturbance rather than harm done — an honest scoping note), 101 (the
+unity of the virtues: virtues coming together rather than standing as
+separate talents — the Protagoras/NE VI thesis), 173 (Wang Yangming's
+knowledge as knowing how to respond rather than grasping information —
+the reference article's presentation), 193 (K255's own framing: a
+training log rather than a diary), 223 (Prometheus: the theft as
+creative act, the punishment as its permanent cost). Editorial review
+only; no carriers or cards freshly opened this pass.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review.
