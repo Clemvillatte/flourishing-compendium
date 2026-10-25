@@ -981,3 +981,78 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Relevant segment: whole episode, 1:19:34.
 - Verification status: verified-video (2026-10-25); independent-channel
   basis noted.
+
+### M02-B01: Buddhism and Science — Tibetan and Zen Buddhist Perspectives (Harvard Divinity School)
+
+- Identity and access: oembed confirms the event on the Harvard Divinity
+  School channel (https://www.youtube.com/watch?v=5lq3w3G0Q_s); watch page
+  opened 2026-10-25. "When Worlds Collide" lecture series, 20 April 2007.
+- Duration: 2:03:46 (watch page, 2026-10-25).
+- Instructor credentials: Georges B. Dreyfus, Professor of Religion at
+  Williams College, and Eshin Nishimura, former president of Hanazono
+  University, Kyoto, with Donald K. Swearer moderating (per the uploader
+  description; institutional pages not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): Tibetan and Zen
+  Buddhist perspectives on Buddhism and science, with a moderated Q&A.
+- Relevant segment: whole event, 2:03:46.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional pages pending.
+
+### M02-K02: The Method of Life Studies and Tanabe's Metanoetics — Masahiro Morioka (ENOJP4)
+
+- Identity and access: oembed confirms the talk on the European Network of
+  Japanese Philosophy channel (https://www.youtube.com/watch?v=QiK1E_sFy6I);
+  watch page opened 2026-10-25. ENOJP4, Hildesheim, 5-8 September 2018,
+  Panel 19: Tanabe on Spirituality and Intuition.
+- Duration: 48:40 (watch page, 2026-10-25).
+- Instructor credentials: Morioka Masahiro, Waseda University (per the
+  uploader description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): his method of
+  life studies and its similarities and differences with Tanabe Hajime's
+  metanoetics — confession, self-negation, Other-power, and the
+  possibility of post-religious spirituality.
+- Relevant segment: whole talk, 48:40.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M02-K03: Action and Intuition — Patočka and Tanabe (Morten E. Jelby, ENOJP4)
+
+- Identity and access: oembed confirms the talk on the European Network of
+  Japanese Philosophy channel (https://www.youtube.com/watch?v=n1YXEzPNBMg);
+  watch page opened 2026-10-25. ENOJP4, Hildesheim, 5-8 September 2018,
+  Panel 19.
+- Duration: 45:57 (watch page, 2026-10-25).
+- Instructor credentials: Morten E. Jelby, École Normale Supérieure, Paris
+  (per the uploader description; institutional page not opened this
+  session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the
+  intersection of Jan Patočka's and Tanabe Hajime's philosophies —
+  negative conceptions of the subject as movement or action, critiques of
+  philosophies of intuition, negative givenness, Tanabe's idea of the
+  symbol, and poetics.
+- Relevant segment: whole talk, 45:57.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
+
+### M02-K05: What is Lam Rim? — Robert A.F. Thurman (Tibet House US)
+
+- Identity and access: oembed confirms the class on the Tibet House US NYC
+  | Menla Resort Online channel
+  (https://www.youtube.com/watch?v=CMFxcZIyKu4); watch page opened
+  2026-10-25. Force For Good class series.
+- Duration: 1:56:24 (watch page, 2026-10-25).
+- Instructor credentials: Professor Robert A.F. Thurman (per the uploader
+  description; institutional page not opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): the history of
+  Lam Rim (Stages of the Path) mind-training teachings preserved in Tibet;
+  practices refined by Tsongkhapa and the Dalai Lama lineage; Gendün
+  Druppa; infinite past and future lives; the Three Kinds of Suffering;
+  preparation for Buddhist Tantras; a guided meditation on the exchange of
+  self and other and recognition of mother kindness.
+- Relevant segment: whole class, 1:56:24.
+- Verification status: verified-video (2026-10-25); credentials from the
+  description, institutional page pending.
