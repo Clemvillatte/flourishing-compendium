@@ -181,3 +181,29 @@ review only; no external carriers freshly opened.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review plus
 spot-check.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 31 concept and principle entries in this
+dossier's numbered map were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Seneca and Aristotle anchors, the
+Gouldner reciprocity norm, Trivers's reciprocal altruism, Spinoza's
+Definitions-of-the-Emotions gratitude and the free-people contrast, the
+Aristotle asymmetry-of-benefaction observation, the Emmons-McCullough
+experiments with limits stated, the Lyubomirsky-Sheldon 2005
+dose-frequency finding, the Kataññu Suttas entry, the Kumar-Epley
+expressers-and-recipients finding, savoring, benefit finding with the
+Helgeson meta-analysis caveat, Epicurus's last letter, Jaspers's
+fundamental stance, Gable's active constructive responding, mudita and
+the four immeasurables, Śāntideva's enemy-as-teacher turn, the Yoga-
+sutra and Daodejing contentment entries, the Quran patience-gratitude
+pairing, the ecological-gratitude entry with its Mayer-Frantz citation
+correction, Kimmerer's Honorable Harvest, and the Analects filial-piety
+entry. Three principle cards (AF063, B112, BE055) are stored with em
+dashes where the dossier titles use colons; the files were opened and
+checked manually and match. No mismatches found; no edits made.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
