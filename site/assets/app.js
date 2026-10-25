@@ -16250,6 +16250,22 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
+          "x": "Can the obligation of gratitude be discharged"
+        },
+        {
+          "t": "p",
+          "x": "Seneca holds that it can, and that the discharge costs nothing but the acknowledgment: \"we do not need our wealth but only our intention to set us free from the obligation of it; for a benefit is repaid by being acknowledged\" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. The obligation is to the goodwill, and the goodwill is honored by being owned."
+        },
+        {
+          "t": "p",
+          "x": "Kant denies the discharge in principle: \"gratitude must also be considered, in particular, a sacred duty... For a moral object is sacred if the obligation with regard to it cannot be discharged completely by any act in keeping with it (so that one who is under obligation always remains under obligation)... But one cannot, by any repayment of a kindness received, rid oneself of the obligation for it, since the recipient can never win away from the benefactor his priority of merit, namely having been the first in benevolence\" ([Kant, Metaphysics of Morals, Doctrine of Virtue §32, Gregor trans.](http://debracollege.dspaces.org/bitstream/123456789/508/1/The%20Metaphysics%20of%20Morals%20of%20kant.pdf)): Primary text; Mary Gregor's translation, Doctrine of Virtue, §32."
+        },
+        {
+          "t": "p",
+          "x": "On whether the debt can ever be paid off, Seneca answers that acknowledgment and intention free the recipient, and Kant answers that the recipient always remains under obligation. The disagreement turns on what the debt is made of: for Seneca it is the goodwill, which the acknowledgment honors; for Kant it is the benefactor's priority in benevolence, which no later act can take away."
+        },
+        {
+          "t": "h2",
           "x": "Does unequal rank exclude a claim to gratitude"
         },
         {

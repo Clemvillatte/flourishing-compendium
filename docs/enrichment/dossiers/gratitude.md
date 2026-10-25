@@ -112,6 +112,14 @@ Aquinas later distinguishes two measures: by the effect of beneficence the son c
 
 The disagreement concerns what should count when benefits are compared: the effect received, or the will with which it is given and returned.
 
+### Can the obligation of gratitude be discharged
+
+Seneca holds that it can, and that the discharge costs nothing but the acknowledgment: "we do not need our wealth but only our intention to set us free from the obligation of it; for a benefit is repaid by being acknowledged" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. The obligation is to the goodwill, and the goodwill is honored by being owned.
+
+Kant denies the discharge in principle: "gratitude must also be considered, in particular, a sacred duty... For a moral object is sacred if the obligation with regard to it cannot be discharged completely by any act in keeping with it (so that one who is under obligation always remains under obligation)... But one cannot, by any repayment of a kindness received, rid oneself of the obligation for it, since the recipient can never win away from the benefactor his priority of merit, namely having been the first in benevolence" ([Kant, Metaphysics of Morals, Doctrine of Virtue §32, Gregor trans.](http://debracollege.dspaces.org/bitstream/123456789/508/1/The%20Metaphysics%20of%20Morals%20of%20kant.pdf)): Primary text; Mary Gregor's translation, Doctrine of Virtue, §32.
+
+On whether the debt can ever be paid off, Seneca answers that acknowledgment and intention free the recipient, and Kant answers that the recipient always remains under obligation. The disagreement turns on what the debt is made of: for Seneca it is the goodwill, which the acknowledgment honors; for Kant it is the benefactor's priority in benevolence, which no later act can take away.
+
 ### Does unequal rank exclude a claim to gratitude
 
 Seneca answers no: "he who affirms that a slave does not sometimes confer a benefit upon his master is ignorant of the rights of man; for the question is, not what the station in life of the giver may be, but what his intentions are. The path of virtue is closed to no one... whether they be free-born men, slaves or freed-men, kings or exiles" — therefore "slaves can bestow benefits upon their masters" ([Seneca, On Benefits III.18, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III)): Primary text; Stewart's translation.

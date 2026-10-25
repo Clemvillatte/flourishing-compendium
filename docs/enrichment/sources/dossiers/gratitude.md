@@ -583,3 +583,42 @@ meets the 3-5 bar lower bound" is superseded — the dos34 worker's own
 commit 7715f93c4 downgraded leisure to TWO substantiated disagreements;
 my Kleiber sample verified two quotations, not the dossier's question
 count.
+
+## Third substantiated question (supervisor-pplx-1025h, 2026-10-25, fourth delivery)
+
+Added: "Can the obligation of gratitude be discharged" — Seneca On
+Benefits I.1 ("we do not need our wealth but only our intention to set
+us free from the obligation of it; for a benefit is repaid by being
+acknowledged", Stewart, Wikisource, opened) vs Kant, Metaphysics of
+Morals, Doctrine of Virtue §32 (Gregor trans., carrier
+debracollege.dspaces.org PDF, downloaded and opened):
+"gratitude must also be considered, in particular, a sacred duty...
+For a moral object is sacred if the obligation with regard to it cannot
+be discharged completely by any act in keeping with it (so that one who
+is under obligation always remains under obligation)... But one cannot,
+by any repayment of a kindness received, rid oneself of the obligation
+for it, since the recipient can never win away from the benefactor his
+priority of merit, namely having been the first in benevolence."
+Explicit affirmation (Seneca: acknowledgment frees the recipient) vs
+denial (Kant: no act discharges the obligation) under the same
+conditions. Translation attribution verified from the carrier's own
+front matter (Mary Gregor).
+
+VERIFICATION NOTE: the debracollege PDF's typography produces
+letter-spaced extraction artifacts ("one w h o is u n d e r obligation"),
+so dossier_quote_verify reports the Kant span as not found. The span
+was verified word-for-word by normalizing whitespace on both sides
+(letter-sequence identical to the carrier); this is the same artifact
+class as the documented Hagger typography case in this ledger. The Kant
+span is therefore a documented fetch artifact, not a doubt about the
+quote.
+
+STATUS: the gratitude section now carries THREE substantiated
+disagreements (child's return vs parental gift: Seneca III.29-35 vs
+Aristotle VIII.14; obligation discharge: Seneca I.1 vs Kant MM §32;
+unequal rank: Seneca III.18 vs BGE 260) plus three bounded comparisons.
+The 3-5 bar LOWER BOUND IS MET; gratitude moves from "partial repair"
+to "bar met" subject to supervisor/owner confirmation. Checks: exit 0;
+density 0 dense; quote_verify 30 checked / 7 not-found (5 pre-existing
+Emmons/Algoe artifacts + 1 lojong delimiter parser artifact + 1 Kant
+letter-spacing artifact, all documented in this ledger).
