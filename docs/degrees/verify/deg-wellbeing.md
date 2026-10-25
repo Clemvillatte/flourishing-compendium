@@ -322,3 +322,35 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   to improve cross-cultural research.
 - Relevant segment: whole lecture, 1:16:23.
 - Verification status: verified-video.
+
+### M08-S08: Robust Cultural Pluralism in the New World Order (Richard Shweder, University of Chicago)
+
+- Identity and access: oembed confirms the lecture on The University of Chicago
+  channel (https://www.youtube.com/watch?v=9Lunz9SVIvQ).
+- Duration: 0:53:09 (watch page, 2026-10-25).
+- Instructor credentials: Richard Shweder, William Claude Reavis Distinguished
+  Service Professor of Human Development at the University of Chicago (per the
+  host description); lecture at the University of Chicago Center in Beijing,
+  May 8, 2012.
+- Language: English.
+- Content coverage: the host's description states the lecture, "Robust Cultural
+  Pluralism in the New World Order: Three Prophecies", presents Shweder's
+  predictions about the structure of the emerging world order as it relates to
+  cultural diversity, drawing on his research on the challenges of cultural
+  diversity in Western democracies.
+- Relevant segment: whole lecture, 0:53:09.
+- Verification status: verified-video.
+
+### M08-S17: Social Psychology Lecture 2, Situational Construal and Naive Realism (Matthew Lieberman, UCLA Psych 135)
+
+- Identity and access: oembed confirms the lecture on the UCLACourses channel
+  (https://www.youtube.com/watch?v=_Jy5bgkHjTw).
+- Duration: 1:18:39 (watch page, 2026-10-25).
+- Instructor credentials: Matthew Lieberman, Ph.D., UCLA Psych 135, lecture 2 of
+  the 17-part Fall 2009 series, recorded October 1, 2009 (per the host
+  description).
+- Language: English.
+- Content coverage: the host's description states the lecture covers situational
+  construal and naive realism.
+- Relevant segment: whole lecture, 1:18:39.
+- Verification status: verified-video.

@@ -699,6 +699,24 @@ attach them with evidence on file.
 - Relevant segment: whole lesson, 1:13:07.
 - Verification status: verified-video.
 
+### SRC-M09-010: Better in Every Sense (Norman Farb and Zindel Segal with Paul Fulton, IMP)
+
+- Identity and access: oembed confirms the discussion on The Institute for
+  Meditation and Psychotherapy channel
+  (https://www.youtube.com/watch?v=y-DZn_N5jbs).
+- Duration: 1:21:21 (watch page, 2026-10-25).
+- Instructor credentials: Dr Norman Farb, neuroscientist studying the neuroscience
+  of the self and human emotion; Dr Zindel Segal, clinical psychologist and one of
+  the founders of the 8-week Mindfulness-Based Cognitive Therapy program;
+  discussion led by Dr Paul Fulton (all per the host description).
+- Language: English.
+- Content coverage: the host's description states the discussion covers how mental
+  routines lock people into a "House of Habit", how doubling down on habit harms
+  resilience, and how the emerging neuroscience of sensation and the practice of
+  Sense Foraging support resilience, wellbeing, health and creativity.
+- Relevant segment: whole discussion, 1:21:21.
+- Verification status: verified-video.
+
 ## Block B status
 
 All 33 unique attached sources for deg-contemplative have now been verified: 15
