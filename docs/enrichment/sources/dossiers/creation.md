@@ -1299,3 +1299,22 @@ The advisor corrected the pass-12 ledger entry: a verifier run against a cache s
 ## Pass 12c — bounded voice repair (worker-pplx-dos31-1025k, 2026-10-25)
 
 Advisor's bounded voice check on the opening: "I find the question surfacing on ordinary days" was worker prose from the pass-9 restructure (commit c0fdafda4), not documented owner wording, and read as an invented lived-experience lean. Recast to the direct question without the autobiographical framing: "A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?" No quotations touched. Checker, quote verification (44 checked / 41 raw automated / 3 retrieval exceptions per the pass-12b corrected accounting) and density re-run green after the edit.
+
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos31, 2026-10-25 11:10Z)
+
+The voice audit reported 12 structural candidates. All 12 were reviewed
+and kept: Dewey's creative impulse "follows the idea rather than the
+self" (the card's framing), joy's signature "distinct from pleasure"
+(the card's distinction), metaphor "a different use of the term"
+(scoping), sympatheia's "a connection the world already has rather
+than one a person makes" (the Stoic claim), Marx "as a comparison
+rather than a disagreement, because the two describe different
+conditions" (honest scoping), Nietzsche's "a mode of existence rather
+than a career" (the claim), Frankl's verbatim "self-actualization is
+possible only as a side-effect of self-transcendence" and "the true
+meaning of life is to be discovered in the world rather than within
+man or his own psyche" (quotes), Nietzsche "about things rather than
+about the self" (the scoping), "the significance of things, not of the
+sense of a life" (the reading), Frankl's verbatim "Man is not fully
+conditioned and determined but rather determines himself" (quote), and
+the Skinner paragraph's position summary. No text changed in this pass.

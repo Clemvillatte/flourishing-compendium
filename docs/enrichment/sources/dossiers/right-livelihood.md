@@ -623,3 +623,26 @@ deployed asset predated the Weber fix. The local build contains it
 (node --check OK) and the deployment pipeline was mid-run.
 
 - 2026-10-25 10:52:34Z — typographical repair, pushed. The Aristotle Politics 1.1254b Rackham span contained fullwidth parentheses, which can never match an ASCII source page. They were replaced with ASCII parentheses. Perseus (perseus.tufts.edu) was returning a busy page to all automated fetchers during this pass, so the span could not be machine-reverified after the fix; the wording is otherwise untouched. Flagged for reverification once Perseus recovers.
+
+## Rev — humanizer verification pass, zero repairs needed (worker-pplx-1025-launchb, baton dos22, 2026-10-25 11:09Z)
+
+The voice audit reported 17 structural candidates. All 17 were reviewed
+and kept: vocation "a task set for a person rather than chosen" (the
+doctrine, twice), work engagement "a state of mind in its own right
+rather than the absence of burnout" (the definitional claim), the
+path's "conduct gets its own factor rather than being left to trained
+intention" (the placement logic), ERM and job demands "in the exchange
+rather than the person" (the models' framing), rest "as a practice
+rather than a remainder" and "complete in itself rather than the mere
+absence of work" (the cards' framings), Pieper's "stillness, receptive
+understanding and affirmation rather than the mere break between
+shifts" (the leisure definition), Wang Yangming's "know but do not act"
+(the doctrine), the slavery passages' "do not establish a direct
+disagreement" (evidence scoping), Rousseau's "free people, rather than
+somebody else's property" (the writer's position), the burnout
+continuum "positive and negative endpoints" (the model), Aristotle's
+verbatim rest quote, the Variation's "a personal failing rather than a
+failed exchange" (the attribution point), ACT's "values as directions
+rather than goals" (the doctrine), rest-as-root "rather than its
+absence" (the card), and Siddhartha's "not a doctrine but a way of
+hearing" (the story's point). No text changed in this pass.
