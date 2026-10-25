@@ -16,11 +16,11 @@ The first of Daodejing 67's three treasures is ci, which Legge renders as gentle
 
 > But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others. With that gentleness I can be bold; with that economy I can be liberal; shrinking from taking precedence of others, I can become a vessel of the highest honour. (Daodejing 67, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter warns against abandoning gentleness while trying to remain bold ([§3](https://www.gutenberg.org/files/216/216-h/216-h.htm)). Consider the excuse that a difficult conversation requires harshness. A practical question to bring to the passage is whether you need to speak more firmly, or whether you have begun to enjoy making the other person uncomfortable. This is a suggested application, not a test given by Laozi.
+The chapter warns against abandoning gentleness while trying to remain bold ([§3](https://www.gutenberg.org/files/216/216-h/216-h.htm)). I read this as a reason to examine the excuse that a difficult conversation requires harshness. Before speaking, ask whether you need to be firmer, or whether you have begun to enjoy making the other person uncomfortable.
 
 ### Plain words
 
-Say what needs saying without adding a wound.
+Speak firmly when you need to, while still treating the other person with care.
 
 ### For example
 
