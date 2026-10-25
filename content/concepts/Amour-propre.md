@@ -15,7 +15,7 @@ Amour-propre is my label for Rousseau's comparative, social form of self-regard:
 
 ### Where it enters the world
 
-The Discourse on the Origin of Inequality stages the arrival: people begin to "survey the rest" and wish to be surveyed, public esteem acquires a value, and "From these first preferences there proceeded on one side vanity and contempt, on the other envy and shame" ([Discourse, Second Part](https://www.gutenberg.org/ebooks/11136)).
+The Discourse on the Origin of Inequality stages the arrival: people begin to "survey the rest" and wish to be surveyed, public esteem acquires a value, and "From these first preferences there proceeded on one side vanity and contempt, on the other envy and shame" ([Discourse, Second Part](https://www.gutenberg.org/ebooks/11136)). The mechanism is a need that cannot be met by any amount of what it asks for, since preferring oneself to others requires that others prefer one to themselves.
 
 ### Here
 

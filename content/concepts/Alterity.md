@@ -17,6 +17,8 @@ Alterity is Levinas' word for the otherness of the other person: what remains ou
 
 The Stanford article's gloss: Levinas aligns transcendence "with exteriority, in the sense of what lies outside myself but eludes my comprehensive knowledge: the other person (TI 49)". We can and do constitute the other as an alter ego, the article notes, but such constitution "never exhausts his fundamental difference".
 
+The claim is not a caution about how well people understand each other but a statement about what understanding is doing when it takes another person as its object. Comprehension is a way of making something available to thought, and the making-available always leaves out the part of the person that is not available. The practical reading is that another person's difference is not a gap in a person's model that better information would close, since the difference is the other person, not a description of them that happens to be incomplete.
+
 ### Here
 
 - [[R095 — Practise the trace of the Other]]
