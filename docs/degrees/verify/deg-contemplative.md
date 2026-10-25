@@ -113,8 +113,27 @@ the end. All sources below are freely accessible, no paywalls or app gates found
   Kohn's Taming Time to examine six levels of temporality, from sociotemporality and
   nootemporality through biotemporality, eotemporality and prototemporality to
   atemporality, including Daoist practices tied to each level.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=vpWZTiaL504&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain auto-caption errors) confirms
+  the lecture's substance on the recording: a framework of six levels of
+  temporality based on J. T. Fraser, each tied to Daoist practice —
+  sociotemporality (Chinese double hours, stems and branches, the 60-part cycle,
+  eight characters, almanac restrictions; internal alchemy aligning with hours,
+  "during the zil hour which is midnight chi starts to grow in the kidneys");
+  nootemporality (the inner smile and five sprouts practices); biotemporality
+  (circadian and seven/eight-year cycles; daoyin; seasonal practices);
+  eotemporality (sun, moon, Dipper and Pole Star, 24 seasonal divisions, 28 lunar
+  mansions; sunrise visualizations); prototemporality (quantum and synchronicity
+  imagery, shi as situational potential, Yijing divination); and atemporality
+  (the primordial state as the cultivation goal); with the closing distinction
+  between nourishing life and the divine-immortality level (transcending shi).
+  Caveats: third-party transcript page, no timestamps in the retrieved text;
+  playback itself not opened.
 - Relevant segment: whole lecture, 1:31:33.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ## mod-cont-3 batch (verified 2026-10-25)
 
