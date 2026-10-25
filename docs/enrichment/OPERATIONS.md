@@ -1606,3 +1606,14 @@ The advisor's final verification caught overstated records in this session's QC 
   are AT the bar). Handoff owner-decision flag amended to match.
   The owner decision itself is unchanged: ratify the bar +
   commission a disagreement-building pass, or revise the bar.
+
+# Supervisor QC entry 19 — 2026-10-25 ~04:09Z (supervisor-pplx-brownmermaid-1025a)
+
+- NUANCE to entries 7/18 (catalogue bar count): both counts key on
+  question headings inside disagreement-NAMED sections. Questions
+  also live in body sections (e.g., cognition holds 8 question
+  headings in body sections). The bar's definitional choice —
+  must the questions sit in a dedicated disagreements section, or
+  does any genuine head-to-head question count? — is itself part
+  of the owner decision recorded in the handoff. No further
+  counting until the owner rules on the definition.
