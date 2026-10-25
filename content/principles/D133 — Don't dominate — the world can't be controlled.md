@@ -25,7 +25,9 @@ Parenting research provides a more specific comparison. Bradshaw and colleagues'
 **Plain words**
 Ask for the other person's agreement without treating it as owed to you. Be clear about your own responsibilities and leave room for an answer you would rather not hear.
 
-*For example:* Imagine a parent worried about an adult child's move abroad. The parent explains the worry, asks about the plan and offers help, while accepting that the decision belongs to the child. This is an illustration.
+**For example**
+
+Imagine a parent worried about an adult child's move abroad. The parent explains the worry, asks about the plan and offers help, while accepting that the decision belongs to the child.
 
 ## Sources
 - [[T012 — Laozi]]: the kingdom passage is chapter 29.

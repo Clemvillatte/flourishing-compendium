@@ -27,7 +27,9 @@ Direct attention, as I use it here, calls for modest descriptions. I can hear a 
 **Plain words**
 Notice what is happening, then notice the explanation you have given it. I can attend to a thought while leaving its truth open to checking.
 
-*For example:* Imagine hearing a neighbour's raised voice. You notice its volume, your tightening shoulders and the thought "this is about me". The first two observations leave that last question unanswered. This is an illustration.
+**For example**
+
+Imagine hearing a neighbour's raised voice. You notice its volume, your tightening shoulders and the thought "this is about me". The first two observations leave that last question unanswered.
 
 ## Sources
 

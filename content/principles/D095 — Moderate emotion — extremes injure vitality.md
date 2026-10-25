@@ -25,7 +25,9 @@ The Daodejing offers an infant as an image of harmony: "All day long it will cry
 **Plain words**
 After an argument, I can pause long enough to name what I feel and decide what needs doing. I need room to respond without demanding that I never feel anger.
 
-*For example:* Imagine drafting an angry reply, writing "hurt and embarrassed" beside it, then deciding to speak tomorrow. This is an illustration, not a tested treatment.
+**For example**
+
+Imagine drafting an angry reply, writing "hurt and embarrassed" beside it, then deciding to speak tomorrow.
 
 ## Sources
 - [[T012 — Laozi]]

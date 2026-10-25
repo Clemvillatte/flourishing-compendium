@@ -27,7 +27,9 @@ For my own reflection, the question becomes whose judgement I hear when I judge 
 **Plain words**
 When I think about myself, I can ask whose way of seeing me I have taken in. I can also ask which of those judgements I still endorse.
 
-*For example:* Mead describes someone beginning an unpleasant remark, recognising its cruelty and stopping. The speaker's response to their own words changes what they say next ([section 18, p. 141](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)).
+**For example**
+
+Mead describes someone beginning an unpleasant remark, recognising its cruelty and stopping. The speaker's response to their own words changes what they say next ([section 18, p. 141](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_18.html)).
 
 ## Sources
 

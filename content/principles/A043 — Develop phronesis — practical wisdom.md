@@ -25,8 +25,9 @@ Psychological wisdom research offers a separate way to examine judgement. In the
 **Plain words**
 I need to understand the people and circumstances before deciding what to do. I also need to examine the goal: being good at getting my way can leave that question unanswered.
 
-*For example:*
-Imagine preparing to give someone difficult feedback. Ask what is accurate, what they need to understand, and whether the setting gives them room to respond. This is an illustration, not a clinical finding.
+**For example**
+
+Imagine preparing to give someone difficult feedback. Ask what is accurate, what they need to understand, and whether the setting gives them room to respond.
 
 ## Related concepts
 

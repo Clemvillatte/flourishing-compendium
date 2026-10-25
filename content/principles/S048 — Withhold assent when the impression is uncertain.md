@@ -25,7 +25,8 @@ I also need a way to end the inquiry. For an ordinary decision, I can choose a p
 **Plain words**
 Keep an uncertain explanation open while checking it. Say what you know, identify what is missing and decide what evidence is enough for the decision in front of you.
 
-*For example:*
+**For example**
+
 A colleague misses a deadline. In this imagined situation, you arrange cover for the urgent work and ask what happened before deciding that they were careless.
 
 ## Related concepts

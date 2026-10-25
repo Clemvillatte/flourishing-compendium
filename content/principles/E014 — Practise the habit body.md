@@ -29,7 +29,9 @@ I can return at the next opportunity without turning one omission into a verdict
 **Plain words**
 I can give a new routine a regular place in my day and practise it there. I can notice whether it becomes easier, allow for uneven progress and begin again after a missed occasion.
 
-*For example:* Imagine practising a difficult piano fingering after breakfast each day. Missing Tuesday leaves Wednesday's opportunity available. This is my illustration; Lally's study did not test piano learning.
+**For example**
+
+Imagine practising a difficult piano fingering after breakfast each day. Missing Tuesday leaves Wednesday's opportunity available. I use this as an illustration of returning to practice.
 
 ## Sources
 

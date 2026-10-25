@@ -25,7 +25,9 @@ A separate experiment suggests one practical use for movement. Oppezzo and Schwa
 **Plain words**
 I can explore something by changing how I approach it and noticing what changes. When an essay needs ideas, I can try moving around; when it needs a decision, I can return to the page and compare the options.
 
-*For example:* Imagine drafting several openings for an essay during a short walk, then reading them at the desk to choose one. This illustrates the distinction; a walk cannot promise a solution.
+**For example**
+
+Imagine drafting several openings for an essay during a short walk, then reading them at the desk to choose one.
 
 ## Sources
 

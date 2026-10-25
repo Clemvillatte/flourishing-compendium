@@ -23,7 +23,9 @@ Chapter 64 supplies a check on the temptation to do nothing: "Action should be t
 **Plain words**
 Give people room to work things out before telling them how. Keep watching what happens, including what happens to the person with least say.
 
-*For example:* A writing-group organiser stops assigning the order of every discussion. Members choose the next piece themselves. When one writer keeps being passed over, the organiser raises it. This is my illustration, not a reported result.
+**For example**
+
+Imagine a writing-group organiser who stops assigning the order of every discussion. Members choose the next piece themselves. When one writer keeps being passed over, the organiser raises it.
 
 ## Sources
 - [[T012 — Laozi]]

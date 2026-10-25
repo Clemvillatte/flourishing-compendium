@@ -25,8 +25,9 @@ NIMH identifies psychotherapy as BPD's primary treatment and describes approache
 **Plain words**
 If changes in how I experience myself are distressing or disrupting my life, I can describe them to a qualified professional. I do not need to arrive with a diagnosis.
 
-*For example:*
-Someone preparing for an appointment writes down what changes, when it happens and how it affects relationships or work. These notes start a conversation; they are not a diagnostic test. This is an illustration.
+**For example**
+
+Imagine preparing for an appointment by writing down what changes, when it happens and how it affects relationships or work. These notes start a conversation; they are not a diagnostic test.
 
 ## Psychology parallels
 

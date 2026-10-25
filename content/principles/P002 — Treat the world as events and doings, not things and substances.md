@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 2** — Treat the world as events and doings, not things and substances
 
-Whitehead's process philosophy begins from a demanding picture of reality:
+Whitehead's process philosophy begins from this picture of reality:
 
 > "actual entities are drops of experience, complex and interdependent" (Process and Reality, 1985 edition, p. 18, quoted in [Desmet and Irvine's Stanford Encyclopedia account, section 6](https://plato.stanford.edu/entries/whitehead/))
 
@@ -27,7 +27,9 @@ When I say that a relationship is "strong", I can ask what happens between the p
 **Plain words**
 Try asking what is happening whenever a familiar label makes something sound finished. With a friendship, I can look at the conversations, invitations and repairs that I would otherwise take for granted.
 
-*For example:* Two friends keep calling their friendship close while cancelling every meeting. As an imagined writing scene, it invites a question about what they still do together, leaving the answer for the story to explore.
+**For example**
+
+Imagine two friends who keep calling their friendship close while cancelling every meeting. One asks when they will next spend time together and what they want to make room for.
 
 ## Sources
 
