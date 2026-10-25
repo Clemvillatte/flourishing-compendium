@@ -1,8 +1,9 @@
 # Scope: deg-wol-positive — A Walk of Life: Positive Psychology
 
 WALK OF LIFE series (owner directive, 2026-10-25). Status: PROPOSAL by the
-strategist, mapped onto existing module material; the degree owner must
-benchmark it against opened authoritative curricula before the scope gate.
+strategist, mapped onto existing module material. Benchmark groundwork
+done 2026-10-25 (see the benchmark section below and the degree ledger);
+Gate 1 remains open; independent review required.
 
 ## Intended learner
 
