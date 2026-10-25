@@ -29,6 +29,26 @@ v1 (commit 428a86b0), v2 and the v2.1 addendum (commits a7b746478 and
   extraction returned the study design and research questions, not
   confirmed results; the current row describes what the paper studies.
 
+- Correction (2026-10-25, after final advisor review): the content notes
+  for lecture 13 chapter 2 and lecture 1 chapters 1 and 3 were first
+  recorded from display-capped extractions, so their "read in full"
+  claims were not then substantiated. The complete segments have now
+  been read from the opened pages (lecture 1 through the end of the
+  transcript, including the full course-logistics chapter 1 and the full
+  five-example chapter 3 with the morality, mental illness and guest
+  lecturer material; lecture 13 chapter 2 through the chapter 3
+  boundary, including the trait-measurement history and predictive
+  validity material). The content notes below are accurate as of this
+  correction. Also corrected in the same pass: the lecture 7 chapter 5
+  citation was moved off the attention-networks matrix row (it does not
+  teach the three-network framework) onto a new selective-attention row;
+  the lecture 14 exclusion note was qualified (the check establishes
+  only that this lecture does not teach self-determination theory; where
+  sexual motivation belongs is a separate owner or strategist decision);
+  the candidates-table mapping for lecture 14 was fixed accordingly; the
+  perception row was synchronized with the scope summary and the M3
+  exit capability.
+
 ## Sources opened
 
 All URLs opened in-session on 2026-10-25 by worker-pplx-psychdim-1; every
@@ -122,7 +142,7 @@ are candidates until their transcripts are read.
 | 1. Introduction | [watch](https://www.youtube.com/watch?v=P3FKHH2RzjI), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=P3FKHH2RzjI&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 29:37 | M1 orientation |
 | 11. Emotions, Part I | [watch](https://www.youtube.com/watch?v=8UySWKNjw5Y), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8UySWKNjw5Y&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110/lecture-11) | 53:15 | M2 affective; chapter 1 content-verified (see below) |
 | 12. Emotions, Part II | [watch](https://www.youtube.com/watch?v=i5IrSEIPdwk), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=i5IrSEIPdwk&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 56:06 | M2 affective |
-| 14. What Motivates Us: Sex | [watch](https://www.youtube.com/watch?v=RCNgknc7Qv8), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=RCNgknc7Qv8&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 52:47 | M6 motivational |
+| 14. What Motivates Us: Sex | [watch](https://www.youtube.com/watch?v=RCNgknc7Qv8), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=RCNgknc7Qv8&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 52:47 | content check done: sex and gender, not SDT; possible M5 or M2 elective |
 | 16. Self and Other, Part I | [watch](https://www.youtube.com/watch?v=jsrB5m3mL-A), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jsrB5m3mL-A&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 58:15 | M5 self |
 | 17. Self and Other, Part II | [watch](https://www.youtube.com/watch?v=S6OfFaBWtx4), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=S6OfFaBWtx4&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 64:53 | M5 self |
 | 7. Conscious of the Present; Conscious of the Past: Language | [watch](https://www.youtube.com/watch?v=DmWrOUK2zgA), [oembed](https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=DmWrOUK2zgA&format=json), [OYC page](https://oyc.yale.edu/psychology/psyc-110) | 59:43 | M3 cognitive |
@@ -219,12 +239,14 @@ Orientation [00:45:53]; Question and Answer on Sex and Gender
 centrally important despite little time spent on it, and sets up
 questions about how males and females differ. This resolves the standing
 caution about lecture 14: its title and content are about sex and
-gender, not self-determination theory, so it is NOT an M6 motivation
-segment and no M6 claim may rest on it. The M6 row rests on Ryan and
-Deci 2020 and Woolley et al. 2025. Lecture 14 remains a possible
-elective for M5 (sex differences as individual differences) or M2
-(attraction and culture) once its segments are read; it stays a
-candidate.
+gender, not self-determination theory, so this lecture does not teach
+the M6 framework and no M6 claim rests on it. The M6 row rests on Ryan
+and Deci 2020 and Woolley et al. 2025. This check establishes only what
+the lecture covers; whether sexual motivation has a place in the
+motivational dimension is a separate owner or strategist decision, and
+no such claim is made here. Lecture 14 remains a possible elective for
+M5 (sex differences as individual differences) or M2 (attraction and
+culture) once its segments are read; it stays a candidate.
 
 Additional inspection (2026-10-25, batch 13): lecture 1 (Introduction
 to Psychology, 29:37) had its chapter outline recorded (Introduction to
@@ -283,7 +305,14 @@ factors (neuroticism versus stability, extraversion versus introversion,
 openness, agreeableness, conscientiousness), the OCEAN mnemonic, the
 evidence that the traits are stable over time (very stable after age
 thirty) and show cross-observer agreement, and the observation that a
-personality leaves a trail in the minds of the people around you. This
+personality leaves a trail in the minds of the people around you. The
+chapter also covers the measurement history before the Big Five
+(projective inkblots described as worthless as measures, Allport's
+dictionary trait list, Eysenck's two- and three-factor schemes,
+Cattell's sixteen factors) and the Big Five's predictive validity
+(conscientiousness and faithfulness to a spouse, openness and
+likelihood of changing jobs, extraversion and eye contact and more
+sexual partners), with a Simpsons-character rating example. This
 serves the M5 personality row. Status for the chapter-2 segment:
 verified-video; the remaining segments are candidates until their
 transcripts are read. 
@@ -338,7 +367,8 @@ blocking gaps on the register, not quiet omissions.
 | self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
 | cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
 | cognitive | Appraisal of experimental evidence: rumination induction studies (essential: trains the owner's critical-reading exit capability) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading plus study appraisal | appraisal of a rumination induction study | appraisal rubric |
-| attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/); verified OYC lecture 7 chapter 5 (00:39:15 to 00:58:04, attention and memory) | M4 | reading plus lecture | network-to-symptom mapping exercise | mapping rubric |
+| attentional | The three attention networks with anatomy and modulators (essential: the three-network framework used by the opened attention reviews) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | network-to-symptom mapping exercise | mapping rubric |
+| attentional | Selective attention and its limits: spotlight, Stroop, inattentional blindness, change blindness (essential: the classic phenomena of attentional selection, grounded in a verified lecture segment; supplementary to the network framework, not a substitute for it) | verified OYC lecture 7 chapter 5 (00:39:15 to 00:58:04) | M4 | lecture segment with demonstrations | explain one blindness phenomenon by the attention window | explanation rubric |
 | attentional | Attention measurement (ANT), development, links to disorders and affect regulation (essential: connects the dimension to evidence and to affect) | [Posner et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6430178/); [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/) | M4 | reading | interpret sample network scores | interpretation exercise |
 | attentional | Contemplative training as attentional evidence (essential: one attentional training paradigm among others; doctrine stays in the practica) | [Lippelt et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/pdf/fpsyg-05-01083.pdf) | M4 | reading | compare practice types by attentional mechanism | comparison table |
 | self | Self-concept clarity: definition, measurement, development, evidence limits (essential: a comprehensive recent review of a well-defined structural account of the self, selected as the self-dimension anchor) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | self-assessment with the SCCS framing and limits discussion | reflective write-up |
@@ -364,7 +394,7 @@ feeding the next module's entry:
 |---|---|---|
 | M1 (L1) | can define the six dimensions and the variation-selection-retention-context frame in their own words; can name the levels of analysis; can appraise a simple study's design and evidence type using a worked model; can state what the degree covers and excludes | M2 entry |
 | M2 (L2) | can apply the process model of emotion regulation to a case not used in the materials; can spot emotion functions in a personal episode; can compare two accounts of emotion naming where they disagree | M3 entry |
-| M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can analyse an RNT episode against its defining features; can appraise a rumination induction study | M4 entry |
+| M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can explain one visual illusion by its depth cue; can analyse an RNT episode against its defining features; can appraise a rumination induction study | M4 entry |
 | M4 (L2) | can map symptoms to attention networks; can interpret network scores; can compare two attentional training mechanisms | M5 entry |
 | M5 (L2 to L3) | can assess self-concept clarity with its limits; can chart an identity domain over time; can write a trait account with the person-situation caveat | M6 entry |
 | M6 (L2) | can classify motivations on the autonomy continuum; can analyse a goal's adherence with intrinsic and extrinsic reasons | M7 entry |
