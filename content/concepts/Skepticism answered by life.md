@@ -7,7 +7,7 @@ file: "Skepticism answered by life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-“Skepticism answered by life” — Hume, Enquiry, Section XII, the backgammon passage.
+“Skepticism answered by life” — Hume: the Enquiry's Section XII diagnosis of excessive scepticism, and the backgammon passage from the earlier Treatise of Human Nature.
 
 The idea is that radical doubt about reason, the senses and the external world does not survive ordinary living. Hume makes the point in Section XII of An Enquiry concerning Human Understanding ("Of the Academical or Sceptical Philosophy"), where he calls the extreme position Pyrrhonism or "excessive" scepticism. The backgammon image is in fact from his earlier Treatise of Human Nature (see below).
 
