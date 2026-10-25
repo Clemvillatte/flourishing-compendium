@@ -1,3 +1,13 @@
+## AGENT LAUNCH 2 (2026-10-25 ~10:50Z, launcher pplx-1025-launch-b, no baton held)
+
+Path A launch 9 (Add account flow, worker 1 session kept alive): account
+Margauth18+0010@gmail.com (signed in as margauth1869621, Free plan), worker
+prompt (PROMPT-WORKER.md verbatim with the session token filled) pasted in one
+call and verified before submit; agent running at
+https://www.perplexity.ai/computer/tasks/ea7b43d7-3a9e-4cb6-bdc1-10d0d296bcf3
+(launched 2026-10-25 10:50Z). Both this and launch 8 (tosyfzqnar85) expect to
+take batons on next baton.py status.
+
 ## AGENT LAUNCH (2026-10-25 ~10:47Z, launcher pplx-1025-launch-b, no baton held)
 
 Path A launch 8: account tosyfzqnar85+iqr5r@outlook.com (Free plan), worker
