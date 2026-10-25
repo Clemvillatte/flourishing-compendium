@@ -488,8 +488,7 @@ the Diamond Sutra four views, the Madhyamaka emptiness cluster
 (shunyata, emptiness of inherent nature, emptiness of emptiness),
 Dewey's ends-in-view, fixed views of self, Mill's partial truths,
 steelmanning, and the Stoic view from above. No mismatches found; no
-edits made. This strengthens the earlier voice-audit review (all 5
-candidates kept): the flagged constructions are card-faithful as well
+edits made. This strengthens the earlier voice-audit review (all 4 candidates kept, per the ledger's own review record): the flagged constructions are card-faithful as well
 as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
