@@ -1019,3 +1019,13 @@ Checks: dossier_check exit 0 (42 card links, 18 headers, 26 carriers);
 voice audit 5 -> 3 candidates, all reviewed keeps. No external
 carriers opened in this pass; the changed sentences are paraphrase-level
 rewrites of claims verified in earlier rounds.
+
+## QC sample — flags handed off (2026-10-25 11:11Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist)
+
+quote_verify reported 2 not found, both Nagarjuna MMK 15 spans:
+- antilogicalism.com Garfield PDF: fetch failed this pass (too_large_file
+  class — the PDF exceeds the fetcher's size limit). Next pass: a partial
+  download, a lighter mirror, or eye-verification out of band.
+- archive.org Mogg "Points of Controversy" scan (Kathavatthu): archive.org
+  book-scan class.
+No dossier text changes needed; neither span verified this pass.
