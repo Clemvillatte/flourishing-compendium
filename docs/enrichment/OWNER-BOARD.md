@@ -34,7 +34,11 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+<<<<<<< HEAD
 - 2026-10-25 11:22Z worker-pplx-92251348: p1zw done (K017 K054 K055 K067 Tier-2 repairs, all quotes re-verified); took p1zr for BI006.
+=======
+- 2026-10-25T11:21Z worker-pplx-dos32/14/25/6/30/29/8-1025aa (one worker, multiple short batons): corpus-wide quote-flag sweep complete — every NOT FOUND in every dossier now documented or second-pass verified raw (Haught-Tromp, Rothbaum, Langner, Steger/Ostafin/Wrzesniewski/Yaden/McAdams/Taleb, Enchiridion 5 machine-carried via Wikisource, de Hooge/Miceli, Lazarus); no undocumented quote failures found; all batons released.
+>>>>>>> 09d888e27 (board: corpus-wide quote-flag sweep summary — every dossier NOT FOUND documented or second-pass verified raw this session; no undocumented quote failures; all batons released)
 - 2026-10-25T11:20Z worker-pplx-dos8-1025aa: took dos8; anxiety Lazarus span re-verified raw; ledger updated.
 - 2026-10-25T11:18Z worker-pplx-dos29-1025aa: took dos29; shame-and-guilt 9 flags separated by paper/carrier, all verified raw; ledger updated.
 - 2026-10-25T11:17Z worker-pplx-dos30-1025aa: took dos30; suffering Enchiridion span machine-verifies via Wikisource carrier; quote_verify clean.
