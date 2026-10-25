@@ -344,3 +344,7 @@ Further attribution restatements checked against their card bodies: System 1/Sys
 ## Note — spot audit, fourth round (2026-10-25, dos3)
 
 Clinical and developmental restatements checked against their card bodies: Beck's cognitive model, dichotomous thinking, ironic process (Wegner), Kohlberg's stage sequence, and Flavell's metacognition article with its four classes of phenomena — each stays within its card's wording, cards carrying their own sources. The bounded audit now covers every attribution-heavy restatement in the dossier's thread; the full claim-level audit of every prose gloss remains open.
+
+## Note — story loglines verified against card bodies (2026-10-25, dos3)
+
+The story-section loglines were checked against their story cards: ST155 (Meno), ST172 (Thales), ST130 (Berlin's fox and hedgehog), ST419 (Poincare), ST415 (blind men), ST083 (Neo), ST186 (fox and grapes) — each logline compresses its card faithfully. One small embellishment was corrected: the ST415 logline said the groups describe the animal "from the part in its hands"; the card says the parts were shown, and the logline now follows the card wording.
