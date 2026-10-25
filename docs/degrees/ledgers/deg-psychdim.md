@@ -530,6 +530,89 @@ prompt rather than being fully unprompted; the entry was re-verified against a r
 unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
 transcript text, including the Chicago-children and fear-elicitor phrasings as printed.
 
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 27): the Howard talk
+(Inaugural Lecture: Unravelling Early Self-Regulation, 58:54) could NOT be content-verified
+this session; no transcript is accessible. What was tried, in order: the YouTube timedtext
+caption API (returns empty for this video); the innertube player API under three client
+configurations (all HTTP 403); and a real cloud browser session on the YouTube watch page,
+where the Show transcript control exists and the transcript panel opens but renders zero
+segments (the page's embedded player response also reports no caption tracks). No transcript
+of the lecture exists on the Oxford event page (abstract only, already recorded in the
+candidates table by the previous worker) or on the Oxford Podcasts site (searched; not
+listed). Per the no-hallucination rule the lecture's content beyond its published abstract
+cannot be classified, so it stays a candidate with its segment assignment outstanding;
+flagged for the supervisor. The abstract's claims (one-fifth of children lacking expected
+self-regulation growth before school; age-7 children remaining at 4-year-old levels; at
+least a doubling of risk of poor academic, health, wellbeing and economic outcomes;
+malleability and any-cause improvements associated with better outcomes decades later; most
+interventions showing small effects) remain recorded as the event page's description of the
+lecture, not as verified lecture content. Status: candidate (transcript-based content review
+attempted and blocked; identity, duration and instructor metadata inherited from the
+previous worker's checks).
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 26): the Wood talk (The
+secret habits that control your life, 6:18 on the YouTube watch page, 6:19 in her Social
+Psychology Network video gallery) was read in full from the transcript published on the [Big
+Think page for the talk](https://bigthink.com/the-well/how-to-change-habits/) (an unprompted
+full-text fetch; the talk is a Big Think/The Well production with the John Templeton
+Foundation, and the page carries the complete spoken text). Content, classified from the
+transcript: Wood opens with habits' bad name in psychology (associated with dogs and limited
+minds; humans assumed too creative for them) and the research finding that people act on
+habits much more than they are aware of; the 1980s four-story office building stair-use
+study (persuasion signs had no effect; slowing the elevator door closing by 16 seconds cut
+elevator use by a third, and when the door speed was restored people kept taking the stairs
+— a formed habit persisting); friction defined as barriers to performing a behavior
+(distance, time, effort) as the determinant of what becomes habitual; the self-control
+misconception (exerting willpower does not change habits); habit memory as a memory system
+we do not have access to and cannot fuss with, changeable only through repetition of other
+behaviors; the reward mechanism (repeating a behavior in a given context in the same way
+plus a reward; rewards release dopamine and get us to repeat behaviors and form habits);
+environment design as the core of behavior change (working with what is around you; the
+professional chefs' mise-en-place metaphor); habits giving meaning in life (rituals' habit
+component; baseball players' pre-bat patterns giving a sense of control and confidence); and
+practiced automaticity freeing attention for multitasking and making sense of the world.
+This serves the M7 habit formation and change row as a verified primary talk segment: the
+talk presents the row's central content (context cues, rewards, friction, habits versus
+self-control) in Wood's own words and is consistent with the row's Carden and Wood 2018 and
+Singh et al. 2024 readings. Status: verified-video (transcript-based content review;
+identity, duration and instructor metadata inherited from the previous worker's checks). The
+talk's segment assignment: one full segment, 00:00:00 to 6:18; note the transcript page is
+Big Think's re-publication and states a 2025-05-23 page date, while the YouTube upload date
+recorded in the candidates table (2022-05-26) remains the publication date of record.
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 25): the Barrett talk (You
+aren't at the mercy of your emotions: your brain creates them, TED@IBM, December 2017,
+18:29) was read in full from the transcript embedded in the [TED page's page data](https://w
+ww.ted.com/talks/lisa_feldman_barrett_you_aren_t_at_the_mercy_of_your_emotions_your_brain_cr
+eates_them/transcript) (332 caption cues with timestamps, fetched as raw page HTML and
+extracted from the page's embedded JSON; the cleaned-text fetch of the same page renders
+only the description, so the HTML was the working source). Content, classified from the
+transcript: Barrett opens with the Tsarnaev sentencing (jurors reading remorse from a stone
+face) and states her central claims — emotions are not universally expressed and recognized,
+not hardwired brain reactions, and jurors 'do not and cannot detect remorse or any other
+emotion in anybody ever'; the research basis (25 years; facial electromyography, hundreds of
+physiology studies, hundreds of brain scans); emotions as guesses the brain constructs in
+the moment, with the experiential-blindness blob demonstration (the snake image) introducing
+prediction as the brain's basic operation; emotion perception in others as prediction (the
+stone-faced stare read as remorseless killer or as Chechen stoic acceptance); the critique
+of emotion-detection systems (Google and Facebook named); affect distinguished from emotion
+(calmness, agitation, comfort, discomfort as simple barometer-like feelings present every
+waking moment, which predictions link to the world to create emotion); the churning-stomach
+example (cookies versus a hospital waiting room); the control claim — changing the
+ingredients of emotion today teaches the brain to predict differently tomorrow ('the
+architect of your experience'); test anxiety reframed as energized determination with the
+performance evidence; the morning-dread example with its purely physical causes (tiredness,
+hunger, dehydration); the explicit caveat that she is not suggesting Jedi mind tricks can
+talk someone out of depression or anxiety or any serious condition; and the responsibility
+conclusion (more control means more responsibility; today's experiences become tomorrow's
+predictions). This serves the M2 constructed-emotion row (theories of emotion construction:
+allostasis, constructed emotion, the prediction debate) as a verified primary talk segment;
+note the talk presents the construction and prediction claims directly and does not use the
+word allostasis, so the row's allostasis content still rests on the Barrett et al. 2025
+reading. Status: verified-video (transcript-based content review; identity, duration and
+instructor metadata inherited from the previous worker's checks). The talk's segment
+assignment: one full segment (no chapter divisions), 00:00:00 to 18:29.
+
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 24): lecture 7 (Conscious
 of the Present; Conscious of the Past: Language (cont.); Vision and Memory, 59:43) chapters
 1 to 3 and 6 read in full from the transcript on the [OYC
@@ -805,7 +888,7 @@ blocking gaps on the register, not quiet omissions.
 | framework | Research literacy: falsifiability, design, NHST, Type I and II errors, replication, theories (essential: the owner's exit capability requires critical reading of current research) | [Smith, Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist) | M1 | reading plus worked appraisal | appraisal of one study | appraisal rubric |
 | affective | What emotions are and do: functions across intrapersonal, interpersonal and cultural levels (essential: the affective dimension's core content) | [Hwang and Matsumoto](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus content-verified OYC lecture 11 (all six chapters, 00:00:00 to 00:53:15: emotion functions, smiles, fear, social emotions and altruism towards kin; see the ledger batch 22 entry) and lecture 12 (all six chapters content-verified; see the ledger batch 18 entry) | function-spotting in a personal episode | episode analysis rubric |
 | affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the current debate the opened 2024 review maps) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading (the regulation-models strand rests on the review; OYC lectures 11 and 12 are candidates for support segments) | apply the process model to a personal episode | case analysis rubric |
-| affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
+| affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/); verified TED talk segment (Barrett, December 2017, 18:29, content-verified from the TED transcript; see the ledger batch 25 entry; note the talk presents the construction and prediction claims directly and does not use the word allostasis) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
 | affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
 | cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
@@ -829,7 +912,7 @@ blocking gaps on the register, not quiet omissions.
 | motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: a comprehensive recent statement of the field's major motivation framework, selected as the motivational anchor) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading (content check done: OYC lecture 14 covers sex and gender, not SDT, so it is not a segment for this row) | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
 | motivational | Goal pursuit and adherence: intrinsic versus extrinsic reasons (essential: the current state-of-the-art question on sticking with goals) | [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/) | M6 | reading | design an adherence analysis for one own goal | analysis rubric |
-| overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf); [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/) | M7 | reading | habit diary with cue analysis | diary rubric |
+| overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf); [Singh et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/); verified talk segment (Wood, 6:18, content-verified from the Big Think transcript; see the ledger batch 26 entry) | M7 | reading | habit diary with cue analysis | diary rubric |
 | overt behavioural | Conditioning and learning as the substrate of behaviour change (essential: the basic learning science behind change) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning) | M7 | reading | identify conditioning processes in daily behaviour | identification exercise |
 | overt behavioural | Self-regulation and self-control: the structure of adult self-regulation (executive function, heart rate variability, self-reported regulation), the ego depletion debate with effect sizes and replication status, everyday emotional self-regulation (essential: a well-documented contested literature plus a structural adult account; effect sizes and nulls included per the binding rules) | [Werner and Berkman 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423838/); [Reed et al. 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7250393/) (older-adult sample, 60 to 93; generalisation limit stated); [Dang 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013521/); [Alarcon-Espinoza et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9171140/) | M7 | reading | appraise the meta-analysis against the replication literature; map the three-component structure to a personal case; analyse one own conflict between competing goals | appraisal rubric |
 | overt behavioural | Overt behaviour in the EEMM; the FAP target (clinically relevant behaviour) as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M7 | reading | functional analysis of one behaviour pattern | analysis rubric |
@@ -881,11 +964,16 @@ feeding the next module's entry:
   sleep, dreams and laughter verified but unassigned to any matrix row,
   see the batch 20 flag) are content-verified (transcripts read, content
   classified, boundaries recorded; see the ledger section and the batch
-  13 to 24 entries). The three talks are candidates with identity,
-  duration, instructor credentials and dates (where the opened pages
-  state them) checked; their content classification from recordings or
-  transcripts and segment assignment are outstanding, following the
-  lecture-11 pattern at module production.
+  13 to 24 entries). The three talks: Barrett and Wood are content-verified
+  from their published transcripts (see the batch 25 and 26 entries and the
+  matrix rows they now support); the Howard lecture remains a candidate
+  with no accessible transcript (batch 27 documents the three blocked
+  routes); flagged for the supervisor.
+- The three talks: the Barrett talk (18:29) and the Wood talk (6:18) are
+  content-verified from their published transcripts (see the batch 25
+  and 26 entries); the Howard lecture (58:54) remains a candidate —
+  no accessible transcript (batch 27 documents the three blocked
+  routes); flagged for the supervisor.
 - Intelligence and behavioral genetics (lecture 13 chapters 3 to 6):
   content-verified but unassigned — intelligence is not an established
   matrix row, and the assignment decision is flagged for the strategist
