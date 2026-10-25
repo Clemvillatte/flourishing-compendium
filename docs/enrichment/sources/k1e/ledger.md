@@ -593,3 +593,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K377 Offer two or three options, not one
 - Read the full page; both verbatim quotes re-verified against the downloaded M&R 3rd ed. PDF text: the "not one possibility but a menu of options" sentence (verbatim) and the FRAMES components passage including "Menu of options from which to choose in pursuing change" (verbatim).
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K380 The Two Teachers
+- Read the full page; all three verbatim quotes re-verified against the freshly downloaded Kolts CFT Made Simple PDF (Google Drive carrier): the "logical fallacy" passage (verbatim; the PDF's soft hyphens in "self-critic" are layout artifacts, the page's rendering is correct), the "Two Teachers vignette, an experiential exercise commonly used by CFT therapists (Gilbert, 2009a)" provenance sentence (verbatim), and the second-teacher vignette passage (verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
