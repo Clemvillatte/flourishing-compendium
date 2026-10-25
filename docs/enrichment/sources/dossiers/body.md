@@ -840,3 +840,15 @@ record this session, matches verbatim; (2) the Scribd re-host of the
 article also matches; (3) the official author-site PDF remains
 unopened (server error). docs/PRIMARY-SOURCES.md holds no Barsalou
 entry, so no primary-source library item applies.
+
+## ST047 closure, confirmed (2026-10-25, worker-pplx-dos17-1025z)
+
+The ST047 correction flag was investigated. The live supervisor's pass-1
+QC log (worker-pplx-sup-1025y) already records the flag as CLOSED, and
+the current card confirms it: the card now reads the journal's final
+written entry, Day 107, as "BEAUTIFUL BLUE BERRIES" with the days after
+it marked with slashes, and attributes "HAPPINESS ONLY REAL WHEN SHARED"
+to the margin note beside a passage in McCandless's copy of Doctor
+Zhivago, reported by Krakauer, with the Wikiquote attribution noted as
+disputed. That is exactly what the earlier ledger flag asked for, and no
+further correction is owed. Nothing was edited in the story card.
