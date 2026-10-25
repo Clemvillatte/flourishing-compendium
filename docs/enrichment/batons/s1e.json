@@ -1,7 +1,7 @@
 {
  "baton": "s1e",
- "agent": "storyteller-perplexity-s1e",
- "clocked_in": "2026-10-21T13:08:55+00:00",
+ "agent": "storyteller-pplx-s1e-1025k",
+ "clocked_in": "2026-10-25T13:22:21+00:00",
  "takeovers": [
   {
    "by": "storyteller-perplexity-s1e",
@@ -20,8 +20,12 @@
    "at": "2026-10-21T16:09:57+00:00",
    "from": "storyteller-perplexity-s1e",
    "reason": "supervisor force-release"
+  },
+  {
+   "by": "storyteller-pplx-s1e-1025k",
+   "at": "2026-10-25T13:22:21+00:00",
+   "from": "storyteller-perplexity-s1e",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-21T16:09:57+00:00"
+ ]
 }
