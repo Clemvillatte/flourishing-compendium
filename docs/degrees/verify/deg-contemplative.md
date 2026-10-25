@@ -1354,3 +1354,31 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   pages. Identity rests on the catalog title only.
 - Verification status: unverified (page blocked, 2026-10-25) — retry
   permitted in a later session.
+
+### SRC-M12-004: Ubuntu as a Particular Universal and Nepantla as a Transitional Space (GloPhi, Universität Hildesheim)
+
+- Identity and access: oembed confirms the recording on the GloPhi -
+  Philosophizing in a Globalized World channel
+  (https://www.youtube.com/watch?v=-JQuVZNooic); watch page opened
+  2026-10-25. Event held 28 April 2026 at Universität Hildesheim with
+  live streaming, part of the lecture series "Transatlantic
+  Resonances: Philosophical Entanglements between Africa and the
+  Americas." MISSED-RECORD NOTE: this unattached md5-odd record was
+  absent from the original Block I-b enumeration and was caught by the
+  end-of-band inventory audit (2026-10-25).
+- Duration: 1:58:15 (watch page, 2026-10-25).
+- Instructor credentials: Lindokuhle Shabane and Lorena Grigoletto,
+  presenters (per the uploader description; institutional pages not
+  opened this session).
+- Language: English.
+- Content coverage (uploader description, read 2026-10-25): a double
+  lecture — "Travelling Concepts: Ubuntu as a Particular Universal"
+  (Shabane) and "Neplanta as a Transitional Space: Colonial and
+  Decolonial Destiny of a Nahuatl Concept" (Grigoletto) — covering the
+  histories, meanings and changing interpretations of ubuntu and
+  Nepantla, including their circulation in global, decolonial,
+  postcolonial and feminist thought.
+- Relevant segment: whole double lecture, 1:58:15.
+- Verification status: verified-partial: identity, access and duration
+  verified; coverage rests on the uploader description and credentials
+  are pending institutional confirmation.
