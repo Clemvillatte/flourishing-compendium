@@ -115,7 +115,7 @@ The early schools split over the status of the one who holds a view. The Kathāv
 
 The Puggalavāda schools — the Vātsīputrīyas and Sammitīyas named in that record — affirmed a person that a modern account of the school describes as neither identical with the aggregates nor separate from them ([Wikipedia, Pudgalavāda](https://en.wikipedia.org/wiki/Pudgalavada)). The Theravādin's refutation concludes that the affirmation must be withdrawn: the person is not known as a real and ultimate fact. The disagreement is recorded as worth a whole chapter of the Abhidhamma's dispute book. The chariot story below (Nagasena and the chariot) carries the same issue in narrative form.
 
-Follow the argument to the paragraph's source: in this passage, the Puggalavādin position is presented through a Theravādin debate text. It is not an independent statement from a Pudgalavādin work. ([Kathāvatthu I.1, scanned translation](https://archive.org/download/pointsofcontrove00mogg/pointsofcontrove00mogg.pdf))
+In this passage, the Puggalavādin position is presented through a Theravādin debate text. It is not an independent statement from a Pudgalavādin work. ([Kathāvatthu I.1, scanned translation](https://archive.org/download/pointsofcontrove00mogg/pointsofcontrove00mogg.pdf))
 
 ### Can a causally produced thing have an intrinsic nature?
 
