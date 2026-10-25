@@ -156,3 +156,19 @@ Opened through search and fetch:
 - [*Mencius*, Legge, Li Lou I chapter XII, 4A12](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07). Read the complete passage on trust, parents, sincerity and understanding goodness. Treated it as an ethical account, with my application explicitly distinguished from an empirical character test.
 
 Changes: fuller verbatim primary quotation, one-sentence Plain words, and a changed-promise example that attends to the friend's opportunity to rearrange plans. Removed the formulaic application disclaimer. Preserved front matter, opening principle, all existing links and lower sections.
+
+## Milestone advisor QC: D039, D141, SO044 and S001
+
+Read-only advisor opened all eight main sources and confirmed source fidelity, protected material and one-sentence Plain words for all four; validator returned four checked, zero failed (170 / 214 / 188 / 185 prose words before the minor correction below). Applied the single editorial request: removed S001's final explanatory sentence, which unnecessarily restated the example's lesson.
+
+Inherited flags remain outside this body-repair scope: D039's prospective-health parallel; D141's categorical illness wording in the protected reflection; S001's legacy numbering discrepancy and lower parallels. The protected reflection was not altered. These are supervisor review points, not defects newly introduced in the repaired prose.
+
+## P073: See conduct as interaction
+
+Opened through search and fetch:
+
+- [Dewey, *Human Nature and Conduct*, Part I §1, “Habits as Social Functions,” printed pp. 14–23, Brock University Mead Project](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html). Read the full section. Verified the walking/speech examples, the exact blockquote on changing habits indirectly, and the treatment of blame, praise and punishment as contributions to future conditions.
+- [Dewey, *Human Nature and Conduct*, Introduction, printed p. 10, Project Gutenberg](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm). Opened the passage containing the preserved lower-section primary quotation about all conduct as interaction. Its wording is exact; the original emphasizes “interaction,” which the existing quotation does not reproduce.
+- [Elizabeth Anderson, “Dewey's Moral Philosophy,” Stanford Encyclopedia of Philosophy, §1.2](https://plato.stanford.edu/entries/dewey-moral/). Read the full habit section: conditions can change while habits remain, producing unintended results. My follow-up question is marked as my own application.
+
+Changes: one-sentence Plain words; added a scholarly explanation of why an established habit can need revision; removed the repeated application disclaimer from the meeting example. Preserved both primary quotations, front matter, opening principle, all links, and lower sections. No empirical guarantee about a meeting intervention is made.

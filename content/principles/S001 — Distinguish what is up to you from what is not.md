@@ -27,7 +27,7 @@ Take care over your actions without treating them as a guarantee of the result.
 
 ### For example
 
-Suppose you are preparing for an exam whose questions have already been set. Choose what to review and how to use the time available. If the result disappoints you, ask a teacher which mistakes came from gaps in understanding and consider how to study next time. The distinction leaves you with something to do after the result arrives.
+Suppose you are preparing for an exam whose questions have already been set. Choose what to review and how to use the time available. If the result disappoints you, ask a teacher which mistakes came from gaps in understanding and consider how to study next time.
 
 ## Related concepts
 

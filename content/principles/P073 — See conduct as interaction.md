@@ -18,13 +18,15 @@ Dewey treats a habit as an activity that involves both a person and their surrou
 
 His concern is moral as well as practical. Blame, praise and punishment themselves help shape the conditions for future action, so judging someone's character does not discharge responsibility for how we treat them ([Part I §1, pp. 18–20](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)). Dewey rejects both exclusive personal blame and treating social causes as excuses; he asks what our response will make possible next ([pp. 18–19](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)).
 
+Elizabeth Anderson notes that a habit can keep operating after circumstances change, with unintended results ([Stanford Encyclopedia of Philosophy, §1.2](https://plato.stanford.edu/entries/dewey-moral/)). I therefore ask what currently sustains an action and what results it is producing.
+
 ### Plain words
 
-Habits involve both what you have learned to do and the surroundings that support the action. Changing a recurring action therefore calls for attention to both. You can take responsibility for what you do while also working to change the conditions that sustain it.
+To change a recurring action, work on what you do and on the conditions that keep it going.
 
 ### For example
 
-Suppose you repeatedly interrupt a colleague in meetings. Alongside practising listening, propose a speaking order that lets each person finish. After the next meeting, ask whether you followed it and whether it helped your colleague be heard; revise the arrangement together. This is my application of Dewey's account, not a promise that rearranging a meeting will resolve the problem.
+Suppose you repeatedly interrupt a colleague in meetings. Alongside practising listening, propose a speaking order that lets each person finish. After the next meeting, ask whether you followed it and whether it helped your colleague be heard. Revise the arrangement together.
 
 ## Related concepts
 
@@ -33,6 +35,7 @@ Suppose you repeatedly interrupt a colleague in meetings. Alongside practising l
 ## Sources
 
 - [John Dewey, Human Nature and Conduct (1922), Part I §1, Habits as Social Functions, pp. 14–23, Brock University Mead Project](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html): habit, surroundings, social responses and responsibility for future consequences.
+- [Elizabeth Anderson, Dewey's Moral Philosophy, Stanford Encyclopedia of Philosophy, §1.2](https://plato.stanford.edu/entries/dewey-moral/): habits, changed environments and unintended results.
 
 ## Stories
 
