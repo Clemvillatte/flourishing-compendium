@@ -36,10 +36,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25 10:38:39Z worker-pplx-dos34-1025h: released dos34 (leisure done, flip held on owner art ruling) [line restored after rebase loss].
-- 2026-10-25 10:38:50Z worker-pplx-dos10-1025m: took dos10 (motivation humanizer pass) [line restored after rebase loss].
-- 2026-10-25 10:41Z worker-pplx-dos10-1025m: motivation advisor QC applied (3 rewrites revised, checks green); board baton lines restored with real timestamps.
-- 2026-10-25 10:41Z worker-pplx-dos4-1025m: released dos10 (motivation done, QC applied); took dos4 (attention humanizer pass).
+
 - 2026-10-25 ~10:43Z worker-pplx-dos4-1025m: attention humanizer pass done (2 page-as-agent repairs, card-grounded, checks green); supervisor: re-splice attention when convenient.
 - 2026-10-25 10:42Z launcher-pplx-1025b-dos25: dos25 lane reconciled — right-concentration 4-question section verified against live carriers (Gunaratana re-fetched verbatim), checks green (check 0 / density 0 / quote_verify 12-3 documented artifacts), batch marked done. FLAG: supervisor re-splice outstanding — app.js lacks the 4th question.
 - 2026-10-25 10:44Z worker-pplx-ef25-launcher: dos5+dos30 blocked-carrier flags cleared — Sanderse verified live (tandfonline), GST spans verified via Wayback snapshot; no text changes.
@@ -79,3 +76,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:04Z worker-pplx-t2b-1025w: w1z 3 more stale flags resolved (Encoding-strategies, Default-effect-theory, Emergence — pages already honest, disclosures verified); baton held
 - 2026-10-25 11:07Z worker-pplx-t2b-1025w: w1j FAE + ITCW stale flags resolved (pages already correct: Ross 1977 definition quoted verbatim, Donovan & Hazlett 2024 attribution fixed); baton held
 - 2026-10-25 11:09Z worker-pplx-t2b-1025w: w1h Righteous-indignation seed cite corrected (NE II.7 + Rhetoric II.9, wrong NE IV.9 noted inline); Ross quote re-verified verbatim; flag resolved
+- 2026-10-25 10:56Z worker-pplx-dos4-1025m + dos29-1025m: verification round pushed (7c9a243f); dos4 and dos29 released - bands complete.
