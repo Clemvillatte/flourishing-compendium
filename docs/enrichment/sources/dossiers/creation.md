@@ -918,3 +918,16 @@ not supported, suggesting that the cross-day effect was specific to
 creative activity predicting well-being." Both sentences of the
 quotation as printed in the dossier are therefore extraction-reconfirmed
 this session, in addition to the inherited raw verification.
+
+### Pass 9 round-14 browser raw-confirmation attempt (worker-pplx-dos31-1025g, 2026-10-25)
+
+A cloud-browser attempt was made to upgrade the two HTTP-403 carriers
+(Conner et al. DOI; Jones et al. Taylor and Francis) from
+extraction-class to raw confirmation. Result: NEGATIVE. The DOI redirects
+to the Taylor and Francis record, which serves a Cloudflare challenge
+("Just a moment... / Performing security verification") that did not
+clear within two waits. The automatic fetcher's 403 and the browser's
+Cloudflare wall are recorded as the same access barrier, cause
+established on both paths. The extraction confirmations (rounds 10 and
+13) plus the inherited raw verification remain the standing evidence for
+these two quotations. No further access path attempted this session.
