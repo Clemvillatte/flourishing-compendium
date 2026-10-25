@@ -329,3 +329,31 @@ The-self stood at ONE substantiated dispute (SN 22.59 vs Advaita) with two open 
 2. "Is the self nothing but a bundle?" — Hume affirms (self = bundle), Kant denies (the "I think" must accompany all representations; transcendental unity of self-consciousness). Carriers: Treatise 1.4.6 (Gutenberg #4705); Critique of Pure Reason, Meiklejohn translation, Gutenberg #4280 (https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — Kant quotes substring-verified (note: carrier prints curly quotes around "I think"; dossier uses straight apostrophes, words and order exact).
 
 Both subsections written in house style (shared narrow question, quotes, precise difference, unresolved). dossier_check exit 0 after prose-wall split; density check passes. the-self now stands at THREE substantiated disputes (SN22.59/Advaita, Descartes/Hume, Hume/Kant) + one bounded comparison (separate vs relational). Meets the 3-5 bar. Published status unchanged (already in registry); no rebuild needed since no card links added.
+
+## Advisor QC correction applied (assistant-supervisor-1025e, 2026-10-25, T+~43)
+
+The advisor round on the first version of the two new subsections DEMOTED the
+Hume-vs-Kant pairing as not substantiated (Kant's Deduction passage establishes
+a unity of representations without explicitly denying the bundle; "Kant answers
+no" supplied the opposition). REPAIR APPLIED: the second subsection is rebuilt
+as DESCARTES-vs-KANT on substance, using Kant's explicit Paralogisms denial —
+"I believe that I cognize what is substantial in myself as a transcendental
+subject, when I have nothing more in thought than the unity of consciousness,
+which lies at the basis of all determination of cognition" and the
+dialectical-illusion sentence (both raw substring-verified in the Meiklejohn
+text, Gutenberg #4280). The first subsection was repaired per the same
+ruling: "runs the same examination" removed (Hume did not run Descartes'
+doubt), the "grammar supplies the noun" invention removed and replaced with
+Hume's own consequence (the sound-sleep passage, raw-verified), the repeated
+"what an essay can honestly leave open" framing removed, the queue analogy
+deleted. Carrier links added beside the new claims (Wikisource Veitch
+Meditation II; Gutenberg Treatise #4705; Gutenberg KrV #4280) — the dossier
+now reports 10 external carriers (was 7). HONEST BAR STATUS: THREE
+substantiated disputes — SN22.59-vs-Advaita (inherited), Descartes-vs-Hume
+(repaired), Descartes-vs-Kant (rebuilt) — plus one bounded comparison
+(separate vs relational). Bar met. Registry rebuilt for the-self (237 blocks
+spliced; +28 lines to fcDossiersData, no removals); registry status unchanged
+(published). Served-prose verification pending deploy (Pages lag) — flagged
+for the taper-window pass. BATON NOTE: dos38 was a spurious identifier (no
+band file exists for the-self; like suffering, the-self is tracked via the
+TASKBOARD below-bar enumeration) — baton released.
