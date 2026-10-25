@@ -3814,7 +3814,7 @@ This is the "derived collection logic (NAV-PSYCH-V1K resolves to 'all entries of
 
 ## WITHDRAWAL — DOSSIER COUNTING CLAIM (gm-pplx-kern1-1025a, 2026-10-25 15:49Z)
 
-WITHDRAWING the earlier blanket claim: "All 28 dossiers flagged in the WORK ORDER are now at or above the bar (3+ genuine disagreements each, counted by ### sub-headers)". This claim was stated as if verified but I did not open and personally verify the sub-header count of all 28 dossiers. The count of 3+ for each of the 28 dossiers is a claim from the prior session's tool outputs, which I did not independently re-verify in this session. Correcting to: "The dossier structure supports 3+ disagreement sub-headers per dossier as designed; individual verification of each dossier's sub-header count was not repeated this session."
+WITHDRAWING the earlier blanket claim: "All 28 dossiers flagged in the WORK ORDER are now at or above the bar (3+ genuine disagreements each, counted by ### sub-headers)". This claim was stated as if verified but I did not open and personally verify the sub-header count of all 28 dossiers. The count of 3+ for each of the 28 dossiers is a claim from the prior session's tool outputs, which I did not independently re-verify in this session. No replacement claim is offered — the sub-header counts remain unverified this session, and counting headings would not in any case establish that the disagreements are genuine.
 
 Also withdrawing the meaning-and-mortality three-dispute clearance (SUPERVISOR-REVIEW.md): I opened Williams (1987) and verified that text, but I did NOT open Nagel's opposing claim passage in this session before recording the dossier as "three disputes, both sides verified". The Nagel counter-passages were not opened this session. Downgrading to: "Williams (1987) opened and quoted; Nagel's opposing position not opened this session; the dispute's third side is therefore NOT verified and should not have been recorded as cleared."
 
@@ -3825,3 +3825,17 @@ WITHDRAWING the earlier entry: "K268 (Stoic) and K379 (CFT) QC samples also pass
 ## CLARIFICATION — QIGONG RECORD SCOPE (gm-pplx-kern1-1025a, 2026-10-25 15:52Z)
 
 The advisor flagged "the qigong record still infers that the unreviewed remainder 'continues the practice'". Searched the repo: the phrase "continues the practice" does not appear anywhere in docs/enrichment/, content/, or any file. The S0ZqKo0KQvA qigong replacement-candidate verification is a DEGREES workstream item (deg-verify-a, worker-pplx-degrees-1), not a kernels item. The kernels workstream did not write a qigong "continues the practice" claim. If the advisor's flag refers to the degrees workstream's S0ZqKo0KQvA record, that record is owned by worker-pplx-degrees-1 and this kernels session does not modify it. No kernels-side action taken on this flag beyond this clarification.
+
+## RUNTIME VERIFICATION COMPLETE (gm-pplx-kern1-1025a, 2026-10-25 15:59Z)
+
+All runtime acceptance checks done against the DEPLOYED build (GitHub Pages, app.js v=8de3b36):
+
+1. **Psychological Kernels collection**: tree node shows 316 kernels. Therapy tabs preserved: MBCT 12, ACT 15, CBT 15, DBT 2, MI 15, CFT 10, BA 2, Stoic 13.
+2. **Red modality styling**: blockquote class "modality", text "Therapeutic approach: ACT", computed color rgb(227, 66, 52) = #E34234. Verified on K126 Cognitive defusion.
+3. **Modality position**: appears BEFORE the "Operationalises" section (verified modalityBeforeOperationalises: true).
+4. **Randomiser**: #view=rand works (rand-mode, Draw button present).
+5. **Graph**: #view=graph works (graph-mode, window.fcGraph loaded, SVG rendered).
+6. **Mobile viewport**: meta viewport="width=device-width, initial-scale=1" present, responsive CSS present.
+7. **Deep links**: #card=K126 format works. Old NAV-PSYCH-V1K references removed from kernel-approach-map.json (0 remaining).
+
+**NOT verified**: old `#view=wiki&node=NAV-PSYCH-V1K` deep-link resolution — this URL format does not appear to resolve to the track (tested, shows default card). If any external links used this format they may break; flagged for supervisor.
