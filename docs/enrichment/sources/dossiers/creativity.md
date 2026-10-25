@@ -398,8 +398,8 @@ not necessarily whole files. The relied-on passages are inside those ranges.
 
 ## Handoff self-check (rev 3, before worker-complete)
 
-- `dossier_check.py`: exit 0 (30 card links resolve, 16 headers, 46
-  external carrier link occurrences).
+- `dossier_check.py`: exit 0 (30 card links resolve, 16 headers, 47
+  external carrier link occurrences at the final run).
 - `dossier_density.py`: exit 0, 30 paragraphs, 0.6 card links per
   paragraph, 0 dense (no paragraph with five or more card links, none with
   four in under 120 words).
@@ -469,9 +469,9 @@ not necessarily whole files. The relied-on passages are inside those ranges.
   demoted in rev 2 to a tension inside the definition discussion: the CAT
   and mini-c materials are raw-verified, but the two answer different
   questions and the README's same-question rule is not met.
-- Rev 2 keeps three formal disagreements: divergent-thinking tests (H&A raw),
-  the rewards debate (H&A raw), and the mind-wandering mechanism (Baird
-  fetch-read, Murray/FLoRA fetch-read).
+- The former 'rev 2 keeps three formal disagreements' note is superseded by
+  the current one above: in rev 3 all three disagreements rest on raw
+  carriers (Baird via eutils, Murray/FLoRA via raw curl of the record).
 - No claim about the four-C model's empirical validation is made beyond
   the chapter's own words; the model is presented as a framework.
 
