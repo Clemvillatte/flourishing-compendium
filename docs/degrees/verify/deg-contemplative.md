@@ -243,11 +243,71 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Relevant segment: whole lecture, 1:31:04.
 - Verification status: verified-video.
 
+## Block B optional batch 1 (verified 2026-10-25)
+
+### M01-D09: Leverhulme Lectures, Doing it Risky, Daoist Philosophy (Karyn Lai)
+
+- Identity and access: oembed confirms the lecture on the UNSW Community channel
+  (https://www.youtube.com/watch?v=4zehW8GSas4).
+- Duration: 1:06:51 (watch page, 2026-10-25, matches the record).
+- Instructor credentials: Karyn Lai, Professor of Philosophy at UNSW Sydney,
+  presenting the 2023 Leverhulme Lectures as Leverhulme Visiting Professor at the
+  University of Aberdeen (per the channel description).
+- Language: English.
+- Content coverage: the channel description identifies this as lecture 4 of the
+  series, on the question "What is dao?".
+- Relevant segment: whole lecture, 1:06:51.
+- Verification status: verified-video.
+
+### SRC-M12-007: Daoism Part 2, The Dao De Jing and the Zhuangzi (Alan Fox)
+
+- Identity and access: oembed confirms the lecture on Alan Fox's channel
+  (https://www.youtube.com/watch?v=7mAWA_8giHw).
+- Duration: 1:25:42 (watch page, 2026-10-25). The record prints 1:20:38, which
+  does not match; flagged for the owner to reconcile.
+- Instructor credentials: Dr Alan Fox, award-winning professor of Asian and
+  Comparative Philosophy (University of Delaware, per his own event framing); the
+  event was free of charge and open to all.
+- Language: English.
+- Content coverage: the uploader's description states this second of three charity
+  lectures introduces various readings of the Dao De Jing; a handout is linked.
+- Relevant segment: whole lecture, 1:25:42.
+- Verification status: verified-video, with the duration mismatch flagged.
+
+### M01-D18: Politics and Government in the Zhuangzi (Fraser, Valmisa, Walker)
+
+- Identity and access: oembed confirms the roundtable on the Collaborative Learning
+  Si Hai Wei Xue channel (https://www.youtube.com/watch?v=VlKdSPfC_34).
+- Duration: 1:59:09 (watch page, 2026-10-25).
+- Instructor credentials: Chris Fraser (University of Hong Kong), Mercedes Valmisa
+  Oviedo (Gettysburg College) and Stephen C. Walker (University of Chicago),
+  moderated by Wendy Wan Zhongshu (University of Macau), per the host description.
+- Language: English.
+- Content coverage: the host's description states the 27 May 2026 roundtable covers
+  political thought and government in the Zhuangzi, non-coercive leadership and
+  responsiveness, and the "five great" passage.
+- Relevant segment: whole roundtable, 1:59:09.
+- Verification status: verified-video.
+
+### M01-D19: The Dao of the Scholar/Practitioner (Siegler, Palmer, Komjathy, Brown University)
+
+- Identity and access: oembed confirms the lecture on the Brown University channel
+  (https://www.youtube.com/watch?v=wqYCw3_XE1Q).
+- Duration: 1:44:40 (watch page, 2026-10-25).
+- Instructor credentials: Elijah Siegler and David Palmer, professors, joined by
+  Louis Komjathy, presented by the Brown Program in Contemplative Studies (per the
+  host description).
+- Language: English.
+- Content coverage: the host's description states the 16 November 2017 lecture
+  examines academic scholarship and the construction of Daoist authority in China and
+  the West, including globalization of Taoism, Western spiritual tourism and Chinese
+  Taoist lineages, and the scholar/practitioner position.
+- Relevant segment: whole lecture, 1:44:40.
+- Verification status: verified-video.
+
 ## Remainder
 
-Optional media for deg-contemplative (M01-D09, SRC-M12-007, M01-D18, M01-D19,
-M01-D20, M02-K06, SRC-M22-YV01, SRC-M22-YV02, SRC-M22-YV04, SRC-M24-001 to 006,
-M05-MA-02 and the capstone repeats) are still labelled imported and await a following
-verification pass.
+Optional media still pending: M01-D20, M02-K06, SRC-M22-YV01, SRC-M22-YV02,
+SRC-M22-YV04, SRC-M24-001 to 006, M05-MA-02 and the capstone repeats.
 
 (in progress: verifier-pplx-a1)
