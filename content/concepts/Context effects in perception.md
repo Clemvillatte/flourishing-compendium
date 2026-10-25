@@ -22,9 +22,13 @@ The mechanism Bar proposes runs on expectations built from experience:
 
 > These context frames can be viewed as sets of expectations that are derived from exposure to real-world scenes. — Bar, 2004, [Key Points (opened)](https://www.nature.com/articles/nrn1476)
 
-Bar proposes context frames as an account of how contextual expectations can aid visual object recognition. I connect this account with its horizon principle.
+Bar proposes context frames as an account of how contextual expectations can aid visual object recognition. The compendium connects this account with its horizon principle.
 
-### Here
+### What the bidirectionality implies
+
+The two directions of the claim matter for how much the seen world is taken as given. If contexts inform the identification of objects, then what a thing is taken to be arrives partly from its surroundings, and the correction is not a harder stare but a changed expectation: the same figure in a different frame is a different thing to name. The review's own subject, objects in rich surroundings with other related objects, is the ordinary case rather than the exception, which is why the effect is hard to notice from inside a single perception. The horizon principle makes the same point from the first-person side: what surrounds a thing is part of how it shows up.
+
+### In the compendium
 
 - [[E005 — Practise the horizon]] — the horizon principle.
 - [[A046 — See the particular]] — seeing the particular.
