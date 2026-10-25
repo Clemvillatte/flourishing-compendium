@@ -181,7 +181,14 @@ not smile facing the pins but grin at their friends; Olympic gold
 medalists smile facing the crowds), and the distinction between the Pan
 Am greeting smile and the Duchenne smile of genuine happiness (the
 difference is around the eyes; only about one in ten people can fake a
-Duchenne smile). This serves the M2 emotion-functions row. Status for
+Duchenne smile), the psychological validity of the smile types
+(ten-month-olds give different smiles to mother versus stranger;
+Gottman's marriage-prediction work, where the death knell of a marriage
+is contempt and true-happiness smiles on seeing the spouse bode better;
+college yearbook photos correlate with happiness thirty years later),
+and the third, coy or appeasement smile of embarrassment or stress
+(shown in other primates and human infants). This serves the M2
+emotion-functions row. Status for
 the chapter-3 segment: verified-video; the remaining segments are
 candidates until their transcripts are read.
 
@@ -322,14 +329,17 @@ factors (neuroticism versus stability, extraversion versus introversion,
 openness, agreeableness, conscientiousness), the OCEAN mnemonic, the
 evidence that the traits are stable over time (very stable after age
 thirty) and show cross-observer agreement, and the observation that a
-personality leaves a trail in the minds of the people around you. The
-chapter also covers the measurement history before the Big Five
-(projective inkblots described as worthless as measures, Allport's
-dictionary trait list, Eysenck's two- and three-factor schemes,
-Cattell's sixteen factors) and the Big Five's predictive validity
-(conscientiousness and faithfulness to a spouse, openness and
+personality leaves a trail in the minds of the people around you. Correction to this note: the
+measurement-history material (projective inkblots described as
+worthless as measures, Allport's dictionary trait list, Eysenck's two-
+and three-factor schemes, Cattell's sixteen factors) appears before the
+chapter 2 marker in the transcript and belongs to the end of chapter 1,
+not to chapter 2; the full bounded chapter 2 has now been read strictly
+between its markers. Chapter 2 also presents the Big Five's predictive
+validity (conscientiousness and faithfulness to a spouse, openness and
 likelihood of changing jobs, extraversion and eye contact and more
-sexual partners), with a Simpsons-character rating example. This
+sexual partners), with a Simpsons-character rating study (Flanders and
+Marge agreeable, Mr. Burns and Nelson low). This
 serves the M5 personality row. Status for the chapter-2 segment:
 verified-video; the remaining segments are candidates until their
 transcripts are read. 
@@ -412,7 +422,7 @@ feeding the next module's entry:
 | M1 (L1) | can define the six dimensions and the variation-selection-retention-context frame in their own words; can name the levels of analysis; can appraise a simple study's design and evidence type using a worked model; can state what the degree covers and excludes | M2 entry |
 | M2 (L2) | can apply the process model of emotion regulation to a case not used in the materials; can spot emotion functions in a personal episode; can compare two accounts of emotion naming where they disagree | M3 entry |
 | M3 (L2) | can apply conditioning, memory and judgment frameworks to a new case; can explain one visual illusion by its depth cue; can analyse an RNT episode against its defining features; can appraise a rumination induction study | M4 entry |
-| M4 (L2) | can map symptoms to attention networks; can interpret network scores; can compare two attentional training mechanisms | M5 entry |
+| M4 (L2) | can map symptoms to attention networks; can interpret network scores; can compare two attentional training mechanisms; can explain one attentional blindness phenomenon by the attention window | M5 entry |
 | M5 (L2 to L3) | can assess self-concept clarity with its limits; can chart an identity domain over time; can write a trait account with the person-situation caveat | M6 entry |
 | M6 (L2) | can classify motivations on the autonomy continuum; can analyse a goal's adherence with intrinsic and extrinsic reasons | M7 entry |
 | M7 (L2 to L3) | can keep a habit diary with cue analysis; can appraise the ego depletion meta-analysis against the replication literature; can run a functional analysis of one behaviour pattern | M8 entry |
