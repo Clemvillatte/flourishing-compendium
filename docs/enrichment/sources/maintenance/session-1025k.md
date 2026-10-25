@@ -72,3 +72,6 @@
 
 ## P042 Learn by doing
 - Carrier opened: Dewey Democracy and Education (Gutenberg 852). Flame/child passage is in ch. 6 (Education as Conservative and Progressive); all quotes verified. Removed gloss 'burn is not a punishment, it is the lesson', swimming and used-car analogies presented as fact; kept a labelled illustration.
+
+## P005 Organism in transaction with environment
+- Carriers opened: Dewey Experience and Nature (archive.org), SEP John Dewey, Human Nature and Conduct. Old page presented 'the live animal, the organism-plus-environment, is the fundamental unit of analysis' as a Dewey quote linked to SEP; the phrase is not in SEP nor Experience and Nature (searched). Removed; replaced with the verified ch. 1 organism/environment sentence, SEP habit summary labelled as SEP wording, HNC 'constitute the self' sentence.

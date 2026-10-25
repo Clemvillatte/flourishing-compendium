@@ -12,19 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 5** — You are an organism in transaction with an environment
 
-Dewey's core claim is that experience is not something that happens inside a person who then faces a world; it is the transaction between the person and the world, and neither side exists in the relevant sense without the other. He states it directly: "the live animal, the organism-plus-environment, is the fundamental unit of analysis" ([Dewey, Experience and Nature, and the organism-environment transaction; see SEP on Dewey](https://plato.stanford.edu/entries/dewey/)). The person is not a container holding experiences; the person is a node in a transaction.
+Dewey declines to start from a person who then meets a world. In the first chapter of *Experience and Nature* he writes: "Life denotes a function, a comprehensive activity, in which organism and environment are included. Only upon reflective analysis does it break up into external conditions" and internal structures ([Dewey, *Experience and Nature*, 1929, ch. 1, Internet Archive copy](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt)). On this reading, "inside" and "outside" are distinctions we make later, when we reflect on one ongoing activity.
 
-This is why the practical move is not always inner work. If the behaviour is produced by the transaction — the phone in the hand, the room, the timing, the company — then changing the self is one lever among several, and it is usually the weakest one. The environment is also a lever, and it is usually the stronger one.
+The Stanford Encyclopedia of Philosophy summarises how this carries into Dewey's account of habit:
 
 > Habits are not individual possessions or inner forces; rather, they are transactions between organisms and environments, functions making adaptation or reconstruction possible. ([Stanford Encyclopedia of Philosophy, "John Dewey", summarising Dewey](https://plato.stanford.edu/entries/dewey/))
 
-**Plain words** Can't stop scrolling in bed? The reflex is to work on the self — more discipline, more resolve, more self-talk. The transaction view says: charge the phone in the kitchen. Same person, different transaction, different outcome. Willpower is the weakest lever; the room is a strong one. This is an argument about which lever to pull first.
+Dewey himself says in *Human Nature and Conduct* that "all habits are demands for certain kinds of activity; and they constitute the self" ([Dewey, *Human Nature and Conduct*, 1922, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt)).
 
-*For example:* Two people both want to stop scrolling at night. One works on their resolve and fails nightly. The other moves the charger to the kitchen and the behaviour changes within a week. Same person, same willpower; only one of them changed the actual mechanism.
+My own practical inference, which Dewey does not state in these passages, is that if behaviour comes out of the person and the setting together, then changing the setting is one of the available ways to change the behaviour, alongside working on yourself.
+
+**Plain words** You are not a self sitting inside a body and looking out at a world. What you do comes out of you and your surroundings together, so the surroundings are part of what you can change.
+
+*For example (my illustration, not Dewey's):* If you scroll your phone in bed every night, you can try more resolve, or you can charge the phone in another room. Both are ways of changing the same activity.
 
 ## Sources
 
-- [Dewey, Experience and Nature, and the organism-environment transaction; see SEP on Dewey](https://plato.stanford.edu/entries/dewey/)
+- [John Dewey, *Experience and Nature* (1929), ch. 1, Internet Archive](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt): the "organism and environment" passage. The page previously quoted "the live animal, the organism-plus-environment, is the fundamental unit of analysis" as Dewey's words with a link to the SEP entry; that sentence does not appear in the SEP entry or in the Experience and Nature text I opened, so I removed it.
+- [Stanford Encyclopedia of Philosophy, "John Dewey"](https://plato.stanford.edu/entries/dewey/): the habits-as-transactions summary (this is the SEP author's wording, not a direct Dewey quotation).
+- [John Dewey, *Human Nature and Conduct* (1922), Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt): the "constitute the self" sentence.
 
 ## Psychology parallels
 
