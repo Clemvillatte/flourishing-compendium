@@ -796,16 +796,22 @@ attach them with evidence on file.
 - FLAG, NOT VERIFIED AT CANONICAL URL: the recorded URL
   (https://learn.modernstoicism.com/courses/688494/lectures/124) returns HTTP 404
   (checked 2026-10-25 via direct request; the site root is up).
-- What the check found: the platform's course 688494 still exists as "Stoicon
-  2019 Videos and Resources", marked COMPLETE and FREE on the homepage, but its
-  live lecture pages use full 8-digit lecture IDs (for example
-  https://learn.modernstoicism.com/courses/688494/lectures/12430467), not "124".
-  Lecture pages also state "Enroll in Course to Unlock"; enrollment is free but
-  requires an account.
-- What the owner needs to do: supply the corrected lecture URL (or move the record
-  to the corresponding YouTube upload, as was done for ST-03) before this record
-  can be verified.
-- Verification status: not verified, dead canonical URL.
+- CORRECT LOCATION FOUND (2026-10-25): the talk "How to Thrive in a World Out
+  of Your Control with Massimo Pigliucci" is in the same platform's "Stoicon
+  2019 Videos and Resources" course, marked COMPLETE and FREE. The course
+  curriculum prints its duration as 87:25. The lecture page the search index
+  attributes to it is
+  https://learn.modernstoicism.com/courses/688494/lectures/12430467 (titled
+  "Massimo Pigliucci | Learn Modern Stoicism").
+- ACCESS CAVEAT for the owner: lecture pages state "Enroll in Course to Unlock";
+  enrollment is free but requires an account, so the media itself is not
+  anonymously viewable. The course also contains a "YouTube Video Playlist"
+  section, so the owner may prefer to re-point the record at the YouTube upload
+  (as was done for ST-03) to satisfy the open-access standard.
+- What the owner needs to do: replace the dead canonical URL with the correct
+  lecture URL above or the YouTube upload, then this record can be verified.
+- Verification status: not verified at canonical URL, corrected location and
+  duration identified.
 
 ### M05-SP-01: Spinoza, Toleration and the First Amendment (Steven Nadler, St. Norbert College)
 
