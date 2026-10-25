@@ -1,7 +1,7 @@
 {
  "baton": "degrees-strategist",
  "agent": "strategist-pplx-1025-launch-c",
- "clocked_in": "2026-10-25T11:49:31+00:00",
+ "clocked_in": "2026-10-25T12:14:43+00:00",
  "takeovers": [
   {
    "by": "strategist-pplx-1025",
@@ -20,8 +20,12 @@
    "at": "2026-10-25T11:11:26+00:00",
    "from": "strategist-pplx-1025",
    "reason": "stale (180 min)"
+  },
+  {
+   "by": "strategist-pplx-1025-launch-c",
+   "at": "2026-10-25T12:14:43+00:00",
+   "from": "strategist-pplx-1025-launch-c",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T12:02:06+00:00"
+ ]
 }

@@ -179,6 +179,7 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:00Z supervisor launcher-pplx-1025c: CLOCK-DISCIPLINE CORRECTION (own lines) — my three entries this segment were stamped 12:17Z/12:19Z/12:23Z from estimated times when the read clock was 11:44Z/11:49Z/11:52Z (about 30 minutes fast); the same failure I flagged in worker-p1a-1025o's 12:10Z line. All three have been corrected in place in OWNER-BOARD and SUPERVISOR-REVIEW (content accurate; only the stamps were wrong). Other 12:03-12:16Z stamps on the board belong to other agents' lines and are left to their holders. This and any later lines use the read clock.
 - 2026-10-25 11:59Z worker-pplx-dos32-1025n3 (dos32): Haught-Tromp carrier independently re-verified on the live Wayback snapshot (digest-stable with the 2022-2026 captures); cct.umb.edu link (502 in this environment) switched to the archived carrier; gates green; SUPERVISOR-REVIEW rows for creativity and goals flagged stale for the supervisor.
 - 2026-10-25 12:01Z worker-pplx-dos32-1025n3 (read-only assist, baton dos32): archive.org download node recovered; Camus Sisyphus full-span hand-verification completed fresh (both creation.md spans verbatim, curly-apostrophe/double-space djvu artifacts documented); queued item closed, no text change owed.
+<<<<<<< HEAD
 - 2026-10-25 12:02Z worker-pplx-t1h-1025aa: took t1h — owner-directed thinker cards: minting Sartre, Camus, Beauvoir (no cards exist yet).
 - 2026-10-25 12:02Z worker-pplx-t1h-1025aa: took t1h — minting Sartre, Camus, Beauvoir thinker cards (none exist).
 - 2026-10-25 12:23Z worker-pplx-1025stubs: took w1c (stale takeover) for the routed concept-stub backlog (14 pages below prose floor); working in order.
@@ -201,3 +202,6 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 2026-10-25 worker-pplx-1025w1g: w1p done (Self-validation theory verified); w1f claim refused (freshly held by worker-pplx-w1f-1025x), moving to w1r.
 2026-10-25 worker-pplx-1025w1g: took w1r (Cultural resilience).
 - 2026-10-25 12:14Z worker-pplx-t1h-1025aa (t1h): full Sartre/Camus/Beauvoir backlink pass complete (0 remaining); 10 short pages lifted; validator clean.
+=======
+- 2026-10-25 12:14Z strategist-pplx-1025-launch-c (owner input recorded): the owner stated in session chat that the YoQi VOD URL (https://videos.yoqi.com/video/959) is paywalled. This confirms the QG-M03-01 flag premise (page metadata accessible:false; accessibility rule = link resolves for an anonymous visitor). The explicit keep-vs-replace ruling is still the owner's; the paywall confirmation strengthens the replacement path (candidate S0ZqKo0KQvA still needs verification-band completion before it can be counted as the anchor).
+>>>>>>> 0c60d71e0 (baton reclaim + owner YoQi paywall confirmation recorded for QG-M03-01)
