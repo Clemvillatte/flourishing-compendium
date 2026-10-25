@@ -240,3 +240,17 @@ Opened [Aristotle, *Nicomachean Ethics* IV.3 and IV.7, Ross](https://classics.mi
 Read the linked Trustworthiness concept for alignment. It already marks the scope distinction and explains that Chase's truthfulness chapter is numbered IX in that edition. The repaired R055 citation explicitly specifies Ross, whose chapter is IV.7; no cross-edition chapter-number equivalence is assumed.
 
 Applied the advisor's optional P073 refinement: printed p. 20 now accompanies the primary blockquote's Part I §1 locator. The quoted words were not changed. The R055 locator flag is resolved by this source-checked correction, not merely deferred.
+
+## Short-fix pass: D039's inherited recovery parallel
+
+Using the already-opened [Sonnentag and Fritz (2007) PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17638488/?dopt=Abstract), narrowed the lower parallel to what that record actually reports: psychological detachment is one of four distinguishable recovery experiences assessed in questionnaire-validation studies. Removed the unsupported specific prediction about next-day engagement and long-term health. This is not a claim that no prospective recovery research exists; the reference here is now limited to its verified purpose.
+
+Read the linked Psychological detachment concept. Its account already matches the validation abstract, including the four experiences and the distinction between demonstrated measurement findings and proposed longitudinal/diary applications. No concept file was edited. The D039 prospective-health flag is resolved by narrowing the claim and adding the actual evidence URL.
+
+## Final advisor milestone and preservation pass
+
+Read-only advisor passed S011, A063, A037 and S007 with no blocking edits, after opening their primary and scholarly sources. All four validate, with 163 / 120 / 159 / 165 prose words and one-sentence Plain words. All twenty repaired bodies have now received first-item or milestone advisor review.
+
+Full twenty-item check against the pre-session baseline `05039606d666f26179b928bec051731eb5ba22ce^` returned twenty checked, zero failed. It verified front matter, original seed statements, complete repeated wikilink markup, reflection blocks, every distinct baseline external URL, 40–300 prose words, and exactly one Plain words sentence per item. Current counts range from 120 to 220; remaining validator warnings concern sparse/missing Related concepts, not failed preservation or source checks.
+
+Outstanding supervisor review points: inherited S001/S011 numbering inconsistencies; D141's categorical illness wording in a protected reflection; the linked Three disciplines concept's firm mapping versus Graver's caution; S007's inherited lower-section “the page” narration and the advisor's K318/K354 alias concern. These were not silently changed. R055's Aristotle locator and D039's recovery-evidence scope have been corrected rather than left outstanding.

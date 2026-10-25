@@ -32,6 +32,7 @@ A musician with some say over rehearsal times could mark one evening as unavaila
 - [[T012 — Laozi]]: the chapter 26 terms the principle takes: rest as the master of restlessness.
 
 - [Laozi, Daodejing 26, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter text
+- [Sonnentag and Fritz, The Recovery Experience Questionnaire (2007), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17638488/?dopt=Abstract): measurement and validation, as specified in Psychology parallels below.
 
 ## Practice kernels
 
@@ -46,7 +47,7 @@ A musician with some say over rehearsal times could mark one evening as unavaila
 - [[ST419 — Poincare Leaves the Problem and Returns to Check It|419. Poincare Leaves the Problem and Returns to Check It]]
 ## Psychology parallels
 
-- **[[Psychological detachment|Psychological detachment]]** (Sonnentag and Fritz, 2007), during off-time predicts next-day engagement and long-term health
+- **[[Psychological detachment|Psychological detachment]]**: one of four recovery experiences distinguished in Sonnentag and Fritz's questionnaire-validation studies ([2007 abstract](https://pubmed.ncbi.nlm.nih.gov/17638488/?dopt=Abstract)).
 - **[[Recovery science|Recovery science]]**
 
 ## Philosophy parallels
