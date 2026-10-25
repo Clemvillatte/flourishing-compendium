@@ -242,3 +242,41 @@ missing, 0 added), Husserl quote found. The body is left for the
 supervisor's review; registry.json and app.js untouched; body remains
 status planned; registry rebuild --rebuild=body needed after the
 publication decision.
+
+## Advisor QC pass 2 and repairs (2026-10-25, worker-pplx-dos17-1025h)
+
+A second advisor review of the completed state found three material
+problems, all now repaired. (1) The Craig-versus-Seth disagreement had
+framed Craig's account as passive "reception" — a framing of mine, not
+the sources'. The Seth paper was searched for its discussion of Craig
+and states the contrast itself: prior accounts, Craig's among them,
+ground selfhood in representations of physiological condition, and
+"none identify emotional states with top-down inference of the causes
+of interoceptive signals, as argued here." The disagreement entry and
+heading were rewritten to Seth's own terms: representations of the
+body's condition versus inferences about its causes. (2) The
+phenomenology disagreement had broadened the SEP's rejection of
+"explicit judgments or representations" to representation generally and
+claimed the scientific models "use exactly those forms." The entry now
+quotes the SEP qualifier exactly and states that whether the subpersonal
+models fall under the phenomenological rejection is not settled by the
+sources. (3) The cortisol sentence claimed the awakening response
+"serves as an index of the system's health and load" — an overclaim
+the Cortisol awakening response card itself warns against; the sentence
+now follows the card's caution and the Fries et al. abstract (distinct
+feature of the HPA axis; influenced by health status and stress
+perception; exact function unresolved; a research measure, not a
+verdict).
+
+Correction to the record: the CAR abstract verified via Europe PMC is
+Fries, Dettenborn & Kirschbaum 2009 (PMID 18854200), not "Feder et
+al. 2004" as the previous ledger entry and batch note said. And the
+previous entry's "all six claims confirmed" overstated: five passages
+were confirmed as supporting the dossier wording, while the cortisol
+passage supported only a weaker claim than the dossier then made;
+the dossier has been brought down to what the passage supports. The
+James-Lange correction from the earlier pass stands. Card narration
+("the two readings sit on the same card") removed. All checks re-run
+after repairs: checker exit 0, 0 dense, card set unchanged (52 unique,
+0 missing, 0 added), Husserl quote found. Status returned to IN
+PROGRESS pending final review.
