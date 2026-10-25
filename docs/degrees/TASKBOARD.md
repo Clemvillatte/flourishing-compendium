@@ -103,17 +103,11 @@ reference, unique source ids in brackets):
   stamp bounds (batches 2-3 had cited pre-writing clock readings) and
   reconciled this ledger (a commit message said 13 for a 16-card batch;
   an earlier checkpoint said 25 for a 28-card enumeration — history left
-  as pushed, corrected here). SECTION-4 CREDENTIALS FLAG FOR THE OWNER:
-  the binding standard (docs/degrees/skill/curriculum-design/Skill.md
-  section 4) requires instructor credentials verified on a biography or
-  institutional page, NOT the recording's/host's own description. An
-  audit of the 29 upgraded cards' credential lines shows 12 cite host
-  descriptions (M-15-001, M01-P05, M01-P17, M01-P20, M05-SP-01, PHR-01,
-  M04-R05, M04-R08, M04-R13, M08-S06, M08-S17, M08-S24); the rest cite
-  institutional or opened pages. The transcript pass closed the COVERAGE
-  gate only; the credentials basis is the prior verification's record.
-  The owner should attach institutional/biography pages for the 12 (or
-  revert those cards to verified-partial).
+  as pushed, corrected here). SECTION-4 CREDENTIALS GATE (supersedes the earlier flag): all 27
+  host-description-basis cards are now reverted to verified-partial in the
+  files; the owner can clear each gate by attaching a biography or
+  institutional page, at which point the recorded coverage evidence
+  supports an upgrade.
 
 - 2026-10-25 (evidence commits b6c1c1577, stamp-corrected b6aa42884;
   checkpoint appended in a later save) worker-pplx-degfin-1 (deg-verify-a):

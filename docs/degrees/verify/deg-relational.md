@@ -306,7 +306,7 @@ standard.
   engaging Michael Walzer's thin morality, family, state and world in Confucian
   thought, relational equity and a planetary order.
 - Relevant segment: whole lecture, 1:24:14.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save; the route
   needed three attempts before serving the page, the first two failing
@@ -322,9 +322,7 @@ standard.
   life; the discussion afterward addressing justice, changing family
   forms, embodiment and political leadership (Collaborative Learning
   四海为学 / Si Hai Wei Xue). The coverage basis is upgraded from
-  description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M04-R08: A Confucian Meditation on Justice (Henry Rosemont Jr., Creighton)
 
@@ -339,7 +337,7 @@ standard.
   focuses mainly on distributive justice, with retributive and restorative justice,
   role-based relationships, human rights and truth and reconciliation commissions.
 - Relevant segment: whole lecture, 57:03.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=5bahLBei5mw&current_language_code=en,
@@ -355,9 +353,7 @@ standard.
   punishment-focused retributive justice distinguished from
   reconciliation-focused restorative justice (CreightonCCAS). The
   coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M04-R13: Reweaving Relational Worlds (Jacoba Matapo, PESA 2024)
 
@@ -373,7 +369,7 @@ standard.
   regeneration, drawing on Samoan concepts of va (relational space), fanua
   (land/placenta) and Indigenous weaving pedagogies.
 - Relevant segment: whole keynote, 54:02.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save; the route
   needed three attempts before serving the page, the first two failing
@@ -387,9 +383,7 @@ standard.
   including language, embodied care and the cultural significance of
   weaving baby mats (Philosophy of Education Society of Australasia).
   The coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M04-R16: A Conversation with Professor Linda Tuhiwai Smith (Te Tiriti Based Futures)
 
@@ -407,7 +401,7 @@ standard.
   working in institutions, the impact of digitisation and support for young
   academics and activists.
 - Relevant segment: whole conversation, 0:58:29.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=vnAhKeZXmZk&current_language_code=en,
@@ -419,9 +413,7 @@ standard.
   institutions; supporting Indigenous researchers and young people;
   sustaining intergenerational change (Te Tiriti Based Futures & Anti
   Racism). The coverage basis is upgraded from description-only to
-  third-party transcript; status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ## Block I batch — deg-verify-b hash half (verifier-pplx-1025g, 2026-10-25)
 

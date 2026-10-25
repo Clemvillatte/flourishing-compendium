@@ -480,7 +480,7 @@ standard.
   States, independent and interdependent selves, mismatch for first-generation
   college students, belonging interventions and institutional support.
 - Relevant segment: whole lecture, 1:22:09.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=DPsvYv9ORK0&current_language_code=en,
@@ -491,9 +491,7 @@ standard.
   backgrounds and universities' independent-oriented expectations affecting
   belonging and academic performance; interventions intended to help (Mizzou
   Visual Productions). The coverage basis is upgraded from description-only
-  to third-party transcript; status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S06: Interesting WEIRD Psychology, The Challenges of Searching for a Human Nature (Steven Heine, CMPR)
 
@@ -510,7 +508,7 @@ standard.
   self-enhancement motivations in North American and East Asian samples, and ways
   to improve cross-cultural research.
 - Relevant segment: whole lecture, 1:16:23.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=OotlTvy1hIk&current_language_code=en,
@@ -525,9 +523,7 @@ standard.
   self-criticism across North American and East Asian samples; the case for
   more cross-cultural research and clearer reporting of sample limits
   (Consortium for Multicultural Psychology Research). The coverage basis
-  is upgraded from description-only to third-party transcript; status
-  upgraded verified-partial to verified-video per the house convention,
-  with the no-timestamps and no-playback caveats carried.
+  is upgraded from description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S08: Robust Cultural Pluralism in the New World Order (Richard Shweder, University of Chicago)
 
@@ -545,7 +541,7 @@ standard.
   cultural diversity, drawing on his research on the challenges of cultural
   diversity in Western democracies.
 - Relevant segment: whole lecture, 0:53:09.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=9Lunz9SVIvQ&current_language_code=en,
@@ -556,9 +552,7 @@ standard.
   system accommodating local cultural traditions — with globalization,
   immigration, ethnonationalism and historical examples including the
   Ottoman Empire (The University of Chicago). The coverage basis is
-  upgraded from description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  upgraded from description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S17: Social Psychology Lecture 2, Situational Construal and Naive Realism (Matthew Lieberman, UCLA Psych 135)
 
@@ -572,7 +566,7 @@ standard.
 - Content coverage: the host's description states the lecture covers situational
   construal and naive realism.
 - Relevant segment: whole lecture, 1:18:39.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=_Jy5bgkHjTw&current_language_code=en,
@@ -582,9 +576,7 @@ standard.
   perception — illustrated through the Prisoner's Dilemma, reactions to a
   Reagan-Mondale debate, Milgram's obedience study and classroom
   demonstrations (UCLACourses). The coverage basis is upgraded from
-  description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S18: The Value of Social Capital and Bowling Alone in 2025 (Robert Putnam, Harvard IOP)
 
@@ -603,7 +595,7 @@ standard.
   isolation, class-based isolation, building connections across social classes,
   and the role of technology and community organizations for democracy.
 - Relevant segment: whole conversation, 1:18:50.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=H7MfmA9mBhY&current_language_code=en,
@@ -615,9 +607,7 @@ standard.
   youth engagement and organizations that are both enjoyable and
   character-building (Institute of Politics, Harvard Kennedy School). The
   coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S22: Misbehaving, The Making of Behavioural Economics (Richard Thaler, LSE)
 
@@ -635,7 +625,7 @@ standard.
   biases in decisions such as purchases and mortgages, and the implications for
   individuals, managers and policymakers.
 - Relevant segment: whole event, 1:27:38.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Ox7_RQshIsc&current_language_code=en,
@@ -646,9 +636,7 @@ standard.
   policy applications such as nudges and disclosure, and resistance to
   behavioral economics; audience Q&A touching climate policy, voting,
   cooperation and mental accounting (LSE). The coverage basis is upgraded
-  from description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  from description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S24: Book Talk on Wiser, Getting Beyond Groupthink (Cass Sunstein, Harvard Law School)
 
@@ -663,7 +651,7 @@ standard.
   decisions, including groupthink, group biases and errors, information-sharing
   and group polarization, and ways to structure groups to make better decisions.
 - Relevant segment: whole talk, 1:01:38.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:58:43Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=TzqwSsfoXGY&current_language_code=en,
@@ -674,9 +662,7 @@ standard.
   panelists and audience discuss information gathering, creativity,
   dissent, group composition and ways to improve group decision-making
   (Harvard Law School). The coverage basis is upgraded from description-only
-  to third-party transcript; status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S25: #Republic, Divided Democracy in the Age of Social Media (Cass Sunstein, Carnegie Council)
 

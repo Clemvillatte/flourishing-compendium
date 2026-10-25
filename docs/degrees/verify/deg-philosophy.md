@@ -356,7 +356,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   contentment and satisfaction, the classification of desires as necessary,
   unnecessary and extravagant, and the value of friendship. Fits the module.
 - Relevant segment: whole lecture, 49:36.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description — the retrieved transcript text does not name the speaker).
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; evidence pass 2026-10-25; basis note revised by QC correction,
   2026-10-25): the third-party
@@ -373,9 +373,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   this entry (the opened host record: the oembed-confirmed channel and
   the host's page naming Dr Kurt Lampe, University of Bristol), and the
   transcript establishes coverage. The upgrade cites those recorded
-  bases. Status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  bases. STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ## mod-phil-4 required batch (verified 2026-10-25)
 
@@ -568,7 +566,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   legacies, with topics including domestic and international politics, race and
   ethnicity, and law. Fits mod-phil-4's pragmatism-and-society angle.
 - Relevant segment: whole lecture, 0:58:12.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description — the retrieved transcript text does not name the speaker).
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; evidence pass 2026-10-25; basis note revised by QC correction,
   2026-10-25): the third-party
@@ -585,9 +583,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   recorded in this entry (the opened host record: the oembed-confirmed
   Harvard Divinity School channel and the host's page naming James T.
   Kloppenberg), and the transcript establishes coverage. The upgrade
-  cites those recorded bases. Status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  cites those recorded bases. STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M01-P12: William James and the Sick Soul (John Kaag, Harvard Divinity School)
 
@@ -604,7 +600,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   discusses James's 1895 lecture "Is Life Worth Living?" and why the founder of
   pragmatism can speak to anyone struggling to make a life worth living.
 - Relevant segment: whole lecture, 1:25:53.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Z80EnEs-4oI&current_language_code=en,
@@ -615,9 +611,7 @@ Block A, fcAcademyData records for deg-philosophy modules.
   dimensions of reality can sustain hope; James's views on religious
   experience, the self, and finding meaning amid hardship (Harvard
   Divinity School, 2 February 2023). The coverage basis is upgraded from
-  description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ## mod-phil-3 optional Cynicism series (verified 2026-10-25)
 
@@ -724,7 +718,7 @@ attach them with evidence on file.
   material covers God-world relation, ethics, Christology, spirituality and biblical
   studies.
 - Relevant segment: whole lecture, 47:18.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=JgWq5vbTD7A&current_language_code=en,
@@ -734,9 +728,7 @@ attach them with evidence on file.
   relation; applications to theology, ethics, Christology, spirituality,
   biblical studies, preaching and Christian education (Center for Process
   Studies, December 2015). The coverage basis is upgraded from
-  description-only to third-party transcript; status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  description-only to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M01-P09: Whitehead's Philosophy of Organism (Matthew D. Segall, Dartington Trust)
 
@@ -752,7 +744,7 @@ attach them with evidence on file.
   Philosophy of Organism as a protest against scientific materialism, exploring the
   major themes of Process and Reality.
 - Relevant segment: whole talk, 1:36:01.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:01:47Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=sRA-QoOGPPg&current_language_code=en,
@@ -764,9 +756,7 @@ attach them with evidence on file.
   present; science, education, human purpose, panpsychism and connections
   with Eastern thought, followed by audience questions (Dartington
   Trust). The coverage basis is upgraded from description-only to
-  third-party transcript; status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M01-P11: Spotlights 3.14, Process Studies and Imagination (Matthew Segall, Yale Forum)
 
@@ -781,7 +771,7 @@ attach them with evidence on file.
   on environmental ethics and eco-theology, and Segall's work on imagination in
   Schelling and Whitehead.
 - Relevant segment: whole episode, 58:25.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=FmYOx-WxsOQ&current_language_code=en,
@@ -794,9 +784,7 @@ attach them with evidence on file.
   Crossing the Threshold: Etheric Imagination in the Post-Kantian
   Process Philosophy of Schelling and Whitehead (Yale Forum on Religion
   and Ecology). The coverage basis is upgraded from description-only to
-  third-party transcript; status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M01-P13: O Pragmatismo de John Dewey (Cassiano Terra Rodrigues and Larry Hickman, UNIVESP)
 
@@ -852,7 +840,7 @@ attach them with evidence on file.
   James in particular, and the continuing influence of Bergson's concepts of
   temporality, life, difference and novelty.
 - Relevant segment: whole roundtable, 1:21:27.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=NV41n96bRM4&current_language_code=en,
@@ -866,9 +854,7 @@ attach them with evidence on file.
   introduces another speaker as Frederic without clearly preserving his
   surname; the full participant list still rests on the host page. The
   coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per
-  the house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M01-P17: How French Philosopher Henri Bergson Helped 20th-century Biologists Get Creative About Evolution (Emily Herring, Linda Hall Library)
 
@@ -882,7 +868,7 @@ attach them with evidence on file.
   of Bergson among the biologists of his time and the relationship between science
   and philosophy, in 20th-century biology and in the present state of the humanities.
 - Relevant segment: whole talk, 1:00:02.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=FNrJbhY55yE&current_language_code=en,
@@ -895,8 +881,7 @@ attach them with evidence on file.
   ideas; the relationship between science and philosophy, with a
   question-and-answer session (The Linda Hall Library). The coverage
   basis is upgraded from description-only to third-party transcript;
-  status upgraded verified-partial to verified-video per the house
-  convention, with the no-timestamps and no-playback caveats carried.
+  STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M01-P20: Cheryl Misak Lecture, Pragmatism and the Law (Centre for Constitutional Studies)
 
@@ -911,7 +896,7 @@ attach them with evidence on file.
   by John Dewey and C.I. Lewis, drawing on the founders of pragmatism's thinking
   about norms.
 - Relevant segment: whole lecture, 1:00:34.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=C_-tE-alXI8&current_language_code=en,
@@ -924,8 +909,7 @@ attach them with evidence on file.
   authority and democracy; audience questions on contemporary legal
   theory and reform (Centre for Constitutional Studies). The coverage
   basis is upgraded from description-only to third-party transcript;
-  status upgraded verified-partial to verified-video per the house
-  convention, with the no-timestamps and no-playback caveats carried.
+  STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### AR-02: PHIL 181, Lecture 9, Virtue and Habit I (Tamar Gendler, Open Yale Courses)
 
@@ -983,7 +967,7 @@ attach them with evidence on file.
   sphere of ownness and the ego, transcendental subjectivity, self-givenness,
   habit formation, the minimal self, personalism and the ego-world relation.
 - Relevant segment: whole lecture, 0:58:29.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:04:54Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=GZNvecfQG8s&current_language_code=en,
@@ -997,9 +981,7 @@ attach them with evidence on file.
   route's page title but is not explicitly named in the retrieved
   transcript text; the speaker-identity basis remains the host page. The
   coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per
-  the house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### ST-06: Modern Stoicism course lecture (learn.modernstoicism.com)
 
@@ -1051,7 +1033,7 @@ attach them with evidence on file.
   belief, public worship, state authority and freedom of expression, and their
   relation to the First Amendment.
 - Relevant segment: whole lecture, 1:01:04.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:04:54Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=sFhG1Yt5-0E&current_language_code=en,
@@ -1065,9 +1047,7 @@ attach them with evidence on file.
   expression including limits on speech deemed seditious; comparison with
   the First Amendment and later U.S. government and court decisions (St.
   Norbert College). The coverage basis is upgraded from description-only
-  to third-party transcript; status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  to third-party transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M05-XP-04: Farghani on Wahdat al-Wujud in the Four Journeys (William C. Chittick, Columbia)
 
@@ -1118,7 +1098,7 @@ attach them with evidence on file.
   drawing on Isaiah Berlin's definitions of the two intellectual ages and arguing
   their relevance for society today.
 - Relevant segment: whole lecture, 1:28:23.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 15:05:51Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=8wbcszqoDPs&current_language_code=en,
@@ -1132,9 +1112,7 @@ attach them with evidence on file.
   The Gay Science; the tension between disruptive exceptions and shared
   morality (Yale University, Franke Lectures in the Humanities). The
   coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### SRC-M10-010: Why God and Nature Are One, Spinoza's Theory of Love Lecture 1 (Noa Lahav Ayalon, Ergo)
 
@@ -1153,7 +1131,7 @@ attach them with evidence on file.
   the Ethics' architecture of definitions, substance, attributes and modes, causa
   sui, the identity of God and nature, and Spinoza's determinism.
 - Relevant segment: whole lecture, 0:54:12.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: opened host record — the retrieved transcript text does not explicitly name the speaker).
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; evidence pass 2026-10-25): the third-party transcript route
   (https://youtubetotranscript.com/transcript?v=UpGhFvYfows&current_language_code=en,
@@ -1166,9 +1144,7 @@ attach them with evidence on file.
   says "I am Noah" during an example);
   the speaker's identity rests on the identity basis already recorded in
   this entry (the opened host record for the Ergo series), and the
-  transcript establishes coverage. Status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  transcript establishes coverage. STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### SRC-M10-011: Love as an Expansion of Self, Spinoza's Theory of Love Lecture 4 (Noa Lahav Ayalon, Ergo)
 
@@ -1202,7 +1178,7 @@ attach them with evidence on file.
   Proposition 4 and the claim that nothing can destroy itself, drawing on
   Spinoza's Dutch-scholastic context and Huygens's pendulum clocks.
 - Relevant segment: whole lecture, 1:46:43.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; evidence pass 2026-10-25): the third-party transcript route
   (https://youtubetotranscript.com/transcript?v=JfWv8sY3ERg&current_language_code=en,
@@ -1214,9 +1190,7 @@ attach them with evidence on file.
   pattern of causal interactions, connected to the science of pendulums
   and their synchronization; suicide, self-harm, human nature and how
   individuals relate to larger systems, followed by a question-and-answer
-  discussion (IU Philosophy). Status upgraded verified-partial to
-  verified-video per the house convention, with the no-timestamps and
-  no-playback caveats carried.
+  discussion (IU Philosophy). STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### PHR-01: A Romp Through Ethics for Complete Beginners, Part 3 of 7 (Marianne Talbot, Oxford)
 
@@ -1230,7 +1204,7 @@ attach them with evidence on file.
 - Content coverage: the host's description states this episode reflects on
   Aristotle's account of morality and the centrality of the virtues.
 - Relevant segment: whole episode, 1:22:24.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: opened Oxford host record — the retrieved transcript text does not name the speaker).
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; evidence pass 2026-10-25): the third-party transcript route
   (https://youtubetotranscript.com/transcript?v=AeT3zbJnT-A&current_language_code=en,
@@ -1244,9 +1218,7 @@ attach them with evidence on file.
   text does not name Marianne Talbot; the speaker's identity rests on
   the identity basis already recorded in this entry (the opened host
   record: the oembed-confirmed University of Oxford channel and the
-  series page), and the transcript establishes coverage. Status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  series page), and the transcript establishes coverage. STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### SRC-M19-ST02: How to be a Stoic (Michiel Buis, Studium Generale, Erasmus)
 
@@ -1263,7 +1235,7 @@ attach them with evidence on file.
   differences between modern and classical Stoicism, and its use in self-help,
   coaching and therapy.
 - Relevant segment: whole lecture, 1:27:35.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified (identity basis: host description and the route's page title, which names "dr. Michiel Buis" — the retrieved transcript text garbles the name).
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; evidence pass 2026-10-25; basis note revised by QC correction,
   2026-10-25): the third-party
@@ -1278,9 +1250,7 @@ attach them with evidence on file.
   Buis"; the speaker's identity rests on the identity basis already
   recorded in this entry (the opened host record naming Dr Michiel Buis,
   PhD, Erasmus School of Philosophy), and the transcript establishes
-  coverage. The upgrade cites those recorded bases. Status upgraded
-  verified-partial to verified-video per the house convention, with the
-  no-timestamps and no-playback caveats carried.
+  coverage. The upgrade cites those recorded bases. STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### SRC-M20-C01: Spinoza, Ethics, The Nature of Reality and the Relation of Mind and Body (John Russon)
 
