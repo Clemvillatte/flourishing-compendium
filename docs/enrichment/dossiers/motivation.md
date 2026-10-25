@@ -90,7 +90,7 @@ The other half of the finding is [Extrinsic aspirations](https://clemvillatte.gi
 
 The shared question: when a person is paid or praised for something they already enjoy, does the reward weaken the enjoyment? Deci, Koestner and Ryan's meta-analysis of 128 studies answered yes for several kinds of reward:
 
-> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract))
+> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10589297&rettype=abstract&retmode=text))
 
 A competing meta-analysis, Cameron, Banko and Pierce's, reached the opposite bottom line:
 
@@ -106,11 +106,7 @@ The shared question: must one need be satisfied before the next can take over as
 >
 > "That is to say, the appearance of one need usually rests on the prior satisfaction of another, more pre-potent need." ([Maslow, A Theory of Human Motivation, 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))
 
-Wahba and Bridwell's review of the studies that tested the theory found the hierarchy unconfirmed:
-
-> "A review of ten factor-analytic and three ranking studies testing Maslow's theory showed only partial support for the concept of need hierarchy."
->
-> "This literature review shows that Maslow's Need Hierarchy Theory has received little clear or consistent support from the available research findings." ([Wahba and Bridwell, 1976](https://www.sciencedirect.com/science/article/pii/0030507376900386/pdf?md5=361b33861d510006d8ff7c6c8a4a0bb2&pid=1-s2.0-0030507376900386-main.pdf))
+Wahba and Bridwell's review of the studies that tested the theory found the hierarchy unconfirmed: their review of ten factor-analytic and three ranking studies showed only partial support for the concept of need hierarchy, and they concluded that Maslow's Need Hierarchy Theory has received little clear or consistent support from the available research findings ([Wahba and Bridwell, 1976](https://www.sciencedirect.com/science/article/pii/0030507376900386/pdf?md5=361b33861d510006d8ff7c6c8a4a0bb2&pid=1-s2.0-0030507376900386-main.pdf)).
 
 The disagreement is between the theory's ordering claim and the record of its tests. The review addresses the testable propositions, the deprivation/domination and gratification/activation claims, not whether the needs themselves are real; the passages quoted do not adjudicate the later literature either way.
 

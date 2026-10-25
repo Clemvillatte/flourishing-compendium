@@ -9215,7 +9215,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper: motives that are borrowed, imposed or performative drain the very life they are meant to serve."
+          "x": "Motivation is the difference between a value held and a value acted on. The research asks what moves a person and what keeps the movement their own, and the self-determination tradition's answer has less to do with willpower than with whether the goals meet real needs. The classical worry is older and sharper, on the traditions' own accounts: motives that are borrowed, imposed or performative drain the very life they are meant to serve."
+        },
+        {
+          "t": "p",
+          "x": "I began with the ownership question: whether a motive can be mine while I am moved by it."
         },
         {
           "t": "h2",
@@ -9231,187 +9235,147 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will."
+          "x": "Willpower: self-control and weakness of will belong with the Decision-Making dossier, under akrasia. Here the concern is the sources of motives, not the strength of will."
         },
         {
           "t": "p",
-          "x": "Goals: goal-setting and goal conflict belong to the Goals dossier; this page lists only goal cards that bear on why a person pursues the goal."
+          "x": "Goals: goal-setting and goal conflict belong to the Goals dossier; I list only the goal cards that bear on why a person pursues the goal."
         },
         {
           "t": "h",
-          "x": "The map: the entries on motivation"
-        },
-        {
-          "t": "h2",
           "x": "Intrinsic, extrinsic and the self-determination family"
         },
         {
-          "t": "p",
-          "x": "[Intrinsic motivation](card:Intrinsic%20motivation): doing an activity for its inherent satisfaction rather than for a separable consequence."
+          "t": "h2",
+          "x": "What makes motivation one's own?"
         },
         {
           "t": "p",
-          "x": "[Extrinsic motivation](card:Extrinsic%20motivation): doing something for what it gets you, not for the activity itself."
+          "x": "The distinction the family runs on is [Intrinsic motivation](card:Intrinsic%20motivation), doing an activity for its inherent satisfaction rather than for a separable consequence, against [Extrinsic motivation](card:Extrinsic%20motivation), doing something for what it gets you, not for the activity itself."
         },
         {
           "t": "p",
-          "x": "[Self-determination](card:Self-determination): the claim that people do best when their motivation is their own, at the centre of self-determination theory."
+          "x": "[Self-determination](card:Self-determination) is the claim that people do best when their motivation is their own, at the centre of self-determination theory, and [Autonomy](card:Autonomy) names the self-governance at stake: acting from one's own endorsement rather than from external pressure."
         },
         {
           "t": "p",
-          "x": "[Psychological needs theory](card:Psychological%20needs%20theory): the Deci and Ryan account of the needs whose satisfaction predicts well-being: autonomy, competence and relatedness."
+          "x": "The needs behind that claim are held on [Psychological needs theory](card:Psychological%20needs%20theory), the Deci and Ryan account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, with [Distinguishing needs from wants (SDT)](card:Distinguishing%20needs%20from%20wants%20%28SDT%29) drawing the line between needs and wants that my principles rely on. [Competence motivation](card:Competence%20motivation) is Robert White's proposal for the motive behind exploration and mastery."
         },
         {
           "t": "p",
-          "x": "[Distinguishing needs from wants (SDT)](card:Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which my principles rely."
-        },
-        {
-          "t": "p",
-          "x": "[Autonomous motivation](card:Autonomous%20motivation): includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own."
-        },
-        {
-          "t": "p",
-          "x": "[Controlled motivation](card:Controlled%20motivation): motivation sourced in pressure: external demands and rewards, or internally felt guilt, anxiety and pride."
-        },
-        {
-          "t": "p",
-          "x": "[Autonomous versus controlled motivation](card:Autonomous%20versus%20controlled%20motivation): the comparison between the two halves of the self-determination theory distinction."
-        },
-        {
-          "t": "p",
-          "x": "[Identified versus introjected motivation](card:Identified%20versus%20introjected%20motivation): two ways of carrying a rule inside."
-        },
-        {
-          "t": "p",
-          "x": "[Motivation crowding theory](card:Motivation%20crowding%20theory): external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation."
-        },
-        {
-          "t": "p",
-          "x": "[Autonomy](card:Autonomy): self-governance: acting from one's own endorsement rather than from external pressure."
-        },
-        {
-          "t": "p",
-          "x": "[Competence motivation](card:Competence%20motivation): Robert White's proposal for the motive behind exploration and mastery."
+          "x": "The self-determination tradition also states where it thinks the emphasis belongs: \"that the type of motivation is generally more important than the amount in predicting life's important outcomes\" ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)). They define the two types as follows: \"Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self\" ([Deci and Ryan, 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)). The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis."
         },
         {
           "t": "h2",
+          "x": "How does a rule become an endorsed want?"
+        },
+        {
+          "t": "p",
+          "x": "[Autonomous motivation](card:Autonomous%20motivation) includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own; [Controlled motivation](card:Controlled%20motivation) is motivation sourced in pressure, external demands and rewards, or internally felt guilt, anxiety and pride. The two halves of the distinction are compared on [Autonomous versus controlled motivation](card:Autonomous%20versus%20controlled%20motivation)."
+        },
+        {
+          "t": "p",
+          "x": "[Identified versus introjected motivation](card:Identified%20versus%20introjected%20motivation) gives two ways of carrying a rule inside: introjection takes in a regulation without fully accepting it as one's own, performed to avoid guilt or anxiety or to attain pride, while identification reflects a conscious valuing of a behavioral goal or regulation, such that the action is accepted or owned as personally important. On the card's own contrast, an introjected motive behaves like an inner policeman; an identified motive behaves like a chosen project."
+        },
+        {
+          "t": "p",
+          "x": "[Motivation crowding theory](card:Motivation%20crowding%20theory) holds that external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation. The rewards debate below examines one related question."
+        },
+        {
+          "t": "h",
           "x": "Beliefs, expectations and goals"
         },
         {
-          "t": "p",
-          "x": "[Self-efficacy](card:Self-efficacy): Bandura's construct for the belief that one can execute the behaviour required to produce an outcome."
+          "t": "h2",
+          "x": "What do beliefs about the task do?"
         },
         {
           "t": "p",
-          "x": "[Expectancy theory](card:Expectancy%20theory): Vroom: motivation equals the product of expectancy that effort works and the valence of the outcome."
+          "x": "[Self-efficacy](card:Self-efficacy) is Bandura's construct for the belief that one can execute the behaviour required to produce an outcome. [Expectancy theory](card:Expectancy%20theory) is Vroom's formula, motivation equals the product of expectancy that effort works and the valence of the outcome, and [Expectancy-value theory (Eccles, Wigfield)](card:Expectancy-value%20theory%20%28Eccles%2C%20Wigfield%29) explains why people choose and persist at tasks by two beliefs, how well they expect to do and how much the task is worth to them."
         },
         {
           "t": "p",
-          "x": "[Expectancy-value theory (Eccles, Wigfield)](card:Expectancy-value%20theory%20%28Eccles%2C%20Wigfield%29): explains why people choose and persist at tasks by two beliefs: how well they expect to do, and how much the task is worth to them."
-        },
-        {
-          "t": "p",
-          "x": "[Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy goals."
-        },
-        {
-          "t": "p",
-          "x": "[Achievement motivation theory](card:Achievement%20motivation%20theory): the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence."
-        },
-        {
-          "t": "p",
-          "x": "[Acquired Needs Theory (McClelland)](card:Acquired%20Needs%20Theory%20%28McClelland%29): three motives that are learned rather than inborn: the needs for achievement, affiliation and power."
-        },
-        {
-          "t": "p",
-          "x": "[Approach versus avoidance motivation](card:Approach%20versus%20avoidance%20motivation): the valence split in the science of motivation, given its modern statement in Elliot's hierarchical model."
-        },
-        {
-          "t": "p",
-          "x": "[Self-concordant goals](card:Self-concordant%20goals): a goal is self-concordant when it is consistent with the person's developing interests and core values."
-        },
-        {
-          "t": "p",
-          "x": "[Grit](card:Grit): a trait introduced by Duckworth and colleagues in 2007, defined by effort and interest kept up over years."
+          "x": "[Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29) adds the finding that specific, difficult goals produce better performance than vague or easy goals."
         },
         {
           "t": "h2",
+          "x": "What about the direction of the motive?"
+        },
+        {
+          "t": "p",
+          "x": "[Achievement motivation theory](card:Achievement%20motivation%20theory) is the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence, and [Acquired Needs Theory (McClelland)](card:Acquired%20Needs%20Theory%20%28McClelland%29) names three motives that are learned rather than inborn, the needs for achievement, affiliation and power."
+        },
+        {
+          "t": "p",
+          "x": "[Approach versus avoidance motivation](card:Approach%20versus%20avoidance%20motivation) is the valence split in the science of motivation, given its modern statement in Elliot's hierarchical model. The goals themselves sort on ownership: a goal is [Self-concordant](card:Self-concordant%20goals) when it is consistent with the person's developing interests and core values, and [Grit](card:Grit) is a trait introduced by Duckworth and colleagues in 2007, defined by effort and interest kept up over years."
+        },
+        {
+          "t": "h",
           "x": "Needs, drives and the brain of wanting"
         },
         {
-          "t": "p",
-          "x": "[Hierarchy of Needs Theory](card:Hierarchy%20of%20Needs%20Theory): Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency."
-        },
-        {
-          "t": "p",
-          "x": "[Drive-reduction theory](card:Drive-reduction%20theory): in Hull's account, drive reduction provides reinforcement, while drive activates learned behavioural potentials into performance."
-        },
-        {
-          "t": "p",
-          "x": "[Incentive salience theory](card:Incentive%20salience%20theory): Berridge and Robinson separate two parts of reward."
-        },
-        {
-          "t": "p",
-          "x": "[Reward prediction error (Schultz)](card:Reward%20prediction%20error%20%28Schultz%29): the difference between the reward received and the reward predicted."
-        },
-        {
           "t": "h2",
+          "x": "What does wanting look like in the machinery?"
+        },
+        {
+          "t": "p",
+          "x": "[Hierarchy of Needs Theory](card:Hierarchy%20of%20Needs%20Theory) is Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency. [Drive-reduction theory](card:Drive-reduction%20theory) is Hull's account, in which drive reduction provides reinforcement while drive activates learned behavioural potentials into performance."
+        },
+        {
+          "t": "p",
+          "x": "The modern neuroscience of wanting splits reward in two: [Incentive salience theory](card:Incentive%20salience%20theory), where Berridge and Robinson separate two parts of reward, wanting and liking, and [Reward prediction error (Schultz)](card:Reward%20prediction%20error%20%28Schultz%29), the difference between the reward received and the reward predicted."
+        },
+        {
+          "t": "h",
           "x": "Interest and curiosity"
         },
         {
-          "t": "p",
-          "x": "[Curiosity](card:Curiosity): in the information-gap account, curiosity arises when a person becomes aware of a gap in their knowledge that information could fill."
-        },
-        {
-          "t": "p",
-          "x": "[Interest as motive](card:Interest%20as%20motive): Dewey: interest is not a garnish on learning but its engine."
-        },
-        {
-          "t": "p",
-          "x": "[Flow](card:Flow): the mental state of being fully immersed in an activity, with energized focus and full involvement."
-        },
-        {
-          "t": "p",
-          "x": "[Boredom](card:Boredom): the aversive experience of wanting, but being unable, to engage in satisfying activity."
-        },
-        {
           "t": "h2",
+          "x": "What is interest for?"
+        },
+        {
+          "t": "p",
+          "x": "[Curiosity](card:Curiosity), in the information-gap account, arises when a person becomes aware of a gap in their knowledge that information could fill. [Interest as motive](card:Interest%20as%20motive) is Dewey's claim that interest is not a garnish on learning but its engine."
+        },
+        {
+          "t": "p",
+          "x": "[Flow](card:Flow) is the mental state of being fully immersed in an activity, with energized focus and full involvement. [Boredom](card:Boredom) is the aversive experience of wanting, but being unable, to engage in satisfying activity."
+        },
+        {
+          "t": "h",
           "x": "What people pursue, and for whom"
         },
         {
-          "t": "p",
-          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): intrinsic goals predict well-being, as reported by Kasser and Ryan and by Deci and Ryan."
+          "t": "h2",
+          "x": "What are people actually after?"
         },
         {
           "t": "p",
-          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): in self-determination theory, goals sort into two kinds with different well-being consequences."
+          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals) is the finding that intrinsic goals predict well-being, as reported by Kasser and Ryan and by Deci and Ryan. [Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals) is the self-determination theory account of goals sorting into two kinds with different well-being consequences."
         },
         {
           "t": "p",
-          "x": "[Extrinsic aspirations](card:Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved; the correlational part holds."
-        },
-        {
-          "t": "p",
-          "x": "[Prosocial motivation](card:Prosocial%20motivation): the desire to benefit other people, as Grant and Berg define it."
-        },
-        {
-          "t": "p",
-          "x": "[Motivated reasoning](card:Motivated%20reasoning): Kunda's proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes."
-        },
-        {
-          "t": "p",
-          "x": "[Motivational interviewing](card:Motivational%20interviewing): works with, not against, a person's own motivation."
+          "x": "The other half of the finding is [Extrinsic aspirations](card:Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved; the correlational part holds."
         },
         {
           "t": "h2",
+          "x": "For whom?"
+        },
+        {
+          "t": "p",
+          "x": "[Prosocial motivation](card:Prosocial%20motivation) is the desire to benefit other people, as Grant and Berg define it. [Motivated reasoning](card:Motivated%20reasoning) is Kunda's proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes, the shadow use of motive. [Motivational interviewing](card:Motivational%20interviewing) is the practice built on working with, not against, a person's own motivation."
+        },
+        {
+          "t": "h",
           "x": "Desire"
         },
         {
-          "t": "p",
-          "x": "[Desire](card:Desire): the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it."
+          "t": "h2",
+          "x": "Can a want be wanted?"
         },
         {
           "t": "p",
-          "x": "[Second-order desires](card:Second-order%20desires): Frankfurt's term for wanting what you want."
+          "x": "[Desire](card:Desire) is the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it. [Second-order desires](card:Second-order%20desires) is Frankfurt's term for wanting what you want: wanting to have a certain desire, or wanting a certain desire to be one's will."
         },
         {
           "t": "h",
@@ -9427,38 +9391,86 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards.\" ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract))",
+          "x": "\"As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards.\" ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10589297&rettype=abstract&retmode=text))",
           "s": null
         },
         {
           "t": "p",
-          "x": "A competing meta-analysis reached the opposite bottom line:"
+          "x": "A competing meta-analysis, Cameron, Banko and Pierce's, reached the opposite bottom line:"
         },
         {
           "t": "q",
-          "x": "\"Our results suggest that in general, rewards are not harmful to motivation to perform a task.\" ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))",
+          "x": "\"Our results suggest that in general, rewards are not harmful to motivation to perform a task.\" ([Cameron, Banko & Pierce, The Behavior Analyst](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))",
           "s": null
         },
         {
           "t": "p",
-          "x": "A third paper compared the reviews and noted that \"despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions\" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)). The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that \"Rewards given for low-interest tasks enhance free-choice intrinsic motivation.\""
+          "x": "A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with the Cameron, Banko and Pierce meta-analysis adding that \"Rewards given for low-interest tasks enhance free-choice intrinsic motivation\" ([Cameron, Banko & Pierce](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))."
         },
         {
           "t": "h2",
-          "x": "Is it how much motivation, or what kind?"
+          "x": "Do needs line up in a hierarchy of prepotency?"
         },
         {
           "t": "p",
-          "x": "The shared question: does the quantity of a person's drive predict how they do, or does its source? Deci and Ryan state the self-determination answer:"
+          "x": "The shared question: must one need be satisfied before the next can take over as the organizing motive? Maslow's theory, held on [Hierarchy of Needs Theory](card:Hierarchy%20of%20Needs%20Theory), says yes:"
         },
         {
           "t": "q",
-          "x": "\"that the type of motivation is generally more important than the amount in predicting life's important outcomes.\" ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf))",
+          "x": "\"Human needs arrange themselves in hierarchies of pre-potency.\"",
           "s": null
         },
         {
           "t": "p",
-          "x": "They define the two types as follows: \"Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self.\" The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis."
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"That is to say, the appearance of one need usually rests on the prior satisfaction of another, more pre-potent need.\" ([Maslow, A Theory of Human Motivation, 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Wahba and Bridwell's review of the studies that tested the theory found the hierarchy unconfirmed: their review of ten factor-analytic and three ranking studies showed only partial support for the concept of need hierarchy, and they concluded that Maslow's Need Hierarchy Theory has received little clear or consistent support from the available research findings ([Wahba and Bridwell, 1976](https://www.sciencedirect.com/science/article/pii/0030507376900386/pdf?md5=361b33861d510006d8ff7c6c8a4a0bb2&pid=1-s2.0-0030507376900386-main.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement is between the theory's ordering claim and the record of its tests. The review addresses the testable propositions, the deprivation/domination and gratification/activation claims, not whether the needs themselves are real; the passages quoted do not adjudicate the later literature either way."
+        },
+        {
+          "t": "h2",
+          "x": "Can reason alone move a person to act?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a person acts, does a conclusion of reasoning supply the push, or does the push always come from something felt? Hume denied that reason alone does:"
+        },
+        {
+          "t": "q",
+          "x": "\"I shall endeavour to prove first, that reason alone can never be a motive to any action of the will; and secondly, that it can never oppose passion in the direction of the will.\" ([Hume, A Treatise of Human Nature, Book II, Part III, Section III](https://www.gutenberg.org/cache/epub/4705/pg4705.txt))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.\" ([Hume, A Treatise of Human Nature, Book II, Part III, Section III](https://www.gutenberg.org/cache/epub/4705/pg4705.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Kant, in the first section of the Groundwork, describes an action whose worth lies in the principle behind it and not in the object wanted:"
+        },
+        {
+          "t": "q",
+          "x": "\"an action done from duty derives its moral worth, not from the purpose which is to be attained by it, but from the maxim by which it is determined, and therefore does not depend on the realization of the object of the action, but merely on the principle of volition by which the action has taken place, without regard to any object of desire.\" ([Kant, Fundamental Principles of the Metaphysic of Morals, Section I, Abbott translation](https://www.gutenberg.org/cache/epub/5682/pg5682.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Kant also anticipates the Humean reply that a feeling must be doing the work. His note says \"although respect is a feeling, it is not a feeling received through influence, but is self-wrought by a rational concept\" (same source). So the dispute is narrower than the headlines make it. Hume says no conclusion of reasoning moves the will unless a passion is present, and Kant says that the will can be determined by the thought of a law, while granting that a feeling of respect comes with it and arises from the thought. I leave open whether a feeling produced by a rational concept counts as the passion Hume requires."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that the two descriptions can be reconciled on the facts of motivation, since Kant's respect is a feeling in Hume's sense, and that the live disagreement is over the source of the feeling and over what makes an act praiseworthy. Limits: I read these passages in English translations, I did not open the secondary literature on Hume's motivational claim or on Kant's incentive of respect, and neither author wrote about motivation in the psychologist's sense of drive, goal pursuit or reward."
         },
         {
           "t": "h",
@@ -9506,7 +9518,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Retention",
-          "x": "Retention is what people keep because it works for them. A reader who keeps the monthly reasons check, or the habit of asking whether a want is also a like, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+          "x": "What I would retain from this theme is the ownership check itself: whose reasons a goal rests on, and whether a want is also a like. What stays is a matter of fit between the practice and the life it enters."
         },
         {
           "t": "h",
