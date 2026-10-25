@@ -3572,6 +3572,1270 @@ window.fcDossiersData = {
       "featured": true
     },
     {
+      "id": "wisdom",
+      "title": "Wisdom",
+      "question": "What is wisdom doing when it judges, and can it be cultivated or only matured?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wisdom is what everyone wants to be credited with, and its look-alikes are everywhere: cleverness, accumulated years, confident opinion. The classical accounts make it a capacity of judgment, seeing what is best in the particular case, and the research that tries to measure it mostly measures its neighbours. Whether wisdom can be cultivated or only matured is the open question, and the practices cluster around the answer."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- Judgement and insight: held here under the map's judgement and insight groups; the closest anchors are [Reflective thinking](card:Reflective%20thinking) and [Insight research](card:Insight%20research). - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](card:Practical%20wisdom) and [Phronesis](card:Phronesis). - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on wisdom"
+        },
+        {
+          "t": "h2",
+          "x": "What wisdom is"
+        },
+        {
+          "t": "p",
+          "x": "[Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind; the Berlin paradigm treats it as expertise in the fundamental pragmatics of life, and the wise-reasoning programme as metacognitive capacities people apply to social conflict."
+        },
+        {
+          "t": "p",
+          "x": "[Phronesis](card:Phronesis): Aristotle's virtue of practical wisdom: the capacity to deliberate well about what is good for oneself and for living well in general."
+        },
+        {
+          "t": "p",
+          "x": "[Practical wisdom](card:Practical%20wisdom): Aristotle's Book VI account, set beside Confucius: practical wisdom is not knowledge of general principles only, because action is concerned with particular details."
+        },
+        {
+          "t": "p",
+          "x": "[Sophia](card:Sophia): Aristotle's theoretical wisdom, a union of intuitive reason and scientific knowledge of the highest objects."
+        },
+        {
+          "t": "p",
+          "x": "[Prudence](card:Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue."
+        },
+        {
+          "t": "p",
+          "x": "[Prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action."
+        },
+        {
+          "t": "p",
+          "x": "[Wisdom theory Berlin paradigm](card:Wisdom%20theory%20Berlin%20paradigm): Baltes's account of wisdom as expert knowledge about the fundamental pragmatics of life: life planning, management and review."
+        },
+        {
+          "t": "p",
+          "x": "[Wise reasoning](card:Wise%20reasoning): Grossmann's programme: wisdom as a set of reasoning strategies people use, or fail to use, situation by situation, and not as a personality type."
+        },
+        {
+          "t": "p",
+          "x": "[Socioemotional wisdom](card:Socioemotional%20wisdom): the strength Erikson places at the end of the life cycle, won from the crisis of integrity versus despair."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing-how versus knowing-that](card:Knowing-how%20versus%20knowing-that): Ryle's contrast between knowledge that shows in ability and knowledge that something is the case."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing-how](card:Knowing-how): the kind of knowledge that shows in ability, in Ryle's The Concept of Mind (1949)."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing-that](card:Knowing-that): the propositional side of Ryle's contrast, knowledge that can be true or false, stated and imparted."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing by acquaintance](card:Knowing%20by%20acquaintance): direct knowledge by standing in the experience of a thing, not by holding a description of it."
+        },
+        {
+          "t": "h2",
+          "x": "Knowing the limits of what you know"
+        },
+        {
+          "t": "p",
+          "x": "[Socratic wisdom](card:Socratic%20wisdom): the wisdom Plato's Apology gives Socrates after the Delphic oracle: knowing that you do not know."
+        },
+        {
+          "t": "p",
+          "x": "[Socratic ignorance](card:Socratic%20ignorance): Socrates's profession at his trial that he does not know the things that matter most and, unlike others, does not think he does."
+        },
+        {
+          "t": "p",
+          "x": "[Intellectual humility](card:Intellectual%20humility): the recognition that one's beliefs might be wrong, in Leary and colleagues' 2017 paper."
+        },
+        {
+          "t": "p",
+          "x": "[Epistemic humility](card:Epistemic%20humility): the disposition psychology usually calls intellectual humility: treating one's own beliefs as possibly wrong."
+        },
+        {
+          "t": "p",
+          "x": "[Humility](card:Humility): in Tangney's review, not self-deprecation but an accurate assessment of one's characteristics."
+        },
+        {
+          "t": "p",
+          "x": "[Expressed humility](card:Expressed%20humility): humility as other people can see it and rate it, in organizations (Owens, Johnson and Mitchell)."
+        },
+        {
+          "t": "p",
+          "x": "[Relational humility](card:Relational%20humility): Davis and colleagues' model of humility as a judgment other people make about someone."
+        },
+        {
+          "t": "p",
+          "x": "[Leader humility](card:Leader%20humility): expressed humility improves team performance and psychological safety (Owens and Hekman, 2016)."
+        },
+        {
+          "t": "p",
+          "x": "[Openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson: the key challenge for aspiring experts is to avoid the arrested development associated with automaticity."
+        },
+        {
+          "t": "p",
+          "x": "[The veil of ignorance](card:The%20veil%20of%20ignorance): Rawls's device in A Theory of Justice for a fair choice of first principles: the parties sit in an original position, stripped of knowledge of their own situation."
+        },
+        {
+          "t": "h2",
+          "x": "Wisdom in other traditions"
+        },
+        {
+          "t": "p",
+          "x": "[The portrait of the sage](card:The%20portrait%20of%20the%20sage): the Bhagavad Gita's chapter-twelve description of the person dear to Krishna, as a working checklist of dispositions."
+        },
+        {
+          "t": "p",
+          "x": "[Sameness of the sage](card:Sameness%20of%20the%20sage): Zhuangzi's Inner Chapters: the sage who sees past the quarrels of schools, each denying what the others affirm."
+        },
+        {
+          "t": "p",
+          "x": "[Timing as wisdom](card:Timing%20as%20wisdom): Daodejing 64 on when to act: at rest things are easy to maintain, and situations not yet emerged are easy to plan for."
+        },
+        {
+          "t": "p",
+          "x": "[Zhi zu (knowing sufficiency)](card:Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, from Daodejing 46."
+        },
+        {
+          "t": "p",
+          "x": "[Klesha transmuted into wisdom](card:Klesha%20transmuted%20into%20wisdom): the Tibetan Buddhist teaching that the afflictive emotions, the five poisons, can be turned into forms of wisdom."
+        },
+        {
+          "t": "p",
+          "x": "[Vipassana (insight)](card:Vipassana%20%28insight%29): clear-seeing; for Thanissaro Bhikkhu a quality of mind, not a technique."
+        },
+        {
+          "t": "p",
+          "x": "[Wise speech criteria](card:Wise%20speech%20criteria): the Buddha's test in MN 58 for what is worth saying: whether it is true, beneficial and pleasing."
+        },
+        {
+          "t": "p",
+          "x": "[Judging by where one rests](card:Judging%20by%20where%20one%20rests): Confucius, Analects 2.10: see what a man does, mark his motives, examine in what things he rests."
+        },
+        {
+          "t": "p",
+          "x": "[The wise man's indifference to reputation](card:The%20wise%20man%27s%20indifference%20to%20reputation): the Stoic claim that what others say is not among the things worth governing a life by."
+        },
+        {
+          "t": "p",
+          "x": "[Flexibility as virtue](card:Flexibility%20as%20virtue): the compendium's label for two aphorisms in Nietzsche's The Gay Science."
+        },
+        {
+          "t": "p",
+          "x": "[Discernment of spirits](card:Discernment%20of%20spirits): Ignatius's practice of reading one's inner movements to tell which lead toward the good."
+        },
+        {
+          "t": "h2",
+          "x": "Judgement, deliberation and insight"
+        },
+        {
+          "t": "p",
+          "x": "[Reflective thinking](card:Reflective%20thinking): Dewey's How We Think: belief whose grounds are deliberately sought and examined."
+        },
+        {
+          "t": "p",
+          "x": "[Experience plus reflection](card:Experience%20plus%20reflection): the compendium's label for Dewey's pairing: each is incomplete without the other."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey in Human Nature and Conduct: when action is blocked, competing habits and impulses are tried out in imagination before overt action."
+        },
+        {
+          "t": "p",
+          "x": "[Immediate and reflective value](card:Immediate%20and%20reflective%20value): Dewey's distinction between value that simply occurs and value that survives inquiry."
+        },
+        {
+          "t": "p",
+          "x": "[Judgment adds the harm](card:Judgment%20adds%20the%20harm): the Stoic claim, from Enchiridion 5, that people are disturbed by their opinions about events, not by the events."
+        },
+        {
+          "t": "p",
+          "x": "[Emotions as judgments](card:Emotions%20as%20judgments): the cognitivist theory, following the Stoics, that an emotion is a judgment: anger at someone is the judgment that one has been wronged by them."
+        },
+        {
+          "t": "p",
+          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early."
+        },
+        {
+          "t": "p",
+          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is something to weigh, because it travels with fear."
+        },
+        {
+          "t": "p",
+          "x": "[Perspective-taking](card:Perspective-taking): the effort to see a situation from another person's point of view; the card treats it as a trainable skill and weighs it against Eyal, Steffel and Epley's study."
+        },
+        {
+          "t": "p",
+          "x": "[Perspective-getting](card:Perspective-getting): obtaining another person's perspective directly by asking and listening."
+        },
+        {
+          "t": "p",
+          "x": "[Insight research](card:Insight%20research): Kounios and Beeman's review: insight is a sudden reinterpretation that produces a nonobvious, nondominant interpretation."
+        },
+        {
+          "t": "p",
+          "x": "[Insight problem-solving](card:Insight%20problem-solving): solving by sudden reinterpretation instead of step-by-step search."
+        },
+        {
+          "t": "p",
+          "x": "[The wisdom of crowds](card:The%20wisdom%20of%20crowds): the finding that a group's aggregated judgment can beat most of its individual members."
+        },
+        {
+          "t": "h2",
+          "x": "Virtue and character"
+        },
+        {
+          "t": "p",
+          "x": "[Virtue](card:Virtue): excellence of character, a stable disposition to feel, choose and act well, acquired through habituation."
+        },
+        {
+          "t": "p",
+          "x": "[Cardinal virtues](card:Cardinal%20virtues): the four hinge virtues of the classical and scholastic tradition: prudence, justice, fortitude and temperance."
+        },
+        {
+          "t": "p",
+          "x": "[The doctrine of the mean](card:The%20doctrine%20of%20the%20mean): the claim, shared by Aristotle and the Confucian tradition, that virtue aims at the intermediate between excess and deficiency."
+        },
+        {
+          "t": "p",
+          "x": "[The catalogue of virtues](card:The%20catalogue%20of%20virtues): Aristotle's table in Nicomachean Ethics II.7 of the character virtues as means between two vices."
+        },
+        {
+          "t": "p",
+          "x": "[The unity of the virtues](card:The%20unity%20of%20the%20virtues): the thesis, from Plato's Protagoras and reworked by Aristotle, that the virtues come together and are not separate talents."
+        },
+        {
+          "t": "p",
+          "x": "[Natural virtue](card:Natural%20virtue): Aristotle's name for dispositions people seem to have from birth, set against virtue in the strict sense."
+        },
+        {
+          "t": "h2",
+          "x": "How wisdom is built"
+        },
+        {
+          "t": "p",
+          "x": "[Virtue development research](card:Virtue%20development%20research): how stable virtuous traits are acquired; Sanderse on the neo-Aristotelian mechanism of habituation."
+        },
+        {
+          "t": "p",
+          "x": "[The rehearsal of virtue](card:The%20rehearsal%20of%20virtue): how Stoic practice turns understanding into character by running it through action, from Seneca's Letter 94."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberate practice](card:Deliberate%20practice): Ericsson's term for activities designed to improve current performance, with specific goals and immediate feedback."
+        },
+        {
+          "t": "p",
+          "x": "[Reflective practice](card:Reflective%20practice): the ability to reflect on one's thoughts, actions, decisions and assumptions in order to improve one's own practice and judgment."
+        },
+        {
+          "t": "p",
+          "x": "[Journaling as self-reflection](card:Journaling%20as%20self-reflection): the expressive-writing tradition Pennebaker began, with a meta-analysis of 146 randomized studies."
+        },
+        {
+          "t": "p",
+          "x": "[Death reflection](card:Death%20reflection): the construct distinguishing a vivid contemplation of one's own death from abstract mortality salience."
+        },
+        {
+          "t": "p",
+          "x": "[Future time perspective](card:Future%20time%20perspective): the habit of orienting attention toward the future, from Zimbardo and Boyd's 1999 paper."
+        },
+        {
+          "t": "p",
+          "x": "[Designing for virtue](card:Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour."
+        },
+        {
+          "t": "h2",
+          "x": "The thinkers"
+        },
+        {
+          "t": "p",
+          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle): Greek philosopher and author of the Nicomachean Ethics, whose Book VI holds the standard account of phronesis and sophia."
+        },
+        {
+          "t": "p",
+          "x": "[Socrates](card:T011%20%E2%80%94%20Socrates): the philosopher whose profession of ignorance at his trial gave the West its best-known picture of wisdom as awareness of limits."
+        },
+        {
+          "t": "p",
+          "x": "[Dewey](card:T005%20%E2%80%94%20Dewey%2C%20John): the pragmatist whose accounts of reflective thinking and deliberation recur in the judgement group."
+        },
+        {
+          "t": "h2",
+          "x": "The stories"
+        },
+        {
+          "t": "p",
+          "x": "[152. Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle's verdict that no one is wiser than Socrates, and what he made of it."
+        },
+        {
+          "t": "p",
+          "x": "[158. Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant, and Solomon's order to divide the child reveals which of them is the mother; the canonical case of judgement."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is there one wisdom, or two?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is the wisdom of the contemplative the same excellence as the wisdom of the person who acts well in a hard situation? Aristotle splits them. Sophia knows the highest and unchanging things:"
+        },
+        {
+          "t": "q",
+          "x": "\"Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion.\" ([Aristotle, Nicomachean Ethics VI.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Practical wisdom works on a different object, and Aristotle uses a plain contrast to say so:"
+        },
+        {
+          "t": "q",
+          "x": "\"any one would say that what is wise is the same but what is practically wise is different\" ([Aristotle, Nicomachean Ethics VI.7](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Modern psychology sides with the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The classical contemplative ideal of wisdom, knowledge of the highest things, drops out of the research definition. What stays open is whether a life needs both kinds, and whether the contemplative kind steadies the practical one or competes with it for a person's time. The sources above do not settle it."
+        },
+        {
+          "t": "h2",
+          "x": "Can a clever person be wise without being good?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is wisdom a skill for reaching goals, or does it include choosing good goals? Aristotle separates wisdom from mere skill at getting what one aims at:"
+        },
+        {
+          "t": "q",
+          "x": "\"Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart.\" ([Aristotle, Nicomachean Ethics VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He then ties the two together in both directions:"
+        },
+        {
+          "t": "q",
+          "x": "\"It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue.\" ([Aristotle, Nicomachean Ethics VI.13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Baltes and Staudinger keep the link in their own phrase: wisdom as a metaheuristic \"that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. Grossmann's account of wise thinking, in contrast, names aspects of thinking: \"intellectual humility, recognition of uncertainty and change\" ([Grossmann 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked. Whether a person who reasons that way but chooses badly would count as wise is a question these abstracts leave open."
+        },
+        {
+          "t": "h2",
+          "x": "Is wisdom something you have, or knowing that you lack it?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does a wise person hold a large store of knowledge, or hold a particular stance toward what they know? Socrates puts the stance first. In Jowett's rendering of the oracle's meaning:"
+        },
+        {
+          "t": "q",
+          "x": "\"He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing.\" ([Plato, Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Daodejing says something close, and names the opposite error a disease:"
+        },
+        {
+          "t": "q",
+          "x": "\"To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.\" ([Laozi, Daodejing 71, Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Berlin paradigm builds uncertainty into the definition as one of five criteria: \"recognition and management of uncertainty\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The traditions and the research agree that knowing one's limits belongs to wisdom. They differ on weight. For Socrates it is close to the whole of human wisdom; for the expertise model it is one criterion beside rich factual and procedural knowledge."
+        },
+        {
+          "t": "h2",
+          "x": "Is wisdom a trait, or something a situation draws out?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when we call a person wise, are we describing them or their circumstances? The Berlin tradition measured it as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:"
+        },
+        {
+          "t": "q",
+          "x": "\"Empirical evidence indicates that people's ability to think wisely varies dramatically across experiential contexts that they encounter over the life span. Moreover, wise thinking varies from one situation to another, with self-focused contexts inhibiting wise thinking.\" ([Grossmann, Wisdom in Context, Perspectives on Psychological Science 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A specific finding: across three experiments (N = 693), participants reasoned more wisely about another person's problems than their own, and self-distancing removed the gap. The authors add that \"contrary to the adage 'with age comes wisdom,' our findings suggest that there are no age differences in wise reasoning about personal conflicts\" ([Grossmann and Kross, Psychological Science 2014, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400)): Secondary source; quoted passage checked. That result concerns reasoning about personal conflicts, in the measures used, and does not show that life experience adds nothing to wisdom in general. What it does show is that the same person reasons differently in different positions, which is a reason to treat wisdom as partly a matter of where one stands when one thinks."
+        },
+        {
+          "t": "h2",
+          "x": "Can wisdom be taught, or only grown into?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: if wisdom matters, what builds it? The neo-Aristotelian answer starts with character:"
+        },
+        {
+          "t": "q",
+          "x": "\"Full virtue and practical wisdom comprise the end of neo-Aristotelian moral development, but wisdom cannot be cultivated straight away through arguments and teaching.\" ([Sanderse, Journal of Moral Education, abstract](https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The abstract goes on to say wisdom \"is integrated with, and builds upon, habituation\". The experimental answer is that a brief, structured practice can raise wise reasoning. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" compared with before the intervention ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)): Secondary source; quoted passage checked. In the earlier two-experiment study, cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, Journal of Experimental Psychology: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/)): Secondary source; quoted passage checked. The two claims are about different things. One concerns the formation of a person's character over years; the other concerns scores on a reasoning measure after a short practice. Neither abstract says the other is wrong."
+        },
+        {
+          "t": "h2",
+          "x": "Does wisdom follow rules, or does it set them?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: could wisdom be written down as a procedure? Aristotle defines virtue by a standard that involves the wise person:"
+        },
+        {
+          "t": "q",
+          "x": "\"Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it.\" ([Aristotle, Nicomachean Ethics II.6](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The definition leans on the person of practical wisdom to say what the mean is, so it cannot serve as a rule applied from outside. In Book VI he adds that wisdom is not a craft: \"Plainly, then, practical wisdom is a virtue and not an art\" ([Aristotle, Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked. Readers sometimes treat the circle in the definition as a flaw. It can also be read as the point: judgment of this kind has no procedure behind it that could stand in for it. How far that is true, and how much of practical judgment can be supported by checklists and prompts, is open in the sources held here."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the position from which a problem is seen. The look-alikes of wisdom share a shape: cleverness aimed at a bad mark, confident opinion with no sense of its limits, and reasoning that gets worse exactly when the stakes are personal. The adaptive moves are to change viewpoint, slow down, ask, and look back at what happened."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Wise-reasoning prompts](card:K260%20%E2%80%94%20Wise-reasoning%20prompts): four questions for a troubling situation: how it could unfold, what the perspectives are, how your own interests might bias the view, what a wise friend would advise."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Self-distanced reflection](card:K261%20%E2%80%94%20Self-distanced%20reflection): write about a difficult situation in the third person."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Perspective-taking](card:K131%20%E2%80%94%20Perspective-taking): step into another position and see what the others conceal."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Perspective-getting](card:K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Deliberation timeout](card:K264%20%E2%80%94%20Deliberation%20timeout): a mandatory wait of one to three days on decisions above a set threshold."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): a one-week three-column log separating what appeared, what you judged, and what you did."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, ask what you intended, what happened, where the gap came from, and what you would do differently."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): for one virtue, track the excess and the deficiency and rate where each situation landed."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[The unity-of-virtue drill](card:K256%20%E2%80%94%20The%20unity-of-virtue%20drill): take a decision from this week and ask whether expressing one virtue required suppressing another."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Role-conflict deliberation](card:K283%20%E2%80%94%20Role-conflict%20deliberation): when two roles conflict, write down what each demands and ask what a person of practical wisdom would do."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[Professional phronesis](card:K360%20%E2%80%94%20Professional%20phronesis): for a recurring decision, ask when following the rule would produce a worse outcome than using judgement."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[The deliberative practice](card:K363%20%E2%80%94%20The%20deliberative%20practice): in a group decision, hear every voice before the verdict."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): one sentence each evening on the virtue you practised and how."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[Deliberate practice](card:K179%20%E2%80%94%20Deliberate%20practice): structured practice with a clear goal and immediate feedback."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): review the life in chapters, noting turning points and what each taught."
+        },
+        {
+          "t": "p",
+          "x": "The evidence limits are uneven across the list. The life review (K232) borrows a method tested mostly with older adults and guided by trained facilitators, and its chapter layout is an adaptation. The distancing practices (K261, K260) lean on the experiments quoted above; the prompts in K260 are, by the card's own note, editorial questions informed by the research and not the instrument itself; the professional and role-conflict exercises are proposals and not tested protocols. Each card carries its own evidence note, and those notes are worth reading before relying on any of them."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Knowing the limits of what you know"
+        },
+        {
+          "t": "p",
+          "x": "[ST152 — Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle at Delphi says no one is wiser than Socrates; he spends years questioning politicians, poets and craftsmen, and finds each believes they know what they do not."
+        },
+        {
+          "t": "p",
+          "x": "[ST378 — Wang Ni Says How Would I Know That Three Times](card:ST378%20%E2%80%94%20Wang%20Ni%20Says%20How%20Would%20I%20Know%20That%20Three%20Times): asked whether he knows what everyone agrees on, Wang Ni answers \"How would I know that?\"; asked whether he then knows nothing at all, he gives the same reply."
+        },
+        {
+          "t": "p",
+          "x": "[ST261 — Nan-in Overflows the Cup](card:ST261%20%E2%80%94%20Nan-in%20Overflows%20the%20Cup): a professor visits Nan-in to learn about Zen, and the master keeps pouring tea until the cup overflows: like this cup, you are full of your own opinions."
+        },
+        {
+          "t": "p",
+          "x": "[ST370 — The Blind Men and the Elephant](card:ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): people blind from birth are shown different parts of an elephant, each group describes the whole animal from its part, and the conflicting descriptions end in a fistfight."
+        },
+        {
+          "t": "h2",
+          "x": "Judging the particular case"
+        },
+        {
+          "t": "p",
+          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
+        },
+        {
+          "t": "p",
+          "x": "[ST157 — The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time."
+        },
+        {
+          "t": "p",
+          "x": "[ST156 — The Navigator Reads the Sea](card:ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea): the practically wise person is like a navigator who cannot control the wind or the sea but reads the conditions, adjusts the sails and reaches port anyway."
+        },
+        {
+          "t": "p",
+          "x": "[ST153 — Aristotle's Craftsman](card:ST153%20%E2%80%94%20Aristotle%27s%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts."
+        },
+        {
+          "t": "p",
+          "x": "[ST024 — Wheelwright Pian Chides the Duke](card:ST024%20%E2%80%94%20Wheelwright%20Pian%20Chides%20the%20Duke): Wheelwright Pian tells Duke Huan that he is reading the dregs of dead men: the pace of the chisel, neither too slow nor too fast, cannot be put into words or taught to a son."
+        },
+        {
+          "t": "h2",
+          "x": "Wisdom and a whole life"
+        },
+        {
+          "t": "p",
+          "x": "[ST143 — Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus shows Solon his treasury and asks who is the happiest of men; Solon names an Athenian who died fighting for his city and concludes that no one should be called happy until he is dead."
+        },
+        {
+          "t": "p",
+          "x": "[ST141 — Socrates Refuses to Escape the Question](card:ST141%20%E2%80%94%20Socrates%20Refuses%20to%20Escape%20the%20Question): offered an escape from prison, Socrates refuses it: one should never do injustice, not even in return for injustice."
+        },
+        {
+          "t": "p",
+          "x": "[ST147 — Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): the young Hercules is visited by two women, one offering the easy road of pleasure now, the other the steep road of toil and lasting deeds, and he chooses the second."
+        },
+        {
+          "t": "p",
+          "x": "[ST172 — Thales Falls in the Well](card:ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales falls into a well while watching the stars and a servant girl laughs at him for being so eager to know the heavens that he cannot see what is at his feet."
+        }
+      ],
+      "group": "flourishing",
+      "status": "published",
+      "art": "assets/dossier-art/wisdom.jpg",
+      "featured": true
+    },
+    {
+      "id": "lifes-purpose",
+      "title": "Life's Purpose",
+      "question": "What is a life for, and where does a sense of purpose come from?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and I hold the difference on its own cards."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](card:Existential%20meaning) and [Meaning-making](card:Meaning-making)."
+        },
+        {
+          "t": "p",
+          "x": "Purpose: the aim itself; [Purpose](card:Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](card:PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction)."
+        },
+        {
+          "t": "p",
+          "x": "Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](card:Calling%20orientation) and [Vocation as calling](card:Vocation%20as%20calling)."
+        },
+        {
+          "t": "p",
+          "x": "Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier."
+        },
+        {
+          "t": "p",
+          "x": "Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](card:Vital%20engagement) the bridge card named here."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on purpose and meaning"
+        },
+        {
+          "t": "h2",
+          "x": "What a purpose is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[Purpose](card:Purpose): an aim or reason for carrying on; Frankl's camp account makes it the thing that lets a person bear almost any how, and the entry ties it to Aristotle's final cause in a life."
+        },
+        {
+          "t": "p",
+          "x": "[Meaning](card:Meaning): the sense that life is about something, with purpose, coherence and mattering as its working parts; the traditions converge on meaning as made through work, love, and the stance taken toward suffering."
+        },
+        {
+          "t": "p",
+          "x": "[Existential meaning](card:Existential%20meaning): Michael Steger's framework for meaning in life, built on two pillars: comprehension, the ability to find patterns and significance in one's life, and purpose, long-term goals one is committed to."
+        },
+        {
+          "t": "p",
+          "x": "The comprehension pillar in Steger's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors.\" ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120?redirectedFrom=fulltext))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Mattering](card:Mattering) and [Existential mattering](card:Existential%20mattering): the sense that one's existence makes a difference, often treated as a domain distinct from purpose and coherence in the meaning-in-life literature; George and Park describe it as an entity's sense of having value to the world."
+        },
+        {
+          "t": "p",
+          "x": "[The will to meaning](card:The%20will%20to%20meaning): Frankl's term for the primary motivational force, set against the pleasure principle of Freud and the striving for superiority of Adler."
+        },
+        {
+          "t": "p",
+          "x": "[The search for meaning](card:The%20search%20for%20meaning): the drive itself, with Frankl's three channels for finding what it seeks: creating a work or doing a deed, experiencing something or encountering someone, and the attitude taken toward unavoidable suffering."
+        },
+        {
+          "t": "p",
+          "x": "[The meaning of life](card:The%20meaning%20of%20life): Frankl's reversal of the question: life questions us, and we answer with our conduct rather than with talk and meditation."
+        },
+        {
+          "t": "p",
+          "x": "[Logotherapy](card:Logotherapy): Frankl's Third Viennese School of Psychotherapy, a clinical method and a theory of motivation at once; its technique for anticipatory anxiety is paradoxical intention."
+        },
+        {
+          "t": "p",
+          "x": "[Noogenic neurosis](card:Noogenic%20neurosis): Frankl's term for distress that starts in the moral and existential spheres: guilt, grief, despair, demoralisation, and boredom without purpose."
+        },
+        {
+          "t": "p",
+          "x": "[Attitudinal values](card:Attitudinal%20values): Frankl's name for the stance taken toward unavoidable suffering, the third way meaning is found; the other two, creative values and experiential values, run through work and love."
+        },
+        {
+          "t": "p",
+          "x": "Frankl's own statement of the motivational claim:"
+        },
+        {
+          "t": "q",
+          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "And of the reversal at the centre of the book:"
+        },
+        {
+          "t": "q",
+          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The camp passage behind the why-to-live motto, in Frankl's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Nicomachean Ethics grounds the whole tradition in one claim about what the good is:"
+        },
+        {
+          "t": "q",
+          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Frankl's reversal of the question is stated in the same terms:"
+        },
+        {
+          "t": "q",
+          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The three routes: work, love, and the stance toward suffering"
+        },
+        {
+          "t": "p",
+          "x": "Frankl's own list of the routes:"
+        },
+        {
+          "t": "q",
+          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[The meaning of suffering](card:The%20meaning%20of%20suffering): what survives even in the camps: the freedom of attitude, through which a meaning holds to the last moment."
+        },
+        {
+          "t": "q",
+          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Tragic optimism](card:Tragic%20optimism): Frankl's term for remaining optimistic in spite of the tragic triad of pain, guilt and death."
+        },
+        {
+          "t": "q",
+          "x": "\"it means that one is, and remains, optimistic in spite of the \\\"tragic triad,\\\" as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death.\" ([Frankl, \"Tragic Optimism\", lecture excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Post-traumatic growth](card:Post-traumatic%20growth): the psychological research successor to Frankl's claim, tied to the perseverance and exploration of novel environments he named as the core of trauma's best possibility."
+        },
+        {
+          "t": "p",
+          "x": "[Meaning-centred therapy](card:Meaning-centred%20therapy): Breitbart and colleagues' short-term group treatment for people with advanced cancer, rooted in Frankl's writings, built to sustain or enhance a sense of meaning, peace and purpose near the end of life."
+        },
+        {
+          "t": "h2",
+          "x": "Work, calling and engagement"
+        },
+        {
+          "t": "p",
+          "x": "[Calling orientation](card:Calling%20orientation): Wrzesniewski, McCauley, Rozin and Schwartz's third orientation to work, alongside the Job and the Career orientations; in their study of 196 employees across occupations, people were unambiguous in seeing their work primarily in one of the three ways."
+        },
+        {
+          "t": "p",
+          "x": "[Vocation as calling](card:Vocation%20as%20calling): Weber's historical account of the word Beruf: a task set by God, whose Reformation valuation of worldly duty first gave everyday work a religious significance."
+        },
+        {
+          "t": "p",
+          "x": "Weber's own lines:"
+        },
+        {
+          "t": "q",
+          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Vital engagement](card:Vital%20engagement): Nakamura and Csikszentmihalyi's compound of a good life: absorption plus significance; the felt connection between self and activity that carries both flow and meaning."
+        },
+        {
+          "t": "p",
+          "x": "[Purpose-linked practice](card:Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents and young adults to persistence on boring tasks that matter."
+        },
+        {
+          "t": "p",
+          "x": "The research line's own definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP, p. 560](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Right livelihood](card:Right%20livelihood): the Eightfold Path's work precept in its economic form, the principle of receiving what is necessary without harm and without taking more than the way."
+        },
+        {
+          "t": "h2",
+          "x": "Purpose and goals"
+        },
+        {
+          "t": "p",
+          "x": "The research tradition defines purpose in the vocabulary of goals:"
+        },
+        {
+          "t": "q",
+          "x": "\"Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed.\" ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Psychological well-being](card:Psychological%20well-being): Ryff's theory-guided measures of positive functioning, with purpose in life as one of the six dimensions alongside self-acceptance, positive relations, autonomy, environmental mastery and personal growth."
+        },
+        {
+          "t": "p",
+          "x": "[Self-concordant goals](card:Self-concordant%20goals): goals consistent with a person's developing interests and core values; the self-concordance research finds they are pursued with more sustained effort, more often attained, and linked to greater well-being once attained."
+        },
+        {
+          "t": "p",
+          "x": "[Values-concordant goals](card:Values-concordant%20goals): the same research line applied to goals aligned with the values a person actually holds."
+        },
+        {
+          "t": "p",
+          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): the distinction between goals whose pursuit satisfies basic psychological needs directly and goals whose value depends on other people's reactions, anchored in Kasser and Ryan's classification."
+        },
+        {
+          "t": "p",
+          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): the intrinsic aspirations of affiliation, personal growth and community contribution, set against the extrinsic aspirations of wealth, fame and image."
+        },
+        {
+          "t": "p",
+          "x": "[Goal disengagement](card:Goal%20disengagement): Wrosch's goal adjustment capacity, withdrawing effort and commitment from a goal that cannot be reached; the research links the capacity to well-being and health."
+        },
+        {
+          "t": "p",
+          "x": "[Small steps, large vision](card:Small%20steps%2C%20large%20vision): Weick's small wins, a series of wins at small but significant tasks revealing a pattern that attracts allies and lowers resistance to what comes next."
+        },
+        {
+          "t": "h2",
+          "x": "Meaning made rather than found"
+        },
+        {
+          "t": "p",
+          "x": "[Meaning-making](card:Meaning-making): Crystal Park's research tradition: when events violate what people believe and want, they revise the event's meaning or the global meaning it violated until the gap closes; the model works at two levels, global and situational."
+        },
+        {
+          "t": "p",
+          "x": "The model in Park's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Life story model](card:Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole."
+        },
+        {
+          "t": "p",
+          "x": "[The narrative fallacy](card:The%20narrative%20fallacy): the counterpoint I hold against the story cluster: the predictable tendency to read a coherent story into a linked series of acts, which predicts too many things about what the story will be."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative as meaning-making](card:Narrative%20as%20meaning-making): Ricoeur's claim, across Time and Narrative, that stories configure actions into a followable whole, and through plot work a life becomes a told story."
+        },
+        {
+          "t": "p",
+          "x": "[Constitution of meaning](card:Constitution%20of%20meaning): Husserl's term for what consciousness does: the mind does not receive a ready-made world but constitutes the things of experience as meaningful."
+        },
+        {
+          "t": "p",
+          "x": "[Constructivist approach to meaning](card:Constructivist%20approach%20to%20meaning): Kelly's idea, elaborated by later constructivist psychotherapists, that meaning is not found lying in events but built out of them, and that the building can be done differently."
+        },
+        {
+          "t": "p",
+          "x": "The constructivist line is the plainest about this. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Purposes beyond the self"
+        },
+        {
+          "t": "p",
+          "x": "[Self-transcendence](card:Self-transcendence): the family of orientations in which the self recedes from the center; Frankl's version points beyond itself toward a meaning to fulfill or a person to love."
+        },
+        {
+          "t": "p",
+          "x": "Frankl's formulation:"
+        },
+        {
+          "t": "q",
+          "x": "\"The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Self-transcendent experiences](card:Self-transcendent%20experiences): Yaden and colleagues' framework for the transient states marked by decreased self-salience and increased connectedness, with mindfulness, flow, love, awe, peak and mystical experiences inside the grouping."
+        },
+        {
+          "t": "p",
+          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions): the class the research sorts by fit to spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being; amusement and pride do not."
+        },
+        {
+          "t": "p",
+          "x": "[Generativity theory](card:Generativity%20theory): Erikson's adult concern for guiding and providing for the next generation, turned by McAdams and de St. Aubin into a measurable research program of seven facets, from desire to narration."
+        },
+        {
+          "t": "p",
+          "x": "[Intergenerational transmission](card:Intergenerational%20transmission): the family research on what parents hand to children beyond genes: narratives, styles of remembering, and the shapes of a life story."
+        },
+        {
+          "t": "p",
+          "x": "[Legacy motivation research](card:Legacy%20motivation%20research): Fox, Tost and Wade-Benzoni's review of the motive to build a lasting legacy, developed from intergenerational decision making, generativity and terror management theory."
+        },
+        {
+          "t": "p",
+          "x": "[Intergenerational responsibility](card:Intergenerational%20responsibility): Hans Jonas's duties owed to people who do not yet exist and cannot return them, built for an age in which action reaches across generations."
+        },
+        {
+          "t": "p",
+          "x": "[The eternal contribution](card:The%20eternal%20contribution): my reading of Nietzsche's eternal recurrence, the demon's proposal to live this life once more and innumerable times over, turned toward what a life leaves behind."
+        },
+        {
+          "t": "h2",
+          "x": "The inner check"
+        },
+        {
+          "t": "p",
+          "x": "[The daimon](card:The%20daimon): Socrates' inner sign, described at his trial: present since childhood, it only forbids and never commands, and its silence is its only approval."
+        },
+        {
+          "t": "p",
+          "x": "[The call of conscience](card:The%20call%20of%20conscience): Heidegger's existential call, structurally parallel to the daimon: the call comes from the self, summons the self out of its absorption in the world, and the actual content of the call's revelation is deliberately left empty."
+        },
+        {
+          "t": "q",
+          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "When life gives no answer"
+        },
+        {
+          "t": "p",
+          "x": "[The absurd](card:The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence; the absurd is a relation, born of the confrontation, lying in neither side alone."
+        },
+        {
+          "t": "q",
+          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Revolt](card:Revolt): Camus's third answer to the absurd, after the two he rejects: a constant confrontation between man and his own obscurity, an insistence upon an impossible transparency."
+        },
+        {
+          "t": "q",
+          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Sisyphus](card:Sisyphus): the figure Camus takes as the absurd hero, set against the workman of today, whose fate is the same and becomes tragic only when it becomes conscious."
+        },
+        {
+          "t": "q",
+          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Nihilism](card:Nihilism): the family's extreme position: no intrinsic values, no objective meaning, no known purpose in life; Nietzsche's diagnosis of the cultural condition behind the modern pursuit of purpose."
+        },
+        {
+          "t": "p",
+          "x": "[Boundary situations](card:Boundary%20situations): Jaspers's four experiences, death, chance, guilt and the struggle of existence, which cannot be bypassed or overcome and only become fully present when lived; for him, philosophy exists because such situations ask the questions purpose answers."
+        },
+        {
+          "t": "q",
+          "x": "\"But to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being.\" ([Jaspers, Way to Wisdom, quoted in Boundary situations](https://epimelea.com/library/jaspers-boundary-situations/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Entries with a claim on the title that were read and left out: [Elan vital](card:Elan%20vital) is Bergson's metaphysics of life rather than a life's purpose, [Work engagement](card:Work%20engagement) and [Personal engagement](card:Personal%20engagement) are absorption constructs, and [Eudaimonic well-being](card:Eudaimonic%20well-being) belongs to the Genuine Flourishing boundary."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Does life supply the meaning, or do we?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is there a meaning a life is for, such that the task is to find and answer it, or does the world give no answer, such that the task is to stand in the gap honestly? Frankl's position, from the book that carries it:"
+        },
+        {
+          "t": "q",
+          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Camus's position, from the essay that carries his:"
+        },
+        {
+          "t": "q",
+          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. I hold both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The direction of improvement is toward aims a person is actually the author of, aims that reach beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): keeping \"What is this life for?\" alive as an ongoing inquiry rather than settling it with a fixed answer; the discipline of holding the question open, in Steger's vocabulary of presence and search."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): a monthly sitting with the month's activities, asking each one the four reason questions the self-concordance researchers use to tell a chosen goal from an imposed one."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Legacy letter](card:K224%20%E2%80%94%20Legacy%20letter): a letter to be read after your death, written to one named person, covering what you learned, what you love and what you left unfinished."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Absurd-revolt practice](card:K318%20%E2%80%94%20Absurd-revolt%20practice): for a situation that is genuinely absurd or unjust and cannot be changed, naming it without consolation and then choosing the next action inside it; stance work, in the spirit of Camus, not silver-lining work."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Eulogy exercise](card:K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want delivered at your funeral, clarifying what you stood for by confronting mortality."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes of writing in response to \"I will die. The timing is unknown. What does this make urgent?\", then one insight translated into one action this week; the kernel notes the mortality-salience finding that confronting death, when not defended against, can shift priorities toward intrinsic values."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): each week, one act of service or creation that outlasts the week; the weekly cadence and the outlasts-the-week test are the practice's own, as the kernel card states, and the research tradition behind it is generativity."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Living the question](card:K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient toward all that is unsolved in the heart and to love the questions themselves, living them now rather than seeking answers that cannot yet be lived."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Project alignment](card:K313%20%E2%80%94%20Project%20alignment): listing the projects that currently structure your life and asking of each whether it expresses who you want to be; Heidegger's projection behind the question, Ryff's purposeful engagement behind the dimension it tests."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Life chapter mapping](card:K332%20%E2%80%94%20Life%20chapter%20mapping): dividing a life into chapters and writing, for each, one sentence on the turning point and one on what it taught; the map builds the narrative coherence the life-story research links to meaning and well-being."
+        },
+        {
+          "t": "p",
+          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, the chapter mapping on the life-story and Hero's Journey studies, and the revolt practice is an editorial exercise in Camus's spirit rather than a tested protocol."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "What a purpose is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge who has lived the life everyone around him considers correct falls ill and, in his long dying, finds the whole respectable edifice was \"not the real thing\"; he had lived it as others lived theirs, without once asking whether it was his."
+        },
+        {
+          "t": "p",
+          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): Frankl's camps memoir argues the will to meaning is the primary human motivation, and carries the famous line that he who has a why to live can bear almost any how: meaning does not remove suffering, it changes the relation to it."
+        },
+        {
+          "t": "h2",
+          "x": "The stance toward suffering"
+        },
+        {
+          "t": "p",
+          "x": "[ST036 — Frankl Chooses the Attitude](card:ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude): the psychiatrist in Auschwitz, observing that prisoners who retained something to live for endured differently, and reporting a freedom that remained when everything else was taken."
+        },
+        {
+          "t": "p",
+          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms."
+        },
+        {
+          "t": "h2",
+          "x": "Work as calling"
+        },
+        {
+          "t": "p",
+          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): decades of hand-drawn grids in solitude in the New Mexico desert, titled \"Innocence,\" \"Gratitude,\" \"Happiness\"; the grid was the trap, and the meaning was what it was a trap for."
+        },
+        {
+          "t": "p",
+          "x": "[ST052 — Beethoven Writes the Late Quartets](card:ST052%20%E2%80%94%20Beethoven%20Writes%20the%20Late%20Quartets): completely deaf, he writes quartets unlike anything written before, at a level of interior detail that could not be reached by anyone listening for the market."
+        },
+        {
+          "t": "p",
+          "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): hallucinated fields of dots since childhood, and since 1977 a life lived voluntarily in a psychiatric hospital, walking daily to the studio to paint them at architectural scale."
+        },
+        {
+          "t": "p",
+          "x": "[ST005 — Hirayama's Perfect Days](card:ST005%20%E2%80%94%20Hirayama%27s%20Perfect%20Days): a Tokyo toilet cleaner waters his plants, photographs the light through the trees, reads before sleep; asked why he is content he does not explain, because the days are the answer, and the film refuses to reveal a backstory that would explain them for him."
+        },
+        {
+          "t": "h2",
+          "x": "Purposes beyond the self"
+        },
+        {
+          "t": "p",
+          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him."
+        },
+        {
+          "t": "p",
+          "x": "[ST086 — The Bodhisattva and the Tigress](card:ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): a bodhisattva finds a tigress too weak from hunger to feed her cubs, and lies down where she can reach him, ending his life so that hers and the cubs' continue."
+        },
+        {
+          "t": "h2",
+          "x": "The long journey to a purpose"
+        },
+        {
+          "t": "p",
+          "x": "[ST092 — Alvin Straight Rides the Mower](card:ST092%20%E2%80%94%20Alvin%20Straight%20Rides%20the%20Mower): 73, his eyes too bad to drive and his hips too bad to walk, he hitches a trailer to his riding lawnmower and travels 240 miles at five miles an hour to reconcile with his brother; the slowness is the argument."
+        },
+        {
+          "t": "p",
+          "x": "[ST089 — Layman Pang Sinks the Fortune](card:ST089%20%E2%80%94%20Layman%20Pang%20Sinks%20the%20Fortune): a wealthy merchant empties his house and fortune into the river and lives as a layman weaving bamboo sieves with his wife and children; the tradition's proof case that awakening does not require monasticism."
+        },
+        {
+          "t": "h2",
+          "x": "Meaning made rather than found"
+        },
+        {
+          "t": "p",
+          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the stories people tell about their lives, not just the events, predict well-being; suffering narrated as leading to growth predicts best of all, and the telling is a shaping, not a report."
+        },
+        {
+          "t": "p",
+          "x": "[ST280 — Pi's Two Stories](card:ST280%20%E2%80%94%20Pi%27s%20Two%20Stories): the same survival told two ways, with a tiger or with a cook; the investigators prefer the tiger, and the story asks what it is to choose the telling a life can be lived inside."
+        },
+        {
+          "t": "h2",
+          "x": "When life gives no answer"
+        },
+        {
+          "t": "p",
+          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant futile labour as the worst punishment; Camus's conclusion is that the struggle itself toward the heights is enough to fill a man's heart, and one must imagine Sisyphus happy."
+        },
+        {
+          "t": "p",
+          "x": "[ST278 — Dr. Rieux Fights the Plague](card:ST278%20%E2%80%94%20Dr.%20Rieux%20Fights%20the%20Plague): in the quarantined city the physician offers no theory of the plague's meaning; he treats the sick day after day, and his stated reason is plain, that it is the only thing a man can do in the face of suffering."
+        },
+        {
+          "t": "p",
+          "x": "[ST294 — The Demon's Question](card:ST294%20%E2%80%94%20The%20Demon%27s%20Question): Nietzsche's demon offers this life again, innumerable times, every pain and every joy in the same sequence; the question the story leaves the reader is whether to curse the demon or answer that it is divine."
+        }
+      ],
+      "group": "flourishing",
+      "status": "published",
+      "art": "assets/dossier-art/lifes-purpose.jpg",
+      "featured": true
+    },
+    {
       "id": "the-self",
       "title": "The Self",
       "question": "What am I, if not the story I keep telling about myself?",
@@ -4920,632 +6184,6 @@ window.fcDossiersData = {
       "art": "assets/dossier-art/anger.jpg"
     },
     {
-      "id": "wisdom",
-      "title": "Wisdom",
-      "question": "What is wisdom doing when it judges, and can it be cultivated or only matured?",
-      "intro": [],
-      "blocks": [
-        {
-          "t": "p",
-          "x": "Wisdom is what everyone wants to be credited with, and its look-alikes are everywhere: cleverness, accumulated years, confident opinion. The classical accounts make it a capacity of judgment, seeing what is best in the particular case, and the research that tries to measure it mostly measures its neighbours. Whether wisdom can be cultivated or only matured is the open question, and the practices cluster around the answer."
-        },
-        {
-          "t": "h2",
-          "x": "Nearby terms"
-        },
-        {
-          "t": "p",
-          "x": "- Judgement and insight: held here under the map's judgement and insight groups; the closest anchors are [Reflective thinking](card:Reflective%20thinking) and [Insight research](card:Insight%20research). - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](card:Practical%20wisdom) and [Phronesis](card:Phronesis). - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it."
-        },
-        {
-          "t": "h",
-          "x": "The map: every entry the wiki holds on wisdom"
-        },
-        {
-          "t": "h2",
-          "x": "What wisdom is"
-        },
-        {
-          "t": "p",
-          "x": "[Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind; the Berlin paradigm treats it as expertise in the fundamental pragmatics of life, and the wise-reasoning programme as metacognitive capacities people apply to social conflict."
-        },
-        {
-          "t": "p",
-          "x": "[Phronesis](card:Phronesis): Aristotle's virtue of practical wisdom: the capacity to deliberate well about what is good for oneself and for living well in general."
-        },
-        {
-          "t": "p",
-          "x": "[Practical wisdom](card:Practical%20wisdom): Aristotle's Book VI account, set beside Confucius: practical wisdom is not knowledge of general principles only, because action is concerned with particular details."
-        },
-        {
-          "t": "p",
-          "x": "[Sophia](card:Sophia): Aristotle's theoretical wisdom, a union of intuitive reason and scientific knowledge of the highest objects."
-        },
-        {
-          "t": "p",
-          "x": "[Prudence](card:Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue."
-        },
-        {
-          "t": "p",
-          "x": "[Prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action."
-        },
-        {
-          "t": "p",
-          "x": "[Wisdom theory Berlin paradigm](card:Wisdom%20theory%20Berlin%20paradigm): Baltes's account of wisdom as expert knowledge about the fundamental pragmatics of life: life planning, management and review."
-        },
-        {
-          "t": "p",
-          "x": "[Wise reasoning](card:Wise%20reasoning): Grossmann's programme: wisdom as a set of reasoning strategies people use, or fail to use, situation by situation, and not as a personality type."
-        },
-        {
-          "t": "p",
-          "x": "[Socioemotional wisdom](card:Socioemotional%20wisdom): the strength Erikson places at the end of the life cycle, won from the crisis of integrity versus despair."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing-how versus knowing-that](card:Knowing-how%20versus%20knowing-that): Ryle's contrast between knowledge that shows in ability and knowledge that something is the case."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing-how](card:Knowing-how): the kind of knowledge that shows in ability, in Ryle's The Concept of Mind (1949)."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing-that](card:Knowing-that): the propositional side of Ryle's contrast, knowledge that can be true or false, stated and imparted."
-        },
-        {
-          "t": "p",
-          "x": "[Knowing by acquaintance](card:Knowing%20by%20acquaintance): direct knowledge by standing in the experience of a thing, not by holding a description of it."
-        },
-        {
-          "t": "h2",
-          "x": "Knowing the limits of what you know"
-        },
-        {
-          "t": "p",
-          "x": "[Socratic wisdom](card:Socratic%20wisdom): the wisdom Plato's Apology gives Socrates after the Delphic oracle: knowing that you do not know."
-        },
-        {
-          "t": "p",
-          "x": "[Socratic ignorance](card:Socratic%20ignorance): Socrates's profession at his trial that he does not know the things that matter most and, unlike others, does not think he does."
-        },
-        {
-          "t": "p",
-          "x": "[Intellectual humility](card:Intellectual%20humility): the recognition that one's beliefs might be wrong, in Leary and colleagues' 2017 paper."
-        },
-        {
-          "t": "p",
-          "x": "[Epistemic humility](card:Epistemic%20humility): the disposition psychology usually calls intellectual humility: treating one's own beliefs as possibly wrong."
-        },
-        {
-          "t": "p",
-          "x": "[Humility](card:Humility): in Tangney's review, not self-deprecation but an accurate assessment of one's characteristics."
-        },
-        {
-          "t": "p",
-          "x": "[Expressed humility](card:Expressed%20humility): humility as other people can see it and rate it, in organizations (Owens, Johnson and Mitchell)."
-        },
-        {
-          "t": "p",
-          "x": "[Relational humility](card:Relational%20humility): Davis and colleagues' model of humility as a judgment other people make about someone."
-        },
-        {
-          "t": "p",
-          "x": "[Leader humility](card:Leader%20humility): expressed humility improves team performance and psychological safety (Owens and Hekman, 2016)."
-        },
-        {
-          "t": "p",
-          "x": "[Openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson: the key challenge for aspiring experts is to avoid the arrested development associated with automaticity."
-        },
-        {
-          "t": "p",
-          "x": "[The veil of ignorance](card:The%20veil%20of%20ignorance): Rawls's device in A Theory of Justice for a fair choice of first principles: the parties sit in an original position, stripped of knowledge of their own situation."
-        },
-        {
-          "t": "h2",
-          "x": "Wisdom in other traditions"
-        },
-        {
-          "t": "p",
-          "x": "[The portrait of the sage](card:The%20portrait%20of%20the%20sage): the Bhagavad Gita's chapter-twelve description of the person dear to Krishna, as a working checklist of dispositions."
-        },
-        {
-          "t": "p",
-          "x": "[Sameness of the sage](card:Sameness%20of%20the%20sage): Zhuangzi's Inner Chapters: the sage who sees past the quarrels of schools, each denying what the others affirm."
-        },
-        {
-          "t": "p",
-          "x": "[Timing as wisdom](card:Timing%20as%20wisdom): Daodejing 64 on when to act: at rest things are easy to maintain, and situations not yet emerged are easy to plan for."
-        },
-        {
-          "t": "p",
-          "x": "[Zhi zu (knowing sufficiency)](card:Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, from Daodejing 46."
-        },
-        {
-          "t": "p",
-          "x": "[Klesha transmuted into wisdom](card:Klesha%20transmuted%20into%20wisdom): the Tibetan Buddhist teaching that the afflictive emotions, the five poisons, can be turned into forms of wisdom."
-        },
-        {
-          "t": "p",
-          "x": "[Vipassana (insight)](card:Vipassana%20%28insight%29): clear-seeing; for Thanissaro Bhikkhu a quality of mind, not a technique."
-        },
-        {
-          "t": "p",
-          "x": "[Wise speech criteria](card:Wise%20speech%20criteria): the Buddha's test in MN 58 for what is worth saying: whether it is true, beneficial and pleasing."
-        },
-        {
-          "t": "p",
-          "x": "[Judging by where one rests](card:Judging%20by%20where%20one%20rests): Confucius, Analects 2.10: see what a man does, mark his motives, examine in what things he rests."
-        },
-        {
-          "t": "p",
-          "x": "[The wise man's indifference to reputation](card:The%20wise%20man%27s%20indifference%20to%20reputation): the Stoic claim that what others say is not among the things worth governing a life by."
-        },
-        {
-          "t": "p",
-          "x": "[Flexibility as virtue](card:Flexibility%20as%20virtue): the compendium's label for two aphorisms in Nietzsche's The Gay Science."
-        },
-        {
-          "t": "p",
-          "x": "[Discernment of spirits](card:Discernment%20of%20spirits): Ignatius's practice of reading one's inner movements to tell which lead toward the good."
-        },
-        {
-          "t": "h2",
-          "x": "Judgement, deliberation and insight"
-        },
-        {
-          "t": "p",
-          "x": "[Reflective thinking](card:Reflective%20thinking): Dewey's How We Think: belief whose grounds are deliberately sought and examined."
-        },
-        {
-          "t": "p",
-          "x": "[Experience plus reflection](card:Experience%20plus%20reflection): the compendium's label for Dewey's pairing: each is incomplete without the other."
-        },
-        {
-          "t": "p",
-          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey in Human Nature and Conduct: when action is blocked, competing habits and impulses are tried out in imagination before overt action."
-        },
-        {
-          "t": "p",
-          "x": "[Immediate and reflective value](card:Immediate%20and%20reflective%20value): Dewey's distinction between value that simply occurs and value that survives inquiry."
-        },
-        {
-          "t": "p",
-          "x": "[Judgment adds the harm](card:Judgment%20adds%20the%20harm): the Stoic claim, from Enchiridion 5, that people are disturbed by their opinions about events, not by the events."
-        },
-        {
-          "t": "p",
-          "x": "[Emotions as judgments](card:Emotions%20as%20judgments): the cognitivist theory, following the Stoics, that an emotion is a judgment: anger at someone is the judgment that one has been wronged by them."
-        },
-        {
-          "t": "p",
-          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early."
-        },
-        {
-          "t": "p",
-          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is something to weigh, because it travels with fear."
-        },
-        {
-          "t": "p",
-          "x": "[Perspective-taking](card:Perspective-taking): the effort to see a situation from another person's point of view; the card treats it as a trainable skill and weighs it against Eyal, Steffel and Epley's study."
-        },
-        {
-          "t": "p",
-          "x": "[Perspective-getting](card:Perspective-getting): obtaining another person's perspective directly by asking and listening."
-        },
-        {
-          "t": "p",
-          "x": "[Insight research](card:Insight%20research): Kounios and Beeman's review: insight is a sudden reinterpretation that produces a nonobvious, nondominant interpretation."
-        },
-        {
-          "t": "p",
-          "x": "[Insight problem-solving](card:Insight%20problem-solving): solving by sudden reinterpretation instead of step-by-step search."
-        },
-        {
-          "t": "p",
-          "x": "[The wisdom of crowds](card:The%20wisdom%20of%20crowds): the finding that a group's aggregated judgment can beat most of its individual members."
-        },
-        {
-          "t": "h2",
-          "x": "Virtue and character"
-        },
-        {
-          "t": "p",
-          "x": "[Virtue](card:Virtue): excellence of character, a stable disposition to feel, choose and act well, acquired through habituation."
-        },
-        {
-          "t": "p",
-          "x": "[Cardinal virtues](card:Cardinal%20virtues): the four hinge virtues of the classical and scholastic tradition: prudence, justice, fortitude and temperance."
-        },
-        {
-          "t": "p",
-          "x": "[The doctrine of the mean](card:The%20doctrine%20of%20the%20mean): the claim, shared by Aristotle and the Confucian tradition, that virtue aims at the intermediate between excess and deficiency."
-        },
-        {
-          "t": "p",
-          "x": "[The catalogue of virtues](card:The%20catalogue%20of%20virtues): Aristotle's table in Nicomachean Ethics II.7 of the character virtues as means between two vices."
-        },
-        {
-          "t": "p",
-          "x": "[The unity of the virtues](card:The%20unity%20of%20the%20virtues): the thesis, from Plato's Protagoras and reworked by Aristotle, that the virtues come together and are not separate talents."
-        },
-        {
-          "t": "p",
-          "x": "[Natural virtue](card:Natural%20virtue): Aristotle's name for dispositions people seem to have from birth, set against virtue in the strict sense."
-        },
-        {
-          "t": "h2",
-          "x": "How wisdom is built"
-        },
-        {
-          "t": "p",
-          "x": "[Virtue development research](card:Virtue%20development%20research): how stable virtuous traits are acquired; Sanderse on the neo-Aristotelian mechanism of habituation."
-        },
-        {
-          "t": "p",
-          "x": "[The rehearsal of virtue](card:The%20rehearsal%20of%20virtue): how Stoic practice turns understanding into character by running it through action, from Seneca's Letter 94."
-        },
-        {
-          "t": "p",
-          "x": "[Deliberate practice](card:Deliberate%20practice): Ericsson's term for activities designed to improve current performance, with specific goals and immediate feedback."
-        },
-        {
-          "t": "p",
-          "x": "[Reflective practice](card:Reflective%20practice): the ability to reflect on one's thoughts, actions, decisions and assumptions in order to improve one's own practice and judgment."
-        },
-        {
-          "t": "p",
-          "x": "[Journaling as self-reflection](card:Journaling%20as%20self-reflection): the expressive-writing tradition Pennebaker began, with a meta-analysis of 146 randomized studies."
-        },
-        {
-          "t": "p",
-          "x": "[Death reflection](card:Death%20reflection): the construct distinguishing a vivid contemplation of one's own death from abstract mortality salience."
-        },
-        {
-          "t": "p",
-          "x": "[Future time perspective](card:Future%20time%20perspective): the habit of orienting attention toward the future, from Zimbardo and Boyd's 1999 paper."
-        },
-        {
-          "t": "p",
-          "x": "[Designing for virtue](card:Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour."
-        },
-        {
-          "t": "h2",
-          "x": "The thinkers"
-        },
-        {
-          "t": "p",
-          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle): Greek philosopher and author of the Nicomachean Ethics, whose Book VI holds the standard account of phronesis and sophia."
-        },
-        {
-          "t": "p",
-          "x": "[Socrates](card:T011%20%E2%80%94%20Socrates): the philosopher whose profession of ignorance at his trial gave the West its best-known picture of wisdom as awareness of limits."
-        },
-        {
-          "t": "p",
-          "x": "[Dewey](card:T005%20%E2%80%94%20Dewey%2C%20John): the pragmatist whose accounts of reflective thinking and deliberation recur in the judgement group."
-        },
-        {
-          "t": "h2",
-          "x": "The stories"
-        },
-        {
-          "t": "p",
-          "x": "[152. Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle's verdict that no one is wiser than Socrates, and what he made of it."
-        },
-        {
-          "t": "p",
-          "x": "[158. Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant, and Solomon's order to divide the child reveals which of them is the mother; the canonical case of judgement."
-        },
-        {
-          "t": "h",
-          "x": "Where the traditions genuinely disagree"
-        },
-        {
-          "t": "h2",
-          "x": "Is there one wisdom, or two?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: is the wisdom of the contemplative the same excellence as the wisdom of the person who acts well in a hard situation? Aristotle splits them. Sophia knows the highest and unchanging things:"
-        },
-        {
-          "t": "q",
-          "x": "\"Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion.\" ([Aristotle, Nicomachean Ethics VI.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Practical wisdom works on a different object, and Aristotle uses a plain contrast to say so:"
-        },
-        {
-          "t": "q",
-          "x": "\"any one would say that what is wise is the same but what is practically wise is different\" ([Aristotle, Nicomachean Ethics VI.7](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Modern psychology sides with the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The classical contemplative ideal of wisdom, knowledge of the highest things, drops out of the research definition. What stays open is whether a life needs both kinds, and whether the contemplative kind steadies the practical one or competes with it for a person's time. The sources above do not settle it."
-        },
-        {
-          "t": "h2",
-          "x": "Can a clever person be wise without being good?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: is wisdom a skill for reaching goals, or does it include choosing good goals? Aristotle separates wisdom from mere skill at getting what one aims at:"
-        },
-        {
-          "t": "q",
-          "x": "\"Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart.\" ([Aristotle, Nicomachean Ethics VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "He then ties the two together in both directions:"
-        },
-        {
-          "t": "q",
-          "x": "\"It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue.\" ([Aristotle, Nicomachean Ethics VI.13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Baltes and Staudinger keep the link in their own phrase: wisdom as a metaheuristic \"that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. Grossmann's account of wise thinking, in contrast, names aspects of thinking: \"intellectual humility, recognition of uncertainty and change\" ([Grossmann 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked. Whether a person who reasons that way but chooses badly would count as wise is a question these abstracts leave open."
-        },
-        {
-          "t": "h2",
-          "x": "Is wisdom something you have, or knowing that you lack it?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: does a wise person hold a large store of knowledge, or hold a particular stance toward what they know? Socrates puts the stance first. In Jowett's rendering of the oracle's meaning:"
-        },
-        {
-          "t": "q",
-          "x": "\"He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing.\" ([Plato, Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The Daodejing says something close, and names the opposite error a disease:"
-        },
-        {
-          "t": "q",
-          "x": "\"To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.\" ([Laozi, Daodejing 71, Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The Berlin paradigm builds uncertainty into the definition as one of five criteria: \"recognition and management of uncertainty\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The traditions and the research agree that knowing one's limits belongs to wisdom. They differ on weight. For Socrates it is close to the whole of human wisdom; for the expertise model it is one criterion beside rich factual and procedural knowledge."
-        },
-        {
-          "t": "h2",
-          "x": "Is wisdom a trait, or something a situation draws out?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: when we call a person wise, are we describing them or their circumstances? The Berlin tradition measured it as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:"
-        },
-        {
-          "t": "q",
-          "x": "\"Empirical evidence indicates that people's ability to think wisely varies dramatically across experiential contexts that they encounter over the life span. Moreover, wise thinking varies from one situation to another, with self-focused contexts inhibiting wise thinking.\" ([Grossmann, Wisdom in Context, Perspectives on Psychological Science 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "A specific finding: across three experiments (N = 693), participants reasoned more wisely about another person's problems than their own, and self-distancing removed the gap. The authors add that \"contrary to the adage 'with age comes wisdom,' our findings suggest that there are no age differences in wise reasoning about personal conflicts\" ([Grossmann and Kross, Psychological Science 2014, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400)): Secondary source; quoted passage checked. That result concerns reasoning about personal conflicts, in the measures used, and does not show that life experience adds nothing to wisdom in general. What it does show is that the same person reasons differently in different positions, which is a reason to treat wisdom as partly a matter of where one stands when one thinks."
-        },
-        {
-          "t": "h2",
-          "x": "Can wisdom be taught, or only grown into?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: if wisdom matters, what builds it? The neo-Aristotelian answer starts with character:"
-        },
-        {
-          "t": "q",
-          "x": "\"Full virtue and practical wisdom comprise the end of neo-Aristotelian moral development, but wisdom cannot be cultivated straight away through arguments and teaching.\" ([Sanderse, Journal of Moral Education, abstract](https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952)): Secondary source; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The abstract goes on to say wisdom \"is integrated with, and builds upon, habituation\". The experimental answer is that a brief, structured practice can raise wise reasoning. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" compared with before the intervention ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)): Secondary source; quoted passage checked. In the earlier two-experiment study, cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, Journal of Experimental Psychology: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/)): Secondary source; quoted passage checked. The two claims are about different things. One concerns the formation of a person's character over years; the other concerns scores on a reasoning measure after a short practice. Neither abstract says the other is wrong."
-        },
-        {
-          "t": "h2",
-          "x": "Does wisdom follow rules, or does it set them?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: could wisdom be written down as a procedure? Aristotle defines virtue by a standard that involves the wise person:"
-        },
-        {
-          "t": "q",
-          "x": "\"Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it.\" ([Aristotle, Nicomachean Ethics II.6](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The definition leans on the person of practical wisdom to say what the mean is, so it cannot serve as a rule applied from outside. In Book VI he adds that wisdom is not a craft: \"Plainly, then, practical wisdom is a virtue and not an art\" ([Aristotle, Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked. Readers sometimes treat the circle in the definition as a flaw. It can also be read as the point: judgment of this kind has no procedure behind it that could stand in for it. How far that is true, and how much of practical judgment can be supported by checklists and prompts, is open in the sources held here."
-        },
-        {
-          "t": "h",
-          "x": "Practice: variation, selection, retention"
-        },
-        {
-          "t": "vs",
-          "l": "Variation",
-          "x": "What tends to need varying is the position from which a problem is seen. The look-alikes of wisdom share a shape: cleverness aimed at a bad mark, confident opinion with no sense of its limits, and reasoning that gets worse exactly when the stakes are personal. The adaptive moves are to change viewpoint, slow down, ask, and look back at what happened."
-        },
-        {
-          "t": "vs",
-          "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
-        },
-        {
-          "t": "n",
-          "i": 1,
-          "x": "[Wise-reasoning prompts](card:K260%20%E2%80%94%20Wise-reasoning%20prompts): four questions for a troubling situation: how it could unfold, what the perspectives are, how your own interests might bias the view, what a wise friend would advise."
-        },
-        {
-          "t": "n",
-          "i": 2,
-          "x": "[Self-distanced reflection](card:K261%20%E2%80%94%20Self-distanced%20reflection): write about a difficult situation in the third person."
-        },
-        {
-          "t": "n",
-          "i": 3,
-          "x": "[Perspective-taking](card:K131%20%E2%80%94%20Perspective-taking): step into another position and see what the others conceal."
-        },
-        {
-          "t": "n",
-          "i": 4,
-          "x": "[Perspective-getting](card:K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask."
-        },
-        {
-          "t": "n",
-          "i": 5,
-          "x": "[Deliberation timeout](card:K264%20%E2%80%94%20Deliberation%20timeout): a mandatory wait of one to three days on decisions above a set threshold."
-        },
-        {
-          "t": "n",
-          "i": 6,
-          "x": "[Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): a one-week three-column log separating what appeared, what you judged, and what you did."
-        },
-        {
-          "t": "n",
-          "i": 7,
-          "x": "[Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, ask what you intended, what happened, where the gap came from, and what you would do differently."
-        },
-        {
-          "t": "n",
-          "i": 8,
-          "x": "[The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): for one virtue, track the excess and the deficiency and rate where each situation landed."
-        },
-        {
-          "t": "n",
-          "i": 9,
-          "x": "[The unity-of-virtue drill](card:K256%20%E2%80%94%20The%20unity-of-virtue%20drill): take a decision from this week and ask whether expressing one virtue required suppressing another."
-        },
-        {
-          "t": "n",
-          "i": 10,
-          "x": "[Role-conflict deliberation](card:K283%20%E2%80%94%20Role-conflict%20deliberation): when two roles conflict, write down what each demands and ask what a person of practical wisdom would do."
-        },
-        {
-          "t": "n",
-          "i": 11,
-          "x": "[Professional phronesis](card:K360%20%E2%80%94%20Professional%20phronesis): for a recurring decision, ask when following the rule would produce a worse outcome than using judgement."
-        },
-        {
-          "t": "n",
-          "i": 12,
-          "x": "[The deliberative practice](card:K363%20%E2%80%94%20The%20deliberative%20practice): in a group decision, hear every voice before the verdict."
-        },
-        {
-          "t": "n",
-          "i": 13,
-          "x": "[Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): one sentence each evening on the virtue you practised and how."
-        },
-        {
-          "t": "n",
-          "i": 14,
-          "x": "[Deliberate practice](card:K179%20%E2%80%94%20Deliberate%20practice): structured practice with a clear goal and immediate feedback."
-        },
-        {
-          "t": "n",
-          "i": 15,
-          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): review the life in chapters, noting turning points and what each taught."
-        },
-        {
-          "t": "p",
-          "x": "The evidence limits are uneven across the list. The life review (K232) borrows a method tested mostly with older adults and guided by trained facilitators, and its chapter layout is an adaptation. The distancing practices (K261, K260) lean on the experiments quoted above; the prompts in K260 are, by the card's own note, editorial questions informed by the research and not the instrument itself; the professional and role-conflict exercises are proposals and not tested protocols. Each card carries its own evidence note, and those notes are worth reading before relying on any of them."
-        },
-        {
-          "t": "vs",
-          "l": "Retention",
-          "x": "Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
-        },
-        {
-          "t": "h",
-          "x": "Story: the stories that carry the theme"
-        },
-        {
-          "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
-        },
-        {
-          "t": "h2",
-          "x": "Knowing the limits of what you know"
-        },
-        {
-          "t": "p",
-          "x": "[ST152 — Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle at Delphi says no one is wiser than Socrates; he spends years questioning politicians, poets and craftsmen, and finds each believes they know what they do not."
-        },
-        {
-          "t": "p",
-          "x": "[ST378 — Wang Ni Says How Would I Know That Three Times](card:ST378%20%E2%80%94%20Wang%20Ni%20Says%20How%20Would%20I%20Know%20That%20Three%20Times): asked whether he knows what everyone agrees on, Wang Ni answers \"How would I know that?\"; asked whether he then knows nothing at all, he gives the same reply."
-        },
-        {
-          "t": "p",
-          "x": "[ST261 — Nan-in Overflows the Cup](card:ST261%20%E2%80%94%20Nan-in%20Overflows%20the%20Cup): a professor visits Nan-in to learn about Zen, and the master keeps pouring tea until the cup overflows: like this cup, you are full of your own opinions."
-        },
-        {
-          "t": "p",
-          "x": "[ST370 — The Blind Men and the Elephant](card:ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): people blind from birth are shown different parts of an elephant, each group describes the whole animal from its part, and the conflicting descriptions end in a fistfight."
-        },
-        {
-          "t": "h2",
-          "x": "Judging the particular case"
-        },
-        {
-          "t": "p",
-          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
-        },
-        {
-          "t": "p",
-          "x": "[ST157 — The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time."
-        },
-        {
-          "t": "p",
-          "x": "[ST156 — The Navigator Reads the Sea](card:ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea): the practically wise person is like a navigator who cannot control the wind or the sea but reads the conditions, adjusts the sails and reaches port anyway."
-        },
-        {
-          "t": "p",
-          "x": "[ST153 — Aristotle's Craftsman](card:ST153%20%E2%80%94%20Aristotle%27s%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts."
-        },
-        {
-          "t": "p",
-          "x": "[ST024 — Wheelwright Pian Chides the Duke](card:ST024%20%E2%80%94%20Wheelwright%20Pian%20Chides%20the%20Duke): Wheelwright Pian tells Duke Huan that he is reading the dregs of dead men: the pace of the chisel, neither too slow nor too fast, cannot be put into words or taught to a son."
-        },
-        {
-          "t": "h2",
-          "x": "Wisdom and a whole life"
-        },
-        {
-          "t": "p",
-          "x": "[ST143 — Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus shows Solon his treasury and asks who is the happiest of men; Solon names an Athenian who died fighting for his city and concludes that no one should be called happy until he is dead."
-        },
-        {
-          "t": "p",
-          "x": "[ST141 — Socrates Refuses to Escape the Question](card:ST141%20%E2%80%94%20Socrates%20Refuses%20to%20Escape%20the%20Question): offered an escape from prison, Socrates refuses it: one should never do injustice, not even in return for injustice."
-        },
-        {
-          "t": "p",
-          "x": "[ST147 — Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): the young Hercules is visited by two women, one offering the easy road of pleasure now, the other the steep road of toil and lasting deeds, and he chooses the second."
-        },
-        {
-          "t": "p",
-          "x": "[ST172 — Thales Falls in the Well](card:ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales falls into a well while watching the stars and a servant girl laughs at him for being so eager to know the heavens that he cannot see what is at his feet."
-        }
-      ],
-      "group": "flourishing",
-      "status": "published",
-      "art": "assets/dossier-art/wisdom.jpg"
-    },
-    {
       "id": "affect",
       "title": "Affect: the domain of feeling, and what can be done with it",
       "question": "What is an emotion made of, and what is it telling the person who feels it?",
@@ -6495,642 +7133,6 @@ window.fcDossiersData = {
       "group": "eemm",
       "status": "published",
       "art": "assets/dossier-art/attention.jpg"
-    },
-    {
-      "id": "lifes-purpose",
-      "title": "Life's Purpose",
-      "question": "What is a life for, and where does a sense of purpose come from?",
-      "intro": [],
-      "blocks": [
-        {
-          "t": "p",
-          "x": "A purpose is the aim a life organises itself around, and its absence is felt as a question rather than a symptom: what is this for? The traditions route meaning through work, love, suffering and service; the research asks where the sense of mattering comes from; and a few positions deny that life comes with a meaning attached at all, which turns the question from finding one into making one. Feeling good and being about something are different things, and I hold the difference on its own cards."
-        },
-        {
-          "t": "h2",
-          "x": "Nearby terms"
-        },
-        {
-          "t": "p",
-          "x": "Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](card:Existential%20meaning) and [Meaning-making](card:Meaning-making)."
-        },
-        {
-          "t": "p",
-          "x": "Purpose: the aim itself; [Purpose](card:Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](card:PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction)."
-        },
-        {
-          "t": "p",
-          "x": "Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](card:Calling%20orientation) and [Vocation as calling](card:Vocation%20as%20calling)."
-        },
-        {
-          "t": "p",
-          "x": "Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier."
-        },
-        {
-          "t": "p",
-          "x": "Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](card:Vital%20engagement) the bridge card named here."
-        },
-        {
-          "t": "h",
-          "x": "The map: the entries on purpose and meaning"
-        },
-        {
-          "t": "h2",
-          "x": "What a purpose is taken to be"
-        },
-        {
-          "t": "p",
-          "x": "[Purpose](card:Purpose): an aim or reason for carrying on; Frankl's camp account makes it the thing that lets a person bear almost any how, and the entry ties it to Aristotle's final cause in a life."
-        },
-        {
-          "t": "p",
-          "x": "[Meaning](card:Meaning): the sense that life is about something, with purpose, coherence and mattering as its working parts; the traditions converge on meaning as made through work, love, and the stance taken toward suffering."
-        },
-        {
-          "t": "p",
-          "x": "[Existential meaning](card:Existential%20meaning): Michael Steger's framework for meaning in life, built on two pillars: comprehension, the ability to find patterns and significance in one's life, and purpose, long-term goals one is committed to."
-        },
-        {
-          "t": "p",
-          "x": "The comprehension pillar in Steger's own words:"
-        },
-        {
-          "t": "q",
-          "x": "\"Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors.\" ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120?redirectedFrom=fulltext))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Mattering](card:Mattering) and [Existential mattering](card:Existential%20mattering): the sense that one's existence makes a difference, often treated as a domain distinct from purpose and coherence in the meaning-in-life literature; George and Park describe it as an entity's sense of having value to the world."
-        },
-        {
-          "t": "p",
-          "x": "[The will to meaning](card:The%20will%20to%20meaning): Frankl's term for the primary motivational force, set against the pleasure principle of Freud and the striving for superiority of Adler."
-        },
-        {
-          "t": "p",
-          "x": "[The search for meaning](card:The%20search%20for%20meaning): the drive itself, with Frankl's three channels for finding what it seeks: creating a work or doing a deed, experiencing something or encountering someone, and the attitude taken toward unavoidable suffering."
-        },
-        {
-          "t": "p",
-          "x": "[The meaning of life](card:The%20meaning%20of%20life): Frankl's reversal of the question: life questions us, and we answer with our conduct rather than with talk and meditation."
-        },
-        {
-          "t": "p",
-          "x": "[Logotherapy](card:Logotherapy): Frankl's Third Viennese School of Psychotherapy, a clinical method and a theory of motivation at once; its technique for anticipatory anxiety is paradoxical intention."
-        },
-        {
-          "t": "p",
-          "x": "[Noogenic neurosis](card:Noogenic%20neurosis): Frankl's term for distress that starts in the moral and existential spheres: guilt, grief, despair, demoralisation, and boredom without purpose."
-        },
-        {
-          "t": "p",
-          "x": "[Attitudinal values](card:Attitudinal%20values): Frankl's name for the stance taken toward unavoidable suffering, the third way meaning is found; the other two, creative values and experiential values, run through work and love."
-        },
-        {
-          "t": "p",
-          "x": "Frankl's own statement of the motivational claim:"
-        },
-        {
-          "t": "q",
-          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "And of the reversal at the centre of the book:"
-        },
-        {
-          "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The camp passage behind the why-to-live motto, in Frankl's own words:"
-        },
-        {
-          "t": "q",
-          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The Nicomachean Ethics grounds the whole tradition in one claim about what the good is:"
-        },
-        {
-          "t": "q",
-          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Frankl's reversal of the question is stated in the same terms:"
-        },
-        {
-          "t": "q",
-          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "h2",
-          "x": "The three routes: work, love, and the stance toward suffering"
-        },
-        {
-          "t": "p",
-          "x": "Frankl's own list of the routes:"
-        },
-        {
-          "t": "q",
-          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[The meaning of suffering](card:The%20meaning%20of%20suffering): what survives even in the camps: the freedom of attitude, through which a meaning holds to the last moment."
-        },
-        {
-          "t": "q",
-          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Tragic optimism](card:Tragic%20optimism): Frankl's term for remaining optimistic in spite of the tragic triad of pain, guilt and death."
-        },
-        {
-          "t": "q",
-          "x": "\"it means that one is, and remains, optimistic in spite of the \\\"tragic triad,\\\" as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death.\" ([Frankl, \"Tragic Optimism\", lecture excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Post-traumatic growth](card:Post-traumatic%20growth): the psychological research successor to Frankl's claim, tied to the perseverance and exploration of novel environments he named as the core of trauma's best possibility."
-        },
-        {
-          "t": "p",
-          "x": "[Meaning-centred therapy](card:Meaning-centred%20therapy): Breitbart and colleagues' short-term group treatment for people with advanced cancer, rooted in Frankl's writings, built to sustain or enhance a sense of meaning, peace and purpose near the end of life."
-        },
-        {
-          "t": "h2",
-          "x": "Work, calling and engagement"
-        },
-        {
-          "t": "p",
-          "x": "[Calling orientation](card:Calling%20orientation): Wrzesniewski, McCauley, Rozin and Schwartz's third orientation to work, alongside the Job and the Career orientations; in their study of 196 employees across occupations, people were unambiguous in seeing their work primarily in one of the three ways."
-        },
-        {
-          "t": "p",
-          "x": "[Vocation as calling](card:Vocation%20as%20calling): Weber's historical account of the word Beruf: a task set by God, whose Reformation valuation of worldly duty first gave everyday work a religious significance."
-        },
-        {
-          "t": "p",
-          "x": "Weber's own lines:"
-        },
-        {
-          "t": "q",
-          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Vital engagement](card:Vital%20engagement): Nakamura and Csikszentmihalyi's compound of a good life: absorption plus significance; the felt connection between self and activity that carries both flow and meaning."
-        },
-        {
-          "t": "p",
-          "x": "[Purpose-linked practice](card:Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents and young adults to persistence on boring tasks that matter."
-        },
-        {
-          "t": "p",
-          "x": "The research line's own definition:"
-        },
-        {
-          "t": "q",
-          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP, p. 560](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Right livelihood](card:Right%20livelihood): the Eightfold Path's work precept in its economic form, the principle of receiving what is necessary without harm and without taking more than the way."
-        },
-        {
-          "t": "h2",
-          "x": "Purpose and goals"
-        },
-        {
-          "t": "p",
-          "x": "The research tradition defines purpose in the vocabulary of goals:"
-        },
-        {
-          "t": "q",
-          "x": "\"Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed.\" ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Psychological well-being](card:Psychological%20well-being): Ryff's theory-guided measures of positive functioning, with purpose in life as one of the six dimensions alongside self-acceptance, positive relations, autonomy, environmental mastery and personal growth."
-        },
-        {
-          "t": "p",
-          "x": "[Self-concordant goals](card:Self-concordant%20goals): goals consistent with a person's developing interests and core values; the self-concordance research finds they are pursued with more sustained effort, more often attained, and linked to greater well-being once attained."
-        },
-        {
-          "t": "p",
-          "x": "[Values-concordant goals](card:Values-concordant%20goals): the same research line applied to goals aligned with the values a person actually holds."
-        },
-        {
-          "t": "p",
-          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): the distinction between goals whose pursuit satisfies basic psychological needs directly and goals whose value depends on other people's reactions, anchored in Kasser and Ryan's classification."
-        },
-        {
-          "t": "p",
-          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): the intrinsic aspirations of affiliation, personal growth and community contribution, set against the extrinsic aspirations of wealth, fame and image."
-        },
-        {
-          "t": "p",
-          "x": "[Goal disengagement](card:Goal%20disengagement): Wrosch's goal adjustment capacity, withdrawing effort and commitment from a goal that cannot be reached; the research links the capacity to well-being and health."
-        },
-        {
-          "t": "p",
-          "x": "[Small steps, large vision](card:Small%20steps%2C%20large%20vision): Weick's small wins, a series of wins at small but significant tasks revealing a pattern that attracts allies and lowers resistance to what comes next."
-        },
-        {
-          "t": "h2",
-          "x": "Meaning made rather than found"
-        },
-        {
-          "t": "p",
-          "x": "[Meaning-making](card:Meaning-making): Crystal Park's research tradition: when events violate what people believe and want, they revise the event's meaning or the global meaning it violated until the gap closes; the model works at two levels, global and situational."
-        },
-        {
-          "t": "p",
-          "x": "The model in Park's own words:"
-        },
-        {
-          "t": "q",
-          "x": "\"Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Life story model](card:Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole."
-        },
-        {
-          "t": "p",
-          "x": "[The narrative fallacy](card:The%20narrative%20fallacy): the counterpoint I hold against the story cluster: the predictable tendency to read a coherent story into a linked series of acts, which predicts too many things about what the story will be."
-        },
-        {
-          "t": "p",
-          "x": "[Narrative as meaning-making](card:Narrative%20as%20meaning-making): Ricoeur's claim, across Time and Narrative, that stories configure actions into a followable whole, and through plot work a life becomes a told story."
-        },
-        {
-          "t": "p",
-          "x": "[Constitution of meaning](card:Constitution%20of%20meaning): Husserl's term for what consciousness does: the mind does not receive a ready-made world but constitutes the things of experience as meaningful."
-        },
-        {
-          "t": "p",
-          "x": "[Constructivist approach to meaning](card:Constructivist%20approach%20to%20meaning): Kelly's idea, elaborated by later constructivist psychotherapists, that meaning is not found lying in events but built out of them, and that the building can be done differently."
-        },
-        {
-          "t": "p",
-          "x": "The constructivist line is the plainest about this. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:"
-        },
-        {
-          "t": "q",
-          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf))",
-          "s": null
-        },
-        {
-          "t": "h2",
-          "x": "Purposes beyond the self"
-        },
-        {
-          "t": "p",
-          "x": "[Self-transcendence](card:Self-transcendence): the family of orientations in which the self recedes from the center; Frankl's version points beyond itself toward a meaning to fulfill or a person to love."
-        },
-        {
-          "t": "p",
-          "x": "Frankl's formulation:"
-        },
-        {
-          "t": "q",
-          "x": "\"The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Self-transcendent experiences](card:Self-transcendent%20experiences): Yaden and colleagues' framework for the transient states marked by decreased self-salience and increased connectedness, with mindfulness, flow, love, awe, peak and mystical experiences inside the grouping."
-        },
-        {
-          "t": "p",
-          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions): the class the research sorts by fit to spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being; amusement and pride do not."
-        },
-        {
-          "t": "p",
-          "x": "[Generativity theory](card:Generativity%20theory): Erikson's adult concern for guiding and providing for the next generation, turned by McAdams and de St. Aubin into a measurable research program of seven facets, from desire to narration."
-        },
-        {
-          "t": "p",
-          "x": "[Intergenerational transmission](card:Intergenerational%20transmission): the family research on what parents hand to children beyond genes: narratives, styles of remembering, and the shapes of a life story."
-        },
-        {
-          "t": "p",
-          "x": "[Legacy motivation research](card:Legacy%20motivation%20research): Fox, Tost and Wade-Benzoni's review of the motive to build a lasting legacy, developed from intergenerational decision making, generativity and terror management theory."
-        },
-        {
-          "t": "p",
-          "x": "[Intergenerational responsibility](card:Intergenerational%20responsibility): Hans Jonas's duties owed to people who do not yet exist and cannot return them, built for an age in which action reaches across generations."
-        },
-        {
-          "t": "p",
-          "x": "[The eternal contribution](card:The%20eternal%20contribution): my reading of Nietzsche's eternal recurrence, the demon's proposal to live this life once more and innumerable times over, turned toward what a life leaves behind."
-        },
-        {
-          "t": "h2",
-          "x": "The inner check"
-        },
-        {
-          "t": "p",
-          "x": "[The daimon](card:The%20daimon): Socrates' inner sign, described at his trial: present since childhood, it only forbids and never commands, and its silence is its only approval."
-        },
-        {
-          "t": "p",
-          "x": "[The call of conscience](card:The%20call%20of%20conscience): Heidegger's existential call, structurally parallel to the daimon: the call comes from the self, summons the self out of its absorption in the world, and the actual content of the call's revelation is deliberately left empty."
-        },
-        {
-          "t": "q",
-          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html))",
-          "s": null
-        },
-        {
-          "t": "h2",
-          "x": "When life gives no answer"
-        },
-        {
-          "t": "p",
-          "x": "[The absurd](card:The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence; the absurd is a relation, born of the confrontation, lying in neither side alone."
-        },
-        {
-          "t": "q",
-          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Revolt](card:Revolt): Camus's third answer to the absurd, after the two he rejects: a constant confrontation between man and his own obscurity, an insistence upon an impossible transparency."
-        },
-        {
-          "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Sisyphus](card:Sisyphus): the figure Camus takes as the absurd hero, set against the workman of today, whose fate is the same and becomes tragic only when it becomes conscious."
-        },
-        {
-          "t": "q",
-          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Nihilism](card:Nihilism): the family's extreme position: no intrinsic values, no objective meaning, no known purpose in life; Nietzsche's diagnosis of the cultural condition behind the modern pursuit of purpose."
-        },
-        {
-          "t": "p",
-          "x": "[Boundary situations](card:Boundary%20situations): Jaspers's four experiences, death, chance, guilt and the struggle of existence, which cannot be bypassed or overcome and only become fully present when lived; for him, philosophy exists because such situations ask the questions purpose answers."
-        },
-        {
-          "t": "q",
-          "x": "\"But to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being.\" ([Jaspers, Way to Wisdom, quoted in Boundary situations](https://epimelea.com/library/jaspers-boundary-situations/))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Entries with a claim on the title that were read and left out: [Elan vital](card:Elan%20vital) is Bergson's metaphysics of life rather than a life's purpose, [Work engagement](card:Work%20engagement) and [Personal engagement](card:Personal%20engagement) are absorption constructs, and [Eudaimonic well-being](card:Eudaimonic%20well-being) belongs to the Genuine Flourishing boundary."
-        },
-        {
-          "t": "h",
-          "x": "Where the traditions genuinely disagree"
-        },
-        {
-          "t": "h2",
-          "x": "Does life supply the meaning, or do we?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: is there a meaning a life is for, such that the task is to find and answer it, or does the world give no answer, such that the task is to stand in the gap honestly? Frankl's position, from the book that carries it:"
-        },
-        {
-          "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Camus's position, from the essay that carries his:"
-        },
-        {
-          "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. I hold both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered."
-        },
-        {
-          "t": "h",
-          "x": "Practice: variation, selection, retention"
-        },
-        {
-          "t": "vs",
-          "l": "Variation",
-          "x": "What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The direction of improvement is toward aims a person is actually the author of, aims that reach beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance."
-        },
-        {
-          "t": "vs",
-          "l": "Selection",
-          "x": "The kernels I have selected as sources of that variation:"
-        },
-        {
-          "t": "n",
-          "i": 1,
-          "x": "[The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): keeping \"What is this life for?\" alive as an ongoing inquiry rather than settling it with a fixed answer; the discipline of holding the question open, in Steger's vocabulary of presence and search."
-        },
-        {
-          "t": "n",
-          "i": 2,
-          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): a monthly sitting with the month's activities, asking each one the four reason questions the self-concordance researchers use to tell a chosen goal from an imposed one."
-        },
-        {
-          "t": "n",
-          "i": 3,
-          "x": "[Legacy letter](card:K224%20%E2%80%94%20Legacy%20letter): a letter to be read after your death, written to one named person, covering what you learned, what you love and what you left unfinished."
-        },
-        {
-          "t": "n",
-          "i": 4,
-          "x": "[Absurd-revolt practice](card:K318%20%E2%80%94%20Absurd-revolt%20practice): for a situation that is genuinely absurd or unjust and cannot be changed, naming it without consolation and then choosing the next action inside it; stance work, in the spirit of Camus, not silver-lining work."
-        },
-        {
-          "t": "n",
-          "i": 5,
-          "x": "[Eulogy exercise](card:K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want delivered at your funeral, clarifying what you stood for by confronting mortality."
-        },
-        {
-          "t": "n",
-          "i": 6,
-          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes of writing in response to \"I will die. The timing is unknown. What does this make urgent?\", then one insight translated into one action this week; the kernel notes the mortality-salience finding that confronting death, when not defended against, can shift priorities toward intrinsic values."
-        },
-        {
-          "t": "n",
-          "i": 7,
-          "x": "[Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): each week, one act of service or creation that outlasts the week; the weekly cadence and the outlasts-the-week test are the practice's own, as the kernel card states, and the research tradition behind it is generativity."
-        },
-        {
-          "t": "n",
-          "i": 8,
-          "x": "[Living the question](card:K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient toward all that is unsolved in the heart and to love the questions themselves, living them now rather than seeking answers that cannot yet be lived."
-        },
-        {
-          "t": "n",
-          "i": 9,
-          "x": "[Project alignment](card:K313%20%E2%80%94%20Project%20alignment): listing the projects that currently structure your life and asking of each whether it expresses who you want to be; Heidegger's projection behind the question, Ryff's purposeful engagement behind the dimension it tests."
-        },
-        {
-          "t": "n",
-          "i": 10,
-          "x": "[Life chapter mapping](card:K332%20%E2%80%94%20Life%20chapter%20mapping): dividing a life into chapters and writing, for each, one sentence on the turning point and one on what it taught; the map builds the narrative coherence the life-story research links to meaning and well-being."
-        },
-        {
-          "t": "p",
-          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, the chapter mapping on the life-story and Hero's Journey studies, and the revolt practice is an editorial exercise in Camus's spirit rather than a tested protocol."
-        },
-        {
-          "t": "vs",
-          "l": "Retention",
-          "x": "Retention is what people keep because it works for them."
-        },
-        {
-          "t": "h",
-          "x": "Story: the stories that carry the theme"
-        },
-        {
-          "t": "p",
-          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
-        },
-        {
-          "t": "h2",
-          "x": "What a purpose is taken to be"
-        },
-        {
-          "t": "p",
-          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge who has lived the life everyone around him considers correct falls ill and, in his long dying, finds the whole respectable edifice was \"not the real thing\"; he had lived it as others lived theirs, without once asking whether it was his."
-        },
-        {
-          "t": "p",
-          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): Frankl's camps memoir argues the will to meaning is the primary human motivation, and carries the famous line that he who has a why to live can bear almost any how: meaning does not remove suffering, it changes the relation to it."
-        },
-        {
-          "t": "h2",
-          "x": "The stance toward suffering"
-        },
-        {
-          "t": "p",
-          "x": "[ST036 — Frankl Chooses the Attitude](card:ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude): the psychiatrist in Auschwitz, observing that prisoners who retained something to live for endured differently, and reporting a freedom that remained when everything else was taken."
-        },
-        {
-          "t": "p",
-          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms."
-        },
-        {
-          "t": "h2",
-          "x": "Work as calling"
-        },
-        {
-          "t": "p",
-          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): decades of hand-drawn grids in solitude in the New Mexico desert, titled \"Innocence,\" \"Gratitude,\" \"Happiness\"; the grid was the trap, and the meaning was what it was a trap for."
-        },
-        {
-          "t": "p",
-          "x": "[ST052 — Beethoven Writes the Late Quartets](card:ST052%20%E2%80%94%20Beethoven%20Writes%20the%20Late%20Quartets): completely deaf, he writes quartets unlike anything written before, at a level of interior detail that could not be reached by anyone listening for the market."
-        },
-        {
-          "t": "p",
-          "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): hallucinated fields of dots since childhood, and since 1977 a life lived voluntarily in a psychiatric hospital, walking daily to the studio to paint them at architectural scale."
-        },
-        {
-          "t": "p",
-          "x": "[ST005 — Hirayama's Perfect Days](card:ST005%20%E2%80%94%20Hirayama%27s%20Perfect%20Days): a Tokyo toilet cleaner waters his plants, photographs the light through the trees, reads before sleep; asked why he is content he does not explain, because the days are the answer, and the film refuses to reveal a backstory that would explain them for him."
-        },
-        {
-          "t": "h2",
-          "x": "Purposes beyond the self"
-        },
-        {
-          "t": "p",
-          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island and thirteen of those spent working the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him."
-        },
-        {
-          "t": "p",
-          "x": "[ST086 — The Bodhisattva and the Tigress](card:ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): a bodhisattva finds a tigress too weak from hunger to feed her cubs, and lies down where she can reach him, ending his life so that hers and the cubs' continue."
-        },
-        {
-          "t": "h2",
-          "x": "The long journey to a purpose"
-        },
-        {
-          "t": "p",
-          "x": "[ST092 — Alvin Straight Rides the Mower](card:ST092%20%E2%80%94%20Alvin%20Straight%20Rides%20the%20Mower): 73, his eyes too bad to drive and his hips too bad to walk, he hitches a trailer to his riding lawnmower and travels 240 miles at five miles an hour to reconcile with his brother; the slowness is the argument."
-        },
-        {
-          "t": "p",
-          "x": "[ST089 — Layman Pang Sinks the Fortune](card:ST089%20%E2%80%94%20Layman%20Pang%20Sinks%20the%20Fortune): a wealthy merchant empties his house and fortune into the river and lives as a layman weaving bamboo sieves with his wife and children; the tradition's proof case that awakening does not require monasticism."
-        },
-        {
-          "t": "h2",
-          "x": "Meaning made rather than found"
-        },
-        {
-          "t": "p",
-          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the stories people tell about their lives, not just the events, predict well-being; suffering narrated as leading to growth predicts best of all, and the telling is a shaping, not a report."
-        },
-        {
-          "t": "p",
-          "x": "[ST280 — Pi's Two Stories](card:ST280%20%E2%80%94%20Pi%27s%20Two%20Stories): the same survival told two ways, with a tiger or with a cook; the investigators prefer the tiger, and the story asks what it is to choose the telling a life can be lived inside."
-        },
-        {
-          "t": "h2",
-          "x": "When life gives no answer"
-        },
-        {
-          "t": "p",
-          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant futile labour as the worst punishment; Camus's conclusion is that the struggle itself toward the heights is enough to fill a man's heart, and one must imagine Sisyphus happy."
-        },
-        {
-          "t": "p",
-          "x": "[ST278 — Dr. Rieux Fights the Plague](card:ST278%20%E2%80%94%20Dr.%20Rieux%20Fights%20the%20Plague): in the quarantined city the physician offers no theory of the plague's meaning; he treats the sick day after day, and his stated reason is plain, that it is the only thing a man can do in the face of suffering."
-        },
-        {
-          "t": "p",
-          "x": "[ST294 — The Demon's Question](card:ST294%20%E2%80%94%20The%20Demon%27s%20Question): Nietzsche's demon offers this life again, innumerable times, every pain and every joy in the same sequence; the question the story leaves the reader is whether to curse the demon or answer that it is divine."
-        }
-      ],
-      "group": "flourishing",
-      "status": "published",
-      "art": "assets/dossier-art/lifes-purpose.jpg"
     },
     {
       "id": "happiness",
@@ -12546,6 +12548,9 @@ function renderDossiers(){
     head.appendChild(el('span','dossier-section-rule'));
     sec.appendChild(head);
     const grid = el('div','acad-hall-grid');
+    /* Featured dossiers share one row of equal cards (up to three); the grid reflows on narrow screens. */
+    const nFeat = cards.filter(d=>d.featured).length;
+    if(nFeat){ grid.className += ' has-featured'; grid.dataset.feat = String(Math.min(nFeat,3)); }
     cards.forEach(d=>{ grid.appendChild(buildCard(d)); });
     sec.appendChild(grid);
     gridHost.appendChild(sec);

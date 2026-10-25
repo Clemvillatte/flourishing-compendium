@@ -57,6 +57,7 @@
    "title": "Wisdom",
    "group": "flourishing",
    "status": "published",
+   "featured": true,
    "art": "wisdom.jpg",
    "scope": "Phronesis, wise-reasoning research, the mean, practical judgement in the moment. Earlier working title 'Wisdom and Judgement'.",
    "nearby_terms": [
@@ -72,6 +73,7 @@
    "title": "Life's Purpose",
    "group": "flourishing",
    "status": "published",
+   "featured": true,
    "art": "lifes-purpose.jpg",
    "secondary_groups": [
     "motivation"
