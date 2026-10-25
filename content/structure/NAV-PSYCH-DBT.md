@@ -8,6 +8,6 @@ tags: ["navigation"]
 parent: "NAV-PSYCHOLOGY"
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY"], "alternatePaths": []}
 ---
-> **Dialectical Behavior Therapy (DBT)** — an approach within the Psychology track.
+> **Dialectical Behavior Therapy (DBT)** — a modality folder in the Psychological Kernels repository.
 
-DBT, developed by Marsha Linehan, synthesises acceptance-based and change-based strategies for emotional regulation, distress tolerance, and interpersonal effectiveness. The kernels here were drawn from opened sources on DBT practice; the red modality line notes "DBT" on each card so the approach is identifiable at a glance.
+Kernels whose own cards carry DBT skills content. See each card for its own sources.
