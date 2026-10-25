@@ -436,3 +436,20 @@ card-gloss reading pass (beyond the two cards checked above) was carried
 by the earlier card-fidelity sweep (worker-pplx-gfva-1025a, recorded
 above); a fresh full card re-read by the restructure worker was not
 completed within this session's clock - flagged rather than claimed.
+
+## Card spot-check (pass 6 addendum, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Following the advisor QC directive, the fifteen most load-bearing
+right-intention glosses were re-checked by this worker against their card
+files this session: Karma (intention definition), Contentment with
+sufficiency (Daodejing 44), Detachment from outcomes (Gita 2.47),
+Nonattachment (Sahdra-Shaver-Brown), Metta, Four immeasurables, Enemy as
+teacher (Śāntideva forbearance), The expanding circle (Singer), Realistic
+conflict theory (Sherif), Self-concordance theory (Sheldon-Elliot),
+Purpose (Frankl), The bodhisattva vow, Implementation intentions
+(Gollwitzer), The intention-behavior gap (Sheeran), Vairagya (Patañjali).
+All fifteen glosses match their cards. Together with the two
+advisor-flagged cards checked earlier this pass (counter-affect,
+extrinsic aspirations), the load-bearing glosses are now worker-re-read;
+the earlier card-fidelity sweep (gfva-1025a, 45 entries) covers the rest.
+This narrows the dos19 evidence flag.
