@@ -93,5 +93,7 @@
    "from": "launcher-pplx-dos21-1025n2",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:01:49+00:00"
 }
