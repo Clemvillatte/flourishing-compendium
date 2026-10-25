@@ -493,3 +493,29 @@ as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Restructure to interwoven format (pass 22, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Dossier rewritten in the owner-validated GF format (interwoven thread; first
+person; map-format entry list dissolved into prose; Related questions and
+contrasts restored as the disagreement-section heading per advisor QC, since
+no sourced tradition-vs-tradition disagreement is established). All quotes
+retained from the raw-verified passes above; no new quotes introduced.
+
+Raw verification (this session, independent of earlier passes): MN 9, MN 117,
+SN 12.15 and SN 56.11 fetched live (curl, tag-stripped, substring-checked)
+by worker-pplx-c3b0f2fb — all retained quote fragments confirmed
+word-for-word. Diamond Sutra section 31 (nyx.net Conze text) fetched live:
+both quoted fragments confirmed; the raw carrier renders "perception of
+dharma, 'Subhuti" with a stray space after the comma (carrier typographical
+artifact; the dossier's rendering normalises that single space, no other
+difference). SEP Nāgārjuna fetched live: the "not some kind of primordial
+reality ante rem" fragment confirmed word-for-word.
+
+Advisor QC round 1 applied: unsupported oppositions removed (MN 9 "refuses
+to define as a creed" claim softened; SN 56.11 tasks-vs-beliefs stated as
+the sutta's assignment with the interpretation kept in the questions
+section); glib/formulaic phrases replaced; "Holding views lightly"
+reorganised around what each account distrusts (reification, detached ends,
+fixity of self, one-sidedness, scale) rather than concatenated card
+descriptions.

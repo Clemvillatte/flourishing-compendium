@@ -6,9 +6,15 @@
       "worker": "worker-pplx-dos18-1025a",
       "state": "done: dossier of record repaired and verified; publication is supervisor-only (registry flip was made and honestly reverted pending art assignment, c4d985532)",
       "verification": "pass 20-21: owner stop-gate repairs applied to draft and dossier of record (substantive opener per MN 117's own two-forms grading, literature claim dropped, 10 checking labels moved to ledger); all quoted passages verified against opened carriers this session (MN 117 four probes, MN 9, SN 12.15, SN 56.11, Diamond Sutra section 31, SEP Nagarjuna, Lord/Lepper/Preston 1984, Damen et al. 2021); milestone QC round 3: divergence section renamed 'Related questions and contrasts', candidate-search status moved to ledger, chronological-training claim dropped from opener; checker exit 0; draft re-synced to the dossier of record after the pass-21 repairs (identical)"
+    },
+    {
+      "slug": "right-view",
+      "worker": "worker-pplx-c3b0f2fb",
+      "state": "done: dossier restructured to the owner-validated GF interwoven format (2026-10-25 current orders): map-format entry list dissolved into first-person prose threads; all quotes and card links retained from raw-verified passes; advisor QC round 1 applied (unsupported oppositions removed, glib phrases replaced, disagreement heading restored to 'Related questions and contrasts', Holding-views-lightly reorganised around what each account distrusts); checker exit 0 (41 card links, 12 external carriers)",
+      "verification": "pass 22 (worker-pplx-c3b0f2fb, 2026-10-25): all four sutta carriers (MN 9, MN 117, SN 12.15, SN 56.11) plus Diamond Sutra section 31 and SEP Nagarjuna fetched live and substring-checked by this worker this session - every retained quote fragment confirmed word-for-word (Diamond Sutra carrier has one stray space after 'perception of dharma,' comma; dossier rendering normalises it, no other difference); quote_verify: 9 quotes checked, 0 not found; ledger updated with the raw-verification record"
     }
   ],
-  "note": "pass 21 (worker-pplx-dos18-1025a): REMAINING for supervisor: view-data rebuild for right-view (its fcDossiersData predates the pass-20/21 repairs; dossier_registry_build.py --rebuild=right-view is supervisor-only), and the divergences remain honestly open - none of the three contrasts is established as a grounded same-question disagreement; next action recorded in the ledger's Open points.",
+  "note": "pass 22 (worker-pplx-c3b0f2fb): right-view restructured to the GF interwoven format per 2026-10-25 current orders, checker exit 0, quotes re-verified raw this session (see ledger pass 22). REMAINING for supervisor: view-data rebuild (dossier_registry_build.py --rebuild=right-view is supervisor-only, the fcDossiersData still predates the pass-20/21 repairs), art assignment, and the divergences remain honestly open - none of the three contrasts is established as a grounded same-question disagreement.",
   "status": "done",
   "in_progress": null
 }
