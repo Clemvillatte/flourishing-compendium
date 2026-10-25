@@ -249,3 +249,6 @@ The Gutenberg header lists the translators as Paul V. Cohn, Thomas Common and Ma
 
 ## B047 and B131 — Hakuin "awaken fully" and Yampolsky p. 144 (previously flagged)
 Opened [Great Doubt: Practicing Zen in the World (Terebess PDF)](https://terebess.hu/zen/mesterek/greatdoubt.pdf): it introduces the sentence as Hakuin's and footnotes it as "Yampolsky 1971, 144 revised". The wording and locator on B131 therefore match the source as quoted there; the page already says the book quotes a revised version. Yampolsky's own book was not opened.
+
+## Audit: external link status, all principle pages
+Requested 1,769 distinct non-publisher URLs from principle pages. The only 404 responses were URLs cut off at a closing parenthesis by my pattern (the full links contain brackets in the file name) and chicano.ucla.edu/files/s7.pdf, which returns 404 to scripts but opens in the page reader (M006, noted earlier). No genuinely dead link found among the non-publisher domains. Publisher DOI and journal domains were skipped because they block scripted requests.
