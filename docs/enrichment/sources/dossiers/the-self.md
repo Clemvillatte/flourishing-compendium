@@ -509,3 +509,40 @@ AGAIN from the merged markdown during conflict resolution so the
 compiled data carries both span fixes (first and second Deikman
 links) plus the Hume verbatim fix and the Nearby-terms sync.
 
+
+## Conversion-prep inventory (2026-10-25 10:51Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+The the-self GF conversion (supervisor lane map, 2026-10-25 10:46Z item:
+"the-self old-map GF conversion, supervisor/dossiers band") is the remaining
+dossiers-band item. Inventory for the next writer:
+
+- Format state: still old-map. The main body is one "## The map: the
+  entries on the self" section (the old-format marker per dossiers/HANDOFF)
+  with 10 thematic subsections: What the self is taken to be / The
+  observing self and the step back / The narrative self / The social and
+  cultural self / How the self is built and defended / Self-worth and its
+  weather / Identity over a life / Working on the self / The self that
+  reaches beyond itself / The self in the engine room (+ two closing
+  subsections: classical sayings, "My own shelves on the self").
+- 185 card links to preserve. The body paragraphs are catalog format
+  (one card-led paragraph each); the GF conversion is mostly dissolving
+  them into interwoven argument movements per subsection, in the house
+  first-person voice.
+- Already GF-shaped and can be largely kept: the opening two paragraphs,
+  Nearby terms, the four disagreement questions (Is there a permanent
+  self? / Does introspection find a self? / Does the cogito establish
+  knowledge of a thinking substance? / Is the self separate or
+  relational?), the Practice VSR section, and the Story section (six
+  groups, already group-formed).
+- Quote state this pass: quote_verify 14 checked, 1 not found
+  (suttacentral mil3.1.1 — documented fetch-blocked exception,
+  browser-verified verbatim by the supervisor, per this ledger).
+  All carrier flags previously raised for this dossier are CLEARED per
+  the supervisor's 2026-10-25 follow-through note above (Milinda
+  chariot passage, both Deikman spans, Hume, PMC Hayes span).
+- Checks at this pass: dossier_check exit 0; density 0 dense.
+
+Estimated scope for the conversion writer: the 10 subsections of catalog
+paragraphs are the work; opening, disagreements, practice and story need
+only a voice pass. The 40-300 word rule does not apply (dossier). Do not
+publish from this pass — I made no edits to the dossier.
