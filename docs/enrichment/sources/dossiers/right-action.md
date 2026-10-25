@@ -605,3 +605,17 @@ Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
 - Checks re-run after repairs: checker exit 0 (64 links, 20 headers,
   14 carriers), density 0 dense, link-set comparison zero missing,
   quotes byte-identical.
+
+## Advisor QC round 4 (same session) — final evidence fixes
+
+- K184: study population now stated — sixteen people with borderline
+  personality disorder over six laboratory sessions (Sauer-Zavala et
+ . 2019, the same study recorded in this ledger's pass-2 verification:
+  opposite action cut intensity more for sadness and guilt/shame; no
+  advantage for anxiety or anger in that design).
+- K290: the generalizing final sentence ("the setting where bystander
+  research finds silence spreads") DELETED per the reviewer's
+  instruction; the entry now states the practice alone.
+- Clinical pair wording tightened: "Both give an instruction for the
+  next act rather than a theory of the person" -> "Both focus on what
+  to do next."
