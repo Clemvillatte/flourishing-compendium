@@ -3,7 +3,6 @@
  "done": [
   "Escape from freedom",
   "Eternal recurrence",
-  "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
   "Fixed views of self",
   "Four immeasurables",
   "Fusion of horizons",
@@ -70,6 +69,7 @@
   "Attentional control theory (Eysenck)",
   "Family systems theory",
   "Hope",
+  "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence",
   "Prosocial behaviour"
  ],
  "in_progress": null,
@@ -85,11 +85,12 @@
   "Attentional control theory (Eysenck)": "RESOLVED 2026-10-20: advisor scoped PASS at round 15b-close second review; repairs (citation URL, bare link, ledger chronology) applied and remotely verified; full record in docs/enrichment/sources/w1d/ledger.md",
   "Family systems theory": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed",
   "Hope": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed",
-  "Prosocial behaviour": "Reopened for QC: QC: routed jargon cleanup — 'My seed' narration reworded; '(opened)' suffixes removed"
+  "Prosocial behaviour": "Reopened for QC: advisor QC round 3: first-person/seed narration reworded; category error fixed",
+  "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence": "Reopened for QC: advisor QC round 3: first-person/seed narration reworded; category error fixed"
  },
  "missing_concepts": [],
  "sources_checked": 153,
- "updated": "2026-10-25T01:48:18+00:00",
+ "updated": "2026-10-25T01:51:54+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",

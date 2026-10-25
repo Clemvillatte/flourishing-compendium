@@ -7,7 +7,7 @@ file: "Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust e
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-This entry is a boundary marker rather than a traditional concept: its title states the claim I attache to it, that professional treatments for mental-health conditions have an evidence base, and the principles that cite it are the ones that say when self-directed practice is not enough. Its seed line names the other half of the claim: self-directed practice alone is insufficient for moderate-to-severe presentations (Hofmann et al., 2010). The treatments the title lists are real and each has been tested, with limits worth knowing.
+This page is a boundary marker: its title states the claim that professional treatments for mental-health conditions have an evidence base, and the principles that cite it are the ones that say when self-directed practice is not enough. The other half of the claim is that self-directed practice alone is insufficient for moderate-to-severe presentations (Hofmann et al., 2010). The treatments the title lists are real and each has been tested, with limits worth knowing.
 
 ### What the evidence shows
 
