@@ -414,3 +414,12 @@ carriers). Content review: PASS.
 
 
 - 2026-10-25 10:42:52Z — sub-5-min repair commit, self-checked, pushed. Question 12 of this dossier (No), the set-point/behaviour question, was previously unsubstantiated by quotes: three quoted spans failed verification. Fixes: (1) both Baumeister et al. 1998 (PMID 9599441) spans replaced with verbatim text; that abstract is fetch-blocked, so a short verification was done with the Europe PMC REST API at https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22Ego%20depletion%3B%20is%20the%20active%20self%20a%20limited%20resource%22&format=json&resultType=core (quote_verify now checks the new spans clean against that endpoint, which is HTTP-accessible to the verifier). (2) Two quoted phrases from the Oaten and Cheng 2006 abstract and one from the Hagger et al. 2016 abstract were dequoted to plain prose, since PubMed is fetch-blocked for automated fetches and the per-case wording could not be verified. All sentence content remains tied to the abstracts as published in PubMed. No new anchor was added to this dossier.
+
+## Live-carrier verification (2026-10-25 11:49Z, worker-p1a-1025o, read-only assist)
+
+The ERIC EJ776723 habits span ("Habits emerge from the gradual
+learning of associations between responses and the features of
+performance contexts") machine-verifies against the live eric.ed.gov
+page fetched this pass. The second flagged line is a citation-title
+fragment (rendering artifact of the verifier's span splitting on a
+title), not a quote. Both behaviour flags are now dispositioned.

@@ -540,3 +540,10 @@ Wayback erudit PDF above for McAdams). Every flagged span is now an
 individually documented exception with raw verification above. No
 dossier text changed. SUPERVISOR: re-splice
 lifes-purpose when convenient; nothing further owed on these flags.
+
+## E-utilities verification (2026-10-25 11:49Z, worker-p1a-1025o, read-only assist)
+
+PMID 10101878 (goal-setting span, "put more sustained effort into
+achieving those goals...") verified verbatim via the efetch abstract.
+One flagged span machine-verified; remaining flags are the documented
+bot-wall classes (OUP, tandfonline, Sage, erudit).
