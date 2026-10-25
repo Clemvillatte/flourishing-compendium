@@ -36,7 +36,7 @@ Imagine a friend describing a difficult day. Listen to the words they use and ch
 
 ## Psychology parallels
 
-- **[[Radical acceptance|Radical acceptance]]**: Linehan's handout asks for acknowledging facts about past and present even when disliked, a clinical comparison rather than evidence for the discourse's liberation claim ([2015, Distress Tolerance Handout 11](https://strengtheningyourconsciousself.com/wp-content/uploads/2023/12/DBT-Distress-Tolerance-Handout-11.pdf)).
+- **[[Radical acceptance|Radical acceptance]]**: Linehan's handout asks for acknowledging facts about past and present even when disliked, a clinical comparison rather than evidence for the discourse's liberation claim (Distress Tolerance Handout 11, as reproduced in a [Kaiser Permanente PDF](https://mydoctor.kaiserpermanente.org/ncal/Images/Distress%20Tolerance%20DBT%20Skills_ADA_04232020_tcm75-1598996.pdf)).
 - **[[Deautomatization|Deautomatization]]**: Deikman proposed a psychological model of mystical experience based on meditation and renunciation; this is a hypothesis, not proof of direct access to things without interpretation ([1966, opening model statement](https://www.deikman.com/deautomat.html)).
 
 ## Philosophy parallels

@@ -135,3 +135,6 @@
 
 ## SE052, SO003 Markus and Kitayama 1991
 - Stanford-hosted PDF URL returned 404 to my fetch; swapped to MIT-hosted copy (web.mit.edu/curhan/...), where all kept quotes were checked. SO003: two scare-quoted phrases ('a variable, not a constant', 'the self per se') are not in the paper; removed and the advice attributed to the entry. Abstract numeral '2' rendered as [two].
+
+## S067, SP001, B124 broken links
+- S067: two malformed/truncated parallel links replaced with PubMed records for Desbordes et al. 2014 and Sahdra, Shaver and Brown 2010 (abstracts opened). SP001: Spinoza quote 'I have laboured carefully, not to mock, lament, or execrate, but to understand human actions' verified verbatim in the Elwes-edition A Political Treatise PDF (files.ethz.ch); dead umb.edu link replaced. B124: dead handout link replaced with a Kaiser Permanente PDF of Linehan's Distress Tolerance Handout 11 where the 'facts about the past and the present are the facts, even if you don't like them' line is present.

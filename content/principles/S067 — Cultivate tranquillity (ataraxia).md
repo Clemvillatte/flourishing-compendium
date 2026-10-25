@@ -32,8 +32,8 @@ Epictetus gives the sequence. Asked what virtue produces, he answers in one line
 - [[T013 — Seneca]]: De Tranquillitate Animi, where the page's definition of peace of mind comes from.
 ## Psychology parallels
 
-- **[[Equanimity|Equanimity as contemplative outcome]]** ([Desbordes et al., 2014)
-- **[[Nonattachment|Nonattachment]]** ([Sahdra et al. review](https://non-attachment.com/...)
+- **[[Equanimity|Equanimity as contemplative outcome]]** ([Desbordes et al., 2014, PubMed](https://pubmed.ncbi.nlm.nih.gov/25750687/))
+- **[[Nonattachment|Nonattachment]]** ([Sahdra, Shaver and Brown 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/20155561/))
 
 ## Philosophy parallels
 
