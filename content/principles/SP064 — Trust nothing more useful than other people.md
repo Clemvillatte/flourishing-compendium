@@ -23,7 +23,7 @@ The next scholium is less hopeful. In a quotation of Curley's translation, Spino
 The principle's title says "other people", but Spinoza's claim concerns people guided by reason. No disaster research was opened for this page, so the original entry's claim about disaster studies is not cited. The advice to treat conflict as damage to infrastructure is my own.
 
 **Plain words**
-Spinoza says the most useful thing for a person is another person who lives by reason, and he knows most people often do not. We need each other, and some people help us much more than others.
+Why point at people at all, when food, tools and medicine are at hand? Spinoza's answer is that a thing helps you insofar as it is like you, and another reasonable mind is the closest likeness there is. One catch: almost nobody manages it for long. So the same creatures who can be your greatest help spend most of their time being difficult, and you cannot simply do without them.
 
 **For example**
 List the three people who most help you think clearly. Plan something concrete with each of them this month.

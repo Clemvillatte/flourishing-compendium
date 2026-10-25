@@ -26,19 +26,20 @@
     "SP040",
     "SP049",
     "SP057",
-    "SP064",
     "SP078",
     "SP080",
     "SP081",
-    "SO033"
+    "SO033",
+    "SP064"
   ],
   "in_progress": null,
   "flagged": {
-    "SO033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 1.00)"
+    "SO033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 1.00)",
+    "SP064": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.71)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:27:59+00:00",
+  "updated": "2026-10-25T12:28:13+00:00",
   "band_done": false,
   "notes": {
     "SO033": {
@@ -46,6 +47,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://pubmed.ncbi.nlm.nih.gov/15382983/"
+    },
+    "SP064": {
+      "qc": "Plain-words replicate replaced (0.71 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://monadnock.net/spinoza/ethics-4.html"
     }
   }
 }
