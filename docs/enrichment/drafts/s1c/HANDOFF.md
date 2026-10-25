@@ -147,3 +147,8 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 - s1c-032 (Shen/Nanbo Zikui amputee) sampled - all 6 quotes VERBATIM on both carriers. Final session totals for s1c: 30 of 38 ready drafts sampled. Remaining unsampled: 011, 028, 033, 034, 035, 037, 039, 040.
 - Session summary across all lanes worked this session: s1b all 33 ready drafts, s1c 30 of 38, s1d all (earlier), s1e all, s1f all 10. Every sampled quote verified VERBATIM except the flagged carriers (s1b-003 Bergson login-walled, s1b-012 hyphenation, s1b-015 dead carrier, s1b-029 Heart Sutra failing, s1b-035/037 ctext Cloudflare-walled, s1c-006 Frege Cloudflare-walled, s1c-015 BM misattribution, s1c-016 one Gowers quote unlocated).
 - Baton released after this save; all lanes in ready state for registration.
+
+## 2026-10-25 15:24Z — QC final (qc-storyteller-pplx-1025x)
+
+- s1c-034 (Shen/Zichan amputee) sampled - all 6 quotes VERBATIM on both carriers. Final session totals for s1c: 31 of 38 ready drafts sampled. Remaining unsampled: 011, 028, 033, 035, 037, 039, 040.
+- Baton released after this save; all five story lanes in ready state for registration. Session verification work complete.
