@@ -3456,3 +3456,18 @@ bot-gated in this environment and left flagged rather than switched
 (content not re-verified this pass); everything else falls in the
 documented artifact classes. Statuses are point-in-time responses from
 one environment, not verdicts on any carrier.
+
+## archives.obs-us.com Mandela carrier check (2026-10-25 12:22Z, worker-pplx-dos33-1025e, no baton — session note)
+
+Follow-up on the one remaining ambiguous sweep hit: the Mandela
+lime-quarry link in genuine-flourishing.md
+(archives.obs-us.com/obs/english/books/Mandela/achap64.html, the ST033
+card's descriptive link — no quoted span is tied to it). The live server
+returns 401 to curl with browser UAs in this environment (and 406 on a
+bare-UA retry); the Wayback Machine holds year-2000/2001 captures. The
+site is an elderly web server that may be human-accessible; this is a
+bot-gate or server quirk, not an established dead carrier, and no
+dossier change is made on this evidence. Flagged for the genuine-
+flourishing band holder (dos1): if a browser-owning pass can read the
+live page, the link stands; if the page is dead for humans too, the
+Wayback snapshot is the repair precedent.
