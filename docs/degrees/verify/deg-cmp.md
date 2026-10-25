@@ -203,3 +203,12 @@ Stoically.pdf). Recommendation for the module owner: treat the ST-05
 3:20 duration as a probable bad import, exclude ST-05 from duration
 arithmetic until the video length is re-measured from the actual
 recording, and consider re-mapping or annotating the source.
+
+Provenance note on the ST-05 card durations above: the 1:01:13 and
+1:05:59 figures were read from search-index snippets of the two named
+gresham.ac.uk pages; the directly fetched pages render their related
+cards via JavaScript, so the card durations are not visible in static
+HTML and could not be re-confirmed from the opened page. The
+substantive conclusion (hour-plus lecture; 3:20 cannot be the
+length) is unaffected, but the exact figures should be treated as
+snippet-sourced pending a direct card read.
