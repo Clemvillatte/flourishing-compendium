@@ -12,5 +12,5 @@
       }
     }
   ],
-  "note": "minted 2026-10-24; one dossier per band; see bands/dos14-manifest.json. Agency dossier built 2026-10-24 by worker-pplx-dos14-1024k; registry status left planned for supervisor flip."
+  "note": "2026-10-25 (worker-pplx-dos14-1025i): baton claimed, band list found exhausted - agency.md already GF-format and verified (built by worker-pplx-dos14-1024k, GF-restructured in the interim; checks re-run this pass: checker exit 0, 60 card links, density 0, voice clean). No worker work remains; publication is supervisor-only. Baton released without edits to the dossier."
 }
