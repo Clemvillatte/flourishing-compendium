@@ -19,7 +19,7 @@ Sharot's review describes overly favourable expectations about future events, in
 The principle's response is preparation: for a decision that matters, compare the expectation with the evidence, and decide what preparation would be proportionate if the outcome is unfavourable.
 
 **Plain words**
-For a decision that matters, write down what you expect and what evidence you used. Then consider an unfavourable outcome and decide what preparation would be proportionate.
+Most people carry a quiet weather forecast that is sunnier than the data, and it is not a stupid error: the same tilt keeps plans moving and spirits up. The trouble is what it does to insurance. Brains that assume the marriage will hold buy less cover, skip the check-up, and start the venture with too thin a cushion.
 
 **For example**
 Before launching a venture, estimate the costs of a delayed launch. Record what you would change if sales fell below your forecast.
