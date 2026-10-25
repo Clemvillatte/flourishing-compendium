@@ -20,6 +20,16 @@
     "SUPERVISOR/OWNER: 3-5 substantiated-disagreement bar still unmet for leisure; next lead recorded in ledger (UTS accepted manuscript on the serious-leisure perspective)",
     "OWNER: registry flip and rebuild still blocked on artwork assignment for leisure"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025k",
+   "state": "QC round 10: Stebbins-Veal (serious-casual divide) added as second substantiated disagreement, both sides first-hand (Stebbins Leisure Reflections 60, 2022, seriousleisure.net; Veal 2021 Leisure Studies critique, OPUS full text); Russell-Adorno rewritten as labelled comparison/tension per advisor QC; all advisor corrections applied (three-forms scoping, for-most-people qualifier, evidential-vs-absence framing, biographical sentence replaced). Page carries TWO substantiated (Aristotle-vs-Russell, Stebbins-vs-Veal); 3-5 bar still unmet at lower bound, one more needed.",
+   "verification": "Stebbins 2022 categorical assertion raw-verified against fetched reflections60.pdf; Veal quotes raw-verified against fetched OPUS 2021 PDF; Adorno quotes unchanged from round 9; checks green (exit 0, 33/33 quotes, 0 dense, voice 0)",
+   "flags": [
+    "SUPERVISOR/OWNER: leisure at 2 substantiated, needs 1 more; next lead recorded in ledger (Veal 2017 Leisure Sciences, typology-vs-theory axis)",
+    "OWNER: registry flip and rebuild still blocked on artwork assignment"
+   ]
   }
  ],
  "in_progress": "",
