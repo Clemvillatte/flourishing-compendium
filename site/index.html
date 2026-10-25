@@ -33,6 +33,7 @@
     </div>
     <div class="spacer"></div>
     <div class="topbar-utils">
+      <button id="promptBtn" type="button" title="A creative writing prompt drawn from the compendium (opens a window)" aria-haspopup="dialog" aria-label="Writing prompt"><span class="pb-icon" aria-hidden="true">✎</span><span class="pb-txt">Prompt</span></button>
       <button id="essayExportBtn" type="button" title="Export essay outline (Ctrl/Cmd+Shift+S)">Essay <span id="essayCountBadge">0</span></button>
       <button id="essayClearBtn" type="button" title="Clear the essay collection (reset to 0)" aria-label="Clear essay collection"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
       <!-- soundscape player launcher: docks into the header (between the Essay
@@ -783,6 +784,7 @@
 
 </script>
 <script src="assets/player/fc-player.js" defer></script>
+<script src="assets/prompts.js?v=20261025a" defer></script>
 <script>
 window.addEventListener('DOMContentLoaded', function () {
   if (!window.FCPlayer) return;
