@@ -19,7 +19,7 @@ The habit literature gives the principle its mechanism. Wood and Neal's model of
 Wood and Neal describe how learned context cues can elicit habitual responses, while also explaining how goals interact with habits. This principle applies that model by treating cue management as one possible way to change a routine — the authors' own discussion of change centres on what they call the self-regulation of habit cuing.
 
 **Plain words**
-Habits are triggered by places and objects: perceiving the context fires the associated response without a mediating goal. The learned associations do not shift appreciably with current goal states, though habits do interface with goals. So one practical move is cue-level: move the phone, close the tab, leave the remote in another room.
+A habit is a room that has learned your behaviour. The chair remembers the scrolling, the desk remembers the work, and walking in is often enough to start the old engine with nobody at the wheel. This is why resolve fails at the same spot each evening: the intention lives in one system, the trigger in another that barely listens. The cheapest lever is furniture; the phone in another room argues better than a promise.
 
 **For example**
 Imagine someone who routinely turns on the television when settling down to work. Before the next work session, they leave it off and put the remote in another room.
