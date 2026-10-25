@@ -21,7 +21,7 @@ Peirce grounds the maxim in his account of belief as the establishment of a habi
 (Peirce, "How to Make Our Ideas Clear," 1878.)
 
 **Plain words**
-A belief is a habit, a rule of action; the maxim asks what conceivable differences its truth would make to practice. If you cannot name any, the belief has not been made clear yet. Understanding a concept means being able to say what would be different if it were true.
+Peirce's test is a cashier's window for ideas. Bring the concept to the counter and ask what would actually change in the world if it were so, and if the answer is a shrug, the idea has no cash value yet, however elegant it sounds in the abstract. A real one pays out somewhere, maybe in a choice you make weekly, maybe in a corner case you have not yet met, but the payout must be nameable.
 
 **For example**
 Take "I have a good heart". List the conceivable practical differences between its being true and its being false. A list you cannot fill in marks a phrase, not yet a belief.
