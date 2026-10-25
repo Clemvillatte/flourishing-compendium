@@ -611,3 +611,37 @@ opening, the four frames — matches) and ST071 The Wind and the
 Flag (Huineng, not the wind or the flag — matches). All three
 match. With batch 1, the sampled cards all verify. No defects
 found.
+
+## Heading repair and fourth question (2026-10-25, worker-pplx-dos30-1025l, baton dos24)
+
+Before this entry the page held three substantiated questions under the
+non-standard heading "Related questions and parallels", so the
+standard count read zero. Repair: the heading is now "Where the
+traditions genuinely disagree" and holds the definitions question
+(Kabat-Zinn vs Thanissaro), the nonconceptual-awareness question
+(Gunaratana vs Bodhi) and a new fourth question. The question "How
+does bare attention support practice?" states in its own text that
+"the two readings hold together", so it is NOT a disagreement; it was
+moved, unedited, under a new "## Related parallels" heading.
+Nothing in those three questions was changed.
+
+New question: Has the research earned the claims made for mindfulness?
+Goyal et al. 2014 abstract (PubMed 24395196, fetched): "moderate
+evidence", "low evidence", "no evidence that meditation programs were
+better than any active treatment". Van Dam et al. 2018 (Perspectives
+on Psychological Science 13(1), 36-61), abstract text from the SAGE and
+PMC5758421 pages as returned by search: "Misinformation and poor
+methodology associated with past studies of mindfulness may lead public
+consumers to be harmed, misled, and disappointed"; "to move away from
+relying on the broad, umbrella rubric of 'mindfulness'". The count
+"15 researchers" is from a PubMed-indexed review's description of the
+paper and the author list. Full text of both was NOT read beyond what
+is quoted; the page says the two are not enemies and are both inside
+the field. Participant counts are not repeated (the PMC manuscript and
+the published abstract differ: 3,320 vs 3,515); the existing body
+sentence uses the manuscript figure with its PMC link, left untouched.
+
+Checker: exit 0 (49 card links, 17 headers, 12 carriers). Count
+correction: right-mindfulness has FOUR questions under the standard
+heading. SUPERVISOR: the earlier three were not new work; please
+verify you are content with the heading change.
