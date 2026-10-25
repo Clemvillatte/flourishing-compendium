@@ -133,6 +133,20 @@ The two passages answer the same question with opposite rules. The Buddhist text
 
 I lean toward the sutta's strict rule because I distrust my own ability to distinguish a necessary protective lie from a convenient excuse. That preference is hardest to defend when deception would protect someone from grave harm.
 
+### Is the duty to tell the truth unconditional?
+
+The shared question: does the duty to speak the truth bind everyone, always, or only toward those who have a right to the truth? Constant denies the unconditional reading, and offers the murderer as his proof case:
+
+> "Le principe moral, par exemple, que dire la vérité est un devoir, s'il était pris d'une manière absolue et isolée, rendrait toute société impossible... Dire la vérité n'est donc un devoir qu'envers ceux qui ont droit à la vérité." ([Constant, Des réactions politiques, ch. VIII](https://classiques.uqam.ca/classiques/constant_benjamin/des_reactions_politiques/reactions_politiques.pdf)) — the moral principle that truth-telling is a duty, taken absolutely and in isolation, would make all society impossible; truth-telling is a duty only toward those who have a right to the truth.
+
+> "Nous en avons la preuve dans les conséquences très directes qu'a tirées de ce principe un philosophe allemand, qui va jusqu'à prétendre qu'envers des assassins qui vous demanderaient si votre ami qu'ils poursuivent n'est pas réfugié dans votre maison, le mensonge serait un crime." (same source) — we have proof, he writes, in the German philosopher who pretends that toward murderers asking whether the friend they pursue is hiding in your house, the lie would be a crime.
+
+Kant affirms the unconditional reading, and answers the murderer case directly:
+
+> "Truthfulness in declarations (Aussagen) that one cannot avoid is a human being's duty to everyone, however great the disadvantage to him or to another that may result from it... I bring it about, as far as I can, that declarations in general are not believed, and so too that all rights which are based on contracts come to nothing and lose their force; and this is a wrong inflicted upon humanity generally." ([Kant, On a Supposed Right to Lie from Philanthropy](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-88572011000200005))
+
+The two passages answer the same question with opposite rules. Constant grounds the duty in the hearer's right: where the hearer intends murder, the right lapses, and the lie is what anyone would say. Kant grounds it in the practice of assertion itself: a lie harms not the murderer but humanity generally, because it corrodes the trust on which all contracts and rights rest. What remains unresolved is where the duty lives — in the hearer's claim, as Constant holds, or in the institution of truthful speech, as Kant holds — and the murderer at the door is the case that forces the choice.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the rush from impression to utterance: the volume mistaken for truth, the venting mistaken for honesty, the advice that relieves the speaker and burdens the hearer, and the fluency of a repeated claim mistaken for its being so. The adaptive direction is the gap between the stir and the saying: the words run through the gate of true, timely, beneficial, and kind, the listening done before the verdict, and the plain word preferred to the beautiful one.

@@ -458,3 +458,7 @@ STATUS: two substantiated disagreements ("Must right words be
 pleasing?" and "May one lie for another's sake?"); the 3-5 bar
 remains UNMET (2 of 3 minimum). Publication decision remains with
 the supervisor/owner.
+
+## Third substantiated dispute added (assistant-supervisor-1025e, 2026-10-25)
+
+"Is the duty to tell the truth unconditional?" — Constant denies (truth-telling a duty only toward those with a right to the truth; absolute principle would make society impossible), Kant affirms (truthfulness in unavoidable declarations is a duty to everyone, however great the disadvantage; a lie wrongs humanity generally). Carriers, both raw substring-verified in-session: Constant, Des réactions politiques ch. VIII, UQAM Classiques des sciences sociales PDF (https://classiques.uqam.ca/classiques/constant_benjamin/des_reactions_politiques/reactions_politiques.pdf) — all three French quotes verified; Kant, On a Supposed Right to Lie from Philanthropy (1797), English text via Eidos/scielo (http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-88572011000200005) — the 8:426 truthfulness passage verified. French quotes kept in French with English gloss in prose, per house practice for non-English carriers. right-speech now stands at THREE substantiated disputes (Gita-vs-Abhaya, Cunda-vs-Mill, Constant-vs-Kant) — 3-5 bar met. Registry rebuilt for right-speech.
