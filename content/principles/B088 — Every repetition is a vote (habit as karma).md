@@ -12,27 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 88** — Every repetition is a vote (habit as karma)
 
-Each time you repeat a mental pattern, you strengthen the track. Choose your repetitions: they are casting votes for who you become.
+Small choices deserve my attention. The Dhammapada urges repeated good action and warns against repeated wrongdoing, then uses a water pot filling drop by drop to describe both kinds of accumulation ([verses 117–122, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html)):
 
-The Dhammapada's image is a water pot filled drop by drop, applied in both directions:
+> Think not lightly of good, saying, "It will not come to me." Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good. ([verse 122](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html))
 
-> "121. Think not lightly of evil, saying, 'It will not come to me.' Drop by drop is the water pot filled. Likewise, the fool, gathering it little by little, fills himself with evil.
->
-> 122. Think not lightly of good, saying, 'It will not come to me.' Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good." (Dhammapada 121-122, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html))
+I read the image as encouragement to make the next contribution with care. It gives me a reason to take a small kindness seriously and to stop excusing a repeated slight.
 
-The verse's claim is modest: the pot fills either way, and the filler is repeated small additions. The choice sits at the level of the drops.
+The word karma also needs its ethical sense. AN 6.63 says, "Intention, I tell you, is kamma," and names intentional action through body, speech and intellect ([Thanissaro, section 5](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html)). I use the voting image for actions I choose. I can ask what I intend, who is affected and whether I want to continue.
 
-(Dhammapada 121-122; SN 12.)
+For me, this leaves room for repair. If I have spoken cruelly, the next task may be an apology and a different response when the situation recurs.
 
 **Plain words**
-A rough everyday version: each evening you either send the snippy reply or sleep on it, and the choice feels weightless because it is one email. The verse's claim is that the weight is in the count. One reply is nothing; the thousandth reply is a person.
+Take the small action seriously. Choose something worth repeating, notice when you have caused harm and make the next choice with care.
 
 **For example**
-The nightly wind-down scroll, read in the verse's terms: a thousand drops into one pot.
+Imagine repeatedly interrupting a colleague. Today you let her finish and ask about the point you missed. In this invented scene, the change begins with a particular conversation and a person who deserves to be heard.
 
 ## Sources
 
 - [Dhammapada ch. 9, trans. Acharya Buddharakkhita (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.09.budd.html) — vv. 121-122
+- [AN 6.63 Nibbedhika Sutta, trans. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html): section 5, intention and kamma.
+- [Lally et al., How are habits formed? (2010), Wiley abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674): a separate study of behavioural automaticity.
 
 ## Practice kernels
 
@@ -43,12 +43,12 @@ The nightly wind-down scroll, read in the verse's terms: a thousand drops into o
 
 ## Psychology parallels
 
-- **[[Habit formation|Habit formation]]**, automaticity grows with repetition (Lally et al., 2010; Wood and Neal, 2007)
+- [[Habit formation|Habit formation]]: Lally and colleagues followed repetition of chosen health behaviours in a daily context and measured self-reported automaticity; their abstract reports substantial variation in modelled formation times ([2010](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674)). This comparison concerns behavioural automaticity.
 
 ## Philosophy parallels
 
-- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
-- **[[Habit|Habit]]** (James, The Principles of Psychology, ch. IV)
+- [[Habituation|Habituation]] and [[T002 — Aristotle|Aristotle]]: further comparative reading.
+- [[Habit|Habit]]: another route into the philosophical question of repetition.
 
 <!-- fc: reflections
 What repetition are you currently strengthening — the nightly wind-down scroll or something else? What are the votes actually casting?
