@@ -45,6 +45,8 @@ The concept carries a family of practices aimed at the same pull: returning to t
 ## Related concepts
 
 - [[K314]] — The kernel treats anticipatory anxiety as information about what matters, the daily practice behind the page's theme.
+- [[The dizziness of freedom]] — the same Kierkegaardian account of anxiety as freedom's own symptom, read as possibility
+- [[Intolerance of uncertainty]] — the clinical construct for when the future's openness stops being workable and becomes a burden
 
 ## Sources
 

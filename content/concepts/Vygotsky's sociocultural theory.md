@@ -22,6 +22,8 @@ The zone names what is still forming rather than what has formed: it "defines th
 ## Related concepts
 
 - [[Self-talk research]] — the verbal self-regulation theory the athlete self-talk study cites as its frame
+- [[The zone of proximal development]] — the construct this page's source chapter defines, in the source's own terms
+- [[Piaget's theory of cognitive development]] — the constructivist developmental account the sociocultural theory is read against
 
 ## Sources
 
