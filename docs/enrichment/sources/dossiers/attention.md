@@ -403,3 +403,14 @@ page text with tags stripped and page markers removed; PDFs: the
 verified passages), so the check runs against real content.
 quote_verify now reports 14 checked, 0 not found. Checker exit 0
 (97 card links, 25 headers, 14 external carriers); density 0 dense.
+
+## Coverage check and story spot-checks (worker-pplx-dos4-1025g, 2026-10-25)
+
+Coverage against the manifest's title-sweep inventory: all 40
+concept candidates linked, all 3 kernel candidates linked;
+principles are carried through concept cards by the dossier's
+design, as in the flagship exemplar. Story spot-checks: three cards
+opened and read against their loglines (ST018 The Swimmer at
+Lüliang Falls, ST057 Agnes Martin Paints Grids, ST421 Meghiya Finds
+the Right Grove and the Wrong Thoughts); all three loglines compress
+the cards' own text accurately. No defects found in this pass.
