@@ -1233,3 +1233,21 @@ marks the inventory as "not verified semantic coverage"). Checks:
 checker exit 0 (147 card links, 33 headers, 134 external carriers),
 density 0, quote_verify 2 checked, 0 not found, no unquoted em
 dashes remain.
+
+## Story-section spot check (worker-pplx-dos1-1025g, 2026-10-25)
+
+Three story cards opened and read against their loglines: ST143
+(Solon and Croesus; the card's king-shows-treasury and
+call-no-man-happy-until-his-end content matches the logline), ST035
+(Ivan Ilyich; header and tags match the logline's framing, the
+quoted question is carried by the CCEL link and passed quote_verify),
+ST298 (The Positivity Ratio Falls). For ST298 the external carrier
+was also opened this session (APA Monitor, December 2013): it states
+"In response, the journal withdrew the portion of the paper based on
+the modeling" and that the critique argued "the fluid dynamics
+equations could not reasonably be applied to describe changes in
+human emotions over time" - both halves of the logline (the
+fluid-dynamics critique, and the withdrawal of the mathematical
+model rather than the whole paper) are supported by the opened
+carrier. The intro's Nearby terms carry the Happiness boundary as
+the manifest note requires. No defects found in this pass.
