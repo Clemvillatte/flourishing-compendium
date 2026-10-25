@@ -18,7 +18,6 @@
     "X025",
     "Y002",
     "Y003",
-    "Y004",
     "Y005",
     "Y021",
     "Y022",
@@ -30,7 +29,8 @@
     "Y093",
     "SP054",
     "Y080",
-    "Y008"
+    "Y008",
+    "Y004"
   ],
   "in_progress": null,
   "flagged": {
@@ -45,11 +45,12 @@
     "SP072": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (Appendix XXXII condition paraphrased in body, locators added, duplicate quote removed); validator ok. Claim accuracy not re-verified against primary source by this worker.",
     "SP087": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (deleted paragraph absent, advisor-supplied wording in); validator ok. Claim accuracy not re-verified against primary source by this worker.",
     "Y080": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
-    "Y008": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
+    "Y008": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)",
+    "Y004": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:45:32+00:00",
+  "updated": "2026-10-25T12:49:33+00:00",
   "band_done": false,
   "notes": {
     "SP054": {
@@ -69,6 +70,12 @@
       "claims": "n/a",
       "limitations": "None",
       "url": "https://archive.org/details/yogasystemofpata00wooduoft"
+    },
+    "Y004": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://en.wikipedia.org/wiki/Discrimination_learning"
     }
   }
 }

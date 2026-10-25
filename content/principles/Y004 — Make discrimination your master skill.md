@@ -21,7 +21,7 @@ An everyday compendium exercise is to pause before a difficult decision and sepa
 > Patañjali, Yoga Sūtra 2.26, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
 **Plain words**
-Choose a decision you feel certain about. Write down what you have observed, what you have assumed, and what still needs checking.
+A confident decision is like a smooth lake that hides the depth. The eye takes the surface as the whole story, and the confidence feels earned precisely because nothing has disturbed it. Making discrimination the master skill means learning to sound the lake before trusting the crossing, and the sounding has a fixed shape, separating what has actually been seen from what has merely been supposed, and marking the spots still untested. Most errors are not failures of judgment at all but failures of bookkeeping, where an assumption quietly files itself under observation and never gets checked again.
 
 **For example**
 A shop owner records a sales figure, a forecast and an unanswered question separately before choosing a next step.
