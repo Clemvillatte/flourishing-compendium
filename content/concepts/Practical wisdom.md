@@ -17,7 +17,7 @@ Practical wisdom exceeds the application of rules. Aristotle is explicit that th
 
 ### Practical implications
 
-Practical wisdom is the skill that generalises: for any domain — health, work, relationships — the expert practitioner reads the situation and chooses the response the situation actually needs, and knowing the most rules is what beginners do while that perception is forming. It is acquired by the same route as any expertise: repetition with feedback, across varied cases, over time. This is analogous to modern deliberate practice and to the research on coping flexibility, though the connection is interpretive rather than a demonstrated equivalence. The practical implication for a flourishing practice is to treat rules as training wheels: support while the perception forms, then ride without them.
+Practical wisdom is the skill that generalises: for any domain, whether health, work or relationships, the expert practitioner reads the situation and chooses the response the situation actually needs, and knowing the most rules is what beginners do while that perception is forming. It is acquired by the same route as any expertise: repetition with feedback, across varied cases, over time. This is analogous to modern deliberate practice and to the research on coping flexibility, though the connection is interpretive rather than a demonstrated equivalence. The practical implication for a flourishing practice is to treat rules as training wheels: support while the perception forms, then ride without them.
 
 ## Facets
 
