@@ -77,11 +77,13 @@ The factor that follows view in the list is [right intention](https://clemvillat
 
 If seeing is a human act, it happens from somewhere. [The standpoint determines what appears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20standpoint%20determines%20what%20appears) is Husserl's account of embodied seeing: things appear from one side, at a distance, from an angle, and there is no view from nowhere.
 
+The philosophy of science reached the same conclusion about observation itself. [The theory-ladenness of observation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20theory-ladenness%20of%20observation) is Hanson's thesis that seeing is not the passive registration of retinal images: what a person sees is shaped by what they already know, and observers with different theories can look at the same thing and see different things. Right view's firstness has a mirror here: the seeing runs ahead of the seeing's results.
+
 On the psychological side, the attentional-bias principles stand as parallels of the view's obstruction: threat captures attention, and negative bias and rumination narrow it, in anxiety and depression.
 
 ## Holding views lightly
 
-The Diamond Sutra names four ways a mind reifies itself: [the four views](https://clemvillatte.github.io/flourishing-compendium/#card=The%20four%20views), views of a self, a person, a being and a life — the card calls them usable coordinates that become toxic when mistaken for the territory.
+The Diamond Sutra names four ways a mind reifies itself: [the four views](https://clemvillatte.github.io/flourishing-compendium/#card=The%20four%20views), views of a self, a person, a being and a life. The card calls them usable coordinates that become toxic when mistaken for the territory.
 
 Behind that caution stands the Madhyamaka family. [Shunyata](https://clemvillatte.github.io/flourishing-compendium/#card=Shunyata) is the doctrine that all phenomena lack inherent existence; emptiness is always the emptiness of something, and is itself empty. The claim in full is that no phenomenon possesses [svabhāva](https://clemvillatte.github.io/flourishing-compendium/#card=Buddhist%20emptiness%20of%20inherent%20nature), a nature it has independently; the rejected svabhāva is a superimposition projected onto objects, a cognitive default. And [the emptiness of emptiness](https://clemvillatte.github.io/flourishing-compendium/#card=The%20emptiness%20of%20emptiness) is Nagarjuna's chapter thirteen turning the analysis on its own central term: the empty is defined only against the non-empty, so emptiness cannot stand as an independent metaphysical item.
 
