@@ -26,7 +26,7 @@ The second kind is the food that brings "aches and unrests, and burning blood, a
 
 Arnold's translation does not give the idea of a general rule to "grade inputs by their downstream effects", or a one-week audit. The gift passage is about the giver's attitude, timing, place and recipient, not downstream effects. The generalization and the audit are the principle's own.
 
-**Plain words** The Gita sorts food by what it does to you and gifts by how and why they are given. Strong appetite goes with the harmful food, and hope of return or a grudge marks the weaker gifts. A one-week audit is a sensible use of the passage, though not in the text.
+**Plain words** Chapter 17 is a sorting exercise. Food is graded by what it does to the eater: one kind builds force and health, one brings aches and burning blood and is craved by too strong appetite, one is stale and foul. Gifts are graded the same way, but by the giver's state: given gladly, at the right time and place, to the right person, with nothing expected back. The noticing habit, watching what your meals and your giving actually do to you, is this principle's own addition.
 
 *For example:* for one week you note how you feel after each meal, and why you gave each time you gave. You find that the gifts you gave hoping for thanks are the ones you resent.
 
