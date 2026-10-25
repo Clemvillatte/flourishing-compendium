@@ -6,7 +6,6 @@
     "X024",
     "M026",
     "M029",
-    "M033",
     "M038",
     "M047",
     "M049",
@@ -30,7 +29,8 @@
     "PP077",
     "PP078",
     "R019",
-    "R017"
+    "R017",
+    "M033"
   ],
   "in_progress": null,
   "flagged": {
@@ -42,11 +42,12 @@
     "PP078": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.50)",
     "R017": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.69)",
     "PP077": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.54)",
-    "R019": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.88)"
+    "R019": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.88)",
+    "M033": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:34:03+00:00",
+  "updated": "2026-10-25T12:49:49+00:00",
   "band_done": false,
   "notes": {
     "BI059": {
@@ -78,6 +79,12 @@
       "claims": "n/a",
       "limitations": "Working Together chapter not directly opened",
       "url": "https://research.bond.edu.au/en/publications/aboriginal-and-torres-strait-islander-social-and-emotional-wellbe/"
+    },
+    "M033": {
+      "qc": "Plain-words replicate replaced (~0.6 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://www.biblegateway.com/passage/?search=Proverbs%2017%3A5"
     }
   }
 }
