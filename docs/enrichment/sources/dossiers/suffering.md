@@ -391,3 +391,70 @@ quote_verify 4/1 (the standing Perseus by-eye case). The
 retracted disagreement section remains absent; the folded
 amor-fati body paragraph is intact at line 53. No conflict
 between the supervisor's addition and this session's edits.
+
+## DISAGREEMENT SECTION REINSTATED, three new questions (2026-10-25, worker-pplx-dos30-1025l, baton dos30)
+
+The retracted section (entry above) failed because its bridge
+(specified craving to "all wishing") was unsupported. This section
+does not reuse that pair. Each question below sets two or more
+statements the sources themselves make, and each quote was checked
+this session against text I fetched directly from the carrier (raw
+file, whitespace and curly-quote normalised, case-insensitive).
+
+Questions and carriers opened this session:
+1. Is pain itself an evil? Epicurus, Letter to Menoeceus (MIT
+   Classics, Hicks translation): "all pain is an evil and yet not all
+   pain is to be shunned"; pleasure defined as "the absence of pain in
+   the body and of trouble in the soul". Stoic side: Diogenes
+   Laertius VII.101-102 (Hicks, Wikisource): pain listed among things
+   that "neither benefit nor harm a man"; VII.37: Dionysius of
+   Heraclea "had no longer the nerve to call pain a thing
+   indifferent". Marcus Aurelius, Meditations 7 (MIT Classics): "there
+   is no dishonour in it, nor does it make the governing intelligence
+   worse" and the borrowed Epicurean remark "neither intolerable nor
+   everlasting". Dionysius story is flagged in the text as an ancient
+   report, not evidence. The "turns on whether a harm to a creature is
+   a harm to the person" line is labelled as my reading of the two
+   lists.
+2. Should suffering be ended or used? SN 22:86 (Thanissaro,
+   dhammatalks.org): "Both formerly & now, it is only stress that I
+   describe, and the cessation of stress". Nietzsche, Beyond Good and
+   Evil section 225 (Zimmern, Gutenberg 4363): "to do away with
+   suffering"; "would rather have it increased and made worse than it
+   has ever been"; "the discipline of great suffering"; "has produced
+   all the elevations of humanity hitherto". Gutenberg capitals mark
+   print italics and are lower-cased in quotation. The last two
+   quotes are drawn from the same passage's two sentences and are set
+   as separate quoted spans; the "that" joining them is mine.
+   Nietzsche, The Antichrist section 20 (Mencken, Gutenberg 19322):
+   "a hundred times as realistic as Christianity"; "struggle with
+   suffering"; "the nihilistic religions". BGE 225 does not name the
+   Buddha; the dossier says so and says the pairing is my reading.
+   This is the point where the retracted section failed, so the
+   claim is limited to what each text says about the aim, with no
+   claim about craving or amor fati. Frankl (fabian.ca excerpt of
+   Man's Search for Meaning): "In no way." and "the meaningful thing
+   to do is to remove its cause, for unnecessary suffering is
+   masochistic rather than heroic". Frankl is raising his own
+   question there, not answering Nietzsche; the dossier says "takes a
+   position between them" as my placement.
+3. Does suffering track what a person deserves? Job 4:7, 8:20, 9:22,
+   21:7, 42:7 (World English Bible, ebible.org/eng-web, one fetch per
+   chapter). The dossier states only that the text does not say
+   which of Job's statements God endorses, and that 42:6 is
+   repentance; no scholarly reading is cited.
+
+Discipline notes. No page-level claim on Buddhist karma or on any
+modern commentary was made. The first-person leans (Epicurus's label
+with Marcus's method; Frankl's position; Job's side) are the
+author's stated judgment and are marked "I". Checker: exit 0 (53
+card links, 19 headers, 26 carriers). Density: 0 dense. The
+automated quote verifier reports false positives on this section
+because its quote pairing splits at sentence-internal apostrophes
+and between adjacent quotes, plus the standing Perseus by-eye case;
+all 21 quoted spans were instead matched by a manual script against
+the raw fetched text (21 of 21 matched).
+
+Count correction for the supervisor: suffering now has THREE
+substantiated disagreement questions, superseding the zero-count
+entry above.
