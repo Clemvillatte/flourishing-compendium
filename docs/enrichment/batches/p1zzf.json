@@ -3,7 +3,6 @@
   "done": [
     "PP053",
     "PP055",
-    "R030",
     "R033",
     "R034",
     "R036",
@@ -30,7 +29,8 @@
     "S036",
     "S040",
     "S062",
-    "R038"
+    "R038",
+    "R030"
   ],
   "in_progress": null,
   "flagged": {
@@ -46,11 +46,12 @@
     "R049": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.62 is domain-vocabulary repeat (alofa); Plain words already a genuine re-derivation; no work needed",
     "R058": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.50 is domain-vocabulary repeat (xiao); Plain words already a genuine re-derivation; no work needed",
     "S040": "Tier-2 review 2026-10-25 (worker-pplx-9ff61dc0): detector score 0.50 is domain-vocabulary repeat (friendship); Plain words already a genuine re-derivation; no work needed",
-    "R038": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.95)"
+    "R038": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.95)",
+    "R030": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.89)"
   },
   "missing_concepts": [],
   "sources_checked": 0,
-  "updated": "2026-10-25T12:38:04+00:00",
+  "updated": "2026-10-25T12:38:19+00:00",
   "band_done": false,
   "notes": {
     "R038": {
@@ -58,6 +59,12 @@
       "claims": "n/a",
       "limitations": "School setting; wider reading is extension",
       "url": "https://thehub.sia.govt.nz/assets/documents/40792_Te_Kotahitanga_Phase3_0.pdf"
+    },
+    "R030": {
+      "qc": "Plain-words replicate replaced (0.89 -> ~0.1); validator ok",
+      "claims": "n/a",
+      "limitations": "None",
+      "url": "https://teara.govt.nz/en/kotahitanga-unity-movements/print"
     }
   }
 }
