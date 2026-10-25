@@ -12,97 +12,53 @@ Gratitude looks like the simplest of the virtues and keeps turning out to be one
 - Contentment and sufficiency: gratitude's present-tense cousins, in their own group below.
 - Benefit finding: finding good in adversity rather than benefit received from a giver; its own card and evidence.
 
-## The map: the entries on gratitude
+## Where gratitude sits
 
-### The classical account: benefit, goodwill, and return
+### What is a benefit, and what does the receiver owe?
 
-1. [Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude): the felt recognition of a benefit received, with Seneca's On Benefits and Aristotle's Nicomachean Ethics VIII.14 as the classical anchors, and the psychological study beginning from the same observation that the emotion is about a source.
+The felt recognition of a benefit received is the anchor, and both traditions begin there. [Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude) carries the classical anchors, Seneca's On Benefits and Aristotle's Nicomachean Ethics VIII.14, and the psychological study begins from the same observation that the emotion is about a source. [T013 — Seneca](https://clemvillatte.github.io/flourishing-compendium/#card=T013%20%E2%80%94%20Seneca) is the Stoic whose Moral Letters and essays carry the account.
 
-2. [T013 — Seneca](https://clemvillatte.github.io/flourishing-compendium/#card=T013%20%E2%80%94%20Seneca): the Stoic whose Moral Letters and essays carry the On Benefits account the anchor card opens with; philosophy as salutary practice rather than lecture.
+Seneca's location of a benefit is in the goodwill behind it rather than the money or object that changes hands. [S037 — Practise beneficence](https://clemvillatte.github.io/flourishing-compendium/#card=S037%20%E2%80%94%20Practise%20beneficence) names delay, reproach and humiliation as spoilers of the gift. [S084 — Practise gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=S084%20%E2%80%94%20Practise%20gratitude) carries Marcus Aurelius's first book as a list of what he learned from particular people, each entry naming a giver and a gift, which is what makes it more than a mood.
 
-3. [S037 — Practise beneficence](https://clemvillatte.github.io/flourishing-compendium/#card=S037%20%E2%80%94%20Practise%20beneficence): Seneca's location of a benefit in the goodwill behind it rather than the money or object that changes hands, with delay, reproach and humiliation named as spoilers of the gift.
+Aristotle's test of the manner of the gift is [generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity): giving for the sake of the noble, to the right people, amounts and times, and the giver's substance rather than the multitude of gifts. The exchange structure the emotion sits in is [reciprocity](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocity), with its two demands, help those who have helped you and do not injure them.
 
-4. [S084 — Practise gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=S084%20%E2%80%94%20Practise%20gratitude): Marcus Aurelius's first book as a list of what he learned from particular people, each entry naming a giver and a gift, which is what makes it more than a mood.
+[Reciprocity norm theory Gouldner](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocity%20norm%20theory%20Gouldner) is the 1960 statement of the norm in its universal form, and [reciprocal altruism research](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocal%20altruism%20research) is Trivers's evolutionary account that lists gratitude among the regulators of the exchange.
 
-5. [Generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity): Aristotle's test of the manner of the gift, giving for the sake of the noble, to the right people, amounts and times, and the giver's substance rather than the multitude of gifts.
+Spinoza's definition makes gratitude a desire springing from love, wanting to benefit someone who has benefited us out of love, carried on [SP022 — Practice gratitude as repayment of love](https://clemvillatte.github.io/flourishing-compendium/#card=SP022%20%E2%80%94%20Practice%20gratitude%20as%20repayment%20of%20love). Hume's [benevolence](https://clemvillatte.github.io/flourishing-compendium/#card=Benevolence) is the sentiment that grounds the social virtues, the giving side of the same bond.
 
-6. [Reciprocity](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocity): the two demands of the norm, help those who have helped you and do not injure them, as the structure the emotion sits in.
+The asymmetry of benefaction is Aristotle's observation that benefactors love those they have benefited more than the reverse. [A070 — Understand the asymmetry of benefaction](https://clemvillatte.github.io/flourishing-compendium/#card=A070%20%E2%80%94%20Understand%20the%20asymmetry%20of%20benefaction) carries his own account of why: the beneficiary is the benefactor's handiwork and carries the maker's activity in it, so the imbalance is normal and not a ledger to correct.
 
-7. [Reciprocity norm theory Gouldner](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocity%20norm%20theory%20Gouldner): the 1960 statement of the norm in its universal form, the sociological base under the exchange.
+The contemplative traditions extend the remembrance outward. [K053 — Practice recognizing the kindness you have received](https://clemvillatte.github.io/flourishing-compendium/#card=K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received) carries the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually. [K034 — Be grateful to everyone](https://clemvillatte.github.io/flourishing-compendium/#card=K034%20%E2%80%94%20Be%20grateful%20to%20everyone) is the thirteenth lojong slogan, whose gratitude includes the harmful, with Trungpa's commentary that the difficult are presenting the chance to practise. [Thanksgiving as sacrifice](https://clemvillatte.github.io/flourishing-compendium/#card=Thanksgiving%20as%20sacrifice) is the Psalm's line, the offering-side of thankfulness.
 
-8. [Reciprocal altruism research](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocal%20altruism%20research): Trivers's evolutionary account that lists gratitude among the regulators of the exchange, the base the relationship theory later builds on.
+### What the counting practice works on
 
-9. [SP022 — Practice gratitude as repayment of love](https://clemvillatte.github.io/flourishing-compendium/#card=SP022%20%E2%80%94%20Practice%20gratitude%20as%20repayment%20of%20love): Spinoza's definition, a desire springing from love, wanting to benefit someone who has benefited us out of love.
+The mechanism as the lab frames it is attention itself. [AF063 — Practise gratitude: it recalibrates attention toward what is good](https://clemvillatte.github.io/flourishing-compendium/#card=AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good) holds the practice as directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries. [PP013 — Practise gratitude with specificity](https://clemvillatte.github.io/flourishing-compendium/#card=PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity) carries the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card.
 
-10. [Benevolence](https://clemvillatte.github.io/flourishing-compendium/#card=Benevolence): Hume's sentiment that grounds the social virtues, the giving side of the same bond.
+Dose matters. The 2005 interventions carried on [PP063 — Dose appropriately](https://clemvillatte.github.io/flourishing-compendium/#card=PP063%20%E2%80%94%20Dose%20appropriately) found the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them.
 
-11. [SP070 — Live among the free; friendship is the economy of the strong](https://clemvillatte.github.io/flourishing-compendium/#card=SP070%20%E2%80%94%20Live%20among%20the%20free%3B%20friendship%20is%20the%20economy%20of%20the%20strong): Spinoza's contrast between gratitude among free people, who benefit one another out of agreement of natures, and thanks prompted by obligation, which belongs to the bargain.
+The Kataññu Suttas frame gratitude as a mark of integrity, with parents as the clearest case and even extreme service not discharging the debt, carried on [B112 — Practice gratitude: recognize your conditions](https://clemvillatte.github.io/flourishing-compendium/#card=B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions). [Hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation) is the taking-for-granted treadmill the counting practice counters, in Brickman and Campbell's original image, and [savoring](https://clemvillatte.github.io/flourishing-compendium/#card=Savoring) is its present-tense cousin: attention, not acquisition, stopping the good moment from passing unnoticed.
 
-12. [A070 — Understand the asymmetry of benefaction](https://clemvillatte.github.io/flourishing-compendium/#card=A070%20%E2%80%94%20Understand%20the%20asymmetry%20of%20benefaction): Aristotle's observation that benefactors love those they have benefited more than the reverse, with his own account of why: the beneficiary is the benefactor's handiwork and carries the maker's activity in it, so the imbalance is normal and not a ledger to correct.
+The adversity-side relation is [benefit finding](https://clemvillatte.github.io/flourishing-compendium/#card=Benefit%20finding), finding good in a stressor, with the meta-analytic finding that it tracks both more well-being and more intrusive thoughts about the stressor. Epicurus's memory as a source of present pleasure, in his own last letter, is carried on [X011 — Bank gratitude for past pleasures, and draw on it in need](https://clemvillatte.github.io/flourishing-compendium/#card=X011%20%E2%80%94%20Bank%20gratitude%20for%20past%20pleasures%2C%20and%20draw%20on%20it%20in%20need).
 
-13. [K053 — Practice recognizing the kindness you have received](https://clemvillatte.github.io/flourishing-compendium/#card=K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received): the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually.
+Tanabe's philosophy is returned to the world in an act of gratitude, with the daily routine of naming one thing that was given and not earned, carried on [K068 — Practice gratitude as the fundamental stance](https://clemvillatte.github.io/flourishing-compendium/#card=K068%20%E2%80%94%20Practice%20gratitude%20as%20the%20fundamental%20stance). [Fundamental stance](https://clemvillatte.github.io/flourishing-compendium/#card=Fundamental%20stance) is Jaspers's category of settled postures from which a whole life thinks and sees.
 
-14. [K034 — Be grateful to everyone](https://clemvillatte.github.io/flourishing-compendium/#card=K034%20%E2%80%94%20Be%20grateful%20to%20everyone): the thirteenth lojong slogan, whose gratitude includes the harmful, with Trungpa's commentary that the difficult are presenting the chance to practise.
+### What the bond receives
 
-15. [Thanksgiving as sacrifice](https://clemvillatte.github.io/flourishing-compendium/#card=Thanksgiving%20as%20sacrifice): the Psalm's line, the offering-side of thankfulness, cited by the fundamental-stance page as its religious parallel.
+The receiving side of the bond has its own research. [Active constructive responding](https://clemvillatte.github.io/flourishing-compendium/#card=Active%20constructive%20responding) is meeting another's shared good news with enthusiasm, the capitalization research. Kumar and Epley's finding, carried on [BE055 — Learn to express gratitude behaviourally: thank others](https://clemvillatte.github.io/flourishing-compendium/#card=BE055%20%E2%80%94%20Learn%20to%20express%20gratitude%20behaviourally%20%E2%80%94%20thank%20others), is that expressers underestimate how positive and overestimate how awkward recipients will feel.
 
-### The attention theory: counting what is good
+[Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29) is the unadulterated goodness felt when something good happens for someone else, and [four immeasurables](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20immeasurables) holds each as a stance toward a condition: mudita is metta meeting good fortune, joy in another's happiness even when one contributed nothing to it. Śāntideva's closing turn, longing for an enemy like a treasure discovered in the home, because forbearance depends on the hostile intention, is carried on [enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher).
 
-16. [AF063 — Practise gratitude: it recalibrates attention toward what is good](https://clemvillatte.github.io/flourishing-compendium/#card=AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good): the mechanism as the lab frames it, a practice of directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries.
+### What sufficiency has to do with it
 
-17. [PP013 — Practise gratitude with specificity](https://clemvillatte.github.io/flourishing-compendium/#card=PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity): the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card.
+The Yoga-sutra's one line, that by contentment the acquisition of extreme happiness, with Vyasa's commentary on "extreme," is [santosha](https://clemvillatte.github.io/flourishing-compendium/#card=Santosha). The Daodejing's contentment that needs fear no shame, the knowing-when-to-stop that gratitude shares a border with, is [sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Sufficiency).
 
-18. [PP063 — Dose appropriately](https://clemvillatte.github.io/flourishing-compendium/#card=PP063%20%E2%80%94%20Dose%20appropriately): the 2005 interventions where the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them.
+Marcus Aurelius's placement of the Stoic's self-sufficiency in one's own mind is [S026 — Practise contentment with what you have](https://clemvillatte.github.io/flourishing-compendium/#card=S026%20%E2%80%94%20Practise%20contentment%20with%20what%20you%20have), and the Daodejing chapter 46 naming of the failure, no disaster greater than not knowing contentment, is [D030 — Contentment is the greatest wealth](https://clemvillatte.github.io/flourishing-compendium/#card=D030%20%E2%80%94%20Contentment%20is%20the%20greatest%20wealth).
 
-19. [AT021 — Learn to attend to the positive deliberately](https://clemvillatte.github.io/flourishing-compendium/#card=AT021%20%E2%80%94%20Learn%20to%20attend%20to%20the%20positive%20deliberately%20%E2%80%94%20attention%20training%20for%20well-being): the two things that go by the name of attention training, gaze trained toward positive information, and the bias-modification family whose meta-analysis was less encouraging.
+The Quran's pairing, whoever is steadfast, grateful, as the two readings of one condition, is [X016 — Pair patience and gratitude as the two meters of every state](https://clemvillatte.github.io/flourishing-compendium/#card=X016%20%E2%80%94%20Pair%20patience%20and%20gratitude%20as%20the%20two%20meters%20of%20every%20state). Heidegger's death as a limit that belongs to one's own existence, the facing of which discloses the possibilities one can actually choose, is [E054 — Practise finitude as gift](https://clemvillatte.github.io/flourishing-compendium/#card=E054%20%E2%80%94%20Practise%20finitude%20as%20gift).
 
-20. [B112 — Practice gratitude: recognize your conditions](https://clemvillatte.github.io/flourishing-compendium/#card=B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions): the Kataññu Suttas' framing of gratitude as a mark of integrity, with parents as the clearest case and even extreme service not discharging the debt.
+### What is owed to what one stands on
 
-21. [Hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation): the taking-for-granted treadmill the counting practice counters, in Brickman and Campbell's original image.
-
-22. [Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=Savoring): attention, not acquisition, stopping the good moment from passing unnoticed; gratitude's present-tense cousin.
-
-23. [Benefit finding](https://clemvillatte.github.io/flourishing-compendium/#card=Benefit%20finding): the adversity-side relation, finding good in a stressor, with the meta-analytic finding that it tracks both more well-being and more intrusive thoughts about the stressor.
-
-24. [X011 — Bank gratitude for past pleasures, and draw on it in need](https://clemvillatte.github.io/flourishing-compendium/#card=X011%20%E2%80%94%20Bank%20gratitude%20for%20past%20pleasures%2C%20and%20draw%20on%20it%20in%20need): Epicurus's memory as a source of present pleasure, in his own last letter.
-
-25. [K068 — Practice gratitude as the fundamental stance](https://clemvillatte.github.io/flourishing-compendium/#card=K068%20%E2%80%94%20Practice%20gratitude%20as%20the%20fundamental%20stance): Tanabe's philosophy as returned to the world in an act of gratitude, with the daily routine of naming one thing that was given and not earned.
-
-26. [Fundamental stance](https://clemvillatte.github.io/flourishing-compendium/#card=Fundamental%20stance): Jaspers's settled postures from which a whole life thinks and sees, the category the stance belongs to.
-
-### The relationship theory: the bond as the beneficiary
-
-27. [Active constructive responding](https://clemvillatte.github.io/flourishing-compendium/#card=Active%20constructive%20responding): meeting another's shared good news with enthusiasm, the capitalization research on the receiving side of the bond.
-
-28. [BE055 — Learn to express gratitude behaviourally: thank others](https://clemvillatte.github.io/flourishing-compendium/#card=BE055%20%E2%80%94%20Learn%20to%20express%20gratitude%20behaviourally%20%E2%80%94%20thank%20others): Kumar and Epley's finding that expressers underestimate how positive and overestimate how awkward recipients will feel.
-
-29. [Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the unadulterated goodness felt when something good happens for someone else, the other-directed cousin.
-
-30. [Four immeasurables](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20immeasurables): each a stance toward a condition: mudita is metta meeting good fortune, joy in another's happiness even when one contributed nothing to it.
-
-31. [Enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher): Śāntideva's closing turn, longing for an enemy like a treasure discovered in the home, because forbearance depends on the hostile intention.
-
-### Contentment, sufficiency, and finitude
-
-32. [Santosha](https://clemvillatte.github.io/flourishing-compendium/#card=Santosha): the Yoga-sutra's one line, that by contentment the acquisition of extreme happiness, with Vyasa's commentary on "extreme."
-
-33. [Sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Sufficiency): the Daodejing's contentment that needs fear no shame, the knowing-when-to-stop that gratitude shares a border with.
-
-34. [S026 — Practise contentment with what you have](https://clemvillatte.github.io/flourishing-compendium/#card=S026%20%E2%80%94%20Practise%20contentment%20with%20what%20you%20have): Marcus Aurelius's placement of the Stoic's self-sufficiency in one's own mind.
-
-35. [D030 — Contentment is the greatest wealth](https://clemvillatte.github.io/flourishing-compendium/#card=D030%20%E2%80%94%20Contentment%20is%20the%20greatest%20wealth): the Daodejing chapter 46 naming of the failure, no disaster greater than not knowing contentment.
-
-36. [X016 — Pair patience and gratitude as the two meters of every state](https://clemvillatte.github.io/flourishing-compendium/#card=X016%20%E2%80%94%20Pair%20patience%20and%20gratitude%20as%20the%20two%20meters%20of%20every%20state): the Quran's pairing, whoever is steadfast, grateful, as the two readings of one condition.
-
-37. [E054 — Practise finitude as gift](https://clemvillatte.github.io/flourishing-compendium/#card=E054%20%E2%80%94%20Practise%20finitude%20as%20gift): Heidegger's death as a limit that belongs to one's own existence, the facing of which discloses the possibilities one can actually choose.
-
-### Ecological and inherited gratitude
-
-38. [Ecological gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20gratitude): gratitude directed at the natural world, with the card's own correction of the Mayer and Frantz citation and the study that links gratitude and nature connection directly.
-
-39. [R128 — Practise ecological gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=R128%20%E2%80%94%20Practise%20ecological%20gratitude): Kimmerer's Honorable Harvest, taking only what you need and never more than half.
-
-40. [R058 — Practise filial piety (xiao)](https://clemvillatte.github.io/flourishing-compendium/#card=R058%20%E2%80%94%20Practise%20filial%20piety%20%28xiao%29): the Confucian form of gratitude to those one stands on, with the Analects' care that support without reverence is what dogs and horses also do.
+Gratitude directed at the natural world is [ecological gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20gratitude), with the card's own correction of the Mayer and Frantz citation and the study that links gratitude and nature connection directly. Kimmerer's Honorable Harvest, taking only what you need and never more than half, is [R128 — Practise ecological gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=R128%20%E2%80%94%20Practise%20ecological%20gratitude). The Confucian form of gratitude to those one stands on, with the Analects' care that support without reverence is what dogs and horses also do, is [R058 — Practise filial piety (xiao)](https://clemvillatte.github.io/flourishing-compendium/#card=R058%20%E2%80%94%20Practise%20filial%20piety%20%28xiao%29).
 
 ## Related questions and parallels
 
