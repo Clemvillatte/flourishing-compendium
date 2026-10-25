@@ -19,7 +19,7 @@ The entry's reading of the book's close is that what matters is learning to be a
 
 ### What the leap amounts to
 
-Because the leap is a choice rather than an inference, the practice family on this page treats exposure as the modern form of the same movement: stepping toward the possibility that dizzies rather than reasoning one's way past it. The exposure kernels below are grounded in the avoidance-as-maintaining-factor finding, which is the empirical restatement of Kierkegaard's point that the dizziness only resolves when freedom moves.
+Because the leap is a choice rather than an inference, the practice family on this page pairs exposure with the same movement: stepping toward the possibility that dizzies rather than reasoning one's way past it. The exposure kernels below are grounded in the avoidance-as-maintaining-factor finding, which is a different tradition's version of the same insight about approach; the pairing is an editorial juxtaposition of the two accounts, not a claim that the research tested Kierkegaard's thesis.
 
 ### Here
 
