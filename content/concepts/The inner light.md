@@ -23,7 +23,7 @@ The chapter then gives the preparation its most quoted image. The soul that does
 
 > "Go back into yourself and look; and if you do not yet see yourself beautiful, then, just as someone making a statue which has to be beautiful cuts away here and polishes there and makes one part smooth and clears another till he has given his statue a beautiful face, so you too must cut away excess and straighten the crooked and clear the dark and make it bright, and never stop 'working on your statue' till the divine glory of virtue shines out on you, till you see 'self-mastery enthroned upon its holy seat.'" (Enneads I.6.9, Armstrong, [Loeb LCL 440](https://www.loebclassics.com/view/plotinus-enneas/1966/pb_LCL440.259.xml))
 
-The image gives the light its working edge: what gets cut away is the soul's own excess, not the world's, and the polishing has no stated end point. The chapter then describes the soul coming in its ascent to intellect, where it knows the Forms and recognises their beauty. Plotinus places the Good beyond this stage, holding beauty as a screen before it. His account connects the ability to perceive beauty with the condition of the soul doing the perceiving.
+The image gives the light its working edge: what gets cut away is the soul's own excess, not the world's, and the work is given its term in the passage itself, which says to continue till the divine glory of virtue shines out on the worker. The chapter then describes the soul coming in its ascent to intellect, where it knows the Forms and recognises their beauty. Plotinus places the Good beyond this stage, holding beauty as a screen before it. His account connects the ability to perceive beauty with the condition of the soul doing the perceiving.
 
 ### A Daoist cousin
 

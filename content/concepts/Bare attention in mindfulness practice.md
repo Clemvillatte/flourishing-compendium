@@ -15,7 +15,11 @@ Bare attention is a way of observing experience without immediately answering it
 
 Nyanaponika explicitly includes identifying and naming mental processes, such as recognizing desire when it occurs ([section 1, Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)). In this account, simple verbal naming is compatible with bare attention ([Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
 
-The point of the naming is anchoring rather than interpretation. A single word steadies the observation without answering it, the way a label says what is in the jar rather than what to do with it. What bare attention excludes is not language but the leap past the perception: the commentary that resolves, judges or fixes while the thing is still arriving. The discipline holds the observation open long enough for the thing to finish appearing, and the naming, when it comes, comes after that, one word deep.
+The essay's own account of the naming gives it more work than a mere label. Naming is how identifying proceeds: "That identifying function, like any other mental activity, is connected with a verbal formulation. In other words, 'identifying' proceeds by way of expressly 'naming' the respective mental processes." And the naming clarifies in a specific direction:
+
+> "The 'twilight demons' of the mind — our passionate impulses and obscure thoughts — cannot bear the simple but clarifying questions about their 'names,' much less the knowledge of these names. Hence, this is often alone sufficient to diminish their strength." (Nyanaponika Thera, The Power of Mindfulness, [Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html))
+
+The attention stays bare because the naming reports what is there without reacting to it: the definition of bare attention is attending to "the bare facts of a perception without reacting to them by deed, speech or mental comment." What the naming excludes is not language but the reaction the commentary would add.
 
 ### A practice within a larger account
 

@@ -19,11 +19,11 @@ The review's table adds the functional reading: without a positivity offset, "a 
 
 ### The offset in illness
 
-The review extends the calibration to mood. Where positivity is decreased across the board, the offset is the first thing to go:
+The review raises the calibration as a hypothesis about depression:
 
 > "A second possibility in depression is that, if positivity is decreased across the board, individuals may fail to experience a positivity offset." (Norris et al. 2010, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/))
 
-A person who feels no pull toward the neutral and the new is not failing at resolve; the approach function the offset supplies is itself diminished. The same review notes the general point: "Such individual differences in the positivity offset and negativity bias may predict whether an individual is prone to experience depression or anxiety."
+Read as a possibility rather than a finding, the line still marks the difference the concept tracks: the offset is not a mood but a standing tendency of the affect system, and the review's general point about it is likewise framed as a prediction to test: "Such individual differences in the positivity offset and negativity bias may predict whether an individual is prone to experience depression or anxiety."
 
 ### In the compendium
 
