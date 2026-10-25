@@ -236,3 +236,29 @@ with their wishes (primary control) and by bringing themselves into line with en
 did not match APA's abstract, and the second line ("a broad range of inward behaviors can be seen as efforts to sustain rather than relinquish the perception of control") is not in the APA abstract.
 Quote replaced with the APA wording; the second line replaced with the APA abstract's interpretive-control clause. The scispace carrier is removed for this paper (the Heckhausen and Schulz scispace flag is not touched here).
 No change to the question's logic. SUPERVISOR: re-splice agency.
+
+## Model-conformance fix + pre-existing quote flags (2026-10-25, worker-pplx-dos14-1025z)
+
+The agency dossier was missing two DOSSIER-MODEL elements: the
+one-question blockquote did not sit directly under the title (it came
+after the Nearby-terms list), and the Nearby-terms list had no
+`### Nearby terms` heading. Both were fixed with no content change:
+the blockquote was moved to sit directly under `# Agency`, the
+introductory paragraph was kept in place after it, and the
+`### Nearby terms` heading was added above the existing five-bullet
+list. Every card link, quote and carrier is unchanged (60 card links,
+12 external carriers, before and after). Checks: dossier_check.py OK,
+dossier_density.py 0 dense.
+
+PRE-EXISTING, NOT CAUSED BY THIS EDIT, flagged for the supervisor:
+dossier_quote_verify.py reports 2 of 12 quotes not found, both on the
+primary-control material (Heckhausen and Schulz), the "People attempt
+to gain control by bringing the environment into line with their
+wishes (primary control)..." span against doi.org/10.1037/0022-3514.42.1.5,
+and the "primary control striving holds functional primacy throughout
+the life span..." span against the PubMed carriers. These were not
+found before the edit either (verified against the pre-edit file) and
+are a separate carrier-verification item for the next pass. Also
+flagged: agency is published, so the Academy site data
+(site/assets/app.js) needs a rebuild to pick up the new heading
+position; that splice is supervisor-only and was not touched.
