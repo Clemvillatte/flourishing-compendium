@@ -565,3 +565,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 ## 2026-10-25 (worker pplx-artcurator-1025a) — K366 Reflective listening: guess the meaning
 - Read the full page; both verbatim quotes re-verified against the freshly downloaded and text-extracted Miller & Rollnick Motivational Interviewing 3rd ed. PDF (archive.org carrier): the "complex reflection adds some meaning or emphasis" sentence verbatim, and the "interviewer is venturing what might be the next sentence... continuing the paragraph" passage verbatim. The surrounding "going around in circles... sticking too close" paraphrase is also grounded in the same pages.
 - No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K369 The autonomy statement
+- Read the full page; both verbatim quotes re-verified against the downloaded M&R 3rd ed. PDF text: the "opposite of autonomy support" passage (verbatim, including the probation-officer example) and the "acceptance involves honoring and respecting each person's autonomy, their irrevocable right and capacity of self-direction" sentence (verbatim; the print layout breaks "self-direction" across lines, the page's rendering is correct).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
