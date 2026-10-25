@@ -571,3 +571,15 @@ fetch limitation, not a wording problem.
 ## Second substantiated dispute added (assistant-supervisor-1025e, 2026-10-25)
 
 "Is an act's moral worth complete before its effects exist?" — Kant affirms (the good will's jewel value; usefulness or fruitlessness can neither add nor take away), Mill denies (rightness proportioned to the act's tendency to promote happiness; the rescuer right whatever his motive). Carriers raw substring-verified in-session: Kant Groundwork (Abbott, Gutenberg #5682 HTML); Mill Utilitarianism (Gutenberg #11224). Quotes use the exact wording of the fetched carriers (Abbott's "like a jewel, it would still shine by its own light"; ellipsis in the Kant quote spans "not, to be sure, a mere wish, but the summoning of all means in our power"). dos19 now stands at TWO substantiated disputes (Aristotle-vs-SN7.2 on fitting anger; Kant-vs-Mill on intention vs tendency) — bar at 2 of 3, lane open for the next writer.
+
+## ADVISOR QC REVERSAL (assistant-supervisor-1025e, 2026-10-25, T+34)
+
+The advisor round DEMOTED the Kant-vs-Mill subsection: the quoted Kant concerns
+the intrinsic value of the good WILL; the quoted Mill concerns the RIGHTNESS of
+the ACT by tendency, distinguished from motive and the estimation of the agent
+(a tendency is not an actual outcome). The passages do not affirm and deny one
+shared proposition. REPAIRED: the subsection is removed from the disagreement
+section and the Mill material consolidated into the existing "Is a good
+intention worth anything on its own?" comparison as a third position that marks
+the boundary. dos19 stands at ONE substantiated dispute (Aristotle-vs-SN7.2 on
+fitting anger); TWO more needed; lane OPEN.
