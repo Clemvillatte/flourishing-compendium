@@ -68,3 +68,31 @@ argument against the sugar-coating view of interest). Editorial review
 only; no carriers or cards freshly opened this pass.
 
 Checks: dossier_check.py exit 0. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 37 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Ryan-Deci intrinsic-extrinsic pair and
+the wider self-determination cluster (needs theory, the needs-versus-
+wants line, autonomous and controlled motivation, the identified-
+versus-introjected distinction), Frey-Jegen motivation crowding, the
+Bandura and White entries, Vroom's expectancy theory, Eccles-Wigfield
+expectancy-value, Locke-Latham goal setting, McClelland-Atkinson
+achievement motivation and acquired needs, Elliot's approach-
+avoidance model, Sheldon-Elliot self-concordance, Duckworth grit,
+Maslow's hierarchy, Hull drive reduction, Berridge-Robinson incentive
+salience, Schultz reward prediction error, Golman-Loewenstein
+curiosity, Dewey interest-as-motive, flow, boredom, the Kasser-Ryan
+intrinsic-versus-extrinsic goals line (with the "even when achieved"
+caveat faithfully carried), Grant-Berg prosocial motivation, Kunda's
+motivated reasoning, Miller-Rollnick motivational interviewing, desire,
+and Frankfurt's second-order desires. No mismatches found; no edits
+made. This strengthens the earlier voice-audit review (all 4 candidates
+kept): the flagged constructions are card-faithful as well as
+doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
