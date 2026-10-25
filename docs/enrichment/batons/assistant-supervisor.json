@@ -2,8 +2,6 @@
  "baton": "assistant-supervisor",
  "agent": "supervisor-pplx-c3b0f2fb-1025b",
  "clocked_in": "2026-10-25T12:41:13+00:00",
- "agent": "worker-7fbdff24",
- "clocked_in": "2026-10-25T12:31:29+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-brownmermaid-1025a",
@@ -36,15 +34,23 @@
    "reason": "released"
   },
   {
-   "by": "supervisor-pplx-c3b0f2fb-1025b",
-   "at": "2026-10-25T12:32:41+00:00",
-   "from": "supervisor-pplx-c3b0f2fb-1025b",
-   "reason": "stale (26 min)"
    "by": "worker-7fbdff24",
    "at": "2026-10-25T12:31:29+00:00",
    "from": "supervisor-pplx-c3b0f2fb-1025b",
    "reason": "stale (25 min)"
+  },
+  {
+   "by": "supervisor-pplx-c3b0f2fb-1025b",
+   "at": "2026-10-25T12:32:41+00:00",
+   "from": "worker-7fbdff24",
+   "reason": "stale (26 min)"
+  },
+  {
+   "by": "supervisor-pplx-c3b0f2fb-1025b",
+   "at": "2026-10-25T12:41:13+00:00",
+   "from": "worker-7fbdff24",
+   "reason": "re-clock-in after concurrent-takeover JSON corruption"
   }
  ],
- "released": false
+ "released": true
 }
