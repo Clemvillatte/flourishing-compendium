@@ -3272,3 +3272,25 @@ closures confirmed accurate against the actual pages), w1f FAE customer-facing
 repairs (first person removed, meta commentary rewritten; seed-line correction
 left for supervisor seed-preservation ruling), p1zc X015 reader-address repair.
 Board notes posted at 11:11Z. All work saved and verified on origin/main.
+
+## Worker checkpoint — advisor QC repair round (2026-10-25 11:16Z, worker-pplx-1025-o)
+
+Advisor milestone QC found blocking issues; repairs pushed (e035262c3): (1)
+spliced quotes repaired on Autonomous versus controlled motivation (three
+ellipsis joins replaced with contiguous quotes or cited paraphrases) and
+Friendship (NE IX.9 passage split into two contiguous quotes); (2) Resilience
+closing line replaced with a source-grounded paraphrase (no 'not X but Y'
+staging); (3) Environmental psychology 'By mid-century' history sentence
+removed — it was extraction-verified only and could not be checked against
+the printed PDF text; limitation recorded on the page; (4) Authentic versus
+hubristic pride 2009-abstract sentence converted from quote to cited
+paraphrase — exact wording not certified (tandfonline bot-walled, SciSpace
+fetch fails; documented exception class); pre-existing opening SciSpace
+blockquote not re-verified this session; (5) batch-log corrections appended
+(w1c Self-concordant goals 'validator ok' inaccuracy corrected — the
+banned-phrase failure was real and fixed in 0022c9801; w1f FAE first-person
+count corrected to two). Self-concordant goals re-validated clean against its
+pre-edit baseline (--base 5d9649377: 1 checked, 0 failed). Known limitations
+for the supervisor: PDF quotes are extraction-based throughout; the pride-page
+provenance note above; the FAE opening seed line still needs a
+seed-preservation ruling.
