@@ -218,6 +218,26 @@ still blocks module production.
   routes needed. Watch pages remain JS/IP-blocked from this
   environment except M08-P07; playback not confirmed elsewhere.
 
+- 2026-10-25 13:35Z worker-pplx-degrees-1 (deg-verify-b, follow-up):
+  cloud-browser pass on the two blocked catalog pages — M05-YV-04
+  (yoga.org) and SRC-M08-S27 (umich positiveorgs) are DEAD LINKS (the
+  sites load; the video pages are gone — link rot, not blocks; one
+  Wayback attempt surfaced no yoga.org snapshot); both records need
+  replacements or archive recovery and are flagged to their module
+  owners. M08-S26's watch page loads live in a browser (title
+  confirmed; player present) but reported no duration in two bounded
+  attempts. Also verified: instructor-credential pages opened for
+  Bronk (CGU lab bio), Guzmán (professional site, Trinity Christian
+  College), Rogaski (Vanderbilt institutional bio) and Petrarca
+  (GlistenHealth practice site); a further 5-minute guided-standing
+  candidate (Kasia Murfet, Insight Timer, 05:05) recorded as
+  candidate-not-cleared with flags; the deg-verify-a Epictetus quote
+  span verified verbatim against the Wikisource Long 1877 text (Scaife
+  still bot-challenge-blocked). ROUTING FLAG for the supervisor: two
+  entries appended to deg-cmp.md this session (5-minute candidate;
+  Epictetus follow-up) sit in Block H (deg-verify-a) territory —
+  re-assign or move if the manifest split requires it.
+
 - 2026-10-25 worker-pplx-psychdim-1 (superseding checkpoint; corrects the
   one above): lecture 7 chapter 4 (perception) HAS now been read and
   content-verified, along with lecture 11 chapter 3 (facial expressions
