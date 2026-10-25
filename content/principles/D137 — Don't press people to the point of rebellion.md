@@ -12,15 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 137** — Don't press people to the point of rebellion
 
-Chapter 72 is a warning aimed at rulers, but its mechanics are not political. The first line is the hinge: when people stop fearing what they ought to fear, the very thing they dreaded arrives. Read carefully — the chapter is not saying fear is the goal. It is saying the more you squeeze, the more you leave people with only one move left: break through the fence.
+Chapter 72 of the Daodejing is addressed to rulers. Translators differ on its middle lines, so here are two. In D. C. Lau's translation:
 
-The middle verses are practical hygiene, not ideology: let people not be thoughtlessly hemmed in by their ordinary life, nor act as if weary of what that life depends on, and it is by avoiding such indulgence that the weariness does not arise. This is a pressure-management rule. Tighten and the whole structure fails; loosen and the structure holds (DDJ 72.2-3).
+> When the people lack a proper sense of awe, then some awful visitation will descend upon them.
+> Do not constrict their living space;
+> Do not press down on their means of livelihood.
+> It is because you do not press down on them that they will not weary of the burden.
+> (Laozi 72, trans. D. C. Lau, 1963, [Terebess](https://terebess.hu/english/tao/lau.html))
 
-> "When the people do not fear what they ought to fear, that which is their great dread will come on them." (Daodejing 72.1, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+James Legge reads the same lines differently, as a warning to the people about indulgence: "When the people do not fear what they ought to fear, that which is their great dread will come on them. Let them not thoughtlessly indulge themselves in their ordinary life; let them not act as if weary of what that life depends on. It is by avoiding such indulgence that such weariness does not arise" ([Legge, *Tao Teh King* 72.1-3, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
 
-**Plain words** A parent who reads every message, tracks every location and vetoes every friend has not made a safer child — they have made a child with only one path: get better at hiding. The parent who keeps some room — an obvious, boring room — keeps the child talking. This is the physics of rebellion. Tighten the pressure and you build the explosion; keep a door open and the pressure has somewhere to go. Chapter 72 calls this leaving people not weary of what their life depends on.
+This page follows Lau's reading, which is the one the principle's title rests on. The practical reading is the one I draw from Lau: leave people room in their homes and livelihoods, and they will not tire of being governed.
 
-*For example:* Two managers both want better punctuality from a struggling team. One institutes sign-in sheets and docking for every lateness; the other sets the boundary once and stops watching. A month later the first manager has perfect records and a quiet team where half the staff have started looking at other jobs. Same target — one team still feels like it has somewhere to breathe.
+**Plain words** Lau's version says that if you press down on people's living space and livelihood, they grow weary of the burden. Pressing less is the advice. This is a ruler's chapter, and I am borrowing it for smaller settings.
+
+*For example (my illustration, not Laozi's):* A manager wants better punctuality. One option is sign-in sheets and docking pay for every lateness. Another is to set the expectation once and trust people to meet it. I cannot say which works better in a given team, but Lau's lines point to the second as the one that leaves room.
+
+## Sources
+
+- [Laozi, *Tao Te Ching*, trans. D. C. Lau (1963), chapter 72, Terebess](https://terebess.hu/english/tao/lau.html): the block quotation, checked against the page.
+- [James Legge, *The Tao Teh King*, chapter 72, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): the alternative reading, checked against the text. The page previously presented Legge's lines as saying that people should not be "hemmed in"; Legge's text says "thoughtlessly indulge themselves".
 
 ## Stories
 

@@ -114,3 +114,6 @@
 
 ## D165 Cut complexity back to simplicity
 - Legge Tao Teh King ch. 19 and 57 verified in Gutenberg 216 text; replaced paraphrase-as-claim with verbatim quotes, labelled the onboarding example as an unsupported illustration, removed 'immediate' and 'data-shaped' framings. Legge notes 57.3 as 'a sage has said' (quoted saying), now reflected.
+
+## D137 Don't press people to rebellion
+- Legge ch. 72 (Gutenberg 216) says 'Let them not thoughtlessly indulge themselves'; the page described it as 'not hemmed in'. Page reading matches D. C. Lau ('Do not constrict their living space'), verified on Terebess. Page rewritten to quote Lau and give Legge as the alternative; invented parent/manager anecdotes removed or labelled. Flag: translations of DDJ 72 diverge, supervisor may want other Daodejing pages that quote Legge for a 'constrict' style reading checked.
