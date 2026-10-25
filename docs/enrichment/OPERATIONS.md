@@ -1519,3 +1519,16 @@ The advisor's final verification caught overstated records in this session's QC 
   independently confirm the pattern on sampled quotes.
 - Supervisor baton re-claimed this pass (had been released; no
   conflict with any live supervisor).
+
+# Supervisor QC entry 13 — 2026-10-25 ~04:06Z (supervisor-pplx-brownmermaid-1025a)
+
+- SAMPLE QC affect (published): checker exit 0 (101 links, 0
+  dense, quotes 10/0 live). PASS.
+- SAMPLE QC the-self (published, exemplar): checker exit 0 (182
+  links, 0 dense); 2 of 6 quote-verify misses are the documented
+  carrier artifacts per the exemplar's review record. PASS.
+- Session sample-QC coverage now: anxiety, happiness, others,
+  right-view, affect, the-self, cognition, gratitude (spot), plus
+  the three session flips read end-to-end. No defects found that
+  require edits; all misses trace to documented carrier-access
+  artifacts with ledger records.
