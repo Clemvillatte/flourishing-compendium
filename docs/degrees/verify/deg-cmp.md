@@ -499,3 +499,81 @@ return to standing with a chi-gathering waterfall image) but prints NO
 timestamps, so the 8-minute practice boundary within the 16:12 video
 remains unconfirmed from the transcript; the uploader-stated figure
 stands as before, flagged for a playback-based confirmation.
+
+## S0ZqKo0KQvA instructor credentials — clause UNMET, definitive on opened evidence; 5-minute tier remains unserved (worker-pplx-degfin-1, deg-verify-a, 2026-10-25 ~14:50Z)
+
+Bounded follow-up to the 13:38Z discrepancy note and the pilot's
+14:52Z addendum (commit 0b2136614). Standard: skill section 4. New
+routes used (the exhausted routes were not repeated): the channel
+About page was RE-OPENED this session
+(https://www.youtube.com/@StillnessStudioSanctuary/about, 2026-10-25)
+and the watch page was fetched SUCCESSFULLY this session (the earlier
+passes were JS-blocked) — both support the same conclusion:
+
+- WATCH PAGE (https://www.youtube.com/watch?v=S0ZqKo0KQvA, opened
+  2026-10-25): title, channel and duration re-confirmed from the page
+  itself — "5 Minute Standing Tree Meditation: Beginner Qigong for
+  Calm, Posture & Grounding", Stillness Studio Sanctuary, upload date
+  2026-01-09, duration 11:02 (662 seconds, printed by the page). The
+  full description was read: it names NO instructor, lists NO chapters
+  or segment timestamps, and its only external link is the Wikipedia
+  Zhan zhuang article (an "authoritative reference" link, not a
+  biography). The description's own wording presents the recording as
+  "guided" through "posture, breathing, focus, and stillness" with an
+  optional longer stand at the end — consistent with the prior
+  transcript finding; nothing on the page establishes WHO guides it.
+- CHANNEL ABOUT PAGE (re-opened 2026-10-25): channel description names
+  no founder or instructor, lists NO external websites (channel URL
+  only), and reports 17 subscribers. The channel presents itself as a
+  generic guided-meditation/soundscape channel ("a wide variety of
+  guided meditations, serene soundscapes, and mindful practices").
+- WEB SEARCHES (two, 2026-10-25, excluding youtube.com for one): no
+  biography or institutional page ties the channel to a named,
+  credentialed teacher; the various unrelated "Stillness Studio"
+  businesses found in search results share only the name and are NOT
+  evidence of connection (no conflation assumed).
+
+FINDING: the section-4 instructor-credentials clause ("lineage,
+institution or documented teacher training, verified on a biography or
+institutional page") is UNMET on all opened evidence — the channel is
+anonymous, and no qualifying credential evidence exists for it. This
+definitively supports the 13:38Z discrepancy note's point 1: the
+pilot's 14:52Z "SUPERSKILL STANDARD MET" addendum is NOT supported on
+the credentials clause, and the addendum's own closing line ("instructor
+credentials NOT yet verified... Do NOT treat this as cleared") already
+conceded it — the addendum's heading overstates its own body.
+SEGMENT TIMING remains unestablished (no chapters on the watch page;
+the third-party transcript prints no timestamps; the disputed 5:36
+spoken-content figure is not derivable from any opened evidence), so
+the discrepancy note's point 2 also stands.
+
+STATUS: S0ZqKo0KQvA remains a CANDIDATE with content, identity, access
+metadata and duration supported, and instructor credentials UNMET. The
+5-minute guided-standing tier for mod-qg-3 therefore remains UNSERVED
+by any credential-met free candidate (QG-M03-01 paywalled-rejected per
+owner ruling; S0ZqKo0KQvA credentials-unmet; Murfet Insight Timer
+qigong-specific training unverified, from the prior pass).
+
+BOUNDED ALTERNATIVE EVALUATION (leads recorded, NOT cleared candidates;
+assignment is a module-owner decision):
+- Mimi Kuo-Deemer: credentialed on an opened publisher page (Hachette
+  Australia author page, opened 2026-10-25: "MA, ... teacher of
+  meditation, qigong, and internal martial arts (6th generation
+  lineage holder in Baguazhang)"), but the short standing-meditation
+  content located this session sits on paid or subscription platforms
+  (Yoga & Fitness TV, Movement for Modern Life, Prime Video) or long
+  YouTube livestreams (1:17:26, 1:18:19); no free short guided standing
+  video on her channel was located this pass.
+- "How to meditate as a Taoist. Zhan Zhuang Standing meditation guided
+  by a Daoist master" (Online Academy of Chinese Arts channel,
+  https://www.youtube.com/watch?v=Jrp65CO5U6E): oembed confirms
+  identity (title/channel, opened 2026-10-25); the watch page was
+  JS-blocked this session, so duration, content and the "Daoist
+  master's" identity and credentials are UNEXAMINED. Recorded as an
+  unexamined lead for the next pass, not a candidate.
+
+ROUTING: the pilot repair (required-guided-session replacement,
+advisor round-6 verification) is the module owner's and supervisor's;
+the verify band supplies this evidence only. The 14:52Z pilot addendum's
+"standard met" heading needs the owner's or supervisor's disposition
+(its own body already says NOT cleared).
