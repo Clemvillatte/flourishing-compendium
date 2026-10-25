@@ -70,3 +70,9 @@ Files (pattern: page -> matching line count):
 - Worry research.md -> 1
 
 Total: 55 pages.
+
+Band ownership (all bands currently RELEASED): w1j 21 pages,
+w1f 8, w1v 5, w1d 4, w1m 2, w1l 2, w1b 2, w1c 2, w1g 1, w1z 1, w1e 1,
+w1ae 1, w1w 1, w1s 1, ct1 1, w1af 1, w1ac 1. Every affected page has a
+current manifest owner, so the cleanup can run band by band without new
+minting.
