@@ -25,7 +25,7 @@ Humor research supports a social cost. Martin and colleagues (2003) defined aggr
 The Nahuatl source text is cited at second hand. The locator "Book VI" may be wrong.
 
 **Plain words**
-Ridicule has an odd economy, since the laughter costs the teller nothing and the listener who cannot answer back pays the whole bill. Proverbs 17:5 sets this plainly against mocking the poor, and the blind, the deaf and the injured appear in the same family of warnings, because each of them stands in a spot where a joke lands without resistance. The one who laughs at such a spot is not displaying wit so much as displaying where wit was not needed. Research on teasing adds a plain cost of another kind, since those who reach for mockery are read as colder rather than cleverer, and the amusement fades long before the impression does.
+Ridicule has an odd economy, since the laughter costs the teller nothing and the listener who cannot answer back pays the whole bill. Proverbs 17:5 sets this plainly against mocking the poor, and the blind, the deaf and the injured appear in the same family of warnings, because each stands where a joke lands without resistance. The one who laughs there is not displaying wit so much as showing where wit was not needed. Research on teasing adds that those who reach for mockery are read as colder rather than cleverer.
 
 **For example**
 One week of a joke diary shows the pattern, any entry whose target cannot answer back gets a mark.
