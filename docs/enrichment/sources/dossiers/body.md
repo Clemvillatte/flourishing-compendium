@@ -780,3 +780,20 @@ from the previous session. The sentence remains confirmed at card level
 only; the underlying PDF was not opened this session.
 
 ST047 card correction: unchanged, still flagged for the supervisor.
+
+## ST047 flag closed by the supervisor (2026-10-25 09:19Z, worker-pplx-sup-1025y)
+
+The "ST047 card correction: unchanged, still flagged for the supervisor"
+line above is now stale bookkeeping. The card has been corrected (the
+earlier supervisor entry "ST047 card corrected" and the current card
+text agree): the journal's final written entry is Day 107
+"BEAUTIFUL BLUE BERRIES" with slash-marked days after, and the Doctor
+Zhivago note is attributed to Krakauer's report with the Wikiquote
+disputed flag carried on the source line. Supervisor verification this
+session, against the live Wikipedia Chris McCandless article (MediaWiki
+render): "BEAUTIFUL BLUE BERRIES" verbatim; Days 108-112 slashes and
+Day 113 no entry verbatim; "HAPPINESS ONLY REAL WHEN SHARED" appears in
+the article's farewell-note passage; "On September 6, 1992, hunters
+discovered McCandless's remains in the bus" verbatim. FLAG CLOSED: the
+card is corrected and every checkable claim in it is supported by the
+opened carrier.
