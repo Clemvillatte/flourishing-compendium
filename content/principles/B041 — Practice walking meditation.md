@@ -16,9 +16,9 @@ I can give an ordinary walk my attention. MN 10 includes walking among the bodil
 
 > "Furthermore, when walking, the monk discerns, 'I am walking.'" ([Thanissaro's translation, body section A.2](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-The passage also names standing, sitting and lying down. Its next section extends alertness to going forward and returning, bending limbs and other daily activities. These instructions give me a way to practise during movement. The slow lifting, moving and placing exercise is an application I can try; this passage itself specifies neither that sequence nor a walking speed.
+The passage also names standing, sitting and lying down; its next section extends alertness to going forward and returning, bending limbs and other daily activities ([MN 10, A.2–3](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). These instructions give me a way to practise during movement. I use the slow lifting, moving and placing exercise as my own application of that awareness.
 
-I keep the research questions separate. Oppezzo and Schwartz studied walking and creative task performance. Bratman and colleagues compared 90-minute nature and urban walks in healthy participants, finding reduced self-reported rumination after the nature walk. Neither experiment tests the walking meditation instruction in MN 10.
+I keep the research questions separate. [Oppezzo and Schwartz](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf) studied walking and creative task performance. [Bratman and colleagues](https://pubmed.ncbi.nlm.nih.gov/26124129/) compared 90-minute nature and urban walks in healthy participants, finding reduced self-reported rumination after the nature walk. These are different questions from the posture-awareness practice I draw from the sutta.
 
 **Plain words**
 While walking, notice that you are walking. Let the movement be something you attend to. I would begin with a short, safe route and see what I actually notice.

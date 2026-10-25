@@ -12,35 +12,36 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 25** — Practice right livelihood
 
-Earn your living without causing harm: avoid trades in weapons, poisons, intoxicants, and exploitation. Align work with your deepest values.
+I want to ask what my work helps happen, including consequences I would rather leave out of account. AN 5.177 gives lay followers a specific list of businesses to avoid:
 
-The Vanijja Sutta lists the trades a lay follower should not engage in:
+> "Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison." ([Thanissaro, Vanijja Sutta](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html))
 
-> "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. 'These are the five types of business that a lay follower should not engage in.'" (AN 5.177, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html))
+That includes the meat trade explicitly, alongside the other four prohibitions ([AN 5.177](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)). My wider questions about a modern workplace are an application: who benefits, who bears the cost, and what part do I play?
 
-The list is addressed to householders, which is the part the principle inherits: the training asks people with jobs, not only monastics, to keep the trade clear of the harm.
+Psychology offers another question about work. Wrzesniewski and colleagues distinguish job, career and calling orientations, centred on financial necessity, advancement and fulfilling, socially useful work respectively ([1997 abstract, Swarthmore](https://works.swarthmore.edu/fac-psychology/193/)). I would set that question beside the ethical one. Feeling devoted to my work still leaves me responsible for examining its effects.
 
-(AN 5.177; Dhammapada 124.)
+I would include the need to earn a living and responsibilities to dependants in that examination. An honest first step might be to identify one harmful practice I can challenge, refuse or help change.
 
 **Plain words**
-The sutta's test is concrete: name what the work moves and who it costs. The ancient list is weapons, human beings, meat, intoxicants, poison; the modern question has the same shape. You spend most of your waking life at the work, and the frame makes the paycheck one input to the arithmetic rather than the whole of it.
+Look at what your work enables and who is affected. Ask which responsibilities you can act on now, including the people who rely on your income.
 
 **For example**
-The marketer who turns down the tobacco account and sleeps better — the salary was partly paid in self-respect.
+Imagine a marketer asked to promote tobacco. She could seek another account or plan a move while meeting her financial obligations. This is my modern example; I would let the story show the costs as well as the choice.
 
 ## Sources
 
 - [AN 5.177 Vanijja Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)
+- [Wrzesniewski et al., Jobs, Careers, and Callings: People's Relations to Their Work (1997), Swarthmore](https://works.swarthmore.edu/fac-psychology/193/): abstract.
 
 ## Psychology parallels
 
-- **[[Calling orientation|Calling orientation]]**, work as a source of meaning predicts well-being beyond income (Wrzesniewski et al., 1997)
-- **[[Person-organization fit|Person-organization fit]]** (Kristof-Brown et al., 2005)
+- [[Calling orientation|Calling orientation]]: the work-orientation framework above.
+- [[Person-organization fit|Person-organization fit]]: a separate comparison to explore.
 
 ## Philosophy parallels
 
-- **[[The dignity of labor|The dignity of labor]]** (Dewey, Democracy and Education)
-- **Meaningful work as escape from the having mode** (Fromm, To Have or To Be?)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
+- [[The dignity of labor|The dignity of labor]]: further philosophical reading on work.
+- [[Eightfold Path|Eightfold Path]]: the broader Buddhist training.
 
 
 <!-- fc: reflections
