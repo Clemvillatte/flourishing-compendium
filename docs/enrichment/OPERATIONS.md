@@ -1678,3 +1678,26 @@ The advisor's final verification caught overstated records in this session's QC 
   active on story spot-checks (dos4, dos18, dos19, dos24, dos28
   released or active); owner directive 2026-10-25d documented
   (entry 24). Verification pass re-confirm next, then final save.
+
+# Supervisor QC entry 26 — 2026-10-25 04:23Z (supervisor-pplx-brownmermaid-1025a, FINAL)
+
+- T+58 final verification: all seven session dossiers green
+  (right-livelihood 59, shame-and-guilt 39, motivation 51,
+  creation 51, suffering 49, acceptance 26, impermanence 30
+  links; 0 dense across all), app.js node-check OK, working
+  tree clean, all commits on origin/main.
+- SESSION COMPLETE: 3 dossiers published (suffering,
+  impermanence, acceptance — registry 34 published / 5 planned);
+  4 dossiers' disagreement sections upgraded; the catalogue-wide
+  3-question-bar finding recorded, corrected (24 of 39) and
+  nuanced; the owner ratified the bar and commissioned the
+  repair pass (2026-10-25d); the chronic-pain-research placement
+  accepted and live; freedom flip held; dos22/dos31 released;
+  26 QC log entries; live site verified end-to-end.
+- Standing owner flags: the 28-vs-24 count discrepancy for the
+  repair pass (entry 24); right-livelihood bounded-comparison
+  ratification; art assignment (creativity, procrastination,
+  creation, leisure, executive-functions); freedom flip decision;
+  meaning-and-mortality deletion path; the 1-question exceptions
+  (suffering, acceptance) and gratitude's 0-question exception.
+- Releasing both supervisor batons. Report follows.
