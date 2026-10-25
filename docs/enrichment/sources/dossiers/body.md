@@ -797,3 +797,22 @@ the article's farewell-note passage; "On September 6, 1992, hunters
 discovered McCandless's remains in the bus" verbatim. FLAG CLOSED: the
 card is corrected and every checkable claim in it is supported by the
 opened carrier.
+
+## Barsalou carrier, re-attempted (2026-10-25, worker-pplx-dos17-1025z)
+
+The official author-site PDF
+(https://www.barsaloulab.org/Online_Articles/2008-Barsalou-ARP-grounded_cognition.pdf)
+still returns an error page, and the Annual Reviews landing page and
+Semantic Scholar's PDF were tried as alternates without yielding the
+article text (Semantic Scholar's copy is a slide deck, not the article).
+The sentence the body dossier's gloss paraphrases was verified against an
+opened re-host of the article, Scribd document 175448200, which carries
+the article's abstract including, verbatim: "Grounded cognition rejects
+traditional views that cognition is computation on amodal symbols in a
+modular system, independent of the brains modal systems for perception,
+action, and introspection. Instead, grounded cognition proposes that
+modal simulations, bodily states, and situated action underlie
+cognition." (The re-host drops the apostrophe in "brain's"; the sentence
+is otherwise exact.) Recorded honestly: this is a re-host, not the
+official carrier, and the official PDF remains unopened. The card's own
+block quote and the re-host agree.
