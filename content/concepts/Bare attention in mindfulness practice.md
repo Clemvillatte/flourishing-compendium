@@ -15,6 +15,8 @@ Bare attention is a way of observing experience without immediately answering it
 
 Nyanaponika explicitly includes identifying and naming mental processes, such as recognizing desire when it occurs ([section 1, Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)). In this account, simple verbal naming is compatible with bare attention ([Naming](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
 
+The point of the naming is anchoring rather than interpretation. A single word steadies the observation without answering it, the way a label says what is in the jar rather than what to do with it. What bare attention excludes is not language but the leap past the perception: the commentary that resolves, judges or fixes while the thing is still arriving. The discipline holds the observation open long enough for the thing to finish appearing, and the naming, when it comes, comes after that, one word deep.
+
 ### A practice within a larger account
 
 Bishop and colleagues propose a testable, two-component model of mindfulness; their abstract presents a conceptual proposal, not a trial demonstrating therapeutic benefit ([2004, abstract](https://onlinelibrary.wiley.com/doi/full/10.1093/clipsy.bph077)). Nyanaponika's practice term should be distinguished from this proposed clinical model.
