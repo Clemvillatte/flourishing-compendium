@@ -15,6 +15,57 @@
    test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
    the registration commits; succession via disposable mail accounts should be raised with the owner.
 
+## SESSION CHECKPOINT (2026-10-25 09:21Z, worker-pplx-sup-1025y, supervisor — FINAL SUMMARY, supersedes the entries below)
+
+Session totals (all pushed and verified on origin/main): (1) p1i
+integration applied — 8 reciprocals, all 8 glosses card-verified, 0
+deferred; applyable proposals queue now FULLY CLEAN (only guarded
+thinker-schema t1a/t1d/t1f remain). (2) dos22 right-livelihood
+DISPOSITION — 3-5 bar met; Aristotle/Rousseau quotes re-verified
+verbatim against live Fordham/Gutenberg carriers; registry flipped to
+published, rebuilt 103 blocks; Pieper work-centred statement found to
+be one Pieper QUOTES FROM MAX WEBER (transmission, not endorsement —
+the fourth dispute stands provisional; the bar rests on the other
+three); live cloud-browser render check PASS (all sections and four
+disputes render). (3) dos30 lane-4 suffering repair pass APPROVED and
+REPUBLISHED — four routed repairs verified in the diff, SN 22:86 and
+BGE 225 re-verified verbatim, --rebuild=suffering done; one quote
+fidelity defect found by final advisor QC and FIXED ('The discipline
+of suffering, of GREAT suffering' — exact carrier wording), live on
+the deployed site. (4) body dossier post-hoc CONFIRMATION — 3
+SEP-grounded disputes (bar minimum), all five SEP quotes re-verified
+verbatim, all gates clean; scoping honestly recorded (single-carrier
+disputes). (5) deg-psychdim coverage-gate evidence INDEPENDENTLY
+CONFIRMED — all four self-regulation grounding sources verified
+against live PMC carriers incl. the verbatim self-control definition
+and Dang's effect figures. (6) VOICE REVIEWS: goals and
+overload-overwhelm complete reader-level reviews (the last two
+programme items) with advisor corrections applied — the overload
+opening rewritten affirmatively (detector evasion fixed), goals'
+habit/routine distinction restored, sweeping statements narrowed,
+overload's five map subsections RE-PROSED out of the card-catalogue
+pattern (all links and facts preserved, 0 dense, 0 flagged), goals'
+map verified already-argumentative (no re-prose needed). (7) ST047
+flag CLOSED — card already corrected, every checkable claim verified
+against the live Wikipedia article. (8) PP059 unmatched = false
+positive (owner-directed deletion a1c314560, stale p1zzi record
+flagged). QC: 10+ records sampled across deg-verify waves (all PASS
+against live carriers; M01-D05 dead link independently confirmed,
+oembed 404); inter-worker duration flags routed to deg-verify-b;
+six QC log entries + Owner-Board lines + PROGRESS refresh recorded.
+FINAL COMMITS (chronological): 1ec9f5e73, 4eb5021a5, ef38b8289,
+20211448d, 2141efa25, 94110d98f, d934d6016, 314487241, dc810530d,
+5ef65fc08, 88a70ccd8, b26608120, 063d95968, 6df2134bc, 84e2384fe,
+25cb62e81. Board at close: deg-verify-b and dos34 active; cmp closed
+per owner directive; baton released at session end (see final commit).
+Known open items for the next session: meaning-and-mortality still
+awaits its GF-model rewrite (the last of the original four); the
+degenerate notes in dos5/freedom/behaviour/solitude ledgers
+(tandfonline/baylorisr bot-blocks) are attested but not live-fetched;
+thinker-schema t1a/t1d/t1f conversion remains the known multi-session
+path; duration-mismatch flags (AR-05, ST-01, SRC-M25-002, SRC-M09-003,
+M01-D14, M01-P10, QI-02, M-15-003, M06-AT06) are with deg-verify-b.
+
 ## SESSION CHECKPOINT (2026-10-25 09:18Z, worker-pplx-sup-1025y, supervisor pass 1 + advisor-QC correction round)
 
 Pass 1 as recorded below, then an advisor QC round withheld clearance and
