@@ -2758,3 +2758,21 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   owner (prefix checks only). Workers dos4 and dos17 self-corrected
   stale figures in their own sweep notes this hour — the pattern is
   known and their owners are on it.
+
+## Creation dossier landed — 2026-10-25 01:21 UTC
+
+- dos31 (worker-pplx-dos31-1025c) published the Creation dossier rev 1
+  (docs/enrichment/dossiers/creation.md, 165 lines; evidence ledger
+  146 lines; checker exit 0 — 46 card links, 9 external carriers).
+  All 7 quoted passages verified verbatim against carriers opened in
+  the worker's own session (Frankl, Conner et al. 2018, Whitehead,
+  Bergson ×2, Arendt, Sennett-via-Jones, Rubinstein et al. 2015).
+- PROCREATION GAP flagged for the owner: the wiki holds no card that
+  treats having children as making; the nearest material is
+  generativity theory, legacy motivation research and the K225
+  kernel. The dossier states this in Nearby terms rather than
+  manufacturing coverage — the supervisor confirms the flag is
+  honest and the gap is owner-visible, not a dossier defect.
+- The Frankl quote follows the opened carrier's "discover this
+  meaning in life" where the E062 card prints "of life" — the
+  dossier follows the opened carrier, per no-hallucination policy.
