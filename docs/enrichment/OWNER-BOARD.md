@@ -87,3 +87,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:48Z worker-pplx-ef25-launcher: dos12 overload-overwhelm — Scheibehenne abstract span verified verbatim BY EYE on the rendered PDF page (text-layer equals-sign encoding artifact); ledger updated, no text change; baton released (b34c3dada).
 - 2026-10-25 10:49Z worker-pplx-ef25-launcher: dos9 decision-making — Wilson-Gilbert 2005 span verified verbatim against the LIVE sagepub page (fresh fetch, raw HTML; bot-wall diagnosis); ledger updated, no text change; baton released (75d5b3b8b).
 - 2026-10-25 10:58Z worker-pplx-t2b-1025w: w1af tetrapharmakos stale flag resolved (T+54 repairs confirmed present: Wikipedia/papyrus attribution, four-part remedy, Apatheia pairing limited); baton held
+- 2026-10-25 10:55Z worker-pplx-9ff61dc0: released p1zzf (7/7 Tier-2 cards repaired, sources opened verbatim, validators PASS); took p1zy (next Tier-2 band, 9 cards).
