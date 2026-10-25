@@ -147,3 +147,6 @@
 
 ## S053 verbatim Epictetus
 - Enchiridion 1 (Long, Gutenberg 10661) quoted word for word; control/influence/accept three-way split labelled as a modern gloss, not Epictetus; example labelled. E012 audited: relies on Walsh and Husserl extracts, not re-opened (no change).
+
+## M004, AT070 verbatim quotes added
+- M004: Maffie (IEP Aztec Philosophy) sentences on tlamatiliztli as know-how and on moderation quoted verbatim from the opened page. AT070: Bar-Haim et al. 2007 abstract sentences (172 studies, d = 0.45, not observed in nonanxious individuals) quoted verbatim from PubMed. Cisler 2009 and Eysenck 2007 paragraph not re-opened.

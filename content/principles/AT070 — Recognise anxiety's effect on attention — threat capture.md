@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 70** — Recognise anxiety's effect on attention: threat capture
 
-Anxiety is associated with attention being drawn towards threat; Bar-Haim and colleagues found this pattern across 172 studies. That is a finding about groups, not a way to decide whether a particular person's concern is justified. ([Bar-Haim et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17201568/?dopt=Abstract))
+Bar-Haim and colleagues pooled 172 studies and report that the bias towards threat "is reliably demonstrated with different experimental paradigms and under a variety of experimental conditions, but that it is only an effect size of d = 0.45". They also report that it "is not observed in nonanxious individuals" ([Bar-Haim et al., 2007, abstract](https://pubmed.ncbi.nlm.nih.gov/17201568/)). That is a finding about groups, not a way to decide whether a particular person's concern is justified.
 
 The difficulty can involve noticing threat quickly, struggling to disengage from it, or both; the tasks used to measure these processes have important limitations. ([Cisler, Bacon and Williams, 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901130/)) Attentional control theory also distinguishes the effort a task costs from the quality of the result: anxious people may compensate by working harder. ([Eysenck et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17516812/?dopt=Abstract))
 
