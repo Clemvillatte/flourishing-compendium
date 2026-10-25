@@ -4,35 +4,45 @@ Worker: worker-pplx-dos32-1025d (takeover of worker-pplx-dos32-1025, whose
 in-session prep — corpus-sweep inventory, card excerpt inspection, registry
 scope, question draft — is recorded in the dos32 batch note and was used as
 the reading list). Dossier:
-docs/enrichment/dossiers/creativity.md, CURRENT rev 2 (rev 1: 4dc84038d,
-first draft; rev 2: this entry, advisor QC round 1 applied).
-Checker at rev 2: exit 0 (32 card links resolve, 16 headers, 39 external
+docs/enrichment/dossiers/creativity.md, CURRENT rev 3 (rev 1: 4dc84038d,
+first draft; rev 2: 536cfd694, advisor QC round 1 applied; rev 3: advisor
+QC round 2 applied).
+Checker at rev 3: exit 0 (31 card links resolve, 16 headers, 37 external
 carrier link occurrences).
 
 ## Verification method (per quote, no blanket claim)
 
 Raw text, no LLM extraction in the path (curl + pdftotext, whitespace-
 normalized grep, or raw curl of eutils/Gutenberg text): Hennessey & Amabile
-2010 (all quotes and the rewards-debate passage), Guilford 1950, Schumpeter
-ch. VII, Cambridge International chapter 4 (all quotes), Csikszentmihalyi
-Flow (owner's Drive copy), Dewey, Bergson, Wang et al. 2017 and Kounios &
-Beeman 2014 (PubMed eutils raw abstract text).
+2010 (all quotes and the full rewards-debate passage, full-span verified),
+Guilford 1950, Schumpeter ch. VII, Cambridge International chapter 4 (all
+quotes), Csikszentmihalyi Flow (owner's Drive copy), Dewey, Bergson,
+Wang et al. 2017, Kounios & Beeman 2014, Baird et al. 2012 and Holt 2018
+(PubMed eutils raw abstract text), SEP Imagination and SEP Henri Bergson
+section 6 (raw curl of the entry HTML, text stripped locally), Sio & Ormerod
+2009 (raw curl of the ERIC record), Murray et al. 2024 (raw curl of the
+FLoRA record), Conner et al. 2018 (raw HTML of the Taylor & Francis abstract
+page downloaded via the fetch tool's raw mode and full-span checked
+locally).
 
-Fetch-tool page reads returning exact abstract or page text: Conner et al.
-2018 (Taylor & Francis abstract page; word-for-word identical to the BE059
-card's PDF-verified quote), Sio & Ormerod 2009 (ERIC record; identical to
-the AT036 card's abstract quote), Haase et al. 2018 (Taylor & Francis full
-text; identical to the Creative self-efficacy card's quotes), SEP Imagination
-(definition sentence), Zhang/Chen/Monosov 2018 (PMC abstract sentences),
-Baird et al. 2012 (eutils abstract), Murray et al. 2024 (FLoRA record
-quoting the replication's own wording). These are fetch reads, not raw
-downloads; each was additionally cross-checked against the wiki card where
-the card carries the same passage, and no disagreement was found. A phrase
-match certifies the matched span only, not the surrounding page.
+Fetch-tool page reads (LLM extraction in the path, cross-checked but not raw
+verified): Haase et al. 2018 abstract numbers (Taylor & Francis full text;
+the extraction quoted the abstract's own sentences, including 'r = .39',
+'r = .53' and 'r = .23'; rev 3 corrected a .25 figure that appears in no
+opened text to the abstract's own .23). Each is labeled per quote below.
 
-Cards: concept cards were read in full; principle, kernel and story cards
-were read in targeted section ranges that contain every passage relied on
-(the ranges printed in the session record), not necessarily the whole file.
+Rev 3 ran a full-span re-verification of every quotation against its raw
+carrier (whitespace-normalized substring match) after the advisor's round-2
+review; two defects found and fixed: the rewards quotation had lowercased
+'Despite' and truncated the sentence, and the Haase .25 figure was not in any
+opened text. Known extraction artifacts, not quote defects: the Schumpeter
+carrier interleaves a footnote marker inside 'incessantly revolutionizes',
+and the Flow/Bergson Gutenberg texts use curly apostrophes where the dossier
+uses straight ones.
+
+Cards: cards were read via their markdown files; several were read in
+targeted section ranges (some from line 13 onward after the front matter),
+not necessarily whole files. The relied-on passages are inside those ranges.
 
 ## Advisor QC round 1 (rev 2 changes)
 
@@ -78,6 +88,53 @@ were read in targeted section ranges that contain every passage relied on
 - The Creation nearby-term link relabelled accurately (it opens the Creative
   values card, not the sibling dossier).
 
+## Advisor QC round 2 (rev 3 changes)
+
+- Full-span re-verification of every quotation against its raw carrier;
+  rewards quote restored to the carrier's capitalization and full sentence
+  ('Despite results such as these... the debate has continued through much
+  of the past decade'), page locator corrected to pp. 581-582 (the 572
+  locator belonged to a different passage); Baird capitalization fixed
+  ('These data').
+- Haase numbers corrected to the abstract's own values: .53 for self-rated
+  creativity, .23 for divergent-thinking tests; the .25 figure (performance
+  tasks and expert ratings) appeared in no opened text and was removed.
+- The '117 studies' count removed from the Sio & Ormerod sentence: the ERIC
+  record's abstract gives no study count.
+- The Three Metamorphoses logline no longer quotes across the card's
+  fragments ('a new beginning, a game, a self-propelled wheel'); the camel,
+  lion and child are retold without quotation.
+- The Creative Advance logline omitted; the Rock Climbers logline now
+  describes the interviews rather than repeating their findings.
+- The Zhang/Chen/Monosov novelty-neuroscience sentence removed from the
+  constraint paragraph (the mechanism claim was an inference, and the
+  'rather than as reward' connection was the dossier's own); the constraint
+  paragraph now presents the K324 exercise as a bet with an explicit test.
+- SEP 'Henri Bergson' section 6 opened (raw HTML); the creative-emotion
+  distinction now quoted from the commentators' own text ('in creative
+  emotion, we first have the emotion which then creates representations')
+  with the musician example, replacing the vaguer 'records the
+  commentators' reading' attribution.
+- Holt 2018 (K323) abstract opened via eutils; the K323 practice entry now
+  carries the study's own numbers (41 artists, ten beeps a day, one week).
+- Rewards disagreement rebuilt on the review's own account: the distinction
+  between extrinsic motivation broadly and expected rewards specifically is
+  now stated, and the dispute is attributed to Hennessey and Amabile's
+  description of the behaviorist position.
+- DT disagreement: the Guilford historical-sequence sentence removed; the
+  review's 'definitions driving the investigations' account moved to the
+  rewards disagreement where the carrier puts it; 'a person can look
+  creative on one instrument and not on another' replaced by 'the strength
+  of the association depends on how creativity is measured'.
+- Meta-text removed throughout: 'that question runs through everything
+  below', 'the experiments that follow', the Creation bullet's page
+  self-description, 'has its own entry below' (twice), 'the practical
+  question the process sections leave open', 'contested below'.
+- Quote-then-paraphrase repetitions removed after the Conner quotation and
+  the intrinsic-motivation principle; Bergson's false contrast fixed
+  ('extends the question of novelty to life and time themselves').
+- K323 Holt sentence tightened to the abstract's own wording.
+
 ## Quotations (verification per quote; see the method section)
 
 1. Hennessey & Amabile 2010, definition sidebar. "Creativity: the
@@ -114,8 +171,9 @@ were read in targeted section ranges that contain every passage relied on
 4. Conner, DeYoung & Silvia 2018, abstract. The lagged-models sentence and
    the direction sentence.
    Carrier: https://www.tandfonline.com/doi/abs/10.1080/17439760.2016.1257049
-   (fetch-tool read of the abstract page; word-for-word identical to the
-   BE059 card's PDF-verified quote, including the en dashes). VERBATIM.
+   (rev 3: raw HTML of the abstract page downloaded and full-span verified
+   locally; rev 2 was a fetch-tool read identical to the BE059 card's
+   PDF-verified quote). VERBATIM.
 
 5. Cambridge International chapter 4 (Beghetto/Kaufman/Vygotsky material).
    mini-c definition (the chapter's own quoted span, 'novel and personally
@@ -144,14 +202,18 @@ were read in targeted section ranges that contain every passage relied on
    (raw text). VERBATIM.
 
 8. Sio & Ormerod 2009, abstract. The incubation-effect sentences.
-   Carrier: https://eric.ed.gov/?id=EJ827110 (fetch-tool read; identical to
-   the AT036 card's abstract quote). VERBATIM.
+   Carrier: https://eric.ed.gov/?id=EJ827110 (rev 3: raw curl of the ERIC
+   record, full-span verified; rev 2 was a fetch-tool read identical to the
+   AT036 card's abstract quote). VERBATIM. The record's abstract gives no
+   study count, so the dossier no longer prints one.
 
 9. Haase, Hoff, Hanel & Innes-Ker 2018. The 60-effect-sizes/41-papers
-   sentence, r = .39, and the .53/.25 measure-dependence sentences.
+   sentence, r = .39, and the .53/.23 measure-dependence figures.
    Carrier: https://www.tandfonline.com/doi/full/10.1080/10400419.2018.1411436
-   (fetch-tool full-text read; identical to the Creative self-efficacy card's
-   quotes). VERBATIM.
+   (fetch-tool extraction quoting the abstract's own sentences; the page is
+   curl-bot-blocked so no raw download was possible this session; the .53
+   and .23 figures are the abstract's own, and the rev-2 .25 figure was
+   removed as unsupported). VERBATIM as extracted.
 
 10. Csikszentmihalyi, Flow (Harper & Row 1990). "The best moments usually
     occur when a person's body or mind is stretched to its limits in a
@@ -183,18 +245,22 @@ were read in targeted section ranges that contain every passage relied on
     Carrier: https://thaleszp.com/files/Schumpeter_creative_dest.pdf (raw
     download + pdftotext; grep hits). VERBATIM.
 
-14. Hennessey & Amabile 2010, rewards-debate passage (rev 2 divergence). "A
-    debate over these issues surfaced in the literature in the mid 1990s...",
-    "despite results such as these, inconsistent with the assertion that
-    expected rewards generally foster creativity, the debate has continued",
-    and the core-of-the-debate sentence (definitions, algorithmic or
-    heuristic tasks, instructions). Same raw PDF, grep hits. VERBATIM.
+14. Hennessey & Amabile 2010, rewards-debate passage (rev 2 divergence, rev
+    3 corrected). "A debate over these issues surfaced in the literature in
+    the mid 1990s...", "Despite results such as these, inconsistent with
+    the assertion that expected rewards generally foster creativity, the
+    debate has continued through much of the past decade", the core-of-the-
+    debate sentence (definitions, algorithmic or heuristic tasks,
+    instructions), the behaviorist-position sentence, and the extrinsic-
+    motivator list (expected reward, expected evaluation, surveillance,
+    competition, restricted choice). Same raw PDF, full-span grep hits;
+    printed page 581-582, PDF pages 13-14. VERBATIM.
 
-15. Baird et al. 2012, abstract. "these data suggest that engaging in simple
+15. Baird et al. 2012, abstract. "These data suggest that engaging in simple
     external tasks that allow the mind to wander may facilitate creative
     problem solving" and the undemanding-task improvement sentence.
-    Carrier: https://pubmed.ncbi.nlm.nih.gov/22941876/ (eutils fetch read,
-    raw abstract text). VERBATIM.
+    Carrier: https://pubmed.ncbi.nlm.nih.gov/22941876/ (eutils raw abstract
+    text; capitalization restored in rev 3). VERBATIM.
 
 16. Murray et al. 2024 replication wording. "across two studies (N = 443), we
     found no evidence for the claim that mind wandering during a
@@ -206,14 +272,29 @@ were read in targeted section ranges that contain every passage relied on
 
 17. SEP Imagination definition (rev 2 nearby term). The two-sentence
     definition by Munro, Liao and Gendler.
-    Carrier: https://plato.stanford.edu/entries/imagination/ (fetch read,
-    exact page text). VERBATIM.
+    Carrier: https://plato.stanford.edu/entries/imagination/ (rev 3: raw
+    curl of the entry HTML, full-span verified; rev 2 was a fetch read).
+    VERBATIM.
 
-18. Zhang, Chen and Monosov 2018 (rev 2). "they discriminate fully expected
-    novel visual objects from familiar objects, and respond to
-    object-sequence violations."
-    Carrier: https://pmc.ncbi.nlm.nih.gov/articles/PMC6901356/ (fetch read of
-    the abstract). VERBATIM.
+18. SEP Henri Bergson, section 6 (rev 3). "The difference between creative
+    emotions and normal emotions consists in this: in normal emotions, we
+    first have a representation which causes the feeling (I see my friend
+    and then I feel happy); in creative emotion, we first have the emotion
+    which then creates representations." and the musician/symphony example.
+    Carrier: https://plato.stanford.edu/entries/bergson/ (raw curl of the
+    entry HTML; text stripped locally; both spans grep-verified).
+    VERBATIM.
+
+19. Holt 2018 (K323), abstract. "Recent art-making was significantly
+    associated with experiential shifts: improvement in hedonic tone,
+    vivid internal imagery and the flow state."
+    Carrier: https://pubmed.ncbi.nlm.nih.gov/29130867/ (eutils raw abstract
+    text; the K323 card's citation verified to this PMID in rev 3).
+    VERBATIM.
+
+20. Zhang, Chen and Monosov 2018. REMOVED from the dossier in rev 3: the
+    constraint-paragraph use was the dossier's own inference, and the
+    connection to creative constraints was unsupported by the opened text.
 
 ## Scope and boundary notes
 
@@ -223,9 +304,14 @@ were read in targeted section ranges that contain every passage relied on
   motivation, flow) and the psychological evidence; Frankl's creative
   values, generativity, legacy and the meaning-of-making divergences stay in
   creation.md. Cross-links only.
-- P195 caution carried over from the card: the émotion créatrice wording is
-  the SEP commentators', not a verified Bergson quotation; the dossier says
-  so in one clause and quotes nothing from it.
+- P195: the SEP 'Henri Bergson' entry was opened in rev 3; the creative-
+  emotion distinction is quoted from the commentators' own text with the
+  musician example. The card's caution stands: this is the commentators'
+  wording, not a verified quotation from Bergson's own books; the dossier
+  attributes it to the SEP authors.
+- Rev 3 keeps three formal disagreements: divergent-thinking tests (H&A raw),
+  the rewards debate (H&A raw, quotes and page corrected), and the
+  mind-wandering mechanism (Baird raw, Murray/FLoRA raw).
 - The Haught-Tromp 2017 constraint study could NOT be opened this session
   (fetch robots-blocked, direct curl connection failed). Rev 2 removed its
   findings, the Dr. Seuss wager and the constraint mechanism from
@@ -235,9 +321,10 @@ were read in targeted section ranges that contain every passage relied on
 - The 2025 Springer self-efficacy study (larger positive bias, lower
   achievements) was removed from the dossier in rev 2: its carrier was not
   opened this session. The PP055 card carries it.
-- The Conner, Sio & Ormerod and Haase quotes are fetch-tool reads
-  cross-checked against the cards' own PDF-verified wording, not raw
-  downloads; the method section states this per quote.
+- The Haase numbers remain a fetch-tool extraction (the page is
+  curl-bot-blocked); the ledger labels it as such, and the printed figures
+  are the abstract's own sentences. Conner and Sio & Ormerod were upgraded
+  to raw downloads in rev 3.
 - Several principle, kernel and story cards were read in targeted section
   ranges, not whole files; the relied-on passages are inside those ranges.
 - K331's Proyer et al. 2021 evidence is quoted on the kernel, not in the
