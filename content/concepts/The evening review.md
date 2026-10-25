@@ -20,7 +20,7 @@ Seneca recalls speaking too contentiously in a dispute and reprimanding someone 
 The passage describes recollection and self-address, without prescribing a written-journal format or a set duration ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)). Seneca praises the sleep following this practice and claims that anticipated examination softens anger; these are his philosophical observations, not results of a controlled treatment study ([3.36](https://en.wikisource.org/wiki/Of_Anger/Book_III)).
 
 ## Related concepts
-- [[T013 — Seneca]]: the On Anger 3.36 nightly examination the page is.
+- [[T013 — Seneca]]: the On Anger 3.36 nightly examination this page is built on.
 
 
 - [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it

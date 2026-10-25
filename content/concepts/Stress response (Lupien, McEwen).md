@@ -15,7 +15,9 @@ The stress response is the body's coordinated reaction to a perceived threat: st
 
 McEwen defines the pair: "allostasis" is "the process of maintaining stability (homeostasis) by active means, namely, by putting out stress hormones and other mediators", and "allostatic load or overload" is "the wear and tear on the body and brain caused by use of allostasis, particularly when the mediators are dysregulated". The harm is a matter of timing and duration: Sonia Lupien and colleagues' review of lifespan evidence concludes that "the specific effects on the brain, behaviour and cognition emerge as a function of the timing and the duration of the exposure".
 
-### Here
+The practical reading follows the timing: the response itself is the body working as designed, and the damage begins when the protecting system never stands down.
+
+### In the compendium
 
 - [[BI043 — Understand the stress response — acute adaptive, chronic harmful]] — the principle that states the concept's core directly
 - [[BI004 — Understand the stress response — cortisol, adrenaline, and the HPA axis]]
