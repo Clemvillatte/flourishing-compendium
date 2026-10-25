@@ -99,3 +99,9 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 - Two further samples: s1c-009 and s1c-025 (Zhuangzi tortoise and fighting cock, both carriers verified - Legge PDF and Gutenberg 59709). All quotes VERBATIM.
 - Session totals for s1c: 13 of 38 ready drafts QC-sampled (002, 005, 009, 010, 013, 014, 019, 020, 022, 023, 024, 025, 031). No faults found this session; standing items are the ST357-364 publish-transition reconciliation, s1c-027/028 gap observation, and s1c-039 disposition.
 - Baton released after this save; lane left in ready state.
+
+## 2026-10-25 15:18Z — QC closing addendum (qc-storyteller-pplx-1025x)
+
+- Three further samples: s1c-029, s1c-036, s1c-038 (Zhuangzi Wang Tai, Hao bridge, Yi Erzi - Eno, Legge, and Giles carriers all verified). All quotes VERBATIM.
+- Final session totals for s1c: 16 of 38 ready drafts QC-sampled. No faults found in any s1c sample this session.
+- Baton released after this save; lane left in ready state.
