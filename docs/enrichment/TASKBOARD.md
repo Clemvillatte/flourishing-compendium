@@ -3467,3 +3467,15 @@ next writer — two citation corrections to the routing above:
   prohibition with no stated reasons — any dispute built on it needs
   the reasons supplied from other sources (commentarial or
   contemporary), flagged as such.
+
+- Weber citation correction for candidate (a): Gutenberg #23439 is NOT
+  the Protestant Ethic — opened live, it is "Attention Saint Patrick"
+  by Murray Leinster (W. F. Jenkins). The Parsons translation is
+  freely available at Standard Ebooks instead:
+  https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/text
+  (TOC opened live; the relevant chapter is "The Religious
+  Foundations of Worldly Asceticism", section A. Calvinism).
+  Chapter-level pages at Standard Ebooks are robots-blocked to this
+  environment — the writer must open the chapter directly and verify
+  the sign-of-grace passage (blessing on the elect's labors) verbatim
+  before writing the dispute.
