@@ -64,37 +64,19 @@ Eysenck and colleagues' 2007 account of what anxiety does to thinking is [attent
 
 The research asks whether what attention selects contributes to emotional vulnerability or merely accompanies it, carried on [attentional bias research](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20research). An approach to modifying the cognitive biases that confer vulnerability to anxiety is [cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory).
 
-### Stress: demand, body and buffer
+### What the body does under demand
 
-[Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal): the central idea of Lazarus and Folkman's transactional theory: stress depends on how a person-environment relationship is appraised.
+The central idea of Lazarus and Folkman's transactional theory is [stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal): stress depends on how a person-environment relationship is appraised. Their [transactional theory of stress and coping](https://clemvillatte.github.io/flourishing-compendium/#card=Lazarus%20and%20Folkman%27s%20Transactional%20Theory%20of%20Stress%20and%20Coping) holds that stress is a person-environment transaction; harm depends on appraisal, and coping can change it.
 
-[Lazarus and Folkman's Transactional Theory of Stress and Coping](https://clemvillatte.github.io/flourishing-compendium/#card=Lazarus%20and%20Folkman%27s%20Transactional%20Theory%20of%20Stress%20and%20Coping): stress is a person-environment transaction; harm depends on appraisal, and coping can change it.
+The body's coordinated reaction to perceived threat is the [stress response](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20response%20%28Lupien%2C%20McEwen%29); in McEwen's review the system protects in the short run and wears the body down when it stays active. The hormonal cascade from hypothalamus to pituitary to adrenal cortex, tuned for adaptation, is [HPA axis theory](https://clemvillatte.github.io/flourishing-compendium/#card=HPA%20axis%20theory%20stress). The part of the peripheral nervous system that regulates involuntary processes such as heart rate is the [autonomic nervous system](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29).
 
-[Stress response (Lupien, McEwen)](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20response%20%28Lupien%2C%20McEwen%29): the body's coordinated reaction to perceived threat; in McEwen's review the system protects in the short run and wears the body down when it stays active.
+A person's standing belief that stress either enhances or debilitates performance, health and growth is [stress mindset](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20mindset). The Nagoskis' account of completing the stress cycle as a shift from stress toward relief is [stress cycle completion](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29). Meichenbaum's method for building coping capacity before stress arrives, on the vaccine metaphor, is [stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training).
 
-[HPA axis theory stress](https://clemvillatte.github.io/flourishing-compendium/#card=HPA%20axis%20theory%20stress): the hormonal stress response as a cascade from hypothalamus to pituitary to adrenal cortex, tuned for adaptation.
+Disorder as a meeting of a latent vulnerability and environmental stress is the [diathesis-stress model](https://clemvillatte.github.io/flourishing-compendium/#card=Diathesis-stress%20model). Barlow's model of the origins of anxiety and mood disorders through three separate but interacting vulnerabilities is the [Triple Vulnerability Model](https://clemvillatte.github.io/flourishing-compendium/#card=Triple%20Vulnerability%20Model). Cohen and Wills's account of how social support protects people from the effects of stress is [the stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model).
 
-[Autonomic nervous system (sympathetic vs parasympathetic)](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29): the part of the peripheral nervous system that regulates involuntary processes such as heart rate.
+Leyro and colleagues distinguish the perceived capacity to withstand aversive states from the behavioural act of withstanding them, on [distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29). The cognitive-therapy assumption that interpretations influence emotional responses is [cognitive mediation of distress](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20mediation%20of%20distress).
 
-[Stress mindset](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20mindset): a person's standing belief that stress either enhances or debilitates performance, health and growth.
-
-[Stress cycle completion (Nagorski, Sapolsky)](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29): the Nagoskis' account of completing the stress cycle as a shift from stress toward relief.
-
-[Stress inoculation training](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives, on the vaccine metaphor.
-
-[Diathesis-stress model](https://clemvillatte.github.io/flourishing-compendium/#card=Diathesis-stress%20model): disorder as a meeting of a latent vulnerability and environmental stress.
-
-[Triple Vulnerability Model](https://clemvillatte.github.io/flourishing-compendium/#card=Triple%20Vulnerability%20Model): Barlow's model of the origins of anxiety and mood disorders through three separate but interacting vulnerabilities.
-
-[The stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model): Cohen and Wills's account of how social support protects people from the effects of stress.
-
-[Distress tolerance (DBT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distress%20tolerance%20%28DBT%29): Leyro and colleagues distinguish the perceived capacity to withstand aversive states from the behavioural act of withstanding them.
-
-[Cognitive mediation of distress](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20mediation%20of%20distress): the cognitive-therapy assumption that interpretations influence emotional responses.
-
-[Mindfulness-based stress reduction](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20stress%20reduction): the eight-week course in secular mindfulness training that Jon Kabat-Zinn founded in 1979.
-
-[Minority stress theory](https://clemvillatte.github.io/flourishing-compendium/#card=Minority%20stress%20theory): Ilan Meyer's 2003 framework: stigma, prejudice and discrimination create a hostile and stressful social environment that explains higher rates of mental disorder.
+The eight-week course in secular mindfulness training that Jon Kabat-Zinn founded in 1979 is [mindfulness-based stress reduction](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20stress%20reduction). Ilan Meyer's 2003 framework, that stigma, prejudice and discrimination create a hostile and stressful social environment that explains higher rates of mental disorder, is [minority stress theory](https://clemvillatte.github.io/flourishing-compendium/#card=Minority%20stress%20theory).
 
 [Stress-related growth](https://clemvillatte.github.io/flourishing-compendium/#card=Stress-related%20growth): Tedeschi and Calhoun, 2004; the card is a short entry that points to post-traumatic growth.
 
