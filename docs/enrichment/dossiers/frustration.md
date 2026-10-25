@@ -103,6 +103,28 @@ Berkowitz proposes that frustration generates aggressive inclinations insofar as
 
 The REBT tradition names its low frustration tolerance belief as the conviction that discomfort cannot be stood, and the Turner review reports that the belief travels with aggressive expression of anger, reduced anger control, poor social adjustment, addictive behaviors, anxiety, depression, procrastination and dysfunctional affect. My reading of the two together: the affect a blockage arouses and the belief the person holds about that affect are two parts of one episode.
 
+## Where the traditions genuinely disagree
+
+### Does frustration always lead to aggression?
+
+The 1939 Yale monograph opened with a two-part claim, which its own authors later quoted: "the occurrence of aggression always presupposes the existence of frustration and, contrariwise, that the existence of frustration always leads to some form of aggression" ([Miller et al. 1941, Psychological Review, via Classics in the History of Psychology](https://psychclassics.yorku.ca/FrustAgg/miller.htm)). Two years later Miller, with the same coauthors, called the second half "unfortunate", because it suggests "that frustration has no consequences other than aggression" and fails to separate the pull toward aggression from aggression itself (same source). Their account of what replaces it: "Instigation to aggression may occupy any one of a number of positions in the hierarchy of instigations aroused by a specific situation which is frustrating" (same source).
+
+The [frustration-aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis) was then reworked from a second direction. Berkowitz's 1989 review keeps the core claim limited to interference with "an expected attainment of a desired goal" and its effect on hostile aggression, and says frustrations generate aggressive inclinations "to the degree that they arouse negative affect" ([Berkowitz 1989, abstract, PubMed](https://pubmed.ncbi.nlm.nih.gov/2667009/)). So there are three positions on one question: always (1939), one pull among several, with the strongest one winning (1941), and as much as the thwarting hurts (1989).
+
+What the question turns on is what kind of thing frustration is: an event in the situation, a hierarchy of pulls, or a feeling. I find the third the most useful for a person living through it, since it is the version that explains why the same blocked plan angers one person and barely registers for another. That is a reading of the abstract, which does not claim to settle it.
+
+### Does acting out frustration discharge it?
+
+Bushman's 2002 paper states the older view in its own words: according to catharsis theory, "acting aggressively or even viewing aggression is an effective way to purge angry and aggressive feelings", and it quotes Breuer and Freud on the "cathartic" effect of an injury being "expressed in an adequate reaction like revenge" ([Bushman 2002, Personality and Social Psychology Bulletin](http://www-personal.umich.edu/~bbushman/PSPB02.pdf)). His experiment angered 600 students by having a supposed partner criticise their essay, then sent some to hit a punching bag while thinking about that partner. Those students ended up angrier and more aggressive than the group who did nothing, and the abstract's conclusion is that "doing nothing at all was more effective than venting anger" (same paper).
+
+The participants were insulted, not blocked, so the study speaks to anger after a provocation and reaches frustration only if the two are treated alike. The wiki's [anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger) entry covers that neighbouring ground. I take the result as a caution against using the punching bag as a cure. It does not tell us what to do instead, and I have not read the follow-up literature.
+
+### Does deprivation level people or reveal them?
+
+Frankl quotes Freud on hunger: exposed to it, "all individual differences will blur, and in their stead will appear the uniform expression of the one unstilled urge". Frankl's reply, from the camps, is that the differences "did not 'blur' but, on the contrary, people became more different; people unmasked themselves, both the swine and the saints" ([Frankl, The Case for a Tragic Optimism, excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)). The Freud lines are as Frankl gives them, and I have not checked them against Freud's own text.
+
+This bears on frustration because [Frankl's existential frustration](https://clemvillatte.github.io/flourishing-compendium/#card=Noogenic%20neurosis) assumes a frustrated need that is not reducible to a drive. The camps claim is testimony from one witness, so it does not settle the matter. I note it as the sharpest disagreement the sources offer about what thwarting does to character, and I lean toward Frankl on it because his evidence is a first-hand account where Freud's passage, as quoted, offers a prediction.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the jump from blockage to response, in either direction: the rush forward into hostility or retaliation, or the collapse into the conviction that the situation cannot be stood. The adaptive direction is the gap between the blockage and the response: the frustration read as information about the path, the belief examined before it is obeyed, and the question asked of the blockage itself, whether it calls for more effort, different effort, or no effort.

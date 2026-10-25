@@ -233,3 +233,47 @@ fetch artifacts (tandfonline paywall pages, the baylorisr PDF,
 PubMed landing pages, and the Gutenberg ebook landing page rather
 than the raw text), on the record in earlier ledger rounds. No quote
 defects found in this sample.
+
+## Disagreement section added, three questions (2026-10-25, worker-pplx-dos30-1025l, baton dos30)
+
+Before this entry the page had no "Where the traditions genuinely
+disagree" section (count zero). Carriers opened and fetched as raw
+text this session, each quote matched by script (whitespace and
+curly-quote normalised, case-insensitive; 12 of 12 matched):
+
+1. Does frustration always lead to aggression? Miller et al. 1941,
+   Psychological Review 48, 337-342, full text at
+   psychclassics.yorku.ca/FrustAgg/miller.htm: the quoted 1939
+   proposition; "unfortunate"; "that frustration has no consequences
+   other than aggression"; the sentence on the hierarchy of
+   instigations. The carrier's rewording sentence misprints
+   "instigations" as "investigations", so it is NOT quoted; the
+   hierarchy sentence is used instead. Berkowitz 1989 abstract
+   (PubMed 2667009, fetched): "an expected attainment of a desired
+   goal"; "to the degree that they arouse negative affect". The
+   three-position summary (always, one pull among several, as much as
+   it hurts) and the preference for the third are the writer's
+   reading, labelled as such. Miller 1941 is a self-correction by the
+   original authors, so this question is a revision within one
+   research programme, not a quarrel between schools; the page says
+   "three positions" and does not call it a tradition dispute.
+2. Does acting out frustration discharge it? Bushman 2002, PSPB 28(6),
+   724-731 (umich.edu PDF, text extracted): the catharsis-theory
+   sentence, the Breuer and Freud "adequate reaction like revenge"
+   quotation as reported by Bushman (secondary for Freud; the page
+   attributes it to Bushman's paper), the 600-student method, and the
+   abstract's "Doing nothing at all was more effective than venting
+   anger". Participants were angered by essay criticism, not blocked;
+   the page says so and limits the claim. Follow-up literature was NOT
+   read; the page says so.
+3. Does deprivation level people or reveal them? Frankl, "The Case
+   for a Tragic Optimism" excerpt (fabian.ca PDF, text extracted):
+   Freud on hunger as Frankl quotes it, and Frankl's camp reply. The
+   Freud text was NOT checked against Freud; the page says so. Hunger
+   is deprivation, a near neighbour of frustration, and the page
+   frames it as the sharpest disagreement about thwarting and
+   character the sources offer.
+
+Checker: exit 0 (28 card links, 17 headers, 16 carriers). Registry
+status is unchanged (published); supervisor to re-splice if the
+Academy view needs the new section.
