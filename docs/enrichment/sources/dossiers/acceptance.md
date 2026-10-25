@@ -252,3 +252,35 @@ in the same pass as suffering. Evidence:
   (https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/) and the Liezi
   Scribd carrier remain unopened; the death-acceptance and li-ming
   glosses paraphrase rather than quote.
+
+## Advisor re-review pass (2026-10-25, same session, after the rewrite)
+
+The advisor QC round on this rewrite required NARROWING the
+disagreement and removing unsupported claims. REVISIONS APPLIED:
+
+- The disagreement section is retitled "Is adversity providentially
+  assigned?" and now states the difference as the presence or
+  absence of a prescriber, not as whether acceptance carries trust.
+  Removed: "no order to thank and none to resent" (no director does
+  not establish no order or no resentment), the "distinct
+  experiences" psychological claim, and "does not ask a person to
+  believe anything about the universe" (an authorless account is
+  itself a claim about the universe). The lean is now stated as
+  editorial rather than sourced.
+- Unsupported universals removed: "the word arrived in the clinics
+  as the antidote to a measured failure" (history claim), "every
+  definition / every entry / across the whole literature /
+  nothing in the acceptance literature promises that" (bounded to
+  "the definitions gathered here" etc.), "The measure is
+  descriptive; it does not rank the three" (DAP-R carrier
+  unopened), "The sequence is the account behind the amor fati
+  entry" (now stated as my own reading), "the tradition preserved
+  it because..." in the ST188 logline (removed).
+- Openings made first-person.
+- The ONE-disagreement-plus-exception status is UNCHANGED: the
+  narrower providence-vs-no-prescriber opposition stands as
+  substantiated by the opened Marcus carrier and the card's Liezi
+  account; the Liezi's own carrier (Scribd) remains unopened and
+  the passage is paraphrased, not quoted. SUPERVISOR EXCEPTION
+  REQUESTED for the 3-5 count, consistent with suffering; the
+  request is not treated as approval.

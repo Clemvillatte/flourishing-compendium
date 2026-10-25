@@ -2,9 +2,9 @@
 
 > What is a person fleeing when she flees her own freedom, and what does she exercise when she takes it back?
 
-Freedom arrives with a cost built in: to be free is to be the one who has to choose, and much of what people do with their freedom is look for ways to give it back. The material gathered here divides on exactly that point. One wing asks why the flight happens, and its answer runs from Fromm's automaton conformity to Sartre's waiter, whose every gesture is a little too exact. The other wing refuses the flight outright: Sartre's radical freedom holds that giving up freedom is itself a choice, and the accounts around it, Rousseau's chains, the Cynic's poverty, Beauvoir's interdependence, are about what exercising the thing actually involves.
+The freedom material gathered here arrives with a cost built in: to be free is to be the one who has to choose, and much of what people do with their freedom is look for ways to give it back. My reading is that the accounts divide on exactly that point. One wing asks why the flight happens, and its answer runs from Fromm's automaton conformity to Sartre's waiter, whose every gesture is a little too exact. The other wing refuses the flight outright: Sartre's radical freedom holds that giving up freedom is itself a choice, and the accounts around it, Rousseau's chains, the Cynic's poverty, Beauvoir's interdependence, are about what exercising the thing actually involves.
 
-The boundary with two neighbours matters here. The agency-side of freedom, the capacity to act from one's own understanding, Berlin's positive freedom and Frankfurt's second-order desires, is held by Agency. The felt side, Kierkegaard's dizziness before possibility, is held by Anxiety. What neither holds is the flight-and-will wing, the analyses of why freedom is given away and the accounts of freedom as an exercise rather than a status, and that is this dossier's territory.
+I hold the boundary with two neighbours deliberately. The agency-side of freedom, the capacity to act from one's own understanding, Berlin's positive freedom and Frankfurt's second-order desires, is held by Agency. The felt side, Kierkegaard's dizziness before possibility, is held by Anxiety. What neither holds is the flight-and-will wing, the analyses of why freedom is given away and the accounts of freedom as an exercise rather than a status, and that is this dossier's territory.
 
 ### Nearby terms
 
@@ -30,13 +30,15 @@ Sartre's café waiter is the same flight in a single body. [ST269 — The Waiter
 
 The measurable face of the flight-and-will line is [psychological reactance](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20reactance), Brehm's motivational state when a freedom is threatened: the boomerang effect, the anti-drinking message that produces a drink, and the sideways restorations, talking up the liking of what was threatened, derogating the source, denying the threat. Where Fromm and Sartre describe giving freedom away, reactance describes defending it, sometimes past the point of sense.
 
+Fromm and Sartre read the same conformity with different emphases, and the difference is in the emphasis, not a contradiction. Fromm describes conformity as relief, a solution the majority find for anxiety and powerlessness. Sartre denies that circumstances determine a single response, so on his reading the conformity is still a chosen significance. I read the two as layers of one account rather than rivals: the Frommian description of the machinery is the more useful description, and the Sartrean refusal of the excuse is the more useful demand.
+
 ## The exercise: freedom as what a person does
 
 [Radical freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Radical%20freedom) is Sartre's refusal of the flight at the level of theory: a person's situation never determines their response to it. The Stanford Encyclopedia's summary of the account is categorical:
 
 > "No factual state, whatever it may be, can cause consciousness to respond to it in any one way. Rather, we make a choice (usually pre-reflective) about the significance of that factual state for us, and the ends and motives that we adopt in relation to it." ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/))
 
-The formula the tradition carries is being condemned to be free, no excuses behind us nor justifications before us. The affective signature is [anguish (angoisse)](https://clemvillatte.github.io/flourishing-compendium/#card=Anguish%20%28angoisse%29): the vertigo at the cliff edge, fear not of falling but of throwing oneself over, the disclosure that no past resolution and no external constraint stands between the person and the act.
+The formula the tradition carries is being condemned to be free, no excuses behind us nor justifications before us. The point is not freedom as power, not the freedom to do or achieve anything: the for-itself is always in a factical situation, and what is chosen, usually pre-reflectively, is the significance that situation has. The affective signature is [anguish (angoisse)](https://clemvillatte.github.io/flourishing-compendium/#card=Anguish%20%28angoisse%29): the vertigo at the cliff edge, fear not of falling but of throwing oneself over, the disclosure that no past resolution and no external constraint stands between the person and the act.
 
 The account is kept honest by [situated freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Situated%20freedom), the correction the material carries inside itself: freedom exercised within limits not chosen by the chooser, with the constraint-provision insight that the bodies, habits and situations we chafe against are the very things that give weight and traction to a free act. Nothing is done all by itself, and neither is anything done all alone. On this dossier's reading the two are held together on purpose: the situated critique is the card's own correction of the radical account, and the correction is part of the account, not a rival to it.
 
@@ -56,18 +58,6 @@ Beauvoir widens the exercise past the single person. [The interdependence of fre
 
 > "To will oneself free is also to will others free. This will is not an abstract formula." ([Beauvoir, The Ethics of Ambiguity, Part II, ch. 1](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm))
 
-## Where the accounts genuinely disagree
-
-### Is the escape from freedom something that happens to a person, or something a person does?
-
-Fromm and Sartre describe the same modern person and disagree about the causal status of the flight.
-
-Fromm's language is the language of a process that overcomes the individual. The person who gives up the individual self "need not feel alone and anxious any more", and the frame is that the individual self "is unable to realize his freedom; it is overwhelmed by anxiety, doubt, and a feeling of powerlessness" ([Fromm, Escape from Freedom, panarchy excerpt](https://www.panarchy.org/fromm/escapefreedom.html)). The escape is something the person undergoes, a solution found by the majority of normal individuals, and the self is lost as a price paid.
-
-Sartre's line denies that anything can be undergone in that sense. "No factual state, whatever it may be, can cause consciousness to respond to it in any one way" ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)): the same anxiety Fromm counts as an overwhelming cause is, on the Sartrean account, a state whose significance is still chosen, and the waiter's too-exact performance is a choice, bad faith, for which there is no excuse behind and no justification before.
-
-The practical difference is in what the person looking at their own conformity is entitled to say. Fromm's person can say it happened to them; Sartre's cannot. My lean is toward keeping both in view: the Frommian description of the machinery is the more useful description, and the Sartrean refusal of the excuse is the more useful demand. The two disagree, and the disagreement is not resolvable by the evidence gathered here.
-
 ## Practice: the constraint, and what remains inside it
 
 ::Variation:: What tends to need varying on this theme is the lived-as-determined default, the reading of one's own situation as fixed fact end to end. The practices meet it by shrinking the frame to what is genuinely not up to you and enumerating what remains.
@@ -80,4 +70,4 @@ The practical difference is in what the person looking at their own conformity i
 
 ## Story: the story that carries the theme
 
-[ST269 — The Waiter's Dance](https://clemvillatte.github.io/flourishing-compendium/#card=ST269%20%E2%80%94%20The%20Waiter%27s%20Dance): Paris, 1943, Being and Nothingness's most famous example. The waiter's movements are too exact, too quick, too waiter-like; he is playing at being a waiter, and the excess is the giveaway, the flight from the responsibility of having chosen the role, catchable mid-gesture.
+[ST269 — The Waiter's Dance](https://clemvillatte.github.io/flourishing-compendium/#card=ST269%20%E2%80%94%20The%20Waiter%27s%20Dance): Paris, 1943, Being and Nothingness's most famous example. The waiter's movements are too exact, too quick, too waiter-like; he is playing at being a waiter, and the excess is the giveaway, a body trying to become the role in the way a table is a table.

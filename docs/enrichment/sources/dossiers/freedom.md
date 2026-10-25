@@ -227,3 +227,31 @@ rejected on review in the suffering session and that standard is applied here.
   stands as the honest form).
 - Registry: freedom is NOT in the registry (mint flag stands); supervisor
   adds the entry and flips. Flagged in the commit message.
+
+## Advisor re-review pass (2026-10-25, same session, after the rewrite)
+
+The advisor QC round on this rewrite found the Fromm-vs-Sartre
+disagreement section MANUFACTURED: Fromm's "overwhelmed" language
+describes pressure and experience, not causal determination, and the
+same excerpt describes a person who "gives up his individual self"
+(chosen); it does not contradict Sartre's denial that circumstances
+determine one inevitable response. REVISION APPLIED this pass:
+
+- The disagreement section is REMOVED. The Fromm-Sartre comparison
+  is folded into the main body as different explanatory emphases
+  (Fromm: relief; Sartre: no determined response), stated as layers
+  of one account rather than rivals.
+- Sartre's qualification restored per the opened SEP passage: the
+  point is not freedom as power, not the freedom to do or achieve
+  anything; the for-itself is always in a factical situation.
+- Openings made first-person; the two short bridge sentences merged
+  or absorbed; the story logline made descriptive (the coaching
+  repeat removed).
+- CORRECTED COUNT: zero established disagreements on this dossier,
+  not one. The earlier ledger entry and band note claiming ONE are
+  superseded by this entry. SUPERVISOR EXCEPTION REQUESTED for the
+  3-5 count: no substantiated opposition could be found in the
+  opened material; the situated-freedom candidate was rejected as
+  the card's own correction, and the Fromm-vs-Sartre candidate was
+  rejected on this review. Publishing readiness remains blocked
+  pending supervisor decision, consistent with suffering.
