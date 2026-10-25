@@ -17,6 +17,10 @@ In Burnout, Emily Nagoski and Amelia Nagoski describe completing the stress cycl
 
 The authors describe noticing changes in mood, mental state or physical tension as signs of this shift ([“How do you know”](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)). They also describe partial relief without the full relaxation they associate with completion ([same section](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)).
 
+### Two jobs, not one
+
+The distinction the authors draw between dealing with the response and changing the situation is the concept's load-bearing wall. A cycle can be completed while its cause stands untouched, because the response is a body-level process with its own beginning, middle and end, and the end is signed by a bodily shift toward peace rather than by the resolution of what started it. The strategies they list, movement, breathing, affection and creative expression, are all ways of letting the response finish on the body's terms; the compendium's practice entries translate the same list into trainable skills.
+
 ## Related concepts
 
 - [[The relaxation response]] — the body's downshift the completion seeks
