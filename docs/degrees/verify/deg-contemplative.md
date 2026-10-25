@@ -1059,8 +1059,26 @@ attach them with evidence on file.
 - Language: English.
 - Content coverage: the host's description states the lecture explains the
   philosophy of Zhuangzi; this is part 2 of the Daoist Philosophy II lecture.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=hKpxwiCrVPw&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to be substantially garbled with
+  speech-recognition errors in names and wording) confirms the lecture part's
+  substance on the recording: the useless tree ("A useless tree is the best
+  kind of tree"; "There is a lot of advantages of being useless"); the
+  disabled-person story and attitude toward circumstance ("It depends on your
+  attitude how you think about what is happening to you"); Zhuangzi on his
+  wife's death as transformation ("I'm returning to nature"; "Death is the new
+  stage of life"); acceptance without passivity ("You still can act"; "Your
+  mind is peaceful"); the ideal person going along with transformation;
+  practice and reducing attachment; the cryonics discussion; and the ethics
+  discussion (the dried-river fish story; "Values depend on situation";
+  readings of Zhuangzi as relativist, soft relativist or absolutist about
+  appropriate action). Caveats: third-party transcript page, no timestamps in
+  the retrieved text; playback itself not opened.
 - Relevant segment: whole lecture part, 1:14:36.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M-15-006: The Scientific Buddha, Past, Present, Future, The Problem With Karma (Donald Lopez, Yale)
 
