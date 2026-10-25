@@ -6671,7 +6671,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))",
+          "x": "\"Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains\" of thought. Focalization, concentration, of consciousness are of its essence; it implies withdrawal from some things in order to deal effectively with others ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))",
           "s": null
         },
         {
@@ -6813,7 +6813,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The trainings raise the question of what practice does to the capacity. [Attentional control training and the role of repeated redirection](card:Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection) practises the noticing of distraction and the return of attention to a chosen object. [Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training) applies the strength-training analogy, raising the demand in steps so the system keeps adapting, and the page records a citation gap behind the stronger versions of the claim."
+          "x": "The trainings raise the question of what practice does to the capacity. [Attentional control training and the role of repeated redirection](card:Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection) practises the noticing of distraction and the return of attention to a chosen object. [Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training) applies the strength-training analogy, raising the demand in steps so the system keeps adapting, and the card notes a citation gap behind the stronger versions of the claim."
         },
         {
           "t": "p",
@@ -6853,7 +6853,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The environment around a person's attention is also engineered. [The attention economy](card:The%20attention%20economy) is Herbert Simon's scarcity, commercialised, and the page carries the contested finding that mere smartphone presence reduces cognitive capacity. [Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture) tests whether smartphone notifications and infinite feeds pull attention away from what a person is doing; in the notification study, the distraction effects were comparable to actively using the device. [Heavy media multitasking](card:Heavy%20media%20multitasking) is Ophir, Nass and Wagner's media-use pattern, chronic multitasking across incoming streams, studied as a challenge for human cognition."
+          "x": "The environment around a person's attention is also engineered. [The attention economy](card:The%20attention%20economy) is the commercial exploitation of the scarcity of human attention. The finding that mere smartphone presence reduces cognitive capacity is contested. [Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture) tests whether smartphone notifications and infinite feeds pull attention away from what a person is doing; in the notification study, the distraction effects were comparable to actively using the device. [Heavy media multitasking](card:Heavy%20media%20multitasking) is Ophir, Nass and Wagner's media-use pattern, chronic multitasking across incoming streams, studied as a challenge for human cognition."
         },
         {
           "t": "h2",
@@ -6865,7 +6865,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))",
+          "x": "\"Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated\" by the object; it means holding in our minds, within reach of this thought but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of. ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))",
           "s": null
         },
         {
@@ -6926,7 +6926,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))",
+          "x": "The paper closes plainly: a human mind is a wandering mind, \"and a wandering mind is an unhappy mind\". \"The ability to think about what is not happening\" is \"a cognitive achievement that comes at an emotional cost\". ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))",
           "s": null
         },
         {
@@ -6946,6 +6946,22 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits, which tasks, moods and people get the insulation rather than the cost, and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it."
+        },
+        {
+          "t": "h2",
+          "x": "Does attention switch or scale?"
+        },
+        {
+          "t": "p",
+          "x": "The question is how a predictive cue changes attentional readiness: in Johnson and Yantis's characterization of Jonides's two-process model, observers have \"a focused-attention mode and a diffuse-attention mode.\" ([Johnson and Yantis 1995](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7490586&format=json&resultType=core)) They enter the focused mode on a proportion of trials matching the cue's validity, and the diffuse mode on the remaining trials. ([Johnson and Yantis 1995](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7490586&format=json&resultType=core)) The model consequently connects cue validity with the frequency of those states across trials, yielding a response-time mixture prediction that Johnson and Yantis set out to test. ([Johnson and Yantis 1995](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7490586&format=json&resultType=core))"
+        },
+        {
+          "t": "p",
+          "x": "Eriksen and Yeh's experiments required participants to identify which of two target letters appeared in eight-letter circular displays, sometimes preceded by cues indicating primary and secondary locations. ([Eriksen and Yeh 1985](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2932532&format=json&resultType=core)) They proposed modifying Jonides's model: resources could be distributed across the visual field with low resolving power, or could be \"continuously constricting to small portions of the visual field with a concomitant increase in processing power.\" ([Eriksen and Yeh 1985](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2932532&format=json&resultType=core)) Their abstract presents this zoom-lens conception as an alternative to two processing modes, placing continuous adjustment of allocation at the center of the explanation. ([Eriksen and Yeh 1985](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2932532&format=json&resultType=core))"
+        },
+        {
+          "t": "p",
+          "x": "Johnson and Yantis later reported rejecting the response-time mixture prediction of the two-process model. ([Johnson and Yantis 1995](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7490586&format=json&resultType=core)) They also evaluated a one-process model in which perceptual objects were sampled in parallel according to cue validity; its stochastic simulation produced results paralleling the experiment. ([Johnson and Yantis 1995](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7490586&format=json&resultType=core)) That result challenges the tested two-state prediction, while the abstract leaves the relationship between parallel sampling and continuous zoom-lens adjustment unspecified. ([Johnson and Yantis 1995](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7490586&format=json&resultType=core)) A successful parallel-sampling account therefore does not by itself establish the zoom lens's proposed relationship between attentional extent and processing power."
         },
         {
           "t": "h",
@@ -7101,7 +7117,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST018 — The Swimmer at Lüliang Falls](card:ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way: down with the whirlpools, up with the waves."
+          "x": "[ST018 — The Swimmer at Lüliang Falls](card:ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer, asked how, says he follows the water's way: down with the whirlpools, up with the waves."
         },
         {
           "t": "p",

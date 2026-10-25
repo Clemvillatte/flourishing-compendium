@@ -21,7 +21,7 @@ The last question is also a moral one. Attention is what one person gives anothe
 
 William James gave the field its definition and its stakes in the same chapter. [Attention](https://clemvillatte.github.io/flourishing-compendium/#card=Attention) is the selection and sustaining of awareness, and he stated it in words that still hold the experiential weight:
 
-> "Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))
+> "Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains" of thought. Focalization, concentration, of consciousness are of its essence; it implies withdrawal from some things in order to deal effectively with others ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))
 
 The withdrawal is the cost side of his definition, and the experiential side is just as direct:
 
@@ -115,7 +115,7 @@ The environment around a person's attention is also engineered. [The attention e
 
 Simone Weil gave the moral face its strongest statement. [The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention) is her account of the trained capacity to suspend one's own thought so that the thing or person in front of one can appear:
 
-> "Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))
+> "Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated" by the object; it means holding in our minds, within reach of this thought but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of. ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))
 
 [The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention) is her essay on school studies, where prayer consists of attention and attention to a sufferer is what she calls almost a miracle. The ancient Stoics kept a watch of their own. [Spiritual vigilance](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20vigilance) is Pierre Hadot's name for the watchful attention the Stoic kept over his own mind, hour by hour, the Greek term prosoche. I read Weil as saying that the way a person attends to others is part of how they treat them, and the trainings above as one way that capacity is built.
 
@@ -143,7 +143,7 @@ The shared question is under which conditions the costs outweigh the functions. 
 
 > "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love." ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))
 
-> "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))
+> The paper closes plainly: a human mind is a wandering mind, "and a wandering mind is an unhappy mind". "The ability to think about what is not happening" is "a cognitive achievement that comes at an emotional cost". ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))
 
 Mooneyham and Schooler's review accepts the cost findings and proposes functions under particular conditions rather than disputing the measurements:
 
