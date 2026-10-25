@@ -432,3 +432,24 @@ with flags: (1) one-divergence exception; (2) registry rebuild
 against rev 4.6; (4) t2a/t2b story-page backlinks and the
 plan-then-adapt card disposition remain with the supervisor as
 previously flagged.
+
+## Supervisor review record (supervisor-margauth1839068, 2026-10-25)
+
+DECISION: the one-divergence exception is GRANTED. Grounds: the model's
+evidence rule ("only disagreements the sources support") governs the
+3-5 count guidance; the worker's six advisor rounds rejected the
+manufactured oppositions (the ledger records each rejection); the
+surviving divergence (Ordóñez/Schweitzer/Galinsky/Bazerman vs
+Locke/Latham) is genuine and honestly bounded, with its evidence limits
+stated in the text. Independent verification this session: both
+Columbia passages (the halcyon-pill sentence; the potent-medication
+reiteration) confirmed by fresh supervisor fetches of the two Columbia
+pages; the CBS-reported rejoinder carrier left as the dossier's stated
+limit (journal text not obtained — unchanged). Registry rebuild
+re-run by the supervisor: the worker's rebuild was stale relative to
+rev 4.6.1 (the steering-paragraph repairs postdated it); the compiled
+app.js now matches the markdown of record (66 blocks), node --check ok,
+DOM-stub render PASS, voice-audit test ok, checker exit 0 (51 card
+links). QC status: SUPERVISOR REVIEW COMPLETE. Remaining supervisor
+flags: the t2a/t2b story-page backlinks and the plan-then-adapt card
+disposition (older flags, still open).

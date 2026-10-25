@@ -10258,7 +10258,11 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "A goal is a promise a person makes to a future self, and the promise can serve the life or quietly run it. The research on goal pursuit is unusually practical: what makes goals motivating, what makes them attainable, and what makes their attainment hollow. The classical traditions add the question the science tends to leave alone, whether the aim is worth wanting in the first place, and how to loosen the grip when the aim stops serving the life."
+          "x": "I keep two questions in view whenever I take on an aim: is this worth wanting, and does the way I hold it help or hinder the life around it. The research on goal pursuit is unusually practical. It says what makes aims motivating, what makes them attainable, and what makes their attainment hollow."
+        },
+        {
+          "t": "p",
+          "x": "The classical traditions add what the science tends to leave alone: whether the aim deserves the wanting, and how to loosen the grip when the aim stops serving the life. Stoic teaching puts the pursuit itself inside a person's control and the outcome outside it, which changes what commitment is for. I want an account of goals that survives contact with failure, because failure is where the holding of an aim is actually tested."
         },
         {
           "t": "h2",
@@ -10266,183 +10270,149 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Motivation: why a person acts is held in the Motivation dossier; this page holds what they aim at and how they steer toward it. - Purpose: held under its own group below, as the aim that outlasts any single goal. - Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making."
+          "x": "[Intrinsic motivation](card:Intrinsic%20motivation): motivation concerns why a person acts at all, and intrinsic motivation in particular is defined as doing an activity for its inherent satisfactions rather than for some separable consequence ([Ryan and Deci 2000](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf)); goals specify what they aim at and how they steer toward it."
+        },
+        {
+          "t": "p",
+          "x": "[Purpose](card:Purpose): an aim or reason for carrying on, in Frankl's account the why given for a life so a person can bear its how ([Frankl, Man's Search for Meaning](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt)). I use purpose for the carrying-on itself and goals for the specific pursuits inside it; Frankl's own passage calls the sustaining aim a \"future goal\", so that boundary is my convention, not his."
+        },
+        {
+          "t": "p",
+          "x": "[Commitment](card:Commitment): the intent to persist; in this literature commitment is a condition for difficult goals to work rather than a feeling in its own right ([Locke & Latham 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "[Self-regulation](card:Self-regulation): the machinery underneath, guiding behaviour toward goals using feedback about current progress ([Carver and Scheier, On the Self-Regulation of Behavior](https://www.cambridge.org/core/books/on-the-selfregulation-of-behavior/14606DD9FB32DA230927C08B331BEF84/listing)); goals are the reference points that machinery steers toward."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on goals"
+          "x": "What aims do to a life"
         },
         {
           "t": "h2",
-          "x": "Setting goals"
+          "x": "The engineering of aims"
         },
         {
           "t": "p",
-          "x": "[Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy goals."
+          "x": "Most of what makes an aim work has been mapped. The core finding belongs to [Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy ones. What the finding leaves open is the aim itself, since the theory takes the goal as given. [Achievement goal theory (Dweck, Elliot)](card:Achievement%20goal%20theory%20%28Dweck%2C%20Elliot%29) moved the question one step back, asking which goal a person adopts in an achievement situation, since the adopted aim changes what success even means."
         },
         {
           "t": "p",
-          "x": "[Achievement goal theory (Dweck, Elliot)](card:Achievement%20goal%20theory%20%28Dweck%2C%20Elliot%29): the framework that asks which goal a person adopts in an achievement situation."
+          "x": "The other thing the core finding leaves open is where the striving comes from. [Achievement motivation theory](card:Achievement%20motivation%20theory), the McClelland and Atkinson account, explains achievement behaviour as arising in situations with a standard of excellence, which locates the motive in meeting a standard rather than in the aim's content. Read together, these theories treat the aim as an instrument: chosen well, it organises effort rather than naming a wish."
         },
         {
           "t": "p",
-          "x": "[Achievement motivation theory](card:Achievement%20motivation%20theory): the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence."
-        },
-        {
-          "t": "p",
-          "x": "[Superordinate goals](card:Superordinate%20goals): the remedy for intergroup hostility in the Robbers Cave experiment: goals that outrank the rivalry and cannot be met by one side alone."
-        },
-        {
-          "t": "p",
-          "x": "[Personal projects](card:Personal%20projects): Brian Little's unit of analysis for personality: the extended pursuit."
+          "x": "What happens when the unit is not one aim but a life of aims? [Superordinate goals](card:Superordinate%20goals), the remedy demonstrated in the Robbers Cave experiment, are aims that outrank a rivalry and cannot be met by one side alone. [Personal projects](card:Personal%20projects), Brian Little's unit of analysis for personality, widen the lens to the extended pursuit a person actually cares about. A life holds many aims at once, and the shape of that collection is itself a choice."
         },
         {
           "t": "h2",
-          "x": "Which goals are worth having"
+          "x": "Which aims deserve the wanting"
         },
         {
           "t": "p",
-          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): intrinsic goals predict well-being."
+          "x": "The content of an aim and its fit to the person both matter. On content, [intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals) is the standing distinction: intrinsic goals predict well-being, and [eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals) sorts goals into these two kinds with different consequences. Where the two kinds come apart is in what happens after attainment, and that is where the harder finding sits."
         },
         {
           "t": "p",
-          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): goals sort into two kinds with different well-being consequences."
+          "x": "[Extrinsic aspirations](card:Extrinsic%20aspirations) carries it, stated carefully: one longitudinal study found their attainment brought no benefit and some links to ill-being. The [aspiration index](card:Aspiration%20index) is the instrument behind that research, asking what people actually want, how likely they think success is, and how much they have attained, so the same person can be scored on both kinds at once."
         },
         {
           "t": "p",
-          "x": "[Extrinsic aspirations](card:Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved."
+          "x": "On fit, a goal is [self-concordant](card:Self-concordant%20goals) when it is consistent with the person's developing interests and core values, and such goals are pursued with more sustained [effort over time](card:Self-concordant%20goal%20pursuit%20over%20time); [values-concordant goals](card:Values-concordant%20goals) name the same match from the values side."
         },
         {
           "t": "p",
-          "x": "[Aspiration index](card:Aspiration%20index): assesses people's life goals."
-        },
-        {
-          "t": "p",
-          "x": "[Self-concordant goals](card:Self-concordant%20goals): a goal is self-concordant when it is consistent with the person's developing interests and core values."
-        },
-        {
-          "t": "p",
-          "x": "[Self-concordant goal pursuit over time](card:Self-concordant%20goal%20pursuit%20over%20time): goals that fit a person's developing interests and core values are pursued with more sustained effort."
-        },
-        {
-          "t": "p",
-          "x": "[Values-concordant goals](card:Values-concordant%20goals): goals that match the person pursuing them."
-        },
-        {
-          "t": "p",
-          "x": "[The paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively): wanting something too much can cost the very thing wanted."
+          "x": "Even a fitting aim can be held too tightly. [The paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively) is that wanting something too much can cost the very thing wanted, which makes the holding of the aim a variable in its own right, separate from the aim's content or fit."
         },
         {
           "t": "h2",
-          "x": "Steering toward the goal"
+          "x": "From aim to action"
         },
         {
           "t": "p",
-          "x": "[Self-regulation](card:Self-regulation): guiding behavior toward goals using feedback about current progress."
+          "x": "Steering is a separate skill from choosing, and what steering consists in is a loop. [Self-regulation](card:Self-regulation) guides behaviour toward goals using feedback about current progress, and [control theory of self-regulation](card:Control%20theory%20of%20self-regulation) makes the loop explicit as feedback comparing current state to goals."
         },
         {
           "t": "p",
-          "x": "[Control theory of self-regulation](card:Control%20theory%20of%20self-regulation): behaviour is governed by feedback loops comparing current state to goals."
+          "x": "A second formalisation describes the same loop in engineering terms. [Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory) treats goals as reference values with a comparator measuring the gap, so the aim is the reference point and behaviour is steered against the measured distance from it."
         },
         {
           "t": "p",
-          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory): goals act as reference values and a comparator measures the gap."
+          "x": "What counts as steering at all has its own tests. [Goal-directed behavior theory](card:Goal-directed%20behavior%20theory), developed by Anthony Dickinson and Bernard Balleine, says an action counts as goal-directed only when it meets two: the belief criterion, knowledge of the relationship between the action and its consequences, and the desire criterion, the outcome's current motivational value. A habit that fires regardless of whether the outcome is still wanted fails the second test, which is why the same daily action can be either pursuit or mere motion."
         },
         {
           "t": "p",
-          "x": "[Goal-directed behavior theory](card:Goal-directed%20behavior%20theory): an action counts as goal-directed only when it meets two tests."
+          "x": "The loop needs its decisions made before the moment arrives. [Implementation intentions](card:Implementation%20intentions) are if-then plans that link a critical situation to a goal-directed response, carrying the decision into the moment where it would otherwise be made fresh. Reflection has the same structure: [weekly-review implementation intentions](card:Weekly-review%20implementation%20intentions) puts the review on the calendar, so it does not depend on remembering to review."
         },
         {
           "t": "p",
-          "x": "[Implementation intentions](card:Implementation%20intentions): if-then plans that link a critical situation to a goal-directed response."
+          "x": "The plan also has to be aimed at something real. [WOOP](card:WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29), Gabriele Oettingen's four steps, pairs the wish with the obstacle before the plan, because the obstacle is what the difficult moment will actually be made of. Overconfidence has its own named failure: the [planning fallacy](card:Planning%20fallacy), the confident belief that a project will run as planned."
         },
         {
           "t": "p",
-          "x": "[Weekly-review implementation intentions](card:Weekly-review%20implementation%20intentions): the evidence for scheduled reflection and if-then planning."
-        },
-        {
-          "t": "p",
-          "x": "[WOOP (Wish, Outcome, Obstacle, Plan)](card:WOOP%20%28Wish%2C%20Outcome%2C%20Obstacle%2C%20Plan%29): a four-step goal strategy developed by Gabriele Oettingen."
-        },
-        {
-          "t": "p",
-          "x": "[Plan-then-adapt strategies outperform rigid plans](card:Plan-then-adapt%20strategies%20outperform%20rigid%20plans): plans with built-in adaptation outperform rigid plans under uncertainty."
-        },
-        {
-          "t": "p",
-          "x": "[Planning fallacy](card:Planning%20fallacy): the confident belief that your project will run as planned."
-        },
-        {
-          "t": "p",
-          "x": "[The progress principle](card:The%20progress%20principle): Amabile and Kramer's analysis of knowledge workers' diaries on what contributes to a positive inner work life."
-        },
-        {
-          "t": "p",
-          "x": "[Stimulus control theory](card:Stimulus%20control%20theory): arranging environmental cues so that a target behavior occurs in their presence."
-        },
-        {
-          "t": "p",
-          "x": "[Situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation): the research on matching regulatory strategy to context."
+          "x": "Progress, meanwhile, has its own psychology: [the progress principle](card:The%20progress%20principle), Amabile and Kramer's finding from knowledge workers' diaries, is that visible progress feeds a positive inner work life. The environment is not neutral either: [stimulus control theory](card:Stimulus%20control%20theory) arranges environmental cues so the target behaviour occurs in their presence, and [situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation) is the research on matching strategy to context, since no lever fits every situation."
         },
         {
           "t": "h2",
-          "x": "When goals collide or fail"
+          "x": "When aims collide"
         },
         {
           "t": "p",
-          "x": "[Goal conflict research](card:Goal%20conflict%20research): what happens when a person's own goals work against each other."
-        },
-        {
-          "t": "p",
-          "x": "[Unresolved-goal interference](card:Unresolved-goal%20interference): the attentional load of open goals."
-        },
-        {
-          "t": "p",
-          "x": "[Goal disengagement](card:Goal%20disengagement): withdrawing effort and commitment from a goal that cannot be reached."
-        },
-        {
-          "t": "p",
-          "x": "[Goal adjustment capacity](card:Goal%20adjustment%20capacity): the ability to let go of a goal that has become unattainable and to take up another."
-        },
-        {
-          "t": "p",
-          "x": "[Escalation of commitment](card:Escalation%20of%20commitment): the tendency to keep investing in a course of action that is going badly."
+          "x": "Aims can fail from the outside or from each other. [Goal conflict research](card:Goal%20conflict%20research) examines what happens when a person's own goals work against each other, and the interference goes beyond the practical: [unresolved-goal interference](card:Unresolved-goal%20interference) is the attentional load open goals keep imposing while they stay open. A familiar failure mode is [escalation of commitment](card:Escalation%20of%20commitment), the tendency to keep investing in a course of action that is going badly. Each of these names a way that staying the course can be the problem rather than the solution, which raises the question of when leaving is the better skill."
         },
         {
           "t": "h2",
-          "x": "Commitment and purpose"
+          "x": "Letting go as a skill"
         },
         {
           "t": "p",
-          "x": "[Commitment](card:Commitment): in the relationship-research sense, the intent to persist in a relationship."
+          "x": "The research on exit has its own findings. [Goal disengagement](card:Goal%20disengagement) is withdrawing effort and commitment from a goal that cannot be reached. [Goal adjustment capacity](card:Goal%20adjustment%20capacity) is the broader ability, to let go of an aim that has become unattainable and take up another. The distinction the whole field turns on is attainability, and the two main literatures mark it differently."
         },
         {
           "t": "p",
-          "x": "[Action commitment](card:Action%20commitment): the label for what Acceptance and Commitment Therapy calls committed action."
+          "x": "The persistence side is the backdrop Wrosch and colleagues name: \"The notion that persistence is essential for success and happiness is deeply embedded in popular and scientific writings.\" The goal-setting evidence supports pushing, with conditions:"
+        },
+        {
+          "t": "q",
+          "x": "\"These studies showed that specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ‘‘do one’s best.’’\" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Approach-oriented commitment research](card:Approach-oriented%20commitment%20research): the experimental literature on what commitments are made of."
+          "x": "Locke and Latham add that the difficulty-performance relationship holds so long as a person is committed to the goal, has the requisite ability to attain it, and does not have conflicting goals. The disengagement research concerns the other case:"
+        },
+        {
+          "t": "q",
+          "x": "\"when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal.\" ([Wrosch and colleagues, Psychological Science 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[Commitment-consistency dynamics](card:Commitment-consistency%20dynamics): Cialdini's principle that people tend to behave in line with their previous actions and obligations."
+          "x": "The two findings describe different situations, one within reach of ability, one beyond it. The hard part, for a person living through it, is that the sorting of the two cannot be done from outside."
         },
         {
           "t": "p",
-          "x": "[Purpose](card:Purpose): an aim or reason for carrying on."
+          "x": "The exit has its own motive correlates. In two studies of autonomous and controlled motives, autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized the unattainability relatively early during goal striving, and were negative predictors of the cognitive ease of disengagement ([Ntoumanis, Healy, Sedikides, Smith and Duda, Self and Identity 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)). The abstract's own summary is that \"When faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability.\" These are associations from the studies' measures of cognitive ease, not effects of owning a goal; what they mark is that reengagement and disengagement were measured as two different responses."
+        },
+        {
+          "t": "h2",
+          "x": "What a commitment is, and what it serves"
         },
         {
           "t": "p",
-          "x": "[Purpose-linked practice](card:Purpose-linked%20practice): the self-transcendent purpose line of research."
+          "x": "Underneath holding and letting go sits commitment itself. In relationship research, [commitment](card:Commitment) is the intent to persist; in the therapy world, [action commitment](card:Action%20commitment) labels what Acceptance and Commitment Therapy calls committed action."
         },
         {
           "t": "p",
-          "x": "[Project (projet)](card:Project%20%28projet%29): for Sartre, a throwing of oneself toward an end."
+          "x": "[Approach-oriented commitment research](card:Approach-oriented%20commitment%20research) studies experimentally what commitments are made of, while [commitment-consistency dynamics](card:Commitment-consistency%20dynamics), Cialdini's principle, warns the other way: people tend to behave in line with their previous actions and obligations, so an old commitment can shape present behaviour without being re-examined."
         },
         {
           "t": "p",
-          "x": "[Projection (Entwurf)](card:Projection%20%28Entwurf%29): Heidegger's throwing of Dasein ahead of itself onto its own possibilities."
+          "x": "Above single aims sits purpose. [Purpose](card:Purpose) is an aim or reason for carrying on, and [purpose-linked practice](card:Purpose-linked%20practice) follows the self-transcendent purpose line of research. Where a goal names one pursuit, purpose names what the pursuits are for, which is why a purpose can orient a life that holds many different goals."
+        },
+        {
+          "t": "p",
+          "x": "The existentialist accounts press a further question: what is at stake in having aims at all? Sartre's [project (projet)](card:Project%20%28projet%29) is a throwing of oneself toward an end, and Heidegger's [projection (Entwurf)](card:Projection%20%28Entwurf%29) throws a person ahead of themselves onto their own possibilities. On both accounts, having an aim is never a neutral fact; in pursuing it, the person is at stake."
         },
         {
           "t": "h",
@@ -10450,55 +10420,23 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Push higher, or let go?"
+          "x": "Does the criticism of goal-setting make its case?"
         },
         {
           "t": "p",
-          "x": "The shared question: when a goal is hard, is the right move to keep raising effort or to stop? Locke and Latham's summary of the goal-setting evidence supports pushing:"
-        },
-        {
-          "t": "q",
-          "x": "\"specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ‘‘do one's best.’’\" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf)): Secondary source; quoted passage checked.",
-          "s": null
+          "x": "A published exchange puts the theory's founders against four of its critics. Ordóñez, Schweitzer, Galinsky and Bazerman argue that the very characteristics that make goals work are the ones that make them dangerous: \"For decades, goal setting has been promoted as a halcyon pill for improving employee motivation and performance in organizations\" ([Columbia Business School, abstract](https://business.columbia.edu/faculty/research/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting)), and in their view it is often these same characteristics that cause goals to \"go wild\". In their later reply they restate the recommendation: \"We reiterate our original claim that goal setting, like a potent medication, can produce both beneficial effects and systematic, negative outcomes, and as a result, it should be carefully prescribed and closely monitored\" ([On Good Scholarship, abstract](https://business.columbia.edu/faculty/research/good-scholarship-goal-setting-and-scholars-gone-wild))."
         },
         {
           "t": "p",
-          "x": "They add a condition that matters here: the pattern holds \"so long as a person is committed to the goal, has the requisite ability to attain it, and does not have conflicting goals\". The research on goal disengagement answers from the other side:"
-        },
-        {
-          "t": "q",
-          "x": "\"when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal.\" ([Wrosch and colleagues, Psychological Science 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf)): Secondary source; quoted passage checked.",
-          "s": null
+          "x": "Locke and Latham, the theory's founders, replied in the same issue. [CBS News](https://www.cbsnews.com/news/when-academics-go-wild-a-scholarly-scuffle/) reports that they took the critics to task for \"an over-reliance on anecdotal evidence and generally poor scholarship\", quoting their line that the authors \"would do well to abandon their roles as reporters with an axe to grind and embrace good scholarship\"."
         },
         {
           "t": "p",
-          "x": "The two answers describe different situations. The first applies while a goal is within reach of ability; the second applies when it has become unattainable. The hard part, for a person living through it, is that the sorting of the two cannot be done from outside."
-        },
-        {
-          "t": "h2",
-          "x": "Does owning a goal help, or make it harder to leave?"
-        },
-        {
-          "t": "p",
-          "x": "The shared question: if a goal expresses who you are, does that help you through failure? A study of autonomous and controlled motives found both effects:"
-        },
-        {
-          "t": "q",
-          "x": "\"Autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized goal unattainability relatively early during goal striving.\" ([Self-regulatory responses to unattainable goals, PMC abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)): Secondary source; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"Autonomous motives, however, were negative predictors of cognitive ease of disengagement from an unattainable goal.\" ([same abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)): Secondary source; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The abstract's own summary is that \"when faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability.\" So the compendium's preference for self-concordant goals comes with a cost that a reader should know about: a goal that is truly yours is harder to put down."
+          "x": "What the disagreement turns on is the standing of the critics' case: they hold that goal setting's benefits have been oversold relative to its harms, and the founders' reported rejoinder challenges the case's evidential basis. The report does not establish the rejoinder's full answer to the critics' concerns. My provisional lean: the critics' prescription wording is usable at face value, and the founders' own conditions (commitment, ability, no conflict) are where a reader would start."
         },
         {
           "t": "h",
-          "x": "Practice: variation, selection, retention"
+          "x": "Practice: choosing, steering, letting go"
         },
         {
           "t": "vs",
@@ -10508,37 +10446,49 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels selected as sources of that variation. The implementation-intentions effect is medium-to-large in the meta-analytic record: across 94 independent tests, such plans had \"a positive effect of medium-to-large magnitude (d= .65) on goal attainment\" ([Gollwitzer and Sheeran 2006, University of Konstanz record](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f))."
+        },
+        {
+          "t": "h2",
+          "x": "Make the path concrete"
         },
         {
           "t": "n",
           "i": 1,
-          "x": "[Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): formulate a specific if-then plan. A meta-analysis of 94 independent tests found that such plans had \"a positive effect of medium-to-large magnitude (d= .65) on goal attainment\" ([Gollwitzer and Sheeran 2006, University of Konstanz record](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)): Secondary source; quoted passage checked."
+          "x": "[Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): write one if-then plan for the foreseeable moment where the goal usually fails, naming the goal, the moment and the specific response. Notice, when the moment arrives, whether the pre-committed response fires or the old one does."
         },
         {
           "t": "n",
           "i": 2,
-          "x": "[Mental contrasting (WOOP)](card:K154%20%E2%80%94%20Mental%20contrasting%20%28WOOP%29): identify a wish, the best outcome, the main obstacle and a plan."
+          "x": "[Mental contrasting (WOOP)](card:K154%20%E2%80%94%20Mental%20contrasting%20%28WOOP%29): name a wish, picture the best outcome, name the main obstacle, and plan what to do when it appears. Notice, when the obstacle shows up, whether the one you planned for is the one that actually arrives."
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[Small-wins tracking](card:K182%20%E2%80%94%20Small-wins%20tracking): note one small win each day."
+          "x": "[Deliberate practice](card:K179%20%E2%80%94%20Deliberate%20practice): structure practice with a clear goal, immediate feedback and repetition at the edge of your ability. Notice which part of the skill keeps failing, and repeat there rather than where you already succeed."
+        },
+        {
+          "t": "h2",
+          "x": "Keep the thread visible"
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Social accountability](card:K219%20%E2%80%94%20Social%20accountability): tell one person about the goal or practice, and let them ask you about it."
+          "x": "[Small-wins tracking](card:K182%20%E2%80%94%20Small-wins%20tracking): at day's end, write one line naming one thing that moved forward, however small. Notice, on days when nothing moved, what blocked it, and write the nearest thing that almost moved."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): a monthly sitting asking each activity the four reason questions that tell a chosen goal from an imposed one."
+          "x": "[Social accountability](card:K219%20%E2%80%94%20Social%20accountability): tell one person about the goal, send them the written commitment, and give them a short weekly progress report. Notice whether the weekly report changes what actually gets done, not only what gets said."
+        },
+        {
+          "t": "h2",
+          "x": "Check whose aim it is"
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[Deliberate practice](card:K179%20%E2%80%94%20Deliberate%20practice): structure practice with a clear goal, immediate feedback and repetition at the edge of your ability."
+          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): once a month, list the recurring activities and ask each one the reason questions the researchers use: is it because somebody else wants you to, because you would feel ashamed or guilty if you did not, because you really believe it is important, or for the fun and enjoyment the striving provides. Notice how much of each activity is for enjoyment or value, and how much is guilt or someone else's want."
         },
         {
           "t": "p",
@@ -10551,11 +10501,11 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "Story: the stories that carry the theme"
+          "x": "Story: aims, endings, beginnings"
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "Pursuit and release change shape once endings are in the picture. These stories hold both, without promising that the right choice is the same in every life."
         },
         {
           "t": "h2",
