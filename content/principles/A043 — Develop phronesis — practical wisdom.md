@@ -12,29 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 43** — Develop phronesis: practical wisdom
 
-Book VI of the Nicomachean Ethics defines the capacity through its work:
+[[T002 — Aristotle|Aristotle]] gives practical wisdom a demanding task:
 
-> "Now it is thought to be a mark of a man of practical wisdom to be able to deliberate well about what is good and expedient for himself, not in some particular respect, e.g. about what sorts of thing conduce to health or to strength, but about what sorts of thing conduce to the good life in general." ([[T002 — Aristotle|Aristotle]], [Nicomachean Ethics VI.5, Ross translation](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf))
+> "Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods." ([Nicomachean Ethics VI.5, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
-The definition follows: practical wisdom must be a reasoned and true state of capacity to act with regard to human goods ([NE VI.5](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)). Two features keep it from being theoretical knowledge: it is concerned with things about which it is possible to deliberate, and not with universals only, since practice is concerned with particulars ([NE VI.7](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)). The chicken example makes the point: the man who knows that chicken is wholesome is more likely to produce health than the man who knows only that light meats are digestible ([NE VI.7](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)).
+He asks for attention to particulars. In his food example, someone who knows a general rule about wholesome meat still needs to recognise which food fits it ([VI.7](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). Experience matters because it makes such particulars familiar ([VI.8](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
-Experience is the training condition: while young men become geometricians and mathematicians, a young man of practical wisdom cannot be found, because such wisdom is concerned with particulars, which become familiar from experience, and a young man has none ([NE VI.8](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf)).
+But experience at getting results is insufficient. Aristotle distinguishes practical wisdom from cleverness, which can pursue a bad goal efficiently, and joins it to moral virtue ([VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). I take two questions from that distinction: have I understood this situation, and is what I am trying to accomplish good for the people involved?
 
-(NE VI.5, VI.7-8.)
+Psychological wisdom research offers a separate way to examine judgement. In the Berlin wisdom paradigm, Baltes and Staudinger evaluate responses to life problems using knowledge, life-context sensitivity, differences in values and priorities, and recognition and management of uncertainty ([2000 abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/?dopt=Abstract)). I put that framework beside Aristotle's account as a prompt to ask what I do not know and whose priorities I have overlooked.
 
 **Plain words**
-The theory answer works in maths because the objects are the same for everyone. The practical question is not like that: which things conduce to the good life in general is answered by deliberation about your own case, with the details only experience supplies. That is why Aristotle's test case is so homely: knowing that light meats are wholesome helps nobody who cannot tell which meat is light. The training is deliberate exposure to particulars, plus reflection on them.
+I need to understand the people and circumstances before deciding what to do. I also need to examine the goal: being good at getting my way can leave that question unanswered.
 
 *For example:*
-A senior doctor who tells a patient the truth gently, at the right pace, isn't following a script. She's reading the person.
+Imagine preparing to give someone difficult feedback. Ask what is accurate, what they need to understand, and whether the setting gives them room to respond. This is an illustration, not a clinical finding.
 
 ## Related concepts
 
-- [[T009 — Zhuangzi]]: skillful responsiveness, the cook's hand the Inner Chapters trust
+- [[T009 — Zhuangzi]]: further comparative reading on skilled action.
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics, W. D. Ross translation (Oxford 2009 edition), Internet Archive](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf) — Book VI chapters 5, 7 and 8; the mark-of-practical-wisdom passage quoted verbatim, the rest paraphrased with citations
+- [Aristotle, Nicomachean Ethics, Book VI, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html): chapters 5, 7–8 and 12–13.
+- [Baltes and Staudinger, "Wisdom: A metaheuristic (pragmatic) to orchestrate mind and virtue toward excellence" (2000), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/?dopt=Abstract): the Berlin wisdom paradigm and its response-evaluation criteria.
 
 ## Stories
 
@@ -45,13 +46,13 @@ A senior doctor who tells a patient the truth gently, at the right pace, isn't f
 - [[ST159 — Bertie and Lionel|159. Bertie and Lionel]]
 ## Psychology parallels
 
-- **[[Phronesis|Phronesis as contextual integrative thinking]]**, the capacity to integrate conflicting values, perspectives, and emotions in concrete situations ([Schwartz, 2022)
-- **[[Wisdom|Wisdom research]]**, the Berlin Wisdom Model and the More-Wise framework (Baltes and Staudinger, 2000; Grossmann et al., 2020)
+- [[Phronesis|Phronesis as contextual integrative thinking]]: a topic for comparison with the ancient account.
+- [[Wisdom|Wisdom research]]: the Berlin paradigm described above.
 
 ## Philosophy parallels
 
-- **The prudent person as norm** (Thomas Aquinas, Summa Theologiae II-II.47)
-- **[[Skillful responsiveness|Skillful responsiveness]]** (Zhuangzi, Inner Chapters)- **[[Phronesis|Phronesis]]** (Aristotelianism)
+- [[Phronesis|Phronesis]]: Aristotle's account discussed above.
+- [[Skillful responsiveness|Skillful responsiveness]]: further comparative reading.
 
 
 <!-- fc: reflections
