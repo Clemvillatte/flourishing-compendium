@@ -3763,3 +3763,17 @@ Total sampled: 155 general cards across 5 rounds. **Reclassified: 10** (7 Stoic,
 **The marginal cards reveal the real design question:** the work order says "sorted by therapeutic modality" but the corpus's tradition-based cards (Buddhist, Daoist, Confucian, Aristotelian, Phenomenological, Existential) don't map cleanly to clinical modalities. The Stoic precedent (owner already had Stoic as a modality) suggests tradition-based groups are acceptable — but creating NAV nodes for Buddhist/Daoist/Confucian/Aristotelian/Phenomenological/Existential is a corpus-design decision that needs the owner's ruling. I have NOT created any of these.
 
 Current distribution after all repairs: Stoic 16 (up from 5), CBT 16 (up from 13), ACT 14, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 = 84 modality-tagged; 232 general (down from 246). Zero link breakage maintained throughout; build green.
+
+## PER-CARD REVIEW PASS — round 6 (gm-pplx-kern1-1025a, 2026-10-25 15:31Z) — ARISTOTELIAN CLUSTER FOUND
+
+Round 6 sampled 35 more cards. New findings confirm a substantial Aristotelian cluster: K257 Habituation by design (Aristotle NE II.1 habituation passage quoted), K296 Community contribution (Aristotle NE I.7 social-existence passage), K360 Professional phronesis (Aristotle phronesis), plus K263 already flagged. This is 4 cards with genuine Aristotelian grounding — needs NAV-PSYCH-ARISTOTELIAN if the owner wants tradition-based modality folders for it.
+
+**More marginal findings (all need owner nodes, none reclassified):**
+- K414 Compassion meditation (CCT-style): Compassion Cultivation Training — CFT-adjacent
+- K161 Loving-kindness meditation: metta/Buddhist-tradition
+- K317 Tragic optimism: Frankl/Camus existential
+- K322 Future-self dialogue: "Buddhist" is in a research quote, false positive
+- K101 Open monitoring: "Ainsworth" is researcher name, false positive
+- K351: "eudaimonia" in a link, false positive
+
+**Running totals: 155+35=190 cards sampled; 10 reclassified; ~17 false positives confirmed; ~14 marginal cards flagged for owner.** The pattern: the corpus has a rich tradition-based layer (Aristotelian, Buddhist, Daoist, Confucian, Phenomenological, Existential) that doesn't map to clinical modalities — this is the corpus-design question the owner needs to rule on.
