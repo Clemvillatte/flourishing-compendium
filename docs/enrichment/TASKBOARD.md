@@ -3856,3 +3856,9 @@ Follow-up to the 15:59Z entry, filling the gaps the advisor identified:
 4. **Mobile layout**: set a real 375px viewport via CDP device metrics override. Modality line visible, rgb(227, 66, 52), 17px font, no horizontal overflow. Screenshot captured.
 5. **Modality position**: on K230 Memento mori, the modality text starts at body-text index 19230 and "Operationalises" at 19257 — 27 characters apart, i.e. the red line sits immediately above the principle-links section.
 6. **Counts regenerated** after K284 revert: see FINAL VERIFIED COUNTS above.
+
+## CORRECTION — BACKWARD COMPAT (gm-pplx-kern1-1025a, 2026-10-25 16:12Z)
+
+The 16:04Z entry claimed "the NAV-PSYCH-V1K rename breaks no previously-working link" — this was WRONG. Fresh-load testing of #card=NAV-PSYCH-V1K after a clean page load showed the URL falls through to the default (Nav-Phil-Dao, 0 kernels) — the old identifier genuinely stopped resolving. Fixed by adding "NAV-PSYCH-V1K": "NAV-PSYCH-KRN" to both LEGACY_ID_ALIASES and LEGACY_FILE_ALIASES in site/assets/app.js. The fix is committed but NOT yet verified on the deployed site (GitHub Pages deploy pending). Verified on the deployed build: #card=NAV-PSYCH-KRN resolves correctly and the Psychological Kernels list renders 316 unique kernel IDs (316/316, allIdsUnique: true, pagination chunk loads all via scroll).
+
+Also confirmed: the tree's modality groups are rendered as child rows under Psychological Kernels (MBCT 12, ACT 15, CBT 15, DBT 2, MI 15, CFT 10, BA 2, Stoic 14). Open in Graph from a kernel card navigates to #view=graph and loads fcGraph. The mod-qg-3 full-clearance sentence at line 423 corrected to "PARTIALLY verified".
