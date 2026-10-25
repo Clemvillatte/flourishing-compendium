@@ -31,6 +31,10 @@ The same article records the distinction Heidegger draws:
 
 > "Heidegger classifies it as authentic when someone pays attention to that influence and decides independently whether to go along with it or not." ([Wikipedia, Heideggerian terminology](https://en.wikipedia.org/wiki/Heideggerian_terminology))
 
+### Why the structure matters for practice
+
+Because being-with is a structure rather than a choice, the practice cannot be to become related, only to notice how the relations are already running. The authentic mode the article describes is attention plus decision, which is what the kernels below train: the noticing of how the crowd's reading has become one's own, and the independent ruling on whether to keep it. The inauthentic mode is not villainy but inattention, which is why the practice is a listening exercise rather than a rebellion.
+
 ### Here
 
 - [[E026 — Practise being-with (Mitsein)]] — the principle takes Being-with as the starting point for a practice.
