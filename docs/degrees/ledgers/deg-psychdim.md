@@ -44,6 +44,13 @@ recorded.
 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/ | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Manchiraju 2026, Frontiers in Psychology: comprehensive review of self-concept clarity; definition (clarity, internal consistency and temporal stability of self-beliefs); distinctions from self-esteem, self-complexity and identity commitment; the 12-item Self-Concept Clarity Scale and self-report limits; SCC as outcome, predictor, mediator and moderator; lifespan development |
 | https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Ryan and Deci 2020, Contemporary Educational Psychology: intrinsic and extrinsic motivation from a self-determination theory perspective; autonomy, competence and relatedness; the four extrinsic regulations (external, introjected, identified, integrated) and amotivation |
 | https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf | 2026-10-25, batch 1 | worker-pplx-psychdim-1 | Carden and Wood 2018, Current Opinion in Behavioral Sciences: habit formation and change; context cues and learned associations; habits versus effortful self-control; change strategies (implementation intentions, reminders, rewards); environment disruption and technology in habit research |
+| https://nobaproject.com/modules/conditioning-and-learning | 2026-10-25, batch 3 (about 08:21Z; exact time not recorded) | worker-pplx-psychdim-1 | Bouton, Conditioning and Learning (Noba): classical and instrumental conditioning, prediction error, blocking, extinction, spontaneous recovery, renewal, reinforcement and punishment |
+| https://nobaproject.com/modules/memory-encoding-storage-retrieval | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | McDermott and Roediger, Memory: Encoding, Storage, Retrieval (Noba): working, episodic, semantic and collective memory; encoding, storage, retrieval; false memories; consolidation and interference |
+| https://nobaproject.com/modules/judgment-and-decision-making | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Bazerman, Judgment and Decision Making (Noba): anchoring, biases, bounded rationality, awareness, ethicality, self-interest, willpower, framing, overconfidence, System 1 and System 2 |
+| https://nobaproject.com/modules/personality-traits | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Diener and Lucas, Personality Traits (Noba): trait consistency and stability, lexical hypothesis and factor analysis, the Five-Factor Model and facets, Eysenck and HEXACO, the person-situation debate |
+| https://nobaproject.com/modules/affective-neuroscience | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Harmon-Jones and Harmon-Jones, Affective Neuroscience (Noba): basic emotional systems (wanting, liking, fear, rage, love, grief), neural structures and neurotransmitters, plasticity of affective circuits |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/ | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Posner 2023, Journal of Intelligence: the evolution and future development of attention networks; cross-species comparisons; development of alerting, orienting and executive networks; covert versus overt attention; network interactions with memory; molecular and genetic aspects. Closes the post-2020 attention recency gap |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/ | 2026-10-25, batch 3 | worker-pplx-psychdim-1 | Woolley, Giurge and Fishbach 2025, Psychological Science: adherence to personal resolutions across time, culture and goal domains; intrinsic versus extrinsic motivation in goal pursuit; year-long resolution study; cross-cultural replication; objective step-count measurement; causal test of intrinsic versus extrinsic emphasis. Grounds the goal-pursuit family for the motivational and overt behavioural dimensions |
 
 ## Verification outcomes
 
@@ -145,3 +152,38 @@ at module production, against the skill's four-level taxonomy.
 |---|---|---|---|
 | scope | benchmark delivered against opened curricula (see scope doc Benchmark section); wording fix from "five" to "six" dimensions; strategist review still required | worker-pplx-psychdim-1 (degree owner) | 2026-10-25 |
 | coverage | matrix v2 delivered after advisor round 1 (breadth repair, Maitland relabelling, timestamp correction, progression spine, exclusions marked pending); advisor re-review pending | worker-pplx-psychdim-1 | 2026-10-25 |
+
+## Matrix v2.1 addendum (2026-10-25, batch 3 openings)
+
+Seven further sources opened (five Noba modules, Posner 2023, Woolley et al
+2025; see the sources table). Rows they change:
+
+- Affective neuroscience moves from elective-with-gap to grounded elective
+  for M2 ([Harmon-Jones and Harmon-Jones, Noba](https://nobaproject.com/modules/affective-neuroscience)).
+- Core cognitive families for M3 are now grounded by opened modules rather
+  than only survey-text chapter titles:
+  [Bouton, Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning),
+  [McDermott and Roediger, Memory](https://nobaproject.com/modules/memory-encoding-storage-retrieval)
+  and
+  [Bazerman, Judgment and Decision Making](https://nobaproject.com/modules/judgment-and-decision-making).
+- The self dimension's personality family for M5 is grounded by
+  [Diener and Lucas, Personality Traits](https://nobaproject.com/modules/personality-traits);
+  identity development beyond that still needs a dimension-specific source.
+- The motivational goal-pursuit family for M6 is grounded by
+  [Woolley, Giurge and Fishbach 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/),
+  which also links motivation to measured behaviour for M7.
+- The overt behavioural conditioning family for M7 is grounded by
+  [Bouton, Conditioning and Learning](https://nobaproject.com/modules/conditioning-and-learning).
+- The attentional dimension's post-2020 recency gap is closed by
+  [Posner 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10301152/).
+
+Gap register after this addendum: identity development and
+self-regulation beyond resolution adherence still need dimension-specific
+sources; theories of emotion generation and construction remain ungrounded;
+no verified video lectures yet; SDT (2020) and habits (2018) anchors to be
+refreshed during module production; EEMM socio-cultural and biophysiological
+levels remain a strategist or owner decision.
+
+| gate | decision | by | date |
+|---|---|---|---|
+| coverage | matrix v2.1 addendum: seven further openings close the attention recency gap and ground the cognitive, personality, goal-pursuit, conditioning and affective-neuroscience families; advisor re-review pending | worker-pplx-psychdim-1 | 2026-10-25 |
