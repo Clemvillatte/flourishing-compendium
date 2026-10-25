@@ -85,7 +85,7 @@ by prudence), Emerson's self-trust, generalized trust, Rilke's das
 Offene, Camus's absurd, Beauvoir's ambiguity pair, probabilistic
 thinking, risk literacy, and Gigerenzer's fast-and-frugal heuristics.
 No mismatches found; no edits made. This strengthens the earlier
-voice-audit review (all 6 candidates kept): the flagged constructions
+voice-audit review (all 3 candidates kept, per the ledger's own review record; the current audit flags 2 because the supervisor later recast the opening): the flagged constructions
 are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
