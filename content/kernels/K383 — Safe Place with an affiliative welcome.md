@@ -55,6 +55,8 @@ What the source does not test: the book teaches the practice to therapists for c
 
 - [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
 
+> **Therapeutic approach: CFT**
+
 ## Operationalises
 
 - [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]], [[B027 — Develop right mindfulness (samma sati)|B027 Develop right mindfulness (samma sati)]], [[SE048 — Learn secure-base behaviour — be a safe place for yourself and others|SE048 Learn secure-base behaviour: be a safe place for yourself and others]]

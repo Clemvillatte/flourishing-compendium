@@ -49,6 +49,8 @@ What the source does not test: the vignette is a therapist-led exercise; the sel
 
 - [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
 
+> **Therapeutic approach: CFT**
+
 ## Operationalises
 
 - [[P011 — Refuse essences — things have no fixed inner nature|P011 Refuse essences: things have no fixed inner nature]], [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]], [[B056 — Note lightly (noting)|B056 Note lightly (noting)]], [[P062 — Expect multiple selves — and coordinate them|P062 Expect multiple selves: and coordinate them]]

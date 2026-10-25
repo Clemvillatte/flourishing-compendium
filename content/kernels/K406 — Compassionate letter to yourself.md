@@ -37,6 +37,8 @@ The book's rationale for the format:
 
 Kolts grounds the exercise in clinical rationale and the Gilbert (2009, 2010) works he names; he cites no trial of the letter exercise itself.
 
+> **Therapeutic approach: CFT**
+
 ## Operationalises
 
 - [[PP046 — Cultivate self-compassion|PP046 Cultivate self-compassion]]

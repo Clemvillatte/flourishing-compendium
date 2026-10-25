@@ -45,6 +45,8 @@ What the sources do not test: this is a homework assignment inside MBCT, a progr
 
 The practice is a daily-life assignment; no recording is needed.
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[P038 — Make habit your flywheel|P038 Make habit your flywheel]], [[P067 — My world is what I attend to|P067 My world is what I attend to]], [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]], [[B169 — Eat mindfully|B169 Eat mindfully]]

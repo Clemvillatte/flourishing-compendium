@@ -48,6 +48,8 @@ What the sources do not test: the meditation is a component of an eight-week pro
 
 The book's own guided track is Meditation 6 on the CD; Penguin Random House carries the audio ([Mindfulness meditation downloads](https://www.penguinrandomhouse.com/mindfulness-meditation-downloads/)), and a trauma-sensitive update of the same practice is carried by [Insight Timer](https://insighttimer.com/tommycarr/guided-meditations/finding-peace-meditation-6-exploring-difficulty).
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[B001 — Face suffering directly|B001 Face suffering directly]], [[B066 — Watch states arise and pass|B066 Watch states arise and pass]], [[D069 — Don't meet force with force|D069 Don't meet force with force]], [[P165 — Become fully functioning — open to experience|P165 Become fully functioning: open to experience]], [[B050 — Rest in ordinary mind — it is the Way|B050 Rest in ordinary mind: it is the Way]]

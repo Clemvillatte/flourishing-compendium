@@ -47,6 +47,8 @@ What the sources do not test: the exercise is an attention-freshening device ins
 
 The practice is a small act; no recording is needed.
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[D091 — Befriend change (hua)|D091 Befriend change (hua)]], [[P101 — Repeat with difference — never pure repetition|P101 Repeat with difference: never pure repetition]], [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]], [[P038 — Make habit your flywheel|P038 Make habit your flywheel]]

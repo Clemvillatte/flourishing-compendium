@@ -5,7 +5,7 @@ type: "kernel"
 title: "Rest as practice"
 file: "K200 — Rest as practice"
 tags: ["applied-practice", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-BODY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.08 — 8. Body and Biophysiology", "parent": ""}
 ---
 > **Kernel K200** — Rest as practice
@@ -36,6 +36,8 @@ The guilt this kernel names has a philosophical witness, in the essay that argue
 ### A guided version
 
 The practice needs no recording; the block is the practice. A guided body-rest version exists next door in [[K409 — Non-sleep deep rest (NSDR)]], for days when lying still needs a voice.
+
+> **Therapeutic approach: CBT**
 
 ## Operationalises
 

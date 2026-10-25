@@ -46,6 +46,8 @@ What the sources do not test: the exercise is one component of MBCT, whose progr
 
 Free guided audio of the practice is carried in the MBCT tradition's Routledge recordings ([Segal, Williams, Teasdale, MBCT 2nd ed. companion audio](https://www.routledge.com/Mindfulness-Based-Cognitive-Therapy-for-Depression-Second-Edition/Segal-Williams-Teasdale/p/book/9781462537037)) and in public libraries such as [Insight Timer](https://insighttimer.com/mikejbouck/guided-meditations/ehs-number-3-3-minute-breathing-space).
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[D053 — Balance alertness and ease|D053 Balance alertness and ease]], [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]], [[B056 — Note lightly (noting)|B056 Note lightly (noting)]], [[P067 — My world is what I attend to|P067 My world is what I attend to]], [[B066 — Watch states arise and pass|B066 Watch states arise and pass]]

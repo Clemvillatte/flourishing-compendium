@@ -44,6 +44,8 @@ The authors host a free recording on the book's own site: [The Befriending Medit
 
 > "When life really begins to get you down…. When you feel angry, lost or alone… When you feel close to despair… When you feel that you are your own worst enemy… The Befriending Meditation is here for you." — [franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/)
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[B051 — Practice loving-kindness (metta)|B051 Practice loving-kindness (metta)]]

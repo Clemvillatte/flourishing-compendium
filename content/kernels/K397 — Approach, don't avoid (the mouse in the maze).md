@@ -46,6 +46,8 @@ What the sources do not test: the kernel's self-check is an editorial applicatio
 
 The practice is a one-question self-check; no recording is needed.
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[MO019 — Learn to set approach goals, not avoidance goals|MO019 Learn to set approach goals, not avoidance goals]], [[D055 — Don't force|D055 Don't force]], [[D069 — Don't meet force with force|D069 Don't meet force with force]], [[D091 — Befriend change (hua)|D091 Befriend change (hua)]], [[P165 — Become fully functioning — open to experience|P165 Become fully functioning: open to experience]]

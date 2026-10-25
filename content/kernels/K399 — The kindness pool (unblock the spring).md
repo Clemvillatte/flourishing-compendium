@@ -45,6 +45,8 @@ What the sources do not test: the pool-and-spring metaphor is the book's own ima
 
 The book's own audio track is Meditation 7 (Befriending), carried by [Penguin Random House meditation downloads](https://www.penguinrandomhouse.com/mindfulness-meditation-downloads/) and the authors' [franticworld.com free meditations](https://franticworld.com/free-meditations-from-mindfulness/); a cover version is carried by [Insight Timer](https://insighttimer.com/tommycarr/guided-meditations/finding-peace-meditation-7-befriending).
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]], [[B051 — Practice loving-kindness (metta)|B051 Practice loving-kindness (metta)]], [[D092 — Don't chase happiness directly|D092 Don't chase happiness directly]], [[B053 — Practice sympathetic joy (mudita)|B053 Practice sympathetic joy (mudita)]], [[P178 — Treat yourself as a process — self-compassion as process acceptance|P178 Treat yourself as a process: self-compassion as process acceptance]]

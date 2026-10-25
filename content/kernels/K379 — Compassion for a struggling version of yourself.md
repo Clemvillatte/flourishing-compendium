@@ -48,6 +48,8 @@ A related guided practice: [Directing the Compassionate Self to ourselves, Balan
 
 > "In this exercise you'll be guided on practicing self-compassion, through a time you were struggling." — [Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/), [archived copy](https://web.archive.org/web/2024/https://balancedminds.com/compassion-focused-therapy-audio/)
 
+> **Therapeutic approach: CFT**
+
 ## Operationalises
 
 - [[B097 — Wish well, starting with yourself|B097 Wish well, starting with yourself]]

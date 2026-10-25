@@ -44,6 +44,8 @@ Russell Kolts's guided recording: [Compassionate Self Meditation](https://insigh
 
 > "This is an example of a Compassionate Self practice as used by Compassion-Focused Therapy (CFT) practitioners." — [Insight Timer listing](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation)
 
+> **Therapeutic approach: CFT**
+
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

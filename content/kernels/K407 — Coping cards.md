@@ -50,6 +50,8 @@ What the sources do not test: the card is a delivery format for cognitive restru
 
 The cards are written and carried by the practicer; free printable templates are carried at [BehavioralTherapyTechniques.com](https://behavioraltherapytechniques.com/worksheets/coping-cards) and [Pabau](https://pabau.com/templates/coping-cards/).
 
+> **Therapeutic approach: CBT**
+
 ## Operationalises
 
 - [[CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts|CO011 Recognise that thinking can be fused with its content: you can believe your thoughts]]

@@ -52,6 +52,8 @@ What the sources do not test: the downward arrow is a technique for finding beli
 
 The exercise is written by the practicer; free printable worksheets are carried at [BehavioralTherapyTechniques.com](https://behavioraltherapytechniques.com/worksheets/downward-arrow) and [Therapist Assist](https://therapistassist.app/resources/downward-arrow).
 
+> **Therapeutic approach: CBT**
+
 ## Operationalises
 
 - [[CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts|CO011 Recognise that thinking can be fused with its content: you can believe your thoughts]]

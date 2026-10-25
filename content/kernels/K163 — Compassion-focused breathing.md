@@ -5,7 +5,7 @@ type: "kernel"
 title: "Compassion-focused breathing"
 file: "K163 — Compassion-focused breathing"
 tags: ["applied-practice", "topic/emotion", "topic/compassion", "topic/attention", "topic/body"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
 > **Kernel K163** — Compassion-focused breathing
@@ -26,6 +26,8 @@ In a randomised controlled experiment with 96 participants, compassion-focused s
 ### A guided version
 
 A short guided introduction to the practice is [Soothing Rhythm Breathing Guided Meditation, Compassion Focused Therapy, by The Zen Social Worker](https://www.youtube.com/watch?v=y4X36wp6QJs).
+
+> **Therapeutic approach: CFT**
 
 ## Operationalises
 

@@ -54,6 +54,8 @@ What the source does not test: the vignette is an experiential exercise, and the
 
 - [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
 
+> **Therapeutic approach: CFT**
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]], [[B164 — Extend non-harm to yourself|B164 Extend non-harm to yourself]], [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation|SE017 Recognise and manage the inner critic: harsh self-talk is not motivation]], [[SE032 — Cultivate an inner ally — develop a supportive internal voice|SE032 Cultivate an inner ally: develop a supportive internal voice]], [[AF006 — Accept mixed feelings; do not force them to resolve|AF006 Accept mixed feelings; do not force them to resolve]]

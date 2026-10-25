@@ -5,7 +5,7 @@ type: "kernel"
 title: "Evidence-versus-interpretation drill"
 file: "K270 — Evidence-versus-interpretation drill"
 tags: ["applied-practice"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
 > **Kernel K270** — Evidence-versus-interpretation drill
@@ -40,6 +40,8 @@ The CBT base is measured at the review level: "we identified 269 meta-analytic s
 
 - [Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012), "The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses", Cognitive Therapy and Research 36, 427-440 (PDF)](https://www.europsy.net/app/uploads/2017/08/Hofmann-2012-The-efficacy-of-CBT-a-review-of-meta-analyses.pdf): abstract quoted verbatim.
 - [Epictetus, Enchiridion, Chapter 5 (Elizabeth Carter trans., Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html): passage quoted verbatim.
+
+> **Therapeutic approach: CBT**
 
 ## Operationalises
 

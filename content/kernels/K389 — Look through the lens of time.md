@@ -55,6 +55,8 @@ What the studies do not test: the research cued reflection on real and hypotheti
 
 The practice is a written reflection; no recording is needed.
 
+> **Therapeutic approach: CBT**
+
 ## Operationalises
 
 - [[AF033 — Learn self-distancing — the ability to step back from your own experience|AF33]], [[P029 — Watch how words work, not what they name|P029 Watch how words work, not what they name]]

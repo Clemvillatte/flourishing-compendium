@@ -5,7 +5,7 @@ type: "kernel"
 title: "Responsibility inventory"
 file: "K311 — Responsibility inventory"
 tags: ["applied-practice", "topic/identity", "topic/freedom"]
-navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
+navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.10 — 10. Authenticity, Freedom, and Responsibility", "parent": ""}
 ---
 > **Kernel K311** — Responsibility inventory
@@ -29,6 +29,8 @@ What the studies do not test: these are correlations and mediation models on que
 ### A guided version
 
 No official recording exists. The nearest guided worksheet is the [Responsibility Pie Chart at psychology.com](https://psychology.com/tools/responsibility-pie-chart), a CBT exercise for the exact distortion this inventory counters: it has you list the practical conditions, decisions and missing information behind one stuck outcome, allocate each slice of the pie an estimated contribution, then check whether your own share is really what self-blame first said it was, and finish with one proportionate action within your control.
+
+> **Therapeutic approach: CBT**
 
 ## Operationalises
 

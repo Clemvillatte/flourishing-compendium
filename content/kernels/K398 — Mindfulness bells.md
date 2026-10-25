@@ -44,6 +44,8 @@ What the sources do not test: the bell is a traditional attention-training devic
 
 Meditation-bell apps can sound a bell at set intervals; the practice itself needs no recording.
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[P038 — Make habit your flywheel|P038 Make habit your flywheel]], [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]], [[P067 — My world is what I attend to|P067 My world is what I attend to]], [[B170 — Wash the dishes to wash the dishes|B170 Wash the dishes to wash the dishes]]

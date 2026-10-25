@@ -50,6 +50,8 @@ What the sources do not test: the exercise is one component of the book's eight-
 
 The book's own guided audio track is available from the authors' website at the [Free Meditations from Mindfulness page](https://franticworld.com/free-meditations-from-mindfulness/), and the same recording is published as "Meditation 5 – Sounds And Thoughts" by Hachette Audio UK ([SoundCloud](https://soundcloud.com/hachetteaudiouk/sets/mindfulness-a-practical-guide-to-finding-peace-in-a-frantic-world)).
 
+> **Therapeutic approach: MBCT**
+
 ## Operationalises
 
 - [[B056 — Note lightly (noting)|B056 Note lightly (noting)]], [[P159 — Defuse — see thoughts as thoughts|P159 Defuse: see thoughts as thoughts]], [[D050 — Keep a mirror-mind|D050 Keep a mirror-mind]], [[B074 — Thoughts are not facts|B074 Thoughts are not facts]], [[B066 — Watch states arise and pass|B066 Watch states arise and pass]]
