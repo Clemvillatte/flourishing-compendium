@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/relationships", "topic/communication"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K376** — Give complex affirmations
 
 A simple affirmation comments on something specific someone did: "You said that well." "You saw the warning signs and took action." A complex affirmation comments on an enduring strength: "What you did took real courage." "Once you make up your mind about something, you persist until you succeed." "You're someone people can rely on."
@@ -66,8 +68,6 @@ What the sources do not test: the passages give the method's account of affirmin
 - [Miller, W. R., & Rollnick, S. (2023). *Motivational Interviewing: Helping People Change and Grow* (4th ed.). Guilford Press, ch. 4 — text carried on [Scribd](https://www.scribd.com/document/759368772/Motivational-Interviewing-Helping-People-Change-and-Grow-4th-Edition-William-R-Miller-Stephen-Rollnick-Z-Library)]
 - [Miller, W. R., & Moyers, T. B. (2021). *Effective Psychotherapists: Clinical Skills That Improve Client Outcomes*. Guilford Press — excerpt carried on [Scribd](https://www.scribd.com/document/1022295432/Miller-Moyers-Effective-Psychotherapists-pp19-53)]
 - ["What's New in MI-4", motivationalinterviewing.org PDF](https://motivationalinterviewing.org/sites/default/files/what_new_in_mi-4.pdf)
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

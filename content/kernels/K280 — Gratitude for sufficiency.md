@@ -40,8 +40,6 @@ The caution about mixed evidence is documented. The original experiment: "in Stu
 - [Emmons, R. A., & McCullough, M. E. (2003), "Counting Blessings Versus Burdens: An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life", Journal of Personality and Social Psychology 84(2): 377-389](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf): verbatim abstract; three studies, heightened well-being on several though not all measures, positive affect most robust.
 - [Cregg, D. R., & Cheavens, J. S. (2021), "Gratitude Interventions: Effective Self-help? A Meta-analysis of the Impact on Symptoms of Depression and Anxiety", Journal of Happiness Studies 22(1): 413-445](https://link.springer.com/content/pdf/10.1007/s10902-020-00236-6.pdf): verbatim abstract; 27 studies, 3,675 participants, small effects on depression and anxiety symptoms.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[S006 — Remember that you are a citizen of the cosmos|S006 Remember that you are a citizen of the cosmos]]

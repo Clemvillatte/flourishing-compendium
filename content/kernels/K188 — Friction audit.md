@@ -29,8 +29,6 @@ The toolkit chapter of the behavioural-economics literature summarises the mecha
 
 Not applicable: the audit is an inspection of one's own environment, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D034 — Simplify your ecosystem|D034 Simplify your ecosystem]]

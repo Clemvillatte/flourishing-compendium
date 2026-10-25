@@ -28,8 +28,6 @@ The mortality evidence for social connection is large and stable. In the meta-an
 
 Not applicable: this practice is attendance with other people, not a guided recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D034 — Simplify your ecosystem|D034 Simplify your ecosystem]]

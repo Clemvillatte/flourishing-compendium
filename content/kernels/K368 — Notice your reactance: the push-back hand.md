@@ -50,8 +50,6 @@ The palm-pushing demo, in a published facilitation account:
 
 What the sources do not test: these passages are the MI account of reactance and advice; the palm-pushing demo itself is a teaching illustration, and neither passage evaluates this noticing exercise. The palm-pushing demo is carried in published facilitation/training practice (see the playmeo account above), not just in the commercial Guilford volume.
 
-> **Therapeutic approach: MI**
-
 ## Operationalises
 
 - [[D055 — Don't force|D055 Don't force]] — **grounding**: non-force made concrete in conversation.

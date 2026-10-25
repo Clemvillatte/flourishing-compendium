@@ -30,8 +30,6 @@ The practice is Lieberman's affect labeling: "the results indicated that affect 
 
 Not applicable: the practice is a word found in the moment, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D095 — Moderate emotion — extremes injure vitality|D095 Moderate emotion: extremes injure vitality]]

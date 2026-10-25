@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/ethics"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.05 — 5. Role Ethics and Duty", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K284** — The "what does this role require?" practice
 
 Before entering a role-specific situation (a meeting, a conversation with your child, a community event), pause and ask: what does this role require of me right now? The question shifts attention from your preferences to your obligations. It is the Stoic practice of role ethics, which holds that flourishing comes from [[Fulfil your roles well|performing one's roles well]], not from escaping them. Epictetus's version is the actor: "Remember that you are an actor in a drama, of such a kind as the author pleases to make it... For this is your business, to act well the character assigned you; to choose it is another's" ([Epictetus, Enchiridion 17](https://classics.mit.edu/Epictetus/epicench.html)). Dimensions: attention (turned from preference to obligation at the door) and motivation (the duty, not the mood, as the engine of the act).
@@ -39,8 +41,6 @@ The Stoic ground is quoted above, and the Confucian tradition addresses the same
 
 - [Epictetus, Enchiridion, Chapter 17 (Elizabeth Carter trans.)](https://classics.mit.edu/Epictetus/epicench.html): verbatim passage on acting well the character assigned.
 - [Confucius, The Analects, Book 12, passage 11 (James Legge trans., Chinese Text Project)](https://ctext.org/analects/yan-yuan): verbatim passage on the prince being prince and the father a father.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

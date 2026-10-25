@@ -37,8 +37,6 @@ In a randomised controlled trial with 362 adults (101 on the 11-minute form, 80 
 
 A zero-cost starting point is the [10-minute NSDR script narrated by Dr. Andrew Huberman](https://www.youtube.com/watch?v=KHIbgSN2qAU).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[BI059 — Learn yoga nidra — deep rest practice|BI059 Learn yoga nidra: deep rest practice]]

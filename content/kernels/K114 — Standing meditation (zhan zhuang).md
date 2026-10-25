@@ -28,8 +28,6 @@ A functional near-infrared spectroscopy study with 24 experienced Tai Chi practi
 
 A Daoist master walks through the posture in detail in [How to Meditate as a Taoist, from the Online Academy of Chinese Arts](https://www.youtube.com/watch?v=Jrp65CO5U6E).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D053 — Balance alertness and ease|D053 Balance alertness and ease]]

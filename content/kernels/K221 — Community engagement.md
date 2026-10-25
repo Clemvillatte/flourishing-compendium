@@ -37,8 +37,6 @@ What this evidence does not test: the practice as designed here. The meta-analys
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]]

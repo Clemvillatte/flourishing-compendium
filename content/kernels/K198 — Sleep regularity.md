@@ -28,8 +28,6 @@ In the largest test to date, researchers "calculated Sleep Regularity Index (SRI
 
 Not applicable: the practice is a stable schedule, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]]

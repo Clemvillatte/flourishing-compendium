@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/emotion", "topic/acceptance"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
+Practice: **Mindfulness-based cognitive therapy (MBCT)**
+
 > **Kernel K395** — Exploring Difficulty meditation
 
 Sit and settle with the breath for a few minutes. Then, if a difficulty is present (or you gently bring one to mind — something mild and unresolved), allow the thought or feeling to rest on the workbench of the mind. Do not try to fix, analyze, or solve it. Instead, drop your attention into the body and find the physical sensations that come with the difficulty. Then deliberately move your focus to the part of the body where the sensations are strongest. Breathe into that region on the in-breath, and breathe out from it on the out-breath. Explore the sensations with friendly curiosity.
@@ -47,8 +49,6 @@ What the sources do not test: the meditation is a component of an eight-week pro
 ### A guided version
 
 The book's own guided track is Meditation 6 on the CD; Penguin Random House carries the audio ([Mindfulness meditation downloads](https://www.penguinrandomhouse.com/mindfulness-meditation-downloads/)), and a trauma-sensitive update of the same practice is carried by [Insight Timer](https://insighttimer.com/tommycarr/guided-meditations/finding-peace-meditation-6-exploring-difficulty).
-
-> **Therapeutic approach: MBCT**
 
 ## Operationalises
 

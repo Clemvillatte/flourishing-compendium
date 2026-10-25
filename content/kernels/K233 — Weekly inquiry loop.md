@@ -30,8 +30,6 @@ Why repeats matter: "Because each individual receives each treatment multiple ti
 
 What the research does not cover: the cited papers did not evaluate this specific weekly routine. The trials in these reviews examined treatments, mostly clinical ones, in multi-period designs that usually run longer than a week. A Monday-to-Friday loop is pilot-scale, with the limits the reviewers flag: too few repetitions, and no randomization when you skip the coin.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D073 — Don't over-plan — act from presence|D073 Don't over-plan: act from presence]]

@@ -47,8 +47,6 @@ The [Personal Values Card Sort from the University of New Mexico](https://casaa.
 - [Schmuck, P., Kasser, T., & Ryan, R. M. (2000), "Intrinsic and Extrinsic Goals: Their Structure and Relationship to Well-Being in German and U.S. College Students"](https://selfdeterminationtheory.org/SDT/documents/2000_SchmuckKasserRyan_SIR.pdf)
 - [Miller, W. R., C'de Baca, J., Matthews, D. B., & Wilbourne, P. L. (2001), Personal Values Card Sort, University of New Mexico](https://casaa.unm.edu/assets/inst/personal-values-card-sort-2.pdf)
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

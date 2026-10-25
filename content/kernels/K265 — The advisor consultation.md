@@ -41,8 +41,6 @@ What this evidence does not test: the cited research did not evaluate an advisor
 
 Not applicable: the practice is a conversation with people, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

@@ -33,8 +33,6 @@ What the cited study does not test: these are associations between narrated them
 
 No official recording of the audit exists. A different, optional exercise sits one step beyond it: the [narrative identity revision practice](https://www.ixcoach.com/practices/the-life-crafting-intervention/narrative-identity-revision) has you identify one limiting story ("I'm not the kind of person who ___") and rewrite the same events with a redemption frame ("This happened, and what it eventually gave me was ___"), locating one piece of genuine evidence so the revision stays honest. It is not this audit: recovering what was good before a bad ending makes no claim that the ending gave you anything.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E008 — Practise the structure of temporality|E008 Practise the structure of temporality]]

@@ -37,8 +37,6 @@ What the carriers do not test: these passages are descriptions from a philosophy
 
 There is no guided recording of the phenomenological description itself; the self-directed writing is the practice. The guided form of the same attention is the body scan, covered by [[K102 — Body scan]]; Palouse Mindfulness publishes a [free guided body-scan audio](https://palousemindfulness.com/meditations/bodyscan.html) that walks the inside-of-the-body attention this kernel then writes down.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E003 — Practise the natural attitude and its suspension|E003 Practise the natural attitude and its suspension]]

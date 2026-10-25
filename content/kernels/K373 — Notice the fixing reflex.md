@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/relationships", "topic/communication"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K373** — Notice the fixing reflex
 
 When someone tells you about a problem, notice the urge that arrives first: the urge to *fix it*. Give advice, reassure, solve, say "Have you tried…?" The third edition of Miller & Rollnick's book calls this the righting reflex — well-meant, and a common reason conversations go in circles.
@@ -44,8 +46,6 @@ What the sources do not test: the passage describes the reflex; it does not eval
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

@@ -27,8 +27,6 @@ The laboratory version of this kernel is the task-switching literature. A classi
 
 A clear practical walkthrough of setting up such sessions, based on Cal Newport's deep-work rules, is [Deep Work: How To Improve Your Focus, from Slack](https://slack.com/blog/productivity/deep-work).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D071 — Practice undivided attention|D071 Practice undivided attention]]

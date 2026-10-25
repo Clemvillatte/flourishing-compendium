@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/compassion", "topic/metaphor"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Mindfulness-based cognitive therapy (MBCT)**
+
 > **Kernel K399** — The kindness pool (unblock the spring)
 
 Picture kindness as a clear pool fed by a small spring. You can ration the pool, giving each person you meet a thimbleful as they pass, and watch it shrink. Or you can unblock the spring that feeds it, so the pool is continuously replenished. The practice (Befriending meditation, K396) is the unblocking. When you notice yourself rationing kindness, holding back warmth because you are tired or drained, ask: is the pool actually low, or is the spring blocked?
@@ -44,8 +46,6 @@ What the sources do not test: the pool-and-spring metaphor is the book's own ima
 ### A guided version
 
 The book's own audio track is Meditation 7 (Befriending), carried by [Penguin Random House meditation downloads](https://www.penguinrandomhouse.com/mindfulness-meditation-downloads/) and the authors' [franticworld.com free meditations](https://franticworld.com/free-meditations-from-mindfulness/); a cover version is carried by [Insight Timer](https://insighttimer.com/tommycarr/guided-meditations/finding-peace-meditation-7-befriending).
-
-> **Therapeutic approach: MBCT**
 
 ## Operationalises
 

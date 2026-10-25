@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.14 — 14. Cognitive Intervention (CBT/Acceptance) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K408** — The downward arrow
 
 Take a thought that hurts, say, "if I get sick in public, it will be a disaster." Instead of arguing with it, follow it down. Ask: suppose that did happen, what would be bad about that? Answer. Then ask about the answer: and if that were true, what would that mean? Keep going, assuming each answer is true for the sake of discussion, until the answers stop producing anything underneath.
@@ -51,8 +53,6 @@ What the sources do not test: the downward arrow is a technique for finding beli
 ### A guided version
 
 The exercise is written by the practicer; free printable worksheets are carried at [BehavioralTherapyTechniques.com](https://behavioraltherapytechniques.com/worksheets/downward-arrow) and [Therapist Assist](https://therapistassist.app/resources/downward-arrow).
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

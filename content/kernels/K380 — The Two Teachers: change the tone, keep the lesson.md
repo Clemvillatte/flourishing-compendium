@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/identity", "topic/compassion", "topic/action"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.13 — 13. Compassion-Focused Therapy (CFT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K380** — The Two Teachers: change the tone, keep the lesson
 
 Think of two teachers giving the same correction — one with contempt, one with warmth. The imagined comparison is the exercise: which lesson would you keep working at?
@@ -53,8 +55,6 @@ What the source does not test: the vignette is an experiential exercise, and the
 ## Sources
 
 - [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

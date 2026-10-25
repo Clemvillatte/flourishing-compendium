@@ -27,8 +27,6 @@ A preregistered meta-analysis of 145 papers, 163 samples, and 24,804 participant
 
 A gentle session for the end of the day is [Guided Gratitude Meditation, 10 Minutes, by Barbara Heffernan](https://www.youtube.com/watch?v=mzEbsYOdxyw).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D030 — Contentment is the greatest wealth|D030 Contentment is the greatest wealth]]

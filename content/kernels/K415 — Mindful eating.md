@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/attention", "topic/body"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ATTENTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.01 — 1. Attention and Awareness", "parent": ""}
 ---
+Practice: **Mindfulness practice**
+
 > **Kernel K415** — Mindful eating
 
 Mindful eating brings the full attention of a formal practice to the act of eating: the look, smell, and feel of food before it reaches the mouth, the changing tastes while chewing, and the body's hunger and fullness signals as they shift across a meal. It is the general form of the classic raisin exercise (see [[K390 — The Raisin meditation]]), extended from one surprising bite to ordinary meals.
@@ -27,8 +29,6 @@ The strongest single trial is the "9 Hunger" online RCT (Peitz & Warschburger, 2
 ### A guided version
 
 A free 12-minute guided raisin meditation from Palouse Mindfulness-Based Stress Reduction is available at [Raisin Meditation, Palouse Mindfulness](https://www.palousemindfulness.com/meditations/raisin.html).
-
-> **Therapeutic approach: MBCT, MBSR**
 
 ## Operationalises
 

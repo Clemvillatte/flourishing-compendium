@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/freedom"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K115** — Willingness practice
 
 When an unwanted inner state arises (urge, pain, anxiety, sadness), say silently: "This is here, and I can feel it." Let the experience be present without trying to change, suppress, or argue with it. Willingness comes before change.
@@ -30,8 +32,6 @@ In a study with participants diagnosed with anxiety and mood disorders, people w
 ### A guided version
 
 A short guided exercise in the same library as the other acceptance tools is [Willingness as a Choice from the ACT Toolkit](https://www.acttoolkit.com/) — a seven-minute exercise whose framing line is "Acceptance isn't a feeling you have to produce, but a stance you can choose."
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

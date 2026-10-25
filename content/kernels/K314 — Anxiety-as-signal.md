@@ -42,8 +42,6 @@ The existentialist reading has an empirical cousin in anxiety sensitivity, the "
 - [Kierkegaard, S. (1844), The Concept of Anxiety, quoted in "The Danish Doctor of Dread" (New York Times article, hosted by Stanford University)](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf): verbatim passage, "Anxiety may be compared with dizziness... Hence, anxiety is the dizziness of freedom."
 - [Naragon-Gainey, K. (2010), "Meta-analysis of the relations of anxiety sensitivity to the depressive and anxiety disorders", Psychological Bulletin 136(1)](https://pubmed.ncbi.nlm.nih.gov/20063929/): 117 studies, 792 effect sizes; anxiety sensitivity most strongly related to panic, GAD and PTSD, with the author's concurrent-measurement caution.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E005 — Practise the horizon|E005 Practise the horizon]]

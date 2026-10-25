@@ -32,8 +32,6 @@ What this evidence does not test: the questions. The meta-analysis pooled contac
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

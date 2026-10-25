@@ -43,8 +43,6 @@ What this evidence does not test: the cited research gathered the volunteers' pe
 
 Not applicable: the practice is a standing conversation, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/mind"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-KRN"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-COGFLEX"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Buddhist-inspired practice**
+
 > **Kernel K136** — The raft check
 
 A retirement review for beliefs, strategies and identities, run on the suspicion that something that once carried a person across is now being carried on land. The source is the raft simile in the Alagaddūpama Sutta, where the Buddha compares his teaching to a raft, made for crossing over and not for holding onto. It suits the times when a working identity has quietly become a costume, or an old strategy keeps being deployed at problems it no longer fits.
@@ -36,8 +38,6 @@ What this evidence does not test: the check as a practice. The simile is a teach
 ### A guided version
 
 No guided version is supplied here.
-
-> **Therapeutic approach: general**
 
 ## Operationalises
 

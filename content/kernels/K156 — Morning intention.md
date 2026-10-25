@@ -32,8 +32,6 @@ What this evidence does not test: the practice itself. Study 1 concerned weekend
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D001 — Align your life with the Dao|D001 Align your life with the Dao]]

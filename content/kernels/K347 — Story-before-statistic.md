@@ -34,8 +34,6 @@ What this evidence does not test: the practice. The paper is a theoretical accou
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

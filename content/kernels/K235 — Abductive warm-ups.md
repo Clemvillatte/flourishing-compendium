@@ -28,8 +28,6 @@ The discipline is Platt's strong inference, which he defines as applying certain
 
 Not applicable: the practice is generating explanations in the moment, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]]

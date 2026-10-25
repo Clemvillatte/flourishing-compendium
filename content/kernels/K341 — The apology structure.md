@@ -33,8 +33,6 @@ What this evidence does not test: the four components. The study compared a self
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

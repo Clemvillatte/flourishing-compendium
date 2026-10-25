@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition", "topic/emotion"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.14 — 14. Cognitive Intervention (CBT/Acceptance) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K389** — Look through the lens of time
 
 Pick something currently bothering you. Write a one-sentence description of it. Then run it through temporal lenses:
@@ -54,8 +56,6 @@ What the studies do not test: the research cued reflection on real and hypotheti
 ### A guided version
 
 The practice is a written reflection; no recording is needed.
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

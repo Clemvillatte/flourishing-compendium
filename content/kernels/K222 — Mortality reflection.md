@@ -32,8 +32,6 @@ What this evidence does not test: the exercise. The study surveyed elderly Thai 
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D090 — Accept death as transformation|D090 Accept death as transformation]]

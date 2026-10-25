@@ -43,8 +43,6 @@ No guided version is supplied here.
 - **as meaning-making** — Gross, 2015
 - **among the best-evidenced strategies**
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D083 — Reframe to dissolve conflict|D083 Reframe to dissolve conflict]]

@@ -30,8 +30,6 @@ The if-then plan at the bottom of the recipe has a long research history. A meta
 
 What the research does not cover: the 94 tests measured if-then plans against goal attainment, not Fogg's anchor-recipe specifically and not long-run habit formation. The two-minute sit example is this practice's own; the meta-analysis is about goals from exercise to voting, not about stacking habits onto tooth-brushing.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

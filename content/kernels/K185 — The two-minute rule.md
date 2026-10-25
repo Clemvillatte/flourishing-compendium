@@ -29,8 +29,6 @@ The rule's own text: "The Two-Minute Rule states 'When you start a new habit, it
 
 What the research does not cover: the cited sources do not test the rule itself. The intrusions research tested plan making, not two-minute starts. Clear's continuation claim, "Just write one sentence (2-Minute Rule), and you'll often find yourself writing for an hour" ([TIME](https://time.com/4242052/2-minute-rule-procrastinating/)), and his reader's weight loss are framing and anecdote, not data. The rule is a cheap opening move; that is all these sources establish.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D059 — Do the difficult while it is easy|D059 Do the difficult while it is easy]]

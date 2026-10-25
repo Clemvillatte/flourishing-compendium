@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K271** — The "is this up to me?" check
 
 Throughout the day, when a concern arises, ask: is this up to me? If yes, act. If no, release. The check is portable, invisible, and immediate, and it is not a modern improvisation. It is the closing instruction of the first chapter of Epictetus's Enchiridion, addressed to every harsh appearance: "examine it by those rules which you have, and first, and chiefly, by this: whether it concerns the things which are in our own control, or those which are not; and, if it concerns anything not in our control, be prepared to say that it is nothing to you" ([Epictetus, Enchiridion 1](https://classics.mit.edu/Epictetus/epicench.html)). It trains the habit of distinguishing what is within your control from what is not, the foundation Stoicism builds everything else on. The check works on cognition: the judgment is made at the moment a concern appears, not later.
@@ -41,8 +43,6 @@ The Enchiridion opens with the distinction itself: "Some things are in our contr
 
 - [Epictetus, Enchiridion, Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html): Chapter 1 verbatim, the dichotomy of control and the instruction to examine each appearance by it.
 - [Cheng, C., Cheung, S. F., Chio, J. H. M., & Chan, M. P. S. (2013), "Cultural meaning of perceived control: a meta-analysis of locus of control and psychological symptoms across 18 cultural regions", Psychological Bulletin 139(1)](https://pubmed.ncbi.nlm.nih.gov/22642229/): 152 samples, 33,224 adults; external locus of control correlates r = .30 with depression and anxiety symptoms, moderated by culture.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

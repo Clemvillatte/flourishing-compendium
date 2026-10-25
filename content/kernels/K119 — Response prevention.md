@@ -29,8 +29,6 @@ The evidence for exposure and response prevention in OCD is strong: in the rando
 
 Not applicable as a recording: response prevention is the deliberate absence of a behaviour inside a live situation, guided in the clinical setting by a therapist rather than a track.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D055 — Don't force|D055 Don't force]]

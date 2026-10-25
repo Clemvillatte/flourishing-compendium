@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/motivation", "topic/decision"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K371** — Importance and confidence rulers
 
 Pick a change you're considering. Two questions:
@@ -22,8 +24,6 @@ Then the key move: why are you at your number and not a 0? Write down your answe
 Do not ask "Why aren't you higher?" — that invites the reasons-against.
 
 Adapted from Drapkin, ch. 4, PDF pp. 1403–1404; and Miller & Rollnick (4th ed.), ch. 6, p. 92 (scaling questions).
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

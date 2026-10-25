@@ -46,8 +46,6 @@ Kohn presents the organ associations as traditional-medicine correspondences: "d
 
 > "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Kohn, Chinese Healing Exercises, printed p. 102, quoting Daoyin jing 16b ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[BE046 — Learn to use the body to regulate emotion — posture, breath, movement|BE046 Learn to use the body to regulate emotion: posture, breath, movement]]

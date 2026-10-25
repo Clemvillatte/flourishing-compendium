@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/values"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.16 — 16. Acceptance and Commitment Therapy (ACT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K403** — Core and satellite values
 
 Take the values you have already sorted by importance. Put the three most important in a pile at the center; scatter the remaining seven around them, roughly the way electrons circle a nucleus. Read each of the three core cards a few times.
@@ -48,8 +50,6 @@ What the sources do not test: the exercise is a values-clarification and defusio
 ### A guided version
 
 The exercise is written and arranged by the practicer; no recording is needed.
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

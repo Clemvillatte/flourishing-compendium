@@ -42,8 +42,6 @@ What this evidence does not test: the cited research pooled studies of social re
 
 Not applicable: the practice is attendance and participation, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

@@ -27,8 +27,6 @@ A systematic review and meta-analysis of 20 randomised controlled trials with 4,
 
 A well-specified guided version is the [Savoring Walk from Greater Good in Action](https://ggia.berkeley.edu/practice/savoring_walk), UC Berkeley's library of research-based well-being practices: a 20-minute daily walk devoted to consciously savoring positive sights, sounds, and sensations.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D092 — Don't chase happiness directly|D092 Don't chase happiness directly]]

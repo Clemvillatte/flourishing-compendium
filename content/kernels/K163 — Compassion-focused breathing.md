@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/emotion", "topic/compassion", "topic/attention
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K163** — Compassion-focused breathing
 
 Breathe at a soothing rhythm (roughly five to six breaths per minute) while evoking a sense of warmth and safeness. The combination of slow breathing and affiliative affect activates the parasympathetic and soothes the threat system.
@@ -26,8 +28,6 @@ In a randomised controlled experiment with 96 participants, compassion-focused s
 ### A guided version
 
 A short guided introduction to the practice is [Soothing Rhythm Breathing Guided Meditation, Compassion Focused Therapy, by The Zen Social Worker](https://www.youtube.com/watch?v=y4X36wp6QJs).
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

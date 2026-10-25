@@ -37,8 +37,6 @@ The practice closes with the essay's last word on Sisyphus: "The struggle itself
 
 No official recording exists; the stance is self-chosen by design. The nearest worked guide is the ["A Week of Revolt" schedule](https://inspiremymantra.com/camus-and-the-absurd-how-to-live-without-answers/) built from The Myth of Sisyphus: Monday, write down one question you have been trying to resolve and leave it unanswered; Wednesday, act on one thing you value "not because it is cosmically significant, but because it matters to you"; Friday, revisit Monday's question and notice what you did anyway; weekend, engage one routine activity fully, without looking for what it proves.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

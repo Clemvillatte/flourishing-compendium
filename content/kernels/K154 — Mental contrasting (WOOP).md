@@ -33,8 +33,6 @@ What this evidence does not test: your wish. The meta-analysis pooled 21 empiric
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D061 — Act before things arise|D061 Act before things arise]]

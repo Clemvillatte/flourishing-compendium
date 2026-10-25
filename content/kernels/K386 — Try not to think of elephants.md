@@ -48,8 +48,6 @@ What the sources do not test: the passages establish the suppression difficulty 
 
 - [Wegner, D. M. (2011). Setting free the bears. American Psychologist 66(9). — PDF](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Setting%20free%20the%20bears%202011.pdf)
 
-> **Therapeutic approach: CBT**
-
 ## Operationalises
 
 - [[Y002 — Settle the mind rather than suppress it|Y002 Settle the mind rather than suppress it]], [[B090 — Don't suppress — observe kindly|B090 Don't suppress: observe kindly]], [[D055 — Don't force|D055 Don't force]]

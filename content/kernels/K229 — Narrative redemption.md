@@ -32,8 +32,6 @@ What this evidence does not test: the practice. The study links redemption-shape
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D089 — Grief without destruction|D089 Grief without destruction]]

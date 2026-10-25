@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K267** — Controllability sorting
 
 Take a current concern and sort it into two columns: what is within your power (opinion, aim, desire, effort) and what is not (outcomes, others' opinions, the body, reputation, events). Then spend your energy on the first column. The exercise operationalises the Stoic dichotomy of control, and the psychological literature on locus of control gives the sorting an empirical cousin worth knowing about, though its findings are weaker and more mixed. Reach for it when a concern has become a knot of both columns at once.
@@ -34,8 +36,6 @@ What the studies do not test: these are correlational, small-to-moderate effects
 ### A guided version
 
 Two exist. The [Circle of Control guided meditation by Michael Scott on Insight Timer](https://insighttimer.com/michaelscott/guided-meditations/circle-of-control) does the sorting in audio; its own description says it will "guide you to focus your energy on the things you can control". On paper, the Oxford MPLS [Circles of Concern, Influence and Control exercise](https://www.mpls.ox.ac.uk/files/training/circles-of-influence) has you list your concerns, sort them into the circles of concern, influence, and innermost control, and ask which could move inward.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

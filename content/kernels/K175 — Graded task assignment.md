@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/action"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-BA"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
+Practice: **Behavioural activation (BA) · Cognitive behavioural therapy (CBT)**
+
 > **Kernel K175** — Graded task assignment
 
 Break a daunting task into steps small enough that the first one feels trivial. Do the first step. Then the next. The method is a named tool in behavioral activation, the depression treatment built on scheduling activity: "the assignment of increasingly more difficult tasks is used to move clients gradually toward full participation in activities that have a maximum likelihood of positively reinforcing further activity and improving mood" (["Behavioral Activation Treatment for Depression: Returning to Contextual Roots," reading-archive copy](https://www.personal.kent.edu/~dfresco/CBT_Readings/CPSP_Jacobson_et_al_BA.pdf)).
@@ -29,8 +31,6 @@ The grading is your own task on your own paper; no guided recording is cited for
 Why the trivial first step matters: "We suggest that the reinforcing qualities of success and mastery over a given component will increase the likelihood of completing the other components" (same paper). The same idea appears in the clinical teaching text as successive approximation: "Breaking larger tasks into smaller tasks which are easy to accomplish," with "The tasks which are generally avoided by patient can be divided into graded tasks" ([Gautam et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7001356/)). The manual also warns that the step can always be cut smaller: "If the therapist and client determine that the component selected may be too challenging for the client, the task can be broken down further" (Jacobson et al., 2001).
 
 What the research does not cover: the trials test behavioral activation as a treatment package for depression, delivered with a therapist, homework review, and mood monitoring. The solo use on an ordinary daunting task, without the surrounding treatment, borrows the tool; the evidence belongs to the package.
-
-> **Therapeutic approach: BA, CBT**
 
 ## Operationalises
 

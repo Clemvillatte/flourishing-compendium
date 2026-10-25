@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/communication", "topic/relationships"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K370** — Ask, Offer, Ask
 
 Before you tell someone what to do, ask permission: "Would it be OK if I mention a few possibilities?" If yes, give the advice briefly. Then ask again: "What do you make of that? Does any of it fit for you?"
@@ -36,8 +38,6 @@ And its shape in practice:
 > — [same PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
 What the sources do not test: the quoted passages explain the sequence's rationale and shape; they do not establish the effect of this everyday lay version.
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

@@ -1045,6 +1045,12 @@ function mdToHtml(src) {
   while (i < lines.length) {
     const line = lines[i];
     if (!line.trim()) { i++; continue; }
+    // A practice's supported origin is quiet metadata above its opening quote.
+    const origin = line.match(/^Practice: \*\*(.+?)\*\*$/);
+    if (origin) {
+      out += '<p class="kernel-origin">' + esc(origin[1]) + '</p>';
+      i++; continue;
+    }
     // code fence
     if (/^```/.test(line)) {
       let buf = []; i++;
@@ -1069,9 +1075,7 @@ function mdToHtml(src) {
     if (/^\s*>/.test(line)) {
       let buf = [];
       while (i < lines.length && /^\s*>/.test(lines[i])) { buf.push(lines[i].replace(/^\s*>\s?/, '')); i++; }
-      // modality line: red #E34234 (owner directive) — rendered distinctly from ordinary blockquotes
-      const isModality = buf.length && /^\*\*Therapeutic approach:/.test(buf[0].trim());
-      out += (isModality ? '<blockquote class="modality">' : '<blockquote>') + mdToHtml(buf.join('\n')) + '</blockquote>';
+      out += '<blockquote>' + mdToHtml(buf.join('\n')) + '</blockquote>';
       continue;
     }
     // list

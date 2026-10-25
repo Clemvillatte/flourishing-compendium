@@ -33,8 +33,6 @@ Two empirical carriers place everyday aesthetic attention in ordinary life. Firs
 
 A guided form exists: the Des Moines Art Center's [Being With Art](https://desmoinesartcenter.org/art/resources/being-with-art/) is a 20-minute guided audio tour grounded in mindfulness and slow-looking, using gentle prompts to experience a work with new awareness. So do [MoMA's Slow Looking itineraries](https://www.moma.org/visit/itineraries/slow-looking) (one artwork in guided prompts) and the National Gallery Singapore's studied Slow Art audio for wellbeing.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/mind"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K273** — The view from above
 
 Imagine yourself from a great height: your city, then your country, then the planet. See your concerns from that distance. The exercise is a Stoic contemplative practice; modern research on self-distancing, which trains a similar observer's stance, reports less distress and lower reactivity, though it does not test the ascent itself. The concerns still matter; they are smaller than they feel. [[T014 — Marcus Aurelius|Marcus Aurelius]] gives the practice its shape: "From some high place as it were to look down, and to behold here flocks, and there sacrifices, without number; and all kind of navigation; some in a rough and stormy sea, and some in a calm" ([Marcus Aurelius, Meditations IX.29, Project Gutenberg ebook 2680](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm)). The empirical companion is the self-distancing literature: analyzing one's feelings from "the perspective of a distanced observer, akin to a fly on the wall" rather than replaying the event through their own eyes ([Kross & Ayduk 2011](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf)).
@@ -40,8 +42,6 @@ The empirical base is quoted above: those who analyze negative experiences from 
 
 - [Marcus Aurelius, Meditations, Book IX, chapter 29 (Project Gutenberg ebook 2680)](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm): passage quoted verbatim.
 - [Kross, E., & Ayduk, O. (2011), "Making Meaning out of Negative Experiences by Self-Distancing", Current Directions in Psychological Science 20(3), 187-191 (PDF)](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf): definition and findings quoted verbatim.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

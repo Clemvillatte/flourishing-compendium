@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/values"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.16 — 16. Acceptance and Commitment Therapy (ACT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K404** — The values whiteboard
 
 When thinking about a values conflict keeps going in circles, honesty against kindness, ambition against family, write the conflict on a whiteboard or a large sheet of paper. Write what your mind says about it: the arguments, the scripts, the key words. Write the images you see when you close your eyes, and the emotions and body sensations that come with them. Fill the board.
@@ -51,8 +53,6 @@ What the sources do not test: the worksheet is a defusion technique inside ACT-b
 ### A guided version
 
 The exercise is written and read at a distance; no recording is needed.
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

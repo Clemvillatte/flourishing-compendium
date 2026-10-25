@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/identity"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.04 — 4. Self and Perspective", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K139** — Self-as-context
 
 When caught in a self-story ("I am a failure", "I am an anxious person"), shift attention from the story to the one who is noticing the story. The noticing position is not the content it notices. This is Acceptance and Commitment Therapy's self-as-context: the observing position rather than the evaluated contents. Reach for it when a self-judgment has hardened into a verdict and the verdict has started to run the day.
@@ -41,8 +43,6 @@ A candidate exists: the Observer Exercise, from the 1999 ACT book, recorded by R
 ## Facets
 
 - **ACT** — Hayes et al., 2011
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

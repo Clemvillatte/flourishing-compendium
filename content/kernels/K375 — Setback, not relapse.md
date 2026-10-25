@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/habit", "topic/suffering"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K375** — Setback, not relapse: treat the slip as data
 
 When you slip back into an old behavior, notice the word your mind reaches for. "Relapse" implies there are only two outcomes — perfection or failure — and that once the rule is broken, there's nothing to lose. Miller argues the term itself frames slipping as more catastrophic than it needs to be.
@@ -43,8 +45,6 @@ What the sources do not test: the passage describes the clinical support task; t
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

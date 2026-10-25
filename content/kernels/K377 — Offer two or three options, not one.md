@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/decision", "topic/communication"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K377** — Offer two or three options, not one
 
 ### Protocol
@@ -46,8 +48,6 @@ What the sources do not test: the passages give the method's recommendation and 
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

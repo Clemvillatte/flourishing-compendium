@@ -32,8 +32,6 @@ What this evidence does not test: the session length. In two experiments, partic
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D040 — Return to the root daily (guigen)|D040 Return to the root daily (guigen)]]

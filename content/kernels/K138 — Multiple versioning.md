@@ -28,8 +28,6 @@ The mechanism behind each version is psychological distance: "together, these fi
 
 Not applicable: the practice is writing the same event in several voices, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D081 — Recognize the relativity of perspectives|D081 Recognize the relativity of perspectives]]

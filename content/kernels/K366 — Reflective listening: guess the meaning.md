@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/relationships", "topic/communication"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K366** — Reflective listening: guess the meaning
 
 When someone tells you something, don't just repeat their words back. Make a *guess* at what they mean underneath, and say the guess as a statement. "I'm feeling kind of down today" → "Like you don't have much energy." If your guess lands, the conversation deepens; if it misses, they correct you, and the correction is itself information.
@@ -38,8 +40,6 @@ The book's name for the move:
 The same discussion warns against over-reliance on simple reflections: sticking too close to exactly what the person said tends to leave the conversation going in circles.
 
 These passages describe reflective listening; they do not provide outcome evidence for the everyday exercise presented here.
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

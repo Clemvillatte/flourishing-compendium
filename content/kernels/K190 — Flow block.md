@@ -28,8 +28,6 @@ The block assembles the conditions Csikszentmihalyi identified for optimal exper
 
 Not applicable: the practice is a protected block of work, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D057 — Enter flow|D057 Enter flow]]

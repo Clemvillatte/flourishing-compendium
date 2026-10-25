@@ -32,8 +32,6 @@ What this evidence does not test: the practice. The trial compared taped upright
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D053 — Balance alertness and ease|D053 Balance alertness and ease]]

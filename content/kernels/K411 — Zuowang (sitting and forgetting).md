@@ -28,8 +28,6 @@ No randomised trial has tested zuowang by name, so the honest framing is by near
 
 A calm guided introduction is [Zuowang Guided Meditation, by Giovanni Dienstmann](https://www.youtube.com/watch?v=5Ne6ey3Qykk).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D046 — Practice fasting of the mind (xinzhai)|D046 Practice fasting of the mind (xinzhai)]]

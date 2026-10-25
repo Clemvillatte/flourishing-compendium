@@ -48,8 +48,6 @@ What this evidence does not test: neither study measured the alleviation of suff
 
 Not applicable: the survey is self-administered online, and the practice itself is daily life rather than a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A003 — Make virtue your primary investment|A003 Make virtue your primary investment]]

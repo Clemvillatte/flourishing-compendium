@@ -32,8 +32,6 @@ What this evidence does not test: the writing-down. The diary studies measured p
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D018 — Give things time|D018 Give things time]]

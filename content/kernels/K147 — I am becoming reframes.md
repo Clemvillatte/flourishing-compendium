@@ -30,8 +30,6 @@ The theory behind the move: Dweck and Leggett's model "specifies how individuals
 
 What the research does not cover: the mindset studies measured beliefs about attributes, mostly intelligence, against academic achievement. They did not test reframing self-labels in daily life, and the honest summary of the intervention evidence is that it is thin. This practice borrows the theory's logic, not a demonstrated effect.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D087 — Hold identity lightly|D087 Hold identity lightly]]

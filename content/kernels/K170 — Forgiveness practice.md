@@ -28,8 +28,6 @@ The practice is Worthington's REACH forgiveness intervention, tested in a multis
 
 Not applicable: the practice is a decision worked through in one's own mind, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D088 — Don't take offense personally (the empty boat)|D088 Don't take offense personally (the empty boat)]]

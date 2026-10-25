@@ -32,8 +32,6 @@ What this evidence does not test: the daily rule. Forty-one artists were beeped 
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

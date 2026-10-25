@@ -32,8 +32,6 @@ What this evidence does not test: the four stations. The study compared 122 Cana
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

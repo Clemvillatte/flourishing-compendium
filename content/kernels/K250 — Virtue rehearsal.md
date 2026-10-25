@@ -54,8 +54,6 @@ What this evidence does not test: neither study ran this protocol or measured wh
 
 Not applicable: the practice is a notebook and a pen, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A004 — Become virtuous by doing virtuous acts|A004 Become virtuous by doing virtuous acts]]

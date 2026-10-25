@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/identity", "topic/creativity"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SELF"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.04 — 4. Self and Perspective", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K148** — Variation against the story
 
 Do one thing this week that your self-story says you never do. If the story says you are shy, speak to a stranger. If it says you are rigid, take a different route. The action does not prove the story wrong; it reveals the story as a story, and the forecast it makes about you turns out to be a prediction you can test.
@@ -46,8 +48,6 @@ The [Behavioural Experiment Worksheet from Think CBT](https://thinkcbt.com/image
 - [Regan, K., & Lyubomirsky, S., "Inducing Sociability" (carrying the Zelenski et al. 2013 finding)](https://sonjalyubomirsky.com/wp-content/uploads/2024/03/Regan-Lyubomirsky-in-press-1.pdf)
 - [Sun, J., et al. (2019), "Costs and benefits of acting extraverted: A randomized controlled trial", PubMed 30489119](https://pubmed.ncbi.nlm.nih.gov/30489119/)
 - [Think CBT, Behavioural Experiment Worksheet](https://thinkcbt.com/images/Downloads/Behavioural_Change_Resources/BEHAVIOURAL-EXPERIMENT-WORKSHEET-THINK-CBT-V-21.02.18.pdf)
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

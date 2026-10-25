@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/attention", "topic/emotion", "topic/compassion
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.13 — 13. Compassion-Focused Therapy (CFT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K383** — Safe Place with an affiliative welcome
 
 ### Protocol
@@ -54,8 +56,6 @@ What the source does not test: the book teaches the practice to therapists for c
 ## Sources
 
 - [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

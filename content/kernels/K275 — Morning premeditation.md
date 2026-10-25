@@ -32,8 +32,6 @@ What this evidence does not test: the morning rehearsal. The experiments tested 
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[S130 — Practise the discipline of speech|S130 Practise the discipline of speech]]

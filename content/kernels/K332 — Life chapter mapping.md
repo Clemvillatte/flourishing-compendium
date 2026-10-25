@@ -32,8 +32,6 @@ What this evidence does not test: the chapter map. The research distilled a seve
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E008 — Practise the structure of temporality|E008 Practise the structure of temporality]]

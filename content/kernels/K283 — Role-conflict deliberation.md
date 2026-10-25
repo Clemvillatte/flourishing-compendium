@@ -40,8 +40,6 @@ Aristotle's definition of the faculty doing the work: "practical wisdom, then, m
 - [Aristotle, Nicomachean Ethics, Book VI Chapter 5 (Ross translation)](https://www.aristotle-ethics.com/book/book-6/chapter/chapter-5/paragraph/paragraph-1-the-nature-and-role-of-practical-wisdom): verbatim passages on deliberating well about the good life in general and practical wisdom as a reasoned and true state of capacity to act.
 - [Liu, D., et al. (2025), "Work-family conflict and mental health: A systematic review and meta-analysis of longitudinal studies", PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005162): verbatim abstract; 112,714 participants, 52 studies, associations with depressive symptoms, burnout and distress, with the observational-design caveat.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[S010 — Practise oikeiosis — appropriate self-love|S010 Practise oikeiosis: appropriate self-love]]

@@ -40,8 +40,6 @@ The asymmetry the technique corrects is named and measured: people "displayed wi
 - [Grossmann, I., & Kross, E. (2014), "Exploring Solomon's Paradox: Self-Distancing Eliminates the Self-Other Asymmetry in Wise Reasoning About Close Relationships in Younger and Older Adults", Psychological Science 25(8): 1571-1580](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf): verbatim abstract; three experiments, N = 693, self-distancing eliminating the wise-reasoning asymmetry across age groups.
 - [Kross, E., & Ayduk, O. (2011), "Making Meaning Out of Negative Experiences by Self-Distancing", Current Directions in Psychological Science 20(3): 187-191](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf): verbatim passages on the fly-on-the-wall observer, the Tom example, and lower distress and rumination among spontaneous self-distancers.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

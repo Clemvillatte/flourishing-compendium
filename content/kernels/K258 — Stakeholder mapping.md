@@ -42,8 +42,6 @@ What this evidence does not test: neither study ran a stakeholder-mapping protoc
 
 Not applicable: the practice is a list on paper made before a decision, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

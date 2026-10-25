@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K268** — Preferred-indifferent hierarchy
 
 List the things being pursued, wealth, reputation, health, comfort, achievement, rank them, and then ask which have quietly become conditions of worth. The tool is the Stoic doctrine of preferred indifferents: externals are neither good nor bad for happiness, but some are naturally preferred and worth selecting ([Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)). Reach for it when the loss of a pursuit feels like the loss of oneself.
@@ -44,8 +46,6 @@ What this evidence does not test: the cited research did not evaluate a ranking 
 ### A guided version
 
 Not applicable: the practice is a list and a question, not a recording.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

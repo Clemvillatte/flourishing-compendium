@@ -30,8 +30,6 @@ Creative self-efficacy is "defined as the self-view 'that one has the ability to
 
 What the research does not cover: the study did not test weekly creative risks, and it did not test sharing unfinished work, so it leaves the sharing question open either way. Its finding on demands is about workplace requirements, a different thing: "Contrary to what was expected, employees who experienced increased requirements for creativity in their jobs actually reported a decreased sense of efficaciousness for creative work" (abstract). What tracked confidence in the study was identity and other people's expectations. The sharing mechanism is this practice's bet, untested by this study.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

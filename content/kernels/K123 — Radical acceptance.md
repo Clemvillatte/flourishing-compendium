@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/freedom"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-DBT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
+Practice: **Dialectical behaviour therapy (DBT)**
+
 > **Kernel K123** — Radical acceptance
 
 Accept the reality of a situation you cannot change, not as approval but as accurate acknowledgment. The skill comes from Marsha Linehan's Dialectical Behavior Therapy, where it is a distress tolerance skill with its own handout and steps. In Linehan's words, "Radical acceptance means acceptance totally, from the top to the bottom."
@@ -33,8 +35,6 @@ Linehan's own caution applies: "If someone says to you, 'Just accept it,' you ca
 The handout defines the skill: "Radical means all the way, complete and total. It is accepting in your mind, your heart, and your body. It's when you stop fighting reality, stop throwing tantrums because reality is not the way you want it, and let go of bitterness" ([Linehan, 2015](https://irp.cdn-website.com/3ac12d04/files/uploaded/dbt_distress_tolerance_reality_acceptance_handouts.pdf)). What has to be accepted: "Reality is as it is (the facts about the past and the present are the facts, even if you don't like them)"; "Everything has a cause"; "Life can be worth living even with painful events in it" (same handout). And the boundary: "Radical Acceptance Is Not: Approval, compassion, love, passivity, or against change" (same handout).
 
 What these documents do not establish: the handout teaches the skill and the interview explains it; neither tests the skill standing alone. The treatment it belongs to is tested as a package, and these sources do not separate this skill's own effect from the rest.
-
-> **Therapeutic approach: DBT**
 
 ## Operationalises
 

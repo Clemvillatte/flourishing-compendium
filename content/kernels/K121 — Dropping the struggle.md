@@ -32,8 +32,6 @@ What this evidence does not test: the general practice. The studies concern pers
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D055 — Don't force|D055 Don't force]]

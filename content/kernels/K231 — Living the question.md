@@ -41,8 +41,6 @@ Rilke's letter is the source of the instruction, and its psychological cousin is
 - [Rilke, R. M. (1903/1929), Letters to a Young Poet, Letter Four, 16 July 1903](https://www.alyve.org/english/docs/9.1/Rilke-Letters_to_a_Young_Poet.pdf): verbatim passage, "to be patient toward all that is unsolved in your heart... live along some distant day into the answer."
 - [Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006), "The Meaning in Life Questionnaire: Assessing the Presence of and Search for Meaning in Life", Journal of Counseling Psychology 53(1): 80-93](https://eric.ed.gov/?id=EJ734394): verbatim abstract; the search for meaning measured as a dimension distinct from the presence of meaning.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D001 — Align your life with the Dao|D001 Align your life with the Dao]]

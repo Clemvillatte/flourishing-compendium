@@ -41,8 +41,6 @@ The bystander research explains why the drill schedules the act rather than leav
 - [Latané, B., & Darley, J. M. (1968), "Group Inhibition of Bystander Intervention in Emergencies", Journal of Personality and Social Psychology 10(3): 215-221](https://ia800108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1037%252Fa0017364.zip&file=10.1037%252Fh0026570.pdf): verbatim abstract, the smoke-study percentages (75% alone, 10% with passive others, 38% of groups) and the interpretation finding.
 - [Banyard, V. L., Moynihan, M. M., & Plante, E. G. (2007), "Sexual Violence Prevention through Bystander Education: An Experimental Evaluation", Journal of Community Psychology 35(4)](https://eric.ed.gov/?id=EJ958176): 389 undergraduates randomized; treatment groups improved on attitudes, knowledge and behavior; effects persisted at 4- and 12-month follow-ups.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A011 — Practice courage (andreia)|A011 Practice courage (andreia)]]

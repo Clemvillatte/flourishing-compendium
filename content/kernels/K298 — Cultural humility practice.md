@@ -42,8 +42,6 @@ What this evidence does not test: the pooled contact-prejudice findings do not e
 
 Not applicable: the practice is engagement with others, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

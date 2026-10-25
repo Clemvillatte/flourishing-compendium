@@ -32,8 +32,6 @@ Kross et al. (2014), seven studies with a total of 585 participants, reported th
 
 What the research does not cover: neither paper tested this combined exercise. Kross et al. studied introspective self-talk around social stress, and the rephrasings in the first paragraph do not come from their materials. Lieberman et al. had participants choose labels for emotional pictures in a scanner; carrying that to rewording one's own self-judgments is an inference.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D016 — Distrust names and labels|D016 Distrust names and labels]]

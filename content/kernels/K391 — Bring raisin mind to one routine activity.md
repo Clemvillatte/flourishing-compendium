@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/attention", "topic/habit"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ATTENTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.01 — 1. Attention and Awareness", "parent": ""}
 ---
+Practice: **Mindfulness-based cognitive therapy (MBCT)**
+
 > **Kernel K391** — Bring raisin mind to one routine activity
 
 Choose one activity you do daily without thinking — brushing your teeth, showering, drinking your morning tea, taking out the rubbish, walking between rooms. For one week, do that activity each day with full attention. You do not have to slow it down, and you do not have to enjoy it. Just be fully awake to it as you do it.
@@ -44,8 +46,6 @@ What the sources do not test: this is a homework assignment inside MBCT, a progr
 ### A guided version
 
 The practice is a daily-life assignment; no recording is needed.
-
-> **Therapeutic approach: MBCT**
 
 ## Operationalises
 

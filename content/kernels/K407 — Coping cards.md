@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.14 — 14. Cognitive Intervention (CBT/Acceptance) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K407** — Coping cards
 
 When you have worked out a balanced response to a recurring distorted thought, in a journal, in a calm hour, with your full attention, write that response on a card small enough to carry. One thought, one card, in your own words.
@@ -49,8 +51,6 @@ What the sources do not test: the card is a delivery format for cognitive restru
 ### A guided version
 
 The cards are written and carried by the practicer; free printable templates are carried at [BehavioralTherapyTechniques.com](https://behavioraltherapytechniques.com/worksheets/coping-cards) and [Pabau](https://pabau.com/templates/coping-cards/).
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

@@ -32,8 +32,6 @@ In a study with twenty OCD patients and twenty healthy controls, "Distress after
 
 Self-led. The exercise needs only a pen, a slip of paper, and a pocket.
 
-> **Therapeutic approach: CBT**
-
 ## Operationalises
 
 - [[D087 — Hold identity lightly|D087 Hold identity lightly]]

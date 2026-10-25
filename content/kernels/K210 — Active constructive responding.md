@@ -28,8 +28,6 @@ The practice is drawn from the capitalization research: "two studies showed that
 
 Not applicable: the practice is a live response to another's news, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

@@ -27,8 +27,6 @@ In a preregistered multi-site study with 2,239 adults across 37 sites, mindful w
 
 A friendly guided session is [10 Minute Guided Walking Meditation, from Headspace](https://www.youtube.com/watch?v=cvmfhdLo8fI).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

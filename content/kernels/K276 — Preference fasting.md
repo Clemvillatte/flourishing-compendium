@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/desire"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.04 — 4. Desire, Preference, and Voluntary Discomfort", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K276** — Preference fasting
 
 For one week, abstain from one preferred indifferent: a streaming service, social media, a snack taken out of habit. The fast is not about the substance; it is a week of watching what the comfort was doing. The Stoic background is the doctrine of preferred indifferents: externals are worth selecting when circumstances allow, and worth releasing when they do not ([Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)). Reach for it when a small comfort has started arranging the day around itself.
@@ -42,8 +44,6 @@ This study recorded naturally occurring desires; it did not test abstention or w
 ### A guided version
 
 Not applicable: the practice is a week of abstention and notes, not a recording.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

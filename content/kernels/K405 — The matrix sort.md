@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.16 — 16. Acceptance and Commitment Therapy (ACT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.11 — 11. Inquiry, Experimentation, and Process", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K405** — The matrix sort
 
 Draw a large plus sign on a sheet of paper. The horizontal line divides what you do in the world of the five senses (above the line) from what happens inside you, thoughts, feelings, memories (below the line). The vertical line divides moves away from discomfort (left) from moves toward what matters to you (right).
@@ -49,8 +51,6 @@ What the sources do not test: the matrix is an ACT delivery format, whose effect
 ### A guided version
 
 The sort is drawn by hand; a free interactive version is carried at [Fabulous ACT Matrix](https://www.thefabulous.co/hz/act-matrix) and [Mentalyc ACT Matrix](https://www.mentalyc.com/therapy-games-and-tools/act-matrix).
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

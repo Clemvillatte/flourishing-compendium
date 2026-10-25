@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/action"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-BA"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
+Practice: **Behavioural activation (BA)**
+
 > **Kernel K174** — Behavioral activation
 
 Schedule one enjoyable activity and one meaningful activity per day, and do them whether or not you feel like it. The practice scales behavioral activation, a structured psychotherapy for depression, down to a daily habit. Its premise is the therapy's premise: action can precede motivation, and waiting for the feeling often means waiting forever. Reach for it when mood is low and the days have narrowed.
@@ -37,8 +39,6 @@ A guided recording exists: Greater Manchester Mental Health NHS Foundation Trust
 
 - **and habit formation** — Lally et al., 2010
 - **structure effects**
-
-> **Therapeutic approach: BA**
 
 ## Operationalises
 

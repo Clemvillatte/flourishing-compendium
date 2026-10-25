@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/freedom"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K117** — Graded exposure
 
 Create a list of avoided situations, ordered from least to most difficult. Enter the easiest, stay, move up gradually. The method descends from Joseph Wolpe's systematic desensitisation. Reach for it when avoidance has fenced off a piece of ordinary life. The self-help form suits ordinary fears; trauma or severe symptoms belong with a clinician.
@@ -29,8 +31,6 @@ A modern refinement revises the old habituation framing. The inhibitory-learning
 ### A guided version
 
 A guided module exists: the [TalkPlus Graded Exposure guide](https://www.talkplus.org.uk/wp-content/uploads/2023/12/Graded-Exposure.pdf) is a NHS Talking Therapies worksheet with its own [video module](https://www.talkplus.org.uk/graded-exposure-video-module) walking the steps: identify avoided activities, rank them by anxiety level, plan exposures on the four conditions (graded, prolonged, without distraction, repeated), and move up only when a step is comfortable.
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

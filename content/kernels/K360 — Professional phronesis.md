@@ -47,8 +47,6 @@ What the sources do not test: Schwartz's case is an essay, not an experiment; th
 
 The practice is a written reflection; no recording is needed.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

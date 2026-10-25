@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/meaning", "topic/death"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.11 — 11. Finitude, Tragedy, and Existential Meaning", "parent": ""}
 ---
+Practice: **Stoic-inspired practice**
+
 > **Kernel K320** — Values coherence check
 
 Monthly, review whether the way you are spending your time aligns with what you say you value. Where does your calendar contradict your stated priorities? The check is distinct from the Volume I meaning audit in that it targets the gap between stated values and lived values, not the felt quality of activities. The research version is the self-concordance model: goals are weighed by "their consistency with the person's developing interests and core values", and "those who attain self-concordant goals reap greater well-being benefits from their attainment" ([Sheldon and Elliot, Journal of Personality and Social Psychology 1999](https://www.scribd.com/document/904038670/sheldon-and-elliot-1999)). Dimensions: cognition (the calendar read against the list) and motivation (the energy that follows alignment).
@@ -39,8 +41,6 @@ Seneca's essay gives the classical form of the check: "it's not that we have a s
 
 - [Seneca (c. 49 AD), On the Shortness of Life, trans. Gareth Williams](https://archive.org/stream/SenecaOnTheShortnessOfLife/Seneca%20on%20the%20Shortness%20of%20Life_djvu.txt): verbatim passages on wasting life, making it short, and postponement as the greatest waste.
 - [Sheldon, K. M., & Elliot, A. J. (1999), "Goal Striving, Need Satisfaction, and Longitudinal Well-Being: The Self-Concordance Model", Journal of Personality and Social Psychology 76(3): 482-497](https://www.scribd.com/document/904038670/sheldon-and-elliot-1999): verbatim abstract; self-concordance defined as consistency with developing interests and core values, dual role in effort and well-being.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 - [[T013 — Seneca]]: the Letter 71 alignment-of-days-with-belief test the kernel's monthly retention echoes.

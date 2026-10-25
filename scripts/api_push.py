@@ -177,10 +177,23 @@ def main():
                     print(f"blobs {state['done']}/{len(payloads)}", flush=True)
             return {"path": f, "mode": "100644", "type": "blob", "sha": sha}
 
-        tree_items = [None] * len(payloads)
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
-            for i, res in enumerate(ex.map(upload, payloads)):
-                tree_items[i] = res
+        tree_items = []
+        if PROXY_AUTH:
+            # GitHub accepts UTF-8 contents directly in tree entries. Avoid
+            # hundreds of separate blob POSTs and proxy CONNECT rate limits.
+            for f, raw in payloads:
+                try:
+                    content = raw.decode("utf-8")
+                except UnicodeDecodeError:
+                    tree_items.append(upload((f, raw)))
+                else:
+                    item = {"path": f, "mode": "100644", "type": "blob"}
+                    sha = git_blob_sha(raw)
+                    item.update({"sha": sha} if sha in cache else {"content": content})
+                    tree_items.append(item)
+        else:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+                tree_items = list(ex.map(upload, payloads))
         save_cache(cache)
         if any(t is None for t in tree_items):
             print("some blobs failed; retrying", flush=True)
@@ -189,6 +202,10 @@ def main():
                             {"base_tree": base_tree, "tree": tree_items})
         if st != 201:
             print(f"tree failed {st}: {tree}", flush=True); time.sleep(3); continue
+        # Tree creation also materialises inline blobs. Reuse them if another
+        # worker advances main before our compare-and-swap ref update.
+        cache.update(git_blob_sha(raw) for _, raw in payloads)
+        save_cache(cache)
         msg = subprocess.check_output(
             ["git", "log", "-1", "--format=%B", head], text=True).strip()
         author = {
@@ -212,7 +229,7 @@ def main():
             subprocess.run(["git", "reset", "-q", "--hard", "origin/main"],
                            capture_output=True)
             return 0
-        print(f"ref update raced ({st}); retrying")
+        print(f"ref update failed ({st}): {upd}; retrying")
         time.sleep(2)
     print("TIMED OUT")
     return 1

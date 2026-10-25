@@ -30,8 +30,6 @@ This exercise has real recordings, the normal way to learn the order of the grou
 
 A systematic review of 46 publications from 16 countries covering more than 3402 adults concluded that "The results show that PMR are effective in reducing stress, anxiety, and depression in adults," and that "the efficacy of PMR is heightened when implemented in conjunction with other interventions, surpassing its standalone efficacy" ([Muhammad Khir et al., 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10844009/)). What the review does not establish: it is a review of heterogeneous studies, many with healthcare workers, and does not isolate dosage, timing, or order. The five-second hold is a script convention, not a tested parameter.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]]

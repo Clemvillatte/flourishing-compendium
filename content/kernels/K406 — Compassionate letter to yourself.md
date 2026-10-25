@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/emotion", "topic/compassion"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.13 — 13. Compassion-Focused Therapy (CFT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K406** — Compassionate letter to yourself
 
 Write a letter to yourself about a difficulty you are carrying — written from the perspective of someone who understands your circumstances and wants to help: someone with kindness, patience, and courage to spare. Acknowledge what hurts. Include why your response makes sense given what you have lived through. Include, plainly, what would help.
@@ -36,8 +38,6 @@ The book's rationale for the format:
 > "this exercise produces a product—the compassionate letter—that can be read again and again in those moments when the client needs compassionate support, encouragement, and coaching." — Kolts, CFT Made Simple, ch. 9, p. 124 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 Kolts grounds the exercise in clinical rationale and the Gilbert (2009, 2010) works he names; he cites no trial of the letter exercise itself.
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

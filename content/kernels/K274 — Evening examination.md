@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K274** — Evening examination
 
 Each evening, review the day through three questions: What did I do well? Where did I drift from my principles? What will I do differently tomorrow? The practice is the Stoic evening meditation (Seneca's evening review). It functions as a daily feedback loop, not as self-criticism. Research on self-reflection shows that structured review improves performance and well-being when it is specific and forward-looking rather than ruminative.
@@ -31,8 +33,6 @@ What this evidence does not test: the Stoic form. In the trial, 95 undergraduate
 ### A guided version
 
 No guided version is supplied here.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 - [[T013 — Seneca]]: the On Anger 3.36 nightly review the kernel's three questions descend from.

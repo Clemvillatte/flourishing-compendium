@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/attention", "topic/emotion"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ATTENTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.01 — 1. Attention and Awareness", "parent": ""}
 ---
+Practice: **Mindfulness-based cognitive therapy (MBCT)**
+
 > **Kernel K392** — The Three-minute Breathing Space
 
 A three-step mini-meditation you can run in three minutes, one minute, or ten seconds. Step 1, become aware: adopt an erect, dignified posture. Ask: what thoughts are going through the mind? What feelings are here? What body sensations? Acknowledge them without trying to change them. Step 2, gather: narrow attention onto the breath. Ride the in-breath, ride the out-breath. Step 3, expand: widen awareness to the body as a whole — the posture, the face, the shoulders, the whole body breathing. Use it twice a day at set times, and whenever you feel under pressure.
@@ -45,8 +47,6 @@ What the sources do not test: the exercise is one component of MBCT, whose progr
 ### A guided version
 
 Free guided audio of the practice is carried in the MBCT tradition's Routledge recordings ([Segal, Williams, Teasdale, MBCT 2nd ed. companion audio](https://www.routledge.com/Mindfulness-Based-Cognitive-Therapy-for-Depression-Second-Edition/Segal-Williams-Teasdale/p/book/9781462537037)) and in public libraries such as [Insight Timer](https://insighttimer.com/mikejbouck/guided-meditations/ehs-number-3-3-minute-breathing-space).
-
-> **Therapeutic approach: MBCT**
 
 ## Operationalises
 

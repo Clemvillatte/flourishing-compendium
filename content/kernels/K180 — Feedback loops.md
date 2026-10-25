@@ -33,8 +33,6 @@ What this evidence does not test: the personal practice. The theory concerns org
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

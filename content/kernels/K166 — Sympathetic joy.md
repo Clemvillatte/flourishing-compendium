@@ -28,8 +28,6 @@ The practice is the Buddhist brahmavihāra of muditā, defined as "sympathetic j
 
 Not applicable: the practice is a sentence said to oneself on seeing another's success, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

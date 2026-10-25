@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/relationships", "topic/suffering"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-SOCIAL"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.09 — 9. Social and Relational", "parent": ""}
 ---
+Practice: **Trauma-informed practice**
+
 > **Kernel K374** — "What happened to you?" not "What's wrong with you?"
 
 ### Protocol
@@ -48,8 +50,6 @@ What the sources do not test: these passages describe the paradigm, not an evalu
 ## Sources
 
 - [Wikipedia — Trauma-informed care](https://en.wikipedia.org/wiki/Trauma-informed_care)
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

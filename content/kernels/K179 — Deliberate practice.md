@@ -51,8 +51,6 @@ The original studies of violinists and pianists concluded that "individual diffe
 - [Ericsson, K. A., Krampe, R. Th., & Tesch-Römer, C. (1993), "The Role of Deliberate Practice in the Acquisition of Expert Performance", Psychological Review 100(3): 363-406](https://clinica.ispa.pt/sites/default/files/1_-_the_role_of_deliberate_practice_in_the_acquisition_of_expert_performance_3.pdf): verbatim definition, conditions including immediate informative feedback, and the individual-differences finding.
 - [Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014), "Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis", Psychological Science 25(8): 1608-1618](https://www.psychologie.uzh.ch/dam/jcr:658d39fe-2f4b-467f-9ae2-ffeb25caf2b6/McNamara.PsychSci.25.2014.pdf): 88 studies, 11,135 participants; variance explained by domain, with the not-as-important conclusion.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D072 — Learn by doing, not only by reading|D072 Learn by doing, not only by reading]]

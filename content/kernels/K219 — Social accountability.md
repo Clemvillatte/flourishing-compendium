@@ -28,8 +28,6 @@ In the study, 267 participants from businesses and networking groups were recrui
 
 Not applicable: the practice is a standing appointment with a person, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

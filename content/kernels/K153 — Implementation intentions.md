@@ -39,8 +39,6 @@ What this evidence does not test: the breath or the intention. In the study, 114
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D059 — Do the difficult while it is easy|D059 Do the difficult while it is easy]]

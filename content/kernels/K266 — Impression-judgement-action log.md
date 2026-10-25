@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/action"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K266** — Impression-judgement-action log
 
 Keep a three-column log for one week: the impression, the judgement, the action. Column one records what appeared to happen; column two, the interpretation given to it; column three, what was done. The training target is Stoic: the gap between event, interpretation and response that Epictetus puts at the root of disturbance ([Enchiridion V, Higginson translation](https://www.gutenberg.org/cache/epub/45109/pg45109.txt)). Reach for it when reactions keep outrunning events.
@@ -42,8 +44,6 @@ What this evidence does not test: the cited research did not evaluate a three-co
 ### A guided version
 
 Not applicable: the practice is a ruled page and a week of entries, not a recording.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 - [[T011 — Socrates]]: the source of the Enchiridion quote the page's log runs on.

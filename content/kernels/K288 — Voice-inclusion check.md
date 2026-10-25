@@ -40,8 +40,6 @@ The experimental base is quoted above: 179 participants in the voice study (Lind
 - [Lind, E. A., Kanfer, R., & Earley, P. C. (1990), "Voice, control, and procedural justice: Instrumental and noninstrumental concerns in fairness judgments", Journal of Personality and Social Psychology (PDF)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Justice/Lind_et_al_1990_Voice_control.pdf): 179 participants, predecision voice result quoted verbatim.
 - [Tyler, T. R. (2007-08), "Procedural Justice and the Courts", Court Review 44, 26-31 (UNC School of Government PDF)](https://www.sog.unc.edu/sites/default/files/course_materials/Procedural%20Justice%20in%20the%20Courts%20-%20Tyler.pdf): voice principle quoted verbatim.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

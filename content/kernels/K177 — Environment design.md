@@ -32,8 +32,6 @@ What this evidence does not test: the home redesign. The experiments assigned st
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D024 — Guard your senses from overload|D024 Guard your senses from overload]]

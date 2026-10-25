@@ -28,8 +28,6 @@ Honest framing first: no randomised trial has tested the 5-4-3-2-1 sequence itse
 
 A free, high-quality guided session in the same spirit is the [Breath, Sound, Body Meditation (12 minutes) from UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations), recorded by Diana Winston, director of mindfulness education at UCLA's Mindful Awareness Research Center; the page offers many guided practices in multiple languages.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D044 — Let the mud settle|D044 Let the mud settle]]

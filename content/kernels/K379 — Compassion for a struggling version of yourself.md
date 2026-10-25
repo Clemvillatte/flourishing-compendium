@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/emotion", "topic/compassion", "topic/identity"
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.13 — 13. Compassion-Focused Therapy (CFT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K379** — Compassion for a struggling version of yourself
 
 After settling into your Compassionate Self (see K378; thirty seconds or so of soothing-rhythm breathing, then the qualities of kindness, wisdom, confidence, and courage), bring to mind a specific situation where a struggling version of you is present: a moment when you were anxious, ashamed, or afraid.
@@ -47,8 +49,6 @@ The therapy family this exercise comes from targets high shame and self-criticis
 A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description:
 
 > "In this exercise you'll be guided on practicing self-compassion, through a time you were struggling." — [Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/), [archived copy](https://web.archive.org/web/2024/https://balancedminds.com/compassion-focused-therapy-audio/)
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/meaning"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K149** — Values clarification
 
 Write your current answer to: "What do I want my life to stand for?" in three to five domains (work, relationships, body, growth, community). Write values as directions, not goals: "being a present parent," not "get kids into good schools." The measurement tradition behind the exercise is the Valued Living Questionnaire, which rates the importance and the recent-action consistency of ten life domains, and the theory behind that instrument is ACT's: "Among these is acceptance and commitment therapy (ACT), which posits valued living as one of its primary core processes" ([Wilson et al. 2010](https://link.springer.com/content/pdf/10.1007/BF03395706.pdf)). The self-determination tradition adds the second axis: "in SDT, three psychological needs—for competence, relatedness, and autonomy—are considered essential for understanding the what (i.e., content) and why (i.e., process) of goal pursuits" ([Deci & Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)), so the clarification asks both what you value and why, whether the value is yours or borrowed pressure.
@@ -44,8 +46,6 @@ The instrument is described by its authors: "the Valued Living Questionnaire (VL
 
 - [Wilson, K. G., Sandoz, E. K., Kitchens, J., & Roberts, M. (2010), "The Valued Living Questionnaire: Defining and Measuring Valued Action within a Behavioral Framework", The Psychological Record 60, 249-272 (PDF)](https://link.springer.com/content/pdf/10.1007/BF03395706.pdf): abstract quoted verbatim.
 - [Deci, E. L., & Ryan, R. M. (2000), "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", Psychological Inquiry 11(4), 227-268 (PDF)](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf): abstract quoted verbatim.
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

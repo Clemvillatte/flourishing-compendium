@@ -37,8 +37,6 @@ What this evidence does not test: the four positions. In three randomized studie
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D081 — Recognize the relativity of perspectives|D081 Recognize the relativity of perspectives]]

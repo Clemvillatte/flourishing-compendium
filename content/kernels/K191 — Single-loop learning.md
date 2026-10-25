@@ -28,8 +28,6 @@ The term comes from Argyris and Schön's theory of organizational learning: "whe
 
 Not applicable: the practice is a correction made in the course of acting, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D073 — Don't over-plan — act from presence|D073 Don't over-plan: act from presence]]

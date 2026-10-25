@@ -28,8 +28,6 @@ The physiological ground for not matching escalation is Gottman's concept of flo
 
 Not applicable: the practice is a live response to provocation, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D068 — Yield in conflict to remain whole|D068 Yield in conflict to remain whole]]

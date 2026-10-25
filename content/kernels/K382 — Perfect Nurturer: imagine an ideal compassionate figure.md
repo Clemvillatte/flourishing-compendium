@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/compassion", "topic/attention", "topic/identit
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.13 — 13. Compassion-Focused Therapy (CFT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K382** — Perfect Nurturer: imagine an ideal compassionate figure
 
 Sit quietly with the breathing from K378 (slow, comfortable rhythm). Now imagine a being (human or not) who fully understands you, accepts you as you are, and wishes the very best for you. Someone (or something) who would never judge or ridicule you.
@@ -39,8 +41,6 @@ Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 11, "Using Compass
 ### Evidence
 
 Kolts presents the perfect nurturer as an imagery practice for self-critical clients, paired with the safe place exercise (K383) in the same chapter; the dialogue example shows a client whose image resolved into her own future self, which the therapist treats as a welcome development rather than an error. The practice's rationale (self-soothing through an affiliative image) rests on Lee (2005) as cited by Kolts; Lee's original paper was cited at second hand, and Kolts cites no trial for the exercise itself.
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

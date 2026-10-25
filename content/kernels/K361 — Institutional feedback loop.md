@@ -40,8 +40,6 @@ The suppression mechanism is documented in Argyris's case material: middle manag
 - [Argyris, C. (1977), "Double Loop Learning in Organizations", Harvard Business Review 55(5): 115-125](https://cmapspublic3.ihmc.us/rid=1NT8Y36L7-185BXTZ-1GHR/double-loop-learning-in-organizations%20Argylis.pdf): verbatim passages on the inability to uncover unpleasant truths, the thermostat and double loop learning, and the softened-memo case.
 - [Edmondson, A. (1999), "Psychological Safety and Learning Behavior in Work Teams", Administrative Science Quarterly 44(2): 350-383](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Organizational_Learning_and_Change/Edmondson_1999_Psychological_safety.pdf): verbatim abstract; psychological safety defined, 51 work teams, safety associated with learning behavior and mediating performance.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

@@ -27,8 +27,6 @@ The laboratory analogue of noting is affect labeling: naming the emotion shown i
 
 A clear beginner session in the Mahasi style, which originated this technique, is [Noting Meditation for Beginners, 20 Minutes, by Embodied Mindfulness with Rob Phillips](https://www.youtube.com/watch?v=fd_-W0LW-a4).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D050 — Keep a mirror-mind|D050 Keep a mirror-mind]]

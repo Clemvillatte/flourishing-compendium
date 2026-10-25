@@ -1,3 +1,15 @@
+## OWNER CORRECTION 2026-10-25 14:34Z (gm-c2183cca, supervisor)
+
+Supersedes the modality-display instructions below. The owner rejected the
+large red footer callout and the meaningless "Therapeutic approach: general".
+Use a small, unboxed origin line directly above the opening quote area.
+Name a specific therapy or practice tradition only when supported; omit
+unclassified labels. K136 is a Buddhist-inspired adaptation of MN 22.
+Do not infer a therapy from a navigation folder or force all practices
+into a therapeutic taxonomy. Supervisor is implementing this display repair
+and the owner-supplied Meaning & Mortality artwork; incoming workers should
+continue their own lanes without duplicating these edits.
+
 ## OWNER WORK ORDER 2026-10-25 ~13:00Z (kernels reorganization — gm-pplx-1025b, next worker take this)
 
 Owner direction (verbatim intent, paraphrased): kernels are a mess — one big

@@ -28,8 +28,6 @@ The practice is the expressive-writing paradigm of Pennebaker and colleagues. In
 
 Not applicable: the writing is itself the practice; a recording would add nothing and the standard paradigm is unsupervised.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D037 — Empty the heart-mind (xuxin)|D037 Empty the heart-mind (xuxin)]]

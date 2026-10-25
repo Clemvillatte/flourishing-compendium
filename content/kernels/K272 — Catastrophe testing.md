@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K272** — Catastrophe testing
 
 When a feared outcome looms, ask the Stoic questions: is this really terrible? Has anyone endured worse? Will this matter in a year? In ten years? Cognitive therapy gives the same move a working name. Decatastrophizing "involves the identification of the 'worst-case scenario' associated with an anxious concern, the evaluation of the likelihood of this scenario, and then the construction of a more likely moderate distressing outcome" (Clark and Beck 2010, quoted in [Robertson 2024](https://donaldrobertson.substack.com/p/how-to-stop-catastrophizing)). The exercise restores proportion by testing the inflated probability and severity of feared outcomes, and it moves two dimensions: cognition (a written test of the appraisal) and affect (the anxiety the imagery provokes).
@@ -43,8 +45,6 @@ Beck's method, as summarized by the psychotherapist and Stoicism writer Donald R
 - [Robertson, D. (2024), "How to Stop Catastrophizing"](https://donaldrobertson.substack.com/p/how-to-stop-catastrophizing): verbatim Clark and Beck (2010) definition of decatastrophizing, Beck et al. method description, and the Stoic connections (premeditation, dichotomy of control, cognitive distancing).
 - [Wilson, T. D., & Gilbert, D. T., "Affective Forecasting"](https://greatergood.berkeley.edu/images/uploads/Wilson-Affective_Forecasting.pdf): verbatim definitions of impact bias and durability bias and the statement that impact bias is the most prevalent forecasting error.
 - Clark, D. A., & Beck, A. T. (2010), Cognitive Therapy of Anxiety Disorders, Guilford Press, and Beck et al. (2005), Anxiety Disorders and Phobias: A Cognitive Perspective: cited at second hand through Robertson's article.
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

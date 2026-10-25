@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/desire"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.04 — 4. Desire, Preference, and Voluntary Discomfort", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K277** — Comfort recalibration
 
 Deliberately introduce small discomforts into a routine: a cold shower, a skipped meal, a day without entertainment, a walk in the rain. The practice is old; Seneca assigns it to Lucilius as a lesson, and the modern relative is stress inoculation training, which gives people experience with minor stressors ([Meichenbaum](http://brown.uk.com/anxiety/stress-inoculation.pdf)). Reach for it when comfort has grown fragile, when small deprivations feel like crises.
@@ -51,8 +53,6 @@ What this evidence does not test: the cited work is an overview of a clinician-d
 ### A guided version
 
 Not applicable: the practice is a chosen discomfort and a question, not a recording.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 - [[T013 — Seneca]]: the Letter 18 practice of days with inexpensive food behind deliberate discomfort.

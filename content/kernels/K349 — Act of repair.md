@@ -32,8 +32,6 @@ What this evidence does not test: the monthly act. The experiment asked undergra
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[R011 — Practise harmony|R011 Practise harmony]]

@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.16 — 16. Acceptance and Commitment Therapy (ACT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K401** — Sing the thought, or say it in a silly voice
 
 Choose a familiar, manageable self-critical thought, one you have already examined at least once, not a fresh wound. Say it once normally. Then sing it to a well-known tune, or say it in an exaggerated character voice: a cartoon mouse, a film superhero.
@@ -53,8 +55,6 @@ What the sources do not test: the exercise is a single defusion technique inside
 ### A guided version
 
 The exercise is spoken or sung by the practicer; no recording is needed.
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

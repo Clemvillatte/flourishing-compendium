@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/decision", "topic/motivation"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K372** — The decisional-balance caution
 
 "Weigh the pros and cons" sounds neutral and wise. But there's a case where it doesn't help: when you've *already* decided you want to change and you're ambivalent about following through. In that case, an equal list of reasons-for and reasons-against strengthens the ambivalence — you end up with a balanced scale and no movement.
@@ -26,8 +28,6 @@ Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 6, p.
 2. If already decided: explore the reasons-for, without suppressing real risks or uncertainty. Do not build a full four-square balance sheet for a decision already made.
 3. If genuinely undecided: build the full balance sheet, giving all four squares equal attention, so that whichever choice you make is one you can stand behind.
 4. If you are helping someone: check your own investment. The more you want a particular outcome, the more carefully you stay neutral.
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

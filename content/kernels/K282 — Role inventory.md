@@ -40,8 +40,6 @@ The role-enhancement finding behind the claim: "results of hierarchical regressi
 - [Cicero, De Officiis (44 BC), trans. Walter Miller, Book I sections 107 and 115](https://www.gutenberg.org/files/47001/47001-h/47001-h.htm): verbatim passages on the four characters or personae.
 - [Ahrens, C. C., & Ryff, C. D. (2006), "Multiple Roles and Well-being: Sociodemographic and Psychological Moderators", Psychology and Health 21(6): 717-732](https://www.midus.wisc.edu/findings/pdfs/780.pdf): verbatim findings; 2,634 MIDUS participants, up to eight roles, role enhancement supported with the educated-women-autonomy caveat, quoting Thoits 1983 on role requirements and purpose.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[S010 — Practise oikeiosis — appropriate self-love|S010 Practise oikeiosis: appropriate self-love]]

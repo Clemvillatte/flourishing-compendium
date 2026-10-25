@@ -42,8 +42,6 @@ What this evidence does not test: the review concerns nutritional outcomes in ch
 
 Not applicable: the practice is a shared meal, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A063 — Recognise that friendship is necessary for flourishing|A063 Recognise that friendship is necessary for flourishing]]

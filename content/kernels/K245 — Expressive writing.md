@@ -27,8 +27,6 @@ A meta-analysis of 146 randomised studies of experimental disclosure found that 
 
 The method, explained and demonstrated by its developer, is [The Expressive Writing Method, by James Pennebaker](https://www.youtube.com/watch?v=XsHIV9PxAV4).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D037 — Empty the heart-mind (xuxin)|D037 Empty the heart-mind (xuxin)]]

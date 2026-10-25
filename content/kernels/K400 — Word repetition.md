@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.16 — 16. Acceptance and Commitment Therapy (ACT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K400** — Word repetition
 
 ### Protocol
@@ -27,8 +29,6 @@ In the original study, eight undergraduates used alternating-treatment designs t
 ### A guided version
 
 A tidy three-minute walkthrough, part of a larger library of ACT exercises, is [Milk, Milk, Milk from the ACT Toolkit](https://www.acttoolkit.com/).
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

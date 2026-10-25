@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/habit", "topic/attention"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-HABIT"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.07 — 7. Behavioral Activation and Habit", "parent": ""}
 ---
+Practice: **Mindfulness-based cognitive therapy (MBCT)**
+
 > **Kernel K393** — The Habit Releaser
 
 Once this week, deliberately break a small habit. Change chairs — notice which chair you always sit in at home, at work, in a café, and choose a different one. Take a different route to work. Sit in a different part of the room. Notice how much of your life runs on autopilot, and how much perception sharpens when the pattern is broken.
@@ -46,8 +48,6 @@ What the sources do not test: the exercise is an attention-freshening device ins
 ### A guided version
 
 The practice is a small act; no recording is needed.
-
-> **Therapeutic approach: MBCT**
 
 ## Operationalises
 

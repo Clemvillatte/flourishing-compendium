@@ -28,8 +28,6 @@ In the Iowa City program, "residents were told that the results of the study wou
 
 Not applicable: a public commitment is a declaration made to people, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

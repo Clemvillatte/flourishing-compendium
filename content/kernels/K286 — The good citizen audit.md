@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/ethics"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.05 — 5. Role Ethics and Duty", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K286** — The good citizen audit
 
 Once a month, review civic participation: whether the vote was cast, whether the community received a contribution, whether the issues affecting others were followed, whether public spaces and services were treated with respect. The ideal behind the audit is [[T014 — Marcus Aurelius|Marcus Aurelius]]'s happy citizen, whose study and practice are for the good of the fellow citizens ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). Reach for it when citizenship has become something watched rather than practiced.
@@ -43,8 +45,6 @@ What this evidence does not test: the cited research is an observational panel, 
 ### A guided version
 
 Not applicable: the practice is a monthly self-review, not a recording.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

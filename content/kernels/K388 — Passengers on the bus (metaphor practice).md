@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition", "topic/action"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ACCEPTANCE"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.14 — 14. Cognitive Intervention (CBT/Acceptance) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.02 — 2. Acceptance and Willingness", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K388** — Passengers on the bus
 
 Suppose there is a bus and you're the driver. On this bus we've got a bunch of passengers. The passengers are thoughts, feelings, bodily states, memories, and other aspects of experience. Some of them are scary, and they're dressed up in black leather jackets and they have switchblade knives. What happens is that you're driving along and the passengers start threatening you, telling you what you have to do, where you have to go. ([Hayes, Strosahl & Wilson 1999, pp. 157–158, quoted in [Morris 2013, UNC PDF](https://www.med.unc.edu/psych/epi-nc/wp-content/uploads/sites/720/2025/12/Acceptance-and-Commitment-Therapy-and-Mindfulness-for-Psychosis-2013-Morris-Passengers%E2%80%90on%E2%80%90the%E2%80%90Bus-Metaphor.pdf)])
@@ -49,8 +51,6 @@ What the sources do not test: the metaphor is an experiential ACT exercise, not 
 ### A guided version
 
 Free audio guided exercises built on the metaphor are available from ACT practitioners; a written version is carried in Morris (2013) at the link above.
-
-> **Therapeutic approach: CBT, ACT**
 
 ## Operationalises
 

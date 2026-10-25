@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/motivation", "topic/relationships"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K369** — The autonomy statement
 
 When someone is ambivalent about a change (or when you're coaching yourself), try saying the autonomy statement out loud: "It's your call. You're the one who gets to decide." Said to a friend, it makes explicit that the decision is theirs. Said to yourself, it does the same for your own inner voice.
@@ -38,8 +40,6 @@ And where the book grounds the stance:
 The reactance passage quoted on K368 is this book's continuation of the same paragraph.
 
 What the sources do not test: the quoted passages explain autonomy support; they do not establish the effect of this exact script or its use as self-talk.
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

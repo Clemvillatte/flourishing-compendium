@@ -33,8 +33,6 @@ What this evidence does not test: the four-step script as a boundary tool in ord
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D035 — Live within your ecosystem's bounds|D035 Live within your ecosystem's bounds]]

@@ -28,8 +28,6 @@ The construct is Linville's: "the Stress X Self-Complexity interaction provided 
 
 Not applicable: the practice is writing a list of one's own aspects, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D087 — Hold identity lightly|D087 Hold identity lightly]]

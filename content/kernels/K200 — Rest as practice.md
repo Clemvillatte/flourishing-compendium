@@ -37,8 +37,6 @@ The guilt this kernel names has a philosophical witness, in the essay that argue
 
 The practice needs no recording; the block is the practice. A guided body-rest version exists next door in [[K409 — Non-sleep deep rest (NSDR)]], for days when lying still needs a voice.
 
-> **Therapeutic approach: CBT**
-
 ## Operationalises
 
 - [[D039 — Make rest the root of activity|D039 Make rest the root of activity]]

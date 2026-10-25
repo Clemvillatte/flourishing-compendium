@@ -37,8 +37,6 @@ The same abstract records the theory's limit: reasoning "motivated" by the wish 
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]], [[B065 — Guard the mind at the source (mind precedes all)|B065 Guard the mind at the source (mind precedes all)]], [[P026 — Make inquiry communal|P026 Make inquiry communal]]

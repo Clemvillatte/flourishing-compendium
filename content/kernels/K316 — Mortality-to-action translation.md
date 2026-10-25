@@ -32,8 +32,6 @@ What this evidence does not test: the practice. In the experiment, imagining one
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

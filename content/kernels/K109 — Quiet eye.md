@@ -28,8 +28,6 @@ The core empirical finding, in Vickers' own summary: "The duration of the quiet 
 
 Not applicable as a recording: the practice is a fixation held inside a live action.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D070 — Let stillness precede mastery|D070 Let stillness precede mastery]]

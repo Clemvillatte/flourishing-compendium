@@ -42,8 +42,6 @@ A field experiment found greater happiness after a time-saving purchase than aft
 
 The block needs no recording. An optional guided alternative: Tara Brach's [Letting Go of Doing](https://www.tarabrach.com/meditation-letting-go-doing-2/) (21:17, her official site; also on [her YouTube channel](https://www.youtube.com/watch?v=SI0lGXx2cs4)) begins with a body scan and then drops the doing.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D009 — Trust emptiness — space is what works|D009 Trust emptiness: space is what works]]

@@ -46,8 +46,6 @@ The [Choice Point worksheet](https://static1.squarespace.com/static/651105c838c0
 - [Kashdan, T. B., & Rottenberg, J. (2010), "Psychological flexibility as a fundamental aspect of health", Clinical Psychology Review 30(7), 865–878 (PMC2998793)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)
 - [The Choice Point Worksheet (based on Russ Harris's ACT tool)](https://static1.squarespace.com/static/651105c838c0f658bdb86cd8/t/685dfa7e967e7f20b45f0018/1750989439354/Choice+Point+Worksheet_FM.pdf)
 
-> **Therapeutic approach: ACT**
-
 ## Operationalises
 
 - [[E007 — Practise eidetic seeing|E007 Practise eidetic seeing]]

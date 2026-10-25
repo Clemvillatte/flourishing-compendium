@@ -37,8 +37,6 @@ What this evidence does not test: the audit as a practice. The Visuddhimagga is 
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

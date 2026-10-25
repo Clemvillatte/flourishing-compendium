@@ -41,8 +41,6 @@ What the studies do not test: neither paper evaluated the letter-writing exercis
 
 The practice is writing rather than listening; no recording is needed.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E011 — Practise phenomenological description|E011 Practise phenomenological description]]

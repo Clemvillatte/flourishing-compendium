@@ -28,8 +28,6 @@ Across a research programme of lab experiments and field studies, being listened
 
 Not applicable: the practice is listening to a live person, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]]

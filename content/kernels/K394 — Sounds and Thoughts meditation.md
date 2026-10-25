@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/attention", "topic/mind"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MB"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-ATTENTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.15 — 15. Mindfulness (MBCT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.01 — 1. Attention and Awareness", "parent": ""}
 ---
+Practice: **Mindfulness-based cognitive therapy (MBCT)**
+
 > **Kernel K394** — Sounds and Thoughts meditation
 
 Sit comfortably. First, rest on the breath for a few minutes. Then open to sounds — near, far, in front, behind. Do not search for sounds; just receive them as they arise. Notice the tendency to label each sound and, below the label, return to the raw sensation of the sound itself. After four or five minutes, shift the same stance to thoughts: see thoughts as events in the mind, arising, lingering, and passing away — like clouds moving across a spacious sky. Do not try to make them come or go.
@@ -49,8 +51,6 @@ What the sources do not test: the exercise is one component of the book's eight-
 ### A guided version
 
 The book's own guided audio track is available from the authors' website at the [Free Meditations from Mindfulness page](https://franticworld.com/free-meditations-from-mindfulness/), and the same recording is published as "Meditation 5 – Sounds And Thoughts" by Hachette Audio UK ([SoundCloud](https://soundcloud.com/hachetteaudiouk/sets/mindfulness-a-practical-guide-to-finding-peace-in-a-frantic-world)).
-
-> **Therapeutic approach: MBCT**
 
 ## Operationalises
 

@@ -37,8 +37,6 @@ What this evidence does not test: the weekly scan as an intervention. The Daodej
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D059 — Do the difficult while it is easy|D059 Do the difficult while it is easy]]

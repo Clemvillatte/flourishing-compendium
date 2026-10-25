@@ -32,8 +32,6 @@ What this evidence does not test: your assumptions. The concept comes from organ
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D073 — Don't over-plan — act from presence|D073 Don't over-plan: act from presence]]

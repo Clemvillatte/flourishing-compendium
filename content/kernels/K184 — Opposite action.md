@@ -32,8 +32,6 @@ What this evidence does not test: everyday practice. Sixteen individuals with bo
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D068 — Yield in conflict to remain whole|D068 Yield in conflict to remain whole]]

@@ -35,8 +35,6 @@ What the studies do not test: the meta-analysis concerns observers' accuracy for
 
 The [VIA Character Strengths 360 tool](https://www.viacharacter.org/pdf/VIA_Character_Strengths_360_Downloadable.pdf) is the loop as a printed form: distribute it to ten or more people across the domains of your life, have each select the strengths that most strongly describe you with a concrete example or story for each, then look for common themes, blind spots (strengths others see that you do not), and opportunities (strengths you claim that others do not).
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A004 — Become virtuous by doing virtuous acts|A004 Become virtuous by doing virtuous acts]]

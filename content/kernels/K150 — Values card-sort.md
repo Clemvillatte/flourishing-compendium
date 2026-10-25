@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/meaning"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K150** — Values card-sort
 
 A deck of values written on cards, sorted into piles by importance, until the top ten stand out. The instrument is the Personal Values Card Sort of William R. Miller and colleagues at the University of New Mexico (2001), a free tool from the motivational interviewing tradition. It suits the seasons when the day's allocations and the stated priorities have drifted apart and the person sorting cannot say exactly when.
@@ -36,8 +38,6 @@ What this evidence does not test: the card sort as a standalone intervention. Th
 ### A guided version
 
 No guided version is supplied here.
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

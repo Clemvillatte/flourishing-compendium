@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/motivation", "topic/communication"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-MI"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.12 — 12. Motivational Interviewing Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Motivational interviewing (MI)**
+
 > **Kernel K367** — The "Yes, but" flip
 
 Notice when your own change-talk gets cancelled by a "but": "I really want to work out regularly, but I am so busy." Drapkin calls these "Yes, but's" — you give yourself some change talk and then snatch it back.
@@ -50,8 +52,6 @@ A SAMHSA training handout shows the same joining in practice. The clinician refl
 The rewrite keeps both sides of the ambivalence in the sentence. The MI findings quoted here do not establish its effect on behavior.
 
 What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and the sources opened here do not evaluate it. The move's MI-tradition form is carried in published MI training materials (see the All Rise MI Toolkit quote above), and no trial cited on this page isolates the flip as an intervention.
-
-> **Therapeutic approach: MI**
 
 ## Operationalises
 

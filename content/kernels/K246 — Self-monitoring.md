@@ -41,8 +41,6 @@ What this evidence does not test: the no-goal form. The review documents reactiv
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

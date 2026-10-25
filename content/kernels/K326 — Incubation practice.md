@@ -34,8 +34,6 @@ What this evidence does not test: the mechanism. The review's authors offer diff
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

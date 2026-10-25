@@ -35,8 +35,6 @@ What the studies do not test: the research concerns self-reported goal contents 
 
 No official recording exists. A worked guide does: the Universal Human Values course's [Practice Session 3, List of Desires](https://uhv.org.in/UHV-II%20Course%20Material%202024/PS%203%20List%20of%20Desires%20v2.pdf) is a step-by-step worksheet that has you list your desires, thoughts and expectations, then categorise each as a need of the self or a need of the body, and by its source of motivation (preconditioning, sensation, or natural acceptance), with worked examples like a house kept for protection versus a house kept to show others.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[S006 — Remember that you are a citizen of the cosmos|S006 Remember that you are a citizen of the cosmos]]

@@ -40,8 +40,6 @@ The philosophical anchor, verbatim: "as projecting, understanding is the kind of
 - [Heidegger, M. (1962), Being and Time, trans. Macquarrie and Robinson, p. 185](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.185.html): verbatim passages on projection as Dasein's way of being rather than a plan it follows.
 - [Ryff, C. D. (1989), "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being", Journal of Personality and Social Psychology 57(6): 1069-1081](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf): verbatim six-dimension operationalization and the purpose-in-life definition.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E007 — Practise eidetic seeing|E007 Practise eidetic seeing]]

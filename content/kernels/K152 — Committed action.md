@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/meaning", "topic/action"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-VALUES"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.05 — 5. Values and Motivation", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K152** — Committed action
 
 Take one action today that is consistent with a chosen value, however small. The action matters more than the feeling. Especially powerful when you do not feel like it.
@@ -31,8 +33,6 @@ What this evidence does not test: the single daily action. The review names comm
 ### A guided version
 
 No guided version is supplied here.
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

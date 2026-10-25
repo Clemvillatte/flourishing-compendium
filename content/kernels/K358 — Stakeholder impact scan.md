@@ -52,8 +52,6 @@ Bryson's basic technique runs the scan with a group: one flip-chart sheet per st
 - [Orlitzky, M., Schmidt, F. L., & Rynes, S. L. (2003), "Corporate Social and Financial Performance: A Meta-Analysis", Organization Studies 24(3)](https://journals.sagepub.com/doi/abs/10.1177/0170840603024003910): 52 studies, 33,878 observations; social and environmental responsibility positively associated with financial performance.
 - Freeman, R. E. (1984), Strategic Management: A Stakeholder Approach, Pitman: the definition is cited at second hand through Bryson's review.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]

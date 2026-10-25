@@ -28,8 +28,6 @@ The empirical ground is the reflection research: "employees who spent the last 1
 
 Not applicable: the review is a written reflection, which is its own record.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

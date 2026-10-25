@@ -40,8 +40,6 @@ The mechanism is measured: across "94 independent tests... implementation intent
 - [Gollwitzer & Sheeran (2006), "Implementation intentions and goal achievement: A meta-analysis of effects and processes", Advances in Experimental Social Psychology 38, 69-119 (Konstanz repository record with abstract and PDF)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f): abstract quoted verbatim, 94 independent tests, d = .65.
 - [Kant, Fundamental Principles of the Metaphysic of Morals (T. K. Abbott trans., Project Gutenberg)](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm): the practical imperative quoted verbatim.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[S010 — Practise oikeiosis — appropriate self-love|S010 Practise oikeiosis: appropriate self-love]]

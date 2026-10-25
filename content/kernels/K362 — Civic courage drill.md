@@ -41,8 +41,6 @@ The European picture is broader but consistent with the uneven review: a multile
 - [Vega-Tinoco, A., Gil-Lacruz, A. I., & Gil-Lacruz, M. (2022), "Civic Participation as a Promoter of Well-Being: Comparative Analysis among European Countries", Social Indicators Research 163: 1073-1089](https://pmc.ncbi.nlm.nih.gov/articles/PMC9186013/): verbatim findings; 114,331 individuals, 14 countries, ESS 2002-2018, with the Mediterranean-Nordic gradient.
 - [Mužík, M., Šerek, J., & Juhová, D. S. (2025), "The Effect of Civic Engagement on Different Dimensions of Well-Being in Youth: A Scoping Review", Adolescent Research Review 10(1): 1-18](https://link.springer.com/article/10.1007/s40894-024-00239-x): verbatim abstract and conclusion; 35 studies, differential effects by engagement form, with the not-a-panacea caveat.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[A023 — Practice justice (dikaiosyne)|A023 Practice justice (dikaiosyne)]]

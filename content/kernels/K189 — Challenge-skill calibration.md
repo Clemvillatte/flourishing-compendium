@@ -29,8 +29,6 @@ The carrier is the primary text itself, verified in the owner's copy ([Csikszent
 
 Not applicable: calibration is an adjustment made inside a live activity, not a recording.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D057 — Enter flow|D057 Enter flow]]

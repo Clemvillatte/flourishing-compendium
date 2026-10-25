@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/cognition"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-ACT"], "alternatePaths": [["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.16 — 16. Acceptance and Commitment Therapy (ACT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Acceptance and commitment therapy (ACT)**
+
 > **Kernel K402** — Listen to the storyteller for thirty seconds
 
 Close your eyes and, for thirty seconds, do nothing except listen to what your mind is saying. Do not argue with it, do not follow it anywhere. Just listen, the way you would listen to a radio playing in another room.
@@ -53,8 +55,6 @@ What the sources do not test: the exercise is a defusion technique inside ACT, w
 ### A guided version
 
 The exercise is silent self-directed listening; no recording is needed.
-
-> **Therapeutic approach: ACT**
 
 ## Operationalises
 

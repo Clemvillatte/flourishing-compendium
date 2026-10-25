@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/mind"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-COGFLEX"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.03 — 3. Cognitive Flexibility and View-Lightness", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K128** — Thought record
 
 Write down: the situation, the automatic thought, the emotion it triggered, evidence for the thought, evidence against it, and a balanced alternative. The form descends from the Daily Record of Dysfunctional Thoughts in Beck's cognitive therapy of depression, and the Beck Institute still teaches it in almost these words.
@@ -34,8 +36,6 @@ The record is written by you, on your own thoughts; no guided recording is cited
 The clinical teaching adds a timing rule: "Patients learn to record upsetting incidents as soon as possible after they occur (delay makes it difficult to recall thoughts and feelings accurately)" ([Gautam et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7001356/)). The two worksheet versions are printed there as well: the first catches the situation, emotions and automatic thoughts; the second adds "Evidence for automatic thoughts | Evidence against automatic thoughts | Balanced thought | Rate emotion now (0-100%)" (same article). The emotion ratings have a stated purpose: they "help to make small changes in emotional state obvious when the search for alternatives to negative thoughts begins," because "change is rarely all-or-nothing, and small improvements may otherwise be missed" (same article).
 
 What these documents do not establish: the evidence base described belongs to cognitive therapy as a package, not to the record alone. The record was designed as homework between sessions, with a therapist asking "And what went through your mind at that moment?" (same article); neither source tests a standalone self-help version. Used alone it is a thinking tool with clinical pedigree; these documents do not test a standalone self-help version.
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

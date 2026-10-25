@@ -30,8 +30,6 @@ The loop borrows its logic from deliberate practice. In Ericsson's framework, "D
 
 What the research does not cover: neither study tested a three-pass loop. Ericsson's deliberate practice was defined for skill domains with teachers, full concentration, and immediate feedback, and his claims concern expert performance "not reached with less than 10 years of deliberate practice" (p. 372); a solo revision loop has no independent feedback and makes no such claim. Sommers' findings come from twenty freshmen and twenty experienced writers, a case study, not an experiment.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]

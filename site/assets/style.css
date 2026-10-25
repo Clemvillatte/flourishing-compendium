@@ -599,14 +599,18 @@ mark { background:var(--mark); color:var(--mark-text); border-radius:3px; paddin
   font-style:italic;
 }
 .art blockquote p { margin:0; }
-/* Therapeutic-approach modality line — owner directive: red #E34234 (2026-10-25) */
-.art blockquote.modality {
-  border-left:3px solid #E34234;
-  background:rgba(227,66,52,0.07);
+/* Origin metadata, directly above the opening quote; never a second callout. */
+.art .kernel-origin {
+  margin:0 0 .4rem;
+  padding:0;
+  font-family:var(--font-ui);
+  font-size:.75rem;
+  font-weight:400;
   font-style:normal;
+  line-height:1.5;
   color:#E34234;
 }
-.art blockquote.modality strong { color:#E34234; }
+.art .kernel-origin + blockquote { margin-top:0; }
 .art code { font-family:var(--font-mono); font-size:13px; background:var(--code);
   border:1px solid var(--line); border-radius:5px; padding:1px 6px; }
 .art pre { background:var(--code); border:1px solid var(--line); border-radius:10px; padding:14px 16px;
@@ -2082,5 +2086,4 @@ html:not([data-theme='dark']) .principle-text .wlink:hover {
   background-repeat:no-repeat; background-position:right 12px center;
 }
 @media (max-width:920px) { .rand-toolbar .rand-tools { order:3; justify-content:flex-start; } }
-
 

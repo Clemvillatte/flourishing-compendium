@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/meaning"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-STOIC"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-MEANING"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.10 — 10. Meaning and Existential Orientation", "parent": ""}
 ---
+Practice: **Stoic practice**
+
 > **Kernel K230** — Memento mori
 
 Keep a physical reminder of mortality: a skull on the desk, a coin in the pocket, a daily reflection. The reminder is not to induce fear but to sharpen the question of how to spend the time you have.
@@ -37,8 +39,6 @@ What this evidence does not test: the skull on the desk. In the trial, an interv
 ### A guided version
 
 No guided version is supplied here.
-
-> **Therapeutic approach: Stoic**
 
 ## Operationalises
 

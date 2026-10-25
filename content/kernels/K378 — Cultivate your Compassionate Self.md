@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/compassion", "topic/identity", "topic/attentio
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-CFT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-EMOTION"], ["V1K-S01 — PART I — SCIENCE-BACKED KERNELS", "V1K-S01.13 — 13. Compassion-Focused Therapy (CFT) Kernels"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.06 — 6. Emotion and Compassion", "parent": ""}
 ---
+Practice: **Compassion-focused therapy (CFT)**
+
 > **Kernel K378** — Cultivate your Compassionate Self
 
 Imagine yourself as a highly compassionate person, and explore the sense of age, facial expressions, body postures, voice tones and ways of thinking that belong to that role. Then practise adopting the role. In the founder's description, "This is like method acting, when one practises adopting and getting into a particular role" ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)).
@@ -43,8 +45,6 @@ The therapy's founder describes the exercise in the 2009 introductory article ([
 Russell Kolts's guided recording: [Compassionate Self Meditation](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) (18:35; a recording on Insight Timer, not a book). Its listing's description:
 
 > "This is an example of a Compassionate Self practice as used by Compassion-Focused Therapy (CFT) practitioners." — [Insight Timer listing](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation)
-
-> **Therapeutic approach: CFT**
 
 ## Operationalises
 

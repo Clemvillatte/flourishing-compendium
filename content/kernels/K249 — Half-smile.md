@@ -8,6 +8,8 @@ tags: ["applied-practice", "topic/wisdom"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-DBT"], "alternatePaths": [["NAV-SHARED", "NAV-THEM-INQUIRY"]]}
 legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels (Volume I)", "chapter": "V1K-S01.11 — 11. Inquiry, Experimentation, and Process", "parent": ""}
 ---
+Practice: **Dialectical behaviour therapy (DBT)**
+
 > **Kernel K249** — Half-smile
 
 Allow a faint smile to form on your face, particularly during difficult moments. The skill comes from dialectical behaviour therapy's radical-acceptance module; the mechanism usually cited for it, facial feedback, has a replication history the practice must be honest about.
@@ -27,8 +29,6 @@ The skill itself is a DBT distress-tolerance and acceptance technique (Linehan's
 ### A guided version
 
 Not applicable: the practice is a facial posture held in life, not a recording.
-
-> **Therapeutic approach: DBT**
 
 ## Operationalises
 

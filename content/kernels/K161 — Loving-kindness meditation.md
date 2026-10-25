@@ -32,8 +32,6 @@ A warm 27-minute guided session from a widely respected meditation teacher is [G
 - [Zeng et al. (2015), "The effect of loving-kindness meditation on positive emotions: a meta-analytic review", Frontiers in Psychology, PubMed](https://pubmed.ncbi.nlm.nih.gov/26579061/)
 - [Fredrickson et al. (2017), "Positive Emotion Correlates of Meditation Practice: A Comparison of Mindfulness Meditation and Loving-kindness Meditation", Mindfulness, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5704778/)
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]

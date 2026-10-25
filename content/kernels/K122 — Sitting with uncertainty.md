@@ -32,8 +32,6 @@ What this evidence does not test: the sitting. Two hundred fifty-nine emerging a
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D073 — Don't over-plan — act from presence|D073 Don't over-plan: act from presence]]

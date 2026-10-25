@@ -8,6 +8,8 @@ tags: ["applied-practice"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-COG"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.03 — 3. Stoic Assent and Judgement Training", "parent": ""}
 ---
+Practice: **Cognitive behavioural therapy (CBT)**
+
 > **Kernel K270** — Evidence-versus-interpretation drill
 
 Take a thought that is causing distress. Write down the evidence for it. Then write down the evidence against it. Then write an alternative interpretation. The drill is the core of the CBT thought record, and the Stoic question behind it is Epictetus's: "Men are disturbed, not by things, but by the principles and notions which they form concerning things. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible" ([Epictetus, Enchiridion 5, Elizabeth Carter trans.](https://classics.mit.edu/Epictetus/epicench.html)). The drill is the written version of the Stoic question, which of the two is the thing, and which the notion, asked at the desk with the distressing thought laid out for inspection.
@@ -40,8 +42,6 @@ The CBT base is measured at the review level: "we identified 269 meta-analytic s
 
 - [Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012), "The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses", Cognitive Therapy and Research 36, 427-440 (PDF)](https://www.europsy.net/app/uploads/2017/08/Hofmann-2012-The-efficacy-of-CBT-a-review-of-meta-analyses.pdf): abstract quoted verbatim.
 - [Epictetus, Enchiridion, Chapter 5 (Elizabeth Carter trans., Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html): passage quoted verbatim.
-
-> **Therapeutic approach: CBT**
 
 ## Operationalises
 

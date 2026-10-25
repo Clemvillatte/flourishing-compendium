@@ -32,8 +32,6 @@ What this evidence does not test: the practice. The study compared reading an el
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D024 — Guard your senses from overload|D024 Guard your senses from overload]]

@@ -37,8 +37,6 @@ What this evidence does not test: the weekly review itself. The Lally study obse
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D054 — Practice daily — small consistent effort compounds|D054 Practice daily: small consistent effort compounds]]

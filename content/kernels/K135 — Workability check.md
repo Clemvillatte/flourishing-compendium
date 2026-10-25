@@ -32,8 +32,6 @@ What this evidence does not test: the question itself. In eight single-case alte
 
 No guided version is supplied here.
 
-> **Therapeutic approach: general**
-
 ## Operationalises
 
 - [[D016 — Distrust names and labels|D016 Distrust names and labels]]
