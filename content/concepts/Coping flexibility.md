@@ -15,7 +15,9 @@ Coping flexibility has been conceptualized as a broad coping repertoire, a balan
 
 The analysis "covers all available studies conducted between 1978 and 2013 that empirically tested the relationship between coping flexibility and psychological adjustment", and "The results of a random-effects model revealed a small to moderate overall mean effect size (r = .23, 95% CI [.19, .28], 80% CRI [-.02, .49], k = 329, N = 58,946)" ([abstract](https://pubmed.ncbi.nlm.nih.gov/25222637/)). The conceptualization mattered: "Studies adopting the perceived ability or strategy-situation fit conceptualization yielded moderate effect sizes, whereas those adopting the broad repertoire, balanced profile, or cross-situational variability conceptualization yielded small effect sizes" ([abstract](https://pubmed.ncbi.nlm.nih.gov/25222637/)). The link was stronger in samples from countries lower in individualism and in samples with higher average ages ([abstract](https://pubmed.ncbi.nlm.nih.gov/25222637/)).
 
-### Here
+The two stronger conceptualizations, perceived ability and strategy-situation fit, are both judgments about a match between the person and the situation; the three weaker ones are counts and profiles of strategies. The moderation findings carry a caution for practice: the effect of flexibility on adjustment is not uniform across cultures or ages, so a repertoire that reads as flexible in one setting may read as unmoored in another.
+
+### In the compendium
 
 - [[PP044 — Practise coping flexibility]]
 - [[D011 — Choose the soft over the hard]]
