@@ -14124,31 +14124,23 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on right effort"
+          "x": "Where the effort goes"
         },
         {
           "t": "h2",
-          "x": "The path's own account"
+          "x": "What the factor asks for"
         },
         {
           "t": "p",
-          "x": "[Right effort](card:Right%20effort): the sixth factor of the Noble Eightfold Path: energy aimed at the mind itself, defined by four directions rather than by quantity."
+          "x": "[Right effort](card:Right%20effort) is the sixth factor of the [Eightfold Path](card:Eightfold%20Path), the fourth Noble Truth's summary of the training. It sits inside [the three trainings](card:The%20three%20trainings) in the concentration division alongside mindfulness and concentration, and it is energy aimed at the mind itself, defined by four directions rather than by quantity."
         },
         {
           "t": "p",
-          "x": "[Eightfold Path](card:Eightfold%20Path): the fourth Noble Truth: the Buddha's summary of the training, right view through right concentration, with right effort sixth among the eight factors."
+          "x": "The sibling factors [right speech](card:Right%20speech), [right action](card:Right%20action) and [right livelihood](card:Right%20livelihood) each carry their own dossier in this programme."
         },
         {
           "t": "p",
-          "x": "[The three trainings](card:The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with right effort inside the concentration division alongside mindfulness and concentration."
-        },
-        {
-          "t": "p",
-          "x": "[Right speech](card:Right%20speech), [Right action](card:Right%20action) and [Right livelihood](card:Right%20livelihood): the sibling factors, each with its own dossier in this programme."
-        },
-        {
-          "t": "p",
-          "x": "[The middle path](card:The%20middle%20path): the calibration the lute-string image belongs to: neither the indulgence nor the mortification the Buddha tried first."
+          "x": "The calibration the factor belongs to is [the middle path](card:The%20middle%20path): neither the indulgence nor the mortification the Buddha tried first."
         },
         {
           "t": "p",
@@ -14156,52 +14148,36 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort.\" ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)). The four directions: preventing, abandoning, arousing, maintaining.",
+          "x": "\"There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen... He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen... He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen... He generates desire, endeavors, activates persistence, upholds & exerts his intent for the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort.\" ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)). The four directions: preventing, abandoning, arousing, maintaining.",
           "s": null
         },
         {
           "t": "h2",
-          "x": "The four directions for one energy"
+          "x": "What the four directions train"
         },
         {
           "t": "p",
-          "x": "[Right effort](card:Right%20effort): effort aimed at particular movements of the mind, in a particular direction, at a particular moment; the first verb is generates desire, so effort begins as wanting the result, before any gritting of teeth."
+          "x": "The factor is effort aimed at particular movements of the mind, in a particular direction, at a particular moment, and the first verb is generates desire, so effort begins as wanting the result, before any gritting of teeth. The preventing effort is [B065 — Guard the mind at the source (mind precedes all)](card:B065%20%E2%80%94%20Guard%20the%20mind%20at%20the%20source%20%28mind%20precedes%20all%29): the guarding done before the quality arises, the Dhammapada's claim that mind precedes all states. The abandoning effort at its smallest is [B116 — Catch irritation early — sparks before fires](card:B116%20%E2%80%94%20Catch%20irritation%20early%20%E2%80%94%20sparks%20before%20fires): the spark caught before it is a fire."
         },
         {
           "t": "p",
-          "x": "[B065 — Guard the mind at the source (mind precedes all)](card:B065%20%E2%80%94%20Guard%20the%20mind%20at%20the%20source%20%28mind%20precedes%20all%29): the preventing effort: the guarding done before the quality arises, the Dhammapada's claim that mind precedes all states."
+          "x": "The general-capacity hope has a caution attached. Miles and colleagues' six-week program of small self-control tasks found no effect on any measure of self-control, and the authors' conclusion is stated without hedging, carried on [self-control training](card:Self-control%20training)."
         },
         {
           "t": "p",
-          "x": "[B116 — Catch irritation early — sparks before fires](card:B116%20%E2%80%94%20Catch%20irritation%20early%20%E2%80%94%20sparks%20before%20fires): the abandoning effort at its smallest: the spark caught before it is a fire."
-        },
-        {
-          "t": "p",
-          "x": "[Self-control training](card:Self-control%20training): the caution on the general-capacity hope: Miles and colleagues' six-week program of small self-control tasks found no effect on any measure of self-control, and the authors' conclusion is stated without hedging."
-        },
-        {
-          "t": "p",
-          "x": "[Grit](card:Grit): Duckworth's trait, defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share."
-        },
-        {
-          "t": "p",
-          "x": "[Goal adjustment capacity](card:Goal%20adjustment%20capacity): Wrosch, Scheier, Miller, Schulz and Carver's construct for the other side of a stalled pursuit: the withdrawal of behavioral efforts and psychological commitment from a goal that has become unattainable, and the taking up of another; the findings credit disengagement with ameliorating distress and protecting health."
+          "x": "Duckworth's [grit](card:Grit) is defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share. The other side of a stalled pursuit is [goal adjustment capacity](card:Goal%20adjustment%20capacity): Wrosch, Scheier, Miller, Schulz and Carver's construct for the withdrawal of behavioral efforts and psychological commitment from a goal that has become unattainable, and the taking up of another, with the findings crediting disengagement with ameliorating distress and protecting health."
         },
         {
           "t": "h2",
-          "x": "The tuning, not the forcing"
+          "x": "How much is enough"
         },
         {
           "t": "p",
-          "x": "[The right amount of effort](card:The%20right%20amount%20of%20effort): Aristotle's mean: to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way."
+          "x": "Aristotle's mean is [the right amount of effort](card:The%20right%20amount%20of%20effort): to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way. The Buddha's tuning image for the monk Soṇa is [ST064 — The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String), the vina strung neither too taut nor too loose."
         },
         {
           "t": "p",
-          "x": "[ST064 — The Lute String](card:ST064%20%E2%80%94%20The%20Lute%20String): the Buddha's tuning image for the monk Soṇa, the vina strung neither too taut nor too loose."
-        },
-        {
-          "t": "p",
-          "x": "The Sutta's own statement of the calibration:"
+          "x": "The sutta's own statement of the calibration:"
         },
         {
           "t": "q",
@@ -14210,83 +14186,39 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Effort-recovery cycles](card:Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences, psychological detachment from work, relaxation, mastery and control; effort's other half."
+          "x": "Effort's other half is recovery. [Effort-recovery cycles](card:Effort-recovery%20cycles) carries Sonnentag and Fritz's four recovery experiences, psychological detachment from work, relaxation, mastery and control. [The seasons of energy](card:The%20seasons%20of%20energy) accepts that capacities are not constant: Ecclesiastes' time to every purpose under the heaven, the low times not defects in a steady machine."
         },
         {
           "t": "p",
-          "x": "[The seasons of energy](card:The%20seasons%20of%20energy): the acceptance that capacities are not constant: Ecclesiastes' time to every purpose under the heaven, the low times not defects in a steady machine."
+          "x": "The paradox of effortlessness has its own resolutions. [Effortless action through long effort](card:Effortless%20action%20through%20long%20effort) is the Zhuangzi's: wu wei can look like doing nothing, but the stories that define it are stories of training, Cook Ding's three years of oxen. [Effortless attention](card:Effortless%20attention) is Bruya's volume on attention and action experienced as effortless: meeting an increase in demand with sustained efficacy without an increase in felt effort."
         },
         {
           "t": "p",
-          "x": "[Effortless action through long effort](card:Effortless%20action%20through%20long%20effort): the Zhuangzi's resolution of the paradox: wu wei can look like doing nothing, but the stories that define it are stories of training, Cook Ding's three years of oxen."
-        },
-        {
-          "t": "p",
-          "x": "[Effortless attention](card:Effortless%20attention): Bruya's volume on attention and action experienced as effortless: meeting an increase in demand with sustained efficacy without an increase in felt effort."
-        },
-        {
-          "t": "p",
-          "x": "[Non-striving](card:Non-striving): the Daoist refusal of forcing, the attitude the Daodejing places in the Dao itself: the Tao in its regular course does nothing for the sake of doing it, and so there is nothing which it does not do."
-        },
-        {
-          "t": "p",
-          "x": "[Flow](card:Flow): Csikszentmihalyi's absorbed engagement, the modern comparison the Right effort card itself offers: challenge matched to skill, effort felt as effortless."
-        },
-        {
-          "t": "p",
-          "x": "[ST030 — Federer's Effortlessness](card:ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to."
+          "x": "The Daoist refusal of forcing is [non-striving](card:Non-striving), the attitude the Daodejing places in the Dao itself: the Tao in its regular course does nothing for the sake of doing it, and so there is nothing which it does not do. Csikszentmihalyi's absorbed engagement is [flow](card:Flow), the modern comparison the Right effort card itself offers: challenge matched to skill, effort felt as effortless."
         },
         {
           "t": "h2",
-          "x": "The disciplines that aim effort"
+          "x": "What the disciplines aim effort at"
         },
         {
           "t": "p",
-          "x": "[The three disciplines](card:The%20three%20disciplines): Epictetus' curriculum, stated in Discourses 3.2: three areas of study in which a person must train; Hadot named them the disciplines of desire, action and assent, the lived versions of Stoic physics, ethics and logic."
+          "x": "Epictetus' curriculum, stated in Discourses 3.2, is [the three disciplines](card:The%20three%20disciplines): three areas of study in which a person must train; Hadot named them the disciplines of desire, action and assent, the lived versions of Stoic physics, ethics and logic. [The discipline of assent](card:The%20discipline%20of%20assent) is the Stoic training in treating every impression as a candidate for judgment rather than a judgment already made. [The discipline of non-response](card:The%20discipline%20of%20non-response) is the practice of not adding a reflexive answer to an impression: between the impression and the response there is a judgment, and the judgment is the only movable part."
         },
         {
           "t": "p",
-          "x": "[The discipline of assent](card:The%20discipline%20of%20assent): the Stoic training in treating every impression as a candidate for judgment rather than a judgment already made."
+          "x": "Simone Weil's account of attention in her essay on the right use of school studies, collected in Waiting for God, is [the discipline of attention](card:The%20discipline%20of%20attention): studies as the exercise of attention. Hadot's name for the practice side of ancient philosophy is [spiritual exercises](card:Spiritual%20exercises): the daily, repeated work by which a student worked toward the complete reversal of our usual ways of looking at things. William James's claim, carried on [the effort of attention](card:The%20effort%20of%20attention), is that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will."
         },
         {
           "t": "p",
-          "x": "[The discipline of non-response](card:The%20discipline%20of%20non-response): the Stoic practice of not adding a reflexive answer to an impression: between the impression and the response there is a judgment, and the judgment is the only movable part."
+          "x": "Foucault's term for what modern power makes of flesh is [the disciplined body](card:The%20disciplined%20body): bodies trained, timed and arranged until the body itself carries the discipline; the caution that training and domination can look alike."
         },
         {
           "t": "p",
-          "x": "[The discipline of attention](card:The%20discipline%20of%20attention): Simone Weil's account of attention in her essay on the right use of school studies, collected in Waiting for God: studies as the exercise of attention."
-        },
-        {
-          "t": "p",
-          "x": "[Spiritual exercises](card:Spiritual%20exercises): Hadot's name for the practice side of ancient philosophy: the daily, repeated work by which a student worked toward the complete reversal of our usual ways of looking at things, its exercises including practices of attention, self-mastery and the therapy of the passions."
-        },
-        {
-          "t": "p",
-          "x": "[The effort of attention](card:The%20effort%20of%20attention): William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will."
-        },
-        {
-          "t": "p",
-          "x": "[The disciplined body](card:The%20disciplined%20body): Foucault's term for what modern power makes of flesh: bodies trained, timed and arranged until the body itself carries the discipline; the caution that training and domination can look alike."
-        },
-        {
-          "t": "h2",
-          "x": "The stories"
-        },
-        {
-          "t": "p",
-          "x": "The theme comes in narrative form too:"
-        },
-        {
-          "t": "p",
-          "x": "[ST112 — Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived."
-        },
-        {
-          "t": "p",
-          "x": "[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya asks three times to practise in a mango grove that looks ideal, and alone beneath the tree is troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate."
+          "x": "The theme comes in narrative form too. [ST112 — Edison Burns the Filaments](card:ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments) is the filament search testing thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, with the notebooks recording the failures as data. [ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts) is Meghiya asking three times to practise in a mango grove that looks ideal, and alone beneath the tree being troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate."
         },
         {
           "t": "h",
-          "x": "Where the research genuinely disagrees"
+          "x": "Where the traditions genuinely disagree"
         },
         {
           "t": "h2",
@@ -14298,7 +14230,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Relative to the control phase, participants who exercised showed significant improvement in self-regulatory capacity... The uptake and maintenance of an exercise programme over a 2-month period produced significant improvements in a wide range of regulatory behaviours.\" ([Oaten & Cheng 2006, British Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/17032494/))",
+          "x": "\"Relative to the control phase, participants who exercised showed significant improvement in self-regulatory capacity... The uptake and maintenance of an exercise programme over a 2-month period produced significant improvements in a wide range of regulatory behaviours.\" ([Oaten & Cheng 2006, British Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/17032494/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17032494&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -14317,6 +14249,38 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "For the four directions of the path factor, nothing here changes the aiming. What the disagreement questions is the hope of a general capacity built by rehearsal."
+        },
+        {
+          "t": "h2",
+          "x": "Is grit anything more than conscientiousness?"
+        },
+        {
+          "t": "p",
+          "x": "[Grit](card:Grit) is the research field's best-known measure of long effort, and its own record is disputed. Duckworth and colleagues found it accounted for \"an average of 4% of the variance in success outcomes\", and reported it \"highly correlated with Big Five Conscientiousness\" and still incrementally predictive \"over and beyond IQ and conscientiousness\" ([Duckworth et al. 2007, abstract](https://pubmed.ncbi.nlm.nih.gov/17547490/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17547490&rettype=abstract&retmode=text))."
+        },
+        {
+          "t": "p",
+          "x": "A meta-analysis ten years later, 584 effect sizes from 88 samples and 66,807 people, found that the higher-order structure of grit \"is not confirmed\", that grit is \"only moderately correlated with performance and retention\", and that it is \"very strongly correlated with conscientiousness\". It left one part standing: the perseverance-of-effort facet \"explains variance in academic performance even after controlling for conscientiousness\" ([Credé, Tynan & Harms 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/27845531/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27845531&rettype=abstract&retmode=text)). A third paper argues that the mixed record comes from measurement, because the grit scale captures perseverance and \"has not adequately captured passion\", so \"perseverance without passion isn't grit, but merely a grind\" ([Jachimowicz et al. 2018, PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.1803561115), [full text in PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6176608/))."
+        },
+        {
+          "t": "p",
+          "x": "So one side holds that grit adds something beyond a known trait, one that it is mostly the known trait, and one that the scale measures half of what it names. I have only the abstracts and cannot judge the statistics. What the three share, and the factor's own sutta supplies, is the question of what the effort is for: the sutta defines right effort by four directions, and grit by how long a person keeps going. I would use the research as a caution against calling persistence a virtue before asking what is being persisted in."
+        },
+        {
+          "t": "h2",
+          "x": "Is trying the road or the obstacle?"
+        },
+        {
+          "t": "p",
+          "x": "The Dhammapada puts the work on the practitioner: \"You yourselves must strive; the Buddhas only point the way\" ([Dhammapada 276, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)). The sutta quoted above begins its four efforts with a person who \"generates desire, endeavors, activates persistence, upholds & exerts his intent\" ([SN 45.8, Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)). The Tao Te Ching reads in the other direction: the one who devotes himself to the Tao \"(seeks) from day to day to diminish (his doing)\" until he arrives at \"doing nothing (on purpose)\", and \"if one take trouble (with that end), he is not equal to getting as his own all under heaven\" ([Tao Te Ching 48, Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))."
+        },
+        {
+          "t": "p",
+          "x": "The two do not meet head-on. The Daoist text describes a direction of travel, from more doing to less, and says the aim should not be pursued with trouble, while the Buddhist texts describe the work along the way, and the lute image already tells the monk to tune his persistence so that it is neither over-aroused nor slack. Where they do differ is the starting instruction: the sutta begins by generating wanting for the result, and the Tao Te Ching names that wanting as what defeats the result."
+        },
+        {
+          "t": "p",
+          "x": "I read the lute string as the mediating text, since it makes the amount of effort something to be tuned and not a creed, and I would not claim the sources settle whether the Daoist \"diminishing\" and the Buddhist tuning describe the same skill. The [Federer story](card:ST030%20%E2%80%94%20Federer%27s%20Effortlessness) in this dossier is an observer's report of effortlessness, so it does not bear on the question either way."
         },
         {
           "t": "h",
