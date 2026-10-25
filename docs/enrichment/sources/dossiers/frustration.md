@@ -366,3 +366,5 @@ NOT FOUND against the human-facing link; this entry is the
 documented verification. No dossier text changed. FLAG CLEARED (the
 supervisor fetch / owner ruling requested above is no longer
 needed).
+
+- 2026-10-25 10:58:21Z — repair, self-checked, pushed. All four flagged spans now machine-verify. The two Jang and Johnson 2003 (Baylor ISR) spans: the Wayback snapshot of the exact PDF (2022-03-20, id_ route, opened and extracted this session, both spans verbatim) was added as a second carrier alongside the live URL, which sits behind a Cloudflare challenge. The two Schnitker 2012 (Taylor & Francis) spans: a Wayback snapshot of the live abstract page (2024-12-23, id_ route, opened this session) contains both spans verbatim and was added as a second carrier; the ledger's earlier browser verification of the live page stands. quote_verify clean (22 checked, 0 not found).

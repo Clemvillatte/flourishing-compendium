@@ -511,3 +511,5 @@ carrier prints "word- jugglery" with the PDF-era space, the dossier's
 "word-jugglery" is the standard hyphenation). No change needed; the
 dispute's pairing honesty (Kant does not name Hume) is already scoped on
 the page.
+
+- 2026-10-25 10:58:21Z — repair, self-checked, pushed. The four Constant spans failed against the archive.org _text.pdf carrier (PDF extraction). The item's plain-text derivative (_djvu.txt, fetched and opened this session) contains all four spans verbatim under whitespace normalization, and was added as a second carrier. quote_verify clean (18 checked, 0 not found).

@@ -16836,12 +16836,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Patience is the propensity to wait calmly in the face of frustration or adversity.\" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))",
+          "x": "\"Patience is the propensity to wait calmly in the face of frustration or adversity.\" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185), [archived snapshot](http://web.archive.org/web/20241223003411id_/https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))",
           "s": null
         },
         {
           "t": "p",
-          "x": "Her patience training program \"led to increased patience, decreased depression, and increased positive affect relative to a control condition, suggesting that patience may be modifiable\" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))."
+          "x": "Her patience training program \"led to increased patience, decreased depression, and increased positive affect relative to a control condition, suggesting that patience may be modifiable\" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185), [archived snapshot](http://web.archive.org/web/20241223003411id_/https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))."
         },
         {
           "t": "p",
@@ -16894,7 +16894,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[General strain theory](card:General%20strain%20theory): Agnew's criminology of the same pressure. In Agnew's account strain is a negative relation with another person, and the effect of strain runs through negative emotion: the Baylor ISR paper summarises it as, \"GST posits that strain generates negative emotions that provide motivation for deviance as a coping strategy because such emotional forces create pressure for corrective action\" ([Jang and Johnson 2003, hosted by Baylor ISR](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)). For Agnew, anger is the \"most critical emotional reaction\" to strain, though the theory holds that strain raises the whole range of negative emotions ([Jang and Johnson, quoting Agnew 1992 p. 59](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf))."
+          "x": "[General strain theory](card:General%20strain%20theory): Agnew's criminology of the same pressure. In Agnew's account strain is a negative relation with another person, and the effect of strain runs through negative emotion: the Baylor ISR paper summarises it as, \"GST posits that strain generates negative emotions that provide motivation for deviance as a coping strategy because such emotional forces create pressure for corrective action\" ([Jang and Johnson 2003, hosted by Baylor ISR](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf), [archived snapshot](http://web.archive.org/web/20220320132943id_/http://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)). For Agnew, anger is the \"most critical emotional reaction\" to strain, though the theory holds that strain raises the whole range of negative emotions ([Jang and Johnson, quoting Agnew 1992 p. 59](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf), [archived snapshot](http://web.archive.org/web/20220320132943id_/http://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf))."
         },
         {
           "t": "p",
@@ -16936,7 +16936,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Read anger as blocked striving with a wounded self-regard](card:SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's protocol. The Ethics defines anger as the desire, \"whereby through hatred we are induced to injure one whom we hate\" (Ethics III, Definitions of the Affects XXXVI, [Elwes translation](https://www.gutenberg.org/ebooks/3800)), and defines evil in the P39 note as \"every kind of pain, especially that which frustrates our longings\" ([Elwes translation](https://www.gutenberg.org/ebooks/3800)). Anger, on the theory, is frustrated longing pressed against a person; the protocol is to name the frustration before deciding what to do with it."
+          "x": "[Read anger as blocked striving with a wounded self-regard](card:SP031%20%E2%80%94%20Read%20anger%20as%20blocked%20striving%20with%20a%20wounded%20self-regard): Spinoza's protocol. The Ethics defines anger as the desire, \"whereby through hatred we are induced to injure one whom we hate\" (Ethics III, Definitions of the Affects XXXVI, [Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)), and defines evil in the P39 note as \"every kind of pain, especially that which frustrates our longings\" ([Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)). Anger, on the theory, is frustrated longing pressed against a person; the protocol is to name the frustration before deciding what to do with it."
         },
         {
           "t": "p",
@@ -16956,7 +16956,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"A proposed revision of the 1939 model holds that frustrations generate aggressive inclinations to the degree that they arouse negative affect.\" ([Berkowitz 1989, Psychological Bulletin, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))",
+          "x": "\"A proposed revision of the 1939 model holds that frustrations generate aggressive inclinations to the degree that they arouse negative affect.\" ([Berkowitz 1989, Psychological Bulletin, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=2667009&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -16965,12 +16965,56 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Interpretations and attributions can be understood partly in terms of the original analysis but they can also influence the unpleasantness of the thwarting.\" ([Berkowitz 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/))",
+          "x": "\"Interpretations and attributions can be understood partly in terms of the original analysis but they can also influence the unpleasantness of the thwarting.\" ([Berkowitz 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2667009/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=2667009&rettype=abstract&retmode=text))",
           "s": null
         },
         {
           "t": "p",
           "x": "The REBT tradition names its low frustration tolerance belief as the conviction that discomfort cannot be stood, and the Turner review reports that the belief travels with aggressive expression of anger, reduced anger control, poor social adjustment, addictive behaviors, anxiety, depression, procrastination and dysfunctional affect. My reading of the two together: the affect a blockage arouses and the belief the person holds about that affect are two parts of one episode."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Does frustration always lead to aggression?"
+        },
+        {
+          "t": "p",
+          "x": "The 1939 Yale monograph opened with a two-part claim, which its own authors later quoted: \"the occurrence of aggression always presupposes the existence of frustration and, contrariwise, that the existence of frustration always leads to some form of aggression\" ([Miller et al. 1941, Psychological Review, via Classics in the History of Psychology](https://psychclassics.yorku.ca/FrustAgg/miller.htm)). Two years later Miller, with the same coauthors, called the second half \"unfortunate\", because it suggests \"that frustration has no consequences other than aggression\" and fails to separate the pull toward aggression from aggression itself (same source). Their account of what replaces it: \"Instigation to aggression may occupy any one of a number of positions in the hierarchy of instigations aroused by a specific situation which is frustrating\" (same source)."
+        },
+        {
+          "t": "p",
+          "x": "The [frustration-aggression hypothesis](card:Frustration%E2%80%93aggression%20hypothesis) was then reworked from a second direction. Berkowitz's 1989 review keeps the core claim limited to interference with \"an expected attainment of a desired goal\" and its effect on hostile aggression, and says frustrations generate aggressive inclinations \"to the degree that they arouse negative affect\" ([Berkowitz 1989, abstract, PubMed](https://pubmed.ncbi.nlm.nih.gov/2667009/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=2667009&rettype=abstract&retmode=text)). So there are three positions on one question: always (1939), one pull among several, with the strongest one winning (1941), and as much as the thwarting hurts (1989)."
+        },
+        {
+          "t": "p",
+          "x": "What the question turns on is what kind of thing frustration is: an event in the situation, a hierarchy of pulls, or a feeling. I find the third the most useful for a person living through it, since it is the version that explains why the same blocked plan angers one person and barely registers for another. That is a reading of the abstract, which does not claim to settle it."
+        },
+        {
+          "t": "h2",
+          "x": "Does acting out frustration discharge it?"
+        },
+        {
+          "t": "p",
+          "x": "Bushman's 2002 paper states the older view in its own words: according to catharsis theory, \"acting aggressively or even viewing aggression is an effective way to purge angry and aggressive feelings\", and it quotes Breuer and Freud on the cathartic effect of an injury being \"expressed in an adequate reaction like revenge\" ([Bushman 2002, Personality and Social Psychology Bulletin](http://www-personal.umich.edu/~bbushman/PSPB02.pdf)). His experiment angered 600 students by having a supposed partner criticise their essay, then sent some to hit a punching bag while thinking about that partner. Those students ended up angrier and more aggressive than the group who did nothing, and the abstract's conclusion is that \"doing nothing at all was more effective than venting anger\" (same paper)."
+        },
+        {
+          "t": "p",
+          "x": "The participants were insulted, not blocked, so the study speaks to anger after a provocation and reaches frustration only if the two are treated alike. The wiki's [anger](card:Anger) entry covers that neighbouring ground. I take the result as a caution against using the punching bag as a cure. It does not tell us what to do instead, and I have not read the follow-up literature."
+        },
+        {
+          "t": "h2",
+          "x": "Does deprivation level people or reveal them?"
+        },
+        {
+          "t": "p",
+          "x": "Frankl quotes Freud on hunger: exposed to it, \"all individual differences will blur, and in their stead will appear the uniform expression of the one unstilled urge\". Frankl's reply, from the camps, is that the differences \"did not 'blur' but, on the contrary, people became more different; people unmasked themselves, both the swine and the saints\" ([Frankl, The Case for a Tragic Optimism, excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)). The Freud lines are as Frankl gives them, and I have not checked them against Freud's own text."
+        },
+        {
+          "t": "p",
+          "x": "This bears on frustration because [Frankl's existential frustration](card:Noogenic%20neurosis) assumes a frustrated need that is not reducible to a drive. The camps claim is testimony from one witness, so it does not settle the matter. I note it as the sharpest disagreement the sources offer about what thwarting does to character, and I lean toward Frankl on it because his evidence is a first-hand account where Freud's passage, as quoted, offers a prediction."
         },
         {
           "t": "h",
@@ -18026,7 +18070,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Constant, writing in 1819, answers from the other side of the Revolution. He saw its leaders as \"steeped in ancient views which are no longer valid\", among the ancients \"the individual, almost always sovereign in public affairs, was a slave in all his private relations\", and he read Rousseau as having \"furnished deadly pretexts for more than one kind of tyranny\": \"by transposing into our modern age an extent of social power, of collective sovereignty, which belonged to other centuries, this sublime genius, animated by the purest love of liberty, has nevertheless furnished deadly pretexts for more than one kind of tyranny\" ([Constant, The Liberty of the Ancients Compared with that of the Moderns, 1819 speech, text as published in Cours de politique constitutionnelle, 1820, Internet Archive](https://archive.org/download/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_text.pdf))."
+          "x": "Constant, writing in 1819, answers from the other side of the Revolution. He saw its leaders as \"steeped in ancient views which are no longer valid\", among the ancients \"the individual, almost always sovereign in public affairs, was a slave in all his private relations\", and he read Rousseau as having \"furnished deadly pretexts for more than one kind of tyranny\": \"by transposing into our modern age an extent of social power, of collective sovereignty, which belonged to other centuries, this sublime genius, animated by the purest love of liberty, has nevertheless furnished deadly pretexts for more than one kind of tyranny\" ([Constant, The Liberty of the Ancients Compared with that of the Moderns, 1819 speech, text as published in Cours de politique constitutionnelle, 1820, Internet Archive](https://archive.org/download/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_text.pdf), [plain text](https://archive.org/download/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_djvu.txt))."
         },
         {
           "t": "p",

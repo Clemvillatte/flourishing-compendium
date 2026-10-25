@@ -37,9 +37,9 @@ Seneca's line is about how anger develops, not a definition of frustration, and 
 
 Schnitker's definition makes patience the counter-construct, and her training study suggested that patience might be modifiable:
 
-> "Patience is the propensity to wait calmly in the face of frustration or adversity." ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))
+> "Patience is the propensity to wait calmly in the face of frustration or adversity." ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185), [archived snapshot](http://web.archive.org/web/20241223003411id_/https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185))
 
-Her patience training program "led to increased patience, decreased depression, and increased positive affect relative to a control condition, suggesting that patience may be modifiable" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185)).
+Her patience training program "led to increased patience, decreased depression, and increased positive affect relative to a control condition, suggesting that patience may be modifiable" ([Schnitker 2012, abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185), [archived snapshot](http://web.archive.org/web/20241223003411id_/https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.697185)).
 
 Schopenhauer's line on desire, from the encyclopedia entry on him:
 
@@ -65,7 +65,7 @@ The accounts also map where the pressure goes.
 
 [Frustration–aggression hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Frustration%E2%80%93aggression%20hypothesis): the original exit: aggression, revised by Berkowitz into inclinations rather than acts, with the reformulation quoted in the section below.
 
-[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure. In Agnew's account strain is a negative relation with another person, and the effect of strain runs through negative emotion: the Baylor ISR paper summarises it as, "GST posits that strain generates negative emotions that provide motivation for deviance as a coping strategy because such emotional forces create pressure for corrective action" ([Jang and Johnson 2003, hosted by Baylor ISR](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)). For Agnew, anger is the "most critical emotional reaction" to strain, though the theory holds that strain raises the whole range of negative emotions ([Jang and Johnson, quoting Agnew 1992 p. 59](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)).
+[General strain theory](https://clemvillatte.github.io/flourishing-compendium/#card=General%20strain%20theory): Agnew's criminology of the same pressure. In Agnew's account strain is a negative relation with another person, and the effect of strain runs through negative emotion: the Baylor ISR paper summarises it as, "GST posits that strain generates negative emotions that provide motivation for deviance as a coping strategy because such emotional forces create pressure for corrective action" ([Jang and Johnson 2003, hosted by Baylor ISR](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf), [archived snapshot](http://web.archive.org/web/20220320132943id_/http://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)). For Agnew, anger is the "most critical emotional reaction" to strain, though the theory holds that strain raises the whole range of negative emotions ([Jang and Johnson, quoting Agnew 1992 p. 59](https://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf), [archived snapshot](http://web.archive.org/web/20220320132943id_/http://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf)).
 
 [Anger](https://clemvillatte.github.io/flourishing-compendium/#card=Anger): the neighbouring state, held in its own dossier, with the Seneca line drawn in Nearby terms above.
 
