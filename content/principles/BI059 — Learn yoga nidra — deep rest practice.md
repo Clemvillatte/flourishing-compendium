@@ -25,7 +25,7 @@ For sleep, a 2026 meta-analysis pooled only five unique studies and rated the ce
 Any trauma or PTSD study is cited at second hand; the original entry's claim about trauma is not supported here, and the iRest and Datta citations are cited at second hand. The original entry's "restores like nothing else" is not supported by these trials, which compared yoga nidra mostly with doing nothing.
 
 **Plain words**
-Yoga nidra is guided rest while lying still. Trials show small benefits for stress and sleep, with limited evidence, so treat it as a low-cost rest practice and not as a treatment.
+Lying still while a voice walks you through the body costs almost nothing to try, and it does measurably something: against doing nothing, the trials show small drops in stress and better sleep. The sleep findings rest on very few studies. So the fair pitch is low-cost rest worth a month's trial, not treatment.
 
 **For example**
 For four weeks, play an 11-minute guided yoga nidra recording once a day, as in the 2022 study. Rate your stress and sleep from 1 to 10 each week.
