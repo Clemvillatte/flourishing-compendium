@@ -17,7 +17,7 @@ The IEP's reading of the habituation chapters gives the mechanism. Akrasia is no
 
 > "The person who is always fighting the same battle, always struggling like the sheep dog to maintain the balance point between too much and too little indulgence, does not, according to Aristotle, have the virtue of temperance, but is at best selfrestrained or continent." ([IEP, Aristotle's Ethics](https://iep.utm.edu/aris-eth/))
 
-The continent person and the temperate person both end up at the right action; what separates them is the fight. The temperate person's appetite has been shaped until it agrees, while the continent person holds it in check by reasoning, and the article's note about control being "an anxious, unstable equilibrium" names the cost of that posture. Akrasia sits on the far side of the continent person, where the reins have already slipped.
+The continent person and the temperate person both end up at the right action; what separates them is the fight. The temperate person's appetite has been shaped until it agrees, while the continent person holds it in check by reasoning, and the article's note about control being "an anxious, unstable equilibrium" names the cost of that posture. Akrasia sits on the far side of the continent person, where the reins have already slipped. The cure is slow in exactly the way the vice was slow to acquire, which is the practical point of calling it a matter of habituation rather than of insight.
 
 ## Related concepts
 - [[T011 — Socrates]]: the Socratic denial of acting against one's better judgment, the concept's oldest case.

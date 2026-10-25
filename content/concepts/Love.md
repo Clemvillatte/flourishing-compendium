@@ -25,7 +25,7 @@ The same book runs the kinds through utility and pleasure to character:
 
 > "Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves." (Aristotle, [Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
-The first two kinds are incidental: the friend is loved as useful or pleasant, and the friendship dissolves when the usefulness or the pleasure does. The third is loved as the person he is, which is why Aristotle calls it permanent, and why the page on love leans on him: love here is a steady wish for the good of the loved one, with the lover's own character as the thing that holds it up.
+The first two kinds are incidental: the friend is loved as useful or pleasant, and the friendship dissolves when the usefulness or the pleasure does. The third is loved as the person he is, which is why Aristotle calls it permanent, and why the page on love leans on him: love here is a steady wish for the good of the loved one, with the lover's own character as the thing that holds it up. The three kinds are not a ladder to climb out of, on this reading; the useful and the pleasant loves are real friendships of their kind, and the lasting one is the one that survives the other two wearing out.
 
 ## Cited in philosophy parallels
 
