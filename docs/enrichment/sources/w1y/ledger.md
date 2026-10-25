@@ -333,3 +333,21 @@ Corrections to the round-1 and round-2 ledger entry above.
   auth now via credential helper + GIT_ASKPASS reading an env var set
   per shell call (no token in remote URL or process args).
 - Validation: 1 checked, 0 failed (300 prose words). Build passes.
+
+## 2026-10-25 (UTC): Adaptive planning — QC round 5 (worker-pplx-w1y-1025f)
+
+- Masicampo source line in ## Sources corrected from the opened PDF's
+  own cover page: "Committed but Closed-Minded: When Making a Specific
+  Plan for a Goal Hinders Success," Social Cognition 30(1), 2012,
+  pp. 37-55. Earlier "30(4) 415-424" was wrong and is absent from
+  the current file.
+- Validator prose words (validator's own function): 334. Validator:
+  1 checked, 0 failed. Build passes.
+- Credential handling: ad hoc credential-store and askpass files
+  removed from disk and from git config; pushes now use an env-var
+  GIT_ASKPASS created per push (token never in remote config, never
+  in process args, never printed).
+- Commit: b76d883a6 on origin/main.
+- Item state: QC rounds 1-5 applied; standalone card accepted
+  conditionally pending supervisor review of the old stub's disposition
+  and the Related-principles labels (no link migration attempted).
