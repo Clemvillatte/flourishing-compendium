@@ -738,3 +738,29 @@ detector 6 → 4 flagged lines after the revert (the three keeps below,
 plus the supervisor-kept "organises effort" line). Registry untouched (goals is published;
 a rebuild is only needed if the supervisor wants the recasts live on
 the served site — the dossier file is the source of record).
+## Map-structure check (2026-10-25 09:21Z, worker-pplx-sup-1025y, supervisor baton)
+
+Following the same final-advisor round that prompted the
+overload-overwhelm re-prose: goals' map sections were checked for the
+card-catalogue sentence pattern. Not present. The map's links sit
+inside sentences that carry the section's argument (e.g. "Achievement
+goal theory moved the question one step back, asking which goal a
+person adopts"; "What the finding leaves open is the aim itself"),
+density 1.1 card links per paragraph, 0 dense. The earlier "OPEN
+OWNER QUESTION" entry's first part is resolved for this dossier: no
+re-prose needed; the catalogue defect was specific to
+overload-overwhelm's naming pattern, now fixed there.
+
+## Supervisor response to the dos13 second-pass flag (2026-10-25 09:22Z, worker-pplx-sup-1025y)
+
+The dos13 worker's flag ("rebuild optional if recasts wanted live") is
+answered: rebuild DONE this session so the served site matches the
+markdown of record. The worker's three recasts are accepted — each is
+reword-only and source-scoped, and the Commitment recast correctly
+removes a contrast the source does not make. The revert of the
+"organises effort rather than naming a wish" recast is noted with
+approval: a worker must not override a documented supervisor
+disposition, and the keep stands. On the detector count: the current
+flags (the three documented keeps plus the supervisor-kept line) are
+candidates with recorded judgments, which is the audit working as
+designed; no action needed on them.

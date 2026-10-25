@@ -10204,7 +10204,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Commitment](card:Commitment): the intent to persist; in this literature commitment is a condition for difficult goals to work rather than a feeling in its own right ([Locke & Latham 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))."
+          "x": "[Commitment](card:Commitment): the intent to persist; in the goal-setting literature, commitment is the condition that lets difficult goals work ([Locke & Latham 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))."
         },
         {
           "t": "p",
@@ -10228,7 +10228,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What happens when the unit is not one aim but a life of aims? [Superordinate goals](card:Superordinate%20goals), the remedy demonstrated in the Robbers Cave experiment, are aims that outrank a rivalry and cannot be met by one side alone. [Personal projects](card:Personal%20projects), Brian Little's unit of analysis for personality, widen the lens to the extended pursuit a person actually cares about. A life holds many aims at once, and the shape of that collection is itself a choice."
+          "x": "The theories above take one aim at a time. The unit can also be a life of aims. [Superordinate goals](card:Superordinate%20goals), the remedy demonstrated in the Robbers Cave experiment, are aims that outrank a rivalry and cannot be met by one side alone. [Personal projects](card:Personal%20projects), Brian Little's unit of analysis for personality, widen the lens to the extended pursuit a person actually cares about. A life holds many aims at once, and the shape of that collection is itself a choice."
         },
         {
           "t": "h2",
@@ -10284,7 +10284,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aims can fail from the outside or from each other. [Goal conflict research](card:Goal%20conflict%20research) examines what happens when a person's own goals work against each other, and the interference goes beyond the practical: [unresolved-goal interference](card:Unresolved-goal%20interference) is the attentional load open goals keep imposing while they stay open. A familiar failure mode is [escalation of commitment](card:Escalation%20of%20commitment), the tendency to keep investing in a course of action that is going badly. Each of these names a way that staying the course can be the problem rather than the solution, which raises the question of when leaving is the better skill."
+          "x": "Aims can fail from the outside or from each other. [Goal conflict research](card:Goal%20conflict%20research) examines what happens when a person's own goals work against each other, and the interference goes beyond the practical: [unresolved-goal interference](card:Unresolved-goal%20interference) is the attentional load open goals keep imposing while they stay open. A familiar failure mode is [escalation of commitment](card:Escalation%20of%20commitment), the tendency to keep investing in a course of action that is going badly. Each of these names a way that staying the course can itself be the failure, which raises the question of when leaving is the better skill."
         },
         {
           "t": "h2",
