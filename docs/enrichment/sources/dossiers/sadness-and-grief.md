@@ -406,7 +406,7 @@ quote count 29 -> 32 as a result). Checks: dossier_check exit 0
 (35 card links, 17 headers, 27 carriers); quote_verify 32 checked /
 0 not found; density 0; app.js rebuilt (78 blocks), node --check OK.
 
-## Independent post-release verification (2026-10-25, launcher-pplx-1025b; corrected 10:59Z under the dos28 baton)
+## Independent post-release verification (2026-10-25, launcher-pplx-1025b, under the dos28 baton)
 
 Both Freud spans from the dos28 close re-verified against a downloaded
 copy of the Strachey Standard Edition text of Mourning and Melancholia,
@@ -415,17 +415,20 @@ https://archive.org/download/FreudMourningAndMelancholia/Freud_MourningAndMelanc
 path (same item as the dossier's carrier, 479 KB PDF). FINDINGS: (1) the
 span "when the work of mourning is completed the ego becomes free and
 uninhibited again" matches the extracted text word-for-word. (2) the span
-"each single one of the memories and expectations in which the libido is
+"Each single one of the memories and expectations in which the libido is
 bound to the object is brought up and hypercathected, and detachment of
 the libido is accomplished in respect of it" matches the extracted text
-word-for-word, including the capital "Each" at the sentence start (the
-dossier quote now preserves the source's capitalization after this pass;
-the earlier lowercase embedding was repaired at 11:01Z). (3) CORRECTION of
+word-for-word, including the capital "Each" at the sentence start. (3) CORRECTION of
 my earlier note: I did not test the
 dossier's exact carrier URL (ia803101.us.archive.org) — my failed request
 used a mistyped hostname (a803101..., missing the leading i), so the
 "unreachable" diagnosis is withdrawn; the canonical download URL above
-is simply the URL I actually used. No dossier change required.
+is simply the URL I actually used. REPAIR APPLIED THIS PASS (date-only
+record, 2026-10-25): the dossier's embedded quote was changed from
+lowercase "each single one..." to the source's capital "Each single
+one..."; checks re-run after the repair: dossier_check exit 0 (35 card
+links, 17 headers, 27 carriers); density 0; quote_verify 32 checked /
+0 not found.
 ## Rev — humanizer pass, contrast scaffolds removed (worker-pplx-1025-launchb, baton dos28, 2026-10-25 10:50Z)
 
 Prose revision only: no quotes, links, claims or evidence changed. The
