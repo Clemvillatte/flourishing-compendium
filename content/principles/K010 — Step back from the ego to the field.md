@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 10** — Step back from the ego to the field
 
-In the account of Nishitani's three-field topology given in the Stanford Encyclopedia's Kyoto School entry, the ego operates in a dualistic field of reified being; freeing oneself from egoistic obsessions requires first stepping back into the field of nihility, and the breakthrough to a non-dualistic reaffirmation of self and world occurs when nihility is broken through to the field of emptiness (Davis, §3.5). My application is a discipline of perspective: when a self-reference collapses, ask what remains true of the situation when the "me" is subtracted from it.
+In the account of Nishitani's three-field topology given in the Stanford Encyclopedia's Kyoto School entry, the ego operates in a dualistic field of reified being; freeing oneself from egoistic obsessions requires first stepping back into the field of nihility, and the breakthrough to a non-dualistic reaffirmation of self and world occurs when nihility is broken through to the field of emptiness (Davis, §3.5). This page turns that into a discipline of perspective: when a self-reference collapses, ask what remains true of the situation once the "me" is subtracted from it.
 
 (Nishitani, Religion and Nothingness, the chapters on the ego and the field of shunyata.)
 
 > Yet the real breakthrough to a non-dualistic reaffirmation of self and world only occurs when the relative nothingness of nihility is in turn broken through to a genuine experience of absolute nothingness or true emptiness on the "field of emptiness." (Bret W. Davis, "The Kyoto School", §3.5, Stanford Encyclopedia of Philosophy, describing Nishitani's three-field topology)
 
-**Plain words** The account has two steps: first away from the ego's stance, then through the emptiness that remains. In my exercise, the step is taken with a question: with the "me" subtracted, what is still true of the situation? What shows up is what the field was holding all along.
+**Plain words** The account has two steps: first away from the ego's stance, then through the emptiness that remains. The step can be taken with one question: with the "me" subtracted, what is still true of the situation? What shows up is what the field was holding all along.
 
 *For example:* after a public failure, someone stops drafting a comeback story and for a day notices the weather, the dishes, a friend's voice, as they are.
 
