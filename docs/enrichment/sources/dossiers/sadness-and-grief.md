@@ -376,3 +376,32 @@ discrepancy needs supervisor reconciliation. My the-self link repair
 (second Deikman span link + PMC verification) was also done under
 that baton — outside its manifest band — and is flagged for the same
 review.
+
+## Freud primary-source anchors added (2026-10-25 10:36Z actual clock, worker-pplx-1025i, dos28)
+
+The advisor QC open item is closed: both dispute questions now carry
+direct Freud anchors from the primary source. Carrier opened and
+text-extracted this session: the Strachey Standard Edition text of
+Mourning and Melancholia (Internet Archive item file,
+ia803101.us.archive.org/29/items/FreudMourningAndMelancholia/
+Freud_MourningAndMelancholia_text.pdf — direct file URL, fetchable,
+unlike the bot-walled jungiananalysts.org.uk reprint and the
+image-only UPenn PDF, both tried and rejected as carriers). Verbatim
+spans added: Q1 now ends on "when the work of mourning is completed
+the ego becomes free and uninhibited again"; Q2 now carries the
+reality-testing sentence "each single one of the memories and
+expectations in which the libido is bound to the object is brought up
+and hypercathected, and detachment of the libido is accomplished in
+respect of it". Both spans verified verbatim against the downloaded
+PDF text (extraction has soft-hyphen artifacts in surrounding
+sentences; the chosen spans are artifact-free). The Freud/Klass
+positions are now double-anchored: the 2012 paper's documented
+account AND the Freud primary text.
+
+Also this pass: the Q1/Q2 paragraphs were split to stay under the
+150-word prose-wall cap, and the citation links were kept on every
+quote-bearing paragraph after the splits (the verifier skips
+uncited paragraphs — one split had dropped a link and was restored;
+quote count 29 -> 32 as a result). Checks: dossier_check exit 0
+(35 card links, 17 headers, 27 carriers); quote_verify 32 checked /
+0 not found; density 0; app.js rebuilt (78 blocks), node --check OK.

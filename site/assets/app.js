@@ -15890,7 +15890,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The older clinical picture held that grief work means letting go. The 2012 study documents the account it inherited: \"the energy invested in the deceased loved one (i.e., attachment to the person)\" needed, in that picture, to be worked through so it could be \"withdrawn and invested in another person (Freud, 1917/1957)\", and \"complications in grief were associated with the inability to relinquish ties to the deceased\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Klass, Silverman and Nickman challenged that picture in 1996: as the study summarizes them, they argued \"that there were benefits for the bereaved in retaining connections with their deceased\", drawing the general conclusion \"that, in contrast to previous claims, continuing bonds with the deceased during bereavement is adaptive\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf))."
+          "x": "The older clinical picture held that grief work means letting go. The 2012 study documents the account it inherited: \"the energy invested in the deceased loved one (i.e., attachment to the person)\" needed, in that picture, to be worked through so it could be \"withdrawn and invested in another person (Freud, 1917/1957)\", and \"complications in grief were associated with the inability to relinquish ties to the deceased\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "Klass, Silverman and Nickman challenged that picture in 1996: as the study summarizes them, they argued \"that there were benefits for the bereaved in retaining connections with their deceased\", drawing the general conclusion \"that, in contrast to previous claims, continuing bonds with the deceased during bereavement is adaptive\" ([Stroebe et al. 2012](https://research-portal.uu.nl/ws/files/67801213/STROEBE_et_al_2012_Personal_Relationships.pdf)). Freud's own line, in the translation that account inherits, is plainer: \"when the work of mourning is completed the ego becomes free and uninhibited again\" ([Freud, Mourning and Melancholia 1917, Strachey translation](https://ia803101.us.archive.org/29/items/FreudMourningAndMelancholia/Freud_MourningAndMelancholia_text.pdf))."
         },
         {
           "t": "p",
@@ -15911,7 +15915,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 'Trauerarbeit' (grief work), conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). The dual-process model was built against that hypothesis, and the paper states its grounds: \"the poor quality of operationalizations in empirical studies (e.g., grief work operationalized as yearning and pining), the absence of sound evidence for it\". On the model, avoidance is not failure but part of the coping itself: the paper proposes \"a dynamic, regulatory coping process of oscillation\" in which the griever \"at times confronts, at other times avoids\" the tasks of grieving."
+          "x": "The grief work hypothesis, traced in the dual-process paper to Freud's 1917 'Trauerarbeit' (grief work), conveys a sense for the need to confront the pain and work through the loss, an effortful process ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). Freud's own description of the work is where the effortful picture comes from: \"each single one of the memories and expectations in which the libido is bound to the object is brought up and hypercathected, and detachment of the libido is accomplished in respect of it\" ([Freud, Mourning and Melancholia 1917, Strachey translation](https://ia803101.us.archive.org/29/items/FreudMourningAndMelancholia/Freud_MourningAndMelancholia_text.pdf))."
+        },
+        {
+          "t": "p",
+          "x": "The dual-process model was built against that hypothesis, and the paper states its grounds: \"the poor quality of operationalizations in empirical studies (e.g., grief work operationalized as yearning and pining), the absence of sound evidence for it\" ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf)). On the model, avoidance is not failure but part of the coping itself: the paper proposes \"a dynamic, regulatory coping process of oscillation\" in which the griever \"at times confronts, at other times avoids\" the tasks of grieving ([Stroebe & Schut 1999](https://wendyvanmieghem.com/wp-content/uploads/2012/08/dual-process-model-by-M.-Stroebe-.pdf))."
         },
         {
           "t": "p",
