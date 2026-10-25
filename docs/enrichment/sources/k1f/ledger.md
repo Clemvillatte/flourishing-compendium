@@ -12,3 +12,9 @@ Worker: worker-pplx-k1f-1025bb. Sources actually opened this session (fetched, n
 - **Cisler, Olatunji, Feldner & Forsyth, "Emotion Regulation and the Anxiety Disorders: An Integrative Review", PMC2901125** — https://pmc.ncbi.nlm.nih.gov/articles/PMC2901125/ (fetched): acceptance described as "noticing the emotion-based sensations without attempting to alter them"; Campbell-Sills et al. 2006 citation details. Inherited Evidence paragraph was NOT re-verified this pass beyond this review's description; QC applied to the added Protocol section only.
 
 QC: advisor review 12:15Z — invented "willingness rating of two" sentence removed, unsupported naming instruction removed, diary detail trimmed to ledger only, toolkit 7-min duration moved to guided-version section.
+
+## K159 Affect labeling — Protocol section
+
+- **Constantinou, Van Den Houte, Bogaerts, Van Diest & Van den Bergh, "Can words heal? Using affect labeling to reduce the effects of unpleasant cues on symptom reporting", Frontiers in Psychology 5:807, PMC4106456** — https://pmc.ncbi.nlm.nih.gov/articles/PMC4106456/ (fetched): "Affect labeling tasks typically include presentations of emotional stimuli, but instead of explicit instructions to down-regulate emotions, participants are asked to assign emotional labels to the stimuli."
+- **Lieberman et al. 2007 abstract via APS** — https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2007.01916.x/ (fetched this session; abstract re-read, matches the card's inherited quote).
+- Facets section (three editorial instructions, kept as numbered steps) was pre-existing editorial text; only restructured under the Protocol heading with the Constantinou grounding line added.

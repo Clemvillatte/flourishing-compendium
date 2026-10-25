@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 Name the emotion precisely: not "stressed" but "tight chest, dread, buzzing." Fine-grained labeling reduces amygdala reactivity and improves regulation.
 
-## Facets
+### Protocol
 
-*This kernel is presented in facets; the protocol within each facet is my editorial addition.*
+The steps are editorial, in the spirit of the experimental task; the quoted lines are exact:
 
-- Name the emotion with a specific word, not a report of circumstances; "I feel resentment" does work that "this meeting is terrible" does not.
-- If one word will not hold it, use three; granularity, not poetry, is the aim.
-- Label in the present tense, at the moment of the feeling; a label applied afterwards is a filing, not a regulation.
+1. Name the emotion with a specific word, not a report of circumstances; "I feel resentment" does work that "this meeting is terrible" does not.
+2. If one word will not hold it, use three; granularity, not poetry, is the aim.
+3. Label in the present tense, at the moment of the feeling; a label applied afterwards is a filing, not a regulation.
+
+The core act — choosing the word that names the emotion itself — is what the laboratory tasks operationalize: "Affect labeling tasks typically include presentations of emotional stimuli, but instead of explicit instructions to down-regulate emotions, participants are asked to assign emotional labels to the stimuli" ([Constantinou et al., 2014, *Frontiers in Psychology*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4106456/)). The studies used single-word labels; the fine-grained, multi-word labeling this kernel prescribes goes beyond what they tested, and the difference is disclosed in the Evidence below. What the studies support is the shape of the act: no instruction to calm down, just the word.
 
 ### Evidence
 
@@ -51,3 +53,4 @@ Practises the concept: [[Affect labeling|Affect labeling]]
 ## Sources
 
 - [Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science*, 18(5), 421–428 — abstract via APS](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2007.01916.x/) — abstract quoted verbatim; raw-text check done 2026-10-22.
+- [Constantinou, E., Van Den Houte, M., Bogaerts, K., Van Diest, I., & Van den Bergh, O. (2014). Can words heal? Using affect labeling to reduce the effects of unpleasant cues on symptom reporting. *Frontiers in Psychology*, 5:807 — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4106456/)
