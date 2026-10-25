@@ -530,6 +530,62 @@ prompt rather than being fully unprompted; the entry was re-verified against a r
 unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
 transcript text, including the Chicago-children and fear-elicitor phrasings as printed.
 
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 24): lecture 7 (Conscious
+of the Present; Conscious of the Past: Language (cont.); Vision and Memory, 59:43) chapters
+1 to 3 and 6 read in full from the transcript on the [OYC
+page](https://oyc.yale.edu/psychology/psyc-110/lecture-7), via a raw unprompted full-text
+fetch (prompt omitted, the batch 23 standard); chapters 4 and 5 were verified previously
+(batch 15), so this completes the lecture. Chapter 1 (Non-human Communication, 00:00:00 to
+00:09:16): follow-ups on newborns favoring their own language (auditory exposure beginning
+in utero) and the Let Him Have It court case (tried and found guilty, executed 1957,
+pardoned 1988); nonhuman communication systems contrasted with human language (vervet monkey
+calls, the honeybee waggle dance as a continuous analog signal, variable birdsong); the
+claim that no nonhuman system has phonology, morphology, syntax, combinatoriality or
+arbitrary technical names; the trained-ape controversy (Kanzi; Nim Chimpsky) with Bloom's
+assessment (against the Gray textbook's more credulous view: a handful of word-like signs
+after years of training, utterances without recursion and largely repetitive, citing the
+Nim-eat samples; Gleitman's remark that one of the subjects was a neurologist who could not
+produce a grammatical sentence); why apes failing language is unsurprising given the
+evolutionary split; and Bloom's opinion that teaching apes sign language is misguided, with
+wild systems the interesting study. Serves the M3 cognitive elective. Chapter 2 (The
+Relationship between Language and Thought, 00:09:16 to 00:12:39): the skipped subfields
+(language in the brain, aphasias, specific language impairment, dyslexia, perception and
+production, reading as a cultural invention versus language as an instinct); and the two
+language-and-thought questions framed for the next course segment: is language necessary for
+abstract thought (Bloom's no: prelinguistic babies and nonlinguistic animals reason) and
+does language structure thought (linguistic relativity, English versus Korean). Serves the
+M3 cognitive elective. Chapter 3 (Question and Answer on Language, 00:12:39 to 00:18:06):
+individual differences in language learning (Bloom's Einstein-did-not-talk-until-age-five
+anecdote, explicitly flagged by Bloom as probably not true; slight female advantage; large
+genetic factor; hemispheric bases); bilingual children distinguishing and learning both
+languages; multilingualism as the world norm; and the finding that learning multiple
+languages produces no deficit and no slowdown in either language, against the finite-
+resources intuition Bloom articulates (with the Quebec teaching debate as context). Serves
+the M3 cognitive elective. Chapter 6 (Question and Answer on Attention and Memory, 00:58:04
+to end, 59:43): Bloom answers why practiced skills become automatic and involuntary (he does
+not know the why; the cannot-not-read, cannot-stop-listening and cannot-shut-eyes examples),
+and confirms the amnesia patient retained pre-accident knowledge such as his own name.
+Boundary material for the M4 attentional row. Status for the chapter-1, chapter-2, chapter-3
+and chapter-6 segments: verified-video (transcript-based content review; identity, duration
+and instructor metadata inherited from the previous worker's checks). Lecture 7 is now fully
+content-verified across all six chapters.
+
+Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 24, continued): lecture 1
+(Introduction to Psychology, 29:37) chapter 2 (General Goals, 00:10:03 to 00:13:08) read in
+full from the transcript on the [OYC
+page](https://oyc.yale.edu/psychology/psyc-110/lecture-1), via the same raw unprompted
+fetch; chapters 1 and 3 were verified previously (batch 13) and were re-read in full in the
+same fetch, matching the batch 13 record. Chapter 2 content: motivations for taking the
+course; the real-world relevance of psychology (philosophy-of-life issues); the five sub-
+areas of the field (neuroscience, developmental, cognitive, social, clinical); and the
+related domains (evolution, economics and game theory, philosophy, computer science,
+anthropology, literature and theology). Serves M1 orientation; no matrix row currently cites
+lecture 1 segments, so the assignment is flagged for the strategist or an independent review
+rather than made by this worker. Status for the chapter-2 segment: verified-video
+(transcript-based content review; identity, duration and instructor metadata inherited from
+the previous worker's checks). Lecture 1 is now fully content-verified across all three
+chapters.
+
 QC pass (2026-10-25, worker-pplx-psychdim-2, batch 23; advisor round 2): the advisor
 withheld clearance on batches 19 to 22 with four repairs, all applied in this pass. (1)
 Provenance: the full-text fetches used for batches 18 to 22 carried a return-as-is prompt
@@ -753,7 +809,7 @@ blocking gaps on the register, not quiet omissions.
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
 | affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
 | cognitive | Core cognitive families: conditioning and learning, memory, judgment and decision making (essential: the cognitive dimension's standard families per the Yale syllabus and OpenStax contents) | [Bouton](https://nobaproject.com/modules/conditioning-and-learning); [McDermott and Roediger](https://nobaproject.com/modules/memory-encoding-storage-retrieval); [Bazerman](https://nobaproject.com/modules/judgment-and-decision-making) | M3 | reading plus worked examples | apply each family to a personal example | application rubric |
-| cognitive | Language (elective: psycholinguistics is a distinct field with its own curricula; the Yale syllabus covers it in one introductory class and the OYC lecture 7 candidate covers it at introductory level) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M3 | optional OYC lecture 7 segment | optional | not assessed unless elected |
+| cognitive | Language (elective: psycholinguistics is a distinct field with its own curricula; the Yale syllabus covers it in one introductory class and the OYC lecture 7 candidate covers it at introductory level) | [Yale 2026 syllabus](https://summer.yale.edu/sites/default/files/uploaded-files/syllabi/2026/psyc-s1100.pdf) | M3 | optional content-verified OYC lecture 7 chapters 1 to 3 (00:00:00 to 00:18:06) | optional | not assessed unless elected |
 | cognitive | Perception as educated unconscious inference: constancy, Gestalt segmentation, depth cues and illusions (essential: the standard introductory treatment of perception, grounded in a verified lecture segment) | verified OYC lecture 7 chapter 4 (00:18:06 to 00:39:15) | M3 | lecture segment with illusions demonstrated | explain one illusion by its depth cue | explanation rubric |
 | self | Self-esteem: definition and its distinction from self-concept clarity (essential: a core self-evaluation construct explicitly distinguished in the opened SCC review) | [Manchiraju 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350471/) | M5 | reading | distinction exercise between SCC and self-esteem | short written distinction |
 | cognitive | Rumination and repetitive negative thinking: features, transdiagnostic evidence (essential: a current transdiagnostic literature grounded in an opened World Psychiatry review) | [Ehring 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8429319/) | M3 | reading | analyse an RNT episode against the defining features | rubric-checked analysis |
@@ -819,17 +875,16 @@ feeding the next module's entry:
 
 ## Gap register (blocking or open)
 
-- Video resources: Yale OYC lectures 11 (all six chapters), 12 (all
-  six chapters), 13 (all six chapters), 16 (all six chapters) and 17 (all
-  eight chapters; sleep, dreams and laughter verified but unassigned to
-  any matrix row, see the batch 20 flag) are content-verified (transcripts
-  read, content classified, boundaries recorded; see the ledger section and
-  the batch 18 to 22 entries). Lectures 1 (chapters 1 and 3) and 7
-  (chapters 4 and 5) have their named segments content-verified; their
-  remaining chapters are candidates. The three talks are candidates with
-  identity, duration, instructor credentials and dates (where the opened
-  pages state them) checked; their content classification from recordings
-  or transcripts and segment assignment are outstanding, following the
+- Video resources: Yale OYC lectures 1 (all three chapters), 7 (all
+  six chapters), 11 (all six chapters), 12 (all six chapters), 13 (all
+  six chapters), 16 (all six chapters) and 17 (all eight chapters;
+  sleep, dreams and laughter verified but unassigned to any matrix row,
+  see the batch 20 flag) are content-verified (transcripts read, content
+  classified, boundaries recorded; see the ledger section and the batch
+  13 to 24 entries). The three talks are candidates with identity,
+  duration, instructor credentials and dates (where the opened pages
+  state them) checked; their content classification from recordings or
+  transcripts and segment assignment are outstanding, following the
   lecture-11 pattern at module production.
 - Intelligence and behavioral genetics (lecture 13 chapters 3 to 6):
   content-verified but unassigned — intelligence is not an established
