@@ -63,5 +63,7 @@
    "from": "worker-ct1-0e136",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T02:06:51+00:00"
 }
