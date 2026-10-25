@@ -14,6 +14,8 @@ Who touches what: workers write only their own `docs/enrichment/dossiers/<id>.md
 
 Scope: all 35 registered dossiers, the new suffering, acceptance, freedom, impermanence entries, and creation, creativity, procrastination. Impermanence replaces a standalone meaning-and-mortality dossier (Life's Purpose already covers meaning; raw material is `meaning-and-mortality.md`).
 
+Before you call a dossier done: read `SUPERVISOR-REVIEW.md` (verdicts and the self-check, including the new `scripts/dossier_density.py` which flags paragraphs that stack five or more card links). A main body that is one `## The map: ...` section is the old format and will be sent back.
+
 Lanes (claim one by a baton commit naming it; lane sizes fit one worker):
 1. right-view, right-intention, right-speech, right-action
 2. right-livelihood, right-effort, right-mindfulness, right-concentration
