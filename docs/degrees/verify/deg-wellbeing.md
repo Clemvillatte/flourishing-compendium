@@ -858,10 +858,11 @@ standard.
   Do We Know? The Social Dimension of Knowledge," presented 1 November
   2019.
 - Duration: 47:50 (watch page, 2026-10-25).
-- Instructor credentials: Alvin Goldman, who has taught philosophy at
-  the University of Michigan, the University of Arizona and Rutgers
-  University (per the uploader description; institutional page not
-  opened this session).
+- Instructor credentials: Alvin Goldman, emeritus Board of Governors
+  Professor of Philosophy and Cognitive Science, Rutgers University;
+  previously taught at the University of Michigan, University of
+  Illinois Chicago and University of Arizona (Wikipedia page opened
+  2026-10-25, https://en.wikipedia.org/wiki/Alvin_Goldman).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): which
   experts should be relied upon, whether genuine experts exist, and how
