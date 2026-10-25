@@ -44,21 +44,13 @@ His distinction between courage proper and the things that merely look like it i
 
 Hannah, Avolio and Walumbwa's working definition of the research field is [moral courage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20courage%20research), and the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58) is [the fearless mind](https://clemvillatte.github.io/flourishing-compendium/#card=The%20fearless%20mind).
 
-### Worry, rumination and uncertainty
+### What worry actually does
 
-[Worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research): Borkovec and colleagues' programme: worry is abstract verbal thought that feels like preparation while functioning as avoidance.
+Borkovec and colleagues' programme, carried on [worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research), holds that worry is abstract verbal thought that feels like preparation while functioning as avoidance. The avoidance theory, carried on [worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec), is that verbal thought can function as cognitive avoidance of threatening images.
 
-[Worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec): the avoidance theory of worry: verbal thought that can function as cognitive avoidance of threatening images.
+Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences is [rumination](https://clemvillatte.github.io/flourishing-compendium/#card=Rumination). Wells's [metacognitive model of anxiety and depression](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29) holds that positive and negative metacognitive beliefs maintain worry and rumination, and his [metacognitive therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20therapy%20%28Wells%29) treats beliefs about thinking, such as "worrying is useful", instead of the content of thoughts.
 
-[Rumination](https://clemvillatte.github.io/flourishing-compendium/#card=Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences.
-
-[Metacognitive model of anxiety and depression (Wells)](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29): positive and negative metacognitive beliefs maintain worry and rumination.
-
-[Metacognitive therapy (Wells)](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20therapy%20%28Wells%29): treating beliefs about thinking, such as "worrying is useful", instead of the content of thoughts.
-
-[Intolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20uncertainty): a dispositional incapacity to endure the aversive response triggered by uncertain situations.
-
-[Uncertainty tolerance](https://clemvillatte.github.io/flourishing-compendium/#card=Uncertainty%20tolerance): research on intolerance of uncertainty and what reducing it does to worry.
+A dispositional incapacity to endure the aversive response triggered by uncertain situations is [intolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Intolerance%20of%20uncertainty), and the research on what reducing it does to worry is carried on [uncertainty tolerance](https://clemvillatte.github.io/flourishing-compendium/#card=Uncertainty%20tolerance).
 
 [Tolerance of uncertainty](https://clemvillatte.github.io/flourishing-compendium/#card=Tolerance%20of%20uncertainty): comfort with incomplete information, as discussed in medical practice and in anxiety research.
 
@@ -66,15 +58,11 @@ Hannah, Avolio and Walumbwa's working definition of the research field is [moral
 
 [Risk perception](https://clemvillatte.github.io/flourishing-compendium/#card=Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies.
 
-### What anxiety does to attention
+### Where anxiety sends attention
 
-[Attentional control theory (Eysenck)](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20theory%20%28Eysenck%29): Eysenck and colleagues' 2007 account of what anxiety does to thinking.
+Eysenck and colleagues' 2007 account of what anxiety does to thinking is [attentional control theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20control%20theory%20%28Eysenck%29). MacLeod's theory, carried on [attentional bias theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20theory%20MacLeod), is that anxiety is maintained partly by where attention goes: toward threat cues.
 
-[Attentional bias theory MacLeod](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20theory%20MacLeod): anxiety is maintained partly by where attention goes: toward threat cues.
-
-[Attentional bias research](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20research): asks whether what attention selects contributes to emotional vulnerability or merely accompanies it.
-
-[Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory): an approach to modifying the cognitive biases that confer vulnerability to anxiety.
+The research asks whether what attention selects contributes to emotional vulnerability or merely accompanies it, carried on [attentional bias research](https://clemvillatte.github.io/flourishing-compendium/#card=Attentional%20bias%20research). An approach to modifying the cognitive biases that confer vulnerability to anxiety is [cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory).
 
 ### Stress: demand, body and buffer
 
