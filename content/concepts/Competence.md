@@ -28,7 +28,7 @@ Cognitive evaluation theory, SDT's subtheory for intrinsic motivation, proposes 
 
 > CET further specifies that feelings of competence will not enhance intrinsic motivation unless they are accompanied by a sense of autonomy or, in attributional terms, by an internal perceived locus of causality (IPLOC; deCharms, 1968). (Ryan and Deci, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions," Contemporary Educational Psychology 25(1), 2000, p. 58, [open PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
 
-By way of illustration: a pianist drilled by a controlling teacher may play accurately yet experience the practice as relief rather than satisfaction. The page inherits its Aristotle, Nicomachean Ethics II citation from the original seed line; that link is not re-verified here.
+By way of illustration: a pianist drilled by a controlling teacher may play accurately yet experience the practice as relief rather than satisfaction. The Aristotle, Nicomachean Ethics II citation is carried over from the page's founding line and is cited at second hand.
 
 ## Related concepts
 
