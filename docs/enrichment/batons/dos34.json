@@ -1,7 +1,13 @@
 {
  "baton": "dos34",
- "agent": null,
- "clocked_in": null,
- "takeovers": [],
- "released": true
+ "agent": "worker-pplx-dos34-1025j",
+ "clocked_in": "2026-10-25T04:50:02+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-dos34-1025j",
+   "at": "2026-10-25T04:50:02+00:00",
+   "from": null,
+   "reason": "released"
+  }
+ ]
 }
