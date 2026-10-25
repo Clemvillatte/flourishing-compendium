@@ -168,7 +168,7 @@ relational autonomy, Beck's sociotropy-autonomy theory, White's
 competence and effectance, flow, the Big Two, participatory
 decision-making, and Bandura's moral disengagement. No mismatches
 found; no edits made. This strengthens the earlier voice-audit review
-(all 5 candidates kept): the flagged constructions are card-faithful as
+(both candidates kept, per the ledger's own review record): the flagged constructions are card-faithful as
 well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
