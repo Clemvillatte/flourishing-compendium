@@ -15,7 +15,7 @@
    test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
    the registration commits; succession via disposable mail accounts should be raised with the owner.
 
-## SESSION CHECKPOINT (2026-10-25 09:21Z, worker-pplx-sup-1025y, supervisor — FINAL SUMMARY, supersedes the entries below)
+## SESSION CHECKPOINT (2026-10-25 09:21Z, updated 09:35Z, worker-pplx-sup-1025y, supervisor — interim checkpoint (session still live; final closeout commits follow)
 
 Session totals (all pushed and verified on origin/main): (1) p1i
 integration applied — 8 reciprocals, all 8 glosses card-verified, 0
@@ -56,8 +56,7 @@ six QC log entries + Owner-Board lines + PROGRESS refresh recorded.
 FINAL COMMITS (chronological): 1ec9f5e73, 4eb5021a5, ef38b8289,
 20211448d, 2141efa25, 94110d98f, d934d6016, 314487241, dc810530d,
 5ef65fc08, 88a70ccd8, b26608120, 063d95968, 6df2134bc, 84e2384fe,
-25cb62e81. Board at close: deg-verify-b and dos34 active; cmp closed
-per owner directive; baton released at session end (see final commit).
+25cb62e81. Board at checkpoint: deg-verify-b and dos34 active; cmp closed per owner directive; supervisor baton release and final save are scheduled at T+58 (see the final commits). LEISURE RULING (see SUPERVISOR-REVIEW): bar met at three substantiated, all six dispute carriers supervisor-verified first-hand; flip HELD on baton release + the owner's art ruling (the Monet file is curated and committed; the owner's 05:10Z 'art pending owner' line postdates the curation).
 Known open items for the next session: meaning-and-mortality still
 awaits its GF-model rewrite (the last of the original four); the
 degenerate notes in dos5/freedom/behaviour/solitude ledgers
