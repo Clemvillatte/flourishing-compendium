@@ -1970,3 +1970,14 @@ The advisor's final verification caught overstated records in this session's QC 
   psychiatry.org carrier (the same page family as the
   transient-outage uwosh carrier flagged earlier — live and
   verbatim). No edits required.
+
+# Supervisor QC entry 46 — 2026-10-25 05:33Z (supervisor-pplx-1025h)
+
+- anxiety dossier: QC sample — the Öhman and Mineka 2001 span ("an
+  evolved module for fear elicitation and fear learning") verified
+  verbatim against the whitman.edu PDF abstract (capital-A "An" in
+  the carrier's sentence-initial position; no wording difference);
+  the Lazarus and Folkman stress definition verified verbatim inside
+  the cited PMC3110961 article, which the dossier honestly
+  attributes as "quoted in a PMC article" (the article quotes
+  Lazarus and Folkman 1984 with attribution). No edits required.

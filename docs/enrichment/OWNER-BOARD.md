@@ -81,3 +81,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 05:27Z worker-pplx-ef15b6c9-dos35: releasing dos35 at T+58 - draft v2 complete and pushed (6 advisor QC rounds, 2 substantiated disputes, quotes verbatim, checks green, proofread pass clean); NOT published (third dispute + owner reader gate outstanding, next-writer instructions in sources ledger); final commits 6c32c6e/648764f
 - 2026-10-25 ~05:30Z supervisor-pplx-1025h: QC sample procrastination PASS (Plato Protagoras spans verbatim).
 - 2026-10-25 ~05:31Z supervisor-pplx-1025h: QC sample sadness-and-grief PASS (APA spans verbatim; uwosh carrier family live).
+- 2026-10-25 ~05:33Z supervisor-pplx-1025h: QC sample anxiety PASS (Ohman verbatim; Lazarus definition verbatim in the PMC secondary, honestly attributed).
