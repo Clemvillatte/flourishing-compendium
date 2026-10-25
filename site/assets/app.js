@@ -17989,7 +17989,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Constant, writing in 1819, answers from the other side of the Revolution. He saw its leaders as \"steeped in ancient views which are no longer valid\", among the ancients \"the individual, almost always sovereign in public affairs, was a slave in all his private relations\", and he read Rousseau as having \"furnished deadly pretexts for more than one kind of tyranny\": \"by transposing into our modern age an extent of social power, of collective sovereignty, which belonged to other centuries, this sublime genius, animated by the purest love of liberty, has nevertheless furnished deadly pretexts for more than one kind of tyranny\" ([Constant, The Liberty of the Ancients Compared with that of the Moderns, 1819 speech, text as published in Cours de politique constitutionnelle, 1820, Internet Archive](https://dn760000.eu.archive.org/0/items/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_text.pdf))."
+          "x": "Constant, writing in 1819, answers from the other side of the Revolution. He saw its leaders as \"steeped in ancient views which are no longer valid\", among the ancients \"the individual, almost always sovereign in public affairs, was a slave in all his private relations\", and he read Rousseau as having \"furnished deadly pretexts for more than one kind of tyranny\": \"by transposing into our modern age an extent of social power, of collective sovereignty, which belonged to other centuries, this sublime genius, animated by the purest love of liberty, has nevertheless furnished deadly pretexts for more than one kind of tyranny\" ([Constant, The Liberty of the Ancients Compared with that of the Moderns, 1819 speech, text as published in Cours de politique constitutionnelle, 1820, Internet Archive](https://archive.org/download/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_text.pdf))."
         },
         {
           "t": "p",
@@ -18053,6 +18053,48 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "My lean is Beauvoir's for the exercise wing, and the dossier's own interdependence card carries that lean; but Sartre's conflict thesis is not answered by it, because the Look is a real hazard, and any account of shared freedom has to say what it does with being seen."
+        },
+        {
+          "t": "h2",
+          "x": "Does a free act have to escape the causal chain?"
+        },
+        {
+          "t": "p",
+          "x": "Hume's section \"Of Liberty and Necessity\" in the [Enquiry Concerning Human Understanding](https://www.gutenberg.org/cache/epub/9662/pg9662.txt) defines liberty so that it survives determinism. Liberty is the ability to act on one's will, and he treats the old quarrel as a verbal one:"
+        },
+        {
+          "t": "q",
+          "x": "\"By liberty, then, we can only mean a power of acting or not acting, according to the determinations of the will; that is, if we choose to remain at rest, we may; if we choose to move, we also may. Now this hypothetical liberty is universally allowed to belong to every one who is not a prisoner and in chains.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He adds that he hopes \"to make it appear that all men have ever agreed in the doctrine both of necessity and of liberty, according to any reasonable sense, which can be put on these terms; and that the whole controversy has hitherto turned merely upon words.\""
+        },
+        {
+          "t": "p",
+          "x": "Kant, in the [Critique of Practical Reason](https://www.gutenberg.org/cache/epub/5683/pg5683.txt) (Abbott's translation), rejects the kind of move Hume makes. He describes the view that actions are free because their causes lie in the agent's own ideas and desires, and answers:"
+        },
+        {
+          "t": "q",
+          "x": "\"This is a wretched subterfuge with which some persons still let themselves be put off, and so think they have solved, with a petty word- jugglery, that difficult problem, at the solution of which centuries have laboured in vain.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "His reason is that a cause which lies in the antecedent state is \"no longer in his power\" when the subject has to act. Such freedom, he says, would be \"nothing better than the freedom of a turnspit, which, when once it is wound up, accomplishes its motions of itself.\" Kant does not name Hume in this passage, so the pairing is mine; the target is the general \"comparative\" notion of freedom, which Hume's definition fits."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on what freedom has to deliver. For Hume, acting as one chooses is all that the word can reasonably mean, and the rest is confusion; he even says the doctrines of necessity and liberty are \"absolutely essential\" to morality. For Kant, a moral law that holds people responsible needs independence from the time-series of causes, which he calls transcendental freedom, and anything weaker leaves \"no room\" for it."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine and not the sources', is that Hume's definition is the one the exercise wing can use, since a person's practice of choosing within constraint is what the dossier tracks. Kant's objection still stands as a question about responsibility that the practical definition does not answer by itself."
+        },
+        {
+          "t": "p",
+          "x": "Limits: Hume is read from one section and Kant from one passage. Neither translation is checked against the original language, and later compatibilist and incompatibilist literature is not covered here."
         },
         {
           "t": "h",
