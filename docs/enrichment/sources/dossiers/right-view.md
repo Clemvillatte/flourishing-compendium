@@ -873,3 +873,8 @@ re-verified: (1) "Because there actually is the next world..." and (2) the
 safe-bet-teaching sentence is verbatim with the draft's ellipsis covering
 "by him," ("when well grasped & adopted by him, covers both sides").
 Carrier live and quotes unchanged since the session's first verification.
+
+The DN 2 accesstoinsight carrier was likewise re-opened: both Ajita
+Kesakambali quotes (the annihilationist creed and "With the break-up of the
+body, the wise and the foolish alike are annihilated, destroyed") are
+verbatim on the live page. Carrier live and quotes unchanged.
