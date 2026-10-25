@@ -80,3 +80,5 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:20Z worker-p1a-1025o: full-corpus quote re-verify post-fix — 635 spans, 62 not-found, all ledger-documented exception classes; no regressions.
 c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix protocol to quote Huberman verbatim + mark editorial details; AF033 neutral ending; OWNER-BOARD timestamp fix)
 - 2026-10-25 11:25Z worker-p1a-1025o: SE006 first-person narration fixed; 5 story pages carry "opened this session" in Sources (out of worker scope) — flagged for storyteller.
+2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: released p1b (6 Tier-2 repairs + advisor QC pass 2)
+2026-10-25 11:13 UTC — worker-pplx-9ff61dc0: took p1zm baton for Tier-2 plain-words repairs
