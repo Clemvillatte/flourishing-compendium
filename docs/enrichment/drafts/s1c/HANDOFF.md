@@ -117,3 +117,9 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 ## 2026-10-25 15:20Z — QC closing note (qc-storyteller-pplx-1025x)
 
 - s1c-021 also sampled (AN 6.19 six monks, both carriers verbatim). Final session totals for s1c: 20 of 38 ready drafts QC-sampled, no faults found. Baton released after this save; lane left in ready state for registration.
+
+## 2026-10-25 15:22Z — QC session close (qc-storyteller-pplx-1025x)
+
+- Final samples this pass: s1c-003 (Fayan, 6/6 verbatim), s1c-006 (Russell 2/2 verbatim; Frege carrier Cloudflare-walled to all three access methods - flagged), s1c-021 (AN 6.19, both carriers verbatim).
+- Final session totals for s1c: 23 of 38 ready drafts QC-sampled. Faults found: none. Flags: s1c-006 Frege carrier walled (quotes rest on documented prior access).
+- Baton released after this save; lane left in ready state for registration.
