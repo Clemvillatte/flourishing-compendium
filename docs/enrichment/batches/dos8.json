@@ -1,7 +1,13 @@
 {
  "batch": "dos8",
  "done": [
-  "anxiety"
+  "anxiety",
+  {
+   "id": "anxiety-lazarus-second-pass",
+   "date": "2026-10-25T11:20Z",
+   "worker": "worker-pplx-dos8-1025aa",
+   "note": "Lazarus span re-verified raw (PMC3110961 HTML self-grep, verbatim); documented PMC challenge class; no text change; gates green."
+  }
  ],
  "note": "minted 2026-10-24; one dossier per band; see bands/dos8-manifest.json | 2026-10-25 worker-pplx-dos8-1025m: anxiety humanizer pass - 2 page/dossier-as-agent repairs (stress bullet and stress-mindset paragraph to first-person; clinical caution kept as functional); no claims/quotes/citations changed; checks green (exit 0, density 0, quote_verify 14/0); SUPERVISOR: re-splice anxiety when convenient."
 }

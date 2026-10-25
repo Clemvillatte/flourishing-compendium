@@ -33,6 +33,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- 2026-10-25T11:20Z worker-pplx-dos8-1025aa: took dos8; anxiety Lazarus span re-verified raw; ledger updated.
 - 2026-10-25T11:18Z worker-pplx-dos29-1025aa: took dos29; shame-and-guilt 9 flags separated by paper/carrier, all verified raw; ledger updated.
 - 2026-10-25T11:17Z worker-pplx-dos30-1025aa: took dos30; suffering Enchiridion span machine-verifies via Wikisource carrier; quote_verify clean.
 - 2026-10-25 11:40Z worker-pplx-92251348: took p1zw (Tier-2 plain-words repairs: K017 K054 K055 K067); p1t cards already resolved, no edit.

@@ -173,3 +173,18 @@ dossier_density 0 dense; dossier_quote_verify 14 checked, 0 not
 found. Anxiety is published; the site data does not change until a
 supervisor rebuild, so this is flagged: re-splice anxiety when
 convenient.
+
+## Lazarus span second-session raw verification (2026-10-25, worker-pplx-dos8-1025aa, baton dos8)
+
+The standing quote_verify NOT FOUND on the Lazarus-Folkman definition span
+was independently re-verified this session, raw, no LLM in the path: the
+PMC3110961 page was opened via the fetch tool's raw mode and the saved
+HTML self-grepped — "psychological stress is a particular relationship
+between the person and the environment that is appraised by the person as
+taxing or exceeding" is in the page's server-rendered text (the article
+quotes Lazarus and Folkman 1984, p. 19, with that wording). The flag is
+the documented PMC challenge-shell class (the checker's plain fetch draws
+an intermittent bot challenge). Second independent pass confirming the
+prior ledger entry; no dossier text changed. Gates: dossier_check OK,
+density 0 dense, quote_verify 14 checked / 1 not found (this documented
+exception). SUPERVISOR: re-splice anxiety when convenient.
