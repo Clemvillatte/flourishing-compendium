@@ -586,6 +586,92 @@ Block A, fcAcademyData records for deg-philosophy modules.
   https://www.youtube.com/watch?v=Pl13Wtm47lQ and the watch page could not be
   opened in-session (2026-10-25). Same action needed as M23-EX02.
 
+## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
+
+These records are not yet attached to modules; they are verified here so owners can
+attach them with evidence on file.
+
+### M01-P01: A History of Philosophy, 61, Whitehead's Process Philosophy (Wheaton College)
+
+- Identity and access: oembed confirms the lecture on the wheatoncollege channel
+  (https://www.youtube.com/watch?v=ysTx1c5-A7s).
+- Duration: 1:03:56 (watch page, 2026-10-25). QUALITY FLAG: the uploader states the
+  video goes out from 12:33 to 23:24 and a better copy is being sought; the owner
+  should wait for the replacement or accept the gap.
+- Instructor credentials: Wheaton College's history of philosophy course series; the
+  individual lecturer is not named on the page.
+- Language: English.
+- Content coverage: the description and page material cover Whitehead's process
+  philosophy and its influence on process theology, his influences (Hegel, Bradley,
+  Romanticism, modern science), misplaced concreteness, creativity, God, and his
+  account of perception.
+- Relevant segment: whole lecture, 1:03:56, minus the dropout flagged above.
+- Verification status: verified-video, with the dropout flagged.
+
+### M01-P05: Introduction to Process Thought (Philip Clayton, Center for Process Studies)
+
+- Identity and access: oembed confirms the lecture on the Center for Process Studies
+  channel (https://www.youtube.com/watch?v=JgWq5vbTD7A).
+- Duration: 0:47:18 (watch page, 2026-10-25).
+- Instructor credentials: Dr Philip Clayton, presenting the annual Introduction to
+  Process Thought class at Claremont School of Theology (per the host description).
+- Language: English.
+- Content coverage: the host's description states the lecture deals with core ideas
+  of process thought and their insights for theological approaches; the transcript
+  material covers God-world relation, ethics, Christology, spirituality and biblical
+  studies.
+- Relevant segment: whole lecture, 47:18.
+- Verification status: verified-video.
+
+### M01-P09: Whitehead's Philosophy of Organism (Matthew D. Segall, Dartington Trust)
+
+- Identity and access: oembed confirms the talk on the Dartington Trust channel
+  (https://www.youtube.com/watch?v=sRA-QoOGPPg).
+- Duration: 1:36:01 (watch page, 2026-10-25).
+- Instructor credentials: Matthew D. Segall, Assistant Professor in the Philosophy,
+  Cosmology and Consciousness program at the California Institute of Integral
+  Studies (stated on the host page). Note for the owner: the same speaker's
+  independent-channel lecture is M01-P18; the two differ in host and depth.
+- Language: English.
+- Content coverage: the host's description states the talk introduces Whitehead's
+  Philosophy of Organism as a protest against scientific materialism, exploring the
+  major themes of Process and Reality.
+- Relevant segment: whole talk, 1:36:01.
+- Verification status: verified-video.
+
+### M01-P11: Spotlights 3.14, Process Studies and Imagination (Matthew Segall, Yale Forum)
+
+- Identity and access: oembed confirms the episode on the Yale Forum on Religion and
+  Ecology channel (https://www.youtube.com/watch?v=FmYOx-WxsOQ).
+- Duration: 0:58:25 (watch page, 2026-10-25).
+- Instructor credentials: Matthew Segall, PhD, Assistant Professor, CIIS (stated on
+  the host page).
+- Language: English.
+- Content coverage: the host's description states the interview covers the 50th
+  anniversary conference of the Center for Process Studies, Whitehead's influence
+  on environmental ethics and eco-theology, and Segall's work on imagination in
+  Schelling and Whitehead.
+- Relevant segment: whole episode, 58:25.
+- Verification status: verified-video.
+
+### M01-P13: O Pragmatismo de John Dewey (Cassiano Terra Rodrigues and Larry Hickman, UNIVESP)
+
+- Identity and access: oembed confirms the interview on the UNIVESP channel
+  (https://www.youtube.com/watch?v=H9HCUehmvOQ).
+- Duration: 1:02:11 (watch page, 2026-10-25).
+- Instructor credentials: Cassiano Terra Rodrigues, professor of Philosophy and
+  researcher at the Center for the Study of Pragmatism, PUC-SP, and Larry Hickman,
+  professor of Philosophy at Southern Illinois University and director of the Center
+  for Dewey Studies (per the host description).
+- LANGUAGE: Portuguese. Flag for the owner: the module must state this expectation
+  to learners.
+- Content coverage: the host's description states the program asks how Dewey's
+  pragmatism revolutionized education, in two interviews recorded in 2009; the
+  Hickman interview begins at 49:17.
+- Relevant segment: whole program, 1:02:11; the Hickman interview segment starts at
+  49:17 per the uploader.
+- Verification status: verified-video, with the language flag noted.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
