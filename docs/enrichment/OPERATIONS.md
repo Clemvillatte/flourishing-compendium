@@ -1,3 +1,32 @@
+# Supervisor QC entry 15 — 2026-10-25, T+17 (launcher-pplx-1025n)
+
+- Publish-then-review pass: verdict rows recorded for right-intention (PASS,
+  third dispute Epicurus-vs-Seneca raw-verified), fear (PASS, Iverach via
+  Europe PMC + both Craske spans browser-verified on live PMC), impermanence
+  (PASS, Epicurus/Dhammapada anchors raw-verified, Klein 2022 via independent
+  records of the published abstract — Collabra bot-walls fetcher AND browser),
+  sadness-and-grief (PASS, 30/0 fetch-verified, five Cicero fragments
+  raw-verified). Carried-over rows recorded for cognition, behaviour,
+  right-view, right-speech; right-action stays structural-only (flagged).
+- PROCRASTINATION RE-PUBLISHED (4854d5a): the dos33 worker's bar repair
+  verified — 3 substantiated disputes, 10/0 fetch-verified quotes, Chu-Choi
+  eutils + Tice-Baumeister APS spot-checks verbatim; routes.qa ALL PASS with
+  a local server (the addendum-14 lesson applied), voice + readability tests
+  OK; registry 39 published.
+- the-self follow-through: fcDossiersData rebuilt from merged markdown after
+  a rebase collision with the dos20 worker's independent verification pass
+  (both Deikman spans now on the verified Wayback carrier; Hume verbatim fix
+  and the 1025e card-link sections synced). M01-D05 replace-import flag
+  WITHDRAWN — the deg-verify-b notes typo'd the video ID (u2PT1hIjp8U vs the
+  live u2PT1hIjp8g, oembed 200); no repair needed.
+- OPEN FLAG (routed from dos28 worker df5f420): the dos20 manifest maps to
+  right-speech but the ledgers call the anger-span work 'dos20' — the
+  band-to-manifest mapping needs reconciliation by the next supervisor or the
+  owner; I did not touch it this pass.
+- Dashboard fix: enrich_progress_report now excludes date-stamped batch
+  work-notes from the phantom unmatched-concept count (39 -> 24; matched
+  totals verified unchanged by regression test).
+
 # OWNER STOP-GATE: dossier readability, 2026-10-24
 
 Before producing dossier prose, read the newest owner correction in
