@@ -1634,3 +1634,17 @@ The advisor's final verification caught overstated records in this session's QC 
   ledger-documented (PubMed urllib block, verified by eye, cache
   seeded). Clean pass.
 - Taper: no further full items; heartbeats and final sequence only.
+
+# Supervisor QC entry 22 — 2026-10-25 ~04:13Z (supervisor-pplx-brownmermaid-1025a)
+
+- CHRONIC-PAIN-RESEARCH PLACEMENT (supervisor decision, dos24's
+  6670f9954 recommendation): ACCEPTED into the suffering dossier's
+  first-arrow section. One card-faithful paragraph (McCracken 1998
+  outcomes list and low-correlation finding; Sullivan
+  catastrophizing definition and parts), no new carriers, no new
+  claims. Checker 49 links, 0 dense. app.js rebuilt
+  (--rebuild=suffering, 58 blocks, f55f0cb6); live site verified
+  end-to-end (McCracken and catastrophizing present in the
+  deployed payload). NOTE for future workers: the default
+  registry build splices metadata only; a body edit to a published
+  dossier needs dossier_registry_build.py --rebuild=<id>.
