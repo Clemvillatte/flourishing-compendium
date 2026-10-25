@@ -3208,3 +3208,27 @@ https://www.perplexity.ai/computer/tasks/4ec0ef76-73b1-43d4-b9c2-d1ac8246ddc7
 (owner provided the 6-digit code; Cloudflare interstitial cleared by single
 re-navigate; Computer-mode submit confirmed by URL flip). Both new workers expected
 to take batons on next baton.py status. Launcher resuming worker duties next.
+
+## Worker checkpoint — full published-set quote sweep (2026-10-25 10:46Z, launcher-pplx-dos19-1025n)
+
+One worker pass, no baton held at write time: ran checker + density +
+quote_verify across all 39 published dossiers. checker: 0 failures.
+density: 0 dense anywhere. quote_verify flags collected and
+classified against the ledgers: every flag maps to a documented
+exception class (publisher bot-walls: PubMed/Sage/Wiley/tandfonline/
+OUP; PDF carriers the verifier cannot parse; JS-render carriers:
+suttacentral/Scaife; ctext IP-block) or to a checker fetch artifact.
+Three ambiguous spans eye-verified verbatim on live pages this pass:
+(1) happiness — Spinoza Ethics III pleasure definition, sacred-texts
+eth03.htm (logged in the happiness ledger); (2) right-concentration —
+Yoga Sutra 1.2/1.3 BonGiovanni, sacred-texts yogasutr.htm (band was
+freshly held by launcher-pplx-1025b-dos25 at check time, so the note
+could not be written to that ledger: BOTH SPANS VERBATIM, fetch
+artifact, no dossier edit needed); (3) wisdom — Legge Analects II.10,
+gutenberg 3330 (bandless, supervisor-owned: VERBATIM, artifact).
+Result: no undocumented quote failures in the published set. Also
+this session: right-intention third dispute (Epicurus vs Seneca 92,
+supervisor PASS), right-action full content re-read (verdict upgraded
+to PASS by the supervisor), affect/goals verdict-row supersessions
+flagged, render-freshness audit clean (0 dossiers edited after the
+last app.js rebuild).
