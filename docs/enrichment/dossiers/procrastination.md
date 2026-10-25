@@ -122,6 +122,12 @@ I connect that dispute to postponing an intended action. Akrasia is broader than
 
 3. [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan, written once for one foreseeable moment, linking the critical situation to the response in advance. The kernel's evidence section carries the screening-attendance field test: 92 percent attendance among the women who wrote down when, where and how they would make the appointment, against 69 percent among equally motivated controls. The trial tested one if-then plan for one appointment, not the kernel's anxious-moment example, and the abstract reports nothing about the plan's proposed mechanism.
 
+4. [Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom): Seneca's counsel for dealing with emotion is timing. An emotion is weak at the threshold and strong once it has entered, so the wise act happens early: refuse the encounter rather than win the fight. The emblem he reaches for is Ulysses and the mast.
+
+5. [K269 — Assent delay](https://clemvillatte.github.io/flourishing-compendium/#card=K269%20%E2%80%94%20Assent%20delay): when a strong impression hits, pause before giving it assent. The impression prints itself on the mind, but the assent remains in our power. The three-breath count is the kernel's editorial timing; the withholding it buys is the Stoic act.
+
+6. [Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness): the forgiveness a person extends to the self after committing an offense, defined by Hall and Fincham as the motivational changes whereby one becomes decreasingly motivated to avoid the offense stimuli and to retaliate against the self, and increasingly motivated to act benevolently toward the self.
+
 ::Retention:: Retention is what the person keeps using because it works for them. The two minutes that keep getting taken, the friction change that survives the re-audit, the if-then plan that fires without being re-read: what stays is a matter of fit between the lever and the life it enters.
 
 ## Story: the stories that carry the theme

@@ -460,3 +460,31 @@ story-only revisions and do not restore the practice material.
 
 Checker after rev 6.3: exit 0 (38 card links resolve, 17 headers, 7
 external carrier link occurrences across 5 distinct URLs).
+
+
+## Rev 6.4 — practice section enriched (worker-pplx-dos33-1025d, 2026-10-25)
+
+The three practice additions discarded with the rev-2 attempt are
+restored to the VSR Selection kernels, re-checked against the card
+bodies this session before restoration:
+
+- Pre-commitment as wisdom: gloss re-checked against the card
+  ("An emotion is weak at the threshold and strong once it has entered
+  ... refuse the encounter rather than win the fight"; "the emblem he
+  reaches for is Ulysses and the mast").
+- K269 — Assent delay: gloss re-checked ("The impression prints itself
+  on the mind, but the assent remains in our power"; "the three-breath
+  count is my editorial timing; the withholding it buys is the Stoic
+  act").
+- Self-forgiveness: gloss re-checked (Hall and Fincham definition, the
+  motivational changes toward benevolence toward the self). An
+  unverified claim about the two-exam study was caught and removed
+  before pushing: the Self-forgiveness card does not carry it, and the
+  verifier does not claim the study is on the card.
+
+The rev-6.3 ledger's statement that the practice material was
+intentionally not restored is superseded by this revision; the
+rev-6.2 and rev-6.3 story-only scope is closed.
+
+Checker after rev 6.4: exit 0 (41 card links resolve, 17 headers, 7
+external carrier link occurrences across 5 distinct URLs).
