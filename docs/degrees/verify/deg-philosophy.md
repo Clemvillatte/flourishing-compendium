@@ -160,8 +160,9 @@ Block A, fcAcademyData records for deg-philosophy modules.
   independently re-read 2026-10-25 in response to the supervisor's
   routed flag: player 29:09, listing elsewhere on the page 29:28 —
   dual-figure ON THE PAGE itself; the catalog figure 29:28 matches the
-  page listing, not the player. Owners should schedule against 29:09
-  and treat 29:28 as including the fuller recording span).
+  page listing, not the player. The discrepancy is retained for owner
+  reconciliation; no explanation of the difference is established by
+  the page.)
 - Instructor credentials: Julia Annas, Regents Professor of Philosophy, Emerita,
   University of Arizona (department directory,
   https://philosophy.arizona.edu/faculty).
@@ -581,24 +582,27 @@ Block A, fcAcademyData records for deg-philosophy modules.
   The degree owner must re-check the URL, find the replacement (the surviving
   2.3.2.1 is titled "version 2", suggesting earlier uploads were replaced), or
   drop the attachment from mod-phil-3. INDEPENDENT CONFIRMATION (2026-10-25):
-  a direct oembed retrieval from a second network path also returned Not
-  Found, so the video is gone from YouTube, not merely fetcher-blocked.
+  a direct oembed retrieval (curl, distinct from the earlier fetcher
+  path) also returned Not Found — the oembed endpoint returns no record
+  for this video.
 
 ### M23-EX05: Hellenistic Philosophy 2.3.3.1
 
 - NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
   https://www.youtube.com/watch?v=ADaSJaXm8pU and the watch page could not be
   opened in-session (2026-10-25). Same action needed as M23-EX02. INDEPENDENT CONFIRMATION
-  (2026-10-25): a direct oembed retrieval from a second network path also
-  returned Not Found.
+  (2026-10-25): a direct oembed retrieval (curl, distinct from the
+  earlier fetcher path) also returned Not Found — the oembed endpoint
+  returns no record for this video.
 
 ### M23-EX06: Hellenistic Philosophy 2.3.3.2
 
 - NOT VERIFIED, BLOCKING: the oembed endpoint returns a client error for
   https://www.youtube.com/watch?v=Pl13Wtm47lQ and the watch page could not be
   opened in-session (2026-10-25). Same action needed as M23-EX02. INDEPENDENT CONFIRMATION
-  (2026-10-25): a direct oembed retrieval from a second network path also
-  returned Not Found.
+  (2026-10-25): a direct oembed retrieval (curl, distinct from the
+  earlier fetcher path) also returned Not Found — the oembed endpoint
+  returns no record for this video.
 
 ## Block I, unattached records (deg-verify-a hash half, verified 2026-10-25)
 Coverage-basis note for owners: entries in this section record the basis of each

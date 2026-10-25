@@ -434,8 +434,10 @@ standard.
   6:38.
 - Relevant segment: talk proper 6:38-53:26 (about 46 minutes).
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage rests on the uploader description and credentials
-  are pending institutional confirmation; dual-figure duration flagged.
+  verified; Mika's credentials verified on the opened Canterbury
+  profile page; coverage rests on the uploader description — confirm
+  against the recording before scheduling; dual-figure duration
+  flagged.
 
 ### M04-R12: Beyond Autonomy — a Relational Perspective on an Ethics of Care (Elisabeth Conradi, Oxford Institute of Population Ageing)
 

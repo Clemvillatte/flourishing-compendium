@@ -641,8 +641,9 @@ standard.
   doctoral supervisor, Department of Psychological and Cognitive
   Sciences, Tsinghua University; former Dean of Tsinghua's School of
   Social Sciences and inaugural Dean of its re-established Psychology
-  Department; formerly a tenured faculty member at UC Berkeley
-  (Tsinghua faculty page opened 2026-10-25,
+  Department; previously taught at the Department of Psychology at the
+  University of California, Berkeley (Tsinghua faculty page opened
+  2026-10-25,
   https://www.pcs.tsinghua.edu.cn/xlxen/info/1008/1346.htm; the dean
   title at lecture time, 2020, per the host description).
 - Language: English.
@@ -709,11 +710,11 @@ standard.
   of Chicago; Professor Anne Phillips, Emeritus Professor of Political
   Theory at the London School of Economics; Dr Bradley Franks (per the
   host description; pages not retrieved this session). Shweder and
-  Phillips via Wikipedia page content retrieved 2026-10-25 through the
-  Wikipedia REST summary endpoints
-  (https://en.wikipedia.org/api/rest_v1/page/summary/Richard_Shweder and
-  .../Anne_Phillips_(political_theorist)); chaired by Dr Alex Gillespie
-  (per the host description).
+  Phillips via Wikipedia REST summaries retrieved 2026-10-25
+  (https://en.wikipedia.org/api/rest_v1/page/summary/Richard_Shweder
+  and
+  https://en.wikipedia.org/api/rest_v1/page/summary/Anne_Phillips_(political_theorist));
+  chaired by Dr Alex Gillespie (per the host description).
 - Language: English.
 - Content coverage (host description, read 2026-10-25): whether there
   are limits to liberal moral concepts for judging others, what highly

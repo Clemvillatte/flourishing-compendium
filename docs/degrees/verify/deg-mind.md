@@ -1028,12 +1028,13 @@ against the recording or transcript before the record is attached to a module.
   University Library channel (https://www.youtube.com/watch?v=gJ0MV3ixnOM);
   watch page opened 2026-10-25.
 - Duration: 1:02:29 (watch page, 2026-10-25).
-- Instructor credentials: Calvin C. Newport, Associate Professor of
-  Computer Science, Georgetown University, author on attention
-  management in the digital age (Wikipedia page content retrieved
-  2026-10-25 via the Wikipedia REST summary endpoint,
-  https://en.wikipedia.org/api/rest_v1/page/summary/Cal_Newport; the
-  uploader description names Georgetown).
+- Instructor credentials: Calvin C. Newport, full-time professor of
+  computer science at Georgetown University, author on attention
+  management in the digital age (Wikipedia REST summary retrieved
+  2026-10-25,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Cal_Newport); the
+  recording's own description identifies him as Associate Professor of
+  Computer Science at Georgetown at talk time.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a book talk on
   Digital Minimalism — being more selective about personal technologies to
@@ -1142,12 +1143,13 @@ against the recording or transcript before the record is attached to a module.
   channel (https://www.youtube.com/watch?v=0ZLNbxWH8Lc); watch page opened
   2026-10-25. Financial Markets (ECON 252) with Robert Shiller, Spring 2008.
 - Duration: 1:05:09 (watch page, 2026-10-25).
-- Instructor credentials: Robert James Shiller, Sterling Professor of
-  Economics, Yale University, fellow at the Yale School of Management's
-  International Center for Finance (Wikipedia page content retrieved
-  2026-10-25 via the Wikipedia REST summary endpoint,
-  https://en.wikipedia.org/api/rest_v1/page/summary/Robert_J._Shiller);
-  instructor of ECON 252 per the uploader description.
+- Instructor credentials: Robert James Shiller — per the Wikipedia REST
+  summary retrieved 2026-10-25
+  (https://en.wikipedia.org/api/rest_v1/page/summary/Robert_J._Shiller),
+  as of 2022 he served as a Sterling Professor of Economics at Yale
+  University and is a fellow at the Yale School of Management's
+  International Center for Finance; instructor of ECON 252 per the
+  uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): behavioral
   finance applying social-science insights to finance — overconfidence,

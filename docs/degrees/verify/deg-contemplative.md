@@ -939,10 +939,11 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   this session (2026-10-25). The record appears to point to an unavailable
   video. REPLACE-IMPORT CANDIDATE: the owner should replace the link or
   confirm it from another environment before any use. INDEPENDENT
-  CONFIRMATION (2026-10-25): a direct oembed retrieval from a second
-  network path also returned Not Found for u2PT1hIjp8U — the video is
-  gone from YouTube, not merely fetcher-blocked.
-- Verification status: unverified (dead link, independently confirmed).
+  CONFIRMATION (2026-10-25): a direct oembed retrieval (curl, distinct
+  from the earlier fetcher path) also returned Not Found for
+  u2PT1hIjp8U — the oembed endpoint returns no record for this video.
+- Verification status: unverified (oembed endpoint returns no record;
+  replacement needed).
 
 ### M01-D14: Book Talk — Zhuangzi: The Complete Writings (Chris Fraser et al., University of Hawai'i)
 
@@ -1288,8 +1289,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   ritual and bodily space and perceptions of time.
 - Relevant segment: whole lecture, 1:34:21.
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage rests on the uploader description and credentials
-  are pending institutional confirmation.
+  verified; Meinert's credentials verified on the opened Ruhr research
+  portal page; coverage rests on the uploader description — confirm
+  against the recording before scheduling.
 
 ### SRC-M18-K01: Taking Buddhist Philosophy Seriously — Symposium in Honor of Jay L. Garfield, part 3 of 6 (Smith College)
 
@@ -1332,8 +1334,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Hatha yoga.
 - Relevant segment: whole lecture, 1:03:26.
 - Verification status: verified-partial: identity, access and duration
-  verified; coverage rests on the uploader description and credentials
-  are pending institutional confirmation.
+  verified; Balasubramanian's credentials verified on the opened WWU
+  Foundation event page; coverage rests on the uploader description —
+  confirm against the recording before scheduling.
 
 ### M05-YV-05: Patanjali's Yoga Sutras — 22, New Course (Swami Tattwamayananda, San Francisco Vedanta Society)
 
