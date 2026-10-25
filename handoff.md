@@ -1,5 +1,17 @@
 ## AGENT LAUNCH 10 (2026-10-25 ~11:10Z, launcher pplx-1025-launch-c, no baton held)
 
+## AGENT LAUNCH (2026-10-25 ~13:30Z, storyteller-pplx-s1a-1025z, holding s1a)
+
+Path A launch per owner directive (share the story-finishing load): account
+douglas.miller7600+g0qxk@outlook.com (signed in as douglasmil10647, Free plan),
+code supplied by the owner, Computer mode confirmed before paste. Worker prompt:
+docs/enrichment/PROMPT-STORYTELLER.md verbatim with the session token filled,
+plus a session-focus appendix (finish STARTED stories; take s1e then s1c-039;
+never run story_register.py). Paste verified head/tail before submit. Running at
+https://www.perplexity.ai/computer/tasks/01de374f-3e6d-4815-a7fc-4bbc0da92056.
+Expect it to take the s1e baton on next baton.py status. s1a held by me.
+
+
 Path A launch 10 (Add-account-free fresh session, worker onboarding questionnaire
 completed): account powarjsahebql28+fvxla@outlook.com (signed in as
 powarjsahe99330, Free plan), worker prompt (current PROMPT-WORKER.md with the
