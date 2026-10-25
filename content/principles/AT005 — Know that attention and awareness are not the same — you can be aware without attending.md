@@ -21,7 +21,7 @@ Focused-attention practice also trains the detection of distractions (Box 1); th
 > "In this way, the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection." (Lutz et al., 2008, Box 2, "Open monitoring meditation", [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
 **Plain words**
-You can keep returning to one thing, or notice experiences as they come and go without choosing one to follow.
+The difference the lab is pointing at is the difference between a torch and the daylight. Focused practice is the torch: a narrow beam, one spot, everything else in the dark. Open practice is standing in the daylight with the torch off: nothing is picked out, and everything that drifts through the field registers anyway. A person can be doing either at any moment, which is why awareness without a target is not a contradiction but a skill.
 
 **For example**
 Imagine sitting quietly. First, keep returning to your breath. Then notice sounds, sensations and thoughts as they arise, letting each pass.
