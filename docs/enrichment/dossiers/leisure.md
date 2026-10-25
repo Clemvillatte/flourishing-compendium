@@ -130,7 +130,7 @@ Veal's sharpest charge is about the evidence. "Claims concerning the unique qual
 
 The disagreement is genuine: Stebbins asserts two forms with sharply different experiences; Veal argues the forms blur into a continuum and that the uniqueness claims have not had the comparative testing their weight deserves. Veal's challenge is to the evidential basis; the rewards themselves may still be there. For the relaxation-versus-effort question above, that means the two categories cannot settle it by themselves, since whether they are categories at all is what these two are arguing about.
 
-I lean toward Veal on the continuum, because the helping example is his own and it is hard to answer, and because the uniqueness claims carrying the category's weight are the ones he shows have not had the comparative testing. The rewards of serious pursuits are not in doubt; the sorting is.
+I lean toward Veal on the continuum, because the helping example is his own and it is hard to answer, and because the uniqueness claims carrying the category's weight are the ones he shows have not had the comparative testing. That the sorting is what is in question, not the worth of the pursuits, is my reading; the rewards may be real, but they are not what divides the two.
 
 ### Should the serious-leisure perspective be replaced?
 
@@ -146,7 +146,7 @@ Stebbins rejects Veal's case for replacement. He records the challenge as the mo
 
 The disagreement is direct. Veal proposes a broader successor that combines features of the SLP with other research traditions ([Veal, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)); Stebbins rejects the grounds offered for that replacement, arguing that Veal overlooks central concepts and the framework's theoretical foundations ([Stebbins, 2018](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/leisure_reflections_no._47__the_serious_leisure_perspective__past_present_and_future___leisure_studie.pdf)). Their disagreement concerns what leisure research should build on, a different question from whether serious and casual leisure form distinct categories.
 
-I would not replace it yet. Veal's case is that the framework is untested as theory, and an untested framework is a research programme, which is what Stebbins says he is offering; the honest reading is that the framework organises the field and the testing is still owed.
+My own judgment is that I would not replace it yet. Veal's case is that the framework is untested as theory, and an untested framework is still a live programme of research, which is close to how Stebbins presents the perspective himself, as a theoretic framework rather than a settled theory; the reading I would defend is that the framework organises the field and the testing is still owed.
 
 ## Practice: variation, selection, retention
 

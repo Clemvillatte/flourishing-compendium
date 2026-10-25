@@ -690,13 +690,18 @@ correction flagged for the supervisor.
 
 The three disputes in "Where the traditions genuinely disagree" previously
 carried paraphrase only. Four short verbatim spans across the three
-subsections were substituted for the closest paraphrase, taken from the
+subsections were substituted for the closest paraphrase (one in the first,
+one in the second, two in the third before the third was trimmed to one), taken from the
 already-cited carrier (Ted Toadvine, "Maurice Merleau-Ponty", Stanford
 Encyclopedia of Philosophy, https://plato.stanford.edu/entries/merleau-ponty/),
 with the secondary attribution named in the prose ("as Ted Toadvine's SEP
 entry recounts it"). Verification method, recorded exactly: the live page
 was fetched directly (curl, no extraction prompt) and each span matched
-as a contiguous substring of the tag-stripped page text before insertion:
+as a contiguous substring of the tag-stripped page text before insertion,
+allowing one normalisation: the raw source renders the possessive in
+"empiricism's" with a curly apostrophe and the dossier uses a straight
+one, so the match was made on the letters and the apostrophe form was
+normalised:
 (1) "the organism is not passive but imposes its own conditions between
 the given stimulus and the expected response, so that behavior remains
 inexplicable in purely anatomical or atomistic terms" and "cannot be
