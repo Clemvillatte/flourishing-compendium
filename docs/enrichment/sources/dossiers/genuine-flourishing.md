@@ -1173,3 +1173,24 @@ One correction to the supervisor entry above: it describes L171 as
 texts of Sidgwick's Methods of Ethics and Mill's Autobiography), not
 compendium cards, as the dos1 worker's close-out correctly notes.
 The KEEP disposition stands; only the link description is corrected.
+
+## Verification pass on own recasts (2026-10-25, worker-pplx-gfva-1025a, dos1 baton)
+
+Final-session verification of the passages this worker changed in the
+recasts. L129's sustainability-model sentence was read in full against
+the Sustainability of well-being gains card (the card frames exactly
+that question: whether boosts outlast the initial lift and what makes
+them last) — match. L223's evening-examination instruction was read
+in full against kernel K274 (three questions in order, third kept
+concrete, naming a situation and an action) — match. L251's Ryff
+sentence was read in full against story card ST297 — match on the six
+dimensions and the challenge to prior measures; a minor emphasis note:
+the card's own summary stresses the attack on equating well-being with
+happiness, while the gloss stresses the lack of theoretical grounding
+in prior measures; both are the 1989 paper's argument and the carrier
+is linked on the line, so no edit is proposed. L25 was verified against
+the MIT Classics carrier in the earlier session (I.8, I.10 passages
+opened raw). The two deletions (the L177 closer and the L45 redundant
+closer) carry no card dependence. All recasts stand.
+
+Checks: dossier_check.py exit 0 (run again this session).
