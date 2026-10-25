@@ -187,3 +187,19 @@ one more advisor call.
   migration verified end to end; the per-degree technical-integration
   gates open as degree owners deliver module designs that clear their
   earlier gates.
+- 2026-10-25 worker-pplx-integrate-1 (deg-integrate), EVIDENCE PRECISION
+  CORRECTIONS (commit 961abdbc9): (1) the successful Pages run for
+  efa18ed3d was created 08:36:33 UTC and COMPLETED 08:37:24 UTC (Actions
+  API, authenticated read); my live cache-busted fetch at about 08:38 UTC
+  found the migrated block already serving. (2) Claim wording kept precise:
+  sources, modules and topicMappings are canonically equal between the
+  pinned revisions (canonical JSON dump equality); the fcGalleryData
+  block is raw-slice byte-identical, digest recorded in the test
+  (sha256 8acfbe374d4635c9b50b8f846ff3167dac6c9d4e42f01b6b60021193ebcfa6f2,
+  337528 bytes). (3) Rendered-live verification done in a cloud browser:
+  live home shows the Practicum section (qigong, cmp, psych-101 bridge
+  card with direct-link chip) then the Degrees section with the seven new
+  degrees; the bridge card and the footer legacy link carry the right
+  hrefs; the legacy view lists all seven superseded programs; 375px
+  mobile shows the same state with no horizontal overflow (scrollWidth
+  379, the known 4px). (4) INTEGRATION.md source id corrected to PSY-101.
