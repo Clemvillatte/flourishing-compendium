@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Being-in-the-world” — Heidegger, Being and Time.
 
-Being-in-the-world (In-der-Welt-sein) is Heidegger's name for the unitary structure of human existence: self, world, and being-in are not three pieces but one phenomenon. The hyphenation is the point.
+Being-in-the-world (In-der-Welt-sein) is Heidegger's name for the unitary structure of human existence: self, world, and being-in form one phenomenon. The hyphenation is the point.
 
 > "The 'fundamental structure' (Fundamentalstruktur) or 'basic constitution' (Grundverfassung) of Dasein is 'being-in-the-world'. Heidegger hyphenates 'being-in-the-world' to indicate that it is a 'unitary phenomenon'." (Mark Wrathall, [Martin Heidegger, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/), section 2.2)
 
