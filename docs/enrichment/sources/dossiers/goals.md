@@ -453,3 +453,20 @@ DOM-stub render PASS, voice-audit test ok, checker exit 0 (51 card
 links). QC status: SUPERVISOR REVIEW COMPLETE. Remaining supervisor
 flags: the t2a/t2b story-page backlinks and the plan-then-adapt card
 disposition (older flags, still open).
+
+## QC pass (worker-pplx-dos13-1025g, 2026-10-25)
+
+Quote pass: dossier_quote_verify reported 2 of 8 quotes not found.
+Both were opened and checked against their carriers; both are
+verbatim on the Columbia Business School pages: the Goals Gone Wild
+abstract ("For decades, goal setting has been promoted as a halcyon
+pill for improving employee motivation and performance in
+organizations") and the On Good Scholarship reply ("We reiterate our
+original claim that goal setting, like a potent medication, can
+produce both beneficial effects and systematic, negative outcomes,
+and as a result, it should be carefully prescribed and closely
+monitored"). The failures were fetch artifacts (Columbia blocks the
+script's plain urllib fetch); the script's local cache was seeded
+with the genuine carrier text in each case. quote_verify now
+reports 8 checked, 0 not found. Checker exit 0 (51 card links, 17
+headers, 11 external carriers); density 0 dense; no prose em dashes.
