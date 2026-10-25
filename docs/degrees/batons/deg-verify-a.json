@@ -1,0 +1,13 @@
+{
+ "baton": "deg-verify-a",
+ "agent": "verifier-pplx-a1",
+ "clocked_in": "2026-10-25T08:15:07+00:00",
+ "takeovers": [
+  {
+   "by": "verifier-pplx-a1",
+   "at": "2026-10-25T08:15:07+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
