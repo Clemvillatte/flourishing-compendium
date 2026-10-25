@@ -739,6 +739,58 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:00:34.
 - Verification status: verified-video.
 
+### AR-02: PHIL 181, Lecture 9, Virtue and Habit I (Tamar Gendler, Open Yale Courses)
+
+- Identity and access: the lecture page is open on oyc.yale.edu
+  (https://oyc.yale.edu/philosophy/phil-181/lecture-9), with an HTML transcript and
+  a downloadable mp3 on the page itself; no paywall or login (CC BY-NC-SA 3.0
+  licensed course material).
+- Duration: 40:10, measured from the lecture's own mp3 download hosted on the page
+  (https://oyc.yale.edu/sites/default/files/courses/spring11/phil181/mp3/phil181_09_020811.mp3,
+  2026-10-25). NOTE: the page itself does not print a duration; its transcript lists
+  chapter starts at 00:00:00, 00:12:31 and 00:21:37.
+- Instructor credentials: Professor Tamar Gendler, Yale University PHIL 181,
+  Philosophy and the Science of Human Nature (Open Yale Courses).
+- Language: English.
+- Content coverage: per the page transcript, the lecture explores Aristotle's idea
+  that people become virtuous by repeatedly acting as virtuous people do,
+  distinguishes normative from descriptive laws, presents habit as the way to turn
+  reflective commitments into automatic behavior, and introduces classical and
+  operant conditioning with applications to self-regulation.
+- Relevant segment: whole lecture, 40:10.
+- Verification status: verified-recording, with the duration provenance noted.
+
+### M04-E10: Kierkegaard, Fear and Trembling part 1 (Gregory B. Sadler)
+
+- Identity and access: oembed confirms the lecture on Gregory B. Sadler's channel
+  (https://www.youtube.com/watch?v=nr93xND_1Qs).
+- Duration: 1:01:53 (watch page, 2026-10-25).
+- Instructor credentials: Gregory B. Sadler, lecturer; his credentials are noted in
+  the companion AR-06 entry (same Sadler channel and lecture series).
+- Language: English.
+- Content coverage: per the uploader's description, the lecture provides an overview
+  of Fear and Trembling and examines all sections except the three problemata
+  (covered in a second lecture), focusing on faith, religion, theology, reason and
+  lived experience, and Kierkegaard's treatment of Abraham versus the Tragic Hero.
+- Relevant segment: whole lecture, 1:01:53.
+- Verification status: verified-video.
+
+### M04-E13: Husserl Circle 2025 Plenary Lecture (Dermot Moran, University of Athens)
+
+- Identity and access: oembed confirms the plenary on the National and Kapodistrian
+  University of Athens Philosophy Department channel
+  (https://www.youtube.com/watch?v=GZNvecfQG8s).
+- Duration: 0:58:29 (watch page, 2026-10-25).
+- Instructor credentials: Dermot Moran, plenary speaker at the Husserl Circle 2025,
+  held June 23-26, 2025 in Athens under the university's auspices (per the host
+  description).
+- Language: English (Greek channel description; the lecture itself is in English).
+- Content coverage: per the host's description, the lecture discusses Husserl's
+  sphere of ownness and the ego, transcendental subjectivity, self-givenness,
+  habit formation, the minimal self, personalism and the ego-world relation.
+- Relevant segment: whole lecture, 0:58:29.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)

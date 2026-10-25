@@ -24,4 +24,49 @@ sources (Block C) belong to deg-verify-b and were not touched here.
 
 ### M04-R08: A Confucian Meditation on Justice (Henry Rosemont Jr., Creighton)
 
-- Identity and access: oembed confirms the lecture on the CreightonCCAS channel\n  (https://www.youtube.com/watch?v=5bahLBei5mw).\n- Duration: 0:57:03 (watch page, 2026-10-25).\n- Instructor credentials: Henry Rosemont Jr., PhD, Brown University (per the host\n  description).\n- Language: English.\n- Content coverage: the host's description states the 11th Semrad Lecture,\n  \"On Retributive, Distributive and Restorative Justice: A Confucian Meditation\",\n  focuses mainly on distributive justice, with retributive and restorative justice,\n  role-based relationships, human rights and truth and reconciliation commissions.\n- Relevant segment: whole lecture, 57:03.\n- Verification status: verified-video.\n\n### M04-R13: Reweaving Relational Worlds (Jacoba Matapo, PESA 2024)\n\n- Identity and access: oembed confirms the keynote on the Philosophy of Education\n  Society of Australasia channel (https://www.youtube.com/watch?v=3T2YGbxFV7A).\n- Duration: 0:54:02 (watch page, 2026-10-25).\n- Instructor credentials: Jacoba Matapo, Associate Professor and Pro\n  Vice-Chancellor Pacific, Auckland University of Technology (per the host\n  description).\n- Language: English.\n- Content coverage: the host's description states the keynote weaves ancestral\n  wisdoms, Pacific philosophy and critical posthuman theory on ecological\n  regeneration, drawing on Samoan concepts of va (relational space), fanua\n  (land/placenta) and Indigenous weaving pedagogies.\n- Relevant segment: whole keynote, 54:02.\n- Verification status: verified-video.\n
+- Identity and access: oembed confirms the lecture on the CreightonCCAS channel
+  (https://www.youtube.com/watch?v=5bahLBei5mw).
+- Duration: 0:57:03 (watch page, 2026-10-25).
+- Instructor credentials: Henry Rosemont Jr., PhD, Brown University (per the host
+  description).
+- Language: English.
+- Content coverage: the host's description states the 11th Semrad Lecture, "On
+  Retributive, Distributive and Restorative Justice: A Confucian Meditation",
+  focuses mainly on distributive justice, with retributive and restorative justice,
+  role-based relationships, human rights and truth and reconciliation commissions.
+- Relevant segment: whole lecture, 57:03.
+- Verification status: verified-video.
+
+### M04-R13: Reweaving Relational Worlds (Jacoba Matapo, PESA 2024)
+
+- Identity and access: oembed confirms the keynote on the Philosophy of Education
+  Society of Australasia channel (https://www.youtube.com/watch?v=3T2YGbxFV7A).
+- Duration: 0:54:02 (watch page, 2026-10-25).
+- Instructor credentials: Jacoba Matapo, Associate Professor and Pro
+  Vice-Chancellor Pacific, Auckland University of Technology (per the host
+  description).
+- Language: English.
+- Content coverage: the host's description states the keynote weaves ancestral
+  wisdoms, Pacific philosophy and critical posthuman theory on ecological
+  regeneration, drawing on Samoan concepts of va (relational space), fanua
+  (land/placenta) and Indigenous weaving pedagogies.
+- Relevant segment: whole keynote, 54:02.
+- Verification status: verified-video.
+
+### M04-R16: A Conversation with Professor Linda Tuhiwai Smith (Te Tiriti Based Futures)
+
+- Identity and access: oembed confirms the conversation on the Te Tiriti Based
+  Futures & Anti Racism channel
+  (https://www.youtube.com/watch?v=vnAhKeZXmZk).
+- Duration: 0:58:29 (watch page, 2026-10-25).
+- Instructor credentials: Professor Linda Tuhiwai Smith, author of Decolonising
+  Methodologies and a leading scholar of Māori and Indigenous research (per the
+  host description); recorded at the Te Tiriti-based Futures & Anti-racism 2022
+  conference, Aotearoa New Zealand.
+- Language: English.
+- Content coverage: the host's description states the Q&A covers her hopes for
+  Indigenous research, what decolonisation in research means, advice for people
+  working in institutions, the impact of digitisation and support for young
+  academics and activists.
+- Relevant segment: whole conversation, 0:58:29.
+- Verification status: verified-video.
