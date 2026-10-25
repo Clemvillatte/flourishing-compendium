@@ -549,3 +549,7 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Read the full page; the three main quotes re-verified verbatim against the freshly opened fluidself.org book-notes carrier (the "changing chairs" Week One passage, the "creatures of habit" passage, and "Notice how your perspective can change just by changing chairs" all verbatim).
 - Kabat-Zinn foreword fragment: the cited LinkedIn carrier is robots-blocked to fetch; the same reviewer republished the review on his own site (chandana-watagodakumbura.net) and the full foreword sentence ("I particularly like the simple yet radical habit-breaking suggestions... meant to reveal and break open some of our most unaware life patterns of thought and behaviour...") was retrieved verbatim via search-result text of that page and a second independent carrier (nobelcoaching.com carries the same fragment). Carrier link on the page updated to the reviewer's own site; quote text unchanged (verbatim-genuine).
 - Validated: enrich_validate.py exit 0. Recorded done in k1e state.
+
+## 2026-10-25 (worker pplx-artcurator-1025a) — K398 Mindfulness bells
+- Read the full page; all three verbatim quotes re-verified against freshly opened carriers: Parallax Press "The Bell of Mindfulness" (both Thich Nhat Hanh passages verbatim, including the double-dash "many bells--church bells" spelling) and Gary Gach's Tricycle article "Stop and Breathe" (full passage verbatim).
+- No repairs needed. Validated: enrich_validate.py exit 0. Recorded done in k1e state.
