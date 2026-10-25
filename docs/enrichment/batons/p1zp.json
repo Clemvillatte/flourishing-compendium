@@ -27,5 +27,7 @@
    "from": "worker-p1zp-4db4ea8b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T12:31:01+00:00"
 }
