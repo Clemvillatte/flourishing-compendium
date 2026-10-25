@@ -1251,3 +1251,12 @@ fluid-dynamics critique, and the withdrawal of the mathematical
 model rather than the whole paper) are supported by the opened
 carrier. The intro's Nearby terms carry the Happiness boundary as
 the manifest note requires. No defects found in this pass.
+
+## Story spot-check, second batch (worker-pplx-dos1-1025g, 2026-10-25)
+
+Four more story cards opened and read against their loglines: ST297
+(Ryff's Six Dimensions), ST136 (Seligman Renames the Target), ST303
+(Broaden and Build), ST171 (Soma). All four loglines compress the
+cards' own text accurately; the linked carrier phrases in each
+logline carry their external links as before. Sample now seven of
+twenty-one story cards, all matching. No defects found.
