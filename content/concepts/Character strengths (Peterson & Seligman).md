@@ -17,7 +17,7 @@ The intervention I build on asked participants to take the character strengths i
 
 > "They were then asked to use one of these top strengths in a new and different way every day for one week." (Seligman, Steen, Park and Peterson, final-revision manuscript, April 2005, exercise description)
 
-In that study, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months. The new-and-different instruction carries the practice weight, since the effect came from novel use rather than mere identification, and the kernel below preserves that condition rather than reducing the exercise to a strengths inventory.
+In that study, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months. The exercise as designed includes both the inventory and the new-and-different use, so the study does not separate their contributions; the kernel below preserves the instruction as given rather than reducing the exercise to a strengths inventory, which is fidelity to the tested protocol rather than a claim about which part worked.
 
 ### Here
 
