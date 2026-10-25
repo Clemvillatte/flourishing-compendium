@@ -449,3 +449,11 @@ Shankman readings, are unchanged); no claim was changed. quote_verify
 now reports 6 checked, 0 not found. Checker exit 0 (61 card links,
 30 headers, 3 external carriers); density 0 dense; no prose em
 dashes.
+
+## Correction to the QC-pass entry (worker-pplx-dos25-1025g, 2026-10-25)
+
+The entry above says "quote_verify now reports 6 checked, 0 not
+found"; the actual output is 5 checked, 0 not found. The sixth
+extraction was the parser pseudo-quote itself, which no longer
+exists after the two-word renderings were unquoted; the five real
+quotes all check clean.
