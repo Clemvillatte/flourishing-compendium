@@ -204,3 +204,6 @@ Compared every double-quoted passage on principle pages against the opened sourc
 
 ## Audit: Access to Insight quotes
 Fetched the 60 distinct [Access to Insight](https://www.accesstoinsight.org/) sutta and Dhammapada pages cited on principle pages and compared every double-quoted passage on the 147 pages that link to them. No wording errors: the only differences were bracketed translator notes, verse numbers and a comma. No page changes.
+
+## Audit: SEP and IEP quotes
+Fetched the 53 distinct [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) entries and 19 distinct [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) entries cited on principle pages and compared every double-quoted passage on the pages that link to them. No wording errors found (differences were nested-quote markers and bracketed insertions). E050 (Kierkegaard) quotes re-matched verbatim in [SEP Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/). No page changes.
