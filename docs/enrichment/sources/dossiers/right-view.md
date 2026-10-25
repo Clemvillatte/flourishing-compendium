@@ -1001,7 +1001,7 @@ documented PDF exceptions (archive.org Kathāvatthu scan; antilogicalism MMK
 PDF). Count: right-view now has THREE substantiated questions plus two
 "Related questions" items under the standard heading.
 
-## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos18, 2026-10-25 11:15Z)
+## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos18, 2026-10-25 10:53Z)
 
 Prose revision only; no quotes, links, claims or evidence changed. The
 voice audit reported 5 structural candidates; 2 were repaired: the

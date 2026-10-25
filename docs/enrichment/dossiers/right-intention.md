@@ -2,7 +2,7 @@
 
 > What is worth resolving on, and what does a resolved life look like?
 
-Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is a standing direction rather than a mood, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; which aims deserve my commitment is the question this page holds.
+Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is a standing direction, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; which aims deserve my commitment is the question this page holds.
 
 ## Nearby terms
 
@@ -37,7 +37,7 @@ My positive rendering of the first resolve is simplicity. The first thing the re
 
 What replaces the wanting is answered differently. [Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency) is the Daodejing's teaching on knowing when enough is enough; its chapter 44 prices the question against life itself. Epictetus contributes [contentment in station](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20in%20station), the role-playing counsels from the Discourses.
 
-The Indian traditions add release rather than contentment. [Vairagya](https://clemvillatte.github.io/flourishing-compendium/#card=Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](https://clemvillatte.github.io/flourishing-compendium/#card=Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47).
+The Indian traditions add a different note: release. [Vairagya](https://clemvillatte.github.io/flourishing-compendium/#card=Vairagya) is dispassion in Patañjali's Yoga Sūtra, the release of the grip on outcomes once they are seen as impermanent; [detachment from outcomes](https://clemvillatte.github.io/flourishing-compendium/#card=Detachment%20from%20outcomes) is the Bhagavad Gita's instruction to act from duty while releasing ownership of the results (2.47).
 
 Psychology has its own construct for release: [nonattachment](https://clemvillatte.github.io/flourishing-compendium/#card=Nonattachment) names release from mental fixations, a flexible relationship with experience; [Sahdra, Shaver and Brown](https://clemvillatte.github.io/flourishing-compendium/#card=Non-attachment) built the measure for the Buddhist concept, distinguished from interpersonal attachment styles. In the Christian mystical register, [Gelassenheit](https://clemvillatte.github.io/flourishing-compendium/#card=Gelassenheit) is Eckhart's releasement, something a person actively cultivates.
 
@@ -69,7 +69,7 @@ My positive rendering is refusing to add suffering. The Stoic and modern entries
 
 [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa) is the Indic principle of non-harm; I read it as a starting floor: whatever else a practice does, it begins by doing no injury. Two modern practices take non-harm as their subject: [nonviolent action](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20action) is Gene Sharp's theory of power and his documented methods, and [nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20communication) is Rosenberg's process for reducing conflict in everyday interactions.
 
-The Stoic contribution is a claim about disturbance rather than harm itself: [judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5), a claim I connect editorially to the harmlessness resolve. And [the inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself.
+The Stoic contribution is a claim about disturbance: [judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm), the position that events do not disturb people, the opinions about the events do (Enchiridion 5), a claim I connect editorially to the harmlessness resolve. And [the inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend) is Hecato's line via Seneca on making peace with oneself.
 
 ## How the resolve is trained
 
@@ -151,7 +151,7 @@ Mill adds a third position that helps mark the boundary. He locates the rightnes
 
 > "He who saves a fellow creature from drowning does what is morally right, whether his motive be duty, or the hope of being paid for his trouble." ([Mill, Utilitarianism, chapter II](https://www.gutenberg.org/files/11224/11224-h/11224-h.htm))
 
-For Mill the act's rightness is decided by its tendency and the agent's worth by the motive — a division of the question rather than an answer to it, which is why this stands as a parallel rather than a dispute.
+For Mill the act's rightness is decided by its tendency and the agent's worth by the motive. The division is his answer, and it leaves the question divided; that is why this stands as a parallel, with the two frameworks answering different parts of it.
 
 ### Must the holy life mean leaving the household's duties?
 
@@ -229,7 +229,7 @@ Limits: three Gita verses and two Pali passages, no commentary on either side. L
 
 ### Is freedom from pain itself a good?
 
-Epicurus defines pleasure by what it removes rather than what it adds, and makes that condition the whole of the happy life:
+Epicurus defines pleasure by what it removes — pain — and makes that condition the whole of the happy life:
 
 > "When we say, then, that pleasure is the end and aim, we do not mean the pleasures of the prodigal or the pleasures of sensuality, as we are understood to do by some through ignorance, prejudice, or willful misrepresentation. By pleasure we mean the absence of pain in the body and of trouble in the soul." ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))
 
@@ -251,7 +251,7 @@ Limits: two letters, one on each side. The Internet Classics page for the Epicur
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken.
+::Variation:: What tends to need varying on this theme is the aim's default setting: wanting inherited and never chosen, ill will rehearsed until it feels like seeing, harm done by habit without any decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 

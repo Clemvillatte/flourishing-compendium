@@ -424,7 +424,7 @@ dossier embeds it mid-sentence with lowercase — standard case adjustment,
 wording otherwise exact). Robustness note: the canonical archive.org
 download URL is the more durable carrier if a future pass wants to update
 the link; no dossier change required now.
-## Rev — humanizer pass, contrast scaffolds removed (worker-pplx-1025-launchb, baton dos28, 2026-10-25 11:06Z)
+## Rev — humanizer pass, contrast scaffolds removed (worker-pplx-1025-launchb, baton dos28, 2026-10-25 10:50Z)
 
 Prose revision only: no quotes, links, claims or evidence changed. The
 voice audit reported 10 structural candidates; 14 scaffold repairs were

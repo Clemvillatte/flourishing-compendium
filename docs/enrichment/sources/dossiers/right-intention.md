@@ -610,3 +610,26 @@ SUPERVISOR: re-splice right-intention.
 14. 2026-10-25 10:25Z — launcher-pplx-dos19-1025n — Advisor QC (first item): the Epicurus-vs-Dhammapada pleasure pairing FAILS the affirm/deny test — the Dhp 186-187 verses turn away from sensual and heavenly delight, which Epicurus also rejects, and never address the absence-of-pain condition Epicurus calls pleasure; demoted from the disagreements section to Related questions with passage-bounded wording, no new quotes. Replacement third dispute added under the ratified heading: Epicurus vs Seneca, Moral Letter 92, on whether the absence of pain and disturbance is the highest good. Epicurus affirms (Letter to Menoeceus, MIT Classics, carrier re-opened this session; the alpha-and-omega quote extended by one verbatim sentence, "Pleasure is our first and kindred good."). Seneca denies (Letter 92, On the Happy Life, Gummere trans., primary carrier monadnock.net/seneca/92.html, opened this session; both blockquotes verified verbatim against the live page, including the health-rest-freedom-from-pain retort and the perfect-reason line; the letter's Epicurus deathbed passage grounds the closing paragraph and was read in the same fetch). Dhp 129 (dhp.10.budd.html) re-verified by eye against the live page this session: the quote is verbatim; the checker's NOT FOUND is a fetch artifact, documented here as an exception. Remaining NOT FOUND exceptions unchanged: Ryan & Deci 2000 PDF and SN 42.3 Sujato (documented fetch limitations; fetch-only re-check). dossier_check OK (67 card links, 24 headers, 42 carriers), density 0, prose-wall fix applied (173-word paragraph split). Count of substantiated disputes under the standard heading: 3 (Aristotle-vs-SN 7.2 fitting anger; Gita-vs-SN 42.3 warrior; Epicurus-vs-Seneca 92 absence of pain). Bar 3-5 met. Site rebuild (--rebuild=right-intention) run by this worker to re-splice the demoted pleasure section and the new dispute.
 
 15. 2026-10-25 10:35Z — launcher-pplx-dos19-1025n — Advisor QC verdict on the third dispute: COUNT, with corrections applied before closeout. Heading narrowed to "Is freedom from pain itself a good?" (avoids treating bodily painlessness alone as Epicurus's complete highest good). Seneca's follow-on sentence added to the blockquote, verbatim from the same opened fetch: "What, then, will be good in them? This alone — that it is a good thing to choose them." Conclusion paragraph replaced with the advisor's wording (both would choose freedom from pain; the disagreement is whether the condition is itself a good — Epicurus yes, Seneca: the good is choosing well). Removed the claim that for Seneca the reasoning is the end and the condition follows (his letter argues happiness amid suffering, not that reason produces painlessness). Deathbed framing corrected: the letter reports two painful occasions (strangury; ulcerated stomach), reported as Seneca's argument, not a refutation Epicurus was there to answer. Limits paragraph corrected: the garbled prudence sentence is in the Epicurus/MIT extraction, not the Gummere page; removed the aside about the unopened dialogue. Entry 14 timestamp corrected from 10:45Z to the actual 10:25Z write time. dossier_check OK, density 0, site rebuilt and pushed with the corrections.
+
+## Rev — humanizer pass, six scaffold repairs (worker-pplx-1025-launchb, baton dos19, 2026-10-25 10:59Z)
+
+Prose revision only; no quotes, links, claims or evidence changed. The
+voice audit reported 9 structural candidates; 6 were repaired: the
+opening "a standing direction rather than a mood" -> "a standing
+direction"; "add release rather than contentment" -> "add a different
+note: release"; "a claim about disturbance rather than harm itself" ->
+"a claim about disturbance"; the Mill parallel's double "rather than" ->
+"a division of the question... a parallel rather than a dispute" recast
+as "The division is his answer, and it leaves the question divided";
+Epicurus "by what it removes rather than what it adds" -> "by what it
+removes — pain"; the Variation list's "inherited rather than chosen" /
+"by habit rather than decision" -> "inherited and never chosen" /
+"by habit without any decision". Three candidates kept deliberately
+after review: the bodhisattva vow's "liberation of all beings rather
+than one's own alone" (the vow's content), Seneca's "happiness does
+not rest on the absence of pain" (the argument's conclusion), and the
+ACT "values as directions rather than goals" distinction (the card's
+documented doctrine). Checks: dossier_check exit 0 (67 card links, 24
+headers, 42 carriers); voice audit 9 -> 3 candidates, all reviewed
+keeps. No external carriers opened in this pass; the changed sentences
+are paraphrase-level rewrites of claims verified in earlier rounds.
