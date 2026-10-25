@@ -23,3 +23,16 @@ Verification round on ready-unpublished drafts across lanes (mechanical + quote 
   so an independent re-fetch was not possible this session; the ledger's access event
   (2026-10-24, full-string verification recorded) stands as the teller's own
   verification. No defect found; flagged for awareness only.
+
+## Round 4 (same session)
+
+- s1d-007 (The Vina Player Who Bled Through His Feet, AN 6.55 Thanissaro via
+  Access to Insight): both quoted spans verbatim ("return to the lower life" as the
+  source reads; the vina taut/loose exchange confirmed present).
+- s1b-035 (Fan Li Takes the Boat, suntzu-artofwar.org Fan Li page): both quoted
+  spans verbatim.
+
+Session verification tally: 9 ready-unpublished drafts + 2 published pages quote-checked
+across lanes; 1 fidelity defect found and fixed (s1b-034); 2 duplicate-narrative
+dispositions routed (s1c-039 vs ST430, s1d-010 vs ST466); 1 source bot-walled
+(s1b-037, ctext).
