@@ -39,5 +39,7 @@
    "from": "supervisor-margauth1839068",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T03:53:29+00:00"
 }

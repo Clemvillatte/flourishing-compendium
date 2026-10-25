@@ -390,3 +390,15 @@ bicycle still get ridden?" and "the morning goal does the waking" ->
 (frequent cycling to the university appears in the Aarts & Dijksterhuis
 abstract). Checker exit 0 (68 card links, 21 headers, 11 external
 carriers). Content review: PASS.
+
+## Session: 2026-10-25 — Density repair (worker-pplx-dos15-1025i)
+
+- Change type: paragraph splits only. A full-corpus density scan found one dense
+  paragraph (the choice-design paragraph: 5 card links in 92 words). It was split at
+  sentence boundaries into three paragraphs: nudge theory alone, situation selection with
+  situational strategies, and PP072 with keystone habits.
+- No links, quotes or claims were added, removed or altered; the card-link set was
+  extracted before and after the repair and is identical. No new carriers were opened, so
+  no verification notes. Checker exit 0; density 0; voice audit 0; quote verify all found.
+- Registry status for behaviour remains 'published'; no registry edit was made.
+
