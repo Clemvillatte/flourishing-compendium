@@ -12,19 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 133** — Don't dominate: the world can't be controlled
 
-Laozi's argument runs through a kingdom, and starts with a prediction:
+Chapter 29 of the Daodejing warns the person who wants to take possession of a kingdom:
 
 > "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it." (Dao De Jing 29, [Legge's translation](https://www.sacred-texts.com/tao/taote.htm))
 
-The kingdom is the example; Laozi's warning extends past kingdoms. Read as advice for families and teams, the passage invites a question: does your direction leave the other person room to act and disagree? The chapter closes with: "Hence the sage puts away excessive effort, extravagance, and easy indulgence" ([DDJ 29, Legge](https://www.sacred-texts.com/tao/taote.htm)). A narrower parallel comes from parenting research: "parental autonomy support was linked positively with child well-being, r = 0.30, 95% CI [0.26, 0.33], whereas parental psychological control was positively linked with child ill-being, r = 0.26, 95% CI [0.23, 0.28]" ([Bradshaw et al., American Psychologist 2025](https://pubmed.ncbi.nlm.nih.gov/39052356/)), with both patterns reported across regions and cultures. Influence travels through the other person's own will; my account is [[Autonomy-supportive leadership]].
+The chapter ends by putting away excessive effort, extravagance and easy indulgence ([Legge translation](https://www.sacred-texts.com/tao/taote.htm)). The warning makes me examine what I am asking of another person. Am I seeking help with something we can discuss, or treating their agreement as something I am entitled to possess?
+
+I can explain a concern, make a request and set limits on what I will do. I cannot honestly call it a choice if refusal leads to punishment for having disagreed. This is my ethical application of the passage; a kingdom and a family are different settings.
+
+Parenting research provides a more specific comparison. Bradshaw and colleagues' meta-analysis links autonomy-supportive parenting with greater child well-being, and psychological control with greater ill-being; both have distinct associations when their overlap is accounted for ([2025 abstract](https://pubmed.ncbi.nlm.nih.gov/39052356/)). These are reported associations. They give me reason to examine how I exert influence, while leaving open what will happen in a particular relationship.
 
 **Plain words**
-When you push someone into doing what you want, watch what happens to the wanting: it is now yours rather than theirs, and the doing drags. The alternative is to explain what you want, make the choice easy to make, and leave the choosing theirs. Giving someone a choice also means accepting that they may refuse.
+Ask for the other person's agreement without treating it as owed to you. Be clear about your own responsibilities and leave room for an answer you would rather not hear.
 
-*For example:* The parent who tries to control their adult child's choices gets compliance at best — the influence they wanted required letting go.
+*For example:* Imagine a parent worried about an adult child's move abroad. The parent explains the worry, asks about the plan and offers help, while accepting that the decision belongs to the child. This is an illustration.
 
 ## Sources
-- [[T012 — Laozi]]: the kingdom argument the page opens: governing as cooking small fish.
+- [[T012 — Laozi]]: the kingdom passage is chapter 29.
 
 - [Laozi, Dao De Jing 29 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — verbatim quotes
 - [Bradshaw et al., "Disentangling autonomy-supportive and psychologically controlling parenting: A meta-analysis of self-determination theory's dual process model across cultures," American Psychologist 80 (2025) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39052356/) — dual-process meta-analysis, k = 238
@@ -34,15 +38,17 @@ When you push someone into doing what you want, watch what happens to the wantin
 - [[ST475 — The War on Sparrows|475. The War on Sparrows]]
 ## Psychology parallels
 
-- **[[Psychological control|Psychological control]]**, controlling parenting predicts internalizing and externalizing problems (Barber, 1996)
-- **[[The power paradox|The power paradox]]**, power gained through empathy erodes it (Keltner, 2016)
+- [[Psychological control|Psychological control]]: the parenting construct in the meta-analysis cited above.
+- [[Autonomy-supportive leadership]] and [[The power paradox|The power paradox]]: further comparative reading.
 
 ## Philosophy parallels
 
 
-- **[[Respect|Respect for autonomy]]** (Kant, Groundwork of the Metaphysics of Morals)
-- **[[Domination critique|Domination critique]]** (Fromm, Escape from Freedom)
-- **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
+For comparison:
+
+- [[Respect|Respect for autonomy]]
+- [[Domination critique|Domination critique]]
+- [[Dao|The Dao — the way things work]]
 
 ## Practice kernels
 
