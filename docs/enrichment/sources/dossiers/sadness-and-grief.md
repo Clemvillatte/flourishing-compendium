@@ -46,3 +46,26 @@ None claimed. The classical prescriptions and the clinical thresholds answer dif
 ## S070 flag sharpened (~T+28)
 
 The S070 quotes were also checked against the Standard Ebooks Gummere text of Letter 63 (S062's carrier): it prints the same wording as Wikisource ("Let not the eyes be dry when we have lost a friend, nor let them overflow" / "Let us see to it that the recollection of those whom we have lost becomes a pleasant memory to us."). S070's shorter quotes are therefore not verbatim in either Gummere carrier; the card either paraphrases or uses a different translation. Source repair still needed.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos28 baton)
+
+Reviewed all 9 candidates against the current file (fresh audit run).
+No scaffolds removed; all 9 flagged constructions carry real contrasts or
+honest scope notes: line 5 (sadness as working state vs defect — the
+Sorrow's fruit framing), 16 (the clinical material separates grief from
+depression rather than sadness from grief — a precise scoping
+statement about what the sources do and do not establish), 22 (grief as
+process vs state — the dual-process model's claim), 24 (the sources "do
+not directly establish the sadness-as-state versus grief-as-process
+boundary" — exactly the honest scoping the project requires), 32
+(respite as adaptive coping vs failure — the model's point), 46
+(Seneca's Letter 63 draws the line at proportion rather than absence —
+accurate to the quoted letter), 54 (S070's identity limit: grief kept
+company with but not become the person — the principle's own framing),
+102 (neither a shared stopping rule nor a genuine incompatibility —
+honest neither-nor about unlike claim types), 118 (ledger note: the
+article invokes Butler's reading rather than reporting it as a measured
+finding — attribution honesty).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
