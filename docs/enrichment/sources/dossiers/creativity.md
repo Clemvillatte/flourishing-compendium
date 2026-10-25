@@ -709,3 +709,30 @@ owed), and the two E-utilities-cleared PubMed spans (28259772, 24405359
   pdftotext extraction in the 11:59Z entry; the fetch attempt is logged
   here so the retrieval order is accurate (fetch attempted, PDF not
   extractable by that tool, direct download used).
+
+## Zarathustra line-161 quote repair (2026-10-25 12:27Z, worker-pplx-dos32-1025n3, baton dos32)
+
+The assistant supervisor's post-publication review (SUPERVISOR-REVIEW
+12:45Z row) found the one genuine quote defect in the dossier: line 161
+presented the Common-translation paraphrases "wrestles freedom from the
+dragon" and "though the lion cannot yet create new values" inside a
+sentence carrying quotation marks, so a reader could take them for
+quoted text (my earlier mispairing-diagnosis entry had read the line as
+unquoted paraphrase between short quotes; the supervisor's reader-level
+reading is the correct one and this repair follows their instruction:
+rewrite so the Zarathustra phrases are either verbatim or clearly
+paraphrase, touching no other line).
+
+Repair applied, wording now: "the spirit becomes a lion whose "I will"
+answers the dragon called "Thou shalt", taking freedom for new creating
+though it cannot yet create new values; the child, "Innocence is the
+child, and forgetfulness, a new beginning, a game, a self-rolling
+wheel", is the creator". Quoted fragments verified verbatim against the
+opened Gutenberg text (fetched this session): "'Thou shalt,' is the
+great dragon called. But the spirit of the lion saith, 'I will.'";
+"Innocence is the child, and forgetfulness, a new beginning, a game, a
+self-rolling wheel" (prefix of a sentence that continues ", a first
+movement, a holy Yea."). The connective clauses are unquoted paraphrase
+of "to create itself freedom for new creating" and "To create new
+values—that, even the lion cannot yet accomplish". No other line
+touched. Gates re-run: checker exit 0, density 0 dense.
