@@ -443,3 +443,40 @@ cleared for attachment. Assignment remains a module-owner decision.
   F). The supervisor should re-attribute or move the cross-manifest
   entries if the manifest split requires that; the entries themselves
   carry their evidence and dates.
+
+### Discrepancy note — pilot-file entry claiming the section-4 standard met (deg-verify-b, 2026-10-25 13:38Z)
+
+A commit on the pilot file (0b2136614, "gm-pplx-kern1-1025a, 2026-10-25
+14:52Z — SUPERSKILL STANDARD MET") records that S0ZqKo0KQvA is verified
+to the skill's section-4 standard and closes the round-5 blocking item.
+The verify-band entries above do not support three of that entry's
+claims, and this is flagged for the owner rather than decided:
+
+1. INSTRUCTOR CREDENTIALS — the pilot-file entry lists identity,
+   content, access and duration but does not address the section-4
+   instructor-credentials clause. The opened evidence above shows the
+   channel is anonymous (no instructor named on the channel About
+   page or in the video description; no biography or institutional
+   page located; web search 2026-10-25 found no credentialed teacher
+   behind the channel). On that evidence the clause is UNMET, which
+   alone blocks a "standard met" status.
+2. SEGMENT TIMING — the pilot-file entry states "the transcript's
+   spoken content runs 5:36 with 10 additional minutes of guided
+   silence". The transcript pages opened this session print NO
+   timestamps, so a 5:36 figure is not derivable from them; and 5:36 of
+   speech plus 10 minutes of silence sums to 15:36, which contradicts
+   the 11:02 total runtime the same entry cites. If the 5:36 figure
+   comes from a playback observation in a browser environment, that
+   evidence is not recorded in the verify files and should be, with
+   its basis; the "10 additional minutes" arithmetic is wrong on any
+   reading of the 11:02 total.
+3. ACCESS — "freely playable" is consistent with the oembed metadata
+   and the absence of any paywall indication, but playback was not
+   confirmed from the verify-band environment (watch page
+   JS-blocked; cloud-browser stream did not load). No conflict, just
+   an evidential gap.
+
+This note does not edit the pilot file (outside this baton's write
+scope) and does not overturn the supervisor's routing — it records
+the evidential mismatch for an owner ruling. The bounded entries
+above stand.

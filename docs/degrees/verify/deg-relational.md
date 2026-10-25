@@ -374,8 +374,8 @@ standard.
 - Content coverage (uploader description, read 2026-10-25): "Confucian
   Role Ethics and its Contemporary Relevance: Discourse on Human Rights."
 - Relevant segment: whole talk, 54:38.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on an institutional biography page (2026-10-25).
 
 ### M04-R07: Individual Freedom and Human Rights vs Social Justice — Henry Rosemont, Jr. (Saint Vincent College)
 
@@ -389,8 +389,8 @@ standard.
 - Content coverage (uploader description, read 2026-10-25): "Individual
   Freedom and Human Rights vs Social Justice: A Confucian Meditation."
 - Relevant segment: whole talk, 1:00:48.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on an institutional biography page (2026-10-25).
 
 ### M14-U-02: Ubuntu and Inclusive Epistemology in Higher Education — Professor Mogobe Ramose (UKZN)
 
@@ -400,15 +400,23 @@ standard.
   2026-10-25. College of Humanities Transformation and Leadership Lecture
   Series.
 - Duration: 2:34:02 (watch page, 2026-10-25).
-- Instructor credentials: Professor Mogobe Ramose, African philosopher
-  (per the uploader description; institutional page not opened this
-  session).
+- Instructor credentials: Professor Mogobe Bernard Ramose, PhD from
+  Louvain University (KUL), MSc in International Relations from the
+  University of London; African philosopher focused on Ubuntu (basis: a
+  University of KwaZulu-Natal biography page for his 27 October 2018
+  seminar, opened 2026-10-25 via direct download,
+  https://ukzn.ac.za/wp-content/noticeFiles/Prof_Ramose-_27_October_2018.pdf),
+  corroborating the uploader description. A search-index excerpt of a
+  UKZN journal contributors list (read 2026-10-25; PDF not opened)
+  additionally names him Research Professor in the Department of
+  Clinical Psychology at Sefako Makgatho Health Sciences University —
+  recorded as an unverified lead, not credential evidence.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): inclusive
   epistemology in higher education, framed by Ubuntu.
 - Relevant segment: whole lecture, 2:34:02.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on an institutional biography page (2026-10-25).
 
 ### M04-R15: Rangahau Speaker Series — Carl Mika (Māori philosophy)
 
