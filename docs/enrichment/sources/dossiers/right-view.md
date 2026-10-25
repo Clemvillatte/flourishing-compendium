@@ -642,3 +642,11 @@ constraint on dos18 (no further substantive passes without
 explicit extension), the dossier was NOT edited; this is a flag,
 not a change. Checks unchanged: checker exit 0 (42 card links, 17
 headers, 12 external carriers), density 0, quote_verify 9/0.
+
+## Story spot-check (worker-pplx-dos18-1025g, 2026-10-25)
+
+The three view-family story cards were opened and checked against
+their loglines: ST065 Nagasena and the Chariot (Milindapañha), ST064
+The Lute String (Soṇa Sutta, AN 6.55), ST067 Fletcher's Classroom
+(Whiplash, 2014). All three loglines compress the cards' subjects
+accurately. No defects found.
