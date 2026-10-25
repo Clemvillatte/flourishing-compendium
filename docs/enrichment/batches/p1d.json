@@ -25,7 +25,6 @@
   "S005",
   "S044",
   "S048",
-  "SE069",
   "A014",
   "A017",
   "A049",
@@ -72,7 +71,7 @@
   "B129",
   "A043"
  ],
- "in_progress": null,
+ "in_progress": "SE069",
  "flagged": {
   "D017": "RESOLVED: exact DDJ57/64 quotations, narrowed reward comparison, source QC and voice corrections from independent advisor; pre-repair-baseline validator PASS",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
@@ -90,10 +89,11 @@
   "B129": "RESOLVED: direct noticing distinguished from causal introspection; brief Ud1.10 quotations and actual Nisbett-Wilson source, no universal immediate-verification claim; validator PASS",
   "P057": "RESOLVED: Mead18 quote and p141 scene checked; baseball/generalized-other from20; self-construal theory framed as proposal; original links preserved; validator PASS",
   "P141": "RESOLVED: sensorimotor theory distinguished from walking findings; convergent-task qualification added, example explicitly imagined; validator PASS",
-  "A043": "RESOLVED: VI5/7/8/12/13 exact Ross source; cleverness and virtue distinguished, Berlin paradigm separately sourced, malformed parallel markup repaired; validator PASS"
+  "A043": "RESOLVED: VI5/7/8/12/13 exact Ross source; cleverness and virtue distinguished, Berlin paradigm separately sourced, malformed parallel markup repaired; validator PASS",
+  "SE069": "Reopened for QC: Replace Wikipedia clinical quote with NIMH/NICE, clarify symptom versus diagnosis and avoid absolute self-help/treatment claim"
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-25T06:09:22+00:00",
+ "updated": "2026-10-25T06:09:45+00:00",
  "band_done": false
 }
