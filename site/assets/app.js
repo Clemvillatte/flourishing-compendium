@@ -14665,19 +14665,27 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Fear is the body's answer to a specific danger, and its answer is mobilised before reflection arrives: the heart rate, the stillness, the urge to flee. The classical traditions worked on the person's share of the question, examining what the fear rests on: a mental picture, a belief about the future, an estimate of one's own cowardice. The modern research worked on the system itself and found an evolved defense that is automatic and only partly penetrable to cognitive control. Between the two sits courage, the virtue that answers fear with action, and exposure, the clinical practice of approaching what is feared."
+          "x": "Fear moves before I have finished noticing what set it off: the heart answers first, and the thought arrives afterward to explain the answer. I want to understand what this response is for, because it plainly does something: it keeps creatures alive. I also want to know how much of a given fear belongs to the threat and how much to the person carrying it: the picture held up, the belief about the future, the estimate of one's own cowardice."
         },
         {
-          "t": "h",
+          "t": "p",
+          "x": "The accounts below divide that question between them. The classical traditions work on the person's share (the picture, the belief, the rehearsal) and they promise that an examined fear shrinks to its real size. The modern research works on the system itself and describes an evolved defense that starts automatically and is only partly open to reasoning. Between the two sits courage, the virtue that answers fear with action, and exposure, the clinical practice of approaching what is feared."
+        },
+        {
+          "t": "h2",
           "x": "Nearby terms"
         },
         {
           "t": "p",
-          "x": "Dread: the fear-of-death material is death fear, held on the cards below; the dread that has no object at all belongs to the anxiety family, and [Anxiety about the future](card:Anxiety%20about%20the%20future) is its map line."
+          "x": "Anxiety: fear answers a specific near danger, on the definition held on [Fear](card:Fear); the anticipation of what has not yet taken shape belongs to the anxiety family, and [Anxiety about the future](card:Anxiety%20about%20the%20future) is the companion page for that family. The clinical fear/anxiety boundary is not settled in the sources I opened, and I treat it as provisional rather than asserting it."
         },
         {
           "t": "p",
-          "x": "Phobia: the clinical extreme of a specific fear; its classification sits on [Fear](card:Fear), and the exposure cluster holds its treatment."
+          "x": "Dread: dread with no object at all belongs to the anxiety family; the fear-of-death material below is death fear, which has an object."
+        },
+        {
+          "t": "p",
+          "x": "Phobia: the clinical extreme of a specific fear; its classification sits on [Fear](card:Fear), and the exposure cluster below holds its treatment."
         },
         {
           "t": "p",
@@ -14689,15 +14697,15 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on fear"
+          "x": "What fear is and what it does"
         },
         {
           "t": "h2",
-          "x": "What fear is taken to be"
+          "x": "What is fear made of?"
         },
         {
           "t": "p",
-          "x": "[Fear](card:Fear): the emotion of a specific danger; Aristotle's definition sets the structure the tradition keeps returning to."
+          "x": "Aristotle's definition organised the question for the traditions that followed him:"
         },
         {
           "t": "q",
@@ -14706,11 +14714,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The same book adds two qualifications that carry most of the tradition's later work: fear requires nearness — \"we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand\" — and fear is already a kind of thinking: \"fear sets us thinking what can be done, which of course nobody does when things are hopeless\" ([Aristotle, Rhetoric II.5](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html))."
+          "x": "Two further clauses in the same chapter carry most of the later work. Fear requires nearness, as the chapter puts it: \"we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand\". And fear is already a kind of thinking: \"fear sets us thinking what can be done, which of course nobody does when things are hopeless\" ([Aristotle, Rhetoric II.5](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). A response built out of a picture, a distance and a hope has levers in it, and the classical remedies are named after those levers."
         },
         {
           "t": "p",
-          "x": "The evolutionary account gives fear a motive state rather than a definition:"
+          "x": "If fear is a pain at a picture, the picture is the thing to examine. [The examination of fear](card:The%20examination%20of%20fear) holds Epicurus's method in the Letter to Menoeceus: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death. [The classification of fears](card:The%20classification%20of%20fears) carries the letter's own sorting, its two main fears of the gods and of death, so the groundless ones can be dropped. Spinoza sharpens the same work in [SP038 — Treat superstition as fear's theology](card:SP038%20%E2%80%94%20Treat%20superstition%20as%20fear%27s%20theology): superstition is dread converted into behaviour, the paper talisman against misfortune."
+        },
+        {
+          "t": "h2",
+          "x": "How much of the response is automatic?"
+        },
+        {
+          "t": "p",
+          "x": "The research tradition starts further down, at the response itself. Öhman and Mineka give fear a motive state rather than a definition:"
         },
         {
           "t": "q",
@@ -14719,51 +14735,40 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The same review proposes a fear module with four characteristics: preferential activation by stimuli that are fear relevant in an evolutionary perspective, automatic activation, relative impenetrability to cognitive control, and a dedicated neural circuitry centered on the amygdala ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf))."
+          "x": "Their review proposes a fear module with four characteristics: preferential activation by stimuli that are fear-relevant in an evolutionary perspective, automatic activation, relative impenetrability to cognitive control, and a dedicated neural circuitry centered on the amygdala ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). On this account the system answers before the person has voted, and reasoning arrives as a latecomer."
         },
         {
           "t": "p",
-          "x": "[Facing the fear](card:Facing%20the%20fear): Kierkegaard's thread through The Concept of Anxiety — anxiety as \"sympathetic antipathy,\" drawn toward and repelled by a possibility at once, belonging to the human condition rather than being only a symptom; whoever has learned to be anxious in the right way has learned the ultimate."
-        },
-        {
-          "t": "p",
-          "x": "[SP017 — Treat hope and fear as one system](card:SP017%20%E2%80%94%20Treat%20hope%20and%20fear%20as%20one%20system): Spinoza's account — hope and fear have the same object, exist simultaneously, and neither exists without some doubt in the imagination."
+          "x": "Two cards describe what it is like to stand inside that gap between the response and the thought. [Facing the fear](card:Facing%20the%20fear) holds Kierkegaard's thread through The Concept of Anxiety: anxiety as \"sympathetic antipathy,\" drawn toward and repelled by a possibility at once, belonging to the human condition rather than being only a symptom. [SP017 — Treat hope and fear as one system](card:SP017%20%E2%80%94%20Treat%20hope%20and%20fear%20as%20one%20system) carries Spinoza's observation that hope and fear have the same object, exist simultaneously, and neither exists without some doubt in the imagination. Both make the fear a relation to a possibility, which is why the picture can be worked on at all."
         },
         {
           "t": "h2",
-          "x": "How fear is examined and classified"
+          "x": "Which fears can be named and sorted?"
         },
         {
           "t": "p",
-          "x": "[The examination of fear](card:The%20examination%20of%20fear): Epicurus's method in the Letter to Menoeceus — take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death, which is nothing to us, “seeing that, when we are, death is not come, and, when death is come, we are not”."
+          "x": "The Stoic curriculum names the fears it intends to remove. [S022 — Do not fear poverty](card:S022%20%E2%80%94%20Do%20not%20fear%20poverty), [S023 — Do not fear pain](card:S023%20%E2%80%94%20Do%20not%20fear%20pain) and [S024 — Do not fear death](card:S024%20%E2%80%94%20Do%20not%20fear%20death) each carry an exercise. Seneca's is rehearsal of the minimum:"
+        },
+        {
+          "t": "q",
+          "x": "\"Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'\" ([Seneca, Letters to Lucilius 18, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18))",
+          "s": null
         },
         {
           "t": "p",
-          "x": "[The classification of fears](card:The%20classification%20of%20fears): the card's editorial label for the Letter to Menoeceus — its two main fears, of the gods and of death, and its sorting of desires so the groundless ones can be dropped; the letter supplies no ranked taxonomy."
+          "x": "The rule behind the exercises is a sorting. [S063 — Do not fear what you cannot control](card:S063%20%E2%80%94%20Do%20not%20fear%20what%20you%20cannot%20control) and [D097 — Don't fear what you can't act on](card:D097%20%E2%80%94%20Don%27t%20fear%20what%20you%20can%27t%20act%20on) hold the Stoic instruction to sort what requires effort, attention and experiment from what simply requires waiting, and to spend no fear on the second pile."
         },
         {
           "t": "p",
-          "x": "[SP038 — Treat superstition as fear's theology](card:SP038%20%E2%80%94%20Treat%20superstition%20as%20fear%27s%20theology): Spinoza's description of superstition as dread converted into behavior — the surveying of nature, the paper talisman against misfortune."
-        },
-        {
-          "t": "p",
-          "x": "[S063 — Do not fear what you cannot control](card:S063%20%E2%80%94%20Do%20not%20fear%20what%20you%20cannot%20control) and [D097 — Don't fear what you can't act on](card:D097%20%E2%80%94%20Don%27t%20fear%20what%20you%20can%27t%20act%20on): the Stoic rule — no need for fear on any object over which the patient exercises no control; the examination of what requires effort, attention, and experiment versus what simply requires waiting."
+          "x": "The sorting has a moral edge, and Spinoza states it. [SP065 — Act from strength, not from fear](card:SP065%20%E2%80%94%20Act%20from%20strength%2C%20not%20from%20fear) records his rule that the man who does good only to escape evil is not led by reason: under desire that springs from reason, \"we seek good directly, and shun evil indirectly.\" A life ordered by fear-avoidance is not the same life as one ordered by what is worth seeking, and the difference shows up in the hardest case the curriculum names."
         },
         {
           "t": "h2",
-          "x": "Fear and the future evil: the classical remedies"
+          "x": "Can the fear of death be worked on?"
         },
         {
           "t": "p",
-          "x": "[S022 — Do not fear poverty](card:S022%20%E2%80%94%20Do%20not%20fear%20poverty), [S023 — Do not fear pain](card:S023%20%E2%80%94%20Do%20not%20fear%20pain), [S024 — Do not fear death](card:S024%20%E2%80%94%20Do%20not%20fear%20death): the three named fears of the Stoic curriculum, each with its exercise — Seneca's rehearsal of the minimum (\"Is this the condition that I feared?\"), the notice of what opinion adds to pain, and the sorting of death into the column of things that happen to everyone."
-        },
-        {
-          "t": "p",
-          "x": "[SP065 — Act from strength, not from fear](card:SP065%20%E2%80%94%20Act%20from%20strength%2C%20not%20from%20fear): Spinoza's rule and its corollary — the man who does good only to escape evil is not led by reason; under desire that springs from reason, \"we seek good directly, and shun evil indirectly\"."
-        },
-        {
-          "t": "p",
-          "x": "[Epicurean argument against the fear of death](card:Epicurean%20argument%20against%20the%20fear%20of%20death): the argument that the supposed horror of death has no referent in experience — the two never coexist."
+          "x": "Epicurus's argument against the fear of death is the tradition's most quoted remedy. [The Epicurean argument against the fear of death](card:Epicurean%20argument%20against%20the%20fear%20of%20death) holds it: the supposed horror has no referent in experience, because the two never coexist."
         },
         {
           "t": "q",
@@ -14772,19 +14777,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[B055 — Contemplate mortality (maranasati)](card:B055%20%E2%80%94%20Contemplate%20mortality%20%28maranasati%29): the Buddhist death recollection — the Upajjhatthana Sutta's five facts recollected often, because beings intoxicated with life conduct themselves badly; the reflection abandons or weakens the intoxication."
+          "x": "The Buddhist tradition works the same fear with recollection instead of argument. [B055 — Contemplate mortality (maranasati)](card:B055%20%E2%80%94%20Contemplate%20mortality%20%28maranasati%29) holds the Upajjhatthana Sutta's five facts, recollected often, because beings intoxicated with life conduct themselves badly; the reflection abandons or weakens the intoxication. Marcus Aurelius turns the same recollection into a standing instruction: \"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly\" ([S089 — Remember that you will die](card:S089%20%E2%80%94%20Remember%20that%20you%20will%20die), Meditations II.11)."
         },
         {
           "t": "p",
-          "x": "[S089 — Remember that you will die](card:S089%20%E2%80%94%20Remember%20that%20you%20will%20die): Marcus's working instruction — \"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly\" (Meditations II.11)."
-        },
-        {
-          "t": "p",
-          "x": "[Terror management](card:Terror%20management): the experimental finding that reminders of mortality make people defend their cultural worldview and derogate challengers; mortality salience biases reasoning generally."
-        },
-        {
-          "t": "p",
-          "x": "[Death anxiety research](card:Death%20anxiety%20research): the clinical-psychology study of fear of death; a review in Clinical Psychology Review proposed treating death anxiety as a transdiagnostic construct:"
+          "x": "The research tradition treats death fear as persistent material rather than a removable error. [Terror management](card:Terror%20management) holds the experimental finding that reminders of mortality make people defend their cultural worldview and derogate challengers, and that mortality salience biases reasoning generally. [Death anxiety research](card:Death%20anxiety%20research) goes further clinically:"
         },
         {
           "t": "q",
@@ -14792,44 +14789,36 @@ window.fcDossiersData = {
           "s": null
         },
         {
-          "t": "h2",
-          "x": "Courage: acting despite fear"
-        },
-        {
           "t": "p",
-          "x": "[Courage](card:Courage): the umbrella card for the virtue that answers fear with action; Aristotle's account of courage as the mean concerned with fear is its spine."
-        },
-        {
-          "t": "p",
-          "x": "[Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear): Tutu's account from the anti-apartheid movement — the coward's bravery at the moment of death, and the madness of continuing to fight after all's lost."
-        },
-        {
-          "t": "p",
-          "x": "[Authentic courage without props](card:Authentic%20courage%20without%20props): Nietzsche's aphorism GS §139 — those who depend on the applause of others receive their strength not from themselves."
-        },
-        {
-          "t": "p",
-          "x": "[Courage built gradually](card:Courage%20built%20gradually): Aristotle's NE III.9 — most people mistake cowardice for the lack of intensity (softness) rather than the internal confusion over whether one should bear the feeling at all; those who feel fear's influence in their reasoning, refuse to obey it, and act from confidence in the right option are more truly courageous than those who feel no fear."
-        },
-        {
-          "t": "p",
-          "x": "[The courage to act against impulse](card:The%20courage%20to%20act%20against%20impulse): Aristotle's NE III.8 — insecurity in one's confidence in one's own courage is not itself cowardice, and neither is the mere fact of fearing; courage is the confidence of one's own power in the face of danger, not the mere ability to endure the fear."
-        },
-        {
-          "t": "p",
-          "x": "[Moral courage research](card:Moral%20courage%20research): Rand's bystander experiments — engaged participants show higher moral courage under risk conditions; those with more developed moral identity acted independently of social influence, suggesting moral identity can override social inhibition."
-        },
-        {
-          "t": "p",
-          "x": "[A011 — Practice courage (andreia)](card:A011%20%E2%80%94%20Practice%20courage%20%28andreia%29) and [PP037 — Cultivate courage](card:PP037%20%E2%80%94%20Cultivate%20courage): the virtue-practice pages — Aristotle's exercise as an act of courage, and the affirmative cultivation of courage as a strength."
+          "x": "The laboratory does not show death fear dissolving under argument. It shows it doing work, and that difference is where the traditions genuinely part ways."
         },
         {
           "t": "h2",
-          "x": "Exposure: the clinical counterpart"
+          "x": "What answers fear with action?"
         },
         {
           "t": "p",
-          "x": "[Exposure therapy (Foa, Craske)](card:Exposure%20therapy%20%28Foa%2C%20Craske%29): the repeated approach toward fear-provoking stimuli, a mainstay of cognitive behavioral therapy since its inception; on the inhibitory-learning account the old fear is not erased but is left intact as new learning develops."
+          "x": "The virtue tradition refuses to wait for fear to leave before acting. [Courage](card:Courage) is the umbrella card, built on Aristotle's account of courage as the mean concerned with things that inspire confidence or fear. [Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear) gives the account its spine: the brave person does not lack fear, but fears the right things, in the right way and at the right time: \"death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so\" ([Aristotle, Nicomachean Ethics III, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))."
+        },
+        {
+          "t": "p",
+          "x": "The same tradition refuses to treat courage as a temperament one either has or lacks. [Courage built gradually](card:Courage%20built%20gradually) holds the habituation rule from Nicomachean Ethics II.1: \"by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly\" ([Aristotle, Nicomachean Ethics II.1, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))."
+        },
+        {
+          "t": "p",
+          "x": "Two further cards give the refusal other grounds. [The courage to act against impulse](card:The%20courage%20to%20act%20against%20impulse) is Kant's: courage, resolution and perseverance are qualities of temperament, undeniably good in many respects, but capable of becoming \"extremely bad and mischievous if the will which is to make use of them... is not good\" ([Kant, Groundwork, Abbott translation](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm)); his example is a person with every reason to want death who preserves life anyway, from duty rather than inclination. [Authentic courage without props](card:Authentic%20courage%20without%20props) returns to Aristotle for the counterfeits: the professional soldier's confidence rests on experience, arms and numbers, and when the danger exceeds those means the regulars are the first to fly. Courage that leans on props is conditioned on the props holding."
+        },
+        {
+          "t": "p",
+          "x": "The research tradition gives the virtue a tested construct. [Moral courage research](card:Moral%20courage%20research) holds Hannah, Avolio and Walumbwa's definition of moral courage as a malleable character strength that provides the conation to commit to moral principles under known danger, and their four-month military field study, in which followers' moral courage carried the effect of authentic leadership onto ethical and pro-social behaviour. The definition's first clause is the one a practitioner should notice: on this account courage is trainable, not a fixed endowment. The practice pages [A011 — Practice courage (andreia)](card:A011%20%E2%80%94%20Practice%20courage%20%28andreia%29) and [PP037 — Cultivate courage](card:PP037%20%E2%80%94%20Cultivate%20courage) hold the virtue as something exercised."
+        },
+        {
+          "t": "h2",
+          "x": "What happens when the feared thing is approached?"
+        },
+        {
+          "t": "p",
+          "x": "Exposure is the clinical practice of the same approach: the feared thing, approached repeatedly and deliberately. [Exposure therapy (Foa, Craske)](card:Exposure%20therapy%20%28Foa%2C%20Craske%29) records the repeated approach toward fear-provoking stimuli, a mainstay of cognitive behavioral therapy since its inception. The inhibitory-learning account has changed what counts as success:"
         },
         {
           "t": "q",
@@ -14838,7 +14827,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Exposure processes](card:Exposure%20processes): the mechanisms by which exposure produces its effects — expectancy violation first:"
+          "x": "The mechanisms live on [Exposure processes](card:Exposure%20processes), expectancy violation first:"
         },
         {
           "t": "q",
@@ -14847,31 +14836,63 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Graded exposure systematic desensitisation (Wolpe)](card:Graded%20exposure%20systematic%20desensitisation%20%28Wolpe%29): the ordered approach from least to most disturbing step; Wolpe's principle — if a response antagonistic to anxiety can be made to occur in the presence of anxiety-evoking stimuli, the bond between the stimuli and the anxiety responses will be weakened."
+          "x": "The older behavioural version of the same practice is on [Graded exposure systematic desensitisation (Wolpe)](card:Graded%20exposure%20systematic%20desensitisation%20%28Wolpe%29): the ordered approach from least to most disturbing step, on Wolpe's principle that if a response antagonistic to anxiety can be made to occur in the presence of anxiety-evoking stimuli, the bond between the stimuli and the anxiety responses will be weakened. [Interoceptive exposure (Barlow)](card:Interoceptive%20exposure%20%28Barlow%29) applies the approach to the body itself: a racing heart or dizziness brought on deliberately and stayed with, so that it can be learned that it does not lead to the disaster expected."
         },
         {
           "t": "p",
-          "x": "[Interoceptive exposure (Barlow)](card:Interoceptive%20exposure%20%28Barlow%29): the part of exposure where the thing approached is a bodily sensation — a racing heart, dizziness — brought on deliberately and stayed with, so that it can be learned that it does not lead to the disaster expected."
+          "x": "Two further cards complete the clinical cluster. [ERP (exposure and response prevention)](card:ERP%20%28exposure%20and%20response%20prevention%29) pairs deliberate confrontation of feared situations with the blocking of the compulsions that follow, and is a first-line treatment for OCD on its evidence base. [BE026 — Learn exposure therapy principles — approach what you fear](card:BE026%20%E2%80%94%20Learn%20exposure%20therapy%20principles%20%E2%80%94%20approach%20what%20you%20fear) is the principle at practice size: systematically approaching feared situations, objects or sensations while preventing avoidance."
         },
         {
-          "t": "p",
-          "x": "[ERP (exposure and response prevention)](card:ERP%20%28exposure%20and%20response%20prevention%29): the OCD treatment that pairs deliberate confrontation of feared situations with the blocking of the compulsions that follow; on the evidence base it is a first-line treatment for OCD."
-        },
-        {
-          "t": "p",
-          "x": "[BE026 — Learn exposure therapy principles — approach what you fear](card:BE026%20%E2%80%94%20Learn%20exposure%20therapy%20principles%20%E2%80%94%20approach%20what%20you%20fear): the exposure principle at practice size — systematically approaching feared situations, objects, or sensations while preventing avoidance."
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
         },
         {
           "t": "h2",
-          "x": "The stories and sayings"
+          "x": "Can reasoning dissolve a fear?"
         },
         {
           "t": "p",
-          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): the Christian tradition's one-line removal — 1 John 4:18."
+          "x": "The Epicurean method promises that a fear held up to reasoning dissolves or shrinks to its real size, and the Stoic exercises are built on the same confidence that judgment is the lever. The fear-module review pulls the ground from under that confidence with its third characteristic: activation that is automatic and relatively impenetrable to cognitive control ([Öhman & Mineka, 2001](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf))."
         },
         {
           "t": "p",
-          "x": "[I fear the Greeks even bearing gifts](card:I%20fear%20the%20Greeks%20even%20bearing%20gifts): Laocoon's warning against what arrives as a gift — Aeneid II."
+          "x": "What the disagreement turns on is which fear each account is describing. The module answers the snake and the loud noise; the Letter to Menoeceus works on the fear of gods and the fear of death, which are pictures and arguments rather than stimuli. The sources do not reconcile the two accounts, and I read them as descriptions of different layers of the same response: the automatic system fires first, and the examined picture is what reasoning can still reach. That reading is my synthesis, not a finding in either carrier."
+        },
+        {
+          "t": "h2",
+          "x": "Is death fear removable by argument?"
+        },
+        {
+          "t": "p",
+          "x": "Epicurus's conclusion is that death is nothing to us, and the argument is meant to end the fear. The recollection traditions do not predict an ending. The Upajjhatthana Sutta prescribes recollecting the five facts often, because the intoxication with life is weakened by repetition, and Marcus's instruction is to regulate every act as if departure were possible this moment: a standing practice, not a settled conclusion."
+        },
+        {
+          "t": "p",
+          "x": "The research side complicates the argument's completion. Terror-management findings show death reminders biasing reasoning and stiffening worldview defense, and the clinical review treats death anxiety as a construct underlying numerous conditions, which is a claim that it persists and does work ([Iverach et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25306232/)). I lean toward the recollection traditions here, on the persistence the research reports: they assume the fear returns, and they give the person something to do each time it does."
+        },
+        {
+          "t": "h2",
+          "x": "Is the aim to cast fear out or to act with it?"
+        },
+        {
+          "t": "p",
+          "x": "The Christian one-liner held on [Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear) promises removal: 1 John 4:18. Aristotle's account of courage is built on the opposite assumption. On [Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear), death and wounds remain painful to the brave man and against his will, and he faces them anyway because it is noble to do so. The feeling stays, and the act changes. The objects differ (the letter's fear is fear of punishment on the day of judgment; Aristotle's is battle and death), and I mark that difference rather than paper over it: what genuinely conflicts is the aim each prescribes."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on whether fear is an intruder or a normal load the virtuous person carries into action. I lean toward Aristotle, and the exposure research gives the lean its measured support: if the original association is not erased but overlaid, then acting with the feeling is the arrangement the evidence describes ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)). The cast-out reading keeps a defender in the argument, and I leave it there: a state of perfect love is not a claim the laboratory tested."
+        },
+        {
+          "t": "h2",
+          "x": "Does approaching the feared thing erase it or overlay it?"
+        },
+        {
+          "t": "p",
+          "x": "The two exposure accounts held on these cards give incompatible answers to the same question. Wolpe's principle, on [Graded exposure systematic desensitisation (Wolpe)](card:Graded%20exposure%20systematic%20desensitisation%20%28Wolpe%29), is that if a response antagonistic to anxiety can be made to occur in the presence of anxiety-evoking stimuli, the bond between the stimuli and the anxiety responses will be weakened: the fear association itself degrades. The inhibitory-learning account, forty years later, found the opposite in the conditioning laboratory: the original association is left intact, and what develops is new learning that the feared cue no longer predicts the disaster ([Craske et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement matters for what counts as success and what to expect afterward. If the bond is weakened, the work ends when the fear falls; if the association is intact underneath, return of fear remains possible, and the paper that states this notes it in its opening sentence, that a substantial number of individuals fail to benefit or experience a return of fear after treatment. I follow the inhibitory-learning account: it takes the relapse reports as data rather than embarrassment, and it tells the practitioner to keep the record of what was predicted and what occurred."
         },
         {
           "t": "h",
@@ -14895,17 +14916,17 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 2,
-          "x": "[Morning premeditation](card:K275%20%E2%80%94%20Morning%20premeditation): spend two minutes on what the day may bring — the difficult conversation, the delay, the setback — and rehearse a response to each in if-then form. The field research behind it found that linking foreseeable obstacles to chosen responses helped goal attainment."
+          "x": "[Morning premeditation](card:K275%20%E2%80%94%20Morning%20premeditation): spend two minutes on what the day may bring (the difficult conversation, the delay, the setback) and rehearse a response to each in if-then form. The field research behind it found that linking foreseeable obstacles to chosen responses helped goal attainment."
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): once a week, act on a situation where unfairness is seen and silence would be normal — speak up, challenge, report. The drill is designed against the finding that people report smoke far less often in the presence of passive others."
+          "x": "[Prosocial courage drill](card:K290%20%E2%80%94%20Prosocial%20courage%20drill): once a week, act on a situation where unfairness is seen and silence would be normal: speak up, challenge, report. The drill is designed against the finding that people report smoke far less often in the presence of passive others."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Civic courage drill](card:K362%20%E2%80%94%20Civic%20courage%20drill): once a month, act on a civic concern normally avoided — attend the meeting, write to the representative, speak at the forum. The well-being evidence for civic engagement is uneven; the drill runs on courage and conviction first."
+          "x": "[Civic courage drill](card:K362%20%E2%80%94%20Civic%20courage%20drill): once a month, act on a civic concern normally avoided: attend the meeting, write to the representative, speak at the forum. The well-being evidence for civic engagement is uneven; the drill runs on courage and conviction first."
         },
         {
           "t": "vs",
@@ -14939,6 +14960,18 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "[ST207 — The Sailors and the Storm](card:ST207%20%E2%80%94%20The%20Sailors%20and%20the%20Storm): in a storm at sea the passengers panic and the sailors work; the storm is identical for both, and the difference is the story each has about it: the sailors know what is theirs to do and what is not, and their calm is a by-product of that sorting."
+        },
+        {
+          "t": "h2",
+          "x": "Sayings that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): the Christian tradition's one-line removal, 1 John 4:18."
+        },
+        {
+          "t": "p",
+          "x": "[I fear the Greeks even bearing gifts](card:I%20fear%20the%20Greeks%20even%20bearing%20gifts): Laocoon's warning against what arrives as a gift, Aeneid II."
         },
         {
           "t": "h2",
