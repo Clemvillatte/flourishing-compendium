@@ -606,6 +606,11 @@
      "t": "2026-10-22T15:42:49+00:00",
      "to": "ready",
      "note": "Independent tenth-item advisor passed facts, quotations and matrices; requested clinical-utility clarification applied"
+    },
+    {
+     "t": "2026-10-25T15:16:42+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:16:42: sample verified - quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -646,6 +651,11 @@
      "t": "2026-10-22T15:53:29+00:00",
      "to": "ready",
      "note": "Final independent advisor review complete; exact-case and precise-page corrections applied where requested"
+    },
+    {
+     "t": "2026-10-25T15:16:42+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:16:42: sample verified - quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -995,5 +1005,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:16:13+00:00"
+ "updated": "2026-10-25T15:16:42+00:00"
 }
