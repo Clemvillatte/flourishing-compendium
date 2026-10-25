@@ -9,7 +9,6 @@
   "A053",
   "R005",
   "S007",
-  "S011",
   "A023",
   "A063",
   "D080",
@@ -32,7 +31,7 @@
   "P073",
   "P139"
  ],
- "in_progress": null,
+ "in_progress": "S011",
  "flagged": {
   "D087": "QC complete: butterfly passage and modernized names verified; Plain words repaired",
   "D055": "QC complete: DDJ 29/64 and Chan section 7 verified; Plain words repaired",
@@ -62,12 +61,12 @@
   "R005": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the statutory TRC qualification is explicit (full disclosure, political objective, committee assessment; not an automatic exchange); the personal moral question is restored distinct from political institutions; Plain words and the sibling illustration preserve accountability and the choice whether to forgive; the Tutu quotation occurs verbatim in the opened excerpt and the AZAPO judgment and SEP entries were opened per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §R005. [ORIGINAL ALLEGATION: Reopened for QC: Clarify forgiveness without compulsory reconciliation; check TRC amnesty conditions and open Tutu excerpt]",
   "SO044": "QC: primary quote and game comparison verified; commentary disagreement retained; Plain words repaired",
   "S007": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the providential premise is retained rather than secularised; the social-action qualification is present (acceptance accompanies responsibility); the hypothetical promotion response includes feedback, fair questioning and review; the retained V.8 quotation matches Long and V.36/Kamtekar were opened per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §S007. [ORIGINAL ALLEGATION: Reopened for QC: Retain providential premise while connecting acceptance to ongoing social action]",
-  "S011": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — ongoing practice and relational duty are visible; Plain words explains the three connected aspects directly; the late-colleague example includes checking assumptions, considerate action and review; the retained Discourses III.2 quotation matches the opened Internet Classics text per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §S011. [ORIGINAL ALLEGATION: Reopened for QC: Clarify three disciplines as trainable practices rather than one-off questions]",
+  "S011": "Reopened for QC: QC: three areas as practical training rather than detached logic, repair Plain words",
   "E003": "RESOLVED by worker-p1a-1025b 2026-10-25 (per-item verification): repair confirmed present on the current page — the relation between retained conviction and bracketed positing is stated directly (\"you keep that belief without using it to settle the investigation\"), the example headings are normalised, and the kettle case remains clear; the §32 quotation and §§30-32 distinctions were verified against the opened Kersten PDF per the ledger. No page edit needed this session; source verification not repeated; evidence in sources/p1a/repair-b303ba60.md §E003. [ORIGINAL ALLEGATION: Reopened for QC: Clarify retained belief versus using its validity; normalize example headings]"
  },
  "missing_concepts": [],
  "sources_checked": 85,
- "updated": "2026-10-25T11:17:52+00:00",
+ "updated": "2026-10-25T11:18:52+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."
