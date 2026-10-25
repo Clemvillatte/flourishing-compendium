@@ -10539,6 +10539,14 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
+          "x": "Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
           "x": "[Narrative identity](card:Narrative%20identity) — Ricoeur's self as told, an answer to the who question; agency asks what a person can run, this asks who is running it."
         },
         {
@@ -10562,12 +10570,8 @@ window.fcDossiersData = {
           "x": "These are the nearest entries, not the scope."
         },
         {
-          "t": "p",
-          "x": "Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on."
-        },
-        {
           "t": "h",
-          "x": "The map: the entries on agency"
+          "x": "Where agency sits in a life"
         },
         {
           "t": "h2",
@@ -10575,27 +10579,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The dichotomy of control](card:The%20dichotomy%20of%20control): Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command)."
+          "x": "Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command) is [the dichotomy of control](card:The%20dichotomy%20of%20control). The capacity to act from one's own understanding, free of external compulsion and internal passion, gathering political liberty, autonomy, and liberation from craving or fear, is [freedom](card:Freedom)."
         },
         {
           "t": "p",
-          "x": "[Freedom](card:Freedom): the capacity to act from one's own understanding, free of external compulsion and internal passion; the word gathers political liberty, autonomy, and liberation from craving or fear."
+          "x": "Berlin's second sense of liberty, the wish to be one's own master, a self in charge of its life which the mere absence of interference does not supply, is [positive freedom](card:Positive%20freedom). Frankfurt's term for wanting what one wants, where the person is the one who can endorse or disown a first-order desire, is [second-order desires](card:Second-order%20desires)."
         },
         {
           "t": "p",
-          "x": "[Positive freedom](card:Positive%20freedom): Berlin's second sense of liberty: the wish to be one's own master; a self in charge of its life, which the mere absence of interference does not supply."
-        },
-        {
-          "t": "p",
-          "x": "[Second-order desires](card:Second-order%20desires): Frankfurt's term for wanting what one wants; the person, on this account, is the one who can endorse or disown a first-order desire."
-        },
-        {
-          "t": "p",
-          "x": "[Akrasia](card:Akrasia): acting against one's own better judgment; Aristotle treats it as a curable failure of habituation, not a fate."
-        },
-        {
-          "t": "p",
-          "x": "[Wu wei](card:Wu%20wei): the Daodejing's way of acting that does not force, so that things take their own course; effectiveness without strain."
+          "x": "Acting against one's own better judgment, which Aristotle treats as a curable failure of habituation, not a fate, is [akrasia](card:Akrasia). The Daodejing's way of acting that does not force, so that things take their own course, effectiveness without strain, is [wu wei](card:Wu%20wei)."
         },
         {
           "t": "p",
@@ -10608,19 +10600,15 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "The say as effective power"
+          "x": "How the say works as power"
         },
         {
           "t": "p",
-          "x": "[Learning by doing](card:Learning%20by%20doing): Dewey's claim that knowledge grows out of activity and its consequences; experience is an active and a passive element taken together, not the reception of information."
+          "x": "Dewey's claim that knowledge grows out of activity and its consequences, where experience is an active and a passive element taken together rather than the reception of information, is [learning by doing](card:Learning%20by%20doing). Carver and Scheier's feedback model of behaviour, in which loops compare the perceived state against a reference value and the mismatch itself drives the action, is the [control theory of self-regulation](card:Control%20theory%20of%20self-regulation)."
         },
         {
           "t": "p",
-          "x": "[Control theory of self-regulation](card:Control%20theory%20of%20self-regulation): Carver and Scheier's feedback model of behaviour: loops compare the perceived state against a reference value, and the mismatch itself drives the action."
-        },
-        {
-          "t": "p",
-          "x": "[Pragmatism](card:Pragmatism): the tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it; Peirce, James and Dewey, with the pragmatic maxim as its core."
+          "x": "The tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it, Peirce, James and Dewey with the pragmatic maxim as its core, is [pragmatism](card:Pragmatism)."
         },
         {
           "t": "p",
@@ -10632,7 +10620,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Locus of control](card:Locus%20of%20control): Rotter's generalized expectancy about where reinforcement comes from; the 1966 definition:"
+          "x": "Rotter's generalized expectancy about where reinforcement comes from, given in the 1966 definition, is [locus of control](card:Locus%20of%20control):"
         },
         {
           "t": "q",
@@ -10641,27 +10629,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Secondary control](card:Secondary%20control): Rothbaum, Weisz and Snyder's two-process model: gaining control by changing the world, or by bringing the self into line with forces that will not change."
+          "x": "Rothbaum, Weisz and Snyder's two-process model, gaining control by changing the world or by bringing the self into line with forces that will not change, is [secondary control](card:Secondary%20control). Seligman and Maier's finding that uncontrollable events teach a lesson that outlasts them, that nothing one does matters so the escape goes untaken, is [Learned Helplessness Theory](card:Learned%20Helplessness%20Theory)."
         },
         {
           "t": "p",
-          "x": "[Learned Helplessness Theory](card:Learned%20Helplessness%20Theory): Seligman and Maier's finding that uncontrollable events teach a lesson that outlasts them: that nothing one does matters, so the escape goes untaken."
+          "x": "Seligman's claim that the way people explain setbacks to themselves can be shifted, where the book grew directly out of the helplessness research, is [learned optimism](card:Learned%20optimism). The habit that matters after a setback, bad events explained as temporary, specific and changeable, with permanence and pervasiveness as the pessimist's marks, is [optimistic explanatory style](card:Optimistic%20explanatory%20style)."
         },
         {
           "t": "p",
-          "x": "[Learned optimism](card:Learned%20optimism): Seligman's claim that the way people explain setbacks to themselves can be shifted; the book grew directly out of the helplessness research."
-        },
-        {
-          "t": "p",
-          "x": "[Optimistic explanatory style](card:Optimistic%20explanatory%20style): the habit that matters after a setback: bad events explained as temporary, specific and changeable, with permanence and pervasiveness as the pessimist's marks."
-        },
-        {
-          "t": "p",
-          "x": "[Reappraisal's effectiveness depends on controllability](card:Reappraisal%27s%20effectiveness%20depends%20on%20controllability): Troy, Shallcross and Mauss's finding that reframing helps or harms depending on whether the stressor can actually be changed; acceptance fits the unchangeable case."
-        },
-        {
-          "t": "p",
-          "x": "[Psychological empowerment theory](card:Psychological%20empowerment%20theory): Spreitzer's construct of four cognitions about one's role, meaning, competence, self-determination and impact, as intrinsic task motivation."
+          "x": "Troy, Shallcross and Mauss's finding that reframing helps or harms depending on whether the stressor can actually be changed, where acceptance fits the unchangeable case, is the [controllability of reappraisal](card:Reappraisal%27s%20effectiveness%20depends%20on%20controllability). Spreitzer's construct of four cognitions about one's role, meaning, competence, self-determination and impact, as intrinsic task motivation, is [psychological empowerment theory](card:Psychological%20empowerment%20theory)."
         },
         {
           "t": "h2",
@@ -10669,7 +10645,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-efficacy](card:Self-efficacy): Bandura's construct for the belief that one can execute the behaviour the outcome requires. His summary of what the expectation governs:"
+          "x": "Bandura's construct for the belief that one can execute the behaviour the outcome requires is [self-efficacy](card:Self-efficacy). His summary of what the expectation governs:"
         },
         {
           "t": "q",
@@ -10678,119 +10654,63 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Mastery experiences](card:Mastery%20experiences): the strongest of the four sources of efficacy belief: direct experience of succeeding at a task, alongside vicarious experience, persuasion and somatic states."
+          "x": "The strongest of the four sources of efficacy belief, direct experience of succeeding at a task alongside vicarious experience, persuasion and somatic states, is [mastery experiences](card:Mastery%20experiences). Learning by watching another person act and seeing what follows, where the observer acquires the behaviour the model performs, is [modeling](card:Modeling)."
         },
         {
           "t": "p",
-          "x": "[Modeling](card:Modeling): learning by watching another person act and seeing what follows; the observer acquires the behaviour the model performs."
+          "x": "The Bandura line running through the 1961 experiments comparing children who watched aggressive and nonaggressive adult models is [observational learning](card:Observational%20learning). Dweck's term for the belief that abilities can be developed, whose older technical name is an incremental implicit theory of ability, is [growth mindset](card:Growth%20mindset)."
         },
         {
           "t": "p",
-          "x": "[Observational learning](card:Observational%20learning): the Bandura line running through the 1961 experiments comparing children who watched aggressive and nonaggressive adult models."
-        },
-        {
-          "t": "p",
-          "x": "[Growth mindset](card:Growth%20mindset): Dweck's term for the belief that abilities can be developed; the older technical name is an incremental implicit theory of ability."
-        },
-        {
-          "t": "p",
-          "x": "[Creative self-efficacy](card:Creative%20self-efficacy): Tierney and Farmer's extension of the efficacy construct to creative work: the belief one can produce creative outcomes."
-        },
-        {
-          "t": "p",
-          "x": "[Collective efficacy](card:Collective%20efficacy): Bandura's extension of agency to groups: people's shared beliefs in their collective power to produce desired results."
-        },
-        {
-          "t": "p",
-          "x": "[Hope](card:Hope): the forward-facing expectation of a good not yet arrived; in Snyder's theory it runs on agency and pathways together."
+          "x": "Tierney and Farmer's extension of the efficacy construct to creative work, the belief one can produce creative outcomes, is [creative self-efficacy](card:Creative%20self-efficacy). Bandura's extension of agency to groups, people's shared beliefs in their collective power to produce desired results, is [collective efficacy](card:Collective%20efficacy). The forward-facing expectation of a good not yet arrived, which in Snyder's theory runs on agency and pathways together, is [hope](card:Hope)."
         },
         {
           "t": "h2",
-          "x": "Autonomy and competence as needs"
+          "x": "How autonomy and competence work as needs"
         },
         {
           "t": "p",
-          "x": "[Self-determination](card:Self-determination): the claim that people do best when their motivation is their own; the centre of Deci and Ryan's framework."
+          "x": "The claim that people do best when their motivation is their own, the centre of Deci and Ryan's framework, is [self-determination](card:Self-determination). The SDT account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, read as universal nutriments, is [psychological needs theory](card:Psychological%20needs%20theory)."
         },
         {
           "t": "p",
-          "x": "[Psychological needs theory](card:Psychological%20needs%20theory): the SDT account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, read as universal nutriments."
+          "x": "Self-governance, acting from one's own endorsement, Kant's courage to think for oneself and SDT's basic need in one entry, is [autonomy](card:Autonomy). The SDT half that includes intrinsic motivation and regulation the person has accepted as their own is [autonomous motivation](card:Autonomous%20motivation), and the other half, motivation sourced in pressure, external demands and rewards, or internally felt guilt and pride, is [controlled motivation](card:Controlled%20motivation)."
         },
         {
           "t": "p",
-          "x": "[Autonomy](card:Autonomy): self-governance, acting from one's own endorsement; Kant's courage to think for oneself and SDT's basic need in one entry."
+          "x": "The comparison page, motivation sorted by its reasons rather than its strength, is [autonomous versus controlled motivation](card:Autonomous%20versus%20controlled%20motivation). The SDT distinction between two ways of carrying a rule inside, regulation accepted as one's own and regulation taken in but not accepted, performed to avoid guilt or anxiety, is [identified versus introjected motivation](card:Identified%20versus%20introjected%20motivation)."
         },
         {
           "t": "p",
-          "x": "[Autonomous motivation](card:Autonomous%20motivation): the SDT half that includes intrinsic motivation and regulation the person has accepted as their own."
+          "x": "In self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation instead of pressing them toward outcomes is [autonomy-supportive leadership](card:Autonomy-supportive%20leadership). Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation, is [autonomy-supportive management research](card:Autonomy-supportive%20management%20research)."
         },
         {
           "t": "p",
-          "x": "[Controlled motivation](card:Controlled%20motivation): the other half: motivation sourced in pressure, external demands and rewards, or internally felt guilt and pride."
+          "x": "The undermining effect literature, rewards and controls that displace intrinsic motivation, creativity and well-being, is [autonomy-threat research](card:Autonomy-threat%20research). Assor, Roth and Deci on parental conditional regard, compliance bought at the price of internal compulsion and short-lived satisfaction, is [attachment research on autonomy-granting](card:Attachment%20research%20on%20autonomy-granting)."
         },
         {
           "t": "p",
-          "x": "[Autonomous versus controlled motivation](card:Autonomous%20versus%20controlled%20motivation): the comparison page: motivation sorted by its reasons rather than its strength."
+          "x": "Barber's parenting construct, control that constrains, invalidates and manipulates the child's psychological experience, distinct from behavioural control, is [psychological control](card:Psychological%20control). The feminist family of accounts revising the self-governing individual, in which care, recognition and social conditions are the media of autonomy, not its enemies, is [relational autonomy](card:Relational%20autonomy)."
         },
         {
           "t": "p",
-          "x": "[Identified versus introjected motivation](card:Identified%20versus%20introjected%20motivation): the SDT distinction between two ways of carrying a rule inside: regulation accepted as one's own, and regulation taken in but not accepted, performed to avoid guilt or anxiety."
+          "x": "Beck's two vulnerabilities in depression, sociotropy and autonomy, each sensitized to its own matching stressors, is [sociotropy-autonomy theory](card:Sociotropy-autonomy%20theory). The capacity to interact effectively with one's environment, given its modern form by Robert White in 1959, is [competence](card:Competence)."
         },
         {
           "t": "p",
-          "x": "[Autonomy-supportive leadership](card:Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation instead of pressing them toward outcomes."
-        },
-        {
-          "t": "p",
-          "x": "[Autonomy-supportive management research](card:Autonomy-supportive%20management%20research): Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation."
-        },
-        {
-          "t": "p",
-          "x": "[Autonomy-threat research](card:Autonomy-threat%20research): the undermining effect literature: rewards and controls that displace intrinsic motivation, creativity and well-being."
-        },
-        {
-          "t": "p",
-          "x": "[Attachment research on autonomy-granting](card:Attachment%20research%20on%20autonomy-granting): Assor, Roth and Deci on parental conditional regard: compliance bought at the price of internal compulsion and short-lived satisfaction."
-        },
-        {
-          "t": "p",
-          "x": "[Psychological control](card:Psychological%20control): Barber's parenting construct: control that constrains, invalidates and manipulates the child's psychological experience, distinct from behavioural control."
-        },
-        {
-          "t": "p",
-          "x": "[Relational autonomy](card:Relational%20autonomy): the feminist family of accounts revising the self-governing individual: care, recognition and social conditions as the media of autonomy, not its enemies."
-        },
-        {
-          "t": "p",
-          "x": "[Sociotropy-autonomy theory](card:Sociotropy-autonomy%20theory): Beck's two vulnerabilities in depression, sociotropy and autonomy, each sensitized to its own matching stressors."
-        },
-        {
-          "t": "p",
-          "x": "[Competence](card:Competence): the capacity to interact effectively with one's environment, given its modern form by Robert White in 1959."
-        },
-        {
-          "t": "p",
-          "x": "[Competence motivation](card:Competence%20motivation): White's proposal for the motive behind exploration and mastery, with effectance as the concept and a feeling of efficacy as its signature."
-        },
-        {
-          "t": "p",
-          "x": "[Flow](card:Flow): the immersed state of energized focus and full involvement in an activity; among its conditions, the balance of perceived challenge and perceived skill."
+          "x": "White's proposal for the motive behind exploration and mastery, with effectance as the concept and a feeling of efficacy as its signature, is [competence motivation](card:Competence%20motivation). The immersed state of energized focus and full involvement in an activity, among whose conditions is the balance of perceived challenge and perceived skill, is [flow](card:Flow)."
         },
         {
           "t": "h2",
-          "x": "Agency in the social world"
+          "x": "How agency runs in the social world"
         },
         {
           "t": "p",
-          "x": "[Big Two model of agency and communion](card:Big%20Two%20model%20of%20agency%20and%20communion): the two axes of social judgment, getting ahead and getting along; agency as striving to individuate and expand the self."
+          "x": "The two axes of social judgment, getting ahead and getting along, with agency as striving to individuate and expand the self, is the [Big Two model of agency and communion](card:Big%20Two%20model%20of%20agency%20and%20communion). Shaping choices with the people who must live with them rather than doing things to or for them, whose backbone is Bandura's collective agency, is [participatory decision-making](card:Participatory%20decision-making)."
         },
         {
           "t": "p",
-          "x": "[Participatory decision-making](card:Participatory%20decision-making): shaping choices with the people who must live with them rather than doing things to or for them; its backbone is Bandura's collective agency."
-        },
-        {
-          "t": "p",
-          "x": "[Moral disengagement research](card:Moral%20disengagement%20research): Bandura's account of the psychosocial manoeuvres by which self-sanctions are switched off; agency's moral face."
+          "x": "Bandura's account of the psychosocial manoeuvres by which self-sanctions are switched off, agency's moral face, is [moral disengagement research](card:Moral%20disengagement%20research)."
         },
         {
           "t": "h",
@@ -10825,6 +10745,70 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "The conviction of being able to execute is what his system assigns the causal work in initiation and persistence; the estimate of what follows is a separate variable. That is the Stoic line drawn in psychological dress, though Bandura draws it for predictive reasons and Epictetus for the sake of peace."
+        },
+        {
+          "t": "h2",
+          "x": "Does the feeling of choosing cause the act?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when you feel that you are deciding, is that feeling part of what produces the act, or a report the mind writes about it afterwards? Wegner's account of apparent mental causation takes the second side:"
+        },
+        {
+          "t": "q",
+          "x": "\"Experiences of conscious will thus arise from processes whereby the mind interprets itself – not from processes whereby mind creates action. Conscious will, in this view, is an indication that we think we have caused an action, not a revelation of the causal sequence by which the action was produced.\" ([Wegner, Behavioral and Brain Sciences 2004, précis of The Illusion of Conscious Will](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/precis-of-the-illusion-of-conscious-will/1C1CDE8A8D9B7A7B13D4A49EA383E674))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Baumeister, Masicampo and Vohs reviewed experiments that manipulate conscious thought by random assignment and read the record the other way:"
+        },
+        {
+          "t": "q",
+          "x": "\"The evidence for conscious causation of behavior is profound, extensive, adaptive, multifaceted, and empirically strong. However, conscious causation is often indirect and delayed, and it depends on interplay with unconscious processes.\" ([Baumeister, Masicampo and Vohs, Annual Review of Psychology 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21126180/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21126180&rettype=abstract&retmode=text))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two abstracts do not contradict each other as sharply as the titles suggest. Wegner is claiming that the feeling of will is built from an interpretation and does not give a view of the causal chain. Baumeister and colleagues are claiming that conscious thoughts, such as plans and rehearsal, do change what people go on to do, and they accept that the effect is indirect and mixed with unconscious processing. Both can be true if the feeling of deciding is a poor guide to the route a thought takes while the thought itself still matters."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that the dispute is less about whether conscious thought has any effect and more about how far the felt moment of choosing can be trusted as evidence of that effect. Limits: I read two abstracts, not the book or the review, and the review's range of topics does not test the specific cases Wegner uses, such as hypnosis or automatic writing."
+        },
+        {
+          "t": "h2",
+          "x": "Is bringing the self into line a form of control or a lesser one?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when the world will not change, is adjusting yourself an exercise of agency or a retreat from it? Rothbaum, Weisz and Snyder argue that it is control of a second kind:"
+        },
+        {
+          "t": "q",
+          "x": "\"People attempt to gain control by bringing the environment into line with their wishes (primary control) and by bringing themselves into line with environmental forces (secondary control).\" ([Rothbaum, Weisz and Snyder, Journal of Personality and Social Psychology 1982, abstract](https://doi.org/10.1037/0022-3514.42.1.5))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Among the forms of secondary control they list is interpretive control, \"in which the individual seeks to understand and derive meaning from otherwise uncontrollable events in order to accept them\" (same abstract). Heckhausen and Schulz keep the same pair of terms and rank them:"
+        },
+        {
+          "t": "q",
+          "x": "\"Secondary control helps the individual to cope with failure and fosters primary control by channeling motivational resources toward selected action goals throughout the life course. Primary control has functional primacy over secondary control.\" ([Heckhausen and Schulz, Psychological Review 1995, abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=7740091&rettype=abstract&retmode=text))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Their later reply to a critic restates the ranking as a claim about culture as well as development, defending the view that \"primary control striving holds functional primacy throughout the life span and across cultural and historical settings\" ([Heckhausen and Schulz, Psychological Review 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10467898/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10467898&rettype=abstract&retmode=text)). That reply answers a 1999 critique by Gould, which I know only from the reply's abstract."
+        },
+        {
+          "t": "p",
+          "x": "The difference is about what adjustment is for. In the first account it is a route to control in its own right, so that withdrawal can be read as an attempt to hold on to control. In the second it serves primary control by protecting motivation, and the reply treats the ranking as universal."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine and not a finding of either paper, is that a person who accepts a situation they cannot change is exercising agency, and the 1995 ranking is easier to defend for the span of a life than for a single hard moment. Limits: I read only the abstracts, plus the reply's statement of the cultural claim. I did not read Gould's critique or the empirical studies on either side."
         },
         {
           "t": "h",
