@@ -409,3 +409,52 @@ lone not-guilty vote, wanting to talk — matches) and ST387 Ciñcā
 Accuses the Buddha Before the Assembly (the faked pregnancy, the
 one sentence, the unmasking — matches). All three match. With batch
 1, the sampled cards all verify. No defects found.
+
+## Disagreement-repair pass (worker-pplx-dos20-1025-0600, 2026-10-25)
+
+One new substantiated disagreement added ("May one lie for another's
+sake?"), bringing the count to TWO. The 3-5 bar remains UNMET at 2
+of 3 — supervisor/owner disposition requested rather than
+manufacturing a third.
+
+Carriers freshly opened and verified this session (fetch tool;
+quotes matched word-for-word against the raw text):
+
+1. AN 10.176, Thanissaro, Access to Insight (the B145 card's own
+   carrier, quoted in the dossier from the card's already-verified
+   text): "Thus he doesn't consciously tell a lie for his own sake,
+   for the sake of another, or for the sake of any reward."
+2. Mill, Utilitarianism ch. 2 (Balliol PDF,
+   balliol.ox.ac.uk/sites/default/files/utilitarianism_chapter_2.pdf)
+   — "Yet that even this rule, sacred as it is, admits of possible
+   exceptions... the chief of which is when the withholding of some
+   fact (as of information from a malefactor, or of bad news from a
+   person dangerously ill) would save an individual (especially an
+   individual other than oneself) from great and unmerited evil,
+   and when the withholding can only be effected by denial."
+   Verified verbatim against the Balliol PDF.
+
+Advisor QC applied before push: the Gilligan-vs-Kohlberg candidate
+was investigated and NOT counted (the verified Gilligan quote does
+not establish that Kohlberg ranked care reasoning lower; the
+Kohlberg three-level summary does not establish where care falls;
+attributing them to repository cards would preserve the evidence
+gap, not resolve it). The John 8:32-vs-prosocial-honesty candidate
+was dropped (different questions: freedom vs trust). Rejected
+leads recorded to prevent re-litigation: Gilligan-Kohlberg
+(evidence gap noted, requires opening passages that explicitly
+establish the ranking and Gilligan's challenge),
+Peirce-vs-Noelle-Neumann (compatible descriptions),
+Heidegger-vs-Rogers (compatible), Daoist-sparse-vs-Buddhist-gate
+(compatible restraint), Rosenberg-vs-Ames/Flynn (compatible),
+Aristotle-truthfulness-vs-Buddhist-lying-prohibition (different
+questions).
+
+Checks: dossier_check.py exit 0 (96 card links, 20 headers, 8
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 8 checked / 0 not found.
+
+STATUS: two substantiated disagreements ("Must right words be
+pleasing?" and "May one lie for another's sake?"); the 3-5 bar
+remains UNMET (2 of 3 minimum). Publication decision remains with
+the supervisor/owner.

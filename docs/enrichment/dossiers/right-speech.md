@@ -119,6 +119,20 @@ The shared question: when speech is true and useful, must it also be agreeable t
 
 The Abhaya Sutta's case list, by contrast, in its third case, admits words that are factual, true, beneficial, and unendearing, to be said at the proper time, and the reason given is sympathy, not its absence. In the passages cited, the two definitions answer that question differently: the Gita verse folds pleasantness into the definition of the austerity of speech, while the Abhaya Sutta's third case admits unendearing words said at the proper time, with sympathy as the reason. Whether the broader traditions part over pleasantness is not established by these two passages alone. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it.
 
+### May one lie for another's sake?
+
+The Cunda Kammaraputta Sutta's witness scene states the Buddhist floor without an exception clause:
+
+> "Thus he doesn't consciously tell a lie for his own sake, for the sake of another, or for the sake of any reward." ([Thanissaro, AN 10.176, Cunda Kammaraputta Sutta](https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html))
+
+Mill's Utilitarianism draws the line elsewhere. After calling the rule against lying one of transcendent expediency, whose violation weakens the trustworthiness of human assertion, he names its chief exception:
+
+> "Yet that even this rule, sacred as it is, admits of possible exceptions, is acknowledged by all moralists; the chief of which is when the withholding of some fact (as of information from a malefactor, or of bad news from a person dangerously ill) would save an individual (especially an individual other than oneself) from great and unmerited evil, and when the withholding can only be effected by denial." ([Mill, Utilitarianism ch. 2](https://www.balliol.ox.ac.uk/sites/default/files/utilitarianism_chapter_2.pdf))
+
+The two passages answer the same question with opposite rules. The Buddhist text's witness scene gives no exception for a conscious lie told for another person's sake. Mill expressly allows an exception when withholding information would prevent great and unmerited harm and the information can be withheld only through denial, and he asks that the exception's limits be marked so it does not spread beyond the need.
+
+I lean toward the sutta's strict rule because I distrust my own ability to distinguish a necessary protective lie from a convenient excuse. That preference is hardest to defend when deception would protect someone from grave harm.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the rush from impression to utterance: the volume mistaken for truth, the venting mistaken for honesty, the advice that relieves the speaker and burdens the hearer, and the fluency of a repeated claim mistaken for its being so. The adaptive direction is the gap between the stir and the saying: the words run through the gate of true, timely, beneficial, and kind, the listening done before the verdict, and the plain word preferred to the beautiful one.
