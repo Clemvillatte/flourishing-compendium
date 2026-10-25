@@ -841,6 +841,39 @@ attach them with evidence on file.
 - Relevant segment: whole keynote, 1:31:24.
 - Verification status: verified-video.
 
+### M05-SP-05: Hobbes and Spinoza on Equality, Equalization and Equilibrium (Beth Lord, Open University)
+
+- Identity and access: oembed confirms the keynote on the Faculty of Arts & Social
+  Sciences at The OU channel (https://www.youtube.com/watch?v=IQXIENBuYPQ).
+- Duration: 0:37:33 (watch page, 2026-10-25).
+- Instructor credentials: Beth Lord, University of Aberdeen (per the host
+  description); keynote from the conference Spinoza's TTP: Politics, Power and the
+  Imagination, March 2021.
+- Language: English.
+- Content coverage: the host's description states the lecture discusses Hobbes and
+  Spinoza's similarities and differences on equality and equalization and argues
+  they converge on the need to achieve equilibrium as the most important form of
+  equality a state can deliver.
+- Relevant segment: whole keynote, 0:37:33.
+- Verification status: verified-video.
+
+### M05-XP-05: Emerson, Nietzsche, and the Romantic World (David Mikics, Yale Franke Lectures)
+
+- Identity and access: oembed confirms the lecture on the Yale University channel
+  (https://www.youtube.com/watch?v=8wbcszqoDPs).
+- Duration: 1:28:23 (watch page, 2026-10-25).
+- Instructor credentials: Dr David Mikics, John and Rebecca Moores Distinguished
+  Professor in English and the Honors College at the University of Houston (per the
+  host description); Franke Lectures in the Humanities, Whitney Humanities
+  Center, Yale, September 26, 2013.
+- Language: English.
+- Content coverage: the host's description states the lecture uses Emerson and
+  Nietzsche to think about tensions between the Enlightenment and Romanticism,
+  drawing on Isaiah Berlin's definitions of the two intellectual ages and arguing
+  their relevance for society today.
+- Relevant segment: whole lecture, 1:28:23.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
