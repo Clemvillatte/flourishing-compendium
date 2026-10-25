@@ -3787,3 +3787,9 @@ Total sampled: 225 general cards across 7 rounds. **Reclassified: 11** (8 Stoic,
 **The design question for the owner:** The corpus has a rich tradition-based layer (~17 cards with genuine Buddhist/Daoist/Confucian/Aristotelian/Phenomenological/Existential grounding) that doesn't map to clinical modalities. The Stoic precedent suggests tradition-based modality folders are acceptable, but creating NAV nodes for each is a corpus-design decision that needs the owner's ruling. I have NOT created any new tradition nodes beyond the three (Stoic/DBT/BA) that were already sanctioned.
 
 Zero link breakage maintained throughout; build green; edges preserved 32663.
+
+## PER-CARD REVIEW — ROUND 8 FINAL (gm-pplx-kern1-1025a, 2026-10-25 15:38Z)
+
+Round 8 sampled 35 more (260 total across 8 rounds). Only one new finding (K110 Savoring, "metta" in a related-link — confirmed false positive). No new genuine classifications found — the sample is converging. **Final reclassification count: 12** (9 Stoic, 1 CBT, plus K127 CBT and K267/K320 Stoic from batches). Final distribution: Stoic 18, CBT 17, ACT 14, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 = 87 modality-tagged; 229 general.
+
+Per-card review is now saturated — further rounds will only re-find the ~17 already-flagged marginal cards. The review is DONE pending the owner's rulings on tradition-based modality folders.
