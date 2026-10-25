@@ -3962,7 +3962,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "When we call someone wise, are we describing them or their circumstances? The Berlin tradition measured wisdom as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:"
+          "x": "When we call someone wise, are we describing them or their circumstances? The Berlin tradition measured wisdom as a feature of the person: \"Measurement includes think-aloud protocols concerning various problems of life associated with life planning, life management, and life review\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). Grossmann's review argues the evidence points elsewhere:"
         },
         {
           "t": "q",

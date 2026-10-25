@@ -240,3 +240,18 @@ CHECKS: dossier_check exit 0 (68 card links, 28 headers, 32
 carriers); quote_verify 26 checked / 10 not found (was 11; all ten
 documented above); density unchanged; app.js rebuilt via
 --rebuild=wisdom, node --check OK.
+
+## Addendum (2026-10-25 10:41Z actual clock, worker-pplx-1025i, dos5)
+
+Two corrections to the previous entry: (1) its header timestamp
+"10:52Z" was an estimate, not a clock read — the actual push time was
+10:39:28Z; (2) the trait-vs-situation question's Berlin side is now
+anchored too: "Measurement includes think-aloud protocols concerning
+various problems of life associated with life planning, life
+management, and life review" added to the question, verbatim from
+the eutils-served abstract of PMID 11392856 (same fetch-blocked
+PubMed carrier, same documented-exception class as the other Baltes
+spans). All three weak questions in this dossier's disagreement
+section now carry at least one verbatim anchor per side (Q1 and Q3
+via spans already in the dossier plus the earlier-section anchors
+they reference; Q2 via the new span plus the Grossmann blockquote).

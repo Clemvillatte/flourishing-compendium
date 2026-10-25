@@ -154,7 +154,7 @@ The traditions and the research agree that knowing one's limits belongs to wisdo
 
 ### Is wisdom a trait, or something a situation draws out?
 
-When we call someone wise, are we describing them or their circumstances? The Berlin tradition measured wisdom as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:
+When we call someone wise, are we describing them or their circumstances? The Berlin tradition measured wisdom as a feature of the person: "Measurement includes think-aloud protocols concerning various problems of life associated with life planning, life management, and life review" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)). Grossmann's review argues the evidence points elsewhere:
 
 > "Empirical evidence indicates that people's ability to think wisely varies dramatically across experiential contexts that they encounter over the life span. Moreover, wise thinking varies from one situation to another, with self-focused contexts inhibiting wise thinking." ([Grossmann, Wisdom in Context, Perspectives on Psychological Science 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/))
 
