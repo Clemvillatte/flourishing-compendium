@@ -21,9 +21,10 @@ Doubt, on Peirce's account, is an uneasy and dissatisfied state from which we st
 
 ## Related concepts
 
+
 - [[Fallibilism]] — Peirce's wider doctrine that all belief stays open to revision
 - [[Anti-authoritarian inquiry]] — the companion commitment to settling belief by nothing human
-
+- [[The community of inquiry]] — the irritation that starts the activity of thought runs inside a community of investigators
 ## Sources
 
 - Peirce, "The Fixation of Belief"

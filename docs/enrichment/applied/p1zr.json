@@ -1,32 +1,13 @@
 {
  "batch": "p1zr",
- "revision": 15,
+ "agent": "worker-pplx-92251348",
  "reciprocal": [
   {
-   "into": "Capacity to be alone (Winnicott)",
-   "link": "AF058",
-   "why": "A principle about responding to loneliness, listed for comparison",
-   "notes": "Round-2 advisor QC: neutral descriptive clause per advisor instruction. Target page does not currently cite AF058."
-  },
-  {
-   "into": "Attentional control training and the role of repeated redirection",
-   "link": "AT019",
-   "why": "The principle naming the notice-and-return cycle that focused-attention training practises",
-   "notes": "AT019 body grounds in Hasenkamp et al. 2012 (opened PubMed abstract); concept page does not currently cite AT019."
-  },
-  {
-   "into": "Exposure therapy (Foa, Craske)",
-   "link": "BE030",
-   "why": "A principle examining safety behaviours during exposure",
-   "notes": "Advisor round 1: neutral descriptive clause; Experiential avoidance theory proposal withdrawn (relationship to the Hayes construct not established by opened sources)."
-  },
-  {
-   "into": "Exposure therapy (Foa, Craske)",
-   "link": "BE074",
-   "why": "A principle on the behavioural symptoms that exposure-based PTSD treatments target",
-   "notes": "BE074's treatment paragraph carries the NICE NG116 recommendation of trauma-focused CBT incl. prolonged exposure (opened guideline, ledger BE074.md). Target page does not currently cite BE074."
+   "into": "BI006",
+   "link": "Placebo effects",
+   "why": "the comparison group that makes the efficacy finding meaningful"
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline"
+ "notes": "Tier-2 repair pass (BI006). Records proposed after mention-sweep; Placebo effects card opened and read."
 }

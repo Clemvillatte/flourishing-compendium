@@ -1,14 +1,18 @@
 {
  "batch": "p1zo",
- "revision": 23,
+ "agent": "worker-pplx-92251348",
  "reciprocal": [
   {
-   "into": "Capacity to be alone (Winnicott)",
-   "link": "SE053",
-   "why": "Winnicott's ego-relatedness offers a comparison: aloneness in the presence of support, read against this principle's autonomy-need",
-   "notes": "Concept page does not link SE053; labelled as a cross-tradition comparison, not an asserted identity of constructs. Evidence in sources/p1zo/SE053.md (Ryan & Deci 2000 + Winnicott 1958, both opened)."
+   "into": "SP023",
+   "link": "Contingent self-esteem",
+   "why": "the psychology of worth made conditional on criteria"
+  },
+  {
+   "into": "SP023",
+   "link": "Self-esteem research",
+   "why": "the level-versus-fragility distinction the exercise trains"
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 5 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
+ "notes": "Tier-2 repair pass (SP023). Cards opened and read before proposing."
 }

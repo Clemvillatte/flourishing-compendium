@@ -25,9 +25,10 @@ Principles linked below include CO028 (Use the outside view), CO022 (planning fa
 
 ## Related concepts
 
+
 - [[Planning fallacy]] — the optimistic-forecast pattern the outside view is proposed to correct
 - [[Outcome forecasting]] — the forecasting practice the outside view belongs to
-
+- [[Adaptive planning]] — the plan-side answer to the uncertainty this forecast measures
 ## Sources
 
 - [Kahneman & Lovallo (1993), "Timid Choices and Bold Forecasts: A Cognitive Perspective on Risk Taking", Management Science (full text, University of Florida course copy)](http://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-lovallo-mansci1993.pdf) — definitions of inside and outside view, rationale, limits

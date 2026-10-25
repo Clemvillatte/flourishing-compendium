@@ -39,6 +39,10 @@ Efficacy is a separate question from mechanism, and it has its own large evidenc
 
 - Do not accept the "chemical imbalance" simplification. If you take or are considering antidepressants, discuss with your prescriber what the evidence does and does not support for your situation, and how antidepressants fit with other tools (therapy, lifestyle, meaning). Do not stop or start without professional guidance.
 
+## Related concepts
+
+- [[Placebo effects]] — the comparison group that makes the efficacy finding meaningful
+
 ## Sources
 
 - Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P., & Horowitz, M. A. (2022). The serotonin theory of depression: a systematic umbrella review of the evidence. Molecular Psychiatry 28(8), 3243-3256. [UCL Discovery record](https://discovery.ucl.ac.uk/id/eprint/10153006/)

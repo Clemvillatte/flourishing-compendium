@@ -26,6 +26,10 @@ My reading for ordinary life: whatever you are getting good at, name whom it ser
 
 For example: Learning to code, you add "so I can build tools that help people in my town" and notice your motivation on hard days changes.
 
+## Related concepts
+
+- [[Bodhicitta]] — the vow this principle turns into a daily frame
+
 ## Sources
 
 - [Tsongkhapa, Three Principal Aspects of the Path, trans. Adam Pearcey (Lotsawa House)](https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/three-principal-aspects) — verses 6 and 8 quoted verbatim from the page

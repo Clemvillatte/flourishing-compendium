@@ -28,6 +28,11 @@ In the Definitions of the Emotions, Spinoza defines self-approval as pleasure ar
 - **[[Pride|Pride as ignorance, humility as its mirror error]]** (Buddhist mana, the affliction of comparing)
 - **The middle between arrogance and self-contempt** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV, on megalopsychia)
 
+## Related concepts
+
+
+- [[Contingent self-esteem]] — the psychology of worth made conditional on criteria
+- [[Self-esteem research]] — the level-versus-fragility distinction the exercise trains
 ## Sources
 
 - [Spinoza, B. (1677). Ethics, Definitions of the Emotions XXV–XXVIII, with the explanation to XXVIII. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800)

@@ -19,10 +19,11 @@ My principle on fixing belief by experiment gives the epistemology behind this. 
 
 ## Related concepts
 
+
 - [[Education as growth]] — Dewey's growth view of learning; inquiry's constructive cousin
 - [[Abduction]] — Peirce's account of where hypotheses come from
 - [[The problem of induction]] — the neighboring epistemology of the testing
-
+- [[The community of inquiry]] — refuses to let external authority settle what investigation settles
 ## Sources
 
 - [Dewey, Democracy and Education, ch. 7, University of Oslo PDF](https://www.uio.no/studier/emner/uv/uv/UV9406/dewey-john-(1980).-democracy-and-education.pdf) — verbatim "repudiates the principle of external authority"

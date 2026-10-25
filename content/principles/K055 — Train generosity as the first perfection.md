@@ -26,6 +26,10 @@ My exercise: give something small daily for a month, and watch the grip-meter ra
 
 For example: Giving up an evening to help a friend move, when you'd rather rest, and noticing a small release.
 
+## Related concepts
+
+- [[Generosity]] — the virtue tradition's account of giving well, beside the perfections training
+
 ## Sources
 
 - [Gampopa, The Jewel Ornament of Liberation, trans. Konchog Gyaltsen Rinpoche (Snow Lion, 1998)](https://karunabuddhistcenter.org/wp-content/uploads/2025/05/Gampopa_-Konchog-Gyaltsen-Rinpoche-Tr-The-Jewel-Ornament-of-Liberation_-The-Wish-Fulfilling-Gem-of-the-Noble-Teachings-1998.pdf) — ch. 12 definition and classification quoted verbatim from the PDF

@@ -49,12 +49,13 @@ Thinking begins in what may fairly enough be called a forked-road situation, "a 
 
 ## Related concepts
 
+
 - [[Pragmatism]] — the tradition Peirce's definition anchors
 - [[Reflective thinking]] — Dewey's name for the careful phase of the same activity
 - [[Obstruction as stimulus]] — the difficulty that starts inquiry, treated as fuel rather than setback
 - [[Theory of valuation]] — Dewey's late extension of inquiry to questions of value
 - [[K233 — Weekly inquiry loop]] — the kernel that schedules the practice into ordinary weeks
-
+- [[The community of inquiry]] — Peirce's social picture of where perfected inquiry tends
 ## Sources
 
 - [Peirce, C. S., The Fixation of Belief (Wikisource)](https://en.wikisource.org/wiki/The_Fixation_of_Belief): the inquiry definition; the doubt-as-motive passage; the settlement-of-opinion passage; the four methods and their failure modes; the Real-things hypothesis

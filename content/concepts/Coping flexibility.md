@@ -28,9 +28,10 @@ The analysis "covers all available studies conducted between 1978 and 2013 that 
 
 ## Related concepts
 
+
 - [[Regulatory flexibility theory]]
 - [[Psychological resilience theory Bonanno]]
-
+- [[Adaptive planning]] — builds the same expectation of change into the design of the plan itself
 ## Sources
 
 - Cheng et al., 2014

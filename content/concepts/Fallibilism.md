@@ -48,8 +48,9 @@ Its Peircean twin is [[The pragmatic maxim]], meaning and inquiry where certaint
 
 ## Related concepts
 
-- [[Holding as hypothesis]] — the practice form of the provisional assent
 
+- [[Holding as hypothesis]] — the practice form of the provisional assent
+- [[The community of inquiry]] — the agreement of investigators, not any one person's confidence, is the arbiter
 ## Sources
 
 - [SEP, "Certainty"](https://plato.stanford.edu/entries/certainty/) — the fallibilistic-knowledge account, quoted above

@@ -49,8 +49,9 @@ When an abstract question has you stuck, ask what concrete difference each answe
 
 ## Related concepts
 
-- [[Inquiry]] — Peirce's definition of inquiry as the struggle from doubt to settled belief anchors the tradition the page introduces
 
+- [[Inquiry]] — Peirce's definition of inquiry as the struggle from doubt to settled belief anchors the tradition the page introduces
+- [[The community of inquiry]] — the community whose converging investigation defines truth in this essay
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, Pragmatism](https://plato.stanford.edu/entries/pragmatism/) — the maxim, Peirce on inquiry, James's 1907 remark and Dewey on inquiry, all quoted above

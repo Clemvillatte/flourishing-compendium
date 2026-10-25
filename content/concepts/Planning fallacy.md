@@ -32,6 +32,10 @@ The essay will take "a couple of hours." It takes the day. Every essay of the wr
 - [[Outcome forecasting]]: the broader field of predicting what results will feel like.
 - [[Outside view reference class forecasting]]: the base-rate vantage that defeats the fallacy.
 
+## Related concepts
+
+- [[Adaptive planning]] — starts from the expectation that the plan will need revision
+
 ## Sources
 
 - Buehler et al., 1994

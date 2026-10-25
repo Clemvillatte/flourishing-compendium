@@ -42,4 +42,10 @@ Can grief be felt fully without the extra layer of self-reference? Describe what
 -->
 
 ## Related concepts
+
+
+
 - [[T051 — Nishida Kitaro]]: the Kyoto School nothingness the principle's SEP citation grounds as non-exit.
+- [[Absolute nothingness]] — the Kyoto School's own name for the ground of emptiness this practice rests on
+- [[Pure experience]] — Nishida's earlier account of experience before the subject-object split
+- [[Non-attachment]] — the unattached half of the practice this page pairs with full engagement

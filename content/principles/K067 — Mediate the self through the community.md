@@ -22,6 +22,11 @@ My reading: the individual is constituted in and through the communities that me
 
 For example: A craftsperson realises her skill is a gift from her teachers and community, and teaching an apprentice feels less like sacrifice and more like repayment.
 
+## Related concepts
+
+
+- [[Communitarianism]] — the Western political philosophy that the self is constituted by its communities
+- [[Ubuntu]] — the Nguni maxim that a person is a person through other persons
 ## Sources
 
 - [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — mediation structure, the nation-state lapse, and Tanabe's correction quoted verbatim from the entry
