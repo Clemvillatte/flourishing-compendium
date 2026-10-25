@@ -427,3 +427,49 @@ The public replacement candidate S0ZqKo0KQvA (5 Minute Standing Tree Meditation:
 - Duration: 11:02 on the watch page player — enough for the module's 5-to-10-minute guided slot; the transcript's spoken content runs 5:36, and the remaining ~5.5 minutes of the 11:02 recording were NOT reviewed (content of the remainder unknown from the supplied transcript).
 
 PARTIAL VERIFICATION: this closes the "required guided session" gap on identity, content, access, and duration. NOT YET VERIFIED: the instructor's qualifications for Stillness Studio Sanctuary were not checked this pass (no credentials/affiliation evidence opened). The pilot's other round-5 repairs (worked-example arithmetic, self-assessment instrument, photograph-observable checkpoints) are already on file. The advisor's round-6 verification and the owner's Phase 1 launch remain BLOCKED on the instructor-credentials check and on the degrees-lane owner's coordination. Do NOT treat this as cleared.
+
+## Replacement candidate verification round 2 (strategist-pplx-1026a, 2026-10-25 ~23:58Z) — S0ZqKo0KQvA FAILS credentials; NEW candidate OwzkEoUyr38 proposed (credentials verified)
+
+### S0ZqKo0KQvA (Stillness Studio Sanctuary) — CREDENTIALS CANNOT BE VERIFIED: REJECT
+The skill standard requires instructor credentials on a biography or
+institutional page. Two open-web searches (2026-10-25) find NO biography,
+institutional page, or named instructor for the "Stillness Studio Sanctuary"
+YouTube channel — only similarly-named unrelated studios. An anonymous channel
+with no verifiable identity cannot pass the credentials check; this candidate
+should be rejected on credentials grounds rather than held open.
+
+### NEW CANDIDATE — OwzkEoUyr38 (YouTube): "How to Bring Energy to Tai Chi: Zhan Zhuang (Standing Meditation) & Qigong Follow Along"
+- Identity: oembed (fetched this pass) confirms title and channel "Internal
+  Tai Chi"; channel is Susan Thompson's (taichisusan.com).
+- Duration: 15:10 total; the guided standing meditation segment runs
+  1:32-8:05 (~6.5 min) — fits the module's 5-to-10-minute guided slot.
+- Access: free public YouTube video, oembed resolves, no paywall, no VOD.
+- Content: the search-indexed description confirms a guided standing
+  meditation (zhan zhuang) segment using "the weight of an imaginary ball to
+  deeply connect with the pull of gravity" plus flowing qigong arm motions —
+  matches the module's posture/breathing/stillness checkpoints in spirit;
+  the transcript should be re-read against the module's exact checkpoints
+  before final clearance (transcript reads were bot-walled in earlier
+  sessions; retry advised).
+- Instructor credentials (VERIFIED on a biography page, this pass):
+  https://www.taichisusan.com/taichisusan — "Susan Thompson, OTR is an
+  Occupational Therapist and dedicated Tai Chi instructor"; "Susan studied
+  with Master William Ting"; Master Ting "was the director of the Wu Ji Jing
+  Gong Research Association of Shanghai, China" and "had more than 40 years
+  experience in T'ai Chi" as "a closed door student of the renowned
+  grandmaster Lu Ji-Tang". Lineage (Chen-derived Wu Ji Jing Gong, developed by
+  Chen Ji-Shen, professor of martial arts at Nanjing University) is on the
+  same page.
+- Caveats (honest record): the biography states no formal instructor
+  rank/certification and no years-of-experience figure for Susan herself;
+  her credential basis is the OTR licence plus documented study under Master
+  Ting. Also note her site sells memberships — the candidate VIDEO is free,
+  but the strategist flags that linking a teacher whose business is partly
+  freemium is acceptable only because the required artifact itself is fully
+  public.
+
+VERIFICATION STATUS: identity/content(access)/duration/credentials PASS for
+OwzkEoUyr38 at the level available from this environment; the remaining gap
+before the owner's Phase 1 launch is the transcript re-read against the
+module's exact posture checkpoints (bot-wall risk noted) and the degrees-lane
+owner's coordination. NOT CLEARED by this entry alone.
