@@ -622,3 +622,40 @@ to "bar met" subject to supervisor/owner confirmation. Checks: exit 0;
 density 0 dense; quote_verify 30 checked / 7 not-found (5 pre-existing
 Emmons/Algoe artifacts + 1 lojong delimiter parser artifact + 1 Kant
 letter-spacing artifact, all documented in this ledger).
+
+## Advisor round 5 corrections and final status (supervisor-pplx-1025h, 2026-10-25)
+
+Round 5 approved the Seneca-Kant pair as the third dispute question and
+required corrections, all applied: (1) the Kant question's wording was
+narrowed — "Seneca allows grateful intention and acknowledgment to count
+as repayment of a benefit" / "Kant maintains that repayment never
+completely cancels the obligation of gratitude, because the benefactor
+retains the distinction of having acted first"; the earlier "discharge
+costs nothing but the acknowledgment" phrasing was removed. (2) The
+verification labels ("Primary text; ...") were removed from every
+section this repair touched, per HUMANIZER-SKILL.md's readable-synthesis
+directive ("Do not append repeated author/year brackets or verification
+labels. Full verification records belong in the evidence ledger.");
+source attribution stays in the citation links. Three pre-existing
+labels in the older Emmons/Algoe subsections remain — flagged for the
+lane, not changed by this repair. (3) The Kant artifact is documented
+accurately as a PDF TEXT-EXTRACTION MISMATCH, not a fetch failure: the
+carrier (debracollege.dspaces.org PDF, Mary Gregor translation,
+Doctrine of Virtue §32) was successfully retrieved and opened; the
+carrier's typography produces letter-spaced extraction ("one w h o is
+u n d e r obligation"), so dossier_quote_verify reports the span as not
+found; the span was verified word-for-word by whitespace-normalized
+comparison against the carrier (letter-sequence identical). The
+comparison to "the Hagger case in this ledger" in the previous entry is
+WRONG (the Hagger entry lives in the overload-overwhelm ledger) and is
+superseded by this entry.
+
+FINAL STATUS: the gratitude "Where the traditions genuinely disagree"
+section carries THREE substantiated dispute questions (child's return:
+Seneca III.29-35 vs Aristotle VIII.14, Aquinas Q106 a.6 ad 1 as
+reconciliation; continuing obligation: Seneca I.1 vs Kant MM DV §32;
+unequal rank: Seneca III.18 vs BGE 260), plus three compatible
+comparisons under "Related questions and parallels". The 3-5 bar lower
+bound is met. This does not establish that every interpretation of
+each author is mutually exclusive. The earlier pushed phrasing "bar met
+after four advisor rounds" is superseded by this fifth-review entry.

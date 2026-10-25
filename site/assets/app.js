@@ -16182,11 +16182,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two accounts start from different places. Seneca locates the benefit itself in the giver's goodwill: \"neither gold, nor silver, nor any of those things which are most highly esteemed, are benefits, but the benefit lies in the goodwill of him who gives them\" ([Seneca, On Benefits I.5, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. A great sum given \"neither with discernment nor with good will\" is for him no benefit at all (On Benefits I.15), and much of the debt is discharged on the spot: \"a benefit is repaid by being acknowledged\" (On Benefits I.1)."
+          "x": "The two accounts start from different places. Seneca locates the benefit itself in the giver's goodwill: \"neither gold, nor silver, nor any of those things which are most highly esteemed, are benefits, but the benefit lies in the goodwill of him who gives them\" ([Seneca, On Benefits I.5, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)) A great sum given \"neither with discernment nor with good will\" is for him no benefit at all (On Benefits I.15), and much of the debt is discharged on the spot: \"a benefit is repaid by being acknowledged\" (On Benefits I.1)."
         },
         {
           "t": "p",
-          "x": "Aristotle asks a different question — what the return should be — and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation. Seneca's measure is the giver's will; Aristotle's is the kind of relationship the exchange sits inside. Where the relationship is a friendship of virtue the two measures converge; where it is a friendship of utility the receiver's advantage governs. Whether the two measures can give opposed verdicts on the same act is a question the texts do not settle, and one an essay can take up."
+          "x": "Aristotle asks a different question — what the return should be — and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)) Seneca's measure is the giver's will; Aristotle's is the kind of relationship the exchange sits inside. Where the relationship is a friendship of virtue the two measures converge; where it is a friendship of utility the receiver's advantage governs. Whether the two measures can give opposed verdicts on the same act is a question the texts do not settle, and one an essay can take up."
         },
         {
           "t": "h2",
@@ -16194,11 +16194,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Seneca holds that acknowledgment itself does most of the repaying: \"a benefit is repaid by being acknowledged\" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. The grateful person's first act is to own the debt, and on Seneca's account the goodwill that constitutes the benefit is honored by seeing it."
+          "x": "Seneca holds that acknowledgment itself does most of the repaying: \"a benefit is repaid by being acknowledged\" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)) The grateful person's first act is to own the debt, and on Seneca's account the goodwill that constitutes the benefit is honored by seeing it."
         },
         {
           "t": "p",
-          "x": "Aquinas emphasizes a further grateful return. The giver was \"deserving of praise, chiefly for having conferred the favor gratis without being bound to do so,\" so the return must also be gratis, and it is not gratis unless it exceeds the gift: \"he does not seem to bestow something gratis, unless he exceeds the quantity of the favor received: because so long as he repays less or an equivalent, he would seem to do nothing gratis, but only to return what he has received. Therefore gratitude always inclines, as far as possible, to pay back something more\" ([Aquinas, ST II-II Q106 a.6, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106)): Primary text; the Summa Theologiae, Question 106."
+          "x": "Aquinas emphasizes a further grateful return. The giver was \"deserving of praise, chiefly for having conferred the favor gratis without being bound to do so,\" so the return must also be gratis, and it is not gratis unless it exceeds the gift: \"he does not seem to bestow something gratis, unless he exceeds the quantity of the favor received: because so long as he repays less or an equivalent, he would seem to do nothing gratis, but only to return what he has received. Therefore gratitude always inclines, as far as possible, to pay back something more\" ([Aquinas, ST II-II Q106 a.6, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106))"
         },
         {
           "t": "p",
@@ -16210,15 +16210,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Both texts deny that material service can equal what parents gave. Aristotle: toward gods and parents \"no one could ever return to them the equivalent of what he gets, but the man who serves them to the utmost of his power is thought to be a good man,\" and \"there is nothing by doing which a son will have done the equivalent of what he has received, so that he is always in debt\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation."
+          "x": "Both texts deny that material service can equal what parents gave. Aristotle: toward gods and parents \"no one could ever return to them the equivalent of what he gets, but the man who serves them to the utmost of his power is thought to be a good man,\" and \"there is nothing by doing which a son will have done the equivalent of what he has received, so that he is always in debt\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))"
         },
         {
           "t": "p",
-          "x": "The Kataññu Suttas: carrying both parents on the shoulders for a hundred years, or establishing them in \"absolute sovereignty over this great earth,\" does not repay — \"you would not in that way pay or repay your parents\" — but one class of act does repay: \"anyone who rouses his unbelieving mother & father, settles & establishes them in conviction; rouses his unvirtuous mother & father, settles & establishes them in virtue... To this extent one pays & repays one's mother & father\" ([AN 2.31–32, Thanissaro trans., accesstoinsight](https://www.accesstoinsight.org/tipitaka/an/an02/an02.031.than.html)): Primary text; Thanissaro Bhikkhu's translation."
+          "x": "The Kataññu Suttas: carrying both parents on the shoulders for a hundred years, or establishing them in \"absolute sovereignty over this great earth,\" does not repay — \"you would not in that way pay or repay your parents\" — but one class of act does repay: \"anyone who rouses his unbelieving mother & father, settles & establishes them in conviction; rouses his unvirtuous mother & father, settles & establishes them in virtue... To this extent one pays & repays one's mother & father\" ([AN 2.31–32, Thanissaro trans., accesstoinsight](https://www.accesstoinsight.org/tipitaka/an/an02/an02.031.than.html))"
         },
         {
           "t": "p",
-          "x": "Both texts measure filial observance against the parental care. Confucius grounds the three years' mourning in the care it answers: \"It is not till a child is three years old that it is allowed to leave the arms of its parents. And the three years' mourning is universally observed throughout the empire\" ([Confucius, Analects XVII.21, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.txt)): Primary text; James Legge's translation. The suttas name a different repayment: no quantity of service, up to a century of carrying them, pays the parental debt; the return they name is the establishing of parents in conviction, virtue, generosity and discernment."
+          "x": "Both texts measure filial observance against the parental care. Confucius grounds the three years' mourning in the care it answers: \"It is not till a child is three years old that it is allowed to leave the arms of its parents. And the three years' mourning is universally observed throughout the empire\" ([Confucius, Analects XVII.21, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.txt)) The suttas name a different repayment: no quantity of service, up to a century of carrying them, pays the parental debt; the return they name is the establishing of parents in conviction, virtue, generosity and discernment."
         },
         {
           "t": "p",
@@ -16234,7 +16234,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aristotle denies that a child can return an equivalent for parental beneficence: toward gods and parents \"no one could ever return to them the equivalent of what he gets\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation. Seneca: \"The question arises, whether children can ever bestow upon their parents greater benefits than those which they have received from them,\" and his answer runs past equivalence to surplus — \"A father gives life to his son; there is something better than life; therefore a father may be outdone\" ([Seneca, On Benefits III.29, III.35, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III)): Primary text; Stewart's translation."
+          "x": "Aristotle denies that a child can return an equivalent for parental beneficence: toward gods and parents \"no one could ever return to them the equivalent of what he gets\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)) Seneca: \"The question arises, whether children can ever bestow upon their parents greater benefits than those which they have received from them,\" and his answer runs past equivalence to surplus — \"A father gives life to his son; there is something better than life; therefore a father may be outdone\" ([Seneca, On Benefits III.29, III.35, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III))"
         },
         {
           "t": "p",
@@ -16242,7 +16242,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aquinas later distinguishes two measures: by the effect of beneficence the son cannot make an equal repayment, \"but if we consider the will of the giver and of the repayer, then it is possible for the son to pay back something greater to his father\" ([Aquinas, ST II-II Q106 a.6 ad 1, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106)): Primary text; the Summa Theologiae, Question 106."
+          "x": "Aquinas later distinguishes two measures: by the effect of beneficence the son cannot make an equal repayment, \"but if we consider the will of the giver and of the repayer, then it is possible for the son to pay back something greater to his father\" ([Aquinas, ST II-II Q106 a.6 ad 1, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106))"
         },
         {
           "t": "p",
@@ -16254,15 +16254,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Seneca holds that it can, and that the discharge costs nothing but the acknowledgment: \"we do not need our wealth but only our intention to set us free from the obligation of it; for a benefit is repaid by being acknowledged\" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. The obligation is to the goodwill, and the goodwill is honored by being owned."
+          "x": "Seneca allows grateful intention and acknowledgment to count as repayment of a benefit: \"we do not need our wealth but only our intention to set us free from the obligation of it; for a benefit is repaid by being acknowledged\" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)) The obligation is to the goodwill, and the goodwill is honored by being owned."
         },
         {
           "t": "p",
-          "x": "Kant denies the discharge in principle: \"gratitude must also be considered, in particular, a sacred duty... For a moral object is sacred if the obligation with regard to it cannot be discharged completely by any act in keeping with it (so that one who is under obligation always remains under obligation)... But one cannot, by any repayment of a kindness received, rid oneself of the obligation for it, since the recipient can never win away from the benefactor his priority of merit, namely having been the first in benevolence\" ([Kant, Metaphysics of Morals, Doctrine of Virtue §32, Gregor trans.](http://debracollege.dspaces.org/bitstream/123456789/508/1/The%20Metaphysics%20of%20Morals%20of%20kant.pdf)): Primary text; Mary Gregor's translation, Doctrine of Virtue, §32."
+          "x": "Kant denies the discharge in principle: \"gratitude must also be considered, in particular, a sacred duty... For a moral object is sacred if the obligation with regard to it cannot be discharged completely by any act in keeping with it (so that one who is under obligation always remains under obligation)... But one cannot, by any repayment of a kindness received, rid oneself of the obligation for it, since the recipient can never win away from the benefactor his priority of merit, namely having been the first in benevolence\" ([Kant, Metaphysics of Morals, Doctrine of Virtue §32, Gregor trans.](http://debracollege.dspaces.org/bitstream/123456789/508/1/The%20Metaphysics%20of%20Morals%20of%20kant.pdf))"
         },
         {
           "t": "p",
-          "x": "On whether the debt can ever be paid off, Seneca answers that acknowledgment and intention free the recipient, and Kant answers that the recipient always remains under obligation. The disagreement turns on what the debt is made of: for Seneca it is the goodwill, which the acknowledgment honors; for Kant it is the benefactor's priority in benevolence, which no later act can take away."
+          "x": "Seneca allows the acknowledgment to count as repayment; Kant maintains that repayment never completely cancels the obligation of gratitude, because the benefactor retains the distinction of having acted first. The disagreement turns on what the debt is made of: for Seneca it is the goodwill, which the acknowledgment honors; for Kant it is the benefactor's priority in benevolence, which no later act can take away."
         },
         {
           "t": "h2",
@@ -16270,15 +16270,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Seneca answers no: \"he who affirms that a slave does not sometimes confer a benefit upon his master is ignorant of the rights of man; for the question is, not what the station in life of the giver may be, but what his intentions are. The path of virtue is closed to no one... whether they be free-born men, slaves or freed-men, kings or exiles\" — therefore \"slaves can bestow benefits upon their masters\" ([Seneca, On Benefits III.18, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III)): Primary text; Stewart's translation."
+          "x": "Seneca answers no: \"he who affirms that a slave does not sometimes confer a benefit upon his master is ignorant of the rights of man; for the question is, not what the station in life of the giver may be, but what his intentions are. The path of virtue is closed to no one... whether they be free-born men, slaves or freed-men, kings or exiles\" — therefore \"slaves can bestow benefits upon their masters\" ([Seneca, On Benefits III.18, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III))"
         },
         {
           "t": "p",
-          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" — \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)): Primary text; Helen Zimmern's translation, section 260. On the same question — whether a benefit received from someone of lower rank creates a claim — the two texts give incompatible answers."
+          "x": "The noble morality Nietzsche describes in Beyond Good and Evil answers the other way: \"one has duties only to one's equals; that one may act towards beings of a lower rank... just as seems good to one... 'beyond good and evil'\" — \"the ability and obligation to exercise prolonged gratitude and prolonged revenge—both only within the circle of equals\" ([Nietzsche, BGE 260, Zimmern trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/4363/pg4363.txt)) On the same question — whether a benefit received from someone of lower rank creates a claim — the two texts give incompatible answers."
         },
         {
           "t": "p",
-          "x": "A related extension sits beside this dispute rather than inside it: the lojong slogan \"Be grateful to everyone\" is taught as gratitude even toward people presenting threats or challenges: \"the idea here is to feel grateful that others are presenting us with tremendous obstacles— even threats or challenges. The point is to appreciate that. Without them, we could not follow the path at all\" ([Trungpa, Training the Mind, slogan 13](https://terebess.hu/english/coll2.pdf)): Primary text; Chögyam Trungpa's commentary on the mind-training slogans. What none of the three settles is whether gratitude to one who cannot or will not reciprocate is generosity or self-deception; the counting-blessings evidence, which measures the practitioner, does not speak to it."
+          "x": "A related extension sits beside this dispute rather than inside it: the lojong slogan \"Be grateful to everyone\" is taught as gratitude even toward people presenting threats or challenges: \"the idea here is to feel grateful that others are presenting us with tremendous obstacles— even threats or challenges. The point is to appreciate that. Without them, we could not follow the path at all\" ([Trungpa, Training the Mind, slogan 13](https://terebess.hu/english/coll2.pdf)) What none of the three settles is whether gratitude to one who cannot or will not reciprocate is generosity or self-deception; the counting-blessings evidence, which measures the practitioner, does not speak to it."
         },
         {
           "t": "h",
