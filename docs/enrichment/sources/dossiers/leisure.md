@@ -94,3 +94,11 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 
 - The Tinsley & Tinsley 1986 original (Leisure Sciences 8, 1-45) is paywalled; not opened. However, a second open carrier was fetched and read: Tuch, van Schaik and Hornbaek, "Leisure and Work, Good and Bad: The Role of Activity Domain and Valence in Modeling User Experience" (https://research.tees.ac.uk/ws/files/4260488/620108.pdf), which summarizes the Tinsley model and reports that its cognitive attributes include total absorption or concentration in the activity. This confirms the substance of Kleiber's attribution (leisure-as-absorbed-action rather than relaxation) at second hand. The page now cites both second-hand carriers and does not claim to quote Tinsley directly.
 - Checks remain green: 23 card links, 13 headers, 21 carriers, quotes 16/16, density 0, voice audit 0.
+
+## QC round 5 (final, this session)
+
+- Third-disagreement status downgraded honestly: the Tuch et al. carrier lists relaxation among the characteristics of leisure experience alongside the absorption attribute, so it does NOT establish that the Tinsley theory excludes relaxation. The Kleiber/Tinsley contrast is now presented as Kleiber's report, explicitly marked as something this page cannot settle. Substantiated disagreements: TWO (Aristotle vs Russell on distribution; Rojek's rejection of the Pieper-attributed dichotomy as reported by Regi). The Kleiber/Tinsley relaxation/action contrast is a reported contrast, unestablished at first hand.
+- Grammar error from the round-4 replacement fixed ("leisure. and Regi reports").
+- M031 gloss qualified: its own texts name rest and laughter as gifts; the counsel runs against heavy sleeping rather than against rest itself.
+- Final checks: dossier_check exit 0 (23 card links, 13 headers, 21 carriers); quotes 16/16 machine-verified, zero documented exceptions; density 0; voice audit exit 0.
+- Deliverable status: QC-blocked WIP, complete and internally consistent, held for supervisor review. Publication blockers: (1) artwork assignment (owner action), (2) the 3-5 substantiated-disagreement bar - currently 2 substantiated + 5 bounded/reported comparisons; either the supervisor rules this satisfies the bar (per the dos13/dos33 evidence-rule precedent) or further research into genuinely opposed positions is needed.

@@ -60,7 +60,7 @@ The difference from the classical accounts is one of purpose, and the two can co
 
 ### Free time that is not free
 
-Pieper's account leans on a clean line between the world of work and the space of leisure. and Regi reports the sociologist Chris Rojek rejecting exactly that line in an open Anthropology Today essay:
+Pieper's account leans on a clean line between the world of work and the space of leisure, and Regi reports the sociologist Chris Rojek rejecting exactly that line in an open Anthropology Today essay:
 
 > "Rojek (1995, 2000, 2010) rejects the idea of the modernist 'work versus free time' relational dichotomy (mostly advocated by Pieper 1952 and Dumazedier 1974) to argue that leisure time is not freer than any other time that is not devoted to relaxation." ([Regi, Anthropology Today, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file))
 
@@ -72,7 +72,7 @@ Leisure studies has its own version of the fight. Douglas Kleiber, writing in th
 
 > "I share Pieper's view that leisure is most essentially a position of relaxation, of faithful openness to immediate reality." ([Kleiber, The Neglect of Relaxation, 2000](https://www.nrpa.org/globalassets/journals/jlr/2000/volume-32/jlr-volume-32-number-1-pp-82-86.pdf))
 
-As Kleiber reports it, the contrast is direct: whether receptivity or engaged effort is the essence of the best leisure. The Tinsley and Tinsley position reaches this page at second hand, through Kleiber's essay and through later summaries of the model, which list total absorption in the activity among its cognitive attributes ([Tuch, van Schaik and Hornbæk](https://research.tees.ac.uk/ws/files/4260488/620108.pdf)). Kleiber adds a biographical detail that keeps the argument honest, that Pieper himself, asked thirty years on whether anything had changed his mind, answered no.
+As Kleiber reports it, the contrast is direct: whether receptivity or engaged effort is the essence of the best leisure. The Tinsley and Tinsley position reaches this page at second hand through Kleiber's essay alone; summaries of the model that this page can open describe its cognitive attributes as including total absorption in the activity while also listing relaxation among the characteristics of leisure experience ([Tuch, van Schaik and Hornbæk](https://research.tees.ac.uk/ws/files/4260488/620108.pdf)), so the opposition Kleiber describes is his report, not something this page can settle. Kleiber adds a biographical detail that keeps the argument honest, that Pieper himself, asked thirty years on whether anything had changed his mind, answered no.
 
 ### Can uselessness be the point
 
@@ -82,7 +82,7 @@ Zhuangzi ends a story about a huge useless tree with an invitation:
 
 His summary line runs: "All men know the advantage of being useful, but no one knows the advantage of being useless" ([Zhuangzi 4, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). His tree passage and Aristotle's contemplation are not directly opposed: both put the best things outside the economy of usefulness, and sleeping beneath a useless tree does not commit Zhuangzi against worthwhile activity. The divergence is in the shape of the ideal. Aristotle's leisure is an activity, contemplation, "loved for its own sake" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)), the highest and most self-sufficient thing a person can do. Zhuangzi's image is closer to resting in what nothing is harvesting, and [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless) draws the lesson for a person's week.
 
-The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) marks a third position, and the choice between these three is not about facts. It is about whether the best hours of a life are the ones doing something, the ones receiving something, or the ones nothing is harvesting. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
+The mesoamerican principle [that idleness is the root disorder](https://clemvillatte.github.io/flourishing-compendium/#card=M031%20%E2%80%94%20Work%20steadily%3B%20idleness%20is%20the%20root%20disorder) marks a third position, though its own texts also name rest and laughter as gifts, so its counsel runs against heavy sleeping rather than against rest itself. The choice between these three is not about facts. It is about whether the best hours of a life are the ones doing something, the ones receiving something, or the ones nothing is harvesting. [Seeing action within rest](https://clemvillatte.github.io/flourishing-compendium/#card=Y112%20%E2%80%94%20See%20action%20within%20rest%20and%20rest%20within%20action) is one classical attempt to refuse the choice.
 
 ### Is free time where the good hours are?
 
