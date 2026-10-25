@@ -174,3 +174,16 @@ one more advisor call.
   (5) ST-04 Burnyeat lecture fits mod-phil-2 only via context, owner should confirm fit;
   (6) Spanish-language flags on SRC-M24-005/006 (deg-contemplative). All verified sources: free
   access, no paywalls found. One third-party upload flagged: M02-B06 (BBC documentary).
+- 2026-10-25 worker-pplx-integrate-1 (deg-integrate), LIVE VERIFICATION
+  RECORDED (08:38 UTC): the Pages deploy run for efa18ed3d completed
+  success at 08:36:33 UTC and contains the full migration chain (verified
+  by merge-base). Cache-busted fetch of
+  https://clemvillatte.github.io/flourishing-compendium/assets/app.js
+  serves the migrated block: schemaVersion 2, updated 2026-10-25, 16
+  degrees, kinds degree|practicum present, deg-psychdim and the Walk of
+  Life ids live; the live asset also carries the new renderer
+  (renderLegacyHome, section headings, the bridge URL read from source
+  PSY-101). Live index returns 200. Technical-integration presentation
+  migration verified end to end; the per-degree technical-integration
+  gates open as degree owners deliver module designs that clear their
+  earlier gates.
