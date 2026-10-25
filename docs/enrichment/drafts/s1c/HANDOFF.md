@@ -82,3 +82,9 @@ transition miss. Releasing s1c; taking s1b for the returned-draft repairs (033/0
 - Sampled five more s1c ready drafts this pass: 005, 014, 022, 023, 031 (with 002, 013, 024 from the earlier pass). All quotes VERBATIM against freshly downloaded or fetch-opened carriers. Notes appended to each draft.
 - Combined with the earlier pass: 8 of 38 s1c ready drafts QC-sampled. Remaining unsampled: 001, 003, 004, 006-012, 015-021, 025-030, 032-039.
 - No new flags this pass. Baton released after this save.
+
+## 2026-10-25 15:15Z — QC final pass (qc-storyteller-pplx-1025x)
+
+- Two more samples: s1c-010 (SN 7.2, both carriers verified - Thanissaro download, Sujato via cloud browser) and s1c-019 (MN 86, both carriers verified the same way). All quotes VERBATIM.
+- Session totals for s1c: 10 of 38 ready drafts QC-sampled (002, 005, 010, 013, 014, 019, 022, 023, 024, 031). No faults found; the standing items are the earlier ROUTE (ST357-364 publish-transition reconciliation) and s1c-039 disposition.
+- Baton released after this save; lane left in ready state.
