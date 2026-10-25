@@ -32,6 +32,7 @@ Suppose a colleague arrives late. Notice what you expected, check what happened 
 ## Related concepts
 
 - [[The three disciplines]]: the concept page develops Epictetus's curriculum and Hadot's interpretation.
+- [[T036 — Hadot, Pierre]]: the naming of these three areas as the disciplines of desire, action and assent (The Inner Citadel).
 
 ## Sources
 
