@@ -15,5 +15,7 @@
    "from": "supervisor-pplx-brownmermaid-1025a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:41:13+00:00"
 }

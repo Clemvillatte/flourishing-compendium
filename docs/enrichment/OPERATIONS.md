@@ -2058,3 +2058,12 @@ right-intention Gita dispute). Registry: 37 published / 4 planned
 executive-functions unpublished draft). dos24 and dos25 bars met at 3 this
 hour; dos19 at 2-of-3 (live holder); dos31 creation published at bar. No
 batons held by this supervisor at pass end.
+
+## Assistant-supervisor final verification — 2026-10-25, T+58
+
+Full deploy verification pass complete: the-self reframe, right-speech
+Constant/Kant, right-intention Gita dispute, creation flip, dos24
+correction, right-concentration, right-livelihood revert, uncertainty —
+all confirmed on the served site (cache-busted fetches of
+assets/app.js). Registry at pass end: 37 published / 4 planned.
+Assistant-supervisor baton released at session end.
