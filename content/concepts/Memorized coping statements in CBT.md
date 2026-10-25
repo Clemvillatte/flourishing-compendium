@@ -15,6 +15,8 @@ Crane and Watters recommend using coping cards as cues for practising interventi
 
 The guide's worked example shows a situation ("A cashier is rude to me.") followed by coping skills: "Think: Their behavior isn’t my problem. Maybe they are having a bad day. Everyone can have a bad day." and a "Do:" list of actions ([same document, p. 100](https://www.mirecc.va.gov/visn5/EBT/CBT-D/Cognitive_Behavioral_Therapy_Strategies.pdf)).
 
+The instruction has three steps, and the third is where the memorizing happens. First, identify situations that are difficult; the guide's example is a cashier being rude. Second, include the relevant information, including internal experiences, and the example's Think line is one: their behavior is not my problem, maybe they are having a bad day. Third, review and revise the cards and use them as cues, until they become the dominant responses. The card is a device for making the practiced response the one that shows up, and the review is what the becoming dominant is made of.
+
 ### Here
 
 - [[X007 — Learn the fourfold cure by heart]] lists this topic as a psychology parallel.
