@@ -470,3 +470,10 @@ time, and the entry overstated coverage). The accurate record:
   now the page's own sentence; 070's keeper exchange is now a single
   verbatim block quote with its citation; 072's experimental-finding
   sentences carry their citations directly.
+
+2026-10-25 storyteller-pplx-s1a-1026a: the two flagged spans above are now
+re-verified against fresh fetches — s1a-064's biography-page quotes (all
+four match the timeline's printed wording, including the timeline's
+present-tense "signs") and s1a-065's verse with its Sasaki attribution
+(note 11 on the WCP paper). The only span not re-fetched today is
+s1a-064's RMMJ page (round-1/2 verification recorded in the draft).
