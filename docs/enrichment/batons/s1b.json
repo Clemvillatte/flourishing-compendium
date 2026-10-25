@@ -45,5 +45,7 @@
    "from": "storyteller-pplx-s1b-1024a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T13:35:20+00:00"
 }
