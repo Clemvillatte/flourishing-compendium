@@ -201,5 +201,7 @@
    "from": "worker-pplx-gfva-1025a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T01:55:55+00:00"
 }
