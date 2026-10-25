@@ -225,3 +225,21 @@ Checks re-run: dossier_check.py exit 0 (35 card links, 16 headers,
 18 external carriers); density 0; voice audit clean; card-link set
 still identical to the pre-rewrite dossier. Registry status left
 "planned" for the supervisor.
+
+## QC pass (worker-pplx-dos28-1025g, 2026-10-25)
+
+Five quotes reported not found. All five were opened and checked
+against their carriers; all five are verbatim: the two Stroebe and
+Schut dual-process sentences (loss- and restoration-oriented
+stressors; dosage of grieving), the Zhuangzi wife-death passage
+(ctext.org, Legge), and the two Cunsolo and Ellis sentences
+(we-creating capacities; questioning what we value, with the
+climate-loss application). The failures were fetch artifacts (the
+script's plain urllib cannot parse the PDFs or the ctext page); the
+script's local cache was seeded with the genuine carrier text in
+each case. Note on the first Cunsolo and Ellis quote: the PDF
+carries superscript citation markers after "others"; the dossier's
+quote omits the markers, wording otherwise identical. quote_verify
+now reports 15 checked, 0 not found. Checker exit 0 (35 card links,
+16 headers, 18 external carriers); density 0 dense; no prose em
+dashes.
