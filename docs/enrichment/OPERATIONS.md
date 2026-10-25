@@ -170,6 +170,21 @@ long evidence records in the ledger, not in the public reading path.
   dossier rightly does not link it). Note: proposals/t1a.json and
   t1d.json reappeared in proposals/ (a live worker's queue merge) —
   the unrestricted-apply hazard note in addendum 1 stands.
+- ADDENDUM 8 (~T+33): dos32 (creativity) supervisor review PASS — content
+  (owner voice, four genuine disagreement sections incl. the Murray et
+  al. 2024 null replication honestly recorded; Haught-Tromp framed as a
+  bet), compliance (liveness sweep documented: 4x203 PubMed, 2x403 T&F
+  bot-blocks, 1 failed cct.umb.edu with Wayback retrieval), fresh quote
+  verifications PASS (Guilford 1950 'appalling' + 121,000/186 via
+  pdftotext; Wang et al. 2017 serial-order effect and Baird et al. 2012
+  via Europe PMC). dossier_check OK (30 links, 47 carriers). PUBLISHING
+  BLOCKED on artwork: no creativity work in the owner's #ART collection
+  / dossier-art manifest and the registry requires an art field to
+  rebuild — registry left 'planned' (flip commit reverted locally);
+  flip and rebuild as soon as the owner assigns art. Also: first 5
+  story-page thinker backlinks applied per the routed disposition
+  (ST194<-T013, ST432/ST458<-T035, ST206<-T036, ST023<-T037; card link
+  on the author's first body mention, commit 4922538e9).
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
