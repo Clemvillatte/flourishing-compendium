@@ -7,14 +7,21 @@
 
 # Degrees ecosystem taskboard
 
-## EXECUTION ORDER (2026-10-25/26, owner directive: one by one, in order)
-ONE production worker at a time, sequence: deg-verify-b closes the verification
-queue first, then deg-wol-greek (theory pilot), deg-wol-daoism,
-deg-wol-buddhism, deg-wol-pragmatism, deg-wol-existentialism, deg-wol-positive,
-deg-psychdim, practicum-cmp (designated agent only), deg-psychology-101 (bridge),
-deg-integrate (schema migration as degrees complete). Full table and worker
-count: `docs/enrichment/PIPELINE-2026-10-26.md`. Do not start degree N+1 before
-degree N passes its gates.
+## EXECUTION ORDER (UPDATED 2026-10-26 ~00:00Z — owner priority; supersedes the
+sequence below): the degrees to bring ONLINE AND QUALITATIVE today, one by one,
+in order: (1) deg-psychdim, (2) deg-wol-daoism, (3) deg-wol-buddhism,
+(4) deg-wol-pragmatism. BINDING CENTERING CLAUSE: every degree is centered on
+"WALK OF LIFE / Philosophy of Life" and aligns to the value proposition —
+guiding people to alleviate suffering, become wiser and genuinely flourish
+even when uncertain or overwhelmed; scope is FINITE BY DESIGN: when in doubt,
+EXCLUDE (topical fit alone does not qualify). Full allocation (7 agents):
+`docs/enrichment/PIPELINE-2026-10-26.md` (deg-gate reviewer, deg-psychdim
+production, deg-verify-b, 2 storytellers, 2 dosr bands).
+
+SUPERSEDED sequence (for later degrees; mechanics still valid): deg-wol-greek
+(theory pilot), deg-wol-existentialism, deg-wol-positive, practicum-cmp
+(designated agent only), deg-psychology-101 (bridge), deg-integrate (schema
+migration per degree). Do not start degree N+1 before degree N passes its gates.
 
 Routing for the Degree Rework. Workers append checkpoints at the top of
 their section; supervisors append routed notes. Bands and mechanics are in
