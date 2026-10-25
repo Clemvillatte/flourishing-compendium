@@ -14,7 +14,8 @@
   "K383 Safe Place",
   "K385 Cognitive acceptance",
   "K386 Try not to think of elephants",
-  "K400 Word repetition"
+  "K400 Word repetition",
+  "K419 Microcosmic orbit"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,5 +23,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-25T12:20:00+00:00"
+ "updated": "2026-10-25T12:22:00+00:00"
 }

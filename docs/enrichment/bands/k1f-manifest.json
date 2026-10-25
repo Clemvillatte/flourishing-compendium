@@ -1,6 +1,6 @@
 {
  "band": "k1f",
- "source": "kernel K100-standard gap (corrected 12:14Z): content/kernels pages missing a Protocol section (Evidence present); all 15 carry done records from k1a/k1e/kpr but were left without the exemplar's Protocol section \u2014 unfinished-work lane per OPERATIONS fallback; worker-minted band per k1a-k1e precedent, supervisor may reassign",
+ "source": "kernel K100-standard gap (corrected 12:14Z): content/kernels pages missing a Protocol section (Evidence present); all 15 carry done records from k1a/k1e/kpr but were left without the exemplar's Protocol section \u2014 unfinished-work lane per OPERATIONS fallback; worker-minted band per k1a-k1e precedent, supervisor may reassign; extended 12:22Z with K419 (only kernel missing Operationalises section).",
  "paths": [
   "content/kernels/K115 \u2014 Willingness practice.md",
   "content/kernels/K159 \u2014 Affect labeling.md",
@@ -16,7 +16,8 @@
   "content/kernels/K383 \u2014 Safe Place with an affiliative welcome.md",
   "content/kernels/K385 \u2014 Cognitive acceptance: watch thoughts float by.md",
   "content/kernels/K386 \u2014 Try not to think of elephants.md",
-  "content/kernels/K400 \u2014 Word repetition.md"
+  "content/kernels/K400 \u2014 Word repetition.md",
+  "content/kernels/K419 \u2014 Microcosmic orbit (xiao zhoutian).md"
  ],
  "selection": "kernel enrichment to the K100 exemplar bar (docs/enrichment/PROTOCOL-THINKERS.md kernel plan); PROTOCOL.md workflow applies with K100 as model"
 }

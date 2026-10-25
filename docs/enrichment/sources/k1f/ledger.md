@@ -30,3 +30,7 @@ QC: advisor review 12:15Z — invented "willingness rating of two" sentence remo
 ## K373-K377, K380, K381, K383, K385, K386, K400 — Protocol headings (structural)
 
 - Structural only: each card already contained its full practice in the intro (the K373/K375 "The practice:" paragraphs, K380's "Practice:" paragraph, K385's Step 1-3, K383/K386/K400 first-person exercise text, the MI-family recommendation paragraphs); the "### Protocol" heading was inserted around it. No new text written; one label deleted (K380 "Practice:" prefix, now redundant under the heading). All inherited quotes left untouched and not re-fetched this pass.
+
+## K419 Microcosmic orbit — Operationalises section
+
+- Structural only: the card already links D146 and D041 as Related principles; the Operationalises section (standard kernel tail section, the only kernel missing one) was added with those same two principle links. No new claims.
