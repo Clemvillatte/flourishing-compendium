@@ -61,7 +61,7 @@ The contemplative traditions named it first: [[Impermanence]] is the law of whic
 - [[Natural and necessary]] — the modern finding behind the unnecessary-desire treadmill
 - [[AF070]] — The principle naming the tested variety moderator of adaptation, listed alongside the forecasting and treadmill principles
 - [[SP039]] — Spinoza's examination of wealth, fame and pleasure as objects of pursuit
-- [[Spiritual joy]] — the hedonic treadmill finding
+- [[Spiritual joy]] — the eudaimonic contrast: gladness as the felt side of activity, not consumption
 ## Sources
 
 - [Wikipedia, "Hedonic treadmill"](https://en.wikipedia.org/wiki/Hedonic_treadmill) — the coinage and treadmill-metaphor passages, quoted above

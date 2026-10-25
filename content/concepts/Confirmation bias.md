@@ -29,7 +29,7 @@ The overview also notes that people demand a high standard of evidence for unpal
 - [[Motivated reasoning]]
 - [[Bias blind spot]]
 - [[Self-verification theory (Swann)]] — the general tendency to favor belief-consistent information, of which self-verification is the self-directed case
-- [[Teleological bias]] — the fellow pattern: evidence bent to the preferred purpose
+- [[Teleological bias]] — the sibling shortcut: purpose read into events where none is warranted
 ## Facets
 
 - **as the default** — Nickerson, 1998

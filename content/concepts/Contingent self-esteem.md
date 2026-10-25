@@ -21,7 +21,7 @@ The article's hypothesis concerns the external contingencies in particular: "ext
 - [[Amor sui (right self-love)]]
 - [[Social comparison]]
 - [[Terror management]]
-- [[Self-awareness theory Duval Wicklund]] — the condition-of-worth pattern
+- [[Self-awareness theory Duval Wicklund]] — the mechanism of measuring the self against standards, with affect following the discrepancy
 ## Sources
 
 - Crocker, 2002

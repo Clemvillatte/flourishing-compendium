@@ -37,7 +37,7 @@ Emotion · Clinical science
 - [[Grief for what passes]] — the ordinary form of loss this is defined against
 - [[Meaning-making]] — the reconstruction account of grieving
 - [[Grief's oscillation model]] — the oscillation model of bereavement
-- [[Sorrow's fruit]] — the clinical side of the same subject
+- [[Sorrow's fruit]] — Gibran's image of joy and sorrow drawn from one well, the literary parallel to grief's entanglement with meaning
 ## Sources
 
 - Shear, M. K., et al. (2011). Treatment of complicated grief. (As cited in the original entry; title and venue not independently verified.)

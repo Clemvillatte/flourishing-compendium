@@ -40,7 +40,7 @@ The same review distinguishes it from its neighbours: solastalgia "closely overl
 
 - [[Solastalgia]] — the neighbouring construct the review treats as a possible sub-concept
 - [[SO070]] — the sociocultural-stressor principle behind the climate emotions this concept maps
-- [[Sorrow's fruit]] — grief felt over ecological loss
+- [[Sorrow's fruit]] — the literary image of joy and sorrow from one well, beside the account of grieving what passes
 ## Sources
 
 - Cunsolo and Landman, Mourning Nature
