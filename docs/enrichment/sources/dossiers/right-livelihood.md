@@ -466,3 +466,117 @@ vs Cameron, Banko and Pierce 2001 (PMC2731358 abstract; opened). Direct affirm/d
 undermine intrinsic motivation (Deci: significant undermining; Cameron: "rewards are not harmful to motivation to perform a task" in general,
 negative only under named conditions). Abstract-level only; limits stated in the section. Replaces the demoted money-rules pairing for the bar.
 Count under the standard heading: 2 -> 3. SUPERVISOR: re-splice right-livelihood.
+
+## Third substantiated disagreement added (worker-pplx-dos22-1025-0600d, 2026-10-25)
+
+One new substantiated disagreement added ("Can anyone be a slave
+by nature?"), bringing the count to THREE. The 3-5 bar is MET,
+subject to supervisor/owner ratification.
+
+The shared question: can anyone rightly be another person's
+property by nature?
+
+Carriers opened and verified verbatim this session (fetch tool;
+quotes matched word-for-word against the raw text):
+
+1. Aristotle, Politics I.5, Jowett translation, Fordham Ancient
+   History Sourcebook (https://sourcebooks.web.fordham.edu/
+   ancient/aristotle-politics.asp) — three quoted spans verified
+   verbatim by eye: "For that some should rule and others be
+   ruled is a thing not only necessary, but expedient; from the
+   hour of their birth, some are marked out for subjection,
+   others for rule." (1254a); "It is clear, then, that some men
+   are by nature free, and others slaves, and that for these
+   latter slavery is both expedient and right." (1255a); and the
+   1254b "the lower sort are by nature slaves" passage.
+2. Rousseau, Social Contract Book I, Cole translation, Project
+   Gutenberg #46333 (https://www.gutenberg.org/files/46333/
+   46333-0.txt) — three quoted spans verified verbatim by eye:
+   the Book I ch. II passage naming Aristotle ("Aristotle,
+   before any of them, had said that men are by no means equal
+   naturally..."); the reversal ("If then there are slaves by
+   nature, it is because there have been slaves against nature.
+   Force made the first slaves, and their cowardice perpetuated
+   the condition."); and the Book I ch. IV conclusion ("the right
+   of slavery is null and void... The words slave and right
+   contradict each other, and are mutually exclusive.").
+
+The opposition: Aristotle holds that some people are marked out
+from birth for subjection and that slavery is expedient and
+right for them; Rousseau explicitly names Aristotle, holds that
+he took the effect for the cause, and denies that a right of
+slavery can exist. The disagreement is directly about ownership
+of a person and the direction of their labour — the livelihood
+question at its sharpest. Both texts state the dispute themselves;
+nothing is manufactured from silence.
+
+TOOL EXCEPTION: One NOT FOUND in the automated verifier run for
+the pre-existing Deci Koestner Ryan 1999 quote carried at the
+PubMed URL 10589297. This is the documented PubMed blocked-fetch
+pattern (PubMed blocks the automated verifier). The quote was
+re-verified verbatim by eye this session against the original
+article PDF at https://leeds-faculty.colorado.edu/dahe7472/
+deci%201999.pdf (Deci, Koestner & Ryan 1999, Psychological
+Bulletin 125(6), 627-668, abstract). No new failure mode beyond
+the standing PMC/PubMed blocked-fetch pattern; no new exception
+introduced by this edit.
+
+Checks: dossier_check.py exit 0 (62 card links, 18 headers, 20
+external carriers); dossier_density.py 0 dense (47 paragraphs,
+0.9 card links per paragraph); dossier_quote_verify.py 19
+checked / 1 not found — the single not-found is the documented
+PubMed blocked-fetch exception described above.
+
+STATUS: THREE substantiated disagreements (Does low burnout mean
+high engagement?; Is work what life is for?; Can anyone be a
+slave by nature?). The 3-5 bar is MET, subject to supervisor/
+owner ratification. Publication decision remains with the
+supervisor/owner.
+
+## Repair pass (worker-pplx-dos22-1025-0600d, 2026-10-25, advisor QC applied)
+
+Repairs applied to the third-disagreement edit per advisor QC:
+
+1. "Does low burnout mean high engagement?" heading restored
+   (it had been dropped from the disagreements section while its
+   paragraphs remained).
+2. Buddhist-equivalence claim removed: the prior draft asserted
+   that the Buddhist abstention from trading in human beings
+   "agrees with Rousseau's conclusion"; that repeats the inference
+   previously rejected in this ledger (prohibiting trade in
+   people does not by itself establish rejection of every claimed
+   right of ownership). The limit on what the Buddhist trading
+   prohibition establishes stands in the bounded comparison.
+3. The dispute is stated precisely: "Rousseau explicitly disputes
+   Aristotle's account" (Rousseau names Aristotle directly in
+   Social Contract I.2).
+4. Process-defensive final paragraph replaced with a substantive
+   editorial lean: "I side with Rousseau. I want the test of a
+   livelihood to include whether those doing the work remain free
+   people, rather than somebody else's property."
+5. Deci 1999 carrier expanded: the accessible article PDF at
+   https://leeds-faculty.colorado.edu/dahe7472/deci%201999.pdf is
+   now cited beside the PubMed abstract URL for the Deci, Koestner
+   and Ryan 1999 quote. The quote was verified verbatim by eye
+   against the article PDF extract (the abstract sentence).
+   Earlier PubMed fetch returned an empty-content formatting
+   error for the automated verifier; the standing blocked-fetch
+   exception is retained in the record below for accuracy, but
+   the verifier now reports 0 not found after this repair.
+
+STATUS after repair: FOUR subsections in the genuine-disagreements
+section: (1) Can anyone be a slave by nature? — Aristotle
+Politics I.5 vs Rousseau Social Contract I.2/I.4, substantiated
+this session, both carriers freshly opened and quotes verified
+verbatim by eye; (2) Does low burnout mean high engagement? —
+Maslach-Leiter vs Schaufeli (pre-existing); (3) Is work what life
+is for? — Pieper vs the work-centred outlook (pre-existing);
+(4) Does being paid wear down interest in the work itself? —
+Deci Koestner Ryan 1999 vs Cameron Banko Pierce 2001 (concurrent
+addition, not authored by this worker). The 3-5 bar is MET at
+FOUR, subject to supervisor/owner ratification of all four.
+
+Checks after repair: dossier_check.py exit 0 (62 card links, 19
+headers, 21 external carriers); dossier_density.py 0 dense (47
+paragraphs, 0.9 card links per paragraph); dossier_quote_verify.py
+19 checked / 0 not found.

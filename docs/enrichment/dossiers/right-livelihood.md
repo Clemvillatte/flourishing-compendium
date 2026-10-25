@@ -110,6 +110,28 @@ The monk may not so much consent to money set down beside him; the householder i
 
 ## Where the traditions genuinely disagree
 
+### Can anyone be a slave by nature?
+
+The shared question: can anyone rightly be another person's property by nature? Aristotle answers yes and gives the grounds. In the Politics the claim runs from the constitution of living things to a rule over people:
+
+> "For that some should rule and others be ruled is a thing not only necessary, but expedient; from the hour of their birth, some are marked out for subjection, others for rule." ([Aristotle, Politics I.5, 1254a, Jowett translation, Fordham Ancient History Sourcebook](https://sourcebooks.web.fordham.edu/ancient/aristotle-politics.asp))
+
+> "It is clear, then, that some men are by nature free, and others slaves, and that for these latter slavery is both expedient and right." ([Aristotle, Politics I.5, 1255a, Jowett translation, Fordham Ancient History Sourcebook](https://sourcebooks.web.fordham.edu/ancient/aristotle-politics.asp))
+
+Rousseau names Aristotle and answers no. The Social Contract reports the claim and then reverses it:
+
+> "Aristotle, before any of them, had said that men are by no means equal naturally, but that some are born for slavery, and others for dominion. Aristotle was right; but he took the effect for the cause. Nothing can be more certain than that every man born in slavery is born for slavery. Slaves lose everything in their chains, even the desire of escaping from them: they love their servitude, as the comrades of Ulysses loved their brutish condition." ([Rousseau, Social Contract I.2, Cole translation, Project Gutenberg](https://www.gutenberg.org/files/46333/46333-0.txt))
+
+> "If then there are slaves by nature, it is because there have been slaves against nature. Force made the first slaves, and their cowardice perpetuated the condition." (same source)
+
+Rousseau then closes the argument on the ownership claim itself:
+
+> "So, from whatever aspect we regard the question, the right of slavery is null and void, not only as being illegitimate, but also because it is absurd and meaningless. The words slave and right contradict each other, and are mutually exclusive." ([Rousseau, Social Contract I.4, Cole translation, Project Gutenberg](https://www.gutenberg.org/files/46333/46333-0.txt))
+
+The two positions answer the same question with opposite rulings. Aristotle holds that some people are marked out from birth for subjection and that slavery is expedient and right for them; Rousseau holds that the very idea of a right of slavery is self-contradictory, and that any slaves by nature exist only because slavery against nature made them. Aristotle's answer grounds a master's claim to the labour of another person; Rousseau's answer denies that such a claim can be legitimate. The disagreement is directly about ownership of a person and the direction of their labour, which is the livelihood question at its sharpest. Rousseau explicitly disputes Aristotle's account; the earlier bounded comparison in this dossier preserved the explicit limit on what the Buddhist trading prohibition establishes, and that limit stands.
+
+I side with Rousseau. I want the test of a livelihood to include whether those doing the work remain free people, rather than somebody else's property.
+
 ### Does low burnout mean high engagement?
 
 The research on what work does to a person holds two schools of thought on how [burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout) and [work engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Work%20engagement) relate, and they predict differently about the same working person.
@@ -132,7 +154,7 @@ The shared question: whether tangible rewards for doing a task reduce the person
 
 Deci, Koestner and Ryan pooled 128 experiments and reported that they did:
 
-> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan 1999, Psychological Bulletin abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/))
+> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan 1999, Psychological Bulletin abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/); [article PDF, University of Colorado](https://leeds-faculty.colorado.edu/dahe7472/deci%201999.pdf))
 
 Cameron, Banko and Pierce re-examined the same literature in a new meta-analysis and reached the opposite headline:
 
