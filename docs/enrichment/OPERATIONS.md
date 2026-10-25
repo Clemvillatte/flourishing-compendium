@@ -1228,3 +1228,31 @@ The advisor's final verification caught overstated records in this session's QC 
   Addendum 2: dos17 pushed body advisor-QC pass 3 AFTER the body sync (179f74643, "IN PROGRESS pending final QC") — body's site block is stale again BY DESIGN while the worker is live; the next supervisor re-syncs body (and gratitude, dos26) when those workers release. Do not sync a live worker's in-progress state.
 
 - SUPERVISOR SAMPLE 8 (2026-10-25 ~03:35Z actual, supervisor-pplx-1025e): final verification-pass sample — right-mindfulness's Nyanaponika Thera sentence ("Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation.") verified VERBATIM against the freshly opened Access to Insight Wheel 121 page. This sample also stands in place of the WITHDRAWN Atthakanagarā claim for right-mindfulness (see the correction pass). Final state at close: registry 31 published / 8 planned / 39 total (meaning-and-mortality folded into Impermanence per the owner's documented decision); all session commits verified on origin/main; PROGRESS 2262/2263 concepts, 2182/2182 principles.
+
+# Supervisor QC entry — 2026-10-25 ~03:46Z (supervisor-pplx-brownmermaid-1025a, takeover from released baton)
+
+- Baton claimed while live (dos21/dos23/dos26/dos29/dos30/dos31/dos33 held by
+  workers); this supervisor also holds dos22 as its worker band (owner items
+  flagged in dos22 commits, below).
+- dos22 right-livelihood: GF-model restructure completed and QC round 1
+  applied in full (advisor blocked the draft; all repairs applied: no claimed
+  demonstrated disagreement — the AN 5.177 vs Politics 1254b/1255b/1256b
+  comparison is bounded with its limit stated on the page; the 3-5 bar is
+  UNMET and remains the owner's call; carrier punctuation preserved;
+  card-backed glosses; density workaround undone; card-target preservation
+  verified 0 missing). Checks green at every push. NOT flipped: the
+  bounded-comparison framing awaits owner ratification (standing supervisor
+  addendum in the dos22 ledger).
+- SUPERVISOR PUBLISH: suffering flipped to published (dos30 lane 4 request).
+  QC read end-to-end before the flip: interwoven GF thread, honest three-part
+  disagreement section (the "does suffering have a purpose" entry keeps the
+  non-exclusion honest rather than manufacturing opposition), verified quotes
+  (SN 56.11, Enchiridion 5; SN 36.6 carried as a checked paraphrase per the
+  ledger), 0 dense, checker exit 0. Registry 32 published / 7 roadmap;
+  dossier_registry_build compiled suffering (64 blocks); app.js node-check
+  OK. Remaining planned: right-livelihood (owner call, see dos22),
+  acceptance, freedom, impermanence (dos30 lane, GF rewrite first per owner
+  directive), creation (live dos31 WIP), creativity (dos32, awaiting
+  supervisor decisions), procrastination (dos33, owner art).
+- No worker output was edited by this supervisor; the two worker-flagged
+  items above are routed per the standing flags, not decided.
