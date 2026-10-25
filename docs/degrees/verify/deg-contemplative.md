@@ -954,9 +954,12 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
 - Duration: DUAL FIGURES — the listing prints 1:29:40 while the player
   shows 1:27:56 (2026-10-25); the owner should reconcile before workload
   arithmetic.
-- Instructor credentials: Chris Fraser, Hon-Yin and Suet-Fong Chan
-  Professor in the School of Chinese at the University of Hong Kong (per
-  the uploader description; institutional page not opened this session).
+- Instructor credentials: Chris Fraser, Professor and Hon-Yin and
+  Suet-Fong Chan Professor in Chinese, University of Hong Kong (HKU
+  Department of Philosophy faculty page, opened 2026-10-25,
+  https://philosophy.hku.hk/faculty-and-staff/ — B.A. Yale, M.A.
+  National Taiwan, Ph.D. HKU; Chinese philosophy of language and logic
+  among his areas), corroborating the uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a book talk on
   Zhuangzi: The Complete Writings — Fraser with Pengbo Liu, Esther Sunkyung
@@ -964,8 +967,8 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   research interests noted.
 - Relevant segment: whole talk (duration to reconcile).
 - Verification status: verified-video (2026-10-25), dual-figure duration
-  flagged; Fraser credentials from the description, institutional page
-  pending.
+  flagged; Fraser credentials verified on the HKU faculty page (opened
+  2026-10-25).
 
 ### M01-D15: Episode 16 — Zhuangzi on Uselessness (This Is The Way podcast)
 
@@ -992,16 +995,22 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   School channel (https://www.youtube.com/watch?v=5lq3w3G0Q_s); watch page
   opened 2026-10-25. "When Worlds Collide" lecture series, 20 April 2007.
 - Duration: 2:03:46 (watch page, 2026-10-25).
-- Instructor credentials: Georges B. Dreyfus, Professor of Religion at
-  Williams College, and Eshin Nishimura, former president of Hanazono
-  University, Kyoto, with Donald K. Swearer moderating (per the uploader
-  description; institutional pages not opened this session).
+- Instructor credentials: Georges B. Dreyfus, Professor of Religion,
+  Williams College; Geshe (1985, the degree conferred by Tibetan
+  monastic universities); Ph.D. in the History of Religions,
+  University of Virginia (Buddhist Information Archive of Thailand
+  biography page, opened 2026-10-25,
+  https://main.bia.or.th/en/prof-geshe-georges-dreyfus/), corroborating
+  the uploader description. Eshin Nishimura, former president of
+  Hanazono University, Kyoto, and moderator Donald K. Swearer remain
+  description-basis (pages not opened this session).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): Tibetan and Zen
   Buddhist perspectives on Buddhism and science, with a moderated Q&A.
 - Relevant segment: whole event, 2:03:46.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional pages pending.
+- Verification status: verified-video (2026-10-25); Dreyfus credentials
+  verified on an opened biography page (2026-10-25); Nishimura and
+  Swearer remain description-basis.
 
 ### M02-K02: The Method of Life Studies and Tanabe's Metanoetics — Masahiro Morioka (ENOJP4)
 
@@ -1010,16 +1019,23 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   watch page opened 2026-10-25. ENOJP4, Hildesheim, 5-8 September 2018,
   Panel 19: Tanabe on Spirituality and Intuition.
 - Duration: 48:40 (watch page, 2026-10-25).
-- Instructor credentials: Morioka Masahiro, Waseda University (per the
-  uploader description; institutional page not opened this session).
+- Instructor credentials: Morioka Masahiro, professor of philosophy and
+  ethics at Waseda University; Japanese philosopher in philosophy of
+  life, bioethics and related fields (basis: Wikipedia REST summary
+  endpoint, opened 2026-10-25 via direct HTTP,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Masahiro_Morioka —
+  tertiary source; the Waseda news page for his work was
+  robots-blocked from this fetcher), corroborating the uploader
+  description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): his method of
   life studies and its similarities and differences with Tanabe Hajime's
   metanoetics — confession, self-negation, Other-power, and the
   possibility of post-religious spirituality.
 - Relevant segment: whole talk, 48:40.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on a tertiary-source summary (Wikipedia REST endpoint, opened
+  2026-10-25).
 
 ### M02-K03: Action and Intuition — Patočka and Tanabe (Morten E. Jelby, ENOJP4)
 
@@ -1048,8 +1064,13 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   (https://www.youtube.com/watch?v=CMFxcZIyKu4); watch page opened
   2026-10-25. Force For Good class series.
 - Duration: 1:56:24 (watch page, 2026-10-25).
-- Instructor credentials: Professor Robert A.F. Thurman (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Robert A.F. Thurman, inaugural Jey Tsong Khapa
+  Professor of Indo-Tibetan Buddhist Studies at Columbia University,
+  holding the chair from 1988 until his 2019 retirement (Columbia
+  University Department of Religion memoriam page, opened 2026-10-25,
+  https://religion.columbia.edu/news/memoriam-robert-af-thurman-1941-2026),
+  corroborating the uploader description's "Professor". NOTE: the
+  memoriam records his death in 2026; the class recording predates it.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): the history of
   Lam Rim (Stages of the Path) mind-training teachings preserved in Tibet;
@@ -1058,8 +1079,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   preparation for Buddhist Tantras; a guided meditation on the exchange of
   self and other and recognition of mother kindness.
 - Relevant segment: whole class, 1:56:24.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the Columbia Religion Department memoriam page (opened
+  2026-10-25).
 
 ### M02-K08: Emptiness and the Mind Perceiving It — Dr. Jay L. Garfield (Sravasti Abbey)
 
@@ -1068,16 +1090,19 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   2026-10-25. Series: Emptiness and the Mind Perceiving It with Dr. Jay L.
   Garfield (2020), session 02, 9 May 2020.
 - Duration: 1:48:23 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Jay L. Garfield (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Jay L. Garfield, Doris Silbert Professor
+  Emeritus in the Humanities and Professor Emeritus of Philosophy, Smith
+  College; Visiting Professor of Buddhist Philosophy, Harvard Divinity
+  School (Smith College faculty page, opened 2026-10-25,
+  https://www.smith.edu/people/jay-l-garfield).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): continuation
   of his introduction to Yogacara and Madhyamaka philosophy — the three
   natures the Buddha taught in the sixth chapter of The Sutra Unravelling
   the Thought.
 - Relevant segment: whole session, 1:48:23.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the Smith College faculty page (opened 2026-10-25).
 
 ### M05-YV-02: Isha Upanishad (1 of 8) Taught by Swami Tadatmananda
 
@@ -1127,10 +1152,12 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Wilderness channel (https://www.youtube.com/watch?v=Hl5d1gXG5nI); watch
   page opened 2026-10-25. Podcast episode 131. INDEPENDENT-CHANNEL FLAG.
 - Duration: 1:22:50 (watch page, 2026-10-25).
-- Instructor credentials: Dr. James Maffie, senior lecturer, Department of
-  Philosophy, and affiliate of the Latin American Studies Program,
-  University of Maryland (per the uploader description; institutional page
-  not opened this session).
+- Instructor credentials: James Maffie, Senior Lecturer, Philosophy;
+  Lecturer (Retired), History; Affiliate Faculty, Latin American and
+  Caribbean Studies Center, University of Maryland (UMD Philosophy
+  department directory, opened 2026-10-25,
+  https://philosophy.umd.edu/directory?page=3), corroborating the
+  uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): his book
   Aztec Philosophy: Understanding a World in Motion — Mexica metaphysics,
@@ -1138,8 +1165,8 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   and Tantra, balance between opposing manifestations, and the ethical
   obligation to "feed the holy."
 - Relevant segment: whole episode, 1:22:50.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the UMD directory (opened 2026-10-25).
 
 ### SRC-M12-003: Aztec Ethics and the Tonalamatl with James Maffie (Hermitix)
 
@@ -1147,16 +1174,17 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Podcast channel (https://www.youtube.com/watch?v=t2i4AyAJDTE); watch
   page opened 2026-10-25. INDEPENDENT-CHANNEL FLAG.
 - Duration: 1:03:01 (watch page, 2026-10-25).
-- Instructor credentials: James Maffie, principal lecturer, Department of
-  Philosophy, University of Maryland (per the uploader description;
-  institutional page not opened this session).
+- Instructor credentials: James Maffie, Senior Lecturer, Philosophy,
+  University of Maryland (UMD Philosophy department directory, opened
+  2026-10-25, https://philosophy.umd.edu/directory?page=3), matching
+  the uploader description's rank closely enough to corroborate it.
 - Language: English.
 - Content coverage (uploader description and chapters, read 2026-10-25):
   the tonalamatl, Aztec ethics, divination, reciprocity, maize, balance
   and animism, linked to his book on Aztec philosophy.
 - Relevant segment: whole episode, 1:03:01.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the UMD directory (opened 2026-10-25).
 
 ### SRC-M20-D01: Daoism, Zhuangzi, Garbage, and Non-Knowing (Brook Ziporyn with Julie Reshe)
 
@@ -1181,17 +1209,21 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Yoga Studies channel (https://www.youtube.com/watch?v=UbYUA_G4Jjo);
   watch page opened 2026-10-25. Recorded 13 April 2022.
 - Duration: 1:16:46 (watch page, 2026-10-25).
-- Instructor credentials: Dominic Steavu, Associate Professor of Chinese
-  Religions and Chinese Buddhism, UC Santa Barbara (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Dominic Steavu, faculty in the Department of
+  East Asian Languages and Cultural Studies, UC Santa Barbara (his
+  department faculty page, opened 2026-10-25,
+  https://www.eastasian.ucsb.edu/people/faculty/dominic-steavu/; the
+  same site's faculty listing names him Associate Professor with area
+  Daoism and Chinese Buddhism, read 2026-10-25), corroborating the
+  uploader description.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): ways Daoists
   speak about the body — the body as a dynamic and divine landscape, a
   generative, life-giving cosmos, and an alchemical furnace, with
   emblematic practices for these metaphors.
 - Relevant segment: whole talk, 1:16:46.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on the UCSB department pages (opened 2026-10-25).
 
 ### SRC-M10-005: Buddhism and Science — A Brief History (Donald Lopez, Berkley Center)
 
@@ -1199,8 +1231,11 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   (Georgetown) channel (https://www.youtube.com/watch?v=FF6rzOSM0Iw);
   watch page opened 2026-10-25. Lecture given 9 February 2009.
 - Duration: 54:10 (watch page, 2026-10-25).
-- Instructor credentials: Donald Lopez, lecturer (per the description; an
-  institutional page was not opened this session).
+- Instructor credentials: Donald S. Lopez Jr., Arthur E. Link
+  Distinguished University Professor of Buddhist and Tibetan Studies,
+  University of Michigan (basis: Wikipedia, opened 2026-10-25,
+  https://en.wikipedia.org/wiki/Donald_S._Lopez,_Jr. — tertiary
+  source), upgrading the description's "lecturer" to the named chair.
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): historical
   associations between Buddhism and science — nineteenth-century Buddhist
@@ -1208,8 +1243,9 @@ on SRC-M24-005 and SRC-M24-006 go to the module owner.
   Dalai Lama, why compatibility claims have persisted, and what Buddhism
   may gain or lose through that association.
 - Relevant segment: whole lecture, 54:10.
-- Verification status: verified-video (2026-10-25); credentials from the
-  description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credentials verified
+  on a tertiary source (Wikipedia, opened 2026-10-25); institutional
+  page still preferred.
 
 ### M-15-004: Impermanence (anicca) — Guided Meditation and Dhamma Talk (Ayya Brahmavara)
 
