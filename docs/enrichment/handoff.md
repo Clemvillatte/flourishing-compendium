@@ -101,3 +101,22 @@
   manuscript reads were also excerpt-level (truncated line tails), so
   reader-level review is claimed only for the portions read in full;
   right-speech's full untruncated read is in progress.
+
+### Band dos31 (worker-pplx-c3b0f2fb) — 2026-10-25 session close
+- Restructured creation.md from the old map shape to the GF interwoven
+  thread per the current orders (commits b6e8018b3 through 015067576,
+  advisor QC rounds 1-3 applied). Checker exit 0 (51 card links, 16
+  headers, 14 carriers). STATUS: WIP, not QC-passed.
+- Evidence this pass: Frankl PDF and Nietzsche (Gutenberg) reopened and
+  matched verbatim, context read; both T&F quotes reconfirmed against
+  the fetch-tool raw HTML; P149 card read in full and prose aligned to
+  its hedge. Paraphrase verification otherwise inherited from rev 1-7.
+- Remaining blockers for the next worker/supervisor: (1) the
+  disagreement section holds ONE CANDIDATE comparison (discovered vs
+  created), ZERO demonstrated disagreements — the model asks 3-5, and
+  this gap blocks completion/publication; do not manufacture
+  disagreements to meet the count. (2) practice entries run 3+
+  sentences where the model specifies two — the extra sentences are
+  earlier advisor-round caveats; the conflict is flagged rather than
+  resolved by deletion. Supervisor follow-ups unchanged: registry flip,
+  rebuild, art.
