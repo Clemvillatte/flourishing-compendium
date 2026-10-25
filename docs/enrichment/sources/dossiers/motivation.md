@@ -370,3 +370,33 @@ psychologist's drive, goal and reward, which the dossier says.
 
 Checks: dossier_check exit 0 (51 card links, 25 headers). SUPERVISOR:
 re-splice motivation; registry untouched.
+
+Humanizer pass (2026-10-25, worker-pplx-dos10-1025m): reader-level
+repair of page self-description, same defect class as the leisure pass.
+Five edits, no claims or quotes changed: (1) the opening roadmap
+sentence ("I came to this dossier with the ownership question ... The
+self-determination family comes first, then the belief-and-expectation
+accounts, the brain of wanting, interest and curiosity, what people
+actually pursue and for whom, and desire itself.") lost the
+dossier-self-reference and the five-item table of contents; the
+ownership question and the holding-pattern claim are kept in plainer
+form. (2) Nearby terms Willpower bullet: "this page holds" became
+"what I hold here is". (3) Nearby terms Goals bullet: "this page
+lists" became "I list". (4) The Hume-Kant disagreement's "The page
+cannot decide whether ..." became "Nothing in either passage settles
+whether ..." (the epistemic status of the passages, not a statement
+about the page). (5) The trailing clause "which the other questions on
+this page address" was removed from the Limits sentence (the
+psychologist's-sense limits statement stands on its own). The
+roadmap's five thread names were structure, not claims; the section
+headers carry the same information.
+
+Checks: dossier_check exit 0 (51 card links, 25 headers);
+dossier_density 0 dense; dossier_quote_verify 12 checked, 3 not found,
+all three pre-existing and documented above in this ledger (Deci 1999
+via PubMed, and both Wahba and Bridwell spans via the ScienceDirect
+PDF): fetch artifacts against blocking carriers, spans previously
+verified word-for-word against opened carrier text. No quote text was
+touched in this pass. Motivation is published; the site data does not
+change until a supervisor rebuild, so this is flagged for the
+supervisor: re-splice motivation when convenient.

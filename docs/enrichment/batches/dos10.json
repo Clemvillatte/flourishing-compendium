@@ -1,7 +1,7 @@
 {
-  "batch": "dos10",
-  "done": [
-    "motivation"
-  ],
-  "note": "minted 2026-10-24; one dossier per band; GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format, checker exit 0, 0 dense, no edits needed; registry flip pending supervisor | 2026-10-25 worker-pplx-dos30-1025l: motivation disagreement section 2->3 (reason alone and the will: Hume vs Kant). SUPERVISOR: re-splice motivation; registry untouched."
+ "batch": "dos10",
+ "done": [
+  "motivation"
+ ],
+ "note": "minted 2026-10-24; one dossier per band; GF-model verification 2026-10-25 by worker-pplx-dos24-1025a: already in GF-model format, checker exit 0, 0 dense, no edits needed; registry flip pending supervisor | 2026-10-25 worker-pplx-dos30-1025l: motivation disagreement section 2->3 (reason alone and the will: Hume vs Kant). SUPERVISOR: re-splice motivation; registry untouched. | 2026-10-25 worker-pplx-dos10-1025m: motivation humanizer pass - 5 page-self-description repairs (opening roadmap removed, 'this page' phrasings to first-person, 'the page cannot decide' recast, trailing meta clause dropped); no claims or quotes changed; checks green (exit 0, density 0); quote_verify 12/3 all pre-documented fetch artifacts; SUPERVISOR: re-splice motivation when convenient."
 }
