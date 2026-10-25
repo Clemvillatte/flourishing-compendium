@@ -137,3 +137,23 @@ I connect that dispute to postponing an intended action. Akrasia is broader than
 ### Marking the faults and continuing
 
 [ST184 — Franklin's Little Book](https://clemvillatte.github.io/flourishing-compendium/#card=ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin at twenty charts thirteen virtues, one focused on each week, every fault marked with a black spot; he never reached perfection and concluded that the practice, not the perfection, was the gain.
+
+### Binding yourself in advance
+
+[ST161 — Odysseus and the Mast](https://clemvillatte.github.io/flourishing-compendium/#card=ST161%20%E2%80%94%20Odysseus%20and%20the%20Mast): Odysseus does not overcome his desire to hear the Sirens; he has himself bound to the mast with orders to add ropes, not remove them, no matter what he says, the move of the person who knows their future self cannot be trusted.
+
+### The knowledge that does not move the hand
+
+[ST160 — Medea Knows](https://clemvillatte.github.io/flourishing-compendium/#card=ST160%20%E2%80%94%20Medea%20Knows): Medea debates herself, sees the wrong clearly, and does it; the monologue Euripides gives her is the classical portrait of the gap between knowledge and action, the machinery that connects them being what fails.
+
+### The loop that feeds what it fears
+
+[ST331 — The Hungry Tiger](https://clemvillatte.github.io/flourishing-compendium/#card=ST331%20%E2%80%94%20The%20Hungry%20Tiger): every feeding settles the tiger and grows him, and the safest-seeming move is to feed him sooner; the avoidance that soothes the anxiety today and makes the anxiety larger tomorrow.
+
+### The work that refuses to be finished
+
+[ST484 — The Shrine That Is Never Finished](https://clemvillatte.github.io/flourishing-compendium/#card=ST484%20%E2%80%94%20The%20Shrine%20That%20Is%20Never%20Finished): the Ise Jingu shrines torn down and built again every twenty years, the cycle now in progress the 63rd; a contribution that belongs to an unfolding situation rather than to a completed thing.
+
+### The wish that would end the work
+
+[ST485 — Stay, You Are So Fair](https://clemvillatte.github.io/flourishing-compendium/#card=ST485%20%E2%80%94%20Stay%2C%20You%20Are%20So%20Fair): Faust bets his soul on the condition that he loses only if he ever wants a moment to stop, and spends sixty years living out a wager in which wanting the moment to stay is the forfeit.

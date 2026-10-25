@@ -413,3 +413,36 @@ sources, but this does not by itself clear any requirement for the
 current dossier format's count of disagreements or cross-tradition
 requirements; the supervisor's decision on the divergence
 requirement and the bounded-comparison review remain outstanding.
+
+## Rev 6.2 — story section enriched (worker-pplx-dos33-1025d, 2026-10-25)
+
+The six story additions discarded with the rev-2 attempt are
+restored, re-checked against the story cards this session before
+being restored:
+
+- ST161 — Odysseus and the Mast: logline re-checked against the card
+  text ("he arranges in advance to be unable to act on it, which is
+  the strategy of the person who knows their future self cannot be
+  trusted").
+- ST160 — Medea Knows: logline re-checked ("The failure is in the
+  machinery that connects knowledge to action").
+- ST331 — The Hungry Tiger: logline re-checked ("the avoidance that
+  soothes the anxiety today and makes the anxiety larger
+  tomorrow").
+- ST484 — The Shrine That Is Never Finished: logline re-checked
+  against the card's AP News carrier ("the 63rd" cycle, the
+  contribution belonging to an unfolding situation).
+- ST485 — Stay, You Are So Fair: logline re-checked ("he loses only
+  if he ever wants a moment to stop").
+
+Each story gets a card link and a one-line logline compressed from
+the story card's own text, per the README's rule 4 for the story
+section. The subtheme headings mirror the map's aspects rather than
+restating a moral.
+
+The rev-6 ledger note that flagged the discarded additions as
+"re-checked before any future addition" is now resolved by this
+revision.
+
+Checker after rev 6.2: exit 0 (40 card links resolve, 19 headers, 7
+external carrier link occurrences across 5 distinct URLs).
