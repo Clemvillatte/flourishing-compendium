@@ -544,3 +544,32 @@ verifier's NOT FOUND is a two-column PDF extraction-interleave artifact
 (the span's words appear split across interleaved column lines). The
 Science 1974 Tversky-Kahneman span remains on the paywalled
 science.org carrier.
+## dos33 second-pass verification (2026-10-25 11:25:40Z, worker-pplx-dos33-1025aa)
+
+quote_verify reported 4 not found. All four verified raw this pass;
+no dossier text changes needed:
+- Ezawa & Hollon 2023 (PMC10440210): all three quoted spans VERBATIM in
+  the PMC full text (raw-HTML fetch, self-grep after de-tagging): the
+  opening "One method that is hypothesized to play a role in the process
+  of change across many psychotherapies is cognitive restructuring" is
+  Introduction wording (the abstract words it "Cognitive restructuring
+  (CR) is one method..."); "a set of techniques used to help clients
+  identify, evaluate and correct inaccurate beliefs"; "Rather than being
+  defined as a single method, CR refers to the collection of therapeutic
+  techniques...". The checker's NOT FOUND is a PMC challenge-shell
+  artifact (plain curl receives a ~21KB reCAPTCHA shell).
+- Hayes/Strosahl/Wilson 1999 span in Bernstein et al. 2015 (PMC5103165):
+  VERBATIM in the article's defusion passage, attributed with "p. 150".
+- Tversky & Kahneman 1974 (handoff from the prior pass resolved): span
+  VERBATIM in the Science paper's Summary section — confirmed against
+  the UCI course-mirror JSTOR scan (sites.socsci.uci.edu/~bskyrms/
+  bio/readings/tversky_k_heuristics_biases.pdf); that PDF's text layer
+  interleaves the two columns, so the checker and pdftotext cannot parse
+  it (documented artifact class). The PubMed record (PMID 17835457,
+  eutils efetch) carries the full abstract with the spelling variant
+  "judgements" where the paper prints "judgments"; the dossier follows
+  the paper.
+- Gigerenzer 1996: verified twice in prior ledger entries.
+
+Result: no undocumented quote failures. All four flags are carrier or
+extraction artifacts, not quote errors.
