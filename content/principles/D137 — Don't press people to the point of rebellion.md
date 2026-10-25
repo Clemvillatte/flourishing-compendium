@@ -46,6 +46,7 @@ This page follows Lau's reading, which is the one the principle's title rests on
 
 - **[[Harm principle|The liberty principle]]** (Mill, On Liberty)
 - **Natural liberty and its chains** (Rousseau, The Social Contract)
+- [[T012 — Laozi]] — the ruler's warning against constricting living space and livelihood in Daodejing 72 (Lau's reading, which this page follows)
 
 <!-- fc: reflections
 Where are you currently hemming someone in — and what's the breakthrough you're training? What would leaving a door open look like?

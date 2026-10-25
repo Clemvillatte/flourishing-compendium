@@ -43,7 +43,7 @@ Chapter 57 lists what multiplies as rules and tools multiply: "the multiplicatio
 - **[[Ockham's razor|Ockham's razor]]** (Ockham)
 - **[[The fourth rule of method|The fourth rule of method]]** (Descartes, Discourse on Method)
 - **[[Pu (the uncarved block)|Pu — the uncarved block]]** (Daoism, Daodejing 32)
-
+- [[T012 — Laozi]] — the renunciations of Daodejing 19 and the costs of multiplying prohibitions in 57
 
 <!-- fc: reflections
 What in your life is currently more complex than it needs to be? What's the plainest working form?

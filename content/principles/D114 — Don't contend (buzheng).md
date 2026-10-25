@@ -29,6 +29,7 @@ That leaves room for disagreement, fair credit and firm boundaries. Withholding 
 - [[Wu wei]]: acting without unnecessary forcing.
 - [[Dao]]: the wider teaching behind the images.
 - [[Hypercompetitiveness]]: a psychological comparison concerning the need to win.
+- [[T012 — Laozi]] — non-contention through the water, self-display and lower-place images of Daodejing 8, 22 and 66
 
 ## Stories
 

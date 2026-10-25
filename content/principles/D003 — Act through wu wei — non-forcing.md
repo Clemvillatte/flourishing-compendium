@@ -71,6 +71,7 @@ The practical reading offered here is to remove unnecessary interference while r
 ## Related thinkers
 
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+- [[T012 — Laozi|Laozi]] — non-forcing in the Daodejing's chapters 37 and 48, the doing that diminishes until nothing is forced
 
 <!-- fc: reflections
 What are you currently shoving rather than working with? What does the "skilled hand" version of that same task look like?
