@@ -108,6 +108,11 @@
      "t": "2026-10-20T14:46:26+00:00",
      "to": "ready",
      "note": "Advisor re-review substantive PASS after severe-final-method and citation corrections; zero validator errors; supervisor-only integration"
+    },
+    {
+     "t": "2026-10-25T15:10:35+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:10:35: sample verified — 2/2 quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -925,5 +930,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:10:27+00:00"
+ "updated": "2026-10-25T15:10:35+00:00"
 }
