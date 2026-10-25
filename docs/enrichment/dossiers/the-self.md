@@ -378,11 +378,19 @@ Hume, a century later, turns the same question on the search itself and reports 
 
 The precise difference is what the failure of the search is taken to prove. For Descartes, the demon's attack is self-verifying: whatever is deceived must exist as the one being deceived, so the self is the one thing radical doubt establishes rather than destroys. For Hume, the failure is a finding about the referent: the word "self" answers to nothing that appears, only to the flow that appears. His own consequence is blunt: "When my perceptions are removed for any time, as by sound sleep; so long am I insensible of myself, and may truly be said not to exist" (Treatise 1.4.6). What remains unresolved: whether the thinker Descartes reaches is discovered in the doubt or inferred from it.
 
-### Is the thinking self a substance?
+### Does the cogito establish knowledge of a thinking substance?
 
-The shared question: the thinker that survives doubt — is it a substance? Descartes answers yes: the thing doubt cannot dissolve is a thinking thing, a res cogitans, existing in the way substances exist. Kant answers no, and his denial is precise: "I believe that I cognize what is substantial in myself as a transcendental subject, when I have nothing more in thought than the unity of consciousness, which lies at the basis of all determination of cognition" (Critique of Pure Reason, [Meiklejohn translation](https://www.gutenberg.org/cache/epub/4280/pg4280.txt)). The step from the unity to the substance is, in his diagnosis, the standing error of rational psychology: "the dialectical illusion in rational psychology arises from our confounding an idea of reason (of a pure intelligence) with the conception—in every respect undetermined—of a thinking being in general" (Critique of Pure Reason).
+The shared question: does the examination that survives doubt give knowledge of the self as a substance? Descartes answers yes, and claims the knowledge itself:
 
-The precise difference is what the "I think" is taken to deliver. Descartes reads it as a substance known from within; Kant argues it delivers only a formal unity of consciousness, and that the substantial self is an inference dressed as a discovery. What remains unresolved: whether that formal unity is enough self for the purposes a person has, or whether Kant's deflation merely relocates the question Descartes thought he had answered.
+> "And, therefore, merely because I know with certitude that I exist, and because, in the meantime, I do not observe that aught necessarily belongs to my nature or essence beyond my being a thinking thing, I rightly conclude that my essence consists only in my being a thinking thing [or a substance whose whole essence or nature is merely thinking]." ([Meditation VI, Veitch translation](https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_VI))
+
+Kant answers no, and his denial is precise: the cogito delivers no such knowledge:
+
+> "I believe that I cognize what is substantial in myself as a transcendental subject, when I have nothing more in thought than the unity of consciousness, which lies at the basis of all determination of cognition." ([Critique of Pure Reason, Meiklejohn translation](https://www.gutenberg.org/cache/epub/4280/pg4280.txt))
+
+> "The dialectical illusion in rational psychology arises from our confounding an idea of reason (of a pure intelligence) with the conception—in every respect undetermined—of a thinking being in general." ([Critique of Pure Reason, Meiklejohn translation](https://www.gutenberg.org/cache/epub/4280/pg4280.txt))
+
+The precise difference is what the "I think" is taken to deliver. Descartes reads it as knowledge of his essence, a thinking substance known with certitude; Kant argues it delivers only a formal unity of consciousness, and that mistaking that unity for cognition of a substantial self is the illusion rational psychology rests on. What remains unresolved: whether that formal unity is enough self for the purposes a person has, or whether Kant's deflation merely relocates the question Descartes thought he had answered.
 
 ### Is the self separate or relational?
 

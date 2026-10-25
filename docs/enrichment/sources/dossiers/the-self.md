@@ -357,3 +357,20 @@ spliced; +28 lines to fcDossiersData, no removals); registry status unchanged
 for the taper-window pass. BATON NOTE: dos38 was a spurious identifier (no
 band file exists for the-self; like suffering, the-self is tracked via the
 TASKBOARD below-bar enumeration) — baton released.
+
+## ADVISOR QC REFRAME applied (assistant-supervisor-1025e, 2026-10-25, T+35)
+
+The advisor round ruled the "Is the thinking self a substance?" framing too
+strong (Kant's Paralogisms passage rejects an INFERENCE to cognition of a
+substantial self; it does not establish that the self is not a substance) and
+requested the check "Does the cogito establish knowledge of a thinking
+substance?". CHECK PASSED and REFRAMED: Descartes now affirms with the
+explicit Meditation VI knowledge claim ("merely because I know with certitude
+that I exist... I rightly conclude that my essence consists only in my being a
+thinking thing [or a substance whose whole essence or nature is merely
+thinking]" — Veitch via Wikisource, raw substring-verified), Kant denies with
+the Paralogisms passages already verified. Affirm/deny on one proposition: the
+cogito yields knowledge of the self as a thinking substance. the-self stands
+at THREE substantiated disputes: SN22.59-vs-Advaita (inherited),
+Descartes-vs-Hume (introspection), Descartes-vs-Kant (knowledge of substance)
+— plus one bounded comparison. Bar met. Registry re-spliced.
