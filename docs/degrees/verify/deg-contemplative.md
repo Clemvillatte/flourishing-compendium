@@ -65,8 +65,28 @@ the end. All sources below are freely accessible, no paywalls or app gates found
 - Content coverage: the uploader's description states the talk covers Daoist
   yangsheng (nourishing life): the informing Daoist view, general principles, and the
   theory behind the foundation's basic yangsheng practice.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=WDwPln1CczI&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain transcription errors,
+  e.g. "dallas" for Daoist) confirms the talk's substance on the recording:
+  yangsheng presented as a traditional Chinese and Daoist approach to health
+  and longevity broader than modern qigong ("a fuller sense of what we do to
+  nourish life"); the Daoist framing with the caution against neglecting the
+  "fundamental sacred connection with the Dao"; seasonal and cosmological
+  attunement (seasons, 24 solar nodes, yin-yang, five phases, the Suwen's
+  "nourish yang in spring and summer"); ten yangsheng elements (including
+  daoyin, proper speech, bedchamber arts, feng shui); general principles
+  (sun/moon/stars, relationships, fresh local seasonal food, sleep, walking;
+  "expelling the old and ingesting the new"); the four postures ("Walk like
+  the wind, stand like a tree, sit like a bell, sleep like a bow"); and the
+  basic practice theory (quiet standing, the three elixir fields, eight
+  extraordinary vessels, internal-alchemy stages, the subtle body). Caveats:
+  third-party transcript page, no timestamps in the retrieved text; playback
+  itself not opened.
 - Relevant segment: whole talk, 53:43.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M01-D11: Lundao 7, The Inner Cultivation Lineages of Classical Daoism (Louis Komjathy)
 
