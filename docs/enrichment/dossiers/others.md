@@ -104,31 +104,15 @@ The Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs hims
 
 ### What one person owes another
 
-[Being-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=Being-for-others): Sartre's ontological principle for the experience of being seen.
+Sartre's ontological principle for the experience of being seen is [being-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=Being-for-others). Mencius' advice to examine oneself when one's actions do not bring the desired response from others is [the mirror for others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20mirror%20for%20others), and Confucius' instruction in Analects 13.6 is to [rectify the self before others](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%20before%20others).
 
-[The mirror for others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20mirror%20for%20others): Mencius' advice to examine oneself when one's actions do not bring the desired response from others.
+Confucius' correction of the very proposal to repay injury with kindness, in Analects 14.34, is the instruction to [repay injury with uprightness, kindness with kindness](https://clemvillatte.github.io/flourishing-compendium/#card=Repay%20injury%20with%20uprightness%2C%20kindness%20with%20kindness). The Galatians 6.2 command is [bear one another's burdens](https://clemvillatte.github.io/flourishing-compendium/#card=Bear%20one%20another%27s%20burdens), and the instruction of 2 Timothy 2.2 is [entrust to faithful others](https://clemvillatte.github.io/flourishing-compendium/#card=Entrust%20to%20faithful%20others).
 
-[Rectify the self before others](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%20before%20others): Confucius, Analects 13.6.
+The Gospel of Matthew 6 instruction is [almsgiving in secret](https://clemvillatte.github.io/flourishing-compendium/#card=Almsgiving%20in%20secret). The Buddhist tradition is [dāna (generosity) without expectation](https://clemvillatte.github.io/flourishing-compendium/#card=D%C4%81na%20%28generosity%29%20without%20expectation), and Aristotle's liberality, the mean concerned with wealth, is [generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity).
 
-[Repay injury with uprightness, kindness with kindness](https://clemvillatte.github.io/flourishing-compendium/#card=Repay%20injury%20with%20uprightness%2C%20kindness%20with%20kindness): Confucius, Analects 14.34, where Confucius corrects the very proposal to repay injury with kindness.
+The welcome owed to the stranger who arrives, from Levinas and Derrida, is [hospitality](https://clemvillatte.github.io/flourishing-compendium/#card=Hospitality). Work done for another's sake, in which the server is not left behind, is [service](https://clemvillatte.github.io/flourishing-compendium/#card=Service).
 
-[Bear one another's burdens](https://clemvillatte.github.io/flourishing-compendium/#card=Bear%20one%20another%27s%20burdens): Galatians 6.2.
-
-[Entrust to faithful others](https://clemvillatte.github.io/flourishing-compendium/#card=Entrust%20to%20faithful%20others): the instruction of 2 Timothy 2.2.
-
-[Almsgiving in secret](https://clemvillatte.github.io/flourishing-compendium/#card=Almsgiving%20in%20secret): Gospel of Matthew 6.
-
-[Dāna (generosity) without expectation](https://clemvillatte.github.io/flourishing-compendium/#card=D%C4%81na%20%28generosity%29%20without%20expectation): the Buddhist tradition.
-
-[Generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity): Aristotle's liberality, the mean concerned with wealth.
-
-[Hospitality](https://clemvillatte.github.io/flourishing-compendium/#card=Hospitality): the welcome owed to the stranger who arrives, from Levinas and Derrida.
-
-[Service](https://clemvillatte.github.io/flourishing-compendium/#card=Service): work done for another's sake, in which the server is not left behind.
-
-[Enemy-love](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy-love): the command of Matthew 5.44.
-
-[Enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher): Śāntideva on forbearance: the adversary provides the occasion for patience.
+The command of Matthew 5.44 is [enemy-love](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy-love), and Śāntideva's teaching on forbearance, in which the adversary provides the occasion for patience, is [enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher).
 
 The Analects record the proposal and Confucius' rejection of it:
 
