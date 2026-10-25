@@ -203,3 +203,27 @@ one more advisor call.
   hrefs; the legacy view lists all seven superseded programs; 375px
   mobile shows the same state with no horizontal overflow (scrollWidth
   379, the known 4px). (4) INTEGRATION.md source id corrected to PSY-101.
+
+- 2026-10-25 worker-pplx-psychdim-2 (deg-psychdim), advisor QC rounds 2 to 7 APPLIED: content-
+verification push across the video backlog. Batches 18 to 27 in ledgers/deg-psychdim.md. Lectures
+1, 7, 11, 12, 13, 16 and 17 now fully content-verified (all chapters, transcripts read, boundaries
+recorded); the Barrett and Wood talks content-verified from published transcripts and mapped to
+their existing rows; the Howard inaugural lecture remains a candidate (no transcript retrieved
+through the routes tried; flagged for the supervisor). Advisor rulings applied: provenance
+upgraded to raw unprompted fetches (prompt omitted) with the earlier return-as-is fetches re-
+verified and their comparison claims narrowed to the tests actually performed (full word-level
+body diffs only for lectures 13 and 17; claim-and-quote checks for 11, 12 and 16); Bloom's printed
+false starts preserved (Daly-Wilson; lecture 17 raw text is the authority of record); source
+qualifiers restored (Chicago-children and fear-elicitor hedges, bilingualism as-far-as-we-know,
+parking-lot-study discomfort, Gleitman's neurologist remark corrected, Einstein anecdote at age
+four, language-and-thought kept open, nonhuman-communication almost-certainly qualifier, Provine
+finding-wording matched to the transcript); overclaiming undone (personality-row whole-lecture
+assignment reverted; lecture 16 chapter 1 extension reverted; exact-identity claims removed;
+'outside the six EEMM dimensions' replaced with 'no current matrix outcome mapped'); single-line
+ledger entries rewrapped under 2,000 characters per line. Final advisor verdict: limited content
+QC passes for the inspected batches and audit repairs — not blanket approval and not a gate
+clearance. Open flags for the strategist or owner: lecture 17 chapters 6 to 8 and lecture 13
+chapters 3 to 6 verified but unassigned; lecture 1 orientation assignment (no matrix row cites
+it); the stereotypes/IAT row PROPOSED pending the scope decision; Howard transcript retrieval.
+Coverage and pedagogical gates remain pending independent confirmation; the Phase 0 pilot stop-
+gate still blocks module production.
