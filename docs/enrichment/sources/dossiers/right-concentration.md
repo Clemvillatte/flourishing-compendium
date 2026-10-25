@@ -202,3 +202,22 @@ editorial review — the claim that these are the sources' own
 contrasts was NOT verified against the cards this pass and should
 not be treated as a source check. The full-text card-fidelity
 comparison for swept entries remains open as flagged.
+
+## Supervisor follow-up (2026-10-25, supervisor-pplx-1024c)
+
+Two actions completing the entry above: (a) the L100 and L168 keeps
+are now SUBSTANTIATED against their opened cards — L168's gloss
+("the most satisfying hours were not the most pleasant but the most
+absorbed") is a verbatim quote of ST138's own sentence; L100's gloss
+("engineered rather than awaited") is a fair compression of P119's
+own exercise ("Check whether the goal is stated clearly enough to
+guide action, and whether you can check progress... Where either is
+missing, that is the gap to fill") — the card's framing is that
+the conditions are fillable, not awaited. Both cards opened and
+read in full this pass. (b) L5's wording tension resolved: the
+paragraph denied collectedness is "a rare condition reserved for
+hermits" and then said "protected like a rare condition" — the
+contradictory simile removed; the clause now reads "a capacity
+tuned like an instrument and reachable inside ordinary life", with
+"protectable" already carried by the thesis sentence; nothing else
+changed.

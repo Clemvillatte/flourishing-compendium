@@ -2,7 +2,7 @@
 
 > What is collectedness, and how is it tuned rather than forced?
 
-Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The modern attention economy trains the opposite, a scattered, forced, white-knuckle focus that exhausts what it uses, and the counterweight is practice: a capacity tuned like an instrument, protected like a rare condition, and reachable inside ordinary life.
+Collectedness is the gathering of the mind, the way an instrument is tuned rather than forced. The traditions treat it as trainable, protectable and available inside ordinary activity, not a rare condition reserved for hermits. The modern attention economy trains the opposite, a scattered, forced, white-knuckle focus that exhausts what it uses, and the counterweight is practice: a capacity tuned like an instrument and reachable inside ordinary life.
 
 ### Nearby terms
 
