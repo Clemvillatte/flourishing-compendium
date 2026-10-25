@@ -354,3 +354,28 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos6 baton)
+
+Reviewed all 11 candidates; the persisted 2026-10-24 line numbers had
+shifted (the dossier was edited after the snapshot), so dispositions were
+made against a fresh audit run and the current file text, read in context.
+No carriers freshly opened this pass; dispositions are editorial
+judgements resting on the card texts and inherited verification.
+
+All 11 candidates were judged KEEP. The flagged constructions here carry
+real contrasts rather than decorative antithesis: line 5 (question vs
+symptom — the existential-vacuum distinction), 39 (Frankl's reversal:
+answering life's questions in conduct), 99 (Yeager's construct is defined
+as a motive, distinct from goal content), 143 (Husserl's constitution
+doctrine — the mind constitutes rather than passively receives; the
+contrast is phenomenology's founding move, and a human explainer would
+plausibly write exactly this), 145 (Kelly's constructivism — meaning
+built, not found; the not-found-but-built claim is the concept's name),
+201 (disambiguation rationale for excluded entries), 219 (the Variation
+direction contrast), 223 (the practice's own point: inquiry kept open),
+237 (Rilke's own instruction to the young poet), 243 (evidence-limit
+caveats per kernel), 275 (historical fact: Mandela negotiated with, did
+not overthrow, the government that jailed him). No edits were made to the
+dossier body; dossier_check.py exit 0 unchanged. Scope: candidate-line
+review only.
