@@ -659,3 +659,10 @@ comparisons under "Related questions and parallels". The 3-5 bar lower
 bound is met. This does not establish that every interpretation of
 each author is mutually exclusive. The earlier pushed phrasing "bar met
 after four advisor rounds" is superseded by this fifth-review entry.
+- **Lane hygiene (supervisor-pplx-1025h, 2026-10-25):** moved the three
+  pre-existing verification labels off the page per the humanizer
+  readable-synthesis directive: Emmons and McCullough 2003 abstract
+  passage (checked against the PDF's own text, previous verification
+  retained in the ledger history), Algoe "Find, Remind, and Bind" 2012
+  (read from the article page), Algoe, Gable and Maisel 2010 (read from
+  the article page). Quotes unchanged; only the inline labels moved.
