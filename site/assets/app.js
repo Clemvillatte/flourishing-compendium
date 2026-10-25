@@ -19369,11 +19369,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Habit and behaviour change: the neighbouring mechanics of what the delay sits inside. What is specific to delay is what the delay protects, and what it costs."
+          "x": "Habit and behaviour change: the neighbouring mechanics of what the delay sits inside, carried on [Habit](card:Habit) and its family. What is specific to delay is what the delay protects, and what it costs."
         },
         {
           "t": "p",
-          "x": "Self-forgiveness: how a person responds after an offense. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination."
+          "x": "Self-forgiveness: how a person responds after an offense, carried on the [Self-forgiveness](card:Self-forgiveness) card. Its application to procrastination appears in the two-exam study described below, where forgiveness for earlier delay was associated with less subsequent procrastination."
         },
         {
           "t": "h",
