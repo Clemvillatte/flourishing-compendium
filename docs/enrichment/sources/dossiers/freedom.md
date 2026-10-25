@@ -394,3 +394,38 @@ Constant archive.org PDF spans, exception recorded above), prose em
 dashes outside quotes and card-title link text: zero. Publication
 remains blocked pending a third independently supported disagreement
 or an explicit owner waiver.
+
+## Third substantiated disagreement added (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+A third heading, "Is the other's freedom a threat or the medium of
+mine?", was added from two carriers opened this session:
+
+1. Sartre side: SEP Sartre (Reynolds and Renaudie, section 4.3),
+  quoting Being and Nothingness [1956: 429]: "It is useless for human
+  reality to seek to escape this dilemma: one must either transcend
+  the Other or allow oneself to be transcended by him. The essence of
+  the relations between consciousness is not the Mitsein
+  (being-with); it is conflict." Confirmed verbatim in the opened
+  page, cited to the SEP carrier.
+2. Beauvoir side: The Ethics of Ambiguity Part II ch. 1 (marxists.org,
+  the dossier's existing carrier), same session: "The ends which it
+  gives itself must be unable to be transcended by any reflection,
+  but only the freedom of other men can extend them beyond our life.
+  ... Only the freedom of others keeps each one of us from hardening
+  in the absurdity of facticity." and "No man can save himself
+  alone." Confirmed verbatim in the opened page.
+
+The disagreement count now stands at three (Rousseau-vs-Constant,
+Skinner-vs-Sartre/Frankl, Sartre-vs-Beauvoir), meeting the 3-5 bar
+with no exception needed. The prior exception request and the
+2-of-3 note in the OWNER-BOARD are superseded by this entry. The
+earlier editorial framing of Beauvoir ("widens the exercise past the
+single person") stands; the new heading states the divergence the
+sources support without relitigating the Fromm-vs-Sartre
+adjudication or the situated-freedom correction.
+
+Checks after the addition: dossier_check exit 0 (16 links, 10
+headers, 13 carriers); density 0; quote_verify 15 checked / 4 not
+found (all four Constant archive.org PDF spans, exception recorded
+above); prose em dashes outside quotes and card-title link text:
+zero; no paragraph over 150 visible words.

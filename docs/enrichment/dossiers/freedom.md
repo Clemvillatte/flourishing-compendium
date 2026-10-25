@@ -78,6 +78,18 @@ The disagreement turns on what the word choice explains. Skinner reads it as a n
 
 The dispute is not resolved here, and I do not think the sources resolve it. My tentative editorial position is that Skinner is right that unexplained is not uncaused while Sartre is right that no fact specifies its own meaning, which leaves the exercise wing its meaning-level claim while conceding the mechanism-level one; but that is a way of stating the two positions side by side, not a refutation of either.
 
+### Is the other's freedom a threat or the medium of mine?
+
+Sartre's account of the Look is the hardest case for shared freedom. In Being and Nothingness the Other's gaze fixes me as an object, and the encyclopedia's summary of the account is categorical:
+
+> "It is useless for human reality to seek to escape this dilemma: one must either transcend the Other or allow oneself to be transcended by him. The essence of the relations between consciousness is not the Mitsein (being-with); it is conflict." ([Sartre, Being and Nothingness, p. 429, quoted in Reynolds and Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/))
+
+Beauvoir, Sartre's contemporary and critic, turns the relation the other way. The Ethics of Ambiguity holds that the other's freedom is not the rival of mine but its condition:
+
+> "The ends which it gives itself must be unable to be transcended by any reflection, but only the freedom of other men can extend them beyond our life. ... Only the freedom of others keeps each one of us from hardening in the absurdity of facticity." ([Beauvoir, The Ethics of Ambiguity, Part II, ch. 1](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm))
+
+The disagreement turns on what the other's freedom does to mine. Sartre holds that it competes with mine at the root: to be seen is to be fixed, and every relation between two consciousnesses re-enacts the contest. Beauvoir holds that without others' freedom mine has nothing to work on: projects are defined only by their interference with other projects, and "no man can save himself alone". My lean is Beauvoir's for the exercise wing, and the dossier's own interdependence card carries that lean; but Sartre's conflict thesis is not answered by it, because the Look is a real hazard, and any account of shared freedom has to say what it does with being seen.
+
 ## Practice: the constraint, and what remains inside it
 
 ::Variation:: What tends to need varying on this theme is the lived-as-determined default, the reading of one's own situation as fixed fact end to end. The practices meet it by shrinking the frame to what is genuinely not up to you and enumerating what remains.
