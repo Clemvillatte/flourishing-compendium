@@ -27,5 +27,7 @@
    "from": "worker-pplx-t2b-1025w",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:11:44+00:00"
 }
