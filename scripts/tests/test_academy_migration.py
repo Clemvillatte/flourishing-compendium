@@ -55,16 +55,25 @@ def load_current():
 
 
 def load_pre_migration():
-    """The block as it was before the migration, from git history (HEAD~ if
-    the migration commit is HEAD, else HEAD)."""
-    for rev in ('HEAD~1', 'HEAD~2', 'HEAD'):
+    """The block as it was before the migration, from git history: the most
+    recent revision of app.js whose block still has schemaVersion 1. Walks
+    the revisions that touched app.js so unrelated commits on top of the
+    migration cannot hide the pre-migration state."""
+    revs = subprocess.run(
+        ['git', 'log', '--format=%H', '-20', '--', APP_JS],
+        cwd=ROOT, capture_output=True, text=True, check=True)
+    candidates = revs.stdout.split() or ['HEAD']
+    for rev in candidates:
         try:
             out = subprocess.run(
                 ['git', 'show', f'{rev}:site/assets/app.js'],
                 cwd=ROOT, capture_output=True, text=True, check=True)
         except subprocess.CalledProcessError:
             continue
-        data = decode_block(out.stdout)[0]
+        try:
+            data = decode_block(out.stdout)[0]
+        except AssertionError:
+            continue
         if data.get('schemaVersion') == 1:
             return data
     raise AssertionError('pre-migration block not found in git history')

@@ -75,6 +75,27 @@ independent review). One candidate was rejected during the source strategy:
 |---|---|---|---|
 | springer s41465-022-00254-7 (Lodha and Gupta, mindfulness and attentional networks review) | rejected | the Springer page describes subscription content with purchase options, so it fails the owner's no-paywall ruling (2026-10-25); replaced in the strategy by PMC6430178, PMC10301152 and PMC4171985 | 2026-10-25 |
 
+### Verified lecture candidates (2026-10-25, batch 5)
+
+Yale Open Courses PSYC 110 lectures, verified per the skill's standard:
+existence via YouTube oembed, duration via the watch page (lecture 17 via
+the watch page's lengthSeconds field), instructor via the institutional
+OYC course page (Paul Bloom, Brooks and Suzanne Ragen Professor Emeritus
+of Psychology, Yale), free access, transcripts available on the OYC pages
+(lecture 11's page was opened and shows a transcript section). Content
+classification rests on the OYC course page's lecture descriptions and
+the available transcripts; segment-level assignment with start and end
+timestamps happens at module production.
+
+| Lecture | YouTube id | Duration | Planned use |
+|---|---|---|---|
+| 1. Introduction | P3FKHH2RzjI | 29:37 | M1 orientation |
+| 11. Emotions, Part I | 8UySWKNjw5Y | 53:15 | M2 affective |
+| 12. Emotions, Part II | i5IrSEIPdwk | 56:06 | M2 affective |
+| 14. What Motivates Us: Sex | RCNgknc7Qv8 | 52:47 | M6 motivational |
+| 16. Self and Other, Part I | jsrB5m3mL-A | 58:15 | M5 self |
+| 17. Self and Other, Part II | S6OfFaBWtx4 | 64:53 | M5 self |
+
 ## Coverage matrix (v3, current; supersedes v1, v2 and v2.1)
 
 Module plan (proposal, pending advisor review; module ids are placeholders
@@ -94,7 +115,7 @@ blocking gaps on the register, not quiet omissions.
 | framework | Levels of analysis: biophysiological and sociocultural as context, idiographic multilevel assessment (essential: the EEMM is multilevel; see the context proposal in the scope doc) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/) | M1 | reading | identify levels of analysis in a case study | level-labelling exercise |
 | framework | Research literacy: falsifiability, design, NHST, Type I and II errors, replication, theories (essential: the owner's exit capability requires critical reading of current research) | [Smith, Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist) | M1 | reading plus worked appraisal | appraisal of one study | appraisal rubric |
 | affective | What emotions are and do: functions across intrapersonal, interpersonal and cultural levels (essential: the affective dimension's core content) | [Hwang and Matsumoto](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus lecture | function-spotting in a personal episode | episode analysis rubric |
-| affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the state-of-the-art debate on regulation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading plus Yale OYC emotion lectures (verification pending) | apply the process model to a personal episode | case analysis rubric |
+| affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the state-of-the-art debate on regulation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading plus verified OYC lectures 11 and 12 | apply the process model to a personal episode | case analysis rubric |
 | affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
 | affective | Affective neuroscience (elective: the degree aims at process knowledge at the psychological level; neural evidence is supporting depth, offered as an elective branch) | [Harmon-Jones and Harmon-Jones](https://nobaproject.com/modules/affective-neuroscience) | M2 | reading | map emotional systems to the dimension's processes | mapping exercise |
@@ -108,7 +129,7 @@ blocking gaps on the register, not quiet omissions.
 | self | Identity development: exploration and commitment, identity domains, narrative identity (essential: how the self develops over time) | [Branje et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/) | M5 | reading | chart an identity domain over time | domain-chart rubric |
 | self | Personality and traits: Five-Factor Model, person-situation debate (essential: stable individual differences in self and behaviour) | [Diener and Lucas](https://nobaproject.com/modules/personality-traits) | M5 | reading | trait-description exercise with the person-situation caveat | written trait account |
 | self | Self as an EEMM dimension; the FAP target (specification of the stimuli controlling the verbal response "I") as one FAP-specific application (essential: ties the dimension back to the framework) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) Table 1 | M5 | reading | apply the EEMM self dimension to one personal pattern | written synthesis |
-| motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: the field's dominant framework) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus Yale OYC motivation lecture (verification pending) | classify personal motivations on the continuum | classification with reasons |
+| motivational | Intrinsic and extrinsic motivation; the autonomy continuum and basic needs (essential: the field's dominant framework) | [Ryan and Deci 2020](https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf) | M6 | reading plus verified OYC lecture 14 | classify personal motivations on the continuum | classification with reasons |
 | motivational | Goals of regulation and motivation: hedonic, instrumental, eudaimonic; control-value theory (essential: links motivation to affect) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M6 | reading | link emotion-regulation goals to motivational states in a case | written link analysis |
 | motivational | Goal pursuit and adherence: intrinsic versus extrinsic reasons, resolution studies (essential: the current state-of-the-art question on sticking with goals; results to be extracted from the paper at module production) | [Woolley et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13428958/) | M6 | reading | design an adherence analysis for one own goal | analysis rubric |
 | overt behavioural | Habit formation and change: context cues, learned associations, habits versus self-control, change strategies (essential: the dimension's central evidence) | [Carden and Wood 2018](https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Carden.Wood_.2018.pdf) | M7 | reading | habit diary with cue analysis | diary rubric |
@@ -158,9 +179,11 @@ distinguishing mechanisms from outcomes.
 
 ## Gap register (blocking or open)
 
-- Verified video lectures: none attached yet. Candidates (Yale OYC,
-  current talks) must pass the skill's verification standard including
-  YouTube oembed plus watch-page duration before attachment.
+- Verified video lectures: six Yale OYC PSYC 110 lectures verified to the
+  standard (see Verified lecture candidates above) and available for module
+  attachment; segment-level assignment with timestamps happens at module
+  production. Current state-of-the-art talks per dimension are still to be
+  sourced during production.
 - Self-regulation beyond the ego depletion debate: Dang 2018 grounds the
   debate; a broader current self-regulation review is still open if module
   production needs one.
