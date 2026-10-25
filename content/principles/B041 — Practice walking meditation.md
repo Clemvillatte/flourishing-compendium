@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 41** — Practice walking meditation
 
-I can give an ordinary walk my attention. MN 10 includes walking among the bodily postures a monk is to know:
+An ordinary walk can hold attention. MN 10 includes walking among the bodily postures a monk is to know:
 
 > "Furthermore, when walking, the monk discerns, 'I am walking.'" ([Thanissaro's translation, body section A.2](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-The passage also names standing, sitting and lying down; its next section extends alertness to going forward and returning, bending limbs and other daily activities ([MN 10, A.2–3](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). These instructions give me a way to practise during movement.
+The passage also names standing, sitting and lying down; its next section extends alertness to going forward and returning, bending limbs and other daily activities ([MN 10, A.2–3](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)). These instructions give a way to practise during movement.
 
 I keep the research questions separate. [Oppezzo and Schwartz](https://aaalab.stanford.edu/assets/papers/2014/Give_your_ideas_some_legs.pdf) studied walking and creative task performance. [Bratman and colleagues](https://pubmed.ncbi.nlm.nih.gov/26124129/) compared 90-minute nature and urban walks in healthy participants, finding reduced self-reported rumination after the nature walk. These are different questions from the posture-awareness practice I draw from the sutta.
 
 **Plain words**
-While walking, notice that you are walking. Let the movement be something you attend to. I would begin with a short, safe route and see what I actually notice.
+Meditation advice usually pictures a cushioned room; this practice takes the most ordinary thing a body does all day, putting one foot in front of the other, and turns it into the object. The instruction in the sutta is almost comic in its plainness, knowing "I am walking" while walking, and that plainness is the point, since the knowing travels: standing, bending, walking to the door. A short, safe route to begin with, and whatever is actually noticed along it is the lesson.
 
 **For example**
 Imagine walking along a quiet corridor between meetings. You notice a foot meeting the floor, then realise you are rehearsing an argument. Return attention to the next step.
