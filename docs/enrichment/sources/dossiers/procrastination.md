@@ -3,14 +3,15 @@
 Worker: worker-pplx-dos33-1025c (band dos33 taken over from the released
 dos33 baton; the provisional prep by worker-pplx-dos33-1025b is
 incorporated: the 27-card inventory and carriers named below).
-Dossier: docs/enrichment/dossiers/procrastination.md, rev 4 (rev 1:
+Dossier: docs/enrichment/dossiers/procrastination.md, rev 5 (rev 1:
 first draft 2026-10-25, 3a467c4a1; rev 2: 7aaef2f86, advisor round 1;
-rev 3: afd01294e, coverage closed; rev 4: this entry, advisor round 2).
-Checker at rev 4: exit 0 (35 card link occurrences over 32 distinct
+rev 3: afd01294e, coverage closed; rev 4: 30a3e4da3, advisor round 2;
+rev 5: this entry, advisor round 3).
+Checker at rev 5: exit 0 (35 card link occurrences over 32 distinct
 cards, 12 headers, 2 external carrier link occurrences across 2
 distinct URLs).
 
-## Verification method (rev 4)
+## Verification method (rev 5)
 
 Both block quotations are verified word-for-word against UNPROMPTED raw
 carriers opened this session:
@@ -163,11 +164,12 @@ flagged, not hidden.
    of procrastination.
 6. Nearby-terms catalogue narration ("the corpus holds it twice",
    "the map keeps both") replaced with the substantive distinction.
-7. The Akrasia and Self-forgiveness glosses were re-checked against
-   their card bodies: Hart's Bayesian insufficiency, Protagoras's
-   opposite position, Conti's Pull, Arpaly's Hal, Raja's desert-cave
-   account and Buber's Twofold Being are all carried on the cards
-   read this session; the glosses stand.
+7. INCORRECT AND SUPERSEDED by the round-2 card-file checks: this
+   item claimed the named-person material (Hart, Protagoras, Conti,
+   Arpaly's Hal, Raja, Buber) was verified against the card bodies;
+   the round-2 grep of the card files showed that material is NOT on
+   those cards, and the glosses were rewritten in rev 4. Retained
+   here as the record of the error.
 
 ## Scope and honest limits (rev 2, supersedes rev 1)
 
@@ -188,10 +190,14 @@ a new subtheme, "The shape of the task and its pull" (MO048, K189,
 MO026, MO027, MO021, MO022), and lever entries beside their kin
 (MO047 with K185, MO025 with K153, MO033 with Pre-commitment as
 wisdom and K269). All 27 inventoried cards are now read and glossed;
-the map is exhaustive against the prep's sweep. The stories remain
+the map's coverage is verified only as the working set (32 distinct
+   linked cards, 3 of them stories, every linked non-story card read);
+   the earlier exhaustive-against-the-sweep certification is withdrawn
+   in rev 5 as not demonstrated against the manifest. The stories remain
 selected from outside the sweep, as flagged. Checker exit 0 (35 card
 links, 12 headers, 2 external carriers; the 11 in this record as first
-appended was a transcription error, corrected in rev 4).
+appended was a transcription error, corrected in rev 4; rev 5 marks
+the superseded assertions in the round records above).
 
 ## Advisor QC round 2 — repairs applied in rev 4
 
@@ -215,8 +221,10 @@ appended was a transcription error, corrected in rev 4).
    (experiment 1) and official-record turnout in two statewide
    elections (experiments 2 and 3), not "registration" as such.
 3. Reading claims reconciled: the prep's inventory resolves to 29
-   unique cards (the "27" was the prep's row count, some rows
-   multi-prefixed); all 29 are now read and glossed; the dossier
+   unique cards by my enumeration (the earlier parenthetical
+   explaining the prep's row count is withdrawn in rev 5 as not
+   demonstrated against the manifest); all 29 are now read and
+   glossed; the dossier
    links 32 distinct cards (the three stories are from outside the
    sweep, which is how 29 read + 3 stories covers 32 linked). The
    reads were relevant-section excerpts for most cards (opening,
@@ -238,7 +246,7 @@ appended was a transcription error, corrected in rev 4).
 7. Nearby-terms: the catalogue narration removed; the distinction
    stated substantively.
 
-## Scope and honest limits (rev 4, supersedes rev 2's)
+## Scope and honest limits (rev 5, supersedes rev 2's)
 
 - Coverage: all 29 inventoried cards read in relevant sections and
   glossed; three stories from outside the sweep, fit flagged.
