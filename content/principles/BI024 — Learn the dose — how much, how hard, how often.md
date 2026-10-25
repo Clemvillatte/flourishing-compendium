@@ -21,10 +21,10 @@ For preventing depression, a meta-analysis of 15 prospective studies found a cur
 Schuch 2018 and Kim 2019 are listed as further reading, and the claim that too much exercise is linked to worse mental health is not verified here. Most of the dose evidence is observational.
 
 **Plain words**
-Some regular activity is linked with better mental health, and the first steps up from none give the largest gain. For treating depression, harder exercise does better in trials.
+The dose question has a boring answer with an interesting twist. Boring: some beats none, most days of the week, at a pace you can still talk through. Interesting: the first step up from the couch buys more mental-health ground than any later one, so the unfit get the best deal in the building. For lifting an existing depression, the trials lean the other way from the folk advice — harder effort does better there.
 
 **For example**
-If you are inactive, start with a brisk walk of about 30 minutes a few times a week and track your mood for a month.
+If you are inactive, start with a brisk walk of about 45 minutes, three to five times a week, and track your mood for a month.
 
 ## Sources
 
