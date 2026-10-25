@@ -220,3 +220,24 @@ Stockdale's use of Epictetus in Vietnam captivity. Speaker identity:
 Richard Sorabji FBA per the transcript title page. The transcript prints
 no time markers and the Gresham page prints no duration: the duration
 gap for workload arithmetic remains open.
+
+## Socratic-method gap: wiki inventory (recorded 2026-10-25, worker-pplx-greek-1)
+
+Harvest preparation for the coverage gap (no module yet teaches Socrates
+and the examined life; see the superseding coverage matrix). Wiki pages
+opened this session and held to be the reading basis for a future module:
+
+- T011 Socrates (thinker page, 3760 words as counted this session):
+  life, questioning practice, trial and death.
+- Three sayings pages, each grounded in Plato's Meno: "assume nothing"
+  (161 words), "test through experience" (157 words), "elicit, don't
+  impose" (156 words).
+- ST155 Meno's Paradox (story, 266 words), in the ST-S04.04 phronesis
+  chapter.
+- K236 Community of inquiry (kernel, 629 words), on inquiry as communal
+  practice.
+
+No video candidate for this module is proposed yet: free recordings
+classifiable from the recording or transcript are still to be sourced and
+verified. Production stays behind the Phase 0 stop-gate; this inventory
+is preparatory only.
