@@ -85,3 +85,6 @@
 ## Marcus Aurelius link fix (S075, S124, S126) and B185 source link
 - The three pages quote George Long's wording, which I found verbatim in Gutenberg 6920 ("Thoughts of Marcus Aurelius"), but linked Gutenberg 15877 where the wording does not appear. Links corrected to 6920 (quotes checked programmatically after normalisation). B185: replaced the unopened archive.org rar link with the TNH PDF I opened (all three quotes verified there; chapter attributions confirmed).
 - Note for supervisor: many older pages put a [[T0xx ...]] related-concept line under '## Sources' (e.g. B185, B183, D019); cosmetic but systemic.
+
+## SO034 Treat knowledge as social
+- Peirce 'Fixation of Belief' (Wikisource) opened. The third block quote spliced 'To bring about this effect is the prerogative of the method of science' (a sentence from a later section) onto the 'external permanency' passage, which actually ends 'Such is the method of science.' Fixed; softened two unsupported claims (classic statement of social view; science alone builds community into method). S014: restored Long's 'unto' in Meditations X.5 quote.

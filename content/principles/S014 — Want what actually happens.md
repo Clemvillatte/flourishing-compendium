@@ -30,7 +30,7 @@ The same chapter defines the freedom this buys: "For he is free to whom all happ
 
 Marcus gives the cosmology behind it:
 
-> "Whatsoever it be that happens unto thee, it is that which from all time was appointed unto thee. For by the same coherence of causes, by which thy substance from all eternity was appointed to be, was also whatsoever should happen to it, destinated and appointed." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations X.5, tr. George Long, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
+> "Whatsoever it be that happens unto thee, it is that which from all time was appointed unto thee. For by the same coherence of causes, by which thy substance from all eternity was appointed to be, was also whatsoever should happen unto it, destinated and appointed." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations X.5, tr. George Long, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
 
 **Plain words** The move works by narrowing what you require. Your wishes about weather, traffic, and other people's choices sit outside your power, so each one is a standing bet against the world. Epictetus's proposal keeps the wanting and changes the target: align the wish with what is already occurring, and the gap between demand and reality closes without the world changing at all. Run it on one small case first, like the rain example, since the practice scales badly if you start with your worst year.
 
