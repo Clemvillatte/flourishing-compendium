@@ -30,6 +30,16 @@
     "SUPERVISOR/OWNER: leisure at 2 substantiated, needs 1 more; next lead recorded in ledger (Veal 2017 Leisure Sciences, typology-vs-theory axis)",
     "OWNER: registry flip and rebuild still blocked on artwork assignment"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025k",
+   "state": "QC round 11: typology-vs-theory axis added as labelled evidential challenge ('What does the framework explain?') after advisor QC rejected it as a third substantiated dispute (untested theory is still a theory; macro-level scope mismatch); Veal 2017 Leisure Sciences opened as carrier 14; Stebbins 'classification and explanation of all leisure activity' line raw-verified and recorded in ledger as future carrier. Count stays TWO substantiated; bar unmet at lower bound; per advisor the obstacle is missing primary evidence for an incompatible third proposition.",
+   "verification": "Veal 2017 quotes raw-verified against fetched OPUS accepted-manuscript PDF; all checks green (exit 0, 37/37 quotes, 0 dense, voice 0)",
+   "flags": [
+    "SUPERVISOR/OWNER: leisure at 2 substantiated; third requires a new primary-text incompatibility, leads recorded in ledger",
+    "OWNER: registry flip and rebuild still blocked on artwork assignment"
+   ]
   }
  ],
  "in_progress": "",

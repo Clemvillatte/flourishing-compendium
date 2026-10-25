@@ -108,6 +108,14 @@ Veal's sharpest charge is about the evidence. "Claims concerning the unique qual
 
 The disagreement is genuine, and both sides are carried here by their own texts. Stebbins asserts two forms with sharply different experiences; Veal argues the forms blur into a continuum and that the uniqueness claims have not had the comparative testing their weight deserves. Veal's challenge is to the evidential basis, not a demonstration that the rewards are absent. For the relaxation-versus-effort question above, that means the two categories cannot settle it by themselves, since whether they are categories at all is what these two are arguing about.
 
+### What does the framework explain?
+
+Stebbins presents the perspective as, in his words, "a theoretic framework that synthesizes three main forms of leisure, showing, at once, their distinctive features, similarities, and interrelationships" ([Stebbins, LSA Newsletter 79, 2008](https://www.seriousleisure.net/uploads/8/3/3/8/8338986/reflections17.pdf)). The three forms and their rewards are meant to fit together into one account of free time.
+
+Veal's evaluation in Leisure Sciences asks what has actually been tested. His paper "evaluates the perspective as theory and as a typology", and its verdict on the theory is that "the theory associated with the SLP, concerning social worlds, identification and optimal leisure lifestyles, is found to be generally untested because it has been largely developed in relation to the serious leisure form only" ([Veal, The serious leisure perspective and the experience of leisure, 2017](https://opus.lib.uts.edu.au/bitstream/10453/45585/4/ABFBC890-A526-452D-9A94-02E3528ED6AE%20am.pdf)). In a later paper he took up the macro level, judging "the claim that the SLP offers a viable macro-level theoretical framework for the study of leisure is questionable" ([Veal, A critique of serious leisure as theory, 2021](https://opus.lib.uts.edu.au/bitstream/10453/147640/3/A%20critique%20of%20serious%20leisure%20as%20theory.pdf)).
+
+The challenge is to the evidence and the explanatory reach, not to the framework's usefulness as a description. An untested theory is still a theory, and Veal's own phrasing keeps the word. What his critique leaves open is whether the perspective explains anything beyond the sorting, and that question waits on comparative research across all three forms.
+
 ### Can uselessness be the point
 
 Zhuangzi ends a story about a huge useless tree with an invitation:
