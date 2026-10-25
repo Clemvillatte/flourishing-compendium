@@ -66,7 +66,7 @@ The traditions that question its premise are also its kin: [[Anatta]] and [[Self
 - [[K359]] — The mirror examines the gap between an institution's stated self and its actual practice, the organizational analogue of authenticity.
 - [[K313]] — The kernel turns authenticity into a monthly procedure: inventory the projects, compare who they express with who you are trying to become.
 - [[K310]] — The page pairs authenticity's existential ground with the honest restatement that makes a choice one's own.
-- [[K320]] — The page anchors authenticity's alignment requirement with the self-concordance evidence and Seneca's waste-of-life warning.
+- [[K320]] — The page anchors authenticity's alignment requirement with the self-concordance evidence and [[T013 — Seneca|Seneca]]'s waste-of-life warning.
 - [[K312]] — The kernel gives authenticity a decision-level test, the autonomous-versus-introjected distinction from Sheldon & Elliot 1999 quoted verbatim with Sartre's responsibility behind it.
 - [[Seriousness (le sérieux)]] — the freedom the spirit of seriousness trades away
 - [[Self-trust]] — the owning of one's own mind Emerson's essay demands
