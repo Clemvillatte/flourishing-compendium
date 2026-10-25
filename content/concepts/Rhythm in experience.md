@@ -13,6 +13,10 @@ Dewey describes experience as a connected movement of doing and undergoing: we a
 
 The relation matters more than alternation alone: earlier acts contribute to a developing whole, while undergoing prevents the sequence from becoming a disconnected succession of excitations ([chapter III](https://people.wou.edu/~girodm/middle/having_an_experience.pdf)). This is an account of the organisation of experience, not a clinical finding about a particular breathing exercise.
 
+The breathing comparison is doing more work than it first appears to. Breathing is a rhythm in which the phases alternate but are not interchangeable — the intake and the outgiving do different things, and a person cannot hold one at the expense of the other without losing the rhythm. Dewey's claim about experience is the same one made about that cycle: the doing is what the person supplies, the undergoing is what arrives in return, and neither phase is a complete experience on its own.
+
+The practical reading is about the pause rather than the activity. A person who treats interruption as lost time is treating an experience as a sequence of excitations rather than as a developing whole, since the interval is what gives the earlier phase something to settle into. A person applying the concept can ask of any stretch of work where the intake ends and the outgiving begins, and the question is answerable in a way that a question about total time spent is not.
+
 ## Sources
 
 - Dewey, Art as Experience
