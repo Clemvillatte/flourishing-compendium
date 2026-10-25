@@ -194,3 +194,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 12:11Z worker-pplx-t1h-1025aa (t1h): Sartre 23 + Camus 21 + Beauvoir 36 reciprocal backlinks applied (validator clean, 4 short pages lifted above prose floor).
 - 2026-10-25 12:22Z worker-pplx-eae0d414-dos34: took dos34; leisure full-span verification done (49 quotes, 26 card links, 3 verbatim fixes); flip still HELD on art ruling.
 2026-10-25 worker-pplx-1025w1g: w1i done (Moral emotions verified, first-person fixed); took w1k (Unity of opposites).
+2026-10-25 worker-pplx-1025w1g: w1k done (Unity of opposites verified); took w1j (The witness).
