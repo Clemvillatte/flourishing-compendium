@@ -9,6 +9,8 @@ carries a UTC timestamp and the agent id.
 | https://web.stanford.edu/~jsabol/existentialism/schedule.html | 2026-10-25T11:35 | strategist-pplx-1025-launch-c | Stanford Phil 78 Hands-On Existentialism schedule; ten sessions Kierkegaard to Beauvoir |
 | https://philosophy.ucla.edu/wp-content/uploads/2026/03/PHILOS-177A-Syllabus-Molina-Alonso.pdf | 2026-10-25T11:35 | strategist-pplx-1025-launch-c | UCLA PHILOS 177A syllabus; full Heidegger/Sartre reading arc, themes, paper-based assessment |
 | https://www.uno.edu/media/39046/download | 2026-10-25T11:35 | strategist-pplx-1025-launch-c | UNO PHIL 3511 syllabus; 15-week plan with literary pairings, activities, assessment; no Frankl/therapy content |
+| https://provapps.gmu.edu/CERS/exportfiles/attachment/Syllabus-PSI-3114E.pdf | 2026-10-25T11:39 | strategist-pplx-1025-launch-c | USFQ PSI 3114E Existential Psychology syllabus (GMU CERS export); Frankl logotherapy spine, documented personal meaning-search outcome |
+| https://shnaton.huji.ac.il/index.php/NewSyl/3975/2/2024/ | 2026-10-25T11:39 | strategist-pplx-1025-launch-c | Hebrew University 3975 Basics of Existential Therapy syllabus; Yalom/Frankl/May readings, clinical-use outline, essay assessment |
 
 ## Verification outcomes
 

@@ -9,6 +9,8 @@ carries a UTC timestamp and the agent id.
 | https://faculty.georgetown.edu/blattnew/prag/index.shtml | 2026-10-25T11:32 | strategist-pplx-1025-launch-c | Georgetown PHIL 351 Blattner course page; themes, required texts (James, Dewey, Peirce, Putnam, Rorty), two-paper assessment |
 | https://public.econ.duke.edu/~kdh9/Courses/Pragmatism/$American%20Philosophy%20Syllabus%20Fall%202016.pdf | 2026-10-25T11:32 | strategist-pplx-1025-launch-c | Duke PHIL 333 Fall 2016 syllabus; full Peirce-James-Dewey-Rorty reading schedule and assessment |
 | https://www.uh.edu/~cfreelan/courses/americanphil/american.html | 2026-10-25T11:32 | strategist-pplx-1025-launch-c | Houston American Philosophy course page; Emerson-to-West survey structure and texts |
+| https://www.csun.edu/~lmchenry/WhiteheadsMetaphysics.html | 2026-10-25T11:39 | strategist-pplx-1025-launch-c | Edinburgh Honours Option Whitehead's Metaphysics (McHenry) course page; 11-week topic list, Process and Reality arc, critical evaluation |
+| https://cobb.institute/wp-content/uploads/2022/08/Introduction-to-Process-Thought-and-Practice-Syllabus.pdf | 2026-10-25T11:39 | strategist-pplx-1025-launch-c | Cobb Institute process thought and practice syllabus; roots/trunk/branches with personal-life and community application, project assessment |
 
 ## Verification outcomes
 

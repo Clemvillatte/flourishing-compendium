@@ -349,3 +349,18 @@ still blocks module production.
   guides for living; elective branch if the owner wants them). All
   Gate-1 sign-offs remain with the degree owner; the strategist holds
   the groundwork complete for all six walk scopes.
+- 2026-10-25 strategist-pplx-1025-launch-c (gap closures): the two
+  anchor gaps flagged in the benchmarks above were closed the same
+  hour. Existentialism: two therapy-anchored syllabi opened (USFQ
+  PSI 3114E Existential Psychology, a Frankl-logotherapy spine with a
+  documented personal meaning-search outcome; Hebrew University 3975
+  The Basics of Existential Therapy, Yalom/Frankl/May readings with
+  clinical use), so the therapy half no longer needs an anchor before
+  Gate 1; the evidence-and-limits clause still exceeds both syllabi
+  and the Binswanger/Boss elective remains unanchored (recorded in
+  the scope doc). Pragmatism: process thought is now anchor-verified
+  as a strand (Edinburgh Honours Option Whitehead's Metaphysics; Cobb
+  Institute process thought and practice syllabus), with its
+  placement beside the pragmatists remaining the scope's own choice;
+  the gap flag is downgraded accordingly. Both scope docs and both
+  ledgers updated.
