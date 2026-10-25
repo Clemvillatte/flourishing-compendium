@@ -5441,6 +5441,34 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
+          "x": "Does introspection find a self?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question, stated narrowly: when a person looks within, what is found? Descartes, in the hour of radical doubt, answers that the looking itself is the one indubitable finding. Of the proposition the demon cannot touch he writes: \"this proposition (pronunciatum) I am, I exist, is necessarily true each time it is expressed by me, or conceived in my mind\" (Meditation II, [Veitch translation](https://en.wikisource.org/wiki/Meditations_on_First_Philosophy/Meditation_II)). What doubt leaves standing is not the body or the name but the thinker: \"I am therefore, precisely speaking, only a thinking thing, that is, a mind (mens sive animus), understanding, or reason\" (Meditation II)."
+        },
+        {
+          "t": "p",
+          "x": "Hume, a century later, turns the same question on the search itself and reports the opposite result. Entering \"most intimately into what I call myself,\" he writes, he \"always stumble[s] on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception, and never can observe any thing but the perception\" (Treatise 1.4.6, [Gutenberg](https://www.gutenberg.org/cache/epub/4705/pg4705.txt)). One examination finds a thinker; the other finds only thoughts."
+        },
+        {
+          "t": "p",
+          "x": "The precise difference is what the failure of the search is taken to prove. For Descartes, the demon's attack is self-verifying: whatever is deceived must exist as the one being deceived, so the self is the one thing radical doubt establishes rather than destroys. For Hume, the failure is a finding about the referent: the word \"self\" answers to nothing that appears, only to the flow that appears. His own consequence is blunt: \"When my perceptions are removed for any time, as by sound sleep; so long am I insensible of myself, and may truly be said not to exist\" (Treatise 1.4.6). What remains unresolved: whether the thinker Descartes reaches is discovered in the doubt or inferred from it."
+        },
+        {
+          "t": "h2",
+          "x": "Is the thinking self a substance?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: the thinker that survives doubt — is it a substance? Descartes answers yes: the thing doubt cannot dissolve is a thinking thing, a res cogitans, existing in the way substances exist. Kant answers no, and his denial is precise: \"I believe that I cognize what is substantial in myself as a transcendental subject, when I have nothing more in thought than the unity of consciousness, which lies at the basis of all determination of cognition\" (Critique of Pure Reason, [Meiklejohn translation](https://www.gutenberg.org/cache/epub/4280/pg4280.txt)). The step from the unity to the substance is, in his diagnosis, the standing error of rational psychology: \"the dialectical illusion in rational psychology arises from our confounding an idea of reason (of a pure intelligence) with the conception—in every respect undetermined—of a thinking being in general\" (Critique of Pure Reason)."
+        },
+        {
+          "t": "p",
+          "x": "The precise difference is what the \"I think\" is taken to deliver. Descartes reads it as a substance known from within; Kant argues it delivers only a formal unity of consciousness, and that the substantial self is an inference dressed as a discovery. What remains unresolved: whether that formal unity is enough self for the purposes a person has, or whether Kant's deflation merely relocates the question Descartes thought he had answered."
+        },
+        {
+          "t": "h2",
           "x": "Is the self separate or relational?"
         },
         {
