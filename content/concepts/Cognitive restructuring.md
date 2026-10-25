@@ -13,13 +13,15 @@ Cognitive restructuring is the technique family at the heart of cognitive therap
 
 The same review stresses that it is not one method but a collection: "Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." (Ezawa and Hollon, [Cognitive Restructuring and Psychotherapy Outcome: A Meta-Analytic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/), Psychotherapy, 2023) Its everyday vehicle is the thought record, which walks through "identifying, evaluating, and considering alternatives to automatic negative thoughts (i.e., thoughts that seem to occur instantaneously and on the fringe of awareness that affect mood and behavior)." (Ezawa and Hollon, [Cognitive Restructuring and Psychotherapy Outcome: A Meta-Analytic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/), Psychotherapy, 2023)
 
+What holds the family together is the order of operations. The techniques do not argue with the feeling first; they get the thought that produced it into the open, put it on paper where it can be examined, and let the evidence do the correcting. The thought record is a courtroom where the automatic thought is the defendant rather than the judge, and that is the whole change from ordinary rumination.
+
 ## Facets
 
 - **in CBT** — the technique family the definition sentence credits to Beck and colleagues (Beck et al., 1979).
 - **at the trigger point** — Gross describes reappraisal as a well-studied form of cognitive change: "One particularly well-studied form of cognitive change is reappraisal, which targets either the meaning of a potentially emotion-eliciting situation (as in the aforementioned examples), or the self-relevance of a potentially emotion-eliciting situation (e.g., 'This event doesn't directly involve me or anyone I love.'; see Kross & Ayduk, 2011)." (Gross, [Emotion Regulation: Current Status and Future Prospects](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf), Psychological Inquiry, 2015, "Cognitive Change" section, p. 8)
 - **reliance on evidence** — Mueser and colleagues describe the PTSD programme version: "Cognitive restructuring is taught as a self-management skill for dealing with negative feelings through the articulation of specific thoughts that underlie the distressing feeling, and the objective evaluation of evidence supporting those thoughts." ([British Journal of Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC4450219/), 2015)
 
-### Here
+### In the compendium
 
 - [[CO050 — Learn to question your thoughts — not every thought deserves belief]] — the core skill
 - [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the identification step

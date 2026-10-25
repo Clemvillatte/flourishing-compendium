@@ -15,6 +15,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Two consequences follow in the essay. Peirce describes belief as easing doubt and allowing thought to rest for a moment. Acting on a belief can bring further doubt and further thought. And since beliefs are habits, the meaning of an idea lies in what it disposes us to do. Peirce states that "the whole function of thought is to produce habits of action" and that "what a thing means is simply what habits it involves" (Peirce 1878). The essay's rule for making ideas clear follows from this: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
 
+The account quietly relocates doubt as well. Doubt is not the opposite of belief but the irritation the habit resolves, and the rest that follows is not the end of thinking but a pause it earned.
+
 ## Related concepts
 
 - [[Context-dependent behaviour (Wood & Neal)]] — the research model of context-cued responding, as a comparison
@@ -25,7 +27,9 @@ Two consequences follow in the essay. Peirce describes belief as easing doubt an
 
 - [Peirce, "How to Make Our Ideas Clear", Popular Science Monthly 12, January 1878 (peirce.org full text)](https://peirce.org/writings/p119.html) — the essence-of-belief passage, the function of thought and the habits-it-involves line
 
-[[CO064 — Recognise metacognitive beliefs — what you believe about your own thinking matters]]
+## Cited in psychology parallels
+
+- [[CO064 — Recognise metacognitive beliefs — what you believe about your own thinking matters]]
 [[CO082 — Build a cognitive-maintenance system — learn, adapt, retain]]
 [[P049 — Close the loop — single-loop and double-loop learning]]
 [[P051 — Take error as information]]

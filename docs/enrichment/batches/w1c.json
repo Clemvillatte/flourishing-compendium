@@ -89,7 +89,8 @@
   "Workability",
   "Being-in-the-world",
   "Autonomous motivation",
-  "Cognitive distortions"
+  "Cognitive distortions",
+  "Cognitive biases"
  ],
  "in_progress": null,
  "flagged": {
@@ -129,7 +130,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-25T12:13:57+00:00",
+ "updated": "2026-10-25T12:14:19+00:00",
  "band_done": true,
  "new_concepts": [
   {

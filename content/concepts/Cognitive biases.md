@@ -19,6 +19,8 @@ The same abstract carries the two-sided verdict — the shortcuts are economical
 
 The meta-analysis covered "172 studies (N = 2,263 anxious, N = 1,768 nonanxious)" ([Bar-Haim et al. 2007](https://pubmed.ncbi.nlm.nih.gov/17201568/)). The two sources bracket the concept: heuristics are not malfunctions but efficient shortcuts whose errors are predictable enough to study — and the anxiety literature adds that a bias can also mark a clinical state, selectively, and with moderate effect.
 
+The two-sided verdict matters for practice. Because the shortcuts are economical and usually effective, the point of learning them is not distrust of one's own mind but calibration: knowing which judgments are likely to be made too fast, and in which direction. Debiasing is hard precisely because the machinery is doing its normal work when it errs, and the compendium's own principle on it says as much in its title — learn debiasing, it is possible but hard.
+
 ## Facets
 
 - **in anxiety**
