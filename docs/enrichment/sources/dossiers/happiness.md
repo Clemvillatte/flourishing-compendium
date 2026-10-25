@@ -204,3 +204,18 @@ bot-wall exception class. No dossier edits.
 - 2026-10-25 11:00:47Z — repair, self-checked, pushed. Five of seven flagged spans fixed. The Wilson and Gilbert 2005 impact-bias span now machine-verifies through the author-manuscript PDF hosted at the University of Florida (bear.warrington.ufl.edu, opened this session; also used as carrier in decision-making). Four PubMed-anchored spans (valuing happiness 21517168; hedonic treadmill 16719675; Dunn 18356530; Aknin 23421360) now machine-verify through NCBI eutils plain-text abstract carriers added as second links. Note: the eutils endpoints rate-limit under rapid repeated fetches (HTTP 429), so a verifier run can transiently report these spans NOT FOUND; re-running after a pause clears it. Remaining flagged: the Spinoza Ethics span (sacred-texts.com now serves a Cloudflare challenge to automated fetchers).
 
 - 2026-10-25 11:06:17Z — follow-up repair, self-checked, pushed. The Dunn 2008 span's anchor still carried a malformed nested link from the earlier carrier insertion (the link repair pass missed it because of the differing surrounding text); it is now a proper two-link anchor and the span machine-verifies through the eutils carrier. Remaining flagged: the Spinoza Ethics span (sacred-texts.com serves a Cloudflare challenge to automated fetchers).
+
+## QC sample — partial (2026-10-25 11:12Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported 3 not found. Verified this pass:
+- Spinoza, Ethics Part 3 (sacred-texts.com): the definition spans VERBATIM
+  ("Pleasure is the transition of a man from a less to a greater
+  perfection." and "Pain is the transition of a man from a greater to a
+  less perfection."). The eth03.htm page is JS/fragment class for the
+  checker; direct fetch returns the text.
+Handoff: the two PubMed abstract spans (Dunn/Aknin/Norton 2008,
+18356530; 32250135) — the PubMed page bot-walls, E-utilities was
+robots-disallowed this pass (it worked earlier in the day for Burke
+2010), and the Europe PMC REST endpoint is uncrawlable for this
+fetcher. Next pass: retry E-utilities, or verify via the publisher
+abstract pages. No dossier text changes needed for the verified spans.
