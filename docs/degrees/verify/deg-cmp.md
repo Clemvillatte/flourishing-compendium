@@ -212,3 +212,9 @@ HTML and could not be re-confirmed from the opened page. The
 substantive conclusion (hour-plus lecture; 3:20 cannot be the
 length) is unaffected, but the exact figures should be treated as
 snippet-sourced pending a direct card read.
+
+Access-label re-check (same session, later): the YOQI video page's
+static HTML shows only "VIDEO ON DEMAND" with no pricing, trial, or
+login prompt — the access condition cannot be read from the static
+page (player is JS-rendered). The module owner's access-condition
+label remains required before attachment.
