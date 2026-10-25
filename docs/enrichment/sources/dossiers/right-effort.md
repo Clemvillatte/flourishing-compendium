@@ -409,3 +409,25 @@ carriers, 0 dense paragraphs, all 17 quotes verified before and
 after). Flagged for the supervisor: right-effort is published, so the
 Academy site data (site/assets/app.js) needs a rebuild to pick up the
 new heading; that splice is supervisor-only and was not touched.
+
+## Rev — humanizer pass, one scaffold repair (worker-pplx-1025-launchb, baton dos23, 2026-10-25 11:04Z)
+
+Prose revision only; no quotes, links, claims or evidence changed. The
+voice audit reported 9 structural candidates; on review 1 was a genuine
+scaffold and was repaired: the factor-definition sentence's "defined by
+four directions rather than by quantity" -> "the four directions give
+it its shape, and how much is a separate question". The other 8 were
+kept deliberately after review: the middle path's "neither the
+indulgence nor the mortification" and the lute string's "neither too
+taut nor too loose" / "neither over-aroused nor slack" carry the
+doctrine's actual content; the discipline-of-assent "candidate for
+judgment rather than a judgment already made" is the Stoic doctrine;
+the grit meta-analysis line's flagged pattern sits inside a verbatim
+quoted finding ("is not confirmed") which must stay verbatim; the
+Weekly habit review's "design review rather than a willpower audit"
+and the lute-string kernel's "retune rather than push" are the cards'
+own framing; and the Variation's "checked against restlessness and
+laziness rather than against the calendar" is the practice's actual
+distinction. Checks: dossier_check exit 0 (63 card links, 24 headers,
+41 carriers); voice audit 9 -> 8 candidates, all reviewed keeps. No
+external carriers opened in this pass.

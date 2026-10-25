@@ -15,7 +15,7 @@ Effort has two dimensions the traditions are careful to separate: where it goes,
 
 ### What the factor asks for
 
-[Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort) is the sixth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), the fourth Noble Truth's summary of the training. It sits inside [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) in the concentration division alongside mindfulness and concentration, and it is energy aimed at the mind itself, defined by four directions rather than by quantity.
+[Right effort](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20effort) is the sixth factor of the [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path), the fourth Noble Truth's summary of the training. It sits inside [the three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings) in the concentration division alongside mindfulness and concentration, and it is energy aimed at the mind itself; the four directions give it its shape, and how much is a separate question.
 
 The sibling factors [right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech), [right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) and [right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood) each carry their own dossier in this programme.
 
