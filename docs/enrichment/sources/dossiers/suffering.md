@@ -113,3 +113,25 @@ Corrections made in this pass:
 Per HUMANIZER-SKILL.md: no meta-text openers, no banned phrases, no
 verification labels in the body, story loglines describe events,
 practice labeled editorial.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton; read-only — dossier unowned)
+
+This dossier is unowned and flagged for supervisor disposition, so this
+pass made no edits; it records the check result for the supervisor.
+All 21 concept and principle entries in the map were compared against
+their linked cards (card files opened and read side by side with the
+glosses): the Dukkha and Four Noble Truths cluster with the
+tasks-not-propositions reading, Stuckness as suffering, Tanha, the
+avoidance of suffering, the second arrow (SN 36.6), Jaspers's limit
+situations, Frankl's meaning of suffering and tragic optimism,
+Enchiridion 5 with the two-arrow pairing, chronic pain acceptance
+(McCracken-Vowles), meaning-making (Park), post-traumatic growth and
+benefit finding with the anti-romanticizing boundary carried, karuna,
+the M020 and Y011 principles, and the pain-science cluster (Melzack-
+Wall gate control, Melzack's neuromatrix, the pain curve, Montaigne's
+body-mind unity in pain). Every gloss matches its card. No mismatches
+found; no edits made. The voice-audit candidates here are
+card-faithful; the keep-or-recast decision is a voice/style call.
+
+Checks: dossier_check.py exit 0 (run this session). Editorial review
+only; no external carriers freshly opened this pass.

@@ -123,3 +123,20 @@ were kept, and all verification evidence lives in this ledger.
    still be revising it; if the Agency writer re-maps the flight-and-will
    cards, this dossier's map should be checked against the final agency.md
    before publishing.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton; read-only — dossier unowned)
+
+This dossier is unowned and flagged for supervisor disposition, so this
+pass made no edits; it records the check result for the supervisor.
+All 8 concept entries in the map were compared against their linked
+cards: Fromm's escape from freedom with its negative-freedom framing,
+Brehm's psychological reactance, Sartre's radical freedom, anguish with
+the vertigo passage, situated freedom, Rousseau's natural liberty
+versus the chains, the Cynic's freedom (eleutheria, autarkeia,
+parrhesia, with the Hicks-translation anecdote), and Beauvoir's
+interdependence of freedoms. Every gloss matches its card. No
+mismatches found; no edits made. The voice-audit candidates here are
+card-faithful; the keep-or-recast decision is a voice/style call.
+
+Checks: dossier_check.py exit 0 (run this session). Editorial review
+only; no external carriers freshly opened this pass.
