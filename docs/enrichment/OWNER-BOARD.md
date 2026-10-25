@@ -269,3 +269,4 @@ c94bbef23 (QC repairs round 5: K409 remove ellipsis (adjacent sentences), fix pr
 - 2026-10-25 13:55Z gm-pplx-kern1-1025a: Kernels reorg COMPLETE — 316/316 red modality lines, edges preserved, build green.
 - 2026-10-25 14:00Z gm-pplx-kern1-1025a: KRN node text reconciled; kernels reorg fully landed.
 - 2026-10-25 13:25Z worker-pplx-degrees-1: released deg-verify-a (S0ZqKo0KQvA entry bounded+pushed); claimed deg-verify-b (blocked-record retries)
+- 2026-10-25 14:06Z gm-pplx-kern1-1025a: w1e title dispositions resolved (both KEEP).
