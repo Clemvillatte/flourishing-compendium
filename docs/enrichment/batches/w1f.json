@@ -16,9 +16,7 @@
   "Metacognitive model of anxiety and depression (Wells)",
   "Metacognitive regulation of state",
   "Mid-level emotion regulation",
-  "Mind wandering",
   "Moral courage research",
-  "Moral foundations",
   "Motivational interviewing",
   "Narrative identity theory McAdams",
   "Narrative self",
@@ -64,20 +62,26 @@
   "Role ethics",
   "Positive attention training / attentional deployment toward positive stimuli",
   "Process focus research",
-  "Progressive overload in attentional training",
   "Proper self-love",
   "Self as construction",
   "Self-concordant goal pursuit over time",
   "Second nature",
   "Righteous anger vs wrath",
   "Reappraisal's effectiveness depends on separating the feeling from the appraisal",
-  "Natural liberty versus the chains"
+  "Natural liberty versus the chains",
+  "Mind wandering",
+  "Moral foundations",
+  "Progressive overload in attentional training"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Mind wandering": "Reopened for QC: QC: page-facing 'NOT opened' narration in Sources (routed jargon cleanup 2026-10-25); reword to plain provenance",
+  "Moral foundations": "Reopened for QC: QC: page-facing 'seed line' narration (routed jargon cleanup 2026-10-25); reword to plain reader voice",
+  "Progressive overload in attentional training": "Reopened for QC: QC: page-facing 'My seed / I opened' narration (routed jargon cleanup 2026-10-25); reword to plain provenance"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:41:20+00:00",
+ "updated": "2026-10-25T01:42:46+00:00",
  "notes": {
   "Language spinning beyond the world": "fast-track done 2026-10-20; RENAMED to \"Language on holiday\" — the seed title was a compendium coinage, not Wittgenstein wording (\"spins beyond the world\" does not appear in PI; verified in an opened PI selection). Real concept = language on holiday (PI 38) / engine idling (PI 132). File renamed, _order.json and the B070 backlink label migrated; fast-track body grounded in opened PI selection 132 + DBU overview quoting 38.",
   "Original nature, nothing to add": "fast-track done 2026-10-20; title verified as a real concept (self-nature/benxing in the Platform Sutra — no rename needed); McRae passage + verse lines quoted verbatim from the opened e-Buddhism page (which compares McRae Zongbao vs Yampolsky Dunhuang renderings); Yampolsky PDF at terebess.hu is image-based, unusable for verbatim extraction (noted).",
@@ -89,5 +93,6 @@
   "Life lived forwards": "fast-track done 2026-10-20; the FULL journal entry (JJ:167, 1843, Skrifter vol. 18 p. 306) quoted verbatim from the opened Iowa provenance page (with the Danish original); the popular aphorism is a PARAPHRASE and is described as such, not quoted; the entry's closing twist (no moment of rest for the backward view) is carried into the synthesis.",
   "Mastery experiences": "fast-track done 2026-10-20; Bandura 1994 chapter passage verified via raw pdftotext of the full chapter PDF (univ-lorraine mirror); note the page-break in the raw text between \"obstacles\" and \"through perseverant effort\" — quote joined as continuous prose.",
   "Means-end continuity": "fast-track done 2026-10-20; Dewey HNC passage verified via raw pdftotext-style extraction of the Gutenberg full text (both the means/ends passage and the \"two names for the same reality\" line); Gutenberg underscore italics markup rendered as plain words in the quote."
- }
+ },
+ "band_done": false
 }

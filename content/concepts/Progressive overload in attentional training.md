@@ -7,7 +7,7 @@ file: "Progressive overload in attentional training"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Progressive overload is a term borrowed from strength training: raise the demand on a system in steps so that it keeps adapting. Applied to attention, the idea is that gradually harder or longer practice builds capacity. My seed says this and cites Lutz et al. (2008) and Zanesco et al. (2016). I opened Lutz et al. and a 2018 Zanesco et al. paper, but found no 2016 Zanesco paper matching the sentence.
+Progressive overload is a term borrowed from strength training: raise the demand on a system in steps so that it keeps adapting. Applied to attention, the idea is that gradually harder or longer practice builds capacity. The claim is cited to Lutz et al. (2008) and Zanesco et al. (2016). The Lutz paper supports it; no 2016 Zanesco paper matching the sentence has been located, though a 2018 Zanesco et al. paper exists.
 
 ### What Lutz and colleagues describe
 
@@ -25,7 +25,7 @@ The nearest direct test of progressive difficulty comes from working memory trai
 
 ### Here
 
-AT031 (Cultivate attentional endurance: build capacity gradually) reads best as advice grounded in practice traditions and the novice-to-expert description above. The sources do not show that lengthening sessions step by step produces more capacity than other schedules. The original entry's reading of Zanesco 2016 is not confirmed.
+AT031 (Cultivate attentional endurance: build capacity gradually) reads best as advice grounded in practice traditions and the novice-to-expert description above. The sources do not show that lengthening sessions step by step produces more capacity than other schedules. No located source confirms the Zanesco 2016 reading.
 
 ## Related concepts
 
