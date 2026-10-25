@@ -314,3 +314,15 @@ and the resulting corrections:
 Checks: dossier_check.py exit 0 (48 card links, 17 headers, 14
 external carriers); density 0 dense; quote verify 4 checked,
 1 not found (the Perseus carrier, item 3).
+
+## Post-finalization verification sweep (2026-10-25, same session, later pass)
+
+After the acceptance and freedom rewrites were completed, the full
+check suite was re-run on this dossier to confirm no drift:
+dossier_check.py exit 0 (48 card links resolve, 17 headers, 14
+external carriers), density 0, quote_verify 4 checked / 1
+not-found (the Perseus Enchiridion 5 quote, the known JS-rendered
+case verified by eye and recorded above). No edits were needed;
+the file stands as finalized. The ST311/ST289 logline exception
+noted above (thesis/concept story cards whose loglines describe
+what the cards hold) remains in force.
