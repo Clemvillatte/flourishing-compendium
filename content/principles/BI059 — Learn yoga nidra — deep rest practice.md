@@ -25,7 +25,7 @@ For sleep, a 2026 meta-analysis pooled only five unique studies and rated the ce
 Any trauma or PTSD study is cited at second hand; the original entry's claim about trauma is not supported here, and the iRest and Datta citations are cited at second hand. The original entry's "restores like nothing else" is not supported by these trials, which compared yoga nidra mostly with doing nothing.
 
 **Plain words**
-Lying still while a voice walks you through the body costs almost nothing, and it does measurably something: against doing nothing, small drops in stress, better sleep. The sleep findings rest on very few studies, so think a month's trial, not treatment.
+The pitch is almost embarrassing: lie down, do nothing, follow a voice. The catch is that the measured benefits are small, and the sleep research is thin enough that anyone promising more is ahead of the data. Still, the cost is minutes and a floor, the direction of the effects points the right way, and unlike most practices, nobody can claim they could not possibly do it. A month's trial tells you more than any abstract.
 
 **For example**
 For four weeks, play an 11-minute guided yoga nidra recording once a day, as in the 2022 study. Rate your stress and sleep from 1 to 10 each week.
