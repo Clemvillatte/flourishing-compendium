@@ -1170,3 +1170,36 @@ is complete.
   verify.
 - Art: None (owner call). Registry flip: NOT done; creation remains
   planned, flagged for the supervisor.
+
+### Repair pass (same session) — Pairing A patched per advisor; Pairing D (Kant vs Sartre) rejected
+
+- Advisor follow-up ruled my pushed Pairing A prose OVERREACHED its clearance
+  (the sentences "the will to meaning ... goes with the autonomous man he
+  is abolishing: the making still happens, and the decision to make was
+  never the maker's" confused causal autonomy with whether people make
+  decisions). REPAIR APPLIED, using the advisor's own wording: the
+  third paragraph now reads "Applied to making, Skinner's account
+  explains the maker's decisions through genetic and environmental
+  histories, and Frankl maintains that a person can take a stand toward
+  those conditions; the disagreement concerns whether those conditions
+  exhaust the explanation of the response." No other changes to the
+  section; all quotes unchanged and verified.
+- Pairing D (Kant vs Sartre on whether a person's worth precedes what
+  they make of themselves) — REJECTED by the advisor. Scope mismatch:
+  Kant's passages concern intrinsic moral worth of rational beings;
+  Sartre's concern self-definition and the sense given to a life;
+  Sartre's "nothing else but that which he makes of himself" is an
+  identity claim, and his own loose use of "dignity" ("greater dignity
+  than a stone or a table") blocks reading it as a denial of dignity.
+  The inference "nothing precedes the making, therefore no worth
+  precedes it" supplies a denial the source does not make. Carrier
+  opened and spans verified this pass (Kant, Groundwork, Gutenberg
+  #5682: "In the kingdom of ends everything has either value or
+  dignity..."; "Skill and diligence in labour have a market value";
+  "Thus morality, and humanity as capable of it, is that which alone
+  has dignity"; Sartre EIAH spans already on the page). Reusing
+  Sartre's chosen-sense passage would also repeat disagreement one's
+  evidence. NOT counted; NOT added to the page.
+- Advisor meta-rule adopted for all further candidates: identify the
+  contrary claim in the source itself. If the denial exists only in a
+  connecting paraphrase, reject locally without consultation.
