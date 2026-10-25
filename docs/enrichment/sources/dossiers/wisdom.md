@@ -134,3 +134,32 @@ neither too slow nor too fast — the Zhuangzi story's own wording).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 61 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Berlin paradigm and Grossmann
+wise-reasoning entries, the Aristotle phronesis-sophia cluster,
+prohairesis, the Erikson socioemotional-wisdom entry, the Ryle
+knowing-how cluster, Russell's knowing-by-acquaintance, the Socratic
+wisdom and ignorance entries, the Leary intellectual-humility and
+Tangney humility entries, the Owens expressed-humility and
+leader-humility entries, Rawls's veil of ignorance, the Bhagavad Gita
+portrait of the sage, Zhuangzi's sameness of the sage, the Daodejing
+timing and sufficiency entries, the Tibetan klesha-transmutation entry,
+Thanissaro's vipassana, the MN 58 wise-speech criteria, Analects 2.10,
+the Enchiridion 5 judgment entry, the Stoic emotions-as-judgments
+entry, Seneca's pre-commitment counsel, perspective-taking and
+-getting, Kounios and Beeman's insight entries, Surowiecki's wisdom of
+crowds, the virtue cluster (cardinal virtues, doctrine of the mean,
+catalogue, unity, natural virtue, Sanderse development research,
+Seneca's rehearsal of virtue), Ericsson's deliberate practice,
+reflective practice, Pennebaker's expressive writing, death reflection,
+Zimbardo and Boyd's future time perspective, and the Positive Design
+Framework entry. No mismatches found; no edits made.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
