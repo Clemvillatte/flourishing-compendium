@@ -15,6 +15,8 @@ Learned optimism is Martin Seligman's name for the approach he set out in his 19
 
 The book's practical program is the publisher's one-line summary: simple techniques for breaking an "I–give–up" habit and developing "a more constructive explanatory style for interpreting your behavior" ([Vintage Books, 2006 edition](https://www.penguinrandomhouse.com/books/163862/learned-optimism-by-martin-e-p-seligman-phd/)). The dimensions come from the reformulated learned helplessness model ([Seligman and Schulman 1986](https://ppc.sas.upenn.edu/sites/default/files/predictproductivity.pdf)).
 
+The three dimensions of the model are named in the quotation's parenthetical gloss: internal, stable and global, with the pessimistic version spelled out as "it's my fault, it's going to last forever, and it's going to undermine everything I do". The habit the book takes as its subject is the one that gloss describes, and the program the publisher summarizes names the two halves of the work: breaking the habit, and developing a more constructive explanatory style for interpreting one's own behavior. The claim the title carries is that the style is something a person can learn rather than something a person is given.
+
 ### Here
 
 - [[P171 — Watch your explanatory style]] takes up the same construct from the practice side: watching how setbacks are explained.
