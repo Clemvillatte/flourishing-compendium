@@ -791,6 +791,56 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 0:58:29.
 - Verification status: verified-video.
 
+### ST-06: Modern Stoicism course lecture (learn.modernstoicism.com)
+
+- FLAG, NOT VERIFIED AT CANONICAL URL: the recorded URL
+  (https://learn.modernstoicism.com/courses/688494/lectures/124) returns HTTP 404
+  (checked 2026-10-25 via direct request; the site root is up).
+- What the check found: the platform's course 688494 still exists as "Stoicon
+  2019 Videos and Resources", marked COMPLETE and FREE on the homepage, but its
+  live lecture pages use full 8-digit lecture IDs (for example
+  https://learn.modernstoicism.com/courses/688494/lectures/12430467), not "124".
+  Lecture pages also state "Enroll in Course to Unlock"; enrollment is free but
+  requires an account.
+- What the owner needs to do: supply the corrected lecture URL (or move the record
+  to the corresponding YouTube upload, as was done for ST-03) before this record
+  can be verified.
+- Verification status: not verified, dead canonical URL.
+
+### M05-SP-01: Spinoza, Toleration and the First Amendment (Steven Nadler, St. Norbert College)
+
+- Identity and access: oembed confirms the lecture on the St. Norbert College
+  channel (https://www.youtube.com/watch?v=sFhG1Yt5-0E).
+- Duration: 1:01:04 (watch page, 2026-10-25).
+- Instructor credentials: Steven Nadler, Ph.D., William H. Hay II Professor of
+  Philosophy at the University of Wisconsin-Madison (per the host description);
+  Killeen Chair of Theology and Philosophy Lecture Series, October 22, 2019.
+- Language: English.
+- Content coverage: the host's description states the lecture covers toleration,
+  separation of church and state, freedom of speech, Spinoza's views on religious
+  belief, public worship, state authority and freedom of expression, and their
+  relation to the First Amendment.
+- Relevant segment: whole lecture, 1:01:04.
+- Verification status: verified-video.
+
+### M05-XP-04: Farghani on Wahdat al-Wujud in the Four Journeys (William C. Chittick, Columbia)
+
+- Identity and access: oembed confirms the keynote on the Columbia University
+  Department of History channel
+  (https://www.youtube.com/watch?v=ObGFqMkfKVk).
+- Duration: 1:31:24 (watch page, 2026-10-25).
+- Instructor credentials: William C. Chittick, SUNY Stony Brook (per the host
+  description); keynote of Translated Desires: Translation, Ibn al-Arabi, and the
+  Multilingual Islamic Past, Columbia University, October 20-21, 2023.
+- Language: English.
+- Content coverage: the host's description states the keynote covers Farghani's
+  account of wahdat al-wujud (Oneness of Being) within the framework of the four
+  journeys, his commentaries on the Poem of the Way, the stages of descent and
+  return, human perfection, divine names, intoxication and sobriety, annihilation
+  and subsistence, and ascension.
+- Relevant segment: whole keynote, 1:31:24.
+- Verification status: verified-video.
+
 ## Block A remainder
 
 (in progress: verifier-pplx-a1)
