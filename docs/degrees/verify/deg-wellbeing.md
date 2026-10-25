@@ -85,7 +85,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   chaos: the purpose crisis, burnout, what brings direction to life, and how purpose
   guides people forward. Fits mod-wb-1's meaning strand.
 - Relevant segment: whole talk, 57:59.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=E-s4hG0BWS8&current_language_code=en,
@@ -96,9 +96,7 @@ deg-wellbeing modules. SRC-M27-002 was already labelled verified and was not re-
   cultivating it through appreciation, connection, reflection and action;
   supporting others with healthy boundaries (Action for Happiness).
   The coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-P02: 2010 Tanner Lecture, Martin Seligman (optional)
 
@@ -355,7 +353,7 @@ standard.
   employee motivation in organizational success and creativity in competitive
   environments, and how to lead employee engagement to unleash human potential.
 - Relevant segment: whole keynote, 0:56:32.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=ww4QGMV94A8&current_language_code=en,
@@ -368,9 +366,7 @@ standard.
   satisfaction, performance, lower burnout and turnover intentions;
   mindfulness and leadership (Aalto University).
   The coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-P10: Ordinary Magic on the Developmental Road to Resilience (Ann Masten, UMass Amherst)
 
@@ -387,7 +383,7 @@ standard.
   childhood experiences, adoption in relation to risk and resilience, and recent
   advances in resilience science and their applications in practice.
 - Relevant segment: whole keynote, 1:16:56.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=JR_K4x3naLQ&current_language_code=en,
@@ -400,9 +396,7 @@ standard.
   opportunities in early childhood and emerging adulthood (Rudd
   Adoption, University of Minnesota).
   The coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-P12: Play, How it Shapes the Brain, Opens the Imagination and Invigorates the Soul (Stuart Brown, Microsoft Research)
 
@@ -418,7 +412,7 @@ standard.
   on research on three-dimensional-object play and animal studies of play
   deprivation.
 - Relevant segment: whole talk, 1:11:12.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=CnoAVnupfbo&current_language_code=en,
@@ -431,9 +425,7 @@ standard.
   adaptability and well-being; play-deprivation research; play in
   parenting, screens, education and adult life (Microsoft Research).
   The coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-P13: Social Connection and Happiness (Robert Waldinger, Osher Center)
 
@@ -449,7 +441,7 @@ standard.
   examining what actually helps people thrive rather than wealth, fame and
   achievement.
 - Relevant segment: whole lecture, 0:56:08.
-- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+- Verification status: verified-partial — coverage confirmed via third-party transcript (see note); instructor-credential evidence rests on the recording/host description; biography or institutional-page verification remains required under section 4; not cleared for scheduling.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
   batched pass; written before the 14:53:26Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=Dvxl7EVELJ8&current_language_code=en,
@@ -461,9 +453,7 @@ standard.
   practical ways to strengthen social connections (Cogan Endowed
   Lecture, Osher Center).
   The coverage basis is upgraded from description-only to third-party
-  transcript; status upgraded verified-partial to verified-video per the
-  house convention, with the no-timestamps and no-playback caveats
-  carried.
+  transcript; STATUS NOT UPGRADED (section-4 ruling, QC correction 2026-10-25): the instructor-credentials field rests on the host/uploader description, which section 4 of the binding standard does not accept as a credentials basis; the card therefore remains verified-partial with the coverage evidence recorded above. The owner can clear the credentials gate by attaching a biography or institutional page. The no-timestamps and no-playback caveats are carried.
 
 ### M08-S04: Our Cultures, Our Selves, The Sources of Belonging (Hazel Markus, University of Missouri)
 
