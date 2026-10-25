@@ -76,3 +76,18 @@ verbatim quote was introduced for them in this dossier.
 Per HUMANIZER-SKILL.md: no meta-text openers, no banned phrases, no
 verification labels in the body (this ledger holds them), story
 loglines describe events, practice labeled editorial.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos17 baton)
+
+Reviewed all 3 candidates against the current file (fresh audit run).
+No scaffolds removed; all 3 flagged constructions carry the sources'
+doctrinal contrasts: line 25 (Merleau-Ponty's embodiment: pre-objective,
+explicable neither as third-person causation nor as representation —
+the phenomenological position itself), 47 (interoceptive awareness:
+internal states as information rather than noise — the Frontiers
+definition the card quotes), 49 (Seth's interoceptive inference:
+feelings not read off raw signals but inferred from generative models —
+the predictive-coding account IS this claim).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
