@@ -383,3 +383,5 @@ stories — matches). All three match. With batch 1, the sampled
 cards all verify. No defects found.
 
 - 2026-10-25 10:55:00Z — repair, self-checked, pushed. Three spans previously documented as blocked-fetch exceptions were retested. PMC4114726: the verifier cache held a JavaScript shell from a failed fetch; the live page serves full text to plain fetches, so the cache entry was cleared and both spans now verify (0 not found). PMID 25306232: the span is verbatim in the NCBI eutils plain-text abstract (opened this session); the eutils efetch URL was added as a second carrier, and quote_verify now checks the span clean through it. The ledger's blocked-fetch exception entries for these three spans are superseded by this verification.
+
+- 2026-10-25 10:54:02Z — timestamp correction: the previous entry is dated 2026-10-25 10:55:00Z, which was written from an estimate ahead of the actual clock; the true time of that entry was 2026-10-25 10:53:33Z (UTC, read at command time).
