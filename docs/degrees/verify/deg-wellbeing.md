@@ -662,10 +662,13 @@ standard.
   Series, Division of Social & Transcultural Psychiatry, Department of
   Psychiatry, McGill University; held on Zoom.
 - Duration: 50:18 (watch page, 2026-10-25).
-- Instructor credentials: Dr. Shinobu Kitayama, Robert B. Zajonc
-  Collegiate Professor of Psychology and Director of the Culture &
-  Cognition Program, University of Michigan (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: Dr. Shinobu Kitayama, Japanese social
+  psychologist, Robert B. Zajonc Collegiate Professor of Psychology,
+  Social Psychology Area Chair and Director of the Culture & Cognition
+  Program, University of Michigan (Wikipedia page content retrieved
+  2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Shinobu_Kitayama;
+  the LSA faculty page was fetcher-blocked earlier this session).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): mutual
   constitution of culture and the mind, with insights from cultural
@@ -744,9 +747,13 @@ standard.
   channel (https://www.youtube.com/watch?v=zrP6XPhvGTw); watch page
   opened 2026-10-25. CASBS Game Changing Idea lecture.
 - Duration: 1:03:19 (watch page, 2026-10-25).
-- Instructor credentials: Miles Hewstone, Professor of Social
-  Psychology, University of Oxford (per the uploader description;
-  institutional page not opened this session).
+- Instructor credentials: Miles Ronald Cole Hewstone, British social
+  psychologist known for his work on social relations (Wikipedia page
+  content retrieved 2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Miles_Hewstone; the
+  Oxford department page was fetcher-blocked earlier this session; the
+  uploader description identifies him as Professor of Social Psychology
+  at the University of Oxford).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): a critique
   of Robert Putnam's findings that living in ethnically diverse areas is
@@ -838,9 +845,13 @@ standard.
   opened 2026-10-25. INDEPENDENT-CHANNEL FLAG with named institutional
   speaker.
 - Duration: 1:27:06 (watch page, 2026-10-25).
-- Instructor credentials: David Sloan Wilson, evolutionary biologist
-  (per the uploader description; institutional page not opened this
-  session).
+- Instructor credentials: David Sloan Wilson, American evolutionary
+  biologist, Distinguished Professor Emeritus of Biological Sciences
+  and Anthropology at Binghamton University; co-founder of Evolution
+  Institute and Prosocial World (Wikipedia page content retrieved
+  2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/David_Sloan_Wilson;
+  Binghamton and his own site were fetcher-blocked earlier this session).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): an overview
   of ProSocial World and its application of modern evolutionary science
@@ -861,8 +872,10 @@ standard.
   (https://www.youtube.com/watch?v=9sVfsNoVcL0); watch page opened
   2026-10-25. Meng Wu Lecture, 9 January 2012.
 - Duration: 46:13 (watch page, 2026-10-25).
-- Instructor credentials: David Sloan Wilson (per the uploader
-  description; institutional page not opened this session).
+- Instructor credentials: David Sloan Wilson, Distinguished Professor
+  Emeritus of Biological Sciences and Anthropology, Binghamton
+  University; co-founder of Prosocial World (Wikipedia page content
+  retrieved 2026-10-25 via the REST summary endpoint — see M08-S20).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "Compassion
   and Altruism from an Integrated Evolutionary Perspective" — the
