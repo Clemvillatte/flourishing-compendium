@@ -267,3 +267,42 @@ New concept card (dos13 flag disposition, PROTOCOL.md §182 new_concepts rule).
   contrast, precise Masicampo phrasing) were NOT applied before the
   current push and are tracked in the flagged note for the next
   supervisor pass.
+
+## 2026-10-25 (UTC): Adaptive planning — QC round 3 corrections (worker-pplx-w1y-1025f)
+
+Corrections to the round-1 and round-2 ledger entry above.
+
+- The Springer chapter was successfully OPENED this session via the TU
+  Delft repository PDF (final published version,
+  https://repository.tudelft.nl/file/File_b12e7e51-2d7b-4741-9508-c58dcda02c4a).
+  All four quotes verified VERBATIM against the opened PDF:
+  "Adaptive planning means..." (p. 358); "The way a plan is designed
+  to adapt... post facto" (p. 358); "The timing of plan adaptation is
+  not known a priori; it depends on how the future unfolds." (p. 359);
+  "In this sense, adaptive planning differs from planned adaptation
+  (see Chapter 13), where changes generally occur at predetermined
+  moments (e.g., every 5 years) and which entails a review of conditions
+  that results in an adaptation of the original plan." (p. 359).
+  The earlier "p. 359 vs p. 358" uncertainty is resolved: ch. 15 runs
+  pp. 355-374; the definition sentence is on p. 358.
+- The dos13 flag disposition: the options (a)/(b) were presented in the
+  namespace audit as options for the supervisor/owner; a worker created
+  the replacement card under option (a) without supervisor
+  authorization recorded. The old stub remains UNTOUCHED; ST019/AF019
+  remain cited there; no link migration was attempted.
+- The Flexecution section and Klein 2007 source entries were REMOVED
+  per advisor QC round 2 (crawler-blocked AAAI carrier; SciSpace was
+  search-only; the section conflated Flexecution with adaptive
+  planning). No Klein material remains on the page.
+- Unsupported psychological claims removed: "wisdom infrastructure",
+  the identity-commitment/instrument contrast, the shame/failure-of-
+  character framing, and the cheap-versus-expensive flexibility advice.
+- The Masicampo finding is stated precisely: specific plans impaired
+  attainment under insufficient time when recognising and seizing an
+  alternative opportunity was essential; no general superiority claim
+  about adaptive planning is made from it.
+- Validation: enrich_validate.py 1 checked, 0 failed (300 validator
+  prose words). Build passes.
+- QC status: advisor rounds 1-3 applied; this item is QC-incomplete at
+  the new_concepts level pending supervisor review of the replacement
+  (old stub disposition, ST019/AF019 relevance, registry flip if any).
