@@ -1,3 +1,14 @@
+## AGENT LAUNCH (2026-10-25 ~10:47Z, launcher pplx-1025-launch-b, no baton held)
+
+Path A launch 8: account tosyfzqnar85+iqr5r@outlook.com (Free plan), worker
+prompt (current PROMPT-WORKER.md with the session token filled, 8438 chars)
+pasted in one call and verified before submit (first code read was the stale
+first email; the newest email's code succeeded). Submitted in Computer mode;
+agent running at
+https://www.perplexity.ai/computer/tasks/9a3ff4cb-91f8-475d-9124-82bf88448713
+(launched 2026-10-25 10:47Z). Expect the new agent to take a baton on next
+baton.py status.
+
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
 ## LAUNCH RECORD (2026-10-25 11:35Z, launcher-pplx-1025-o, no baton held)
