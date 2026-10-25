@@ -338,3 +338,14 @@ Three Basic Needs (Deci and Ryan; the card body matches the logline
 directly), ST026 Woodcarver Qing Makes a Bell-Stand (Zhuangzi ch.
 19), ST311 Frankl's Why. All three loglines match the cards'
 subjects and sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos10-1025g, 2026-10-25)
+
+Three further story cards opened at body level and checked against
+their loglines: ST300 Three Basic Needs (autonomy, competence,
+relatedness — matches), ST026 Woodcarver Qing Makes a Bell-Stand
+(fasting, forgetting reward by the third day, praise by the fifth —
+matches) and ST311 Frankl's Why (will to meaning as primary
+motivation, frustration as clinical condition — matches). All three
+match. With batch 1 (header checks), the sampled cards all verify.
+No defects found.
