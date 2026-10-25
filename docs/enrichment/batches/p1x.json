@@ -34,13 +34,13 @@
   ],
   "in_progress": null,
   "flagged": {
-    "SE035": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.69)",
-    "SO051": "Reopened for QC: QC correction: Plain words replicate (RECREATION-QUEUE Tier-2, overlap 0.55)"
+    "SE035": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed.",
+    "SO051": "RESOLVED by assistant-supervisor supervisor-pplx-c3b0f2fb-1025b 2026-10-25 12:50Z: the Plain-words replicate allegation is STALE — the 2026-10-25 11:10Z refresh of plain-words-replicates.md absorbed the register; a fresh 5-gram overlap check run this session on the current page scores 0.00%. No rewrite needed."
   },
   "missing_concepts": [],
   "sources_checked": 0,
   "updated": "2026-10-25T12:30:02+00:00",
-  "band_done": false,
+  "band_done": true,
   "notes": {
     "SE035": {
       "qc": "Plain-words replicate replaced (0.69 -> ~0.10); re-derivation written; validator ok",
