@@ -32,23 +32,11 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 ### How the self is built from others
 
-[The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct.
+Mead's answer to what a self is made of, something with a development arising in social conduct, is [the social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self). William James's term for the version of a person that exists in other people's minds is [the social selves](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20selves). Mead's mechanism, responding to one's own gesture as another person would, is [taking the role of the other](https://clemvillatte.github.io/flourishing-compendium/#card=Taking%20the%20role%20of%20the%20other).
 
-[The social selves](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20selves): William James's term for the version of a person that exists in other people's minds.
+The two ways cultures teach people to be a self are [independent vs interdependent self-construal](https://clemvillatte.github.io/flourishing-compendium/#card=Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29), and the view of the self as fundamentally connected to other people is [interdependent self-construal](https://clemvillatte.github.io/flourishing-compendium/#card=Interdependent%20self-construal). Cross and colleagues' name for thinking about yourself in terms of your close relationships is [relational-interdependent self-construal](https://clemvillatte.github.io/flourishing-compendium/#card=Relational-interdependent%20self-construal).
 
-[Taking the role of the other](https://clemvillatte.github.io/flourishing-compendium/#card=Taking%20the%20role%20of%20the%20other): Mead's mechanism: responding to one's own gesture as another person would.
-
-[Independent vs interdependent self-construal (Markus & Kitayama)](https://clemvillatte.github.io/flourishing-compendium/#card=Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29): the two ways cultures teach people to be a self.
-
-[Interdependent self-construal](https://clemvillatte.github.io/flourishing-compendium/#card=Interdependent%20self-construal): the view of the self as fundamentally connected to other people.
-
-[Relational-interdependent self-construal](https://clemvillatte.github.io/flourishing-compendium/#card=Relational-interdependent%20self-construal): Cross and colleagues' name for thinking about yourself in terms of your close relationships.
-
-[Social identity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20identity%20theory): Tajfel and Turner's account of how the part of self-image that comes from group membership drives intergroup behaviour.
-
-[Embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity): social identity lived through the body, anchored in Fanon's account of Blackness under the white gaze.
-
-[Erikson's psychosocial theory](https://clemvillatte.github.io/flourishing-compendium/#card=Erikson%27s%20psychosocial%20theory): the lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity.
+Tajfel and Turner's account of how the part of self-image that comes from group membership drives intergroup behaviour is [social identity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20identity%20theory). Social identity lived through the body, anchored in Fanon's account of Blackness under the white gaze, is [embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity). The lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity, are [Erikson's psychosocial theory](https://clemvillatte.github.io/flourishing-compendium/#card=Erikson%27s%20psychosocial%20theory).
 
 ### Empathy: feeling with, and understanding
 
