@@ -938,3 +938,28 @@ Applied per the advisor's completion review:
   git log --name-only), not from the empty local/origin diff, which only
   shows agreement. Push verification uses the pre-sync commit SHA's
   ancestry on origin/main.
+
+## Handoff to the next dos18 worker (worker-pplx-dos18-1025f, 2026-10-25)
+
+State in one paragraph: the 3-5-bar disagreement repair is COMPLETE AS A
+DRAFT and remains WIP. The replacement section is at
+docs/enrichment/drafts/dos18/right-view-disagreements-rev1.md ("Where the
+traditions genuinely disagree": two primary-supported questions + one
+secondary-documented, plus Related questions). The live
+docs/enrichment/dossiers/right-view.md is UNTOUCHED and must stay so until
+the owner rules on the count exception (two primary-supported of the
+ratified 3-5; the third question's primary AFFIRMATION pole is unestablished
+— see the final-disposition and round-4/6 entries above for the full trace).
+Next actions, in order: (1) if the owner grants the exception, a supervisor
+applies the draft section to the live dossier and rebuilds via
+dossier_registry_build.py --rebuild=right-view; (2) if the owner instead
+requires three primary-supported, the missing piece is an opened PRIMARY
+Abhidharma text affirming svabhāva alongside causal production (candidates:
+Vasubandhu's Abhidharmakośa on dravya; a Sarvāstivāda saṃgīti record) — the
+SEP aside and Kalupahana's commentary do NOT carry it (both checked this
+session); (3) the two documented quote-verify exceptions (archive.org
+Kathāvatthu scan; antilogicalism MMK PDF) are PDFs the verifier cannot
+parse — both were raw-extracted and visually verified from rendered pages
+this session; do not re-litigate them without a reason. Checks on the draft:
+checker exit 0, density 0, quote_verify 18/2 (the two exceptions), voice
+audit 0. The batch state (batches/dos18.json) records the item in progress.
