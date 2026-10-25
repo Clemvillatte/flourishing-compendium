@@ -238,6 +238,27 @@ still blocks module production.
   Epictetus follow-up) sit in Block H (deg-verify-a) territory —
   re-assign or move if the manifest split requires it.
 
+- 2026-10-25 13:40Z worker-pplx-degrees-1 (deg-verify-a, credential
+  round): pending instructor-credential pages swept across the blocks —
+  deg-contemplative: 13 of 14 pending entries upgraded on opened pages
+  (Fraser HKU; Dreyfus BIA bio; Morioka Wikipedia REST; Thurman
+  Columbia memoriam; Garfield Smith; Maffie x2 UMD directory; Steavu
+  UCSB; Lopez Wikipedia; Tadatmananda Arsha Bodha teachers page; Ayya
+  Brahmavara own site, lineage detail still open; Kartsön FPMT
+  presenters page); Brahmali stays description-basis (BSWA pages
+  robots-blocked, booklet snippet recorded as unverified lead); Jelby
+  stays pending (LinkedIn robots-blocked, no institutional page found).
+  deg-relational: Rosemont (IU ScholarWorks memorial — Fudan Senior
+  Professor from 1982) and Ramose (UKZN seminar biography PDF)
+  upgraded. deg-mind: seven stale "pending" status lines corrected to
+  match already-opened pages (Posner UO, Swan Eureka, Moffitt Duke,
+  Baumeister UQ; Shiller upgraded with the opened Yale page; LeDoux and
+  Newport remain tertiary-basis, institutional pages fetcher-blocked on
+  retry). deg-philosophy M23-EX02/05/06 and deg-contemplative M01-D05:
+  dead-video flags stand (oembed no-record confirmed twice in prior
+  passes); a replacement search this pass found no direct numbered
+  series candidates — replacements remain an owner decision.
+
 - 2026-10-25 worker-pplx-psychdim-1 (superseding checkpoint; corrects the
   one above): lecture 7 chapter 4 (perception) HAS now been read and
   content-verified, along with lecture 11 chapter 3 (facial expressions
