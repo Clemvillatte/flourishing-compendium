@@ -93,6 +93,24 @@ My lean, which is mine and not a finding: Williams's point about boredom persuad
 
 Limits: Williams argues from one fictional case and says explicitly that he is not claiming we should stop fearing death. Nagel's essay is about harm, not meaning. The cards in this dossier do not carry either argument.
 
+### Is death bad for the one who dies?
+
+The shared question: whether a person's own death can harm that person, given that the person is not there to be harmed. Epicurus says it cannot:
+
+> "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus, Hicks trans., Internet Classics Archive](https://classics.mit.edu/Epicurus/menoec.html))
+
+His reason is stated just before: "good and evil imply awareness, and death is the privation of all awareness" (same letter). Nagel replies that the harm is a loss, so it does not need to be felt:
+
+> "If death is an evil at all, it cannot be because of its positive features, but only because of what it deprives us of." ([Nagel, "Death"](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf))
+
+He also denies that harm requires experience: a man "is the subject of good and evil as much because he has hopes which may or may not be fulfilled, or possibilities which may or may not be realized, as because of his capacity to suffer and enjoy" (same essay).
+
+Both accept that a dead person feels nothing, and they part on whether feeling is the only place harm can occur. Nagel does not claim a full victory. He grants that the Epicurean's companion argument from Lucretius, that nobody minds the time before birth, still awaits an answer in his essay, and says that answering it needs a general account of how we treat past and future in our own lives.
+
+My lean, which is mine: Nagel's deprivation reading is the more natural description of why a death at thirty feels worse than one at ninety, and Epicurus's argument remains the best reply to dread of being dead as opposed to grief at ceasing to live. The two answers fit different emotions.
+
+Limits: one letter and one essay, with Nagel read from the PDF text and Epicurus in Hicks's early-twentieth-century translation. Later literature on deprivation and on the time before birth is not opened here.
+
 ### Should the wise keep death in view or think of it least?
 
 The shared question: whether turning attention to one's own death makes action better, given that neither thinker wants fear to rule.

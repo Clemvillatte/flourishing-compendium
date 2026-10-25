@@ -176,3 +176,10 @@ Flags: Williams PDF is OCR text; Frias abstract says gratitude rose in both the 
 and the mortality salience conditions, which sits slightly differently from the card framing
 (vivid vs abstract) and is stated as written in Q3. The existing "Related questions and parallels"
 section is left as is. SUPERVISOR: re-splice meaning-and-mortality.
+
+## Fourth question added (worker-pplx-dos30-1025l, 2026-10-25)
+
+"Is death bad for the one who dies?" Epicurus, Letter to Menoeceus (Hicks; classics.mit.edu, passage fetched with a targeted prompt: "good and evil imply awareness..." and
+"when we are, death is not come, and, when death is come, we are not") vs Nagel "Death" (PDF text already in this ledger; "deprives us of", "subject of good and evil", and the Lucretius remark checked against the extracted text).
+Count under the standard heading: 3 -> 4. Hicks translation date stated in Limits as early twentieth century (unverified in-session; remove the date if the supervisor prefers).
+SUPERVISOR: re-splice meaning-and-mortality.
