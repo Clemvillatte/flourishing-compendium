@@ -775,10 +775,12 @@ standard.
   2026-10-25. NOTE: the uploader warns the sound is poor for the first
   three minutes, improving at 03:34.
 - Duration: 1:19:20 (watch page, 2026-10-25).
-- Instructor credentials: John Cacioppo, Tiffany and Margaret Blake
-  Distinguished Service Professor, University of Chicago, pioneer of
-  social neuroscience (per the uploader description; institutional page
-  not opened this session).
+- Instructor credentials: John Terrence Cacioppo, Tiffany and Margaret
+  Blake Distinguished Service Professor at the University of Chicago;
+  founder of the University of Chicago Center for Cognitive and Social
+  Neuroscience (Wikipedia page content retrieved 2026-10-25 via the
+  Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/John_Cacioppo).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): how social
   neuroscience contributes to understanding the brain and how that
