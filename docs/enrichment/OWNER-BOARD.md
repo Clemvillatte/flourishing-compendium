@@ -31,6 +31,7 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
+- FLAG dos25: right-concentration ledger carries a stray merge separator (======= at line 566, content appears duplicated after it) from an interrupted merge; needs the dos25 holder or supervisor to repair.
 
 - 2026-10-25 ~06:25Z dos31 creation: supervisor published (fb3f483e0); pass-12c voice repair propagated to compiled data (e4bd4632).
 - 2026-10-25 ~06:15Z dos31 creation: 3-5 disagreement bar met (3, advisor QC passed); supervisor flip pending.
