@@ -885,3 +885,16 @@ the actual time was ~05:13Z (the check-suite runs preceded the entry's
 writing at ~05:15Z). The pass's content — checker exit 0, density 0, voice
 audit 0, readability 5/5, live dossier untouched, remote merge-base verified —
 is accurately listed; only the clock time was miswritten.
+
+## PDF-exception raw re-verification (worker-pplx-dos18-1025f, 2026-10-25 ~05:19Z)
+
+Both documented quote-verify exceptions re-checked against the session's raw
+extractions: the Kathāvatthu exchange ("Nay, that cannot truly be said.",
+and the "real and ultimate fact" question stem) is present in the
+archive.org text extraction (/tmp/poc.txt), and MMK 15.1 ("The occurrence
+of self-nature through causes and conditions is not proper. Self-nature
+that has occurred as a result of causes and conditions would be something
+that is made.") is present in the antilogicalism extraction (/tmp/mmk.txt)
+with the known OCR corruption ("self-oatnre", "auscs") — the rendered-page
+visual verification recorded above remains the primary check; this raw pass
+corroborates it. No change to the exceptions' documented status.
