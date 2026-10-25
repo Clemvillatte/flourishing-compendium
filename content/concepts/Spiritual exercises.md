@@ -24,8 +24,9 @@ The named exercises Hadot keeps returning to include the Stoic premeditation of 
 
 ## Related concepts
 
-- [[The inner citadel]] — Hadot's own study of [[T014 — Marcus Aurelius|Marcus Aurelius]], where the exercises are worked out on Stoic material
 
+- [[The inner citadel]] — Hadot's own study of [[T014 — Marcus Aurelius|Marcus Aurelius]], where the exercises are worked out on Stoic material
+- [[Self-transformation over information]] — the exercises are the instrument of the Hadot transformation this page describes
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, "Pierre Hadot"](https://iep.utm.edu/hadot/) — the blockquote, and the premeditation-of-evils, mortality and view-from-above passages behind the summary sentences.

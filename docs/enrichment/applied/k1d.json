@@ -1,0 +1,43 @@
+{
+ "batch": "k1d",
+ "agent": "worker-pplx-k1d-7e3b91c2",
+ "reciprocal": [
+  {
+   "into": "Locus of control",
+   "link": "K271 — The is this up to me check",
+   "why": "A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control."
+  },
+  {
+   "into": "Premeditatio malorum",
+   "link": "K272 — Catastrophe testing",
+   "why": "The kernel is the CBT-form drill of the same Stoic rehearsal, running worst-case imagery with severity and probability tests."
+  },
+  {
+   "into": "Courage",
+   "link": "K290 — Prosocial courage drill",
+   "why": "The kernel trains courage in its social form: a weekly scheduled act of speaking up against unfairness."
+  },
+  {
+   "into": "Beginner's mind",
+   "link": "K231 — Living the question",
+   "why": "Both practices keep a not-knowing position open; the kernel adds Rilke's patience with the unresolved."
+  },
+  {
+   "into": "Narrative identity",
+   "link": "K333 — Redemptive sequence writing",
+   "why": "The kernel operationalises redemption sequences, the page's central narrative form, as a writing practice."
+  },
+  {
+   "into": "Courage",
+   "link": "K362 — Civic courage drill",
+   "why": "The kernel trains courage in its civic form: a monthly act of public participation taken from the smallest rung currently avoided."
+  },
+  {
+   "into": "Growth mindset",
+   "link": "K179 — Deliberate practice",
+   "why": "The page pairs the belief that ability grows with the structured practice that grows it, citing both sides of the practice-variance debate."
+  }
+ ],
+ "inline": [],
+ "notes": "k1d kernels slice B. Whys are interpretive, not empirical causal claims; supervisor integration only. Reciprocals point concept pages to the kernel pages that operationalise them. | deferred at this run (target band busy): 7 recip, 0 inline"
+}

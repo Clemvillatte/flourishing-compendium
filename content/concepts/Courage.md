@@ -24,6 +24,8 @@ SP065's acting from strength rather than fear is a modern echo of Aristotle's no
 ## Related concepts
 
 
+
+
 - [[Temperance]] — the sibling cardinal virtue in my virtue family
 - [[Virtue]] — the class of excellences courage belongs to
 - [[Fear]] — the feeling courage is a mean about
@@ -33,6 +35,8 @@ SP065's acting from strength rather than fear is a modern echo of Aristotle's no
 - [[Hope]] — paired with suffering in my courage principle
 - [[Shame]] — the citizen-soldier's motive, courage's nearest counterfeit
 - [[D172]] — courage that runs alongside a reading of the situation, not fearlessness alone: the principle treats courage as acting with an assessment of danger rather than in ignorance of it
+- [[K290]] — The kernel trains courage in its social form: a weekly scheduled act of speaking up against unfairness.
+- [[K362]] — The kernel trains courage in its civic form: a monthly act of public participation taken from the smallest rung currently avoided.
 ## Sources
 
 - [Aristotle, Nicomachean Ethics III.6-9, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)

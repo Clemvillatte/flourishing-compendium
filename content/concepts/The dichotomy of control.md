@@ -38,6 +38,8 @@ The same chapter explains the division's stakes: things in our control are "by n
 
 
 
+
+
 - [[Ataraxia]]
 - [[The reserve clause]]
 - [[Premeditatio malorum]]
@@ -47,6 +49,8 @@ The same chapter explains the division's stakes: things in our control are "by n
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 - [[Locus of control]] — Rotter's generalized expectancy about where reinforcement comes from
 - [[Apatheia]] — the Stoic ideal of freedom from passion, not numbness
+- [[K267]] — the practice page for the dichotomy
+- [[Serene acceptance of necessity]] — the Enchiridion sorting this acceptance rests on
 ## Sources
 
 - [Epictetus, Enchiridion 1 (Elizabeth Carter translation), MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — the dichotomy statement and its logic, verbatim.

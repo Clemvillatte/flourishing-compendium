@@ -38,6 +38,7 @@ Kashdan and Rottenberg present the construct "as a fundamental aspect of health,
 
 
 
+
 - [[Cognitive flexibility]] — the executive-function construct, offered as a comparison
 - [[Experiential avoidance research]] — the counter-construct
 - [[Acceptance alongside values-based action]] — the ACT acceptance half
@@ -45,6 +46,7 @@ Kashdan and Rottenberg present the construct "as a fundamental aspect of health,
 - [[Process-based therapy]] — the framework that grew from ACT's master process and now organises it in a larger grid
 - [[Extended Evolutionary Meta-Model]] — the grid in which psychological flexibility is classified as a change process
 - [[Acceptance and Commitment Therapy]] — the intervention built around training this capacity
+- [[K315]] — the constraint-stays-response-changes move is psychological flexibility practised on one fixed fact
 ## Sources
 
 - [Kashdan and Rottenberg 2010, "Psychological flexibility as a fundamental aspect of health," Clinical Psychology Review 30(7):865-878 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/21151705/) — the four-part definition (p. 865) and the dynamic-processs description (p. 866).

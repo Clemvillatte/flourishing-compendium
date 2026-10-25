@@ -37,6 +37,7 @@ AF061 "Cultivate positive affect deliberately — it broadens and builds" carrie
 
 
 
+
 - [[Mudita (sympathetic joy)]] — joy taken in others' joy, a broaden-type emotion
 - [[Gratitude]] — a savouring positive emotion in the same family
 - [[Hope]] — the future-oriented member of the family
@@ -50,6 +51,7 @@ AF061 "Cultivate positive affect deliberately — it broadens and builds" carrie
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new
 - [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
+- [[Metta (loving-kindness)]] — loving-kindness meditation is the practice whose daily positive emotions the theory's build hypothesis was tested on
 ## Sources
 
 - [Barbara Fredrickson, "The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions," American Psychologist 56(3), 2001, pp. 218-226](https://www.prospectivepsych.org/sites/default/files/pictures/Frederickson_Broaden-and-build-2001.pdf) — the theory, the emotion urges, Isen evidence, the undo studies, upward spiral, stated limits

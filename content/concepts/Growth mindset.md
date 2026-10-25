@@ -48,6 +48,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 
 
 
+
 - [[Growth through practice]] — the 2,500-year-old version of growth as trainable
 - [[Fixed views of self]] — the incremental alternative the fixed view is contrasted with
 - [[Implicit theories of intelligence]] — the popular form of the incremental theory the page measures
@@ -63,6 +64,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 - [[Locus of control]] — Rotter's generalized expectancy about where reinforcement comes from
 - [[SO058]] — A compendium principle on designing school environments, including the national growth-mindset experiment
 - [[T034 — Dweck, Carol]]: the theory's author; the concept is built on her work.
+- [[K179]] — The page pairs the belief that ability grows with the structured practice that grows it, citing both sides of the practice-variance debate.
 ## Sources
 
 - [Ku and Stager 2022, systematic review, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284032/) — definition; continuum; heterogeneous effects.

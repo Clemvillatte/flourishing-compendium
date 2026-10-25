@@ -23,6 +23,9 @@ The kernel practices operationalize the sorting: K267's controllability sorting,
 
 ## Related concepts
 
+
+
+
 - [[Self-efficacy]] — the belief about capability, locus's Bandura sibling
 - [[Identified versus introjected motivation]] — the SDT cousin construct about reasons for acting
 - [[The dichotomy of control]] — the Stoic form of the same sorting
@@ -30,7 +33,9 @@ The kernel practices operationalize the sorting: K267's controllability sorting,
 - [[Growth mindset]] — the belief that abilities grow with effort
 - [[Control theory of self-regulation]] — the feedback-loop framing of the same problem
 - [[Wu wei]] — acting where the leverage is, the Daoist cousin
-
+- [[K267]] — the sorting exercises that apply the construct
+- [[K311]] — the sorting exercises that apply the construct
+- [[K271]] — A Stoic practice that sorts concerns by what is up to the actor, related to the psychological construct of beliefs about control.
 ## Sources
 
 - [Julian B. Rotter 1966, "Generalized expectancies for internal versus external control of reinforcement," Psychological Monographs 80(1), full text PDF](https://raw.githubusercontent.com/jjcurtin/arc_measures/main/LCS/Rotter1966.pdf)

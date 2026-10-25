@@ -32,6 +32,7 @@ The same author warns against the exercise's shadow. "There are more things, Luc
 - [[ST221 — The Premeditation of Evils]] — the story illustration.
 
 ## Related concepts
+
 - [[T013 — Seneca]]: the nothing-ought-to-be-unexpected passage the page quotes.
 
 - [[Negative visualisation]] — the modern cognitive name for the same practice
@@ -39,7 +40,7 @@ The same author warns against the exercise's shadow. "There are more things, Luc
 - [[The reserve clause]] — the Stoic planning companion ("fate permitting") that premeditation trains
 - [[Apatheia]] — the freedom from passion the exercise serves
 - [[Memento mori]] — the death-directed member of the same family
-
+- [[K272]] — The kernel is the CBT-form drill of the same Stoic rehearsal, running worst-case imagery with severity and probability tests.
 ## Sources
 
 - [Seneca, Letters 91 (Gummere translation), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91) — the premeditation instruction and the unexpected-blow reasoning.

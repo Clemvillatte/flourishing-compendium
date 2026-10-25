@@ -24,8 +24,9 @@ I file the night under its principles on expecting the collapse of meaning (K008
 
 ## Related concepts
 
-- [[MO066]] — examines St John of the Cross account of spiritual desolation as a parallel to MO066 clinical anhedonia.
 
+- [[MO066]] — examines St John of the Cross account of spiritual desolation as a parallel to MO066 clinical anhedonia.
+- [[The Seven Levels of the nafs]] — another tradition's map of the same dark passage
 ## Sources
 
 - [John of the Cross, Dark Night of the Soul, CCEL full text](https://ccel.org/ccel/john_cross/dark_night.all.html) — the blockquote (Book II definition), the illumination passage, and the poem stanzas.

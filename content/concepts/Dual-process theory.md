@@ -29,6 +29,7 @@ CO002 names the two modes for practice: fast intuition and slow analysis. I pair
 ## Related concepts
 
 
+
 - [[Cognitive defusion]] — stepping back from thought, an in-compendium neighbour
 - [[Metacognition]] — thinking about thinking, an in-compendium neighbour
 - [[Cognitive reappraisal]] — reinterpreting emotion, an in-compendium neighbour
@@ -37,6 +38,7 @@ CO002 names the two modes for practice: fast intuition and slow analysis. I pair
 - [[Flow]] — absorbed engagement, an in-compendium neighbour
 - [[Expressive suppression versus reappraisal]] — the regulation choice, an in-compendium pairing
 - [[CO042]] — CO042 discusses when to engage the Type 2 processing this theory describes.
+- [[System 1 and System 2]] — the parent framework Kahneman's two systems popularize
 ## Sources
 
 - [Evans & Stanovich 2013, "Dual-Process Theories of Higher Cognition: Advancing the Debate," Perspectives on Psychological Science 8(3), full text PDF](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)

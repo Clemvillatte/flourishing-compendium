@@ -36,6 +36,8 @@ The page's facets mark the tradition's other streams. The narrative one runs thr
 
 
 
+
+
 - [[Narrative identity]] — the life-story stream of the tradition
 - [[The search for meaning]] — the research tradition that operationalized the search
 - [[Expressive writing]] — the writing intervention in the Pennebaker stream
@@ -45,6 +47,8 @@ The page's facets mark the tradition's other streams. The narrative one runs thr
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 - [[MO061]] — A principle drawing on Frankl's account of meaning as motivation
+- [[K351]] — the open question and the unconsoling stance both belong to the family
+- [[K318]] — the open question and the unconsoling stance both belong to the family
 ## Sources
 
 - [Park, "The Meaning Making Model: A framework for understanding the stress-process," European Health Psychologist 15(2) (PDF)](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041) — the discrepancy definition; the two levels; the approach-oriented efforts.
