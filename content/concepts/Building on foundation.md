@@ -17,6 +17,10 @@ Building on foundation is the page label for Aristotle's account of how virtue i
 
 The passage's surrounding claim is that "we are adapted by nature to receive them, and are made perfect by habit". The foundation is the exercised capacity itself, the same structure Aristotle gives the arts.
 
+The building image is doing more than the metaphor it has become, since Aristotle is not saying that practice is the base a virtue stands on but that the practice is the virtue being assembled. A builder becomes a builder by building, and the buildings are not a preparation for building but the building itself happening; the same is true of a just act in relation to justice. The passage therefore removes a gap that the metaphor introduces, which is why Aristotle does not say that a person must first have the virtue in order to practise it.
+
+The practical reading runs against a common intuition about readiness. A person who waits to feel like someone who can act well is waiting for the one thing the account says arrives only through the acting, and the waiting is what keeps the capacity from forming. The habituation is also not a claim that repetition is sufficient, since Aristotle's surrounding text distinguishes being adapted by nature to receive the capacities from being made perfect by habit, and the two are doing different things. A person applying the concept can read their own unfamiliarity with a virtue as a sign of practice that has not yet been done rather than as a verdict on their character.
+
 ### Here
 
 - [[MO035 — Understand that habits are the foundation of sustainable motivation]]
