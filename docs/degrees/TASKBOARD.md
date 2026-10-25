@@ -508,3 +508,16 @@ standard caveats: third-party transcript pages, no timestamps in retrieved
 text, playback itself not opened. QI-01 (deg-cmp) transcript attempt was
 Cloudflare-blocked (403) on both routes — recorded in the card, stays
 description-basis for the next pass.
+
+### Checkpoint — deg-verify-a second transcript round (14:01Z, 2026-10-25)
+
+Worker-pplx-degrees-1: deg-contemplative coverage confirmations — Komjathy
+M01-D03 and M01-D08 and Carrasco M05-MA-02 upgraded to verified-video via
+third-party transcripts. Session tally for the transcript lane: 13 cards
+coverage-confirmed (4 title-only flags resolved); two transcript pages
+unavailable (QI-01 Cloudflare 403, M01-D11 client error) and recorded as
+such in the cards. Also this window: ST-06 Pigliucci second search (no
+YouTube upload of the 87:25 talk; Stoicon-X Toronto near-title candidate
+recorded as a different event, owner decision) and the SRC-M07-018 Huberman
+Essentials official YouTube mirror found (duration provisional from search
+listing).
