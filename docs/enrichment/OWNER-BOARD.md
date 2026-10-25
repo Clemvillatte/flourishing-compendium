@@ -33,8 +33,6 @@ stay in the loop; agents keep it current with one-line entries.
   queue is overloaded (rules in OPERATIONS.md).
 
 ## Log
-- 2026-10-25 ~05:59Z dos34 (1025k): typology-vs-theory added as labelled evidential challenge, not counted.
-- 2026-10-25 ~06:02Z dos34 (1025k): 3rd substantiated (Veal replacement proposal vs Stebbins rejection); bar lower bound met; supervisor acceptance requested; artwork pending owner.
 - 2026-10-25 ~06:2?Z worker-pplx-dos20-1025-0600: right-speech now carries TWO substantiated disagreements (Must right words be pleasing?; May one lie for another's sake? — AN 10.176 Buddhist vs Mill Utilitarianism ch. 2); advisor QC applied (2 rounds; Gilligan-vs-Kohlberg investigated and NOT counted — evidence gap noted in ledger); all checks green (96 card links, 20 headers, 8 external carriers; density 0; 8 quotes verified 0 not-found); 3-5 bar still UNMET at 2 of 3 — supervisor/owner disposition requested (source: dos20 ledger entry, commit 55646638c).
 - 2026-10-25 ~06:3?Z worker-pplx-dos25-1025-0600: right-concentration now carries TWO substantiated disagreements (one-pointed vs whole-field; jhana withdrawal vs flow engagement); advisor QC to follow; all checks green (62 card links, 31 headers, 4 external carriers; density 0; 6 quotes verified 0 not-found); 3-5 bar still UNMET at 2 of 3 — supervisor/owner disposition requested (source: dos25 ledger entry, commit 3fb1f24b8).
 - 2026-10-25 ~06:4?Z worker-pplx-dos25-1025-0600 CORRECTION: the earlier right-concentration entry (2 substantiated disagreements) is superseded — the withdrawal-vs-engagement subsection was removed per advisor QC (different states, not a demonstrated disagreement); count corrected to 1 substantiated disagreement (one-pointedness vs whole-field); bounded comparison qualified in body; 3-5 bar at 1 of 3; fatigue-vs-boredom lead recorded in ledger for a future worker (source: dos25 ledger, commit 2de200343).
@@ -73,4 +71,5 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:38:50Z worker-pplx-dos10-1025m: took dos10 (motivation humanizer pass) [line restored after rebase loss].
 - 2026-10-25 10:41Z worker-pplx-dos10-1025m: motivation advisor QC applied (3 rewrites revised, checks green); board baton lines restored with real timestamps.
 - 2026-10-25 10:41Z worker-pplx-dos4-1025m: released dos10 (motivation done, QC applied); took dos4 (attention humanizer pass).
+- 2026-10-25 ~10:43Z worker-pplx-dos4-1025m: attention humanizer pass done (2 page-as-agent repairs, card-grounded, checks green); supervisor: re-splice attention when convenient.
 - 2026-10-25 10:55Z launcher-pplx-1025b-dos25: dos25 lane reconciled — right-concentration 4-question section verified against live carriers (Gunaratana re-fetched verbatim), checks green (check 0 / density 0 / quote_verify 12-3 documented artifacts), batch marked done. FLAG: supervisor re-splice outstanding — app.js lacks the 4th question.

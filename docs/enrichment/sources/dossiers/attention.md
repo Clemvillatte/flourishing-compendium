@@ -567,3 +567,34 @@ deleting the conclusion passage from the normalized text. The
 quotation itself is exact against the opened PDF and stands on the eye
 verification recorded here and above. No dossier text and no shared
 script were changed in this pass.
+
+Humanizer pass (2026-10-25, worker-pplx-dos4-1025m): reader-level
+repair of page-as-agent self-description, two edits, no claims or
+quotes changed. (1) Trainings paragraph: "and the page records a
+citation gap behind the stronger versions of the claim" became "and
+the card notes a citation gap behind the stronger versions of the
+claim" — the caveat is recorded on the linked card itself ("The claim
+is cited to Lutz et al. (2008) and Zanesco et al. (2016). No 2016
+Zanesco paper matching the sentence has been located" and "The sources
+do not show that lengthening sessions step by step produces more
+capacity than other schedules"; card opened this session), so the
+attribution moved from the dossier to the card that carries it.
+(2) Attention-economy paragraph: "is Herbert Simon's scarcity,
+commercialised, and the page carries the contested finding that mere
+smartphone presence reduces cognitive capacity" became "is Herbert
+Simon's scarcity, commercialised. The finding that mere smartphone
+presence reduces cognitive capacity is contested." The two claims are
+now separate sentences so the smartphone finding is not attached to
+Simon's account; the card (opened this session) presents the finding
+as "an influential but unresolved result" with the replication record
+on the card, and explicitly notes that Simon's argument is not
+covered there.
+
+Checks: dossier_check exit 0 (97 card links, 26 headers);
+dossier_density 0 dense; dossier_quote_verify 16 checked, 5 not found,
+all five pre-existing and documented above in this ledger (James
+psychclassics spans, Lavie 2005 spans, Killingsworth and Gilbert span;
+verbatim on their opened sources, fetch artifacts). No quote text was
+touched. Attention is published; the site data does not change until
+a supervisor rebuild, so this is flagged: re-splice attention when
+convenient.
