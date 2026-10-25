@@ -89,7 +89,8 @@
     "K396",
     "K397",
     "K399",
-    "K401"
+    "K401",
+    "K402"
   ],
   "in_progress": null,
   "flagged": {
@@ -102,7 +103,7 @@
   },
   "missing_concepts": 0,
   "sources_checked": 0,
-  "updated": "2026-10-25T05:16:24Z",
+  "updated": "2026-10-25T05:17:23Z",
   "band_done": false,
   "notes": "Minted by supervisor-pplx-1023a (2026-10-23, corrected + AUDITED same day): K-E band for the OUT-OF-QUEUE kernel gap — content/kernels/ pages recorded neither done in ANY band state file (matched by K-ID or by bare title; kpr records some kernels by title, cmp records K413-K417 by 'K-ID — title' strings) nor present in queue-kernels.json. MEMBERSHIP CORRECTED 2026-10-23: original mint wrongly included K200, K378, K379 (done via kpr title records) and K413, K416, K417 (done via cmp records); corrected membership = 61 pages. AUDIT EXECUTED 2026-10-23 (supervisor, against the K100 model = 594 words / 1 blockquote / 7 sections): true range 203-1401 words, MEDIAN 302; 4 pages MEET a K100-style bar (>=500 words, >=1 blockquote, >=3 sections): K387, K396, K418, K419 — these need only verification + a done record if they hold up to quote checks; 57 pages NEED ENRICHMENT to the K100 model (owner workability directive applies, as on k1c/k1d). Workers: start with the 4 meets-bar pages (quick wins), then enrich the 57 in manifest order; verify quotes against OPENED carriers; record via this state file. Note: the dashboard script was fixed same day to count kernel done from ALL band state files; these 61 are additional to the queued-not-done items (k1c 32 + k1d 33); kernel completion requires both. QC (supervisor, 2026-10-23): K419 verified and recorded done — all four blockquotes re-verified against freshly opened carriers (3x Voigt/Qi Encyclopedia article 163 verbatim; the Kohn jade-inscription passage verbatim against the owner's Drive library copy, PDF p.14 region); page meets the K100-style bar (1401 words, 4 quotes, sections present). QC (supervisor, 2026-10-23): K418 also verified and recorded done — all four blockquotes verbatim against freshly opened carriers (Ni et al. 2026 JMIR; Henz & Schöllhorn 2018 Frontiers; Zhu et al. 2022 PMC; Kohn p.102 Daoyin jing 16b against the owner's Drive copy). QC (supervisor, 2026-10-23): K396 verified and recorded done — all five blockquotes verbatim against freshly opened carriers (2x Fredrickson 2008 PubMed; Gu et al. 2022 PubMed; Kuyken et al. 2016 PubMed; franticworld.com Befriending page). TRIAGE CORRECTION: K387 does NOT meet the bar after all — its only '>' line is the kernel header (no real quotes); K387 moves to NEEDS ENRICHMENT (add at least one verified quote per the K100 model). Meets-bar set is now just K419, K418, K396 (all three verified and recorded done)."
 }
