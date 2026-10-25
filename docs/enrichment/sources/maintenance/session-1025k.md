@@ -78,3 +78,6 @@
 
 ## B047 Keep the great doubt alive
 - Carriers opened: Terebess Hakuin Selected Writings page, Great Doubt PDF, Olson essay page. Terebess shows Hakuin attributing the tripod saying to 'a priest of former times' and the doubt/enlightenment saying to 'a teacher of the past'; page claimed the tripod as Hakuin's own and gave a Yampolsky p.144 locator I could not verify. Rewritten with verified Terebess wording; alternative 'awaken fully' wording kept as quoted in Great Doubt PDF and Olson. Flag: original Yampolsky page not located.
+
+## P178 Treat yourself as a process
+- Carriers opened: Rogers On Becoming a Person (p.17 confirmed; passage verbatim with following sentences), Neff 2003 PDF (self-compassion.org; three-component definition verbatim). Page cited PMC3743650 as 'Neff 2003': that PMC article is a heart-rate-variability study (wrong source); replaced. Removed unsupported garden/process claims and invented eating example.

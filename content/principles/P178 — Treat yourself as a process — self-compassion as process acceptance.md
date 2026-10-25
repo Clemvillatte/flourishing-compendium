@@ -12,20 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 178** — Treat yourself as a process: self-compassion as process acceptance
 
-Rogers's paradox is one of the strangest and most useful sentences in psychotherapy: "the curious paradox is that when I accept myself as I am, then I change" ([Rogers 1961, On Becoming a Person, ch. 1, p. 17](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf)). The paradox disappears the moment you treat the self as a process rather than a product. You do not accept the self the way you accept a finished painting; you accept it the way you accept a working garden — which still needs watering, and still has weeds, and still is the thing you are growing.
+Carl Rogers describes what happened as he learned to accept his own imperfection, and he does so as a report on his own experience.
 
-Neff's later research formalises the same move without the paradox: self-compassion has three components — self-kindness, common humanity, and mindfulness — and none of them require the self to be good, only to be honestly seen ([Neff 2003, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743650/)). Acceptance is the working condition the process needs to keep running, and passes no verdict on the current state.
+> "It seems to me to have value because the curious paradox is that when I accept myself as I am, then I change. I believe that I have learned this from my clients as well as within my own experience — that we cannot change, we cannot move away from what we are, until we thoroughly accept what we are. Then change seems to come about almost unnoticed." (Carl Rogers, *On Becoming a Person*, 1961, Part I "Speaking Personally", p. 17, [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf))
 
-> "It seems to me to have value because the curious paradox is that when I accept myself as I am, then I change." (Carl Rogers, On Becoming a Person, 1961, ch. 1, p. 17, [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf))
+Rogers is speaking about himself and his clients, and he calls the claim a paradox. In the sentences just before it he writes of finding it "easier for me to accept myself as a decidedly imperfect person, who by no means functions at all times in the way in which I would like to function" (same page).
 
-**Plain words** Self-hatred is often defended as motivation, and it is the opposite. The loop — beat yourself up, feel worse, seek relief in the exact behaviour you were beating yourself up for — runs on the punishment. Rogers's point is that you cannot improve something you will not look at honestly, and you cannot look at something honestly while you are busy hating it. Acceptance is not the end of growth; it is the room the growth happens in.
+Kristin Neff's 2003 paper gives a later, research-based account of self-directed acceptance. She defines self-compassion as having "three main components: (a) self-kindness—being kind and understanding toward oneself in instances of pain or failure rather than being harshly self-critical, (b) common humanity—perceiving one's experiences as part of the larger human experience rather than seeing them as separating and isolating, and (c) mindfulness—holding painful thoughts and feelings in balanced awareness rather than over-identifying with them" ([Neff, "Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself", *Self and Identity* 2003](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf)). Neff's definition and Rogers's sentence come from different traditions, and I am putting them side by side as parallel ideas, not claiming that Neff builds on Rogers.
 
-*For example:* Two people both want to eat better. One runs on self-criticism and ends up stress-eating after every harsh inner comment. The other stops the war and just tracks what actually happens. A month later the second one is eating better; the first is still fighting the same fight. The war was not motivation; it was a cost, paid every day, with nothing to show for it.
+**Plain words** Rogers found that change began when he stopped fighting what he was. He says the change then "seems to come about almost unnoticed". Neff's three parts describe what that acceptance can look like: kindness toward yourself, the recognition that others struggle too, and a steady look at the pain.
+
+*For example (my illustration, not from Rogers or Neff):* After a bad week of eating, you can note exactly what happened, without a verdict, and carry on from there. The record is something you can work with, whereas a verdict mostly gives you more to feel bad about.
 
 ## Sources
 
-- [Rogers 1961, On Becoming a Person, ch. 1, p. 17](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf)
-- [Neff 2003, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743650/)
+- [Carl Rogers, *On Becoming a Person* (1961), p. 17, PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf): the quotation and the "decidedly imperfect person" line (page 17 confirmed against the printed page number).
+- [Kristin Neff, "Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself" (2003), self-compassion.org PDF](https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf): the three-component definition. The page previously linked PMC3743650, which is a different (heart-rate-variability) paper.
 
 ## Psychology parallels
 
