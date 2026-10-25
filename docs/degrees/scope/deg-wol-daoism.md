@@ -41,7 +41,7 @@ deg-contemplative modules 1 and 2 (Daoist foundations and practice) plus their m
 Anchors opened by the strategist, 2026-10-25 (ledger: docs/degrees/ledgers/deg-wol-daoism.md):
 
 1. Warwick PH387-15, Daoism: The foundational texts — https://courses.warwick.ac.uk/modules/2021/PH387-15 (aims and full outline syllabus). A philosophy module: political readings of the Daodejing (Hanfeizi, norms/knowledge), Zhuangzi on skill and wu wei, the Art of War, and Zhuangzi's environmental ethics. No religious or ritual Daoism.
-2. Wabash Center RELS 318 syllabus (Fischer) — https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf. Covers the philosophical core (Laozi, Zhuangzi with primary and secondary scholarship) and weeks on religious Daoism: Celestial Master and Quanzhen monasticism, meditation, and a source-based project assessment.
+2. Wabash Center RELS 318 syllabus (Fischer) — https://wabashcenter.wabash.edu/storage/assets/syllabi/Daoism-Fischer.pdf. Covers the philosophical core (Laozi, Zhuangzi with primary and secondary scholarship) and weeks on religious Daoism: Celestial Master and Quanzhen monasticism (with assigned scholarship on early Daoist mystical praxis and Quanzhen asceticism and cultivation of health and longevity), and a source-based project assessment.
 3. University of Florida CHT3513, Taoism and Chinese Culture (Wang, Fall 2022) — https://languages.ufl.edu/wp-content/uploads/sites/119/Fall22_CHT3513_Wang.pdf. Full-spectrum survey: Daodejing/Zhuangzi first, then Han cosmology, Celestial Master, Shangqing, Lingbao, Thunder Rites, Quanzhen, Zhengyi, ritual, sacred space, women in Daoism, festivals, Daoist art.
 
 Comparison:
