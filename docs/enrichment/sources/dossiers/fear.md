@@ -183,3 +183,44 @@ this session: fear (Aristotle Rhetoric II.5 Roberts definition,
 exact) and gratitude (Emmons and McCullough 2003 gratitude-outlook
 summary sentence, exact in the UC Davis PDF). No corrections
 needed.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos27 baton)
+
+Reviewed all 10 voice-audit candidates against the current file (fresh
+audit run; persisted line numbers had shifted). Voice dispositions: all
+10 flagged constructions were judged KEEP (line 12 scoping note, 22
+Aristotle nearness clause is a verbatim inline quote, 24 motive-state
+framing, 30 Kierkegaard's human-condition point, 72 Aristotle's
+softness/confusion distinction, 82 the inhibitory-learning gloss mirrors
+the quoted source, 118 the retention record, 124 Ivan Ilyich's
+unnamable fear, 136 Cato's historical motive). No scaffolds were removed.
+
+The card-link audit of the flagged entries, however, found two content
+errors, both in the "How fear is examined and classified" section, both
+now fixed against the linked cards (both cards were opened and read this
+session):
+
+- Line 36, The examination of fear: the entry attributed the card to
+  Seneca and glossed it as "the object of the wise man's fear is not
+  the external pain but his own possible collapse" — a claim the card
+  does not make. The card is Epicurus, Letter to Menoeceus (method: take
+  a fear, hold it up to reasoning, watch it dissolve or shrink to its
+  real size; the death case quoted verbatim from the card's epicurus.net
+  text). Entry rewritten to match the card.
+- Line 38, The classification of fears: the entry's trio (displaced
+  fear / objectless fear / fear of failing oneself) appears nowhere in
+  the repo — not on the linked card, not in this ledger. The card is the
+  owner's editorial label over the same Letter to Menoeceus (fear of the
+  gods, fear of death, sorting of desires; the card's Scope note says
+  the letter supplies no ranked taxonomy). Entry rewritten to match the
+  card.
+
+FLAG FOR SUPERVISOR: two entries in one section misattributed or
+unfaithful to their linked cards suggests this section was drafted
+against sources outside the card set; the section's other entries
+(SP038, S063/D097) were spot-checked against their cards' traditions and
+matched, but a supervisor verification pass over this dossier's full card
+glosses would be prudent.
+
+Checks: dossier_check.py exit 0. Scope: candidate-line review plus
+card-fidelity check of the flagged entries' cards.

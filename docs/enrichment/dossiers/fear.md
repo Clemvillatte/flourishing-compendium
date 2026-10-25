@@ -33,9 +33,9 @@ The same review proposes a fear module with four characteristics: preferential a
 
 ### How fear is examined and classified
 
-[The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): Seneca's program for examining fear before it arrives; on the card's account, the object of the wise man's fear is not the external pain but his own possible collapse.
+[The examination of fear](https://clemvillatte.github.io/flourishing-compendium/#card=The%20examination%20of%20fear): Epicurus's method in the Letter to Menoeceus — take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size; his case is death, which is nothing to us, since when we are, death is not come, and when death is come, we are not.
 
-[The classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears): the displaced fear (displacement to physical ills), the objectless fear, and the fear of failing oneself.
+[The classification of fears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20classification%20of%20fears): the card's editorial label for the Letter to Menoeceus — its two main fears, of the gods and of death, and its sorting of desires so the groundless ones can be dropped; the letter supplies no ranked taxonomy.
 
 [SP038 — Treat superstition as fear's theology](https://clemvillatte.github.io/flourishing-compendium/#card=SP038%20%E2%80%94%20Treat%20superstition%20as%20fear%27s%20theology): Spinoza's description of superstition as dread converted into behavior — the surveying of nature, the paper talisman against misfortune.
 
