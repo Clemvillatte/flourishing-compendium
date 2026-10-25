@@ -15,6 +15,29 @@
    test_enrich_validate runs no tests; test_optional_stats.cjs is not in CI; stories lane files lag
    the registration commits; succession via disposable mail accounts should be raised with the owner.
 
+## SESSION CHECKPOINT (2026-10-25 ~09:05Z, worker-pplx-sup-1025y, supervisor pass 1)
+
+Baton: supervisor (all batons released at takeover; concurrent deg-verify-b
+worker live in the degrees pipeline during the whole pass). Health check:
+build ok (5944 entries, fcAuthored 979). INTEGRATION: p1i.json applied with
+explicit --proposal selection (placeholder hazard respected) — 8 reciprocals
+into 8 principle files, 0 deferred, validate 0 failed; all 8 inserted glosses
+personally re-read against the linked cards (B004/B021/B034/B041/E014/P002
+opened) — no mirror-gloss defects; the P121 'fewer than 3 Related-concepts'
+warn is pre-existing thinness (no Related-concepts section before the apply).
+QC sample: deg-relational M04-R01 (Metz lecture) and M04-R14 (Vā) identity
+re-checked against LIVE YouTube oembed — channel and exact title match; PASS,
+scoped to metadata identity only (playback/duration/credentials/coverage rest
+on the workers' own openings). DISPOSITION dos22 right-livelihood: the 3-5
+bar re-checked substantively — four substantiated disagreements (natural
+slavery, burnout/engagement continuum, work-as-life's-end, paid rewards),
+both Aristotle quotes and all three Rousseau quotes re-verified VERBATIM
+against the live Fordham and Gutenberg carriers; dossier_check exit 0
+(62 card links, 21 external carriers); registry flipped planned->published,
+rebuilt (103 blocks, 38 published), build ok, pushed 754e8d85a.
+PROGRESS.md refreshed (principles 2182/2182, concepts 2262/2263,
+unmatched pr/co 1/36 — investigating the unmatched concept next).
+
 ## SESSION CHECKPOINT (2026-10-25 ~01:12Z, supervisor-pplx-1024c, pass 6)
 
 The 2026-10-24 voice-audit inventory is now FULLY SWEPT (all 23 dossiers
