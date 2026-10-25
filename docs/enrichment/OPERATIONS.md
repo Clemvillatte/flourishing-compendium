@@ -2032,3 +2032,18 @@ The advisor's final verification caught overstated records in this session's QC 
   anchors/entities) and one carrier-side fetch block noted (MIT
   Classics intermittent 403 from this sandbox; not a content
   finding).
+
+## Assistant-supervisor correction addendum — T+35 (same supervisor)
+
+- The advisor QC round at T+33 demoted three of my pairings; all three
+  corrections are applied and pushed: (1) dos19 Kant-vs-Mill demoted to
+  comparison, consolidated with the existing intention-worth question; dos19 at
+  1 substantiated, 2 needed. (2) dos22 monk-vs-householder pairing demoted
+  (role-dependent obligations); publication flip REVERSED, registry back to
+  planned, manual fcDossiersData surgery (37 published); dos22 at 2 of 3.
+  (3) dos38 Kant subsection reframed to "Does the cogito establish knowledge
+  of a thinking substance?" with Descartes' explicit Meditation VI knowledge
+  claim (raw-verified); the-self stands at 3 substantiated. Creation (dos31)
+  flip was NOT reversed — its three disputes were QC'd against the
+  affirm/deny test before the flip and the advisor's reversal named only
+  the three pairings above.
