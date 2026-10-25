@@ -665,7 +665,7 @@
    "stid": "ST422"
   },
   "s1a-016": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
    "history": [
     {
@@ -701,6 +701,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T14:03:02+00:00",
+     "to": "ready",
+     "note": "verification pass: ctext bot-walled, both Legge quotes re-verified via ctext's indexed text and two independent Legge hosts; chinaheritage re-opened directly; ready"
     }
    ],
    "stid": "ST423"
@@ -1791,5 +1796,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:01:30+00:00"
+ "updated": "2026-10-25T14:03:02+00:00"
 }
