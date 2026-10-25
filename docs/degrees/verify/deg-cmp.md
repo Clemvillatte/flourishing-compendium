@@ -165,3 +165,24 @@ tier gap stands as documented above.
 - Relevant segment: whole talk, 1:34:38.
 - Verification status: verified-video (2026-10-25); credentials from the
   description, institutional page pending.
+
+### Gallery tier selection update 2 (same session)
+
+8-minute tier: a standard-meeting candidate is now verified —
+Susan Thompson, "Find Peace: Easy Standing Meditation (Zhan Zhuang)",
+Internal Tai Chi channel,
+https://www.youtube.com/watch?v=9YJc2HptbYQ — watch page opened this
+session: duration 16:12, published 2026-02-21; the uploader
+description states an 8-minute easy standing-meditation follow-along
+inside the video, guiding Zhan Zhuang with the Song state; the page
+states her instruction is shaped by direct training in the Wu Ji
+Jing Gong lineage of Master William Ting (Ting Kuo-Piao), and
+identifies her as the author of "Beyond Form: Learning Tai Chi from
+the Inside Out" (teaching site taichisusan.com). The named lineage
+and named master satisfy the documented-teacher-training standard.
+Workload arithmetic: count 16:12 (the video total), with the
+8-minute standing practice noted. The "documented gap" recorded above
+is superseded by this candidate; attachment remains a module-owner
+decision (the video is new, 2026-02-21, and the practice length
+inside the video is uploader-stated, not yet confirmed against the
+recording).
