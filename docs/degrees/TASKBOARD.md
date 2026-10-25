@@ -118,6 +118,12 @@ reference, unique source ids in brackets):
   same session: QI-01, M01-D11 confirmed; Jelby ENS corroborated on an
   opened journal PDF; M23 dead videos re-confirmed; Holden candidate
   partial update (see the entries above).
+  CORRECTION (final verification window, section-4 ruling): of the six
+  upgrades recorded above, only M08-P03 Seligman is retained (Penn
+  Positive Psychology Center institutional page); M08-P15, M08-P09,
+  M08-P12, M08-P13 and M08-P10 were REVERTED to verified-partial in the
+  final saves — their instructor credentials rest on host descriptions,
+  which section 4 does not accept; coverage evidence retained in-file.
 
 - 2026-10-25 (before the 14:51:39Z save) worker-pplx-degfin-1 (deg-verify-a):
   three coverage/credential upgrades pushed (5641d6465, 083dbe521): (1) QI-01
