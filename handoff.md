@@ -3341,3 +3341,15 @@ completion). Phase 0 stop-gate still blocks module production.
   token filled; token never stored in the repo). Sign-in code authorized
   by the owner. Launch took the standard batched browser flow; no
   obstacles beyond one Cloudflare interstitial after code entry.
+
+## AGENT LAUNCH 11 (2026-10-25 ~12:00Z, launcher worker-pplx-ef25-launcher, no baton held)
+
+Path A launch 11 (fresh sign-in): account jenniferg0218+xaizj@outlook.com
+(signed in as jenniferg041019, Free plan), worker prompt (current
+PROMPT-WORKER.md with the session token filled, 8414 chars) pasted in
+one call and verified head/tail before submit (Cloudflare challenge on
+arrival resolved by one re-navigate; a second challenge after code entry
+also resolved by one re-navigate). Agent running at
+https://www.perplexity.ai/computer/tasks/2496a488-2900-4f3a-96b7-cb76662508f0
+(launched 2026-10-25 ~12:00Z). Expect the new agent to take a baton on
+next baton.py status.
