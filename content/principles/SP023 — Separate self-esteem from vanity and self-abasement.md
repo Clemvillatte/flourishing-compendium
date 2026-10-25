@@ -16,7 +16,7 @@ In the Definitions of the Emotions, Spinoza defines self-approval as pleasure ar
 
 > "it may happen, that a man, sorrowfully regarding his own weakness, should imagine that he is despised by all men, while the rest of the world are thinking of nothing less than of despising him." (Ethics, Definitions of the Emotions XXVIII, Explanation, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Pride is thinking too highly of yourself; humility is pain when you look at your own weakness ([Ethics, Definitions of the Emotions XXVIII and XXVI](https://www.gutenberg.org/ebooks/3800)). This page proposes a two-column exercise: one column for what you know about your abilities, one for what you only assume other people think, and then a look at which column carries more weight in your day.
+**Plain words** Two feelings live next to self-knowledge and get mistaken for it. Vanity swells when you imagine everyone rates you highly — a guess about other minds dressed up as a fact about yourself. Self-abasement aches when you assume everyone despises your weakness — the same guess, pointing down. Neither is the real thing, which is what you can actually do, checked against what you have actually done. The two-column exercise puts them side by side: one column for what you know about your abilities, one for what you only assume other people think, then a look at which column carries more weight in your day.
 
 **For example:** A colleague makes a real mistake in a report and reads the team's silence afterward as contempt. The exercise is to distinguish the mistake, which is on the page, from the assumed audience, which is not.
 ## Psychology parallels
