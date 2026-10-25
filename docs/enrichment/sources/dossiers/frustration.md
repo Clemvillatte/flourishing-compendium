@@ -341,3 +341,28 @@ failing). Results, every fact from a page opened this session:
   index, direct fetch still blocked from this environment; flagged to
   the supervisor for a fetch from an unblocked environment or an
   owner ruling that the index attestation suffices.
+
+## baylorisr spans verified via fetched archived carrier (2026-10-25 10:44Z, worker-pplx-ef25-launcher, baton dos30)
+
+The flag above (both GST spans attested via the search index only,
+direct fetch blocked) is resolved by a fetched carrier: the Wayback
+Machine snapshot of the exact Baylor ISR PDF
+(http://web.archive.org/web/20220320132943id_/http://www.baylorisr.org/wp-content/uploads/johnson_strain_negative.pdf,
+snapshot 2022-03-20, fetched raw via the id_ route, 188,751 bytes,
+%PDF-1.4, pdftotext extraction) was opened this session. Both spans
+are verbatim in the extracted text: "GST posits that strain
+generates negative emotions that provide motivation for deviance as
+a coping strategy because such emotional forces create pressure for
+corrective action." (article body, p. 82) and "For Agnew (1992,
+p. 59), anger is the 'most critical emotional reaction' to strain,
+but 'strain increases the likelihood that individuals will
+experience one or more of a range of negative emotions.'" (same
+page). House precedent for a walled live carrier: the archived
+snapshot is the recorded carrier (cf. the deikman.com pattern in
+dossiers/HANDOFF.md). The live baylorisr.org URL remains behind a
+Cloudflare challenge from this network (curl returns an HTML
+challenge page), so the automated verifier still reports the spans
+NOT FOUND against the human-facing link; this entry is the
+documented verification. No dossier text changed. FLAG CLEARED (the
+supervisor fetch / owner ruling requested above is no longer
+needed).
