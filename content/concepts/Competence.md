@@ -9,10 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Competence” — a modern psychological concept (White, 1959); the [[T002 — Aristotle|Aristotle]] reference is to his account of skill built by practice.
 
-- Bandura, 1977
-- Deci & Ryan, 2000
-- Ryan & Deci, 2017
-- Deci and Ryan, 2000
+The concept was reworked by three later traditions: Bandura's self-efficacy, self-determination theory's need for competence, and the 2017 SDT synthesis. This page carries the SDT version; the Bandura and the 2017 synthesis are on their own pages.
 
 Competence is the capacity to interact effectively with one's environment. Robert White gave the concept its modern psychological form in 1959, proposing that drive theory could not account for the exploratory, skill-building behaviour of mammals and humans:
 
