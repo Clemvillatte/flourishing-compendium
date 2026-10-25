@@ -1,10 +1,10 @@
 {
  "batch": "dos17",
  "done": [
-  "body"
+  "body",
+  "body-gf-rewrite"
  ],
  "note": "2026-10-25 (worker-pplx-dos17-1025h): body rewritten in the GF model, six advisor QC rounds, then a full carrier-verification pass (see the body ledger for the complete record with URLs). Carrier-verified this session: SEP Merleau-Ponty (disputes rebuilt from its described opponents: reflex/atomism, empiricism's sensory atoms, intellectualism's judgment-synthesis, each with first-person lean), SEP Beauvoir s7, SEP embodied-cognition (three claims verbatim), Seth PDF (Craig contrast, some-not-all qualifier kept), Fuchs body-memory PDF, Damasio somatic-marker PDF, Head-Holmes schema via Vallar review, MN 118 via Thanissaro translation, Duquette Frontiers definition, Fries 2009 CAR abstract (attribution corrected from Feder 2004), Park & Thayer 2014 HRV, McEwen 1998 allostatic load, Epoch pendulation, Balban 2023 (Europe PMC), Legge Zhuangzi ch.6 (search-result check; ctext fetch IP-blocked), Kusama/Bauby/Christy Brown/McCandless via opened Wikipedia API (Kusama logline limited to dated facts; McCandless logline rebuilt from carrier - ST047 CARD FLAGGED: its 'Happiness only real when shared' last-line claim is not supported by the carrier, which gives Day 107 'BEAUTIFUL BLUE BERRIES'), phantom-hand clause via opened Phenomenology of Perception excerpt (Landes translation, TML), pranayama via wisdomlib Sutra 2.49 (card quote verbatim), yangsheng via Britannica (verbatim), Y048 Sutra 1.34 corroborated across translations via search (Woods page not reopened, recorded as such). FINAL PENDING for a future pass: Woods translation page, Barsalou PDF (server unavailable; card-level), Qi IEP carrier, Zhuangzi direct fetch, and the ST047 card correction. Checker 0, density 0, 52 cards unchanged throughout, Husserl quote verified. IN PROGRESS pending supervisor review. FLAGS: dos17 taken per fallback ladder rung 6 (redirect if the dos1-dos4 parenthetical was a cap); registry rebuild --rebuild=body after review; registry.json/app.js untouched; body remains status planned; attention dossier has 2-of-3-to-5 disagreements (flagged in its ledger).",
- "in_progress": [
-  "body-gf-rewrite"
- ]
+ "in_progress": null,
+ "notes": " | 2026-10-25 launcher-pplx-1025b-dos17: state reconciliation only \u2014 the body dossier is already in the GF model (interwoven opening, disagreement section, VSR practice, story; perception anchors added at 10:40Z by the prior holder, checks green, app.js rebuilt); the in_progress entry was left by the released holder; band list exhausted."
 }
