@@ -429,3 +429,20 @@ are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Supervisor cold-read (2026-10-25, supervisor-pplx-1024c)
+
+Full read of the manuscript. Findings: the opening states the factor
+and its floor in one paragraph; the map's three-restraint structure
+(against the Sutta's abstentions, with Bodhi's positive counterparts)
+is card-faithful and the Thanissaro/Bodhi/Aristotle quotations sit
+inside their entries correctly; the just-war parallel honestly holds
+the two sides without reconciling them ("I hold both sides... and do
+not reconcile them"); the Socrates/Wang Yangming section is the
+strongest part of the page — both sides quoted from opened
+carriers, Aristotle's partial walk-back included, and the relation
+left honestly open; the story section marks its own editorial
+juxtapositions (Prometheus) rather than passing them off as the
+myth's framing. No defects found at reader level; no edits. Checker
+exit 0. Editorial review only; no external carriers freshly opened
+this pass.
