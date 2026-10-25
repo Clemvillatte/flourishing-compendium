@@ -775,7 +775,7 @@ attach them with evidence on file.
 - Relevant segment: whole episode, 58:25.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:47Z save): the third-party
+  batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=FmYOx-WxsOQ&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the episode's substance: the Center for Process
@@ -846,7 +846,7 @@ attach them with evidence on file.
 - Relevant segment: whole roundtable, 1:21:27.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:47Z save): the third-party
+  batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=NV41n96bRM4&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the roundtable's substance: Bergson's 1913
@@ -876,7 +876,7 @@ attach them with evidence on file.
 - Relevant segment: whole talk, 1:00:02.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:47Z save): the third-party
+  batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=FNrJbhY55yE&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the talk's substance: how Bergson's philosophy
@@ -905,7 +905,7 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:00:34.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:01:47Z save): the third-party
+  batched pass; written before the 15:03:28Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=C_-tE-alXI8&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened; Misak is named in the retrieved text) confirms the
@@ -977,7 +977,7 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 0:58:29.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:03:28Z save): the third-party
+  batched pass; written before the 15:04:54Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=GZNvecfQG8s&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened) confirms the plenary's substance: Husserl's account of the
@@ -1045,7 +1045,7 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:01:04.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:03:28Z save): the third-party
+  batched pass; written before the 15:04:54Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=sFhG1Yt5-0E&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened; Nadler is named in the retrieved text, though the
@@ -1112,7 +1112,7 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:28:23.
 - Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
   COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
-  batched pass; written before the 15:04:54Z save): the third-party
+  batched pass; written before the 15:05:51Z save): the third-party
   transcript route (https://youtubetotranscript.com/transcript?v=8wbcszqoDPs&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
   not opened; the introduction identifies David Mikics as the speaker,
@@ -1212,7 +1212,7 @@ attach them with evidence on file.
 - Relevant segment: whole lecture, 1:27:35.
 - Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT clearly name the speaker (garbled as "Miko Ba"/"Mika"), so Buis's identity still rests on the host description — see the note below.
   COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
-  2026-10-25, batched pass; written before the 15:04:54Z save): the
+  2026-10-25, batched pass; written before the 15:05:51Z save): the
   third-party transcript route
   (https://youtubetotranscript.com/transcript?v=yahceTYdcJI&current_language_code=en,
   opened 2026-10-25; no timestamps in the retrieved text; playback itself
