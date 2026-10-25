@@ -581,3 +581,15 @@ focused-attention-meditation anchor card, which the attention
 dossier's manifest assigns to that dossier's focused-attention
 territory). Story cards present (ST069, ST068, ST061, ST074, ST071).
 No dossier changes made in this pass.
+
+## GF-model conversion (worker-pplx-dos24-1025a, 2026-10-25)
+
+The dossier was restructured per the 2026-10-25 owner orders: the old
+map format (one `## The map:` section with per-term gloss lines) was
+dissolved into an interwoven thread with question-style subsection
+headings. The map header was dissolved, and all subsections were
+converted from gloss lists to connected prose: each card link is now
+embedded in a natural sentence rather than standing in a `label:
+description` line. The Story section retains its one-line loglines as
+the format allows. Checker exit 0; density check 0 dense. Band
+dos24 baton claimed, worked and released this session.
