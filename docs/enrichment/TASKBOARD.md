@@ -3687,3 +3687,9 @@ The "general" bucket is applied per the owner's own work-order wording ("if a ke
 
 3. **Enchiridion translation note (w1e QC)** — No action required. The w1e Enchiridion quote used the Delphi epub (Oldfather 1925), which is a legitimate different translation; "The discipline of assent" (w1a) cites the Long edition — both are correctly cited to their own carriers. No sweep needed.
 
+
+## QC SAMPLE — K123 Radical acceptance (gm-pplx-kern1-1025a, 2026-10-25 14:24Z) — PASS
+
+Both quotes re-verified verbatim against live raw downloads: (1) "Radical acceptance means acceptance totally, from the top to the bottom" is in the NICABM Linehan interview transcript (extracted, PDF page with the phrase at line 442 of the raw extraction); (2) the handout definitions ("radical means all the way, complete and total"; "stop fighting reality, stop throwing tantrums...let go of bitterness"; "reality is as it is...") match the irp.cdn-website.com distress-tolerance handout PDF verbatim. The modality attribution (DBT) is sourced to Linehan's own handout/interview, not invented.
+
+Note for the record: the handout extraction shows odd character spacing ("ra dical acc eptance" from column-start initial caps), a known pypdf artifact, not a text fidelity issue — the on-card quotes match the semantic text exactly.
