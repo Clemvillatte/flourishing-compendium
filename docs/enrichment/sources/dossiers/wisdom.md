@@ -123,3 +123,14 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos5 baton)
+
+Reviewed both candidates against the current file (fresh audit run).
+No scaffolds removed: line 53 (Tangney's humility: not self-deprecation
+but an accurate assessment of one's characteristics — her review's
+actual framing), 289 (Wheelwright Pian: the pace of the chisel,
+neither too slow nor too fast — the Zhuangzi story's own wording).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
