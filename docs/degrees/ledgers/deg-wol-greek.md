@@ -259,3 +259,17 @@ is preparatory only.
   wise?" and "what kind of wisdom do they have?" A transcript read to
   confirm coverage is pending; the candidate is not attached to any
   module.
+
+### Candidate transcript classification (2026-10-25, worker-pplx-greek-1)
+
+The Sadler Apology lecture's transcript was read (via the transcript
+service page, opened after the oembed and watch-page verification). The
+recording covers the official charges against Socrates (atheism,
+corrupting the youth) and the older accusations, the Apology as a
+starting point for Plato, the oracle and Socratic wisdom as knowing the
+limits of one's knowledge, the questioning of politicians, poets and
+artisans, the examined life, and Socratic questioning as testing claims;
+it closes by previewing the Crito. The candidate is now classified from
+the recording's transcript, not the title or description alone. It
+remains unattached: module design for the Socratic-method gap stays
+behind the Phase 0 stop-gate.
