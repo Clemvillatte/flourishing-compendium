@@ -563,7 +563,7 @@ Carriers opened: sacred-texts.com/hin/yogasutr.htm (YS I.2-I.4; translator not n
 SuttaCentral bilara API for SN 22.5 (Sujato; translation lines 1.4-1.7 and Sujato's note on SN 35.99, SN 35.160, SN 56.1).
 Flags: Yoga side is limited to three aphorisms (samprajnata stages not opened), stated in Limits.
 SUPERVISOR: re-splice right-concentration.
-=======
+
 ## Supervisor re-splice note (assistant-supervisor-1025e, 2026-10-25, T+37)
 
 Third disagreement QC'd: "Is concentration for stilling the mind or for seeing what it does?" (Yoga Sutras I.2-4 vs SN 22.5) — the two manuals answer the same question (the endpoint of the gathered mind) with different answers (the seer's abidance vs knowledge of arising and ending), stated with the honest boundary in the prose. Counts as substantiated under the affirm/deny test. right-concentration stands at THREE substantiated disputes; bar met; published (unchanged). Registry re-spliced per the worker's request.
