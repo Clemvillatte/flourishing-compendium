@@ -232,3 +232,11 @@ Opened through search and fetch:
 - [Rachana Kamtekar, “Marcus Aurelius,” Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcus-aurelius/). Read the account of providence, piety and acting justly toward others. Marcus's providential cosmology remains attributed to him, not asserted as empirical fact.
 
 Changes: one-sentence Plain words and a promotion example that retains the option of questioning an unfair decision and allows time before a conversation. Removed the formulaic application disclaimer and obligatory review step; preserved the body's explicit warning that separating the exercise from providential belief changes Marcus's argument. Preserved front matter, original numbered seed, primary quote, all distinct baseline links and lower sections. Did not use any medical analogy as evidence about actual disease or treatment.
+
+## Short-fix pass: R055's inherited Aristotle parallel and P073 locator
+
+Opened [Aristotle, *Nicomachean Ethics* IV.3 and IV.7, Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html). IV.3 concerns pride/magnanimity; IV.7 treats truthfulness between boastfulness and mock-modesty. In IV.7 Aristotle explicitly excludes keeping faith in agreements from this discussion. Corrected the inherited IV.3 locator to IV.7, added a live primary-source citation, and described the comparison as truthful self-presentation with a different scope from xin. All baseline wikilinks remain.
+
+Read the linked Trustworthiness concept for alignment. It already marks the scope distinction and explains that Chase's truthfulness chapter is numbered IX in that edition. The repaired R055 citation explicitly specifies Ross, whose chapter is IV.7; no cross-edition chapter-number equivalence is assumed.
+
+Applied the advisor's optional P073 refinement: printed p. 20 now accompanies the primary blockquote's Part I §1 locator. The quoted words were not changed. The R055 locator flag is resolved by this source-checked correction, not merely deferred.

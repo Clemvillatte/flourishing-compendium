@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Dewey treats a habit as an activity that involves both a person and their surroundings: walking requires ground as well as legs, and speech requires companionship and an audience as well as vocal organs ([Human Nature and Conduct, Part I §1, pp. 14–15](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)). This changes where he looks for ways to alter conduct:
 
-> We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires. (Dewey, Human Nature and Conduct, Part I §1, [full text](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html))
+> We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires. (Dewey, Human Nature and Conduct, Part I §1, p. 20, [full text](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html))
 
 His concern is moral as well as practical. Blame, praise and punishment themselves help shape the conditions for future action, so judging someone's character does not discharge responsibility for how we treat them ([Part I §1, pp. 18–20](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)). Dewey rejects both exclusive personal blame and treating social causes as excuses; he asks what our response will make possible next ([pp. 18–19](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)).
 

@@ -37,6 +37,7 @@ Suppose you promised to collect a friend but discover that your car is unsafe. E
 - [Karyn Lai, Learning to Be Reliable: Confucius' Analects, pp. 193–207, author preprint](https://philarchive.org/archive/LAILTB): reliability, relationships and situational judgment.
 - [Legge's Mencius, Li Lou I (chapter 7 of the Works), Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07): 4A12, sincerity and trust.
 - [Legge quotations, Wikiquote](https://en.wikiquote.org/wiki/James_Legge): reproduces Legge's Analects 1.8 wording on faithfulness and sincerity.
+- [Aristotle, Nicomachean Ethics IV.7, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html): the narrower truthfulness comparison in Philosophy parallels below.
 
 ## Stories
 
@@ -108,7 +109,7 @@ Suppose you promised to collect a friend but discover that your car is unsafe. E
 
 ## Philosophy parallels
 
-- **[[Trustworthiness|Trustworthiness]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV.3)
+- **[[Trustworthiness|Trustworthiness]]**: compare [[T002 — Aristotle|Aristotle]] on truthful self-presentation ([Nicomachean Ethics IV.7, Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)); he explicitly sets aside keeping faith in agreements, so the scope differs from xin.
 - **[[Fidelity|Fidelity]]** (Marcel, Being and Having)
 
 ## Related concepts
