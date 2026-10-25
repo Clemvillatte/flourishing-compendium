@@ -33,7 +33,7 @@ The same article records the distinction Heidegger draws:
 
 ### Why the structure matters for practice
 
-Because being-with is a structure rather than a choice, the practice cannot be to become related, only to notice how the relations are already running. The authentic mode the article describes is attention plus decision, which is what the kernels below train: the noticing of how the crowd's reading has become one's own, and the independent ruling on whether to keep it. The inauthentic mode is not villainy but inattention, which is why the practice is a listening exercise rather than a rebellion.
+Because being-with is a structure rather than a choice, the practice cannot be to become related, only to notice how the relations are already running. The authentic mode the article describes is attention plus decision, which is what the kernels below train: the noticing of how the crowd's reading has become one's own, and the independent ruling on whether to keep it. The inauthentic mode is not villainy but inattention, which is why the practice is a listening exercise rather than a rebellion. The reward of the exercise is not detachment from others, since the structure guarantees that others are always part of the equipment through which the world shows up.
 
 ### Here
 
