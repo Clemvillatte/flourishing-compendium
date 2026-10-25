@@ -17,6 +17,25 @@ The discipline of action taught in the Bhagavad Gita: act fully, give up attachm
 
 Chapter III of Arnold's translation urges the reader to perform the allotted task and describes work as preferable to idleness. In this reading, giving up attachment to reward accompanies continuing to do the work.
 
+The discipline of action taught in the Bhagavad Gita: act fully, give up attachment to what the act returns. The verse traditionally numbered 2.47 carries the core teaching ([Wikipedia, Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga)).
+
+> Find full reward
+> Of doing right in right! Let right deeds be
+> Thy motive, not the fruit which comes from them.
+> And live in action! Labour! Make thine acts
+> Thy piety, casting all self aside,
+> Contemning gain and merit; equable
+> In good or evil: equability
+> Is Yog, is piety!
+
+(Bhagavad Gita, Chapter II, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
+
+The same chapter turns the counsel into a psychological claim: the person who follows virtue for what it pays is less firmly held than the person who has settled the motive in advance. Krishna calls that settled motive "pure devotion," and says it casts good deeds and bad aside equally — not by dismissing them, but by not resting on them. The Gita's teaching on action is therefore a teaching about where the attention sits while the work is happening.
+
+Chapter III adds the everyday-facing half. Actionlessness is not available: nature's law compels a person into act, and the body's life proceeds only with work. The discipline is not to stop working but to hold the working and the reward as separate things. The passage Arnold renders as "Do thine allotted task! / Work is more excellent than idleness" carries that reading (Bhagavad Gita, Chapter III, [Arnold, The Song Celestial](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm)). In this reading, giving up attachment to reward accompanies continuing to do the work, and the two movements reinforce each other.
+
+The Gita's phrase for the attachment is "fruit" (phala) — what grows out of the act rather than what the act is. The discipline names this as a practice of attention rather than a renunciation of outcome, since the outcome arrives whether or not it is wanted. What is released is the claim on it.
+
 ## Related concepts
 
 
