@@ -104,7 +104,7 @@ He adds that he hopes "to make it appear that all men have ever agreed in the do
 
 Kant, in the [Critique of Practical Reason](https://www.gutenberg.org/cache/epub/5683/pg5683.txt) (Abbott's translation), rejects the kind of move Hume makes. He describes the view that actions are free because their causes lie in the agent's own ideas and desires, and answers:
 
-> "This is a wretched subterfuge with which some persons still let themselves be put off, and so think they have solved, with a petty word- jugglery, that difficult problem, at the solution of which centuries have laboured in vain."
+> "This is a wretched subterfuge with which some persons still let themselves be put off, and so think they have solved, with a petty word- jugglery, that difficult problem, at the solution of which centuries have laboured in vain, and which can therefore scarcely be found so completely on the surface."
 
 His reason is that a cause which lies in the antecedent state is "no longer in his power" when the subject has to act. Such freedom, he says, would be "nothing better than the freedom of a turnspit, which, when once it is wound up, accomplishes its motions of itself." Kant does not name Hume in this passage, so the pairing is mine; the target is the general "comparative" notion of freedom, which Hume's definition fits.
 
