@@ -164,7 +164,19 @@ Personality with The Big Five [00:13:53]; Defining and Measuring
 Intelligence [00:19:47]; Q&A [00:30:29]; The Roles of Genes and
 Environment [00:36:33]; Genes, Environment and Intelligence [00:51:16])
 and the opening of chapter 1 read: Bloom shifts from human universals to
-differences, framing how and why people differ. Lecture 13's chapter 2
+differences, framing how and why people differ. Lecture 12's chapter 1
+(00:00:00 to 00:15:44) was then read in full as well: Bloom reviews the
+functions of emotions and social emotions towards kin, presents
+nonhuman-primate smiles as almost entirely appeasement smiles, uses the
+Emperor penguin (March of the Penguins) to illustrate parental
+investment, contrasts the Cupboard Theory of attachment (operant
+conditioning, food) with Bowlby's comfort-and-stranger-wariness account,
+presents Harlow's wire-mother versus cloth-mother experiments and the
+solitary-confinement and harsh-orphanage findings, and closes the
+kin-emotions theme noting reversibility through later contact. This
+serves the M2 emotion-functions row. Status for the chapter-1 segment:
+verified-video; the remaining segments are candidates until their
+transcripts are read. Lecture 13's chapter 2
 (00:13:53 to 00:19:47) was then read in full: Bloom presents the Big Five
 factors (neuroticism versus stability, extraversion versus introversion,
 openness, agreeableness, conscientiousness), the OCEAN mnemonic, the
@@ -173,8 +185,7 @@ thirty) and show cross-observer agreement, and the observation that a
 personality leaves a trail in the minds of the people around you. This
 serves the M5 personality row. Status for the chapter-2 segment:
 verified-video; the remaining segments are candidates until their
-transcripts are read. Lecture 12 remains a candidate with its outline and
-chapter-1 opening recorded.
+transcripts are read. 
 
 Additional inspection (2026-10-25, batch 11): lecture 16 (Self and Other,
 Part I, 58:15) had its chapter outline recorded (Social Psychology and
@@ -215,7 +226,7 @@ blocking gaps on the register, not quiet omissions.
 | framework | Evolutionary change processes: variation, selection, retention, context (essential: the EEMM's organising frame) | [Maitland 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12392214/) | M1 | reading | apply the three processes to one own behaviour | rubric-checked application |
 | framework | Levels of analysis: biophysiological and sociocultural as context, idiographic multilevel assessment (essential: the EEMM is multilevel; see the context proposal in the scope doc) | [Hofmann and Hayes 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303929/) | M1 | reading | identify levels of analysis in a case study | level-labelling exercise |
 | framework | Research literacy: falsifiability, design, NHST, Type I and II errors, replication, theories (essential: the owner's exit capability requires critical reading of current research) | [Smith, Thinking like a Psychological Scientist](https://nobaproject.com/modules/thinking-like-a-psychological-scientist) | M1 | reading plus worked appraisal | appraisal of one study | appraisal rubric |
-| affective | What emotions are and do: functions across intrapersonal, interpersonal and cultural levels (essential: the affective dimension's core content) | [Hwang and Matsumoto](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus content-verified OYC lecture 11 chapter 1 (00:00:00 to 00:09:06) | function-spotting in a personal episode | episode analysis rubric |
+| affective | What emotions are and do: functions across intrapersonal, interpersonal and cultural levels (essential: the affective dimension's core content) | [Hwang and Matsumoto](https://nobaproject.com/modules/functions-of-emotions) | M2 | reading plus content-verified OYC lecture 11 chapters 1 and 2 (00:00:00 to 00:15:45) and lecture 12 chapter 1 (00:00:00 to 00:15:44) | function-spotting in a personal episode | episode analysis rubric |
 | affective | Emotion generation versus regulation; strategy families and goals of regulation (essential: the current debate the opened 2024 review maps) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading (the regulation-models strand rests on the review; OYC lectures 11 and 12 are candidates for support segments) | apply the process model to a personal episode | case analysis rubric |
 | affective | Theories of emotion construction: allostasis, constructed emotion, the prediction debate (essential: how emotions arise is the dimension's foundational question) | [Barrett et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12164598/) | M2 | reading | compare constructionist and basic-emotion accounts | comparison essay |
 | affective | Difficulties in emotion regulation and regulatory flexibility (essential: links affect to adaptation) | [Martinez-Priego et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11479914/) | M2 | reading | compare rigid versus flexible regulation in a case | written comparison |
