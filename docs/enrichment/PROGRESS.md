@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-25 10:58 UTC (input revision `a4d2c9d`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 11:58 UTC.
+As of 2026-10-25 11:00 UTC (input revision `568169c`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 12:00 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,9 +8,9 @@ As of 2026-10-25 10:58 UTC (input revision `a4d2c9d`). Scope: principles and con
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2181 | 1 | 2182 | 100.0% |
+| Principles | 2182 | 0 | 2182 | 100.0% |
 | Concepts | 2263 | 0 | 2263 | 100.0% |
-| **Combined** | **4444** | **1** | **4445** | **100.0%** |
+| **Combined** | **4445** | **0** | **4445** | **100.0%** |
 
 ## Stories (separate pipeline)
 
@@ -33,9 +33,9 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
 | Kernels | 316 | 1607 (cmp, k1a, k1b, k1c, k1d, k1e, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
-| Thinkers | 56 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 56 | — |
+| Thinkers | 57 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 56 | — |
 
-- Thinker reconciliation: 56 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 56 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
+- Thinker reconciliation: 57 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 56 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
 - Kernel reconciliation: 106 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K118', 'K119', 'K123', 'K124', 'K128', 'K129', 'K130', 'K133', 'K134', 'K137', 'K138', 'K143', 'K145', 'K147', 'K155', 'K157', 'K159', 'K160', 'K162', 'K166', 'K169', 'K170', 'K171', 'K173', 'K175', 'K176', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K228', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K252', 'K266', 'K270', 'K274', 'K277', 'K279', 'K291', 'K303', 'K320', 'K322', 'K324', 'K327', 'K329', 'K348', 'K350', 'K360', 'K366', 'K369', 'K370', 'K371', 'K372', 'K373', 'K375', 'K377', 'K380', 'K381', 'K383', 'K386', 'K387', 'K390', 'K391', 'K392', 'K393', 'K396', 'K398', 'K411', 'K414', 'K415', 'K417'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 0 kernel pages are not recorded done; 0 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
 - Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
@@ -43,9 +43,9 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Forest | Recorded done | Total | Done % |
 |---|---|---|---|
-| D — Daoist Principles | 191 | 192 | 99.5% |
 | B — Buddhist Principles | 198 | 198 | 100.0% |
 | P — Pragmatist and Process Principles | 196 | 196 | 100.0% |
+| D — Daoist Principles | 192 | 192 | 100.0% |
 | S — Classical Stoicism | 140 | 140 | 100.0% |
 | Y — Yoga-Vedanta Principles | 132 | 132 | 100.0% |
 | R — Relational Philosophies | 130 | 130 | 100.0% |
