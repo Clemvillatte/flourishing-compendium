@@ -257,3 +257,20 @@ After this session's 23 drafts (s1a-040 through s1a-062), the regenerated zero-s
      the other 343 legacy pages (plus the word floor). The s1a-028 prepared
      replacement body (quotes verbatim against Gutenberg #20203) remains available
      if the supervisor chooses to apply it, which would also bring the page to bar.
+
+## Duplicate-narrative sweep 2026-10-25 (storyteller-pplx-s1a-1025z, second pass)
+
+After finding three same-narrative duplicates elsewhere (s1d-008 = ST433 squirrel;
+s1d-010 = ST466 Kalama; s1c-039 ~ ST430 Franklin), I swept the remaining
+unpublished-ready drafts by narrative entity across all published pages:
+
+- s1a-031 (fire sermon), s1a-032 (Django), s1a-043 (Yan Hui), s1b-034 (Hakuin),
+  s1b-035 (Fan Li), s1b-038 (Zhuangzi burial), s1d-006 (Peirce diamond): NO
+  existing page tells their story. Clean.
+- s1a-042 (Milinda's Chariot, B122): FLAG for supervisor awareness — the same
+  Nagasena/Milinda chariot dialogue is already published as ST065 (legacy short
+  page, targets B020/B021/B037, reductionist reading). The draft's angle is
+  genuinely distinct (two-register conventional/ultimate reading, B122, verbatim
+  Rhys Davids quotes, far richer), so this is a disposition note rather than a
+  hold: check the overlap with ST065 before registering.
+- s1d-007 (Vina player): apparent matches were spurious substrings; clean.
