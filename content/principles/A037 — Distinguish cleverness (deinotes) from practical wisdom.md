@@ -19,19 +19,20 @@ For [[T002 — Aristotle|Aristotle]], cleverness is the capacity to find effecti
 
 Practical wisdom needs this ability, but also good judgment about what action is for. Aristotle argues that bad character can distort the starting points of deliberation. In VI.13 he makes the dependence reciprocal: strict goodness requires practical wisdom, and practical wisdom requires moral virtue ([VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
-The distinction therefore challenges both ingenuity detached from a worthy purpose and good intentions unable to find an appropriate course of action. It asks us to examine the purpose of an action as well as our ability to carry it out.
+Richard Kraut explains that character shapes the concrete goals from which deliberation starts ([Stanford Encyclopedia of Philosophy, §5.3](https://plato.stanford.edu/entries/aristotle-ethics/)). I therefore want to know what a plan is serving before admiring how well it works.
 
 ### Plain words
 
-Working out how to achieve something leaves the question of whether it is worth doing. Question the goal as carefully as the method. If the goal is worth pursuing, you still need to understand the circumstances well enough to act on it.
+Examine whether a goal is worth pursuing as carefully as you examine how to reach it.
 
 ### For example
 
-Imagine a marketer asked to make a misleading campaign more persuasive. They may be skilled at doing so. They can instead question the brief and use the same communication skill to make accurate information understandable. Changing the purpose need not mean abandoning the ability.
+Imagine being asked to make a misleading campaign more persuasive. Identify the claim you cannot support, ask for evidence and propose accurate wording. If the brief cannot change, consider whether to refuse it and what support you would need.
 
 ## Sources
 
 - [Aristotle, Nicomachean Ethics VI.12–13, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html): cleverness, good ends and practical wisdom.
+- [Richard Kraut, Aristotle's Ethics, Stanford Encyclopedia of Philosophy, §5.3](https://plato.stanford.edu/entries/aristotle-ethics/): character, concrete goals and the difference between cleverness and practical wisdom.
 
 ## Related concepts
 

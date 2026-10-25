@@ -211,3 +211,14 @@ Changes: shortened the setup, supplied the character-friendship distinction, and
 All four bodies passed source, structure and preservation checks; four checked, zero failed (189 / 201 / 207 / 181 prose words). Advisor confirmed the full R055 carriage quote, P073's Dewey/Anderson context, and P139's participant proportions and abstract-only scope. Suggested adding printed p. 20 to P073's main quotation locator, which will be handled during the short-fix pass.
 
 New inherited flag: R055's lower Philosophy parallels line locates Aristotelian trustworthiness at NE IV.3. Advisor checked Ross Book IV and found IV.3 concerns pride/magnanimity, while IV.7 addresses truthfulness. This needs a separately source-checked correction, with the contrast between xin and Aristotle's treatment made explicit rather than calling them interchangeable.
+
+## A037: Distinguish cleverness from practical wisdom
+
+Opened through search and fetch:
+
+- [Aristotle, *Nicomachean Ethics* VI.12–13, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). Read both chapters fully. The retained two-sentence blockquote matches VI.12. VI.13 supplies the reciprocal dependence between strict goodness and practical wisdom; mere success at arbitrary goals is not treated as virtue.
+- [Richard Kraut, “Aristotle's Ethics,” Stanford Encyclopedia of Philosophy, §5.3](https://plato.stanford.edu/entries/aristotle-ethics/). Opened the discussion of concrete goals, character and cleverness (1144a23–28). The new body sentence paraphrases that interpretation and marks the ensuing practical question as my own.
+
+Changes: one-sentence Plain words and a misleading-campaign example that names a claim, evidence, accurate wording and the possible cost of refusal. Read Phronesis, Virtue ethics and The unity of the virtues for alignment. Preserved front matter, seed, primary quotation, baseline links and lower sections.
+
+State reconciliation note: a concurrent supervisor aggregate-completion commit changed p1a's batch while this item was being reopened. Resolved the JSON merge in this band only, retaining the supervisor's flag texts and the worker's A037 in-progress state, then pushed the reconciled checkpoint before editing content. No other band's file, progress file or queue was edited.
