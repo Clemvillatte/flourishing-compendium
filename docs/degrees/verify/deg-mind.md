@@ -132,10 +132,11 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
   it offers "Watch the full episode" on the page, and the page's Premium offer
   covers transcripts and extras, not the episode itself (no paywall on the
   episode).
-- Duration: NOT PRINTED on the page. The page transcript's final marker is
-  03:25:32 and the final listed chapter begins at 03:29:08, so the episode runs at
-  least about 3:30. BLOCKING FLAG for the owner: a printed duration must be
-  supplied (for example from the episode's YouTube upload) before use.
+- Duration: 3:31:28, printed on the official Huberman Lab channel's YouTube
+  upload of this episode
+  (https://www.youtube.com/watch?v=IAnhFUUCq6c, checked 2026-10-25; uploaded
+  March 28, 2022). The canonical hubermanlab.com page still prints no duration,
+  and its transcript chapters run to 03:29:08, consistent with that upload.
 - Instructor credentials: Andrew Huberman, host; guest Dr. Andy Galpin, full and
   tenured professor in the Department of Kinesiology at California State
   University, Fullerton (per the episode page).
@@ -149,7 +150,7 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
   sodium bicarbonate; creatine; and absolute rest.
 - Relevant segment: whole episode (extent per transcript chapters, see duration
   flag).
-- Verification status: verified-page, with the duration gap flagged.
+- Verification status: verified-video, with the duration provenance noted.
 
 ### SRC-M07-015: Kristin Neff on Self-Compassion for Educators, Part 1 (Greater Good)
 
@@ -177,9 +178,12 @@ These are unattached records from the Block I hash half for deg-verify-a, verifi
   (https://www.hubermanlab.com/episode/essentials-improving-health-with-stronger-brain-body-connection);
   the page's Premium offer covers transcripts and extras, not the episode itself
   (no paywall on the episode).
-- Duration: NOT PRINTED on the page. The transcript is marked as under human
-  review and its chapter markers were not retrievable in-session. BLOCKING FLAG
-  for the owner: a printed duration must be supplied before use.
+- Duration: NOT PRINTED on the canonical page. BLOCKING FLAG still stands for
+  this Essentials edit. Verified pointer for the owner: the full-length episode
+  it is cut from, "How to Optimize Your Brain-Body Function & Health"
+  (Huberman Lab Podcast #30), is on the Andrew Huberman channel at
+  https://www.youtube.com/watch?v=rW9QKc-iFoY with a printed duration of 1:52:44
+  (checked 2026-10-25).
 - Instructor credentials: Andrew Huberman, professor of neurobiology and
   ophthalmology at Stanford School of Medicine (per the episode page).
 - Language: English.
