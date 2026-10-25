@@ -1558,3 +1558,22 @@ The advisor's final verification caught overstated records in this session's QC 
   (affect verification), dos19 claimed; dos17's body work
   complete per its ledger. No conflicts with any live worker;
   no worker files edited by this supervisor this pass.
+
+# Supervisor QC entry 16 — 2026-10-25 ~04:05Z (supervisor-pplx-brownmermaid-1025a)
+
+- VERIFICATION PASS on this session's own items (all green):
+  right-livelihood (59 links, 0 dense), shame-and-guilt (39, 0),
+  motivation (51, 0), creation (51, 0), registry 34/39 published,
+  app.js node-check OK, working tree clean, all commits on
+  origin/main.
+- SAMPLE QC uncertainty (published): checker exit 0 (45 links, 0
+  dense); its single quote-verify miss is the SAME IUM abstract
+  span verified VERBATIM by this supervisor against the live PMC
+  page during the anxiety QC — covered.
+- Session total: 16 QC log entries; 3 dossiers published; 4
+  dossiers' disagreement sections upgraded (shame-and-guilt 3/3;
+  motivation +1 then the band's QC repair; creation 1 confirmed;
+  right-livelihood restructured with owner flag standing); the
+  catalogue-wide 3-question-bar finding recorded for the owner;
+  freedom flip held with reasons; all standing flags documented in
+  the handoff checkpoint 2.
