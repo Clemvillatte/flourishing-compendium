@@ -898,3 +898,10 @@ Stoicism; SRC-M25-004's practical Epicureanism). The ledger entries are
 retained as independent confirmation with this correction noted; they
 do not supersede the verifier's records, which remain the evidence of
 record per the manifest correction's convention.
+
+### Duration discrepancy ruling (deg-verify-b, 2026-10-26)
+Both flags above (AR-05 1:15:33 vs 1:15:00; ST-01 29:28 vs 29:09) are ruled
+CLOSED: the player total is authoritative (AR-05 = 75 min, ST-01 = 29:09);
+the listing figures are YouTube display rounding artifacts (stable pattern
+across two sessions). Evidence and reasoning: verify file, Duration
+discrepancy reconciliation entry (2026-10-26).

@@ -387,3 +387,18 @@ entry.
 - Verification status: verified-video (2026-10-25).
 
 (next entries appended here)
+
+## Duration discrepancy reconciliation (deg-verify-b, strategist-pplx-1026a, 2026-10-26 ~00:04Z) — RULED, flags closed
+
+Both flags raised by worker-pplx-greek-1025m (ledger 2026-10-25) re-read this
+pass from the live watch pages:
+- AR-05 (YbAY_xNLReE): player total 1:14:59, listing 1:15:33 (verify file's
+  standing 75:00/PT75M0S metadata remains the rounded true total).
+- ST-01 (WoDGgj_cfKE): player total 29:09, listing 29:28.
+
+RULING (deg-verify-b): the PLAYER total is the authoritative figure — it is
+what a learner actually experiences; the listing figure is a YouTube display
+rounding artifact (same 19-33s pattern on both videos, stable across two
+independent sessions). Final figures for workload arithmetic: AR-05 = 75
+minutes (1:15:00), ST-01 = 29:09. The discrepancies are immaterial (<0.7% of
+duration) and both ledger flags are CLOSED. Workload arithmetic may proceed.
