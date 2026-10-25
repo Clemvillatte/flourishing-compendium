@@ -696,3 +696,17 @@ the published dossier in full — Dossiers grid card (LIFE CHALLENGES section,
 question chip), detail view with the disagreement section, the Chowdhury and
 Chu-and-Choi material, practice content and Story section all present in the
 rendered text (cloud-browser pass, cache-live asset).
+
+## QC sample — quote flag eye-verified (2026-10-25 11:04Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported 1 not found: the Chowdhury 2016 abstract span
+("correlational results revealed that active procrastination has been
+mislabeled..."). The Semantic Scholar paper page is JS-rendered for the
+checker; a direct fetch of the page returns the full abstract in the
+page metadata, and the flagged span appears VERBATIM: "correlational
+results revealed that active procrastination has been mislabeled as a
+type of procrastination that is more appropriately construed as
+purposeful delay with adaptive qualities" (Chowdhury, "The Construct
+Validity of Active Procrastination: Is it Procrastination or Purposeful
+Delay?", 2016). No dossier text change needed; flag documented as a
+JS-render exception. quote_verify otherwise clean (14 checked).
