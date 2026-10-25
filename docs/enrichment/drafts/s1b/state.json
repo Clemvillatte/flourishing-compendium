@@ -531,6 +531,11 @@
      "t": "2026-10-22T15:32:06+00:00",
      "to": "ready",
      "note": "Independent advisor review complete; requested corrections applied; direct book locators verified"
+    },
+    {
+     "t": "2026-10-25T15:16:13+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:16:13: sample verified - quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -551,6 +556,11 @@
      "t": "2026-10-22T15:42:30+00:00",
      "to": "ready",
      "note": "Independent tenth-item advisor passed facts, quotations and matrices; requested clinical-utility clarification applied"
+    },
+    {
+     "t": "2026-10-25T15:16:13+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:16:13: sample verified - quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -571,6 +581,11 @@
      "t": "2026-10-22T15:42:43+00:00",
      "to": "ready",
      "note": "Independent tenth-item advisor passed facts, quotations and matrices; requested clinical-utility clarification applied"
+    },
+    {
+     "t": "2026-10-25T15:16:13+00:00",
+     "to": "ready",
+     "note": "qc-storyteller-pplx-1025x 15:16:13: sample verified - quotes VERBATIM (see QC notes)"
     }
    ]
   },
@@ -980,5 +995,5 @@
    ]
   }
  },
- "updated": "2026-10-25T15:15:58+00:00"
+ "updated": "2026-10-25T15:16:13+00:00"
 }
