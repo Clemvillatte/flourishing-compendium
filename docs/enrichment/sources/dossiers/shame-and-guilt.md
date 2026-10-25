@@ -137,3 +137,18 @@ ST428 and ST390 ("The Tinker's Chains Fall Off in a Field") re-checked: the two 
 ## Final quote sweep (~T+30)
 
 The S066 card's Marcus quote ("Be not disgusted, nor discouraged... return back again", Meditations V.9) verified verbatim in the MIT Classics Long translation. With this, every quoted sentence in the dossier traces to a carrier opened this run.
+
+## Voice-audit candidate review (2026-10-25, worker-pplx-gfva-1025a, dos29 baton)
+
+Reviewed all 4 candidates against the current file (fresh audit run).
+No scaffolds removed; all 4 flagged constructions carry real contrasts:
+line 32 (guilt's reparative behaviour — confession, apology, undoing
+rather than avoidance — the empirical literature's claim), 106
+(Heidegger's guilt as ontological rather than moral, with the verbatim
+"Dasein is guilty before it has incurred any debt"), 128 (Marcus
+Aurelius's instruction after failure, quoted verbatim from the Long
+translation — the flagged pattern sits in the quoted text), 166 (the
+Retention's framing: a question rather than a technique).
+
+Checks: dossier_check.py exit 0. Editorial review only; no carriers or
+cards freshly opened this pass. Scope: candidate-line review.
