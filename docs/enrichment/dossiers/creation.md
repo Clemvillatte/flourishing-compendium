@@ -2,7 +2,7 @@
 
 > Why does making things (objects, connections, children, a life) feel like it means something, and what kind of meaning is that?
 
-A life spends itself making things: meals, sentences, friendships, children, institutions, a character. I find the question surfacing on ordinary days: why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?
+A life spends itself making things: meals, sentences, friendships, children, institutions, a character. Why does an afternoon spent making something feel like it counts, when the thing itself is often small and temporary?
 
 Frankl lists creating a work or doing a deed alongside experiencing something or encountering someone, and the attitude taken toward unavoidable suffering, as the three ways a life finds meaning.
 
