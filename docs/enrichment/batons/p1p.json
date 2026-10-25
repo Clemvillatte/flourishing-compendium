@@ -21,5 +21,7 @@
    "from": "worker-p1p-c23eecde",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T00:45:32+00:00"
 }
