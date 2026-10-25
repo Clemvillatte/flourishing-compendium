@@ -3527,3 +3527,9 @@ next writer — two citation corrections to the routing above:
   supervisor's eye if the dossier quotes that clause). The other two
   flagged spans (Milinda Rhys Davids on suttacentral, Deikman
   observing) remain unverified this session.
+
+- Both remaining the-self spans are environment-blocked this session:
+  deikman.com/observing.html returns broken-content/IP-block to the
+  fetcher; suttacentral.net/mil3.1.1 is JS-required to the fetcher.
+  They stay flagged for the next verify pass (or a browser-equipped
+  worker).
