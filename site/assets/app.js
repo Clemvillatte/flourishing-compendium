@@ -19365,7 +19365,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Akrasia: the oldest name on this territory, the lived problem of acting against one's own better judgment. Socrates denied the possibility; Aristotle's realism about it grounds his ethics of practice; the modern debate refines what exactly is betrayed, a judgment or a plan."
+          "x": "Akrasia: the oldest name on this territory, the lived problem of acting against one's own better judgment. Socrates denied the possibility; Aristotle's realism about it grounds his ethics of practice; the modern debate refines what exactly is betrayed, a judgment or a plan. The compendium carries the territory on both [Akrasia](card:Akrasia) and [Akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29)."
         },
         {
           "t": "p",
@@ -19405,7 +19405,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The review argument belongs to Sirois and Pychyl. [MO045 — Recognise procrastination as emotion regulation, not laziness](card:MO045%20%E2%80%94%20Recognise%20procrastination%20as%20emotion%20regulation%2C%20not%20laziness) carries their contention that procrastination is, in significant part, short-term mood repair: the avoidance manages a feeling, and a schedule alone leaves the feeling unaddressed. The review is explicit that this is not offered as the whole story, and the card carries that limit."
+          "x": "The review argument belongs to Sirois and Pychyl. [MO045 — Recognise procrastination as emotion regulation, not laziness](card:MO045%20%E2%80%94%20Recognise%20procrastination%20as%20emotion%20regulation%2C%20not%20laziness) carries their contention that procrastination is, in significant part, short-term mood repair, the branch of [emotion regulation](card:Emotion%20regulation) in which the avoidance manages a feeling, and a schedule alone leaves the feeling unaddressed. The review is explicit that this is not offered as the whole story, and the card carries that limit."
         },
         {
           "t": "p",
@@ -19429,7 +19429,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The measured gap itself is [the intention-behavior gap](card:The%20intention-behavior%20gap). Sheeran's review of ten meta-analyses put the intention-behaviour correlation at 0.53, large, and leaving most of the variance in behaviour unexplained by intention; the review's bridge from intention to action is the if-then plan. The binding lever from the other direction is [temptation bundling (Milkman)](card:Temptation%20bundling%20%28Milkman%29): pair the want with the should, gym-only audiobooks, and the field experiment found 51% and 29% more gym visits for full and intermediate treatment at first, effects that declined, and 61% willing to pay for the restriction afterwards."
+          "x": "The measured gap itself is [the intention-behavior gap](card:The%20intention-behavior%20gap). Sheeran's review of ten meta-analyses put the intention-behaviour correlation at 0.53, large, and leaving most of the variance in behaviour unexplained by intention; the review's bridge from intention to action is the if-then plan. The binding lever from the other direction is [temptation bundling (Milkman)](card:Temptation%20bundling%20%28Milkman%29), in principle form [MO029 — Learn to use temptation bundling — pair unpleasant tasks with pleasures](card:MO029%20%E2%80%94%20Learn%20to%20use%20temptation%20bundling%20%E2%80%94%20pair%20unpleasant%20tasks%20with%20pleasures): pair the want with the should, gym-only audiobooks, and the field experiment found 51% and 29% more gym visits for full and intermediate treatment at first, effects that declined, and 61% willing to pay for the restriction afterwards."
         },
         {
           "t": "h2",
@@ -19465,7 +19465,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Temporal landmarks work as prompts. [MO028 — Learn to use the fresh start effect — temporal landmarks boost motivation](card:MO028%20%E2%80%94%20Learn%20to%20use%20the%20fresh%20start%20effect%20%E2%80%94%20temporal%20landmarks%20boost%20motivation) found Google searches for diet, gym visits and goal commitments all rose after new weeks, months, years and birthdays in the three field studies; the effect is on starting, not on lasting."
+          "x": "Temporal landmarks work as prompts. [MO028 — Learn to use the fresh start effect — temporal landmarks boost motivation](card:MO028%20%E2%80%94%20Learn%20to%20use%20the%20fresh%20start%20effect%20%E2%80%94%20temporal%20landmarks%20boost%20motivation) found Google searches for diet, gym visits and goal commitments all rose after new weeks, months, years and birthdays in the three field studies; the effect is on starting, not on lasting. The [fresh start effect (Dai et al.)](card:Fresh%20start%20effect%20%28Dai%20et%20al.%29) card carries the underlying research."
         },
         {
           "t": "p",
@@ -19477,7 +19477,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[K188 — Friction audit](card:K188%20%E2%80%94%20Friction%20audit) is the chain walk: time each step from intention to action, remove the costliest, add friction to the unwanted chain, and re-run. The if-then plan is [K153 — Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions), written once for one foreseeable moment, and its principle form [MO025 — Learn to use implementation intentions — if-then plans](card:MO025%20%E2%80%94%20Learn%20to%20use%20implementation%20intentions%20%E2%80%94%20if-then%20plans) carries the meta-analysis of 94 independent tests, medium-to-large, d = 0.65, on goal attainment, with the component processes the review reports support for."
+          "x": "[K188 — Friction audit](card:K188%20%E2%80%94%20Friction%20audit) is the chain walk: time each step from intention to action, remove the costliest, add friction to the unwanted chain, and re-run, with the two principle forms [MO030 — Learn to reduce friction for desired behaviours — make it easy](card:MO030%20%E2%80%94%20Learn%20to%20reduce%20friction%20for%20desired%20behaviours%20%E2%80%94%20make%20it%20easy) and [MO031 — Learn to increase friction for undesired behaviours — make it hard](card:MO031%20%E2%80%94%20Learn%20to%20increase%20friction%20for%20undesired%20behaviours%20%E2%80%94%20make%20it%20hard). The if-then plan is [K153 — Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions), written once for one foreseeable moment, with the concept side on [implementation intentions](card:Implementation%20intentions), and its principle form [MO025 — Learn to use implementation intentions — if-then plans](card:MO025%20%E2%80%94%20Learn%20to%20use%20implementation%20intentions%20%E2%80%94%20if-then%20plans) carries the meta-analysis of 94 independent tests, medium-to-large, d = 0.65, on goal attainment, with the component processes the review reports support for."
         },
         {
           "t": "h",
