@@ -725,8 +725,10 @@ standard.
   2026-10-25. 2014 Division of Clinical Psychology annual conference,
   Glasgow.
 - Duration: 50:21 (watch page, 2026-10-25).
-- Instructor credentials: Professor Alex Haslam (per the host
-  description; university page not opened this session).
+- Instructor credentials: Professor Alex Haslam, Professor of Social
+  and Organizational Psychology and Laureate Fellow, School of
+  Psychology, University of Queensland (UQ Experts page opened
+  2026-10-25, https://about.uq.edu.au/experts/1946).
 - Language: English.
 - Content coverage (host description, read 2026-10-25): social identity
   and the new psychology of mental health — no further description of

@@ -418,8 +418,11 @@ standard.
 - Duration: 53:26 (watch page, 2026-10-25). FLAG: catalog recorded
   1:00:40 for the same source ID — dual-figure, needs supervisor
   reconciliation.
-- Instructor credentials: Carl Mika, Māori philosophy scholar (per the
-  uploader description; institutional page not opened this session).
+- Instructor credentials: Carl Mika, Professor, Aotahi School of
+  Maori and Indigenous Studies, Te Whare Wānanga o Waitaha - University
+  of Canterbury (UC profile page opened 2026-10-25,
+  https://profiles.canterbury.ac.nz/Carl-Te-Hira-Lewis-Mika); the
+  uploader description identifies him as a Māori philosophy scholar.
 - Language: English (with Māori karakia and mihimihi within the
   recording).
 - Content coverage (uploader description, read 2026-10-25): Māori

@@ -1,7 +1,7 @@
 {
  "baton": "deg-verify-b",
  "agent": "verifier-pplx-1025g",
- "clocked_in": "2026-10-25T09:32:33+00:00",
+ "clocked_in": "2026-10-25T09:32:52+00:00",
  "takeovers": [
   {
    "by": "verifier-pplx-b1",
