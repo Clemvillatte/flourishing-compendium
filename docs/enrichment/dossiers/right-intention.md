@@ -227,7 +227,7 @@ My lean, which is mine: for an essay on the resolve of harmlessness, the Buddha'
 
 Limits: three Gita verses and two Pali passages, no commentary on either side. Later Buddhist traditions and Indian readers of the Gita treat these questions at length, and I have not opened that material.
 
-### Is the absence of pain the highest good?
+### Is freedom from pain itself a good?
 
 Epicurus defines pleasure by what it removes rather than what it adds, and makes that condition the whole of the happy life:
 
@@ -235,19 +235,19 @@ Epicurus defines pleasure by what it removes rather than what it adds, and makes
 
 > "For this reason we call pleasure the alpha and omega of a happy life. Pleasure is our first and kindred good." (same letter)
 
-Seneca, writing to Lucilius on the same question, denies that this absence is a good at all. He considers health, rest and freedom from pain, the very components of Epicurus's definition, and refuses them that rank:
+Seneca, writing to Lucilius on the same question, refuses the condition that rank. He considers health, rest and freedom from pain, the very components of Epicurus's definition:
 
-> "'What, then,' comes the retort, 'if good health, rest, and freedom from pain are not likely to hinder virtue, shall you not seek all these?' Of course I shall seek them, but not because they are goods — I shall seek them because they are according to nature and because they will be acquired through the exercise of good judgment on my part." ([Seneca, Moral Letter 92, On the Happy Life, Gummere trans.](https://monadnock.net/seneca/92.html))
+> "'What, then,' comes the retort, 'if good health, rest, and freedom from pain are not likely to hinder virtue, shall you not seek all these?' Of course I shall seek them, but not because they are goods — I shall seek them because they are according to nature and because they will be acquired through the exercise of good judgment on my part. What, then, will be good in them? This alone — that it is a good thing to choose them." ([Seneca, Moral Letter 92, On the Happy Life, Gummere trans.](https://monadnock.net/seneca/92.html))
 
 > "Now if we are agreed on this point, it is natural that we shall be agreed on the following also — namely, that the happy life depends upon this and this alone: our attainment of perfect reason." (same letter)
 
-The disagreement holds on Epicurus's own terms, not on the prodigal's pleasures Seneca elsewhere mocks. Epicurus affirms that the quiet condition, the absence of pain and trouble, is the alpha and omega; Seneca seeks the same condition and denies it is a good, resting the happy life on reason alone.
+Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus calls the absence of pain part of pleasure, his first and kindred good. Seneca refuses the painless condition that status: what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good.
 
-Seneca even quotes Epicurus on his deathbed, tortured by strangury and an ulcerated stomach, calling his days the happiest, and turns the words to his own case: if a man can call such days happy, happiness does not rest on the absence of pain. Where each side puts the weight differs: for Epicurus the condition is the end and the reasoning is the means to it, for Seneca the reasoning is the end and the condition follows. Whether the quiet condition Epicurus calls pleasure is the same thing Seneca calls peace of mind is the question a reader can take either way; what the letters do settle is that one names the absence as the good and the other refuses it that name.
+Seneca also recalls Epicurus, tortured on one occasion by strangury and on another by the incurable pain of an ulcerated stomach, calling such days the happiest of all, and turns the report to his own argument: if a man can call such days happy, happiness does not rest on the absence of pain. That is Seneca reading Epicurus for his own case; Epicurus is not there to answer.
 
 My lean, which is mine: Seneca's position reads as the sharper edge of the renunciation resolve, because it questions the wanting inside the remedy itself; Epicurus's reads as the more liveable default, and I notice I cannot prove from these letters which life actually lands further from suffering.
 
-Limits: two letters, one on each side. Seneca's Letter 92 is a summary argument, and the Gummere page I used prints a garbled sentence inside the passage on prudence, so I quote only the lines that read cleanly. I have not opened the Epicurean texts Seneca read, nor Seneca's longer dialogue On the Happy Life, where the same case is made in more detail.
+Limits: two letters, one on each side. The Internet Classics page for the Epicurus letter prints a garbled sentence inside its passage on prudence, so I quote only the lines that read cleanly. I have not opened the Epicurean texts Seneca read, nor Seneca's longer dialogue On the Happy Life.
 
 ## Practice: variation, selection, retention
 

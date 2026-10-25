@@ -13194,7 +13194,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Is the absence of pain the highest good?"
+          "x": "Is freedom from pain itself a good?"
         },
         {
           "t": "p",
@@ -13212,11 +13212,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Seneca, writing to Lucilius on the same question, denies that this absence is a good at all. He considers health, rest and freedom from pain, the very components of Epicurus's definition, and refuses them that rank:"
+          "x": "Seneca, writing to Lucilius on the same question, refuses the condition that rank. He considers health, rest and freedom from pain, the very components of Epicurus's definition:"
         },
         {
           "t": "q",
-          "x": "\"'What, then,' comes the retort, 'if good health, rest, and freedom from pain are not likely to hinder virtue, shall you not seek all these?' Of course I shall seek them, but not because they are goods — I shall seek them because they are according to nature and because they will be acquired through the exercise of good judgment on my part.\" ([Seneca, Moral Letter 92, On the Happy Life, Gummere trans.](https://monadnock.net/seneca/92.html))",
+          "x": "\"'What, then,' comes the retort, 'if good health, rest, and freedom from pain are not likely to hinder virtue, shall you not seek all these?' Of course I shall seek them, but not because they are goods — I shall seek them because they are according to nature and because they will be acquired through the exercise of good judgment on my part. What, then, will be good in them? This alone — that it is a good thing to choose them.\" ([Seneca, Moral Letter 92, On the Happy Life, Gummere trans.](https://monadnock.net/seneca/92.html))",
           "s": null
         },
         {
@@ -13226,11 +13226,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The disagreement holds on Epicurus's own terms, not on the prodigal's pleasures Seneca elsewhere mocks. Epicurus affirms that the quiet condition, the absence of pain and trouble, is the alpha and omega; Seneca seeks the same condition and denies it is a good, resting the happy life on reason alone."
+          "x": "Both writers would choose freedom from pain. Their disagreement concerns what makes that choice worthwhile. Epicurus calls the absence of pain part of pleasure, his first and kindred good. Seneca refuses the painless condition that status: what is good, he says, is choosing it well. Agreement about what to seek does not amount to agreement about what is good."
         },
         {
           "t": "p",
-          "x": "Seneca even quotes Epicurus on his deathbed, tortured by strangury and an ulcerated stomach, calling his days the happiest, and turns the words to his own case: if a man can call such days happy, happiness does not rest on the absence of pain. Where each side puts the weight differs: for Epicurus the condition is the end and the reasoning is the means to it, for Seneca the reasoning is the end and the condition follows. Whether the quiet condition Epicurus calls pleasure is the same thing Seneca calls peace of mind is the question a reader can take either way; what the letters do settle is that one names the absence as the good and the other refuses it that name."
+          "x": "Seneca also recalls Epicurus, tortured on one occasion by strangury and on another by the incurable pain of an ulcerated stomach, calling such days the happiest of all, and turns the report to his own argument: if a man can call such days happy, happiness does not rest on the absence of pain. That is Seneca reading Epicurus for his own case; Epicurus is not there to answer."
         },
         {
           "t": "p",
@@ -13238,7 +13238,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Limits: two letters, one on each side. Seneca's Letter 92 is a summary argument, and the Gummere page I used prints a garbled sentence inside the passage on prudence, so I quote only the lines that read cleanly. I have not opened the Epicurean texts Seneca read, nor Seneca's longer dialogue On the Happy Life, where the same case is made in more detail."
+          "x": "Limits: two letters, one on each side. The Internet Classics page for the Epicurus letter prints a garbled sentence inside its passage on prudence, so I quote only the lines that read cleanly. I have not opened the Epicurean texts Seneca read, nor Seneca's longer dialogue On the Happy Life."
         },
         {
           "t": "h",
