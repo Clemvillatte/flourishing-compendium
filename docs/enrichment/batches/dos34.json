@@ -80,10 +80,19 @@
     "SUPERVISOR: acceptance of 3-substantiated count still requested",
     "OWNER: artwork assignment still blocks registry flip"
    ]
+  },
+  {
+   "slug": "leisure",
+   "worker": "worker-pplx-dos34-1025h",
+   "state": "QC round 16: advisor QC applied - claim-shifts repaired (Rest/Recovery/Amusement/Idleness/Sabbath bullets re-grounded in quoted passages and opened cards; opening construction fixed; deepest-account ranking removed; phenomenology->planning; disagreement-2 restatement removed; Variation rewritten in conditional form); nearby terms loosened to per-bullet blocks (checker-safe, compiler-safe); no quotes or citations changed; checks green",
+   "verification": "dossier_check.py exit 0; dossier_density.py 0 dense; dossier_quote_verify.py 40 checked 0 not found; Sabbath and Play cards opened this session; ledger QC-corrections paragraph appended",
+   "flags": [
+    "OWNER: artwork assignment still blocks registry flip"
+   ]
   }
  ],
  "in_progress": "leisure: model-conformance additions + advisor QC rounds 1-3 + final verification pass applied (2026-10-25, worker-pplx-dos34-1025z2). All DOSSIER-MODEL elements present; disagreement section at 3 substantiated question headings with first-person judgments; complementary comparisons relocated to main body; full reader-level check of the file completed. Checks green. Next pass: supervisor acceptance of the 3-substantiated count and the registry flip.",
  "flagged": {},
  "comment": "Minted 2026-10-25 by owner directive: Leisure dossier (registry planned, flourishing section). Art pending owner assignment - no unassigned works remain in the collection. Exemplars: genuine-flourishing.md, wisdom.md, the-self.md, anger.md. The 3-5 substantiated-disagreement bar applies in full.",
- "updated": "2026-10-25T10:30:00+00:00"
+ "updated": "2026-10-25T10:40:00+00:00"
 }

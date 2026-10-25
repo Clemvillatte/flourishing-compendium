@@ -2,18 +2,23 @@
 
 > What is free time for, once it is actually free?
 
-I want to know what the time genuinely at a person's disposal is for. Rest that exists to recover a person for the next stretch of work is a real part of the answer. It leaves the rest of the question open: if rest is taken for the sake of activity, what is the activity then for? The classical accounts of scholē and the modern research on what actually restores people ask it differently, the one what the free hours are for, the other what repairs a person for work.
+I want to know what the time genuinely at a person's disposal is for. Rest that exists to recover a person for the next stretch of work is a real part of the answer. It leaves the rest of the question open: if rest is taken for the sake of activity, what is the activity then for? The classical accounts of scholē and the modern research on what actually restores people answer it differently: the first asks what the free hours are for, the second what repairs a person for work.
 
 The question matters to me because free time is where a life's shape shows. The hours can be the place where the things worth having for their own sake happen, or they can sit between shifts as a waiting room, and much of the time they are something in between. What a person does with the hours at their disposal is not settled by the schedule alone, and the traditions disagree about it: about who gets leisure at all, and about what the recovered capacity is then for.
 
 ### Nearby terms
 
-- Rest: [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) carries Aristotle's argument that relaxation is taken for the sake of activity and is not an end; leisure names the end that the rest serves.
-- Play: [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research) is Stuart Brown's study of what play does to the adults who keep doing it; leisure includes play, contemplation and the receptive stance.
-- Recovery: [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences) sets out Sonnentag and Fritz's four ways people recuperate, carried by experiences rather than activities; recovery is repair for work.
-- Amusement: [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) gives amusement a real but limited job, a medicine; being off work does not by itself amount to leisure.
-- Idleness: the state Pieper condemns as a broken relation to reality, an inability to receive; leisure's opposite is idleness, not work.
-- Sabbath: [the Sabbath](https://clemvillatte.github.io/flourishing-compendium/#card=Sabbath) is Heschel's palace in time, the weekly day of rest; it is one form of free time.
+- Rest: [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) carries Aristotle's argument that relaxation is taken for the sake of activity and is not an end; leisure is what the busyness is for.
+
+- Play: [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research) is Stuart Brown's study of what play does to the adults who keep doing it; play is the self-forgetting element, and leisure holds it beside contemplation and the receptive stance.
+
+- Recovery: [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences) sets out Sonnentag and Fritz's four ways people recuperate, carried by experiences rather than activities; recovery is the maintenance side of free time.
+
+- Amusement: [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) gives amusement a real but limited job, a medicine taken for the sake of activity; leisure, for Aristotle, is the activity loved for its own sake.
+
+- Idleness: the state Pieper condemns as a broken relation to reality, an inability to receive; on his account, leisure is built against idleness rather than against work.
+
+- Sabbath: [the Sabbath](https://clemvillatte.github.io/flourishing-compendium/#card=Sabbath) is Heschel's palace in time, the weekly day of rest; one form of rest, and the free hours are the wider field.
 
 ## The time that is left over
 
@@ -23,7 +28,7 @@ One way to treat time off is as maintenance. You rest so you can work again, and
 
 > "And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
-Read twice, that sentence turns the week around. Work is the means, leisure the end, which is the claim behind [practising scholē as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work). The ancient word [scholē](https://clemvillatte.github.io/flourishing-compendium/#card=Schol%C4%93) did not mean time left over after duties; it named the space where the activities worth having for their own sake could happen. In Aristotle's proposed best state the citizens were to be freed from the fields, the arrangement that starts the tradition's distributive disagreement.
+That sentence turns the week around. Work is the means, leisure the end, which is the claim behind [practising scholē as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work). The ancient word [scholē](https://clemvillatte.github.io/flourishing-compendium/#card=Schol%C4%93) did not mean time left over after duties; it named the space where the activities worth having for their own sake could happen. In Aristotle's proposed best state the citizens were to be freed from the fields.
 
 ### Is free time actually free?
 
@@ -37,7 +42,7 @@ Pieper's account leans on a clean line between the world of work and the space o
 
 > "Rojek (1995, 2000, 2010) rejects the idea of the modernist 'work versus free time' relational dichotomy (mostly advocated by Pieper 1952 and Dumazedier 1974) to argue that leisure time is not freer than any other time that is not devoted to relaxation." ([Regi, Anthropology Today, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file))
 
-The continuation is the sharper half: in Rojek's account "leisure often requires more planning, and more physical and mental effort, than work activities", and must conform to cultural and social expectations, since leisure is a politically and economically controlled activity ([Regi, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file)). Anyone who has booked a family holiday knows the phenomenology. As Regi presents it, the rejection lands on the dichotomy as Pieper is standardly read, and what it targets is free time rather than Pieper's capacity of the soul. Whether the two still quarrel after that correction is a question a reader can take to an actual week, and it is a live one in the field.
+The continuation is the sharper half: in Rojek's account "leisure often requires more planning, and more physical and mental effort, than work activities", and must conform to cultural and social expectations, since leisure is a politically and economically controlled activity ([Regi, 2012](https://www.mursi.org/documents-and-texts/published-articles/regi-tamas/tourism-leisure-and-work/at_download/file)). Anyone who has booked a family holiday knows the planning. As Regi presents it, the rejection lands on the dichotomy as Pieper is standardly read, and what it targets is free time rather than Pieper's capacity of the soul. Whether the two still quarrel after that correction is a question a reader can take to an actual week, and it is a live one in the field.
 
 The classical line between work and leisure assumes the duties are carried by someone. Feminist leisure research asks who, and what the line does to a life that both carries the duties and is described by the dichotomy. An open survey of the field quotes the conclusion of Green, Hebron and Woodward's study of women's leisure:
 
@@ -75,7 +80,7 @@ The mesoamerican principle [that idleness is the root disorder](https://clemvill
 
 ## Leisure is not idleness
 
-The deepest account of what leisure is, as opposed to what it is for, is Josef Pieper's, and it is built against idleness rather than against work:
+Josef Pieper's account of what leisure is, as opposed to what it is for, is built against idleness rather than against work:
 
 > "Leisure is a form of that stillness that is the necessary preparation for accepting reality; only the person who is still can hear, and whoever is not still, cannot hear." ([Josef Pieper, Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))
 
@@ -99,7 +104,7 @@ What remains open is whether an evening of effortless enjoyment and a decade of 
 
 Contemporary research on off-job time has a more modest aim than defining leisure: Sonnentag and Fritz built their standard measure to assess how people unwind and recuperate from work during leisure time, and it distinguishes four recovery experiences, psychological detachment from work, relaxation, mastery, and control ([Sonnentag and Fritz, 2007](https://pubmed.ncbi.nlm.nih.gov/17638488/)). In the validation studies the four experiences showed moderate relations with measures of psychological well-being, and the research programme behind [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences) and [effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles) has built on them since.
 
-The difference from the classical accounts is one of purpose, and the two can coexist. Aristotle calls relaxation a medicine, useful and not an end; Pieper says outright that leisure is not the absence of activity and not quiet, and his own text adds that the power to be at leisure can send a person back "renewed and alive again" into work ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The recovery research asks how off-job time repairs people for work, and its findings are worth using for that question. The classical accounts warn against letting that question become the only one, because a life whose free hours are only maintenance is a life without leisure in the classical sense. [Attention that needs recovery](https://clemvillatte.github.io/flourishing-compendium/#card=AT037%20%E2%80%94%20Understand%20that%20attention%20needs%20recovery%20%E2%80%94%20directed%20attention%20is%20a%20depletable%20resource) and [attention restoration](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20restoration) sit on the maintenance side of the line, and I keep them there.
+The difference from the classical accounts is one of purpose, and the two can coexist. Aristotle calls relaxation a medicine, useful and not an end; Pieper says outright that leisure is not the absence of activity and not quiet, and his own text adds that the power to be at leisure can send a person back "renewed and alive again" into work ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The recovery research asks how off-job time repairs people for work, and its findings are worth using for that question. The classical accounts warn against letting that question become the only one, because a life whose free hours are only maintenance is a life without leisure in the classical sense. [Attention that needs recovery](https://clemvillatte.github.io/flourishing-compendium/#card=AT037%20%E2%80%94%20Understand%20that%20attention%20needs%20recovery%20%E2%80%94%20directed%20attention%20is%20a%20depletable%20resource) and [attention restoration](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20restoration) sit on the maintenance side of the line.
 
 A one-week experience-sampling study of 78 adult workers found that most reported flow experiences occurred at work rather than during leisure, and that most measured aspects of the quality of experience were more closely associated with being in flow than with being at work or in leisure, with relaxation and motivation as exceptions ([Csikszentmihalyi and LeFevre, 1989](https://pubmed.ncbi.nlm.nih.gov/2724069/)). The same respondents reported more motivation in leisure than in work. The finding concerns what these participants reported during one week, and it does not test Aristotle's account of scholē, whose leisure is an activity rather than free time. What it does disturb is any assumption that free hours by themselves hold a person's best moments, which is an assumption neither Aristotle nor Pieper held.
 
@@ -118,7 +123,7 @@ Russell's case is distributive ([In Praise of Idleness, 1935 text](https://www.i
 
 The disagreement is not about whether leisure is the point. It is about whether the point can be universal.
 
-I lean with Russell on the access and with Aristotle on the valuation. The hours should not be a privilege, and spreading them does not by itself settle what they are for; the classical and the research answers both leave that question live.
+I lean with Russell on the access and with Aristotle on the valuation. The hours should not be a privilege, and spreading them does not by itself settle what they are for.
 
 ### Are serious and casual leisure distinct types or a continuum?
 
@@ -130,7 +135,7 @@ Veal's sharpest charge is about the evidence. "Claims concerning the unique qual
 
 The disagreement is genuine: Stebbins asserts two forms with sharply different experiences; Veal argues the forms blur into a continuum and that the uniqueness claims have not had the comparative testing their weight deserves. Veal's challenge is to the evidential basis; the rewards themselves may still be there. For the relaxation-versus-effort question, that means the two categories cannot settle it by themselves, since whether they are categories at all is what these two are arguing about.
 
-I lean toward Veal on the continuum, because the helping example is his own and it is hard to answer, and because the uniqueness claims carrying the category's weight are the ones he shows have not had the comparative testing. That the sorting is what is in question, not the worth of the pursuits, is my reading; the rewards may be real, but they are not what divides the two.
+I lean toward Veal on the continuum, because the helping example is his own and it is hard to answer, and because the uniqueness claims carrying the category's weight are the ones he shows have not had the comparative testing. The rewards may be real, but they are not what divides the two.
 
 ### Should the serious-leisure perspective be replaced?
 
@@ -150,7 +155,7 @@ My own judgment is that I would retain the framework provisionally and use Veal'
 
 ## Practice: variation, selection, retention
 
-::Variation:: The thing to vary, in a person's free time, is what the hours are asked to be: maintenance for the next shift, a slot to fill with whatever is easiest, or something with a use of its own. The third is the one worth testing: attention that recovers, a stance that receives, and hours not measured by output.
+::Variation:: If free time has become either fuel for the next shift or a slot to fill with whatever is easiest, the variation to test is something with a use of its own: attention that recovers, a stance that receives, and hours not measured by output.
 
 ::Selection:: The practices I have selected as sources of that variation:
 

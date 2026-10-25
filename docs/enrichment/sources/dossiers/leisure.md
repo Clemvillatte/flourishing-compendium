@@ -336,3 +336,33 @@ clause added to the leisure-as-a-concept sentence was removed as
 unnecessary, keeping the minimal voice fix. Checks after the pass:
 dossier_check.py OK, dossier_density.py 0 dense,
 dossier_quote_verify.py 40 checked 0 not found.
+
+QC corrections to the same pass (advisor-driven, applied before push):
+the first version of this humanizer pass shifted several claims and
+they were repaired. The Rest bullet had equated all activity with
+leisure ("leisure names the end that the rest serves") and now rests
+on the X.7 line already quoted in the dossier ("leisure is what the
+busyness is for"); the Recovery bullet's "recovery is repair for work"
+was re-scoped to the dossier's own characterization ("the maintenance
+side of free time"); the Amusement bullet now states the distinction
+from the X.6/X.7 passages (a medicine taken for the sake of activity;
+leisure, for Aristotle, the activity loved for its own sake, wording
+already quoted at line 71 of the body); the Idleness bullet is scoped
+to Pieper's account ("on his account"); the Sabbath bullet's "one form
+of free time" classification was replaced with the card-grounded "one
+form of rest" (the Sabbath card: "the weekly day of rest"); the opening
+sentence's construction was repaired ("the first asks... the second...")
+without changing its content; the Aristotle arrangement sentence now
+ends at the concrete fact; "deepest account" (unsupported ranking)
+became "Josef Pieper's account"; the family-holiday aside lost the
+word "phenomenology" ("knows the planning", tied to Rojek's planning
+claim); the second disagreement's restated sorting-versus-worth sentence
+was removed, keeping the first-person lean and the rewards caveat; the
+::Variation:: paragraph was rewritten in the exemplar's conditional
+form. The Play bullet's distinction was grounded in Brown's play
+properties as stated on the linked card (self-forgetting element). The
+nearby-terms list is now loose (blank lines between bullets) so the
+checker measures each bullet; the site compiler treats each bullet as
+its own paragraph either way. The Sabbath and Play cards were opened
+this session before those bullets were finalized. Checks: checker exit
+0, density 0, quotes 40 checked 0 not found.
