@@ -985,12 +985,15 @@ inventory before this review. Dispositions below were made after reading
 each line in full context; an advisor QC round then overruled the initial
 all-KEEP disposition and its repairs were applied. Verification scope: the
 only carrier freshly opened this session is the MIT Classics Nicomachean
-Ethics Book I page (nicomachaen.1.i.html, fetched without a summarising
+Ethics Book I page (nicomachaen.1.i.html, fetched with an extraction
 prompt; the activity-vs-state passage in I.8 and the "not for some chance
-period but throughout a complete life" phrasing in I.10 were located in the
-opened text). All other lines rest on inherited verification recorded
-earlier in this ledger plus editorial judgement; they were not re-opened
-this session.
+period but throughout a complete life" phrasing in I.10 were returned
+verbatim by that extraction, and both passages plus the swallow quotation
+were later re-inspected directly in the raw page text with no extraction,
+confirming the wording). All other lines rest on inherited verification recordedearlier in this ledger plus editorial judgement; they were not re-opened
+this session. Correction note: an earlier draft of this section claimed the
+page was fetched without a summarising prompt; that was inaccurate and is
+superseded by this wording.
 
 Repairs applied to the dossier body (all links preserved; card-link
 occurrence multiset identical, 147 links, before vs after):
