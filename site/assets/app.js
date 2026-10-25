@@ -16177,10 +16177,6 @@ window.fcDossiersData = {
           "x": "Which effect is primary in ordinary life, the feeler's attention or the bond's maintenance, is a question an essayist can take up rather than one the research settles; the practices here split along the same line, attention practices on one side, expression practices on the other."
         },
         {
-          "t": "h",
-          "x": "Where the traditions genuinely disagree"
-        },
-        {
           "t": "h2",
           "x": "What measures the return for a benefit"
         },
@@ -16202,7 +16198,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aquinas answers the same question the other way. The giver was \"deserving of praise, chiefly for having conferred the favor gratis without being bound to do so,\" so the return must also be gratis, and it is not gratis unless it exceeds the gift: \"he does not seem to bestow something gratis, unless he exceeds the quantity of the favor received: because so long as he repays less or an equivalent, he would seem to do nothing gratis, but only to return what he has received. Therefore gratitude always inclines, as far as possible, to pay back something more\" ([Aquinas, ST II-II Q106 a.6, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106)): Primary text; the Summa Theologiae, Question 106."
+          "x": "Aquinas emphasizes a further grateful return. The giver was \"deserving of praise, chiefly for having conferred the favor gratis without being bound to do so,\" so the return must also be gratis, and it is not gratis unless it exceeds the gift: \"he does not seem to bestow something gratis, unless he exceeds the quantity of the favor received: because so long as he repays less or an equivalent, he would seem to do nothing gratis, but only to return what he has received. Therefore gratitude always inclines, as far as possible, to pay back something more\" ([Aquinas, ST II-II Q106 a.6, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106)): Primary text; the Summa Theologiae, Question 106."
         },
         {
           "t": "p",
@@ -16210,7 +16206,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Can the debt to parents ever be repaid"
+          "x": "What the return to parents is made of"
         },
         {
           "t": "p",
@@ -16222,11 +16218,35 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The Analects and the suttas both measure filial observance against the parental care, and part ways on what the return is made of. Confucius grounds the three years' mourning in the care it answers: \"It is not till a child is three years old that it is allowed to leave the arms of its parents. And the three years' mourning is universally observed throughout the empire\" ([Confucius, Analects XVII.21, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.txt)): Primary text; James Legge's translation. Here the observance is proportioned to the care received — service rendered is the return. The suttas rule out the proportion: no quantity of service, up to a century of carrying them, pays the parental debt; the return is made of something else — the establishing of parents in conviction, virtue, generosity and discernment."
+          "x": "Both texts measure filial observance against the parental care. Confucius grounds the three years' mourning in the care it answers: \"It is not till a child is three years old that it is allowed to leave the arms of its parents. And the three years' mourning is universally observed throughout the empire\" ([Confucius, Analects XVII.21, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.txt)): Primary text; James Legge's translation. The suttas name a different repayment: no quantity of service, up to a century of carrying them, pays the parental debt; the return they name is the establishing of parents in conviction, virtue, generosity and discernment."
         },
         {
           "t": "p",
           "x": "Aristotle sits closest to the suttas in denying that any service reaches equivalence, though he commends service to the utmost of one's ability and does not take up the establishing of parents in virtue."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Can the child's return equal the parental gift"
+        },
+        {
+          "t": "p",
+          "x": "Aristotle denies that a child can return an equivalent for parental beneficence: toward gods and parents \"no one could ever return to them the equivalent of what he gets\" ([Aristotle, NE VIII.14, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation. Seneca: \"The question arises, whether children can ever bestow upon their parents greater benefits than those which they have received from them,\" and his answer runs past equivalence to surplus — \"A father gives life to his son; there is something better than life; therefore a father may be outdone\" ([Seneca, On Benefits III.29, III.35, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III)): Primary text; Stewart's translation."
+        },
+        {
+          "t": "p",
+          "x": "His concrete case is teaching: \"supposing that any one were to learn philosophy and teach it to his father, could it be any longer disputed that the son had given him something greater than he had received from him, having returned to his father a happy life, whereas he had received from him merely life?\" (On Benefits III.33)."
+        },
+        {
+          "t": "p",
+          "x": "Aquinas later distinguishes two measures: by the effect of beneficence the son cannot make an equal repayment, \"but if we consider the will of the giver and of the repayer, then it is possible for the son to pay back something greater to his father\" ([Aquinas, ST II-II Q106 a.6 ad 1, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106)): Primary text; the Summa Theologiae, Question 106."
+        },
+        {
+          "t": "p",
+          "x": "The disagreement concerns what should count when benefits are compared: the effect received, or the will with which it is given and returned."
         },
         {
           "t": "h2",

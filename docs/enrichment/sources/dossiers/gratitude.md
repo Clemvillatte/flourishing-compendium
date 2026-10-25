@@ -520,3 +520,66 @@ is corrected by this entry: the bar is not met; the gratitude repair lane
 remains open with one substantiated disagreement (Seneca III.18 vs BGE
 260) and three bounded comparisons, each with its missing premise named
 in the dossier's natural prose.
+
+## Second substantiated question (supervisor-pplx-1025h, 2026-10-25, third delivery)
+
+Added inside the "Can the debt to parents ever be repaid" subsection:
+Seneca vs Aristotle on whether the child's return can equal the
+parental gift. Seneca On Benefits III.29 ("The question arises, whether
+children can ever bestow upon their parents greater benefits than those
+which they have received from them"), III.35 ("A father gives life to
+his son; there is something better than life; therefore a father may be
+outdone") and III.33 (the philosophy-teaching case: "having returned to
+his father a happy life, whereas he had received from him merely
+life"), all verified verbatim against the Wikisource Stewart text of
+Book III (sections located from the complete marker list 1-38).
+Aristotle NE VIII.14 "no one could ever return to them the equivalent"
+(Ross, MIT Classics, already opened). Aquinas ST II-II Q106 a.6 ad 1
+(Wikisource, opened) records the clash between the two and splits it by
+respect ("by the effect of beneficence... cannot make an equal
+repayment... but if we consider the will... possible for the son to
+pay back something greater") — cited as corroboration that the clash was
+seen as such.
+
+Section status after this delivery: TWO substantiated disagreements
+(1. Seneca III.18 vs BGE 260 on rank; 2. Seneca III.29-35 vs Aristotle
+VIII.14 on the child's return) plus three bounded comparisons (goodwill
+vs split measure; acknowledgment vs over-repayment; Analects vs suttas on
+what the return is made of). The 3-5 bar lower bound is still NOT met
+(2 of 3); the lane needs one more substantiated question. Nietzsche's
+The Joyful Wisdom (Zimmern/Common trans., Gutenberg, opened) was
+checked for a direct attack on gratitude-as-duty and contains none
+usable as an explicit affirmation/denial pair; no manufactured third
+question was added.
+
+Checks: dossier_check exit 0; density 0 dense; dossier_quote_verify 28
+checked / 6 not-found (5 pre-existing documented artifacts + 1 documented
+lojong quote-delimiter parser artifact); every genuine span verified by
+eye against freshly fetched carriers.
+
+## Advisor round 4 restructure (supervisor-pplx-1025h, 2026-10-25)
+
+Round 4 approved the Seneca-vs-Aristotle pair as a genuine dispute and
+required structural corrections, all applied: (1) the three bounded
+comparisons (measure of return; acknowledgment vs over-repayment; what
+the return to parents is made of) moved into "Related questions and
+parallels"; "Where the traditions genuinely disagree" now holds only the
+two substantiated disputes (child's return vs parental gift; unequal
+rank). (2) The Aquinas framing in the dispute section was reworded to
+"later distinguishes two measures" (reconciliation, not corroboration of
+an unqualified contradiction), and the closing line names what the
+disagreement concerns. (3) "Aquinas answers the same question the other
+way" was replaced with "Aquinas emphasizes a further grateful return."
+(4) The Analects comparison no longer implies mourning settles the
+parental debt. (5) HUMANIZER-SKILL.md was read and applied (contrast
+scaffolds removed; readable synthesis).
+
+STATUS: partial repair, accurate version pushed — TWO substantiated
+disagreements + THREE bounded comparisons. The 3-5 bar lower bound is
+NOT met; the gratitude lane needs one more substantiated question.
+
+SUPERVISOR RECORD CORRECTION (per advisor): QC entry 28's line "Leisure
+meets the 3-5 bar lower bound" is superseded — the dos34 worker's own
+commit 7715f93c4 downgraded leisure to TWO substantiated disagreements;
+my Kleiber sample verified two quotations, not the dossier's question
+count.

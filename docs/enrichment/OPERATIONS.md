@@ -1768,3 +1768,19 @@ The advisor's final verification caught overstated records in this session's QC 
 - Standing note for the repair-pass lane: a substantiated question
   requires an explicit proposition one text affirms and another denies
   under the same conditions; different emphases are comparisons.
+
+# Supervisor QC entry 30 — 2026-10-25 05:18Z (supervisor-pplx-1025h)
+
+- dos26 gratitude: advisor round 4 applied — the Seneca-vs-Aristotle
+  pair (child's return vs parental gift) approved as a genuine dispute;
+  section restructured so "Where the traditions genuinely disagree"
+  holds only the two substantiated disputes and the three comparisons
+  moved to "Related questions and parallels"; HUMANIZER-SKILL.md read
+  and applied; Aquinas reframed as reconciliation; Analects comparison
+  no longer implies mourning settles the parental debt. Accurate
+  partial repair pushed (2 substantiated + 3 comparisons; 3-5 bar NOT
+  met; lane needs one more question). Checks exit 0; app.js rebuilt.
+- CORRECTION to QC entry 28: the line "Leisure meets the 3-5 bar lower
+  bound" is superseded — dos34's own commit 7715f93c4 downgraded leisure
+  to 2 substantiated; my Kleiber sample verified two quotations, not the
+  question count.
