@@ -69,9 +69,27 @@ sessions. Workload arithmetic counts the video totals (16:12, 10:29),
 not the practice length inside them, and the guided options are for the
 lower rungs only.
 - Outcome 2: K114 (wiki kernel) for the checkpoint vocabulary, read once at
-  module start and again mid-module (spaced retrieval).
-- Outcome 3: the module page teaches reading your own log: a worked example
-   of one learner's four-week log with the adjustment reasoning shown.
+  module start and again mid-module (spaced retrieval). The module page
+  carries the checkpoints themselves, taken from K114's protocol (the
+  assigned reading), so the learner can check a posture without leaving
+  the module: (1) feet roughly shoulder-width or a little narrower, knees
+  soft, never locked; (2) posture built from the ground up: tailbone
+  tucked slightly toward the heels, hips relaxed and settling, shoulders
+  low, crown of the head lifted as if hung by a thread; (3) arms raised
+  to chest height embracing an imaginary ball, palms facing inward,
+  elbows lower than the shoulders, wrists relaxed; (4) breathing low
+  into the abdomen, calm and even, a head-to-toe scan dropping whatever
+  tension is found; (5) begin at five minutes and build slowly.
+- Worked example (outcome 3, on the module page): a four-row sample log
+  is printed in full, for example: week 2, three sessions, rungs 5/6/6
+  minutes, notes "shoulders rose in minute 4"; week 3, three sessions,
+  6/7/7, notes "trembling at minute 5, stopped at 6"; week 4, three
+  sessions, 7/7/8, notes "calmer, breathing settled"; then one printed
+  adjustment with its reasoning: "minute 6 kept the tremble, so week 5
+  holds 8 minutes for two sessions and drops to 7 for the third, because
+  the log shows the tremble starts after minute 6 of continuous
+  standing". The learner is told this sample IS the format: minutes,
+  sessions, one observation, one adjustment with a reason.
 
 Practice (the module's spine, with an explicit schedule):
 
@@ -117,40 +135,55 @@ Assessment (rubric rewritten to observable criteria):
 Workload (honest arithmetic, components summed, measured and estimated
 kept distinct):
 
-- Guided instruction (measured): QG-M03-01 is 5 minutes (printed), used
-  in week 1; the tier candidates (YOQI 5:00, Thompson 16:12, Holden
-  10:29) are OPTIONAL guided options for the lower rungs, not required,
-  and remain unassigned pending the access and recording checks recorded
-  below. No required recording beyond QG-M03-01.
-- Practice (measured schedule, recommended): 465 minutes of standing
-  across 14 weeks as computed above; minimum schedule, one session per
+- Guided instruction (measured, INSIDE the practice allocation): QG-M03-01
+  is 5 minutes (printed on its page, checked 2026-10-25) and is the
+  week-1 guided session; the learner performs it as one of the week's
+  practice sessions, so its minutes are inside the practice allocation
+  below and are NOT added again. The tier candidates (YOQI 5:00,
+  Thompson 16:12, Holden 10:29) are OPTIONAL guided options for the
+  lower rungs, not required, and remain unassigned pending the access
+  and recording checks recorded below. No required recording beyond
+  QG-M03-01.
+- Practice (PLANNED PRACTICE ALLOCATION, recommended schedule): 465
+  minutes of standing across 14 weeks as computed above. This is an
+  allocation the learner schedules, not measured learner time; the log
+  measures what actually happens. Minimum schedule, one session per
   week, is 110 + 45 = 155 minutes and still completes the ladder and the
   four assessed 15-minute sessions (one per week in weeks 11 to 14).
 - Recall (estimated): two minutes at each session start; at three
   sessions per week for 14 weeks, about 84 minutes.
 - Log writing (estimated): about 15 minutes per week for 14 weeks,
   about 3.5 hours.
-- Reading (estimated): K114 read twice, about 30 minutes each at the
-  module's default reading rate, about 1 hour total.
+- Reading (measured text, estimated time): K114's assigned body is 320
+  words (measured 2026-10-25); read twice at the skill's purpose-adjusted
+  study rate of 130 wpm that is about 2.5 minutes per read, about 5
+  minutes total.
 - Assessment (estimated): two posture photographs or sketches about 10
   minutes each, plus the closing self-assessment about 15 minutes, about
   35 minutes.
-- Recommended total: 5 minutes measured instruction + 465 minutes
-  standing + 84 + 210 + 60 + 35 minutes of estimated reading, recall,
-  log and assessment = about 14.3 hours, printed as components. The
-  current 4-hour field is left as the module's legacy claim; the
-  redesigned total is computed and printed as separate components per
-  the skill.
+- Recommended total: 465 + 84 + 210 + 5 + 35 = 799 minutes, about 13.3
+  hours, printed as components. The current 4-hour field is left as the
+  module's legacy claim; the redesigned total is computed and printed as
+  separate components per the skill.
 
 Verification status:
 
-- QG-M03-01: verification_status "verified-video" with a printed 5-minute
-  duration and gate evidence naming the YoQi VOD page (checked in
-  fcAcademyData 2026-10-25); its free-trial access condition must be
-  labelled on the module per the skill's accessibility rule. Content
-  coverage (it must guide standing practice, not only discuss it) was
-  checked by its original verifier per the qigong records; re-confirming
-  from the recording is a light item for the verification band.
+- QG-M03-01 (REQUIRED medium): verification_status "verified-video" with
+  a printed 5-minute duration and gate evidence naming the YoQi VOD page
+  (checked in fcAcademyData 2026-10-25). Page-level checks performed
+  this session (2026-10-25, URL https://videos.yoqi.com/video/959): the
+  page confirms the title "5 Minutes of Zhan Zhuang Self Practice",
+  presenter Marisa Cranfill, duration 5 minutes; the page prints no
+  pricing, subscription or trial language and the fetch reported no
+  paywall, so no access restriction is visible at page level; the
+  inherited "free trial" gate-evidence label is NOT visible on the page
+  and needs a playback check to settle. Content: the page describes a
+  guided 5-minute self practice (part of a Standing Meditation Series
+  that builds progressively), which supports its use as guided
+  instruction; a recording-level check (that the video actually guides
+  standing, not only discusses it) remains open for the verification
+  band. RETAINED as the required medium on this page-level evidence,
+  with the playback check open.
 - Gallery tier candidates selected by the verification band on
   2026-10-25 (verify/deg-cmp.md). PROVENANCE, stated honestly: the
   candidates were verified from their watch/upload pages and the
@@ -206,6 +239,37 @@ Open items carried forward: recording-level checks of the three
   candidates (verification band), YOQI access confirmation (owner or
   verification band), and the Phase 0 stop-gate still blocks module
   production.
+
+## Advisor QC round 3 (2026-10-25, strategist session)
+
+The advisor's round-3 review of the repaired draft found three blockers;
+  repairs applied in this revision:
+
+- QG-M03-01 (required medium) inspected at its catalogue URL this session
+  (https://videos.yoqi.com/video/959, fetched 2026-10-25): title,
+  presenter (Marisa Cranfill) and 5-minute duration confirmed; the page
+  prints no pricing, subscription or trial language and the fetch
+  reported no paywall, so no access restriction is visible at page level;
+  the inherited "free trial" label is not visible on the page and a
+  playback check stays open. RETAINED on this page-level evidence, with
+  the recording-level content check open for the verification band.
+- Workload double-count removed: the week-1 guided session along QG-M03-01
+  is one of the week's practice sessions, so its minutes are inside the
+  465-minute allocation and are not added again; the 465 minutes are
+  labelled a PLANNED PRACTICE ALLOCATION (not measured learner time); the
+  K114 reading allowance is grounded in the measured assigned text (320
+  words, about 2.5 minutes per read at the skill's 130-wpm study rate,
+  about 5 minutes for two reads). Recommended total 799 minutes, about
+  13.3 hours, printed as components.
+- Instructional and assessment material supplied, not promised: the
+  module page now carries the five posture checkpoints (taken from K114's
+  protocol, the assigned reading), a full four-week worked log with one
+  printed adjustment and its reasoning (the format the learner's log
+  must follow), and the rubric's pass/redo criteria as observable lines
+  (one logged session per rung-week including a 15-minute stand in each
+  of weeks 11 to 14; annotated week 1 and week 14 photographs; one
+  log-data adjustment with a reason; the closing self-assessment against
+  the checkpoints).
 
 ## What this pilot demonstrates
 
