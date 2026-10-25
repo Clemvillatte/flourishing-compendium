@@ -14,6 +14,18 @@ Affective forecasting is the prediction of one's own future emotional reactions 
 
 The review also describes failures to anticipate sense-making and psychological coping that can speed recovery after negative events ([Wilson & Gilbert 2005](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)).
 
+### The activity and its two named errors
+
+The construct splits into the activity and its characteristic failure. Forecasting is the activity; the impact bias is the failure, and the abstract names two mechanisms behind it. The first is focalism, treating the focal event as if it alone will occupy the mind. The second is the recovery mechanism the reviewer calls sense-making: people do not anticipate how quickly they will construe a negative event in a way that speeds their own recovery ([Wilson & Gilbert 2005](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)).
+
+### The negative-event asymmetry
+
+The abstract flags an asymmetry the review treats as its own finding: the forecast error is worst for negative events, because people fail to anticipate how quickly psychological coping will speed their recovery ([Wilson & Gilbert 2005](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)). A dread forecast is therefore the least reliable forecast a person makes, and the one most likely to be acted on.
+
+### What the error implies
+
+The forecasting error runs in the same direction for both duration and intensity, and both directions point at an overestimate of the event's claim on the life that follows it. The practical bearing on wisdom is not to distrust wanting but to distrust the forecast's severity and duration before acting on it, which is why this page sits beside the [[Impact bias]] card and the [[Hedonic adaptation]] machinery that makes duration forecasts wrong.
+
 ## Facets
 
 - **errors**
@@ -21,6 +33,9 @@ The review also describes failures to anticipate sense-making and psychological 
 ## Related concepts
 
 - [[K272]] — The kernel is a working corrective for the impact bias the page documents: testing a feared outcome's severity, probability and duration by direct examination.
+- [[Impact bias]] — the systematic error the activity produces, with the same opened carrier
+- [[Hedonic adaptation]] — the adaptation machinery that makes duration forecasts wrong
+- [[Outcome forecasting]] — the companion error about non-emotional consequences
 
 ## Sources
 
