@@ -204,7 +204,7 @@ Zhuangzi's rhythm of rest, Pieper's leisure, Analects 2.10, the
 Apology's examined economics, Augustine's two cities, restorative
 justice), and Wang Yangming's unity of knowledge and action. No
 mismatches found; no edits made. This strengthens the earlier
-voice-audit review (all 6 candidates kept): the flagged constructions
+voice-audit review (all 10 candidates kept, per the ledger's own review record): the flagged constructions
 are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
