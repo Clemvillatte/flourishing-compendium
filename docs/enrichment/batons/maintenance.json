@@ -1,7 +1,7 @@
 {
  "baton": "maintenance",
- "agent": "worker-pplx-maint-1025b",
- "clocked_in": "2026-10-25T00:46:49+00:00",
+ "agent": "worker-maint-1025b",
+ "clocked_in": "2026-10-25T01:04:32+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing25",
@@ -206,8 +206,12 @@
    "at": "2026-10-25T00:47:01+00:00",
    "from": "worker-pplx-maint-1025b",
    "reason": "supervisor force-release"
+  },
+  {
+   "by": "worker-maint-1025b",
+   "at": "2026-10-25T01:04:32+00:00",
+   "from": "worker-pplx-maint-1025b",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-25T00:47:01+00:00"
+ ]
 }

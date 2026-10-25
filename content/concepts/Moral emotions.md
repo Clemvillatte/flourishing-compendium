@@ -15,6 +15,10 @@ I use "Moral emotions" for the emotions that link moral standards to moral behav
 
 The review's map of the field: "We first focus on a triad of negatively valenced “self-conscious” emotions-shame, guilt, and embarrassment" (Tangney et al. 2007, [PubMed 16953797](https://pubmed.ncbi.nlm.nih.gov/16953797/)). "In recent years, the concept of moral emotions has been expanded to include several positive emotions-elevation, gratitude, and the sometimes morally relevant experience of pride" (Tangney et al. 2007, [PubMed 16953797](https://pubmed.ncbi.nlm.nih.gov/16953797/)).
 
+### The distinction that carries the weight
+
+The review's center of gravity is the difference between the two self-conscious emotions: "As in previous decades, much research remains focused on shame and guilt. We review current thinking on the distinction between shame and guilt, and the relative advantages and disadvantages of these two moral emotions." (Tangney et al. 2007, abstract, [PubMed 16953797](https://pubmed.ncbi.nlm.nih.gov/16953797/)). The newer research it maps runs wide: "Several new areas of research are highlighted: research on the domain-specific phenomenon of body shame, styles of coping with shame, psychobiological aspects of shame, the link between childhood abuse and later proneness to shame, and the phenomena of vicarious or "collective" experiences of shame and guilt" (Tangney et al. 2007, abstract, [PubMed 16953797](https://pubmed.ncbi.nlm.nih.gov/16953797/)). The review closes not on a named emotion but on a process: "a morally relevant emotional process-other-oriented empathy" (Tangney et al. 2007, abstract, [PubMed 16953797](https://pubmed.ncbi.nlm.nih.gov/16953797/)).
+
 ## Facets
 
 - **research** — Haidt, 2003
