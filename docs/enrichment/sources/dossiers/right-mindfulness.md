@@ -601,3 +601,13 @@ Instruction (the seen/heard/sensed/cognised teaching, matched
 verbatim in the card body), ST071 The Wind and the Flag (Huineng,
 Platform Sutra). All three loglines match the cards' subjects and
 sources. No defects found.
+
+## Story spot-checks, batch 2 (worker-pplx-dos24-1025g, 2026-10-25)
+
+Three story cards opened at body level and checked against their
+loglines: ST061 Bāhiya's Single Instruction (in the seen only the
+seen — matches), ST069 The Four Foundations (the direct path
+opening, the four frames — matches) and ST071 The Wind and the
+Flag (Huineng, not the wind or the flag — matches). All three
+match. With batch 1, the sampled cards all verify. No defects
+found.
