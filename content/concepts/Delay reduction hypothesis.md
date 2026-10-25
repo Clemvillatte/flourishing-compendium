@@ -23,7 +23,7 @@ My earlier note credits "Chung, Herrnstein" and says immediacy is the powerful v
 
 ### Here
 
-- [[MO005 — Recognise that motivation is temporal — delay reduces motivation]] is the principle this concept is filed under: it supplies a mechanism, on the animal-learning evidence, for why delay reduces the pull of a reward.
+- [[MO005 — Recognise that motivation is temporal — delay reduces motivation]] — the principle that names the delay effect; this concept is the animal-choice account of one mechanism behind it, with the human link still a suggestion from pigeon data
 - [[Temporal discounting]] — the wider study of how delay lowers the value of rewards
 - [[Temporal motivation theory]] — a human-motivation model in which delay also matters
 
