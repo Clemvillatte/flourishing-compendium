@@ -3646,3 +3646,13 @@ ACT pilot (commit 794ccfb78) verified: 14 kernels moved to NAV-PSYCH-ACT; red `>
 
 Next folder in the queue: MI (14 kernels), then CBT (11), CFT (9), MBCT (9), Stoic (5), DBT (2), BA (1), then the multi-modality cards, then the "general" bucket (246 — flagged for owner: is "general" as the majority bucket acceptable, or should the 246 be re-scoped/spot-audited before refile?).
 
+
+## KERNELS REORGANIZATION — all 70 modality-tagged kernels refiled (status 13:41Z)
+
+All 70 kernels with in-body or primaryPath modality evidence are now refiled: ACT 14, MI 14, CBT 11+2 multi, CFT 9, MBCT 9+2 multi, Stoic 5, DBT 2, BA 1+1 multi. New NAV nodes: NAV-PSYCH-STOIC, NAV-PSYCH-DBT, NAV-PSYCH-BA. Edge count 32663 preserved throughout (6 commits). Build green (5951 entries).
+
+**REMAINING — "general" bucket (246 kernels) — BLOCKED ON OWNER:**
+This is 78% of the kernels. Before bulk-refiling these to a "general" modality, I need an owner ruling on whether that label is acceptable as the majority bucket (the work order's own instruction says mark "general" if none, so the letter permits it — but I'm flagging it because 246/316 means the corpus is predominantly unlabelled and the owner may prefer per-card review). Do NOT mass-apply "general" until ruled.
+
+Next ready action (no ruling needed): rename NAV-PSYCH-V1K to NAV-PSYCH-KRN with title "Psychological Kernels" — this is a pure folder/label change with zero file content impact. Will do if time allows.
+
