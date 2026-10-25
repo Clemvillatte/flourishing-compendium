@@ -334,9 +334,7 @@ the previous worker's checks). This completes lecture 16: all six chapters are n
 verified.
 
 Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
-prompt rather than being fully unprompted; the entry was re-verified against a raw
-unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
-transcript text.
+prompt rather than being fully unprompted; the entry was re-verified in the batch 23 pass against a raw unprompted re-fetch of the same page: the entry's content claims were checked against the raw text and match (a claim-and-quote check, not a full word-by-word body diff).
 
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 20): lecture 17 (Self and
 Other, Part II; Some Mysteries: Sleep, Dreams, and Laughter, 64:53) chapters 1 and 3 to 8
@@ -526,20 +524,14 @@ review; identity, duration and instructor metadata inherited from the previous w
 checks). Lecture 11 is now fully content-verified across all six chapters.
 
 Provenance correction (batch 23): the fetch used for this entry carried a return-as-is
-prompt rather than being fully unprompted; the entry was re-verified against a raw
-unprompted re-fetch of the same page in the batch 23 pass, which returned the identical
-transcript text, including the Chicago-children and fear-elicitor phrasings as printed.
+prompt rather than being fully unprompted; the entry was re-verified in the batch 23 pass against a raw unprompted re-fetch of the same page: the chapters 4 to 6 text was read from the raw fetch and matches the entry's descriptions and quoted phrasings, including the Chicago-children and fear-elicitor phrasings as printed (a claim-and-quote check, not a full word-by-word body diff).
 
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 27): the Howard talk
-(Inaugural Lecture: Unravelling Early Self-Regulation, 58:54) could NOT be content-verified
-this session; no transcript is accessible. What was tried, in order: the YouTube timedtext
+(Inaugural Lecture: Unravelling Early Self-Regulation, 58:54) could NOT be content-verified this session; no transcript was retrieved through the routes tried. What was tried, in order: the YouTube timedtext
 caption API (returns empty for this video); the innertube player API under three client
 configurations (all HTTP 403); and a real cloud browser session on the YouTube watch page,
 where the Show transcript control exists and the transcript panel opens but renders zero
-segments (the page's embedded player response also reports no caption tracks). No transcript
-of the lecture exists on the Oxford event page (abstract only, already recorded in the
-candidates table by the previous worker) or on the Oxford Podcasts site (searched; not
-listed). Per the no-hallucination rule the lecture's content beyond its published abstract
+segments (the page's embedded player response also reports no caption tracks). No transcript was found on the Oxford event page (abstract only, already recorded in the candidates table by the previous worker); the Oxford Podcasts site was searched and no matching episode was returned. Per the no-hallucination rule the lecture's content beyond its published abstract
 cannot be classified, so it stays a candidate with its segment assignment outstanding;
 flagged for the supervisor. The abstract's claims (one-fifth of children lacking expected
 self-regulation growth before school; age-7 children remaining at 4-year-old levels; at
@@ -553,9 +545,7 @@ previous worker's checks).
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 26): the Wood talk (The
 secret habits that control your life, 6:18 on the YouTube watch page, 6:19 in her Social
 Psychology Network video gallery) was read in full from the transcript published on the [Big
-Think page for the talk](https://bigthink.com/the-well/how-to-change-habits/) (an unprompted
-full-text fetch; the talk is a Big Think/The Well production with the John Templeton
-Foundation, and the page carries the complete spoken text). Content, classified from the
+Think page for the talk](https://bigthink.com/the-well/how-to-change-habits/) (an unprompted full-text fetch; the page carries the complete spoken text, and the page sits in Big Think's The Well section). Content, classified from the
 transcript: Wood opens with habits' bad name in psychology (associated with dogs and limited
 minds; humans assumed too creative for them) and the research finding that people act on
 habits much more than they are aware of; the 1980s four-story office building stair-use
@@ -576,9 +566,7 @@ talk presents the row's central content (context cues, rewards, friction, habits
 self-control) in Wood's own words and is consistent with the row's Carden and Wood 2018 and
 Singh et al. 2024 readings. Status: verified-video (transcript-based content review;
 identity, duration and instructor metadata inherited from the previous worker's checks). The
-talk's segment assignment: one full segment, 00:00:00 to 6:18; note the transcript page is
-Big Think's re-publication and states a 2025-05-23 page date, while the YouTube upload date
-recorded in the candidates table (2022-05-26) remains the publication date of record.
+talk's segment assignment: one full segment, 00:00:00 to 6:18; note: the transcript page's metadata states a 2025-05-23 page date, recorded here separately from the YouTube upload date (2022-05-26) already in the candidates table; no relationship between the two dates is inferred.
 
 Additional inspection (2026-10-25, worker-pplx-psychdim-2, batch 25): the Barrett talk (You
 aren't at the mercy of your emotions: your brain creates them, TED@IBM, December 2017,
@@ -641,9 +629,10 @@ M3 cognitive elective. Chapter 3 (Question and Answer on Language, 00:12:39 to 0
 individual differences in language learning (Bloom's Einstein-did-not-talk-until-age-five
 anecdote, explicitly flagged by Bloom as probably not true; slight female advantage; large
 genetic factor; hemispheric bases); bilingual children distinguishing and learning both
-languages; multilingualism as the world norm; and the finding that learning multiple
-languages produces no deficit and no slowdown in either language, against the finite-
-resources intuition Bloom articulates (with the Quebec teaching debate as context). Serves
+languages; multilingualism as the world norm; and Bloom's account that children learning more than one language seem to show no
+deficit and no slowdown in either language, with his as-far-as-we-know qualifier,
+against the finite-resources intuition he articulates (with the Quebec teaching debate
+as context). Serves
 the M3 cognitive elective. Chapter 6 (Question and Answer on Attention and Memory, 00:58:04
 to end, 59:43): Bloom answers why practiced skills become automatic and involuntary (he does
 not know the why; the cannot-not-read, cannot-stop-listening and cannot-shut-eyes examples),
@@ -666,15 +655,13 @@ anthropology, literature and theology). Serves M1 orientation; no matrix row cur
 lecture 1 segments, so the assignment is flagged for the strategist or an independent review
 rather than made by this worker. Status for the chapter-2 segment: verified-video
 (transcript-based content review; identity, duration and instructor metadata inherited from
-the previous worker's checks). Lecture 1 is now fully content-verified across all three
-chapters.
+the previous worker's checks). Lecture 1 is now fully content-verified across all three chapters; the chapter 2 text, and the re-reads of chapters 1 and 3, were read from the raw fetch's saved output file, completing the read recorded above.
 
 QC pass (2026-10-25, worker-pplx-psychdim-2, batch 23; advisor round 2): the advisor
 withheld clearance on batches 19 to 22 with four repairs, all applied in this pass. (1)
 Provenance: the full-text fetches used for batches 18 to 22 carried a return-as-is prompt
 rather than being fully unprompted; every entry was re-verified in this pass against a raw
-unprompted re-fetch of the same OYC page (prompt omitted). Lectures 11, 12, 13 and 16
-returned the identical transcript text. Lecture 17's raw fetch additionally preserves
+unprompted re-fetch of the same OYC page (prompt omitted). The checks differed by lecture and are recorded as performed: lecture 13's transcript body was compared word-by-word (normalised) and is identical; lecture 17's body was compared and is identical in substance, the raw additionally preserving printed false starts; lectures 11 and 12 were re-read from raw fetches with the entries' content claims and quoted spans checked against the raw text and matching; lecture 16 was re-read from a raw fetch with the entry's content claims checked and matching. Full word-by-word body comparisons were run only for lectures 13 and 17; the lectures 11, 12 and 16 checks were claim-and-quote checks, not full-body diffs. Lecture 17's raw fetch additionally preserves
 Bloom's printed false starts (for example 'typical — typically' and 'what we expect and what
 we actually — what actually happens') that the earlier fetch had smoothed; no quoted span in
 the ledger is affected, and the raw text is now the authority of record. (2) Lecture 13's
