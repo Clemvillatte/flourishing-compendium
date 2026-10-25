@@ -51,5 +51,7 @@
    "from": "qc-storyteller-pplx-1025x",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T15:15:22+00:00"
 }
