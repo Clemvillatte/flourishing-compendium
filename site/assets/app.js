@@ -4870,7 +4870,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "“ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))",
+          "x": "“ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/), [NCBI full text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3635495))",
           "s": null
         },
         {

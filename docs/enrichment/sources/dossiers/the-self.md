@@ -546,3 +546,5 @@ Estimated scope for the conversion writer: the 10 subsections of catalog
 paragraphs are the work; opening, disagreements, practice and story need
 only a voice pass. The 40-300 word rule does not apply (dossier). Do not
 publish from this pass — I made no edits to the dossier.
+
+- 2026-10-25 10:54:42Z — repair, self-checked, pushed. The Hayes et al. 2013 ACT span (PMC3635495) had been verified by rendered fetch only; the NCBI eutils PMC full-text endpoint (efetch.fcgi?db=pmc&id=3635495, opened this session) serves the full article text as plain XML and contains the span verbatim, so that URL was added as a second carrier and quote_verify now checks the span clean through it. The Milinda 3.1.1 span remains the documented suttacentral rendered-fetch exception (suttacentral serves a JavaScript shell to automated fetchers).
