@@ -393,47 +393,49 @@ already cites as the same wording. No dossier file was edited (not
 this baton's write scope); this entry supplies the verification
 evidence for the module/dossier owner.
 
-### Gallery tier selection update 3 — 5-minute guided-standing candidate (deg-verify-b, 2026-10-25)
+### Gallery tier selection update 3 — 5-minute guided-standing candidate (deg-verify-b, 2026-10-25; ROUTING FLAG below)
 
 For the mod-qg-3 5-minute lower-rung slot left unresolved by the
 S0ZqKo0KQvA finding above, one further candidate was examined this
-session and is recorded as verified-partial with flags — assignment
-remains a module-owner decision.
+session and is recorded as candidate — partial evidence only; not
+cleared for attachment. Assignment remains a module-owner decision.
 
 - CANDIDATE: Kasia Murfet, "5-Min Qigong Standing Meditation",
   Insight Timer,
   https://insighttimer.com/kasiamurfet/guided-meditations/5-min-qigong-standing-meditation
 - Identity and duration: page OPENED 2026-10-25 — title and teacher
-  confirmed, duration 05:05 printed on the page. Identity basis is the
-  opened page (no oembed; not a YouTube resource).
-- Content: the page description (opened 2026-10-25) states the practice
-  is Standing Posture or Wuji — developing posture, leg and waist
-  strength, collecting the scattered mind. A search-index excerpt of
-  the same page (read 2026-10-25) shows transcript fragments of the
-  guidance itself: "Today we are going to practice standing posture,
-  Also known as emptiness stance or simply WUJI... Let us begin by
-  standing feet shoulder distance wide. Your feet are pointing straight
-  ahead... We are going to remain here for another minute and as our
-  feet stand firmly on the earth and our head lift towards the sky."
-  Basis recorded as description + search-index excerpt, NOT a directly
-  opened transcript.
-- Instructor credentials: MA in Buddhist Studies (Zen Arts),
-  University of South Wales, and Soto lay Zen ordained practitioner,
-  socially engaged qigong facilitator (Insight Timer teacher profile,
-  opened 2026-10-25, https://insighttimer.com/kasiamurfet; her own site
-  opened 2026-10-25, https://www.kasiamurfet.com/, confirming the MA
-  and that she offers qigong in workshops and 1:1 sessions). QIGONG
-  FLAG: no qigong-specific teacher training, lineage or named master
-  appears on either opened page; a yearlong qigong mentorship with
-  Mimi Kuo-Deemer appears only in a search-index excerpt of her
-  LinkedIn profile (read 2026-10-25; the profile itself is
-  robots-blocked and was NOT opened) — the documented-teacher-training
-  clause is therefore NOT fully satisfied on opened pages.
-- Access: the page states no login or paywall, but the player is
-  JS-rendered and the anonymous-playback condition could not be read
-  from the static page — same access-label gap as the YOQI re-check
-  above; the module owner's access-condition label is required before
-  attachment.
-- STATUS: verified-partial with two flags (qigong-specific training not
-  on opened pages; anonymous playback unconfirmed). Fits the 5-minute
-  slot as duration (05:05) unlike S0ZqKo0KQvA (11:02 total runtime).
+  confirmed; listed total duration 05:05, i.e. a near-five-minute
+  candidate; neither exact slot eligibility nor the guided-practice
+  duration was established.
+- Content: the opened page description states the practice is Standing
+  Posture or Wuji — developing posture, leg and waist strength,
+  collecting the scattered mind. Basis recorded as the opened
+  description only; no transcript was directly opened.
+- Instructor credentials: the opened Insight Timer teacher profile
+  (2026-10-25, https://insighttimer.com/kasiamurfet) reports an MA in
+  Buddhist Studies (Zen Arts) and Soto lay Zen ordination, and Murfet
+  (they/them) describes themself as a socially engaged qigong
+  facilitator; her own site (opened 2026-10-25,
+  https://www.kasiamurfet.com/) confirms the MA and that she offers
+  qigong in workshops and 1:1 sessions. QIGONG FLAG: no qigong-specific
+  teacher training, lineage or named master appears on either opened
+  page; a yearlong qigong mentorship with Mimi Kuo-Deemer appears only
+  in an unopened LinkedIn search excerpt and is recorded as an
+  unverified research lead, NOT credential evidence. Qigong-specific
+  training remains unverified from opened material; the contemplative
+  credentials do not themselves establish qigong teacher training.
+- Access: anonymous playback was not tested; the fetched content did
+  not establish login or payment requirements. A playback check (or
+  owner ruling on the platform's access condition) is required before
+  any attachment decision under the no-paywall rule.
+- STATUS: candidate — partial evidence only; anonymous access,
+  qigong-specific training and slot suitability unresolved; NOT cleared
+  for attachment.
+- ROUTING FLAG for the supervisor: deg-cmp.md falls under Block H
+  (deg-verify-a's manifest in the TASKBOARD queue). This entry was
+  appended under deg-verify-b to keep the 5-minute candidate evidence
+  beside the S0ZqKo0KQvA thread it continues; the supervisor should
+  re-assign or move it if the manifest split requires that. The same
+  applies to the Epictetus quote-triage follow-up entry appended this
+  session (that item was explicitly flagged for "the next verify pass"
+  without a baton assignment).
