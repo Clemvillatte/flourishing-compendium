@@ -259,3 +259,34 @@ constructions are card-faithful as well as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## Restructure to interwoven format (pass 6, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Dossier rewritten in the interwoven format per the dossiers HANDOFF current
+orders (card-entry one-liners dissolved into prose; quotes and card links
+retained; no new quotes). Advisor QC round 1 applied: unsupported claims
+removed (the "most harm" opener comparison, the "traditions converge"
+claim, the spiral-of-silence intention flourish, the metta/MN-58 identity
+now attributed to the Right speech card rather than asserted from the
+sutta); AF075 validation gloss scoped to the card's own evidence trail
+(Kuo et al. 2022, emotion-specific, dysregulation-dependent); the
+relation section reorganised around concrete questions (need without
+demand; what helps in distress; what repair requires; what words do);
+stock flourishes removed; retention given a practical review question;
+the Gita/Abhaya disagreement conclusion limited to the cited passages.
+
+Card-reading checks this session (worker-pplx-c3b0f2fb): the AF075 and
+Spiral of Silence cards opened and read; both glosses re-anchored to their
+cards' own evidence and scope. The remaining ~90 card glosses are reused
+verbatim from the prior card-fidelity-swept draft and were NOT re-read by
+this worker - flagged rather than claimed (same flag as dos18/dos19).
+
+Raw quote verification (this session, worker-pplx-c3b0f2fb): SN 45.8,
+MN 58 (three fragments), AN 5.198, Bhagavad Gita 17.15 (Wisdom Library
+rendering) and the Arnold rendering (Song Celestial, Project Gutenberg)
+- all fetched live and substring-checked, confirmed word-for-word.
+quote_verify: 6 checked, 0 not found. Checker exit 0.
+
+STATE: worker WIP pending supervisor review - the advisor directed that
+this restructure not be marked complete until the card-gloss evidence gap
+is closed; the batch state records it as in-progress, not done.

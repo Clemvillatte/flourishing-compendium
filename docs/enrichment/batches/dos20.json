@@ -12,9 +12,15 @@
       "dates": {
         "takeover_verification": "2026-10-24"
       }
+    },
+    {
+      "slug": "right-speech",
+      "worker": "worker-pplx-c3b0f2fb",
+      "state": "in-progress (WIP): dossier restructured to the interwoven format per 2026-10-25 current orders; advisor QC round 1 applied (unsupported claims removed, relation section reorganised around concrete questions, glosses re-anchored to card evidence); checker exit 0 (96 card links, 6 external carriers); quotes raw-reverified this session; NOT marked complete per advisor directive - the ~90 non-quote card glosses reuse the prior card-fidelity sweep and were not re-read by this worker",
+      "verification": "pass 6 (worker-pplx-c3b0f2fb, 2026-10-25): all quote carriers fetched live and substring-checked this session (SN 45.8, MN 58 x3, AN 5.198, Gita 17.15 wisdomlib + Arnold gutenberg) - confirmed word-for-word; AF075 and Spiral of Silence cards opened and read, glosses re-scoped; quote_verify 6/0; ledger updated with scope limits"
     }
   ],
-  "note": "Takeover of a released band whose dossier was complete but unrecorded. Publication (registry flip, fcDossiersData rebuild, artwork) is supervisor-only.",
+  "note": "pass 6 (worker-pplx-c3b0f2fb): right-speech restructured to the interwoven format, checker exit 0, quotes raw-reverified this session (see ledger pass 6). STATE: WIP pending supervisor review per advisor directive (card-gloss evidence gap flagged, same as dos18/dos19). REMAINING for supervisor: card-gloss re-read or acceptance of the prior fidelity sweep, view-data rebuild (supervisor-only), art assignment. The Gita/Abhaya disagreement is scoped to the cited passages.",
   "review": [
     "right-speech"
   ]
