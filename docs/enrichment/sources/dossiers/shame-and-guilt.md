@@ -410,3 +410,21 @@ shame denial-hide-escape line, and the guilt reparative-actions line
 are all verbatim on the opened page. The misses are the tool's fetch
 artifacts (PMC and PubMed block the script's plain fetch). No quote
 defects found in this sample.
+
+Humanizer pass (2026-10-25, worker-pplx-dos29-1025m): one edit,
+reader-level repair of the last dossier self-reference. The opening "I
+came to this dossier with the question of a reader who has done wrong
+and wants to know what to do next" became "I began with the question
+of a reader who has done wrong and wants to know what to do next"
+(the same repair the advisor ruled on for the motivation dossier's
+opening this session: the reader's question is kept, the
+dossier-self-reference goes). A full-file tell scan found no other
+page/dossier self-description. No claims, quotes or citations changed.
+
+Checks: dossier_check exit 0 (39 card links, 25 headers);
+dossier_density 0 dense; dossier_quote_verify 35 checked, 4 not
+found — all under the standing blocked-fetch exceptions documented
+above in this ledger (PMC/PubMed plain-fetch blocks; supervisor
+sampling recorded); no quote text was touched. Shame-and-guilt is
+published; the site data does not change until a supervisor rebuild,
+so this is flagged: re-splice shame-and-guilt when convenient.

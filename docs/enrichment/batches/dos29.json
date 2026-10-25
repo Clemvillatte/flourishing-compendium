@@ -1,8 +1,8 @@
 {
-  "batch": "dos29",
-  "done": [],
-  "review": [
-    "shame-and-guilt"
-  ],
-  "note": "GF rewrite + advisor QC repair pass pushed 2026-10-25 (worker-pplx-dos29-1025h): shame-and-guilt body rewover into question-headed threads; Tangney action-tendencies quote split (was silently joining non-adjacent sentences; both halves now verify); two disagreements rejected by QC and moved to body as unresolved comparisons; 1 of 3 disagreement questions remains - DOSSIER-MODEL 3-question minimum UNRESOLVED, flagged for supervisor; card glosses corrected against actual card files; checker exit 0, density 0, voice clean; registry left planned"
+ "batch": "dos29",
+ "done": [],
+ "review": [
+  "shame-and-guilt"
+ ],
+ "note": "GF rewrite + advisor QC repair pass pushed 2026-10-25 (worker-pplx-dos29-1025h): shame-and-guilt body rewover into question-headed threads; Tangney action-tendencies quote split (was silently joining non-adjacent sentences; both halves now verify); two disagreements rejected by QC and moved to body as unresolved comparisons; 1 of 3 disagreement questions remains - DOSSIER-MODEL 3-question minimum UNRESOLVED, flagged for supervisor; card glosses corrected against actual card files; checker exit 0, density 0, voice clean; registry left planned | 2026-10-25 worker-pplx-dos29-1025m: shame-and-guilt humanizer pass - 1 opening self-reference repair (advisor-ruled motivation pattern); no claims/quotes/citations changed; checks green (exit 0, density 0, quote_verify 35/4 standing exceptions); SUPERVISOR: re-splice shame-and-guilt when convenient."
 }

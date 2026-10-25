@@ -4,7 +4,7 @@
 
 Shame and guilt answer occasions of exposure and of wrong: a harm done, a standard broken, a self seen and found wanting. The classical traditions treated that whole territory under names like aidos, repentance and teshuva, and asked how the pain over a wrong should be used. The modern research tradition split the territory in two and staked much on the split: one emotion evaluates an act and reaches for repair, the other evaluates the self and reaches for cover.
 
-I came to this dossier with the question of a reader who has done wrong and wants to know what to do next, and both the classical treatments and the split have a claim on me. I keep two questions separate below: what the feelings are and what they move a person to do, and then what repair of a wrong actually consists of, from confession and apology to the harder case where the feeling has turned on the self and become the problem.
+I began with the question of a reader who has done wrong and wants to know what to do next, and both the classical treatments and the split have a claim on me. I keep two questions separate below: what the feelings are and what they move a person to do, and then what repair of a wrong actually consists of, from confession and apology to the harder case where the feeling has turned on the self and become the problem.
 
 ### Nearby terms
 
