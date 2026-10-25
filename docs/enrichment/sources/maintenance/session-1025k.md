@@ -213,3 +213,6 @@ Compared with the PubMed record ([Haidt 2001](https://pubmed.ncbi.nlm.nih.gov/11
 
 ## Audit: PubMed abstracts
 Retrieved 397 PubMed records through the NCBI E-utilities service and compared every double-quoted passage on pages linking to them. Besides CO075, only formatting differences (bracketed confidence intervals, punctuation in titles). No other page changes.
+
+## Audit: quotes beside PubMed links that are not in the abstract
+BI048 (Foster and Sheel 2005 sentence on facial cold receptors) is not in the abstract but is verbatim in the full text ([Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0838.2005.00440.x), section "Role of the diving response"). PP003 ("no evidence that weather systematically influenced satisfaction judgments") is verbatim in the [Handbook of Well-Being chapter](https://www.handbookofwellbeing.com/chapters/05-reevaluating-the-strengths-and-weaknesses-of-self-report.html) that the page names as its source, not in Lucas and Lawless's abstract. BI020 quote is from NHLBI, correctly labelled. No changes.
