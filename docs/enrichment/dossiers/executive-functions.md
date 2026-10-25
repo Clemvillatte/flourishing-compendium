@@ -88,6 +88,20 @@ The training result has since been tested at scale and did not hold. In a six-we
 
 Separately from the empirical dispute, the Sona Sutta gives effort advice rather than a measurement: over-aroused persistence produces restlessness, which is a failure mode, not a success with a cost ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). The practice cards in this compendium mostly side with tuning: protect attention by design rather than force, and treat cognitive flexibility as the capacity that lets go of a dead frame ([CO045 — Cultivate cognitive flexibility — the capacity to switch between modes](https://clemvillatte.github.io/flourishing-compendium/#card=CO045%20%E2%80%94%20Cultivate%20cognitive%20flexibility%20%E2%80%94%20the%20capacity%20to%20switch%20between%20modes)).
 
+### Should working memory retain a separate executive component?
+
+The controller question the opening names has a documented dispute inside it: how should working memory represent control? The model's own architects give the retain side:
+
+> "We see the central executive as a separate set of control resources that can interact with the rest of the system in many ways" ([Hitch, Allen & Baddeley 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11783980/)).
+
+The same article reports a retirement proposal, citing Logie (2016):
+
+> "It has been suggested it is time for the executive to be retired and replaced with a set of distributed processors that operate without the need for central control, in so doing avoiding the problem of the homunculus" ([Hitch, Allen & Baddeley 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11783980/), citing Logie 2016).
+
+The dispute concerns how working memory should represent control: as a separate set of executive resources, or through distributed processors operating without central control. Baddeley's own earlier rationale for using a provisional construct, that the homunculus is "a convenient reminder of the problem area, not an explanation" whose functions could eventually be explained so it "would be able to retire" ([Baddeley 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC11979773/)), is a rationale for keeping the label while its component functions remain unexplained, not a third camp between the two positions.
+
+I favour treating the executive as a working description whose component functions still need explaining. I want the label to keep those questions visible.
+
 ## Practice: holding a plan without gripping it
 
 ::Variation:: Executive capacities vary, between people and within the same person across a day, a mood and a body state. A plan that held easily at nine in the morning can slip at eleven. The practices below are chosen so that the holding does not depend on feeling strong.

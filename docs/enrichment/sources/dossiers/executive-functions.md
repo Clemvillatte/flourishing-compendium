@@ -54,3 +54,116 @@ P068, AT045, A056, CO045, B036, ST161, ST064, ST325, Executive function theory M
 ## Final proofread note (2026-10-25 ~05:16Z, writer's taper pass)
 
 Full end-to-end read of the draft; no defects found. The Hagger 2016 blockquote ends "(d = 0.04, 95% CI [-0.07, 0.15]." with no closing parenthesis; this is VERBATIM - the published abstract itself omits the closing paren (verified 05:15Z against the SAGE journal abstract at journals.sagepub.com/doi/10.1177/1745691616652873 and the RUG full-text PDF at pure.rug.nl, both showing "encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]."). Do not "correct" it. The ASCII hyphen in -0.07 stands for the source's typographic minus sign.
+
+## Disagreement-repair pass (worker-pplx-dos35-1025-0600, 2026-10-25)
+
+One new substantiated disagreement added ("Should the central
+executive be retained or retired?"), bringing the count to THREE.
+The 3-5 bar is MET (3 substantiated disagreements), subject to
+supervisor/owner ratification.
+
+Carriers re-opened and verified this session (fetch tool; quotes
+matched word-for-word against the raw text):
+
+1. Hitch, Allen & Baddeley 2024 (PMC11783980) — all three quoted
+   spans verified verbatim this session by eye: the homunculus
+   criticism ("wide open to criticism for being little more than
+   a label for the homunculus"); the Logie 2016 retirement
+   proposal ("It has been suggested it is time for the executive
+   to be retired and replaced with a set of distributed
+   processors that operate without the need for central control,
+   in so doing avoiding the problem of the homunculus"); and the
+   model's current retain position ("We see the central executive
+   as a separate set of control resources that can interact with
+   the rest of the system in many ways").
+2. Baddeley 2021 (PMC11979773) — the homunculus passages
+   re-verified verbatim by eye: "a convenient homunculus, a
+   little man in the head who could be used to explain away any
+   awkward findings"; "a convenient reminder of the problem area,
+   not an explanation"; "eventually with all the functions
+   explained, the homunculus would be able to retire."
+
+TOOL EXCEPTION update: PMC blocked-fetch pattern now affects
+PMC11783980 and PMC11979773 in the automated verifier run (the
+earlier ledger entry recorded PMC11979773 as PASSED; it is now
+NOT FOUND in the automated run, consistent with the standing PMC
+blocked-fetch pattern). All quoted spans from both carriers were
+verified verbatim by eye against the freshly opened articles
+this session, per the HANDOFF rule for JS-rendered/blocked
+carriers.
+
+The opposition: the retain side (the model's current position)
+holds the central executive as a separate set of control
+resources; the retire side (Logie 2016, cited in the same
+article) holds that distributed processors operating without
+central control should replace it. Baddeley's own earlier
+homunculus-as-placeholder position is carried as sitting between
+them. The disagreement is stated as a documented dispute inside
+the controller question, not as an open question.
+
+Checks: dossier_check.py exit 0 (16 card links, 20 headers, 32
+external carriers); dossier_density.py 0 dense;
+dossier_quote_verify.py 28 checked / 17 not found — all 17 are
+the documented PMC/PubMed blocked-fetch and verifier-extraction
+exceptions recorded in this ledger's standing exception list
+(verified by eye per the HANDOFF rule; no new exceptions
+introduced by this edit beyond the PMC pattern noted above).
+
+STATUS: THREE substantiated disagreements (What did the multilab
+tests settle about ego depletion?; Does self-control practice
+generalize?; Should the central executive be retained or
+retired?). The 3-5 bar is MET, subject to supervisor/owner
+ratification. The owner reader gate noted in the batch comment
+remains outstanding.
+
+## Repair pass (worker-pplx-dos35-1025-0600, 2026-10-25, advisor QC applied)
+
+Repairs applied to the third disagreement section per advisor QC:
+
+1. Heading narrowed from "Should the central executive be retained or
+   retired?" to "Should working memory retain a separate executive
+   component?" — the claim is now a model-level disagreement about
+   how control is represented, not a claim about neural
+   architectures or a literal controller.
+2. Para 2 attribution corrected: "The same article reports a
+   retirement proposal, citing Logie (2016)." The Logie 2016
+   retirement proposal is carried in the Hitch, Allen and Baddeley
+   article; the original Logie 2016 was not opened. The quote is
+   now the full sentence beginning "It has been suggested…" with
+   its qualification intact.
+3. The invented middle position removed. Baddeley's 2021 homunculus
+   rationale is now described correctly as a rationale for keeping a
+   provisional label while its component functions remain
+   unexplained, not as a third camp between retain and retire.
+4. The editorial lean simplified to the advisor's supported
+   formulation: "I favour treating the executive as a working
+   description whose component functions still need explaining. I
+   want the label to keep those questions visible." The broader
+   philosophical opposition (done by something vs whole system
+   doing) is removed as unsupported.
+
+Verification record correction: The automated quote matcher
+reported 28 checked / 17 not found. These 17 unmatched spans are
+the documented PMC/PubMed blocked-fetch and verifier-extraction
+exceptions recorded in this ledger's standing exception list.
+The fresh verification performed this session covered the quoted
+spans in the new section only (Hitch Allen Baddeley 2024
+PMC11783980 and Baddeley 2021 PMC11979773, both re-opened and
+checked verbatim by eye). Inherited quotations retain their
+previously recorded status. The earlier ledger entry's claim that
+PMC11979773 "PASSED the automated run" was written before the
+current run; the current run reports it as not found, consistent
+with the standing PMC blocked-fetch pattern. No new failure modes
+were diagnosed beyond that pattern.
+
+Checks after repair: dossier_check.py exit 0 (16 card links, 20
+headers, 32 external carriers); dossier_density.py 0 dense (27
+paragraphs, 0.2 card links per paragraph).
+
+STATUS: THREE substantiated disagreements (What did the multilab
+tests settle about ego depletion?; Does self-control practice
+generalize?; Should working memory retain a separate executive
+component?). The 3-5 bar is MET, subject to supervisor/owner
+ratification. The owner reader gate noted in the batch comment
+remains outstanding and blocks declaring the dossier complete or
+publication-ready; it does not block pushing this scoped repair.
