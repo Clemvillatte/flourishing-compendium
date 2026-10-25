@@ -73,6 +73,23 @@ The disagreement turns on method: the earlier gains came against passive control
 
 For the four directions of the path factor, nothing here changes the aiming. What the disagreement questions is the hope of a general capacity built by rehearsal.
 
+### Is grit anything more than conscientiousness?
+
+[Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit) is the research field's best-known measure of long effort, and its own record is disputed. Duckworth and colleagues found it accounted for "an average of 4% of the variance in success outcomes", and reported it "highly correlated with Big Five Conscientiousness" and still incrementally predictive "over and beyond IQ and conscientiousness" ([Duckworth et al. 2007, abstract](https://pubmed.ncbi.nlm.nih.gov/17547490/)).
+
+A meta-analysis ten years later, 584 effect sizes from 88 samples and 66,807 people, found that the higher-order structure of grit "is not confirmed", that grit is "only moderately correlated with performance and retention", and that it is "very strongly correlated with conscientiousness". It left one part standing: the perseverance-of-effort facet "explains variance in academic performance even after controlling for conscientiousness" ([Credé, Tynan & Harms 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/27845531/)). A third paper argues that the mixed record comes from measurement, because the grit scale captures perseverance and "has not adequately captured passion", so "perseverance without passion isn't grit, but merely a grind" ([Jachimowicz et al. 2018, PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.1803561115)).
+
+So one side holds that grit adds something beyond a known trait, one that it is mostly the known trait, and one that the scale measures half of what it names. I have only the abstracts and cannot judge the statistics. What the three share, and the factor's own sutta supplies, is the question of what the effort is for: the sutta defines right effort by four directions, and grit by how long a person keeps going. I would use the research as a caution against calling persistence a virtue before asking what is being persisted in.
+
+### Is trying the road or the obstacle?
+
+The Dhammapada puts the work on the practitioner: "You yourselves must strive; the Buddhas only point the way" ([Dhammapada 276, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)). The sutta quoted above begins its four efforts with a person who "generates desire". The Tao Te Ching reads in the other direction: the one who devotes himself to the Tao "(seeks) from day to day to diminish (his doing)" until he arrives at "doing nothing (on purpose)", and "if one take trouble (with that end), he is not equal to getting as his own all under heaven" ([Tao Te Ching 48, Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
+
+The two do not meet head-on. The Daoist text describes a direction of travel, from more doing to less, and says the aim should not be pursued with trouble, while the Buddhist texts describe the work along the way, and the lute image already tells the monk to tune his persistence so that it is neither over-aroused nor slack. Where they do differ is the starting instruction: the sutta begins by generating wanting for the result, and the Tao Te Ching names that wanting as what defeats the result.
+
+I read the lute string as the mediating text, since it makes the amount of effort something to be tuned and not a creed, and I would not claim the sources settle whether the Daoist "diminishing" and the Buddhist tuning describe the same skill. The [Federer story](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness) in this dossier is an observer's report of effortlessness, so it does not bear on the question either way.
+
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the undifferentiated push: effort aimed at everything at once and therefore at nothing, the over-aroused persistence that arrives as restlessness, the slack persistence that arrives as its own diagnosis, and the effort held at full pitch through seasons that call for a lower one. The adaptive direction is the aiming and the tuning: the four directions picked one at a time, the pitch checked against restlessness and laziness rather than against the calendar, and the effort sized to the season the body is actually in.

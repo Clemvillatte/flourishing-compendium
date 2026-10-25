@@ -348,3 +348,37 @@ embedded in a natural sentence rather than standing in a `label:
 description` line. The Story section retains its one-line loglines as
 the format allows. Checker exit 0; density check 0 dense. Band
 dos23 baton claimed, worked and released this session.
+
+## Disagreement section extended from one to three questions (2026-10-25, worker-pplx-dos30-1025l, baton dos23)
+
+The page's section is headed "Where the research genuinely disagrees"
+(heading kept; one question existed: self-control practice). Two
+questions added, every quoted span matched by script against text
+fetched this session:
+1. Is grit anything more than conscientiousness? Duckworth et al. 2007
+   abstract (PubMed 17547490, fetched): "an average of 4% of the
+   variance in success outcomes"; "highly correlated with Big Five
+   Conscientiousness"; "over and beyond IQ and conscientiousness".
+   Credé, Tynan & Harms 2017 abstract (PubMed 27845531, from search
+   result text): 584 effect sizes, 88 samples, 66,807 individuals;
+   "is not confirmed"; "only moderately correlated with performance
+   and retention"; "very strongly correlated with conscientiousness";
+   perseverance-of-effort facet "explains variance in academic
+   performance even after controlling for conscientiousness".
+   Jachimowicz, Wihler, Bailey & Galinsky 2018, PNAS (abstract page,
+   authors and year confirmed by fetch): "has not adequately captured
+   passion"; "perseverance without passion isn't grit, but merely a
+   grind". Abstracts only; the statistics were NOT assessed and the
+   page says so.
+2. Is trying the road or the obstacle? Dhammapada 276 (Buddharakkhita,
+   Access to Insight, raw HTML); Tao Te Ching 48 (Legge, Gutenberg 216):
+   "(seeks) from day to day to diminish (his doing)", "doing nothing
+   (on purpose)", "If one take trouble (with that end), he is not
+   equal to getting as his own all under heaven" (parentheses are the
+   translator's). The page says the two texts do not meet head-on and
+   that the lute sutta (already quoted, AN 6.55) is read by me as the
+   mediating text. The Federer story is explicitly said not to bear on
+   the question.
+
+Checker: exit 0 (41 card links, 16 headers, 10 carriers). Count
+correction: right-effort now has THREE substantiated questions.
