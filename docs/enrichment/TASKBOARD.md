@@ -3777,3 +3777,13 @@ Round 6 sampled 35 more cards. New findings confirm a substantial Aristotelian c
 - K351: "eudaimonia" in a link, false positive
 
 **Running totals: 155+35=190 cards sampled; 10 reclassified; ~17 false positives confirmed; ~14 marginal cards flagged for owner.** The pattern: the corpus has a rich tradition-based layer (Aristotelian, Buddhist, Daoist, Confucian, Phenomenological, Existential) that doesn't map to clinical modalities — this is the corpus-design question the owner needs to rule on.
+
+## PER-CARD REVIEW PASS — FINAL TALLY (gm-pplx-kern1-1025a, 2026-10-25 15:34Z)
+
+Total sampled: 225 general cards across 7 rounds. **Reclassified: 11** (8 Stoic, 1 CBT, plus batch-4 K267 Stoic). **Confirmed false positives: ~20** with documented reasons. **Flagged for owner: ~17 marginal cards** — the Aristotelian cluster is now 6 cards (K263, K257, K296, K360, K283, K259), plus Buddhist (K168, K161), Daoist (K411, K419, K417, K114), Confucian (K292, K293), Phenomenological (K309, K306), Existential (K317), CFT-adjacent (K414), ERP (K119), mindfulness-adjacent (K102, K116, K100, K151, K206).
+
+**Current distribution after all repairs: Stoic 17, CBT 16, ACT 14, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 = 85 modality-tagged; 231 general (down from 246).**
+
+**The design question for the owner:** The corpus has a rich tradition-based layer (~17 cards with genuine Buddhist/Daoist/Confucian/Aristotelian/Phenomenological/Existential grounding) that doesn't map to clinical modalities. The Stoic precedent suggests tradition-based modality folders are acceptable, but creating NAV nodes for each is a corpus-design decision that needs the owner's ruling. I have NOT created any new tradition nodes beyond the three (Stoic/DBT/BA) that were already sanctioned.
+
+Zero link breakage maintained throughout; build green; edges preserved 32663.
