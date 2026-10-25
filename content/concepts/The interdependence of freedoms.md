@@ -45,3 +45,4 @@ The claim does not mean that every limit on another person is oppression. In Par
 
 - [[E076 — Practise the interdependence of freedoms]]
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

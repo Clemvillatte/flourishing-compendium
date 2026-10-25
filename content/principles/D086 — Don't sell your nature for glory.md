@@ -68,3 +68,4 @@ Being cultivated for the altar is not being honored. Where are you being fed and
 %%
 If a role requires your essence, decline it. Which of your current roles most requires that test?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

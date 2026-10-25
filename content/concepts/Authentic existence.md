@@ -33,3 +33,4 @@ The entry's gloss on Heidegger (§3.1) ([Varga & Guignon, SEP](https://plato.sta
 - [[E075 — Practise the free man (l'homme libre)]]
 - [[E095 — Practise the distinction between existence and being]]
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

@@ -43,3 +43,4 @@ I keep the concept because deepening practice destabilizes defenses, and the mat
 ## Cited in philosophy parallels
 
 - [[Y024 — Expect latent material to surface when practice deepens]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

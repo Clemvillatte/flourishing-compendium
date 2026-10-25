@@ -85,3 +85,4 @@ The traditions that question its premise are also its kin: [[Anatta]] and [[Self
 - [[R035 — Practise pono]]
 - [[E034 — Practise authenticity (Eigentlichkeit)]]
 - [[E095 — Practise the distinction between existence and being]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

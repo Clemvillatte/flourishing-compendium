@@ -44,3 +44,4 @@ Choice is not valued the same way everywhere. Anglo American children were less 
 ## Practice
 
 - Cultivate autonomy: make choices explicit (why am I doing this?), provide rationale to yourself, and acknowledge your feelings. Do not treat tasks as imposed; find your reason.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

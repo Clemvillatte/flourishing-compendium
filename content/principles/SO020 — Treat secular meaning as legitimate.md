@@ -50,3 +50,4 @@ List three things that made last month feel worth it. Mark each as a relationshi
 ## Related thinkers
 
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

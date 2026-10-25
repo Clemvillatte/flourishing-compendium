@@ -48,3 +48,4 @@ The empirical ground is quoted above: the self-concordance model holds that "the
 - [[A001 — Make eudaimonia the organising end of your life|A001 Make eudaimonia the organising end of your life]]
 - [[A002 — Live according to your function (ergon)|A002 Live according to your function (ergon)]]
 - [[S001 — Distinguish what is up to you from what is not|S001 Distinguish what is up to you from what is not]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

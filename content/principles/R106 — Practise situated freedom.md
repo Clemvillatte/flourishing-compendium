@@ -37,3 +37,4 @@ So Sartre does teach that freedom is situated. The page's wording that you are "
 
 - **[[Situated freedom|Situated freedom]]** (Sartre, Being and Nothingness; Merleau-Ponty, Phenomenology of Perception)
 - **[[Thrownness|Thrownness]]** (Heidegger, Being and Time)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

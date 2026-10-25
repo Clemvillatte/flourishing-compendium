@@ -53,3 +53,4 @@ The parent who never talks about their parenting but whose kids turn out. What's
 %%
 Great virtue seems deficient. What in your life currently looks deficient but is actually virtuous?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

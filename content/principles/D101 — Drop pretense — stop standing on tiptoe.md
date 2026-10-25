@@ -52,3 +52,4 @@ The new manager who performs confidence loudly burns out in a quarter. Where are
 %%
 Every performance costs more than it pays. What's your current most expensive performance, and what would dropping it cost?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

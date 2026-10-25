@@ -114,3 +114,4 @@ What identity are you currently holding as final that's actually a dream — use
 %%
 Hold your identity like a costume. Which costume are you currently wearing that you've forgotten is one?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

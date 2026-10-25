@@ -115,3 +115,4 @@ Suppose you promised to collect a friend but discover that your car is unsafe. E
 ## Related concepts
 - [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).
 - [[T055 — Mencius]]: 4A12 connects trust among friends, serving parents and examining one's sincerity.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

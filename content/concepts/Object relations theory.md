@@ -48,3 +48,4 @@ Clinical Psychodynamic · Psychological science
 - [Gomez, L., An Introduction to Object Relations, 1997, ch. 3 (The Site for Contemporary Psychoanalysis library)](https://tcf-website-media-library.s3.eu-west-2.amazonaws.com/wp-content/uploads/2014/10/20131935/An-Introduction-To-Object-Relations-1997-Chap-3.pdf)
 - [Mitchell, S., "The Origin and Nature of the 'Object' in the Theories of Klein and Fairbairn", Contemporary Psychoanalysis 17(3), 1981](https://archive.wawhite.org/uploads/PDF/Mitchell-Origin_of_Nature.pdf)
 - Klein, M., "Notes on Some Schizoid Mechanisms" (1946); Fairbairn, W. R. D., Psychoanalytic Studies of the Personality (1952); Winnicott, D. W., "The Capacity to be Alone" (1958)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

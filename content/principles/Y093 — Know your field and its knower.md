@@ -40,3 +40,4 @@ A player in the final minutes of a match takes stock of the field first: burning
 - [Bhagavad Gita 13.1, Swami Mukundananda translation](https://www.holy-bhagavad-gita.org/chapter/13/verse/1)
 - [Bhagavad Gita 13.2, Swami Mukundananda translation](https://www.holy-bhagavad-gita.org/chapter/13/verse/2)
 - [Bhagavad Gita 13.3, Swami Mukundananda translation](https://www.holy-bhagavad-gita.org/chapter/13/verse/3)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

@@ -34,3 +34,4 @@ The Stanford Encyclopedia's Sartre entry describes the experience: absorbed at a
 ## Cited in philosophy parallels
 
 - [[E035 — Practise the gaze of the Other (le regard)]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

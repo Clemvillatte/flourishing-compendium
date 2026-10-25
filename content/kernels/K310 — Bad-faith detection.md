@@ -48,3 +48,4 @@ Sartre's ground for the diagnosis: if "existence precedes essence, one will neve
 - [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]]
 - [[A037 — Distinguish cleverness (deinotes) from practical wisdom|A037 Distinguish cleverness (deinotes) from practical wisdom]]
 - [[S001 — Distinguish what is up to you from what is not|S001 Distinguish what is up to you from what is not]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

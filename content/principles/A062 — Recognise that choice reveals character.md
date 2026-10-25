@@ -45,3 +45,4 @@ If every choice is a building block, how do you forgive yourself a bad one witho
 %%
 Consider someone you know whose life changed direction late. Which choice, in retrospect, started it?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

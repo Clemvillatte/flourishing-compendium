@@ -40,3 +40,4 @@ For Levinas the address is dual: a command and a summons at once. The other's ex
 - [[S032 — Work with others, not against them]]
 - [[S074 — Forgive those who wrong you]]
 - [[S081 — Practise empathy for wrongdoers]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

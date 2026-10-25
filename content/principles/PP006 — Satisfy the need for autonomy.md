@@ -51,3 +51,4 @@ Can you be autonomous inside constraints like caring duties or a rigid job? What
 %%
 How do upbringing and culture shape what feels like "my own" choice? Is autonomy partly an illusion?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

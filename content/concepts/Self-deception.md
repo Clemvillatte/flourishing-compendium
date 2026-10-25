@@ -35,3 +35,4 @@ My practice page for this pattern is [[E033 — Practise avoiding bad faith (mau
 ## Cited in philosophy parallels
 
 - [[E033 — Practise avoiding bad faith (mauvaise foi)]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

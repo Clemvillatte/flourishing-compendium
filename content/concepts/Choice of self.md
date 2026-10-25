@@ -58,3 +58,4 @@ If the fundamental project is experienced but not known, the work is to make it 
 ## Cited in philosophy parallels
 
 - [[E039 — Practise the choice of self]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

@@ -35,3 +35,4 @@ The position is often misread as relativism, and the distinction matters here. N
 
 - [[P011 — Refuse essences — things have no fixed inner nature]]
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

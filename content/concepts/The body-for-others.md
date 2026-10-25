@@ -42,3 +42,4 @@ The entry covers the Look and being-for-others, and it points readers to other s
 ## Cited in philosophy parallels
 
 - [[E069 — Practise the body-for-others]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

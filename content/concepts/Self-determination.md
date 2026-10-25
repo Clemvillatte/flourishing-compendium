@@ -74,3 +74,4 @@ Take one task done under pressure and look for one reason inside it that is your
 ## Cited in philosophy parallels
 
 - [[R022 — Practise self-determination]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

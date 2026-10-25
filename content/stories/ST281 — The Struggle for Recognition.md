@@ -23,3 +23,4 @@ The passage is the source of Marx's class analysis, Fanon's colonial analysis, B
 
 - [Hegel, The Phenomenology of Spirit (1807) — the master-slave passage the story retells; Wikipedia plot summary opened for the Hegel details](https://en.wikipedia.org/wiki/Master%E2%80%93slave_dialectic)
 - [Beauvoir, The Second Sex (1949) — Wikipedia biography opened for her use of the Other](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

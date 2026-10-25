@@ -50,3 +50,4 @@ What is the first act that could start changing a trait you dislike? Why have yo
 
 ## Related concepts
 - [[T034 — Dweck, Carol]]: the growth-mindset evidence the page's responsibility line cites (Dweck, 2006).
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

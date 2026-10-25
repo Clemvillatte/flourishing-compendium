@@ -53,3 +53,4 @@ Choose an activity and describe the reasons you do it. Which reasons feel endors
 
 - [[K369 — The autonomy statement]] — **grounding**
 - [[K371 — Importance and confidence rulers]] — **grounding**
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

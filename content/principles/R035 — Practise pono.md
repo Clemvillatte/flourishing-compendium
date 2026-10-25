@@ -38,3 +38,4 @@ For one week, write down each commitment you make, such as "I'll send it Friday"
 
 - **[[Truthfulness|Truthfulness]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV.7)
 - **[[Authenticity|Authenticity]]** (Heidegger, Being and Time; Sartre, Existentialism Is a Humanism)
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

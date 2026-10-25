@@ -86,3 +86,4 @@ Owning your actions has limits when circumstances, upbringing or illness restric
 %%
 How would taking ownership of a past wrong be different from punishing yourself for it? What does each do to your future?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

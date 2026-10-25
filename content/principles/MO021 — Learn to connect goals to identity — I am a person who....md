@@ -46,3 +46,4 @@ For example: "I am a reader" gives you a reason to open a book tonight that "I s
 
 ## Related concepts
 - [[T034 — Dweck, Carol]]: the identity-framing experiments the page cites (Bryan, Walton, Rogers and Dweck, 2011).
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

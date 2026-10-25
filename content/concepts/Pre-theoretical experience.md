@@ -46,3 +46,4 @@ Read together, the two passages give the concept its shape. Experience does not 
 ## Cited in philosophy parallels
 
 - [[E004 — Practise the lifeworld (Lebenswelt)]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

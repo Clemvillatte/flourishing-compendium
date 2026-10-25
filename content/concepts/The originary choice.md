@@ -28,3 +28,4 @@ The original choice is not a decision made at a moment, and that is precisely it
 ## Cited in philosophy parallels
 
 - [[E040 — Practise the originary choice]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

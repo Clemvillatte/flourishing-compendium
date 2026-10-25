@@ -40,3 +40,4 @@ I read the portrait as a practice target: the moments when one acts from strengt
 
 - [[E075 — Practise the free man (l'homme libre)]]
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

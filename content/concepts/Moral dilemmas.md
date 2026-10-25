@@ -44,3 +44,4 @@ The social intuitionist model he presents states that "moral judgment is general
 
 - [[R096 — Practise the third]]
 ## Cited in philosophy parallels
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

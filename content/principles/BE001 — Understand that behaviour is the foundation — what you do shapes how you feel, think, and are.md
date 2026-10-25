@@ -43,3 +43,4 @@ The same report states the second finding plainly: "both BA and AT treatments we
 ## Practice
 
 - Schedule action even when motivation is absent; the Jacobson trial detected no advantage for the full treatment over the behavioural component.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

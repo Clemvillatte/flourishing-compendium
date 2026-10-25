@@ -42,3 +42,4 @@ Sartre does not use the words "construction, maintenance and revision." Those th
 ## Practice
 
 - Treat selfhood as a practice, not a possession. Ask: "who am I becoming?" rather than only "who am I?" Identity is made, not found.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

@@ -38,3 +38,4 @@ The word radical is doing real work here. "The for-itself is always in a factica
 [[ST271 — The Wheelers' Paris]]
 [[ST269 — The Waiter's Dance]]
 [[ST310 — Walter Mitty Steps On]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

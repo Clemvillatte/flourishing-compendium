@@ -39,3 +39,4 @@ Decisions have consequences for subsequent choices ([the thesis](https://helda.h
 - [[R106 — Practise situated freedom]]
 - [[E032 — Practise the distinction between facticity and transcendence]]
 - [[E037 — Practise the situation]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

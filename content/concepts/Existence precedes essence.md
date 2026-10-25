@@ -61,3 +61,4 @@ Sartre's own argument for the slogan rests on atheism: there is no God to hold a
 - [[A062 — Recognise that choice reveals character]]
 - [[SE010 — Understand that the self is a process, not a thing]]
 - [[SE035 — Understand identity as a project — you author yourself]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

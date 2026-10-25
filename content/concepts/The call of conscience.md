@@ -39,3 +39,4 @@ The guilt the call summons Dasein to is ontological, not moral: "Dasein need not
 ## Cited in philosophy parallels
 
 - [[E045 — Practise conscience (Gewissen)]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

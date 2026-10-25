@@ -51,3 +51,4 @@ Several principles treat shame, and they come from different traditions. SE030 (
 - [Tangney, Stuewig & Mashek (2007), "Moral emotions and moral behavior", Annual Review of Psychology 58, 345-372 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/) — definitions, action tendencies, qualifications
 
 ## Cited in philosophy parallels
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

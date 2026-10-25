@@ -35,3 +35,4 @@ Here the concept pairs with [[E022 — Practise thrownness (Geworfenheit)]] and 
 
 - [[E022 — Practise thrownness (Geworfenheit)]]
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

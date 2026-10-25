@@ -48,3 +48,4 @@ E100 "Practise the ontological difference" is my version: do not confuse your un
 ## Cited in philosophy parallels
 
 - [[E100 — Practise the ontological difference]]
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

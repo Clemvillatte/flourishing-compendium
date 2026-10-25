@@ -36,3 +36,4 @@ Suppose an organisation you trusted mistreats its members. You could reject its 
 - **[[Nihilism|Nihilism]]** (de Beauvoir, The Ethics of Ambiguity; Nietzsche, Thus Spoke Zarathustra)
 - **[[Passive nihilism|Passive nihilism]]** (Nietzsche, The Will to Power)
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

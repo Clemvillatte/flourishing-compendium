@@ -50,3 +50,4 @@ The Arendt coinage is the philosophical origin, but the two French existentialis
 - [[SE026 — Recognise common humanity — your suffering is not unique or isolating]]
 - **[[T059 — Camus, Albert|Camus]]** — the French existentialist whose absurd-revolt triptych is the companion to this idea.
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

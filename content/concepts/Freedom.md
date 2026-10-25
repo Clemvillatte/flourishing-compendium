@@ -60,3 +60,4 @@ Freedom is the hub the family pages break into faces, and the principle tracks c
 
 ## Cited in philosophy parallels
 - **[[T060 — Beauvoir, Simone de|Beauvoir]]** — the existentialist who made Sartre's freedom social: situation, ambiguity, and the interdependence of freedoms.
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.

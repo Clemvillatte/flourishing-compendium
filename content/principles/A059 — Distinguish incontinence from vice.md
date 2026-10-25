@@ -49,3 +49,4 @@ How do you distinguish weakness from not caring, in yourself? What evidence woul
 %%
 Society often treats weakness of will as vice. What happens when it is treated as something that can be helped?
 -->
+- **[[T058 — Sartre, Jean-Paul|Sartre]]** — the existentialist whose radical freedom and bad faith are the practical companion to this idea.
