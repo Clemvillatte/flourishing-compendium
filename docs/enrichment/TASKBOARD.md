@@ -3797,3 +3797,17 @@ Per-card review is now saturated — further rounds will only re-find the ~17 al
 ## CORRECTION — final distribution (gm-pplx-kern1-1025a, 2026-10-25 15:41Z)
 
 The round-8 note above overstated the Stoic count (said 18; actual is 15). Corrected, file-verified count: Stoic 15, CBT 16, ACT 16, MI 14, MBCT 11, CFT 9, BA 2, DBT 2 (MBSR 2 appears only as the second modality on 2 MBCT cards) = 85 modality-mentions across 82 tagged cards; 234 general; 316 total. All 316 cards have a red modality line. Zero link breakage; build green; edges 32663.
+
+## KERN REORG — ONE REPOSITORY REQUIREMENT NOW MET (gm-pplx-kern1-1025a, 2026-10-25 15:47Z)
+
+Implemented the derived collection per the reorg plan's Part 1 recommendation: NAV-PSYCH-KRN now has `derived: 'kernel'` in its navigation, and the nav renderer's GROUP_NODES builder populates derived groups with ALL entries of type 'kernel' regardless of their own primaryPath.
+
+**Verified with the real built data (Node simulation against site/data/wikiData.json.gz):**
+- NAV-PSYCH-KRN (derived): 316 cards, 316 unique kernel IDs — ALL kernels in ONE collection
+- NAV-PSYCH-ACT: 15 (its own cards only, therapy tab preserved)
+- NAV-PSYCH-STOIC: 15 (its own cards only, therapy tab preserved)
+- Therapy groups remain unchanged as curated views
+
+This is the "derived collection logic (NAV-PSYCH-V1K resolves to 'all entries of type kernel')" approach from kernel-library-reorg-plan.md. The owner's one-repository requirement is now satisfied: 316 kernels, each appearing exactly once in the Psychological Kernels collection, with the modality tabs preserved as separate curated views.
+
+**Remaining acceptance checks per the plan's checklist:** (1) verify the deployed build (GitHub Pages) after it picks up this change; (2) Randomiser and Graph destinations; (3) rendered Library checked desktop/mobile. Items 2 and 3 need a live browser test on the deployed build — will do once GitHub Pages rebuilds.
