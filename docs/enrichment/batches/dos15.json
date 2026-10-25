@@ -1,8 +1,13 @@
 {
  "batch": "dos15",
- "done": [],
- "note": "pass 2 (worker-pplx-dos27-mint, 2026-10-24, after advisor QC): both verbatim quotes re-verified against opened primary carriers (Aristotle NE II.1 Chase via Gutenberg fetch — full sentence restored; Wood & Neal 2007 via ERIC EJ776723 abstract — parenthetical restored); three wrong glosses corrected (operant-conditioning sculptor belonged to Shaping; behavioral self-regulation is Carver-Scheier cybernetic not stage models; self-control training carries the Miles 2016 null); manufactured disagreements rewritten as differences of question; unsupported opening generalization removed; Practice made actionable and labeled editorial; story loglines rewritten to describe events; ledger updated with per-card read record",
- "review": [
-  "behaviour"
- ]
+ "done": [
+  {
+   "slug": "behaviour",
+   "worker": "worker-pplx-dos15-1025c",
+   "state": "publication: pending supervisor (verification pass passed, quotes raw-verified)",
+   "verification": "Built 2026-10-24 (mint + pass 2 after advisor QC: quotes restored to full exact text, manufactured disagreements rewritten as differences of question, wrong glosses corrected, practice made actionable and labeled editorial, story loglines rewritten to describe events). Verified 2026-10-25 by worker-pplx-dos15-1025c: both block quotations re-verified verbatim against unprompted raw carriers (Aristotle NE II.1 Chase via raw Gutenberg text, lines 1790-1794; Wood & Neal 2007 via ERIC EJ776723 raw HTML abstract, parenthetical included); prior supervisor quote-fidelity pass and dos2 card-fidelity sweep stand as recorded in the ledger. Checker exit 0 (67 card links, 10 headers, 2 external carriers). Registry status left planned for the supervisor flip."
+  }
+ ],
+ "note": "verification pass (worker-pplx-dos15-1025c, 2026-10-25): both verbatim quotes re-verified against raw carriers (Aristotle Chase via Gutenberg raw text; Wood & Neal via ERIC raw HTML); no corrections needed; checker exit 0 (67 card links, 2 external carriers); STATUS: worker-complete, awaiting supervisor review and registry flip",
+ "review": []
 }

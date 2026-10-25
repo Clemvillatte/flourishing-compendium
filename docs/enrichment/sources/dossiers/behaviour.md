@@ -166,3 +166,24 @@ card. No mismatches found; no edits made.
 
 Checks: dossier_check.py exit 0 (run this session). Editorial review
 only; no external carriers freshly opened this pass.
+
+## Verification pass (2026-10-25, worker-pplx-dos15-1025c, dos15 baton)
+
+Both block quotations were re-verified this session against
+unprompted raw carriers, independently of the earlier passes above:
+
+1. Aristotle, Nicomachean Ethics II.1 (Chase): compared against the
+   raw Project Gutenberg text
+   (https://www.gutenberg.org/cache/epub/8438/pg8438.txt, CRLF
+   normalized, lines 1790-1794). VERBATIM, full sentence from "men
+   come to be builders" through "and by doing brave actions brave."
+
+2. Wood & Neal 2007: compared against the ERIC EJ776723 page's own
+   raw HTML (https://eric.ed.gov/?id=EJ776723). Both quoted
+   sentences appear verbatim in the page's abstract block, including
+   the parenthetical "(e.g., physical settings, preceding actions)".
+
+No corrections needed; dossier body unchanged. Checker exit 0 (67
+card links resolve, 10 headers, 2 external carriers). Batch state
+moved to worker-complete, pending supervisor review and registry
+flip; registry status stays 'planned' per the dossier workflow.
