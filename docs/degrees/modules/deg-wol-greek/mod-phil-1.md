@@ -5,7 +5,7 @@ mod-phil-1 (see the pilot audit in pilots/mod-phil-1.md). Source
 verification evidence is in ledgers/deg-wol-greek.md. This file is the
 module design deliverable for the integrator band; the pilot review status
 is recorded in pilots/mod-phil-1.md. STATUS: DRAFT, NOT CLEARED (advisor
-round 2 repairs applied; review pending).
+rounds 2 and 3 repairs applied; re-review pending).
 
 ## Level and placement
 
@@ -123,9 +123,10 @@ ST-03 (Stoicon 2020, John Sellars, 28:05) is held as an unattached
 candidate pending a transcript read; it is not assigned.
 
 Optional reflection, for learners who want the look ahead to the next
-module: read A006 Expect flourishing to require external goods and write
-two sentences on how the Stoic claim that virtue alone suffices for
-happiness sharpens and breaks from Aristotle's position.
+module: read
+[A006 Expect flourishing to require external goods](../../../../content/principles/A006%20%E2%80%94%20Expect%20flourishing%20to%20require%20external%20goods.md)
+and write two sentences on how the Stoic claim that virtue alone
+suffices for happiness sharpens and breaks from Aristotle's position.
 
 ### Step 4: worked example with fading (Outcome 3)
 
@@ -137,14 +138,20 @@ three times with the guidance faded:
    park bench with 200 dollars and an ID card. A Kantian-style duty
    analysis: the wallet is not yours, keeping it treats the owner merely
    as a means to your ends, and honesty is a norm that holds whatever the
-   consequences. A classical utilitarian tally: the owner's loss, your
-   gain, the trust costs if finder-keeping spread, and the world where
-   people return wallets holds more good overall. A virtue ethics
-   analysis: what would an honest and just person do here, and what does
-   each act train in you; keeping it would rehearse rationalisation,
-   returning it rehearses the honesty you want as your default. All three
-   reach the same action; they differ in what they take the question to
-   be, and a careful consequentialist can also count the long-term effects
+   consequences. A classical act-utilitarian analysis: compare the
+   likely consequences of returning versus keeping this wallet for
+   everyone affected; the owner loses 200 dollars and her cards and her
+   week if you keep it, you gain 200 dollars once, and returning it
+   costs you an hour of delivery; on any reasonable weighting of those
+   effects, returning produces more good overall. (Whether a rule of
+   wallet-returning makes the world go better is a further, rule-based
+   comparison; it is noted here so the learner can tell the two apart,
+   and it reaches the same answer here.) A virtue ethics analysis: what
+   would an honest and just person do here, and what does each act train
+   in you; keeping it would rehearse rationalisation, returning it
+   rehearses the honesty you want as your default. All three reach the
+   same action; they differ in what they take the question to be, and a
+   careful consequentialist can also count the long-term effects
    of your habits, so the difference is one of emphasis, not a clean
    exclusion.
 2. Steps named (partially worked). The promised reference: a former
@@ -202,23 +209,37 @@ can self-check.
    example from the learner's life).
 2. The Outcome 2 paragraph names the function argument, habituation and
    the final end, and connects them: flourishing as activity over a whole
-   life, virtue acquired by doing the acts. Strong: the paragraph runs
-   from ergon to excellence to habituation in the learner's own words,
-   without quoting the wiki verbatim. Rejection: "Aristotle thought being
-   good makes you happy" (no function argument, no habituation, no
-   connection between them).
+   life, virtue acquired by doing the acts. Strong (sample): "Aristotle
+   starts from what a thing does uniquely well: a knife cuts, and a good
+   knife cuts well. Human beings reason and choose, so the human good is
+   reasoning and choosing well, sustained across a whole life; that is
+   eudaimonia, and it is activity rather than a mood. Because it is
+   activity, you get it by doing it: you become honest by doing honest
+   acts, as builders become builders by building. So virtue is not a rule
+   you follow once but a settled capacity you build, and flourishing is
+   what a life of that building adds up to." Rejection: "Aristotle
+   thought being good makes you happy" (no function argument, no
+   habituation, no connection between them).
 3. The dilemma analysis names the framework it is using at each step and
    applies it accurately on the learner's own case: the duty analysis
    identifies the relevant norm and justifies it, the consequentialist
    analysis compares consequences for everyone affected, and the virtue
    analysis asks what a person with the relevant virtues would do and
-   what the act trains. Strong: each paragraph names its framework,
-   states the norm or the consequence comparison or the character
-   question, and applies it to the learner's own dilemma. Rejection: the
-   two analyses blur into one general "what should I do" discussion with
-   no frameworks named, or a framework is named but not applied (a duty
-   is asserted without saying why it binds, a tally lists only the
-   learner's own outcomes).
+   what the act trains. Strong (sample, on the reference-letter case):
+   "Duty: I promised to support her, but a reference also owes the
+   employer truth, and a promise cannot license a lie; so the letter must
+   be truthful, which may mean writing a warm letter that states her real
+   gaps. Consequences: the employer staffs a role badly if the letter
+   misleads, she loses the job later and worse if she cannot do it, and I
+   lose future referees' trust if I am known to inflate; the honest
+   letter risks her disappointment now but harms least overall.
+   Virtue: an honest advocate neither puffs nor damns; writing the
+   truthful-warm letter trains me to be useful without being deceptive."
+   Rejection (sample): "Utilitarian: the letter helps me because she
+   might return the favour, and it helps her get the job, so write the
+   strong version" (counts only the writer's and the applicant's
+   benefits, omits the employer and the downstream harms, and states no
+   comparison of alternatives).
 4. The comparison paragraph states where the two frameworks' reasons
    overlap and disagree, and what the virtue ethics analysis adds, in the
    learner's own case. Strong: "Both frameworks told me what to decide;
@@ -239,8 +260,8 @@ can self-check.
   reading, about 1 hour 17 minutes (estimate, labelled).
 - SEP introductions (word counts measured on the assigned sections):
   1742 words = 10 minutes of raw reading; their study is carried out in
-  the definitions exercise, whose time is counted once, in the retrieval
-  allocation below.
+  the worked-example and faded-practice allocation below, which applies
+  the two frameworks the sections define.
 - Required video (measured): AR-04 44:17 plus AR-01 whole episode 55:07,
   total 1:39:24.
 - Retrieval activities (including the definitions deliverable and its

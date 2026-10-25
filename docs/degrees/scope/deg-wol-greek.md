@@ -127,3 +127,38 @@ as an elective; 4-hour claim with no arithmetic.
 
 Candidate carried from mod-phil-1 work: ST-03 Stoicon 2020, John Sellars
 (28:05 structured), a first look at Stoicism, pending a transcript read.
+
+### Manifest correction (supersedes the status column above, 2026-10-25)
+
+The deg-verify band's evidence file (docs/degrees/verify/deg-philosophy.md,
+read in full this session after its latest update) supersedes the statuses
+and durations recorded above. The fcAcademyData records still print
+"imported" pending the verifier's record updates; the evidence of record
+is the verifier file:
+
+- AR-05: 1:15:00, verified-video (Adam Rosenfeld, Senior Lecturer in
+  Philosophy, UNCG; his own PHI 251 course session).
+- ST-01: 29:09, verified-video (Julia Annas, Regents Professor of
+  Philosophy, Emerita, University of Arizona).
+- ST-02: 49:57, verified-video (A. A. Long, UC Berkeley, emeritus).
+- ST-04: 1:01:00, verified-video (Myles Burnyeat; a scholarly lecture on
+  happiness and tranquility across Aristotle, Democritus, Pyrrho and
+  Epicurus; the verifier notes it suits mod-phil-2 only via its
+  Epicurean and Skeptic context, fit to be confirmed by the module owner
+  against the transcript).
+- ST-05: verified-video, but the Gresham page prints no duration:
+  blocking gap for workload arithmetic until a duration prints.
+- M05-XP-01: 1:15:39, verified-video (Epicurus, Rosenfeld PHI 251).
+- M05-XP-02: 1:15:32, verified-video (Pyrrhonic Skepticism, PHI 251).
+- M05-XP-03: 1:02:42, verified-video (Cicero, On the Nature of Gods
+  book 1, Gregory B. Sadler).
+- SRC-M25-001: 1:31:08 verified (record prints 1:31:07; mismatch
+  flagged by the verifier). SRC-M25-002: 1:18:04 verified (record prints
+  1:18:03; mismatch flagged). SRC-M25-003: 1:02:57 verified.
+  SRC-M25-004: 49:36 verified. SRC-M25-005: 45:56 verified (record
+  prints 45:57; one-second mismatch noted).
+
+Implication for the harvest: the material for the Stoicism and
+Hellenistic modules is verified and schedulable except ST-05 (duration
+gap); the module rebuilds can proceed to design once the Phase 0
+stop-gate lifts.
