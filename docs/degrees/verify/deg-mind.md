@@ -1074,15 +1074,18 @@ against the recording or transcript before the record is attached to a module.
   Stanford University channel (https://www.youtube.com/watch?v=gpl54HBuOLk);
   watch page opened 2026-10-25. Meng Wu Lecture.
 - Duration: 1:02:47 (watch page, 2026-10-25).
-- Instructor credentials: Kristin Neff (per the description; an
-  institutional page was not opened this session — see the credential
-  note below).
+- Instructor credentials: Kristin Neff, Ph.D., Associate Professor in
+  the Department of Educational Psychology, University of Texas at
+  Austin; researcher of self-compassion (Wikipedia page content
+  retrieved 2026-10-25 via the Wikipedia REST summary endpoint,
+  https://en.wikipedia.org/api/rest_v1/page/summary/Kristin_Neff).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25): "The Science
   of Self-Compassion".
 - Relevant segment: whole lecture, 1:02:47.
-- Verification status: verified-video (2026-10-25); credentials from the
-  uploader description, institutional page pending.
+- Verification status: verified-video (2026-10-25); credential basis
+  upgraded from the uploader description to a retrieved Wikipedia page
+  (2026-10-25).
 
 ### M06-AT10: ML11 Session 4 — Integration and Final Reflections (Mind and Life Institute)
 
