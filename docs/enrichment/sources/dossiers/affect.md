@@ -332,3 +332,7 @@ Correction to the earlier spot-audit note: the Barrett 2017 SCAN carrier was not
 ## Note — spot audit, attribution restatements (2026-10-25, dos3 worker, dos2 baton held for this note)
 
 The attribution restatements were checked against their card bodies: fear (Öhman and Mineka's evolved module), envy (van de Ven, Zeelenberg and Pieters' definition), and emotional contagion (Hatfield's moment-to-moment process between people in contact) — each stays within its card's wording, cards carrying their own sources. Combined with the earlier rounds, the bounded audit now covers the dossier's attribution-heavy restatements; the full claim-level audit of every prose gloss remains open.
+
+## Note — manifest disambiguation instruction met (2026-10-25, dos2)
+
+The band manifest requires the family (Anger, Anxiety, Happiness) to be disambiguated without being absorbed. The specific-states sentence now names anger, anxiety, fear, sadness and happiness — each treated on its own — covering the manifest's named family members with their own dossiers (anger.md, anxiety.md, happiness.md) and fear/sadness alongside.

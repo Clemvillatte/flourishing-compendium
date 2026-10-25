@@ -6,7 +6,7 @@ Feelings are where a life registers itself. An emotion can arrive in the chest b
 
 The question has consequences. How I read a feeling decides whether I act on it, talk it down, name it, or let it pass. Get the reading wrong in either direction and something goes wrong with the action: a signal treated as a verdict, or a verdict ignored because it arrived as a mood.
 
-The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness — are each treated on their own; what belongs here are the questions that cut across all of them.
+The question runs through several domains at once. What an emotion is made of, how the feelings are structured, how they behave over time, what they do to thinking, how they are shaped and regulated, and how they move between people are aspects of one material. The specific states — anger, anxiety, fear, sadness, happiness — are each treated on their own; what belongs here are the questions that cut across all of them.
 
 ### Nearby terms
 
