@@ -69,16 +69,17 @@
   "D095",
   "D133",
   "P057",
-  "P141"
+  "P141",
+  "E014"
  ],
- "in_progress": "E014",
+ "in_progress": null,
  "flagged": {
   "D017": "RESOLVED: exact DDJ57/64 quotations, narrowed reward comparison, source QC and voice corrections from independent advisor; pre-repair-baseline validator PASS",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
   "CO072": "Supervisor evidence repair independently PASS: no general-endurance or social-media causation claims remain. Protected title and old link label explicitly qualified; metadata exception needed for cleaner future naming.",
   "D095": "RESOLVED: independent source advisor verified NeiyeIII, DDJ55, Fraser3/7 and imaging abstract; required version-label/application corrections applied, validator PASS",
   "D133": "RESOLVED: DDJ29 spirit-vessel quote verified; fish gloss corrected; parenting finding phrased as association, adult-child scene explicitly illustrative; validator PASS",
-  "E014": "Reopened for QC: Clarify learned motor habit versus self-reported daily automaticity; remove body-opinions rhetoric",
+  "E014": "RESOLVED: secondary Merleau quote carrier explicit; daily self-report habit study distinguished from motor skill, extrapolation qualified and example illustrative; validator PASS",
   "E068": "QC round 4: keyhole scene sourced to opened Porto review; frequency claims softened",
   "K006": "QC round 5: cost comparison removed; watched-not-repressed presented as application; example remains supervisor-flagged",
   "PP031": "QC final: Holt-Lunstad quotes now sourced to opened BYU full text; quality-vs-quantity prescription replaced with abstract's own wording",
@@ -92,6 +93,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-25T06:05:21+00:00",
+ "updated": "2026-10-25T06:07:01+00:00",
  "band_done": false
 }
