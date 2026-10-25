@@ -624,7 +624,7 @@ The source carries a footnote marker (revolutionizes2) at the mid-sentence
 break — djvu/print artifact, does not affect the quoted words. The
 Schumpeter flag is closed: fully verified. No dossier text change owed.
 
-## Checker mispairing diagnosis + search corroboration + supervisor flag (2026-10-25 12:11Z, worker-pplx-dos32-1025n3, baton dos32)
+## Checker mispairing diagnosis + search corroboration + supervisor flag (2026-10-25 12:07Z, worker-pplx-dos32-1025n3, baton dos32; stamp from the read clock, 12:07:27Z, not an estimate)
 
 - NIETZSCHE SPAN DIAGNOSIS (the two recurring NOT FOUND entries " and
   wrestles freedom from the dragon " / " , though the lion cannot yet
