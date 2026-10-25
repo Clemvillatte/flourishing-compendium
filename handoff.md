@@ -3161,3 +3161,15 @@ https://www.perplexity.ai/computer/tasks/9b23d590-2287-4d88-9479-2e5d8bfbcf53
 (owner provided the 6-digit code; free-plan onboarding cleared; Computer-mode
 submit confirmed by URL flip). Second launch (larichedavid+0001@gmail.com) in
 progress via Add account flow per owner directive.
+
+## AGENT LAUNCH 2 (2026-10-25 10:42Z, launcher pplx-1025-launch-b, no baton held)
+
+Path A launch via Add account flow (owner directive): account
+larichedavid+0001@gmail.com (signed in as larichedav94391, Free plan; johnnysaun74365
+session kept signed in for monitoring). Worker prompt (PROMPT-WORKER.md verbatim with
+the session token filled, 8414 chars) pasted in one call and verified head/tail
+before submit. Agent running at
+https://www.perplexity.ai/computer/tasks/4ec0ef76-73b1-43d4-b9c2-d1ac8246ddc7
+(owner provided the 6-digit code; Cloudflare interstitial cleared by single
+re-navigate; Computer-mode submit confirmed by URL flip). Both new workers expected
+to take batons on next baton.py status. Launcher resuming worker duties next.
