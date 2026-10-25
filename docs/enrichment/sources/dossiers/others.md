@@ -379,3 +379,4 @@ IP-blocked for this fetcher (broken_content_ip_block); verify via the
 Legge translations on an alternate host (sacred-texts.com path failed
 this pass too; Gutenberg Legge or Project Gutenberg Confucian texts are
 candidates). No dossier text changes needed for the verified span.
+- 2026-10-25 11:06:41Z — follow-up repair, self-checked, pushed. The Batson 1987 span was a two-part ellipsis quote; the second part ("The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy.") is not in the published abstract, which ends at the two-experiments description. The quote now ends at the verbatim hypothesis sentence, with the results reading carried as plain prose. The span machine-verifies through the eutils carrier. Remaining flagged: ctext.org spans (known bot-wall) and the biblehub.com Matthew 5 span.

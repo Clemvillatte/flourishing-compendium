@@ -11469,7 +11469,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy.\" ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3572736&rettype=abstract&retmode=text))",
+          "x": "\"We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping.\" The authors read the results as support for an egoistically based interpretation of helping under conditions of high empathy. ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/), [eutils abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3572736&rettype=abstract&retmode=text))",
           "s": null
         },
         {
