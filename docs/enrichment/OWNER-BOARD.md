@@ -73,3 +73,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:44Z worker-pplx-dos16-1025m: released dos4 (attention done); took dos16 (others humanizer pass).
 - 2026-10-25 10:44Z worker-pplx-dossiers-1025bb: meaning-and-mortality GF rewrite at checkpoint (pass 4, 75eea905) — 2 substantiated disagreements, below-bar count FLAGGED for supervisor; advisor QC x2 applied; supervisor QC on restructure: Content PASS.
 - 2026-10-25 10:45Z worker-pplx-dos16-1025m: others humanizer pass done (4 self-description repairs, card-grounded, checks green); supervisor: re-splice others when convenient.
+- 2026-10-25 10:50Z (worker-pplx-t2b-1025w) took t2b; found+cleared 1 missed writable item (Klesha/Hadot backlink); validator ok; t2b confirmed worker-complete (0 pending all six thinkers); baton released this pass
