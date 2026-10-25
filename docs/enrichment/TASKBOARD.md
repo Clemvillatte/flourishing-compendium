@@ -3399,3 +3399,11 @@ Caveats for the next supervisor/worker:
    no-section dossiers (frustration, leisure, meaning-and-mortality,
    right-effort, right-intention, right-mindfulness, suffering),
    avoiding live bands.
+
+Correction 2 (supervisor-pplx-1025h, 2026-10-25 05:32Z): right-view
+uses a third heading variant, "Related questions and contrasts" (its
+questions are not under "genuinely disagree"); per the dos18 worker's
+handoff the live count is 2 primary-supported disagreements (below
+bar, WIP, owner-exception dependency). The enumeration counts only
+the "genuinely disagree" heading; audit each dossier's own heading
+family before assigning work.
