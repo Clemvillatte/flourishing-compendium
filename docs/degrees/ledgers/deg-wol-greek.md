@@ -780,3 +780,42 @@ classification closes the content-check gap for SRC-M25-001. Status
 remains verified-video (optional role); identity, access, credentials
 and durations unchanged. Module production stays behind the Phase 0
 stop-gate; no attachment is made this session.
+
+## SRC-M25-002 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The SRC-M25-002 record (Curious Researches: Skepticism from Sextus to
+Descartes, Michael Williams, UCD channel; verified earlier in this
+ledger, 1:18:04 with the 1-second page mismatch already flagged) now
+carries a transcript-level content classification, superseding the
+uploader-description-only basis. Transcript read this session via
+https://youtubetotranscript.com/transcript?v=Dss98-rTl6Q (rendered page;
+direct raw fetch is Cloudflare-walled).
+
+Content confirmed from the transcript (the transcript's automated
+captioning renders names phonetically and inconsistently — "sexist
+empiricus"/"Sexus" for Sextus Empiricus, "Daycart"/"Decart"/"Deart"
+for Descartes, "Rotty"/"Rod" for Rorty — the names are resolved from
+context and the lecture's own title):
+
+- Topic: "in contemporary philosophy, it's perhaps not quite as popular
+  as it was, but its persistence as a so-called problem is quite
+  remarkable... namely the problem of our knowledge of the external
+  world".
+- On Sextus: "the regress problem does have apparent antecedents in the
+  works of [Sextus] Empiricus. But I think they're only apparent";
+  "[Sextus] call[s] that the mode of reciprocity" (one of the five
+  modes of Agrippa).
+- On Descartes: Rorty's argument that the external world problem arose
+  from "Daycart's invention of the mind"; Burnyeat's point that
+  "Decart is the first philosopher in history to have treated his own
+  body as an external thing"; "Daycart treats dreaming as potentially
+  a fully cognitively lucid state. [Sextus] doesn't make that mistake".
+- Closing: "Thank you. [applause]".
+
+Content matches the manifest's proposed topic "later reception": the
+lecture traces skepticism from Sextus Empiricus to Descartes and on to
+modern epistemology. Transcript-level classification closes the
+content-check gap for SRC-M25-002. Status remains verified-video
+(optional role); identity, access, credentials and durations unchanged.
+Module production stays behind the Phase 0 stop-gate; no attachment is
+made this session.
