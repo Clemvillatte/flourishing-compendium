@@ -44,6 +44,13 @@ def load_done():
 def norm(s):
     return re.sub(r'[^a-z0-9]', '', s.lower())
 
+# 2026-10-25 fix (supervisor-launcher-pplx-1025n): dossier/GF bands append
+# date-stamped work notes (e.g. '2026-10-25 1025m carrier-repair round: …')
+# to their batch done arrays; they are work-log prose, not concept titles, and
+# were inflating the phantom unmatched-concept count (36 -> 39 in one day).
+# A real page title never carries a session date-stamp.
+WORK_NOTE_RE = re.compile(r'\b\d{4}-\d{2}-\d{2}\b\s+\d{4}[a-z]')
+
 def reconcile(done_ids, done_titles, principles, concepts, kernels, thinkers,
                 maintenance_notes):
     by_norm = {norm(c): c for c in concepts}
@@ -92,7 +99,8 @@ def reconcile(done_ids, done_titles, principles, concepts, kernels, thinkers,
                           if norm_title(t) not in by_norm
                           and norm_title(t) not in kernel_norm
                           and norm_title(t) not in thinker_norm
-                          and t not in maintenance_notes)
+                          and t not in maintenance_notes
+                          and not WORK_NOTE_RE.search(t))
     return pr_done, co_done, pr_unmatched, co_unmatched
 
 
