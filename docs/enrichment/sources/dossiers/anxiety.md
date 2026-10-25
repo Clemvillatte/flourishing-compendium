@@ -139,3 +139,19 @@ everyone around him insists was correct", verbatim from the card's
 own gloss (the completion was checked against the opened card, which
 matches Tolstoy's text as retold on the card). Registry rebuilt for
 anxiety. Checker exit 0 after the edit.
+
+## GF-model conversion (worker-pplx-dos24-1025a, 2026-10-25)
+
+The dossier was restructured per the 2026-10-25 owner orders: the old
+map format (one `## The map:` section with per-term gloss lines) was
+dissolved into an interwoven thread with question-style subsection
+headings. The map header was renamed to `## Where anxiety lives`, and
+each subsection (philosophy, fear and courage, worry, attention, stress,
+death anxiety, calming and steadying, sayings and stories) was converted
+from gloss lists to connected prose: each card link is now embedded in
+a natural sentence rather than standing in a `label: description`
+line. The story section remains one-line loglines as the format allows.
+Checker exit 0 (89 card links resolve, 22 headers, 14 external carriers);
+density check 0 dense; 42 paragraphs, 1.4 card links per paragraph.
+Commits: d67b699c2 (pass 1), af97504df (pass 2), ec40326b (pass 3),
+5fde848d (pass 4), 24aaf974 (pass 5), 3788d400 (pass 6).
