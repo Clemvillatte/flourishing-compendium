@@ -189,6 +189,28 @@ The Buddha then asks:
 
 Their ideals differ over whether excellent character includes appropriate anger ([Aristotle, Nicomachean Ethics IV.5](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html); [SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). The passages leave unresolved whether a firm, anger-free response can perform the protective role Aristotle associates with anger.
 
+### Can the right inner state make killing in a duty-bound war blameless?
+
+The shared question: whether a warrior who fights because duty requires it, and who is killed or kills, has done wrong and faces a bad destination. Krishna answers no, and says so twice in the second chapter of the Gita. A warrior who refuses the fight is the one who sins:
+
+> "If, however, you do not perform your religious duty of fighting, then you will certainly incur sins for neglecting your duties and thus lose your reputation as a fighter." ([Bhagavad Gita 2.33](https://www.bhagavad-gita.us/bhagavad-gita-2-33/))
+
+> "O son of Kunti, either you will be killed on the battlefield and attain the heavenly planets, or you will conquer and enjoy the earthly kingdom. Therefore get up and fight with determination." ([Bhagavad Gita 2.37](https://www.bhagavad-gita.us/bhagavad-gita-2-37/))
+
+The next verse names the inner condition: "Do thou fight for the sake of fighting, without considering happiness or distress, loss or gain, victory or defeat—and by so doing you shall never incur sin" ([Bhagavad Gita 2.38](https://www.bhagavad-gita.us/bhagavad-gita-2-38/)). All three quotes come from one English rendering on the same site, so the wording is the translator's, and I have not compared it with the Sanskrit beyond the verse transliterations printed beside it.
+
+In the Pali collection, a warrior chief asks the Buddha about the claim that a warrior killed while striving in battle is reborn among the gods of the fallen. The Buddha declines twice and answers on the third request:
+
+> "When a warrior strives and struggles in battle, their mind is already low, degraded, and misdirected as they think: 'May these sentient beings be killed, slaughtered, slain, destroyed, or annihilated!' ... when his body breaks up, after death, he's reborn in the hell called 'The Fallen'." ([SN 42.3, Sujato trans.](https://suttacentral.net/sn42.3/en/sujato))
+
+He calls the heaven claim "your wrong view" (same sutta). The Dhammapada states the rule without a battlefield exception: "Putting oneself in the place of another, one should not kill nor cause another to kill" ([Dhammapada 129, Buddharakkhita trans.](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)).
+
+Both sides ask what a soldier's inner state does to the moral weight of the act. The Gita holds that equanimity about outcomes keeps the fighter clear of sin. The Pali discourse holds that the state of mind in battle is hostile by its nature, so the heaven the old teachers promised is a mistaken view. Strictly, the two may be describing different warriors: Krishna's fighter has dropped attachment to results, while the Buddha's thinks of others as things to be destroyed. The disagreement that survives is whether such a detached fighter exists and whether detachment settles the question, and the Dhammapada verse draws no exception for it.
+
+My lean, which is mine: for an essay on the resolve of harmlessness, the Buddha's answer is the stronger one, because the dossier's concern is what the intention does to the person holding it. I hold the Gita's position as the best statement of the opposing case, and I do not claim to have settled whether its detached warrior is psychologically possible.
+
+Limits: three Gita verses and two Pali passages, no commentary on either side. Later Buddhist traditions and Indian readers of the Gita treat these questions at length, and I have not opened that material.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the aim's default setting: wanting inherited rather than chosen, ill will rehearsed until it feels like seeing, harm done by habit rather than decision. The adaptive direction is the resolve itself, aims examined and chosen, ill will noticed as a thought that can be abandoned, harmlessness kept as a floor under whatever else is undertaken.

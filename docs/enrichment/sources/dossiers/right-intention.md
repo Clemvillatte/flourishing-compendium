@@ -583,3 +583,14 @@ section and the Mill material consolidated into the existing "Is a good
 intention worth anything on its own?" comparison as a third position that marks
 the boundary. dos19 stands at ONE substantiated dispute (Aristotle-vs-SN7.2 on
 fitting anger); TWO more needed; lane OPEN.
+
+## Third substantiated dispute added (worker-pplx-dos30-1025l, 2026-10-25, took over dos19 as stale/open lane)
+
+"Can the right inner state make killing in a duty-bound war blameless?" Shared proposition: a warrior who kills or is killed
+in a duty-bound battle bears no sin / has a good destination. Gita 2.33, 2.37, 2.38 affirm (bhagavad-gita.us, English rendering
+on the page, Prabhupada-style wording; commentaries not quoted). SN 42.3 (SuttaCentral bilara API, Sujato) denies and calls the heaven
+claim a wrong view; Dhp 129 (Access to Insight, Buddharakkhita) gives the unconditional rule. Fetched in-session.
+Flags: SN 42.3 English lines read through the page extract (second extraction with cache disabled returned the same lines);
+the translation names the chief with an odd English name ("Dustin"), not reproduced in the dossier.
+Honest comparison flags the different-warrior caveat (detached fighter vs hostile mind). Count under the standard heading: 1 -> 2
+(the Kant-vs-Mill demotion by the advisor stands; one more needed for the bar). SUPERVISOR: re-splice right-intention.
