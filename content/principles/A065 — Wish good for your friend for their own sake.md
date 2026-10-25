@@ -16,7 +16,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 (Nicomachean Ethics VIII.2, VIII.3 and VIII.5, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html).)
 
-**Plain words** The mark of real friendship is the direction of the wish. You can keep a wine cask well, but the wish is for your own drinking; nobody wants the wine to flourish. A friend is different: their good is wanted on its own account, and the wanting survives changes in what you get out of it. That is what gives the bond its lifespan — it lasts as long as the people do, not as long as the benefits do.
+**Plain words** The mark of real friendship is the direction of the wish. You can keep a wine cask well, but the wish is for your own drinking; nobody wants the wine to flourish. A friend is different: their good is wanted on its own account. Aristotle ties this friendship's endurance to the friends' continuing goodness rather than their continuing usefulness.
 
 *For example:* Being genuinely glad when a friend gets a job in another city, even though you'll see less of them, is the test passed.
 

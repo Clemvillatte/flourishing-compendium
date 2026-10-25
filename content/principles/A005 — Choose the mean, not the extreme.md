@@ -16,7 +16,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 (Nicomachean Ethics II.2 and II.6, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html).)
 
-**Plain words** Virtue is aiming, not moderating. Aristotle's examples put courage between cowardice and recklessness, generosity between meanness and waste. But the middle is not an average to calculate: the same six pounds that feed a beginner leave Milo hungry. What counts is fit: the right amount, for this person, at this moment, toward this end. And a few acts have no fitting amount at all; with those, one is simply wrong.
+**Plain words** Courage between cowardice and recklessness, generosity between meanness and waste: Aristotle's examples are of aim, not arithmetic. The mean is not an average to calculate; the same six pounds may be too much for a beginner and too little for Milo. What counts is fit: the right amount, for this person, at this moment, toward this end. And a few acts have no fitting amount at all; with those, one is simply wrong.
 
 *For example:* Being honest with a grieving friend doesn't mean listing every flaw in the eulogy. The fitting amount of truth depends on who's in the room — and at some moments, for some people, the fitting amount is very little.
 

@@ -28,7 +28,7 @@ These are associations from observational studies, not proof that wealth or reco
 
 (Kasser and Ryan, 1996; Niemiec et al., 2009.)
 
-**Plain words** The two lists are short. One runs money, image, status; the other runs growth, connection, contribution. People weighted toward the first reported more symptoms and less vitality, and attaining those goals added nothing; reaching the second went with better psychological health, and the link ran through basic needs being met. The claim is not that money ruins you — it is that the lists are not interchangeable.
+**Plain words** The two lists are short. One runs money, image, status; the other runs growth, connection, contribution. In the 1996 studies people weighted toward the first reported more symptoms and less vitality; in the 2009 follow-up, attaining extrinsic goals was not associated with better psychological health, while attaining intrinsic ones was, with need satisfaction reported as the mediator. The claim is not that money ruins you; it is that the lists are not interchangeable.
 
 *For example:* Imagine someone who starts a company to help farmers. Two years in, every decision is about valuation, and the farmers rarely come up. In the studies' terms, the centre of their goals has moved.
 

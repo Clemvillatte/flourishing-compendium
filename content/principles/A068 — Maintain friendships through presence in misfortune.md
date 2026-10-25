@@ -29,9 +29,9 @@ Aristotle also says we should "summon them to our bad fortunes with hesitation; 
 
 (Aristotle, Nicomachean Ethics VIII.1; IX.11. The principle's earlier locator, VIII.4, does not contain this material.)
 
-**Plain words** The received proverb is harsher than the text. Aristotle's milder version: friends are welcome in every fortune, more necessary in bad fortune, and a good friend shows up in trouble without waiting to be asked. The Eudemian Ethics supplies the sharp line about misfortune separating real friends from the rest. The page adds one demand the text leaves quiet — staying when staying is costly.
+**Plain words** The received proverb is harsher than the text. Aristotle's milder version: friends are welcome in every fortune, more necessary in bad fortune, and a good friend goes to the aid of someone in trouble without waiting to be asked. The Eudemian Ethics adds that misfortune shows up the people who were never really friends. The page adds one demand the text leaves quiet: staying when staying is costly.
 
-*For example:* Imagine a friend whose marriage has just ended and who does not want to talk. On Aristotle's advice you turn up with dinner on Thursday without texting first. His claim is that grief is lightened when friends sorrow with us, even if the mechanism is unclear.
+*For example:* Imagine a friend whose marriage has just ended and who does not want to talk. On Aristotle's advice you bring dinner on Thursday without being asked. His claim is that grief is lightened when friends sorrow with us, even if the mechanism is unclear.
 
 ## Practice kernels
 

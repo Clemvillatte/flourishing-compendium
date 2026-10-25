@@ -21,7 +21,7 @@ The Buddha's own definition is short. In the Magga-vibhanga Sutta (SN 45.8), aft
 
 Thanissaro renders the Pali as "resolve"; other translators use "intention". The sutta lists the path as "right view, right resolve, right speech, right action", so resolve comes straight after view and before any speech or action.
 
-All three terms are stated as what you turn away from: renunciation, absence of ill will, absence of harm. "Simplicity", "goodwill" and "refusing to add suffering" are my positive renderings of them, not the sutta's words.
+All three terms are stated as what you turn away from: renunciation, absence of ill will, absence of harm. "Simplicity", "goodwill" and "refusing to add suffering" are this page's positive renderings of them, not the sutta's words.
 
 ### A modern echo
 
@@ -29,7 +29,7 @@ All three terms are stated as what you turn away from: renunciation, absence of 
 
 (SN 45.8.)
 
-**Plain words** Before any act there is an aim, and the sutta places that step just ahead of speech and action. Its three headings are turnings-away: renunciation rather than accumulation, goodwill rather than ill will, harmlessness rather than harm. The practical part is the ordering — settle what you are resolved on before you open your mouth.
+**Plain words** The sutta names renunciation, freedom from ill will, and harmlessness as right resolve, and lists resolve straight after view and before speech and action. This page's exercise is to check those aims before a difficult conversation: settle what you are resolved on before you open your mouth.
 
 *For example:* Imagine you have to tell a colleague that their report missed the mark. Before you pick up the phone you fix the aim: say what is true, and don't try to wound. That aim then decides how you phrase the first sentence.
 
