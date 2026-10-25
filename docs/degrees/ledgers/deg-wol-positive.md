@@ -30,7 +30,7 @@ All teaching, practice and assessment mappings in this matrix are proposals; thi
 | essential topic | taught in | practised in | assessed in |
 |---|---|---|---|
 | Wellbeing foundations and critique | scope (deg-wellbeing m1) | proposed | proposed |
-| Flow / optimal experience | scope (deg-wellbeing m2) | planned (flow exercise anchor: Penn) | proposed |
+| Flow / optimal experience | scope (deg-wellbeing m2) | proposed (flow exercise anchor: Penn) | proposed |
 | Strengths, meaning, sociocultural flourishing | scope (deg-wellbeing m3) | proposed | proposed |
 | Personal experiments with recorded outcomes | scope (walk framing; anchor norm) | proposed | proposed |
 | Evidence evaluation (measurement, design, effect size) | scope (sharpened from Fredrickson/Warwick outcomes) | proposed | proposed |

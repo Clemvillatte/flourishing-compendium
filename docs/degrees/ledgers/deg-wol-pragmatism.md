@@ -31,10 +31,10 @@ All teaching, practice and assessment mappings in this matrix are proposals; thi
 
 | essential topic | taught in | practised in | assessed in |
 |---|---|---|---|
-| Pragmatic maxim and belief fixation (Peirce) | scope (deg-philosophy m4) | proposed | planned |
-| James on truth and the will to believe | scope (deg-philosophy m4) | proposed | planned |
-| Dewey on inquiry, ethics, democracy | scope (deg-philosophy m4) | proposed | planned |
-| Method applied to one's own beliefs/habits | scope (walk framing) | proposed | planned |
+| Pragmatic maxim and belief fixation (Peirce) | scope (deg-philosophy m4) | proposed | proposed |
+| James on truth and the will to believe | scope (deg-philosophy m4) | proposed | proposed |
+| Dewey on inquiry, ethics, democracy | scope (deg-philosophy m4) | proposed | proposed |
+| Method applied to one's own beliefs/habits | scope (walk framing) | proposed | proposed |
 | Process thought | scope (m4, Process); strand anchor-verified (Edinburgh option, Cobb syllabus); placement beside pragmatists is the scope's own choice | proposed | proposed |
 | Neopragmatism (Rorty) | scope (elective) | — | elective |
 
