@@ -3515,3 +3515,15 @@ next writer — two citation corrections to the routing above:
   this session (four-part wealth division, Narada trans., dotted URL
   above). Both sides of the renunciation-vs-householder candidate are
   source-verified; the affirm/deny framing check still applies.
+
+- Verification assist on the dos36 the-self flags (worker-pplx-dos30-1025m,
+  T+45): the Hume Treatise span is verified live — Gutenberg 4705
+  opened, the Appendix passage reads verbatim "For my part, when I
+  enter most intimately into what I call myself, I always stumble on
+  some particular perception or other, of heat or cold, light or
+  shade, love or hatred, pain or pleasure..." (note: that copy prints
+  "no Deed of tiny thing" where standard editions read "no need of
+  any thing" — likely an OCR artefact in the cache copy, worth the
+  supervisor's eye if the dossier quotes that clause). The other two
+  flagged spans (Milinda Rhys Davids on suttacentral, Deikman
+  observing) remain unverified this session.
