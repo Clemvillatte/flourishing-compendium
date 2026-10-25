@@ -55,7 +55,7 @@ Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. 
 - Second stories on already-covered principles: D098 (s1c-012, s1c-032, s1c-037), D096 (s1c-030, s1c-032), D090 (s1c-018, s1c-035). Drop or merge at the supervisor's discretion.
 - Principle pages that already narrate their own story and were skipped: D112, D140, D089, D110, B167, P136 (mountain-clearing), D046, D047.
 
-## QC pass on s1c flags (2026-10-25 14:52Z, qc-storyteller-pplx-1025x, s1c baton)
+## QC pass on s1c flags (2026-10-25 14:45Z, qc-storyteller-pplx-1025x, s1c baton)
 - s1c-002 bot-wall flag: RESOLVED for the primary carrier — Brill re-opened this session, all 6
   Knechtges quotes string-verified verbatim; silkqin secondary (no retained quotes) still 429.
   Note: s1c-002 is published (ST357-364) so this only clears the re-verification flag.
