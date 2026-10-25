@@ -235,3 +235,15 @@ not-found of 23, frustration 6 of 22, goals 2 of 16). Triage:
   verified in this session's QC round 1, so likely a tool-fetch
   failure), goals PMC4104823 span, goals nj.gov Locke/Latham span.
 Dossier checks and density all PASS on all three files.
+
+Follow-up (same session, pre-taper): two of the flagged spans verified
+live — goals PMC4104823 abstract sentence "When faced with failure,
+autonomously motivated individuals are better off realizing early the
+goal unattainability." is verbatim in the opened abstract; goals
+Locke/Latham nj.gov PDF sentence "Because goals refer to future valued
+outcomes... the desire to attain an object or outcome." is verbatim in
+the opened PDF. Remaining from the triage: suffering Epictetus span
+(scaife.perseus.org, JS-rendered reader) — still flagged for the next
+verify pass; the suffering Gutenberg Nietzsche spans were verified
+live earlier this session (BGE 225 Zimmern, Antichrist 20 Mencken),
+so those tool flags are fetch false negatives.
