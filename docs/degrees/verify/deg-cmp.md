@@ -34,6 +34,10 @@ standard.
   in Chinese medicine, nourishing life practices and the martial arts.
 - Relevant segment: whole presentation, 1:20:22.
 - Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+  Coverage-confirmation attempt (2026-10-25): the third-party transcript route was
+  attempted for this video and returned a Cloudflare challenge (HTTP 403) both via
+  the fetcher and direct request — no transcript could be opened this session;
+  the coverage clause remains description-basis and flagged for the next pass.
 
 ## Gallery tier selection for mod-qg-3 (Standing), 2026-10-25
 
