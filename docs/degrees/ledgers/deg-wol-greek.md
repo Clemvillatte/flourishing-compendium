@@ -534,3 +534,42 @@ videos (1:01:03, 39:40, 59:40), which must not be mistaken for the
 Sorabji lecture's own duration. The blocking gap for workload arithmetic
 stands. Third independent re-check (after worker-pplx-greek-1025m's two);
 no change.
+
+## ST-03 transcript read (2026-10-25, worker-pplx-greek-1025y)
+
+The Stoicon 2020 John Sellars candidate (Modern Stoicism channel,
+28:05, verified earlier in this ledger) now carries a transcript-level
+content classification, superseding the watch page's auto-generated
+chapter titles as the evidence basis. Transcript read this session via
+https://youtubetotranscript.com/transcript?v=8Nz5nDXgLZw (the page
+rendered with the full transcript; direct raw fetch is Cloudflare-walled,
+the classification rests on the rendered transcript as read).
+
+Content confirmed from the transcript:
+
+- Opening: Sellars welcomes attendees, thanks the organisers (Donald,
+  Massimo and Phil), the donors and the Aurelius Foundation for hosting
+  the Zoom account.
+- Three parts: "according to the ancient stoix stoicism is a philosophy
+  with three parts logic physics and ethics and most of the stoics
+  insisted that these three parts form an integrated hole [whole] and
+  they used a variety of nice imagery to illustrate this" (verbatim;
+  "hole" is the transcript's rendering of "whole").
+- Ethics and virtue: "it's going to introduce the key concept in ethics
+  that i want to focus on namely virtue"; "the only thing that the
+  stoics think falls into this category of consistently benefiting us is
+  having an excellent character or state of mind".
+- Physics and interconnectedness: "the stoics argues that nature is a
+  single organic unity an interconnected whole"; "as well as being parts
+  of this single unified cosmos we are also all parts of wider
+  communities of people both locally and ultimately as part of the
+  community of all humankind".
+- Closing: an invitation to try Stoicism and sign up for Stoic Week.
+
+Implication: ST-03 is now classified from the recording's transcript
+(the auto-generated chapter titles "Three parts of stoicism", "Ethics and
+virtue", "Physics and interconnectedness" all correspond to passages the
+transcript actually contains), upgrading the candidate from
+chapter-titles-only to transcript-read. It remains an unattached candidate
+(the module it would serve is behind the Phase 0 stop-gate); no
+attachment is made this session.
