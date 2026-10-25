@@ -12,6 +12,7 @@ Two literatures hold the material: the classical analyses of reason and its limi
 - Thoughts: the "thoughts are not facts" territory is held here by [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) and the meditation cluster it links to.
 - Reasoning: studied as measured performance by [Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research) and as wise performance by [Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning).
 - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason) and the philosophy cards it links to.
+- Deciding: decision research — choice under uncertainty, preference and risk — is the subject of the Decision-Making dossier; the judgment material here stops where choosing begins.
 
 ## How thinking runs, and where it fails
 
