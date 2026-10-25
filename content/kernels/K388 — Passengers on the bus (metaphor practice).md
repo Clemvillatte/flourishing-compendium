@@ -29,20 +29,20 @@ Suggested reflection built from the metaphor, not a published exercise protocol.
 The metaphor comes from the founding text of Acceptance and Commitment Therapy, where it is used to expose the cost of trying to control unwanted inner experience:
 
 > "The threat they have over you is that if you don't do what they say, they're going to come up front from the back of the bus."
-> — [Hayes, Strosahl & Wilson (1999), *Acceptance and Commitment Therapy*, pp. 157–158, as carried by [Luoma & Hayes, Cognitive Defusion PDF](https://www.personal.kent.edu/~dfresco/CBT_Readings/Luoma_Cognitive_Defusion.pdf)]
+> — [Hayes, Strosahl & Wilson (1999), *Acceptance and Commitment Therapy*, pp. 157–158, as reproduced in Morris, Johns & Oliver (2013), Appendix C, UNC PDF](https://www.med.unc.edu/psych/epi-nc/wp-content/uploads/sites/720/2025/12/Acceptance-and-Commitment-Therapy-and-Mindfulness-for-Psychosis-2013-Morris-Passengers%E2%80%90on%E2%80%90the%E2%80%90Bus-Metaphor.pdf)
 
 > "The driver (you) has control of the bus, but you trade off the control in these secret deals with the passengers. In other words, by trying to get control, you've actually given up control!"
-> — [same source, pp. 157–158](https://www.personal.kent.edu/~dfresco/CBT_Readings/Luoma_Cognitive_Defusion.pdf)
+> — [Hayes, Strosahl & Wilson (1999), pp. 157–158, as rendered in Luoma & Hayes, Cognitive Defusion chapter](https://www.personal.kent.edu/~dfresco/CBT_Readings/Luoma_Cognitive_Defusion.pdf)
 
 The clinical literature places the exercise under cognitive defusion: the strategy of stepping back from the literal content of a thought so that it functions as an event you are having, not an order you must obey ([Luoma & Hayes, Cognitive Defusion chapter](https://www.personal.kent.edu/~dfresco/CBT_Readings/Luoma_Cognitive_Defusion.pdf)). A peer-reviewed account of the technique describes it this way:
 
 > "Although these passengers act menacing, make frequent demands to stop the bus or change its direction, threaten to physically harm the client, and masquerade as the entities in charge, the only person on the bus who actually has the power to control the bus is the driver (i.e., the client)."
-> — [Blackledge (in press), "Defusion: A Behavior-Analytic Strategy for Addressing Private Events", PMC3357099](https://pmc.ncbi.nlm.nih.gov/articles/PMC3357099/)
+> — [Snyder, Lambert & Twohig (2011), "Defusion: A Behavior-Analytic Strategy for Addressing Private Events", *Behavior Analysis in Practice*, PMC3357099](https://pmc.ncbi.nlm.nih.gov/articles/PMC3357099/)
 
-A self-help guide for the general reader retells the metaphor with a household bus:
+A journal article for clinicians carries a widely reprinted short form of the exercise as a household bus:
 
 > "Imagine that your life is a bus. On the front of the bus is the route, which is your value. As you try to drive the bus in a valued direction, passengers jump on board and start to give you a hard time."
-> — [Morris (2013), *Acceptance and Commitment Therapy and Mindfulness for Psychosis*, Box 8, UNC PDF](https://www.med.unc.edu/psych/epi-nc/wp-content/uploads/sites/720/2025/12/Acceptance-and-Commitment-Therapy-and-Mindfulness-for-Psychosis-2013-Morris-Passengers%E2%80%90on%E2%80%90the%E2%80%90Bus-Metaphor.pdf)
+> — [Bach & Moran (2008), "ACT for depression", *International Journal of Psychiatry in Clinical Practice*, Box 8](https://pmc.ncbi.nlm.nih.gov/articles/PMC2924769/)
 
 What the sources do not test: the metaphor is an experiential ACT exercise, not an intervention with its own outcome trials; the broader ACT model it belongs to has a wider evidence base, but no study isolates the bus image as the active ingredient.
 
