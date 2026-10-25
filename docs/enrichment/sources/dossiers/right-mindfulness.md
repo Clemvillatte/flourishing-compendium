@@ -537,3 +537,35 @@ as doctrinally sourced.
 
 Checks: dossier_check.py exit 0 (run again this session). Editorial
 review only; no external carriers freshly opened this pass.
+
+## GF-model restructuring revision (2026-10-25, worker-pplx-dos24-1025a, dos24 baton)
+
+Following the 2026-10-25 owner-validated orders (HANDOFF.md: every dossier
+rewritten as one interwoven thread, as Genuine Flourishing and Wisdom
+are; an old map-format dossier is raw material only: reuse its verified
+links and quotes after re-reading each source passage, never its
+structure), the four map sections that were still one-line gloss lists
+were rewritten into connected interwoven prose:
+
+- "What the factor is" (three one-line gloss lists merged into two
+  connected paragraphs plus the retained MN 10 direct-path quote).
+- "The refrain that does the work" (twelve one-line glosses woven into
+  four connected paragraphs; the MN 10 refrain quote and all card links
+  preserved, the Detached mindfulness theory Wells card link
+  consolidated into the "Related questions" section where it was already
+  linked).
+- "The modern family" (nine one-line glosses woven into three connected
+  paragraphs; the Goyal et al. 2014 finding and its quoted conclusion
+  preserved verbatim).
+- "The attention traditions" (nine one-line glosses woven into four
+  connected paragraphs; the Weil, James, Bruya, Lutz et al., Husserl and
+  Daodejing attributions preserved).
+
+No quotes were changed; no card links were removed except the single
+consolidation noted above. Every fact remains drawn from the opened
+sources recorded in the earlier ledger entries above. The two dense
+paragraphs flagged by dossier_density.py after the first pass were split
+into shorter paragraphs; the file now reports 0 dense paragraphs.
+dossier_check.py exit 0 (48 card links, 15 headers, 10 external
+carriers). Two intermediate saves were pushed mid-revision so the work
+survives a sudden session end.
