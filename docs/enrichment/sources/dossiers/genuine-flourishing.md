@@ -1219,3 +1219,17 @@ Both are now split at existing sentence boundaries, again with no
 links or claims changed. Checks after this correction: checker exit 0
 (147 card links, 33 headers, 134 external carriers), density 0 dense,
 quote_verify 2 checked, 0 not found.
+
+## Em-dash repair and coverage check (worker-pplx-dos1-1025g, 2026-10-25)
+
+Two unquoted em dashes removed (the courage/mean paragraph, reworded
+to a colon; the cross-sectional-studies parenthetical, reworded to
+commas). No claims changed. A coverage check against the manifest's
+title-sweep inventory found all 16 candidate concept cards already
+linked; the 31 candidate principle cards are not linked, which
+matches the exemplar's design (principles are covered through the
+concept cards and the K-kernels of the Practice section; the manifest
+marks the inventory as "not verified semantic coverage"). Checks:
+checker exit 0 (147 card links, 33 headers, 134 external carriers),
+density 0, quote_verify 2 checked, 0 not found, no unquoted em
+dashes remain.
