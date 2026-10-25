@@ -1747,3 +1747,24 @@ The advisor's final verification caught overstated records in this session's QC 
   (60bd725c). Open art-curator flags (right-speech Miro saturation,
   freedom art files despite withdrawal) remain for the art curator /
   owner; not blocking content.
+
+# Supervisor QC entry 29 — 2026-10-25 05:10Z (supervisor-pplx-1025h)
+
+- dos26 gratitude: advisor round 3 applied. Corrections: (a) the
+  "neither with discernment" Seneca locator was re-derived against the
+  COMPLETE Wikisource section marker list — it is I.15, not I.6 (the
+  earlier lookup used a truncated marker list); dossier and ledger fixed,
+  other locators re-verified and stand. (b) Q-A (Seneca acknowledgment
+  vs Aquinas Q106 a.6 over-repayment) and Q-B (Analects XVII.21 mourning
+  vs Kataññu filial service) downgraded to comparisons per the advisor:
+  neither pair carries an explicit affirmation/denial under the same
+  conditions. (c) Process/audit language moved off the page into the
+  ledger. Status: the section carries ONE substantiated disagreement
+  (Seneca III.18 vs BGE 260) + three bounded comparisons. The 3-5 bar is
+  NOT met; the commit ec51dc2b claim to the contrary is corrected in the
+  ledger. The gratitude repair lane remains open (2+ substantiated
+  questions needed). Checks exit 0; app.js rebuilt with the corrected
+  version only (71 blocks).
+- Standing note for the repair-pass lane: a substantiated question
+  requires an explicit proposition one text affirms and another denies
+  under the same conditions; different emphases are comparisons.

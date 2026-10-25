@@ -16186,11 +16186,27 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two accounts start from different places. Seneca locates the benefit itself in the giver's goodwill: \"neither gold, nor silver, nor any of those things which are most highly esteemed, are benefits, but the benefit lies in the goodwill of him who gives them\" ([Seneca, On Benefits I.5, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. A great sum given \"neither with discernment nor with good will\" is for him no benefit at all (On Benefits I.6), and much of the debt is discharged on the spot: \"a benefit is repaid by being acknowledged\" (On Benefits I.1)."
+          "x": "The two accounts start from different places. Seneca locates the benefit itself in the giver's goodwill: \"neither gold, nor silver, nor any of those things which are most highly esteemed, are benefits, but the benefit lies in the goodwill of him who gives them\" ([Seneca, On Benefits I.5, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. A great sum given \"neither with discernment nor with good will\" is for him no benefit at all (On Benefits I.15), and much of the debt is discharged on the spot: \"a benefit is repaid by being acknowledged\" (On Benefits I.1)."
         },
         {
           "t": "p",
-          "x": "Aristotle asks a different question — what the return should be — and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation. The two accounts have not been shown to rule on the same transaction, so this is recorded as a contrast of starting points, not a demonstrated incompatibility: Seneca's measure is the giver's will, Aristotle's is the kind of relationship the exchange sits inside. Whether a case exists where the two measures give opposed verdicts on the same act is left open for research."
+          "x": "Aristotle asks a different question — what the return should be — and splits the answer by relationship: \"It is disputable whether we ought to measure a service by its utility to the receiver and make the return with a view to that, or by the benevolence of the giver.\" In friendships of utility, \"the advantage to the receiver is the measure\"; in friendships of virtue, \"the purpose of the doer\" is \"a sort of measure\" ([Aristotle, NE VIII.13, Ross trans.](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)): Primary text; Ross's translation. Seneca's measure is the giver's will; Aristotle's is the kind of relationship the exchange sits inside. Where the relationship is a friendship of virtue the two measures converge; where it is a friendship of utility the receiver's advantage governs. Whether the two measures can give opposed verdicts on the same act is a question the texts do not settle, and one an essay can take up."
+        },
+        {
+          "t": "h2",
+          "x": "What full repayment requires"
+        },
+        {
+          "t": "p",
+          "x": "Seneca holds that acknowledgment itself does most of the repaying: \"a benefit is repaid by being acknowledged\" ([Seneca, On Benefits I.1, Stewart trans., Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I)): Primary text; Stewart's translation. The grateful person's first act is to own the debt, and on Seneca's account the goodwill that constitutes the benefit is honored by seeing it."
+        },
+        {
+          "t": "p",
+          "x": "Aquinas answers the same question the other way. The giver was \"deserving of praise, chiefly for having conferred the favor gratis without being bound to do so,\" so the return must also be gratis, and it is not gratis unless it exceeds the gift: \"he does not seem to bestow something gratis, unless he exceeds the quantity of the favor received: because so long as he repays less or an equivalent, he would seem to do nothing gratis, but only to return what he has received. Therefore gratitude always inclines, as far as possible, to pay back something more\" ([Aquinas, ST II-II Q106 a.6, English Dominican Province trans., Wikisource](https://en.wikisource.org/wiki/Summa_Theologiae/Second_Part_of_the_Second_Part/Question_106)): Primary text; the Summa Theologiae, Question 106."
+        },
+        {
+          "t": "p",
+          "x": "The two accounts pull different parts of the act to the center. Seneca puts the acknowledgment at the heart of repayment — the benefit is honored by being owned and seen as goodwill. Aquinas puts the excess there — an equal return gives back what was received and adds nothing gratis. A grateful person can practice both, and the texts differ in which part each treats as the repayment itself."
         },
         {
           "t": "h2",
@@ -16206,7 +16222,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What the passages do not settle is whether these are opposed answers or the same answer in different currencies: Aristotle commends service to the utmost of one's ability and says nothing here about establishing parents in virtue; the suttas name that establishing as the repayment and do not discuss service short of it. Whether Aristotle would deny that those acts repay is not established by the opened text, so this is recorded as a second contrast, not a demonstrated incompatibility."
+          "x": "The Analects and the suttas both measure filial observance against the parental care, and part ways on what the return is made of. Confucius grounds the three years' mourning in the care it answers: \"It is not till a child is three years old that it is allowed to leave the arms of its parents. And the three years' mourning is universally observed throughout the empire\" ([Confucius, Analects XVII.21, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330.txt)): Primary text; James Legge's translation. Here the observance is proportioned to the care received — service rendered is the return. The suttas rule out the proportion: no quantity of service, up to a century of carrying them, pays the parental debt; the return is made of something else — the establishing of parents in conviction, virtue, generosity and discernment."
+        },
+        {
+          "t": "p",
+          "x": "Aristotle sits closest to the suttas in denying that any service reaches equivalence, though he commends service to the utmost of one's ability and does not take up the establishing of parents in virtue."
         },
         {
           "t": "h2",

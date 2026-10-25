@@ -488,3 +488,35 @@ carriers); density 0 dense; dossier_quote_verify 24 checked / 6
 not-found (5 pre-existing Emmons/Algoe artifacts + 1 lojong
 quote-delimiter parser artifact, both classes documented above; every
 genuine span verified by eye against the freshly fetched carrier).
+
+## Advisor round 3 corrections (supervisor-pplx-1025h, 2026-10-25)
+
+The round-2 ledger entry above said the "neither with discernment" span
+had been "relocated to I.6" — that locator was WRONG. The section lookup
+that produced it used a truncated marker list (sections 1-6 only); the
+complete marker list places the span at On Benefits I.15. The dossier
+now cites I.15; the round-2 "I.6" claim in this ledger is superseded.
+The I.1, I.4, I.5 and III.18 locators were re-verified against the
+complete marker list and stand.
+
+Round 3 also downgraded the two questions added in the completion round
+to COMPARISONS (the 3-5 bar is NOT met; the section carries ONE
+substantiated disagreement plus three bounded comparisons):
+- Q-A (acknowledgment vs over-repayment): the advisor ruled that
+  Seneca's acknowledgment line does not establish that Seneca rejects
+  further grateful return, and Aquinas's "always inclines, as far as
+  possible" does not establish that equal repayment repays nothing. The
+  sentence "The two rulings cannot both be followed" was removed; the
+  section now presents the two emphases as compatible-in-practice.
+- Q-B (filial service): the advisor ruled that Analects XVII.21 justifies
+  the mourning by parental care but does not say mourning settles the
+  parental debt or that cultivating parents' virtue is unnecessary; the
+  sutta's denial of material-service repayment therefore does not
+  contradict the Confucian claim. Downgraded to a comparison of what the
+  return is made of.
+
+The commit ec51dc2b claimed "reaches 3-5 bar" — that claim is WRONG and
+is corrected by this entry: the bar is not met; the gratitude repair lane
+remains open with one substantiated disagreement (Seneca III.18 vs BGE
+260) and three bounded comparisons, each with its missing premise named
+in the dossier's natural prose.
