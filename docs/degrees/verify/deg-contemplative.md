@@ -640,8 +640,26 @@ attach them with evidence on file.
 - Content coverage: the host's description states the lecture introduces the
   organized Daoist religion founded on revelation, its early communities, and how
   successive revelations transformed it into the caretaker of China's popular gods.
+  Coverage-confirmation (2026-10-25): a third-party transcript page
+  (https://youtubetotranscript.com/transcript?v=RR87wauVKs4&current_language_code=en,
+  opened 2026-10-25; noted by the extraction to contain transcription errors and
+  variant spellings of the lecturer's name) confirms the lecture's substance on
+  the recording: Daoists as "ordained priests of an organized religion founded
+  in the second century" rather than personal philosophers; the Celestial
+  Masters' founding, worship of Lord Lao and opposition to animal-sacrifice
+  spirit worship ("True gods do not eat or drink and masters of the Dao do not
+  accept payment for their services"); the church's hierarchy, libationers,
+  ethical precepts and "24 regional centers called parishes"; later
+  revelations including the Correct Rites of the Heavenly Heart and Daoist
+  ritual officers judging supernatural beings and popular gods; contemporary
+  multi-day community offerings and rituals involving "the entire local
+  community"; and Daoism among the Yao as "a living religion" and "a
+  communal religion". Caveats: third-party transcript page, no timestamps in
+  the retrieved text; playback itself not opened.
 - Relevant segment: whole lecture, 54:02.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (2026-10-25); coverage confirmed against
+  a third-party transcript page (no timestamps); identity, access and duration
+  verified earlier.
 
 ### M01-D12: Lundao 8, Towards a Radical (Re)Reading of the Daode jing (Louis Komjathy)
 
