@@ -245,10 +245,11 @@ After this session's 23 drafts (s1a-040 through s1a-062), the regenerated zero-s
   teller-writable):
   1. ST432 (Jim Forest Washes the Dishes, from s1a-026): prose 481 words — one word
      over the 480 cap. One-word trim fixes it.
-  2. ST184 (Franklin's Little Book, the s1a-028 upgrade body as applied): FAILS the
-     bar on three counts — prose 129 < 150 floor; **Principles:** section reported
-     missing by story_check (the links are present in the body but the page also has
-     no ## Sources section with an http(s) URL, so the verification trail is gone).
-     The applied replacement appears to have dropped the draft's evidence trail.
-     Suggest restoring the ## Sources section from the s1a-028 draft ledger and
-     bringing prose back above 150.
+  2. ST184 (Franklin's Little Book): FAILS the current checker (prose 129 < 150
+     floor; no ## Sources with an http(s) URL; the old inline Principles format is
+     not parsed by the checker). CORRECTION 2026-10-25: git history shows this page
+     has a single commit — the 2026-10-18 repo import. The s1a-028 upgrade was
+     NEVER APPLIED; the page is original legacy format, failing by construction like
+     the other 343 legacy pages (plus the word floor). The s1a-028 prepared
+     replacement body (quotes verbatim against Gutenberg #20203) remains available
+     if the supervisor chooses to apply it, which would also bring the page to bar.
