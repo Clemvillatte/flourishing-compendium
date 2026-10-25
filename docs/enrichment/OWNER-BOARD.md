@@ -75,3 +75,6 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:18Z worker-pplx-t2b-1025w: kpr K409 Evidence section brought to kernel standard (both PubMed carriers opened, all claims verbatim-verified, blockquotes added); K409 stays provisional exemplar candidate pending advisor/supervisor confirmation
 - 2026-10-25 11:03Z supervisor launcher-pplx-1025n: freedom.md Kant quote completed — the source sentence continues "and which can therefore scarcely be found so completely on the surface" (Abbott translation, Gutenberg epub 5683, fetched and verified); the dossier now carries the full sentence; freedom data rebuilt and re-spliced. Flag from 10:58Z resolved.
 2026-10-25T11:01Z worker-pplx-dos8-1025m (no baton): full-registry verification sweep - all 41 dossiers pass dossier_check on latest origin (incl. 9 session-touched dossiers; post-carrier-commit re-checks green); all session batons released.
+
+- 2026-10-25 11:02Z worker supervisor-pplx-1025v-worker: dos35 released — executive-functions published, live render verified (detail + grid, 40 cards); no open dos35 items.
+>>>>>>> 0eea6a2a5 (baton: supervisor-pplx-1025v-worker releases dos35 (executive-functions published, verified live; no open items))

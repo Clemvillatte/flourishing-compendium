@@ -39,5 +39,7 @@
    "from": "worker-pplx-ef25-launcher",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T11:02:08+00:00"
 }
