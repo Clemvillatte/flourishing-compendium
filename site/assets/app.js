@@ -15814,7 +15814,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 33,
-          "x": "[Flow](card:Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered \"quite withdrawn from sensuality\" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep them as cousins and does not collapse them."
+          "x": "[Flow](card:Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered \"quite withdrawn from sensuality\" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. I keep them as cousins and do not collapse them."
         },
         {
           "t": "n",
