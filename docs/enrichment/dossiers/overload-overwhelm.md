@@ -2,7 +2,7 @@
 
 > When the world gives more than a person can take in, what still works?
 
-Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information and not a verdict.
+Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information about the environment instead of a verdict on the self.
 
 ### Nearby terms
 

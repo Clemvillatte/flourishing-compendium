@@ -9904,7 +9904,7 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information and not a verdict."
+          "x": "Being overwhelmed is what happens when the world's demands outrun a person's capacity to hold them, and it is one of the few experiences that is at once a feeling, a fact about the environment, and a verdict on the self. The last part is the trap: more than one can hold reads as evidence of personal failure. The traditions and the research answer with rest, structure and steadiness, so that the overload becomes information about the environment instead of a verdict on the self."
         },
         {
           "t": "h2",
@@ -9924,155 +9924,87 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on overload and overwhelm"
+          "x": "Where overload sits in a life"
         },
         {
           "t": "h2",
-          "x": "Too much input"
+          "x": "What too much input does"
         },
         {
           "t": "p",
-          "x": "[Information overload research](card:Information%20overload%20research): studies on how excessive information input degrades decision quality, increases stress, and paradoxically reduces knowledge."
+          "x": "Studies on how excessive information input degrades decision quality, increases stress, and paradoxically reduces knowledge are [information overload research](card:Information%20overload%20research). The finding that more options degrade satisfaction and decision quality, though later meta-analytic work finds the overload only under certain conditions, is [choice overload](card:Choice%20overload)."
         },
         {
           "t": "p",
-          "x": "[Choice overload](card:Choice%20overload): more options degrade satisfaction and decision quality, though later meta-analytic work finds the overload only under certain conditions."
+          "x": "The media-use pattern studied by Ophir, Nass and Wagner is [heavy media multitasking](card:Heavy%20media%20multitasking), and the simultaneous use of multiple information streams, with the question of whether heavy users differ in cognitive control, is [media multitasking](card:Media%20multitasking). Research on whether smartphone notifications and infinite feeds pull attention away from what a person is doing is [notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture)."
         },
         {
           "t": "p",
-          "x": "[Heavy media multitasking](card:Heavy%20media%20multitasking): the media-use pattern studied by Ophir, Nass and Wagner."
-        },
-        {
-          "t": "p",
-          "x": "[Media multitasking](card:Media%20multitasking): the simultaneous use of multiple information streams, and the question of whether heavy users differ in cognitive control."
-        },
-        {
-          "t": "p",
-          "x": "[Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture): research on whether smartphone notifications and infinite feeds pull attention away from what a person is doing."
-        },
-        {
-          "t": "p",
-          "x": "[Digital well-being](card:Digital%20well-being): the impact digital technologies have on a life that is good for a human being."
+          "x": "The impact digital technologies have on a life that is good for a human being is [digital well-being](card:Digital%20well-being)."
         },
         {
           "t": "h2",
-          "x": "Load and its limits"
+          "x": "What load is, and where it hits limits"
         },
         {
           "t": "p",
-          "x": "[Cognitive load theory](card:Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning and instruction."
+          "x": "Sweller's theory of working-memory demands in learning and instruction is [cognitive load theory](card:Cognitive%20load%20theory). Lavie's account of selective attention, offered as a resolution to the debate between early and late selection, is the [load theory of attention](card:Load%20theory%20of%20attention)."
         },
         {
           "t": "p",
-          "x": "[Load theory of attention](card:Load%20theory%20of%20attention): Lavie's account of selective attention, offered as a resolution to the debate between early and late selection."
-        },
-        {
-          "t": "p",
-          "x": "[Directed attention fatigue](card:Directed%20attention%20fatigue): Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention."
-        },
-        {
-          "t": "p",
-          "x": "[Ego depletion](card:Ego%20depletion): the proposal that self-control is a limited resource depleted after a period of exertion."
-        },
-        {
-          "t": "p",
-          "x": "[Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training): raise the demand on a system in steps so that it keeps adapting."
+          "x": "Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention is [directed attention fatigue](card:Directed%20attention%20fatigue). The proposal that self-control is a limited resource depleted after a period of exertion is [ego depletion](card:Ego%20depletion), and the principle of raising the demand on a system in steps so that it keeps adapting is [progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training)."
         },
         {
           "t": "h2",
-          "x": "Demands, resources and burnout"
+          "x": "What demands do, and how burnout arrives"
         },
         {
           "t": "p",
-          "x": "[Burnout](card:Burnout): the WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed."
+          "x": "The WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed is [burnout](card:Burnout). The description of burnout through emotional exhaustion, depersonalization, and reduced personal accomplishment is the [Maslach burnout model](card:Maslach%20burnout%20model)."
         },
         {
           "t": "p",
-          "x": "[Maslach burnout model](card:Maslach%20burnout%20model): burnout described through emotional exhaustion, depersonalization, and reduced personal accomplishment."
+          "x": "The model in which working conditions fall into two broad categories, job demands and job resources, is the [job demands-resources model](card:The%20job%20demands-resources%20model). Hobfoll's 1989 model of stress, presented as an alternative to the phenomenological stress models, is [Conservation of Resources Theory](card:Conservation%20of%20Resources%20Theory)."
         },
         {
           "t": "p",
-          "x": "[The job demands-resources model](card:The%20job%20demands-resources%20model): working conditions fall into two broad categories: job demands and job resources."
+          "x": "Emotional-labor research distinguishing surface acting from deep acting is [impression-management burnout research](card:Impression-management%20burnout%20research). The caution from Klimecki and colleagues that excessive sharing of others' negative emotions may be maladaptive is [empathic distress](card:Empathic%20distress)."
         },
         {
           "t": "p",
-          "x": "[Conservation of Resources Theory](card:Conservation%20of%20Resources%20Theory): Hobfoll's 1989 model of stress, presented as an alternative to the phenomenological stress models."
-        },
-        {
-          "t": "p",
-          "x": "[Impression-management burnout research](card:Impression-management%20burnout%20research): emotional-labor research distinguishing surface acting from deep acting."
-        },
-        {
-          "t": "p",
-          "x": "[Empathic distress](card:Empathic%20distress): Klimecki and colleagues caution that excessive sharing of others' negative emotions may be maladaptive."
-        },
-        {
-          "t": "p",
-          "x": "[Allostatic load](card:Allostatic%20load): McEwen's term for the cumulative wear the body takes when stress-mediating systems stay chronically over- or under-active."
-        },
-        {
-          "t": "p",
-          "x": "[Stress response (Lupien, McEwen)](card:Stress%20response%20%28Lupien%2C%20McEwen%29): the body's coordinated reaction to a perceived threat."
-        },
-        {
-          "t": "p",
-          "x": "[The stress-buffering model](card:The%20stress-buffering%20model): Cohen and Wills's account of how social support touches health."
+          "x": "McEwen's term for the cumulative wear the body takes when stress-mediating systems stay chronically over- or under-active is [allostatic load](card:Allostatic%20load). The body's coordinated reaction to a perceived threat is the [stress response](card:Stress%20response%20%28Lupien%2C%20McEwen%29), and Cohen and Wills's account of how social support touches health is [the stress-buffering model](card:The%20stress-buffering%20model)."
         },
         {
           "t": "h2",
-          "x": "Recovery and rest"
+          "x": "How recovery works"
         },
         {
           "t": "p",
-          "x": "[Effort-recovery cycles](card:Effort-recovery%20cycles): work draws on a person, and time away from work lets that drain ease."
+          "x": "The principle that work draws on a person, and time away from work lets that drain ease, is the [effort-recovery cycle](card:Effort-recovery%20cycles). Four ways people recuperate from work during leisure time are [recovery experiences](card:Recovery%20experiences)."
         },
         {
           "t": "p",
-          "x": "[Recovery experiences](card:Recovery%20experiences): four ways people recuperate from work during leisure time."
+          "x": "Sonnentag's research programme on how people unwind from work stress is [recovery research](card:Recovery%20research), and the occupational-health psychology line on how people recuperate from demands is [recovery science](card:Recovery%20science)."
         },
         {
           "t": "p",
-          "x": "[Recovery research](card:Recovery%20research): Sonnentag's research programme on how people unwind from work stress."
+          "x": "Completing the stress cycle as a shift from stress toward relief is [stress cycle completion](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29). The deliberate slowing of breath below the everyday rate is [slow-paced breathing](card:Slow-paced%20breathing)."
         },
         {
           "t": "p",
-          "x": "[Recovery science](card:Recovery%20science): the occupational-health psychology line on how people recuperate from demands."
-        },
-        {
-          "t": "p",
-          "x": "[Stress cycle completion (Nagorski, Sapolsky)](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29): completing the stress cycle as a shift from stress toward relief."
-        },
-        {
-          "t": "p",
-          "x": "[Slow-paced breathing](card:Slow-paced%20breathing): the deliberate slowing of breath below the everyday rate."
-        },
-        {
-          "t": "p",
-          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): the perceived capacity to withstand aversive states, distinguished from the act of withstanding them."
-        },
-        {
-          "t": "p",
-          "x": "[Stress inoculation training](card:Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives."
+          "x": "The perceived capacity to withstand aversive states, distinguished from the act of withstanding them, is [distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29). Meichenbaum's method for building coping capacity before stress arrives is [stress inoculation training](card:Stress%20inoculation%20training)."
         },
         {
           "t": "h2",
-          "x": "Rest in the traditions"
+          "x": "What the traditions say about rest"
         },
         {
           "t": "p",
-          "x": "[The importance of rest](card:The%20importance%20of%20rest): Aristotle's argument that rest is what work is for."
+          "x": "Aristotle's argument that rest is what work is for is [the importance of rest](card:The%20importance%20of%20rest). His treatment of rest in Book X, answering the limit that no human being can work continuously, is [the completeness of rest](card:The%20completeness%20of%20rest)."
         },
         {
           "t": "p",
-          "x": "[The completeness of rest](card:The%20completeness%20of%20rest): Aristotle's treatment of rest in Book X, answering the limit that no human being can work continuously."
-        },
-        {
-          "t": "p",
-          "x": "[Discipline of rest](card:Discipline%20of%20rest): the monastic practice of regulating rest by rule."
-        },
-        {
-          "t": "p",
-          "x": "[The rhythm of rest](card:The%20rhythm%20of%20rest): in the Zhuangzi, nature supports the body through the stages of a life: toil, then ease, then rest at death."
+          "x": "The monastic practice of regulating rest by rule is the [discipline of rest](card:Discipline%20of%20rest). In the Zhuangzi, nature supports the body through the stages of a life, toil, then ease, then rest at death, in [the rhythm of rest](card:The%20rhythm%20of%20rest)."
         },
         {
           "t": "h",
@@ -10088,7 +10020,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/))",
+          "x": "\"These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9599441&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -10097,12 +10029,51 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15].\" ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/))",
+          "x": "\"Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15].\" ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=27474142&rettype=abstract&retmode=text))",
           "s": null
         },
         {
           "t": "p",
           "x": "Later work has not closed the question: a 12-laboratory replication of a different task pair [found a small and significant effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/) (d = 0.10), and a reader should treat the resource model of self-control as unsettled."
+        },
+        {
+          "t": "h2",
+          "x": "Does a larger set of options overload the chooser?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: past some point, does adding options make a person less likely to choose, or less happy with what they chose? Iyengar and Lepper reported that it does, in three studies:"
+        },
+        {
+          "t": "q",
+          "x": "\"These experiments, which were conducted in both field and laboratory settings, show that people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices.\" ([Iyengar and Lepper, JPSP 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11138768/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11138768&rettype=abstract&retmode=text))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A meta-analysis of the later literature found something different:"
+        },
+        {
+          "t": "q",
+          "x": "\"In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A second meta-analysis, built on 99 observations, reached a different overall result once it accounted for the conditions under which overload happens:"
+        },
+        {
+          "t": "q",
+          "x": "\"Finally, we document that when moderating variables are taken into account the overall effect of assortment size on choice overload is significant—a finding counter to the data reported by prior meta-analytic research.\" ([Chernev, Böckenholt and Goodman, Journal of Consumer Psychology 2015, abstract](https://onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2014.08.002), [author copy](https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two meta-analyses disagree on what a zero average means. The 2010 authors report an average near zero with large differences between studies and no condition that reliably produced overload. The 2015 authors name four moderators (choice set complexity, decision task difficulty, preference uncertainty and decision goal) and report that each had a reliable effect on overload. Both can describe the same data if the average hides cases that go in opposite directions, and I cannot judge from abstracts which treatment of the moderators is right."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that the single claim that \"more options overload people\" should not be written as a general law in the essays. The more defensible claim is conditional: it holds for hard decisions among complex sets when a person is unsure of their preferences. Limits: I read only abstracts, including the 2015 one as returned in a search listing and not from its publisher page, and I did not open the commentary on the 2010 paper or any study of overload outside consumer choice, such as information overload at work."
         },
         {
           "t": "h2",

@@ -236,3 +236,33 @@ Also added: the Chernev, Böckenholt and Goodman 2015 author-copy PDF (chernev.c
 REMAINING 1 NOT FOUND, flagged for the supervisor: the Scheibehenne, Greifeneder and Todd 2010 quote ("In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero...") cannot mechanically verify against any open carrier from this network. The Oxford full-text page is challenge-blocked; the author-copy PDF (scheibehenne.com, fetched today, correct document) has two pdftotext extraction artifacts that break normalised substring matching: the equals sign in "N = 5,036" extracts as "p", and "published" breaks across a hyphenated line end. The passage was read in the extracted text and the quotation matches the printed text of the PDF. A carrier that extracts cleanly would clear the check.
 
 Checks before push (exit codes captured directly): dossier_check exit 0; quote_verify 7 checked, 1 not found (documented above); density 0 dense; voice_audit exit 0.
+
+## Reader-level voice review (2026-10-25, worker-pplx-sup-1025y, supervisor baton; dos4/dos12 released)
+
+The 2026-10-24 inventory left overload-overwhelm with zero detector
+matches and a standing note that zero matches do not certify natural
+prose; this entry is the complete read the note asked for. Every line
+was read at reader level against the owner's defect list.
+
+Recast, one line, reword-only: the opening's "the overload becomes
+information and not a verdict" carried the owner's flagged
+X-and-not-Y scaffold rhythm. Recast to "becomes information about the
+environment rather than a verdict on the self" — same claim, plainer
+construction, and it names what the information is about.
+
+Kept with reasons, four candidates:
+- "The last part is the trap" (opening): a direct statement of the
+  dossier's thesis, not a flourish.
+- "The first treats rest as a tool for further effort; the second treats
+  leisure as the point of effort" (Aristotle disagreement): substantive
+  contrast required by the two quoted passages.
+- "The look-alikes of rest are scrolling, more tasks and the next
+  screen" (Variation): the house Variation formula, concrete.
+- "bring the body down before the mind is asked to think" (Variation):
+  plain instruction, no decoration.
+
+No generic tradition-agreement claims; no card-gloss catalogue runs
+(each card link sits in a sentence that does work); no decorative
+metaphors found beyond the recast line. Detector re-run after the
+recast: zero matches. No quotation touched; the recast line carries no
+quote.
