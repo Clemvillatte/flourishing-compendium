@@ -15,7 +15,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 The exchange structure of Nahua ritual life, as Maffie summarizes it: "Humans and teotl coexist in a moral interrelationship of reciprocity, and becoming knowledgeable involves a morally regulated exchange with teotl." In Maffie's account, humans come to merit tlamatiliztli (knowledge) through prescribed ritual activities. The give-first rule below is this page's modern adaptation of that exchange structure, not an attested Nahua practice: arrival in any system as a debtor to it, and the first portion given before the rest is used.
 
 **Plain words**
-In the ritual structure Maffie describes, knowledge is received through an exchange, and the exchange is morally loaded. The modern adaptation keeps only the posture: arrive in any system as a debtor to it, and give the first hour before you take. What you give first quietly changes what the rest of the day is worth.
+In the ritual structure Maffie describes, knowledge is received through an exchange, and the exchange is morally loaded. The modern adaptation keeps only the posture: arrive in any system as a debtor to it, and give the first hour before you take. The exercise is the page's proposal, not an attested practice with a tested outcome.
 
 *For example:* Someone takes the first hour of the day, before the inbox, for the thing they would otherwise never get to, and finds the offering quietly re-prices the whole day.
 

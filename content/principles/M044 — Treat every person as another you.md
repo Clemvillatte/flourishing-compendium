@@ -15,7 +15,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 This page uses "I am another you" as a contemporary ethical prompt, not as a verified pre-Columbian Maya greeting. A 2015 article on [Popol Mayab'](https://popol-mayab.org/2015/09/06/in-lakech/) describes the in lak'ech / hala ken greeting as "acuñado por Domingo Martínez Paredes en 1964" ("coined by Domingo Martínez Parédez in 1964"; translation here), in his book Hunab Ku: síntesis del pensamiento filosófico maya. The exercise below is this page's adaptation: consider the other person's needs and point of view before replying.
 
 **Plain words**
-The phrase's history is modern: a scholar coined the pairing in 1964, and its use as a greeting is contemporary, not ancient. What it offers is a prompt, not a metaphysics: before you answer someone, spend a second inside their standpoint. The prompt is cheap, it works in traffic as well as in arguments, and it makes no claims it cannot keep.
+The phrase's history is modern on the account the page relies on: a 2015 article traces the pairing to a 1964 book, and its use as a greeting is contemporary rather than ancient. What it offers is a prompt, not a metaphysics: before you answer someone, spend a second inside their standpoint, then choose your next sentence.
 
 *For example:* The driver who lets the merging car in, because that car is a person running late to something that matters to them, the way you are, and the whole commute runs on that arithmetic.
 

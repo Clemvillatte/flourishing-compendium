@@ -18,7 +18,7 @@ Ryan and Deci identify several aspects of motivation:
 
 Vallerand's hierarchical model distinguishes a general motivational orientation, motivation within a life domain, and motivation during a particular activity. The middle level deals with "broad life contexts such as interpersonal relationships, education, work, religion, and others" (Guay, Mageau & Vallerand, 2003). The framing below follows from this structure: describe motivation at a specific level rather than treating it as a single feeling you either have or lack.
 
-**Plain words** Motivation is not one feeling you either have or lack; the researchers define it as energy, direction, persistence and equifinality, and they locate it at levels, from a whole-life orientation down to a single task. So the practical entry point is the smallest level: take the thing you cannot start, and name the parts of your motivation toward it. The naming is the work; the fixing is separate.
+**Plain words** Motivation is not a single feeling you either have or lack; the studies behind this page treat it as something with levels and parts, from a whole-life orientation down to one task. So start with the activity you are struggling to begin, and describe your motivation toward that one task. Describing the parts is a more specific move than deciding you are unmotivated in every part of life.
 
 *For example:* A student who cannot start studying describes her motivation toward that one course: no goal in it that matters to her, no fixed time slot in the week, and a phone on the desk. Naming the parts is the exercise; whether the changes then help is for her to observe.
 

@@ -15,7 +15,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only rise from sleep, we come only to dream, it is ahnelli [unrooted, inauthentic, untrue], it is ahnelli that we come on earth to live" (trans. León-Portilla, 1992, p. 153, in Maffie, "Pre-Columbian Philosophies", Companion excerpt). Maffie's reading: Nahua philosophers "conceived the dreamlike illusoriness of earthly existence in epistemological – not ontological – terms" — the ordinary human condition is to misperceive, "not the Platonic-style metaphysical point that earthly existence is ontologically substandard." The exercise below is this page's adaptation of the question.
 
 **Plain words**
-The song says we only rise from sleep, we come only to dream, and its word for our living, ahnelli, means unrooted. The commentator's reading matters: the dreamlikeness is a fact about how we perceive, not a claim that the world is fake. Held that way the question becomes an audit tool, and whatever it quietly devalues in a life was probably rented, not owned.
+The song says we only rise from sleep, we come only to dream, and its word for our living, ahnelli, means unrooted. Maffie's reading is that the dreamlikeness describes how humans perceive, not a claim that the world is fake. Held that way the question stays askable at intervals, and what it turns up is for each person to weigh.
 
 *For example:* Someone in a full status race reads the question once a year, "is any of this real the way I treat it as real?", and each time something expensive and hollow quietly falls off the list.
 
