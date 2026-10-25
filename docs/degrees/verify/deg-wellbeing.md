@@ -812,9 +812,11 @@ standard.
   Workshop channel (https://www.youtube.com/watch?v=FDbgoVx1Q7Q); watch
   page opened 2026-10-25. Given 21 April 2022.
 - Duration: 1:17:29 (watch page, 2026-10-25).
-- Instructor credentials: Tine De Moor, commons and collective-action
-  scholar (per the uploader description; institutional page not opened
-  this session).
+- Instructor credentials: prof.dr. Tine De Moor, Full Professor,
+  Department of Business-Society Management, Rotterdam School of
+  Management, Erasmus University (EUR page opened 2026-10-25,
+  https://www.eur.nl/people/tine-de-moor; PhD in History from Ghent
+  University).
 - Language: English.
 - Content coverage (uploader description, read 2026-10-25):
   institutions for collective action over the past millennium —
