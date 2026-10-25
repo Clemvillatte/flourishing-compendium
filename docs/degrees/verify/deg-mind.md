@@ -182,11 +182,19 @@ second batch below (verifier-pplx-1025g, 2026-10-25).
   checked 2026-10-25). Freely playable, no paywall.
 - Duration: 51:41 printed in the player (2026-10-25).
 - Instructor credentials: Prof. Joseph LeDoux of New York University, per
-  the recording's own description (opened 2026-10-25). His detailed NYU
-  titles (Henry and Lucy Moses Professor of Science, University Professor,
-  now Professor Emeritus of Neural Science) were seen only in search
-  results this session; the NYU faculty page was robots-blocked and was
-  not opened.
+  the recording's own description (opened 2026-10-25). Follow-up
+  (2026-10-25): the Wikipedia REST summary endpoint was opened
+  (https://en.wikipedia.org/api/rest_v1/page/summary/Joseph_LeDoux,
+  opened 2026-10-25 — tertiary source) and states he is the "Henry and
+  Lucy Moses Professor of Science at New York University, and
+  director of the Emotional Brain Institute"; an archived snapshot of
+  his NYU lab homepage (http://web.archive.org/web/20251127210843/https://www.cns.nyu.edu/ledoux/,
+  snapshot dated 2025-11-27, opened 2026-10-25) confirms the LeDoux
+  Lab at NYU's Center for Neural Science (the lab website notes it
+  closed 31 August 2023). The NYU faculty page itself remains
+  robots-blocked/bot-walled and was not opened; the "University
+  Professor" and "Professor Emeritus of Neural Science" titles seen
+  in earlier search results remain unverified leads.
 - Language: English. The watch page offers a transcript panel.
 - Event: Stockholm Psychiatry Lecture, Karolinska Institutet, 2 February
   2011, published 9 February 2011.
