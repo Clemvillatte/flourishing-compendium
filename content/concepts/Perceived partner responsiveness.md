@@ -14,7 +14,7 @@ Perceived partner responsiveness is the belief that a relationship partner under
 
 The chapter presents the intimacy model's core claim: intimacy is defined "in terms of the perception of partner responsiveness: the perception by the self-disclosing partner that the other understands, validates, and cares for oneself" ([Reis & Clark 2013, PDF p. 5](https://anthonyongphd.wordpress.com/wp-content/uploads/2018/01/reis-clark-2013.pdf)). And the chapter is explicit that the perception is two-sided: it "reflects the properties of actual interactions as well as the individual's motivated construal of those interactions" ([Reis & Clark 2013, PDF p. 5](https://anthonyongphd.wordpress.com/wp-content/uploads/2018/01/reis-clark-2013.pdf)). The same partner behaviour can be read differently by different people, so the construct studies the reading as much as the behaviour.
 
-The three elements name what the discloser is to feel: understood, validated, cared for. The chapter's caution is that this perception has two sources, the actual interaction and the motivated construal of it. Studies of the construct therefore keep both sources in view: what the partner does, and how the discloser reads it.
+The three elements name what the discloser is to feel: understood, validated, cared for. The chapter's caution is that this perception has two sources, the actual interaction and the motivated construal of it. What a partner does and how it is read can each carry part of the result.
 
 ## Related concepts
 
