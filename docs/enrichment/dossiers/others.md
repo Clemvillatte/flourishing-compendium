@@ -164,7 +164,7 @@ The shared question: when another person has injured you, what do you owe them i
 
 The Gospel commands the other response, and gives its reason in the next verse:
 
-> "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
+> "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy." "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
 
 > "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good," ([Matthew 5.45 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
 

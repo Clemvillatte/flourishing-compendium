@@ -11399,7 +11399,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;\" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))",
+          "x": "\"Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.\" \"But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;\" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))",
           "s": null
         },
         {
