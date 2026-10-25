@@ -51,5 +51,7 @@
    "from": "worker-pplx-brownmermaid-1025a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T06:07:39+00:00"
 }
