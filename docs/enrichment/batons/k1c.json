@@ -27,5 +27,7 @@
    "from": "worker-k1c-1025b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-25T12:30:58+00:00"
 }
