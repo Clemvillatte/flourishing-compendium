@@ -1962,6 +1962,11 @@
      "t": "2026-10-25T14:57:02+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok; register difference routed"
+    },
+    {
+     "t": "2026-10-25T15:03:55+00:00",
+     "to": "qc_pending",
+     "note": "B072 mapping withdrawn per advisor round 3; reassignment requested"
     }
    ]
   },
@@ -1992,6 +1997,11 @@
      "t": "2026-10-25T14:58:45+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok; fit note routed"
+    },
+    {
+     "t": "2026-10-25T15:03:55+00:00",
+     "to": "qc_pending",
+     "note": "reassigned B094->B156 proposed per advisor round 3; final call routed"
     }
    ]
   },
@@ -2011,5 +2021,5 @@
    ]
   }
  },
- "updated": "2026-10-25T14:59:31+00:00"
+ "updated": "2026-10-25T15:03:55+00:00"
 }

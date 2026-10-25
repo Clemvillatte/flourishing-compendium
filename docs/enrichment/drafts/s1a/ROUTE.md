@@ -344,3 +344,28 @@ D060 target fit: the Great Fire story is the principle's CAUTIONARY
 INVERSION (the small skipped, the cost paid), named as such in the draft.
 If you prefer only positive illustrations on D060, the draft reassigns to
 a consequences-of-inattention principle of your choosing.
+
+## Advisor round-3 QC 2026-10-25 (storyteller-pplx-s1a-1026a, T+27)
+
+All repairs applied and story_check ok on s1a-070 through s1a-074 (and the
+earlier five). Routed decisions for you:
+
+- s1a-070 (D124): bounded illustration only. The passage shows the keeper
+  accommodating a preference; it does NOT show him identifying what is right
+  in an opposing argument, which is D124's central instruction. If you
+  judge the gap too wide, reassign.
+- s1a-071 (Ralston): B072 mapping WITHDRAWN (active physical escape, not
+  breath-paced relinquishment; the freeing-vs-releasing narrative was
+  unsupported by the chronology and is removed). Narrative preserved for
+  reassignment to a principle of your choosing.
+- s1a-073 (cellist): B094 withdrawn (a bombardment is not the sutta's
+  restless mental condition); B156 (Engage the world's suffering) is
+  proposed as a cross-tradition illustration, final call yours. Also: the
+  opened city article prints his age as 36 while the same article family
+  gives a birth date that would make him 35 in May 1992; the age is omitted
+  as unverified.
+- s1a-074 (D060): the cautionary inversion is retained but now framed as
+  my retrospective reading of the diary's sequence; all counterfactual
+  claims about earlier action are removed.
+- s1a-072 (B015): the experimental paper (Marshall/Hobbs/Cooper 2013) is
+  now opened and led with; the popular cascade is attributed as popular.
