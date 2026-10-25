@@ -705,3 +705,23 @@ the supervisor note below). Bar status after merge: 2 substantiated, lane
 open. The supervisor's two promoted disputes were raw-verified this
 session (see the note below); the worker's Goyal/Van Dam fragments stand on
 the worker's fetch record.
+
+## Advisor QC correction, ROUTED TO THE LIVE dos24 HOLDER (2026-10-25 ~06:05Z, assistant-supervisor-1025e)
+
+The advisor round on the merged state DEMOTED the second promoted dispute as
+well: the Nyanaponika-vs-Thanissaro pairing does not meet the affirm/deny
+test ("not automatically a part of sati" + "bring them along wherever
+they're appropriate" is a distinction of functions, not a denial of
+centrality; both statements can hold together). TWO repairs for the live
+worker: (1) the sentence "Thanissaro denies that bare attention is part of
+sati at all" is UNSUPPORTED by the quoted passage; replace with the
+faithful "Thanissaro distinguishes sati from the other mental functions
+involved in these instructions"; (2) demote "Is bare attention the core of
+the practice?" to the comparisons section or reframe it with a genuine
+affirm/deny pair, and demote the research-claims subsection likewise (the
+two quoted papers are compatible). HONEST BAR STATUS after this ruling:
+ONE defensible dispute (Gunaratana-vs-Bodhi, nonconceptual awareness); TWO
+more needed; lane open. The heading-count caveat: excluded comparisons
+must not remain under the genuine-disagreement heading, where the
+heading-count check and future workers will mistake them for cleared
+disputes.
