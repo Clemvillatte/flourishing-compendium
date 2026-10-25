@@ -1,11 +1,11 @@
 {
  "band": "deg-wol-greek",
  "kind": "degree",
- "holder": "worker-pplx-greek-1",
- "phase": "phase-0-pilot-repair (advisor final review passed the pedagogical design; formal gates and Phase 0 stop-gate remain)",
+ "holder": "worker-pplx-greek-1025m",
+ "phase": "phase-0-pilot-repair (advisor final review passed; formal gates and Phase 0 stop-gate remain)",
  "modules": {
   "mod-phil-1": "rebuilt and repaired through advisor rounds 2-4; final advisor review passed the pedagogical design (positive independent design review recorded in pilots/mod-phil-1.md); status DRAFT NOT CLEARED pending the formal gate sequence; workload 5h06m"
  },
- "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): baton claimed; mod-phil-1 rebuilt, repaired through four advisor rounds and passed the advisor's final pedagogical-design review (all attached sources verified, AR-01 and AR-06 transcript-classified, ST-03 held as unattached candidate); scope benchmarked against MIT OCW 24.200, Yale PHIL S125E, Stanford PHIL100 (pre-Socratics exclusion flagged to strategist/owner); superseding coverage matrix in the ledger; Socratic-method row a gap; legacy modules 2-3 harvest manifest recorded with a correction against the verifier file (AR-05/ST-01/M05-XP-01/M05-XP-02 content classification pending; ST-05 duration unprinted, blocking gap; ST-05 and description-only recordings not transcript-readable from this session's environment). Full production closed behind the Phase 0 stop-gate.",
- "updated": "2026-10-25T08:43:00+00:00"
+ "notes": "Owner directive 2026-10-25 band. Session 1 (worker-pplx-greek-1): mod-phil-1 rebuilt and passed the advisor's final pedagogical-design review (DRAFT NOT CLEARED pending formal gates); scope benchmarked; legacy harvest manifest recorded. Session 2 (worker-pplx-greek-1025m, stale takeover): watch pages for AR-05, ST-01, M05-XP-01 and M05-XP-02 read from this environment (prior session was bot-walled) — content classified from the uploader's own session descriptions; all four match their proposed topics, with M05-XP-01 broader than the 'Epicurean pleasure doctrine' label (broaden at rebuild) and M05-XP-02's modes coverage unconfirmed from the description; timedtext transcripts still unavailable, so transcript-level classification remains open; duration mismatches AR-05 (page 1:15:33 vs file 1:15:00) and ST-01 (page 29:28 vs file 29:09) flagged to deg-verify-b. Remaining: Socratic-method module design and module production stay behind the Phase 0 stop-gate; pre-Socratics exclusion awaits the strategist's ruling; ST-05 duration still unprinted anywhere (blocking workload arithmetic).",
+ "updated": "2026-10-25T09:20:00+00:00"
 }

@@ -140,9 +140,16 @@ the column now defers to this correction. The fcAcademyData records still print
 is the verifier file:
 
 - AR-05: 1:15:00, verified-video (Adam Rosenfeld, Senior Lecturer in
-  Philosophy, UNCG; his own PHI 251 course session).
+  Philosophy, UNCG; his own PHI 251 course session). Content classified
+  from the uploader's session description read off the live watch page
+  (2026-10-25, worker-pplx-greek-1025m — see the ledger); transcript
+  still unread. Watch page prints 1:15:33 against this file's 1:15:00
+  (flagged to deg-verify-b).
 - ST-01: 29:09, verified-video (Julia Annas, Regents Professor of
-  Philosophy, Emerita, University of Arizona).
+  Philosophy, Emerita, University of Arizona). Content classified from
+  the uploader's talk description read off the live watch page
+  (2026-10-25 — see the ledger); transcript still unread. Watch page
+  prints 29:28 against this file's 29:09 (flagged to deg-verify-b).
 - ST-02: 49:57, verified-video (A. A. Long, UC Berkeley, emeritus).
 - ST-04: 1:01:00, verified-video (Myles Burnyeat; a scholarly lecture on
   happiness and tranquility across Aristotle, Democritus, Pyrrho and
@@ -153,7 +160,16 @@ is the verifier file:
   transcript (see the ledger, 2026-10-25), but the Gresham page prints no
   duration: blocking gap for workload arithmetic until a duration prints.
 - M05-XP-01: 1:15:39, verified-video (Epicurus, Rosenfeld PHI 251).
+  Content classified from the uploader's session description read off
+  the live watch page (2026-10-25 — see the ledger): the session covers
+  Epicurean natural philosophy and ethics together, broader than the
+  manifest's "Epicurean pleasure doctrine" label; broaden at rebuild.
+  Transcript still unread.
 - M05-XP-02: 1:15:32, verified-video (Pyrrhonic Skepticism, PHI 251).
+  Content classified from the uploader's session description read off
+  the live watch page (2026-10-25 — see the ledger); the description
+  does not name the modes, so modes coverage stays unconfirmed pending
+  a transcript. Transcript still unread.
 - M05-XP-03: 1:02:42, verified-video (Cicero, On the Nature of Gods
   book 1, Gregory B. Sadler).
 - SRC-M25-001: 1:31:08 verified (record prints 1:31:07; mismatch

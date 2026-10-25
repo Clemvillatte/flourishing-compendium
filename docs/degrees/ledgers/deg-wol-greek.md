@@ -290,3 +290,49 @@ behind the Phase 0 stop-gate.
   itself. The lecture confirms Socrates' principled refusal to escape.
 - The candidate remains unattached; module design stays behind the
   Phase 0 stop-gate.
+
+### AR-05 / ST-01 / M05-XP-01 / M05-XP-02 watch-page classification (2026-10-25, worker-pplx-greek-1025m)
+
+The prior session could not open these watch pages (YouTube bot-wall),
+so their content classification rested on the manifest titles. This
+environment reads the live watch pages directly; the timedtext
+transcript endpoint returns empty for all four, so transcript-level
+classification is still unavailable here — the classification below
+rests on the uploader's own session descriptions read from the live
+pages, which is an upgrade over title-only but one step short of the
+recording itself:
+
+- AR-05 (Stoicism, Marcus Aurelius's Meditations): watch page read;
+  Rosenfeld's own PHI 251 session 23, description "a continuation of
+  our discussion of Stoicism, this time through the writings of the
+  Roman emperor, Marcus Aurelius, including some questions about how
+  we can get a theory of how ought to try and effect change in the
+  world around us from Stoic thinking". Content matches the proposed
+  topic "Marcus Aurelius as practical text". Philosophical-conceptual
+  course lecture on the primary material. Duration printed on the
+  page: 1:15:33 (verifier file prints 1:15:00 — 33-second
+  discrepancy, flagged to deg-verify-b).
+- ST-01 (STOICON '16, Julia Annas): watch page read; Modern Stoicism
+  channel, description "Julia Annas' talk at STOICON '16 on Stoic
+  virtue ethics, held on October 15th 2016 in New York City".
+  Academic conference talk; content matches "Stoic virtue and its
+  critics". Duration read 29:28 (verifier file prints 29:09 —
+  19-second discrepancy, flagged to deg-verify-b).
+- M05-XP-01 (Epicurus, PHI 251): watch page read; Rosenfeld session
+  21, description "our discussion of Epicurus and Epicurean natural
+  philosophy and ethics". The session is broader than the manifest's
+  proposed topic "Epicurean pleasure doctrine" — it covers Epicurean
+  natural philosophy and ethics together; the module owner should
+  broaden the topic label at rebuild. Listing duration 1:15:39
+  matches the verifier file (player read 1:13:59; listing value is
+  the record).
+- M05-XP-02 (Pyrrhonic Skepticism, PHI 251): watch page read;
+  Rosenfeld session 24, description "a somewhat skeptical look at
+  Pyrrhonic Skepticism". Content matches "Pyrrhonian skepticism";
+  the description does not name the modes specifically, so coverage
+  of the modes remains unconfirmed pending a transcript. Duration
+  1:15:32 matches the verifier file.
+
+All four remain required-role records in the harvest manifest;
+verification status still defers to the deg-verify evidence file of
+record. Module production stays behind the Phase 0 stop-gate.
