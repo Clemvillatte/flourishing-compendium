@@ -2741,3 +2741,20 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   guarded by t1a.json; dos9 decorative-metaphor line; ST033
   story-band seed errors (pre-existing); exemplar recasts await
   owner voice-validation.
+
+## Supervisor addendum (passes 22-23, 2026-10-25 ~01:20 UTC)
+
+- Pass 22: advisor-review corrections applied to my own pass-19/20
+  documentation (invented cause withdrawn; GF L171 link description
+  corrected; cold-read entries scoped as editorial; motivation
+  compiled payload rebuilt — it still carried the stale phrase).
+- Pass 23: RC keeps substantiated against opened cards (L168
+  verbatim from ST138; L100 fair compression of P119's own
+  gap-to-fill exercise); L5's contradictory simile removed
+  ("protected like a rare condition" vs the paragraph's own denial
+  that collectedness is a rare condition). The right-concentration
+  dispositions are closed as documented.
+- The full-text card-fidelity sweep comparison remains OPEN for the
+  owner (prefix checks only). Workers dos4 and dos17 self-corrected
+  stale figures in their own sweep notes this hour — the pattern is
+  known and their owners are on it.
