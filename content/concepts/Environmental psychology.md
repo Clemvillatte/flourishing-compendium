@@ -13,6 +13,18 @@ Environmental psychology studies the transactions between people and their physi
 >
 > (Gifford, Steg and Reser, "Environmental Psychology", 2011, [chapter PDF](https://www.rug.nl/staff/e.m.steg/giffordstegreser2011.pdf))
 
+### The field's three levels
+
+The chapter sorts the work into levels: "Environmental psychologists work at three levels of analysis: (a) fundamental psychological processes like perception of the environment, spatial cognition, and personality as they filter and structure human experience and behavior, (b) the management of social space: personal space, territoriality, crowding, and privacy, and the physical setting aspects of complex everyday behaviors, such as working, learning, living in a residence and community, and (c) human interactions with nature and the role of psychology in climate change" (Gifford, Steg and Reser 2011).
+
+### What sets it apart
+
+The field's identity is a commitment list: "what sets environmental psychology apart is its commitment to research and practice that subscribe to these goals and principles: (a) Improve the built environment and stewardship of natural resources, (b) Study everyday settings (or close simulations of them), (c) Consider person and setting as a holistic entity, (d) Recognize that individuals actively cope with and shape environments; they do not passively respond to environmental forces, (e) Work in conjunction with other disciplines" (Gifford, Steg and Reser 2011). The applied bent is explicit: "many environmental psychologists nevertheless prefer to apply knowledge," and "many enter into consultancy or public service to make good use of research findings for developing policy or solving local problems" (Gifford, Steg and Reser 2011).
+
+### How the field arrived
+
+"Scientific psychology began in the 19th century, but not until the end of the 1950s was psychology's range extended in any serious way to the physical environment" (Gifford, Steg and Reser 2011). The chapter's compressed history runs forward from there: "By mid-century, environmental psychology was a clearly established discipline with work on topics such as sensory isolation, personal space, and building design" (Gifford, Steg and Reser 2011).
+
 A sample of its experimental findings is Bratman and colleagues' PNAS study:
 
 > We show in healthy participants that a brief nature experience, a 90-min walk in a natural setting, decreases both self-reported rumination and neural activity in the subgenual prefrontal cortex (sgPFC), whereas a 90-min walk in an urban setting has no such effects on self-reported rumination or neural activity.
