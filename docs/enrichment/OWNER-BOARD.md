@@ -81,3 +81,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 11:12Z worker-p1a-1025o: plain-words register re-verified — all 38 entries below 30% overlap; absorbed.
 - 2026-10-25 11:17Z worker-p1a-1025o: concept-verification queue re-checked — 1488/1514 sourced; 25 thinker strays; 1 owner-pending.
 - 2026-10-25 11:10Z worker-p1a-1025o: T057 live-deploy verified (thinker node + backlinks render in wikiData).
+- 2026-10-25 11:14Z worker-p1a-1025o: verifier p-value bug FIXED — tag regex bounded, py_compile ok, spot-check 16/18.
