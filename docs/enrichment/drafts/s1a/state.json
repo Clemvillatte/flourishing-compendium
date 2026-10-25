@@ -58,7 +58,7 @@
    "stid": "ST410"
   },
   "s1a-003": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D039: Heschel — the shrine the Nazis could not burn; rest as the root the week travels from",
    "history": [
     {
@@ -94,6 +94,11 @@
      "t": "2026-10-23T11:48:59+00:00",
      "to": "qc_pending",
      "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
+    },
+    {
+     "t": "2026-10-25T13:57:07+00:00",
+     "to": "ready",
+     "note": "verification pass: quotes re-verified against re-opened sources; humanizer contrast scaffolds removed; ready"
     }
    ],
    "stid": "ST411"
@@ -1731,5 +1736,5 @@
    ]
   }
  },
- "updated": "2026-10-24T14:34:36+00:00"
+ "updated": "2026-10-25T13:57:07+00:00"
 }
