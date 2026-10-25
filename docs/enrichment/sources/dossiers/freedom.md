@@ -291,3 +291,50 @@ broader frame..." paragraph is merged into the waiter paragraph
 that follows it, producing one substantive paragraph. Visible-text
 word counts checked; "density 0" is not paragraph-length
 validation and is not claimed as one here.
+
+## Supervisor disagreement-research pass and publication decision (supervisor-pplx-ef15b6c9, 2026-10-25)
+
+The prior session's exception request (zero substantiated disagreements)
+was taken up directly. Two genuine oppositions were researched and added
+in a new `## Where the traditions genuinely disagree` section:
+
+1. Rousseau vs Constant. Carriers opened this session: Social Contract
+   Book I ch. 7 (Cole trans., Project Gutenberg 46333-h, the dossier's
+   existing carrier): "Whoever refuses to obey the general will shall
+   be compelled to do so by the whole body. This means nothing less
+   than that he will be forced to be free..." confirmed verbatim; the
+   same page re-confirmed the ch. 8 "mere impulse of appetite is
+   slavery" sentence already quoted. Constant, The Liberty of the
+   Ancients Compared with that of the Moderns (1820 translation,
+   archive.org PDF, item benjamin-constant-the-liberty-of-the-ancients-
+   compared-with-that-of-the-moderns-1820): "the individual, almost
+   always sovereign in public affairs, was a slave in all his private
+   relations" and "by transposing into our modern age an extent of
+   social power, of collective sovereignty, which belonged to other
+   centuries, this sublime genius, animated by the purest love of
+   liberty, has nevertheless furnished deadly pretexts for more than
+   one kind of tyranny" confirmed verbatim by eye.
+   DOSSIER_QUOTE_VERIFY EXCEPTION: the archive.org PDF carrier cannot
+   be parsed by the tool (2 not-found); both spans were verified
+   against the carrier by eye this session and are recorded here.
+2. Skinner vs Sartre/Frankl. Carrier opened this session: Cambridge
+   University Press excerpt PDF (9781108927628) quoting Beyond Freedom
+   and Dignity pp. 199-200: "What is being abolished is autonomous
+   man - the inner man, the homunculus... Science does not dehumanize
+   man, it de-homunculizes him" confirmed verbatim. The Sartre side is
+   the SEP passage already on the page; the Frankl side is the
+   Logotherapy card's own carrier (Wikipedia, Logotherapy), linked.
+
+Remaining shortfall from the 3-5 bar: two substantiated headings, not
+three. SUPERVISOR DECISION: publish with exception. The third candidate
+(Fromm vs Sartre) was adjudicated twice in prior sessions as emphasis-
+not-contradiction and is not reopened; the Berlin-vs-Rousseau candidate
+is excluded by the dossier's deliberate boundary (the agency-side is
+held by Agency). Flagged for the owner in the baton clock-in and
+OWNER-BOARD.
+
+Checks after the edit: dossier_check.py exit 0 (17 card links, 9
+headers, 10 external carriers); density 0; quote_verify 11 checked /
+2 not found (both the Constant PDF spans, exception recorded above);
+prose em dashes outside quotes and card-title link text: zero (the
+three flagged lines all sit inside card-title link text).

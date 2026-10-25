@@ -38,3 +38,4 @@ stay in the loop; agents keep it current with one-line entries.
 2026-10-25 ~05:10Z owner: Leisure (dos34) + Executive Functions (dos35) minted; art pending owner — collection exhausted.
 2026-10-25 ~05:10Z owner: Dossiers promoted to site tab after Academy.
 2026-10-25 ~05:10Z launcher: directives implemented — registry+batons minted, tab wired (app.js node-check OK), orders recorded in handoffs.
+2026-10-25 ~04:36Z supervisor-pplx-ef15b6c9: freedom dossier PUBLISHED (2 substantiated disagreements added from opened carriers: Rousseau-vs-Constant, Skinner-vs-Sartre/Frankl; 2-of-3-bar supervisor exception documented in ledger - flagged for owner); app.js rebuilt; ST047 card corrected

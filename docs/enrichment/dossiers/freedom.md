@@ -54,6 +54,26 @@ Beauvoir widens the exercise past the single person. [The interdependence of fre
 
 > "To will oneself free is also to will others free. This will is not an abstract formula." ([Beauvoir, The Ethics of Ambiguity, Part II, ch. 1](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm))
 
+## Where the traditions genuinely disagree
+
+### Is the liberty that binds still liberty?
+
+Rousseau's answer is the one already on the page: the general will is the citizen's own will at its truest, so compelling the dissenter is rescue rather than coercion.
+
+> "Whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free; for this is the condition which, by giving each citizen to his country, secures him against all personal dependence." ([Rousseau, The Social Contract, Book I, ch. 7, Cole trans., Project Gutenberg](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm))
+
+Constant, writing in 1819 after the Revolution had run the experiment, answers that this is the ancient liberty wearing modern clothes, and that the clothes hide the knife. Among the ancients, he says, "the individual, almost always sovereign in public affairs, was a slave in all his private relations", and the modern transposition of that system is worse for being unwanted: "by transposing into our modern age an extent of social power, of collective sovereignty, which belonged to other centuries, this sublime genius, animated by the purest love of liberty, has nevertheless furnished deadly pretexts for more than one kind of tyranny" ([Constant, The Liberty of the Ancients Compared with that of the Moderns, 1820 translation, Internet Archive](https://dn760000.eu.archive.org/0/items/benjamin-constant-the-liberty-of-the-ancients-compared-with-that-of-the-moderns-1820/Benjamin%20Constant%20-%20The%20Liberty%20of%20the%20Ancients%20compared%20with%20that%20of%20the%20Moderns%20%5B1820%5D_text.pdf)).
+
+The disagreement turns on whether the binding law is genuinely one's own. Rousseau holds that self-prescribed law is the only real liberty, appetite being slavery; Constant holds that collective self-authorship has never yet existed without the social body swallowing the private life it was meant to secure. I lean toward Constant on the political scale and Rousseau on the personal one: the self-binding of the practice section works because binder and bound are the same person at the same time, which is exactly what a whole body compelling one of its members is not.
+
+### Does the choosing person exist?
+
+Skinner's behaviorism is the strongest opposition the exercise wing faces. The person Sartre defends and Frankl calls the last of the human freedoms is, for Skinner, a placeholder standing where the real causes have not yet been traced.
+
+> "What is being abolished is autonomous man – the inner man, the homunculus, the possessing demon, the man defended by the literatures of freedom and dignity. His abolition has long been overdue. Autonomous man is a device used to explain what we cannot explain in any other way. He has been constructed from our ignorance, and as our understanding increases, the very stuff of which he is composed vanishes. Science does not dehumanize man, it de-homunculizes him." ([Skinner, Beyond Freedom and Dignity, pp. 199-200, quoted in the Cambridge University Press excerpt](https://assets.cambridge.org/97811089/27628/excerpt/9781108927628_excerpt.pdf))
+
+Sartre's side is already stated above: no factual state can cause consciousness to respond to it in any one way, and [logotherapy](https://clemvillatte.github.io/flourishing-compendium/#card=Logotherapy)'s camp-version holds that the last of the human freedoms, the choice of one's own attitude in any given set of circumstances, is the one thing that cannot be taken ([Frankl, quoted in Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). The disagreement turns on what the word choice explains. Skinner reads it as a name for ignorance of the contingencies that produced the act; Sartre and Frankl read it as the one thing no fact supplies, the significance a person gives a situation. I lean toward a two-level answer: Skinner is right that unexplained is not uncaused, and Sartre is right that no fact specifies its own meaning, so the exercise wing keeps the meaning-level claim while conceding the mechanism-level one.
+
 ## Practice: the constraint, and what remains inside it
 
 ::Variation:: What tends to need varying on this theme is the lived-as-determined default, the reading of one's own situation as fixed fact end to end. The practices meet it by shrinking the frame to what is genuinely not up to you and enumerating what remains.
