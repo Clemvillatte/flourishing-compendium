@@ -290,3 +290,23 @@ quote_verify: 6 checked, 0 not found. Checker exit 0.
 STATE: worker WIP pending supervisor review - the advisor directed that
 this restructure not be marked complete until the card-gloss evidence gap
 is closed; the batch state records it as in-progress, not done.
+
+## Card spot-check (pass 6 addendum 2, worker-pplx-c3b0f2fb, 2026-10-25)
+
+Fifteen load-bearing right-speech glosses re-checked by this worker
+against their card files this session: Right speech (four abstentions,
+Abhaya timing test), Beneficial speech (MN 58 + BG 17.15), Wise speech
+criteria (MN 58 test), Speech gate (Abhaya canonical form, baby-on-lap),
+The three gates of speech (Rumi attribution problem, AN 5.198 relation),
+Deep listening, Active listening (Rogers-Farson 1957), Nonviolent
+communication (Rosenberg), Speech Act Theory (Austin), Conversational
+research (Mehl, EAR method), Parrhesia (Foucault), Truthfulness
+(Aristotle NE IV.7), Idle talk (Heidegger Gerede §35), Sparse speech
+(Daodejing 23), Thundering silence (Vimalakirti). All fifteen match
+their cards. Note: the phrase "attention as generosity, in the ear's
+register" removed from the dossier prose in the advisor pass is the Deep
+listening card's own wording; the removal stands as a prose choice and
+the gloss remains card-faithful without it. Together with the two
+advisor-flagged cards checked earlier (AF075, Spiral of Silence), the
+load-bearing glosses are now worker-re-read; the earlier card-fidelity
+sweep covers the rest. This narrows the dos20 evidence flag.
