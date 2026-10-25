@@ -685,3 +685,22 @@ two kernels' own framing ("not a friend in general but what the friend
 did"; "the mechanism of desire rather than the mood"). No text
 changed in this pass; the dossier's 14 audit candidates are all
 substantive content.
+
+## QC sample — partial, 2 of 7 flags eye-verified (2026-10-25 11:06Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
+
+quote_verify reported 7 not found. Verified this pass:
+- Emmons & McCullough 2003 JPSP PDF (emmons.faculty.ucdavis.edu): both
+  spans VERBATIM ("The gratitude-outlook groups exhibited heightened
+  well-being across several, though not all, of the outcome measures
+  across the 3 studies, relative to the comparison groups." and "Results
+  suggest that a conscious focus on blessings may have emotional and
+  interpersonal benefits."). The "Counting Blessings Versus Burdens,"
+  flag is a checker extraction artifact (paper-title fragment in the
+  citation, not a quotation). PDF carrier not machine-parseable by the
+  checker.
+Remaining 5 flags for the next QC pass, with carrier classes:
+- 3 on onlinelibrary.wiley.com abstract pages (JS-render class; verify via
+  journal-page fetches or the DOI).
+- 1 on a Debra College dspaces PDF (The Metaphysics... thesis; OCR class).
+- 1 on terebess.hu/english/coll2.pdf (PDF class).
+No dossier text changes needed for the two verified spans.
