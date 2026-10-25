@@ -32,7 +32,7 @@ Commitment: held under the commitment cards below; weakness of will and commitme
 
 [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): goals sort into two kinds with different well-being consequences.
 
-[Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved.
+[Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being, and one longitudinal study found their attainment brought no benefit and some links to ill-being.
 
 [Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index): assesses people's life goals.
 
