@@ -12,15 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 165** — Cut complexity back to simplicity
 
-The Daodejing's argument for simplicity is not aesthetic — it is causal. Chapter 19 is the boldest statement: renounce sageness and discard wisdom, renounce benevolence and discard righteousness, renounce artful contrivance and discard scheming for gain — and each of these drops produces an immediate improvement in the people (DDJ 19.1). The last line is the kicker: if we could renounce artful contrivance and discard scheming for gain, there would be no thieves nor robbers. Complexity does not merely confuse; it creates the very problems it claims to manage.
+In James Legge's translation, chapter 19 opens with three proposed renunciations and what follows from each: "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold. If we could renounce our benevolence and discard our righteousness, the people would again become filial and kindly. If we could renounce our artful contrivances and discard our (scheming for) gain, there would be no thieves nor robbers" ([Legge, *Tao Teh King* 19.1, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
 
-Chapter 57 repeats the claim with data-shaped rhetoric: the multiplication of prohibitive enactments increases the poverty of the people; the more implements to add to profit, the greater the disorder; the more crafty dexterity, the more strange contrivances; the more legislation, the more thieves (DDJ 57.2). And the sage's cure is subtraction, not addition: I will do nothing of purpose and the people will be transformed; I will manifest no ambition and the people will attain to the primitive simplicity (DDJ 57.3).
+Chapter 57 lists what multiplies as rules and tools multiply: "the multiplication of prohibitive enactments increases the poverty of the people; the more implements to add to their profit that the people have, the greater disorder is there in the state and clan; the more acts of crafty dexterity that men possess, the more do strange contrivances appear; the more display there is of legislation, the more thieves and robbers there are" (Legge 57.2, same text). It continues with a saying Legge introduces as "a sage has said": "I will do nothing (of purpose), and the people will be transformed of themselves ... I will manifest no ambition, and the people will of themselves attain to the primitive simplicity" (57.3).
 
-> "Those three methods (of government) Thought olden ways in elegance did fail And made these names their want of worth to veil; But simple views, and courses plain and true Would selfish ends and many lusts eschew." (Daodejing 19.2, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+> Those three methods (of government)
+> Thought olden ways in elegance did fail
+> And made these names their want of worth to veil;
+> But simple views, and courses plain and true
+> Would selfish ends and many lusts eschew.
+> (Legge, *Tao Teh King* 19.2, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** Every rule you add has a cost the rule itself hides. The Daodejing keeps proving this in a form that surprises modern readers: more prohibitions, more poverty. More tools, more disorder. More legislation, more thieves. The claim is not that rules are bad — it is that complexity has side effects, and the side effects are usually the thing you were trying to fix. Cut the system to the smallest version that still works, and you have not lost something; you have removed a disease you were treating as a feature.
+**Plain words** These chapters list costs that come with adding rules, tools and refinements. Legge's translation says that more prohibitions come with more poverty, more implements with more disorder, and more legislation with more thieves. My application, which is mine and not Laozi's: before adding a step to a system, ask whether the step solves a problem or only manages one the system created, and cut back to the smallest version that still works.
 
-*For example:* Two managers run the same onboarding process. One has nine steps with three approvals and two review meetings. The other has three steps and no approvals. A year later the first manager is still adding steps to fix problems introduced by the earlier steps. The second manager has not added anything — because nothing in the three steps generates a problem that needs a fourth step. The complexity is not the sophistication. It is the disease.
+*For example (my illustration):* An onboarding process with nine steps, three approvals and two review meetings keeps growing, because each new step produces cases that need another step. One with three steps and no approvals may have fewer such cases. I have no data on either, and the point is only the question to ask.
+
+## Sources
+
+- [James Legge (trans.), *The Tao Teh King, or the Tao and its Characteristics*, chapters 19 and 57, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): all quotations above, checked against the text. The page previously described chapter 19 as having an "immediate" effect and chapter 57 as "data-shaped"; those phrases are not in Legge.
 
 ## Psychology parallels
 

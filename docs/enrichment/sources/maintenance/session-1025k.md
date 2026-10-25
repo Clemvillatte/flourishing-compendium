@@ -111,3 +111,6 @@
 - Opened Islands of History page (León-Portilla, Flower and Song). Both Nahuatl poems verified. Page said 'León-Portilla's translation'; the article credits no translator for the passage and attributes the elegy to Nezahualcoyotl (Cantares Mexicanos fol. 17r). Corrected; example labelled.
 ## P150 Accept incompleteness
 - Dewey ch.4 quote verified earlier (Gutenberg 852). Removed invented three-year dating narrative claims; added Sources.
+
+## D165 Cut complexity back to simplicity
+- Legge Tao Teh King ch. 19 and 57 verified in Gutenberg 216 text; replaced paraphrase-as-claim with verbatim quotes, labelled the onboarding example as an unsupported illustration, removed 'immediate' and 'data-shaped' framings. Legge notes 57.3 as 'a sage has said' (quoted saying), now reflected.
