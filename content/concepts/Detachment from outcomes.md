@@ -15,13 +15,13 @@ Detachment from outcomes is the Bhagavad Gita's instruction to act from duty whi
 
 The closing line guards against the opposite error: detachment is not withdrawal from duty. The principle [[Y111 — Renounce the inner claim, not the outer duty]] reads the Gita's renunciation texts the same way: give up the lien on the fruit, keep the activity. Renouncing the claim on results is not renouncing the act itself.
 
-### The modern cousin
+### Detachment from work
 
-Contemporary psychology uses a nearby word for a smaller thing. In recovery research, psychological detachment from work means mentally disengaging from job demands during off-hours, and it is one of four recovery experiences measured by the Recovery Experience Questionnaire:
+Contemporary psychology uses the same word for a different thing. In recovery research, psychological detachment from work means mentally disengaging from job demands during off-hours, and it is one of four recovery experiences measured by the Recovery Experience Questionnaire:
 
 > "Confirmatory factor analyses with a calibration and a cross-validation sample (total N=930) showed that four recovery experiences can be differentiated: psychological detachment from work, relaxation, mastery, and control (Study 2)." ([Sonnentag and Fritz 2007](https://pubmed.ncbi.nlm.nih.gov/17638488/))
 
-The overlap is real but partial: the Gita addresses the actor's claim on outcomes while acting; the questionnaire addresses the worker's rumination after hours. Both locate relief in releasing what cannot be controlled, one at the point of duty, the other at the point of rest.
+The two uses are distinct: the Gita concerns the actor's attachment to the results of action, while the questionnaire concerns how people recuperate from work during leisure time. They can support each other in practice, since an evening spent rehearsing the day's unfinished outcomes is an evening that neither acts nor recovers.
 
 ### In the compendium
 
@@ -29,7 +29,7 @@ The overlap is real but partial: the Gita addresses the actor's claim on outcome
 - [[P104 — Perfect the process, not the product]] — process priority over product
 - [[AF059 — Work with disappointment — it is the gap between expectation and reality]] — the expectation gap detachment works on
 - [[D066 — Withdraw when the work is done]] — the Daoist counterpart: step back at completion
-- [[K152 — Committed action]] and [[K126 — Cognitive defusion]] — the acceptance-and-commitment kernels that separate valued action from its results
+- [[K152 — Committed action]] and [[K126 — Cognitive defusion]] — the acceptance-and-commitment kernels: one ties action to a chosen value rather than to how it lands, the other loosens the thoughts that keep score
 
 ## Related concepts
 
