@@ -327,7 +327,19 @@ Block A, fcAcademyData records for deg-philosophy modules.
   Stoicism for prospective Cambridge philosophy applicants. Classification rests on
   the host description; the owner may quote the transcript for tighter provenance.
 - Relevant segment: whole talk, 1:02:57.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:35Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=j5QVMN2chOI&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the masterclass's substance: Warren on modern
+  "broicism" and how it differs from ancient Stoicism; the ancient Stoics'
+  views on virtue, nature, determinism and emotion; why studying the
+  history of philosophy matters, including how historical texts can
+  train, inspire and perplex philosophers (Corpus Christi). The coverage
+  basis is upgraded from description-only to third-party transcript;
+  status upgraded verified-partial to verified-video per the house
+  convention, with the no-timestamps and no-playback caveats carried.
 
 ### SRC-M25-004: Epicurus for Today, Kurt Lampe (optional)
 
@@ -344,7 +356,22 @@ Block A, fcAcademyData records for deg-philosophy modules.
   contentment and satisfaction, the classification of desires as necessary,
   unnecessary and extravagant, and the value of friendship. Fits the module.
 - Relevant segment: whole lecture, 49:36.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT name the speaker, so Lampe's identity still rests on the host description — see the note below.
+  COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the 15:01:35Z clock reading):
+  the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=AZZ5G8KGM2E&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's TOPIC: an introduction to Epicureanism
+  and its sources; pleasure as contentment; the Epicurean categories of
+  necessary, unnecessary and extravagant desires and the difficulties of
+  applying them to personal emotional needs; Epicurean views of
+  friendship including reciprocity, care for friends and friendship's
+  role in happiness (North Staffs Classical Association). CAVEAT: the
+  retrieved text does not name Kurt Lampe, so the speaker-identity basis
+  is unchanged (host description); the status therefore remains
+  verified-partial rather than upgraded, with the no-timestamps and
+  no-playback caveats carried.
 
 ## mod-phil-4 required batch (verified 2026-10-25)
 
@@ -537,7 +564,22 @@ Block A, fcAcademyData records for deg-philosophy modules.
   legacies, with topics including domestic and international politics, race and
   ethnicity, and law. Fits mod-phil-4's pragmatism-and-society angle.
 - Relevant segment: whole lecture, 0:58:12.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-partial: identity, access and duration verified; coverage TOPIC-CONFIRMED against a third-party transcript, but the retrieved text does NOT name the speaker, so Kloppenberg's identity still rests on the host description — see the note below.
+  COVERAGE PARTIALLY CONFIRMED (worker-pplx-degfin-1, deg-verify-a,
+  2026-10-25, batched pass; written before the 15:01:35Z clock reading):
+  the third-party transcript route
+  (https://youtubetotranscript.com/transcript?v=Yp5PIqGefJ0&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's TOPIC: William James's pragmatism
+  and its influence on early 20th-century progressive politics including
+  Theodore Roosevelt, Woodrow Wilson, Herbert Croly and Walter
+  Lippmann; pragmatist contributions to social movements and ideas about
+  race, ethnicity, cultural pluralism and peace; later influence and
+  challenges to pragmatism in American public life (Harvard Divinity
+  School). CAVEAT: the retrieved text does not name James Kloppenberg,
+  so the speaker-identity basis is unchanged (host description); the
+  status therefore remains verified-partial rather than upgraded, with
+  the no-timestamps and no-playback caveats carried.
 
 ### M01-P12: William James and the Sick Soul (John Kaag, Harvard Divinity School)
 
@@ -554,7 +596,20 @@ Block A, fcAcademyData records for deg-philosophy modules.
   discusses James's 1895 lecture "Is Life Worth Living?" and why the founder of
   pragmatism can speak to anyone struggling to make a life worth living.
 - Relevant segment: whole lecture, 1:25:53.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:35Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=Z80EnEs-4oI&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: Kaag on James's "maybe"
+  answer to whether life is worth living; the sick soul's experience of
+  suffering; how uncertainty, meaningful experiences and possible unseen
+  dimensions of reality can sustain hope; James's views on religious
+  experience, the self, and finding meaning amid hardship (Harvard
+  Divinity School, 2 February 2023). The coverage basis is upgraded from
+  description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ## mod-phil-3 optional Cynicism series (verified 2026-10-25)
 
@@ -661,7 +716,19 @@ attach them with evidence on file.
   material covers God-world relation, ethics, Christology, spirituality and biblical
   studies.
 - Relevant segment: whole lecture, 47:18.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:35Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=JgWq5vbTD7A&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the lecture's substance: process thought
+  introduced through change, interconnectedness and the God-world
+  relation; applications to theology, ethics, Christology, spirituality,
+  biblical studies, preaching and Christian education (Center for Process
+  Studies, December 2015). The coverage basis is upgraded from
+  description-only to third-party transcript; status upgraded
+  verified-partial to verified-video per the house convention, with the
+  no-timestamps and no-playback caveats carried.
 
 ### M01-P09: Whitehead's Philosophy of Organism (Matthew D. Segall, Dartington Trust)
 
@@ -677,7 +744,21 @@ attach them with evidence on file.
   Philosophy of Organism as a protest against scientific materialism, exploring the
   major themes of Process and Reality.
 - Relevant segment: whole talk, 1:36:01.
-- Verification status: verified-partial: identity, access and duration verified; coverage rests only on the host/uploader description and must be confirmed against the recording or transcript before scheduling.
+- Verification status: verified-video (coverage basis: third-party transcript, 2026-10-25; no timestamps; playback not opened); identity, access and duration previously verified.
+  COVERAGE CONFIRMED (worker-pplx-degfin-1, deg-verify-a, 2026-10-25,
+  batched pass; written before the 15:01:35Z clock reading): the third-party
+  transcript route (https://youtubetotranscript.com/transcript?v=sRA-QoOGPPg&current_language_code=en,
+  opened 2026-10-25; no timestamps in the retrieved text; playback itself
+  not opened) confirms the talk's substance: Whitehead's career and the
+  scientific developments that led him toward metaphysics; his
+  process-oriented view of nature and experience including actual
+  occasions, creativity, concrescence and the relation between past and
+  present; science, education, human purpose, panpsychism and connections
+  with Eastern thought, followed by audience questions (Dartington
+  Trust). The coverage basis is upgraded from description-only to
+  third-party transcript; status upgraded verified-partial to
+  verified-video per the house convention, with the no-timestamps and
+  no-playback caveats carried.
 
 ### M01-P11: Spotlights 3.14, Process Studies and Imagination (Matthew Segall, Yale Forum)
 
