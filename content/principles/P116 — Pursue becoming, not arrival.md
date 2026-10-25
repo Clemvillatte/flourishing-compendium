@@ -12,22 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 116** — Pursue becoming, not arrival
 
-Maslow's core argument is that self-actualization is not a summit but a direction. He states it directly: "What a man can be, he must be" — the drive toward becoming what one is capable of is not optional or decorative; it is a need the same way food is a need ([Maslow, A Theory of Human Motivation, 1943, Archive.org](https://archive.org/stream/TheoryOfHumanMotivation/Maslow%20-%20A%20Theory%20of%20Human%20Motivation_djvu.txt)). And he is explicit that this cannot be an arrival: the actualized person is one for whom growth, not maintenance, is the ongoing task ([Toward a Psychology of Being, 1962, Internet Archive](https://archive.org/details/towardapsychology0000masl)).
+Carl Rogers reached this principle by watching people change in therapy. Those who moved furthest, he found, did not fit the usual words for a good life. He writes that "they would consider themselves insulted if they were described as 'adjusted,' and they would regard it as false if they were described as 'happy' or 'contented,' or even 'actualized.'" He then admits the next step is hard ("I find this not at all easy, and what follows is stated very tentatively") and offers this:
 
-Rogers takes the same point and gives it a name that carries the principle in its grammar: On Becoming a Person — not "On Having Become One." His formulation is that the good life is not a fixed state to be reached but a direction, a process ([Rogers 1961, ch. 5, Internet Archive](https://archive.org/details/onbecomingperson00carl)). The tense is the whole claim.
+> "The good life is a process, not a state of being. It is a direction, not a destination." (Carl Rogers, *On Becoming a Person*, 1961, ch. 9 "A Therapist's View of the Good Life: The Fully Functioning Person", p. 186)
 
-> "The good life is a process, not a state of being. It is a direction, not a destination." (Carl Rogers, On Becoming a Person, 1961, ch. 9, p. 186, [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf))
+Abraham Maslow's 1943 paper reads in the same direction. He describes the need for self-actualization as a tendency: "It refers to the desire for self-fulfillment, namely, to the tendency for him to become actualized in what he is potentially. This tendency might be phrased as the desire to become more and more what one is, to become everything that one is capable of becoming" ([Maslow, "A Theory of Human Motivation", *Psychological Review*, 1943](https://psychclassics.yorku.ca/Maslow/motivation.htm)). His own short version is "What a man can be, he must be."
 
-**Plain words** Two people can be equally skilled and equally successful and still be doing two different things. One is defending a version of themselves they have already decided on; the other is still asking what they are capable of next. The difference is tense, and ambition has nothing to do with it. The moment you stop becoming and start having-become, the thing you are defending is a snapshot. Rogers's title is the instruction: the book is called On Becoming a Person, not On Having Become One.
+**Plain words** A good life, on Rogers's account, is something you move through. If you decide you have arrived, you begin defending the person you already are. If you keep asking what you could become next, you stay in motion.
 
-*For example:* An artist who says "I have found my style" has just drawn the boundary of what they will next try. The artist who says "I am onto something" has not. Same talent, same track record, different tense — and a decade later only one of them is still interesting to themselves.
+*For example:* An artist who announces "I have found my style" has drawn a line around what they will try next. An artist who says "I'm onto something, let's see where it goes" keeps the line open. This is my illustration.
 
 ## Sources
 
-- [Maslow, A Theory of Human Motivation, 1943, Archive.org](https://archive.org/stream/TheoryOfHumanMotivation/Maslow%20-%20A%20Theory%20of%20Human%20Motivation_djvu.txt)
-- [Toward a Psychology of Being, 1962, Internet Archive](https://archive.org/details/towardapsychology0000masl)
-- [Rogers 1961, ch. 5, Internet Archive](https://archive.org/details/onbecomingperson00carl)
-- [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf)
+- [Carl R. Rogers, On Becoming a Person (1961), ch. 9, full-text PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf): the "process, not a state of being" passage on p. 186 and the preceding paragraph.
+- [Abraham H. Maslow, A Theory of Human Motivation (1943), Classics in the History of Psychology](https://psychclassics.yorku.ca/Maslow/motivation.htm): the section "The need for self-actualization".
 
 ## Stories
 - [[ST397 — Hokusai Asks for Five More Years|397. Hokusai Asks for Five More Years]]

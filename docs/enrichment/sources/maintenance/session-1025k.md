@@ -12,3 +12,7 @@
 ## P021 Treat ideas as tools, not mirrors
 - Carrier opened: Dewey, Quest for Certainty, archive.org questforcertaint029410mbp djvu text. Ch. V ("sound if the operations they direct give us the results which are required") and ch. X ("tool and only a tool") verified verbatim.
 - Repair: the "knives and forks" metaphor attributed to Dewey is not in the Quest text; it appears in Hauptli's lecture notes (FIU) as Rorty-style paraphrase, so it was removed. The SEP block quote was not re-opened and was dropped. Fixed a run-together Philosophy parallels line (no link lost).
+
+## P116 Pursue becoming, not arrival
+- Carriers opened: Rogers, On Becoming a Person (teots.org PDF text), ch. 9 p. 186 "process, not a state of being" and preceding paragraph (insulted/adjusted/actualized; "stated very tentatively") verified verbatim; Maslow 1943, psychclassics.yorku.ca/Maslow/motivation.htm, "What a man can be, he must be" and the self-actualization definition verified verbatim.
+- Repair: removed unverified Toward a Psychology of Being claim, wrong "ch. 5" Rogers link, "need the same way food is a need" overstatement, and the AI contrast scaffolds. Archive.org Maslow djvu link returned an error page, so replaced with Classics in the History of Psychology.
