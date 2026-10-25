@@ -15,7 +15,7 @@ The model's own restatement, from the 2016 reappraisal by Borbély and his co-au
 
 The homeostatic process is a debt that rises while awake and is paid down in sleep:
 
-> "Process S, representing sleep debt, increases during wakefulness and declines in sleep, within a value-range that oscillates with a periodicity that is normally entrained to day and night by the circadian pacemaker. When S approaches the range's lower boundary it triggers awakening; near the upper boundary it triggers sleep." (same article)
+> "Process S, representing sleep debt, increases during wakefulness and declines during sleep, within a value-range that oscillates with a periodicity that is normally entrained to day and night by the circadian pacemaker. When S approaches the range's lower boundary it triggers awakening; near the upper boundary it triggers sleep." (same article)
 
 The two processes are separable, and the article says how each is observed: NREM sleep EEG slow wave activity is the principal marker of S, while core body temperature and melatonin rhythms mark C; in animals whose circadian pacemaker was lesioned, sleep homeostasis kept running, which "indicates that the two processes are regulated separately" (same article).
 
