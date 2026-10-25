@@ -426,12 +426,25 @@ III.18 (slave benefits) against BGE 260's noble morality, with the lojong
 position now quoted from the opened carrier. Verification narration was
 moved off the page into this ledger entry.
 
-Checks after rewrite: dossier_check exit 0; density 0 dense;
-dossier_quote_verify 16 checked / 5 not-found, all five being the
-pre-existing Emmons (UC Davis PDF) and Algoe (Wiley abstract-page)
-carriers already documented in this ledger as fetch artifacts of the tool,
-not doubts about the quote; every span added or retained in this repair
-was verified by eye against the freshly fetched carrier text.
+Final status after the second advisor round: the section carries ONE
+substantiated disagreement (Q3, Seneca On Benefits III.18 vs the noble
+morality of BGE 260, with the lojong slogan quoted from its opened carrier
+as a related extension) and TWO supported contrasts honestly recorded as
+not-yet-demonstrated incompatibilities (Q1 Seneca's goodwill measure vs
+Aristotle's split measure; Q2 Aristotle's permanent-debt service vs the
+suttas' named repayment), each with its missing premise named on the page.
+The Seneca "neither with discernment nor with good will" span was
+relocated to I.6 (was first cited as I.5; advisor catch) and the BGE
+credit corrected to Zimmern throughout. Checks: dossier_check exit 0
+(17 headers, 10 external carriers); density 0 dense;
+dossier_quote_verify 20 checked / 6 not-found — 5 pre-existing Emmons and
+Algoe fetch artifacts already documented in this ledger, 1 parser
+artifact of the tool pairing quote-mark delimiters in the lojong sentence
+(same class as the standing Algoe artifact); every genuine quoted span in
+the repair was verified by eye against the freshly fetched carrier text.
+REMAINING (repair-pass lane): two more substantiated disagreement
+questions needed to reach the 3-5 bar; the two contrasts above name their
+missing premises.
 
 Addendum (same session): the dossier_quote_verify "not found" for the span
 between the two quoted fragments in the lojong sentence ("
