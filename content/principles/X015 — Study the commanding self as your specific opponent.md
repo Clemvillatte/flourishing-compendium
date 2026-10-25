@@ -20,7 +20,7 @@ This verse is the root of the term nafs al-ammāra. The same page explains that 
 
 The verse is spoken by Joseph, and it presents the commanding self as a standing tendency of the human soul that mercy can overcome. The entry's account of the self as a "specific, adaptive negotiator" with disguises such as piety, victimhood, fatigue and charm is its own development, and it was not found in the sources opened. Al-Ghazali's treatment in the Ihya' is not covered here, so the entry's citation to it is unverified.
 
-**Plain words** The Sufi tradition takes a verse from the Qur'an and names a part of the self that keeps urging you toward what you know is not good. Naming it makes it something you can watch, instead of a general sense of weakness. How it behaves, and in what costumes, is for each person to observe.
+**Plain words** The Sufi tradition takes a verse from the Qur'an and names a part of the self that keeps urging a person toward what they know is not good. Naming it makes it something to watch, instead of a general sense of weakness. How it behaves, and in what costumes, is for each person to observe.
 
 *For example:* Someone notices that the voice saying "I deserve this treat" is loudest right after they have done something admirable, and stops being fooled by the timing.
 
