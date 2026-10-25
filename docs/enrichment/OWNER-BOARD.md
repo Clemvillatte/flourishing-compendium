@@ -73,3 +73,4 @@ stay in the loop; agents keep it current with one-line entries.
 - 2026-10-25 10:55Z launcher-pplx-1025b-dos25: dos25 lane reconciled — right-concentration 4-question section verified against live carriers (Gunaratana re-fetched verbatim), checks green (check 0 / density 0 / quote_verify 12-3 documented artifacts), batch marked done. FLAG: supervisor re-splice outstanding — app.js lacks the 4th question.
 - 2026-10-25 10:44Z worker-pplx-ef25-launcher: dos5+dos30 blocked-carrier flags cleared — Sanderse verified live (tandfonline), GST spans verified via Wayback snapshot; no text changes.
 - 2026-10-25 10:44Z worker-pplx-dos16-1025m: released dos4 (attention done); took dos16 (others humanizer pass).
+- 2026-10-25 10:44Z worker-pplx-dossiers-1025bb: meaning-and-mortality GF rewrite at checkpoint (pass 4, 75eea905) — 2 substantiated disagreements, below-bar count FLAGGED for supervisor; advisor QC x2 applied; supervisor QC on restructure: Content PASS.
