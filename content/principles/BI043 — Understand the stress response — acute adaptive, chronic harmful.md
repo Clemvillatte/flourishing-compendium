@@ -21,7 +21,7 @@ McEwen's review of the field draws the distinction in the system's own terms: th
 The brain is both the interpreter of threat and a target of the response: the hippocampus, amygdala and prefrontal cortex undergo stress-induced structural remodeling, which alters behavioural and physiological responses (McEwen, 2007). Chronic exposure to stress hormones has an impact on brain structures involved in cognition and mental health (Lupien et al., 2009).
 
 **Plain words**
-The response that helps meet an immediate demand can also contribute to wear over time. Pay attention to how long the pressure continues, as well as how intense it feels.
+The body's emergency machinery is built for minutes, not years. The racing heart that saves you from the dog becomes something else when it is switched on every working morning, because repair never catches up with the bill. The question worth asking of any pressure is not only how strong it is but how long it has been running.
 
 **For example**
 Imagine a dog barking: the heart races, the dog is gone, the response did its work. Now imagine a job that produces a racing heart every Monday for a year: the same kind of response, with no end in sight.
