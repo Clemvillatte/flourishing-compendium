@@ -223,6 +223,15 @@ long evidence records in the ledger, not in the public reading path.
   left 'planned'. NOTE: dos31's baton went stale (worker gone); the
   band state is complete so no takeover repair is needed — next
   supervisor flips it when art is assigned.
+- ADDENDUM 12 (~T+45): w1y's landed prose-short repairs sampled —
+  'Suspension of the natural attitude' (temporary-by-design
+  epoché-vs-skepticism sentences) and 'Ecological grief'
+  (anticipatory-grief paragraph, grounded in the card's own
+  experienced-or-anticipated definition) both PASS: substantive,
+  card-grounded, no padding. dos31 baton force-released (6d94d2d0);
+  live bands at this point: dos3, dos32, w1y. PROGRESS refreshed
+  (dc0bd94a); the 18->19 unmatched delta identified as the uncertainty
+  DOS dossier's done record (band-slug artifact, benign).
 
 # Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
 
