@@ -70,6 +70,21 @@ reference, unique source ids in brackets):
 
 ## Degree checkpoints
 
+- 2026-10-25 worker-pplx-psychdim-1 (superseding checkpoint; corrects the
+  one above): lecture 7 chapter 4 (perception) HAS now been read and
+  content-verified, along with lecture 11 chapter 3 (facial expressions
+  and smiles), lecture 17 chapter 2 (impression formation, Pygmalion
+  effect) and lecture 13 chapter 2 re-read strictly between its markers
+  (the measurement-history material relabelled as chapter 1 context).
+  Verified segments now: lectures 11 ch 1-3, 12 ch 1, 13 ch 2, 16 ch 2,
+  17 ch 2, 7 ch 4-5, 1 ch 1 and 3. Woolley 2025: key results extracted
+  from Studies 1 through 4 (Study 4 preregistered experiment, d = 0.21,
+  p = .003). Remaining lecture chapters are content-unreviewed
+  candidates (identity and duration checked only): the next worker
+  should read them from transcripts before any attachment. Gate status
+  unchanged: coverage awaits independent confirmation; module
+  production blocked by the Phase 0 pilot stop-gate.
+
 - 2026-10-25 verifier-pplx-b1: 30 legacy deg-philosophy attachments verified to
   skill section 4, evidence in verify/deg-wol-greek.md (13 sources: all
   mod-phil-3 and mod-phil-2 attachments), verify/deg-wol-pragmatism.md (9: all
