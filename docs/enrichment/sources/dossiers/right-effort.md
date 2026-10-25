@@ -428,6 +428,7 @@ Weekly habit review's "design review rather than a willpower audit"
 and the lute-string kernel's "retune rather than push" are the cards'
 own framing; and the Variation's "checked against restlessness and
 laziness rather than against the calendar" is the practice's actual
-distinction. Checks: dossier_check exit 0 (63 card links, 24 headers,
-41 carriers); voice audit 9 -> 8 candidates, all reviewed keeps. No
+distinction. Checks: dossier_check exit 0 (41 card links, 16
+headers, 15 carriers); voice audit 9 -> 8 candidates, all reviewed
+keeps. No
 external carriers opened in this pass.
