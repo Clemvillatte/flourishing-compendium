@@ -1,7 +1,7 @@
 {
  "baton": "p1zr",
- "agent": "worker-p1zr-e3d673f1",
- "clocked_in": "2026-10-20T14:20:58+00:00",
+ "agent": "worker-p1zr-1025b",
+ "clocked_in": "2026-10-25T00:51:03+00:00",
  "takeovers": [
   {
    "by": "worker-p1zr-e859bc37",
@@ -26,8 +26,12 @@
    "at": "2026-10-20T13:32:23+00:00",
    "from": "worker-p1zr-47e6466e",
    "reason": "released"
+  },
+  {
+   "by": "worker-p1zr-1025b",
+   "at": "2026-10-25T00:51:03+00:00",
+   "from": "worker-p1zr-e3d673f1",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-20T14:24:05+00:00"
+ ]
 }
