@@ -84,37 +84,23 @@ The deliberate kind acts used in positive psychology interventions are [acts of 
 
 ### Love and friendship
 
-[Love](https://clemvillatte.github.io/flourishing-compendium/#card=Love): the terrain Aristotle opens by calling friendship a thing most necessary for life.
+The terrain Aristotle opens by calling friendship a thing most necessary for life is [love](https://clemvillatte.github.io/flourishing-compendium/#card=Love). The Pauline love of 1 Corinthians 13, patient and keeping no account of evil, is [agape](https://clemvillatte.github.io/flourishing-compendium/#card=Agape).
 
-[Agape](https://clemvillatte.github.io/flourishing-compendium/#card=Agape): the Pauline love of 1 Corinthians 13, patient and keeping no account of evil.
+Sternberg's account of intimacy, passion and commitment, and the loves their combinations name, is the [Triangular Theory of Love](https://clemvillatte.github.io/flourishing-compendium/#card=Triangular%20Theory%20of%20Love), and the steady affection between people whose lives are interdependent is [companionate love in adversity](https://clemvillatte.github.io/flourishing-compendium/#card=Companionate%20love%20in%20adversity).
 
-[Triangular Theory of Love](https://clemvillatte.github.io/flourishing-compendium/#card=Triangular%20Theory%20of%20Love): Sternberg: intimacy, passion and commitment, and the loves their combinations name.
+Aristotle's account of the bond without which no one would choose to live is [friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship), treated in Nicomachean Ethics VIII and IX as [Aristotelian friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Aristotelian%20friendship). The kinds counted by what people find lovable, the useful, the pleasant and the good, are the [three kinds of friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Three%20kinds%20of%20friendship).
 
-[Companionate love in adversity](https://clemvillatte.github.io/flourishing-compendium/#card=Companionate%20love%20in%20adversity): the steady affection between people whose lives are interdependent.
-
-[Friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship): Aristotle's account of the bond without which no one would choose to live.
-
-[Aristotelian friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Aristotelian%20friendship): the treatment in Nicomachean Ethics VIII and IX.
-
-[Three kinds of friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Three%20kinds%20of%20friendship): the kinds counted by what people find lovable: the useful, the pleasant and the good.
-
-[Friendship shapes character](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship%20shapes%20character): Aristotle's claim that the company we keep shapes the people we become.
+Aristotle's claim that the company we keep shapes the people we become is that [friendship shapes character](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship%20shapes%20character).
 
 Aristotle closes the account of friendship with its limit:
 
 > "it would seem actually impossible to be a great friend to many people... but one cannot have with many people the friendship based on virtue and on the character of our friends themselves, and we must be content if we find even a few such." ([Aristotle, Nicomachean Ethics IX.10, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
 
-[The wounds of love](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wounds%20of%20love): Alcibiades' complaint in the Symposium about the injuries Socrates inflicts.
+Alcibiades' complaint in the Symposium about the injuries Socrates inflicts is [the wounds of love](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wounds%20of%20love). The saying from 1 John 4.18 is [perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear).
 
-[Perfect love casts out fear](https://clemvillatte.github.io/flourishing-compendium/#card=Perfect%20love%20casts%20out%20fear): 1 John 4.18.
+Diotima's staged ascent in the Symposium, from one beautiful body to the beautiful itself, is [the ladder of love](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ladder%20of%20love). Spinoza's free person, who lives by reason and refuses the rule of fear, is [the free person loves all](https://clemvillatte.github.io/flourishing-compendium/#card=The%20free%20person%20loves%20all).
 
-[The ladder of love](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ladder%20of%20love): Diotima's staged ascent in the Symposium, from one beautiful body to the beautiful itself.
-
-[The free person loves all](https://clemvillatte.github.io/flourishing-compendium/#card=The%20free%20person%20loves%20all): Spinoza's free person, who lives by reason and refuses the rule of fear.
-
-[Sympatheia](https://clemvillatte.github.io/flourishing-compendium/#card=Sympatheia): the Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs himself to keep in mind.
-
-[The interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good): the Stoic teaching that a person's good is part of one woven system.
+The Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs himself to keep in mind is [sympatheia](https://clemvillatte.github.io/flourishing-compendium/#card=Sympatheia), and the Stoic teaching that a person's good is part of one woven system is [the interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good).
 
 ### What one person owes another
 
