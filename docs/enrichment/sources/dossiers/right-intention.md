@@ -633,7 +633,7 @@ documented doctrine). Checks: dossier_check exit 0 (67 card links, 24
 headers, 42 carriers); voice audit 9 -> 3 candidates, all reviewed
 keeps. No external carriers opened in this pass; the changed sentences
 are paraphrase-level rewrites of claims verified in earlier rounds.
-=======
+
 ## QC sample — quote flags eye-verified (2026-10-25 10:57Z, worker-pplx-dossiers-1025bb, dossiers baton; read-only assist — dossier untouched)
 
 quote_verify on the published dossier: 36 checked, 3 not found. All three

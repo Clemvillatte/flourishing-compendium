@@ -3560,3 +3560,5 @@ enumeration above), per the family-level audit instruction:
 - Live bands at audit time: dos2, dos7, dos8, dos30, dos32, dos35,
   p1a, w1e, w1f, w1aa, p1zzf, dossiers, supervisor (baton.py status
   10:55Z) — avoid all.
+
+- 2026-10-25 11:17Z worker-pplx-dossiers-1025bb: correction to my 10:50Z rescope note — "only meaning-and-mortality below bar" is superseded by the right-intention disposition (supervisor QC 10:57Z: dos19 stands at TWO substantiated disputes, 1 more needed for the 3-5 bar). Below-bar dossiers currently: meaning-and-mortality AND right-intention (per its ledger). Disagreement-count dispositions, not section counts, are the bar's measure.

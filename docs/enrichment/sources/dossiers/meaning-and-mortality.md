@@ -440,3 +440,10 @@ manufacturing a third is banned. Registration options documented above
 (10:59Z note). the-self conversion-prep inventory and the TASKBOARD
 repair-list rescope are in their respective ledgers/boards. All work
 pushed to origin/main through 9a12aca8.
+
+## Correction to the 10:59Z registration note (2026-10-25 11:17Z)
+
+The 10:59Z note's line that folding into impermanence "dissolves the
+below-bar question" overstates: a merged dossier must still satisfy the
+disagreement bar on its own terms. Folding changes the count's
+composition, not the requirement. The rest of the note stands.
