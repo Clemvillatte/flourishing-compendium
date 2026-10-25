@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Albert Camus (7 November 1913, Mondovi in French Algeria – 4 January 1960, Villeblevin, France) was a French philosopher, writer and political activist, born to *pied-noir* parents; his father was killed in action in 1914, and he grew up poor in the Belcourt section of Algiers ([Wikipedia, Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)). He won the 1957 Nobel Prize in Literature at forty-four, the first literature laureate born in Africa ([same biography](https://en.wikipedia.org/wiki/Albert_Camus)). The Stanford Encyclopedia dates the two books that made him famous to the same year: *The Stranger* in June 1942 and *The Myth of Sisyphus* in October 1942, both part of the planned "Absurd triptych" completed in September 1941 ([Stanford Encyclopedia of Philosophy, "Albert Camus"](https://plato.stanford.edu/entries/camus/)). *The Plague* (1947) and *The Rebel* (1951) carried the argument from the single individual to the collective condition.
+Albert Camus (born 7 November 1913 in Mondovi, French Algeria; died 4 January 1960 in Villeblevin, France) was a French philosopher, writer and political activist, born to *pied-noir* parents; his father was killed in action in 1914, and he grew up poor in the Belcourt section of Algiers ([Wikipedia, Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)). He won the 1957 Nobel Prize in Literature at forty-four, the first literature laureate born in Africa ([same biography](https://en.wikipedia.org/wiki/Albert_Camus)). The Stanford Encyclopedia dates the two books that made him famous to the same year: *The Stranger* in June 1942 and *The Myth of Sisyphus* in October 1942, both part of the planned "Absurd triptych" completed in September 1941 ([Stanford Encyclopedia of Philosophy, "Albert Camus"](https://plato.stanford.edu/entries/camus/)). *The Plague* (1947) and *The Rebel* (1951) carried the argument from the single individual to the collective condition.
 
 ## Their why
 
@@ -29,7 +29,7 @@ The same entry notes the shift that made *The Rebel* (1951) the mature position:
 
 > "'I revolt, therefore we are' (*R*, 22) is his paradoxical statement." ([same entry](https://plato.stanford.edu/entries/camus/))
 
-His later word for the discipline that keeps revolt from turning into terror is *mésure* — measure, proportion, living inside limits rather than remaking the world ([same entry](https://plato.stanford.edu/entries/camus/)). The wiki's principle E058 already teaches that discipline.
+His later word for the discipline that keeps revolt from turning into terror is *mésure*: measure, proportion, living inside limits rather than remaking the world ([same entry](https://plato.stanford.edu/entries/camus/)). The wiki's principle E058 already teaches that discipline.
 
 ## Core ideas
 
