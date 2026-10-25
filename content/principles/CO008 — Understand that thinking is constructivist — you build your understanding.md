@@ -16,7 +16,7 @@ The learning-science claim is stated in the constructivism article: learners do 
 
 > Constructivism is a theory that suggests that learners do not passively acquire knowledge through direct instruction. Instead, they construct their understanding through experiences and social interaction, integrating new information with their existing knowledge. (Wikipedia, Constructivism (philosophy of education))
 
-On the philosophy side, the principle's parallel is Kant's: knowledge arises only from the united operation of the sensuous and the understanding ([Kant, CPR, A51/B75](https://www.gutenberg.org/cache/epub/4280/pg4280.txt)).
+On the philosophy side, the parallel is Kant's: "Thoughts without content are void; intuitions without conceptions, blind." He adds that "In no other way than from the united operation of both, can knowledge arise" ([Kant, Critique of Pure Reason, A51/B75, Meiklejohn translation](https://www.gutenberg.org/cache/epub/4280/pg4280.txt)). Kant is not a learning theorist, so this is a parallel in structure and not evidence for the classroom claim.
 
 (Kant, Critique of Pure Reason, 1781.)
 

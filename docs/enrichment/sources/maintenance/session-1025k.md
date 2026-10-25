@@ -156,3 +156,6 @@
 
 ## AF036 verbatim Veale
 - Veale 2008 (Advances in Psychiatric Treatment 14:1) abstract and Activity scheduling sentences quoted verbatim from the Cambridge page; example labelled. Page still lacks ## Sources (cosmetic).
+
+## CO008, R060, D173, D178, D075, MO017, PP008 audits
+- CO008: Kant A51/B75 sentences quoted verbatim (Meiklejohn, Gutenberg 4280); parallel labelled as structural. R060: Great Learning cascade (Quackenbos, Gutenberg 67687) and Analects XIV.45, XII.1, I.4 (Gutenberg 3330) verified verbatim; no change. D173 (DDJ 78), D178 (DDJ 27), D075 (DDJ 69) verified verbatim against Legge; MO017/PP008 SDT quote verified in Niemiec, Ryan and Deci 2009 manuscript p. 3; no change (the two pages share a similar Plain words paragraph; flag for supervisor as near-duplicate).
