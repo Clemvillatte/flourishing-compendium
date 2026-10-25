@@ -24,3 +24,7 @@
 ## D150 Balance the emotions to protect the body
 - Carriers opened: Roth, Original Tao (archive.org djvu text): verses XX, XXI, XXV verified verbatim; dating (mid-fourth century at latest) from same book. Suwen ch. 5 lines from PMC13268651 (search excerpt, quoting Annotations on Basic Questions).
 - Repair: the old "Neiye ch. 15: There is nothing that is not made by the mind. Worry makes the heart sad..." quote is NOT in Roth's text or in any other translation checked (Rickett/Eno/Roth variants); removed. Old Kohn "organs billing later" line removed (page not opened). AI scaffolds, "stored somewhere" and "stress chemistry" claims removed.
+
+## P127 Treat democracy as a way of life
+- Carrier opened: Dewey, Democracy and Education, Gutenberg pg852.txt, ch. VII. Block quote ("A democracy is more than a form of government...") verified verbatim; added the two criterion questions, "common interest in plunder" and family example (all verified in same chapter).
+- Repair: removed "each counts as one" (not in the text), "ballot box is the tail; dinner table is the dog", "Dewey's test is the number of contacts" overreading, and the duplicate citation line. Example now a labelled illustration of Dewey's own family criterion.

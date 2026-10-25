@@ -12,19 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 127** — Treat democracy as a way of life, not a mechanism
 
-Democracy is not primarily voting; it is [[Associated living|a mode of associated living]] in which experience is freely shared and each counts as one. Practice democracy in your kitchen, team, and friendships.
+For Dewey, democracy is more than a way of choosing a government. He describes it as [[Associated living|a mode of associated living]] in which experience is shared, and the principle asks you to practise it where you live and work: in your kitchen, your team and your friendships. The passage is in *Democracy and Education*, chapter VII.
 
-Dewey's statement in Democracy and Education:
+> "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience. The extension in space of the number of individuals who participate in an interest so that each has to refer his own action to that of others, and to consider the action of others to give point and direction to his own, is equivalent to the breaking down of those barriers of class, race, and national territory which kept men from perceiving the full import of their activity." (Dewey, *Democracy and Education*, 1916, ch. VII, [Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-> "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience. The extension in space of the number of individuals who participate in an interest so that each has to refer his own action to that of others, and to consider the action of others to give point and direction to his own, is equivalent to the breaking down of those barriers of class, race, and national territory which kept men from perceiving the full import of their activity." (Dewey, Democracy and Education, ch. VII, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
+Earlier in the same chapter Dewey gives two questions for judging any group. The first is "How numerous and varied are the interests which are consciously shared?" The second asks how full and free the exchange is with other forms of association. He applies them to a criminal band, whose members share little beyond "a common interest in plunder", and to a family where "the progress of one member has worth for the experience of other members".
 
-(Dewey, Democracy and Education, 1916; The Public and Its Problems, 1927.)
+**Plain words** Dewey measures a group by how much its members share and how freely it deals with other groups. Asked of a household or a team, his two questions become: how many of our interests do we actually share, and how openly do we take each other into account? Voting is one way of answering, and day-to-day conduct is another.
 
-**Plain words**
-Dewey's test is the number of contacts: a group is more democratic when more of its members have to take each other's actions into account. A kitchen where decisions land after everyone affected has been heard is the practice; the ballot is one exam among many. The ballot box is the tail; the dinner table is the dog.
-
-**For example**
-The family where the kids get a real vote on the move — not a fake vote, a real one, with their interests counted. That's democracy as a way of life, not a field trip.
+*For example:* A family is deciding on a move. The children's views are asked for, weighed and visibly counted in the decision, even though the parents make the final call. That is the kind of shared, communicated experience Dewey has in mind. This is my illustration of his criterion.
 
 ## Sources
 
