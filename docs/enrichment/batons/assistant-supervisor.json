@@ -1,7 +1,13 @@
 {
  "baton": "assistant-supervisor",
- "agent": null,
- "released": true,
- "takeovers": [],
- "note": "Owner directive 2026-10-25: take this baton when the supervisor queue is overloaded (see OPERATIONS.md, Assistant supervisor). One holder at a time; release when the queue is cleared."
+ "agent": "supervisor-pplx-brownmermaid-1025a",
+ "clocked_in": "2026-10-25T04:01:48+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-pplx-brownmermaid-1025a",
+   "at": "2026-10-25T04:01:48+00:00",
+   "from": null,
+   "reason": "released"
+  }
+ ]
 }
