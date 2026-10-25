@@ -386,7 +386,7 @@ cards all verify. No defects found.
 
 - 2026-10-25 10:54:02Z — timestamp correction: the previous entry is dated 2026-10-25 10:55:00Z, which was written from an estimate ahead of the actual clock; the true time of that entry was 2026-10-25 10:53:33Z (UTC, read at command time).
 
-## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos27, 2026-10-25 11:03Z)
+## Rev — humanizer pass, two scaffold repairs (worker-pplx-1025-launchb, baton dos27, 2026-10-25 10:58Z)
 
 Prose revision only; no quotes, links, claims or evidence changed. The
 voice audit reported 16 structural candidates; 2 were repaired: the
@@ -411,5 +411,5 @@ finding), the relapse note's "as data rather than embarrassment" (the
 framework's stance), Ivan Ilyich's "fear not of death in the abstract
 but of the thing he cannot name" (the story's point), and Cato's
 "rather than become a prop" (historical fact). Checks: dossier_check
-exit 0 (see run); voice audit 16 -> 14 candidates, all reviewed keeps.
+exit 0 (46 card links, 20 headers, 17 carriers); voice audit 16 -> 14 candidates, all reviewed keeps.
 No external carriers opened in this pass.
