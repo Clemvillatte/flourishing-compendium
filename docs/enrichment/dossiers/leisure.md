@@ -2,20 +2,20 @@
 
 > What is free time for, once it is actually free?
 
-Most people answer that question by spending the hours. Rest recovers, screens entertain, and the week starts again. What I want to know is whether free time has a use of its own, or whether it is only the pause between working.
+Most weeks hold hours that no one is paying for and nothing is measuring, and the question is what they are for. The easy answer is that they recover a person for the next stretch of work, and the answer is not wrong, only incomplete. If evenings and weekends are not only fuel, what are they for?
 
 The old word for it, scholē, named more than a gap in the schedule, and this dossier follows it through Aristotle's ranking of work under leisure, the arguments over who got to have it, and the modern research on what actually restores attention and mood. The disagreements are real and they sit close to the centre of the question.
 
-What makes the theme practical is that the hours are already there. A person who decides what free time is for has evenings and weekends to work with, and no new tool is required.
+What makes the theme practical is that some free hours exist in most weeks, though the dossier's own distributive debate records who historically got leisure and who did not. Where the hours exist, deciding what they are for takes no new tool.
 
 ### Nearby terms
 
-- Rest: [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) and [the rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest) name what recovers a system; this theme asks what the recovered capacity is then for.
-- Play: [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research) covers free, intrinsically motivated activity; leisure includes play and also contemplation and the receptive stance.
-- Recovery: [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences) and [recovery research](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20research) treat free time as maintenance; this theme keeps that account and asks whether maintenance is all there is.
-- Amusement: the card on [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) marks the classical line; this theme carries the distinction.
-- Idleness: the state the traditions condemn, treated here as a broken relation to reality rather than rest taken too far; a question about procrastination should start there.
-- Sabbath: [the Sabbath](https://clemvillatte.github.io/flourishing-compendium/#card=Sabbath) is the ritual boundary form, one day in seven; this theme covers the wider field of free time.
+- Rest: [the completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest) carries Aristotle's finding that relaxation is taken for the sake of activity and is not an end; this theme asks what the activity is for.
+- Play: [play research](https://clemvillatte.github.io/flourishing-compendium/#card=Play%20research) is Stuart Brown's study of what play does to the adults who keep doing it; leisure includes play, contemplation and the receptive stance.
+- Recovery: [recovery experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Recovery%20experiences) sets out Sonnentag and Fritz's four ways people recuperate, carried by experiences rather than activities; this theme asks whether maintenance is all there is.
+- Amusement: the card on [distinguishing leisure from amusement](https://clemvillatte.github.io/flourishing-compendium/#card=A112%20%E2%80%94%20Distinguish%20leisure%20from%20amusement) gives amusement a real but limited job, a medicine; this theme carries the distinction.
+- Idleness: the state Pieper condemns as a broken relation to reality, an inability to receive; a question about procrastination should start there.
+- Sabbath: [the Sabbath](https://clemvillatte.github.io/flourishing-compendium/#card=Sabbath) is Heschel's palace in time, the weekly day of rest; this theme covers the wider field of free time.
 
 ## The time that is left over
 
@@ -155,15 +155,15 @@ A one-week experience-sampling study of 78 adult workers found that most reporte
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is what free time is treated as: maintenance for the next shift, a slot to fill with whatever is easiest, or something with a use of its own. The adaptive direction is free time treated as the place where the activities worth having for their own sake can happen: attention that recovers, a stance that receives, and hours not measured by output.
+::Variation:: The thing to vary on this theme is what free time is asked to be. The options on offer are maintenance for the next shift, a slot to fill with whatever is easiest, and something with a use of its own. The third is the one worth testing: attention that recovers, a stance that receives, and hours not measured by output.
 
-::Selection:: The kernels I have selected as sources of that variation:
+::Selection:: The practices I have selected as sources of that variation:
 
-1. The unmeasured evening: for two weeks, spend some free hours with every metric off, no step count, no streak, no monetisable output. Vary what fills them, and notice which activities hold attention for their own sake and which need a feed to keep going. This is [making rest the root of activity](https://clemvillatte.github.io/flourishing-compendium/#card=D039%20%E2%80%94%20Make%20rest%20the%20root%20of%20activity) rather than its reward.
+1. The unmeasured evening: for two weeks, spend some free hours with every metric off, no step count, no streak, no monetisable output, in the spirit of [valuing the useless](https://clemvillatte.github.io/flourishing-compendium/#card=D084%20%E2%80%94%20Value%20the%20useless). Notice which activities hold attention for their own sake and which need a feed to keep going.
 
-2. The rest audit: for one week, each evening note whether you actually detached from work or only changed rooms while continuing to think about it. Keep the conditions that produced detachment, an end time, a walk, a device boundary. This is [recovery as a skill](https://clemvillatte.github.io/flourishing-compendium/#card=PP048%20%E2%80%94%20Practise%20recovery%20as%20a%20skill), and knowing it is maintenance is part of the skill.
+2. The rest audit: for one week, each evening note whether you actually detached from work or only changed rooms while continuing to think about it, which is the detachment item of [recovery as a skill](https://clemvillatte.github.io/flourishing-compendium/#card=PP048%20%E2%80%94%20Practise%20recovery%20as%20a%20skill). Keep the conditions that produced detachment, an end time, a walk, a device boundary.
 
-3. One standing sabbath: put a weekly block of some hours where work and its tools are out of reach and nothing productive is allowed. See what fills it when nothing useful is permitted. This is [rest built into the system](https://clemvillatte.github.io/flourishing-compendium/#card=PP073%20%E2%80%94%20Build%20rest%20into%20the%20system), the [Sabbath](https://clemvillatte.github.io/flourishing-compendium/#card=Sabbath) card carries the same boundary as a weekly day of rest.
+3. One standing sabbath: put a weekly block of some hours where work and its tools are out of reach and nothing productive is allowed, the boundary form of [rest built into the system](https://clemvillatte.github.io/flourishing-compendium/#card=PP073%20%E2%80%94%20Build%20rest%20into%20the%20system). See what fills it when nothing useful is permitted.
 
 ::Retention:: Keep the activities that held attention for their own sake, and keep the boundaries that produced real detachment. Review after two weeks what has actually survived in the week before deciding whether to continue.
 

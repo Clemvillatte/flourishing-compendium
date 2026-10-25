@@ -181,3 +181,48 @@ Worker: worker-pplx-dos34-1025j. Session 2026-10-25 ~04:46-05:45Z UTC.
 - Whole-text reread of this session's sections against HUMANIZER-SKILL.md. Removed the owner-banned contrast scaffolds and decorative closers: "a tension rather than a settled dispute" and "names an obstacle... rather than a refutation" (rewritten affirmatively); "not only whether it is free of work, but whether it is free" (wise-sounding closer, rewritten); "a proposal, not just a verdict"; "not a demonstration that the rewards are absent" (rewritten as "the rewards themselves may still be there"); "not to the framework's usefulness as a description" (rewritten affirmatively); "rather than simply whether..." (rewritten as "a different question from..."); "both sides are carried here by their own texts" (ledger only). Russell's verbatim "not the prerogative... but a right" retained inside the quotation per source-fidelity rules.
 - No content claims changed; the three substantiated disagreements and the labelled comparisons stand as documented in rounds 9-12.
 - Checks after round 14: dossier_check exit 0 (25 card links, 18 headers, 39 external carriers); dossier_quote_verify 40/40; dossier_density 0 dense; dossier_voice_audit exit 0.
+
+## Model-conformance additions, card checks (2026-10-25, worker-pplx-dos34-1025z2)
+
+The leisure dossier was missing three elements DOSSIER-MODEL.md requires:
+the first-person intro paragraphs, the Nearby terms section, and the
+::Variation::/::Selection::/::Retention:: practice markers. All three
+were added. Every card cited in the new text was opened and read before
+the wording was settled, and the checks are recorded here:
+
+- The completeness of rest: the card carries Aristotle NE X.6, "we need
+  relaxation because we cannot work continuously. Relaxation, then, is
+  not an end; for it is taken for the sake of activity." The Nearby terms
+  line follows the card's own claim. An earlier draft's "name what
+  recovers a system" was cut as not the card's wording.
+- Play research: the card is Stuart Brown's Play (2009) and the 6,000
+  play histories; the line follows the card's framing.
+- Recovery experiences: the card is Sonnentag and Fritz 2007, four
+  recovery experiences (psychological detachment, relaxation, mastery,
+  control), "carried by experiences, not by activities"; the line follows
+  the abstract quoted on the card.
+- A112 Distinguish leisure from amusement: the card gives amusement a
+  real but limited job, "a sort of relaxation... taken for the sake of
+  activity", against "leisure of itself gives pleasure and happiness and
+  enjoyment of life"; the line follows the card.
+- Idleness: attributed to Pieper specifically, matching the dossier's own
+  existing passage ("Idleness, on his account, is not too much rest but a
+  broken relation to reality, an inability to receive it").
+- Sabbath: the card is Heschel's "palace in time"; the line follows the
+  card.
+- Practice links: the unmeasured evening was re-linked from D039 (which
+  is Daodejing 26 on stillness as the ruler of movement and does not
+  carry the metrics-off exercise) to D084 Value the useless (Zhuangzi's
+  useless tree, "saunter idly... in the enjoyment of untroubled ease"),
+  which is the practice's own spirit. PP048 and PP073 were kept from the
+  previous text and re-read. The three practices are now two sentences
+  each, action then what to notice, and are called practices, not kernels.
+- The intro's opening claim was rewritten to the writer's own question
+  (no population claim), and "the hours are already there" was qualified
+  against the dossier's own distributive debate.
+
+dossier_check.py OK, dossier_density.py 0 dense, dossier_quote_verify.py
+all existing quotes still resolve. Flagged for the supervisor: leisure's
+disagreement section still carries 12 subsections against the model's
+three-to-five genuine questions, a consolidation the current pass did
+not attempt.
