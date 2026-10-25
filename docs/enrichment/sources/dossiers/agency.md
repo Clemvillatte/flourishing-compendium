@@ -295,3 +295,5 @@ failure is a CHECKER LIMITATION on this carrier (raw fetch cannot
 see JS-rendered text), not a dossier defect. No dossier edit is
 needed or made. The span stays flagged until the checker can render
 JS or the carrier is swapped for a static mirror of the abstract.
+
+- 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Rothbaum, Weisz and Snyder 1982 span was a misquote: the published abstract reads "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)" — the dossier version had dropped "not only" and "but also". The quote was dequoted to plain prose carrying the verbatim wording, with the article title added to the anchor. No fetchable carrier exists (doi.org is bot-walled, Semantic Scholar API rate-limited, Scispace and Scribd bot-walled); the corrected wording is confirmed against the abstract text as reproduced in search results, and the doi.org anchor is retained. Flagged for a carrier hunt next pass.

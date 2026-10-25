@@ -50,7 +50,7 @@ Psychology has its own version of the question, and its findings are more mixed 
 
 The trouble is that the classic Greenberg et al. 1994 mortality-salience finding was tested at scale and did not replicate. A 2022 pre-registered multi-lab replication, 17 labs and 1,550 participants after exclusions, reported:
 
-> "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al. 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience))
+> "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al. 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience), [Europe PMC record](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22Many%20Labs%204%22&format=json&resultType=core))
 
 I hold both facts together: a large body of theory and results, and a failed replication of the specific 1994 finding. What survives the failure is narrower than the theory, and I am not going to build a practice on a contested foundation without saying so.
 

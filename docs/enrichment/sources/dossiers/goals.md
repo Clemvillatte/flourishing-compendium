@@ -804,3 +804,4 @@ dossier_density 0 dense; dossier_quote_verify 16 checked, 1 not found
 artifact); no quote text was touched. Goals is published; the site
 data does not change until a supervisor rebuild, so this is flagged:
 re-splice goals when convenient.
+- 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Locke and Latham 2006 block quote failed because PDF text extraction drops the hyphen in "discrepancy-creating" (extracted as "discrepancycreating"). The quote was restructured: the first sentence is now paraphrase, and the verbatim quote covers only "implies discontent with one's present condition and the desire to attain an object or outcome", which matches the extracted text of the nj.gov PDF (opened). quote_verify clean.

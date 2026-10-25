@@ -8854,7 +8854,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map: the entries on decision-making"
+          "x": "Where choosing sits in a life"
         },
         {
           "t": "h2",
@@ -8862,267 +8862,135 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Decision-making research](card:Decision-making%20research): the study of how people actually choose: what they search through, when they stop, and how they feel about what they picked."
+          "x": "The study of how people actually choose, what they search through, when they stop, and how they feel about what they picked, is [decision-making research](card:Decision-making%20research). The distinction between autonomous Type 1 processing and Type 2 processing that depends on working memory and supports hypothetical reasoning is [dual-process theory](card:Dual-process%20theory), and Kahneman's names for fast, automatic, intuitive thought and slow, effortful, deliberate thought are [System 1 and System 2](card:System%201%20and%20System%202)."
         },
         {
           "t": "p",
-          "x": "[Dual-process theory](card:Dual-process%20theory): distinguishes autonomous Type 1 processing from Type 2 processing that depends on working memory and supports hypothetical reasoning."
-        },
-        {
-          "t": "p",
-          "x": "[System 1 and System 2](card:System%201%20and%20System%202): Kahneman's names for fast, automatic, intuitive thought and slow, effortful, deliberate thought."
-        },
-        {
-          "t": "p",
-          "x": "[Rationality research](card:Rationality%20research): Stanovich's programme: intelligence and rationality come apart, so a person can be smart and still reason badly."
-        },
-        {
-          "t": "p",
-          "x": "[Prospect theory](card:Prospect%20theory): Kahneman and Tversky's 1979 descriptive model of choice under risk, a critique of expected utility theory."
-        },
-        {
-          "t": "p",
-          "x": "[Regret Theory](card:Regret%20Theory): Loomes and Sugden: anticipated regret enters decisions, and people pay to avoid it."
+          "x": "Stanovich's programme, in which intelligence and rationality come apart so a person can be smart and still reason badly, is [rationality research](card:Rationality%20research). Kahneman and Tversky's 1979 descriptive model of choice under risk, a critique of expected utility theory, is [prospect theory](card:Prospect%20theory). Loomes and Sugden's account, in which anticipated regret enters decisions and people pay to avoid it, is [Regret Theory](card:Regret%20Theory)."
         },
         {
           "t": "h2",
-          "x": "Heuristics: shortcuts and their errors"
+          "x": "What heuristics do, and when they err"
         },
         {
           "t": "p",
-          "x": "[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](card:Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty."
+          "x": "Gigerenzer's simple decision rules that ignore part of the available information and can still judge well under uncertainty are the [fast-and-frugal heuristics](card:Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29). The claim that a simple decision rule is good or bad only relative to the environment it is used in is [ecological rationality](card:Ecological%20rationality)."
         },
         {
           "t": "p",
-          "x": "[Ecological rationality](card:Ecological%20rationality): a simple decision rule is good or bad only relative to the environment it is used in."
+          "x": "The systematic, predictable errors produced by the mind's shortcuts are [cognitive biases](card:Cognitive%20biases). The finding that positive or negative feelings about an object drive judgments of its risk and benefit is the [affect heuristic](card:Affect%20heuristic), and the use of ease of recall as a proxy for frequency is the [availability heuristic](card:Availability%20heuristic)."
         },
         {
           "t": "p",
-          "x": "[Cognitive biases](card:Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts."
+          "x": "The substitution of similarity for likelihood in probability judgment is the [representativeness heuristic](card:Representativeness%20heuristic), and judging by how well a case matches a stereotype while overlooking how common the categories are is [base rate neglect](card:Base%20rate%20neglect%20representativeness%20heuristic)."
         },
         {
           "t": "p",
-          "x": "[Affect heuristic](card:Affect%20heuristic): positive or negative feelings about an object drive judgments of its risk and benefit."
+          "x": "The pulling of a judgment toward a reference point, even when the reference point has no business near the judgment, is the [anchoring effect](card:Anchoring%20effect). The finding that different descriptions of the same fact produce different decisions is [framing effects](card:Framing%20effects). The raising of what a thing is worth to its owner by owning it is the [endowment effect](card:Endowment%20effect)."
         },
         {
           "t": "p",
-          "x": "[Availability heuristic](card:Availability%20heuristic): ease of recall is used as a proxy for frequency."
+          "x": "The tendency to stick with a current or previous choice more often than a neutral comparison would predict is [status quo bias](card:Status%20quo%20bias). The finding that people are more likely to pick an option that is already selected for them is [default effect theory](card:Default%20effect%20theory)."
         },
         {
           "t": "p",
-          "x": "[Representativeness heuristic](card:Representativeness%20heuristic): similarity stands in for likelihood in probability judgment."
-        },
-        {
-          "t": "p",
-          "x": "[Base rate neglect representativeness heuristic](card:Base%20rate%20neglect%20representativeness%20heuristic): judging by how well a case matches a stereotype while overlooking how common the categories are."
-        },
-        {
-          "t": "p",
-          "x": "[Anchoring effect](card:Anchoring%20effect): the pulling of a judgment toward a reference point, even when the reference point has no business near the judgment."
-        },
-        {
-          "t": "p",
-          "x": "[Framing effects](card:Framing%20effects): different descriptions of the same fact produce different decisions."
-        },
-        {
-          "t": "p",
-          "x": "[Endowment effect](card:Endowment%20effect): owning a thing raises what it is worth to its owner."
-        },
-        {
-          "t": "p",
-          "x": "[Status quo bias](card:Status%20quo%20bias): the tendency to stick with a current or previous choice more often than a neutral comparison would predict."
-        },
-        {
-          "t": "p",
-          "x": "[Default effect theory](card:Default%20effect%20theory): people are more likely to pick an option that is already selected for them."
-        },
-        {
-          "t": "p",
-          "x": "[Negativity bias](card:Negativity%20bias): bad events have more psychological impact than good ones of similar size."
-        },
-        {
-          "t": "p",
-          "x": "[Survivorship bias](card:Survivorship%20bias): drawing conclusions from what made it through a selection process while overlooking what did not."
+          "x": "The finding that bad events have more psychological impact than good ones of similar size is [negativity bias](card:Negativity%20bias). Drawing conclusions from what made it through a selection process while overlooking what did not is [survivorship bias](card:Survivorship%20bias)."
         },
         {
           "t": "h2",
-          "x": "Overconfidence and holding on"
+          "x": "What overconfidence does, and why people hold on"
         },
         {
           "t": "p",
-          "x": "[Overconfidence effects](card:Overconfidence%20effects): the family of biases in which people rate themselves, their performance or their knowledge too highly."
+          "x": "The family of biases in which people rate themselves, their performance or their knowledge too highly is [overconfidence effects](card:Overconfidence%20effects). The confident belief that your project will run as planned, held even while you know that most similar projects ran late, is the [planning fallacy](card:Planning%20fallacy)."
         },
         {
           "t": "p",
-          "x": "[Planning fallacy](card:Planning%20fallacy): the confident belief that your project will run as planned, held even while you know that most similar projects ran late."
+          "x": "The finding that people rate their own chances of good events as above average and of bad events as below average is [unrealistic optimism](card:Optimism%20bias%20unrealistic%20optimism). The finding that people see outcomes as more predictable after they know how things turned out is [hindsight bias](card:Hindsight%20bias)."
         },
         {
           "t": "p",
-          "x": "[Optimism bias unrealistic optimism](card:Optimism%20bias%20unrealistic%20optimism): people rate their own chances of good events as above average and of bad events as below average."
+          "x": "The tendency to search for, interpret, favor and recall information in a way that confirms what one already believes is [confirmation bias](card:Confirmation%20bias). The finding that people see biases operating in everyone but themselves is the [bias blind spot](card:Bias%20blind%20spot)."
         },
         {
           "t": "p",
-          "x": "[Hindsight bias](card:Hindsight%20bias): people see outcomes as more predictable after they know how things turned out."
-        },
-        {
-          "t": "p",
-          "x": "[Confirmation bias](card:Confirmation%20bias): the tendency to search for, interpret, favor and recall information in a way that confirms what one already believes."
-        },
-        {
-          "t": "p",
-          "x": "[Bias blind spot](card:Bias%20blind%20spot): people see biases operating in everyone but themselves."
-        },
-        {
-          "t": "p",
-          "x": "[Sunk cost effect](card:Sunk%20cost%20effect): the tendency to let spent money, effort or time steer present decisions."
-        },
-        {
-          "t": "p",
-          "x": "[Escalation of commitment](card:Escalation%20of%20commitment): the tendency to keep investing in a course of action that is going badly."
-        },
-        {
-          "t": "p",
-          "x": "[Impact bias](card:Impact%20bias): the systematic error people make when predicting their own future feelings."
+          "x": "The tendency to let spent money, effort or time steer present decisions is the [sunk cost effect](card:Sunk%20cost%20effect). The tendency to keep investing in a course of action that is going badly is [escalation of commitment](card:Escalation%20of%20commitment), and the systematic error people make when predicting their own future feelings is [impact bias](card:Impact%20bias)."
         },
         {
           "t": "h2",
-          "x": "Intuition and judgment"
+          "x": "Where intuition fits in judgment"
         },
         {
           "t": "p",
-          "x": "[Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Klein's account of how experienced decision-makers act fast under pressure."
+          "x": "Klein's account of how experienced decision-makers act fast under pressure is the [recognition-primed decision model](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29). The research that asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains is [moral intuition research](card:Moral%20intuition%20research)."
         },
         {
           "t": "p",
-          "x": "[Moral intuition research](card:Moral%20intuition%20research): asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains."
+          "x": "Haidt's 2001 account, in which moral intuitions come first and reasoning is usually post-hoc, is the [social intuitionist model](card:Social%20intuitionist%20model%20%28Haidt%29). Bergson's setting of intuition against analysis as two ways of knowing a thing is [intuition as method](card:Intuition%20as%20method)."
         },
         {
           "t": "p",
-          "x": "[Social intuitionist model (Haidt)](card:Social%20intuitionist%20model%20%28Haidt%29): Haidt's 2001 account: moral intuitions come first, and reasoning is usually post-hoc."
-        },
-        {
-          "t": "p",
-          "x": "[Intuition as method](card:Intuition%20as%20method): Bergson sets intuition against analysis as two ways of knowing a thing."
-        },
-        {
-          "t": "p",
-          "x": "[Risk literacy](card:Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions."
-        },
-        {
-          "t": "p",
-          "x": "[Risk perception](card:Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies."
+          "x": "Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions is [risk literacy](card:Risk%20literacy). The study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies is [risk perception](card:Risk%20perception)."
         },
         {
           "t": "h2",
-          "x": "Too many options"
+          "x": "What too many options do"
         },
         {
           "t": "p",
-          "x": "[Choice overload](card:Choice%20overload): more options degrade satisfaction and decision quality (Iyengar and Lepper, 2000; Schwartz, 2004)."
+          "x": "The finding that more options degrade satisfaction and decision quality (Iyengar and Lepper, 2000; Schwartz, 2004) is [choice overload](card:Choice%20overload). The idea that having more options can leave people worse off, not better, is the [paradox of choice](card:Paradox%20of%20choice)."
         },
         {
           "t": "p",
-          "x": "[Paradox of choice](card:Paradox%20of%20choice): the idea that having more options can leave people worse off, not better."
-        },
-        {
-          "t": "p",
-          "x": "[Maximizing versus satisficing](card:Maximizing%20versus%20satisficing): two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice."
+          "x": "The two decision-making styles that Schwartz and colleagues set against each other in their 2002 studies of choice are [maximizing versus satisficing](card:Maximizing%20versus%20satisficing)."
         },
         {
           "t": "h2",
-          "x": "Designing the choice"
+          "x": "How choices are designed"
         },
         {
           "t": "p",
-          "x": "[Choice architecture](card:Choice%20architecture): seeks to influence decisions by designing their physical, social or psychological context while preserving freedom of choice."
+          "x": "The practice of seeking to influence decisions by designing their physical, social or psychological context while preserving freedom of choice is [choice architecture](card:Choice%20architecture). Thaler and Sunstein's account of how small changes in choice architecture steer behaviour while preserving freedom to choose is [nudge theory](card:Nudge%20theory%20Thaler)."
         },
         {
           "t": "p",
-          "x": "[Nudge theory Thaler](card:Nudge%20theory%20Thaler): Thaler and Sunstein's account of how small changes in choice architecture steer behaviour while preserving freedom to choose."
+          "x": "Procedures for counteracting systematic errors of judgment, as sorted by Larrick in 2004, are [debiasing techniques](card:Debiasing%20techniques). The finding that imagining future failure improves identification of risks and reduces overconfidence is the [pre-mortem technique](card:Pre-mortem%20technique)."
         },
         {
           "t": "p",
-          "x": "[Debiasing techniques](card:Debiasing%20techniques): procedures for counteracting systematic errors of judgment, as sorted by Larrick in 2004."
-        },
-        {
-          "t": "p",
-          "x": "[Pre-mortem technique](card:Pre-mortem%20technique): imagining future failure improves identification of risks and reduces overconfidence."
-        },
-        {
-          "t": "p",
-          "x": "[Participatory decision-making](card:Participatory%20decision-making): shaping choices with the people who must live with them, not doing things to or for them."
+          "x": "Shaping choices with the people who must live with them, not doing things to or for them, is [participatory decision-making](card:Participatory%20decision-making)."
         },
         {
           "t": "h2",
-          "x": "Deliberation, will and weakness of will"
+          "x": "Where deliberation meets the will"
         },
         {
           "t": "p",
-          "x": "[Prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action."
+          "x": "Aristotle's reasoned choice, joining desire for a goal with deliberation about action, is [prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29). Aristotle's term for wish, the desire that aims at what is seen as good as opposed to appetite and spirit, is [boulesis (rational desire)](card:Boulesis%20%28rational%20desire%29). Aristotle's practical wisdom, phronesis, a capacity for good deliberation connected with ethical virtue, is [prudence](card:Prudence)."
         },
         {
           "t": "p",
-          "x": "[Boulesis (rational desire)](card:Boulesis%20%28rational%20desire%29): Aristotle's term for wish: the desire that aims at what is seen as good, as opposed to appetite and spirit."
+          "x": "Dewey's account that when action is blocked, competing habits and impulses are tried out in imagination instead of overt fact, is [deliberation as rehearsal](card:Deliberation%20as%20rehearsal). In the modern discussion, action contrary to one's present better judgment is [akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29), and the classical treatment of acting against one's better judgment, \"knowing the better and doing the worse\", which Aristotle treats as curable, a failure of habituation, is [akrasia](card:Akrasia)."
         },
         {
           "t": "p",
-          "x": "[Prudence](card:Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue."
+          "x": "Seneca's counsel on timing, that an emotion is weak at the threshold and strong once it has entered, so the wise act happens early, is [pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom). My label for a pattern in Seneca and Epictetus, that hope is a thing to weigh because it travels with fear, is [hope tempered by prudence](card:Hope%20tempered%20by%20prudence)."
         },
         {
           "t": "p",
-          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey: when action is blocked, competing habits and impulses are tried out in imagination instead of overt fact."
-        },
-        {
-          "t": "p",
-          "x": "[Akrasia (weakness of will)](card:Akrasia%20%28weakness%20of%20will%29): in the modern discussion, action contrary to one's present better judgment."
-        },
-        {
-          "t": "p",
-          "x": "[Akrasia](card:Akrasia): acting against one's better judgment, \"knowing the better and doing the worse\"; Aristotle treats it as curable, a failure of habituation."
-        },
-        {
-          "t": "p",
-          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early."
-        },
-        {
-          "t": "p",
-          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): my label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
-        },
-        {
-          "t": "p",
-          "x": "[Temptation bundling (Milkman)](card:Temptation%20bundling%20%28Milkman%29): Milkman's method of pairing an instantly gratifying want with a valuable but effortful should."
-        },
-        {
-          "t": "p",
-          "x": "[Self-control training](card:Self-control%20training): the practice of doing small, regular self-control tasks in the hope of building a general capacity."
+          "x": "Milkman's method of pairing an instantly gratifying want with a valuable but effortful should is [temptation bundling](card:Temptation%20bundling%20%28Milkman%29). The practice of doing small, regular self-control tasks in the hope of building a general capacity is [self-control training](card:Self-control%20training)."
         },
         {
           "t": "h2",
-          "x": "Choice and who one is"
+          "x": "How choice makes a person"
         },
         {
           "t": "p",
-          "x": "[Decision](card:Decision): in Jaspers's account of existential freedom, decision involves considering possibilities and committing to a choice."
+          "x": "In Jaspers's account of existential freedom, [decision](card:Decision) involves considering possibilities and committing to a choice. Sartre's claim that a person is not a thing with a ready-made essence but a project, a stance kept taking toward the world, is [choice of self](card:Choice%20of%20self), and his account of what holds a person together, that beneath particular decisions lies one original choice of how to be, is [the originary choice](card:The%20originary%20choice)."
         },
         {
           "t": "p",
-          "x": "[Choice of self](card:Choice%20of%20self): Sartre: a person is not a thing with a ready-made essence but a project, a stance kept taking toward the world."
-        },
-        {
-          "t": "p",
-          "x": "[The originary choice](card:The%20originary%20choice): Sartre's account of what holds a person together: beneath particular decisions lies one original choice of how to be."
-        },
-        {
-          "t": "p",
-          "x": "[Moral dilemmas](card:Moral%20dilemmas): the Stanford Encyclopedia's definition: the agent is required to do each of two actions and cannot do both."
-        },
-        {
-          "t": "p",
-          "x": "[Moral dilemma research](card:Moral%20dilemma%20research): the study of judgment in cases where moral requirements conflict."
-        },
-        {
-          "t": "p",
-          "x": "[Choice Theory (William Glasser)](card:Choice%20Theory%20%28William%20Glasser%29): Glasser's proposal that behaviour is chosen to satisfy five basic needs."
+          "x": "The Stanford Encyclopedia's definition of the agent being required to do each of two actions and not being able to do both is [moral dilemmas](card:Moral%20dilemmas), and the study of judgment in cases where moral requirements conflict is [moral dilemma research](card:Moral%20dilemma%20research). Glasser's proposal that behaviour is chosen to satisfy five basic needs is [Choice Theory](card:Choice%20Theory%20%28William%20Glasser%29)."
         },
         {
           "t": "h",
@@ -9164,7 +9032,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment.\" ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/))",
+          "x": "\"evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment.\" ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/), [plain text](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=19739881&rettype=abstract&retmode=text))",
           "s": null
         },
         {
@@ -9190,7 +9058,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647))",
+          "x": "\"we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))",
           "s": null
         },
         {
@@ -9275,7 +9143,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, \"overestimating the intensity and duration of their emotional reactions to such events\" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))"
+          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, \"overestimating the intensity and duration of their emotional reactions to such events\" ([Wilson and Gilbert, Affective Forecasting: Knowing What to Want, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x), [author manuscript PDF, University of Florida](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/wilson-gilbert-cdips2005.pdf))"
         },
         {
           "t": "vs",
@@ -10127,7 +9995,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))",
+          "x": "Their meta-analysis covered \"63 conditions from 50 published and unpublished experiments\" with 5,036 participants, and they \"found a mean effect size of virtually zero but considerable variance between studies.\" ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))",
           "s": null
         },
         {
@@ -10276,7 +10144,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Commitment](card:Commitment): the intent to persist; in the goal-setting literature, commitment is the condition that lets difficult goals work ([Locke & Latham 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))."
+          "x": "[Commitment](card:Commitment): the intent to persist; in the goal-setting literature, commitment is a condition for difficult goals to work ([Locke & Latham 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))."
         },
         {
           "t": "p",
@@ -10300,7 +10168,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The theories above take one aim at a time. The unit can also be a life of aims. [Superordinate goals](card:Superordinate%20goals), the remedy demonstrated in the Robbers Cave experiment, are aims that outrank a rivalry and cannot be met by one side alone. [Personal projects](card:Personal%20projects), Brian Little's unit of analysis for personality, widen the lens to the extended pursuit a person actually cares about. A life holds many aims at once, and the shape of that collection is itself a choice."
+          "x": "How do several aims fit into one life? [Superordinate goals](card:Superordinate%20goals), the remedy demonstrated in the Robbers Cave experiment, are aims that outrank a rivalry and cannot be met by one side alone. [Personal projects](card:Personal%20projects), Brian Little's unit of analysis for personality, widen the lens to the extended pursuit a person actually cares about. A life holds many aims at once, and the shape of that collection is itself a choice."
         },
         {
           "t": "h2",
@@ -10356,7 +10224,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Aims can fail from the outside or from each other. [Goal conflict research](card:Goal%20conflict%20research) examines what happens when a person's own goals work against each other, and the interference goes beyond the practical: [unresolved-goal interference](card:Unresolved-goal%20interference) is the attentional load open goals keep imposing while they stay open. A familiar failure mode is [escalation of commitment](card:Escalation%20of%20commitment), the tendency to keep investing in a course of action that is going badly. Each of these names a way that staying the course can itself be the failure, which raises the question of when leaving is the better skill."
+          "x": "Aims can fail from the outside or from each other. [Goal conflict research](card:Goal%20conflict%20research) examines what happens when a person's own goals work against each other, and the interference goes beyond the practical: [unresolved-goal interference](card:Unresolved-goal%20interference) is the attentional load open goals keep imposing while they stay open. A familiar failure mode is [escalation of commitment](card:Escalation%20of%20commitment), the tendency to keep investing in a course of action that is going badly. Each of these names a way that staying the course can be a problem, which raises the question of when leaving is the better skill."
         },
         {
           "t": "h2",
@@ -10445,9 +10313,8 @@ window.fcDossiersData = {
           "x": "The shared question: when you commit to an aim, what exactly are you committed to, the result or your own conduct in pursuing it? Locke and Latham's account of goals puts the result first:"
         },
         {
-          "t": "q",
-          "x": "\"Because goals refer to future valued outcomes, the setting of goals is first and foremost a discrepancy-creating process. It implies discontent with one's present condition and the desire to attain an object or outcome.\" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))",
-          "s": null
+          "t": "p",
+          "x": "Locke and Latham describe the setting of goals as first and foremost a process that creates discrepancies: because goals refer to future valued outcomes, setting one implies discontent with the present. In their words, it \"implies discontent with one's present condition and the desire to attain an object or outcome\" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))."
         },
         {
           "t": "p",
@@ -10858,7 +10725,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"People attempt to gain control by bringing the environment into line with their wishes (primary control) and by bringing themselves into line with environmental forces (secondary control).\" ([Rothbaum, Weisz and Snyder, Journal of Personality and Social Psychology 1982, abstract](https://doi.org/10.1037/0022-3514.42.1.5))",
+          "x": "People attempt to gain control not only by bringing the environment into line with their wishes, which they call primary control, but also by bringing themselves into line with environmental forces, which they call secondary control ([Rothbaum, Weisz and Snyder, Changing the World and Changing the Self: A Two-Process Model of Perceived Control, Journal of Personality and Social Psychology 1982, abstract](https://doi.org/10.1037/0022-3514.42.1.5)).",
           "s": null
         },
         {
@@ -17542,7 +17409,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist.\" ([Klein et al. 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience))",
+          "x": "\"Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist.\" ([Klein et al. 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience), [Europe PMC record](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22Many%20Labs%204%22&format=json&resultType=core))",
           "s": null
         },
         {
@@ -17632,11 +17499,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Epicurus's argument in the [Letter to Menoeceus](http://www.epicurus.net/en/menoeceus.html) reasons that death is the privation of all sentience, so it cannot harm the person who no longer exists to be harmed:"
+          "x": "Epicurus's argument in the [Letter to Menoeceus](https://www.epicuros.gr/pages/en_texts_L_MENOIKEAS.htm) reasons that death is the privation of all sentience, so it cannot harm the person who no longer exists to be harmed:"
         },
         {
           "t": "q",
-          "x": "\"Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.\" ([Epicurus, Letter to Menoeceus](http://www.epicurus.net/en/menoeceus.html))",
+          "x": "\"Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://www.epicuros.gr/pages/en_texts_L_MENOIKEAS.htm))",
           "s": null
         },
         {
@@ -17658,6 +17525,48 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "These are not the same practice, and the traditions do not agree about which one to train. The Stoic version can collapse into apathy if misused; the Buddhist version can be read as detachment from things that can be lost; the acceptance research shows that the target itself is plural. I hold that the disagreement is real and not settled by the available evidence, and that a reader choosing a practice should know which of the three they are actually training."
+        },
+        {
+          "t": "h2",
+          "x": "Can anything be known if everything passes?"
+        },
+        {
+          "t": "p",
+          "x": "Plato's Socrates, in the [Cratylus](https://www.gutenberg.org/cache/epub/1616/pg1616.txt) in Jowett's translation, takes the flux seriously enough to follow it to its cost. Near the end he tells Cratylus:"
+        },
+        {
+          "t": "q",
+          "x": "\"Nor can we reasonably say, Cratylus, that there is knowledge at all, if everything is in a state of transition and there is nothing abiding; for knowledge too cannot continue to be knowledge unless continuing always to abide and exist.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He adds, in the same [passage](https://www.gutenberg.org/cache/epub/1616/pg1616.txt), that if the knower and the known exist always, \"then I do not think that they can resemble a process or flux,\" and he leaves open whether things have \"this eternal nature\" or whether the truth is what Heraclitus says."
+        },
+        {
+          "t": "p",
+          "x": "The flux doctrine itself reaches Socrates secondhand. [In the same dialogue](https://classics.mit.edu/Plato/cratylus.html) he reports that Heraclitus is supposed to say that all things are in motion and nothing at rest, and that you cannot go into the same water twice."
+        },
+        {
+          "t": "p",
+          "x": "The Dhammapada, in the [Buddharakkhita translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html), treats the same fact as the ground of the path:"
+        },
+        {
+          "t": "q",
+          "x": "\"'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The disagreement turns on what knowing requires. In Plato's argument knowledge needs an object that abides, so a pure flux would leave nothing to know. In the Dhammapada verse the knowledge in question is seeing that conditioned things are impermanent, and the two verses that follow say the same of unsatisfactoriness and of not-self. Flux does not undermine that seeing; seeing it clearly is the whole point of the verse."
+        },
+        {
+          "t": "p",
+          "x": "My lean, which is mine, is that the two are answering different questions. Plato asks what the objects of knowledge must be like; the Dhammapada asks what seeing change clearly does to a person. I am more persuaded by the second for a dossier about living, though Plato's worry stays alive for anyone who wants stable truths about what a life is."
+        },
+        {
+          "t": "p",
+          "x": "Limits: Socrates in the Cratylus does not commit to either side and calls the question hard to determine. The Dhammapada verse is read in one translation, and neither text is a direct reply to the other."
         },
         {
           "t": "h",
@@ -19177,7 +19086,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"For he is by nature a slave who is capable of belonging to another （and that is why he does so belong）, and who participates in reason so far as to apprehend it but not to possess it; for the animals other than man are subservient not to reason, by apprehending it, but to feelings.\" ([Aristotle, Politics 1.1254b, Rackham translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1254b))",
+          "x": "\"For he is by nature a slave who is capable of belonging to another (and that is why he does so belong), and who participates in reason so far as to apprehend it but not to possess it; for the animals other than man are subservient not to reason, by apprehending it, but to feelings.\" ([Aristotle, Politics 1.1254b, Rackham translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D1%3Asection%3D1254b))",
           "s": null
         },
         {

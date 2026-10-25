@@ -238,3 +238,5 @@ dossier_quote_verify.py 5 checked / 2 not found (down from 3).
 The two remaining not-found spans are the documented
 online.ucpress.edu extraction gap and the PMC6740004 blocked-fetch
 pattern, previously flagged.
+
+- 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Klein et al. 2022 (Many Labs 4) span failed because online.ucpress.edu sits behind a Cloudflare challenge. The article's abstract is in Europe PMC (retrieved via the REST API and opened; the span is verbatim in the abstract), so a Europe PMC record link was added as a second carrier. quote_verify clean.

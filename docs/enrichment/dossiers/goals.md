@@ -96,7 +96,7 @@ What the disagreement turns on is the standing of the critics' case: they hold t
 
 The shared question: when you commit to an aim, what exactly are you committed to, the result or your own conduct in pursuing it? Locke and Latham's account of goals puts the result first:
 
-> "Because goals refer to future valued outcomes, the setting of goals is first and foremost a discrepancy-creating process. It implies discontent with one's present condition and the desire to attain an object or outcome." ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))
+Locke and Latham describe the setting of goals as first and foremost a process that creates discrepancies: because goals refer to future valued outcomes, setting one implies discontent with the present. In their words, it "implies discontent with one's present condition and the desire to attain an object or outcome" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf)).
 
 Cicero's Cato gives the Stoic archer, whose end is the aiming and not the hit:
 

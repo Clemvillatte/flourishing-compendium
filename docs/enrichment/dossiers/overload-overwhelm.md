@@ -76,7 +76,7 @@ The shared question: past some point, does adding options make a person less lik
 
 A meta-analysis of the later literature found something different:
 
-> "In a meta-analysis of 63 conditions from 50 published and unpublished experiments (N = 5,036), we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))
+> Their meta-analysis covered "63 conditions from 50 published and unpublished experiments" with 5,036 participants, and they "found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647), [author copy](https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf))
 
 A second meta-analysis, built on 99 observations, reached a different overall result once it accounted for the conditions under which overload happens:
 

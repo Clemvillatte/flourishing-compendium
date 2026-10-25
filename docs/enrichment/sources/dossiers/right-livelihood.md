@@ -621,3 +621,5 @@ individually visible in the render; at check time the latest Pages
 deployment (6cb1acf91e) was still in_progress, and the earlier
 deployed asset predated the Weber fix. The local build contains it
 (node --check OK) and the deployment pipeline was mid-run.
+
+- 2026-10-25 10:52:34Z — typographical repair, pushed. The Aristotle Politics 1.1254b Rackham span contained fullwidth parentheses, which can never match an ASCII source page. They were replaced with ASCII parentheses. Perseus (perseus.tufts.edu) was returning a busy page to all automated fetchers during this pass, so the span could not be machine-reverified after the fix; the wording is otherwise untouched. Flagged for reverification once Perseus recovers.

@@ -338,3 +338,5 @@ normalised match fails. The dossier quote matches the printed page
 exactly. No text change; the artifact joins the documented standing
 exceptions. quote_verify remains 7 checked / 1 not found (this one,
 documented here).
+
+- 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Scheibehenne et al. 2010 block quote failed because PDF extraction renders "N =" as "N p". The quote was split into two verbatim spans ("63 conditions from 50 published and unpublished experiments" and "found a mean effect size of virtually zero but considerable variance between studies"), with the participant count moved to plain prose. Verified against the author-copy PDF at scheibehenne.com (opened). quote_verify clean.

@@ -201,3 +201,5 @@ instead of the page), so the span cannot match; the quote matches
 the live page exactly. No text change; the artifact joins the
 documented standing exceptions. quote_verify remains 8 checked /
 1 not found (this one, documented here).
+
+- 2026-10-25 10:52:34Z — repair, self-checked, pushed. The Wilson and Gilbert 2005 span failed because journals.sagepub.com returns 403 to automated fetchers. A fetchable author-manuscript copy of the same article was located at the University of Florida (bear.warrington.ufl.edu, opened; the span matches its extracted text under whitespace normalization) and added as a second carrier. The span itself is unchanged. quote_verify clean.
