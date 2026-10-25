@@ -83,9 +83,16 @@ All 55 pages above are cleaned of page-facing workflow jargon (band-by-band unde
 owning band's baton: w1j 21, w1f 8, w1v 5, w1d 4, w1m 2, w1l 2, w1b 2, w1c 2, w1e 1,
 w1g 1, w1s 1, w1w 1, w1z 1, w1ac 1, w1ae 1, w1af 1, ct1 1). Post-cleanup scan: 3
 remaining hits, all legitimate source language (MacIntyre's "inherited debts and
-obligations" x2 in Role ethics; "worry session" in Worry research). Four short pages
-were expanded from their own verified page quotes to clear the 150-word prose bar
-(Ready-to-hand, Recovery science, Erikson's psychosocial theory, Naive realism).
+obligations" x2 in Role ethics; "worry session" in Worry research). Seventeen pages were expanded from their own verified page quotes to clear the
+150-word prose bar: the 13 w1j short-prose repairs (Grace, Timing as wisdom, Proper
+pride, Following nature's rhythm, The contemplative life, Self-serving attribution
+bias, Variability in practice, Predictive processing, The avoidance of suffering,
+The still mirror, Perceived partner responsiveness, Perspectivism, The witness) and
+4 routed pages (Ready-to-hand, Recovery science, Erikson's psychosocial theory,
+Naive realism). Carriers for the two routed expansions were opened and checked
+(McLeod/Simply Psychology; Ross & Ward 1996 Internet Archive scan); the w1j repairs
+rest on quotes already verified on their pages, with Clark 2013, Watson's Zhuangzi
+ch. 7 and Ross's NE X.7 carrier-checked during review.
 Supervisor: the workflow-language cleanup is complete and needs no further routing. This
 record claims only that — page-facing workflow jargon is gone from the 55 pages and
 validators pass. It is not a claim of scholarly source-fidelity or prose approval;
