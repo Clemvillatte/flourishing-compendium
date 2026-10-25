@@ -39,7 +39,6 @@ Affect · Psychological science
 
 ## Cited in parallels
 
-- - - - - - - - - 
 ## Cited in philosophy parallels
 [[AF069 — Recognise the hedonic treadmill — adaptation is inevitable; plan for it]]
 [[D080 — Dissolve rigid right and wrong (qiwu)]]

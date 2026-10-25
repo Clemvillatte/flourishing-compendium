@@ -29,7 +29,6 @@ My application: in adversity, cultivated support is not generic comfort but a ma
 Sociocultural · Psychological science
 
 ## Cited in parallels
-- - 
 ## Cited in philosophy parallels
 [[BE053 — Learn to give and receive support — social support behaviours]]
 [[A068 — Maintain friendships through presence in misfortune]]

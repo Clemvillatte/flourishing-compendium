@@ -36,4 +36,4 @@ The same abstract records what had made the idea attractive: in mammals the proc
 
 ## Cited in parallels
 
-- - - [[BI006 — Understand that neurotransmitters are not simple cause-and-effect — complexity matters]]
+- [[BI006 — Understand that neurotransmitters are not simple cause-and-effect — complexity matters]]

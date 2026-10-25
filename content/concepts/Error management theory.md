@@ -44,6 +44,6 @@ The theory's documented cases are ordinary social inferences: reading sexual int
 
 ## Cited in parallels
 
-- - - - - - - - - - [[ST284 — The Lunchbox That Never Meets]]
+- [[ST284 — The Lunchbox That Never Meets]]
 [[SO057 — Design workplaces for flourishing]]
 ## Cited in philosophy parallels

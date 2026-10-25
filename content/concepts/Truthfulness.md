@@ -31,4 +31,3 @@ The truthful person is the mean between the boaster and the mock-modest dissembl
 ## Cited in philosophy parallels
 
 - [[R035 — Practise pono]]
-- - 

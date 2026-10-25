@@ -48,7 +48,6 @@ Sociocultural · Psychological science
 
 ## Cited in parallels
 
-- - - - - - - - - - - - - …and 6 more
 
 ## Cited in philosophy parallels
 

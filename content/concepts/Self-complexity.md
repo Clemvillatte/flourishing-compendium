@@ -48,4 +48,3 @@ Consider a student whose week runs through lecture halls, a part-time job and a 
 ## Cited in psychology parallels
 
 - [[P062 — Expect multiple selves — and coordinate them]]
-- - 

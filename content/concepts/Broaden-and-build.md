@@ -69,7 +69,6 @@ AF061 "Cultivate positive affect deliberately — it broadens and builds" carrie
 - [[B093 — Nurture joy in practice (piti)]]
 - [[B118 — Cultivate gladness — joy is part of the path]]
 - [[SP061 — Defend cheerfulness]]
-- - 
 ## Cited in philosophy parallels
 
 

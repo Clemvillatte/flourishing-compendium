@@ -56,4 +56,4 @@ If belonging is a need rather than a taste, two practical consequences follow, a
 [[PP029 — Build responsive relationships]]
 ## Cited in philosophy parallels
 
-- - [[PP049 — Build social support as a buffer]]
+- [[PP049 — Build social support as a buffer]]

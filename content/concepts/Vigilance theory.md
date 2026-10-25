@@ -34,7 +34,6 @@ Attention · Psychological science
 
 ## Cited in parallels
 
-- - - - - - - - - - - - - …and 3 more
 ## Cited in philosophy parallels
 [[AT003 — Recognise that attention is a limited resource — it can be depleted and fatigued]]
 [[CO066 — Learn to take the third-person perspective — distanced self-talk improves reasoning]]

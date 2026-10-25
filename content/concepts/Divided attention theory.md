@@ -41,6 +41,5 @@ The claim that capacity "splits across concurrent tasks" and that performance fa
 
 ## Cited in parallels
 
-- - [[D071 — Practice undivided attention]]
-- - - 
+- [[D071 — Practice undivided attention]]
 ## Cited in philosophy parallels

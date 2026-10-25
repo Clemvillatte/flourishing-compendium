@@ -46,4 +46,3 @@ The body principles give the modern instances: BI040 on caffeine, BI015 on sleep
 
 - [[BI015 — Learn sleep hygiene — behaviours that support sleep]]
 - [[BI040 — Learn to manage caffeine — it affects anxiety and sleep]]
-- - - 

@@ -44,5 +44,4 @@ The model also includes scaling back a goal when progress is poor: trading it fo
 ## Cited in psychology parallels
 
 - [[S111 — Handle luxury without corruption]]
-- - - - - - - 
 ## Cited in philosophy parallels

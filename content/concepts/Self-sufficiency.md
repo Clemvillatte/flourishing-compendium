@@ -38,4 +38,3 @@ The two readings make the concept useful rather than merely historical. Aristotl
 ## Cited in philosophy parallels
 
 - [[B174 — Own little]]
-- - - - 

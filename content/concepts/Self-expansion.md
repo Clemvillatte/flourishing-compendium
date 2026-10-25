@@ -52,5 +52,4 @@ Illustrative scenario, not a reported study result: a couple takes their first d
 ## Cited in psychology parallels
 
 - [[R119 — Practise ecological self]]
-- - - 
 ## Cited in philosophy parallels

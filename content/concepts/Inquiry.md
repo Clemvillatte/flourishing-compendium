@@ -45,7 +45,6 @@ Thinking begins in what may fairly enough be called a forked-road situation, "a 
 - [[P051 — Take error as information]] — reads surprise and failure as new material for the next round of inquiry
 - [[P132]] — Addams' account of reform as experiment: the settlement's careful investigations guiding its immediate doings
 
-- - - 
 ## Cited in philosophy parallels
 
 ## Related concepts

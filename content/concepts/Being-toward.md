@@ -31,4 +31,3 @@ The entry explains what anticipatory being-toward-death does: the anticipation o
 ## Cited in philosophy parallels
 
 - [[E023 — Practise care (Sorge)]]
-- - - - - 

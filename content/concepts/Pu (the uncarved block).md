@@ -55,8 +55,7 @@ Pu is not ignorance or childish naivety. In chapter 28 it pairs with the "simple
 - [[B062 — Rest in the unborn (Bankei)]]
 - [[Y108 — Transcend the strands while acting]]
 - [[K069 — Seek the formless self]]
-- - [[D016 — Distrust names and labels]]
+- [[D016 — Distrust names and labels]]
 - [[D022 — Subtract, don't add]]
 - [[D023 — Unlearn daily]]
 - [[D101 — Drop pretense — stop standing on tiptoe]]
-- - - 

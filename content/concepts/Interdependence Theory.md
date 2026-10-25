@@ -41,4 +41,4 @@ Sociocultural · Psychological science
 
 ## Cited in parallels
 
-- - - - - - [[SO039 — Treat cooperation as an evolutionary strategy]]
+- [[SO039 — Treat cooperation as an evolutionary strategy]]

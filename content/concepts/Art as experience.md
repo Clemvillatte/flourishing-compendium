@@ -29,7 +29,6 @@ The book's next sentence makes the point in an image: mountain peaks do not floa
 - [[A009 — Pursue kalokagathia — nobility-and-goodness as a unified ideal]]
 - [[A035 — Cultivate art and craft (techne)]]
 - [[A110 — Use music and the arts for moral education]]
-- - - 
 ## Cited in psychology parallels
 
 

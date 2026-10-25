@@ -30,6 +30,3 @@ Inequity in either direction, under-reward or over-reward, creates a tension the
 - [[A096 — Practise distributive justice]]
 
 ## Cited in philosophy parallels
-
-
-- - - 

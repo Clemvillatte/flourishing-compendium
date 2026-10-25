@@ -73,7 +73,6 @@ The opinion, not the event, is where the trouble enters — my [[Judgment adds t
 - [[D038 — Keep stillness — stillness masters restlessness]]
 - [[D050 — Keep a mirror-mind]]
 - [[B096 — Practice even-mindedness toward all experience (equanimity as faculty)]]
-- - - - 
 ## Cited in philosophy parallels
 
 “Upekkha (equanimity)” — Buddhism, Four Brahmaviharas.

@@ -90,7 +90,6 @@ self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBet
 - [[B164 — Extend non-harm to yourself]]
 - [[P150 — Accept incompleteness as constitutive]]
 - [[R076 — Practise care for the self]]
-- - - - - - - - - - - - - - 
 ## Cited in philosophy parallels
 
 
@@ -98,4 +97,4 @@ self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBet
 
 
 
-- 
+-

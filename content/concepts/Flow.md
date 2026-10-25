@@ -69,13 +69,12 @@ The weekly protected hour: one activity, one clear goal, feedback visible in the
 - [[D057 — Enter flow]]
 - [[B049 — Rest in no-mind (mushin)]]
 - [[P082 — Cultivate skill — knowing-how that flows]]
-- - - 
 ## Other formulations in this library
 
 
 
 - optimal experience with full attentional absorption (Csikszentmihalyi, 1990; Nakamura & Csikszentmihalyi, 2014)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- -
 
 these are the conditions that enable full attentional absorption (Csikszentmihalyi, 1990).
 - [[AT026 — Learn to enter flow — the state of full attentional absorption]]

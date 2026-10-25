@@ -45,5 +45,5 @@ In Spinoza's account, joy and sadness concern transitions to greater and lesser 
 ## Cited in philosophy parallels
 
 - [[D107 — Trust your own nature]]
-- - [[SP010 — Know yourself as striving]]
-- - [[SP031 — Read anger as blocked striving with a wounded self-regard]]
+- [[SP010 — Know yourself as striving]]
+- [[SP031 — Read anger as blocked striving with a wounded self-regard]]

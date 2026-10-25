@@ -62,13 +62,13 @@ Its contemplative cognates are [[Sati]] (bare attention that withholds the gloss
 
 [[E006 — Practise the epoché in daily life]]
 [[E012 — Practise the reduction as ongoing]]
-- - - - - - - [[X001 — Practice equipollence deliberately]]
+- [[X001 — Practice equipollence deliberately]]
 ## Cited in philosophy parallels
 
 - [[B011 — Make mindfulness the master tool (sati)]]
 - [[B039 — Practice the four foundations of mindfulness (satipatthana)]]
 - [[E001 — Practise the phenomenological reduction]]
-- - -
+- -
 
 “Epoché as practice” — Husserl, Ideas I.
 [[D046 — Practice fasting of the mind (xinzhai)]]

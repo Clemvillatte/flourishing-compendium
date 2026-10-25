@@ -52,4 +52,3 @@ The attention principles operationalise it: AT007 on attention shaping experienc
 - [[AT007 — Understand that attention shapes experience — what you attend to grows]]
 - [[AT024 — Cultivate attentional presence — fully attend to what you are doing]]
 - [[SE028 — Learn mindful self-awareness — hold your experience without over-identifying]]
-- - - - - 

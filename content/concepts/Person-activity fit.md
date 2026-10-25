@@ -38,6 +38,6 @@ Two friends take up running. One loves it and it takes. The other drags through 
 
 ## Cited in psychology parallels
 
-- - [[Y124 — Combine the paths by disposition]]
-- 
+- [[Y124 — Combine the paths by disposition]]
+-
 ## Cited in philosophy parallels

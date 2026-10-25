@@ -70,8 +70,7 @@ Take one task done under pressure and look for one reason inside it that is your
 - [[P090 — Participate — do with, not to]]
 - [[E046 — Practise resoluteness (Entschlossenheit)]]
 - [[E075 — Practise the free man (l'homme libre)]]
-- - - - - - - [[R022 — Practise self-determination]]
-- - - - - - - - - - - 
+- [[R022 — Practise self-determination]]
 ## Cited in philosophy parallels
 
 - [[R022 — Practise self-determination]]

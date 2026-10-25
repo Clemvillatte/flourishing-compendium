@@ -44,7 +44,6 @@ Sociocultural · Psychological science
 
 ## Cited in parallels
 
-- - - - - - - - 
 ## Cited in philosophy parallels
 [[PP011 — Use the broaden-and-build mechanism]]
 [[A004 — Become virtuous by doing virtuous acts]]

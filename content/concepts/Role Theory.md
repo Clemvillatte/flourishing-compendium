@@ -34,7 +34,6 @@ Industrial Organizational · Psychological science
 
 ## Cited in parallels
 
-- - - - - - - - - - - - - …and 78 more
 ## Cited in philosophy parallels
 [[SO006 — Treat the social environment as a designable context]]
 [[BE049 — Prioritise social connection — it is a basic need and health behaviour]]

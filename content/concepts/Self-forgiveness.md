@@ -36,6 +36,5 @@ The definition adapts Michael McCullough's three motivations for interpersonal f
 ## Cited in psychology parallels
 
 - [[S066 — Be gentle with yourself in the review]]
-- - - 
 
 ## Cited in philosophy parallels

@@ -33,4 +33,3 @@ The positive claim follows: the rest of mankind, Hume ventures, "are nothing but
 
 - [[B075 — The thinker is another thought]]
 - [[B119 — The self is a chariot — parts without an essence]]
-- - - 

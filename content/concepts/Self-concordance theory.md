@@ -64,6 +64,5 @@ Both sources are abstracts, so the effect sizes and methods are not covered here
 - [[A002 — Live according to your function (ergon)]]
 - [[S005 — Live according to nature]]
 - [[S078 — Do not let others' opinions govern you]]
-- - [[SE014 — Know your values — what actually matters to you]]
-- - 
+- [[SE014 — Know your values — what actually matters to you]]
 ## Cited in philosophy parallels

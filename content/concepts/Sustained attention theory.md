@@ -41,5 +41,4 @@ Attention · Psychological science
 - [[AT003 — Recognise that attention is a limited resource — it can be depleted and fatigued]]
 - [[AT006 — Recognise that attention is trainable — it can be cultivated]]
 - [[AT008 — Recognise that attention is embodied — physical state affects attentional capacity]]
-- - - - - - …and 9 more
 ## Cited in philosophy parallels

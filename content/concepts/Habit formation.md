@@ -100,4 +100,3 @@ Because the association is with context rather than goals, habit formation works
 - [[S133 — Accept that you will fail and return]]
 - [[PP072 — Design the environment to support the practice]]
 - [[A042 — Recognise that virtue is a hexis, not a feeling]]
-- - 

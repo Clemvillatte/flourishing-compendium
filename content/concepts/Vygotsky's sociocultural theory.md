@@ -41,7 +41,6 @@ Developmental · Psychological science
 **Sociocultural theory** — Vygotsky — cognition and identity are formed in social interaction mediated by language and cultural tools.
 Sociocultural · Psychological science
 ## Cited in parallels
-- - - - - - - - - - - - - …and 65 more
 [[SO044 — Treat the WEIRD critique as a standing corrective]]
 [[SO034 — Treat knowledge as social]]
 [[SO011 — Treat the sociocultural level as plural]]

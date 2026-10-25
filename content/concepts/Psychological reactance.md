@@ -44,7 +44,6 @@ In everyday terms, the push-back is proportional to the stake: the review notes 
 ## Field
 Sociocultural · Psychological science
 ## Cited in parallels
-- - - - - 
 ## Cited in philosophy parallels
 [[MO011 — Recognise that motivation can be autonomous or controlled — the source matters]]
 [[MO010 — Understand that motivation has a physiological substrate — energy and health matter]]
