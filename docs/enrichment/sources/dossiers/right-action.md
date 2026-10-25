@@ -573,3 +573,35 @@ Checks: dossier_check.py exit 0; density 0 dense; quote_verify 15/0.
   narration).
 - Status reconciliation: batches/dos21.json top-level and nested
   states both read in_progress until final verification.
+
+## Advisor QC round 3 (same session) — repairs and completed reads
+
+- REMOVED the remaining invented bridges: "The traditions differ on
+  where the training is located" (asserted disagreement removed; the
+  two entries now stand on their own glosses); "When the character is
+  not yet formed..." (unestablished condition; the two skills are now
+  distinguished as instructions for the next act, per their own
+  definitions, with Kierkegaard kept for the person-side contrast);
+  "Role ethics goes further" (comparative hierarchy removed); "The
+  summons can also come from nowhere in particular" (unsupported
+  Heidegger framing removed).
+- SVADHARMA/BODHISATTVA/UPAYA paragraph: the three now distinguished
+  by what each addresses (whose duty / who the conduct is for / how the
+  teaching meets the case), drawn directly from their card glosses.
+- K184 CORRECTED: the previous "the card itself marks the question
+  open" softened the result; now states the card's actual record —
+  the laboratory test is small (sixteen people, six sessions),
+  favoured opposite action for sadness and guilt or shame, and showed
+  NO advantage for anxiety or anger in that design; "stay long enough
+  for the emotion to move" (anticipated outcome) replaced by "stay in
+  the act, recording afterwards whether the intensity changed".
+- K290 and K216 protocols now read in FULL (the round-2 "read in full"
+  claim was premature for these two — completed this round); entries
+  rewritten to their actual protocols (weekly slot chosen in advance,
+  the generate-act-retain loop, adjust-not-abandon; the four steps
+  written out beforehand, askable-refusable, same steps run on the
+  attacker's words).
+- GF EXEMPLAR read end-to-end this round (295 lines).
+- Checks re-run after repairs: checker exit 0 (64 links, 20 headers,
+  14 carriers), density 0 dense, link-set comparison zero missing,
+  quotes byte-identical.
