@@ -95,19 +95,9 @@ The Stoics, finally, distrust scale rather than fixity or one-sidedness. Their c
 
 ## Where the traditions genuinely disagree
 
-### Is the path's own view something to cultivate or to relinquish?
+### Is there a next world?
 
-The early discourses put a view at the head of the training and tell the practitioner to develop it: right view is the forerunner, and its holding culminates skillful qualities, in the MN 117 passage quoted above. The Madhyamaka tradition reads the treatment of views differently. Nāgārjuna's verse is blunt:
-
-> "The victorious ones have said that emptiness is the relinquishing of all views. For whomever emptiness is a view, that one will accomplish nothing." ([MMK 13.8, Garfield translation](https://justdharma.org/the-relinquishing-of-all-views-nagarjuna/))
-
-The Diamond Sutra points the same way: it instructs knowing and viewing all dharmas without setting up the perception of a dharma ([Diamond Sutra, section 31, Conze rendering](http://www.nyx.net/~dbachman/texts/Diamond.txt)). So one pole of the Buddhist tradition grades views and cultivates the best of them; the other treats views as what the medicine must remove, and its verse warns that emptiness itself, held as a view, accomplishes nothing. What the tension turns on is the referent of "view": the graded training view of MN 117, or the reifying grasp that the Madhyamaka texts attack. Whether the two texts conflict or describe two stages of one training is what the sources held here leave open.
-
-The later tradition left the tension its own answer. The Stanford Encyclopedia records it: emptiness is "a corrective to a mistaken view of how the world exists", and "the theory of emptiness is not to be regarded as an ultimately true theory either" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)). I lean toward reading the two texts as levels of one training, because the Diamond Sutra's own wording still directs the viewing; but the verse's flat "all views" keeps the question honest, and the sources held here do not settle it.
-
-### Do actions bear karmic fruit beyond this life?
-
-The everyday form of right view is a set of claims about what is real: that there is what is given, that actions have fruits, that there is this world and the next, in the MN 117 passage quoted above. MN 60 grounds each claim as fact:
+MN 60 presents right view as a claim about what is real, and grounds it:
 
 > "Because there actually is the next world, the view of one who thinks, 'There is a next world' is his right view." ([MN 60, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))
 
@@ -115,17 +105,33 @@ The sutta's king reports the opposing position from Ajita Kesakambali, one of th
 
 > "...there is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions. There is no this world, no next world, no mother, no father, no spontaneously reborn beings; no brahmans or contemplatives who, faring rightly and practicing rightly, proclaim this world and the next after having directly known and realized it for themselves." ([DN 2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html))
 
-The two positions answer one question, whether the moral order outlasts this life, and they leave no middle ground. Ajita presses the denial to its end: "With the break-up of the body, the wise and the foolish alike are annihilated, destroyed" ([DN 2](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)). The Buddhist texts add a wager for those who cannot verify the answer themselves: "If there is the next world, then this venerable person — on the breakup of the body, after death — will reappear in a good destination, a heavenly world", so that "this safe-bet teaching, when well grasped & adopted... covers both sides" ([MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html)).
+The two positions answer one question, and they leave no middle ground. Ajita presses the denial to its end: "With the break-up of the body, the wise and the foolish alike are annihilated, destroyed" ([DN 2](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)). The Buddhist texts add a wager for those who cannot verify the answer themselves: "If there is the next world, then this venerable person — on the breakup of the body, after death — will reappear in a good destination, a heavenly world", so that "this safe-bet teaching, when well grasped & adopted... covers both sides" ([MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html)).
 
-A limit belongs in the reading: Ajita's teaching reaches us through the king's report inside a Buddhist discourse, which bounds how the denial itself can be checked. The wager is the part of the presentation I trust most: it asks for the commitments without claiming the seeing, and MN 117's grading, quoted above, already names the higher form that does claim the seeing.
+I would distinguish MN 60's conditional practical argument from its assertion that a next world exists. The wager supplies a reason for choosing how to act under uncertainty; it does not by itself verify that assertion. Here Ajita's teaching is presented through the king's report within a Buddhist discourse.
 
-### Are the truths tasks or beliefs?
+### Does right view affirm a person?
 
-SN 56.11, quoted above, assigns each truth a task: stress is to be comprehended, its origination abandoned, its cessation realized, the path developed. MN 60 presents right view as assent to statements, and as persuading others of them:
+The early schools split over what right view says about the one who holds it. The Kathāvatthu, the Theravāda Abhidhamma's book of disputed points, opens its whole survey with this question. The Theravādin asks whether the person is known as a real and ultimate fact; the Puggalavādin answers yes. Asked next whether the person is known in the same way as a real and ultimate fact, he answers, "Nay, that cannot truly be said." The Theravādin then challenges whether those two answers can consistently stand together. ([Kathāvatthu I.1, Aung and Rhys Davids translation, archive.org scan](https://archive.org/details/pointsofcontrove00mogg))
 
-> "Because there actually is the next world... when he persuades another that 'There is a next world,' that is persuasion in what is true Dhamma." ([MN 60, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))
+The Puggalavāda schools — the Vātsīputrīyas and Sammitīyas named in that record — affirmed a person that a modern account of the school describes as neither identical with the aggregates nor separate from them ([Wikipedia, Pudgalavāda](https://en.wikipedia.org/wiki/Pudgalavada)). The Theravādin's refutation concludes that the affirmation must be withdrawn: the person is not known as a real and ultimate fact. So on this question the schools disagree about what right view says about the one who holds it, and the disagreement is recorded as worth a whole chapter of the Abhidhamma's dispute book. The chariot story below (Nagasena and the chariot) carries the same issue in narrative form.
 
-The two emphases sit in the same canon's presentations of right view. On one reading, holding right view is performing the tasks; on the other, it is agreeing that certain statements about the world are true and teaching them. The task reading rests on the sutta's own verbs; the propositional reading rests on MN 60's repeated grounding of right view in what "there actually is". The passages do not show the two readings excluding each other; what they show is a canon that speaks both ways about what holding a view is. What remains unresolved is whether the tasks are what the truths are, or a discipline added to beliefs that are themselves the load-bearing part.
+A limit belongs in the reading, the same one as for Ajita in DN 2: the Puggalavāda's voice reaches us through the Theravāda's own debate record, so what survives is the position the opponents were willing to grant them, not their own treatises.
+
+### Can a causally produced thing have an intrinsic nature?
+
+The Abhidharma schools held that things can be both. In Jan Westerhoff's Stanford Encyclopedia account of the background, primary existents "constitute the objective and irreducible constituents of the world out there", and the Ābhidharmikas "saw no conflict between objects being causally produced and their possessing svabhāva" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)). The Madhyamaka rejection is aimed at exactly that combination, in the opening verses of the MMK's chapter on self-nature:
+
+> "The occurrence of self-nature through causes and conditions is not proper. Self-nature that has occurred as a result of causes and conditions would be something that is made. Again, how could there be a self-nature that is made? Indeed, an unmade self-nature is also non-contingent upon another." ([MMK 15.1-2, Kalupahana translation, scan](https://antilogicalism.com/wp-content/uploads/2017/07/mulamadhyamakakarika.pdf))
+
+The logic is that anything produced is made, and a made self-nature is a contradiction in terms; Kalupahana's commentary on the chapter notes that in refuting substance Nāgārjuna relies on the Buddha's middle position, dependent arising — the same SN 12.15 middle quoted in the body above. Westerhoff's entry puts the Madhyamaka view of truth this way: "there can be no such thing as ultimate truth, a theory describing how things really are, independent of our interests and conceptual resources employed in describing it" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)).
+
+What the disagreement turns on is whether being produced by conditions excludes having a nature of one's own. The two sides answer with opposite verdicts, and the MMK's verses are addressed to the Abhidharma position as the entry records it. What remains unresolved is which side the sutta's own test — watching stress arise and pass — presupposes. The passages quoted here do not settle it.
+
+## Related questions
+
+MN 117 calls right view the forerunner. MMK 13.8 describes emptiness as "the relinquishing of all views" and warns against making emptiness itself a view. The comparison raises a question about what each passage means by "view"; the opened passages do not establish that Nāgārjuna rejects the cultivation MN 117 recommends. ([MN 117](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html); [MMK 13.8, Garfield translation](https://justdharma.org/the-relinquishing-of-all-views-nagarjuna/))
+
+SN 56.11 assigns tasks to the four truths; MN 60 also gives right view propositional content through its affirmation of a next world. Neither passage says that performing those tasks excludes accepting propositions. How conviction and practice belong together remains a useful question, but these passages do not establish rival answers. ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html); [MN 60](https://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html))
 
 ## Practice: variation, selection, retention
 

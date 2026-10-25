@@ -747,3 +747,58 @@ path's right view standing — needs an opened carrier documenting the dispute;
 if the SEP Nagarjuna entry's no-thesis section carries it, that is the
 vehicle. Per-dossier exception remains available ONLY after genuine effort,
 flagged on the Owner-Board.
+
+## Round-3 repairs + final draft state (worker-pplx-dos18-1025f, 2026-10-25 ~05:15Z)
+
+INCIDENT (honesty record): the uncommitted v3 draft edits and two ledger
+appends were LOST when api_push's internal rebase discarded them during the
+b5985458 push (uncommitted work does not survive the script's sync). Reapplied
+this session; lesson recorded: commit before every api_push.
+
+Advisor QC round 3 (verdict: not cleared; repairs required) — ALL APPLIED:
+(a) the Kathavatthu composite quotation replaced with the prose dialogue form
+    (the ellipsis had transferred the "yes" answer's question onto the "nay"
+    answer); the printed page was INSPECTED VISUALLY before recording speaker
+    names: PDF pages 70-71 of the archive.org scan rendered to PNG and read —
+    "[§ 1] Theravādin.—Is 'the person' known in the sense of a real and
+    ultimate fact?" (p.8), "Puggalavādin.—Yes." (p.9), "Th.—Is the person
+    known in the same way² as a real and ultimate fact is known?", "P.—Nay,
+    that cannot truly be said." — names confirmed with macrons as printed.
+(b) Pudgalavada pole: the Wikipedia samyagdrsti QUOTATION dropped per the
+    advisor; the Kathavatthu now carries both poles (explicitly Theravadin
+    presentation), with the same provenance limit noted as Ajita in DN 2;
+    Wikipedia kept as an unquoted linked context for the schools' doctrine.
+(c) Q3 bounded to the advisor's heading "Can a causally produced thing have
+    an intrinsic nature?": overclaims removed ("the seeing the path trains is
+    a discrimination...", "treats right view as landing on ultimate
+    constituents", the unrestricted ultimate-truth denial); the SEP quote kept
+    WITH its qualification and attributed to Westerhoff; MMK 15.1-2 in
+    Kalupahana's translation is the primary rejection pole — QUOTE-VERIFY
+    EXCEPTION (documented): the antilogicalism.com carrier is a PDF the
+    verifier cannot parse; the verses were raw-extracted AND visually verified
+    from the rendered scan pages (PDF pages 246-247, book pages 228-229) this
+    session: "The occurrence of self-nature through causes and conditions is
+    not proper. Self-nature that has occurred as a result of causes and
+    conditions would be something that is made. Again, how could there be a
+    self-nature that is made? Indeed, an unmade self-nature is also
+    non-contingent upon another." Kalupahana's commentary sentence ("In
+    refuting the conception of substance, Nāgārjuna relies heavily upon the
+    Buddha's own conception of a 'middle position,' namely, 'dependent
+    arising.'") also visually verified on the same pages.
+(d) "chariot story above" -> "below" (the Story section follows).
+(e) stranded conflict markers removed from OWNER-BOARD (two ">>>>>>>" lines,
+    verified with rg, none remain); baton heartbeat committed and pushed
+    (b5985458).
+
+FINAL DRAFT STATE: "Where the traditions genuinely disagree" with THREE
+substantiated questions — Is there a next world? (MN 60 vs DN 2, both carriers
+opened, quotes verbatim) / Does right view affirm a person? (Kathavatthu I.1
+carrying both poles, visually verified) / Can a causally produced thing have an
+intrinsic nature? (SEP/Westerhoff account of the Abhidharma position + MMK
+15.1-2 primary rejection) — plus "Related questions" carrying the advisor's
+round-2 bounded texts verbatim (MN 117 vs MMK 13.8; SN 56.11 vs MN 60).
+Checks on the final draft: dossier_check exit 0 (42 links, 18 headers, 23
+carriers), density 0, quote_verify 18 checked / 2 NOT FOUND, both documented
+exceptions (archive.org PDF page, antilogicalism PDF), both raw-verified and
+visually verified this session. Awaiting advisor round 4 for clearance to
+apply to the live dossier and rebuild.
