@@ -65,3 +65,28 @@ most people rather than known others — the construct's definition).
 
 Checks: dossier_check.py exit 0. Editorial review only; no carriers or
 cards freshly opened this pass. Scope: candidate-line review.
+
+## Card-fidelity sweep (2026-10-25, worker-pplx-gfva-1025a, dos2 baton)
+
+Following the advisor QC direction after two misattributed entries were
+found in the fear dossier, all 35 concept and principle entries in this
+dossier's map sections were compared against their linked cards (card
+files opened and read side by side with the glosses). Every gloss
+matches its card, including the Dugas-Budner intolerance pair, mindful
+uncertainty, Keats's negative capability, distress tolerance,
+equanimity, beginner's mind, Ericsson's deliberate practice, Socratic
+ignorance, aporia, Descartes' doubt as method, the Peirce doubt
+cluster (genuine doubt, irritation of doubt), the Zen great doubt,
+Pyrrhonist skepticism about the obvious, Hume's backgammon passage,
+Baron's actively open-minded thinking, the impermanence cluster, the
+control cluster (dichotomy of control, locus of control, secondary
+control), antifragility, the hope cluster (hope, elpis, hope tempered
+by prudence), Emerson's self-trust, generalized trust, Rilke's das
+Offene, Camus's absurd, Beauvoir's ambiguity pair, probabilistic
+thinking, risk literacy, and Gigerenzer's fast-and-frugal heuristics.
+No mismatches found; no edits made. This strengthens the earlier
+voice-audit review (all 6 candidates kept): the flagged constructions
+are card-faithful as well as doctrinally sourced.
+
+Checks: dossier_check.py exit 0 (run again this session). Editorial
+review only; no external carriers freshly opened this pass.
